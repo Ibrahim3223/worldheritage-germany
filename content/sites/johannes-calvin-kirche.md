@@ -1,20 +1,39 @@
 ---
-title: "Johannes-Calvin-Kirche"
-site_name: "Johannes-Calvin-Kirche"
-slug: "johannes-calvin-kirche"
-region: "Hesse"
-
-# Location
+title: Johannes-Calvin-Kirche
+site_name: Johannes-Calvin-Kirche
+slug: johannes-calvin-kirche
+region: Hesse
 latitude: 49.4384
 longitude: 8.57496
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1301599"
-description: "The Johannes-Calvin-Kirche is a striking example of Gothic Revival architecture located in the vibrant city of Mannheim, Germany. This church, a focal p..."
+- church building
+- religious site
+wikidata_id: Q1301599
+description: The Johannes-Calvin-Kirche is a striking example of Gothic Revival architecture
+  located in the vibrant city of Mannheim, Germany. This church, a focal p...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg/1200px-Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg/1200px-Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim-Friedrichsfeld-Reformierte-Kirche.png/1200px-Mannheim-Friedrichsfeld-Reformierte-Kirche.png
+image_srcset:
+  Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg/400px-Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg/800px-Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg/1200px-Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg/1920px-Mannheim%20Friedrichsfeld%20Johannes%20Calvin%20Kirche%2020100818.jpg
+  Mannheim Friedrichsfeld Johannes Calvin Kirche 20100818.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg/400px-Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg/800px-Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg/1200px-Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg/1920px-Mannheim_Friedrichsfeld_Johannes_Calvin_Kirche_20100818.jpg
+  Mannheim-Friedrichsfeld-Reformierte-Kirche.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim-Friedrichsfeld-Reformierte-Kirche.png/400px-Mannheim-Friedrichsfeld-Reformierte-Kirche.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim-Friedrichsfeld-Reformierte-Kirche.png/800px-Mannheim-Friedrichsfeld-Reformierte-Kirche.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim-Friedrichsfeld-Reformierte-Kirche.png/1200px-Mannheim-Friedrichsfeld-Reformierte-Kirche.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim-Friedrichsfeld-Reformierte-Kirche.png/1920px-Mannheim-Friedrichsfeld-Reformierte-Kirche.png
 ---
 
 ## Overview

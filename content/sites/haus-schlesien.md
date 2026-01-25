@@ -1,19 +1,49 @@
 ---
-title: "Haus Schlesien"
+title: Haus Schlesien
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6964
 longitude: 7.23083
 images:
-  - "/images-sites/haus-schlesien/01-dcb799fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg/1200px-Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Haus_Schlesien_2.jpg/1200px-Haus_Schlesien_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haus-Schlesien-Luftaufnahme.jpg/1200px-Haus-Schlesien-Luftaufnahme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1200px-Heisterbacherrott_Haus_Schlesien_(01).png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heisterbacherrott_Haus_Schlesien_(02).png/1200px-Heisterbacherrott_Haus_Schlesien_(02).png
+image_srcset:
+  Naturdenkmal Platanengruppe Haus Schlesien.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg/400px-Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg/800px-Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg/1200px-Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg/1920px-Naturdenkmal_Platanengruppe_Haus_Schlesien.jpg
+  Haus Schlesien 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Haus_Schlesien_2.jpg/400px-Haus_Schlesien_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Haus_Schlesien_2.jpg/800px-Haus_Schlesien_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Haus_Schlesien_2.jpg/1200px-Haus_Schlesien_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Haus_Schlesien_2.jpg/1920px-Haus_Schlesien_2.jpg
+  Haus-Schlesien-Luftaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haus-Schlesien-Luftaufnahme.jpg/400px-Haus-Schlesien-Luftaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haus-Schlesien-Luftaufnahme.jpg/800px-Haus-Schlesien-Luftaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haus-Schlesien-Luftaufnahme.jpg/1200px-Haus-Schlesien-Luftaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haus-Schlesien-Luftaufnahme.jpg/1920px-Haus-Schlesien-Luftaufnahme.jpg
+  Heisterbacherrott Haus Schlesien (01).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/400px-Heisterbacherrott_Haus_Schlesien_(01).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/800px-Heisterbacherrott_Haus_Schlesien_(01).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1200px-Heisterbacherrott_Haus_Schlesien_(01).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Heisterbacherrott_Haus_Schlesien_(01).png/1920px-Heisterbacherrott_Haus_Schlesien_(01).png
+  Heisterbacherrott Haus Schlesien (02).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heisterbacherrott_Haus_Schlesien_(02).png/400px-Heisterbacherrott_Haus_Schlesien_(02).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heisterbacherrott_Haus_Schlesien_(02).png/800px-Heisterbacherrott_Haus_Schlesien_(02).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heisterbacherrott_Haus_Schlesien_(02).png/1200px-Heisterbacherrott_Haus_Schlesien_(02).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Heisterbacherrott_Haus_Schlesien_(02).png/1920px-Heisterbacherrott_Haus_Schlesien_(02).png
 ---
 
 ## Overview

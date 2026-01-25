@@ -1,19 +1,49 @@
 ---
-title: "Havel"
+title: Havel
 date: 2026-01-23
 draft: false
-description: "river in northeastern Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in northeastern Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 53.4678
 longitude: 12.9356
 images:
-  - "/images-sites/havel/01-532b752e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg/1200px-Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HVL_05-14_img_13_Speicher_Aussicht.jpg/1200px-HVL_05-14_img_13_Speicher_Aussicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klappbrücke_Zehdenick_öffnet.jpg/1200px-Klappbrücke_Zehdenick_öffnet.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gasthaus_Zur_Fähre.jpg/1200px-Gasthaus_Zur_Fähre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kraniche_im_Müritz_Nationalpark.jpg/1200px-Kraniche_im_Müritz_Nationalpark.jpg
+image_srcset:
+  Die Havel an der Einfahrt zum Zierzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg/400px-Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg/800px-Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg/1200px-Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg/1920px-Die_Havel_an_der_Einfahrt_zum_Zierzsee.jpg
+  HVL 05-14 img 13 Speicher Aussicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HVL_05-14_img_13_Speicher_Aussicht.jpg/400px-HVL_05-14_img_13_Speicher_Aussicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HVL_05-14_img_13_Speicher_Aussicht.jpg/800px-HVL_05-14_img_13_Speicher_Aussicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HVL_05-14_img_13_Speicher_Aussicht.jpg/1200px-HVL_05-14_img_13_Speicher_Aussicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/HVL_05-14_img_13_Speicher_Aussicht.jpg/1920px-HVL_05-14_img_13_Speicher_Aussicht.jpg
+  Klappbrücke Zehdenick öffnet.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klappbrücke_Zehdenick_öffnet.jpg/400px-Klappbrücke_Zehdenick_öffnet.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klappbrücke_Zehdenick_öffnet.jpg/800px-Klappbrücke_Zehdenick_öffnet.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klappbrücke_Zehdenick_öffnet.jpg/1200px-Klappbrücke_Zehdenick_öffnet.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Klappbrücke_Zehdenick_öffnet.jpg/1920px-Klappbrücke_Zehdenick_öffnet.jpg
+  Gasthaus Zur Fähre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gasthaus_Zur_Fähre.jpg/400px-Gasthaus_Zur_Fähre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gasthaus_Zur_Fähre.jpg/800px-Gasthaus_Zur_Fähre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gasthaus_Zur_Fähre.jpg/1200px-Gasthaus_Zur_Fähre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gasthaus_Zur_Fähre.jpg/1920px-Gasthaus_Zur_Fähre.jpg
+  Kraniche im Müritz Nationalpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kraniche_im_Müritz_Nationalpark.jpg/400px-Kraniche_im_Müritz_Nationalpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kraniche_im_Müritz_Nationalpark.jpg/800px-Kraniche_im_Müritz_Nationalpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kraniche_im_Müritz_Nationalpark.jpg/1200px-Kraniche_im_Müritz_Nationalpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kraniche_im_Müritz_Nationalpark.jpg/1920px-Kraniche_im_Müritz_Nationalpark.jpg
 ---
 
 ## Overview

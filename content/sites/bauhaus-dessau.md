@@ -1,19 +1,49 @@
 ---
-title: "Bauhaus Dessau"
+title: Bauhaus Dessau
 date: 2026-01-23
 draft: false
-description: "building complex in Dessau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building complex in Dessau, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8392
 longitude: 12.2267
 images:
-  - "/images-sites/bauhaus-dessau/01-6eba13b8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg/1200px-Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg/1200px-Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6265_Dessau.JPG/1200px-6265_Dessau.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg/1200px-Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg/1200px-Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg
+image_srcset:
+  Außenansichten des Bauhaus-Gebäudes in Dessau 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg/400px-Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg/800px-Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg/1200px-Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg/1920px-Außenansichten_des_Bauhaus-Gebäudes_in_Dessau_07.jpg
+  Das Direktorenzimmer im Bauhausgebäude Dessau - Rekonstruktion des Zustands um 1926 (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg/400px-Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg/800px-Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg/1200px-Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg/1920px-Das_Direktorenzimmer_im_Bauhausgebäude_Dessau_-_Rekonstruktion_des_Zustands_um_1926_(04).jpg
+  6265 Dessau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6265_Dessau.JPG/400px-6265_Dessau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6265_Dessau.JPG/800px-6265_Dessau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6265_Dessau.JPG/1200px-6265_Dessau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6265_Dessau.JPG/1920px-6265_Dessau.JPG
+  Innenaufnahmen aus dem Bauhausgebäude mit Blick nach außen (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg/400px-Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg/800px-Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg/1200px-Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg/1920px-Innenaufnahmen_aus_dem_Bauhausgebäude_mit_Blick_nach_außen_(04).jpg
+  Rowac Anzeige im Bauhaus Dessau Prospekt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg/400px-Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg/800px-Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg/1200px-Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg/1920px-Rowac_Anzeige_im_Bauhaus_Dessau_Prospekt.jpg
 ---
 
 ## Overview

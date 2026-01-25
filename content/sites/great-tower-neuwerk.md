@@ -1,19 +1,49 @@
 ---
-title: "Great Tower Neuwerk"
+title: Great Tower Neuwerk
 date: 2026-01-23
 draft: false
-description: "former beacon, watchtower and lighthouse in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: former beacon, watchtower and lighthouse in Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.91522222
 longitude: 8.49583333
 images:
-  - "/images-sites/great-tower-neuwerk/01-4a9b2dd9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuwerker_Turm_und_Staatsscheune.jpg/1200px-Neuwerker_Turm_und_Staatsscheune.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/1200px-Leuchtturm_Neuwerk_2018.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leuchtturm_Neuwerk_(Herrengarten).jpg/1200px-Leuchtturm_Neuwerk_(Herrengarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Neuwerk_2018_by-RaBoe_241.jpg/1200px-Neuwerk_2018_by-RaBoe_241.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg/1200px-Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg
+image_srcset:
+  Neuwerker Turm und Staatsscheune.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuwerker_Turm_und_Staatsscheune.jpg/400px-Neuwerker_Turm_und_Staatsscheune.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuwerker_Turm_und_Staatsscheune.jpg/800px-Neuwerker_Turm_und_Staatsscheune.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuwerker_Turm_und_Staatsscheune.jpg/1200px-Neuwerker_Turm_und_Staatsscheune.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neuwerker_Turm_und_Staatsscheune.jpg/1920px-Neuwerker_Turm_und_Staatsscheune.jpg
+  Leuchtturm Neuwerk 2018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/400px-Leuchtturm_Neuwerk_2018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/800px-Leuchtturm_Neuwerk_2018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/1200px-Leuchtturm_Neuwerk_2018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Leuchtturm_Neuwerk_2018.jpg/1920px-Leuchtturm_Neuwerk_2018.jpg
+  Leuchtturm Neuwerk (Herrengarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leuchtturm_Neuwerk_(Herrengarten).jpg/400px-Leuchtturm_Neuwerk_(Herrengarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leuchtturm_Neuwerk_(Herrengarten).jpg/800px-Leuchtturm_Neuwerk_(Herrengarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leuchtturm_Neuwerk_(Herrengarten).jpg/1200px-Leuchtturm_Neuwerk_(Herrengarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leuchtturm_Neuwerk_(Herrengarten).jpg/1920px-Leuchtturm_Neuwerk_(Herrengarten).jpg
+  Neuwerk 2018 by-RaBoe 241.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Neuwerk_2018_by-RaBoe_241.jpg/400px-Neuwerk_2018_by-RaBoe_241.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Neuwerk_2018_by-RaBoe_241.jpg/800px-Neuwerk_2018_by-RaBoe_241.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Neuwerk_2018_by-RaBoe_241.jpg/1200px-Neuwerk_2018_by-RaBoe_241.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Neuwerk_2018_by-RaBoe_241.jpg/1920px-Neuwerk_2018_by-RaBoe_241.jpg
+  Blick auf das Schullandheim und den Leuchtturm von Neuwerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg/400px-Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg/800px-Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg/1200px-Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg/1920px-Blick_auf_das_Schullandheim_und_den_Leuchtturm_von_Neuwerk.jpg
 ---
 
 ## Overview

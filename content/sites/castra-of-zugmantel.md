@@ -1,27 +1,49 @@
 ---
-title: "Castra of Zugmantel"
+title: Castra of Zugmantel
 date: 2026-01-23
 draft: false
-description: "Roman fort"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman fort
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.18977
 longitude: 8.20364
-
-# Images
 images:
-  - "/images-sites/castra-of-zugmantel/01-abd8f73d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Limes_-_Zugmantel_amphitheatre_(8130433995).jpg/1200px-Limes_-_Zugmantel_amphitheatre_(8130433995).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kastell_Zugmantel_010.JPG/1200px-Kastell_Zugmantel_010.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kastell_Zugmantel_017.JPG/1200px-Kastell_Zugmantel_017.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kastell_Zugmantel_020.JPG/1200px-Kastell_Zugmantel_020.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taunusstein_-_Limes_Wachturm.jpg/1200px-Taunusstein_-_Limes_Wachturm.jpg
+image_srcset:
+  Limes - Zugmantel amphitheatre (8130433995).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Limes_-_Zugmantel_amphitheatre_(8130433995).jpg/400px-Limes_-_Zugmantel_amphitheatre_(8130433995).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Limes_-_Zugmantel_amphitheatre_(8130433995).jpg/800px-Limes_-_Zugmantel_amphitheatre_(8130433995).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Limes_-_Zugmantel_amphitheatre_(8130433995).jpg/1200px-Limes_-_Zugmantel_amphitheatre_(8130433995).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Limes_-_Zugmantel_amphitheatre_(8130433995).jpg/1920px-Limes_-_Zugmantel_amphitheatre_(8130433995).jpg
+  Kastell Zugmantel 010.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kastell_Zugmantel_010.JPG/400px-Kastell_Zugmantel_010.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kastell_Zugmantel_010.JPG/800px-Kastell_Zugmantel_010.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kastell_Zugmantel_010.JPG/1200px-Kastell_Zugmantel_010.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kastell_Zugmantel_010.JPG/1920px-Kastell_Zugmantel_010.JPG
+  Kastell Zugmantel 017.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kastell_Zugmantel_017.JPG/400px-Kastell_Zugmantel_017.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kastell_Zugmantel_017.JPG/800px-Kastell_Zugmantel_017.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kastell_Zugmantel_017.JPG/1200px-Kastell_Zugmantel_017.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kastell_Zugmantel_017.JPG/1920px-Kastell_Zugmantel_017.JPG
+  Kastell Zugmantel 020.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kastell_Zugmantel_020.JPG/400px-Kastell_Zugmantel_020.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kastell_Zugmantel_020.JPG/800px-Kastell_Zugmantel_020.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kastell_Zugmantel_020.JPG/1200px-Kastell_Zugmantel_020.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kastell_Zugmantel_020.JPG/1920px-Kastell_Zugmantel_020.JPG
+  Taunusstein - Limes Wachturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taunusstein_-_Limes_Wachturm.jpg/400px-Taunusstein_-_Limes_Wachturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taunusstein_-_Limes_Wachturm.jpg/800px-Taunusstein_-_Limes_Wachturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taunusstein_-_Limes_Wachturm.jpg/1200px-Taunusstein_-_Limes_Wachturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Taunusstein_-_Limes_Wachturm.jpg/1920px-Taunusstein_-_Limes_Wachturm.jpg
 ---
 
 ## Overview

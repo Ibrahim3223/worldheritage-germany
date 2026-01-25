@@ -1,19 +1,49 @@
 ---
-title: "Eigelsteintorburg"
+title: Eigelsteintorburg
 date: 2026-01-23
 draft: false
-description: "Stadttorburg der mittelalterlichen Stadtmauer von Köln"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: Stadttorburg der mittelalterlichen Stadtmauer von Köln
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9493
 longitude: 6.95681
 images:
-  - "/images-sites/eigelsteintorburg/01-58214718-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg/1200px-Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5946704.Erwin_Quedenfeldt.jpg/1200px-5946704.Erwin_Quedenfeldt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg/1200px-Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1200px-Köln_eigelsteintorburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koeln_eigelsteintorburg_stadtseite.jpg/1200px-Koeln_eigelsteintorburg_stadtseite.jpg
+image_srcset:
+  Cölner Thorburgen und Befestigungen 1180 - 1882, Blatt 46.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg/400px-Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg/800px-Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg/1200px-Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg/1920px-Cölner_Thorburgen_und_Befestigungen_1180_-_1882,_Blatt_46.jpg
+  5946704.Erwin Quedenfeldt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5946704.Erwin_Quedenfeldt.jpg/400px-5946704.Erwin_Quedenfeldt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5946704.Erwin_Quedenfeldt.jpg/800px-5946704.Erwin_Quedenfeldt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5946704.Erwin_Quedenfeldt.jpg/1200px-5946704.Erwin_Quedenfeldt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/5946704.Erwin_Quedenfeldt.jpg/1920px-5946704.Erwin_Quedenfeldt.jpg
+  Köln - Eigelsteintor beim Abbruch der Stadtmauer 1882, RBA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg/400px-Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg/800px-Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg/1200px-Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg/1920px-Köln_-_Eigelsteintor_beim_Abbruch_der_Stadtmauer_1882,_RBA.jpg
+  Köln eigelsteintorburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/400px-Köln_eigelsteintorburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/800px-Köln_eigelsteintorburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1200px-Köln_eigelsteintorburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Köln_eigelsteintorburg.jpg/1920px-Köln_eigelsteintorburg.jpg
+  Koeln eigelsteintorburg stadtseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koeln_eigelsteintorburg_stadtseite.jpg/400px-Koeln_eigelsteintorburg_stadtseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koeln_eigelsteintorburg_stadtseite.jpg/800px-Koeln_eigelsteintorburg_stadtseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koeln_eigelsteintorburg_stadtseite.jpg/1200px-Koeln_eigelsteintorburg_stadtseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Koeln_eigelsteintorburg_stadtseite.jpg/1920px-Koeln_eigelsteintorburg_stadtseite.jpg
 ---
 
 ## Overview

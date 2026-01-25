@@ -13,9 +13,9 @@ regions:
 latitude: 48.7797
 longitude: 9.17833
 images:
-  - "/images-sites/schauspielbuehnen-in-stuttgart/01-78a460e5-800w.webp"
-  - "/images-sites/schauspielbuehnen-in-stuttgart/02-edadd0f3-800w.webp"
-  - "/images-sites/schauspielbuehnen-in-stuttgart/03-74f8b4af-800w.webp"
+  - "/images/schauspielbuehnen-in-stuttgart/01-78a460e5-800w.webp"
+  - "/images/schauspielbuehnen-in-stuttgart/02-edadd0f3-800w.webp"
+  - "/images/schauspielbuehnen-in-stuttgart/03-74f8b4af-800w.webp"
 ---
 
 ## Overview

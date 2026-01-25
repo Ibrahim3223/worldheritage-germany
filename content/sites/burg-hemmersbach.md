@@ -1,27 +1,49 @@
 ---
-title: "Burg Hemmersbach"
+title: Burg Hemmersbach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9189
 longitude: 6.70436
-
-# Images
 images:
-  - "/images-sites/burg-hemmersbach/01-c12e52ea-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg/1200px-Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/1200px-Burg-hemmersbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horrem-Burg-Hemmersbach-014.JPG/1200px-Horrem-Burg-Hemmersbach-014.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Hemmersbach,_Innenhof_und_Tor.JPG/1200px-Burg_Hemmersbach,_Innenhof_und_Tor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Hemmersbach.JPG/1200px-Burg_Hemmersbach.JPG
+image_srcset:
+  Stadtarchiv Kerpen, 0002, Burg Hemmersbach (Horrem) von schräg oben, 1964.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg/400px-Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg/800px-Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg/1200px-Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg/1920px-Stadtarchiv_Kerpen,_0002,_Burg_Hemmersbach_(Horrem)_von_schräg_oben,_1964.jpg
+  Burg-hemmersbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/400px-Burg-hemmersbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/800px-Burg-hemmersbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/1200px-Burg-hemmersbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg-hemmersbach.jpg/1920px-Burg-hemmersbach.jpg
+  Horrem-Burg-Hemmersbach-014.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horrem-Burg-Hemmersbach-014.JPG/400px-Horrem-Burg-Hemmersbach-014.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horrem-Burg-Hemmersbach-014.JPG/800px-Horrem-Burg-Hemmersbach-014.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horrem-Burg-Hemmersbach-014.JPG/1200px-Horrem-Burg-Hemmersbach-014.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Horrem-Burg-Hemmersbach-014.JPG/1920px-Horrem-Burg-Hemmersbach-014.JPG
+  Burg Hemmersbach, Innenhof und Tor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Hemmersbach,_Innenhof_und_Tor.JPG/400px-Burg_Hemmersbach,_Innenhof_und_Tor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Hemmersbach,_Innenhof_und_Tor.JPG/800px-Burg_Hemmersbach,_Innenhof_und_Tor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Hemmersbach,_Innenhof_und_Tor.JPG/1200px-Burg_Hemmersbach,_Innenhof_und_Tor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Hemmersbach,_Innenhof_und_Tor.JPG/1920px-Burg_Hemmersbach,_Innenhof_und_Tor.JPG
+  Burg Hemmersbach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Hemmersbach.JPG/400px-Burg_Hemmersbach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Hemmersbach.JPG/800px-Burg_Hemmersbach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Hemmersbach.JPG/1200px-Burg_Hemmersbach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Hemmersbach.JPG/1920px-Burg_Hemmersbach.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.5495
 longitude: 9.9558
 images:
-  - "/images-sites/reeperbahn-station/01-e5c04a88-800w.webp"
-  - "/images-sites/reeperbahn-station/02-d4c2964f-800w.webp"
-  - "/images-sites/reeperbahn-station/03-54f8b8a3-800w.webp"
+  - "/images/reeperbahn-station/01-e5c04a88-800w.webp"
+  - "/images/reeperbahn-station/02-d4c2964f-800w.webp"
+  - "/images/reeperbahn-station/03-54f8b8a3-800w.webp"
 ---
 
 ## Overview

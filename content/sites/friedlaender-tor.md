@@ -1,20 +1,49 @@
 ---
-title: "Friedländer Tor"
+title: Friedländer Tor
 date: 2026-01-23
 draft: false
-description: "city gate in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: city gate in Neubrandenburg, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5591
 longitude: 13.2655
 images:
-  - "/images-sites/friedlaender-tor/02-b215e76e-800w.webp"
-  - "/images-sites/friedlaender-tor/03-6a095942-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg/1200px-Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg/1200px-Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg/1200px-Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Friedland_Gate,_Neubrandenburg_-_diagrame.jpg/1200px-Friedland_Gate,_Neubrandenburg_-_diagrame.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg/1200px-Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg
+image_srcset:
+  Фридландские ворота (внутри) - Калининград (2025г.).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg/400px-Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg/800px-Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg/1200px-Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg/1920px-Фридландские_ворота_(внутри)_-_Калининград_(2025г.).jpg
+  Фридландские ворота (внутри) - Калининград - 2025г.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg/400px-Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg/800px-Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg/1200px-Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg/1920px-Фридландские_ворота_(внутри)_-_Калининград_-_2025г.jpg
+  Фридландские ворота - сатуя рыцаря Зигфрида фон Фейхтвангена - Калининград - 2025г.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg/400px-Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg/800px-Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg/1200px-Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg/1920px-Фридландские_ворота_-_сатуя_рыцаря_Зигфрида_фон_Фейхтвангена_-_Калининград_-_2025г.jpg
+  Friedland Gate, Neubrandenburg - diagrame.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Friedland_Gate,_Neubrandenburg_-_diagrame.jpg/400px-Friedland_Gate,_Neubrandenburg_-_diagrame.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Friedland_Gate,_Neubrandenburg_-_diagrame.jpg/800px-Friedland_Gate,_Neubrandenburg_-_diagrame.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Friedland_Gate,_Neubrandenburg_-_diagrame.jpg/1200px-Friedland_Gate,_Neubrandenburg_-_diagrame.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Friedland_Gate,_Neubrandenburg_-_diagrame.jpg/1920px-Friedland_Gate,_Neubrandenburg_-_diagrame.jpg
+  Friedland Gate, Neubrandenburg - diagram (side view).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg/400px-Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg/800px-Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg/1200px-Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg/1920px-Friedland_Gate,_Neubrandenburg_-_diagram_(side_view).jpg
 ---
 
 ## Overview

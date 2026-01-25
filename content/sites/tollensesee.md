@@ -13,7 +13,7 @@ regions:
 latitude: 53.507222222
 longitude: 13.211388888
 images:
-  - "/images-sites/tollensesee/01-e48ce236-800w.webp"
+  - "/images/tollensesee/01-e48ce236-800w.webp"
 ---
 
 ## Overview

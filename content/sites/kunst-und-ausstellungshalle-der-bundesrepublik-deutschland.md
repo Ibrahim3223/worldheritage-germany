@@ -21,7 +21,7 @@ longitude: 7.12203
 
 # Images
 images:
-  - "/images-sites/kunst-und-ausstellungshalle-der-bundesrepublik-deutschland/01-9c525e89-800w.webp"
+  - "/images/kunst-und-ausstellungshalle-der-bundesrepublik-deutschland/01-9c525e89-800w.webp"
 ---
 
 ## Overview

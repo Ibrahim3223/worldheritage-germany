@@ -1,19 +1,50 @@
 ---
-title: "Church in Groß Trebbow"
-site_name: "Church in Groß Trebbow"
-slug: "church-in-gross-trebbow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Groß Trebbow
+site_name: Church in Groß Trebbow
+slug: church-in-gross-trebbow
+region: Mecklenburg-Vorpommern
 latitude: 53.7087
 longitude: 11.3598
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244338"
-description: "The Church in Groß Trebbow, a striking example of Brick Gothic architecture, stands as a testament to the enduring spirit of religious and cultural life..."
+- cultural site
+wikidata_id: Q1244338
+description: The Church in Groß Trebbow, a striking example of Brick Gothic architecture,
+  stands as a testament to the enduring spirit of religious and cultural life...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG/1200px-Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Groß_Trebbow_Kirche_Orgel_(03).jpg/1200px-Groß_Trebbow_Kirche_Orgel_(03).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1200px-Groß_Trebbow_Kirche_2013-03-02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Groß_Trebbow_Kirche_2013-03-02_14.JPG/1200px-Groß_Trebbow_Kirche_2013-03-02_14.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gross_Trebbow_Kirche_2008-11-13_014.jpg/1200px-Gross_Trebbow_Kirche_2008-11-13_014.jpg
+image_srcset:
+  Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG/400px-Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG/800px-Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG/1200px-Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG/1920px-Gro%C3%9F%20Trebbow%20Kirche%202013-03-02.JPG
+  Groß Trebbow Kirche Orgel (03).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Groß_Trebbow_Kirche_Orgel_(03).jpg/400px-Groß_Trebbow_Kirche_Orgel_(03).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Groß_Trebbow_Kirche_Orgel_(03).jpg/800px-Groß_Trebbow_Kirche_Orgel_(03).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Groß_Trebbow_Kirche_Orgel_(03).jpg/1200px-Groß_Trebbow_Kirche_Orgel_(03).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Groß_Trebbow_Kirche_Orgel_(03).jpg/1920px-Groß_Trebbow_Kirche_Orgel_(03).jpg
+  Groß Trebbow Kirche 2013-03-02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/400px-Groß_Trebbow_Kirche_2013-03-02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/800px-Groß_Trebbow_Kirche_2013-03-02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1200px-Groß_Trebbow_Kirche_2013-03-02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Groß_Trebbow_Kirche_2013-03-02.JPG/1920px-Groß_Trebbow_Kirche_2013-03-02.JPG
+  Groß Trebbow Kirche 2013-03-02 14.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Groß_Trebbow_Kirche_2013-03-02_14.JPG/400px-Groß_Trebbow_Kirche_2013-03-02_14.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Groß_Trebbow_Kirche_2013-03-02_14.JPG/800px-Groß_Trebbow_Kirche_2013-03-02_14.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Groß_Trebbow_Kirche_2013-03-02_14.JPG/1200px-Groß_Trebbow_Kirche_2013-03-02_14.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Groß_Trebbow_Kirche_2013-03-02_14.JPG/1920px-Groß_Trebbow_Kirche_2013-03-02_14.JPG
+  Gross Trebbow Kirche 2008-11-13 014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gross_Trebbow_Kirche_2008-11-13_014.jpg/400px-Gross_Trebbow_Kirche_2008-11-13_014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gross_Trebbow_Kirche_2008-11-13_014.jpg/800px-Gross_Trebbow_Kirche_2008-11-13_014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gross_Trebbow_Kirche_2008-11-13_014.jpg/1200px-Gross_Trebbow_Kirche_2008-11-13_014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gross_Trebbow_Kirche_2008-11-13_014.jpg/1920px-Gross_Trebbow_Kirche_2008-11-13_014.jpg
 ---
 
 ## Overview

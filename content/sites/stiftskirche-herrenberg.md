@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2348780"
 description: "Stiftskirche Herrenberg, a remarkable church building located in Herrenberg, within the Stuttgart Government Region of Baden-Württemberg, Germany, stand..."
 images:
-  - "/images-sites/stiftskirche-herrenberg/01-41add4e2-1920w.webp"
-  - "/images-sites/stiftskirche-herrenberg/02-fa4f26d9-1920w.webp"
-  - "/images-sites/stiftskirche-herrenberg/03-80ba040a-1920w.webp"
+  - "/images/stiftskirche-herrenberg/01-41add4e2-1920w.webp"
+  - "/images/stiftskirche-herrenberg/02-fa4f26d9-1920w.webp"
+  - "/images/stiftskirche-herrenberg/03-80ba040a-1920w.webp"
 ---
 
 ## Overview

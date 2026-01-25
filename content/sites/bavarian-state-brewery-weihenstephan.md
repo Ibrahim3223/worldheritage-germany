@@ -1,27 +1,43 @@
 ---
-title: "Bavarian State Brewery Weihenstephan"
+title: Bavarian State Brewery Weihenstephan
 date: 2026-01-23
 draft: false
-description: "brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.396111111
 longitude: 11.729166666
-
-# Images
 images:
-  - "/images-sites/bavarian-state-brewery-weihenstephan/01-16e54392-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg/1200px-Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg/1200px-Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg/1200px-Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brauerei_Weihenstephan.jpg/1200px-Brauerei_Weihenstephan.jpg
+image_srcset:
+  Weihenstephaner Hefe Weissbier (Bayerische Staatsbrauerei Weihenstephan).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg/400px-Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg/800px-Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg/1200px-Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg/1920px-Weihenstephaner_Hefe_Weissbier_(Bayerische_Staatsbrauerei_Weihenstephan).jpg
+  Bayrische Staatsbrauerei Weihenstephan - Weihenstephaner Festbier.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg/400px-Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg/800px-Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg/1200px-Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg/1920px-Bayrische_Staatsbrauerei_Weihenstephan_-_Weihenstephaner_Festbier.jpg
+  Weihenstephaner Hefeweissbier Alkoholfrei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg/400px-Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg/800px-Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg/1200px-Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg/1920px-Weihenstephaner_Hefeweissbier_Alkoholfrei.jpg
+  Brauerei Weihenstephan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brauerei_Weihenstephan.jpg/400px-Brauerei_Weihenstephan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brauerei_Weihenstephan.jpg/800px-Brauerei_Weihenstephan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brauerei_Weihenstephan.jpg/1200px-Brauerei_Weihenstephan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Brauerei_Weihenstephan.jpg/1920px-Brauerei_Weihenstephan.jpg
 ---
 
 ## Overview 

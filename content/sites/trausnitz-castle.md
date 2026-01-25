@@ -21,9 +21,9 @@ longitude: 12.152121628
 
 # Images
 images:
-  - "/images-sites/trausnitz-castle/01-6f79bee8-800w.webp"
-  - "/images-sites/trausnitz-castle/02-70acf10a-800w.webp"
-  - "/images-sites/trausnitz-castle/03-61b747d6-800w.webp"
+  - "/images/trausnitz-castle/01-6f79bee8-800w.webp"
+  - "/images/trausnitz-castle/02-70acf10a-800w.webp"
+  - "/images/trausnitz-castle/03-61b747d6-800w.webp"
 ---
 
 ## Overview

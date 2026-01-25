@@ -1,19 +1,49 @@
 ---
-title: "Burg Bichishausen"
+title: Burg Bichishausen
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.333055555
 longitude: 9.499722222
 images:
-  - "/images-sites/burg-bichishausen/01-b1d76ffd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg/1200px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg/1200px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schwaebische_alb_2008_039.jpg/1200px-Schwaebische_alb_2008_039.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bichishausen2.jpg/1200px-Bichishausen2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kasteel_van_Bichishausen.jpg/1200px-Kasteel_van_Bichishausen.jpg
+image_srcset:
+  Ruine der Burg Bichishausen -Aussenansicht. Blick von Bichishausen (7507181270).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg/400px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg/800px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg/1200px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg/1920px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181270).jpg
+  Ruine der Burg Bichishausen -Aussenansicht. Blick von Bichishausen (7507181888).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg/400px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg/800px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg/1200px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg/1920px-Ruine_der_Burg_Bichishausen_-Aussenansicht._Blick_von_Bichishausen_(7507181888).jpg
+  Schwaebische alb 2008 039.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schwaebische_alb_2008_039.jpg/400px-Schwaebische_alb_2008_039.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schwaebische_alb_2008_039.jpg/800px-Schwaebische_alb_2008_039.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schwaebische_alb_2008_039.jpg/1200px-Schwaebische_alb_2008_039.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schwaebische_alb_2008_039.jpg/1920px-Schwaebische_alb_2008_039.jpg
+  Bichishausen2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bichishausen2.jpg/400px-Bichishausen2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bichishausen2.jpg/800px-Bichishausen2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bichishausen2.jpg/1200px-Bichishausen2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bichishausen2.jpg/1920px-Bichishausen2.jpg
+  Kasteel van Bichishausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kasteel_van_Bichishausen.jpg/400px-Kasteel_van_Bichishausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kasteel_van_Bichishausen.jpg/800px-Kasteel_van_Bichishausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kasteel_van_Bichishausen.jpg/1200px-Kasteel_van_Bichishausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kasteel_van_Bichishausen.jpg/1920px-Kasteel_van_Bichishausen.jpg
 ---
 
 ## Overview

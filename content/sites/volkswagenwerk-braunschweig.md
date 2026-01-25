@@ -13,7 +13,7 @@ regions:
 latitude: 52.29361111
 longitude: 10.52305556
 images:
-  - "/images-sites/volkswagenwerk-braunschweig/01-c8ddab6a-800w.webp"
+  - "/images/volkswagenwerk-braunschweig/01-c8ddab6a-800w.webp"
 ---
 
 ## Overview

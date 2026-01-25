@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244835"
 description: "The Village Church of Zarpen stands as a striking example of Brick Gothic architecture in Schleswig-Holstein, Germany. This church, constructed primaril..."
 images:
-  - "/images-sites/village-church-zarpen/01-dde9dee5-1920w.webp"
-  - "/images-sites/village-church-zarpen/02-f0a785e1-1920w.webp"
-  - "/images-sites/village-church-zarpen/03-9d4643dc-1920w.webp"
+  - "/images/village-church-zarpen/01-dde9dee5-1920w.webp"
+  - "/images/village-church-zarpen/02-f0a785e1-1920w.webp"
+  - "/images/village-church-zarpen/03-9d4643dc-1920w.webp"
 ---
 
 ## Overview

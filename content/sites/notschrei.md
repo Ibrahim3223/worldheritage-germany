@@ -13,7 +13,7 @@ regions:
 latitude: 47.87569889
 longitude: 7.91000611
 images:
-  - "/images-sites/notschrei/01-6fed087a-800w.webp"
+  - "/images/notschrei/01-6fed087a-800w.webp"
 ---
 
 ## Overview

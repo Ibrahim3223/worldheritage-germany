@@ -1,21 +1,49 @@
 ---
-title: "Gutshaus Rumpshagen"
+title: Gutshaus Rumpshagen
 date: 2026-01-23
 draft: false
-description: ""
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: ''
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5074
 longitude: 12.957
 images:
-  - "/images-sites/gutshaus-rumpshagen/01-fe4e3760-800w.webp"
-  - "/images-sites/gutshaus-rumpshagen/02-4ba589ae-800w.webp"
-  - "/images-sites/gutshaus-rumpshagen/03-3305f298-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg/1200px-19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RumpshagenGutshaus2019.jpg/1200px-RumpshagenGutshaus2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg/1200px-20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rumpshagen_2010-09-03_054.JPG/1200px-Rumpshagen_2010-09-03_054.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg/1200px-20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+image_srcset:
+  19870510120NR Rumpshagen (Ankershagen) Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg/400px-19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg/800px-19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg/1200px-19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg/1920px-19870510120NR_Rumpshagen_(Ankershagen)_Schloß.jpg
+  RumpshagenGutshaus2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RumpshagenGutshaus2019.jpg/400px-RumpshagenGutshaus2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RumpshagenGutshaus2019.jpg/800px-RumpshagenGutshaus2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RumpshagenGutshaus2019.jpg/1200px-RumpshagenGutshaus2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RumpshagenGutshaus2019.jpg/1920px-RumpshagenGutshaus2019.jpg
+  20030708480DR Rumpshagen (Ankershagen) Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg/400px-20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg/800px-20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg/1200px-20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg/1920px-20030708480DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+  Rumpshagen 2010-09-03 054.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rumpshagen_2010-09-03_054.JPG/400px-Rumpshagen_2010-09-03_054.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rumpshagen_2010-09-03_054.JPG/800px-Rumpshagen_2010-09-03_054.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rumpshagen_2010-09-03_054.JPG/1200px-Rumpshagen_2010-09-03_054.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rumpshagen_2010-09-03_054.JPG/1920px-Rumpshagen_2010-09-03_054.JPG
+  20030708460DR Rumpshagen (Ankershagen) Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg/400px-20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg/800px-20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg/1200px-20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg/1920px-20030708460DR_Rumpshagen_(Ankershagen)_Schloß.jpg
 ---
 
 ## Overview

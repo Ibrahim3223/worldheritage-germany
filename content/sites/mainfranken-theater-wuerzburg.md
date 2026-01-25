@@ -13,7 +13,7 @@ regions:
 latitude: 49.795
 longitude: 9.93667
 images:
-  - "/images-sites/mainfranken-theater-wuerzburg/01-b2f3df24-800w.webp"
+  - "/images/mainfranken-theater-wuerzburg/01-b2f3df24-800w.webp"
 ---
 
 ## Overview

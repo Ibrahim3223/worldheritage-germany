@@ -1,27 +1,37 @@
 ---
-title: "Internationale Bachakademie Stuttgart"
+title: Internationale Bachakademie Stuttgart
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.76898
 longitude: 9.16247
-
-# Images
 images:
-  - "/images-sites/internationale-bachakademie-stuttgart/01-0a72a526-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1200px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ansicht_von_Norden_mit_passendem_Straßenschild.jpg/1200px-Ansicht_von_Norden_mit_passendem_Straßenschild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abel_familyFXD.jpg/1200px-Abel_familyFXD.jpg
+image_srcset:
+  20170516 Stuttgart - Hasenbergsteige 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/400px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/800px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1200px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20170516_Stuttgart_-_Hasenbergsteige_3.jpg/1920px-20170516_Stuttgart_-_Hasenbergsteige_3.jpg
+  Ansicht von Norden mit passendem Straßenschild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ansicht_von_Norden_mit_passendem_Straßenschild.jpg/400px-Ansicht_von_Norden_mit_passendem_Straßenschild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ansicht_von_Norden_mit_passendem_Straßenschild.jpg/800px-Ansicht_von_Norden_mit_passendem_Straßenschild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ansicht_von_Norden_mit_passendem_Straßenschild.jpg/1200px-Ansicht_von_Norden_mit_passendem_Straßenschild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ansicht_von_Norden_mit_passendem_Straßenschild.jpg/1920px-Ansicht_von_Norden_mit_passendem_Straßenschild.jpg
+  Abel familyFXD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abel_familyFXD.jpg/400px-Abel_familyFXD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abel_familyFXD.jpg/800px-Abel_familyFXD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abel_familyFXD.jpg/1200px-Abel_familyFXD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abel_familyFXD.jpg/1920px-Abel_familyFXD.jpg
 ---
 
 ## Overview

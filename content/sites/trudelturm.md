@@ -13,9 +13,9 @@ regions:
 latitude: 52.431725
 longitude: 13.529469444
 images:
-  - "/images-sites/trudelturm/01-993733f3-800w.webp"
-  - "/images-sites/trudelturm/02-7cb41131-800w.webp"
-  - "/images-sites/trudelturm/03-27003193-800w.webp"
+  - "/images/trudelturm/01-993733f3-800w.webp"
+  - "/images/trudelturm/02-7cb41131-800w.webp"
+  - "/images/trudelturm/03-27003193-800w.webp"
 ---
 
 ## Overview

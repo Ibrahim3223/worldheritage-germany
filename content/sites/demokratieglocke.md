@@ -1,21 +1,49 @@
 ---
-title: "Demokratieglocke"
+title: Demokratieglocke
 date: 2026-01-23
 draft: false
-description: "monument in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Leipzig
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.339397
 longitude: 12.3802399
 images:
-  - "/images-sites/demokratieglocke/01-b98036b0-800w.webp"
-  - "/images-sites/demokratieglocke/02-486ea742-800w.webp"
-  - "/images-sites/demokratieglocke/03-9114fde0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg/1200px-Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg/1200px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg/1200px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Demokratieglocke_-_2013_-_1.jpg/1200px-Demokratieglocke_-_2013_-_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Demokratieglocke.jpg/1200px-Demokratieglocke.jpg
+image_srcset:
+  Leipzig - Augustusplatz+Goethestraße - Glocke der Demokratie 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg/400px-Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg/800px-Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg/1200px-Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg/1920px-Leipzig_-_Augustusplatz+Goethestraße_-_Glocke_der_Demokratie_02_ies.jpg
+  Leipzig - Augustusplatz + Goethestraße + Grimmaische Straße + Glocke der Demokratie 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg/400px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg/800px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg/1200px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg/1920px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_01_ies.jpg
+  Leipzig - Augustusplatz + Goethestraße + Grimmaische Straße + Glocke der Demokratie 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg/400px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg/800px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg/1200px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg/1920px-Leipzig_-_Augustusplatz_+_Goethestraße_+_Grimmaische_Straße_+_Glocke_der_Demokratie_02_ies.jpg
+  Demokratieglocke - 2013 - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Demokratieglocke_-_2013_-_1.jpg/400px-Demokratieglocke_-_2013_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Demokratieglocke_-_2013_-_1.jpg/800px-Demokratieglocke_-_2013_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Demokratieglocke_-_2013_-_1.jpg/1200px-Demokratieglocke_-_2013_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Demokratieglocke_-_2013_-_1.jpg/1920px-Demokratieglocke_-_2013_-_1.jpg
+  Demokratieglocke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Demokratieglocke.jpg/400px-Demokratieglocke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Demokratieglocke.jpg/800px-Demokratieglocke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Demokratieglocke.jpg/1200px-Demokratieglocke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Demokratieglocke.jpg/1920px-Demokratieglocke.jpg
 ---
 
 ## Overview

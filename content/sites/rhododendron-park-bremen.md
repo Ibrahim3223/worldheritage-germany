@@ -21,9 +21,9 @@ longitude: 8.88611
 
 # Images
 images:
-  - "/images-sites/rhododendron-park-bremen/01-ca024b65-800w.webp"
-  - "/images-sites/rhododendron-park-bremen/02-2a019862-800w.webp"
-  - "/images-sites/rhododendron-park-bremen/03-d99a9a45-800w.webp"
+  - "/images/rhododendron-park-bremen/01-ca024b65-800w.webp"
+  - "/images/rhododendron-park-bremen/02-2a019862-800w.webp"
+  - "/images/rhododendron-park-bremen/03-d99a9a45-800w.webp"
 ---
 
 ## Overview

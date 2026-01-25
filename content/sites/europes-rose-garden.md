@@ -1,19 +1,49 @@
 ---
-title: "Europe's Rose Garden"
+title: Europe's Rose Garden
 date: 2026-01-23
 draft: false
-description: "garden in Zweibrücken"
-region: "Germany"
-country: "Germany"
-heritage_type: "Garden"
+description: garden in Zweibrücken
+region: Germany
+country: Germany
+heritage_type: Garden
 categories:
-  - "Garden"
+- Garden
 regions:
-  - "Germany"
+- Germany
 latitude: 49.25161
 longitude: 7.37195
 images:
-  - "/images-sites/europes-rose-garden/01-69f0ba51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg/1200px-Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zweibrücken,_Europas_Rosengarten-07.jpg/1200px-Zweibrücken,_Europas_Rosengarten-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zweibrücken,_Europas_Rosengarten-19.jpg/1200px-Zweibrücken,_Europas_Rosengarten-19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zweibrücken_-_Rosengarten_04.jpg/1200px-Zweibrücken_-_Rosengarten_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kletterrose_Rosengarten_ZW.jpg/1200px-Kletterrose_Rosengarten_ZW.jpg
+image_srcset:
+  Zweibrücken, Europas Rosengarten, Rittersporn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg/400px-Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg/800px-Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg/1200px-Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg/1920px-Zweibrücken,_Europas_Rosengarten,_Rittersporn.jpg
+  Zweibrücken, Europas Rosengarten-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zweibrücken,_Europas_Rosengarten-07.jpg/400px-Zweibrücken,_Europas_Rosengarten-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zweibrücken,_Europas_Rosengarten-07.jpg/800px-Zweibrücken,_Europas_Rosengarten-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zweibrücken,_Europas_Rosengarten-07.jpg/1200px-Zweibrücken,_Europas_Rosengarten-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zweibrücken,_Europas_Rosengarten-07.jpg/1920px-Zweibrücken,_Europas_Rosengarten-07.jpg
+  Zweibrücken, Europas Rosengarten-19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zweibrücken,_Europas_Rosengarten-19.jpg/400px-Zweibrücken,_Europas_Rosengarten-19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zweibrücken,_Europas_Rosengarten-19.jpg/800px-Zweibrücken,_Europas_Rosengarten-19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zweibrücken,_Europas_Rosengarten-19.jpg/1200px-Zweibrücken,_Europas_Rosengarten-19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Zweibrücken,_Europas_Rosengarten-19.jpg/1920px-Zweibrücken,_Europas_Rosengarten-19.jpg
+  Zweibrücken - Rosengarten 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zweibrücken_-_Rosengarten_04.jpg/400px-Zweibrücken_-_Rosengarten_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zweibrücken_-_Rosengarten_04.jpg/800px-Zweibrücken_-_Rosengarten_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zweibrücken_-_Rosengarten_04.jpg/1200px-Zweibrücken_-_Rosengarten_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zweibrücken_-_Rosengarten_04.jpg/1920px-Zweibrücken_-_Rosengarten_04.jpg
+  Kletterrose Rosengarten ZW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kletterrose_Rosengarten_ZW.jpg/400px-Kletterrose_Rosengarten_ZW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kletterrose_Rosengarten_ZW.jpg/800px-Kletterrose_Rosengarten_ZW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kletterrose_Rosengarten_ZW.jpg/1200px-Kletterrose_Rosengarten_ZW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kletterrose_Rosengarten_ZW.jpg/1920px-Kletterrose_Rosengarten_ZW.jpg
 ---
 
 ## Overview

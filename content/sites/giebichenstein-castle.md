@@ -1,27 +1,49 @@
 ---
-title: "Giebichenstein Castle"
+title: Giebichenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle in Halle, Saxony-Anhalt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Halle, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5033
 longitude: 11.9539
-
-# Images
 images:
-  - "/images-sites/giebichenstein-castle/01-757b42e7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_464_Burg_Giebichenstein,_Saale.jpg/1200px-L06_464_Burg_Giebichenstein,_Saale.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_461_Burg_Giebichenstein,_Torturm.jpg/1200px-L06_461_Burg_Giebichenstein,_Torturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Giebichenstein_(Januar_2026).jpg/1200px-Burg_Giebichenstein_(Januar_2026).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Oberburg_der_Burg_Giebichenstein_von_oben.png/1200px-Die_Oberburg_der_Burg_Giebichenstein_von_oben.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/1200px-Giebichenstein4.jpg
+image_srcset:
+  L06 464 Burg Giebichenstein, Saale.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_464_Burg_Giebichenstein,_Saale.jpg/400px-L06_464_Burg_Giebichenstein,_Saale.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_464_Burg_Giebichenstein,_Saale.jpg/800px-L06_464_Burg_Giebichenstein,_Saale.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_464_Burg_Giebichenstein,_Saale.jpg/1200px-L06_464_Burg_Giebichenstein,_Saale.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_464_Burg_Giebichenstein,_Saale.jpg/1920px-L06_464_Burg_Giebichenstein,_Saale.jpg
+  L06 461 Burg Giebichenstein, Torturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_461_Burg_Giebichenstein,_Torturm.jpg/400px-L06_461_Burg_Giebichenstein,_Torturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_461_Burg_Giebichenstein,_Torturm.jpg/800px-L06_461_Burg_Giebichenstein,_Torturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_461_Burg_Giebichenstein,_Torturm.jpg/1200px-L06_461_Burg_Giebichenstein,_Torturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/L06_461_Burg_Giebichenstein,_Torturm.jpg/1920px-L06_461_Burg_Giebichenstein,_Torturm.jpg
+  Burg Giebichenstein (Januar 2026).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Giebichenstein_(Januar_2026).jpg/400px-Burg_Giebichenstein_(Januar_2026).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Giebichenstein_(Januar_2026).jpg/800px-Burg_Giebichenstein_(Januar_2026).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Giebichenstein_(Januar_2026).jpg/1200px-Burg_Giebichenstein_(Januar_2026).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Giebichenstein_(Januar_2026).jpg/1920px-Burg_Giebichenstein_(Januar_2026).jpg
+  Die Oberburg der Burg Giebichenstein von oben.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Oberburg_der_Burg_Giebichenstein_von_oben.png/400px-Die_Oberburg_der_Burg_Giebichenstein_von_oben.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Oberburg_der_Burg_Giebichenstein_von_oben.png/800px-Die_Oberburg_der_Burg_Giebichenstein_von_oben.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Oberburg_der_Burg_Giebichenstein_von_oben.png/1200px-Die_Oberburg_der_Burg_Giebichenstein_von_oben.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Oberburg_der_Burg_Giebichenstein_von_oben.png/1920px-Die_Oberburg_der_Burg_Giebichenstein_von_oben.png
+  Giebichenstein4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/400px-Giebichenstein4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/800px-Giebichenstein4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/1200px-Giebichenstein4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Giebichenstein4.jpg/1920px-Giebichenstein4.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1380163"
 description: "The Village Church Netzow is a striking example of Gothic architecture set in the serene landscape of Plattenburg, Germany. This church, constructed fro..."
 images:
-  - "/images-sites/village-church-netzow/01-8fa90774-1920w.webp"
-  - "/images-sites/village-church-netzow/02-dbce9f33-1920w.webp"
-  - "/images-sites/village-church-netzow/03-dd632b27-1920w.webp"
+  - "/images/village-church-netzow/01-8fa90774-1920w.webp"
+  - "/images/village-church-netzow/02-dbce9f33-1920w.webp"
+  - "/images/village-church-netzow/03-dd632b27-1920w.webp"
 ---
 
 ## Overview

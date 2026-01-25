@@ -1,21 +1,31 @@
 ---
-title: "Ibn Rushd-Goethe mosque"
+title: Ibn Rushd-Goethe mosque
 date: 2026-01-23
 draft: false
-description: "mosque in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 52.525
 longitude: 13.34944444
 images:
-  - "/images-sites/ibn-rushd-goethe-mosque/01-eb99c054-800w.webp"
-  - "/images-sites/ibn-rushd-goethe-mosque/02-9a2c9635-800w.webp"
-  - "/images-sites/ibn-rushd-goethe-mosque/03-58e12056-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1200px-Johanniskirche_B-Moabit_06-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Moabit_Alt-Moabit_Johanniskirche.jpg/1200px-Moabit_Alt-Moabit_Johanniskirche.jpg
+image_srcset:
+  Johanniskirche B-Moabit 06-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/400px-Johanniskirche_B-Moabit_06-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/800px-Johanniskirche_B-Moabit_06-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1200px-Johanniskirche_B-Moabit_06-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Johanniskirche_B-Moabit_06-2017.jpg/1920px-Johanniskirche_B-Moabit_06-2017.jpg
+  Moabit Alt-Moabit Johanniskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Moabit_Alt-Moabit_Johanniskirche.jpg/400px-Moabit_Alt-Moabit_Johanniskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Moabit_Alt-Moabit_Johanniskirche.jpg/800px-Moabit_Alt-Moabit_Johanniskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Moabit_Alt-Moabit_Johanniskirche.jpg/1200px-Moabit_Alt-Moabit_Johanniskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Moabit_Alt-Moabit_Johanniskirche.jpg/1920px-Moabit_Alt-Moabit_Johanniskirche.jpg
 ---
 
 ## Overview

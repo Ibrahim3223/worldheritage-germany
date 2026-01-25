@@ -1,27 +1,49 @@
 ---
-title: "Amlishagen Castle"
+title: Amlishagen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2625
 longitude: 9.96194
-
-# Images
 images:
-  - "/images-sites/amlishagen-castle/01-01bd858c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMB_-_Amlishagen_Kachelofen.jpg/1200px-ALMB_-_Amlishagen_Kachelofen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Amlishagen_3D_Anaglyph.jpg/1200px-Burg_Amlishagen_3D_Anaglyph.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg/1200px-Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bad_Mergentheim_2010_097.jpg/1200px-Bad_Mergentheim_2010_097.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Amlishagen.jpg/1200px-Burg_Amlishagen.jpg
+image_srcset:
+  ALMB - Amlishagen Kachelofen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMB_-_Amlishagen_Kachelofen.jpg/400px-ALMB_-_Amlishagen_Kachelofen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMB_-_Amlishagen_Kachelofen.jpg/800px-ALMB_-_Amlishagen_Kachelofen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMB_-_Amlishagen_Kachelofen.jpg/1200px-ALMB_-_Amlishagen_Kachelofen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMB_-_Amlishagen_Kachelofen.jpg/1920px-ALMB_-_Amlishagen_Kachelofen.jpg
+  Burg Amlishagen 3D Anaglyph.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Amlishagen_3D_Anaglyph.jpg/400px-Burg_Amlishagen_3D_Anaglyph.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Amlishagen_3D_Anaglyph.jpg/800px-Burg_Amlishagen_3D_Anaglyph.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Amlishagen_3D_Anaglyph.jpg/1200px-Burg_Amlishagen_3D_Anaglyph.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Amlishagen_3D_Anaglyph.jpg/1920px-Burg_Amlishagen_3D_Anaglyph.jpg
+  Burg Amlishagen direkt nach unten Anaglyph.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg/400px-Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg/800px-Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg/1200px-Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg/1920px-Burg_Amlishagen_direkt_nach_unten_Anaglyph.jpg
+  Bad Mergentheim 2010 097.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bad_Mergentheim_2010_097.jpg/400px-Bad_Mergentheim_2010_097.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bad_Mergentheim_2010_097.jpg/800px-Bad_Mergentheim_2010_097.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bad_Mergentheim_2010_097.jpg/1200px-Bad_Mergentheim_2010_097.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bad_Mergentheim_2010_097.jpg/1920px-Bad_Mergentheim_2010_097.jpg
+  Burg Amlishagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Amlishagen.jpg/400px-Burg_Amlishagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Amlishagen.jpg/800px-Burg_Amlishagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Amlishagen.jpg/1200px-Burg_Amlishagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Amlishagen.jpg/1920px-Burg_Amlishagen.jpg
 ---
 
 ## Overview

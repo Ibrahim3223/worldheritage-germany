@@ -13,7 +13,7 @@ regions:
 latitude: 52.516277777
 longitude: 13.377361111
 images:
-  - "/images-sites/platz-des-18-maerz/01-dfd13025-800w.webp"
+  - "/images/platz-des-18-maerz/01-dfd13025-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,43 @@
 ---
-title: "borders of the Roman Empire"
+title: borders of the Roman Empire
 date: 2026-01-23
 draft: false
-description: "world heritage site (limes in Germany and UK)"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: world heritage site (limes in Germany and UK)
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.992611111
 longitude: -2.601
 images:
-  - "/images-sites/borders-of-the-roman-empire/01-6721ddcf-800w.webp"
-  - "/images-sites/borders-of-the-roman-empire/02-edd28629-800w.webp"
-  - "/images-sites/borders-of-the-roman-empire/03-5a940969-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milecastle_39_on_Hadrian's_Wall.jpg/1200px-Milecastle_39_on_Hadrian's_Wall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/1200px-Europe_relief_laea_location_map.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rätische_Mauer,_WP_12-77.jpg/1200px-Rätische_Mauer,_WP_12-77.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Roman_Empire_Map.png/1200px-Roman_Empire_Map.png
+image_srcset:
+  Milecastle 39 on Hadrian's Wall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milecastle_39_on_Hadrian's_Wall.jpg/400px-Milecastle_39_on_Hadrian's_Wall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milecastle_39_on_Hadrian's_Wall.jpg/800px-Milecastle_39_on_Hadrian's_Wall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milecastle_39_on_Hadrian's_Wall.jpg/1200px-Milecastle_39_on_Hadrian's_Wall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milecastle_39_on_Hadrian's_Wall.jpg/1920px-Milecastle_39_on_Hadrian's_Wall.jpg
+  Europe relief laea location map.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/400px-Europe_relief_laea_location_map.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/800px-Europe_relief_laea_location_map.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/1200px-Europe_relief_laea_location_map.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/1920px-Europe_relief_laea_location_map.jpg
+  Rätische Mauer, WP 12-77.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rätische_Mauer,_WP_12-77.jpg/400px-Rätische_Mauer,_WP_12-77.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rätische_Mauer,_WP_12-77.jpg/800px-Rätische_Mauer,_WP_12-77.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rätische_Mauer,_WP_12-77.jpg/1200px-Rätische_Mauer,_WP_12-77.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rätische_Mauer,_WP_12-77.jpg/1920px-Rätische_Mauer,_WP_12-77.jpg
+  Roman Empire Map.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Roman_Empire_Map.png/400px-Roman_Empire_Map.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Roman_Empire_Map.png/800px-Roman_Empire_Map.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Roman_Empire_Map.png/1200px-Roman_Empire_Map.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Roman_Empire_Map.png/1920px-Roman_Empire_Map.png
 ---
 
 ## Overview

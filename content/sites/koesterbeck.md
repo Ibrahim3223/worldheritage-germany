@@ -13,9 +13,9 @@ regions:
 latitude: 54.0545
 longitude: 12.2316
 images:
-  - "/images-sites/koesterbeck/01-445bcf59-800w.webp"
-  - "/images-sites/koesterbeck/02-00de0fc1-800w.webp"
-  - "/images-sites/koesterbeck/03-cff363c4-800w.webp"
+  - "/images/koesterbeck/01-445bcf59-800w.webp"
+  - "/images/koesterbeck/02-00de0fc1-800w.webp"
+  - "/images/koesterbeck/03-cff363c4-800w.webp"
 ---
 
 ## Overview

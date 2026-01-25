@@ -13,7 +13,7 @@ regions:
 latitude: 50.3489
 longitude: 9.52709
 images:
-  - "/images-sites/synagoge-schluechtern/01-131023ce-800w.webp"
+  - "/images/synagoge-schluechtern/01-131023ce-800w.webp"
 ---
 
 ## Overview

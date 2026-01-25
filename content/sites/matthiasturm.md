@@ -13,7 +13,7 @@ regions:
 latitude: 51.18276
 longitude: 14.42012
 images:
-  - "/images-sites/matthiasturm/01-c2eb0f45-800w.webp"
+  - "/images/matthiasturm/01-c2eb0f45-800w.webp"
 ---
 
 ## Overview

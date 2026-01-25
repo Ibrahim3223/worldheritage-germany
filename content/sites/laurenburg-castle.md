@@ -21,7 +21,7 @@ longitude: 7.90472
 
 # Images
 images:
-  - "/images-sites/laurenburg-castle/01-ecccdd8e-800w.webp"
+  - "/images/laurenburg-castle/01-ecccdd8e-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.54944444
 longitude: 9.96694444
 images:
-  - "/images-sites/operettenhaus/01-d31552bd-800w.webp"
-  - "/images-sites/operettenhaus/02-c3cdcd03-800w.webp"
-  - "/images-sites/operettenhaus/03-5dc3f391-800w.webp"
+  - "/images/operettenhaus/01-d31552bd-800w.webp"
+  - "/images/operettenhaus/02-c3cdcd03-800w.webp"
+  - "/images/operettenhaus/03-5dc3f391-800w.webp"
 ---
 
 ## Overview

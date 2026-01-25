@@ -1,20 +1,49 @@
 ---
-title: "Hamelin Prison"
+title: Hamelin Prison
 date: 2026-01-23
 draft: false
-description: "historic site"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: historic site
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1008
 longitude: 9.35415
 images:
-  - "/images-sites/hamelin-prison/02-4bfd2112-800w.webp"
-  - "/images-sites/hamelin-prison/03-cf6c8f55-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg/1200px-Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jugendanstalt_Hameln_vom_Ohrberg.jpg/1200px-Jugendanstalt_Hameln_vom_Ohrberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hameln_Gedenkstein_Zuchthaus.jpg/1200px-Hameln_Gedenkstein_Zuchthaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gefängnis_Hameln_Weserseite.jpg/1200px-Gefängnis_Hameln_Weserseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1200px-Gefängnis_Hameln_um_1900.jpg
+image_srcset:
+  Ehemaliges Zuchthaus Hameln 01 2017-09-29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg/400px-Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg/800px-Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg/1200px-Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg/1920px-Ehemaliges_Zuchthaus_Hameln_01_2017-09-29.jpg
+  Jugendanstalt Hameln vom Ohrberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jugendanstalt_Hameln_vom_Ohrberg.jpg/400px-Jugendanstalt_Hameln_vom_Ohrberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jugendanstalt_Hameln_vom_Ohrberg.jpg/800px-Jugendanstalt_Hameln_vom_Ohrberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jugendanstalt_Hameln_vom_Ohrberg.jpg/1200px-Jugendanstalt_Hameln_vom_Ohrberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jugendanstalt_Hameln_vom_Ohrberg.jpg/1920px-Jugendanstalt_Hameln_vom_Ohrberg.jpg
+  Hameln Gedenkstein Zuchthaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hameln_Gedenkstein_Zuchthaus.jpg/400px-Hameln_Gedenkstein_Zuchthaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hameln_Gedenkstein_Zuchthaus.jpg/800px-Hameln_Gedenkstein_Zuchthaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hameln_Gedenkstein_Zuchthaus.jpg/1200px-Hameln_Gedenkstein_Zuchthaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hameln_Gedenkstein_Zuchthaus.jpg/1920px-Hameln_Gedenkstein_Zuchthaus.jpg
+  Gefängnis Hameln Weserseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gefängnis_Hameln_Weserseite.jpg/400px-Gefängnis_Hameln_Weserseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gefängnis_Hameln_Weserseite.jpg/800px-Gefängnis_Hameln_Weserseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gefängnis_Hameln_Weserseite.jpg/1200px-Gefängnis_Hameln_Weserseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gefängnis_Hameln_Weserseite.jpg/1920px-Gefängnis_Hameln_Weserseite.jpg
+  Gefängnis Hameln um 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/400px-Gefängnis_Hameln_um_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/800px-Gefängnis_Hameln_um_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1200px-Gefängnis_Hameln_um_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gefängnis_Hameln_um_1900.jpg/1920px-Gefängnis_Hameln_um_1900.jpg
 ---
 
 ## Overview

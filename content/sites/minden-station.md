@@ -13,7 +13,7 @@ regions:
 latitude: 52.2906
 longitude: 8.93444
 images:
-  - "/images-sites/minden-station/01-0b0358b4-800w.webp"
+  - "/images/minden-station/01-0b0358b4-800w.webp"
 ---
 
 ## Overview

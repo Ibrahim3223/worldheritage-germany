@@ -1,19 +1,49 @@
 ---
-title: "Höllentalspitzen"
+title: Höllentalspitzen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.420555555
 longitude: 11.020555555
 images:
-  - "/images-sites/hoellentalspitzen/01-d20da7f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zugspitze_vom_Waxenstein_2002-07-08.jpg/1200px-Zugspitze_vom_Waxenstein_2002-07-08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HvB_Zeichnung_Höllentalspitzen_von_S.jpg/1200px-HvB_Zeichnung_Höllentalspitzen_von_S.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/1200px-Hoellentalspitzen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ZugspitzeJubilaeumsgratHoellental.JPG/1200px-ZugspitzeJubilaeumsgratHoellental.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jubiläumsgrat_von_S_beschriftet.jpg/1200px-Jubiläumsgrat_von_S_beschriftet.jpg
+image_srcset:
+  Zugspitze vom Waxenstein 2002-07-08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zugspitze_vom_Waxenstein_2002-07-08.jpg/400px-Zugspitze_vom_Waxenstein_2002-07-08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zugspitze_vom_Waxenstein_2002-07-08.jpg/800px-Zugspitze_vom_Waxenstein_2002-07-08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zugspitze_vom_Waxenstein_2002-07-08.jpg/1200px-Zugspitze_vom_Waxenstein_2002-07-08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Zugspitze_vom_Waxenstein_2002-07-08.jpg/1920px-Zugspitze_vom_Waxenstein_2002-07-08.jpg
+  HvB Zeichnung Höllentalspitzen von S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HvB_Zeichnung_Höllentalspitzen_von_S.jpg/400px-HvB_Zeichnung_Höllentalspitzen_von_S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HvB_Zeichnung_Höllentalspitzen_von_S.jpg/800px-HvB_Zeichnung_Höllentalspitzen_von_S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HvB_Zeichnung_Höllentalspitzen_von_S.jpg/1200px-HvB_Zeichnung_Höllentalspitzen_von_S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HvB_Zeichnung_Höllentalspitzen_von_S.jpg/1920px-HvB_Zeichnung_Höllentalspitzen_von_S.jpg
+  Hoellentalspitzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/400px-Hoellentalspitzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/800px-Hoellentalspitzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/1200px-Hoellentalspitzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoellentalspitzen.jpg/1920px-Hoellentalspitzen.jpg
+  ZugspitzeJubilaeumsgratHoellental.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ZugspitzeJubilaeumsgratHoellental.JPG/400px-ZugspitzeJubilaeumsgratHoellental.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ZugspitzeJubilaeumsgratHoellental.JPG/800px-ZugspitzeJubilaeumsgratHoellental.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ZugspitzeJubilaeumsgratHoellental.JPG/1200px-ZugspitzeJubilaeumsgratHoellental.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ZugspitzeJubilaeumsgratHoellental.JPG/1920px-ZugspitzeJubilaeumsgratHoellental.JPG
+  Jubiläumsgrat von S beschriftet.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jubiläumsgrat_von_S_beschriftet.jpg/400px-Jubiläumsgrat_von_S_beschriftet.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jubiläumsgrat_von_S_beschriftet.jpg/800px-Jubiläumsgrat_von_S_beschriftet.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jubiläumsgrat_von_S_beschriftet.jpg/1200px-Jubiläumsgrat_von_S_beschriftet.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jubiläumsgrat_von_S_beschriftet.jpg/1920px-Jubiläumsgrat_von_S_beschriftet.jpg
 ---
 
 ## Overview

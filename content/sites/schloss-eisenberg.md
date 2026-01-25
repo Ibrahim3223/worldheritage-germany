@@ -21,7 +21,7 @@ longitude: 11.90502
 
 # Images
 images:
-  - "/images-sites/schloss-eisenberg/01-1e6c852c-800w.webp"
+  - "/images/schloss-eisenberg/01-1e6c852c-800w.webp"
 ---
 
 ## Overview

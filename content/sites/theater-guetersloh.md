@@ -13,7 +13,7 @@ regions:
 latitude: 51.9061
 longitude: 8.37069
 images:
-  - "/images-sites/theater-guetersloh/01-c20796ce-800w.webp"
+  - "/images/theater-guetersloh/01-c20796ce-800w.webp"
 ---
 
 ## Overview

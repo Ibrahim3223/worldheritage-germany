@@ -1,21 +1,49 @@
 ---
-title: "Borstel Manor House"
+title: Borstel Manor House
 date: 2026-01-23
 draft: false
-description: "historic house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: historic house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8183
 longitude: 10.1994
 images:
-  - "/images-sites/borstel-manor-house/01-3a70f3b3-800w.webp"
-  - "/images-sites/borstel-manor-house/02-a458e9d4-800w.webp"
-  - "/images-sites/borstel-manor-house/03-4f9595a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herrenhaus_Borstel,_Hof.JPG/1200px-Herrenhaus_Borstel,_Hof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Herrenhaus_Borstel.JPG/1200px-Herrenhaus_Borstel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Höhenmarke_Borstel.jpg/1200px-Höhenmarke_Borstel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Borstel_Herrenhaus_Pan.jpg/1200px-Borstel_Herrenhaus_Pan.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Borstel_Inschrift.jpg/1200px-Borstel_Inschrift.jpg
+image_srcset:
+  Herrenhaus Borstel, Hof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herrenhaus_Borstel,_Hof.JPG/400px-Herrenhaus_Borstel,_Hof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herrenhaus_Borstel,_Hof.JPG/800px-Herrenhaus_Borstel,_Hof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herrenhaus_Borstel,_Hof.JPG/1200px-Herrenhaus_Borstel,_Hof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Herrenhaus_Borstel,_Hof.JPG/1920px-Herrenhaus_Borstel,_Hof.JPG
+  Herrenhaus Borstel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Herrenhaus_Borstel.JPG/400px-Herrenhaus_Borstel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Herrenhaus_Borstel.JPG/800px-Herrenhaus_Borstel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Herrenhaus_Borstel.JPG/1200px-Herrenhaus_Borstel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Herrenhaus_Borstel.JPG/1920px-Herrenhaus_Borstel.JPG
+  Höhenmarke Borstel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Höhenmarke_Borstel.jpg/400px-Höhenmarke_Borstel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Höhenmarke_Borstel.jpg/800px-Höhenmarke_Borstel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Höhenmarke_Borstel.jpg/1200px-Höhenmarke_Borstel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Höhenmarke_Borstel.jpg/1920px-Höhenmarke_Borstel.jpg
+  Borstel Herrenhaus Pan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Borstel_Herrenhaus_Pan.jpg/400px-Borstel_Herrenhaus_Pan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Borstel_Herrenhaus_Pan.jpg/800px-Borstel_Herrenhaus_Pan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Borstel_Herrenhaus_Pan.jpg/1200px-Borstel_Herrenhaus_Pan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Borstel_Herrenhaus_Pan.jpg/1920px-Borstel_Herrenhaus_Pan.jpg
+  Borstel Inschrift.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Borstel_Inschrift.jpg/400px-Borstel_Inschrift.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Borstel_Inschrift.jpg/800px-Borstel_Inschrift.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Borstel_Inschrift.jpg/1200px-Borstel_Inschrift.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Borstel_Inschrift.jpg/1920px-Borstel_Inschrift.jpg
 ---
 
 ## Overview

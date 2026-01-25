@@ -1,19 +1,49 @@
 ---
-title: "Cologne Zoological Garden"
+title: Cologne Zoological Garden
 date: 2026-01-24
 draft: false
-description: "zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 50.958333
 longitude: 6.973333
 images:
-  - "/images-sites/cologne-zoological-garden/01-51e0f950-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Neophron_percnopterus_Cologne_Zoo.jpg/1200px-Neophron_percnopterus_Cologne_Zoo.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Papio_hamadryas_Cologne_Zoo.JPG/1200px-Papio_hamadryas_Cologne_Zoo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg/1200px-Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg/1200px-Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/1200px-Ming_Jung_CNG_cut.jpg
+image_srcset:
+  Neophron percnopterus Cologne Zoo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Neophron_percnopterus_Cologne_Zoo.jpg/400px-Neophron_percnopterus_Cologne_Zoo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Neophron_percnopterus_Cologne_Zoo.jpg/800px-Neophron_percnopterus_Cologne_Zoo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Neophron_percnopterus_Cologne_Zoo.jpg/1200px-Neophron_percnopterus_Cologne_Zoo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Neophron_percnopterus_Cologne_Zoo.jpg/1920px-Neophron_percnopterus_Cologne_Zoo.jpg
+  Papio hamadryas Cologne Zoo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Papio_hamadryas_Cologne_Zoo.JPG/400px-Papio_hamadryas_Cologne_Zoo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Papio_hamadryas_Cologne_Zoo.JPG/800px-Papio_hamadryas_Cologne_Zoo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Papio_hamadryas_Cologne_Zoo.JPG/1200px-Papio_hamadryas_Cologne_Zoo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Papio_hamadryas_Cologne_Zoo.JPG/1920px-Papio_hamadryas_Cologne_Zoo.JPG
+  Crocodylus niloticus im Kölner Zoo -20140321-RM-103546.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg/400px-Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg/800px-Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg/1200px-Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg/1920px-Crocodylus_niloticus_im_Kölner_Zoo_-20140321-RM-103546.jpg
+  Hippopotamus amphibius im Kölner Zoo -20140321-RM-125057.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg/400px-Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg/800px-Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg/1200px-Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg/1920px-Hippopotamus_amphibius_im_Kölner_Zoo_-20140321-RM-125057.jpg
+  Ming Jung CNG cut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/400px-Ming_Jung_CNG_cut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/800px-Ming_Jung_CNG_cut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/1200px-Ming_Jung_CNG_cut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ming_Jung_CNG_cut.jpg/1920px-Ming_Jung_CNG_cut.jpg
 ---
 
 ## Overview

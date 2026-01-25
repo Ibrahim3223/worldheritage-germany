@@ -1,20 +1,43 @@
 ---
-title: "Fulda monastery"
+title: Fulda monastery
 date: 2026-01-23
 draft: false
-description: "Abbey in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Abbey in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.554027777
 longitude: 9.67175
 images:
-  - "/images-sites/fulda-monastery/02-713b1b9d-800w.webp"
-  - "/images-sites/fulda-monastery/03-9ff1eabd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg/1200px-Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FULDA_Alte_Universitaet.JPG/1200px-FULDA_Alte_Universitaet.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg/1200px-Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1200px-Fulda-abt2.PNG
+image_srcset:
+  Histoire des ordres monastiques tome cinquieme 1718 (5949089).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg/400px-Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg/800px-Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg/1200px-Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg/1920px-Histoire_des_ordres_monastiques_tome_cinquieme_1718_(5949089).jpg
+  FULDA Alte Universitaet.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FULDA_Alte_Universitaet.JPG/400px-FULDA_Alte_Universitaet.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FULDA_Alte_Universitaet.JPG/800px-FULDA_Alte_Universitaet.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FULDA_Alte_Universitaet.JPG/1200px-FULDA_Alte_Universitaet.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FULDA_Alte_Universitaet.JPG/1920px-FULDA_Alte_Universitaet.JPG
+  Ansicht von Priesterseminar und Bibliothek in Fulda 1850.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg/400px-Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg/800px-Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg/1200px-Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg/1920px-Ansicht_von_Priesterseminar_und_Bibliothek_in_Fulda_1850.jpg
+  Fulda-abt2.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/400px-Fulda-abt2.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/800px-Fulda-abt2.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1200px-Fulda-abt2.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fulda-abt2.PNG/1920px-Fulda-abt2.PNG
 ---
 
 ## Overview

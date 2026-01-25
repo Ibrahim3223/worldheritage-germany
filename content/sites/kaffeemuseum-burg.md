@@ -1,19 +1,49 @@
 ---
-title: "Kaffeemuseum Burg"
+title: Kaffeemuseum Burg
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.544726
 longitude: 9.996757
 images:
-  - "/images-sites/kaffeemuseum-burg/01-32a7a125-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_Kaffeemuseum_Burg_(49978145842).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49978145842).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hamburg_Kaffeemuseum_Burg_(49977367308).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49977367308).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg_Kaffeemuseum_Burg_(49978148722).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49978148722).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hamburg-_Kaffeemuseum_Burg.jpg/1200px-Hamburg-_Kaffeemuseum_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Kaffeemuseum_Burg_(49977367863).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49977367863).jpg
+image_srcset:
+  Hamburg Kaffeemuseum Burg (49978145842).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_Kaffeemuseum_Burg_(49978145842).jpg/400px-Hamburg_Kaffeemuseum_Burg_(49978145842).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_Kaffeemuseum_Burg_(49978145842).jpg/800px-Hamburg_Kaffeemuseum_Burg_(49978145842).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_Kaffeemuseum_Burg_(49978145842).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49978145842).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_Kaffeemuseum_Burg_(49978145842).jpg/1920px-Hamburg_Kaffeemuseum_Burg_(49978145842).jpg
+  Hamburg Kaffeemuseum Burg (49977367308).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hamburg_Kaffeemuseum_Burg_(49977367308).jpg/400px-Hamburg_Kaffeemuseum_Burg_(49977367308).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hamburg_Kaffeemuseum_Burg_(49977367308).jpg/800px-Hamburg_Kaffeemuseum_Burg_(49977367308).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hamburg_Kaffeemuseum_Burg_(49977367308).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49977367308).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hamburg_Kaffeemuseum_Burg_(49977367308).jpg/1920px-Hamburg_Kaffeemuseum_Burg_(49977367308).jpg
+  Hamburg Kaffeemuseum Burg (49978148722).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg_Kaffeemuseum_Burg_(49978148722).jpg/400px-Hamburg_Kaffeemuseum_Burg_(49978148722).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg_Kaffeemuseum_Burg_(49978148722).jpg/800px-Hamburg_Kaffeemuseum_Burg_(49978148722).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg_Kaffeemuseum_Burg_(49978148722).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49978148722).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg_Kaffeemuseum_Burg_(49978148722).jpg/1920px-Hamburg_Kaffeemuseum_Burg_(49978148722).jpg
+  Hamburg- Kaffeemuseum Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hamburg-_Kaffeemuseum_Burg.jpg/400px-Hamburg-_Kaffeemuseum_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hamburg-_Kaffeemuseum_Burg.jpg/800px-Hamburg-_Kaffeemuseum_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hamburg-_Kaffeemuseum_Burg.jpg/1200px-Hamburg-_Kaffeemuseum_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hamburg-_Kaffeemuseum_Burg.jpg/1920px-Hamburg-_Kaffeemuseum_Burg.jpg
+  Hamburg Kaffeemuseum Burg (49977367863).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Kaffeemuseum_Burg_(49977367863).jpg/400px-Hamburg_Kaffeemuseum_Burg_(49977367863).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Kaffeemuseum_Burg_(49977367863).jpg/800px-Hamburg_Kaffeemuseum_Burg_(49977367863).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Kaffeemuseum_Burg_(49977367863).jpg/1200px-Hamburg_Kaffeemuseum_Burg_(49977367863).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Kaffeemuseum_Burg_(49977367863).jpg/1920px-Hamburg_Kaffeemuseum_Burg_(49977367863).jpg
 ---
 
 ## Overview

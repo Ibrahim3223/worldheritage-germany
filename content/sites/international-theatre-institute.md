@@ -1,19 +1,37 @@
 ---
-title: "International Theatre Institute"
+title: International Theatre Institute
 date: 2026-01-23
 draft: false
-description: "World Organisation of the Performing Arts"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cultural Center"
+description: World Organisation of the Performing Arts
+region: Germany
+country: Germany
+heritage_type: Cultural Center
 categories:
-  - "Cultural Center"
+- Cultural Center
 regions:
-  - "Germany"
+- Germany
 latitude: 52.504025094
 longitude: 13.424149699
 images:
-  - "/images-sites/international-theatre-institute/01-dabe37e2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1200px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Micro_College.jpg/1200px-Micro_College.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Small_Flag_of_the_United_Nations_ZP.svg/1200px-Small_Flag_of_the_United_Nations_ZP.svg.png
+image_srcset:
+  Instytut Teatralny im. Zbigniewa Raszewskiego i Główna Biblioteka Lekarska im. Stanisława KonopkiDSC 1497.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/400px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/800px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1200px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG/1920px-Instytut_Teatralny_im._Zbigniewa_Raszewskiego_i_Główna_Biblioteka_Lekarska_im._Stanisława_KonopkiDSC_1497.JPG
+  Micro College.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Micro_College.jpg/400px-Micro_College.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Micro_College.jpg/800px-Micro_College.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Micro_College.jpg/1200px-Micro_College.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Micro_College.jpg/1920px-Micro_College.jpg
+  Small Flag of the United Nations ZP.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Small_Flag_of_the_United_Nations_ZP.svg/400px-Small_Flag_of_the_United_Nations_ZP.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Small_Flag_of_the_United_Nations_ZP.svg/800px-Small_Flag_of_the_United_Nations_ZP.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Small_Flag_of_the_United_Nations_ZP.svg/1200px-Small_Flag_of_the_United_Nations_ZP.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Small_Flag_of_the_United_Nations_ZP.svg/1920px-Small_Flag_of_the_United_Nations_ZP.svg.png
 ---
 
 ## Overview

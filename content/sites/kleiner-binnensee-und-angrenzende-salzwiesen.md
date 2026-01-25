@@ -13,7 +13,7 @@ regions:
 latitude: 54.3492
 longitude: 10.63
 images:
-  - "/images-sites/kleiner-binnensee-und-angrenzende-salzwiesen/01-f6ec3620-800w.webp"
+  - "/images/kleiner-binnensee-und-angrenzende-salzwiesen/01-f6ec3620-800w.webp"
 ---
 
 ## Overview

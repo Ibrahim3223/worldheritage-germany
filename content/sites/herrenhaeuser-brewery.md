@@ -1,27 +1,43 @@
 ---
-title: "Herrenhäuser Brewery"
+title: Herrenhäuser Brewery
 date: 2026-01-23
 draft: false
-description: "brewery in Hannover, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.393888888
 longitude: 9.680555555
-
-# Images
 images:
-  - "/images-sites/herrenhaeuser-brewery/01-24de64bc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg/1200px-Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg/1200px-Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Herrenhäuser_Brauerei_Sudhaus.jpg/1200px-Herrenhäuser_Brauerei_Sudhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schriftzug_Herrenhaeuser_Brauerei.jpg/1200px-Schriftzug_Herrenhaeuser_Brauerei.jpg
+image_srcset:
+  Glasplakat Herrenhaeuser Pilsener, Hannoversche Glasplakate-Fabrik W. Kulemann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg/400px-Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg/800px-Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg/1200px-Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg/1920px-Glasplakat_Herrenhaeuser_Pilsener,_Hannoversche_Glasplakate-Fabrik_W._Kulemann.jpg
+  Hannover Herrenhaeser Brauerei 2009 02 (RaBoe).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg/400px-Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg/800px-Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg/1200px-Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg/1920px-Hannover_Herrenhaeser_Brauerei_2009_02_(RaBoe).jpg
+  Herrenhäuser Brauerei Sudhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Herrenhäuser_Brauerei_Sudhaus.jpg/400px-Herrenhäuser_Brauerei_Sudhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Herrenhäuser_Brauerei_Sudhaus.jpg/800px-Herrenhäuser_Brauerei_Sudhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Herrenhäuser_Brauerei_Sudhaus.jpg/1200px-Herrenhäuser_Brauerei_Sudhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Herrenhäuser_Brauerei_Sudhaus.jpg/1920px-Herrenhäuser_Brauerei_Sudhaus.jpg
+  Schriftzug Herrenhaeuser Brauerei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schriftzug_Herrenhaeuser_Brauerei.jpg/400px-Schriftzug_Herrenhaeuser_Brauerei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schriftzug_Herrenhaeuser_Brauerei.jpg/800px-Schriftzug_Herrenhaeuser_Brauerei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schriftzug_Herrenhaeuser_Brauerei.jpg/1200px-Schriftzug_Herrenhaeuser_Brauerei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schriftzug_Herrenhaeuser_Brauerei.jpg/1920px-Schriftzug_Herrenhaeuser_Brauerei.jpg
 ---
 
 ## Overview

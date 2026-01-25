@@ -1,20 +1,49 @@
 ---
-title: "Albrecht-Dürer-Denkmal"
+title: Albrecht-Dürer-Denkmal
 date: 2026-01-23
 draft: false
-description: "Standbild auf dem Albrecht-Dürer-Platz in Nürnberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Standbild auf dem Albrecht-Dürer-Platz in Nürnberg
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4563
 longitude: 11.0759
 images:
-  - "/images-sites/albrecht-duerer-denkmal/02-c5b94e62-800w.webp"
-  - "/images-sites/albrecht-duerer-denkmal/03-0408d97d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg/1200px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg/1200px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg/1200px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg/1200px-Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1200px-Nuernberg-duererstadtbild-v-sso.jpg
+image_srcset:
+  D-5-64-000-54 Albrecht-Dürer-Platz, Denkmal Albrecht Dürers von 1840 Nürnberg 20241020 0027.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg/400px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg/800px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg/1200px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg/1920px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0027.jpg
+  D-5-64-000-54 Albrecht-Dürer-Platz, Denkmal Albrecht Dürers von 1840 Nürnberg 20241020 0028.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg/400px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg/800px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg/1200px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg/1920px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0028.jpg
+  D-5-64-000-54 Albrecht-Dürer-Platz, Denkmal Albrecht Dürers von 1840 Nürnberg 20241020 0026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg/400px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg/800px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg/1200px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg/1920px-D-5-64-000-54_Albrecht-Dürer-Platz,_Denkmal_Albrecht_Dürers_von_1840_Nürnberg_20241020_0026.jpg
+  Albrecht-Dürer-Denkmal - Nuremberg, Germany - DSC02013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg/400px-Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg/800px-Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg/1200px-Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg/1920px-Albrecht-Dürer-Denkmal_-_Nuremberg,_Germany_-_DSC02013.jpg
+  Nuernberg-duererstadtbild-v-sso.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/400px-Nuernberg-duererstadtbild-v-sso.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/800px-Nuernberg-duererstadtbild-v-sso.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1200px-Nuernberg-duererstadtbild-v-sso.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuernberg-duererstadtbild-v-sso.jpg/1920px-Nuernberg-duererstadtbild-v-sso.jpg
 ---
 
 ## Overview

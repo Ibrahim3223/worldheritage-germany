@@ -13,7 +13,7 @@ regions:
 latitude: 52.5094
 longitude: 13.5036
 images:
-  - "/images-sites/zamenhofpark/01-adc07932-800w.webp"
+  - "/images/zamenhofpark/01-adc07932-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 7.069166666
 
 # Images
 images:
-  - "/images-sites/schloss-berge/01-df2ccaea-800w.webp"
+  - "/images/schloss-berge/01-df2ccaea-800w.webp"
 ---
 
 ## Overview

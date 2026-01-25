@@ -1,27 +1,49 @@
 ---
-title: "Akademisches Kunstmuseum"
+title: Akademisches Kunstmuseum
 date: 2026-01-23
 draft: false
-description: "art museum in Bonn"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Bonn
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.73182
 longitude: 7.106187
-
-# Images
 images:
-  - "/images-sites/akademisches-kunstmuseum/01-ee90b129-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20190420_Akademisches_Kunstmuseum_Bonn.jpg/1200px-20190420_Akademisches_Kunstmuseum_Bonn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bonn-931,_Akademisches_Kunstmuseum.JPG/1200px-Bonn-931,_Akademisches_Kunstmuseum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg/1200px-Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1200px-20070404_bonn_akademischemuseum04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg/1200px-Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg
+image_srcset:
+  20190420 Akademisches Kunstmuseum Bonn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20190420_Akademisches_Kunstmuseum_Bonn.jpg/400px-20190420_Akademisches_Kunstmuseum_Bonn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20190420_Akademisches_Kunstmuseum_Bonn.jpg/800px-20190420_Akademisches_Kunstmuseum_Bonn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20190420_Akademisches_Kunstmuseum_Bonn.jpg/1200px-20190420_Akademisches_Kunstmuseum_Bonn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20190420_Akademisches_Kunstmuseum_Bonn.jpg/1920px-20190420_Akademisches_Kunstmuseum_Bonn.jpg
+  Bonn-931, Akademisches Kunstmuseum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bonn-931,_Akademisches_Kunstmuseum.JPG/400px-Bonn-931,_Akademisches_Kunstmuseum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bonn-931,_Akademisches_Kunstmuseum.JPG/800px-Bonn-931,_Akademisches_Kunstmuseum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bonn-931,_Akademisches_Kunstmuseum.JPG/1200px-Bonn-931,_Akademisches_Kunstmuseum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bonn-931,_Akademisches_Kunstmuseum.JPG/1920px-Bonn-931,_Akademisches_Kunstmuseum.JPG
+  Bonn, Hofgarten (und Akademisches Kunstmuseum) -- 2016 -- 4005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg/400px-Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg/800px-Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg/1200px-Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg/1920px-Bonn,_Hofgarten_(und_Akademisches_Kunstmuseum)_--_2016_--_4005.jpg
+  20070404 bonn akademischemuseum04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/400px-20070404_bonn_akademischemuseum04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/800px-20070404_bonn_akademischemuseum04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1200px-20070404_bonn_akademischemuseum04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20070404_bonn_akademischemuseum04.jpg/1920px-20070404_bonn_akademischemuseum04.jpg
+  Bundesarchiv B 145 Bild-F089007-0011, Bonn, Ausblick vom Dach des Stadthauses.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg/400px-Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg/800px-Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg/1200px-Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg/1920px-Bundesarchiv_B_145_Bild-F089007-0011,_Bonn,_Ausblick_vom_Dach_des_Stadthauses.jpg
 ---
 
 ## Overview

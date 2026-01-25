@@ -1,24 +1,51 @@
 ---
-title: "Heilig-Geist-Kirche"
-site_name: "Heilig-Geist-Kirche"
-slug: "heilig-geist-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Heilig-Geist-Kirche
+site_name: Heilig-Geist-Kirche
+slug: heilig-geist-kirche
+region: Lower Saxony
 latitude: 52.4034
 longitude: 9.73995
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1404737"
-description: "The Heilig-Geist-Kirche, a modern church building located in Hannover, Germany, stands as a striking example of contemporary ecclesiastical architecture..."
+- church building
+- religious site
+wikidata_id: Q1404737
+description: The Heilig-Geist-Kirche, a modern church building located in Hannover,
+  Germany, stands as a striking example of contemporary ecclesiastical architecture...
 images:
-  - "/images-sites/heilig-geist-kirche/01-1a1a2554-1920w.webp"
-  - "/images-sites/heilig-geist-kirche/02-547400a2-1920w.webp"
-  - "/images-sites/heilig-geist-kirche/03-f07d7bec-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heiliggeist%20Hannover%2C%20Eingang.jpg/1200px-Heiliggeist%20Hannover%2C%20Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG/1200px-Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg/1200px-Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heilig-Geist-Kirche_7_Gaben_21092013.JPG/1200px-Heilig-Geist-Kirche_7_Gaben_21092013.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png/1200px-St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png
+image_srcset:
+  Heiliggeist%20Hannover%2C%20Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heiliggeist%20Hannover%2C%20Eingang.jpg/400px-Heiliggeist%20Hannover%2C%20Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heiliggeist%20Hannover%2C%20Eingang.jpg/800px-Heiliggeist%20Hannover%2C%20Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heiliggeist%20Hannover%2C%20Eingang.jpg/1200px-Heiliggeist%20Hannover%2C%20Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Heiliggeist%20Hannover%2C%20Eingang.jpg/1920px-Heiliggeist%20Hannover%2C%20Eingang.jpg
+  Heilig-Geist-Kirche Sakramentshaus 21092013.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG/400px-Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG/800px-Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG/1200px-Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG/1920px-Heilig-Geist-Kirche_Sakramentshaus_21092013.JPG
+  Heilig-Geist-Kirche, Frankfurt-Riederwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg/400px-Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg/800px-Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg/1200px-Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg/1920px-Heilig-Geist-Kirche,_Frankfurt-Riederwald.jpg
+  Heilig-Geist-Kirche 7 Gaben 21092013.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heilig-Geist-Kirche_7_Gaben_21092013.JPG/400px-Heilig-Geist-Kirche_7_Gaben_21092013.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heilig-Geist-Kirche_7_Gaben_21092013.JPG/800px-Heilig-Geist-Kirche_7_Gaben_21092013.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heilig-Geist-Kirche_7_Gaben_21092013.JPG/1200px-Heilig-Geist-Kirche_7_Gaben_21092013.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heilig-Geist-Kirche_7_Gaben_21092013.JPG/1920px-Heilig-Geist-Kirche_7_Gaben_21092013.JPG
+  St. Josef-Frankfurt Heilig Geist Logo+Text kurz.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png/400px-St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png/800px-St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png/1200px-St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png/1920px-St._Josef-Frankfurt_Heilig_Geist_Logo+Text_kurz.png
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.2411
 longitude: 7.14778
 images:
-  - "/images-sites/uni-halle/01-5249fcf7-800w.webp"
+  - "/images/uni-halle/01-5249fcf7-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Evangelische Stadtkirche Ellwangen"
-site_name: "Evangelische Stadtkirche Ellwangen"
-slug: "evangelische-stadtkirche-ellwangen"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische Stadtkirche Ellwangen
+site_name: Evangelische Stadtkirche Ellwangen
+slug: evangelische-stadtkirche-ellwangen
+region: Baden-Württemberg
 latitude: 48.9622
 longitude: 10.1314
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381127"
-description: "In the heart of Ellwangen, the Evangelische Stadtkirche Ellwangen stands as a striking example of Baroque architecture, captivating visitors with its el..."
+- church building
+- religious site
+wikidata_id: Q1381127
+description: In the heart of Ellwangen, the Evangelische Stadtkirche Ellwangen stands
+  as a striking example of Baroque architecture, captivating visitors with its el...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ellwangen%20Evangel-Stadtkirche%2001.jpg/1200px-Ellwangen%20Evangel-Stadtkirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg/1200px-Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg/1200px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg/1200px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/1200px-Ellwangen_Evangel-Stadtkirche_01.jpg
+image_srcset:
+  Ellwangen%20Evangel-Stadtkirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ellwangen%20Evangel-Stadtkirche%2001.jpg/400px-Ellwangen%20Evangel-Stadtkirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ellwangen%20Evangel-Stadtkirche%2001.jpg/800px-Ellwangen%20Evangel-Stadtkirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ellwangen%20Evangel-Stadtkirche%2001.jpg/1200px-Ellwangen%20Evangel-Stadtkirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ellwangen%20Evangel-Stadtkirche%2001.jpg/1920px-Ellwangen%20Evangel-Stadtkirche%2001.jpg
+  Ellwangen - Altstadt - Evangelische Stadtkirche - Ansicht von NW 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg/400px-Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg/800px-Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg/1200px-Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg/1920px-Ellwangen_-_Altstadt_-_Evangelische_Stadtkirche_-_Ansicht_von_NW_2.jpg
+  1724 wurde der Grundstein für die ehemalige Jesuitenkirche gelegt. 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg/400px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg/800px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg/1200px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg/1920px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._01.jpg
+  1724 wurde der Grundstein für die ehemalige Jesuitenkirche gelegt. 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg/400px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg/800px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg/1200px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg/1920px-1724_wurde_der_Grundstein_für_die_ehemalige_Jesuitenkirche_gelegt._02.jpg
+  Ellwangen Evangel-Stadtkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/400px-Ellwangen_Evangel-Stadtkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/800px-Ellwangen_Evangel-Stadtkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/1200px-Ellwangen_Evangel-Stadtkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ellwangen_Evangel-Stadtkirche_01.jpg/1920px-Ellwangen_Evangel-Stadtkirche_01.jpg
 ---
 
 ## Overview

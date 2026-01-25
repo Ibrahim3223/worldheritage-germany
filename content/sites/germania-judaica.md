@@ -1,19 +1,25 @@
 ---
-title: "Germania Judaica"
+title: Germania Judaica
 date: 2026-01-23
 draft: false
-description: "special library"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: special library
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 50.93401
 longitude: 6.94907
 images:
-  - "/images-sites/germania-judaica/01-18a640c1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1200px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
+image_srcset:
+  Stadtbibliothek Köln Rückseite (0031-33).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/400px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/800px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1200px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Stadtbibliothek_Köln_Rückseite_(0031-33).jpg/1920px-Stadtbibliothek_Köln_Rückseite_(0031-33).jpg
 ---
 
 ## Overview

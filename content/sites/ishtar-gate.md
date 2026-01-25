@@ -1,19 +1,49 @@
 ---
-title: "Ishtar Gate"
+title: Ishtar Gate
 date: 2026-01-23
 draft: false
-description: "eighth gate to the inner city of Babylon"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: eighth gate to the inner city of Babylon
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 32.543333
 longitude: 44.422222
 images:
-  - "/images-sites/ishtar-gate/01-5853d4a5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ishtar_Gate_in_the_Pergamon_Museum_-.jpg/1200px-Ishtar_Gate_in_the_Pergamon_Museum_-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ishtartor_Prozessionsstraße_Berlin.jpg/1200px-Ishtartor_Prozessionsstraße_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg/1200px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg/1200px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ishtar_Gate_at_Berlin_Museum.jpg/1200px-Ishtar_Gate_at_Berlin_Museum.jpg
+image_srcset:
+  Ishtar Gate in the Pergamon Museum -.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ishtar_Gate_in_the_Pergamon_Museum_-.jpg/400px-Ishtar_Gate_in_the_Pergamon_Museum_-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ishtar_Gate_in_the_Pergamon_Museum_-.jpg/800px-Ishtar_Gate_in_the_Pergamon_Museum_-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ishtar_Gate_in_the_Pergamon_Museum_-.jpg/1200px-Ishtar_Gate_in_the_Pergamon_Museum_-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ishtar_Gate_in_the_Pergamon_Museum_-.jpg/1920px-Ishtar_Gate_in_the_Pergamon_Museum_-.jpg
+  Ishtartor Prozessionsstraße Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ishtartor_Prozessionsstraße_Berlin.jpg/400px-Ishtartor_Prozessionsstraße_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ishtartor_Prozessionsstraße_Berlin.jpg/800px-Ishtartor_Prozessionsstraße_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ishtartor_Prozessionsstraße_Berlin.jpg/1200px-Ishtartor_Prozessionsstraße_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ishtartor_Prozessionsstraße_Berlin.jpg/1920px-Ishtartor_Prozessionsstraße_Berlin.jpg
+  Fragment of the Ishtar Gate, Ny Carlsberg Glyptotek, 20220618 1111 7058.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg/400px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg/800px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg/1200px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg/1920px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7058.jpg
+  Fragment of the Ishtar Gate, Ny Carlsberg Glyptotek, 20220618 1111 7063.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg/400px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg/800px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg/1200px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg/1920px-Fragment_of_the_Ishtar_Gate,_Ny_Carlsberg_Glyptotek,_20220618_1111_7063.jpg
+  Ishtar Gate at Berlin Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ishtar_Gate_at_Berlin_Museum.jpg/400px-Ishtar_Gate_at_Berlin_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ishtar_Gate_at_Berlin_Museum.jpg/800px-Ishtar_Gate_at_Berlin_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ishtar_Gate_at_Berlin_Museum.jpg/1200px-Ishtar_Gate_at_Berlin_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ishtar_Gate_at_Berlin_Museum.jpg/1920px-Ishtar_Gate_at_Berlin_Museum.jpg
 ---
 
 ## Overview

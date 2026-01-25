@@ -13,7 +13,7 @@ regions:
 latitude: 54.3121
 longitude: 10.1151
 images:
-  - "/images-sites/suedfriedhof/01-fbf58999-800w.webp"
+  - "/images/suedfriedhof/01-fbf58999-800w.webp"
 ---
 
 ## Overview

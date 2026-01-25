@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q1380883"
 description: "The Protestant Church in Rüdinghausen, a striking example of Romanesque Revival architecture, has stood as a significant landmark in Witten since its es..."
 images:
-  - "/images-sites/protestant-church-rudinghausen/01-08f327ba-1920w.webp"
-  - "/images-sites/protestant-church-rudinghausen/02-158c04d0-1920w.webp"
+  - "/images/protestant-church-rudinghausen/01-08f327ba-1920w.webp"
+  - "/images/protestant-church-rudinghausen/02-158c04d0-1920w.webp"
 ---
 
 ## Overview

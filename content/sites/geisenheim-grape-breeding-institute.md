@@ -1,19 +1,49 @@
 ---
-title: "Geisenheim Grape Breeding Institute"
+title: Geisenheim Grape Breeding Institute
 date: 2026-01-23
 draft: false
-description: "German research institute"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: German research institute
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 49.984166666
 longitude: 7.961388888
 images:
-  - "/images-sites/geisenheim-grape-breeding-institute/01-dcaf1296-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg/1200px-Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg/1200px-Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_von_Lade.JPG/1200px-Denkmal_von_Lade.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Verwaltungsgebäude_FBG.JPG/1200px-Verwaltungsgebäude_FBG.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/1200px-FA_Geisenheim2.jpg
+image_srcset:
+  Peter Spring Gedenkstein Forschungsanstalt Geisenheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg/400px-Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg/800px-Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg/1200px-Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg/1920px-Peter_Spring_Gedenkstein_Forschungsanstalt_Geisenheim.jpg
+  Geisenheim Forschungsanstalt Denkmal Erster Weltkrieg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg/400px-Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg/800px-Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg/1200px-Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg/1920px-Geisenheim_Forschungsanstalt_Denkmal_Erster_Weltkrieg.jpg
+  Denkmal von Lade.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_von_Lade.JPG/400px-Denkmal_von_Lade.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_von_Lade.JPG/800px-Denkmal_von_Lade.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_von_Lade.JPG/1200px-Denkmal_von_Lade.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Denkmal_von_Lade.JPG/1920px-Denkmal_von_Lade.JPG
+  Verwaltungsgebäude FBG.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Verwaltungsgebäude_FBG.JPG/400px-Verwaltungsgebäude_FBG.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Verwaltungsgebäude_FBG.JPG/800px-Verwaltungsgebäude_FBG.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Verwaltungsgebäude_FBG.JPG/1200px-Verwaltungsgebäude_FBG.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Verwaltungsgebäude_FBG.JPG/1920px-Verwaltungsgebäude_FBG.JPG
+  FA Geisenheim2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/400px-FA_Geisenheim2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/800px-FA_Geisenheim2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/1200px-FA_Geisenheim2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FA_Geisenheim2.jpg/1920px-FA_Geisenheim2.jpg
 ---
 
 ## Overview

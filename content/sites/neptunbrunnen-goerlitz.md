@@ -13,7 +13,7 @@ regions:
 latitude: 51.156338888
 longitude: 14.990805555
 images:
-  - "/images-sites/neptunbrunnen-goerlitz/03-0de301a3-800w.webp"
+  - "/images/neptunbrunnen-goerlitz/03-0de301a3-800w.webp"
 ---
 
 ## Overview

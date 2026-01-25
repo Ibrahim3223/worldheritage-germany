@@ -13,7 +13,7 @@ regions:
 latitude: 49.4105
 longitude: 8.70357
 images:
-  - "/images-sites/theater-orchester-heidelberg/01-bf5d499d-800w.webp"
+  - "/images/theater-orchester-heidelberg/01-bf5d499d-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 47.846338888
 longitude: 12.568327777
 images:
-  - "/images-sites/tuettensee/02-b80e308a-800w.webp"
-  - "/images-sites/tuettensee/03-94913e96-800w.webp"
+  - "/images/tuettensee/02-b80e308a-800w.webp"
+  - "/images/tuettensee/03-94913e96-800w.webp"
 ---
 
 ## Overview

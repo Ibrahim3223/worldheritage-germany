@@ -13,7 +13,7 @@ regions:
 latitude: 48.1136
 longitude: 11.6381
 images:
-  - "/images-sites/ostpark/01-677e7b71-800w.webp"
+  - "/images/ostpark/01-677e7b71-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 50.0864
 longitude: 11.3983
 images:
-  - "/images-sites/main/02-8b6a072d-800w.webp"
-  - "/images-sites/main/03-8b4ffb18-800w.webp"
+  - "/images/main/02-8b6a072d-800w.webp"
+  - "/images/main/03-8b4ffb18-800w.webp"
 ---
 
 ## Overview

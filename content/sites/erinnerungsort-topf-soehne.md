@@ -1,19 +1,49 @@
 ---
-title: "Erinnerungsort Topf & Söhne"
+title: Erinnerungsort Topf & Söhne
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9723
 longitude: 11.0487
 images:
-  - "/images-sites/erinnerungsort-topf-soehne/01-bb7e74ca-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg/1200px-Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG/1200px-Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/1200px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Denkmal_Topf_Söhne_Erfurt.JPG/1200px-Denkmal_Topf_Söhne_Erfurt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/J._A._Topf_&_Söhne_(1).jpg/1200px-J._A._Topf_&_Söhne_(1).jpg
+image_srcset:
+  Erinnerungsort Topf & Söhne Erfurt 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg/400px-Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg/800px-Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg/1200px-Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg/1920px-Erinnerungsort_Topf_&_Söhne_Erfurt_04.jpg
+  Telegramm von SS-Funktionären an die Firma J. A. Topf & Söhne.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG/400px-Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG/800px-Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG/1200px-Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG/1920px-Telegramm_von_SS-Funktionären_an_die_Firma_J._A._Topf_&_Söhne.JPG
+  Erinnerungsort Topf und Söhne Erfurt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/400px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/800px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/1200px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erinnerungsort_Topf_und_Söhne_Erfurt.JPG/1920px-Erinnerungsort_Topf_und_Söhne_Erfurt.JPG
+  Denkmal Topf Söhne Erfurt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Denkmal_Topf_Söhne_Erfurt.JPG/400px-Denkmal_Topf_Söhne_Erfurt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Denkmal_Topf_Söhne_Erfurt.JPG/800px-Denkmal_Topf_Söhne_Erfurt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Denkmal_Topf_Söhne_Erfurt.JPG/1200px-Denkmal_Topf_Söhne_Erfurt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Denkmal_Topf_Söhne_Erfurt.JPG/1920px-Denkmal_Topf_Söhne_Erfurt.JPG
+  J. A. Topf & Söhne (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/J._A._Topf_&_Söhne_(1).jpg/400px-J._A._Topf_&_Söhne_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/J._A._Topf_&_Söhne_(1).jpg/800px-J._A._Topf_&_Söhne_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/J._A._Topf_&_Söhne_(1).jpg/1200px-J._A._Topf_&_Söhne_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/J._A._Topf_&_Söhne_(1).jpg/1920px-J._A._Topf_&_Söhne_(1).jpg
 ---
 
 ## Overview

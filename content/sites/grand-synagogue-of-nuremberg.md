@@ -1,19 +1,49 @@
 ---
-title: "Grand Synagogue of Nuremberg"
+title: Grand Synagogue of Nuremberg
 date: 2026-01-23
 draft: false
-description: "former synagogue in Nuremberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: former synagogue in Nuremberg
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 49.453333333
 longitude: 11.079722222
 images:
-  - "/images-sites/grand-synagogue-of-nuremberg/01-5beb59e6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nurembergsynagoguec.jpg/1200px-Nurembergsynagoguec.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg/1200px-Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Nürnberg.jpg/1200px-Synagoge_Nürnberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nürnberg_-_Insel_Schütt_1.jpg/1200px-Nürnberg_-_Insel_Schütt_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/J.L.-Nürnberg_3.JPG/1200px-J.L.-Nürnberg_3.JPG
+image_srcset:
+  Nurembergsynagoguec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nurembergsynagoguec.jpg/400px-Nurembergsynagoguec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nurembergsynagoguec.jpg/800px-Nurembergsynagoguec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nurembergsynagoguec.jpg/1200px-Nurembergsynagoguec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nurembergsynagoguec.jpg/1920px-Nurembergsynagoguec.jpg
+  Nürnberg Panorama der Altstadt Ferdinand Schmidt 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg/400px-Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg/800px-Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg/1200px-Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg/1920px-Nürnberg_Panorama_der_Altstadt_Ferdinand_Schmidt_001.jpg
+  Synagoge Nürnberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Nürnberg.jpg/400px-Synagoge_Nürnberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Nürnberg.jpg/800px-Synagoge_Nürnberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Nürnberg.jpg/1200px-Synagoge_Nürnberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Synagoge_Nürnberg.jpg/1920px-Synagoge_Nürnberg.jpg
+  Nürnberg - Insel Schütt 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nürnberg_-_Insel_Schütt_1.jpg/400px-Nürnberg_-_Insel_Schütt_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nürnberg_-_Insel_Schütt_1.jpg/800px-Nürnberg_-_Insel_Schütt_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nürnberg_-_Insel_Schütt_1.jpg/1200px-Nürnberg_-_Insel_Schütt_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Nürnberg_-_Insel_Schütt_1.jpg/1920px-Nürnberg_-_Insel_Schütt_1.jpg
+  J.L.-Nürnberg 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/J.L.-Nürnberg_3.JPG/400px-J.L.-Nürnberg_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/J.L.-Nürnberg_3.JPG/800px-J.L.-Nürnberg_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/J.L.-Nürnberg_3.JPG/1200px-J.L.-Nürnberg_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/J.L.-Nürnberg_3.JPG/1920px-J.L.-Nürnberg_3.JPG
 ---
 
 ## Overview

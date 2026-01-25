@@ -1,19 +1,37 @@
 ---
-title: "Heuwiese"
+title: Heuwiese
 date: 2026-01-23
 draft: false
-description: "island near Rügen island, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island near Rügen island, Germany
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.428055555
 longitude: 13.119444444
 images:
-  - "/images-sites/heuwiese/01-8c3f325a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg/1200px-Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baum_auf_Heuwiese.jpg/1200px-Baum_auf_Heuwiese.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostseeinsel_Heuwiese.jpg/1200px-Ostseeinsel_Heuwiese.jpg
+image_srcset:
+  Hinterste Heuwiese Kronberg 2020-03-25 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg/400px-Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg/800px-Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg/1200px-Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg/1920px-Hinterste_Heuwiese_Kronberg_2020-03-25_03.jpg
+  Baum auf Heuwiese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baum_auf_Heuwiese.jpg/400px-Baum_auf_Heuwiese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baum_auf_Heuwiese.jpg/800px-Baum_auf_Heuwiese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baum_auf_Heuwiese.jpg/1200px-Baum_auf_Heuwiese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baum_auf_Heuwiese.jpg/1920px-Baum_auf_Heuwiese.jpg
+  Ostseeinsel Heuwiese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostseeinsel_Heuwiese.jpg/400px-Ostseeinsel_Heuwiese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostseeinsel_Heuwiese.jpg/800px-Ostseeinsel_Heuwiese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostseeinsel_Heuwiese.jpg/1200px-Ostseeinsel_Heuwiese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ostseeinsel_Heuwiese.jpg/1920px-Ostseeinsel_Heuwiese.jpg
 ---
 
 ## Overview

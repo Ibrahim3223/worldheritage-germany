@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1320471"
 description: "In the heart of Pasewalk, Germany, Marienkirche emerges as a striking example of Brick Gothic architecture, captivating visitors with its historical and..."
 images:
-  - "/images-sites/marienkirche/01-52edde66-1920w.webp"
-  - "/images-sites/marienkirche/02-584a96bd-1920w.webp"
-  - "/images-sites/marienkirche/03-e21543b8-1920w.webp"
+  - "/images/marienkirche/01-52edde66-1920w.webp"
+  - "/images/marienkirche/02-584a96bd-1920w.webp"
+  - "/images/marienkirche/03-e21543b8-1920w.webp"
 ---
 
 ## Overview

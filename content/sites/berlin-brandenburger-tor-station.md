@@ -1,21 +1,49 @@
 ---
-title: "Berlin Brandenburger Tor station"
+title: Berlin Brandenburger Tor station
 date: 2026-01-23
 draft: false
-description: "Berlin S-Bahn station"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: Berlin S-Bahn station
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.516388888
 longitude: 13.380833333
 images:
-  - "/images-sites/berlin-brandenburger-tor-station/01-361c31bc-800w.webp"
-  - "/images-sites/berlin-brandenburger-tor-station/02-a60505c1-800w.webp"
-  - "/images-sites/berlin-brandenburger-tor-station/03-2a3546c7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg/1200px-L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg/1200px-L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg/1200px-Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bahnhof_Berlin-Brandenburger_Tor.jpg/1200px-Bahnhof_Berlin-Brandenburger_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg/1200px-Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg
+image_srcset:
+  L01 437 Hp Brandenburger Tor (Ulu), Bahnsteighalle Nord-Süd.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg/400px-L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg/800px-L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg/1200px-L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg/1920px-L01_437_Hp_Brandenburger_Tor_(Ulu),_Bahnsteighalle_Nord-Süd.jpg
+  L01 443 Hp Ulu, Ortsschild neu und alt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg/400px-L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg/800px-L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg/1200px-L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg/1920px-L01_443_Hp_Ulu,_Ortsschild_neu_und_alt.jpg
+  Flickr - IngolfBLN - Berlin - S-Bahnhof Brandenburger Tor (44).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg/400px-Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg/800px-Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg/1200px-Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg/1920px-Flickr_-_IngolfBLN_-_Berlin_-_S-Bahnhof_Brandenburger_Tor_(44).jpg
+  Bahnhof Berlin-Brandenburger Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bahnhof_Berlin-Brandenburger_Tor.jpg/400px-Bahnhof_Berlin-Brandenburger_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bahnhof_Berlin-Brandenburger_Tor.jpg/800px-Bahnhof_Berlin-Brandenburger_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bahnhof_Berlin-Brandenburger_Tor.jpg/1200px-Bahnhof_Berlin-Brandenburger_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bahnhof_Berlin-Brandenburger_Tor.jpg/1920px-Bahnhof_Berlin-Brandenburger_Tor.jpg
+  Hp Berlin Brandenburger Tor (S-Bahn) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg/400px-Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg/800px-Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg/1200px-Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg/1920px-Hp_Berlin_Brandenburger_Tor_(S-Bahn)_1.jpg
 ---
 
 ## Overview

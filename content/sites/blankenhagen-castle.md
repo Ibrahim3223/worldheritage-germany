@@ -1,19 +1,31 @@
 ---
-title: "Blankenhagen Castle"
+title: Blankenhagen Castle
 date: 2026-01-23
 draft: false
-description: "lowland castle in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: lowland castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7304
 longitude: 9.58476
 images:
-  - "/images-sites/blankenhagen-castle/01-8db2d88d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Blankenhagen_Haupthügel.jpg/1200px-Burg_Blankenhagen_Haupthügel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Blankenhagen_Nebenhügel.jpg/1200px-Burg_Blankenhagen_Nebenhügel.jpg
+image_srcset:
+  Burg Blankenhagen Haupthügel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Blankenhagen_Haupthügel.jpg/400px-Burg_Blankenhagen_Haupthügel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Blankenhagen_Haupthügel.jpg/800px-Burg_Blankenhagen_Haupthügel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Blankenhagen_Haupthügel.jpg/1200px-Burg_Blankenhagen_Haupthügel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Burg_Blankenhagen_Haupthügel.jpg/1920px-Burg_Blankenhagen_Haupthügel.jpg
+  Burg Blankenhagen Nebenhügel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Blankenhagen_Nebenhügel.jpg/400px-Burg_Blankenhagen_Nebenhügel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Blankenhagen_Nebenhügel.jpg/800px-Burg_Blankenhagen_Nebenhügel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Blankenhagen_Nebenhügel.jpg/1200px-Burg_Blankenhagen_Nebenhügel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Blankenhagen_Nebenhügel.jpg/1920px-Burg_Blankenhagen_Nebenhügel.jpg
 ---
 
 ## Overview

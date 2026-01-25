@@ -21,7 +21,7 @@ longitude: 7.73222
 
 # Images
 images:
-  - "/images-sites/schoenburg/01-85603661-800w.webp"
+  - "/images/schoenburg/01-85603661-800w.webp"
 ---
 
 ## Overview

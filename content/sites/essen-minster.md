@@ -1,23 +1,44 @@
 ---
-title: "Essen Minster"
-site_name: "Essen Minster"
-slug: "essen-minster"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Essen Minster
+site_name: Essen Minster
+slug: essen-minster
+region: North Rhine-Westphalia
 latitude: 51.456
 longitude: 7.014
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q135737"
-description: "Essen Minster, a stunning example of Gothic architecture, stands as a significant landmark in the city of Essen, Germany. This cathedral, rooted in Cath..."
+- cultural site
+wikidata_id: Q135737
+description: Essen Minster, a stunning example of Gothic architecture, stands as a
+  significant landmark in the city of Essen, Germany. This cathedral, rooted in Cath...
 images:
-  - "/images-sites/essen-minster/01-e7275d68-1920w.webp"
-  - "/images-sites/essen-minster/02-cad494a0-1920w.webp"
-  - "/images-sites/essen-minster/03-10e8ee15-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1200px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Essener_Dom_Innenansicht_2022.jpg/1200px-Essener_Dom_Innenansicht_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Essen_-_Münster_ex_11_ies.jpg/1200px-Essen_-_Münster_ex_11_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1200px-Essen_2011_66-2.jpg
+image_srcset:
+  Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/400px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/800px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1200px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg/1920px-Dom-Essen-mit-Burgplatz-und-Rathaus-2016.jpg
+  Essener Dom Innenansicht 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Essener_Dom_Innenansicht_2022.jpg/400px-Essener_Dom_Innenansicht_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Essener_Dom_Innenansicht_2022.jpg/800px-Essener_Dom_Innenansicht_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Essener_Dom_Innenansicht_2022.jpg/1200px-Essener_Dom_Innenansicht_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Essener_Dom_Innenansicht_2022.jpg/1920px-Essener_Dom_Innenansicht_2022.jpg
+  Essen - Münster ex 11 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Essen_-_Münster_ex_11_ies.jpg/400px-Essen_-_Münster_ex_11_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Essen_-_Münster_ex_11_ies.jpg/800px-Essen_-_Münster_ex_11_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Essen_-_Münster_ex_11_ies.jpg/1200px-Essen_-_Münster_ex_11_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Essen_-_Münster_ex_11_ies.jpg/1920px-Essen_-_Münster_ex_11_ies.jpg
+  Essen 2011 66-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/400px-Essen_2011_66-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/800px-Essen_2011_66-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1200px-Essen_2011_66-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1920px-Essen_2011_66-2.jpg
 ---
 
 ## Overview

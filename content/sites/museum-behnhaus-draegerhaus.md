@@ -21,7 +21,7 @@ longitude: 10.6896
 
 # Images
 images:
-  - "/images-sites/museum-behnhaus-draegerhaus/02-ebf246bb-800w.webp"
+  - "/images/museum-behnhaus-draegerhaus/02-ebf246bb-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Flora und Botanischer Garten Köln"
+title: Flora und Botanischer Garten Köln
 date: 2026-01-23
 draft: false
-description: "Cologne Botanical Garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: Cologne Botanical Garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.95932
 longitude: 6.97194
-
-# Images
 images:
-  - "/images-sites/flora-und-botanischer-garten-koeln/01-7b039b8d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Köln,_Flora,_Fotografierbestimmungen,_1.jpeg/1200px-Köln,_Flora,_Fotografierbestimmungen,_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Köln,_Eingang_zur_Flora,_4.jpeg/1200px-Köln,_Eingang_zur_Flora,_4.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1200px-Flora_-_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flora_Köln_im_Sommer_(2461-63).jpg/1200px-Flora_Köln_im_Sommer_(2461-63).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flora_Haupthaus_(Köln).jpg/1200px-Flora_Haupthaus_(Köln).jpg
+image_srcset:
+  Köln, Flora, Fotografierbestimmungen, 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Köln,_Flora,_Fotografierbestimmungen,_1.jpeg/400px-Köln,_Flora,_Fotografierbestimmungen,_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Köln,_Flora,_Fotografierbestimmungen,_1.jpeg/800px-Köln,_Flora,_Fotografierbestimmungen,_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Köln,_Flora,_Fotografierbestimmungen,_1.jpeg/1200px-Köln,_Flora,_Fotografierbestimmungen,_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Köln,_Flora,_Fotografierbestimmungen,_1.jpeg/1920px-Köln,_Flora,_Fotografierbestimmungen,_1.jpeg
+  Köln, Eingang zur Flora, 4.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Köln,_Eingang_zur_Flora,_4.jpeg/400px-Köln,_Eingang_zur_Flora,_4.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Köln,_Eingang_zur_Flora,_4.jpeg/800px-Köln,_Eingang_zur_Flora,_4.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Köln,_Eingang_zur_Flora,_4.jpeg/1200px-Köln,_Eingang_zur_Flora,_4.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Köln,_Eingang_zur_Flora,_4.jpeg/1920px-Köln,_Eingang_zur_Flora,_4.jpeg
+  Flora - Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/400px-Flora_-_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/800px-Flora_-_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1200px-Flora_-_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flora_-_Köln.jpg/1920px-Flora_-_Köln.jpg
+  Flora Köln im Sommer (2461-63).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flora_Köln_im_Sommer_(2461-63).jpg/400px-Flora_Köln_im_Sommer_(2461-63).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flora_Köln_im_Sommer_(2461-63).jpg/800px-Flora_Köln_im_Sommer_(2461-63).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flora_Köln_im_Sommer_(2461-63).jpg/1200px-Flora_Köln_im_Sommer_(2461-63).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flora_Köln_im_Sommer_(2461-63).jpg/1920px-Flora_Köln_im_Sommer_(2461-63).jpg
+  Flora Haupthaus (Köln).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flora_Haupthaus_(Köln).jpg/400px-Flora_Haupthaus_(Köln).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flora_Haupthaus_(Köln).jpg/800px-Flora_Haupthaus_(Köln).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flora_Haupthaus_(Köln).jpg/1200px-Flora_Haupthaus_(Köln).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flora_Haupthaus_(Köln).jpg/1920px-Flora_Haupthaus_(Köln).jpg
 ---
 
 ## Overview

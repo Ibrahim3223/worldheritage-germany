@@ -1,19 +1,50 @@
 ---
-title: "Jabelscher See"
+title: Jabelscher See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.526636111
 longitude: 12.540205555
 images:
-  - "/images-sites/jabelscher-see/01-24df56cd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hausboottour_(034)_Jabelscher_See_(19922552054).jpg/1200px-Hausboottour_(034)_Jabelscher_See_(19922552054).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hausboottour_(168)_Jabelscher_See_(20987887112).jpg/1200px-Hausboottour_(168)_Jabelscher_See_(20987887112).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hausboottour_(038)_Jabelscher_See_(20586618722).jpg/1200px-Hausboottour_(038)_Jabelscher_See_(20586618722).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jabel.jpg/1200px-Jabel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jabelscher_See2.JPG/1200px-Jabelscher_See2.JPG
+image_srcset:
+  Hausboottour (034) Jabelscher See (19922552054).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hausboottour_(034)_Jabelscher_See_(19922552054).jpg/400px-Hausboottour_(034)_Jabelscher_See_(19922552054).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hausboottour_(034)_Jabelscher_See_(19922552054).jpg/800px-Hausboottour_(034)_Jabelscher_See_(19922552054).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hausboottour_(034)_Jabelscher_See_(19922552054).jpg/1200px-Hausboottour_(034)_Jabelscher_See_(19922552054).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hausboottour_(034)_Jabelscher_See_(19922552054).jpg/1920px-Hausboottour_(034)_Jabelscher_See_(19922552054).jpg
+  Hausboottour (168) Jabelscher See (20987887112).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hausboottour_(168)_Jabelscher_See_(20987887112).jpg/400px-Hausboottour_(168)_Jabelscher_See_(20987887112).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hausboottour_(168)_Jabelscher_See_(20987887112).jpg/800px-Hausboottour_(168)_Jabelscher_See_(20987887112).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hausboottour_(168)_Jabelscher_See_(20987887112).jpg/1200px-Hausboottour_(168)_Jabelscher_See_(20987887112).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hausboottour_(168)_Jabelscher_See_(20987887112).jpg/1920px-Hausboottour_(168)_Jabelscher_See_(20987887112).jpg
+  Hausboottour (038) Jabelscher See (20586618722).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hausboottour_(038)_Jabelscher_See_(20586618722).jpg/400px-Hausboottour_(038)_Jabelscher_See_(20586618722).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hausboottour_(038)_Jabelscher_See_(20586618722).jpg/800px-Hausboottour_(038)_Jabelscher_See_(20586618722).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hausboottour_(038)_Jabelscher_See_(20586618722).jpg/1200px-Hausboottour_(038)_Jabelscher_See_(20586618722).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hausboottour_(038)_Jabelscher_See_(20586618722).jpg/1920px-Hausboottour_(038)_Jabelscher_See_(20586618722).jpg
+  Jabel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jabel.jpg/400px-Jabel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jabel.jpg/800px-Jabel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jabel.jpg/1200px-Jabel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jabel.jpg/1920px-Jabel.jpg
+  Jabelscher See2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jabelscher_See2.JPG/400px-Jabelscher_See2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jabelscher_See2.JPG/800px-Jabelscher_See2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jabelscher_See2.JPG/1200px-Jabelscher_See2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jabelscher_See2.JPG/1920px-Jabelscher_See2.JPG
 ---
 
 ## Overview

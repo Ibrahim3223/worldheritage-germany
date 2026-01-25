@@ -13,9 +13,9 @@ regions:
 latitude: 53.0019
 longitude: 11.7628
 images:
-  - "/images-sites/wittenberge-station/01-6e62a3e7-800w.webp"
-  - "/images-sites/wittenberge-station/02-e17f5a57-800w.webp"
-  - "/images-sites/wittenberge-station/03-53309355-800w.webp"
+  - "/images/wittenberge-station/01-6e62a3e7-800w.webp"
+  - "/images/wittenberge-station/02-e17f5a57-800w.webp"
+  - "/images/wittenberge-station/03-53309355-800w.webp"
 ---
 
 ## Overview

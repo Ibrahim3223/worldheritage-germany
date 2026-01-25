@@ -1,19 +1,49 @@
 ---
-title: "Hainesch/Iland"
+title: Hainesch/Iland
 date: 2026-01-23
 draft: false
-description: "nature reserve in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.666666666
 longitude: 10.116666666
 images:
-  - "/images-sites/haineschiland/01-d966e678-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg/1200px-Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Naturschutzgebiet_Hainesch-Iland_See.jpg/1200px-Naturschutzgebiet_Hainesch-Iland_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aussichtskanzel_Saselbek-Furtbek.JPG/1200px-Aussichtskanzel_Saselbek-Furtbek.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haingraben_Tal.JPG/1200px-Haingraben_Tal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Saselbek-Brücke_Iland2.JPG/1200px-Saselbek-Brücke_Iland2.JPG
+image_srcset:
+  Wiese neben Naturschutzgebiet Hainesch-Iland (Hamburg) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg/400px-Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg/800px-Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg/1200px-Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg/1920px-Wiese_neben_Naturschutzgebiet_Hainesch-Iland_(Hamburg)_01.jpg
+  Naturschutzgebiet Hainesch-Iland See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Naturschutzgebiet_Hainesch-Iland_See.jpg/400px-Naturschutzgebiet_Hainesch-Iland_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Naturschutzgebiet_Hainesch-Iland_See.jpg/800px-Naturschutzgebiet_Hainesch-Iland_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Naturschutzgebiet_Hainesch-Iland_See.jpg/1200px-Naturschutzgebiet_Hainesch-Iland_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Naturschutzgebiet_Hainesch-Iland_See.jpg/1920px-Naturschutzgebiet_Hainesch-Iland_See.jpg
+  Aussichtskanzel Saselbek-Furtbek.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aussichtskanzel_Saselbek-Furtbek.JPG/400px-Aussichtskanzel_Saselbek-Furtbek.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aussichtskanzel_Saselbek-Furtbek.JPG/800px-Aussichtskanzel_Saselbek-Furtbek.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aussichtskanzel_Saselbek-Furtbek.JPG/1200px-Aussichtskanzel_Saselbek-Furtbek.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aussichtskanzel_Saselbek-Furtbek.JPG/1920px-Aussichtskanzel_Saselbek-Furtbek.JPG
+  Haingraben Tal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haingraben_Tal.JPG/400px-Haingraben_Tal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haingraben_Tal.JPG/800px-Haingraben_Tal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haingraben_Tal.JPG/1200px-Haingraben_Tal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Haingraben_Tal.JPG/1920px-Haingraben_Tal.JPG
+  Saselbek-Brücke Iland2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Saselbek-Brücke_Iland2.JPG/400px-Saselbek-Brücke_Iland2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Saselbek-Brücke_Iland2.JPG/800px-Saselbek-Brücke_Iland2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Saselbek-Brücke_Iland2.JPG/1200px-Saselbek-Brücke_Iland2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Saselbek-Brücke_Iland2.JPG/1920px-Saselbek-Brücke_Iland2.JPG
 ---
 
 ## Overview 

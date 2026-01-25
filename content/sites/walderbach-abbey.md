@@ -21,7 +21,7 @@ longitude: 12.378276993
 
 # Images
 images:
-  - "/images-sites/walderbach-abbey/01-320489bb-800w.webp"
+  - "/images/walderbach-abbey/01-320489bb-800w.webp"
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "All Saints Church"
-site_name: "All Saints Church"
-slug: "all-saints-church"
-region: "Hesse"
-
-# Location
+title: All Saints Church
+site_name: All Saints Church
+slug: all-saints-church
+region: Hesse
 latitude: 50.1169
 longitude: 8.70243
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1283837"
-description: "In the heart of Frankfurt am Main lies All Saints Church, a modernist Roman Catholic church that captures the spirit of contemporary ecclesiastical arch..."
+- cultural site
+wikidata_id: Q1283837
+description: In the heart of Frankfurt am Main lies All Saints Church, a modernist
+  Roman Catholic church that captures the spirit of contemporary ecclesiastical arch...
 images:
-  - "/images-sites/all-saints-church/01-5d4d8959-1920w.webp"
-  - "/images-sites/all-saints-church/02-b86a2e0f-1920w.webp"
-  - "/images-sites/all-saints-church/03-6ab9550b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Allerheiligen%20Turm%2017102009.JPG/1200px-Allerheiligen%20Turm%2017102009.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/All_Saints_Church,_Fulham,_London_-_Diliff.jpg/1200px-All_Saints_Church,_Fulham,_London_-_Diliff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/All_Saints_Church,_Fulham_2023_20.jpg/1200px-All_Saints_Church,_Fulham_2023_20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/All_Saints_Church,_Fulham_03.JPG/1200px-All_Saints_Church,_Fulham_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/All_Saints_Church,_Fulham_05.JPG/1200px-All_Saints_Church,_Fulham_05.JPG
+image_srcset:
+  Allerheiligen%20Turm%2017102009.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Allerheiligen%20Turm%2017102009.JPG/400px-Allerheiligen%20Turm%2017102009.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Allerheiligen%20Turm%2017102009.JPG/800px-Allerheiligen%20Turm%2017102009.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Allerheiligen%20Turm%2017102009.JPG/1200px-Allerheiligen%20Turm%2017102009.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Allerheiligen%20Turm%2017102009.JPG/1920px-Allerheiligen%20Turm%2017102009.JPG
+  All Saints Church, Fulham, London - Diliff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/All_Saints_Church,_Fulham,_London_-_Diliff.jpg/400px-All_Saints_Church,_Fulham,_London_-_Diliff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/All_Saints_Church,_Fulham,_London_-_Diliff.jpg/800px-All_Saints_Church,_Fulham,_London_-_Diliff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/All_Saints_Church,_Fulham,_London_-_Diliff.jpg/1200px-All_Saints_Church,_Fulham,_London_-_Diliff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/All_Saints_Church,_Fulham,_London_-_Diliff.jpg/1920px-All_Saints_Church,_Fulham,_London_-_Diliff.jpg
+  All Saints Church, Fulham 2023 20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/All_Saints_Church,_Fulham_2023_20.jpg/400px-All_Saints_Church,_Fulham_2023_20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/All_Saints_Church,_Fulham_2023_20.jpg/800px-All_Saints_Church,_Fulham_2023_20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/All_Saints_Church,_Fulham_2023_20.jpg/1200px-All_Saints_Church,_Fulham_2023_20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/All_Saints_Church,_Fulham_2023_20.jpg/1920px-All_Saints_Church,_Fulham_2023_20.jpg
+  All Saints Church, Fulham 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/All_Saints_Church,_Fulham_03.JPG/400px-All_Saints_Church,_Fulham_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/All_Saints_Church,_Fulham_03.JPG/800px-All_Saints_Church,_Fulham_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/All_Saints_Church,_Fulham_03.JPG/1200px-All_Saints_Church,_Fulham_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/All_Saints_Church,_Fulham_03.JPG/1920px-All_Saints_Church,_Fulham_03.JPG
+  All Saints Church, Fulham 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/All_Saints_Church,_Fulham_05.JPG/400px-All_Saints_Church,_Fulham_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/All_Saints_Church,_Fulham_05.JPG/800px-All_Saints_Church,_Fulham_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/All_Saints_Church,_Fulham_05.JPG/1200px-All_Saints_Church,_Fulham_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/All_Saints_Church,_Fulham_05.JPG/1920px-All_Saints_Church,_Fulham_05.JPG
 ---
 
 ## Overview

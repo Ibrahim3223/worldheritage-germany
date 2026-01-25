@@ -13,8 +13,8 @@ regions:
 latitude: 52.5204
 longitude: 13.4154
 images:
-  - "/images-sites/koenigsstaedtisches-theater/02-7793d6e0-800w.webp"
-  - "/images-sites/koenigsstaedtisches-theater/03-5a03c4cc-800w.webp"
+  - "/images/koenigsstaedtisches-theater/02-7793d6e0-800w.webp"
+  - "/images/koenigsstaedtisches-theater/03-5a03c4cc-800w.webp"
 ---
 
 ## Overview

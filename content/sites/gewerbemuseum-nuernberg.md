@@ -1,19 +1,49 @@
 ---
-title: "Gewerbemuseum Nürnberg"
+title: Gewerbemuseum Nürnberg
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.451458826
 longitude: 11.083333306
 images:
-  - "/images-sites/gewerbemuseum-nuernberg/01-af96efae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1200px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg
+image_srcset:
+  D-5-64-000-615 Gewerbemuseumsplatz 2 Nürnberg 20241013 0176.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg/400px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg/800px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg/1920px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0176.jpg
+  D-5-64-000-615 Gewerbemuseumsplatz 2 Nürnberg 20241013 0167.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg/400px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg/800px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg/1920px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0167.jpg
+  Nürnberg, Gewerbemuseumsplatz 2-20160304-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/400px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/800px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1200px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg/1920px-Nürnberg,_Gewerbemuseumsplatz_2-20160304-002.jpg
+  D-5-64-000-615 Gewerbemuseumsplatz 2 Nürnberg 20241013 0169.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg/400px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg/800px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg/1920px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0169.jpg
+  D-5-64-000-615 Gewerbemuseumsplatz 2 Nürnberg 20241013 0170.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg/400px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg/800px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg/1200px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg/1920px-D-5-64-000-615_Gewerbemuseumsplatz_2_Nürnberg_20241013_0170.jpg
 ---
 
 ## Overview

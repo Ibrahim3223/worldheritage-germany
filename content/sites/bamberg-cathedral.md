@@ -1,19 +1,49 @@
 ---
-title: "Bamberg Cathedral"
+title: Bamberg Cathedral
 date: 2026-01-23
 draft: false
-description: "Roman Catholic cathedral in Bamberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Pilgrimage Church"
+description: Roman Catholic cathedral in Bamberg, Germany
+region: Germany
+country: Germany
+heritage_type: Pilgrimage Church
 categories:
-  - "Pilgrimage Church"
+- Pilgrimage Church
 regions:
-  - "Germany"
+- Germany
 latitude: 49.890703
 longitude: 10.882533
 images:
-  - "/images-sites/bamberg-cathedral/01-88233e79-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg/1200px-Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bamberger_Dom_BW_6.JPG/1200px-Bamberger_Dom_BW_6.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/1200px-Bamberg_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bamberger_Dom_BW_16.JPG/1200px-Bamberger_Dom_BW_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/00_3376_Bamberg_-_Dom_(Adamspforte).jpg/1200px-00_3376_Bamberg_-_Dom_(Adamspforte).jpg
+image_srcset:
+  Bamberg Dom Westtürme Domgrund-20151001-RM-122610.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg/400px-Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg/800px-Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg/1200px-Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg/1920px-Bamberg_Dom_Westtürme_Domgrund-20151001-RM-122610.jpg
+  Bamberger Dom BW 6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bamberger_Dom_BW_6.JPG/400px-Bamberger_Dom_BW_6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bamberger_Dom_BW_6.JPG/800px-Bamberger_Dom_BW_6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bamberger_Dom_BW_6.JPG/1200px-Bamberger_Dom_BW_6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bamberger_Dom_BW_6.JPG/1920px-Bamberger_Dom_BW_6.JPG
+  Bamberg Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/400px-Bamberg_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/800px-Bamberg_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/1200px-Bamberg_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bamberg_Dom.jpg/1920px-Bamberg_Dom.jpg
+  Bamberger Dom BW 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bamberger_Dom_BW_16.JPG/400px-Bamberger_Dom_BW_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bamberger_Dom_BW_16.JPG/800px-Bamberger_Dom_BW_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bamberger_Dom_BW_16.JPG/1200px-Bamberger_Dom_BW_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bamberger_Dom_BW_16.JPG/1920px-Bamberger_Dom_BW_16.JPG
+  00 3376 Bamberg - Dom (Adamspforte).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/00_3376_Bamberg_-_Dom_(Adamspforte).jpg/400px-00_3376_Bamberg_-_Dom_(Adamspforte).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/00_3376_Bamberg_-_Dom_(Adamspforte).jpg/800px-00_3376_Bamberg_-_Dom_(Adamspforte).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/00_3376_Bamberg_-_Dom_(Adamspforte).jpg/1200px-00_3376_Bamberg_-_Dom_(Adamspforte).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/00_3376_Bamberg_-_Dom_(Adamspforte).jpg/1920px-00_3376_Bamberg_-_Dom_(Adamspforte).jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q977557"
 description: "In the heart of Rhauderfehn, Germany, St. Laurentius und St. Vincentius stands as a prominent example of Romanesque architecture. This church, construct..."
 images:
-  - "/images-sites/st-laurentius-und-st-vincentius-backemoor/01-b9c84948-1920w.webp"
-  - "/images-sites/st-laurentius-und-st-vincentius-backemoor/02-864f86a2-1920w.webp"
-  - "/images-sites/st-laurentius-und-st-vincentius-backemoor/03-6e56de6f-1920w.webp"
+  - "/images/st-laurentius-und-st-vincentius-backemoor/01-b9c84948-1920w.webp"
+  - "/images/st-laurentius-und-st-vincentius-backemoor/02-864f86a2-1920w.webp"
+  - "/images/st-laurentius-und-st-vincentius-backemoor/03-6e56de6f-1920w.webp"
 ---
 
 ## Overview

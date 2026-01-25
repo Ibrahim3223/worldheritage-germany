@@ -1,21 +1,43 @@
 ---
-title: "Hamburg Dammtor station"
+title: Hamburg Dammtor station
 date: 2026-01-23
 draft: false
-description: "railway halt in Rotherbaum, Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway halt in Rotherbaum, Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.560833
 longitude: 9.989444
 images:
-  - "/images-sites/hamburg-dammtor-station/01-b1ce5ed3-800w.webp"
-  - "/images-sites/hamburg-dammtor-station/02-f259e9f6-800w.webp"
-  - "/images-sites/hamburg-dammtor-station/03-bb10e487-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/1200px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1200px-Hamburg-Bahnhof_Dammtor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bf_Hamburg-Dammtor.jpg/1200px-Bf_Hamburg-Dammtor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dammtorbahnhof_West.jpg/1200px-Dammtorbahnhof_West.jpg
+image_srcset:
+  Coronakrise-hamburg 443-0011 0023-hinnerk-ruemenapf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/400px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/800px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/1200px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/1920px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+  Hamburg-Bahnhof Dammtor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/400px-Hamburg-Bahnhof_Dammtor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/800px-Hamburg-Bahnhof_Dammtor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1200px-Hamburg-Bahnhof_Dammtor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1920px-Hamburg-Bahnhof_Dammtor.jpg
+  Bf Hamburg-Dammtor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bf_Hamburg-Dammtor.jpg/400px-Bf_Hamburg-Dammtor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bf_Hamburg-Dammtor.jpg/800px-Bf_Hamburg-Dammtor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bf_Hamburg-Dammtor.jpg/1200px-Bf_Hamburg-Dammtor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bf_Hamburg-Dammtor.jpg/1920px-Bf_Hamburg-Dammtor.jpg
+  Dammtorbahnhof West.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dammtorbahnhof_West.jpg/400px-Dammtorbahnhof_West.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dammtorbahnhof_West.jpg/800px-Dammtorbahnhof_West.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dammtorbahnhof_West.jpg/1200px-Dammtorbahnhof_West.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dammtorbahnhof_West.jpg/1920px-Dammtorbahnhof_West.jpg
 ---
 
 ## Overview

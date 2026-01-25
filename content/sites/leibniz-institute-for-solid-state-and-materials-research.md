@@ -21,7 +21,7 @@ longitude: 13.7244
 
 # Images
 images:
-  - "/images-sites/leibniz-institute-for-solid-state-and-materials-research/01-1316d7e3-800w.webp"
+  - "/images/leibniz-institute-for-solid-state-and-materials-research/01-1316d7e3-800w.webp"
 ---
 
 ## Overview

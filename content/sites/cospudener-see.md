@@ -1,19 +1,49 @@
 ---
-title: "Cospudener See"
+title: Cospudener See
 date: 2026-01-23
 draft: false
-description: "Artificial lake near Leipzig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: Artificial lake near Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 51.269444444
 longitude: 12.335277777
 images:
-  - "/images-sites/cospudener-see/01-cad93f37-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/L01_023_Cospudener_See,_Nordstrand_(West).jpg/1200px-L01_023_Cospudener_See,_Nordstrand_(West).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L00_760_Nordstrand_Cospuden,_FKK.jpg/1200px-L00_760_Nordstrand_Cospuden,_FKK.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg/1200px-L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/I11_002_Cospudener_See.jpg/1200px-I11_002_Cospudener_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cospudener_see.jpg/1200px-Cospudener_see.jpg
+image_srcset:
+  L01 023 Cospudener See, Nordstrand (West).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/L01_023_Cospudener_See,_Nordstrand_(West).jpg/400px-L01_023_Cospudener_See,_Nordstrand_(West).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/L01_023_Cospudener_See,_Nordstrand_(West).jpg/800px-L01_023_Cospudener_See,_Nordstrand_(West).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/L01_023_Cospudener_See,_Nordstrand_(West).jpg/1200px-L01_023_Cospudener_See,_Nordstrand_(West).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/L01_023_Cospudener_See,_Nordstrand_(West).jpg/1920px-L01_023_Cospudener_See,_Nordstrand_(West).jpg
+  L00 760 Nordstrand Cospuden, FKK.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L00_760_Nordstrand_Cospuden,_FKK.jpg/400px-L00_760_Nordstrand_Cospuden,_FKK.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L00_760_Nordstrand_Cospuden,_FKK.jpg/800px-L00_760_Nordstrand_Cospuden,_FKK.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L00_760_Nordstrand_Cospuden,_FKK.jpg/1200px-L00_760_Nordstrand_Cospuden,_FKK.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/L00_760_Nordstrand_Cospuden,_FKK.jpg/1920px-L00_760_Nordstrand_Cospuden,_FKK.jpg
+  L00 621 Cospudener See, Kraftwerk Lippendorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg/400px-L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg/800px-L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg/1200px-L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg/1920px-L00_621_Cospudener_See,_Kraftwerk_Lippendorf.jpg
+  I11 002 Cospudener See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/I11_002_Cospudener_See.jpg/400px-I11_002_Cospudener_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/I11_002_Cospudener_See.jpg/800px-I11_002_Cospudener_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/I11_002_Cospudener_See.jpg/1200px-I11_002_Cospudener_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/I11_002_Cospudener_See.jpg/1920px-I11_002_Cospudener_See.jpg
+  Cospudener see.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cospudener_see.jpg/400px-Cospudener_see.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cospudener_see.jpg/800px-Cospudener_see.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cospudener_see.jpg/1200px-Cospudener_see.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cospudener_see.jpg/1920px-Cospudener_see.jpg
 ---
 
 ## Overview 

@@ -13,8 +13,8 @@ regions:
 latitude: 52.5113
 longitude: 13.399
 images:
-  - "/images-sites/palais-hardenberg/02-fe89bcc9-800w.webp"
-  - "/images-sites/palais-hardenberg/03-e03499c9-800w.webp"
+  - "/images/palais-hardenberg/02-fe89bcc9-800w.webp"
+  - "/images/palais-hardenberg/03-e03499c9-800w.webp"
 ---
 
 ## Overview

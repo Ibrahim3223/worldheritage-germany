@@ -13,7 +13,7 @@ regions:
 latitude: 50.929166666
 longitude: 14.243333333
 images:
-  - "/images-sites/lichtenhain-waterfall/01-f902ca07-800w.webp"
+  - "/images/lichtenhain-waterfall/01-f902ca07-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.60547
 longitude: 12.50368
 images:
-  - "/images-sites/schloss-nennhausen/01-5d202843-800w.webp"
+  - "/images/schloss-nennhausen/01-5d202843-800w.webp"
 ---
 
 ## Overview

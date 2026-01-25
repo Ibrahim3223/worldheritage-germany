@@ -13,7 +13,7 @@ regions:
 latitude: 52.3917
 longitude: 13.0667
 images:
-  - "/images-sites/potsdam-central-station/01-7f047bab-800w.webp"
+  - "/images/potsdam-central-station/01-7f047bab-800w.webp"
 ---
 
 ## Overview

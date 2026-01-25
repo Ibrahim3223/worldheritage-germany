@@ -1,19 +1,49 @@
 ---
-title: "Fischbeck Abbey"
+title: Fischbeck Abbey
 date: 2026-01-23
 draft: false
-description: "monastery in Fischbeck, Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery in Fischbeck, Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1419
 longitude: 9.29722
 images:
-  - "/images-sites/fischbeck-abbey/01-93b6b897-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stiftskirche_Fischbeck_fm811791.jpg/1200px-Stiftskirche_Fischbeck_fm811791.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg/1200px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg/1200px-Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg/1200px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1200px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
+image_srcset:
+  Stiftskirche Fischbeck fm811791.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stiftskirche_Fischbeck_fm811791.jpg/400px-Stiftskirche_Fischbeck_fm811791.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stiftskirche_Fischbeck_fm811791.jpg/800px-Stiftskirche_Fischbeck_fm811791.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stiftskirche_Fischbeck_fm811791.jpg/1200px-Stiftskirche_Fischbeck_fm811791.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stiftskirche_Fischbeck_fm811791.jpg/1920px-Stiftskirche_Fischbeck_fm811791.jpg
+  Ehemaliges Augustiner-Kanonenstift Fischbeck fm811802.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg/400px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg/800px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg/1200px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg/1920px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811802.jpg
+  Kreuzgang - Stiftskirche Fischbeck fm811798.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg/400px-Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg/800px-Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg/1200px-Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg/1920px-Kreuzgang_-_Stiftskirche_Fischbeck_fm811798.jpg
+  Ehemaliges Augustiner-Kanonenstift Fischbeck fm811787.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg/400px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg/800px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg/1200px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg/1920px-Ehemaliges_Augustiner-Kanonenstift_Fischbeck_fm811787.jpg
+  Hessisch Oldendorf - Stift Fischbeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/400px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/800px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1200px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hessisch_Oldendorf_-_Stift_Fischbeck.jpg/1920px-Hessisch_Oldendorf_-_Stift_Fischbeck.jpg
 ---
 
 ## Overview

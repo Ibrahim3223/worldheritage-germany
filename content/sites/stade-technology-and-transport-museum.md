@@ -13,9 +13,9 @@ regions:
 latitude: 53.6103
 longitude: 9.47806
 images:
-  - "/images-sites/stade-technology-and-transport-museum/01-590b28ea-800w.webp"
-  - "/images-sites/stade-technology-and-transport-museum/01-d448cd25-800w.webp"
-  - "/images-sites/stade-technology-and-transport-museum/02-d448cd25-800w.webp"
+  - "/images/stade-technology-and-transport-museum/01-590b28ea-800w.webp"
+  - "/images/stade-technology-and-transport-museum/01-d448cd25-800w.webp"
+  - "/images/stade-technology-and-transport-museum/02-d448cd25-800w.webp"
 ---
 
 ## Overview

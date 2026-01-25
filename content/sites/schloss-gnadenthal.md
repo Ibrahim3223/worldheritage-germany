@@ -13,9 +13,9 @@ regions:
 latitude: 51.8063
 longitude: 6.10764
 images:
-  - "/images-sites/schloss-gnadenthal/01-2ce1efb1-800w.webp"
-  - "/images-sites/schloss-gnadenthal/02-006909df-800w.webp"
-  - "/images-sites/schloss-gnadenthal/03-fbfd31e0-800w.webp"
+  - "/images/schloss-gnadenthal/01-2ce1efb1-800w.webp"
+  - "/images/schloss-gnadenthal/02-006909df-800w.webp"
+  - "/images/schloss-gnadenthal/03-fbfd31e0-800w.webp"
 ---
 
 ## Overview

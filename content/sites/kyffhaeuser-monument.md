@@ -13,9 +13,9 @@ regions:
 latitude: 51.41305556
 longitude: 11.10972222
 images:
-  - "/images-sites/kyffhaeuser-monument/01-de60a96a-800w.webp"
-  - "/images-sites/kyffhaeuser-monument/02-4d62e41a-800w.webp"
-  - "/images-sites/kyffhaeuser-monument/03-8873c9ad-800w.webp"
+  - "/images/kyffhaeuser-monument/01-de60a96a-800w.webp"
+  - "/images/kyffhaeuser-monument/02-4d62e41a-800w.webp"
+  - "/images/kyffhaeuser-monument/03-8873c9ad-800w.webp"
 ---
 
 ## Overview

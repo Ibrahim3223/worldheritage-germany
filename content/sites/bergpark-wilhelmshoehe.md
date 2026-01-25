@@ -1,19 +1,49 @@
 ---
-title: "Bergpark Wilhelmshöhe"
+title: Bergpark Wilhelmshöhe
 date: 2026-01-23
 draft: false
-description: "landscape park with castle in Kassel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: landscape park with castle in Kassel, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3167
 longitude: 9.4
 images:
-  - "/images-sites/bergpark-wilhelmshoehe/01-090d66af-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plan_Weissenstein_Stawasser.jpg/1200px-Plan_Weissenstein_Stawasser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/1200px-18-09-20-Kassel-DJI_0101.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg/1200px-00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg/1200px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg/1200px-00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg
+image_srcset:
+  Plan Weissenstein Stawasser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plan_Weissenstein_Stawasser.jpg/400px-Plan_Weissenstein_Stawasser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plan_Weissenstein_Stawasser.jpg/800px-Plan_Weissenstein_Stawasser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plan_Weissenstein_Stawasser.jpg/1200px-Plan_Weissenstein_Stawasser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plan_Weissenstein_Stawasser.jpg/1920px-Plan_Weissenstein_Stawasser.jpg
+  18-09-20-Kassel-DJI 0101.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/400px-18-09-20-Kassel-DJI_0101.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/800px-18-09-20-Kassel-DJI_0101.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/1200px-18-09-20-Kassel-DJI_0101.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/18-09-20-Kassel-DJI_0101.jpg/1920px-18-09-20-Kassel-DJI_0101.jpg
+  00 2151 Bergpark Wilhelmshöhe, Kassel - Löwenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg/400px-00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg/800px-00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg/1200px-00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg/1920px-00_2151_Bergpark_Wilhelmshöhe,_Kassel_-_Löwenburg.jpg
+  00 3152 Landschaftsbild im Bergpark Wilhelmshöhe - Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg/400px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg/800px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg/1200px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg/1920px-00_3152_Landschaftsbild_im_Bergpark_Wilhelmshöhe_-_Kassel.jpg
+  00 4195 Bergpark Wilhelmshöhe - Schloss Café.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg/400px-00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg/800px-00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg/1200px-00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg/1920px-00_4195_Bergpark_Wilhelmshöhe_-_Schloss_Café.jpg
 ---
 
 ## Overview

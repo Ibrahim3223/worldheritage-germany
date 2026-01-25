@@ -1,19 +1,49 @@
 ---
-title: "Amper"
+title: Amper
 date: 2026-01-23
 draft: false
-description: "river in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5004
 longitude: 11.9566
 images:
-  - "/images-sites/amper/01-bf6d8e1c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg/1200px-Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weng,_Kraftwerk_Weng_(Amperkanal).jpg/1200px-Weng,_Kraftwerk_Weng_(Amperkanal).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Olching,_Bahnbrücke_über_die_Amper,_2.jpeg/1200px-Olching,_Bahnbrücke_über_die_Amper,_2.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amper_I.jpg/1200px-Amper_I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg/1200px-Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg
+image_srcset:
+  Fischtreppe Amper Kraftwerk 1 Dachau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg/400px-Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg/800px-Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg/1200px-Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg/1920px-Fischtreppe_Amper_Kraftwerk_1_Dachau.jpg
+  Weng, Kraftwerk Weng (Amperkanal).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weng,_Kraftwerk_Weng_(Amperkanal).jpg/400px-Weng,_Kraftwerk_Weng_(Amperkanal).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weng,_Kraftwerk_Weng_(Amperkanal).jpg/800px-Weng,_Kraftwerk_Weng_(Amperkanal).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weng,_Kraftwerk_Weng_(Amperkanal).jpg/1200px-Weng,_Kraftwerk_Weng_(Amperkanal).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Weng,_Kraftwerk_Weng_(Amperkanal).jpg/1920px-Weng,_Kraftwerk_Weng_(Amperkanal).jpg
+  Olching, Bahnbrücke über die Amper, 2.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Olching,_Bahnbrücke_über_die_Amper,_2.jpeg/400px-Olching,_Bahnbrücke_über_die_Amper,_2.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Olching,_Bahnbrücke_über_die_Amper,_2.jpeg/800px-Olching,_Bahnbrücke_über_die_Amper,_2.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Olching,_Bahnbrücke_über_die_Amper,_2.jpeg/1200px-Olching,_Bahnbrücke_über_die_Amper,_2.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Olching,_Bahnbrücke_über_die_Amper,_2.jpeg/1920px-Olching,_Bahnbrücke_über_die_Amper,_2.jpeg
+  Amper I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amper_I.jpg/400px-Amper_I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amper_I.jpg/800px-Amper_I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amper_I.jpg/1200px-Amper_I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amper_I.jpg/1920px-Amper_I.jpg
+  Amper bei Ampermoching - geo.hlipp.de - 20473.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg/400px-Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg/800px-Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg/1200px-Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg/1920px-Amper_bei_Ampermoching_-_geo.hlipp.de_-_20473.jpg
 ---
 
 ## Overview

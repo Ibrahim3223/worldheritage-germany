@@ -1,29 +1,49 @@
 ---
-title: "Francke Foundations"
+title: Francke Foundations
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4781
 longitude: 11.9719
-
-# Images
 images:
-  - "/images-sites/francke-foundations/01-1748dacf-800w.webp"
-  - "/images-sites/francke-foundations/02-f21acf08-800w.webp"
-  - "/images-sites/francke-foundations/03-b2303947-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg/1200px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg/1200px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg/1200px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg/1200px-Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FranckescheStiftungen_3.jpg/1200px-FranckescheStiftungen_3.jpg
+image_srcset:
+  Wustrau Brandenburg-Preußen Museum-Francke’schen Stiftungen Halle 3995.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg/400px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg/800px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg/1200px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg/1920px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3995.jpg
+  Wustrau Brandenburg-Preußen Museum-Francke’schen Stiftungen Halle 3994.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg/400px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg/800px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg/1200px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg/1920px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3994.jpg
+  Wustrau Brandenburg-Preußen Museum-Francke’schen Stiftungen Halle 3993.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg/400px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg/800px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg/1200px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg/1920px-Wustrau_Brandenburg-Preußen_Museum-Francke’schen_Stiftungen_Halle_3993.jpg
+  Historisches Waisenhaus der Franckeschen Stiftungen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg/400px-Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg/800px-Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg/1200px-Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg/1920px-Historisches_Waisenhaus_der_Franckeschen_Stiftungen.jpg
+  FranckescheStiftungen 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FranckescheStiftungen_3.jpg/400px-FranckescheStiftungen_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FranckescheStiftungen_3.jpg/800px-FranckescheStiftungen_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FranckescheStiftungen_3.jpg/1200px-FranckescheStiftungen_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FranckescheStiftungen_3.jpg/1920px-FranckescheStiftungen_3.jpg
 ---
 
 ## Overview

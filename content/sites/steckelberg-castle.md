@@ -21,7 +21,7 @@ longitude: 9.620277777
 
 # Images
 images:
-  - "/images-sites/steckelberg-castle/01-55c0fcab-800w.webp"
+  - "/images/steckelberg-castle/01-55c0fcab-800w.webp"
 ---
 
 ## Overview

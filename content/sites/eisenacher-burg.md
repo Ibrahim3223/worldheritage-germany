@@ -1,19 +1,49 @@
 ---
-title: "Eisenacher Burg"
+title: Eisenacher Burg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9625
 longitude: 10.3084
 images:
-  - "/images-sites/eisenacher-burg/01-4860692e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eisenach24_Viehburg.jpg/1200px-Eisenach24_Viehburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Eisenach24_NSG_Wartburgumgebung.jpg/1200px-Eisenach24_NSG_Wartburgumgebung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESA_Lutherweg_Infotafel1.jpg/1200px-ESA_Lutherweg_Infotafel1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ESA_EISENACHER_1995.jpg/1200px-ESA_EISENACHER_1995.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eisenacher_Burg.jpg/1200px-Eisenacher_Burg.jpg
+image_srcset:
+  Eisenach24 Viehburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eisenach24_Viehburg.jpg/400px-Eisenach24_Viehburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eisenach24_Viehburg.jpg/800px-Eisenach24_Viehburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eisenach24_Viehburg.jpg/1200px-Eisenach24_Viehburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Eisenach24_Viehburg.jpg/1920px-Eisenach24_Viehburg.jpg
+  Eisenach24 NSG Wartburgumgebung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Eisenach24_NSG_Wartburgumgebung.jpg/400px-Eisenach24_NSG_Wartburgumgebung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Eisenach24_NSG_Wartburgumgebung.jpg/800px-Eisenach24_NSG_Wartburgumgebung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Eisenach24_NSG_Wartburgumgebung.jpg/1200px-Eisenach24_NSG_Wartburgumgebung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Eisenach24_NSG_Wartburgumgebung.jpg/1920px-Eisenach24_NSG_Wartburgumgebung.jpg
+  ESA Lutherweg Infotafel1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESA_Lutherweg_Infotafel1.jpg/400px-ESA_Lutherweg_Infotafel1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESA_Lutherweg_Infotafel1.jpg/800px-ESA_Lutherweg_Infotafel1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESA_Lutherweg_Infotafel1.jpg/1200px-ESA_Lutherweg_Infotafel1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESA_Lutherweg_Infotafel1.jpg/1920px-ESA_Lutherweg_Infotafel1.jpg
+  ESA EISENACHER 1995.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ESA_EISENACHER_1995.jpg/400px-ESA_EISENACHER_1995.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ESA_EISENACHER_1995.jpg/800px-ESA_EISENACHER_1995.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ESA_EISENACHER_1995.jpg/1200px-ESA_EISENACHER_1995.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ESA_EISENACHER_1995.jpg/1920px-ESA_EISENACHER_1995.jpg
+  Eisenacher Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eisenacher_Burg.jpg/400px-Eisenacher_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eisenacher_Burg.jpg/800px-Eisenacher_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eisenacher_Burg.jpg/1200px-Eisenacher_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eisenacher_Burg.jpg/1920px-Eisenacher_Burg.jpg
 ---
 
 ## Overview

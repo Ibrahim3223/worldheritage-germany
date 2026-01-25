@@ -1,23 +1,50 @@
 ---
-title: "Alexander Nevsky Memorial Church"
-site_name: "Alexander Nevsky Memorial Church"
-slug: "alexander-nevsky-memorial-church"
-region: "Brandenburg"
-
-# Location
+title: Alexander Nevsky Memorial Church
+site_name: Alexander Nevsky Memorial Church
+slug: alexander-nevsky-memorial-church
+region: Brandenburg
 latitude: 52.415183
 longitude: 13.057717
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q464437"
-description: "The Alexander Nevsky Memorial Church in Potsdam is a remarkable church building that stands as a symbol of cultural and historical significance in Germa..."
+- cultural site
+wikidata_id: Q464437
+description: The Alexander Nevsky Memorial Church in Potsdam is a remarkable church
+  building that stands as a symbol of cultural and historical significance in Germa...
 images:
-  - "/images-sites/alexander-nevsky-memorial-church/01-53dcd82c-1920w.webp"
-  - "/images-sites/alexander-nevsky-memorial-church/02-2dc33f89-1920w.webp"
-  - "/images-sites/alexander-nevsky-memorial-church/03-55a19536-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Potsdam%20Alexandrowka%2002-14%20img6.jpg/1200px-Potsdam%20Alexandrowka%2002-14%20img6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Potsdam_Alexandrowka_02-14_img5.jpg/1200px-Potsdam_Alexandrowka_02-14_img5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Potsdam_Alexandrowka_02-14_img4.jpg/1200px-Potsdam_Alexandrowka_02-14_img4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg/1200px-Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Potsdam_Russische_Kirche_Alexander_Newski.jpg/1200px-Potsdam_Russische_Kirche_Alexander_Newski.jpg
+image_srcset:
+  Potsdam%20Alexandrowka%2002-14%20img6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Potsdam%20Alexandrowka%2002-14%20img6.jpg/400px-Potsdam%20Alexandrowka%2002-14%20img6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Potsdam%20Alexandrowka%2002-14%20img6.jpg/800px-Potsdam%20Alexandrowka%2002-14%20img6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Potsdam%20Alexandrowka%2002-14%20img6.jpg/1200px-Potsdam%20Alexandrowka%2002-14%20img6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Potsdam%20Alexandrowka%2002-14%20img6.jpg/1920px-Potsdam%20Alexandrowka%2002-14%20img6.jpg
+  Potsdam Alexandrowka 02-14 img5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Potsdam_Alexandrowka_02-14_img5.jpg/400px-Potsdam_Alexandrowka_02-14_img5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Potsdam_Alexandrowka_02-14_img5.jpg/800px-Potsdam_Alexandrowka_02-14_img5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Potsdam_Alexandrowka_02-14_img5.jpg/1200px-Potsdam_Alexandrowka_02-14_img5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Potsdam_Alexandrowka_02-14_img5.jpg/1920px-Potsdam_Alexandrowka_02-14_img5.jpg
+  Potsdam Alexandrowka 02-14 img4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Potsdam_Alexandrowka_02-14_img4.jpg/400px-Potsdam_Alexandrowka_02-14_img4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Potsdam_Alexandrowka_02-14_img4.jpg/800px-Potsdam_Alexandrowka_02-14_img4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Potsdam_Alexandrowka_02-14_img4.jpg/1200px-Potsdam_Alexandrowka_02-14_img4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Potsdam_Alexandrowka_02-14_img4.jpg/1920px-Potsdam_Alexandrowka_02-14_img4.jpg
+  Russische Orthodoxe Kirche Alexander Newski Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg/400px-Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg/800px-Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg/1200px-Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg/1920px-Russische_Orthodoxe_Kirche_Alexander_Newski_Potsdam.jpg
+  Potsdam Russische Kirche Alexander Newski.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Potsdam_Russische_Kirche_Alexander_Newski.jpg/400px-Potsdam_Russische_Kirche_Alexander_Newski.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Potsdam_Russische_Kirche_Alexander_Newski.jpg/800px-Potsdam_Russische_Kirche_Alexander_Newski.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Potsdam_Russische_Kirche_Alexander_Newski.jpg/1200px-Potsdam_Russische_Kirche_Alexander_Newski.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Potsdam_Russische_Kirche_Alexander_Newski.jpg/1920px-Potsdam_Russische_Kirche_Alexander_Newski.jpg
 ---
 
 ## Overview

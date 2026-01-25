@@ -21,8 +21,8 @@ longitude: 6.56869
 
 # Images
 images:
-  - "/images-sites/welschbillig-castle/01-b54565e4-800w.webp"
-  - "/images-sites/welschbillig-castle/03-6d77d094-800w.webp"
+  - "/images/welschbillig-castle/01-b54565e4-800w.webp"
+  - "/images/welschbillig-castle/03-6d77d094-800w.webp"
 ---
 
 ## Overview

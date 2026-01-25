@@ -1,19 +1,49 @@
 ---
-title: "Friedhof der Märzgefallenen"
+title: Friedhof der Märzgefallenen
 date: 2026-01-23
 draft: false
-description: "cemetery in Friedrichshain-Kreuzberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Friedrichshain-Kreuzberg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.524444444
 longitude: 13.436388888
 images:
-  - "/images-sites/friedhof-der-maerzgefallenen/01-d27309e7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MärzgefalleneInschrift.JPG/1200px-MärzgefalleneInschrift.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FdM_Gedenkstein2.JPG/1200px-FdM_Gedenkstein2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/FdM_Grabstein.JPG/1200px-FdM_Grabstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1200px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P1010071.JPG/1200px-P1010071.JPG
+image_srcset:
+  MärzgefalleneInschrift.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MärzgefalleneInschrift.JPG/400px-MärzgefalleneInschrift.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MärzgefalleneInschrift.JPG/800px-MärzgefalleneInschrift.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MärzgefalleneInschrift.JPG/1200px-MärzgefalleneInschrift.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MärzgefalleneInschrift.JPG/1920px-MärzgefalleneInschrift.JPG
+  FdM Gedenkstein2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FdM_Gedenkstein2.JPG/400px-FdM_Gedenkstein2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FdM_Gedenkstein2.JPG/800px-FdM_Gedenkstein2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FdM_Gedenkstein2.JPG/1200px-FdM_Gedenkstein2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FdM_Gedenkstein2.JPG/1920px-FdM_Gedenkstein2.JPG
+  FdM Grabstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/FdM_Grabstein.JPG/400px-FdM_Grabstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/FdM_Grabstein.JPG/800px-FdM_Grabstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/FdM_Grabstein.JPG/1200px-FdM_Grabstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/FdM_Grabstein.JPG/1920px-FdM_Grabstein.JPG
+  Kreuz, Friedhof der Märzgefallenen, Friedrichshain, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/400px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/800px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1200px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg/1920px-Kreuz,_Friedhof_der_Märzgefallenen,_Friedrichshain,_Berlin.jpg
+  P1010071.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P1010071.JPG/400px-P1010071.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P1010071.JPG/800px-P1010071.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P1010071.JPG/1200px-P1010071.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P1010071.JPG/1920px-P1010071.JPG
 ---
 
 ## Overview

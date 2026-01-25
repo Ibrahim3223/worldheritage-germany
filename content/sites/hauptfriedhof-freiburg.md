@@ -1,19 +1,49 @@
 ---
-title: "Hauptfriedhof Freiburg"
+title: Hauptfriedhof Freiburg
 date: 2026-01-23
 draft: false
-description: "cemetery in Freiburg im Breisgau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Freiburg im Breisgau, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0075
 longitude: 7.84495
 images:
-  - "/images-sites/hauptfriedhof-freiburg/01-bd202709-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hauptfriedhof_(Freiburg)_40.jpg/1200px-Hauptfriedhof_(Freiburg)_40.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg/1200px-Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg/1200px-Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg/1200px-Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Freiburg_Eingangstor_Hauptfriedhof.jpg/1200px-Freiburg_Eingangstor_Hauptfriedhof.jpg
+image_srcset:
+  Hauptfriedhof (Freiburg) 40.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hauptfriedhof_(Freiburg)_40.jpg/400px-Hauptfriedhof_(Freiburg)_40.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hauptfriedhof_(Freiburg)_40.jpg/800px-Hauptfriedhof_(Freiburg)_40.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hauptfriedhof_(Freiburg)_40.jpg/1200px-Hauptfriedhof_(Freiburg)_40.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hauptfriedhof_(Freiburg)_40.jpg/1920px-Hauptfriedhof_(Freiburg)_40.jpg
+  Gedenkstein Opfer Belagerung Freiburgs 1744 und Opfer dt.-frz. Kriege - Hauptfriedhof Freiburg Breisgau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg/400px-Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg/800px-Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg/1200px-Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg/1920px-Gedenkstein_Opfer_Belagerung_Freiburgs_1744_und_Opfer_dt.-frz._Kriege_-_Hauptfriedhof_Freiburg_Breisgau.jpg
+  Ruhestätte Diehl - Prof. Dr. Karl Diehl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg/400px-Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg/800px-Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg/1200px-Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg/1920px-Ruhestätte_Diehl_-_Prof._Dr._Karl_Diehl.jpg
+  Ruhestätte Geiler - Franz Geiler 1879-1948 - Bürgermeister Freiburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg/400px-Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg/800px-Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg/1200px-Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg/1920px-Ruhestätte_Geiler_-_Franz_Geiler_1879-1948_-_Bürgermeister_Freiburg.jpg
+  Freiburg Eingangstor Hauptfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Freiburg_Eingangstor_Hauptfriedhof.jpg/400px-Freiburg_Eingangstor_Hauptfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Freiburg_Eingangstor_Hauptfriedhof.jpg/800px-Freiburg_Eingangstor_Hauptfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Freiburg_Eingangstor_Hauptfriedhof.jpg/1200px-Freiburg_Eingangstor_Hauptfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Freiburg_Eingangstor_Hauptfriedhof.jpg/1920px-Freiburg_Eingangstor_Hauptfriedhof.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 8.8
 
 # Images
 images:
-  - "/images-sites/teerhof/01-5e373919-800w.webp"
+  - "/images/teerhof/01-5e373919-800w.webp"
 ---
 
 ## Overview

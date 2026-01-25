@@ -1,20 +1,43 @@
 ---
-title: "Glaselefant"
+title: Glaselefant
 date: 2026-01-23
 draft: false
-description: "landmark in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: landmark in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6829
 longitude: 7.88174
 images:
-  - "/images-sites/glaselefant/02-fc52988a-800w.webp"
-  - "/images-sites/glaselefant/03-1e71db1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hamm,_Germany_-_panoramio_(5686).jpg/1200px-Hamm,_Germany_-_panoramio_(5686).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg/1200px-Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamm,_Germany_-_panoramio_(1171).jpg/1200px-Hamm,_Germany_-_panoramio_(1171).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaselefant_Hamm.jpg/1200px-Glaselefant_Hamm.jpg
+image_srcset:
+  Hamm, Germany - panoramio (5686).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hamm,_Germany_-_panoramio_(5686).jpg/400px-Hamm,_Germany_-_panoramio_(5686).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hamm,_Germany_-_panoramio_(5686).jpg/800px-Hamm,_Germany_-_panoramio_(5686).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hamm,_Germany_-_panoramio_(5686).jpg/1200px-Hamm,_Germany_-_panoramio_(5686).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hamm,_Germany_-_panoramio_(5686).jpg/1920px-Hamm,_Germany_-_panoramio_(5686).jpg
+  Glaselefant hinter der Maximilianhalle - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg/400px-Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg/800px-Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg/1200px-Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg/1920px-Glaselefant_hinter_der_Maximilianhalle_-_panoramio.jpg
+  Hamm, Germany - panoramio (1171).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamm,_Germany_-_panoramio_(1171).jpg/400px-Hamm,_Germany_-_panoramio_(1171).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamm,_Germany_-_panoramio_(1171).jpg/800px-Hamm,_Germany_-_panoramio_(1171).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamm,_Germany_-_panoramio_(1171).jpg/1200px-Hamm,_Germany_-_panoramio_(1171).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamm,_Germany_-_panoramio_(1171).jpg/1920px-Hamm,_Germany_-_panoramio_(1171).jpg
+  Glaselefant Hamm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaselefant_Hamm.jpg/400px-Glaselefant_Hamm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaselefant_Hamm.jpg/800px-Glaselefant_Hamm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaselefant_Hamm.jpg/1200px-Glaselefant_Hamm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaselefant_Hamm.jpg/1920px-Glaselefant_Hamm.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.0875
 longitude: 13.114166666
 images:
-  - "/images-sites/rieslochfaelle/01-7b128ed3-800w.webp"
+  - "/images/rieslochfaelle/01-7b128ed3-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Delphinbrunnen in Dresden, Germany"
+title: Delphinbrunnen in Dresden, Germany
 date: 2026-01-23
 draft: false
-description: "water well"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: water well
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.05307
 longitude: 13.74434
 images:
-  - "/images-sites/delphinbrunnen-in-dresden-germany/01-ac20e7d0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20240929.Delphinbrunnen.-013.jpg/1200px-20240929.Delphinbrunnen.-013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg/1200px-Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg/1200px-Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/1200px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphinbrunnen_dresden.JPG/1200px-Delphinbrunnen_dresden.JPG
+image_srcset:
+  20240929.Delphinbrunnen.-013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20240929.Delphinbrunnen.-013.jpg/400px-20240929.Delphinbrunnen.-013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20240929.Delphinbrunnen.-013.jpg/800px-20240929.Delphinbrunnen.-013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20240929.Delphinbrunnen.-013.jpg/1200px-20240929.Delphinbrunnen.-013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20240929.Delphinbrunnen.-013.jpg/1920px-20240929.Delphinbrunnen.-013.jpg
+  Dresden - Auf der alten Festungsanlage - Bild 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg/400px-Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg/800px-Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg/1200px-Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg/1920px-Dresden_-_Auf_der_alten_Festungsanlage_-_Bild_001.jpg
+  Dresden - Brühlscher Garten - View East towards Delphinbrunnen 1749 by Pierre Coudray.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg/400px-Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg/800px-Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg/1200px-Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg/1920px-Dresden_-_Brühlscher_Garten_-_View_East_towards_Delphinbrunnen_1749_by_Pierre_Coudray.jpg
+  20060819015DR Dresden Delphinbrunnen Brühlsche Terrasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/400px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/800px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/1200px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg/1920px-20060819015DR_Dresden_Delphinbrunnen_Brühlsche_Terrasse.jpg
+  Delphinbrunnen dresden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphinbrunnen_dresden.JPG/400px-Delphinbrunnen_dresden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphinbrunnen_dresden.JPG/800px-Delphinbrunnen_dresden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphinbrunnen_dresden.JPG/1200px-Delphinbrunnen_dresden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Delphinbrunnen_dresden.JPG/1920px-Delphinbrunnen_dresden.JPG
 ---
 
 ## Overview

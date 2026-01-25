@@ -13,7 +13,7 @@ regions:
 latitude: 50.949166666
 longitude: 6.975555555
 images:
-  - "/images-sites/rheinpark/01-13c7340b-800w.webp"
+  - "/images/rheinpark/01-13c7340b-800w.webp"
 ---
 
 ## Overview

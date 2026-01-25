@@ -1,19 +1,49 @@
 ---
-title: "Bärental in Oberfranken"
+title: Bärental in Oberfranken
 date: 2026-01-24
 draft: false
-description: "valley in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 50.05157
 longitude: 11.26557
 images:
-  - "/images-sites/baerental-in-oberfranken/01-ef924916-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bärental-Schräge-Wand.jpg/1200px-Bärental-Schräge-Wand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bärental-Krassachquelle.jpg/1200px-Bärental-Krassachquelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bärental-Marienstatue.jpg/1200px-Bärental-Marienstatue.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bärental-Kruzifix.jpg/1200px-Bärental-Kruzifix.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schraege_wand.jpg/1200px-Schraege_wand.jpg
+image_srcset:
+  Bärental-Schräge-Wand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bärental-Schräge-Wand.jpg/400px-Bärental-Schräge-Wand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bärental-Schräge-Wand.jpg/800px-Bärental-Schräge-Wand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bärental-Schräge-Wand.jpg/1200px-Bärental-Schräge-Wand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bärental-Schräge-Wand.jpg/1920px-Bärental-Schräge-Wand.jpg
+  Bärental-Krassachquelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bärental-Krassachquelle.jpg/400px-Bärental-Krassachquelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bärental-Krassachquelle.jpg/800px-Bärental-Krassachquelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bärental-Krassachquelle.jpg/1200px-Bärental-Krassachquelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bärental-Krassachquelle.jpg/1920px-Bärental-Krassachquelle.jpg
+  Bärental-Marienstatue.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bärental-Marienstatue.jpg/400px-Bärental-Marienstatue.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bärental-Marienstatue.jpg/800px-Bärental-Marienstatue.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bärental-Marienstatue.jpg/1200px-Bärental-Marienstatue.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bärental-Marienstatue.jpg/1920px-Bärental-Marienstatue.jpg
+  Bärental-Kruzifix.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bärental-Kruzifix.jpg/400px-Bärental-Kruzifix.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bärental-Kruzifix.jpg/800px-Bärental-Kruzifix.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bärental-Kruzifix.jpg/1200px-Bärental-Kruzifix.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bärental-Kruzifix.jpg/1920px-Bärental-Kruzifix.jpg
+  Schraege wand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schraege_wand.jpg/400px-Schraege_wand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schraege_wand.jpg/800px-Schraege_wand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schraege_wand.jpg/1200px-Schraege_wand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schraege_wand.jpg/1920px-Schraege_wand.jpg
 ---
 
 ## Overview

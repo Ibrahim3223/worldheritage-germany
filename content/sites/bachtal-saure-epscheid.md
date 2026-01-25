@@ -1,19 +1,37 @@
 ---
-title: "Bachtal Saure Epscheid"
+title: Bachtal Saure Epscheid
 date: 2026-01-23
 draft: false
-description: "nature reserve in Hagen, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Hagen, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.275
 longitude: 7.505416666
 images:
-  - "/images-sites/bachtal-saure-epscheid/01-5c31dc5d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagen_NSG-Bachtal_Saure_Epscheid.JPG/1200px-Hagen_NSG-Bachtal_Saure_Epscheid.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Saure_Epscheid.jpg/1200px-Saure_Epscheid.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Epscheider_Bach._Reader.jpg/1200px-Epscheider_Bach._Reader.jpg
+image_srcset:
+  Hagen NSG-Bachtal Saure Epscheid.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagen_NSG-Bachtal_Saure_Epscheid.JPG/400px-Hagen_NSG-Bachtal_Saure_Epscheid.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagen_NSG-Bachtal_Saure_Epscheid.JPG/800px-Hagen_NSG-Bachtal_Saure_Epscheid.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagen_NSG-Bachtal_Saure_Epscheid.JPG/1200px-Hagen_NSG-Bachtal_Saure_Epscheid.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagen_NSG-Bachtal_Saure_Epscheid.JPG/1920px-Hagen_NSG-Bachtal_Saure_Epscheid.JPG
+  Saure Epscheid.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Saure_Epscheid.jpg/400px-Saure_Epscheid.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Saure_Epscheid.jpg/800px-Saure_Epscheid.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Saure_Epscheid.jpg/1200px-Saure_Epscheid.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Saure_Epscheid.jpg/1920px-Saure_Epscheid.jpg
+  Epscheider Bach. Reader.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Epscheider_Bach._Reader.jpg/400px-Epscheider_Bach._Reader.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Epscheider_Bach._Reader.jpg/800px-Epscheider_Bach._Reader.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Epscheider_Bach._Reader.jpg/1200px-Epscheider_Bach._Reader.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Epscheider_Bach._Reader.jpg/1920px-Epscheider_Bach._Reader.jpg
 ---
 
 ## Overview

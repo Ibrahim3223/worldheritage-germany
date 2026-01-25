@@ -21,7 +21,7 @@ longitude: 6.64408
 
 # Images
 images:
-  - "/images-sites/ramstein-castle/01-ca128324-800w.webp"
+  - "/images/ramstein-castle/01-ca128324-800w.webp"
 ---
 
 ## Overview

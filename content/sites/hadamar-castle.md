@@ -1,21 +1,49 @@
 ---
-title: "Hadamar Castle"
+title: Hadamar Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Courthouse"
+description: Castle in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Courthouse
 categories:
-  - "Courthouse"
+- Courthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4473
 longitude: 8.045
 images:
-  - "/images-sites/hadamar-castle/01-258ac6ef-800w.webp"
-  - "/images-sites/hadamar-castle/02-287a2968-800w.webp"
-  - "/images-sites/hadamar-castle/03-a2168cc5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Hadamar_Westfluegel.jpg/1200px-Schloss_Hadamar_Westfluegel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Hadamar_Nordfluegel_aussen.jpg/1200px-Schloss_Hadamar_Nordfluegel_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Hadamar_Wirtschaftshof.jpg/1200px-Schloss_Hadamar_Wirtschaftshof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hadamar_-_Schloss_vom_Herzenberg_aus.jpg/1200px-Hadamar_-_Schloss_vom_Herzenberg_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1200px-Hadamar_-_Fohlenhof.jpg
+image_srcset:
+  Schloss Hadamar Westfluegel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Hadamar_Westfluegel.jpg/400px-Schloss_Hadamar_Westfluegel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Hadamar_Westfluegel.jpg/800px-Schloss_Hadamar_Westfluegel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Hadamar_Westfluegel.jpg/1200px-Schloss_Hadamar_Westfluegel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schloss_Hadamar_Westfluegel.jpg/1920px-Schloss_Hadamar_Westfluegel.jpg
+  Schloss Hadamar Nordfluegel aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Hadamar_Nordfluegel_aussen.jpg/400px-Schloss_Hadamar_Nordfluegel_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Hadamar_Nordfluegel_aussen.jpg/800px-Schloss_Hadamar_Nordfluegel_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Hadamar_Nordfluegel_aussen.jpg/1200px-Schloss_Hadamar_Nordfluegel_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss_Hadamar_Nordfluegel_aussen.jpg/1920px-Schloss_Hadamar_Nordfluegel_aussen.jpg
+  Schloss Hadamar Wirtschaftshof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Hadamar_Wirtschaftshof.jpg/400px-Schloss_Hadamar_Wirtschaftshof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Hadamar_Wirtschaftshof.jpg/800px-Schloss_Hadamar_Wirtschaftshof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Hadamar_Wirtschaftshof.jpg/1200px-Schloss_Hadamar_Wirtschaftshof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schloss_Hadamar_Wirtschaftshof.jpg/1920px-Schloss_Hadamar_Wirtschaftshof.jpg
+  Hadamar - Schloss vom Herzenberg aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hadamar_-_Schloss_vom_Herzenberg_aus.jpg/400px-Hadamar_-_Schloss_vom_Herzenberg_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hadamar_-_Schloss_vom_Herzenberg_aus.jpg/800px-Hadamar_-_Schloss_vom_Herzenberg_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hadamar_-_Schloss_vom_Herzenberg_aus.jpg/1200px-Hadamar_-_Schloss_vom_Herzenberg_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hadamar_-_Schloss_vom_Herzenberg_aus.jpg/1920px-Hadamar_-_Schloss_vom_Herzenberg_aus.jpg
+  Hadamar - Fohlenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/400px-Hadamar_-_Fohlenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/800px-Hadamar_-_Fohlenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1200px-Hadamar_-_Fohlenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hadamar_-_Fohlenhof.jpg/1920px-Hadamar_-_Fohlenhof.jpg
 ---
 
 ## Overview

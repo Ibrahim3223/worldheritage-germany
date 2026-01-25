@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1658447"
 description: "St. Lambertus Church in Ostercappeln, Germany, is a striking example of Gothic Revival architecture. As you approach this church, the intricate details ..."
 images:
-  - "/images-sites/st-lambertus/01-a712c9cb-1920w.webp"
-  - "/images-sites/st-lambertus/02-6e9ff853-1920w.webp"
-  - "/images-sites/st-lambertus/03-110f9f6c-1920w.webp"
+  - "/images/st-lambertus/01-a712c9cb-1920w.webp"
+  - "/images/st-lambertus/02-6e9ff853-1920w.webp"
+  - "/images/st-lambertus/03-110f9f6c-1920w.webp"
 ---
 
 ## Overview

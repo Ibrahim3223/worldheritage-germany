@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q524044"
 description: "In the heart of Munich, Trinity Church stands as a remarkable example of Baroque architecture, captivating visitors with its ornate design and spiritual..."
 images:
-  - "/images-sites/trinity-church/01-187bc7fa-1920w.webp"
-  - "/images-sites/trinity-church/02-79f7d102-1920w.webp"
-  - "/images-sites/trinity-church/03-02e8db3d-1920w.webp"
+  - "/images/trinity-church/01-187bc7fa-1920w.webp"
+  - "/images/trinity-church/02-79f7d102-1920w.webp"
+  - "/images/trinity-church/03-02e8db3d-1920w.webp"
 ---
 
 ## Overview

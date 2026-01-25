@@ -1,21 +1,49 @@
 ---
-title: "Baumwollspinnerei Ermen & Engels"
+title: Baumwollspinnerei Ermen & Engels
 date: 2026-01-23
 draft: false
-description: "former cotton mill in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: former cotton mill in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9835
 longitude: 7.40986
 images:
-  - "/images-sites/baumwollspinnerei-ermen-engels/01-bc9b4104-800w.webp"
-  - "/images-sites/baumwollspinnerei-ermen-engels/02-d8fdc7da-800w.webp"
-  - "/images-sites/baumwollspinnerei-ermen-engels/03-902b5a3c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg/1200px-Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg/1200px-Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg/1200px-Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engelskirchen_02_ies.jpg/1200px-Engelskirchen_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/1200px-Industriemuseum_Engelskirchen.jpg
+image_srcset:
+  Engelskirchen - Rheinisches Industriemuseum 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg/400px-Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg/800px-Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg/1200px-Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg/1920px-Engelskirchen_-_Rheinisches_Industriemuseum_02_ies.jpg
+  Engelskirchen - Rheinisches Industriemuseum 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg/400px-Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg/800px-Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg/1200px-Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg/1920px-Engelskirchen_-_Rheinisches_Industriemuseum_04_ies.jpg
+  Engelskirchen - Rheinisches Industriemuseum 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg/400px-Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg/800px-Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg/1200px-Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg/1920px-Engelskirchen_-_Rheinisches_Industriemuseum_05_ies.jpg
+  Engelskirchen 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engelskirchen_02_ies.jpg/400px-Engelskirchen_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engelskirchen_02_ies.jpg/800px-Engelskirchen_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engelskirchen_02_ies.jpg/1200px-Engelskirchen_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engelskirchen_02_ies.jpg/1920px-Engelskirchen_02_ies.jpg
+  Industriemuseum Engelskirchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/400px-Industriemuseum_Engelskirchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/800px-Industriemuseum_Engelskirchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/1200px-Industriemuseum_Engelskirchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Industriemuseum_Engelskirchen.jpg/1920px-Industriemuseum_Engelskirchen.jpg
 ---
 
 ## Overview

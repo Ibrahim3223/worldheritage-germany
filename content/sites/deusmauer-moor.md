@@ -1,19 +1,49 @@
 ---
-title: "Deusmauer Moor"
+title: Deusmauer Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 49.256613888
 longitude: 11.614613888
 images:
-  - "/images-sites/deusmauer-moor/01-bd8bbb03-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Deusmauer_Moor_bei_Dietkirchen_-003.JPG/1200px-Deusmauer_Moor_bei_Dietkirchen_-003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lengenfeld_Oberpfalz_NM_001.JPG/1200px-Lengenfeld_Oberpfalz_NM_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lengenfeld_Oberpfalz_NM_003.JPG/1200px-Lengenfeld_Oberpfalz_NM_003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lengenfeld_Oberpfalz_NM_004.JPG/1200px-Lengenfeld_Oberpfalz_NM_004.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lengenfeld_Oberpfalz_NM_006.JPG/1200px-Lengenfeld_Oberpfalz_NM_006.JPG
+image_srcset:
+  Deusmauer Moor bei Dietkirchen -003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Deusmauer_Moor_bei_Dietkirchen_-003.JPG/400px-Deusmauer_Moor_bei_Dietkirchen_-003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Deusmauer_Moor_bei_Dietkirchen_-003.JPG/800px-Deusmauer_Moor_bei_Dietkirchen_-003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Deusmauer_Moor_bei_Dietkirchen_-003.JPG/1200px-Deusmauer_Moor_bei_Dietkirchen_-003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Deusmauer_Moor_bei_Dietkirchen_-003.JPG/1920px-Deusmauer_Moor_bei_Dietkirchen_-003.JPG
+  Lengenfeld Oberpfalz NM 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lengenfeld_Oberpfalz_NM_001.JPG/400px-Lengenfeld_Oberpfalz_NM_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lengenfeld_Oberpfalz_NM_001.JPG/800px-Lengenfeld_Oberpfalz_NM_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lengenfeld_Oberpfalz_NM_001.JPG/1200px-Lengenfeld_Oberpfalz_NM_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lengenfeld_Oberpfalz_NM_001.JPG/1920px-Lengenfeld_Oberpfalz_NM_001.JPG
+  Lengenfeld Oberpfalz NM 003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lengenfeld_Oberpfalz_NM_003.JPG/400px-Lengenfeld_Oberpfalz_NM_003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lengenfeld_Oberpfalz_NM_003.JPG/800px-Lengenfeld_Oberpfalz_NM_003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lengenfeld_Oberpfalz_NM_003.JPG/1200px-Lengenfeld_Oberpfalz_NM_003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lengenfeld_Oberpfalz_NM_003.JPG/1920px-Lengenfeld_Oberpfalz_NM_003.JPG
+  Lengenfeld Oberpfalz NM 004.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lengenfeld_Oberpfalz_NM_004.JPG/400px-Lengenfeld_Oberpfalz_NM_004.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lengenfeld_Oberpfalz_NM_004.JPG/800px-Lengenfeld_Oberpfalz_NM_004.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lengenfeld_Oberpfalz_NM_004.JPG/1200px-Lengenfeld_Oberpfalz_NM_004.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lengenfeld_Oberpfalz_NM_004.JPG/1920px-Lengenfeld_Oberpfalz_NM_004.JPG
+  Lengenfeld Oberpfalz NM 006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lengenfeld_Oberpfalz_NM_006.JPG/400px-Lengenfeld_Oberpfalz_NM_006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lengenfeld_Oberpfalz_NM_006.JPG/800px-Lengenfeld_Oberpfalz_NM_006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lengenfeld_Oberpfalz_NM_006.JPG/1200px-Lengenfeld_Oberpfalz_NM_006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lengenfeld_Oberpfalz_NM_006.JPG/1920px-Lengenfeld_Oberpfalz_NM_006.JPG
 ---
 
 ## Overview

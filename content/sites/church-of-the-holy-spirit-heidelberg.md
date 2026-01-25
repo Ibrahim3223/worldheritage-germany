@@ -1,23 +1,26 @@
 ---
-title: "Church of the Holy SpiritHeidelberg"
-site_name: "Church of the Holy SpiritHeidelberg"
-slug: "church-of-the-holy-spirit-heidelberg"
-region: "Hesse"
-
-# Location
+title: Church of the Holy SpiritHeidelberg
+site_name: Church of the Holy SpiritHeidelberg
+slug: church-of-the-holy-spirit-heidelberg
+region: Hesse
 latitude: 49.412083333333
 longitude: 8.70975
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q574702"
-description: "The Church of the Holy Spirit in Heidelberg, a striking example of Gothic architecture, invites visitors to explore a piece of history that dates back t..."
+- cultural site
+wikidata_id: Q574702
+description: The Church of the Holy Spirit in Heidelberg, a striking example of Gothic
+  architecture, invites visitors to explore a piece of history that dates back t...
 images:
-  - "/images-sites/church-of-the-holy-spirit-heidelberg/01-4b72acd1-1920w.webp"
-  - "/images-sites/church-of-the-holy-spirit-heidelberg/02-afc144fa-1920w.webp"
-  - "/images-sites/church-of-the-holy-spirit-heidelberg/03-aa2a5656-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Heidelberg%2020060420%20021.jpg/1200px-Heidelberg%2020060420%20021.jpg
+image_srcset:
+  Heidelberg%2020060420%20021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Heidelberg%2020060420%20021.jpg/400px-Heidelberg%2020060420%20021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Heidelberg%2020060420%20021.jpg/800px-Heidelberg%2020060420%20021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Heidelberg%2020060420%20021.jpg/1200px-Heidelberg%2020060420%20021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Heidelberg%2020060420%20021.jpg/1920px-Heidelberg%2020060420%20021.jpg
 ---
 
 ## Overview

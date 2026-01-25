@@ -1,19 +1,50 @@
 ---
-title: "Fellhorn"
+title: Fellhorn
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps at the border of Bavaria, Germany, and Vorarlberg, Austria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps at the border of Bavaria, Germany, and Vorarlberg,
+  Austria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.350555555
 longitude: 10.2175
 images:
-  - "/images-sites/fellhorn/01-2b181459-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_in_der_Nähe_des_Söllerkopf.jpg/1200px-Panorama_in_der_Nähe_des_Söllerkopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DSC02329-x.jpg/1200px-DSC02329-x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg/1200px-Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kanzelwand_und_Fellhorn_7.JPG/1200px-Kanzelwand_und_Fellhorn_7.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alpen_fellhorn2.jpg/1200px-Alpen_fellhorn2.jpg
+image_srcset:
+  Panorama in der Nähe des Söllerkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_in_der_Nähe_des_Söllerkopf.jpg/400px-Panorama_in_der_Nähe_des_Söllerkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_in_der_Nähe_des_Söllerkopf.jpg/800px-Panorama_in_der_Nähe_des_Söllerkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_in_der_Nähe_des_Söllerkopf.jpg/1200px-Panorama_in_der_Nähe_des_Söllerkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_in_der_Nähe_des_Söllerkopf.jpg/1920px-Panorama_in_der_Nähe_des_Söllerkopf.jpg
+  DSC02329-x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DSC02329-x.jpg/400px-DSC02329-x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DSC02329-x.jpg/800px-DSC02329-x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DSC02329-x.jpg/1200px-DSC02329-x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DSC02329-x.jpg/1920px-DSC02329-x.jpg
+  Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg/400px-Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg/800px-Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg/1200px-Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg/1920px-Nebelhorn-Kleinwalser-JR-E-6335-2022-09-12.jpg
+  Kanzelwand und Fellhorn 7.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kanzelwand_und_Fellhorn_7.JPG/400px-Kanzelwand_und_Fellhorn_7.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kanzelwand_und_Fellhorn_7.JPG/800px-Kanzelwand_und_Fellhorn_7.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kanzelwand_und_Fellhorn_7.JPG/1200px-Kanzelwand_und_Fellhorn_7.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kanzelwand_und_Fellhorn_7.JPG/1920px-Kanzelwand_und_Fellhorn_7.JPG
+  Alpen fellhorn2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alpen_fellhorn2.jpg/400px-Alpen_fellhorn2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alpen_fellhorn2.jpg/800px-Alpen_fellhorn2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alpen_fellhorn2.jpg/1200px-Alpen_fellhorn2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alpen_fellhorn2.jpg/1920px-Alpen_fellhorn2.jpg
 ---
 
 ## Overview

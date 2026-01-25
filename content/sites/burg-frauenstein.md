@@ -1,28 +1,49 @@
 ---
-title: "Burg Frauenstein"
+title: Burg Frauenstein
 date: 2026-01-23
 draft: false
-description: "castle in Frauenstein, Wiesbaden, Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Frauenstein, Wiesbaden, Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.0651
 longitude: 8.15458
-
-# Images
 images:
-  - "/images-sites/burg-frauenstein/02-fcc28860-800w.webp"
-  - "/images-sites/burg-frauenstein/03-4791ca24-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19710724111NR_Frauenstein_Burgruine.jpg/1200px-19710724111NR_Frauenstein_Burgruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19710724105NR_Frauenstein_Burgruine.jpg/1200px-19710724105NR_Frauenstein_Burgruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/BurgFrauensteinErzgebirge01.jpg/1200px-BurgFrauensteinErzgebirge01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg/1200px-20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiesbaden_burgruine_frauenstein_1.jpg/1200px-Wiesbaden_burgruine_frauenstein_1.jpg
+image_srcset:
+  19710724111NR Frauenstein Burgruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19710724111NR_Frauenstein_Burgruine.jpg/400px-19710724111NR_Frauenstein_Burgruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19710724111NR_Frauenstein_Burgruine.jpg/800px-19710724111NR_Frauenstein_Burgruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19710724111NR_Frauenstein_Burgruine.jpg/1200px-19710724111NR_Frauenstein_Burgruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19710724111NR_Frauenstein_Burgruine.jpg/1920px-19710724111NR_Frauenstein_Burgruine.jpg
+  19710724105NR Frauenstein Burgruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19710724105NR_Frauenstein_Burgruine.jpg/400px-19710724105NR_Frauenstein_Burgruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19710724105NR_Frauenstein_Burgruine.jpg/800px-19710724105NR_Frauenstein_Burgruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19710724105NR_Frauenstein_Burgruine.jpg/1200px-19710724105NR_Frauenstein_Burgruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19710724105NR_Frauenstein_Burgruine.jpg/1920px-19710724105NR_Frauenstein_Burgruine.jpg
+  BurgFrauensteinErzgebirge01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/BurgFrauensteinErzgebirge01.jpg/400px-BurgFrauensteinErzgebirge01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/BurgFrauensteinErzgebirge01.jpg/800px-BurgFrauensteinErzgebirge01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/BurgFrauensteinErzgebirge01.jpg/1200px-BurgFrauensteinErzgebirge01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/BurgFrauensteinErzgebirge01.jpg/1920px-BurgFrauensteinErzgebirge01.jpg
+  20050405040DR Frauenstein Erzg Schloß und Burgruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg/400px-20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg/800px-20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg/1200px-20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg/1920px-20050405040DR_Frauenstein_Erzg_Schloß_und_Burgruine.jpg
+  Wiesbaden burgruine frauenstein 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiesbaden_burgruine_frauenstein_1.jpg/400px-Wiesbaden_burgruine_frauenstein_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiesbaden_burgruine_frauenstein_1.jpg/800px-Wiesbaden_burgruine_frauenstein_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiesbaden_burgruine_frauenstein_1.jpg/1200px-Wiesbaden_burgruine_frauenstein_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiesbaden_burgruine_frauenstein_1.jpg/1920px-Wiesbaden_burgruine_frauenstein_1.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burg Brandenstein"
+title: Burg Brandenstein
 date: 2026-01-23
 draft: false
-description: "Burg in Hessen, Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Burg in Hessen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3567
 longitude: 9.57111
 images:
-  - "/images-sites/burg-brandenstein/01-bd447a71-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg/1200px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg/1200px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg-Brandenstein-06.JPG/1200px-Burg-Brandenstein-06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Brandenstein_05.jpg/1200px-Burg_Brandenstein_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brandenstein-002.JPG/1200px-Brandenstein-002.JPG
+image_srcset:
+  Elm, Burg Brandenstein Schlüchtern 20230304 0076.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg/400px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg/800px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg/1200px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg/1920px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0076.jpg
+  Elm, Burg Brandenstein Schlüchtern 20230304 0063.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg/400px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg/800px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg/1200px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg/1920px-Elm,_Burg_Brandenstein_Schlüchtern_20230304_0063.jpg
+  Burg-Brandenstein-06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg-Brandenstein-06.JPG/400px-Burg-Brandenstein-06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg-Brandenstein-06.JPG/800px-Burg-Brandenstein-06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg-Brandenstein-06.JPG/1200px-Burg-Brandenstein-06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg-Brandenstein-06.JPG/1920px-Burg-Brandenstein-06.JPG
+  Burg Brandenstein 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Brandenstein_05.jpg/400px-Burg_Brandenstein_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Brandenstein_05.jpg/800px-Burg_Brandenstein_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Brandenstein_05.jpg/1200px-Burg_Brandenstein_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Brandenstein_05.jpg/1920px-Burg_Brandenstein_05.jpg
+  Brandenstein-002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brandenstein-002.JPG/400px-Brandenstein-002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brandenstein-002.JPG/800px-Brandenstein-002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brandenstein-002.JPG/1200px-Brandenstein-002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Brandenstein-002.JPG/1920px-Brandenstein-002.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.509638888
 longitude: 13.378444444
 images:
-  - "/images-sites/leipziger-platz/01-d11b7c69-800w.webp"
-  - "/images-sites/leipziger-platz/02-7a9e9235-800w.webp"
-  - "/images-sites/leipziger-platz/03-33b77073-800w.webp"
+  - "/images/leipziger-platz/01-d11b7c69-800w.webp"
+  - "/images/leipziger-platz/02-7a9e9235-800w.webp"
+  - "/images/leipziger-platz/03-33b77073-800w.webp"
 ---
 
 ## Overview

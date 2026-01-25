@@ -13,7 +13,7 @@ regions:
 latitude: 50.95986111
 longitude: 7.00508333
 images:
-  - "/images-sites/stadthalle-koeln/01-3a22ba2d-800w.webp"
+  - "/images/stadthalle-koeln/01-3a22ba2d-800w.webp"
 ---
 
 ## Overview

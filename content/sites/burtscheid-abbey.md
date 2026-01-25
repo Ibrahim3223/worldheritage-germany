@@ -1,19 +1,49 @@
 ---
-title: "Burtscheid Abbey"
+title: Burtscheid Abbey
 date: 2026-01-23
 draft: false
-description: "human settlement"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7631
 longitude: 6.09333
 images:
-  - "/images-sites/burtscheid-abbey/01-d525000b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg/1200px-Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wappen_Abtei_Burtscheid.svg/1200px-Wappen_Abtei_Burtscheid.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/1200px-St_Johann-Baptist_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abtei_Burtscheid.jpg/1200px-Abtei_Burtscheid.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen,_alt,_Abtei_Burtscheid.jpg/1200px-Wappen,_alt,_Abtei_Burtscheid.jpg
+image_srcset:
+  Aachen Impressionen - Flickr - tm-md (56).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg/400px-Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg/800px-Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg/1200px-Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg/1920px-Aachen_Impressionen_-_Flickr_-_tm-md_(56).jpg
+  Wappen Abtei Burtscheid.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wappen_Abtei_Burtscheid.svg/400px-Wappen_Abtei_Burtscheid.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wappen_Abtei_Burtscheid.svg/800px-Wappen_Abtei_Burtscheid.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wappen_Abtei_Burtscheid.svg/1200px-Wappen_Abtei_Burtscheid.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wappen_Abtei_Burtscheid.svg/1920px-Wappen_Abtei_Burtscheid.svg.png
+  St Johann-Baptist 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/400px-St_Johann-Baptist_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/800px-St_Johann-Baptist_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/1200px-St_Johann-Baptist_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St_Johann-Baptist_2.jpg/1920px-St_Johann-Baptist_2.jpg
+  Abtei Burtscheid.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abtei_Burtscheid.jpg/400px-Abtei_Burtscheid.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abtei_Burtscheid.jpg/800px-Abtei_Burtscheid.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abtei_Burtscheid.jpg/1200px-Abtei_Burtscheid.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Abtei_Burtscheid.jpg/1920px-Abtei_Burtscheid.jpg
+  Wappen, alt, Abtei Burtscheid.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen,_alt,_Abtei_Burtscheid.jpg/400px-Wappen,_alt,_Abtei_Burtscheid.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen,_alt,_Abtei_Burtscheid.jpg/800px-Wappen,_alt,_Abtei_Burtscheid.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen,_alt,_Abtei_Burtscheid.jpg/1200px-Wappen,_alt,_Abtei_Burtscheid.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wappen,_alt,_Abtei_Burtscheid.jpg/1920px-Wappen,_alt,_Abtei_Burtscheid.jpg
 ---
 
 ## Overview

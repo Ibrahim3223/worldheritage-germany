@@ -1,21 +1,49 @@
 ---
-title: "Eutin Castle"
+title: Eutin Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Eutin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Castle in Eutin, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.137751
 longitude: 10.620402
 images:
-  - "/images-sites/eutin-castle/01-832e9126-800w.webp"
-  - "/images-sites/eutin-castle/02-40c8ab0e-800w.webp"
-  - "/images-sites/eutin-castle/03-70df15e8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/1200px-Eutin_Schloss_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg/1200px-Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg/1200px-Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Eutin,_Speisesaal,_2022.jpg/1200px-Schloss_Eutin,_Speisesaal,_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg/1200px-Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg
+image_srcset:
+  Eutin Schloss Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/400px-Eutin_Schloss_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/800px-Eutin_Schloss_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/1200px-Eutin_Schloss_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Eutin_Schloss_Eingang.jpg/1920px-Eutin_Schloss_Eingang.jpg
+  Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg/400px-Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg/800px-Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg/1200px-Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg/1920px-Schloss-eutin-rittersaal-deckengemaelde-2022-b.jpg
+  Aerial image of Eutin Castle (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg/400px-Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg/800px-Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg/1200px-Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg/1920px-Aerial_image_of_Eutin_Castle_(view_from_the_west).jpg
+  Schloss Eutin, Speisesaal, 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Eutin,_Speisesaal,_2022.jpg/400px-Schloss_Eutin,_Speisesaal,_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Eutin,_Speisesaal,_2022.jpg/800px-Schloss_Eutin,_Speisesaal,_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Eutin,_Speisesaal,_2022.jpg/1200px-Schloss_Eutin,_Speisesaal,_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Eutin,_Speisesaal,_2022.jpg/1920px-Schloss_Eutin,_Speisesaal,_2022.jpg
+  Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg/400px-Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg/800px-Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg/1200px-Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg/1920px-Schloss-eutin-rittersaal-deckengemaelde-2022-a.jpg
 ---
 
 ## Overview

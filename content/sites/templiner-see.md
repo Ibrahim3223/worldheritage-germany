@@ -13,7 +13,7 @@ regions:
 latitude: 52.3675
 longitude: 13.018333333
 images:
-  - "/images-sites/templiner-see/01-6b964503-800w.webp"
+  - "/images/templiner-see/01-6b964503-800w.webp"
 ---
 
 ## Overview

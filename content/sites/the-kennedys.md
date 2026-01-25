@@ -13,7 +13,7 @@ regions:
 latitude: 52.5167
 longitude: 13.3833
 images:
-  - "/images-sites/the-kennedys/01-f2edc1a1-800w.webp"
+  - "/images/the-kennedys/01-f2edc1a1-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Herthaburg"
+title: Herthaburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 54.5703
 longitude: 13.6489
 images:
-  - "/images-sites/herthaburg/01-76588c08-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg/1200px-Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herthaburg-Stubnitz-110513-091.JPG/1200px-Herthaburg-Stubnitz-110513-091.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Herthaburg-Zugang-110513-084.JPG/1200px-Herthaburg-Zugang-110513-084.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Herthaburg_1.jpg/1200px-Herthaburg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Herthaburg_2.jpg/1200px-Herthaburg_2.jpg
+image_srcset:
+  Herthaburg in NLP Jasmund 2023-05-24 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg/400px-Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg/800px-Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg/1200px-Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg/1920px-Herthaburg_in_NLP_Jasmund_2023-05-24_06.jpg
+  Herthaburg-Stubnitz-110513-091.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herthaburg-Stubnitz-110513-091.JPG/400px-Herthaburg-Stubnitz-110513-091.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herthaburg-Stubnitz-110513-091.JPG/800px-Herthaburg-Stubnitz-110513-091.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herthaburg-Stubnitz-110513-091.JPG/1200px-Herthaburg-Stubnitz-110513-091.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Herthaburg-Stubnitz-110513-091.JPG/1920px-Herthaburg-Stubnitz-110513-091.JPG
+  Herthaburg-Zugang-110513-084.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Herthaburg-Zugang-110513-084.JPG/400px-Herthaburg-Zugang-110513-084.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Herthaburg-Zugang-110513-084.JPG/800px-Herthaburg-Zugang-110513-084.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Herthaburg-Zugang-110513-084.JPG/1200px-Herthaburg-Zugang-110513-084.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Herthaburg-Zugang-110513-084.JPG/1920px-Herthaburg-Zugang-110513-084.JPG
+  Herthaburg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Herthaburg_1.jpg/400px-Herthaburg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Herthaburg_1.jpg/800px-Herthaburg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Herthaburg_1.jpg/1200px-Herthaburg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Herthaburg_1.jpg/1920px-Herthaburg_1.jpg
+  Herthaburg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Herthaburg_2.jpg/400px-Herthaburg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Herthaburg_2.jpg/800px-Herthaburg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Herthaburg_2.jpg/1200px-Herthaburg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Herthaburg_2.jpg/1920px-Herthaburg_2.jpg
 ---
 
 ## Overview

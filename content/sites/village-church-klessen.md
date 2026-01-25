@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244422"
 description: "In the heart of Brandenburg, Germany, stands the Village Church of Kleßen, a striking example of Romanesque Revival architecture that has graced the lan..."
 images:
-  - "/images-sites/village-church-klessen/01-f128a30a-1920w.webp"
-  - "/images-sites/village-church-klessen/02-c79bb3e9-1920w.webp"
-  - "/images-sites/village-church-klessen/03-240b1e19-1920w.webp"
+  - "/images/village-church-klessen/01-f128a30a-1920w.webp"
+  - "/images/village-church-klessen/02-c79bb3e9-1920w.webp"
+  - "/images/village-church-klessen/03-240b1e19-1920w.webp"
 ---
 
 ## Overview

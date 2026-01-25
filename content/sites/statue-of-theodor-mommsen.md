@@ -13,7 +13,7 @@ regions:
 latitude: 52.5178141
 longitude: 13.3932623
 images:
-  - "/images-sites/statue-of-theodor-mommsen/01-24140cb9-800w.webp"
+  - "/images/statue-of-theodor-mommsen/01-24140cb9-800w.webp"
 ---
 
 ## Overview

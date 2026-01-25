@@ -13,7 +13,7 @@ regions:
 latitude: 50.9769
 longitude: 11.0258
 images:
-  - "/images-sites/theater-waidspeicher/01-b3cc1b3e-800w.webp"
+  - "/images/theater-waidspeicher/01-b3cc1b3e-800w.webp"
 ---
 
 ## Overview

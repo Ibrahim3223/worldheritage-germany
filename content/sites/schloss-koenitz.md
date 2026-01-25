@@ -13,7 +13,7 @@ regions:
 latitude: 50.6516
 longitude: 11.4897
 images:
-  - "/images-sites/schloss-koenitz/01-d3b0d407-800w.webp"
+  - "/images/schloss-koenitz/01-d3b0d407-800w.webp"
 ---
 
 ## Overview

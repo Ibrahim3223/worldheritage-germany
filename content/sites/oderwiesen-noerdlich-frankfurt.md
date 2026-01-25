@@ -13,7 +13,7 @@ regions:
 latitude: 52.378888888
 longitude: 14.540833333
 images:
-  - "/images-sites/oderwiesen-noerdlich-frankfurt/01-95c6c8c4-800w.webp"
+  - "/images/oderwiesen-noerdlich-frankfurt/01-95c6c8c4-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 9.28167
 
 # Images
 images:
-  - "/images-sites/stettenfels-castle/01-c94743aa-800w.webp"
+  - "/images/stettenfels-castle/01-c94743aa-800w.webp"
 ---
 
 ## Overview

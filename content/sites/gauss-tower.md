@@ -1,19 +1,43 @@
 ---
-title: "Gauss Tower"
+title: Gauss Tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 51.474081
 longitude: 9.766106
 images:
-  - "/images-sites/gauss-tower/01-3e08461f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/1200px-Gaußturm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG/1200px-Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gaußturm01.jpg/1200px-Gaußturm01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gaußturm02.jpg/1200px-Gaußturm02.jpg
+image_srcset:
+  Gaußturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/400px-Gaußturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/800px-Gaußturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/1200px-Gaußturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gaußturm.JPG/1920px-Gaußturm.JPG
+  Outhpark, Finanzer, Frank Schulenburg, Presroi auf dem Gaußturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG/400px-Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG/800px-Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG/1200px-Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG/1920px-Outhpark,_Finanzer,_Frank_Schulenburg,_Presroi_auf_dem_Gaußturm.JPG
+  Gaußturm01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gaußturm01.jpg/400px-Gaußturm01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gaußturm01.jpg/800px-Gaußturm01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gaußturm01.jpg/1200px-Gaußturm01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gaußturm01.jpg/1920px-Gaußturm01.jpg
+  Gaußturm02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gaußturm02.jpg/400px-Gaußturm02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gaußturm02.jpg/800px-Gaußturm02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gaußturm02.jpg/1200px-Gaußturm02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gaußturm02.jpg/1920px-Gaußturm02.jpg
 ---
 
 ## Overview

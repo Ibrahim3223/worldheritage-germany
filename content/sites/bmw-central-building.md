@@ -1,21 +1,49 @@
 ---
-title: "BMW Central Building"
+title: BMW Central Building
 date: 2026-01-23
 draft: false
-description: "Leipzig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4081
 longitude: 12.4435
 images:
-  - "/images-sites/bmw-central-building/01-a84dd6d2-800w.webp"
-  - "/images-sites/bmw-central-building/02-c3c78292-800w.webp"
-  - "/images-sites/bmw-central-building/03-8cea1823-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BMW_Leipzig.JPG/1200px-BMW_Leipzig.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090419565DR_BMW_Werk_Leipzig.jpg/1200px-20090419565DR_BMW_Werk_Leipzig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg/1200px-BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg/1200px-BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BMWCENTRAL.jpg/1200px-BMWCENTRAL.jpg
+image_srcset:
+  BMW Leipzig.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BMW_Leipzig.JPG/400px-BMW_Leipzig.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BMW_Leipzig.JPG/800px-BMW_Leipzig.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BMW_Leipzig.JPG/1200px-BMW_Leipzig.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BMW_Leipzig.JPG/1920px-BMW_Leipzig.JPG
+  20090419565DR BMW Werk Leipzig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090419565DR_BMW_Werk_Leipzig.jpg/400px-20090419565DR_BMW_Werk_Leipzig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090419565DR_BMW_Werk_Leipzig.jpg/800px-20090419565DR_BMW_Werk_Leipzig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090419565DR_BMW_Werk_Leipzig.jpg/1200px-20090419565DR_BMW_Werk_Leipzig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090419565DR_BMW_Werk_Leipzig.jpg/1920px-20090419565DR_BMW_Werk_Leipzig.jpg
+  BMW Leipzig MEDIA 050719 Download ZGB 3 max.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg/400px-BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg/800px-BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg/1200px-BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg/1920px-BMW_Leipzig_MEDIA_050719_Download_ZGB_3_max.jpg
+  BMW Leipzig MEDIA 050727 Download ZGB 4 max.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg/400px-BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg/800px-BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg/1200px-BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg/1920px-BMW_Leipzig_MEDIA_050727_Download_ZGB_4_max.jpg
+  BMWCENTRAL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BMWCENTRAL.jpg/400px-BMWCENTRAL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BMWCENTRAL.jpg/800px-BMWCENTRAL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BMWCENTRAL.jpg/1200px-BMWCENTRAL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BMWCENTRAL.jpg/1920px-BMWCENTRAL.jpg
 ---
 
 ## Overview

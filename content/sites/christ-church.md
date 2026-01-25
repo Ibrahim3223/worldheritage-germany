@@ -1,19 +1,52 @@
 ---
-title: "Christ Church"
-site_name: "Christ Church"
-slug: "christ-church"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Christ Church
+site_name: Christ Church
+slug: christ-church
+region: North Rhine-Westphalia
 latitude: 51.2155
 longitude: 6.80149
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1087386"
-description: "In the heart of Düsseldorf-Oberbilk, Christ Church stands as a striking example of Gothic architecture, offering visitors a glimpse into the religious a..."
+- cultural site
+wikidata_id: Q1087386
+description: In the heart of Düsseldorf-Oberbilk, Christ Church stands as a striking
+  example of Gothic architecture, offering visitors a glimpse into the religious a...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg/1200px-Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg/1200px-Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg/1200px-Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Christ_Church_College_Rooms.jpg/1200px-Christ_Church_College_Rooms.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tom_Quad,_Christ_Church_2004-01-21.jpg/1200px-Tom_Quad,_Christ_Church_2004-01-21.jpg
+image_srcset:
+  Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg/400px-Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg/800px-Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg/1200px-Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg/1920px-Christuskirche%20in%20Duesseldorf-Oberbilk%2C%20von%20Suedosten.jpg
+  Oxford - Christ Church Meadow - View North on Christ Church College Gate.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg/400px-Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg/800px-Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg/1200px-Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg/1920px-Oxford_-_Christ_Church_Meadow_-_View_North_on_Christ_Church_College_Gate.jpg
+  ? Oxford - Broad Walk - Christ Church War Memorial Garden 1926 - Tom Tower 1682
+    by Sir Christopher Wren (first example of Gothic Revival architecture) - Christ
+    Church 1546 03.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg/400px-Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg/800px-Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg/1200px-Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg/1920px-Oxford_-_Broad_Walk_-_Christ_Church_War_Memorial_Garden_1926_-_Tom_Tower_1682_by_Sir_Christopher_Wren_(first_example_of_Gothic_Revival_architecture)_-_Christ_Church_1546_03.jpg
+  Christ Church College Rooms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Christ_Church_College_Rooms.jpg/400px-Christ_Church_College_Rooms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Christ_Church_College_Rooms.jpg/800px-Christ_Church_College_Rooms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Christ_Church_College_Rooms.jpg/1200px-Christ_Church_College_Rooms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Christ_Church_College_Rooms.jpg/1920px-Christ_Church_College_Rooms.jpg
+  Tom Quad, Christ Church 2004-01-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tom_Quad,_Christ_Church_2004-01-21.jpg/400px-Tom_Quad,_Christ_Church_2004-01-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tom_Quad,_Christ_Church_2004-01-21.jpg/800px-Tom_Quad,_Christ_Church_2004-01-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tom_Quad,_Christ_Church_2004-01-21.jpg/1200px-Tom_Quad,_Christ_Church_2004-01-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tom_Quad,_Christ_Church_2004-01-21.jpg/1920px-Tom_Quad,_Christ_Church_2004-01-21.jpg
 ---
 
 ## Overview

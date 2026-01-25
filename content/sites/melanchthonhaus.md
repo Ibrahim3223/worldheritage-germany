@@ -13,7 +13,7 @@ regions:
 latitude: 49.0368
 longitude: 8.7069
 images:
-  - "/images-sites/melanchthonhaus/01-e98d15a5-800w.webp"
+  - "/images/melanchthonhaus/01-e98d15a5-800w.webp"
 ---
 
 ## Overview

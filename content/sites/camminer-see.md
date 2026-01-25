@@ -1,21 +1,43 @@
 ---
-title: "Camminer See"
+title: Camminer See
 date: 2026-01-23
 draft: false
-description: "lake in Burg Stargard, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Burg Stargard, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.435180555
 longitude: 13.3108
 images:
-  - "/images-sites/camminer-see/01-21528021-800w.webp"
-  - "/images-sites/camminer-see/02-0b29062e-800w.webp"
-  - "/images-sites/camminer-see/03-23fd5108-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camminer_See_01.JPG/1200px-Camminer_See_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Camminer_See_02.JPG/1200px-Camminer_See_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Camminer_See_03.JPG/1200px-Camminer_See_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Camminer_See_04.JPG/1200px-Camminer_See_04.JPG
+image_srcset:
+  Camminer See 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camminer_See_01.JPG/400px-Camminer_See_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camminer_See_01.JPG/800px-Camminer_See_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camminer_See_01.JPG/1200px-Camminer_See_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camminer_See_01.JPG/1920px-Camminer_See_01.JPG
+  Camminer See 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Camminer_See_02.JPG/400px-Camminer_See_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Camminer_See_02.JPG/800px-Camminer_See_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Camminer_See_02.JPG/1200px-Camminer_See_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Camminer_See_02.JPG/1920px-Camminer_See_02.JPG
+  Camminer See 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Camminer_See_03.JPG/400px-Camminer_See_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Camminer_See_03.JPG/800px-Camminer_See_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Camminer_See_03.JPG/1200px-Camminer_See_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Camminer_See_03.JPG/1920px-Camminer_See_03.JPG
+  Camminer See 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Camminer_See_04.JPG/400px-Camminer_See_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Camminer_See_04.JPG/800px-Camminer_See_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Camminer_See_04.JPG/1200px-Camminer_See_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Camminer_See_04.JPG/1920px-Camminer_See_04.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Düsseldorfer Marionetten-Theater"
+title: Düsseldorfer Marionetten-Theater
 date: 2026-01-24
 draft: false
-description: "theater in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theater in Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2224
 longitude: 6.77263
 images:
-  - "/images-sites/duesseldorfer-marionetten-theater/01-948ea6d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg/1200px-Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG/1200px-Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duesseldorfer_Marionetten-Theater_Theatersaal.jpg/1200px-Duesseldorfer_Marionetten-Theater_Theatersaal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg/1200px-Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png/1200px-Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png
+image_srcset:
+  Duesseldorfer Marionetten-Theater Figurengruppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg/400px-Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg/800px-Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg/1200px-Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg/1920px-Duesseldorfer_Marionetten-Theater_Figurengruppe.jpg
+  Duesseldorfer Marionetten-Theater Toreingang Palais Wittgenstein mit Theaterschild (Duesseldorfer Marionetten-Theater).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG/400px-Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG/800px-Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG/1200px-Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG/1920px-Duesseldorfer_Marionetten-Theater_Toreingang_Palais_Wittgenstein_mit_Theaterschild_(Duesseldorfer_Marionetten-Theater).JPG
+  Duesseldorfer Marionetten-Theater Theatersaal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duesseldorfer_Marionetten-Theater_Theatersaal.jpg/400px-Duesseldorfer_Marionetten-Theater_Theatersaal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duesseldorfer_Marionetten-Theater_Theatersaal.jpg/800px-Duesseldorfer_Marionetten-Theater_Theatersaal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duesseldorfer_Marionetten-Theater_Theatersaal.jpg/1200px-Duesseldorfer_Marionetten-Theater_Theatersaal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Duesseldorfer_Marionetten-Theater_Theatersaal.jpg/1920px-Duesseldorfer_Marionetten-Theater_Theatersaal.jpg
+  Duesseldorfer Marionetten-Theater - Tyrannja Vamperl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg/400px-Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg/800px-Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg/1200px-Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg/1920px-Duesseldorfer_Marionetten-Theater_-_Tyrannja_Vamperl.jpg
+  Duesseldorfer Marionettentheater - Wunschpunsch II.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png/400px-Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png/800px-Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png/1200px-Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png/1920px-Duesseldorfer_Marionettentheater_-_Wunschpunsch_II.png
 ---
 
 ## Overview

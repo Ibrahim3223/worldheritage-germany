@@ -13,7 +13,7 @@ regions:
 latitude: 47.400277777
 longitude: 10.97
 images:
-  - "/images-sites/wetterspitzen/01-a80df969-800w.webp"
+  - "/images/wetterspitzen/01-a80df969-800w.webp"
 ---
 
 ## Overview

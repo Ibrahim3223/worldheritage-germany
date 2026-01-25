@@ -1,19 +1,50 @@
 ---
-title: "Ellbogensee"
+title: Ellbogensee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.207222222
 longitude: 13.0375
 images:
-  - "/images-sites/ellbogensee/01-dfb316fe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg/1200px-Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Havel-Ellbogensee-11-IV-2007.jpg/1200px-Havel-Ellbogensee-11-IV-2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Havel-Ellbogensee-11-IV-2007-313.jpg/1200px-Havel-Ellbogensee-11-IV-2007-313.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Havel-Ellbogensee-11-IV-2007-315.jpg/1200px-Havel-Ellbogensee-11-IV-2007-315.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Havel-Ellbogensee-11-IV-2007-316.jpg/1200px-Havel-Ellbogensee-11-IV-2007-316.jpg
+image_srcset:
+  Ellbogensee-Landschaftsschutzgebiet Neustrelitzer Kleinseenplatte-2025-msu-0339-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg/400px-Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg/800px-Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg/1200px-Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg/1920px-Ellbogensee-Landschaftsschutzgebiet_Neustrelitzer_Kleinseenplatte-2025-msu-0339-.jpg
+  Havel-Ellbogensee-11-IV-2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Havel-Ellbogensee-11-IV-2007.jpg/400px-Havel-Ellbogensee-11-IV-2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Havel-Ellbogensee-11-IV-2007.jpg/800px-Havel-Ellbogensee-11-IV-2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Havel-Ellbogensee-11-IV-2007.jpg/1200px-Havel-Ellbogensee-11-IV-2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Havel-Ellbogensee-11-IV-2007.jpg/1920px-Havel-Ellbogensee-11-IV-2007.jpg
+  Havel-Ellbogensee-11-IV-2007-313.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Havel-Ellbogensee-11-IV-2007-313.jpg/400px-Havel-Ellbogensee-11-IV-2007-313.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Havel-Ellbogensee-11-IV-2007-313.jpg/800px-Havel-Ellbogensee-11-IV-2007-313.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Havel-Ellbogensee-11-IV-2007-313.jpg/1200px-Havel-Ellbogensee-11-IV-2007-313.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Havel-Ellbogensee-11-IV-2007-313.jpg/1920px-Havel-Ellbogensee-11-IV-2007-313.jpg
+  Havel-Ellbogensee-11-IV-2007-315.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Havel-Ellbogensee-11-IV-2007-315.jpg/400px-Havel-Ellbogensee-11-IV-2007-315.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Havel-Ellbogensee-11-IV-2007-315.jpg/800px-Havel-Ellbogensee-11-IV-2007-315.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Havel-Ellbogensee-11-IV-2007-315.jpg/1200px-Havel-Ellbogensee-11-IV-2007-315.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Havel-Ellbogensee-11-IV-2007-315.jpg/1920px-Havel-Ellbogensee-11-IV-2007-315.jpg
+  Havel-Ellbogensee-11-IV-2007-316.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Havel-Ellbogensee-11-IV-2007-316.jpg/400px-Havel-Ellbogensee-11-IV-2007-316.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Havel-Ellbogensee-11-IV-2007-316.jpg/800px-Havel-Ellbogensee-11-IV-2007-316.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Havel-Ellbogensee-11-IV-2007-316.jpg/1200px-Havel-Ellbogensee-11-IV-2007-316.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Havel-Ellbogensee-11-IV-2007-316.jpg/1920px-Havel-Ellbogensee-11-IV-2007-316.jpg
 ---
 
 ## Overview

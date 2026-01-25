@@ -13,7 +13,7 @@ regions:
 latitude: 50.637194444
 longitude: 6.441888888
 images:
-  - "/images-sites/rur-dam/01-1af4fb66-800w.webp"
+  - "/images/rur-dam/01-1af4fb66-800w.webp"
 ---
 
 ## Overview

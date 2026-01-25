@@ -1,29 +1,49 @@
 ---
-title: "Burg Bosselstein"
+title: Burg Bosselstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7061
 longitude: 7.328
-
-# Images
 images:
-  - "/images-sites/burg-bosselstein/01-6f329e88-800w.webp"
-  - "/images-sites/burg-bosselstein/02-b988fe00-800w.webp"
-  - "/images-sites/burg-bosselstein/03-5c339431-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20210529_Burg_Bosselstein.jpg/1200px-20210529_Burg_Bosselstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20180825_Burg_Bosselstein_02.jpg/1200px-20180825_Burg_Bosselstein_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20180825_Burg_Bosselstein_03.jpg/1200px-20180825_Burg_Bosselstein_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20210529_Hochwal_Idarwald_03.jpg/1200px-20210529_Hochwal_Idarwald_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_bosselsteirp.jpg/1200px-Burg_bosselsteirp.jpg
+image_srcset:
+  20210529 Burg Bosselstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20210529_Burg_Bosselstein.jpg/400px-20210529_Burg_Bosselstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20210529_Burg_Bosselstein.jpg/800px-20210529_Burg_Bosselstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20210529_Burg_Bosselstein.jpg/1200px-20210529_Burg_Bosselstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20210529_Burg_Bosselstein.jpg/1920px-20210529_Burg_Bosselstein.jpg
+  20180825 Burg Bosselstein 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20180825_Burg_Bosselstein_02.jpg/400px-20180825_Burg_Bosselstein_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20180825_Burg_Bosselstein_02.jpg/800px-20180825_Burg_Bosselstein_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20180825_Burg_Bosselstein_02.jpg/1200px-20180825_Burg_Bosselstein_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20180825_Burg_Bosselstein_02.jpg/1920px-20180825_Burg_Bosselstein_02.jpg
+  20180825 Burg Bosselstein 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20180825_Burg_Bosselstein_03.jpg/400px-20180825_Burg_Bosselstein_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20180825_Burg_Bosselstein_03.jpg/800px-20180825_Burg_Bosselstein_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20180825_Burg_Bosselstein_03.jpg/1200px-20180825_Burg_Bosselstein_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20180825_Burg_Bosselstein_03.jpg/1920px-20180825_Burg_Bosselstein_03.jpg
+  20210529 Hochwal Idarwald 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20210529_Hochwal_Idarwald_03.jpg/400px-20210529_Hochwal_Idarwald_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20210529_Hochwal_Idarwald_03.jpg/800px-20210529_Hochwal_Idarwald_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20210529_Hochwal_Idarwald_03.jpg/1200px-20210529_Hochwal_Idarwald_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20210529_Hochwal_Idarwald_03.jpg/1920px-20210529_Hochwal_Idarwald_03.jpg
+  Burg bosselsteirp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_bosselsteirp.jpg/400px-Burg_bosselsteirp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_bosselsteirp.jpg/800px-Burg_bosselsteirp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_bosselsteirp.jpg/1200px-Burg_bosselsteirp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_bosselsteirp.jpg/1920px-Burg_bosselsteirp.jpg
 ---
 
 ## Overview

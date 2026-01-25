@@ -1,20 +1,51 @@
 ---
-title: "Felsenkirche"
-site_name: "Felsenkirche"
-slug: "felsenkirche"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Felsenkirche
+site_name: Felsenkirche
+slug: felsenkirche
+region: Rhineland-Palatinate
 latitude: 49.7055
 longitude: 7.32887
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1404257"
-description: "Perched dramatically on a rocky outcrop, Felsenkirche, or the Rock Church, in Idar-Oberstein, Germany, is a remarkable example of baroque architecture t..."
+- church building
+- religious site
+wikidata_id: Q1404257
+description: Perched dramatically on a rocky outcrop, Felsenkirche, or the Rock Church,
+  in Idar-Oberstein, Germany, is a remarkable example of baroque architecture t...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Felsenkirche%20%28Idar-Oberstein%29%202023.jpg/1200px-Felsenkirche%20%28Idar-Oberstein%29%202023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg/1200px-Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Theodoros_Cave_Church.jpg/1200px-St._Theodoros_Cave_Church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg/1200px-20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_medieval_cave_church_of_Matochina.jpg/1200px-The_medieval_cave_church_of_Matochina.jpg
+image_srcset:
+  Felsenkirche%20%28Idar-Oberstein%29%202023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Felsenkirche%20%28Idar-Oberstein%29%202023.jpg/400px-Felsenkirche%20%28Idar-Oberstein%29%202023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Felsenkirche%20%28Idar-Oberstein%29%202023.jpg/800px-Felsenkirche%20%28Idar-Oberstein%29%202023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Felsenkirche%20%28Idar-Oberstein%29%202023.jpg/1200px-Felsenkirche%20%28Idar-Oberstein%29%202023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Felsenkirche%20%28Idar-Oberstein%29%202023.jpg/1920px-Felsenkirche%20%28Idar-Oberstein%29%202023.jpg
+  Chiesa della Madonna della Rocca, Taormina, 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg/400px-Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg/800px-Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg/1200px-Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg/1920px-Chiesa_della_Madonna_della_Rocca,_Taormina,_2024.jpg
+  St. Theodoros Cave Church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Theodoros_Cave_Church.jpg/400px-St._Theodoros_Cave_Church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Theodoros_Cave_Church.jpg/800px-St._Theodoros_Cave_Church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Theodoros_Cave_Church.jpg/1200px-St._Theodoros_Cave_Church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/St._Theodoros_Cave_Church.jpg/1920px-St._Theodoros_Cave_Church.jpg
+  20110517 Poggio Bustone Sacro Speco 044 (5761911075).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg/400px-20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg/800px-20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg/1200px-20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg/1920px-20110517_Poggio_Bustone_Sacro_Speco_044_(5761911075).jpg
+  The medieval cave church of Matochina.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_medieval_cave_church_of_Matochina.jpg/400px-The_medieval_cave_church_of_Matochina.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_medieval_cave_church_of_Matochina.jpg/800px-The_medieval_cave_church_of_Matochina.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_medieval_cave_church_of_Matochina.jpg/1200px-The_medieval_cave_church_of_Matochina.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_medieval_cave_church_of_Matochina.jpg/1920px-The_medieval_cave_church_of_Matochina.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 7.35666
 
 # Images
 images:
-  - "/images-sites/namedy-castle/01-128b0019-800w.webp"
+  - "/images/namedy-castle/01-128b0019-800w.webp"
 ---
 
 ## Overview

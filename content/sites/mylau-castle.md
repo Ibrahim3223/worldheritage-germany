@@ -21,9 +21,9 @@ longitude: 12.265469
 
 # Images
 images:
-  - "/images-sites/mylau-castle/01-77aed2d4-800w.webp"
-  - "/images-sites/mylau-castle/02-9556f86b-800w.webp"
-  - "/images-sites/mylau-castle/03-e12ae885-800w.webp"
+  - "/images/mylau-castle/01-77aed2d4-800w.webp"
+  - "/images/mylau-castle/02-9556f86b-800w.webp"
+  - "/images/mylau-castle/03-e12ae885-800w.webp"
 ---
 
 ## Overview

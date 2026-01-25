@@ -1,19 +1,49 @@
 ---
-title: "Grumsiner Forst/Redernswalde"
+title: Grumsiner Forst/Redernswalde
 date: 2026-01-23
 draft: false
-description: "nature reserve in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0
 longitude: 13.8333
 images:
-  - "/images-sites/grumsiner-forstredernswalde/01-e8265a79-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg/1200px-Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2011-06-02-rbu-by-RalfR-056.jpg/1200px-2011-06-02-rbu-by-RalfR-056.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grumsiner_Forst_bei_Luisenfelde.jpg/1200px-Grumsiner_Forst_bei_Luisenfelde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GlambeckerMuehle_07_14_02_jiw.jpg/1200px-GlambeckerMuehle_07_14_02_jiw.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Weltnaturerbe_Grumsin.jpg/1200px-Weltnaturerbe_Grumsin.jpg
+image_srcset:
+  Angermünder Stadtwald in NSG Grumsiner Forst Redernswalde with snow 2025-01-12 125.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg/400px-Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg/800px-Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg/1200px-Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg/1920px-Angermünder_Stadtwald_in_NSG_Grumsiner_Forst_Redernswalde_with_snow_2025-01-12_125.jpg
+  2011-06-02-rbu-by-RalfR-056.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2011-06-02-rbu-by-RalfR-056.jpg/400px-2011-06-02-rbu-by-RalfR-056.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2011-06-02-rbu-by-RalfR-056.jpg/800px-2011-06-02-rbu-by-RalfR-056.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2011-06-02-rbu-by-RalfR-056.jpg/1200px-2011-06-02-rbu-by-RalfR-056.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2011-06-02-rbu-by-RalfR-056.jpg/1920px-2011-06-02-rbu-by-RalfR-056.jpg
+  Grumsiner Forst bei Luisenfelde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grumsiner_Forst_bei_Luisenfelde.jpg/400px-Grumsiner_Forst_bei_Luisenfelde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grumsiner_Forst_bei_Luisenfelde.jpg/800px-Grumsiner_Forst_bei_Luisenfelde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grumsiner_Forst_bei_Luisenfelde.jpg/1200px-Grumsiner_Forst_bei_Luisenfelde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grumsiner_Forst_bei_Luisenfelde.jpg/1920px-Grumsiner_Forst_bei_Luisenfelde.jpg
+  GlambeckerMuehle 07 14 02 jiw.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GlambeckerMuehle_07_14_02_jiw.jpg/400px-GlambeckerMuehle_07_14_02_jiw.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GlambeckerMuehle_07_14_02_jiw.jpg/800px-GlambeckerMuehle_07_14_02_jiw.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GlambeckerMuehle_07_14_02_jiw.jpg/1200px-GlambeckerMuehle_07_14_02_jiw.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GlambeckerMuehle_07_14_02_jiw.jpg/1920px-GlambeckerMuehle_07_14_02_jiw.jpg
+  Weltnaturerbe Grumsin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Weltnaturerbe_Grumsin.jpg/400px-Weltnaturerbe_Grumsin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Weltnaturerbe_Grumsin.jpg/800px-Weltnaturerbe_Grumsin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Weltnaturerbe_Grumsin.jpg/1200px-Weltnaturerbe_Grumsin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Weltnaturerbe_Grumsin.jpg/1920px-Weltnaturerbe_Grumsin.jpg
 ---
 
 ## Overview

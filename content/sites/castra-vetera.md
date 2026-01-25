@@ -1,27 +1,43 @@
 ---
-title: "Castra Vetera"
+title: Castra Vetera
 date: 2026-01-23
 draft: false
-description: "Roman fort"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman fort
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.64639
 longitude: 6.47
-
-# Images
 images:
-  - "/images-sites/castra-vetera/01-c4940392-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Xanten_Achaeological_Park.jpg/1200px-Xanten_Achaeological_Park.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/1200px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Xanten_RömerMuseum_2.jpg/1200px-Xanten_RömerMuseum_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Xanten_Klever_Tor.jpg/1200px-Xanten_Klever_Tor.jpg
+image_srcset:
+  Xanten Achaeological Park.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Xanten_Achaeological_Park.jpg/400px-Xanten_Achaeological_Park.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Xanten_Achaeological_Park.jpg/800px-Xanten_Achaeological_Park.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Xanten_Achaeological_Park.jpg/1200px-Xanten_Achaeological_Park.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Xanten_Achaeological_Park.jpg/1920px-Xanten_Achaeological_Park.jpg
+  Xanten, Archäologischer Park, Hafentempel, 2018-08 CN-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/400px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/800px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/1200px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/1920px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+  Xanten RömerMuseum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Xanten_RömerMuseum_2.jpg/400px-Xanten_RömerMuseum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Xanten_RömerMuseum_2.jpg/800px-Xanten_RömerMuseum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Xanten_RömerMuseum_2.jpg/1200px-Xanten_RömerMuseum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Xanten_RömerMuseum_2.jpg/1920px-Xanten_RömerMuseum_2.jpg
+  Xanten Klever Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Xanten_Klever_Tor.jpg/400px-Xanten_Klever_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Xanten_Klever_Tor.jpg/800px-Xanten_Klever_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Xanten_Klever_Tor.jpg/1200px-Xanten_Klever_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Xanten_Klever_Tor.jpg/1920px-Xanten_Klever_Tor.jpg
 ---
 
 ## Overview

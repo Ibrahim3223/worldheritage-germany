@@ -1,19 +1,43 @@
 ---
-title: "Burg Galgenbühl, Dreisamtal-Breisgau"
+title: Burg Galgenbühl, Dreisamtal-Breisgau
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.9759
 longitude: 7.9809
 images:
-  - "/images-sites/burg-galgenbuehl-dreisamtal-breisgau/01-1394c61b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG
+image_srcset:
+  Burg Galgenbühl, Dreisamtal-Breisgau 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG/400px-Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG/800px-Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG/1920px-Burg_Galgenbühl,_Dreisamtal-Breisgau_01.JPG
+  Burg Galgenbühl, Dreisamtal-Breisgau 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG/400px-Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG/800px-Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG/1920px-Burg_Galgenbühl,_Dreisamtal-Breisgau_02.JPG
+  Burg Galgenbühl, Dreisamtal-Breisgau 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG/400px-Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG/800px-Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG/1920px-Burg_Galgenbühl,_Dreisamtal-Breisgau_04.JPG
+  Burg Galgenbühl, Dreisamtal-Breisgau 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG/400px-Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG/800px-Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG/1200px-Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG/1920px-Burg_Galgenbühl,_Dreisamtal-Breisgau_03.JPG
 ---
 
 ## Overview

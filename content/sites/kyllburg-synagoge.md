@@ -13,8 +13,8 @@ regions:
 latitude: 50.042766666
 longitude: 6.591377777
 images:
-  - "/images-sites/kyllburg-synagoge/02-5f062085-800w.webp"
-  - "/images-sites/kyllburg-synagoge/03-1971ba14-800w.webp"
+  - "/images/kyllburg-synagoge/02-5f062085-800w.webp"
+  - "/images/kyllburg-synagoge/03-1971ba14-800w.webp"
 ---
 
 ## Overview

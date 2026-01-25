@@ -1,24 +1,46 @@
 ---
-title: "Bargeburer Kirche"
-site_name: "Bargeburer Kirche"
-slug: "bargeburer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Bargeburer Kirche
+site_name: Bargeburer Kirche
+slug: bargeburer-kirche
+region: Lower Saxony
 latitude: 53.592839
 longitude: 7.223692
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q777938"
-description: "Nestled in the serene region of Norden, Germany, the Bargeburer Kirche offers a captivating glimpse into the architectural elegance of baroque design. T..."
+- church building
+- religious site
+wikidata_id: Q777938
+description: Nestled in the serene region of Norden, Germany, the Bargeburer Kirche
+  offers a captivating glimpse into the architectural elegance of baroque design.
+  T...
 images:
-  - "/images-sites/bargeburer-kirche/01-f6901018-1920w.webp"
-  - "/images-sites/bargeburer-kirche/02-b0ece000-1920w.webp"
-  - "/images-sites/bargeburer-kirche/03-51e2866c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1200px-ChurchBargebur.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bargeburer_Church_-_interior150.jpg/1200px-Bargeburer_Church_-_interior150.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bargeburer_Church_-_interior151.jpg/1200px-Bargeburer_Church_-_interior151.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bargeburer_Church_-_interior27.jpg/1200px-Bargeburer_Church_-_interior27.jpg
+image_srcset:
+  ChurchBargebur.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/400px-ChurchBargebur.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/800px-ChurchBargebur.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1200px-ChurchBargebur.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ChurchBargebur.jpg/1920px-ChurchBargebur.jpg
+  Bargeburer Church - interior150.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bargeburer_Church_-_interior150.jpg/400px-Bargeburer_Church_-_interior150.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bargeburer_Church_-_interior150.jpg/800px-Bargeburer_Church_-_interior150.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bargeburer_Church_-_interior150.jpg/1200px-Bargeburer_Church_-_interior150.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bargeburer_Church_-_interior150.jpg/1920px-Bargeburer_Church_-_interior150.jpg
+  Bargeburer Church - interior151.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bargeburer_Church_-_interior151.jpg/400px-Bargeburer_Church_-_interior151.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bargeburer_Church_-_interior151.jpg/800px-Bargeburer_Church_-_interior151.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bargeburer_Church_-_interior151.jpg/1200px-Bargeburer_Church_-_interior151.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bargeburer_Church_-_interior151.jpg/1920px-Bargeburer_Church_-_interior151.jpg
+  Bargeburer Church - interior27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bargeburer_Church_-_interior27.jpg/400px-Bargeburer_Church_-_interior27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bargeburer_Church_-_interior27.jpg/800px-Bargeburer_Church_-_interior27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bargeburer_Church_-_interior27.jpg/1200px-Bargeburer_Church_-_interior27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bargeburer_Church_-_interior27.jpg/1920px-Bargeburer_Church_-_interior27.jpg
 ---
 
 ## Overview

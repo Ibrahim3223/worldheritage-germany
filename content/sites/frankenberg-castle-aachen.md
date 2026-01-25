@@ -1,19 +1,49 @@
 ---
-title: "Frankenberg Castle (Aachen)"
+title: Frankenberg Castle (Aachen)
 date: 2026-01-23
 draft: false
-description: "castle (that also hosts a museum)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle (that also hosts a museum)
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7678
 longitude: 6.10389
 images:
-  - "/images-sites/frankenberg-castle-aachen/01-9859c1c8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herrenhaus_Burg_Frankenberg,_Aachen.JPG/1200px-Herrenhaus_Burg_Frankenberg,_Aachen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Frankenberg,_Aachen_(11).JPG/1200px-Burg_Frankenberg,_Aachen_(11).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg/1200px-Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BurgFrankenberg07.jpg/1200px-BurgFrankenberg07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BurgFrankenberg03.jpg/1200px-BurgFrankenberg03.jpg
+image_srcset:
+  Herrenhaus Burg Frankenberg, Aachen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herrenhaus_Burg_Frankenberg,_Aachen.JPG/400px-Herrenhaus_Burg_Frankenberg,_Aachen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herrenhaus_Burg_Frankenberg,_Aachen.JPG/800px-Herrenhaus_Burg_Frankenberg,_Aachen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herrenhaus_Burg_Frankenberg,_Aachen.JPG/1200px-Herrenhaus_Burg_Frankenberg,_Aachen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herrenhaus_Burg_Frankenberg,_Aachen.JPG/1920px-Herrenhaus_Burg_Frankenberg,_Aachen.JPG
+  Burg Frankenberg, Aachen (11).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Frankenberg,_Aachen_(11).JPG/400px-Burg_Frankenberg,_Aachen_(11).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Frankenberg,_Aachen_(11).JPG/800px-Burg_Frankenberg,_Aachen_(11).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Frankenberg,_Aachen_(11).JPG/1200px-Burg_Frankenberg,_Aachen_(11).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Frankenberg,_Aachen_(11).JPG/1920px-Burg_Frankenberg,_Aachen_(11).JPG
+  Burg Frankenberg - Ludwig Schleiden ca 1830.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg/400px-Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg/800px-Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg/1200px-Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg/1920px-Burg_Frankenberg_-_Ludwig_Schleiden_ca_1830.jpg
+  BurgFrankenberg07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BurgFrankenberg07.jpg/400px-BurgFrankenberg07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BurgFrankenberg07.jpg/800px-BurgFrankenberg07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BurgFrankenberg07.jpg/1200px-BurgFrankenberg07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BurgFrankenberg07.jpg/1920px-BurgFrankenberg07.jpg
+  BurgFrankenberg03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BurgFrankenberg03.jpg/400px-BurgFrankenberg03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BurgFrankenberg03.jpg/800px-BurgFrankenberg03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BurgFrankenberg03.jpg/1200px-BurgFrankenberg03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BurgFrankenberg03.jpg/1920px-BurgFrankenberg03.jpg
 ---
 
 ## Overview

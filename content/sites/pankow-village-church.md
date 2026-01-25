@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244581"
 description: "In the heart of Pankow, Germany, the Pankow village church stands as a notable emblem of architectural heritage. This church, with its striking brick fa..."
 images:
-  - "/images-sites/pankow-village-church/01-a16a7734-1920w.webp"
-  - "/images-sites/pankow-village-church/02-84d58a63-1920w.webp"
-  - "/images-sites/pankow-village-church/03-0de44fdd-1920w.webp"
+  - "/images/pankow-village-church/01-a16a7734-1920w.webp"
+  - "/images/pankow-village-church/02-84d58a63-1920w.webp"
+  - "/images/pankow-village-church/03-0de44fdd-1920w.webp"
 ---
 
 ## Overview

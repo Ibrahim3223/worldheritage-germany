@@ -13,7 +13,7 @@ regions:
 latitude: 50.239663
 longitude: 11.320195
 images:
-  - "/images-sites/kronach/01-55c8e348-800w.webp"
+  - "/images/kronach/01-55c8e348-800w.webp"
 ---
 
 ## Overview

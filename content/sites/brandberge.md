@@ -1,19 +1,49 @@
 ---
-title: "Brandberge"
+title: Brandberge
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5097
 longitude: 11.9281
 images:
-  - "/images-sites/brandberge/01-e05cf0dd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Winterstimmung_in_den_Brandbergen.jpg/1200px-Winterstimmung_in_den_Brandbergen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Halle,_Brandberge_00.jpg/1200px-Halle,_Brandberge_00.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Halle,_Brandberge_02.jpg/1200px-Halle,_Brandberge_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1200px-Brandberge-Herbst.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brandberge-Petersberg.JPG/1200px-Brandberge-Petersberg.JPG
+image_srcset:
+  Winterstimmung in den Brandbergen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Winterstimmung_in_den_Brandbergen.jpg/400px-Winterstimmung_in_den_Brandbergen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Winterstimmung_in_den_Brandbergen.jpg/800px-Winterstimmung_in_den_Brandbergen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Winterstimmung_in_den_Brandbergen.jpg/1200px-Winterstimmung_in_den_Brandbergen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Winterstimmung_in_den_Brandbergen.jpg/1920px-Winterstimmung_in_den_Brandbergen.jpg
+  Halle, Brandberge 00.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Halle,_Brandberge_00.jpg/400px-Halle,_Brandberge_00.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Halle,_Brandberge_00.jpg/800px-Halle,_Brandberge_00.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Halle,_Brandberge_00.jpg/1200px-Halle,_Brandberge_00.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Halle,_Brandberge_00.jpg/1920px-Halle,_Brandberge_00.jpg
+  Halle, Brandberge 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Halle,_Brandberge_02.jpg/400px-Halle,_Brandberge_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Halle,_Brandberge_02.jpg/800px-Halle,_Brandberge_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Halle,_Brandberge_02.jpg/1200px-Halle,_Brandberge_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Halle,_Brandberge_02.jpg/1920px-Halle,_Brandberge_02.jpg
+  Brandberge-Herbst.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/400px-Brandberge-Herbst.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/800px-Brandberge-Herbst.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1200px-Brandberge-Herbst.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brandberge-Herbst.JPG/1920px-Brandberge-Herbst.JPG
+  Brandberge-Petersberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brandberge-Petersberg.JPG/400px-Brandberge-Petersberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brandberge-Petersberg.JPG/800px-Brandberge-Petersberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brandberge-Petersberg.JPG/1200px-Brandberge-Petersberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brandberge-Petersberg.JPG/1920px-Brandberge-Petersberg.JPG
 ---
 
 ## Overview

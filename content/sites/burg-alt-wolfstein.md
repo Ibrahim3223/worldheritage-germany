@@ -1,27 +1,49 @@
 ---
-title: "Burg Alt-Wolfstein"
+title: Burg Alt-Wolfstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5899
 longitude: 7.60092
-
-# Images
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bergfried_Burg_Alt-Wofstein-01.jpg/1200px-Bergfried_Burg_Alt-Wofstein-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buch_Pauline_Koenig.jpg/1200px-Buch_Pauline_Koenig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Altwolfstein_Turmeingang.jpg/1200px-Altwolfstein_Turmeingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alt-wolfstein.JPG/1200px-Alt-wolfstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Altwolfstein.jpg/1200px-Altwolfstein.jpg
+image_srcset:
+  Bergfried Burg Alt-Wofstein-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bergfried_Burg_Alt-Wofstein-01.jpg/400px-Bergfried_Burg_Alt-Wofstein-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bergfried_Burg_Alt-Wofstein-01.jpg/800px-Bergfried_Burg_Alt-Wofstein-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bergfried_Burg_Alt-Wofstein-01.jpg/1200px-Bergfried_Burg_Alt-Wofstein-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bergfried_Burg_Alt-Wofstein-01.jpg/1920px-Bergfried_Burg_Alt-Wofstein-01.jpg
+  Buch Pauline Koenig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buch_Pauline_Koenig.jpg/400px-Buch_Pauline_Koenig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buch_Pauline_Koenig.jpg/800px-Buch_Pauline_Koenig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buch_Pauline_Koenig.jpg/1200px-Buch_Pauline_Koenig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buch_Pauline_Koenig.jpg/1920px-Buch_Pauline_Koenig.jpg
+  Altwolfstein Turmeingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Altwolfstein_Turmeingang.jpg/400px-Altwolfstein_Turmeingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Altwolfstein_Turmeingang.jpg/800px-Altwolfstein_Turmeingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Altwolfstein_Turmeingang.jpg/1200px-Altwolfstein_Turmeingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Altwolfstein_Turmeingang.jpg/1920px-Altwolfstein_Turmeingang.jpg
+  Alt-wolfstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alt-wolfstein.JPG/400px-Alt-wolfstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alt-wolfstein.JPG/800px-Alt-wolfstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alt-wolfstein.JPG/1200px-Alt-wolfstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alt-wolfstein.JPG/1920px-Alt-wolfstein.JPG
+  Altwolfstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Altwolfstein.jpg/400px-Altwolfstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Altwolfstein.jpg/800px-Altwolfstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Altwolfstein.jpg/1200px-Altwolfstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Altwolfstein.jpg/1920px-Altwolfstein.jpg
 ---
 
 ## Overview

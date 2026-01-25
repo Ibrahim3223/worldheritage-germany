@@ -21,7 +21,7 @@ longitude: 10.2361
 
 # Images
 images:
-  - "/images-sites/museum-georg-schaefer/01-da4e38b5-800w.webp"
+  - "/images/museum-georg-schaefer/01-da4e38b5-800w.webp"
 ---
 
 ## Overview

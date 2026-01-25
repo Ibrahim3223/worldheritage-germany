@@ -13,7 +13,7 @@ regions:
 latitude: 54.68
 longitude: 10.033611111
 images:
-  - "/images-sites/schleimuendung/01-6a404d84-800w.webp"
+  - "/images/schleimuendung/01-6a404d84-800w.webp"
 ---
 
 ## Overview

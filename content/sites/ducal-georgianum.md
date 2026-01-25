@@ -1,19 +1,51 @@
 ---
-title: "Ducal Georgianum"
+title: Ducal Georgianum
 date: 2026-01-23
 draft: false
-description: "seminary"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: seminary
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.149976096
 longitude: 11.581743654
 images:
-  - "/images-sites/ducal-georgianum/01-11af1e44-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg/1200px-Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ludwigstr._24_Muenchen-2.jpg/1200px-Ludwigstr._24_Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ludwigstr._24_Muenchen-3.jpg/1200px-Ludwigstr._24_Muenchen-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1200px-Georgianum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ducal_Georgianum_Munich_-_building_outside.JPG/1200px-Ducal_Georgianum_Munich_-_building_outside.JPG
+image_srcset:
+  ? Fontein voor het hoofdgebouw van de Ludwig Maximilians-Universiteit in München,
+    Duitsland Munich (Bavière), Fontaine, place de l'universtité (titel op object)
+    Allemagne au stéréoscope (serietitel op object), RP-F-F13701.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg/400px-Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg/800px-Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg/1200px-Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg/1920px-Fontein_voor_het_hoofdgebouw_van_de_Ludwig_Maximilians-Universiteit_in_München,_Duitsland_Munich_(Bavière),_Fontaine,_place_de_l'universtité_(titel_op_object)_Allemagne_au_stéréoscope_(serietitel_op_object),_RP-F-F13701.jpg
+  Ludwigstr. 24 Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ludwigstr._24_Muenchen-2.jpg/400px-Ludwigstr._24_Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ludwigstr._24_Muenchen-2.jpg/800px-Ludwigstr._24_Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ludwigstr._24_Muenchen-2.jpg/1200px-Ludwigstr._24_Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ludwigstr._24_Muenchen-2.jpg/1920px-Ludwigstr._24_Muenchen-2.jpg
+  Ludwigstr. 24 Muenchen-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ludwigstr._24_Muenchen-3.jpg/400px-Ludwigstr._24_Muenchen-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ludwigstr._24_Muenchen-3.jpg/800px-Ludwigstr._24_Muenchen-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ludwigstr._24_Muenchen-3.jpg/1200px-Ludwigstr._24_Muenchen-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ludwigstr._24_Muenchen-3.jpg/1920px-Ludwigstr._24_Muenchen-3.jpg
+  Georgianum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/400px-Georgianum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/800px-Georgianum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1200px-Georgianum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Georgianum.JPG/1920px-Georgianum.JPG
+  Ducal Georgianum Munich - building outside.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ducal_Georgianum_Munich_-_building_outside.JPG/400px-Ducal_Georgianum_Munich_-_building_outside.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ducal_Georgianum_Munich_-_building_outside.JPG/800px-Ducal_Georgianum_Munich_-_building_outside.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ducal_Georgianum_Munich_-_building_outside.JPG/1200px-Ducal_Georgianum_Munich_-_building_outside.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ducal_Georgianum_Munich_-_building_outside.JPG/1920px-Ducal_Georgianum_Munich_-_building_outside.JPG
 ---
 
 ## Overview

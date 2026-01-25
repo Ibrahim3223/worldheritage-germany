@@ -1,19 +1,49 @@
 ---
-title: "Fastnachtsbrunnen"
+title: Fastnachtsbrunnen
 date: 2026-01-23
 draft: false
-description: "water well in Mainz, Germany, Symbol of Carnival (Fastnacht)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: water well in Mainz, Germany, Symbol of Carnival (Fastnacht)
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 49.998
 longitude: 8.26806
 images:
-  - "/images-sites/fastnachtsbrunnen/01-68c81867-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1200px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG/1200px-Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG/1200px-Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fastnachtsbrunnen_(Köln).jpg/1200px-Fastnachtsbrunnen_(Köln).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fastnachtsbrunnen_Koeln2007.jpg/1200px-Fastnachtsbrunnen_Koeln2007.jpg
+image_srcset:
+  Der Mainzer Fastnachtsbrunnen vor dem Osteiner Hof bei Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/400px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/800px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1200px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg/1920px-Der_Mainzer_Fastnachtsbrunnen_vor_dem_Osteiner_Hof_bei_Nacht.jpg
+  Fastnachtsbrunnen Mainz, Detail (2008-04-23 Sp 2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG/400px-Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG/800px-Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG/1200px-Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG/1920px-Fastnachtsbrunnen_Mainz,_Detail_(2008-04-23_Sp_2).JPG
+  Fastnachtsbrunnen Mainz (2008-04-23 Sp).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG/400px-Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG/800px-Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG/1200px-Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG/1920px-Fastnachtsbrunnen_Mainz_(2008-04-23_Sp).JPG
+  Fastnachtsbrunnen (Köln).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fastnachtsbrunnen_(Köln).jpg/400px-Fastnachtsbrunnen_(Köln).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fastnachtsbrunnen_(Köln).jpg/800px-Fastnachtsbrunnen_(Köln).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fastnachtsbrunnen_(Köln).jpg/1200px-Fastnachtsbrunnen_(Köln).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fastnachtsbrunnen_(Köln).jpg/1920px-Fastnachtsbrunnen_(Köln).jpg
+  Fastnachtsbrunnen Koeln2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fastnachtsbrunnen_Koeln2007.jpg/400px-Fastnachtsbrunnen_Koeln2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fastnachtsbrunnen_Koeln2007.jpg/800px-Fastnachtsbrunnen_Koeln2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fastnachtsbrunnen_Koeln2007.jpg/1200px-Fastnachtsbrunnen_Koeln2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fastnachtsbrunnen_Koeln2007.jpg/1920px-Fastnachtsbrunnen_Koeln2007.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Holzappel mine"
+title: Holzappel mine
 date: 2026-01-23
 draft: false
-description: "Lead-zinc mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: Lead-zinc mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3408
 longitude: 7.89278
 images:
-  - "/images-sites/holzappel-mine/01-912ee1ed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg/1200px-Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mundloch_Adelheidstollen.JPG/1200px-Mundloch_Adelheidstollen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Grube_Holzappel_Laurenburg_1899.png/1200px-Grube_Holzappel_Laurenburg_1899.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Holzappel_trompe_drawing_-de.png/1200px-Holzappel_trompe_drawing_-de.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grube_Holzappel_Laurenburg_1905.png/1200px-Grube_Holzappel_Laurenburg_1905.png
+image_srcset:
+  Erinnerungsplatz Grube Holzappel Laurenburg (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg/400px-Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg/800px-Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg/1200px-Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg/1920px-Erinnerungsplatz_Grube_Holzappel_Laurenburg_(01).jpg
+  Mundloch Adelheidstollen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mundloch_Adelheidstollen.JPG/400px-Mundloch_Adelheidstollen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mundloch_Adelheidstollen.JPG/800px-Mundloch_Adelheidstollen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mundloch_Adelheidstollen.JPG/1200px-Mundloch_Adelheidstollen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mundloch_Adelheidstollen.JPG/1920px-Mundloch_Adelheidstollen.JPG
+  Grube Holzappel Laurenburg 1899.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Grube_Holzappel_Laurenburg_1899.png/400px-Grube_Holzappel_Laurenburg_1899.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Grube_Holzappel_Laurenburg_1899.png/800px-Grube_Holzappel_Laurenburg_1899.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Grube_Holzappel_Laurenburg_1899.png/1200px-Grube_Holzappel_Laurenburg_1899.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Grube_Holzappel_Laurenburg_1899.png/1920px-Grube_Holzappel_Laurenburg_1899.png
+  Holzappel trompe drawing -de.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Holzappel_trompe_drawing_-de.png/400px-Holzappel_trompe_drawing_-de.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Holzappel_trompe_drawing_-de.png/800px-Holzappel_trompe_drawing_-de.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Holzappel_trompe_drawing_-de.png/1200px-Holzappel_trompe_drawing_-de.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Holzappel_trompe_drawing_-de.png/1920px-Holzappel_trompe_drawing_-de.png
+  Grube Holzappel Laurenburg 1905.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grube_Holzappel_Laurenburg_1905.png/400px-Grube_Holzappel_Laurenburg_1905.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grube_Holzappel_Laurenburg_1905.png/800px-Grube_Holzappel_Laurenburg_1905.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grube_Holzappel_Laurenburg_1905.png/1200px-Grube_Holzappel_Laurenburg_1905.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grube_Holzappel_Laurenburg_1905.png/1920px-Grube_Holzappel_Laurenburg_1905.png
 ---
 
 ## Overview

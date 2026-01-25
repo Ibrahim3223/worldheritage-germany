@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Bienenmuseum Weimar"
+title: Deutsches Bienenmuseum Weimar
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9655934
 longitude: 11.3439034
 images:
-  - "/images-sites/deutsches-bienenmuseum-weimar/01-a3bb1a07-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1200px-Bienenmuseum_Weimar.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bienenmuseum(1).JPG/1200px-Bienenmuseum(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bienenmuseum(2).JPG/1200px-Bienenmuseum(2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Bienenmuseum_Weimar_4.jpg/1200px-Deutsches_Bienenmuseum_Weimar_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG/1200px-Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG
+image_srcset:
+  Bienenmuseum Weimar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/400px-Bienenmuseum_Weimar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/800px-Bienenmuseum_Weimar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1200px-Bienenmuseum_Weimar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bienenmuseum_Weimar.JPG/1920px-Bienenmuseum_Weimar.JPG
+  Bienenmuseum(1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bienenmuseum(1).JPG/400px-Bienenmuseum(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bienenmuseum(1).JPG/800px-Bienenmuseum(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bienenmuseum(1).JPG/1200px-Bienenmuseum(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bienenmuseum(1).JPG/1920px-Bienenmuseum(1).JPG
+  Bienenmuseum(2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bienenmuseum(2).JPG/400px-Bienenmuseum(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bienenmuseum(2).JPG/800px-Bienenmuseum(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bienenmuseum(2).JPG/1200px-Bienenmuseum(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bienenmuseum(2).JPG/1920px-Bienenmuseum(2).JPG
+  Deutsches Bienenmuseum Weimar 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Bienenmuseum_Weimar_4.jpg/400px-Deutsches_Bienenmuseum_Weimar_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Bienenmuseum_Weimar_4.jpg/800px-Deutsches_Bienenmuseum_Weimar_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Bienenmuseum_Weimar_4.jpg/1200px-Deutsches_Bienenmuseum_Weimar_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Bienenmuseum_Weimar_4.jpg/1920px-Deutsches_Bienenmuseum_Weimar_4.jpg
+  Oberweimar, Deutsches Bienenmuseum, Rastplatz und Nebengebäude.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG/400px-Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG/800px-Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG/1200px-Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG/1920px-Oberweimar,_Deutsches_Bienenmuseum,_Rastplatz_und_Nebengebäude.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.686111
 longitude: 7.2075
 images:
-  - "/images-sites/petersberg/01-e77ca3ca-800w.webp"
+  - "/images/petersberg/01-e77ca3ca-800w.webp"
 ---
 
 ## Overview

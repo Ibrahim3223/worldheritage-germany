@@ -1,24 +1,51 @@
 ---
-title: "Alte Nazarethkirche (Berlin-Wedding)"
-site_name: "Alte Nazarethkirche (Berlin-Wedding)"
-slug: "alte-nazarethkirche-berlin-wedding"
-region: "Berlin"
-
-# Location
+title: Alte Nazarethkirche (Berlin-Wedding)
+site_name: Alte Nazarethkirche (Berlin-Wedding)
+slug: alte-nazarethkirche-berlin-wedding
+region: Berlin
 latitude: 52.546936
 longitude: 13.359508
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q320323"
-description: "In the heart of Berlin-Wedding lies the Alte Nazarethkirche, a striking Protestant church that reflects the architectural vision of its time. Founded in..."
+- church building
+- religious site
+wikidata_id: Q320323
+description: In the heart of Berlin-Wedding lies the Alte Nazarethkirche, a striking
+  Protestant church that reflects the architectural vision of its time. Founded in...
 images:
-  - "/images-sites/alte-nazarethkirche-berlin-wedding/01-056fcc9b-1920w.webp"
-  - "/images-sites/alte-nazarethkirche-berlin-wedding/02-b999b2d4-1920w.webp"
-  - "/images-sites/alte-nazarethkirche-berlin-wedding/03-aaeca989-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wedding%20Nazarethkirche.jpg/1200px-Wedding%20Nazarethkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wedding_Nazarethkirche.jpg/1200px-Wedding_Nazarethkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wedding_Leopoldplatz_1958.jpg/1200px-Wedding_Leopoldplatz_1958.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin-Wedding,_die_Alte_Nazarethkirche.JPG/1200px-Berlin-Wedding,_die_Alte_Nazarethkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg/1200px-Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg
+image_srcset:
+  Wedding%20Nazarethkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wedding%20Nazarethkirche.jpg/400px-Wedding%20Nazarethkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wedding%20Nazarethkirche.jpg/800px-Wedding%20Nazarethkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wedding%20Nazarethkirche.jpg/1200px-Wedding%20Nazarethkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Wedding%20Nazarethkirche.jpg/1920px-Wedding%20Nazarethkirche.jpg
+  Wedding Nazarethkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wedding_Nazarethkirche.jpg/400px-Wedding_Nazarethkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wedding_Nazarethkirche.jpg/800px-Wedding_Nazarethkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wedding_Nazarethkirche.jpg/1200px-Wedding_Nazarethkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wedding_Nazarethkirche.jpg/1920px-Wedding_Nazarethkirche.jpg
+  Wedding Leopoldplatz 1958.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wedding_Leopoldplatz_1958.jpg/400px-Wedding_Leopoldplatz_1958.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wedding_Leopoldplatz_1958.jpg/800px-Wedding_Leopoldplatz_1958.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wedding_Leopoldplatz_1958.jpg/1200px-Wedding_Leopoldplatz_1958.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wedding_Leopoldplatz_1958.jpg/1920px-Wedding_Leopoldplatz_1958.jpg
+  Berlin-Wedding, die Alte Nazarethkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin-Wedding,_die_Alte_Nazarethkirche.JPG/400px-Berlin-Wedding,_die_Alte_Nazarethkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin-Wedding,_die_Alte_Nazarethkirche.JPG/800px-Berlin-Wedding,_die_Alte_Nazarethkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin-Wedding,_die_Alte_Nazarethkirche.JPG/1200px-Berlin-Wedding,_die_Alte_Nazarethkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin-Wedding,_die_Alte_Nazarethkirche.JPG/1920px-Berlin-Wedding,_die_Alte_Nazarethkirche.JPG
+  Berlin-Wedding, Alte Nazarethkirche, Orgel (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg/400px-Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg/800px-Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg/1200px-Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg/1920px-Berlin-Wedding,_Alte_Nazarethkirche,_Orgel_(1).jpg
 ---
 
 ## Overview

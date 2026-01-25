@@ -21,7 +21,7 @@ longitude: 12.89443
 
 # Images
 images:
-  - "/images-sites/palace-staufeneck/01-ab708ddd-800w.webp"
+  - "/images/palace-staufeneck/01-ab708ddd-800w.webp"
 ---
 
 ## Overview

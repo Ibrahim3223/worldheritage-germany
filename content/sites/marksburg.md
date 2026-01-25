@@ -21,7 +21,7 @@ longitude: 7.649444
 
 # Images
 images:
-  - "/images-sites/marksburg/01-5160e430-800w.webp"
+  - "/images/marksburg/01-5160e430-800w.webp"
 ---
 
 ## Overview

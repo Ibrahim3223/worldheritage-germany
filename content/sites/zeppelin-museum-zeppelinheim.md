@@ -13,7 +13,7 @@ regions:
 latitude: 50.035
 longitude: 8.6146
 images:
-  - "/images-sites/zeppelin-museum-zeppelinheim/01-aeed3e46-800w.webp"
+  - "/images/zeppelin-museum-zeppelinheim/01-aeed3e46-800w.webp"
 ---
 
 ## Overview

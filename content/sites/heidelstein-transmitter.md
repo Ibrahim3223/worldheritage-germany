@@ -1,20 +1,49 @@
 ---
-title: "Heidelstein transmitter"
+title: Heidelstein transmitter
 date: 2026-01-24
 draft: false
-description: "transmitter site in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: transmitter site in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4605
 longitude: 10.0068
 images:
-  - "/images-sites/heidelstein-transmitter/01-fc58db14-800w.webp"
-  - "/images-sites/heidelstein-transmitter/03-6fbe6dcf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsteinsender_02062015_4.JPG/1200px-Heidelsteinsender_02062015_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sendemast_Heidelstein05052020.png/1200px-Sendemast_Heidelstein05052020.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg/1200px-NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Heidelsteinsender.jpg/1200px-Heidelsteinsender.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heidelstein_komplett.jpg/1200px-Heidelstein_komplett.jpg
+image_srcset:
+  Heidelsteinsender 02062015 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsteinsender_02062015_4.JPG/400px-Heidelsteinsender_02062015_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsteinsender_02062015_4.JPG/800px-Heidelsteinsender_02062015_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsteinsender_02062015_4.JPG/1200px-Heidelsteinsender_02062015_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsteinsender_02062015_4.JPG/1920px-Heidelsteinsender_02062015_4.JPG
+  Sendemast Heidelstein05052020.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sendemast_Heidelstein05052020.png/400px-Sendemast_Heidelstein05052020.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sendemast_Heidelstein05052020.png/800px-Sendemast_Heidelstein05052020.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sendemast_Heidelstein05052020.png/1200px-Sendemast_Heidelstein05052020.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sendemast_Heidelstein05052020.png/1920px-Sendemast_Heidelstein05052020.png
+  NSG Lange Rhön-Heidelstein Juni 2015 9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg/400px-NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg/800px-NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg/1200px-NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg/1920px-NSG_Lange_Rhön-Heidelstein_Juni_2015_9.jpg
+  Heidelsteinsender.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Heidelsteinsender.jpg/400px-Heidelsteinsender.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Heidelsteinsender.jpg/800px-Heidelsteinsender.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Heidelsteinsender.jpg/1200px-Heidelsteinsender.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Heidelsteinsender.jpg/1920px-Heidelsteinsender.jpg
+  Heidelstein komplett.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heidelstein_komplett.jpg/400px-Heidelstein_komplett.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heidelstein_komplett.jpg/800px-Heidelstein_komplett.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heidelstein_komplett.jpg/1200px-Heidelstein_komplett.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heidelstein_komplett.jpg/1920px-Heidelstein_komplett.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.917777777
 longitude: 8.246666666
 images:
-  - "/images-sites/sieg/01-2adb9a9c-800w.webp"
+  - "/images/sieg/01-2adb9a9c-800w.webp"
 ---
 
 ## Overview

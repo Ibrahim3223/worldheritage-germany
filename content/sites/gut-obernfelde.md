@@ -1,19 +1,49 @@
 ---
-title: "Gut Obernfelde"
+title: Gut Obernfelde
 date: 2026-01-23
 draft: false
-description: "building in Lübbecke, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Lübbecke, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2933
 longitude: 8.6025
 images:
-  - "/images-sites/gut-obernfelde/01-098d2936-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/1200px-Obernfelde1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Panorama_Innenhof_2.jpg/1200px-Panorama_Innenhof_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panorama_Obernfelde.jpg/1200px-Panorama_Obernfelde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Herrenhaustag_MI_Juni_2009_033.jpg/1200px-Herrenhaustag_MI_Juni_2009_033.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Herrenhaustag_MI_Juni_2009_043.jpg/1200px-Herrenhaustag_MI_Juni_2009_043.jpg
+image_srcset:
+  Obernfelde1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/400px-Obernfelde1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/800px-Obernfelde1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/1200px-Obernfelde1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Obernfelde1.jpg/1920px-Obernfelde1.jpg
+  Panorama Innenhof 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Panorama_Innenhof_2.jpg/400px-Panorama_Innenhof_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Panorama_Innenhof_2.jpg/800px-Panorama_Innenhof_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Panorama_Innenhof_2.jpg/1200px-Panorama_Innenhof_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Panorama_Innenhof_2.jpg/1920px-Panorama_Innenhof_2.jpg
+  Panorama Obernfelde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panorama_Obernfelde.jpg/400px-Panorama_Obernfelde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panorama_Obernfelde.jpg/800px-Panorama_Obernfelde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panorama_Obernfelde.jpg/1200px-Panorama_Obernfelde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panorama_Obernfelde.jpg/1920px-Panorama_Obernfelde.jpg
+  Herrenhaustag MI Juni 2009 033.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Herrenhaustag_MI_Juni_2009_033.jpg/400px-Herrenhaustag_MI_Juni_2009_033.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Herrenhaustag_MI_Juni_2009_033.jpg/800px-Herrenhaustag_MI_Juni_2009_033.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Herrenhaustag_MI_Juni_2009_033.jpg/1200px-Herrenhaustag_MI_Juni_2009_033.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Herrenhaustag_MI_Juni_2009_033.jpg/1920px-Herrenhaustag_MI_Juni_2009_033.jpg
+  Herrenhaustag MI Juni 2009 043.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Herrenhaustag_MI_Juni_2009_043.jpg/400px-Herrenhaustag_MI_Juni_2009_043.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Herrenhaustag_MI_Juni_2009_043.jpg/800px-Herrenhaustag_MI_Juni_2009_043.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Herrenhaustag_MI_Juni_2009_043.jpg/1200px-Herrenhaustag_MI_Juni_2009_043.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Herrenhaustag_MI_Juni_2009_043.jpg/1920px-Herrenhaustag_MI_Juni_2009_043.jpg
 ---
 
 ## Overview

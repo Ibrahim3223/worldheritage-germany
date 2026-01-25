@@ -21,7 +21,7 @@ longitude: 9.62444
 
 # Images
 images:
-  - "/images-sites/schloss-ludwigseck/01-219688dd-800w.webp"
+  - "/images/schloss-ludwigseck/01-219688dd-800w.webp"
 ---
 
 ## Overview

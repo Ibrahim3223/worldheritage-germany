@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2221942"
 description: "In the heart of Magdeburg, Germany, the Sankt-Johann-Baptist-Kirche stands as a striking example of Gothic Revival architecture. Its intricate brickwork..."
 images:
-  - "/images-sites/sankt-johann-baptist-kirche/01-6417f6e7-1920w.webp"
-  - "/images-sites/sankt-johann-baptist-kirche/02-c502f3f1-1920w.webp"
-  - "/images-sites/sankt-johann-baptist-kirche/03-735f3fed-1920w.webp"
+  - "/images/sankt-johann-baptist-kirche/01-6417f6e7-1920w.webp"
+  - "/images/sankt-johann-baptist-kirche/02-c502f3f1-1920w.webp"
+  - "/images/sankt-johann-baptist-kirche/03-735f3fed-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q471633"
 description: "St. Peters Cathedral, a striking example of Romanesque architecture, stands as a central figure in the religious landscape of Osnabrück, Germany. Founde..."
 images:
-  - "/images-sites/st-peter-s-cathedral/01-9566869a-1920w.webp"
-  - "/images-sites/st-peter-s-cathedral/02-481f06ac-1920w.webp"
-  - "/images-sites/st-peter-s-cathedral/03-96ddb821-1920w.webp"
+  - "/images/st-peter-s-cathedral/01-9566869a-1920w.webp"
+  - "/images/st-peter-s-cathedral/02-481f06ac-1920w.webp"
+  - "/images/st-peter-s-cathedral/03-96ddb821-1920w.webp"
 ---
 
 ## Overview

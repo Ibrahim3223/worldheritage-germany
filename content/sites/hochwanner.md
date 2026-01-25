@@ -1,19 +1,49 @@
 ---
-title: "Hochwanner"
+title: Hochwanner
 date: 2026-01-23
 draft: false
-description: "mountain in the Wettersteingebirge at the border Bavaria / Tyrol"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Wettersteingebirge at the border Bavaria / Tyrol
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.395833333
 longitude: 11.054166666
 images:
-  - "/images-sites/hochwanner/01-62850b1b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/1200px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rotmoosalm_mit_Hochwanner.jpg/1200px-Rotmoosalm_mit_Hochwanner.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hochwanner_im_Wettersteingebirge.jpg/1200px-Hochwanner_im_Wettersteingebirge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wetterstein_Hochwanner.jpg/1200px-Wetterstein_Hochwanner.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/1200px-Hochwanner_von_S_HQ.jpg
+image_srcset:
+  ÖBB 4024-076 near Seefeld in Tirol, Mittenwaldbahn, 20.02.2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/400px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/800px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/1200px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/1920px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+  Rotmoosalm mit Hochwanner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rotmoosalm_mit_Hochwanner.jpg/400px-Rotmoosalm_mit_Hochwanner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rotmoosalm_mit_Hochwanner.jpg/800px-Rotmoosalm_mit_Hochwanner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rotmoosalm_mit_Hochwanner.jpg/1200px-Rotmoosalm_mit_Hochwanner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rotmoosalm_mit_Hochwanner.jpg/1920px-Rotmoosalm_mit_Hochwanner.jpg
+  Hochwanner im Wettersteingebirge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hochwanner_im_Wettersteingebirge.jpg/400px-Hochwanner_im_Wettersteingebirge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hochwanner_im_Wettersteingebirge.jpg/800px-Hochwanner_im_Wettersteingebirge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hochwanner_im_Wettersteingebirge.jpg/1200px-Hochwanner_im_Wettersteingebirge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hochwanner_im_Wettersteingebirge.jpg/1920px-Hochwanner_im_Wettersteingebirge.jpg
+  Wetterstein Hochwanner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wetterstein_Hochwanner.jpg/400px-Wetterstein_Hochwanner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wetterstein_Hochwanner.jpg/800px-Wetterstein_Hochwanner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wetterstein_Hochwanner.jpg/1200px-Wetterstein_Hochwanner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wetterstein_Hochwanner.jpg/1920px-Wetterstein_Hochwanner.jpg
+  Hochwanner von S HQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/400px-Hochwanner_von_S_HQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/800px-Hochwanner_von_S_HQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/1200px-Hochwanner_von_S_HQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hochwanner_von_S_HQ.jpg/1920px-Hochwanner_von_S_HQ.jpg
 ---
 
 ## Overview

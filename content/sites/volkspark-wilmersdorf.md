@@ -13,9 +13,9 @@ regions:
 latitude: 52.483611111
 longitude: 13.324166666
 images:
-  - "/images-sites/volkspark-wilmersdorf/01-ef385278-800w.webp"
-  - "/images-sites/volkspark-wilmersdorf/02-aea6230e-800w.webp"
-  - "/images-sites/volkspark-wilmersdorf/03-2349119a-800w.webp"
+  - "/images/volkspark-wilmersdorf/01-ef385278-800w.webp"
+  - "/images/volkspark-wilmersdorf/02-aea6230e-800w.webp"
+  - "/images/volkspark-wilmersdorf/03-2349119a-800w.webp"
 ---
 
 ## Overview

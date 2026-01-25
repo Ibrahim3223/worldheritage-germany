@@ -13,7 +13,7 @@ regions:
 latitude: 52.51
 longitude: 13.373611
 images:
-  - "/images-sites/sony-center/01-4ff9e034-800w.webp"
+  - "/images/sony-center/01-4ff9e034-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 52.456
 longitude: 13.264
 images:
-  - "/images-sites/waldfriedhof-dahlem/02-df743353-800w.webp"
-  - "/images-sites/waldfriedhof-dahlem/03-8a128876-800w.webp"
+  - "/images/waldfriedhof-dahlem/02-df743353-800w.webp"
+  - "/images/waldfriedhof-dahlem/03-8a128876-800w.webp"
 ---
 
 ## Overview

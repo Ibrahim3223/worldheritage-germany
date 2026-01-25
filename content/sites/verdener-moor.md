@@ -13,8 +13,8 @@ regions:
 latitude: 52.9183
 longitude: 9.42444
 images:
-  - "/images-sites/verdener-moor/01-bd27a027-800w.webp"
-  - "/images-sites/verdener-moor/02-c33d314f-800w.webp"
+  - "/images/verdener-moor/01-bd27a027-800w.webp"
+  - "/images/verdener-moor/02-c33d314f-800w.webp"
 ---
 
 ## Overview

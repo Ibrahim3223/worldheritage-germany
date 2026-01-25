@@ -13,7 +13,7 @@ regions:
 latitude: 51.496388888
 longitude: 7.455833333
 images:
-  - "/images-sites/westfalenhallen/01-38baa01b-800w.webp"
+  - "/images/westfalenhallen/01-38baa01b-800w.webp"
 ---
 
 ## Overview

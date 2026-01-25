@@ -1,19 +1,49 @@
 ---
-title: "Bavariapark (Munich)"
+title: Bavariapark (Munich)
 date: 2026-01-23
 draft: false
-description: "park in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.130999197
 longitude: 11.543054433
 images:
-  - "/images-sites/bavariapark-munich/01-a10c7775-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavariapark_Muenchen-3.jpg/1200px-Bavariapark_Muenchen-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bavariapark_Muenchen-2.jpg/1200px-Bavariapark_Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bavariapark_Muenchen-6.jpg/1200px-Bavariapark_Muenchen-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bavariapark-1.jpg/1200px-Bavariapark-1.jpg
+image_srcset:
+  Bavariapark Muenchen-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavariapark_Muenchen-3.jpg/400px-Bavariapark_Muenchen-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavariapark_Muenchen-3.jpg/800px-Bavariapark_Muenchen-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavariapark_Muenchen-3.jpg/1200px-Bavariapark_Muenchen-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bavariapark_Muenchen-3.jpg/1920px-Bavariapark_Muenchen-3.jpg
+  Bavariapark Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bavariapark_Muenchen-2.jpg/400px-Bavariapark_Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bavariapark_Muenchen-2.jpg/800px-Bavariapark_Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bavariapark_Muenchen-2.jpg/1200px-Bavariapark_Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bavariapark_Muenchen-2.jpg/1920px-Bavariapark_Muenchen-2.jpg
+  Bavariapark Muenchen-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bavariapark_Muenchen-6.jpg/400px-Bavariapark_Muenchen-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bavariapark_Muenchen-6.jpg/800px-Bavariapark_Muenchen-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bavariapark_Muenchen-6.jpg/1200px-Bavariapark_Muenchen-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bavariapark_Muenchen-6.jpg/1920px-Bavariapark_Muenchen-6.jpg
+  Aerial image of Bavariapark (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/400px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/800px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Bavariapark_(view_from_the_southeast).jpg
+  Bavariapark-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bavariapark-1.jpg/400px-Bavariapark-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bavariapark-1.jpg/800px-Bavariapark-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bavariapark-1.jpg/1200px-Bavariapark-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bavariapark-1.jpg/1920px-Bavariapark-1.jpg
 ---
 
 ## Overview

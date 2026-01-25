@@ -1,21 +1,49 @@
 ---
-title: "Berlin-Grünau station"
+title: Berlin-Grünau station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4122
 longitude: 13.5746
 images:
-  - "/images-sites/berlin-gruenau-station/01-6b9eb689-800w.webp"
-  - "/images-sites/berlin-gruenau-station/02-4898a1fc-800w.webp"
-  - "/images-sites/berlin-gruenau-station/03-3a0609c1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J27_795_Bf_Ga,_485_127.jpg/1200px-J27_795_Bf_Ga,_485_127.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhof_Berlin-Grünau_S8_2006.jpg/1200px-Bahnhof_Berlin-Grünau_S8_2006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg/1200px-Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clp_20080826_Bf_Berlin-Grünau_EG.jpg/1200px-Clp_20080826_Bf_Berlin-Grünau_EG.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/S-bahn-berlin-s85-br-485-888216.jpg/1200px-S-bahn-berlin-s85-br-485-888216.jpg
+image_srcset:
+  J27 795 Bf Ga, 485 127.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J27_795_Bf_Ga,_485_127.jpg/400px-J27_795_Bf_Ga,_485_127.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J27_795_Bf_Ga,_485_127.jpg/800px-J27_795_Bf_Ga,_485_127.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J27_795_Bf_Ga,_485_127.jpg/1200px-J27_795_Bf_Ga,_485_127.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J27_795_Bf_Ga,_485_127.jpg/1920px-J27_795_Bf_Ga,_485_127.jpg
+  Bahnhof Berlin-Grünau S8 2006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhof_Berlin-Grünau_S8_2006.jpg/400px-Bahnhof_Berlin-Grünau_S8_2006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhof_Berlin-Grünau_S8_2006.jpg/800px-Bahnhof_Berlin-Grünau_S8_2006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhof_Berlin-Grünau_S8_2006.jpg/1200px-Bahnhof_Berlin-Grünau_S8_2006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bahnhof_Berlin-Grünau_S8_2006.jpg/1920px-Bahnhof_Berlin-Grünau_S8_2006.jpg
+  Clp 20180516 5645 Bf Berlin-Grünau EG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg/400px-Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg/800px-Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg/1200px-Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg/1920px-Clp_20180516_5645_Bf_Berlin-Grünau_EG.jpg
+  Clp 20080826 Bf Berlin-Grünau EG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clp_20080826_Bf_Berlin-Grünau_EG.jpg/400px-Clp_20080826_Bf_Berlin-Grünau_EG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clp_20080826_Bf_Berlin-Grünau_EG.jpg/800px-Clp_20080826_Bf_Berlin-Grünau_EG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clp_20080826_Bf_Berlin-Grünau_EG.jpg/1200px-Clp_20080826_Bf_Berlin-Grünau_EG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clp_20080826_Bf_Berlin-Grünau_EG.jpg/1920px-Clp_20080826_Bf_Berlin-Grünau_EG.jpg
+  S-bahn-berlin-s85-br-485-888216.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/S-bahn-berlin-s85-br-485-888216.jpg/400px-S-bahn-berlin-s85-br-485-888216.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/S-bahn-berlin-s85-br-485-888216.jpg/800px-S-bahn-berlin-s85-br-485-888216.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/S-bahn-berlin-s85-br-485-888216.jpg/1200px-S-bahn-berlin-s85-br-485-888216.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/S-bahn-berlin-s85-br-485-888216.jpg/1920px-S-bahn-berlin-s85-br-485-888216.jpg
 ---
 
 ## Overview

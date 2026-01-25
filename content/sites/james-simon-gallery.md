@@ -1,27 +1,49 @@
 ---
-title: "James Simon Gallery"
+title: James Simon Gallery
 date: 2026-01-23
 draft: false
-description: "visitor center and art museum in Berlin"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: visitor center and art museum in Berlin
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.52
 longitude: 13.39701
-
-# Images
 images:
-  - "/images-sites/james-simon-gallery/01-7aebd2dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1200px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Buttbrunnen_Museumsinsel.jpg/1200px-20240815_Buttbrunnen_Museumsinsel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_James-Simon-Galerie_asv2019-07_img3.jpg/1200px-Berlin_James-Simon-Galerie_asv2019-07_img3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/James_Simon_Galerie_Berlin.jpg/1200px-James_Simon_Galerie_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skulptur_Liegender_Löwe_von_August_Gaul.jpg/1200px-Skulptur_Liegender_Löwe_von_August_Gaul.jpg
+image_srcset:
+  Berlin James-Simon-Galerie asv2019-07 img2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/400px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/800px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1200px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berlin_James-Simon-Galerie_asv2019-07_img2.jpg/1920px-Berlin_James-Simon-Galerie_asv2019-07_img2.jpg
+  20240815 Buttbrunnen Museumsinsel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Buttbrunnen_Museumsinsel.jpg/400px-20240815_Buttbrunnen_Museumsinsel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Buttbrunnen_Museumsinsel.jpg/800px-20240815_Buttbrunnen_Museumsinsel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Buttbrunnen_Museumsinsel.jpg/1200px-20240815_Buttbrunnen_Museumsinsel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Buttbrunnen_Museumsinsel.jpg/1920px-20240815_Buttbrunnen_Museumsinsel.jpg
+  Berlin James-Simon-Galerie asv2019-07 img3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_James-Simon-Galerie_asv2019-07_img3.jpg/400px-Berlin_James-Simon-Galerie_asv2019-07_img3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_James-Simon-Galerie_asv2019-07_img3.jpg/800px-Berlin_James-Simon-Galerie_asv2019-07_img3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_James-Simon-Galerie_asv2019-07_img3.jpg/1200px-Berlin_James-Simon-Galerie_asv2019-07_img3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_James-Simon-Galerie_asv2019-07_img3.jpg/1920px-Berlin_James-Simon-Galerie_asv2019-07_img3.jpg
+  James Simon Galerie Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/James_Simon_Galerie_Berlin.jpg/400px-James_Simon_Galerie_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/James_Simon_Galerie_Berlin.jpg/800px-James_Simon_Galerie_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/James_Simon_Galerie_Berlin.jpg/1200px-James_Simon_Galerie_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/James_Simon_Galerie_Berlin.jpg/1920px-James_Simon_Galerie_Berlin.jpg
+  Skulptur Liegender Löwe von August Gaul.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skulptur_Liegender_Löwe_von_August_Gaul.jpg/400px-Skulptur_Liegender_Löwe_von_August_Gaul.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skulptur_Liegender_Löwe_von_August_Gaul.jpg/800px-Skulptur_Liegender_Löwe_von_August_Gaul.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skulptur_Liegender_Löwe_von_August_Gaul.jpg/1200px-Skulptur_Liegender_Löwe_von_August_Gaul.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skulptur_Liegender_Löwe_von_August_Gaul.jpg/1920px-Skulptur_Liegender_Löwe_von_August_Gaul.jpg
 ---
 
 ## Overview

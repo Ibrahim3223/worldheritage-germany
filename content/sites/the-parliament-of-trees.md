@@ -13,8 +13,8 @@ regions:
 latitude: 52.5211
 longitude: 13.3776
 images:
-  - "/images-sites/the-parliament-of-trees/02-eeb80d84-800w.webp"
-  - "/images-sites/the-parliament-of-trees/03-126cb66c-800w.webp"
+  - "/images/the-parliament-of-trees/02-eeb80d84-800w.webp"
+  - "/images/the-parliament-of-trees/03-126cb66c-800w.webp"
 ---
 
 ## Overview

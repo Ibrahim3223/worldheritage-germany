@@ -13,7 +13,7 @@ regions:
 latitude: 51.330278
 longitude: 6.559444
 images:
-  - "/images-sites/kunstmuseen-krefeld/01-2c9cca7b-800w.webp"
+  - "/images/kunstmuseen-krefeld/01-2c9cca7b-800w.webp"
 ---
 
 ## Overview

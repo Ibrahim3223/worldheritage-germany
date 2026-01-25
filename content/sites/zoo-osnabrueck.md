@@ -13,7 +13,7 @@ regions:
 latitude: 52.25
 longitude: 8.07028
 images:
-  - "/images-sites/zoo-osnabrueck/01-1abedf7f-800w.webp"
+  - "/images/zoo-osnabrueck/01-1abedf7f-800w.webp"
 ---
 
 ## Overview

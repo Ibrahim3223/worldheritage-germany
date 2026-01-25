@@ -13,9 +13,9 @@ regions:
 latitude: 53.648888888
 longitude: 7.429722222
 images:
-  - "/images-sites/norderburg/01-b602ead4-800w.webp"
-  - "/images-sites/norderburg/02-ce2e3ecb-800w.webp"
-  - "/images-sites/norderburg/03-7091bc95-800w.webp"
+  - "/images/norderburg/01-b602ead4-800w.webp"
+  - "/images/norderburg/02-ce2e3ecb-800w.webp"
+  - "/images/norderburg/03-7091bc95-800w.webp"
 ---
 
 ## Overview

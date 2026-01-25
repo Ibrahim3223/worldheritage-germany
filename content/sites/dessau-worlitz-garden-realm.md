@@ -1,26 +1,46 @@
 ---
-title: "Dessau-Wörlitz Garden Realm"
-site_name: "Dessau-Wörlitz Garden Realm"
-slug: "dessau-worlitz-garden-realm"
-region: "Brandenburg"
-
-# Location
+title: Dessau-Wörlitz Garden Realm
+site_name: Dessau-Wörlitz Garden Realm
+slug: dessau-worlitz-garden-realm
+region: Brandenburg
 latitude: 51.8636
 longitude: 12.2814
 regions:
-    - "Brandenburg"
+- Brandenburg
 tags:
-  - "unesco"
-
-heritage_type: "cultural site"
+- unesco
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q157543"
-description: "The Dessau-Wörlitz Garden Realm is a remarkable cultural landscape that reflects the ideals of the Enlightenment, showcasing a harmonious blend of natur..."
+- cultural site
+wikidata_id: Q157543
+description: The Dessau-Wörlitz Garden Realm is a remarkable cultural landscape that
+  reflects the ideals of the Enlightenment, showcasing a harmonious blend of natur...
 images:
-  - "/images-sites/dessau-worlitz-garden-realm/01-984a1381-1920w.webp"
-  - "/images-sites/dessau-worlitz-garden-realm/02-4de8a80e-1920w.webp"
-  - "/images-sites/dessau-worlitz-garden-realm/03-430a1e81-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/1200px-Woerlitzpark81.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1200px-WörlitzAmaliengrotte.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/1200px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/1200px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+image_srcset:
+  Woerlitzpark81.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/400px-Woerlitzpark81.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/800px-Woerlitzpark81.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/1200px-Woerlitzpark81.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/1920px-Woerlitzpark81.jpg
+  WörlitzAmaliengrotte.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/400px-WörlitzAmaliengrotte.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/800px-WörlitzAmaliengrotte.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1200px-WörlitzAmaliengrotte.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1920px-WörlitzAmaliengrotte.JPG
+  2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/400px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/800px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/1200px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/1920px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+  Außenaufnahmen Schloss Mosigkau 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/400px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/800px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/1200px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/1920px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
 ---
 
 ## Overview

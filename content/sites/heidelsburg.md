@@ -1,27 +1,49 @@
 ---
-title: "Heidelsburg"
+title: Heidelsburg
 date: 2026-01-23
 draft: false
-description: "former castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: former castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2675
 longitude: 7.691944444
-
-# Images
 images:
-  - "/images-sites/heidelsburg/01-fd189842-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsburg_Waldfischbach-Burgalben_(2).jpg/1200px-Heidelsburg_Waldfischbach-Burgalben_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heidelsburg_Waldfischbach-Burgalben_(6).jpg/1200px-Heidelsburg_Waldfischbach-Burgalben_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidelsburg_Waldfischbach-Burgalben_(7).jpg/1200px-Heidelsburg_Waldfischbach-Burgalben_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1200px-Heidelsburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidelsburg_Relief.JPG/1200px-Heidelsburg_Relief.JPG
+image_srcset:
+  Heidelsburg Waldfischbach-Burgalben (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsburg_Waldfischbach-Burgalben_(2).jpg/400px-Heidelsburg_Waldfischbach-Burgalben_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsburg_Waldfischbach-Burgalben_(2).jpg/800px-Heidelsburg_Waldfischbach-Burgalben_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsburg_Waldfischbach-Burgalben_(2).jpg/1200px-Heidelsburg_Waldfischbach-Burgalben_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelsburg_Waldfischbach-Burgalben_(2).jpg/1920px-Heidelsburg_Waldfischbach-Burgalben_(2).jpg
+  Heidelsburg Waldfischbach-Burgalben (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heidelsburg_Waldfischbach-Burgalben_(6).jpg/400px-Heidelsburg_Waldfischbach-Burgalben_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heidelsburg_Waldfischbach-Burgalben_(6).jpg/800px-Heidelsburg_Waldfischbach-Burgalben_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heidelsburg_Waldfischbach-Burgalben_(6).jpg/1200px-Heidelsburg_Waldfischbach-Burgalben_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heidelsburg_Waldfischbach-Burgalben_(6).jpg/1920px-Heidelsburg_Waldfischbach-Burgalben_(6).jpg
+  Heidelsburg Waldfischbach-Burgalben (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidelsburg_Waldfischbach-Burgalben_(7).jpg/400px-Heidelsburg_Waldfischbach-Burgalben_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidelsburg_Waldfischbach-Burgalben_(7).jpg/800px-Heidelsburg_Waldfischbach-Burgalben_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidelsburg_Waldfischbach-Burgalben_(7).jpg/1200px-Heidelsburg_Waldfischbach-Burgalben_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidelsburg_Waldfischbach-Burgalben_(7).jpg/1920px-Heidelsburg_Waldfischbach-Burgalben_(7).jpg
+  Heidelsburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/400px-Heidelsburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/800px-Heidelsburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1200px-Heidelsburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Heidelsburg.JPG/1920px-Heidelsburg.JPG
+  Heidelsburg Relief.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidelsburg_Relief.JPG/400px-Heidelsburg_Relief.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidelsburg_Relief.JPG/800px-Heidelsburg_Relief.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidelsburg_Relief.JPG/1200px-Heidelsburg_Relief.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Heidelsburg_Relief.JPG/1920px-Heidelsburg_Relief.JPG
 ---
 
 ## Overview

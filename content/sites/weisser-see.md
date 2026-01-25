@@ -13,7 +13,7 @@ regions:
 latitude: 52.55416667
 longitude: 13.46402778
 images:
-  - "/images-sites/weisser-see/01-323a8ccf-800w.webp"
+  - "/images/weisser-see/01-323a8ccf-800w.webp"
 ---
 
 ## Overview

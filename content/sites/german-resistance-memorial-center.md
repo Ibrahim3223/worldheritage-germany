@@ -1,19 +1,49 @@
 ---
-title: "German Resistance Memorial Center"
+title: German Resistance Memorial Center
 date: 2026-01-23
 draft: false
-description: "memorial and museum in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial and museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5078
 longitude: 13.3625
 images:
-  - "/images-sites/german-resistance-memorial-center/01-e60a3d5e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg/1200px-Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg/1200px-Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stauffenberg's_office.JPG/1200px-Stauffenberg's_office.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1200px-Bendlerblock.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG/1200px-Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG
+image_srcset:
+  Berlijn 2011 198 Gedenkstätte Deutscher Widerstand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg/400px-Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg/800px-Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg/1200px-Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg/1920px-Berlijn_2011_198_Gedenkstätte_Deutscher_Widerstand.jpg
+  Berlijn 2011 199 Gedenkstätte Deutscher Widerstand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg/400px-Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg/800px-Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg/1200px-Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg/1920px-Berlijn_2011_199_Gedenkstätte_Deutscher_Widerstand.jpg
+  Stauffenberg's office.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stauffenberg's_office.JPG/400px-Stauffenberg's_office.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stauffenberg's_office.JPG/800px-Stauffenberg's_office.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stauffenberg's_office.JPG/1200px-Stauffenberg's_office.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stauffenberg's_office.JPG/1920px-Stauffenberg's_office.JPG
+  Bendlerblock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/400px-Bendlerblock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/800px-Bendlerblock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1200px-Bendlerblock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bendlerblock.jpg/1920px-Bendlerblock.jpg
+  Plaque on Memorial to the German Resistance, Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG/400px-Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG/800px-Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG/1200px-Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG/1920px-Plaque_on_Memorial_to_the_German_Resistance,_Berlin.JPG
 ---
 
 ## Overview

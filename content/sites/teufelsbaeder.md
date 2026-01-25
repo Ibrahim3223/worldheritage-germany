@@ -13,7 +13,7 @@ regions:
 latitude: 51.7085
 longitude: 10.2787
 images:
-  - "/images-sites/teufelsbaeder/01-4dec9bc6-800w.webp"
+  - "/images/teufelsbaeder/01-4dec9bc6-800w.webp"
 ---
 
 ## Overview

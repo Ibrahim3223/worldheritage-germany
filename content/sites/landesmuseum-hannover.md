@@ -13,7 +13,7 @@ regions:
 latitude: 52.36549544
 longitude: 9.740111115
 images:
-  - "/images-sites/landesmuseum-hannover/01-a4592309-800w.webp"
+  - "/images/landesmuseum-hannover/01-a4592309-800w.webp"
 ---
 
 ## Overview

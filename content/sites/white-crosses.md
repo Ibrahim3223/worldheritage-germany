@@ -13,7 +13,7 @@ regions:
 latitude: 52.519635
 longitude: 13.376831
 images:
-  - "/images-sites/white-crosses/01-18a9db9f-800w.webp"
+  - "/images/white-crosses/01-18a9db9f-800w.webp"
 ---
 
 ## Overview

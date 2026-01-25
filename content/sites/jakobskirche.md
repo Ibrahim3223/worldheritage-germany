@@ -1,20 +1,51 @@
 ---
-title: "Jakobskirche"
-site_name: "Jakobskirche"
-slug: "jakobskirche"
-region: "Hesse"
-
-# Location
+title: Jakobskirche
+site_name: Jakobskirche
+slug: jakobskirche
+region: Hesse
 latitude: 49.4049
 longitude: 9.38926
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1679530"
-description: "In the heart of Baden-Württemberg, the Jakobskirche stands as a striking example of Gothic architecture. This church building, located in the region of ..."
+- church building
+- religious site
+wikidata_id: Q1679530
+description: In the heart of Baden-Württemberg, the Jakobskirche stands as a striking
+  example of Gothic architecture. This church building, located in the region of ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Adelsheim%20Jakobskirche2873.JPG/1200px-Adelsheim%20Jakobskirche2873.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Weimar_2021_06.jpg/1200px-Weimar_2021_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Die_Jakobskirche_in_Weimar.jpg/1200px-Die_Jakobskirche_in_Weimar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WE-Jakobskirchturm-1.jpg/1200px-WE-Jakobskirchturm-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png/1200px-Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png
+image_srcset:
+  Adelsheim%20Jakobskirche2873.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Adelsheim%20Jakobskirche2873.JPG/400px-Adelsheim%20Jakobskirche2873.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Adelsheim%20Jakobskirche2873.JPG/800px-Adelsheim%20Jakobskirche2873.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Adelsheim%20Jakobskirche2873.JPG/1200px-Adelsheim%20Jakobskirche2873.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Adelsheim%20Jakobskirche2873.JPG/1920px-Adelsheim%20Jakobskirche2873.JPG
+  Weimar 2021 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Weimar_2021_06.jpg/400px-Weimar_2021_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Weimar_2021_06.jpg/800px-Weimar_2021_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Weimar_2021_06.jpg/1200px-Weimar_2021_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Weimar_2021_06.jpg/1920px-Weimar_2021_06.jpg
+  Die Jakobskirche in Weimar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Die_Jakobskirche_in_Weimar.jpg/400px-Die_Jakobskirche_in_Weimar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Die_Jakobskirche_in_Weimar.jpg/800px-Die_Jakobskirche_in_Weimar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Die_Jakobskirche_in_Weimar.jpg/1200px-Die_Jakobskirche_in_Weimar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Die_Jakobskirche_in_Weimar.jpg/1920px-Die_Jakobskirche_in_Weimar.jpg
+  WE-Jakobskirchturm-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WE-Jakobskirchturm-1.jpg/400px-WE-Jakobskirchturm-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WE-Jakobskirchturm-1.jpg/800px-WE-Jakobskirchturm-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WE-Jakobskirchturm-1.jpg/1200px-WE-Jakobskirchturm-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WE-Jakobskirchturm-1.jpg/1920px-WE-Jakobskirchturm-1.jpg
+  Asbach-Tal in Weimar auf dem Wolfschen Plan, 1569.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png/400px-Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png/800px-Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png/1200px-Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png/1920px-Asbach-Tal_in_Weimar_auf_dem_Wolfschen_Plan,_1569.png
 ---
 
 ## Overview

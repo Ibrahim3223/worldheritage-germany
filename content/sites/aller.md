@@ -1,19 +1,43 @@
 ---
-title: "Aller"
+title: Aller
 date: 2026-01-23
 draft: false
-description: "river in Germany, sidestream of the river Weser"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Germany, sidestream of the river Weser
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 52.945825
 longitude: 9.18561389
 images:
-  - "/images-sites/aller/01-e13be778-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Femmes_humoriste_camerounaise.jpg/1200px-Femmes_humoriste_camerounaise.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aller_bei_Hornbostel.jpg/1200px-Aller_bei_Hornbostel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aller_in_Blumlage_(Celle)_IMG_2472.jpg/1200px-Aller_in_Blumlage_(Celle)_IMG_2472.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aller_(rivière).png/1200px-Aller_(rivière).png
+image_srcset:
+  Femmes humoriste camerounaise.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Femmes_humoriste_camerounaise.jpg/400px-Femmes_humoriste_camerounaise.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Femmes_humoriste_camerounaise.jpg/800px-Femmes_humoriste_camerounaise.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Femmes_humoriste_camerounaise.jpg/1200px-Femmes_humoriste_camerounaise.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Femmes_humoriste_camerounaise.jpg/1920px-Femmes_humoriste_camerounaise.jpg
+  Aller bei Hornbostel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aller_bei_Hornbostel.jpg/400px-Aller_bei_Hornbostel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aller_bei_Hornbostel.jpg/800px-Aller_bei_Hornbostel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aller_bei_Hornbostel.jpg/1200px-Aller_bei_Hornbostel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aller_bei_Hornbostel.jpg/1920px-Aller_bei_Hornbostel.jpg
+  Aller in Blumlage (Celle) IMG 2472.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aller_in_Blumlage_(Celle)_IMG_2472.jpg/400px-Aller_in_Blumlage_(Celle)_IMG_2472.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aller_in_Blumlage_(Celle)_IMG_2472.jpg/800px-Aller_in_Blumlage_(Celle)_IMG_2472.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aller_in_Blumlage_(Celle)_IMG_2472.jpg/1200px-Aller_in_Blumlage_(Celle)_IMG_2472.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aller_in_Blumlage_(Celle)_IMG_2472.jpg/1920px-Aller_in_Blumlage_(Celle)_IMG_2472.jpg
+  Aller (rivière).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aller_(rivière).png/400px-Aller_(rivière).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aller_(rivière).png/800px-Aller_(rivière).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aller_(rivière).png/1200px-Aller_(rivière).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aller_(rivière).png/1920px-Aller_(rivière).png
 ---
 
 ## Overview

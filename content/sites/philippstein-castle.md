@@ -13,7 +13,7 @@ regions:
 latitude: 50.4896
 longitude: 8.3803
 images:
-  - "/images-sites/philippstein-castle/01-9b17a26d-800w.webp"
+  - "/images/philippstein-castle/01-9b17a26d-800w.webp"
 ---
 
 ## Overview

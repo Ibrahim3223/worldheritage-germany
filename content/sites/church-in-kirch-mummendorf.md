@@ -1,19 +1,51 @@
 ---
-title: "Church in Kirch Mummendorf"
-site_name: "Church in Kirch Mummendorf"
-slug: "church-in-kirch-mummendorf"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Kirch Mummendorf
+site_name: Church in Kirch Mummendorf
+slug: church-in-kirch-mummendorf
+region: Schleswig-Holstein
 latitude: 53.8705
 longitude: 11.047
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244410"
-description: "In the heart of the Stepenitztal region, the Church in Kirch Mummendorf stands as a striking example of Brick Gothic architecture, inviting visitors to ..."
+- cultural site
+wikidata_id: Q1244410
+description: In the heart of the Stepenitztal region, the Church in Kirch Mummendorf
+  stands as a striking example of Brick Gothic architecture, inviting visitors to
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg/1200px-Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirch_Mummendorf_Kirche_2012-02-26_019.JPG/1200px-Kirch_Mummendorf_Kirche_2012-02-26_019.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG/1200px-Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg/1200px-Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1200px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
+image_srcset:
+  Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg/400px-Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg/800px-Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg/1200px-Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg/1920px-Kirch%20Mummendorf%20Kirche%202009-01-02%20049.jpg
+  Kirch Mummendorf Kirche 2012-02-26 019.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirch_Mummendorf_Kirche_2012-02-26_019.JPG/400px-Kirch_Mummendorf_Kirche_2012-02-26_019.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirch_Mummendorf_Kirche_2012-02-26_019.JPG/800px-Kirch_Mummendorf_Kirche_2012-02-26_019.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirch_Mummendorf_Kirche_2012-02-26_019.JPG/1200px-Kirch_Mummendorf_Kirche_2012-02-26_019.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kirch_Mummendorf_Kirche_2012-02-26_019.JPG/1920px-Kirch_Mummendorf_Kirche_2012-02-26_019.JPG
+  Kirch Mummendorf Kirche Grabstein Renzow 2012-02-26 017.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG/400px-Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG/800px-Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG/1200px-Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG/1920px-Kirch_Mummendorf_Kirche_Grabstein_Renzow_2012-02-26_017.JPG
+  Kirch Mummendorf Stepenitz Hochwasser gesperrte Bruecke 2010-03-03 060.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg/400px-Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg/800px-Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg/1200px-Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg/1920px-Kirch_Mummendorf_Stepenitz_Hochwasser_gesperrte_Bruecke_2010-03-03_060.jpg
+  Kirch Mummendorf Kirche 2009-01-02 049.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/400px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/800px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1200px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirch_Mummendorf_Kirche_2009-01-02_049.jpg/1920px-Kirch_Mummendorf_Kirche_2009-01-02_049.jpg
 ---
 
 ## Overview

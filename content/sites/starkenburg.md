@@ -21,7 +21,7 @@ longitude: 8.64861
 
 # Images
 images:
-  - "/images-sites/starkenburg/01-b176399c-800w.webp"
+  - "/images/starkenburg/01-b176399c-800w.webp"
 ---
 
 ## Overview

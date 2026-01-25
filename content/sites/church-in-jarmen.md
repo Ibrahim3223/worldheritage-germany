@@ -1,19 +1,50 @@
 ---
-title: "Church in Jarmen"
-site_name: "Church in Jarmen"
-slug: "church-in-jarmen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Jarmen
+site_name: Church in Jarmen
+slug: church-in-jarmen
+region: Mecklenburg-Vorpommern
 latitude: 53.9253
 longitude: 13.3435
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1421157"
-description: "In the heart of Jarmen, Germany, stands a striking example of Gothic Revival architecture: the Church in Jarmen. This church is not only a place of wors..."
+- cultural site
+wikidata_id: Q1421157
+description: 'In the heart of Jarmen, Germany, stands a striking example of Gothic
+  Revival architecture: the Church in Jarmen. This church is not only a place of wors...'
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg/1200px-Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg/1200px-Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jarmen_DM_Kirche_Nordseite.jpg/1200px-Jarmen_DM_Kirche_Nordseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1200px-Jarmen_DM_Kirche_Nordseite_unten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jarmen_DM_Kirche_Südwestseite.jpg/1200px-Jarmen_DM_Kirche_Südwestseite.jpg
+image_srcset:
+  Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg/400px-Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg/800px-Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg/1200px-Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg/1920px-Jarmen%20DM%20Kirche%20Nordseite%20unten.jpg
+  Jarmen Kirche 150-Jahre-Festgottesdienst 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg/400px-Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg/800px-Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg/1200px-Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg/1920px-Jarmen_Kirche_150-Jahre-Festgottesdienst_2014.jpg
+  Jarmen DM Kirche Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jarmen_DM_Kirche_Nordseite.jpg/400px-Jarmen_DM_Kirche_Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jarmen_DM_Kirche_Nordseite.jpg/800px-Jarmen_DM_Kirche_Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jarmen_DM_Kirche_Nordseite.jpg/1200px-Jarmen_DM_Kirche_Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jarmen_DM_Kirche_Nordseite.jpg/1920px-Jarmen_DM_Kirche_Nordseite.jpg
+  Jarmen DM Kirche Nordseite unten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/400px-Jarmen_DM_Kirche_Nordseite_unten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/800px-Jarmen_DM_Kirche_Nordseite_unten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1200px-Jarmen_DM_Kirche_Nordseite_unten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jarmen_DM_Kirche_Nordseite_unten.jpg/1920px-Jarmen_DM_Kirche_Nordseite_unten.jpg
+  Jarmen DM Kirche Südwestseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jarmen_DM_Kirche_Südwestseite.jpg/400px-Jarmen_DM_Kirche_Südwestseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jarmen_DM_Kirche_Südwestseite.jpg/800px-Jarmen_DM_Kirche_Südwestseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jarmen_DM_Kirche_Südwestseite.jpg/1200px-Jarmen_DM_Kirche_Südwestseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jarmen_DM_Kirche_Südwestseite.jpg/1920px-Jarmen_DM_Kirche_Südwestseite.jpg
 ---
 
 ## Overview

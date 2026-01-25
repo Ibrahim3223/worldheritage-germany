@@ -1,19 +1,49 @@
 ---
-title: "Heidenheim Abbey"
+title: Heidenheim Abbey
 date: 2026-01-23
 draft: false
-description: "former Benedictine monastery in Heidenheim am Hahnenkamm, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Benedictine monastery in Heidenheim am Hahnenkamm, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0177
 longitude: 10.7427
 images:
-  - "/images-sites/heidenheim-abbey/01-e3d9db9e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg/1200px-Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg/1200px-Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidenheim_St._Wunibald_035.jpg/1200px-Heidenheim_St._Wunibald_035.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/1200px-KlosterHeidenheim1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wappen_Kloster_Heidenheim.jpg/1200px-Wappen_Kloster_Heidenheim.jpg
+image_srcset:
+  Heidenheim (Mittelfranken), Ehemaliges Kloster, 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg/400px-Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg/800px-Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg/1200px-Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg/1920px-Heidenheim_(Mittelfranken),_Ehemaliges_Kloster,_001.jpg
+  Heidenheim (Mittelfranken), Kloster, östliche Einfriedungsmauer, 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg/400px-Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg/800px-Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg/1200px-Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg/1920px-Heidenheim_(Mittelfranken),_Kloster,_östliche_Einfriedungsmauer,_001.jpg
+  Heidenheim St. Wunibald 035.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidenheim_St._Wunibald_035.jpg/400px-Heidenheim_St._Wunibald_035.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidenheim_St._Wunibald_035.jpg/800px-Heidenheim_St._Wunibald_035.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidenheim_St._Wunibald_035.jpg/1200px-Heidenheim_St._Wunibald_035.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Heidenheim_St._Wunibald_035.jpg/1920px-Heidenheim_St._Wunibald_035.jpg
+  KlosterHeidenheim1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/400px-KlosterHeidenheim1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/800px-KlosterHeidenheim1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/1200px-KlosterHeidenheim1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/KlosterHeidenheim1.JPG/1920px-KlosterHeidenheim1.JPG
+  Wappen Kloster Heidenheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wappen_Kloster_Heidenheim.jpg/400px-Wappen_Kloster_Heidenheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wappen_Kloster_Heidenheim.jpg/800px-Wappen_Kloster_Heidenheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wappen_Kloster_Heidenheim.jpg/1200px-Wappen_Kloster_Heidenheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wappen_Kloster_Heidenheim.jpg/1920px-Wappen_Kloster_Heidenheim.jpg
 ---
 
 ## Overview

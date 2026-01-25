@@ -1,19 +1,49 @@
 ---
-title: "Beningaburg Dornum"
+title: Beningaburg Dornum
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6473
 longitude: 7.43
 images:
-  - "/images-sites/beningaburg-dornum/01-06f899e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beningaburg_Dornum-msu-2021-210-4970.jpg/1200px-Beningaburg_Dornum-msu-2021-210-4970.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2021-08-13_Beningaburg_Dornum_03.jpg/1200px-2021-08-13_Beningaburg_Dornum_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2021-08-13_Beningaburg_Dornum_05.JPG/1200px-2021-08-13_Beningaburg_Dornum_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2021-08-13_Beningaburg_Dornum_04.JPG/1200px-2021-08-13_Beningaburg_Dornum_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021-08-13_Beningaburg_Dornum_02.JPG/1200px-2021-08-13_Beningaburg_Dornum_02.JPG
+image_srcset:
+  Beningaburg Dornum-msu-2021-210-4970.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beningaburg_Dornum-msu-2021-210-4970.jpg/400px-Beningaburg_Dornum-msu-2021-210-4970.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beningaburg_Dornum-msu-2021-210-4970.jpg/800px-Beningaburg_Dornum-msu-2021-210-4970.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beningaburg_Dornum-msu-2021-210-4970.jpg/1200px-Beningaburg_Dornum-msu-2021-210-4970.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beningaburg_Dornum-msu-2021-210-4970.jpg/1920px-Beningaburg_Dornum-msu-2021-210-4970.jpg
+  2021-08-13 Beningaburg Dornum 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2021-08-13_Beningaburg_Dornum_03.jpg/400px-2021-08-13_Beningaburg_Dornum_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2021-08-13_Beningaburg_Dornum_03.jpg/800px-2021-08-13_Beningaburg_Dornum_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2021-08-13_Beningaburg_Dornum_03.jpg/1200px-2021-08-13_Beningaburg_Dornum_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2021-08-13_Beningaburg_Dornum_03.jpg/1920px-2021-08-13_Beningaburg_Dornum_03.jpg
+  2021-08-13 Beningaburg Dornum 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2021-08-13_Beningaburg_Dornum_05.JPG/400px-2021-08-13_Beningaburg_Dornum_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2021-08-13_Beningaburg_Dornum_05.JPG/800px-2021-08-13_Beningaburg_Dornum_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2021-08-13_Beningaburg_Dornum_05.JPG/1200px-2021-08-13_Beningaburg_Dornum_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2021-08-13_Beningaburg_Dornum_05.JPG/1920px-2021-08-13_Beningaburg_Dornum_05.JPG
+  2021-08-13 Beningaburg Dornum 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2021-08-13_Beningaburg_Dornum_04.JPG/400px-2021-08-13_Beningaburg_Dornum_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2021-08-13_Beningaburg_Dornum_04.JPG/800px-2021-08-13_Beningaburg_Dornum_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2021-08-13_Beningaburg_Dornum_04.JPG/1200px-2021-08-13_Beningaburg_Dornum_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2021-08-13_Beningaburg_Dornum_04.JPG/1920px-2021-08-13_Beningaburg_Dornum_04.JPG
+  2021-08-13 Beningaburg Dornum 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021-08-13_Beningaburg_Dornum_02.JPG/400px-2021-08-13_Beningaburg_Dornum_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021-08-13_Beningaburg_Dornum_02.JPG/800px-2021-08-13_Beningaburg_Dornum_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021-08-13_Beningaburg_Dornum_02.JPG/1200px-2021-08-13_Beningaburg_Dornum_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021-08-13_Beningaburg_Dornum_02.JPG/1920px-2021-08-13_Beningaburg_Dornum_02.JPG
 ---
 
 ## Overview

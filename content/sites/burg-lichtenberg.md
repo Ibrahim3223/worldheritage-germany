@@ -1,27 +1,49 @@
 ---
-title: "Burg Lichtenberg"
+title: Burg Lichtenberg
 date: 2026-01-23
 draft: false
-description: "castle in Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.0136
 longitude: 9.32667
-
-# Images
 images:
-  - "/images-sites/burg-lichtenberg/01-52912f06-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1200px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg/1200px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Lichtenberg_aus_Süden.jpg/1200px-Burg_Lichtenberg_aus_Süden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Lichtenberg_at_night.jpg/1200px-Burg_Lichtenberg_at_night.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg
+image_srcset:
+  Oberstenfeld - Burg Lichtenberg - Ansicht von WSW (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/400px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/800px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1200px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg/1920px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_WSW_(2).jpg
+  Oberstenfeld - Burg Lichtenberg - Ansicht von Großbottwar im Mai.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg/400px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg/800px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg/1200px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg/1920px-Oberstenfeld_-_Burg_Lichtenberg_-_Ansicht_von_Großbottwar_im_Mai.jpg
+  Burg Lichtenberg aus Süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Lichtenberg_aus_Süden.jpg/400px-Burg_Lichtenberg_aus_Süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Lichtenberg_aus_Süden.jpg/800px-Burg_Lichtenberg_aus_Süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Lichtenberg_aus_Süden.jpg/1200px-Burg_Lichtenberg_aus_Süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Lichtenberg_aus_Süden.jpg/1920px-Burg_Lichtenberg_aus_Süden.jpg
+  Burg Lichtenberg at night.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Lichtenberg_at_night.jpg/400px-Burg_Lichtenberg_at_night.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Lichtenberg_at_night.jpg/800px-Burg_Lichtenberg_at_night.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Lichtenberg_at_night.jpg/1200px-Burg_Lichtenberg_at_night.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Lichtenberg_at_night.jpg/1920px-Burg_Lichtenberg_at_night.jpg
+  Aerial image of Burg Lichtenberg, Oberstenfeld (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg/400px-Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg/800px-Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Lichtenberg,_Oberstenfeld_(view_from_the_southwest).jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Arenfels Castle"
+title: Arenfels Castle
 date: 2026-01-23
 draft: false
-description: "castle in Rheinland-Pfalz, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rheinland-Pfalz, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.5219
 longitude: 7.30722
-
-# Images
 images:
-  - "/images-sites/arenfels-castle/01-3dbd7282-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schloss_Arenfels_018-.jpg/1200px-Schloss_Arenfels_018-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/1200px-Schloss_Arenfels_019-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Arenfels_032-.jpg/1200px-Schloss_Arenfels_032-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schloss_Arenfels_035-.jpg/1200px-Schloss_Arenfels_035-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bad_Hoenningen_Arenfels.jpg/1200px-Bad_Hoenningen_Arenfels.jpg
+image_srcset:
+  Schloss Arenfels 018-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schloss_Arenfels_018-.jpg/400px-Schloss_Arenfels_018-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schloss_Arenfels_018-.jpg/800px-Schloss_Arenfels_018-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schloss_Arenfels_018-.jpg/1200px-Schloss_Arenfels_018-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schloss_Arenfels_018-.jpg/1920px-Schloss_Arenfels_018-.jpg
+  Schloss Arenfels 019-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/400px-Schloss_Arenfels_019-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/800px-Schloss_Arenfels_019-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/1200px-Schloss_Arenfels_019-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss_Arenfels_019-.jpg/1920px-Schloss_Arenfels_019-.jpg
+  Schloss Arenfels 032-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Arenfels_032-.jpg/400px-Schloss_Arenfels_032-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Arenfels_032-.jpg/800px-Schloss_Arenfels_032-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Arenfels_032-.jpg/1200px-Schloss_Arenfels_032-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Schloss_Arenfels_032-.jpg/1920px-Schloss_Arenfels_032-.jpg
+  Schloss Arenfels 035-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schloss_Arenfels_035-.jpg/400px-Schloss_Arenfels_035-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schloss_Arenfels_035-.jpg/800px-Schloss_Arenfels_035-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schloss_Arenfels_035-.jpg/1200px-Schloss_Arenfels_035-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Schloss_Arenfels_035-.jpg/1920px-Schloss_Arenfels_035-.jpg
+  Bad Hoenningen Arenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bad_Hoenningen_Arenfels.jpg/400px-Bad_Hoenningen_Arenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bad_Hoenningen_Arenfels.jpg/800px-Bad_Hoenningen_Arenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bad_Hoenningen_Arenfels.jpg/1200px-Bad_Hoenningen_Arenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bad_Hoenningen_Arenfels.jpg/1920px-Bad_Hoenningen_Arenfels.jpg
 ---
 
 ## Overview

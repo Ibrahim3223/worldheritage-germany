@@ -13,8 +13,8 @@ regions:
 latitude: 53.8697
 longitude: 10.6864
 images:
-  - "/images-sites/theater-luebeck/02-052ed859-800w.webp"
-  - "/images-sites/theater-luebeck/03-62300687-800w.webp"
+  - "/images/theater-luebeck/02-052ed859-800w.webp"
+  - "/images/theater-luebeck/03-62300687-800w.webp"
 ---
 
 ## Overview

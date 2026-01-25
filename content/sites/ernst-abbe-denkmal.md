@@ -1,19 +1,49 @@
 ---
-title: "Ernst-Abbe-Denkmal"
+title: Ernst-Abbe-Denkmal
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9279
 longitude: 11.5801
 images:
-  - "/images-sites/ernst-abbe-denkmal/01-aa4b134f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/1200px-Jena_Ernst-Abbe-Denkmal_2.jpg
+image_srcset:
+  Ernst-Abbe-Denkmal am Fürstengraben Jena (26217).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg/400px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg/800px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg/1920px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(26217).jpg
+  Ernst-Abbe-Denkmal am Fürstengraben Jena (58426).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg/400px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg/800px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg/1920px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(58426).jpg
+  Ernst-Abbe-Denkmal am Fürstengraben Jena (80036).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg/400px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg/800px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg/1920px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(80036).jpg
+  Ernst-Abbe-Denkmal am Fürstengraben Jena (92949).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg/400px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg/800px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg/1200px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg/1920px-Ernst-Abbe-Denkmal_am_Fürstengraben_Jena_(92949).jpg
+  Jena Ernst-Abbe-Denkmal 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/400px-Jena_Ernst-Abbe-Denkmal_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/800px-Jena_Ernst-Abbe-Denkmal_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/1200px-Jena_Ernst-Abbe-Denkmal_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jena_Ernst-Abbe-Denkmal_2.jpg/1920px-Jena_Ernst-Abbe-Denkmal_2.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 6.29037
 
 # Images
 images:
-  - "/images-sites/neuerburg/01-1fb4030e-800w.webp"
+  - "/images/neuerburg/01-1fb4030e-800w.webp"
 ---
 
 ## Overview

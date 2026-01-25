@@ -13,8 +13,8 @@ regions:
 latitude: 47.6503
 longitude: 11.9344
 images:
-  - "/images-sites/rotwand/02-16433a7b-800w.webp"
-  - "/images-sites/rotwand/03-b8eb0462-800w.webp"
+  - "/images/rotwand/02-16433a7b-800w.webp"
+  - "/images/rotwand/03-b8eb0462-800w.webp"
 ---
 
 ## Overview

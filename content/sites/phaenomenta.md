@@ -13,7 +13,7 @@ regions:
 latitude: 54.79539
 longitude: 9.42997
 images:
-  - "/images-sites/phaenomenta/01-bc8ae952-800w.webp"
+  - "/images/phaenomenta/01-bc8ae952-800w.webp"
 ---
 
 ## Overview

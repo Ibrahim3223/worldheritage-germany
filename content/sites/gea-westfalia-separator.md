@@ -1,19 +1,43 @@
 ---
-title: "GEA Westfalia Separator"
+title: GEA Westfalia Separator
 date: 2026-01-23
 draft: false
-description: "company"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: company
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.829722222
 longitude: 8.132777777
 images:
-  - "/images-sites/gea-westfalia-separator/01-fbeb5803-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg/1200px-Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GEA-WS-milchseparator.jpg/1200px-GEA-WS-milchseparator.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GEA-WS-selbstentleerender-separator.jpg/1200px-GEA-WS-selbstentleerender-separator.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GEA-WS-gruenderwerkstatt.jpg/1200px-GEA-WS-gruenderwerkstatt.jpg
+image_srcset:
+  Westfalia-Milchseparator Wirtschaftsmuseum RV.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg/400px-Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg/800px-Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg/1200px-Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg/1920px-Westfalia-Milchseparator_Wirtschaftsmuseum_RV.jpg
+  GEA-WS-milchseparator.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GEA-WS-milchseparator.jpg/400px-GEA-WS-milchseparator.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GEA-WS-milchseparator.jpg/800px-GEA-WS-milchseparator.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GEA-WS-milchseparator.jpg/1200px-GEA-WS-milchseparator.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GEA-WS-milchseparator.jpg/1920px-GEA-WS-milchseparator.jpg
+  GEA-WS-selbstentleerender-separator.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GEA-WS-selbstentleerender-separator.jpg/400px-GEA-WS-selbstentleerender-separator.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GEA-WS-selbstentleerender-separator.jpg/800px-GEA-WS-selbstentleerender-separator.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GEA-WS-selbstentleerender-separator.jpg/1200px-GEA-WS-selbstentleerender-separator.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GEA-WS-selbstentleerender-separator.jpg/1920px-GEA-WS-selbstentleerender-separator.jpg
+  GEA-WS-gruenderwerkstatt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GEA-WS-gruenderwerkstatt.jpg/400px-GEA-WS-gruenderwerkstatt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GEA-WS-gruenderwerkstatt.jpg/800px-GEA-WS-gruenderwerkstatt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GEA-WS-gruenderwerkstatt.jpg/1200px-GEA-WS-gruenderwerkstatt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GEA-WS-gruenderwerkstatt.jpg/1920px-GEA-WS-gruenderwerkstatt.jpg
 ---
 
 ## Overview

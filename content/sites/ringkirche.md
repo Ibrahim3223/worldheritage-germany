@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q463806"
 description: "In the heart of Wiesbaden, Germany, the Ringkirche presents an intriguing blend of history and architectural beauty. Founded in 1894, this Lutheran chur..."
 images:
-  - "/images-sites/ringkirche/01-c7e5930d-1920w.webp"
-  - "/images-sites/ringkirche/02-7e475e57-1920w.webp"
-  - "/images-sites/ringkirche/03-86428631-1920w.webp"
+  - "/images/ringkirche/01-c7e5930d-1920w.webp"
+  - "/images/ringkirche/02-7e475e57-1920w.webp"
+  - "/images/ringkirche/03-86428631-1920w.webp"
 ---
 
 ## Overview

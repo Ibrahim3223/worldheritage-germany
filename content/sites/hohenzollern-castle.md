@@ -1,27 +1,50 @@
 ---
-title: "Hohenzollern Castle"
+title: Hohenzollern Castle
 date: 2026-01-23
 draft: false
-description: "ancestral seat of the imperial House of Hohenzollern in the Swabian Alps of central Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ancestral seat of the imperial House of Hohenzollern in the Swabian Alps
+  of central Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.323561111
 longitude: 8.9674
-
-# Images
 images:
-  - "/images-sites/hohenzollern-castle/01-b72f41f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Germany_May_2021_(04).jpg/1200px-Germany_May_2021_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Burg_Hohenzollern_-_6620-2.jpg/1200px-Burg_Hohenzollern_-_6620-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Hohenzollern_10-2016.jpg/1200px-Burg_Hohenzollern_10-2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Hohenzollern.jpg/1200px-Burg_Hohenzollern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/1200px-Burg_Hohenzollern_ak.jpg
+image_srcset:
+  Germany May 2021 (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Germany_May_2021_(04).jpg/400px-Germany_May_2021_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Germany_May_2021_(04).jpg/800px-Germany_May_2021_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Germany_May_2021_(04).jpg/1200px-Germany_May_2021_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Germany_May_2021_(04).jpg/1920px-Germany_May_2021_(04).jpg
+  Burg Hohenzollern - 6620-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Burg_Hohenzollern_-_6620-2.jpg/400px-Burg_Hohenzollern_-_6620-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Burg_Hohenzollern_-_6620-2.jpg/800px-Burg_Hohenzollern_-_6620-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Burg_Hohenzollern_-_6620-2.jpg/1200px-Burg_Hohenzollern_-_6620-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Burg_Hohenzollern_-_6620-2.jpg/1920px-Burg_Hohenzollern_-_6620-2.jpg
+  Burg Hohenzollern 10-2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Hohenzollern_10-2016.jpg/400px-Burg_Hohenzollern_10-2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Hohenzollern_10-2016.jpg/800px-Burg_Hohenzollern_10-2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Hohenzollern_10-2016.jpg/1200px-Burg_Hohenzollern_10-2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Hohenzollern_10-2016.jpg/1920px-Burg_Hohenzollern_10-2016.jpg
+  Burg Hohenzollern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Hohenzollern.jpg/400px-Burg_Hohenzollern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Hohenzollern.jpg/800px-Burg_Hohenzollern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Hohenzollern.jpg/1200px-Burg_Hohenzollern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Hohenzollern.jpg/1920px-Burg_Hohenzollern.jpg
+  Burg Hohenzollern ak.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/400px-Burg_Hohenzollern_ak.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/800px-Burg_Hohenzollern_ak.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/1200px-Burg_Hohenzollern_ak.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/1920px-Burg_Hohenzollern_ak.jpg
 ---
 
 ## Overview

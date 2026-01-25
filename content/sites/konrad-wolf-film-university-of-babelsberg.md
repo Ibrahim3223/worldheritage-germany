@@ -13,7 +13,7 @@ regions:
 latitude: 52.388611
 longitude: 13.116667
 images:
-  - "/images-sites/konrad-wolf-film-university-of-babelsberg/02-80de280c-800w.webp"
+  - "/images/konrad-wolf-film-university-of-babelsberg/02-80de280c-800w.webp"
 ---
 
 ## Overview

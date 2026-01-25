@@ -13,9 +13,9 @@ regions:
 latitude: 48.0961
 longitude: 8.15558
 images:
-  - "/images-sites/st-martins-chapel/01-c6c69edc-800w.webp"
-  - "/images-sites/st-martins-chapel/02-1516bda4-800w.webp"
-  - "/images-sites/st-martins-chapel/03-85d9e698-800w.webp"
+  - "/images/st-martins-chapel/01-c6c69edc-800w.webp"
+  - "/images/st-martins-chapel/02-1516bda4-800w.webp"
+  - "/images/st-martins-chapel/03-85d9e698-800w.webp"
 ---
 
 ## Overview

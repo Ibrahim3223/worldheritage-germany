@@ -21,7 +21,7 @@ longitude: 7.2392
 
 # Images
 images:
-  - "/images-sites/metternich-castle/01-d12860ab-800w.webp"
+  - "/images/metternich-castle/01-d12860ab-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.1362
 longitude: 11.5905
 images:
-  - "/images-sites/prater-island/01-03573868-800w.webp"
+  - "/images/prater-island/01-03573868-800w.webp"
 ---
 
 ## Overview

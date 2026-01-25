@@ -13,7 +13,7 @@ regions:
 latitude: 53.676666
 longitude: 8.396183
 images:
-  - "/images-sites/robbenplate-lighthouse/01-694878ee-800w.webp"
+  - "/images/robbenplate-lighthouse/01-694878ee-800w.webp"
 ---
 
 ## Overview

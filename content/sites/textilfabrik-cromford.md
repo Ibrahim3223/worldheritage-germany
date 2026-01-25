@@ -13,7 +13,7 @@ regions:
 latitude: 51.30617
 longitude: 6.85344
 images:
-  - "/images-sites/textilfabrik-cromford/01-e5985bee-800w.webp"
+  - "/images/textilfabrik-cromford/01-e5985bee-800w.webp"
 ---
 
 ## Overview

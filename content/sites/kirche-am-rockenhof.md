@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1742778"
 description: "Located in the serene district of Wandsbek, the Kirche am Rockenhof stands as a striking example of modern architecture in Volksdorf, Germany. This chur..."
 images:
-  - "/images-sites/kirche-am-rockenhof/01-1d684f6c-1920w.webp"
-  - "/images-sites/kirche-am-rockenhof/02-cb3e8688-1920w.webp"
-  - "/images-sites/kirche-am-rockenhof/03-5b4e238d-1920w.webp"
+  - "/images/kirche-am-rockenhof/01-1d684f6c-1920w.webp"
+  - "/images/kirche-am-rockenhof/02-cb3e8688-1920w.webp"
+  - "/images/kirche-am-rockenhof/03-5b4e238d-1920w.webp"
 ---
 
 ## Overview

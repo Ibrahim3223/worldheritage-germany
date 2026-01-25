@@ -1,19 +1,49 @@
 ---
-title: "Burg Rennenberg"
+title: Burg Rennenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5932
 longitude: 7.31389
 images:
-  - "/images-sites/burg-rennenberg/01-06f87613-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alt-Rennenberg.jpg/1200px-Alt-Rennenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Rennenberg_2018-05-10_2.jpg/1200px-Burg_Rennenberg_2018-05-10_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Rennenberg.jpg/1200px-Burg_Rennenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_neben_rennenbergerp.jpg/1200px-Burg_neben_rennenbergerp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_rennenbergerp.jpg/1200px-Burg_rennenbergerp.jpg
+image_srcset:
+  Alt-Rennenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alt-Rennenberg.jpg/400px-Alt-Rennenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alt-Rennenberg.jpg/800px-Alt-Rennenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alt-Rennenberg.jpg/1200px-Alt-Rennenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alt-Rennenberg.jpg/1920px-Alt-Rennenberg.jpg
+  Burg Rennenberg 2018-05-10 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Rennenberg_2018-05-10_2.jpg/400px-Burg_Rennenberg_2018-05-10_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Rennenberg_2018-05-10_2.jpg/800px-Burg_Rennenberg_2018-05-10_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Rennenberg_2018-05-10_2.jpg/1200px-Burg_Rennenberg_2018-05-10_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Burg_Rennenberg_2018-05-10_2.jpg/1920px-Burg_Rennenberg_2018-05-10_2.jpg
+  Burg Rennenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Rennenberg.jpg/400px-Burg_Rennenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Rennenberg.jpg/800px-Burg_Rennenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Rennenberg.jpg/1200px-Burg_Rennenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Rennenberg.jpg/1920px-Burg_Rennenberg.jpg
+  Burg neben rennenbergerp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_neben_rennenbergerp.jpg/400px-Burg_neben_rennenbergerp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_neben_rennenbergerp.jpg/800px-Burg_neben_rennenbergerp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_neben_rennenbergerp.jpg/1200px-Burg_neben_rennenbergerp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_neben_rennenbergerp.jpg/1920px-Burg_neben_rennenbergerp.jpg
+  Burg rennenbergerp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_rennenbergerp.jpg/400px-Burg_rennenbergerp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_rennenbergerp.jpg/800px-Burg_rennenbergerp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_rennenbergerp.jpg/1200px-Burg_rennenbergerp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_rennenbergerp.jpg/1920px-Burg_rennenbergerp.jpg
 ---
 
 ## Overview

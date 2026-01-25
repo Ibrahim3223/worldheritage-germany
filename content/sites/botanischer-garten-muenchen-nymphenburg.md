@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten München-Nymphenburg"
+title: Botanischer Garten München-Nymphenburg
 date: 2026-01-23
 draft: false
-description: "botanical garden and arboretum in Munich, Bavaria, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden and arboretum in Munich, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.163131007
 longitude: 11.499946012
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-muenchen-nymphenburg/01-e821b0ec-800w.webp"
-  - "/images-sites/botanischer-garten-muenchen-nymphenburg/02-9bf08ae3-800w.webp"
-  - "/images-sites/botanischer-garten-muenchen-nymphenburg/03-e95ee435-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20230628_Botanischer_Garten_München_12.jpg/1200px-20230628_Botanischer_Garten_München_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg/1200px-Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg/1200px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20230628_Botanischer_Garten_München_08.jpg/1200px-20230628_Botanischer_Garten_München_08.jpg
+image_srcset:
+  20230628 Botanischer Garten München 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20230628_Botanischer_Garten_München_12.jpg/400px-20230628_Botanischer_Garten_München_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20230628_Botanischer_Garten_München_12.jpg/800px-20230628_Botanischer_Garten_München_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20230628_Botanischer_Garten_München_12.jpg/1200px-20230628_Botanischer_Garten_München_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20230628_Botanischer_Garten_München_12.jpg/1920px-20230628_Botanischer_Garten_München_12.jpg
+  Edificio principal del Jardín Botánico de Múnich, Alemania, 2013-05-04, DD 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg/400px-Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg/800px-Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg/1200px-Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg/1920px-Edificio_principal_del_Jardín_Botánico_de_Múnich,_Alemania,_2013-05-04,_DD_02.jpg
+  Aerial image of the Botanical Garden Munich-Nymphenburg (view from the northeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg/400px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg/800px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg/1200px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg/1920px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_northeast).jpg
+  Aerial image of the Botanical Garden Munich-Nymphenburg (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/400px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/800px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Botanical_Garden_Munich-Nymphenburg_(view_from_the_west).jpg
+  20230628 Botanischer Garten München 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20230628_Botanischer_Garten_München_08.jpg/400px-20230628_Botanischer_Garten_München_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20230628_Botanischer_Garten_München_08.jpg/800px-20230628_Botanischer_Garten_München_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20230628_Botanischer_Garten_München_08.jpg/1200px-20230628_Botanischer_Garten_München_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20230628_Botanischer_Garten_München_08.jpg/1920px-20230628_Botanischer_Garten_München_08.jpg
 ---
 
 ## Overview

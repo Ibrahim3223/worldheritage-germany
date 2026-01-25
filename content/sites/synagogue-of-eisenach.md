@@ -13,7 +13,7 @@ regions:
 latitude: 50.975478
 longitude: 10.321716
 images:
-  - "/images-sites/synagogue-of-eisenach/02-67bcdd8c-800w.webp"
+  - "/images/synagogue-of-eisenach/02-67bcdd8c-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1991117"
 description: "In the heart of Kiel’s Altstadt, St. Nikolai Church rises as a striking example of Gothic architecture, captivating visitors with its historical signifi..."
 images:
-  - "/images-sites/st-nikolai-kiel/01-fa22c3bc-1920w.webp"
-  - "/images-sites/st-nikolai-kiel/02-94ac1e62-1920w.webp"
-  - "/images-sites/st-nikolai-kiel/03-76b34120-1920w.webp"
+  - "/images/st-nikolai-kiel/01-fa22c3bc-1920w.webp"
+  - "/images/st-nikolai-kiel/02-94ac1e62-1920w.webp"
+  - "/images/st-nikolai-kiel/03-76b34120-1920w.webp"
 ---
 
 ## Overview

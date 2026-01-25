@@ -13,9 +13,9 @@ regions:
 latitude: 52.25879
 longitude: 9.04352
 images:
-  - "/images-sites/schlosskapelle-bueckeburg/01-cfcf5fb1-800w.webp"
-  - "/images-sites/schlosskapelle-bueckeburg/02-1d747acf-800w.webp"
-  - "/images-sites/schlosskapelle-bueckeburg/03-127b7eed-800w.webp"
+  - "/images/schlosskapelle-bueckeburg/01-cfcf5fb1-800w.webp"
+  - "/images/schlosskapelle-bueckeburg/02-1d747acf-800w.webp"
+  - "/images/schlosskapelle-bueckeburg/03-127b7eed-800w.webp"
 ---
 
 ## Overview

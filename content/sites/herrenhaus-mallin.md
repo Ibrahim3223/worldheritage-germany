@@ -1,19 +1,43 @@
 ---
-title: "Herrenhaus Mallin"
+title: Herrenhaus Mallin
 date: 2026-01-23
 draft: false
-description: "manor house in Penzlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house in Penzlin, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5376
 longitude: 13.1395
 images:
-  - "/images-sites/herrenhaus-mallin/01-70b0d9e6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mallin_Gutshaus_2010-10-18_026.JPG/1200px-Mallin_Gutshaus_2010-10-18_026.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mallin_Gutshaus_2010-10-18_028.JPG/1200px-Mallin_Gutshaus_2010-10-18_028.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mallin_Gutshaus_2010-10-18_029.JPG/1200px-Mallin_Gutshaus_2010-10-18_029.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1200px-Mallin.jpg
+image_srcset:
+  Mallin Gutshaus 2010-10-18 026.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mallin_Gutshaus_2010-10-18_026.JPG/400px-Mallin_Gutshaus_2010-10-18_026.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mallin_Gutshaus_2010-10-18_026.JPG/800px-Mallin_Gutshaus_2010-10-18_026.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mallin_Gutshaus_2010-10-18_026.JPG/1200px-Mallin_Gutshaus_2010-10-18_026.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mallin_Gutshaus_2010-10-18_026.JPG/1920px-Mallin_Gutshaus_2010-10-18_026.JPG
+  Mallin Gutshaus 2010-10-18 028.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mallin_Gutshaus_2010-10-18_028.JPG/400px-Mallin_Gutshaus_2010-10-18_028.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mallin_Gutshaus_2010-10-18_028.JPG/800px-Mallin_Gutshaus_2010-10-18_028.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mallin_Gutshaus_2010-10-18_028.JPG/1200px-Mallin_Gutshaus_2010-10-18_028.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mallin_Gutshaus_2010-10-18_028.JPG/1920px-Mallin_Gutshaus_2010-10-18_028.JPG
+  Mallin Gutshaus 2010-10-18 029.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mallin_Gutshaus_2010-10-18_029.JPG/400px-Mallin_Gutshaus_2010-10-18_029.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mallin_Gutshaus_2010-10-18_029.JPG/800px-Mallin_Gutshaus_2010-10-18_029.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mallin_Gutshaus_2010-10-18_029.JPG/1200px-Mallin_Gutshaus_2010-10-18_029.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mallin_Gutshaus_2010-10-18_029.JPG/1920px-Mallin_Gutshaus_2010-10-18_029.JPG
+  Mallin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/400px-Mallin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/800px-Mallin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1200px-Mallin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mallin.jpg/1920px-Mallin.jpg
 ---
 
 ## Overview

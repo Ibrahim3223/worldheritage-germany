@@ -1,24 +1,52 @@
 ---
-title: "Andreaskirche"
-site_name: "Andreaskirche"
-slug: "andreaskirche"
-region: "Berlin"
-
-# Location
+title: Andreaskirche
+site_name: Andreaskirche
+slug: andreaskirche
+region: Berlin
 latitude: 52.4251
 longitude: 13.1541
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q11722054"
-description: "In the heart of Steglitz-Zehlendorf, Germany, stands Andreaskirche, a church that embodies the architectural elegance of the Gothic Revival style. This ..."
+- church building
+- religious site
+wikidata_id: Q11722054
+description: In the heart of Steglitz-Zehlendorf, Germany, stands Andreaskirche, a
+  church that embodies the architectural elegance of the Gothic Revival style. This
+  ...
 images:
-  - "/images-sites/andreaskirche/01-afe17c78-1920w.webp"
-  - "/images-sites/andreaskirche/02-d87fed89-1920w.webp"
-  - "/images-sites/andreaskirche/03-efd6151d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg/1200px-Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andreaskirche_01.jpg/1200px-Andreaskirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Andreaskirche_03.jpg/1200px-Andreaskirche_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andreaskirche_04.jpg/1200px-Andreaskirche_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Andreaskirche_Rupprechtstegen_001.JPG/1200px-Andreaskirche_Rupprechtstegen_001.JPG
+image_srcset:
+  Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg/400px-Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg/800px-Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg/1200px-Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg/1920px-Andreaskirche%20%28Berlin-Wannsee%29%20Vorhalle.jpg
+  Andreaskirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andreaskirche_01.jpg/400px-Andreaskirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andreaskirche_01.jpg/800px-Andreaskirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andreaskirche_01.jpg/1200px-Andreaskirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andreaskirche_01.jpg/1920px-Andreaskirche_01.jpg
+  Andreaskirche 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Andreaskirche_03.jpg/400px-Andreaskirche_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Andreaskirche_03.jpg/800px-Andreaskirche_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Andreaskirche_03.jpg/1200px-Andreaskirche_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Andreaskirche_03.jpg/1920px-Andreaskirche_03.jpg
+  Andreaskirche 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andreaskirche_04.jpg/400px-Andreaskirche_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andreaskirche_04.jpg/800px-Andreaskirche_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andreaskirche_04.jpg/1200px-Andreaskirche_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andreaskirche_04.jpg/1920px-Andreaskirche_04.jpg
+  Andreaskirche Rupprechtstegen 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Andreaskirche_Rupprechtstegen_001.JPG/400px-Andreaskirche_Rupprechtstegen_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Andreaskirche_Rupprechtstegen_001.JPG/800px-Andreaskirche_Rupprechtstegen_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Andreaskirche_Rupprechtstegen_001.JPG/1200px-Andreaskirche_Rupprechtstegen_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Andreaskirche_Rupprechtstegen_001.JPG/1920px-Andreaskirche_Rupprechtstegen_001.JPG
 ---
 
 ## Overview

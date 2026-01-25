@@ -1,21 +1,49 @@
 ---
-title: "Allee-Theater"
+title: Allee-Theater
 date: 2026-01-23
 draft: false
-description: "children's theatre and chamber opera house in Altona, Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: children's theatre and chamber opera house in Altona, Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55472222
 longitude: 9.94194444
 images:
-  - "/images-sites/allee-theater/01-6126b2b5-800w.webp"
-  - "/images-sites/allee-theater/02-90a722ab-800w.webp"
-  - "/images-sites/allee-theater/03-f88a1f4f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Allee_Theater_Hamburg.jpg/1200px-Allee_Theater_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburger_Kammeroper_Altona.jpg/1200px-Hamburger_Kammeroper_Altona.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Altona_Alleetheater_2010.jpg/1200px-Altona_Alleetheater_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamburg_Altona_Alleetheater_innen_2005.jpg/1200px-Hamburg_Altona_Alleetheater_innen_2005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Altona_Alleetheater_2005.jpg/1200px-Hamburg_Altona_Alleetheater_2005.jpg
+image_srcset:
+  Allee Theater Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Allee_Theater_Hamburg.jpg/400px-Allee_Theater_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Allee_Theater_Hamburg.jpg/800px-Allee_Theater_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Allee_Theater_Hamburg.jpg/1200px-Allee_Theater_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Allee_Theater_Hamburg.jpg/1920px-Allee_Theater_Hamburg.jpg
+  Hamburger Kammeroper Altona.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburger_Kammeroper_Altona.jpg/400px-Hamburger_Kammeroper_Altona.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburger_Kammeroper_Altona.jpg/800px-Hamburger_Kammeroper_Altona.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburger_Kammeroper_Altona.jpg/1200px-Hamburger_Kammeroper_Altona.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburger_Kammeroper_Altona.jpg/1920px-Hamburger_Kammeroper_Altona.jpg
+  Altona Alleetheater 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Altona_Alleetheater_2010.jpg/400px-Altona_Alleetheater_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Altona_Alleetheater_2010.jpg/800px-Altona_Alleetheater_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Altona_Alleetheater_2010.jpg/1200px-Altona_Alleetheater_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Altona_Alleetheater_2010.jpg/1920px-Altona_Alleetheater_2010.jpg
+  Hamburg Altona Alleetheater innen 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamburg_Altona_Alleetheater_innen_2005.jpg/400px-Hamburg_Altona_Alleetheater_innen_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamburg_Altona_Alleetheater_innen_2005.jpg/800px-Hamburg_Altona_Alleetheater_innen_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamburg_Altona_Alleetheater_innen_2005.jpg/1200px-Hamburg_Altona_Alleetheater_innen_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamburg_Altona_Alleetheater_innen_2005.jpg/1920px-Hamburg_Altona_Alleetheater_innen_2005.jpg
+  Hamburg Altona Alleetheater 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Altona_Alleetheater_2005.jpg/400px-Hamburg_Altona_Alleetheater_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Altona_Alleetheater_2005.jpg/800px-Hamburg_Altona_Alleetheater_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Altona_Alleetheater_2005.jpg/1200px-Hamburg_Altona_Alleetheater_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Altona_Alleetheater_2005.jpg/1920px-Hamburg_Altona_Alleetheater_2005.jpg
 ---
 
 ## Overview

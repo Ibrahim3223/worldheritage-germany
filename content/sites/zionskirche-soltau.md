@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q205403"
 description: "Zionskirche, located in the heart of Soltau, Germany, is a striking example of Gothic Revival architecture that captures the essence of the late 19th ce..."
 images:
-  - "/images-sites/zionskirche-soltau/01-74ebb38a-1920w.webp"
-  - "/images-sites/zionskirche-soltau/02-f5fa5290-1920w.webp"
-  - "/images-sites/zionskirche-soltau/03-f56e4abe-1920w.webp"
+  - "/images/zionskirche-soltau/01-74ebb38a-1920w.webp"
+  - "/images/zionskirche-soltau/02-f5fa5290-1920w.webp"
+  - "/images/zionskirche-soltau/03-f56e4abe-1920w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Rieneck"
+title: Burg Rieneck
 date: 2026-01-23
 draft: false
-description: "castle in Rieneck, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rieneck, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.094444444
 longitude: 9.646111111
-
-# Images
 images:
-  - "/images-sites/burg-rieneck/01-f226576f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rieneck,_Burganlage-007.jpg/1200px-Rieneck,_Burganlage-007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rieneck,_Burganlage-010.jpg/1200px-Rieneck,_Burganlage-010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aerial_image_of_the_Rieneck_Castle.jpg/1200px-Aerial_image_of_the_Rieneck_Castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg/1200px-Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rieneck_Castle2.jpg/1200px-Rieneck_Castle2.jpg
+image_srcset:
+  Rieneck, Burganlage-007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rieneck,_Burganlage-007.jpg/400px-Rieneck,_Burganlage-007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rieneck,_Burganlage-007.jpg/800px-Rieneck,_Burganlage-007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rieneck,_Burganlage-007.jpg/1200px-Rieneck,_Burganlage-007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rieneck,_Burganlage-007.jpg/1920px-Rieneck,_Burganlage-007.jpg
+  Rieneck, Burganlage-010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rieneck,_Burganlage-010.jpg/400px-Rieneck,_Burganlage-010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rieneck,_Burganlage-010.jpg/800px-Rieneck,_Burganlage-010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rieneck,_Burganlage-010.jpg/1200px-Rieneck,_Burganlage-010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rieneck,_Burganlage-010.jpg/1920px-Rieneck,_Burganlage-010.jpg
+  Aerial image of the Rieneck Castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aerial_image_of_the_Rieneck_Castle.jpg/400px-Aerial_image_of_the_Rieneck_Castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aerial_image_of_the_Rieneck_Castle.jpg/800px-Aerial_image_of_the_Rieneck_Castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aerial_image_of_the_Rieneck_Castle.jpg/1200px-Aerial_image_of_the_Rieneck_Castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Aerial_image_of_the_Rieneck_Castle.jpg/1920px-Aerial_image_of_the_Rieneck_Castle.jpg
+  Wapen 1545 Reneck (Burggrafschaft Rieneck).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg/400px-Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg/800px-Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg/1200px-Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg/1920px-Wapen_1545_Reneck_(Burggrafschaft_Rieneck).jpg
+  Rieneck Castle2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rieneck_Castle2.jpg/400px-Rieneck_Castle2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rieneck_Castle2.jpg/800px-Rieneck_Castle2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rieneck_Castle2.jpg/1200px-Rieneck_Castle2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rieneck_Castle2.jpg/1920px-Rieneck_Castle2.jpg
 ---
 
 ## Overview

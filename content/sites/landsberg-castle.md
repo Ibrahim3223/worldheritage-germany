@@ -21,7 +21,7 @@ longitude: 7.7808
 
 # Images
 images:
-  - "/images-sites/landsberg-castle/01-11114566-800w.webp"
+  - "/images/landsberg-castle/01-11114566-800w.webp"
 ---
 
 ## Overview

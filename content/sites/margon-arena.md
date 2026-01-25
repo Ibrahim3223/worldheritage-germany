@@ -13,7 +13,7 @@ regions:
 latitude: 51.022473799
 longitude: 13.80863583
 images:
-  - "/images-sites/margon-arena/01-e92e5d72-800w.webp"
+  - "/images/margon-arena/01-e92e5d72-800w.webp"
 ---
 
 ## Overview

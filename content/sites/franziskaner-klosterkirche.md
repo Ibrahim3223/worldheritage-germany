@@ -1,24 +1,51 @@
 ---
-title: "Franziskaner-Klosterkirche"
-site_name: "Franziskaner-Klosterkirche"
-slug: "franziskaner-klosterkirche"
-region: "Berlin"
-
-# Location
+title: Franziskaner-Klosterkirche
+site_name: Franziskaner-Klosterkirche
+slug: franziskaner-klosterkirche
+region: Berlin
 latitude: 52.5183
 longitude: 13.4128
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1450212"
-description: "In the heart of Bezirk Mitte, Germany, the Franziskaner-Klosterkirche stands as a remarkable example of Gothic architecture, inviting visitors to explor..."
+- church building
+- religious site
+wikidata_id: Q1450212
+description: In the heart of Bezirk Mitte, Germany, the Franziskaner-Klosterkirche
+  stands as a remarkable example of Gothic architecture, inviting visitors to explor...
 images:
-  - "/images-sites/franziskaner-klosterkirche/01-ac241c5f-1920w.webp"
-  - "/images-sites/franziskaner-klosterkirche/02-e3690597-1920w.webp"
-  - "/images-sites/franziskaner-klosterkirche/03-21d2e185-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Graues%20Kloster%20Langhaus%20schraeg.jpg/1200px-Graues%20Kloster%20Langhaus%20schraeg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg/1200px-Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg/1200px-Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ruine_der_Franziskaner_Klosterkirche.jpg/1200px-Ruine_der_Franziskaner_Klosterkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/1200px-Graues_Kloster_Langhaus_schraeg.jpg
+image_srcset:
+  Graues%20Kloster%20Langhaus%20schraeg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Graues%20Kloster%20Langhaus%20schraeg.jpg/400px-Graues%20Kloster%20Langhaus%20schraeg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Graues%20Kloster%20Langhaus%20schraeg.jpg/800px-Graues%20Kloster%20Langhaus%20schraeg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Graues%20Kloster%20Langhaus%20schraeg.jpg/1200px-Graues%20Kloster%20Langhaus%20schraeg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Graues%20Kloster%20Langhaus%20schraeg.jpg/1920px-Graues%20Kloster%20Langhaus%20schraeg.jpg
+  Franziskaner Klosterkirche am sonnigen Tag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg/400px-Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg/800px-Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg/1200px-Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg/1920px-Franziskaner_Klosterkirche_am_sonnigen_Tag.jpg
+  Franziskaner Klosterkirche in der Mitte von Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg/400px-Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg/800px-Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg/1200px-Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg/1920px-Franziskaner_Klosterkirche_in_der_Mitte_von_Berlin.jpg
+  Ruine der Franziskaner Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ruine_der_Franziskaner_Klosterkirche.jpg/400px-Ruine_der_Franziskaner_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ruine_der_Franziskaner_Klosterkirche.jpg/800px-Ruine_der_Franziskaner_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ruine_der_Franziskaner_Klosterkirche.jpg/1200px-Ruine_der_Franziskaner_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ruine_der_Franziskaner_Klosterkirche.jpg/1920px-Ruine_der_Franziskaner_Klosterkirche.jpg
+  Graues Kloster Langhaus schraeg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/400px-Graues_Kloster_Langhaus_schraeg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/800px-Graues_Kloster_Langhaus_schraeg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/1200px-Graues_Kloster_Langhaus_schraeg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Graues_Kloster_Langhaus_schraeg.jpg/1920px-Graues_Kloster_Langhaus_schraeg.jpg
 ---
 
 ## Overview

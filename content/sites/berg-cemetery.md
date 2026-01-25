@@ -1,19 +1,49 @@
 ---
-title: "Berg cemetery"
+title: Berg cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Tübingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Tübingen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.505
 longitude: 9.0707
 images:
-  - "/images-sites/berg-cemetery/01-3319d506-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bergfriedhof_Tübingen_10.jpg/1200px-Bergfriedhof_Tübingen_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bergfriedhof_Tübingen_11.jpg/1200px-Bergfriedhof_Tübingen_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bergfriedhof-1.jpg/1200px-Bergfriedhof-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg/1200px-Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bergfriedhof_Tübingen_Waldkapelle.JPG/1200px-Bergfriedhof_Tübingen_Waldkapelle.JPG
+image_srcset:
+  Bergfriedhof Tübingen 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bergfriedhof_Tübingen_10.jpg/400px-Bergfriedhof_Tübingen_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bergfriedhof_Tübingen_10.jpg/800px-Bergfriedhof_Tübingen_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bergfriedhof_Tübingen_10.jpg/1200px-Bergfriedhof_Tübingen_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bergfriedhof_Tübingen_10.jpg/1920px-Bergfriedhof_Tübingen_10.jpg
+  Bergfriedhof Tübingen 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bergfriedhof_Tübingen_11.jpg/400px-Bergfriedhof_Tübingen_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bergfriedhof_Tübingen_11.jpg/800px-Bergfriedhof_Tübingen_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bergfriedhof_Tübingen_11.jpg/1200px-Bergfriedhof_Tübingen_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bergfriedhof_Tübingen_11.jpg/1920px-Bergfriedhof_Tübingen_11.jpg
+  Bergfriedhof-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bergfriedhof-1.jpg/400px-Bergfriedhof-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bergfriedhof-1.jpg/800px-Bergfriedhof-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bergfriedhof-1.jpg/1200px-Bergfriedhof-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bergfriedhof-1.jpg/1920px-Bergfriedhof-1.jpg
+  Karin Juels grav vid Bergs kyrka i Jämtland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg/400px-Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg/800px-Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg/1200px-Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg/1920px-Karin_Juels_grav_vid_Bergs_kyrka_i_Jämtland.jpg
+  Bergfriedhof Tübingen Waldkapelle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bergfriedhof_Tübingen_Waldkapelle.JPG/400px-Bergfriedhof_Tübingen_Waldkapelle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bergfriedhof_Tübingen_Waldkapelle.JPG/800px-Bergfriedhof_Tübingen_Waldkapelle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bergfriedhof_Tübingen_Waldkapelle.JPG/1200px-Bergfriedhof_Tübingen_Waldkapelle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bergfriedhof_Tübingen_Waldkapelle.JPG/1920px-Bergfriedhof_Tübingen_Waldkapelle.JPG
 ---
 
 ## Overview

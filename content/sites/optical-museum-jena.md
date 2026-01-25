@@ -13,9 +13,9 @@ regions:
 latitude: 50.927811111
 longitude: 11.579275
 images:
-  - "/images-sites/optical-museum-jena/01-bd6e3755-800w.webp"
-  - "/images-sites/optical-museum-jena/02-7a1dd0a1-800w.webp"
-  - "/images-sites/optical-museum-jena/03-910f00da-800w.webp"
+  - "/images/optical-museum-jena/01-bd6e3755-800w.webp"
+  - "/images/optical-museum-jena/02-7a1dd0a1-800w.webp"
+  - "/images/optical-museum-jena/03-910f00da-800w.webp"
 ---
 
 ## Overview

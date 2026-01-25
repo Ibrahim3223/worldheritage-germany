@@ -1,27 +1,43 @@
 ---
-title: "Dobberworth"
+title: Dobberworth
 date: 2026-01-23
 draft: false
-description: "Prehistoric tumuli in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Prehistoric tumuli in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.519722222
 longitude: 13.547222222
-
-# Images
 images:
-  - "/images-sites/dobberworth/01-99ff3b8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dobberworth_2016_03.jpg1.jpg/1200px-Dobberworth_2016_03.jpg1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dobberworth_2016_01.jpg/1200px-Dobberworth_2016_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dobberworth_2016_02.jpg/1200px-Dobberworth_2016_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dobberworth.JPG/1200px-Dobberworth.JPG
+image_srcset:
+  Dobberworth 2016 03.jpg1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dobberworth_2016_03.jpg1.jpg/400px-Dobberworth_2016_03.jpg1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dobberworth_2016_03.jpg1.jpg/800px-Dobberworth_2016_03.jpg1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dobberworth_2016_03.jpg1.jpg/1200px-Dobberworth_2016_03.jpg1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Dobberworth_2016_03.jpg1.jpg/1920px-Dobberworth_2016_03.jpg1.jpg
+  Dobberworth 2016 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dobberworth_2016_01.jpg/400px-Dobberworth_2016_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dobberworth_2016_01.jpg/800px-Dobberworth_2016_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dobberworth_2016_01.jpg/1200px-Dobberworth_2016_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dobberworth_2016_01.jpg/1920px-Dobberworth_2016_01.jpg
+  Dobberworth 2016 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dobberworth_2016_02.jpg/400px-Dobberworth_2016_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dobberworth_2016_02.jpg/800px-Dobberworth_2016_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dobberworth_2016_02.jpg/1200px-Dobberworth_2016_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dobberworth_2016_02.jpg/1920px-Dobberworth_2016_02.jpg
+  Dobberworth.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dobberworth.JPG/400px-Dobberworth.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dobberworth.JPG/800px-Dobberworth.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dobberworth.JPG/1200px-Dobberworth.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dobberworth.JPG/1920px-Dobberworth.JPG
 ---
 
 ## Overview

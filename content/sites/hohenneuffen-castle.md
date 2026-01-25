@@ -1,29 +1,49 @@
 ---
-title: "Hohenneuffen Castle"
+title: Hohenneuffen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.5556
 longitude: 9.3925
-
-# Images
 images:
-  - "/images-sites/hohenneuffen-castle/01-867d80be-800w.webp"
-  - "/images-sites/hohenneuffen-castle/02-21ed460e-800w.webp"
-  - "/images-sites/hohenneuffen-castle/03-f757a8f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg/1200px-Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg/1200px-Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HohenneuffenNacht.jpg/1200px-HohenneuffenNacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hohenneuffen.JPG/1200px-Hohenneuffen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg/1200px-Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg
+image_srcset:
+  Burg Hohenneuffen (xp) Stehle Heinrich von Neuffen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg/400px-Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg/800px-Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg/1200px-Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg/1920px-Burg_Hohenneuffen_(xp)_Stehle_Heinrich_von_Neuffen.jpg
+  Burg Hohenneuffen vom Wilhelmsfels (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg/400px-Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg/800px-Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg/1200px-Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg/1920px-Burg_Hohenneuffen_vom_Wilhelmsfels_(1).jpg
+  HohenneuffenNacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HohenneuffenNacht.jpg/400px-HohenneuffenNacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HohenneuffenNacht.jpg/800px-HohenneuffenNacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HohenneuffenNacht.jpg/1200px-HohenneuffenNacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/HohenneuffenNacht.jpg/1920px-HohenneuffenNacht.jpg
+  Hohenneuffen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hohenneuffen.JPG/400px-Hohenneuffen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hohenneuffen.JPG/800px-Hohenneuffen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hohenneuffen.JPG/1200px-Hohenneuffen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hohenneuffen.JPG/1920px-Hohenneuffen.JPG
+  Festung Hohenneuffen Grundriss.01 (6978566604).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg/400px-Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg/800px-Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg/1200px-Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg/1920px-Festung_Hohenneuffen_Grundriss.01_(6978566604).jpg
 ---
 
 ## Overview

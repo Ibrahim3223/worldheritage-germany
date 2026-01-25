@@ -1,27 +1,49 @@
 ---
-title: "Fürstenberg Castle (Höingen)"
+title: Fürstenberg Castle (Höingen)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4725
 longitude: 7.94208
-
-# Images
 images:
-  - "/images-sites/fuerstenberg-castle-hoeingen/01-7c3a1e33-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vorstenburg_Burgmodell.jpg/1200px-Vorstenburg_Burgmodell.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG/1200px-Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/1200px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Monumenta_Paderbornensia-Oldenburg.jpg/1200px-Monumenta_Paderbornensia-Oldenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burg_Oldenburg_auf_dem_Fürstenberg.jpg/1200px-Burg_Oldenburg_auf_dem_Fürstenberg.jpg
+image_srcset:
+  Vorstenburg Burgmodell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vorstenburg_Burgmodell.jpg/400px-Vorstenburg_Burgmodell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vorstenburg_Burgmodell.jpg/800px-Vorstenburg_Burgmodell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vorstenburg_Burgmodell.jpg/1200px-Vorstenburg_Burgmodell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Vorstenburg_Burgmodell.jpg/1920px-Vorstenburg_Burgmodell.jpg
+  Burg Fürstenberg (Höingen) Hinweistafel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG/400px-Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG/800px-Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG/1200px-Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG/1920px-Burg_Fürstenberg_(Höingen)_Hinweistafel.JPG
+  Burg Fürstenberg (Höingen) Mauerreste.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/400px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/800px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/1200px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Fürstenberg_(Höingen)_Mauerreste.JPG/1920px-Burg_Fürstenberg_(Höingen)_Mauerreste.JPG
+  Monumenta Paderbornensia-Oldenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Monumenta_Paderbornensia-Oldenburg.jpg/400px-Monumenta_Paderbornensia-Oldenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Monumenta_Paderbornensia-Oldenburg.jpg/800px-Monumenta_Paderbornensia-Oldenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Monumenta_Paderbornensia-Oldenburg.jpg/1200px-Monumenta_Paderbornensia-Oldenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Monumenta_Paderbornensia-Oldenburg.jpg/1920px-Monumenta_Paderbornensia-Oldenburg.jpg
+  Burg Oldenburg auf dem Fürstenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burg_Oldenburg_auf_dem_Fürstenberg.jpg/400px-Burg_Oldenburg_auf_dem_Fürstenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burg_Oldenburg_auf_dem_Fürstenberg.jpg/800px-Burg_Oldenburg_auf_dem_Fürstenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burg_Oldenburg_auf_dem_Fürstenberg.jpg/1200px-Burg_Oldenburg_auf_dem_Fürstenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burg_Oldenburg_auf_dem_Fürstenberg.jpg/1920px-Burg_Oldenburg_auf_dem_Fürstenberg.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.5408
 longitude: 13.3225
 images:
-  - "/images-sites/ploetzensee-monument/01-a5c6a27b-800w.webp"
-  - "/images-sites/ploetzensee-monument/02-2c426aad-800w.webp"
-  - "/images-sites/ploetzensee-monument/03-f73fbcda-800w.webp"
+  - "/images/ploetzensee-monument/01-a5c6a27b-800w.webp"
+  - "/images/ploetzensee-monument/02-2c426aad-800w.webp"
+  - "/images/ploetzensee-monument/03-f73fbcda-800w.webp"
 ---
 
 ## Overview

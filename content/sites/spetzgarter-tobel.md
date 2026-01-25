@@ -13,9 +13,9 @@ regions:
 latitude: 47.780333
 longitude: 9.14099
 images:
-  - "/images-sites/spetzgarter-tobel/01-323e1b23-800w.webp"
-  - "/images-sites/spetzgarter-tobel/02-1644c4e0-800w.webp"
-  - "/images-sites/spetzgarter-tobel/03-59918a39-800w.webp"
+  - "/images/spetzgarter-tobel/01-323e1b23-800w.webp"
+  - "/images/spetzgarter-tobel/02-1644c4e0-800w.webp"
+  - "/images/spetzgarter-tobel/03-59918a39-800w.webp"
 ---
 
 ## Overview

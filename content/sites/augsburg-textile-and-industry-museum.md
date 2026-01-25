@@ -1,19 +1,43 @@
 ---
-title: "Augsburg textile and industry museum"
+title: Augsburg textile and industry museum
 date: 2026-01-23
 draft: false
-description: "museum in Augsburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Augsburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3638
 longitude: 10.9135
 images:
-  - "/images-sites/augsburg-textile-and-industry-museum/01-f8d71c2f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eingangstafel_Textilmuseum_Augsburg.JPG/1200px-Eingangstafel_Textilmuseum_Augsburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MG_08-15.JPG/1200px-MG_08-15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/1200px-Augsburg_tim-Museum_2010_Zugang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Augsburg_tim-Museum_2010_Werbetafel.jpg/1200px-Augsburg_tim-Museum_2010_Werbetafel.jpg
+image_srcset:
+  Eingangstafel Textilmuseum Augsburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eingangstafel_Textilmuseum_Augsburg.JPG/400px-Eingangstafel_Textilmuseum_Augsburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eingangstafel_Textilmuseum_Augsburg.JPG/800px-Eingangstafel_Textilmuseum_Augsburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eingangstafel_Textilmuseum_Augsburg.JPG/1200px-Eingangstafel_Textilmuseum_Augsburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eingangstafel_Textilmuseum_Augsburg.JPG/1920px-Eingangstafel_Textilmuseum_Augsburg.JPG
+  MG 08-15.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MG_08-15.JPG/400px-MG_08-15.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MG_08-15.JPG/800px-MG_08-15.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MG_08-15.JPG/1200px-MG_08-15.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MG_08-15.JPG/1920px-MG_08-15.JPG
+  Augsburg tim-Museum 2010 Zugang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/400px-Augsburg_tim-Museum_2010_Zugang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/800px-Augsburg_tim-Museum_2010_Zugang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/1200px-Augsburg_tim-Museum_2010_Zugang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Augsburg_tim-Museum_2010_Zugang.jpg/1920px-Augsburg_tim-Museum_2010_Zugang.jpg
+  Augsburg tim-Museum 2010 Werbetafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Augsburg_tim-Museum_2010_Werbetafel.jpg/400px-Augsburg_tim-Museum_2010_Werbetafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Augsburg_tim-Museum_2010_Werbetafel.jpg/800px-Augsburg_tim-Museum_2010_Werbetafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Augsburg_tim-Museum_2010_Werbetafel.jpg/1200px-Augsburg_tim-Museum_2010_Werbetafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Augsburg_tim-Museum_2010_Werbetafel.jpg/1920px-Augsburg_tim-Museum_2010_Werbetafel.jpg
 ---
 
 ## Overview

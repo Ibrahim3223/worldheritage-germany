@@ -1,19 +1,49 @@
 ---
-title: "Berwartstein Castle"
+title: Berwartstein Castle
 date: 2026-01-23
 draft: false
-description: "castle in Rhineland-Palatinate, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1083
 longitude: 7.86278
 images:
-  - "/images-sites/berwartstein-castle/01-15dc48b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Interior_of_Berwartstein_Castle_01.jpg/1200px-Interior_of_Berwartstein_Castle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Interior_of_Berwartstein_Castle_02.jpg/1200px-Interior_of_Berwartstein_Castle_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg/1200px-Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/090906-Berwartstein-01.jpg/1200px-090906-Berwartstein-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1200px-Berwartstein.JPG
+image_srcset:
+  Interior of Berwartstein Castle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Interior_of_Berwartstein_Castle_01.jpg/400px-Interior_of_Berwartstein_Castle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Interior_of_Berwartstein_Castle_01.jpg/800px-Interior_of_Berwartstein_Castle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Interior_of_Berwartstein_Castle_01.jpg/1200px-Interior_of_Berwartstein_Castle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Interior_of_Berwartstein_Castle_01.jpg/1920px-Interior_of_Berwartstein_Castle_01.jpg
+  Interior of Berwartstein Castle 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Interior_of_Berwartstein_Castle_02.jpg/400px-Interior_of_Berwartstein_Castle_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Interior_of_Berwartstein_Castle_02.jpg/800px-Interior_of_Berwartstein_Castle_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Interior_of_Berwartstein_Castle_02.jpg/1200px-Interior_of_Berwartstein_Castle_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Interior_of_Berwartstein_Castle_02.jpg/1920px-Interior_of_Berwartstein_Castle_02.jpg
+  Erlenbach bei Dahn Burg Berwartstein 001 2013 12 28.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg/400px-Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg/800px-Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg/1200px-Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg/1920px-Erlenbach_bei_Dahn_Burg_Berwartstein_001_2013_12_28.jpg
+  090906-Berwartstein-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/090906-Berwartstein-01.jpg/400px-090906-Berwartstein-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/090906-Berwartstein-01.jpg/800px-090906-Berwartstein-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/090906-Berwartstein-01.jpg/1200px-090906-Berwartstein-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/090906-Berwartstein-01.jpg/1920px-090906-Berwartstein-01.jpg
+  Berwartstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/400px-Berwartstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/800px-Berwartstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1200px-Berwartstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Berwartstein.JPG/1920px-Berwartstein.JPG
 ---
 
 ## Overview

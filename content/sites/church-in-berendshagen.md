@@ -1,19 +1,51 @@
 ---
-title: "Church in Berendshagen"
-site_name: "Church in Berendshagen"
-slug: "church-in-berendshagen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Berendshagen
+site_name: Church in Berendshagen
+slug: church-in-berendshagen
+region: Mecklenburg-Vorpommern
 latitude: 53.9467
 longitude: 11.8329
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244133"
-description: "In the quaint village of Berendshagen, Germany, you’ll find the Church in Berendshagen, a remarkable example of Brick Gothic architecture. This church s..."
+- cultural site
+wikidata_id: Q1244133
+description: In the quaint village of Berendshagen, Germany, you’ll find the Church
+  in Berendshagen, a remarkable example of Brick Gothic architecture. This church
+  s...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berendshagen%20Kirche%202.jpg/1200px-Berendshagen%20Kirche%202.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg/1200px-Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg/1200px-Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berendshagen_-_Kirche_-_Altardetail.jpg/1200px-Berendshagen_-_Kirche_-_Altardetail.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1200px-Berendshagen_Kirche_2.jpg
+image_srcset:
+  Berendshagen%20Kirche%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berendshagen%20Kirche%202.jpg/400px-Berendshagen%20Kirche%202.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berendshagen%20Kirche%202.jpg/800px-Berendshagen%20Kirche%202.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berendshagen%20Kirche%202.jpg/1200px-Berendshagen%20Kirche%202.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Berendshagen%20Kirche%202.jpg/1920px-Berendshagen%20Kirche%202.jpg
+  Berendshagen - Kirche und Glockenstuhl von Südwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg/400px-Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg/800px-Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg/1200px-Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg/1920px-Berendshagen_-_Kirche_und_Glockenstuhl_von_Südwesten.jpg
+  Berendshagen - Kirche - Tafel Hans Wilhelm Baron von Meerheimb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg/400px-Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg/800px-Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg/1200px-Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg/1920px-Berendshagen_-_Kirche_-_Tafel_Hans_Wilhelm_Baron_von_Meerheimb.jpg
+  Berendshagen - Kirche - Altardetail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berendshagen_-_Kirche_-_Altardetail.jpg/400px-Berendshagen_-_Kirche_-_Altardetail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berendshagen_-_Kirche_-_Altardetail.jpg/800px-Berendshagen_-_Kirche_-_Altardetail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berendshagen_-_Kirche_-_Altardetail.jpg/1200px-Berendshagen_-_Kirche_-_Altardetail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berendshagen_-_Kirche_-_Altardetail.jpg/1920px-Berendshagen_-_Kirche_-_Altardetail.jpg
+  Berendshagen Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/400px-Berendshagen_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/800px-Berendshagen_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1200px-Berendshagen_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berendshagen_Kirche_2.jpg/1920px-Berendshagen_Kirche_2.jpg
 ---
 
 ## Overview

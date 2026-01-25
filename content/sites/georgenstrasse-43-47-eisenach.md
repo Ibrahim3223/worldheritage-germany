@@ -1,19 +1,49 @@
 ---
-title: "Georgenstraße 43-47, Eisenach"
+title: Georgenstraße 43-47, Eisenach
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.976
 longitude: 10.3146
 images:
-  - "/images-sites/georgenstrasse-43-47-eisenach/01-fdf79ad5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gorgenstraße_45_Eisenach_20191004_001.jpg/1200px-Gorgenstraße_45_Eisenach_20191004_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ESA_Georgenstr43-47_Bild6.jpg/1200px-ESA_Georgenstr43-47_Bild6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Werbung_Storchenturm.jpg/1200px-ESA_Werbung_Storchenturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ESA_Hellgrevenhof.jpg/1200px-ESA_Hellgrevenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ESA_Georgenstr43-47_Bild1.jpg/1200px-ESA_Georgenstr43-47_Bild1.jpg
+image_srcset:
+  Gorgenstraße 45 Eisenach 20191004 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gorgenstraße_45_Eisenach_20191004_001.jpg/400px-Gorgenstraße_45_Eisenach_20191004_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gorgenstraße_45_Eisenach_20191004_001.jpg/800px-Gorgenstraße_45_Eisenach_20191004_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gorgenstraße_45_Eisenach_20191004_001.jpg/1200px-Gorgenstraße_45_Eisenach_20191004_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gorgenstraße_45_Eisenach_20191004_001.jpg/1920px-Gorgenstraße_45_Eisenach_20191004_001.jpg
+  ESA Georgenstr43-47 Bild6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ESA_Georgenstr43-47_Bild6.jpg/400px-ESA_Georgenstr43-47_Bild6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ESA_Georgenstr43-47_Bild6.jpg/800px-ESA_Georgenstr43-47_Bild6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ESA_Georgenstr43-47_Bild6.jpg/1200px-ESA_Georgenstr43-47_Bild6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ESA_Georgenstr43-47_Bild6.jpg/1920px-ESA_Georgenstr43-47_Bild6.jpg
+  ESA Werbung Storchenturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Werbung_Storchenturm.jpg/400px-ESA_Werbung_Storchenturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Werbung_Storchenturm.jpg/800px-ESA_Werbung_Storchenturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Werbung_Storchenturm.jpg/1200px-ESA_Werbung_Storchenturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ESA_Werbung_Storchenturm.jpg/1920px-ESA_Werbung_Storchenturm.jpg
+  ESA Hellgrevenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ESA_Hellgrevenhof.jpg/400px-ESA_Hellgrevenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ESA_Hellgrevenhof.jpg/800px-ESA_Hellgrevenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ESA_Hellgrevenhof.jpg/1200px-ESA_Hellgrevenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ESA_Hellgrevenhof.jpg/1920px-ESA_Hellgrevenhof.jpg
+  ESA Georgenstr43-47 Bild1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ESA_Georgenstr43-47_Bild1.jpg/400px-ESA_Georgenstr43-47_Bild1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ESA_Georgenstr43-47_Bild1.jpg/800px-ESA_Georgenstr43-47_Bild1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ESA_Georgenstr43-47_Bild1.jpg/1200px-ESA_Georgenstr43-47_Bild1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/ESA_Georgenstr43-47_Bild1.jpg/1920px-ESA_Georgenstr43-47_Bild1.jpg
 ---
 
 ## Overview

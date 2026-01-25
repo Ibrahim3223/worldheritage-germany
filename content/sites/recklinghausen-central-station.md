@@ -13,7 +13,7 @@ regions:
 latitude: 51.616388888
 longitude: 7.203333333
 images:
-  - "/images-sites/recklinghausen-central-station/01-57191fec-800w.webp"
+  - "/images/recklinghausen-central-station/01-57191fec-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.769016
 longitude: 6.914741
 images:
-  - "/images-sites/schloss-roesberg/01-d66b850b-800w.webp"
+  - "/images/schloss-roesberg/01-d66b850b-800w.webp"
 ---
 
 ## Overview

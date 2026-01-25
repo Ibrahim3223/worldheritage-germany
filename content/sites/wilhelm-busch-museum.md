@@ -21,7 +21,7 @@ longitude: 9.70778
 
 # Images
 images:
-  - "/images-sites/wilhelm-busch-museum/01-aa46b354-800w.webp"
+  - "/images/wilhelm-busch-museum/01-aa46b354-800w.webp"
 ---
 
 ## Overview

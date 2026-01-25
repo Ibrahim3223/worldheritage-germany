@@ -1,20 +1,51 @@
 ---
-title: "Ev. Garnisonskirche"
-site_name: "Ev. Garnisonskirche"
-slug: "ev-garnisonskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Ev. Garnisonskirche
+site_name: Ev. Garnisonskirche
+slug: ev-garnisonskirche
+region: North Rhine-Westphalia
 latitude: 51.3153
 longitude: 9.49917
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1494390"
-description: "In the heart of Kassel, Germany, the Ev. Garnisonskirche stands as a noteworthy example of baroque architecture. This church, designed by Heinrich Chris..."
+- church building
+- religious site
+wikidata_id: Q1494390
+description: In the heart of Kassel, Germany, the Ev. Garnisonskirche stands as a
+  noteworthy example of baroque architecture. This church, designed by Heinrich Chris...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Garnisonskirche%20Kassel.jpg/1200px-Garnisonskirche%20Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_former_Garnisonkirche.JPG/1200px-Kassel_former_Garnisonkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1200px-Garnisonskirche_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Garnisonkirche_kassel_1886.jpg/1200px-Garnisonkirche_kassel_1886.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kassel_-_An_der_Garnisonkirche_-_2005.jpg/1200px-Kassel_-_An_der_Garnisonkirche_-_2005.jpg
+image_srcset:
+  Garnisonskirche%20Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Garnisonskirche%20Kassel.jpg/400px-Garnisonskirche%20Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Garnisonskirche%20Kassel.jpg/800px-Garnisonskirche%20Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Garnisonskirche%20Kassel.jpg/1200px-Garnisonskirche%20Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Garnisonskirche%20Kassel.jpg/1920px-Garnisonskirche%20Kassel.jpg
+  Kassel former Garnisonkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_former_Garnisonkirche.JPG/400px-Kassel_former_Garnisonkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_former_Garnisonkirche.JPG/800px-Kassel_former_Garnisonkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_former_Garnisonkirche.JPG/1200px-Kassel_former_Garnisonkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_former_Garnisonkirche.JPG/1920px-Kassel_former_Garnisonkirche.JPG
+  Garnisonskirche Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/400px-Garnisonskirche_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/800px-Garnisonskirche_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1200px-Garnisonskirche_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garnisonskirche_Kassel.jpg/1920px-Garnisonskirche_Kassel.jpg
+  Garnisonkirche kassel 1886.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Garnisonkirche_kassel_1886.jpg/400px-Garnisonkirche_kassel_1886.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Garnisonkirche_kassel_1886.jpg/800px-Garnisonkirche_kassel_1886.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Garnisonkirche_kassel_1886.jpg/1200px-Garnisonkirche_kassel_1886.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Garnisonkirche_kassel_1886.jpg/1920px-Garnisonkirche_kassel_1886.jpg
+  Kassel - An der Garnisonkirche - 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kassel_-_An_der_Garnisonkirche_-_2005.jpg/400px-Kassel_-_An_der_Garnisonkirche_-_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kassel_-_An_der_Garnisonkirche_-_2005.jpg/800px-Kassel_-_An_der_Garnisonkirche_-_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kassel_-_An_der_Garnisonkirche_-_2005.jpg/1200px-Kassel_-_An_der_Garnisonkirche_-_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kassel_-_An_der_Garnisonkirche_-_2005.jpg/1920px-Kassel_-_An_der_Garnisonkirche_-_2005.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2320905"
 description: "St. Marien am Behnitz is an architectural gem located in Spandau, Germany. This church building, designed in the Gothic Revival style by architect Augus..."
 images:
-  - "/images-sites/st-marien-am-behnitz/01-0de3e019-1920w.webp"
-  - "/images-sites/st-marien-am-behnitz/02-8f4478bc-1920w.webp"
-  - "/images-sites/st-marien-am-behnitz/03-9ac1c73b-1920w.webp"
+  - "/images/st-marien-am-behnitz/01-0de3e019-1920w.webp"
+  - "/images/st-marien-am-behnitz/02-8f4478bc-1920w.webp"
+  - "/images/st-marien-am-behnitz/03-9ac1c73b-1920w.webp"
 ---
 
 ## Overview

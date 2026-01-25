@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244106"
 description: "The Village Church Annenwalde, a remarkable example of Neoclassical architecture, stands as a testament to the artistry of its time. Built in 1833, this..."
 images:
-  - "/images-sites/village-church-annenwalde/01-6a2c3f7f-1920w.webp"
-  - "/images-sites/village-church-annenwalde/02-9a902f62-1920w.webp"
-  - "/images-sites/village-church-annenwalde/03-daa26fbd-1920w.webp"
+  - "/images/village-church-annenwalde/01-6a2c3f7f-1920w.webp"
+  - "/images/village-church-annenwalde/02-9a902f62-1920w.webp"
+  - "/images/village-church-annenwalde/03-daa26fbd-1920w.webp"
 ---
 
 ## Overview

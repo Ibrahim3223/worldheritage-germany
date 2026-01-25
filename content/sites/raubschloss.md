@@ -13,7 +13,7 @@ regions:
 latitude: 50.7197
 longitude: 10.797
 images:
-  - "/images-sites/raubschloss/01-d106d058-800w.webp"
+  - "/images/raubschloss/01-d106d058-800w.webp"
 ---
 
 ## Overview

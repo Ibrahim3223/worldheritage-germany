@@ -13,7 +13,7 @@ regions:
 latitude: 51.5475
 longitude: 6.95452
 images:
-  - "/images-sites/zeche-rheinbaben/01-f92d84c8-800w.webp"
+  - "/images/zeche-rheinbaben/01-f92d84c8-800w.webp"
 ---
 
 ## Overview

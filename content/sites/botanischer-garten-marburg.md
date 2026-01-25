@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Marburg"
+title: Botanischer Garten Marburg
 date: 2026-01-23
 draft: false
-description: "botanical garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.803
 longitude: 8.80938
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-marburg/01-d5d751fb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuer_Botanischer_Garten_Marburg_-_0017.jpg/1200px-Neuer_Botanischer_Garten_Marburg_-_0017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Neuer_Botanischer_Garten_Marburg.png/1200px-Neuer_Botanischer_Garten_Marburg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Neuer_Botanischer_Garten_-_Teich_002.jpg/1200px-Neuer_Botanischer_Garten_-_Teich_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Neuer_Botanischer_Garten_Marburg_002.jpg/1200px-Neuer_Botanischer_Garten_Marburg_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Unbekannte_Pflanze_009.jpg/1200px-Unbekannte_Pflanze_009.jpg
+image_srcset:
+  Neuer Botanischer Garten Marburg - 0017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuer_Botanischer_Garten_Marburg_-_0017.jpg/400px-Neuer_Botanischer_Garten_Marburg_-_0017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuer_Botanischer_Garten_Marburg_-_0017.jpg/800px-Neuer_Botanischer_Garten_Marburg_-_0017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuer_Botanischer_Garten_Marburg_-_0017.jpg/1200px-Neuer_Botanischer_Garten_Marburg_-_0017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuer_Botanischer_Garten_Marburg_-_0017.jpg/1920px-Neuer_Botanischer_Garten_Marburg_-_0017.jpg
+  Neuer Botanischer Garten Marburg.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Neuer_Botanischer_Garten_Marburg.png/400px-Neuer_Botanischer_Garten_Marburg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Neuer_Botanischer_Garten_Marburg.png/800px-Neuer_Botanischer_Garten_Marburg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Neuer_Botanischer_Garten_Marburg.png/1200px-Neuer_Botanischer_Garten_Marburg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Neuer_Botanischer_Garten_Marburg.png/1920px-Neuer_Botanischer_Garten_Marburg.png
+  Neuer Botanischer Garten - Teich 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Neuer_Botanischer_Garten_-_Teich_002.jpg/400px-Neuer_Botanischer_Garten_-_Teich_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Neuer_Botanischer_Garten_-_Teich_002.jpg/800px-Neuer_Botanischer_Garten_-_Teich_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Neuer_Botanischer_Garten_-_Teich_002.jpg/1200px-Neuer_Botanischer_Garten_-_Teich_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Neuer_Botanischer_Garten_-_Teich_002.jpg/1920px-Neuer_Botanischer_Garten_-_Teich_002.jpg
+  Neuer Botanischer Garten Marburg 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Neuer_Botanischer_Garten_Marburg_002.jpg/400px-Neuer_Botanischer_Garten_Marburg_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Neuer_Botanischer_Garten_Marburg_002.jpg/800px-Neuer_Botanischer_Garten_Marburg_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Neuer_Botanischer_Garten_Marburg_002.jpg/1200px-Neuer_Botanischer_Garten_Marburg_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Neuer_Botanischer_Garten_Marburg_002.jpg/1920px-Neuer_Botanischer_Garten_Marburg_002.jpg
+  Unbekannte Pflanze 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Unbekannte_Pflanze_009.jpg/400px-Unbekannte_Pflanze_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Unbekannte_Pflanze_009.jpg/800px-Unbekannte_Pflanze_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Unbekannte_Pflanze_009.jpg/1200px-Unbekannte_Pflanze_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Unbekannte_Pflanze_009.jpg/1920px-Unbekannte_Pflanze_009.jpg
 ---
 
 ## Overview

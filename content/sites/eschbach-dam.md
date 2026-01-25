@@ -1,19 +1,49 @@
 ---
-title: "Eschbach Dam"
+title: Eschbach Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1606
 longitude: 7.23389
 images:
-  - "/images-sites/eschbach-dam/01-a3c630d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg/1200px-Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eschbachtalsperre_(3).jpg/1200px-Eschbachtalsperre_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eschbachtalsperre_(Remscheid)_(3).jpg/1200px-Eschbachtalsperre_(Remscheid)_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1200px-Eschbachtalsperre2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Remscheid_-_Eschbachtalsperre_03_ies.jpg/1200px-Remscheid_-_Eschbachtalsperre_03_ies.jpg
+image_srcset:
+  Eschbachtalsperre Wasserablauf im Kontrollgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg/400px-Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg/800px-Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg/1200px-Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg/1920px-Eschbachtalsperre_Wasserablauf_im_Kontrollgang.jpg
+  Eschbachtalsperre (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eschbachtalsperre_(3).jpg/400px-Eschbachtalsperre_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eschbachtalsperre_(3).jpg/800px-Eschbachtalsperre_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eschbachtalsperre_(3).jpg/1200px-Eschbachtalsperre_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eschbachtalsperre_(3).jpg/1920px-Eschbachtalsperre_(3).jpg
+  Eschbachtalsperre (Remscheid) (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eschbachtalsperre_(Remscheid)_(3).jpg/400px-Eschbachtalsperre_(Remscheid)_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eschbachtalsperre_(Remscheid)_(3).jpg/800px-Eschbachtalsperre_(Remscheid)_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eschbachtalsperre_(Remscheid)_(3).jpg/1200px-Eschbachtalsperre_(Remscheid)_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Eschbachtalsperre_(Remscheid)_(3).jpg/1920px-Eschbachtalsperre_(Remscheid)_(3).jpg
+  Eschbachtalsperre2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/400px-Eschbachtalsperre2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/800px-Eschbachtalsperre2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1200px-Eschbachtalsperre2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eschbachtalsperre2.jpg/1920px-Eschbachtalsperre2.jpg
+  Remscheid - Eschbachtalsperre 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Remscheid_-_Eschbachtalsperre_03_ies.jpg/400px-Remscheid_-_Eschbachtalsperre_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Remscheid_-_Eschbachtalsperre_03_ies.jpg/800px-Remscheid_-_Eschbachtalsperre_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Remscheid_-_Eschbachtalsperre_03_ies.jpg/1200px-Remscheid_-_Eschbachtalsperre_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Remscheid_-_Eschbachtalsperre_03_ies.jpg/1920px-Remscheid_-_Eschbachtalsperre_03_ies.jpg
 ---
 
 ## Overview

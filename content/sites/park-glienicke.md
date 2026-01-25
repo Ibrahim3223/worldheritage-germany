@@ -13,7 +13,7 @@ regions:
 latitude: 52.4167
 longitude: 13.1
 images:
-  - "/images-sites/park-glienicke/01-ea2852ca-800w.webp"
+  - "/images/park-glienicke/01-ea2852ca-800w.webp"
 ---
 
 ## Overview

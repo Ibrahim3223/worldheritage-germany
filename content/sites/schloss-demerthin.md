@@ -13,7 +13,7 @@ regions:
 latitude: 52.9715
 longitude: 12.2897
 images:
-  - "/images-sites/schloss-demerthin/01-98482936-800w.webp"
+  - "/images/schloss-demerthin/01-98482936-800w.webp"
 ---
 
 ## Overview

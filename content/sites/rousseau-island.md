@@ -13,9 +13,9 @@ regions:
 latitude: 52.51227
 longitude: 13.35798
 images:
-  - "/images-sites/rousseau-island/01-fb321293-800w.webp"
-  - "/images-sites/rousseau-island/02-81c1e034-800w.webp"
-  - "/images-sites/rousseau-island/03-324b3b38-800w.webp"
+  - "/images/rousseau-island/01-fb321293-800w.webp"
+  - "/images/rousseau-island/02-81c1e034-800w.webp"
+  - "/images/rousseau-island/03-324b3b38-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.940277777
 longitude: 11.426944444
 images:
-  - "/images-sites/walfisch/01-871ad334-800w.webp"
+  - "/images/walfisch/01-871ad334-800w.webp"
 ---
 
 ## Overview

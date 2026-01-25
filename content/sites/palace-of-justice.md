@@ -13,7 +13,7 @@ regions:
 latitude: 49.454830791
 longitude: 11.046461274
 images:
-  - "/images-sites/palace-of-justice/01-9ac0f4a2-800w.webp"
+  - "/images/palace-of-justice/01-9ac0f4a2-800w.webp"
 ---
 
 ## Overview

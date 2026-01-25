@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q878243"
 description: "St. Kilians Church stands as a remarkable example of Gothic architecture in Heilbronn, Germany, drawing visitors with its intricate design and historica..."
 images:
-  - "/images-sites/st-kilian-s-church/01-08f5de1c-1920w.webp"
-  - "/images-sites/st-kilian-s-church/02-4ebce6b7-1920w.webp"
-  - "/images-sites/st-kilian-s-church/03-9eb16392-1920w.webp"
+  - "/images/st-kilian-s-church/01-08f5de1c-1920w.webp"
+  - "/images/st-kilian-s-church/02-4ebce6b7-1920w.webp"
+  - "/images/st-kilian-s-church/03-9eb16392-1920w.webp"
 ---
 
 ## Overview

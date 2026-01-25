@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q14537880"
 description: "St. Dominicus, a Catholic church building located in the Neukölln district of Berlin, stands as a striking example of modern architecture amidst the urb..."
 images:
-  - "/images-sites/st-dominicus/01-143005ca-1920w.webp"
-  - "/images-sites/st-dominicus/02-7a98ee86-1920w.webp"
-  - "/images-sites/st-dominicus/03-0e116df7-1920w.webp"
+  - "/images/st-dominicus/01-143005ca-1920w.webp"
+  - "/images/st-dominicus/02-7a98ee86-1920w.webp"
+  - "/images/st-dominicus/03-0e116df7-1920w.webp"
 ---
 
 ## Overview

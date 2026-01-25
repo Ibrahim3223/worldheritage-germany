@@ -1,19 +1,49 @@
 ---
-title: "Hermannstraße railway station"
+title: Hermannstraße railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4675
 longitude: 13.431111111
 images:
-  - "/images-sites/hermannstrasse-railway-station/01-654edc69-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg/1200px-Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Berlin_Hermannstraße_2.jpg/1200px-Bahnhof_Berlin_Hermannstraße_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg/1200px-Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/S-Bahn_Berlin_Hermannstrasse.JPG/1200px-S-Bahn_Berlin_Hermannstrasse.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Berlin_Neukoelln_7Hermannstrasse.JPG/1200px-Berlin_Neukoelln_7Hermannstrasse.JPG
+image_srcset:
+  Berlin S-Bahn Bhf Hermannstraße (S41 1558).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg/400px-Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg/800px-Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg/1200px-Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg/1920px-Berlin_S-Bahn_Bhf_Hermannstraße_(S41_1558).jpg
+  Bahnhof Berlin Hermannstraße 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Berlin_Hermannstraße_2.jpg/400px-Bahnhof_Berlin_Hermannstraße_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Berlin_Hermannstraße_2.jpg/800px-Bahnhof_Berlin_Hermannstraße_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Berlin_Hermannstraße_2.jpg/1200px-Bahnhof_Berlin_Hermannstraße_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Berlin_Hermannstraße_2.jpg/1920px-Bahnhof_Berlin_Hermannstraße_2.jpg
+  Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg/400px-Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg/800px-Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg/1200px-Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg/1920px-Eingangsgebaeude-S-Bahnhof-Hermannstr-Berlin-Neukölln-08-2017.jpg
+  S-Bahn Berlin Hermannstrasse.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/S-Bahn_Berlin_Hermannstrasse.JPG/400px-S-Bahn_Berlin_Hermannstrasse.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/S-Bahn_Berlin_Hermannstrasse.JPG/800px-S-Bahn_Berlin_Hermannstrasse.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/S-Bahn_Berlin_Hermannstrasse.JPG/1200px-S-Bahn_Berlin_Hermannstrasse.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/S-Bahn_Berlin_Hermannstrasse.JPG/1920px-S-Bahn_Berlin_Hermannstrasse.JPG
+  Berlin Neukoelln 7Hermannstrasse.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Berlin_Neukoelln_7Hermannstrasse.JPG/400px-Berlin_Neukoelln_7Hermannstrasse.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Berlin_Neukoelln_7Hermannstrasse.JPG/800px-Berlin_Neukoelln_7Hermannstrasse.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Berlin_Neukoelln_7Hermannstrasse.JPG/1200px-Berlin_Neukoelln_7Hermannstrasse.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Berlin_Neukoelln_7Hermannstrasse.JPG/1920px-Berlin_Neukoelln_7Hermannstrasse.JPG
 ---
 
 ## Overview

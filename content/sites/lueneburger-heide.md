@@ -13,7 +13,7 @@ regions:
 latitude: 53.1686
 longitude: 9.93971
 images:
-  - "/images-sites/lueneburger-heide/01-5fed18dc-800w.webp"
+  - "/images/lueneburger-heide/01-5fed18dc-800w.webp"
 ---
 
 ## Overview

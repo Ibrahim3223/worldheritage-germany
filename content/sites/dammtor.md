@@ -1,20 +1,43 @@
 ---
-title: "Dammtor"
+title: Dammtor
 date: 2026-01-23
 draft: false
-description: "public square in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: public square in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 53.56194444
 longitude: 9.99083333
 images:
-  - "/images-sites/dammtor/01-660609ca-800w.webp"
-  - "/images-sites/dammtor/01-bb10e487-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/1200px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1200px-Hamburg-Bahnhof_Dammtor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Karte_Hamburg-Dammtor.svg/1200px-Karte_Hamburg-Dammtor.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hamburg_1700_from_the_Dammtor.jpg/1200px-Hamburg_1700_from_the_Dammtor.jpg
+image_srcset:
+  Coronakrise-hamburg 443-0011 0023-hinnerk-ruemenapf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/400px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/800px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/1200px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg/1920px-Coronakrise-hamburg_443-0011_0023-hinnerk-ruemenapf.jpg
+  Hamburg-Bahnhof Dammtor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/400px-Hamburg-Bahnhof_Dammtor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/800px-Hamburg-Bahnhof_Dammtor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1200px-Hamburg-Bahnhof_Dammtor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamburg-Bahnhof_Dammtor.jpg/1920px-Hamburg-Bahnhof_Dammtor.jpg
+  Karte Hamburg-Dammtor.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Karte_Hamburg-Dammtor.svg/400px-Karte_Hamburg-Dammtor.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Karte_Hamburg-Dammtor.svg/800px-Karte_Hamburg-Dammtor.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Karte_Hamburg-Dammtor.svg/1200px-Karte_Hamburg-Dammtor.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Karte_Hamburg-Dammtor.svg/1920px-Karte_Hamburg-Dammtor.svg.png
+  Hamburg 1700 from the Dammtor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hamburg_1700_from_the_Dammtor.jpg/400px-Hamburg_1700_from_the_Dammtor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hamburg_1700_from_the_Dammtor.jpg/800px-Hamburg_1700_from_the_Dammtor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hamburg_1700_from_the_Dammtor.jpg/1200px-Hamburg_1700_from_the_Dammtor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hamburg_1700_from_the_Dammtor.jpg/1920px-Hamburg_1700_from_the_Dammtor.jpg
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Christuskirche (Lüdenscheid)"
-site_name: "Christuskirche (Lüdenscheid)"
-slug: "christuskirche-ludenscheid"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Christuskirche (Lüdenscheid)
+site_name: Christuskirche (Lüdenscheid)
+slug: christuskirche-ludenscheid
+region: North Rhine-Westphalia
 latitude: 51.2212
 longitude: 7.623
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087362"
-description: "In the heart of Lüdenscheid, a striking edifice rises against the skyline, capturing the essence of Gothic Revival architecture. Christuskirche, or Chri..."
+- church building
+- religious site
+wikidata_id: Q1087362
+description: In the heart of Lüdenscheid, a striking edifice rises against the skyline,
+  capturing the essence of Gothic Revival architecture. Christuskirche, or Chri...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/L%C3%BCdenscheid%20Christuskirche%201.JPG/1200px-L%C3%BCdenscheid%20Christuskirche%201.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lüdenscheid_FFSW_PK_5398.jpg/1200px-Lüdenscheid_FFSW_PK_5398.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/1200px-Lüdenscheid_Christuskirche_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/View_to_the_Christuskirche_Lüdenscheid.jpg/1200px-View_to_the_Christuskirche_Lüdenscheid.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Christuskirchewestview.jpg/1200px-Christuskirchewestview.jpg
+image_srcset:
+  L%C3%BCdenscheid%20Christuskirche%201.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/L%C3%BCdenscheid%20Christuskirche%201.JPG/400px-L%C3%BCdenscheid%20Christuskirche%201.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/L%C3%BCdenscheid%20Christuskirche%201.JPG/800px-L%C3%BCdenscheid%20Christuskirche%201.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/L%C3%BCdenscheid%20Christuskirche%201.JPG/1200px-L%C3%BCdenscheid%20Christuskirche%201.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/L%C3%BCdenscheid%20Christuskirche%201.JPG/1920px-L%C3%BCdenscheid%20Christuskirche%201.JPG
+  Lüdenscheid FFSW PK 5398.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lüdenscheid_FFSW_PK_5398.jpg/400px-Lüdenscheid_FFSW_PK_5398.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lüdenscheid_FFSW_PK_5398.jpg/800px-Lüdenscheid_FFSW_PK_5398.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lüdenscheid_FFSW_PK_5398.jpg/1200px-Lüdenscheid_FFSW_PK_5398.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lüdenscheid_FFSW_PK_5398.jpg/1920px-Lüdenscheid_FFSW_PK_5398.jpg
+  Lüdenscheid Christuskirche 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/400px-Lüdenscheid_Christuskirche_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/800px-Lüdenscheid_Christuskirche_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/1200px-Lüdenscheid_Christuskirche_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lüdenscheid_Christuskirche_1.JPG/1920px-Lüdenscheid_Christuskirche_1.JPG
+  View to the Christuskirche Lüdenscheid.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/View_to_the_Christuskirche_Lüdenscheid.jpg/400px-View_to_the_Christuskirche_Lüdenscheid.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/View_to_the_Christuskirche_Lüdenscheid.jpg/800px-View_to_the_Christuskirche_Lüdenscheid.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/View_to_the_Christuskirche_Lüdenscheid.jpg/1200px-View_to_the_Christuskirche_Lüdenscheid.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/View_to_the_Christuskirche_Lüdenscheid.jpg/1920px-View_to_the_Christuskirche_Lüdenscheid.jpg
+  Christuskirchewestview.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Christuskirchewestview.jpg/400px-Christuskirchewestview.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Christuskirchewestview.jpg/800px-Christuskirchewestview.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Christuskirchewestview.jpg/1200px-Christuskirchewestview.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Christuskirchewestview.jpg/1920px-Christuskirchewestview.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.20638889
 longitude: 6.80861111
 images:
-  - "/images-sites/mitsubishi-electric-halle/01-c657c2ae-800w.webp"
+  - "/images/mitsubishi-electric-halle/01-c657c2ae-800w.webp"
 ---
 
 ## Overview

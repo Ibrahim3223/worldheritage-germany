@@ -1,19 +1,49 @@
 ---
-title: "Bungsberg telecommunications tower"
+title: Bungsberg telecommunications tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 54.2095
 longitude: 10.7242
 images:
-  - "/images-sites/bungsberg-telecommunications-tower/01-d9e4bccf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg/1200px-2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg/1200px-2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fernmeldeturm_Bungsberg_1851.jpg/1200px-Fernmeldeturm_Bungsberg_1851.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/1200px-Bungsberg_Fernmeldeturm_2012a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fernmeldeturm_Bungsberg_1844.jpg/1200px-Fernmeldeturm_Bungsberg_1844.jpg
+image_srcset:
+  2018-07-16 - FMT Bungsberg - Blick nach oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg/400px-2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg/800px-2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg/1200px-2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg/1920px-2018-07-16_-_FMT_Bungsberg_-_Blick_nach_oben.jpg
+  2018-07-16 - FMT Bungsberg - Spitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg/400px-2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg/800px-2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg/1200px-2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg/1920px-2018-07-16_-_FMT_Bungsberg_-_Spitze.jpg
+  Fernmeldeturm Bungsberg 1851.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fernmeldeturm_Bungsberg_1851.jpg/400px-Fernmeldeturm_Bungsberg_1851.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fernmeldeturm_Bungsberg_1851.jpg/800px-Fernmeldeturm_Bungsberg_1851.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fernmeldeturm_Bungsberg_1851.jpg/1200px-Fernmeldeturm_Bungsberg_1851.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fernmeldeturm_Bungsberg_1851.jpg/1920px-Fernmeldeturm_Bungsberg_1851.jpg
+  Bungsberg Fernmeldeturm 2012a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/400px-Bungsberg_Fernmeldeturm_2012a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/800px-Bungsberg_Fernmeldeturm_2012a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/1200px-Bungsberg_Fernmeldeturm_2012a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_Fernmeldeturm_2012a.jpg/1920px-Bungsberg_Fernmeldeturm_2012a.jpg
+  Fernmeldeturm Bungsberg 1844.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fernmeldeturm_Bungsberg_1844.jpg/400px-Fernmeldeturm_Bungsberg_1844.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fernmeldeturm_Bungsberg_1844.jpg/800px-Fernmeldeturm_Bungsberg_1844.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fernmeldeturm_Bungsberg_1844.jpg/1200px-Fernmeldeturm_Bungsberg_1844.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fernmeldeturm_Bungsberg_1844.jpg/1920px-Fernmeldeturm_Bungsberg_1844.jpg
 ---
 
 ## Overview

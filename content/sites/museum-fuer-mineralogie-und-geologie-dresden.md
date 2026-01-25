@@ -13,7 +13,7 @@ regions:
 latitude: 51.1289
 longitude: 13.79
 images:
-  - "/images-sites/museum-fuer-mineralogie-und-geologie-dresden/01-9e696629-800w.webp"
+  - "/images/museum-fuer-mineralogie-und-geologie-dresden/01-9e696629-800w.webp"
 ---
 
 ## Overview

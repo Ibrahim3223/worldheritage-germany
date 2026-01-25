@@ -13,7 +13,7 @@ regions:
 latitude: 49.5044
 longitude: 8.47976
 images:
-  - "/images-sites/multihalle/01-2d2dcefc-800w.webp"
+  - "/images/multihalle/01-2d2dcefc-800w.webp"
 ---
 
 ## Overview

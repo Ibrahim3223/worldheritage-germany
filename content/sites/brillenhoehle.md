@@ -1,29 +1,49 @@
 ---
-title: "Brillenhöhle"
+title: Brillenhöhle
 date: 2026-01-23
 draft: false
-description: "cave and archaeological site in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: cave and archaeological site in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.40527778
 longitude: 9.77777778
-
-# Images
 images:
-  - "/images-sites/brillenhoehle/01-a4c0c503-800w.webp"
-  - "/images-sites/brillenhoehle/02-aade34e8-800w.webp"
-  - "/images-sites/brillenhoehle/03-5616867d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg/1200px-Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brillenhoehle_Blaubeuren_innen.jpg/1200px-Brillenhoehle_Blaubeuren_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brillenhoehle_Blaubeuren_Eingang.jpg/1200px-Brillenhoehle_Blaubeuren_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg/1200px-Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brillenhoehle_Blaubeuren_Grundriss.jpg/1200px-Brillenhoehle_Blaubeuren_Grundriss.jpg
+image_srcset:
+  Brillenhoehle Blaubeuren Roetel Kalkstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg/400px-Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg/800px-Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg/1200px-Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg/1920px-Brillenhoehle_Blaubeuren_Roetel_Kalkstein.jpg
+  Brillenhoehle Blaubeuren innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brillenhoehle_Blaubeuren_innen.jpg/400px-Brillenhoehle_Blaubeuren_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brillenhoehle_Blaubeuren_innen.jpg/800px-Brillenhoehle_Blaubeuren_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brillenhoehle_Blaubeuren_innen.jpg/1200px-Brillenhoehle_Blaubeuren_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brillenhoehle_Blaubeuren_innen.jpg/1920px-Brillenhoehle_Blaubeuren_innen.jpg
+  Brillenhoehle Blaubeuren Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brillenhoehle_Blaubeuren_Eingang.jpg/400px-Brillenhoehle_Blaubeuren_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brillenhoehle_Blaubeuren_Eingang.jpg/800px-Brillenhoehle_Blaubeuren_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brillenhoehle_Blaubeuren_Eingang.jpg/1200px-Brillenhoehle_Blaubeuren_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brillenhoehle_Blaubeuren_Eingang.jpg/1920px-Brillenhoehle_Blaubeuren_Eingang.jpg
+  Brillenhoehle Blaubeuren Fellausloeser Tafel10 Pos4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg/400px-Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg/800px-Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg/1200px-Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg/1920px-Brillenhoehle_Blaubeuren_Fellausloeser_Tafel10_Pos4.jpg
+  Brillenhoehle Blaubeuren Grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brillenhoehle_Blaubeuren_Grundriss.jpg/400px-Brillenhoehle_Blaubeuren_Grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brillenhoehle_Blaubeuren_Grundriss.jpg/800px-Brillenhoehle_Blaubeuren_Grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brillenhoehle_Blaubeuren_Grundriss.jpg/1200px-Brillenhoehle_Blaubeuren_Grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brillenhoehle_Blaubeuren_Grundriss.jpg/1920px-Brillenhoehle_Blaubeuren_Grundriss.jpg
 ---
 
 ## Overview

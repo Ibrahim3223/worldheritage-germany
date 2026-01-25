@@ -1,19 +1,49 @@
 ---
-title: "Amelungsborn Abbey"
+title: Amelungsborn Abbey
 date: 2026-01-23
 draft: false
-description: "Lutheran monastery in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Lutheran monastery in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8972
 longitude: 9.59306
 images:
-  - "/images-sites/amelungsborn-abbey/01-080c7737-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg/1200px-20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kloster_Amelungsborn.jpg/1200px-Kloster_Amelungsborn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg/1200px-Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kloster_amelungsborn.jpg/1200px-Kloster_amelungsborn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amelunxborn_(Merian).jpg/1200px-Amelunxborn_(Merian).jpg
+image_srcset:
+  20150215 KlosterAmelungsborn ohneVierungsturm DSC01037 PtrQs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg/400px-20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg/800px-20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg/1200px-20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg/1920px-20150215_KlosterAmelungsborn_ohneVierungsturm_DSC01037_PtrQs.jpg
+  Kloster Amelungsborn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kloster_Amelungsborn.jpg/400px-Kloster_Amelungsborn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kloster_Amelungsborn.jpg/800px-Kloster_Amelungsborn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kloster_Amelungsborn.jpg/1200px-Kloster_Amelungsborn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kloster_Amelungsborn.jpg/1920px-Kloster_Amelungsborn.jpg
+  Vierungsturm Klosterkirche Amelungsborn (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg/400px-Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg/800px-Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg/1200px-Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg/1920px-Vierungsturm_Klosterkirche_Amelungsborn_(2024).jpg
+  Kloster amelungsborn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kloster_amelungsborn.jpg/400px-Kloster_amelungsborn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kloster_amelungsborn.jpg/800px-Kloster_amelungsborn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kloster_amelungsborn.jpg/1200px-Kloster_amelungsborn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kloster_amelungsborn.jpg/1920px-Kloster_amelungsborn.jpg
+  Amelunxborn (Merian).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amelunxborn_(Merian).jpg/400px-Amelunxborn_(Merian).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amelunxborn_(Merian).jpg/800px-Amelunxborn_(Merian).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amelunxborn_(Merian).jpg/1200px-Amelunxborn_(Merian).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Amelunxborn_(Merian).jpg/1920px-Amelunxborn_(Merian).jpg
 ---
 
 ## Overview

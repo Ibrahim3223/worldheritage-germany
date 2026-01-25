@@ -1,19 +1,49 @@
 ---
-title: "Georg Kolbe Museum"
+title: Georg Kolbe Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.50991
 longitude: 13.25478
 images:
-  - "/images-sites/georg-kolbe-museum/01-eb23bd1e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kolbe-Museum.jpg/1200px-Kolbe-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/1200px-Sensburger_Allee_25-26_(09096432)_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg/1200px-Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GKMEDuch20.jpg/1200px-GKMEDuch20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg/1200px-Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg
+image_srcset:
+  Kolbe-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kolbe-Museum.jpg/400px-Kolbe-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kolbe-Museum.jpg/800px-Kolbe-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kolbe-Museum.jpg/1200px-Kolbe-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kolbe-Museum.jpg/1920px-Kolbe-Museum.jpg
+  Sensburger Allee 25-26 (09096432) 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/400px-Sensburger_Allee_25-26_(09096432)_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/800px-Sensburger_Allee_25-26_(09096432)_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/1200px-Sensburger_Allee_25-26_(09096432)_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sensburger_Allee_25-26_(09096432)_001.jpg/1920px-Sensburger_Allee_25-26_(09096432)_001.jpg
+  Ausstellungsansicht Bildhaueratelier Georg Kolbe Museum 2016, Foto- Bildarchiv Georg Kolbe Museum, EnricDuch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg/400px-Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg/800px-Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg/1200px-Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg/1920px-Ausstellungsansicht_Bildhaueratelier_Georg_Kolbe_Museum_2016,_Foto-_Bildarchiv_Georg_Kolbe_Museum,_EnricDuch.jpg
+  GKMEDuch20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GKMEDuch20.jpg/400px-GKMEDuch20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GKMEDuch20.jpg/800px-GKMEDuch20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GKMEDuch20.jpg/1200px-GKMEDuch20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/GKMEDuch20.jpg/1920px-GKMEDuch20.jpg
+  Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg/400px-Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg/800px-Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg/1200px-Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg/1920px-Hofansicht-Georg-Kolbe-Museum-1936-46-Bildarchiv-Georg-Kolbe-Museum-Foto-Georg-Kolbe.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.5151
 longitude: 8.3656
 images:
-  - "/images-sites/rinkenwall/01-63265aad-800w.webp"
+  - "/images/rinkenwall/01-63265aad-800w.webp"
 ---
 
 ## Overview

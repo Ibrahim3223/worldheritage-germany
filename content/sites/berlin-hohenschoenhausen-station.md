@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Hohenschönhausen station"
+title: Berlin-Hohenschönhausen station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5664
 longitude: 13.5122
 images:
-  - "/images-sites/berlin-hohenschoenhausen-station/01-7b47820a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Hohenschönhausen_Regionalbahn.jpg/1200px-Bahnhof_Hohenschönhausen_Regionalbahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahnhof_Berlin-Hohenschönhausen_111-162.JPG/1200px-Bahnhof_Berlin-Hohenschönhausen_111-162.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg/1200px-Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG/1200px-S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Train_station_Berlin_Hohenschoenhausen.jpg/1200px-Train_station_Berlin_Hohenschoenhausen.jpg
+image_srcset:
+  Bahnhof Hohenschönhausen Regionalbahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Hohenschönhausen_Regionalbahn.jpg/400px-Bahnhof_Hohenschönhausen_Regionalbahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Hohenschönhausen_Regionalbahn.jpg/800px-Bahnhof_Hohenschönhausen_Regionalbahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Hohenschönhausen_Regionalbahn.jpg/1200px-Bahnhof_Hohenschönhausen_Regionalbahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Hohenschönhausen_Regionalbahn.jpg/1920px-Bahnhof_Hohenschönhausen_Regionalbahn.jpg
+  Bahnhof Berlin-Hohenschönhausen 111-162.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahnhof_Berlin-Hohenschönhausen_111-162.JPG/400px-Bahnhof_Berlin-Hohenschönhausen_111-162.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahnhof_Berlin-Hohenschönhausen_111-162.JPG/800px-Bahnhof_Berlin-Hohenschönhausen_111-162.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahnhof_Berlin-Hohenschönhausen_111-162.JPG/1200px-Bahnhof_Berlin-Hohenschönhausen_111-162.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bahnhof_Berlin-Hohenschönhausen_111-162.JPG/1920px-Bahnhof_Berlin-Hohenschönhausen_111-162.JPG
+  Clp 20141114 3764 Bf Berlin-Hohenschönhausen Bstg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg/400px-Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg/800px-Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg/1200px-Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg/1920px-Clp_20141114_3764_Bf_Berlin-Hohenschönhausen_Bstg.jpg
+  S-Bh Hohenschoenhausen Bruecke Falkenberger Chaussee 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG/400px-S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG/800px-S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG/1200px-S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG/1920px-S-Bh_Hohenschoenhausen_Bruecke_Falkenberger_Chaussee_4.JPG
+  Train station Berlin Hohenschoenhausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Train_station_Berlin_Hohenschoenhausen.jpg/400px-Train_station_Berlin_Hohenschoenhausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Train_station_Berlin_Hohenschoenhausen.jpg/800px-Train_station_Berlin_Hohenschoenhausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Train_station_Berlin_Hohenschoenhausen.jpg/1200px-Train_station_Berlin_Hohenschoenhausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Train_station_Berlin_Hohenschoenhausen.jpg/1920px-Train_station_Berlin_Hohenschoenhausen.jpg
 ---
 
 ## Overview

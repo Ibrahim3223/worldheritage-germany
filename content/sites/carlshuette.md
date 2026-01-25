@@ -1,21 +1,49 @@
 ---
-title: "Carlshütte"
+title: Carlshütte
 date: 2026-01-23
 draft: false
-description: "former company in Büdelsdorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: former company in Büdelsdorf, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 54.3123
 longitude: 9.669
 images:
-  - "/images-sites/carlshuette/01-32554b9f-800w.webp"
-  - "/images-sites/carlshuette/02-04c1fcb4-800w.webp"
-  - "/images-sites/carlshuette/03-4d44f930-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RoscheiderhofDauerbrandEGH1b.jpg/1200px-RoscheiderhofDauerbrandEGH1b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Carlshuette_(Dautphetal)_in_germany.jpg/1200px-Carlshuette_(Dautphetal)_in_germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlshütte_bei_Rendsburg.jpg/1200px-Carlshütte_bei_Rendsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/1200px-Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/1200px-Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+image_srcset:
+  RoscheiderhofDauerbrandEGH1b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RoscheiderhofDauerbrandEGH1b.jpg/400px-RoscheiderhofDauerbrandEGH1b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RoscheiderhofDauerbrandEGH1b.jpg/800px-RoscheiderhofDauerbrandEGH1b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RoscheiderhofDauerbrandEGH1b.jpg/1200px-RoscheiderhofDauerbrandEGH1b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RoscheiderhofDauerbrandEGH1b.jpg/1920px-RoscheiderhofDauerbrandEGH1b.jpg
+  Carlshuette (Dautphetal) in germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Carlshuette_(Dautphetal)_in_germany.jpg/400px-Carlshuette_(Dautphetal)_in_germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Carlshuette_(Dautphetal)_in_germany.jpg/800px-Carlshuette_(Dautphetal)_in_germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Carlshuette_(Dautphetal)_in_germany.jpg/1200px-Carlshuette_(Dautphetal)_in_germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Carlshuette_(Dautphetal)_in_germany.jpg/1920px-Carlshuette_(Dautphetal)_in_germany.jpg
+  Carlshütte bei Rendsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlshütte_bei_Rendsburg.jpg/400px-Carlshütte_bei_Rendsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlshütte_bei_Rendsburg.jpg/800px-Carlshütte_bei_Rendsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlshütte_bei_Rendsburg.jpg/1200px-Carlshütte_bei_Rendsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlshütte_bei_Rendsburg.jpg/1920px-Carlshütte_bei_Rendsburg.jpg
+  Detail on electric distribution at Carlshuette Rendsburg, Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/400px-Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/800px-Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/1200px-Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/1920px-Detail_on_electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+  Electric distribution at Carlshuette Rendsburg, Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/400px-Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/800px-Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/1200px-Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg/1920px-Electric_distribution_at_Carlshuette_Rendsburg,_Germany.jpg
 ---
 
 ## Overview

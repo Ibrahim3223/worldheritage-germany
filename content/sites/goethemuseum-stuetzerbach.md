@@ -1,21 +1,49 @@
 ---
-title: "Goethemuseum Stützerbach"
+title: Goethemuseum Stützerbach
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6358
 longitude: 10.8678
 images:
-  - "/images-sites/goethemuseum-stuetzerbach/01-f926f44c-800w.webp"
-  - "/images-sites/goethemuseum-stuetzerbach/02-5ce5fc67-800w.webp"
-  - "/images-sites/goethemuseum-stuetzerbach/03-b411a2b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Goethemuseum_Stützerbach_2.jpg/1200px-Goethemuseum_Stützerbach_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goethemuseum_Stützerbach_6.jpg/1200px-Goethemuseum_Stützerbach_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goethemuseum_Stützerbach_7.jpg/1200px-Goethemuseum_Stützerbach_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethemuseum_Stützerbach_8.jpg/1200px-Goethemuseum_Stützerbach_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/1200px-Goethehaus.jpg
+image_srcset:
+  Goethemuseum Stützerbach 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Goethemuseum_Stützerbach_2.jpg/400px-Goethemuseum_Stützerbach_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Goethemuseum_Stützerbach_2.jpg/800px-Goethemuseum_Stützerbach_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Goethemuseum_Stützerbach_2.jpg/1200px-Goethemuseum_Stützerbach_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Goethemuseum_Stützerbach_2.jpg/1920px-Goethemuseum_Stützerbach_2.jpg
+  Goethemuseum Stützerbach 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goethemuseum_Stützerbach_6.jpg/400px-Goethemuseum_Stützerbach_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goethemuseum_Stützerbach_6.jpg/800px-Goethemuseum_Stützerbach_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goethemuseum_Stützerbach_6.jpg/1200px-Goethemuseum_Stützerbach_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goethemuseum_Stützerbach_6.jpg/1920px-Goethemuseum_Stützerbach_6.jpg
+  Goethemuseum Stützerbach 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goethemuseum_Stützerbach_7.jpg/400px-Goethemuseum_Stützerbach_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goethemuseum_Stützerbach_7.jpg/800px-Goethemuseum_Stützerbach_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goethemuseum_Stützerbach_7.jpg/1200px-Goethemuseum_Stützerbach_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goethemuseum_Stützerbach_7.jpg/1920px-Goethemuseum_Stützerbach_7.jpg
+  Goethemuseum Stützerbach 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethemuseum_Stützerbach_8.jpg/400px-Goethemuseum_Stützerbach_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethemuseum_Stützerbach_8.jpg/800px-Goethemuseum_Stützerbach_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethemuseum_Stützerbach_8.jpg/1200px-Goethemuseum_Stützerbach_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethemuseum_Stützerbach_8.jpg/1920px-Goethemuseum_Stützerbach_8.jpg
+  Goethehaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/400px-Goethehaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/800px-Goethehaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/1200px-Goethehaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goethehaus.jpg/1920px-Goethehaus.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.24755
 longitude: 7.515635
 images:
-  - "/images-sites/muehle-eiklenborg/01-3ef56900-800w.webp"
+  - "/images/muehle-eiklenborg/01-3ef56900-800w.webp"
 ---
 
 ## Overview

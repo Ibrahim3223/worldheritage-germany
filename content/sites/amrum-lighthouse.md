@@ -1,19 +1,49 @@
 ---
-title: "Amrum Lighthouse"
+title: Amrum Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Amrum, Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Amrum, Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6312
 longitude: 8.35458
 images:
-  - "/images-sites/amrum-lighthouse/01-547c27e8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/1200px-Amrum_M_Suessen-3362-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Leuchtturm_Amrum_dt_04.jpg/1200px-Leuchtturm_Amrum_dt_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leuchtturm_von_Amrum.jpg/1200px-Leuchtturm_von_Amrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lighthouse_-_panoramio_(17).jpg/1200px-Lighthouse_-_panoramio_(17).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amrum-Leuchtturm-bei-Nebel.jpg/1200px-Amrum-Leuchtturm-bei-Nebel.jpg
+image_srcset:
+  Amrum M Suessen-3362-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/400px-Amrum_M_Suessen-3362-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/800px-Amrum_M_Suessen-3362-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/1200px-Amrum_M_Suessen-3362-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amrum_M_Suessen-3362-2.jpg/1920px-Amrum_M_Suessen-3362-2.jpg
+  Leuchtturm Amrum dt 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Leuchtturm_Amrum_dt_04.jpg/400px-Leuchtturm_Amrum_dt_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Leuchtturm_Amrum_dt_04.jpg/800px-Leuchtturm_Amrum_dt_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Leuchtturm_Amrum_dt_04.jpg/1200px-Leuchtturm_Amrum_dt_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Leuchtturm_Amrum_dt_04.jpg/1920px-Leuchtturm_Amrum_dt_04.jpg
+  Leuchtturm von Amrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leuchtturm_von_Amrum.jpg/400px-Leuchtturm_von_Amrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leuchtturm_von_Amrum.jpg/800px-Leuchtturm_von_Amrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leuchtturm_von_Amrum.jpg/1200px-Leuchtturm_von_Amrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leuchtturm_von_Amrum.jpg/1920px-Leuchtturm_von_Amrum.jpg
+  Lighthouse - panoramio (17).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lighthouse_-_panoramio_(17).jpg/400px-Lighthouse_-_panoramio_(17).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lighthouse_-_panoramio_(17).jpg/800px-Lighthouse_-_panoramio_(17).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lighthouse_-_panoramio_(17).jpg/1200px-Lighthouse_-_panoramio_(17).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lighthouse_-_panoramio_(17).jpg/1920px-Lighthouse_-_panoramio_(17).jpg
+  Amrum-Leuchtturm-bei-Nebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amrum-Leuchtturm-bei-Nebel.jpg/400px-Amrum-Leuchtturm-bei-Nebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amrum-Leuchtturm-bei-Nebel.jpg/800px-Amrum-Leuchtturm-bei-Nebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amrum-Leuchtturm-bei-Nebel.jpg/1200px-Amrum-Leuchtturm-bei-Nebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amrum-Leuchtturm-bei-Nebel.jpg/1920px-Amrum-Leuchtturm-bei-Nebel.jpg
 ---
 
 ## Overview

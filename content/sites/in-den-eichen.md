@@ -1,19 +1,43 @@
 ---
-title: "In den Eichen"
+title: In den Eichen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.9006
 longitude: 9.43944
 images:
-  - "/images-sites/in-den-eichen/01-b35d07db-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/1200px-Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/1200px-NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg/1200px-Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Schænnis. St. Sebastian's Kapelle - 991082068459705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg/400px-Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg/800px-Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg/1920px-Zentralbibliothek_Zürich_-_Schænnis._St._Sebastian's_Kapelle_-_991082068459705501.jpg
+  Kiessee im NSG In den Eichen, Holzminden, Niedersachsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/400px-Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/800px-Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/1200px-Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/1920px-Kiessee_im_NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+  NSG In den Eichen, Holzminden, Niedersachsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/400px-NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/800px-NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/1200px-NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg/1920px-NSG_In_den_Eichen,_Holzminden,_Niedersachsen.jpg
+  Kartenblatt SW XXII 1 Stand 1862 (nur hohenzollerischer Teil) - LABW - Staatsarchiv Ludwigsburg EL 68 VI Nr 15661.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg/400px-Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg/800px-Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg/1200px-Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg/1920px-Kartenblatt_SW_XXII_1_Stand_1862_(nur_hohenzollerischer_Teil)_-_LABW_-_Staatsarchiv_Ludwigsburg_EL_68_VI_Nr_15661.jpg
 ---
 
 ## Overview

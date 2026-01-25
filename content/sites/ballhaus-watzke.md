@@ -1,27 +1,49 @@
 ---
-title: "Ballhaus Watzke"
+title: Ballhaus Watzke
 date: 2026-01-23
 draft: false
-description: "ballroom and restaurant in Dresden, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: ballroom and restaurant in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.0775
 longitude: 13.7157
-
-# Images
 images:
-  - "/images-sites/ballhaus-watzke/01-a02fb0ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg/1200px-Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/1200px-Ballhaus_Watzke_e.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg/1200px-20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/1200px-20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/1200px-20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+image_srcset:
+  Dresden, Pieschen, Watzke's Konzert- und Balletablissement, PKSHN 10015 (Page 1).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg/400px-Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg/800px-Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg/1200px-Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg/1920px-Dresden,_Pieschen,_Watzke's_Konzert-_und_Balletablissement,_PKSHN_10015_(Page_1).tif.jpg
+  Ballhaus Watzke e.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/400px-Ballhaus_Watzke_e.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/800px-Ballhaus_Watzke_e.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/1200px-Ballhaus_Watzke_e.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ballhaus_Watzke_e.jpg/1920px-Ballhaus_Watzke_e.jpg
+  20061231120DR Dresden-Pieschen-Mickten Ballhaus Watzke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg/400px-20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg/800px-20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg/1200px-20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg/1920px-20061231120DR_Dresden-Pieschen-Mickten_Ballhaus_Watzke.jpg
+  20070212045DR Dresden Ballhaus Watzke Kötzschenbroder Str 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/400px-20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/800px-20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/1200px-20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/1920px-20070212045DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+  20070212050DR Dresden Ballhaus Watzke Kötzschenbroder Str 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/400px-20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/800px-20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/1200px-20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg/1920px-20070212050DR_Dresden_Ballhaus_Watzke_Kötzschenbroder_Str_1.jpg
 ---
 
 ## Overview

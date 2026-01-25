@@ -1,21 +1,49 @@
 ---
-title: "Hamburger Öffentliche Bücherhallen"
+title: Hamburger Öffentliche Bücherhallen
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 53.549765
 longitude: 10.008336
 images:
-  - "/images-sites/hamburger-oeffentliche-buecherhallen/01-2cf9c31d-800w.webp"
-  - "/images-sites/hamburger-oeffentliche-buecherhallen/02-81befa23-800w.webp"
-  - "/images-sites/hamburger-oeffentliche-buecherhallen/03-3188e236-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hamburg_Hbf_lokomotywa_388.jpg/1200px-Hamburg_Hbf_lokomotywa_388.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hamburg_dawna_poczta_2.jpg/1200px-Hamburg_dawna_poczta_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg/1200px-BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg/1200px-Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bücherhalle_Hamburg-eTheke.jpg/1200px-Bücherhalle_Hamburg-eTheke.jpg
+image_srcset:
+  Hamburg Hbf lokomotywa 388.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hamburg_Hbf_lokomotywa_388.jpg/400px-Hamburg_Hbf_lokomotywa_388.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hamburg_Hbf_lokomotywa_388.jpg/800px-Hamburg_Hbf_lokomotywa_388.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hamburg_Hbf_lokomotywa_388.jpg/1200px-Hamburg_Hbf_lokomotywa_388.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hamburg_Hbf_lokomotywa_388.jpg/1920px-Hamburg_Hbf_lokomotywa_388.jpg
+  Hamburg dawna poczta 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hamburg_dawna_poczta_2.jpg/400px-Hamburg_dawna_poczta_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hamburg_dawna_poczta_2.jpg/800px-Hamburg_dawna_poczta_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hamburg_dawna_poczta_2.jpg/1200px-Hamburg_dawna_poczta_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hamburg_dawna_poczta_2.jpg/1920px-Hamburg_dawna_poczta_2.jpg
+  BBK Mobil Oil Hamburg - Hühnerposten 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg/400px-BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg/800px-BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg/1200px-BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg/1920px-BBK_Mobil_Oil_Hamburg_-_Hühnerposten_2.jpg
+  Projekt Heißluftballon - Highflyer -IMG-1427.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg/400px-Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg/800px-Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg/1200px-Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg/1920px-Projekt_Heißluftballon_-_Highflyer_-IMG-1427.jpg
+  Bücherhalle Hamburg-eTheke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bücherhalle_Hamburg-eTheke.jpg/400px-Bücherhalle_Hamburg-eTheke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bücherhalle_Hamburg-eTheke.jpg/800px-Bücherhalle_Hamburg-eTheke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bücherhalle_Hamburg-eTheke.jpg/1200px-Bücherhalle_Hamburg-eTheke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bücherhalle_Hamburg-eTheke.jpg/1920px-Bücherhalle_Hamburg-eTheke.jpg
 ---
 
 ## Overview

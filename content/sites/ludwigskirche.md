@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q895479"
 description: "In the heart of Darmstadt, Germany, the Ludwigskirche presents a striking example of Neoclassical architecture, capturing the attention of those who wan..."
 images:
-  - "/images-sites/ludwigskirche/01-5f369281-1920w.webp"
-  - "/images-sites/ludwigskirche/02-08479d2c-1920w.webp"
-  - "/images-sites/ludwigskirche/03-7722e664-1920w.webp"
+  - "/images/ludwigskirche/01-5f369281-1920w.webp"
+  - "/images/ludwigskirche/02-08479d2c-1920w.webp"
+  - "/images/ludwigskirche/03-7722e664-1920w.webp"
 ---
 
 ## Overview

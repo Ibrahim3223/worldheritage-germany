@@ -13,7 +13,7 @@ regions:
 latitude: 52.2528
 longitude: 13.9333
 images:
-  - "/images-sites/storkow-castle/01-c9a741ae-800w.webp"
+  - "/images/storkow-castle/01-c9a741ae-800w.webp"
 ---
 
 ## Overview

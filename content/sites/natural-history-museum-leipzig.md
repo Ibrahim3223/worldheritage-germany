@@ -13,7 +13,7 @@ regions:
 latitude: 51.3449
 longitude: 12.3709
 images:
-  - "/images-sites/natural-history-museum-leipzig/01-948397c7-800w.webp"
+  - "/images/natural-history-museum-leipzig/01-948397c7-800w.webp"
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Dieburg"
+title: Dieburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4933
 longitude: 7.92361
-
-# Images
 images:
-  - "/images-sites/dieburg/01-1949320e-800w.webp"
-  - "/images-sites/dieburg/02-a662ea77-800w.webp"
-  - "/images-sites/dieburg/03-aeac1c05-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2022KaufhausEndres.jpg/1200px-2022KaufhausEndres.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022Kapuzinerkloster.jpg/1200px-2022Kapuzinerkloster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2022Wendelinus-Kapelle.jpg/1200px-2022Wendelinus-Kapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_Dieburg.svg/1200px-Wappen_Dieburg.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marktplatz_Dieburg.jpg/1200px-Marktplatz_Dieburg.jpg
+image_srcset:
+  2022KaufhausEndres.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2022KaufhausEndres.jpg/400px-2022KaufhausEndres.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2022KaufhausEndres.jpg/800px-2022KaufhausEndres.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2022KaufhausEndres.jpg/1200px-2022KaufhausEndres.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2022KaufhausEndres.jpg/1920px-2022KaufhausEndres.jpg
+  2022Kapuzinerkloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022Kapuzinerkloster.jpg/400px-2022Kapuzinerkloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022Kapuzinerkloster.jpg/800px-2022Kapuzinerkloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022Kapuzinerkloster.jpg/1200px-2022Kapuzinerkloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2022Kapuzinerkloster.jpg/1920px-2022Kapuzinerkloster.jpg
+  2022Wendelinus-Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2022Wendelinus-Kapelle.jpg/400px-2022Wendelinus-Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2022Wendelinus-Kapelle.jpg/800px-2022Wendelinus-Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2022Wendelinus-Kapelle.jpg/1200px-2022Wendelinus-Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2022Wendelinus-Kapelle.jpg/1920px-2022Wendelinus-Kapelle.jpg
+  Wappen Dieburg.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_Dieburg.svg/400px-Wappen_Dieburg.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_Dieburg.svg/800px-Wappen_Dieburg.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_Dieburg.svg/1200px-Wappen_Dieburg.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wappen_Dieburg.svg/1920px-Wappen_Dieburg.svg.png
+  Marktplatz Dieburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marktplatz_Dieburg.jpg/400px-Marktplatz_Dieburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marktplatz_Dieburg.jpg/800px-Marktplatz_Dieburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marktplatz_Dieburg.jpg/1200px-Marktplatz_Dieburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Marktplatz_Dieburg.jpg/1920px-Marktplatz_Dieburg.jpg
 ---
 
 ## Overview

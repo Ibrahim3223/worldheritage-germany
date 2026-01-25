@@ -1,19 +1,49 @@
 ---
-title: "Erbach Palace"
+title: Erbach Palace
 date: 2026-01-23
 draft: false
-description: "a palace in Erbach im Odeneald"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: a palace in Erbach im Odeneald
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.6572
 longitude: 8.9925
 images:
-  - "/images-sites/erbach-palace/01-8de8db5f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1200px-20206021_Erbach-3.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erbach_Schloss_DSCN0175.JPG/1200px-Erbach_Schloss_DSCN0175.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Erbach_Schloss_DSCN0182.JPG/1200px-Erbach_Schloss_DSCN0182.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg/1200px-Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg
+image_srcset:
+  20206021 Erbach-3.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/400px-20206021_Erbach-3.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/800px-20206021_Erbach-3.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1200px-20206021_Erbach-3.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20206021_Erbach-3.tif.jpg/1920px-20206021_Erbach-3.tif.jpg
+  Erbach Schloss DSCN0175.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erbach_Schloss_DSCN0175.JPG/400px-Erbach_Schloss_DSCN0175.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erbach_Schloss_DSCN0175.JPG/800px-Erbach_Schloss_DSCN0175.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erbach_Schloss_DSCN0175.JPG/1200px-Erbach_Schloss_DSCN0175.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Erbach_Schloss_DSCN0175.JPG/1920px-Erbach_Schloss_DSCN0175.JPG
+  Erbach Schloss DSCN0182.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Erbach_Schloss_DSCN0182.JPG/400px-Erbach_Schloss_DSCN0182.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Erbach_Schloss_DSCN0182.JPG/800px-Erbach_Schloss_DSCN0182.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Erbach_Schloss_DSCN0182.JPG/1200px-Erbach_Schloss_DSCN0182.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Erbach_Schloss_DSCN0182.JPG/1920px-Erbach_Schloss_DSCN0182.JPG
+  Aerial image of the Erbach Palace (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Erbach_Palace_(view_from_the_southeast).jpg
+  Erbach Schloss Archivbau Turm Kreuz 100 IMG 20241110 1252.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg/400px-Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg/800px-Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg/1200px-Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg/1920px-Erbach_Schloss_Archivbau_Turm_Kreuz_100_IMG_20241110_1252.jpg
 ---
 
 ## Overview

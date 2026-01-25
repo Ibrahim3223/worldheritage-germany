@@ -1,19 +1,49 @@
 ---
-title: "Black Elster"
+title: Black Elster
 date: 2026-01-23
 draft: false
-description: "river in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8162
 longitude: 12.8324
 images:
-  - "/images-sites/black-elster/01-885cc020-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/J36_927_Neumühl,_Mühlgraben.jpg/1200px-J36_927_Neumühl,_Mühlgraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/J36_928_Hochpolgenerator_Neumühl.jpg/1200px-J36_928_Hochpolgenerator_Neumühl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg/1200px-J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg/1200px-Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schwarze_Elster_bei_Hoske.JPG/1200px-Schwarze_Elster_bei_Hoske.JPG
+image_srcset:
+  J36 927 Neumühl, Mühlgraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/J36_927_Neumühl,_Mühlgraben.jpg/400px-J36_927_Neumühl,_Mühlgraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/J36_927_Neumühl,_Mühlgraben.jpg/800px-J36_927_Neumühl,_Mühlgraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/J36_927_Neumühl,_Mühlgraben.jpg/1200px-J36_927_Neumühl,_Mühlgraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/J36_927_Neumühl,_Mühlgraben.jpg/1920px-J36_927_Neumühl,_Mühlgraben.jpg
+  J36 928 Hochpolgenerator Neumühl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/J36_928_Hochpolgenerator_Neumühl.jpg/400px-J36_928_Hochpolgenerator_Neumühl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/J36_928_Hochpolgenerator_Neumühl.jpg/800px-J36_928_Hochpolgenerator_Neumühl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/J36_928_Hochpolgenerator_Neumühl.jpg/1200px-J36_928_Hochpolgenerator_Neumühl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/J36_928_Hochpolgenerator_Neumühl.jpg/1920px-J36_928_Hochpolgenerator_Neumühl.jpg
+  J36 921 Schwarze Elster, Staustufe Neumühl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg/400px-J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg/800px-J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg/1200px-J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg/1920px-J36_921_Schwarze_Elster,_Staustufe_Neumühl.jpg
+  Wittichenau Kotten river mouth Klosterwasser in Schwarze Elster Aerial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg/400px-Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg/800px-Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg/1200px-Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg/1920px-Wittichenau_Kotten_river_mouth_Klosterwasser_in_Schwarze_Elster_Aerial.jpg
+  Schwarze Elster bei Hoske.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schwarze_Elster_bei_Hoske.JPG/400px-Schwarze_Elster_bei_Hoske.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schwarze_Elster_bei_Hoske.JPG/800px-Schwarze_Elster_bei_Hoske.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schwarze_Elster_bei_Hoske.JPG/1200px-Schwarze_Elster_bei_Hoske.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schwarze_Elster_bei_Hoske.JPG/1920px-Schwarze_Elster_bei_Hoske.JPG
 ---
 
 ## Overview

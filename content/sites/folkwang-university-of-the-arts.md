@@ -1,19 +1,49 @@
 ---
-title: "Folkwang University of the Arts"
+title: Folkwang University of the Arts
 date: 2026-01-24
 draft: false
-description: "German university for music, theater, dance, design, and academic studies"
-region: "Germany"
-country: "Germany"
-heritage_type: "University"
+description: German university for music, theater, dance, design, and academic studies
+region: Germany
+country: Germany
+heritage_type: University
 categories:
-  - "University"
+- University
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3875
 longitude: 7.00444
 images:
-  - "/images-sites/folkwang-university-of-the-arts/01-e519bf04-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg/1200px-Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg/1200px-Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1200px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Folkwang_Universität_der_Künste.jpg/1200px-Folkwang_Universität_der_Künste.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sanaa_Zollverein_school_1.jpg/1200px-Sanaa_Zollverein_school_1.jpg
+image_srcset:
+  Blick aus dem Sanaa Gebäude, Essen-Stoppenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg/400px-Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg/800px-Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg/1200px-Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg/1920px-Blick_aus_dem_Sanaa_Gebäude,_Essen-Stoppenberg.jpg
+  Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg/400px-Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg/800px-Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg/1200px-Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg/1920px-Sanaa-essen-Zollverein-School-of-Management-and-Design-220409-03.jpg
+  Essen Kloster Werden Innenhof 2 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/400px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/800px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1200px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Essen_Kloster_Werden_Innenhof_2_2005.jpg/1920px-Essen_Kloster_Werden_Innenhof_2_2005.jpg
+  Folkwang Universität der Künste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Folkwang_Universität_der_Künste.jpg/400px-Folkwang_Universität_der_Künste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Folkwang_Universität_der_Künste.jpg/800px-Folkwang_Universität_der_Künste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Folkwang_Universität_der_Künste.jpg/1200px-Folkwang_Universität_der_Künste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Folkwang_Universität_der_Künste.jpg/1920px-Folkwang_Universität_der_Künste.jpg
+  Sanaa Zollverein school 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sanaa_Zollverein_school_1.jpg/400px-Sanaa_Zollverein_school_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sanaa_Zollverein_school_1.jpg/800px-Sanaa_Zollverein_school_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sanaa_Zollverein_school_1.jpg/1200px-Sanaa_Zollverein_school_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sanaa_Zollverein_school_1.jpg/1920px-Sanaa_Zollverein_school_1.jpg
 ---
 
 ## Overview

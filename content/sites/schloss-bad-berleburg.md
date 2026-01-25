@@ -13,9 +13,9 @@ regions:
 latitude: 51.051444444
 longitude: 8.388472222
 images:
-  - "/images-sites/schloss-bad-berleburg/01-37188e94-800w.webp"
-  - "/images-sites/schloss-bad-berleburg/02-54056173-800w.webp"
-  - "/images-sites/schloss-bad-berleburg/03-a9a96c68-800w.webp"
+  - "/images/schloss-bad-berleburg/01-37188e94-800w.webp"
+  - "/images/schloss-bad-berleburg/02-54056173-800w.webp"
+  - "/images/schloss-bad-berleburg/03-a9a96c68-800w.webp"
 ---
 
 ## Overview

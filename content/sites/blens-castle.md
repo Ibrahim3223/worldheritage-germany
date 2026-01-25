@@ -1,19 +1,43 @@
 ---
-title: "Blens Castle"
+title: Blens Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6594
 longitude: 6.48306
 images:
-  - "/images-sites/blens-castle/01-12b33493-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Blens_004-.jpg/1200px-Burg_Blens_004-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg/1200px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg/1200px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg/1200px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg
+image_srcset:
+  Burg Blens 004-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Blens_004-.jpg/400px-Burg_Blens_004-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Blens_004-.jpg/800px-Burg_Blens_004-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Blens_004-.jpg/1200px-Burg_Blens_004-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Blens_004-.jpg/1920px-Burg_Blens_004-.jpg
+  Heimbach-Blens Denkmal-Nr. 60, St. Georgstraße 13 (556).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg/400px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg/800px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg/1200px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg/1920px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(556).jpg
+  Heimbach-Blens Denkmal-Nr. 60, St. Georgstraße 13 (557).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg/400px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg/800px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg/1200px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg/1920px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(557).jpg
+  Heimbach-Blens Denkmal-Nr. 60, St. Georgstraße 13 (555).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg/400px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg/800px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg/1200px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg/1920px-Heimbach-Blens_Denkmal-Nr._60,_St._Georgstraße_13_(555).jpg
 ---
 
 ## Overview

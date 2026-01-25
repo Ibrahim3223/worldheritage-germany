@@ -1,23 +1,50 @@
 ---
-title: "Guter Hirt"
-site_name: "Guter Hirt"
-slug: "guter-hirt"
-region: "Lower Saxony"
-
-# Location
+title: Guter Hirt
+site_name: Guter Hirt
+slug: guter-hirt
+region: Lower Saxony
 latitude: 52.1613
 longitude: 9.96662
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1342599"
-description: "In the heart of Hildesheim, Germany, stands Guter Hirt, a modern church building that invites contemplation and admiration. Its striking concrete struct..."
+- cultural site
+wikidata_id: Q1342599
+description: In the heart of Hildesheim, Germany, stands Guter Hirt, a modern church
+  building that invites contemplation and admiration. Its striking concrete struct...
 images:
-  - "/images-sites/guter-hirt/01-50e89fd5-1920w.webp"
-  - "/images-sites/guter-hirt/02-dc215f29-1920w.webp"
-  - "/images-sites/guter-hirt/03-e449766e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hildesheim%20Guter%20Hirt.jpg/1200px-Hildesheim%20Guter%20Hirt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Guter_Hirt_Altar.jpg/1200px-Guter_Hirt_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BuenPastorMurillo1660.jpg/1200px-BuenPastorMurillo1660.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guter_Hirt_Heilige.jpg/1200px-Guter_Hirt_Heilige.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Champaigne_shepherd.jpg/1200px-Champaigne_shepherd.jpg
+image_srcset:
+  Hildesheim%20Guter%20Hirt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hildesheim%20Guter%20Hirt.jpg/400px-Hildesheim%20Guter%20Hirt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hildesheim%20Guter%20Hirt.jpg/800px-Hildesheim%20Guter%20Hirt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hildesheim%20Guter%20Hirt.jpg/1200px-Hildesheim%20Guter%20Hirt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hildesheim%20Guter%20Hirt.jpg/1920px-Hildesheim%20Guter%20Hirt.jpg
+  Guter Hirt Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Guter_Hirt_Altar.jpg/400px-Guter_Hirt_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Guter_Hirt_Altar.jpg/800px-Guter_Hirt_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Guter_Hirt_Altar.jpg/1200px-Guter_Hirt_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Guter_Hirt_Altar.jpg/1920px-Guter_Hirt_Altar.jpg
+  BuenPastorMurillo1660.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BuenPastorMurillo1660.jpg/400px-BuenPastorMurillo1660.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BuenPastorMurillo1660.jpg/800px-BuenPastorMurillo1660.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BuenPastorMurillo1660.jpg/1200px-BuenPastorMurillo1660.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BuenPastorMurillo1660.jpg/1920px-BuenPastorMurillo1660.jpg
+  Guter Hirt Heilige.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guter_Hirt_Heilige.jpg/400px-Guter_Hirt_Heilige.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guter_Hirt_Heilige.jpg/800px-Guter_Hirt_Heilige.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guter_Hirt_Heilige.jpg/1200px-Guter_Hirt_Heilige.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Guter_Hirt_Heilige.jpg/1920px-Guter_Hirt_Heilige.jpg
+  Champaigne shepherd.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Champaigne_shepherd.jpg/400px-Champaigne_shepherd.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Champaigne_shepherd.jpg/800px-Champaigne_shepherd.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Champaigne_shepherd.jpg/1200px-Champaigne_shepherd.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Champaigne_shepherd.jpg/1920px-Champaigne_shepherd.jpg
 ---
 
 ## Overview

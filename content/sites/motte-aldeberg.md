@@ -21,7 +21,7 @@ longitude: 6.19595
 
 # Images
 images:
-  - "/images-sites/motte-aldeberg/02-6903f1ce-800w.webp"
+  - "/images/motte-aldeberg/02-6903f1ce-800w.webp"
 ---
 
 ## Overview

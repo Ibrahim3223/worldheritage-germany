@@ -13,8 +13,8 @@ regions:
 latitude: 49.481972222
 longitude: 7.031027777
 images:
-  - "/images-sites/the-philippi-collection/02-644f0157-800w.webp"
-  - "/images-sites/the-philippi-collection/03-c300a024-800w.webp"
+  - "/images/the-philippi-collection/02-644f0157-800w.webp"
+  - "/images/the-philippi-collection/03-c300a024-800w.webp"
 ---
 
 ## Overview

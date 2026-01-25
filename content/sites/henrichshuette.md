@@ -1,19 +1,49 @@
 ---
-title: "Henrichshütte"
+title: Henrichshütte
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4075
 longitude: 7.188333333
 images:
-  - "/images-sites/henrichshuette/01-716993c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hattingen-Eisenmänner_im_Henrichspark_04.jpg/1200px-Hattingen-Eisenmänner_im_Henrichspark_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hattingen-Eisenmänner_im_Henrichspark_03.jpg/1200px-Hattingen-Eisenmänner_im_Henrichspark_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cupola-Prototyp_in_Hattingen.jpg/1200px-Cupola-Prototyp_in_Hattingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1200px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hattingen-Eisenmänner_im_Henrichspark_02.jpg/1200px-Hattingen-Eisenmänner_im_Henrichspark_02.jpg
+image_srcset:
+  Hattingen-Eisenmänner im Henrichspark 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hattingen-Eisenmänner_im_Henrichspark_04.jpg/400px-Hattingen-Eisenmänner_im_Henrichspark_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hattingen-Eisenmänner_im_Henrichspark_04.jpg/800px-Hattingen-Eisenmänner_im_Henrichspark_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hattingen-Eisenmänner_im_Henrichspark_04.jpg/1200px-Hattingen-Eisenmänner_im_Henrichspark_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hattingen-Eisenmänner_im_Henrichspark_04.jpg/1920px-Hattingen-Eisenmänner_im_Henrichspark_04.jpg
+  Hattingen-Eisenmänner im Henrichspark 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hattingen-Eisenmänner_im_Henrichspark_03.jpg/400px-Hattingen-Eisenmänner_im_Henrichspark_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hattingen-Eisenmänner_im_Henrichspark_03.jpg/800px-Hattingen-Eisenmänner_im_Henrichspark_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hattingen-Eisenmänner_im_Henrichspark_03.jpg/1200px-Hattingen-Eisenmänner_im_Henrichspark_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hattingen-Eisenmänner_im_Henrichspark_03.jpg/1920px-Hattingen-Eisenmänner_im_Henrichspark_03.jpg
+  Cupola-Prototyp in Hattingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cupola-Prototyp_in_Hattingen.jpg/400px-Cupola-Prototyp_in_Hattingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cupola-Prototyp_in_Hattingen.jpg/800px-Cupola-Prototyp_in_Hattingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cupola-Prototyp_in_Hattingen.jpg/1200px-Cupola-Prototyp_in_Hattingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cupola-Prototyp_in_Hattingen.jpg/1920px-Cupola-Prototyp_in_Hattingen.jpg
+  Hattingen - Henrichshütte (Hochofen 3) 11 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/400px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/800px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1200px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg/1920px-Hattingen_-_Henrichshütte_(Hochofen_3)_11_ies.jpg
+  Hattingen-Eisenmänner im Henrichspark 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hattingen-Eisenmänner_im_Henrichspark_02.jpg/400px-Hattingen-Eisenmänner_im_Henrichspark_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hattingen-Eisenmänner_im_Henrichspark_02.jpg/800px-Hattingen-Eisenmänner_im_Henrichspark_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hattingen-Eisenmänner_im_Henrichspark_02.jpg/1200px-Hattingen-Eisenmänner_im_Henrichspark_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hattingen-Eisenmänner_im_Henrichspark_02.jpg/1920px-Hattingen-Eisenmänner_im_Henrichspark_02.jpg
 ---
 
 ## Overview

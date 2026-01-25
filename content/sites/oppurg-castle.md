@@ -13,7 +13,7 @@ regions:
 latitude: 50.7142
 longitude: 11.6539
 images:
-  - "/images-sites/oppurg-castle/01-9e30b917-800w.webp"
+  - "/images/oppurg-castle/01-9e30b917-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Grindelhochhäuser"
+title: Grindelhochhäuser
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.57472222
 longitude: 9.97972222
 images:
-  - "/images-sites/grindelhochhaeuser/01-20602419-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2025-03-31-Grindelhochhaeuser-5.jpg/1200px-2025-03-31-Grindelhochhaeuser-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-03-31-Grindelhochhaeuser-1.jpg/1200px-2025-03-31-Grindelhochhaeuser-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-03-31-Grindelhochhaeuser-7.jpg/1200px-2025-03-31-Grindelhochhaeuser-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/1200px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grindelhochhaus2.poupou.jpg/1200px-Grindelhochhaus2.poupou.jpg
+image_srcset:
+  2025-03-31-Grindelhochhaeuser-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2025-03-31-Grindelhochhaeuser-5.jpg/400px-2025-03-31-Grindelhochhaeuser-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2025-03-31-Grindelhochhaeuser-5.jpg/800px-2025-03-31-Grindelhochhaeuser-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2025-03-31-Grindelhochhaeuser-5.jpg/1200px-2025-03-31-Grindelhochhaeuser-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2025-03-31-Grindelhochhaeuser-5.jpg/1920px-2025-03-31-Grindelhochhaeuser-5.jpg
+  2025-03-31-Grindelhochhaeuser-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-03-31-Grindelhochhaeuser-1.jpg/400px-2025-03-31-Grindelhochhaeuser-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-03-31-Grindelhochhaeuser-1.jpg/800px-2025-03-31-Grindelhochhaeuser-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-03-31-Grindelhochhaeuser-1.jpg/1200px-2025-03-31-Grindelhochhaeuser-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2025-03-31-Grindelhochhaeuser-1.jpg/1920px-2025-03-31-Grindelhochhaeuser-1.jpg
+  2025-03-31-Grindelhochhaeuser-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-03-31-Grindelhochhaeuser-7.jpg/400px-2025-03-31-Grindelhochhaeuser-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-03-31-Grindelhochhaeuser-7.jpg/800px-2025-03-31-Grindelhochhaeuser-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-03-31-Grindelhochhaeuser-7.jpg/1200px-2025-03-31-Grindelhochhaeuser-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-03-31-Grindelhochhaeuser-7.jpg/1920px-2025-03-31-Grindelhochhaeuser-7.jpg
+  Grindelhochhäuser (Hamburg-Eimsbüttel).phb.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/400px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/800px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/1200px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg/1920px-Grindelhochhäuser_(Hamburg-Eimsbüttel).phb.ajb.jpg
+  Grindelhochhaus2.poupou.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grindelhochhaus2.poupou.jpg/400px-Grindelhochhaus2.poupou.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grindelhochhaus2.poupou.jpg/800px-Grindelhochhaus2.poupou.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grindelhochhaus2.poupou.jpg/1200px-Grindelhochhaus2.poupou.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grindelhochhaus2.poupou.jpg/1920px-Grindelhochhaus2.poupou.jpg
 ---
 
 ## Overview

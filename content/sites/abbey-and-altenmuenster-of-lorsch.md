@@ -1,19 +1,49 @@
 ---
-title: "Abbey and Altenmünster of Lorsch"
+title: Abbey and Altenmünster of Lorsch
 date: 2026-01-23
 draft: false
-description: "UNESCO World Heritage Abbey of Lorsch in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: UNESCO World Heritage Abbey of Lorsch in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.653888888
 longitude: 8.568888888
 images:
-  - "/images-sites/abbey-and-altenmuenster-of-lorsch/01-bbe49136-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kloster_Lorsch_06.jpg/1200px-Kloster_Lorsch_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lorsch_ChurchFragment_017_1624.jpg/1200px-Lorsch_ChurchFragment_017_1624.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg/1200px-Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg/1200px-Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1200px-Lorsch.jpg
+image_srcset:
+  Kloster Lorsch 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kloster_Lorsch_06.jpg/400px-Kloster_Lorsch_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kloster_Lorsch_06.jpg/800px-Kloster_Lorsch_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kloster_Lorsch_06.jpg/1200px-Kloster_Lorsch_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kloster_Lorsch_06.jpg/1920px-Kloster_Lorsch_06.jpg
+  Lorsch ChurchFragment 017 1624.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lorsch_ChurchFragment_017_1624.jpg/400px-Lorsch_ChurchFragment_017_1624.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lorsch_ChurchFragment_017_1624.jpg/800px-Lorsch_ChurchFragment_017_1624.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lorsch_ChurchFragment_017_1624.jpg/1200px-Lorsch_ChurchFragment_017_1624.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Lorsch_ChurchFragment_017_1624.jpg/1920px-Lorsch_ChurchFragment_017_1624.jpg
+  Kloster Lorsch ehemalige Klosterkirche (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg/400px-Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg/800px-Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg/1200px-Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg/1920px-Kloster_Lorsch_ehemalige_Klosterkirche_(7).jpg
+  Geo-Naturpark Bergstraße-Odenwald, Baum auf dem Klostergelände Lorsch 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg/400px-Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg/800px-Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg/1200px-Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg/1920px-Geo-Naturpark_Bergstraße-Odenwald,_Baum_auf_dem_Klostergelände_Lorsch_01.jpg
+  Lorsch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/400px-Lorsch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/800px-Lorsch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1200px-Lorsch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lorsch.jpg/1920px-Lorsch.jpg
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Gedenkstätte für Revolutionäre Rote Matrosen"
+title: Gedenkstätte für Revolutionäre Rote Matrosen
 date: 2026-01-23
 draft: false
-description: "Memorial in Rostock, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Memorial in Rostock, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 54.094114
 longitude: 12.112734
 images:
-  - "/images-sites/gedenkstaette-fuer-revolutionaere-rote-matrosen/02-0cdf697d-800w.webp"
-  - "/images-sites/gedenkstaette-fuer-revolutionaere-rote-matrosen/03-3555048a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg/1200px-Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rostock_Hafen,_Kräne,_1994_(3297750293).jpg/1200px-Rostock_Hafen,_Kräne,_1994_(3297750293).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
+image_srcset:
+  Rostock Gedenkstätte revolutionärer Matrosen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG/400px-Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG/800px-Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen.JPG
+  Rostock Matrosendenkmal Hansa-Protest 2012-04-30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg/400px-Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg/800px-Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg/1200px-Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg/1920px-Rostock_Matrosendenkmal_Hansa-Protest_2012-04-30.jpg
+  Rostock Hafen, Kräne, 1994 (3297750293).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rostock_Hafen,_Kräne,_1994_(3297750293).jpg/400px-Rostock_Hafen,_Kräne,_1994_(3297750293).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rostock_Hafen,_Kräne,_1994_(3297750293).jpg/800px-Rostock_Hafen,_Kräne,_1994_(3297750293).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rostock_Hafen,_Kräne,_1994_(3297750293).jpg/1200px-Rostock_Hafen,_Kräne,_1994_(3297750293).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rostock_Hafen,_Kräne,_1994_(3297750293).jpg/1920px-Rostock_Hafen,_Kräne,_1994_(3297750293).jpg
+  Rostock Gedenkstätte revolutionärer Matrosen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg/400px-Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg/800px-Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen_1.jpg
+  Rostock Gedenkstätte revolutionärer Matrosen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/400px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/800px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1200px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg/1920px-Rostock_Gedenkstätte_revolutionärer_Matrosen_2.jpg
 ---
 
 ## Overview

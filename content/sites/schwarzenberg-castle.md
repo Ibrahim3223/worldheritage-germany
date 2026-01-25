@@ -13,7 +13,7 @@ regions:
 latitude: 50.5373
 longitude: 12.7874
 images:
-  - "/images-sites/schwarzenberg-castle/01-1dcb86c4-800w.webp"
+  - "/images/schwarzenberg-castle/01-1dcb86c4-800w.webp"
 ---
 
 ## Overview

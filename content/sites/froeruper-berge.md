@@ -1,21 +1,49 @@
 ---
-title: "Fröruper Berge"
+title: Fröruper Berge
 date: 2026-01-23
 draft: false
-description: "former nature reserve in Oeversee, Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: former nature reserve in Oeversee, Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6833
 longitude: 9.45611
 images:
-  - "/images-sites/froeruper-berge/01-01ee0cf9-800w.webp"
-  - "/images-sites/froeruper-berge/02-0aa258a9-800w.webp"
-  - "/images-sites/froeruper-berge/03-a5eb5483-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg/1200px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg/1200px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg/1200px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG/1200px-Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frørup_Bjerge_1.jpg/1200px-Frørup_Bjerge_1.jpg
+image_srcset:
+  FFH-Gebiet Wald-, Moor- und Heidelandschaft der Fröruper Berge und Umgebung 03 (1 von 5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg/400px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg/800px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg/1200px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg/1920px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(1_von_5).jpg
+  FFH-Gebiet Wald-, Moor- und Heidelandschaft der Fröruper Berge und Umgebung 03 (2 von 5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg/400px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg/800px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg/1200px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg/1920px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(2_von_5).jpg
+  FFH-Gebiet Wald-, Moor- und Heidelandschaft der Fröruper Berge und Umgebung 03 (3 von 5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg/400px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg/800px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg/1200px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg/1920px-FFH-Gebiet_Wald-,_Moor-_und_Heidelandschaft_der_Fröruper_Berge_und_Umgebung_03_(3_von_5).jpg
+  Naturschutzgebiet Fröruper Berge in Schleswig-Holstein im Kreis Schleswig-Flensburg in Oeversee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG/400px-Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG/800px-Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG/1200px-Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG/1920px-Naturschutzgebiet_Fröruper_Berge_in_Schleswig-Holstein_im_Kreis_Schleswig-Flensburg_in_Oeversee.JPG
+  Frørup Bjerge 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frørup_Bjerge_1.jpg/400px-Frørup_Bjerge_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frørup_Bjerge_1.jpg/800px-Frørup_Bjerge_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frørup_Bjerge_1.jpg/1200px-Frørup_Bjerge_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Frørup_Bjerge_1.jpg/1920px-Frørup_Bjerge_1.jpg
 ---
 
 ## Overview

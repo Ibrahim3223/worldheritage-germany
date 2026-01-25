@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q878307"
 description: "In the heart of Husum, Germany, the Our Lady Church stands as a striking example of Neoclassical architecture, inviting visitors to explore its rich his..."
 images:
-  - "/images-sites/our-lady-church-husum/01-b9480cf1-1920w.webp"
-  - "/images-sites/our-lady-church-husum/02-b7308d05-1920w.webp"
-  - "/images-sites/our-lady-church-husum/03-39e41d9a-1920w.webp"
+  - "/images/our-lady-church-husum/01-b9480cf1-1920w.webp"
+  - "/images/our-lady-church-husum/02-b7308d05-1920w.webp"
+  - "/images/our-lady-church-husum/03-39e41d9a-1920w.webp"
 ---
 
 ## Overview

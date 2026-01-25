@@ -1,23 +1,50 @@
 ---
-title: "Bassenheimer Hof"
-site_name: "Bassenheimer Hof"
-slug: "bassenheimer-hof"
-region: "Hesse"
-
-# Location
+title: Bassenheimer Hof
+site_name: Bassenheimer Hof
+slug: bassenheimer-hof
+region: Hesse
 latitude: 49.9978
 longitude: 8.26778
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q810492"
-description: "In the heart of Mainz, Germany, stands the Bassenheimer Hof, an exquisite example of Baroque architecture that captures the imagination of all who visit..."
+- cultural site
+wikidata_id: Q810492
+description: In the heart of Mainz, Germany, stands the Bassenheimer Hof, an exquisite
+  example of Baroque architecture that captures the imagination of all who visit...
 images:
-  - "/images-sites/bassenheimer-hof/01-bccc32dc-1920w.webp"
-  - "/images-sites/bassenheimer-hof/02-d157c6dc-1920w.webp"
-  - "/images-sites/bassenheimer-hof/03-fb237896-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mainz%20Bassenheimer%20Hof.jpg/1200px-Mainz%20Bassenheimer%20Hof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/1200px-Mainz_Bassenheimer_Hof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bassenheimer_Hof_Mainz_2023-04-27.jpg/1200px-Bassenheimer_Hof_Mainz_2023-04-27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palais_Bassenheim.jpg/1200px-Palais_Bassenheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mainz_Bassenheimer_Hof_Relief.jpg/1200px-Mainz_Bassenheimer_Hof_Relief.jpg
+image_srcset:
+  Mainz%20Bassenheimer%20Hof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mainz%20Bassenheimer%20Hof.jpg/400px-Mainz%20Bassenheimer%20Hof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mainz%20Bassenheimer%20Hof.jpg/800px-Mainz%20Bassenheimer%20Hof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mainz%20Bassenheimer%20Hof.jpg/1200px-Mainz%20Bassenheimer%20Hof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mainz%20Bassenheimer%20Hof.jpg/1920px-Mainz%20Bassenheimer%20Hof.jpg
+  Mainz Bassenheimer Hof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/400px-Mainz_Bassenheimer_Hof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/800px-Mainz_Bassenheimer_Hof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/1200px-Mainz_Bassenheimer_Hof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mainz_Bassenheimer_Hof.jpg/1920px-Mainz_Bassenheimer_Hof.jpg
+  Bassenheimer Hof Mainz 2023-04-27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bassenheimer_Hof_Mainz_2023-04-27.jpg/400px-Bassenheimer_Hof_Mainz_2023-04-27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bassenheimer_Hof_Mainz_2023-04-27.jpg/800px-Bassenheimer_Hof_Mainz_2023-04-27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bassenheimer_Hof_Mainz_2023-04-27.jpg/1200px-Bassenheimer_Hof_Mainz_2023-04-27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bassenheimer_Hof_Mainz_2023-04-27.jpg/1920px-Bassenheimer_Hof_Mainz_2023-04-27.jpg
+  Palais Bassenheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palais_Bassenheim.jpg/400px-Palais_Bassenheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palais_Bassenheim.jpg/800px-Palais_Bassenheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palais_Bassenheim.jpg/1200px-Palais_Bassenheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palais_Bassenheim.jpg/1920px-Palais_Bassenheim.jpg
+  Mainz Bassenheimer Hof Relief.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mainz_Bassenheimer_Hof_Relief.jpg/400px-Mainz_Bassenheimer_Hof_Relief.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mainz_Bassenheimer_Hof_Relief.jpg/800px-Mainz_Bassenheimer_Hof_Relief.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mainz_Bassenheimer_Hof_Relief.jpg/1200px-Mainz_Bassenheimer_Hof_Relief.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mainz_Bassenheimer_Hof_Relief.jpg/1920px-Mainz_Bassenheimer_Hof_Relief.jpg
 ---
 
 ## Overview

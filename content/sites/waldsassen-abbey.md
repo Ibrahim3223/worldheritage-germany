@@ -13,7 +13,7 @@ regions:
 latitude: 50.004105821
 longitude: 12.309321121
 images:
-  - "/images-sites/waldsassen-abbey/01-8f1517aa-800w.webp"
+  - "/images/waldsassen-abbey/01-8f1517aa-800w.webp"
 ---
 
 ## Overview

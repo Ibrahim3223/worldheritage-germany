@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1680439"
 description: "In the heart of Kleve, Germany, stands St. Willibrord, an architectural gem that showcases the intricacies of Brick Gothic design. This church building,..."
 images:
-  - "/images-sites/st-willibrord/01-ced5be93-1920w.webp"
-  - "/images-sites/st-willibrord/02-0b39e2ac-1920w.webp"
-  - "/images-sites/st-willibrord/03-be41ccf9-1920w.webp"
+  - "/images/st-willibrord/01-ced5be93-1920w.webp"
+  - "/images/st-willibrord/02-0b39e2ac-1920w.webp"
+  - "/images/st-willibrord/03-be41ccf9-1920w.webp"
 ---
 
 ## Overview

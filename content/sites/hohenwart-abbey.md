@@ -1,19 +1,31 @@
 ---
-title: "Hohenwart Abbey"
+title: Hohenwart Abbey
 date: 2026-01-23
 draft: false
-description: "nunnery in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: nunnery in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.597405555
 longitude: 11.375802777
 images:
-  - "/images-sites/hohenwart-abbey/01-279ee01b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hohenwart_salbuch_1471.jpg/1200px-Hohenwart_salbuch_1471.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_Hohenwart_innen.jpg/1200px-Kloster_Hohenwart_innen.jpg
+image_srcset:
+  Hohenwart salbuch 1471.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hohenwart_salbuch_1471.jpg/400px-Hohenwart_salbuch_1471.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hohenwart_salbuch_1471.jpg/800px-Hohenwart_salbuch_1471.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hohenwart_salbuch_1471.jpg/1200px-Hohenwart_salbuch_1471.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hohenwart_salbuch_1471.jpg/1920px-Hohenwart_salbuch_1471.jpg
+  Kloster Hohenwart innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_Hohenwart_innen.jpg/400px-Kloster_Hohenwart_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_Hohenwart_innen.jpg/800px-Kloster_Hohenwart_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_Hohenwart_innen.jpg/1200px-Kloster_Hohenwart_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_Hohenwart_innen.jpg/1920px-Kloster_Hohenwart_innen.jpg
 ---
 
 ## Overview

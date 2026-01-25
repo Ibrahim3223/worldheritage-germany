@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q186259"
 description: "Liebfrauenkirche Halberstadt, an exquisite example of Romanesque architecture, invites visitors to explore its historical significance and architectural..."
 images:
-  - "/images-sites/liebfrauenkirche-halberstadt/01-74692f01-1920w.webp"
-  - "/images-sites/liebfrauenkirche-halberstadt/02-9d443d7f-1920w.webp"
-  - "/images-sites/liebfrauenkirche-halberstadt/03-420f7b65-1920w.webp"
+  - "/images/liebfrauenkirche-halberstadt/01-74692f01-1920w.webp"
+  - "/images/liebfrauenkirche-halberstadt/02-9d443d7f-1920w.webp"
+  - "/images/liebfrauenkirche-halberstadt/03-420f7b65-1920w.webp"
 ---
 
 ## Overview

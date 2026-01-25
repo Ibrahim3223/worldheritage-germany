@@ -13,7 +13,7 @@ regions:
 latitude: 47.91972222
 longitude: 8.085
 images:
-  - "/images-sites/ravenna-gorge/01-41b4cb6b-800w.webp"
+  - "/images/ravenna-gorge/01-41b4cb6b-800w.webp"
 ---
 
 ## Overview

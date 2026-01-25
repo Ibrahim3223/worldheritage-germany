@@ -21,7 +21,7 @@ longitude: 10.08038
 
 # Images
 images:
-  - "/images-sites/stiftunglife/01-e9183bc5-800w.webp"
+  - "/images/stiftunglife/01-e9183bc5-800w.webp"
 ---
 
 ## Overview

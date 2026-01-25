@@ -1,21 +1,49 @@
 ---
-title: "Gut Hasselburg"
+title: Gut Hasselburg
 date: 2026-01-23
 draft: false
-description: "denkmalgeschützte Gutshofanlage in Altenkrempe"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: denkmalgeschützte Gutshofanlage in Altenkrempe
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.140279
 longitude: 10.816014
 images:
-  - "/images-sites/gut-hasselburg/01-d9560bc4-800w.webp"
-  - "/images-sites/gut-hasselburg/02-7bc97ba1-800w.webp"
-  - "/images-sites/gut-hasselburg/03-42ac64f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg/1200px-Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Das_Herrenhaus_von_Gut_Hasselburg.jpg/1200px-Das_Herrenhaus_von_Gut_Hasselburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gut_Hasselburg,_Mai_2018a.jpg/1200px-Gut_Hasselburg,_Mai_2018a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gut_Hasselburg,_Mai_2018g.jpg/1200px-Gut_Hasselburg,_Mai_2018g.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/KGHHerrenhaus.jpg/1200px-KGHHerrenhaus.jpg
+image_srcset:
+  Gut Hasselburg, Blick vom Burggraben auf die Reetscheune.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg/400px-Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg/800px-Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg/1200px-Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg/1920px-Gut_Hasselburg,_Blick_vom_Burggraben_auf_die_Reetscheune.jpg
+  Das Herrenhaus von Gut Hasselburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Das_Herrenhaus_von_Gut_Hasselburg.jpg/400px-Das_Herrenhaus_von_Gut_Hasselburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Das_Herrenhaus_von_Gut_Hasselburg.jpg/800px-Das_Herrenhaus_von_Gut_Hasselburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Das_Herrenhaus_von_Gut_Hasselburg.jpg/1200px-Das_Herrenhaus_von_Gut_Hasselburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Das_Herrenhaus_von_Gut_Hasselburg.jpg/1920px-Das_Herrenhaus_von_Gut_Hasselburg.jpg
+  Gut Hasselburg, Mai 2018a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gut_Hasselburg,_Mai_2018a.jpg/400px-Gut_Hasselburg,_Mai_2018a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gut_Hasselburg,_Mai_2018a.jpg/800px-Gut_Hasselburg,_Mai_2018a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gut_Hasselburg,_Mai_2018a.jpg/1200px-Gut_Hasselburg,_Mai_2018a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gut_Hasselburg,_Mai_2018a.jpg/1920px-Gut_Hasselburg,_Mai_2018a.jpg
+  Gut Hasselburg, Mai 2018g.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gut_Hasselburg,_Mai_2018g.jpg/400px-Gut_Hasselburg,_Mai_2018g.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gut_Hasselburg,_Mai_2018g.jpg/800px-Gut_Hasselburg,_Mai_2018g.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gut_Hasselburg,_Mai_2018g.jpg/1200px-Gut_Hasselburg,_Mai_2018g.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gut_Hasselburg,_Mai_2018g.jpg/1920px-Gut_Hasselburg,_Mai_2018g.jpg
+  KGHHerrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/KGHHerrenhaus.jpg/400px-KGHHerrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/KGHHerrenhaus.jpg/800px-KGHHerrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/KGHHerrenhaus.jpg/1200px-KGHHerrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/KGHHerrenhaus.jpg/1920px-KGHHerrenhaus.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.949444444
 longitude: 13.200277777
 images:
-  - "/images-sites/rinchnach-priory/01-5c8927f5-800w.webp"
+  - "/images/rinchnach-priory/01-5c8927f5-800w.webp"
 ---
 
 ## Overview

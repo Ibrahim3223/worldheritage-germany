@@ -21,7 +21,7 @@ longitude: 11.4638686
 
 # Images
 images:
-  - "/images-sites/plassenburg/01-cb6bf43e-800w.webp"
+  - "/images/plassenburg/01-cb6bf43e-800w.webp"
 ---
 
 ## Overview

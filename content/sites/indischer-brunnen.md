@@ -1,19 +1,49 @@
 ---
-title: "Indischer Brunnen"
+title: Indischer Brunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Berlin-Kreuzberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Berlin-Kreuzberg
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 52.504761111
 longitude: 13.417536111
 images:
-  - "/images-sites/indischer-brunnen/01-987305cf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg/1200px-Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berlin,_Germany_(April_2016)_-_028.JPG/1200px-Berlin,_Germany_(April_2016)_-_028.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg/1200px-Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg/1200px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg/1200px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg
+image_srcset:
+  Brunnen Engelbecken (Mitte) Indischer Brunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg/400px-Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg/800px-Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg/1200px-Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg/1920px-Brunnen_Engelbecken_(Mitte)_Indischer_Brunnen.jpg
+  Berlin, Germany (April 2016) - 028.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berlin,_Germany_(April_2016)_-_028.JPG/400px-Berlin,_Germany_(April_2016)_-_028.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berlin,_Germany_(April_2016)_-_028.JPG/800px-Berlin,_Germany_(April_2016)_-_028.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berlin,_Germany_(April_2016)_-_028.JPG/1200px-Berlin,_Germany_(April_2016)_-_028.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berlin,_Germany_(April_2016)_-_028.JPG/1920px-Berlin,_Germany_(April_2016)_-_028.JPG
+  Brunnen in Berlin-Mitte, Indischer Brunnen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg/400px-Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg/800px-Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg/1200px-Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg/1920px-Brunnen_in_Berlin-Mitte,_Indischer_Brunnen_2.jpg
+  Indischer Brunnen im Rosengarten im Luisenstädtischen Kanal (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg/400px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg/800px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg/1200px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg/1920px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(1).jpg
+  Indischer Brunnen im Rosengarten im Luisenstädtischen Kanal (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg/400px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg/800px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg/1200px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg/1920px-Indischer_Brunnen_im_Rosengarten_im_Luisenstädtischen_Kanal_(2).jpg
 ---
 
 ## Overview

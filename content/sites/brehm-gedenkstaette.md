@@ -1,21 +1,49 @@
 ---
-title: "Brehm-Gedenkstätte"
+title: Brehm-Gedenkstätte
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.80677
 longitude: 11.84697
 images:
-  - "/images-sites/brehm-gedenkstaette/01-329d0e6a-800w.webp"
-  - "/images-sites/brehm-gedenkstaette/02-8b2bb2cb-800w.webp"
-  - "/images-sites/brehm-gedenkstaette/03-4efcb5e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brehm-Gedenkstätte_1.jpg/1200px-Brehm-Gedenkstätte_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1200px-Brehm-Gedenkstätte_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Brehm-Gedenkstätte_4.jpg/1200px-Brehm-Gedenkstätte_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Renthendorf_Brehm_Tafel.JPG/1200px-Renthendorf_Brehm_Tafel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brehm-gedenkstaette.jpg/1200px-Brehm-gedenkstaette.jpg
+image_srcset:
+  Brehm-Gedenkstätte 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brehm-Gedenkstätte_1.jpg/400px-Brehm-Gedenkstätte_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brehm-Gedenkstätte_1.jpg/800px-Brehm-Gedenkstätte_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brehm-Gedenkstätte_1.jpg/1200px-Brehm-Gedenkstätte_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brehm-Gedenkstätte_1.jpg/1920px-Brehm-Gedenkstätte_1.jpg
+  Brehm-Gedenkstätte 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/400px-Brehm-Gedenkstätte_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/800px-Brehm-Gedenkstätte_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1200px-Brehm-Gedenkstätte_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Brehm-Gedenkstätte_2.jpg/1920px-Brehm-Gedenkstätte_2.jpg
+  Brehm-Gedenkstätte 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Brehm-Gedenkstätte_4.jpg/400px-Brehm-Gedenkstätte_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Brehm-Gedenkstätte_4.jpg/800px-Brehm-Gedenkstätte_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Brehm-Gedenkstätte_4.jpg/1200px-Brehm-Gedenkstätte_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Brehm-Gedenkstätte_4.jpg/1920px-Brehm-Gedenkstätte_4.jpg
+  Renthendorf Brehm Tafel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Renthendorf_Brehm_Tafel.JPG/400px-Renthendorf_Brehm_Tafel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Renthendorf_Brehm_Tafel.JPG/800px-Renthendorf_Brehm_Tafel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Renthendorf_Brehm_Tafel.JPG/1200px-Renthendorf_Brehm_Tafel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Renthendorf_Brehm_Tafel.JPG/1920px-Renthendorf_Brehm_Tafel.JPG
+  Brehm-gedenkstaette.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brehm-gedenkstaette.jpg/400px-Brehm-gedenkstaette.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brehm-gedenkstaette.jpg/800px-Brehm-gedenkstaette.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brehm-gedenkstaette.jpg/1200px-Brehm-gedenkstaette.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brehm-gedenkstaette.jpg/1920px-Brehm-gedenkstaette.jpg
 ---
 
 ## Overview

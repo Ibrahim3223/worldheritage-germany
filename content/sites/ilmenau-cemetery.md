@@ -1,19 +1,49 @@
 ---
-title: "Ilmenau Cemetery"
+title: Ilmenau Cemetery
 date: 2026-01-23
 draft: false
-description: "main cemetery in Ilmenau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: main cemetery in Ilmenau, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6892
 longitude: 10.9114
 images:
-  - "/images-sites/ilmenau-cemetery/01-ce2a0a82-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cemetery_Ilmenau_1.jpg/1200px-Cemetery_Ilmenau_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cemetery_Ilmenau_17.jpg/1200px-Cemetery_Ilmenau_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cemetery_Ilmenau_25.jpg/1200px-Cemetery_Ilmenau_25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cemetery_Ilmenau_27.jpg/1200px-Cemetery_Ilmenau_27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grab_Johann_Gottfried_Leffler_Ilmenau.JPG/1200px-Grab_Johann_Gottfried_Leffler_Ilmenau.JPG
+image_srcset:
+  Cemetery Ilmenau 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cemetery_Ilmenau_1.jpg/400px-Cemetery_Ilmenau_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cemetery_Ilmenau_1.jpg/800px-Cemetery_Ilmenau_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cemetery_Ilmenau_1.jpg/1200px-Cemetery_Ilmenau_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cemetery_Ilmenau_1.jpg/1920px-Cemetery_Ilmenau_1.jpg
+  Cemetery Ilmenau 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cemetery_Ilmenau_17.jpg/400px-Cemetery_Ilmenau_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cemetery_Ilmenau_17.jpg/800px-Cemetery_Ilmenau_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cemetery_Ilmenau_17.jpg/1200px-Cemetery_Ilmenau_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cemetery_Ilmenau_17.jpg/1920px-Cemetery_Ilmenau_17.jpg
+  Cemetery Ilmenau 25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cemetery_Ilmenau_25.jpg/400px-Cemetery_Ilmenau_25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cemetery_Ilmenau_25.jpg/800px-Cemetery_Ilmenau_25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cemetery_Ilmenau_25.jpg/1200px-Cemetery_Ilmenau_25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cemetery_Ilmenau_25.jpg/1920px-Cemetery_Ilmenau_25.jpg
+  Cemetery Ilmenau 27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cemetery_Ilmenau_27.jpg/400px-Cemetery_Ilmenau_27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cemetery_Ilmenau_27.jpg/800px-Cemetery_Ilmenau_27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cemetery_Ilmenau_27.jpg/1200px-Cemetery_Ilmenau_27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cemetery_Ilmenau_27.jpg/1920px-Cemetery_Ilmenau_27.jpg
+  Grab Johann Gottfried Leffler Ilmenau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grab_Johann_Gottfried_Leffler_Ilmenau.JPG/400px-Grab_Johann_Gottfried_Leffler_Ilmenau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grab_Johann_Gottfried_Leffler_Ilmenau.JPG/800px-Grab_Johann_Gottfried_Leffler_Ilmenau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grab_Johann_Gottfried_Leffler_Ilmenau.JPG/1200px-Grab_Johann_Gottfried_Leffler_Ilmenau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grab_Johann_Gottfried_Leffler_Ilmenau.JPG/1920px-Grab_Johann_Gottfried_Leffler_Ilmenau.JPG
 ---
 
 ## Overview

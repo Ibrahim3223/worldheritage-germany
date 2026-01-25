@@ -13,9 +13,9 @@ regions:
 latitude: 49.4806
 longitude: 9.89583
 images:
-  - "/images-sites/weikersheim-palace/01-c4bf49e5-800w.webp"
-  - "/images-sites/weikersheim-palace/02-307f6ea4-800w.webp"
-  - "/images-sites/weikersheim-palace/03-c3179bfa-800w.webp"
+  - "/images/weikersheim-palace/01-c4bf49e5-800w.webp"
+  - "/images/weikersheim-palace/02-307f6ea4-800w.webp"
+  - "/images/weikersheim-palace/03-c3179bfa-800w.webp"
 ---
 
 ## Overview

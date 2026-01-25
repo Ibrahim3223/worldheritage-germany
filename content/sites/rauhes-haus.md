@@ -21,7 +21,7 @@ longitude: 10.07222222
 
 # Images
 images:
-  - "/images-sites/rauhes-haus/01-4cf4388f-800w.webp"
+  - "/images/rauhes-haus/01-4cf4388f-800w.webp"
 ---
 
 ## Overview

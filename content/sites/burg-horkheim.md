@@ -1,29 +1,49 @@
 ---
-title: "Burg Horkheim"
+title: Burg Horkheim
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.1158
 longitude: 9.166
-
-# Images
 images:
-  - "/images-sites/burg-horkheim/01-94a573ee-800w.webp"
-  - "/images-sites/burg-horkheim/02-52bfae12-800w.webp"
-  - "/images-sites/burg-horkheim/03-fa0b5e18-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg/1200px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg/1200px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Horkheim_Synagoge.jpg/1200px-Horkheim_Synagoge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Horkheim-burg5.JPG/1200px-Horkheim-burg5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1200px-Horkheim-burg-schlossgasse.jpg
+image_srcset:
+  Heilbronn - Horkheim - Dorfkern - Burg Horkheim - Ansicht von ONO (RQCE1672).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg/400px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg/800px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg/1200px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg/1920px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Ansicht_von_ONO_(RQCE1672).jpg
+  Heilbronn - Horkheim - Dorfkern - Burg Horkheim - Innenhof - Ansicht von SW (RQCE1667).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg/400px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg/800px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg/1200px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg/1920px-Heilbronn_-_Horkheim_-_Dorfkern_-_Burg_Horkheim_-_Innenhof_-_Ansicht_von_SW_(RQCE1667).jpg
+  Horkheim Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Horkheim_Synagoge.jpg/400px-Horkheim_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Horkheim_Synagoge.jpg/800px-Horkheim_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Horkheim_Synagoge.jpg/1200px-Horkheim_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Horkheim_Synagoge.jpg/1920px-Horkheim_Synagoge.jpg
+  Horkheim-burg5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Horkheim-burg5.JPG/400px-Horkheim-burg5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Horkheim-burg5.JPG/800px-Horkheim-burg5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Horkheim-burg5.JPG/1200px-Horkheim-burg5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Horkheim-burg5.JPG/1920px-Horkheim-burg5.JPG
+  Horkheim-burg-schlossgasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/400px-Horkheim-burg-schlossgasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/800px-Horkheim-burg-schlossgasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1200px-Horkheim-burg-schlossgasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Horkheim-burg-schlossgasse.jpg/1920px-Horkheim-burg-schlossgasse.jpg
 ---
 
 ## Overview

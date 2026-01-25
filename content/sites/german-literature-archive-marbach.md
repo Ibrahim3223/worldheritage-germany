@@ -1,19 +1,25 @@
 ---
-title: "German Literature Archive Marbach"
+title: German Literature Archive Marbach
 date: 2026-01-23
 draft: false
-description: "literature archive in Marbach am Neckar, Baden-Württemberg, Germany (1955-)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: literature archive in Marbach am Neckar, Baden-Württemberg, Germany (1955-)
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9357107
 longitude: 9.2555486
 images:
-  - "/images-sites/german-literature-archive-marbach/01-6d8ae700-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Beckmann_-_Tiedemann,_0425.jpg/1200px-Beckmann_-_Tiedemann,_0425.jpg
+image_srcset:
+  Beckmann - Tiedemann, 0425.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Beckmann_-_Tiedemann,_0425.jpg/400px-Beckmann_-_Tiedemann,_0425.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Beckmann_-_Tiedemann,_0425.jpg/800px-Beckmann_-_Tiedemann,_0425.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Beckmann_-_Tiedemann,_0425.jpg/1200px-Beckmann_-_Tiedemann,_0425.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Beckmann_-_Tiedemann,_0425.jpg/1920px-Beckmann_-_Tiedemann,_0425.jpg
 ---
 
 ## Overview

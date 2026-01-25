@@ -1,20 +1,43 @@
 ---
-title: "Hardehausen Abbey"
+title: Hardehausen Abbey
 date: 2026-01-23
 draft: false
-description: "Catholic building complex in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Catholic building complex in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.549733333
 longitude: 8.998963888
 images:
-  - "/images-sites/hardehausen-abbey/02-75a8d9af-800w.webp"
-  - "/images-sites/hardehausen-abbey/03-f4c4cfef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Hardehausen_bei_Warburg.jpg/1200px-Kloster_Hardehausen_bei_Warburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kloster_Hardehausen_-_Ansicht_2.jpg/1200px-Kloster_Hardehausen_-_Ansicht_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kloster_Hardehausen_-_Säule.jpg/1200px-Kloster_Hardehausen_-_Säule.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg/1200px-Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg
+image_srcset:
+  Kloster Hardehausen bei Warburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Hardehausen_bei_Warburg.jpg/400px-Kloster_Hardehausen_bei_Warburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Hardehausen_bei_Warburg.jpg/800px-Kloster_Hardehausen_bei_Warburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Hardehausen_bei_Warburg.jpg/1200px-Kloster_Hardehausen_bei_Warburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Hardehausen_bei_Warburg.jpg/1920px-Kloster_Hardehausen_bei_Warburg.jpg
+  Kloster Hardehausen - Ansicht 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kloster_Hardehausen_-_Ansicht_2.jpg/400px-Kloster_Hardehausen_-_Ansicht_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kloster_Hardehausen_-_Ansicht_2.jpg/800px-Kloster_Hardehausen_-_Ansicht_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kloster_Hardehausen_-_Ansicht_2.jpg/1200px-Kloster_Hardehausen_-_Ansicht_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kloster_Hardehausen_-_Ansicht_2.jpg/1920px-Kloster_Hardehausen_-_Ansicht_2.jpg
+  Kloster Hardehausen - Säule.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kloster_Hardehausen_-_Säule.jpg/400px-Kloster_Hardehausen_-_Säule.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kloster_Hardehausen_-_Säule.jpg/800px-Kloster_Hardehausen_-_Säule.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kloster_Hardehausen_-_Säule.jpg/1200px-Kloster_Hardehausen_-_Säule.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kloster_Hardehausen_-_Säule.jpg/1920px-Kloster_Hardehausen_-_Säule.jpg
+  Rektoren der Landvolkshochschule "Anton Heinen".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg/400px-Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg/800px-Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg/1200px-Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg/1920px-Rektoren_der_Landvolkshochschule_"Anton_Heinen".jpg
 ---
 
 ## Overview

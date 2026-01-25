@@ -1,27 +1,49 @@
 ---
-title: "Husen Castle"
+title: Husen Castle
 date: 2026-01-23
 draft: false
-description: "Medieval tower house of a castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Medieval tower house of a castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.419
 longitude: 7.50527
-
-# Images
 images:
-  - "/images-sites/husen-castle/01-b9392e30-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hausach-Burgruine_Husen-16-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-16-2025-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hausach-Burgruine_Husen-14-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-14-2025-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hausach-Burgruine_Husen-22-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-22-2025-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hausach-Burgruine_Husen-08-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-08-2025-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hausach-Burgruine_Husen-20-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-20-2025-gje.jpg
+image_srcset:
+  Hausach-Burgruine Husen-16-2025-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hausach-Burgruine_Husen-16-2025-gje.jpg/400px-Hausach-Burgruine_Husen-16-2025-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hausach-Burgruine_Husen-16-2025-gje.jpg/800px-Hausach-Burgruine_Husen-16-2025-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hausach-Burgruine_Husen-16-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-16-2025-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hausach-Burgruine_Husen-16-2025-gje.jpg/1920px-Hausach-Burgruine_Husen-16-2025-gje.jpg
+  Hausach-Burgruine Husen-14-2025-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hausach-Burgruine_Husen-14-2025-gje.jpg/400px-Hausach-Burgruine_Husen-14-2025-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hausach-Burgruine_Husen-14-2025-gje.jpg/800px-Hausach-Burgruine_Husen-14-2025-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hausach-Burgruine_Husen-14-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-14-2025-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hausach-Burgruine_Husen-14-2025-gje.jpg/1920px-Hausach-Burgruine_Husen-14-2025-gje.jpg
+  Hausach-Burgruine Husen-22-2025-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hausach-Burgruine_Husen-22-2025-gje.jpg/400px-Hausach-Burgruine_Husen-22-2025-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hausach-Burgruine_Husen-22-2025-gje.jpg/800px-Hausach-Burgruine_Husen-22-2025-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hausach-Burgruine_Husen-22-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-22-2025-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hausach-Burgruine_Husen-22-2025-gje.jpg/1920px-Hausach-Burgruine_Husen-22-2025-gje.jpg
+  Hausach-Burgruine Husen-08-2025-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hausach-Burgruine_Husen-08-2025-gje.jpg/400px-Hausach-Burgruine_Husen-08-2025-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hausach-Burgruine_Husen-08-2025-gje.jpg/800px-Hausach-Burgruine_Husen-08-2025-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hausach-Burgruine_Husen-08-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-08-2025-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hausach-Burgruine_Husen-08-2025-gje.jpg/1920px-Hausach-Burgruine_Husen-08-2025-gje.jpg
+  Hausach-Burgruine Husen-20-2025-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hausach-Burgruine_Husen-20-2025-gje.jpg/400px-Hausach-Burgruine_Husen-20-2025-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hausach-Burgruine_Husen-20-2025-gje.jpg/800px-Hausach-Burgruine_Husen-20-2025-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hausach-Burgruine_Husen-20-2025-gje.jpg/1200px-Hausach-Burgruine_Husen-20-2025-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hausach-Burgruine_Husen-20-2025-gje.jpg/1920px-Hausach-Burgruine_Husen-20-2025-gje.jpg
 ---
 
 ## Overview

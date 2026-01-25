@@ -13,7 +13,7 @@ regions:
 latitude: 52.5333
 longitude: 13.36
 images:
-  - "/images-sites/kulturfabrik-moabit/01-ba4484a8-800w.webp"
+  - "/images/kulturfabrik-moabit/01-ba4484a8-800w.webp"
 ---
 
 ## Overview

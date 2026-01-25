@@ -13,7 +13,7 @@ regions:
 latitude: 52.5225
 longitude: 13.372222222
 images:
-  - "/images-sites/spreebogenpark/01-d83aca8a-800w.webp"
+  - "/images/spreebogenpark/01-d83aca8a-800w.webp"
 ---
 
 ## Overview

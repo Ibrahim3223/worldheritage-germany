@@ -1,19 +1,49 @@
 ---
-title: "Fulda"
+title: Fulda
 date: 2026-01-23
 draft: false
-description: "head river of the Weser in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: head river of the Weser in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4919
 longitude: 9.9536
 images:
-  - "/images-sites/fulda/01-17e1e0d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/North_of_Fulda_2019-07-14_21.jpg/1200px-North_of_Fulda_2019-07-14_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/1200px-Kathedrale_Fulda-6385.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/1200px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg/1200px-Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rettmobil_2007.jpg/1200px-Rettmobil_2007.jpg
+image_srcset:
+  North of Fulda 2019-07-14 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/North_of_Fulda_2019-07-14_21.jpg/400px-North_of_Fulda_2019-07-14_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/North_of_Fulda_2019-07-14_21.jpg/800px-North_of_Fulda_2019-07-14_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/North_of_Fulda_2019-07-14_21.jpg/1200px-North_of_Fulda_2019-07-14_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/North_of_Fulda_2019-07-14_21.jpg/1920px-North_of_Fulda_2019-07-14_21.jpg
+  Kathedrale Fulda-6385.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/400px-Kathedrale_Fulda-6385.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/800px-Kathedrale_Fulda-6385.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/1200px-Kathedrale_Fulda-6385.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/1920px-Kathedrale_Fulda-6385.jpg
+  Fulda, Schlossgarten, 2019-10 CN-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/400px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/800px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/1200px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/1920px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+  Alstom LHB Coradia LINT - Fulda Bahnhof - 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg/400px-Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg/800px-Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg/1200px-Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg/1920px-Alstom_LHB_Coradia_LINT_-_Fulda_Bahnhof_-_2014.jpg
+  Rettmobil 2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rettmobil_2007.jpg/400px-Rettmobil_2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rettmobil_2007.jpg/800px-Rettmobil_2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rettmobil_2007.jpg/1200px-Rettmobil_2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rettmobil_2007.jpg/1920px-Rettmobil_2007.jpg
 ---
 
 ## Overview

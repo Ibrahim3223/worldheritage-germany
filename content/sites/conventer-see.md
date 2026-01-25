@@ -1,20 +1,49 @@
 ---
-title: "Conventer See"
+title: Conventer See
 date: 2026-01-23
 draft: false
-description: "lake in Börgerende-Rethwisch, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Börgerende-Rethwisch, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.141111111
 longitude: 11.8875
 images:
-  - "/images-sites/conventer-see/02-ba067298-800w.webp"
-  - "/images-sites/conventer-see/03-6a59d37f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg/1200px-Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Blick_Richtung_Conventer_See_-_panoramio.jpg/1200px-Blick_Richtung_Conventer_See_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conventer_See_1.jpg/1200px-Conventer_See_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conventer_See_2.jpg/1200px-Conventer_See_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Conventer_see.png/1200px-Conventer_see.png
+image_srcset:
+  Naturschutzgebiet Conventer See bei Heiligendamm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg/400px-Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg/800px-Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg/1200px-Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg/1920px-Naturschutzgebiet_Conventer_See_bei_Heiligendamm.jpg
+  Blick Richtung Conventer See - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Blick_Richtung_Conventer_See_-_panoramio.jpg/400px-Blick_Richtung_Conventer_See_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Blick_Richtung_Conventer_See_-_panoramio.jpg/800px-Blick_Richtung_Conventer_See_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Blick_Richtung_Conventer_See_-_panoramio.jpg/1200px-Blick_Richtung_Conventer_See_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Blick_Richtung_Conventer_See_-_panoramio.jpg/1920px-Blick_Richtung_Conventer_See_-_panoramio.jpg
+  Conventer See 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conventer_See_1.jpg/400px-Conventer_See_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conventer_See_1.jpg/800px-Conventer_See_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conventer_See_1.jpg/1200px-Conventer_See_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Conventer_See_1.jpg/1920px-Conventer_See_1.jpg
+  Conventer See 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conventer_See_2.jpg/400px-Conventer_See_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conventer_See_2.jpg/800px-Conventer_See_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conventer_See_2.jpg/1200px-Conventer_See_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Conventer_See_2.jpg/1920px-Conventer_See_2.jpg
+  Conventer see.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Conventer_see.png/400px-Conventer_see.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Conventer_see.png/800px-Conventer_see.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Conventer_see.png/1200px-Conventer_see.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Conventer_see.png/1920px-Conventer_see.png
 ---
 
 ## Overview

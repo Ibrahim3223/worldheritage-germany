@@ -1,19 +1,51 @@
 ---
-title: "Hl. Engel"
-site_name: "Hl. Engel"
-slug: "hl-engel"
-region: "Lower Saxony"
-
-# Location
+title: Hl. Engel
+site_name: Hl. Engel
+slug: hl-engel
+region: Lower Saxony
 latitude: 52.32423
 longitude: 10.22224
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1621397"
-description: "In the heart of Peine, Germany, the Hl. Engel stands as a remarkable example of Gothic Revival architecture, inviting visitors to explore its storied pa..."
+- cultural site
+wikidata_id: Q1621397
+description: In the heart of Peine, Germany, the Hl. Engel stands as a remarkable
+  example of Gothic Revival architecture, inviting visitors to explore its storied
+  pa...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peine%20Kirche%20kath.jpg/1200px-Peine%20Kirche%20kath.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Geltendorf,_Hl_Engel_v_SO,_1.jpeg/1200px-Geltendorf,_Hl_Engel_v_SO,_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peine_Hl._Engel_Innen_Seitenschiff.jpg/1200px-Peine_Hl._Engel_Innen_Seitenschiff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Peine_Hl._Engel_Innen_Mittelschiff.jpg/1200px-Peine_Hl._Engel_Innen_Mittelschiff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Peine_HlEngel.jpg/1200px-Peine_HlEngel.jpg
+image_srcset:
+  Peine%20Kirche%20kath.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peine%20Kirche%20kath.jpg/400px-Peine%20Kirche%20kath.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peine%20Kirche%20kath.jpg/800px-Peine%20Kirche%20kath.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peine%20Kirche%20kath.jpg/1200px-Peine%20Kirche%20kath.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peine%20Kirche%20kath.jpg/1920px-Peine%20Kirche%20kath.jpg
+  Geltendorf, Hl Engel v SO, 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Geltendorf,_Hl_Engel_v_SO,_1.jpeg/400px-Geltendorf,_Hl_Engel_v_SO,_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Geltendorf,_Hl_Engel_v_SO,_1.jpeg/800px-Geltendorf,_Hl_Engel_v_SO,_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Geltendorf,_Hl_Engel_v_SO,_1.jpeg/1200px-Geltendorf,_Hl_Engel_v_SO,_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Geltendorf,_Hl_Engel_v_SO,_1.jpeg/1920px-Geltendorf,_Hl_Engel_v_SO,_1.jpeg
+  Peine Hl. Engel Innen Seitenschiff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peine_Hl._Engel_Innen_Seitenschiff.jpg/400px-Peine_Hl._Engel_Innen_Seitenschiff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peine_Hl._Engel_Innen_Seitenschiff.jpg/800px-Peine_Hl._Engel_Innen_Seitenschiff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peine_Hl._Engel_Innen_Seitenschiff.jpg/1200px-Peine_Hl._Engel_Innen_Seitenschiff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peine_Hl._Engel_Innen_Seitenschiff.jpg/1920px-Peine_Hl._Engel_Innen_Seitenschiff.jpg
+  Peine Hl. Engel Innen Mittelschiff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Peine_Hl._Engel_Innen_Mittelschiff.jpg/400px-Peine_Hl._Engel_Innen_Mittelschiff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Peine_Hl._Engel_Innen_Mittelschiff.jpg/800px-Peine_Hl._Engel_Innen_Mittelschiff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Peine_Hl._Engel_Innen_Mittelschiff.jpg/1200px-Peine_Hl._Engel_Innen_Mittelschiff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Peine_Hl._Engel_Innen_Mittelschiff.jpg/1920px-Peine_Hl._Engel_Innen_Mittelschiff.jpg
+  Peine HlEngel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Peine_HlEngel.jpg/400px-Peine_HlEngel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Peine_HlEngel.jpg/800px-Peine_HlEngel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Peine_HlEngel.jpg/1200px-Peine_HlEngel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Peine_HlEngel.jpg/1920px-Peine_HlEngel.jpg
 ---
 
 ## Overview

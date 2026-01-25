@@ -21,9 +21,9 @@ longitude: 8.245833
 
 # Images
 images:
-  - "/images-sites/museum-wiesbaden/01-e5c9d2e8-800w.webp"
-  - "/images-sites/museum-wiesbaden/02-366a25be-800w.webp"
-  - "/images-sites/museum-wiesbaden/03-1dd3c4de-800w.webp"
+  - "/images/museum-wiesbaden/01-e5c9d2e8-800w.webp"
+  - "/images/museum-wiesbaden/02-366a25be-800w.webp"
+  - "/images/museum-wiesbaden/03-1dd3c4de-800w.webp"
 ---
 
 ## Overview

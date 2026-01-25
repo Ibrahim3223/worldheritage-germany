@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1434109"
 description: "St. Stephanus church stands as a notable landmark in the Münster region of Germany, capturing the attention of both locals and visitors with its remarka..."
 images:
-  - "/images-sites/st-stephanus/01-9da922f3-1920w.webp"
-  - "/images-sites/st-stephanus/02-55fb7e48-1920w.webp"
-  - "/images-sites/st-stephanus/03-a9328aee-1920w.webp"
+  - "/images/st-stephanus/01-9da922f3-1920w.webp"
+  - "/images/st-stephanus/02-55fb7e48-1920w.webp"
+  - "/images/st-stephanus/03-a9328aee-1920w.webp"
 ---
 
 ## Overview

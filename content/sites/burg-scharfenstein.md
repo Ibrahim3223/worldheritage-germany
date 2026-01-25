@@ -1,27 +1,49 @@
 ---
-title: "Burg Scharfenstein"
+title: Burg Scharfenstein
 date: 2026-01-23
 draft: false
-description: "castle in Leinefelde-Worbis"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Leinefelde-Worbis
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3633
 longitude: 10.2689
-
-# Images
 images:
-  - "/images-sites/burg-scharfenstein/01-29f99273-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg/1200px-Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein_Erzgebirge_2024.jpg/1200px-Burg_Scharfenstein_Erzgebirge_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/02,_Burg_Scharfenstein-Münstertal.JPG/1200px-02,_Burg_Scharfenstein-Münstertal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_Scharfenstein,_Kiedrich_(P1090519).jpg/1200px-Burg_Scharfenstein,_Kiedrich_(P1090519).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein.jpg/1200px-Burg_Scharfenstein.jpg
+image_srcset:
+  Hrad Ostrý (Scharfenstein) u Františkova nad Ploučnicí (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg/400px-Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg/800px-Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg/1200px-Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg/1920px-Hrad_Ostrý_(Scharfenstein)_u_Františkova_nad_Ploučnicí_(5).jpg
+  Burg Scharfenstein Erzgebirge 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein_Erzgebirge_2024.jpg/400px-Burg_Scharfenstein_Erzgebirge_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein_Erzgebirge_2024.jpg/800px-Burg_Scharfenstein_Erzgebirge_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein_Erzgebirge_2024.jpg/1200px-Burg_Scharfenstein_Erzgebirge_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein_Erzgebirge_2024.jpg/1920px-Burg_Scharfenstein_Erzgebirge_2024.jpg
+  02, Burg Scharfenstein-Münstertal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/02,_Burg_Scharfenstein-Münstertal.JPG/400px-02,_Burg_Scharfenstein-Münstertal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/02,_Burg_Scharfenstein-Münstertal.JPG/800px-02,_Burg_Scharfenstein-Münstertal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/02,_Burg_Scharfenstein-Münstertal.JPG/1200px-02,_Burg_Scharfenstein-Münstertal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/02,_Burg_Scharfenstein-Münstertal.JPG/1920px-02,_Burg_Scharfenstein-Münstertal.JPG
+  Burg Scharfenstein, Kiedrich (P1090519).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_Scharfenstein,_Kiedrich_(P1090519).jpg/400px-Burg_Scharfenstein,_Kiedrich_(P1090519).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_Scharfenstein,_Kiedrich_(P1090519).jpg/800px-Burg_Scharfenstein,_Kiedrich_(P1090519).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_Scharfenstein,_Kiedrich_(P1090519).jpg/1200px-Burg_Scharfenstein,_Kiedrich_(P1090519).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_Scharfenstein,_Kiedrich_(P1090519).jpg/1920px-Burg_Scharfenstein,_Kiedrich_(P1090519).jpg
+  Burg Scharfenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein.jpg/400px-Burg_Scharfenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein.jpg/800px-Burg_Scharfenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein.jpg/1200px-Burg_Scharfenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Burg_Scharfenstein.jpg/1920px-Burg_Scharfenstein.jpg
 ---
 
 ## Overview

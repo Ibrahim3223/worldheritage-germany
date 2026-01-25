@@ -1,19 +1,49 @@
 ---
-title: "Christgarten Charterhouse"
+title: Christgarten Charterhouse
 date: 2026-01-23
 draft: false
-description: "former monastery in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former monastery in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7823
 longitude: 10.4633
 images:
-  - "/images-sites/christgarten-charterhouse/01-662d6477-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ederheim_Kloster_Christgarten_Kirche_630.jpg/1200px-Ederheim_Kloster_Christgarten_Kirche_630.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg/1200px-D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ederheim_Christgarten_55.JPG/1200px-Ederheim_Christgarten_55.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Christgarten_Kloster.jpg/1200px-Christgarten_Kloster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Christgarten.jpg/1200px-Kloster_Christgarten.jpg
+image_srcset:
+  Ederheim Kloster Christgarten Kirche 630.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ederheim_Kloster_Christgarten_Kirche_630.jpg/400px-Ederheim_Kloster_Christgarten_Kirche_630.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ederheim_Kloster_Christgarten_Kirche_630.jpg/800px-Ederheim_Kloster_Christgarten_Kirche_630.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ederheim_Kloster_Christgarten_Kirche_630.jpg/1200px-Ederheim_Kloster_Christgarten_Kirche_630.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ederheim_Kloster_Christgarten_Kirche_630.jpg/1920px-Ederheim_Kloster_Christgarten_Kirche_630.jpg
+  D-BY-DON-Ederheim-Christgarten - Kloster Christgarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg/400px-D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg/800px-D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg/1200px-D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg/1920px-D-BY-DON-Ederheim-Christgarten_-_Kloster_Christgarten.jpg
+  Ederheim Christgarten 55.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ederheim_Christgarten_55.JPG/400px-Ederheim_Christgarten_55.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ederheim_Christgarten_55.JPG/800px-Ederheim_Christgarten_55.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ederheim_Christgarten_55.JPG/1200px-Ederheim_Christgarten_55.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ederheim_Christgarten_55.JPG/1920px-Ederheim_Christgarten_55.JPG
+  Christgarten Kloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Christgarten_Kloster.jpg/400px-Christgarten_Kloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Christgarten_Kloster.jpg/800px-Christgarten_Kloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Christgarten_Kloster.jpg/1200px-Christgarten_Kloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Christgarten_Kloster.jpg/1920px-Christgarten_Kloster.jpg
+  Kloster Christgarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Christgarten.jpg/400px-Kloster_Christgarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Christgarten.jpg/800px-Kloster_Christgarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Christgarten.jpg/1200px-Kloster_Christgarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Christgarten.jpg/1920px-Kloster_Christgarten.jpg
 ---
 
 ## Overview

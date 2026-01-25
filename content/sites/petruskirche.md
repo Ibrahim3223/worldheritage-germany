@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2081097"
 description: "In the heart of Halle (Saale), Germany, the Petruskirche stands as an evocative example of Gothic Revival architecture. This church building, designed b..."
 images:
-  - "/images-sites/petruskirche/01-9a2bdcbc-1920w.webp"
-  - "/images-sites/petruskirche/02-4eaaa5fe-1920w.webp"
-  - "/images-sites/petruskirche/03-ba3cd781-1920w.webp"
+  - "/images/petruskirche/01-9a2bdcbc-1920w.webp"
+  - "/images/petruskirche/02-4eaaa5fe-1920w.webp"
+  - "/images/petruskirche/03-ba3cd781-1920w.webp"
 ---
 
 ## Overview

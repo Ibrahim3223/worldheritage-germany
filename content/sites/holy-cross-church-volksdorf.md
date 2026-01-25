@@ -1,23 +1,50 @@
 ---
-title: "Holy Cross Church Volksdorf"
-site_name: "Holy Cross Church Volksdorf"
-slug: "holy-cross-church-volksdorf"
-region: "Hamburg"
-
-# Location
+title: Holy Cross Church Volksdorf
+site_name: Holy Cross Church Volksdorf
+slug: holy-cross-church-volksdorf
+region: Hamburg
 latitude: 53.650323
 longitude: 10.160697
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594955"
-description: "Holy Cross Church Volksdorf is a striking example of modern architecture located in the Wandsbek district of Hamburg, Germany. Known for its unique desi..."
+- cultural site
+wikidata_id: Q1594955
+description: Holy Cross Church Volksdorf is a striking example of modern architecture
+  located in the Wandsbek district of Hamburg, Germany. Known for its unique desi...
 images:
-  - "/images-sites/holy-cross-church-volksdorf/01-10479443-1920w.webp"
-  - "/images-sites/holy-cross-church-volksdorf/02-40a6d137-1920w.webp"
-  - "/images-sites/holy-cross-church-volksdorf/03-ed50ecd1-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg/1200px-R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/1200px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Heilig-Kreuz-Kirche_Volksdorf_2.jpg/1200px-Heilig-Kreuz-Kirche_Volksdorf_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heilig-Kreuz-Kirche_Volksdorf_5.jpg/1200px-Heilig-Kreuz-Kirche_Volksdorf_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Heilig-Kreuz-Kirche_Volksdorf_7.jpg/1200px-Heilig-Kreuz-Kirche_Volksdorf_7.jpg
+image_srcset:
+  R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg/400px-R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg/800px-R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg/1200px-R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg/1920px-R%C3%B6m.-Kath.Kirche%20Heilig%20Kreuz%28Stra%C3%9Fenseite%29%20-%20panoramio.jpg
+  Röm.-Kath.Kirche Heilig Kreuz(Straßenseite) - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/400px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/800px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/1200px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg/1920px-Röm.-Kath.Kirche_Heilig_Kreuz(Straßenseite)_-_panoramio.jpg
+  Heilig-Kreuz-Kirche Volksdorf 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Heilig-Kreuz-Kirche_Volksdorf_2.jpg/400px-Heilig-Kreuz-Kirche_Volksdorf_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Heilig-Kreuz-Kirche_Volksdorf_2.jpg/800px-Heilig-Kreuz-Kirche_Volksdorf_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Heilig-Kreuz-Kirche_Volksdorf_2.jpg/1200px-Heilig-Kreuz-Kirche_Volksdorf_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Heilig-Kreuz-Kirche_Volksdorf_2.jpg/1920px-Heilig-Kreuz-Kirche_Volksdorf_2.jpg
+  Heilig-Kreuz-Kirche Volksdorf 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heilig-Kreuz-Kirche_Volksdorf_5.jpg/400px-Heilig-Kreuz-Kirche_Volksdorf_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heilig-Kreuz-Kirche_Volksdorf_5.jpg/800px-Heilig-Kreuz-Kirche_Volksdorf_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heilig-Kreuz-Kirche_Volksdorf_5.jpg/1200px-Heilig-Kreuz-Kirche_Volksdorf_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Heilig-Kreuz-Kirche_Volksdorf_5.jpg/1920px-Heilig-Kreuz-Kirche_Volksdorf_5.jpg
+  Heilig-Kreuz-Kirche Volksdorf 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Heilig-Kreuz-Kirche_Volksdorf_7.jpg/400px-Heilig-Kreuz-Kirche_Volksdorf_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Heilig-Kreuz-Kirche_Volksdorf_7.jpg/800px-Heilig-Kreuz-Kirche_Volksdorf_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Heilig-Kreuz-Kirche_Volksdorf_7.jpg/1200px-Heilig-Kreuz-Kirche_Volksdorf_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Heilig-Kreuz-Kirche_Volksdorf_7.jpg/1920px-Heilig-Kreuz-Kirche_Volksdorf_7.jpg
 ---
 
 ## Overview

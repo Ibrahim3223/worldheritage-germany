@@ -13,7 +13,7 @@ regions:
 latitude: 51.531389
 longitude: 7.165833
 images:
-  - "/images-sites/wanne-eickel-central-station/01-def8b3b4-800w.webp"
+  - "/images/wanne-eickel-central-station/01-def8b3b4-800w.webp"
 ---
 
 ## Overview

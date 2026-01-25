@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Tegel Russian Orthodox Cemetery"
+title: Berlin-Tegel Russian Orthodox Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.577666666
 longitude: 13.300666666
 images:
-  - "/images-sites/berlin-tegel-russian-orthodox-cemetery/01-a09001ef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG/1200px-Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grab_Erzbischof_Feofan.jpg/1200px-Grab_Erzbischof_Feofan.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russfriedhoftegel05.jpg/1200px-Russfriedhoftegel05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1200px-Russfriedhoftegel06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Russfriedhoftegel07.jpg/1200px-Russfriedhoftegel07.jpg
+image_srcset:
+  Michail Glinka Gedenkplatte in Berlin-Tegel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG/400px-Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG/800px-Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG/1200px-Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG/1920px-Michail_Glinka_Gedenkplatte_in_Berlin-Tegel.JPG
+  Grab Erzbischof Feofan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grab_Erzbischof_Feofan.jpg/400px-Grab_Erzbischof_Feofan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grab_Erzbischof_Feofan.jpg/800px-Grab_Erzbischof_Feofan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grab_Erzbischof_Feofan.jpg/1200px-Grab_Erzbischof_Feofan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grab_Erzbischof_Feofan.jpg/1920px-Grab_Erzbischof_Feofan.jpg
+  Russfriedhoftegel05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russfriedhoftegel05.jpg/400px-Russfriedhoftegel05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russfriedhoftegel05.jpg/800px-Russfriedhoftegel05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russfriedhoftegel05.jpg/1200px-Russfriedhoftegel05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russfriedhoftegel05.jpg/1920px-Russfriedhoftegel05.jpg
+  Russfriedhoftegel06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/400px-Russfriedhoftegel06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/800px-Russfriedhoftegel06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1200px-Russfriedhoftegel06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Russfriedhoftegel06.jpg/1920px-Russfriedhoftegel06.jpg
+  Russfriedhoftegel07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Russfriedhoftegel07.jpg/400px-Russfriedhoftegel07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Russfriedhoftegel07.jpg/800px-Russfriedhoftegel07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Russfriedhoftegel07.jpg/1200px-Russfriedhoftegel07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Russfriedhoftegel07.jpg/1920px-Russfriedhoftegel07.jpg
 ---
 
 ## Overview

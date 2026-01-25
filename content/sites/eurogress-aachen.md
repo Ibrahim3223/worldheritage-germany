@@ -1,19 +1,51 @@
 ---
-title: "Eurogress Aachen"
+title: Eurogress Aachen
 date: 2026-01-23
 draft: false
-description: "convention centre, concert and multi-purpose hall in Aachen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: convention centre, concert and multi-purpose hall in Aachen, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.782080555
 longitude: 6.0919
 images:
-  - "/images-sites/eurogress-aachen/01-6fe88809-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg/1200px-Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg/1200px-Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Mronz_(2019).jpg/1200px-Michael_Mronz_(2019).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg/1200px-"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jürgen-B-Hausmann.JPG/1200px-Jürgen-B-Hausmann.JPG
+image_srcset:
+  Aachen - Tagungs- und Kongresszentrum Eurogress, Monheimsallee 48 - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg/400px-Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg/800px-Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg/1200px-Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg/1920px-Aachen_-_Tagungs-_und_Kongresszentrum_Eurogress,_Monheimsallee_48_-_panoramio.jpg
+  Aachen, Kurpark, Doppelbecken, Eurogress.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg/400px-Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg/800px-Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg/1200px-Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg/1920px-Aachen,_Kurpark,_Doppelbecken,_Eurogress.jpg
+  Michael Mronz (2019).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Mronz_(2019).jpg/400px-Michael_Mronz_(2019).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Mronz_(2019).jpg/800px-Michael_Mronz_(2019).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Mronz_(2019).jpg/1200px-Michael_Mronz_(2019).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Mronz_(2019).jpg/1920px-Michael_Mronz_(2019).jpg
+  ? '"4. Batterietag" NRW Februar 2013 "Aachener Eurogress Kongresszentrum" Speicherung
+    "elektrischer Energie" Energiewende "Wissenschaftsministerin Schulze" Eröffnung
+    Stromversorgung Zukunft (8506140503).jpg'
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg/400px-"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg/800px-"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg/1200px-"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg/1920px-"4._Batterietag"_NRW_Februar_2013_"Aachener_Eurogress_Kongresszentrum"_Speicherung_"elektrischer_Energie"_Energiewende_"Wissenschaftsministerin_Schulze"_Eröffnung_Stromversorgung_Zukunft_(8506140503).jpg
+  Jürgen-B-Hausmann.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jürgen-B-Hausmann.JPG/400px-Jürgen-B-Hausmann.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jürgen-B-Hausmann.JPG/800px-Jürgen-B-Hausmann.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jürgen-B-Hausmann.JPG/1200px-Jürgen-B-Hausmann.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jürgen-B-Hausmann.JPG/1920px-Jürgen-B-Hausmann.JPG
 ---
 
 ## Overview

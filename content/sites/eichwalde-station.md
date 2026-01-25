@@ -1,21 +1,49 @@
 ---
-title: "Eichwalde station"
+title: Eichwalde station
 date: 2026-01-23
 draft: false
-description: "railway station in Eichwalde, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Eichwalde, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3715
 longitude: 13.6152
 images:
-  - "/images-sites/eichwalde-station/01-cf17adfc-800w.webp"
-  - "/images-sites/eichwalde-station/02-4900439d-800w.webp"
-  - "/images-sites/eichwalde-station/03-fbb3de26-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg/1200px-Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eichwalde_-_S-Bahnhof_(7713241416).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713241416).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Eichwalde_-_S-Bahnhof_(7713275912).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713275912).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eichwalde_-_S-Bahnhof_(7713282956).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713282956).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eichwalde_-_S-Bahnhof_(7713312380).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713312380).jpg
+image_srcset:
+  Eichwalder Bahnhof- auf Bahnsteig zu Gleis 3 1.8.2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg/400px-Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg/800px-Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg/1200px-Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg/1920px-Eichwalder_Bahnhof-_auf_Bahnsteig_zu_Gleis_3_1.8.2012.jpg
+  Eichwalde - S-Bahnhof (7713241416).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eichwalde_-_S-Bahnhof_(7713241416).jpg/400px-Eichwalde_-_S-Bahnhof_(7713241416).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eichwalde_-_S-Bahnhof_(7713241416).jpg/800px-Eichwalde_-_S-Bahnhof_(7713241416).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eichwalde_-_S-Bahnhof_(7713241416).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713241416).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eichwalde_-_S-Bahnhof_(7713241416).jpg/1920px-Eichwalde_-_S-Bahnhof_(7713241416).jpg
+  Eichwalde - S-Bahnhof (7713275912).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Eichwalde_-_S-Bahnhof_(7713275912).jpg/400px-Eichwalde_-_S-Bahnhof_(7713275912).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Eichwalde_-_S-Bahnhof_(7713275912).jpg/800px-Eichwalde_-_S-Bahnhof_(7713275912).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Eichwalde_-_S-Bahnhof_(7713275912).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713275912).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Eichwalde_-_S-Bahnhof_(7713275912).jpg/1920px-Eichwalde_-_S-Bahnhof_(7713275912).jpg
+  Eichwalde - S-Bahnhof (7713282956).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eichwalde_-_S-Bahnhof_(7713282956).jpg/400px-Eichwalde_-_S-Bahnhof_(7713282956).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eichwalde_-_S-Bahnhof_(7713282956).jpg/800px-Eichwalde_-_S-Bahnhof_(7713282956).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eichwalde_-_S-Bahnhof_(7713282956).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713282956).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eichwalde_-_S-Bahnhof_(7713282956).jpg/1920px-Eichwalde_-_S-Bahnhof_(7713282956).jpg
+  Eichwalde - S-Bahnhof (7713312380).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eichwalde_-_S-Bahnhof_(7713312380).jpg/400px-Eichwalde_-_S-Bahnhof_(7713312380).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eichwalde_-_S-Bahnhof_(7713312380).jpg/800px-Eichwalde_-_S-Bahnhof_(7713312380).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eichwalde_-_S-Bahnhof_(7713312380).jpg/1200px-Eichwalde_-_S-Bahnhof_(7713312380).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eichwalde_-_S-Bahnhof_(7713312380).jpg/1920px-Eichwalde_-_S-Bahnhof_(7713312380).jpg
 ---
 
 ## Overview

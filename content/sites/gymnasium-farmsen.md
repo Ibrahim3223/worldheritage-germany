@@ -1,19 +1,49 @@
 ---
-title: "Gymnasium Farmsen"
+title: Gymnasium Farmsen
 date: 2026-01-23
 draft: false
-description: "High school in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: High school in Hamburg
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6125
 longitude: 10.10969
 images:
-  - "/images-sites/gymnasium-farmsen/01-178f98ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gymnasium_Farmsen,_Eingang_Neubau_3.jpg/1200px-Gymnasium_Farmsen,_Eingang_Neubau_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg/1200px-Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GyFa_Fremdsprachenhaus_und_Nordhof.jpg/1200px-GyFa_Fremdsprachenhaus_und_Nordhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GyFa_Neubau_Fremdsprachenhaus.jpg/1200px-GyFa_Neubau_Fremdsprachenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GyFa_Neubau_Lehrerzimmer.jpg/1200px-GyFa_Neubau_Lehrerzimmer.jpg
+image_srcset:
+  Gymnasium Farmsen, Eingang Neubau 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gymnasium_Farmsen,_Eingang_Neubau_3.jpg/400px-Gymnasium_Farmsen,_Eingang_Neubau_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gymnasium_Farmsen,_Eingang_Neubau_3.jpg/800px-Gymnasium_Farmsen,_Eingang_Neubau_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gymnasium_Farmsen,_Eingang_Neubau_3.jpg/1200px-Gymnasium_Farmsen,_Eingang_Neubau_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gymnasium_Farmsen,_Eingang_Neubau_3.jpg/1920px-Gymnasium_Farmsen,_Eingang_Neubau_3.jpg
+  Gymnasium Farmsen, Neubau und Fremdsprachenhaus 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg/400px-Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg/800px-Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg/1200px-Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg/1920px-Gymnasium_Farmsen,_Neubau_und_Fremdsprachenhaus_1.jpg
+  GyFa Fremdsprachenhaus und Nordhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GyFa_Fremdsprachenhaus_und_Nordhof.jpg/400px-GyFa_Fremdsprachenhaus_und_Nordhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GyFa_Fremdsprachenhaus_und_Nordhof.jpg/800px-GyFa_Fremdsprachenhaus_und_Nordhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GyFa_Fremdsprachenhaus_und_Nordhof.jpg/1200px-GyFa_Fremdsprachenhaus_und_Nordhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GyFa_Fremdsprachenhaus_und_Nordhof.jpg/1920px-GyFa_Fremdsprachenhaus_und_Nordhof.jpg
+  GyFa Neubau Fremdsprachenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GyFa_Neubau_Fremdsprachenhaus.jpg/400px-GyFa_Neubau_Fremdsprachenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GyFa_Neubau_Fremdsprachenhaus.jpg/800px-GyFa_Neubau_Fremdsprachenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GyFa_Neubau_Fremdsprachenhaus.jpg/1200px-GyFa_Neubau_Fremdsprachenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GyFa_Neubau_Fremdsprachenhaus.jpg/1920px-GyFa_Neubau_Fremdsprachenhaus.jpg
+  GyFa Neubau Lehrerzimmer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GyFa_Neubau_Lehrerzimmer.jpg/400px-GyFa_Neubau_Lehrerzimmer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GyFa_Neubau_Lehrerzimmer.jpg/800px-GyFa_Neubau_Lehrerzimmer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GyFa_Neubau_Lehrerzimmer.jpg/1200px-GyFa_Neubau_Lehrerzimmer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GyFa_Neubau_Lehrerzimmer.jpg/1920px-GyFa_Neubau_Lehrerzimmer.jpg
 ---
 
 ## Overview

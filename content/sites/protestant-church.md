@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244463"
 description: "The Protestant Church in Lexow, Germany, is a striking example of Gothic architecture crafted from fieldstone. This church, located in the tranquil regi..."
 images:
-  - "/images-sites/protestant-church/01-b47ce7dd-1920w.webp"
-  - "/images-sites/protestant-church/02-6f441975-1920w.webp"
-  - "/images-sites/protestant-church/03-8bfe6829-1920w.webp"
+  - "/images/protestant-church/01-b47ce7dd-1920w.webp"
+  - "/images/protestant-church/02-6f441975-1920w.webp"
+  - "/images/protestant-church/03-8bfe6829-1920w.webp"
 ---
 
 ## Overview

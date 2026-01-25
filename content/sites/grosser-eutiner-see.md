@@ -1,21 +1,49 @@
 ---
-title: "Großer Eutiner See"
+title: Großer Eutiner See
 date: 2026-01-23
 draft: false
-description: "lake in Eutin, Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Eutin, Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.143333333
 longitude: 10.637222222
 images:
-  - "/images-sites/grosser-eutiner-see/01-3910dcc4-800w.webp"
-  - "/images-sites/grosser-eutiner-see/02-9ea9958f-800w.webp"
-  - "/images-sites/grosser-eutiner-see/03-3fc7aad6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Großer_Eutiner_See_(29898103640).jpg/1200px-Großer_Eutiner_See_(29898103640).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg/1200px-Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss-Eutin-msu-5678-.jpg/1200px-Schloss-Eutin-msu-5678-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/00_7439_Eutin_-_Schleswig-Holstein.jpg/1200px-00_7439_Eutin_-_Schleswig-Holstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eutin_-_Fasaneninsel_-_Utin.jpg/1200px-Eutin_-_Fasaneninsel_-_Utin.jpg
+image_srcset:
+  Großer Eutiner See (29898103640).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Großer_Eutiner_See_(29898103640).jpg/400px-Großer_Eutiner_See_(29898103640).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Großer_Eutiner_See_(29898103640).jpg/800px-Großer_Eutiner_See_(29898103640).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Großer_Eutiner_See_(29898103640).jpg/1200px-Großer_Eutiner_See_(29898103640).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Großer_Eutiner_See_(29898103640).jpg/1920px-Großer_Eutiner_See_(29898103640).jpg
+  Schlossgarten Eutin (38) Schlossbucht und Seetempel (29920821320).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg/400px-Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg/800px-Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg/1200px-Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg/1920px-Schlossgarten_Eutin_(38)_Schlossbucht_und_Seetempel_(29920821320).jpg
+  Schloss-Eutin-msu-5678-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss-Eutin-msu-5678-.jpg/400px-Schloss-Eutin-msu-5678-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss-Eutin-msu-5678-.jpg/800px-Schloss-Eutin-msu-5678-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss-Eutin-msu-5678-.jpg/1200px-Schloss-Eutin-msu-5678-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schloss-Eutin-msu-5678-.jpg/1920px-Schloss-Eutin-msu-5678-.jpg
+  00 7439 Eutin - Schleswig-Holstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/00_7439_Eutin_-_Schleswig-Holstein.jpg/400px-00_7439_Eutin_-_Schleswig-Holstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/00_7439_Eutin_-_Schleswig-Holstein.jpg/800px-00_7439_Eutin_-_Schleswig-Holstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/00_7439_Eutin_-_Schleswig-Holstein.jpg/1200px-00_7439_Eutin_-_Schleswig-Holstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/00_7439_Eutin_-_Schleswig-Holstein.jpg/1920px-00_7439_Eutin_-_Schleswig-Holstein.jpg
+  Eutin - Fasaneninsel - Utin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eutin_-_Fasaneninsel_-_Utin.jpg/400px-Eutin_-_Fasaneninsel_-_Utin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eutin_-_Fasaneninsel_-_Utin.jpg/800px-Eutin_-_Fasaneninsel_-_Utin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eutin_-_Fasaneninsel_-_Utin.jpg/1200px-Eutin_-_Fasaneninsel_-_Utin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eutin_-_Fasaneninsel_-_Utin.jpg/1920px-Eutin_-_Fasaneninsel_-_Utin.jpg
 ---
 
 ## Overview

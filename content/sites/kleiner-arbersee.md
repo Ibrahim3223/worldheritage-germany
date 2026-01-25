@@ -13,7 +13,7 @@ regions:
 latitude: 49.126388888
 longitude: 13.119444444
 images:
-  - "/images-sites/kleiner-arbersee/01-e8712e66-800w.webp"
+  - "/images/kleiner-arbersee/01-e8712e66-800w.webp"
 ---
 
 ## Overview

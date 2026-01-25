@@ -13,7 +13,7 @@ regions:
 latitude: 52.5403
 longitude: 13.4094
 images:
-  - "/images-sites/prater/01-04e51e62-800w.webp"
+  - "/images/prater/01-04e51e62-800w.webp"
 ---
 
 ## Overview

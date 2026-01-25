@@ -13,7 +13,7 @@ regions:
 latitude: 51.0533
 longitude: 13.7394
 images:
-  - "/images-sites/palais-bruehl/01-96434a71-800w.webp"
+  - "/images/palais-bruehl/01-96434a71-800w.webp"
 ---
 
 ## Overview

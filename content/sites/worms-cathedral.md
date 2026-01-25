@@ -13,9 +13,9 @@ regions:
 latitude: 49.630277777
 longitude: 8.359722222
 images:
-  - "/images-sites/worms-cathedral/01-69ac34b6-800w.webp"
-  - "/images-sites/worms-cathedral/02-3e5b7681-800w.webp"
-  - "/images-sites/worms-cathedral/03-d9456496-800w.webp"
+  - "/images/worms-cathedral/01-69ac34b6-800w.webp"
+  - "/images/worms-cathedral/02-3e5b7681-800w.webp"
+  - "/images/worms-cathedral/03-d9456496-800w.webp"
 ---
 
 ## Overview

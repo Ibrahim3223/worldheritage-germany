@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q721714"
 description: "In the quaint town of Ellingen, Germany, the St. Georg church stands as a striking example of baroque architecture, inviting visitors to explore its sac..."
 images:
-  - "/images-sites/st-georg-ellingen/01-98c319a6-1920w.webp"
-  - "/images-sites/st-georg-ellingen/02-510c7c05-1920w.webp"
-  - "/images-sites/st-georg-ellingen/03-63ef8a8b-1920w.webp"
+  - "/images/st-georg-ellingen/01-98c319a6-1920w.webp"
+  - "/images/st-georg-ellingen/02-510c7c05-1920w.webp"
+  - "/images/st-georg-ellingen/03-63ef8a8b-1920w.webp"
 ---
 
 ## Overview

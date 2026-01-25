@@ -1,19 +1,43 @@
 ---
-title: "Aufi Tower"
+title: Aufi Tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 48.588055555
 longitude: 9.7475
 images:
-  - "/images-sites/aufi-tower/01-006e6ea4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aufi21032018.JPG/1200px-Aufi21032018.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aufi19042019.JPG/1200px-Aufi19042019.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aufi28072021.png/1200px-Aufi28072021.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Funkturm_Aufhausen.jpg/1200px-Funkturm_Aufhausen.jpg
+image_srcset:
+  Aufi21032018.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aufi21032018.JPG/400px-Aufi21032018.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aufi21032018.JPG/800px-Aufi21032018.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aufi21032018.JPG/1200px-Aufi21032018.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aufi21032018.JPG/1920px-Aufi21032018.JPG
+  Aufi19042019.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aufi19042019.JPG/400px-Aufi19042019.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aufi19042019.JPG/800px-Aufi19042019.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aufi19042019.JPG/1200px-Aufi19042019.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aufi19042019.JPG/1920px-Aufi19042019.JPG
+  Aufi28072021.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aufi28072021.png/400px-Aufi28072021.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aufi28072021.png/800px-Aufi28072021.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aufi28072021.png/1200px-Aufi28072021.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aufi28072021.png/1920px-Aufi28072021.png
+  Funkturm Aufhausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Funkturm_Aufhausen.jpg/400px-Funkturm_Aufhausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Funkturm_Aufhausen.jpg/800px-Funkturm_Aufhausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Funkturm_Aufhausen.jpg/1200px-Funkturm_Aufhausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Funkturm_Aufhausen.jpg/1920px-Funkturm_Aufhausen.jpg
 ---
 
 ## Overview

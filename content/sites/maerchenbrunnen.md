@@ -13,7 +13,7 @@ regions:
 latitude: 52.5281
 longitude: 13.4269
 images:
-  - "/images-sites/maerchenbrunnen/01-af58281a-800w.webp"
+  - "/images/maerchenbrunnen/01-af58281a-800w.webp"
 ---
 
 ## Overview

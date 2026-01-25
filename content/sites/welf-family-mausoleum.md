@@ -13,7 +13,7 @@ regions:
 latitude: 52.395303
 longitude: 9.699168
 images:
-  - "/images-sites/welf-family-mausoleum/01-4d4056d9-800w.webp"
+  - "/images/welf-family-mausoleum/01-4d4056d9-800w.webp"
 ---
 
 ## Overview

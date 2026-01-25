@@ -13,7 +13,7 @@ regions:
 latitude: 52.51765278
 longitude: 13.39408333
 images:
-  - "/images-sites/statue-of-alexander-von-humboldt-berlin/01-0d6af4d4-800w.webp"
+  - "/images/statue-of-alexander-von-humboldt-berlin/01-0d6af4d4-800w.webp"
 ---
 
 ## Overview

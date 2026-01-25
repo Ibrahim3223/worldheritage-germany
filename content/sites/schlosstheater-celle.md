@@ -13,7 +13,7 @@ regions:
 latitude: 52.6239
 longitude: 10.0775
 images:
-  - "/images-sites/schlosstheater-celle/01-6731510d-800w.webp"
+  - "/images/schlosstheater-celle/01-6731510d-800w.webp"
 ---
 
 ## Overview

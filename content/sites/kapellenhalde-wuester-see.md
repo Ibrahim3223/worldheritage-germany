@@ -13,7 +13,7 @@ regions:
 latitude: 47.639827
 longitude: 8.535534
 images:
-  - "/images-sites/kapellenhalde-wuester-see/01-3d0f77d9-800w.webp"
+  - "/images/kapellenhalde-wuester-see/01-3d0f77d9-800w.webp"
 ---
 
 ## Overview

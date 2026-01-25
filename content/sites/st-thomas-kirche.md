@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1414006"
 description: "In the quaint village of Damshagen, Germany, the St-Thomas-Kirche stands as a remarkable example of Brick Gothic architecture. This church, constructed ..."
 images:
-  - "/images-sites/st-thomas-kirche/01-93f2aab3-1920w.webp"
-  - "/images-sites/st-thomas-kirche/01-cbbfe268-1920w.webp"
-  - "/images-sites/st-thomas-kirche/02-26a116ff-1920w.webp"
+  - "/images/st-thomas-kirche/01-93f2aab3-1920w.webp"
+  - "/images/st-thomas-kirche/01-cbbfe268-1920w.webp"
+  - "/images/st-thomas-kirche/02-26a116ff-1920w.webp"
 ---
 
 ## Overview

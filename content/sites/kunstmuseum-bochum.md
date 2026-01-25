@@ -13,7 +13,7 @@ regions:
 latitude: 51.4874
 longitude: 7.22122
 images:
-  - "/images-sites/kunstmuseum-bochum/02-9bf1099f-800w.webp"
+  - "/images/kunstmuseum-bochum/02-9bf1099f-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 6.64222
 
 # Images
 images:
-  - "/images-sites/trier-imperial-baths/01-3c1972c2-800w.webp"
+  - "/images/trier-imperial-baths/01-3c1972c2-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Beethoven Monument"
+title: Beethoven Monument
 date: 2026-01-23
 draft: false
-description: "statue in Bonn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: statue in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7345
 longitude: 7.09913
 images:
-  - "/images-sites/beethoven-monument/01-a978576c-800w.webp"
-  - "/images-sites/beethoven-monument/02-9d24ddeb-800w.webp"
-  - "/images-sites/beethoven-monument/03-2411685c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg/1200px-Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg/1200px-Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/1200px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/1200px-Beethoven_memorial_in_Bonn.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beethoven-Denkmal_Bonn.jpg/1200px-Beethoven-Denkmal_Bonn.jpg
+image_srcset:
+  Bonn, Weihnachtsmarkt am Münsterplatz -- 2018 -- 2562.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg/400px-Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg/800px-Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg/1200px-Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg/1920px-Bonn,_Weihnachtsmarkt_am_Münsterplatz_--_2018_--_2562.jpg
+  Bonn, Beethoven-Denkmal -- 2024 -- 3913.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg/400px-Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg/800px-Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg/1200px-Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg/1920px-Bonn,_Beethoven-Denkmal_--_2024_--_3913.jpg
+  Bonn, Beethoven-Denkmal -- 2020 -- 6513.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/400px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/800px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/1200px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/1920px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+  Beethoven memorial in Bonn.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/400px-Beethoven_memorial_in_Bonn.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/800px-Beethoven_memorial_in_Bonn.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/1200px-Beethoven_memorial_in_Bonn.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Beethoven_memorial_in_Bonn.JPG/1920px-Beethoven_memorial_in_Bonn.JPG
+  Beethoven-Denkmal Bonn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beethoven-Denkmal_Bonn.jpg/400px-Beethoven-Denkmal_Bonn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beethoven-Denkmal_Bonn.jpg/800px-Beethoven-Denkmal_Bonn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beethoven-Denkmal_Bonn.jpg/1200px-Beethoven-Denkmal_Bonn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beethoven-Denkmal_Bonn.jpg/1920px-Beethoven-Denkmal_Bonn.jpg
 ---
 
 ## Overview

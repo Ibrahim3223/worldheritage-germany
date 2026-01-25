@@ -13,7 +13,7 @@ regions:
 latitude: 47.76261
 longitude: 10.76596
 images:
-  - "/images-sites/saint-michael-chapel-kienberg-bernbeuren/01-80ff362f-800w.webp"
+  - "/images/saint-michael-chapel-kienberg-bernbeuren/01-80ff362f-800w.webp"
 ---
 
 ## Overview

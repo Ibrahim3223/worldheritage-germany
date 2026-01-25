@@ -13,7 +13,7 @@ regions:
 latitude: 51.7892
 longitude: 10.7767
 images:
-  - "/images-sites/zillierbach-dam/01-112d5eb7-800w.webp"
+  - "/images/zillierbach-dam/01-112d5eb7-800w.webp"
 ---
 
 ## Overview

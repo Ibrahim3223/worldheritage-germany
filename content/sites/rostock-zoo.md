@@ -13,9 +13,9 @@ regions:
 latitude: 54.0781
 longitude: 12.0904
 images:
-  - "/images-sites/rostock-zoo/01-992bb371-800w.webp"
-  - "/images-sites/rostock-zoo/02-9ef1a836-800w.webp"
-  - "/images-sites/rostock-zoo/03-4b9a0e58-800w.webp"
+  - "/images/rostock-zoo/01-992bb371-800w.webp"
+  - "/images/rostock-zoo/02-9ef1a836-800w.webp"
+  - "/images/rostock-zoo/03-4b9a0e58-800w.webp"
 ---
 
 ## Overview

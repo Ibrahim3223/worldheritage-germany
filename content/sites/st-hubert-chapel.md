@@ -13,7 +13,7 @@ regions:
 latitude: 51.3481
 longitude: 6.75333
 images:
-  - "/images-sites/st-hubert-chapel/01-c2c9b922-800w.webp"
+  - "/images/st-hubert-chapel/01-c2c9b922-800w.webp"
 ---
 
 ## Overview

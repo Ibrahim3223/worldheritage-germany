@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Friedrichsfelde Ost station"
+title: Berlin-Friedrichsfelde Ost station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5141
 longitude: 13.5198
 images:
-  - "/images-sites/berlin-friedrichsfelde-ost-station/01-75d57cbb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg/1200px-Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG/1200px-Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bhf_Friedrichsfelde_Ost.jpeg/1200px-Bhf_Friedrichsfelde_Ost.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg/1200px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg/1200px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Friedrichsfelde Ost (S07 0682).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg/400px-Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg/800px-Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg/1200px-Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg/1920px-Berlin_S-Bahn_Bhf_Friedrichsfelde_Ost_(S07_0682).jpg
+  Bahnhof Berlin-Friedrichsfelde Ost 183-288.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG/400px-Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG/800px-Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG/1200px-Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG/1920px-Bahnhof_Berlin-Friedrichsfelde_Ost_183-288.JPG
+  Bhf Friedrichsfelde Ost.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bhf_Friedrichsfelde_Ost.jpeg/400px-Bhf_Friedrichsfelde_Ost.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bhf_Friedrichsfelde_Ost.jpeg/800px-Bhf_Friedrichsfelde_Ost.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bhf_Friedrichsfelde_Ost.jpeg/1200px-Bhf_Friedrichsfelde_Ost.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bhf_Friedrichsfelde_Ost.jpeg/1920px-Bhf_Friedrichsfelde_Ost.jpeg
+  Clp 20101227 Bf Berlin-Friedrichsfelde Ost EG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg/400px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg/800px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg/1200px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg/1920px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EG.jpg
+  Clp 20101227 Bf Berlin-Friedrichsfelde Ost EÜ Marzahner Chaussee 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg/400px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg/800px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg/1200px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg/1920px-Clp_20101227_Bf_Berlin-Friedrichsfelde_Ost_EÜ_Marzahner_Chaussee_2.jpg
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Erfurt Cathedral"
-site_name: "Erfurt Cathedral"
-slug: "erfurt-cathedral"
-region: "Saxony-Anhalt"
-
-# Location
+title: Erfurt Cathedral
+site_name: Erfurt Cathedral
+slug: erfurt-cathedral
+region: Saxony-Anhalt
 latitude: 50.975869
 longitude: 11.023414
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q701567"
-description: "Erfurt Cathedral, officially known as the Cathedral of St. Mary, is a remarkable example of Gothic architecture situated in the heart of Thuringia, Germ..."
+- cultural site
+wikidata_id: Q701567
+description: Erfurt Cathedral, officially known as the Cathedral of St. Mary, is a
+  remarkable example of Gothic architecture situated in the heart of Thuringia, Germ...
 images:
-  - "/images-sites/erfurt-cathedral/01-e8900854-1920w.webp"
-  - "/images-sites/erfurt-cathedral/02-84285a50-1920w.webp"
-  - "/images-sites/erfurt-cathedral/03-af4aeb6f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg/1200px-Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg/1200px-Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg/1200px-Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/1200px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg/1200px-Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg
+image_srcset:
+  Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg/400px-Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg/800px-Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg/1200px-Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg/1920px-Erfurt%20Dom%20Domtreppe%20Severikirche%20small.jpg
+  Zentralbibliothek Zürich - Erfurt - 991113743629705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg/400px-Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg/800px-Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg/1200px-Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg/1920px-Zentralbibliothek_Zürich_-_Erfurt_-_991113743629705501.jpg
+  Cathedral and church in Erfurt - North facade of Erfurt cathedral and Severi church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg/400px-Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg/800px-Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg/1200px-Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg/1920px-Cathedral_and_church_in_Erfurt_-_North_facade_of_Erfurt_cathedral_and_Severi_church.jpg
+  Erfurt Dom Domtreppe Severikirche small.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/400px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/800px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/1200px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Erfurt_Dom_Domtreppe_Severikirche_small.jpg/1920px-Erfurt_Dom_Domtreppe_Severikirche_small.jpg
+  Green Man (Blattmaske) Erfurt Dom outside.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg/400px-Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg/800px-Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg/1200px-Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg/1920px-Green_Man_(Blattmaske)_Erfurt_Dom_outside.jpg
 ---
 
 ## Overview

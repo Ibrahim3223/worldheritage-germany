@@ -16,8 +16,8 @@ categories:
 wikidata_id: "Q879916"
 description: "In the heart of Dortmund, the Petrikirche rises majestically, a striking example of Gothic architecture that has drawn the eyes of locals and visitors a..."
 images:
-  - "/images-sites/petrikirche-dortmund/02-ffd3ca63-1920w.webp"
-  - "/images-sites/petrikirche-dortmund/03-955ad0df-1920w.webp"
+  - "/images/petrikirche-dortmund/02-ffd3ca63-1920w.webp"
+  - "/images/petrikirche-dortmund/03-955ad0df-1920w.webp"
 ---
 
 ## Overview

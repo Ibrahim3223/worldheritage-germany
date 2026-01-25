@@ -1,27 +1,49 @@
 ---
-title: "Altenstein Castle"
+title: Altenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle ruin in Maroldsweisach, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin in Maroldsweisach, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1715
 longitude: 10.7341
-
-# Images
 images:
-  - "/images-sites/altenstein-castle/01-09c65ed3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Altenstein_Burg-20200106-RM-152453.jpg/1200px-Altenstein_Burg-20200106-RM-152453.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Altenstein_Burgkapelle_-20200106-RM-151115.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-151115.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg/1200px-Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Altenstein_Gesamt.jpg/1200px-Burg_Altenstein_Gesamt.jpg
+image_srcset:
+  Altenstein Burg-20200106-RM-152453.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Altenstein_Burg-20200106-RM-152453.jpg/400px-Altenstein_Burg-20200106-RM-152453.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Altenstein_Burg-20200106-RM-152453.jpg/800px-Altenstein_Burg-20200106-RM-152453.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Altenstein_Burg-20200106-RM-152453.jpg/1200px-Altenstein_Burg-20200106-RM-152453.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Altenstein_Burg-20200106-RM-152453.jpg/1920px-Altenstein_Burg-20200106-RM-152453.jpg
+  Altenstein Burgkapelle -20200106-RM-161824.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/400px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/800px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/1920px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+  Altenstein Burgkapelle -20200106-RM-151115.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Altenstein_Burgkapelle_-20200106-RM-151115.jpg/400px-Altenstein_Burgkapelle_-20200106-RM-151115.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Altenstein_Burgkapelle_-20200106-RM-151115.jpg/800px-Altenstein_Burgkapelle_-20200106-RM-151115.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Altenstein_Burgkapelle_-20200106-RM-151115.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-151115.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Altenstein_Burgkapelle_-20200106-RM-151115.jpg/1920px-Altenstein_Burgkapelle_-20200106-RM-151115.jpg
+  Altenstein Burgkapelle Mond-20200106-RM-160107.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg/400px-Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg/800px-Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg/1200px-Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg/1920px-Altenstein_Burgkapelle_Mond-20200106-RM-160107.jpg
+  Burg Altenstein Gesamt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Altenstein_Gesamt.jpg/400px-Burg_Altenstein_Gesamt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Altenstein_Gesamt.jpg/800px-Burg_Altenstein_Gesamt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Altenstein_Gesamt.jpg/1200px-Burg_Altenstein_Gesamt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Altenstein_Gesamt.jpg/1920px-Burg_Altenstein_Gesamt.jpg
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Großer Wariner See"
+title: Großer Wariner See
 date: 2026-01-23
 draft: false
-description: "lake in Nordwestmecklenburg District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Nordwestmecklenburg District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.812777777
 longitude: 11.692222222
 images:
-  - "/images-sites/grosser-wariner-see/01-e8101961-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Großer_Wariner_See_Wariner_Seite.JPG/1200px-2010_Großer_Wariner_See_Wariner_Seite.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg/1200px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg/1200px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg/1200px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg
+image_srcset:
+  2010 Großer Wariner See Wariner Seite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Großer_Wariner_See_Wariner_Seite.JPG/400px-2010_Großer_Wariner_See_Wariner_Seite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Großer_Wariner_See_Wariner_Seite.JPG/800px-2010_Großer_Wariner_See_Wariner_Seite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Großer_Wariner_See_Wariner_Seite.JPG/1200px-2010_Großer_Wariner_See_Wariner_Seite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Großer_Wariner_See_Wariner_Seite.JPG/1920px-2010_Großer_Wariner_See_Wariner_Seite.JPG
+  LSG L2a2 Seengebiet Warin - Neukloster (Nordwestmecklenburg) Großer Wariner See - Blick vom Steg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg/400px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg/800px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg/1200px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg/1920px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Blick_vom_Steg.jpg
+  LSG L2a2 Seengebiet Warin - Neukloster (Nordwestmecklenburg) Großer Wariner See - Grosse Insel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg/400px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg/800px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg/1200px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg/1920px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_Grosse_Insel.jpg
+  LSG L2a2 Seengebiet Warin - Neukloster (Nordwestmecklenburg) Großer Wariner See - 2 Graugänse und Küken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg/400px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg/800px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg/1200px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg/1920px-LSG_L2a2_Seengebiet_Warin_-_Neukloster_(Nordwestmecklenburg)_Großer_Wariner_See_-_2_Graugänse_und_Küken.jpg
 ---
 
 ## Overview

@@ -1,37 +1,57 @@
 ---
-title: "Aachen Cathedral"
-site_name: "Aachen Cathedral"
+title: Aachen Cathedral
+site_name: Aachen Cathedral
 date: 2026-01-11
 draft: false
-wikidata_id: "Q5908"
-
-description: "Imagine standing before a structure that has witnessed over a millennium of history, its majestic silhouette dominating the skyline of Aachen, Germany. ..."
-# Display fields (for templates)
-region: "North Rhine-Westphalia"
-country: "Germany"
-heritage_type: "church building"
-
-# Taxonomies (Hugo plural format)
+wikidata_id: Q5908
+description: Imagine standing before a structure that has witnessed over a millennium
+  of history, its majestic silhouette dominating the skyline of Aachen, Germany. ...
+region: North Rhine-Westphalia
+country: Germany
+heritage_type: church building
 categories:
-  - "church building"
-  - "religious site"
+- church building
+- religious site
 regions:
-  - "North Rhine-Westphalia"
+- North Rhine-Westphalia
 tags:
-  - "unesco"
-
-# Location
+- unesco
 latitude: 50.77475
 longitude: 6.083922222
-
-# Visit Information
-entry_fee: "0"
-website: "https://www.aachenerdom.de/"
-
-# Images
+entry_fee: '0'
+website: https://www.aachenerdom.de/
 images:
-  - "/images/aachen-cathedral/wikimedia-1920w.webp"
-  - "/images/aachen-cathedral/satellite-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen%20Germany%20Imperial-Cathedral-01.jpg/1200px-Aachen%20Germany%20Imperial-Cathedral-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/1200px-Ungarnkapelle_Aachener_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1200px-Aachen_Germany_Imperial-Cathedral-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BD_Aachener_Dom_Eingangsportal_2023.jpg/1200px-AC_BD_Aachener_Dom_Eingangsportal_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg/1200px-Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg
+image_srcset:
+  Aachen%20Germany%20Imperial-Cathedral-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen%20Germany%20Imperial-Cathedral-01.jpg/400px-Aachen%20Germany%20Imperial-Cathedral-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen%20Germany%20Imperial-Cathedral-01.jpg/800px-Aachen%20Germany%20Imperial-Cathedral-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen%20Germany%20Imperial-Cathedral-01.jpg/1200px-Aachen%20Germany%20Imperial-Cathedral-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen%20Germany%20Imperial-Cathedral-01.jpg/1920px-Aachen%20Germany%20Imperial-Cathedral-01.jpg
+  Ungarnkapelle Aachener Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/400px-Ungarnkapelle_Aachener_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/800px-Ungarnkapelle_Aachener_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/1200px-Ungarnkapelle_Aachener_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/1920px-Ungarnkapelle_Aachener_Dom.jpg
+  Aachen Germany Imperial-Cathedral-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/400px-Aachen_Germany_Imperial-Cathedral-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/800px-Aachen_Germany_Imperial-Cathedral-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1200px-Aachen_Germany_Imperial-Cathedral-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aachen_Germany_Imperial-Cathedral-01.jpg/1920px-Aachen_Germany_Imperial-Cathedral-01.jpg
+  AC BD Aachener Dom Eingangsportal 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BD_Aachener_Dom_Eingangsportal_2023.jpg/400px-AC_BD_Aachener_Dom_Eingangsportal_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BD_Aachener_Dom_Eingangsportal_2023.jpg/800px-AC_BD_Aachener_Dom_Eingangsportal_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BD_Aachener_Dom_Eingangsportal_2023.jpg/1200px-AC_BD_Aachener_Dom_Eingangsportal_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AC_BD_Aachener_Dom_Eingangsportal_2023.jpg/1920px-AC_BD_Aachener_Dom_Eingangsportal_2023.jpg
+  Blick auf das Rathaus und den Dom Aachens aufgenommen von St Jakob.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg/400px-Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg/800px-Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg/1200px-Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg/1920px-Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg
 ---
 
 ## Overview 

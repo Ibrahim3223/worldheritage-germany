@@ -1,20 +1,49 @@
 ---
-title: "Goldener Löwe Eisenach, SPD-Gedenkstätte"
+title: Goldener Löwe Eisenach, SPD-Gedenkstätte
 date: 2026-01-23
 draft: false
-description: "memorial"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9688
 longitude: 10.3225
 images:
-  - "/images-sites/goldener-loewe-eisenach-spd-gedenkstaette/01-fbf797c1-800w.webp"
-  - "/images-sites/goldener-loewe-eisenach-spd-gedenkstaette/03-11e05c72-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/1200px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Marienstraße_57_Eisenach_20191004_001.jpg/1200px-Marienstraße_57_Eisenach_20191004_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg/1200px-Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg/1200px-Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg/1200px-Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg
+image_srcset:
+  Thuringia Eisenach asv2020-07 img01 Goldener Löwe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/400px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/800px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/1200px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg/1920px-Thuringia_Eisenach_asv2020-07_img01_Goldener_Löwe.jpg
+  Marienstraße 57 Eisenach 20191004 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Marienstraße_57_Eisenach_20191004_001.jpg/400px-Marienstraße_57_Eisenach_20191004_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Marienstraße_57_Eisenach_20191004_001.jpg/800px-Marienstraße_57_Eisenach_20191004_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Marienstraße_57_Eisenach_20191004_001.jpg/1200px-Marienstraße_57_Eisenach_20191004_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Marienstraße_57_Eisenach_20191004_001.jpg/1920px-Marienstraße_57_Eisenach_20191004_001.jpg
+  Eisenach - Goldener Löwe Eisenach, SPD-Gedenkstätte - 20200909155804.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg/400px-Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg/800px-Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg/1200px-Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg/1920px-Eisenach_-_Goldener_Löwe_Eisenach,_SPD-Gedenkstätte_-_20200909155804.jpg
+  Hotel Goldener Löwe - Golden Lion Hotel, Eisenach DDR. Aug 1989 (5325076260).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg/400px-Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg/800px-Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg/1200px-Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg/1920px-Hotel_Goldener_Löwe_-_Golden_Lion_Hotel,_Eisenach_DDR._Aug_1989_(5325076260).jpg
+  Bundesarchiv Bild 183-L0119-0322, Eisenach, Gedenkstätte "Goldener Löwe".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg/400px-Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg/800px-Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg/1200px-Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg/1920px-Bundesarchiv_Bild_183-L0119-0322,_Eisenach,_Gedenkstätte_"Goldener_Löwe".jpg
 ---
 
 ## Overview

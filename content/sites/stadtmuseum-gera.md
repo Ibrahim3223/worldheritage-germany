@@ -13,7 +13,7 @@ regions:
 latitude: 50.8766
 longitude: 12.0806
 images:
-  - "/images-sites/stadtmuseum-gera/01-dacb3e59-800w.webp"
+  - "/images/stadtmuseum-gera/01-dacb3e59-800w.webp"
 ---
 
 ## Overview

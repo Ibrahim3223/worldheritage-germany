@@ -21,7 +21,7 @@ longitude: 8.4
 
 # Images
 images:
-  - "/images-sites/staatliche-kunsthalle-karlsruhe/01-7c249dc7-800w.webp"
+  - "/images/staatliche-kunsthalle-karlsruhe/01-7c249dc7-800w.webp"
 ---
 
 ## Overview

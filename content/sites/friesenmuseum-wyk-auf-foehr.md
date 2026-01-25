@@ -1,19 +1,49 @@
 ---
-title: "Friesenmuseum Wyk auf Föhr"
+title: Friesenmuseum Wyk auf Föhr
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6872
 longitude: 8.56194
 images:
-  - "/images-sites/friesenmuseum-wyk-auf-foehr/01-64829137-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG/1200px-Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Oval_001_2016_06_02.jpg/1200px-Oval_001_2016_06_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Föhr_Haus_Olesen_.JPG/1200px-Föhr_Haus_Olesen_.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1200px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Friesenmuseum.JPG/1200px-Friesenmuseum.JPG
+image_srcset:
+  Friesenmuseum Wyk - Bockwindmühle (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG/400px-Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG/800px-Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG/1200px-Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG/1920px-Friesenmuseum_Wyk_-_Bockwindmühle_(1).JPG
+  Oval 001 2016 06 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Oval_001_2016_06_02.jpg/400px-Oval_001_2016_06_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Oval_001_2016_06_02.jpg/800px-Oval_001_2016_06_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Oval_001_2016_06_02.jpg/1200px-Oval_001_2016_06_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Oval_001_2016_06_02.jpg/1920px-Oval_001_2016_06_02.jpg
+  Föhr Haus Olesen .JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Föhr_Haus_Olesen_.JPG/400px-Föhr_Haus_Olesen_.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Föhr_Haus_Olesen_.JPG/800px-Föhr_Haus_Olesen_.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Föhr_Haus_Olesen_.JPG/1200px-Föhr_Haus_Olesen_.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Föhr_Haus_Olesen_.JPG/1920px-Föhr_Haus_Olesen_.JPG
+  Foehr Wyk Panorama Friesenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/400px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/800px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1200px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Foehr_Wyk_Panorama_Friesenmuseum.jpg/1920px-Foehr_Wyk_Panorama_Friesenmuseum.jpg
+  Friesenmuseum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Friesenmuseum.JPG/400px-Friesenmuseum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Friesenmuseum.JPG/800px-Friesenmuseum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Friesenmuseum.JPG/1200px-Friesenmuseum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Friesenmuseum.JPG/1920px-Friesenmuseum.JPG
 ---
 
 ## Overview

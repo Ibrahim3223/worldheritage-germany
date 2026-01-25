@@ -1,21 +1,49 @@
 ---
-title: "Bierpinsel"
+title: Bierpinsel
 date: 2026-01-24
 draft: false
-description: "restaurant tower in Berlin-Steglitz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: restaurant tower in Berlin-Steglitz, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.461388888
 longitude: 13.324444444
 images:
-  - "/images-sites/bierpinsel/01-07d7fffb-800w.webp"
-  - "/images-sites/bierpinsel/02-9332c2e9-800w.webp"
-  - "/images-sites/bierpinsel/03-bd46f3d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bierpinsel_at_night_2021-01-07_03.jpg/1200px-Bierpinsel_at_night_2021-01-07_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bierpinsel_at_night_2021-01-07_04.jpg/1200px-Bierpinsel_at_night_2021-01-07_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Bierpinsel_(S01_1128)_SW.jpg/1200px-Berlin_Bierpinsel_(S01_1128)_SW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/1200px-Berlin_-_Bierpinsel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bierpinsel-Mutter_Erde_fec.jpg/1200px-Bierpinsel-Mutter_Erde_fec.jpg
+image_srcset:
+  Bierpinsel at night 2021-01-07 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bierpinsel_at_night_2021-01-07_03.jpg/400px-Bierpinsel_at_night_2021-01-07_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bierpinsel_at_night_2021-01-07_03.jpg/800px-Bierpinsel_at_night_2021-01-07_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bierpinsel_at_night_2021-01-07_03.jpg/1200px-Bierpinsel_at_night_2021-01-07_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bierpinsel_at_night_2021-01-07_03.jpg/1920px-Bierpinsel_at_night_2021-01-07_03.jpg
+  Bierpinsel at night 2021-01-07 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bierpinsel_at_night_2021-01-07_04.jpg/400px-Bierpinsel_at_night_2021-01-07_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bierpinsel_at_night_2021-01-07_04.jpg/800px-Bierpinsel_at_night_2021-01-07_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bierpinsel_at_night_2021-01-07_04.jpg/1200px-Bierpinsel_at_night_2021-01-07_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bierpinsel_at_night_2021-01-07_04.jpg/1920px-Bierpinsel_at_night_2021-01-07_04.jpg
+  Berlin Bierpinsel (S01 1128) SW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Bierpinsel_(S01_1128)_SW.jpg/400px-Berlin_Bierpinsel_(S01_1128)_SW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Bierpinsel_(S01_1128)_SW.jpg/800px-Berlin_Bierpinsel_(S01_1128)_SW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Bierpinsel_(S01_1128)_SW.jpg/1200px-Berlin_Bierpinsel_(S01_1128)_SW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_Bierpinsel_(S01_1128)_SW.jpg/1920px-Berlin_Bierpinsel_(S01_1128)_SW.jpg
+  Berlin - Bierpinsel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/400px-Berlin_-_Bierpinsel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/800px-Berlin_-_Bierpinsel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/1200px-Berlin_-_Bierpinsel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_-_Bierpinsel.jpg/1920px-Berlin_-_Bierpinsel.jpg
+  Bierpinsel-Mutter Erde fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bierpinsel-Mutter_Erde_fec.jpg/400px-Bierpinsel-Mutter_Erde_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bierpinsel-Mutter_Erde_fec.jpg/800px-Bierpinsel-Mutter_Erde_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bierpinsel-Mutter_Erde_fec.jpg/1200px-Bierpinsel-Mutter_Erde_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bierpinsel-Mutter_Erde_fec.jpg/1920px-Bierpinsel-Mutter_Erde_fec.jpg
 ---
 
 ## Overview

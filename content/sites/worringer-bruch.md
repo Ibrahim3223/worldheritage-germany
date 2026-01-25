@@ -13,9 +13,9 @@ regions:
 latitude: 51.047
 longitude: 6.858833333
 images:
-  - "/images-sites/worringer-bruch/01-05165796-800w.webp"
-  - "/images-sites/worringer-bruch/02-6134f414-800w.webp"
-  - "/images-sites/worringer-bruch/03-e1c6a1fa-800w.webp"
+  - "/images/worringer-bruch/01-05165796-800w.webp"
+  - "/images/worringer-bruch/02-6134f414-800w.webp"
+  - "/images/worringer-bruch/03-e1c6a1fa-800w.webp"
 ---
 
 ## Overview

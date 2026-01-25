@@ -1,27 +1,43 @@
 ---
-title: "Herrenhausen Gardens"
+title: Herrenhausen Gardens
 date: 2026-01-23
 draft: false
-description: "park in Hanover, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: park in Hanover, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.391666666
 longitude: 9.698333333
-
-# Images
 images:
-  - "/images-sites/herrenhausen-gardens/01-fe20296a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg/1200px-Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aerial_image_of_Großer_Garten_(view_from_the_south).jpg/1200px-Aerial_image_of_Großer_Garten_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1200px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/A_statue_at_Herrenhausen_garden.jpg/1200px-A_statue_at_Herrenhausen_garden.jpg
+image_srcset:
+  Aerial image of the northern part of Großer Garten (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg/400px-Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg/800px-Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg/1200px-Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg/1920px-Aerial_image_of_the_northern_part_of_Großer_Garten_(view_from_the_south).jpg
+  Aerial image of Großer Garten (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aerial_image_of_Großer_Garten_(view_from_the_south).jpg/400px-Aerial_image_of_Großer_Garten_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aerial_image_of_Großer_Garten_(view_from_the_south).jpg/800px-Aerial_image_of_Großer_Garten_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aerial_image_of_Großer_Garten_(view_from_the_south).jpg/1200px-Aerial_image_of_Großer_Garten_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aerial_image_of_Großer_Garten_(view_from_the_south).jpg/1920px-Aerial_image_of_Großer_Garten_(view_from_the_south).jpg
+  Aerial image of the Herrenhausen Gardens.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/400px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/800px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1200px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1920px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+  A statue at Herrenhausen garden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/A_statue_at_Herrenhausen_garden.jpg/400px-A_statue_at_Herrenhausen_garden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/A_statue_at_Herrenhausen_garden.jpg/800px-A_statue_at_Herrenhausen_garden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/A_statue_at_Herrenhausen_garden.jpg/1200px-A_statue_at_Herrenhausen_garden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/A_statue_at_Herrenhausen_garden.jpg/1920px-A_statue_at_Herrenhausen_garden.jpg
 ---
 
 ## Overview

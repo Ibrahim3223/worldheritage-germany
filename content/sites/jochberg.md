@@ -1,20 +1,49 @@
 ---
-title: "Jochberg"
+title: Jochberg
 date: 2026-01-23
 draft: false
-description: "mountain in the Bavarian Prealps in Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Bavarian Prealps in Bavaria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6258
 longitude: 11.3717
 images:
-  - "/images-sites/jochberg/02-a080ce69-800w.webp"
-  - "/images-sites/jochberg/03-bd54cae3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg/1200px-Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2025WalchenseeStMargarethJochberg.jpg/1200px-2025WalchenseeStMargarethJochberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pfarrkirche_Jochberg.jpg/1200px-Pfarrkirche_Jochberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jochberg_Luftbild_Panorama_2022.jpg/1200px-Jochberg_Luftbild_Panorama_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jochberg_im_Bezirk_KB.png/1200px-Jochberg_im_Bezirk_KB.png
+image_srcset:
+  Blick vom Südufer des Walchensees auf den Jochberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg/400px-Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg/800px-Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg/1200px-Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg/1920px-Blick_vom_Südufer_des_Walchensees_auf_den_Jochberg_02.jpg
+  2025WalchenseeStMargarethJochberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2025WalchenseeStMargarethJochberg.jpg/400px-2025WalchenseeStMargarethJochberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2025WalchenseeStMargarethJochberg.jpg/800px-2025WalchenseeStMargarethJochberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2025WalchenseeStMargarethJochberg.jpg/1200px-2025WalchenseeStMargarethJochberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2025WalchenseeStMargarethJochberg.jpg/1920px-2025WalchenseeStMargarethJochberg.jpg
+  Pfarrkirche Jochberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pfarrkirche_Jochberg.jpg/400px-Pfarrkirche_Jochberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pfarrkirche_Jochberg.jpg/800px-Pfarrkirche_Jochberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pfarrkirche_Jochberg.jpg/1200px-Pfarrkirche_Jochberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pfarrkirche_Jochberg.jpg/1920px-Pfarrkirche_Jochberg.jpg
+  Jochberg Luftbild Panorama 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jochberg_Luftbild_Panorama_2022.jpg/400px-Jochberg_Luftbild_Panorama_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jochberg_Luftbild_Panorama_2022.jpg/800px-Jochberg_Luftbild_Panorama_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jochberg_Luftbild_Panorama_2022.jpg/1200px-Jochberg_Luftbild_Panorama_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jochberg_Luftbild_Panorama_2022.jpg/1920px-Jochberg_Luftbild_Panorama_2022.jpg
+  Jochberg im Bezirk KB.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jochberg_im_Bezirk_KB.png/400px-Jochberg_im_Bezirk_KB.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jochberg_im_Bezirk_KB.png/800px-Jochberg_im_Bezirk_KB.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jochberg_im_Bezirk_KB.png/1200px-Jochberg_im_Bezirk_KB.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jochberg_im_Bezirk_KB.png/1920px-Jochberg_im_Bezirk_KB.png
 ---
 
 ## Overview

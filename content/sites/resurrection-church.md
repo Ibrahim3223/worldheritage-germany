@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q759634"
 description: "In the heart of Oberkassel, Düsseldorf, the Resurrection Church stands as a striking example of Art Nouveau architecture, captivating visitors with its ..."
 images:
-  - "/images-sites/resurrection-church/01-47fcd9d0-1920w.webp"
-  - "/images-sites/resurrection-church/02-18dd0b8b-1920w.webp"
-  - "/images-sites/resurrection-church/03-2154e016-1920w.webp"
+  - "/images/resurrection-church/01-47fcd9d0-1920w.webp"
+  - "/images/resurrection-church/02-18dd0b8b-1920w.webp"
+  - "/images/resurrection-church/03-2154e016-1920w.webp"
 ---
 
 ## Overview

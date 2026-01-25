@@ -13,7 +13,7 @@ regions:
 latitude: 48.7597
 longitude: 8.23788
 images:
-  - "/images-sites/theater-baden-baden/01-c54eab30-800w.webp"
+  - "/images/theater-baden-baden/01-c54eab30-800w.webp"
 ---
 
 ## Overview

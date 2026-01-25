@@ -1,19 +1,49 @@
 ---
-title: "Congresshalle"
+title: Congresshalle
 date: 2026-01-23
 draft: false
-description: "Concert hall in Saarbrücken, Germany,"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: Concert hall in Saarbrücken, Germany,
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 49.23772
 longitude: 6.987507
 images:
-  - "/images-sites/congresshalle/01-ceacf896-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Night_of_Light_2020_Saarbrücken_08.jpg/1200px-Night_of_Light_2020_Saarbrücken_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Night_of_Light_2020_Saarbrücken_09.jpg/1200px-Night_of_Light_2020_Saarbrücken_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Night_of_Light_2020_Saarbrücken_10.jpg/1200px-Night_of_Light_2020_Saarbrücken_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1200px-Kongresshalle_(2066721208).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hvp-saarbruecken.jpg/1200px-Hvp-saarbruecken.jpg
+image_srcset:
+  Night of Light 2020 Saarbrücken 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Night_of_Light_2020_Saarbrücken_08.jpg/400px-Night_of_Light_2020_Saarbrücken_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Night_of_Light_2020_Saarbrücken_08.jpg/800px-Night_of_Light_2020_Saarbrücken_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Night_of_Light_2020_Saarbrücken_08.jpg/1200px-Night_of_Light_2020_Saarbrücken_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Night_of_Light_2020_Saarbrücken_08.jpg/1920px-Night_of_Light_2020_Saarbrücken_08.jpg
+  Night of Light 2020 Saarbrücken 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Night_of_Light_2020_Saarbrücken_09.jpg/400px-Night_of_Light_2020_Saarbrücken_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Night_of_Light_2020_Saarbrücken_09.jpg/800px-Night_of_Light_2020_Saarbrücken_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Night_of_Light_2020_Saarbrücken_09.jpg/1200px-Night_of_Light_2020_Saarbrücken_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Night_of_Light_2020_Saarbrücken_09.jpg/1920px-Night_of_Light_2020_Saarbrücken_09.jpg
+  Night of Light 2020 Saarbrücken 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Night_of_Light_2020_Saarbrücken_10.jpg/400px-Night_of_Light_2020_Saarbrücken_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Night_of_Light_2020_Saarbrücken_10.jpg/800px-Night_of_Light_2020_Saarbrücken_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Night_of_Light_2020_Saarbrücken_10.jpg/1200px-Night_of_Light_2020_Saarbrücken_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Night_of_Light_2020_Saarbrücken_10.jpg/1920px-Night_of_Light_2020_Saarbrücken_10.jpg
+  Kongresshalle (2066721208).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/400px-Kongresshalle_(2066721208).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/800px-Kongresshalle_(2066721208).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1200px-Kongresshalle_(2066721208).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kongresshalle_(2066721208).jpg/1920px-Kongresshalle_(2066721208).jpg
+  Hvp-saarbruecken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hvp-saarbruecken.jpg/400px-Hvp-saarbruecken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hvp-saarbruecken.jpg/800px-Hvp-saarbruecken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hvp-saarbruecken.jpg/1200px-Hvp-saarbruecken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hvp-saarbruecken.jpg/1920px-Hvp-saarbruecken.jpg
 ---
 
 ## Overview

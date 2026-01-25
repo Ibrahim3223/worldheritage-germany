@@ -1,29 +1,49 @@
 ---
-title: "Charenza"
+title: Charenza
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.5017
 longitude: 13.31665
-
-# Images
 images:
-  - "/images-sites/charenza/01-9955ec42-800w.webp"
-  - "/images-sites/charenza/02-92281ded-800w.webp"
-  - "/images-sites/charenza/03-a6eb49f3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1200px-Burgwall_bei_Venz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burgwall_bei_Venz_3.jpg/1200px-Burgwall_bei_Venz_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall_bei_Venz_4.jpg/1200px-Burgwall_bei_Venz_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgwall_bei_Venz_5.jpg/1200px-Burgwall_bei_Venz_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burgwall_bei_Venz_6.jpg/1200px-Burgwall_bei_Venz_6.jpg
+image_srcset:
+  Burgwall bei Venz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/400px-Burgwall_bei_Venz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/800px-Burgwall_bei_Venz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1200px-Burgwall_bei_Venz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgwall_bei_Venz.jpg/1920px-Burgwall_bei_Venz.jpg
+  Burgwall bei Venz 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burgwall_bei_Venz_3.jpg/400px-Burgwall_bei_Venz_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burgwall_bei_Venz_3.jpg/800px-Burgwall_bei_Venz_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burgwall_bei_Venz_3.jpg/1200px-Burgwall_bei_Venz_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burgwall_bei_Venz_3.jpg/1920px-Burgwall_bei_Venz_3.jpg
+  Burgwall bei Venz 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall_bei_Venz_4.jpg/400px-Burgwall_bei_Venz_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall_bei_Venz_4.jpg/800px-Burgwall_bei_Venz_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall_bei_Venz_4.jpg/1200px-Burgwall_bei_Venz_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgwall_bei_Venz_4.jpg/1920px-Burgwall_bei_Venz_4.jpg
+  Burgwall bei Venz 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgwall_bei_Venz_5.jpg/400px-Burgwall_bei_Venz_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgwall_bei_Venz_5.jpg/800px-Burgwall_bei_Venz_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgwall_bei_Venz_5.jpg/1200px-Burgwall_bei_Venz_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgwall_bei_Venz_5.jpg/1920px-Burgwall_bei_Venz_5.jpg
+  Burgwall bei Venz 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burgwall_bei_Venz_6.jpg/400px-Burgwall_bei_Venz_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burgwall_bei_Venz_6.jpg/800px-Burgwall_bei_Venz_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burgwall_bei_Venz_6.jpg/1200px-Burgwall_bei_Venz_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Burgwall_bei_Venz_6.jpg/1920px-Burgwall_bei_Venz_6.jpg
 ---
 
 ## Overview

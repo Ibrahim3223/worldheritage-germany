@@ -1,20 +1,45 @@
 ---
-title: "Dorfkirche Woltzeten"
-site_name: "Dorfkirche Woltzeten"
-slug: "dorfkirche-woltzeten"
-region: "Lower Saxony"
-
-# Location
+title: Dorfkirche Woltzeten
+site_name: Dorfkirche Woltzeten
+slug: dorfkirche-woltzeten
+region: Lower Saxony
 latitude: 53.411409
 longitude: 7.090885
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1331057"
-description: "The Dorfkirche Woltzeten, a captivating example of Baroque architecture, invites visitors to immerse themselves in its serene atmosphere. This church, c..."
+- church building
+- religious site
+wikidata_id: Q1331057
+description: The Dorfkirche Woltzeten, a captivating example of Baroque architecture,
+  invites visitors to immerse themselves in its serene atmosphere. This church, c...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1200px-ChurchWoltzeten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/70652_Woltzeten_Turm_+_Kirche_v_N.jpg/1200px-70652_Woltzeten_Turm_+_Kirche_v_N.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/70653_Woltzeten_Kirche_v_N.jpg/1200px-70653_Woltzeten_Kirche_v_N.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/70654_Woltzeten_Kirche_v_S.jpg/1200px-70654_Woltzeten_Kirche_v_S.jpg
+image_srcset:
+  ChurchWoltzeten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/400px-ChurchWoltzeten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/800px-ChurchWoltzeten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1200px-ChurchWoltzeten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ChurchWoltzeten.JPG/1920px-ChurchWoltzeten.JPG
+  70652 Woltzeten Turm + Kirche v N.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/70652_Woltzeten_Turm_+_Kirche_v_N.jpg/400px-70652_Woltzeten_Turm_+_Kirche_v_N.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/70652_Woltzeten_Turm_+_Kirche_v_N.jpg/800px-70652_Woltzeten_Turm_+_Kirche_v_N.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/70652_Woltzeten_Turm_+_Kirche_v_N.jpg/1200px-70652_Woltzeten_Turm_+_Kirche_v_N.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/70652_Woltzeten_Turm_+_Kirche_v_N.jpg/1920px-70652_Woltzeten_Turm_+_Kirche_v_N.jpg
+  70653 Woltzeten Kirche v N.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/70653_Woltzeten_Kirche_v_N.jpg/400px-70653_Woltzeten_Kirche_v_N.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/70653_Woltzeten_Kirche_v_N.jpg/800px-70653_Woltzeten_Kirche_v_N.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/70653_Woltzeten_Kirche_v_N.jpg/1200px-70653_Woltzeten_Kirche_v_N.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/70653_Woltzeten_Kirche_v_N.jpg/1920px-70653_Woltzeten_Kirche_v_N.jpg
+  70654 Woltzeten Kirche v S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/70654_Woltzeten_Kirche_v_S.jpg/400px-70654_Woltzeten_Kirche_v_S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/70654_Woltzeten_Kirche_v_S.jpg/800px-70654_Woltzeten_Kirche_v_S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/70654_Woltzeten_Kirche_v_S.jpg/1200px-70654_Woltzeten_Kirche_v_S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/70654_Woltzeten_Kirche_v_S.jpg/1920px-70654_Woltzeten_Kirche_v_S.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.15611314
 longitude: 14.99059796
 images:
-  - "/images-sites/schlesisches-museum-zu-goerlitz/01-adfc927c-800w.webp"
-  - "/images-sites/schlesisches-museum-zu-goerlitz/02-5578f899-800w.webp"
-  - "/images-sites/schlesisches-museum-zu-goerlitz/03-540e4fcc-800w.webp"
+  - "/images/schlesisches-museum-zu-goerlitz/01-adfc927c-800w.webp"
+  - "/images/schlesisches-museum-zu-goerlitz/02-5578f899-800w.webp"
+  - "/images/schlesisches-museum-zu-goerlitz/03-540e4fcc-800w.webp"
 ---
 
 ## Overview

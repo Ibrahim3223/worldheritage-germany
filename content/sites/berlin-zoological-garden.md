@@ -1,19 +1,49 @@
 ---
-title: "Berlin Zoological Garden"
+title: Berlin Zoological Garden
 date: 2026-01-24
 draft: false
-description: "zoo in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 52.508333333
 longitude: 13.3375
 images:
-  - "/images-sites/berlin-zoological-garden/01-b96da315-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg/1200px-Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg/1200px-Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg/1200px-Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bahnhof_Zoo_Wegweiser_Zoo.JPG/1200px-Bahnhof_Zoo_Wegweiser_Zoo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1200px-Giraffe-berlin-zoo.jpg
+image_srcset:
+  Berlin - Berliner Zoo - Elefantentor1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg/400px-Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg/800px-Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg/1200px-Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg/1920px-Berlin_-_Berliner_Zoo_-_Elefantentor1.jpg
+  Antilopenhaus im Zoologischer Garten Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg/400px-Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg/800px-Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg/1200px-Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg/1920px-Antilopenhaus_im_Zoologischer_Garten_Berlin.jpg
+  Gedenktafel Hardenbergplatz 8 (Charl) Zoologischer Garten Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg/400px-Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg/800px-Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg/1200px-Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg/1920px-Gedenktafel_Hardenbergplatz_8_(Charl)_Zoologischer_Garten_Berlin.jpg
+  Bahnhof Zoo Wegweiser Zoo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bahnhof_Zoo_Wegweiser_Zoo.JPG/400px-Bahnhof_Zoo_Wegweiser_Zoo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bahnhof_Zoo_Wegweiser_Zoo.JPG/800px-Bahnhof_Zoo_Wegweiser_Zoo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bahnhof_Zoo_Wegweiser_Zoo.JPG/1200px-Bahnhof_Zoo_Wegweiser_Zoo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bahnhof_Zoo_Wegweiser_Zoo.JPG/1920px-Bahnhof_Zoo_Wegweiser_Zoo.JPG
+  Giraffe-berlin-zoo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/400px-Giraffe-berlin-zoo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/800px-Giraffe-berlin-zoo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1200px-Giraffe-berlin-zoo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Giraffe-berlin-zoo.jpg/1920px-Giraffe-berlin-zoo.jpg
 ---
 
 ## Overview

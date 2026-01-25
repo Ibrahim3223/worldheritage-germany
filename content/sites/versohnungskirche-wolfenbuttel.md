@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2518501"
 description: "In the heart of Wolfenbüttel, Germany, the Versöhnungskirche stands as a remarkable example of modern architecture, attracting visitors with its unique ..."
 images:
-  - "/images-sites/versohnungskirche-wolfenbuttel/01-75e8fcc4-1920w.webp"
-  - "/images-sites/versohnungskirche-wolfenbuttel/02-ba62cb5c-1920w.webp"
-  - "/images-sites/versohnungskirche-wolfenbuttel/03-8fb8f448-1920w.webp"
+  - "/images/versohnungskirche-wolfenbuttel/01-75e8fcc4-1920w.webp"
+  - "/images/versohnungskirche-wolfenbuttel/02-ba62cb5c-1920w.webp"
+  - "/images/versohnungskirche-wolfenbuttel/03-8fb8f448-1920w.webp"
 ---
 
 ## Overview

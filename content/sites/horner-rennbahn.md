@@ -1,21 +1,49 @@
 ---
-title: "Horner Rennbahn"
+title: Horner Rennbahn
 date: 2026-01-23
 draft: false
-description: "horse racing venue in Horn, Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: horse racing venue in Horn, Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 53.558333
 longitude: 10.085
 images:
-  - "/images-sites/horner-rennbahn/01-25623a5c-800w.webp"
-  - "/images-sites/horner-rennbahn/02-17989914-800w.webp"
-  - "/images-sites/horner-rennbahn/03-f6c7b88a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg/1200px-Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Horner_Rennbahn_Freizeitpark_(2).jpg/1200px-Horner_Rennbahn_Freizeitpark_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/U-Bahnhof_Horner_Rennbahn_4.jpg/1200px-U-Bahnhof_Horner_Rennbahn_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Horner_Rennbahn_Luftbild_2023-06-06.jpg/1200px-Horner_Rennbahn_Luftbild_2023-06-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg/1200px-Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg
+image_srcset:
+  Hamburg- Horn- Horner Rennbahn- von Rennbahnstraße aus 9.4.2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg/400px-Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg/800px-Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg/1200px-Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg/1920px-Hamburg-_Horn-_Horner_Rennbahn-_von_Rennbahnstraße_aus_9.4.2009.jpg
+  Horner Rennbahn Freizeitpark (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Horner_Rennbahn_Freizeitpark_(2).jpg/400px-Horner_Rennbahn_Freizeitpark_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Horner_Rennbahn_Freizeitpark_(2).jpg/800px-Horner_Rennbahn_Freizeitpark_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Horner_Rennbahn_Freizeitpark_(2).jpg/1200px-Horner_Rennbahn_Freizeitpark_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Horner_Rennbahn_Freizeitpark_(2).jpg/1920px-Horner_Rennbahn_Freizeitpark_(2).jpg
+  U-Bahnhof Horner Rennbahn 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/U-Bahnhof_Horner_Rennbahn_4.jpg/400px-U-Bahnhof_Horner_Rennbahn_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/U-Bahnhof_Horner_Rennbahn_4.jpg/800px-U-Bahnhof_Horner_Rennbahn_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/U-Bahnhof_Horner_Rennbahn_4.jpg/1200px-U-Bahnhof_Horner_Rennbahn_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/U-Bahnhof_Horner_Rennbahn_4.jpg/1920px-U-Bahnhof_Horner_Rennbahn_4.jpg
+  Horner Rennbahn Luftbild 2023-06-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Horner_Rennbahn_Luftbild_2023-06-06.jpg/400px-Horner_Rennbahn_Luftbild_2023-06-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Horner_Rennbahn_Luftbild_2023-06-06.jpg/800px-Horner_Rennbahn_Luftbild_2023-06-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Horner_Rennbahn_Luftbild_2023-06-06.jpg/1200px-Horner_Rennbahn_Luftbild_2023-06-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Horner_Rennbahn_Luftbild_2023-06-06.jpg/1920px-Horner_Rennbahn_Luftbild_2023-06-06.jpg
+  Bundesarchiv Bild 183-2005-0812-517, Hamburg-Horn, Galopprennen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg/400px-Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg/800px-Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg/1200px-Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg/1920px-Bundesarchiv_Bild_183-2005-0812-517,_Hamburg-Horn,_Galopprennen.jpg
 ---
 
 ## Overview

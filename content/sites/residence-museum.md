@@ -13,8 +13,8 @@ regions:
 latitude: 48.1403
 longitude: 11.5783
 images:
-  - "/images-sites/residence-museum/02-08f63654-800w.webp"
-  - "/images-sites/residence-museum/03-8c1260b4-800w.webp"
+  - "/images/residence-museum/02-08f63654-800w.webp"
+  - "/images/residence-museum/03-8c1260b4-800w.webp"
 ---
 
 ## Overview

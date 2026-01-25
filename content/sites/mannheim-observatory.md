@@ -13,7 +13,7 @@ regions:
 latitude: 49.4865
 longitude: 8.4597
 images:
-  - "/images-sites/mannheim-observatory/01-8be1c947-800w.webp"
+  - "/images/mannheim-observatory/01-8be1c947-800w.webp"
 ---
 
 ## Overview

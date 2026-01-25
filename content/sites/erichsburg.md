@@ -1,27 +1,49 @@
 ---
-title: "Erichsburg"
+title: Erichsburg
 date: 2026-01-23
 draft: false
-description: "lowland castle (Niederungsburg) in Dassel-Erichsburg"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: lowland castle (Niederungsburg) in Dassel-Erichsburg
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.8226
 longitude: 9.7182
-
-# Images
 images:
-  - "/images-sites/erichsburg/01-8bd6ab07-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Erichsburg_(Merian).jpg/1200px-Erichsburg_(Merian).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Merian_Erichsburg.png/1200px-Merian_Erichsburg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Erichsburg_Schild.jpg/1200px-Erichsburg_Schild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erichsburg_Turm.jpg/1200px-Erichsburg_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erichsburg_Detail.jpg/1200px-Erichsburg_Detail.jpg
+image_srcset:
+  Erichsburg (Merian).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Erichsburg_(Merian).jpg/400px-Erichsburg_(Merian).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Erichsburg_(Merian).jpg/800px-Erichsburg_(Merian).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Erichsburg_(Merian).jpg/1200px-Erichsburg_(Merian).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Erichsburg_(Merian).jpg/1920px-Erichsburg_(Merian).jpg
+  Merian Erichsburg.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Merian_Erichsburg.png/400px-Merian_Erichsburg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Merian_Erichsburg.png/800px-Merian_Erichsburg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Merian_Erichsburg.png/1200px-Merian_Erichsburg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Merian_Erichsburg.png/1920px-Merian_Erichsburg.png
+  Erichsburg Schild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Erichsburg_Schild.jpg/400px-Erichsburg_Schild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Erichsburg_Schild.jpg/800px-Erichsburg_Schild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Erichsburg_Schild.jpg/1200px-Erichsburg_Schild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Erichsburg_Schild.jpg/1920px-Erichsburg_Schild.jpg
+  Erichsburg Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erichsburg_Turm.jpg/400px-Erichsburg_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erichsburg_Turm.jpg/800px-Erichsburg_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erichsburg_Turm.jpg/1200px-Erichsburg_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erichsburg_Turm.jpg/1920px-Erichsburg_Turm.jpg
+  Erichsburg Detail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erichsburg_Detail.jpg/400px-Erichsburg_Detail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erichsburg_Detail.jpg/800px-Erichsburg_Detail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erichsburg_Detail.jpg/1200px-Erichsburg_Detail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erichsburg_Detail.jpg/1920px-Erichsburg_Detail.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 48.12023
 longitude: 7.84978
 images:
-  - "/images-sites/the-german-diary-archive/01-d1ccc59a-800w.webp"
-  - "/images-sites/the-german-diary-archive/02-d6977b25-800w.webp"
-  - "/images-sites/the-german-diary-archive/03-b56b94c8-800w.webp"
+  - "/images/the-german-diary-archive/01-d1ccc59a-800w.webp"
+  - "/images/the-german-diary-archive/02-d6977b25-800w.webp"
+  - "/images/the-german-diary-archive/03-b56b94c8-800w.webp"
 ---
 
 ## Overview

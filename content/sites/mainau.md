@@ -13,9 +13,9 @@ regions:
 latitude: 47.705
 longitude: 9.195278
 images:
-  - "/images-sites/mainau/01-2f6d3ccd-800w.webp"
-  - "/images-sites/mainau/02-dd0253bf-800w.webp"
-  - "/images-sites/mainau/03-ae0eff4a-800w.webp"
+  - "/images/mainau/01-2f6d3ccd-800w.webp"
+  - "/images/mainau/02-dd0253bf-800w.webp"
+  - "/images/mainau/03-ae0eff4a-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "former synagogue"
+title: former synagogue
 date: 2026-01-23
 draft: false
-description: "former synagogue in Mülheim an der Ruhr, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: former synagogue in Mülheim an der Ruhr, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 51.42924
 longitude: 6.88237
 images:
-  - "/images-sites/former-synagogue/01-f23f1021-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Synagogue_Kojetín2.jpg/1200px-Synagogue_Kojetín2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Synagogue_Kojetín1.jpg/1200px-Synagogue_Kojetín1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kojetín,_synagoga.jpg/1200px-Kojetín,_synagoga.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Synagoga_Kojetín_interiér.jpg/1200px-Synagoga_Kojetín_interiér.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Synagogue_Kojetín_sign_cropped.jpg/1200px-Synagogue_Kojetín_sign_cropped.jpg
+image_srcset:
+  Synagogue Kojetín2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Synagogue_Kojetín2.jpg/400px-Synagogue_Kojetín2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Synagogue_Kojetín2.jpg/800px-Synagogue_Kojetín2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Synagogue_Kojetín2.jpg/1200px-Synagogue_Kojetín2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Synagogue_Kojetín2.jpg/1920px-Synagogue_Kojetín2.jpg
+  Synagogue Kojetín1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Synagogue_Kojetín1.jpg/400px-Synagogue_Kojetín1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Synagogue_Kojetín1.jpg/800px-Synagogue_Kojetín1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Synagogue_Kojetín1.jpg/1200px-Synagogue_Kojetín1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Synagogue_Kojetín1.jpg/1920px-Synagogue_Kojetín1.jpg
+  Kojetín, synagoga.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kojetín,_synagoga.jpg/400px-Kojetín,_synagoga.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kojetín,_synagoga.jpg/800px-Kojetín,_synagoga.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kojetín,_synagoga.jpg/1200px-Kojetín,_synagoga.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kojetín,_synagoga.jpg/1920px-Kojetín,_synagoga.jpg
+  Synagoga Kojetín interiér.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Synagoga_Kojetín_interiér.jpg/400px-Synagoga_Kojetín_interiér.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Synagoga_Kojetín_interiér.jpg/800px-Synagoga_Kojetín_interiér.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Synagoga_Kojetín_interiér.jpg/1200px-Synagoga_Kojetín_interiér.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Synagoga_Kojetín_interiér.jpg/1920px-Synagoga_Kojetín_interiér.jpg
+  Synagogue Kojetín sign cropped.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Synagogue_Kojetín_sign_cropped.jpg/400px-Synagogue_Kojetín_sign_cropped.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Synagogue_Kojetín_sign_cropped.jpg/800px-Synagogue_Kojetín_sign_cropped.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Synagogue_Kojetín_sign_cropped.jpg/1200px-Synagogue_Kojetín_sign_cropped.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Synagogue_Kojetín_sign_cropped.jpg/1920px-Synagogue_Kojetín_sign_cropped.jpg
 ---
 
 ## Overview

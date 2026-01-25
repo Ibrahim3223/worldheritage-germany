@@ -1,19 +1,49 @@
 ---
-title: "Gutshaus Mallenchen"
+title: Gutshaus Mallenchen
 date: 2026-01-23
 draft: false
-description: "denkmalgeschütztes Gutshaus im Ort Mallenchen, Calau in Brandenburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: denkmalgeschütztes Gutshaus im Ort Mallenchen, Calau in Brandenburg
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7624
 longitude: 13.856
 images:
-  - "/images-sites/gutshaus-mallenchen/01-4db46a5a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Calau_Mallenchen_Gutshaus.JPG/1200px-Calau_Mallenchen_Gutshaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1200px-20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1200px-20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1200px-20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gut_Mallenchen_Sammlung_Duncker.jpg/1200px-Gut_Mallenchen_Sammlung_Duncker.jpg
+image_srcset:
+  Calau Mallenchen Gutshaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Calau_Mallenchen_Gutshaus.JPG/400px-Calau_Mallenchen_Gutshaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Calau_Mallenchen_Gutshaus.JPG/800px-Calau_Mallenchen_Gutshaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Calau_Mallenchen_Gutshaus.JPG/1200px-Calau_Mallenchen_Gutshaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Calau_Mallenchen_Gutshaus.JPG/1920px-Calau_Mallenchen_Gutshaus.JPG
+  20150429500MDR Mallenchen (Calau) Gutsherrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/400px-20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/800px-20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1200px-20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1920px-20150429500MDR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+  20150429515DR Mallenchen (Calau) Gutsherrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/400px-20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/800px-20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1200px-20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1920px-20150429515DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+  20150429505DR Mallenchen (Calau) Gutsherrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/400px-20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/800px-20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1200px-20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg/1920px-20150429505DR_Mallenchen_(Calau)_Gutsherrenhaus.jpg
+  Gut Mallenchen Sammlung Duncker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gut_Mallenchen_Sammlung_Duncker.jpg/400px-Gut_Mallenchen_Sammlung_Duncker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gut_Mallenchen_Sammlung_Duncker.jpg/800px-Gut_Mallenchen_Sammlung_Duncker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gut_Mallenchen_Sammlung_Duncker.jpg/1200px-Gut_Mallenchen_Sammlung_Duncker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gut_Mallenchen_Sammlung_Duncker.jpg/1920px-Gut_Mallenchen_Sammlung_Duncker.jpg
 ---
 
 ## Overview

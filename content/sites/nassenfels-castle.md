@@ -21,7 +21,7 @@ longitude: 11.229172321
 
 # Images
 images:
-  - "/images-sites/nassenfels-castle/01-b786a2c3-800w.webp"
+  - "/images/nassenfels-castle/01-b786a2c3-800w.webp"
 ---
 
 ## Overview

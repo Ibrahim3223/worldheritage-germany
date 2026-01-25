@@ -1,19 +1,43 @@
 ---
-title: "Eddesser Seewiesen"
+title: Eddesser Seewiesen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4219
 longitude: 10.2236
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eddesser_Seewiesen_-_01.jpg/1200px-Eddesser_Seewiesen_-_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eddesser_Seewiesen_-_02.jpg/1200px-Eddesser_Seewiesen_-_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eddesser_Seewiesen_-_03.jpg/1200px-Eddesser_Seewiesen_-_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddesser_Seewiesen_-_04.jpg/1200px-Eddesser_Seewiesen_-_04.jpg
+image_srcset:
+  Eddesser Seewiesen - 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eddesser_Seewiesen_-_01.jpg/400px-Eddesser_Seewiesen_-_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eddesser_Seewiesen_-_01.jpg/800px-Eddesser_Seewiesen_-_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eddesser_Seewiesen_-_01.jpg/1200px-Eddesser_Seewiesen_-_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eddesser_Seewiesen_-_01.jpg/1920px-Eddesser_Seewiesen_-_01.jpg
+  Eddesser Seewiesen - 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eddesser_Seewiesen_-_02.jpg/400px-Eddesser_Seewiesen_-_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eddesser_Seewiesen_-_02.jpg/800px-Eddesser_Seewiesen_-_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eddesser_Seewiesen_-_02.jpg/1200px-Eddesser_Seewiesen_-_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eddesser_Seewiesen_-_02.jpg/1920px-Eddesser_Seewiesen_-_02.jpg
+  Eddesser Seewiesen - 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eddesser_Seewiesen_-_03.jpg/400px-Eddesser_Seewiesen_-_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eddesser_Seewiesen_-_03.jpg/800px-Eddesser_Seewiesen_-_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eddesser_Seewiesen_-_03.jpg/1200px-Eddesser_Seewiesen_-_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Eddesser_Seewiesen_-_03.jpg/1920px-Eddesser_Seewiesen_-_03.jpg
+  Eddesser Seewiesen - 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddesser_Seewiesen_-_04.jpg/400px-Eddesser_Seewiesen_-_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddesser_Seewiesen_-_04.jpg/800px-Eddesser_Seewiesen_-_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddesser_Seewiesen_-_04.jpg/1200px-Eddesser_Seewiesen_-_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eddesser_Seewiesen_-_04.jpg/1920px-Eddesser_Seewiesen_-_04.jpg
 ---
 
 ## Overview

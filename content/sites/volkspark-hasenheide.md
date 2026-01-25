@@ -13,7 +13,7 @@ regions:
 latitude: 52.484
 longitude: 13.416
 images:
-  - "/images-sites/volkspark-hasenheide/01-2317a494-800w.webp"
+  - "/images/volkspark-hasenheide/01-2317a494-800w.webp"
 ---
 
 ## Overview

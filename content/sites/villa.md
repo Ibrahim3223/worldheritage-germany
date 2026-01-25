@@ -13,7 +13,7 @@ regions:
 latitude: 50.3033
 longitude: 9.74401
 images:
-  - "/images-sites/villa/01-5e82cd5e-800w.webp"
+  - "/images/villa/01-5e82cd5e-800w.webp"
 ---
 
 ## Overview

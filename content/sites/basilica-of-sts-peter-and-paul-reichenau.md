@@ -1,19 +1,27 @@
 ---
-title: "Basilica of Sts. Peter and PaulReichenau"
-site_name: "Basilica of Sts. Peter and PaulReichenau"
-slug: "basilica-of-sts-peter-and-paul-reichenau"
-region: "Baden-Württemberg"
-
-# Location
+title: Basilica of Sts. Peter and PaulReichenau
+site_name: Basilica of Sts. Peter and PaulReichenau
+slug: basilica-of-sts-peter-and-paul-reichenau
+region: Baden-Württemberg
 latitude: 47.70689
 longitude: 9.04422
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q875916"
-description: "The Basilica of Sts. Peter and Paul in Reichenau stands as a remarkable example of Romanesque architecture in Germany, drawing visitors from around the ..."
+- cultural site
+wikidata_id: Q875916
+description: The Basilica of Sts. Peter and Paul in Reichenau stands as a remarkable
+  example of Romanesque architecture in Germany, drawing visitors from around the
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1200px-Niederzell.jpg
+image_srcset:
+  Niederzell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/400px-Niederzell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/800px-Niederzell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1200px-Niederzell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Niederzell.jpg/1920px-Niederzell.jpg
 ---
 
 ## Overview

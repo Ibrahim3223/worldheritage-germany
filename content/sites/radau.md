@@ -13,7 +13,7 @@ regions:
 latitude: 51.9581
 longitude: 10.5725
 images:
-  - "/images-sites/radau/01-ac2c8919-800w.webp"
+  - "/images/radau/01-ac2c8919-800w.webp"
 ---
 
 ## Overview

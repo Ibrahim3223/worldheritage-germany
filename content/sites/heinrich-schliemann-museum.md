@@ -1,19 +1,49 @@
 ---
-title: "Heinrich-Schliemann-Museum"
+title: Heinrich-Schliemann-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Ankershagen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: museum in Ankershagen, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 53.4838625
 longitude: 12.957932
 images:
-  - "/images-sites/heinrich-schliemann-museum/01-9d5653a6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG/1200px-Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinrich-Schliemann-Relief_Ankershagen.jpg/1200px-Heinrich-Schliemann-Relief_Ankershagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1200px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg/1200px-Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg/1200px-Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg
+image_srcset:
+  Trojanisches Pferd am Schliemann-Museum Ankershagen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG/400px-Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG/800px-Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG/1200px-Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG/1920px-Trojanisches_Pferd_am_Schliemann-Museum_Ankershagen.JPG
+  Heinrich-Schliemann-Relief Ankershagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinrich-Schliemann-Relief_Ankershagen.jpg/400px-Heinrich-Schliemann-Relief_Ankershagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinrich-Schliemann-Relief_Ankershagen.jpg/800px-Heinrich-Schliemann-Relief_Ankershagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinrich-Schliemann-Relief_Ankershagen.jpg/1200px-Heinrich-Schliemann-Relief_Ankershagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinrich-Schliemann-Relief_Ankershagen.jpg/1920px-Heinrich-Schliemann-Relief_Ankershagen.jpg
+  Ehemaliges Pfarrhaus Ankerhagen, heute Heinrich-Schliemann-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/400px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/800px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1200px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg/1920px-Ehemaliges_Pfarrhaus_Ankerhagen,_heute_Heinrich-Schliemann-Museum.jpg
+  Relief Heinrich Schliemanns am Heinrich-Schliemann-Museum Ankershagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg/400px-Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg/800px-Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg/1200px-Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg/1920px-Relief_Heinrich_Schliemanns_am_Heinrich-Schliemann-Museum_Ankershagen.jpg
+  Fotothek df ps 0002350 Ausstellungen ^ Ausstellungsgebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg/400px-Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg/800px-Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg/1200px-Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg/1920px-Fotothek_df_ps_0002350_Ausstellungen_^_Ausstellungsgebäude.jpg
 ---
 
 ## Overview

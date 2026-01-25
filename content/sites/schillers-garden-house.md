@@ -13,7 +13,7 @@ regions:
 latitude: 50.9258
 longitude: 11.5833
 images:
-  - "/images-sites/schillers-garden-house/01-2f62fd32-800w.webp"
+  - "/images/schillers-garden-house/01-2f62fd32-800w.webp"
 ---
 
 ## Overview

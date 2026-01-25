@@ -13,7 +13,7 @@ regions:
 latitude: 51.849
 longitude: 12.2383
 images:
-  - "/images-sites/tierpark-dessau/01-13d323a2-800w.webp"
+  - "/images/tierpark-dessau/01-13d323a2-800w.webp"
 ---
 
 ## Overview

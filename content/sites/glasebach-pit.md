@@ -1,19 +1,49 @@
 ---
-title: "Glasebach Pit"
+title: Glasebach Pit
 date: 2026-01-23
 draft: false
-description: "mine"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6125
 longitude: 11.0608
 images:
-  - "/images-sites/glasebach-pit/01-0f245a36-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grube_Glasebach_Foerdermaschine.jpg/1200px-Grube_Glasebach_Foerdermaschine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grube_Glasebach_Foerdergeruest.JPG/1200px-Grube_Glasebach_Foerdergeruest.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grube_Glasebach_2.jpg/1200px-Grube_Glasebach_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grube_Glasebach.jpg/1200px-Grube_Glasebach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BBA_EL_61_crop.jpg/1200px-BBA_EL_61_crop.jpg
+image_srcset:
+  Grube Glasebach Foerdermaschine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grube_Glasebach_Foerdermaschine.jpg/400px-Grube_Glasebach_Foerdermaschine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grube_Glasebach_Foerdermaschine.jpg/800px-Grube_Glasebach_Foerdermaschine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grube_Glasebach_Foerdermaschine.jpg/1200px-Grube_Glasebach_Foerdermaschine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grube_Glasebach_Foerdermaschine.jpg/1920px-Grube_Glasebach_Foerdermaschine.jpg
+  Grube Glasebach Foerdergeruest.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grube_Glasebach_Foerdergeruest.JPG/400px-Grube_Glasebach_Foerdergeruest.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grube_Glasebach_Foerdergeruest.JPG/800px-Grube_Glasebach_Foerdergeruest.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grube_Glasebach_Foerdergeruest.JPG/1200px-Grube_Glasebach_Foerdergeruest.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Grube_Glasebach_Foerdergeruest.JPG/1920px-Grube_Glasebach_Foerdergeruest.JPG
+  Grube Glasebach 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grube_Glasebach_2.jpg/400px-Grube_Glasebach_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grube_Glasebach_2.jpg/800px-Grube_Glasebach_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grube_Glasebach_2.jpg/1200px-Grube_Glasebach_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grube_Glasebach_2.jpg/1920px-Grube_Glasebach_2.jpg
+  Grube Glasebach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grube_Glasebach.jpg/400px-Grube_Glasebach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grube_Glasebach.jpg/800px-Grube_Glasebach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grube_Glasebach.jpg/1200px-Grube_Glasebach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grube_Glasebach.jpg/1920px-Grube_Glasebach.jpg
+  BBA EL 61 crop.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BBA_EL_61_crop.jpg/400px-BBA_EL_61_crop.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BBA_EL_61_crop.jpg/800px-BBA_EL_61_crop.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BBA_EL_61_crop.jpg/1200px-BBA_EL_61_crop.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BBA_EL_61_crop.jpg/1920px-BBA_EL_61_crop.jpg
 ---
 
 ## Overview

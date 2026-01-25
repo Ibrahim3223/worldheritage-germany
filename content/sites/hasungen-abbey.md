@@ -1,19 +1,49 @@
 ---
-title: "Hasungen Abbey"
+title: Hasungen Abbey
 date: 2026-01-23
 draft: false
-description: "human settlement"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.323888888
 longitude: 9.277222222
 images:
-  - "/images-sites/hasungen-abbey/01-cacd14fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kreuz_Hasunger_Berg.JPG/1200px-Kreuz_Hasunger_Berg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ruine_Kloster_Hasungen.JPG/1200px-Ruine_Kloster_Hasungen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tafelhasungen.JPG/1200px-Tafelhasungen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trumruinehasungen.jpg/1200px-Trumruinehasungen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Klosterhasungen-reste.JPG/1200px-Klosterhasungen-reste.JPG
+image_srcset:
+  Kreuz Hasunger Berg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kreuz_Hasunger_Berg.JPG/400px-Kreuz_Hasunger_Berg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kreuz_Hasunger_Berg.JPG/800px-Kreuz_Hasunger_Berg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kreuz_Hasunger_Berg.JPG/1200px-Kreuz_Hasunger_Berg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kreuz_Hasunger_Berg.JPG/1920px-Kreuz_Hasunger_Berg.JPG
+  Ruine Kloster Hasungen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ruine_Kloster_Hasungen.JPG/400px-Ruine_Kloster_Hasungen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ruine_Kloster_Hasungen.JPG/800px-Ruine_Kloster_Hasungen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ruine_Kloster_Hasungen.JPG/1200px-Ruine_Kloster_Hasungen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ruine_Kloster_Hasungen.JPG/1920px-Ruine_Kloster_Hasungen.JPG
+  Tafelhasungen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tafelhasungen.JPG/400px-Tafelhasungen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tafelhasungen.JPG/800px-Tafelhasungen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tafelhasungen.JPG/1200px-Tafelhasungen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tafelhasungen.JPG/1920px-Tafelhasungen.JPG
+  Trumruinehasungen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trumruinehasungen.jpg/400px-Trumruinehasungen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trumruinehasungen.jpg/800px-Trumruinehasungen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trumruinehasungen.jpg/1200px-Trumruinehasungen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trumruinehasungen.jpg/1920px-Trumruinehasungen.jpg
+  Klosterhasungen-reste.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Klosterhasungen-reste.JPG/400px-Klosterhasungen-reste.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Klosterhasungen-reste.JPG/800px-Klosterhasungen-reste.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Klosterhasungen-reste.JPG/1200px-Klosterhasungen-reste.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Klosterhasungen-reste.JPG/1920px-Klosterhasungen-reste.JPG
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Burg Crass"
+title: Burg Crass
 date: 2026-01-23
 draft: false
-description: "castle in Eltville am Rhein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Eltville am Rhein, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.02555556
 longitude: 8.12472222
 images:
-  - "/images-sites/burg-crass/01-62d1e1a7-800w.webp"
-  - "/images-sites/burg-crass/02-8d741d1e-800w.webp"
-  - "/images-sites/burg-crass/03-d6d7b4f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Crass,_Eltville,_West_view_20220806_1.jpg/1200px-Burg_Crass,_Eltville,_West_view_20220806_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burgturm_Eltville-07-Aussicht_Ost.jpg/1200px-Burgturm_Eltville-07-Aussicht_Ost.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Crass.JPG/1200px-Burg_Crass.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Crass_2.JPG/1200px-Burg_Crass_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BurgCrassEltvilleO.JPG/1200px-BurgCrassEltvilleO.JPG
+image_srcset:
+  Burg Crass, Eltville, West view 20220806 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Crass,_Eltville,_West_view_20220806_1.jpg/400px-Burg_Crass,_Eltville,_West_view_20220806_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Crass,_Eltville,_West_view_20220806_1.jpg/800px-Burg_Crass,_Eltville,_West_view_20220806_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Crass,_Eltville,_West_view_20220806_1.jpg/1200px-Burg_Crass,_Eltville,_West_view_20220806_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Crass,_Eltville,_West_view_20220806_1.jpg/1920px-Burg_Crass,_Eltville,_West_view_20220806_1.jpg
+  Burgturm Eltville-07-Aussicht Ost.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burgturm_Eltville-07-Aussicht_Ost.jpg/400px-Burgturm_Eltville-07-Aussicht_Ost.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burgturm_Eltville-07-Aussicht_Ost.jpg/800px-Burgturm_Eltville-07-Aussicht_Ost.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burgturm_Eltville-07-Aussicht_Ost.jpg/1200px-Burgturm_Eltville-07-Aussicht_Ost.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burgturm_Eltville-07-Aussicht_Ost.jpg/1920px-Burgturm_Eltville-07-Aussicht_Ost.jpg
+  Burg Crass.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Crass.JPG/400px-Burg_Crass.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Crass.JPG/800px-Burg_Crass.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Crass.JPG/1200px-Burg_Crass.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Crass.JPG/1920px-Burg_Crass.JPG
+  Burg Crass 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Crass_2.JPG/400px-Burg_Crass_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Crass_2.JPG/800px-Burg_Crass_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Crass_2.JPG/1200px-Burg_Crass_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Crass_2.JPG/1920px-Burg_Crass_2.JPG
+  BurgCrassEltvilleO.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BurgCrassEltvilleO.JPG/400px-BurgCrassEltvilleO.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BurgCrassEltvilleO.JPG/800px-BurgCrassEltvilleO.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BurgCrassEltvilleO.JPG/1200px-BurgCrassEltvilleO.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BurgCrassEltvilleO.JPG/1920px-BurgCrassEltvilleO.JPG
 ---
 
 ## Overview

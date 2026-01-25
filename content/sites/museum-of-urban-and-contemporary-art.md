@@ -13,7 +13,7 @@ regions:
 latitude: 48.13669
 longitude: 11.56993
 images:
-  - "/images-sites/museum-of-urban-and-contemporary-art/01-b23e408d-800w.webp"
+  - "/images/museum-of-urban-and-contemporary-art/01-b23e408d-800w.webp"
 ---
 
 ## Overview

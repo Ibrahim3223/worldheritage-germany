@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1423050"
 description: "In the heart of Frankfurt am Main lies the Liebfrauen, a striking Roman Catholic church that serves as a testament to the citys rich architectural herit..."
 images:
-  - "/images-sites/liebfrauen-frankfurt/01-d6f3bafc-1920w.webp"
-  - "/images-sites/liebfrauen-frankfurt/02-1c0bdb23-1920w.webp"
-  - "/images-sites/liebfrauen-frankfurt/03-fdcb322d-1920w.webp"
+  - "/images/liebfrauen-frankfurt/01-d6f3bafc-1920w.webp"
+  - "/images/liebfrauen-frankfurt/02-1c0bdb23-1920w.webp"
+  - "/images/liebfrauen-frankfurt/03-fdcb322d-1920w.webp"
 ---
 
 ## Overview

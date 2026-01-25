@@ -1,29 +1,49 @@
 ---
-title: "Arboretum Freiburg-Günterstal"
+title: Arboretum Freiburg-Günterstal
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.972801
 longitude: 7.842693
-
-# Images
 images:
-  - "/images-sites/arboretum-freiburg-guenterstal/01-aa799c89-800w.webp"
-  - "/images-sites/arboretum-freiburg-guenterstal/02-5f85bcdb-800w.webp"
-  - "/images-sites/arboretum-freiburg-guenterstal/03-d2f67544-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Arboretum_Freiburg_5094.jpg/1200px-Arboretum_Freiburg_5094.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Arboretum_Freiburg_5104.jpg/1200px-Arboretum_Freiburg_5104.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arboretum_Freiburg_4997.jpg/1200px-Arboretum_Freiburg_4997.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HoechsterBaumDeutschlands.jpg/1200px-HoechsterBaumDeutschlands.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg/1200px-Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg
+image_srcset:
+  Arboretum Freiburg 5094.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Arboretum_Freiburg_5094.jpg/400px-Arboretum_Freiburg_5094.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Arboretum_Freiburg_5094.jpg/800px-Arboretum_Freiburg_5094.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Arboretum_Freiburg_5094.jpg/1200px-Arboretum_Freiburg_5094.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Arboretum_Freiburg_5094.jpg/1920px-Arboretum_Freiburg_5094.jpg
+  Arboretum Freiburg 5104.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Arboretum_Freiburg_5104.jpg/400px-Arboretum_Freiburg_5104.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Arboretum_Freiburg_5104.jpg/800px-Arboretum_Freiburg_5104.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Arboretum_Freiburg_5104.jpg/1200px-Arboretum_Freiburg_5104.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Arboretum_Freiburg_5104.jpg/1920px-Arboretum_Freiburg_5104.jpg
+  Arboretum Freiburg 4997.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arboretum_Freiburg_4997.jpg/400px-Arboretum_Freiburg_4997.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arboretum_Freiburg_4997.jpg/800px-Arboretum_Freiburg_4997.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arboretum_Freiburg_4997.jpg/1200px-Arboretum_Freiburg_4997.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arboretum_Freiburg_4997.jpg/1920px-Arboretum_Freiburg_4997.jpg
+  HoechsterBaumDeutschlands.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HoechsterBaumDeutschlands.jpg/400px-HoechsterBaumDeutschlands.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HoechsterBaumDeutschlands.jpg/800px-HoechsterBaumDeutschlands.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HoechsterBaumDeutschlands.jpg/1200px-HoechsterBaumDeutschlands.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HoechsterBaumDeutschlands.jpg/1920px-HoechsterBaumDeutschlands.jpg
+  Übersichtskarte Arboretum Freiburg-Günterstal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg/400px-Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg/800px-Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg/1200px-Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg/1920px-Übersichtskarte_Arboretum_Freiburg-Günterstal.jpg
 ---
 
 ## Overview

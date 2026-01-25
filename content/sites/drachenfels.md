@@ -1,21 +1,49 @@
 ---
-title: "Drachenfels"
+title: Drachenfels
 date: 2026-01-23
 draft: false
-description: "mountain in the Siebengebirge mountain range, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Siebengebirge mountain range, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.665277777
 longitude: 7.209722222
 images:
-  - "/images-sites/drachenfels/01-46004d33-800w.webp"
-  - "/images-sites/drachenfels/02-e25f2548-800w.webp"
-  - "/images-sites/drachenfels/03-3d2f6069-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DrachenfelsPfalz.JPG/1200px-DrachenfelsPfalz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drachenfels_Süden.jpg/1200px-Drachenfels_Süden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sonnenuntergang_Drachenfels.jpg/1200px-Sonnenuntergang_Drachenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20130816_Drachenfels.jpg/1200px-20130816_Drachenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bf-rhoendorf.jpg/1200px-Bf-rhoendorf.jpg
+image_srcset:
+  DrachenfelsPfalz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DrachenfelsPfalz.JPG/400px-DrachenfelsPfalz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DrachenfelsPfalz.JPG/800px-DrachenfelsPfalz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DrachenfelsPfalz.JPG/1200px-DrachenfelsPfalz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DrachenfelsPfalz.JPG/1920px-DrachenfelsPfalz.JPG
+  Drachenfels Süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drachenfels_Süden.jpg/400px-Drachenfels_Süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drachenfels_Süden.jpg/800px-Drachenfels_Süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drachenfels_Süden.jpg/1200px-Drachenfels_Süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Drachenfels_Süden.jpg/1920px-Drachenfels_Süden.jpg
+  Sonnenuntergang Drachenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sonnenuntergang_Drachenfels.jpg/400px-Sonnenuntergang_Drachenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sonnenuntergang_Drachenfels.jpg/800px-Sonnenuntergang_Drachenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sonnenuntergang_Drachenfels.jpg/1200px-Sonnenuntergang_Drachenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sonnenuntergang_Drachenfels.jpg/1920px-Sonnenuntergang_Drachenfels.jpg
+  20130816 Drachenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20130816_Drachenfels.jpg/400px-20130816_Drachenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20130816_Drachenfels.jpg/800px-20130816_Drachenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20130816_Drachenfels.jpg/1200px-20130816_Drachenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20130816_Drachenfels.jpg/1920px-20130816_Drachenfels.jpg
+  Bf-rhoendorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bf-rhoendorf.jpg/400px-Bf-rhoendorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bf-rhoendorf.jpg/800px-Bf-rhoendorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bf-rhoendorf.jpg/1200px-Bf-rhoendorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bf-rhoendorf.jpg/1920px-Bf-rhoendorf.jpg
 ---
 
 ## Overview

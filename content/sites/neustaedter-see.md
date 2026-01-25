@@ -13,7 +13,7 @@ regions:
 latitude: 53.394444444
 longitude: 11.566944444
 images:
-  - "/images-sites/neustaedter-see/01-3b314c03-800w.webp"
+  - "/images/neustaedter-see/01-3b314c03-800w.webp"
 ---
 
 ## Overview

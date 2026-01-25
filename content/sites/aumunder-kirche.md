@@ -1,24 +1,45 @@
 ---
-title: "Aumunder Kirche"
-site_name: "Aumunder Kirche"
-slug: "aumunder-kirche"
-region: "Bremen"
-
-# Location
+title: Aumunder Kirche
+site_name: Aumunder Kirche
+slug: aumunder-kirche
+region: Bremen
 latitude: 53.1742
 longitude: 8.62636
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q773474"
-description: "Aumunder Kirche, an emblem of Gothic Revival architecture, invites you into a world where history and spirituality intertwine. This striking church, con..."
+- church building
+- religious site
+wikidata_id: Q773474
+description: Aumunder Kirche, an emblem of Gothic Revival architecture, invites you
+  into a world where history and spirituality intertwine. This striking church, con...
 images:
-  - "/images-sites/aumunder-kirche/01-c565e0b1-1920w.webp"
-  - "/images-sites/aumunder-kirche/02-257aed70-1920w.webp"
-  - "/images-sites/aumunder-kirche/03-8e3f557d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg/1200px-Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aumunder_Kirche.jpg/1200px-Aumunder_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_Alt_Aumund_Bremen.jpg/1200px-Kirche_Alt_Aumund_Bremen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/1200px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
+image_srcset:
+  Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg/400px-Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg/800px-Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg/1200px-Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg/1920px-Bremen-Vegesack%20Alt-Aumunder-Kirche%2001.jpg
+  Aumunder Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aumunder_Kirche.jpg/400px-Aumunder_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aumunder_Kirche.jpg/800px-Aumunder_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aumunder_Kirche.jpg/1200px-Aumunder_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aumunder_Kirche.jpg/1920px-Aumunder_Kirche.jpg
+  Kirche Alt Aumund Bremen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_Alt_Aumund_Bremen.jpg/400px-Kirche_Alt_Aumund_Bremen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_Alt_Aumund_Bremen.jpg/800px-Kirche_Alt_Aumund_Bremen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_Alt_Aumund_Bremen.jpg/1200px-Kirche_Alt_Aumund_Bremen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_Alt_Aumund_Bremen.jpg/1920px-Kirche_Alt_Aumund_Bremen.jpg
+  Bremen-Vegesack Alt-Aumunder-Kirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/400px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/800px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/1200px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg/1920px-Bremen-Vegesack_Alt-Aumunder-Kirche_01.jpg
 ---
 
 ## Overview

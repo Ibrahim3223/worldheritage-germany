@@ -1,27 +1,50 @@
 ---
-title: "Albertinum"
+title: Albertinum
 date: 2026-01-23
 draft: false
-description: "art museum in Dresden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Dresden
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.0519
 longitude: 13.7444
-
-# Images
 images:
-  - "/images-sites/albertinum/03-24350fe9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg/1200px-Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg/1200px-Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg/1200px-Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dresden_Albertinum_Ostportal.jpg/1200px-Dresden_Albertinum_Ostportal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1200px-Albertinum.jpg
+image_srcset:
+  ? Dresden - Brühlscher Garten - View South on Gottfried Semper Statue 1892 by Johannes
+    Schilling - In the back Albertinum 1889 by Carl Adolph Canzler.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg/400px-Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg/800px-Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg/1200px-Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg/1920px-Dresden_-_Brühlscher_Garten_-_View_South_on_Gottfried_Semper_Statue_1892_by_Johannes_Schilling_-_In_the_back_Albertinum_1889_by_Carl_Adolph_Canzler.jpg
+  Albertinum Dresden abgesagte Ausstellung "Das Jahr 1983".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg/400px-Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg/800px-Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg/1200px-Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg/1920px-Albertinum_Dresden_abgesagte_Ausstellung_"Das_Jahr_1983".jpg
+  Dresden Germany Park-benches-in-front-of-Albertinum-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg/400px-Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg/800px-Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg/1200px-Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg/1920px-Dresden_Germany_Park-benches-in-front-of-Albertinum-01.jpg
+  Dresden Albertinum Ostportal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dresden_Albertinum_Ostportal.jpg/400px-Dresden_Albertinum_Ostportal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dresden_Albertinum_Ostportal.jpg/800px-Dresden_Albertinum_Ostportal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dresden_Albertinum_Ostportal.jpg/1200px-Dresden_Albertinum_Ostportal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dresden_Albertinum_Ostportal.jpg/1920px-Dresden_Albertinum_Ostportal.jpg
+  Albertinum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/400px-Albertinum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/800px-Albertinum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1200px-Albertinum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Albertinum.jpg/1920px-Albertinum.jpg
 ---
 
 ## Overview

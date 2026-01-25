@@ -13,7 +13,7 @@ regions:
 latitude: 49.9856
 longitude: 8.29866
 images:
-  - "/images-sites/weisenauer-synagogue-mainz/01-bdd2c009-800w.webp"
+  - "/images/weisenauer-synagogue-mainz/01-bdd2c009-800w.webp"
 ---
 
 ## Overview

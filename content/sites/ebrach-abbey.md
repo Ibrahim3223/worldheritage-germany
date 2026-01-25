@@ -1,19 +1,49 @@
 ---
-title: "Ebrach Abbey"
+title: Ebrach Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8469
 longitude: 10.4942
 images:
-  - "/images-sites/ebrach-abbey/01-cc245fc9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Ebrach_BW_5.JPG/1200px-Kloster_Ebrach_BW_5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg/1200px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg/1200px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg/1200px-Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1200px-Ebrach,_Kloster_Ebrach_001.JPG
+image_srcset:
+  Kloster Ebrach BW 5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Ebrach_BW_5.JPG/400px-Kloster_Ebrach_BW_5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Ebrach_BW_5.JPG/800px-Kloster_Ebrach_BW_5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Ebrach_BW_5.JPG/1200px-Kloster_Ebrach_BW_5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Ebrach_BW_5.JPG/1920px-Kloster_Ebrach_BW_5.JPG
+  Ebrach Kloster Kaisersaal Freske-20060709-RM-143831.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg/400px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg/800px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg/1200px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg/1920px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143831.jpg
+  Ebrach Kloster Kaisersaal Freske-20060709-RM-143812.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg/400px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg/800px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg/1200px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg/1920px-Ebrach_Kloster_Kaisersaal_Freske-20060709-RM-143812.jpg
+  Ebrach Kloster Treppenhaus Deckenfresco-20070708-RM-132435.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg/400px-Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg/800px-Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg/1200px-Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg/1920px-Ebrach_Kloster_Treppenhaus_Deckenfresco-20070708-RM-132435.jpg
+  Ebrach, Kloster Ebrach 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/400px-Ebrach,_Kloster_Ebrach_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/800px-Ebrach,_Kloster_Ebrach_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1200px-Ebrach,_Kloster_Ebrach_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ebrach,_Kloster_Ebrach_001.JPG/1920px-Ebrach,_Kloster_Ebrach_001.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Edersee Dam"
+title: Edersee Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.183333333
 longitude: 9.058888888
 images:
-  - "/images-sites/edersee-dam/01-d78a0165-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/990_Staumauer_des_Edersees.jpg/1200px-990_Staumauer_des_Edersees.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/1200px-Edersee,_Staumauer,_2011-08_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Überlauf_des_Edersees.jpg/1200px-Überlauf_des_Edersees.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg/1200px-3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Edertalsperre_-_Blick_vom_Uhrenkopf.JPG/1200px-Edertalsperre_-_Blick_vom_Uhrenkopf.JPG
+image_srcset:
+  990 Staumauer des Edersees.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/990_Staumauer_des_Edersees.jpg/400px-990_Staumauer_des_Edersees.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/990_Staumauer_des_Edersees.jpg/800px-990_Staumauer_des_Edersees.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/990_Staumauer_des_Edersees.jpg/1200px-990_Staumauer_des_Edersees.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/990_Staumauer_des_Edersees.jpg/1920px-990_Staumauer_des_Edersees.jpg
+  Edersee, Staumauer, 2011-08 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/400px-Edersee,_Staumauer,_2011-08_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/800px-Edersee,_Staumauer,_2011-08_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/1200px-Edersee,_Staumauer,_2011-08_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edersee,_Staumauer,_2011-08_CN-01.jpg/1920px-Edersee,_Staumauer,_2011-08_CN-01.jpg
+  Überlauf des Edersees.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Überlauf_des_Edersees.jpg/400px-Überlauf_des_Edersees.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Überlauf_des_Edersees.jpg/800px-Überlauf_des_Edersees.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Überlauf_des_Edersees.jpg/1200px-Überlauf_des_Edersees.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Überlauf_des_Edersees.jpg/1920px-Überlauf_des_Edersees.jpg
+  3 Besucherzentrum Edersee Animation by Christoph Hesse Architects.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg/400px-3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg/800px-3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg/1200px-3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg/1920px-3_Besucherzentrum_Edersee_Animation_by_Christoph_Hesse_Architects.jpg
+  Edertalsperre - Blick vom Uhrenkopf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Edertalsperre_-_Blick_vom_Uhrenkopf.JPG/400px-Edertalsperre_-_Blick_vom_Uhrenkopf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Edertalsperre_-_Blick_vom_Uhrenkopf.JPG/800px-Edertalsperre_-_Blick_vom_Uhrenkopf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Edertalsperre_-_Blick_vom_Uhrenkopf.JPG/1200px-Edertalsperre_-_Blick_vom_Uhrenkopf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Edertalsperre_-_Blick_vom_Uhrenkopf.JPG/1920px-Edertalsperre_-_Blick_vom_Uhrenkopf.JPG
 ---
 
 ## Overview

@@ -1,28 +1,49 @@
 ---
-title: "Burg Münchhausen"
+title: Burg Münchhausen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6112
 longitude: 7.04454
-
-# Images
 images:
-  - "/images-sites/burg-muenchhausen/02-1b645be6-800w.webp"
-  - "/images-sites/burg-muenchhausen/03-19d5d85b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münchhausen-AWille.jpg/1200px-Münchhausen-AWille.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Münchhausen_(Wachtberg)_005x.jpg/1200px-Burg_Münchhausen_(Wachtberg)_005x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Münchhausen_(Wachtberg)_015x.jpg/1200px-Burg_Münchhausen_(Wachtberg)_015x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Münchhausen.jpeg/1200px-Burg_Münchhausen.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1200px-Burg_Muenchhausen_20070819.png
+image_srcset:
+  Münchhausen-AWille.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münchhausen-AWille.jpg/400px-Münchhausen-AWille.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münchhausen-AWille.jpg/800px-Münchhausen-AWille.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münchhausen-AWille.jpg/1200px-Münchhausen-AWille.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münchhausen-AWille.jpg/1920px-Münchhausen-AWille.jpg
+  Burg Münchhausen (Wachtberg) 005x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Münchhausen_(Wachtberg)_005x.jpg/400px-Burg_Münchhausen_(Wachtberg)_005x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Münchhausen_(Wachtberg)_005x.jpg/800px-Burg_Münchhausen_(Wachtberg)_005x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Münchhausen_(Wachtberg)_005x.jpg/1200px-Burg_Münchhausen_(Wachtberg)_005x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burg_Münchhausen_(Wachtberg)_005x.jpg/1920px-Burg_Münchhausen_(Wachtberg)_005x.jpg
+  Burg Münchhausen (Wachtberg) 015x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Münchhausen_(Wachtberg)_015x.jpg/400px-Burg_Münchhausen_(Wachtberg)_015x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Münchhausen_(Wachtberg)_015x.jpg/800px-Burg_Münchhausen_(Wachtberg)_015x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Münchhausen_(Wachtberg)_015x.jpg/1200px-Burg_Münchhausen_(Wachtberg)_015x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Münchhausen_(Wachtberg)_015x.jpg/1920px-Burg_Münchhausen_(Wachtberg)_015x.jpg
+  Burg Münchhausen.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Münchhausen.jpeg/400px-Burg_Münchhausen.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Münchhausen.jpeg/800px-Burg_Münchhausen.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Münchhausen.jpeg/1200px-Burg_Münchhausen.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Münchhausen.jpeg/1920px-Burg_Münchhausen.jpeg
+  Burg Muenchhausen 20070819.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/400px-Burg_Muenchhausen_20070819.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/800px-Burg_Muenchhausen_20070819.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1200px-Burg_Muenchhausen_20070819.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Muenchhausen_20070819.png/1920px-Burg_Muenchhausen_20070819.png
 ---
 
 ## Overview

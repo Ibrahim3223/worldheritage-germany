@@ -13,7 +13,7 @@ regions:
 latitude: 51.1202
 longitude: 13.57375
 images:
-  - "/images-sites/villa-teresa/01-87dd6553-800w.webp"
+  - "/images/villa-teresa/01-87dd6553-800w.webp"
 ---
 
 ## Overview

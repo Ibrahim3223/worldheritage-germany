@@ -1,29 +1,49 @@
 ---
-title: "Burg Schwarzwald"
+title: Burg Schwarzwald
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7686
 longitude: 10.7315
-
-# Images
 images:
-  - "/images-sites/burg-schwarzwald/01-4a8e07d6-800w.webp"
-  - "/images-sites/burg-schwarzwald/02-d9610fd3-800w.webp"
-  - "/images-sites/burg-schwarzwald/03-513abe3e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_SCHWARZWLD01.jpg/1200px-GTH_SCHWARZWLD01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenthal_Burg_Schwarzwald_01.jpg/1200px-Luisenthal_Burg_Schwarzwald_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GTH_SCHWARZWLD02.jpg/1200px-GTH_SCHWARZWLD02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GTH_SCHWARZWLD05.jpg/1200px-GTH_SCHWARZWLD05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTH_SCHWARZWLD03.jpg/1200px-GTH_SCHWARZWLD03.jpg
+image_srcset:
+  GTH SCHWARZWLD01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_SCHWARZWLD01.jpg/400px-GTH_SCHWARZWLD01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_SCHWARZWLD01.jpg/800px-GTH_SCHWARZWLD01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_SCHWARZWLD01.jpg/1200px-GTH_SCHWARZWLD01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_SCHWARZWLD01.jpg/1920px-GTH_SCHWARZWLD01.jpg
+  Luisenthal Burg Schwarzwald 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenthal_Burg_Schwarzwald_01.jpg/400px-Luisenthal_Burg_Schwarzwald_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenthal_Burg_Schwarzwald_01.jpg/800px-Luisenthal_Burg_Schwarzwald_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenthal_Burg_Schwarzwald_01.jpg/1200px-Luisenthal_Burg_Schwarzwald_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Luisenthal_Burg_Schwarzwald_01.jpg/1920px-Luisenthal_Burg_Schwarzwald_01.jpg
+  GTH SCHWARZWLD02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GTH_SCHWARZWLD02.jpg/400px-GTH_SCHWARZWLD02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GTH_SCHWARZWLD02.jpg/800px-GTH_SCHWARZWLD02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GTH_SCHWARZWLD02.jpg/1200px-GTH_SCHWARZWLD02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GTH_SCHWARZWLD02.jpg/1920px-GTH_SCHWARZWLD02.jpg
+  GTH SCHWARZWLD05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GTH_SCHWARZWLD05.jpg/400px-GTH_SCHWARZWLD05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GTH_SCHWARZWLD05.jpg/800px-GTH_SCHWARZWLD05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GTH_SCHWARZWLD05.jpg/1200px-GTH_SCHWARZWLD05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GTH_SCHWARZWLD05.jpg/1920px-GTH_SCHWARZWLD05.jpg
+  GTH SCHWARZWLD03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTH_SCHWARZWLD03.jpg/400px-GTH_SCHWARZWLD03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTH_SCHWARZWLD03.jpg/800px-GTH_SCHWARZWLD03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTH_SCHWARZWLD03.jpg/1200px-GTH_SCHWARZWLD03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTH_SCHWARZWLD03.jpg/1920px-GTH_SCHWARZWLD03.jpg
 ---
 
 ## Overview

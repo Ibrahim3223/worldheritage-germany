@@ -13,7 +13,7 @@ regions:
 latitude: 48.8124
 longitude: 9.18727
 images:
-  - "/images-sites/technoturm/03-f8c4321d-800w.webp"
+  - "/images/technoturm/03-f8c4321d-800w.webp"
 ---
 
 ## Overview

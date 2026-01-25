@@ -13,7 +13,7 @@ regions:
 latitude: 52.432975
 longitude: 13.526733
 images:
-  - "/images-sites/studentendorf-adlershof/01-1b12cd97-800w.webp"
+  - "/images/studentendorf-adlershof/01-1b12cd97-800w.webp"
 ---
 
 ## Overview

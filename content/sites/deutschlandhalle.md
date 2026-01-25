@@ -1,19 +1,49 @@
 ---
-title: "Deutschlandhalle"
+title: Deutschlandhalle
 date: 2026-01-23
 draft: false
-description: "former sports and multi-purpose hall in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: former sports and multi-purpose hall in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 52.500277777
 longitude: 13.269722222
 images:
-  - "/images-sites/deutschlandhalle/01-1f21bcc7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg/1200px-11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg/1200px-11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1200px-Deutschlandhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg/1200px-Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg/1200px-Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg
+image_srcset:
+  11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg/400px-11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg/800px-11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg/1200px-11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg/1920px-11-12-05-abrisz-deutschlandhalle-by-RalfR-15.jpg
+  11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg/400px-11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg/800px-11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg/1200px-11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg/1920px-11-12-05-abrisz-deutschlandhalle-by-RalfR-31.jpg
+  Deutschlandhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/400px-Deutschlandhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/800px-Deutschlandhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1200px-Deutschlandhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Deutschlandhalle.jpg/1920px-Deutschlandhalle.jpg
+  Bundesarchiv Bild 183-H03823, Berlin, Deutschlandhalle, Generalappell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg/400px-Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg/800px-Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg/1200px-Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg/1920px-Bundesarchiv_Bild_183-H03823,_Berlin,_Deutschlandhalle,_Generalappell.jpg
+  Bundesarchiv B 145 Bild-P018933, Berlin, Deutschlandhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg/400px-Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg/800px-Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg/1200px-Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg/1920px-Bundesarchiv_B_145_Bild-P018933,_Berlin,_Deutschlandhalle.jpg
 ---
 
 ## Overview

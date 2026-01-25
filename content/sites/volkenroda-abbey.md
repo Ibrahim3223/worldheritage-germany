@@ -13,7 +13,7 @@ regions:
 latitude: 51.25
 longitude: 10.566666666
 images:
-  - "/images-sites/volkenroda-abbey/01-bf05ae23-800w.webp"
+  - "/images/volkenroda-abbey/01-bf05ae23-800w.webp"
 ---
 
 ## Overview

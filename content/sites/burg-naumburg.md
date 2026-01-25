@@ -1,19 +1,43 @@
 ---
-title: "Burg Naumburg"
+title: Burg Naumburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7519
 longitude: 7.4321
 images:
-  - "/images-sites/burg-naumburg/01-78a7f188-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kehlnbach_(Gladenbach)_(2).jpg/1200px-Kehlnbach_(Gladenbach)_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/1200px-Burg_Naumburg,_Bärenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburg5.jpg/1200px-Naumburg5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Naumburg1.jpg/1200px-Naumburg1.jpg
+image_srcset:
+  Kehlnbach (Gladenbach) (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kehlnbach_(Gladenbach)_(2).jpg/400px-Kehlnbach_(Gladenbach)_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kehlnbach_(Gladenbach)_(2).jpg/800px-Kehlnbach_(Gladenbach)_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kehlnbach_(Gladenbach)_(2).jpg/1200px-Kehlnbach_(Gladenbach)_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kehlnbach_(Gladenbach)_(2).jpg/1920px-Kehlnbach_(Gladenbach)_(2).jpg
+  Burg Naumburg, Bärenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/400px-Burg_Naumburg,_Bärenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/800px-Burg_Naumburg,_Bärenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/1200px-Burg_Naumburg,_Bärenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Naumburg,_Bärenbach.jpg/1920px-Burg_Naumburg,_Bärenbach.jpg
+  Naumburg5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburg5.jpg/400px-Naumburg5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburg5.jpg/800px-Naumburg5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburg5.jpg/1200px-Naumburg5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Naumburg5.jpg/1920px-Naumburg5.jpg
+  Naumburg1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Naumburg1.jpg/400px-Naumburg1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Naumburg1.jpg/800px-Naumburg1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Naumburg1.jpg/1200px-Naumburg1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Naumburg1.jpg/1920px-Naumburg1.jpg
 ---
 
 ## Overview

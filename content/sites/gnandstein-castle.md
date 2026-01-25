@@ -1,27 +1,49 @@
 ---
-title: "Gnandstein Castle"
+title: Gnandstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.0183
 longitude: 12.5758
-
-# Images
 images:
-  - "/images-sites/gnandstein-castle/01-f2d43706-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Gnandstein,_Ansicht_von_Süden.JPG/1200px-Burg_Gnandstein,_Ansicht_von_Süden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1200px-20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1200px-20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1200px-20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/1200px-Burg_gnandstein-2.jpg
+image_srcset:
+  Burg Gnandstein, Ansicht von Süden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Gnandstein,_Ansicht_von_Süden.JPG/400px-Burg_Gnandstein,_Ansicht_von_Süden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Gnandstein,_Ansicht_von_Süden.JPG/800px-Burg_Gnandstein,_Ansicht_von_Süden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Gnandstein,_Ansicht_von_Süden.JPG/1200px-Burg_Gnandstein,_Ansicht_von_Süden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Gnandstein,_Ansicht_von_Süden.JPG/1920px-Burg_Gnandstein,_Ansicht_von_Süden.JPG
+  20090901035DR Gnadstein (Kohren-Sahlis) Burg Gnandstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/400px-20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/800px-20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1200px-20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1920px-20090901035DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+  20090901040DR Gnadstein (Kohren-Sahlis) Burg Gnandstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/400px-20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/800px-20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1200px-20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1920px-20090901040DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+  20090901030DR Gnadstein (Kohren-Sahlis) Burg Gnandstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/400px-20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/800px-20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1200px-20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg/1920px-20090901030DR_Gnadstein_(Kohren-Sahlis)_Burg_Gnandstein.jpg
+  Burg gnandstein-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/400px-Burg_gnandstein-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/800px-Burg_gnandstein-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/1200px-Burg_gnandstein-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_gnandstein-2.jpg/1920px-Burg_gnandstein-2.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.4893
 longitude: 8.43818
 images:
-  - "/images-sites/prinzregenten-theater/01-edc43c36-800w.webp"
+  - "/images/prinzregenten-theater/01-edc43c36-800w.webp"
 ---
 
 ## Overview

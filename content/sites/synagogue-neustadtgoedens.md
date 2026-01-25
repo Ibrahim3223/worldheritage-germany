@@ -13,7 +13,7 @@ regions:
 latitude: 53.476705
 longitude: 7.989943
 images:
-  - "/images-sites/synagogue-neustadtgoedens/01-6f58498e-800w.webp"
+  - "/images/synagogue-neustadtgoedens/01-6f58498e-800w.webp"
 ---
 
 ## Overview

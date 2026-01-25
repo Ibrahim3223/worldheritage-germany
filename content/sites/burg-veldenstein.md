@@ -1,27 +1,49 @@
 ---
-title: "Burg Veldenstein"
+title: Burg Veldenstein
 date: 2026-01-23
 draft: false
-description: "castle in Landkreis Nürnberger Land, Bavaria, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Landkreis Nürnberger Land, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.6293
 longitude: 11.5492
-
-# Images
 images:
-  - "/images-sites/burg-veldenstein/01-abcabbee-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Blick_von_der_Burg_Veldenstein_006.jpg/1200px-Blick_von_der_Burg_Veldenstein_006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg/1200px-Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Veldenstein_April_2010_-_panoramio.jpg/1200px-Burg_Veldenstein_April_2010_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veldenstein_7.jpg/1200px-Veldenstein_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgVeldenstein1.jpg/1200px-BurgVeldenstein1.jpg
+image_srcset:
+  Blick von der Burg Veldenstein 006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Blick_von_der_Burg_Veldenstein_006.jpg/400px-Blick_von_der_Burg_Veldenstein_006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Blick_von_der_Burg_Veldenstein_006.jpg/800px-Blick_von_der_Burg_Veldenstein_006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Blick_von_der_Burg_Veldenstein_006.jpg/1200px-Blick_von_der_Burg_Veldenstein_006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Blick_von_der_Burg_Veldenstein_006.jpg/1920px-Blick_von_der_Burg_Veldenstein_006.jpg
+  Neuhaus - Okt. 2019 - Bahnhof auf Burg Veldenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg/400px-Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg/800px-Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg/1200px-Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg/1920px-Neuhaus_-_Okt._2019_-_Bahnhof_auf_Burg_Veldenstein.jpg
+  Burg Veldenstein April 2010 - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Veldenstein_April_2010_-_panoramio.jpg/400px-Burg_Veldenstein_April_2010_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Veldenstein_April_2010_-_panoramio.jpg/800px-Burg_Veldenstein_April_2010_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Veldenstein_April_2010_-_panoramio.jpg/1200px-Burg_Veldenstein_April_2010_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burg_Veldenstein_April_2010_-_panoramio.jpg/1920px-Burg_Veldenstein_April_2010_-_panoramio.jpg
+  Veldenstein 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veldenstein_7.jpg/400px-Veldenstein_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veldenstein_7.jpg/800px-Veldenstein_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veldenstein_7.jpg/1200px-Veldenstein_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veldenstein_7.jpg/1920px-Veldenstein_7.jpg
+  BurgVeldenstein1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgVeldenstein1.jpg/400px-BurgVeldenstein1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgVeldenstein1.jpg/800px-BurgVeldenstein1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgVeldenstein1.jpg/1200px-BurgVeldenstein1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgVeldenstein1.jpg/1920px-BurgVeldenstein1.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.336666666
 longitude: 12.355277777
 images:
-  - "/images-sites/saxon-museum-of-psychiatry/01-83b39feb-800w.webp"
+  - "/images/saxon-museum-of-psychiatry/01-83b39feb-800w.webp"
 ---
 
 ## Overview

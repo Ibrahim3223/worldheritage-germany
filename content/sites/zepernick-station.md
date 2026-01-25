@@ -13,9 +13,9 @@ regions:
 latitude: 52.6598
 longitude: 13.5342
 images:
-  - "/images-sites/zepernick-station/01-8748f289-800w.webp"
-  - "/images-sites/zepernick-station/02-3f641049-800w.webp"
-  - "/images-sites/zepernick-station/03-de461eb9-800w.webp"
+  - "/images/zepernick-station/01-8748f289-800w.webp"
+  - "/images/zepernick-station/02-3f641049-800w.webp"
+  - "/images/zepernick-station/03-de461eb9-800w.webp"
 ---
 
 ## Overview

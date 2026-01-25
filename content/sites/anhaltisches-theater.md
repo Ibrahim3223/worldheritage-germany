@@ -1,19 +1,43 @@
 ---
-title: "Anhaltisches Theater"
+title: Anhaltisches Theater
 date: 2026-01-24
 draft: false
-description: "theatre and opera house in Dessau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre and opera house in Dessau, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8367
 longitude: 12.2364
 images:
-  - "/images-sites/anhaltisches-theater/01-1cc90afb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2020-09-24-Anhaltisches-Theater-Dessau.jpg/1200px-2020-09-24-Anhaltisches-Theater-Dessau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020-09-21-Anhaltisches-Theater-Dessau.jpg/1200px-2020-09-21-Anhaltisches-Theater-Dessau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dessau_Anhaltisches_Theater_Eingangsbereich.jpg/1200px-Dessau_Anhaltisches_Theater_Eingangsbereich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/1200px-Dessau,Anhaltisches_Theater.jpg
+image_srcset:
+  2020-09-24-Anhaltisches-Theater-Dessau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2020-09-24-Anhaltisches-Theater-Dessau.jpg/400px-2020-09-24-Anhaltisches-Theater-Dessau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2020-09-24-Anhaltisches-Theater-Dessau.jpg/800px-2020-09-24-Anhaltisches-Theater-Dessau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2020-09-24-Anhaltisches-Theater-Dessau.jpg/1200px-2020-09-24-Anhaltisches-Theater-Dessau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/2020-09-24-Anhaltisches-Theater-Dessau.jpg/1920px-2020-09-24-Anhaltisches-Theater-Dessau.jpg
+  2020-09-21-Anhaltisches-Theater-Dessau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020-09-21-Anhaltisches-Theater-Dessau.jpg/400px-2020-09-21-Anhaltisches-Theater-Dessau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020-09-21-Anhaltisches-Theater-Dessau.jpg/800px-2020-09-21-Anhaltisches-Theater-Dessau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020-09-21-Anhaltisches-Theater-Dessau.jpg/1200px-2020-09-21-Anhaltisches-Theater-Dessau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020-09-21-Anhaltisches-Theater-Dessau.jpg/1920px-2020-09-21-Anhaltisches-Theater-Dessau.jpg
+  Dessau Anhaltisches Theater Eingangsbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dessau_Anhaltisches_Theater_Eingangsbereich.jpg/400px-Dessau_Anhaltisches_Theater_Eingangsbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dessau_Anhaltisches_Theater_Eingangsbereich.jpg/800px-Dessau_Anhaltisches_Theater_Eingangsbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dessau_Anhaltisches_Theater_Eingangsbereich.jpg/1200px-Dessau_Anhaltisches_Theater_Eingangsbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dessau_Anhaltisches_Theater_Eingangsbereich.jpg/1920px-Dessau_Anhaltisches_Theater_Eingangsbereich.jpg
+  Dessau,Anhaltisches Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/400px-Dessau,Anhaltisches_Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/800px-Dessau,Anhaltisches_Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/1200px-Dessau,Anhaltisches_Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dessau,Anhaltisches_Theater.jpg/1920px-Dessau,Anhaltisches_Theater.jpg
 ---
 
 ## Overview

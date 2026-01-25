@@ -1,21 +1,49 @@
 ---
-title: "Friedhof Pasing"
+title: Friedhof Pasing
 date: 2026-01-23
 draft: false
-description: "cemetery in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.136460139
 longitude: 11.458995084
 images:
-  - "/images-sites/friedhof-pasing/01-bf9c0cb5-800w.webp"
-  - "/images-sites/friedhof-pasing/02-af578dcb-800w.webp"
-  - "/images-sites/friedhof-pasing/03-7be62ed2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Friedhof_Pasing_2018a.jpg/1200px-Friedhof_Pasing_2018a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Friedhof_Pasing_2018b.jpg/1200px-Friedhof_Pasing_2018b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg/1200px-Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lampertstr1_München.JPG/1200px-Lampertstr1_München.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedhof_Pasing_Verwaltung.JPG/1200px-Friedhof_Pasing_Verwaltung.JPG
+image_srcset:
+  Friedhof Pasing 2018a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Friedhof_Pasing_2018a.jpg/400px-Friedhof_Pasing_2018a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Friedhof_Pasing_2018a.jpg/800px-Friedhof_Pasing_2018a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Friedhof_Pasing_2018a.jpg/1200px-Friedhof_Pasing_2018a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Friedhof_Pasing_2018a.jpg/1920px-Friedhof_Pasing_2018a.jpg
+  Friedhof Pasing 2018b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Friedhof_Pasing_2018b.jpg/400px-Friedhof_Pasing_2018b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Friedhof_Pasing_2018b.jpg/800px-Friedhof_Pasing_2018b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Friedhof_Pasing_2018b.jpg/1200px-Friedhof_Pasing_2018b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Friedhof_Pasing_2018b.jpg/1920px-Friedhof_Pasing_2018b.jpg
+  Gedenktafel für verstorbene Mitglieder der Freiwilligen Sanitätskolonne Pasing 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg/400px-Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg/800px-Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg/1200px-Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg/1920px-Gedenktafel_für_verstorbene_Mitglieder_der_Freiwilligen_Sanitätskolonne_Pasing_02.jpg
+  Lampertstr1 München.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lampertstr1_München.JPG/400px-Lampertstr1_München.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lampertstr1_München.JPG/800px-Lampertstr1_München.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lampertstr1_München.JPG/1200px-Lampertstr1_München.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lampertstr1_München.JPG/1920px-Lampertstr1_München.JPG
+  Friedhof Pasing Verwaltung.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedhof_Pasing_Verwaltung.JPG/400px-Friedhof_Pasing_Verwaltung.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedhof_Pasing_Verwaltung.JPG/800px-Friedhof_Pasing_Verwaltung.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedhof_Pasing_Verwaltung.JPG/1200px-Friedhof_Pasing_Verwaltung.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Friedhof_Pasing_Verwaltung.JPG/1920px-Friedhof_Pasing_Verwaltung.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.867767418
 longitude: 12.396452133
 images:
-  - "/images-sites/kloster-herrenchiemsee/01-a43c112a-800w.webp"
+  - "/images/kloster-herrenchiemsee/01-a43c112a-800w.webp"
 ---
 
 ## Overview

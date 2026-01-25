@@ -21,7 +21,7 @@ longitude: 8.524961111
 
 # Images
 images:
-  - "/images-sites/stoppelberg/01-6d25c640-800w.webp"
+  - "/images/stoppelberg/01-6d25c640-800w.webp"
 ---
 
 ## Overview

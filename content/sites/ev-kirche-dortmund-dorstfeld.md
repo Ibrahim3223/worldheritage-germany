@@ -1,24 +1,51 @@
 ---
-title: "Ev. Kirche Dortmund-Dorstfeld"
-site_name: "Ev. Kirche Dortmund-Dorstfeld"
-slug: "ev-kirche-dortmund-dorstfeld"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Ev. Kirche Dortmund-Dorstfeld
+site_name: Ev. Kirche Dortmund-Dorstfeld
+slug: ev-kirche-dortmund-dorstfeld
+region: North Rhine-Westphalia
 latitude: 51.5104
 longitude: 7.42152
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380664"
-description: "In the heart of Dortmund, a city renowned for its industrial heritage and vibrant culture, lies the Ev. Kirche Dortmund-Dorstfeld, a church that encapsu..."
+- church building
+- religious site
+wikidata_id: Q1380664
+description: In the heart of Dortmund, a city renowned for its industrial heritage
+  and vibrant culture, lies the Ev. Kirche Dortmund-Dorstfeld, a church that encapsu...
 images:
-  - "/images-sites/ev-kirche-dortmund-dorstfeld/01-7ef8e9da-1920w.webp"
-  - "/images-sites/ev-kirche-dortmund-dorstfeld/02-6f26a786-1920w.webp"
-  - "/images-sites/ev-kirche-dortmund-dorstfeld/03-cb2871cb-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ev%20Kirche%20Dortmund%20Dorstfeld.jpg/1200px-Ev%20Kirche%20Dortmund%20Dorstfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg/1200px-Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg/1200px-Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg/1200px-Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1200px-Ev_Kirche_Dortmund_Dorstfeld.jpg
+image_srcset:
+  Ev%20Kirche%20Dortmund%20Dorstfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ev%20Kirche%20Dortmund%20Dorstfeld.jpg/400px-Ev%20Kirche%20Dortmund%20Dorstfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ev%20Kirche%20Dortmund%20Dorstfeld.jpg/800px-Ev%20Kirche%20Dortmund%20Dorstfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ev%20Kirche%20Dortmund%20Dorstfeld.jpg/1200px-Ev%20Kirche%20Dortmund%20Dorstfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ev%20Kirche%20Dortmund%20Dorstfeld.jpg/1920px-Ev%20Kirche%20Dortmund%20Dorstfeld.jpg
+  Evangelische Kirche Dorstfeld Innenraum früherer Altarbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg/400px-Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg/800px-Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg/1200px-Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg/1920px-Evangelische_Kirche_Dorstfeld_Innenraum_früherer_Altarbereich.jpg
+  Dortmund Dorstfeld ev Kirche Orgel Pfeifen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg/400px-Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg/800px-Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg/1200px-Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg/1920px-Dortmund_Dorstfeld_ev_Kirche_Orgel_Pfeifen.jpg
+  Dortmund-Dorstfeld Ev-Kirche Haupteingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg/400px-Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg/800px-Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg/1200px-Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg/1920px-Dortmund-Dorstfeld_Ev-Kirche_Haupteingang.jpg
+  Ev Kirche Dortmund Dorstfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/400px-Ev_Kirche_Dortmund_Dorstfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/800px-Ev_Kirche_Dortmund_Dorstfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1200px-Ev_Kirche_Dortmund_Dorstfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ev_Kirche_Dortmund_Dorstfeld.jpg/1920px-Ev_Kirche_Dortmund_Dorstfeld.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Goldenes Lämmchen"
+title: Goldenes Lämmchen
 date: 2026-01-23
 draft: false
-description: "building in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: building in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.111062
 longitude: 8.683466
 images:
-  - "/images-sites/goldenes-laemmchen/01-37e4a060-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg/1200px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg/1200px-Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg/1200px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg/1200px-Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg/1200px-Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg
+image_srcset:
+  Frankfurt Am Main-Fay-BADAFAMNDN-Heft 01-Nr 004-1896-Hof hinter dem Laemmchen Nr 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg/400px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg/800px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg/1200px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg/1920px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Heft_01-Nr_004-1896-Hof_hinter_dem_Laemmchen_Nr_6.jpg
+  Frankfurt Am Main-Goldenes Laemmchen-Verlauf der Braubach-Ravenstein1862.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg/400px-Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg/800px-Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg/1200px-Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg/1920px-Frankfurt_Am_Main-Goldenes_Laemmchen-Verlauf_der_Braubach-Ravenstein1862.jpg
+  Frankfurt Am Main-Fay-BADAFAMNDN-Reprint-018-Hof Hinter dem Laemmchen 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg/400px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg/800px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg/1200px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg/1920px-Frankfurt_Am_Main-Fay-BADAFAMNDN-Reprint-018-Hof_Hinter_dem_Laemmchen_6.jpg
+  Frankfurt Am Main-DSGVFFM-007-Hinter dem Laemmchen von Westen-Carl Abt-1910.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg/400px-Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg/800px-Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg/1200px-Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg/1920px-Frankfurt_Am_Main-DSGVFFM-007-Hinter_dem_Laemmchen_von_Westen-Carl_Abt-1910.jpg
+  Frankfurt Am Main-Goldenes Laemmchen-Grundriss-OG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg/400px-Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg/800px-Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg/1200px-Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg/1920px-Frankfurt_Am_Main-Goldenes_Laemmchen-Grundriss-OG.jpg
 ---
 
 ## Overview

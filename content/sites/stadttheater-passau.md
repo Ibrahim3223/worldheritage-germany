@@ -13,9 +13,9 @@ regions:
 latitude: 48.5736
 longitude: 13.4649
 images:
-  - "/images-sites/stadttheater-passau/01-71ac09d8-800w.webp"
-  - "/images-sites/stadttheater-passau/02-4da0ed08-800w.webp"
-  - "/images-sites/stadttheater-passau/03-7605bda0-800w.webp"
+  - "/images/stadttheater-passau/01-71ac09d8-800w.webp"
+  - "/images/stadttheater-passau/02-4da0ed08-800w.webp"
+  - "/images/stadttheater-passau/03-7605bda0-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Elten"
+title: Elten
 date: 2026-01-23
 draft: false
-description: "former Dutch monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Dutch monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8643
 longitude: 6.17088
 images:
-  - "/images-sites/elten/01-6f5f1869-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bindsberger_Weg_Elten_6_Aug_2024.jpg/1200px-Bindsberger_Weg_Elten_6_Aug_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rietbroek_Elten_12_Nov_2023.jpg/1200px-Rietbroek_Elten_12_Nov_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spycker_Weg_Elten_10_Jan_2024_(2).jpg/1200px-Spycker_Weg_Elten_10_Jan_2024_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Spycker_Weg_Elten_10_Jan_2024_(3).jpg/1200px-Spycker_Weg_Elten_10_Jan_2024_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Spyck_elten.jpg/1200px-Spyck_elten.jpg
+image_srcset:
+  Bindsberger Weg Elten 6 Aug 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bindsberger_Weg_Elten_6_Aug_2024.jpg/400px-Bindsberger_Weg_Elten_6_Aug_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bindsberger_Weg_Elten_6_Aug_2024.jpg/800px-Bindsberger_Weg_Elten_6_Aug_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bindsberger_Weg_Elten_6_Aug_2024.jpg/1200px-Bindsberger_Weg_Elten_6_Aug_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bindsberger_Weg_Elten_6_Aug_2024.jpg/1920px-Bindsberger_Weg_Elten_6_Aug_2024.jpg
+  Rietbroek Elten 12 Nov 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rietbroek_Elten_12_Nov_2023.jpg/400px-Rietbroek_Elten_12_Nov_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rietbroek_Elten_12_Nov_2023.jpg/800px-Rietbroek_Elten_12_Nov_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rietbroek_Elten_12_Nov_2023.jpg/1200px-Rietbroek_Elten_12_Nov_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rietbroek_Elten_12_Nov_2023.jpg/1920px-Rietbroek_Elten_12_Nov_2023.jpg
+  Spycker Weg Elten 10 Jan 2024 (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spycker_Weg_Elten_10_Jan_2024_(2).jpg/400px-Spycker_Weg_Elten_10_Jan_2024_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spycker_Weg_Elten_10_Jan_2024_(2).jpg/800px-Spycker_Weg_Elten_10_Jan_2024_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spycker_Weg_Elten_10_Jan_2024_(2).jpg/1200px-Spycker_Weg_Elten_10_Jan_2024_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spycker_Weg_Elten_10_Jan_2024_(2).jpg/1920px-Spycker_Weg_Elten_10_Jan_2024_(2).jpg
+  Spycker Weg Elten 10 Jan 2024 (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Spycker_Weg_Elten_10_Jan_2024_(3).jpg/400px-Spycker_Weg_Elten_10_Jan_2024_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Spycker_Weg_Elten_10_Jan_2024_(3).jpg/800px-Spycker_Weg_Elten_10_Jan_2024_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Spycker_Weg_Elten_10_Jan_2024_(3).jpg/1200px-Spycker_Weg_Elten_10_Jan_2024_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Spycker_Weg_Elten_10_Jan_2024_(3).jpg/1920px-Spycker_Weg_Elten_10_Jan_2024_(3).jpg
+  Spyck elten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Spyck_elten.jpg/400px-Spyck_elten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Spyck_elten.jpg/800px-Spyck_elten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Spyck_elten.jpg/1200px-Spyck_elten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Spyck_elten.jpg/1920px-Spyck_elten.jpg
 ---
 
 ## Overview

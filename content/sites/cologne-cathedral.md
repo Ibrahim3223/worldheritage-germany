@@ -1,36 +1,56 @@
 ---
-title: "Cologne Cathedral"
-site_name: "Cologne Cathedral"
+title: Cologne Cathedral
+site_name: Cologne Cathedral
 date: 2026-01-11
 draft: false
-wikidata_id: "Q4176"
-
-description: "The Cologne Cathedral, or Kölner Dom, is an architectural marvel that captivates millions of visitors each year. Towering at 157 meters, it is the talle..."
-# Display fields (for templates)
-region: "North Rhine-Westphalia"
-country: "Germany"
-heritage_type: "church building"
-
-# Taxonomies (Hugo plural format)
+wikidata_id: Q4176
+description: The Cologne Cathedral, or Kölner Dom, is an architectural marvel that
+  captivates millions of visitors each year. Towering at 157 meters, it is the talle...
+region: North Rhine-Westphalia
+country: Germany
+heritage_type: church building
 categories:
-  - "church building"
-  - "religious site"
+- church building
+- religious site
 regions:
-    - "North Rhine-Westphalia"
+- North Rhine-Westphalia
 tags:
-  - "unesco"
-
-# Location
+- unesco
 latitude: 50.941388888
 longitude: 6.958333333
-
-# Visit Information
-website: "http://www.koelner-dom.de/"
-
-# Images
+website: http://www.koelner-dom.de/
 images:
-  - "/images/cologne-cathedral/wikimedia-1920w.webp"
-  - "/images/cologne-cathedral/satellite-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/K%C3%B6lner%20Dom%20von%20Osten.jpg/1200px-K%C3%B6lner%20Dom%20von%20Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kölner_Dom_nachts_2013.jpg/1200px-Kölner_Dom_nachts_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1200px-Kölner_Dom_von_Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/1200px-2024-07-20-ColognePride_Regenbogen-5959.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/1200px-Kranhäuser_Cologne,_April_2018_-01.jpg
+image_srcset:
+  K%C3%B6lner%20Dom%20von%20Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/K%C3%B6lner%20Dom%20von%20Osten.jpg/400px-K%C3%B6lner%20Dom%20von%20Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/K%C3%B6lner%20Dom%20von%20Osten.jpg/800px-K%C3%B6lner%20Dom%20von%20Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/K%C3%B6lner%20Dom%20von%20Osten.jpg/1200px-K%C3%B6lner%20Dom%20von%20Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/K%C3%B6lner%20Dom%20von%20Osten.jpg/1920px-K%C3%B6lner%20Dom%20von%20Osten.jpg
+  Kölner Dom nachts 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kölner_Dom_nachts_2013.jpg/400px-Kölner_Dom_nachts_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kölner_Dom_nachts_2013.jpg/800px-Kölner_Dom_nachts_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kölner_Dom_nachts_2013.jpg/1200px-Kölner_Dom_nachts_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kölner_Dom_nachts_2013.jpg/1920px-Kölner_Dom_nachts_2013.jpg
+  Kölner Dom von Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/400px-Kölner_Dom_von_Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/800px-Kölner_Dom_von_Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1200px-Kölner_Dom_von_Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kölner_Dom_von_Osten.jpg/1920px-Kölner_Dom_von_Osten.jpg
+  2024-07-20-ColognePride Regenbogen-5959.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/400px-2024-07-20-ColognePride_Regenbogen-5959.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/800px-2024-07-20-ColognePride_Regenbogen-5959.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/1200px-2024-07-20-ColognePride_Regenbogen-5959.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2024-07-20-ColognePride_Regenbogen-5959.jpg/1920px-2024-07-20-ColognePride_Regenbogen-5959.jpg
+  Kranhäuser Cologne, April 2018 -01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/400px-Kranhäuser_Cologne,_April_2018_-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/800px-Kranhäuser_Cologne,_April_2018_-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/1200px-Kranhäuser_Cologne,_April_2018_-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/1920px-Kranhäuser_Cologne,_April_2018_-01.jpg
 ---
 
 ## Overview

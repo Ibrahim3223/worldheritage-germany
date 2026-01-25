@@ -13,7 +13,7 @@ regions:
 latitude: 50.098546
 longitude: 8.236253
 images:
-  - "/images-sites/russischer-friedhof-auf-dem-neroberg/01-b738adcd-800w.webp"
+  - "/images/russischer-friedhof-auf-dem-neroberg/01-b738adcd-800w.webp"
 ---
 
 ## Overview

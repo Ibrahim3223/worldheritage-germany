@@ -13,7 +13,7 @@ regions:
 latitude: 50.7764
 longitude: 6.08371
 images:
-  - "/images-sites/karlsbrunnen/01-96555fad-800w.webp"
+  - "/images/karlsbrunnen/01-96555fad-800w.webp"
 ---
 
 ## Overview

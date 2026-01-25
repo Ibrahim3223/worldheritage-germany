@@ -13,7 +13,7 @@ regions:
 latitude: 52.5092869
 longitude: 13.3644977
 images:
-  - "/images-sites/staatliche-museen-zu-berlin/01-b88bdc35-800w.webp"
+  - "/images/staatliche-museen-zu-berlin/01-b88bdc35-800w.webp"
 ---
 
 ## Overview

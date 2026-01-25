@@ -1,19 +1,43 @@
 ---
-title: "Beetzsee"
+title: Beetzsee
 date: 2026-01-23
 draft: false
-description: "lake in Brandenburg an der Havel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Brandenburg an der Havel, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.445833333
 longitude: 12.566666666
 images:
-  - "/images-sites/beetzsee/01-1eb7b029-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Radewege_Kirche_2.jpg/1200px-Radewege_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beetzsee.JPG/1200px-Beetzsee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Beetzseemorgen.JPG/1200px-Beetzseemorgen.JPG
+image_srcset:
+  Lausitz Luftsport- & Techniktage 2013-Hinflug by-RaBoe 0881.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0881.jpg
+  Radewege Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Radewege_Kirche_2.jpg/400px-Radewege_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Radewege_Kirche_2.jpg/800px-Radewege_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Radewege_Kirche_2.jpg/1200px-Radewege_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Radewege_Kirche_2.jpg/1920px-Radewege_Kirche_2.jpg
+  Beetzsee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beetzsee.JPG/400px-Beetzsee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beetzsee.JPG/800px-Beetzsee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beetzsee.JPG/1200px-Beetzsee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beetzsee.JPG/1920px-Beetzsee.JPG
+  Beetzseemorgen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Beetzseemorgen.JPG/400px-Beetzseemorgen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Beetzseemorgen.JPG/800px-Beetzseemorgen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Beetzseemorgen.JPG/1200px-Beetzseemorgen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Beetzseemorgen.JPG/1920px-Beetzseemorgen.JPG
 ---
 
 ## Overview

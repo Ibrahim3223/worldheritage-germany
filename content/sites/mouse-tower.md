@@ -13,7 +13,7 @@ regions:
 latitude: 49.9719
 longitude: 7.88083
 images:
-  - "/images-sites/mouse-tower/01-35e973f2-800w.webp"
+  - "/images/mouse-tower/01-35e973f2-800w.webp"
 ---
 
 ## Overview

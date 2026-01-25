@@ -1,21 +1,49 @@
 ---
-title: "Epprechtstein Castle"
+title: Epprechtstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1459
 longitude: 11.9172
 images:
-  - "/images-sites/epprechtstein-castle/01-0583fabe-800w.webp"
-  - "/images-sites/epprechtstein-castle/02-4a30982e-800w.webp"
-  - "/images-sites/epprechtstein-castle/03-a1b1e787-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg/1200px-Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1200px-Epprechtstein_006.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hoherstein_037.JPG/1200px-Hoherstein_037.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hoherstein_039.JPG/1200px-Hoherstein_039.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Epprechtstein.jpg/1200px-Epprechtstein.jpg
+image_srcset:
+  Blick auf Kirchenlamitz vom Epprechtstein 20200711 133529.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg/400px-Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg/800px-Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg/1200px-Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg/1920px-Blick_auf_Kirchenlamitz_vom_Epprechtstein_20200711_133529.jpg
+  Epprechtstein 006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/400px-Epprechtstein_006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/800px-Epprechtstein_006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1200px-Epprechtstein_006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Epprechtstein_006.JPG/1920px-Epprechtstein_006.JPG
+  Hoherstein 037.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hoherstein_037.JPG/400px-Hoherstein_037.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hoherstein_037.JPG/800px-Hoherstein_037.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hoherstein_037.JPG/1200px-Hoherstein_037.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hoherstein_037.JPG/1920px-Hoherstein_037.JPG
+  Hoherstein 039.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hoherstein_039.JPG/400px-Hoherstein_039.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hoherstein_039.JPG/800px-Hoherstein_039.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hoherstein_039.JPG/1200px-Hoherstein_039.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hoherstein_039.JPG/1920px-Hoherstein_039.JPG
+  Epprechtstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Epprechtstein.jpg/400px-Epprechtstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Epprechtstein.jpg/800px-Epprechtstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Epprechtstein.jpg/1200px-Epprechtstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Epprechtstein.jpg/1920px-Epprechtstein.jpg
 ---
 
 ## Overview

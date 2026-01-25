@@ -13,7 +13,7 @@ regions:
 latitude: 47.5707931
 longitude: 10.639143
 images:
-  - "/images-sites/weissensee/01-7843d37c-800w.webp"
+  - "/images/weissensee/01-7843d37c-800w.webp"
 ---
 
 ## Overview

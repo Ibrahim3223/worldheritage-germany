@@ -13,9 +13,9 @@ regions:
 latitude: 52.5047
 longitude: 13.3524
 images:
-  - "/images-sites/luetzowplatz/01-2dd7318f-800w.webp"
-  - "/images-sites/luetzowplatz/02-276aeb00-800w.webp"
-  - "/images-sites/luetzowplatz/03-474a8a33-800w.webp"
+  - "/images/luetzowplatz/01-2dd7318f-800w.webp"
+  - "/images/luetzowplatz/02-276aeb00-800w.webp"
+  - "/images/luetzowplatz/03-474a8a33-800w.webp"
 ---
 
 ## Overview

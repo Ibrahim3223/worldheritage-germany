@@ -1,19 +1,49 @@
 ---
-title: "Burg Friedberg"
+title: Burg Friedberg
 date: 2026-01-23
 draft: false
-description: "castle in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3424
 longitude: 8.75297
 images:
-  - "/images-sites/burg-friedberg/01-afe82cd2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burgruine_Friedberg_(Meilen)_Bild_6.jpg/1200px-Burgruine_Friedberg_(Meilen)_Bild_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedberg_Graben.jpg/1200px-Friedberg_Graben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Friedberg_Zisterne.jpg/1200px-Friedberg_Zisterne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Friedberg_nach_Westen.jpg/1200px-Friedberg_nach_Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Friedberg_Übersicht.jpg/1200px-Friedberg_Übersicht.jpg
+image_srcset:
+  Burgruine Friedberg (Meilen) Bild 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burgruine_Friedberg_(Meilen)_Bild_6.jpg/400px-Burgruine_Friedberg_(Meilen)_Bild_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burgruine_Friedberg_(Meilen)_Bild_6.jpg/800px-Burgruine_Friedberg_(Meilen)_Bild_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burgruine_Friedberg_(Meilen)_Bild_6.jpg/1200px-Burgruine_Friedberg_(Meilen)_Bild_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burgruine_Friedberg_(Meilen)_Bild_6.jpg/1920px-Burgruine_Friedberg_(Meilen)_Bild_6.jpg
+  Friedberg Graben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedberg_Graben.jpg/400px-Friedberg_Graben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedberg_Graben.jpg/800px-Friedberg_Graben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedberg_Graben.jpg/1200px-Friedberg_Graben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Friedberg_Graben.jpg/1920px-Friedberg_Graben.jpg
+  Friedberg Zisterne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Friedberg_Zisterne.jpg/400px-Friedberg_Zisterne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Friedberg_Zisterne.jpg/800px-Friedberg_Zisterne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Friedberg_Zisterne.jpg/1200px-Friedberg_Zisterne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Friedberg_Zisterne.jpg/1920px-Friedberg_Zisterne.jpg
+  Friedberg nach Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Friedberg_nach_Westen.jpg/400px-Friedberg_nach_Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Friedberg_nach_Westen.jpg/800px-Friedberg_nach_Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Friedberg_nach_Westen.jpg/1200px-Friedberg_nach_Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Friedberg_nach_Westen.jpg/1920px-Friedberg_nach_Westen.jpg
+  Friedberg Übersicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Friedberg_Übersicht.jpg/400px-Friedberg_Übersicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Friedberg_Übersicht.jpg/800px-Friedberg_Übersicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Friedberg_Übersicht.jpg/1200px-Friedberg_Übersicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Friedberg_Übersicht.jpg/1920px-Friedberg_Übersicht.jpg
 ---
 
 ## Overview 

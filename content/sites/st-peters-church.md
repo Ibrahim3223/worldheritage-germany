@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q535443"
 description: "St. Peter’s Church, a striking example of Brick Gothic architecture, rises proudly in the Altstadt district of Hamburg. This iconic church, founded in 1..."
 images:
-  - "/images-sites/st-peters-church/01-86a00b12-1920w.webp"
-  - "/images-sites/st-peters-church/02-a87a566c-1920w.webp"
-  - "/images-sites/st-peters-church/03-27e19361-1920w.webp"
+  - "/images/st-peters-church/01-86a00b12-1920w.webp"
+  - "/images/st-peters-church/02-a87a566c-1920w.webp"
+  - "/images/st-peters-church/03-27e19361-1920w.webp"
 ---
 
 ## Overview

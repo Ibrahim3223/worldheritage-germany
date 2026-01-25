@@ -13,9 +13,9 @@ regions:
 latitude: 50.7815162
 longitude: 6.0783228
 images:
-  - "/images-sites/ponttor/01-9bfe2852-800w.webp"
-  - "/images-sites/ponttor/02-537c5291-800w.webp"
-  - "/images-sites/ponttor/03-bed3b46c-800w.webp"
+  - "/images/ponttor/01-9bfe2852-800w.webp"
+  - "/images/ponttor/02-537c5291-800w.webp"
+  - "/images/ponttor/03-bed3b46c-800w.webp"
 ---
 
 ## Overview

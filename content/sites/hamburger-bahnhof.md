@@ -1,27 +1,49 @@
 ---
-title: "Hamburger Bahnhof"
+title: Hamburger Bahnhof
 date: 2026-01-23
 draft: false
-description: "museum of contemporary art located in a former railway station in Berlin-Moabit"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum of contemporary art located in a former railway station in Berlin-Moabit
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.528333333
 longitude: 13.372222222
-
-# Images
 images:
-  - "/images-sites/hamburger-bahnhof/01-5ed5c3f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Imperial_love_R-Indiana.JPG/1200px-Imperial_love_R-Indiana.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baumuseum-berlin-namenssteine_hg.jpg/1200px-Baumuseum-berlin-namenssteine_hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hamburger_Bahnhof,_Berlin.jpg/1200px-Hamburger_Bahnhof,_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/19881216a_Berlin_Hamburger_Güterbahnhof.jpg/1200px-19881216a_Berlin_Hamburger_Güterbahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/19881216c_Berlin_Hamburger_Bahnhof.jpg/1200px-19881216c_Berlin_Hamburger_Bahnhof.jpg
+image_srcset:
+  Imperial love R-Indiana.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Imperial_love_R-Indiana.JPG/400px-Imperial_love_R-Indiana.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Imperial_love_R-Indiana.JPG/800px-Imperial_love_R-Indiana.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Imperial_love_R-Indiana.JPG/1200px-Imperial_love_R-Indiana.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Imperial_love_R-Indiana.JPG/1920px-Imperial_love_R-Indiana.JPG
+  Baumuseum-berlin-namenssteine hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baumuseum-berlin-namenssteine_hg.jpg/400px-Baumuseum-berlin-namenssteine_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baumuseum-berlin-namenssteine_hg.jpg/800px-Baumuseum-berlin-namenssteine_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baumuseum-berlin-namenssteine_hg.jpg/1200px-Baumuseum-berlin-namenssteine_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Baumuseum-berlin-namenssteine_hg.jpg/1920px-Baumuseum-berlin-namenssteine_hg.jpg
+  Hamburger Bahnhof, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hamburger_Bahnhof,_Berlin.jpg/400px-Hamburger_Bahnhof,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hamburger_Bahnhof,_Berlin.jpg/800px-Hamburger_Bahnhof,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hamburger_Bahnhof,_Berlin.jpg/1200px-Hamburger_Bahnhof,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hamburger_Bahnhof,_Berlin.jpg/1920px-Hamburger_Bahnhof,_Berlin.jpg
+  19881216a Berlin Hamburger Güterbahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/19881216a_Berlin_Hamburger_Güterbahnhof.jpg/400px-19881216a_Berlin_Hamburger_Güterbahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/19881216a_Berlin_Hamburger_Güterbahnhof.jpg/800px-19881216a_Berlin_Hamburger_Güterbahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/19881216a_Berlin_Hamburger_Güterbahnhof.jpg/1200px-19881216a_Berlin_Hamburger_Güterbahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/19881216a_Berlin_Hamburger_Güterbahnhof.jpg/1920px-19881216a_Berlin_Hamburger_Güterbahnhof.jpg
+  19881216c Berlin Hamburger Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/19881216c_Berlin_Hamburger_Bahnhof.jpg/400px-19881216c_Berlin_Hamburger_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/19881216c_Berlin_Hamburger_Bahnhof.jpg/800px-19881216c_Berlin_Hamburger_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/19881216c_Berlin_Hamburger_Bahnhof.jpg/1200px-19881216c_Berlin_Hamburger_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/19881216c_Berlin_Hamburger_Bahnhof.jpg/1920px-19881216c_Berlin_Hamburger_Bahnhof.jpg
 ---
 
 ## Overview

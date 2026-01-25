@@ -13,7 +13,7 @@ regions:
 latitude: 51.144903
 longitude: 14.979347
 images:
-  - "/images-sites/st-jakobus/01-ba20876f-800w.webp"
+  - "/images/st-jakobus/01-ba20876f-800w.webp"
 ---
 
 ## Overview

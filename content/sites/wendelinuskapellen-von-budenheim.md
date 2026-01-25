@@ -13,7 +13,7 @@ regions:
 latitude: 50.0113
 longitude: 8.19025
 images:
-  - "/images-sites/wendelinuskapellen-von-budenheim/01-8a61d34d-800w.webp"
+  - "/images/wendelinuskapellen-von-budenheim/01-8a61d34d-800w.webp"
 ---
 
 ## Overview

@@ -16,8 +16,8 @@ categories:
 wikidata_id: "Q2319479"
 description: "St. Johanneskirche in Neubrandenburg, Germany, stands as an impressive example of Brick Gothic architecture, showcasing the unique aesthetic of the regi..."
 images:
-  - "/images-sites/st-johanneskirche/01-8fd1e9c0-1920w.webp"
-  - "/images-sites/st-johanneskirche/03-8725ee17-1920w.webp"
+  - "/images/st-johanneskirche/01-8fd1e9c0-1920w.webp"
+  - "/images/st-johanneskirche/03-8725ee17-1920w.webp"
 ---
 
 ## Overview

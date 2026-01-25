@@ -1,21 +1,49 @@
 ---
-title: "Buddenturm"
+title: Buddenturm
 date: 2026-01-24
 draft: false
-description: "medieval tower in Münster"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: medieval tower in Münster
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 51.9663
 longitude: 7.62303
 images:
-  - "/images-sites/buddenturm/01-c14b917f-800w.webp"
-  - "/images-sites/buddenturm/02-da76936d-800w.webp"
-  - "/images-sites/buddenturm/03-89af7970-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg/1200px-Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Münster,_Buddenturm_--_2020_--_3277.jpg/1200px-Münster,_Buddenturm_--_2020_--_3277.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Münster,_Buddenturm_--_2017_--_2090.jpg/1200px-Münster,_Buddenturm_--_2017_--_2090.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg/1200px-Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1200px-Buddenturm_in_Münster.JPG
+image_srcset:
+  Münster, Altstadt, Panorama -- 2017 -- 2075-9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg/400px-Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg/800px-Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg/1200px-Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg/1920px-Münster,_Altstadt,_Panorama_--_2017_--_2075-9.jpg
+  Münster, Buddenturm -- 2020 -- 3277.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Münster,_Buddenturm_--_2020_--_3277.jpg/400px-Münster,_Buddenturm_--_2020_--_3277.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Münster,_Buddenturm_--_2020_--_3277.jpg/800px-Münster,_Buddenturm_--_2020_--_3277.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Münster,_Buddenturm_--_2020_--_3277.jpg/1200px-Münster,_Buddenturm_--_2020_--_3277.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Münster,_Buddenturm_--_2020_--_3277.jpg/1920px-Münster,_Buddenturm_--_2020_--_3277.jpg
+  Münster, Buddenturm -- 2017 -- 2090.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Münster,_Buddenturm_--_2017_--_2090.jpg/400px-Münster,_Buddenturm_--_2017_--_2090.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Münster,_Buddenturm_--_2017_--_2090.jpg/800px-Münster,_Buddenturm_--_2017_--_2090.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Münster,_Buddenturm_--_2017_--_2090.jpg/1200px-Münster,_Buddenturm_--_2017_--_2090.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Münster,_Buddenturm_--_2017_--_2090.jpg/1920px-Münster,_Buddenturm_--_2017_--_2090.jpg
+  Münster, St.-Lamberti-Kirche -- 2017 -- 2082.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg/400px-Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg/800px-Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg/1200px-Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg/1920px-Münster,_St.-Lamberti-Kirche_--_2017_--_2082.jpg
+  Buddenturm in Münster.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/400px-Buddenturm_in_Münster.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/800px-Buddenturm_in_Münster.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1200px-Buddenturm_in_Münster.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Buddenturm_in_Münster.JPG/1920px-Buddenturm_in_Münster.JPG
 ---
 
 ## Overview

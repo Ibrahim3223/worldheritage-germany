@@ -1,21 +1,49 @@
 ---
-title: "Bastorf Lighthouse"
+title: Bastorf Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Mecklenburg-Western Pomerania, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Mecklenburg-Western Pomerania, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1319
 longitude: 11.6936
 images:
-  - "/images-sites/bastorf-lighthouse/01-b3801f99-800w.webp"
-  - "/images-sites/bastorf-lighthouse/02-0e752ed5-800w.webp"
-  - "/images-sites/bastorf-lighthouse/03-41cbc5e4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bastorf,_Leuchtturm_--_2024_--_0012.jpg/1200px-Bastorf,_Leuchtturm_--_2024_--_0012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bastorf,_Leuchtturm_--_2024_--_0011.jpg/1200px-Bastorf,_Leuchtturm_--_2024_--_0011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bastorf,_Leuchtturm_--_2024_--_0008.jpg/1200px-Bastorf,_Leuchtturm_--_2024_--_0008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg/1200px-Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1200px-Ngl_D_MV_Bastorf_Buk_4.jpg
+image_srcset:
+  Bastorf, Leuchtturm -- 2024 -- 0012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bastorf,_Leuchtturm_--_2024_--_0012.jpg/400px-Bastorf,_Leuchtturm_--_2024_--_0012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bastorf,_Leuchtturm_--_2024_--_0012.jpg/800px-Bastorf,_Leuchtturm_--_2024_--_0012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bastorf,_Leuchtturm_--_2024_--_0012.jpg/1200px-Bastorf,_Leuchtturm_--_2024_--_0012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bastorf,_Leuchtturm_--_2024_--_0012.jpg/1920px-Bastorf,_Leuchtturm_--_2024_--_0012.jpg
+  Bastorf, Leuchtturm -- 2024 -- 0011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bastorf,_Leuchtturm_--_2024_--_0011.jpg/400px-Bastorf,_Leuchtturm_--_2024_--_0011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bastorf,_Leuchtturm_--_2024_--_0011.jpg/800px-Bastorf,_Leuchtturm_--_2024_--_0011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bastorf,_Leuchtturm_--_2024_--_0011.jpg/1200px-Bastorf,_Leuchtturm_--_2024_--_0011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bastorf,_Leuchtturm_--_2024_--_0011.jpg/1920px-Bastorf,_Leuchtturm_--_2024_--_0011.jpg
+  Bastorf, Leuchtturm -- 2024 -- 0008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bastorf,_Leuchtturm_--_2024_--_0008.jpg/400px-Bastorf,_Leuchtturm_--_2024_--_0008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bastorf,_Leuchtturm_--_2024_--_0008.jpg/800px-Bastorf,_Leuchtturm_--_2024_--_0008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bastorf,_Leuchtturm_--_2024_--_0008.jpg/1200px-Bastorf,_Leuchtturm_--_2024_--_0008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bastorf,_Leuchtturm_--_2024_--_0008.jpg/1920px-Bastorf,_Leuchtturm_--_2024_--_0008.jpg
+  Bastorf Leuchtturm Leuchtfeuer 2010-05-17 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg/400px-Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg/800px-Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg/1200px-Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg/1920px-Bastorf_Leuchtturm_Leuchtfeuer_2010-05-17_012.jpg
+  Ngl D MV Bastorf Buk 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/400px-Ngl_D_MV_Bastorf_Buk_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/800px-Ngl_D_MV_Bastorf_Buk_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1200px-Ngl_D_MV_Bastorf_Buk_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ngl_D_MV_Bastorf_Buk_4.jpg/1920px-Ngl_D_MV_Bastorf_Buk_4.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.282
 longitude: 9.941
 images:
-  - "/images-sites/kunststaette-bossard/01-98954942-800w.webp"
+  - "/images/kunststaette-bossard/01-98954942-800w.webp"
 ---
 
 ## Overview

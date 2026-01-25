@@ -1,19 +1,49 @@
 ---
-title: "Akademietheater"
+title: Akademietheater
 date: 2026-01-24
 draft: false
-description: "theatre in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1386
 longitude: 11.6055
 images:
-  - "/images-sites/akademietheater/01-fce2a344-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Akademietheater-DSC_0656w.jpg/1200px-Akademietheater-DSC_0656w.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akademietheater-DSC_0654w.jpg/1200px-Akademietheater-DSC_0654w.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MDW_Lothringerstrasse_18_(cropped).jpg/1200px-MDW_Lothringerstrasse_18_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg/1200px-Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wien_-_Akademietheater_(1).JPG/1200px-Wien_-_Akademietheater_(1).JPG
+image_srcset:
+  Akademietheater-DSC 0656w.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Akademietheater-DSC_0656w.jpg/400px-Akademietheater-DSC_0656w.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Akademietheater-DSC_0656w.jpg/800px-Akademietheater-DSC_0656w.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Akademietheater-DSC_0656w.jpg/1200px-Akademietheater-DSC_0656w.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Akademietheater-DSC_0656w.jpg/1920px-Akademietheater-DSC_0656w.jpg
+  Akademietheater-DSC 0654w.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akademietheater-DSC_0654w.jpg/400px-Akademietheater-DSC_0654w.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akademietheater-DSC_0654w.jpg/800px-Akademietheater-DSC_0654w.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akademietheater-DSC_0654w.jpg/1200px-Akademietheater-DSC_0654w.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akademietheater-DSC_0654w.jpg/1920px-Akademietheater-DSC_0654w.jpg
+  MDW Lothringerstrasse 18 (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MDW_Lothringerstrasse_18_(cropped).jpg/400px-MDW_Lothringerstrasse_18_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MDW_Lothringerstrasse_18_(cropped).jpg/800px-MDW_Lothringerstrasse_18_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MDW_Lothringerstrasse_18_(cropped).jpg/1200px-MDW_Lothringerstrasse_18_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MDW_Lothringerstrasse_18_(cropped).jpg/1920px-MDW_Lothringerstrasse_18_(cropped).jpg
+  Musikhochschule und Akademietheater (7682) IMG 7011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg/400px-Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg/800px-Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg/1200px-Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg/1920px-Musikhochschule_und_Akademietheater_(7682)_IMG_7011.jpg
+  Wien - Akademietheater (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wien_-_Akademietheater_(1).JPG/400px-Wien_-_Akademietheater_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wien_-_Akademietheater_(1).JPG/800px-Wien_-_Akademietheater_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wien_-_Akademietheater_(1).JPG/1200px-Wien_-_Akademietheater_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wien_-_Akademietheater_(1).JPG/1920px-Wien_-_Akademietheater_(1).JPG
 ---
 
 ## Overview

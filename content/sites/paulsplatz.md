@@ -13,8 +13,8 @@ regions:
 latitude: 50.1111
 longitude: 8.68139
 images:
-  - "/images-sites/paulsplatz/02-74d624c6-800w.webp"
-  - "/images-sites/paulsplatz/03-46d80d29-800w.webp"
+  - "/images/paulsplatz/02-74d624c6-800w.webp"
+  - "/images/paulsplatz/03-46d80d29-800w.webp"
 ---
 
 ## Overview

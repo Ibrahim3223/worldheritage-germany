@@ -13,7 +13,7 @@ regions:
 latitude: 47.6939
 longitude: 10.0429
 images:
-  - "/images-sites/st-georges-abbey/01-47af8377-800w.webp"
+  - "/images/st-georges-abbey/01-47af8377-800w.webp"
 ---
 
 ## Overview

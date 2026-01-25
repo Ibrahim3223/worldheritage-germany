@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1340126"
 description: "St. Nicholas Church, a striking example of Gothic architecture, stands prominently in Heilbronn, Baden-Württemberg, Germany. This church has been a sile..."
 images:
-  - "/images-sites/st-nicholas-church/01-e87ab4bc-1920w.webp"
-  - "/images-sites/st-nicholas-church/02-b46aed98-1920w.webp"
-  - "/images-sites/st-nicholas-church/03-33be575b-1920w.webp"
+  - "/images/st-nicholas-church/01-e87ab4bc-1920w.webp"
+  - "/images/st-nicholas-church/02-b46aed98-1920w.webp"
+  - "/images/st-nicholas-church/03-33be575b-1920w.webp"
 ---
 
 ## Overview

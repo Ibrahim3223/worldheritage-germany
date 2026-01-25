@@ -1,19 +1,43 @@
 ---
-title: "Gut Seekamp"
+title: Gut Seekamp
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.4097
 longitude: 10.1619
 images:
-  - "/images-sites/gut-seekamp/01-dca03a8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Informationstafel_Kinderrepublik_Seekamp.jpg/1200px-Informationstafel_Kinderrepublik_Seekamp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1895_Olde_Winter_in_Seekamp_anagoria.JPG/1200px-1895_Olde_Winter_in_Seekamp_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/1200px-Seekamp_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schilkseer_Strasse_61_Kiel.jpg/1200px-Schilkseer_Strasse_61_Kiel.jpg
+image_srcset:
+  Informationstafel Kinderrepublik Seekamp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Informationstafel_Kinderrepublik_Seekamp.jpg/400px-Informationstafel_Kinderrepublik_Seekamp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Informationstafel_Kinderrepublik_Seekamp.jpg/800px-Informationstafel_Kinderrepublik_Seekamp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Informationstafel_Kinderrepublik_Seekamp.jpg/1200px-Informationstafel_Kinderrepublik_Seekamp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Informationstafel_Kinderrepublik_Seekamp.jpg/1920px-Informationstafel_Kinderrepublik_Seekamp.jpg
+  1895 Olde Winter in Seekamp anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1895_Olde_Winter_in_Seekamp_anagoria.JPG/400px-1895_Olde_Winter_in_Seekamp_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1895_Olde_Winter_in_Seekamp_anagoria.JPG/800px-1895_Olde_Winter_in_Seekamp_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1895_Olde_Winter_in_Seekamp_anagoria.JPG/1200px-1895_Olde_Winter_in_Seekamp_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/1895_Olde_Winter_in_Seekamp_anagoria.JPG/1920px-1895_Olde_Winter_in_Seekamp_anagoria.JPG
+  Seekamp 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/400px-Seekamp_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/800px-Seekamp_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/1200px-Seekamp_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Seekamp_01.jpg/1920px-Seekamp_01.jpg
+  Schilkseer Strasse 61 Kiel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schilkseer_Strasse_61_Kiel.jpg/400px-Schilkseer_Strasse_61_Kiel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schilkseer_Strasse_61_Kiel.jpg/800px-Schilkseer_Strasse_61_Kiel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schilkseer_Strasse_61_Kiel.jpg/1200px-Schilkseer_Strasse_61_Kiel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schilkseer_Strasse_61_Kiel.jpg/1920px-Schilkseer_Strasse_61_Kiel.jpg
 ---
 
 ## Overview

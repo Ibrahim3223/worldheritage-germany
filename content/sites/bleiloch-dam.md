@@ -1,19 +1,49 @@
 ---
-title: "Bleiloch Dam"
+title: Bleiloch Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 50.524557
 longitude: 11.714297
 images:
-  - "/images-sites/bleiloch-dam/01-d8d3bd80-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg/1200px-Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg/1200px-Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg/1200px-Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg/1200px-Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/1200px-Bleiloch-Talsperre_2013.jpg
+image_srcset:
+  Einfahrt Straße über Bleilochtalsperre 20191026 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg/400px-Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg/800px-Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg/1200px-Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg/1920px-Einfahrt_Straße_über_Bleilochtalsperre_20191026_001.jpg
+  Gerüstbau an Staumauer Bleilochtalsperre 20191026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg/400px-Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg/800px-Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg/1200px-Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg/1920px-Gerüstbau_an_Staumauer_Bleilochtalsperre_20191026.jpg
+  Bleiloch Stausee MS Bad Lobenstein 8169247.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg/400px-Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg/800px-Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg/1200px-Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg/1920px-Bleiloch_Stausee_MS_Bad_Lobenstein_8169247.jpg
+  Beginn Straßenabschnitt Bleilochtalsperre 20191026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg/400px-Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg/800px-Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg/1200px-Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg/1920px-Beginn_Straßenabschnitt_Bleilochtalsperre_20191026.jpg
+  Bleiloch-Talsperre 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/400px-Bleiloch-Talsperre_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/800px-Bleiloch-Talsperre_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/1200px-Bleiloch-Talsperre_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bleiloch-Talsperre_2013.jpg/1920px-Bleiloch-Talsperre_2013.jpg
 ---
 
 ## Overview

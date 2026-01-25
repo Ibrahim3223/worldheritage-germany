@@ -13,7 +13,7 @@ regions:
 latitude: 49.63336944
 longitude: 8.36628333
 images:
-  - "/images-sites/raschi-haus/01-1040b938-800w.webp"
+  - "/images/raschi-haus/01-1040b938-800w.webp"
 ---
 
 ## Overview

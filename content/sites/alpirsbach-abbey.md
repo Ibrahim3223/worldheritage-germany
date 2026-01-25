@@ -1,20 +1,49 @@
 ---
-title: "Alpirsbach Abbey"
+title: Alpirsbach Abbey
 date: 2026-01-23
 draft: false
-description: "monastery in Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery in Bade-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3461
 longitude: 8.40417
 images:
-  - "/images-sites/alpirsbach-abbey/02-9ead8a91-800w.webp"
-  - "/images-sites/alpirsbach-abbey/03-1f994ed6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AlpirsbachAbbey_101_0961.jpg/1200px-AlpirsbachAbbey_101_0961.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AlpirsbachAbbey_101_0980.jpg/1200px-AlpirsbachAbbey_101_0980.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AlpirsbachAbbey_101_0965c.jpg/1200px-AlpirsbachAbbey_101_0965c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alpirsbach_Kloster.jpg/1200px-Alpirsbach_Kloster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/1200px-Alpaussen.jpg
+image_srcset:
+  AlpirsbachAbbey 101 0961.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AlpirsbachAbbey_101_0961.jpg/400px-AlpirsbachAbbey_101_0961.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AlpirsbachAbbey_101_0961.jpg/800px-AlpirsbachAbbey_101_0961.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AlpirsbachAbbey_101_0961.jpg/1200px-AlpirsbachAbbey_101_0961.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AlpirsbachAbbey_101_0961.jpg/1920px-AlpirsbachAbbey_101_0961.jpg
+  AlpirsbachAbbey 101 0980.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AlpirsbachAbbey_101_0980.jpg/400px-AlpirsbachAbbey_101_0980.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AlpirsbachAbbey_101_0980.jpg/800px-AlpirsbachAbbey_101_0980.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AlpirsbachAbbey_101_0980.jpg/1200px-AlpirsbachAbbey_101_0980.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/AlpirsbachAbbey_101_0980.jpg/1920px-AlpirsbachAbbey_101_0980.jpg
+  AlpirsbachAbbey 101 0965c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AlpirsbachAbbey_101_0965c.jpg/400px-AlpirsbachAbbey_101_0965c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AlpirsbachAbbey_101_0965c.jpg/800px-AlpirsbachAbbey_101_0965c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AlpirsbachAbbey_101_0965c.jpg/1200px-AlpirsbachAbbey_101_0965c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/AlpirsbachAbbey_101_0965c.jpg/1920px-AlpirsbachAbbey_101_0965c.jpg
+  Alpirsbach Kloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alpirsbach_Kloster.jpg/400px-Alpirsbach_Kloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alpirsbach_Kloster.jpg/800px-Alpirsbach_Kloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alpirsbach_Kloster.jpg/1200px-Alpirsbach_Kloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alpirsbach_Kloster.jpg/1920px-Alpirsbach_Kloster.jpg
+  Alpaussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/400px-Alpaussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/800px-Alpaussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/1200px-Alpaussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alpaussen.jpg/1920px-Alpaussen.jpg
 ---
 
 ## Overview

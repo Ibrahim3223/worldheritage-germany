@@ -13,7 +13,7 @@ regions:
 latitude: 52.516603
 longitude: 13.371931
 images:
-  - "/images-sites/soviet-war-memorial/01-d37b9588-800w.webp"
+  - "/images/soviet-war-memorial/01-d37b9588-800w.webp"
 ---
 
 ## Overview

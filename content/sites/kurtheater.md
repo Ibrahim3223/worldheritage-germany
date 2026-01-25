@@ -13,9 +13,9 @@ regions:
 latitude: 50.1991
 longitude: 10.0798
 images:
-  - "/images-sites/kurtheater/01-56b54394-800w.webp"
-  - "/images-sites/kurtheater/02-1076cd1c-800w.webp"
-  - "/images-sites/kurtheater/03-404f80fb-800w.webp"
+  - "/images/kurtheater/01-56b54394-800w.webp"
+  - "/images/kurtheater/02-1076cd1c-800w.webp"
+  - "/images/kurtheater/03-404f80fb-800w.webp"
 ---
 
 ## Overview

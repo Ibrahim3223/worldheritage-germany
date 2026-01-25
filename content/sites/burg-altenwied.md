@@ -1,21 +1,31 @@
 ---
-title: "Burg Altenwied"
+title: Burg Altenwied
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6125
 longitude: 7.40207
 images:
-  - "/images-sites/burg-altenwied/01-fda77ee7-800w.webp"
-  - "/images-sites/burg-altenwied/02-c2ece1ea-800w.webp"
-  - "/images-sites/burg-altenwied/03-00d5e3fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg-Altenwied-002.jpg/1200px-Burg-Altenwied-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altenwied.JPG/1200px-Altenwied.JPG
+image_srcset:
+  Burg-Altenwied-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg-Altenwied-002.jpg/400px-Burg-Altenwied-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg-Altenwied-002.jpg/800px-Burg-Altenwied-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg-Altenwied-002.jpg/1200px-Burg-Altenwied-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burg-Altenwied-002.jpg/1920px-Burg-Altenwied-002.jpg
+  Altenwied.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altenwied.JPG/400px-Altenwied.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altenwied.JPG/800px-Altenwied.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altenwied.JPG/1200px-Altenwied.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altenwied.JPG/1920px-Altenwied.JPG
 ---
 
 ## Overview

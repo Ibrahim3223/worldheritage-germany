@@ -1,19 +1,49 @@
 ---
-title: "Düben Castle"
+title: Düben Castle
 date: 2026-01-23
 draft: false
-description: "Castle complex in Bad Düben (Saxony)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Castle complex in Bad Düben (Saxony)
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5921
 longitude: 12.5805
 images:
-  - "/images-sites/dueben-castle/01-98301262-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg/1200px-Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bergfried_Burg_Düben_10_2012.jpg/1200px-Bergfried_Burg_Düben_10_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Burg_Bad_Düben_10_2012.jpg/1200px-Burg_Bad_Düben_10_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Dueben_2005-12-27.JPG/1200px-Burg_Dueben_2005-12-27.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgfried-dueben.jpg/1200px-Burgfried-dueben.jpg
+image_srcset:
+  Bad Düben - Neuhofstraße - Burg Düben 08 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg/400px-Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg/800px-Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg/1200px-Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg/1920px-Bad_Düben_-_Neuhofstraße_-_Burg_Düben_08_ies.jpg
+  Bergfried Burg Düben 10 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bergfried_Burg_Düben_10_2012.jpg/400px-Bergfried_Burg_Düben_10_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bergfried_Burg_Düben_10_2012.jpg/800px-Bergfried_Burg_Düben_10_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bergfried_Burg_Düben_10_2012.jpg/1200px-Bergfried_Burg_Düben_10_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bergfried_Burg_Düben_10_2012.jpg/1920px-Bergfried_Burg_Düben_10_2012.jpg
+  Burg Bad Düben 10 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Burg_Bad_Düben_10_2012.jpg/400px-Burg_Bad_Düben_10_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Burg_Bad_Düben_10_2012.jpg/800px-Burg_Bad_Düben_10_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Burg_Bad_Düben_10_2012.jpg/1200px-Burg_Bad_Düben_10_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Burg_Bad_Düben_10_2012.jpg/1920px-Burg_Bad_Düben_10_2012.jpg
+  Burg Dueben 2005-12-27.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Dueben_2005-12-27.JPG/400px-Burg_Dueben_2005-12-27.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Dueben_2005-12-27.JPG/800px-Burg_Dueben_2005-12-27.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Dueben_2005-12-27.JPG/1200px-Burg_Dueben_2005-12-27.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Dueben_2005-12-27.JPG/1920px-Burg_Dueben_2005-12-27.JPG
+  Burgfried-dueben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgfried-dueben.jpg/400px-Burgfried-dueben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgfried-dueben.jpg/800px-Burgfried-dueben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgfried-dueben.jpg/1200px-Burgfried-dueben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burgfried-dueben.jpg/1920px-Burgfried-dueben.jpg
 ---
 
 ## Overview

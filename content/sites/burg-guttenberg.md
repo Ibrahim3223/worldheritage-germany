@@ -1,29 +1,49 @@
 ---
-title: "Burg Guttenberg"
+title: Burg Guttenberg
 date: 2026-01-23
 draft: false
-description: "castle in Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2806
 longitude: 9.13444
-
-# Images
 images:
-  - "/images-sites/burg-guttenberg/01-0dc30396-800w.webp"
-  - "/images-sites/burg-guttenberg/02-110c564c-800w.webp"
-  - "/images-sites/burg-guttenberg/03-d009a8f4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/1200px-Guttenberg_Bergfried_2012.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oberotterbach,_the_ruined_castle_Guttenberg.jpg/1200px-Oberotterbach,_the_ruined_castle_Guttenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/1200px-Burg-guttenberg-2008-5b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Guttenberg_Burghof.JPG/1200px-Guttenberg_Burghof.JPG
+image_srcset:
+  Guttenberg Bergfried 2012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/400px-Guttenberg_Bergfried_2012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/800px-Guttenberg_Bergfried_2012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/1200px-Guttenberg_Bergfried_2012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Guttenberg_Bergfried_2012.JPG/1920px-Guttenberg_Bergfried_2012.JPG
+  Oberotterbach, the ruined castle Guttenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oberotterbach,_the_ruined_castle_Guttenberg.jpg/400px-Oberotterbach,_the_ruined_castle_Guttenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oberotterbach,_the_ruined_castle_Guttenberg.jpg/800px-Oberotterbach,_the_ruined_castle_Guttenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oberotterbach,_the_ruined_castle_Guttenberg.jpg/1200px-Oberotterbach,_the_ruined_castle_Guttenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oberotterbach,_the_ruined_castle_Guttenberg.jpg/1920px-Oberotterbach,_the_ruined_castle_Guttenberg.jpg
+  Landesarchiv Baden-Wuerttemberg Generallandesarchiv Karlsruhe J-B Guttenberg 1 Bild 1 (4-1507091-1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg/400px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg/800px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg/1920px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Guttenberg_1_Bild_1_(4-1507091-1).jpg
+  Burg-guttenberg-2008-5b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/400px-Burg-guttenberg-2008-5b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/800px-Burg-guttenberg-2008-5b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/1200px-Burg-guttenberg-2008-5b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Burg-guttenberg-2008-5b.jpg/1920px-Burg-guttenberg-2008-5b.jpg
+  Guttenberg Burghof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Guttenberg_Burghof.JPG/400px-Guttenberg_Burghof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Guttenberg_Burghof.JPG/800px-Guttenberg_Burghof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Guttenberg_Burghof.JPG/1200px-Guttenberg_Burghof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Guttenberg_Burghof.JPG/1920px-Guttenberg_Burghof.JPG
 ---
 
 ## Overview

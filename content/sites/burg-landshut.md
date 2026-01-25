@@ -1,27 +1,49 @@
 ---
-title: "Burg Landshut"
+title: Burg Landshut
 date: 2026-01-23
 draft: false
-description: "castle in Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9112
 longitude: 7.07464
-
-# Images
 images:
-  - "/images-sites/burg-landshut/01-37956584-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Landshut_(Mosel).jpg/1200px-Burg_Landshut_(Mosel).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_Landshut_(Mosel)_-_B.jpg/1200px-Burg_Landshut_(Mosel)_-_B.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/1200px-Burg_Landshut,_Bernkastel-Kues.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bernkastel-Kues,_Burg_Landshut.jpg/1200px-Bernkastel-Kues,_Burg_Landshut.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berncastel-Cues_-_50Pf._1920.jpg/1200px-Berncastel-Cues_-_50Pf._1920.jpg
+image_srcset:
+  Burg Landshut (Mosel).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Landshut_(Mosel).jpg/400px-Burg_Landshut_(Mosel).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Landshut_(Mosel).jpg/800px-Burg_Landshut_(Mosel).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Landshut_(Mosel).jpg/1200px-Burg_Landshut_(Mosel).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Landshut_(Mosel).jpg/1920px-Burg_Landshut_(Mosel).jpg
+  Burg Landshut (Mosel) - B.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_Landshut_(Mosel)_-_B.jpg/400px-Burg_Landshut_(Mosel)_-_B.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_Landshut_(Mosel)_-_B.jpg/800px-Burg_Landshut_(Mosel)_-_B.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_Landshut_(Mosel)_-_B.jpg/1200px-Burg_Landshut_(Mosel)_-_B.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burg_Landshut_(Mosel)_-_B.jpg/1920px-Burg_Landshut_(Mosel)_-_B.jpg
+  Burg Landshut, Bernkastel-Kues.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/400px-Burg_Landshut,_Bernkastel-Kues.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/800px-Burg_Landshut,_Bernkastel-Kues.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/1200px-Burg_Landshut,_Bernkastel-Kues.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Landshut,_Bernkastel-Kues.jpg/1920px-Burg_Landshut,_Bernkastel-Kues.jpg
+  Bernkastel-Kues, Burg Landshut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bernkastel-Kues,_Burg_Landshut.jpg/400px-Bernkastel-Kues,_Burg_Landshut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bernkastel-Kues,_Burg_Landshut.jpg/800px-Bernkastel-Kues,_Burg_Landshut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bernkastel-Kues,_Burg_Landshut.jpg/1200px-Bernkastel-Kues,_Burg_Landshut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bernkastel-Kues,_Burg_Landshut.jpg/1920px-Bernkastel-Kues,_Burg_Landshut.jpg
+  Berncastel-Cues - 50Pf. 1920.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berncastel-Cues_-_50Pf._1920.jpg/400px-Berncastel-Cues_-_50Pf._1920.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berncastel-Cues_-_50Pf._1920.jpg/800px-Berncastel-Cues_-_50Pf._1920.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berncastel-Cues_-_50Pf._1920.jpg/1200px-Berncastel-Cues_-_50Pf._1920.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berncastel-Cues_-_50Pf._1920.jpg/1920px-Berncastel-Cues_-_50Pf._1920.jpg
 ---
 
 ## Overview

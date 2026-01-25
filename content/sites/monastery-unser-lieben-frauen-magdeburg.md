@@ -13,7 +13,7 @@ regions:
 latitude: 52.1278
 longitude: 11.637
 images:
-  - "/images-sites/monastery-unser-lieben-frauen-magdeburg/01-75b07139-800w.webp"
+  - "/images/monastery-unser-lieben-frauen-magdeburg/01-75b07139-800w.webp"
 ---
 
 ## Overview

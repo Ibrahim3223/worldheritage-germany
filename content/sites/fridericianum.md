@@ -1,21 +1,49 @@
 ---
-title: "Fridericianum"
+title: Fridericianum
 date: 2026-01-23
 draft: false
-description: "museum in Kassel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Kassel, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3136
 longitude: 9.4975
 images:
-  - "/images-sites/fridericianum/01-48a3d920-800w.webp"
-  - "/images-sites/fridericianum/02-9fe507ea-800w.webp"
-  - "/images-sites/fridericianum/03-6f8d28fc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kassel_asv2022-02_img22_Fridericianum.jpg/1200px-Kassel_asv2022-02_img22_Fridericianum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1200px-Kassel_asv2022-02_img25_Fridericianum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Documenta_kassel_2022_d15_._Tent.jpg/1200px-Documenta_kassel_2022_d15_._Tent.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Documenta_5,_Fridericianum.jpg/1200px-Documenta_5,_Fridericianum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ID003743_B175_FriedrichsCollegium.jpg/1200px-ID003743_B175_FriedrichsCollegium.jpg
+image_srcset:
+  Kassel asv2022-02 img22 Fridericianum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kassel_asv2022-02_img22_Fridericianum.jpg/400px-Kassel_asv2022-02_img22_Fridericianum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kassel_asv2022-02_img22_Fridericianum.jpg/800px-Kassel_asv2022-02_img22_Fridericianum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kassel_asv2022-02_img22_Fridericianum.jpg/1200px-Kassel_asv2022-02_img22_Fridericianum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kassel_asv2022-02_img22_Fridericianum.jpg/1920px-Kassel_asv2022-02_img22_Fridericianum.jpg
+  Kassel asv2022-02 img25 Fridericianum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/400px-Kassel_asv2022-02_img25_Fridericianum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/800px-Kassel_asv2022-02_img25_Fridericianum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1200px-Kassel_asv2022-02_img25_Fridericianum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kassel_asv2022-02_img25_Fridericianum.jpg/1920px-Kassel_asv2022-02_img25_Fridericianum.jpg
+  Documenta kassel 2022 d15 . Tent.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Documenta_kassel_2022_d15_._Tent.jpg/400px-Documenta_kassel_2022_d15_._Tent.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Documenta_kassel_2022_d15_._Tent.jpg/800px-Documenta_kassel_2022_d15_._Tent.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Documenta_kassel_2022_d15_._Tent.jpg/1200px-Documenta_kassel_2022_d15_._Tent.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Documenta_kassel_2022_d15_._Tent.jpg/1920px-Documenta_kassel_2022_d15_._Tent.jpg
+  Documenta 5, Fridericianum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Documenta_5,_Fridericianum.jpg/400px-Documenta_5,_Fridericianum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Documenta_5,_Fridericianum.jpg/800px-Documenta_5,_Fridericianum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Documenta_5,_Fridericianum.jpg/1200px-Documenta_5,_Fridericianum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Documenta_5,_Fridericianum.jpg/1920px-Documenta_5,_Fridericianum.jpg
+  ID003743 B175 FriedrichsCollegium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ID003743_B175_FriedrichsCollegium.jpg/400px-ID003743_B175_FriedrichsCollegium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ID003743_B175_FriedrichsCollegium.jpg/800px-ID003743_B175_FriedrichsCollegium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ID003743_B175_FriedrichsCollegium.jpg/1200px-ID003743_B175_FriedrichsCollegium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ID003743_B175_FriedrichsCollegium.jpg/1920px-ID003743_B175_FriedrichsCollegium.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 8.79862
 
 # Images
 images:
-  - "/images-sites/weserburg/01-bb31befc-800w.webp"
+  - "/images/weserburg/01-bb31befc-800w.webp"
 ---
 
 ## Overview

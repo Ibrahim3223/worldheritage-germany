@@ -1,27 +1,49 @@
 ---
-title: "Caricatura Museum Frankfurt"
+title: Caricatura Museum Frankfurt
 date: 2026-01-23
 draft: false
-description: "museum for comic art"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum for comic art
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1102
 longitude: 8.68511
-
-# Images
 images:
-  - "/images-sites/caricatura-museum-frankfurt/01-bca8b679-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Martin_Sonneborn_PARTEI.jpg/1200px-Martin_Sonneborn_PARTEI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Перед_музеем_карикатуры_-_panoramio_(1).jpg/1200px-Перед_музеем_карикатуры_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg/1200px-Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/1200px-Eingang_Caricatura_Leinwandhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Frankfurt_Caricatura-Museum_093-z.jpg/1200px-Frankfurt_Caricatura-Museum_093-z.jpg
+image_srcset:
+  Martin Sonneborn PARTEI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Martin_Sonneborn_PARTEI.jpg/400px-Martin_Sonneborn_PARTEI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Martin_Sonneborn_PARTEI.jpg/800px-Martin_Sonneborn_PARTEI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Martin_Sonneborn_PARTEI.jpg/1200px-Martin_Sonneborn_PARTEI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Martin_Sonneborn_PARTEI.jpg/1920px-Martin_Sonneborn_PARTEI.jpg
+  Перед музеем карикатуры - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Перед_музеем_карикатуры_-_panoramio_(1).jpg/400px-Перед_музеем_карикатуры_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Перед_музеем_карикатуры_-_panoramio_(1).jpg/800px-Перед_музеем_карикатуры_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Перед_музеем_карикатуры_-_panoramio_(1).jpg/1200px-Перед_музеем_карикатуры_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Перед_музеем_карикатуры_-_panoramio_(1).jpg/1920px-Перед_музеем_карикатуры_-_panoramio_(1).jpg
+  Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg/400px-Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg/800px-Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg/1200px-Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg/1920px-Leinwandhaus-am-weckmarkt-2017-vom-domturm-ffm-030.jpg
+  Eingang Caricatura Leinwandhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/400px-Eingang_Caricatura_Leinwandhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/800px-Eingang_Caricatura_Leinwandhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/1200px-Eingang_Caricatura_Leinwandhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eingang_Caricatura_Leinwandhaus.jpg/1920px-Eingang_Caricatura_Leinwandhaus.jpg
+  Frankfurt Caricatura-Museum 093-z.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Frankfurt_Caricatura-Museum_093-z.jpg/400px-Frankfurt_Caricatura-Museum_093-z.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Frankfurt_Caricatura-Museum_093-z.jpg/800px-Frankfurt_Caricatura-Museum_093-z.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Frankfurt_Caricatura-Museum_093-z.jpg/1200px-Frankfurt_Caricatura-Museum_093-z.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Frankfurt_Caricatura-Museum_093-z.jpg/1920px-Frankfurt_Caricatura-Museum_093-z.jpg
 ---
 
 ## Overview

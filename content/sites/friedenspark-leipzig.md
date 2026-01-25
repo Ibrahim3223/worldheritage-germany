@@ -1,19 +1,49 @@
 ---
-title: "Friedenspark, Leipzig"
+title: Friedenspark, Leipzig
 date: 2026-01-23
 draft: false
-description: "park in Leipzig, former cemetery in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Leipzig, former cemetery in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3274
 longitude: 12.3947
 images:
-  - "/images-sites/friedenspark-leipzig/01-cf92584e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Friedenspark.jpg/1200px-Leipzig_Friedenspark.jpg
+image_srcset:
+  Leipzig - Philipp-Rosenthal-Straße+Linnéstraße - Friedenspark 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg/400px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg/800px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg/1920px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_01_ies.jpg
+  Leipzig - Philipp-Rosenthal-Straße+Linnéstraße - Friedenspark 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg/400px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg/800px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg/1920px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_02_ies.jpg
+  Leipzig - Philipp-Rosenthal-Straße+Linnéstraße - Friedenspark 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg/400px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg/800px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg/1920px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_03_ies.jpg
+  Leipzig - Philipp-Rosenthal-Straße+Linnéstraße - Friedenspark 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg/400px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg/800px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg/1200px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg/1920px-Leipzig_-_Philipp-Rosenthal-Straße+Linnéstraße_-_Friedenspark_05_ies.jpg
+  Leipzig Friedenspark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Friedenspark.jpg/400px-Leipzig_Friedenspark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Friedenspark.jpg/800px-Leipzig_Friedenspark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Friedenspark.jpg/1200px-Leipzig_Friedenspark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Friedenspark.jpg/1920px-Leipzig_Friedenspark.jpg
 ---
 
 ## Overview 

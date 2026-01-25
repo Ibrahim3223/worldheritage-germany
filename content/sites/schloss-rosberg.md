@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q21155302"
 description: "Schloss Rösberg captivates visitors with its baroque architecture and historical significance in Germanys Bornheim region. This remarkable palace, desig..."
 images:
-  - "/images-sites/schloss-rosberg/01-e606a717-1920w.webp"
-  - "/images-sites/schloss-rosberg/02-a46cce7d-1920w.webp"
-  - "/images-sites/schloss-rosberg/03-9febdb1b-1920w.webp"
+  - "/images/schloss-rosberg/01-e606a717-1920w.webp"
+  - "/images/schloss-rosberg/02-a46cce7d-1920w.webp"
+  - "/images/schloss-rosberg/03-9febdb1b-1920w.webp"
 ---
 
 ## Overview

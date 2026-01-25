@@ -13,7 +13,7 @@ regions:
 latitude: 51.0521
 longitude: 13.7465
 images:
-  - "/images-sites/new-synagogue-dresden/01-8bedf0a4-800w.webp"
+  - "/images/new-synagogue-dresden/01-8bedf0a4-800w.webp"
 ---
 
 ## Overview

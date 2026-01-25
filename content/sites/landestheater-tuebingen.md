@@ -13,7 +13,7 @@ regions:
 latitude: 48.515
 longitude: 9.0634
 images:
-  - "/images-sites/landestheater-tuebingen/01-d7628a94-800w.webp"
+  - "/images/landestheater-tuebingen/01-d7628a94-800w.webp"
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Burg Staufenberg"
+title: Burg Staufenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.501
 longitude: 8.0273
-
-# Images
 images:
-  - "/images-sites/burg-staufenberg/01-1445d717-800w.webp"
-  - "/images-sites/burg-staufenberg/02-d4753bbe-800w.webp"
-  - "/images-sites/burg-staufenberg/03-5969b664-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Das_Schloss_Staufenberg_in_Durbach._06.jpg/1200px-Das_Schloss_Staufenberg_in_Durbach._06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Das_Schloss_Staufenberg_in_Durbach._01.jpg/1200px-Das_Schloss_Staufenberg_in_Durbach._01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg/1200px-Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Torbau_Burg_Staufenberg_Durbach.jpg/1200px-Torbau_Burg_Staufenberg_Durbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1200px-Staufenberg_De_Merian_Hassiae.jpg
+image_srcset:
+  Das Schloss Staufenberg in Durbach. 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Das_Schloss_Staufenberg_in_Durbach._06.jpg/400px-Das_Schloss_Staufenberg_in_Durbach._06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Das_Schloss_Staufenberg_in_Durbach._06.jpg/800px-Das_Schloss_Staufenberg_in_Durbach._06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Das_Schloss_Staufenberg_in_Durbach._06.jpg/1200px-Das_Schloss_Staufenberg_in_Durbach._06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Das_Schloss_Staufenberg_in_Durbach._06.jpg/1920px-Das_Schloss_Staufenberg_in_Durbach._06.jpg
+  Das Schloss Staufenberg in Durbach. 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Das_Schloss_Staufenberg_in_Durbach._01.jpg/400px-Das_Schloss_Staufenberg_in_Durbach._01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Das_Schloss_Staufenberg_in_Durbach._01.jpg/800px-Das_Schloss_Staufenberg_in_Durbach._01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Das_Schloss_Staufenberg_in_Durbach._01.jpg/1200px-Das_Schloss_Staufenberg_in_Durbach._01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Das_Schloss_Staufenberg_in_Durbach._01.jpg/1920px-Das_Schloss_Staufenberg_in_Durbach._01.jpg
+  Burg Staufenberg (Hessen) Unterburg von SO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg/400px-Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg/800px-Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg/1200px-Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg/1920px-Burg_Staufenberg_(Hessen)_Unterburg_von_SO.jpg
+  Torbau Burg Staufenberg Durbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Torbau_Burg_Staufenberg_Durbach.jpg/400px-Torbau_Burg_Staufenberg_Durbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Torbau_Burg_Staufenberg_Durbach.jpg/800px-Torbau_Burg_Staufenberg_Durbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Torbau_Burg_Staufenberg_Durbach.jpg/1200px-Torbau_Burg_Staufenberg_Durbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Torbau_Burg_Staufenberg_Durbach.jpg/1920px-Torbau_Burg_Staufenberg_Durbach.jpg
+  Staufenberg De Merian Hassiae.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/400px-Staufenberg_De_Merian_Hassiae.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/800px-Staufenberg_De_Merian_Hassiae.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1200px-Staufenberg_De_Merian_Hassiae.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Staufenberg_De_Merian_Hassiae.jpg/1920px-Staufenberg_De_Merian_Hassiae.jpg
 ---
 
 ## Overview

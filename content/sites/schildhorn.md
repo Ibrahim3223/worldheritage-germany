@@ -13,8 +13,8 @@ regions:
 latitude: 52.4962
 longitude: 13.1953
 images:
-  - "/images-sites/schildhorn/02-9551576a-800w.webp"
-  - "/images-sites/schildhorn/03-a824f741-800w.webp"
+  - "/images/schildhorn/02-9551576a-800w.webp"
+  - "/images/schildhorn/03-a824f741-800w.webp"
 ---
 
 ## Overview

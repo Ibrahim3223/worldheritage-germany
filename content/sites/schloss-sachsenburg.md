@@ -13,7 +13,7 @@ regions:
 latitude: 50.9328
 longitude: 13.0297
 images:
-  - "/images-sites/schloss-sachsenburg/01-42931e78-800w.webp"
+  - "/images/schloss-sachsenburg/01-42931e78-800w.webp"
 ---
 
 ## Overview

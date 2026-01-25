@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q252166"
 description: "Würzburg Cathedral, an architectural masterpiece located in the heart of Würzburg, Germany, is a significant landmark that draws visitors from around th..."
 images:
-  - "/images-sites/wurzburg-cathedral/01-d7c26b86-1920w.webp"
-  - "/images-sites/wurzburg-cathedral/02-ae0ff389-1920w.webp"
-  - "/images-sites/wurzburg-cathedral/03-4a846307-1920w.webp"
+  - "/images/wurzburg-cathedral/01-d7c26b86-1920w.webp"
+  - "/images/wurzburg-cathedral/02-ae0ff389-1920w.webp"
+  - "/images/wurzburg-cathedral/03-4a846307-1920w.webp"
 ---
 
 ## Overview

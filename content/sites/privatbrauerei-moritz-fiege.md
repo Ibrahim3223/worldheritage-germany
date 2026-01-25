@@ -21,7 +21,7 @@ longitude: 7.228388888
 
 # Images
 images:
-  - "/images-sites/privatbrauerei-moritz-fiege/01-b28f9446-800w.webp"
+  - "/images/privatbrauerei-moritz-fiege/01-b28f9446-800w.webp"
 ---
 
 ## Overview

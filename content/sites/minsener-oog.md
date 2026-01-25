@@ -13,7 +13,7 @@ regions:
 latitude: 53.75
 longitude: 8.016666666
 images:
-  - "/images-sites/minsener-oog/01-d3eed62d-800w.webp"
+  - "/images/minsener-oog/01-d3eed62d-800w.webp"
 ---
 
 ## Overview

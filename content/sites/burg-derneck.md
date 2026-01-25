@@ -1,29 +1,49 @@
 ---
-title: "Burg Derneck"
+title: Burg Derneck
 date: 2026-01-23
 draft: false
-description: "Burg in Baden-Württemberg, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Burg in Baden-Württemberg, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.3095
 longitude: 9.49661
-
-# Images
 images:
-  - "/images-sites/burg-derneck/01-246d40e2-800w.webp"
-  - "/images-sites/burg-derneck/02-0e841bb3-800w.webp"
-  - "/images-sites/burg-derneck/03-84a9d0cb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Derneck_-_panoramio_(1).jpg/1200px-Burg_Derneck_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Derneck.jpg/1200px-Burg_Derneck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg/1200px-Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg/1200px-Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Derneck1.jpg/1200px-Derneck1.jpg
+image_srcset:
+  Burg Derneck - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Derneck_-_panoramio_(1).jpg/400px-Burg_Derneck_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Derneck_-_panoramio_(1).jpg/800px-Burg_Derneck_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Derneck_-_panoramio_(1).jpg/1200px-Burg_Derneck_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Derneck_-_panoramio_(1).jpg/1920px-Burg_Derneck_-_panoramio_(1).jpg
+  Burg Derneck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Derneck.jpg/400px-Burg_Derneck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Derneck.jpg/800px-Burg_Derneck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Derneck.jpg/1200px-Burg_Derneck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Derneck.jpg/1920px-Burg_Derneck.jpg
+  Landappbw 260551 1818 Burg Derneck Hayingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg/400px-Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg/800px-Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg/1200px-Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg/1920px-Landappbw_260551_1818_Burg_Derneck_Hayingen.jpg
+  Landappbw 261532 1824 Spielplatz Spielplatz im Breitle Hayingen Burg Derneck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg/400px-Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg/800px-Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg/1200px-Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg/1920px-Landappbw_261532_1824_Spielplatz_Spielplatz_im_Breitle_Hayingen_Burg_Derneck.jpg
+  Derneck1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Derneck1.jpg/400px-Derneck1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Derneck1.jpg/800px-Derneck1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Derneck1.jpg/1200px-Derneck1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Derneck1.jpg/1920px-Derneck1.jpg
 ---
 
 ## Overview

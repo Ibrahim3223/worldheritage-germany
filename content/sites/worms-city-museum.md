@@ -13,7 +13,7 @@ regions:
 latitude: 49.6281
 longitude: 8.3572
 images:
-  - "/images-sites/worms-city-museum/01-cadf600f-800w.webp"
+  - "/images/worms-city-museum/01-cadf600f-800w.webp"
 ---
 
 ## Overview

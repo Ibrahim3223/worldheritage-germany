@@ -13,7 +13,7 @@ regions:
 latitude: 51.4808
 longitude: 7.16111
 images:
-  - "/images-sites/zeche-centrum/01-06b9efa1-800w.webp"
+  - "/images/zeche-centrum/01-06b9efa1-800w.webp"
 ---
 
 ## Overview

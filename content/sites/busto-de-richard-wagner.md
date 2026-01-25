@@ -1,19 +1,49 @@
 ---
-title: "Busto de Richard Wagner"
+title: Busto de Richard Wagner
 date: 2026-01-23
 draft: false
-description: "monument in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Leipzig
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.34124
 longitude: 12.38214
 images:
-  - "/images-sites/busto-de-richard-wagner/01-7fffb596-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg/1200px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg/1200px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg/1200px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg/1200px-MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Richard_Wagner_Büste,_Leipzig.jpg/1200px-Richard_Wagner_Büste,_Leipzig.jpg
+image_srcset:
+  Leipzig - Georgiring - Park am Schwanenteich - Richard-Wagner-Denkmal 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg/400px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg/800px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg/1200px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg/1920px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_01_ies.jpg
+  Leipzig - Georgiring - Park am Schwanenteich - Richard-Wagner-Denkmal 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg/400px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg/800px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg/1200px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg/1920px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_04_ies.jpg
+  Leipzig - Georgiring - Park am Schwanenteich - Richard-Wagner-Denkmal 06 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg/400px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg/800px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg/1200px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg/1920px-Leipzig_-_Georgiring_-_Park_am_Schwanenteich_-_Richard-Wagner-Denkmal_06_ies.jpg
+  MKBler - 1455 - Richard-Wagner-Büste (Leipzig).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg/400px-MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg/800px-MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg/1200px-MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg/1920px-MKBler_-_1455_-_Richard-Wagner-Büste_(Leipzig).jpg
+  Richard Wagner Büste, Leipzig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Richard_Wagner_Büste,_Leipzig.jpg/400px-Richard_Wagner_Büste,_Leipzig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Richard_Wagner_Büste,_Leipzig.jpg/800px-Richard_Wagner_Büste,_Leipzig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Richard_Wagner_Büste,_Leipzig.jpg/1200px-Richard_Wagner_Büste,_Leipzig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Richard_Wagner_Büste,_Leipzig.jpg/1920px-Richard_Wagner_Büste,_Leipzig.jpg
 ---
 
 ## Overview

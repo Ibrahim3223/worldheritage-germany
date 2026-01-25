@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1405613"
 description: "St. Margareta is a notable church building located in Teisnach, Lower Bavaria, Germany. This Gothic Revival structure stands as an architectural highlig..."
 images:
-  - "/images-sites/st-margareta/01-3469b116-1920w.webp"
-  - "/images-sites/st-margareta/02-de4c163e-1920w.webp"
-  - "/images-sites/st-margareta/03-8b021a32-1920w.webp"
+  - "/images/st-margareta/01-3469b116-1920w.webp"
+  - "/images/st-margareta/02-de4c163e-1920w.webp"
+  - "/images/st-margareta/03-8b021a32-1920w.webp"
 ---
 
 ## Overview

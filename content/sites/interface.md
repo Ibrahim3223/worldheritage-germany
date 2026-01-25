@@ -1,27 +1,31 @@
 ---
-title: "interface"
+title: interface
 date: 2026-01-23
 draft: false
-description: "German non-profit think tank"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: German non-profit think tank
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.471196255
 longitude: 13.428984462
-
-# Images
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg/1200px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg/1200px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg
+image_srcset:
+  Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg/400px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg/800px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg/1200px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg/1920px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g2.jpg
+  Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg/400px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg/800px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg/1200px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg/1920px-Cheaper-faster-drug-development-validated-by-the-repositioning-of-drugs-against-neglected-tropical-rsif20141289-g7.jpg
 ---
 
 ## Overview

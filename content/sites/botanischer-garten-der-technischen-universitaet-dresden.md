@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten der Technischen Universität Dresden"
+title: Botanischer Garten der Technischen Universität Dresden
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.04302
 longitude: 13.75856
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-technischen-universitaet-dresden/01-5c85b520-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg/1200px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg/1200px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg/1200px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1200px-Botanischergartendresden-juli2016_-_26.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eingang_BotGardDresden070219A.jpg/1200px-Eingang_BotGardDresden070219A.jpg
+image_srcset:
+  01307 Dresden, Großer Garten Botanischer Garten Alpinum 02 2023-06-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg/400px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg/800px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg/1200px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg/1920px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_02_2023-06-10.jpg
+  01307 Dresden, Großer Garten Botanischer Garten Alpinum 01 2023-06-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg/400px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg/800px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg/1200px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg/1920px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_01_2023-06-10.jpg
+  01307 Dresden, Großer Garten Botanischer Garten Alpinum 03 2023-06-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg/400px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg/800px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg/1200px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg/1920px-01307_Dresden,_Großer_Garten_Botanischer_Garten_Alpinum_03_2023-06-10.jpg
+  Botanischergartendresden-juli2016 - 26.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/400px-Botanischergartendresden-juli2016_-_26.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/800px-Botanischergartendresden-juli2016_-_26.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1200px-Botanischergartendresden-juli2016_-_26.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischergartendresden-juli2016_-_26.jpeg/1920px-Botanischergartendresden-juli2016_-_26.jpeg
+  Eingang BotGardDresden070219A.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eingang_BotGardDresden070219A.jpg/400px-Eingang_BotGardDresden070219A.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eingang_BotGardDresden070219A.jpg/800px-Eingang_BotGardDresden070219A.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eingang_BotGardDresden070219A.jpg/1200px-Eingang_BotGardDresden070219A.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eingang_BotGardDresden070219A.jpg/1920px-Eingang_BotGardDresden070219A.jpg
 ---
 
 ## Overview

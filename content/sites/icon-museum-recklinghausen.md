@@ -1,19 +1,43 @@
 ---
-title: "Icon Museum Recklinghausen"
+title: Icon Museum Recklinghausen
 date: 2026-01-23
 draft: false
-description: "museum in North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6154
 longitude: 7.1972
 images:
-  - "/images-sites/icon-museum-recklinghausen/01-b2c032de-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ikonenmuseum_2.jpg/1200px-Ikonenmuseum_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg/1200px-Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg/1200px-Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg/1200px-Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg
+image_srcset:
+  Ikonenmuseum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ikonenmuseum_2.jpg/400px-Ikonenmuseum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ikonenmuseum_2.jpg/800px-Ikonenmuseum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ikonenmuseum_2.jpg/1200px-Ikonenmuseum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ikonenmuseum_2.jpg/1920px-Ikonenmuseum_2.jpg
+  Andreas Ritzos - The Mother of God of Passion - WGA19511.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg/400px-Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg/800px-Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg/1200px-Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg/1920px-Andreas_Ritzos_-_The_Mother_of_God_of_Passion_-_WGA19511.jpg
+  Unknown painter - The Dormition of the Mother of God - WGA23493.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg/400px-Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg/800px-Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg/1200px-Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg/1920px-Unknown_painter_-_The_Dormition_of_the_Mother_of_God_-_WGA23493.jpg
+  Unknown painter - Luke Paints the Icon of the Mother of God Hodegetria - WGA23494.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg/400px-Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg/800px-Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg/1200px-Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg/1920px-Unknown_painter_-_Luke_Paints_the_Icon_of_the_Mother_of_God_Hodegetria_-_WGA23494.jpg
 ---
 
 ## Overview

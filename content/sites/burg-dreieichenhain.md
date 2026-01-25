@@ -1,27 +1,49 @@
 ---
-title: "Burg Dreieichenhain"
+title: Burg Dreieichenhain
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.0014
 longitude: 8.71639
-
-# Images
 images:
-  - "/images-sites/burg-dreieichenhain/01-dcf9bf33-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dreieichenhain_Burgpanorama_1.jpg/1200px-Dreieichenhain_Burgpanorama_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dreieichenhain_Burgpanorama_2.jpg/1200px-Dreieichenhain_Burgpanorama_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Dreieichenhain.jpg/1200px-Burg_Dreieichenhain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024BurgDreieichenhain.jpg/1200px-2024BurgDreieichenhain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1200px-Dreieich_Dreieichenhain_Burg_20070823.JPG
+image_srcset:
+  Dreieichenhain Burgpanorama 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dreieichenhain_Burgpanorama_1.jpg/400px-Dreieichenhain_Burgpanorama_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dreieichenhain_Burgpanorama_1.jpg/800px-Dreieichenhain_Burgpanorama_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dreieichenhain_Burgpanorama_1.jpg/1200px-Dreieichenhain_Burgpanorama_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dreieichenhain_Burgpanorama_1.jpg/1920px-Dreieichenhain_Burgpanorama_1.jpg
+  Dreieichenhain Burgpanorama 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dreieichenhain_Burgpanorama_2.jpg/400px-Dreieichenhain_Burgpanorama_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dreieichenhain_Burgpanorama_2.jpg/800px-Dreieichenhain_Burgpanorama_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dreieichenhain_Burgpanorama_2.jpg/1200px-Dreieichenhain_Burgpanorama_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dreieichenhain_Burgpanorama_2.jpg/1920px-Dreieichenhain_Burgpanorama_2.jpg
+  Burg Dreieichenhain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Dreieichenhain.jpg/400px-Burg_Dreieichenhain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Dreieichenhain.jpg/800px-Burg_Dreieichenhain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Dreieichenhain.jpg/1200px-Burg_Dreieichenhain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Dreieichenhain.jpg/1920px-Burg_Dreieichenhain.jpg
+  2024BurgDreieichenhain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024BurgDreieichenhain.jpg/400px-2024BurgDreieichenhain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024BurgDreieichenhain.jpg/800px-2024BurgDreieichenhain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024BurgDreieichenhain.jpg/1200px-2024BurgDreieichenhain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2024BurgDreieichenhain.jpg/1920px-2024BurgDreieichenhain.jpg
+  Dreieich Dreieichenhain Burg 20070823.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/400px-Dreieich_Dreieichenhain_Burg_20070823.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/800px-Dreieich_Dreieichenhain_Burg_20070823.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1200px-Dreieich_Dreieichenhain_Burg_20070823.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dreieich_Dreieichenhain_Burg_20070823.JPG/1920px-Dreieich_Dreieichenhain_Burg_20070823.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Ebersburg Castle"
+title: Ebersburg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4744
 longitude: 9.8516
 images:
-  - "/images-sites/ebersburg-castle/01-4b2fa7f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bergfried_-_Burg_Ebersburg_fm811427.jpg/1200px-Bergfried_-_Burg_Ebersburg_fm811427.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hessische_Rhön-Ebersberg_012.jpg/1200px-Hessische_Rhön-Ebersberg_012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png/1200px-Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebersburg_Burgruine_(20).jpg/1200px-Ebersburg_Burgruine_(20).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruine_Ebersburg_2019.jpg/1200px-Ruine_Ebersburg_2019.jpg
+image_srcset:
+  Bergfried - Burg Ebersburg fm811427.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bergfried_-_Burg_Ebersburg_fm811427.jpg/400px-Bergfried_-_Burg_Ebersburg_fm811427.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bergfried_-_Burg_Ebersburg_fm811427.jpg/800px-Bergfried_-_Burg_Ebersburg_fm811427.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bergfried_-_Burg_Ebersburg_fm811427.jpg/1200px-Bergfried_-_Burg_Ebersburg_fm811427.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bergfried_-_Burg_Ebersburg_fm811427.jpg/1920px-Bergfried_-_Burg_Ebersburg_fm811427.jpg
+  Hessische Rhön-Ebersberg 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hessische_Rhön-Ebersberg_012.jpg/400px-Hessische_Rhön-Ebersberg_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hessische_Rhön-Ebersberg_012.jpg/800px-Hessische_Rhön-Ebersberg_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hessische_Rhön-Ebersberg_012.jpg/1200px-Hessische_Rhön-Ebersberg_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hessische_Rhön-Ebersberg_012.jpg/1920px-Hessische_Rhön-Ebersberg_012.jpg
+  Ebersburg Weyhers Ebersberg Burg Ebersburg Tower o N.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png/400px-Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png/800px-Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png/1200px-Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png/1920px-Ebersburg_Weyhers_Ebersberg_Burg_Ebersburg_Tower_o_N.png
+  Ebersburg Burgruine (20).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebersburg_Burgruine_(20).jpg/400px-Ebersburg_Burgruine_(20).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebersburg_Burgruine_(20).jpg/800px-Ebersburg_Burgruine_(20).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebersburg_Burgruine_(20).jpg/1200px-Ebersburg_Burgruine_(20).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebersburg_Burgruine_(20).jpg/1920px-Ebersburg_Burgruine_(20).jpg
+  Ruine Ebersburg 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruine_Ebersburg_2019.jpg/400px-Ruine_Ebersburg_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruine_Ebersburg_2019.jpg/800px-Ruine_Ebersburg_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruine_Ebersburg_2019.jpg/1200px-Ruine_Ebersburg_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ruine_Ebersburg_2019.jpg/1920px-Ruine_Ebersburg_2019.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.744222
 longitude: 7.061841
 images:
-  - "/images-sites/tannenbusch-dunes/01-2e0cd596-800w.webp"
+  - "/images/tannenbusch-dunes/01-2e0cd596-800w.webp"
 ---
 
 ## Overview

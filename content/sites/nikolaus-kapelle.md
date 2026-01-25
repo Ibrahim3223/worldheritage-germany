@@ -13,9 +13,9 @@ regions:
 latitude: 50.818529
 longitude: 6.403308
 images:
-  - "/images-sites/nikolaus-kapelle/01-a1402c6f-800w.webp"
-  - "/images-sites/nikolaus-kapelle/02-91cfaca6-800w.webp"
-  - "/images-sites/nikolaus-kapelle/03-be3c13bf-800w.webp"
+  - "/images/nikolaus-kapelle/01-a1402c6f-800w.webp"
+  - "/images/nikolaus-kapelle/02-91cfaca6-800w.webp"
+  - "/images/nikolaus-kapelle/03-be3c13bf-800w.webp"
 ---
 
 ## Overview

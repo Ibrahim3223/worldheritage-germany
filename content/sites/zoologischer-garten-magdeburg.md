@@ -13,7 +13,7 @@ regions:
 latitude: 52.168056
 longitude: 11.641111
 images:
-  - "/images-sites/zoologischer-garten-magdeburg/01-bc943c7a-800w.webp"
+  - "/images/zoologischer-garten-magdeburg/01-bc943c7a-800w.webp"
 ---
 
 ## Overview

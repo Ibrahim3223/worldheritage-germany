@@ -13,9 +13,9 @@ regions:
 latitude: 50.363611111
 longitude: 7.558333333
 images:
-  - "/images-sites/university-of-koblenz/01-8545c189-800w.webp"
-  - "/images-sites/university-of-koblenz/01-c1a066ac-800w.webp"
-  - "/images-sites/university-of-koblenz/02-c1a066ac-800w.webp"
+  - "/images/university-of-koblenz/01-8545c189-800w.webp"
+  - "/images/university-of-koblenz/01-c1a066ac-800w.webp"
+  - "/images/university-of-koblenz/02-c1a066ac-800w.webp"
 ---
 
 ## Overview

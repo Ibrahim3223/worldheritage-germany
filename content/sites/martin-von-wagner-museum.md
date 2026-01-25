@@ -13,7 +13,7 @@ regions:
 latitude: 49.7927
 longitude: 9.93926
 images:
-  - "/images-sites/martin-von-wagner-museum/01-60f7c751-800w.webp"
+  - "/images/martin-von-wagner-museum/01-60f7c751-800w.webp"
 ---
 
 ## Overview

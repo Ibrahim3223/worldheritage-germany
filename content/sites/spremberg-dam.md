@@ -13,9 +13,9 @@ regions:
 latitude: 51.657894444
 longitude: 14.396227777
 images:
-  - "/images-sites/spremberg-dam/01-83ffa69d-800w.webp"
-  - "/images-sites/spremberg-dam/02-a5f40ddd-800w.webp"
-  - "/images-sites/spremberg-dam/03-52b39dfd-800w.webp"
+  - "/images/spremberg-dam/01-83ffa69d-800w.webp"
+  - "/images/spremberg-dam/02-a5f40ddd-800w.webp"
+  - "/images/spremberg-dam/03-52b39dfd-800w.webp"
 ---
 
 ## Overview

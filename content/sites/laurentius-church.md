@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2320205"
 description: "Laurentius Church, a striking example of Baroque architecture, stands proudly in the heart of Dagebüll, Germany. Founded in 1703, this wooden church off..."
 images:
-  - "/images-sites/laurentius-church/01-0db88a79-1920w.webp"
-  - "/images-sites/laurentius-church/02-d6ceb48d-1920w.webp"
-  - "/images-sites/laurentius-church/03-4664a6c0-1920w.webp"
+  - "/images/laurentius-church/01-0db88a79-1920w.webp"
+  - "/images/laurentius-church/02-d6ceb48d-1920w.webp"
+  - "/images/laurentius-church/03-4664a6c0-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1901084"
 description: "Market Church Poppenbüttel stands as a remarkable example of modern church architecture in Hamburg, Germany. Located in the Wandsbek region, this Luther..."
 images:
-  - "/images-sites/market-church-poppenbuttel/01-9f177904-1920w.webp"
-  - "/images-sites/market-church-poppenbuttel/02-be394cad-1920w.webp"
-  - "/images-sites/market-church-poppenbuttel/03-341419ed-1920w.webp"
+  - "/images/market-church-poppenbuttel/01-9f177904-1920w.webp"
+  - "/images/market-church-poppenbuttel/02-be394cad-1920w.webp"
+  - "/images/market-church-poppenbuttel/03-341419ed-1920w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.3753
 longitude: 7.59208
 images:
-  - "/images-sites/tahir-mosque/01-fcd80bd9-800w.webp"
-  - "/images-sites/tahir-mosque/02-bae90671-800w.webp"
-  - "/images-sites/tahir-mosque/03-4f73f181-800w.webp"
+  - "/images/tahir-mosque/01-fcd80bd9-800w.webp"
+  - "/images/tahir-mosque/02-bae90671-800w.webp"
+  - "/images/tahir-mosque/03-4f73f181-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bülk Lighthouse"
+title: Bülk Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.45526111
 longitude: 10.1973
 images:
-  - "/images-sites/buelk-lighthouse/01-dedb938e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Calm_at_the_lighthouse_(12212872486).jpg/1200px-Calm_at_the_lighthouse_(12212872486).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Leuchtturm_Bülk_03.jpg/1200px-Leuchtturm_Bülk_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/1200px-Leuchtturm-Buelk-msu-2021-3616.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg/1200px-Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Luftaufnahme_Bülk_(Kiel_49.257).jpg/1200px-Luftaufnahme_Bülk_(Kiel_49.257).jpg
+image_srcset:
+  Calm at the lighthouse (12212872486).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Calm_at_the_lighthouse_(12212872486).jpg/400px-Calm_at_the_lighthouse_(12212872486).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Calm_at_the_lighthouse_(12212872486).jpg/800px-Calm_at_the_lighthouse_(12212872486).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Calm_at_the_lighthouse_(12212872486).jpg/1200px-Calm_at_the_lighthouse_(12212872486).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Calm_at_the_lighthouse_(12212872486).jpg/1920px-Calm_at_the_lighthouse_(12212872486).jpg
+  Leuchtturm Bülk 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Leuchtturm_Bülk_03.jpg/400px-Leuchtturm_Bülk_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Leuchtturm_Bülk_03.jpg/800px-Leuchtturm_Bülk_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Leuchtturm_Bülk_03.jpg/1200px-Leuchtturm_Bülk_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Leuchtturm_Bülk_03.jpg/1920px-Leuchtturm_Bülk_03.jpg
+  Leuchtturm-Buelk-msu-2021-3616.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/400px-Leuchtturm-Buelk-msu-2021-3616.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/800px-Leuchtturm-Buelk-msu-2021-3616.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/1200px-Leuchtturm-Buelk-msu-2021-3616.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Leuchtturm-Buelk-msu-2021-3616.jpg/1920px-Leuchtturm-Buelk-msu-2021-3616.jpg
+  Leuchtturm Buelk wird renoviert Okt 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg/400px-Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg/800px-Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg/1200px-Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg/1920px-Leuchtturm_Buelk_wird_renoviert_Okt_2020.jpg
+  Luftaufnahme Bülk (Kiel 49.257).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Luftaufnahme_Bülk_(Kiel_49.257).jpg/400px-Luftaufnahme_Bülk_(Kiel_49.257).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Luftaufnahme_Bülk_(Kiel_49.257).jpg/800px-Luftaufnahme_Bülk_(Kiel_49.257).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Luftaufnahme_Bülk_(Kiel_49.257).jpg/1200px-Luftaufnahme_Bülk_(Kiel_49.257).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Luftaufnahme_Bülk_(Kiel_49.257).jpg/1920px-Luftaufnahme_Bülk_(Kiel_49.257).jpg
 ---
 
 ## Overview

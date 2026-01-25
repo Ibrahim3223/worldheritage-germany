@@ -1,27 +1,49 @@
 ---
-title: "Alte Veste"
+title: Alte Veste
 date: 2026-01-23
 draft: false
-description: "castle near Fürth, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle near Fürth, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4532
 longitude: 10.9661
-
-# Images
 images:
-  - "/images-sites/alte-veste/01-c4851f85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dankaerts-Historis-9341.tif.jpg/1200px-Dankaerts-Historis-9341.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg/1200px-Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trexelplan_1632.jpg/1200px-Trexelplan_1632.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alte_Veste.jpg/1200px-Alte_Veste.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg/1200px-Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg
+image_srcset:
+  Dankaerts-Historis-9341.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dankaerts-Historis-9341.tif.jpg/400px-Dankaerts-Historis-9341.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dankaerts-Historis-9341.tif.jpg/800px-Dankaerts-Historis-9341.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dankaerts-Historis-9341.tif.jpg/1200px-Dankaerts-Historis-9341.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dankaerts-Historis-9341.tif.jpg/1920px-Dankaerts-Historis-9341.tif.jpg
+  Abbildung des K. Schwedischen Lager beÿ Fürt (...) A(nn)o 1632 - btv1b53238753h (1 of 2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg/400px-Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg/800px-Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg/1200px-Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg/1920px-Abbildung_des_K._Schwedischen_Lager_beÿ_Fürt_(...)_A(nn)o_1632_-_btv1b53238753h_(1_of_2).jpg
+  Trexelplan 1632.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trexelplan_1632.jpg/400px-Trexelplan_1632.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trexelplan_1632.jpg/800px-Trexelplan_1632.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trexelplan_1632.jpg/1200px-Trexelplan_1632.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Trexelplan_1632.jpg/1920px-Trexelplan_1632.jpg
+  Alte Veste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alte_Veste.jpg/400px-Alte_Veste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alte_Veste.jpg/800px-Alte_Veste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alte_Veste.jpg/1200px-Alte_Veste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alte_Veste.jpg/1920px-Alte_Veste.jpg
+  Einblattdruck - Eroberung von Freystadt - Schlacht an der Alten Veste - 1632.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg/400px-Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg/800px-Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg/1200px-Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg/1920px-Einblattdruck_-_Eroberung_von_Freystadt_-_Schlacht_an_der_Alten_Veste_-_1632.jpg
 ---
 
 ## Overview

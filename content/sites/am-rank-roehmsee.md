@@ -1,19 +1,49 @@
 ---
-title: "Am Rank (Röhmsee)"
+title: Am Rank (Röhmsee)
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 48.6657
 longitude: 9.35747
 images:
-  - "/images-sites/am-rank-roehmsee/01-92dbda69-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Winterlicher_Röhmsee.jpg/1200px-Winterlicher_Röhmsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Am_Rank,_Röhmsee_(NSG_1.095).jpg/1200px-Am_Rank,_Röhmsee_(NSG_1.095).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/1200px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/170127_Bussard.jpg/1200px-170127_Bussard.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/170127_Falke_im_Abflug.jpg/1200px-170127_Falke_im_Abflug.jpg
+image_srcset:
+  Winterlicher Röhmsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Winterlicher_Röhmsee.jpg/400px-Winterlicher_Röhmsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Winterlicher_Röhmsee.jpg/800px-Winterlicher_Röhmsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Winterlicher_Röhmsee.jpg/1200px-Winterlicher_Röhmsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Winterlicher_Röhmsee.jpg/1920px-Winterlicher_Röhmsee.jpg
+  Am Rank, Röhmsee (NSG 1.095).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Am_Rank,_Röhmsee_(NSG_1.095).jpg/400px-Am_Rank,_Röhmsee_(NSG_1.095).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Am_Rank,_Röhmsee_(NSG_1.095).jpg/800px-Am_Rank,_Röhmsee_(NSG_1.095).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Am_Rank,_Röhmsee_(NSG_1.095).jpg/1200px-Am_Rank,_Röhmsee_(NSG_1.095).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Am_Rank,_Röhmsee_(NSG_1.095).jpg/1920px-Am_Rank,_Röhmsee_(NSG_1.095).jpg
+  NSG Am Rank (Röhmsee) IMG 4311 by Vux.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/400px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/800px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/1200px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg/1920px-NSG_Am_Rank_(Röhmsee)_IMG_4311_by_Vux.jpg
+  170127 Bussard.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/170127_Bussard.jpg/400px-170127_Bussard.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/170127_Bussard.jpg/800px-170127_Bussard.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/170127_Bussard.jpg/1200px-170127_Bussard.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/170127_Bussard.jpg/1920px-170127_Bussard.jpg
+  170127 Falke im Abflug.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/170127_Falke_im_Abflug.jpg/400px-170127_Falke_im_Abflug.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/170127_Falke_im_Abflug.jpg/800px-170127_Falke_im_Abflug.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/170127_Falke_im_Abflug.jpg/1200px-170127_Falke_im_Abflug.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/170127_Falke_im_Abflug.jpg/1920px-170127_Falke_im_Abflug.jpg
 ---
 
 ## Overview

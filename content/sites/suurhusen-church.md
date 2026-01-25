@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2370027"
 description: "Suurhusen Church, located in the serene region of Hinte, Germany, is a remarkable example of Romanesque architecture, captivating visitors with its hist..."
 images:
-  - "/images-sites/suurhusen-church/01-e5a56324-1920w.webp"
-  - "/images-sites/suurhusen-church/02-ad04ccb0-1920w.webp"
-  - "/images-sites/suurhusen-church/03-aaf31183-1920w.webp"
+  - "/images/suurhusen-church/01-e5a56324-1920w.webp"
+  - "/images/suurhusen-church/02-ad04ccb0-1920w.webp"
+  - "/images/suurhusen-church/03-aaf31183-1920w.webp"
 ---
 
 ## Overview

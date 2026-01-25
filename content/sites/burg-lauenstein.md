@@ -1,29 +1,49 @@
 ---
-title: "Burg Lauenstein"
+title: Burg Lauenstein
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-76-152-32 (0) in Ludwigsstadt, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument D-4-76-152-32 (0) in Ludwigsstadt, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.513287381
 longitude: 11.369996131
-
-# Images
 images:
-  - "/images-sites/burg-lauenstein/01-57d6ca25-800w.webp"
-  - "/images-sites/burg-lauenstein/02-5263c901-800w.webp"
-  - "/images-sites/burg-lauenstein/03-cdafac92-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lauenstein_Burg_9302228-Pano.jpg/1200px-Lauenstein_Burg_9302228-Pano.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1200px-Lauenstein_Burg_9302266-Pano.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lauenstein_Burg_9302262-Pano.jpg/1200px-Lauenstein_Burg_9302262-Pano.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lauenstein_Burg.jpg/1200px-Lauenstein_Burg.jpg
+image_srcset:
+  Lauenstein Burg 9302228-Pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lauenstein_Burg_9302228-Pano.jpg/400px-Lauenstein_Burg_9302228-Pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lauenstein_Burg_9302228-Pano.jpg/800px-Lauenstein_Burg_9302228-Pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lauenstein_Burg_9302228-Pano.jpg/1200px-Lauenstein_Burg_9302228-Pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lauenstein_Burg_9302228-Pano.jpg/1920px-Lauenstein_Burg_9302228-Pano.jpg
+  Lauenstein Burg 9302266-Pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/400px-Lauenstein_Burg_9302266-Pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/800px-Lauenstein_Burg_9302266-Pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1200px-Lauenstein_Burg_9302266-Pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lauenstein_Burg_9302266-Pano.jpg/1920px-Lauenstein_Burg_9302266-Pano.jpg
+  Lauenstein Burg 9302262-Pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lauenstein_Burg_9302262-Pano.jpg/400px-Lauenstein_Burg_9302262-Pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lauenstein_Burg_9302262-Pano.jpg/800px-Lauenstein_Burg_9302262-Pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lauenstein_Burg_9302262-Pano.jpg/1200px-Lauenstein_Burg_9302262-Pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lauenstein_Burg_9302262-Pano.jpg/1920px-Lauenstein_Burg_9302262-Pano.jpg
+  Aerial image of Burg Lauenstein (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg/400px-Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg/800px-Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Burg_Lauenstein_(view_from_the_southeast).jpg
+  Lauenstein Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lauenstein_Burg.jpg/400px-Lauenstein_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lauenstein_Burg.jpg/800px-Lauenstein_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lauenstein_Burg.jpg/1200px-Lauenstein_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lauenstein_Burg.jpg/1920px-Lauenstein_Burg.jpg
 ---
 
 ## Overview

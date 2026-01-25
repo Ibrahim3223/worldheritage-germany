@@ -1,21 +1,49 @@
 ---
-title: "Johanneum zu Lübeck"
+title: Johanneum zu Lübeck
 date: 2026-01-23
 draft: false
-description: "school in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school in Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8667
 longitude: 10.6931
 images:
-  - "/images-sites/johanneum-zu-luebeck/01-93b17536-800w.webp"
-  - "/images-sites/johanneum-zu-luebeck/02-d559ba54-800w.webp"
-  - "/images-sites/johanneum-zu-luebeck/03-ba2cc61a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg/1200px-Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Johanneum_zu_Lübeck_073.JPG/1200px-Johanneum_zu_Lübeck_073.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johanneum_zu_Lübeck,_2008.jpg/1200px-Johanneum_zu_Lübeck,_2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/JohRefektoriumHL01.JPG/1200px-JohRefektoriumHL01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HL_Johanneum_Portal.jpg/1200px-HL_Johanneum_Portal.jpg
+image_srcset:
+  Malchow Orgelmuseum Klosterkirche Spieltisch der Kemperorgel des Lübecker Johanneums.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg/400px-Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg/800px-Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg/1200px-Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg/1920px-Malchow_Orgelmuseum_Klosterkirche_Spieltisch_der_Kemperorgel_des_Lübecker_Johanneums.jpg
+  Johanneum zu Lübeck 073.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Johanneum_zu_Lübeck_073.JPG/400px-Johanneum_zu_Lübeck_073.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Johanneum_zu_Lübeck_073.JPG/800px-Johanneum_zu_Lübeck_073.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Johanneum_zu_Lübeck_073.JPG/1200px-Johanneum_zu_Lübeck_073.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Johanneum_zu_Lübeck_073.JPG/1920px-Johanneum_zu_Lübeck_073.JPG
+  Johanneum zu Lübeck, 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johanneum_zu_Lübeck,_2008.jpg/400px-Johanneum_zu_Lübeck,_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johanneum_zu_Lübeck,_2008.jpg/800px-Johanneum_zu_Lübeck,_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johanneum_zu_Lübeck,_2008.jpg/1200px-Johanneum_zu_Lübeck,_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johanneum_zu_Lübeck,_2008.jpg/1920px-Johanneum_zu_Lübeck,_2008.jpg
+  JohRefektoriumHL01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/JohRefektoriumHL01.JPG/400px-JohRefektoriumHL01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/JohRefektoriumHL01.JPG/800px-JohRefektoriumHL01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/JohRefektoriumHL01.JPG/1200px-JohRefektoriumHL01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/JohRefektoriumHL01.JPG/1920px-JohRefektoriumHL01.JPG
+  HL Johanneum Portal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HL_Johanneum_Portal.jpg/400px-HL_Johanneum_Portal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HL_Johanneum_Portal.jpg/800px-HL_Johanneum_Portal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HL_Johanneum_Portal.jpg/1200px-HL_Johanneum_Portal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HL_Johanneum_Portal.jpg/1920px-HL_Johanneum_Portal.jpg
 ---
 
 ## Overview

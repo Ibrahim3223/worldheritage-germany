@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q453884"
 description: "The Russian Orthodox Chapel in Weimar, Germany, stands as a striking example of Russian Revival architecture. This church building is not only a place o..."
 images:
-  - "/images-sites/russian-orthodox-chapel/01-8f8ad41f-1920w.webp"
-  - "/images-sites/russian-orthodox-chapel/02-7f969127-1920w.webp"
-  - "/images-sites/russian-orthodox-chapel/03-340b1b8d-1920w.webp"
+  - "/images/russian-orthodox-chapel/01-8f8ad41f-1920w.webp"
+  - "/images/russian-orthodox-chapel/02-7f969127-1920w.webp"
+  - "/images/russian-orthodox-chapel/03-340b1b8d-1920w.webp"
 ---
 
 ## Overview

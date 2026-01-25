@@ -13,7 +13,7 @@ regions:
 latitude: 48.16704
 longitude: 11.54835
 images:
-  - "/images-sites/ost-west-friedenskirche/01-4da6248d-800w.webp"
+  - "/images/ost-west-friedenskirche/01-4da6248d-800w.webp"
 ---
 
 ## Overview

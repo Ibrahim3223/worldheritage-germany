@@ -1,24 +1,27 @@
 ---
-title: "AnnakircheAachen"
-site_name: "AnnakircheAachen"
-slug: "annakirche-aachen"
-region: "North Rhine-Westphalia"
-
-# Location
+title: AnnakircheAachen
+site_name: AnnakircheAachen
+slug: annakirche-aachen
+region: North Rhine-Westphalia
 latitude: 50.7734
 longitude: 6.08122
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q564228"
-description: "In the heart of Aachen-Mitte, Germany, stands the Annakirche, a striking example of Baroque architecture that has captivated visitors since its construc..."
+- church building
+- religious site
+wikidata_id: Q564228
+description: In the heart of Aachen-Mitte, Germany, stands the Annakirche, a striking
+  example of Baroque architecture that has captivated visitors since its construc...
 images:
-  - "/images-sites/annakirche-aachen/01-8351d5b6-1920w.webp"
-  - "/images-sites/annakirche-aachen/02-4b67b457-1920w.webp"
-  - "/images-sites/annakirche-aachen/03-10ef5f66-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Annakirche%20Aachen%20%282024%29.jpg/1200px-Annakirche%20Aachen%20%282024%29.jpg
+image_srcset:
+  Annakirche%20Aachen%20%282024%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Annakirche%20Aachen%20%282024%29.jpg/400px-Annakirche%20Aachen%20%282024%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Annakirche%20Aachen%20%282024%29.jpg/800px-Annakirche%20Aachen%20%282024%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Annakirche%20Aachen%20%282024%29.jpg/1200px-Annakirche%20Aachen%20%282024%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Annakirche%20Aachen%20%282024%29.jpg/1920px-Annakirche%20Aachen%20%282024%29.jpg
 ---
 
 ## Overview

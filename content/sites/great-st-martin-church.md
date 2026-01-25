@@ -1,23 +1,50 @@
 ---
-title: "Great St. Martin Church"
-site_name: "Great St. Martin Church"
-slug: "great-st-martin-church"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Great St. Martin Church
+site_name: Great St. Martin Church
+slug: great-st-martin-church
+region: North Rhine-Westphalia
 latitude: 50.938492
 longitude: 6.961839
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q564520"
-description: "Great St. Martin Church, an iconic Romanesque church building, is a striking landmark located in the heart of Cologne, Germany. Its presence adds to the..."
+- cultural site
+wikidata_id: Q564520
+description: Great St. Martin Church, an iconic Romanesque church building, is a striking
+  landmark located in the heart of Cologne, Germany. Its presence adds to the...
 images:
-  - "/images-sites/great-st-martin-church/01-a61d41da-1920w.webp"
-  - "/images-sites/great-st-martin-church/02-2591e673-1920w.webp"
-  - "/images-sites/great-st-martin-church/03-0eb9a295-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Koeln%20gross%20st%20martin%20rheinseite.jpg/1200px-Koeln%20gross%20st%20martin%20rheinseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dom_(Deutzer_Brücke).jpg/1200px-Dom_(Deutzer_Brücke).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Köln,_Stadtpanorama_--_2014_--_1857.jpg/1200px-Köln,_Stadtpanorama_--_2014_--_1857.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Köln,_Deutzer_Brücke_--_2014_--_1850.jpg/1200px-Köln,_Deutzer_Brücke_--_2014_--_1850.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koeln_gross_st_martin_rheinseite.jpg/1200px-Koeln_gross_st_martin_rheinseite.jpg
+image_srcset:
+  Koeln%20gross%20st%20martin%20rheinseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Koeln%20gross%20st%20martin%20rheinseite.jpg/400px-Koeln%20gross%20st%20martin%20rheinseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Koeln%20gross%20st%20martin%20rheinseite.jpg/800px-Koeln%20gross%20st%20martin%20rheinseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Koeln%20gross%20st%20martin%20rheinseite.jpg/1200px-Koeln%20gross%20st%20martin%20rheinseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Koeln%20gross%20st%20martin%20rheinseite.jpg/1920px-Koeln%20gross%20st%20martin%20rheinseite.jpg
+  Dom (Deutzer Brücke).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dom_(Deutzer_Brücke).jpg/400px-Dom_(Deutzer_Brücke).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dom_(Deutzer_Brücke).jpg/800px-Dom_(Deutzer_Brücke).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dom_(Deutzer_Brücke).jpg/1200px-Dom_(Deutzer_Brücke).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dom_(Deutzer_Brücke).jpg/1920px-Dom_(Deutzer_Brücke).jpg
+  Köln, Stadtpanorama -- 2014 -- 1857.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Köln,_Stadtpanorama_--_2014_--_1857.jpg/400px-Köln,_Stadtpanorama_--_2014_--_1857.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Köln,_Stadtpanorama_--_2014_--_1857.jpg/800px-Köln,_Stadtpanorama_--_2014_--_1857.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Köln,_Stadtpanorama_--_2014_--_1857.jpg/1200px-Köln,_Stadtpanorama_--_2014_--_1857.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Köln,_Stadtpanorama_--_2014_--_1857.jpg/1920px-Köln,_Stadtpanorama_--_2014_--_1857.jpg
+  Köln, Deutzer Brücke -- 2014 -- 1850.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Köln,_Deutzer_Brücke_--_2014_--_1850.jpg/400px-Köln,_Deutzer_Brücke_--_2014_--_1850.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Köln,_Deutzer_Brücke_--_2014_--_1850.jpg/800px-Köln,_Deutzer_Brücke_--_2014_--_1850.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Köln,_Deutzer_Brücke_--_2014_--_1850.jpg/1200px-Köln,_Deutzer_Brücke_--_2014_--_1850.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Köln,_Deutzer_Brücke_--_2014_--_1850.jpg/1920px-Köln,_Deutzer_Brücke_--_2014_--_1850.jpg
+  Koeln gross st martin rheinseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koeln_gross_st_martin_rheinseite.jpg/400px-Koeln_gross_st_martin_rheinseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koeln_gross_st_martin_rheinseite.jpg/800px-Koeln_gross_st_martin_rheinseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koeln_gross_st_martin_rheinseite.jpg/1200px-Koeln_gross_st_martin_rheinseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koeln_gross_st_martin_rheinseite.jpg/1920px-Koeln_gross_st_martin_rheinseite.jpg
 ---
 
 ## Overview

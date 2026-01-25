@@ -13,7 +13,7 @@ regions:
 latitude: 47.421217
 longitude: 10.986314
 images:
-  - "/images-sites/zugspitze/01-92e462cf-800w.webp"
+  - "/images/zugspitze/01-92e462cf-800w.webp"
 ---
 
 ## Overview

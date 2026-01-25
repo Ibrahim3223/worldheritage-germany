@@ -21,7 +21,7 @@ longitude: 13.396
 
 # Images
 images:
-  - "/images-sites/pergamon-museum/01-f43694b8-800w.webp"
+  - "/images/pergamon-museum/01-f43694b8-800w.webp"
 ---
 
 ## Overview

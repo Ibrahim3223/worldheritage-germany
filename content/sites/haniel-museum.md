@@ -1,19 +1,37 @@
 ---
-title: "Haniel Museum"
+title: Haniel Museum
 date: 2026-01-23
 draft: false
-description: "museum in Duisburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Duisburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4513
 longitude: 6.73325
 images:
-  - "/images-sites/haniel-museum/01-0361fc9d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg/1200px-Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Haniel_House.jpg/1200px-Haniel_House.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/20120910_Hafenstraße_(2).JPG/1200px-20120910_Hafenstraße_(2).JPG
+image_srcset:
+  Duisburg, Ruhrort, Haniel, Museum, 2014-04 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg/400px-Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg/800px-Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg/1200px-Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg/1920px-Duisburg,_Ruhrort,_Haniel,_Museum,_2014-04_CN-01.jpg
+  Haniel House.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Haniel_House.jpg/400px-Haniel_House.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Haniel_House.jpg/800px-Haniel_House.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Haniel_House.jpg/1200px-Haniel_House.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Haniel_House.jpg/1920px-Haniel_House.jpg
+  20120910 Hafenstraße (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/20120910_Hafenstraße_(2).JPG/400px-20120910_Hafenstraße_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/20120910_Hafenstraße_(2).JPG/800px-20120910_Hafenstraße_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/20120910_Hafenstraße_(2).JPG/1200px-20120910_Hafenstraße_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/20120910_Hafenstraße_(2).JPG/1920px-20120910_Hafenstraße_(2).JPG
 ---
 
 ## Overview

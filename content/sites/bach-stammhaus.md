@@ -1,19 +1,25 @@
 ---
-title: "Bach-Stammhaus"
+title: Bach-Stammhaus
 date: 2026-01-23
 draft: false
-description: "museum in Günthersleben-Wechmar, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Günthersleben-Wechmar, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8914
 longitude: 10.77742
 images:
-  - "/images-sites/bach-stammhaus/01-f17790b9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/1200px-Wechmar_Bachhaus.JPG
+image_srcset:
+  Wechmar Bachhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/400px-Wechmar_Bachhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/800px-Wechmar_Bachhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/1200px-Wechmar_Bachhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wechmar_Bachhaus.JPG/1920px-Wechmar_Bachhaus.JPG
 ---
 
 ## Overview

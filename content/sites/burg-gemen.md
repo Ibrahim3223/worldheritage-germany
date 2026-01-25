@@ -1,29 +1,49 @@
 ---
-title: "Burg Gemen"
+title: Burg Gemen
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.8631
 longitude: 6.86656
-
-# Images
 images:
-  - "/images-sites/burg-gemen/01-7da2726d-800w.webp"
-  - "/images-sites/burg-gemen/02-978a0b1f-800w.webp"
-  - "/images-sites/burg-gemen/03-60b4673f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg
+image_srcset:
+  Borken, Wasserschloss Gemen -- 2014 -- 2239.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg/400px-Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg/800px-Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg/1920px-Borken,_Wasserschloss_Gemen_--_2014_--_2239.jpg
+  Borken, Wasserschloss Gemen -- 2014 -- 2241.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg/400px-Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg/800px-Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg/1920px-Borken,_Wasserschloss_Gemen_--_2014_--_2241.jpg
+  Borken, Wasserschloss Gemen -- 2014 -- 2247.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg/400px-Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg/800px-Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg/1920px-Borken,_Wasserschloss_Gemen_--_2014_--_2247.jpg
+  Aerial image of Burg Gemen (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/400px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/800px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Gemen_(view_from_the_southwest).jpg
+  Borken, Wasserschloss Gemen -- 2014 -- 2249 -- Ausschnitt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg/400px-Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg/800px-Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg/1200px-Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg/1920px-Borken,_Wasserschloss_Gemen_--_2014_--_2249_--_Ausschnitt.jpg
 ---
 
 ## Overview

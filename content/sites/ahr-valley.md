@@ -1,21 +1,49 @@
 ---
-title: "Ahr Valley"
+title: Ahr Valley
 date: 2026-01-24
 draft: false
-description: "valley"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 50.53333333
 longitude: 7.06666667
 images:
-  - "/images-sites/ahr-valley/01-be7bb810-800w.webp"
-  - "/images-sites/ahr-valley/02-cec999fd-800w.webp"
-  - "/images-sites/ahr-valley/03-540ce5a6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vineyard_in_the_Ahr_Valley,_Germany.jpg/1200px-Vineyard_in_the_Ahr_Valley,_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg/1200px-Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2020_04_07_Ahrbrück_(3).jpg/1200px-2020_04_07_Ahrbrück_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/1200px-Ahrtal01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hochwasser_in_Altenahr_Altenburg.jpg/1200px-Hochwasser_in_Altenahr_Altenburg.jpg
+image_srcset:
+  Vineyard in the Ahr Valley, Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vineyard_in_the_Ahr_Valley,_Germany.jpg/400px-Vineyard_in_the_Ahr_Valley,_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vineyard_in_the_Ahr_Valley,_Germany.jpg/800px-Vineyard_in_the_Ahr_Valley,_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vineyard_in_the_Ahr_Valley,_Germany.jpg/1200px-Vineyard_in_the_Ahr_Valley,_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vineyard_in_the_Ahr_Valley,_Germany.jpg/1920px-Vineyard_in_the_Ahr_Valley,_Germany.jpg
+  Remagen DB 622005 als RB39 naar Dernau (28205913582).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg/400px-Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg/800px-Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg/1200px-Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg/1920px-Remagen_DB_622005_als_RB39_naar_Dernau_(28205913582).jpg
+  2020 04 07 Ahrbrück (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2020_04_07_Ahrbrück_(3).jpg/400px-2020_04_07_Ahrbrück_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2020_04_07_Ahrbrück_(3).jpg/800px-2020_04_07_Ahrbrück_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2020_04_07_Ahrbrück_(3).jpg/1200px-2020_04_07_Ahrbrück_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2020_04_07_Ahrbrück_(3).jpg/1920px-2020_04_07_Ahrbrück_(3).jpg
+  Ahrtal01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/400px-Ahrtal01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/800px-Ahrtal01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/1200px-Ahrtal01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ahrtal01.jpg/1920px-Ahrtal01.jpg
+  Hochwasser in Altenahr Altenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hochwasser_in_Altenahr_Altenburg.jpg/400px-Hochwasser_in_Altenahr_Altenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hochwasser_in_Altenahr_Altenburg.jpg/800px-Hochwasser_in_Altenahr_Altenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hochwasser_in_Altenahr_Altenburg.jpg/1200px-Hochwasser_in_Altenahr_Altenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hochwasser_in_Altenahr_Altenburg.jpg/1920px-Hochwasser_in_Altenahr_Altenburg.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.9704
 longitude: 11.01
 images:
-  - "/images-sites/sibyllentuermchen/01-90da69ca-800w.webp"
-  - "/images-sites/sibyllentuermchen/02-faa491dd-800w.webp"
-  - "/images-sites/sibyllentuermchen/03-de3b7ccd-800w.webp"
+  - "/images/sibyllentuermchen/01-90da69ca-800w.webp"
+  - "/images/sibyllentuermchen/02-faa491dd-800w.webp"
+  - "/images/sibyllentuermchen/03-de3b7ccd-800w.webp"
 ---
 
 ## Overview

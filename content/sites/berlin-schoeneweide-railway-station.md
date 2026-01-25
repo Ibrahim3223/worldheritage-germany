@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Schöneweide railway station"
+title: Berlin-Schöneweide railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.455
 longitude: 13.509444444
 images:
-  - "/images-sites/berlin-schoeneweide-railway-station/01-e1a3fec8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schöneweide-0212.jpg/1200px-Schöneweide-0212.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schöneweide-0214.jpg/1200px-Schöneweide-0214.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schöneweide-0209.jpg/1200px-Schöneweide-0209.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg/1200px-Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/S-Bahn_Berlin_Schöneweide.JPG/1200px-S-Bahn_Berlin_Schöneweide.JPG
+image_srcset:
+  Schöneweide-0212.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schöneweide-0212.jpg/400px-Schöneweide-0212.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schöneweide-0212.jpg/800px-Schöneweide-0212.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schöneweide-0212.jpg/1200px-Schöneweide-0212.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Schöneweide-0212.jpg/1920px-Schöneweide-0212.jpg
+  Schöneweide-0214.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schöneweide-0214.jpg/400px-Schöneweide-0214.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schöneweide-0214.jpg/800px-Schöneweide-0214.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schöneweide-0214.jpg/1200px-Schöneweide-0214.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schöneweide-0214.jpg/1920px-Schöneweide-0214.jpg
+  Schöneweide-0209.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schöneweide-0209.jpg/400px-Schöneweide-0209.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schöneweide-0209.jpg/800px-Schöneweide-0209.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schöneweide-0209.jpg/1200px-Schöneweide-0209.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schöneweide-0209.jpg/1920px-Schöneweide-0209.jpg
+  Berlin - S-Bahnhof Schöneweide (7713648556).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg/400px-Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg/800px-Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg/1200px-Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg/1920px-Berlin_-_S-Bahnhof_Schöneweide_(7713648556).jpg
+  S-Bahn Berlin Schöneweide.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/S-Bahn_Berlin_Schöneweide.JPG/400px-S-Bahn_Berlin_Schöneweide.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/S-Bahn_Berlin_Schöneweide.JPG/800px-S-Bahn_Berlin_Schöneweide.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/S-Bahn_Berlin_Schöneweide.JPG/1200px-S-Bahn_Berlin_Schöneweide.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/S-Bahn_Berlin_Schöneweide.JPG/1920px-S-Bahn_Berlin_Schöneweide.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.383526939
 longitude: 8.565925958
 images:
-  - "/images-sites/schwetzingen-palace/01-5c242e15-800w.webp"
-  - "/images-sites/schwetzingen-palace/02-7ab1a3dc-800w.webp"
-  - "/images-sites/schwetzingen-palace/03-74bf1e44-800w.webp"
+  - "/images/schwetzingen-palace/01-5c242e15-800w.webp"
+  - "/images/schwetzingen-palace/02-7ab1a3dc-800w.webp"
+  - "/images/schwetzingen-palace/03-74bf1e44-800w.webp"
 ---
 
 ## Overview

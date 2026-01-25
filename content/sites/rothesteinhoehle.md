@@ -13,7 +13,7 @@ regions:
 latitude: 51.95
 longitude: 9.666666666
 images:
-  - "/images-sites/rothesteinhoehle/01-ca7793bd-800w.webp"
+  - "/images/rothesteinhoehle/01-ca7793bd-800w.webp"
 ---
 
 ## Overview

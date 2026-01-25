@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Dambeck (Salzwedel)"
-site_name: "Dorfkirche Dambeck (Salzwedel)"
-slug: "dorfkirche-dambeck-salzwedel"
-region: "Saxony-Anhalt"
-
-# Location
+title: Dorfkirche Dambeck (Salzwedel)
+site_name: Dorfkirche Dambeck (Salzwedel)
+slug: dorfkirche-dambeck-salzwedel
+region: Saxony-Anhalt
 latitude: 52.8014
 longitude: 11.1578
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244223"
-description: "Dorfkirche Dambeck is a captivating church building located in the serene region of Dambeck, Germany. This site draws visitors not only for its architec..."
+- church building
+- religious site
+wikidata_id: Q1244223
+description: Dorfkirche Dambeck is a captivating church building located in the serene
+  region of Dambeck, Germany. This site draws visitors not only for its architec...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dambeck%20Kirche.jpg/1200px-Dambeck%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dambeck_(Salzwedel),_die_Dorfkirche.jpg/1200px-Dambeck_(Salzwedel),_die_Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dambeck_(Salzwedel),_die_Kirche.jpg/1200px-Dambeck_(Salzwedel),_die_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/1200px-Dambeck_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dorfkirche_Dambeck.JPG/1200px-Dorfkirche_Dambeck.JPG
+image_srcset:
+  Dambeck%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dambeck%20Kirche.jpg/400px-Dambeck%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dambeck%20Kirche.jpg/800px-Dambeck%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dambeck%20Kirche.jpg/1200px-Dambeck%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dambeck%20Kirche.jpg/1920px-Dambeck%20Kirche.jpg
+  Dambeck (Salzwedel), die Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dambeck_(Salzwedel),_die_Dorfkirche.jpg/400px-Dambeck_(Salzwedel),_die_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dambeck_(Salzwedel),_die_Dorfkirche.jpg/800px-Dambeck_(Salzwedel),_die_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dambeck_(Salzwedel),_die_Dorfkirche.jpg/1200px-Dambeck_(Salzwedel),_die_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dambeck_(Salzwedel),_die_Dorfkirche.jpg/1920px-Dambeck_(Salzwedel),_die_Dorfkirche.jpg
+  Dambeck (Salzwedel), die Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dambeck_(Salzwedel),_die_Kirche.jpg/400px-Dambeck_(Salzwedel),_die_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dambeck_(Salzwedel),_die_Kirche.jpg/800px-Dambeck_(Salzwedel),_die_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dambeck_(Salzwedel),_die_Kirche.jpg/1200px-Dambeck_(Salzwedel),_die_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dambeck_(Salzwedel),_die_Kirche.jpg/1920px-Dambeck_(Salzwedel),_die_Kirche.jpg
+  Dambeck Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/400px-Dambeck_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/800px-Dambeck_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/1200px-Dambeck_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dambeck_Kirche.jpg/1920px-Dambeck_Kirche.jpg
+  Dorfkirche Dambeck.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dorfkirche_Dambeck.JPG/400px-Dorfkirche_Dambeck.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dorfkirche_Dambeck.JPG/800px-Dorfkirche_Dambeck.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dorfkirche_Dambeck.JPG/1200px-Dorfkirche_Dambeck.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dorfkirche_Dambeck.JPG/1920px-Dorfkirche_Dambeck.JPG
 ---
 
 ## Overview

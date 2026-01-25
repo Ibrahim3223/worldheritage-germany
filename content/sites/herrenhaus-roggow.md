@@ -1,20 +1,43 @@
 ---
-title: "Herrenhaus Roggow"
+title: Herrenhaus Roggow
 date: 2026-01-23
 draft: false
-description: "Herrenhaus in Mecklenburg-Vorpommern"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus in Mecklenburg-Vorpommern
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.0754
 longitude: 11.6346
 images:
-  - "/images-sites/herrenhaus-roggow/02-35418e0e-800w.webp"
-  - "/images-sites/herrenhaus-roggow/03-8d7b39a7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herrenhaus_Roggow_Frontansicht.jpg/1200px-Herrenhaus_Roggow_Frontansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roggow_Herrenhaus_2012-01-26_026.JPG/1200px-Roggow_Herrenhaus_2012-01-26_026.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggow_Herrenhaus_2012-01-26_027.JPG/1200px-Roggow_Herrenhaus_2012-01-26_027.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/1200px-Roggow_historisches_Bild.jpg
+image_srcset:
+  Herrenhaus Roggow Frontansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herrenhaus_Roggow_Frontansicht.jpg/400px-Herrenhaus_Roggow_Frontansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herrenhaus_Roggow_Frontansicht.jpg/800px-Herrenhaus_Roggow_Frontansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herrenhaus_Roggow_Frontansicht.jpg/1200px-Herrenhaus_Roggow_Frontansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Herrenhaus_Roggow_Frontansicht.jpg/1920px-Herrenhaus_Roggow_Frontansicht.jpg
+  Roggow Herrenhaus 2012-01-26 026.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roggow_Herrenhaus_2012-01-26_026.JPG/400px-Roggow_Herrenhaus_2012-01-26_026.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roggow_Herrenhaus_2012-01-26_026.JPG/800px-Roggow_Herrenhaus_2012-01-26_026.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roggow_Herrenhaus_2012-01-26_026.JPG/1200px-Roggow_Herrenhaus_2012-01-26_026.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roggow_Herrenhaus_2012-01-26_026.JPG/1920px-Roggow_Herrenhaus_2012-01-26_026.JPG
+  Roggow Herrenhaus 2012-01-26 027.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggow_Herrenhaus_2012-01-26_027.JPG/400px-Roggow_Herrenhaus_2012-01-26_027.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggow_Herrenhaus_2012-01-26_027.JPG/800px-Roggow_Herrenhaus_2012-01-26_027.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggow_Herrenhaus_2012-01-26_027.JPG/1200px-Roggow_Herrenhaus_2012-01-26_027.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggow_Herrenhaus_2012-01-26_027.JPG/1920px-Roggow_Herrenhaus_2012-01-26_027.JPG
+  Roggow historisches Bild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/400px-Roggow_historisches_Bild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/800px-Roggow_historisches_Bild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/1200px-Roggow_historisches_Bild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Roggow_historisches_Bild.jpg/1920px-Roggow_historisches_Bild.jpg
 ---
 
 ## Overview

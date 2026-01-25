@@ -13,7 +13,7 @@ regions:
 latitude: 51.215
 longitude: 12.7428
 images:
-  - "/images-sites/kloster-nimbschen/01-f2677d63-800w.webp"
+  - "/images/kloster-nimbschen/01-f2677d63-800w.webp"
 ---
 
 ## Overview

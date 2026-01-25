@@ -13,7 +13,7 @@ regions:
 latitude: 51.177430555
 longitude: 14.422563888
 images:
-  - "/images-sites/neue-wasserkunst/01-807face2-800w.webp"
+  - "/images/neue-wasserkunst/01-807face2-800w.webp"
 ---
 
 ## Overview

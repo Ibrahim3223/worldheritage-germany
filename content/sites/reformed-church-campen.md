@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q127918"
 description: "The Reformed Church in Campen is an intriguing example of Romanesque architecture set against the serene backdrop of Krummhörn, a picturesque region in ..."
 images:
-  - "/images-sites/reformed-church-campen/01-42baaf5c-1920w.webp"
-  - "/images-sites/reformed-church-campen/02-a56d2429-1920w.webp"
-  - "/images-sites/reformed-church-campen/03-1da968da-1920w.webp"
+  - "/images/reformed-church-campen/01-42baaf5c-1920w.webp"
+  - "/images/reformed-church-campen/02-a56d2429-1920w.webp"
+  - "/images/reformed-church-campen/03-1da968da-1920w.webp"
 ---
 
 ## Overview

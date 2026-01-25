@@ -1,21 +1,49 @@
 ---
-title: "E.T.A. Hoffmann-Haus"
+title: E.T.A. Hoffmann-Haus
 date: 2026-01-23
 draft: false
-description: "museum in Bamberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Bamberg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.889911
 longitude: 10.890881
 images:
-  - "/images-sites/eta-hoffmann-haus/01-5f3adb0d-800w.webp"
-  - "/images-sites/eta-hoffmann-haus/02-ab37f955-800w.webp"
-  - "/images-sites/eta-hoffmann-haus/03-dac9eb80-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg/1200px-Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/1200px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg,_Schillerplatz_26-20150925-002-2.jpg/1200px-Bamberg,_Schillerplatz_26-20150925-002-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg/1200px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg/1200px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg
+image_srcset:
+  Bamberg, Schillerplatz 28, 26,-20170103-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg/400px-Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg/800px-Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg/1200px-Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg/1920px-Bamberg,_Schillerplatz_28,_26,-20170103-001.jpg
+  Bamberg, Schillerplatz 26, 20150925, 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/400px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/800px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/1200px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg,_Schillerplatz_26,_20150925,_001.jpg/1920px-Bamberg,_Schillerplatz_26,_20150925,_001.jpg
+  Bamberg, Schillerplatz 26-20150925-002-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg,_Schillerplatz_26-20150925-002-2.jpg/400px-Bamberg,_Schillerplatz_26-20150925-002-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg,_Schillerplatz_26-20150925-002-2.jpg/800px-Bamberg,_Schillerplatz_26-20150925-002-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg,_Schillerplatz_26-20150925-002-2.jpg/1200px-Bamberg,_Schillerplatz_26-20150925-002-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg,_Schillerplatz_26-20150925-002-2.jpg/1920px-Bamberg,_Schillerplatz_26-20150925-002-2.jpg
+  Bamberg ETA-Hoffmann-Haus Schillerplatz26 Inschrift.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg/400px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg/800px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg/1200px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg/1920px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26_Inschrift.jpg
+  Bamberg ETA-Hoffmann-Haus Schillerplatz26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg/400px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg/800px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg/1200px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg/1920px-Bamberg_ETA-Hoffmann-Haus_Schillerplatz26.jpg
 ---
 
 ## Overview

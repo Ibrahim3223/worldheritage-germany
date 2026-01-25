@@ -1,19 +1,49 @@
 ---
-title: "Güstrow Cathedral"
+title: Güstrow Cathedral
 date: 2026-01-23
 draft: false
-description: "Brick Gothic Lutheran church"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cathedral"
+description: Brick Gothic Lutheran church
+region: Germany
+country: Germany
+heritage_type: Cathedral
 categories:
-  - "Cathedral"
+- Cathedral
 regions:
-  - "Germany"
+- Germany
 latitude: 53.7909
 longitude: 12.1733
 images:
-  - "/images-sites/guestrow-cathedral/01-0c928299-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/1200px-20230420_4470_Güstrower_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1200px-2019_Germany_Güstrow_Dom_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/1200px-Güstrow_Dom906c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1200px-Guestrow_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg/1200px-19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg
+image_srcset:
+  20230420 4470 Güstrower Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/400px-20230420_4470_Güstrower_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/800px-20230420_4470_Güstrower_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/1200px-20230420_4470_Güstrower_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/1920px-20230420_4470_Güstrower_Dom.jpg
+  2019 Germany Güstrow Dom Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/400px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/800px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1200px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1920px-2019_Germany_Güstrow_Dom_Schloss.jpg
+  Güstrow Dom906c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/400px-Güstrow_Dom906c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/800px-Güstrow_Dom906c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/1200px-Güstrow_Dom906c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/1920px-Güstrow_Dom906c.jpg
+  Guestrow Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/400px-Guestrow_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/800px-Guestrow_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1200px-Guestrow_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1920px-Guestrow_Dom.jpg
+  19870915360NR Güstrow Dom St Maria St Johannes.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg/400px-19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg/800px-19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg/1200px-19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg/1920px-19870915360NR_Güstrow_Dom_St_Maria_St_Johannes.jpg
 ---
 
 ## Overview

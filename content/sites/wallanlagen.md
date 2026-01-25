@@ -13,7 +13,7 @@ regions:
 latitude: 50.107475
 longitude: 8.673175
 images:
-  - "/images-sites/wallanlagen/01-8872335a-800w.webp"
+  - "/images/wallanlagen/01-8872335a-800w.webp"
 ---
 
 ## Overview

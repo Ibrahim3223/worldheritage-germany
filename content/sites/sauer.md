@@ -13,7 +13,7 @@ regions:
 latitude: 49.713588888
 longitude: 6.506686111
 images:
-  - "/images-sites/sauer/01-4d1db2b8-800w.webp"
+  - "/images/sauer/01-4d1db2b8-800w.webp"
 ---
 
 ## Overview

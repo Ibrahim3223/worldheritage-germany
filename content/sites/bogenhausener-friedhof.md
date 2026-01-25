@@ -1,19 +1,49 @@
 ---
-title: "Bogenhausener Friedhof"
+title: Bogenhausener Friedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.147847222
 longitude: 11.601513888
 images:
-  - "/images-sites/bogenhausener-friedhof/01-3bae6922-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg/1200px-Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grab_Felix_Burda.jpg/1200px-Grab_Felix_Burda.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bogenhauser_Friedhof_Muenchen-01.jpg/1200px-Bogenhauser_Friedhof_Muenchen-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg/1200px-Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bogenhausener_Friedhof_-_St._Georg.jpg/1200px-Bogenhausener_Friedhof_-_St._Georg.jpg
+image_srcset:
+  Familiengrab Hermann Vogel und Ehefrau Caroline.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg/400px-Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg/800px-Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg/1200px-Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg/1920px-Familiengrab_Hermann_Vogel_und_Ehefrau_Caroline.jpg
+  Grab Felix Burda.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grab_Felix_Burda.jpg/400px-Grab_Felix_Burda.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grab_Felix_Burda.jpg/800px-Grab_Felix_Burda.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grab_Felix_Burda.jpg/1200px-Grab_Felix_Burda.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grab_Felix_Burda.jpg/1920px-Grab_Felix_Burda.jpg
+  Bogenhauser Friedhof Muenchen-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bogenhauser_Friedhof_Muenchen-01.jpg/400px-Bogenhauser_Friedhof_Muenchen-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bogenhauser_Friedhof_Muenchen-01.jpg/800px-Bogenhauser_Friedhof_Muenchen-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bogenhauser_Friedhof_Muenchen-01.jpg/1200px-Bogenhauser_Friedhof_Muenchen-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bogenhauser_Friedhof_Muenchen-01.jpg/1920px-Bogenhauser_Friedhof_Muenchen-01.jpg
+  Rainer Werner Fassbinder Grab Bogenhausener Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg/400px-Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg/800px-Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg/1200px-Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg/1920px-Rainer_Werner_Fassbinder_Grab_Bogenhausener_Friedhof.jpg
+  Bogenhausener Friedhof - St. Georg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bogenhausener_Friedhof_-_St._Georg.jpg/400px-Bogenhausener_Friedhof_-_St._Georg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bogenhausener_Friedhof_-_St._Georg.jpg/800px-Bogenhausener_Friedhof_-_St._Georg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bogenhausener_Friedhof_-_St._Georg.jpg/1200px-Bogenhausener_Friedhof_-_St._Georg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bogenhausener_Friedhof_-_St._Georg.jpg/1920px-Bogenhausener_Friedhof_-_St._Georg.jpg
 ---
 
 ## Overview

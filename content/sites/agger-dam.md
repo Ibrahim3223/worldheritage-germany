@@ -1,19 +1,49 @@
 ---
-title: "Agger Dam"
+title: Agger Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.03639
 longitude: 7.63333
 images:
-  - "/images-sites/agger-dam/01-4aabd7e8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG/1200px-Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG/1200px-Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dam_at_Jalpa_de_Canovas_2.jpg/1200px-Dam_at_Jalpa_de_Canovas_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2014_Scar_House_Reservoir_Dam.jpg/1200px-2014_Scar_House_Reservoir_Dam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/RappbodeLufts.JPG/1200px-RappbodeLufts.JPG
+image_srcset:
+  Laguna Miñiques, Chile, 2016-02-08, DD 33-38 PAN.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG/400px-Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG/800px-Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG/1200px-Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG/1920px-Laguna_Miñiques,_Chile,_2016-02-08,_DD_33-38_PAN.JPG
+  Laguna Honda, Bolivia, 2016-02-03, DD 34.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG/400px-Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG/800px-Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG/1200px-Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG/1920px-Laguna_Honda,_Bolivia,_2016-02-03,_DD_34.JPG
+  Dam at Jalpa de Canovas 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dam_at_Jalpa_de_Canovas_2.jpg/400px-Dam_at_Jalpa_de_Canovas_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dam_at_Jalpa_de_Canovas_2.jpg/800px-Dam_at_Jalpa_de_Canovas_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dam_at_Jalpa_de_Canovas_2.jpg/1200px-Dam_at_Jalpa_de_Canovas_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dam_at_Jalpa_de_Canovas_2.jpg/1920px-Dam_at_Jalpa_de_Canovas_2.jpg
+  2014 Scar House Reservoir Dam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2014_Scar_House_Reservoir_Dam.jpg/400px-2014_Scar_House_Reservoir_Dam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2014_Scar_House_Reservoir_Dam.jpg/800px-2014_Scar_House_Reservoir_Dam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2014_Scar_House_Reservoir_Dam.jpg/1200px-2014_Scar_House_Reservoir_Dam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2014_Scar_House_Reservoir_Dam.jpg/1920px-2014_Scar_House_Reservoir_Dam.jpg
+  RappbodeLufts.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/RappbodeLufts.JPG/400px-RappbodeLufts.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/RappbodeLufts.JPG/800px-RappbodeLufts.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/RappbodeLufts.JPG/1200px-RappbodeLufts.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/RappbodeLufts.JPG/1920px-RappbodeLufts.JPG
 ---
 
 ## Overview

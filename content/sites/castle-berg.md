@@ -1,19 +1,49 @@
 ---
-title: "Castle Berg"
+title: Castle Berg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 47.97
 longitude: 11.3514
 images:
-  - "/images-sites/castle-berg/01-d5766449-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/August_Sivers_Schloss_Berg.jpg/1200px-August_Sivers_Schloss_Berg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_berg_2009.jpg/1200px-Schloss_berg_2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schloss_berg.jpg/1200px-Schloss_berg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schloss_Berg_Postkarte_1914.jpg/1200px-Schloss_Berg_Postkarte_1914.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Schloss_Berg_-_Postcard.jpg/1200px-Schloss_Berg_-_Postcard.jpg
+image_srcset:
+  August Sivers Schloss Berg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/August_Sivers_Schloss_Berg.jpg/400px-August_Sivers_Schloss_Berg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/August_Sivers_Schloss_Berg.jpg/800px-August_Sivers_Schloss_Berg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/August_Sivers_Schloss_Berg.jpg/1200px-August_Sivers_Schloss_Berg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/August_Sivers_Schloss_Berg.jpg/1920px-August_Sivers_Schloss_Berg.jpg
+  Schloss berg 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_berg_2009.jpg/400px-Schloss_berg_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_berg_2009.jpg/800px-Schloss_berg_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_berg_2009.jpg/1200px-Schloss_berg_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_berg_2009.jpg/1920px-Schloss_berg_2009.jpg
+  Schloss berg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schloss_berg.jpg/400px-Schloss_berg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schloss_berg.jpg/800px-Schloss_berg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schloss_berg.jpg/1200px-Schloss_berg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schloss_berg.jpg/1920px-Schloss_berg.jpg
+  Schloss Berg Postkarte 1914.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schloss_Berg_Postkarte_1914.jpg/400px-Schloss_Berg_Postkarte_1914.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schloss_Berg_Postkarte_1914.jpg/800px-Schloss_Berg_Postkarte_1914.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schloss_Berg_Postkarte_1914.jpg/1200px-Schloss_Berg_Postkarte_1914.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Schloss_Berg_Postkarte_1914.jpg/1920px-Schloss_Berg_Postkarte_1914.jpg
+  Schloss Berg - Postcard.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Schloss_Berg_-_Postcard.jpg/400px-Schloss_Berg_-_Postcard.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Schloss_Berg_-_Postcard.jpg/800px-Schloss_Berg_-_Postcard.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Schloss_Berg_-_Postcard.jpg/1200px-Schloss_Berg_-_Postcard.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Schloss_Berg_-_Postcard.jpg/1920px-Schloss_Berg_-_Postcard.jpg
 ---
 
 ## Overview

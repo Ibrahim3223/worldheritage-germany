@@ -1,27 +1,49 @@
 ---
-title: "Burg Gleichenstein"
+title: Burg Gleichenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.2924
 longitude: 10.2064
-
-# Images
 images:
-  - "/images-sites/burg-gleichenstein/01-d5f0b698-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Gleichenstein_Tor.JPG/1200px-Burg_Gleichenstein_Tor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tour_Gleichenstein_(29).jpg/1200px-Tour_Gleichenstein_(29).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südeichsfeld-Radweg_21.jpg/1200px-Südeichsfeld-Radweg_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Südeichsfeld-Radweg_19.jpg/1200px-Südeichsfeld-Radweg_19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1200px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
+image_srcset:
+  Burg Gleichenstein Tor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Gleichenstein_Tor.JPG/400px-Burg_Gleichenstein_Tor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Gleichenstein_Tor.JPG/800px-Burg_Gleichenstein_Tor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Gleichenstein_Tor.JPG/1200px-Burg_Gleichenstein_Tor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Gleichenstein_Tor.JPG/1920px-Burg_Gleichenstein_Tor.JPG
+  Tour Gleichenstein (29).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tour_Gleichenstein_(29).jpg/400px-Tour_Gleichenstein_(29).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tour_Gleichenstein_(29).jpg/800px-Tour_Gleichenstein_(29).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tour_Gleichenstein_(29).jpg/1200px-Tour_Gleichenstein_(29).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tour_Gleichenstein_(29).jpg/1920px-Tour_Gleichenstein_(29).jpg
+  Südeichsfeld-Radweg 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südeichsfeld-Radweg_21.jpg/400px-Südeichsfeld-Radweg_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südeichsfeld-Radweg_21.jpg/800px-Südeichsfeld-Radweg_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südeichsfeld-Radweg_21.jpg/1200px-Südeichsfeld-Radweg_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südeichsfeld-Radweg_21.jpg/1920px-Südeichsfeld-Radweg_21.jpg
+  Südeichsfeld-Radweg 19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Südeichsfeld-Radweg_19.jpg/400px-Südeichsfeld-Radweg_19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Südeichsfeld-Radweg_19.jpg/800px-Südeichsfeld-Radweg_19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Südeichsfeld-Radweg_19.jpg/1200px-Südeichsfeld-Radweg_19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Südeichsfeld-Radweg_19.jpg/1920px-Südeichsfeld-Radweg_19.jpg
+  Burg Gleichenstein - Tor zur Kernburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/400px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/800px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1200px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG/1920px-Burg_Gleichenstein_-_Tor_zur_Kernburg.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.558333333
 longitude: 10.138888888
 images:
-  - "/images-sites/oejendorfer-see/01-54986402-800w.webp"
+  - "/images/oejendorfer-see/01-54986402-800w.webp"
 ---
 
 ## Overview

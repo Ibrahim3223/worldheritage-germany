@@ -21,7 +21,7 @@ longitude: 10.885552777
 
 # Images
 images:
-  - "/images-sites/volkmarskeller/01-b89a3984-800w.webp"
+  - "/images/volkmarskeller/01-b89a3984-800w.webp"
 ---
 
 ## Overview

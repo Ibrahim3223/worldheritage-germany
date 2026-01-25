@@ -1,19 +1,49 @@
 ---
-title: "Blankenfelde railway station"
+title: Blankenfelde railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Blankenfelde-Mahlow, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Blankenfelde-Mahlow, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3376
 longitude: 13.4158
 images:
-  - "/images-sites/blankenfelde-railway-station/01-611a79ff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg/1200px-Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blankenfelde_station_2023_5.jpg/1200px-Blankenfelde_station_2023_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Blankenfelde_station_2006.jpg/1200px-Blankenfelde_station_2006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BfBlankenfeldeBstge.jpg/1200px-BfBlankenfeldeBstge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BfBlankenfeldeRegBstg.jpg/1200px-BfBlankenfeldeRegBstg.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Blankenfelde (S02 1149).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg/400px-Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg/800px-Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg/1200px-Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg/1920px-Berlin_S-Bahn_Bhf_Blankenfelde_(S02_1149).jpg
+  Blankenfelde station 2023 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blankenfelde_station_2023_5.jpg/400px-Blankenfelde_station_2023_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blankenfelde_station_2023_5.jpg/800px-Blankenfelde_station_2023_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blankenfelde_station_2023_5.jpg/1200px-Blankenfelde_station_2023_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Blankenfelde_station_2023_5.jpg/1920px-Blankenfelde_station_2023_5.jpg
+  Blankenfelde station 2006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Blankenfelde_station_2006.jpg/400px-Blankenfelde_station_2006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Blankenfelde_station_2006.jpg/800px-Blankenfelde_station_2006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Blankenfelde_station_2006.jpg/1200px-Blankenfelde_station_2006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Blankenfelde_station_2006.jpg/1920px-Blankenfelde_station_2006.jpg
+  BfBlankenfeldeBstge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BfBlankenfeldeBstge.jpg/400px-BfBlankenfeldeBstge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BfBlankenfeldeBstge.jpg/800px-BfBlankenfeldeBstge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BfBlankenfeldeBstge.jpg/1200px-BfBlankenfeldeBstge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BfBlankenfeldeBstge.jpg/1920px-BfBlankenfeldeBstge.jpg
+  BfBlankenfeldeRegBstg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BfBlankenfeldeRegBstg.jpg/400px-BfBlankenfeldeRegBstg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BfBlankenfeldeRegBstg.jpg/800px-BfBlankenfeldeRegBstg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BfBlankenfeldeRegBstg.jpg/1200px-BfBlankenfeldeRegBstg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BfBlankenfeldeRegBstg.jpg/1920px-BfBlankenfeldeRegBstg.jpg
 ---
 
 ## Overview

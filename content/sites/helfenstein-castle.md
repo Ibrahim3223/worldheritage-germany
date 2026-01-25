@@ -1,27 +1,49 @@
 ---
-title: "Helfenstein Castle"
+title: Helfenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.6161
 longitude: 9.84694
-
-# Images
 images:
-  - "/images-sites/helfenstein-castle/01-5bc44b47-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Burgruine_Helfenstein.jpg/1200px-Burgruine_Helfenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg/1200px-Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adam_Württemberg_Stich_26_Helfenstein.jpg/1200px-Adam_Württemberg_Stich_26_Helfenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landappbw_405532_1818_Burg_Helfenstein.jpg/1200px-Landappbw_405532_1818_Burg_Helfenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/1200px-Burgruine_helfenstein.jpg
+image_srcset:
+  Burgruine Helfenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Burgruine_Helfenstein.jpg/400px-Burgruine_Helfenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Burgruine_Helfenstein.jpg/800px-Burgruine_Helfenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Burgruine_Helfenstein.jpg/1200px-Burgruine_Helfenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Burgruine_Helfenstein.jpg/1920px-Burgruine_Helfenstein.jpg
+  Friedhofskapelle, Geislingen an der Steige, Südansicht img40922.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg/400px-Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg/800px-Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg/1200px-Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg/1920px-Friedhofskapelle,_Geislingen_an_der_Steige,_Südansicht_img40922.jpg
+  Adam Württemberg Stich 26 Helfenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adam_Württemberg_Stich_26_Helfenstein.jpg/400px-Adam_Württemberg_Stich_26_Helfenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adam_Württemberg_Stich_26_Helfenstein.jpg/800px-Adam_Württemberg_Stich_26_Helfenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adam_Württemberg_Stich_26_Helfenstein.jpg/1200px-Adam_Württemberg_Stich_26_Helfenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adam_Württemberg_Stich_26_Helfenstein.jpg/1920px-Adam_Württemberg_Stich_26_Helfenstein.jpg
+  Landappbw 405532 1818 Burg Helfenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landappbw_405532_1818_Burg_Helfenstein.jpg/400px-Landappbw_405532_1818_Burg_Helfenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landappbw_405532_1818_Burg_Helfenstein.jpg/800px-Landappbw_405532_1818_Burg_Helfenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landappbw_405532_1818_Burg_Helfenstein.jpg/1200px-Landappbw_405532_1818_Burg_Helfenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landappbw_405532_1818_Burg_Helfenstein.jpg/1920px-Landappbw_405532_1818_Burg_Helfenstein.jpg
+  Burgruine helfenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/400px-Burgruine_helfenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/800px-Burgruine_helfenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/1200px-Burgruine_helfenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burgruine_helfenstein.jpg/1920px-Burgruine_helfenstein.jpg
 ---
 
 ## Overview

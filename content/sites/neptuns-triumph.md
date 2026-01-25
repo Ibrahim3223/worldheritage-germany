@@ -13,7 +13,7 @@ regions:
 latitude: 52.3928214
 longitude: 13.0597112
 images:
-  - "/images-sites/neptuns-triumph/01-b1474fb5-800w.webp"
+  - "/images/neptuns-triumph/01-b1474fb5-800w.webp"
 ---
 
 ## Overview

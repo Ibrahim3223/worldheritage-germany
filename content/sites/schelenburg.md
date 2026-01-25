@@ -13,7 +13,7 @@ regions:
 latitude: 52.283
 longitude: 8.22655
 images:
-  - "/images-sites/schelenburg/01-2c2d6013-800w.webp"
+  - "/images/schelenburg/01-2c2d6013-800w.webp"
 ---
 
 ## Overview

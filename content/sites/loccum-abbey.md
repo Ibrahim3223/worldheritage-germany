@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q314258"
 description: "In the heart of Rehburg-Loccum, Germany, lies Loccum Abbey, a remarkable Lutheran monastery founded in 1101. This historic site invites you to explore i..."
 images:
-  - "/images-sites/loccum-abbey/01-086d0099-1920w.webp"
-  - "/images-sites/loccum-abbey/02-46a7611e-1920w.webp"
-  - "/images-sites/loccum-abbey/03-2a57ff2a-1920w.webp"
+  - "/images/loccum-abbey/01-086d0099-1920w.webp"
+  - "/images/loccum-abbey/02-46a7611e-1920w.webp"
+  - "/images/loccum-abbey/03-2a57ff2a-1920w.webp"
 ---
 
 ## Overview

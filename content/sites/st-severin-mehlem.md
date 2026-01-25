@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1245581"
 description: "In the heart of Bad Godesberg, St. Severin (Mehlem) stands as a striking example of Romanesque Revival architecture, a style that sought to evoke the gr..."
 images:
-  - "/images-sites/st-severin-mehlem/01-1dfa7a08-1920w.webp"
-  - "/images-sites/st-severin-mehlem/02-f0081692-1920w.webp"
-  - "/images-sites/st-severin-mehlem/03-6fdd9388-1920w.webp"
+  - "/images/st-severin-mehlem/01-1dfa7a08-1920w.webp"
+  - "/images/st-severin-mehlem/02-f0081692-1920w.webp"
+  - "/images/st-severin-mehlem/03-6fdd9388-1920w.webp"
 ---
 
 ## Overview

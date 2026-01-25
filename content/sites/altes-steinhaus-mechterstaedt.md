@@ -1,21 +1,49 @@
 ---
-title: "Altes Steinhaus (Mechterstädt)"
+title: Altes Steinhaus (Mechterstädt)
 date: 2026-01-23
 draft: false
-description: "building in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 50.94234
 longitude: 10.52183
 images:
-  - "/images-sites/altes-steinhaus-mechterstaedt/01-90df7612-800w.webp"
-  - "/images-sites/altes-steinhaus-mechterstaedt/02-7079cbb4-800w.webp"
-  - "/images-sites/altes-steinhaus-mechterstaedt/03-da3c08ed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg/1200px-GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG/1200px-GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG/1200px-GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg/1200px-GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mechterstädt_2003-02-24_10.jpg/1200px-Mechterstädt_2003-02-24_10.jpg
+image_srcset:
+  GTH Mechterstädt, Kemenate, Hauptgebäude von Südwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg/400px-GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg/800px-GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg/1200px-GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg/1920px-GTH_Mechterstädt,_Kemenate,_Hauptgebäude_von_Südwesten.jpg
+  GTH Mechterstädt, Kemenate, Nordfassade (Innenhof), EG, Fenster mit CHRONOGRAMM (1526).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG/400px-GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG/800px-GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG/1200px-GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG/1920px-GTH_Mechterstädt,_Kemenate,_Nordfassade_(Innenhof),_EG,_Fenster_mit_CHRONOGRAMM_(1526).JPG
+  GTH Mechterstädt, Kemenate, Südfassade, OG, Fenster 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG/400px-GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG/800px-GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG/1200px-GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG/1920px-GTH_Mechterstädt,_Kemenate,_Südfassade,_OG,_Fenster_3.JPG
+  GTH Mechterstädt, Kemenate Teilansicht von Südwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg/400px-GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg/800px-GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg/1200px-GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg/1920px-GTH_Mechterstädt,_Kemenate_Teilansicht_von_Südwesten.jpg
+  Mechterstädt 2003-02-24 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mechterstädt_2003-02-24_10.jpg/400px-Mechterstädt_2003-02-24_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mechterstädt_2003-02-24_10.jpg/800px-Mechterstädt_2003-02-24_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mechterstädt_2003-02-24_10.jpg/1200px-Mechterstädt_2003-02-24_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mechterstädt_2003-02-24_10.jpg/1920px-Mechterstädt_2003-02-24_10.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.4479
 longitude: 11.0815
 images:
-  - "/images-sites/koenigstor/01-74ac3d0a-800w.webp"
+  - "/images/koenigstor/01-74ac3d0a-800w.webp"
 ---
 
 ## Overview

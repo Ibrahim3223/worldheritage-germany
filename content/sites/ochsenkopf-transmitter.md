@@ -13,9 +13,9 @@ regions:
 latitude: 50.03
 longitude: 11.8085
 images:
-  - "/images-sites/ochsenkopf-transmitter/01-b1059d31-800w.webp"
-  - "/images-sites/ochsenkopf-transmitter/02-8b67e4e7-800w.webp"
-  - "/images-sites/ochsenkopf-transmitter/03-c0696c1b-800w.webp"
+  - "/images/ochsenkopf-transmitter/01-b1059d31-800w.webp"
+  - "/images/ochsenkopf-transmitter/02-8b67e4e7-800w.webp"
+  - "/images/ochsenkopf-transmitter/03-c0696c1b-800w.webp"
 ---
 
 ## Overview

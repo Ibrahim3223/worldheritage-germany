@@ -1,19 +1,51 @@
 ---
-title: "Church in Wustrow"
-site_name: "Church in Wustrow"
-slug: "church-in-wustrow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Wustrow
+site_name: Church in Wustrow
+slug: church-in-wustrow
+region: Mecklenburg-Vorpommern
 latitude: 54.344833333333
 longitude: 12.396694444444
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1742762"
-description: "In the heart of Wustrow, Germany, stands a remarkable church building that has witnessed centuries of change since its founding in 1200. This Lutheran c..."
+- cultural site
+wikidata_id: Q1742762
+description: In the heart of Wustrow, Germany, stands a remarkable church building
+  that has witnessed centuries of change since its founding in 1200. This Lutheran
+  c...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wustrow%20Kirche%200.jpg/1200px-Wustrow%20Kirche%200.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wustrow_Fischland_Kirche_01.jpg/1200px-Wustrow_Fischland_Kirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wustrow_Fischland_Kirche_02.jpg/1200px-Wustrow_Fischland_Kirche_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Wustrow_(2008-05-01).JPG/1200px-Kirche_Wustrow_(2008-05-01).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1200px-Wustrow_Kirche_0.jpg
+image_srcset:
+  Wustrow%20Kirche%200.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wustrow%20Kirche%200.jpg/400px-Wustrow%20Kirche%200.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wustrow%20Kirche%200.jpg/800px-Wustrow%20Kirche%200.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wustrow%20Kirche%200.jpg/1200px-Wustrow%20Kirche%200.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wustrow%20Kirche%200.jpg/1920px-Wustrow%20Kirche%200.jpg
+  Wustrow Fischland Kirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wustrow_Fischland_Kirche_01.jpg/400px-Wustrow_Fischland_Kirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wustrow_Fischland_Kirche_01.jpg/800px-Wustrow_Fischland_Kirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wustrow_Fischland_Kirche_01.jpg/1200px-Wustrow_Fischland_Kirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wustrow_Fischland_Kirche_01.jpg/1920px-Wustrow_Fischland_Kirche_01.jpg
+  Wustrow Fischland Kirche 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wustrow_Fischland_Kirche_02.jpg/400px-Wustrow_Fischland_Kirche_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wustrow_Fischland_Kirche_02.jpg/800px-Wustrow_Fischland_Kirche_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wustrow_Fischland_Kirche_02.jpg/1200px-Wustrow_Fischland_Kirche_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wustrow_Fischland_Kirche_02.jpg/1920px-Wustrow_Fischland_Kirche_02.jpg
+  Kirche Wustrow (2008-05-01).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Wustrow_(2008-05-01).JPG/400px-Kirche_Wustrow_(2008-05-01).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Wustrow_(2008-05-01).JPG/800px-Kirche_Wustrow_(2008-05-01).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Wustrow_(2008-05-01).JPG/1200px-Kirche_Wustrow_(2008-05-01).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirche_Wustrow_(2008-05-01).JPG/1920px-Kirche_Wustrow_(2008-05-01).JPG
+  Wustrow Kirche 0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/400px-Wustrow_Kirche_0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/800px-Wustrow_Kirche_0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1200px-Wustrow_Kirche_0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wustrow_Kirche_0.jpg/1920px-Wustrow_Kirche_0.jpg
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 7.605
 
 # Images
 images:
-  - "/images-sites/ludwig-museum-im-deutschherrenhaus/01-fcc5ef28-800w.webp"
-  - "/images-sites/ludwig-museum-im-deutschherrenhaus/02-a4e65c8a-800w.webp"
-  - "/images-sites/ludwig-museum-im-deutschherrenhaus/03-ed25201f-800w.webp"
+  - "/images/ludwig-museum-im-deutschherrenhaus/01-fcc5ef28-800w.webp"
+  - "/images/ludwig-museum-im-deutschherrenhaus/02-a4e65c8a-800w.webp"
+  - "/images/ludwig-museum-im-deutschherrenhaus/03-ed25201f-800w.webp"
 ---
 
 ## Overview

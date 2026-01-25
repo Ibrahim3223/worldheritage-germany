@@ -13,7 +13,7 @@ regions:
 latitude: 53.6256
 longitude: 11.4161
 images:
-  - "/images-sites/schwerin-victory-column/01-af2c662f-800w.webp"
+  - "/images/schwerin-victory-column/01-af2c662f-800w.webp"
 ---
 
 ## Overview

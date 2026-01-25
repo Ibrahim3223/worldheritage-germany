@@ -1,19 +1,49 @@
 ---
-title: "Green Vault"
+title: Green Vault
 date: 2026-01-23
 draft: false
-description: "museum in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0528
 longitude: 13.7364
 images:
-  - "/images-sites/green-vault/01-e4e6c7a6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg/1200px-Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg/1200px-Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dresden_Grünes_Gewölbe_Kirschkern.jpg/1200px-Dresden_Grünes_Gewölbe_Kirschkern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1200px-20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1200px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+image_srcset:
+  Dresden, Grünes Gewölbe, Verkündung an die Hirten (November 2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg/400px-Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg/800px-Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg/1200px-Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg/1920px-Dresden,_Grünes_Gewölbe,_Verkündung_an_die_Hirten_(November_2023).jpg
+  Dresden, Schloss, Ruhender Hirsch (Dezember 2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg/400px-Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg/800px-Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg/1200px-Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg/1920px-Dresden,_Schloss,_Ruhender_Hirsch_(Dezember_2023).jpg
+  Dresden Grünes Gewölbe Kirschkern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dresden_Grünes_Gewölbe_Kirschkern.jpg/400px-Dresden_Grünes_Gewölbe_Kirschkern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dresden_Grünes_Gewölbe_Kirschkern.jpg/800px-Dresden_Grünes_Gewölbe_Kirschkern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dresden_Grünes_Gewölbe_Kirschkern.jpg/1200px-Dresden_Grünes_Gewölbe_Kirschkern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dresden_Grünes_Gewölbe_Kirschkern.jpg/1920px-Dresden_Grünes_Gewölbe_Kirschkern.jpg
+  20080711035DR Dresden Residenzschloß Grünes Gewölbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/400px-20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/800px-20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1200px-20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1920px-20080711035DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+  20080711030DR Dresden Residenzschloß Grünes Gewölbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/400px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/800px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1200px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg/1920px-20080711030DR_Dresden_Residenzschloß_Grünes_Gewölbe.jpg
 ---
 
 ## Overview

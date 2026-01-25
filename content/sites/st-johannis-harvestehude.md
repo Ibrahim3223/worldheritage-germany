@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q879271"
 description: "St. Johannis-Harvestehude is a notable church building located in Hamburg, Germany. This Gothic Revival structure stands as a significant part of the ci..."
 images:
-  - "/images-sites/st-johannis-harvestehude/01-5e166911-1920w.webp"
-  - "/images-sites/st-johannis-harvestehude/02-2d09f801-1920w.webp"
-  - "/images-sites/st-johannis-harvestehude/03-98571517-1920w.webp"
+  - "/images/st-johannis-harvestehude/01-5e166911-1920w.webp"
+  - "/images/st-johannis-harvestehude/02-2d09f801-1920w.webp"
+  - "/images/st-johannis-harvestehude/03-98571517-1920w.webp"
 ---
 
 ## Overview

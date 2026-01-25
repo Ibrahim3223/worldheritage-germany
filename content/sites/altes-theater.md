@@ -1,20 +1,49 @@
 ---
-title: "Altes Theater"
+title: Altes Theater
 date: 2026-01-23
 draft: false
-description: "former theatre in Leipzig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: former theatre in Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3439
 longitude: 12.3722
 images:
-  - "/images-sites/altes-theater/02-e91211de-800w.webp"
-  - "/images-sites/altes-theater/03-3a518de0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg/1200px-Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Payne_Leipzig_Das_Theater.jpg/1200px-Payne_Leipzig_Das_Theater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Theater_Leipzig_Oeser-Vorhang.jpg/1200px-Altes_Theater_Leipzig_Oeser-Vorhang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blumenberg,_Altes_Theater.jpg/1200px-Blumenberg,_Altes_Theater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altes_Theater_Leipzig.jpg/1200px-Altes_Theater_Leipzig.jpg
+image_srcset:
+  Marktstrasse 11, 13 (Altes Theater) & 15 in Ravensburg (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg/400px-Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg/800px-Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg/1200px-Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg/1920px-Marktstrasse_11,_13_(Altes_Theater)_&_15_in_Ravensburg_(2025).jpg
+  Payne Leipzig Das Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Payne_Leipzig_Das_Theater.jpg/400px-Payne_Leipzig_Das_Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Payne_Leipzig_Das_Theater.jpg/800px-Payne_Leipzig_Das_Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Payne_Leipzig_Das_Theater.jpg/1200px-Payne_Leipzig_Das_Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Payne_Leipzig_Das_Theater.jpg/1920px-Payne_Leipzig_Das_Theater.jpg
+  Altes Theater Leipzig Oeser-Vorhang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Theater_Leipzig_Oeser-Vorhang.jpg/400px-Altes_Theater_Leipzig_Oeser-Vorhang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Theater_Leipzig_Oeser-Vorhang.jpg/800px-Altes_Theater_Leipzig_Oeser-Vorhang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Theater_Leipzig_Oeser-Vorhang.jpg/1200px-Altes_Theater_Leipzig_Oeser-Vorhang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Altes_Theater_Leipzig_Oeser-Vorhang.jpg/1920px-Altes_Theater_Leipzig_Oeser-Vorhang.jpg
+  Blumenberg, Altes Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blumenberg,_Altes_Theater.jpg/400px-Blumenberg,_Altes_Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blumenberg,_Altes_Theater.jpg/800px-Blumenberg,_Altes_Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blumenberg,_Altes_Theater.jpg/1200px-Blumenberg,_Altes_Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Blumenberg,_Altes_Theater.jpg/1920px-Blumenberg,_Altes_Theater.jpg
+  Altes Theater Leipzig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altes_Theater_Leipzig.jpg/400px-Altes_Theater_Leipzig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altes_Theater_Leipzig.jpg/800px-Altes_Theater_Leipzig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altes_Theater_Leipzig.jpg/1200px-Altes_Theater_Leipzig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altes_Theater_Leipzig.jpg/1920px-Altes_Theater_Leipzig.jpg
 ---
 
 ## Overview

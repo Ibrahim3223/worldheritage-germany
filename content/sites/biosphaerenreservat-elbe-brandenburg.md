@@ -1,27 +1,49 @@
 ---
-title: "Biosphärenreservat Elbe-Brandenburg"
+title: Biosphärenreservat Elbe-Brandenburg
 date: 2026-01-23
 draft: false
-description: "biosphere reserve in Brandenburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Biosphere Reserve"
-
-# Taxonomies
+description: biosphere reserve in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Biosphere Reserve
 categories:
-  - "Biosphere Reserve"
+- Biosphere Reserve
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.99497
 longitude: 11.79419
-
-# Images
 images:
-  - "/images-sites/biosphaerenreservat-elbe-brandenburg/01-03985d0b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wegerich_-_Scheckenfalter_auf_Kamille.jpg/1200px-Wegerich_-_Scheckenfalter_auf_Kamille.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg/1200px-Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg
+image_srcset:
+  Wegerich - Scheckenfalter auf Kamille.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wegerich_-_Scheckenfalter_auf_Kamille.jpg/400px-Wegerich_-_Scheckenfalter_auf_Kamille.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wegerich_-_Scheckenfalter_auf_Kamille.jpg/800px-Wegerich_-_Scheckenfalter_auf_Kamille.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wegerich_-_Scheckenfalter_auf_Kamille.jpg/1200px-Wegerich_-_Scheckenfalter_auf_Kamille.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wegerich_-_Scheckenfalter_auf_Kamille.jpg/1920px-Wegerich_-_Scheckenfalter_auf_Kamille.jpg
+  Baumweißlinge Wittenberge-Rühstädter Elbniederung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg/400px-Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg/800px-Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg/1200px-Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg/1920px-Baumweißlinge_Wittenberge-Rühstädter_Elbniederung.jpg
+  Lausitz Luftsport- & Techniktage 2013-Rueckflug by-RaBoe 509.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_509.jpg
+  Lausitz Luftsport- & Techniktage 2013-Rueckflug by-RaBoe 620.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_620.jpg
+  Lausitz Luftsport- & Techniktage 2013-Rueckflug by-RaBoe 622.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Rueckflug_by-RaBoe_622.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.99277778
 longitude: 7.85416667
 images:
-  - "/images-sites/zinnfigurenklause/01-1ffeab9a-800w.webp"
+  - "/images/zinnfigurenklause/01-1ffeab9a-800w.webp"
 ---
 
 ## Overview

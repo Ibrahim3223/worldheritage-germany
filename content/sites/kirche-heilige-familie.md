@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q230288"
 description: "In the charming region of Kamen, Germany, the Kirche Heilige Familie stands as a striking example of Gothic Revival architecture. This church is not mer..."
 images:
-  - "/images-sites/kirche-heilige-familie/01-61217ad8-1920w.webp"
-  - "/images-sites/kirche-heilige-familie/02-8a56df68-1920w.webp"
-  - "/images-sites/kirche-heilige-familie/03-b08bd9b4-1920w.webp"
+  - "/images/kirche-heilige-familie/01-61217ad8-1920w.webp"
+  - "/images/kirche-heilige-familie/02-8a56df68-1920w.webp"
+  - "/images/kirche-heilige-familie/03-b08bd9b4-1920w.webp"
 ---
 
 ## Overview

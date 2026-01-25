@@ -13,9 +13,9 @@ regions:
 latitude: 53.55768333
 longitude: 9.98865278
 images:
-  - "/images-sites/stephansplatz/01-c03ee2ea-800w.webp"
-  - "/images-sites/stephansplatz/02-9077c9e6-800w.webp"
-  - "/images-sites/stephansplatz/03-5e250b9d-800w.webp"
+  - "/images/stephansplatz/01-c03ee2ea-800w.webp"
+  - "/images/stephansplatz/02-9077c9e6-800w.webp"
+  - "/images/stephansplatz/03-5e250b9d-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.098611111
 longitude: 8.230555555
 images:
-  - "/images-sites/neroberg/01-f70c9f59-800w.webp"
+  - "/images/neroberg/01-f70c9f59-800w.webp"
 ---
 
 ## Overview

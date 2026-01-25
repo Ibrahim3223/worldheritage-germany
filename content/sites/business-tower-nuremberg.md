@@ -1,19 +1,49 @@
 ---
-title: "Business-Tower (Nuremberg)"
+title: Business-Tower (Nuremberg)
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4546
 longitude: 11.1171
 images:
-  - "/images-sites/business-tower-nuremberg/01-29c67bd5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wöhrder_See_Nordufer_4898_(2).jpg/1200px-Wöhrder_See_Nordufer_4898_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Business_Tower_Nürnberg.jpg/1200px-Business_Tower_Nürnberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norikuswohnanlage_Wöhrder_See_02.JPG/1200px-Norikuswohnanlage_Wöhrder_See_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1200px-NürnbergerVersicherungTurm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nuernberg_Business_Tower_Nacht.jpg/1200px-Nuernberg_Business_Tower_Nacht.jpg
+image_srcset:
+  Wöhrder See Nordufer 4898 (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wöhrder_See_Nordufer_4898_(2).jpg/400px-Wöhrder_See_Nordufer_4898_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wöhrder_See_Nordufer_4898_(2).jpg/800px-Wöhrder_See_Nordufer_4898_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wöhrder_See_Nordufer_4898_(2).jpg/1200px-Wöhrder_See_Nordufer_4898_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wöhrder_See_Nordufer_4898_(2).jpg/1920px-Wöhrder_See_Nordufer_4898_(2).jpg
+  Business Tower Nürnberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Business_Tower_Nürnberg.jpg/400px-Business_Tower_Nürnberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Business_Tower_Nürnberg.jpg/800px-Business_Tower_Nürnberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Business_Tower_Nürnberg.jpg/1200px-Business_Tower_Nürnberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Business_Tower_Nürnberg.jpg/1920px-Business_Tower_Nürnberg.jpg
+  Norikuswohnanlage Wöhrder See 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norikuswohnanlage_Wöhrder_See_02.JPG/400px-Norikuswohnanlage_Wöhrder_See_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norikuswohnanlage_Wöhrder_See_02.JPG/800px-Norikuswohnanlage_Wöhrder_See_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norikuswohnanlage_Wöhrder_See_02.JPG/1200px-Norikuswohnanlage_Wöhrder_See_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norikuswohnanlage_Wöhrder_See_02.JPG/1920px-Norikuswohnanlage_Wöhrder_See_02.JPG
+  NürnbergerVersicherungTurm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/400px-NürnbergerVersicherungTurm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/800px-NürnbergerVersicherungTurm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1200px-NürnbergerVersicherungTurm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NürnbergerVersicherungTurm.jpg/1920px-NürnbergerVersicherungTurm.jpg
+  Nuernberg Business Tower Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nuernberg_Business_Tower_Nacht.jpg/400px-Nuernberg_Business_Tower_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nuernberg_Business_Tower_Nacht.jpg/800px-Nuernberg_Business_Tower_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nuernberg_Business_Tower_Nacht.jpg/1200px-Nuernberg_Business_Tower_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nuernberg_Business_Tower_Nacht.jpg/1920px-Nuernberg_Business_Tower_Nacht.jpg
 ---
 
 ## Overview

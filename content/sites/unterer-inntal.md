@@ -13,7 +13,7 @@ regions:
 latitude: 48.2956
 longitude: 13.1898
 images:
-  - "/images-sites/unterer-inntal/01-5d72c13d-800w.webp"
+  - "/images/unterer-inntal/01-5d72c13d-800w.webp"
 ---
 
 ## Overview

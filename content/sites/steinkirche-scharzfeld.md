@@ -13,7 +13,7 @@ regions:
 latitude: 51.6333
 longitude: 10.3774
 images:
-  - "/images-sites/steinkirche-scharzfeld/01-6740813e-800w.webp"
+  - "/images/steinkirche-scharzfeld/01-6740813e-800w.webp"
 ---
 
 ## Overview

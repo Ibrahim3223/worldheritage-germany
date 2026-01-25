@@ -1,19 +1,37 @@
 ---
-title: "Essenrode Manor"
+title: Essenrode Manor
 date: 2026-01-23
 draft: false
-description: "baroque mansion in Lehre, Lower Saxony"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: baroque mansion in Lehre, Lower Saxony
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3715
 longitude: 10.6353
 images:
-  - "/images-sites/essenrode-manor/01-b6edd91a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Essenrode_EvL.jpg/1200px-Essenrode_EvL.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Esserode_Schlossportal.JPG/1200px-Esserode_Schlossportal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1200px-Essenrode_Schloss.jpg
+image_srcset:
+  Essenrode EvL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Essenrode_EvL.jpg/400px-Essenrode_EvL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Essenrode_EvL.jpg/800px-Essenrode_EvL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Essenrode_EvL.jpg/1200px-Essenrode_EvL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Essenrode_EvL.jpg/1920px-Essenrode_EvL.jpg
+  Esserode Schlossportal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Esserode_Schlossportal.JPG/400px-Esserode_Schlossportal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Esserode_Schlossportal.JPG/800px-Esserode_Schlossportal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Esserode_Schlossportal.JPG/1200px-Esserode_Schlossportal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Esserode_Schlossportal.JPG/1920px-Esserode_Schlossportal.JPG
+  Essenrode Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/400px-Essenrode_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/800px-Essenrode_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1200px-Essenrode_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Essenrode_Schloss.jpg/1920px-Essenrode_Schloss.jpg
 ---
 
 ## Overview

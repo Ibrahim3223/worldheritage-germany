@@ -1,27 +1,49 @@
 ---
-title: "Burg Grimburg"
+title: Burg Grimburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.6056
 longitude: 6.875
-
-# Images
 images:
-  - "/images-sites/burg-grimburg/01-19750bdf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grimburg_Bergfried.jpg/1200px-Grimburg_Bergfried.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_GrimburgKapelle.jpg/1200px-2020_GrimburgKapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2020_Grimburg.jpg/1200px-2020_Grimburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgGrimburg-4.jpg/1200px-BurgGrimburg-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/1200px-BurgGrimburg-5.jpg
+image_srcset:
+  Grimburg Bergfried.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grimburg_Bergfried.jpg/400px-Grimburg_Bergfried.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grimburg_Bergfried.jpg/800px-Grimburg_Bergfried.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grimburg_Bergfried.jpg/1200px-Grimburg_Bergfried.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Grimburg_Bergfried.jpg/1920px-Grimburg_Bergfried.jpg
+  2020 GrimburgKapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_GrimburgKapelle.jpg/400px-2020_GrimburgKapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_GrimburgKapelle.jpg/800px-2020_GrimburgKapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_GrimburgKapelle.jpg/1200px-2020_GrimburgKapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_GrimburgKapelle.jpg/1920px-2020_GrimburgKapelle.jpg
+  2020 Grimburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2020_Grimburg.jpg/400px-2020_Grimburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2020_Grimburg.jpg/800px-2020_Grimburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2020_Grimburg.jpg/1200px-2020_Grimburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2020_Grimburg.jpg/1920px-2020_Grimburg.jpg
+  BurgGrimburg-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgGrimburg-4.jpg/400px-BurgGrimburg-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgGrimburg-4.jpg/800px-BurgGrimburg-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgGrimburg-4.jpg/1200px-BurgGrimburg-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgGrimburg-4.jpg/1920px-BurgGrimburg-4.jpg
+  BurgGrimburg-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/400px-BurgGrimburg-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/800px-BurgGrimburg-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/1200px-BurgGrimburg-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BurgGrimburg-5.jpg/1920px-BurgGrimburg-5.jpg
 ---
 
 ## Overview

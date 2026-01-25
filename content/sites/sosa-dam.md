@@ -13,8 +13,8 @@ regions:
 latitude: 50.4881
 longitude: 12.6497
 images:
-  - "/images-sites/sosa-dam/02-76fa93f0-800w.webp"
-  - "/images-sites/sosa-dam/03-86c128e4-800w.webp"
+  - "/images/sosa-dam/02-76fa93f0-800w.webp"
+  - "/images/sosa-dam/03-86c128e4-800w.webp"
 ---
 
 ## Overview

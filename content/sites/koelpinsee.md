@@ -13,7 +13,7 @@ regions:
 latitude: 53.500833333
 longitude: 12.580555555
 images:
-  - "/images-sites/koelpinsee/01-1e413c06-800w.webp"
+  - "/images/koelpinsee/01-1e413c06-800w.webp"
 ---
 
 ## Overview

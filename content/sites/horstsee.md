@@ -1,19 +1,49 @@
 ---
-title: "Horstsee"
+title: Horstsee
 date: 2026-01-23
 draft: false
-description: "lake in Stade, Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Stade, Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.594166666
 longitude: 9.461666666
 images:
-  - "/images-sites/horstsee/01-43e1a06f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ItDozent_Horstsee_1.jpg/1200px-ItDozent_Horstsee_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg/1200px-Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ItDozent_Horstsee_Tunnel_1.jpg/1200px-ItDozent_Horstsee_Tunnel_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg/1200px-Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Horstsee_(2008-01)_-_panoramio.jpg/1200px-Horstsee_(2008-01)_-_panoramio.jpg
+image_srcset:
+  ItDozent Horstsee 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ItDozent_Horstsee_1.jpg/400px-ItDozent_Horstsee_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ItDozent_Horstsee_1.jpg/800px-ItDozent_Horstsee_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ItDozent_Horstsee_1.jpg/1200px-ItDozent_Horstsee_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ItDozent_Horstsee_1.jpg/1920px-ItDozent_Horstsee_1.jpg
+  Entenfutterplatz am Horstsee (2008-03) - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg/400px-Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg/800px-Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg/1200px-Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg/1920px-Entenfutterplatz_am_Horstsee_(2008-03)_-_panoramio.jpg
+  ItDozent Horstsee Tunnel 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ItDozent_Horstsee_Tunnel_1.jpg/400px-ItDozent_Horstsee_Tunnel_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ItDozent_Horstsee_Tunnel_1.jpg/800px-ItDozent_Horstsee_Tunnel_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ItDozent_Horstsee_Tunnel_1.jpg/1200px-ItDozent_Horstsee_Tunnel_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ItDozent_Horstsee_Tunnel_1.jpg/1920px-ItDozent_Horstsee_Tunnel_1.jpg
+  Quer über den Horstsee (2008-03) - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg/400px-Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg/800px-Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg/1200px-Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg/1920px-Quer_über_den_Horstsee_(2008-03)_-_panoramio.jpg
+  Horstsee (2008-01) - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Horstsee_(2008-01)_-_panoramio.jpg/400px-Horstsee_(2008-01)_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Horstsee_(2008-01)_-_panoramio.jpg/800px-Horstsee_(2008-01)_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Horstsee_(2008-01)_-_panoramio.jpg/1200px-Horstsee_(2008-01)_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Horstsee_(2008-01)_-_panoramio.jpg/1920px-Horstsee_(2008-01)_-_panoramio.jpg
 ---
 
 ## Overview

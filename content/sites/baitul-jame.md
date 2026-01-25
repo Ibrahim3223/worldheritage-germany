@@ -1,19 +1,25 @@
 ---
-title: "Baitul-Jame"
+title: Baitul-Jame
 date: 2026-01-23
 draft: false
-description: "mosque in Offenbach am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Offenbach am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 50.09888889
 longitude: 8.79083333
 images:
-  - "/images-sites/baitul-jame/01-f1dd6bd2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1200px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
+image_srcset:
+  Ahmadiyya-Moschee, 4, Boschweg 7, Offenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/400px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/800px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1200px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg/1920px-Ahmadiyya-Moschee,_4,_Boschweg_7,_Offenbach.jpg
 ---
 
 ## Overview

@@ -1,21 +1,50 @@
 ---
-title: "Großer Fürstenseer See"
+title: Großer Fürstenseer See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.304722222
 longitude: 13.163888888
 images:
-  - "/images-sites/grosser-fuerstenseer-see/01-fb22b742-800w.webp"
-  - "/images-sites/grosser-fuerstenseer-see/02-7d917228-800w.webp"
-  - "/images-sites/grosser-fuerstenseer-see/03-216eebb2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abendstimmung_am_Fürstenseer_See.JPG/1200px-Abendstimmung_am_Fürstenseer_See.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg/1200px-Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ostufer_Große_Fürstenseer_See.JPG/1200px-Ostufer_Große_Fürstenseer_See.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg/1200px-Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png/1200px-Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png
+image_srcset:
+  Abendstimmung am Fürstenseer See.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abendstimmung_am_Fürstenseer_See.JPG/400px-Abendstimmung_am_Fürstenseer_See.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abendstimmung_am_Fürstenseer_See.JPG/800px-Abendstimmung_am_Fürstenseer_See.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abendstimmung_am_Fürstenseer_See.JPG/1200px-Abendstimmung_am_Fürstenseer_See.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Abendstimmung_am_Fürstenseer_See.JPG/1920px-Abendstimmung_am_Fürstenseer_See.JPG
+  Entwicklung Südostufer Großer Fürstenseer See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg/400px-Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg/800px-Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg/1200px-Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg/1920px-Entwicklung_Südostufer_Großer_Fürstenseer_See.jpg
+  Ostufer Große Fürstenseer See.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ostufer_Große_Fürstenseer_See.JPG/400px-Ostufer_Große_Fürstenseer_See.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ostufer_Große_Fürstenseer_See.JPG/800px-Ostufer_Große_Fürstenseer_See.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ostufer_Große_Fürstenseer_See.JPG/1200px-Ostufer_Große_Fürstenseer_See.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ostufer_Große_Fürstenseer_See.JPG/1920px-Ostufer_Große_Fürstenseer_See.JPG
+  Fürstensee Großer Fürstenseer See 2010-04-07 207.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg/400px-Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg/800px-Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg/1200px-Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg/1920px-Fürstensee_Großer_Fürstenseer_See_2010-04-07_207.jpg
+  Maximale Sichttiefen im Großen Fürstenseer See (1973-2012).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png/400px-Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png/800px-Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png/1200px-Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png/1920px-Maximale_Sichttiefen_im_Großen_Fürstenseer_See_(1973-2012).png
 ---
 
 ## Overview

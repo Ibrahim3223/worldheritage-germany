@@ -1,20 +1,49 @@
 ---
-title: "Burg Camburg"
+title: Burg Camburg
 date: 2026-01-23
 draft: false
-description: "castle in Dornburg-Camburg, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Dornburg-Camburg, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0525
 longitude: 11.71138889
 images:
-  - "/images-sites/burg-camburg/01-8b6c3122-800w.webp"
-  - "/images-sites/burg-camburg/02-4358b124-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Camburg.jpg/1200px-Burg_Camburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Camburg_2016-12-06_10.jpg/1200px-Camburg_2016-12-06_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Camburg_Burg_1.jpg/1200px-Camburg_Burg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Camburg_hof.jpg/1200px-Camburg_hof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Camburg_2003-03-23_05.jpg/1200px-Camburg_2003-03-23_05.jpg
+image_srcset:
+  Burg Camburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Camburg.jpg/400px-Burg_Camburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Camburg.jpg/800px-Burg_Camburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Camburg.jpg/1200px-Burg_Camburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Camburg.jpg/1920px-Burg_Camburg.jpg
+  Camburg 2016-12-06 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Camburg_2016-12-06_10.jpg/400px-Camburg_2016-12-06_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Camburg_2016-12-06_10.jpg/800px-Camburg_2016-12-06_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Camburg_2016-12-06_10.jpg/1200px-Camburg_2016-12-06_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Camburg_2016-12-06_10.jpg/1920px-Camburg_2016-12-06_10.jpg
+  Camburg Burg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Camburg_Burg_1.jpg/400px-Camburg_Burg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Camburg_Burg_1.jpg/800px-Camburg_Burg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Camburg_Burg_1.jpg/1200px-Camburg_Burg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Camburg_Burg_1.jpg/1920px-Camburg_Burg_1.jpg
+  Camburg hof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Camburg_hof.jpg/400px-Camburg_hof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Camburg_hof.jpg/800px-Camburg_hof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Camburg_hof.jpg/1200px-Camburg_hof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Camburg_hof.jpg/1920px-Camburg_hof.jpg
+  Camburg 2003-03-23 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Camburg_2003-03-23_05.jpg/400px-Camburg_2003-03-23_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Camburg_2003-03-23_05.jpg/800px-Camburg_2003-03-23_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Camburg_2003-03-23_05.jpg/1200px-Camburg_2003-03-23_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Camburg_2003-03-23_05.jpg/1920px-Camburg_2003-03-23_05.jpg
 ---
 
 ## Overview

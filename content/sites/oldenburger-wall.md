@@ -21,7 +21,7 @@ longitude: 10.885
 
 # Images
 images:
-  - "/images-sites/oldenburger-wall/01-f00ec5da-800w.webp"
+  - "/images/oldenburger-wall/01-f00ec5da-800w.webp"
 ---
 
 ## Overview

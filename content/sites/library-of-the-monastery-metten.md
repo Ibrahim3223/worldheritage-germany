@@ -13,8 +13,8 @@ regions:
 latitude: 48.8557
 longitude: 12.9184
 images:
-  - "/images-sites/library-of-the-monastery-metten/02-c8b97a7d-800w.webp"
-  - "/images-sites/library-of-the-monastery-metten/03-620dee0b-800w.webp"
+  - "/images/library-of-the-monastery-metten/02-c8b97a7d-800w.webp"
+  - "/images/library-of-the-monastery-metten/03-620dee0b-800w.webp"
 ---
 
 ## Overview

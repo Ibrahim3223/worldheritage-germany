@@ -1,19 +1,50 @@
 ---
-title: "Bronnbach Abbey"
+title: Bronnbach Abbey
 date: 2026-01-23
 draft: false
-description: "building in Wertheim am Main, Stuttgart Government Region, Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Wertheim am Main, Stuttgart Government Region, Baden-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7125
 longitude: 9.547222222
 images:
-  - "/images-sites/bronnbach-abbey/01-c33a3dc0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kloster_Bronnbach_Luftaufnahme.jpg/1200px-Kloster_Bronnbach_Luftaufnahme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Klosterkirche_Chorgestuehl.jpg/1200px-Klosterkirche_Chorgestuehl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kloster_Josephsaal.jpg/1200px-Kloster_Josephsaal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kloster_Bronnbach_Restaurant.jpg/1200px-Kloster_Bronnbach_Restaurant.jpg
+image_srcset:
+  Kloster Bronnbach Luftaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kloster_Bronnbach_Luftaufnahme.jpg/400px-Kloster_Bronnbach_Luftaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kloster_Bronnbach_Luftaufnahme.jpg/800px-Kloster_Bronnbach_Luftaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kloster_Bronnbach_Luftaufnahme.jpg/1200px-Kloster_Bronnbach_Luftaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kloster_Bronnbach_Luftaufnahme.jpg/1920px-Kloster_Bronnbach_Luftaufnahme.jpg
+  Aerial image of Bronnbach Abbey (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg/400px-Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg/800px-Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Bronnbach_Abbey_(view_from_the_southwest).jpg
+  Klosterkirche Chorgestuehl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Klosterkirche_Chorgestuehl.jpg/400px-Klosterkirche_Chorgestuehl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Klosterkirche_Chorgestuehl.jpg/800px-Klosterkirche_Chorgestuehl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Klosterkirche_Chorgestuehl.jpg/1200px-Klosterkirche_Chorgestuehl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Klosterkirche_Chorgestuehl.jpg/1920px-Klosterkirche_Chorgestuehl.jpg
+  Kloster Josephsaal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kloster_Josephsaal.jpg/400px-Kloster_Josephsaal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kloster_Josephsaal.jpg/800px-Kloster_Josephsaal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kloster_Josephsaal.jpg/1200px-Kloster_Josephsaal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kloster_Josephsaal.jpg/1920px-Kloster_Josephsaal.jpg
+  Kloster Bronnbach Restaurant.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kloster_Bronnbach_Restaurant.jpg/400px-Kloster_Bronnbach_Restaurant.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kloster_Bronnbach_Restaurant.jpg/800px-Kloster_Bronnbach_Restaurant.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kloster_Bronnbach_Restaurant.jpg/1200px-Kloster_Bronnbach_Restaurant.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kloster_Bronnbach_Restaurant.jpg/1920px-Kloster_Bronnbach_Restaurant.jpg
 ---
 
 ## Overview

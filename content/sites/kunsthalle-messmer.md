@@ -13,9 +13,9 @@ regions:
 latitude: 48.14852
 longitude: 7.753811
 images:
-  - "/images-sites/kunsthalle-messmer/01-fd3c4f1d-800w.webp"
-  - "/images-sites/kunsthalle-messmer/02-b069ed60-800w.webp"
-  - "/images-sites/kunsthalle-messmer/03-b088db4e-800w.webp"
+  - "/images/kunsthalle-messmer/01-fd3c4f1d-800w.webp"
+  - "/images/kunsthalle-messmer/02-b069ed60-800w.webp"
+  - "/images/kunsthalle-messmer/03-b088db4e-800w.webp"
 ---
 
 ## Overview

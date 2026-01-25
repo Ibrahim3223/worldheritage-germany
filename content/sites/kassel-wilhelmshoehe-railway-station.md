@@ -13,7 +13,7 @@ regions:
 latitude: 51.312222222
 longitude: 9.447222222
 images:
-  - "/images-sites/kassel-wilhelmshoehe-railway-station/01-30540b55-800w.webp"
+  - "/images/kassel-wilhelmshoehe-railway-station/01-30540b55-800w.webp"
 ---
 
 ## Overview

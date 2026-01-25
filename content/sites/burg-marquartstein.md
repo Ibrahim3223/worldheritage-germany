@@ -1,21 +1,49 @@
 ---
-title: "Burg Marquartstein"
+title: Burg Marquartstein
 date: 2026-01-23
 draft: false
-description: "castle in Upper Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Upper Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.756757937
 longitude: 12.468695412
 images:
-  - "/images-sites/burg-marquartstein/01-fe2309d9-800w.webp"
-  - "/images-sites/burg-marquartstein/02-41b2c6f7-800w.webp"
-  - "/images-sites/burg-marquartstein/03-58a0f445-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Richard-Strauß-Höhenweg_(13352433434).jpg/1200px-Richard-Strauß-Höhenweg_(13352433434).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Marquartstein_Castle_South-East_View.jpg/1200px-Marquartstein_Castle_South-East_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marquartstein_Castle_South_View.jpg/1200px-Marquartstein_Castle_South_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/1200px-Marquartstein_Castle_North-West_View.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Marquartstein.jpg/1200px-Burg_Marquartstein.jpg
+image_srcset:
+  Richard-Strauß-Höhenweg (13352433434).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Richard-Strauß-Höhenweg_(13352433434).jpg/400px-Richard-Strauß-Höhenweg_(13352433434).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Richard-Strauß-Höhenweg_(13352433434).jpg/800px-Richard-Strauß-Höhenweg_(13352433434).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Richard-Strauß-Höhenweg_(13352433434).jpg/1200px-Richard-Strauß-Höhenweg_(13352433434).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Richard-Strauß-Höhenweg_(13352433434).jpg/1920px-Richard-Strauß-Höhenweg_(13352433434).jpg
+  Marquartstein Castle South-East View.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Marquartstein_Castle_South-East_View.jpg/400px-Marquartstein_Castle_South-East_View.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Marquartstein_Castle_South-East_View.jpg/800px-Marquartstein_Castle_South-East_View.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Marquartstein_Castle_South-East_View.jpg/1200px-Marquartstein_Castle_South-East_View.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Marquartstein_Castle_South-East_View.jpg/1920px-Marquartstein_Castle_South-East_View.jpg
+  Marquartstein Castle South View.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marquartstein_Castle_South_View.jpg/400px-Marquartstein_Castle_South_View.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marquartstein_Castle_South_View.jpg/800px-Marquartstein_Castle_South_View.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marquartstein_Castle_South_View.jpg/1200px-Marquartstein_Castle_South_View.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Marquartstein_Castle_South_View.jpg/1920px-Marquartstein_Castle_South_View.jpg
+  Marquartstein Castle North-West View.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/400px-Marquartstein_Castle_North-West_View.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/800px-Marquartstein_Castle_North-West_View.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/1200px-Marquartstein_Castle_North-West_View.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Marquartstein_Castle_North-West_View.jpg/1920px-Marquartstein_Castle_North-West_View.jpg
+  Burg Marquartstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Marquartstein.jpg/400px-Burg_Marquartstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Marquartstein.jpg/800px-Burg_Marquartstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Marquartstein.jpg/1200px-Burg_Marquartstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Marquartstein.jpg/1920px-Burg_Marquartstein.jpg
 ---
 
 ## Overview

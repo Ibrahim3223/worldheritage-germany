@@ -13,8 +13,8 @@ regions:
 latitude: 52.5075
 longitude: 13.3707
 images:
-  - "/images-sites/state-library-of-berlin-haus-potsdamer-strasse/02-a086a00d-800w.webp"
-  - "/images-sites/state-library-of-berlin-haus-potsdamer-strasse/03-07e80bab-800w.webp"
+  - "/images/state-library-of-berlin-haus-potsdamer-strasse/02-a086a00d-800w.webp"
+  - "/images/state-library-of-berlin-haus-potsdamer-strasse/03-07e80bab-800w.webp"
 ---
 
 ## Overview

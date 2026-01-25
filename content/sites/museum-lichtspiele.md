@@ -13,7 +13,7 @@ regions:
 latitude: 48.131
 longitude: 11.5875
 images:
-  - "/images-sites/museum-lichtspiele/01-9872f4d9-800w.webp"
+  - "/images/museum-lichtspiele/01-9872f4d9-800w.webp"
 ---
 
 ## Overview

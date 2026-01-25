@@ -13,7 +13,7 @@ regions:
 latitude: 54.6692
 longitude: 8.30861
 images:
-  - "/images-sites/leuchtturm-norddorf/01-135aae17-800w.webp"
+  - "/images/leuchtturm-norddorf/01-135aae17-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,52 @@
 ---
-title: "Bergstedter Kirche"
-site_name: "Bergstedter Kirche"
-slug: "bergstedter-kirche"
-region: "Hamburg"
-
-# Location
+title: Bergstedter Kirche
+site_name: Bergstedter Kirche
+slug: bergstedter-kirche
+region: Hamburg
 latitude: 53.67219444
 longitude: 10.12633333
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q820252"
-description: "Bergstedter Kirche is a striking example of Gothic architecture located in the Wandsbek region of Germany. This church building stands out not only for ..."
+- church building
+- religious site
+wikidata_id: Q820252
+description: Bergstedter Kirche is a striking example of Gothic architecture located
+  in the Wandsbek region of Germany. This church building stands out not only for
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Hamburg-Bergstedt.1.ajb.jpg/1200px-Kirche%20Hamburg-Bergstedt.1.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/1200px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kberg_innenraum.jpg/1200px-Kberg_innenraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kberg_choransicht.jpg/1200px-Kberg_choransicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirche_Hamburg-Bergstedt.jpg/1200px-Kirche_Hamburg-Bergstedt.jpg
+image_srcset:
+  Kirche%20Hamburg-Bergstedt.1.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Hamburg-Bergstedt.1.ajb.jpg/400px-Kirche%20Hamburg-Bergstedt.1.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Hamburg-Bergstedt.1.ajb.jpg/800px-Kirche%20Hamburg-Bergstedt.1.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Hamburg-Bergstedt.1.ajb.jpg/1200px-Kirche%20Hamburg-Bergstedt.1.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Hamburg-Bergstedt.1.ajb.jpg/1920px-Kirche%20Hamburg-Bergstedt.1.ajb.jpg
+  Kirche Hamburg-Bergstedt.1.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/400px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/800px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/1200px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kirche_Hamburg-Bergstedt.1.ajb.jpg/1920px-Kirche_Hamburg-Bergstedt.1.ajb.jpg
+  Kberg innenraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kberg_innenraum.jpg/400px-Kberg_innenraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kberg_innenraum.jpg/800px-Kberg_innenraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kberg_innenraum.jpg/1200px-Kberg_innenraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kberg_innenraum.jpg/1920px-Kberg_innenraum.jpg
+  Kberg choransicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kberg_choransicht.jpg/400px-Kberg_choransicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kberg_choransicht.jpg/800px-Kberg_choransicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kberg_choransicht.jpg/1200px-Kberg_choransicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kberg_choransicht.jpg/1920px-Kberg_choransicht.jpg
+  Kirche Hamburg-Bergstedt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirche_Hamburg-Bergstedt.jpg/400px-Kirche_Hamburg-Bergstedt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirche_Hamburg-Bergstedt.jpg/800px-Kirche_Hamburg-Bergstedt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirche_Hamburg-Bergstedt.jpg/1200px-Kirche_Hamburg-Bergstedt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kirche_Hamburg-Bergstedt.jpg/1920px-Kirche_Hamburg-Bergstedt.jpg
 ---
 
 ## Overview

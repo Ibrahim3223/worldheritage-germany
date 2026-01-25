@@ -1,20 +1,49 @@
 ---
-title: "Brecht House"
+title: Brecht House
 date: 2026-01-23
 draft: false
-description: "house in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: house in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.528856
 longitude: 13.384602
 images:
-  - "/images-sites/brecht-house/02-e02a7b1b-800w.webp"
-  - "/images-sites/brecht-house/03-e7ea5651-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG/1200px-Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG/1200px-Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg/1200px-Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Literaturforum_brechthaus_02.jpg/1200px-Literaturforum_brechthaus_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/1200px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
+image_srcset:
+  Brecht-Literaturforum Chausseestr Hofgebäude Mitte 2014-11-23 ama fec.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG/400px-Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG/800px-Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG/1200px-Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG/1920px-Brecht-Literaturforum_Chausseestr_Hofgebäude_Mitte_2014-11-23_ama_fec.JPG
+  Berlin Brecht-Haus 14.11.2015 13-10-22.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG/400px-Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG/800px-Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG/1200px-Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG/1920px-Berlin_Brecht-Haus_14.11.2015_13-10-22.JPG
+  Berlin, Mitte, Chausseestrasse 125, Bertolt-Brecht-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg/400px-Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg/800px-Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg/1200px-Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg/1920px-Berlin,_Mitte,_Chausseestrasse_125,_Bertolt-Brecht-Haus.jpg
+  Literaturforum brechthaus 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Literaturforum_brechthaus_02.jpg/400px-Literaturforum_brechthaus_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Literaturforum_brechthaus_02.jpg/800px-Literaturforum_brechthaus_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Literaturforum_brechthaus_02.jpg/1200px-Literaturforum_brechthaus_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Literaturforum_brechthaus_02.jpg/1920px-Literaturforum_brechthaus_02.jpg
+  Bundesarchiv Bild 183-T0411-347, Berlin, Brecht-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/400px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/800px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/1200px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg/1920px-Bundesarchiv_Bild_183-T0411-347,_Berlin,_Brecht-Haus.jpg
 ---
 
 ## Overview

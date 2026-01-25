@@ -21,7 +21,7 @@ longitude: 8.62361
 
 # Images
 images:
-  - "/images-sites/lohra/01-b6e5df7f-800w.webp"
+  - "/images/lohra/01-b6e5df7f-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.1864
 longitude: 8.90444
 images:
-  - "/images-sites/westliche-haelfte-des-langen-moores/01-b292db4d-800w.webp"
-  - "/images-sites/westliche-haelfte-des-langen-moores/02-1680576a-800w.webp"
-  - "/images-sites/westliche-haelfte-des-langen-moores/03-414024da-800w.webp"
+  - "/images/westliche-haelfte-des-langen-moores/01-b292db4d-800w.webp"
+  - "/images/westliche-haelfte-des-langen-moores/02-1680576a-800w.webp"
+  - "/images/westliche-haelfte-des-langen-moores/03-414024da-800w.webp"
 ---
 
 ## Overview

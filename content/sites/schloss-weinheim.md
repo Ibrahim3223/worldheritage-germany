@@ -13,7 +13,7 @@ regions:
 latitude: 49.5458
 longitude: 8.67028
 images:
-  - "/images-sites/schloss-weinheim/01-4db0478a-800w.webp"
+  - "/images/schloss-weinheim/01-4db0478a-800w.webp"
 ---
 
 ## Overview

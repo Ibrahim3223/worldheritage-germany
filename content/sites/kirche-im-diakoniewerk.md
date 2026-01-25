@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q570223"
 description: "In the heart of Halle (Saale), Germany, the Kirche im Diakoniewerk stands as a remarkable example of Gothic Revival architecture. This church building, ..."
 images:
-  - "/images-sites/kirche-im-diakoniewerk/01-48fa8cae-1920w.webp"
-  - "/images-sites/kirche-im-diakoniewerk/02-a735ca4a-1920w.webp"
-  - "/images-sites/kirche-im-diakoniewerk/03-1fabcae2-1920w.webp"
+  - "/images/kirche-im-diakoniewerk/01-48fa8cae-1920w.webp"
+  - "/images/kirche-im-diakoniewerk/02-a735ca4a-1920w.webp"
+  - "/images/kirche-im-diakoniewerk/03-1fabcae2-1920w.webp"
 ---
 
 ## Overview

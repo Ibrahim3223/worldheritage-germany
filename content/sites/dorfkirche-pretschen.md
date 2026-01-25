@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Pretschen"
-site_name: "Dorfkirche Pretschen"
-slug: "dorfkirche-pretschen"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Pretschen
+site_name: Dorfkirche Pretschen
+slug: dorfkirche-pretschen
+region: Brandenburg
 latitude: 52.0904
 longitude: 13.9915
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244625"
-description: "Dorfkirche Pretschen is a remarkable church building located in the Märkische Heide region of Germany. With its striking Romanesque Revival architectura..."
+- church building
+- religious site
+wikidata_id: Q1244625
+description: Dorfkirche Pretschen is a remarkable church building located in the Märkische
+  Heide region of Germany. With its striking Romanesque Revival architectura...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pretschen%20Dorfkirche%2004.JPG/1200px-Pretschen%20Dorfkirche%2004.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg/1200px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg/1200px-Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg/1200px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1200px-Pretschen_Dorfkirche_04.JPG
+image_srcset:
+  Pretschen%20Dorfkirche%2004.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pretschen%20Dorfkirche%2004.JPG/400px-Pretschen%20Dorfkirche%2004.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pretschen%20Dorfkirche%2004.JPG/800px-Pretschen%20Dorfkirche%2004.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pretschen%20Dorfkirche%2004.JPG/1200px-Pretschen%20Dorfkirche%2004.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pretschen%20Dorfkirche%2004.JPG/1920px-Pretschen%20Dorfkirche%2004.JPG
+  Dorfkirche Pretschen Epitaph Blumenthal Text.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg/400px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg/800px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg/1200px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg/1920px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Text.jpg
+  Dorfkirche Pretschen Innenraum Blick nach Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg/400px-Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg/800px-Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg/1200px-Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg/1920px-Dorfkirche_Pretschen_Innenraum_Blick_nach_Osten.jpg
+  Dorfkirche Pretschen Epitaph Blumenthal Bild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg/400px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg/800px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg/1200px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg/1920px-Dorfkirche_Pretschen_Epitaph_Blumenthal_Bild.jpg
+  Pretschen Dorfkirche 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/400px-Pretschen_Dorfkirche_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/800px-Pretschen_Dorfkirche_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1200px-Pretschen_Dorfkirche_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pretschen_Dorfkirche_04.JPG/1920px-Pretschen_Dorfkirche_04.JPG
 ---
 
 ## Overview

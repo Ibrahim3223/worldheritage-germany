@@ -13,7 +13,7 @@ regions:
 latitude: 51.431388888
 longitude: 6.886388888
 images:
-  - "/images-sites/muelheim-ruhr-hauptbahnhof/01-1bf85d67-800w.webp"
+  - "/images/muelheim-ruhr-hauptbahnhof/01-1bf85d67-800w.webp"
 ---
 
 ## Overview

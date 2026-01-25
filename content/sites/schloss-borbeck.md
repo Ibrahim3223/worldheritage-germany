@@ -21,7 +21,7 @@ longitude: 6.942222222
 
 # Images
 images:
-  - "/images-sites/schloss-borbeck/01-009fad46-800w.webp"
+  - "/images/schloss-borbeck/01-009fad46-800w.webp"
 ---
 
 ## Overview

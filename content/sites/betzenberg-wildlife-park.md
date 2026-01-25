@@ -1,19 +1,49 @@
 ---
-title: "Betzenberg Wildlife Park"
+title: Betzenberg Wildlife Park
 date: 2026-01-24
 draft: false
-description: "zoo in Kaiserslautern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Kaiserslautern, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4334
 longitude: 7.79162
 images:
-  - "/images-sites/betzenberg-wildlife-park/01-a5a4a9ea-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Wildpark_Betzenberg.jpg/1200px-Damwild_im_Wildpark_Betzenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wildschwein_im_Wildpark_Betzenberg.jpg/1200px-Wildschwein_im_Wildpark_Betzenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wildschwein_mit_zwei_Jungtieren.jpg/1200px-Wildschwein_mit_zwei_Jungtieren.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wildschwein_mit_Jungtier.jpg/1200px-Wildschwein_mit_Jungtier.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/1200px-Wildpark_KL_Stein.jpg
+image_srcset:
+  Damwild im Wildpark Betzenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Wildpark_Betzenberg.jpg/400px-Damwild_im_Wildpark_Betzenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Wildpark_Betzenberg.jpg/800px-Damwild_im_Wildpark_Betzenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Wildpark_Betzenberg.jpg/1200px-Damwild_im_Wildpark_Betzenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Wildpark_Betzenberg.jpg/1920px-Damwild_im_Wildpark_Betzenberg.jpg
+  Wildschwein im Wildpark Betzenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wildschwein_im_Wildpark_Betzenberg.jpg/400px-Wildschwein_im_Wildpark_Betzenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wildschwein_im_Wildpark_Betzenberg.jpg/800px-Wildschwein_im_Wildpark_Betzenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wildschwein_im_Wildpark_Betzenberg.jpg/1200px-Wildschwein_im_Wildpark_Betzenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wildschwein_im_Wildpark_Betzenberg.jpg/1920px-Wildschwein_im_Wildpark_Betzenberg.jpg
+  Wildschwein mit zwei Jungtieren.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wildschwein_mit_zwei_Jungtieren.jpg/400px-Wildschwein_mit_zwei_Jungtieren.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wildschwein_mit_zwei_Jungtieren.jpg/800px-Wildschwein_mit_zwei_Jungtieren.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wildschwein_mit_zwei_Jungtieren.jpg/1200px-Wildschwein_mit_zwei_Jungtieren.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wildschwein_mit_zwei_Jungtieren.jpg/1920px-Wildschwein_mit_zwei_Jungtieren.jpg
+  Wildschwein mit Jungtier.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wildschwein_mit_Jungtier.jpg/400px-Wildschwein_mit_Jungtier.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wildschwein_mit_Jungtier.jpg/800px-Wildschwein_mit_Jungtier.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wildschwein_mit_Jungtier.jpg/1200px-Wildschwein_mit_Jungtier.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wildschwein_mit_Jungtier.jpg/1920px-Wildschwein_mit_Jungtier.jpg
+  Wildpark KL Stein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/400px-Wildpark_KL_Stein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/800px-Wildpark_KL_Stein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/1200px-Wildpark_KL_Stein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wildpark_KL_Stein.jpg/1920px-Wildpark_KL_Stein.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.34666667
 longitude: 10.36333333
 images:
-  - "/images-sites/reifenstein-abbey/01-9b3d2887-800w.webp"
+  - "/images/reifenstein-abbey/01-9b3d2887-800w.webp"
 ---
 
 ## Overview

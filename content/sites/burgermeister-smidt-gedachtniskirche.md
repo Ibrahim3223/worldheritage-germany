@@ -1,24 +1,51 @@
 ---
-title: "Bürgermeister-Smidt-Gedächtniskirche"
-site_name: "Bürgermeister-Smidt-Gedächtniskirche"
-slug: "burgermeister-smidt-gedachtniskirche"
-region: "Bremen"
-
-# Location
+title: Bürgermeister-Smidt-Gedächtniskirche
+site_name: Bürgermeister-Smidt-Gedächtniskirche
+slug: burgermeister-smidt-gedachtniskirche
+region: Bremen
 latitude: 53.5443
 longitude: 8.57904
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1021217"
-description: "The Bürgermeister-Smidt-Gedächtniskirche is not just a church; it’s a monument of historical and architectural significance located in Bremerhaven, Germ..."
+- church building
+- religious site
+wikidata_id: Q1021217
+description: The Bürgermeister-Smidt-Gedächtniskirche is not just a church; it’s a
+  monument of historical and architectural significance located in Bremerhaven, Germ...
 images:
-  - "/images-sites/burgermeister-smidt-gedachtniskirche/01-99f37241-1920w.webp"
-  - "/images-sites/burgermeister-smidt-gedachtniskirche/02-4491c010-1920w.webp"
-  - "/images-sites/burgermeister-smidt-gedachtniskirche/03-6ad9def5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg/1200px-B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg/1200px-Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg/1200px-Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1200px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg/1200px-Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg
+image_srcset:
+  B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg/400px-B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg/800px-B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg/1200px-B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg/1920px-B%C3%BCrgermeister-Smidt-Ged%C3%A4chtniskirche%20%28Bremerhaven%29.jpg
+  Bremerhaven, Bürgermeister-Smidt-Gedächtniskirche -- 2024 -- 2151.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg/400px-Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg/800px-Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg/1200px-Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg/1920px-Bremerhaven,_Bürgermeister-Smidt-Gedächtniskirche_--_2024_--_2151.jpg
+  Bremerhaven, Stadtansicht -- 2024 -- 2294.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg/400px-Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg/800px-Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg/1200px-Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg/1920px-Bremerhaven,_Stadtansicht_--_2024_--_2294.jpg
+  Bürgermeister-Smidt-Gedächtniskirche (Bremerhaven).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/400px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/800px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1200px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg/1920px-Bürgermeister-Smidt-Gedächtniskirche_(Bremerhaven).jpg
+  Zentralbibliothek Zürich - Bremerhaven - 991099305869705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg/400px-Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg/800px-Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg/1200px-Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg/1920px-Zentralbibliothek_Zürich_-_Bremerhaven_-_991099305869705501.jpg
 ---
 
 ## Overview

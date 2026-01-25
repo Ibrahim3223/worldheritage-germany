@@ -1,19 +1,49 @@
 ---
-title: "Altmühltal"
+title: Altmühltal
 date: 2026-01-24
 draft: false
-description: "valley of the Altmühl"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley of the Altmühl
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9008
 longitude: 11.1707
 images:
-  - "/images-sites/altmuehltal/01-04f5f535-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ilbling_im_Altmühltal.jpg/1200px-Ilbling_im_Altmühltal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Das_12._Exemplar_des_Archaeopteryx_(5).jpg/1200px-Das_12._Exemplar_des_Archaeopteryx_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altmühltal_bei_Kirchanhausen.jpg/1200px-Altmühltal_bei_Kirchanhausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2020_Riedenburg_1.jpg/1200px-2020_Riedenburg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Das_12._Exemplar_des_Archaeopteryx_(7).jpg/1200px-Das_12._Exemplar_des_Archaeopteryx_(7).jpg
+image_srcset:
+  Ilbling im Altmühltal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ilbling_im_Altmühltal.jpg/400px-Ilbling_im_Altmühltal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ilbling_im_Altmühltal.jpg/800px-Ilbling_im_Altmühltal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ilbling_im_Altmühltal.jpg/1200px-Ilbling_im_Altmühltal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ilbling_im_Altmühltal.jpg/1920px-Ilbling_im_Altmühltal.jpg
+  Das 12. Exemplar des Archaeopteryx (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Das_12._Exemplar_des_Archaeopteryx_(5).jpg/400px-Das_12._Exemplar_des_Archaeopteryx_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Das_12._Exemplar_des_Archaeopteryx_(5).jpg/800px-Das_12._Exemplar_des_Archaeopteryx_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Das_12._Exemplar_des_Archaeopteryx_(5).jpg/1200px-Das_12._Exemplar_des_Archaeopteryx_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Das_12._Exemplar_des_Archaeopteryx_(5).jpg/1920px-Das_12._Exemplar_des_Archaeopteryx_(5).jpg
+  Altmühltal bei Kirchanhausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altmühltal_bei_Kirchanhausen.jpg/400px-Altmühltal_bei_Kirchanhausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altmühltal_bei_Kirchanhausen.jpg/800px-Altmühltal_bei_Kirchanhausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altmühltal_bei_Kirchanhausen.jpg/1200px-Altmühltal_bei_Kirchanhausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altmühltal_bei_Kirchanhausen.jpg/1920px-Altmühltal_bei_Kirchanhausen.jpg
+  2020 Riedenburg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2020_Riedenburg_1.jpg/400px-2020_Riedenburg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2020_Riedenburg_1.jpg/800px-2020_Riedenburg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2020_Riedenburg_1.jpg/1200px-2020_Riedenburg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2020_Riedenburg_1.jpg/1920px-2020_Riedenburg_1.jpg
+  Das 12. Exemplar des Archaeopteryx (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Das_12._Exemplar_des_Archaeopteryx_(7).jpg/400px-Das_12._Exemplar_des_Archaeopteryx_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Das_12._Exemplar_des_Archaeopteryx_(7).jpg/800px-Das_12._Exemplar_des_Archaeopteryx_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Das_12._Exemplar_des_Archaeopteryx_(7).jpg/1200px-Das_12._Exemplar_des_Archaeopteryx_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Das_12._Exemplar_des_Archaeopteryx_(7).jpg/1920px-Das_12._Exemplar_des_Archaeopteryx_(7).jpg
 ---
 
 ## Overview

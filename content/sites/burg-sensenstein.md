@@ -1,27 +1,49 @@
 ---
-title: "Burg Sensenstein"
+title: Burg Sensenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3111
 longitude: 9.64444
-
-# Images
 images:
-  - "/images-sites/burg-sensenstein/01-3c9dcd0b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sensenstein_Eingang.jpg/1200px-Sensenstein_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sensenstein_Gasthaus.jpg/1200px-Sensenstein_Gasthaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sensenstein_Riese.jpg/1200px-Sensenstein_Riese.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sensenstein_Wall_1.jpg/1200px-Sensenstein_Wall_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sensenstein_Wall_2.jpg/1200px-Sensenstein_Wall_2.jpg
+image_srcset:
+  Sensenstein Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sensenstein_Eingang.jpg/400px-Sensenstein_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sensenstein_Eingang.jpg/800px-Sensenstein_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sensenstein_Eingang.jpg/1200px-Sensenstein_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sensenstein_Eingang.jpg/1920px-Sensenstein_Eingang.jpg
+  Sensenstein Gasthaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sensenstein_Gasthaus.jpg/400px-Sensenstein_Gasthaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sensenstein_Gasthaus.jpg/800px-Sensenstein_Gasthaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sensenstein_Gasthaus.jpg/1200px-Sensenstein_Gasthaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sensenstein_Gasthaus.jpg/1920px-Sensenstein_Gasthaus.jpg
+  Sensenstein Riese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sensenstein_Riese.jpg/400px-Sensenstein_Riese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sensenstein_Riese.jpg/800px-Sensenstein_Riese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sensenstein_Riese.jpg/1200px-Sensenstein_Riese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sensenstein_Riese.jpg/1920px-Sensenstein_Riese.jpg
+  Sensenstein Wall 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sensenstein_Wall_1.jpg/400px-Sensenstein_Wall_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sensenstein_Wall_1.jpg/800px-Sensenstein_Wall_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sensenstein_Wall_1.jpg/1200px-Sensenstein_Wall_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sensenstein_Wall_1.jpg/1920px-Sensenstein_Wall_1.jpg
+  Sensenstein Wall 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sensenstein_Wall_2.jpg/400px-Sensenstein_Wall_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sensenstein_Wall_2.jpg/800px-Sensenstein_Wall_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sensenstein_Wall_2.jpg/1200px-Sensenstein_Wall_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sensenstein_Wall_2.jpg/1920px-Sensenstein_Wall_2.jpg
 ---
 
 ## Overview

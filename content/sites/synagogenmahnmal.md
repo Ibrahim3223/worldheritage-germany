@@ -13,7 +13,7 @@ regions:
 latitude: 49.4533
 longitude: 11.0807
 images:
-  - "/images-sites/synagogenmahnmal/01-594e5da3-800w.webp"
+  - "/images/synagogenmahnmal/01-594e5da3-800w.webp"
 ---
 
 ## Overview

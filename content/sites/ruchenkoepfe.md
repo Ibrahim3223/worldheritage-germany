@@ -13,7 +13,7 @@ regions:
 latitude: 47.649722222
 longitude: 11.95
 images:
-  - "/images-sites/ruchenkoepfe/01-37061ef9-800w.webp"
+  - "/images/ruchenkoepfe/01-37061ef9-800w.webp"
 ---
 
 ## Overview

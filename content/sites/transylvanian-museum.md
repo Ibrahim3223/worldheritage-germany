@@ -13,7 +13,7 @@ regions:
 latitude: 49.2867
 longitude: 9.15645
 images:
-  - "/images-sites/transylvanian-museum/01-1983b3e6-800w.webp"
+  - "/images/transylvanian-museum/01-1983b3e6-800w.webp"
 ---
 
 ## Overview

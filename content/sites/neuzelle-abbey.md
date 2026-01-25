@@ -13,7 +13,7 @@ regions:
 latitude: 52.0906
 longitude: 14.6522
 images:
-  - "/images-sites/neuzelle-abbey/01-5697e3f8-800w.webp"
+  - "/images/neuzelle-abbey/01-5697e3f8-800w.webp"
 ---
 
 ## Overview

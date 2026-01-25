@@ -1,27 +1,49 @@
 ---
-title: "Burg Heid"
+title: Burg Heid
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.6417
 longitude: 6.72917
-
-# Images
 images:
-  - "/images-sites/burg-heid/01-b8e511f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1200px-Burg_Heid_014x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heiderhof2.jpg/1200px-Heiderhof2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heiderhof6.jpg/1200px-Heiderhof6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-heid-schillingen.jpg/1200px-Burg-heid-schillingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png/1200px-Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png
+image_srcset:
+  Burg Heid 014x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/400px-Burg_Heid_014x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/800px-Burg_Heid_014x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1200px-Burg_Heid_014x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Heid_014x.jpg/1920px-Burg_Heid_014x.jpg
+  Heiderhof2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heiderhof2.jpg/400px-Heiderhof2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heiderhof2.jpg/800px-Heiderhof2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heiderhof2.jpg/1200px-Heiderhof2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heiderhof2.jpg/1920px-Heiderhof2.jpg
+  Heiderhof6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heiderhof6.jpg/400px-Heiderhof6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heiderhof6.jpg/800px-Heiderhof6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heiderhof6.jpg/1200px-Heiderhof6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Heiderhof6.jpg/1920px-Heiderhof6.jpg
+  Burg-heid-schillingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-heid-schillingen.jpg/400px-Burg-heid-schillingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-heid-schillingen.jpg/800px-Burg-heid-schillingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-heid-schillingen.jpg/1200px-Burg-heid-schillingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-heid-schillingen.jpg/1920px-Burg-heid-schillingen.jpg
+  Bevölkerungspyramide Kreis Trier-Saarburg 2011.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png/400px-Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png/800px-Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png/1200px-Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png/1920px-Bevölkerungspyramide_Kreis_Trier-Saarburg_2011.png
 ---
 
 ## Overview

@@ -1,27 +1,43 @@
 ---
-title: "Ernst Barre Private Brewery"
+title: Ernst Barre Private Brewery
 date: 2026-01-23
 draft: false
-description: "brewery in Lübbecke, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Lübbecke, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.295
 longitude: 8.618888888
-
-# Images
 images:
-  - "/images-sites/ernst-barre-private-brewery/01-beab715a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luebbecke_Brauerei_Barre_1.JPG/1200px-Luebbecke_Brauerei_Barre_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg/1200px-Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/1200px-2010-05-11_Vlotho_110.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BarreBierflaschen.jpg/1200px-BarreBierflaschen.jpg
+image_srcset:
+  Luebbecke Brauerei Barre 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luebbecke_Brauerei_Barre_1.JPG/400px-Luebbecke_Brauerei_Barre_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luebbecke_Brauerei_Barre_1.JPG/800px-Luebbecke_Brauerei_Barre_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luebbecke_Brauerei_Barre_1.JPG/1200px-Luebbecke_Brauerei_Barre_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luebbecke_Brauerei_Barre_1.JPG/1920px-Luebbecke_Brauerei_Barre_1.JPG
+  Privatbrauerei Ernst Barre - Barre Pilsener.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg/400px-Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg/800px-Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg/1200px-Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg/1920px-Privatbrauerei_Ernst_Barre_-_Barre_Pilsener.jpg
+  2010-05-11 Vlotho 110.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/400px-2010-05-11_Vlotho_110.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/800px-2010-05-11_Vlotho_110.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/1200px-2010-05-11_Vlotho_110.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/1920px-2010-05-11_Vlotho_110.jpg
+  BarreBierflaschen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BarreBierflaschen.jpg/400px-BarreBierflaschen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BarreBierflaschen.jpg/800px-BarreBierflaschen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BarreBierflaschen.jpg/1200px-BarreBierflaschen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BarreBierflaschen.jpg/1920px-BarreBierflaschen.jpg
 ---
 
 ## Overview

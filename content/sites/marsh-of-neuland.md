@@ -13,7 +13,7 @@ regions:
 latitude: 53.45
 longitude: 10.033333333
 images:
-  - "/images-sites/marsh-of-neuland/01-28495a0e-800w.webp"
+  - "/images/marsh-of-neuland/01-28495a0e-800w.webp"
 ---
 
 ## Overview

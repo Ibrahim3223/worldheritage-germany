@@ -1,24 +1,51 @@
 ---
-title: "Immanuelkirche"
-site_name: "Immanuelkirche"
-slug: "immanuelkirche"
-region: "Brandenburg"
-
-# Location
+title: Immanuelkirche
+site_name: Immanuelkirche
+slug: immanuelkirche
+region: Brandenburg
 latitude: 52.1034
 longitude: 11.6748
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1659954"
-description: "In the heart of Magdeburg, Germany, stands the Immanuelkirche, a striking example of Gothic Revival architecture. This church, designed by the renowned ..."
+- church building
+- religious site
+wikidata_id: Q1659954
+description: In the heart of Magdeburg, Germany, stands the Immanuelkirche, a striking
+  example of Gothic Revival architecture. This church, designed by the renowned ...
 images:
-  - "/images-sites/immanuelkirche/01-686a5efa-1920w.webp"
-  - "/images-sites/immanuelkirche/02-b59fc5d7-1920w.webp"
-  - "/images-sites/immanuelkirche/03-f18fe0a7-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Immanuel1.jpg/1200px-Immanuel1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1200px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg/1200px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg/1200px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg/1200px-Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg
+image_srcset:
+  Immanuel1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Immanuel1.jpg/400px-Immanuel1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Immanuel1.jpg/800px-Immanuel1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Immanuel1.jpg/1200px-Immanuel1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Immanuel1.jpg/1920px-Immanuel1.jpg
+  Kirchturm und Gemeindehaus, Immanuelkirche Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/400px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/800px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1200px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG/1920px-Kirchturm_und_Gemeindehaus,_Immanuelkirche_Berlin.JPG
+  Düsseldorf-Friedrichstadt, Immanuelkirche (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg/400px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg/800px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg/1200px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg/1920px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(04).jpg
+  Düsseldorf-Friedrichstadt, Immanuelkirche (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg/400px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg/800px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg/1200px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg/1920px-Düsseldorf-Friedrichstadt,_Immanuelkirche_(12).jpg
+  Berlin-Prenzlauer Berg, Immanuelkirche, Orgel (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg/400px-Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg/800px-Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg/1200px-Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg/1920px-Berlin-Prenzlauer_Berg,_Immanuelkirche,_Orgel_(1).jpg
 ---
 
 ## Overview

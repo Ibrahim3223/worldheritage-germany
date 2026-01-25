@@ -1,19 +1,49 @@
 ---
-title: "Aachen Chapel of Hungary"
+title: Aachen Chapel of Hungary
 date: 2026-01-23
 draft: false
-description: "Hungarian Chapel of the Aachen Cathedral"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: Hungarian Chapel of the Aachen Cathedral
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 50.77475
 longitude: 6.083922222
 images:
-  - "/images-sites/aachen-chapel-of-hungary/01-5e4db857-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/1200px-Ungarnkapelle_Aachener_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AC_Dom_Wappen_Ungarnkapelle.jpg/1200px-AC_Dom_Wappen_Ungarnkapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aachener_Dom_077.jpg/1200px-Aachener_Dom_077.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AachenerDomVomMuensterplatz.jpg/1200px-AachenerDomVomMuensterplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/5723670.Erwin_Quedenfeldt.jpg/1200px-5723670.Erwin_Quedenfeldt.jpg
+image_srcset:
+  Ungarnkapelle Aachener Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/400px-Ungarnkapelle_Aachener_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/800px-Ungarnkapelle_Aachener_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/1200px-Ungarnkapelle_Aachener_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ungarnkapelle_Aachener_Dom.jpg/1920px-Ungarnkapelle_Aachener_Dom.jpg
+  AC Dom Wappen Ungarnkapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AC_Dom_Wappen_Ungarnkapelle.jpg/400px-AC_Dom_Wappen_Ungarnkapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AC_Dom_Wappen_Ungarnkapelle.jpg/800px-AC_Dom_Wappen_Ungarnkapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AC_Dom_Wappen_Ungarnkapelle.jpg/1200px-AC_Dom_Wappen_Ungarnkapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AC_Dom_Wappen_Ungarnkapelle.jpg/1920px-AC_Dom_Wappen_Ungarnkapelle.jpg
+  Aachener Dom 077.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aachener_Dom_077.jpg/400px-Aachener_Dom_077.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aachener_Dom_077.jpg/800px-Aachener_Dom_077.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aachener_Dom_077.jpg/1200px-Aachener_Dom_077.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aachener_Dom_077.jpg/1920px-Aachener_Dom_077.jpg
+  AachenerDomVomMuensterplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AachenerDomVomMuensterplatz.jpg/400px-AachenerDomVomMuensterplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AachenerDomVomMuensterplatz.jpg/800px-AachenerDomVomMuensterplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AachenerDomVomMuensterplatz.jpg/1200px-AachenerDomVomMuensterplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AachenerDomVomMuensterplatz.jpg/1920px-AachenerDomVomMuensterplatz.jpg
+  5723670.Erwin Quedenfeldt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/5723670.Erwin_Quedenfeldt.jpg/400px-5723670.Erwin_Quedenfeldt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/5723670.Erwin_Quedenfeldt.jpg/800px-5723670.Erwin_Quedenfeldt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/5723670.Erwin_Quedenfeldt.jpg/1200px-5723670.Erwin_Quedenfeldt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/5723670.Erwin_Quedenfeldt.jpg/1920px-5723670.Erwin_Quedenfeldt.jpg
 ---
 
 ## Overview

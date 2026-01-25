@@ -1,24 +1,45 @@
 ---
-title: "Evangelische Stadtkirche Möckmühl"
-site_name: "Evangelische Stadtkirche Möckmühl"
-slug: "evangelische-stadtkirche-mockmuhl"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische Stadtkirche Möckmühl
+site_name: Evangelische Stadtkirche Möckmühl
+slug: evangelische-stadtkirche-mockmuhl
+region: Baden-Württemberg
 latitude: 49.3227
 longitude: 9.36083
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381164"
-description: "The Evangelische Stadtkirche Möckmühl is not just a place of worship; it is a striking example of Gothic Revival architecture that captures the imaginat..."
+- church building
+- religious site
+wikidata_id: Q1381164
+description: The Evangelische Stadtkirche Möckmühl is not just a place of worship;
+  it is a striking example of Gothic Revival architecture that captures the imaginat...
 images:
-  - "/images-sites/evangelische-stadtkirche-mockmuhl/01-dc3ba95b-1920w.webp"
-  - "/images-sites/evangelische-stadtkirche-mockmuhl/02-d698911a-1920w.webp"
-  - "/images-sites/evangelische-stadtkirche-mockmuhl/03-1d150001-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1200px-Moeckmuehl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Möckmühl,_Stadtpfarrkirche-001.jpg/1200px-Möckmühl,_Stadtpfarrkirche-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/1200px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Moeckmuehl-stadtkirche-7.jpg/1200px-Moeckmuehl-stadtkirche-7.jpg
+image_srcset:
+  Moeckmuehl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/400px-Moeckmuehl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/800px-Moeckmuehl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1200px-Moeckmuehl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moeckmuehl.jpg/1920px-Moeckmuehl.jpg
+  Möckmühl, Stadtpfarrkirche-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Möckmühl,_Stadtpfarrkirche-001.jpg/400px-Möckmühl,_Stadtpfarrkirche-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Möckmühl,_Stadtpfarrkirche-001.jpg/800px-Möckmühl,_Stadtpfarrkirche-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Möckmühl,_Stadtpfarrkirche-001.jpg/1200px-Möckmühl,_Stadtpfarrkirche-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Möckmühl,_Stadtpfarrkirche-001.jpg/1920px-Möckmühl,_Stadtpfarrkirche-001.jpg
+  Landappbw 296006 1817 Blick auf Möckmühl aus südöstlicher Richtung. Möckmühl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/400px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/800px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/1200px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/1920px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+  Moeckmuehl-stadtkirche-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Moeckmuehl-stadtkirche-7.jpg/400px-Moeckmuehl-stadtkirche-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Moeckmuehl-stadtkirche-7.jpg/800px-Moeckmuehl-stadtkirche-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Moeckmuehl-stadtkirche-7.jpg/1200px-Moeckmuehl-stadtkirche-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Moeckmuehl-stadtkirche-7.jpg/1920px-Moeckmuehl-stadtkirche-7.jpg
 ---
 
 ## Overview

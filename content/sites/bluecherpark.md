@@ -1,19 +1,49 @@
 ---
-title: "Blücherpark"
+title: Blücherpark
 date: 2026-01-23
 draft: false
-description: "park in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9632
 longitude: 6.9268
 images:
-  - "/images-sites/bluecherpark/01-53b53747-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2020-04-19-Volksgarten_360-0415.jpg/1200px-2020-04-19-Volksgarten_360-0415.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/See_bluecherpark_3.jpg/1200px-See_bluecherpark_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2017-04-19-Blücherpark_Luft-0011.jpg/1200px-2017-04-19-Blücherpark_Luft-0011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2017-01-29-Blücherpark_Air-0013.jpg/1200px-2017-01-29-Blücherpark_Air-0013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blücherpark_Köln_OSM_map.svg/1200px-Blücherpark_Köln_OSM_map.svg.png
+image_srcset:
+  2020-04-19-Volksgarten 360-0415.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2020-04-19-Volksgarten_360-0415.jpg/400px-2020-04-19-Volksgarten_360-0415.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2020-04-19-Volksgarten_360-0415.jpg/800px-2020-04-19-Volksgarten_360-0415.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2020-04-19-Volksgarten_360-0415.jpg/1200px-2020-04-19-Volksgarten_360-0415.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2020-04-19-Volksgarten_360-0415.jpg/1920px-2020-04-19-Volksgarten_360-0415.jpg
+  See bluecherpark 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/See_bluecherpark_3.jpg/400px-See_bluecherpark_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/See_bluecherpark_3.jpg/800px-See_bluecherpark_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/See_bluecherpark_3.jpg/1200px-See_bluecherpark_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/See_bluecherpark_3.jpg/1920px-See_bluecherpark_3.jpg
+  2017-04-19-Blücherpark Luft-0011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2017-04-19-Blücherpark_Luft-0011.jpg/400px-2017-04-19-Blücherpark_Luft-0011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2017-04-19-Blücherpark_Luft-0011.jpg/800px-2017-04-19-Blücherpark_Luft-0011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2017-04-19-Blücherpark_Luft-0011.jpg/1200px-2017-04-19-Blücherpark_Luft-0011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2017-04-19-Blücherpark_Luft-0011.jpg/1920px-2017-04-19-Blücherpark_Luft-0011.jpg
+  2017-01-29-Blücherpark Air-0013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2017-01-29-Blücherpark_Air-0013.jpg/400px-2017-01-29-Blücherpark_Air-0013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2017-01-29-Blücherpark_Air-0013.jpg/800px-2017-01-29-Blücherpark_Air-0013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2017-01-29-Blücherpark_Air-0013.jpg/1200px-2017-01-29-Blücherpark_Air-0013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2017-01-29-Blücherpark_Air-0013.jpg/1920px-2017-01-29-Blücherpark_Air-0013.jpg
+  Blücherpark Köln OSM map.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blücherpark_Köln_OSM_map.svg/400px-Blücherpark_Köln_OSM_map.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blücherpark_Köln_OSM_map.svg/800px-Blücherpark_Köln_OSM_map.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blücherpark_Köln_OSM_map.svg/1200px-Blücherpark_Köln_OSM_map.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blücherpark_Köln_OSM_map.svg/1920px-Blücherpark_Köln_OSM_map.svg.png
 ---
 
 ## Overview

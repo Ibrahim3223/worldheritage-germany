@@ -13,7 +13,7 @@ regions:
 latitude: 50.728611
 longitude: 6.178056
 images:
-  - "/images-sites/kornelimuenster-abbey/01-ecbe4132-800w.webp"
+  - "/images/kornelimuenster-abbey/01-ecbe4132-800w.webp"
 ---
 
 ## Overview

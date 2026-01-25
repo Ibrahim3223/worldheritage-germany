@@ -13,9 +13,9 @@ regions:
 latitude: 48.1384
 longitude: 11.5809
 images:
-  - "/images-sites/wolfsbrunnen-muenchen/01-8ce674a0-800w.webp"
-  - "/images-sites/wolfsbrunnen-muenchen/02-de1bae9e-800w.webp"
-  - "/images-sites/wolfsbrunnen-muenchen/03-33ac279e-800w.webp"
+  - "/images/wolfsbrunnen-muenchen/01-8ce674a0-800w.webp"
+  - "/images/wolfsbrunnen-muenchen/02-de1bae9e-800w.webp"
+  - "/images/wolfsbrunnen-muenchen/03-33ac279e-800w.webp"
 ---
 
 ## Overview

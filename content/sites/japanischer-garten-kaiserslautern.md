@@ -1,19 +1,43 @@
 ---
-title: "Japanischer Garten, Kaiserslautern"
+title: Japanischer Garten, Kaiserslautern
 date: 2026-01-23
 draft: false
-description: "Japanese garden in Kaiserslautern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: Japanese garden in Kaiserslautern, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4478
 longitude: 7.76556
 images:
-  - "/images-sites/japanischer-garten-kaiserslautern/01-b9c2ac60-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bach_Japangarten_Kaiserslautern_19.JPG/1200px-Bach_Japangarten_Kaiserslautern_19.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg/1200px-Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/P9232628.JPG/1200px-P9232628.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleiner_Buda.jpg/1200px-Kleiner_Buda.jpg
+image_srcset:
+  Bach Japangarten Kaiserslautern 19.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bach_Japangarten_Kaiserslautern_19.JPG/400px-Bach_Japangarten_Kaiserslautern_19.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bach_Japangarten_Kaiserslautern_19.JPG/800px-Bach_Japangarten_Kaiserslautern_19.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bach_Japangarten_Kaiserslautern_19.JPG/1200px-Bach_Japangarten_Kaiserslautern_19.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bach_Japangarten_Kaiserslautern_19.JPG/1920px-Bach_Japangarten_Kaiserslautern_19.JPG
+  Trittsteine am oberen Teich Japanischer Garten Kaiserslautern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg/400px-Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg/800px-Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg/1200px-Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg/1920px-Trittsteine_am_oberen_Teich_Japanischer_Garten_Kaiserslautern.jpg
+  P9232628.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/P9232628.JPG/400px-P9232628.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/P9232628.JPG/800px-P9232628.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/P9232628.JPG/1200px-P9232628.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/P9232628.JPG/1920px-P9232628.JPG
+  Kleiner Buda.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleiner_Buda.jpg/400px-Kleiner_Buda.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleiner_Buda.jpg/800px-Kleiner_Buda.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleiner_Buda.jpg/1200px-Kleiner_Buda.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kleiner_Buda.jpg/1920px-Kleiner_Buda.jpg
 ---
 
 ## Overview

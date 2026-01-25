@@ -13,9 +13,9 @@ regions:
 latitude: 53.869166666
 longitude: 10.689444444
 images:
-  - "/images-sites/st-catherines-church/01-e1cfd3cc-800w.webp"
-  - "/images-sites/st-catherines-church/02-883040ea-800w.webp"
-  - "/images-sites/st-catherines-church/03-bb0d528f-800w.webp"
+  - "/images/st-catherines-church/01-e1cfd3cc-800w.webp"
+  - "/images/st-catherines-church/02-883040ea-800w.webp"
+  - "/images/st-catherines-church/03-bb0d528f-800w.webp"
 ---
 
 ## Overview 

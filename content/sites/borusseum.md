@@ -1,21 +1,49 @@
 ---
-title: "Borusseum"
+title: Borusseum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4937395
 longitude: 7.4529653
 images:
-  - "/images-sites/borusseum/01-fe43f66a-800w.webp"
-  - "/images-sites/borusseum/02-eea4ad99-800w.webp"
-  - "/images-sites/borusseum/03-6354c094-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Borusseum,_Aufzug.jpg/1200px-Borusseum,_Aufzug.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borusseum,_Eingang.jpg/1200px-Borusseum,_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Borusseum_Aufzug.jpg/1200px-Borusseum_Aufzug.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Borusseum_Eingang.jpg/1200px-Borusseum_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1200px-Borusseum.jpg
+image_srcset:
+  Borusseum, Aufzug.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Borusseum,_Aufzug.jpg/400px-Borusseum,_Aufzug.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Borusseum,_Aufzug.jpg/800px-Borusseum,_Aufzug.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Borusseum,_Aufzug.jpg/1200px-Borusseum,_Aufzug.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Borusseum,_Aufzug.jpg/1920px-Borusseum,_Aufzug.jpg
+  Borusseum, Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borusseum,_Eingang.jpg/400px-Borusseum,_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borusseum,_Eingang.jpg/800px-Borusseum,_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borusseum,_Eingang.jpg/1200px-Borusseum,_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Borusseum,_Eingang.jpg/1920px-Borusseum,_Eingang.jpg
+  Borusseum Aufzug.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Borusseum_Aufzug.jpg/400px-Borusseum_Aufzug.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Borusseum_Aufzug.jpg/800px-Borusseum_Aufzug.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Borusseum_Aufzug.jpg/1200px-Borusseum_Aufzug.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Borusseum_Aufzug.jpg/1920px-Borusseum_Aufzug.jpg
+  Borusseum Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Borusseum_Eingang.jpg/400px-Borusseum_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Borusseum_Eingang.jpg/800px-Borusseum_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Borusseum_Eingang.jpg/1200px-Borusseum_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Borusseum_Eingang.jpg/1920px-Borusseum_Eingang.jpg
+  Borusseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/400px-Borusseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/800px-Borusseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1200px-Borusseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Borusseum.jpg/1920px-Borusseum.jpg
 ---
 
 ## Overview

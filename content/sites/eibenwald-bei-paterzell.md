@@ -1,19 +1,49 @@
 ---
-title: "Eibenwald bei Paterzell"
+title: Eibenwald bei Paterzell
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.856111111
 longitude: 11.046111111
 images:
-  - "/images-sites/eibenwald-bei-paterzell/01-e96d57c7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg/1200px-Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg/1200px-Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg/1200px-Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paterzeller_Eibenwald_Efeu_am_Stamm.jpg/1200px-Paterzeller_Eibenwald_Efeu_am_Stamm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Paterzeller_Eibenwald_02.jpg/1200px-Paterzeller_Eibenwald_02.jpg
+image_srcset:
+  Taxus baccata - Paterzeller Eibenwald 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg/400px-Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg/800px-Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg/1200px-Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg/1920px-Taxus_baccata_-_Paterzeller_Eibenwald_04.jpg
+  Taxus baccata - Paterzeller Eibenwald 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg/400px-Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg/800px-Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg/1200px-Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg/1920px-Taxus_baccata_-_Paterzeller_Eibenwald_05.jpg
+  Taxus baccata - Paterzeller Eibenwald 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg/400px-Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg/800px-Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg/1200px-Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg/1920px-Taxus_baccata_-_Paterzeller_Eibenwald_07.jpg
+  Paterzeller Eibenwald Efeu am Stamm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paterzeller_Eibenwald_Efeu_am_Stamm.jpg/400px-Paterzeller_Eibenwald_Efeu_am_Stamm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paterzeller_Eibenwald_Efeu_am_Stamm.jpg/800px-Paterzeller_Eibenwald_Efeu_am_Stamm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paterzeller_Eibenwald_Efeu_am_Stamm.jpg/1200px-Paterzeller_Eibenwald_Efeu_am_Stamm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paterzeller_Eibenwald_Efeu_am_Stamm.jpg/1920px-Paterzeller_Eibenwald_Efeu_am_Stamm.jpg
+  Paterzeller Eibenwald 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Paterzeller_Eibenwald_02.jpg/400px-Paterzeller_Eibenwald_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Paterzeller_Eibenwald_02.jpg/800px-Paterzeller_Eibenwald_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Paterzeller_Eibenwald_02.jpg/1200px-Paterzeller_Eibenwald_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Paterzeller_Eibenwald_02.jpg/1920px-Paterzeller_Eibenwald_02.jpg
 ---
 
 ## Overview

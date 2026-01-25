@@ -1,21 +1,49 @@
 ---
-title: "Burg Montfort"
+title: Burg Montfort
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7654
 longitude: 7.76736
 images:
-  - "/images-sites/burg-montfort/01-e34b53ad-800w.webp"
-  - "/images-sites/burg-montfort/02-e576cc65-800w.webp"
-  - "/images-sites/burg-montfort/03-6706cffd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Montfort-Bergfried.JPG/1200px-Burg_Montfort-Bergfried.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20140531_134926Ruine.JPG/1200px-20140531_134926Ruine.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/20140531_135248Ruine.JPG/1200px-20140531_135248Ruine.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Montfort_(_Pfalz_).jpg/1200px-Burgruine_Montfort_(_Pfalz_).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/1200px-Montfort2.jpg
+image_srcset:
+  Burg Montfort-Bergfried.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Montfort-Bergfried.JPG/400px-Burg_Montfort-Bergfried.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Montfort-Bergfried.JPG/800px-Burg_Montfort-Bergfried.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Montfort-Bergfried.JPG/1200px-Burg_Montfort-Bergfried.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Montfort-Bergfried.JPG/1920px-Burg_Montfort-Bergfried.JPG
+  20140531 134926Ruine.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20140531_134926Ruine.JPG/400px-20140531_134926Ruine.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20140531_134926Ruine.JPG/800px-20140531_134926Ruine.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20140531_134926Ruine.JPG/1200px-20140531_134926Ruine.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20140531_134926Ruine.JPG/1920px-20140531_134926Ruine.JPG
+  20140531 135248Ruine.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/20140531_135248Ruine.JPG/400px-20140531_135248Ruine.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/20140531_135248Ruine.JPG/800px-20140531_135248Ruine.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/20140531_135248Ruine.JPG/1200px-20140531_135248Ruine.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/20140531_135248Ruine.JPG/1920px-20140531_135248Ruine.JPG
+  Burgruine Montfort ( Pfalz ).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Montfort_(_Pfalz_).jpg/400px-Burgruine_Montfort_(_Pfalz_).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Montfort_(_Pfalz_).jpg/800px-Burgruine_Montfort_(_Pfalz_).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Montfort_(_Pfalz_).jpg/1200px-Burgruine_Montfort_(_Pfalz_).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Burgruine_Montfort_(_Pfalz_).jpg/1920px-Burgruine_Montfort_(_Pfalz_).jpg
+  Montfort2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/400px-Montfort2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/800px-Montfort2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/1200px-Montfort2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Montfort2.jpg/1920px-Montfort2.jpg
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Christuskirche (Hennstedt)"
-site_name: "Christuskirche (Hennstedt)"
-slug: "christuskirche-hennstedt"
-region: "Schleswig-Holstein"
-
-# Location
+title: Christuskirche (Hennstedt)
+site_name: Christuskirche (Hennstedt)
+slug: christuskirche-hennstedt
+region: Schleswig-Holstein
 latitude: 54.0308
 longitude: 9.71472
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087337"
-description: "In the quiet region of Hennstedt, Germany, Christuskirche stands as a remarkable example of Gothic Revival architecture. This church, designed by archit..."
+- church building
+- religious site
+wikidata_id: Q1087337
+description: In the quiet region of Hennstedt, Germany, Christuskirche stands as a
+  remarkable example of Gothic Revival architecture. This church, designed by archit...
 images:
-  - "/images-sites/christuskirche-hennstedt/01-a09854f9-1920w.webp"
-  - "/images-sites/christuskirche-hennstedt/02-db653604-1920w.webp"
-  - "/images-sites/christuskirche-hennstedt/03-f2ba6888-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hennstedt%20%28Steinburg%29%20Kirche.jpg/1200px-Hennstedt%20%28Steinburg%29%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Apsis_der_Christuskirche_(Hennstedt).jpg/1200px-Apsis_der_Christuskirche_(Hennstedt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Der_gute_Hirte_(Hennstedt).jpg/1200px-Der_gute_Hirte_(Hennstedt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg/1200px-Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/1200px-Hennstedt_(Steinburg)_Kirche.jpg
+image_srcset:
+  Hennstedt%20%28Steinburg%29%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hennstedt%20%28Steinburg%29%20Kirche.jpg/400px-Hennstedt%20%28Steinburg%29%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hennstedt%20%28Steinburg%29%20Kirche.jpg/800px-Hennstedt%20%28Steinburg%29%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hennstedt%20%28Steinburg%29%20Kirche.jpg/1200px-Hennstedt%20%28Steinburg%29%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hennstedt%20%28Steinburg%29%20Kirche.jpg/1920px-Hennstedt%20%28Steinburg%29%20Kirche.jpg
+  Apsis der Christuskirche (Hennstedt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Apsis_der_Christuskirche_(Hennstedt).jpg/400px-Apsis_der_Christuskirche_(Hennstedt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Apsis_der_Christuskirche_(Hennstedt).jpg/800px-Apsis_der_Christuskirche_(Hennstedt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Apsis_der_Christuskirche_(Hennstedt).jpg/1200px-Apsis_der_Christuskirche_(Hennstedt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Apsis_der_Christuskirche_(Hennstedt).jpg/1920px-Apsis_der_Christuskirche_(Hennstedt).jpg
+  Der gute Hirte (Hennstedt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Der_gute_Hirte_(Hennstedt).jpg/400px-Der_gute_Hirte_(Hennstedt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Der_gute_Hirte_(Hennstedt).jpg/800px-Der_gute_Hirte_(Hennstedt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Der_gute_Hirte_(Hennstedt).jpg/1200px-Der_gute_Hirte_(Hennstedt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Der_gute_Hirte_(Hennstedt).jpg/1920px-Der_gute_Hirte_(Hennstedt).jpg
+  Geschichtstafel am Eingangsportal der Christuskirche (Hennstedt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg/400px-Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg/800px-Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg/1200px-Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg/1920px-Geschichtstafel_am_Eingangsportal_der_Christuskirche_(Hennstedt).jpg
+  Hennstedt (Steinburg) Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/400px-Hennstedt_(Steinburg)_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/800px-Hennstedt_(Steinburg)_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/1200px-Hennstedt_(Steinburg)_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hennstedt_(Steinburg)_Kirche.jpg/1920px-Hennstedt_(Steinburg)_Kirche.jpg
 ---
 
 ## Overview

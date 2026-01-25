@@ -13,7 +13,7 @@ regions:
 latitude: 47.702778
 longitude: 12.012222
 images:
-  - "/images-sites/wendelstein/01-4b4bd948-800w.webp"
+  - "/images/wendelstein/01-4b4bd948-800w.webp"
 ---
 
 ## Overview

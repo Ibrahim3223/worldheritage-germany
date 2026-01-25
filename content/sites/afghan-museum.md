@@ -1,19 +1,43 @@
 ---
-title: "Afghan Museum"
+title: Afghan Museum
 date: 2026-01-23
 draft: false
-description: "private museum of culture and cultural history of Afghanistan"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: private museum of culture and cultural history of Afghanistan
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54333333
 longitude: 9.98944444
 images:
-  - "/images-sites/afghan-museum/01-6c679805-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Omara_Khan_Massoudi.jpg/1200px-Omara_Khan_Massoudi.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Omara_Khan_Massoudi_(cropped).jpg/1200px-Omara_Khan_Massoudi_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gewürz-Afghanisches_Museum_2.JPG/1200px-Gewürz-Afghanisches_Museum_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Germany_Hamburg_adm_location_map.svg/1200px-Germany_Hamburg_adm_location_map.svg.png
+image_srcset:
+  Omara Khan Massoudi.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Omara_Khan_Massoudi.jpg/400px-Omara_Khan_Massoudi.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Omara_Khan_Massoudi.jpg/800px-Omara_Khan_Massoudi.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Omara_Khan_Massoudi.jpg/1200px-Omara_Khan_Massoudi.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Omara_Khan_Massoudi.jpg/1920px-Omara_Khan_Massoudi.jpg
+  Omara Khan Massoudi (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Omara_Khan_Massoudi_(cropped).jpg/400px-Omara_Khan_Massoudi_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Omara_Khan_Massoudi_(cropped).jpg/800px-Omara_Khan_Massoudi_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Omara_Khan_Massoudi_(cropped).jpg/1200px-Omara_Khan_Massoudi_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Omara_Khan_Massoudi_(cropped).jpg/1920px-Omara_Khan_Massoudi_(cropped).jpg
+  Gewürz-Afghanisches Museum 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gewürz-Afghanisches_Museum_2.JPG/400px-Gewürz-Afghanisches_Museum_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gewürz-Afghanisches_Museum_2.JPG/800px-Gewürz-Afghanisches_Museum_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gewürz-Afghanisches_Museum_2.JPG/1200px-Gewürz-Afghanisches_Museum_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gewürz-Afghanisches_Museum_2.JPG/1920px-Gewürz-Afghanisches_Museum_2.JPG
+  Germany Hamburg adm location map.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Germany_Hamburg_adm_location_map.svg/400px-Germany_Hamburg_adm_location_map.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Germany_Hamburg_adm_location_map.svg/800px-Germany_Hamburg_adm_location_map.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Germany_Hamburg_adm_location_map.svg/1200px-Germany_Hamburg_adm_location_map.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Germany_Hamburg_adm_location_map.svg/1920px-Germany_Hamburg_adm_location_map.svg.png
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hasenbach"
+title: Hasenbach
 date: 2026-01-24
 draft: false
-description: "river in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: river in Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.2564
 longitude: 9.44841
 images:
-  - "/images-sites/hasenbach/01-c2768c0d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Glastal-6030.jpg/1200px-Glastal-6030.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Paschkowitz_Am_Hasenbach_10.jpg/1200px-Paschkowitz_Am_Hasenbach_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/149_Glastal.jpg/1200px-149_Glastal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG/1200px-Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Reichshof-lage-hasenbach.png/1200px-Reichshof-lage-hasenbach.png
+image_srcset:
+  Glastal-6030.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Glastal-6030.jpg/400px-Glastal-6030.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Glastal-6030.jpg/800px-Glastal-6030.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Glastal-6030.jpg/1200px-Glastal-6030.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Glastal-6030.jpg/1920px-Glastal-6030.jpg
+  Paschkowitz Am Hasenbach 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Paschkowitz_Am_Hasenbach_10.jpg/400px-Paschkowitz_Am_Hasenbach_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Paschkowitz_Am_Hasenbach_10.jpg/800px-Paschkowitz_Am_Hasenbach_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Paschkowitz_Am_Hasenbach_10.jpg/1200px-Paschkowitz_Am_Hasenbach_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Paschkowitz_Am_Hasenbach_10.jpg/1920px-Paschkowitz_Am_Hasenbach_10.jpg
+  149 Glastal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/149_Glastal.jpg/400px-149_Glastal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/149_Glastal.jpg/800px-149_Glastal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/149_Glastal.jpg/1200px-149_Glastal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/149_Glastal.jpg/1920px-149_Glastal.jpg
+  Offenbach GROß-HASENBACH-STR IMG 0533.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG/400px-Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG/800px-Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG/1200px-Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG/1920px-Offenbach_GROß-HASENBACH-STR_IMG_0533.JPG
+  Reichshof-lage-hasenbach.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Reichshof-lage-hasenbach.png/400px-Reichshof-lage-hasenbach.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Reichshof-lage-hasenbach.png/800px-Reichshof-lage-hasenbach.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Reichshof-lage-hasenbach.png/1200px-Reichshof-lage-hasenbach.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Reichshof-lage-hasenbach.png/1920px-Reichshof-lage-hasenbach.png
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Gutenburg Castle"
+title: Gutenburg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8819
 longitude: 7.79864
-
-# Images
 images:
-  - "/images-sites/gutenburg-castle/01-86b3cfcc-800w.webp"
-  - "/images-sites/gutenburg-castle/02-2fd0907a-800w.webp"
-  - "/images-sites/gutenburg-castle/03-77899a39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgruine_Gutenburg.jpg/1200px-Burgruine_Gutenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ruine_der_Gutenburg.JPG/1200px-Ruine_der_Gutenburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gutenburg01.jpg/1200px-Gutenburg01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/1200px-Gutenburg_bei_Gutenberg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg/1200px-Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg
+image_srcset:
+  Burgruine Gutenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgruine_Gutenburg.jpg/400px-Burgruine_Gutenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgruine_Gutenburg.jpg/800px-Burgruine_Gutenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgruine_Gutenburg.jpg/1200px-Burgruine_Gutenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgruine_Gutenburg.jpg/1920px-Burgruine_Gutenburg.jpg
+  Ruine der Gutenburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ruine_der_Gutenburg.JPG/400px-Ruine_der_Gutenburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ruine_der_Gutenburg.JPG/800px-Ruine_der_Gutenburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ruine_der_Gutenburg.JPG/1200px-Ruine_der_Gutenburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ruine_der_Gutenburg.JPG/1920px-Ruine_der_Gutenburg.JPG
+  Gutenburg01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gutenburg01.jpg/400px-Gutenburg01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gutenburg01.jpg/800px-Gutenburg01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gutenburg01.jpg/1200px-Gutenburg01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gutenburg01.jpg/1920px-Gutenburg01.jpg
+  Gutenburg bei Gutenberg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/400px-Gutenburg_bei_Gutenberg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/800px-Gutenburg_bei_Gutenberg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/1200px-Gutenburg_bei_Gutenberg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gutenburg_bei_Gutenberg_1.jpg/1920px-Gutenburg_bei_Gutenberg_1.jpg
+  Daniel Meisner, Sebastian Furck, 1630, Burg Gutenberg (Hunsrück).jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg/400px-Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg/800px-Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg/1200px-Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg/1920px-Daniel_Meisner,_Sebastian_Furck,_1630,_Burg_Gutenberg_(Hunsrück).jpeg
 ---
 
 ## Overview

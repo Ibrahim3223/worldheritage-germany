@@ -1,19 +1,25 @@
 ---
-title: "Altdischingen Castle"
+title: Altdischingen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.830833
 longitude: 9.115
 images:
-  - "/images-sites/altdischingen-castle/01-182db24e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BurgAltdischingenEasternMoat.jpg/1200px-BurgAltdischingenEasternMoat.jpg
+image_srcset:
+  BurgAltdischingenEasternMoat.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BurgAltdischingenEasternMoat.jpg/400px-BurgAltdischingenEasternMoat.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BurgAltdischingenEasternMoat.jpg/800px-BurgAltdischingenEasternMoat.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BurgAltdischingenEasternMoat.jpg/1200px-BurgAltdischingenEasternMoat.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BurgAltdischingenEasternMoat.jpg/1920px-BurgAltdischingenEasternMoat.jpg
 ---
 
 ## Overview

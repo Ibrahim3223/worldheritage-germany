@@ -1,19 +1,49 @@
 ---
-title: "Fürstenried Palace"
+title: Fürstenried Palace
 date: 2026-01-23
 draft: false
-description: "château"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: château
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.094361111
 longitude: 11.485666666
 images:
-  - "/images-sites/fuerstenried-palace/01-375f4121-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20230131_Schloss_Fürstenried_01.jpg/1200px-20230131_Schloss_Fürstenried_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/München_Schloss_Fürstenried_463.jpg/1200px-München_Schloss_Fürstenried_463.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_Schloss_Fürstenried_452.jpg/1200px-München_Schloss_Fürstenried_452.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Schloss_Fuerstenried_Muenchen-1.jpg/1200px-Schloss_Fuerstenried_Muenchen-1.jpg
+image_srcset:
+  20230131 Schloss Fürstenried 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20230131_Schloss_Fürstenried_01.jpg/400px-20230131_Schloss_Fürstenried_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20230131_Schloss_Fürstenried_01.jpg/800px-20230131_Schloss_Fürstenried_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20230131_Schloss_Fürstenried_01.jpg/1200px-20230131_Schloss_Fürstenried_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20230131_Schloss_Fürstenried_01.jpg/1920px-20230131_Schloss_Fürstenried_01.jpg
+  München Schloss Fürstenried 463.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/München_Schloss_Fürstenried_463.jpg/400px-München_Schloss_Fürstenried_463.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/München_Schloss_Fürstenried_463.jpg/800px-München_Schloss_Fürstenried_463.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/München_Schloss_Fürstenried_463.jpg/1200px-München_Schloss_Fürstenried_463.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/München_Schloss_Fürstenried_463.jpg/1920px-München_Schloss_Fürstenried_463.jpg
+  München Schloss Fürstenried 452.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_Schloss_Fürstenried_452.jpg/400px-München_Schloss_Fürstenried_452.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_Schloss_Fürstenried_452.jpg/800px-München_Schloss_Fürstenried_452.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_Schloss_Fürstenried_452.jpg/1200px-München_Schloss_Fürstenried_452.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/München_Schloss_Fürstenried_452.jpg/1920px-München_Schloss_Fürstenried_452.jpg
+  Aerial image of the Fürstenried Palace (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/400px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/800px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Fürstenried_Palace_(view_from_the_west).jpg
+  Schloss Fuerstenried Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Schloss_Fuerstenried_Muenchen-1.jpg/400px-Schloss_Fuerstenried_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Schloss_Fuerstenried_Muenchen-1.jpg/800px-Schloss_Fuerstenried_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Schloss_Fuerstenried_Muenchen-1.jpg/1200px-Schloss_Fuerstenried_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Schloss_Fuerstenried_Muenchen-1.jpg/1920px-Schloss_Fuerstenried_Muenchen-1.jpg
 ---
 
 ## Overview

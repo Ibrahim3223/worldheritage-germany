@@ -13,7 +13,7 @@ regions:
 latitude: 54.09105
 longitude: 12.1184
 images:
-  - "/images-sites/volkstheater-rostock/01-04d19f05-800w.webp"
+  - "/images/volkstheater-rostock/01-04d19f05-800w.webp"
 ---
 
 ## Overview

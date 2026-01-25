@@ -13,7 +13,7 @@ regions:
 latitude: 47.6308
 longitude: 11.3542
 images:
-  - "/images-sites/kesselberg-bavaria/01-666fbea7-800w.webp"
+  - "/images/kesselberg-bavaria/01-666fbea7-800w.webp"
 ---
 
 ## Overview

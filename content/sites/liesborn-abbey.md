@@ -13,7 +13,7 @@ regions:
 latitude: 51.7125
 longitude: 8.25963
 images:
-  - "/images-sites/liesborn-abbey/01-c6cb1aa1-800w.webp"
+  - "/images/liesborn-abbey/01-c6cb1aa1-800w.webp"
 ---
 
 ## Overview

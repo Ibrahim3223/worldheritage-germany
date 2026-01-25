@@ -1,27 +1,37 @@
 ---
-title: "Burg Hohenlupfen"
+title: Burg Hohenlupfen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.0239
 longitude: 8.67092
-
-# Images
 images:
-  - "/images-sites/burg-hohenlupfen/01-1b0fc529-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hohenlupfen,_westlicher_Burggraben.jpg/1200px-Hohenlupfen,_westlicher_Burggraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/1200px-Hohenlupfen,_östlicher_Burggraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Hohenlupfen_bei_Talheim.jpg/1200px-Burg_Hohenlupfen_bei_Talheim.jpg
+image_srcset:
+  Hohenlupfen, westlicher Burggraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hohenlupfen,_westlicher_Burggraben.jpg/400px-Hohenlupfen,_westlicher_Burggraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hohenlupfen,_westlicher_Burggraben.jpg/800px-Hohenlupfen,_westlicher_Burggraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hohenlupfen,_westlicher_Burggraben.jpg/1200px-Hohenlupfen,_westlicher_Burggraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hohenlupfen,_westlicher_Burggraben.jpg/1920px-Hohenlupfen,_westlicher_Burggraben.jpg
+  Hohenlupfen, östlicher Burggraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/400px-Hohenlupfen,_östlicher_Burggraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/800px-Hohenlupfen,_östlicher_Burggraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/1200px-Hohenlupfen,_östlicher_Burggraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hohenlupfen,_östlicher_Burggraben.jpg/1920px-Hohenlupfen,_östlicher_Burggraben.jpg
+  Burg Hohenlupfen bei Talheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Hohenlupfen_bei_Talheim.jpg/400px-Burg_Hohenlupfen_bei_Talheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Hohenlupfen_bei_Talheim.jpg/800px-Burg_Hohenlupfen_bei_Talheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Hohenlupfen_bei_Talheim.jpg/1200px-Burg_Hohenlupfen_bei_Talheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Hohenlupfen_bei_Talheim.jpg/1920px-Burg_Hohenlupfen_bei_Talheim.jpg
 ---
 
 ## Overview

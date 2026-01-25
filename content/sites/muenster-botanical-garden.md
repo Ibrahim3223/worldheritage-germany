@@ -21,7 +21,7 @@ longitude: 7.61056
 
 # Images
 images:
-  - "/images-sites/muenster-botanical-garden/01-c072a015-800w.webp"
+  - "/images/muenster-botanical-garden/01-c072a015-800w.webp"
 ---
 
 ## Overview

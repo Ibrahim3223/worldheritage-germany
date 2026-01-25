@@ -1,29 +1,49 @@
 ---
-title: "Bau am Ölberg"
+title: Bau am Ölberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.91888889
 longitude: 7.76666667
-
-# Images
 images:
-  - "/images-sites/bau-am-oelberg/01-5f12785b-800w.webp"
-  - "/images-sites/bau-am-oelberg/02-278d56a5-800w.webp"
-  - "/images-sites/bau-am-oelberg/03-4115205d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG
+image_srcset:
+  Bau am Ölberg (Burg Hauenfels) 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG/400px-Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG/800px-Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG/1920px-Bau_am_Ölberg_(Burg_Hauenfels)_04.JPG
+  Bau am Ölberg (Burg Hauenfels) 10.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG/400px-Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG/800px-Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG/1920px-Bau_am_Ölberg_(Burg_Hauenfels)_10.JPG
+  Bau am Ölberg (Burg Hauenfels) 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG/400px-Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG/800px-Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG/1920px-Bau_am_Ölberg_(Burg_Hauenfels)_01.JPG
+  Bau am Ölberg (Burg Hauenfels) 07a.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG/400px-Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG/800px-Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG/1920px-Bau_am_Ölberg_(Burg_Hauenfels)_07a.JPG
+  Bau am Ölberg (Burg Hauenfels) 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG/400px-Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG/800px-Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG/1200px-Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG/1920px-Bau_am_Ölberg_(Burg_Hauenfels)_02.JPG
 ---
 
 ## Overview

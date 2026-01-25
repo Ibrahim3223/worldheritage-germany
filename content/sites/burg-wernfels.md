@@ -1,27 +1,49 @@
 ---
-title: "Burg Wernfels"
+title: Burg Wernfels
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.1981
 longitude: 10.8788
-
-# Images
 images:
-  - "/images-sites/burg-wernfels/01-3c64a7f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wernfels5.JPG/1200px-Wernfels5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Wernfels.jpg/1200px-Burg_Wernfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wernfels1.JPG/1200px-Wernfels1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wernfels4.JPG/1200px-Wernfels4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Wernfels_Germany_Frankonia_Spalt.JPG/1200px-Burg_Wernfels_Germany_Frankonia_Spalt.JPG
+image_srcset:
+  Wernfels5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wernfels5.JPG/400px-Wernfels5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wernfels5.JPG/800px-Wernfels5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wernfels5.JPG/1200px-Wernfels5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wernfels5.JPG/1920px-Wernfels5.JPG
+  Burg Wernfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Wernfels.jpg/400px-Burg_Wernfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Wernfels.jpg/800px-Burg_Wernfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Wernfels.jpg/1200px-Burg_Wernfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Wernfels.jpg/1920px-Burg_Wernfels.jpg
+  Wernfels1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wernfels1.JPG/400px-Wernfels1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wernfels1.JPG/800px-Wernfels1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wernfels1.JPG/1200px-Wernfels1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wernfels1.JPG/1920px-Wernfels1.JPG
+  Wernfels4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wernfels4.JPG/400px-Wernfels4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wernfels4.JPG/800px-Wernfels4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wernfels4.JPG/1200px-Wernfels4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wernfels4.JPG/1920px-Wernfels4.JPG
+  Burg Wernfels Germany Frankonia Spalt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Wernfels_Germany_Frankonia_Spalt.JPG/400px-Burg_Wernfels_Germany_Frankonia_Spalt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Wernfels_Germany_Frankonia_Spalt.JPG/800px-Burg_Wernfels_Germany_Frankonia_Spalt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Wernfels_Germany_Frankonia_Spalt.JPG/1200px-Burg_Wernfels_Germany_Frankonia_Spalt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Wernfels_Germany_Frankonia_Spalt.JPG/1920px-Burg_Wernfels_Germany_Frankonia_Spalt.JPG
 ---
 
 ## Overview

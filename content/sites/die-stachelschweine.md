@@ -1,19 +1,49 @@
 ---
-title: "Die Stachelschweine"
+title: Die Stachelschweine
 date: 2026-01-24
 draft: false
-description: "theater in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theater in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5047
 longitude: 13.3369
 images:
-  - "/images-sites/die-stachelschweine/01-c4d72d8c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg/1200px-190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg/1200px-Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Die_Stachelschweine_Berlin1.jpg/1200px-Die_Stachelschweine_Berlin1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/1200px-Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/1200px-Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+image_srcset:
+  190829 Europa-Center vom Breitscheidplatz aus gesehen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg/400px-190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg/800px-190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg/1200px-190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg/1920px-190829_Europa-Center_vom_Breitscheidplatz_aus_gesehen.jpg
+  Eingang zum Kabarett Theater Die Stachelschweine im Europa Center.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg/400px-Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg/800px-Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg/1200px-Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg/1920px-Eingang_zum_Kabarett_Theater_Die_Stachelschweine_im_Europa_Center.jpg
+  Die Stachelschweine Berlin1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Die_Stachelschweine_Berlin1.jpg/400px-Die_Stachelschweine_Berlin1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Die_Stachelschweine_Berlin1.jpg/800px-Die_Stachelschweine_Berlin1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Die_Stachelschweine_Berlin1.jpg/1200px-Die_Stachelschweine_Berlin1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Die_Stachelschweine_Berlin1.jpg/1920px-Die_Stachelschweine_Berlin1.jpg
+  Bundesarchiv B 145 Bild-F004044-0007, Düsseldorf, Gastspiel Berliner Kabarett.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/400px-Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/800px-Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/1200px-Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/1920px-Bundesarchiv_B_145_Bild-F004044-0007,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+  Bundesarchiv B 145 Bild-F004044-0005, Düsseldorf, Gastspiel Berliner Kabarett.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/400px-Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/800px-Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/1200px-Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg/1920px-Bundesarchiv_B_145_Bild-F004044-0005,_Düsseldorf,_Gastspiel_Berliner_Kabarett.jpg
 ---
 
 ## Overview

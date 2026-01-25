@@ -1,29 +1,49 @@
 ---
-title: "Colonia Claudia Ara Agrippinensium"
+title: Colonia Claudia Ara Agrippinensium
 date: 2026-01-23
 draft: false
-description: "Roman colony, today Cologne in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman colony, today Cologne in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.938055555
 longitude: 6.956944444
-
-# Images
 images:
-  - "/images-sites/colonia-claudia-ara-agrippinensium/01-0368089a-800w.webp"
-  - "/images-sites/colonia-claudia-ara-agrippinensium/02-b409d7bb-800w.webp"
-  - "/images-sites/colonia-claudia-ara-agrippinensium/03-ad21163a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cologne_antique_Forum_temple.jpg/1200px-Cologne_antique_Forum_temple.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/1200px-Kranhäuser_Cologne,_April_2018_-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg/1200px-Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg/1200px-Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1200px-Roman_Cologne,_reconstruction.JPG
+image_srcset:
+  Cologne antique Forum temple.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cologne_antique_Forum_temple.jpg/400px-Cologne_antique_Forum_temple.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cologne_antique_Forum_temple.jpg/800px-Cologne_antique_Forum_temple.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cologne_antique_Forum_temple.jpg/1200px-Cologne_antique_Forum_temple.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cologne_antique_Forum_temple.jpg/1920px-Cologne_antique_Forum_temple.jpg
+  Kranhäuser Cologne, April 2018 -01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/400px-Kranhäuser_Cologne,_April_2018_-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/800px-Kranhäuser_Cologne,_April_2018_-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/1200px-Kranhäuser_Cologne,_April_2018_-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranhäuser_Cologne,_April_2018_-01.jpg/1920px-Kranhäuser_Cologne,_April_2018_-01.jpg
+  Torre romana a Colonia, Germania - Archivio Ugolini Sapienza.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg/400px-Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg/800px-Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg/1200px-Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg/1920px-Torre_romana_a_Colonia,_Germania_-_Archivio_Ugolini_Sapienza.jpg
+  Cologne - Panoramic Image of the old town at dusk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg/400px-Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg/800px-Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg/1200px-Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg/1920px-Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg
+  Roman Cologne, reconstruction.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/400px-Roman_Cologne,_reconstruction.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/800px-Roman_Cologne,_reconstruction.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1200px-Roman_Cologne,_reconstruction.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Roman_Cologne,_reconstruction.JPG/1920px-Roman_Cologne,_reconstruction.JPG
 ---
 
 ## Overview

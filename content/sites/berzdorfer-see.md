@@ -1,19 +1,49 @@
 ---
-title: "Berzdorfer See"
+title: Berzdorfer See
 date: 2026-01-23
 draft: false
-description: "lake in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 51.083333333
 longitude: 14.95
 images:
-  - "/images-sites/berzdorfer-see/01-18ae23b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg/1200px-Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KLG_0305_Berzdorfer_See.jpg/1200px-KLG_0305_Berzdorfer_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Berzdorfer_See,_Sachsen,_Deutschland.jpg/1200px-Berzdorfer_See,_Sachsen,_Deutschland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_Berzdorfer_See_Luftbild.jpg/1200px-Görlitz_Berzdorfer_See_Luftbild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berzdorfer_See_2024_001.jpg/1200px-Berzdorfer_See_2024_001.jpg
+image_srcset:
+  Schönau-Berzdorf - Berzdorfer See (Aussichtsturm Neuberzdorfer Höhe) 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg/400px-Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg/800px-Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg/1200px-Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg/1920px-Schönau-Berzdorf_-_Berzdorfer_See_(Aussichtsturm_Neuberzdorfer_Höhe)_05_ies.jpg
+  KLG 0305 Berzdorfer See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KLG_0305_Berzdorfer_See.jpg/400px-KLG_0305_Berzdorfer_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KLG_0305_Berzdorfer_See.jpg/800px-KLG_0305_Berzdorfer_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KLG_0305_Berzdorfer_See.jpg/1200px-KLG_0305_Berzdorfer_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KLG_0305_Berzdorfer_See.jpg/1920px-KLG_0305_Berzdorfer_See.jpg
+  Berzdorfer See, Sachsen, Deutschland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Berzdorfer_See,_Sachsen,_Deutschland.jpg/400px-Berzdorfer_See,_Sachsen,_Deutschland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Berzdorfer_See,_Sachsen,_Deutschland.jpg/800px-Berzdorfer_See,_Sachsen,_Deutschland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Berzdorfer_See,_Sachsen,_Deutschland.jpg/1200px-Berzdorfer_See,_Sachsen,_Deutschland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Berzdorfer_See,_Sachsen,_Deutschland.jpg/1920px-Berzdorfer_See,_Sachsen,_Deutschland.jpg
+  Görlitz Berzdorfer See Luftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_Berzdorfer_See_Luftbild.jpg/400px-Görlitz_Berzdorfer_See_Luftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_Berzdorfer_See_Luftbild.jpg/800px-Görlitz_Berzdorfer_See_Luftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_Berzdorfer_See_Luftbild.jpg/1200px-Görlitz_Berzdorfer_See_Luftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_Berzdorfer_See_Luftbild.jpg/1920px-Görlitz_Berzdorfer_See_Luftbild.jpg
+  Berzdorfer See 2024 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berzdorfer_See_2024_001.jpg/400px-Berzdorfer_See_2024_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berzdorfer_See_2024_001.jpg/800px-Berzdorfer_See_2024_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berzdorfer_See_2024_001.jpg/1200px-Berzdorfer_See_2024_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berzdorfer_See_2024_001.jpg/1920px-Berzdorfer_See_2024_001.jpg
 ---
 
 ## Overview

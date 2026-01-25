@@ -1,27 +1,50 @@
 ---
-title: "Drususstein"
+title: Drususstein
 date: 2026-01-23
 draft: false
-description: "an ancient marble building in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: an ancient marble building in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9921
 longitude: 8.27421
-
-# Images
 images:
-  - "/images-sites/drususstein/01-2fb75084-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg/1200px-The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg/1200px-Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/De_Merian_Mainz_Trier_Köln_009.jpg/1200px-De_Merian_Mainz_Trier_Köln_009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Drususstein_Gesamt_2011.jpg/1200px-Drususstein_Gesamt_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drususstein.jpg/1200px-Drususstein.jpg
+image_srcset:
+  ? The Cenotaph of Drusus (Drususstein), an empty tomb raised by Roman troops in
+    9 AD in honour of the deceased general Drusus, Mogontiacum (Mainz) (9739245693).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg/400px-The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg/800px-The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg/1200px-The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg/1920px-The_Cenotaph_of_Drusus_(Drususstein),_an_empty_tomb_raised_by_Roman_troops_in_9_AD_in_honour_of_the_deceased_general_Drusus,_Mogontiacum_(Mainz)_(9739245693).jpg
+  Collectanea antiqvitatvm in vrbe atqve agro Mogvntino repertarvm (1525) (14760974716).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg/400px-Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg/800px-Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg/1200px-Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg/1920px-Collectanea_antiqvitatvm_in_vrbe_atqve_agro_Mogvntino_repertarvm_(1525)_(14760974716).jpg
+  De Merian Mainz Trier Köln 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/De_Merian_Mainz_Trier_Köln_009.jpg/400px-De_Merian_Mainz_Trier_Köln_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/De_Merian_Mainz_Trier_Köln_009.jpg/800px-De_Merian_Mainz_Trier_Köln_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/De_Merian_Mainz_Trier_Köln_009.jpg/1200px-De_Merian_Mainz_Trier_Köln_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/De_Merian_Mainz_Trier_Köln_009.jpg/1920px-De_Merian_Mainz_Trier_Köln_009.jpg
+  Drususstein Gesamt 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Drususstein_Gesamt_2011.jpg/400px-Drususstein_Gesamt_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Drususstein_Gesamt_2011.jpg/800px-Drususstein_Gesamt_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Drususstein_Gesamt_2011.jpg/1200px-Drususstein_Gesamt_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Drususstein_Gesamt_2011.jpg/1920px-Drususstein_Gesamt_2011.jpg
+  Drususstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drususstein.jpg/400px-Drususstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drususstein.jpg/800px-Drususstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drususstein.jpg/1200px-Drususstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drususstein.jpg/1920px-Drususstein.jpg
 ---
 
 ## Overview

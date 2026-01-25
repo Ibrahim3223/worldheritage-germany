@@ -1,23 +1,44 @@
 ---
-title: "Christ Church Mannheim"
-site_name: "Christ Church Mannheim"
-slug: "christ-church-mannheim"
-region: "Hesse"
-
-# Location
+title: Christ Church Mannheim
+site_name: Christ Church Mannheim
+slug: christ-church-mannheim
+region: Hesse
 latitude: 49.4846
 longitude: 8.4807
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1087367"
-description: "As you wander through Mannheim, one architectural marvel stands out against the urban landscape: Christ Church Mannheim. This striking church, a notable..."
+- cultural site
+wikidata_id: Q1087367
+description: 'As you wander through Mannheim, one architectural marvel stands out
+  against the urban landscape: Christ Church Mannheim. This striking church, a notable...'
 images:
-  - "/images-sites/christ-church-mannheim/01-bd9cf227-1920w.webp"
-  - "/images-sites/christ-church-mannheim/02-3e37ffda-1920w.webp"
-  - "/images-sites/christ-church-mannheim/03-e01fcb1f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1200px-ChristusKircheMAfront.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mannheim,_Christuskirche_(01).jpg/1200px-Mannheim,_Christuskirche_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg/1200px-Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim,_Christuskirche,_Marcussen-Orgel.jpg/1200px-Mannheim,_Christuskirche,_Marcussen-Orgel.jpg
+image_srcset:
+  ChristusKircheMAfront.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/400px-ChristusKircheMAfront.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/800px-ChristusKircheMAfront.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1200px-ChristusKircheMAfront.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ChristusKircheMAfront.jpg/1920px-ChristusKircheMAfront.jpg
+  Mannheim, Christuskirche (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mannheim,_Christuskirche_(01).jpg/400px-Mannheim,_Christuskirche_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mannheim,_Christuskirche_(01).jpg/800px-Mannheim,_Christuskirche_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mannheim,_Christuskirche_(01).jpg/1200px-Mannheim,_Christuskirche_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mannheim,_Christuskirche_(01).jpg/1920px-Mannheim,_Christuskirche_(01).jpg
+  Christuskirche Mannheim Altar, vier geschmückte Säulen, Kanzel, Baldachin und Reliefs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg/400px-Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg/800px-Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg/1200px-Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg/1920px-Christuskirche_Mannheim_Altar,_vier_geschmückte_Säulen,_Kanzel,_Baldachin_und_Reliefs.jpg
+  Mannheim, Christuskirche, Marcussen-Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim,_Christuskirche,_Marcussen-Orgel.jpg/400px-Mannheim,_Christuskirche,_Marcussen-Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim,_Christuskirche,_Marcussen-Orgel.jpg/800px-Mannheim,_Christuskirche,_Marcussen-Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim,_Christuskirche,_Marcussen-Orgel.jpg/1200px-Mannheim,_Christuskirche,_Marcussen-Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mannheim,_Christuskirche,_Marcussen-Orgel.jpg/1920px-Mannheim,_Christuskirche,_Marcussen-Orgel.jpg
 ---
 
 ## Overview

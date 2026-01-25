@@ -1,21 +1,49 @@
 ---
-title: "Haus der Kulturen der Welt"
+title: Haus der Kulturen der Welt
 date: 2026-01-23
 draft: false
-description: "exhibition space and events venue in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: exhibition space and events venue in Berlin
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5188
 longitude: 13.3648
 images:
-  - "/images-sites/haus-der-kulturen-der-welt/01-d3cbb832-800w.webp"
-  - "/images-sites/haus-der-kulturen-der-welt/02-01f04e37-800w.webp"
-  - "/images-sites/haus-der-kulturen-der-welt/03-2a76486e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/OzanAtaCanani_HKW16072021-02.jpg/1200px-OzanAtaCanani_HKW16072021-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/OzanAtaCanani_HKW16072021-01.jpg/1200px-OzanAtaCanani_HKW16072021-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OzanAtaCanani_HKW16072021-03.jpg/1200px-OzanAtaCanani_HKW16072021-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin_Kongresshalle_BW_1.jpg/1200px-Berlin_Kongresshalle_BW_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/1200px-Berlin_Kongresshalle_BW_3.jpg
+image_srcset:
+  OzanAtaCanani HKW16072021-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/OzanAtaCanani_HKW16072021-02.jpg/400px-OzanAtaCanani_HKW16072021-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/OzanAtaCanani_HKW16072021-02.jpg/800px-OzanAtaCanani_HKW16072021-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/OzanAtaCanani_HKW16072021-02.jpg/1200px-OzanAtaCanani_HKW16072021-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/OzanAtaCanani_HKW16072021-02.jpg/1920px-OzanAtaCanani_HKW16072021-02.jpg
+  OzanAtaCanani HKW16072021-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/OzanAtaCanani_HKW16072021-01.jpg/400px-OzanAtaCanani_HKW16072021-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/OzanAtaCanani_HKW16072021-01.jpg/800px-OzanAtaCanani_HKW16072021-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/OzanAtaCanani_HKW16072021-01.jpg/1200px-OzanAtaCanani_HKW16072021-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/OzanAtaCanani_HKW16072021-01.jpg/1920px-OzanAtaCanani_HKW16072021-01.jpg
+  OzanAtaCanani HKW16072021-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OzanAtaCanani_HKW16072021-03.jpg/400px-OzanAtaCanani_HKW16072021-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OzanAtaCanani_HKW16072021-03.jpg/800px-OzanAtaCanani_HKW16072021-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OzanAtaCanani_HKW16072021-03.jpg/1200px-OzanAtaCanani_HKW16072021-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OzanAtaCanani_HKW16072021-03.jpg/1920px-OzanAtaCanani_HKW16072021-03.jpg
+  Berlin Kongresshalle BW 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin_Kongresshalle_BW_1.jpg/400px-Berlin_Kongresshalle_BW_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin_Kongresshalle_BW_1.jpg/800px-Berlin_Kongresshalle_BW_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin_Kongresshalle_BW_1.jpg/1200px-Berlin_Kongresshalle_BW_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berlin_Kongresshalle_BW_1.jpg/1920px-Berlin_Kongresshalle_BW_1.jpg
+  Berlin Kongresshalle BW 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/400px-Berlin_Kongresshalle_BW_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/800px-Berlin_Kongresshalle_BW_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/1200px-Berlin_Kongresshalle_BW_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_Kongresshalle_BW_3.jpg/1920px-Berlin_Kongresshalle_BW_3.jpg
 ---
 
 ## Overview

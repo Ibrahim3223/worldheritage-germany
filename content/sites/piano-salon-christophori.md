@@ -13,7 +13,7 @@ regions:
 latitude: 52.552619
 longitude: 13.374169
 images:
-  - "/images-sites/piano-salon-christophori/01-589e3a43-800w.webp"
+  - "/images/piano-salon-christophori/01-589e3a43-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Hermannstein"
+title: Burg Hermannstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8717
 longitude: 10.5814
-
-# Images
 images:
-  - "/images-sites/burg-hermannstein/01-479e2bd8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hermannstein,_Burgstraße_11,_Burg_1.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hermannstein,_Burgstraße_11,_Burg_5.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hermannstein,_Burgstraße_11,_Burg_6.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Hermannstein-3.jpg/1200px-Burg_Hermannstein-3.jpg
+image_srcset:
+  Hermannstein, Burgstraße 11, Burg, Plakette.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg/400px-Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg/800px-Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg/1920px-Hermannstein,_Burgstraße_11,_Burg,_Plakette.jpg
+  Hermannstein, Burgstraße 11, Burg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hermannstein,_Burgstraße_11,_Burg_1.jpg/400px-Hermannstein,_Burgstraße_11,_Burg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hermannstein,_Burgstraße_11,_Burg_1.jpg/800px-Hermannstein,_Burgstraße_11,_Burg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hermannstein,_Burgstraße_11,_Burg_1.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hermannstein,_Burgstraße_11,_Burg_1.jpg/1920px-Hermannstein,_Burgstraße_11,_Burg_1.jpg
+  Hermannstein, Burgstraße 11, Burg 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hermannstein,_Burgstraße_11,_Burg_5.jpg/400px-Hermannstein,_Burgstraße_11,_Burg_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hermannstein,_Burgstraße_11,_Burg_5.jpg/800px-Hermannstein,_Burgstraße_11,_Burg_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hermannstein,_Burgstraße_11,_Burg_5.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hermannstein,_Burgstraße_11,_Burg_5.jpg/1920px-Hermannstein,_Burgstraße_11,_Burg_5.jpg
+  Hermannstein, Burgstraße 11, Burg 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hermannstein,_Burgstraße_11,_Burg_6.jpg/400px-Hermannstein,_Burgstraße_11,_Burg_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hermannstein,_Burgstraße_11,_Burg_6.jpg/800px-Hermannstein,_Burgstraße_11,_Burg_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hermannstein,_Burgstraße_11,_Burg_6.jpg/1200px-Hermannstein,_Burgstraße_11,_Burg_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hermannstein,_Burgstraße_11,_Burg_6.jpg/1920px-Hermannstein,_Burgstraße_11,_Burg_6.jpg
+  Burg Hermannstein-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Hermannstein-3.jpg/400px-Burg_Hermannstein-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Hermannstein-3.jpg/800px-Burg_Hermannstein-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Hermannstein-3.jpg/1200px-Burg_Hermannstein-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Hermannstein-3.jpg/1920px-Burg_Hermannstein-3.jpg
 ---
 
 ## Overview

@@ -1,19 +1,26 @@
 ---
-title: "Dabelowsee"
+title: Dabelowsee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.256666666
 longitude: 13.206388888
 images:
-  - "/images-sites/dabelowsee/01-cb334548-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Godendorfer_Mühlenbach-Hegensteinfließ.png/1200px-Godendorfer_Mühlenbach-Hegensteinfließ.png
+image_srcset:
+  Godendorfer Mühlenbach-Hegensteinfließ.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Godendorfer_Mühlenbach-Hegensteinfließ.png/400px-Godendorfer_Mühlenbach-Hegensteinfließ.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Godendorfer_Mühlenbach-Hegensteinfließ.png/800px-Godendorfer_Mühlenbach-Hegensteinfließ.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Godendorfer_Mühlenbach-Hegensteinfließ.png/1200px-Godendorfer_Mühlenbach-Hegensteinfließ.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Godendorfer_Mühlenbach-Hegensteinfließ.png/1920px-Godendorfer_Mühlenbach-Hegensteinfließ.png
 ---
 
 ## Overview

@@ -1,22 +1,33 @@
 ---
-title: "Auferstehungskirche (Mannheim)"
-site_name: "Auferstehungskirche (Mannheim)"
-slug: "auferstehungskirche-mannheim"
-region: "Hesse"
-
-# Location
+title: Auferstehungskirche (Mannheim)
+site_name: Auferstehungskirche (Mannheim)
+slug: auferstehungskirche-mannheim
+region: Hesse
 latitude: 49.5245
 longitude: 8.50771
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q759629"
-description: "Imagine stepping into a space where modern design meets spiritual serenity. The Auferstehungskirche, or Resurrection Church, located in Mannheim, German..."
+- church building
+- religious site
+wikidata_id: Q759629
+description: Imagine stepping into a space where modern design meets spiritual serenity.
+  The Auferstehungskirche, or Resurrection Church, located in Mannheim, German...
 images:
-  - "/images-sites/auferstehungskirche-mannheim/01-a56eda0b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/1200px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mannheim_Auferstehungskirche_20130214.jpg/1200px-Mannheim_Auferstehungskirche_20130214.jpg
+image_srcset:
+  Mannheim-Gartenstadt-Auferstehungskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/400px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/800px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/1200px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mannheim-Gartenstadt-Auferstehungskirche.jpg/1920px-Mannheim-Gartenstadt-Auferstehungskirche.jpg
+  Mannheim Auferstehungskirche 20130214.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mannheim_Auferstehungskirche_20130214.jpg/400px-Mannheim_Auferstehungskirche_20130214.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mannheim_Auferstehungskirche_20130214.jpg/800px-Mannheim_Auferstehungskirche_20130214.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mannheim_Auferstehungskirche_20130214.jpg/1200px-Mannheim_Auferstehungskirche_20130214.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mannheim_Auferstehungskirche_20130214.jpg/1920px-Mannheim_Auferstehungskirche_20130214.jpg
 ---
 
 ## Overview

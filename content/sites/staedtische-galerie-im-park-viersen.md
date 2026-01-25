@@ -21,7 +21,7 @@ longitude: 6.39142
 
 # Images
 images:
-  - "/images-sites/staedtische-galerie-im-park-viersen/01-3b1fdf2f-800w.webp"
+  - "/images/staedtische-galerie-im-park-viersen/01-3b1fdf2f-800w.webp"
 ---
 
 ## Overview

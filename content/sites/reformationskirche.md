@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1249628"
 description: "In the heart of Magdeburg, the Reformationskirche stands as a significant landmark, intertwining the threads of faith and history. This church, construc..."
 images:
-  - "/images-sites/reformationskirche/01-198d9aea-1920w.webp"
-  - "/images-sites/reformationskirche/02-f076151d-1920w.webp"
-  - "/images-sites/reformationskirche/03-b2742d8d-1920w.webp"
+  - "/images/reformationskirche/01-198d9aea-1920w.webp"
+  - "/images/reformationskirche/02-f076151d-1920w.webp"
+  - "/images/reformationskirche/03-b2742d8d-1920w.webp"
 ---
 
 ## Overview

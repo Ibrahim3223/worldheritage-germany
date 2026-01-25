@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Hohenseeden"
-site_name: "Dorfkirche Hohenseeden"
-slug: "dorfkirche-hohenseeden"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Hohenseeden
+site_name: Dorfkirche Hohenseeden
+slug: dorfkirche-hohenseeden
+region: Brandenburg
 latitude: 52.3131
 longitude: 12.007
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244377"
-description: "Dorfkirche Hohenseeden presents a striking example of Romanesque architecture nestled in the Elbe-Parey region of Germany. This church building, constru..."
+- church building
+- religious site
+wikidata_id: Q1244377
+description: Dorfkirche Hohenseeden presents a striking example of Romanesque architecture
+  nestled in the Elbe-Parey region of Germany. This church building, constru...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dorfkirche%20Hohenseeden%203.JPG/1200px-Dorfkirche%20Hohenseeden%203.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg/1200px-Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/1200px-Dorfkirche_Hohenseeden_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dorfkirche_Hohenseeden,_Uhr_02.jpg/1200px-Dorfkirche_Hohenseeden,_Uhr_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Hohenseeden_1.jpg/1200px-Dorfkirche_Hohenseeden_1.jpg
+image_srcset:
+  Dorfkirche%20Hohenseeden%203.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dorfkirche%20Hohenseeden%203.JPG/400px-Dorfkirche%20Hohenseeden%203.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dorfkirche%20Hohenseeden%203.JPG/800px-Dorfkirche%20Hohenseeden%203.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dorfkirche%20Hohenseeden%203.JPG/1200px-Dorfkirche%20Hohenseeden%203.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dorfkirche%20Hohenseeden%203.JPG/1920px-Dorfkirche%20Hohenseeden%203.JPG
+  Dorfkirche Hohenseeden.1, Jerichower Land, Sachsen-Anhalt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg/400px-Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg/800px-Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg/1200px-Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg/1920px-Dorfkirche_Hohenseeden.1,_Jerichower_Land,_Sachsen-Anhalt.jpg
+  Dorfkirche Hohenseeden 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/400px-Dorfkirche_Hohenseeden_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/800px-Dorfkirche_Hohenseeden_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/1200px-Dorfkirche_Hohenseeden_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dorfkirche_Hohenseeden_3.JPG/1920px-Dorfkirche_Hohenseeden_3.JPG
+  Dorfkirche Hohenseeden, Uhr 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dorfkirche_Hohenseeden,_Uhr_02.jpg/400px-Dorfkirche_Hohenseeden,_Uhr_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dorfkirche_Hohenseeden,_Uhr_02.jpg/800px-Dorfkirche_Hohenseeden,_Uhr_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dorfkirche_Hohenseeden,_Uhr_02.jpg/1200px-Dorfkirche_Hohenseeden,_Uhr_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dorfkirche_Hohenseeden,_Uhr_02.jpg/1920px-Dorfkirche_Hohenseeden,_Uhr_02.jpg
+  Dorfkirche Hohenseeden 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Hohenseeden_1.jpg/400px-Dorfkirche_Hohenseeden_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Hohenseeden_1.jpg/800px-Dorfkirche_Hohenseeden_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Hohenseeden_1.jpg/1200px-Dorfkirche_Hohenseeden_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Hohenseeden_1.jpg/1920px-Dorfkirche_Hohenseeden_1.jpg
 ---
 
 ## Overview

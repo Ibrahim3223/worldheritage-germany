@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten der TU Darmstadt"
+title: Botanischer Garten der TU Darmstadt
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8692
 longitude: 8.67861
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-tu-darmstadt/01-ac6bd187-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanical_garden_(2).jpg/1200px-Botanical_garden_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dipsacus_laciniatus_L.jpg/1200px-Dipsacus_laciniatus_L.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/1200px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG/1200px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Darmstadt_EingangBotanischerGarten.jpg/1200px-Darmstadt_EingangBotanischerGarten.jpg
+image_srcset:
+  Botanical garden (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanical_garden_(2).jpg/400px-Botanical_garden_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanical_garden_(2).jpg/800px-Botanical_garden_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanical_garden_(2).jpg/1200px-Botanical_garden_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanical_garden_(2).jpg/1920px-Botanical_garden_(2).jpg
+  Dipsacus laciniatus L.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dipsacus_laciniatus_L.jpg/400px-Dipsacus_laciniatus_L.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dipsacus_laciniatus_L.jpg/800px-Dipsacus_laciniatus_L.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dipsacus_laciniatus_L.jpg/1200px-Dipsacus_laciniatus_L.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dipsacus_laciniatus_L.jpg/1920px-Dipsacus_laciniatus_L.jpg
+  Botanischer Garten der TU Darmstadt - IMG 7032.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/400px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/800px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/1200px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG/1920px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7032.JPG
+  Botanischer Garten der TU Darmstadt - IMG 7048.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG/400px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG/800px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG/1200px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG/1920px-Botanischer_Garten_der_TU_Darmstadt_-_IMG_7048.JPG
+  Darmstadt EingangBotanischerGarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Darmstadt_EingangBotanischerGarten.jpg/400px-Darmstadt_EingangBotanischerGarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Darmstadt_EingangBotanischerGarten.jpg/800px-Darmstadt_EingangBotanischerGarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Darmstadt_EingangBotanischerGarten.jpg/1200px-Darmstadt_EingangBotanischerGarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Darmstadt_EingangBotanischerGarten.jpg/1920px-Darmstadt_EingangBotanischerGarten.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Brahms-Denkmal"
+title: Brahms-Denkmal
 date: 2026-01-23
 draft: false
-description: ""
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: ''
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5721
 longitude: 10.419
 images:
-  - "/images-sites/brahms-denkmal/01-07f5f3df-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Karlsplatz_Brahms_Denkmal.JPG/1200px-Karlsplatz_Brahms_Denkmal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Johannes_Brahms-Karlsplatz.jpg/1200px-Johannes_Brahms-Karlsplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Johannes_Brahms_DSCN9911c.jpg/1200px-Johannes_Brahms_DSCN9911c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Johannes_Brahms_DSCN9914b.jpg/1200px-Johannes_Brahms_DSCN9914b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brahms-Vienna.jpg/1200px-Brahms-Vienna.jpg
+image_srcset:
+  Karlsplatz Brahms Denkmal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Karlsplatz_Brahms_Denkmal.JPG/400px-Karlsplatz_Brahms_Denkmal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Karlsplatz_Brahms_Denkmal.JPG/800px-Karlsplatz_Brahms_Denkmal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Karlsplatz_Brahms_Denkmal.JPG/1200px-Karlsplatz_Brahms_Denkmal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Karlsplatz_Brahms_Denkmal.JPG/1920px-Karlsplatz_Brahms_Denkmal.JPG
+  Johannes Brahms-Karlsplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Johannes_Brahms-Karlsplatz.jpg/400px-Johannes_Brahms-Karlsplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Johannes_Brahms-Karlsplatz.jpg/800px-Johannes_Brahms-Karlsplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Johannes_Brahms-Karlsplatz.jpg/1200px-Johannes_Brahms-Karlsplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Johannes_Brahms-Karlsplatz.jpg/1920px-Johannes_Brahms-Karlsplatz.jpg
+  Johannes Brahms DSCN9911c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Johannes_Brahms_DSCN9911c.jpg/400px-Johannes_Brahms_DSCN9911c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Johannes_Brahms_DSCN9911c.jpg/800px-Johannes_Brahms_DSCN9911c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Johannes_Brahms_DSCN9911c.jpg/1200px-Johannes_Brahms_DSCN9911c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Johannes_Brahms_DSCN9911c.jpg/1920px-Johannes_Brahms_DSCN9911c.jpg
+  Johannes Brahms DSCN9914b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Johannes_Brahms_DSCN9914b.jpg/400px-Johannes_Brahms_DSCN9914b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Johannes_Brahms_DSCN9914b.jpg/800px-Johannes_Brahms_DSCN9914b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Johannes_Brahms_DSCN9914b.jpg/1200px-Johannes_Brahms_DSCN9914b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Johannes_Brahms_DSCN9914b.jpg/1920px-Johannes_Brahms_DSCN9914b.jpg
+  Brahms-Vienna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brahms-Vienna.jpg/400px-Brahms-Vienna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brahms-Vienna.jpg/800px-Brahms-Vienna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brahms-Vienna.jpg/1200px-Brahms-Vienna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brahms-Vienna.jpg/1920px-Brahms-Vienna.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Frauentor"
+title: Frauentor
 date: 2026-01-24
 draft: false
-description: "gate tower in Nuremberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: gate tower in Nuremberg, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4472
 longitude: 11.0811
 images:
-  - "/images-sites/frauentor/01-c7543eda-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dresdens_Prachtgebäude_1835_90.jpg/1200px-Dresdens_Prachtgebäude_1835_90.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ravensburg_Kino_Frauentor_Rückseite.jpg/1200px-Ravensburg_Kino_Frauentor_Rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Kino_Frauentor_img02.jpg/1200px-Ravensburg_Kino_Frauentor_img02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg/1200px-20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ravensburg_Kino_Frauentor.jpg/1200px-Ravensburg_Kino_Frauentor.jpg
+image_srcset:
+  Dresdens Prachtgebäude 1835 90.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dresdens_Prachtgebäude_1835_90.jpg/400px-Dresdens_Prachtgebäude_1835_90.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dresdens_Prachtgebäude_1835_90.jpg/800px-Dresdens_Prachtgebäude_1835_90.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dresdens_Prachtgebäude_1835_90.jpg/1200px-Dresdens_Prachtgebäude_1835_90.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dresdens_Prachtgebäude_1835_90.jpg/1920px-Dresdens_Prachtgebäude_1835_90.jpg
+  Ravensburg Kino Frauentor Rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ravensburg_Kino_Frauentor_Rückseite.jpg/400px-Ravensburg_Kino_Frauentor_Rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ravensburg_Kino_Frauentor_Rückseite.jpg/800px-Ravensburg_Kino_Frauentor_Rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ravensburg_Kino_Frauentor_Rückseite.jpg/1200px-Ravensburg_Kino_Frauentor_Rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ravensburg_Kino_Frauentor_Rückseite.jpg/1920px-Ravensburg_Kino_Frauentor_Rückseite.jpg
+  Ravensburg Kino Frauentor img02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Kino_Frauentor_img02.jpg/400px-Ravensburg_Kino_Frauentor_img02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Kino_Frauentor_img02.jpg/800px-Ravensburg_Kino_Frauentor_img02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Kino_Frauentor_img02.jpg/1200px-Ravensburg_Kino_Frauentor_img02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Kino_Frauentor_img02.jpg/1920px-Ravensburg_Kino_Frauentor_img02.jpg
+  20121007060DR Dresden Neumarkt Tiefgarage mit Frauentor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg/400px-20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg/800px-20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg/1200px-20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg/1920px-20121007060DR_Dresden_Neumarkt_Tiefgarage_mit_Frauentor.jpg
+  Ravensburg Kino Frauentor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ravensburg_Kino_Frauentor.jpg/400px-Ravensburg_Kino_Frauentor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ravensburg_Kino_Frauentor.jpg/800px-Ravensburg_Kino_Frauentor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ravensburg_Kino_Frauentor.jpg/1200px-Ravensburg_Kino_Frauentor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ravensburg_Kino_Frauentor.jpg/1920px-Ravensburg_Kino_Frauentor.jpg
 ---
 
 ## Overview

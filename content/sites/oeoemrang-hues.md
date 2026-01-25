@@ -13,7 +13,7 @@ regions:
 latitude: 54.6511
 longitude: 8.35668
 images:
-  - "/images-sites/oeoemrang-hues/01-98fde0d1-800w.webp"
+  - "/images/oeoemrang-hues/01-98fde0d1-800w.webp"
 ---
 
 ## Overview

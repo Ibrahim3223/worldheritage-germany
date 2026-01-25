@@ -13,7 +13,7 @@ regions:
 latitude: 53.46797887
 longitude: 7.47149706
 images:
-  - "/images-sites/stiftsmuehle/01-7422f94e-800w.webp"
+  - "/images/stiftsmuehle/01-7422f94e-800w.webp"
 ---
 
 ## Overview

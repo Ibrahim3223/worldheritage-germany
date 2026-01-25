@@ -13,9 +13,9 @@ regions:
 latitude: 51.1968
 longitude: 6.69544
 images:
-  - "/images-sites/rheinisches-landestheater-neuss/01-a32f7bea-800w.webp"
-  - "/images-sites/rheinisches-landestheater-neuss/02-805476cc-800w.webp"
-  - "/images-sites/rheinisches-landestheater-neuss/03-78e10a82-800w.webp"
+  - "/images/rheinisches-landestheater-neuss/01-a32f7bea-800w.webp"
+  - "/images/rheinisches-landestheater-neuss/02-805476cc-800w.webp"
+  - "/images/rheinisches-landestheater-neuss/03-78e10a82-800w.webp"
 ---
 
 ## Overview

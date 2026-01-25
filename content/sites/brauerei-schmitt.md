@@ -1,28 +1,43 @@
 ---
-title: "Brauerei Schmitt"
+title: Brauerei Schmitt
 date: 2026-01-23
 draft: false
-description: "Brauerei in Thüringen"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: Brauerei in Thüringen
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.724559
 longitude: 11.058404
-
-# Images
 images:
-  - "/images-sites/brauerei-schmitt/02-1947b666-800w.webp"
-  - "/images-sites/brauerei-schmitt/03-ed9b6712-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schmitt-Bräu_Scheßlitz_Bierglas.jpg/1200px-Schmitt-Bräu_Scheßlitz_Bierglas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brewery_Schmitt_in_Singen_(Germany).JPG/1200px-Brewery_Schmitt_in_Singen_(Germany).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Singen_2003-05-30_04.jpg/1200px-Singen_2003-05-30_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Singen_brauerei.JPG/1200px-Singen_brauerei.JPG
+image_srcset:
+  Schmitt-Bräu Scheßlitz Bierglas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schmitt-Bräu_Scheßlitz_Bierglas.jpg/400px-Schmitt-Bräu_Scheßlitz_Bierglas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schmitt-Bräu_Scheßlitz_Bierglas.jpg/800px-Schmitt-Bräu_Scheßlitz_Bierglas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schmitt-Bräu_Scheßlitz_Bierglas.jpg/1200px-Schmitt-Bräu_Scheßlitz_Bierglas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schmitt-Bräu_Scheßlitz_Bierglas.jpg/1920px-Schmitt-Bräu_Scheßlitz_Bierglas.jpg
+  Brewery Schmitt in Singen (Germany).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brewery_Schmitt_in_Singen_(Germany).JPG/400px-Brewery_Schmitt_in_Singen_(Germany).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brewery_Schmitt_in_Singen_(Germany).JPG/800px-Brewery_Schmitt_in_Singen_(Germany).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brewery_Schmitt_in_Singen_(Germany).JPG/1200px-Brewery_Schmitt_in_Singen_(Germany).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brewery_Schmitt_in_Singen_(Germany).JPG/1920px-Brewery_Schmitt_in_Singen_(Germany).JPG
+  Singen 2003-05-30 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Singen_2003-05-30_04.jpg/400px-Singen_2003-05-30_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Singen_2003-05-30_04.jpg/800px-Singen_2003-05-30_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Singen_2003-05-30_04.jpg/1200px-Singen_2003-05-30_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Singen_2003-05-30_04.jpg/1920px-Singen_2003-05-30_04.jpg
+  Singen brauerei.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Singen_brauerei.JPG/400px-Singen_brauerei.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Singen_brauerei.JPG/800px-Singen_brauerei.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Singen_brauerei.JPG/1200px-Singen_brauerei.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Singen_brauerei.JPG/1920px-Singen_brauerei.JPG
 ---
 
 ## Overview

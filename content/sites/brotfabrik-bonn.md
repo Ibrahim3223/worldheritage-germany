@@ -1,19 +1,31 @@
 ---
-title: "Brotfabrik Bonn"
+title: Brotfabrik Bonn
 date: 2026-01-23
 draft: false
-description: "culture center and cinema in Bonn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: culture center and cinema in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 50.740949
 longitude: 7.123494
 images:
-  - "/images-sites/brotfabrik-bonn/01-24914744-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/1200px-Brotfabrik_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/1200px-BROTFAB.jpg
+image_srcset:
+  Brotfabrik aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/400px-Brotfabrik_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/800px-Brotfabrik_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/1200px-Brotfabrik_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/1920px-Brotfabrik_aussen.jpg
+  BROTFAB.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/400px-BROTFAB.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/800px-BROTFAB.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/1200px-BROTFAB.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/1920px-BROTFAB.jpg
 ---
 
 ## Overview

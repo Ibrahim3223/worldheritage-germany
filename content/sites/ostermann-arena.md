@@ -13,7 +13,7 @@ regions:
 latitude: 51.039463
 longitude: 7.004058
 images:
-  - "/images-sites/ostermann-arena/01-4d16de71-800w.webp"
+  - "/images/ostermann-arena/01-4d16de71-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 9.195833186
 
 # Images
 images:
-  - "/images-sites/wildenberg-castle/01-668e7c5e-800w.webp"
+  - "/images/wildenberg-castle/01-668e7c5e-800w.webp"
 ---
 
 ## Overview

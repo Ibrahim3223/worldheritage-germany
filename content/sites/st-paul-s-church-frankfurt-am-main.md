@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q198106"
 description: "St. Pauls Church in Frankfurt am Main is a striking example of Neoclassical architecture, captivating visitors with its elegant design and rich historic..."
 images:
-  - "/images-sites/st-paul-s-church-frankfurt-am-main/01-9a7cce66-1920w.webp"
-  - "/images-sites/st-paul-s-church-frankfurt-am-main/02-09a7c870-1920w.webp"
-  - "/images-sites/st-paul-s-church-frankfurt-am-main/03-487eaa1d-1920w.webp"
+  - "/images/st-paul-s-church-frankfurt-am-main/01-9a7cce66-1920w.webp"
+  - "/images/st-paul-s-church-frankfurt-am-main/02-09a7c870-1920w.webp"
+  - "/images/st-paul-s-church-frankfurt-am-main/03-487eaa1d-1920w.webp"
 ---
 
 ## Overview

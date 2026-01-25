@@ -13,7 +13,7 @@ regions:
 latitude: 51.980833333
 longitude: 4.093055555
 images:
-  - "/images-sites/rhine/01-3526e8a4-800w.webp"
+  - "/images/rhine/01-3526e8a4-800w.webp"
 ---
 
 ## Overview

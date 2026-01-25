@@ -13,9 +13,9 @@ regions:
 latitude: 53.0253
 longitude: 12.8031
 images:
-  - "/images-sites/tornowsee/01-cc7962ae-800w.webp"
-  - "/images-sites/tornowsee/02-13a8bde6-800w.webp"
-  - "/images-sites/tornowsee/03-b3ca35ff-800w.webp"
+  - "/images/tornowsee/01-cc7962ae-800w.webp"
+  - "/images/tornowsee/02-13a8bde6-800w.webp"
+  - "/images/tornowsee/03-b3ca35ff-800w.webp"
 ---
 
 ## Overview

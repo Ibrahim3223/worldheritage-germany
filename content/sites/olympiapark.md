@@ -13,7 +13,7 @@ regions:
 latitude: 48.17
 longitude: 11.551666666
 images:
-  - "/images-sites/olympiapark/01-33dac46a-800w.webp"
+  - "/images/olympiapark/01-33dac46a-800w.webp"
 ---
 
 ## Overview

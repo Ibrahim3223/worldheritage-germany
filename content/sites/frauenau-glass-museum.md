@@ -1,19 +1,49 @@
 ---
-title: "Frauenau Glass Museum"
+title: Frauenau Glass Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9881114
 longitude: 13.2983821
 images:
-  - "/images-sites/frauenau-glass-museum/01-53a512b2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2591_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2591_Frauenau_-_Gläserner_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/00_2600_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2600_Frauenau_-_Gläserner_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1200px-Glasmuseum_Frauenau.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/00_2586_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2586_Frauenau_-_Gläserner_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/00_2584_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2584_Frauenau_-_Gläserner_Garten.jpg
+image_srcset:
+  00 2591 Frauenau - Gläserner Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2591_Frauenau_-_Gläserner_Garten.jpg/400px-00_2591_Frauenau_-_Gläserner_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2591_Frauenau_-_Gläserner_Garten.jpg/800px-00_2591_Frauenau_-_Gläserner_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2591_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2591_Frauenau_-_Gläserner_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2591_Frauenau_-_Gläserner_Garten.jpg/1920px-00_2591_Frauenau_-_Gläserner_Garten.jpg
+  00 2600 Frauenau - Gläserner Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/00_2600_Frauenau_-_Gläserner_Garten.jpg/400px-00_2600_Frauenau_-_Gläserner_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/00_2600_Frauenau_-_Gläserner_Garten.jpg/800px-00_2600_Frauenau_-_Gläserner_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/00_2600_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2600_Frauenau_-_Gläserner_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/00_2600_Frauenau_-_Gläserner_Garten.jpg/1920px-00_2600_Frauenau_-_Gläserner_Garten.jpg
+  Glasmuseum Frauenau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/400px-Glasmuseum_Frauenau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/800px-Glasmuseum_Frauenau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1200px-Glasmuseum_Frauenau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Glasmuseum_Frauenau.JPG/1920px-Glasmuseum_Frauenau.JPG
+  00 2586 Frauenau - Gläserner Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/00_2586_Frauenau_-_Gläserner_Garten.jpg/400px-00_2586_Frauenau_-_Gläserner_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/00_2586_Frauenau_-_Gläserner_Garten.jpg/800px-00_2586_Frauenau_-_Gläserner_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/00_2586_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2586_Frauenau_-_Gläserner_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/00_2586_Frauenau_-_Gläserner_Garten.jpg/1920px-00_2586_Frauenau_-_Gläserner_Garten.jpg
+  00 2584 Frauenau - Gläserner Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/00_2584_Frauenau_-_Gläserner_Garten.jpg/400px-00_2584_Frauenau_-_Gläserner_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/00_2584_Frauenau_-_Gläserner_Garten.jpg/800px-00_2584_Frauenau_-_Gläserner_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/00_2584_Frauenau_-_Gläserner_Garten.jpg/1200px-00_2584_Frauenau_-_Gläserner_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/00_2584_Frauenau_-_Gläserner_Garten.jpg/1920px-00_2584_Frauenau_-_Gläserner_Garten.jpg
 ---
 
 ## Overview

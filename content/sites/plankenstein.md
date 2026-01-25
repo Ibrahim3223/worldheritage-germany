@@ -13,7 +13,7 @@ regions:
 latitude: 47.6381
 longitude: 11.8
 images:
-  - "/images-sites/plankenstein/01-440441e6-800w.webp"
+  - "/images/plankenstein/01-440441e6-800w.webp"
 ---
 
 ## Overview

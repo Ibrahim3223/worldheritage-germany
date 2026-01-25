@@ -21,7 +21,7 @@ longitude: 7.97288
 
 # Images
 images:
-  - "/images-sites/ortenberg-castle/01-5bc6f9a5-800w.webp"
+  - "/images/ortenberg-castle/01-5bc6f9a5-800w.webp"
 ---
 
 ## Overview

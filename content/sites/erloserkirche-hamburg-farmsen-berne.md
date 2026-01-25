@@ -1,20 +1,51 @@
 ---
-title: "Erlöserkirche (Hamburg-Farmsen-Berne)"
-site_name: "Erlöserkirche (Hamburg-Farmsen-Berne)"
-slug: "erloserkirche-hamburg-farmsen-berne"
-region: "Hamburg"
-
-# Location
+title: Erlöserkirche (Hamburg-Farmsen-Berne)
+site_name: Erlöserkirche (Hamburg-Farmsen-Berne)
+slug: erloserkirche-hamburg-farmsen-berne
+region: Hamburg
 latitude: 53.60777778
 longitude: 10.11166667
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355745"
-description: "In the heart of Hamburg, the Erlöserkirche stands as a striking example of modern architecture, inviting visitors to explore its unique design and seren..."
+- church building
+- religious site
+wikidata_id: Q1355745
+description: In the heart of Hamburg, the Erlöserkirche stands as a striking example
+  of modern architecture, inviting visitors to explore its unique design and seren...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erl%C3%B6serkirche%20von%20Nordwesten.jpg/1200px-Erl%C3%B6serkirche%20von%20Nordwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Erlöserkirche_von_Nordwesten.jpg/1200px-Erlöserkirche_von_Nordwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erlkf_fenster_aussen.jpg/1200px-Erlkf_fenster_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Erlkf_turm_von_süden.jpg/1200px-Erlkf_turm_von_süden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erlöserkirche_-_panoramio_(7).jpg/1200px-Erlöserkirche_-_panoramio_(7).jpg
+image_srcset:
+  Erl%C3%B6serkirche%20von%20Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erl%C3%B6serkirche%20von%20Nordwesten.jpg/400px-Erl%C3%B6serkirche%20von%20Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erl%C3%B6serkirche%20von%20Nordwesten.jpg/800px-Erl%C3%B6serkirche%20von%20Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erl%C3%B6serkirche%20von%20Nordwesten.jpg/1200px-Erl%C3%B6serkirche%20von%20Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erl%C3%B6serkirche%20von%20Nordwesten.jpg/1920px-Erl%C3%B6serkirche%20von%20Nordwesten.jpg
+  Erlöserkirche von Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Erlöserkirche_von_Nordwesten.jpg/400px-Erlöserkirche_von_Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Erlöserkirche_von_Nordwesten.jpg/800px-Erlöserkirche_von_Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Erlöserkirche_von_Nordwesten.jpg/1200px-Erlöserkirche_von_Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Erlöserkirche_von_Nordwesten.jpg/1920px-Erlöserkirche_von_Nordwesten.jpg
+  Erlkf fenster aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erlkf_fenster_aussen.jpg/400px-Erlkf_fenster_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erlkf_fenster_aussen.jpg/800px-Erlkf_fenster_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erlkf_fenster_aussen.jpg/1200px-Erlkf_fenster_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erlkf_fenster_aussen.jpg/1920px-Erlkf_fenster_aussen.jpg
+  Erlkf turm von süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Erlkf_turm_von_süden.jpg/400px-Erlkf_turm_von_süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Erlkf_turm_von_süden.jpg/800px-Erlkf_turm_von_süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Erlkf_turm_von_süden.jpg/1200px-Erlkf_turm_von_süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Erlkf_turm_von_süden.jpg/1920px-Erlkf_turm_von_süden.jpg
+  Erlöserkirche - panoramio (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erlöserkirche_-_panoramio_(7).jpg/400px-Erlöserkirche_-_panoramio_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erlöserkirche_-_panoramio_(7).jpg/800px-Erlöserkirche_-_panoramio_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erlöserkirche_-_panoramio_(7).jpg/1200px-Erlöserkirche_-_panoramio_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erlöserkirche_-_panoramio_(7).jpg/1920px-Erlöserkirche_-_panoramio_(7).jpg
 ---
 
 ## Overview

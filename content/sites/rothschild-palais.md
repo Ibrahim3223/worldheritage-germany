@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q66018237"
 description: "In the heart of Frankfurt am Main lies the Rothschild-Palais, a striking example of neoclassical architecture that captures the essence of early 19th-ce..."
 images:
-  - "/images-sites/rothschild-palais/01-60e6c46e-1920w.webp"
-  - "/images-sites/rothschild-palais/02-e7611dbc-1920w.webp"
-  - "/images-sites/rothschild-palais/03-5ef521b5-1920w.webp"
+  - "/images/rothschild-palais/01-60e6c46e-1920w.webp"
+  - "/images/rothschild-palais/02-e7611dbc-1920w.webp"
+  - "/images/rothschild-palais/03-5ef521b5-1920w.webp"
 ---
 
 ## Overview

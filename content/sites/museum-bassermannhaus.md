@@ -13,7 +13,7 @@ regions:
 latitude: 49.48772812
 longitude: 8.46253967
 images:
-  - "/images-sites/museum-bassermannhaus/01-bc6817df-800w.webp"
+  - "/images/museum-bassermannhaus/01-bc6817df-800w.webp"
 ---
 
 ## Overview

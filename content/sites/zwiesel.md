@@ -13,7 +13,7 @@ regions:
 latitude: 47.7558
 longitude: 12.8119
 images:
-  - "/images-sites/zwiesel/01-b94b389e-800w.webp"
+  - "/images/zwiesel/01-b94b389e-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,43 @@
 ---
-title: "Bungsberg"
+title: Bungsberg
 date: 2026-01-23
 draft: false
-description: "highest point in the German state of Schleswig-Holstein"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: highest point in the German state of Schleswig-Holstein
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 54.21083333
 longitude: 10.72388889
 images:
-  - "/images-sites/bungsberg/01-a7914bbd-800w.webp"
-  - "/images-sites/bungsberg/02-db0597ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1200px-Bungsberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bungsberg_16.jpg/1200px-Bungsberg_16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_17.jpg/1200px-Bungsberg_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Schönwalde_4.jpg/1200px-Schönwalde_4.jpg
+image_srcset:
+  Bungsberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/400px-Bungsberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/800px-Bungsberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1200px-Bungsberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bungsberg.JPG/1920px-Bungsberg.JPG
+  Bungsberg 16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bungsberg_16.jpg/400px-Bungsberg_16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bungsberg_16.jpg/800px-Bungsberg_16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bungsberg_16.jpg/1200px-Bungsberg_16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bungsberg_16.jpg/1920px-Bungsberg_16.jpg
+  Bungsberg 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_17.jpg/400px-Bungsberg_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_17.jpg/800px-Bungsberg_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_17.jpg/1200px-Bungsberg_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bungsberg_17.jpg/1920px-Bungsberg_17.jpg
+  Schönwalde 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Schönwalde_4.jpg/400px-Schönwalde_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Schönwalde_4.jpg/800px-Schönwalde_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Schönwalde_4.jpg/1200px-Schönwalde_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Schönwalde_4.jpg/1920px-Schönwalde_4.jpg
 ---
 
 ## Overview

@@ -1,24 +1,52 @@
 ---
-title: "Auferstehungskirche (Ittenbach)"
-site_name: "Auferstehungskirche (Ittenbach)"
-slug: "auferstehungskirche-ittenbach"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Auferstehungskirche (Ittenbach)
+site_name: Auferstehungskirche (Ittenbach)
+slug: auferstehungskirche-ittenbach
+region: North Rhine-Westphalia
 latitude: 50.678592
 longitude: 7.266519
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q759620"
-description: "In the tranquil surroundings of Königswinter, the Auferstehungskirche stands as a notable example of modern architecture within the region. This church ..."
+- church building
+- religious site
+wikidata_id: Q759620
+description: In the tranquil surroundings of Königswinter, the Auferstehungskirche
+  stands as a notable example of modern architecture within the region. This church
+  ...
 images:
-  - "/images-sites/auferstehungskirche-ittenbach/01-0e2a6610-1920w.webp"
-  - "/images-sites/auferstehungskirche-ittenbach/02-c95ae50b-1920w.webp"
-  - "/images-sites/auferstehungskirche-ittenbach/03-0dc5a557-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Evangelische%20Kirche%20Ittenbach.jpg/1200px-Evangelische%20Kirche%20Ittenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Auferstehungskirche_Ittenbach.jpg/1200px-Auferstehungskirche_Ittenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Auferstehungskirche_(Ittenbach)_001.jpg/1200px-Auferstehungskirche_(Ittenbach)_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Auferstehungskirche_Ittenbach_Altar.JPG/1200px-Auferstehungskirche_Ittenbach_Altar.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/1200px-Evangelische_Kirche_Ittenbach.jpg
+image_srcset:
+  Evangelische%20Kirche%20Ittenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Evangelische%20Kirche%20Ittenbach.jpg/400px-Evangelische%20Kirche%20Ittenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Evangelische%20Kirche%20Ittenbach.jpg/800px-Evangelische%20Kirche%20Ittenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Evangelische%20Kirche%20Ittenbach.jpg/1200px-Evangelische%20Kirche%20Ittenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Evangelische%20Kirche%20Ittenbach.jpg/1920px-Evangelische%20Kirche%20Ittenbach.jpg
+  Auferstehungskirche Ittenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Auferstehungskirche_Ittenbach.jpg/400px-Auferstehungskirche_Ittenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Auferstehungskirche_Ittenbach.jpg/800px-Auferstehungskirche_Ittenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Auferstehungskirche_Ittenbach.jpg/1200px-Auferstehungskirche_Ittenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Auferstehungskirche_Ittenbach.jpg/1920px-Auferstehungskirche_Ittenbach.jpg
+  Auferstehungskirche (Ittenbach) 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Auferstehungskirche_(Ittenbach)_001.jpg/400px-Auferstehungskirche_(Ittenbach)_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Auferstehungskirche_(Ittenbach)_001.jpg/800px-Auferstehungskirche_(Ittenbach)_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Auferstehungskirche_(Ittenbach)_001.jpg/1200px-Auferstehungskirche_(Ittenbach)_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Auferstehungskirche_(Ittenbach)_001.jpg/1920px-Auferstehungskirche_(Ittenbach)_001.jpg
+  Auferstehungskirche Ittenbach Altar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Auferstehungskirche_Ittenbach_Altar.JPG/400px-Auferstehungskirche_Ittenbach_Altar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Auferstehungskirche_Ittenbach_Altar.JPG/800px-Auferstehungskirche_Ittenbach_Altar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Auferstehungskirche_Ittenbach_Altar.JPG/1200px-Auferstehungskirche_Ittenbach_Altar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Auferstehungskirche_Ittenbach_Altar.JPG/1920px-Auferstehungskirche_Ittenbach_Altar.JPG
+  Evangelische Kirche Ittenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/400px-Evangelische_Kirche_Ittenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/800px-Evangelische_Kirche_Ittenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/1200px-Evangelische_Kirche_Ittenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Evangelische_Kirche_Ittenbach.jpg/1920px-Evangelische_Kirche_Ittenbach.jpg
 ---
 
 ## Overview

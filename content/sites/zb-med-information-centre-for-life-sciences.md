@@ -13,7 +13,7 @@ regions:
 latitude: 50.924567
 longitude: 6.916296
 images:
-  - "/images-sites/zb-med-information-centre-for-life-sciences/01-364d95b0-800w.webp"
+  - "/images/zb-med-information-centre-for-life-sciences/01-364d95b0-800w.webp"
 ---
 
 ## Overview

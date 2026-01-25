@@ -1,19 +1,49 @@
 ---
-title: "Devil's Cave"
+title: Devil's Cave
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 49.754722222
 longitude: 11.42
 images:
-  - "/images-sites/devils-cave/01-a58a1dd0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg/1200px-Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg/1200px-Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Teufelshöhle_bear_bones_17RM1090-PSD.jpg/1200px-Teufelshöhle_bear_bones_17RM1090-PSD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg/1200px-Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg/1200px-Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg
+image_srcset:
+  Teufelshöhle Höhlenbär (Ursus spelaeus) Skelett 17RM1059-PSD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg/400px-Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg/800px-Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg/1200px-Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg/1920px-Teufelshöhle_Höhlenbär_(Ursus_spelaeus)_Skelett_17RM1059-PSD.jpg
+  Teufelshöhle Barbarossadom 17RM1166-PSD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg/400px-Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg/800px-Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg/1200px-Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg/1920px-Teufelshöhle_Barbarossadom_17RM1166-PSD.jpg
+  Teufelshöhle bear bones 17RM1090-PSD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Teufelshöhle_bear_bones_17RM1090-PSD.jpg/400px-Teufelshöhle_bear_bones_17RM1090-PSD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Teufelshöhle_bear_bones_17RM1090-PSD.jpg/800px-Teufelshöhle_bear_bones_17RM1090-PSD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Teufelshöhle_bear_bones_17RM1090-PSD.jpg/1200px-Teufelshöhle_bear_bones_17RM1090-PSD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Teufelshöhle_bear_bones_17RM1090-PSD.jpg/1920px-Teufelshöhle_bear_bones_17RM1090-PSD.jpg
+  Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg/400px-Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg/800px-Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg/1200px-Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg/1920px-Teufelshöhle-Höhlenbär-Dreiviertelprofil.jpg
+  Teufelshöhle bei Pottenstein, Parkplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg/400px-Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg/800px-Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg/1200px-Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg/1920px-Teufelshöhle_bei_Pottenstein,_Parkplatz.jpg
 ---
 
 ## Overview

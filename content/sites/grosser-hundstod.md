@@ -1,19 +1,49 @@
 ---
-title: "Großer Hundstod"
+title: Großer Hundstod
 date: 2026-01-23
 draft: false
-description: "mountain in the Berchtesgaden Alps at the border Salzburg / Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Berchtesgaden Alps at the border Salzburg / Bavaria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.5125
 longitude: 12.8861
 images:
-  - "/images-sites/grosser-hundstod/01-53cca8dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Großer_Hundstod.jpg/1200px-Großer_Hundstod.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hundstod.jpg/1200px-Hundstod.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dießbach_Hochwies_Hundstod.jpg/1200px-Dießbach_Hochwies_Hundstod.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/1200px-Funtensee_Hundstod.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Grosser_Hundstod.jpg/1200px-Grosser_Hundstod.jpg
+image_srcset:
+  Großer Hundstod.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Großer_Hundstod.jpg/400px-Großer_Hundstod.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Großer_Hundstod.jpg/800px-Großer_Hundstod.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Großer_Hundstod.jpg/1200px-Großer_Hundstod.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Großer_Hundstod.jpg/1920px-Großer_Hundstod.jpg
+  Hundstod.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hundstod.jpg/400px-Hundstod.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hundstod.jpg/800px-Hundstod.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hundstod.jpg/1200px-Hundstod.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hundstod.jpg/1920px-Hundstod.jpg
+  Dießbach Hochwies Hundstod.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dießbach_Hochwies_Hundstod.jpg/400px-Dießbach_Hochwies_Hundstod.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dießbach_Hochwies_Hundstod.jpg/800px-Dießbach_Hochwies_Hundstod.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dießbach_Hochwies_Hundstod.jpg/1200px-Dießbach_Hochwies_Hundstod.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dießbach_Hochwies_Hundstod.jpg/1920px-Dießbach_Hochwies_Hundstod.jpg
+  Funtensee Hundstod.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/400px-Funtensee_Hundstod.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/800px-Funtensee_Hundstod.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/1200px-Funtensee_Hundstod.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/1920px-Funtensee_Hundstod.jpg
+  Grosser Hundstod.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Grosser_Hundstod.jpg/400px-Grosser_Hundstod.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Grosser_Hundstod.jpg/800px-Grosser_Hundstod.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Grosser_Hundstod.jpg/1200px-Grosser_Hundstod.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Grosser_Hundstod.jpg/1920px-Grosser_Hundstod.jpg
 ---
 
 ## Overview

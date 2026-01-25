@@ -1,36 +1,56 @@
 ---
-title: "Herrenchiemsee"
-site_name: "Herrenchiemsee"
+title: Herrenchiemsee
+site_name: Herrenchiemsee
 date: 2026-01-11
 draft: false
-wikidata_id: "Q118618"
-
-description: "Imagine stepping onto an island that transports you to the opulent era of Bavarian royalty. Herrenchiemsee, a remarkable complex of royal buildings, sit..."
-# Display fields (for templates)
-region: "Bavaria"
-country: "Germany"
-heritage_type: "palace"
-
-# Taxonomies (Hugo plural format)
+wikidata_id: Q118618
+description: Imagine stepping onto an island that transports you to the opulent era
+  of Bavarian royalty. Herrenchiemsee, a remarkable complex of royal buildings, sit...
+region: Bavaria
+country: Germany
+heritage_type: palace
 categories:
-  - "palace"
-  - "royal residence"
+- palace
+- royal residence
 regions:
-    - "Bavaria"
+- Bavaria
 tags:
-  - "unesco"
-
-# Location
+- unesco
 latitude: 47.860428624
 longitude: 12.402198618
-
-# Visit Information
-website: "https://www.herrenchiemsee.de/"
-
-# Images
+website: https://www.herrenchiemsee.de/
 images:
-  - "/images/herrenchiemsee/wikimedia-1920w.webp"
-  - "/images/herrenchiemsee/satellite-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg/1200px-Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/1200px-Aerial_image_of_the_Chiemsee_municipality.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/1200px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerials_Bavaria_16.06.2006_11-40-01.jpg/1200px-Aerials_Bavaria_16.06.2006_11-40-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG/1200px-View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG
+image_srcset:
+  Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg/400px-Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg/800px-Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg/1200px-Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg/1920px-Aerial%20image%20of%20the%20New%20Palace%20Herrenchiemsee.jpg
+  Aerial image of the Chiemsee municipality.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/400px-Aerial_image_of_the_Chiemsee_municipality.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/800px-Aerial_image_of_the_Chiemsee_municipality.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/1200px-Aerial_image_of_the_Chiemsee_municipality.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/1920px-Aerial_image_of_the_Chiemsee_municipality.jpg
+  Aerial image of the New Palace Herrenchiemsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/400px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/800px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/1200px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg/1920px-Aerial_image_of_the_New_Palace_Herrenchiemsee.jpg
+  Aerials Bavaria 16.06.2006 11-40-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerials_Bavaria_16.06.2006_11-40-01.jpg/400px-Aerials_Bavaria_16.06.2006_11-40-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerials_Bavaria_16.06.2006_11-40-01.jpg/800px-Aerials_Bavaria_16.06.2006_11-40-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerials_Bavaria_16.06.2006_11-40-01.jpg/1200px-Aerials_Bavaria_16.06.2006_11-40-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerials_Bavaria_16.06.2006_11-40-01.jpg/1920px-Aerials_Bavaria_16.06.2006_11-40-01.jpg
+  View from the palace Herrenchiemsee to the East (2010).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG/400px-View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG/800px-View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG/1200px-View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG/1920px-View_from_the_palace_Herrenchiemsee_to_the_East_(2010).JPG
 ---
 
 ## Overview

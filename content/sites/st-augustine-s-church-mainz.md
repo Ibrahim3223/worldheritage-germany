@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q76886"
 description: "St. Augustines Church in Mainz, Germany, is a striking example of Baroque architecture, captivating visitors with its elegant lines and historical impor..."
 images:
-  - "/images-sites/st-augustine-s-church-mainz/01-a4b40278-1920w.webp"
-  - "/images-sites/st-augustine-s-church-mainz/02-e89638d8-1920w.webp"
-  - "/images-sites/st-augustine-s-church-mainz/03-14fd483d-1920w.webp"
+  - "/images/st-augustine-s-church-mainz/01-a4b40278-1920w.webp"
+  - "/images/st-augustine-s-church-mainz/02-e89638d8-1920w.webp"
+  - "/images/st-augustine-s-church-mainz/03-14fd483d-1920w.webp"
 ---
 
 ## Overview

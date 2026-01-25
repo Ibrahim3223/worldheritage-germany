@@ -1,21 +1,49 @@
 ---
-title: "Burg Blomendal"
+title: Burg Blomendal
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1847
 longitude: 8.58114
 images:
-  - "/images-sites/burg-blomendal/01-e6a79f21-800w.webp"
-  - "/images-sites/burg-blomendal/02-4ad2d9be-800w.webp"
-  - "/images-sites/burg-blomendal/03-54ab81eb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2013-05-30_Burg_Blomendal_entzerrt.jpg/1200px-2013-05-30_Burg_Blomendal_entzerrt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Blomendal_Gartenseite.jpg/1200px-Burg_Blomendal_Gartenseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Blomendal.jpg/1200px-Burg_Blomendal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BurgBlomendal.jpg/1200px-BurgBlomendal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blumenthal1600.jpeg/1200px-Blumenthal1600.jpeg
+image_srcset:
+  2013-05-30 Burg Blomendal entzerrt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2013-05-30_Burg_Blomendal_entzerrt.jpg/400px-2013-05-30_Burg_Blomendal_entzerrt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2013-05-30_Burg_Blomendal_entzerrt.jpg/800px-2013-05-30_Burg_Blomendal_entzerrt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2013-05-30_Burg_Blomendal_entzerrt.jpg/1200px-2013-05-30_Burg_Blomendal_entzerrt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2013-05-30_Burg_Blomendal_entzerrt.jpg/1920px-2013-05-30_Burg_Blomendal_entzerrt.jpg
+  Burg Blomendal Gartenseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Blomendal_Gartenseite.jpg/400px-Burg_Blomendal_Gartenseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Blomendal_Gartenseite.jpg/800px-Burg_Blomendal_Gartenseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Blomendal_Gartenseite.jpg/1200px-Burg_Blomendal_Gartenseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Blomendal_Gartenseite.jpg/1920px-Burg_Blomendal_Gartenseite.jpg
+  Burg Blomendal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Blomendal.jpg/400px-Burg_Blomendal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Blomendal.jpg/800px-Burg_Blomendal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Blomendal.jpg/1200px-Burg_Blomendal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Blomendal.jpg/1920px-Burg_Blomendal.jpg
+  BurgBlomendal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BurgBlomendal.jpg/400px-BurgBlomendal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BurgBlomendal.jpg/800px-BurgBlomendal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BurgBlomendal.jpg/1200px-BurgBlomendal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BurgBlomendal.jpg/1920px-BurgBlomendal.jpg
+  Blumenthal1600.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blumenthal1600.jpeg/400px-Blumenthal1600.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blumenthal1600.jpeg/800px-Blumenthal1600.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blumenthal1600.jpeg/1200px-Blumenthal1600.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blumenthal1600.jpeg/1920px-Blumenthal1600.jpeg
 ---
 
 ## Overview

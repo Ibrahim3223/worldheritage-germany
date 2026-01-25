@@ -13,9 +13,9 @@ regions:
 latitude: 47.938611111
 longitude: 12.7775
 images:
-  - "/images-sites/waginger-see/01-f0db29e1-800w.webp"
-  - "/images-sites/waginger-see/02-8acaa947-800w.webp"
-  - "/images-sites/waginger-see/03-8acb8465-800w.webp"
+  - "/images/waginger-see/01-f0db29e1-800w.webp"
+  - "/images/waginger-see/02-8acaa947-800w.webp"
+  - "/images/waginger-see/03-8acb8465-800w.webp"
 ---
 
 ## Overview

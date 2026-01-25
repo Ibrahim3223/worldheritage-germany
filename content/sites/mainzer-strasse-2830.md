@@ -13,7 +13,7 @@ regions:
 latitude: 50.6361
 longitude: 7.20611
 images:
-  - "/images-sites/mainzer-strasse-2830/01-47798a0e-800w.webp"
+  - "/images/mainzer-strasse-2830/01-47798a0e-800w.webp"
 ---
 
 ## Overview

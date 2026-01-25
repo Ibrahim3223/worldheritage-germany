@@ -13,7 +13,7 @@ regions:
 latitude: 52.933333333
 longitude: 13.716666666
 images:
-  - "/images-sites/werbellinsee/01-65f0c22a-800w.webp"
+  - "/images/werbellinsee/01-65f0c22a-800w.webp"
 ---
 
 ## Overview

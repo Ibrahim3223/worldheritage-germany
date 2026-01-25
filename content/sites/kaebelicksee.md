@@ -1,19 +1,49 @@
 ---
-title: "Käbelicksee"
+title: Käbelicksee
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.417308333
 longitude: 12.942580555
 images:
-  - "/images-sites/kaebelicksee/01-9631edf6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Käbelicksee_2021-09-05_01.jpg/1200px-Käbelicksee_2021-09-05_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Käbelicksee_2021-09-05_03.jpg/1200px-Käbelicksee_2021-09-05_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Käbelicksee_2021-09-05_06.jpg/1200px-Käbelicksee_2021-09-05_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Käbelicksee_2021-09-05_09.jpg/1200px-Käbelicksee_2021-09-05_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Havel-Kaebeliksee-11-VI-2007-205.jpg/1200px-Havel-Kaebeliksee-11-VI-2007-205.jpg
+image_srcset:
+  Käbelicksee 2021-09-05 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Käbelicksee_2021-09-05_01.jpg/400px-Käbelicksee_2021-09-05_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Käbelicksee_2021-09-05_01.jpg/800px-Käbelicksee_2021-09-05_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Käbelicksee_2021-09-05_01.jpg/1200px-Käbelicksee_2021-09-05_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Käbelicksee_2021-09-05_01.jpg/1920px-Käbelicksee_2021-09-05_01.jpg
+  Käbelicksee 2021-09-05 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Käbelicksee_2021-09-05_03.jpg/400px-Käbelicksee_2021-09-05_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Käbelicksee_2021-09-05_03.jpg/800px-Käbelicksee_2021-09-05_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Käbelicksee_2021-09-05_03.jpg/1200px-Käbelicksee_2021-09-05_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Käbelicksee_2021-09-05_03.jpg/1920px-Käbelicksee_2021-09-05_03.jpg
+  Käbelicksee 2021-09-05 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Käbelicksee_2021-09-05_06.jpg/400px-Käbelicksee_2021-09-05_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Käbelicksee_2021-09-05_06.jpg/800px-Käbelicksee_2021-09-05_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Käbelicksee_2021-09-05_06.jpg/1200px-Käbelicksee_2021-09-05_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Käbelicksee_2021-09-05_06.jpg/1920px-Käbelicksee_2021-09-05_06.jpg
+  Käbelicksee 2021-09-05 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Käbelicksee_2021-09-05_09.jpg/400px-Käbelicksee_2021-09-05_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Käbelicksee_2021-09-05_09.jpg/800px-Käbelicksee_2021-09-05_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Käbelicksee_2021-09-05_09.jpg/1200px-Käbelicksee_2021-09-05_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Käbelicksee_2021-09-05_09.jpg/1920px-Käbelicksee_2021-09-05_09.jpg
+  Havel-Kaebeliksee-11-VI-2007-205.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Havel-Kaebeliksee-11-VI-2007-205.jpg/400px-Havel-Kaebeliksee-11-VI-2007-205.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Havel-Kaebeliksee-11-VI-2007-205.jpg/800px-Havel-Kaebeliksee-11-VI-2007-205.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Havel-Kaebeliksee-11-VI-2007-205.jpg/1200px-Havel-Kaebeliksee-11-VI-2007-205.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Havel-Kaebeliksee-11-VI-2007-205.jpg/1920px-Havel-Kaebeliksee-11-VI-2007-205.jpg
 ---
 
 ## Overview

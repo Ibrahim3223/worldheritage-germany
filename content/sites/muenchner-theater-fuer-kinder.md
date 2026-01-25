@@ -13,7 +13,7 @@ regions:
 latitude: 48.1461
 longitude: 11.5594
 images:
-  - "/images-sites/muenchner-theater-fuer-kinder/01-1cae02c2-800w.webp"
+  - "/images/muenchner-theater-fuer-kinder/01-1cae02c2-800w.webp"
 ---
 
 ## Overview

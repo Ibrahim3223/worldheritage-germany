@@ -13,7 +13,7 @@ regions:
 latitude: 50.943225
 longitude: 6.945967
 images:
-  - "/images-sites/st-gereons-basilica/01-a46d3607-800w.webp"
+  - "/images/st-gereons-basilica/01-a46d3607-800w.webp"
 ---
 
 ## Overview

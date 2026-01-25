@@ -13,9 +13,9 @@ regions:
 latitude: 52.2628
 longitude: 10.5178
 images:
-  - "/images-sites/marienbrunnen-braunschweig/01-7cd491b0-800w.webp"
-  - "/images-sites/marienbrunnen-braunschweig/02-d28c19e6-800w.webp"
-  - "/images-sites/marienbrunnen-braunschweig/03-843d1f6f-800w.webp"
+  - "/images/marienbrunnen-braunschweig/01-7cd491b0-800w.webp"
+  - "/images/marienbrunnen-braunschweig/02-d28c19e6-800w.webp"
+  - "/images/marienbrunnen-braunschweig/03-843d1f6f-800w.webp"
 ---
 
 ## Overview

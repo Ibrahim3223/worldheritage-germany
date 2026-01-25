@@ -1,19 +1,49 @@
 ---
-title: "Emperor William Shaft"
+title: Emperor William Shaft
 date: 2026-01-23
 draft: false
-description: "mine"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8042
 longitude: 10.3445
 images:
-  - "/images-sites/emperor-william-shaft/01-56120bd8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png/1200px-Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaiser-Wilhelm-Schacht_Clausthal_01.JPG/1200px-Kaiser-Wilhelm-Schacht_Clausthal_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kaiser-wilhelm-schacht.jpg/1200px-Kaiser-wilhelm-schacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kaue_Wilhelmschacht_innen.jpg/1200px-Kaue_Wilhelmschacht_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Westgiebel_Maschinenhaus_Wilhelmschacht.jpg/1200px-Westgiebel_Maschinenhaus_Wilhelmschacht.jpg
+image_srcset:
+  Übersichtskarte horizontale Förderung Berginspektion Clausthal 1905.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png/400px-Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png/800px-Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png/1200px-Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png/1920px-Übersichtskarte_horizontale_Förderung_Berginspektion_Clausthal_1905.png
+  Kaiser-Wilhelm-Schacht Clausthal 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaiser-Wilhelm-Schacht_Clausthal_01.JPG/400px-Kaiser-Wilhelm-Schacht_Clausthal_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaiser-Wilhelm-Schacht_Clausthal_01.JPG/800px-Kaiser-Wilhelm-Schacht_Clausthal_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaiser-Wilhelm-Schacht_Clausthal_01.JPG/1200px-Kaiser-Wilhelm-Schacht_Clausthal_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaiser-Wilhelm-Schacht_Clausthal_01.JPG/1920px-Kaiser-Wilhelm-Schacht_Clausthal_01.JPG
+  Kaiser-wilhelm-schacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kaiser-wilhelm-schacht.jpg/400px-Kaiser-wilhelm-schacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kaiser-wilhelm-schacht.jpg/800px-Kaiser-wilhelm-schacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kaiser-wilhelm-schacht.jpg/1200px-Kaiser-wilhelm-schacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kaiser-wilhelm-schacht.jpg/1920px-Kaiser-wilhelm-schacht.jpg
+  Kaue Wilhelmschacht innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kaue_Wilhelmschacht_innen.jpg/400px-Kaue_Wilhelmschacht_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kaue_Wilhelmschacht_innen.jpg/800px-Kaue_Wilhelmschacht_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kaue_Wilhelmschacht_innen.jpg/1200px-Kaue_Wilhelmschacht_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kaue_Wilhelmschacht_innen.jpg/1920px-Kaue_Wilhelmschacht_innen.jpg
+  Westgiebel Maschinenhaus Wilhelmschacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Westgiebel_Maschinenhaus_Wilhelmschacht.jpg/400px-Westgiebel_Maschinenhaus_Wilhelmschacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Westgiebel_Maschinenhaus_Wilhelmschacht.jpg/800px-Westgiebel_Maschinenhaus_Wilhelmschacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Westgiebel_Maschinenhaus_Wilhelmschacht.jpg/1200px-Westgiebel_Maschinenhaus_Wilhelmschacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Westgiebel_Maschinenhaus_Wilhelmschacht.jpg/1920px-Westgiebel_Maschinenhaus_Wilhelmschacht.jpg
 ---
 
 ## Overview

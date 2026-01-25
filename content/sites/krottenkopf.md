@@ -13,7 +13,7 @@ regions:
 latitude: 47.545280555
 longitude: 11.192780555
 images:
-  - "/images-sites/krottenkopf/01-0d8d2ca4-800w.webp"
+  - "/images/krottenkopf/01-0d8d2ca4-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Jever Brewery"
+title: Jever Brewery
 date: 2026-01-23
 draft: false
-description: "trademark"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: trademark
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.57600021
 longitude: 7.90199995
-
-# Images
 images:
-  - "/images-sites/jever-brewery/01-2a769435-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Friesisches_Brauhaus_20200909_133441.jpg/1200px-Friesisches_Brauhaus_20200909_133441.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Friesisches_Brauhaus_20200909_134211.jpg/1200px-Friesisches_Brauhaus_20200909_134211.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/1200px-Friesischesbrauhauszujever2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friesisches_Brauhaus_Jever,_2019.jpg/1200px-Friesisches_Brauhaus_Jever,_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg/1200px-Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg
+image_srcset:
+  Friesisches Brauhaus 20200909 133441.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Friesisches_Brauhaus_20200909_133441.jpg/400px-Friesisches_Brauhaus_20200909_133441.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Friesisches_Brauhaus_20200909_133441.jpg/800px-Friesisches_Brauhaus_20200909_133441.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Friesisches_Brauhaus_20200909_133441.jpg/1200px-Friesisches_Brauhaus_20200909_133441.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Friesisches_Brauhaus_20200909_133441.jpg/1920px-Friesisches_Brauhaus_20200909_133441.jpg
+  Friesisches Brauhaus 20200909 134211.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Friesisches_Brauhaus_20200909_134211.jpg/400px-Friesisches_Brauhaus_20200909_134211.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Friesisches_Brauhaus_20200909_134211.jpg/800px-Friesisches_Brauhaus_20200909_134211.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Friesisches_Brauhaus_20200909_134211.jpg/1200px-Friesisches_Brauhaus_20200909_134211.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Friesisches_Brauhaus_20200909_134211.jpg/1920px-Friesisches_Brauhaus_20200909_134211.jpg
+  Friesischesbrauhauszujever2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/400px-Friesischesbrauhauszujever2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/800px-Friesischesbrauhauszujever2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/1200px-Friesischesbrauhauszujever2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friesischesbrauhauszujever2.jpg/1920px-Friesischesbrauhauszujever2.jpg
+  Friesisches Brauhaus Jever, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friesisches_Brauhaus_Jever,_2019.jpg/400px-Friesisches_Brauhaus_Jever,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friesisches_Brauhaus_Jever,_2019.jpg/800px-Friesisches_Brauhaus_Jever,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friesisches_Brauhaus_Jever,_2019.jpg/1200px-Friesisches_Brauhaus_Jever,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friesisches_Brauhaus_Jever,_2019.jpg/1920px-Friesisches_Brauhaus_Jever,_2019.jpg
+  Friesisches Brauhaus zu Jever - Jever Fun.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg/400px-Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg/800px-Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg/1200px-Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg/1920px-Friesisches_Brauhaus_zu_Jever_-_Jever_Fun.jpg
 ---
 
 ## Overview

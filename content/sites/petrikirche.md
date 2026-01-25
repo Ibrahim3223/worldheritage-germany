@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2080585"
 description: "In the heart of Hanover, Germany, the Petrikirche stands as a remarkable example of Gothic Revival architecture. This Lutheran church, designed by archi..."
 images:
-  - "/images-sites/petrikirche/01-c34e20da-1920w.webp"
-  - "/images-sites/petrikirche/02-e6651ede-1920w.webp"
-  - "/images-sites/petrikirche/03-356bfe90-1920w.webp"
+  - "/images/petrikirche/01-c34e20da-1920w.webp"
+  - "/images/petrikirche/02-e6651ede-1920w.webp"
+  - "/images/petrikirche/03-356bfe90-1920w.webp"
 ---
 
 ## Overview

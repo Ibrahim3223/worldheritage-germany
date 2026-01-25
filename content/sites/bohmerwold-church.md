@@ -1,23 +1,50 @@
 ---
-title: "Böhmerwold Church"
-site_name: "Böhmerwold Church"
-slug: "bohmerwold-church"
-region: "Lower Saxony"
-
-# Location
+title: Böhmerwold Church
+site_name: Böhmerwold Church
+slug: bohmerwold-church
+region: Lower Saxony
 latitude: 53.2334
 longitude: 7.33001
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1019718"
-description: "In the quaint region of Jemgum, Germany, the Böhmerwold Church emerges as a striking example of Baroque architecture, captivating visitors with its hist..."
+- cultural site
+wikidata_id: Q1019718
+description: In the quaint region of Jemgum, Germany, the Böhmerwold Church emerges
+  as a striking example of Baroque architecture, captivating visitors with its hist...
 images:
-  - "/images-sites/bohmerwold-church/01-4a0d42e8-1920w.webp"
-  - "/images-sites/bohmerwold-church/02-b921b69e-1920w.webp"
-  - "/images-sites/bohmerwold-church/03-87c8c03d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ChurchB%C3%B6hmerwold.jpg/1200px-ChurchB%C3%B6hmerwold.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Böhmerwold_Kirche_(1).jpg/1200px-Böhmerwold_Kirche_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg/1200px-Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg/1200px-Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1200px-ChurchBöhmerwold.jpg
+image_srcset:
+  ChurchB%C3%B6hmerwold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ChurchB%C3%B6hmerwold.jpg/400px-ChurchB%C3%B6hmerwold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ChurchB%C3%B6hmerwold.jpg/800px-ChurchB%C3%B6hmerwold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ChurchB%C3%B6hmerwold.jpg/1200px-ChurchB%C3%B6hmerwold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ChurchB%C3%B6hmerwold.jpg/1920px-ChurchB%C3%B6hmerwold.jpg
+  Böhmerwold Kirche (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Böhmerwold_Kirche_(1).jpg/400px-Böhmerwold_Kirche_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Böhmerwold_Kirche_(1).jpg/800px-Böhmerwold_Kirche_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Böhmerwold_Kirche_(1).jpg/1200px-Böhmerwold_Kirche_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Böhmerwold_Kirche_(1).jpg/1920px-Böhmerwold_Kirche_(1).jpg
+  Jemgum Böhmerwold - Böhmerwold - Friedhof + Kirche 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg/400px-Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg/800px-Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg/1200px-Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg/1920px-Jemgum_Böhmerwold_-_Böhmerwold_-_Friedhof_+_Kirche_02_ies.jpg
+  Jemgum Böhmerwold - Böhmerwold + Bentumer Sieltief + Friedhof + Kirche 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg/400px-Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg/800px-Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg/1200px-Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg/1920px-Jemgum_Böhmerwold_-_Böhmerwold_+_Bentumer_Sieltief_+_Friedhof_+_Kirche_01_ies.jpg
+  ChurchBöhmerwold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/400px-ChurchBöhmerwold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/800px-ChurchBöhmerwold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1200px-ChurchBöhmerwold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchBöhmerwold.jpg/1920px-ChurchBöhmerwold.jpg
 ---
 
 ## Overview

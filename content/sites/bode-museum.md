@@ -1,27 +1,49 @@
 ---
-title: "Bode Museum"
+title: Bode Museum
 date: 2026-01-23
 draft: false
-description: "art museum in Berlin"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Berlin
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.521944444
 longitude: 13.394722222
-
-# Images
 images:
-  - "/images-sites/bode-museum/01-b88bdc35-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg/1200px-Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20240815_Bode-Museum.jpg/1200px-20240815_Bode-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/1200px-Berlin_Museumsinsel_Fernsehturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-08_Bode-Museum.jpg/1200px-2019-08-08_Bode-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin,_Bode-Museum,_2012-07_CN-01.jpg/1200px-Berlin,_Bode-Museum,_2012-07_CN-01.jpg
+image_srcset:
+  Museo Bode, Berlín, Alemania, 2016-04-22, DD 30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg/400px-Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg/800px-Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg/1200px-Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg/1920px-Museo_Bode,_Berlín,_Alemania,_2016-04-22,_DD_30.jpg
+  20240815 Bode-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20240815_Bode-Museum.jpg/400px-20240815_Bode-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20240815_Bode-Museum.jpg/800px-20240815_Bode-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20240815_Bode-Museum.jpg/1200px-20240815_Bode-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20240815_Bode-Museum.jpg/1920px-20240815_Bode-Museum.jpg
+  Berlin Museumsinsel Fernsehturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/400px-Berlin_Museumsinsel_Fernsehturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/800px-Berlin_Museumsinsel_Fernsehturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/1200px-Berlin_Museumsinsel_Fernsehturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Museumsinsel_Fernsehturm.jpg/1920px-Berlin_Museumsinsel_Fernsehturm.jpg
+  2019-08-08 Bode-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-08_Bode-Museum.jpg/400px-2019-08-08_Bode-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-08_Bode-Museum.jpg/800px-2019-08-08_Bode-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-08_Bode-Museum.jpg/1200px-2019-08-08_Bode-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2019-08-08_Bode-Museum.jpg/1920px-2019-08-08_Bode-Museum.jpg
+  Berlin, Bode-Museum, 2012-07 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin,_Bode-Museum,_2012-07_CN-01.jpg/400px-Berlin,_Bode-Museum,_2012-07_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin,_Bode-Museum,_2012-07_CN-01.jpg/800px-Berlin,_Bode-Museum,_2012-07_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin,_Bode-Museum,_2012-07_CN-01.jpg/1200px-Berlin,_Bode-Museum,_2012-07_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin,_Bode-Museum,_2012-07_CN-01.jpg/1920px-Berlin,_Bode-Museum,_2012-07_CN-01.jpg
 ---
 
 ## Overview

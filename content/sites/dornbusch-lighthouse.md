@@ -1,19 +1,49 @@
 ---
-title: "Dornbusch Lighthouse"
+title: Dornbusch Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse on Hiddensee in Mecklenburg-Western Pomerania, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse on Hiddensee in Mecklenburg-Western Pomerania, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.599166666
 longitude: 13.119444444
 images:
-  - "/images-sites/dornbusch-lighthouse/01-2ba87992-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg/1200px-Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leuchtturm_Dornbusch.JPG/1200px-Leuchtturm_Dornbusch.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LeuchtfeuerDornbusch_2016-06-01.JPG/1200px-LeuchtfeuerDornbusch_2016-06-01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_09_06_180_Leuchtturm.jpg/1200px-2006_09_06_180_Leuchtturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leuchtturm_Dornbusch_2012.JPG/1200px-Leuchtturm_Dornbusch_2012.JPG
+image_srcset:
+  Hiddensee asv2022-08 img39 Leuchtturm Dornbusch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg/400px-Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg/800px-Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg/1200px-Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg/1920px-Hiddensee_asv2022-08_img39_Leuchtturm_Dornbusch.jpg
+  Leuchtturm Dornbusch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leuchtturm_Dornbusch.JPG/400px-Leuchtturm_Dornbusch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leuchtturm_Dornbusch.JPG/800px-Leuchtturm_Dornbusch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leuchtturm_Dornbusch.JPG/1200px-Leuchtturm_Dornbusch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leuchtturm_Dornbusch.JPG/1920px-Leuchtturm_Dornbusch.JPG
+  LeuchtfeuerDornbusch 2016-06-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LeuchtfeuerDornbusch_2016-06-01.JPG/400px-LeuchtfeuerDornbusch_2016-06-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LeuchtfeuerDornbusch_2016-06-01.JPG/800px-LeuchtfeuerDornbusch_2016-06-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LeuchtfeuerDornbusch_2016-06-01.JPG/1200px-LeuchtfeuerDornbusch_2016-06-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LeuchtfeuerDornbusch_2016-06-01.JPG/1920px-LeuchtfeuerDornbusch_2016-06-01.JPG
+  2006 09 06 180 Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_09_06_180_Leuchtturm.jpg/400px-2006_09_06_180_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_09_06_180_Leuchtturm.jpg/800px-2006_09_06_180_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_09_06_180_Leuchtturm.jpg/1200px-2006_09_06_180_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_09_06_180_Leuchtturm.jpg/1920px-2006_09_06_180_Leuchtturm.jpg
+  Leuchtturm Dornbusch 2012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leuchtturm_Dornbusch_2012.JPG/400px-Leuchtturm_Dornbusch_2012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leuchtturm_Dornbusch_2012.JPG/800px-Leuchtturm_Dornbusch_2012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leuchtturm_Dornbusch_2012.JPG/1200px-Leuchtturm_Dornbusch_2012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Leuchtturm_Dornbusch_2012.JPG/1920px-Leuchtturm_Dornbusch_2012.JPG
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Stadeck"
+title: Burg Stadeck
 date: 2026-01-23
 draft: false
-description: "castle in Stadecken-Elsheim"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Stadecken-Elsheim
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9115
 longitude: 8.1358
-
-# Images
 images:
-  - "/images-sites/burg-stadeck/01-8acecc92-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Stadeck_L1300291a.jpg/1200px-Stadeck_L1300291a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG/1200px-Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG/1200px-Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BurgStadeck-01s.jpg/1200px-BurgStadeck-01s.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Stadecken-Elsheim_COA.svg/1200px-DEU_Stadecken-Elsheim_COA.svg.png
+image_srcset:
+  Stadeck L1300291a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Stadeck_L1300291a.jpg/400px-Stadeck_L1300291a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Stadeck_L1300291a.jpg/800px-Stadeck_L1300291a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Stadeck_L1300291a.jpg/1200px-Stadeck_L1300291a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Stadeck_L1300291a.jpg/1920px-Stadeck_L1300291a.jpg
+  Stadecken Burg Stadeck Burggrabenstraße 9 Amtshaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG/400px-Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG/800px-Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG/1200px-Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG/1920px-Stadecken_Burg_Stadeck_Burggrabenstraße_9_Amtshaus.JPG
+  Stadecken Burg Stadeck Burggrabenstraße 7 Kernburg von Westen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG/400px-Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG/800px-Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG/1200px-Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG/1920px-Stadecken_Burg_Stadeck_Burggrabenstraße_7_Kernburg_von_Westen.JPG
+  BurgStadeck-01s.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BurgStadeck-01s.jpg/400px-BurgStadeck-01s.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BurgStadeck-01s.jpg/800px-BurgStadeck-01s.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BurgStadeck-01s.jpg/1200px-BurgStadeck-01s.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BurgStadeck-01s.jpg/1920px-BurgStadeck-01s.jpg
+  DEU Stadecken-Elsheim COA.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Stadecken-Elsheim_COA.svg/400px-DEU_Stadecken-Elsheim_COA.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Stadecken-Elsheim_COA.svg/800px-DEU_Stadecken-Elsheim_COA.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Stadecken-Elsheim_COA.svg/1200px-DEU_Stadecken-Elsheim_COA.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/DEU_Stadecken-Elsheim_COA.svg/1920px-DEU_Stadecken-Elsheim_COA.svg.png
 ---
 
 ## Overview

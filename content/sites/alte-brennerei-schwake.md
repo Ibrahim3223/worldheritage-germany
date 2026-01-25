@@ -1,19 +1,31 @@
 ---
-title: "Alte Brennerei Schwake"
+title: Alte Brennerei Schwake
 date: 2026-01-23
 draft: false
-description: "arts centre and cinema in Ennigerloh, Germany, a former destillery"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: arts centre and cinema in Ennigerloh, Germany, a former destillery
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8367
 longitude: 8.02333
 images:
-  - "/images-sites/alte-brennerei-schwake/01-8441fa28-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alte_Brennerei_Schwake.jpg/1200px-Alte_Brennerei_Schwake.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1200px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
+image_srcset:
+  Alte Brennerei Schwake.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alte_Brennerei_Schwake.jpg/400px-Alte_Brennerei_Schwake.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alte_Brennerei_Schwake.jpg/800px-Alte_Brennerei_Schwake.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alte_Brennerei_Schwake.jpg/1200px-Alte_Brennerei_Schwake.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alte_Brennerei_Schwake.jpg/1920px-Alte_Brennerei_Schwake.jpg
+  Alte Brennerei Schwake mit Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/400px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/800px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1200px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Alte_Brennerei_Schwake_mit_Infotafel.jpg/1920px-Alte_Brennerei_Schwake_mit_Infotafel.jpg
 ---
 
 ## Overview

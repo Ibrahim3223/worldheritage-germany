@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q19950914"
 description: "The Schlosskirche, also known as the Domkirche, is an iconic cathedral located in Berlin, Germany. This architectural marvel, constructed between 1747 a..."
 images:
-  - "/images-sites/schlosskirche-or-domkirche/01-298987cd-1920w.webp"
-  - "/images-sites/schlosskirche-or-domkirche/02-c6c17fd7-1920w.webp"
-  - "/images-sites/schlosskirche-or-domkirche/03-e40e6488-1920w.webp"
+  - "/images/schlosskirche-or-domkirche/01-298987cd-1920w.webp"
+  - "/images/schlosskirche-or-domkirche/02-c6c17fd7-1920w.webp"
+  - "/images/schlosskirche-or-domkirche/03-e40e6488-1920w.webp"
 ---
 
 ## Overview

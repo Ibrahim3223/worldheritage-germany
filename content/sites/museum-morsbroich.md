@@ -21,7 +21,7 @@ longitude: 7.0339445
 
 # Images
 images:
-  - "/images-sites/museum-morsbroich/01-dad32dd1-800w.webp"
+  - "/images/museum-morsbroich/01-dad32dd1-800w.webp"
 ---
 
 ## Overview

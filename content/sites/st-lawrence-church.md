@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q2320314"
 description: "The St. Lawrence Church, a striking example of Gothic Revival architecture, stands proudly in Lübeck, Schleswig-Holstein, Germany. This church, built in..."
 images:
-  - "/images-sites/st-lawrence-church/01-b60339fb-1920w.webp"
-  - "/images-sites/st-lawrence-church/02-9e5bebf6-1920w.webp"
+  - "/images/st-lawrence-church/01-b60339fb-1920w.webp"
+  - "/images/st-lawrence-church/02-9e5bebf6-1920w.webp"
 ---
 
 ## Overview

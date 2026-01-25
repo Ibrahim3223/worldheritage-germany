@@ -21,7 +21,7 @@ longitude: 10.391667
 
 # Images
 images:
-  - "/images-sites/katzenstein-castle/01-499a6e02-800w.webp"
+  - "/images/katzenstein-castle/01-499a6e02-800w.webp"
 ---
 
 ## Overview

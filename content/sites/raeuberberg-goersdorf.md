@@ -13,7 +13,7 @@ regions:
 latitude: 52.147295
 longitude: 14.059191
 images:
-  - "/images-sites/raeuberberg-goersdorf/01-ca33109d-800w.webp"
+  - "/images/raeuberberg-goersdorf/01-ca33109d-800w.webp"
 ---
 
 ## Overview

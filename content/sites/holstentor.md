@@ -1,21 +1,49 @@
 ---
-title: "Holstentor"
+title: Holstentor
 date: 2026-01-23
 draft: false
-description: "two-towered city gate in Lübeck, Germany, used as a museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: two-towered city gate in Lübeck, Germany, used as a museum
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8662
 longitude: 10.6797
 images:
-  - "/images-sites/holstentor/01-de4f6d34-800w.webp"
-  - "/images-sites/holstentor/02-f43f7968-800w.webp"
-  - "/images-sites/holstentor/03-f6dc67a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_Lübeck_2015.jpg/1200px-Holstentor_in_Lübeck_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lübeck,_Holstentor_--_2017_--_0305.jpg/1200px-Lübeck,_Holstentor_--_2017_--_0305.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1200px-00_3778_Lübeck_-_Holstentor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/00_73774_Holstentor_-_Lübeck.jpg/1200px-00_73774_Holstentor_-_Lübeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Holstentor04.jpg/1200px-Holstentor04.jpg
+image_srcset:
+  Holstentor in Lübeck 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_Lübeck_2015.jpg/400px-Holstentor_in_Lübeck_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_Lübeck_2015.jpg/800px-Holstentor_in_Lübeck_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_Lübeck_2015.jpg/1200px-Holstentor_in_Lübeck_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Holstentor_in_Lübeck_2015.jpg/1920px-Holstentor_in_Lübeck_2015.jpg
+  Lübeck, Holstentor -- 2017 -- 0305.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lübeck,_Holstentor_--_2017_--_0305.jpg/400px-Lübeck,_Holstentor_--_2017_--_0305.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lübeck,_Holstentor_--_2017_--_0305.jpg/800px-Lübeck,_Holstentor_--_2017_--_0305.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lübeck,_Holstentor_--_2017_--_0305.jpg/1200px-Lübeck,_Holstentor_--_2017_--_0305.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lübeck,_Holstentor_--_2017_--_0305.jpg/1920px-Lübeck,_Holstentor_--_2017_--_0305.jpg
+  00 3778 Lübeck - Holstentor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/400px-00_3778_Lübeck_-_Holstentor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/800px-00_3778_Lübeck_-_Holstentor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1200px-00_3778_Lübeck_-_Holstentor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/00_3778_Lübeck_-_Holstentor.jpg/1920px-00_3778_Lübeck_-_Holstentor.jpg
+  00 73774 Holstentor - Lübeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/00_73774_Holstentor_-_Lübeck.jpg/400px-00_73774_Holstentor_-_Lübeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/00_73774_Holstentor_-_Lübeck.jpg/800px-00_73774_Holstentor_-_Lübeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/00_73774_Holstentor_-_Lübeck.jpg/1200px-00_73774_Holstentor_-_Lübeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/00_73774_Holstentor_-_Lübeck.jpg/1920px-00_73774_Holstentor_-_Lübeck.jpg
+  Holstentor04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Holstentor04.jpg/400px-Holstentor04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Holstentor04.jpg/800px-Holstentor04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Holstentor04.jpg/1200px-Holstentor04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Holstentor04.jpg/1920px-Holstentor04.jpg
 ---
 
 ## Overview

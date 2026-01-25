@@ -13,7 +13,7 @@ regions:
 latitude: 48.71404
 longitude: 9.36308
 images:
-  - "/images-sites/koerschburg/01-bf52d9ca-800w.webp"
+  - "/images/koerschburg/01-bf52d9ca-800w.webp"
 ---
 
 ## Overview

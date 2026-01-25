@@ -13,9 +13,9 @@ regions:
 latitude: 52.543888888
 longitude: 13.330277777
 images:
-  - "/images-sites/ploetzensee/01-6aeda03e-800w.webp"
-  - "/images-sites/ploetzensee/02-9dc073c6-800w.webp"
-  - "/images-sites/ploetzensee/03-8c48d101-800w.webp"
+  - "/images/ploetzensee/01-6aeda03e-800w.webp"
+  - "/images/ploetzensee/02-9dc073c6-800w.webp"
+  - "/images/ploetzensee/03-8c48d101-800w.webp"
 ---
 
 ## Overview

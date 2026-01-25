@@ -13,7 +13,7 @@ regions:
 latitude: 51.86786
 longitude: 12.642848
 images:
-  - "/images-sites/museum-der-staedtischen-sammlungen-im-zeughaus/01-ad1f63d9-800w.webp"
+  - "/images/museum-der-staedtischen-sammlungen-im-zeughaus/01-ad1f63d9-800w.webp"
 ---
 
 ## Overview

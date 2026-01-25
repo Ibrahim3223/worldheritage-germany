@@ -1,27 +1,49 @@
 ---
-title: "Abenberg Castle"
+title: Abenberg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Abenberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Abenberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.24333
 longitude: 10.96324
-
-# Images
 images:
-  - "/images-sites/abenberg-castle/01-408e0d4f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG/1200px-Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgkapelle_Abenberg.JPG/1200px-Burgkapelle_Abenberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20080330_Burg_Abenberg.jpg/1200px-20080330_Burg_Abenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Abenberg_2.jpg/1200px-Burg_Abenberg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Die_Gartenlaube_(1897)_b_469.jpg/1200px-Die_Gartenlaube_(1897)_b_469.jpg
+image_srcset:
+  Abenberg Burg Schottenturm SW P1051105 20200916.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG/400px-Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG/800px-Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG/1200px-Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG/1920px-Abenberg_Burg_Schottenturm_SW_P1051105_20200916.JPG
+  Burgkapelle Abenberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgkapelle_Abenberg.JPG/400px-Burgkapelle_Abenberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgkapelle_Abenberg.JPG/800px-Burgkapelle_Abenberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgkapelle_Abenberg.JPG/1200px-Burgkapelle_Abenberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgkapelle_Abenberg.JPG/1920px-Burgkapelle_Abenberg.JPG
+  20080330 Burg Abenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20080330_Burg_Abenberg.jpg/400px-20080330_Burg_Abenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20080330_Burg_Abenberg.jpg/800px-20080330_Burg_Abenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20080330_Burg_Abenberg.jpg/1200px-20080330_Burg_Abenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20080330_Burg_Abenberg.jpg/1920px-20080330_Burg_Abenberg.jpg
+  Burg Abenberg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Abenberg_2.jpg/400px-Burg_Abenberg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Abenberg_2.jpg/800px-Burg_Abenberg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Abenberg_2.jpg/1200px-Burg_Abenberg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Abenberg_2.jpg/1920px-Burg_Abenberg_2.jpg
+  Die Gartenlaube (1897) b 469.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Die_Gartenlaube_(1897)_b_469.jpg/400px-Die_Gartenlaube_(1897)_b_469.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Die_Gartenlaube_(1897)_b_469.jpg/800px-Die_Gartenlaube_(1897)_b_469.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Die_Gartenlaube_(1897)_b_469.jpg/1200px-Die_Gartenlaube_(1897)_b_469.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Die_Gartenlaube_(1897)_b_469.jpg/1920px-Die_Gartenlaube_(1897)_b_469.jpg
 ---
 
 ## Overview

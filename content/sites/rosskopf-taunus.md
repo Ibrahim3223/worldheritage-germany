@@ -13,7 +13,7 @@ regions:
 latitude: 50.2583
 longitude: 8.52917
 images:
-  - "/images-sites/rosskopf-taunus/01-54da7d55-800w.webp"
+  - "/images/rosskopf-taunus/01-54da7d55-800w.webp"
 ---
 
 ## Overview

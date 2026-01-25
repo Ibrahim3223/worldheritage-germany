@@ -1,29 +1,49 @@
 ---
-title: "Hohengeroldseck"
+title: Hohengeroldseck
 date: 2026-01-23
 draft: false
-description: "castle ruin"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.3325
 longitude: 7.98028
-
-# Images
 images:
-  - "/images-sites/hohengeroldseck/01-bf355eb2-800w.webp"
-  - "/images-sites/hohengeroldseck/02-20d02682-800w.webp"
-  - "/images-sites/hohengeroldseck/03-5a14773c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hohengeroldseck_Brunnenhaus_20190831_1848.jpg/1200px-Hohengeroldseck_Brunnenhaus_20190831_1848.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marianne_Leyen.JPG/1200px-Marianne_Leyen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Die_Straßburger_belagern_die_Geroldseck_1473.jpg/1200px-Die_Straßburger_belagern_die_Geroldseck_1473.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Damian_Hartard_von_der_Leyen.jpg/1200px-Damian_Hartard_von_der_Leyen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geroldseck_1604.jpg/1200px-Geroldseck_1604.jpg
+image_srcset:
+  Hohengeroldseck Brunnenhaus 20190831 1848.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hohengeroldseck_Brunnenhaus_20190831_1848.jpg/400px-Hohengeroldseck_Brunnenhaus_20190831_1848.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hohengeroldseck_Brunnenhaus_20190831_1848.jpg/800px-Hohengeroldseck_Brunnenhaus_20190831_1848.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hohengeroldseck_Brunnenhaus_20190831_1848.jpg/1200px-Hohengeroldseck_Brunnenhaus_20190831_1848.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hohengeroldseck_Brunnenhaus_20190831_1848.jpg/1920px-Hohengeroldseck_Brunnenhaus_20190831_1848.jpg
+  Marianne Leyen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marianne_Leyen.JPG/400px-Marianne_Leyen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marianne_Leyen.JPG/800px-Marianne_Leyen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marianne_Leyen.JPG/1200px-Marianne_Leyen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marianne_Leyen.JPG/1920px-Marianne_Leyen.JPG
+  Die Straßburger belagern die Geroldseck 1473.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Die_Straßburger_belagern_die_Geroldseck_1473.jpg/400px-Die_Straßburger_belagern_die_Geroldseck_1473.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Die_Straßburger_belagern_die_Geroldseck_1473.jpg/800px-Die_Straßburger_belagern_die_Geroldseck_1473.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Die_Straßburger_belagern_die_Geroldseck_1473.jpg/1200px-Die_Straßburger_belagern_die_Geroldseck_1473.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Die_Straßburger_belagern_die_Geroldseck_1473.jpg/1920px-Die_Straßburger_belagern_die_Geroldseck_1473.jpg
+  Damian Hartard von der Leyen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Damian_Hartard_von_der_Leyen.jpg/400px-Damian_Hartard_von_der_Leyen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Damian_Hartard_von_der_Leyen.jpg/800px-Damian_Hartard_von_der_Leyen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Damian_Hartard_von_der_Leyen.jpg/1200px-Damian_Hartard_von_der_Leyen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Damian_Hartard_von_der_Leyen.jpg/1920px-Damian_Hartard_von_der_Leyen.jpg
+  Geroldseck 1604.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geroldseck_1604.jpg/400px-Geroldseck_1604.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geroldseck_1604.jpg/800px-Geroldseck_1604.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geroldseck_1604.jpg/1200px-Geroldseck_1604.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Geroldseck_1604.jpg/1920px-Geroldseck_1604.jpg
 ---
 
 ## Overview

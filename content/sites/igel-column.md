@@ -1,27 +1,43 @@
 ---
-title: "Igel Column"
+title: Igel Column
 date: 2026-01-23
 draft: false
-description: "Roman tomb"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman tomb
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7092
 longitude: 6.54944
-
-# Images
 images:
-  - "/images-sites/igel-column/01-56dcd3eb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Igel_BW_2011-09-03_16-42-16.JPG/1200px-Igel_BW_2011-09-03_16-42-16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1200px-Igeler_Säule_(23).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Igel1.jpg/1200px-Igel1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Igel_BW_2011-09-03_16-41-58_(cropped).JPG/1200px-Igel_BW_2011-09-03_16-41-58_(cropped).JPG
+image_srcset:
+  Igel BW 2011-09-03 16-42-16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Igel_BW_2011-09-03_16-42-16.JPG/400px-Igel_BW_2011-09-03_16-42-16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Igel_BW_2011-09-03_16-42-16.JPG/800px-Igel_BW_2011-09-03_16-42-16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Igel_BW_2011-09-03_16-42-16.JPG/1200px-Igel_BW_2011-09-03_16-42-16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Igel_BW_2011-09-03_16-42-16.JPG/1920px-Igel_BW_2011-09-03_16-42-16.JPG
+  Igeler Säule (23).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/400px-Igeler_Säule_(23).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/800px-Igeler_Säule_(23).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1200px-Igeler_Säule_(23).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Igeler_Säule_(23).jpg/1920px-Igeler_Säule_(23).jpg
+  Igel1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Igel1.jpg/400px-Igel1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Igel1.jpg/800px-Igel1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Igel1.jpg/1200px-Igel1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Igel1.jpg/1920px-Igel1.jpg
+  Igel BW 2011-09-03 16-41-58 (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Igel_BW_2011-09-03_16-41-58_(cropped).JPG/400px-Igel_BW_2011-09-03_16-41-58_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Igel_BW_2011-09-03_16-41-58_(cropped).JPG/800px-Igel_BW_2011-09-03_16-41-58_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Igel_BW_2011-09-03_16-41-58_(cropped).JPG/1200px-Igel_BW_2011-09-03_16-41-58_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Igel_BW_2011-09-03_16-41-58_(cropped).JPG/1920px-Igel_BW_2011-09-03_16-41-58_(cropped).JPG
 ---
 
 ## Overview

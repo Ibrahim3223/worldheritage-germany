@@ -1,20 +1,49 @@
 ---
-title: "Grüner See"
+title: Grüner See
 date: 2026-01-24
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2633
 longitude: 8.45444
 images:
-  - "/images-sites/gruener-see/02-a590f9c5-800w.webp"
-  - "/images-sites/gruener-see/03-c7c0e321-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grüner_See_5.jpg/1200px-Grüner_See_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/3256GrünerSee.JPG/1200px-3256GrünerSee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grüner_See_Zufluss.jpg/1200px-Grüner_See_Zufluss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg/1200px-2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GrünerSeeAgainstMeßnerin.jpg/1200px-GrünerSeeAgainstMeßnerin.jpg
+image_srcset:
+  Grüner See 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grüner_See_5.jpg/400px-Grüner_See_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grüner_See_5.jpg/800px-Grüner_See_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grüner_See_5.jpg/1200px-Grüner_See_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grüner_See_5.jpg/1920px-Grüner_See_5.jpg
+  3256GrünerSee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/3256GrünerSee.JPG/400px-3256GrünerSee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/3256GrünerSee.JPG/800px-3256GrünerSee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/3256GrünerSee.JPG/1200px-3256GrünerSee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/3256GrünerSee.JPG/1920px-3256GrünerSee.JPG
+  Grüner See Zufluss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grüner_See_Zufluss.jpg/400px-Grüner_See_Zufluss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grüner_See_Zufluss.jpg/800px-Grüner_See_Zufluss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grüner_See_Zufluss.jpg/1200px-Grüner_See_Zufluss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grüner_See_Zufluss.jpg/1920px-Grüner_See_Zufluss.jpg
+  2017-09-09 (185) Grüner See at Tragöß with Pribitz, Austria.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg/400px-2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg/800px-2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg/1200px-2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg/1920px-2017-09-09_(185)_Grüner_See_at_Tragöß_with_Pribitz,_Austria.jpg
+  GrünerSeeAgainstMeßnerin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GrünerSeeAgainstMeßnerin.jpg/400px-GrünerSeeAgainstMeßnerin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GrünerSeeAgainstMeßnerin.jpg/800px-GrünerSeeAgainstMeßnerin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GrünerSeeAgainstMeßnerin.jpg/1200px-GrünerSeeAgainstMeßnerin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GrünerSeeAgainstMeßnerin.jpg/1920px-GrünerSeeAgainstMeßnerin.jpg
 ---
 
 ## Overview

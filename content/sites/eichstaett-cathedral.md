@@ -1,19 +1,49 @@
 ---
-title: "Eichstätt Cathedral"
+title: Eichstätt Cathedral
 date: 2026-01-23
 draft: false
-description: "parish church"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cathedral"
+description: parish church
+region: Germany
+country: Germany
+heritage_type: Cathedral
 categories:
-  - "Cathedral"
+- Cathedral
 regions:
-  - "Germany"
+- Germany
 latitude: 48.891922876
 longitude: 11.183382303
 images:
-  - "/images-sites/eichstaett-cathedral/02-cde5f8d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/1200px-Dom_Eichstätt_-_031.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/1200px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eichstätt_-_Dom_061.JPG/1200px-Eichstätt_-_Dom_061.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/1200px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1200px-Eichstaett_Cathedral.JPG
+image_srcset:
+  Dom Eichstätt - 031.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/400px-Dom_Eichstätt_-_031.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/800px-Dom_Eichstätt_-_031.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/1200px-Dom_Eichstätt_-_031.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/1920px-Dom_Eichstätt_-_031.jpg
+  Eichstätt, Dom, Grabplatten und Epitaphe-20160816-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/400px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/800px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/1200px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/1920px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+  Eichstätt - Dom 061.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eichstätt_-_Dom_061.JPG/400px-Eichstätt_-_Dom_061.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eichstätt_-_Dom_061.JPG/800px-Eichstätt_-_Dom_061.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eichstätt_-_Dom_061.JPG/1200px-Eichstätt_-_Dom_061.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eichstätt_-_Dom_061.JPG/1920px-Eichstätt_-_Dom_061.JPG
+  Martinsgasse Eichstätt -Westeingang Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/400px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/800px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/1200px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/1920px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+  Eichstaett Cathedral.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/400px-Eichstaett_Cathedral.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/800px-Eichstaett_Cathedral.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1200px-Eichstaett_Cathedral.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1920px-Eichstaett_Cathedral.JPG
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Jesuitenkirche (Heidelberg)"
-site_name: "Jesuitenkirche (Heidelberg)"
-slug: "jesuitenkirche-heidelberg"
-region: "Hesse"
-
-# Location
+title: Jesuitenkirche (Heidelberg)
+site_name: Jesuitenkirche (Heidelberg)
+slug: jesuitenkirche-heidelberg
+region: Hesse
 latitude: 49.4111
 longitude: 8.70778
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q884093"
-description: "In the heart of Heidelberg, the Jesuitenkirche presents an inviting blend of spiritual devotion and architectural beauty. This Catholic church, complete..."
+- church building
+- religious site
+wikidata_id: Q884093
+description: In the heart of Heidelberg, the Jesuitenkirche presents an inviting blend
+  of spiritual devotion and architectural beauty. This Catholic church, complete...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jesuitenkirche%20Heidelberg.jpg/1200px-Jesuitenkirche%20Heidelberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg/1200px-20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20230315_Jesuitenkirche_Heidelberg.jpg/1200px-20230315_Jesuitenkirche_Heidelberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1200px-Jesuitenkirche_Heidelberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg/1200px-Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg
+image_srcset:
+  Jesuitenkirche%20Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jesuitenkirche%20Heidelberg.jpg/400px-Jesuitenkirche%20Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jesuitenkirche%20Heidelberg.jpg/800px-Jesuitenkirche%20Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jesuitenkirche%20Heidelberg.jpg/1200px-Jesuitenkirche%20Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Jesuitenkirche%20Heidelberg.jpg/1920px-Jesuitenkirche%20Heidelberg.jpg
+  20230315 Hotel Holländer Hof Heidelberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg/400px-20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg/800px-20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg/1200px-20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg/1920px-20230315_Hotel_Holländer_Hof_Heidelberg_02.jpg
+  20230315 Jesuitenkirche Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20230315_Jesuitenkirche_Heidelberg.jpg/400px-20230315_Jesuitenkirche_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20230315_Jesuitenkirche_Heidelberg.jpg/800px-20230315_Jesuitenkirche_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20230315_Jesuitenkirche_Heidelberg.jpg/1200px-20230315_Jesuitenkirche_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/20230315_Jesuitenkirche_Heidelberg.jpg/1920px-20230315_Jesuitenkirche_Heidelberg.jpg
+  Jesuitenkirche Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/400px-Jesuitenkirche_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/800px-Jesuitenkirche_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1200px-Jesuitenkirche_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jesuitenkirche_Heidelberg.jpg/1920px-Jesuitenkirche_Heidelberg.jpg
+  Jesuitenkirche, Providenzkirche und Heiliggeistkirche in der Altstadt Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg/400px-Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg/800px-Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg/1200px-Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg/1920px-Jesuitenkirche,_Providenzkirche_und_Heiliggeistkirche_in_der_Altstadt_Heidelberg.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Wedding station"
+title: Berlin-Wedding station
 date: 2026-01-23
 draft: false
-description: "Station in the wedding locality"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: Station in the wedding locality
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5425
 longitude: 13.3661
 images:
-  - "/images-sites/berlin-wedding-station/01-5b78fb54-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg/1200px-Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png/1200px-Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg/1200px-I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/S-Bahnhof_Berlin-Wedding,_Ausblick.jpg/1200px-S-Bahnhof_Berlin-Wedding,_Ausblick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/1200px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
+image_srcset:
+  Berlin S-Bahn Bhf Wedding (S41 3104).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg/400px-Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg/800px-Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg/1200px-Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg/1920px-Berlin_S-Bahn_Bhf_Wedding_(S41_3104).jpg
+  Bahnzubringer zw berlin-hbf u ringbahn 2022-11-05.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png/400px-Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png/800px-Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png/1200px-Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png/1920px-Bahnzubringer_zw_berlin-hbf_u_ringbahn_2022-11-05.png
+  I09 099 Bf Wedding, Ringbahnanschluss nach Bhf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg/400px-I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg/800px-I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg/1200px-I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg/1920px-I09_099_Bf_Wedding,_Ringbahnanschluss_nach_Bhf.jpg
+  S-Bahnhof Berlin-Wedding, Ausblick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/S-Bahnhof_Berlin-Wedding,_Ausblick.jpg/400px-S-Bahnhof_Berlin-Wedding,_Ausblick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/S-Bahnhof_Berlin-Wedding,_Ausblick.jpg/800px-S-Bahnhof_Berlin-Wedding,_Ausblick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/S-Bahnhof_Berlin-Wedding,_Ausblick.jpg/1200px-S-Bahnhof_Berlin-Wedding,_Ausblick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/S-Bahnhof_Berlin-Wedding,_Ausblick.jpg/1920px-S-Bahnhof_Berlin-Wedding,_Ausblick.jpg
+  Berlin - S-Bahnhof Wedding - Ringbahn - Linien S41, S42 (7358746436).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/400px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/800px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/1200px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg/1920px-Berlin_-_S-Bahnhof_Wedding_-_Ringbahn_-_Linien_S41,_S42_(7358746436).jpg
 ---
 
 ## Overview

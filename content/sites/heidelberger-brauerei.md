@@ -1,27 +1,49 @@
 ---
-title: "Heidelberger Brauerei"
+title: Heidelberger Brauerei
 date: 2026-01-23
 draft: false
-description: "German brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.405
 longitude: 8.64
-
-# Images
 images:
-  - "/images-sites/heidelberger-brauerei/01-c2b63931-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg/1200px-Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LKW_Heidelberger_Brauerei.JPG/1200px-LKW_Heidelberger_Brauerei.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Zum_Hirsch_Wirtshausschild.JPG/1200px-Zum_Hirsch_Wirtshausschild.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG/1200px-Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Heidelberger-Aktienbrauerei-01.JPG/1200px-Heidelberger-Aktienbrauerei-01.JPG
+image_srcset:
+  Heidelberg Pfaffengrund Heidelberger Brauerei 20110329.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg/400px-Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg/800px-Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg/1200px-Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg/1920px-Heidelberg_Pfaffengrund_Heidelberger_Brauerei_20110329.jpg
+  LKW Heidelberger Brauerei.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LKW_Heidelberger_Brauerei.JPG/400px-LKW_Heidelberger_Brauerei.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LKW_Heidelberger_Brauerei.JPG/800px-LKW_Heidelberger_Brauerei.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LKW_Heidelberger_Brauerei.JPG/1200px-LKW_Heidelberger_Brauerei.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LKW_Heidelberger_Brauerei.JPG/1920px-LKW_Heidelberger_Brauerei.JPG
+  Zum Hirsch Wirtshausschild.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Zum_Hirsch_Wirtshausschild.JPG/400px-Zum_Hirsch_Wirtshausschild.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Zum_Hirsch_Wirtshausschild.JPG/800px-Zum_Hirsch_Wirtshausschild.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Zum_Hirsch_Wirtshausschild.JPG/1200px-Zum_Hirsch_Wirtshausschild.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Zum_Hirsch_Wirtshausschild.JPG/1920px-Zum_Hirsch_Wirtshausschild.JPG
+  Heidelberger Brauerei Betriebsgelände Pfaffengrund.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG/400px-Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG/800px-Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG/1200px-Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG/1920px-Heidelberger_Brauerei_Betriebsgelände_Pfaffengrund.JPG
+  Heidelberger-Aktienbrauerei-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Heidelberger-Aktienbrauerei-01.JPG/400px-Heidelberger-Aktienbrauerei-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Heidelberger-Aktienbrauerei-01.JPG/800px-Heidelberger-Aktienbrauerei-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Heidelberger-Aktienbrauerei-01.JPG/1200px-Heidelberger-Aktienbrauerei-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Heidelberger-Aktienbrauerei-01.JPG/1920px-Heidelberger-Aktienbrauerei-01.JPG
 ---
 
 ## Overview

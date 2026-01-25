@@ -13,7 +13,7 @@ regions:
 latitude: 52.51197
 longitude: 13.38579
 images:
-  - "/images-sites/statue-of-kurt-christoph-graf-von-schwerin/01-8e60ebac-800w.webp"
+  - "/images/statue-of-kurt-christoph-graf-von-schwerin/01-8e60ebac-800w.webp"
 ---
 
 # Statue of Kurt Christoph Graf von Schwerin: A Monument of Legacy in Berlin

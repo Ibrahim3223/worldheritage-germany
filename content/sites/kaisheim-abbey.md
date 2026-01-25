@@ -1,21 +1,43 @@
 ---
-title: "Kaisheim Abbey"
+title: Kaisheim Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7673
 longitude: 10.7983
 images:
-  - "/images-sites/kaisheim-abbey/01-13c7c4e4-800w.webp"
-  - "/images-sites/kaisheim-abbey/02-07e8b61c-800w.webp"
-  - "/images-sites/kaisheim-abbey/03-6d74d463-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg/1200px-D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BY_Kaisheim_Abbey_5.jpg/1200px-BY_Kaisheim_Abbey_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kaisheim08_Tor.jpg/1200px-Kaisheim08_Tor.jpg
+image_srcset:
+  D-7-79-169-5 Kaisheim ehemaliges-Klostergasthaus von -Süden 30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg/400px-D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg/800px-D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg/1200px-D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg/1920px-D-7-79-169-5_Kaisheim_ehemaliges-Klostergasthaus_von_-Süden_30.jpg
+  BY Kaisheim Abbey 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BY_Kaisheim_Abbey_5.jpg/400px-BY_Kaisheim_Abbey_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BY_Kaisheim_Abbey_5.jpg/800px-BY_Kaisheim_Abbey_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BY_Kaisheim_Abbey_5.jpg/1200px-BY_Kaisheim_Abbey_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BY_Kaisheim_Abbey_5.jpg/1920px-BY_Kaisheim_Abbey_5.jpg
+  Aerial image of the Kaisheim Abbey (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Kaisheim_Abbey_(view_from_the_southeast).jpg
+  Kaisheim08 Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kaisheim08_Tor.jpg/400px-Kaisheim08_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kaisheim08_Tor.jpg/800px-Kaisheim08_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kaisheim08_Tor.jpg/1200px-Kaisheim08_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kaisheim08_Tor.jpg/1920px-Kaisheim08_Tor.jpg
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Jakobikirche"
-site_name: "Jakobikirche"
-slug: "jakobikirche"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Jakobikirche
+site_name: Jakobikirche
+slug: jakobikirche
+region: Mecklenburg-Vorpommern
 latitude: 54.0892
 longitude: 12.1321
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1372722"
-description: "In the heart of Rostock, Germany, lies the Jakobikirche, a striking example of Brick Gothic architecture that tells stories of faith and community throu..."
+- church building
+- religious site
+wikidata_id: Q1372722
+description: In the heart of Rostock, Germany, lies the Jakobikirche, a striking example
+  of Brick Gothic architecture that tells stories of faith and community throu...
 images:
-  - "/images-sites/jakobikirche/01-26ec8a17-1920w.webp"
-  - "/images-sites/jakobikirche/02-7e5e2d9c-1920w.webp"
-  - "/images-sites/jakobikirche/03-7ab7dec8-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock%20Jacobikirche.jpg/1200px-Rostock%20Jacobikirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg/1200px-Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_St._Katharinen_--_2023_--_6633.jpg/1200px-Hamburg,_St._Katharinen_--_2023_--_6633.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/1200px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg/1200px-Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg
+image_srcset:
+  Rostock%20Jacobikirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock%20Jacobikirche.jpg/400px-Rostock%20Jacobikirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock%20Jacobikirche.jpg/800px-Rostock%20Jacobikirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock%20Jacobikirche.jpg/1200px-Rostock%20Jacobikirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock%20Jacobikirche.jpg/1920px-Rostock%20Jacobikirche.jpg
+  Hamburg, Blick auf die Altstadt -- 2023 -- 6617-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg/400px-Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg/800px-Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg/1200px-Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg/1920px-Hamburg,_Blick_auf_die_Altstadt_--_2023_--_6617-21.jpg
+  Hamburg, St. Katharinen -- 2023 -- 6633.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_St._Katharinen_--_2023_--_6633.jpg/400px-Hamburg,_St._Katharinen_--_2023_--_6633.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_St._Katharinen_--_2023_--_6633.jpg/800px-Hamburg,_St._Katharinen_--_2023_--_6633.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_St._Katharinen_--_2023_--_6633.jpg/1200px-Hamburg,_St._Katharinen_--_2023_--_6633.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_St._Katharinen_--_2023_--_6633.jpg/1920px-Hamburg,_St._Katharinen_--_2023_--_6633.jpg
+  St. Jacobi (Hamburg-Altstadt).11866.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/400px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/800px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/1200px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg/1920px-St._Jacobi_(Hamburg-Altstadt).11866.ajb.jpg
+  Aerial image of St. James' Church, Lübeck (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg/400px-Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg/800px-Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg/1200px-Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg/1920px-Aerial_image_of_St._James'_Church,_Lübeck_(view_from_the_west).jpg
 ---
 
 ## Overview

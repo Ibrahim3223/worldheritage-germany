@@ -1,20 +1,43 @@
 ---
-title: "Hesperidengärten"
+title: Hesperidengärten
 date: 2026-01-23
 draft: false
-description: "park in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Garden"
+description: park in Germany
+region: Germany
+country: Germany
+heritage_type: Garden
 categories:
-  - "Garden"
+- Garden
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4579
 longitude: 11.0636
 images:
-  - "/images-sites/hesperidengaerten/02-0df965f7-800w.webp"
-  - "/images-sites/hesperidengaerten/03-603a7e9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg/1200px-D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CCI01012002_0001.jpg/1200px-CCI01012002_0001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nuernberg_2009_07_(RaBoe).jpg/1200px-Nuernberg_2009_07_(RaBoe).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg/1200px-Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg
+image_srcset:
+  D-5-64-000-4835 Riesenschritt 4, Stützmauer Nürnberg 20241013 0191.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg/400px-D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg/800px-D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg/1200px-D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg/1920px-D-5-64-000-4835_Riesenschritt_4,_Stützmauer_Nürnberg_20241013_0191.jpg
+  CCI01012002 0001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CCI01012002_0001.jpg/400px-CCI01012002_0001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CCI01012002_0001.jpg/800px-CCI01012002_0001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CCI01012002_0001.jpg/1200px-CCI01012002_0001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CCI01012002_0001.jpg/1920px-CCI01012002_0001.jpg
+  Nuernberg 2009 07 (RaBoe).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nuernberg_2009_07_(RaBoe).jpg/400px-Nuernberg_2009_07_(RaBoe).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nuernberg_2009_07_(RaBoe).jpg/800px-Nuernberg_2009_07_(RaBoe).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nuernberg_2009_07_(RaBoe).jpg/1200px-Nuernberg_2009_07_(RaBoe).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nuernberg_2009_07_(RaBoe).jpg/1920px-Nuernberg_2009_07_(RaBoe).jpg
+  Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg/400px-Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg/800px-Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg/1200px-Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg/1920px-Nuernberg-johannis-barockgarten-zwergenensemble-v-so.jpg
 ---
 
 ## Overview

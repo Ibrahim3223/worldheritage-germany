@@ -13,7 +13,7 @@ regions:
 latitude: 51.5514
 longitude: 7.21111
 images:
-  - "/images-sites/schloss-struenkede/01-95f4ce37-800w.webp"
+  - "/images/schloss-struenkede/01-95f4ce37-800w.webp"
 ---
 
 ## Overview

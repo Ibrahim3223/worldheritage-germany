@@ -1,19 +1,49 @@
 ---
-title: "Altenhohenau"
+title: Altenhohenau
 date: 2026-01-23
 draft: false
-description: "Kloster in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Kloster in Deutschland
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.008164211
 longitude: 12.177451777
 images:
-  - "/images-sites/altenhohenau/01-33c6b142-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kloster_Altenhohenau_Griesstaett-2.jpg/1200px-Kloster_Altenhohenau_Griesstaett-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kloster_Altenhohenau_Griesstaett-1.jpg/1200px-Kloster_Altenhohenau_Griesstaett-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kloster_Altenhohenau_Griesstaett-5.jpg/1200px-Kloster_Altenhohenau_Griesstaett-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Altenhohenau_Griesstaett-6.jpg/1200px-Kloster_Altenhohenau_Griesstaett-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenhohenau.jpg/1200px-Altenhohenau.jpg
+image_srcset:
+  Kloster Altenhohenau Griesstaett-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kloster_Altenhohenau_Griesstaett-2.jpg/400px-Kloster_Altenhohenau_Griesstaett-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kloster_Altenhohenau_Griesstaett-2.jpg/800px-Kloster_Altenhohenau_Griesstaett-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kloster_Altenhohenau_Griesstaett-2.jpg/1200px-Kloster_Altenhohenau_Griesstaett-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kloster_Altenhohenau_Griesstaett-2.jpg/1920px-Kloster_Altenhohenau_Griesstaett-2.jpg
+  Kloster Altenhohenau Griesstaett-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kloster_Altenhohenau_Griesstaett-1.jpg/400px-Kloster_Altenhohenau_Griesstaett-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kloster_Altenhohenau_Griesstaett-1.jpg/800px-Kloster_Altenhohenau_Griesstaett-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kloster_Altenhohenau_Griesstaett-1.jpg/1200px-Kloster_Altenhohenau_Griesstaett-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kloster_Altenhohenau_Griesstaett-1.jpg/1920px-Kloster_Altenhohenau_Griesstaett-1.jpg
+  Kloster Altenhohenau Griesstaett-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kloster_Altenhohenau_Griesstaett-5.jpg/400px-Kloster_Altenhohenau_Griesstaett-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kloster_Altenhohenau_Griesstaett-5.jpg/800px-Kloster_Altenhohenau_Griesstaett-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kloster_Altenhohenau_Griesstaett-5.jpg/1200px-Kloster_Altenhohenau_Griesstaett-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kloster_Altenhohenau_Griesstaett-5.jpg/1920px-Kloster_Altenhohenau_Griesstaett-5.jpg
+  Kloster Altenhohenau Griesstaett-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Altenhohenau_Griesstaett-6.jpg/400px-Kloster_Altenhohenau_Griesstaett-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Altenhohenau_Griesstaett-6.jpg/800px-Kloster_Altenhohenau_Griesstaett-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Altenhohenau_Griesstaett-6.jpg/1200px-Kloster_Altenhohenau_Griesstaett-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Altenhohenau_Griesstaett-6.jpg/1920px-Kloster_Altenhohenau_Griesstaett-6.jpg
+  Altenhohenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenhohenau.jpg/400px-Altenhohenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenhohenau.jpg/800px-Altenhohenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenhohenau.jpg/1200px-Altenhohenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenhohenau.jpg/1920px-Altenhohenau.jpg
 ---
 
 ## Overview

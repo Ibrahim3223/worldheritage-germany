@@ -13,7 +13,7 @@ regions:
 latitude: 47.566388888
 longitude: 11.253333333
 images:
-  - "/images-sites/simetsberg/01-8ecbb950-800w.webp"
+  - "/images/simetsberg/01-8ecbb950-800w.webp"
 ---
 
 ## Overview

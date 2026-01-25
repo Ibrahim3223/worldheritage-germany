@@ -13,7 +13,7 @@ regions:
 latitude: 54.4754
 longitude: 9.05106
 images:
-  - "/images-sites/schifffahrtsmuseum-nordfriesland/01-cc5f05aa-800w.webp"
+  - "/images/schifffahrtsmuseum-nordfriesland/01-cc5f05aa-800w.webp"
 ---
 
 ## Overview

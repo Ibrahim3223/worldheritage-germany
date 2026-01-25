@@ -13,7 +13,7 @@ regions:
 latitude: 49.909444444
 longitude: 9.153166666
 images:
-  - "/images-sites/town-walls-in-sulzbach-am-main/01-c9389ab1-800w.webp"
+  - "/images/town-walls-in-sulzbach-am-main/01-c9389ab1-800w.webp"
 ---
 
 ## Overview

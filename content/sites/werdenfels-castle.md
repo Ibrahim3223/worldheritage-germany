@@ -21,7 +21,7 @@ longitude: 11.0919
 
 # Images
 images:
-  - "/images-sites/werdenfels-castle/01-d571c517-800w.webp"
+  - "/images/werdenfels-castle/01-d571c517-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.933333333
 longitude: 14.083333333
 images:
-  - "/images-sites/usedom/01-31fef45c-800w.webp"
+  - "/images/usedom/01-31fef45c-800w.webp"
 ---
 
 ## Overview

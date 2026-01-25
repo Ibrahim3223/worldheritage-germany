@@ -1,29 +1,49 @@
 ---
-title: "Burg Herrnstein"
+title: Burg Herrnstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8306
 longitude: 7.38917
-
-# Images
 images:
-  - "/images-sites/burg-herrnstein/01-3fb3348f-800w.webp"
-  - "/images-sites/burg-herrnstein/02-d369dea9-800w.webp"
-  - "/images-sites/burg-herrnstein/03-242feb66-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Winterscheid,_Burg_Herrnstein.jpg/1200px-Winterscheid,_Burg_Herrnstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burg_Herrnstein,_Auffahrt.jpg/1200px-Burg_Herrnstein,_Auffahrt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1200px-Burg_Herrnstein_Auffahrt.PNG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Herrnstein_Teich.jpg/1200px-Burg_Herrnstein_Teich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BurgHerrnsteinPanorama.jpg/1200px-BurgHerrnsteinPanorama.jpg
+image_srcset:
+  Winterscheid, Burg Herrnstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Winterscheid,_Burg_Herrnstein.jpg/400px-Winterscheid,_Burg_Herrnstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Winterscheid,_Burg_Herrnstein.jpg/800px-Winterscheid,_Burg_Herrnstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Winterscheid,_Burg_Herrnstein.jpg/1200px-Winterscheid,_Burg_Herrnstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Winterscheid,_Burg_Herrnstein.jpg/1920px-Winterscheid,_Burg_Herrnstein.jpg
+  Burg Herrnstein, Auffahrt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burg_Herrnstein,_Auffahrt.jpg/400px-Burg_Herrnstein,_Auffahrt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burg_Herrnstein,_Auffahrt.jpg/800px-Burg_Herrnstein,_Auffahrt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burg_Herrnstein,_Auffahrt.jpg/1200px-Burg_Herrnstein,_Auffahrt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burg_Herrnstein,_Auffahrt.jpg/1920px-Burg_Herrnstein,_Auffahrt.jpg
+  Burg Herrnstein Auffahrt.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/400px-Burg_Herrnstein_Auffahrt.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/800px-Burg_Herrnstein_Auffahrt.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1200px-Burg_Herrnstein_Auffahrt.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Herrnstein_Auffahrt.PNG/1920px-Burg_Herrnstein_Auffahrt.PNG
+  Burg Herrnstein Teich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Herrnstein_Teich.jpg/400px-Burg_Herrnstein_Teich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Herrnstein_Teich.jpg/800px-Burg_Herrnstein_Teich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Herrnstein_Teich.jpg/1200px-Burg_Herrnstein_Teich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burg_Herrnstein_Teich.jpg/1920px-Burg_Herrnstein_Teich.jpg
+  BurgHerrnsteinPanorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BurgHerrnsteinPanorama.jpg/400px-BurgHerrnsteinPanorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BurgHerrnsteinPanorama.jpg/800px-BurgHerrnsteinPanorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BurgHerrnsteinPanorama.jpg/1200px-BurgHerrnsteinPanorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BurgHerrnsteinPanorama.jpg/1920px-BurgHerrnsteinPanorama.jpg
 ---
 
 ## Overview

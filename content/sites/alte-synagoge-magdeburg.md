@@ -1,19 +1,49 @@
 ---
-title: "Alte Synagoge (Magdeburg)"
+title: Alte Synagoge (Magdeburg)
 date: 2026-01-23
 draft: false
-description: "synagogue"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1331
 longitude: 11.6367
 images:
-  - "/images-sites/alte-synagoge-magdeburg/01-ba96b654-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg/1200px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg/1200px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg/1200px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1200px-Alte_Synagoge_Magdeburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg/1200px-20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg
+image_srcset:
+  20241103 xl 0801-Denkmal an die alte Synagoge Magdeburg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg/400px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg/800px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg/1200px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg/1920px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_2.jpg
+  20241103 xl 0801-Denkmal an die alte Synagoge Magdeburg 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg/400px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg/800px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg/1200px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg/1920px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg_4.jpg
+  20241103 xl 0801-Denkmal an die alte Synagoge Magdeburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg/400px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg/800px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg/1200px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg/1920px-20241103_xl_0801-Denkmal_an_die_alte_Synagoge_Magdeburg.jpg
+  Alte Synagoge Magdeburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/400px-Alte_Synagoge_Magdeburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/800px-Alte_Synagoge_Magdeburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1200px-Alte_Synagoge_Magdeburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alte_Synagoge_Magdeburg.jpg/1920px-Alte_Synagoge_Magdeburg.jpg
+  20241103 xl 0802-Denkmal an die alte Synagoge Magdeburg, Q436301.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg/400px-20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg/800px-20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg/1200px-20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg/1920px-20241103_xl_0802-Denkmal_an_die_alte_Synagoge_Magdeburg,_Q436301.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.0994
 longitude: 11.0979
 images:
-  - "/images-sites/waldemarturm/01-a7b1cec5-800w.webp"
+  - "/images/waldemarturm/01-a7b1cec5-800w.webp"
 ---
 
 ## Overview

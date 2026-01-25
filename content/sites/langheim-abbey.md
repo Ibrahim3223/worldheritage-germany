@@ -13,9 +13,9 @@ regions:
 latitude: 50.1122
 longitude: 11.1101
 images:
-  - "/images-sites/langheim-abbey/01-da1f71cd-800w.webp"
-  - "/images-sites/langheim-abbey/02-309650f1-800w.webp"
-  - "/images-sites/langheim-abbey/03-15e6e7d7-800w.webp"
+  - "/images/langheim-abbey/01-da1f71cd-800w.webp"
+  - "/images/langheim-abbey/02-309650f1-800w.webp"
+  - "/images/langheim-abbey/03-15e6e7d7-800w.webp"
 ---
 
 ## Overview

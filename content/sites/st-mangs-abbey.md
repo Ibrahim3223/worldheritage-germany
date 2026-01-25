@@ -13,7 +13,7 @@ regions:
 latitude: 47.5666
 longitude: 10.6995
 images:
-  - "/images-sites/st-mangs-abbey/01-253d072e-800w.webp"
+  - "/images/st-mangs-abbey/01-253d072e-800w.webp"
 ---
 
 ## Overview

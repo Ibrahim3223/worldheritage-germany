@@ -1,19 +1,49 @@
 ---
-title: "Die Großen Schuhe Luthers"
+title: Die Großen Schuhe Luthers
 date: 2026-01-23
 draft: false
-description: "Lutherdenkmal in Worms von 2017"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Lutherdenkmal in Worms von 2017
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 49.630641
 longitude: 8.359949
 images:
-  - "/images-sites/die-grossen-schuhe-luthers/01-34c5ddb0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg/1200px-Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg/1200px-Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg/1200px-Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg/1200px-Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg/1200px-Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg
+image_srcset:
+  Die Großen Schuhe Luthers (Gedenkort Gesamt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg/400px-Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg/800px-Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg/1200px-Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg/1920px-Die_Großen_Schuhe_Luthers_(Gedenkort_Gesamt).jpg
+  Die Großen Schuhe Luthers (Infostele Deutsch).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg/400px-Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg/800px-Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg/1200px-Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg/1920px-Die_Großen_Schuhe_Luthers_(Infostele_Deutsch).jpg
+  Die Großen Schuhe Luthers (Infostele in anderen Sprachen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg/400px-Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg/800px-Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg/1200px-Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg/1920px-Die_Großen_Schuhe_Luthers_(Infostele_in_anderen_Sprachen).jpg
+  Die Großen Schuhe Luthers (Schrifttafel).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg/400px-Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg/800px-Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg/1200px-Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg/1920px-Die_Großen_Schuhe_Luthers_(Schrifttafel).jpg
+  Die Großen Schuhe Luthers (Tafel Detail).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg/400px-Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg/800px-Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg/1200px-Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg/1920px-Die_Großen_Schuhe_Luthers_(Tafel_Detail).jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q694382"
 description: "Monbijou Palace, a striking example of baroque architecture, is located in the heart of Berlin, Germany, specifically in the Bezirk Mitte district. This..."
 images:
-  - "/images-sites/monbijou-palace/01-2ed6bc72-1920w.webp"
-  - "/images-sites/monbijou-palace/02-3d09f5f4-1920w.webp"
-  - "/images-sites/monbijou-palace/03-48ee375d-1920w.webp"
+  - "/images/monbijou-palace/01-2ed6bc72-1920w.webp"
+  - "/images/monbijou-palace/02-3d09f5f4-1920w.webp"
+  - "/images/monbijou-palace/03-48ee375d-1920w.webp"
 ---
 
 ## Overview

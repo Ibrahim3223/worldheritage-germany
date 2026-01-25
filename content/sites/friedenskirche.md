@@ -1,24 +1,51 @@
 ---
-title: "Friedenskirche"
-site_name: "Friedenskirche"
-slug: "friedenskirche"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Friedenskirche
+site_name: Friedenskirche
+slug: friedenskirche
+region: Mecklenburg-Vorpommern
 latitude: 54.2875
 longitude: 13.0949
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1456826"
-description: "Friedenskirche, located in Stralsund, Germany, is a remarkable church that reflects the architectural vision of its designer, Otto Bartning. This church..."
+- church building
+- religious site
+wikidata_id: Q1456826
+description: Friedenskirche, located in Stralsund, Germany, is a remarkable church
+  that reflects the architectural vision of its designer, Otto Bartning. This church...
 images:
-  - "/images-sites/friedenskirche/01-f52d1413-1920w.webp"
-  - "/images-sites/friedenskirche/02-e881a0d1-1920w.webp"
-  - "/images-sites/friedenskirche/03-93fe557f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stralsund%2C%20Friedenskirche.JPG/1200px-Stralsund%2C%20Friedenskirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20220810_Friedenskirche_Potsdam_03.jpg/1200px-20220810_Friedenskirche_Potsdam_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/1200px-Friedenskirche_November_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedenskirche_Pdm.jpg/1200px-Friedenskirche_Pdm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1200px-Friedenskirche.jpg
+image_srcset:
+  Stralsund%2C%20Friedenskirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stralsund%2C%20Friedenskirche.JPG/400px-Stralsund%2C%20Friedenskirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stralsund%2C%20Friedenskirche.JPG/800px-Stralsund%2C%20Friedenskirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stralsund%2C%20Friedenskirche.JPG/1200px-Stralsund%2C%20Friedenskirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stralsund%2C%20Friedenskirche.JPG/1920px-Stralsund%2C%20Friedenskirche.JPG
+  20220810 Friedenskirche Potsdam 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20220810_Friedenskirche_Potsdam_03.jpg/400px-20220810_Friedenskirche_Potsdam_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20220810_Friedenskirche_Potsdam_03.jpg/800px-20220810_Friedenskirche_Potsdam_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20220810_Friedenskirche_Potsdam_03.jpg/1200px-20220810_Friedenskirche_Potsdam_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20220810_Friedenskirche_Potsdam_03.jpg/1920px-20220810_Friedenskirche_Potsdam_03.jpg
+  Friedenskirche November 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/400px-Friedenskirche_November_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/800px-Friedenskirche_November_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/1200px-Friedenskirche_November_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/1920px-Friedenskirche_November_2013.jpg
+  Friedenskirche Pdm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedenskirche_Pdm.jpg/400px-Friedenskirche_Pdm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedenskirche_Pdm.jpg/800px-Friedenskirche_Pdm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedenskirche_Pdm.jpg/1200px-Friedenskirche_Pdm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Friedenskirche_Pdm.jpg/1920px-Friedenskirche_Pdm.jpg
+  Friedenskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/400px-Friedenskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/800px-Friedenskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1200px-Friedenskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1920px-Friedenskirche.jpg
 ---
 
 ## Overview

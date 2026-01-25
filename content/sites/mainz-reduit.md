@@ -13,9 +13,9 @@ regions:
 latitude: 50.0065
 longitude: 8.28133
 images:
-  - "/images-sites/mainz-reduit/01-2817e2d5-800w.webp"
-  - "/images-sites/mainz-reduit/02-5e59613d-800w.webp"
-  - "/images-sites/mainz-reduit/03-a94f050f-800w.webp"
+  - "/images/mainz-reduit/01-2817e2d5-800w.webp"
+  - "/images/mainz-reduit/02-5e59613d-800w.webp"
+  - "/images/mainz-reduit/03-a94f050f-800w.webp"
 ---
 
 ## Overview

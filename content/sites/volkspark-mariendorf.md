@@ -13,7 +13,7 @@ regions:
 latitude: 52.443611
 longitude: 13.395278
 images:
-  - "/images-sites/volkspark-mariendorf/01-684920a4-800w.webp"
+  - "/images/volkspark-mariendorf/01-684920a4-800w.webp"
 ---
 
 ## Overview

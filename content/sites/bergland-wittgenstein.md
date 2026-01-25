@@ -1,21 +1,49 @@
 ---
-title: "Bergland Wittgenstein"
+title: Bergland Wittgenstein
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.118415
 longitude: 8.511621111
 images:
-  - "/images-sites/bergland-wittgenstein/01-1101cfce-800w.webp"
-  - "/images-sites/bergland-wittgenstein/02-43224f87-800w.webp"
-  - "/images-sites/bergland-wittgenstein/03-dd9a57fb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg
+image_srcset:
+  Naturschutzgebiet Bergland Wittgenstein photo-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg/400px-Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg/800px-Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg/1920px-Naturschutzgebiet_Bergland_Wittgenstein_photo-02.jpg
+  Naturschutzgebiet Bergland Wittgenstein photo-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg/400px-Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg/800px-Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg/1920px-Naturschutzgebiet_Bergland_Wittgenstein_photo-05.jpg
+  Naturschutzgebiet Bergland Wittgenstein photo-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg/400px-Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg/800px-Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg/1920px-Naturschutzgebiet_Bergland_Wittgenstein_photo-06.jpg
+  Naturschutzgebiet Bergland Wittgenstein photo-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg/400px-Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg/800px-Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg/1920px-Naturschutzgebiet_Bergland_Wittgenstein_photo-07.jpg
+  Naturschutzgebiet Bergland Wittgenstein photo-13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg/400px-Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg/800px-Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg/1200px-Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg/1920px-Naturschutzgebiet_Bergland_Wittgenstein_photo-13.jpg
 ---
 
 ## Overview

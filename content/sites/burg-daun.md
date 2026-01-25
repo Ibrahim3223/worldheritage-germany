@@ -1,19 +1,49 @@
 ---
-title: "Burg Daun"
+title: Burg Daun
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1972
 longitude: 6.83135
 images:
-  - "/images-sites/burg-daun/01-c49df607-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Castle_of_Daun_(1).jpg/1200px-Castle_of_Daun_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daun_37.jpg/1200px-Daun_37.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Daun_009x_Burg_Daun.jpg/1200px-Daun_009x_Burg_Daun.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BurgDaunvonunten.jpg/1200px-BurgDaunvonunten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20151014Burg_Daun6.jpg/1200px-20151014Burg_Daun6.jpg
+image_srcset:
+  Castle of Daun (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Castle_of_Daun_(1).jpg/400px-Castle_of_Daun_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Castle_of_Daun_(1).jpg/800px-Castle_of_Daun_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Castle_of_Daun_(1).jpg/1200px-Castle_of_Daun_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Castle_of_Daun_(1).jpg/1920px-Castle_of_Daun_(1).jpg
+  Daun 37.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daun_37.jpg/400px-Daun_37.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daun_37.jpg/800px-Daun_37.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daun_37.jpg/1200px-Daun_37.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Daun_37.jpg/1920px-Daun_37.jpg
+  Daun 009x Burg Daun.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Daun_009x_Burg_Daun.jpg/400px-Daun_009x_Burg_Daun.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Daun_009x_Burg_Daun.jpg/800px-Daun_009x_Burg_Daun.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Daun_009x_Burg_Daun.jpg/1200px-Daun_009x_Burg_Daun.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Daun_009x_Burg_Daun.jpg/1920px-Daun_009x_Burg_Daun.jpg
+  BurgDaunvonunten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BurgDaunvonunten.jpg/400px-BurgDaunvonunten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BurgDaunvonunten.jpg/800px-BurgDaunvonunten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BurgDaunvonunten.jpg/1200px-BurgDaunvonunten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BurgDaunvonunten.jpg/1920px-BurgDaunvonunten.jpg
+  20151014Burg Daun6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20151014Burg_Daun6.jpg/400px-20151014Burg_Daun6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20151014Burg_Daun6.jpg/800px-20151014Burg_Daun6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20151014Burg_Daun6.jpg/1200px-20151014Burg_Daun6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20151014Burg_Daun6.jpg/1920px-20151014Burg_Daun6.jpg
 ---
 
 ## Overview

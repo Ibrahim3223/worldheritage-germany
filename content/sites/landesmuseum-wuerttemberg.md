@@ -13,7 +13,7 @@ regions:
 latitude: 48.777
 longitude: 9.17947
 images:
-  - "/images-sites/landesmuseum-wuerttemberg/01-4240f3ba-800w.webp"
+  - "/images/landesmuseum-wuerttemberg/01-4240f3ba-800w.webp"
 ---
 
 ## Overview

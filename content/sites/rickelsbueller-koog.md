@@ -13,7 +13,7 @@ regions:
 latitude: 54.90248889
 longitude: 8.64848611
 images:
-  - "/images-sites/rickelsbueller-koog/01-2869f43a-800w.webp"
+  - "/images/rickelsbueller-koog/01-2869f43a-800w.webp"
 ---
 
 ## Overview

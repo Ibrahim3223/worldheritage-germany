@@ -1,19 +1,51 @@
 ---
-title: "Church in Schmarsow"
-site_name: "Church in Schmarsow"
-slug: "church-in-schmarsow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Schmarsow
+site_name: Church in Schmarsow
+slug: church-in-schmarsow
+region: Mecklenburg-Vorpommern
 latitude: 53.876
 longitude: 13.2145
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1396043"
-description: "The Church in Schmarsow stands as a striking example of Brick Gothic architecture, a style that flourished in northern Europe during the late Middle Age..."
+- cultural site
+wikidata_id: Q1396043
+description: The Church in Schmarsow stands as a striking example of Brick Gothic
+  architecture, a style that flourished in northern Europe during the late Middle
+  Age...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmarsow%20DM%20Kirche.jpg/1200px-Schmarsow%20DM%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_slab_2.jpg/1200px-Schmarsow_church_slab_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schmarsow_church_view_from_organ_loft.jpg/1200px-Schmarsow_church_view_from_organ_loft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_interior_westwards.jpg/1200px-Schmarsow_church_interior_westwards.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1200px-Schmarsow_DM_Kirche.jpg
+image_srcset:
+  Schmarsow%20DM%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmarsow%20DM%20Kirche.jpg/400px-Schmarsow%20DM%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmarsow%20DM%20Kirche.jpg/800px-Schmarsow%20DM%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmarsow%20DM%20Kirche.jpg/1200px-Schmarsow%20DM%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmarsow%20DM%20Kirche.jpg/1920px-Schmarsow%20DM%20Kirche.jpg
+  Schmarsow church slab 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_slab_2.jpg/400px-Schmarsow_church_slab_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_slab_2.jpg/800px-Schmarsow_church_slab_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_slab_2.jpg/1200px-Schmarsow_church_slab_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_slab_2.jpg/1920px-Schmarsow_church_slab_2.jpg
+  Schmarsow church view from organ loft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schmarsow_church_view_from_organ_loft.jpg/400px-Schmarsow_church_view_from_organ_loft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schmarsow_church_view_from_organ_loft.jpg/800px-Schmarsow_church_view_from_organ_loft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schmarsow_church_view_from_organ_loft.jpg/1200px-Schmarsow_church_view_from_organ_loft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schmarsow_church_view_from_organ_loft.jpg/1920px-Schmarsow_church_view_from_organ_loft.jpg
+  Schmarsow church interior westwards.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_interior_westwards.jpg/400px-Schmarsow_church_interior_westwards.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_interior_westwards.jpg/800px-Schmarsow_church_interior_westwards.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_interior_westwards.jpg/1200px-Schmarsow_church_interior_westwards.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmarsow_church_interior_westwards.jpg/1920px-Schmarsow_church_interior_westwards.jpg
+  Schmarsow DM Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/400px-Schmarsow_DM_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/800px-Schmarsow_DM_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1200px-Schmarsow_DM_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schmarsow_DM_Kirche.jpg/1920px-Schmarsow_DM_Kirche.jpg
 ---
 
 ## Overview

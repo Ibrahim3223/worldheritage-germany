@@ -13,7 +13,7 @@ regions:
 latitude: 49.01948
 longitude: 12.1071
 images:
-  - "/images-sites/turm-villapark-in-regensburg/01-aafbcb5d-800w.webp"
+  - "/images/turm-villapark-in-regensburg/01-aafbcb5d-800w.webp"
 ---
 
 ## Overview

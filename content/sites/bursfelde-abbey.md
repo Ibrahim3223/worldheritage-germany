@@ -1,19 +1,49 @@
 ---
-title: "Bursfelde Abbey"
+title: Bursfelde Abbey
 date: 2026-01-23
 draft: false
-description: "former abbey of Saint Benedict in Bursfelde in the Weser valley"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former abbey of Saint Benedict in Bursfelde in the Weser valley
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.541667
 longitude: 9.624722
 images:
-  - "/images-sites/bursfelde-abbey/01-be278f8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bursfelde_Kirche_von_NO.jpg/1200px-Bursfelde_Kirche_von_NO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg
+image_srcset:
+  Bursfelde Kirche von NO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bursfelde_Kirche_von_NO.jpg/400px-Bursfelde_Kirche_von_NO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bursfelde_Kirche_von_NO.jpg/800px-Bursfelde_Kirche_von_NO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bursfelde_Kirche_von_NO.jpg/1200px-Bursfelde_Kirche_von_NO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bursfelde_Kirche_von_NO.jpg/1920px-Bursfelde_Kirche_von_NO.jpg
+  Path around the Bursfelde Abbey, district Göttingen 04 river Nieme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg/400px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg/800px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg/1920px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_04_river_Nieme.jpg
+  Path around the Bursfelde Abbey, district Göttingen 07 mill race.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg/400px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg/800px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg/1920px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_07_mill_race.jpg
+  Path around the Bursfelde Abbey, district Göttingen 06 footpath sign.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg/400px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg/800px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg/1920px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_06_footpath_sign.jpg
+  Path around the Bursfelde Abbey, district Göttingen 02 bridge over the mill race.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg/400px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg/800px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg/1200px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg/1920px-Path_around_the_Bursfelde_Abbey,_district_Göttingen_02_bridge_over_the_mill_race.jpg
 ---
 
 ## Overview

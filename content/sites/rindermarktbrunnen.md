@@ -13,7 +13,7 @@ regions:
 latitude: 48.1361
 longitude: 11.5742
 images:
-  - "/images-sites/rindermarktbrunnen/01-95f15b2d-800w.webp"
+  - "/images/rindermarktbrunnen/01-95f15b2d-800w.webp"
 ---
 
 ## Overview

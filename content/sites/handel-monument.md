@@ -1,19 +1,49 @@
 ---
-title: "Handel monument"
+title: Handel monument
 date: 2026-01-23
 draft: false
-description: "monument in Halle (Saale), Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Halle (Saale), Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4826
 longitude: 11.9703
 images:
-  - "/images-sites/handel-monument/01-aecee640-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Halle-Händeldenkmal.jpg/1200px-Halle-Händeldenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Halle_ad_Saale_Händel_Denkmal.jpg/1200px-Halle_ad_Saale_Händel_Denkmal.jpg
+image_srcset:
+  Halle (Saale), Marktplatz, Händeldenkmal 20170718-006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg/400px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg/800px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-006.jpg
+  Halle (Saale), Marktplatz, Händeldenkmal 20170718-009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/400px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/800px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-009.jpg
+  Halle (Saale), Marktplatz, Händeldenkmal 20170718-017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg/400px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg/800px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg/1200px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg/1920px-Halle_(Saale),_Marktplatz,_Händeldenkmal_20170718-017.jpg
+  Halle-Händeldenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Halle-Händeldenkmal.jpg/400px-Halle-Händeldenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Halle-Händeldenkmal.jpg/800px-Halle-Händeldenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Halle-Händeldenkmal.jpg/1200px-Halle-Händeldenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Halle-Händeldenkmal.jpg/1920px-Halle-Händeldenkmal.jpg
+  Halle ad Saale Händel Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Halle_ad_Saale_Händel_Denkmal.jpg/400px-Halle_ad_Saale_Händel_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Halle_ad_Saale_Händel_Denkmal.jpg/800px-Halle_ad_Saale_Händel_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Halle_ad_Saale_Händel_Denkmal.jpg/1200px-Halle_ad_Saale_Händel_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Halle_ad_Saale_Händel_Denkmal.jpg/1920px-Halle_ad_Saale_Händel_Denkmal.jpg
 ---
 
 ## Overview

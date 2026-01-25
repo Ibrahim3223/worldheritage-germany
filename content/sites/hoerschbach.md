@@ -1,19 +1,49 @@
 ---
-title: "Hörschbach"
+title: Hörschbach
 date: 2026-01-24
 draft: false
-description: "river in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: river in Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9846
 longitude: 9.56081
 images:
-  - "/images-sites/hoerschbach/01-be722aeb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg/1200px-Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/1200px-HoerschbachtalWinter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hoerschbach4_070318.jpg/1200px-Hoerschbach4_070318.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hoerschbach3_070318.jpg/1200px-Hoerschbach3_070318.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoerschbach1_070318.jpg/1200px-Hoerschbach1_070318.jpg
+image_srcset:
+  Murrhard Vorderer-Hörschbach-Wasserfall 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg/400px-Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg/800px-Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg/1200px-Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg/1920px-Murrhard_Vorderer-Hörschbach-Wasserfall_2021.jpg
+  HoerschbachtalWinter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/400px-HoerschbachtalWinter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/800px-HoerschbachtalWinter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/1200px-HoerschbachtalWinter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HoerschbachtalWinter.jpg/1920px-HoerschbachtalWinter.jpg
+  Hoerschbach4 070318.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hoerschbach4_070318.jpg/400px-Hoerschbach4_070318.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hoerschbach4_070318.jpg/800px-Hoerschbach4_070318.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hoerschbach4_070318.jpg/1200px-Hoerschbach4_070318.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hoerschbach4_070318.jpg/1920px-Hoerschbach4_070318.jpg
+  Hoerschbach3 070318.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hoerschbach3_070318.jpg/400px-Hoerschbach3_070318.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hoerschbach3_070318.jpg/800px-Hoerschbach3_070318.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hoerschbach3_070318.jpg/1200px-Hoerschbach3_070318.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Hoerschbach3_070318.jpg/1920px-Hoerschbach3_070318.jpg
+  Hoerschbach1 070318.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoerschbach1_070318.jpg/400px-Hoerschbach1_070318.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoerschbach1_070318.jpg/800px-Hoerschbach1_070318.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoerschbach1_070318.jpg/1200px-Hoerschbach1_070318.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoerschbach1_070318.jpg/1920px-Hoerschbach1_070318.jpg
 ---
 
 ## Overview

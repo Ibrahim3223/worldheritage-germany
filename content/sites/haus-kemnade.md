@@ -1,27 +1,49 @@
 ---
-title: "Haus Kemnade"
+title: Haus Kemnade
 date: 2026-01-23
 draft: false
-description: "Wasserburg in Hattingen, Nordrhein-Westfalen, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Wasserburg in Hattingen, Nordrhein-Westfalen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.407777777
 longitude: 7.249444444
-
-# Images
 images:
-  - "/images-sites/haus-kemnade/01-f20e6db1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg/1200px-Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg/1200px-Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg/1200px-Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRW,_Hattingen_-_Haus_Kemnade_01.jpg/1200px-NRW,_Hattingen_-_Haus_Kemnade_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Haus_Kemnade_(1).jpg/1200px-Haus_Kemnade_(1).jpg
+image_srcset:
+  Hattingen Blankenstein - Haus Kemnade 58 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg/400px-Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg/800px-Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg/1200px-Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg/1920px-Hattingen_Blankenstein_-_Haus_Kemnade_58_ies.jpg
+  Wasserburg Haus Kemnade (Hattingen) (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg/400px-Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg/800px-Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg/1200px-Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg/1920px-Wasserburg_Haus_Kemnade_(Hattingen)_(7).jpg
+  Blick auf Haus Kemnade und Kemnader See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg/400px-Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg/800px-Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg/1200px-Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg/1920px-Blick_auf_Haus_Kemnade_und_Kemnader_See.jpg
+  NRW, Hattingen - Haus Kemnade 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRW,_Hattingen_-_Haus_Kemnade_01.jpg/400px-NRW,_Hattingen_-_Haus_Kemnade_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRW,_Hattingen_-_Haus_Kemnade_01.jpg/800px-NRW,_Hattingen_-_Haus_Kemnade_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRW,_Hattingen_-_Haus_Kemnade_01.jpg/1200px-NRW,_Hattingen_-_Haus_Kemnade_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NRW,_Hattingen_-_Haus_Kemnade_01.jpg/1920px-NRW,_Hattingen_-_Haus_Kemnade_01.jpg
+  Haus Kemnade (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Haus_Kemnade_(1).jpg/400px-Haus_Kemnade_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Haus_Kemnade_(1).jpg/800px-Haus_Kemnade_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Haus_Kemnade_(1).jpg/1200px-Haus_Kemnade_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Haus_Kemnade_(1).jpg/1920px-Haus_Kemnade_(1).jpg
 ---
 
 ## Overview

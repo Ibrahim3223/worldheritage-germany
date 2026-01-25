@@ -1,19 +1,49 @@
 ---
-title: "Hochstaufen"
+title: Hochstaufen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.75
 longitude: 12.85
 images:
-  - "/images-sites/hochstaufen/01-7decc13e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hochstaufen_(Südseite)_3.jpg/1200px-Hochstaufen_(Südseite)_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochstaufen_(Südseite)_2.jpg/1200px-Hochstaufen_(Südseite)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hochstaufen_(Südseite).jpg/1200px-Hochstaufen_(Südseite).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230610_View_Hohensalzburg_Castle_05.jpg/1200px-20230610_View_Hohensalzburg_Castle_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochstaufen01.jpg/1200px-Hochstaufen01.jpg
+image_srcset:
+  Hochstaufen (Südseite) 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hochstaufen_(Südseite)_3.jpg/400px-Hochstaufen_(Südseite)_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hochstaufen_(Südseite)_3.jpg/800px-Hochstaufen_(Südseite)_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hochstaufen_(Südseite)_3.jpg/1200px-Hochstaufen_(Südseite)_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hochstaufen_(Südseite)_3.jpg/1920px-Hochstaufen_(Südseite)_3.jpg
+  Hochstaufen (Südseite) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochstaufen_(Südseite)_2.jpg/400px-Hochstaufen_(Südseite)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochstaufen_(Südseite)_2.jpg/800px-Hochstaufen_(Südseite)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochstaufen_(Südseite)_2.jpg/1200px-Hochstaufen_(Südseite)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochstaufen_(Südseite)_2.jpg/1920px-Hochstaufen_(Südseite)_2.jpg
+  Hochstaufen (Südseite).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hochstaufen_(Südseite).jpg/400px-Hochstaufen_(Südseite).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hochstaufen_(Südseite).jpg/800px-Hochstaufen_(Südseite).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hochstaufen_(Südseite).jpg/1200px-Hochstaufen_(Südseite).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hochstaufen_(Südseite).jpg/1920px-Hochstaufen_(Südseite).jpg
+  20230610 View Hohensalzburg Castle 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230610_View_Hohensalzburg_Castle_05.jpg/400px-20230610_View_Hohensalzburg_Castle_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230610_View_Hohensalzburg_Castle_05.jpg/800px-20230610_View_Hohensalzburg_Castle_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230610_View_Hohensalzburg_Castle_05.jpg/1200px-20230610_View_Hohensalzburg_Castle_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230610_View_Hohensalzburg_Castle_05.jpg/1920px-20230610_View_Hohensalzburg_Castle_05.jpg
+  Hochstaufen01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochstaufen01.jpg/400px-Hochstaufen01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochstaufen01.jpg/800px-Hochstaufen01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochstaufen01.jpg/1200px-Hochstaufen01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hochstaufen01.jpg/1920px-Hochstaufen01.jpg
 ---
 
 ## Overview

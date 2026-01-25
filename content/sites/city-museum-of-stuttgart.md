@@ -1,20 +1,25 @@
 ---
-title: "City Museum of Stuttgart"
+title: City Museum of Stuttgart
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.77608
 longitude: 9.18411
 images:
-  - "/images-sites/city-museum-of-stuttgart/01-f1c700d2-800w.webp"
-  - "/images-sites/city-museum-of-stuttgart/02-df542e39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/StadtmuseumStuttgart.jpg/1200px-StadtmuseumStuttgart.jpg
+image_srcset:
+  StadtmuseumStuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/StadtmuseumStuttgart.jpg/400px-StadtmuseumStuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/StadtmuseumStuttgart.jpg/800px-StadtmuseumStuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/StadtmuseumStuttgart.jpg/1200px-StadtmuseumStuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/StadtmuseumStuttgart.jpg/1920px-StadtmuseumStuttgart.jpg
 ---
 
 ## Overview

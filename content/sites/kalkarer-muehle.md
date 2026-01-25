@@ -13,7 +13,7 @@ regions:
 latitude: 51.7397
 longitude: 6.295667
 images:
-  - "/images-sites/kalkarer-muehle/01-3c2f012a-800w.webp"
+  - "/images/kalkarer-muehle/01-3c2f012a-800w.webp"
 ---
 
 ## Overview

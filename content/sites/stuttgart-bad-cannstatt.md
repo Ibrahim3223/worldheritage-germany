@@ -13,7 +13,7 @@ regions:
 latitude: 48.8017
 longitude: 9.21778
 images:
-  - "/images-sites/stuttgart-bad-cannstatt/01-cb9866cb-800w.webp"
+  - "/images/stuttgart-bad-cannstatt/01-cb9866cb-800w.webp"
 ---
 
 ## Overview

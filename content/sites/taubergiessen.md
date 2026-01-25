@@ -13,7 +13,7 @@ regions:
 latitude: 48.2553
 longitude: 7.69083
 images:
-  - "/images-sites/taubergiessen/01-9e99d890-800w.webp"
+  - "/images/taubergiessen/01-9e99d890-800w.webp"
 ---
 
 ## Overview

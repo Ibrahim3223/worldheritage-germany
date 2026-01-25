@@ -13,7 +13,7 @@ regions:
 latitude: 54.37944444
 longitude: 10.19472222
 images:
-  - "/images-sites/moeltenort-u-boat-memorial/01-e0c556e7-800w.webp"
+  - "/images/moeltenort-u-boat-memorial/01-e0c556e7-800w.webp"
 ---
 
 ## Overview

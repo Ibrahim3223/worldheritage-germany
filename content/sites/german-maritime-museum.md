@@ -1,29 +1,49 @@
 ---
-title: "German Maritime Museum"
+title: German Maritime Museum
 date: 2026-01-23
 draft: false
-description: "Maritime museum in Bremerhaven"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Maritime museum in Bremerhaven
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.5401
 longitude: 8.577
-
-# Images
 images:
-  - "/images-sites/german-maritime-museum/01-8056ae0c-800w.webp"
-  - "/images-sites/german-maritime-museum/02-09903f52-800w.webp"
-  - "/images-sites/german-maritime-museum/03-ded8cae8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg/1200px-Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/1200px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg/1200px-Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg/1200px-Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1200px-Deutsches_Schiffahrtsmuseum.jpg
+image_srcset:
+  Bremerhaven, Schifffahrtsmuseum -- 2024 -- 2334.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg/400px-Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg/800px-Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg/1200px-Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg/1920px-Bremerhaven,_Schifffahrtsmuseum_--_2024_--_2334.jpg
+  Bremerhaven, Richtfunkturm -- 2024 -- 2282.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/400px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/800px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/1200px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/1920px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+  Bremerhaven, Alter Hafen -- 2024 -- 2281.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg/400px-Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg/800px-Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg/1200px-Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg/1920px-Bremerhaven,_Alter_Hafen_--_2024_--_2281.jpg
+  Bremerhaven, Alter Hafen -- 2024 -- 2285.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg/400px-Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg/800px-Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg/1200px-Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg/1920px-Bremerhaven,_Alter_Hafen_--_2024_--_2285.jpg
+  Deutsches Schiffahrtsmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/400px-Deutsches_Schiffahrtsmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/800px-Deutsches_Schiffahrtsmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1200px-Deutsches_Schiffahrtsmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Deutsches_Schiffahrtsmuseum.jpg/1920px-Deutsches_Schiffahrtsmuseum.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Castle Balduinstein"
+title: Castle Balduinstein
 date: 2026-01-23
 draft: false
-description: "Castle ruins in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Castle ruins in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3442
 longitude: 7.97361
 images:
-  - "/images-sites/castle-balduinstein/01-746fdaa3-800w.webp"
-  - "/images-sites/castle-balduinstein/02-1f34ac79-800w.webp"
-  - "/images-sites/castle-balduinstein/03-df932e8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BalduinsteinBurgBalduinstein6.jpg/1200px-BalduinsteinBurgBalduinstein6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/BalduinsteinBurgBalduinstein2.jpg/1200px-BalduinsteinBurgBalduinstein2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BalduinsteinBurgBalduinstein5.jpg/1200px-BalduinsteinBurgBalduinstein5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Balduinstein_-_Burg.JPG/1200px-Balduinstein_-_Burg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg/1200px-Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg
+image_srcset:
+  BalduinsteinBurgBalduinstein6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BalduinsteinBurgBalduinstein6.jpg/400px-BalduinsteinBurgBalduinstein6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BalduinsteinBurgBalduinstein6.jpg/800px-BalduinsteinBurgBalduinstein6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BalduinsteinBurgBalduinstein6.jpg/1200px-BalduinsteinBurgBalduinstein6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BalduinsteinBurgBalduinstein6.jpg/1920px-BalduinsteinBurgBalduinstein6.jpg
+  BalduinsteinBurgBalduinstein2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/BalduinsteinBurgBalduinstein2.jpg/400px-BalduinsteinBurgBalduinstein2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/BalduinsteinBurgBalduinstein2.jpg/800px-BalduinsteinBurgBalduinstein2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/BalduinsteinBurgBalduinstein2.jpg/1200px-BalduinsteinBurgBalduinstein2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/BalduinsteinBurgBalduinstein2.jpg/1920px-BalduinsteinBurgBalduinstein2.jpg
+  BalduinsteinBurgBalduinstein5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BalduinsteinBurgBalduinstein5.jpg/400px-BalduinsteinBurgBalduinstein5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BalduinsteinBurgBalduinstein5.jpg/800px-BalduinsteinBurgBalduinstein5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BalduinsteinBurgBalduinstein5.jpg/1200px-BalduinsteinBurgBalduinstein5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BalduinsteinBurgBalduinstein5.jpg/1920px-BalduinsteinBurgBalduinstein5.jpg
+  Balduinstein - Burg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Balduinstein_-_Burg.JPG/400px-Balduinstein_-_Burg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Balduinstein_-_Burg.JPG/800px-Balduinstein_-_Burg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Balduinstein_-_Burg.JPG/1200px-Balduinstein_-_Burg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Balduinstein_-_Burg.JPG/1920px-Balduinstein_-_Burg.JPG
+  Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg/400px-Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg/800px-Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg/1200px-Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg/1920px-Burg-Balduinstein-JR-G6-2576-2008-08-14.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.419655
 longitude: 11.052953
 images:
-  - "/images-sites/neues-schloss-rauenstein/01-ff62ef81-800w.webp"
-  - "/images-sites/neues-schloss-rauenstein/02-175a079a-800w.webp"
-  - "/images-sites/neues-schloss-rauenstein/03-33cc01e8-800w.webp"
+  - "/images/neues-schloss-rauenstein/01-ff62ef81-800w.webp"
+  - "/images/neues-schloss-rauenstein/02-175a079a-800w.webp"
+  - "/images/neues-schloss-rauenstein/03-33cc01e8-800w.webp"
 ---
 
 ## Overview

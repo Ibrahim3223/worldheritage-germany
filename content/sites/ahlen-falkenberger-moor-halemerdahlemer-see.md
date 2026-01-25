@@ -1,19 +1,49 @@
 ---
-title: "Ahlen-Falkenberger Moor, Halemer/Dahlemer See"
+title: Ahlen-Falkenberger Moor, Halemer/Dahlemer See
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6833
 longitude: 8.79167
 images:
-  - "/images-sites/ahlen-falkenberger-moor-halemerdahlemer-see/01-aa4d342e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Der_Dahlemer_See_am_Morgen.jpg/1200px-Der_Dahlemer_See_am_Morgen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Moor_in_Ahlenfalkenberg.jpg/1200px-Moor_in_Ahlenfalkenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg/1200px-Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pfad_zum_Dahlemer_See.jpg/1200px-Pfad_zum_Dahlemer_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1200px-Ahlenmoor_(renaturiert).JPG
+image_srcset:
+  Der Dahlemer See am Morgen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Der_Dahlemer_See_am_Morgen.jpg/400px-Der_Dahlemer_See_am_Morgen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Der_Dahlemer_See_am_Morgen.jpg/800px-Der_Dahlemer_See_am_Morgen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Der_Dahlemer_See_am_Morgen.jpg/1200px-Der_Dahlemer_See_am_Morgen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Der_Dahlemer_See_am_Morgen.jpg/1920px-Der_Dahlemer_See_am_Morgen.jpg
+  Moor in Ahlenfalkenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Moor_in_Ahlenfalkenberg.jpg/400px-Moor_in_Ahlenfalkenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Moor_in_Ahlenfalkenberg.jpg/800px-Moor_in_Ahlenfalkenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Moor_in_Ahlenfalkenberg.jpg/1200px-Moor_in_Ahlenfalkenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Moor_in_Ahlenfalkenberg.jpg/1920px-Moor_in_Ahlenfalkenberg.jpg
+  Luftaufnahmen Nordseekueste 2012 05 D50 by-RaBoe 206.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg/400px-Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg/800px-Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg/1200px-Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg/1920px-Luftaufnahmen_Nordseekueste_2012_05_D50_by-RaBoe_206.jpg
+  Pfad zum Dahlemer See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pfad_zum_Dahlemer_See.jpg/400px-Pfad_zum_Dahlemer_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pfad_zum_Dahlemer_See.jpg/800px-Pfad_zum_Dahlemer_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pfad_zum_Dahlemer_See.jpg/1200px-Pfad_zum_Dahlemer_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pfad_zum_Dahlemer_See.jpg/1920px-Pfad_zum_Dahlemer_See.jpg
+  Ahlenmoor (renaturiert).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/400px-Ahlenmoor_(renaturiert).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/800px-Ahlenmoor_(renaturiert).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1200px-Ahlenmoor_(renaturiert).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ahlenmoor_(renaturiert).JPG/1920px-Ahlenmoor_(renaturiert).JPG
 ---
 
 ## Overview

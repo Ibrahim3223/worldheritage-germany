@@ -13,8 +13,8 @@ regions:
 latitude: 53.89363889
 longitude: 11.43066111
 images:
-  - "/images-sites/state-museum-of-technology/02-47baf67e-800w.webp"
-  - "/images-sites/state-museum-of-technology/03-985c610a-800w.webp"
+  - "/images/state-museum-of-technology/02-47baf67e-800w.webp"
+  - "/images/state-museum-of-technology/03-985c610a-800w.webp"
 ---
 
 ## Overview

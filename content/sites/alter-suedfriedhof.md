@@ -1,19 +1,49 @@
 ---
-title: "Alter Südfriedhof"
+title: Alter Südfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.127265054
 longitude: 11.564875282
 images:
-  - "/images-sites/alter-suedfriedhof/01-f0a3aab5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20221107_Alter_Südfriedhof_München_05.jpg/1200px-20221107_Alter_Südfriedhof_München_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alter_Suedfriedhof_Muenchen-15.jpg/1200px-Alter_Suedfriedhof_Muenchen-15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/1200px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alter_Suedfriedhof_Muenchen-21.jpg/1200px-Alter_Suedfriedhof_Muenchen-21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alter_Suedfriedhof-1.jpg/1200px-Alter_Suedfriedhof-1.jpg
+image_srcset:
+  20221107 Alter Südfriedhof München 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20221107_Alter_Südfriedhof_München_05.jpg/400px-20221107_Alter_Südfriedhof_München_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20221107_Alter_Südfriedhof_München_05.jpg/800px-20221107_Alter_Südfriedhof_München_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20221107_Alter_Südfriedhof_München_05.jpg/1200px-20221107_Alter_Südfriedhof_München_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20221107_Alter_Südfriedhof_München_05.jpg/1920px-20221107_Alter_Südfriedhof_München_05.jpg
+  Alter Suedfriedhof Muenchen-15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alter_Suedfriedhof_Muenchen-15.jpg/400px-Alter_Suedfriedhof_Muenchen-15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alter_Suedfriedhof_Muenchen-15.jpg/800px-Alter_Suedfriedhof_Muenchen-15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alter_Suedfriedhof_Muenchen-15.jpg/1200px-Alter_Suedfriedhof_Muenchen-15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alter_Suedfriedhof_Muenchen-15.jpg/1920px-Alter_Suedfriedhof_Muenchen-15.jpg
+  Grabdenkmäler auf dem Münchner Südfriedhof 70.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/400px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/800px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/1200px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg/1920px-Grabdenkmäler_auf_dem_Münchner_Südfriedhof_70.jpg
+  Alter Suedfriedhof Muenchen-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alter_Suedfriedhof_Muenchen-21.jpg/400px-Alter_Suedfriedhof_Muenchen-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alter_Suedfriedhof_Muenchen-21.jpg/800px-Alter_Suedfriedhof_Muenchen-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alter_Suedfriedhof_Muenchen-21.jpg/1200px-Alter_Suedfriedhof_Muenchen-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alter_Suedfriedhof_Muenchen-21.jpg/1920px-Alter_Suedfriedhof_Muenchen-21.jpg
+  Alter Suedfriedhof-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alter_Suedfriedhof-1.jpg/400px-Alter_Suedfriedhof-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alter_Suedfriedhof-1.jpg/800px-Alter_Suedfriedhof-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alter_Suedfriedhof-1.jpg/1200px-Alter_Suedfriedhof-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alter_Suedfriedhof-1.jpg/1920px-Alter_Suedfriedhof-1.jpg
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Hüttenstollen"
+title: Hüttenstollen
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6185
 longitude: 11.0517
 images:
-  - "/images-sites/huettenstollen/01-865dc4da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Huettenstollen_-_Mundloch,_Flosse.jpg/1200px-Huettenstollen_-_Mundloch,_Flosse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Huettenstollen_Mundloch.jpg/1200px-Huettenstollen_Mundloch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hüttenstollen_Osterwald_Mundloch.jpg/1200px-Hüttenstollen_Osterwald_Mundloch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hüttenstollen_Osterwald_Museum.jpg/1200px-Hüttenstollen_Osterwald_Museum.jpg
+image_srcset:
+  Huettenstollen - Mundloch, Flosse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Huettenstollen_-_Mundloch,_Flosse.jpg/400px-Huettenstollen_-_Mundloch,_Flosse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Huettenstollen_-_Mundloch,_Flosse.jpg/800px-Huettenstollen_-_Mundloch,_Flosse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Huettenstollen_-_Mundloch,_Flosse.jpg/1200px-Huettenstollen_-_Mundloch,_Flosse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Huettenstollen_-_Mundloch,_Flosse.jpg/1920px-Huettenstollen_-_Mundloch,_Flosse.jpg
+  Huettenstollen Mundloch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Huettenstollen_Mundloch.jpg/400px-Huettenstollen_Mundloch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Huettenstollen_Mundloch.jpg/800px-Huettenstollen_Mundloch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Huettenstollen_Mundloch.jpg/1200px-Huettenstollen_Mundloch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Huettenstollen_Mundloch.jpg/1920px-Huettenstollen_Mundloch.jpg
+  Hüttenstollen Osterwald Mundloch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hüttenstollen_Osterwald_Mundloch.jpg/400px-Hüttenstollen_Osterwald_Mundloch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hüttenstollen_Osterwald_Mundloch.jpg/800px-Hüttenstollen_Osterwald_Mundloch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hüttenstollen_Osterwald_Mundloch.jpg/1200px-Hüttenstollen_Osterwald_Mundloch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hüttenstollen_Osterwald_Mundloch.jpg/1920px-Hüttenstollen_Osterwald_Mundloch.jpg
+  Hüttenstollen Osterwald Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hüttenstollen_Osterwald_Museum.jpg/400px-Hüttenstollen_Osterwald_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hüttenstollen_Osterwald_Museum.jpg/800px-Hüttenstollen_Osterwald_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hüttenstollen_Osterwald_Museum.jpg/1200px-Hüttenstollen_Osterwald_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hüttenstollen_Osterwald_Museum.jpg/1920px-Hüttenstollen_Osterwald_Museum.jpg
 ---
 
 ## Overview

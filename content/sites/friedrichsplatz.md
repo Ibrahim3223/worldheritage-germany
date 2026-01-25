@@ -1,19 +1,49 @@
 ---
-title: "Friedrichsplatz"
+title: Friedrichsplatz
 date: 2026-01-23
 draft: false
-description: "square in Mannheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: square in Mannheim, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4839
 longitude: 8.47603
 images:
-  - "/images-sites/friedrichsplatz/01-3f2dd858-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kassel_asv2022-02_img03_Friedrichsplatz.jpg/1200px-Kassel_asv2022-02_img03_Friedrichsplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20180714_Friedrichsplatz_Mannheim_01.jpg/1200px-20180714_Friedrichsplatz_Mannheim_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Friedrichsplatz_Mannheim_02.jpg/1200px-20180714_Friedrichsplatz_Mannheim_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parkhotel_1910_Mannheim.jpg/1200px-Parkhotel_1910_Mannheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Der_Friedrichsplatz_und_der_Wasserturm.jpg/1200px-Der_Friedrichsplatz_und_der_Wasserturm.jpg
+image_srcset:
+  Kassel asv2022-02 img03 Friedrichsplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kassel_asv2022-02_img03_Friedrichsplatz.jpg/400px-Kassel_asv2022-02_img03_Friedrichsplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kassel_asv2022-02_img03_Friedrichsplatz.jpg/800px-Kassel_asv2022-02_img03_Friedrichsplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kassel_asv2022-02_img03_Friedrichsplatz.jpg/1200px-Kassel_asv2022-02_img03_Friedrichsplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kassel_asv2022-02_img03_Friedrichsplatz.jpg/1920px-Kassel_asv2022-02_img03_Friedrichsplatz.jpg
+  20180714 Friedrichsplatz Mannheim 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20180714_Friedrichsplatz_Mannheim_01.jpg/400px-20180714_Friedrichsplatz_Mannheim_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20180714_Friedrichsplatz_Mannheim_01.jpg/800px-20180714_Friedrichsplatz_Mannheim_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20180714_Friedrichsplatz_Mannheim_01.jpg/1200px-20180714_Friedrichsplatz_Mannheim_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20180714_Friedrichsplatz_Mannheim_01.jpg/1920px-20180714_Friedrichsplatz_Mannheim_01.jpg
+  20180714 Friedrichsplatz Mannheim 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Friedrichsplatz_Mannheim_02.jpg/400px-20180714_Friedrichsplatz_Mannheim_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Friedrichsplatz_Mannheim_02.jpg/800px-20180714_Friedrichsplatz_Mannheim_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Friedrichsplatz_Mannheim_02.jpg/1200px-20180714_Friedrichsplatz_Mannheim_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Friedrichsplatz_Mannheim_02.jpg/1920px-20180714_Friedrichsplatz_Mannheim_02.jpg
+  Parkhotel 1910 Mannheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parkhotel_1910_Mannheim.jpg/400px-Parkhotel_1910_Mannheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parkhotel_1910_Mannheim.jpg/800px-Parkhotel_1910_Mannheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parkhotel_1910_Mannheim.jpg/1200px-Parkhotel_1910_Mannheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Parkhotel_1910_Mannheim.jpg/1920px-Parkhotel_1910_Mannheim.jpg
+  Der Friedrichsplatz und der Wasserturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Der_Friedrichsplatz_und_der_Wasserturm.jpg/400px-Der_Friedrichsplatz_und_der_Wasserturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Der_Friedrichsplatz_und_der_Wasserturm.jpg/800px-Der_Friedrichsplatz_und_der_Wasserturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Der_Friedrichsplatz_und_der_Wasserturm.jpg/1200px-Der_Friedrichsplatz_und_der_Wasserturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Der_Friedrichsplatz_und_der_Wasserturm.jpg/1920px-Der_Friedrichsplatz_und_der_Wasserturm.jpg
 ---
 
 ## Overview

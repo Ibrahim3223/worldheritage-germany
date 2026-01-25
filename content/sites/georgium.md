@@ -1,19 +1,49 @@
 ---
-title: "Georgium"
+title: Georgium
 date: 2026-01-23
 draft: false
-description: "castle and sculpture garden in Dessau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: castle and sculpture garden in Dessau, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8444
 longitude: 12.2308
 images:
-  - "/images-sites/georgium/01-8f9d8278-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1200px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1200px-19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1200px-19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1200px-19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg/1200px-19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg
+image_srcset:
+  Dessau asv2022-08 img24 Schloss Georgium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/400px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/800px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1200px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dessau_asv2022-08_img24_Schloss_Georgium.jpg/1920px-Dessau_asv2022-08_img24_Schloss_Georgium.jpg
+  19871001300NR Dessau Park Georgium Schloß Georgium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/400px-19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/800px-19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1200px-19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1920px-19871001300NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+  19871001330NR Dessau Park Georgium Schloß Georgium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/400px-19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/800px-19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1200px-19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1920px-19871001330NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+  19871001310NR Dessau Park Georgium Schloß Georgium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/400px-19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/800px-19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1200px-19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg/1920px-19871001310NR_Dessau_Park_Georgium_Schloß_Georgium.jpg
+  19871001421NR Dessau Park Georgium Ionischer Tempel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg/400px-19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg/800px-19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg/1200px-19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg/1920px-19871001421NR_Dessau_Park_Georgium_Ionischer_Tempel.jpg
 ---
 
 ## Overview

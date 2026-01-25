@@ -1,20 +1,49 @@
 ---
-title: "Großes Meer"
+title: Großes Meer
 date: 2026-01-23
 draft: false
-description: "lake in Südbrookmerland, Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Südbrookmerland, Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.43083333
 longitude: 7.29444444
 images:
-  - "/images-sites/grosses-meer/02-0d09df53-800w.webp"
-  - "/images-sites/grosses-meer/03-789b2000-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Großes_Meer_(Landkreis_Diepholz).jpg/1200px-Großes_Meer_(Landkreis_Diepholz).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/GrossesMeer3.jpg/1200px-GrossesMeer3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großes_Meer_(Ostfriesland)-msu-8403-.jpg/1200px-Großes_Meer_(Ostfriesland)-msu-8403-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Holter_meer.jpg/1200px-Holter_meer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grmeer.jpg/1200px-Grmeer.jpg
+image_srcset:
+  Großes Meer (Landkreis Diepholz).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Großes_Meer_(Landkreis_Diepholz).jpg/400px-Großes_Meer_(Landkreis_Diepholz).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Großes_Meer_(Landkreis_Diepholz).jpg/800px-Großes_Meer_(Landkreis_Diepholz).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Großes_Meer_(Landkreis_Diepholz).jpg/1200px-Großes_Meer_(Landkreis_Diepholz).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Großes_Meer_(Landkreis_Diepholz).jpg/1920px-Großes_Meer_(Landkreis_Diepholz).jpg
+  GrossesMeer3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/GrossesMeer3.jpg/400px-GrossesMeer3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/GrossesMeer3.jpg/800px-GrossesMeer3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/GrossesMeer3.jpg/1200px-GrossesMeer3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/GrossesMeer3.jpg/1920px-GrossesMeer3.jpg
+  Großes Meer (Ostfriesland)-msu-8403-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großes_Meer_(Ostfriesland)-msu-8403-.jpg/400px-Großes_Meer_(Ostfriesland)-msu-8403-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großes_Meer_(Ostfriesland)-msu-8403-.jpg/800px-Großes_Meer_(Ostfriesland)-msu-8403-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großes_Meer_(Ostfriesland)-msu-8403-.jpg/1200px-Großes_Meer_(Ostfriesland)-msu-8403-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großes_Meer_(Ostfriesland)-msu-8403-.jpg/1920px-Großes_Meer_(Ostfriesland)-msu-8403-.jpg
+  Holter meer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Holter_meer.jpg/400px-Holter_meer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Holter_meer.jpg/800px-Holter_meer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Holter_meer.jpg/1200px-Holter_meer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Holter_meer.jpg/1920px-Holter_meer.jpg
+  Grmeer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grmeer.jpg/400px-Grmeer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grmeer.jpg/800px-Grmeer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grmeer.jpg/1200px-Grmeer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Grmeer.jpg/1920px-Grmeer.jpg
 ---
 
 ## Overview

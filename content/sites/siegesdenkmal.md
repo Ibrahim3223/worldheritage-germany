@@ -13,7 +13,7 @@ regions:
 latitude: 47.9979445
 longitude: 7.8530652
 images:
-  - "/images-sites/siegesdenkmal/01-d72a5544-800w.webp"
+  - "/images/siegesdenkmal/01-d72a5544-800w.webp"
 ---
 
 ## Overview

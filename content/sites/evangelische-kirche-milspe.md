@@ -1,24 +1,45 @@
 ---
-title: "Evangelische Kirche Milspe"
-site_name: "Evangelische Kirche Milspe"
-slug: "evangelische-kirche-milspe"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Kirche Milspe
+site_name: Evangelische Kirche Milspe
+slug: evangelische-kirche-milspe
+region: North Rhine-Westphalia
 latitude: 51.2999
 longitude: 7.34528
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380827"
-description: "The Evangelische Kirche Milspe stands as a striking example of Gothic Revival architecture in Ennepetal, Germany. This church building, constructed from..."
+- church building
+- religious site
+wikidata_id: Q1380827
+description: The Evangelische Kirche Milspe stands as a striking example of Gothic
+  Revival architecture in Ennepetal, Germany. This church building, constructed from...
 images:
-  - "/images-sites/evangelische-kirche-milspe/01-15998605-1920w.webp"
-  - "/images-sites/evangelische-kirche-milspe/02-33991f02-1920w.webp"
-  - "/images-sites/evangelische-kirche-milspe/03-2152ef52-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Evangelische%20Kirche%20Milspe2.jpg/1200px-Evangelische%20Kirche%20Milspe2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evangelische_Kirche_Milspe1.jpg/1200px-Evangelische_Kirche_Milspe1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/1200px-Evangelische_Kirche_Milspe2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg/1200px-Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg
+image_srcset:
+  Evangelische%20Kirche%20Milspe2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Evangelische%20Kirche%20Milspe2.jpg/400px-Evangelische%20Kirche%20Milspe2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Evangelische%20Kirche%20Milspe2.jpg/800px-Evangelische%20Kirche%20Milspe2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Evangelische%20Kirche%20Milspe2.jpg/1200px-Evangelische%20Kirche%20Milspe2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Evangelische%20Kirche%20Milspe2.jpg/1920px-Evangelische%20Kirche%20Milspe2.jpg
+  Evangelische Kirche Milspe1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evangelische_Kirche_Milspe1.jpg/400px-Evangelische_Kirche_Milspe1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evangelische_Kirche_Milspe1.jpg/800px-Evangelische_Kirche_Milspe1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evangelische_Kirche_Milspe1.jpg/1200px-Evangelische_Kirche_Milspe1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evangelische_Kirche_Milspe1.jpg/1920px-Evangelische_Kirche_Milspe1.jpg
+  Evangelische Kirche Milspe2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/400px-Evangelische_Kirche_Milspe2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/800px-Evangelische_Kirche_Milspe2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/1200px-Evangelische_Kirche_Milspe2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Evangelische_Kirche_Milspe2.jpg/1920px-Evangelische_Kirche_Milspe2.jpg
+  Ennepetal, ev. Kirche Milspe - Geograph-103754-by-Michael-W.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg/400px-Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg/800px-Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg/1200px-Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg/1920px-Ennepetal,_ev._Kirche_Milspe_-_Geograph-103754-by-Michael-W.jpg
 ---
 
 ## Overview

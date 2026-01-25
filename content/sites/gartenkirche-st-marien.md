@@ -1,24 +1,51 @@
 ---
-title: "Gartenkirche St. Marien"
-site_name: "Gartenkirche St. Marien"
-slug: "gartenkirche-st-marien"
-region: "Lower Saxony"
-
-# Location
+title: Gartenkirche St. Marien
+site_name: Gartenkirche St. Marien
+slug: gartenkirche-st-marien
+region: Lower Saxony
 latitude: 52.3694
 longitude: 9.74722
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1494662"
-description: "The Gartenkirche St. Marien is an architectural marvel located in Hannover, Germany, that draws visitors with its striking Gothic Revival style. This ch..."
+- church building
+- religious site
+wikidata_id: Q1494662
+description: The Gartenkirche St. Marien is an architectural marvel located in Hannover,
+  Germany, that draws visitors with its striking Gothic Revival style. This ch...
 images:
-  - "/images-sites/gartenkirche-st-marien/01-77764cae-1920w.webp"
-  - "/images-sites/gartenkirche-st-marien/02-69fa1430-1920w.webp"
-  - "/images-sites/gartenkirche-st-marien/03-35e94c45-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg/1200px-Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1200px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2021-02-11_Gartenkirche_St._Marien_01.JPG/1200px-2021-02-11_Gartenkirche_St._Marien_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021-02-11_Gartenkirche_St._Marien_02.JPG/1200px-2021-02-11_Gartenkirche_St._Marien_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2020-02-11_Einmündung_Marienstraße.JPG/1200px-2020-02-11_Einmündung_Marienstraße.JPG
+image_srcset:
+  Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg/400px-Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg/800px-Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg/1200px-Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg/1920px-Gartenkirche%20church%20Gartenfriedhof%20cemetery%20Marienstrasse%20Hanover%20Germany%2002.jpg
+  Gartenkirche church Gartenfriedhof cemetery Marienstrasse Hanover Germany 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/400px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/800px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1200px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg/1920px-Gartenkirche_church_Gartenfriedhof_cemetery_Marienstrasse_Hanover_Germany_02.jpg
+  2021-02-11 Gartenkirche St. Marien 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2021-02-11_Gartenkirche_St._Marien_01.JPG/400px-2021-02-11_Gartenkirche_St._Marien_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2021-02-11_Gartenkirche_St._Marien_01.JPG/800px-2021-02-11_Gartenkirche_St._Marien_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2021-02-11_Gartenkirche_St._Marien_01.JPG/1200px-2021-02-11_Gartenkirche_St._Marien_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2021-02-11_Gartenkirche_St._Marien_01.JPG/1920px-2021-02-11_Gartenkirche_St._Marien_01.JPG
+  2021-02-11 Gartenkirche St. Marien 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021-02-11_Gartenkirche_St._Marien_02.JPG/400px-2021-02-11_Gartenkirche_St._Marien_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021-02-11_Gartenkirche_St._Marien_02.JPG/800px-2021-02-11_Gartenkirche_St._Marien_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021-02-11_Gartenkirche_St._Marien_02.JPG/1200px-2021-02-11_Gartenkirche_St._Marien_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021-02-11_Gartenkirche_St._Marien_02.JPG/1920px-2021-02-11_Gartenkirche_St._Marien_02.JPG
+  2020-02-11 Einmündung Marienstraße.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2020-02-11_Einmündung_Marienstraße.JPG/400px-2020-02-11_Einmündung_Marienstraße.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2020-02-11_Einmündung_Marienstraße.JPG/800px-2020-02-11_Einmündung_Marienstraße.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2020-02-11_Einmündung_Marienstraße.JPG/1200px-2020-02-11_Einmündung_Marienstraße.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2020-02-11_Einmündung_Marienstraße.JPG/1920px-2020-02-11_Einmündung_Marienstraße.JPG
 ---
 
 ## Overview

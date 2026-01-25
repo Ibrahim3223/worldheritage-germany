@@ -13,7 +13,7 @@ regions:
 latitude: 50.359825
 longitude: 7.6109
 images:
-  - "/images-sites/mother-of-beethoven-house/01-1cecd84b-800w.webp"
+  - "/images/mother-of-beethoven-house/01-1cecd84b-800w.webp"
 ---
 
 ## Overview

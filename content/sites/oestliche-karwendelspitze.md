@@ -13,8 +13,8 @@ regions:
 latitude: 47.444722222
 longitude: 11.421388888
 images:
-  - "/images-sites/oestliche-karwendelspitze/02-6757babc-800w.webp"
-  - "/images-sites/oestliche-karwendelspitze/03-de70a0f5-800w.webp"
+  - "/images/oestliche-karwendelspitze/02-6757babc-800w.webp"
+  - "/images/oestliche-karwendelspitze/03-de70a0f5-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bomann-Museum"
+title: Bomann-Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6242
 longitude: 10.0796
 images:
-  - "/images-sites/bomann-museum/01-fbc2bc2b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Celle_Schlossplatz_7_from_the_castle.jpg/1200px-Celle_Schlossplatz_7_from_the_castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fenster_am_Bomannmuseum_8512.jpg/1200px-Fenster_am_Bomannmuseum_8512.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wappen_am_Bomannmuseum_8511.jpg/1200px-Wappen_am_Bomannmuseum_8511.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg/1200px-Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/1200px-Celle_Bomann-Museum.jpg
+image_srcset:
+  Celle Schlossplatz 7 from the castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Celle_Schlossplatz_7_from_the_castle.jpg/400px-Celle_Schlossplatz_7_from_the_castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Celle_Schlossplatz_7_from_the_castle.jpg/800px-Celle_Schlossplatz_7_from_the_castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Celle_Schlossplatz_7_from_the_castle.jpg/1200px-Celle_Schlossplatz_7_from_the_castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Celle_Schlossplatz_7_from_the_castle.jpg/1920px-Celle_Schlossplatz_7_from_the_castle.jpg
+  Fenster am Bomannmuseum 8512.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fenster_am_Bomannmuseum_8512.jpg/400px-Fenster_am_Bomannmuseum_8512.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fenster_am_Bomannmuseum_8512.jpg/800px-Fenster_am_Bomannmuseum_8512.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fenster_am_Bomannmuseum_8512.jpg/1200px-Fenster_am_Bomannmuseum_8512.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fenster_am_Bomannmuseum_8512.jpg/1920px-Fenster_am_Bomannmuseum_8512.jpg
+  Wappen am Bomannmuseum 8511.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wappen_am_Bomannmuseum_8511.jpg/400px-Wappen_am_Bomannmuseum_8511.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wappen_am_Bomannmuseum_8511.jpg/800px-Wappen_am_Bomannmuseum_8511.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wappen_am_Bomannmuseum_8511.jpg/1200px-Wappen_am_Bomannmuseum_8511.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wappen_am_Bomannmuseum_8511.jpg/1920px-Wappen_am_Bomannmuseum_8511.jpg
+  Coat of Arms at the Bomann museum - Celle castle - Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg/400px-Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg/800px-Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg/1200px-Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg/1920px-Coat_of_Arms_at_the_Bomann_museum_-_Celle_castle_-_Germany.jpg
+  Celle Bomann-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/400px-Celle_Bomann-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/800px-Celle_Bomann-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/1200px-Celle_Bomann-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Celle_Bomann-Museum.jpg/1920px-Celle_Bomann-Museum.jpg
 ---
 
 ## Overview

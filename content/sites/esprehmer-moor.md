@@ -1,21 +1,49 @@
 ---
-title: "Esprehmer Moor"
+title: Esprehmer Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.481388888
 longitude: 9.639722222
 images:
-  - "/images-sites/esprehmer-moor/01-1fa15820-800w.webp"
-  - "/images-sites/esprehmer-moor/02-bb95921a-800w.webp"
-  - "/images-sites/esprehmer-moor/03-2f89acde-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg
+image_srcset:
+  Schleswig-Holstein, Borgwedel, Naturschutzgebiet Esprehmer Moor NIK 1786.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg/400px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg/800px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg/1920px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1786.jpg
+  Schleswig-Holstein, Borgwedel, Naturschutzgebiet Esprehmer Moor NIK 1798.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg/400px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg/800px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg/1920px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1798.jpg
+  Schleswig-Holstein, Borgwedel, Naturschutzgebiet Esprehmer Moor NIK 1805.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg/400px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg/800px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg/1920px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1805.jpg
+  Schleswig-Holstein, Borgwedel, Naturschutzgebiet Esprehmer Moor NIK 1807.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg/400px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg/800px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg/1920px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1807.jpg
+  Schleswig-Holstein, Borgwedel, Naturschutzgebiet Esprehmer Moor NIK 1810.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg/400px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg/800px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg/1200px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg/1920px-Schleswig-Holstein,_Borgwedel,_Naturschutzgebiet_Esprehmer_Moor_NIK_1810.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Goldschmiedehaus"
+title: Deutsches Goldschmiedehaus
 date: 2026-01-23
 draft: false
-description: "museum in Hanau (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hanau (Germany)
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1367
 longitude: 8.91778
 images:
-  - "/images-sites/deutsches-goldschmiedehaus/01-4971895f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1200px-Altstädter_Rathaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Deutsches-Goldschmiedehaus_Hanau.JPG/1200px-Deutsches-Goldschmiedehaus_Hanau.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Goldschmiedehaus_Hanau_856-Lh.jpg/1200px-Goldschmiedehaus_Hanau_856-Lh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Oud_huis_-_Unknown_-_20526062_-_RCE.jpg/1200px-Oud_huis_-_Unknown_-_20526062_-_RCE.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png/1200px-Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png
+image_srcset:
+  Altstädter Rathaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/400px-Altstädter_Rathaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/800px-Altstädter_Rathaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1200px-Altstädter_Rathaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Altstädter_Rathaus.jpg/1920px-Altstädter_Rathaus.jpg
+  Deutsches-Goldschmiedehaus Hanau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Deutsches-Goldschmiedehaus_Hanau.JPG/400px-Deutsches-Goldschmiedehaus_Hanau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Deutsches-Goldschmiedehaus_Hanau.JPG/800px-Deutsches-Goldschmiedehaus_Hanau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Deutsches-Goldschmiedehaus_Hanau.JPG/1200px-Deutsches-Goldschmiedehaus_Hanau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Deutsches-Goldschmiedehaus_Hanau.JPG/1920px-Deutsches-Goldschmiedehaus_Hanau.JPG
+  Goldschmiedehaus Hanau 856-Lh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Goldschmiedehaus_Hanau_856-Lh.jpg/400px-Goldschmiedehaus_Hanau_856-Lh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Goldschmiedehaus_Hanau_856-Lh.jpg/800px-Goldschmiedehaus_Hanau_856-Lh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Goldschmiedehaus_Hanau_856-Lh.jpg/1200px-Goldschmiedehaus_Hanau_856-Lh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Goldschmiedehaus_Hanau_856-Lh.jpg/1920px-Goldschmiedehaus_Hanau_856-Lh.jpg
+  Oud huis - Unknown - 20526062 - RCE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Oud_huis_-_Unknown_-_20526062_-_RCE.jpg/400px-Oud_huis_-_Unknown_-_20526062_-_RCE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Oud_huis_-_Unknown_-_20526062_-_RCE.jpg/800px-Oud_huis_-_Unknown_-_20526062_-_RCE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Oud_huis_-_Unknown_-_20526062_-_RCE.jpg/1200px-Oud_huis_-_Unknown_-_20526062_-_RCE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Oud_huis_-_Unknown_-_20526062_-_RCE.jpg/1920px-Oud_huis_-_Unknown_-_20526062_-_RCE.jpg
+  Hanau Altstadt - Altstädter Rathaus Erdgeschosshalle um 1910.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png/400px-Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png/800px-Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png/1200px-Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png/1920px-Hanau_Altstadt_-_Altstädter_Rathaus_Erdgeschosshalle_um_1910.png
 ---
 
 ## Overview

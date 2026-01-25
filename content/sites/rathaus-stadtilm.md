@@ -13,7 +13,7 @@ regions:
 latitude: 50.774312
 longitude: 11.078569
 images:
-  - "/images-sites/rathaus-stadtilm/01-d5691c4b-800w.webp"
+  - "/images/rathaus-stadtilm/01-d5691c4b-800w.webp"
 ---
 
 ## Overview

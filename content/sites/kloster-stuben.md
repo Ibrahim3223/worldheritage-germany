@@ -13,7 +13,7 @@ regions:
 latitude: 50.1044
 longitude: 7.12259
 images:
-  - "/images-sites/kloster-stuben/01-387efba2-800w.webp"
+  - "/images/kloster-stuben/01-387efba2-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.488444444
 longitude: 13.442944444
 images:
-  - "/images-sites/museum-des-kapitalismus/01-388574d4-800w.webp"
+  - "/images/museum-des-kapitalismus/01-388574d4-800w.webp"
 ---
 
 ## Overview

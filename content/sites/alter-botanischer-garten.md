@@ -1,27 +1,49 @@
 ---
-title: "Alter Botanischer Garten"
+title: Alter Botanischer Garten
 date: 2026-01-23
 draft: false
-description: "garden in Munich, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.141842066
 longitude: 11.564299402
-
-# Images
 images:
-  - "/images-sites/alter-botanischer-garten/01-82242869-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Michaela-melian-maria-luiko-muc-2022.jpg/1200px-Michaela-melian-maria-luiko-muc-2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230815_Portal_Alter_Botanischen_Garten_München.jpg/1200px-20230815_Portal_Alter_Botanischen_Garten_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg/1200px-Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/1200px-Tübingen_Alter_Botanischer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/1200px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
+image_srcset:
+  Michaela-melian-maria-luiko-muc-2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Michaela-melian-maria-luiko-muc-2022.jpg/400px-Michaela-melian-maria-luiko-muc-2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Michaela-melian-maria-luiko-muc-2022.jpg/800px-Michaela-melian-maria-luiko-muc-2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Michaela-melian-maria-luiko-muc-2022.jpg/1200px-Michaela-melian-maria-luiko-muc-2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Michaela-melian-maria-luiko-muc-2022.jpg/1920px-Michaela-melian-maria-luiko-muc-2022.jpg
+  20230815 Portal Alter Botanischen Garten München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230815_Portal_Alter_Botanischen_Garten_München.jpg/400px-20230815_Portal_Alter_Botanischen_Garten_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230815_Portal_Alter_Botanischen_Garten_München.jpg/800px-20230815_Portal_Alter_Botanischen_Garten_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230815_Portal_Alter_Botanischen_Garten_München.jpg/1200px-20230815_Portal_Alter_Botanischen_Garten_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230815_Portal_Alter_Botanischen_Garten_München.jpg/1920px-20230815_Portal_Alter_Botanischen_Garten_München.jpg
+  Aerial image of Alter Botanischer Garten Munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg/400px-Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg/800px-Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg/1200px-Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg/1920px-Aerial_image_of_Alter_Botanischer_Garten_Munich.jpg
+  Tübingen Alter Botanischer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/400px-Tübingen_Alter_Botanischer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/800px-Tübingen_Alter_Botanischer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/1200px-Tübingen_Alter_Botanischer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/1920px-Tübingen_Alter_Botanischer_Garten.jpg
+  Alter Botanischer Garten Muenchen Kunstpavillon-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/400px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/800px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/1200px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg/1920px-Alter_Botanischer_Garten_Muenchen_Kunstpavillon-1.jpg
 ---
 
 ## Overview

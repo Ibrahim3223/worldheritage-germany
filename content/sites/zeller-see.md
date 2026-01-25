@@ -13,9 +13,9 @@ regions:
 latitude: 47.719166666
 longitude: 8.985833333
 images:
-  - "/images-sites/zeller-see/01-57055303-800w.webp"
-  - "/images-sites/zeller-see/02-91662c99-800w.webp"
-  - "/images-sites/zeller-see/03-f00ff88c-800w.webp"
+  - "/images/zeller-see/01-57055303-800w.webp"
+  - "/images/zeller-see/02-91662c99-800w.webp"
+  - "/images/zeller-see/03-f00ff88c-800w.webp"
 ---
 
 ## Overview

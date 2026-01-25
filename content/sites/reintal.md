@@ -13,7 +13,7 @@ regions:
 latitude: 47.469166666
 longitude: 11.118611111
 images:
-  - "/images-sites/reintal/01-e1ee4a2c-800w.webp"
+  - "/images/reintal/01-e1ee4a2c-800w.webp"
 ---
 
 ## Overview

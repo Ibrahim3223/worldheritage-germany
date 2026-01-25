@@ -21,7 +21,7 @@ longitude: 12.6004
 
 # Images
 images:
-  - "/images-sites/kohren-castle/01-401e2617-800w.webp"
+  - "/images/kohren-castle/01-401e2617-800w.webp"
 ---
 
 ## Overview

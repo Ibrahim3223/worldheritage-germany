@@ -1,19 +1,49 @@
 ---
-title: "Günzer See"
+title: Günzer See
 date: 2026-01-23
 draft: false
-description: "lake in Altenpleen, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Altenpleen, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.359980555
 longitude: 12.8999
 images:
-  - "/images-sites/guenzer-see/01-b1a1604d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg/1200px-Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gänseflug_am_Günzer_See_im_Frühjahr.jpg/1200px-Gänseflug_am_Günzer_See_im_Frühjahr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg/1200px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg/1200px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kraniche_und_Gänseschwarm_am_Günzer_See.jpg/1200px-Kraniche_und_Gänseschwarm_am_Günzer_See.jpg
+image_srcset:
+  Abflug der Kraniche von der Fütterungsfläche am Günzer See zu den Schlafplätzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg/400px-Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg/800px-Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg/1200px-Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg/1920px-Abflug_der_Kraniche_von_der_Fütterungsfläche_am_Günzer_See_zu_den_Schlafplätzen.jpg
+  Gänseflug am Günzer See im Frühjahr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gänseflug_am_Günzer_See_im_Frühjahr.jpg/400px-Gänseflug_am_Günzer_See_im_Frühjahr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gänseflug_am_Günzer_See_im_Frühjahr.jpg/800px-Gänseflug_am_Günzer_See_im_Frühjahr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gänseflug_am_Günzer_See_im_Frühjahr.jpg/1200px-Gänseflug_am_Günzer_See_im_Frühjahr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gänseflug_am_Günzer_See_im_Frühjahr.jpg/1920px-Gänseflug_am_Günzer_See_im_Frühjahr.jpg
+  Kraniche auf einer Fütterungsfläche am Günzer See im Frühjahr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg/400px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg/800px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg/1200px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg/1920px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_im_Frühjahr.jpg
+  Kraniche auf einer Fütterungsfläche am Günzer See kurz vor dem Abflug zu den Schlafplätzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg/400px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg/800px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg/1200px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg/1920px-Kraniche_auf_einer_Fütterungsfläche_am_Günzer_See_kurz_vor_dem_Abflug_zu_den_Schlafplätzen.jpg
+  Kraniche und Gänseschwarm am Günzer See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kraniche_und_Gänseschwarm_am_Günzer_See.jpg/400px-Kraniche_und_Gänseschwarm_am_Günzer_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kraniche_und_Gänseschwarm_am_Günzer_See.jpg/800px-Kraniche_und_Gänseschwarm_am_Günzer_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kraniche_und_Gänseschwarm_am_Günzer_See.jpg/1200px-Kraniche_und_Gänseschwarm_am_Günzer_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kraniche_und_Gänseschwarm_am_Günzer_See.jpg/1920px-Kraniche_und_Gänseschwarm_am_Günzer_See.jpg
 ---
 
 ## Overview

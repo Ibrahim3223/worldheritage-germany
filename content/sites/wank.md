@@ -13,9 +13,9 @@ regions:
 latitude: 47.5108
 longitude: 11.1407
 images:
-  - "/images-sites/wank/01-c39656aa-800w.webp"
-  - "/images-sites/wank/02-21b5c459-800w.webp"
-  - "/images-sites/wank/03-fc2672c9-800w.webp"
+  - "/images/wank/01-c39656aa-800w.webp"
+  - "/images/wank/02-21b5c459-800w.webp"
+  - "/images/wank/03-fc2672c9-800w.webp"
 ---
 
 ## Overview

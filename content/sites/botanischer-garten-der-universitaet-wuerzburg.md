@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten der Universität Würzburg"
+title: Botanischer Garten der Universität Würzburg
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7653
 longitude: 9.9313
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-universitaet-wuerzburg/01-5947bb97-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg/1200px-Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG
+image_srcset:
+  Edible Frog - Rana esculenta - panoramio (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg/400px-Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg/800px-Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg/1200px-Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg/1920px-Edible_Frog_-_Rana_esculenta_-_panoramio_(12).jpg
+  Botanischer Garten der Universität Würzburg - IMG 6817.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG/400px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG/800px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG/1920px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6817.JPG
+  Botanischer Garten der Universität Würzburg - IMG 6833.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG/400px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG/800px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG/1920px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6833.JPG
+  Botanischer Garten der Universität Würzburg - IMG 6847.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG/400px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG/800px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG/1920px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6847.JPG
+  Botanischer Garten der Universität Würzburg - IMG 6866.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG/400px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG/800px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG/1200px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG/1920px-Botanischer_Garten_der_Universität_Würzburg_-_IMG_6866.JPG
 ---
 
 ## Overview

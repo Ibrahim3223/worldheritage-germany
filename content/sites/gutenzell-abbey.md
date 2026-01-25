@@ -1,19 +1,43 @@
 ---
-title: "Gutenzell Abbey"
+title: Gutenzell Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1147
 longitude: 9.99597
 images:
-  - "/images-sites/gutenzell-abbey/01-64833806-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg/1200px-Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1200px-Gutenzell_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gutenzell_Brusch_1551.jpg/1200px-Gutenzell_Brusch_1551.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutenzell_Wappen_Schluesselberg.jpg/1200px-Gutenzell_Wappen_Schluesselberg.jpg
+image_srcset:
+  Gutenzell - Kloster und Kirche St. Cosmas und Damian.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg/400px-Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg/800px-Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg/1200px-Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg/1920px-Gutenzell_-_Kloster_und_Kirche_St._Cosmas_und_Damian.jpg
+  Gutenzell Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/400px-Gutenzell_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/800px-Gutenzell_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1200px-Gutenzell_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gutenzell_Kirche.jpg/1920px-Gutenzell_Kirche.jpg
+  Gutenzell Brusch 1551.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gutenzell_Brusch_1551.jpg/400px-Gutenzell_Brusch_1551.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gutenzell_Brusch_1551.jpg/800px-Gutenzell_Brusch_1551.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gutenzell_Brusch_1551.jpg/1200px-Gutenzell_Brusch_1551.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gutenzell_Brusch_1551.jpg/1920px-Gutenzell_Brusch_1551.jpg
+  Gutenzell Wappen Schluesselberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutenzell_Wappen_Schluesselberg.jpg/400px-Gutenzell_Wappen_Schluesselberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutenzell_Wappen_Schluesselberg.jpg/800px-Gutenzell_Wappen_Schluesselberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutenzell_Wappen_Schluesselberg.jpg/1200px-Gutenzell_Wappen_Schluesselberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutenzell_Wappen_Schluesselberg.jpg/1920px-Gutenzell_Wappen_Schluesselberg.jpg
 ---
 
 ## Overview

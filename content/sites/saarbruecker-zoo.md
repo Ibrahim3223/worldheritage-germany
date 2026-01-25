@@ -13,7 +13,7 @@ regions:
 latitude: 49.2308
 longitude: 7.03958
 images:
-  - "/images-sites/saarbruecker-zoo/01-027e84a4-800w.webp"
+  - "/images/saarbruecker-zoo/01-027e84a4-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1242847"
 description: "Imagine stepping into a sanctuary of peace and history, where the echoes of centuries past linger in the air. The Maria-Magdalena-Kirche, located in the..."
 images:
-  - "/images-sites/maria-magdalena-kirche/01-76cc935a-1920w.webp"
-  - "/images-sites/maria-magdalena-kirche/02-61ad4040-1920w.webp"
-  - "/images-sites/maria-magdalena-kirche/03-034b335c-1920w.webp"
+  - "/images/maria-magdalena-kirche/01-76cc935a-1920w.webp"
+  - "/images/maria-magdalena-kirche/02-61ad4040-1920w.webp"
+  - "/images/maria-magdalena-kirche/03-034b335c-1920w.webp"
 ---
 
 ## Overview

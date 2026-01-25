@@ -1,19 +1,49 @@
 ---
-title: "Brückenkopf Jülich"
+title: Brückenkopf Jülich
 date: 2026-01-23
 draft: false
-description: "park in Jülich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fortress"
+description: park in Jülich, Germany
+region: Germany
+country: Germany
+heritage_type: Fortress
 categories:
-  - "Fortress"
+- Fortress
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9208
 longitude: 6.35019
 images:
-  - "/images-sites/brueckenkopf-juelich/01-c3936b34-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg/1200px-2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg/1200px-2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2013-09-21_Pirates_-_Pressgeng_05.jpg/1200px-2013-09-21_Pirates_-_Pressgeng_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/1200px-Brueckenkopf01-DaB..jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung_Juelich09.jpg/1200px-Festung_Juelich09.jpg
+image_srcset:
+  2013-09-21 Pirates - Ye Banished Privateers 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg/400px-2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg/800px-2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg/1200px-2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg/1920px-2013-09-21_Pirates_-_Ye_Banished_Privateers_05.jpg
+  2013-09-21 Pirates - Ye Banished Privateers 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg/400px-2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg/800px-2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg/1200px-2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg/1920px-2013-09-21_Pirates_-_Ye_Banished_Privateers_26.jpg
+  2013-09-21 Pirates - Pressgeng 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2013-09-21_Pirates_-_Pressgeng_05.jpg/400px-2013-09-21_Pirates_-_Pressgeng_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2013-09-21_Pirates_-_Pressgeng_05.jpg/800px-2013-09-21_Pirates_-_Pressgeng_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2013-09-21_Pirates_-_Pressgeng_05.jpg/1200px-2013-09-21_Pirates_-_Pressgeng_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2013-09-21_Pirates_-_Pressgeng_05.jpg/1920px-2013-09-21_Pirates_-_Pressgeng_05.jpg
+  Brueckenkopf01-DaB..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/400px-Brueckenkopf01-DaB..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/800px-Brueckenkopf01-DaB..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/1200px-Brueckenkopf01-DaB..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brueckenkopf01-DaB..jpg/1920px-Brueckenkopf01-DaB..jpg
+  Festung Juelich09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung_Juelich09.jpg/400px-Festung_Juelich09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung_Juelich09.jpg/800px-Festung_Juelich09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung_Juelich09.jpg/1200px-Festung_Juelich09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Festung_Juelich09.jpg/1920px-Festung_Juelich09.jpg
 ---
 
 ## Overview

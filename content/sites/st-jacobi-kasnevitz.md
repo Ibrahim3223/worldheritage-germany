@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1671407"
 description: "St. Jacobi in Kasnevitz is an intriguing example of Protestant ecclesiastical architecture, showcasing the distinctive Brick Gothic style that character..."
 images:
-  - "/images-sites/st-jacobi-kasnevitz/01-a975aa68-1920w.webp"
-  - "/images-sites/st-jacobi-kasnevitz/02-a4273857-1920w.webp"
-  - "/images-sites/st-jacobi-kasnevitz/03-4ee12eff-1920w.webp"
+  - "/images/st-jacobi-kasnevitz/01-a975aa68-1920w.webp"
+  - "/images/st-jacobi-kasnevitz/02-a4273857-1920w.webp"
+  - "/images/st-jacobi-kasnevitz/03-4ee12eff-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q501533"
 description: "St. Andrews Church in Leipzig, Germany, offers visitors a striking example of Gothic Revival architecture, standing as a prominent feature within the ci..."
 images:
-  - "/images-sites/st-andrew-s-church/01-674a057c-1920w.webp"
-  - "/images-sites/st-andrew-s-church/02-cc73a35d-1920w.webp"
-  - "/images-sites/st-andrew-s-church/03-ddc901ab-1920w.webp"
+  - "/images/st-andrew-s-church/01-674a057c-1920w.webp"
+  - "/images/st-andrew-s-church/02-cc73a35d-1920w.webp"
+  - "/images/st-andrew-s-church/03-ddc901ab-1920w.webp"
 ---
 
 ## Overview

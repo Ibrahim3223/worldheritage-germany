@@ -1,19 +1,49 @@
 ---
-title: "Hermannsdenkmal"
+title: Hermannsdenkmal
 date: 2026-01-23
 draft: false
-description: "monument in North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.911666666
 longitude: 8.839444444
 images:
-  - "/images-sites/hermannsdenkmal/01-0829c63d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/1200px-Hermannsdenkmal_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG/1200px-2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg/1200px-Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermannsdenkmal_(28941759301).jpg/1200px-Hermannsdenkmal_(28941759301).jpg
+image_srcset:
+  Hermannsdenkmal 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/400px-Hermannsdenkmal_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/800px-Hermannsdenkmal_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/1200px-Hermannsdenkmal_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hermannsdenkmal_2015.jpg/1920px-Hermannsdenkmal_2015.jpg
+  Aerial image of Hermannsdenkmal (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg/400px-Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg/800px-Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Hermannsdenkmal_(view_from_the_southwest).jpg
+  2021-03-13 Grabmal Ernst von Bandel 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG/400px-2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG/800px-2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG/1200px-2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG/1920px-2021-03-13_Grabmal_Ernst_von_Bandel_01.JPG
+  Detmold - Klöppingsberg - Hermannsdenkmal (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg/400px-Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg/800px-Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg/1200px-Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg/1920px-Detmold_-_Klöppingsberg_-_Hermannsdenkmal_(4).jpg
+  Hermannsdenkmal (28941759301).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermannsdenkmal_(28941759301).jpg/400px-Hermannsdenkmal_(28941759301).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermannsdenkmal_(28941759301).jpg/800px-Hermannsdenkmal_(28941759301).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermannsdenkmal_(28941759301).jpg/1200px-Hermannsdenkmal_(28941759301).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermannsdenkmal_(28941759301).jpg/1920px-Hermannsdenkmal_(28941759301).jpg
 ---
 
 ## Overview

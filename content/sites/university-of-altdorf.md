@@ -13,9 +13,9 @@ regions:
 latitude: 49.384724382
 longitude: 11.356808604
 images:
-  - "/images-sites/university-of-altdorf/01-a2d0b6c5-800w.webp"
-  - "/images-sites/university-of-altdorf/02-ea13fbe1-800w.webp"
-  - "/images-sites/university-of-altdorf/03-2252da74-800w.webp"
+  - "/images/university-of-altdorf/01-a2d0b6c5-800w.webp"
+  - "/images/university-of-altdorf/02-ea13fbe1-800w.webp"
+  - "/images/university-of-altdorf/03-2252da74-800w.webp"
 ---
 
 ## Overview

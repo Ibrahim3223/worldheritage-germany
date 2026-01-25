@@ -13,8 +13,8 @@ regions:
 latitude: 51.261539
 longitude: 6.733083
 images:
-  - "/images-sites/merkur-spiel-arena/02-d99a089f-800w.webp"
-  - "/images-sites/merkur-spiel-arena/03-f52c6225-800w.webp"
+  - "/images/merkur-spiel-arena/02-d99a089f-800w.webp"
+  - "/images/merkur-spiel-arena/03-f52c6225-800w.webp"
 ---
 
 ## Overview

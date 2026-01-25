@@ -13,7 +13,7 @@ regions:
 latitude: 50.7256
 longitude: 7.16037
 images:
-  - "/images-sites/kommende-ramersdorf/01-f913a2ae-800w.webp"
+  - "/images/kommende-ramersdorf/01-f913a2ae-800w.webp"
 ---
 
 ## Overview

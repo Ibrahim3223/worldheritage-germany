@@ -1,27 +1,31 @@
 ---
-title: "Burg Wiesbach"
+title: Burg Wiesbach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.3364
 longitude: 7.45483
-
-# Images
 images:
-  - "/images-sites/burg-wiesbach/01-f895ba82-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgruine_Wiesbach_Mauerrest1.jpg/1200px-Burgruine_Wiesbach_Mauerrest1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgruine_Wiesbach_Mauerrest2.jpg/1200px-Burgruine_Wiesbach_Mauerrest2.jpg
+image_srcset:
+  Burgruine Wiesbach Mauerrest1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgruine_Wiesbach_Mauerrest1.jpg/400px-Burgruine_Wiesbach_Mauerrest1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgruine_Wiesbach_Mauerrest1.jpg/800px-Burgruine_Wiesbach_Mauerrest1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgruine_Wiesbach_Mauerrest1.jpg/1200px-Burgruine_Wiesbach_Mauerrest1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burgruine_Wiesbach_Mauerrest1.jpg/1920px-Burgruine_Wiesbach_Mauerrest1.jpg
+  Burgruine Wiesbach Mauerrest2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgruine_Wiesbach_Mauerrest2.jpg/400px-Burgruine_Wiesbach_Mauerrest2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgruine_Wiesbach_Mauerrest2.jpg/800px-Burgruine_Wiesbach_Mauerrest2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgruine_Wiesbach_Mauerrest2.jpg/1200px-Burgruine_Wiesbach_Mauerrest2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgruine_Wiesbach_Mauerrest2.jpg/1920px-Burgruine_Wiesbach_Mauerrest2.jpg
 ---
 
 ## Overview

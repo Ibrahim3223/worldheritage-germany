@@ -1,24 +1,51 @@
 ---
-title: "Basilika St. Margareta"
-site_name: "Basilika St. Margareta"
-slug: "basilika-st-margareta"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Basilika St. Margareta
+site_name: Basilika St. Margareta
+slug: basilika-st-margareta
+region: North Rhine-Westphalia
 latitude: 51.2371
 longitude: 6.86296
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "basilica"
-  - "religious site"
-wikidata_id: "Q810113"
-description: "In the heart of Düsseldorf lies the Basilika St. Margareta, a Romanesque church steeped in history and architectural beauty. Founded in 1236, this churc..."
+- basilica
+- religious site
+wikidata_id: Q810113
+description: In the heart of Düsseldorf lies the Basilika St. Margareta, a Romanesque
+  church steeped in history and architectural beauty. Founded in 1236, this churc...
 images:
-  - "/images-sites/basilika-st-margareta/01-af381271-1920w.webp"
-  - "/images-sites/basilika-st-margareta/02-edd3914b-1920w.webp"
-  - "/images-sites/basilika-st-margareta/03-73fd4cfb-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg/1200px-D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Basilika_St._Margareta.jpg/1200px-Basilika_St._Margareta.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/1200px-Düsseldorf_St_Margaretha_v_S.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gerresheim_Basilika.JPG/1200px-Gerresheim_Basilika.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg/1200px-St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg
+image_srcset:
+  D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg/400px-D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg/800px-D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg/1200px-D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg/1920px-D%C3%BCsseldorf%20St%20Margaretha%20v%20S.jpg
+  Basilika St. Margareta.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Basilika_St._Margareta.jpg/400px-Basilika_St._Margareta.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Basilika_St._Margareta.jpg/800px-Basilika_St._Margareta.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Basilika_St._Margareta.jpg/1200px-Basilika_St._Margareta.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Basilika_St._Margareta.jpg/1920px-Basilika_St._Margareta.jpg
+  Düsseldorf St Margaretha v S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/400px-Düsseldorf_St_Margaretha_v_S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/800px-Düsseldorf_St_Margaretha_v_S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/1200px-Düsseldorf_St_Margaretha_v_S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Düsseldorf_St_Margaretha_v_S.jpg/1920px-Düsseldorf_St_Margaretha_v_S.jpg
+  Gerresheim Basilika.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gerresheim_Basilika.JPG/400px-Gerresheim_Basilika.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gerresheim_Basilika.JPG/800px-Gerresheim_Basilika.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gerresheim_Basilika.JPG/1200px-Gerresheim_Basilika.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gerresheim_Basilika.JPG/1920px-Gerresheim_Basilika.JPG
+  St. Margareta in Duesseldorf-Gerresheim, von Sueden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg/400px-St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg/800px-St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg/1200px-St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg/1920px-St._Margareta_in_Duesseldorf-Gerresheim,_von_Sueden.jpg
 ---
 
 ## Overview

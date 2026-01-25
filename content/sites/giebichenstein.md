@@ -1,28 +1,49 @@
 ---
-title: "Giebichenstein"
+title: Giebichenstein
 date: 2026-01-23
 draft: false
-description: "glacial erratic in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: glacial erratic in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.633
 longitude: 9.31462
-
-# Images
 images:
-  - "/images-sites/giebichenstein/02-5c84c761-800w.webp"
-  - "/images-sites/giebichenstein/03-4764b991-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L06_466_Giebichenstein,_Unterburg.jpg/1200px-L06_466_Giebichenstein,_Unterburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/L06_457_Giebichenstein,_Unterburg.jpg/1200px-L06_457_Giebichenstein,_Unterburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/L06_468_Burg_Giebichenstein,_Prinzentor.jpg/1200px-L06_468_Burg_Giebichenstein,_Prinzentor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg/1200px-Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Giebichenstein_mit_Brücke1a.jpg/1200px-Burg_Giebichenstein_mit_Brücke1a.jpg
+image_srcset:
+  L06 466 Giebichenstein, Unterburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L06_466_Giebichenstein,_Unterburg.jpg/400px-L06_466_Giebichenstein,_Unterburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L06_466_Giebichenstein,_Unterburg.jpg/800px-L06_466_Giebichenstein,_Unterburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L06_466_Giebichenstein,_Unterburg.jpg/1200px-L06_466_Giebichenstein,_Unterburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L06_466_Giebichenstein,_Unterburg.jpg/1920px-L06_466_Giebichenstein,_Unterburg.jpg
+  L06 457 Giebichenstein, Unterburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/L06_457_Giebichenstein,_Unterburg.jpg/400px-L06_457_Giebichenstein,_Unterburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/L06_457_Giebichenstein,_Unterburg.jpg/800px-L06_457_Giebichenstein,_Unterburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/L06_457_Giebichenstein,_Unterburg.jpg/1200px-L06_457_Giebichenstein,_Unterburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/L06_457_Giebichenstein,_Unterburg.jpg/1920px-L06_457_Giebichenstein,_Unterburg.jpg
+  L06 468 Burg Giebichenstein, Prinzentor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/L06_468_Burg_Giebichenstein,_Prinzentor.jpg/400px-L06_468_Burg_Giebichenstein,_Prinzentor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/L06_468_Burg_Giebichenstein,_Prinzentor.jpg/800px-L06_468_Burg_Giebichenstein,_Prinzentor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/L06_468_Burg_Giebichenstein,_Prinzentor.jpg/1200px-L06_468_Burg_Giebichenstein,_Prinzentor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/L06_468_Burg_Giebichenstein,_Prinzentor.jpg/1920px-L06_468_Burg_Giebichenstein,_Prinzentor.jpg
+  Kunst-Campus der Burg Giebichenstein Kunsthochschule Halle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg/400px-Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg/800px-Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg/1200px-Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg/1920px-Kunst-Campus_der_Burg_Giebichenstein_Kunsthochschule_Halle.jpg
+  Burg Giebichenstein mit Brücke1a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Giebichenstein_mit_Brücke1a.jpg/400px-Burg_Giebichenstein_mit_Brücke1a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Giebichenstein_mit_Brücke1a.jpg/800px-Burg_Giebichenstein_mit_Brücke1a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Giebichenstein_mit_Brücke1a.jpg/1200px-Burg_Giebichenstein_mit_Brücke1a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Giebichenstein_mit_Brücke1a.jpg/1920px-Burg_Giebichenstein_mit_Brücke1a.jpg
 ---
 
 ## Overview

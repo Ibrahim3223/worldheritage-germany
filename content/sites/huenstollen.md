@@ -1,27 +1,49 @@
 ---
-title: "Hünstollen"
+title: Hünstollen
 date: 2026-01-23
 draft: false
-description: "hill in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: hill in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5792
 longitude: 10.0513
-
-# Images
 images:
-  - "/images-sites/huenstollen/01-6c497517-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg/1200px-Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hünstollenturm.jpg/1200px-Hünstollenturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Germershausen.jpg/1200px-Germershausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Huenstollenturm.jpg/1200px-Huenstollenturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Helicigona_lapicida_01.jpg/1200px-Helicigona_lapicida_01.jpg
+image_srcset:
+  Der westliche Wall der Befestigung auf dem Hünstollen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg/400px-Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg/800px-Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg/1200px-Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg/1920px-Der_westliche_Wall_der_Befestigung_auf_dem_Hünstollen.jpg
+  Hünstollenturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hünstollenturm.jpg/400px-Hünstollenturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hünstollenturm.jpg/800px-Hünstollenturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hünstollenturm.jpg/1200px-Hünstollenturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hünstollenturm.jpg/1920px-Hünstollenturm.jpg
+  Germershausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Germershausen.jpg/400px-Germershausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Germershausen.jpg/800px-Germershausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Germershausen.jpg/1200px-Germershausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Germershausen.jpg/1920px-Germershausen.jpg
+  Huenstollenturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Huenstollenturm.jpg/400px-Huenstollenturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Huenstollenturm.jpg/800px-Huenstollenturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Huenstollenturm.jpg/1200px-Huenstollenturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Huenstollenturm.jpg/1920px-Huenstollenturm.jpg
+  Helicigona lapicida 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Helicigona_lapicida_01.jpg/400px-Helicigona_lapicida_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Helicigona_lapicida_01.jpg/800px-Helicigona_lapicida_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Helicigona_lapicida_01.jpg/1200px-Helicigona_lapicida_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Helicigona_lapicida_01.jpg/1920px-Helicigona_lapicida_01.jpg
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Heilig-Geist-Kirche (Landshut)"
-site_name: "Heilig-Geist-Kirche (Landshut)"
-slug: "heilig-geist-kirche-landshut"
-region: "Bavaria"
-
-# Location
+title: Heilig-Geist-Kirche (Landshut)
+site_name: Heilig-Geist-Kirche (Landshut)
+slug: heilig-geist-kirche-landshut
+region: Bavaria
 latitude: 48.5386653039544
 longitude: 12.152588808637
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1594876"
-description: "In the heart of Landshut, the Heilig-Geist-Kirche, or Church of the Holy Spirit, stands as a remarkable example of Gothic architecture and a significant..."
+- church building
+- religious site
+wikidata_id: Q1594876
+description: In the heart of Landshut, the Heilig-Geist-Kirche, or Church of the Holy
+  Spirit, stands as a remarkable example of Gothic architecture and a significant...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG/1200px-Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg/1200px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1200px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg/1200px-Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg/1200px-Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg
+image_srcset:
+  Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG/400px-Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG/800px-Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG/1200px-Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG/1920px-Iglesia%20del%20Esp%C3%ADritu%20Santo%2C%20Landshut%2C%20Alemania%2C%202012-05-27%2C%20DD%2003.JPG
+  Iglesia del Espíritu Santo, Landshut, Alemania, 2024-03-31, DD 34.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg/400px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg/800px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg/1200px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg/1920px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2024-03-31,_DD_34.jpg
+  Iglesia del Espíritu Santo, Landshut, Alemania, 2012-05-27, DD 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/400px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/800px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1200px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG/1920px-Iglesia_del_Espíritu_Santo,_Landshut,_Alemania,_2012-05-27,_DD_03.JPG
+  Heilig-Geist-Gasse 394 Heilig-Geist-Kirche Landshut-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg/400px-Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg/800px-Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg/1200px-Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg/1920px-Heilig-Geist-Gasse_394_Heilig-Geist-Kirche_Landshut-1.jpg
+  Landshut, der nördliche Teil der Altstadt mit der Heilig-Geist-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg/400px-Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg/800px-Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg/1200px-Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg/1920px-Landshut,_der_nördliche_Teil_der_Altstadt_mit_der_Heilig-Geist-Kirche.jpg
 ---
 
 ## Overview

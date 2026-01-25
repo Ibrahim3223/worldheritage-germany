@@ -1,20 +1,49 @@
 ---
-title: "Classical Weimar"
+title: Classical Weimar
 date: 2026-01-23
 draft: false
-description: "UNESCO World Heritage Site in Weimar, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: UNESCO World Heritage Site in Weimar, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.98333333
 longitude: 11.31666667
 images:
-  - "/images-sites/classical-weimar/02-96f63423-800w.webp"
-  - "/images-sites/classical-weimar/03-5e3a8000-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weimar,_Reithaus,_2019-09_CN-03.jpg/1200px-Weimar,_Reithaus,_2019-09_CN-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weimar,_Reithaus,_2019-09_CN-01.jpg/1200px-Weimar,_Reithaus,_2019-09_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg/1200px-Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Weimar_City_hall.jpg/1200px-Weimar_City_hall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg/1200px-Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg
+image_srcset:
+  Weimar, Reithaus, 2019-09 CN-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weimar,_Reithaus,_2019-09_CN-03.jpg/400px-Weimar,_Reithaus,_2019-09_CN-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weimar,_Reithaus,_2019-09_CN-03.jpg/800px-Weimar,_Reithaus,_2019-09_CN-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weimar,_Reithaus,_2019-09_CN-03.jpg/1200px-Weimar,_Reithaus,_2019-09_CN-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weimar,_Reithaus,_2019-09_CN-03.jpg/1920px-Weimar,_Reithaus,_2019-09_CN-03.jpg
+  Weimar, Reithaus, 2019-09 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weimar,_Reithaus,_2019-09_CN-01.jpg/400px-Weimar,_Reithaus,_2019-09_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weimar,_Reithaus,_2019-09_CN-01.jpg/800px-Weimar,_Reithaus,_2019-09_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weimar,_Reithaus,_2019-09_CN-01.jpg/1200px-Weimar,_Reithaus,_2019-09_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Weimar,_Reithaus,_2019-09_CN-01.jpg/1920px-Weimar,_Reithaus,_2019-09_CN-01.jpg
+  Stadtansicht Weimar mit Schloss und Herderkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg/400px-Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg/800px-Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg/1200px-Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg/1920px-Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg
+  Weimar City hall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Weimar_City_hall.jpg/400px-Weimar_City_hall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Weimar_City_hall.jpg/800px-Weimar_City_hall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Weimar_City_hall.jpg/1200px-Weimar_City_hall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Weimar_City_hall.jpg/1920px-Weimar_City_hall.jpg
+  Kaufhaus Hermann Tietz in Weimar um 1906.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg/400px-Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg/800px-Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg/1200px-Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg/1920px-Kaufhaus_Hermann_Tietz_in_Weimar_um_1906.jpg
 ---
 
 ## Overview

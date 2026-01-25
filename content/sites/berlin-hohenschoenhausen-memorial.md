@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Hohenschönhausen Memorial"
+title: Berlin-Hohenschönhausen Memorial
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5417
 longitude: 13.5011
 images:
-  - "/images-sites/berlin-hohenschoenhausen-memorial/01-f5ba59ab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg/1200px-Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg/1200px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg/1200px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg/1200px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/1200px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
+image_srcset:
+  Berlin-Hohenschönhausen - Zellengang imStasi-Gefängnis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg/400px-Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg/800px-Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg/1200px-Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg/1920px-Berlin-Hohenschönhausen_-_Zellengang_imStasi-Gefängnis.jpg
+  Gedenkstätte Berlin Hohenschönhausen 17072017 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg/400px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg/800px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg/1200px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg/1920px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_01.jpg
+  Gedenkstätte Berlin Hohenschönhausen 17072017 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg/400px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg/800px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg/1200px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg/1920px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_02.jpg
+  Gedenkstätte Berlin Hohenschönhausen 17072017 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg/400px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg/800px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg/1200px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg/1920px-Gedenkstätte_Berlin_Hohenschönhausen_17072017_03.jpg
+  Clp 20080821 Gedenkstätte Berlin-Hohenschönhausen Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/400px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/800px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/1200px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg/1920px-Clp_20080821_Gedenkstätte_Berlin-Hohenschönhausen_Eingang.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.498611111
 longitude: 13.302222222
 images:
-  - "/images-sites/schaubuehne-am-lehniner-platz/01-d2991db4-800w.webp"
+  - "/images/schaubuehne-am-lehniner-platz/01-d2991db4-800w.webp"
 ---
 
 ## Overview

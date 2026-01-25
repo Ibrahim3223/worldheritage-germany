@@ -13,9 +13,9 @@ regions:
 latitude: 47.280965
 longitude: 10.254684
 images:
-  - "/images-sites/rappenseekopf/01-c3963cf4-800w.webp"
-  - "/images-sites/rappenseekopf/02-2468dd74-800w.webp"
-  - "/images-sites/rappenseekopf/03-93af1936-800w.webp"
+  - "/images/rappenseekopf/01-c3963cf4-800w.webp"
+  - "/images/rappenseekopf/02-2468dd74-800w.webp"
+  - "/images/rappenseekopf/03-93af1936-800w.webp"
 ---
 
 ## Overview

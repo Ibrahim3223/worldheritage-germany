@@ -13,7 +13,7 @@ regions:
 latitude: 48.3981
 longitude: 9.99084
 images:
-  - "/images-sites/stadthaus-ulm/01-e6ad50ea-800w.webp"
+  - "/images/stadthaus-ulm/01-e6ad50ea-800w.webp"
 ---
 
 ## Overview

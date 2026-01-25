@@ -21,9 +21,9 @@ longitude: 6.97373
 
 # Images
 images:
-  - "/images-sites/tomburg-castle/01-5ab6c1fe-800w.webp"
-  - "/images-sites/tomburg-castle/02-075509de-800w.webp"
-  - "/images-sites/tomburg-castle/03-be3424e2-800w.webp"
+  - "/images/tomburg-castle/01-5ab6c1fe-800w.webp"
+  - "/images/tomburg-castle/02-075509de-800w.webp"
+  - "/images/tomburg-castle/03-be3424e2-800w.webp"
 ---
 
 ## Overview

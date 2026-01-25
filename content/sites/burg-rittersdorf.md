@@ -1,21 +1,49 @@
 ---
-title: "Burg Rittersdorf"
+title: Burg Rittersdorf
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.9974
 longitude: 6.49778
 images:
-  - "/images-sites/burg-rittersdorf/01-cd5f426b-800w.webp"
-  - "/images-sites/burg-rittersdorf/02-56d28351-800w.webp"
-  - "/images-sites/burg-rittersdorf/03-b66072d5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_Rittersdorf_01.jpg/1200px-Burg_Rittersdorf_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Rittersdorf_15.jpg/1200px-Burg_Rittersdorf_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rittersdorf_Burg_Portal.jpg/1200px-Rittersdorf_Burg_Portal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Rittersdorf_-_panoramio.jpg/1200px-Burg_Rittersdorf_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittersdorf_01.jpg/1200px-Rittersdorf_01.jpg
+image_srcset:
+  Burg Rittersdorf 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_Rittersdorf_01.jpg/400px-Burg_Rittersdorf_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_Rittersdorf_01.jpg/800px-Burg_Rittersdorf_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_Rittersdorf_01.jpg/1200px-Burg_Rittersdorf_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_Rittersdorf_01.jpg/1920px-Burg_Rittersdorf_01.jpg
+  Burg Rittersdorf 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Rittersdorf_15.jpg/400px-Burg_Rittersdorf_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Rittersdorf_15.jpg/800px-Burg_Rittersdorf_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Rittersdorf_15.jpg/1200px-Burg_Rittersdorf_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Rittersdorf_15.jpg/1920px-Burg_Rittersdorf_15.jpg
+  Rittersdorf Burg Portal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rittersdorf_Burg_Portal.jpg/400px-Rittersdorf_Burg_Portal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rittersdorf_Burg_Portal.jpg/800px-Rittersdorf_Burg_Portal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rittersdorf_Burg_Portal.jpg/1200px-Rittersdorf_Burg_Portal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rittersdorf_Burg_Portal.jpg/1920px-Rittersdorf_Burg_Portal.jpg
+  Burg Rittersdorf - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Rittersdorf_-_panoramio.jpg/400px-Burg_Rittersdorf_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Rittersdorf_-_panoramio.jpg/800px-Burg_Rittersdorf_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Rittersdorf_-_panoramio.jpg/1200px-Burg_Rittersdorf_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Burg_Rittersdorf_-_panoramio.jpg/1920px-Burg_Rittersdorf_-_panoramio.jpg
+  Rittersdorf 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittersdorf_01.jpg/400px-Rittersdorf_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittersdorf_01.jpg/800px-Rittersdorf_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittersdorf_01.jpg/1200px-Rittersdorf_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rittersdorf_01.jpg/1920px-Rittersdorf_01.jpg
 ---
 
 ## Overview

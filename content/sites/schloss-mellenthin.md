@@ -13,7 +13,7 @@ regions:
 latitude: 53.924
 longitude: 14.0165
 images:
-  - "/images-sites/schloss-mellenthin/01-21c57d1b-800w.webp"
+  - "/images/schloss-mellenthin/01-21c57d1b-800w.webp"
 ---
 
 ## Overview

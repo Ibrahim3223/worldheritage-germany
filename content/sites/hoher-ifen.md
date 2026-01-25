@@ -1,19 +1,50 @@
 ---
-title: "Hoher Ifen"
+title: Hoher Ifen
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps at the border of Vorarlberg, Austria, and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps at the border of Vorarlberg, Austria, and
+  Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.3545272
 longitude: 10.1004539
 images:
-  - "/images-sites/hoher-ifen/01-466618d0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg/1200px-Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nebelhornbahn-JR-E-6438-2022-09-13.jpg/1200px-Nebelhornbahn-JR-E-6438-2022-09-13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg/1200px-Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20250815_130424_HDR.jpg/1200px-20250815_130424_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hoher_Ifen_from_South.JPG/1200px-Hoher_Ifen_from_South.JPG
+image_srcset:
+  Sicht über Gottesackerplateau von Gottesackerscharte (1967m) aus, im Hintergrund der Hohe Ifen (2230m).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg/400px-Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg/800px-Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg/1200px-Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg/1920px-Sicht_über_Gottesackerplateau_von_Gottesackerscharte_(1967m)_aus,_im_Hintergrund_der_Hohe_Ifen_(2230m).jpg
+  Nebelhornbahn-JR-E-6438-2022-09-13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nebelhornbahn-JR-E-6438-2022-09-13.jpg/400px-Nebelhornbahn-JR-E-6438-2022-09-13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nebelhornbahn-JR-E-6438-2022-09-13.jpg/800px-Nebelhornbahn-JR-E-6438-2022-09-13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nebelhornbahn-JR-E-6438-2022-09-13.jpg/1200px-Nebelhornbahn-JR-E-6438-2022-09-13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nebelhornbahn-JR-E-6438-2022-09-13.jpg/1920px-Nebelhornbahn-JR-E-6438-2022-09-13.jpg
+  Geserstobelalpe, Sienspitze and Hoher Ifen as seen from Schreiberesattel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg/400px-Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg/800px-Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg/1200px-Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg/1920px-Geserstobelalpe,_Sienspitze_and_Hoher_Ifen_as_seen_from_Schreiberesattel.jpg
+  20250815 130424 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20250815_130424_HDR.jpg/400px-20250815_130424_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20250815_130424_HDR.jpg/800px-20250815_130424_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20250815_130424_HDR.jpg/1200px-20250815_130424_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/20250815_130424_HDR.jpg/1920px-20250815_130424_HDR.jpg
+  Hoher Ifen from South.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hoher_Ifen_from_South.JPG/400px-Hoher_Ifen_from_South.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hoher_Ifen_from_South.JPG/800px-Hoher_Ifen_from_South.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hoher_Ifen_from_South.JPG/1200px-Hoher_Ifen_from_South.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hoher_Ifen_from_South.JPG/1920px-Hoher_Ifen_from_South.JPG
 ---
 
 ## Overview

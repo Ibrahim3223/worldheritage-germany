@@ -1,19 +1,49 @@
 ---
-title: "Berlin Sundgauer Straße station"
+title: Berlin Sundgauer Straße station
 date: 2026-01-23
 draft: false
-description: "railway station in Steglitz-Zehlendorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Steglitz-Zehlendorf, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.436291
 longitude: 13.273772
 images:
-  - "/images-sites/berlin-sundgauer-strasse-station/01-2c12cd8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg/1200px-Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/S-Bahn_Berlin_SundgauerStr_04-2015.jpg/1200px-S-Bahn_Berlin_SundgauerStr_04-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/(20240803)_Berlin_Zehlendorf_01.jpg/1200px-(20240803)_Berlin_Zehlendorf_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bahnhof_Berlin-Sundgauer_Straße.jpg/1200px-Bahnhof_Berlin-Sundgauer_Straße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zehlendorf_Bahnhof_Sundgauer_Straße.jpg/1200px-Zehlendorf_Bahnhof_Sundgauer_Straße.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Sundgauer Straße (S01 1298).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg/400px-Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg/800px-Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg/1200px-Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg/1920px-Berlin_S-Bahn_Bhf_Sundgauer_Straße_(S01_1298).jpg
+  S-Bahn Berlin SundgauerStr 04-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/S-Bahn_Berlin_SundgauerStr_04-2015.jpg/400px-S-Bahn_Berlin_SundgauerStr_04-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/S-Bahn_Berlin_SundgauerStr_04-2015.jpg/800px-S-Bahn_Berlin_SundgauerStr_04-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/S-Bahn_Berlin_SundgauerStr_04-2015.jpg/1200px-S-Bahn_Berlin_SundgauerStr_04-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/S-Bahn_Berlin_SundgauerStr_04-2015.jpg/1920px-S-Bahn_Berlin_SundgauerStr_04-2015.jpg
+  (20240803) Berlin Zehlendorf 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/(20240803)_Berlin_Zehlendorf_01.jpg/400px-(20240803)_Berlin_Zehlendorf_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/(20240803)_Berlin_Zehlendorf_01.jpg/800px-(20240803)_Berlin_Zehlendorf_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/(20240803)_Berlin_Zehlendorf_01.jpg/1200px-(20240803)_Berlin_Zehlendorf_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/(20240803)_Berlin_Zehlendorf_01.jpg/1920px-(20240803)_Berlin_Zehlendorf_01.jpg
+  Bahnhof Berlin-Sundgauer Straße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bahnhof_Berlin-Sundgauer_Straße.jpg/400px-Bahnhof_Berlin-Sundgauer_Straße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bahnhof_Berlin-Sundgauer_Straße.jpg/800px-Bahnhof_Berlin-Sundgauer_Straße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bahnhof_Berlin-Sundgauer_Straße.jpg/1200px-Bahnhof_Berlin-Sundgauer_Straße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bahnhof_Berlin-Sundgauer_Straße.jpg/1920px-Bahnhof_Berlin-Sundgauer_Straße.jpg
+  Zehlendorf Bahnhof Sundgauer Straße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zehlendorf_Bahnhof_Sundgauer_Straße.jpg/400px-Zehlendorf_Bahnhof_Sundgauer_Straße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zehlendorf_Bahnhof_Sundgauer_Straße.jpg/800px-Zehlendorf_Bahnhof_Sundgauer_Straße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zehlendorf_Bahnhof_Sundgauer_Straße.jpg/1200px-Zehlendorf_Bahnhof_Sundgauer_Straße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zehlendorf_Bahnhof_Sundgauer_Straße.jpg/1920px-Zehlendorf_Bahnhof_Sundgauer_Straße.jpg
 ---
 
 ## Overview

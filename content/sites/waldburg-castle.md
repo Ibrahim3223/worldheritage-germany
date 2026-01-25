@@ -21,7 +21,7 @@ longitude: 9.71194444
 
 # Images
 images:
-  - "/images-sites/waldburg-castle/01-9ec973dc-800w.webp"
+  - "/images/waldburg-castle/01-9ec973dc-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 12.415921
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-ahrenshoop/01-2a83de35-800w.webp"
+  - "/images/kunstmuseum-ahrenshoop/01-2a83de35-800w.webp"
 ---
 
 ## Overview

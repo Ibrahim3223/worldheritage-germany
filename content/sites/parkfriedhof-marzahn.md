@@ -13,7 +13,7 @@ regions:
 latitude: 52.5485
 longitude: 13.5415
 images:
-  - "/images-sites/parkfriedhof-marzahn/01-b488de44-800w.webp"
+  - "/images/parkfriedhof-marzahn/01-b488de44-800w.webp"
 ---
 
 ## Overview

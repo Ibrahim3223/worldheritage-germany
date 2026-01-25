@@ -13,7 +13,7 @@ regions:
 latitude: 51.8061
 longitude: 10.9142
 images:
-  - "/images-sites/michaelstein-abbey/01-79a6c2fc-800w.webp"
+  - "/images/michaelstein-abbey/01-79a6c2fc-800w.webp"
 ---
 
 ## Overview

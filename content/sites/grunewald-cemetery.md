@@ -1,19 +1,49 @@
 ---
-title: "Grunewald Cemetery"
+title: Grunewald Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.498888888
 longitude: 13.285
 images:
-  - "/images-sites/grunewald-cemetery/01-aa256487-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Grab_Tibor_Kneif.jpg/1200px-Grab_Tibor_Kneif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg/1200px-Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedhof_Grunewald.png/1200px-Friedhof_Grunewald.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2006-07-25_Friedhof_Grunewald_Hauptweg.jpg/1200px-2006-07-25_Friedhof_Grunewald_Hauptweg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2006-07-25_Friedhof_Grunewald_Kapelle.jpg/1200px-2006-07-25_Friedhof_Grunewald_Kapelle.jpg
+image_srcset:
+  Grab Tibor Kneif.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Grab_Tibor_Kneif.jpg/400px-Grab_Tibor_Kneif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Grab_Tibor_Kneif.jpg/800px-Grab_Tibor_Kneif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Grab_Tibor_Kneif.jpg/1200px-Grab_Tibor_Kneif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Grab_Tibor_Kneif.jpg/1920px-Grab_Tibor_Kneif.jpg
+  Grab Walther Waldschmidt (Friedhof Grunewald).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg/400px-Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg/800px-Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg/1200px-Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg/1920px-Grab_Walther_Waldschmidt_(Friedhof_Grunewald).jpg
+  Friedhof Grunewald.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedhof_Grunewald.png/400px-Friedhof_Grunewald.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedhof_Grunewald.png/800px-Friedhof_Grunewald.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedhof_Grunewald.png/1200px-Friedhof_Grunewald.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedhof_Grunewald.png/1920px-Friedhof_Grunewald.png
+  2006-07-25 Friedhof Grunewald Hauptweg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2006-07-25_Friedhof_Grunewald_Hauptweg.jpg/400px-2006-07-25_Friedhof_Grunewald_Hauptweg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2006-07-25_Friedhof_Grunewald_Hauptweg.jpg/800px-2006-07-25_Friedhof_Grunewald_Hauptweg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2006-07-25_Friedhof_Grunewald_Hauptweg.jpg/1200px-2006-07-25_Friedhof_Grunewald_Hauptweg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2006-07-25_Friedhof_Grunewald_Hauptweg.jpg/1920px-2006-07-25_Friedhof_Grunewald_Hauptweg.jpg
+  2006-07-25 Friedhof Grunewald Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2006-07-25_Friedhof_Grunewald_Kapelle.jpg/400px-2006-07-25_Friedhof_Grunewald_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2006-07-25_Friedhof_Grunewald_Kapelle.jpg/800px-2006-07-25_Friedhof_Grunewald_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2006-07-25_Friedhof_Grunewald_Kapelle.jpg/1200px-2006-07-25_Friedhof_Grunewald_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2006-07-25_Friedhof_Grunewald_Kapelle.jpg/1920px-2006-07-25_Friedhof_Grunewald_Kapelle.jpg
 ---
 
 ## Overview

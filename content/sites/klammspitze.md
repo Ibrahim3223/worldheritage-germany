@@ -13,7 +13,7 @@ regions:
 latitude: 47.581111111
 longitude: 10.908888888
 images:
-  - "/images-sites/klammspitze/01-203feb63-800w.webp"
+  - "/images/klammspitze/01-203feb63-800w.webp"
 ---
 
 ## Overview

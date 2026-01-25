@@ -21,7 +21,7 @@ longitude: 9.761111111
 
 # Images
 images:
-  - "/images-sites/sirgenstein-cave/01-fa13d0b0-800w.webp"
+  - "/images/sirgenstein-cave/01-fa13d0b0-800w.webp"
 ---
 
 ## Overview

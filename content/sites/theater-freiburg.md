@@ -13,7 +13,7 @@ regions:
 latitude: 47.99512
 longitude: 7.84524
 images:
-  - "/images-sites/theater-freiburg/01-2934e124-800w.webp"
+  - "/images/theater-freiburg/01-2934e124-800w.webp"
 ---
 
 ## Overview

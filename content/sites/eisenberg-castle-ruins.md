@@ -1,28 +1,49 @@
 ---
-title: "Eisenberg castle ruins"
+title: Eisenberg castle ruins
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.251111
 longitude: 8.826667
-
-# Images
 images:
-  - "/images-sites/eisenberg-castle-ruins/02-7dc85236-800w.webp"
-  - "/images-sites/eisenberg-castle-ruins/03-4971465c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgruine_Eisenberg_8.jpg/1200px-Burgruine_Eisenberg_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burgruine_Eisenberg_von_oben.jpg/1200px-Burgruine_Eisenberg_von_oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burgruine_Eisenberg.jpg/1200px-Burgruine_Eisenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Eisenberg_3.jpg/1200px-Burgruine_Eisenberg_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burchteisenberg.JPG/1200px-Burchteisenberg.JPG
+image_srcset:
+  Burgruine Eisenberg 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgruine_Eisenberg_8.jpg/400px-Burgruine_Eisenberg_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgruine_Eisenberg_8.jpg/800px-Burgruine_Eisenberg_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgruine_Eisenberg_8.jpg/1200px-Burgruine_Eisenberg_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgruine_Eisenberg_8.jpg/1920px-Burgruine_Eisenberg_8.jpg
+  Burgruine Eisenberg von oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burgruine_Eisenberg_von_oben.jpg/400px-Burgruine_Eisenberg_von_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burgruine_Eisenberg_von_oben.jpg/800px-Burgruine_Eisenberg_von_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burgruine_Eisenberg_von_oben.jpg/1200px-Burgruine_Eisenberg_von_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burgruine_Eisenberg_von_oben.jpg/1920px-Burgruine_Eisenberg_von_oben.jpg
+  Burgruine Eisenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burgruine_Eisenberg.jpg/400px-Burgruine_Eisenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burgruine_Eisenberg.jpg/800px-Burgruine_Eisenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burgruine_Eisenberg.jpg/1200px-Burgruine_Eisenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burgruine_Eisenberg.jpg/1920px-Burgruine_Eisenberg.jpg
+  Burgruine Eisenberg 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Eisenberg_3.jpg/400px-Burgruine_Eisenberg_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Eisenberg_3.jpg/800px-Burgruine_Eisenberg_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Eisenberg_3.jpg/1200px-Burgruine_Eisenberg_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Eisenberg_3.jpg/1920px-Burgruine_Eisenberg_3.jpg
+  Burchteisenberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burchteisenberg.JPG/400px-Burchteisenberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burchteisenberg.JPG/800px-Burchteisenberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burchteisenberg.JPG/1200px-Burchteisenberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burchteisenberg.JPG/1920px-Burchteisenberg.JPG
 ---
 
 ## Overview

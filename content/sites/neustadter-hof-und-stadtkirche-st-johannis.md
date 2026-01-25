@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1981782"
 description: "In the heart of Hanover, Germany, the Neustädter Hof- und Stadtkirche St. Johannis presents a captivating blend of spirituality and architectural elegan..."
 images:
-  - "/images-sites/neustadter-hof-und-stadtkirche-st-johannis/01-e88e716c-1920w.webp"
-  - "/images-sites/neustadter-hof-und-stadtkirche-st-johannis/02-825b13e2-1920w.webp"
-  - "/images-sites/neustadter-hof-und-stadtkirche-st-johannis/03-d248b8a1-1920w.webp"
+  - "/images/neustadter-hof-und-stadtkirche-st-johannis/01-e88e716c-1920w.webp"
+  - "/images/neustadter-hof-und-stadtkirche-st-johannis/02-825b13e2-1920w.webp"
+  - "/images/neustadter-hof-und-stadtkirche-st-johannis/03-d248b8a1-1920w.webp"
 ---
 
 ## Overview

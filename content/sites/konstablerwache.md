@@ -13,7 +13,7 @@ regions:
 latitude: 50.114444444
 longitude: 8.686944444
 images:
-  - "/images-sites/konstablerwache/01-51dd5b20-800w.webp"
+  - "/images/konstablerwache/01-51dd5b20-800w.webp"
 ---
 
 ## Overview

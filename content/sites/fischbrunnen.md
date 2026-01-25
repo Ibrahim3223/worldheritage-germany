@@ -1,19 +1,49 @@
 ---
-title: "Fischbrunnen"
+title: Fischbrunnen
 date: 2026-01-23
 draft: false
-description: "water well in Munich"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: water well in Munich
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1372
 longitude: 11.5762
 images:
-  - "/images-sites/fischbrunnen/01-ef307a46-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/20191226_Fischbrunnen_München.jpg/1200px-20191226_Fischbrunnen_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20211222_Fischbrunnen_München.jpg/1200px-20211222_Fischbrunnen_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Muekknollbrunnen1878x.jpg/1200px-Muekknollbrunnen1878x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2019-07-30_Fischbrunnen,_München.jpg/1200px-2019-07-30_Fischbrunnen,_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Muc_Fischbrunnen_Winter.jpg/1200px-Muc_Fischbrunnen_Winter.jpg
+image_srcset:
+  20191226 Fischbrunnen München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/20191226_Fischbrunnen_München.jpg/400px-20191226_Fischbrunnen_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/20191226_Fischbrunnen_München.jpg/800px-20191226_Fischbrunnen_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/20191226_Fischbrunnen_München.jpg/1200px-20191226_Fischbrunnen_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/20191226_Fischbrunnen_München.jpg/1920px-20191226_Fischbrunnen_München.jpg
+  20211222 Fischbrunnen München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20211222_Fischbrunnen_München.jpg/400px-20211222_Fischbrunnen_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20211222_Fischbrunnen_München.jpg/800px-20211222_Fischbrunnen_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20211222_Fischbrunnen_München.jpg/1200px-20211222_Fischbrunnen_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20211222_Fischbrunnen_München.jpg/1920px-20211222_Fischbrunnen_München.jpg
+  Muekknollbrunnen1878x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Muekknollbrunnen1878x.jpg/400px-Muekknollbrunnen1878x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Muekknollbrunnen1878x.jpg/800px-Muekknollbrunnen1878x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Muekknollbrunnen1878x.jpg/1200px-Muekknollbrunnen1878x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Muekknollbrunnen1878x.jpg/1920px-Muekknollbrunnen1878x.jpg
+  2019-07-30 Fischbrunnen, München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2019-07-30_Fischbrunnen,_München.jpg/400px-2019-07-30_Fischbrunnen,_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2019-07-30_Fischbrunnen,_München.jpg/800px-2019-07-30_Fischbrunnen,_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2019-07-30_Fischbrunnen,_München.jpg/1200px-2019-07-30_Fischbrunnen,_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2019-07-30_Fischbrunnen,_München.jpg/1920px-2019-07-30_Fischbrunnen,_München.jpg
+  Muc Fischbrunnen Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Muc_Fischbrunnen_Winter.jpg/400px-Muc_Fischbrunnen_Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Muc_Fischbrunnen_Winter.jpg/800px-Muc_Fischbrunnen_Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Muc_Fischbrunnen_Winter.jpg/1200px-Muc_Fischbrunnen_Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Muc_Fischbrunnen_Winter.jpg/1920px-Muc_Fischbrunnen_Winter.jpg
 ---
 
 ## Overview

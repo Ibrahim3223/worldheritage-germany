@@ -1,24 +1,27 @@
 ---
-title: "AllerheiligenkircheHamburg-Hausbruch"
-site_name: "AllerheiligenkircheHamburg-Hausbruch"
-slug: "allerheiligenkirche-hamburg-hausbruch"
-region: "Hamburg"
-
-# Location
+title: AllerheiligenkircheHamburg-Hausbruch
+site_name: AllerheiligenkircheHamburg-Hausbruch
+slug: allerheiligenkirche-hamburg-hausbruch
+region: Hamburg
 latitude: 53.48048
 longitude: 9.87082
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q2648548"
-description: "In the heart of Hamburg-Hausbruch lies the Allerheiligenkirche, a striking example of modern architecture that serves as a spiritual haven for the Ukrai..."
+- church building
+- religious site
+wikidata_id: Q2648548
+description: In the heart of Hamburg-Hausbruch lies the Allerheiligenkirche, a striking
+  example of modern architecture that serves as a spiritual haven for the Ukrai...
 images:
-  - "/images-sites/allerheiligenkirche-hamburg-hausbruch/01-d447ee28-1920w.webp"
-  - "/images-sites/allerheiligenkirche-hamburg-hausbruch/02-dbb01d48-1920w.webp"
-  - "/images-sites/allerheiligenkirche-hamburg-hausbruch/03-d8f284f2-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Allerheiligenkirche%2001.jpg/1200px-Allerheiligenkirche%2001.jpg
+image_srcset:
+  Allerheiligenkirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Allerheiligenkirche%2001.jpg/400px-Allerheiligenkirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Allerheiligenkirche%2001.jpg/800px-Allerheiligenkirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Allerheiligenkirche%2001.jpg/1200px-Allerheiligenkirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Allerheiligenkirche%2001.jpg/1920px-Allerheiligenkirche%2001.jpg
 ---
 
 ## Overview

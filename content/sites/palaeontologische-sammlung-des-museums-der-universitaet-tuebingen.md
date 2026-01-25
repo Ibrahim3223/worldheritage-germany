@@ -13,9 +13,9 @@ regions:
 latitude: 48.5261
 longitude: 9.05988
 images:
-  - "/images-sites/palaeontologische-sammlung-des-museums-der-universitaet-tuebingen/01-092e3e90-800w.webp"
-  - "/images-sites/palaeontologische-sammlung-des-museums-der-universitaet-tuebingen/02-88ef6dff-800w.webp"
-  - "/images-sites/palaeontologische-sammlung-des-museums-der-universitaet-tuebingen/03-d3e374e4-800w.webp"
+  - "/images/palaeontologische-sammlung-des-museums-der-universitaet-tuebingen/01-092e3e90-800w.webp"
+  - "/images/palaeontologische-sammlung-des-museums-der-universitaet-tuebingen/02-88ef6dff-800w.webp"
+  - "/images/palaeontologische-sammlung-des-museums-der-universitaet-tuebingen/03-d3e374e4-800w.webp"
 ---
 
 ## Overview

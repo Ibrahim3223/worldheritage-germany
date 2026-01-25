@@ -21,7 +21,7 @@ longitude: 8.7258
 
 # Images
 images:
-  - "/images-sites/liebenzell-castle/01-5640b92c-800w.webp"
+  - "/images/liebenzell-castle/01-5640b92c-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.9697
 longitude: 11.0269
 images:
-  - "/images-sites/kartause-erfurt/01-10fed935-800w.webp"
+  - "/images/kartause-erfurt/01-10fed935-800w.webp"
 ---
 
 ## Overview

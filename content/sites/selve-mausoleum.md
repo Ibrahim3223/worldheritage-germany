@@ -13,7 +13,7 @@ regions:
 latitude: 51.2239
 longitude: 7.6273
 images:
-  - "/images-sites/selve-mausoleum/01-4fb77ce6-800w.webp"
+  - "/images/selve-mausoleum/01-4fb77ce6-800w.webp"
 ---
 
 ## Overview

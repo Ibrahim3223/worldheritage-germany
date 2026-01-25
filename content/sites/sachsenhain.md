@@ -13,9 +13,9 @@ regions:
 latitude: 52.9456
 longitude: 9.225
 images:
-  - "/images-sites/sachsenhain/01-3f0656cf-800w.webp"
-  - "/images-sites/sachsenhain/02-08c95875-800w.webp"
-  - "/images-sites/sachsenhain/03-b41a0e1a-800w.webp"
+  - "/images/sachsenhain/01-3f0656cf-800w.webp"
+  - "/images/sachsenhain/02-08c95875-800w.webp"
+  - "/images/sachsenhain/03-b41a0e1a-800w.webp"
 ---
 
 ## Overview

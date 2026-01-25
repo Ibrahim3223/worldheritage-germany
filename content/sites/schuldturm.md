@@ -13,7 +13,7 @@ regions:
 latitude: 49.4526
 longitude: 11.0809
 images:
-  - "/images-sites/schuldturm/01-362b7cc4-800w.webp"
+  - "/images/schuldturm/01-362b7cc4-800w.webp"
 ---
 
 ## Overview

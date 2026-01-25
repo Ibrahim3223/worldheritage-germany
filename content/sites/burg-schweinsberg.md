@@ -1,27 +1,49 @@
 ---
-title: "Burg Schweinsberg"
+title: Burg Schweinsberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7676
 longitude: 8.9614
-
-# Images
 images:
-  - "/images-sites/burg-schweinsberg/01-28f4a282-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schweinsberg_(Stadtallendorf)_(06).jpg/1200px-Schweinsberg_(Stadtallendorf)_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schweinsberg_(Stadtallendorf)_(13).jpg/1200px-Schweinsberg_(Stadtallendorf)_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schweinsberg_(Stadtallendorf)_(05).jpg/1200px-Schweinsberg_(Stadtallendorf)_(05).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schweinsberg2.jpg/1200px-Schweinsberg2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Schweinsberg.JPG/1200px-Burg_Schweinsberg.JPG
+image_srcset:
+  Schweinsberg (Stadtallendorf) (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schweinsberg_(Stadtallendorf)_(06).jpg/400px-Schweinsberg_(Stadtallendorf)_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schweinsberg_(Stadtallendorf)_(06).jpg/800px-Schweinsberg_(Stadtallendorf)_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schweinsberg_(Stadtallendorf)_(06).jpg/1200px-Schweinsberg_(Stadtallendorf)_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schweinsberg_(Stadtallendorf)_(06).jpg/1920px-Schweinsberg_(Stadtallendorf)_(06).jpg
+  Schweinsberg (Stadtallendorf) (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schweinsberg_(Stadtallendorf)_(13).jpg/400px-Schweinsberg_(Stadtallendorf)_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schweinsberg_(Stadtallendorf)_(13).jpg/800px-Schweinsberg_(Stadtallendorf)_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schweinsberg_(Stadtallendorf)_(13).jpg/1200px-Schweinsberg_(Stadtallendorf)_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schweinsberg_(Stadtallendorf)_(13).jpg/1920px-Schweinsberg_(Stadtallendorf)_(13).jpg
+  Schweinsberg (Stadtallendorf) (05).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schweinsberg_(Stadtallendorf)_(05).jpg/400px-Schweinsberg_(Stadtallendorf)_(05).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schweinsberg_(Stadtallendorf)_(05).jpg/800px-Schweinsberg_(Stadtallendorf)_(05).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schweinsberg_(Stadtallendorf)_(05).jpg/1200px-Schweinsberg_(Stadtallendorf)_(05).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Schweinsberg_(Stadtallendorf)_(05).jpg/1920px-Schweinsberg_(Stadtallendorf)_(05).jpg
+  Schweinsberg2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schweinsberg2.jpg/400px-Schweinsberg2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schweinsberg2.jpg/800px-Schweinsberg2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schweinsberg2.jpg/1200px-Schweinsberg2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schweinsberg2.jpg/1920px-Schweinsberg2.jpg
+  Burg Schweinsberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Schweinsberg.JPG/400px-Burg_Schweinsberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Schweinsberg.JPG/800px-Burg_Schweinsberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Schweinsberg.JPG/1200px-Burg_Schweinsberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Burg_Schweinsberg.JPG/1920px-Burg_Schweinsberg.JPG
 ---
 
 ## Overview

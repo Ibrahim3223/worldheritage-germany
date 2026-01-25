@@ -1,19 +1,49 @@
 ---
-title: "Festung Peitz"
+title: Festung Peitz
 date: 2026-01-23
 draft: false
-description: "fortress"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: fortress
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8574
 longitude: 14.4094
 images:
-  - "/images-sites/festung-peitz/01-a2bff4a2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/1200px-Burg_Peitz_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2018-05-20_Malzhausbastei,_Peitz,_01.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2018-05-20_Malzhausbastei,_Peitz,_03.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2018-05-20_Malzhausbastei,_Peitz,_04.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-05-20_Malzhausbastei,_Peitz,_05.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_05.jpg
+image_srcset:
+  Burg Peitz 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/400px-Burg_Peitz_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/800px-Burg_Peitz_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/1200px-Burg_Peitz_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Peitz_2013.jpg/1920px-Burg_Peitz_2013.jpg
+  2018-05-20 Malzhausbastei, Peitz, 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2018-05-20_Malzhausbastei,_Peitz,_01.jpg/400px-2018-05-20_Malzhausbastei,_Peitz,_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2018-05-20_Malzhausbastei,_Peitz,_01.jpg/800px-2018-05-20_Malzhausbastei,_Peitz,_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2018-05-20_Malzhausbastei,_Peitz,_01.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2018-05-20_Malzhausbastei,_Peitz,_01.jpg/1920px-2018-05-20_Malzhausbastei,_Peitz,_01.jpg
+  2018-05-20 Malzhausbastei, Peitz, 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2018-05-20_Malzhausbastei,_Peitz,_03.jpg/400px-2018-05-20_Malzhausbastei,_Peitz,_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2018-05-20_Malzhausbastei,_Peitz,_03.jpg/800px-2018-05-20_Malzhausbastei,_Peitz,_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2018-05-20_Malzhausbastei,_Peitz,_03.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/2018-05-20_Malzhausbastei,_Peitz,_03.jpg/1920px-2018-05-20_Malzhausbastei,_Peitz,_03.jpg
+  2018-05-20 Malzhausbastei, Peitz, 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2018-05-20_Malzhausbastei,_Peitz,_04.jpg/400px-2018-05-20_Malzhausbastei,_Peitz,_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2018-05-20_Malzhausbastei,_Peitz,_04.jpg/800px-2018-05-20_Malzhausbastei,_Peitz,_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2018-05-20_Malzhausbastei,_Peitz,_04.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2018-05-20_Malzhausbastei,_Peitz,_04.jpg/1920px-2018-05-20_Malzhausbastei,_Peitz,_04.jpg
+  2018-05-20 Malzhausbastei, Peitz, 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-05-20_Malzhausbastei,_Peitz,_05.jpg/400px-2018-05-20_Malzhausbastei,_Peitz,_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-05-20_Malzhausbastei,_Peitz,_05.jpg/800px-2018-05-20_Malzhausbastei,_Peitz,_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-05-20_Malzhausbastei,_Peitz,_05.jpg/1200px-2018-05-20_Malzhausbastei,_Peitz,_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-05-20_Malzhausbastei,_Peitz,_05.jpg/1920px-2018-05-20_Malzhausbastei,_Peitz,_05.jpg
 ---
 
 ## Overview

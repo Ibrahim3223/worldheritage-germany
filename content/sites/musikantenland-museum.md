@@ -13,7 +13,7 @@ regions:
 latitude: 49.5557
 longitude: 7.35581
 images:
-  - "/images-sites/musikantenland-museum/01-c736a086-800w.webp"
+  - "/images/musikantenland-museum/01-c736a086-800w.webp"
 ---
 
 ## Overview

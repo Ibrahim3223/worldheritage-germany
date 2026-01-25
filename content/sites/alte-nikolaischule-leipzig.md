@@ -1,21 +1,49 @@
 ---
-title: "Alte Nikolaischule (Leipzig)"
+title: Alte Nikolaischule (Leipzig)
 date: 2026-01-23
 draft: false
-description: "school in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school in Leipzig
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 51.34080306
 longitude: 12.378625
 images:
-  - "/images-sites/alte-nikolaischule-leipzig/01-588faee1-800w.webp"
-  - "/images-sites/alte-nikolaischule-leipzig/02-782ebfca-800w.webp"
-  - "/images-sites/alte-nikolaischule-leipzig/03-cdcd2b69-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Nikolaischule_in_Leipzig_(1).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alte_Nikolaischule_in_Leipzig_(3).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alte_Nikolaischule_in_Leipzig_(4).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alte_Nikolaischule_in_Leipzig_(2).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1200px-Leipzig_Alte_Nikolaischule.jpg
+image_srcset:
+  Alte Nikolaischule in Leipzig (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Nikolaischule_in_Leipzig_(1).jpg/400px-Alte_Nikolaischule_in_Leipzig_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Nikolaischule_in_Leipzig_(1).jpg/800px-Alte_Nikolaischule_in_Leipzig_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Nikolaischule_in_Leipzig_(1).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alte_Nikolaischule_in_Leipzig_(1).jpg/1920px-Alte_Nikolaischule_in_Leipzig_(1).jpg
+  Alte Nikolaischule in Leipzig (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alte_Nikolaischule_in_Leipzig_(3).jpg/400px-Alte_Nikolaischule_in_Leipzig_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alte_Nikolaischule_in_Leipzig_(3).jpg/800px-Alte_Nikolaischule_in_Leipzig_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alte_Nikolaischule_in_Leipzig_(3).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alte_Nikolaischule_in_Leipzig_(3).jpg/1920px-Alte_Nikolaischule_in_Leipzig_(3).jpg
+  Alte Nikolaischule in Leipzig (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alte_Nikolaischule_in_Leipzig_(4).jpg/400px-Alte_Nikolaischule_in_Leipzig_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alte_Nikolaischule_in_Leipzig_(4).jpg/800px-Alte_Nikolaischule_in_Leipzig_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alte_Nikolaischule_in_Leipzig_(4).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alte_Nikolaischule_in_Leipzig_(4).jpg/1920px-Alte_Nikolaischule_in_Leipzig_(4).jpg
+  Alte Nikolaischule in Leipzig (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alte_Nikolaischule_in_Leipzig_(2).jpg/400px-Alte_Nikolaischule_in_Leipzig_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alte_Nikolaischule_in_Leipzig_(2).jpg/800px-Alte_Nikolaischule_in_Leipzig_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alte_Nikolaischule_in_Leipzig_(2).jpg/1200px-Alte_Nikolaischule_in_Leipzig_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alte_Nikolaischule_in_Leipzig_(2).jpg/1920px-Alte_Nikolaischule_in_Leipzig_(2).jpg
+  Leipzig Alte Nikolaischule.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/400px-Leipzig_Alte_Nikolaischule.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/800px-Leipzig_Alte_Nikolaischule.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1200px-Leipzig_Alte_Nikolaischule.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Leipzig_Alte_Nikolaischule.jpg/1920px-Leipzig_Alte_Nikolaischule.jpg
 ---
 
 ## Overview

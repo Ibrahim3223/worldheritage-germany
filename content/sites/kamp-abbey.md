@@ -13,7 +13,7 @@ regions:
 latitude: 51.5023
 longitude: 6.51623
 images:
-  - "/images-sites/kamp-abbey/01-5f22833a-800w.webp"
+  - "/images/kamp-abbey/01-5f22833a-800w.webp"
 ---
 
 ## Overview

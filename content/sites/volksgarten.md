@@ -13,7 +13,7 @@ regions:
 latitude: 50.9209
 longitude: 6.94684
 images:
-  - "/images-sites/volksgarten/01-a956b46b-800w.webp"
+  - "/images/volksgarten/01-a956b46b-800w.webp"
 ---
 
 ## Overview

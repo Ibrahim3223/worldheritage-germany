@@ -13,7 +13,7 @@ regions:
 latitude: 52.50916667
 longitude: 13.38877778
 images:
-  - "/images-sites/memoria-urbana-berlin/01-9b9e9594-800w.webp"
+  - "/images/memoria-urbana-berlin/01-9b9e9594-800w.webp"
 ---
 
 ## Overview 

@@ -1,19 +1,49 @@
 ---
-title: "Hülser Berg"
+title: Hülser Berg
 date: 2026-01-23
 draft: false
-description: "mountain in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: mountain in Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.386666666
 longitude: 6.538611111
 images:
-  - "/images-sites/huelser-berg/03-bf885c95-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg/1200px-Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg/1200px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg/1200px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg/1200px-Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hülser_Impressionen.jpg/1200px-Hülser_Impressionen.jpg
+image_srcset:
+  Krefeld, Vinnmannshof, 2020-04 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg/400px-Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg/800px-Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg/1200px-Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg/1920px-Krefeld,_Vinnmannshof,_2020-04_CN-01.jpg
+  Krefeld, Bahnstrecke Moers–Hüls–Krefeld, 2020-04 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg/400px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg/800px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg/1200px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg/1920px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-01.jpg
+  Krefeld, Bahnstrecke Moers–Hüls–Krefeld, 2020-04 CN-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg/400px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg/800px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg/1200px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg/1920px-Krefeld,_Bahnstrecke_Moers–Hüls–Krefeld,_2020-04_CN-02.jpg
+  Krefeld, Grafschafter Rad- und Wanderweg, 2020-04 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg/400px-Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg/800px-Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg/1200px-Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg/1920px-Krefeld,_Grafschafter_Rad-_und_Wanderweg,_2020-04_CN-01.jpg
+  Hülser Impressionen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hülser_Impressionen.jpg/400px-Hülser_Impressionen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hülser_Impressionen.jpg/800px-Hülser_Impressionen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hülser_Impressionen.jpg/1200px-Hülser_Impressionen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hülser_Impressionen.jpg/1920px-Hülser_Impressionen.jpg
 ---
 
 ## Overview

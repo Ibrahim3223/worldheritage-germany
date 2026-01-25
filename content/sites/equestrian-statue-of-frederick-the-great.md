@@ -1,19 +1,49 @@
 ---
-title: "equestrian statue of Frederick the Great"
+title: equestrian statue of Frederick the Great
 date: 2026-01-23
 draft: false
-description: "monument in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.51722222
 longitude: 13.39277778
 images:
-  - "/images-sites/equestrian-statue-of-frederick-the-great/01-00f68f5d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Bibliothek_(Berlin),_2024_(03).jpg/1200px-Alte_Bibliothek_(Berlin),_2024_(03).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG/1200px-1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/1200px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlterFritz_2a.jpg/1200px-AlterFritz_2a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg/1200px-Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg
+image_srcset:
+  Alte Bibliothek (Berlin), 2024 (03).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Bibliothek_(Berlin),_2024_(03).jpg/400px-Alte_Bibliothek_(Berlin),_2024_(03).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Bibliothek_(Berlin),_2024_(03).jpg/800px-Alte_Bibliothek_(Berlin),_2024_(03).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Bibliothek_(Berlin),_2024_(03).jpg/1200px-Alte_Bibliothek_(Berlin),_2024_(03).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Bibliothek_(Berlin),_2024_(03).jpg/1920px-Alte_Bibliothek_(Berlin),_2024_(03).jpg
+  1855 Bruecke Ansicht auf das Denkmal Friedrichs des Grossen anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG/400px-1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG/800px-1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG/1200px-1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG/1920px-1855_Bruecke_Ansicht_auf_das_Denkmal_Friedrichs_des_Grossen_anagoria.JPG
+  Berlin Friedrich II Denkmal 09-2017 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/400px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/800px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/1200px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg/1920px-Berlin_Friedrich_II_Denkmal_09-2017_img1.jpg
+  AlterFritz 2a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlterFritz_2a.jpg/400px-AlterFritz_2a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlterFritz_2a.jpg/800px-AlterFritz_2a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlterFritz_2a.jpg/1200px-AlterFritz_2a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AlterFritz_2a.jpg/1920px-AlterFritz_2a.jpg
+  Reiterstandbild - Friedrich der Große - Ostansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg/400px-Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg/800px-Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg/1200px-Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg/1920px-Reiterstandbild_-_Friedrich_der_Große_-_Ostansicht.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 9.03216667
 
 # Images
 images:
-  - "/images-sites/ruine-altbodman/01-ce91ab4e-800w.webp"
+  - "/images/ruine-altbodman/01-ce91ab4e-800w.webp"
 ---
 
 ## Overview

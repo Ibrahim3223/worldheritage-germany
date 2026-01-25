@@ -13,7 +13,7 @@ regions:
 latitude: 52.5142
 longitude: 13.2322
 images:
-  - "/images-sites/langemarckhalle/01-a4faa82b-800w.webp"
+  - "/images/langemarckhalle/01-a4faa82b-800w.webp"
 ---
 
 ## Overview

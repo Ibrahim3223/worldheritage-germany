@@ -1,21 +1,37 @@
 ---
-title: "Burg Langenegg"
+title: Burg Langenegg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6153
 longitude: 10.2936
 images:
-  - "/images-sites/burg-langenegg/01-3e5de5e7-800w.webp"
-  - "/images-sites/burg-langenegg/02-e84abef4-800w.webp"
-  - "/images-sites/burg-langenegg/03-defa2d87-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/1200px-Langenegg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langenegg_2.jpg/1200px-Langenegg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burgruine_Langenegg.jpg/1200px-Burgruine_Langenegg.jpg
+image_srcset:
+  Langenegg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/400px-Langenegg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/800px-Langenegg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/1200px-Langenegg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Langenegg_1.jpg/1920px-Langenegg_1.jpg
+  Langenegg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langenegg_2.jpg/400px-Langenegg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langenegg_2.jpg/800px-Langenegg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langenegg_2.jpg/1200px-Langenegg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Langenegg_2.jpg/1920px-Langenegg_2.jpg
+  Burgruine Langenegg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burgruine_Langenegg.jpg/400px-Burgruine_Langenegg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burgruine_Langenegg.jpg/800px-Burgruine_Langenegg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burgruine_Langenegg.jpg/1200px-Burgruine_Langenegg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burgruine_Langenegg.jpg/1920px-Burgruine_Langenegg.jpg
 ---
 
 ## Overview

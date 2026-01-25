@@ -1,19 +1,50 @@
 ---
-title: "Blaubeuren Abbey"
+title: Blaubeuren Abbey
 date: 2026-01-23
 draft: false
-description: "building in Blaubeuren, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Blaubeuren, Tübingen Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4153
 longitude: 9.78476
 images:
-  - "/images-sites/blaubeuren-abbey/01-b1fefbb5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Blaubeuren_Kloster_Kirche_Chorraum_01.jpg/1200px-Blaubeuren_Kloster_Kirche_Chorraum_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg/1200px-Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg/1200px-Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blaubeuren_Kloster.jpg/1200px-Blaubeuren_Kloster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg/1200px-Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg
+image_srcset:
+  Blaubeuren Kloster Kirche Chorraum 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Blaubeuren_Kloster_Kirche_Chorraum_01.jpg/400px-Blaubeuren_Kloster_Kirche_Chorraum_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Blaubeuren_Kloster_Kirche_Chorraum_01.jpg/800px-Blaubeuren_Kloster_Kirche_Chorraum_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Blaubeuren_Kloster_Kirche_Chorraum_01.jpg/1200px-Blaubeuren_Kloster_Kirche_Chorraum_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Blaubeuren_Kloster_Kirche_Chorraum_01.jpg/1920px-Blaubeuren_Kloster_Kirche_Chorraum_01.jpg
+  Blaubeuren Kloster Kirche Flügelaltar 01a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg/400px-Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg/800px-Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg/1200px-Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg/1920px-Blaubeuren_Kloster_Kirche_Flügelaltar_01a.jpg
+  Zentralbibliothek Zürich - Grabstein in Blaubeuren - 991092826509705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg/400px-Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg/800px-Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg/1200px-Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg/1920px-Zentralbibliothek_Zürich_-_Grabstein_in_Blaubeuren_-_991092826509705501.jpg
+  Blaubeuren Kloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blaubeuren_Kloster.jpg/400px-Blaubeuren_Kloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blaubeuren_Kloster.jpg/800px-Blaubeuren_Kloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blaubeuren_Kloster.jpg/1200px-Blaubeuren_Kloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blaubeuren_Kloster.jpg/1920px-Blaubeuren_Kloster.jpg
+  Zentralbibliothek Zürich - Blaubeuren - 991023473419705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg/400px-Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg/800px-Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg/1200px-Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg/1920px-Zentralbibliothek_Zürich_-_Blaubeuren_-_991023473419705501.jpg
 ---
 
 ## Overview

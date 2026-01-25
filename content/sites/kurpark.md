@@ -13,7 +13,7 @@ regions:
 latitude: 50.0844
 longitude: 8.25167
 images:
-  - "/images-sites/kurpark/01-5d512d50-800w.webp"
+  - "/images/kurpark/01-5d512d50-800w.webp"
 ---
 
 ## Overview

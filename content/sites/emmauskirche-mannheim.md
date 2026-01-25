@@ -1,20 +1,33 @@
 ---
-title: "Emmauskirche (Mannheim)"
-site_name: "Emmauskirche (Mannheim)"
-slug: "emmauskirche-mannheim"
-region: "Hesse"
-
-# Location
+title: Emmauskirche (Mannheim)
+site_name: Emmauskirche (Mannheim)
+slug: emmauskirche-mannheim
+region: Hesse
 latitude: 49.5427
 longitude: 8.47526
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1338513"
-description: "In the heart of Mannheim, Germany, the Emmauskirche stands as a striking example of modern architecture. This church, designed by architect Max Schmeche..."
+- church building
+- religious site
+wikidata_id: Q1338513
+description: In the heart of Mannheim, Germany, the Emmauskirche stands as a striking
+  example of modern architecture. This church, designed by architect Max Schmeche...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/1200px-Mannheim-Schoenau-Emmauskirche-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mannheim-Schoenau-Emmaus.jpg/1200px-Mannheim-Schoenau-Emmaus.jpg
+image_srcset:
+  Mannheim-Schoenau-Emmauskirche-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/400px-Mannheim-Schoenau-Emmauskirche-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/800px-Mannheim-Schoenau-Emmauskirche-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/1200px-Mannheim-Schoenau-Emmauskirche-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mannheim-Schoenau-Emmauskirche-03.jpg/1920px-Mannheim-Schoenau-Emmauskirche-03.jpg
+  Mannheim-Schoenau-Emmaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mannheim-Schoenau-Emmaus.jpg/400px-Mannheim-Schoenau-Emmaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mannheim-Schoenau-Emmaus.jpg/800px-Mannheim-Schoenau-Emmaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mannheim-Schoenau-Emmaus.jpg/1200px-Mannheim-Schoenau-Emmaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mannheim-Schoenau-Emmaus.jpg/1920px-Mannheim-Schoenau-Emmaus.jpg
 ---
 
 ## Overview

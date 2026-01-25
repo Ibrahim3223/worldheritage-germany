@@ -13,7 +13,7 @@ regions:
 latitude: 52.498761111
 longitude: 13.413286111
 images:
-  - "/images-sites/wassertorplatz/01-2be966a0-800w.webp"
+  - "/images/wassertorplatz/01-2be966a0-800w.webp"
 ---
 
 ## Overview

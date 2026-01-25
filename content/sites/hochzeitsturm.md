@@ -1,21 +1,49 @@
 ---
-title: "Hochzeitsturm"
+title: Hochzeitsturm
 date: 2026-01-24
 draft: false
-description: "tower in Darmstadt, Hesse"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Darmstadt, Hesse
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8771
 longitude: 8.66723
 images:
-  - "/images-sites/hochzeitsturm/01-201b57bc-800w.webp"
-  - "/images-sites/hochzeitsturm/02-0c665f8c-800w.webp"
-  - "/images-sites/hochzeitsturm/03-58d16f8c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hochzeitsturm_Darmstadt_2022_(100MP).jpg/1200px-Hochzeitsturm_Darmstadt_2022_(100MP).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Darmstadt_Mathildenhöhe.jpg/1200px-Darmstadt_Mathildenhöhe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg/1200px-Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/1200px-2010_Winter_Mathildenhoehe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg/1200px-"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg
+image_srcset:
+  Hochzeitsturm Darmstadt 2022 (100MP).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hochzeitsturm_Darmstadt_2022_(100MP).jpg/400px-Hochzeitsturm_Darmstadt_2022_(100MP).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hochzeitsturm_Darmstadt_2022_(100MP).jpg/800px-Hochzeitsturm_Darmstadt_2022_(100MP).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hochzeitsturm_Darmstadt_2022_(100MP).jpg/1200px-Hochzeitsturm_Darmstadt_2022_(100MP).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hochzeitsturm_Darmstadt_2022_(100MP).jpg/1920px-Hochzeitsturm_Darmstadt_2022_(100MP).jpg
+  Darmstadt Mathildenhöhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Darmstadt_Mathildenhöhe.jpg/400px-Darmstadt_Mathildenhöhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Darmstadt_Mathildenhöhe.jpg/800px-Darmstadt_Mathildenhöhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Darmstadt_Mathildenhöhe.jpg/1200px-Darmstadt_Mathildenhöhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Darmstadt_Mathildenhöhe.jpg/1920px-Darmstadt_Mathildenhöhe.jpg
+  Darmstadt - Mathildenhöhe - Hochzeitsturm (2855).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg/400px-Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg/800px-Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg/1200px-Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg/1920px-Darmstadt_-_Mathildenhöhe_-_Hochzeitsturm_(2855).jpg
+  2010 Winter Mathildenhoehe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/400px-2010_Winter_Mathildenhoehe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/800px-2010_Winter_Mathildenhoehe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/1200px-2010_Winter_Mathildenhoehe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/1920px-2010_Winter_Mathildenhoehe.jpg
+  '"The Kiss", mosaïque de la tour du mariage (Darmstadt) (8034067782).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg/400px-"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg/800px-"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg/1200px-"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg/1920px-"The_Kiss",_mosaïque_de_la_tour_du_mariage_(Darmstadt)_(8034067782).jpg
 ---
 
 ## Overview

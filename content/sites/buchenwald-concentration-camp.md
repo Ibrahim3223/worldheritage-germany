@@ -1,21 +1,49 @@
 ---
-title: "Buchenwald concentration camp"
+title: Buchenwald concentration camp
 date: 2026-01-23
 draft: false
-description: "Nazi concentration camp in Thuringia (1937–1945)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Nazi concentration camp in Thuringia (1937–1945)
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.021198
 longitude: 11.248999
 images:
-  - "/images-sites/buchenwald-concentration-camp/01-78507bfc-800w.webp"
-  - "/images-sites/buchenwald-concentration-camp/02-453bdf7e-800w.webp"
-  - "/images-sites/buchenwald-concentration-camp/03-a59bac85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1200px-Buchenwald_Memorial.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buchenwald-100625-14539-Schwerte.jpg/1200px-Buchenwald-100625-14539-Schwerte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buchenwald-bei-Weimar-am-24-April-1945.jpg/1200px-Buchenwald-bei-Weimar-am-24-April-1945.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg/1200px-Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg/1200px-Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg
+image_srcset:
+  Buchenwald Memorial.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/400px-Buchenwald_Memorial.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/800px-Buchenwald_Memorial.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1200px-Buchenwald_Memorial.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/1920px-Buchenwald_Memorial.JPG
+  Buchenwald-100625-14539-Schwerte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buchenwald-100625-14539-Schwerte.jpg/400px-Buchenwald-100625-14539-Schwerte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buchenwald-100625-14539-Schwerte.jpg/800px-Buchenwald-100625-14539-Schwerte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buchenwald-100625-14539-Schwerte.jpg/1200px-Buchenwald-100625-14539-Schwerte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buchenwald-100625-14539-Schwerte.jpg/1920px-Buchenwald-100625-14539-Schwerte.jpg
+  Buchenwald-bei-Weimar-am-24-April-1945.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buchenwald-bei-Weimar-am-24-April-1945.jpg/400px-Buchenwald-bei-Weimar-am-24-April-1945.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buchenwald-bei-Weimar-am-24-April-1945.jpg/800px-Buchenwald-bei-Weimar-am-24-April-1945.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buchenwald-bei-Weimar-am-24-April-1945.jpg/1200px-Buchenwald-bei-Weimar-am-24-April-1945.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buchenwald-bei-Weimar-am-24-April-1945.jpg/1920px-Buchenwald-bei-Weimar-am-24-April-1945.jpg
+  Bones of anti-Nazi German women still are in the crematoriums in the German concentration camp at Weimar, Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg/400px-Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg/800px-Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg/1200px-Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg/1920px-Bones_of_anti-Nazi_German_women_still_are_in_the_crematoriums_in_the_German_concentration_camp_at_Weimar,_Germany.jpg
+  Buchenwald Gedenkstein für die homosexuellen Opfer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg/400px-Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg/800px-Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg/1200px-Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg/1920px-Buchenwald_Gedenkstein_für_die_homosexuellen_Opfer.jpg
 ---
 
 ## Overview

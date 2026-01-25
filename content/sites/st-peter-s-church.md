@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q883791"
 description: "St. Peters Church in Mainz is a remarkable testament to rococo architecture, captivating visitors with its intricate design and historical significance...."
 images:
-  - "/images-sites/st-peter-s-church/01-30f9a12c-1920w.webp"
-  - "/images-sites/st-peter-s-church/01-5cbe4885-1920w.webp"
-  - "/images-sites/st-peter-s-church/02-30f9a12c-1920w.webp"
+  - "/images/st-peter-s-church/01-30f9a12c-1920w.webp"
+  - "/images/st-peter-s-church/01-5cbe4885-1920w.webp"
+  - "/images/st-peter-s-church/02-30f9a12c-1920w.webp"
 ---
 
 ## Overview

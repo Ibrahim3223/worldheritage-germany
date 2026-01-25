@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q882413"
 description: "In the heart of Quedlinburg, Germany, lies the Stiftskirche St. Servatius, a remarkable example of Romanesque architecture. This church, with its histor..."
 images:
-  - "/images-sites/stiftskirche-st-servatius/01-35995d86-1920w.webp"
-  - "/images-sites/stiftskirche-st-servatius/02-ca3769e7-1920w.webp"
-  - "/images-sites/stiftskirche-st-servatius/03-cdd50130-1920w.webp"
+  - "/images/stiftskirche-st-servatius/01-35995d86-1920w.webp"
+  - "/images/stiftskirche-st-servatius/02-ca3769e7-1920w.webp"
+  - "/images/stiftskirche-st-servatius/03-cdd50130-1920w.webp"
 ---
 
 ## Overview

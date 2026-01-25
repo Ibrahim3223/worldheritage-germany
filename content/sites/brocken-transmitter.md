@@ -1,19 +1,49 @@
 ---
-title: "Brocken Transmitter"
+title: Brocken Transmitter
 date: 2026-01-24
 draft: false
-description: "towers in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: towers in Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8002
 longitude: 10.6144
 images:
-  - "/images-sites/brocken-transmitter/01-2b34f943-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Neuer_Sendeturm_Brocken.jpg/1200px-Neuer_Sendeturm_Brocken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/J39_943_Brockenplateau.jpg/1200px-J39_943_Brockenplateau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg/1200px-2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J39_940_Brockenplateau.jpg/1200px-J39_940_Brockenplateau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg/1200px-Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg
+image_srcset:
+  Neuer Sendeturm Brocken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Neuer_Sendeturm_Brocken.jpg/400px-Neuer_Sendeturm_Brocken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Neuer_Sendeturm_Brocken.jpg/800px-Neuer_Sendeturm_Brocken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Neuer_Sendeturm_Brocken.jpg/1200px-Neuer_Sendeturm_Brocken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Neuer_Sendeturm_Brocken.jpg/1920px-Neuer_Sendeturm_Brocken.jpg
+  J39 943 Brockenplateau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/J39_943_Brockenplateau.jpg/400px-J39_943_Brockenplateau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/J39_943_Brockenplateau.jpg/800px-J39_943_Brockenplateau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/J39_943_Brockenplateau.jpg/1200px-J39_943_Brockenplateau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/J39_943_Brockenplateau.jpg/1920px-J39_943_Brockenplateau.jpg
+  2021-09-18 Harz Sender Brocken im Nebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg/400px-2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg/800px-2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg/1200px-2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg/1920px-2021-09-18_Harz_Sender_Brocken_im_Nebel.jpg
+  J39 940 Brockenplateau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J39_940_Brockenplateau.jpg/400px-J39_940_Brockenplateau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J39_940_Brockenplateau.jpg/800px-J39_940_Brockenplateau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J39_940_Brockenplateau.jpg/1200px-J39_940_Brockenplateau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/J39_940_Brockenplateau.jpg/1920px-J39_940_Brockenplateau.jpg
+  Sendeanlagen auf dem Brocken am 13.10.2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg/400px-Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg/800px-Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg/1200px-Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg/1920px-Sendeanlagen_auf_dem_Brocken_am_13.10.2020.jpg
 ---
 
 ## Overview

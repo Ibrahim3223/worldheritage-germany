@@ -1,28 +1,43 @@
 ---
-title: "Arcobräu"
+title: Arcobräu
 date: 2026-01-23
 draft: false
-description: "brewery in Moos, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Moos, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.746388888
 longitude: 12.96
-
-# Images
 images:
-  - "/images-sites/arcobraeu/02-30de104f-800w.webp"
-  - "/images-sites/arcobraeu/03-897844ef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gemeinde_Moos.jpg/1200px-Gemeinde_Moos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg/1200px-Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/1200px-Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arcobräu_Moos_-_Mooser_Liesel_2019.jpg/1200px-Arcobräu_Moos_-_Mooser_Liesel_2019.jpg
+image_srcset:
+  Gemeinde Moos.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gemeinde_Moos.jpg/400px-Gemeinde_Moos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gemeinde_Moos.jpg/800px-Gemeinde_Moos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gemeinde_Moos.jpg/1200px-Gemeinde_Moos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gemeinde_Moos.jpg/1920px-Gemeinde_Moos.jpg
+  Mooser Liesl (Arcobräu Gräfliches Brauhaus).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg/400px-Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg/800px-Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg/1200px-Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg/1920px-Mooser_Liesl_(Arcobräu_Gräfliches_Brauhaus).jpg
+  Arcobräu Moos - Mooser Liesl Helles.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/400px-Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/800px-Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/1200px-Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg/1920px-Arcobräu_Moos_-_Mooser_Liesl_Helles.jpg
+  Arcobräu Moos - Mooser Liesel 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arcobräu_Moos_-_Mooser_Liesel_2019.jpg/400px-Arcobräu_Moos_-_Mooser_Liesel_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arcobräu_Moos_-_Mooser_Liesel_2019.jpg/800px-Arcobräu_Moos_-_Mooser_Liesel_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arcobräu_Moos_-_Mooser_Liesel_2019.jpg/1200px-Arcobräu_Moos_-_Mooser_Liesel_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Arcobräu_Moos_-_Mooser_Liesel_2019.jpg/1920px-Arcobräu_Moos_-_Mooser_Liesel_2019.jpg
 ---
 
 ## Overview

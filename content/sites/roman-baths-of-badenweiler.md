@@ -21,9 +21,9 @@ longitude: 7.67173
 
 # Images
 images:
-  - "/images-sites/roman-baths-of-badenweiler/01-54d01f9e-800w.webp"
-  - "/images-sites/roman-baths-of-badenweiler/02-abf77841-800w.webp"
-  - "/images-sites/roman-baths-of-badenweiler/03-3cd09f3c-800w.webp"
+  - "/images/roman-baths-of-badenweiler/01-54d01f9e-800w.webp"
+  - "/images/roman-baths-of-badenweiler/02-abf77841-800w.webp"
+  - "/images/roman-baths-of-badenweiler/03-3cd09f3c-800w.webp"
 ---
 
 ## Overview

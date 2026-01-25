@@ -1,21 +1,49 @@
 ---
-title: "Auerburg"
+title: Auerburg
 date: 2026-01-23
 draft: false
-description: "castle ruin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle ruin
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6431
 longitude: 12.1783
 images:
-  - "/images-sites/auerburg/01-39e24bba-800w.webp"
-  - "/images-sites/auerburg/02-25070a19-800w.webp"
-  - "/images-sites/auerburg/03-e3e01484-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Auerburg_Oberaudorf-3.jpg/1200px-Auerburg_Oberaudorf-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg/1200px-Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Auerburg_Oberaudorf-1.jpg/1200px-Auerburg_Oberaudorf-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oberaudorf_Auerburg-2.jpg/1200px-Oberaudorf_Auerburg-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Michael_Wening_Auerburg.jpg/1200px-Michael_Wening_Auerburg.jpg
+image_srcset:
+  Auerburg Oberaudorf-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Auerburg_Oberaudorf-3.jpg/400px-Auerburg_Oberaudorf-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Auerburg_Oberaudorf-3.jpg/800px-Auerburg_Oberaudorf-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Auerburg_Oberaudorf-3.jpg/1200px-Auerburg_Oberaudorf-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Auerburg_Oberaudorf-3.jpg/1920px-Auerburg_Oberaudorf-3.jpg
+  Auerburg Zahmer Kaiser Oberaudorf-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg/400px-Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg/800px-Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg/1200px-Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg/1920px-Auerburg_Zahmer_Kaiser_Oberaudorf-2.jpg
+  Auerburg Oberaudorf-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Auerburg_Oberaudorf-1.jpg/400px-Auerburg_Oberaudorf-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Auerburg_Oberaudorf-1.jpg/800px-Auerburg_Oberaudorf-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Auerburg_Oberaudorf-1.jpg/1200px-Auerburg_Oberaudorf-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Auerburg_Oberaudorf-1.jpg/1920px-Auerburg_Oberaudorf-1.jpg
+  Oberaudorf Auerburg-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oberaudorf_Auerburg-2.jpg/400px-Oberaudorf_Auerburg-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oberaudorf_Auerburg-2.jpg/800px-Oberaudorf_Auerburg-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oberaudorf_Auerburg-2.jpg/1200px-Oberaudorf_Auerburg-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Oberaudorf_Auerburg-2.jpg/1920px-Oberaudorf_Auerburg-2.jpg
+  Michael Wening Auerburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Michael_Wening_Auerburg.jpg/400px-Michael_Wening_Auerburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Michael_Wening_Auerburg.jpg/800px-Michael_Wening_Auerburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Michael_Wening_Auerburg.jpg/1200px-Michael_Wening_Auerburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Michael_Wening_Auerburg.jpg/1920px-Michael_Wening_Auerburg.jpg
 ---
 
 ## Overview

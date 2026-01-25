@@ -13,7 +13,7 @@ regions:
 latitude: 51.56704
 longitude: 7.52535
 images:
-  - "/images-sites/zeche-gneisenau/03-b608c902-800w.webp"
+  - "/images/zeche-gneisenau/03-b608c902-800w.webp"
 ---
 
 ## Overview

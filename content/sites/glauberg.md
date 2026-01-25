@@ -1,19 +1,49 @@
 ---
-title: "Glauberg"
+title: Glauberg
 date: 2026-01-23
 draft: false
-description: "Celtic oppidum in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: Celtic oppidum in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.305556
 longitude: 9.008611
 images:
-  - "/images-sites/glauberg/01-ebe06eea-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Westportal_Glauberg.JPG/1200px-Westportal_Glauberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG/1200px-Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG/1200px-Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabhugel_Glauberg.JPG/1200px-Grabhugel_Glauberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oppidum_Glauberg_Enzheimer_Pforte_02.JPG/1200px-Oppidum_Glauberg_Enzheimer_Pforte_02.JPG
+image_srcset:
+  Westportal Glauberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Westportal_Glauberg.JPG/400px-Westportal_Glauberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Westportal_Glauberg.JPG/800px-Westportal_Glauberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Westportal_Glauberg.JPG/1200px-Westportal_Glauberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Westportal_Glauberg.JPG/1920px-Westportal_Glauberg.JPG
+  Burg Glauburg, Plateau, Enzheimer Pforte.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG/400px-Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG/800px-Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG/1200px-Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG/1920px-Burg_Glauburg,_Plateau,_Enzheimer_Pforte.JPG
+  Burg Glauburg, Plateau, Nordöstliches Burghaus 06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG/400px-Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG/800px-Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG/1200px-Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG/1920px-Burg_Glauburg,_Plateau,_Nordöstliches_Burghaus_06.JPG
+  Grabhugel Glauberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabhugel_Glauberg.JPG/400px-Grabhugel_Glauberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabhugel_Glauberg.JPG/800px-Grabhugel_Glauberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabhugel_Glauberg.JPG/1200px-Grabhugel_Glauberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabhugel_Glauberg.JPG/1920px-Grabhugel_Glauberg.JPG
+  Oppidum Glauberg Enzheimer Pforte 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oppidum_Glauberg_Enzheimer_Pforte_02.JPG/400px-Oppidum_Glauberg_Enzheimer_Pforte_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oppidum_Glauberg_Enzheimer_Pforte_02.JPG/800px-Oppidum_Glauberg_Enzheimer_Pforte_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oppidum_Glauberg_Enzheimer_Pforte_02.JPG/1200px-Oppidum_Glauberg_Enzheimer_Pforte_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oppidum_Glauberg_Enzheimer_Pforte_02.JPG/1920px-Oppidum_Glauberg_Enzheimer_Pforte_02.JPG
 ---
 
 ## Overview

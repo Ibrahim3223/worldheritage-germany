@@ -1,23 +1,50 @@
 ---
-title: "Church in Möllenhagen"
-site_name: "Church in Möllenhagen"
-slug: "church-in-mollenhagen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Möllenhagen
+site_name: Church in Möllenhagen
+slug: church-in-mollenhagen
+region: Mecklenburg-Vorpommern
 latitude: 53.5254
 longitude: 12.9314
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1380833"
-description: "The Church in Möllenhagen stands as a striking example of Gothic Revival architecture in Germany. This brick church, located in the quaint village of Mö..."
+- cultural site
+wikidata_id: Q1380833
+description: The Church in Möllenhagen stands as a striking example of Gothic Revival
+  architecture in Germany. This brick church, located in the quaint village of Mö...
 images:
-  - "/images-sites/church-in-mollenhagen/01-6a526f56-1920w.webp"
-  - "/images-sites/church-in-mollenhagen/02-db951994-1920w.webp"
-  - "/images-sites/church-in-mollenhagen/03-5a4911d4-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG/1200px-M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1200px-Möllenhagen_Kirche_2010-09-03_032.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Möllenhagen_Kirche_2010-09-03_039.JPG/1200px-Möllenhagen_Kirche_2010-09-03_039.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG/1200px-Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG/1200px-Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG
+image_srcset:
+  M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG/400px-M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG/800px-M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG/1200px-M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG/1920px-M%C3%B6llenhagen%20Kirche%202010-09-03%20032.JPG
+  Möllenhagen Kirche 2010-09-03 032.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/400px-Möllenhagen_Kirche_2010-09-03_032.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/800px-Möllenhagen_Kirche_2010-09-03_032.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1200px-Möllenhagen_Kirche_2010-09-03_032.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Möllenhagen_Kirche_2010-09-03_032.JPG/1920px-Möllenhagen_Kirche_2010-09-03_032.JPG
+  Möllenhagen Kirche 2010-09-03 039.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Möllenhagen_Kirche_2010-09-03_039.JPG/400px-Möllenhagen_Kirche_2010-09-03_039.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Möllenhagen_Kirche_2010-09-03_039.JPG/800px-Möllenhagen_Kirche_2010-09-03_039.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Möllenhagen_Kirche_2010-09-03_039.JPG/1200px-Möllenhagen_Kirche_2010-09-03_039.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Möllenhagen_Kirche_2010-09-03_039.JPG/1920px-Möllenhagen_Kirche_2010-09-03_039.JPG
+  Möllenhagen Kirche Glocke 2010-09-03 035.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG/400px-Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG/800px-Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG/1200px-Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG/1920px-Möllenhagen_Kirche_Glocke_2010-09-03_035.JPG
+  Möllenhagen Kirche Kapelle 2010-09-03 042.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG/400px-Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG/800px-Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG/1200px-Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG/1920px-Möllenhagen_Kirche_Kapelle_2010-09-03_042.JPG
 ---
 
 ## Overview

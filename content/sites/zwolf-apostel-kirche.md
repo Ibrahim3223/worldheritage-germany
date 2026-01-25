@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q245155"
 description: "The Zwölf-Apostel-Kirche in Mannheim is a striking example of modern architecture, designed by the renowned architect Heinz Hess. This church building s..."
 images:
-  - "/images-sites/zwolf-apostel-kirche/01-a5cc1bd3-1920w.webp"
-  - "/images-sites/zwolf-apostel-kirche/02-b86ae409-1920w.webp"
-  - "/images-sites/zwolf-apostel-kirche/03-46458735-1920w.webp"
+  - "/images/zwolf-apostel-kirche/01-a5cc1bd3-1920w.webp"
+  - "/images/zwolf-apostel-kirche/02-b86ae409-1920w.webp"
+  - "/images/zwolf-apostel-kirche/03-46458735-1920w.webp"
 ---
 
 ## Overview

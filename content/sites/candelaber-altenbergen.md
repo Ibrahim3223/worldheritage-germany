@@ -1,21 +1,49 @@
 ---
-title: "Candelaber Altenbergen"
+title: Candelaber Altenbergen
 date: 2026-01-23
 draft: false
-description: "Denkmal"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Denkmal
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8326976
 longitude: 10.6232479
 images:
-  - "/images-sites/candelaber-altenbergen/01-d8504174-800w.webp"
-  - "/images-sites/candelaber-altenbergen/02-e041b05b-800w.webp"
-  - "/images-sites/candelaber-altenbergen/03-915e5df6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Candelaber_(Altenbergen)_1.jpg/1200px-Candelaber_(Altenbergen)_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Candelaber_(Altenbergen)_2.jpg/1200px-Candelaber_(Altenbergen)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Candelaber_(Altenbergen)_5.jpg/1200px-Candelaber_(Altenbergen)_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Candelaber_(Altenbergen)_8.jpg/1200px-Candelaber_(Altenbergen)_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche_Turmmodell_Altenbergen.jpg/1200px-Johanneskirche_Turmmodell_Altenbergen.jpg
+image_srcset:
+  Candelaber (Altenbergen) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Candelaber_(Altenbergen)_1.jpg/400px-Candelaber_(Altenbergen)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Candelaber_(Altenbergen)_1.jpg/800px-Candelaber_(Altenbergen)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Candelaber_(Altenbergen)_1.jpg/1200px-Candelaber_(Altenbergen)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Candelaber_(Altenbergen)_1.jpg/1920px-Candelaber_(Altenbergen)_1.jpg
+  Candelaber (Altenbergen) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Candelaber_(Altenbergen)_2.jpg/400px-Candelaber_(Altenbergen)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Candelaber_(Altenbergen)_2.jpg/800px-Candelaber_(Altenbergen)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Candelaber_(Altenbergen)_2.jpg/1200px-Candelaber_(Altenbergen)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Candelaber_(Altenbergen)_2.jpg/1920px-Candelaber_(Altenbergen)_2.jpg
+  Candelaber (Altenbergen) 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Candelaber_(Altenbergen)_5.jpg/400px-Candelaber_(Altenbergen)_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Candelaber_(Altenbergen)_5.jpg/800px-Candelaber_(Altenbergen)_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Candelaber_(Altenbergen)_5.jpg/1200px-Candelaber_(Altenbergen)_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Candelaber_(Altenbergen)_5.jpg/1920px-Candelaber_(Altenbergen)_5.jpg
+  Candelaber (Altenbergen) 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Candelaber_(Altenbergen)_8.jpg/400px-Candelaber_(Altenbergen)_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Candelaber_(Altenbergen)_8.jpg/800px-Candelaber_(Altenbergen)_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Candelaber_(Altenbergen)_8.jpg/1200px-Candelaber_(Altenbergen)_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Candelaber_(Altenbergen)_8.jpg/1920px-Candelaber_(Altenbergen)_8.jpg
+  Johanneskirche Turmmodell Altenbergen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche_Turmmodell_Altenbergen.jpg/400px-Johanneskirche_Turmmodell_Altenbergen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche_Turmmodell_Altenbergen.jpg/800px-Johanneskirche_Turmmodell_Altenbergen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche_Turmmodell_Altenbergen.jpg/1200px-Johanneskirche_Turmmodell_Altenbergen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche_Turmmodell_Altenbergen.jpg/1920px-Johanneskirche_Turmmodell_Altenbergen.jpg
 ---
 
 ## Overview

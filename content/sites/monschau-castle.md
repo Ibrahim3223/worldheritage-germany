@@ -21,7 +21,7 @@ longitude: 6.23972
 
 # Images
 images:
-  - "/images-sites/monschau-castle/01-ba4da8f2-800w.webp"
+  - "/images/monschau-castle/01-ba4da8f2-800w.webp"
 ---
 
 ## Overview

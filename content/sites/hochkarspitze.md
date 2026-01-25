@@ -1,19 +1,49 @@
 ---
-title: "Hochkarspitze"
+title: Hochkarspitze
 date: 2026-01-23
 draft: false
-description: "mountain in the Karwendel at the border Bavaria / Tyrol"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Karwendel at the border Bavaria / Tyrol
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.4475
 longitude: 11.35
 images:
-  - "/images-sites/hochkarspitze/01-1eb07586-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Raffelspitze,_Hochkarspitze_und_Wörner.jpg/1200px-Raffelspitze,_Hochkarspitze_und_Wörner.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hochkarspitze_S.JPG/1200px-Hochkarspitze_S.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg/1200px-Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochkarspitze_Woerner_MQ.jpg/1200px-Hochkarspitze_Woerner_MQ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hochkarspitze_Woerner.jpg/1200px-Hochkarspitze_Woerner.jpg
+image_srcset:
+  Raffelspitze, Hochkarspitze und Wörner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Raffelspitze,_Hochkarspitze_und_Wörner.jpg/400px-Raffelspitze,_Hochkarspitze_und_Wörner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Raffelspitze,_Hochkarspitze_und_Wörner.jpg/800px-Raffelspitze,_Hochkarspitze_und_Wörner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Raffelspitze,_Hochkarspitze_und_Wörner.jpg/1200px-Raffelspitze,_Hochkarspitze_und_Wörner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Raffelspitze,_Hochkarspitze_und_Wörner.jpg/1920px-Raffelspitze,_Hochkarspitze_und_Wörner.jpg
+  Hochkarspitze S.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hochkarspitze_S.JPG/400px-Hochkarspitze_S.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hochkarspitze_S.JPG/800px-Hochkarspitze_S.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hochkarspitze_S.JPG/1200px-Hochkarspitze_S.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hochkarspitze_S.JPG/1920px-Hochkarspitze_S.JPG
+  Raffelspitze hochkarspitze woerner von rappenklammspitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg/400px-Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg/800px-Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg/1200px-Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg/1920px-Raffelspitze_hochkarspitze_woerner_von_rappenklammspitze.jpg
+  Hochkarspitze Woerner MQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochkarspitze_Woerner_MQ.jpg/400px-Hochkarspitze_Woerner_MQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochkarspitze_Woerner_MQ.jpg/800px-Hochkarspitze_Woerner_MQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochkarspitze_Woerner_MQ.jpg/1200px-Hochkarspitze_Woerner_MQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hochkarspitze_Woerner_MQ.jpg/1920px-Hochkarspitze_Woerner_MQ.jpg
+  Hochkarspitze Woerner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hochkarspitze_Woerner.jpg/400px-Hochkarspitze_Woerner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hochkarspitze_Woerner.jpg/800px-Hochkarspitze_Woerner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hochkarspitze_Woerner.jpg/1200px-Hochkarspitze_Woerner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hochkarspitze_Woerner.jpg/1920px-Hochkarspitze_Woerner.jpg
 ---
 
 ## Overview

@@ -1,29 +1,31 @@
 ---
-title: "Alte Burg (Bad Münstereifel)"
+title: Alte Burg (Bad Münstereifel)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.5585
 longitude: 6.76948
-
-# Images
 images:
-  - "/images-sites/alte-burg-bad-muenstereifel/01-a462615e-800w.webp"
-  - "/images-sites/alte-burg-bad-muenstereifel/02-7960baed-800w.webp"
-  - "/images-sites/alte-burg-bad-muenstereifel/03-8fb7bd8b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/1200px-Alte_Burg_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alte_Burg_Bad_Münstereifel_Geländemodell.jpg/1200px-Alte_Burg_Bad_Münstereifel_Geländemodell.jpg
+image_srcset:
+  Alte Burg 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/400px-Alte_Burg_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/800px-Alte_Burg_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/1200px-Alte_Burg_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Burg_4.jpg/1920px-Alte_Burg_4.jpg
+  Alte Burg Bad Münstereifel Geländemodell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alte_Burg_Bad_Münstereifel_Geländemodell.jpg/400px-Alte_Burg_Bad_Münstereifel_Geländemodell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alte_Burg_Bad_Münstereifel_Geländemodell.jpg/800px-Alte_Burg_Bad_Münstereifel_Geländemodell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alte_Burg_Bad_Münstereifel_Geländemodell.jpg/1200px-Alte_Burg_Bad_Münstereifel_Geländemodell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alte_Burg_Bad_Münstereifel_Geländemodell.jpg/1920px-Alte_Burg_Bad_Münstereifel_Geländemodell.jpg
 ---
 
 ## Overview

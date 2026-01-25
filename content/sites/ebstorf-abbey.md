@@ -1,20 +1,49 @@
 ---
-title: "Ebstorf Abbey"
+title: Ebstorf Abbey
 date: 2026-01-23
 draft: false
-description: "monastery in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: monastery in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0306
 longitude: 10.4122
 images:
-  - "/images-sites/ebstorf-abbey/02-88b91aa1-800w.webp"
-  - "/images-sites/ebstorf-abbey/03-836b0fde-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebstorf-Klosterkirche-1168.jpg/1200px-Ebstorf-Klosterkirche-1168.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ebstorf-20200305_(4).JPG/1200px-Ebstorf-20200305_(4).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Superintendentengang_Ebstorf-20221111.jpg/1200px-Superintendentengang_Ebstorf-20221111.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ebstorf-20200305_(1).JPG/1200px-Ebstorf-20200305_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/1200px-Monastery_Ebstorf.jpg
+image_srcset:
+  Ebstorf-Klosterkirche-1168.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebstorf-Klosterkirche-1168.jpg/400px-Ebstorf-Klosterkirche-1168.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebstorf-Klosterkirche-1168.jpg/800px-Ebstorf-Klosterkirche-1168.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebstorf-Klosterkirche-1168.jpg/1200px-Ebstorf-Klosterkirche-1168.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ebstorf-Klosterkirche-1168.jpg/1920px-Ebstorf-Klosterkirche-1168.jpg
+  Ebstorf-20200305 (4).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ebstorf-20200305_(4).JPG/400px-Ebstorf-20200305_(4).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ebstorf-20200305_(4).JPG/800px-Ebstorf-20200305_(4).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ebstorf-20200305_(4).JPG/1200px-Ebstorf-20200305_(4).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ebstorf-20200305_(4).JPG/1920px-Ebstorf-20200305_(4).JPG
+  Superintendentengang Ebstorf-20221111.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Superintendentengang_Ebstorf-20221111.jpg/400px-Superintendentengang_Ebstorf-20221111.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Superintendentengang_Ebstorf-20221111.jpg/800px-Superintendentengang_Ebstorf-20221111.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Superintendentengang_Ebstorf-20221111.jpg/1200px-Superintendentengang_Ebstorf-20221111.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Superintendentengang_Ebstorf-20221111.jpg/1920px-Superintendentengang_Ebstorf-20221111.jpg
+  Ebstorf-20200305 (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ebstorf-20200305_(1).JPG/400px-Ebstorf-20200305_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ebstorf-20200305_(1).JPG/800px-Ebstorf-20200305_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ebstorf-20200305_(1).JPG/1200px-Ebstorf-20200305_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ebstorf-20200305_(1).JPG/1920px-Ebstorf-20200305_(1).JPG
+  Monastery Ebstorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/400px-Monastery_Ebstorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/800px-Monastery_Ebstorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/1200px-Monastery_Ebstorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Monastery_Ebstorf.jpg/1920px-Monastery_Ebstorf.jpg
 ---
 
 ## Overview

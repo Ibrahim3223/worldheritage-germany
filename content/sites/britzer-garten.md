@@ -1,19 +1,49 @@
 ---
-title: "Britzer Garten"
+title: Britzer Garten
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.433333333
 longitude: 13.416666666
 images:
-  - "/images-sites/britzer-garten/01-e2748f78-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg/1200px-Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1200px-Festwiese_im_Britzer_Garten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tulipan.JPG/1200px-Tulipan.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/IBritzer_Garten_denis_apel.JPG/1200px-IBritzer_Garten_denis_apel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg/1200px-Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg
+image_srcset:
+  Schatten der Sonnenuhr am Kalenderplatz des Britzer Garten in Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg/400px-Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg/800px-Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg/1200px-Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg/1920px-Schatten_der_Sonnenuhr_am_Kalenderplatz_des_Britzer_Garten_in_Berlin.jpg
+  Festwiese im Britzer Garten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/400px-Festwiese_im_Britzer_Garten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/800px-Festwiese_im_Britzer_Garten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1200px-Festwiese_im_Britzer_Garten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Festwiese_im_Britzer_Garten.JPG/1920px-Festwiese_im_Britzer_Garten.JPG
+  Tulipan.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tulipan.JPG/400px-Tulipan.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tulipan.JPG/800px-Tulipan.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tulipan.JPG/1200px-Tulipan.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tulipan.JPG/1920px-Tulipan.JPG
+  IBritzer Garten denis apel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/IBritzer_Garten_denis_apel.JPG/400px-IBritzer_Garten_denis_apel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/IBritzer_Garten_denis_apel.JPG/800px-IBritzer_Garten_denis_apel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/IBritzer_Garten_denis_apel.JPG/1200px-IBritzer_Garten_denis_apel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/IBritzer_Garten_denis_apel.JPG/1920px-IBritzer_Garten_denis_apel.JPG
+  Britzer Garten - Tulipan 2013 - geo.hlipp.de - 36162.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg/400px-Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg/800px-Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg/1200px-Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg/1920px-Britzer_Garten_-_Tulipan_2013_-_geo.hlipp.de_-_36162.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 14.2044
 
 # Images
 images:
-  - "/images-sites/loecknitz-castle/01-6a94aaed-800w.webp"
+  - "/images/loecknitz-castle/01-6a94aaed-800w.webp"
 ---
 
 ## Overview

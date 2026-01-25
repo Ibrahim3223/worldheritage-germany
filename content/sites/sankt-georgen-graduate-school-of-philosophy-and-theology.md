@@ -13,7 +13,7 @@ regions:
 latitude: 50.09848
 longitude: 8.712
 images:
-  - "/images-sites/sankt-georgen-graduate-school-of-philosophy-and-theology/01-6d1d161a-800w.webp"
+  - "/images/sankt-georgen-graduate-school-of-philosophy-and-theology/01-6d1d161a-800w.webp"
 ---
 
 ## Overview

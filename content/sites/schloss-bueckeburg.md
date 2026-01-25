@@ -13,7 +13,7 @@ regions:
 latitude: 52.2589
 longitude: 9.04361
 images:
-  - "/images-sites/schloss-bueckeburg/01-af310b45-800w.webp"
+  - "/images/schloss-bueckeburg/01-af310b45-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.6341194
 longitude: 8.3664503
 images:
-  - "/images-sites/levysche-synagoge-worms/01-cff30d34-800w.webp"
+  - "/images/levysche-synagoge-worms/01-cff30d34-800w.webp"
 ---
 
 ## Overview

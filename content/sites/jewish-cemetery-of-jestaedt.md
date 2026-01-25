@@ -1,19 +1,49 @@
 ---
-title: "Jewish Cemetery of Jestädt"
+title: Jewish Cemetery of Jestädt
 date: 2026-01-23
 draft: false
-description: "cemetery in Meinhard, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Meinhard, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.223888888
 longitude: 10.015
 images:
-  - "/images-sites/jewish-cemetery-of-jestaedt/01-b1103e62-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jüdischer_Friedhof_Jestädt_1.jpg/1200px-Jüdischer_Friedhof_Jestädt_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jüdischer_Friedhof_Jestädt_4.jpg/1200px-Jüdischer_Friedhof_Jestädt_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jüdischer_Friedhof_Jestädt_7.jpg/1200px-Jüdischer_Friedhof_Jestädt_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jüdischer_Friedhof_Jestädt_8.jpg/1200px-Jüdischer_Friedhof_Jestädt_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jüdischer_Friedhof_Jestädt_9.jpg/1200px-Jüdischer_Friedhof_Jestädt_9.jpg
+image_srcset:
+  Jüdischer Friedhof Jestädt 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jüdischer_Friedhof_Jestädt_1.jpg/400px-Jüdischer_Friedhof_Jestädt_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jüdischer_Friedhof_Jestädt_1.jpg/800px-Jüdischer_Friedhof_Jestädt_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jüdischer_Friedhof_Jestädt_1.jpg/1200px-Jüdischer_Friedhof_Jestädt_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jüdischer_Friedhof_Jestädt_1.jpg/1920px-Jüdischer_Friedhof_Jestädt_1.jpg
+  Jüdischer Friedhof Jestädt 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jüdischer_Friedhof_Jestädt_4.jpg/400px-Jüdischer_Friedhof_Jestädt_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jüdischer_Friedhof_Jestädt_4.jpg/800px-Jüdischer_Friedhof_Jestädt_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jüdischer_Friedhof_Jestädt_4.jpg/1200px-Jüdischer_Friedhof_Jestädt_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jüdischer_Friedhof_Jestädt_4.jpg/1920px-Jüdischer_Friedhof_Jestädt_4.jpg
+  Jüdischer Friedhof Jestädt 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jüdischer_Friedhof_Jestädt_7.jpg/400px-Jüdischer_Friedhof_Jestädt_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jüdischer_Friedhof_Jestädt_7.jpg/800px-Jüdischer_Friedhof_Jestädt_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jüdischer_Friedhof_Jestädt_7.jpg/1200px-Jüdischer_Friedhof_Jestädt_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jüdischer_Friedhof_Jestädt_7.jpg/1920px-Jüdischer_Friedhof_Jestädt_7.jpg
+  Jüdischer Friedhof Jestädt 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jüdischer_Friedhof_Jestädt_8.jpg/400px-Jüdischer_Friedhof_Jestädt_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jüdischer_Friedhof_Jestädt_8.jpg/800px-Jüdischer_Friedhof_Jestädt_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jüdischer_Friedhof_Jestädt_8.jpg/1200px-Jüdischer_Friedhof_Jestädt_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jüdischer_Friedhof_Jestädt_8.jpg/1920px-Jüdischer_Friedhof_Jestädt_8.jpg
+  Jüdischer Friedhof Jestädt 9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jüdischer_Friedhof_Jestädt_9.jpg/400px-Jüdischer_Friedhof_Jestädt_9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jüdischer_Friedhof_Jestädt_9.jpg/800px-Jüdischer_Friedhof_Jestädt_9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jüdischer_Friedhof_Jestädt_9.jpg/1200px-Jüdischer_Friedhof_Jestädt_9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jüdischer_Friedhof_Jestädt_9.jpg/1920px-Jüdischer_Friedhof_Jestädt_9.jpg
 ---
 
 ## Overview

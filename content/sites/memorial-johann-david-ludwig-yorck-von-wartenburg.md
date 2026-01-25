@@ -13,9 +13,9 @@ regions:
 latitude: 52.516599163
 longitude: 13.395906093
 images:
-  - "/images-sites/memorial-johann-david-ludwig-yorck-von-wartenburg/01-8da4b654-800w.webp"
-  - "/images-sites/memorial-johann-david-ludwig-yorck-von-wartenburg/02-229bb622-800w.webp"
-  - "/images-sites/memorial-johann-david-ludwig-yorck-von-wartenburg/03-b61dcf8b-800w.webp"
+  - "/images/memorial-johann-david-ludwig-yorck-von-wartenburg/01-8da4b654-800w.webp"
+  - "/images/memorial-johann-david-ludwig-yorck-von-wartenburg/02-229bb622-800w.webp"
+  - "/images/memorial-johann-david-ludwig-yorck-von-wartenburg/03-b61dcf8b-800w.webp"
 ---
 
 ## Overview

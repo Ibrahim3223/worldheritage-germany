@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten Krefeld"
+title: Botanischer Garten Krefeld
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3325
 longitude: 6.60306
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-krefeld/01-889741c9-800w.webp"
-  - "/images-sites/botanischer-garten-krefeld/02-b5e4a957-800w.webp"
-  - "/images-sites/botanischer-garten-krefeld/03-75dc6cfa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg/1200px-2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Krefeld,_Botanischer_Garten_(28).jpg/1200px-Krefeld,_Botanischer_Garten_(28).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg/1200px-2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aeonium_undulatum_P1050463.JPG/1200px-Aeonium_undulatum_P1050463.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Krefeld_botanischer_Garten_PICT1742.JPG/1200px-Krefeld_botanischer_Garten_PICT1742.JPG
+image_srcset:
+  2021 07 29 Botanischer Garten Krefeld Eingangsbereich (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg/400px-2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg/800px-2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg/1200px-2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg/1920px-2021_07_29_Botanischer_Garten_Krefeld_Eingangsbereich_(1).jpg
+  Krefeld, Botanischer Garten (28).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Krefeld,_Botanischer_Garten_(28).jpg/400px-Krefeld,_Botanischer_Garten_(28).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Krefeld,_Botanischer_Garten_(28).jpg/800px-Krefeld,_Botanischer_Garten_(28).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Krefeld,_Botanischer_Garten_(28).jpg/1200px-Krefeld,_Botanischer_Garten_(28).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Krefeld,_Botanischer_Garten_(28).jpg/1920px-Krefeld,_Botanischer_Garten_(28).jpg
+  2021 07 29 Botanischer Garten Krefeld Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg/400px-2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg/800px-2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg/1200px-2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg/1920px-2021_07_29_Botanischer_Garten_Krefeld_Eingang.jpg
+  Aeonium undulatum P1050463.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aeonium_undulatum_P1050463.JPG/400px-Aeonium_undulatum_P1050463.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aeonium_undulatum_P1050463.JPG/800px-Aeonium_undulatum_P1050463.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aeonium_undulatum_P1050463.JPG/1200px-Aeonium_undulatum_P1050463.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aeonium_undulatum_P1050463.JPG/1920px-Aeonium_undulatum_P1050463.JPG
+  Krefeld botanischer Garten PICT1742.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Krefeld_botanischer_Garten_PICT1742.JPG/400px-Krefeld_botanischer_Garten_PICT1742.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Krefeld_botanischer_Garten_PICT1742.JPG/800px-Krefeld_botanischer_Garten_PICT1742.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Krefeld_botanischer_Garten_PICT1742.JPG/1200px-Krefeld_botanischer_Garten_PICT1742.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Krefeld_botanischer_Garten_PICT1742.JPG/1920px-Krefeld_botanischer_Garten_PICT1742.JPG
 ---
 
 ## Overview

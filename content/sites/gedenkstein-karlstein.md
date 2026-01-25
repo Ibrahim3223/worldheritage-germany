@@ -1,19 +1,49 @@
 ---
-title: "Gedenkstein Karlstein"
+title: Gedenkstein Karlstein
 date: 2026-01-23
 draft: false
-description: "monument in Weinstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Weinstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7903
 longitude: 9.37583
 images:
-  - "/images-sites/gedenkstein-karlstein/01-55e7dd83-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grillstelle_Karlstein_-_panoramio.jpg/1200px-Grillstelle_Karlstein_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1200px-Karlstein_restauriert.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg/1200px-Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg/1200px-Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg/1200px-Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg
+image_srcset:
+  Grillstelle Karlstein - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grillstelle_Karlstein_-_panoramio.jpg/400px-Grillstelle_Karlstein_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grillstelle_Karlstein_-_panoramio.jpg/800px-Grillstelle_Karlstein_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grillstelle_Karlstein_-_panoramio.jpg/1200px-Grillstelle_Karlstein_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grillstelle_Karlstein_-_panoramio.jpg/1920px-Grillstelle_Karlstein_-_panoramio.jpg
+  Karlstein restauriert.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/400px-Karlstein_restauriert.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/800px-Karlstein_restauriert.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1200px-Karlstein_restauriert.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Karlstein_restauriert.JPG/1920px-Karlstein_restauriert.JPG
+  Gedenkstein Karlstein - Strümpfelbach-1793-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg/400px-Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg/800px-Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg/1200px-Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg/1920px-Gedenkstein_Karlstein_-_Strümpfelbach-1793-2.jpg
+  Landappbw 303460 1824 Karlstein Oberhalb Strümpfelbach und Endersbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg/400px-Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg/800px-Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg/1200px-Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg/1920px-Landappbw_303460_1824_Karlstein_Oberhalb_Strümpfelbach_und_Endersbach.jpg
+  Gedenkstein Karlstein - Strümpfelbach-1973-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg/400px-Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg/800px-Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg/1200px-Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg/1920px-Gedenkstein_Karlstein_-_Strümpfelbach-1973-2.jpg
 ---
 
 ## Overview

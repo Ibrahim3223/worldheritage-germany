@@ -1,19 +1,49 @@
 ---
-title: "Calauer Schweiz"
+title: Calauer Schweiz
 date: 2026-01-23
 draft: false
-description: "nature reserve in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.705061111
 longitude: 13.957411111
 images:
-  - "/images-sites/calauer-schweiz/01-957674ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg/1200px-Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg/1200px-Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg/1200px-Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Calauer_Schweiz_04.jpg/1200px-Naturschutzgebiet_Calauer_Schweiz_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Luckaitztaler_Ziegelturm.jpg/1200px-Luckaitztaler_Ziegelturm.jpg
+image_srcset:
+  Cabel Naturschutzgebiet Calauer Schweiz 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg/400px-Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg/800px-Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg/1200px-Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg/1920px-Cabel_Naturschutzgebiet_Calauer_Schweiz_01.jpg
+  Cabel Naturschutzgebiet Calauer Schweiz 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg/400px-Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg/800px-Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg/1200px-Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg/1920px-Cabel_Naturschutzgebiet_Calauer_Schweiz_03.jpg
+  Cabel Naturschutzgebiet Calauer Schweiz 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg/400px-Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg/800px-Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg/1200px-Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg/1920px-Cabel_Naturschutzgebiet_Calauer_Schweiz_02.jpg
+  Naturschutzgebiet Calauer Schweiz 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Calauer_Schweiz_04.jpg/400px-Naturschutzgebiet_Calauer_Schweiz_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Calauer_Schweiz_04.jpg/800px-Naturschutzgebiet_Calauer_Schweiz_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Calauer_Schweiz_04.jpg/1200px-Naturschutzgebiet_Calauer_Schweiz_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naturschutzgebiet_Calauer_Schweiz_04.jpg/1920px-Naturschutzgebiet_Calauer_Schweiz_04.jpg
+  Luckaitztaler Ziegelturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Luckaitztaler_Ziegelturm.jpg/400px-Luckaitztaler_Ziegelturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Luckaitztaler_Ziegelturm.jpg/800px-Luckaitztaler_Ziegelturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Luckaitztaler_Ziegelturm.jpg/1200px-Luckaitztaler_Ziegelturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Luckaitztaler_Ziegelturm.jpg/1920px-Luckaitztaler_Ziegelturm.jpg
 ---
 
 ## Overview

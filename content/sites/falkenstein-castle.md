@@ -1,27 +1,49 @@
 ---
-title: "Falkenstein Castle"
+title: Falkenstein Castle
 date: 2026-01-23
 draft: false
-description: "ruin near Gerstetten in Heidenheim district of Baden-Württemberg"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ruin near Gerstetten in Heidenheim district of Baden-Württemberg
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.6011
 longitude: 10.1625
-
-# Images
 images:
-  - "/images-sites/falkenstein-castle/01-22404674-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ruine_Falkenstein_7981.jpg/1200px-Ruine_Falkenstein_7981.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ruine_Falkenstein_8023_Panini_5.jpg/1200px-Ruine_Falkenstein_8023_Panini_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG/1200px-Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Falkenstein-Ruine_(Tudoi61)_1.jpg/1200px-Falkenstein-Ruine_(Tudoi61)_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ruine_Falkenstein_8059.jpg/1200px-Ruine_Falkenstein_8059.jpg
+image_srcset:
+  Ruine Falkenstein 7981.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ruine_Falkenstein_7981.jpg/400px-Ruine_Falkenstein_7981.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ruine_Falkenstein_7981.jpg/800px-Ruine_Falkenstein_7981.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ruine_Falkenstein_7981.jpg/1200px-Ruine_Falkenstein_7981.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ruine_Falkenstein_7981.jpg/1920px-Ruine_Falkenstein_7981.jpg
+  Ruine Falkenstein 8023 Panini 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ruine_Falkenstein_8023_Panini_5.jpg/400px-Ruine_Falkenstein_8023_Panini_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ruine_Falkenstein_8023_Panini_5.jpg/800px-Ruine_Falkenstein_8023_Panini_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ruine_Falkenstein_8023_Panini_5.jpg/1200px-Ruine_Falkenstein_8023_Panini_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ruine_Falkenstein_8023_Panini_5.jpg/1920px-Ruine_Falkenstein_8023_Panini_5.jpg
+  Falkenstein (Niederösterreich) - Burg, Palas und Kapellenturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG/400px-Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG/800px-Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG/1200px-Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG/1920px-Falkenstein_(Niederösterreich)_-_Burg,_Palas_und_Kapellenturm.JPG
+  Falkenstein-Ruine (Tudoi61) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Falkenstein-Ruine_(Tudoi61)_1.jpg/400px-Falkenstein-Ruine_(Tudoi61)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Falkenstein-Ruine_(Tudoi61)_1.jpg/800px-Falkenstein-Ruine_(Tudoi61)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Falkenstein-Ruine_(Tudoi61)_1.jpg/1200px-Falkenstein-Ruine_(Tudoi61)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Falkenstein-Ruine_(Tudoi61)_1.jpg/1920px-Falkenstein-Ruine_(Tudoi61)_1.jpg
+  Ruine Falkenstein 8059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ruine_Falkenstein_8059.jpg/400px-Ruine_Falkenstein_8059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ruine_Falkenstein_8059.jpg/800px-Ruine_Falkenstein_8059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ruine_Falkenstein_8059.jpg/1200px-Ruine_Falkenstein_8059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ruine_Falkenstein_8059.jpg/1920px-Ruine_Falkenstein_8059.jpg
 ---
 
 ## Overview

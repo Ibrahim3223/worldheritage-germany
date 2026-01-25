@@ -1,19 +1,49 @@
 ---
-title: "Dagstuhl Castle"
+title: Dagstuhl Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.5311
 longitude: 6.89639
 images:
-  - "/images-sites/dagstuhl-castle/01-761a97d3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgturm_Burgruine_Dagstuhl.jpg/1200px-Burgturm_Burgruine_Dagstuhl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Luftbild_Burg_Dagstuhl.jpg/1200px-Luftbild_Burg_Dagstuhl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Dagstuhl_aus_der_Vogelperspektive.jpg/1200px-Burg_Dagstuhl_aus_der_Vogelperspektive.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dagstuhl-20051211-20.jpg/1200px-Dagstuhl-20051211-20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BurgruineDagstuhl-20051211-cropped.jpg/1200px-BurgruineDagstuhl-20051211-cropped.jpg
+image_srcset:
+  Burgturm Burgruine Dagstuhl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgturm_Burgruine_Dagstuhl.jpg/400px-Burgturm_Burgruine_Dagstuhl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgturm_Burgruine_Dagstuhl.jpg/800px-Burgturm_Burgruine_Dagstuhl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgturm_Burgruine_Dagstuhl.jpg/1200px-Burgturm_Burgruine_Dagstuhl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burgturm_Burgruine_Dagstuhl.jpg/1920px-Burgturm_Burgruine_Dagstuhl.jpg
+  Luftbild Burg Dagstuhl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Luftbild_Burg_Dagstuhl.jpg/400px-Luftbild_Burg_Dagstuhl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Luftbild_Burg_Dagstuhl.jpg/800px-Luftbild_Burg_Dagstuhl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Luftbild_Burg_Dagstuhl.jpg/1200px-Luftbild_Burg_Dagstuhl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Luftbild_Burg_Dagstuhl.jpg/1920px-Luftbild_Burg_Dagstuhl.jpg
+  Burg Dagstuhl aus der Vogelperspektive.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Dagstuhl_aus_der_Vogelperspektive.jpg/400px-Burg_Dagstuhl_aus_der_Vogelperspektive.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Dagstuhl_aus_der_Vogelperspektive.jpg/800px-Burg_Dagstuhl_aus_der_Vogelperspektive.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Dagstuhl_aus_der_Vogelperspektive.jpg/1200px-Burg_Dagstuhl_aus_der_Vogelperspektive.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burg_Dagstuhl_aus_der_Vogelperspektive.jpg/1920px-Burg_Dagstuhl_aus_der_Vogelperspektive.jpg
+  Dagstuhl-20051211-20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dagstuhl-20051211-20.jpg/400px-Dagstuhl-20051211-20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dagstuhl-20051211-20.jpg/800px-Dagstuhl-20051211-20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dagstuhl-20051211-20.jpg/1200px-Dagstuhl-20051211-20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dagstuhl-20051211-20.jpg/1920px-Dagstuhl-20051211-20.jpg
+  BurgruineDagstuhl-20051211-cropped.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BurgruineDagstuhl-20051211-cropped.jpg/400px-BurgruineDagstuhl-20051211-cropped.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BurgruineDagstuhl-20051211-cropped.jpg/800px-BurgruineDagstuhl-20051211-cropped.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BurgruineDagstuhl-20051211-cropped.jpg/1200px-BurgruineDagstuhl-20051211-cropped.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BurgruineDagstuhl-20051211-cropped.jpg/1920px-BurgruineDagstuhl-20051211-cropped.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burg Olbrück"
+title: Burg Olbrück
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4507
 longitude: 7.16994
 images:
-  - "/images-sites/burg-olbrueck/01-58034265-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg/1200px-Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg/1200px-Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg/1200px-Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Olbrück_025-.jpg/1200px-Burg_Olbrück_025-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olbrueck_Burg_E_270_P1050674_20200717.jpg/1200px-Olbrueck_Burg_E_270_P1050674_20200717.jpg
+image_srcset:
+  Olbrueck Burg NE Torhalle 200 P1050685 20200717.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg/400px-Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg/800px-Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg/1200px-Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg/1920px-Olbrueck_Burg_NE_Torhalle_200_P1050685_20200717.jpg
+  Olbrueck Burg Pallas 290 P1050669 20200717.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg/400px-Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg/800px-Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg/1200px-Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg/1920px-Olbrueck_Burg_Pallas_290_P1050669_20200717.jpg
+  Olbrueck Burg Kapelle SW aussen 25 P1050684 20200717.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg/400px-Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg/800px-Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg/1200px-Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg/1920px-Olbrueck_Burg_Kapelle_SW_aussen_25_P1050684_20200717.jpg
+  Burg Olbrück 025-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Olbrück_025-.jpg/400px-Burg_Olbrück_025-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Olbrück_025-.jpg/800px-Burg_Olbrück_025-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Olbrück_025-.jpg/1200px-Burg_Olbrück_025-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Olbrück_025-.jpg/1920px-Burg_Olbrück_025-.jpg
+  Olbrueck Burg E 270 P1050674 20200717.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olbrueck_Burg_E_270_P1050674_20200717.jpg/400px-Olbrueck_Burg_E_270_P1050674_20200717.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olbrueck_Burg_E_270_P1050674_20200717.jpg/800px-Olbrueck_Burg_E_270_P1050674_20200717.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olbrueck_Burg_E_270_P1050674_20200717.jpg/1200px-Olbrueck_Burg_E_270_P1050674_20200717.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Olbrueck_Burg_E_270_P1050674_20200717.jpg/1920px-Olbrueck_Burg_E_270_P1050674_20200717.jpg
 ---
 
 ## Overview

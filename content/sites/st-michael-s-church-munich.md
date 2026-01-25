@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q265745"
 description: "St. Michaels Church, located in the heart of Munich, is a remarkable example of Renaissance architecture and holds a significant place in Bavarias relig..."
 images:
-  - "/images-sites/st-michael-s-church-munich/01-dbf16674-1920w.webp"
-  - "/images-sites/st-michael-s-church-munich/02-739b22ad-1920w.webp"
-  - "/images-sites/st-michael-s-church-munich/03-34ace7be-1920w.webp"
+  - "/images/st-michael-s-church-munich/01-dbf16674-1920w.webp"
+  - "/images/st-michael-s-church-munich/02-739b22ad-1920w.webp"
+  - "/images/st-michael-s-church-munich/03-34ace7be-1920w.webp"
 ---
 
 ## Overview

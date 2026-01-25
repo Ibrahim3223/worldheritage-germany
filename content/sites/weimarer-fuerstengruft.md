@@ -13,7 +13,7 @@ regions:
 latitude: 50.972586111
 longitude: 11.325644444
 images:
-  - "/images-sites/weimarer-fuerstengruft/01-9964d7df-800w.webp"
+  - "/images/weimarer-fuerstengruft/01-9964d7df-800w.webp"
 ---
 
 ## Overview

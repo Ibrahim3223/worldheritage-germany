@@ -13,9 +13,9 @@ regions:
 latitude: 51.0752
 longitude: 13.7489
 images:
-  - "/images-sites/theaterruine-st-pauli/01-5b9847dc-800w.webp"
-  - "/images-sites/theaterruine-st-pauli/02-ec78e7c8-800w.webp"
-  - "/images-sites/theaterruine-st-pauli/03-856e0e29-800w.webp"
+  - "/images/theaterruine-st-pauli/01-5b9847dc-800w.webp"
+  - "/images/theaterruine-st-pauli/02-ec78e7c8-800w.webp"
+  - "/images/theaterruine-st-pauli/03-856e0e29-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Achtermannshöhe"
+title: Achtermannshöhe
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7608403
 longitude: 10.5691682
 images:
-  - "/images-sites/achtermannshoehe/01-d4c3c636-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zeichen_des_Klimawandels_im_Oberharz.jpg/1200px-Zeichen_des_Klimawandels_im_Oberharz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png/1200px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png/1200px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brocken_and_the_Brocken_Railway.png/1200px-Brocken_and_the_Brocken_Railway.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/AchtermannKuppe.jpg/1200px-AchtermannKuppe.jpg
+image_srcset:
+  Zeichen des Klimawandels im Oberharz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zeichen_des_Klimawandels_im_Oberharz.jpg/400px-Zeichen_des_Klimawandels_im_Oberharz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zeichen_des_Klimawandels_im_Oberharz.jpg/800px-Zeichen_des_Klimawandels_im_Oberharz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zeichen_des_Klimawandels_im_Oberharz.jpg/1200px-Zeichen_des_Klimawandels_im_Oberharz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Zeichen_des_Klimawandels_im_Oberharz.jpg/1920px-Zeichen_des_Klimawandels_im_Oberharz.jpg
+  Achtermannshöhe in the Oberharz (BR 006) with a view of the west side of the Harz.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png/400px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png/800px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png/1200px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png/1920px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_of_the_west_side_of_the_Harz.png
+  Achtermannshöhe in the Oberharz (BR 006) with a view on the Harz.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png/400px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png/800px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png/1200px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png/1920px-Achtermannshöhe_in_the_Oberharz_(BR_006)_with_a_view_on_the_Harz.png
+  Brocken and the Brocken Railway.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brocken_and_the_Brocken_Railway.png/400px-Brocken_and_the_Brocken_Railway.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brocken_and_the_Brocken_Railway.png/800px-Brocken_and_the_Brocken_Railway.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brocken_and_the_Brocken_Railway.png/1200px-Brocken_and_the_Brocken_Railway.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brocken_and_the_Brocken_Railway.png/1920px-Brocken_and_the_Brocken_Railway.png
+  AchtermannKuppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/AchtermannKuppe.jpg/400px-AchtermannKuppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/AchtermannKuppe.jpg/800px-AchtermannKuppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/AchtermannKuppe.jpg/1200px-AchtermannKuppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/AchtermannKuppe.jpg/1920px-AchtermannKuppe.jpg
 ---
 
 ## Overview

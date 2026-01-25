@@ -13,9 +13,9 @@ regions:
 latitude: 52.519722222
 longitude: 13.268055555
 images:
-  - "/images-sites/wasserturm-westend/01-feed565d-800w.webp"
-  - "/images-sites/wasserturm-westend/02-ec0728a5-800w.webp"
-  - "/images-sites/wasserturm-westend/03-b6e058e4-800w.webp"
+  - "/images/wasserturm-westend/01-feed565d-800w.webp"
+  - "/images/wasserturm-westend/02-ec0728a5-800w.webp"
+  - "/images/wasserturm-westend/03-b6e058e4-800w.webp"
 ---
 
 ## Overview

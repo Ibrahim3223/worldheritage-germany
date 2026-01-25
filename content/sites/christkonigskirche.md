@@ -1,24 +1,51 @@
 ---
-title: "Christkönigskirche"
-site_name: "Christkönigskirche"
-slug: "christkonigskirche"
-region: "Hesse"
-
-# Location
+title: Christkönigskirche
+site_name: Christkönigskirche
+slug: christkonigskirche
+region: Hesse
 latitude: 49.5132
 longitude: 8.66109
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1083934"
-description: "In the heart of Hirschberg an der Bergstraße, Christkönigskirche stands as a remarkable example of modern church architecture. This church, located in t..."
+- church building
+- religious site
+wikidata_id: Q1083934
+description: In the heart of Hirschberg an der Bergstraße, Christkönigskirche stands
+  as a remarkable example of modern church architecture. This church, located in t...
 images:
-  - "/images-sites/christkonigskirche/01-722cbe1e-1920w.webp"
-  - "/images-sites/christkonigskirche/02-9dae8e56-1920w.webp"
-  - "/images-sites/christkonigskirche/03-1af522f1-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Christkönigskirche_Graz_11.jpg/1200px-Christkönigskirche_Graz_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Graz-Christkönig_2924.jpg/1200px-Graz-Christkönig_2924.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Graz-Christkönig_2929.JPG/1200px-Graz-Christkönig_2929.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Graz-Christkönig_2926.jpg/1200px-Graz-Christkönig_2926.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Christkönigskirche_Graz.JPG/1200px-Christkönigskirche_Graz.JPG
+image_srcset:
+  Christkönigskirche Graz 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Christkönigskirche_Graz_11.jpg/400px-Christkönigskirche_Graz_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Christkönigskirche_Graz_11.jpg/800px-Christkönigskirche_Graz_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Christkönigskirche_Graz_11.jpg/1200px-Christkönigskirche_Graz_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Christkönigskirche_Graz_11.jpg/1920px-Christkönigskirche_Graz_11.jpg
+  Graz-Christkönig 2924.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Graz-Christkönig_2924.jpg/400px-Graz-Christkönig_2924.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Graz-Christkönig_2924.jpg/800px-Graz-Christkönig_2924.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Graz-Christkönig_2924.jpg/1200px-Graz-Christkönig_2924.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Graz-Christkönig_2924.jpg/1920px-Graz-Christkönig_2924.jpg
+  Graz-Christkönig 2929.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Graz-Christkönig_2929.JPG/400px-Graz-Christkönig_2929.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Graz-Christkönig_2929.JPG/800px-Graz-Christkönig_2929.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Graz-Christkönig_2929.JPG/1200px-Graz-Christkönig_2929.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Graz-Christkönig_2929.JPG/1920px-Graz-Christkönig_2929.JPG
+  Graz-Christkönig 2926.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Graz-Christkönig_2926.jpg/400px-Graz-Christkönig_2926.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Graz-Christkönig_2926.jpg/800px-Graz-Christkönig_2926.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Graz-Christkönig_2926.jpg/1200px-Graz-Christkönig_2926.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Graz-Christkönig_2926.jpg/1920px-Graz-Christkönig_2926.jpg
+  Christkönigskirche Graz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Christkönigskirche_Graz.JPG/400px-Christkönigskirche_Graz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Christkönigskirche_Graz.JPG/800px-Christkönigskirche_Graz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Christkönigskirche_Graz.JPG/1200px-Christkönigskirche_Graz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Christkönigskirche_Graz.JPG/1920px-Christkönigskirche_Graz.JPG
 ---
 
 ## Overview

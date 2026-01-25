@@ -1,19 +1,49 @@
 ---
-title: "Hohen Neuendorf station"
+title: Hohen Neuendorf station
 date: 2026-01-23
 draft: false
-description: "railway station in Hohen Neuendorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hohen Neuendorf, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6684
 longitude: 13.287
 images:
-  - "/images-sites/hohen-neuendorf-station/01-b4bace9d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg/1200px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg/1200px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg/1200px-Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bf-hohenneuendorf1.JPG/1200px-Bf-hohenneuendorf1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg/1200px-Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Hohen Neuendorf (S01 0092).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg/400px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg/800px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg/1200px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg/1920px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S01_0092).jpg
+  Berlin S-Bahn Bhf Hohen Neuendorf (S08 0068).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg/400px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg/800px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg/1200px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg/1920px-Berlin_S-Bahn_Bhf_Hohen_Neuendorf_(S08_0068).jpg
+  Hohen Neuendorf- Bahnhof Hohen Neuendorf (b Berlin)- Bahnhofsgebäude- Haupteingang 30.7.2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg/400px-Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg/800px-Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg/1200px-Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg/1920px-Hohen_Neuendorf-_Bahnhof_Hohen_Neuendorf_(b_Berlin)-_Bahnhofsgebäude-_Haupteingang_30.7.2012.jpg
+  Bf-hohenneuendorf1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bf-hohenneuendorf1.JPG/400px-Bf-hohenneuendorf1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bf-hohenneuendorf1.JPG/800px-Bf-hohenneuendorf1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bf-hohenneuendorf1.JPG/1200px-Bf-hohenneuendorf1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bf-hohenneuendorf1.JPG/1920px-Bf-hohenneuendorf1.JPG
+  Clp 20141114 3787 Bf Hohen Neuendorf (b Berlin) Asig E.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg/400px-Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg/800px-Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg/1200px-Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg/1920px-Clp_20141114_3787_Bf_Hohen_Neuendorf_(b_Berlin)_Asig_E.jpg
 ---
 
 ## Overview

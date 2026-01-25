@@ -1,20 +1,49 @@
 ---
-title: "Frederick the Great Memorial"
+title: Frederick the Great Memorial
 date: 2026-01-23
 draft: false
-description: "statue at the Charlottenburg Palace in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: statue at the Charlottenburg Palace in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.52062
 longitude: 13.29857
 images:
-  - "/images-sites/frederick-the-great-memorial/01-39336afc-800w.webp"
-  - "/images-sites/frederick-the-great-memorial/03-7245beba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG/1200px-Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg/1200px-Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg/1200px-Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charlottenburg_Friedrich_II.jpg/1200px-Charlottenburg_Friedrich_II.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg/1200px-Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg
+image_srcset:
+  Charlottenburg Palace, Berlin (2015) - 22.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG/400px-Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG/800px-Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG/1200px-Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG/1920px-Charlottenburg_Palace,_Berlin_(2015)_-_22.JPG
+  Friedrich ll. Statue beim Schloss Charlottenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg/400px-Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg/800px-Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg/1200px-Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg/1920px-Friedrich_ll._Statue_beim_Schloss_Charlottenburg.jpg
+  Statue of Frederick the Great in front of Schloss Charlottenburg, Berlin 20130720 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg/400px-Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg/800px-Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg/1200px-Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg/1920px-Statue_of_Frederick_the_Great_in_front_of_Schloss_Charlottenburg,_Berlin_20130720_1.jpg
+  Charlottenburg Friedrich II.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charlottenburg_Friedrich_II.jpg/400px-Charlottenburg_Friedrich_II.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charlottenburg_Friedrich_II.jpg/800px-Charlottenburg_Friedrich_II.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charlottenburg_Friedrich_II.jpg/1200px-Charlottenburg_Friedrich_II.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Charlottenburg_Friedrich_II.jpg/1920px-Charlottenburg_Friedrich_II.jpg
+  Schloss Charlottenburg (Charlottenburg Palace) - geo.hlipp.de - 32020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg/400px-Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg/800px-Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg/1200px-Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg/1920px-Schloss_Charlottenburg_(Charlottenburg_Palace)_-_geo.hlipp.de_-_32020.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.7824
 longitude: 9.9702
 images:
-  - "/images-sites/mineralogisches-museum-wuerzburg/01-7edd5444-800w.webp"
-  - "/images-sites/mineralogisches-museum-wuerzburg/02-727f2501-800w.webp"
-  - "/images-sites/mineralogisches-museum-wuerzburg/03-47341de3-800w.webp"
+  - "/images/mineralogisches-museum-wuerzburg/01-7edd5444-800w.webp"
+  - "/images/mineralogisches-museum-wuerzburg/02-727f2501-800w.webp"
+  - "/images/mineralogisches-museum-wuerzburg/03-47341de3-800w.webp"
 ---
 
 ## Overview

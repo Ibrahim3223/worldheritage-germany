@@ -1,21 +1,49 @@
 ---
-title: "Brocken"
+title: Brocken
 date: 2026-01-23
 draft: false
-description: "highest mountain of the Harz Mountains in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: highest mountain of the Harz Mountains in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7991251
 longitude: 10.6156365
 images:
-  - "/images-sites/brocken/01-ecd8a3a8-800w.webp"
-  - "/images-sites/brocken/02-e6a7ce67-800w.webp"
-  - "/images-sites/brocken/03-02baede3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-10-01_133925_Wernigerode_Brocken.jpg/1200px-2021-10-01_133925_Wernigerode_Brocken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J39_907_Willkommen_auf_dem_Urwaldstieg.jpg/1200px-J39_907_Willkommen_auf_dem_Urwaldstieg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1200px-Brocken-Gipfelbereich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Milseburg-Brocken.jpg/1200px-Milseburg-Brocken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ein_Brocken_am_Brocken.jpg/1200px-Ein_Brocken_am_Brocken.jpg
+image_srcset:
+  2021-10-01 133925 Wernigerode Brocken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-10-01_133925_Wernigerode_Brocken.jpg/400px-2021-10-01_133925_Wernigerode_Brocken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-10-01_133925_Wernigerode_Brocken.jpg/800px-2021-10-01_133925_Wernigerode_Brocken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-10-01_133925_Wernigerode_Brocken.jpg/1200px-2021-10-01_133925_Wernigerode_Brocken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2021-10-01_133925_Wernigerode_Brocken.jpg/1920px-2021-10-01_133925_Wernigerode_Brocken.jpg
+  J39 907 Willkommen auf dem Urwaldstieg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J39_907_Willkommen_auf_dem_Urwaldstieg.jpg/400px-J39_907_Willkommen_auf_dem_Urwaldstieg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J39_907_Willkommen_auf_dem_Urwaldstieg.jpg/800px-J39_907_Willkommen_auf_dem_Urwaldstieg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J39_907_Willkommen_auf_dem_Urwaldstieg.jpg/1200px-J39_907_Willkommen_auf_dem_Urwaldstieg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J39_907_Willkommen_auf_dem_Urwaldstieg.jpg/1920px-J39_907_Willkommen_auf_dem_Urwaldstieg.jpg
+  Brocken-Gipfelbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/400px-Brocken-Gipfelbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/800px-Brocken-Gipfelbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1200px-Brocken-Gipfelbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Brocken-Gipfelbereich.jpg/1920px-Brocken-Gipfelbereich.jpg
+  Milseburg-Brocken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Milseburg-Brocken.jpg/400px-Milseburg-Brocken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Milseburg-Brocken.jpg/800px-Milseburg-Brocken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Milseburg-Brocken.jpg/1200px-Milseburg-Brocken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Milseburg-Brocken.jpg/1920px-Milseburg-Brocken.jpg
+  Ein Brocken am Brocken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ein_Brocken_am_Brocken.jpg/400px-Ein_Brocken_am_Brocken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ein_Brocken_am_Brocken.jpg/800px-Ein_Brocken_am_Brocken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ein_Brocken_am_Brocken.jpg/1200px-Ein_Brocken_am_Brocken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ein_Brocken_am_Brocken.jpg/1920px-Ein_Brocken_am_Brocken.jpg
 ---
 
 ## Overview

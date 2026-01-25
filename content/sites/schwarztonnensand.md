@@ -13,7 +13,7 @@ regions:
 latitude: 53.71027778
 longitude: 9.46277778
 images:
-  - "/images-sites/schwarztonnensand/01-32d36394-800w.webp"
+  - "/images/schwarztonnensand/01-32d36394-800w.webp"
 ---
 
 ## Overview

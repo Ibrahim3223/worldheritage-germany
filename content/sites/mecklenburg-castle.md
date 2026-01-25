@@ -21,7 +21,7 @@ longitude: 11.4711
 
 # Images
 images:
-  - "/images-sites/mecklenburg-castle/02-6d1c93bd-800w.webp"
+  - "/images/mecklenburg-castle/02-6d1c93bd-800w.webp"
 ---
 
 ## Overview

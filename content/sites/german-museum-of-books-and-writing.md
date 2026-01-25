@@ -1,19 +1,49 @@
 ---
-title: "German Museum of Books and Writing"
+title: German Museum of Books and Writing
 date: 2026-01-23
 draft: false
-description: "museum in Leipzig, Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Leipzig, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.32215556
 longitude: 12.39658056
 images:
-  - "/images-sites/german-museum-of-books-and-writing/01-4eaa72d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/1200px-DNB2012.JPG
+image_srcset:
+  Deutsches Buch- und Schriftmuseum – Gebäude 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg/400px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg/800px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg/1920px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_05.jpg
+  Deutsches Buch- und Schriftmuseum – Gebäude 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg/400px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg/800px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg/1920px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_06.jpg
+  Deutsches Buch- und Schriftmuseum – Gebäude 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg/400px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg/800px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg/1920px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_10.jpg
+  Deutsches Buch- und Schriftmuseum – Gebäude 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg/400px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg/800px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg/1200px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg/1920px-Deutsches_Buch-_und_Schriftmuseum_–_Gebäude_12.jpg
+  DNB2012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/400px-DNB2012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/800px-DNB2012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/1200px-DNB2012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DNB2012.JPG/1920px-DNB2012.JPG
 ---
 
 ## Overview

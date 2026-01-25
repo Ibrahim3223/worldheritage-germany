@@ -1,19 +1,49 @@
 ---
-title: "Granitz Hunting Lodge"
+title: Granitz Hunting Lodge
 date: 2026-01-23
 draft: false
-description: "castle on Rugia"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle on Rugia
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.380555555
 longitude: 13.627222222
 images:
-  - "/images-sites/granitz-hunting-lodge/01-5db53faf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/1200px-Jagdschloss_Granitz_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jagdschloss_Granitz_Speisezimmer.jpg/1200px-Jagdschloss_Granitz_Speisezimmer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rügen_asv2022-08_img37_Granitz.jpg/1200px-Rügen_asv2022-08_img37_Granitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg/1200px-Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg/1200px-Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg
+image_srcset:
+  Jagdschloss Granitz 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/400px-Jagdschloss_Granitz_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/800px-Jagdschloss_Granitz_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/1200px-Jagdschloss_Granitz_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jagdschloss_Granitz_06.jpg/1920px-Jagdschloss_Granitz_06.jpg
+  Jagdschloss Granitz Speisezimmer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jagdschloss_Granitz_Speisezimmer.jpg/400px-Jagdschloss_Granitz_Speisezimmer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jagdschloss_Granitz_Speisezimmer.jpg/800px-Jagdschloss_Granitz_Speisezimmer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jagdschloss_Granitz_Speisezimmer.jpg/1200px-Jagdschloss_Granitz_Speisezimmer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jagdschloss_Granitz_Speisezimmer.jpg/1920px-Jagdschloss_Granitz_Speisezimmer.jpg
+  Rügen asv2022-08 img37 Granitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rügen_asv2022-08_img37_Granitz.jpg/400px-Rügen_asv2022-08_img37_Granitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rügen_asv2022-08_img37_Granitz.jpg/800px-Rügen_asv2022-08_img37_Granitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rügen_asv2022-08_img37_Granitz.jpg/1200px-Rügen_asv2022-08_img37_Granitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rügen_asv2022-08_img37_Granitz.jpg/1920px-Rügen_asv2022-08_img37_Granitz.jpg
+  Binz, Jagdschloss Granitz -- 2009 -- 1316.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg/400px-Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg/800px-Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg/1200px-Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg/1920px-Binz,_Jagdschloss_Granitz_--_2009_--_1316.jpg
+  Jagdschloss Granitz auf Rügen 29102018 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg/400px-Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg/800px-Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg/1200px-Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg/1920px-Jagdschloss_Granitz_auf_Rügen_29102018_03.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Botanika"
+title: Botanika
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.0936
 longitude: 8.88492
-
-# Images
 images:
-  - "/images-sites/botanika/01-c8143468-800w.webp"
-  - "/images-sites/botanika/02-0957ca60-800w.webp"
-  - "/images-sites/botanika/03-037e5b24-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yucca_gloriosa_(Yucca)_-_83.jpg/1200px-Yucca_gloriosa_(Yucca)_-_83.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pelargonium_zonale_(Geraniaceae).jpg/1200px-Pelargonium_zonale_(Geraniaceae).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zygopetalum_'Dunkle_Blüte'.jpg/1200px-Zygopetalum_'Dunkle_Blüte'.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/1200px-Botanika_Bremen_(2014)-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diversity_of_plants_image_version_q.png/1200px-Diversity_of_plants_image_version_q.png
+image_srcset:
+  Yucca gloriosa (Yucca) - 83.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yucca_gloriosa_(Yucca)_-_83.jpg/400px-Yucca_gloriosa_(Yucca)_-_83.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yucca_gloriosa_(Yucca)_-_83.jpg/800px-Yucca_gloriosa_(Yucca)_-_83.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yucca_gloriosa_(Yucca)_-_83.jpg/1200px-Yucca_gloriosa_(Yucca)_-_83.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Yucca_gloriosa_(Yucca)_-_83.jpg/1920px-Yucca_gloriosa_(Yucca)_-_83.jpg
+  Pelargonium zonale (Geraniaceae).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pelargonium_zonale_(Geraniaceae).jpg/400px-Pelargonium_zonale_(Geraniaceae).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pelargonium_zonale_(Geraniaceae).jpg/800px-Pelargonium_zonale_(Geraniaceae).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pelargonium_zonale_(Geraniaceae).jpg/1200px-Pelargonium_zonale_(Geraniaceae).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pelargonium_zonale_(Geraniaceae).jpg/1920px-Pelargonium_zonale_(Geraniaceae).jpg
+  Zygopetalum 'Dunkle Blüte'.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zygopetalum_'Dunkle_Blüte'.jpg/400px-Zygopetalum_'Dunkle_Blüte'.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zygopetalum_'Dunkle_Blüte'.jpg/800px-Zygopetalum_'Dunkle_Blüte'.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zygopetalum_'Dunkle_Blüte'.jpg/1200px-Zygopetalum_'Dunkle_Blüte'.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zygopetalum_'Dunkle_Blüte'.jpg/1920px-Zygopetalum_'Dunkle_Blüte'.jpg
+  Botanika Bremen (2014)-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/400px-Botanika_Bremen_(2014)-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/800px-Botanika_Bremen_(2014)-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/1200px-Botanika_Bremen_(2014)-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botanika_Bremen_(2014)-01.jpg/1920px-Botanika_Bremen_(2014)-01.jpg
+  Diversity of plants image version q.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diversity_of_plants_image_version_q.png/400px-Diversity_of_plants_image_version_q.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diversity_of_plants_image_version_q.png/800px-Diversity_of_plants_image_version_q.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diversity_of_plants_image_version_q.png/1200px-Diversity_of_plants_image_version_q.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Diversity_of_plants_image_version_q.png/1920px-Diversity_of_plants_image_version_q.png
 ---
 
 ## Overview

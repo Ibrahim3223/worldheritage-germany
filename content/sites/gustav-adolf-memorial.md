@@ -1,20 +1,49 @@
 ---
-title: "Gustav Adolf Memorial"
+title: Gustav Adolf Memorial
 date: 2026-01-23
 draft: false
-description: "monument in Lützen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Lützen, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.26777778
 longitude: 12.15666667
 images:
-  - "/images-sites/gustav-adolf-memorial/01-bb1bdda2-800w.webp"
-  - "/images-sites/gustav-adolf-memorial/03-410ed0e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg/1200px-Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lützen_Schinkelbaldachin1837.JPG/1200px-Lützen_Schinkelbaldachin1837.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lützen-Tafel.jpg/1200px-Lützen-Tafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gustav-Adolf-Luetzen.jpg/1200px-Gustav-Adolf-Luetzen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lützen_Battle_Memorial.jpg/1200px-Lützen_Battle_Memorial.jpg
+image_srcset:
+  Lützen, Gustav-Adolf-Gedenkstätte, der Schinkel-Baldachin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg/400px-Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg/800px-Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg/1200px-Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg/1920px-Lützen,_Gustav-Adolf-Gedenkstätte,_der_Schinkel-Baldachin.jpg
+  Lützen Schinkelbaldachin1837.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lützen_Schinkelbaldachin1837.JPG/400px-Lützen_Schinkelbaldachin1837.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lützen_Schinkelbaldachin1837.JPG/800px-Lützen_Schinkelbaldachin1837.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lützen_Schinkelbaldachin1837.JPG/1200px-Lützen_Schinkelbaldachin1837.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lützen_Schinkelbaldachin1837.JPG/1920px-Lützen_Schinkelbaldachin1837.JPG
+  Lützen-Tafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lützen-Tafel.jpg/400px-Lützen-Tafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lützen-Tafel.jpg/800px-Lützen-Tafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lützen-Tafel.jpg/1200px-Lützen-Tafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lützen-Tafel.jpg/1920px-Lützen-Tafel.jpg
+  Gustav-Adolf-Luetzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gustav-Adolf-Luetzen.jpg/400px-Gustav-Adolf-Luetzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gustav-Adolf-Luetzen.jpg/800px-Gustav-Adolf-Luetzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gustav-Adolf-Luetzen.jpg/1200px-Gustav-Adolf-Luetzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gustav-Adolf-Luetzen.jpg/1920px-Gustav-Adolf-Luetzen.jpg
+  Lützen Battle Memorial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lützen_Battle_Memorial.jpg/400px-Lützen_Battle_Memorial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lützen_Battle_Memorial.jpg/800px-Lützen_Battle_Memorial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lützen_Battle_Memorial.jpg/1200px-Lützen_Battle_Memorial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lützen_Battle_Memorial.jpg/1920px-Lützen_Battle_Memorial.jpg
 ---
 
 ## Overview

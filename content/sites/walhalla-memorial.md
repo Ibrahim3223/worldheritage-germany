@@ -13,7 +13,7 @@ regions:
 latitude: 49.031486111
 longitude: 12.224088888
 images:
-  - "/images-sites/walhalla-memorial/01-6e115dbc-800w.webp"
+  - "/images/walhalla-memorial/01-6e115dbc-800w.webp"
 ---
 
 ## Overview

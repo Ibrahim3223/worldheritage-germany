@@ -1,19 +1,49 @@
 ---
-title: "Hohe Kisten"
+title: Hohe Kisten
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.561944444
 longitude: 11.209166666
 images:
-  - "/images-sites/hohe-kisten/01-a05667d5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg/1200px-Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PanoramaHoherPeissenbergWinter2009.jpg/1200px-PanoramaHoherPeissenbergWinter2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Murnauer_Moos_GO-2.jpg/1200px-Murnauer_Moos_GO-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hohen_Kisten.jpg/1200px-Hohen_Kisten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hohen_Kisten_sued.jpg/1200px-Hohen_Kisten_sued.jpg
+image_srcset:
+  Blick vom "Hohe Kisten" zur "Soinergruppe" vorne links das "Platteneck" (24777315170).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg/400px-Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg/800px-Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg/1200px-Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg/1920px-Blick_vom_"Hohe_Kisten"_zur_"Soinergruppe"_vorne_links_das_"Platteneck"_(24777315170).jpg
+  PanoramaHoherPeissenbergWinter2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PanoramaHoherPeissenbergWinter2009.jpg/400px-PanoramaHoherPeissenbergWinter2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PanoramaHoherPeissenbergWinter2009.jpg/800px-PanoramaHoherPeissenbergWinter2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PanoramaHoherPeissenbergWinter2009.jpg/1200px-PanoramaHoherPeissenbergWinter2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PanoramaHoherPeissenbergWinter2009.jpg/1920px-PanoramaHoherPeissenbergWinter2009.jpg
+  Murnauer Moos GO-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Murnauer_Moos_GO-2.jpg/400px-Murnauer_Moos_GO-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Murnauer_Moos_GO-2.jpg/800px-Murnauer_Moos_GO-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Murnauer_Moos_GO-2.jpg/1200px-Murnauer_Moos_GO-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Murnauer_Moos_GO-2.jpg/1920px-Murnauer_Moos_GO-2.jpg
+  Hohen Kisten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hohen_Kisten.jpg/400px-Hohen_Kisten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hohen_Kisten.jpg/800px-Hohen_Kisten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hohen_Kisten.jpg/1200px-Hohen_Kisten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hohen_Kisten.jpg/1920px-Hohen_Kisten.jpg
+  Hohen Kisten sued.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hohen_Kisten_sued.jpg/400px-Hohen_Kisten_sued.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hohen_Kisten_sued.jpg/800px-Hohen_Kisten_sued.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hohen_Kisten_sued.jpg/1200px-Hohen_Kisten_sued.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hohen_Kisten_sued.jpg/1920px-Hohen_Kisten_sued.jpg
 ---
 
 ## Overview

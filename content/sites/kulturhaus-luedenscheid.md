@@ -13,9 +13,9 @@ regions:
 latitude: 51.2144
 longitude: 7.6317
 images:
-  - "/images-sites/kulturhaus-luedenscheid/01-9bbfdb52-800w.webp"
-  - "/images-sites/kulturhaus-luedenscheid/02-8f16a143-800w.webp"
-  - "/images-sites/kulturhaus-luedenscheid/03-9cf081d2-800w.webp"
+  - "/images/kulturhaus-luedenscheid/01-9bbfdb52-800w.webp"
+  - "/images/kulturhaus-luedenscheid/02-8f16a143-800w.webp"
+  - "/images/kulturhaus-luedenscheid/03-9cf081d2-800w.webp"
 ---
 
 ## Overview

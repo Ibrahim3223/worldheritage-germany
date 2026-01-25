@@ -1,19 +1,49 @@
 ---
-title: "Honigbuck"
+title: Honigbuck
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.997777777
 longitude: 7.7625
 images:
-  - "/images-sites/honigbuck/01-0532bb29-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg/1200px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg/1200px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg/1200px-Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Honigbuck_(Naturschutzgebiet)_01.jpg/1200px-Honigbuck_(Naturschutzgebiet)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honigbuck_(Naturschutzgebiet)_02.jpg/1200px-Honigbuck_(Naturschutzgebiet)_02.jpg
+image_srcset:
+  Blühende Märzenbecher am Honigbuck im Freiburger Mooswald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg/400px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg/800px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg/1200px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg/1920px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald.jpg
+  Blühende Märzenbecher am Honigbuck im Freiburger Mooswald 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg/400px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg/800px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg/1200px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg/1920px-Blühende_Märzenbecher_am_Honigbuck_im_Freiburger_Mooswald_2.jpg
+  Märzenbecher und Efeu am Honigbuck im Freiburger Mooswald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg/400px-Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg/800px-Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg/1200px-Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg/1920px-Märzenbecher_und_Efeu_am_Honigbuck_im_Freiburger_Mooswald.jpg
+  Honigbuck (Naturschutzgebiet) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Honigbuck_(Naturschutzgebiet)_01.jpg/400px-Honigbuck_(Naturschutzgebiet)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Honigbuck_(Naturschutzgebiet)_01.jpg/800px-Honigbuck_(Naturschutzgebiet)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Honigbuck_(Naturschutzgebiet)_01.jpg/1200px-Honigbuck_(Naturschutzgebiet)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Honigbuck_(Naturschutzgebiet)_01.jpg/1920px-Honigbuck_(Naturschutzgebiet)_01.jpg
+  Honigbuck (Naturschutzgebiet) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honigbuck_(Naturschutzgebiet)_02.jpg/400px-Honigbuck_(Naturschutzgebiet)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honigbuck_(Naturschutzgebiet)_02.jpg/800px-Honigbuck_(Naturschutzgebiet)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honigbuck_(Naturschutzgebiet)_02.jpg/1200px-Honigbuck_(Naturschutzgebiet)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Honigbuck_(Naturschutzgebiet)_02.jpg/1920px-Honigbuck_(Naturschutzgebiet)_02.jpg
 ---
 
 ## Overview

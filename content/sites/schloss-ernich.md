@@ -13,8 +13,8 @@ regions:
 latitude: 50.5964
 longitude: 7.2048
 images:
-  - "/images-sites/schloss-ernich/02-261843a3-800w.webp"
-  - "/images-sites/schloss-ernich/03-418877a6-800w.webp"
+  - "/images/schloss-ernich/02-261843a3-800w.webp"
+  - "/images/schloss-ernich/03-418877a6-800w.webp"
 ---
 
 ## Overview

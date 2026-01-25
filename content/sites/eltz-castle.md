@@ -1,27 +1,49 @@
 ---
-title: "Eltz Castle"
+title: Eltz Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.205
 longitude: 7.336666666
-
-# Images
 images:
-  - "/images-sites/eltz-castle/01-8d29345a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1200px-Burg_Eltz_am_frühen_Morgen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg/1200px-00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg/1200px-Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Schloss Eltz - 991082896089705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg/400px-Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg/800px-Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg/1920px-Zentralbibliothek_Zürich_-_Schloss_Eltz_-_991082896089705501.jpg
+  Zentralbibliothek Zürich - Schloss Elz - 991150073959705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg/400px-Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg/800px-Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg/1920px-Zentralbibliothek_Zürich_-_Schloss_Elz_-_991150073959705501.jpg
+  Burg Eltz am frühen Morgen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/400px-Burg_Eltz_am_frühen_Morgen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/800px-Burg_Eltz_am_frühen_Morgen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1200px-Burg_Eltz_am_frühen_Morgen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Eltz_am_frühen_Morgen.jpg/1920px-Burg_Eltz_am_frühen_Morgen.jpg
+  00 4244 Burg Eltz in Rheinland-Pfalz (Wierschen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg/400px-00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg/800px-00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg/1200px-00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg/1920px-00_4244_Burg_Eltz_in_Rheinland-Pfalz_(Wierschen).jpg
+  Wierschem, Burg Eltz, 2012-08 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg/400px-Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg/800px-Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg/1200px-Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg/1920px-Wierschem,_Burg_Eltz,_2012-08_CN-01.jpg
 ---
 
 ## Overview

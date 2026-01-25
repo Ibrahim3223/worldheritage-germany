@@ -1,19 +1,37 @@
 ---
-title: "Herford Abbey"
+title: Herford Abbey
 date: 2026-01-23
 draft: false
-description: "oldest women's religious house in the Duchy of Saxony"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: oldest women's religious house in the Duchy of Saxony
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1131
 longitude: 8.67028
 images:
-  - "/images-sites/herford-abbey/01-0e0ebef9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG/1200px-Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1200px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg/1200px-Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg.png
+image_srcset:
+  Elisabeth Albertine von Anhalt-Dessau 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG/400px-Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG/800px-Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG/1200px-Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG/1920px-Elisabeth_Albertine_von_Anhalt-Dessau_1.JPG
+  Herforder Muenster Turm IMGP2599 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/400px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/800px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1200px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herforder_Muenster_Turm_IMGP2599_wp.jpg/1920px-Herforder_Muenster_Turm_IMGP2599_wp.jpg
+  Grafschaft Ravensberg - Fürstabtei Herford in 1801.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg/400px-Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg/800px-Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg/1200px-Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg/1920px-Grafschaft_Ravensberg_-_Fürstabtei_Herford_in_1801.svg.png
 ---
 
 ## Overview

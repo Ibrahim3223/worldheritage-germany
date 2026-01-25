@@ -13,7 +13,7 @@ regions:
 latitude: 52.415761111
 longitude: 13.159430555
 images:
-  - "/images-sites/kleiner-wannsee/01-34934506-800w.webp"
+  - "/images/kleiner-wannsee/01-34934506-800w.webp"
 ---
 
 ## Overview

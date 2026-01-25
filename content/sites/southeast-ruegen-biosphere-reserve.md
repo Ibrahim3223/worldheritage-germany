@@ -21,7 +21,7 @@ longitude: 13.39
 
 # Images
 images:
-  - "/images-sites/southeast-ruegen-biosphere-reserve/01-df209a34-800w.webp"
+  - "/images/southeast-ruegen-biosphere-reserve/01-df209a34-800w.webp"
 ---
 
 ## Overview

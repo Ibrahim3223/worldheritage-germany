@@ -13,7 +13,7 @@ regions:
 latitude: 54.3025
 longitude: 9.67083
 images:
-  - "/images-sites/rendsburg-station/01-2baa176d-800w.webp"
+  - "/images/rendsburg-station/01-2baa176d-800w.webp"
 ---
 
 ## Overview

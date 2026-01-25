@@ -1,27 +1,25 @@
 ---
-title: "Burg Tombrugg"
+title: Burg Tombrugg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.74384048
 longitude: 8.19028862
-
-# Images
 images:
-  - "/images-sites/burg-tombrugg/01-f650afe0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg/1200px-Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg
+image_srcset:
+  Lageplan der Tombrugg nach Heinz Voellner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg/400px-Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg/800px-Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg/1200px-Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg/1920px-Lageplan_der_Tombrugg_nach_Heinz_Voellner.jpg
 ---
 
 ## Overview

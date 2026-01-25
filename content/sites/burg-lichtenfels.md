@@ -1,29 +1,49 @@
 ---
-title: "Burg Lichtenfels"
+title: Burg Lichtenfels
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1481
 longitude: 8.80167
-
-# Images
 images:
-  - "/images-sites/burg-lichtenfels/01-c92d31b0-800w.webp"
-  - "/images-sites/burg-lichtenfels/02-8ff3a983-800w.webp"
-  - "/images-sites/burg-lichtenfels/03-4fc3d83b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Lichtenfels_in_Dalwigksthal.jpg/1200px-Burg_Lichtenfels_in_Dalwigksthal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png/1200px-Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dalwigksthal_1796.jpg/1200px-Dalwigksthal_1796.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castle_lichtenfels_small.jpg/1200px-Castle_lichtenfels_small.jpg
+image_srcset:
+  Burg Lichtenfels in Dalwigksthal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Lichtenfels_in_Dalwigksthal.jpg/400px-Burg_Lichtenfels_in_Dalwigksthal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Lichtenfels_in_Dalwigksthal.jpg/800px-Burg_Lichtenfels_in_Dalwigksthal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Lichtenfels_in_Dalwigksthal.jpg/1200px-Burg_Lichtenfels_in_Dalwigksthal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Lichtenfels_in_Dalwigksthal.jpg/1920px-Burg_Lichtenfels_in_Dalwigksthal.jpg
+  Aerial image of the Burg Lichtenfels (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Burg_Lichtenfels_(view_from_the_southwest).jpg
+  Alfred Yark - 1830 - Haus Sand und Burg Lichtenfels.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png/400px-Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png/800px-Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png/1200px-Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png/1920px-Alfred_Yark_-_1830_-_Haus_Sand_und_Burg_Lichtenfels.png
+  Dalwigksthal 1796.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dalwigksthal_1796.jpg/400px-Dalwigksthal_1796.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dalwigksthal_1796.jpg/800px-Dalwigksthal_1796.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dalwigksthal_1796.jpg/1200px-Dalwigksthal_1796.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dalwigksthal_1796.jpg/1920px-Dalwigksthal_1796.jpg
+  Castle lichtenfels small.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castle_lichtenfels_small.jpg/400px-Castle_lichtenfels_small.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castle_lichtenfels_small.jpg/800px-Castle_lichtenfels_small.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castle_lichtenfels_small.jpg/1200px-Castle_lichtenfels_small.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castle_lichtenfels_small.jpg/1920px-Castle_lichtenfels_small.jpg
 ---
 
 ## Overview

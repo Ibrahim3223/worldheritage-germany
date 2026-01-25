@@ -13,7 +13,7 @@ regions:
 latitude: 49.3714
 longitude: 11.3272
 images:
-  - "/images-sites/schloss-gruensberg/01-c2eebb7f-800w.webp"
+  - "/images/schloss-gruensberg/01-c2eebb7f-800w.webp"
 ---
 
 ## Overview

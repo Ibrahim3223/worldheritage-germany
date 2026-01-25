@@ -1,21 +1,49 @@
 ---
-title: "House of the Wannsee Conference"
+title: House of the Wannsee Conference
 date: 2026-01-23
 draft: false
-description: "museum in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.433056
 longitude: 13.165556
 images:
-  - "/images-sites/house-of-the-wannsee-conference/01-8af55ada-800w.webp"
-  - "/images-sites/house-of-the-wannsee-conference/02-81c3f7eb-800w.webp"
-  - "/images-sites/house-of-the-wannsee-conference/03-2cc1603b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_der_Wannsee-Konferenz_02-2014.jpg/1200px-Haus_der_Wannsee-Konferenz_02-2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg/1200px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg/1200px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Heydrich-Endlosung.jpg/1200px-Heydrich-Endlosung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WannseeList.jpg/1200px-WannseeList.jpg
+image_srcset:
+  Haus der Wannsee-Konferenz 02-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_der_Wannsee-Konferenz_02-2014.jpg/400px-Haus_der_Wannsee-Konferenz_02-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_der_Wannsee-Konferenz_02-2014.jpg/800px-Haus_der_Wannsee-Konferenz_02-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_der_Wannsee-Konferenz_02-2014.jpg/1200px-Haus_der_Wannsee-Konferenz_02-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_der_Wannsee-Konferenz_02-2014.jpg/1920px-Haus_der_Wannsee-Konferenz_02-2014.jpg
+  Gedenktafel Am Großen Wannsee 58 (Wanns) Carl Becker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg/400px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg/800px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg/1200px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg/1920px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Carl_Becker.jpg
+  Gedenktafel Am Großen Wannsee 58 (Wanns) Nelson Faßbender.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg/400px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg/800px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg/1200px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg/1920px-Gedenktafel_Am_Großen_Wannsee_58_(Wanns)_Nelson_Faßbender.jpg
+  Heydrich-Endlosung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Heydrich-Endlosung.jpg/400px-Heydrich-Endlosung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Heydrich-Endlosung.jpg/800px-Heydrich-Endlosung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Heydrich-Endlosung.jpg/1200px-Heydrich-Endlosung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Heydrich-Endlosung.jpg/1920px-Heydrich-Endlosung.jpg
+  WannseeList.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WannseeList.jpg/400px-WannseeList.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WannseeList.jpg/800px-WannseeList.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WannseeList.jpg/1200px-WannseeList.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WannseeList.jpg/1920px-WannseeList.jpg
 ---
 
 ## Overview

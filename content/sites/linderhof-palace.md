@@ -18,9 +18,9 @@ categories:
 wikidata_id: "Q162052"
 description: "Linderhof Palace, an enchanting gem in Bavaria, Germany, surprises many with its intricate design and lush surroundings. This palace, built in 1870, sta..."
 images:
-  - "/images-sites/linderhof-palace/01-2e92d936-1920w.webp"
-  - "/images-sites/linderhof-palace/02-8c728e7b-1920w.webp"
-  - "/images-sites/linderhof-palace/03-ae22182f-1920w.webp"
+  - "/images/linderhof-palace/01-2e92d936-1920w.webp"
+  - "/images/linderhof-palace/02-8c728e7b-1920w.webp"
+  - "/images/linderhof-palace/03-ae22182f-1920w.webp"
 ---
 
 ## Overview

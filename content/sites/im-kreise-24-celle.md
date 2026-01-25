@@ -1,19 +1,49 @@
 ---
-title: "Im Kreise 24 (Celle)"
+title: Im Kreise 24 (Celle)
 date: 2026-01-23
 draft: false
-description: "synagogue in Celle, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue in Celle, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6228
 longitude: 10.0872
 images:
-  - "/images-sites/im-kreise-24-celle/01-4587a8a2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Celle_Synagogue.jpg/1200px-Celle_Synagogue.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/1200px-Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/1200px-Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Synagoge_Celle_Vorbau.JPG/1200px-Synagoge_Celle_Vorbau.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle,_Synagoge,_2014.09.12.jpg/1200px-Celle,_Synagoge,_2014.09.12.jpg
+image_srcset:
+  Celle Synagogue.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Celle_Synagogue.jpg/400px-Celle_Synagogue.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Celle_Synagogue.jpg/800px-Celle_Synagogue.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Celle_Synagogue.jpg/1200px-Celle_Synagogue.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Celle_Synagogue.jpg/1920px-Celle_Synagogue.jpg
+  Stolperstein Hulda Schickler, 1, Im Kreise 24, Celle, Landkreis Celle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/400px-Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/800px-Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/1200px-Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/1920px-Stolperstein_Hulda_Schickler,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+  Stolperstein Jacob Gerschez, 1, Im Kreise 24, Celle, Landkreis Celle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/400px-Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/800px-Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/1200px-Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg/1920px-Stolperstein_Jacob_Gerschez,_1,_Im_Kreise_24,_Celle,_Landkreis_Celle.jpg
+  Synagoge Celle Vorbau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Synagoge_Celle_Vorbau.JPG/400px-Synagoge_Celle_Vorbau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Synagoge_Celle_Vorbau.JPG/800px-Synagoge_Celle_Vorbau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Synagoge_Celle_Vorbau.JPG/1200px-Synagoge_Celle_Vorbau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Synagoge_Celle_Vorbau.JPG/1920px-Synagoge_Celle_Vorbau.JPG
+  Celle, Synagoge, 2014.09.12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle,_Synagoge,_2014.09.12.jpg/400px-Celle,_Synagoge,_2014.09.12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle,_Synagoge,_2014.09.12.jpg/800px-Celle,_Synagoge,_2014.09.12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle,_Synagoge,_2014.09.12.jpg/1200px-Celle,_Synagoge,_2014.09.12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Celle,_Synagoge,_2014.09.12.jpg/1920px-Celle,_Synagoge,_2014.09.12.jpg
 ---
 
 ## Overview

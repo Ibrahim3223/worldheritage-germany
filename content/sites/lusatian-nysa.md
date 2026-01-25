@@ -13,7 +13,7 @@ regions:
 latitude: 52.069722222
 longitude: 14.755555555
 images:
-  - "/images-sites/lusatian-nysa/01-6693d242-800w.webp"
+  - "/images/lusatian-nysa/01-6693d242-800w.webp"
 ---
 
 ## Overview

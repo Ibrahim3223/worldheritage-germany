@@ -1,21 +1,43 @@
 ---
-title: "Cremlingen transmitter"
+title: Cremlingen transmitter
 date: 2026-01-24
 draft: false
-description: "nach Nutzungsende gesprengte Sendeanlage für Mittelwelle in Niedersachsen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: nach Nutzungsende gesprengte Sendeanlage für Mittelwelle in Niedersachsen
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.293888888
 longitude: 10.726666666
 images:
-  - "/images-sites/cremlingen-transmitter/01-e7c5f0ed-800w.webp"
-  - "/images-sites/cremlingen-transmitter/02-cd04354f-800w.webp"
-  - "/images-sites/cremlingen-transmitter/03-b7f6251a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cremlingen_Reflector_Mast.JPG/1200px-Cremlingen_Reflector_Mast.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cremlingen_Transmitter_main_masts.JPG/1200px-Cremlingen_Transmitter_main_masts.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cremlingen_transmitter_137_meter_mast.JPG/1200px-Cremlingen_transmitter_137_meter_mast.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rundfunksendestelle_Cremlingen-Abbenrode.JPG/1200px-Rundfunksendestelle_Cremlingen-Abbenrode.JPG
+image_srcset:
+  Cremlingen Reflector Mast.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cremlingen_Reflector_Mast.JPG/400px-Cremlingen_Reflector_Mast.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cremlingen_Reflector_Mast.JPG/800px-Cremlingen_Reflector_Mast.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cremlingen_Reflector_Mast.JPG/1200px-Cremlingen_Reflector_Mast.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Cremlingen_Reflector_Mast.JPG/1920px-Cremlingen_Reflector_Mast.JPG
+  Cremlingen Transmitter main masts.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cremlingen_Transmitter_main_masts.JPG/400px-Cremlingen_Transmitter_main_masts.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cremlingen_Transmitter_main_masts.JPG/800px-Cremlingen_Transmitter_main_masts.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cremlingen_Transmitter_main_masts.JPG/1200px-Cremlingen_Transmitter_main_masts.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cremlingen_Transmitter_main_masts.JPG/1920px-Cremlingen_Transmitter_main_masts.JPG
+  Cremlingen transmitter 137 meter mast.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cremlingen_transmitter_137_meter_mast.JPG/400px-Cremlingen_transmitter_137_meter_mast.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cremlingen_transmitter_137_meter_mast.JPG/800px-Cremlingen_transmitter_137_meter_mast.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cremlingen_transmitter_137_meter_mast.JPG/1200px-Cremlingen_transmitter_137_meter_mast.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cremlingen_transmitter_137_meter_mast.JPG/1920px-Cremlingen_transmitter_137_meter_mast.JPG
+  Rundfunksendestelle Cremlingen-Abbenrode.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rundfunksendestelle_Cremlingen-Abbenrode.JPG/400px-Rundfunksendestelle_Cremlingen-Abbenrode.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rundfunksendestelle_Cremlingen-Abbenrode.JPG/800px-Rundfunksendestelle_Cremlingen-Abbenrode.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rundfunksendestelle_Cremlingen-Abbenrode.JPG/1200px-Rundfunksendestelle_Cremlingen-Abbenrode.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rundfunksendestelle_Cremlingen-Abbenrode.JPG/1920px-Rundfunksendestelle_Cremlingen-Abbenrode.JPG
 ---
 
 ## Overview

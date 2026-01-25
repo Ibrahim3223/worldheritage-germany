@@ -13,7 +13,7 @@ regions:
 latitude: 51.502039
 longitude: 13.284553
 images:
-  - "/images-sites/pfarrgarten-saxdorf/01-706c2135-800w.webp"
+  - "/images/pfarrgarten-saxdorf/01-706c2135-800w.webp"
 ---
 
 ## Overview

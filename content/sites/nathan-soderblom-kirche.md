@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1256930"
 description: "In the tranquil town of Reinbek, Germany, the Nathan-Söderblom-Kirche stands as a striking example of modern ecclesiastical architecture. This church, m..."
 images:
-  - "/images-sites/nathan-soderblom-kirche/01-6f58ed35-1920w.webp"
-  - "/images-sites/nathan-soderblom-kirche/02-f3845d2d-1920w.webp"
-  - "/images-sites/nathan-soderblom-kirche/03-7eeb15df-1920w.webp"
+  - "/images/nathan-soderblom-kirche/01-6f58ed35-1920w.webp"
+  - "/images/nathan-soderblom-kirche/02-f3845d2d-1920w.webp"
+  - "/images/nathan-soderblom-kirche/03-7eeb15df-1920w.webp"
 ---
 
 ## Overview

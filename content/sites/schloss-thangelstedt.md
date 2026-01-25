@@ -13,9 +13,9 @@ regions:
 latitude: 50.844203
 longitude: 11.278995
 images:
-  - "/images-sites/schloss-thangelstedt/01-7f4c3129-800w.webp"
-  - "/images-sites/schloss-thangelstedt/02-4d5a4eab-800w.webp"
-  - "/images-sites/schloss-thangelstedt/03-682f0f7f-800w.webp"
+  - "/images/schloss-thangelstedt/01-7f4c3129-800w.webp"
+  - "/images/schloss-thangelstedt/02-4d5a4eab-800w.webp"
+  - "/images/schloss-thangelstedt/03-682f0f7f-800w.webp"
 ---
 
 ## Overview

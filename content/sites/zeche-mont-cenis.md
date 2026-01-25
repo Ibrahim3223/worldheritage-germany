@@ -13,7 +13,7 @@ regions:
 latitude: 51.5406
 longitude: 7.25664
 images:
-  - "/images-sites/zeche-mont-cenis/01-efe7cf6b-800w.webp"
+  - "/images/zeche-mont-cenis/01-efe7cf6b-800w.webp"
 ---
 
 ## Overview

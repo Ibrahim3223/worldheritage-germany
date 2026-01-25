@@ -1,29 +1,49 @@
 ---
-title: "Jagdschloss Grünau"
+title: Jagdschloss Grünau
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.737160943
 longitude: 11.263368339
-
-# Images
 images:
-  - "/images-sites/jagdschloss-gruenau/01-346ea0b3-800w.webp"
-  - "/images-sites/jagdschloss-gruenau/02-cf8eab05-800w.webp"
-  - "/images-sites/jagdschloss-gruenau/03-bfc9a1dd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Grünau_Jagdschloss-20251012-RM-120348.jpg/1200px-Grünau_Jagdschloss-20251012-RM-120348.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grünau_Jagdschloss-20251012-RM-124420.jpg/1200px-Grünau_Jagdschloss-20251012-RM-124420.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grünau_Jagdschloss-20251012-RM-120340.jpg/1200px-Grünau_Jagdschloss-20251012-RM-120340.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schloss_Grünau-Seitenansicht.jpg/1200px-Schloss_Grünau-Seitenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gruenau_Jagdschloss_aussen_2005.jpg/1200px-Gruenau_Jagdschloss_aussen_2005.jpg
+image_srcset:
+  Grünau Jagdschloss-20251012-RM-120348.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Grünau_Jagdschloss-20251012-RM-120348.jpg/400px-Grünau_Jagdschloss-20251012-RM-120348.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Grünau_Jagdschloss-20251012-RM-120348.jpg/800px-Grünau_Jagdschloss-20251012-RM-120348.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Grünau_Jagdschloss-20251012-RM-120348.jpg/1200px-Grünau_Jagdschloss-20251012-RM-120348.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Grünau_Jagdschloss-20251012-RM-120348.jpg/1920px-Grünau_Jagdschloss-20251012-RM-120348.jpg
+  Grünau Jagdschloss-20251012-RM-124420.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grünau_Jagdschloss-20251012-RM-124420.jpg/400px-Grünau_Jagdschloss-20251012-RM-124420.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grünau_Jagdschloss-20251012-RM-124420.jpg/800px-Grünau_Jagdschloss-20251012-RM-124420.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grünau_Jagdschloss-20251012-RM-124420.jpg/1200px-Grünau_Jagdschloss-20251012-RM-124420.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grünau_Jagdschloss-20251012-RM-124420.jpg/1920px-Grünau_Jagdschloss-20251012-RM-124420.jpg
+  Grünau Jagdschloss-20251012-RM-120340.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grünau_Jagdschloss-20251012-RM-120340.jpg/400px-Grünau_Jagdschloss-20251012-RM-120340.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grünau_Jagdschloss-20251012-RM-120340.jpg/800px-Grünau_Jagdschloss-20251012-RM-120340.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grünau_Jagdschloss-20251012-RM-120340.jpg/1200px-Grünau_Jagdschloss-20251012-RM-120340.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Grünau_Jagdschloss-20251012-RM-120340.jpg/1920px-Grünau_Jagdschloss-20251012-RM-120340.jpg
+  Schloss Grünau-Seitenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schloss_Grünau-Seitenansicht.jpg/400px-Schloss_Grünau-Seitenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schloss_Grünau-Seitenansicht.jpg/800px-Schloss_Grünau-Seitenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schloss_Grünau-Seitenansicht.jpg/1200px-Schloss_Grünau-Seitenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Schloss_Grünau-Seitenansicht.jpg/1920px-Schloss_Grünau-Seitenansicht.jpg
+  Gruenau Jagdschloss aussen 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gruenau_Jagdschloss_aussen_2005.jpg/400px-Gruenau_Jagdschloss_aussen_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gruenau_Jagdschloss_aussen_2005.jpg/800px-Gruenau_Jagdschloss_aussen_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gruenau_Jagdschloss_aussen_2005.jpg/1200px-Gruenau_Jagdschloss_aussen_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gruenau_Jagdschloss_aussen_2005.jpg/1920px-Gruenau_Jagdschloss_aussen_2005.jpg
 ---
 
 ## Overview

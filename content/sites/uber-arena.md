@@ -13,7 +13,7 @@ regions:
 latitude: 52.505556
 longitude: 13.443333
 images:
-  - "/images-sites/uber-arena/01-5aaa477c-800w.webp"
+  - "/images/uber-arena/01-5aaa477c-800w.webp"
 ---
 
 ## Overview

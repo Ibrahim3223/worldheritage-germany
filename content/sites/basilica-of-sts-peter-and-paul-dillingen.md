@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1295245"
 description: "In the heart of Dillingen an der Donau, the Basilica of Sts. Peter and Paul captivates with its striking baroque architecture and rich spiritual signifi..."
 images:
-  - "/images-sites/basilica-of-sts-peter-and-paul-dillingen/01-c4f31b1b-1920w.webp"
-  - "/images-sites/basilica-of-sts-peter-and-paul-dillingen/02-9869b060-1920w.webp"
-  - "/images-sites/basilica-of-sts-peter-and-paul-dillingen/03-d721339e-1920w.webp"
+  - "/images/basilica-of-sts-peter-and-paul-dillingen/01-c4f31b1b-1920w.webp"
+  - "/images/basilica-of-sts-peter-and-paul-dillingen/02-9869b060-1920w.webp"
+  - "/images/basilica-of-sts-peter-and-paul-dillingen/03-d721339e-1920w.webp"
 ---
 
 ## Overview

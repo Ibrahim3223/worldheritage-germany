@@ -1,19 +1,50 @@
 ---
-title: "Altenstein Palace"
+title: Altenstein Palace
 date: 2026-01-23
 draft: false
-description: "schloss (palace) upon a rocky hill on the south-western slope of the Thuringian Forest"
-region: "Germany"
-country: "Germany"
-heritage_type: "Palace"
+description: schloss (palace) upon a rocky hill on the south-western slope of the
+  Thuringian Forest
+region: Germany
+country: Germany
+heritage_type: Palace
 categories:
-  - "Palace"
+- Palace
 regions:
-  - "Germany"
+- Germany
 latitude: 50.835277777
 longitude: 10.351944444
 images:
-  - "/images-sites/altenstein-palace/01-5a59662c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg/1200px-Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/1200px-Schloss_Altenstein,_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+image_srcset:
+  Thuringia BadLiebenstein asv2020-07 img23 Altenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg/400px-Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg/800px-Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg/1200px-Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg/1920px-Thuringia_BadLiebenstein_asv2020-07_img23_Altenstein.jpg
+  Schloss Altenstein, 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/400px-Schloss_Altenstein,_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/800px-Schloss_Altenstein,_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/1200px-Schloss_Altenstein,_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Altenstein,_2.jpg/1920px-Schloss_Altenstein,_2.jpg
+  20041001100DR Altenstein (Bad Liebenstein) Schloß Altenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/400px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/800px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1920px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+  20041001110DR Altenstein (Bad Liebenstein) Schloß Altenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/400px-20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/800px-20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1920px-20041001110DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+  20041001120DR Altenstein (Bad Liebenstein) Schloß Altenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/400px-20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/800px-20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1920px-20041001120DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
 ---
 
 ## Overview

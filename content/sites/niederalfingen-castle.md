@@ -13,8 +13,8 @@ regions:
 latitude: 48.8967
 longitude: 10.0767
 images:
-  - "/images-sites/niederalfingen-castle/02-a30ecedc-800w.webp"
-  - "/images-sites/niederalfingen-castle/03-9a75295e-800w.webp"
+  - "/images/niederalfingen-castle/02-a30ecedc-800w.webp"
+  - "/images/niederalfingen-castle/03-9a75295e-800w.webp"
 ---
 
 ## Overview

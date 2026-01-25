@@ -1,27 +1,43 @@
 ---
-title: "Burg Tannroda"
+title: Burg Tannroda
 date: 2026-01-23
 draft: false
-description: "castle in Landkreis Weimarer Land, Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Landkreis Weimarer Land, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8587
 longitude: 11.2439
-
-# Images
 images:
-  - "/images-sites/burg-tannroda/01-c07da524-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tannroda_burg_1.jpg/1200px-Tannroda_burg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tannroda-Schloss-1.JPG/1200px-Tannroda-Schloss-1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tannroda_burg_3.jpg/1200px-Tannroda_burg_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tannrode-Wappen_Sm.png/1200px-Tannrode-Wappen_Sm.png
+image_srcset:
+  Tannroda burg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tannroda_burg_1.jpg/400px-Tannroda_burg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tannroda_burg_1.jpg/800px-Tannroda_burg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tannroda_burg_1.jpg/1200px-Tannroda_burg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tannroda_burg_1.jpg/1920px-Tannroda_burg_1.jpg
+  Tannroda-Schloss-1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tannroda-Schloss-1.JPG/400px-Tannroda-Schloss-1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tannroda-Schloss-1.JPG/800px-Tannroda-Schloss-1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tannroda-Schloss-1.JPG/1200px-Tannroda-Schloss-1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tannroda-Schloss-1.JPG/1920px-Tannroda-Schloss-1.JPG
+  Tannroda burg 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tannroda_burg_3.jpg/400px-Tannroda_burg_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tannroda_burg_3.jpg/800px-Tannroda_burg_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tannroda_burg_3.jpg/1200px-Tannroda_burg_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tannroda_burg_3.jpg/1920px-Tannroda_burg_3.jpg
+  Tannrode-Wappen Sm.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tannrode-Wappen_Sm.png/400px-Tannrode-Wappen_Sm.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tannrode-Wappen_Sm.png/800px-Tannrode-Wappen_Sm.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tannrode-Wappen_Sm.png/1200px-Tannrode-Wappen_Sm.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tannrode-Wappen_Sm.png/1920px-Tannrode-Wappen_Sm.png
 ---
 
 ## Overview

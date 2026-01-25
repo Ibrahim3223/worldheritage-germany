@@ -1,19 +1,43 @@
 ---
-title: "Altenberg"
+title: Altenberg
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1942
 longitude: 10.07
 images:
-  - "/images-sites/altenberg/01-9473c10f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg/1200px-2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg/1200px-20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenberg_Panorama_(04)_2006-10-30.jpg/1200px-Altenberg_Panorama_(04)_2006-10-30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altenberg_-_Panorama_(1)_2005.jpg/1200px-Altenberg_-_Panorama_(1)_2005.jpg
+image_srcset:
+  2020-02-22 IBSF World Championships Bobsleigh and Skeleton Altenberg 1DX 5978 by Stepro.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg/400px-2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg/800px-2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg/1200px-2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg/1920px-2020-02-22_IBSF_World_Championships_Bobsleigh_and_Skeleton_Altenberg_1DX_5978_by_Stepro.jpg
+  20090704080DR Altenberg Sa Hallenbad Rehaklinik Raupennest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg/400px-20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg/800px-20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg/1200px-20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg/1920px-20090704080DR_Altenberg_Sa_Hallenbad_Rehaklinik_Raupennest.jpg
+  Altenberg Panorama (04) 2006-10-30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenberg_Panorama_(04)_2006-10-30.jpg/400px-Altenberg_Panorama_(04)_2006-10-30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenberg_Panorama_(04)_2006-10-30.jpg/800px-Altenberg_Panorama_(04)_2006-10-30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenberg_Panorama_(04)_2006-10-30.jpg/1200px-Altenberg_Panorama_(04)_2006-10-30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenberg_Panorama_(04)_2006-10-30.jpg/1920px-Altenberg_Panorama_(04)_2006-10-30.jpg
+  Altenberg - Panorama (1) 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altenberg_-_Panorama_(1)_2005.jpg/400px-Altenberg_-_Panorama_(1)_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altenberg_-_Panorama_(1)_2005.jpg/800px-Altenberg_-_Panorama_(1)_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altenberg_-_Panorama_(1)_2005.jpg/1200px-Altenberg_-_Panorama_(1)_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altenberg_-_Panorama_(1)_2005.jpg/1920px-Altenberg_-_Panorama_(1)_2005.jpg
 ---
 
 ## Overview

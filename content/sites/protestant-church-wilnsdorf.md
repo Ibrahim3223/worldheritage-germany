@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1380968"
 description: "The Protestant Church in Wilnsdorf, Germany, is a striking example of a reformed church that serves a merged parish. Its architectural style, known as J..."
 images:
-  - "/images-sites/protestant-church-wilnsdorf/01-c827f125-1920w.webp"
-  - "/images-sites/protestant-church-wilnsdorf/02-a863eeed-1920w.webp"
-  - "/images-sites/protestant-church-wilnsdorf/03-9ef5071f-1920w.webp"
+  - "/images/protestant-church-wilnsdorf/01-c827f125-1920w.webp"
+  - "/images/protestant-church-wilnsdorf/02-a863eeed-1920w.webp"
+  - "/images/protestant-church-wilnsdorf/03-9ef5071f-1920w.webp"
 ---
 
 ## Overview

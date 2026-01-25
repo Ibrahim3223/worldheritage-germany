@@ -1,19 +1,49 @@
 ---
-title: "E.T.A.-Hoffmann-Theater"
+title: E.T.A.-Hoffmann-Theater
 date: 2026-01-23
 draft: false
-description: "theatre in Bamberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Bamberg, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8906
 longitude: 10.8915
 images:
-  - "/images-sites/eta-hoffmann-theater/01-fd24e624-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bamberg,_Schillerplatz_6-20170103-002.jpg/1200px-Bamberg,_Schillerplatz_6-20170103-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bamberg_Theater_Decke-20200206-RM-162115.jpg/1200px-Bamberg_Theater_Decke-20200206-RM-162115.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bamberg_Theater_Innenraum-20200206-RM-155427.jpg/1200px-Bamberg_Theater_Innenraum-20200206-RM-155427.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/1200px-Bamberg_Theater_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ETA-Hoffmann-Theater-2012.jpg/1200px-ETA-Hoffmann-Theater-2012.jpg
+image_srcset:
+  Bamberg, Schillerplatz 6-20170103-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bamberg,_Schillerplatz_6-20170103-002.jpg/400px-Bamberg,_Schillerplatz_6-20170103-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bamberg,_Schillerplatz_6-20170103-002.jpg/800px-Bamberg,_Schillerplatz_6-20170103-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bamberg,_Schillerplatz_6-20170103-002.jpg/1200px-Bamberg,_Schillerplatz_6-20170103-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bamberg,_Schillerplatz_6-20170103-002.jpg/1920px-Bamberg,_Schillerplatz_6-20170103-002.jpg
+  Bamberg Theater Decke-20200206-RM-162115.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bamberg_Theater_Decke-20200206-RM-162115.jpg/400px-Bamberg_Theater_Decke-20200206-RM-162115.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bamberg_Theater_Decke-20200206-RM-162115.jpg/800px-Bamberg_Theater_Decke-20200206-RM-162115.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bamberg_Theater_Decke-20200206-RM-162115.jpg/1200px-Bamberg_Theater_Decke-20200206-RM-162115.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bamberg_Theater_Decke-20200206-RM-162115.jpg/1920px-Bamberg_Theater_Decke-20200206-RM-162115.jpg
+  Bamberg Theater Innenraum-20200206-RM-155427.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bamberg_Theater_Innenraum-20200206-RM-155427.jpg/400px-Bamberg_Theater_Innenraum-20200206-RM-155427.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bamberg_Theater_Innenraum-20200206-RM-155427.jpg/800px-Bamberg_Theater_Innenraum-20200206-RM-155427.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bamberg_Theater_Innenraum-20200206-RM-155427.jpg/1200px-Bamberg_Theater_Innenraum-20200206-RM-155427.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bamberg_Theater_Innenraum-20200206-RM-155427.jpg/1920px-Bamberg_Theater_Innenraum-20200206-RM-155427.jpg
+  Bamberg Theater Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/400px-Bamberg_Theater_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/800px-Bamberg_Theater_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/1200px-Bamberg_Theater_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bamberg_Theater_Eingang.jpg/1920px-Bamberg_Theater_Eingang.jpg
+  ETA-Hoffmann-Theater-2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ETA-Hoffmann-Theater-2012.jpg/400px-ETA-Hoffmann-Theater-2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ETA-Hoffmann-Theater-2012.jpg/800px-ETA-Hoffmann-Theater-2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ETA-Hoffmann-Theater-2012.jpg/1200px-ETA-Hoffmann-Theater-2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/ETA-Hoffmann-Theater-2012.jpg/1920px-ETA-Hoffmann-Theater-2012.jpg
 ---
 
 ## Overview

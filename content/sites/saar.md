@@ -13,7 +13,7 @@ regions:
 latitude: 49.701388888
 longitude: 6.57
 images:
-  - "/images-sites/saar/01-886687e0-800w.webp"
+  - "/images/saar/01-886687e0-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.0085
 longitude: 8.26938
 images:
-  - "/images-sites/municipal-scientific-library-mainz/01-bd1d0198-800w.webp"
+  - "/images/municipal-scientific-library-mainz/01-bd1d0198-800w.webp"
 ---
 
 ## Overview

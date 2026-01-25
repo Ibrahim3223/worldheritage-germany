@@ -1,19 +1,49 @@
 ---
-title: "Grunewald Tower"
+title: Grunewald Tower
 date: 2026-01-24
 draft: false
-description: "observation tower in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: observation tower in Berlin
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.478333333
 longitude: 13.196666666
 images:
-  - "/images-sites/grunewald-tower/01-45bc812d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grunewaldturm_2020-07-12_02.jpg/1200px-Grunewaldturm_2020-07-12_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldturm_with_snow_2021-12-10_05.jpg/1200px-Grunewaldturm_with_snow_2021-12-10_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grunewaldturm_with_snow_2021-12-10_07.jpg/1200px-Grunewaldturm_with_snow_2021-12-10_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grunewald_Tower_perspective_Sep12.jpg/1200px-Grunewald_Tower_perspective_Sep12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1200px-Berlin_Grunewaldturm.JPG
+image_srcset:
+  Grunewaldturm 2020-07-12 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grunewaldturm_2020-07-12_02.jpg/400px-Grunewaldturm_2020-07-12_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grunewaldturm_2020-07-12_02.jpg/800px-Grunewaldturm_2020-07-12_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grunewaldturm_2020-07-12_02.jpg/1200px-Grunewaldturm_2020-07-12_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grunewaldturm_2020-07-12_02.jpg/1920px-Grunewaldturm_2020-07-12_02.jpg
+  Grunewaldturm with snow 2021-12-10 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldturm_with_snow_2021-12-10_05.jpg/400px-Grunewaldturm_with_snow_2021-12-10_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldturm_with_snow_2021-12-10_05.jpg/800px-Grunewaldturm_with_snow_2021-12-10_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldturm_with_snow_2021-12-10_05.jpg/1200px-Grunewaldturm_with_snow_2021-12-10_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldturm_with_snow_2021-12-10_05.jpg/1920px-Grunewaldturm_with_snow_2021-12-10_05.jpg
+  Grunewaldturm with snow 2021-12-10 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grunewaldturm_with_snow_2021-12-10_07.jpg/400px-Grunewaldturm_with_snow_2021-12-10_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grunewaldturm_with_snow_2021-12-10_07.jpg/800px-Grunewaldturm_with_snow_2021-12-10_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grunewaldturm_with_snow_2021-12-10_07.jpg/1200px-Grunewaldturm_with_snow_2021-12-10_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grunewaldturm_with_snow_2021-12-10_07.jpg/1920px-Grunewaldturm_with_snow_2021-12-10_07.jpg
+  Grunewald Tower perspective Sep12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grunewald_Tower_perspective_Sep12.jpg/400px-Grunewald_Tower_perspective_Sep12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grunewald_Tower_perspective_Sep12.jpg/800px-Grunewald_Tower_perspective_Sep12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grunewald_Tower_perspective_Sep12.jpg/1200px-Grunewald_Tower_perspective_Sep12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grunewald_Tower_perspective_Sep12.jpg/1920px-Grunewald_Tower_perspective_Sep12.jpg
+  Berlin Grunewaldturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/400px-Berlin_Grunewaldturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/800px-Berlin_Grunewaldturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1200px-Berlin_Grunewaldturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_Grunewaldturm.JPG/1920px-Berlin_Grunewaldturm.JPG
 ---
 
 ## Overview

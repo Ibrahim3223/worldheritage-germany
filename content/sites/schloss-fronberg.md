@@ -21,7 +21,7 @@ longitude: 12.123276393
 
 # Images
 images:
-  - "/images-sites/schloss-fronberg/01-bad3a288-800w.webp"
+  - "/images/schloss-fronberg/01-bad3a288-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1456843"
 description: "In the heart of Berlins Gesundbrunnen district, the Peace Church of Saint Sava stands as a remarkable symbol of the Serbian Orthodox faith. This church,..."
 images:
-  - "/images-sites/peace-church-of-saint-sava/01-058b1867-1920w.webp"
-  - "/images-sites/peace-church-of-saint-sava/02-355e8aa7-1920w.webp"
-  - "/images-sites/peace-church-of-saint-sava/03-b5ebf9b0-1920w.webp"
+  - "/images/peace-church-of-saint-sava/01-058b1867-1920w.webp"
+  - "/images/peace-church-of-saint-sava/02-355e8aa7-1920w.webp"
+  - "/images/peace-church-of-saint-sava/03-b5ebf9b0-1920w.webp"
 ---
 
 ## Overview

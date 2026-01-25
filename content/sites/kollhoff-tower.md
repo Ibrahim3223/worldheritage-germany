@@ -13,7 +13,7 @@ regions:
 latitude: 52.5089
 longitude: 13.375
 images:
-  - "/images-sites/kollhoff-tower/01-1ba2155e-800w.webp"
+  - "/images/kollhoff-tower/01-1ba2155e-800w.webp"
 ---
 
 ## Overview

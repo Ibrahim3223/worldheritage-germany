@@ -1,19 +1,49 @@
 ---
-title: "Duisburger Stadtwald"
+title: Duisburger Stadtwald
 date: 2026-01-23
 draft: false
-description: "forest in Duisburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: forest in Duisburg, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4228
 longitude: 6.81049
 images:
-  - "/images-sites/duisburger-stadtwald/01-775e6b6f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DU-Wildschweingehege_Stadtwald_04.jpg/1200px-DU-Wildschweingehege_Stadtwald_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duisburger_Stadtwald_am_Wolfsberg.jpg/1200px-Duisburger_Stadtwald_am_Wolfsberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DU-Wildschweingehege_Stadtwald_02.jpg/1200px-DU-Wildschweingehege_Stadtwald_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DU-Wildschweingehege_Stadtwald_06.jpg/1200px-DU-Wildschweingehege_Stadtwald_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DU-Wildschweingehege_Stadtwald_01.jpg/1200px-DU-Wildschweingehege_Stadtwald_01.jpg
+image_srcset:
+  DU-Wildschweingehege Stadtwald 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DU-Wildschweingehege_Stadtwald_04.jpg/400px-DU-Wildschweingehege_Stadtwald_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DU-Wildschweingehege_Stadtwald_04.jpg/800px-DU-Wildschweingehege_Stadtwald_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DU-Wildschweingehege_Stadtwald_04.jpg/1200px-DU-Wildschweingehege_Stadtwald_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DU-Wildschweingehege_Stadtwald_04.jpg/1920px-DU-Wildschweingehege_Stadtwald_04.jpg
+  Duisburger Stadtwald am Wolfsberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duisburger_Stadtwald_am_Wolfsberg.jpg/400px-Duisburger_Stadtwald_am_Wolfsberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duisburger_Stadtwald_am_Wolfsberg.jpg/800px-Duisburger_Stadtwald_am_Wolfsberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duisburger_Stadtwald_am_Wolfsberg.jpg/1200px-Duisburger_Stadtwald_am_Wolfsberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duisburger_Stadtwald_am_Wolfsberg.jpg/1920px-Duisburger_Stadtwald_am_Wolfsberg.jpg
+  DU-Wildschweingehege Stadtwald 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DU-Wildschweingehege_Stadtwald_02.jpg/400px-DU-Wildschweingehege_Stadtwald_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DU-Wildschweingehege_Stadtwald_02.jpg/800px-DU-Wildschweingehege_Stadtwald_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DU-Wildschweingehege_Stadtwald_02.jpg/1200px-DU-Wildschweingehege_Stadtwald_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DU-Wildschweingehege_Stadtwald_02.jpg/1920px-DU-Wildschweingehege_Stadtwald_02.jpg
+  DU-Wildschweingehege Stadtwald 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DU-Wildschweingehege_Stadtwald_06.jpg/400px-DU-Wildschweingehege_Stadtwald_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DU-Wildschweingehege_Stadtwald_06.jpg/800px-DU-Wildschweingehege_Stadtwald_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DU-Wildschweingehege_Stadtwald_06.jpg/1200px-DU-Wildschweingehege_Stadtwald_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/DU-Wildschweingehege_Stadtwald_06.jpg/1920px-DU-Wildschweingehege_Stadtwald_06.jpg
+  DU-Wildschweingehege Stadtwald 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DU-Wildschweingehege_Stadtwald_01.jpg/400px-DU-Wildschweingehege_Stadtwald_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DU-Wildschweingehege_Stadtwald_01.jpg/800px-DU-Wildschweingehege_Stadtwald_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DU-Wildschweingehege_Stadtwald_01.jpg/1200px-DU-Wildschweingehege_Stadtwald_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/DU-Wildschweingehege_Stadtwald_01.jpg/1920px-DU-Wildschweingehege_Stadtwald_01.jpg
 ---
 
 ## Overview

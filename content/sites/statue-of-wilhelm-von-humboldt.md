@@ -13,7 +13,7 @@ regions:
 latitude: 52.51761
 longitude: 13.39346
 images:
-  - "/images-sites/statue-of-wilhelm-von-humboldt/01-0afb611f-800w.webp"
+  - "/images/statue-of-wilhelm-von-humboldt/01-0afb611f-800w.webp"
 ---
 
 ## Overview

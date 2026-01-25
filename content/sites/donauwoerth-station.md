@@ -1,21 +1,49 @@
 ---
-title: "Donauwörth station"
+title: Donauwörth station
 date: 2026-01-23
 draft: false
-description: "railway station in Donauwörth, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Donauwörth, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 48.714444444
 longitude: 10.771666666
 images:
-  - "/images-sites/donauwoerth-station/01-7ef43c03-800w.webp"
-  - "/images-sites/donauwoerth-station/02-abc2cd04-800w.webp"
-  - "/images-sites/donauwoerth-station/03-7115078d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sonntags_ruhetag_(48951754781).jpg/1200px-Sonntags_ruhetag_(48951754781).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg/1200px-DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg/1200px-Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg/1200px-Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BfDonauwoerth.jpg/1200px-BfDonauwoerth.jpg
+image_srcset:
+  Sonntags ruhetag (48951754781).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sonntags_ruhetag_(48951754781).jpg/400px-Sonntags_ruhetag_(48951754781).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sonntags_ruhetag_(48951754781).jpg/800px-Sonntags_ruhetag_(48951754781).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sonntags_ruhetag_(48951754781).jpg/1200px-Sonntags_ruhetag_(48951754781).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sonntags_ruhetag_(48951754781).jpg/1920px-Sonntags_ruhetag_(48951754781).jpg
+  DB BR 440 011-5, DBregio "Fugger-Express" - (DE) Donauwörth - 01.05.2014 (14152309418).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg/400px-DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg/800px-DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg/1200px-DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg/1920px-DB_BR_440_011-5,_DBregio_"Fugger-Express"_-_(DE)_Donauwörth_-_01.05.2014_(14152309418).jpg
+  Agilis BR 440 402-6, Regionalverkehr - (DE) Donauwörth - 01.05.2014 (13992047317).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg/400px-Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg/800px-Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg/1200px-Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg/1920px-Agilis_BR_440_402-6,_Regionalverkehr_-_(DE)_Donauwörth_-_01.05.2014_(13992047317).jpg
+  Donauwörth Lok 110 300 Eilzug Bnb-Wagen - LABW - Staatsarchiv Ludwigsburg PL 734 KD 3711.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg/400px-Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg/800px-Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg/1200px-Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg/1920px-Donauwörth_Lok_110_300_Eilzug_Bnb-Wagen_-_LABW_-_Staatsarchiv_Ludwigsburg_PL_734_KD_3711.jpg
+  BfDonauwoerth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BfDonauwoerth.jpg/400px-BfDonauwoerth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BfDonauwoerth.jpg/800px-BfDonauwoerth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BfDonauwoerth.jpg/1200px-BfDonauwoerth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BfDonauwoerth.jpg/1920px-BfDonauwoerth.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Auritzer Stele"
+title: Auritzer Stele
 date: 2026-01-23
 draft: false
-description: "monument in Bautzen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Bautzen, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.16267
 longitude: 14.46644
 images:
-  - "/images-sites/auritzer-stele/01-c06f5529-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wuričanski_stołp_1.jpg/1200px-Wuričanski_stołp_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuričanski_stołp_2.jpg/1200px-Wuričanski_stołp_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wuričanski_stołp_3.jpg/1200px-Wuričanski_stołp_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wuričanski_stołp_4.jpg/1200px-Wuričanski_stołp_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wuričanski_stołp_7.jpg/1200px-Wuričanski_stołp_7.jpg
+image_srcset:
+  Wuričanski stołp 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wuričanski_stołp_1.jpg/400px-Wuričanski_stołp_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wuričanski_stołp_1.jpg/800px-Wuričanski_stołp_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wuričanski_stołp_1.jpg/1200px-Wuričanski_stołp_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wuričanski_stołp_1.jpg/1920px-Wuričanski_stołp_1.jpg
+  Wuričanski stołp 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuričanski_stołp_2.jpg/400px-Wuričanski_stołp_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuričanski_stołp_2.jpg/800px-Wuričanski_stołp_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuričanski_stołp_2.jpg/1200px-Wuričanski_stołp_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuričanski_stołp_2.jpg/1920px-Wuričanski_stołp_2.jpg
+  Wuričanski stołp 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wuričanski_stołp_3.jpg/400px-Wuričanski_stołp_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wuričanski_stołp_3.jpg/800px-Wuričanski_stołp_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wuričanski_stołp_3.jpg/1200px-Wuričanski_stołp_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wuričanski_stołp_3.jpg/1920px-Wuričanski_stołp_3.jpg
+  Wuričanski stołp 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wuričanski_stołp_4.jpg/400px-Wuričanski_stołp_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wuričanski_stołp_4.jpg/800px-Wuričanski_stołp_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wuričanski_stołp_4.jpg/1200px-Wuričanski_stołp_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wuričanski_stołp_4.jpg/1920px-Wuričanski_stołp_4.jpg
+  Wuričanski stołp 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wuričanski_stołp_7.jpg/400px-Wuričanski_stołp_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wuričanski_stołp_7.jpg/800px-Wuričanski_stołp_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wuričanski_stołp_7.jpg/1200px-Wuričanski_stołp_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wuričanski_stołp_7.jpg/1920px-Wuričanski_stołp_7.jpg
 ---
 
 ## Overview

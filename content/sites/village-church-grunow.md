@@ -15,7 +15,7 @@ categories:
 wikidata_id: "Q1124094"
 description: "In the heart of Brandenburg state, Germany, lies the Village church Grünow, a remarkable example of Romanesque architecture. This church, constructed fr..."
 images:
-  - "/images-sites/village-church-grunow/01-07c3a228-1920w.webp"
+  - "/images/village-church-grunow/01-07c3a228-1920w.webp"
 ---
 
 ## Overview

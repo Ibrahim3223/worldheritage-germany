@@ -1,20 +1,49 @@
 ---
-title: "Amrum"
+title: Amrum
 date: 2026-01-23
 draft: false
-description: "island in North Frisia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in North Frisia, Germany
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.651317
 longitude: 8.341728
 images:
-  - "/images-sites/amrum/02-8b2f3c56-800w.webp"
-  - "/images-sites/amrum/03-899a317c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg/1200px-191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg/1200px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1200px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/003_2016_05_29_Einsamkeit.jpg/1200px-003_2016_05_29_Einsamkeit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amrum-Jungnamensand-8.30322E_54.66327N.png/1200px-Amrum-Jungnamensand-8.30322E_54.66327N.png
+image_srcset:
+  191007 Dunsum Deich mit Blick auf Restaurant Zum Wattenläufer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg/400px-191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg/800px-191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg/1200px-191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg/1920px-191007_Dunsum_Deich_mit_Blick_auf_Restaurant_Zum_Wattenläufer.jpg
+  191008 Blick vom Bohlenweg Nieblum in Richtung Amrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg/400px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg/800px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg/1200px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg/1920px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Amrum.jpg
+  Süderoogsand, Norderoogsand, Japsand, and Amrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/400px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/800px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1200px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1920px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+  003 2016 05 29 Einsamkeit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/003_2016_05_29_Einsamkeit.jpg/400px-003_2016_05_29_Einsamkeit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/003_2016_05_29_Einsamkeit.jpg/800px-003_2016_05_29_Einsamkeit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/003_2016_05_29_Einsamkeit.jpg/1200px-003_2016_05_29_Einsamkeit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/003_2016_05_29_Einsamkeit.jpg/1920px-003_2016_05_29_Einsamkeit.jpg
+  Amrum-Jungnamensand-8.30322E 54.66327N.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amrum-Jungnamensand-8.30322E_54.66327N.png/400px-Amrum-Jungnamensand-8.30322E_54.66327N.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amrum-Jungnamensand-8.30322E_54.66327N.png/800px-Amrum-Jungnamensand-8.30322E_54.66327N.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amrum-Jungnamensand-8.30322E_54.66327N.png/1200px-Amrum-Jungnamensand-8.30322E_54.66327N.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amrum-Jungnamensand-8.30322E_54.66327N.png/1920px-Amrum-Jungnamensand-8.30322E_54.66327N.png
 ---
 
 ## Overview

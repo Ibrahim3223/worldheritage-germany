@@ -13,9 +13,9 @@ regions:
 latitude: 52.50984
 longitude: 13.34829
 images:
-  - "/images-sites/statue-of-theodor-fontane/01-24a21539-800w.webp"
-  - "/images-sites/statue-of-theodor-fontane/02-978c76df-800w.webp"
-  - "/images-sites/statue-of-theodor-fontane/03-073346ca-800w.webp"
+  - "/images/statue-of-theodor-fontane/01-24a21539-800w.webp"
+  - "/images/statue-of-theodor-fontane/02-978c76df-800w.webp"
+  - "/images/statue-of-theodor-fontane/03-073346ca-800w.webp"
 ---
 
 ## Overview

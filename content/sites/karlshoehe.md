@@ -13,7 +13,7 @@ regions:
 latitude: 48.76804
 longitude: 9.1642
 images:
-  - "/images-sites/karlshoehe/01-79e5680d-800w.webp"
+  - "/images/karlshoehe/01-79e5680d-800w.webp"
 ---
 
 ## Overview

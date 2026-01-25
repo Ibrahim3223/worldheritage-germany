@@ -13,7 +13,7 @@ regions:
 latitude: 51.35
 longitude: 12.3636
 images:
-  - "/images-sites/rosental/01-6c6f4c5e-800w.webp"
+  - "/images/rosental/01-6c6f4c5e-800w.webp"
 ---
 
 ## Overview

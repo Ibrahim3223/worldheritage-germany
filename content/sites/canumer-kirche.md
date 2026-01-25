@@ -1,24 +1,51 @@
 ---
-title: "Canumer Kirche"
-site_name: "Canumer Kirche"
-slug: "canumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Canumer Kirche
+site_name: Canumer Kirche
+slug: canumer-kirche
+region: Lower Saxony
 latitude: 53.4259
 longitude: 7.11347
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q210039"
-description: "Canumer Kirche, a remarkable example of Romanesque architecture, captures the essence of Krummhörns historical landscape. This church building, construc..."
+- church building
+- religious site
+wikidata_id: Q210039
+description: Canumer Kirche, a remarkable example of Romanesque architecture, captures
+  the essence of Krummhörns historical landscape. This church building, construc...
 images:
-  - "/images-sites/canumer-kirche/01-7fbffe8e-1920w.webp"
-  - "/images-sites/canumer-kirche/02-4f09e2a7-1920w.webp"
-  - "/images-sites/canumer-kirche/03-05ab0f94-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/70639_Canum_-_östl._Nordportal.JPG/1200px-70639_Canum_-_östl._Nordportal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/70640_Canum_Kirche_v_N.JPG/1200px-70640_Canum_Kirche_v_N.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/70642_Canum_-_östl._Nordfenster.JPG/1200px-70642_Canum_-_östl._Nordfenster.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/70651_Canum_Kirche_Westgiebel.JPG/1200px-70651_Canum_Kirche_Westgiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1200px-ChurchCanum.jpg
+image_srcset:
+  70639 Canum - östl. Nordportal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/70639_Canum_-_östl._Nordportal.JPG/400px-70639_Canum_-_östl._Nordportal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/70639_Canum_-_östl._Nordportal.JPG/800px-70639_Canum_-_östl._Nordportal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/70639_Canum_-_östl._Nordportal.JPG/1200px-70639_Canum_-_östl._Nordportal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/70639_Canum_-_östl._Nordportal.JPG/1920px-70639_Canum_-_östl._Nordportal.JPG
+  70640 Canum Kirche v N.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/70640_Canum_Kirche_v_N.JPG/400px-70640_Canum_Kirche_v_N.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/70640_Canum_Kirche_v_N.JPG/800px-70640_Canum_Kirche_v_N.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/70640_Canum_Kirche_v_N.JPG/1200px-70640_Canum_Kirche_v_N.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/70640_Canum_Kirche_v_N.JPG/1920px-70640_Canum_Kirche_v_N.JPG
+  70642 Canum - östl. Nordfenster.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/70642_Canum_-_östl._Nordfenster.JPG/400px-70642_Canum_-_östl._Nordfenster.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/70642_Canum_-_östl._Nordfenster.JPG/800px-70642_Canum_-_östl._Nordfenster.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/70642_Canum_-_östl._Nordfenster.JPG/1200px-70642_Canum_-_östl._Nordfenster.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/70642_Canum_-_östl._Nordfenster.JPG/1920px-70642_Canum_-_östl._Nordfenster.JPG
+  70651 Canum Kirche Westgiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/70651_Canum_Kirche_Westgiebel.JPG/400px-70651_Canum_Kirche_Westgiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/70651_Canum_Kirche_Westgiebel.JPG/800px-70651_Canum_Kirche_Westgiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/70651_Canum_Kirche_Westgiebel.JPG/1200px-70651_Canum_Kirche_Westgiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/70651_Canum_Kirche_Westgiebel.JPG/1920px-70651_Canum_Kirche_Westgiebel.JPG
+  ChurchCanum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/400px-ChurchCanum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/800px-ChurchCanum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1200px-ChurchCanum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ChurchCanum.jpg/1920px-ChurchCanum.jpg
 ---
 
 ## Overview

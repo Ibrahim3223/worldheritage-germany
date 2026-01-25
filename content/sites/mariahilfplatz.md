@@ -13,7 +13,7 @@ regions:
 latitude: 48.1258
 longitude: 11.5836
 images:
-  - "/images-sites/mariahilfplatz/01-28b9761b-800w.webp"
+  - "/images/mariahilfplatz/01-28b9761b-800w.webp"
 ---
 
 ## Overview

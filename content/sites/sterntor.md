@@ -21,7 +21,7 @@ longitude: 7.09853
 
 # Images
 images:
-  - "/images-sites/sterntor/01-5d197706-800w.webp"
+  - "/images/sterntor/01-5d197706-800w.webp"
 ---
 
 ## Overview

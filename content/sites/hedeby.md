@@ -1,27 +1,50 @@
 ---
-title: "Hedeby"
+title: Hedeby
 date: 2026-01-23
 draft: false
-description: "historic fortified Viking town south of present-day Schleswig town in North Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: historic fortified Viking town south of present-day Schleswig town in
+  North Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.491111111
 longitude: 9.565277777
-
-# Images
 images:
-  - "/images-sites/hedeby/01-a5f2da60-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016haithabu_18.jpg/1200px-2016haithabu_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2016haithabu_20.jpg/1200px-2016haithabu_20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1200px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg/1200px-Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wikingerhaeuser_Haithabu.jpg/1200px-Wikingerhaeuser_Haithabu.jpg
+image_srcset:
+  2016haithabu 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016haithabu_18.jpg/400px-2016haithabu_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016haithabu_18.jpg/800px-2016haithabu_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016haithabu_18.jpg/1200px-2016haithabu_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016haithabu_18.jpg/1920px-2016haithabu_18.jpg
+  2016haithabu 20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2016haithabu_20.jpg/400px-2016haithabu_20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2016haithabu_20.jpg/800px-2016haithabu_20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2016haithabu_20.jpg/1200px-2016haithabu_20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2016haithabu_20.jpg/1920px-2016haithabu_20.jpg
+  Archäologisches Bodendenkmal Haithabu in der Gemeinde Busdorf im Kreis Schleswig-Flensburg in Schleswig-Holstein B1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/400px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/800px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1200px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG/1920px-Archäologisches_Bodendenkmal_Haithabu_in_der_Gemeinde_Busdorf_im_Kreis_Schleswig-Flensburg_in_Schleswig-Holstein_B1.JPG
+  Blick auf das Wikinger Museum Haithabu vom Garten aus (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg/400px-Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg/800px-Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg/1200px-Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg/1920px-Blick_auf_das_Wikinger_Museum_Haithabu_vom_Garten_aus_(01).jpg
+  Wikingerhaeuser Haithabu.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wikingerhaeuser_Haithabu.jpg/400px-Wikingerhaeuser_Haithabu.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wikingerhaeuser_Haithabu.jpg/800px-Wikingerhaeuser_Haithabu.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wikingerhaeuser_Haithabu.jpg/1200px-Wikingerhaeuser_Haithabu.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wikingerhaeuser_Haithabu.jpg/1920px-Wikingerhaeuser_Haithabu.jpg
 ---
 
 ## Overview

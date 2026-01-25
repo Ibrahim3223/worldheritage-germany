@@ -13,7 +13,7 @@ regions:
 latitude: 48.1614
 longitude: 11.5864
 images:
-  - "/images-sites/muenchner-freiheit/01-8fa3aef6-800w.webp"
+  - "/images/muenchner-freiheit/01-8fa3aef6-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 50.9514
 longitude: 10.7016
 images:
-  - "/images-sites/synagogue-of-gotha/02-ba6ad765-800w.webp"
-  - "/images-sites/synagogue-of-gotha/03-9226c7e7-800w.webp"
+  - "/images/synagogue-of-gotha/02-ba6ad765-800w.webp"
+  - "/images/synagogue-of-gotha/03-9226c7e7-800w.webp"
 ---
 
 ## Overview

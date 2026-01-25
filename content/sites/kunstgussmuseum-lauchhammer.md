@@ -13,7 +13,7 @@ regions:
 latitude: 51.5035
 longitude: 13.7954
 images:
-  - "/images-sites/kunstgussmuseum-lauchhammer/01-55078d5d-800w.webp"
+  - "/images/kunstgussmuseum-lauchhammer/01-55078d5d-800w.webp"
 ---
 
 ## Overview

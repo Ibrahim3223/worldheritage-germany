@@ -1,21 +1,49 @@
 ---
-title: "Chemnitz Hauptbahnhof"
+title: Chemnitz Hauptbahnhof
 date: 2026-01-23
 draft: false
-description: "railway station in Chemnitz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Chemnitz, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.840155555
 longitude: 12.930594444
 images:
-  - "/images-sites/chemnitz-hauptbahnhof/01-5be79fa1-800w.webp"
-  - "/images-sites/chemnitz-hauptbahnhof/02-cae1a5cf-800w.webp"
-  - "/images-sites/chemnitz-hauptbahnhof/03-39bd3c77-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg/1200px-J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg/1200px-J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg/1200px-J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg/1200px-J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg/1200px-I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg
+image_srcset:
+  J34 197 Bf Chemnitz Hbf, Signalkombination Gleis 32.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg/400px-J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg/800px-J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg/1200px-J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg/1920px-J34_197_Bf_Chemnitz_Hbf,_Signalkombination_Gleis_32.jpg
+  J24 469 Bf Chemnitz Hbf, Übergangsgleise.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg/400px-J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg/800px-J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg/1200px-J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg/1920px-J24_469_Bf_Chemnitz_Hbf,_Übergangsgleise.jpg
+  J30 004 Bf Chemnitz Hbf, ET 901.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg/400px-J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg/800px-J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg/1200px-J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg/1920px-J30_004_Bf_Chemnitz_Hbf,_ET_901.jpg
+  J29 997 Bf Chemnitz Hbf, Straßenbahneinfahrt Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg/400px-J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg/800px-J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg/1200px-J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg/1920px-J29_997_Bf_Chemnitz_Hbf,_Straßenbahneinfahrt_Nordseite.jpg
+  I10 533 Bf Chemnitz Hbf, Straßenbahn- und Übergangsgleise.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg/400px-I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg/800px-I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg/1200px-I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg/1920px-I10_533_Bf_Chemnitz_Hbf,_Straßenbahn-_und_Übergangsgleise.jpg
 ---
 
 ## Overview

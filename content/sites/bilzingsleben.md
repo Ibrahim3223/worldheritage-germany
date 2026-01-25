@@ -1,29 +1,37 @@
 ---
-title: "Bilzingsleben"
+title: Bilzingsleben
 date: 2026-01-23
 draft: false
-description: "archeological site in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: archeological site in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.272611111
 longitude: 11.059333333
-
-# Images
 images:
-  - "/images-sites/bilzingsleben/01-2ce9b704-800w.webp"
-  - "/images-sites/bilzingsleben/02-4b82da48-800w.webp"
-  - "/images-sites/bilzingsleben/03-350a7732-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg/1200px-Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fernsicht_auf_Bilzingsleben.JPG/1200px-Fernsicht_auf_Bilzingsleben.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bilzingsleben_2006-07-10.jpg/1200px-Bilzingsleben_2006-07-10.jpg
+image_srcset:
+  Bilzingsleben, Skulptur "Weihnachtsmann".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg/400px-Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg/800px-Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg/1200px-Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg/1920px-Bilzingsleben,_Skulptur_"Weihnachtsmann".jpg
+  Fernsicht auf Bilzingsleben.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fernsicht_auf_Bilzingsleben.JPG/400px-Fernsicht_auf_Bilzingsleben.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fernsicht_auf_Bilzingsleben.JPG/800px-Fernsicht_auf_Bilzingsleben.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fernsicht_auf_Bilzingsleben.JPG/1200px-Fernsicht_auf_Bilzingsleben.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fernsicht_auf_Bilzingsleben.JPG/1920px-Fernsicht_auf_Bilzingsleben.JPG
+  Bilzingsleben 2006-07-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bilzingsleben_2006-07-10.jpg/400px-Bilzingsleben_2006-07-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bilzingsleben_2006-07-10.jpg/800px-Bilzingsleben_2006-07-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bilzingsleben_2006-07-10.jpg/1200px-Bilzingsleben_2006-07-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bilzingsleben_2006-07-10.jpg/1920px-Bilzingsleben_2006-07-10.jpg
 ---
 
 ## Overview

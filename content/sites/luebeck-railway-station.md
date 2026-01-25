@@ -13,7 +13,7 @@ regions:
 latitude: 53.8672
 longitude: 10.6692
 images:
-  - "/images-sites/luebeck-railway-station/01-ea81ccf9-800w.webp"
+  - "/images/luebeck-railway-station/01-ea81ccf9-800w.webp"
 ---
 
 ## Overview

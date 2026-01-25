@@ -1,29 +1,31 @@
 ---
-title: "Burg Windeck (Heidesheim)"
+title: Burg Windeck (Heidesheim)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.996
 longitude: 8.11264
-
-# Images
 images:
-  - "/images-sites/burg-windeck-heidesheim/01-14e86f31-800w.webp"
-  - "/images-sites/burg-windeck-heidesheim/02-f6bdd2ec-800w.webp"
-  - "/images-sites/burg-windeck-heidesheim/03-277f4d1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidesheim_Burg_Windeck_20100729.jpg/1200px-Heidesheim_Burg_Windeck_20100729.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Windeck_Heidesheim.jpg/1200px-Burg_Windeck_Heidesheim.jpg
+image_srcset:
+  Heidesheim Burg Windeck 20100729.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidesheim_Burg_Windeck_20100729.jpg/400px-Heidesheim_Burg_Windeck_20100729.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidesheim_Burg_Windeck_20100729.jpg/800px-Heidesheim_Burg_Windeck_20100729.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidesheim_Burg_Windeck_20100729.jpg/1200px-Heidesheim_Burg_Windeck_20100729.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidesheim_Burg_Windeck_20100729.jpg/1920px-Heidesheim_Burg_Windeck_20100729.jpg
+  Burg Windeck Heidesheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Windeck_Heidesheim.jpg/400px-Burg_Windeck_Heidesheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Windeck_Heidesheim.jpg/800px-Burg_Windeck_Heidesheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Windeck_Heidesheim.jpg/1200px-Burg_Windeck_Heidesheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Windeck_Heidesheim.jpg/1920px-Burg_Windeck_Heidesheim.jpg
 ---
 
 ## Overview

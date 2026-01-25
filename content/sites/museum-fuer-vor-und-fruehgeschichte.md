@@ -13,7 +13,7 @@ regions:
 latitude: 49.2308
 longitude: 6.9914
 images:
-  - "/images-sites/museum-fuer-vor-und-fruehgeschichte/01-0ec841e4-800w.webp"
+  - "/images/museum-fuer-vor-und-fruehgeschichte/01-0ec841e4-800w.webp"
 ---
 
 ## Overview

@@ -1,28 +1,49 @@
 ---
-title: "DESY"
+title: DESY
 date: 2026-01-23
 draft: false
-description: "physics research institute in Hamburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: physics research institute in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.575833333
 longitude: 9.879444444
-
-# Images
 images:
-  - "/images-sites/desy/02-072a5323-800w.webp"
-  - "/images-sites/desy/03-02f2f800-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20250331_Z9B_2335.jpg/1200px-20250331_Z9B_2335.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg/1200px-TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_desy.svg/1200px-Logo_desy.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/1200px-DESY_sign_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/1200px-Desy_logo_3c_web.svg.png
+image_srcset:
+  20250331 Z9B 2335.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20250331_Z9B_2335.jpg/400px-20250331_Z9B_2335.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20250331_Z9B_2335.jpg/800px-20250331_Z9B_2335.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20250331_Z9B_2335.jpg/1200px-20250331_Z9B_2335.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20250331_Z9B_2335.jpg/1920px-20250331_Z9B_2335.jpg
+  TTF Cavity-Verbindung im Reinraum 2-a3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg/400px-TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg/800px-TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg/1200px-TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg/1920px-TTF_Cavity-Verbindung_im_Reinraum_2-a3.jpg
+  Logo desy.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_desy.svg/400px-Logo_desy.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_desy.svg/800px-Logo_desy.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_desy.svg/1200px-Logo_desy.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_desy.svg/1920px-Logo_desy.svg.png
+  DESY sign Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/400px-DESY_sign_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/800px-DESY_sign_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/1200px-DESY_sign_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/DESY_sign_Hamburg.jpg/1920px-DESY_sign_Hamburg.jpg
+  Desy logo 3c web.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/400px-Desy_logo_3c_web.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/800px-Desy_logo_3c_web.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/1200px-Desy_logo_3c_web.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Desy_logo_3c_web.svg/1920px-Desy_logo_3c_web.svg.png
 ---
 
 ## Overview

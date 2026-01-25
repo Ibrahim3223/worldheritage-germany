@@ -1,19 +1,49 @@
 ---
-title: "Burg Neuenstein"
+title: Burg Neuenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5026
 longitude: 8.1291
 images:
-  - "/images-sites/burg-neuenstein/01-4b89b1bc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/1200px-Burgruine_(Badenweiler)_jm26095.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/1200px-00_0526_Burg_Baden_-_Badenweiler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/1200px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/1200px-Nonnenstein2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg_Neuenstein.png/1200px-Burg_Neuenstein.png
+image_srcset:
+  Burgruine (Badenweiler) jm26095.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/400px-Burgruine_(Badenweiler)_jm26095.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/800px-Burgruine_(Badenweiler)_jm26095.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/1200px-Burgruine_(Badenweiler)_jm26095.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/1920px-Burgruine_(Badenweiler)_jm26095.jpg
+  00 0526 Burg Baden - Badenweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/400px-00_0526_Burg_Baden_-_Badenweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/800px-00_0526_Burg_Baden_-_Badenweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/1200px-00_0526_Burg_Baden_-_Badenweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/1920px-00_0526_Burg_Baden_-_Badenweiler.jpg
+  00 0411 Kurort Badenweiler - Burg Badenweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/400px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/800px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/1200px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/1920px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+  Nonnenstein2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/400px-Nonnenstein2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/800px-Nonnenstein2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/1200px-Nonnenstein2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nonnenstein2.JPG/1920px-Nonnenstein2.JPG
+  Burg Neuenstein.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg_Neuenstein.png/400px-Burg_Neuenstein.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg_Neuenstein.png/800px-Burg_Neuenstein.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg_Neuenstein.png/1200px-Burg_Neuenstein.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg_Neuenstein.png/1920px-Burg_Neuenstein.png
 ---
 
 ## Overview

@@ -1,24 +1,52 @@
 ---
-title: "Evangelische Kirche"
-site_name: "Evangelische Kirche"
-slug: "evangelische-kirche"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische Kirche
+site_name: Evangelische Kirche
+slug: evangelische-kirche
+region: Baden-Württemberg
 latitude: 49.3221
 longitude: 8.81901
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380355"
-description: "In the quaint region of Meckesheim, Germany, the Evangelische Kirche stands as a striking example of Gothic Revival architecture. Built in 1847, this ch..."
+- church building
+- religious site
+wikidata_id: Q1380355
+description: In the quaint region of Meckesheim, Germany, the Evangelische Kirche
+  stands as a striking example of Gothic Revival architecture. Built in 1847, this
+  ch...
 images:
-  - "/images-sites/evangelische-kirche/01-39e0aa8a-1920w.webp"
-  - "/images-sites/evangelische-kirche/02-89b8a100-1920w.webp"
-  - "/images-sites/evangelische-kirche/03-a65b4b76-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Meckesheim-evkirche.jpg/1200px-Meckesheim-evkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg/1200px-Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Langula_Kirche_2.jpg/1200px-Langula_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg/1200px-Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg/1200px-Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg
+image_srcset:
+  Meckesheim-evkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Meckesheim-evkirche.jpg/400px-Meckesheim-evkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Meckesheim-evkirche.jpg/800px-Meckesheim-evkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Meckesheim-evkirche.jpg/1200px-Meckesheim-evkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Meckesheim-evkirche.jpg/1920px-Meckesheim-evkirche.jpg
+  Präses Annette Kurschus, EKD - Ratsvorsitzende.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg/400px-Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg/800px-Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg/1200px-Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg/1920px-Präses_Annette_Kurschus,_EKD_-_Ratsvorsitzende.jpg
+  Langula Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Langula_Kirche_2.jpg/400px-Langula_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Langula_Kirche_2.jpg/800px-Langula_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Langula_Kirche_2.jpg/1200px-Langula_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Langula_Kirche_2.jpg/1920px-Langula_Kirche_2.jpg
+  Luther-Eiche Riedstadt-Goddelau April 2021-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg/400px-Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg/800px-Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg/1200px-Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg/1920px-Luther-Eiche_Riedstadt-Goddelau_April_2021-2.jpg
+  Kirsten Fehrs, stellv. Ratsvorsitzende der EKD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg/400px-Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg/800px-Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg/1200px-Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg/1920px-Kirsten_Fehrs,_stellv._Ratsvorsitzende_der_EKD.jpg
 ---
 
 ## Overview

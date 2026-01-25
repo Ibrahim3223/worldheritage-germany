@@ -13,7 +13,7 @@ regions:
 latitude: 51.151914
 longitude: 11.812664
 images:
-  - "/images-sites/nietzsche-denkmal/01-ae3cd84e-800w.webp"
+  - "/images/nietzsche-denkmal/01-ae3cd84e-800w.webp"
 ---
 
 ## Overview

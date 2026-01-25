@@ -1,27 +1,43 @@
 ---
-title: "Altburg (Bundenbach)"
+title: Altburg (Bundenbach)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8486
 longitude: 7.39217
-
-# Images
 images:
-  - "/images-sites/altburg-bundenbach/01-4c520782-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Keltensiedlung_Altburg.jpg/1200px-Keltensiedlung_Altburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/1200px-Altburg_plateau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Celtic_village_(Open-air_museum).jpg/1200px-Celtic_village_(Open-air_museum).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Altburg02.jpg/1200px-Altburg02.jpg
+image_srcset:
+  Keltensiedlung Altburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Keltensiedlung_Altburg.jpg/400px-Keltensiedlung_Altburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Keltensiedlung_Altburg.jpg/800px-Keltensiedlung_Altburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Keltensiedlung_Altburg.jpg/1200px-Keltensiedlung_Altburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Keltensiedlung_Altburg.jpg/1920px-Keltensiedlung_Altburg.jpg
+  Altburg plateau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/400px-Altburg_plateau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/800px-Altburg_plateau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/1200px-Altburg_plateau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Altburg_plateau.jpg/1920px-Altburg_plateau.jpg
+  Celtic village (Open-air museum).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Celtic_village_(Open-air_museum).jpg/400px-Celtic_village_(Open-air_museum).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Celtic_village_(Open-air_museum).jpg/800px-Celtic_village_(Open-air_museum).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Celtic_village_(Open-air_museum).jpg/1200px-Celtic_village_(Open-air_museum).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Celtic_village_(Open-air_museum).jpg/1920px-Celtic_village_(Open-air_museum).jpg
+  Altburg02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Altburg02.jpg/400px-Altburg02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Altburg02.jpg/800px-Altburg02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Altburg02.jpg/1200px-Altburg02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Altburg02.jpg/1920px-Altburg02.jpg
 ---
 
 ## Overview

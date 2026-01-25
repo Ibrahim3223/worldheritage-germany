@@ -13,7 +13,7 @@ regions:
 latitude: 50.8753
 longitude: 10.9801
 images:
-  - "/images-sites/preussengrab-ichtershausen/01-4a14aa88-800w.webp"
+  - "/images/preussengrab-ichtershausen/01-4a14aa88-800w.webp"
 ---
 
 ## Overview

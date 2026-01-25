@@ -13,7 +13,7 @@ regions:
 latitude: 47.97177
 longitude: 7.99273
 images:
-  - "/images-sites/vater-unser-kapelle/01-60c1ae3e-800w.webp"
+  - "/images/vater-unser-kapelle/01-60c1ae3e-800w.webp"
 ---
 
 ## Overview

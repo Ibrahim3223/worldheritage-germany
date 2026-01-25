@@ -1,24 +1,45 @@
 ---
-title: "Evangelische Hauptkirche Rheydt"
-site_name: "Evangelische Hauptkirche Rheydt"
-slug: "evangelische-hauptkirche-rheydt"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Hauptkirche Rheydt
+site_name: Evangelische Hauptkirche Rheydt
+slug: evangelische-hauptkirche-rheydt
+region: North Rhine-Westphalia
 latitude: 51.1682
 longitude: 6.44638
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380199"
-description: "As you approach the Evangelische Hauptkirche Rheydt, the striking Romanesque Revival architecture captures your attention immediately. This church, loca..."
+- church building
+- religious site
+wikidata_id: Q1380199
+description: As you approach the Evangelische Hauptkirche Rheydt, the striking Romanesque
+  Revival architecture captures your attention immediately. This church, loca...
 images:
-  - "/images-sites/evangelische-hauptkirche-rheydt/01-6d05a1e8-1920w.webp"
-  - "/images-sites/evangelische-hauptkirche-rheydt/02-e645f0fd-1920w.webp"
-  - "/images-sites/evangelische-hauptkirche-rheydt/03-89d94e9c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ev%20Hauptkirche%20Rheydt.jpg/1200px-Ev%20Hauptkirche%20Rheydt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Evangelische_Kirche_Rheydt.jpg/1200px-Evangelische_Kirche_Rheydt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/1200px-Ev_Hauptkirche_Rheydt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg/1200px-Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg
+image_srcset:
+  Ev%20Hauptkirche%20Rheydt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ev%20Hauptkirche%20Rheydt.jpg/400px-Ev%20Hauptkirche%20Rheydt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ev%20Hauptkirche%20Rheydt.jpg/800px-Ev%20Hauptkirche%20Rheydt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ev%20Hauptkirche%20Rheydt.jpg/1200px-Ev%20Hauptkirche%20Rheydt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ev%20Hauptkirche%20Rheydt.jpg/1920px-Ev%20Hauptkirche%20Rheydt.jpg
+  Evangelische Kirche Rheydt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Evangelische_Kirche_Rheydt.jpg/400px-Evangelische_Kirche_Rheydt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Evangelische_Kirche_Rheydt.jpg/800px-Evangelische_Kirche_Rheydt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Evangelische_Kirche_Rheydt.jpg/1200px-Evangelische_Kirche_Rheydt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Evangelische_Kirche_Rheydt.jpg/1920px-Evangelische_Kirche_Rheydt.jpg
+  Ev Hauptkirche Rheydt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/400px-Ev_Hauptkirche_Rheydt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/800px-Ev_Hauptkirche_Rheydt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/1200px-Ev_Hauptkirche_Rheydt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ev_Hauptkirche_Rheydt.jpg/1920px-Ev_Hauptkirche_Rheydt.jpg
+  Kanzelaltar mit Bibel, Kreuz & Spruchband.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg/400px-Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg/800px-Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg/1200px-Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg/1920px-Kanzelaltar_mit_Bibel,_Kreuz_&_Spruchband.jpg
 ---
 
 ## Overview

@@ -1,29 +1,37 @@
 ---
-title: "Cölner Hofbräu Früh"
+title: Cölner Hofbräu Früh
 date: 2026-01-23
 draft: false
-description: "German beer brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German beer brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.939722222
 longitude: 6.957222222
-
-# Images
 images:
-  - "/images-sites/coelner-hofbraeu-frueh/01-e45cd37e-800w.webp"
-  - "/images-sites/coelner-hofbraeu-frueh/02-e854e589-800w.webp"
-  - "/images-sites/coelner-hofbraeu-frueh/03-5d38a276-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1200px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg/1200px-Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg/1200px-Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg
+image_srcset:
+  Früh Brauhaus Köln - Am Hof 12 und 14 (4626-28).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/400px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/800px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1200px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg/1920px-Früh_Brauhaus_Köln_-_Am_Hof_12_und_14_(4626-28).jpg
+  Früh Brauhaus Köln - Am Hof 12 (4608-10).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg/400px-Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg/800px-Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg/1200px-Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg/1920px-Früh_Brauhaus_Köln_-_Am_Hof_12_(4608-10).jpg
+  Cölner Hofbräu Früh KG - Früh Kölsch, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg/400px-Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg/800px-Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg/1200px-Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg/1920px-Cölner_Hofbräu_Früh_KG_-_Früh_Kölsch,_2019.jpg
 ---
 
 ## Overview

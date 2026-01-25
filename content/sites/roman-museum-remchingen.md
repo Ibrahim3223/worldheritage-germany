@@ -13,7 +13,7 @@ regions:
 latitude: 48.9403
 longitude: 8.5705
 images:
-  - "/images-sites/roman-museum-remchingen/01-368398a5-800w.webp"
+  - "/images/roman-museum-remchingen/01-368398a5-800w.webp"
 ---
 
 ## Overview

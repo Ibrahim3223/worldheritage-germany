@@ -13,7 +13,7 @@ regions:
 latitude: 51.3783
 longitude: 7.69972
 images:
-  - "/images-sites/villa-wessel/01-9f55d8ce-800w.webp"
+  - "/images/villa-wessel/01-9f55d8ce-800w.webp"
 ---
 
 ## Overview

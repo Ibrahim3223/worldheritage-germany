@@ -1,19 +1,49 @@
 ---
-title: "Fortunabrunnen"
+title: Fortunabrunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.13478
 longitude: 11.58332
 images:
-  - "/images-sites/fortunabrunnen/01-c57510f7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fortunabrunnen_Isartorplatz_Muenchen-10.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fortunabrunnen_Isartorplatz_Muenchen-4.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fortunabrunnen_Isartorplatz_Muenchen-6.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fortunabrunnen_Isartorplatz_Muenchen-7.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fortunabrunnen_Isartorplatz_Muenchen-12.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-12.jpg
+image_srcset:
+  Fortunabrunnen Isartorplatz Muenchen-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fortunabrunnen_Isartorplatz_Muenchen-10.jpg/400px-Fortunabrunnen_Isartorplatz_Muenchen-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fortunabrunnen_Isartorplatz_Muenchen-10.jpg/800px-Fortunabrunnen_Isartorplatz_Muenchen-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fortunabrunnen_Isartorplatz_Muenchen-10.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fortunabrunnen_Isartorplatz_Muenchen-10.jpg/1920px-Fortunabrunnen_Isartorplatz_Muenchen-10.jpg
+  Fortunabrunnen Isartorplatz Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fortunabrunnen_Isartorplatz_Muenchen-4.jpg/400px-Fortunabrunnen_Isartorplatz_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fortunabrunnen_Isartorplatz_Muenchen-4.jpg/800px-Fortunabrunnen_Isartorplatz_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fortunabrunnen_Isartorplatz_Muenchen-4.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fortunabrunnen_Isartorplatz_Muenchen-4.jpg/1920px-Fortunabrunnen_Isartorplatz_Muenchen-4.jpg
+  Fortunabrunnen Isartorplatz Muenchen-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fortunabrunnen_Isartorplatz_Muenchen-6.jpg/400px-Fortunabrunnen_Isartorplatz_Muenchen-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fortunabrunnen_Isartorplatz_Muenchen-6.jpg/800px-Fortunabrunnen_Isartorplatz_Muenchen-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fortunabrunnen_Isartorplatz_Muenchen-6.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fortunabrunnen_Isartorplatz_Muenchen-6.jpg/1920px-Fortunabrunnen_Isartorplatz_Muenchen-6.jpg
+  Fortunabrunnen Isartorplatz Muenchen-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fortunabrunnen_Isartorplatz_Muenchen-7.jpg/400px-Fortunabrunnen_Isartorplatz_Muenchen-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fortunabrunnen_Isartorplatz_Muenchen-7.jpg/800px-Fortunabrunnen_Isartorplatz_Muenchen-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fortunabrunnen_Isartorplatz_Muenchen-7.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fortunabrunnen_Isartorplatz_Muenchen-7.jpg/1920px-Fortunabrunnen_Isartorplatz_Muenchen-7.jpg
+  Fortunabrunnen Isartorplatz Muenchen-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fortunabrunnen_Isartorplatz_Muenchen-12.jpg/400px-Fortunabrunnen_Isartorplatz_Muenchen-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fortunabrunnen_Isartorplatz_Muenchen-12.jpg/800px-Fortunabrunnen_Isartorplatz_Muenchen-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fortunabrunnen_Isartorplatz_Muenchen-12.jpg/1200px-Fortunabrunnen_Isartorplatz_Muenchen-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fortunabrunnen_Isartorplatz_Muenchen-12.jpg/1920px-Fortunabrunnen_Isartorplatz_Muenchen-12.jpg
 ---
 
 ## Overview

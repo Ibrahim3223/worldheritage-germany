@@ -1,19 +1,49 @@
 ---
-title: "Bergbau- und Industriemuseum Ostbayern"
+title: Bergbau- und Industriemuseum Ostbayern
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3865
 longitude: 11.9107
 images:
-  - "/images-sites/bergbau-und-industriemuseum-ostbayern/01-9d431f39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/1200px-Theuern-Schachtanlage_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gusstiegel_Luitpoldhuette_Amberg_02.jpg/1200px-Gusstiegel_Luitpoldhuette_Amberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gusstiegel_Luitpoldhuette_Amberg_03.jpg/1200px-Gusstiegel_Luitpoldhuette_Amberg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wurfschaufellader_02.jpg/1200px-Wurfschaufellader_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wurfschaufellader_04.jpg/1200px-Wurfschaufellader_04.jpg
+image_srcset:
+  Theuern-Schachtanlage 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/400px-Theuern-Schachtanlage_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/800px-Theuern-Schachtanlage_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/1200px-Theuern-Schachtanlage_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Theuern-Schachtanlage_1.jpg/1920px-Theuern-Schachtanlage_1.jpg
+  Gusstiegel Luitpoldhuette Amberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gusstiegel_Luitpoldhuette_Amberg_02.jpg/400px-Gusstiegel_Luitpoldhuette_Amberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gusstiegel_Luitpoldhuette_Amberg_02.jpg/800px-Gusstiegel_Luitpoldhuette_Amberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gusstiegel_Luitpoldhuette_Amberg_02.jpg/1200px-Gusstiegel_Luitpoldhuette_Amberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gusstiegel_Luitpoldhuette_Amberg_02.jpg/1920px-Gusstiegel_Luitpoldhuette_Amberg_02.jpg
+  Gusstiegel Luitpoldhuette Amberg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gusstiegel_Luitpoldhuette_Amberg_03.jpg/400px-Gusstiegel_Luitpoldhuette_Amberg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gusstiegel_Luitpoldhuette_Amberg_03.jpg/800px-Gusstiegel_Luitpoldhuette_Amberg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gusstiegel_Luitpoldhuette_Amberg_03.jpg/1200px-Gusstiegel_Luitpoldhuette_Amberg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gusstiegel_Luitpoldhuette_Amberg_03.jpg/1920px-Gusstiegel_Luitpoldhuette_Amberg_03.jpg
+  Wurfschaufellader 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wurfschaufellader_02.jpg/400px-Wurfschaufellader_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wurfschaufellader_02.jpg/800px-Wurfschaufellader_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wurfschaufellader_02.jpg/1200px-Wurfschaufellader_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wurfschaufellader_02.jpg/1920px-Wurfschaufellader_02.jpg
+  Wurfschaufellader 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wurfschaufellader_04.jpg/400px-Wurfschaufellader_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wurfschaufellader_04.jpg/800px-Wurfschaufellader_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wurfschaufellader_04.jpg/1200px-Wurfschaufellader_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wurfschaufellader_04.jpg/1920px-Wurfschaufellader_04.jpg
 ---
 
 ## Overview

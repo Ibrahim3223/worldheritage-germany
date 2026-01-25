@@ -13,7 +13,7 @@ regions:
 latitude: 50.8342
 longitude: 12.9216
 images:
-  - "/images-sites/roter-turm/01-93596006-800w.webp"
+  - "/images/roter-turm/01-93596006-800w.webp"
 ---
 
 ## Overview

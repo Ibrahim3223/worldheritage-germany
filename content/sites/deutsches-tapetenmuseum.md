@@ -1,19 +1,43 @@
 ---
-title: "Deutsches Tapetenmuseum"
+title: Deutsches Tapetenmuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3108
 longitude: 9.49
 images:
-  - "/images-sites/deutsches-tapetenmuseum/01-1c661e04-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Overdoor_(France),_1860_(CH_18404685).jpg/1200px-Overdoor_(France),_1860_(CH_18404685).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KA-Tapete-Beerdigung05.JPG/1200px-KA-Tapete-Beerdigung05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg/1200px-Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1200px-Hessisches_landesmuseum_kassel.JPG
+image_srcset:
+  Overdoor (France), 1860 (CH 18404685).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Overdoor_(France),_1860_(CH_18404685).jpg/400px-Overdoor_(France),_1860_(CH_18404685).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Overdoor_(France),_1860_(CH_18404685).jpg/800px-Overdoor_(France),_1860_(CH_18404685).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Overdoor_(France),_1860_(CH_18404685).jpg/1200px-Overdoor_(France),_1860_(CH_18404685).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Overdoor_(France),_1860_(CH_18404685).jpg/1920px-Overdoor_(France),_1860_(CH_18404685).jpg
+  KA-Tapete-Beerdigung05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KA-Tapete-Beerdigung05.JPG/400px-KA-Tapete-Beerdigung05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KA-Tapete-Beerdigung05.JPG/800px-KA-Tapete-Beerdigung05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KA-Tapete-Beerdigung05.JPG/1200px-KA-Tapete-Beerdigung05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/KA-Tapete-Beerdigung05.JPG/1920px-KA-Tapete-Beerdigung05.JPG
+  Ornament, Juno from the series Olympus, 1826–50 (CH 18404679).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg/400px-Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg/800px-Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg/1200px-Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg/1920px-Ornament,_Juno_from_the_series_Olympus,_1826–50_(CH_18404679).jpg
+  Hessisches landesmuseum kassel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/400px-Hessisches_landesmuseum_kassel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/800px-Hessisches_landesmuseum_kassel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1200px-Hessisches_landesmuseum_kassel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hessisches_landesmuseum_kassel.JPG/1920px-Hessisches_landesmuseum_kassel.JPG
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 51.0472
 longitude: 13.7489
 images:
-  - "/images-sites/residenz-theater/02-1666237a-800w.webp"
-  - "/images-sites/residenz-theater/03-54bfa1fc-800w.webp"
+  - "/images/residenz-theater/02-1666237a-800w.webp"
+  - "/images/residenz-theater/03-54bfa1fc-800w.webp"
 ---
 
 ## Overview

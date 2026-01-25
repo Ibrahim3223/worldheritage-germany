@@ -1,27 +1,43 @@
 ---
-title: "Burgberg"
+title: Burgberg
 date: 2026-01-23
 draft: false
-description: "hill in Hesse, Germany."
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: hill in Hesse, Germany.
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.2488
 longitude: 9.36
-
-# Images
 images:
-  - "/images-sites/burgberg/01-48ede09b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20140626-Naturschutzgebiet_Burgberg.jpg/1200px-20140626-Naturschutzgebiet_Burgberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG/1200px-Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bücherkiste_Burgberg.jpg/1200px-Bücherkiste_Burgberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgberg_bevern_panorama.jpg/1200px-Burgberg_bevern_panorama.jpg
+image_srcset:
+  20140626-Naturschutzgebiet Burgberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20140626-Naturschutzgebiet_Burgberg.jpg/400px-20140626-Naturschutzgebiet_Burgberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20140626-Naturschutzgebiet_Burgberg.jpg/800px-20140626-Naturschutzgebiet_Burgberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20140626-Naturschutzgebiet_Burgberg.jpg/1200px-20140626-Naturschutzgebiet_Burgberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20140626-Naturschutzgebiet_Burgberg.jpg/1920px-20140626-Naturschutzgebiet_Burgberg.jpg
+  Burgberg - Am Sonnenhang - OM, Kirche v SO 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG/400px-Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG/800px-Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG/1200px-Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG/1920px-Burgberg_-_Am_Sonnenhang_-_OM,_Kirche_v_SO_03.JPG
+  Bücherkiste Burgberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bücherkiste_Burgberg.jpg/400px-Bücherkiste_Burgberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bücherkiste_Burgberg.jpg/800px-Bücherkiste_Burgberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bücherkiste_Burgberg.jpg/1200px-Bücherkiste_Burgberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bücherkiste_Burgberg.jpg/1920px-Bücherkiste_Burgberg.jpg
+  Burgberg bevern panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgberg_bevern_panorama.jpg/400px-Burgberg_bevern_panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgberg_bevern_panorama.jpg/800px-Burgberg_bevern_panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgberg_bevern_panorama.jpg/1200px-Burgberg_bevern_panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgberg_bevern_panorama.jpg/1920px-Burgberg_bevern_panorama.jpg
 ---
 
 ## Overview

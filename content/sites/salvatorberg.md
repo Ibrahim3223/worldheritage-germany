@@ -13,7 +13,7 @@ regions:
 latitude: 50.7842
 longitude: 6.08556
 images:
-  - "/images-sites/salvatorberg/01-f0c5dd2d-800w.webp"
+  - "/images/salvatorberg/01-f0c5dd2d-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 8.473827777
 
 # Images
 images:
-  - "/images-sites/karlsburg-castle/01-cf17508b-800w.webp"
+  - "/images/karlsburg-castle/01-cf17508b-800w.webp"
 ---
 
 ## Overview

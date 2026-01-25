@@ -13,8 +13,8 @@ regions:
 latitude: 51.66527778
 longitude: 7.46722222
 images:
-  - "/images-sites/synagogue-selm-bork/02-ef3ea9aa-800w.webp"
-  - "/images-sites/synagogue-selm-bork/03-7e8605c4-800w.webp"
+  - "/images/synagogue-selm-bork/02-ef3ea9aa-800w.webp"
+  - "/images/synagogue-selm-bork/03-7e8605c4-800w.webp"
 ---
 
 ## Overview

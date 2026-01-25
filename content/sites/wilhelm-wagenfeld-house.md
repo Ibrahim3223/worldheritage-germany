@@ -21,8 +21,8 @@ longitude: 8.81485
 
 # Images
 images:
-  - "/images-sites/wilhelm-wagenfeld-house/02-38497a8f-800w.webp"
-  - "/images-sites/wilhelm-wagenfeld-house/03-bb203255-800w.webp"
+  - "/images/wilhelm-wagenfeld-house/02-38497a8f-800w.webp"
+  - "/images/wilhelm-wagenfeld-house/03-bb203255-800w.webp"
 ---
 
 ## Overview

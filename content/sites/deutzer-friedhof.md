@@ -1,19 +1,49 @@
 ---
-title: "Deutzer Friedhof"
+title: Deutzer Friedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Poll, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Poll, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.925030555
 longitude: 6.988205555
 images:
-  - "/images-sites/deutzer-friedhof/01-07c0283f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ballonfahrt_Köln_20130810_456.JPG/1200px-Ballonfahrt_Köln_20130810_456.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ballonfahrt_Köln_20130810_457.JPG/1200px-Ballonfahrt_Köln_20130810_457.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballonfahrt_Köln_20130810_489.JPG/1200px-Ballonfahrt_Köln_20130810_489.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ballonfahrt_Köln_20130810_490.JPG/1200px-Ballonfahrt_Köln_20130810_490.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Grab-kurt-alder.jpg/1200px-Grab-kurt-alder.jpg
+image_srcset:
+  Ballonfahrt Köln 20130810 456.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ballonfahrt_Köln_20130810_456.JPG/400px-Ballonfahrt_Köln_20130810_456.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ballonfahrt_Köln_20130810_456.JPG/800px-Ballonfahrt_Köln_20130810_456.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ballonfahrt_Köln_20130810_456.JPG/1200px-Ballonfahrt_Köln_20130810_456.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ballonfahrt_Köln_20130810_456.JPG/1920px-Ballonfahrt_Köln_20130810_456.JPG
+  Ballonfahrt Köln 20130810 457.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ballonfahrt_Köln_20130810_457.JPG/400px-Ballonfahrt_Köln_20130810_457.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ballonfahrt_Köln_20130810_457.JPG/800px-Ballonfahrt_Köln_20130810_457.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ballonfahrt_Köln_20130810_457.JPG/1200px-Ballonfahrt_Köln_20130810_457.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ballonfahrt_Köln_20130810_457.JPG/1920px-Ballonfahrt_Köln_20130810_457.JPG
+  Ballonfahrt Köln 20130810 489.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballonfahrt_Köln_20130810_489.JPG/400px-Ballonfahrt_Köln_20130810_489.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballonfahrt_Köln_20130810_489.JPG/800px-Ballonfahrt_Köln_20130810_489.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballonfahrt_Köln_20130810_489.JPG/1200px-Ballonfahrt_Köln_20130810_489.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballonfahrt_Köln_20130810_489.JPG/1920px-Ballonfahrt_Köln_20130810_489.JPG
+  Ballonfahrt Köln 20130810 490.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ballonfahrt_Köln_20130810_490.JPG/400px-Ballonfahrt_Köln_20130810_490.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ballonfahrt_Köln_20130810_490.JPG/800px-Ballonfahrt_Köln_20130810_490.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ballonfahrt_Köln_20130810_490.JPG/1200px-Ballonfahrt_Köln_20130810_490.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ballonfahrt_Köln_20130810_490.JPG/1920px-Ballonfahrt_Köln_20130810_490.JPG
+  Grab-kurt-alder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Grab-kurt-alder.jpg/400px-Grab-kurt-alder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Grab-kurt-alder.jpg/800px-Grab-kurt-alder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Grab-kurt-alder.jpg/1200px-Grab-kurt-alder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Grab-kurt-alder.jpg/1920px-Grab-kurt-alder.jpg
 ---
 
 ## Overview

@@ -1,27 +1,43 @@
 ---
-title: "Burg Schloßböckelheim"
+title: Burg Schloßböckelheim
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8053
 longitude: 7.74208
-
-# Images
 images:
-  - "/images-sites/burg-schlossboeckelheim/02-cdd752c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgruine_Schloßböckelheim_4519.jpg/1200px-Burgruine_Schloßböckelheim_4519.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg/1200px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg/1200px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Böckelheim.jpeg/1200px-Schloss_Böckelheim.jpeg
+image_srcset:
+  Burgruine Schloßböckelheim 4519.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgruine_Schloßböckelheim_4519.jpg/400px-Burgruine_Schloßböckelheim_4519.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgruine_Schloßböckelheim_4519.jpg/800px-Burgruine_Schloßböckelheim_4519.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgruine_Schloßböckelheim_4519.jpg/1200px-Burgruine_Schloßböckelheim_4519.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgruine_Schloßböckelheim_4519.jpg/1920px-Burgruine_Schloßböckelheim_4519.jpg
+  Schlossböckelheim Burgweg-Schlossstraße Burgruine Schlossböckelheim 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg/400px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg/800px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg/1200px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg/1920px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_001.jpg
+  Schlossböckelheim Burgweg-Schlossstraße Burgruine Schlossböckelheim 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg/400px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg/800px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg/1200px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg/1920px-Schlossböckelheim_Burgweg-Schlossstraße_Burgruine_Schlossböckelheim_002.jpg
+  Schloss Böckelheim.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Böckelheim.jpeg/400px-Schloss_Böckelheim.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Böckelheim.jpeg/800px-Schloss_Böckelheim.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Böckelheim.jpeg/1200px-Schloss_Böckelheim.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Böckelheim.jpeg/1920px-Schloss_Böckelheim.jpeg
 ---
 
 ## Overview

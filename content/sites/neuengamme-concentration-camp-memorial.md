@@ -13,7 +13,7 @@ regions:
 latitude: 53.43055556
 longitude: 10.23361111
 images:
-  - "/images-sites/neuengamme-concentration-camp-memorial/01-c7f3f303-800w.webp"
+  - "/images/neuengamme-concentration-camp-memorial/01-c7f3f303-800w.webp"
 ---
 
 ## Overview

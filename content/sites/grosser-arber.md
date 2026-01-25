@@ -1,19 +1,49 @@
 ---
-title: "Großer Arber"
+title: Großer Arber
 date: 2026-01-23
 draft: false
-description: "highest mountain of the Bohemian Forest in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: highest mountain of the Bohemian Forest in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1124718
 longitude: 13.13619
 images:
-  - "/images-sites/grosser-arber/01-1e63ca54-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arber-Plateau.jpg/1200px-Arber-Plateau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gipfel-Plateau_Großer_Arber.jpg/1200px-Gipfel-Plateau_Großer_Arber.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer,_kleiner_Arber.jpg/1200px-Großer,_kleiner_Arber.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grosser-Arber-002.jpg/1200px-Grosser-Arber-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Großer_Arber.png/1200px-Großer_Arber.png
+image_srcset:
+  Arber-Plateau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arber-Plateau.jpg/400px-Arber-Plateau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arber-Plateau.jpg/800px-Arber-Plateau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arber-Plateau.jpg/1200px-Arber-Plateau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arber-Plateau.jpg/1920px-Arber-Plateau.jpg
+  Gipfel-Plateau Großer Arber.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gipfel-Plateau_Großer_Arber.jpg/400px-Gipfel-Plateau_Großer_Arber.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gipfel-Plateau_Großer_Arber.jpg/800px-Gipfel-Plateau_Großer_Arber.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gipfel-Plateau_Großer_Arber.jpg/1200px-Gipfel-Plateau_Großer_Arber.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gipfel-Plateau_Großer_Arber.jpg/1920px-Gipfel-Plateau_Großer_Arber.jpg
+  Großer, kleiner Arber.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer,_kleiner_Arber.jpg/400px-Großer,_kleiner_Arber.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer,_kleiner_Arber.jpg/800px-Großer,_kleiner_Arber.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer,_kleiner_Arber.jpg/1200px-Großer,_kleiner_Arber.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer,_kleiner_Arber.jpg/1920px-Großer,_kleiner_Arber.jpg
+  Grosser-Arber-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grosser-Arber-002.jpg/400px-Grosser-Arber-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grosser-Arber-002.jpg/800px-Grosser-Arber-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grosser-Arber-002.jpg/1200px-Grosser-Arber-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grosser-Arber-002.jpg/1920px-Grosser-Arber-002.jpg
+  Großer Arber.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Großer_Arber.png/400px-Großer_Arber.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Großer_Arber.png/800px-Großer_Arber.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Großer_Arber.png/1200px-Großer_Arber.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Großer_Arber.png/1920px-Großer_Arber.png
 ---
 
 ## Overview

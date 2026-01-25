@@ -13,7 +13,7 @@ regions:
 latitude: 48.266552854
 longitude: 10.444214436
 images:
-  - "/images-sites/ursberg-abbey/01-1bca4ec7-800w.webp"
+  - "/images/ursberg-abbey/01-1bca4ec7-800w.webp"
 ---
 
 ## Overview

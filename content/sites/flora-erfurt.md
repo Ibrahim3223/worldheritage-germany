@@ -1,19 +1,49 @@
 ---
-title: "Flora Erfurt"
+title: Flora Erfurt
 date: 2026-01-23
 draft: false
-description: "nicht erhaltenes Gaststättenensemble in Erfurt"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: nicht erhaltenes Gaststättenensemble in Erfurt
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.962444444
 longitude: 11.017777777
 images:
-  - "/images-sites/flora-erfurt/01-c00ff407-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Haus_Flora_Erfurt.jpg/1200px-Haus_Flora_Erfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haus_Flora_2.jpg/1200px-Haus_Flora_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Haus_Flora_3.jpg/1200px-Haus_Flora_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flora_Erfurt_1896.png/1200px-Flora_Erfurt_1896.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gaststättengarten_Flora.jpg/1200px-Gaststättengarten_Flora.jpg
+image_srcset:
+  Haus Flora Erfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Haus_Flora_Erfurt.jpg/400px-Haus_Flora_Erfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Haus_Flora_Erfurt.jpg/800px-Haus_Flora_Erfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Haus_Flora_Erfurt.jpg/1200px-Haus_Flora_Erfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Haus_Flora_Erfurt.jpg/1920px-Haus_Flora_Erfurt.jpg
+  Haus Flora 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haus_Flora_2.jpg/400px-Haus_Flora_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haus_Flora_2.jpg/800px-Haus_Flora_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haus_Flora_2.jpg/1200px-Haus_Flora_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Haus_Flora_2.jpg/1920px-Haus_Flora_2.jpg
+  Haus Flora 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Haus_Flora_3.jpg/400px-Haus_Flora_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Haus_Flora_3.jpg/800px-Haus_Flora_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Haus_Flora_3.jpg/1200px-Haus_Flora_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Haus_Flora_3.jpg/1920px-Haus_Flora_3.jpg
+  Flora Erfurt 1896.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flora_Erfurt_1896.png/400px-Flora_Erfurt_1896.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flora_Erfurt_1896.png/800px-Flora_Erfurt_1896.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flora_Erfurt_1896.png/1200px-Flora_Erfurt_1896.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flora_Erfurt_1896.png/1920px-Flora_Erfurt_1896.png
+  Gaststättengarten Flora.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gaststättengarten_Flora.jpg/400px-Gaststättengarten_Flora.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gaststättengarten_Flora.jpg/800px-Gaststättengarten_Flora.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gaststättengarten_Flora.jpg/1200px-Gaststättengarten_Flora.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gaststättengarten_Flora.jpg/1920px-Gaststättengarten_Flora.jpg
 ---
 
 ## Overview

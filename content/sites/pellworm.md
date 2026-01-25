@@ -13,9 +13,9 @@ regions:
 latitude: 54.521388888
 longitude: 8.656388888
 images:
-  - "/images-sites/pellworm/01-8ec1b212-800w.webp"
-  - "/images-sites/pellworm/02-4c69bebf-800w.webp"
-  - "/images-sites/pellworm/03-0a7c6540-800w.webp"
+  - "/images/pellworm/01-8ec1b212-800w.webp"
+  - "/images/pellworm/02-4c69bebf-800w.webp"
+  - "/images/pellworm/03-0a7c6540-800w.webp"
 ---
 
 ## Overview

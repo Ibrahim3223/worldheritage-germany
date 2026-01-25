@@ -13,7 +13,7 @@ regions:
 latitude: 48.1444
 longitude: 11.5667
 images:
-  - "/images-sites/museum-fuer-abguesse-klassischer-bildwerke/01-4fc55670-800w.webp"
+  - "/images/museum-fuer-abguesse-klassischer-bildwerke/01-4fc55670-800w.webp"
 ---
 
 ## Overview

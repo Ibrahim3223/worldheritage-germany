@@ -1,19 +1,49 @@
 ---
-title: "Isar"
+title: Isar
 date: 2026-01-23
 draft: false
-description: "river in Tyrol, Austria and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Tyrol, Austria and Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 48.803056
 longitude: 12.976389
 images:
-  - "/images-sites/isar/01-c433a619-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_der_Isar_bei_Plattling.jpg/1200px-Panorama_der_Isar_bei_Plattling.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_the_Deutsches_Museum_Munich.jpg/1200px-Aerial_image_of_the_Deutsches_Museum_Munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Georgenstein_Ostufer.jpg/1200px-Georgenstein_Ostufer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020-08-09_Isar_München_nach_der_Flut_76.jpg/1200px-2020-08-09_Isar_München_nach_der_Flut_76.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg/1200px-Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg
+image_srcset:
+  Panorama der Isar bei Plattling.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_der_Isar_bei_Plattling.jpg/400px-Panorama_der_Isar_bei_Plattling.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_der_Isar_bei_Plattling.jpg/800px-Panorama_der_Isar_bei_Plattling.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_der_Isar_bei_Plattling.jpg/1200px-Panorama_der_Isar_bei_Plattling.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Panorama_der_Isar_bei_Plattling.jpg/1920px-Panorama_der_Isar_bei_Plattling.jpg
+  Aerial image of the Deutsches Museum Munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_the_Deutsches_Museum_Munich.jpg/400px-Aerial_image_of_the_Deutsches_Museum_Munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_the_Deutsches_Museum_Munich.jpg/800px-Aerial_image_of_the_Deutsches_Museum_Munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_the_Deutsches_Museum_Munich.jpg/1200px-Aerial_image_of_the_Deutsches_Museum_Munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aerial_image_of_the_Deutsches_Museum_Munich.jpg/1920px-Aerial_image_of_the_Deutsches_Museum_Munich.jpg
+  Georgenstein Ostufer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Georgenstein_Ostufer.jpg/400px-Georgenstein_Ostufer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Georgenstein_Ostufer.jpg/800px-Georgenstein_Ostufer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Georgenstein_Ostufer.jpg/1200px-Georgenstein_Ostufer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Georgenstein_Ostufer.jpg/1920px-Georgenstein_Ostufer.jpg
+  2020-08-09 Isar München nach der Flut 76.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020-08-09_Isar_München_nach_der_Flut_76.jpg/400px-2020-08-09_Isar_München_nach_der_Flut_76.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020-08-09_Isar_München_nach_der_Flut_76.jpg/800px-2020-08-09_Isar_München_nach_der_Flut_76.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020-08-09_Isar_München_nach_der_Flut_76.jpg/1200px-2020-08-09_Isar_München_nach_der_Flut_76.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020-08-09_Isar_München_nach_der_Flut_76.jpg/1920px-2020-08-09_Isar_München_nach_der_Flut_76.jpg
+  Blick auf die Isar von Großhesseloher Brücke Richtung Norden 2021-01-17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg/400px-Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg/800px-Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg/1200px-Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg/1920px-Blick_auf_die_Isar_von_Großhesseloher_Brücke_Richtung_Norden_2021-01-17.jpg
 ---
 
 ## Overview

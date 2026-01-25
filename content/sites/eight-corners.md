@@ -1,19 +1,49 @@
 ---
-title: "Eight Corners"
+title: Eight Corners
 date: 2026-01-23
 draft: false
-description: "buildings in Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: buildings in Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3961
 longitude: 13.0586
 images:
-  - "/images-sites/eight-corners/01-5e5c70e2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Potsdam_view_from_Nikolaikirche_05-15_img08.jpg/1200px-Potsdam_view_from_Nikolaikirche_05-15_img08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Am_Neuen_Markt_2_09-2012.jpg/1200px-Am_Neuen_Markt_2_09-2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Potsdam_Acht_Ecken.jpg/1200px-Potsdam_Acht_Ecken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg/1200px-Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg/1200px-Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg
+image_srcset:
+  Potsdam view from Nikolaikirche 05-15 img08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Potsdam_view_from_Nikolaikirche_05-15_img08.jpg/400px-Potsdam_view_from_Nikolaikirche_05-15_img08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Potsdam_view_from_Nikolaikirche_05-15_img08.jpg/800px-Potsdam_view_from_Nikolaikirche_05-15_img08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Potsdam_view_from_Nikolaikirche_05-15_img08.jpg/1200px-Potsdam_view_from_Nikolaikirche_05-15_img08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Potsdam_view_from_Nikolaikirche_05-15_img08.jpg/1920px-Potsdam_view_from_Nikolaikirche_05-15_img08.jpg
+  Am Neuen Markt 2 09-2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Am_Neuen_Markt_2_09-2012.jpg/400px-Am_Neuen_Markt_2_09-2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Am_Neuen_Markt_2_09-2012.jpg/800px-Am_Neuen_Markt_2_09-2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Am_Neuen_Markt_2_09-2012.jpg/1200px-Am_Neuen_Markt_2_09-2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Am_Neuen_Markt_2_09-2012.jpg/1920px-Am_Neuen_Markt_2_09-2012.jpg
+  Potsdam Acht Ecken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Potsdam_Acht_Ecken.jpg/400px-Potsdam_Acht_Ecken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Potsdam_Acht_Ecken.jpg/800px-Potsdam_Acht_Ecken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Potsdam_Acht_Ecken.jpg/1200px-Potsdam_Acht_Ecken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Potsdam_Acht_Ecken.jpg/1920px-Potsdam_Acht_Ecken.jpg
+  Bundesarchiv Bild 170-300, Potsdam, bei den "Acht Ecken" Am neuen Markt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg/400px-Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg/800px-Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg/1200px-Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg/1920px-Bundesarchiv_Bild_170-300,_Potsdam,_bei_den_"Acht_Ecken"_Am_neuen_Markt.jpg
+  Bundesarchiv Bild 170-288, Potsdam, Stadtbücherei, Archiv.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg/400px-Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg/800px-Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg/1200px-Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg/1920px-Bundesarchiv_Bild_170-288,_Potsdam,_Stadtbücherei,_Archiv.jpg
 ---
 
 ## Overview

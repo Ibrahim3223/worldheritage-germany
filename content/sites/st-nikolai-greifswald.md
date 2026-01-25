@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1236551"
 description: "As you approach St. Nikolai in Greifswald, the striking silhouette of this church building rises dramatically against the skyline, its impressive height..."
 images:
-  - "/images-sites/st-nikolai-greifswald/01-e0b9ae4b-1920w.webp"
-  - "/images-sites/st-nikolai-greifswald/02-75e02c3b-1920w.webp"
-  - "/images-sites/st-nikolai-greifswald/03-c66192de-1920w.webp"
+  - "/images/st-nikolai-greifswald/01-e0b9ae4b-1920w.webp"
+  - "/images/st-nikolai-greifswald/02-75e02c3b-1920w.webp"
+  - "/images/st-nikolai-greifswald/03-c66192de-1920w.webp"
 ---
 
 ## Overview

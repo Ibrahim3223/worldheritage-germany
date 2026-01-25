@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1285759"
 description: "In the quaint region of Osteel, Germany, Warnfriedkirche stands as a striking example of Gothic architecture, inviting visitors to explore its rich heri..."
 images:
-  - "/images-sites/warnfriedkirche/01-fcabfe90-1920w.webp"
-  - "/images-sites/warnfriedkirche/02-c02cf4ec-1920w.webp"
-  - "/images-sites/warnfriedkirche/03-c235ef61-1920w.webp"
+  - "/images/warnfriedkirche/01-fcabfe90-1920w.webp"
+  - "/images/warnfriedkirche/02-c02cf4ec-1920w.webp"
+  - "/images/warnfriedkirche/03-c235ef61-1920w.webp"
 ---
 
 ## Overview

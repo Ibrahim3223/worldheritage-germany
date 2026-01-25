@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q874288"
 description: "St. Gertrud, a striking church building located in Hamburg-Uhlenhorst, stands as a prominent feature of the Hamburg-Nord region. At 93 meters tall, this..."
 images:
-  - "/images-sites/st-gertrud/01-fea9624e-1920w.webp"
-  - "/images-sites/st-gertrud/02-3ef073e0-1920w.webp"
-  - "/images-sites/st-gertrud/03-c8c2139e-1920w.webp"
+  - "/images/st-gertrud/01-fea9624e-1920w.webp"
+  - "/images/st-gertrud/02-3ef073e0-1920w.webp"
+  - "/images/st-gertrud/03-c8c2139e-1920w.webp"
 ---
 
 ## Overview

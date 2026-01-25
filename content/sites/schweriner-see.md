@@ -13,7 +13,7 @@ regions:
 latitude: 53.716666666
 longitude: 11.466666666
 images:
-  - "/images-sites/schweriner-see/01-a3e7c894-800w.webp"
+  - "/images/schweriner-see/01-a3e7c894-800w.webp"
 ---
 
 ## Overview

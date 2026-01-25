@@ -1,27 +1,49 @@
 ---
-title: "Forum baths"
+title: Forum baths
 date: 2026-01-23
 draft: false
-description: "Roman baths in Trier, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman baths in Trier, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7527
 longitude: 6.63766
-
-# Images
 images:
-  - "/images-sites/forum-baths/01-0520b3e5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Therme_Viehmarkt,_Trier-8487.jpg/1200px-Therme_Viehmarkt,_Trier-8487.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trier_BW_2012-04-06_16-24-40.jpg/1200px-Trier_BW_2012-04-06_16-24-40.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg/1200px-Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Terme_del_Foro_6.JPG/1200px-Terme_del_Foro_6.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg/1200px-Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg
+image_srcset:
+  Therme Viehmarkt, Trier-8487.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Therme_Viehmarkt,_Trier-8487.jpg/400px-Therme_Viehmarkt,_Trier-8487.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Therme_Viehmarkt,_Trier-8487.jpg/800px-Therme_Viehmarkt,_Trier-8487.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Therme_Viehmarkt,_Trier-8487.jpg/1200px-Therme_Viehmarkt,_Trier-8487.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Therme_Viehmarkt,_Trier-8487.jpg/1920px-Therme_Viehmarkt,_Trier-8487.jpg
+  Trier BW 2012-04-06 16-24-40.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trier_BW_2012-04-06_16-24-40.jpg/400px-Trier_BW_2012-04-06_16-24-40.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trier_BW_2012-04-06_16-24-40.jpg/800px-Trier_BW_2012-04-06_16-24-40.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trier_BW_2012-04-06_16-24-40.jpg/1200px-Trier_BW_2012-04-06_16-24-40.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Trier_BW_2012-04-06_16-24-40.jpg/1920px-Trier_BW_2012-04-06_16-24-40.jpg
+  Wikigita a Pompei, 20 sett. 2015 - calidarium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg/400px-Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg/800px-Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg/1200px-Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg/1920px-Wikigita_a_Pompei,_20_sett._2015_-_calidarium.jpg
+  Terme del Foro 6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Terme_del_Foro_6.JPG/400px-Terme_del_Foro_6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Terme_del_Foro_6.JPG/800px-Terme_del_Foro_6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Terme_del_Foro_6.JPG/1200px-Terme_del_Foro_6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Terme_del_Foro_6.JPG/1920px-Terme_del_Foro_6.JPG
+  Entrance to Forum Baths Pompeii ProWalk Tours.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg/400px-Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg/800px-Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg/1200px-Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg/1920px-Entrance_to_Forum_Baths_Pompeii_ProWalk_Tours.jpg
 ---
 
 ## Overview

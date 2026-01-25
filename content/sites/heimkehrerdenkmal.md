@@ -1,21 +1,49 @@
 ---
-title: "Heimkehrerdenkmal"
+title: Heimkehrerdenkmal
 date: 2026-01-23
 draft: false
-description: "monument in Friedland, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Friedland, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4158
 longitude: 9.90876
 images:
-  - "/images-sites/heimkehrerdenkmal/01-afc7a247-800w.webp"
-  - "/images-sites/heimkehrerdenkmal/02-8bf70a58-800w.webp"
-  - "/images-sites/heimkehrerdenkmal/03-45b54565-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg/1200px-Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heimkehrerdenkmal_in_Friedland_(1).jpg/1200px-Heimkehrerdenkmal_in_Friedland_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heimkehrerdenkmal1.JPG/1200px-Heimkehrerdenkmal1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Inscription_at_Heimkehrerdenkmal_(2).jpg/1200px-Inscription_at_Heimkehrerdenkmal_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Heimkehrerdenkmal_Friedland_Stelenhof.jpg/1200px-Heimkehrerdenkmal_Friedland_Stelenhof.jpg
+image_srcset:
+  Blick auf Friedland vom Einzelberg südlich Groß Schneen gesehen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg/400px-Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg/800px-Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg/1200px-Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg/1920px-Blick_auf_Friedland_vom_Einzelberg_südlich_Groß_Schneen_gesehen.jpg
+  Heimkehrerdenkmal in Friedland (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heimkehrerdenkmal_in_Friedland_(1).jpg/400px-Heimkehrerdenkmal_in_Friedland_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heimkehrerdenkmal_in_Friedland_(1).jpg/800px-Heimkehrerdenkmal_in_Friedland_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heimkehrerdenkmal_in_Friedland_(1).jpg/1200px-Heimkehrerdenkmal_in_Friedland_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heimkehrerdenkmal_in_Friedland_(1).jpg/1920px-Heimkehrerdenkmal_in_Friedland_(1).jpg
+  Heimkehrerdenkmal1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heimkehrerdenkmal1.JPG/400px-Heimkehrerdenkmal1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heimkehrerdenkmal1.JPG/800px-Heimkehrerdenkmal1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heimkehrerdenkmal1.JPG/1200px-Heimkehrerdenkmal1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heimkehrerdenkmal1.JPG/1920px-Heimkehrerdenkmal1.JPG
+  Inscription at Heimkehrerdenkmal (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Inscription_at_Heimkehrerdenkmal_(2).jpg/400px-Inscription_at_Heimkehrerdenkmal_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Inscription_at_Heimkehrerdenkmal_(2).jpg/800px-Inscription_at_Heimkehrerdenkmal_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Inscription_at_Heimkehrerdenkmal_(2).jpg/1200px-Inscription_at_Heimkehrerdenkmal_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Inscription_at_Heimkehrerdenkmal_(2).jpg/1920px-Inscription_at_Heimkehrerdenkmal_(2).jpg
+  Heimkehrerdenkmal Friedland Stelenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Heimkehrerdenkmal_Friedland_Stelenhof.jpg/400px-Heimkehrerdenkmal_Friedland_Stelenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Heimkehrerdenkmal_Friedland_Stelenhof.jpg/800px-Heimkehrerdenkmal_Friedland_Stelenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Heimkehrerdenkmal_Friedland_Stelenhof.jpg/1200px-Heimkehrerdenkmal_Friedland_Stelenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Heimkehrerdenkmal_Friedland_Stelenhof.jpg/1920px-Heimkehrerdenkmal_Friedland_Stelenhof.jpg
 ---
 
 ## Overview

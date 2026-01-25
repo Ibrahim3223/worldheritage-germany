@@ -13,7 +13,7 @@ regions:
 latitude: 49.316475
 longitude: 8.439654
 images:
-  - "/images-sites/museum-schpira/01-afdcdaf5-800w.webp"
+  - "/images/museum-schpira/01-afdcdaf5-800w.webp"
 ---
 
 ## Overview

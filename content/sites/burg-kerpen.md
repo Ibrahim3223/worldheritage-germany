@@ -1,27 +1,49 @@
 ---
-title: "Burg Kerpen"
+title: Burg Kerpen
 date: 2026-01-23
 draft: false
-description: "castle in Rhein-Erft"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rhein-Erft
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.871093
 longitude: 6.705104
-
-# Images
 images:
-  - "/images-sites/burg-kerpen/01-fcb83408-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Illingen_Burg_Kerpen_Torhaus_Hotel.JPG/1200px-Illingen_Burg_Kerpen_Torhaus_Hotel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Kerpen_(Eifel)_024x.jpg/1200px-Burg_Kerpen_(Eifel)_024x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Kerpen_in_Illingen.jpg/1200px-Burg_Kerpen_in_Illingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kerpen_Eifel_Burg.jpg/1200px-Kerpen_Eifel_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/1200px-Burg_Kerpen03.jpg
+image_srcset:
+  Illingen Burg Kerpen Torhaus Hotel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Illingen_Burg_Kerpen_Torhaus_Hotel.JPG/400px-Illingen_Burg_Kerpen_Torhaus_Hotel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Illingen_Burg_Kerpen_Torhaus_Hotel.JPG/800px-Illingen_Burg_Kerpen_Torhaus_Hotel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Illingen_Burg_Kerpen_Torhaus_Hotel.JPG/1200px-Illingen_Burg_Kerpen_Torhaus_Hotel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Illingen_Burg_Kerpen_Torhaus_Hotel.JPG/1920px-Illingen_Burg_Kerpen_Torhaus_Hotel.JPG
+  Burg Kerpen (Eifel) 024x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Kerpen_(Eifel)_024x.jpg/400px-Burg_Kerpen_(Eifel)_024x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Kerpen_(Eifel)_024x.jpg/800px-Burg_Kerpen_(Eifel)_024x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Kerpen_(Eifel)_024x.jpg/1200px-Burg_Kerpen_(Eifel)_024x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burg_Kerpen_(Eifel)_024x.jpg/1920px-Burg_Kerpen_(Eifel)_024x.jpg
+  Burg Kerpen in Illingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Kerpen_in_Illingen.jpg/400px-Burg_Kerpen_in_Illingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Kerpen_in_Illingen.jpg/800px-Burg_Kerpen_in_Illingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Kerpen_in_Illingen.jpg/1200px-Burg_Kerpen_in_Illingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Burg_Kerpen_in_Illingen.jpg/1920px-Burg_Kerpen_in_Illingen.jpg
+  Kerpen Eifel Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kerpen_Eifel_Burg.jpg/400px-Kerpen_Eifel_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kerpen_Eifel_Burg.jpg/800px-Kerpen_Eifel_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kerpen_Eifel_Burg.jpg/1200px-Kerpen_Eifel_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kerpen_Eifel_Burg.jpg/1920px-Kerpen_Eifel_Burg.jpg
+  Burg Kerpen03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/400px-Burg_Kerpen03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/800px-Burg_Kerpen03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/1200px-Burg_Kerpen03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Kerpen03.jpg/1920px-Burg_Kerpen03.jpg
 ---
 
 ## Overview

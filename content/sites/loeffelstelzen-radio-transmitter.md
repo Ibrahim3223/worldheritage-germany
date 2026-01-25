@@ -13,7 +13,7 @@ regions:
 latitude: 49.5074
 longitude: 9.78243
 images:
-  - "/images-sites/loeffelstelzen-radio-transmitter/01-4caf8b98-800w.webp"
+  - "/images/loeffelstelzen-radio-transmitter/01-4caf8b98-800w.webp"
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Berdum church"
-site_name: "Berdum church"
-slug: "berdum-church"
-region: "Lower Saxony"
-
-# Location
+title: Berdum church
+site_name: Berdum church
+slug: berdum-church
+region: Lower Saxony
 latitude: 53.628614
 longitude: 7.814236
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1260543"
-description: "In the heart of Wittmund, Germany, the Berdum church stands as a striking example of Neoclassical architecture, captivating visitors with its elegant de..."
+- cultural site
+wikidata_id: Q1260543
+description: In the heart of Wittmund, Germany, the Berdum church stands as a striking
+  example of Neoclassical architecture, captivating visitors with its elegant de...
 images:
-  - "/images-sites/berdum-church/01-036c3eeb-1920w.webp"
-  - "/images-sites/berdum-church/02-81c40478-1920w.webp"
-  - "/images-sites/berdum-church/03-88b2eea5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berdum%2001.JPG/1200px-Berdum%2001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kanzel_der_Berdumer_Kirche.JPG/1200px-Kanzel_der_Berdumer_Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berdum_01.JPG/1200px-Berdum_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berdum_04.JPG/1200px-Berdum_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4722050_Berdum_Orgel.jpg/1200px-4722050_Berdum_Orgel.jpg
+image_srcset:
+  Berdum%2001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berdum%2001.JPG/400px-Berdum%2001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berdum%2001.JPG/800px-Berdum%2001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berdum%2001.JPG/1200px-Berdum%2001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berdum%2001.JPG/1920px-Berdum%2001.JPG
+  Kanzel der Berdumer Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kanzel_der_Berdumer_Kirche.JPG/400px-Kanzel_der_Berdumer_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kanzel_der_Berdumer_Kirche.JPG/800px-Kanzel_der_Berdumer_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kanzel_der_Berdumer_Kirche.JPG/1200px-Kanzel_der_Berdumer_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kanzel_der_Berdumer_Kirche.JPG/1920px-Kanzel_der_Berdumer_Kirche.JPG
+  Berdum 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berdum_01.JPG/400px-Berdum_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berdum_01.JPG/800px-Berdum_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berdum_01.JPG/1200px-Berdum_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berdum_01.JPG/1920px-Berdum_01.JPG
+  Berdum 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berdum_04.JPG/400px-Berdum_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berdum_04.JPG/800px-Berdum_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berdum_04.JPG/1200px-Berdum_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Berdum_04.JPG/1920px-Berdum_04.JPG
+  4722050 Berdum Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4722050_Berdum_Orgel.jpg/400px-4722050_Berdum_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4722050_Berdum_Orgel.jpg/800px-4722050_Berdum_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4722050_Berdum_Orgel.jpg/1200px-4722050_Berdum_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4722050_Berdum_Orgel.jpg/1920px-4722050_Berdum_Orgel.jpg
 ---
 
 ## Overview

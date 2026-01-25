@@ -13,7 +13,7 @@ regions:
 latitude: 50.7221615
 longitude: 7.113381
 images:
-  - "/images-sites/museum-koenig/01-2e4f46bd-800w.webp"
+  - "/images/museum-koenig/01-2e4f46bd-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.0582
 longitude: 13.7414
 images:
-  - "/images-sites/neustaedter-markt/01-eb91e06b-800w.webp"
-  - "/images-sites/neustaedter-markt/02-06d34a0e-800w.webp"
-  - "/images-sites/neustaedter-markt/03-c5ba9c35-800w.webp"
+  - "/images/neustaedter-markt/01-eb91e06b-800w.webp"
+  - "/images/neustaedter-markt/02-06d34a0e-800w.webp"
+  - "/images/neustaedter-markt/03-c5ba9c35-800w.webp"
 ---
 
 ## Overview

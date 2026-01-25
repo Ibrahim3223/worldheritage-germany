@@ -13,7 +13,7 @@ regions:
 latitude: 51.276388888
 longitude: 8.558333333
 images:
-  - "/images-sites/langenberg/01-cbb3111f-800w.webp"
+  - "/images/langenberg/01-cbb3111f-800w.webp"
 ---
 
 ## Overview

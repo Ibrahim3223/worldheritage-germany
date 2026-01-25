@@ -13,7 +13,7 @@ regions:
 latitude: 51.15661
 longitude: 13.67939
 images:
-  - "/images-sites/moritzburger-kirche/01-b3afc661-800w.webp"
+  - "/images/moritzburger-kirche/01-b3afc661-800w.webp"
 ---
 
 ## Overview

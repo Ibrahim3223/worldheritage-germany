@@ -1,19 +1,49 @@
 ---
-title: "Holstenstrasse station"
+title: Holstenstrasse station
 date: 2026-01-23
 draft: false
-description: "railway station in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.56194444
 longitude: 9.95027778
 images:
-  - "/images-sites/holstenstrasse-station/01-b581bd16-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg/1200px-Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg/1200px-Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hh-holstenstrBahnsteig.jpg/1200px-Hh-holstenstrBahnsteig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hh-holstenstrBhf.jpg/1200px-Hh-holstenstrBhf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bf_Holstenstrasse_1899.jpg/1200px-Bf_Holstenstrasse_1899.jpg
+image_srcset:
+  Brücke Bahnhof Hamburg Holstenstraße NO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg/400px-Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg/800px-Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg/1200px-Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg/1920px-Brücke_Bahnhof_Hamburg_Holstenstraße_NO.jpg
+  Brücke Bahnhof Hamburg Holstenstraße SW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg/400px-Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg/800px-Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg/1200px-Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg/1920px-Brücke_Bahnhof_Hamburg_Holstenstraße_SW.jpg
+  Hh-holstenstrBahnsteig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hh-holstenstrBahnsteig.jpg/400px-Hh-holstenstrBahnsteig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hh-holstenstrBahnsteig.jpg/800px-Hh-holstenstrBahnsteig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hh-holstenstrBahnsteig.jpg/1200px-Hh-holstenstrBahnsteig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hh-holstenstrBahnsteig.jpg/1920px-Hh-holstenstrBahnsteig.jpg
+  Hh-holstenstrBhf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hh-holstenstrBhf.jpg/400px-Hh-holstenstrBhf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hh-holstenstrBhf.jpg/800px-Hh-holstenstrBhf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hh-holstenstrBhf.jpg/1200px-Hh-holstenstrBhf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hh-holstenstrBhf.jpg/1920px-Hh-holstenstrBhf.jpg
+  Bf Holstenstrasse 1899.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bf_Holstenstrasse_1899.jpg/400px-Bf_Holstenstrasse_1899.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bf_Holstenstrasse_1899.jpg/800px-Bf_Holstenstrasse_1899.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bf_Holstenstrasse_1899.jpg/1200px-Bf_Holstenstrasse_1899.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bf_Holstenstrasse_1899.jpg/1920px-Bf_Holstenstrasse_1899.jpg
 ---
 
 ## Overview

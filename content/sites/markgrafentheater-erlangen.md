@@ -13,7 +13,7 @@ regions:
 latitude: 49.5997
 longitude: 11.0057
 images:
-  - "/images-sites/markgrafentheater-erlangen/01-65a20a2f-800w.webp"
+  - "/images/markgrafentheater-erlangen/01-65a20a2f-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.769897
 longitude: 6.410928
 images:
-  - "/images-sites/scholten-muehle/01-08ec1c68-800w.webp"
-  - "/images-sites/scholten-muehle/02-bf7d6388-800w.webp"
-  - "/images-sites/scholten-muehle/03-e15b3d8e-800w.webp"
+  - "/images/scholten-muehle/01-08ec1c68-800w.webp"
+  - "/images/scholten-muehle/02-bf7d6388-800w.webp"
+  - "/images/scholten-muehle/03-e15b3d8e-800w.webp"
 ---
 
 ## Overview

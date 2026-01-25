@@ -1,27 +1,49 @@
 ---
-title: "Deichtorhallen"
+title: Deichtorhallen
 date: 2026-01-23
 draft: false
-description: "Exhibition venue for contemporary art"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: Exhibition venue for contemporary art
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.54638889
 longitude: 10.00638889
-
-# Images
 images:
-  - "/images-sites/deichtorhallen/01-5e5aca53-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20230317_Deichtorhallen.jpg/1200px-20230317_Deichtorhallen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg/1200px-Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1200px-DTH_Nordhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TomSachs22_with_crop,_color_correction,_and_sharpening.jpg/1200px-TomSachs22_with_crop,_color_correction,_and_sharpening.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parkendes_Auto.jpg/1200px-Parkendes_Auto.jpg
+image_srcset:
+  20230317 Deichtorhallen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20230317_Deichtorhallen.jpg/400px-20230317_Deichtorhallen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20230317_Deichtorhallen.jpg/800px-20230317_Deichtorhallen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20230317_Deichtorhallen.jpg/1200px-20230317_Deichtorhallen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/20230317_Deichtorhallen.jpg/1920px-20230317_Deichtorhallen.jpg
+  Deichtorhallen (Hamburg-Altstadt).Internationale Kunst.1.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg/400px-Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg/800px-Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg/1200px-Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg/1920px-Deichtorhallen_(Hamburg-Altstadt).Internationale_Kunst.1.ajb.jpg
+  DTH Nordhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/400px-DTH_Nordhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/800px-DTH_Nordhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1200px-DTH_Nordhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1920px-DTH_Nordhalle.jpg
+  TomSachs22 with crop, color correction, and sharpening.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TomSachs22_with_crop,_color_correction,_and_sharpening.jpg/400px-TomSachs22_with_crop,_color_correction,_and_sharpening.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TomSachs22_with_crop,_color_correction,_and_sharpening.jpg/800px-TomSachs22_with_crop,_color_correction,_and_sharpening.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TomSachs22_with_crop,_color_correction,_and_sharpening.jpg/1200px-TomSachs22_with_crop,_color_correction,_and_sharpening.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TomSachs22_with_crop,_color_correction,_and_sharpening.jpg/1920px-TomSachs22_with_crop,_color_correction,_and_sharpening.jpg
+  Parkendes Auto.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parkendes_Auto.jpg/400px-Parkendes_Auto.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parkendes_Auto.jpg/800px-Parkendes_Auto.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parkendes_Auto.jpg/1200px-Parkendes_Auto.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parkendes_Auto.jpg/1920px-Parkendes_Auto.jpg
 ---
 
 ## Overview

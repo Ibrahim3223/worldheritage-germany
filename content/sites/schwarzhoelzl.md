@@ -13,7 +13,7 @@ regions:
 latitude: 48.2414
 longitude: 11.4944
 images:
-  - "/images-sites/schwarzhoelzl/01-37079fa4-800w.webp"
+  - "/images/schwarzhoelzl/01-37079fa4-800w.webp"
 ---
 
 ## Overview

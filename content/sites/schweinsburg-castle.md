@@ -21,7 +21,7 @@ longitude: 12.3782
 
 # Images
 images:
-  - "/images-sites/schweinsburg-castle/01-1a48be06-800w.webp"
+  - "/images/schweinsburg-castle/01-1a48be06-800w.webp"
 ---
 
 ## Overview

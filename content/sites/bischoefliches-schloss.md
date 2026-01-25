@@ -1,21 +1,49 @@
 ---
-title: "Bischöfliches Schloss"
+title: Bischöfliches Schloss
 date: 2026-01-23
 draft: false
-description: "Schloss in Dirmstein, Landkreis Bad Dürkheim, Rheinland-Pfalz"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: Schloss in Dirmstein, Landkreis Bad Dürkheim, Rheinland-Pfalz
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.5637
 longitude: 8.24693
 images:
-  - "/images-sites/bischoefliches-schloss/01-807b1b0d-800w.webp"
-  - "/images-sites/bischoefliches-schloss/02-8758994c-800w.webp"
-  - "/images-sites/bischoefliches-schloss/03-163c90f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bischöfliches_Schloss_2023.jpeg/1200px-Bischöfliches_Schloss_2023.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Unteres_Schloss_Fürstenau.jpg/1200px-Unteres_Schloss_Fürstenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Front.jpg/1200px-Unteres_Schloss_Fürstenau_Front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unteres_Schloss_Fürstenau_Lage.jpg/1200px-Unteres_Schloss_Fürstenau_Lage.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Tür.jpg/1200px-Unteres_Schloss_Fürstenau_Tür.jpg
+image_srcset:
+  Bischöfliches Schloss 2023.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bischöfliches_Schloss_2023.jpeg/400px-Bischöfliches_Schloss_2023.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bischöfliches_Schloss_2023.jpeg/800px-Bischöfliches_Schloss_2023.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bischöfliches_Schloss_2023.jpeg/1200px-Bischöfliches_Schloss_2023.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bischöfliches_Schloss_2023.jpeg/1920px-Bischöfliches_Schloss_2023.jpeg
+  Unteres Schloss Fürstenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Unteres_Schloss_Fürstenau.jpg/400px-Unteres_Schloss_Fürstenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Unteres_Schloss_Fürstenau.jpg/800px-Unteres_Schloss_Fürstenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Unteres_Schloss_Fürstenau.jpg/1200px-Unteres_Schloss_Fürstenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Unteres_Schloss_Fürstenau.jpg/1920px-Unteres_Schloss_Fürstenau.jpg
+  Unteres Schloss Fürstenau Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Front.jpg/400px-Unteres_Schloss_Fürstenau_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Front.jpg/800px-Unteres_Schloss_Fürstenau_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Front.jpg/1200px-Unteres_Schloss_Fürstenau_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Front.jpg/1920px-Unteres_Schloss_Fürstenau_Front.jpg
+  Unteres Schloss Fürstenau Lage.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unteres_Schloss_Fürstenau_Lage.jpg/400px-Unteres_Schloss_Fürstenau_Lage.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unteres_Schloss_Fürstenau_Lage.jpg/800px-Unteres_Schloss_Fürstenau_Lage.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unteres_Schloss_Fürstenau_Lage.jpg/1200px-Unteres_Schloss_Fürstenau_Lage.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unteres_Schloss_Fürstenau_Lage.jpg/1920px-Unteres_Schloss_Fürstenau_Lage.jpg
+  Unteres Schloss Fürstenau Tür.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Tür.jpg/400px-Unteres_Schloss_Fürstenau_Tür.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Tür.jpg/800px-Unteres_Schloss_Fürstenau_Tür.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Tür.jpg/1200px-Unteres_Schloss_Fürstenau_Tür.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Unteres_Schloss_Fürstenau_Tür.jpg/1920px-Unteres_Schloss_Fürstenau_Tür.jpg
 ---
 
 ## Overview

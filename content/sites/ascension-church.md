@@ -1,23 +1,44 @@
 ---
-title: "Ascension church"
-site_name: "Ascension church"
-slug: "ascension-church"
-region: "Berlin"
-
-# Location
+title: Ascension church
+site_name: Ascension church
+slug: ascension-church
+region: Berlin
 latitude: 52.544615
 longitude: 13.389433
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q11722063"
-description: "The Ascension Church, located in Bezirk Mitte, Germany, is a striking example of modern architecture that was founded in 1956. Designed by the architect..."
+- cultural site
+wikidata_id: Q11722063
+description: The Ascension Church, located in Bezirk Mitte, Germany, is a striking
+  example of modern architecture that was founded in 1956. Designed by the architect...
 images:
-  - "/images-sites/ascension-church/01-659f06eb-1920w.webp"
-  - "/images-sites/ascension-church/02-1eaeea82-1920w.webp"
-  - "/images-sites/ascension-church/03-41c7d472-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kirche%20am%20Humboldthain.jpg/1200px-Kirche%20am%20Humboldthain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Holy_Ascension_Church,_Upton_by_Chester_(1).jpg/1200px-Holy_Ascension_Church,_Upton_by_Chester_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg/1200px-Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg/1200px-The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg
+image_srcset:
+  Kirche%20am%20Humboldthain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kirche%20am%20Humboldthain.jpg/400px-Kirche%20am%20Humboldthain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kirche%20am%20Humboldthain.jpg/800px-Kirche%20am%20Humboldthain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kirche%20am%20Humboldthain.jpg/1200px-Kirche%20am%20Humboldthain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kirche%20am%20Humboldthain.jpg/1920px-Kirche%20am%20Humboldthain.jpg
+  Holy Ascension Church, Upton by Chester (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Holy_Ascension_Church,_Upton_by_Chester_(1).jpg/400px-Holy_Ascension_Church,_Upton_by_Chester_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Holy_Ascension_Church,_Upton_by_Chester_(1).jpg/800px-Holy_Ascension_Church,_Upton_by_Chester_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Holy_Ascension_Church,_Upton_by_Chester_(1).jpg/1200px-Holy_Ascension_Church,_Upton_by_Chester_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Holy_Ascension_Church,_Upton_by_Chester_(1).jpg/1920px-Holy_Ascension_Church,_Upton_by_Chester_(1).jpg
+  Lych gate, Holy Ascension Church, Upton by Chester.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg/400px-Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg/800px-Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg/1200px-Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg/1920px-Lych_gate,_Holy_Ascension_Church,_Upton_by_Chester.jpg
+  The Holy Ascension Church, Upton-by-Chester - geograph.org.uk - 664156.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg/400px-The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg/800px-The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg/1200px-The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg/1920px-The_Holy_Ascension_Church,_Upton-by-Chester_-_geograph.org.uk_-_664156.jpg
 ---
 
 ## Overview

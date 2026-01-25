@@ -1,19 +1,49 @@
 ---
-title: "Gossler Park"
+title: Gossler Park
 date: 2026-01-23
 draft: false
-description: "park in Altona, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Altona, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 53.56477778
 longitude: 9.80875
 images:
-  - "/images-sites/gossler-park/01-9b4a4893-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Goßlers_Park_Hamburg-Blankenese_(1).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goßlers_Park_Hamburg-Blankenese_(3).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goßlers_Park_Hamburg-Blankenese_(4).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Goßlers_Park_Hamburg-Blankenese_(5).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg/1200px-Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg
+image_srcset:
+  Goßlers Park Hamburg-Blankenese (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Goßlers_Park_Hamburg-Blankenese_(1).jpg/400px-Goßlers_Park_Hamburg-Blankenese_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Goßlers_Park_Hamburg-Blankenese_(1).jpg/800px-Goßlers_Park_Hamburg-Blankenese_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Goßlers_Park_Hamburg-Blankenese_(1).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Goßlers_Park_Hamburg-Blankenese_(1).jpg/1920px-Goßlers_Park_Hamburg-Blankenese_(1).jpg
+  Goßlers Park Hamburg-Blankenese (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goßlers_Park_Hamburg-Blankenese_(3).jpg/400px-Goßlers_Park_Hamburg-Blankenese_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goßlers_Park_Hamburg-Blankenese_(3).jpg/800px-Goßlers_Park_Hamburg-Blankenese_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goßlers_Park_Hamburg-Blankenese_(3).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goßlers_Park_Hamburg-Blankenese_(3).jpg/1920px-Goßlers_Park_Hamburg-Blankenese_(3).jpg
+  Goßlers Park Hamburg-Blankenese (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goßlers_Park_Hamburg-Blankenese_(4).jpg/400px-Goßlers_Park_Hamburg-Blankenese_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goßlers_Park_Hamburg-Blankenese_(4).jpg/800px-Goßlers_Park_Hamburg-Blankenese_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goßlers_Park_Hamburg-Blankenese_(4).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goßlers_Park_Hamburg-Blankenese_(4).jpg/1920px-Goßlers_Park_Hamburg-Blankenese_(4).jpg
+  Goßlers Park Hamburg-Blankenese (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Goßlers_Park_Hamburg-Blankenese_(5).jpg/400px-Goßlers_Park_Hamburg-Blankenese_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Goßlers_Park_Hamburg-Blankenese_(5).jpg/800px-Goßlers_Park_Hamburg-Blankenese_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Goßlers_Park_Hamburg-Blankenese_(5).jpg/1200px-Goßlers_Park_Hamburg-Blankenese_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Goßlers_Park_Hamburg-Blankenese_(5).jpg/1920px-Goßlers_Park_Hamburg-Blankenese_(5).jpg
+  Gosslers Park Stein zum Erwerb des Parks.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg/400px-Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg/800px-Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg/1200px-Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg/1920px-Gosslers_Park_Stein_zum_Erwerb_des_Parks.jpg
 ---
 
 ## Overview

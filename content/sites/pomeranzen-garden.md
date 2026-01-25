@@ -13,7 +13,7 @@ regions:
 latitude: 48.801
 longitude: 9.01223
 images:
-  - "/images-sites/pomeranzen-garden/01-5e5dd480-800w.webp"
+  - "/images/pomeranzen-garden/01-5e5dd480-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.518527777
 longitude: 13.428305555
 images:
-  - "/images-sites/strausberger-platz/01-6f4d35a2-800w.webp"
-  - "/images-sites/strausberger-platz/02-db1ab363-800w.webp"
-  - "/images-sites/strausberger-platz/03-47de0a9a-800w.webp"
+  - "/images/strausberger-platz/01-6f4d35a2-800w.webp"
+  - "/images/strausberger-platz/02-db1ab363-800w.webp"
+  - "/images/strausberger-platz/03-47de0a9a-800w.webp"
 ---
 
 ## Overview

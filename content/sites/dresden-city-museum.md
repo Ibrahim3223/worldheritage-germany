@@ -1,19 +1,49 @@
 ---
-title: "Dresden City Museum"
+title: Dresden City Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0501
 longitude: 13.743
 images:
-  - "/images-sites/dresden-city-museum/01-33972d26-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Führer_Stadtmuseum_Dresden_1911.djvu/1200px-Führer_Stadtmuseum_Dresden_1911.djvu
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dresden_Altes_Landhaus.jpg/1200px-Dresden_Altes_Landhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dresdensia.jpg/1200px-Dresdensia.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg/1200px-Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg/1200px-Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg
+image_srcset:
+  Führer Stadtmuseum Dresden 1911.djvu:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Führer_Stadtmuseum_Dresden_1911.djvu/400px-Führer_Stadtmuseum_Dresden_1911.djvu
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Führer_Stadtmuseum_Dresden_1911.djvu/800px-Führer_Stadtmuseum_Dresden_1911.djvu
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Führer_Stadtmuseum_Dresden_1911.djvu/1200px-Führer_Stadtmuseum_Dresden_1911.djvu
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Führer_Stadtmuseum_Dresden_1911.djvu/1920px-Führer_Stadtmuseum_Dresden_1911.djvu
+  Dresden Altes Landhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dresden_Altes_Landhaus.jpg/400px-Dresden_Altes_Landhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dresden_Altes_Landhaus.jpg/800px-Dresden_Altes_Landhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dresden_Altes_Landhaus.jpg/1200px-Dresden_Altes_Landhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dresden_Altes_Landhaus.jpg/1920px-Dresden_Altes_Landhaus.jpg
+  Dresdensia.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dresdensia.jpg/400px-Dresdensia.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dresdensia.jpg/800px-Dresdensia.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dresdensia.jpg/1200px-Dresdensia.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dresdensia.jpg/1920px-Dresdensia.jpg
+  Dresden und Sächsische Schweiz (Storm Reiseführer, 1924) Seite 091.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg/400px-Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg/800px-Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg/1200px-Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg/1920px-Dresden_und_Sächsische_Schweiz_(Storm_Reiseführer,_1924)_Seite_091.jpg
+  Karl Ludwig Adolf Ehrhardt - portrait photo, c. 1880.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg/400px-Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg/800px-Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg/1200px-Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg/1920px-Karl_Ludwig_Adolf_Ehrhardt_-_portrait_photo,_c._1880.jpg
 ---
 
 ## Overview

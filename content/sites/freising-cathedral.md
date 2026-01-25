@@ -1,23 +1,50 @@
 ---
-title: "Freising Cathedral"
-site_name: "Freising Cathedral"
-slug: "freising-cathedral"
-region: "Bavaria"
-
-# Location
+title: Freising Cathedral
+site_name: Freising Cathedral
+slug: freising-cathedral
+region: Bavaria
 latitude: 48.3989265306119
 longitude: 11.7464953059728
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q262769"
-description: "Freising Cathedral, also known as the Dom zu Freising, is a striking example of Gothic architecture that captures the essence of centuries-old religious..."
+- cultural site
+wikidata_id: Q262769
+description: Freising Cathedral, also known as the Dom zu Freising, is a striking
+  example of Gothic architecture that captures the essence of centuries-old religious...
 images:
-  - "/images-sites/freising-cathedral/01-2f8ef4c4-1920w.webp"
-  - "/images-sites/freising-cathedral/02-5ba14927-1920w.webp"
-  - "/images-sites/freising-cathedral/03-fdaa1e41-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dom%20freising.jpg/1200px-Dom%20freising.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg/1200px-Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1200px-Dom_freising.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Domberg_Innenhof_2015.jpg/1200px-Domberg_Innenhof_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Freisinger_Dom_(von_St._Georg).jpg/1200px-Freisinger_Dom_(von_St._Georg).jpg
+image_srcset:
+  Dom%20freising.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dom%20freising.jpg/400px-Dom%20freising.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dom%20freising.jpg/800px-Dom%20freising.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dom%20freising.jpg/1200px-Dom%20freising.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dom%20freising.jpg/1920px-Dom%20freising.jpg
+  Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg/400px-Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg/800px-Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg/1200px-Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg/1920px-Freisinger%20Dom%20%28von%20St.%20Georg%29.jpg
+  Dom freising.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/400px-Dom_freising.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/800px-Dom_freising.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1200px-Dom_freising.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dom_freising.jpg/1920px-Dom_freising.jpg
+  Domberg Innenhof 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Domberg_Innenhof_2015.jpg/400px-Domberg_Innenhof_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Domberg_Innenhof_2015.jpg/800px-Domberg_Innenhof_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Domberg_Innenhof_2015.jpg/1200px-Domberg_Innenhof_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Domberg_Innenhof_2015.jpg/1920px-Domberg_Innenhof_2015.jpg
+  Freisinger Dom (von St. Georg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Freisinger_Dom_(von_St._Georg).jpg/400px-Freisinger_Dom_(von_St._Georg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Freisinger_Dom_(von_St._Georg).jpg/800px-Freisinger_Dom_(von_St._Georg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Freisinger_Dom_(von_St._Georg).jpg/1200px-Freisinger_Dom_(von_St._Georg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Freisinger_Dom_(von_St._Georg).jpg/1920px-Freisinger_Dom_(von_St._Georg).jpg
 ---
 
 ## Overview

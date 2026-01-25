@@ -21,8 +21,8 @@ longitude: 6.46207
 
 # Images
 images:
-  - "/images-sites/schoenecken-castle/02-395282cf-800w.webp"
-  - "/images-sites/schoenecken-castle/03-6f74243b-800w.webp"
+  - "/images/schoenecken-castle/02-395282cf-800w.webp"
+  - "/images/schoenecken-castle/03-6f74243b-800w.webp"
 ---
 
 ## Overview

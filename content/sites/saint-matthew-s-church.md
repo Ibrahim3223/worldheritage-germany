@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2321445"
 description: "Saint Matthews Church, a striking example of modern architecture, captures the attention of visitors in Munich. Built in 1953, this church stands as a s..."
 images:
-  - "/images-sites/saint-matthew-s-church/01-9942dda0-1920w.webp"
-  - "/images-sites/saint-matthew-s-church/02-85a65375-1920w.webp"
-  - "/images-sites/saint-matthew-s-church/03-c71b8850-1920w.webp"
+  - "/images/saint-matthew-s-church/01-9942dda0-1920w.webp"
+  - "/images/saint-matthew-s-church/02-85a65375-1920w.webp"
+  - "/images/saint-matthew-s-church/03-c71b8850-1920w.webp"
 ---
 
 ## Overview

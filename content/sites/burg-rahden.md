@@ -1,19 +1,49 @@
 ---
-title: "Burg Rahden"
+title: Burg Rahden
 date: 2026-01-23
 draft: false
-description: "castle in Rahden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Rahden, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4377
 longitude: 8.59637
 images:
-  - "/images-sites/burg-rahden/01-e6e443b8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rahden_Mittelalterliches_Treiben.jpg/1200px-Rahden_Mittelalterliches_Treiben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg-rahden1.jpg/1200px-Burg-rahden1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden2.jpg/1200px-Burg-rahden2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden3.jpg/1200px-Burg-rahden3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg-rahden-tuersturz.jpg/1200px-Burg-rahden-tuersturz.jpg
+image_srcset:
+  Rahden Mittelalterliches Treiben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rahden_Mittelalterliches_Treiben.jpg/400px-Rahden_Mittelalterliches_Treiben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rahden_Mittelalterliches_Treiben.jpg/800px-Rahden_Mittelalterliches_Treiben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rahden_Mittelalterliches_Treiben.jpg/1200px-Rahden_Mittelalterliches_Treiben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rahden_Mittelalterliches_Treiben.jpg/1920px-Rahden_Mittelalterliches_Treiben.jpg
+  Burg-rahden1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg-rahden1.jpg/400px-Burg-rahden1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg-rahden1.jpg/800px-Burg-rahden1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg-rahden1.jpg/1200px-Burg-rahden1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burg-rahden1.jpg/1920px-Burg-rahden1.jpg
+  Burg-rahden2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden2.jpg/400px-Burg-rahden2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden2.jpg/800px-Burg-rahden2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden2.jpg/1200px-Burg-rahden2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden2.jpg/1920px-Burg-rahden2.jpg
+  Burg-rahden3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden3.jpg/400px-Burg-rahden3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden3.jpg/800px-Burg-rahden3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden3.jpg/1200px-Burg-rahden3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg-rahden3.jpg/1920px-Burg-rahden3.jpg
+  Burg-rahden-tuersturz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg-rahden-tuersturz.jpg/400px-Burg-rahden-tuersturz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg-rahden-tuersturz.jpg/800px-Burg-rahden-tuersturz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg-rahden-tuersturz.jpg/1200px-Burg-rahden-tuersturz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg-rahden-tuersturz.jpg/1920px-Burg-rahden-tuersturz.jpg
 ---
 
 ## Overview

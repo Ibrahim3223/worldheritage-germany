@@ -1,27 +1,49 @@
 ---
-title: "Burg Schwaneck"
+title: Burg Schwaneck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.0593
 longitude: 11.5301
-
-# Images
 images:
-  - "/images-sites/burg-schwaneck/01-7198a6f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pullach,_Burg_Schwaneck,_Hof,_4.jpeg/1200px-Pullach,_Burg_Schwaneck,_Hof,_4.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20200304Oberes_Isartal05.jpg/1200px-20200304Oberes_Isartal05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pullach_im_Isartal_Burg_Schwaneck_075.jpg/1200px-Pullach_im_Isartal_Burg_Schwaneck_075.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Schwaneck_Pullach-1.jpg/1200px-Burg_Schwaneck_Pullach-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Schwaneck_Pullach_im_Isartal-1.jpg/1200px-Burg_Schwaneck_Pullach_im_Isartal-1.jpg
+image_srcset:
+  Pullach, Burg Schwaneck, Hof, 4.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pullach,_Burg_Schwaneck,_Hof,_4.jpeg/400px-Pullach,_Burg_Schwaneck,_Hof,_4.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pullach,_Burg_Schwaneck,_Hof,_4.jpeg/800px-Pullach,_Burg_Schwaneck,_Hof,_4.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pullach,_Burg_Schwaneck,_Hof,_4.jpeg/1200px-Pullach,_Burg_Schwaneck,_Hof,_4.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pullach,_Burg_Schwaneck,_Hof,_4.jpeg/1920px-Pullach,_Burg_Schwaneck,_Hof,_4.jpeg
+  20200304Oberes Isartal05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20200304Oberes_Isartal05.jpg/400px-20200304Oberes_Isartal05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20200304Oberes_Isartal05.jpg/800px-20200304Oberes_Isartal05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20200304Oberes_Isartal05.jpg/1200px-20200304Oberes_Isartal05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20200304Oberes_Isartal05.jpg/1920px-20200304Oberes_Isartal05.jpg
+  Pullach im Isartal Burg Schwaneck 075.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pullach_im_Isartal_Burg_Schwaneck_075.jpg/400px-Pullach_im_Isartal_Burg_Schwaneck_075.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pullach_im_Isartal_Burg_Schwaneck_075.jpg/800px-Pullach_im_Isartal_Burg_Schwaneck_075.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pullach_im_Isartal_Burg_Schwaneck_075.jpg/1200px-Pullach_im_Isartal_Burg_Schwaneck_075.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pullach_im_Isartal_Burg_Schwaneck_075.jpg/1920px-Pullach_im_Isartal_Burg_Schwaneck_075.jpg
+  Burg Schwaneck Pullach-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Schwaneck_Pullach-1.jpg/400px-Burg_Schwaneck_Pullach-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Schwaneck_Pullach-1.jpg/800px-Burg_Schwaneck_Pullach-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Schwaneck_Pullach-1.jpg/1200px-Burg_Schwaneck_Pullach-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Schwaneck_Pullach-1.jpg/1920px-Burg_Schwaneck_Pullach-1.jpg
+  Burg Schwaneck Pullach im Isartal-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Schwaneck_Pullach_im_Isartal-1.jpg/400px-Burg_Schwaneck_Pullach_im_Isartal-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Schwaneck_Pullach_im_Isartal-1.jpg/800px-Burg_Schwaneck_Pullach_im_Isartal-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Schwaneck_Pullach_im_Isartal-1.jpg/1200px-Burg_Schwaneck_Pullach_im_Isartal-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Schwaneck_Pullach_im_Isartal-1.jpg/1920px-Burg_Schwaneck_Pullach_im_Isartal-1.jpg
 ---
 
 ## Overview

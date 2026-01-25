@@ -13,7 +13,7 @@ regions:
 latitude: 50.93267
 longitude: 6.96361
 images:
-  - "/images-sites/malakoffturm/01-ab6c2905-800w.webp"
+  - "/images/malakoffturm/01-ab6c2905-800w.webp"
 ---
 
 ## Overview

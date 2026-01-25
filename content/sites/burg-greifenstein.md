@@ -1,27 +1,49 @@
 ---
-title: "Burg Greifenstein"
+title: Burg Greifenstein
 date: 2026-01-23
 draft: false
-description: "ruins in Bad Blankenburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ruins in Bad Blankenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.690418
 longitude: 11.262944
-
-# Images
 images:
-  - "/images-sites/burg-greifenstein/01-3403a5c0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Greifenstein_st_andrä_wördern.jpg/1200px-Burg_Greifenstein_st_andrä_wördern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Greifenstein,_Südwestansicht.JPG/1200px-Burg_Greifenstein,_Südwestansicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg/1200px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg/1200px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg/1200px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg
+image_srcset:
+  Burg Greifenstein st andrä wördern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Greifenstein_st_andrä_wördern.jpg/400px-Burg_Greifenstein_st_andrä_wördern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Greifenstein_st_andrä_wördern.jpg/800px-Burg_Greifenstein_st_andrä_wördern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Greifenstein_st_andrä_wördern.jpg/1200px-Burg_Greifenstein_st_andrä_wördern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Greifenstein_st_andrä_wördern.jpg/1920px-Burg_Greifenstein_st_andrä_wördern.jpg
+  Burg Greifenstein, Südwestansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Greifenstein,_Südwestansicht.JPG/400px-Burg_Greifenstein,_Südwestansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Greifenstein,_Südwestansicht.JPG/800px-Burg_Greifenstein,_Südwestansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Greifenstein,_Südwestansicht.JPG/1200px-Burg_Greifenstein,_Südwestansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Greifenstein,_Südwestansicht.JPG/1920px-Burg_Greifenstein,_Südwestansicht.JPG
+  Burg Greifenstein, Sankt Andrä-Wördern, Niederösterreich 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg/400px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg/800px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg/1200px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg/1920px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_01.jpg
+  Burg Greifenstein, Sankt Andrä-Wördern, Niederösterreich 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg/400px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg/800px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg/1200px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg/1920px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_02.jpg
+  Burg Greifenstein, Sankt Andrä-Wördern, Niederösterreich 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg/400px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg/800px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg/1200px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg/1920px-Burg_Greifenstein,_Sankt_Andrä-Wördern,_Niederösterreich_04.jpg
 ---
 
 ## Overview

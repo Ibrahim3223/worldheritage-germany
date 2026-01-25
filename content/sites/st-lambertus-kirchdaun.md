@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1283680"
 description: "In the heart of Rhineland-Palatinate, Germany, the St. Lambertus church in Kirchdaun stands as a striking example of Gothic Revival architecture. This p..."
 images:
-  - "/images-sites/st-lambertus-kirchdaun/01-32a8fe9e-1920w.webp"
-  - "/images-sites/st-lambertus-kirchdaun/02-68ef1e04-1920w.webp"
-  - "/images-sites/st-lambertus-kirchdaun/03-1ab4a2ed-1920w.webp"
+  - "/images/st-lambertus-kirchdaun/01-32a8fe9e-1920w.webp"
+  - "/images/st-lambertus-kirchdaun/02-68ef1e04-1920w.webp"
+  - "/images/st-lambertus-kirchdaun/03-1ab4a2ed-1920w.webp"
 ---
 
 ## Overview

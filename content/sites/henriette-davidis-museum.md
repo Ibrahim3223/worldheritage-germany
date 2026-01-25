@@ -1,19 +1,49 @@
 ---
-title: "Henriette-Davidis-Museum"
+title: Henriette-Davidis-Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.40125
 longitude: 7.342944444
 images:
-  - "/images-sites/henriette-davidis-museum/01-72c7c3c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elbscheweg_1_(Wengern).jpg/1200px-Elbscheweg_1_(Wengern).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg
+image_srcset:
+  Elbscheweg 1 (Wengern).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elbscheweg_1_(Wengern).jpg/400px-Elbscheweg_1_(Wengern).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elbscheweg_1_(Wengern).jpg/800px-Elbscheweg_1_(Wengern).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elbscheweg_1_(Wengern).jpg/1200px-Elbscheweg_1_(Wengern).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Elbscheweg_1_(Wengern).jpg/1920px-Elbscheweg_1_(Wengern).jpg
+  Wetter Wengern - Elbscheweg1-Henriette-Davidis-Museum 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg/400px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg/800px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg/1920px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_01_ies.jpg
+  Wetter Wengern - Elbscheweg1-Henriette-Davidis-Museum 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/400px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/800px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg/1920px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_02_ies.jpg
+  Wetter Wengern - Elbscheweg1-Henriette-Davidis-Museum 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg/400px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg/800px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg/1920px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_03_ies.jpg
+  Wetter Wengern - Elbscheweg1-Henriette-Davidis-Museum 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg/400px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg/800px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg/1200px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg/1920px-Wetter_Wengern_-_Elbscheweg1-Henriette-Davidis-Museum_05_ies.jpg
 ---
 
 ## Overview

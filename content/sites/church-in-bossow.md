@@ -1,23 +1,50 @@
 ---
-title: "Church in Bössow"
-site_name: "Church in Bössow"
-slug: "church-in-bossow"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Bössow
+site_name: Church in Bössow
+slug: church-in-bossow
+region: Schleswig-Holstein
 latitude: 53.9185
 longitude: 11.2171
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244199"
-description: "Tucked away in the picturesque region of Warnow, the Church in Bössow stands as a striking example of Brick Gothic architecture. This church, constructe..."
+- cultural site
+wikidata_id: Q1244199
+description: Tucked away in the picturesque region of Warnow, the Church in Bössow
+  stands as a striking example of Brick Gothic architecture. This church, constructe...
 images:
-  - "/images-sites/church-in-bossow/01-f6ad2752-1920w.webp"
-  - "/images-sites/church-in-bossow/02-5103cf40-1920w.webp"
-  - "/images-sites/church-in-bossow/03-0e621c6e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche%20in%20B%C3%B6ssow.JPG/1200px-Kirche%20in%20B%C3%B6ssow.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bössow_Dorfkirche_2523.JPG/1200px-Bössow_Dorfkirche_2523.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bössow_Dorfkirche_Orgel_Schild_2505.JPG/1200px-Bössow_Dorfkirche_Orgel_Schild_2505.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bössow_Dorfkirche_Reliefs_2502.JPG/1200px-Bössow_Dorfkirche_Reliefs_2502.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1200px-Kirche_in_Bössow.JPG
+image_srcset:
+  Kirche%20in%20B%C3%B6ssow.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche%20in%20B%C3%B6ssow.JPG/400px-Kirche%20in%20B%C3%B6ssow.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche%20in%20B%C3%B6ssow.JPG/800px-Kirche%20in%20B%C3%B6ssow.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche%20in%20B%C3%B6ssow.JPG/1200px-Kirche%20in%20B%C3%B6ssow.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche%20in%20B%C3%B6ssow.JPG/1920px-Kirche%20in%20B%C3%B6ssow.JPG
+  Bössow Dorfkirche 2523.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bössow_Dorfkirche_2523.JPG/400px-Bössow_Dorfkirche_2523.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bössow_Dorfkirche_2523.JPG/800px-Bössow_Dorfkirche_2523.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bössow_Dorfkirche_2523.JPG/1200px-Bössow_Dorfkirche_2523.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bössow_Dorfkirche_2523.JPG/1920px-Bössow_Dorfkirche_2523.JPG
+  Bössow Dorfkirche Orgel Schild 2505.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bössow_Dorfkirche_Orgel_Schild_2505.JPG/400px-Bössow_Dorfkirche_Orgel_Schild_2505.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bössow_Dorfkirche_Orgel_Schild_2505.JPG/800px-Bössow_Dorfkirche_Orgel_Schild_2505.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bössow_Dorfkirche_Orgel_Schild_2505.JPG/1200px-Bössow_Dorfkirche_Orgel_Schild_2505.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bössow_Dorfkirche_Orgel_Schild_2505.JPG/1920px-Bössow_Dorfkirche_Orgel_Schild_2505.JPG
+  Bössow Dorfkirche Reliefs 2502.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bössow_Dorfkirche_Reliefs_2502.JPG/400px-Bössow_Dorfkirche_Reliefs_2502.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bössow_Dorfkirche_Reliefs_2502.JPG/800px-Bössow_Dorfkirche_Reliefs_2502.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bössow_Dorfkirche_Reliefs_2502.JPG/1200px-Bössow_Dorfkirche_Reliefs_2502.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bössow_Dorfkirche_Reliefs_2502.JPG/1920px-Bössow_Dorfkirche_Reliefs_2502.JPG
+  Kirche in Bössow.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/400px-Kirche_in_Bössow.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/800px-Kirche_in_Bössow.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1200px-Kirche_in_Bössow.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kirche_in_Bössow.JPG/1920px-Kirche_in_Bössow.JPG
 ---
 
 ## Overview

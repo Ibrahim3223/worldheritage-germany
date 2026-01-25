@@ -1,27 +1,49 @@
 ---
-title: "Europa-Rosarium"
+title: Europa-Rosarium
 date: 2026-01-23
 draft: false
-description: "rose garden in Sangerhausen, Saxony-Anhalt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: rose garden in Sangerhausen, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4752
 longitude: 11.3148
-
-# Images
 images:
-  - "/images-sites/europa-rosarium/01-edce6524-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rosarium_Sangerhausen_kz02.jpg/1200px-Rosarium_Sangerhausen_kz02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rosarium_Sangerhausen_kz08.jpg/1200px-Rosarium_Sangerhausen_kz08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosarium_Sangerhausen_kz13.jpg/1200px-Rosarium_Sangerhausen_kz13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rosarium_Sangerhausen_kz17.jpg/1200px-Rosarium_Sangerhausen_kz17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1200px-Sangerhausen_Rosarium.JPG
+image_srcset:
+  Rosarium Sangerhausen kz02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rosarium_Sangerhausen_kz02.jpg/400px-Rosarium_Sangerhausen_kz02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rosarium_Sangerhausen_kz02.jpg/800px-Rosarium_Sangerhausen_kz02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rosarium_Sangerhausen_kz02.jpg/1200px-Rosarium_Sangerhausen_kz02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rosarium_Sangerhausen_kz02.jpg/1920px-Rosarium_Sangerhausen_kz02.jpg
+  Rosarium Sangerhausen kz08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rosarium_Sangerhausen_kz08.jpg/400px-Rosarium_Sangerhausen_kz08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rosarium_Sangerhausen_kz08.jpg/800px-Rosarium_Sangerhausen_kz08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rosarium_Sangerhausen_kz08.jpg/1200px-Rosarium_Sangerhausen_kz08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rosarium_Sangerhausen_kz08.jpg/1920px-Rosarium_Sangerhausen_kz08.jpg
+  Rosarium Sangerhausen kz13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosarium_Sangerhausen_kz13.jpg/400px-Rosarium_Sangerhausen_kz13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosarium_Sangerhausen_kz13.jpg/800px-Rosarium_Sangerhausen_kz13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosarium_Sangerhausen_kz13.jpg/1200px-Rosarium_Sangerhausen_kz13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rosarium_Sangerhausen_kz13.jpg/1920px-Rosarium_Sangerhausen_kz13.jpg
+  Rosarium Sangerhausen kz17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rosarium_Sangerhausen_kz17.jpg/400px-Rosarium_Sangerhausen_kz17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rosarium_Sangerhausen_kz17.jpg/800px-Rosarium_Sangerhausen_kz17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rosarium_Sangerhausen_kz17.jpg/1200px-Rosarium_Sangerhausen_kz17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rosarium_Sangerhausen_kz17.jpg/1920px-Rosarium_Sangerhausen_kz17.jpg
+  Sangerhausen Rosarium.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/400px-Sangerhausen_Rosarium.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/800px-Sangerhausen_Rosarium.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1200px-Sangerhausen_Rosarium.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sangerhausen_Rosarium.JPG/1920px-Sangerhausen_Rosarium.JPG
 ---
 
 ## Overview

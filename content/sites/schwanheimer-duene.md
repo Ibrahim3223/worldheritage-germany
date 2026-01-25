@@ -13,7 +13,7 @@ regions:
 latitude: 50.0861
 longitude: 8.55889
 images:
-  - "/images-sites/schwanheimer-duene/01-84d0232c-800w.webp"
+  - "/images/schwanheimer-duene/01-84d0232c-800w.webp"
 ---
 
 ## Overview

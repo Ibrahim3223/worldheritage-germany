@@ -13,7 +13,7 @@ regions:
 latitude: 49.7597
 longitude: 6.65176
 images:
-  - "/images-sites/st-maximins-abbey/01-ef665a4a-800w.webp"
+  - "/images/st-maximins-abbey/01-ef665a4a-800w.webp"
 ---
 
 ## Overview

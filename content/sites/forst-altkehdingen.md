@@ -1,19 +1,25 @@
 ---
-title: "Forst Altkehdingen"
+title: Forst Altkehdingen
 date: 2026-01-23
 draft: false
-description: "former nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: former nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.7528
 longitude: 9.04167
 images:
-  - "/images-sites/forst-altkehdingen/01-80bd6c6b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg/1200px-Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg
+image_srcset:
+  Cadenberge 2012 -Forst Altkehdingen- by RaBoe001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg/400px-Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg/800px-Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg/1200px-Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg/1920px-Cadenberge_2012_-Forst_Altkehdingen-_by_RaBoe001.jpg
 ---
 
 ## Overview

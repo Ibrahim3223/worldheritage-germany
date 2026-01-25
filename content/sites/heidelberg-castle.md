@@ -1,28 +1,49 @@
 ---
-title: "Heidelberg Castle"
+title: Heidelberg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.410555555
 longitude: 8.715833333
-
-# Images
 images:
-  - "/images-sites/heidelberg-castle/02-4523918e-800w.webp"
-  - "/images-sites/heidelberg-castle/03-51035d6c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20230315_Königstuhl_Odenwald.jpg/1200px-20230315_Königstuhl_Odenwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg/1200px-20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossbeleuchtung_10.jpg/1200px-Schlossbeleuchtung_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberger_Schloss_2.jpg/1200px-Heidelberger_Schloss_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1200px-Heidelberg-Schloß.JPG
+image_srcset:
+  20230315 Königstuhl Odenwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20230315_Königstuhl_Odenwald.jpg/400px-20230315_Königstuhl_Odenwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20230315_Königstuhl_Odenwald.jpg/800px-20230315_Königstuhl_Odenwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20230315_Königstuhl_Odenwald.jpg/1200px-20230315_Königstuhl_Odenwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20230315_Königstuhl_Odenwald.jpg/1920px-20230315_Königstuhl_Odenwald.jpg
+  20230315 Hotel Holländer Hof Heidelberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg/400px-20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg/800px-20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg/1200px-20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg/1920px-20230315_Hotel_Holländer_Hof_Heidelberg_01.jpg
+  Schlossbeleuchtung 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossbeleuchtung_10.jpg/400px-Schlossbeleuchtung_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossbeleuchtung_10.jpg/800px-Schlossbeleuchtung_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossbeleuchtung_10.jpg/1200px-Schlossbeleuchtung_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Schlossbeleuchtung_10.jpg/1920px-Schlossbeleuchtung_10.jpg
+  Heidelberger Schloss 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberger_Schloss_2.jpg/400px-Heidelberger_Schloss_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberger_Schloss_2.jpg/800px-Heidelberger_Schloss_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberger_Schloss_2.jpg/1200px-Heidelberger_Schloss_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberger_Schloss_2.jpg/1920px-Heidelberger_Schloss_2.jpg
+  Heidelberg-Schloß.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/400px-Heidelberg-Schloß.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/800px-Heidelberg-Schloß.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1200px-Heidelberg-Schloß.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Heidelberg-Schloß.JPG/1920px-Heidelberg-Schloß.JPG
 ---
 
 ## Overview

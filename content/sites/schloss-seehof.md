@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q883810"
 description: "Schloss Seehof, a cultural heritage monument located in the Memmelsdorf region of Bavaria, Germany, is a splendid example of baroque architecture. This ..."
 images:
-  - "/images-sites/schloss-seehof/01-f5d59016-1920w.webp"
-  - "/images-sites/schloss-seehof/02-7b7420ce-1920w.webp"
-  - "/images-sites/schloss-seehof/03-9ef07694-1920w.webp"
+  - "/images/schloss-seehof/01-f5d59016-1920w.webp"
+  - "/images/schloss-seehof/02-7b7420ce-1920w.webp"
+  - "/images/schloss-seehof/03-9ef07694-1920w.webp"
 ---
 
 ## Overview

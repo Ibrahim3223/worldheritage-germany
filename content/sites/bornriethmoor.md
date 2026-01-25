@@ -1,21 +1,49 @@
 ---
-title: "Bornriethmoor"
+title: Bornriethmoor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7747
 longitude: 10.0972
 images:
-  - "/images-sites/bornriethmoor/01-b2f4e93b-800w.webp"
-  - "/images-sites/bornriethmoor/02-dc999c3b-800w.webp"
-  - "/images-sites/bornriethmoor/03-230c67f6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bornriethmoor_Vernässung.JPG/1200px-Bornriethmoor_Vernässung.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1200px-GagelstrauchbestandBornriethmoor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moor_mit_Schilfrohr.jpg/1200px-Moor_mit_Schilfrohr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Salinenleitung_Holzroehre.jpg/1200px-Salinenleitung_Holzroehre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bornriethmoor_renaturiert.jpg/1200px-Bornriethmoor_renaturiert.jpg
+image_srcset:
+  Bornriethmoor Vernässung.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bornriethmoor_Vernässung.JPG/400px-Bornriethmoor_Vernässung.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bornriethmoor_Vernässung.JPG/800px-Bornriethmoor_Vernässung.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bornriethmoor_Vernässung.JPG/1200px-Bornriethmoor_Vernässung.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bornriethmoor_Vernässung.JPG/1920px-Bornriethmoor_Vernässung.JPG
+  GagelstrauchbestandBornriethmoor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/400px-GagelstrauchbestandBornriethmoor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/800px-GagelstrauchbestandBornriethmoor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1200px-GagelstrauchbestandBornriethmoor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/GagelstrauchbestandBornriethmoor.JPG/1920px-GagelstrauchbestandBornriethmoor.JPG
+  Moor mit Schilfrohr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moor_mit_Schilfrohr.jpg/400px-Moor_mit_Schilfrohr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moor_mit_Schilfrohr.jpg/800px-Moor_mit_Schilfrohr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moor_mit_Schilfrohr.jpg/1200px-Moor_mit_Schilfrohr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Moor_mit_Schilfrohr.jpg/1920px-Moor_mit_Schilfrohr.jpg
+  Salinenleitung Holzroehre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Salinenleitung_Holzroehre.jpg/400px-Salinenleitung_Holzroehre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Salinenleitung_Holzroehre.jpg/800px-Salinenleitung_Holzroehre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Salinenleitung_Holzroehre.jpg/1200px-Salinenleitung_Holzroehre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Salinenleitung_Holzroehre.jpg/1920px-Salinenleitung_Holzroehre.jpg
+  Bornriethmoor renaturiert.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bornriethmoor_renaturiert.jpg/400px-Bornriethmoor_renaturiert.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bornriethmoor_renaturiert.jpg/800px-Bornriethmoor_renaturiert.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bornriethmoor_renaturiert.jpg/1200px-Bornriethmoor_renaturiert.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bornriethmoor_renaturiert.jpg/1920px-Bornriethmoor_renaturiert.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.37733
 longitude: 10.13275
 images:
-  - "/images-sites/literaturmuseum-theodor-storm/01-39d492ef-800w.webp"
+  - "/images/literaturmuseum-theodor-storm/01-39d492ef-800w.webp"
 ---
 
 ## Overview

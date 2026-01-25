@@ -13,7 +13,7 @@ regions:
 latitude: 49.8736
 longitude: 8.65528
 images:
-  - "/images-sites/residential-palace-darmstadt/01-402819a8-800w.webp"
+  - "/images/residential-palace-darmstadt/01-402819a8-800w.webp"
 ---
 
 ## Overview

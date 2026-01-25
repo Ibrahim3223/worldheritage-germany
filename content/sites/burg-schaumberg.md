@@ -1,27 +1,43 @@
 ---
-title: "Burg Schaumberg"
+title: Burg Schaumberg
 date: 2026-01-23
 draft: false
-description: "German castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: German castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.3939
 longitude: 10.9897
-
-# Images
 images:
-  - "/images-sites/burg-schaumberg/01-a928901b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Panorama_schaumberg_thueringen.jpg/1200px-Panorama_schaumberg_thueringen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg-Schaumberg2.jpg/1200px-Burg-Schaumberg2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg-Schaumberg3.jpg/1200px-Burg-Schaumberg3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Schaumberg1.jpg/1200px-Burg-Schaumberg1.jpg
+image_srcset:
+  Panorama schaumberg thueringen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Panorama_schaumberg_thueringen.jpg/400px-Panorama_schaumberg_thueringen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Panorama_schaumberg_thueringen.jpg/800px-Panorama_schaumberg_thueringen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Panorama_schaumberg_thueringen.jpg/1200px-Panorama_schaumberg_thueringen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Panorama_schaumberg_thueringen.jpg/1920px-Panorama_schaumberg_thueringen.jpg
+  Burg-Schaumberg2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg-Schaumberg2.jpg/400px-Burg-Schaumberg2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg-Schaumberg2.jpg/800px-Burg-Schaumberg2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg-Schaumberg2.jpg/1200px-Burg-Schaumberg2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burg-Schaumberg2.jpg/1920px-Burg-Schaumberg2.jpg
+  Burg-Schaumberg3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg-Schaumberg3.jpg/400px-Burg-Schaumberg3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg-Schaumberg3.jpg/800px-Burg-Schaumberg3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg-Schaumberg3.jpg/1200px-Burg-Schaumberg3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg-Schaumberg3.jpg/1920px-Burg-Schaumberg3.jpg
+  Burg-Schaumberg1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Schaumberg1.jpg/400px-Burg-Schaumberg1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Schaumberg1.jpg/800px-Burg-Schaumberg1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Schaumberg1.jpg/1200px-Burg-Schaumberg1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Schaumberg1.jpg/1920px-Burg-Schaumberg1.jpg
 ---
 
 ## Overview

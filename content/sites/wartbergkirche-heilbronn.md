@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1279725"
 description: "Located in the heart of Heilbronn, Germany, the Wartbergkirche is a remarkable example of modern church architecture. With its striking concrete structu..."
 images:
-  - "/images-sites/wartbergkirche-heilbronn/01-789bca18-1920w.webp"
-  - "/images-sites/wartbergkirche-heilbronn/02-bdfef903-1920w.webp"
-  - "/images-sites/wartbergkirche-heilbronn/03-769798f6-1920w.webp"
+  - "/images/wartbergkirche-heilbronn/01-789bca18-1920w.webp"
+  - "/images/wartbergkirche-heilbronn/02-bdfef903-1920w.webp"
+  - "/images/wartbergkirche-heilbronn/03-769798f6-1920w.webp"
 ---
 
 ## Overview

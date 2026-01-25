@@ -13,7 +13,7 @@ regions:
 latitude: 50.9919785
 longitude: 12.4464284
 images:
-  - "/images-sites/mauritianum/01-c989ed9a-800w.webp"
+  - "/images/mauritianum/01-c989ed9a-800w.webp"
 ---
 
 ## Overview

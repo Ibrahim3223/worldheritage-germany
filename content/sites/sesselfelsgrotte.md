@@ -13,9 +13,9 @@ regions:
 latitude: 48.93598
 longitude: 11.79086
 images:
-  - "/images-sites/sesselfelsgrotte/01-ead6fc86-800w.webp"
-  - "/images-sites/sesselfelsgrotte/02-74e05b6d-800w.webp"
-  - "/images-sites/sesselfelsgrotte/03-cd4e4dfa-800w.webp"
+  - "/images/sesselfelsgrotte/01-ead6fc86-800w.webp"
+  - "/images/sesselfelsgrotte/02-74e05b6d-800w.webp"
+  - "/images/sesselfelsgrotte/03-cd4e4dfa-800w.webp"
 ---
 
 ## Overview

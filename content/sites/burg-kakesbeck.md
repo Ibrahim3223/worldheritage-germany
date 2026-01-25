@@ -1,27 +1,49 @@
 ---
-title: "Burg Kakesbeck"
+title: Burg Kakesbeck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.8119
 longitude: 7.45167
-
-# Images
 images:
-  - "/images-sites/burg-kakesbeck/01-7ce3450c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg
+image_srcset:
+  Lüdinghausen, Burg Kakesbeck -- 2021 -- 8858.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg/400px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg/800px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg/1920px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8858.jpg
+  Lüdinghausen, Burg Kakesbeck -- 2021 -- 8860.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg/400px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg/800px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg/1920px-Lüdinghausen,_Burg_Kakesbeck_--_2021_--_8860.jpg
+  Lüdinghausen, Burg Kakesbeck -- 2016 -- 3678.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg/400px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg/800px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg/1920px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3678.jpg
+  Lüdinghausen, Burg Kakesbeck -- 2016 -- 3674.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg/400px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg/800px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg/1920px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3674.jpg
+  Lüdinghausen, Burg Kakesbeck -- 2016 -- 3671.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg/400px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg/800px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg/1200px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg/1920px-Lüdinghausen,_Burg_Kakesbeck_--_2016_--_3671.jpg
 ---
 
 ## Overview

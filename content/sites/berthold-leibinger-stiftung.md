@@ -1,27 +1,37 @@
 ---
-title: "Berthold Leibinger Stiftung"
+title: Berthold Leibinger Stiftung
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.819135
 longitude: 9.069614
-
-# Images
 images:
-  - "/images-sites/berthold-leibinger-stiftung/01-6d687a52-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Berthold_leibinger_innovationspreis_2008.jpg/1200px-Berthold_leibinger_innovationspreis_2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berthold_leibinger_zukunftspreis_2008.jpg/1200px-Berthold_leibinger_zukunftspreis_2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berthold_Leibinger_Stiftung_Logo.svg/1200px-Berthold_Leibinger_Stiftung_Logo.svg.png
+image_srcset:
+  Berthold leibinger innovationspreis 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Berthold_leibinger_innovationspreis_2008.jpg/400px-Berthold_leibinger_innovationspreis_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Berthold_leibinger_innovationspreis_2008.jpg/800px-Berthold_leibinger_innovationspreis_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Berthold_leibinger_innovationspreis_2008.jpg/1200px-Berthold_leibinger_innovationspreis_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Berthold_leibinger_innovationspreis_2008.jpg/1920px-Berthold_leibinger_innovationspreis_2008.jpg
+  Berthold leibinger zukunftspreis 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berthold_leibinger_zukunftspreis_2008.jpg/400px-Berthold_leibinger_zukunftspreis_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berthold_leibinger_zukunftspreis_2008.jpg/800px-Berthold_leibinger_zukunftspreis_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berthold_leibinger_zukunftspreis_2008.jpg/1200px-Berthold_leibinger_zukunftspreis_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berthold_leibinger_zukunftspreis_2008.jpg/1920px-Berthold_leibinger_zukunftspreis_2008.jpg
+  Berthold Leibinger Stiftung Logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berthold_Leibinger_Stiftung_Logo.svg/400px-Berthold_Leibinger_Stiftung_Logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berthold_Leibinger_Stiftung_Logo.svg/800px-Berthold_Leibinger_Stiftung_Logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berthold_Leibinger_Stiftung_Logo.svg/1200px-Berthold_Leibinger_Stiftung_Logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berthold_Leibinger_Stiftung_Logo.svg/1920px-Berthold_Leibinger_Stiftung_Logo.svg.png
 ---
 
 ## Overview

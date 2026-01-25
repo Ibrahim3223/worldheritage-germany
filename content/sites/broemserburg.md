@@ -1,29 +1,49 @@
 ---
-title: "Brömserburg"
+title: Brömserburg
 date: 2026-01-23
 draft: false
-description: "stone castle in Rüdesheim, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: stone castle in Rüdesheim, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9776607
 longitude: 7.917732538
-
-# Images
 images:
-  - "/images-sites/broemserburg/01-a130a370-800w.webp"
-  - "/images-sites/broemserburg/02-0a56abcc-800w.webp"
-  - "/images-sites/broemserburg/03-fce32357-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/1200px-Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brömserburg_Rüdesheim_2021-11.jpg/1200px-Brömserburg_Rüdesheim_2021-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2020-03-04-Broemserburg.jpg/1200px-2020-03-04-Broemserburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg/1200px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brömserburg1.JPG/1200px-Brömserburg1.JPG
+image_srcset:
+  Brömserburg, Rüdesheim, West view 20140928 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/400px-Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/800px-Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/1200px-Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/1920px-Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+  Brömserburg Rüdesheim 2021-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brömserburg_Rüdesheim_2021-11.jpg/400px-Brömserburg_Rüdesheim_2021-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brömserburg_Rüdesheim_2021-11.jpg/800px-Brömserburg_Rüdesheim_2021-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brömserburg_Rüdesheim_2021-11.jpg/1200px-Brömserburg_Rüdesheim_2021-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brömserburg_Rüdesheim_2021-11.jpg/1920px-Brömserburg_Rüdesheim_2021-11.jpg
+  2020-03-04-Broemserburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2020-03-04-Broemserburg.jpg/400px-2020-03-04-Broemserburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2020-03-04-Broemserburg.jpg/800px-2020-03-04-Broemserburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2020-03-04-Broemserburg.jpg/1200px-2020-03-04-Broemserburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2020-03-04-Broemserburg.jpg/1920px-2020-03-04-Broemserburg.jpg
+  Joseph Knippenberg, Rheinisches Bildarchiv, rba 225449 kni.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg/400px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg/800px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg/1200px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg/1920px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225449_kni.jpg
+  Brömserburg1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brömserburg1.JPG/400px-Brömserburg1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brömserburg1.JPG/800px-Brömserburg1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brömserburg1.JPG/1200px-Brömserburg1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brömserburg1.JPG/1920px-Brömserburg1.JPG
 ---
 
 ## Overview

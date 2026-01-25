@@ -13,7 +13,7 @@ regions:
 latitude: 52.510847222
 longitude: 13.467033333
 images:
-  - "/images-sites/ramones-museum/01-6d832e59-800w.webp"
+  - "/images/ramones-museum/01-6d832e59-800w.webp"
 ---
 
 ## Overview

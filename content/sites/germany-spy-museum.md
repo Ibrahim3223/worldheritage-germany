@@ -1,19 +1,49 @@
 ---
-title: "Germany Spy Museum"
+title: Germany Spy Museum
 date: 2026-01-23
 draft: false
-description: "museum in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Berlin
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.509
 longitude: 13.379277777
 images:
-  - "/images-sites/germany-spy-museum/01-def374c6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Spy_Museum_Berlin_-_Joy_of_Museums.jpg/1200px-Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg/1200px-FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Spionagemuseum.jpg/1200px-Deutsches_Spionagemuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SE_109_3.jpg/1200px-SE_109_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Spionagemuseum_Logo.png/1200px-Deutsches_Spionagemuseum_Logo.png
+image_srcset:
+  Spy Museum Berlin - Joy of Museums.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Spy_Museum_Berlin_-_Joy_of_Museums.jpg/400px-Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Spy_Museum_Berlin_-_Joy_of_Museums.jpg/800px-Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Spy_Museum_Berlin_-_Joy_of_Museums.jpg/1200px-Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Spy_Museum_Berlin_-_Joy_of_Museums.jpg/1920px-Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+  FN Browning Model 1910 - Spy Museum Berlin - Joy of Museums.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg/400px-FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg/800px-FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg/1200px-FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg/1920px-FN_Browning_Model_1910_-_Spy_Museum_Berlin_-_Joy_of_Museums.jpg
+  Deutsches Spionagemuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Spionagemuseum.jpg/400px-Deutsches_Spionagemuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Spionagemuseum.jpg/800px-Deutsches_Spionagemuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Spionagemuseum.jpg/1200px-Deutsches_Spionagemuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Deutsches_Spionagemuseum.jpg/1920px-Deutsches_Spionagemuseum.jpg
+  SE 109 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SE_109_3.jpg/400px-SE_109_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SE_109_3.jpg/800px-SE_109_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SE_109_3.jpg/1200px-SE_109_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/SE_109_3.jpg/1920px-SE_109_3.jpg
+  Deutsches Spionagemuseum Logo.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Spionagemuseum_Logo.png/400px-Deutsches_Spionagemuseum_Logo.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Spionagemuseum_Logo.png/800px-Deutsches_Spionagemuseum_Logo.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Spionagemuseum_Logo.png/1200px-Deutsches_Spionagemuseum_Logo.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Spionagemuseum_Logo.png/1920px-Deutsches_Spionagemuseum_Logo.png
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 48.1558
 longitude: 11.5055
 images:
-  - "/images-sites/marstallmuseum/01-78d8d4d5-800w.webp"
-  - "/images-sites/marstallmuseum/02-84c16e45-800w.webp"
-  - "/images-sites/marstallmuseum/03-b851e23f-800w.webp"
+  - "/images/marstallmuseum/01-78d8d4d5-800w.webp"
+  - "/images/marstallmuseum/02-84c16e45-800w.webp"
+  - "/images/marstallmuseum/03-b851e23f-800w.webp"
 ---
 
 ## Overview

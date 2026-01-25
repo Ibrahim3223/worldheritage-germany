@@ -1,23 +1,50 @@
 ---
-title: "Christ-the-King church Lauchhammer"
-site_name: "Christ-the-King church Lauchhammer"
-slug: "christ-the-king-church-lauchhammer"
-region: "Brandenburg"
-
-# Location
+title: Christ-the-King church Lauchhammer
+site_name: Christ-the-King church Lauchhammer
+slug: christ-the-king-church-lauchhammer
+region: Brandenburg
 latitude: 51.49158333333333
 longitude: 13.762555555555556
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1087189"
-description: "In the heart of Brandenburgs Oberspreewald district, the Christ-the-King Church stands as a striking example of Romanesque Revival architecture, complet..."
+- cultural site
+wikidata_id: Q1087189
+description: In the heart of Brandenburgs Oberspreewald district, the Christ-the-King
+  Church stands as a striking example of Romanesque Revival architecture, complet...
 images:
-  - "/images-sites/christ-the-king-church-lauchhammer/01-6c45bc96-1920w.webp"
-  - "/images-sites/christ-the-king-church-lauchhammer/02-982d1ad6-1920w.webp"
-  - "/images-sites/christ-the-king-church-lauchhammer/03-fe632d8c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg/1200px-Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1200px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Christus-König-Kirche_in_Lauchhammer-Mitte.jpg/1200px-Christus-König-Kirche_in_Lauchhammer-Mitte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Katholische_Kirche_Lauchhammer-Mitte_1.jpg/1200px-Katholische_Kirche_Lauchhammer-Mitte_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg/1200px-29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg
+image_srcset:
+  Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg/400px-Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg/800px-Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg/1200px-Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg/1920px-Katholische%20Kirche%20Lauchhammer-Mitte%203b.jpg
+  Katholische Kirche Lauchhammer-Mitte 3b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/400px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/800px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1200px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Katholische_Kirche_Lauchhammer-Mitte_3b.jpg/1920px-Katholische_Kirche_Lauchhammer-Mitte_3b.jpg
+  Christus-König-Kirche in Lauchhammer-Mitte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Christus-König-Kirche_in_Lauchhammer-Mitte.jpg/400px-Christus-König-Kirche_in_Lauchhammer-Mitte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Christus-König-Kirche_in_Lauchhammer-Mitte.jpg/800px-Christus-König-Kirche_in_Lauchhammer-Mitte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Christus-König-Kirche_in_Lauchhammer-Mitte.jpg/1200px-Christus-König-Kirche_in_Lauchhammer-Mitte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Christus-König-Kirche_in_Lauchhammer-Mitte.jpg/1920px-Christus-König-Kirche_in_Lauchhammer-Mitte.jpg
+  Katholische Kirche Lauchhammer-Mitte 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Katholische_Kirche_Lauchhammer-Mitte_1.jpg/400px-Katholische_Kirche_Lauchhammer-Mitte_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Katholische_Kirche_Lauchhammer-Mitte_1.jpg/800px-Katholische_Kirche_Lauchhammer-Mitte_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Katholische_Kirche_Lauchhammer-Mitte_1.jpg/1200px-Katholische_Kirche_Lauchhammer-Mitte_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Katholische_Kirche_Lauchhammer-Mitte_1.jpg/1920px-Katholische_Kirche_Lauchhammer-Mitte_1.jpg
+  29357-Lauchhammer-1957-Mitte, Katholische Christus König Kirche-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg/400px-29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg/800px-29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg/1200px-29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg/1920px-29357-Lauchhammer-1957-Mitte,_Katholische_Christus_König_Kirche-Brück_&_Sohn_Kunstverlag.jpg
 ---
 
 ## Overview

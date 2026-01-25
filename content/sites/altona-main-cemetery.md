@@ -1,21 +1,49 @@
 ---
-title: "Altona Main Cemetery"
+title: Altona Main Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.586
 longitude: 9.888
 images:
-  - "/images-sites/altona-main-cemetery/01-35387ddd-800w.webp"
-  - "/images-sites/altona-main-cemetery/02-3dee1086-800w.webp"
-  - "/images-sites/altona-main-cemetery/03-99ff4dd2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Friedhof_Altona_Hauptallee_05.jpg/1200px-Friedhof_Altona_Hauptallee_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedhof_Altona_Kapelle_2.jpg/1200px-Friedhof_Altona_Kapelle_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Friedhof_Altona_Kapelle_1.jpg/1200px-Friedhof_Altona_Kapelle_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhof_Altona_Infotafel.jpg/1200px-Friedhof_Altona_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg/1200px-Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg
+image_srcset:
+  Friedhof Altona Hauptallee 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Friedhof_Altona_Hauptallee_05.jpg/400px-Friedhof_Altona_Hauptallee_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Friedhof_Altona_Hauptallee_05.jpg/800px-Friedhof_Altona_Hauptallee_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Friedhof_Altona_Hauptallee_05.jpg/1200px-Friedhof_Altona_Hauptallee_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Friedhof_Altona_Hauptallee_05.jpg/1920px-Friedhof_Altona_Hauptallee_05.jpg
+  Friedhof Altona Kapelle 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedhof_Altona_Kapelle_2.jpg/400px-Friedhof_Altona_Kapelle_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedhof_Altona_Kapelle_2.jpg/800px-Friedhof_Altona_Kapelle_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedhof_Altona_Kapelle_2.jpg/1200px-Friedhof_Altona_Kapelle_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Friedhof_Altona_Kapelle_2.jpg/1920px-Friedhof_Altona_Kapelle_2.jpg
+  Friedhof Altona Kapelle 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Friedhof_Altona_Kapelle_1.jpg/400px-Friedhof_Altona_Kapelle_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Friedhof_Altona_Kapelle_1.jpg/800px-Friedhof_Altona_Kapelle_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Friedhof_Altona_Kapelle_1.jpg/1200px-Friedhof_Altona_Kapelle_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Friedhof_Altona_Kapelle_1.jpg/1920px-Friedhof_Altona_Kapelle_1.jpg
+  Friedhof Altona Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhof_Altona_Infotafel.jpg/400px-Friedhof_Altona_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhof_Altona_Infotafel.jpg/800px-Friedhof_Altona_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhof_Altona_Infotafel.jpg/1200px-Friedhof_Altona_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedhof_Altona_Infotafel.jpg/1920px-Friedhof_Altona_Infotafel.jpg
+  Max Brauer - Макс Брауэр-Hamburg, Friedhof Altona 2013-10-09 23-18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg/400px-Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg/800px-Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg/1200px-Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg/1920px-Max_Brauer_-_Макс_Брауэр-Hamburg,_Friedhof_Altona_2013-10-09_23-18.jpg
 ---
 
 ## Overview

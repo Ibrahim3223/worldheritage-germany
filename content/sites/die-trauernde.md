@@ -1,19 +1,49 @@
 ---
-title: "Die Trauernde"
+title: Die Trauernde
 date: 2026-01-23
 draft: false
-description: "Plastik zum Gedenken der Opfer des Zweiten Weltkriegs"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Plastik zum Gedenken der Opfer des Zweiten Weltkriegs
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 50.934818
 longitude: 6.958895
 images:
-  - "/images-sites/die-trauernde/01-3e2e903b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/1200px-Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/1200px-External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/1200px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG/1200px-St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Skulptur_Die_Trauernde_Koeln2007.jpg/1200px-Skulptur_Die_Trauernde_Koeln2007.jpg
+image_srcset:
+  Trauernde - St. Maria im Kapitol - Cologne - Germany 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/400px-Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/800px-Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/1200px-Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/1920px-Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+  External court and Trauernde - St. Maria im Kapitol - Cologne - Germany 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/400px-External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/800px-External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/1200px-External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg/1920px-External_court_and_Trauernde_-_St._Maria_im_Kapitol_-_Cologne_-_Germany_2017.jpg
+  Kölner Mahnmal - Trauernde - Gerhard Marcks-5329.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/400px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/800px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/1200px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg/1920px-Kölner_Mahnmal_-_Trauernde_-_Gerhard_Marcks-5329.jpg
+  St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG/400px-St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG/800px-St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG/1200px-St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG/1920px-St-Maria-im-Kapitol-Köln-die-Trauernde-von-Gerhard-Marcks.JPG
+  Skulptur Die Trauernde Koeln2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Skulptur_Die_Trauernde_Koeln2007.jpg/400px-Skulptur_Die_Trauernde_Koeln2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Skulptur_Die_Trauernde_Koeln2007.jpg/800px-Skulptur_Die_Trauernde_Koeln2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Skulptur_Die_Trauernde_Koeln2007.jpg/1200px-Skulptur_Die_Trauernde_Koeln2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Skulptur_Die_Trauernde_Koeln2007.jpg/1920px-Skulptur_Die_Trauernde_Koeln2007.jpg
 ---
 
 ## Overview

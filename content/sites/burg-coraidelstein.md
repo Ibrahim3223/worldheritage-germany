@@ -1,27 +1,49 @@
 ---
-title: "Burg Coraidelstein"
+title: Burg Coraidelstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1672
 longitude: 7.20064
-
-# Images
 images:
-  - "/images-sites/burg-coraidelstein/01-7025d3cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg/1200px-Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Klotten.jpg/1200px-Klotten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/1200px-Castle_ruin_Coraidelstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clotten_on_the_Moselle.jpg/1200px-Clotten_on_the_Moselle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Coraidelstein.JPG/1200px-Burg_Coraidelstein.JPG
+image_srcset:
+  Die Mosel, der Ort Klotten und rechts oben die Ruine Coraidelstein (8574179799).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg/400px-Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg/800px-Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg/1200px-Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg/1920px-Die_Mosel,_der_Ort_Klotten_und_rechts_oben_die_Ruine_Coraidelstein_(8574179799).jpg
+  Klotten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Klotten.jpg/400px-Klotten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Klotten.jpg/800px-Klotten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Klotten.jpg/1200px-Klotten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Klotten.jpg/1920px-Klotten.jpg
+  Castle ruin Coraidelstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/400px-Castle_ruin_Coraidelstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/800px-Castle_ruin_Coraidelstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/1200px-Castle_ruin_Coraidelstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_ruin_Coraidelstein.jpg/1920px-Castle_ruin_Coraidelstein.jpg
+  Clotten on the Moselle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clotten_on_the_Moselle.jpg/400px-Clotten_on_the_Moselle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clotten_on_the_Moselle.jpg/800px-Clotten_on_the_Moselle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clotten_on_the_Moselle.jpg/1200px-Clotten_on_the_Moselle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clotten_on_the_Moselle.jpg/1920px-Clotten_on_the_Moselle.jpg
+  Burg Coraidelstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Coraidelstein.JPG/400px-Burg_Coraidelstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Coraidelstein.JPG/800px-Burg_Coraidelstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Coraidelstein.JPG/1200px-Burg_Coraidelstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Coraidelstein.JPG/1920px-Burg_Coraidelstein.JPG
 ---
 
 ## Overview

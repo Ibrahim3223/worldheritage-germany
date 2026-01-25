@@ -13,7 +13,7 @@ regions:
 latitude: 49.4778
 longitude: 8.43417
 images:
-  - "/images-sites/ludwigshafen-central-station/01-298dc173-800w.webp"
+  - "/images/ludwigshafen-central-station/01-298dc173-800w.webp"
 ---
 
 ## Overview

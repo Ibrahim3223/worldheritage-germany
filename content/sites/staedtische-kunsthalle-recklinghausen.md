@@ -13,9 +13,9 @@ regions:
 latitude: 51.6171
 longitude: 7.20275
 images:
-  - "/images-sites/staedtische-kunsthalle-recklinghausen/01-ef5be245-800w.webp"
-  - "/images-sites/staedtische-kunsthalle-recklinghausen/02-aaa79818-800w.webp"
-  - "/images-sites/staedtische-kunsthalle-recklinghausen/03-4367b0ac-800w.webp"
+  - "/images/staedtische-kunsthalle-recklinghausen/01-ef5be245-800w.webp"
+  - "/images/staedtische-kunsthalle-recklinghausen/02-aaa79818-800w.webp"
+  - "/images/staedtische-kunsthalle-recklinghausen/03-4367b0ac-800w.webp"
 ---
 
 ## Overview

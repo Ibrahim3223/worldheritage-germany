@@ -1,19 +1,49 @@
 ---
-title: "Cappenberg Castle"
+title: Cappenberg Castle
 date: 2026-01-23
 draft: false
-description: "former monastery in west Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former monastery in west Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.650556
 longitude: 7.538611
 images:
-  - "/images-sites/cappenberg-castle/01-84ec24f7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cappenberg-löwe.jpg/1200px-Cappenberg-löwe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cappenberg-IMG_1185.JPG/1200px-Cappenberg-IMG_1185.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg/1200px-Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss-Cappenberg-Wildpark-0061.JPG/1200px-Schloss-Cappenberg-Wildpark-0061.JPG
+image_srcset:
+  Aerial image of Cappenberg Castle (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg/400px-Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg/800px-Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg/1920px-Aerial_image_of_Cappenberg_Castle_(view_from_the_south).jpg
+  Cappenberg-löwe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cappenberg-löwe.jpg/400px-Cappenberg-löwe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cappenberg-löwe.jpg/800px-Cappenberg-löwe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cappenberg-löwe.jpg/1200px-Cappenberg-löwe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Cappenberg-löwe.jpg/1920px-Cappenberg-löwe.jpg
+  Cappenberg-IMG 1185.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cappenberg-IMG_1185.JPG/400px-Cappenberg-IMG_1185.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cappenberg-IMG_1185.JPG/800px-Cappenberg-IMG_1185.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cappenberg-IMG_1185.JPG/1200px-Cappenberg-IMG_1185.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cappenberg-IMG_1185.JPG/1920px-Cappenberg-IMG_1185.JPG
+  Castle Cappenberg, buildings north of the church, sundial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg/400px-Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg/800px-Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg/1200px-Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg/1920px-Castle_Cappenberg,_buildings_north_of_the_church,_sundial.jpg
+  Schloss-Cappenberg-Wildpark-0061.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss-Cappenberg-Wildpark-0061.JPG/400px-Schloss-Cappenberg-Wildpark-0061.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss-Cappenberg-Wildpark-0061.JPG/800px-Schloss-Cappenberg-Wildpark-0061.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss-Cappenberg-Wildpark-0061.JPG/1200px-Schloss-Cappenberg-Wildpark-0061.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss-Cappenberg-Wildpark-0061.JPG/1920px-Schloss-Cappenberg-Wildpark-0061.JPG
 ---
 
 ## Overview

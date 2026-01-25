@@ -1,24 +1,45 @@
 ---
-title: "Aukirche"
-site_name: "Aukirche"
-slug: "aukirche"
-region: "Baden-Württemberg"
-
-# Location
+title: Aukirche
+site_name: Aukirche
+slug: aukirche
+region: Baden-Württemberg
 latitude: 49.1549
 longitude: 9.21828
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q771200"
-description: "Aukirche, a modern architectural marvel, stands as a testament to contemporary design in Heilbronn, Germany. This church building, conceived by architec..."
+- church building
+- religious site
+wikidata_id: Q771200
+description: Aukirche, a modern architectural marvel, stands as a testament to contemporary
+  design in Heilbronn, Germany. This church building, conceived by architec...
 images:
-  - "/images-sites/aukirche/01-17e8bede-1920w.webp"
-  - "/images-sites/aukirche/02-5503026a-1920w.webp"
-  - "/images-sites/aukirche/03-9d7c0efe-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/1200px-Hn-aukirche-web.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg/1200px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg/1200px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St._Nikolaus_und_Sebastian_Kraiburg-2.jpg/1200px-St._Nikolaus_und_Sebastian_Kraiburg-2.jpg
+image_srcset:
+  Hn-aukirche-web.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/400px-Hn-aukirche-web.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/800px-Hn-aukirche-web.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/1200px-Hn-aukirche-web.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hn-aukirche-web.jpg/1920px-Hn-aukirche-web.jpg
+  20200905 Aukirche St. Mariä Empfängnis Monschau 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg/400px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg/800px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg/1200px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg/1920px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_02.jpg
+  20200905 Aukirche St. Mariä Empfängnis Monschau 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg/400px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg/800px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg/1200px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg/1920px-20200905_Aukirche_St._Mariä_Empfängnis_Monschau_01.jpg
+  St. Nikolaus und Sebastian Kraiburg-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St._Nikolaus_und_Sebastian_Kraiburg-2.jpg/400px-St._Nikolaus_und_Sebastian_Kraiburg-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St._Nikolaus_und_Sebastian_Kraiburg-2.jpg/800px-St._Nikolaus_und_Sebastian_Kraiburg-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St._Nikolaus_und_Sebastian_Kraiburg-2.jpg/1200px-St._Nikolaus_und_Sebastian_Kraiburg-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St._Nikolaus_und_Sebastian_Kraiburg-2.jpg/1920px-St._Nikolaus_und_Sebastian_Kraiburg-2.jpg
 ---
 
 ## Overview

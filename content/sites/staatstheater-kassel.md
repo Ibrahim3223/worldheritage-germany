@@ -13,7 +13,7 @@ regions:
 latitude: 51.3125
 longitude: 9.49888
 images:
-  - "/images-sites/staatstheater-kassel/01-88c4f92f-800w.webp"
+  - "/images/staatstheater-kassel/01-88c4f92f-800w.webp"
 ---
 
 ## Overview

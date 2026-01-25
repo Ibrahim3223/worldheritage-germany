@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q929322"
 description: "St. Jacobuskirche, located in the quaint region of Zirchow, Germany, is a striking example of Gothic architecture that captivates visitors with its hist..."
 images:
-  - "/images-sites/st-jacobuskirche/01-7e972a53-1920w.webp"
-  - "/images-sites/st-jacobuskirche/02-94944759-1920w.webp"
-  - "/images-sites/st-jacobuskirche/03-dda377b3-1920w.webp"
+  - "/images/st-jacobuskirche/01-7e972a53-1920w.webp"
+  - "/images/st-jacobuskirche/02-94944759-1920w.webp"
+  - "/images/st-jacobuskirche/03-dda377b3-1920w.webp"
 ---
 
 ## Overview

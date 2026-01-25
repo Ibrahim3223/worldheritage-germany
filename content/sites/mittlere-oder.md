@@ -13,7 +13,7 @@ regions:
 latitude: 52.248611111
 longitude: 14.696944444
 images:
-  - "/images-sites/mittlere-oder/01-84eb882c-800w.webp"
+  - "/images/mittlere-oder/01-84eb882c-800w.webp"
 ---
 
 ## Overview

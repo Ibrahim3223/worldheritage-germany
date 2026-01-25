@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q14531670"
 description: "Stadtkirche Feldberg, a captivating church building located in the Mecklenburg-Vorpommern region of Germany, stands as an architectural highlight amid t..."
 images:
-  - "/images-sites/stadtkirche-feldberg/01-9882561e-1920w.webp"
-  - "/images-sites/stadtkirche-feldberg/02-469a92ce-1920w.webp"
-  - "/images-sites/stadtkirche-feldberg/03-02a3af98-1920w.webp"
+  - "/images/stadtkirche-feldberg/01-9882561e-1920w.webp"
+  - "/images/stadtkirche-feldberg/02-469a92ce-1920w.webp"
+  - "/images/stadtkirche-feldberg/03-02a3af98-1920w.webp"
 ---
 
 ## Overview

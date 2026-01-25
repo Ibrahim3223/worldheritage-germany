@@ -1,19 +1,49 @@
 ---
-title: "Dobbertin Abbey"
+title: Dobbertin Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.615
 longitude: 12.0775
 images:
-  - "/images-sites/dobbertin-abbey/01-b00af2d0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19870923105NR_Dobbertin_Klosterkirche.jpg/1200px-19870923105NR_Dobbertin_Klosterkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19870923115NR_Dobbertin_Klosterkirche.jpg/1200px-19870923115NR_Dobbertin_Klosterkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/19870923110NR_Dobbertin_Klosterkirche.jpg/1200px-19870923110NR_Dobbertin_Klosterkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870923100NR_Dobbertin_Klosterkirche.jpg/1200px-19870923100NR_Dobbertin_Klosterkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1200px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
+image_srcset:
+  19870923105NR Dobbertin Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19870923105NR_Dobbertin_Klosterkirche.jpg/400px-19870923105NR_Dobbertin_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19870923105NR_Dobbertin_Klosterkirche.jpg/800px-19870923105NR_Dobbertin_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19870923105NR_Dobbertin_Klosterkirche.jpg/1200px-19870923105NR_Dobbertin_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19870923105NR_Dobbertin_Klosterkirche.jpg/1920px-19870923105NR_Dobbertin_Klosterkirche.jpg
+  19870923115NR Dobbertin Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19870923115NR_Dobbertin_Klosterkirche.jpg/400px-19870923115NR_Dobbertin_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19870923115NR_Dobbertin_Klosterkirche.jpg/800px-19870923115NR_Dobbertin_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19870923115NR_Dobbertin_Klosterkirche.jpg/1200px-19870923115NR_Dobbertin_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19870923115NR_Dobbertin_Klosterkirche.jpg/1920px-19870923115NR_Dobbertin_Klosterkirche.jpg
+  19870923110NR Dobbertin Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/19870923110NR_Dobbertin_Klosterkirche.jpg/400px-19870923110NR_Dobbertin_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/19870923110NR_Dobbertin_Klosterkirche.jpg/800px-19870923110NR_Dobbertin_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/19870923110NR_Dobbertin_Klosterkirche.jpg/1200px-19870923110NR_Dobbertin_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/19870923110NR_Dobbertin_Klosterkirche.jpg/1920px-19870923110NR_Dobbertin_Klosterkirche.jpg
+  19870923100NR Dobbertin Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870923100NR_Dobbertin_Klosterkirche.jpg/400px-19870923100NR_Dobbertin_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870923100NR_Dobbertin_Klosterkirche.jpg/800px-19870923100NR_Dobbertin_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870923100NR_Dobbertin_Klosterkirche.jpg/1200px-19870923100NR_Dobbertin_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/19870923100NR_Dobbertin_Klosterkirche.jpg/1920px-19870923100NR_Dobbertin_Klosterkirche.jpg
+  Dobbertin Klosterkirche 2009-10-20 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/400px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/800px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1200px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dobbertin_Klosterkirche_2009-10-20_001.jpg/1920px-Dobbertin_Klosterkirche_2009-10-20_001.jpg
 ---
 
 ## Overview

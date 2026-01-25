@@ -1,19 +1,49 @@
 ---
-title: "Frauenchiemsee"
+title: Frauenchiemsee
 date: 2026-01-23
 draft: false
-description: "island in Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in Bavaria
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 47.873122
 longitude: 12.425708
 images:
-  - "/images-sites/frauenchiemsee/01-29c52810-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg/1200px-Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fraueninsel_Luftbild.jpg/1200px-Fraueninsel_Luftbild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aerial_image_of_the_Fraueninsel.jpg/1200px-Aerial_image_of_the_Fraueninsel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/1200px-Frauenchiemsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fraueninsel_im_Chiemsee,_Deutschland.jpg/1200px-Fraueninsel_im_Chiemsee,_Deutschland.jpg
+image_srcset:
+  Blick von Gstadt am Chiemsee auf die Fraueninsel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg/400px-Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg/800px-Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg/1200px-Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg/1920px-Blick_von_Gstadt_am_Chiemsee_auf_die_Fraueninsel.jpg
+  Fraueninsel Luftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fraueninsel_Luftbild.jpg/400px-Fraueninsel_Luftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fraueninsel_Luftbild.jpg/800px-Fraueninsel_Luftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fraueninsel_Luftbild.jpg/1200px-Fraueninsel_Luftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fraueninsel_Luftbild.jpg/1920px-Fraueninsel_Luftbild.jpg
+  Aerial image of the Fraueninsel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aerial_image_of_the_Fraueninsel.jpg/400px-Aerial_image_of_the_Fraueninsel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aerial_image_of_the_Fraueninsel.jpg/800px-Aerial_image_of_the_Fraueninsel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aerial_image_of_the_Fraueninsel.jpg/1200px-Aerial_image_of_the_Fraueninsel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Aerial_image_of_the_Fraueninsel.jpg/1920px-Aerial_image_of_the_Fraueninsel.jpg
+  Frauenchiemsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/400px-Frauenchiemsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/800px-Frauenchiemsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/1200px-Frauenchiemsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/1920px-Frauenchiemsee.jpg
+  Fraueninsel im Chiemsee, Deutschland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fraueninsel_im_Chiemsee,_Deutschland.jpg/400px-Fraueninsel_im_Chiemsee,_Deutschland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fraueninsel_im_Chiemsee,_Deutschland.jpg/800px-Fraueninsel_im_Chiemsee,_Deutschland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fraueninsel_im_Chiemsee,_Deutschland.jpg/1200px-Fraueninsel_im_Chiemsee,_Deutschland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fraueninsel_im_Chiemsee,_Deutschland.jpg/1920px-Fraueninsel_im_Chiemsee,_Deutschland.jpg
 ---
 
 ## Overview

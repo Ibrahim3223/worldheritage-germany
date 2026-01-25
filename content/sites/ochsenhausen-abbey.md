@@ -13,7 +13,7 @@ regions:
 latitude: 48.0642
 longitude: 9.95139
 images:
-  - "/images-sites/ochsenhausen-abbey/01-39d326fe-800w.webp"
+  - "/images/ochsenhausen-abbey/01-39d326fe-800w.webp"
 ---
 
 ## Overview

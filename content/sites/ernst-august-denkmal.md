@@ -1,19 +1,49 @@
 ---
-title: "Ernst-August-Denkmal"
+title: Ernst-August-Denkmal
 date: 2026-01-23
 draft: false
-description: "monument in Hannover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.376277777
 longitude: 9.74075
 images:
-  - "/images-sites/ernst-august-denkmal/01-b811102f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg/1200px-Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/1200px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H_Ernst-August.jpg/1200px-H_Ernst-August.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hannover,_das_Ernst-August-Denkmal.JPG/1200px-Hannover,_das_Ernst-August-Denkmal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg/1200px-Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg
+image_srcset:
+  Hannover, der Hauptbahnhof Dm IMG 4576 2018-07-01 17.37.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg/400px-Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg/800px-Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg/1200px-Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg/1920px-Hannover,_der_Hauptbahnhof_Dm_IMG_4576_2018-07-01_17.37.jpg
+  Hannover, das Ernst-August-Denkmal bij het station IMG 4492 2018-07-01 11.04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/400px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/800px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/1200px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg/1920px-Hannover,_das_Ernst-August-Denkmal_bij_het_station_IMG_4492_2018-07-01_11.04.jpg
+  H Ernst-August.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H_Ernst-August.jpg/400px-H_Ernst-August.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H_Ernst-August.jpg/800px-H_Ernst-August.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H_Ernst-August.jpg/1200px-H_Ernst-August.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/H_Ernst-August.jpg/1920px-H_Ernst-August.jpg
+  Hannover, das Ernst-August-Denkmal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hannover,_das_Ernst-August-Denkmal.JPG/400px-Hannover,_das_Ernst-August-Denkmal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hannover,_das_Ernst-August-Denkmal.JPG/800px-Hannover,_das_Ernst-August-Denkmal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hannover,_das_Ernst-August-Denkmal.JPG/1200px-Hannover,_das_Ernst-August-Denkmal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hannover,_das_Ernst-August-Denkmal.JPG/1920px-Hannover,_das_Ernst-August-Denkmal.JPG
+  Hannover, Niedersachsen - Bahnhofstraße und Ernst-August-Denkmal (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg/400px-Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg/800px-Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg/1200px-Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg/1920px-Hannover,_Niedersachsen_-_Bahnhofstraße_und_Ernst-August-Denkmal_(Zeno_Ansichtskarten).jpg
 ---
 
 ## Overview

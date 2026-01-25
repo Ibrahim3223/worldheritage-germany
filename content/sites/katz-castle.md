@@ -21,7 +21,7 @@ longitude: 7.72414
 
 # Images
 images:
-  - "/images-sites/katz-castle/01-e23f746a-800w.webp"
+  - "/images/katz-castle/01-e23f746a-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 12.3913
 
 # Images
 images:
-  - "/images-sites/leipzig-botanical-garden/01-12b7e2eb-800w.webp"
+  - "/images/leipzig-botanical-garden/01-12b7e2eb-800w.webp"
 ---
 
 ## Overview

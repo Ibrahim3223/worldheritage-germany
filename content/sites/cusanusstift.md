@@ -1,21 +1,49 @@
 ---
-title: "Cusanusstift"
+title: Cusanusstift
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 49.91600278
 longitude: 7.07121389
 images:
-  - "/images-sites/cusanusstift/01-edd6ed92-800w.webp"
-  - "/images-sites/cusanusstift/02-2082b015-800w.webp"
-  - "/images-sites/cusanusstift/03-30416fb5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg/1200px-Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg/1200px-Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bernkastel-Kues_Cusanusstift.jpg/1200px-Bernkastel-Kues_Cusanusstift.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1200px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg/1200px-Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Hospital zu Cues - 991063095599705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg/400px-Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg/800px-Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg/1200px-Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg/1920px-Zentralbibliothek_Zürich_-_Hospital_zu_Cues_-_991063095599705501.jpg
+  Bernkastel-Kues, Blick auf Kues -- 2015 -- 7557.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg/400px-Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg/800px-Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg/1200px-Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg/1920px-Bernkastel-Kues,_Blick_auf_Kues_--_2015_--_7557.jpg
+  Bernkastel-Kues Cusanusstift.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bernkastel-Kues_Cusanusstift.jpg/400px-Bernkastel-Kues_Cusanusstift.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bernkastel-Kues_Cusanusstift.jpg/800px-Bernkastel-Kues_Cusanusstift.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bernkastel-Kues_Cusanusstift.jpg/1200px-Bernkastel-Kues_Cusanusstift.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bernkastel-Kues_Cusanusstift.jpg/1920px-Bernkastel-Kues_Cusanusstift.jpg
+  0 5028 Bernkastel-Kues (St. Nikolaus-Hospital).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/400px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/800px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1200px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg/1920px-0_5028_Bernkastel-Kues_(St._Nikolaus-Hospital).jpg
+  Hospital Cues. Hand-colored aquatint engraving by F. Hegi after Karl Bodmer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg/400px-Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg/800px-Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg/1200px-Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg/1920px-Hospital_Cues._Hand-colored_aquatint_engraving_by_F._Hegi_after_Karl_Bodmer.jpg
 ---
 
 ## Overview

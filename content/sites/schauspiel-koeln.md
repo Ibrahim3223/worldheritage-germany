@@ -13,7 +13,7 @@ regions:
 latitude: 50.9374
 longitude: 6.9505
 images:
-  - "/images-sites/schauspiel-koeln/01-7562451d-800w.webp"
+  - "/images/schauspiel-koeln/01-7562451d-800w.webp"
 ---
 
 ## Overview

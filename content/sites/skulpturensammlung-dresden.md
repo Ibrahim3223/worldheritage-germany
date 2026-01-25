@@ -13,7 +13,7 @@ regions:
 latitude: 51.0519
 longitude: 13.7444
 images:
-  - "/images-sites/skulpturensammlung-dresden/01-fcf2125a-800w.webp"
+  - "/images/skulpturensammlung-dresden/01-fcf2125a-800w.webp"
 ---
 
 ## Overview

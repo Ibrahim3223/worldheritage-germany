@@ -13,7 +13,7 @@ regions:
 latitude: 49.37722
 longitude: 10.1785
 images:
-  - "/images-sites/town-hall/01-d18a2c90-800w.webp"
+  - "/images/town-hall/01-d18a2c90-800w.webp"
 ---
 
 ## Overview

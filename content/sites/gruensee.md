@@ -1,19 +1,49 @@
 ---
-title: "Grünsee"
+title: Grünsee
 date: 2026-01-23
 draft: false
-description: "lake in Schönau am Königsee, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Schönau am Königsee, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.5019
 longitude: 12.9531
 images:
-  - "/images-sites/gruensee/01-6897c5b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg/1200px-ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WiegenwaldStubachtal_24.jpg/1200px-WiegenwaldStubachtal_24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lago_Verde_nei_pressi_di_Prato_Spilla.jpg/1200px-Lago_Verde_nei_pressi_di_Prato_Spilla.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/761_NPR_Krivánske_zelené_pleso.jpg/1200px-761_NPR_Krivánske_zelené_pleso.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Uttendorf_Oostenrijk_-_panoramio.jpg/1200px-Uttendorf_Oostenrijk_-_panoramio.jpg
+image_srcset:
+  ETH-BIB-Tauernmoossee, Österreich-Inlandflüge-LBS MH01-007535.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg/400px-ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg/800px-ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg/1200px-ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg/1920px-ETH-BIB-Tauernmoossee,_Österreich-Inlandflüge-LBS_MH01-007535.tif.jpg
+  WiegenwaldStubachtal 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WiegenwaldStubachtal_24.jpg/400px-WiegenwaldStubachtal_24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WiegenwaldStubachtal_24.jpg/800px-WiegenwaldStubachtal_24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WiegenwaldStubachtal_24.jpg/1200px-WiegenwaldStubachtal_24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WiegenwaldStubachtal_24.jpg/1920px-WiegenwaldStubachtal_24.jpg
+  Lago Verde nei pressi di Prato Spilla.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lago_Verde_nei_pressi_di_Prato_Spilla.jpg/400px-Lago_Verde_nei_pressi_di_Prato_Spilla.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lago_Verde_nei_pressi_di_Prato_Spilla.jpg/800px-Lago_Verde_nei_pressi_di_Prato_Spilla.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lago_Verde_nei_pressi_di_Prato_Spilla.jpg/1200px-Lago_Verde_nei_pressi_di_Prato_Spilla.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lago_Verde_nei_pressi_di_Prato_Spilla.jpg/1920px-Lago_Verde_nei_pressi_di_Prato_Spilla.jpg
+  761 NPR Krivánske zelené pleso.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/761_NPR_Krivánske_zelené_pleso.jpg/400px-761_NPR_Krivánske_zelené_pleso.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/761_NPR_Krivánske_zelené_pleso.jpg/800px-761_NPR_Krivánske_zelené_pleso.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/761_NPR_Krivánske_zelené_pleso.jpg/1200px-761_NPR_Krivánske_zelené_pleso.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/761_NPR_Krivánske_zelené_pleso.jpg/1920px-761_NPR_Krivánske_zelené_pleso.jpg
+  Uttendorf Oostenrijk - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Uttendorf_Oostenrijk_-_panoramio.jpg/400px-Uttendorf_Oostenrijk_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Uttendorf_Oostenrijk_-_panoramio.jpg/800px-Uttendorf_Oostenrijk_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Uttendorf_Oostenrijk_-_panoramio.jpg/1200px-Uttendorf_Oostenrijk_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Uttendorf_Oostenrijk_-_panoramio.jpg/1920px-Uttendorf_Oostenrijk_-_panoramio.jpg
 ---
 
 ## Overview

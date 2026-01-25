@@ -13,7 +13,7 @@ regions:
 latitude: 50.936
 longitude: 10.7176
 images:
-  - "/images-sites/tierpark-gotha/01-5b518345-800w.webp"
+  - "/images/tierpark-gotha/01-5b518345-800w.webp"
 ---
 
 ## Overview

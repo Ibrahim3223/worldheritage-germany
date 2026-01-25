@@ -13,7 +13,7 @@ regions:
 latitude: 48.119644958
 longitude: 11.590886403
 images:
-  - "/images-sites/ostfriedhof/01-db500822-800w.webp"
+  - "/images/ostfriedhof/01-db500822-800w.webp"
 ---
 
 ## Overview

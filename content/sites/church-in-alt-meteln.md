@@ -1,19 +1,51 @@
 ---
-title: "Church in Alt Meteln"
-site_name: "Church in Alt Meteln"
-slug: "church-in-alt-meteln"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Alt Meteln
+site_name: Church in Alt Meteln
+slug: church-in-alt-meteln
+region: Mecklenburg-Vorpommern
 latitude: 53.7468
 longitude: 11.3405
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244086"
-description: "In the heart of Alt Meteln, Germany, stands the Church in Alt Meteln, a striking example of Brick Gothic architecture. This church not only serves as a ..."
+- cultural site
+wikidata_id: Q1244086
+description: In the heart of Alt Meteln, Germany, stands the Church in Alt Meteln,
+  a striking example of Brick Gothic architecture. This church not only serves as
+  a ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kirche%20in%20Alt%20Meteln.jpg/1200px-Kirche%20in%20Alt%20Meteln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alt_Meteln_Kirche_2013-03-02_13.JPG/1200px-Alt_Meteln_Kirche_2013-03-02_13.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alt_Meteln_Kirche_2013-03-02_18.JPG/1200px-Alt_Meteln_Kirche_2013-03-02_18.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alt_Meteln_Kirche_2013-03-02_6.JPG/1200px-Alt_Meteln_Kirche_2013-03-02_6.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/1200px-Kirche_in_Alt_Meteln.jpg
+image_srcset:
+  Kirche%20in%20Alt%20Meteln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kirche%20in%20Alt%20Meteln.jpg/400px-Kirche%20in%20Alt%20Meteln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kirche%20in%20Alt%20Meteln.jpg/800px-Kirche%20in%20Alt%20Meteln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kirche%20in%20Alt%20Meteln.jpg/1200px-Kirche%20in%20Alt%20Meteln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kirche%20in%20Alt%20Meteln.jpg/1920px-Kirche%20in%20Alt%20Meteln.jpg
+  Alt Meteln Kirche 2013-03-02 13.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alt_Meteln_Kirche_2013-03-02_13.JPG/400px-Alt_Meteln_Kirche_2013-03-02_13.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alt_Meteln_Kirche_2013-03-02_13.JPG/800px-Alt_Meteln_Kirche_2013-03-02_13.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alt_Meteln_Kirche_2013-03-02_13.JPG/1200px-Alt_Meteln_Kirche_2013-03-02_13.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Alt_Meteln_Kirche_2013-03-02_13.JPG/1920px-Alt_Meteln_Kirche_2013-03-02_13.JPG
+  Alt Meteln Kirche 2013-03-02 18.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alt_Meteln_Kirche_2013-03-02_18.JPG/400px-Alt_Meteln_Kirche_2013-03-02_18.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alt_Meteln_Kirche_2013-03-02_18.JPG/800px-Alt_Meteln_Kirche_2013-03-02_18.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alt_Meteln_Kirche_2013-03-02_18.JPG/1200px-Alt_Meteln_Kirche_2013-03-02_18.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Alt_Meteln_Kirche_2013-03-02_18.JPG/1920px-Alt_Meteln_Kirche_2013-03-02_18.JPG
+  Alt Meteln Kirche 2013-03-02 6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alt_Meteln_Kirche_2013-03-02_6.JPG/400px-Alt_Meteln_Kirche_2013-03-02_6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alt_Meteln_Kirche_2013-03-02_6.JPG/800px-Alt_Meteln_Kirche_2013-03-02_6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alt_Meteln_Kirche_2013-03-02_6.JPG/1200px-Alt_Meteln_Kirche_2013-03-02_6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alt_Meteln_Kirche_2013-03-02_6.JPG/1920px-Alt_Meteln_Kirche_2013-03-02_6.JPG
+  Kirche in Alt Meteln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/400px-Kirche_in_Alt_Meteln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/800px-Kirche_in_Alt_Meteln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/1200px-Kirche_in_Alt_Meteln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kirche_in_Alt_Meteln.jpg/1920px-Kirche_in_Alt_Meteln.jpg
 ---
 
 ## Overview

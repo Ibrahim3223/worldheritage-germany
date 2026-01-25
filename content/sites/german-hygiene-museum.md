@@ -1,19 +1,49 @@
 ---
-title: "German Hygiene Museum"
+title: German Hygiene Museum
 date: 2026-01-23
 draft: false
-description: "museum in Dresden"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Dresden
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0443
 longitude: 13.7466
 images:
-  - "/images-sites/german-hygiene-museum/01-a92dc7e2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1200px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg/1200px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Hygiene-Museum_01.jpg/1200px-Deutsches_Hygiene-Museum_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deutsches_Hygiene-Museum_02.jpg/1200px-Deutsches_Hygiene-Museum_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/1200px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg
+image_srcset:
+  Deutsches Hygienemuseum, mit Plastik Ballwerfer von Richard Daniel Fabricius-9716.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/400px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/800px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1200px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1920px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg
+  Deutsches Hygienemuseum, mit Plastik Ballwerfer von Richard Daniel Fabricius-9720.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg/400px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg/800px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg/1200px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg/1920px-Deutsches_Hygienemuseum,_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9720.jpg
+  Deutsches Hygiene-Museum 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Hygiene-Museum_01.jpg/400px-Deutsches_Hygiene-Museum_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Hygiene-Museum_01.jpg/800px-Deutsches_Hygiene-Museum_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Hygiene-Museum_01.jpg/1200px-Deutsches_Hygiene-Museum_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Hygiene-Museum_01.jpg/1920px-Deutsches_Hygiene-Museum_01.jpg
+  Deutsches Hygiene-Museum 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deutsches_Hygiene-Museum_02.jpg/400px-Deutsches_Hygiene-Museum_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deutsches_Hygiene-Museum_02.jpg/800px-Deutsches_Hygiene-Museum_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deutsches_Hygiene-Museum_02.jpg/1200px-Deutsches_Hygiene-Museum_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deutsches_Hygiene-Museum_02.jpg/1920px-Deutsches_Hygiene-Museum_02.jpg
+  Hygienemuseum Dresden Front 2024 Luftbild Toni Klemm 2500px.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/400px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/800px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/1200px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg/1920px-Hygienemuseum_Dresden_Front_2024_Luftbild_Toni_Klemm_2500px.jpg
 ---
 
 ## Overview

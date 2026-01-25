@@ -21,7 +21,7 @@ longitude: 6.78417
 
 # Images
 images:
-  - "/images-sites/kastell-holten/01-44cb9a17-800w.webp"
+  - "/images/kastell-holten/01-44cb9a17-800w.webp"
 ---
 
 ## Overview

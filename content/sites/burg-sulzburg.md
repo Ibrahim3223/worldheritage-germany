@@ -1,21 +1,49 @@
 ---
-title: "Burg Sulzburg"
+title: Burg Sulzburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.8433
 longitude: 7.7095
 images:
-  - "/images-sites/burg-sulzburg/01-11b99231-800w.webp"
-  - "/images-sites/burg-sulzburg/02-066aeff9-800w.webp"
-  - "/images-sites/burg-sulzburg/03-6e6e6152-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulzburg_15.JPG/1200px-Sulzburg_15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sulzburg_04.JPG/1200px-Sulzburg_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sulzburg_08.JPG/1200px-Sulzburg_08.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sulzburg_01.JPG/1200px-Sulzburg_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sulzburg_07.JPG/1200px-Sulzburg_07.JPG
+image_srcset:
+  Sulzburg 15.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulzburg_15.JPG/400px-Sulzburg_15.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulzburg_15.JPG/800px-Sulzburg_15.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulzburg_15.JPG/1200px-Sulzburg_15.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sulzburg_15.JPG/1920px-Sulzburg_15.JPG
+  Sulzburg 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sulzburg_04.JPG/400px-Sulzburg_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sulzburg_04.JPG/800px-Sulzburg_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sulzburg_04.JPG/1200px-Sulzburg_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sulzburg_04.JPG/1920px-Sulzburg_04.JPG
+  Sulzburg 08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sulzburg_08.JPG/400px-Sulzburg_08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sulzburg_08.JPG/800px-Sulzburg_08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sulzburg_08.JPG/1200px-Sulzburg_08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sulzburg_08.JPG/1920px-Sulzburg_08.JPG
+  Sulzburg 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sulzburg_01.JPG/400px-Sulzburg_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sulzburg_01.JPG/800px-Sulzburg_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sulzburg_01.JPG/1200px-Sulzburg_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sulzburg_01.JPG/1920px-Sulzburg_01.JPG
+  Sulzburg 07.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sulzburg_07.JPG/400px-Sulzburg_07.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sulzburg_07.JPG/800px-Sulzburg_07.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sulzburg_07.JPG/1200px-Sulzburg_07.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sulzburg_07.JPG/1920px-Sulzburg_07.JPG
 ---
 
 ## Overview

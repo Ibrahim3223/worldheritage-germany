@@ -1,19 +1,49 @@
 ---
-title: "Charlottenhof"
+title: Charlottenhof
 date: 2026-01-23
 draft: false
-description: "architectural structure in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: architectural structure in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.352444444
 longitude: 6.948111111
 images:
-  - "/images-sites/charlottenhof/01-3c8ad5d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg/1200px-Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg/1200px-20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG/1200px-Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1200px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg/1200px-POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg
+image_srcset:
+  Park Sanssouci, Potsdam (SPSG2347-HDR).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg/400px-Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg/800px-Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg/1200px-Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg/1920px-Park_Sanssouci,_Potsdam_(SPSG2347-HDR).jpg
+  20030430100NR Potsdam-Sanssouci Schloß Charlottenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg/400px-20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg/800px-20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg/1200px-20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg/1920px-20030430100NR_Potsdam-Sanssouci_Schloß_Charlottenhof.jpg
+  Schloss Charlottenhof Sanssouci 2011 Garten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG/400px-Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG/800px-Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG/1200px-Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG/1920px-Schloss_Charlottenhof_Sanssouci_2011_Garten.JPG
+  Schloss Charlottenhof Park Sanssouci Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/400px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/800px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1200px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg/1920px-Schloss_Charlottenhof_Park_Sanssouci_Potsdam.jpg
+  POTSDAM-Sanssouci - Blick nach Charlottenhof 72 102.08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg/400px-POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg/800px-POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg/1200px-POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg/1920px-POTSDAM-Sanssouci_-_Blick_nach_Charlottenhof_72_102.08.jpg
 ---
 
 ## Overview

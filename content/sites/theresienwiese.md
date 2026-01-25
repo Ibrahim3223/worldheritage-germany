@@ -13,7 +13,7 @@ regions:
 latitude: 48.1333
 longitude: 11.55
 images:
-  - "/images-sites/theresienwiese/01-a0e6347f-800w.webp"
+  - "/images/theresienwiese/01-a0e6347f-800w.webp"
 ---
 
 ## Overview

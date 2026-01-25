@@ -13,7 +13,7 @@ regions:
 latitude: 52.5678
 longitude: 14.0595
 images:
-  - "/images-sites/schermuetzelsee/01-32c3c27c-800w.webp"
+  - "/images/schermuetzelsee/01-32c3c27c-800w.webp"
 ---
 
 ## Overview

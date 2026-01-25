@@ -1,19 +1,49 @@
 ---
-title: "Glaspalast-Brunnen"
+title: Glaspalast-Brunnen
 date: 2026-01-23
 draft: false
-description: "water well"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: water well
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1285
 longitude: 11.5962
 images:
-  - "/images-sites/glaspalast-brunnen/01-4e9838f2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg/1200px-Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg/1200px-Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg/1200px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg/1200px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg/1200px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg
+image_srcset:
+  Glaspalast-Brunnen - 2021-06-14 - 664b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg/400px-Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg/800px-Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg/1200px-Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg/1920px-Glaspalast-Brunnen_-_2021-06-14_-_664b.jpg
+  Glaspalast-Brunnen - 2021-06-14 - 665b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg/400px-Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg/800px-Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg/1200px-Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg/1920px-Glaspalast-Brunnen_-_2021-06-14_-_665b.jpg
+  Glaspalastbrunnen am Weissenburgerplatz Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg/400px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg/800px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg/1200px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg/1920px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-4.jpg
+  Glaspalastbrunnen am Weissenburgerplatz Muenchen-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg/400px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg/800px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg/1200px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg/1920px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-5.jpg
+  Glaspalastbrunnen am Weissenburgerplatz Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg/400px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg/800px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg/1200px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg/1920px-Glaspalastbrunnen_am_Weissenburgerplatz_Muenchen-1.jpg
 ---
 
 ## Overview

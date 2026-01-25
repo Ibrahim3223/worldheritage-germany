@@ -1,27 +1,49 @@
 ---
-title: "Blankenstein Castle"
+title: Blankenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle ruin in Hattingen, North Rhine-Westphalia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin in Hattingen, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.406944444
 longitude: 7.230277777
-
-# Images
 images:
-  - "/images-sites/blankenstein-castle/01-a42e3c70-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg/1200px-Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg/1200px-Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/1200px-Hattingen_Burg_Blankenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Blankenstein_aus_Richtung_Freiheit.JPG/1200px-Burg_Blankenstein_aus_Richtung_Freiheit.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Blankenstein,_Hattingen.jpg/1200px-Burg_Blankenstein,_Hattingen.jpg
+image_srcset:
+  Hattingen Blankenstein - Burg Blankenstein 14 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg/400px-Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg/800px-Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg/1200px-Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg/1920px-Hattingen_Blankenstein_-_Burg_Blankenstein_14_ies.jpg
+  Hattingen Blankenstein - Burg Blankenstein 22 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg/400px-Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg/800px-Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg/1200px-Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg/1920px-Hattingen_Blankenstein_-_Burg_Blankenstein_22_ies.jpg
+  Hattingen Burg Blankenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/400px-Hattingen_Burg_Blankenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/800px-Hattingen_Burg_Blankenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/1200px-Hattingen_Burg_Blankenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hattingen_Burg_Blankenstein.jpg/1920px-Hattingen_Burg_Blankenstein.jpg
+  Burg Blankenstein aus Richtung Freiheit.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Blankenstein_aus_Richtung_Freiheit.JPG/400px-Burg_Blankenstein_aus_Richtung_Freiheit.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Blankenstein_aus_Richtung_Freiheit.JPG/800px-Burg_Blankenstein_aus_Richtung_Freiheit.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Blankenstein_aus_Richtung_Freiheit.JPG/1200px-Burg_Blankenstein_aus_Richtung_Freiheit.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Blankenstein_aus_Richtung_Freiheit.JPG/1920px-Burg_Blankenstein_aus_Richtung_Freiheit.JPG
+  Burg Blankenstein, Hattingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Blankenstein,_Hattingen.jpg/400px-Burg_Blankenstein,_Hattingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Blankenstein,_Hattingen.jpg/800px-Burg_Blankenstein,_Hattingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Blankenstein,_Hattingen.jpg/1200px-Burg_Blankenstein,_Hattingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Blankenstein,_Hattingen.jpg/1920px-Burg_Blankenstein,_Hattingen.jpg
 ---
 
 ## Overview

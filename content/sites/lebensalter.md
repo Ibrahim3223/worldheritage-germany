@@ -13,7 +13,7 @@ regions:
 latitude: 52.5013528
 longitude: 13.3427058
 images:
-  - "/images-sites/lebensalter/01-b13b25ad-800w.webp"
+  - "/images/lebensalter/01-b13b25ad-800w.webp"
 ---
 
 ## Overview

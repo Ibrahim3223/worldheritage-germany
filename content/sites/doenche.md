@@ -1,19 +1,43 @@
 ---
-title: "Dönche"
+title: Dönche
 date: 2026-01-23
 draft: false
-description: "nature reserve in Kassel, Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Kassel, Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2917
 longitude: 9.43056
 images:
-  - "/images-sites/doenche/01-5464591a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg/1200px-Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Naturschutzgebiet_Dönche_Kassel_3.jpg/1200px-Naturschutzgebiet_Dönche_Kassel_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_1611004,_Dönche,_29,_Kassel.jpg/1200px-NSG_1611004,_Dönche,_29,_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kassel_doenche_05_2009.jpg/1200px-Kassel_doenche_05_2009.jpg
+image_srcset:
+  Käppchen-Morchel (Morchella semilibera) zum Frühlingsbeginn in der Dönche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg/400px-Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg/800px-Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg/1200px-Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg/1920px-Käppchen-Morchel_(Morchella_semilibera)_zum_Frühlingsbeginn_in_der_Dönche.jpg
+  Naturschutzgebiet Dönche Kassel 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Naturschutzgebiet_Dönche_Kassel_3.jpg/400px-Naturschutzgebiet_Dönche_Kassel_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Naturschutzgebiet_Dönche_Kassel_3.jpg/800px-Naturschutzgebiet_Dönche_Kassel_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Naturschutzgebiet_Dönche_Kassel_3.jpg/1200px-Naturschutzgebiet_Dönche_Kassel_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Naturschutzgebiet_Dönche_Kassel_3.jpg/1920px-Naturschutzgebiet_Dönche_Kassel_3.jpg
+  NSG 1611004, Dönche, 29, Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_1611004,_Dönche,_29,_Kassel.jpg/400px-NSG_1611004,_Dönche,_29,_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_1611004,_Dönche,_29,_Kassel.jpg/800px-NSG_1611004,_Dönche,_29,_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_1611004,_Dönche,_29,_Kassel.jpg/1200px-NSG_1611004,_Dönche,_29,_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NSG_1611004,_Dönche,_29,_Kassel.jpg/1920px-NSG_1611004,_Dönche,_29,_Kassel.jpg
+  Kassel doenche 05 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kassel_doenche_05_2009.jpg/400px-Kassel_doenche_05_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kassel_doenche_05_2009.jpg/800px-Kassel_doenche_05_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kassel_doenche_05_2009.jpg/1200px-Kassel_doenche_05_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kassel_doenche_05_2009.jpg/1920px-Kassel_doenche_05_2009.jpg
 ---
 
 ## Overview

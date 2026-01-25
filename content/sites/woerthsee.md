@@ -13,7 +13,7 @@ regions:
 latitude: 48.0581
 longitude: 11.1783
 images:
-  - "/images-sites/woerthsee/01-bfb5a6a9-800w.webp"
+  - "/images/woerthsee/01-bfb5a6a9-800w.webp"
 ---
 
 ## Overview

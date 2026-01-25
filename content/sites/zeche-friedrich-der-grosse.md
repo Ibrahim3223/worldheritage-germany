@@ -13,7 +13,7 @@ regions:
 latitude: 51.5612
 longitude: 7.25305
 images:
-  - "/images-sites/zeche-friedrich-der-grosse/01-1f4d4604-800w.webp"
+  - "/images/zeche-friedrich-der-grosse/01-1f4d4604-800w.webp"
 ---
 
 ## Overview

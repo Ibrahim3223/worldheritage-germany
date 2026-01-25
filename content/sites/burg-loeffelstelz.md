@@ -1,27 +1,49 @@
 ---
-title: "Burg Löffelstelz"
+title: Burg Löffelstelz
 date: 2026-01-23
 draft: false
-description: "Burgruine in Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Burgruine in Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.9417
 longitude: 8.84514
-
-# Images
 images:
-  - "/images-sites/burg-loeffelstelz/01-2f6e467a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg/1200px-FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz.jpg/1200px-Burg_Löffelstelz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg/1200px-Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg/1200px-Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz_-_panoramio.jpg/1200px-Burg_Löffelstelz_-_panoramio.jpg
+image_srcset:
+  FND Klebwald und Felshang bei der Ruine Löffelstelz img0227.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg/400px-FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg/800px-FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg/1200px-FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg/1920px-FND_Klebwald_und_Felshang_bei_der_Ruine_Löffelstelz_img0227.jpg
+  Burg Löffelstelz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz.jpg/400px-Burg_Löffelstelz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz.jpg/800px-Burg_Löffelstelz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz.jpg/1200px-Burg_Löffelstelz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz.jpg/1920px-Burg_Löffelstelz.jpg
+  Aufgang zur Burg Löffelstelz - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg/400px-Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg/800px-Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg/1200px-Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg/1920px-Aufgang_zur_Burg_Löffelstelz_-_panoramio.jpg
+  Burg Löffelstelz - Eingangstor - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg/400px-Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg/800px-Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg/1200px-Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg/1920px-Burg_Löffelstelz_-_Eingangstor_-_panoramio.jpg
+  Burg Löffelstelz - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz_-_panoramio.jpg/400px-Burg_Löffelstelz_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz_-_panoramio.jpg/800px-Burg_Löffelstelz_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz_-_panoramio.jpg/1200px-Burg_Löffelstelz_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Burg_Löffelstelz_-_panoramio.jpg/1920px-Burg_Löffelstelz_-_panoramio.jpg
 ---
 
 ## Overview

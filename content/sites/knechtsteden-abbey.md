@@ -13,7 +13,7 @@ regions:
 latitude: 51.077
 longitude: 6.7525
 images:
-  - "/images-sites/knechtsteden-abbey/01-ef04e259-800w.webp"
+  - "/images/knechtsteden-abbey/01-ef04e259-800w.webp"
 ---
 
 ## Overview

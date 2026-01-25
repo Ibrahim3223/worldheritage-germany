@@ -21,8 +21,8 @@ longitude: 13.1042
 
 # Images
 images:
-  - "/images-sites/leibniz-institute-for-astrophysics-potsdam/01-17ae1e93-800w.webp"
-  - "/images-sites/leibniz-institute-for-astrophysics-potsdam/03-a0d5af29-800w.webp"
+  - "/images/leibniz-institute-for-astrophysics-potsdam/01-17ae1e93-800w.webp"
+  - "/images/leibniz-institute-for-astrophysics-potsdam/03-a0d5af29-800w.webp"
 ---
 
 ## Overview

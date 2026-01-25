@@ -1,19 +1,49 @@
 ---
-title: "Bergische Synagoge"
+title: Bergische Synagoge
 date: 2026-01-23
 draft: false
-description: "synagogue"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 51.27111111
 longitude: 7.19777778
 images:
-  - "/images-sites/bergische-synagoge/01-18d0b60e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/1200px-Bergische_Synagoge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_Gemarker_Str_0001.jpg/1200px-Wuppertal_Gemarker_Str_0001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wuppertal_Gemarker_Str_0003.jpg/1200px-Wuppertal_Gemarker_Str_0003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wuppertal_Gemarker_Str_0004.jpg/1200px-Wuppertal_Gemarker_Str_0004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wuppertal_Gemarker_Str_0005.jpg/1200px-Wuppertal_Gemarker_Str_0005.jpg
+image_srcset:
+  Bergische Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/400px-Bergische_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/800px-Bergische_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/1200px-Bergische_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bergische_Synagoge.jpg/1920px-Bergische_Synagoge.jpg
+  Wuppertal Gemarker Str 0001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_Gemarker_Str_0001.jpg/400px-Wuppertal_Gemarker_Str_0001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_Gemarker_Str_0001.jpg/800px-Wuppertal_Gemarker_Str_0001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_Gemarker_Str_0001.jpg/1200px-Wuppertal_Gemarker_Str_0001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wuppertal_Gemarker_Str_0001.jpg/1920px-Wuppertal_Gemarker_Str_0001.jpg
+  Wuppertal Gemarker Str 0003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wuppertal_Gemarker_Str_0003.jpg/400px-Wuppertal_Gemarker_Str_0003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wuppertal_Gemarker_Str_0003.jpg/800px-Wuppertal_Gemarker_Str_0003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wuppertal_Gemarker_Str_0003.jpg/1200px-Wuppertal_Gemarker_Str_0003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wuppertal_Gemarker_Str_0003.jpg/1920px-Wuppertal_Gemarker_Str_0003.jpg
+  Wuppertal Gemarker Str 0004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wuppertal_Gemarker_Str_0004.jpg/400px-Wuppertal_Gemarker_Str_0004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wuppertal_Gemarker_Str_0004.jpg/800px-Wuppertal_Gemarker_Str_0004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wuppertal_Gemarker_Str_0004.jpg/1200px-Wuppertal_Gemarker_Str_0004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wuppertal_Gemarker_Str_0004.jpg/1920px-Wuppertal_Gemarker_Str_0004.jpg
+  Wuppertal Gemarker Str 0005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wuppertal_Gemarker_Str_0005.jpg/400px-Wuppertal_Gemarker_Str_0005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wuppertal_Gemarker_Str_0005.jpg/800px-Wuppertal_Gemarker_Str_0005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wuppertal_Gemarker_Str_0005.jpg/1200px-Wuppertal_Gemarker_Str_0005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wuppertal_Gemarker_Str_0005.jpg/1920px-Wuppertal_Gemarker_Str_0005.jpg
 ---
 
 ## Overview

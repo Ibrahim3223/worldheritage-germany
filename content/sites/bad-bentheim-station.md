@@ -1,19 +1,49 @@
 ---
-title: "Bad Bentheim station"
+title: Bad Bentheim station
 date: 2026-01-23
 draft: false
-description: "railway station in Bad Bentheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Bad Bentheim, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.30972222
 longitude: 7.15722222
 images:
-  - "/images-sites/bad-bentheim-station/01-059347d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg/1200px-J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Railway_Station_Bad_Bentheim.jpg/1200px-Railway_Station_Bad_Bentheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg/1200px-Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Bad_Bentheim_-_Perron.JPG/1200px-Bahnhof_Bad_Bentheim_-_Perron.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bahnhof_Bad_Bentheim.jpg/1200px-Bahnhof_Bad_Bentheim.jpg
+image_srcset:
+  J37 364 Bf Bad Bentheim, Inselbahnsteig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg/400px-J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg/800px-J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg/1200px-J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg/1920px-J37_364_Bf_Bad_Bentheim,_Inselbahnsteig.jpg
+  Railway Station Bad Bentheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Railway_Station_Bad_Bentheim.jpg/400px-Railway_Station_Bad_Bentheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Railway_Station_Bad_Bentheim.jpg/800px-Railway_Station_Bad_Bentheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Railway_Station_Bad_Bentheim.jpg/1200px-Railway_Station_Bad_Bentheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Railway_Station_Bad_Bentheim.jpg/1920px-Railway_Station_Bad_Bentheim.jpg
+  Rode Kruis - Hongersnood Berlijn, SFA022804886.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg/400px-Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg/800px-Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg/1200px-Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg/1920px-Rode_Kruis_-_Hongersnood_Berlijn,_SFA022804886.jpg
+  Bahnhof Bad Bentheim - Perron.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Bad_Bentheim_-_Perron.JPG/400px-Bahnhof_Bad_Bentheim_-_Perron.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Bad_Bentheim_-_Perron.JPG/800px-Bahnhof_Bad_Bentheim_-_Perron.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Bad_Bentheim_-_Perron.JPG/1200px-Bahnhof_Bad_Bentheim_-_Perron.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Bad_Bentheim_-_Perron.JPG/1920px-Bahnhof_Bad_Bentheim_-_Perron.JPG
+  Bahnhof Bad Bentheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bahnhof_Bad_Bentheim.jpg/400px-Bahnhof_Bad_Bentheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bahnhof_Bad_Bentheim.jpg/800px-Bahnhof_Bad_Bentheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bahnhof_Bad_Bentheim.jpg/1200px-Bahnhof_Bad_Bentheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bahnhof_Bad_Bentheim.jpg/1920px-Bahnhof_Bad_Bentheim.jpg
 ---
 
 ## Overview

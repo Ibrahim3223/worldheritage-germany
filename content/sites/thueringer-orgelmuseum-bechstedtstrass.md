@@ -13,7 +13,7 @@ regions:
 latitude: 50.9574
 longitude: 11.1958
 images:
-  - "/images-sites/thueringer-orgelmuseum-bechstedtstrass/01-3af86d0e-800w.webp"
+  - "/images/thueringer-orgelmuseum-bechstedtstrass/01-3af86d0e-800w.webp"
 ---
 
 ## Overview

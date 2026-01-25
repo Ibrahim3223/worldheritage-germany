@@ -13,7 +13,7 @@ regions:
 latitude: 51.0492
 longitude: 13.7452
 images:
-  - "/images-sites/pirnaischer-platz/01-d499f0ea-800w.webp"
+  - "/images/pirnaischer-platz/01-d499f0ea-800w.webp"
 ---
 
 ## Overview

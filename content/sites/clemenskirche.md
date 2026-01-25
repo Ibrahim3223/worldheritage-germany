@@ -1,24 +1,51 @@
 ---
-title: "Clemenskirche"
-site_name: "Clemenskirche"
-slug: "clemenskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Clemenskirche
+site_name: Clemenskirche
+slug: clemenskirche
+region: North Rhine-Westphalia
 latitude: 51.960739
 longitude: 7.630967
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q332625"
-description: "Clemenskirche, a prominent church building located in the Münster-Mitte region of Germany, embodies the grandeur of baroque architecture. This magnifice..."
+- church building
+- religious site
+wikidata_id: Q332625
+description: Clemenskirche, a prominent church building located in the Münster-Mitte
+  region of Germany, embodies the grandeur of baroque architecture. This magnifice...
 images:
-  - "/images-sites/clemenskirche/01-de4823f4-1920w.webp"
-  - "/images-sites/clemenskirche/02-28914e45-1920w.webp"
-  - "/images-sites/clemenskirche/03-d6625ea5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg/1200px-M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Muenster%20Clemenskirche%208922.jpg/1200px-Muenster%20Clemenskirche%208922.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Münster,_Clemenskirche_--_2017_--_9815.jpg/1200px-Münster,_Clemenskirche_--_2017_--_9815.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1200px-Münster,_Clemenskirche_--_2014_--_3997.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Muenster_Clemenskirche_8922.jpg/1200px-Muenster_Clemenskirche_8922.jpg
+image_srcset:
+  M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg/400px-M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg/800px-M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg/1200px-M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg/1920px-M%C3%BCnster%2C%20Clemenskirche%20--%202014%20--%203997.jpg
+  Muenster%20Clemenskirche%208922.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Muenster%20Clemenskirche%208922.jpg/400px-Muenster%20Clemenskirche%208922.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Muenster%20Clemenskirche%208922.jpg/800px-Muenster%20Clemenskirche%208922.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Muenster%20Clemenskirche%208922.jpg/1200px-Muenster%20Clemenskirche%208922.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Muenster%20Clemenskirche%208922.jpg/1920px-Muenster%20Clemenskirche%208922.jpg
+  Münster, Clemenskirche -- 2017 -- 9815.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Münster,_Clemenskirche_--_2017_--_9815.jpg/400px-Münster,_Clemenskirche_--_2017_--_9815.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Münster,_Clemenskirche_--_2017_--_9815.jpg/800px-Münster,_Clemenskirche_--_2017_--_9815.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Münster,_Clemenskirche_--_2017_--_9815.jpg/1200px-Münster,_Clemenskirche_--_2017_--_9815.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Münster,_Clemenskirche_--_2017_--_9815.jpg/1920px-Münster,_Clemenskirche_--_2017_--_9815.jpg
+  Münster, Clemenskirche -- 2014 -- 3997.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/400px-Münster,_Clemenskirche_--_2014_--_3997.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/800px-Münster,_Clemenskirche_--_2014_--_3997.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1200px-Münster,_Clemenskirche_--_2014_--_3997.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Münster,_Clemenskirche_--_2014_--_3997.jpg/1920px-Münster,_Clemenskirche_--_2014_--_3997.jpg
+  Muenster Clemenskirche 8922.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Muenster_Clemenskirche_8922.jpg/400px-Muenster_Clemenskirche_8922.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Muenster_Clemenskirche_8922.jpg/800px-Muenster_Clemenskirche_8922.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Muenster_Clemenskirche_8922.jpg/1200px-Muenster_Clemenskirche_8922.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Muenster_Clemenskirche_8922.jpg/1920px-Muenster_Clemenskirche_8922.jpg
 ---
 
 ## Overview

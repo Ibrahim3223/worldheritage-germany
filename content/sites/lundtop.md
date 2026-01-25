@@ -13,7 +13,7 @@ regions:
 latitude: 54.805
 longitude: 9.20944444
 images:
-  - "/images-sites/lundtop/01-1d93a9c1-800w.webp"
+  - "/images/lundtop/01-1d93a9c1-800w.webp"
 ---
 
 ## Overview

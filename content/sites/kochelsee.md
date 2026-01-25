@@ -13,7 +13,7 @@ regions:
 latitude: 47.646111111
 longitude: 11.337222222
 images:
-  - "/images-sites/kochelsee/01-46eedcef-800w.webp"
+  - "/images/kochelsee/01-46eedcef-800w.webp"
 ---
 
 ## Overview

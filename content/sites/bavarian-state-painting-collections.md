@@ -1,27 +1,44 @@
 ---
-title: "Bavarian State Painting Collections"
+title: Bavarian State Painting Collections
 date: 2026-01-23
 draft: false
-description: "artworks held by the Free State of Bavaria for Alte Pinakothek, Aschaffenburg, Bamberg, Bayreuth, Schleissheim and others"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: artworks held by the Free State of Bavaria for Alte Pinakothek, Aschaffenburg,
+  Bamberg, Bayreuth, Schleissheim and others
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.149583
 longitude: 11.571776
-
-# Images
 images:
-  - "/images-sites/bavarian-state-painting-collections/01-873419da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG/1200px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/1200px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg/1200px-Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg/1200px-JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg
+image_srcset:
+  Direktion der Bayerischen Staatsgemäldesammlungen - Schild.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG/400px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG/800px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG/1200px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG/1920px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild.JPG
+  Direktion der Bayerischen Staatsgemäldesammlungen - Schild cut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/400px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/800px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/1200px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg/1920px-Direktion_der_Bayerischen_Staatsgemäldesammlungen_-_Schild_cut.jpg
+  Wilhelm Lehmbruck (^) - Mädchenkopf (Frau Lehmbruck^) - HST 562 - Bavarian State Painting Collections.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg/400px-Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg/800px-Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg/1200px-Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg/1920px-Wilhelm_Lehmbruck_(^)_-_Mädchenkopf_(Frau_Lehmbruck^)_-_HST_562_-_Bavarian_State_Painting_Collections.jpg
+  JOHANN-NEPOMUK-HALLER DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867 CC-BY-SA BSTGS WAFB109.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg/400px-JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg/800px-JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg/1200px-JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg/1920px-JOHANN-NEPOMUK-HALLER_DER-HISTORIENMALER-PETER-VON-CORNELIUS-1783-1867_CC-BY-SA_BSTGS_WAFB109.jpg
 ---
 
 ## Overview

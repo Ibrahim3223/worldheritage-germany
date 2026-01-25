@@ -13,9 +13,9 @@ regions:
 latitude: 48.0776
 longitude: 11.9715
 images:
-  - "/images-sites/kloster-ebersberg/01-511452e2-800w.webp"
-  - "/images-sites/kloster-ebersberg/02-e1199036-800w.webp"
-  - "/images-sites/kloster-ebersberg/03-96d6e5f9-800w.webp"
+  - "/images/kloster-ebersberg/01-511452e2-800w.webp"
+  - "/images/kloster-ebersberg/02-e1199036-800w.webp"
+  - "/images/kloster-ebersberg/03-96d6e5f9-800w.webp"
 ---
 
 ## Overview

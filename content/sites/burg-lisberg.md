@@ -1,27 +1,49 @@
 ---
-title: "Burg Lisberg"
+title: Burg Lisberg
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument in Lisberg, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument in Lisberg, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.883611111
 longitude: 10.728333333
-
-# Images
 images:
-  - "/images-sites/burg-lisberg/01-fd0c055a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg/1200px-Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg/1200px-Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg/1200px-Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lisberg_Burg_Turm-20180909-RM-162321.jpg/1200px-Lisberg_Burg_Turm-20180909-RM-162321.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1200px-BurgLisberg.jpg
+image_srcset:
+  Burg Lisberg Orthophoto-20240414-RM-121631.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg/400px-Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg/800px-Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg/1200px-Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg/1920px-Burg_Lisberg_Orthophoto-20240414-RM-121631.jpg
+  Burg Lisberg Luftaufnahme-20211009-RM-155919.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg/400px-Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg/800px-Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg/1200px-Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg/1920px-Burg_Lisberg_Luftaufnahme-20211009-RM-155919.jpg
+  Burg Lisberg Luftaufnahme-20211009-RM-155851.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg/400px-Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg/800px-Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg/1200px-Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg/1920px-Burg_Lisberg_Luftaufnahme-20211009-RM-155851.jpg
+  Lisberg Burg Turm-20180909-RM-162321.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lisberg_Burg_Turm-20180909-RM-162321.jpg/400px-Lisberg_Burg_Turm-20180909-RM-162321.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lisberg_Burg_Turm-20180909-RM-162321.jpg/800px-Lisberg_Burg_Turm-20180909-RM-162321.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lisberg_Burg_Turm-20180909-RM-162321.jpg/1200px-Lisberg_Burg_Turm-20180909-RM-162321.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lisberg_Burg_Turm-20180909-RM-162321.jpg/1920px-Lisberg_Burg_Turm-20180909-RM-162321.jpg
+  BurgLisberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/400px-BurgLisberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/800px-BurgLisberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1200px-BurgLisberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BurgLisberg.jpg/1920px-BurgLisberg.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 51.4258
 longitude: 7.05222
 images:
-  - "/images-sites/kunsthaus-essen/02-cde38764-800w.webp"
-  - "/images-sites/kunsthaus-essen/03-17d75976-800w.webp"
+  - "/images/kunsthaus-essen/02-cde38764-800w.webp"
+  - "/images/kunsthaus-essen/03-17d75976-800w.webp"
 ---
 
 ## Overview

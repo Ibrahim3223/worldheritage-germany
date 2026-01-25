@@ -1,23 +1,51 @@
 ---
-title: "Evangelical Church Großkühnau"
-site_name: "Evangelical Church Großkühnau"
-slug: "evangelical-church-grosskuhnau"
-region: "Brandenburg"
-
-# Location
+title: Evangelical Church Großkühnau
+site_name: Evangelical Church Großkühnau
+slug: evangelical-church-grosskuhnau
+region: Brandenburg
 latitude: 51.8535
 longitude: 12.1808
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1380312"
-description: "In the heart of Dessau-Roßlau lies the Evangelical Church Großkühnau, a striking example of Classicism that captures the essence of its historical and a..."
+- cultural site
+wikidata_id: Q1380312
+description: In the heart of Dessau-Roßlau lies the Evangelical Church Großkühnau,
+  a striking example of Classicism that captures the essence of its historical and
+  a...
 images:
-  - "/images-sites/evangelical-church-grosskuhnau/01-d66964dc-1920w.webp"
-  - "/images-sites/evangelical-church-grosskuhnau/02-6a2af9ef-1920w.webp"
-  - "/images-sites/evangelical-church-grosskuhnau/03-617d0486-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg/1200px-Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/J21_200_Kirche_Großkühnau.jpg/1200px-J21_200_Kirche_Großkühnau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/J21_201_Kirche_Großkühnau.jpg/1200px-J21_201_Kirche_Großkühnau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J21_193_Kirche_Großkühnau,_innen.jpg/1200px-J21_193_Kirche_Großkühnau,_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1200px-Dessau,Großkühnau_Kirche.jpg
+image_srcset:
+  Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg/400px-Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg/800px-Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg/1200px-Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg/1920px-Dessau%2CGro%C3%9Fk%C3%BChnau%20Kirche.jpg
+  J21 200 Kirche Großkühnau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/J21_200_Kirche_Großkühnau.jpg/400px-J21_200_Kirche_Großkühnau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/J21_200_Kirche_Großkühnau.jpg/800px-J21_200_Kirche_Großkühnau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/J21_200_Kirche_Großkühnau.jpg/1200px-J21_200_Kirche_Großkühnau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/J21_200_Kirche_Großkühnau.jpg/1920px-J21_200_Kirche_Großkühnau.jpg
+  J21 201 Kirche Großkühnau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/J21_201_Kirche_Großkühnau.jpg/400px-J21_201_Kirche_Großkühnau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/J21_201_Kirche_Großkühnau.jpg/800px-J21_201_Kirche_Großkühnau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/J21_201_Kirche_Großkühnau.jpg/1200px-J21_201_Kirche_Großkühnau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/J21_201_Kirche_Großkühnau.jpg/1920px-J21_201_Kirche_Großkühnau.jpg
+  J21 193 Kirche Großkühnau, innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J21_193_Kirche_Großkühnau,_innen.jpg/400px-J21_193_Kirche_Großkühnau,_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J21_193_Kirche_Großkühnau,_innen.jpg/800px-J21_193_Kirche_Großkühnau,_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J21_193_Kirche_Großkühnau,_innen.jpg/1200px-J21_193_Kirche_Großkühnau,_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J21_193_Kirche_Großkühnau,_innen.jpg/1920px-J21_193_Kirche_Großkühnau,_innen.jpg
+  Dessau,Großkühnau Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/400px-Dessau,Großkühnau_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/800px-Dessau,Großkühnau_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1200px-Dessau,Großkühnau_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dessau,Großkühnau_Kirche.jpg/1920px-Dessau,Großkühnau_Kirche.jpg
 ---
 
 ## Overview

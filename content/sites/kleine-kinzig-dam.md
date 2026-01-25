@@ -13,7 +13,7 @@ regions:
 latitude: 48.3989
 longitude: 8.36556
 images:
-  - "/images-sites/kleine-kinzig-dam/01-84ef6f3e-800w.webp"
+  - "/images/kleine-kinzig-dam/01-84ef6f3e-800w.webp"
 ---
 
 ## Overview

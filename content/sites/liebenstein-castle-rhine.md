@@ -21,7 +21,7 @@ longitude: 7.63544
 
 # Images
 images:
-  - "/images-sites/liebenstein-castle-rhine/01-0bc4ac1d-800w.webp"
+  - "/images/liebenstein-castle-rhine/01-0bc4ac1d-800w.webp"
 ---
 
 ## Overview

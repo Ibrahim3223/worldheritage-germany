@@ -1,19 +1,51 @@
 ---
-title: "Castle Church Lockwitz"
-site_name: "Castle Church Lockwitz"
-slug: "castle-church-lockwitz"
-region: "Saxony"
-
-# Location
+title: Castle Church Lockwitz
+site_name: Castle Church Lockwitz
+slug: castle-church-lockwitz
+region: Saxony
 latitude: 50.9876
 longitude: 13.8089
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1507217"
-description: "Castle Church Lockwitz, a distinguished Protestant church located in the heart of Dresden, Saxony, captures the essence of baroque architecture. This ch..."
+- cultural site
+wikidata_id: Q1507217
+description: Castle Church Lockwitz, a distinguished Protestant church located in
+  the heart of Dresden, Saxony, captures the essence of baroque architecture. This
+  ch...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lockwitzer%20Schlosskirche2.jpg/1200px-Lockwitzer%20Schlosskirche2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lockwitzer_Schlosskirche.jpg/1200px-Lockwitzer_Schlosskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg/1200px-20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/1200px-Lockwitzer_Schlosskirche2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg/1200px-13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg
+image_srcset:
+  Lockwitzer%20Schlosskirche2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lockwitzer%20Schlosskirche2.jpg/400px-Lockwitzer%20Schlosskirche2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lockwitzer%20Schlosskirche2.jpg/800px-Lockwitzer%20Schlosskirche2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lockwitzer%20Schlosskirche2.jpg/1200px-Lockwitzer%20Schlosskirche2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lockwitzer%20Schlosskirche2.jpg/1920px-Lockwitzer%20Schlosskirche2.jpg
+  Lockwitzer Schlosskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lockwitzer_Schlosskirche.jpg/400px-Lockwitzer_Schlosskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lockwitzer_Schlosskirche.jpg/800px-Lockwitzer_Schlosskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lockwitzer_Schlosskirche.jpg/1200px-Lockwitzer_Schlosskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lockwitzer_Schlosskirche.jpg/1920px-Lockwitzer_Schlosskirche.jpg
+  20100622210DR Dresden-Lockwitz Schloß und Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg/400px-20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg/800px-20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg/1200px-20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg/1920px-20100622210DR_Dresden-Lockwitz_Schloß_und_Kirche.jpg
+  Lockwitzer Schlosskirche2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/400px-Lockwitzer_Schlosskirche2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/800px-Lockwitzer_Schlosskirche2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/1200px-Lockwitzer_Schlosskirche2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockwitzer_Schlosskirche2.jpg/1920px-Lockwitzer_Schlosskirche2.jpg
+  13163-Lockwitz-1911-Kirche-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg/400px-13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg/800px-13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg/1200px-13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg/1920px-13163-Lockwitz-1911-Kirche-Brück_&_Sohn_Kunstverlag.jpg
 ---
 
 ## Overview

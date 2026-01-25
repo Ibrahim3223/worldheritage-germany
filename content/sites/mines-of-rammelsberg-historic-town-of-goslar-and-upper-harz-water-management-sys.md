@@ -13,9 +13,9 @@ regions:
 latitude: 51.82
 longitude: 10.34
 images:
-  - "/images-sites/mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys/01-8a782a36-800w.webp"
-  - "/images-sites/mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys/02-174bea46-800w.webp"
-  - "/images-sites/mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys/03-f07fb159-800w.webp"
+  - "/images/mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys/01-8a782a36-800w.webp"
+  - "/images/mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys/02-174bea46-800w.webp"
+  - "/images/mines-of-rammelsberg-historic-town-of-goslar-and-upper-harz-water-management-sys/03-f07fb159-800w.webp"
 ---
 
 ## Overview

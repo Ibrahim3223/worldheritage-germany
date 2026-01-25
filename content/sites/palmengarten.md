@@ -21,8 +21,8 @@ longitude: 8.655555555
 
 # Images
 images:
-  - "/images-sites/palmengarten/02-06184f9f-800w.webp"
-  - "/images-sites/palmengarten/03-cf8cc15b-800w.webp"
+  - "/images/palmengarten/02-06184f9f-800w.webp"
+  - "/images/palmengarten/03-cf8cc15b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.4639
 longitude: 13.3267
 images:
-  - "/images-sites/titania-palast/01-58178513-800w.webp"
+  - "/images/titania-palast/01-58178513-800w.webp"
 ---
 
 ## Overview

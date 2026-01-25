@@ -21,8 +21,8 @@ longitude: 8.72833
 
 # Images
 images:
-  - "/images-sites/staufenberg-castle/02-8b03dc9b-800w.webp"
-  - "/images-sites/staufenberg-castle/03-05ca7c10-800w.webp"
+  - "/images/staufenberg-castle/02-8b03dc9b-800w.webp"
+  - "/images/staufenberg-castle/03-05ca7c10-800w.webp"
 ---
 
 ## Overview

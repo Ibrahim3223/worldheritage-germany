@@ -13,7 +13,7 @@ regions:
 latitude: 53.548333
 longitude: 9.945556
 images:
-  - "/images-sites/koenigstrasse-station/01-862e6133-800w.webp"
+  - "/images/koenigstrasse-station/01-862e6133-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q560855"
 description: "St. Martins Church in Landshut, Germany, is an architectural marvel that captures the essence of Gothic design. Rising majestically to a height of 130.6..."
 images:
-  - "/images-sites/st-martin-s-church/01-0e2fde00-1920w.webp"
-  - "/images-sites/st-martin-s-church/02-b63fbe88-1920w.webp"
-  - "/images-sites/st-martin-s-church/03-cc3c09f7-1920w.webp"
+  - "/images/st-martin-s-church/01-0e2fde00-1920w.webp"
+  - "/images/st-martin-s-church/02-b63fbe88-1920w.webp"
+  - "/images/st-martin-s-church/03-cc3c09f7-1920w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 54.206369444
 longitude: 13.771480555
 images:
-  - "/images-sites/ruden/01-41e71642-800w.webp"
-  - "/images-sites/ruden/02-17766153-800w.webp"
-  - "/images-sites/ruden/03-5d527d30-800w.webp"
+  - "/images/ruden/01-41e71642-800w.webp"
+  - "/images/ruden/02-17766153-800w.webp"
+  - "/images/ruden/03-5d527d30-800w.webp"
 ---
 
 ## Overview

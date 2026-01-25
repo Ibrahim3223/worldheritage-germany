@@ -21,7 +21,7 @@ longitude: 8.77583
 
 # Images
 images:
-  - "/images-sites/muenzenberg-castle/01-0cf4c735-800w.webp"
+  - "/images/muenzenberg-castle/01-0cf4c735-800w.webp"
 ---
 
 ## Overview

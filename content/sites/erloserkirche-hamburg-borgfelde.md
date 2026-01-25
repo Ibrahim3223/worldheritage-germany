@@ -1,20 +1,27 @@
 ---
-title: "ErlöserkircheHamburg-Borgfelde"
-site_name: "ErlöserkircheHamburg-Borgfelde"
-slug: "erloserkirche-hamburg-borgfelde"
-region: "Hamburg"
-
-# Location
+title: ErlöserkircheHamburg-Borgfelde
+site_name: ErlöserkircheHamburg-Borgfelde
+slug: erloserkirche-hamburg-borgfelde
+region: Hamburg
 latitude: 53.55513889
 longitude: 10.02694444
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355744"
-description: "In the heart of Hamburg-Mitte, the Erlöserkirche stands as a modern architectural marvel that captures the essence of contemporary ecclesiastical design..."
+- church building
+- religious site
+wikidata_id: Q1355744
+description: In the heart of Hamburg-Mitte, the Erlöserkirche stands as a modern architectural
+  marvel that captures the essence of contemporary ecclesiastical design...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg/1200px-Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg
+image_srcset:
+  Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg/400px-Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg/800px-Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg/1200px-Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg/1920px-Erl%C3%B6serkirche%20HH-Borgfelde%2004.jpg
 ---
 
 ## Overview

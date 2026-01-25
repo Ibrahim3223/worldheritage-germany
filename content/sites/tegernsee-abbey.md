@@ -13,7 +13,7 @@ regions:
 latitude: 47.707440018
 longitude: 11.756854504
 images:
-  - "/images-sites/tegernsee-abbey/01-5361bd7d-800w.webp"
+  - "/images/tegernsee-abbey/01-5361bd7d-800w.webp"
 ---
 
 ## Overview

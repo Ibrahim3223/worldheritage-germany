@@ -13,7 +13,7 @@ regions:
 latitude: 49.0141
 longitude: 13.2312
 images:
-  - "/images-sites/zwiesel-forest-museum/01-22e518ea-800w.webp"
+  - "/images/zwiesel-forest-museum/01-22e518ea-800w.webp"
 ---
 
 ## Overview

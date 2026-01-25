@@ -13,7 +13,7 @@ regions:
 latitude: 54.45
 longitude: 13.4
 images:
-  - "/images-sites/ruegen/01-ddb7c2d1-800w.webp"
+  - "/images/ruegen/01-ddb7c2d1-800w.webp"
 ---
 
 ## Overview

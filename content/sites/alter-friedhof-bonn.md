@@ -1,19 +1,49 @@
 ---
-title: "Alter Friedhof Bonn"
+title: Alter Friedhof Bonn
 date: 2026-01-23
 draft: false
-description: "cemetery in Bonn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.735691666
 longitude: 7.090694444
 images:
-  - "/images-sites/alter-friedhof-bonn/01-89a3c226-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg/1200px-Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bonn,_Alter_Friedhof_--_2018_--_0838.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0838.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bonn,_Alter_Friedhof_--_2018_--_0873.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0873.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bonn,_Alter_Friedhof_--_2018_--_0877.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0877.jpg
+image_srcset:
+  Bonn, Alter Friedhof, Grabstätte -Jansen- -- 2018 -- 0850.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg/400px-Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg/800px-Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg/1200px-Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg/1920px-Bonn,_Alter_Friedhof,_Grabstätte_-Jansen-_--_2018_--_0850.jpg
+  Bonn, Alter Friedhof -- 2018 -- 0838.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bonn,_Alter_Friedhof_--_2018_--_0838.jpg/400px-Bonn,_Alter_Friedhof_--_2018_--_0838.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bonn,_Alter_Friedhof_--_2018_--_0838.jpg/800px-Bonn,_Alter_Friedhof_--_2018_--_0838.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bonn,_Alter_Friedhof_--_2018_--_0838.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0838.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bonn,_Alter_Friedhof_--_2018_--_0838.jpg/1920px-Bonn,_Alter_Friedhof_--_2018_--_0838.jpg
+  Bonn, Alter Friedhof -- 2018 -- 0873.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bonn,_Alter_Friedhof_--_2018_--_0873.jpg/400px-Bonn,_Alter_Friedhof_--_2018_--_0873.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bonn,_Alter_Friedhof_--_2018_--_0873.jpg/800px-Bonn,_Alter_Friedhof_--_2018_--_0873.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bonn,_Alter_Friedhof_--_2018_--_0873.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0873.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bonn,_Alter_Friedhof_--_2018_--_0873.jpg/1920px-Bonn,_Alter_Friedhof_--_2018_--_0873.jpg
+  Bonn, Alter Friedhof -- 2018 -- 0860.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/400px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/800px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bonn,_Alter_Friedhof_--_2018_--_0860.jpg/1920px-Bonn,_Alter_Friedhof_--_2018_--_0860.jpg
+  Bonn, Alter Friedhof -- 2018 -- 0877.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bonn,_Alter_Friedhof_--_2018_--_0877.jpg/400px-Bonn,_Alter_Friedhof_--_2018_--_0877.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bonn,_Alter_Friedhof_--_2018_--_0877.jpg/800px-Bonn,_Alter_Friedhof_--_2018_--_0877.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bonn,_Alter_Friedhof_--_2018_--_0877.jpg/1200px-Bonn,_Alter_Friedhof_--_2018_--_0877.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bonn,_Alter_Friedhof_--_2018_--_0877.jpg/1920px-Bonn,_Alter_Friedhof_--_2018_--_0877.jpg
 ---
 
 ## Overview

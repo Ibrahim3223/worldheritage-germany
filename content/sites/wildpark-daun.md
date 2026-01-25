@@ -13,7 +13,7 @@ regions:
 latitude: 50.1812
 longitude: 6.80607
 images:
-  - "/images-sites/wildpark-daun/01-29a8f848-800w.webp"
+  - "/images/wildpark-daun/01-29a8f848-800w.webp"
 ---
 
 ## Overview

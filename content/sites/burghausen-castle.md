@@ -1,27 +1,49 @@
 ---
-title: "Burghausen Castle"
+title: Burghausen Castle
 date: 2026-01-23
 draft: false
-description: "castle in Burghausen, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Burghausen, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.156111111
 longitude: 12.828888888
-
-# Images
 images:
-  - "/images-sites/burghausen-castle/01-6d13c272-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hauptburg_Burghausen-2.jpg/1200px-Hauptburg_Burghausen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aerial_image_of_Burghausen_Castle.jpg/1200px-Aerial_image_of_Burghausen_Castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burghausen,_Hauptburg_v_SSW,_1.jpeg/1200px-Burghausen,_Hauptburg_v_SSW,_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_Burghausen.jpg/1200px-Aerial_image_of_Burghausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1200px-Burghausen_-_Hauptburg_(1).JPG
+image_srcset:
+  Hauptburg Burghausen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hauptburg_Burghausen-2.jpg/400px-Hauptburg_Burghausen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hauptburg_Burghausen-2.jpg/800px-Hauptburg_Burghausen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hauptburg_Burghausen-2.jpg/1200px-Hauptburg_Burghausen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hauptburg_Burghausen-2.jpg/1920px-Hauptburg_Burghausen-2.jpg
+  Aerial image of Burghausen Castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aerial_image_of_Burghausen_Castle.jpg/400px-Aerial_image_of_Burghausen_Castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aerial_image_of_Burghausen_Castle.jpg/800px-Aerial_image_of_Burghausen_Castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aerial_image_of_Burghausen_Castle.jpg/1200px-Aerial_image_of_Burghausen_Castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aerial_image_of_Burghausen_Castle.jpg/1920px-Aerial_image_of_Burghausen_Castle.jpg
+  Burghausen, Hauptburg v SSW, 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burghausen,_Hauptburg_v_SSW,_1.jpeg/400px-Burghausen,_Hauptburg_v_SSW,_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burghausen,_Hauptburg_v_SSW,_1.jpeg/800px-Burghausen,_Hauptburg_v_SSW,_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burghausen,_Hauptburg_v_SSW,_1.jpeg/1200px-Burghausen,_Hauptburg_v_SSW,_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burghausen,_Hauptburg_v_SSW,_1.jpeg/1920px-Burghausen,_Hauptburg_v_SSW,_1.jpeg
+  Aerial image of Burghausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_Burghausen.jpg/400px-Aerial_image_of_Burghausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_Burghausen.jpg/800px-Aerial_image_of_Burghausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_Burghausen.jpg/1200px-Aerial_image_of_Burghausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_Burghausen.jpg/1920px-Aerial_image_of_Burghausen.jpg
+  Burghausen - Hauptburg (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/400px-Burghausen_-_Hauptburg_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/800px-Burghausen_-_Hauptburg_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1200px-Burghausen_-_Hauptburg_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burghausen_-_Hauptburg_(1).JPG/1920px-Burghausen_-_Hauptburg_(1).JPG
 ---
 
 ## Overview

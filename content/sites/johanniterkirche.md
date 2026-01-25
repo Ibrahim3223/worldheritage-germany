@@ -1,20 +1,52 @@
 ---
-title: "Johanniterkirche"
-site_name: "Johanniterkirche"
-slug: "johanniterkirche"
-region: "Hesse"
-
-# Location
+title: Johanniterkirche
+site_name: Johanniterkirche
+slug: johanniterkirche
+region: Hesse
 latitude: 50.1122
 longitude: 8.68586
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698988"
-description: "In the heart of Frankfurt, the Johanniterkirche stands as a striking example of Gothic architecture. This church, with its intricate design and storied ..."
+- church building
+- religious site
+wikidata_id: Q1698988
+description: In the heart of Frankfurt, the Johanniterkirche stands as a striking
+  example of Gothic architecture. This church, with its intricate design and storied
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg/1200px-Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg/1200px-Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SH_Johanniterhalle_07.JPG/1200px-SH_Johanniterhalle_07.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pieve_di_san_pietro_in_mercato_03.JPG/1200px-Pieve_di_san_pietro_in_mercato_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/1200px-SH_Johanniterhalle_01.JPG
+image_srcset:
+  Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg/400px-Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg/800px-Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg/1200px-Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg/1920px-Frankfurt%20Am%20Main-Carl%20Theodor%20Reiffenstein-FFMU1850-083-Johanniterhof.jpg
+  Eingangsbereich der Johanniterhalle Schwäbisch Hall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg/400px-Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg/800px-Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg/1200px-Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg/1920px-Eingangsbereich_der_Johanniterhalle_Schwäbisch_Hall.jpg
+  SH Johanniterhalle 07.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SH_Johanniterhalle_07.JPG/400px-SH_Johanniterhalle_07.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SH_Johanniterhalle_07.JPG/800px-SH_Johanniterhalle_07.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SH_Johanniterhalle_07.JPG/1200px-SH_Johanniterhalle_07.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SH_Johanniterhalle_07.JPG/1920px-SH_Johanniterhalle_07.JPG
+  Pieve di san pietro in mercato 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pieve_di_san_pietro_in_mercato_03.JPG/400px-Pieve_di_san_pietro_in_mercato_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pieve_di_san_pietro_in_mercato_03.JPG/800px-Pieve_di_san_pietro_in_mercato_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pieve_di_san_pietro_in_mercato_03.JPG/1200px-Pieve_di_san_pietro_in_mercato_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pieve_di_san_pietro_in_mercato_03.JPG/1920px-Pieve_di_san_pietro_in_mercato_03.JPG
+  SH Johanniterhalle 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/400px-SH_Johanniterhalle_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/800px-SH_Johanniterhalle_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/1200px-SH_Johanniterhalle_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SH_Johanniterhalle_01.JPG/1920px-SH_Johanniterhalle_01.JPG
 ---
 
 ## Overview

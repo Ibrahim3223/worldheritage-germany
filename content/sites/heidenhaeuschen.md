@@ -1,27 +1,37 @@
 ---
-title: "Heidenhäuschen"
+title: Heidenhäuschen
 date: 2026-01-23
 draft: false
-description: "hill in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: hill in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4796
 longitude: 8.0881
-
-# Images
 images:
-  - "/images-sites/heidenhaeuschen/01-0028d669-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenhäuschen-gipfel-basaltfelsen.jpg/1200px-Heidenhäuschen-gipfel-basaltfelsen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heidenhauschen-Basaltblockmeer.jpg/1200px-Heidenhauschen-Basaltblockmeer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heidenhauschen-von_Merenberg.jpg/1200px-Heidenhauschen-von_Merenberg.jpg
+image_srcset:
+  Heidenhäuschen-gipfel-basaltfelsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenhäuschen-gipfel-basaltfelsen.jpg/400px-Heidenhäuschen-gipfel-basaltfelsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenhäuschen-gipfel-basaltfelsen.jpg/800px-Heidenhäuschen-gipfel-basaltfelsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenhäuschen-gipfel-basaltfelsen.jpg/1200px-Heidenhäuschen-gipfel-basaltfelsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenhäuschen-gipfel-basaltfelsen.jpg/1920px-Heidenhäuschen-gipfel-basaltfelsen.jpg
+  Heidenhauschen-Basaltblockmeer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heidenhauschen-Basaltblockmeer.jpg/400px-Heidenhauschen-Basaltblockmeer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heidenhauschen-Basaltblockmeer.jpg/800px-Heidenhauschen-Basaltblockmeer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heidenhauschen-Basaltblockmeer.jpg/1200px-Heidenhauschen-Basaltblockmeer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Heidenhauschen-Basaltblockmeer.jpg/1920px-Heidenhauschen-Basaltblockmeer.jpg
+  Heidenhauschen-von Merenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heidenhauschen-von_Merenberg.jpg/400px-Heidenhauschen-von_Merenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heidenhauschen-von_Merenberg.jpg/800px-Heidenhauschen-von_Merenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heidenhauschen-von_Merenberg.jpg/1200px-Heidenhauschen-von_Merenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Heidenhauschen-von_Merenberg.jpg/1920px-Heidenhauschen-von_Merenberg.jpg
 ---
 
 ## Overview

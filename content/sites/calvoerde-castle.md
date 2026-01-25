@@ -1,19 +1,37 @@
 ---
-title: "Calvörde Castle"
+title: Calvörde Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3961
 longitude: 11.3067
 images:
-  - "/images-sites/calvoerde-castle/01-1af8c094-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_calvoerde_2007.JPG/1200px-Burg_calvoerde_2007.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Calvörde.jpg/1200px-Burg_Calvörde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Calvörde_Görges.jpg/1200px-Burg_Calvörde_Görges.jpg
+image_srcset:
+  Burg calvoerde 2007.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_calvoerde_2007.JPG/400px-Burg_calvoerde_2007.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_calvoerde_2007.JPG/800px-Burg_calvoerde_2007.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_calvoerde_2007.JPG/1200px-Burg_calvoerde_2007.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_calvoerde_2007.JPG/1920px-Burg_calvoerde_2007.JPG
+  Burg Calvörde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Calvörde.jpg/400px-Burg_Calvörde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Calvörde.jpg/800px-Burg_Calvörde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Calvörde.jpg/1200px-Burg_Calvörde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg_Calvörde.jpg/1920px-Burg_Calvörde.jpg
+  Burg Calvörde Görges.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Calvörde_Görges.jpg/400px-Burg_Calvörde_Görges.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Calvörde_Görges.jpg/800px-Burg_Calvörde_Görges.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Calvörde_Görges.jpg/1200px-Burg_Calvörde_Görges.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burg_Calvörde_Görges.jpg/1920px-Burg_Calvörde_Görges.jpg
 ---
 
 ## Overview

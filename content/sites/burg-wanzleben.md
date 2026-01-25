@@ -1,29 +1,49 @@
 ---
-title: "Burg Wanzleben"
+title: Burg Wanzleben
 date: 2026-01-23
 draft: false
-description: "castle in Wanzleben-Börde, Saxony-Anhalt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Wanzleben-Börde, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.0648
 longitude: 11.4435
-
-# Images
 images:
-  - "/images-sites/burg-wanzleben/01-c0a85eeb-800w.webp"
-  - "/images-sites/burg-wanzleben/02-4b394014-800w.webp"
-  - "/images-sites/burg-wanzleben/03-35af4873-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg_Wanzleben_2023_04.jpg/1200px-Burg_Wanzleben_2023_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wanzleben,_Burg,_die_Scheune-1.jpg/1200px-Wanzleben,_Burg,_die_Scheune-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wanzleben,_Burg,_das_Torhaus.jpg/1200px-Wanzleben,_Burg,_das_Torhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Wanzleben.jpg/1200px-Burg_Wanzleben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wanzleben_Burg_09.jpg/1200px-Wanzleben_Burg_09.jpg
+image_srcset:
+  Burg Wanzleben 2023 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg_Wanzleben_2023_04.jpg/400px-Burg_Wanzleben_2023_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg_Wanzleben_2023_04.jpg/800px-Burg_Wanzleben_2023_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg_Wanzleben_2023_04.jpg/1200px-Burg_Wanzleben_2023_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg_Wanzleben_2023_04.jpg/1920px-Burg_Wanzleben_2023_04.jpg
+  Wanzleben, Burg, die Scheune-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wanzleben,_Burg,_die_Scheune-1.jpg/400px-Wanzleben,_Burg,_die_Scheune-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wanzleben,_Burg,_die_Scheune-1.jpg/800px-Wanzleben,_Burg,_die_Scheune-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wanzleben,_Burg,_die_Scheune-1.jpg/1200px-Wanzleben,_Burg,_die_Scheune-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wanzleben,_Burg,_die_Scheune-1.jpg/1920px-Wanzleben,_Burg,_die_Scheune-1.jpg
+  Wanzleben, Burg, das Torhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wanzleben,_Burg,_das_Torhaus.jpg/400px-Wanzleben,_Burg,_das_Torhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wanzleben,_Burg,_das_Torhaus.jpg/800px-Wanzleben,_Burg,_das_Torhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wanzleben,_Burg,_das_Torhaus.jpg/1200px-Wanzleben,_Burg,_das_Torhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wanzleben,_Burg,_das_Torhaus.jpg/1920px-Wanzleben,_Burg,_das_Torhaus.jpg
+  Burg Wanzleben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Wanzleben.jpg/400px-Burg_Wanzleben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Wanzleben.jpg/800px-Burg_Wanzleben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Wanzleben.jpg/1200px-Burg_Wanzleben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burg_Wanzleben.jpg/1920px-Burg_Wanzleben.jpg
+  Wanzleben Burg 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wanzleben_Burg_09.jpg/400px-Wanzleben_Burg_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wanzleben_Burg_09.jpg/800px-Wanzleben_Burg_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wanzleben_Burg_09.jpg/1200px-Wanzleben_Burg_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wanzleben_Burg_09.jpg/1920px-Wanzleben_Burg_09.jpg
 ---
 
 ## Overview

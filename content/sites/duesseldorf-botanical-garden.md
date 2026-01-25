@@ -1,27 +1,49 @@
 ---
-title: "Düsseldorf Botanical Garden"
+title: Düsseldorf Botanical Garden
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1869
 longitude: 6.8025
-
-# Images
 images:
-  - "/images-sites/duesseldorf-botanical-garden/01-009db585-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paeonia_broteri_(41302071334).jpg/1200px-Paeonia_broteri_(41302071334).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Botanischer_garten_duesseldorf.jpg/1200px-Botanischer_garten_duesseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Löwenzahn_von_Josef_Guggenmos.jpg/1200px-Löwenzahn_von_Josef_Guggenmos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg/1200px-Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg/1200px-Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg
+image_srcset:
+  Paeonia broteri (41302071334).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paeonia_broteri_(41302071334).jpg/400px-Paeonia_broteri_(41302071334).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paeonia_broteri_(41302071334).jpg/800px-Paeonia_broteri_(41302071334).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paeonia_broteri_(41302071334).jpg/1200px-Paeonia_broteri_(41302071334).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Paeonia_broteri_(41302071334).jpg/1920px-Paeonia_broteri_(41302071334).jpg
+  Botanischer garten duesseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Botanischer_garten_duesseldorf.jpg/400px-Botanischer_garten_duesseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Botanischer_garten_duesseldorf.jpg/800px-Botanischer_garten_duesseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Botanischer_garten_duesseldorf.jpg/1200px-Botanischer_garten_duesseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Botanischer_garten_duesseldorf.jpg/1920px-Botanischer_garten_duesseldorf.jpg
+  Löwenzahn von Josef Guggenmos.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Löwenzahn_von_Josef_Guggenmos.jpg/400px-Löwenzahn_von_Josef_Guggenmos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Löwenzahn_von_Josef_Guggenmos.jpg/800px-Löwenzahn_von_Josef_Guggenmos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Löwenzahn_von_Josef_Guggenmos.jpg/1200px-Löwenzahn_von_Josef_Guggenmos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Löwenzahn_von_Josef_Guggenmos.jpg/1920px-Löwenzahn_von_Josef_Guggenmos.jpg
+  Kuppelgewächshaus aus Osten, Botanischer Garten (Düsseldorf).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg/400px-Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg/800px-Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg/1200px-Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg/1920px-Kuppelgewächshaus_aus_Osten,_Botanischer_Garten_(Düsseldorf).jpg
+  Kuppelgewächshaus aus Süden, Botanischer Garten (Düsseldorf).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg/400px-Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg/800px-Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg/1200px-Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg/1920px-Kuppelgewächshaus_aus_Süden,_Botanischer_Garten_(Düsseldorf).jpg
 ---
 
 ## Overview

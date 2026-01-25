@@ -13,7 +13,7 @@ regions:
 latitude: 54.53582
 longitude: 13.30067
 images:
-  - "/images-sites/neuendorfer-wiek-mit-insel-beuchel/01-a1cdaa6d-800w.webp"
+  - "/images/neuendorfer-wiek-mit-insel-beuchel/01-a1cdaa6d-800w.webp"
 ---
 
 ## Overview

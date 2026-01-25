@@ -13,7 +13,7 @@ regions:
 latitude: 50.580839
 longitude: 8.666196
 images:
-  - "/images-sites/liebig-museum/01-3d1119a0-800w.webp"
+  - "/images/liebig-museum/01-3d1119a0-800w.webp"
 ---
 
 ## Overview

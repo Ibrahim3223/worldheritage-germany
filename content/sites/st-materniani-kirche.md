@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1239233"
 description: "St.-Materniani-Kirche is a remarkable church building located in the serene region of Ochtersum, Germany. This site is a striking example of Romanesque ..."
 images:
-  - "/images-sites/st-materniani-kirche/01-53798e97-1920w.webp"
-  - "/images-sites/st-materniani-kirche/02-0ecb9d88-1920w.webp"
-  - "/images-sites/st-materniani-kirche/03-ed12a491-1920w.webp"
+  - "/images/st-materniani-kirche/01-53798e97-1920w.webp"
+  - "/images/st-materniani-kirche/02-0ecb9d88-1920w.webp"
+  - "/images/st-materniani-kirche/03-ed12a491-1920w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 10.799166666
 
 # Images
 images:
-  - "/images-sites/kunsthaus-meyenburg/01-72d9c088-800w.webp"
+  - "/images/kunsthaus-meyenburg/01-72d9c088-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Haus zum Güldenen Krönbacken"
+title: Haus zum Güldenen Krönbacken
 date: 2026-01-23
 draft: false
-description: "Baudenkmal in Erfurt"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: Baudenkmal in Erfurt
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9792
 longitude: 11.0283
 images:
-  - "/images-sites/haus-zum-gueldenen-kroenbacken/01-e526f032-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/1200px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Michaelisstraße_10_(Erfurt)_01.jpg/1200px-Michaelisstraße_10_(Erfurt)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Erfurt_Zum_Guldenen_Kronbacken_2.jpg/1200px-Erfurt_Zum_Guldenen_Kronbacken_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Michaelisstraße_10_(Erfurt)_02.jpg/1200px-Michaelisstraße_10_(Erfurt)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Krönbacken_Vorderhaus_Erfurt.JPG/1200px-Krönbacken_Vorderhaus_Erfurt.JPG
+image_srcset:
+  Erfurt-Haus zum Gueldenen Kroenbacken von Nordosten-20120901.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/400px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/800px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/1200px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg/1920px-Erfurt-Haus_zum_Gueldenen_Kroenbacken_von_Nordosten-20120901.jpg
+  Michaelisstraße 10 (Erfurt) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Michaelisstraße_10_(Erfurt)_01.jpg/400px-Michaelisstraße_10_(Erfurt)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Michaelisstraße_10_(Erfurt)_01.jpg/800px-Michaelisstraße_10_(Erfurt)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Michaelisstraße_10_(Erfurt)_01.jpg/1200px-Michaelisstraße_10_(Erfurt)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Michaelisstraße_10_(Erfurt)_01.jpg/1920px-Michaelisstraße_10_(Erfurt)_01.jpg
+  Erfurt Zum Guldenen Kronbacken 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Erfurt_Zum_Guldenen_Kronbacken_2.jpg/400px-Erfurt_Zum_Guldenen_Kronbacken_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Erfurt_Zum_Guldenen_Kronbacken_2.jpg/800px-Erfurt_Zum_Guldenen_Kronbacken_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Erfurt_Zum_Guldenen_Kronbacken_2.jpg/1200px-Erfurt_Zum_Guldenen_Kronbacken_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Erfurt_Zum_Guldenen_Kronbacken_2.jpg/1920px-Erfurt_Zum_Guldenen_Kronbacken_2.jpg
+  Michaelisstraße 10 (Erfurt) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Michaelisstraße_10_(Erfurt)_02.jpg/400px-Michaelisstraße_10_(Erfurt)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Michaelisstraße_10_(Erfurt)_02.jpg/800px-Michaelisstraße_10_(Erfurt)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Michaelisstraße_10_(Erfurt)_02.jpg/1200px-Michaelisstraße_10_(Erfurt)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Michaelisstraße_10_(Erfurt)_02.jpg/1920px-Michaelisstraße_10_(Erfurt)_02.jpg
+  Krönbacken Vorderhaus Erfurt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Krönbacken_Vorderhaus_Erfurt.JPG/400px-Krönbacken_Vorderhaus_Erfurt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Krönbacken_Vorderhaus_Erfurt.JPG/800px-Krönbacken_Vorderhaus_Erfurt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Krönbacken_Vorderhaus_Erfurt.JPG/1200px-Krönbacken_Vorderhaus_Erfurt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Krönbacken_Vorderhaus_Erfurt.JPG/1920px-Krönbacken_Vorderhaus_Erfurt.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Gut Dollrott"
+title: Gut Dollrott
 date: 2026-01-23
 draft: false
-description: "building in Dollrottfeld (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Dollrottfeld (Germany)
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6435
 longitude: 9.83264
 images:
-  - "/images-sites/gut-dollrott/01-45923027-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gut_Dollrott_Westseite_Dollrottfeld.jpg/1200px-Gut_Dollrott_Westseite_Dollrottfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/1200px-Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/1200px-Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/1200px-Dollrott_Gutshaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dollrott.jpg/1200px-Dollrott.jpg
+image_srcset:
+  Gut Dollrott Westseite Dollrottfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gut_Dollrott_Westseite_Dollrottfeld.jpg/400px-Gut_Dollrott_Westseite_Dollrottfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gut_Dollrott_Westseite_Dollrottfeld.jpg/800px-Gut_Dollrott_Westseite_Dollrottfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gut_Dollrott_Westseite_Dollrottfeld.jpg/1200px-Gut_Dollrott_Westseite_Dollrottfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gut_Dollrott_Westseite_Dollrottfeld.jpg/1920px-Gut_Dollrott_Westseite_Dollrottfeld.jpg
+  Gut Dollrott , Gutshaus mit Wassergraben , Westseite , Dollrottfeld , Gemeinde Suederbrarup.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/400px-Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/800px-Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/1200px-Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/1920px-Gut_Dollrott_,_Gutshaus_mit_Wassergraben_,_Westseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+  Gut Dollrott , Nordwestseite , Dollrottfeld , Gemeinde Suederbrarup.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/400px-Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/800px-Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/1200px-Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg/1920px-Gut_Dollrott_,_Nordwestseite_,_Dollrottfeld_,_Gemeinde_Suederbrarup.jpg
+  Dollrott Gutshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/400px-Dollrott_Gutshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/800px-Dollrott_Gutshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/1200px-Dollrott_Gutshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollrott_Gutshaus.jpg/1920px-Dollrott_Gutshaus.jpg
+  Dollrott.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dollrott.jpg/400px-Dollrott.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dollrott.jpg/800px-Dollrott.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dollrott.jpg/1200px-Dollrott.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dollrott.jpg/1920px-Dollrott.jpg
 ---
 
 ## Overview

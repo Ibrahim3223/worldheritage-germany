@@ -1,23 +1,50 @@
 ---
-title: "Japanisches Palais"
-site_name: "Japanisches Palais"
-slug: "japanisches-palais"
-region: "Saxony"
-
-# Location
+title: Japanisches Palais
+site_name: Japanisches Palais
+slug: japanisches-palais
+region: Saxony
 latitude: 51.05972222
 longitude: 13.7375
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q468137"
-description: "The Japanisches Palais, an intriguing architectural gem in Dresden, Germany, invites visitors to explore its rich history and cultural significance. Loc..."
+- cultural site
+wikidata_id: Q468137
+description: The Japanisches Palais, an intriguing architectural gem in Dresden, Germany,
+  invites visitors to explore its rich history and cultural significance. Loc...
 images:
-  - "/images-sites/japanisches-palais/01-8c993e6e-1920w.webp"
-  - "/images-sites/japanisches-palais/02-327f04ae-1920w.webp"
-  - "/images-sites/japanisches-palais/03-2e9f9f83-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg/1200px-20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg/1200px-01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1200px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg/1200px-20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg/1200px-20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg
+image_srcset:
+  20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg/400px-20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg/800px-20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg/1200px-20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg/1920px-20080629015DR%20Dresden-Neustadt%20Japanische%20Palais%20Palaisplatz.jpg
+  01097 Dresden, Japanisches Palais 01 2023-06-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg/400px-01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg/800px-01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg/1200px-01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg/1920px-01097_Dresden,_Japanisches_Palais_01_2023-06-10.jpg
+  20080629015DR Dresden-Neustadt Japanische Palais Palaisplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/400px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/800px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1200px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg/1920px-20080629015DR_Dresden-Neustadt_Japanische_Palais_Palaisplatz.jpg
+  20061110020DR Dresden-Neustadt Japanisches Palais.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg/400px-20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg/800px-20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg/1200px-20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg/1920px-20061110020DR_Dresden-Neustadt_Japanisches_Palais.jpg
+  20061110071DR Dresden-Neustadt Japanisches Palais.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg/400px-20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg/800px-20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg/1200px-20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg/1920px-20061110071DR_Dresden-Neustadt_Japanisches_Palais.jpg
 ---
 
 ## Overview

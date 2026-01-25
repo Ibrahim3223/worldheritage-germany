@@ -13,7 +13,7 @@ regions:
 latitude: 53.583333333
 longitude: 6.866666666
 images:
-  - "/images-sites/luetje-hoern/01-3cc72aa6-800w.webp"
+  - "/images/luetje-hoern/01-3cc72aa6-800w.webp"
 ---
 
 ## Overview

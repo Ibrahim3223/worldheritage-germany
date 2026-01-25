@@ -21,7 +21,7 @@ longitude: 6.92554
 
 # Images
 images:
-  - "/images-sites/museum-of-east-asian-art/01-9e3ca417-800w.webp"
+  - "/images/museum-of-east-asian-art/01-9e3ca417-800w.webp"
 ---
 
 ## Overview

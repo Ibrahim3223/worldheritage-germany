@@ -21,7 +21,7 @@ longitude: 9.14167
 
 # Images
 images:
-  - "/images-sites/staatsgalerie-aschaffenburg/01-2330c349-800w.webp"
+  - "/images/staatsgalerie-aschaffenburg/01-2330c349-800w.webp"
 ---
 
 ## Overview

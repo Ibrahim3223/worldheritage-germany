@@ -13,7 +13,7 @@ regions:
 latitude: 50.5841
 longitude: 8.6777
 images:
-  - "/images-sites/theater-giessen/01-a970691e-800w.webp"
+  - "/images/theater-giessen/01-a970691e-800w.webp"
 ---
 
 ## Overview

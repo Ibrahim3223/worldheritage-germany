@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1742988"
 description: "In the heart of Kirchrode-Bemerode-Wülferode, Germany, lies Zu den heiligen Engeln, a Catholic parish church that embodies modern architectures innovati..."
 images:
-  - "/images-sites/zu-den-heiligen-engeln/01-e509e8bc-1920w.webp"
-  - "/images-sites/zu-den-heiligen-engeln/02-03a3e30f-1920w.webp"
-  - "/images-sites/zu-den-heiligen-engeln/03-5adac88e-1920w.webp"
+  - "/images/zu-den-heiligen-engeln/01-e509e8bc-1920w.webp"
+  - "/images/zu-den-heiligen-engeln/02-03a3e30f-1920w.webp"
+  - "/images/zu-den-heiligen-engeln/03-5adac88e-1920w.webp"
 ---
 
 ## Overview

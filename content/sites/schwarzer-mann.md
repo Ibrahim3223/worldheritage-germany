@@ -13,7 +13,7 @@ regions:
 latitude: 50.254722222
 longitude: 6.359166666
 images:
-  - "/images-sites/schwarzer-mann/01-8acdb7f3-800w.webp"
+  - "/images/schwarzer-mann/01-8acdb7f3-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.9777
 longitude: 11.0287
 images:
-  - "/images-sites/roman/01-2b88f169-800w.webp"
+  - "/images/roman/01-2b88f169-800w.webp"
 ---
 
 ## Overview

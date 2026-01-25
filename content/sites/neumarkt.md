@@ -13,9 +13,9 @@ regions:
 latitude: 51.0516
 longitude: 13.7403
 images:
-  - "/images-sites/neumarkt/01-ccd8d5e6-800w.webp"
-  - "/images-sites/neumarkt/02-92b67244-800w.webp"
-  - "/images-sites/neumarkt/03-56255b35-800w.webp"
+  - "/images/neumarkt/01-ccd8d5e6-800w.webp"
+  - "/images/neumarkt/02-92b67244-800w.webp"
+  - "/images/neumarkt/03-56255b35-800w.webp"
 ---
 
 ## Overview

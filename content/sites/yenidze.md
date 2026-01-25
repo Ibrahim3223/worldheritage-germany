@@ -13,7 +13,7 @@ regions:
 latitude: 51.059019
 longitude: 13.726853
 images:
-  - "/images-sites/yenidze/01-2783b372-800w.webp"
+  - "/images/yenidze/01-2783b372-800w.webp"
 ---
 
 ## Overview

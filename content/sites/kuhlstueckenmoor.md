@@ -13,7 +13,7 @@ regions:
 latitude: 53.5819
 longitude: 9.35722
 images:
-  - "/images-sites/kuhlstueckenmoor/01-d5dabab2-800w.webp"
+  - "/images/kuhlstueckenmoor/01-d5dabab2-800w.webp"
 ---
 
 ## Overview

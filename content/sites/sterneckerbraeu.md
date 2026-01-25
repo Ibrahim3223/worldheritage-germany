@@ -13,7 +13,7 @@ regions:
 latitude: 48.1354
 longitude: 11.5807
 images:
-  - "/images-sites/sterneckerbraeu/01-bf1ea057-800w.webp"
+  - "/images/sterneckerbraeu/01-bf1ea057-800w.webp"
 ---
 
 ## Overview

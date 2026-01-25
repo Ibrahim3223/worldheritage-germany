@@ -1,24 +1,51 @@
 ---
-title: "Bartholomäuskirche Markgröningen"
-site_name: "Bartholomäuskirche Markgröningen"
-slug: "bartholomauskirche-markgroningen"
-region: "Baden-Württemberg"
-
-# Location
+title: Bartholomäuskirche Markgröningen
+site_name: Bartholomäuskirche Markgröningen
+slug: bartholomauskirche-markgroningen
+region: Baden-Württemberg
 latitude: 48.9048
 longitude: 9.08161
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q809402"
-description: "Bartholomäuskirche in Markgröningen stands as a remarkable example of Gothic architecture, capturing the essence of a bygone era. This church is not mer..."
+- church building
+- religious site
+wikidata_id: Q809402
+description: Bartholomäuskirche in Markgröningen stands as a remarkable example of
+  Gothic architecture, capturing the essence of a bygone era. This church is not mer...
 images:
-  - "/images-sites/bartholomauskirche-markgroningen/01-a1cdc540-1920w.webp"
-  - "/images-sites/bartholomauskirche-markgroningen/02-c82d06b7-1920w.webp"
-  - "/images-sites/bartholomauskirche-markgroningen/03-fbcb48dc-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg/1200px-Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg/1200px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg/1200px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg/1200px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1200px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
+image_srcset:
+  Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg/400px-Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg/800px-Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg/1200px-Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg/1920px-Bartholom%C3%A4uskirche%20Markgr%C3%B6ningen%20vNO%201034W.jpg
+  Markgröningen - Altstadt - Bartholomäuskirche - Inneres - Blick zum Chor (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg/400px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg/800px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg/1200px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg/1920px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Blick_zum_Chor_(1).jpg
+  Markgröningen - Altstadt - Bartholomäuskirche - Südseite - Kapellen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg/400px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg/800px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg/1200px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg/1920px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Südseite_-_Kapellen_(1).jpg
+  Markgröningen - Altstadt - Bartholomäuskirche - Inneres - Chorraum - Gewölbe (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg/400px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg/800px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg/1200px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg/1920px-Markgröningen_-_Altstadt_-_Bartholomäuskirche_-_Inneres_-_Chorraum_-_Gewölbe_(1).jpg
+  Bartholomäuskirche Markgröningen vNO 1034W.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/400px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/800px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1200px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bartholomäuskirche_Markgröningen_vNO_1034W.jpg/1920px-Bartholomäuskirche_Markgröningen_vNO_1034W.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.049166666
 longitude: 10.2525
 images:
-  - "/images-sites/liboriuskapelle/01-f2d9429d-800w.webp"
+  - "/images/liboriuskapelle/01-f2d9429d-800w.webp"
 ---
 
 ## Overview

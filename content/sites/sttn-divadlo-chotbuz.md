@@ -13,7 +13,7 @@ regions:
 latitude: 51.7572
 longitude: 14.3256
 images:
-  - "/images-sites/sttn-divadlo-chotbuz/01-61bd22cf-800w.webp"
+  - "/images/sttn-divadlo-chotbuz/01-61bd22cf-800w.webp"
 ---
 
 ## Overview

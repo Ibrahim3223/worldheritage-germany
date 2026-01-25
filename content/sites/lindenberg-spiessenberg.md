@@ -13,7 +13,7 @@ regions:
 latitude: 47.758562
 longitude: 8.433963
 images:
-  - "/images-sites/lindenberg-spiessenberg/01-589062e2-800w.webp"
+  - "/images/lindenberg-spiessenberg/01-589062e2-800w.webp"
 ---
 
 ## Overview

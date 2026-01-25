@@ -1,27 +1,49 @@
 ---
-title: "Burg Linz"
+title: Burg Linz
 date: 2026-01-23
 draft: false
-description: "castle in Linz am Rhein, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Linz am Rhein, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.566006
 longitude: 7.278684
-
-# Images
 images:
-  - "/images-sites/burg-linz/01-7515cf3f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg/1200px-Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg/1200px-Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/1200px-Burg_Linz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg/1200px-Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg/1200px-Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg
+image_srcset:
+  Zentralbibliothek Zürich - Linz - 991023566519705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg/400px-Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg/800px-Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg/1200px-Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg/1920px-Zentralbibliothek_Zürich_-_Linz_-_991023566519705501.jpg
+  Zentralbibliothek Zürich - Linz - 991023895569705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg/400px-Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg/800px-Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg/1200px-Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg/1920px-Zentralbibliothek_Zürich_-_Linz_-_991023895569705501.jpg
+  Burg Linz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/400px-Burg_Linz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/800px-Burg_Linz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/1200px-Burg_Linz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Linz.jpg/1920px-Burg_Linz.jpg
+  Zentralbibliothek Zürich - Linz - 991134624619705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg/400px-Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg/800px-Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg/1200px-Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg/1920px-Zentralbibliothek_Zürich_-_Linz_-_991134624619705501.jpg
+  Linz, Burg Linz, Luftaufnahme (2014).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg/400px-Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg/800px-Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg/1200px-Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg/1920px-Linz,_Burg_Linz,_Luftaufnahme_(2014).jpg
 ---
 
 ## Overview

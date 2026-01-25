@@ -1,27 +1,49 @@
 ---
-title: "Castra Regina"
+title: Castra Regina
 date: 2026-01-23
 draft: false
-description: "Roman legionary fortress at the site of modern Regensburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman legionary fortress at the site of modern Regensburg, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.020141
 longitude: 12.098614
-
-# Images
 images:
-  - "/images-sites/castra-regina/01-cf2e9d0b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Römisches_Kapitell_Regensburg_2014.JPG/1200px-Römisches_Kapitell_Regensburg_2014.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/August_2006_Regensburg_11.jpg/1200px-August_2006_Regensburg_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/August_2006_Regensburg_14.jpg/1200px-August_2006_Regensburg_14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/August_2006_Regensburg_8.jpg/1200px-August_2006_Regensburg_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburg_08_2006_2.jpg/1200px-Regensburg_08_2006_2.jpg
+image_srcset:
+  Römisches Kapitell Regensburg 2014.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Römisches_Kapitell_Regensburg_2014.JPG/400px-Römisches_Kapitell_Regensburg_2014.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Römisches_Kapitell_Regensburg_2014.JPG/800px-Römisches_Kapitell_Regensburg_2014.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Römisches_Kapitell_Regensburg_2014.JPG/1200px-Römisches_Kapitell_Regensburg_2014.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Römisches_Kapitell_Regensburg_2014.JPG/1920px-Römisches_Kapitell_Regensburg_2014.JPG
+  August 2006 Regensburg 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/August_2006_Regensburg_11.jpg/400px-August_2006_Regensburg_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/August_2006_Regensburg_11.jpg/800px-August_2006_Regensburg_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/August_2006_Regensburg_11.jpg/1200px-August_2006_Regensburg_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/August_2006_Regensburg_11.jpg/1920px-August_2006_Regensburg_11.jpg
+  August 2006 Regensburg 14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/August_2006_Regensburg_14.jpg/400px-August_2006_Regensburg_14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/August_2006_Regensburg_14.jpg/800px-August_2006_Regensburg_14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/August_2006_Regensburg_14.jpg/1200px-August_2006_Regensburg_14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/August_2006_Regensburg_14.jpg/1920px-August_2006_Regensburg_14.jpg
+  August 2006 Regensburg 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/August_2006_Regensburg_8.jpg/400px-August_2006_Regensburg_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/August_2006_Regensburg_8.jpg/800px-August_2006_Regensburg_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/August_2006_Regensburg_8.jpg/1200px-August_2006_Regensburg_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/August_2006_Regensburg_8.jpg/1920px-August_2006_Regensburg_8.jpg
+  Regensburg 08 2006 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburg_08_2006_2.jpg/400px-Regensburg_08_2006_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburg_08_2006_2.jpg/800px-Regensburg_08_2006_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburg_08_2006_2.jpg/1200px-Regensburg_08_2006_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburg_08_2006_2.jpg/1920px-Regensburg_08_2006_2.jpg
 ---
 
 ## Overview

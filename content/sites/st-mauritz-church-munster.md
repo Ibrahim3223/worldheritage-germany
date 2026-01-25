@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1443663"
 description: "St. Mauritz Church in Münster is a striking example of Gothic architecture, drawing the attention of both locals and visitors alike. This historic churc..."
 images:
-  - "/images-sites/st-mauritz-church-munster/01-b1207bf5-1920w.webp"
-  - "/images-sites/st-mauritz-church-munster/02-daba858b-1920w.webp"
-  - "/images-sites/st-mauritz-church-munster/03-6a770d1c-1920w.webp"
+  - "/images/st-mauritz-church-munster/01-b1207bf5-1920w.webp"
+  - "/images/st-mauritz-church-munster/02-daba858b-1920w.webp"
+  - "/images/st-mauritz-church-munster/03-6a770d1c-1920w.webp"
 ---
 
 ## Overview

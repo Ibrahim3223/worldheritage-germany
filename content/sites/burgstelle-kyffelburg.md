@@ -1,21 +1,31 @@
 ---
-title: "Burgstelle Kyffelburg"
+title: Burgstelle Kyffelburg
 date: 2026-01-23
 draft: false
-description: "Burg in Baden-Württemberg, Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Burg in Baden-Württemberg, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0909
 longitude: 7.96473
 images:
-  - "/images-sites/burgstelle-kyffelburg/01-a2a2f116-800w.webp"
-  - "/images-sites/burgstelle-kyffelburg/02-353d6bb7-800w.webp"
-  - "/images-sites/burgstelle-kyffelburg/03-8bf0ecd7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kyffelburg_Waldkirch.jpg/1200px-Kyffelburg_Waldkirch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Infotafel_05_-_Kyffelburg_Waldkirch.JPG/1200px-Infotafel_05_-_Kyffelburg_Waldkirch.JPG
+image_srcset:
+  Kyffelburg Waldkirch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kyffelburg_Waldkirch.jpg/400px-Kyffelburg_Waldkirch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kyffelburg_Waldkirch.jpg/800px-Kyffelburg_Waldkirch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kyffelburg_Waldkirch.jpg/1200px-Kyffelburg_Waldkirch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kyffelburg_Waldkirch.jpg/1920px-Kyffelburg_Waldkirch.jpg
+  Infotafel 05 - Kyffelburg Waldkirch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Infotafel_05_-_Kyffelburg_Waldkirch.JPG/400px-Infotafel_05_-_Kyffelburg_Waldkirch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Infotafel_05_-_Kyffelburg_Waldkirch.JPG/800px-Infotafel_05_-_Kyffelburg_Waldkirch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Infotafel_05_-_Kyffelburg_Waldkirch.JPG/1200px-Infotafel_05_-_Kyffelburg_Waldkirch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Infotafel_05_-_Kyffelburg_Waldkirch.JPG/1920px-Infotafel_05_-_Kyffelburg_Waldkirch.JPG
 ---
 
 ## Overview

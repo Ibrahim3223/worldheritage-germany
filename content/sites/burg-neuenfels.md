@@ -1,27 +1,49 @@
 ---
-title: "Burg Neuenfels"
+title: Burg Neuenfels
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.8183
 longitude: 7.6881
-
-# Images
 images:
-  - "/images-sites/burg-neuenfels/01-062d4972-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burgruine_Neuenfels_bei_Sulzburg_04.jpg/1200px-Burgruine_Neuenfels_bei_Sulzburg_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Neuenfels_02.JPG/1200px-Burg_Neuenfels_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/1200px-Burg_Neuenfels_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burg_Neuenfels_16.JPG/1200px-Burg_Neuenfels_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neuenfels_Zeichnung.jpg/1200px-Neuenfels_Zeichnung.jpg
+image_srcset:
+  Burgruine Neuenfels bei Sulzburg 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burgruine_Neuenfels_bei_Sulzburg_04.jpg/400px-Burgruine_Neuenfels_bei_Sulzburg_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burgruine_Neuenfels_bei_Sulzburg_04.jpg/800px-Burgruine_Neuenfels_bei_Sulzburg_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burgruine_Neuenfels_bei_Sulzburg_04.jpg/1200px-Burgruine_Neuenfels_bei_Sulzburg_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burgruine_Neuenfels_bei_Sulzburg_04.jpg/1920px-Burgruine_Neuenfels_bei_Sulzburg_04.jpg
+  Burg Neuenfels 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Neuenfels_02.JPG/400px-Burg_Neuenfels_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Neuenfels_02.JPG/800px-Burg_Neuenfels_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Neuenfels_02.JPG/1200px-Burg_Neuenfels_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Burg_Neuenfels_02.JPG/1920px-Burg_Neuenfels_02.JPG
+  Burg Neuenfels 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/400px-Burg_Neuenfels_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/800px-Burg_Neuenfels_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/1200px-Burg_Neuenfels_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Neuenfels_03.JPG/1920px-Burg_Neuenfels_03.JPG
+  Burg Neuenfels 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burg_Neuenfels_16.JPG/400px-Burg_Neuenfels_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burg_Neuenfels_16.JPG/800px-Burg_Neuenfels_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burg_Neuenfels_16.JPG/1200px-Burg_Neuenfels_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Burg_Neuenfels_16.JPG/1920px-Burg_Neuenfels_16.JPG
+  Neuenfels Zeichnung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neuenfels_Zeichnung.jpg/400px-Neuenfels_Zeichnung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neuenfels_Zeichnung.jpg/800px-Neuenfels_Zeichnung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neuenfels_Zeichnung.jpg/1200px-Neuenfels_Zeichnung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neuenfels_Zeichnung.jpg/1920px-Neuenfels_Zeichnung.jpg
 ---
 
 ## Overview

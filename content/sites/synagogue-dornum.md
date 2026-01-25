@@ -13,7 +13,7 @@ regions:
 latitude: 53.6477
 longitude: 7.42872
 images:
-  - "/images-sites/synagogue-dornum/01-d7af3269-800w.webp"
+  - "/images/synagogue-dornum/01-d7af3269-800w.webp"
 ---
 
 ## Overview

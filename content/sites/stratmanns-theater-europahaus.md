@@ -13,9 +13,9 @@ regions:
 latitude: 51.4561
 longitude: 7.01083
 images:
-  - "/images-sites/stratmanns-theater-europahaus/01-f5d7f842-800w.webp"
-  - "/images-sites/stratmanns-theater-europahaus/02-64d9483b-800w.webp"
-  - "/images-sites/stratmanns-theater-europahaus/03-5a1345eb-800w.webp"
+  - "/images/stratmanns-theater-europahaus/01-f5d7f842-800w.webp"
+  - "/images/stratmanns-theater-europahaus/02-64d9483b-800w.webp"
+  - "/images/stratmanns-theater-europahaus/03-5a1345eb-800w.webp"
 ---
 
 ## Overview

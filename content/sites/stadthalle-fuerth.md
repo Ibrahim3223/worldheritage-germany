@@ -13,7 +13,7 @@ regions:
 latitude: 49.47905
 longitude: 10.98322
 images:
-  - "/images-sites/stadthalle-fuerth/01-3bf2418e-800w.webp"
+  - "/images/stadthalle-fuerth/01-3bf2418e-800w.webp"
 ---
 
 ## Overview

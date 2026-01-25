@@ -1,19 +1,50 @@
 ---
-title: "Hüvener Mühle"
+title: Hüvener Mühle
 date: 2026-01-24
 draft: false
-description: "kombinierte Wind- und Wassermühle in der Gemeinde Hüven im Landkreis Emsland in Niedersachsen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Windmill"
+description: kombinierte Wind- und Wassermühle in der Gemeinde Hüven im Landkreis
+  Emsland in Niedersachsen
+region: Germany
+country: Germany
+heritage_type: Windmill
 categories:
-  - "Windmill"
+- Windmill
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7718
 longitude: 7.56428
 images:
-  - "/images-sites/huevener-muehle/01-1bf5f0d8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg/1200px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1200px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hüvener_Mühle-msu-2021-6-.jpg/1200px-Hüvener_Mühle-msu-2021-6-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hüvener-Mühle-msu-2021-.jpg/1200px-Hüvener-Mühle-msu-2021-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Huevener-Muehle.jpg/1200px-Huevener-Muehle.jpg
+image_srcset:
+  Hüven - Hüvener Mühle - Mühlenpark - Mühle 15 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg/400px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg/800px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg/1200px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg/1920px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_15_ies.jpg
+  Hüven - Hüvener Mühle - Mühlenpark - Mühle 32 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/400px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/800px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1200px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg/1920px-Hüven_-_Hüvener_Mühle_-_Mühlenpark_-_Mühle_32_ies.jpg
+  Hüvener Mühle-msu-2021-6-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hüvener_Mühle-msu-2021-6-.jpg/400px-Hüvener_Mühle-msu-2021-6-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hüvener_Mühle-msu-2021-6-.jpg/800px-Hüvener_Mühle-msu-2021-6-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hüvener_Mühle-msu-2021-6-.jpg/1200px-Hüvener_Mühle-msu-2021-6-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hüvener_Mühle-msu-2021-6-.jpg/1920px-Hüvener_Mühle-msu-2021-6-.jpg
+  Hüvener-Mühle-msu-2021-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hüvener-Mühle-msu-2021-.jpg/400px-Hüvener-Mühle-msu-2021-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hüvener-Mühle-msu-2021-.jpg/800px-Hüvener-Mühle-msu-2021-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hüvener-Mühle-msu-2021-.jpg/1200px-Hüvener-Mühle-msu-2021-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hüvener-Mühle-msu-2021-.jpg/1920px-Hüvener-Mühle-msu-2021-.jpg
+  Huevener-Muehle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Huevener-Muehle.jpg/400px-Huevener-Muehle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Huevener-Muehle.jpg/800px-Huevener-Muehle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Huevener-Muehle.jpg/1200px-Huevener-Muehle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Huevener-Muehle.jpg/1920px-Huevener-Muehle.jpg
 ---
 
 ## Overview

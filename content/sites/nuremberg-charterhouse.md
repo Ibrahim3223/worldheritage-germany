@@ -13,7 +13,7 @@ regions:
 latitude: 49.4481
 longitude: 11.0764
 images:
-  - "/images-sites/nuremberg-charterhouse/01-440b60d7-800w.webp"
+  - "/images/nuremberg-charterhouse/01-440b60d7-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2503642"
 description: "Uttumer Kirche stands as a significant example of Romanesque architecture in the quaint village of Uttum, located within the Krummhörn region of Germany..."
 images:
-  - "/images-sites/uttumer-kirche/01-45900af6-1920w.webp"
-  - "/images-sites/uttumer-kirche/02-2fb00b5a-1920w.webp"
-  - "/images-sites/uttumer-kirche/03-9df26a4e-1920w.webp"
+  - "/images/uttumer-kirche/01-45900af6-1920w.webp"
+  - "/images/uttumer-kirche/02-2fb00b5a-1920w.webp"
+  - "/images/uttumer-kirche/03-9df26a4e-1920w.webp"
 ---
 
 ## Overview

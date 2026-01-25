@@ -13,7 +13,7 @@ regions:
 latitude: 50.940833333
 longitude: 6.975
 images:
-  - "/images-sites/koeln-messedeutz-station/01-3683f0a3-800w.webp"
+  - "/images/koeln-messedeutz-station/01-3683f0a3-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bebelplatz"
+title: Bebelplatz
 date: 2026-01-23
 draft: false
-description: "square in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5164
 longitude: 13.3939
 images:
-  - "/images-sites/bebelplatz/01-0d86887e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg/1200px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/1200px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_Bebelplatz_asv2018-05_img3.jpg/1200px-Berlin_Bebelplatz_asv2018-05_img3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_State_Opera_2015_2.jpg/1200px-Berlin_State_Opera_2015_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg/1200px-General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg
+image_srcset:
+  Bebelplatz Berlin-Mitte at night 2021-01-17 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg/400px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg/800px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg/1200px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg/1920px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_01.jpg
+  Bebelplatz Berlin-Mitte at night 2021-01-17 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/400px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/800px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/1200px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/1920px-Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+  Berlin Bebelplatz asv2018-05 img3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_Bebelplatz_asv2018-05_img3.jpg/400px-Berlin_Bebelplatz_asv2018-05_img3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_Bebelplatz_asv2018-05_img3.jpg/800px-Berlin_Bebelplatz_asv2018-05_img3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_Bebelplatz_asv2018-05_img3.jpg/1200px-Berlin_Bebelplatz_asv2018-05_img3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_Bebelplatz_asv2018-05_img3.jpg/1920px-Berlin_Bebelplatz_asv2018-05_img3.jpg
+  Berlin State Opera 2015 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_State_Opera_2015_2.jpg/400px-Berlin_State_Opera_2015_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_State_Opera_2015_2.jpg/800px-Berlin_State_Opera_2015_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_State_Opera_2015_2.jpg/1200px-Berlin_State_Opera_2015_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_State_Opera_2015_2.jpg/1920px-Berlin_State_Opera_2015_2.jpg
+  General Graf Yorck von Wartenburg statue – Bust.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg/400px-General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg/800px-General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg/1200px-General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg/1920px-General_Graf_Yorck_von_Wartenburg_statue_–_Bust.jpg
 ---
 
 ## Overview

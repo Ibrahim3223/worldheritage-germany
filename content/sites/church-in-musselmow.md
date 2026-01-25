@@ -1,19 +1,50 @@
 ---
-title: "Church in Müsselmow"
-site_name: "Church in Müsselmow"
-slug: "church-in-musselmow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Müsselmow
+site_name: Church in Müsselmow
+slug: church-in-musselmow
+region: Mecklenburg-Vorpommern
 latitude: 53.681
 longitude: 11.6245
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244555"
-description: "The Church in Müsselmow stands as a striking example of Brick Gothic architecture, drawing attention with its robust structure and historical significan..."
+- cultural site
+wikidata_id: Q1244555
+description: The Church in Müsselmow stands as a striking example of Brick Gothic
+  architecture, drawing attention with its robust structure and historical significan...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG/1200px-M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Muesselmow%20Kirche%202009-04-16%20077.jpg/1200px-Muesselmow%20Kirche%202009-04-16%20077.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1200px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG/1200px-Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Muesselmow_Kirche_2009-04-16_077.jpg/1200px-Muesselmow_Kirche_2009-04-16_077.jpg
+image_srcset:
+  M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG/400px-M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG/800px-M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG/1200px-M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG/1920px-M%C3%BCsselmow%20Kirche%20Wandmalerei%202013-04-25%20344.JPG
+  Muesselmow%20Kirche%202009-04-16%20077.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Muesselmow%20Kirche%202009-04-16%20077.jpg/400px-Muesselmow%20Kirche%202009-04-16%20077.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Muesselmow%20Kirche%202009-04-16%20077.jpg/800px-Muesselmow%20Kirche%202009-04-16%20077.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Muesselmow%20Kirche%202009-04-16%20077.jpg/1200px-Muesselmow%20Kirche%202009-04-16%20077.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Muesselmow%20Kirche%202009-04-16%20077.jpg/1920px-Muesselmow%20Kirche%202009-04-16%20077.jpg
+  Müsselmow Kirche Wandmalerei 2013-04-25 344.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/400px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/800px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1200px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG/1920px-Müsselmow_Kirche_Wandmalerei_2013-04-25_344.JPG
+  Müsselmow Kirche Wandmalerei 2013-04-25 348.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG/400px-Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG/800px-Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG/1200px-Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG/1920px-Müsselmow_Kirche_Wandmalerei_2013-04-25_348.JPG
+  Muesselmow Kirche 2009-04-16 077.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Muesselmow_Kirche_2009-04-16_077.jpg/400px-Muesselmow_Kirche_2009-04-16_077.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Muesselmow_Kirche_2009-04-16_077.jpg/800px-Muesselmow_Kirche_2009-04-16_077.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Muesselmow_Kirche_2009-04-16_077.jpg/1200px-Muesselmow_Kirche_2009-04-16_077.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Muesselmow_Kirche_2009-04-16_077.jpg/1920px-Muesselmow_Kirche_2009-04-16_077.jpg
 ---
 
 ## Overview

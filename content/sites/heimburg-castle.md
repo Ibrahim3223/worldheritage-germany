@@ -1,27 +1,43 @@
 ---
-title: "Heimburg Castle"
+title: Heimburg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.0339
 longitude: 7.8066
-
-# Images
 images:
-  - "/images-sites/heimburg-castle/01-4e73a997-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lorch,_Heimbach_mit_Heimburg,_1895.jpg/1200px-Lorch,_Heimbach_mit_Heimburg,_1895.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg/1200px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenburg_Heimburg.jpg/1200px-Altenburg_Heimburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_from_Heimburg_Castle_looking_W_over_the_village.jpg/1200px-View_from_Heimburg_Castle_looking_W_over_the_village.jpg
+image_srcset:
+  Lorch, Heimbach mit Heimburg, 1895.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lorch,_Heimbach_mit_Heimburg,_1895.jpg/400px-Lorch,_Heimbach_mit_Heimburg,_1895.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lorch,_Heimbach_mit_Heimburg,_1895.jpg/800px-Lorch,_Heimbach_mit_Heimburg,_1895.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lorch,_Heimbach_mit_Heimburg,_1895.jpg/1200px-Lorch,_Heimbach_mit_Heimburg,_1895.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lorch,_Heimbach_mit_Heimburg,_1895.jpg/1920px-Lorch,_Heimbach_mit_Heimburg,_1895.jpg
+  Joseph Knippenberg, Rheinisches Bildarchiv, rba 225536 kni.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg/400px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg/800px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg/1200px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg/1920px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225536_kni.jpg
+  Altenburg Heimburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenburg_Heimburg.jpg/400px-Altenburg_Heimburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenburg_Heimburg.jpg/800px-Altenburg_Heimburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenburg_Heimburg.jpg/1200px-Altenburg_Heimburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altenburg_Heimburg.jpg/1920px-Altenburg_Heimburg.jpg
+  View from Heimburg Castle looking W over the village.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_from_Heimburg_Castle_looking_W_over_the_village.jpg/400px-View_from_Heimburg_Castle_looking_W_over_the_village.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_from_Heimburg_Castle_looking_W_over_the_village.jpg/800px-View_from_Heimburg_Castle_looking_W_over_the_village.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_from_Heimburg_Castle_looking_W_over_the_village.jpg/1200px-View_from_Heimburg_Castle_looking_W_over_the_village.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_from_Heimburg_Castle_looking_W_over_the_village.jpg/1920px-View_from_Heimburg_Castle_looking_W_over_the_village.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Demeljoch"
+title: Demeljoch
 date: 2026-01-23
 draft: false
-description: "mountain in the Vorkarwendel at the border Bavaria / Tyrol"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Vorkarwendel at the border Bavaria / Tyrol
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.546151
 longitude: 11.5864
 images:
-  - "/images-sites/demeljoch/01-aece97dd-800w.webp"
-  - "/images-sites/demeljoch/02-b702dc9e-800w.webp"
-  - "/images-sites/demeljoch/03-c2ae9204-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Boundary_stone_on_the_Demeljoch_-_1.jpg/1200px-Boundary_stone_on_the_Demeljoch_-_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demeljoch_and_Dürnbergjoch.jpg/1200px-Demeljoch_and_Dürnbergjoch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kuhkopf_Berg.jpg/1200px-Kuhkopf_Berg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Demeljoch.jpg/1200px-Demeljoch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Demeljoch_Nord.jpg/1200px-Demeljoch_Nord.jpg
+image_srcset:
+  Boundary stone on the Demeljoch - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Boundary_stone_on_the_Demeljoch_-_1.jpg/400px-Boundary_stone_on_the_Demeljoch_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Boundary_stone_on_the_Demeljoch_-_1.jpg/800px-Boundary_stone_on_the_Demeljoch_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Boundary_stone_on_the_Demeljoch_-_1.jpg/1200px-Boundary_stone_on_the_Demeljoch_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Boundary_stone_on_the_Demeljoch_-_1.jpg/1920px-Boundary_stone_on_the_Demeljoch_-_1.jpg
+  Demeljoch and Dürnbergjoch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demeljoch_and_Dürnbergjoch.jpg/400px-Demeljoch_and_Dürnbergjoch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demeljoch_and_Dürnbergjoch.jpg/800px-Demeljoch_and_Dürnbergjoch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demeljoch_and_Dürnbergjoch.jpg/1200px-Demeljoch_and_Dürnbergjoch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demeljoch_and_Dürnbergjoch.jpg/1920px-Demeljoch_and_Dürnbergjoch.jpg
+  Kuhkopf Berg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kuhkopf_Berg.jpg/400px-Kuhkopf_Berg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kuhkopf_Berg.jpg/800px-Kuhkopf_Berg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kuhkopf_Berg.jpg/1200px-Kuhkopf_Berg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kuhkopf_Berg.jpg/1920px-Kuhkopf_Berg.jpg
+  Demeljoch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Demeljoch.jpg/400px-Demeljoch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Demeljoch.jpg/800px-Demeljoch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Demeljoch.jpg/1200px-Demeljoch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Demeljoch.jpg/1920px-Demeljoch.jpg
+  Demeljoch Nord.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Demeljoch_Nord.jpg/400px-Demeljoch_Nord.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Demeljoch_Nord.jpg/800px-Demeljoch_Nord.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Demeljoch_Nord.jpg/1200px-Demeljoch_Nord.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Demeljoch_Nord.jpg/1920px-Demeljoch_Nord.jpg
 ---
 
 ## Overview

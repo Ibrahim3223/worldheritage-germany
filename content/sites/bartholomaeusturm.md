@@ -1,19 +1,49 @@
 ---
-title: "Bartholomäusturm"
+title: Bartholomäusturm
 date: 2026-01-24
 draft: false
-description: "church building in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: church building in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.975
 longitude: 11.0326
 images:
-  - "/images-sites/bartholomaeusturm/01-cdf4f750-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg/1200px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg/1200px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartholomäusturm_Erfurt_3-11.JPG/1200px-Bartholomäusturm_Erfurt_3-11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/1200px-Bartholomäusturm_Erfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Erfurt_Anger50-53_(Alter_Brunnen).jpg/1200px-Erfurt_Anger50-53_(Alter_Brunnen).jpg
+image_srcset:
+  Erfurt, Anger, Relief am Bartholomäuskirchturm...2H1A4217WI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg/400px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg/800px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg/1200px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg/1920px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm...2H1A4217WI.jpg
+  Erfurt, Anger, Relief am Bartholomäuskirchturm, 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg/400px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg/800px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg/1200px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg/1920px-Erfurt,_Anger,_Relief_am_Bartholomäuskirchturm,_001.jpg
+  Bartholomäusturm Erfurt 3-11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartholomäusturm_Erfurt_3-11.JPG/400px-Bartholomäusturm_Erfurt_3-11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartholomäusturm_Erfurt_3-11.JPG/800px-Bartholomäusturm_Erfurt_3-11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartholomäusturm_Erfurt_3-11.JPG/1200px-Bartholomäusturm_Erfurt_3-11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartholomäusturm_Erfurt_3-11.JPG/1920px-Bartholomäusturm_Erfurt_3-11.JPG
+  Bartholomäusturm Erfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/400px-Bartholomäusturm_Erfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/800px-Bartholomäusturm_Erfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/1200px-Bartholomäusturm_Erfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bartholomäusturm_Erfurt.jpg/1920px-Bartholomäusturm_Erfurt.jpg
+  Erfurt Anger50-53 (Alter Brunnen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Erfurt_Anger50-53_(Alter_Brunnen).jpg/400px-Erfurt_Anger50-53_(Alter_Brunnen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Erfurt_Anger50-53_(Alter_Brunnen).jpg/800px-Erfurt_Anger50-53_(Alter_Brunnen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Erfurt_Anger50-53_(Alter_Brunnen).jpg/1200px-Erfurt_Anger50-53_(Alter_Brunnen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Erfurt_Anger50-53_(Alter_Brunnen).jpg/1920px-Erfurt_Anger50-53_(Alter_Brunnen).jpg
 ---
 
 ## Overview

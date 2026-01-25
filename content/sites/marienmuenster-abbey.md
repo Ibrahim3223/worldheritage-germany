@@ -13,7 +13,7 @@ regions:
 latitude: 51.8317
 longitude: 9.21248
 images:
-  - "/images-sites/marienmuenster-abbey/01-c46dfb14-800w.webp"
+  - "/images/marienmuenster-abbey/01-c46dfb14-800w.webp"
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Corvinuskirche"
-site_name: "Corvinuskirche"
-slug: "corvinuskirche"
-region: "Lower Saxony"
-
-# Location
+title: Corvinuskirche
+site_name: Corvinuskirche
+slug: corvinuskirche
+region: Lower Saxony
 latitude: 52.4082
 longitude: 9.66144
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1135740"
-description: "In the heart of Hannover, Germany, lies Corvinuskirche, a striking example of modern ecclesiastical architecture. This Lutheran church stands out not on..."
+- church building
+- religious site
+wikidata_id: Q1135740
+description: In the heart of Hannover, Germany, lies Corvinuskirche, a striking example
+  of modern ecclesiastical architecture. This Lutheran church stands out not on...
 images:
-  - "/images-sites/corvinuskirche/01-7e59d7d5-1920w.webp"
-  - "/images-sites/corvinuskirche/02-cf24ba29-1920w.webp"
-  - "/images-sites/corvinuskirche/03-43d09d6f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Corvinuskirche%20St%C3%B6cken.jpg/1200px-Corvinuskirche%20St%C3%B6cken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG/1200px-Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg/1200px-Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Corvinuskirche_Hannover_Abriss_Kirchendach.jpg/1200px-Corvinuskirche_Hannover_Abriss_Kirchendach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Türgriff_Corvinuskirche_Hannover_Stöcken.JPG/1200px-Türgriff_Corvinuskirche_Hannover_Stöcken.JPG
+image_srcset:
+  Corvinuskirche%20St%C3%B6cken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Corvinuskirche%20St%C3%B6cken.jpg/400px-Corvinuskirche%20St%C3%B6cken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Corvinuskirche%20St%C3%B6cken.jpg/800px-Corvinuskirche%20St%C3%B6cken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Corvinuskirche%20St%C3%B6cken.jpg/1200px-Corvinuskirche%20St%C3%B6cken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Corvinuskirche%20St%C3%B6cken.jpg/1920px-Corvinuskirche%20St%C3%B6cken.jpg
+  Türgriff Corvinuskirche Hannover Stöcken II.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG/400px-Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG/800px-Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG/1200px-Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG/1920px-Türgriff_Corvinuskirche_Hannover_Stöcken_II.JPG
+  Corvinus-Kirche Erichshagen-Wölpe IMG 3426.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg/400px-Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg/800px-Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg/1200px-Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg/1920px-Corvinus-Kirche_Erichshagen-Wölpe_IMG_3426.jpg
+  Corvinuskirche Hannover Abriss Kirchendach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Corvinuskirche_Hannover_Abriss_Kirchendach.jpg/400px-Corvinuskirche_Hannover_Abriss_Kirchendach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Corvinuskirche_Hannover_Abriss_Kirchendach.jpg/800px-Corvinuskirche_Hannover_Abriss_Kirchendach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Corvinuskirche_Hannover_Abriss_Kirchendach.jpg/1200px-Corvinuskirche_Hannover_Abriss_Kirchendach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Corvinuskirche_Hannover_Abriss_Kirchendach.jpg/1920px-Corvinuskirche_Hannover_Abriss_Kirchendach.jpg
+  Türgriff Corvinuskirche Hannover Stöcken.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Türgriff_Corvinuskirche_Hannover_Stöcken.JPG/400px-Türgriff_Corvinuskirche_Hannover_Stöcken.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Türgriff_Corvinuskirche_Hannover_Stöcken.JPG/800px-Türgriff_Corvinuskirche_Hannover_Stöcken.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Türgriff_Corvinuskirche_Hannover_Stöcken.JPG/1200px-Türgriff_Corvinuskirche_Hannover_Stöcken.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Türgriff_Corvinuskirche_Hannover_Stöcken.JPG/1920px-Türgriff_Corvinuskirche_Hannover_Stöcken.JPG
 ---
 
 ## Overview

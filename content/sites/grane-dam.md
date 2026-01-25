@@ -1,19 +1,49 @@
 ---
-title: "Grane Dam"
+title: Grane Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.911566666
 longitude: 10.378441666
 images:
-  - "/images-sites/grane-dam/01-33095f40-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2021-08-15_133427_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133427_Langelsheim_Granetalsperre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2021-08-15_133507_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133507_Langelsheim_Granetalsperre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2021-08-15_133733_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133733_Langelsheim_Granetalsperre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2021-08-15_133848_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133848_Langelsheim_Granetalsperre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Granetalsperre.jpg/1200px-Granetalsperre.jpg
+image_srcset:
+  2021-08-15 133427 Langelsheim Granetalsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2021-08-15_133427_Langelsheim_Granetalsperre.jpg/400px-2021-08-15_133427_Langelsheim_Granetalsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2021-08-15_133427_Langelsheim_Granetalsperre.jpg/800px-2021-08-15_133427_Langelsheim_Granetalsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2021-08-15_133427_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133427_Langelsheim_Granetalsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2021-08-15_133427_Langelsheim_Granetalsperre.jpg/1920px-2021-08-15_133427_Langelsheim_Granetalsperre.jpg
+  2021-08-15 133507 Langelsheim Granetalsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2021-08-15_133507_Langelsheim_Granetalsperre.jpg/400px-2021-08-15_133507_Langelsheim_Granetalsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2021-08-15_133507_Langelsheim_Granetalsperre.jpg/800px-2021-08-15_133507_Langelsheim_Granetalsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2021-08-15_133507_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133507_Langelsheim_Granetalsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2021-08-15_133507_Langelsheim_Granetalsperre.jpg/1920px-2021-08-15_133507_Langelsheim_Granetalsperre.jpg
+  2021-08-15 133733 Langelsheim Granetalsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2021-08-15_133733_Langelsheim_Granetalsperre.jpg/400px-2021-08-15_133733_Langelsheim_Granetalsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2021-08-15_133733_Langelsheim_Granetalsperre.jpg/800px-2021-08-15_133733_Langelsheim_Granetalsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2021-08-15_133733_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133733_Langelsheim_Granetalsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2021-08-15_133733_Langelsheim_Granetalsperre.jpg/1920px-2021-08-15_133733_Langelsheim_Granetalsperre.jpg
+  2021-08-15 133848 Langelsheim Granetalsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2021-08-15_133848_Langelsheim_Granetalsperre.jpg/400px-2021-08-15_133848_Langelsheim_Granetalsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2021-08-15_133848_Langelsheim_Granetalsperre.jpg/800px-2021-08-15_133848_Langelsheim_Granetalsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2021-08-15_133848_Langelsheim_Granetalsperre.jpg/1200px-2021-08-15_133848_Langelsheim_Granetalsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2021-08-15_133848_Langelsheim_Granetalsperre.jpg/1920px-2021-08-15_133848_Langelsheim_Granetalsperre.jpg
+  Granetalsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Granetalsperre.jpg/400px-Granetalsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Granetalsperre.jpg/800px-Granetalsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Granetalsperre.jpg/1200px-Granetalsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Granetalsperre.jpg/1920px-Granetalsperre.jpg
 ---
 
 ## Overview

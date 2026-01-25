@@ -1,29 +1,43 @@
 ---
-title: "Burg Steinebach"
+title: Burg Steinebach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.612
 longitude: 7.80453
-
-# Images
 images:
-  - "/images-sites/burg-steinebach/01-5663e4c6-800w.webp"
-  - "/images-sites/burg-steinebach/02-01795008-800w.webp"
-  - "/images-sites/burg-steinebach/03-85948f33-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_over_Burg_Steinebach_Westerwald_Germany.jpg/1200px-View_over_Burg_Steinebach_Westerwald_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arch_of_Burg_Steinebach_Westerwald_Germany.jpg/1200px-Arch_of_Burg_Steinebach_Westerwald_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/1200px-Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/1200px-View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+image_srcset:
+  View over Burg Steinebach Westerwald Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_over_Burg_Steinebach_Westerwald_Germany.jpg/400px-View_over_Burg_Steinebach_Westerwald_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_over_Burg_Steinebach_Westerwald_Germany.jpg/800px-View_over_Burg_Steinebach_Westerwald_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_over_Burg_Steinebach_Westerwald_Germany.jpg/1200px-View_over_Burg_Steinebach_Westerwald_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_over_Burg_Steinebach_Westerwald_Germany.jpg/1920px-View_over_Burg_Steinebach_Westerwald_Germany.jpg
+  Arch of Burg Steinebach Westerwald Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arch_of_Burg_Steinebach_Westerwald_Germany.jpg/400px-Arch_of_Burg_Steinebach_Westerwald_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arch_of_Burg_Steinebach_Westerwald_Germany.jpg/800px-Arch_of_Burg_Steinebach_Westerwald_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arch_of_Burg_Steinebach_Westerwald_Germany.jpg/1200px-Arch_of_Burg_Steinebach_Westerwald_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arch_of_Burg_Steinebach_Westerwald_Germany.jpg/1920px-Arch_of_Burg_Steinebach_Westerwald_Germany.jpg
+  Closer View over Burg Steinebach from South Westerwald Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/400px-Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/800px-Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/1200px-Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/1920px-Closer_View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+  View over Burg Steinebach from South Westerwald Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/400px-View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/800px-View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/1200px-View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg/1920px-View_over_Burg_Steinebach_from_South_Westerwald_Germany.jpg
 ---
 
 ## Overview

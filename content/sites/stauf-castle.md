@@ -21,7 +21,7 @@ longitude: 8.02694
 
 # Images
 images:
-  - "/images-sites/stauf-castle/01-1442a8ec-800w.webp"
+  - "/images/stauf-castle/01-1442a8ec-800w.webp"
 ---
 
 ## Overview

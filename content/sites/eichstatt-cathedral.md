@@ -1,23 +1,50 @@
 ---
-title: "Eichstätt Cathedral"
-site_name: "Eichstätt Cathedral"
-slug: "eichstatt-cathedral"
-region: "Bavaria"
-
-# Location
+title: Eichstätt Cathedral
+site_name: Eichstätt Cathedral
+slug: eichstatt-cathedral
+region: Bavaria
 latitude: 48.8919228763653
 longitude: 11.1833823035637
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q252555"
-description: "Eichstätt Cathedral, a stunning example of Gothic architecture, serves as a prominent parish church in the heart of Eichstätt, Germany. Its striking bri..."
+- cultural site
+wikidata_id: Q252555
+description: Eichstätt Cathedral, a stunning example of Gothic architecture, serves
+  as a prominent parish church in the heart of Eichstätt, Germany. Its striking bri...
 images:
-  - "/images-sites/eichstatt-cathedral/01-3143c053-1920w.webp"
-  - "/images-sites/eichstatt-cathedral/02-3b7956eb-1920w.webp"
-  - "/images-sites/eichstatt-cathedral/03-a0cf657c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichstaett%20Cathedral.JPG/1200px-Eichstaett%20Cathedral.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/1200px-Dom_Eichstätt_-_031.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/1200px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/1200px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1200px-Eichstaett_Cathedral.JPG
+image_srcset:
+  Eichstaett%20Cathedral.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichstaett%20Cathedral.JPG/400px-Eichstaett%20Cathedral.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichstaett%20Cathedral.JPG/800px-Eichstaett%20Cathedral.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichstaett%20Cathedral.JPG/1200px-Eichstaett%20Cathedral.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichstaett%20Cathedral.JPG/1920px-Eichstaett%20Cathedral.JPG
+  Dom Eichstätt - 031.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/400px-Dom_Eichstätt_-_031.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/800px-Dom_Eichstätt_-_031.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/1200px-Dom_Eichstätt_-_031.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dom_Eichstätt_-_031.jpg/1920px-Dom_Eichstätt_-_031.jpg
+  Eichstätt, Dom, Grabplatten und Epitaphe-20160816-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/400px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/800px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/1200px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg/1920px-Eichstätt,_Dom,_Grabplatten_und_Epitaphe-20160816-002.jpg
+  Martinsgasse Eichstätt -Westeingang Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/400px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/800px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/1200px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Martinsgasse_Eichstätt_-Westeingang_Dom.jpg/1920px-Martinsgasse_Eichstätt_-Westeingang_Dom.jpg
+  Eichstaett Cathedral.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/400px-Eichstaett_Cathedral.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/800px-Eichstaett_Cathedral.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1200px-Eichstaett_Cathedral.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eichstaett_Cathedral.JPG/1920px-Eichstaett_Cathedral.JPG
 ---
 
 ## Overview

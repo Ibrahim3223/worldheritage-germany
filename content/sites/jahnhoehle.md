@@ -1,21 +1,49 @@
 ---
-title: "Jahnhöhle"
+title: Jahnhöhle
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5074
 longitude: 11.9568
 images:
-  - "/images-sites/jahnhoehle/01-b1cdae4a-800w.webp"
-  - "/images-sites/jahnhoehle/02-4323fcfb-800w.webp"
-  - "/images-sites/jahnhoehle/03-8ed50cfa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PlaqueCommemorativeGrotteJahn.jpg/1200px-PlaqueCommemorativeGrotteJahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SaaleDepuisGrotteJahn.jpg/1200px-SaaleDepuisGrotteJahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jahnhöhle.JPG/1200px-Jahnhöhle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Die_Gartenlaube_(1889)_b_705.jpg/1200px-Die_Gartenlaube_(1889)_b_705.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jahnshöhle.jpg/1200px-Jahnshöhle.jpg
+image_srcset:
+  PlaqueCommemorativeGrotteJahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PlaqueCommemorativeGrotteJahn.jpg/400px-PlaqueCommemorativeGrotteJahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PlaqueCommemorativeGrotteJahn.jpg/800px-PlaqueCommemorativeGrotteJahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PlaqueCommemorativeGrotteJahn.jpg/1200px-PlaqueCommemorativeGrotteJahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PlaqueCommemorativeGrotteJahn.jpg/1920px-PlaqueCommemorativeGrotteJahn.jpg
+  SaaleDepuisGrotteJahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SaaleDepuisGrotteJahn.jpg/400px-SaaleDepuisGrotteJahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SaaleDepuisGrotteJahn.jpg/800px-SaaleDepuisGrotteJahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SaaleDepuisGrotteJahn.jpg/1200px-SaaleDepuisGrotteJahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SaaleDepuisGrotteJahn.jpg/1920px-SaaleDepuisGrotteJahn.jpg
+  Jahnhöhle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jahnhöhle.JPG/400px-Jahnhöhle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jahnhöhle.JPG/800px-Jahnhöhle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jahnhöhle.JPG/1200px-Jahnhöhle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jahnhöhle.JPG/1920px-Jahnhöhle.JPG
+  Die Gartenlaube (1889) b 705.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Die_Gartenlaube_(1889)_b_705.jpg/400px-Die_Gartenlaube_(1889)_b_705.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Die_Gartenlaube_(1889)_b_705.jpg/800px-Die_Gartenlaube_(1889)_b_705.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Die_Gartenlaube_(1889)_b_705.jpg/1200px-Die_Gartenlaube_(1889)_b_705.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Die_Gartenlaube_(1889)_b_705.jpg/1920px-Die_Gartenlaube_(1889)_b_705.jpg
+  Jahnshöhle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jahnshöhle.jpg/400px-Jahnshöhle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jahnshöhle.jpg/800px-Jahnshöhle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jahnshöhle.jpg/1200px-Jahnshöhle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jahnshöhle.jpg/1920px-Jahnshöhle.jpg
 ---
 
 ## Overview

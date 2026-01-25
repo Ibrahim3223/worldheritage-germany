@@ -1,19 +1,50 @@
 ---
-title: "Cross Gate"
+title: Cross Gate
 date: 2026-01-23
 draft: false
-description: "was built in 1385, is the guard tower with seven small turrets and was the western gate of Ingolstadt Fortress"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: was built in 1385, is the guard tower with seven small turrets and was
+  the western gate of Ingolstadt Fortress
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7642
 longitude: 11.4179
 images:
-  - "/images-sites/cross-gate/01-e490c894-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/New_Cross_Gate_stn_signage_2010.JPG/1200px-New_Cross_Gate_stn_signage_2010.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg/1200px-New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/New_Cross_Gate_stn_building.JPG/1200px-New_Cross_Gate_stn_building.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Cross_Gate_stn_southbound_slow_look_south.JPG/1200px-New_Cross_Gate_stn_southbound_slow_look_south.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Cross_Gate_station.jpg/1200px-New_Cross_Gate_station.jpg
+image_srcset:
+  New Cross Gate stn signage 2010.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/New_Cross_Gate_stn_signage_2010.JPG/400px-New_Cross_Gate_stn_signage_2010.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/New_Cross_Gate_stn_signage_2010.JPG/800px-New_Cross_Gate_stn_signage_2010.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/New_Cross_Gate_stn_signage_2010.JPG/1200px-New_Cross_Gate_stn_signage_2010.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/New_Cross_Gate_stn_signage_2010.JPG/1920px-New_Cross_Gate_stn_signage_2010.JPG
+  New Cross Gate railway station, Greater London - geograph.org.uk - 5189068.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg/400px-New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg/800px-New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg/1200px-New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg/1920px-New_Cross_Gate_railway_station,_Greater_London_-_geograph.org.uk_-_5189068.jpg
+  New Cross Gate stn building.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/New_Cross_Gate_stn_building.JPG/400px-New_Cross_Gate_stn_building.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/New_Cross_Gate_stn_building.JPG/800px-New_Cross_Gate_stn_building.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/New_Cross_Gate_stn_building.JPG/1200px-New_Cross_Gate_stn_building.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/New_Cross_Gate_stn_building.JPG/1920px-New_Cross_Gate_stn_building.JPG
+  New Cross Gate stn southbound slow look south.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Cross_Gate_stn_southbound_slow_look_south.JPG/400px-New_Cross_Gate_stn_southbound_slow_look_south.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Cross_Gate_stn_southbound_slow_look_south.JPG/800px-New_Cross_Gate_stn_southbound_slow_look_south.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Cross_Gate_stn_southbound_slow_look_south.JPG/1200px-New_Cross_Gate_stn_southbound_slow_look_south.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/New_Cross_Gate_stn_southbound_slow_look_south.JPG/1920px-New_Cross_Gate_stn_southbound_slow_look_south.JPG
+  New Cross Gate station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Cross_Gate_station.jpg/400px-New_Cross_Gate_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Cross_Gate_station.jpg/800px-New_Cross_Gate_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Cross_Gate_station.jpg/1200px-New_Cross_Gate_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Cross_Gate_station.jpg/1920px-New_Cross_Gate_station.jpg
 ---
 
 ## Overview

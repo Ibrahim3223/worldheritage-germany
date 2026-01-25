@@ -1,21 +1,49 @@
 ---
-title: "Dom St.Peter und Paul in Brandenburg"
+title: Dom St.Peter und Paul in Brandenburg
 date: 2026-01-23
 draft: false
-description: "church building in Brandenburg state, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Pilgrimage Church"
+description: church building in Brandenburg state, Germany
+region: Germany
+country: Germany
+heritage_type: Pilgrimage Church
 categories:
-  - "Pilgrimage Church"
+- Pilgrimage Church
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4152
 longitude: 12.5674
 images:
-  - "/images-sites/dom-stpeter-und-paul-in-brandenburg/01-dbc655e7-800w.webp"
-  - "/images-sites/dom-stpeter-und-paul-in-brandenburg/02-7abdb88d-800w.webp"
-  - "/images-sites/dom-stpeter-und-paul-in-brandenburg/03-019e9278-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maria_von_Bredow_19.04.2025_02.jpg/1200px-Maria_von_Bredow_19.04.2025_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg/1200px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg/1200px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Maria_von_Bredow_19.04.2025_01.jpg/1200px-Maria_von_Bredow_19.04.2025_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg/1200px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg
+image_srcset:
+  Maria von Bredow 19.04.2025 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maria_von_Bredow_19.04.2025_02.jpg/400px-Maria_von_Bredow_19.04.2025_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maria_von_Bredow_19.04.2025_02.jpg/800px-Maria_von_Bredow_19.04.2025_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maria_von_Bredow_19.04.2025_02.jpg/1200px-Maria_von_Bredow_19.04.2025_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maria_von_Bredow_19.04.2025_02.jpg/1920px-Maria_von_Bredow_19.04.2025_02.jpg
+  Albrecht Ludwig Friedrich von Pappenheim 19.04.2025 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg/400px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg/800px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg/1200px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg/1920px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_02.jpg
+  Albrecht Ludwig Friedrich von Pappenheim 19.04.2025 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg/400px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg/800px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg/1200px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg/1920px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_01.jpg
+  Maria von Bredow 19.04.2025 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Maria_von_Bredow_19.04.2025_01.jpg/400px-Maria_von_Bredow_19.04.2025_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Maria_von_Bredow_19.04.2025_01.jpg/800px-Maria_von_Bredow_19.04.2025_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Maria_von_Bredow_19.04.2025_01.jpg/1200px-Maria_von_Bredow_19.04.2025_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Maria_von_Bredow_19.04.2025_01.jpg/1920px-Maria_von_Bredow_19.04.2025_01.jpg
+  Albrecht Ludwig Friedrich von Pappenheim 19.04.2025 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg/400px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg/800px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg/1200px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg/1920px-Albrecht_Ludwig_Friedrich_von_Pappenheim_19.04.2025_03.jpg
 ---
 
 ## Overview

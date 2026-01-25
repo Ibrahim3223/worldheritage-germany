@@ -1,23 +1,50 @@
 ---
-title: "Genezareth Church"
-site_name: "Genezareth Church"
-slug: "genezareth-church"
-region: "Berlin"
-
-# Location
+title: Genezareth Church
+site_name: Genezareth Church
+slug: genezareth-church
+region: Berlin
 latitude: 52.4771
 longitude: 13.422
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1502159"
-description: "Genezareth Church, a remarkable example of Gothic Revival architecture, graces the Neukölln district of Berlin, Germany. This church stands as a cultura..."
+- cultural site
+wikidata_id: Q1502159
+description: Genezareth Church, a remarkable example of Gothic Revival architecture,
+  graces the Neukölln district of Berlin, Germany. This church stands as a cultura...
 images:
-  - "/images-sites/genezareth-church/01-ec00c073-1920w.webp"
-  - "/images-sites/genezareth-church/02-c5319434-1920w.webp"
-  - "/images-sites/genezareth-church/03-db41e283-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Genezarethkirche%20Cafe.jpg/1200px-Genezarethkirche%20Cafe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1200px-Genezarethkirche_Cafe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Genezarethkirche_Chorseite.jpg/1200px-Genezarethkirche_Chorseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neukölln_Genazareth_Kirche_2.jpg/1200px-Neukölln_Genazareth_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin-Neukölln,_Genezarethkirche_(1).jpg/1200px-Berlin-Neukölln,_Genezarethkirche_(1).jpg
+image_srcset:
+  Genezarethkirche%20Cafe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Genezarethkirche%20Cafe.jpg/400px-Genezarethkirche%20Cafe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Genezarethkirche%20Cafe.jpg/800px-Genezarethkirche%20Cafe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Genezarethkirche%20Cafe.jpg/1200px-Genezarethkirche%20Cafe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Genezarethkirche%20Cafe.jpg/1920px-Genezarethkirche%20Cafe.jpg
+  Genezarethkirche Cafe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/400px-Genezarethkirche_Cafe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/800px-Genezarethkirche_Cafe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1200px-Genezarethkirche_Cafe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Genezarethkirche_Cafe.jpg/1920px-Genezarethkirche_Cafe.jpg
+  Genezarethkirche Chorseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Genezarethkirche_Chorseite.jpg/400px-Genezarethkirche_Chorseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Genezarethkirche_Chorseite.jpg/800px-Genezarethkirche_Chorseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Genezarethkirche_Chorseite.jpg/1200px-Genezarethkirche_Chorseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Genezarethkirche_Chorseite.jpg/1920px-Genezarethkirche_Chorseite.jpg
+  Neukölln Genazareth Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neukölln_Genazareth_Kirche_2.jpg/400px-Neukölln_Genazareth_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neukölln_Genazareth_Kirche_2.jpg/800px-Neukölln_Genazareth_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neukölln_Genazareth_Kirche_2.jpg/1200px-Neukölln_Genazareth_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Neukölln_Genazareth_Kirche_2.jpg/1920px-Neukölln_Genazareth_Kirche_2.jpg
+  Berlin-Neukölln, Genezarethkirche (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin-Neukölln,_Genezarethkirche_(1).jpg/400px-Berlin-Neukölln,_Genezarethkirche_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin-Neukölln,_Genezarethkirche_(1).jpg/800px-Berlin-Neukölln,_Genezarethkirche_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin-Neukölln,_Genezarethkirche_(1).jpg/1200px-Berlin-Neukölln,_Genezarethkirche_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin-Neukölln,_Genezarethkirche_(1).jpg/1920px-Berlin-Neukölln,_Genezarethkirche_(1).jpg
 ---
 
 ## Overview

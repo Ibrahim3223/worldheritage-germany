@@ -13,7 +13,7 @@ regions:
 latitude: 48.171493662
 longitude: 11.569673867
 images:
-  - "/images-sites/luitpoldpark/01-a59e6c5e-800w.webp"
+  - "/images/luitpoldpark/01-a59e6c5e-800w.webp"
 ---
 
 ## Overview

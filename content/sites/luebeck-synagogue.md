@@ -13,8 +13,8 @@ regions:
 latitude: 53.863
 longitude: 10.6896
 images:
-  - "/images-sites/luebeck-synagogue/02-2bd99462-800w.webp"
-  - "/images-sites/luebeck-synagogue/03-8a3c1ee1-800w.webp"
+  - "/images/luebeck-synagogue/02-2bd99462-800w.webp"
+  - "/images/luebeck-synagogue/03-8a3c1ee1-800w.webp"
 ---
 
 ## Overview

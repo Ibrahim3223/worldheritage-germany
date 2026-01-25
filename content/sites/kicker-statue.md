@@ -13,7 +13,7 @@ regions:
 latitude: 49.44909
 longitude: 11.087033
 images:
-  - "/images-sites/kicker-statue/01-3fec42c0-800w.webp"
+  - "/images/kicker-statue/01-3fec42c0-800w.webp"
 ---
 
 ## Overview

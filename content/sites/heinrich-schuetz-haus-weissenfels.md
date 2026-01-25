@@ -1,19 +1,49 @@
 ---
-title: "Heinrich-Schütz-Haus (Weißenfels)"
+title: Heinrich-Schütz-Haus (Weißenfels)
 date: 2026-01-23
 draft: false
-description: "museum in Weissenfels, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Weissenfels, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1996
 longitude: 11.9709
 images:
-  - "/images-sites/heinrich-schuetz-haus-weissenfels/01-3cebf6c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nikolaistraße_13_Weißenfels_20180315_001.jpg/1200px-Nikolaistraße_13_Weißenfels_20180315_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nikolaistraße_13_Weißenfels_20180730_001.jpg/1200px-Nikolaistraße_13_Weißenfels_20180730_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nikolaistraße_13_Weißenfels_20180730_003.jpg/1200px-Nikolaistraße_13_Weißenfels_20180730_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/1200px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schuetz_House_06_2014_02.JPG/1200px-Schuetz_House_06_2014_02.JPG
+image_srcset:
+  Nikolaistraße 13 Weißenfels 20180315 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nikolaistraße_13_Weißenfels_20180315_001.jpg/400px-Nikolaistraße_13_Weißenfels_20180315_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nikolaistraße_13_Weißenfels_20180315_001.jpg/800px-Nikolaistraße_13_Weißenfels_20180315_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nikolaistraße_13_Weißenfels_20180315_001.jpg/1200px-Nikolaistraße_13_Weißenfels_20180315_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nikolaistraße_13_Weißenfels_20180315_001.jpg/1920px-Nikolaistraße_13_Weißenfels_20180315_001.jpg
+  Nikolaistraße 13 Weißenfels 20180730 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nikolaistraße_13_Weißenfels_20180730_001.jpg/400px-Nikolaistraße_13_Weißenfels_20180730_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nikolaistraße_13_Weißenfels_20180730_001.jpg/800px-Nikolaistraße_13_Weißenfels_20180730_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nikolaistraße_13_Weißenfels_20180730_001.jpg/1200px-Nikolaistraße_13_Weißenfels_20180730_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nikolaistraße_13_Weißenfels_20180730_001.jpg/1920px-Nikolaistraße_13_Weißenfels_20180730_001.jpg
+  Nikolaistraße 13 Weißenfels 20180730 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nikolaistraße_13_Weißenfels_20180730_003.jpg/400px-Nikolaistraße_13_Weißenfels_20180730_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nikolaistraße_13_Weißenfels_20180730_003.jpg/800px-Nikolaistraße_13_Weißenfels_20180730_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nikolaistraße_13_Weißenfels_20180730_003.jpg/1200px-Nikolaistraße_13_Weißenfels_20180730_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nikolaistraße_13_Weißenfels_20180730_003.jpg/1920px-Nikolaistraße_13_Weißenfels_20180730_003.jpg
+  2015 Heinrich-Schütz-Haus Weißenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/400px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/800px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/1200px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015_Heinrich-Schütz-Haus_Weißenfels.jpg/1920px-2015_Heinrich-Schütz-Haus_Weißenfels.jpg
+  Schuetz House 06 2014 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schuetz_House_06_2014_02.JPG/400px-Schuetz_House_06_2014_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schuetz_House_06_2014_02.JPG/800px-Schuetz_House_06_2014_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schuetz_House_06_2014_02.JPG/1200px-Schuetz_House_06_2014_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Schuetz_House_06_2014_02.JPG/1920px-Schuetz_House_06_2014_02.JPG
 ---
 
 ## Overview

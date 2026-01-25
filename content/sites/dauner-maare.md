@@ -1,21 +1,49 @@
 ---
-title: "Dauner Maare"
+title: Dauner Maare
 date: 2026-01-23
 draft: false
-description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Rheinland-Pfalz, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.173333333
 longitude: 6.855833333
 images:
-  - "/images-sites/dauner-maare/01-750ce34d-800w.webp"
-  - "/images-sites/dauner-maare/02-1b212385-800w.webp"
-  - "/images-sites/dauner-maare/03-a2459e67-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg/1200px-Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg/1200px-Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg/1200px-Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maare.jpg/1200px-Maare.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SchalkenmehrenerMaar.jpg/1200px-SchalkenmehrenerMaar.jpg
+image_srcset:
+  Geopark Vulkaneifel, Gemündener Maar 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg/400px-Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg/800px-Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg/1200px-Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg/1920px-Geopark_Vulkaneifel,_Gemündener_Maar_01.jpg
+  Geopark Vulkaneifel, Gemündener Maar 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg/400px-Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg/800px-Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg/1200px-Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg/1920px-Geopark_Vulkaneifel,_Gemündener_Maar_02.jpg
+  Dauner Maare, Weinfelder Maar oder Totenmaar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg/400px-Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg/800px-Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg/1200px-Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg/1920px-Dauner_Maare,_Weinfelder_Maar_oder_Totenmaar.jpg
+  Maare.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maare.jpg/400px-Maare.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maare.jpg/800px-Maare.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maare.jpg/1200px-Maare.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Maare.jpg/1920px-Maare.jpg
+  SchalkenmehrenerMaar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SchalkenmehrenerMaar.jpg/400px-SchalkenmehrenerMaar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SchalkenmehrenerMaar.jpg/800px-SchalkenmehrenerMaar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SchalkenmehrenerMaar.jpg/1200px-SchalkenmehrenerMaar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/SchalkenmehrenerMaar.jpg/1920px-SchalkenmehrenerMaar.jpg
 ---
 
 ## Overview

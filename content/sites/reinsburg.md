@@ -13,7 +13,7 @@ regions:
 latitude: 50.769
 longitude: 10.9391
 images:
-  - "/images-sites/reinsburg/01-977659d0-800w.webp"
+  - "/images/reinsburg/01-977659d0-800w.webp"
 ---
 
 ## Overview

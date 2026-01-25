@@ -1,19 +1,49 @@
 ---
-title: "Cuxhavener Küstenheiden"
+title: Cuxhavener Küstenheiden
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8194
 longitude: 8.63056
 images:
-  - "/images-sites/cuxhavener-kuestenheiden/01-98a1ab49-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg/1200px-Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sympetrum_striolatum_3(loz).jpg/1200px-Sympetrum_striolatum_3(loz).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sympetrum_striolatum_1(loz).jpg/1200px-Sympetrum_striolatum_1(loz).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sympetrum_striolatum_4(loz).JPG/1200px-Sympetrum_striolatum_4(loz).JPG
+image_srcset:
+  Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg/400px-Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg/800px-Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg/1200px-Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg/1920px-Cuxhavener-Kuestenheiden-Panorama-2013-01.jpg
+  Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-032.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-032.jpg
+  Sympetrum striolatum 3(loz).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sympetrum_striolatum_3(loz).jpg/400px-Sympetrum_striolatum_3(loz).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sympetrum_striolatum_3(loz).jpg/800px-Sympetrum_striolatum_3(loz).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sympetrum_striolatum_3(loz).jpg/1200px-Sympetrum_striolatum_3(loz).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sympetrum_striolatum_3(loz).jpg/1920px-Sympetrum_striolatum_3(loz).jpg
+  Sympetrum striolatum 1(loz).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sympetrum_striolatum_1(loz).jpg/400px-Sympetrum_striolatum_1(loz).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sympetrum_striolatum_1(loz).jpg/800px-Sympetrum_striolatum_1(loz).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sympetrum_striolatum_1(loz).jpg/1200px-Sympetrum_striolatum_1(loz).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sympetrum_striolatum_1(loz).jpg/1920px-Sympetrum_striolatum_1(loz).jpg
+  Sympetrum striolatum 4(loz).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sympetrum_striolatum_4(loz).JPG/400px-Sympetrum_striolatum_4(loz).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sympetrum_striolatum_4(loz).JPG/800px-Sympetrum_striolatum_4(loz).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sympetrum_striolatum_4(loz).JPG/1200px-Sympetrum_striolatum_4(loz).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sympetrum_striolatum_4(loz).JPG/1920px-Sympetrum_striolatum_4(loz).JPG
 ---
 
 ## Overview

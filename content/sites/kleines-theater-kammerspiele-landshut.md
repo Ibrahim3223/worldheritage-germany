@@ -13,7 +13,7 @@ regions:
 latitude: 48.5392
 longitude: 12.1547
 images:
-  - "/images-sites/kleines-theater-kammerspiele-landshut/01-d6f02dea-800w.webp"
+  - "/images/kleines-theater-kammerspiele-landshut/01-d6f02dea-800w.webp"
 ---
 
 ## Overview

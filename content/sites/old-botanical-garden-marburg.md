@@ -21,7 +21,7 @@ longitude: 8.77236
 
 # Images
 images:
-  - "/images-sites/old-botanical-garden-marburg/01-afe1b656-800w.webp"
+  - "/images/old-botanical-garden-marburg/01-afe1b656-800w.webp"
 ---
 
 ## Overview

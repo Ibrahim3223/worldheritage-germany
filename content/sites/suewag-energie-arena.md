@@ -13,7 +13,7 @@ regions:
 latitude: 50.101223
 longitude: 8.527231
 images:
-  - "/images-sites/suewag-energie-arena/02-be20d7a6-800w.webp"
+  - "/images/suewag-energie-arena/02-be20d7a6-800w.webp"
 ---
 
 ## Overview

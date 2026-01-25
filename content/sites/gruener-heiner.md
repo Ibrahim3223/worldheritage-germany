@@ -1,19 +1,49 @@
 ---
-title: "Grüner Heiner"
+title: Grüner Heiner
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.830833333
 longitude: 9.097222222
 images:
-  - "/images-sites/gruener-heiner/01-4e3e8258-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Grüner_Heiner_von_der_Strohgäutrasse_01.jpg/1200px-Grüner_Heiner_von_der_Strohgäutrasse_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg/1200px-Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hirschlanden_Winter_2010.jpg/1200px-Hirschlanden_Winter_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blick_zum_"Grüner_Heiner"_-_panoramio.jpg/1200px-Blick_zum_"Grüner_Heiner"_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stuttgart_gruener_heiner_02.jpg/1200px-Stuttgart_gruener_heiner_02.jpg
+image_srcset:
+  Grüner Heiner von der Strohgäutrasse 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Grüner_Heiner_von_der_Strohgäutrasse_01.jpg/400px-Grüner_Heiner_von_der_Strohgäutrasse_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Grüner_Heiner_von_der_Strohgäutrasse_01.jpg/800px-Grüner_Heiner_von_der_Strohgäutrasse_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Grüner_Heiner_von_der_Strohgäutrasse_01.jpg/1200px-Grüner_Heiner_von_der_Strohgäutrasse_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Grüner_Heiner_von_der_Strohgäutrasse_01.jpg/1920px-Grüner_Heiner_von_der_Strohgäutrasse_01.jpg
+  Ausblick vom grünen Heiner Richtung Ditzingen - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg/400px-Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg/800px-Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg/1200px-Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg/1920px-Ausblick_vom_grünen_Heiner_Richtung_Ditzingen_-_panoramio.jpg
+  Hirschlanden Winter 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hirschlanden_Winter_2010.jpg/400px-Hirschlanden_Winter_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hirschlanden_Winter_2010.jpg/800px-Hirschlanden_Winter_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hirschlanden_Winter_2010.jpg/1200px-Hirschlanden_Winter_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hirschlanden_Winter_2010.jpg/1920px-Hirschlanden_Winter_2010.jpg
+  Blick zum "Grüner Heiner" - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blick_zum_"Grüner_Heiner"_-_panoramio.jpg/400px-Blick_zum_"Grüner_Heiner"_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blick_zum_"Grüner_Heiner"_-_panoramio.jpg/800px-Blick_zum_"Grüner_Heiner"_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blick_zum_"Grüner_Heiner"_-_panoramio.jpg/1200px-Blick_zum_"Grüner_Heiner"_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blick_zum_"Grüner_Heiner"_-_panoramio.jpg/1920px-Blick_zum_"Grüner_Heiner"_-_panoramio.jpg
+  Stuttgart gruener heiner 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stuttgart_gruener_heiner_02.jpg/400px-Stuttgart_gruener_heiner_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stuttgart_gruener_heiner_02.jpg/800px-Stuttgart_gruener_heiner_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stuttgart_gruener_heiner_02.jpg/1200px-Stuttgart_gruener_heiner_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stuttgart_gruener_heiner_02.jpg/1920px-Stuttgart_gruener_heiner_02.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Helgoländer Felssockel"
+title: Helgoländer Felssockel
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.183888888
 longitude: 7.87
 images:
-  - "/images-sites/helgolaender-felssockel/01-63828876-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1200px-Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Basstölpel-Portrait.jpg/1200px-Basstölpel-Portrait.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Robbennachwuchs_auf_Helgoland.jpg/1200px-Robbennachwuchs_auf_Helgoland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1200px-Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1200px-Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+image_srcset:
+  Helgoland - Blick vom Lummenfelsen zur Langen Anna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/400px-Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/800px-Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1200px-Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1920px-Helgoland_-_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+  Basstölpel-Portrait.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Basstölpel-Portrait.jpg/400px-Basstölpel-Portrait.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Basstölpel-Portrait.jpg/800px-Basstölpel-Portrait.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Basstölpel-Portrait.jpg/1200px-Basstölpel-Portrait.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Basstölpel-Portrait.jpg/1920px-Basstölpel-Portrait.jpg
+  Robbennachwuchs auf Helgoland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Robbennachwuchs_auf_Helgoland.jpg/400px-Robbennachwuchs_auf_Helgoland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Robbennachwuchs_auf_Helgoland.jpg/800px-Robbennachwuchs_auf_Helgoland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Robbennachwuchs_auf_Helgoland.jpg/1200px-Robbennachwuchs_auf_Helgoland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Robbennachwuchs_auf_Helgoland.jpg/1920px-Robbennachwuchs_auf_Helgoland.jpg
+  Blick vom Lummenfelsen zur Langen Anna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/400px-Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/800px-Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1200px-Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1920px-Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+  Abendlicher Blick vom Lummenfelsen zur Langen Anna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/400px-Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/800px-Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1200px-Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg/1920px-Abendlicher_Blick_vom_Lummenfelsen_zur_Langen_Anna.jpg
 ---
 
 ## Overview

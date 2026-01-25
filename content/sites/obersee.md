@@ -13,7 +13,7 @@ regions:
 latitude: 47.5161
 longitude: 12.9883
 images:
-  - "/images-sites/obersee/01-4b52be19-800w.webp"
+  - "/images/obersee/01-4b52be19-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Tierberg"
+title: Burg Tierberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2522
 longitude: 9.78684
-
-# Images
 images:
-  - "/images-sites/burg-tierberg/01-4943646e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BurgTierberg-msu-2024-0290-.jpg/1200px-BurgTierberg-msu-2024-0290-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg/1200px-Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2017-04-14_Burg_Tierberg_1.jpg/1200px-2017-04-14_Burg_Tierberg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schloss_Tierberg_170108.jpg/1200px-Schloss_Tierberg_170108.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/19880423Tierberg3.jpg/1200px-19880423Tierberg3.jpg
+image_srcset:
+  BurgTierberg-msu-2024-0290-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BurgTierberg-msu-2024-0290-.jpg/400px-BurgTierberg-msu-2024-0290-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BurgTierberg-msu-2024-0290-.jpg/800px-BurgTierberg-msu-2024-0290-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BurgTierberg-msu-2024-0290-.jpg/1200px-BurgTierberg-msu-2024-0290-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BurgTierberg-msu-2024-0290-.jpg/1920px-BurgTierberg-msu-2024-0290-.jpg
+  Landappbw 211832 1818 Blick über Weilersbach im Kochertal hinauf zur Burg Tierberg. Weilersbach mit Burg Tierberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg/400px-Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg/800px-Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg/1200px-Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg/1920px-Landappbw_211832_1818_Blick_über_Weilersbach_im_Kochertal_hinauf_zur_Burg_Tierberg._Weilersbach_mit_Burg_Tierberg.jpg
+  2017-04-14 Burg Tierberg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2017-04-14_Burg_Tierberg_1.jpg/400px-2017-04-14_Burg_Tierberg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2017-04-14_Burg_Tierberg_1.jpg/800px-2017-04-14_Burg_Tierberg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2017-04-14_Burg_Tierberg_1.jpg/1200px-2017-04-14_Burg_Tierberg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2017-04-14_Burg_Tierberg_1.jpg/1920px-2017-04-14_Burg_Tierberg_1.jpg
+  Schloss Tierberg 170108.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schloss_Tierberg_170108.jpg/400px-Schloss_Tierberg_170108.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schloss_Tierberg_170108.jpg/800px-Schloss_Tierberg_170108.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schloss_Tierberg_170108.jpg/1200px-Schloss_Tierberg_170108.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schloss_Tierberg_170108.jpg/1920px-Schloss_Tierberg_170108.jpg
+  19880423Tierberg3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/19880423Tierberg3.jpg/400px-19880423Tierberg3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/19880423Tierberg3.jpg/800px-19880423Tierberg3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/19880423Tierberg3.jpg/1200px-19880423Tierberg3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/19880423Tierberg3.jpg/1920px-19880423Tierberg3.jpg
 ---
 
 ## Overview

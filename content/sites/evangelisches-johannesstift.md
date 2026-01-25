@@ -1,27 +1,49 @@
 ---
-title: "Evangelisches Johannesstift"
+title: Evangelisches Johannesstift
 date: 2026-01-23
 draft: false
-description: "Berlin, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.570123
 longitude: 13.196888
-
-# Images
 images:
-  - "/images-sites/evangelisches-johannesstift/01-94376f91-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Apartment_building_Evangelisches_Johannesstift.jpg/1200px-Apartment_building_Evangelisches_Johannesstift.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Apartment_building_Evangelisches_Johannesstift_2.jpg/1200px-Apartment_building_Evangelisches_Johannesstift_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg/1200px-Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Offene_Berührung_Volkmar_Haase.jpg/1200px-Offene_Berührung_Volkmar_Haase.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1200px-Stiftskirche-Johannesstift.jpg
+image_srcset:
+  Apartment building Evangelisches Johannesstift.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Apartment_building_Evangelisches_Johannesstift.jpg/400px-Apartment_building_Evangelisches_Johannesstift.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Apartment_building_Evangelisches_Johannesstift.jpg/800px-Apartment_building_Evangelisches_Johannesstift.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Apartment_building_Evangelisches_Johannesstift.jpg/1200px-Apartment_building_Evangelisches_Johannesstift.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Apartment_building_Evangelisches_Johannesstift.jpg/1920px-Apartment_building_Evangelisches_Johannesstift.jpg
+  Apartment building Evangelisches Johannesstift 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Apartment_building_Evangelisches_Johannesstift_2.jpg/400px-Apartment_building_Evangelisches_Johannesstift_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Apartment_building_Evangelisches_Johannesstift_2.jpg/800px-Apartment_building_Evangelisches_Johannesstift_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Apartment_building_Evangelisches_Johannesstift_2.jpg/1200px-Apartment_building_Evangelisches_Johannesstift_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Apartment_building_Evangelisches_Johannesstift_2.jpg/1920px-Apartment_building_Evangelisches_Johannesstift_2.jpg
+  Skulptur Schönwalder Allee 26 (Haken) Offene Berührung&Volkmar Haase&1991.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg/400px-Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg/800px-Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg/1200px-Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg/1920px-Skulptur_Schönwalder_Allee_26_(Haken)_Offene_Berührung&Volkmar_Haase&1991.jpg
+  Offene Berührung Volkmar Haase.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Offene_Berührung_Volkmar_Haase.jpg/400px-Offene_Berührung_Volkmar_Haase.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Offene_Berührung_Volkmar_Haase.jpg/800px-Offene_Berührung_Volkmar_Haase.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Offene_Berührung_Volkmar_Haase.jpg/1200px-Offene_Berührung_Volkmar_Haase.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Offene_Berührung_Volkmar_Haase.jpg/1920px-Offene_Berührung_Volkmar_Haase.jpg
+  Stiftskirche-Johannesstift.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/400px-Stiftskirche-Johannesstift.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/800px-Stiftskirche-Johannesstift.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1200px-Stiftskirche-Johannesstift.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stiftskirche-Johannesstift.jpg/1920px-Stiftskirche-Johannesstift.jpg
 ---
 
 ## Overview

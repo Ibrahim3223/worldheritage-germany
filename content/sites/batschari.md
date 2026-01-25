@@ -1,19 +1,49 @@
 ---
-title: "Batschari"
+title: Batschari
 date: 2026-01-23
 draft: false
-description: "company"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: company
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 48.769298
 longitude: 8.23266
 images:
-  - "/images-sites/batschari/01-fe8163b5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg/1200px-Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1200px-Erdt_Illu1914_Batschari.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erdt_-_Batschari1_Jugend_1914.jpg/1200px-Erdt_-_Batschari1_Jugend_1914.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ivo_Puhonny_Sleipner_1927-11.jpg/1200px-Ivo_Puhonny_Sleipner_1927-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ivo_Puhonny_Sleipner_1927-10.jpg/1200px-Ivo_Puhonny_Sleipner_1927-10.jpg
+image_srcset:
+  Ivo Puhonny Batschari 1927-12 Das Fest ist da!.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg/400px-Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg/800px-Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg/1200px-Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg/1920px-Ivo_Puhonny_Batschari_1927-12_Das_Fest_ist_da!.jpg
+  Erdt Illu1914 Batschari.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/400px-Erdt_Illu1914_Batschari.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/800px-Erdt_Illu1914_Batschari.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1200px-Erdt_Illu1914_Batschari.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Erdt_Illu1914_Batschari.jpg/1920px-Erdt_Illu1914_Batschari.jpg
+  Erdt - Batschari1 Jugend 1914.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erdt_-_Batschari1_Jugend_1914.jpg/400px-Erdt_-_Batschari1_Jugend_1914.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erdt_-_Batschari1_Jugend_1914.jpg/800px-Erdt_-_Batschari1_Jugend_1914.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erdt_-_Batschari1_Jugend_1914.jpg/1200px-Erdt_-_Batschari1_Jugend_1914.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erdt_-_Batschari1_Jugend_1914.jpg/1920px-Erdt_-_Batschari1_Jugend_1914.jpg
+  Ivo Puhonny Sleipner 1927-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ivo_Puhonny_Sleipner_1927-11.jpg/400px-Ivo_Puhonny_Sleipner_1927-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ivo_Puhonny_Sleipner_1927-11.jpg/800px-Ivo_Puhonny_Sleipner_1927-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ivo_Puhonny_Sleipner_1927-11.jpg/1200px-Ivo_Puhonny_Sleipner_1927-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ivo_Puhonny_Sleipner_1927-11.jpg/1920px-Ivo_Puhonny_Sleipner_1927-11.jpg
+  Ivo Puhonny Sleipner 1927-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ivo_Puhonny_Sleipner_1927-10.jpg/400px-Ivo_Puhonny_Sleipner_1927-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ivo_Puhonny_Sleipner_1927-10.jpg/800px-Ivo_Puhonny_Sleipner_1927-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ivo_Puhonny_Sleipner_1927-10.jpg/1200px-Ivo_Puhonny_Sleipner_1927-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ivo_Puhonny_Sleipner_1927-10.jpg/1920px-Ivo_Puhonny_Sleipner_1927-10.jpg
 ---
 
 ## Overview

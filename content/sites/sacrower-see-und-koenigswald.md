@@ -13,7 +13,7 @@ regions:
 latitude: 52.4386488
 longitude: 13.0892634
 images:
-  - "/images-sites/sacrower-see-und-koenigswald/01-962fb021-800w.webp"
+  - "/images/sacrower-see-und-koenigswald/01-962fb021-800w.webp"
 ---
 
 ## Overview

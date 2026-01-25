@@ -1,29 +1,49 @@
 ---
-title: "GEOMAR Helmholtz Centre for Ocean Research Kiel"
+title: GEOMAR Helmholtz Centre for Ocean Research Kiel
 date: 2026-01-23
 draft: false
-description: "research institute in Kiel, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: research institute in Kiel, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.32723
 longitude: 10.18185
-
-# Images
 images:
-  - "/images-sites/geomar-helmholtz-centre-for-ocean-research-kiel/01-13fe5026-800w.webp"
-  - "/images-sites/geomar-helmholtz-centre-for-ocean-research-kiel/02-20828e38-800w.webp"
-  - "/images-sites/geomar-helmholtz-centre-for-ocean-research-kiel/03-9915b87b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2021-06-11_-_Seehund_Geomar_Kiel.jpg/1200px-2021-06-11_-_Seehund_Geomar_Kiel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg/1200px-GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEOMAR_am_Kieler_Ostufer_(2024).jpg/1200px-GEOMAR_am_Kieler_Ostufer_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/1200px-GEOMAR-Kiel_2016-03-23_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luftbildaufnahme_GEOMAR_Westufer.jpg/1200px-Luftbildaufnahme_GEOMAR_Westufer.jpg
+image_srcset:
+  2021-06-11 - Seehund Geomar Kiel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2021-06-11_-_Seehund_Geomar_Kiel.jpg/400px-2021-06-11_-_Seehund_Geomar_Kiel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2021-06-11_-_Seehund_Geomar_Kiel.jpg/800px-2021-06-11_-_Seehund_Geomar_Kiel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2021-06-11_-_Seehund_Geomar_Kiel.jpg/1200px-2021-06-11_-_Seehund_Geomar_Kiel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2021-06-11_-_Seehund_Geomar_Kiel.jpg/1920px-2021-06-11_-_Seehund_Geomar_Kiel.jpg
+  GEOMAR am Kieler Ostufer, Gebäude 8 (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg/400px-GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg/800px-GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg/1200px-GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg/1920px-GEOMAR_am_Kieler_Ostufer,_Gebäude_8_(2024).jpg
+  GEOMAR am Kieler Ostufer (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEOMAR_am_Kieler_Ostufer_(2024).jpg/400px-GEOMAR_am_Kieler_Ostufer_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEOMAR_am_Kieler_Ostufer_(2024).jpg/800px-GEOMAR_am_Kieler_Ostufer_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEOMAR_am_Kieler_Ostufer_(2024).jpg/1200px-GEOMAR_am_Kieler_Ostufer_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEOMAR_am_Kieler_Ostufer_(2024).jpg/1920px-GEOMAR_am_Kieler_Ostufer_(2024).jpg
+  GEOMAR-Kiel 2016-03-23 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/400px-GEOMAR-Kiel_2016-03-23_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/800px-GEOMAR-Kiel_2016-03-23_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/1200px-GEOMAR-Kiel_2016-03-23_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GEOMAR-Kiel_2016-03-23_01.jpg/1920px-GEOMAR-Kiel_2016-03-23_01.jpg
+  Luftbildaufnahme GEOMAR Westufer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luftbildaufnahme_GEOMAR_Westufer.jpg/400px-Luftbildaufnahme_GEOMAR_Westufer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luftbildaufnahme_GEOMAR_Westufer.jpg/800px-Luftbildaufnahme_GEOMAR_Westufer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luftbildaufnahme_GEOMAR_Westufer.jpg/1200px-Luftbildaufnahme_GEOMAR_Westufer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Luftbildaufnahme_GEOMAR_Westufer.jpg/1920px-Luftbildaufnahme_GEOMAR_Westufer.jpg
 ---
 
 ## Overview

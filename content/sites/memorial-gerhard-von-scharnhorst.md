@@ -13,7 +13,7 @@ regions:
 latitude: 0
 longitude: 0
 images:
-  - "/images-sites/memorial-gerhard-von-scharnhorst/01-17298dff-800w.webp"
+  - "/images/memorial-gerhard-von-scharnhorst/01-17298dff-800w.webp"
 ---
 
 ## Overview

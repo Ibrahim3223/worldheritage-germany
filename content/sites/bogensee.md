@@ -1,19 +1,49 @@
 ---
-title: "Bogensee"
+title: Bogensee
 date: 2026-01-23
 draft: false
-description: "lake in Wandlitz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Wandlitz, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.773
 longitude: 13.5308
 images:
-  - "/images-sites/bogensee/01-40481244-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lanke_Bogensee_lub_2023-08-11.jpg/1200px-Lanke_Bogensee_lub_2023-08-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bogensee,_Brandenburg,_Bild_3.jpg/1200px-Bogensee,_Brandenburg,_Bild_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bogensee.jpg/1200px-Bogensee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fotothek_df_pk_0000244_025_Sommer_1946.jpg/1200px-Fotothek_df_pk_0000244_025_Sommer_1946.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Karpfenteiche_Bogensee_Berlin-Buch.svg/1200px-Karpfenteiche_Bogensee_Berlin-Buch.svg.png
+image_srcset:
+  Lanke Bogensee lub 2023-08-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lanke_Bogensee_lub_2023-08-11.jpg/400px-Lanke_Bogensee_lub_2023-08-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lanke_Bogensee_lub_2023-08-11.jpg/800px-Lanke_Bogensee_lub_2023-08-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lanke_Bogensee_lub_2023-08-11.jpg/1200px-Lanke_Bogensee_lub_2023-08-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lanke_Bogensee_lub_2023-08-11.jpg/1920px-Lanke_Bogensee_lub_2023-08-11.jpg
+  Bogensee, Brandenburg, Bild 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bogensee,_Brandenburg,_Bild_3.jpg/400px-Bogensee,_Brandenburg,_Bild_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bogensee,_Brandenburg,_Bild_3.jpg/800px-Bogensee,_Brandenburg,_Bild_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bogensee,_Brandenburg,_Bild_3.jpg/1200px-Bogensee,_Brandenburg,_Bild_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bogensee,_Brandenburg,_Bild_3.jpg/1920px-Bogensee,_Brandenburg,_Bild_3.jpg
+  Bogensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bogensee.jpg/400px-Bogensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bogensee.jpg/800px-Bogensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bogensee.jpg/1200px-Bogensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bogensee.jpg/1920px-Bogensee.jpg
+  Fotothek df pk 0000244 025 Sommer 1946.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fotothek_df_pk_0000244_025_Sommer_1946.jpg/400px-Fotothek_df_pk_0000244_025_Sommer_1946.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fotothek_df_pk_0000244_025_Sommer_1946.jpg/800px-Fotothek_df_pk_0000244_025_Sommer_1946.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fotothek_df_pk_0000244_025_Sommer_1946.jpg/1200px-Fotothek_df_pk_0000244_025_Sommer_1946.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fotothek_df_pk_0000244_025_Sommer_1946.jpg/1920px-Fotothek_df_pk_0000244_025_Sommer_1946.jpg
+  Karpfenteiche Bogensee Berlin-Buch.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Karpfenteiche_Bogensee_Berlin-Buch.svg/400px-Karpfenteiche_Bogensee_Berlin-Buch.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Karpfenteiche_Bogensee_Berlin-Buch.svg/800px-Karpfenteiche_Bogensee_Berlin-Buch.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Karpfenteiche_Bogensee_Berlin-Buch.svg/1200px-Karpfenteiche_Bogensee_Berlin-Buch.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Karpfenteiche_Bogensee_Berlin-Buch.svg/1920px-Karpfenteiche_Bogensee_Berlin-Buch.svg.png
 ---
 
 ## Overview 

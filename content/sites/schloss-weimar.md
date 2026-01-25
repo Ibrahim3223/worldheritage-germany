@@ -21,9 +21,9 @@ longitude: 11.332222222
 
 # Images
 images:
-  - "/images-sites/schloss-weimar/01-8e081da8-800w.webp"
-  - "/images-sites/schloss-weimar/02-e157e53a-800w.webp"
-  - "/images-sites/schloss-weimar/03-831bcc04-800w.webp"
+  - "/images/schloss-weimar/01-8e081da8-800w.webp"
+  - "/images/schloss-weimar/02-e157e53a-800w.webp"
+  - "/images/schloss-weimar/03-831bcc04-800w.webp"
 ---
 
 ## Overview

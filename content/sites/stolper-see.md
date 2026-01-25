@@ -13,7 +13,7 @@ regions:
 latitude: 54.127288888
 longitude: 10.230955555
 images:
-  - "/images-sites/stolper-see/01-e40cb963-800w.webp"
+  - "/images/stolper-see/01-e40cb963-800w.webp"
 ---
 
 ## Overview

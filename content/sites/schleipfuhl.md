@@ -13,7 +13,7 @@ regions:
 latitude: 52.5283
 longitude: 13.6103
 images:
-  - "/images-sites/schleipfuhl/01-13867b40-800w.webp"
+  - "/images/schleipfuhl/01-13867b40-800w.webp"
 ---
 
 ## Overview

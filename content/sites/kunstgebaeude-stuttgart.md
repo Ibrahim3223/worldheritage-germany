@@ -13,7 +13,7 @@ regions:
 latitude: 48.7794
 longitude: 9.18111
 images:
-  - "/images-sites/kunstgebaeude-stuttgart/01-abc86a59-800w.webp"
+  - "/images/kunstgebaeude-stuttgart/01-abc86a59-800w.webp"
 ---
 
 ## Overview

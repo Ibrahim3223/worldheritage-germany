@@ -1,19 +1,49 @@
 ---
-title: "Apothekenmuseum (Bad Langensalza)"
+title: Apothekenmuseum (Bad Langensalza)
 date: 2026-01-23
 draft: false
-description: "Museum in Bad Langensalza"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Museum in Bad Langensalza
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.110058239
 longitude: 10.644448567
 images:
-  - "/images-sites/apothekenmuseum-bad-langensalza/01-ea089db1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thüringer_Apothekenmuseum.jpg/1200px-Thüringer_Apothekenmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LSZ2024-12-Apothekenmuseum.jpg/1200px-LSZ2024-12-Apothekenmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LangensalzaRosenthal.jpg/1200px-LangensalzaRosenthal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG/1200px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG/1200px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG
+image_srcset:
+  Thüringer Apothekenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thüringer_Apothekenmuseum.jpg/400px-Thüringer_Apothekenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thüringer_Apothekenmuseum.jpg/800px-Thüringer_Apothekenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thüringer_Apothekenmuseum.jpg/1200px-Thüringer_Apothekenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thüringer_Apothekenmuseum.jpg/1920px-Thüringer_Apothekenmuseum.jpg
+  LSZ2024-12-Apothekenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LSZ2024-12-Apothekenmuseum.jpg/400px-LSZ2024-12-Apothekenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LSZ2024-12-Apothekenmuseum.jpg/800px-LSZ2024-12-Apothekenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LSZ2024-12-Apothekenmuseum.jpg/1200px-LSZ2024-12-Apothekenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LSZ2024-12-Apothekenmuseum.jpg/1920px-LSZ2024-12-Apothekenmuseum.jpg
+  LangensalzaRosenthal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LangensalzaRosenthal.jpg/400px-LangensalzaRosenthal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LangensalzaRosenthal.jpg/800px-LangensalzaRosenthal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LangensalzaRosenthal.jpg/1200px-LangensalzaRosenthal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LangensalzaRosenthal.jpg/1920px-LangensalzaRosenthal.jpg
+  Apothekenmuseum Haus Rosenthal, Bad Langensalza 13.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG/400px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG/800px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG/1200px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG/1920px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_13.JPG
+  Apothekenmuseum Haus Rosenthal, Bad Langensalza 9.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG/400px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG/800px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG/1200px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG/1920px-Apothekenmuseum_Haus_Rosenthal,_Bad_Langensalza_9.JPG
 ---
 
 ## Overview

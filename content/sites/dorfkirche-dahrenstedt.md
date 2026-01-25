@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Dahrenstedt"
-site_name: "Dorfkirche Dahrenstedt"
-slug: "dorfkirche-dahrenstedt"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Dahrenstedt
+site_name: Dorfkirche Dahrenstedt
+slug: dorfkirche-dahrenstedt
+region: Brandenburg
 latitude: 52.5417
 longitude: 11.832
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244218"
-description: "Dorfkirche Dahrenstedt is a remarkable church building located in the Stendal region of Germany. This architectural gem showcases the elegance and intri..."
+- church building
+- religious site
+wikidata_id: Q1244218
+description: Dorfkirche Dahrenstedt is a remarkable church building located in the
+  Stendal region of Germany. This architectural gem showcases the elegance and intri...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dahrenstedt%20Dorfkirche.JPG/1200px-Dahrenstedt%20Dorfkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/L05_460_Dahrenstedt,_Kirche.jpg/1200px-L05_460_Dahrenstedt,_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/L05_462_Dahrenstedt,_Kirche.jpg/1200px-L05_462_Dahrenstedt,_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L05_461_Dahrenstedt,_Kirche.jpg/1200px-L05_461_Dahrenstedt,_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1200px-Dahrenstedt_Dorfkirche.JPG
+image_srcset:
+  Dahrenstedt%20Dorfkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dahrenstedt%20Dorfkirche.JPG/400px-Dahrenstedt%20Dorfkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dahrenstedt%20Dorfkirche.JPG/800px-Dahrenstedt%20Dorfkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dahrenstedt%20Dorfkirche.JPG/1200px-Dahrenstedt%20Dorfkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dahrenstedt%20Dorfkirche.JPG/1920px-Dahrenstedt%20Dorfkirche.JPG
+  L05 460 Dahrenstedt, Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/L05_460_Dahrenstedt,_Kirche.jpg/400px-L05_460_Dahrenstedt,_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/L05_460_Dahrenstedt,_Kirche.jpg/800px-L05_460_Dahrenstedt,_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/L05_460_Dahrenstedt,_Kirche.jpg/1200px-L05_460_Dahrenstedt,_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/L05_460_Dahrenstedt,_Kirche.jpg/1920px-L05_460_Dahrenstedt,_Kirche.jpg
+  L05 462 Dahrenstedt, Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/L05_462_Dahrenstedt,_Kirche.jpg/400px-L05_462_Dahrenstedt,_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/L05_462_Dahrenstedt,_Kirche.jpg/800px-L05_462_Dahrenstedt,_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/L05_462_Dahrenstedt,_Kirche.jpg/1200px-L05_462_Dahrenstedt,_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/L05_462_Dahrenstedt,_Kirche.jpg/1920px-L05_462_Dahrenstedt,_Kirche.jpg
+  L05 461 Dahrenstedt, Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L05_461_Dahrenstedt,_Kirche.jpg/400px-L05_461_Dahrenstedt,_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L05_461_Dahrenstedt,_Kirche.jpg/800px-L05_461_Dahrenstedt,_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L05_461_Dahrenstedt,_Kirche.jpg/1200px-L05_461_Dahrenstedt,_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L05_461_Dahrenstedt,_Kirche.jpg/1920px-L05_461_Dahrenstedt,_Kirche.jpg
+  Dahrenstedt Dorfkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/400px-Dahrenstedt_Dorfkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/800px-Dahrenstedt_Dorfkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1200px-Dahrenstedt_Dorfkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dahrenstedt_Dorfkirche.JPG/1920px-Dahrenstedt_Dorfkirche.JPG
 ---
 
 ## Overview

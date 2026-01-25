@@ -13,9 +13,9 @@ regions:
 latitude: 48.132287816
 longitude: 11.586504199
 images:
-  - "/images-sites/rhine-water-fountain/01-000214ce-800w.webp"
-  - "/images-sites/rhine-water-fountain/02-67f8f0ed-800w.webp"
-  - "/images-sites/rhine-water-fountain/03-2749bf67-800w.webp"
+  - "/images/rhine-water-fountain/01-000214ce-800w.webp"
+  - "/images/rhine-water-fountain/02-67f8f0ed-800w.webp"
+  - "/images/rhine-water-fountain/03-2749bf67-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bucher Brack-Bölsdorfer Haken"
+title: Bucher Brack-Bölsdorfer Haken
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.494166666
 longitude: 12.001944444
 images:
-  - "/images-sites/bucher-brack-boelsdorfer-haken/01-d6e0578c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mistel_in_Pappel_02.jpg/1200px-Mistel_in_Pappel_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Feuchtwiese_am_Abend.jpg/1200px-Feuchtwiese_am_Abend.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Elbwiese_am_Abend_NSG_0043.jpg/1200px-Elbwiese_am_Abend_NSG_0043.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bucher_Brack,_Klietznick.jpg/1200px-Bucher_Brack,_Klietznick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Beobachtungsturm_Bucher_Brack_01.jpg/1200px-Beobachtungsturm_Bucher_Brack_01.jpg
+image_srcset:
+  Mistel in Pappel 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mistel_in_Pappel_02.jpg/400px-Mistel_in_Pappel_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mistel_in_Pappel_02.jpg/800px-Mistel_in_Pappel_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mistel_in_Pappel_02.jpg/1200px-Mistel_in_Pappel_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mistel_in_Pappel_02.jpg/1920px-Mistel_in_Pappel_02.jpg
+  Feuchtwiese am Abend.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Feuchtwiese_am_Abend.jpg/400px-Feuchtwiese_am_Abend.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Feuchtwiese_am_Abend.jpg/800px-Feuchtwiese_am_Abend.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Feuchtwiese_am_Abend.jpg/1200px-Feuchtwiese_am_Abend.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Feuchtwiese_am_Abend.jpg/1920px-Feuchtwiese_am_Abend.jpg
+  Elbwiese am Abend NSG 0043.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Elbwiese_am_Abend_NSG_0043.jpg/400px-Elbwiese_am_Abend_NSG_0043.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Elbwiese_am_Abend_NSG_0043.jpg/800px-Elbwiese_am_Abend_NSG_0043.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Elbwiese_am_Abend_NSG_0043.jpg/1200px-Elbwiese_am_Abend_NSG_0043.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Elbwiese_am_Abend_NSG_0043.jpg/1920px-Elbwiese_am_Abend_NSG_0043.jpg
+  Bucher Brack, Klietznick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bucher_Brack,_Klietznick.jpg/400px-Bucher_Brack,_Klietznick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bucher_Brack,_Klietznick.jpg/800px-Bucher_Brack,_Klietznick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bucher_Brack,_Klietznick.jpg/1200px-Bucher_Brack,_Klietznick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bucher_Brack,_Klietznick.jpg/1920px-Bucher_Brack,_Klietznick.jpg
+  Beobachtungsturm Bucher Brack 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Beobachtungsturm_Bucher_Brack_01.jpg/400px-Beobachtungsturm_Bucher_Brack_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Beobachtungsturm_Bucher_Brack_01.jpg/800px-Beobachtungsturm_Bucher_Brack_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Beobachtungsturm_Bucher_Brack_01.jpg/1200px-Beobachtungsturm_Bucher_Brack_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Beobachtungsturm_Bucher_Brack_01.jpg/1920px-Beobachtungsturm_Bucher_Brack_01.jpg
 ---
 
 ## Overview

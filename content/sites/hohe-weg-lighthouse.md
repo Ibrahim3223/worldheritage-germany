@@ -1,19 +1,49 @@
 ---
-title: "Hohe Weg Lighthouse"
+title: Hohe Weg Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.70194444
 longitude: 8.235
 images:
-  - "/images-sites/hohe-weg-lighthouse/01-bebc21c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg/1200px-2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lighthouse_Hoher_Weg_by_low_tide_03.jpg/1200px-Lighthouse_Hoher_Weg_by_low_tide_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg/1200px-2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg
+image_srcset:
+  2012-05-13 Nordsee-Luftbilder DSCF8627.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg/400px-2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg/800px-2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg/1200px-2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg/1920px-2012-05-13_Nordsee-Luftbilder_DSCF8627.jpg
+  Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-D90 041.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_041.jpg
+  Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-D90 040.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-D90_040.jpg
+  Lighthouse Hoher Weg by low tide 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lighthouse_Hoher_Weg_by_low_tide_03.jpg/400px-Lighthouse_Hoher_Weg_by_low_tide_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lighthouse_Hoher_Weg_by_low_tide_03.jpg/800px-Lighthouse_Hoher_Weg_by_low_tide_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lighthouse_Hoher_Weg_by_low_tide_03.jpg/1200px-Lighthouse_Hoher_Weg_by_low_tide_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Lighthouse_Hoher_Weg_by_low_tide_03.jpg/1920px-Lighthouse_Hoher_Weg_by_low_tide_03.jpg
+  2023 Leuchtturm Hohe Weg - by 2eight - 9SC8781.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg/400px-2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg/800px-2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg/1200px-2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg/1920px-2023_Leuchtturm_Hohe_Weg_-_by_2eight_-_9SC8781.jpg
 ---
 
 ## Overview

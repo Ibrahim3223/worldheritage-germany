@@ -1,19 +1,49 @@
 ---
-title: "Büsum Lighthouse"
+title: Büsum Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.12684
 longitude: 8.85825
 images:
-  - "/images-sites/buesum-lighthouse/01-a57e28b2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Buesum_Leuchtturm-02.jpg/1200px-Buesum_Leuchtturm-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Buesum_Leuchtturm_Illumination-02.jpg/1200px-Buesum_Leuchtturm_Illumination-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Leuchtturm_mit_Schiffen.JPG/1200px-Leuchtturm_mit_Schiffen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Leuchtturm_buesum.jpg/1200px-Leuchtturm_buesum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Büsumer_Leuchtturm_(4156381493).jpg/1200px-Büsumer_Leuchtturm_(4156381493).jpg
+image_srcset:
+  Buesum Leuchtturm-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Buesum_Leuchtturm-02.jpg/400px-Buesum_Leuchtturm-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Buesum_Leuchtturm-02.jpg/800px-Buesum_Leuchtturm-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Buesum_Leuchtturm-02.jpg/1200px-Buesum_Leuchtturm-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Buesum_Leuchtturm-02.jpg/1920px-Buesum_Leuchtturm-02.jpg
+  Buesum Leuchtturm Illumination-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Buesum_Leuchtturm_Illumination-02.jpg/400px-Buesum_Leuchtturm_Illumination-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Buesum_Leuchtturm_Illumination-02.jpg/800px-Buesum_Leuchtturm_Illumination-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Buesum_Leuchtturm_Illumination-02.jpg/1200px-Buesum_Leuchtturm_Illumination-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Buesum_Leuchtturm_Illumination-02.jpg/1920px-Buesum_Leuchtturm_Illumination-02.jpg
+  Leuchtturm mit Schiffen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Leuchtturm_mit_Schiffen.JPG/400px-Leuchtturm_mit_Schiffen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Leuchtturm_mit_Schiffen.JPG/800px-Leuchtturm_mit_Schiffen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Leuchtturm_mit_Schiffen.JPG/1200px-Leuchtturm_mit_Schiffen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Leuchtturm_mit_Schiffen.JPG/1920px-Leuchtturm_mit_Schiffen.JPG
+  Leuchtturm buesum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Leuchtturm_buesum.jpg/400px-Leuchtturm_buesum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Leuchtturm_buesum.jpg/800px-Leuchtturm_buesum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Leuchtturm_buesum.jpg/1200px-Leuchtturm_buesum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Leuchtturm_buesum.jpg/1920px-Leuchtturm_buesum.jpg
+  Büsumer Leuchtturm (4156381493).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Büsumer_Leuchtturm_(4156381493).jpg/400px-Büsumer_Leuchtturm_(4156381493).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Büsumer_Leuchtturm_(4156381493).jpg/800px-Büsumer_Leuchtturm_(4156381493).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Büsumer_Leuchtturm_(4156381493).jpg/1200px-Büsumer_Leuchtturm_(4156381493).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Büsumer_Leuchtturm_(4156381493).jpg/1920px-Büsumer_Leuchtturm_(4156381493).jpg
 ---
 
 ## Overview

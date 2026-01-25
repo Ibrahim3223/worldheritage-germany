@@ -13,7 +13,7 @@ regions:
 latitude: 50.4617
 longitude: 12.0735
 images:
-  - "/images-sites/rittergut-kuerbitz/01-a1254ed5-800w.webp"
+  - "/images/rittergut-kuerbitz/01-a1254ed5-800w.webp"
 ---
 
 ## Overview

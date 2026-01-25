@@ -13,7 +13,7 @@ regions:
 latitude: 48.5212
 longitude: 13.3196
 images:
-  - "/images-sites/kloster-fuerstenzell/01-23392b3e-800w.webp"
+  - "/images/kloster-fuerstenzell/01-23392b3e-800w.webp"
 ---
 
 ## Overview

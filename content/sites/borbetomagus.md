@@ -1,27 +1,49 @@
 ---
-title: "Borbetomagus"
+title: Borbetomagus
 date: 2026-01-23
 draft: false
-description: "archaeological site"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: archaeological site
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.630359
 longitude: 8.3588465
-
-# Images
 images:
-  - "/images-sites/borbetomagus/01-dd49ac93-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg/1200px-Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg/1200px-Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heyls-Schlößchen_Worms.jpg/1200px-Heyls-Schlößchen_Worms.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Don_Dietrich_&_Jim_Sauter12.jpg/1200px-Don_Dietrich_&_Jim_Sauter12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rathaus_Worms_Hagenstrasse_2018.jpg/1200px-Rathaus_Worms_Hagenstrasse_2018.jpg
+image_srcset:
+  Nibelungenbrücke mit Dom, Rhein, Rheinpromenade und Innenstadt Worms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg/400px-Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg/800px-Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg/1200px-Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg/1920px-Nibelungenbrücke_mit_Dom,_Rhein,_Rheinpromenade_und_Innenstadt_Worms.jpg
+  Ernst-Ludwig-Schule hinter den Rhein in Worms, Deutschland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg/400px-Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg/800px-Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg/1200px-Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg/1920px-Ernst-Ludwig-Schule_hinter_den_Rhein_in_Worms,_Deutschland.jpg
+  Heyls-Schlößchen Worms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heyls-Schlößchen_Worms.jpg/400px-Heyls-Schlößchen_Worms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heyls-Schlößchen_Worms.jpg/800px-Heyls-Schlößchen_Worms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heyls-Schlößchen_Worms.jpg/1200px-Heyls-Schlößchen_Worms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Heyls-Schlößchen_Worms.jpg/1920px-Heyls-Schlößchen_Worms.jpg
+  Don Dietrich & Jim Sauter12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Don_Dietrich_&_Jim_Sauter12.jpg/400px-Don_Dietrich_&_Jim_Sauter12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Don_Dietrich_&_Jim_Sauter12.jpg/800px-Don_Dietrich_&_Jim_Sauter12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Don_Dietrich_&_Jim_Sauter12.jpg/1200px-Don_Dietrich_&_Jim_Sauter12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Don_Dietrich_&_Jim_Sauter12.jpg/1920px-Don_Dietrich_&_Jim_Sauter12.jpg
+  Rathaus Worms Hagenstrasse 2018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rathaus_Worms_Hagenstrasse_2018.jpg/400px-Rathaus_Worms_Hagenstrasse_2018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rathaus_Worms_Hagenstrasse_2018.jpg/800px-Rathaus_Worms_Hagenstrasse_2018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rathaus_Worms_Hagenstrasse_2018.jpg/1200px-Rathaus_Worms_Hagenstrasse_2018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rathaus_Worms_Hagenstrasse_2018.jpg/1920px-Rathaus_Worms_Hagenstrasse_2018.jpg
 ---
 
 ## Overview

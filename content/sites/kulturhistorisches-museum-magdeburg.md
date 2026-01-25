@@ -13,7 +13,7 @@ regions:
 latitude: 52.1256
 longitude: 11.6295
 images:
-  - "/images-sites/kulturhistorisches-museum-magdeburg/01-70c510d7-800w.webp"
+  - "/images/kulturhistorisches-museum-magdeburg/01-70c510d7-800w.webp"
 ---
 
 ## Overview

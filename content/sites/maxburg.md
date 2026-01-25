@@ -13,8 +13,8 @@ regions:
 latitude: 48.1402
 longitude: 11.5698
 images:
-  - "/images-sites/maxburg/02-b1906a17-800w.webp"
-  - "/images-sites/maxburg/03-4fa678a0-800w.webp"
+  - "/images/maxburg/02-b1906a17-800w.webp"
+  - "/images/maxburg/03-4fa678a0-800w.webp"
 ---
 
 ## Overview

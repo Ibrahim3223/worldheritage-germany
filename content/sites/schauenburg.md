@@ -21,7 +21,7 @@ longitude: 10.5556
 
 # Images
 images:
-  - "/images-sites/schauenburg/01-5c60660a-800w.webp"
+  - "/images/schauenburg/01-5c60660a-800w.webp"
 ---
 
 ## Overview

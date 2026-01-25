@@ -1,24 +1,51 @@
 ---
-title: "Alte Inselkirche"
-site_name: "Alte Inselkirche"
-slug: "alte-inselkirche"
-region: "Lower Saxony"
-
-# Location
+title: Alte Inselkirche
+site_name: Alte Inselkirche
+slug: alte-inselkirche
+region: Lower Saxony
 latitude: 53.7702
 longitude: 7.69545
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q435642"
-description: "The Alte Inselkirche, a striking church building located on the tranquil island of Spiekeroog in Germany, offers visitors a glimpse into the serene beau..."
+- church building
+- religious site
+wikidata_id: Q435642
+description: The Alte Inselkirche, a striking church building located on the tranquil
+  island of Spiekeroog in Germany, offers visitors a glimpse into the serene beau...
 images:
-  - "/images-sites/alte-inselkirche/01-f629b8f1-1920w.webp"
-  - "/images-sites/alte-inselkirche/02-2a94004e-1920w.webp"
-  - "/images-sites/alte-inselkirche/03-5b04ee44-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansicht%20vom%20S%C3%BCderloog.jpg/1200px-Ansicht%20vom%20S%C3%BCderloog.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alte_Inselkirche_Spiekeroog_(2).jpg/1200px-Alte_Inselkirche_Spiekeroog_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alte_Inselkirche_Innenansicht.jpg/1200px-Alte_Inselkirche_Innenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baltrum_Alte_Inselkirche.JPG/1200px-Baltrum_Alte_Inselkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alte_Inselkirche_und_Inselglocke.jpg/1200px-Alte_Inselkirche_und_Inselglocke.jpg
+image_srcset:
+  Ansicht%20vom%20S%C3%BCderloog.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansicht%20vom%20S%C3%BCderloog.jpg/400px-Ansicht%20vom%20S%C3%BCderloog.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansicht%20vom%20S%C3%BCderloog.jpg/800px-Ansicht%20vom%20S%C3%BCderloog.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansicht%20vom%20S%C3%BCderloog.jpg/1200px-Ansicht%20vom%20S%C3%BCderloog.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ansicht%20vom%20S%C3%BCderloog.jpg/1920px-Ansicht%20vom%20S%C3%BCderloog.jpg
+  Alte Inselkirche Spiekeroog (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alte_Inselkirche_Spiekeroog_(2).jpg/400px-Alte_Inselkirche_Spiekeroog_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alte_Inselkirche_Spiekeroog_(2).jpg/800px-Alte_Inselkirche_Spiekeroog_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alte_Inselkirche_Spiekeroog_(2).jpg/1200px-Alte_Inselkirche_Spiekeroog_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alte_Inselkirche_Spiekeroog_(2).jpg/1920px-Alte_Inselkirche_Spiekeroog_(2).jpg
+  Alte Inselkirche Innenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alte_Inselkirche_Innenansicht.jpg/400px-Alte_Inselkirche_Innenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alte_Inselkirche_Innenansicht.jpg/800px-Alte_Inselkirche_Innenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alte_Inselkirche_Innenansicht.jpg/1200px-Alte_Inselkirche_Innenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alte_Inselkirche_Innenansicht.jpg/1920px-Alte_Inselkirche_Innenansicht.jpg
+  Baltrum Alte Inselkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baltrum_Alte_Inselkirche.JPG/400px-Baltrum_Alte_Inselkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baltrum_Alte_Inselkirche.JPG/800px-Baltrum_Alte_Inselkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baltrum_Alte_Inselkirche.JPG/1200px-Baltrum_Alte_Inselkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Baltrum_Alte_Inselkirche.JPG/1920px-Baltrum_Alte_Inselkirche.JPG
+  Alte Inselkirche und Inselglocke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alte_Inselkirche_und_Inselglocke.jpg/400px-Alte_Inselkirche_und_Inselglocke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alte_Inselkirche_und_Inselglocke.jpg/800px-Alte_Inselkirche_und_Inselglocke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alte_Inselkirche_und_Inselglocke.jpg/1200px-Alte_Inselkirche_und_Inselglocke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alte_Inselkirche_und_Inselglocke.jpg/1920px-Alte_Inselkirche_und_Inselglocke.jpg
 ---
 
 ## Overview

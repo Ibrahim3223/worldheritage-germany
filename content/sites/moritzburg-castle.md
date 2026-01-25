@@ -21,7 +21,7 @@ longitude: 13.679611111
 
 # Images
 images:
-  - "/images-sites/moritzburg-castle/01-36a3063e-800w.webp"
+  - "/images/moritzburg-castle/01-36a3063e-800w.webp"
 ---
 
 ## Overview

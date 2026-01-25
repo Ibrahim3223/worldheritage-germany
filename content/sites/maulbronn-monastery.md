@@ -13,7 +13,7 @@ regions:
 latitude: 49.0011
 longitude: 8.8129
 images:
-  - "/images-sites/maulbronn-monastery/01-0f8f2bcd-800w.webp"
+  - "/images/maulbronn-monastery/01-0f8f2bcd-800w.webp"
 ---
 
 ## Overview

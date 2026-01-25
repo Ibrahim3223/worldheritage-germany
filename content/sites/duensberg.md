@@ -1,27 +1,49 @@
 ---
-title: "Dünsberg"
+title: Dünsberg
 date: 2026-01-23
 draft: false
-description: "mountain"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.650605555
 longitude: 8.580569444
-
-# Images
 images:
-  - "/images-sites/duensberg/01-48e3336a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rimberg-Panorama_2014.jpg/1200px-Rimberg-Panorama_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dünsberg_von_Burg_Gleiberg.jpg/1200px-Dünsberg_von_Burg_Gleiberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG/1200px-Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg/1200px-Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duensberg_Nebel.jpg/1200px-Duensberg_Nebel.jpg
+image_srcset:
+  Rimberg-Panorama 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rimberg-Panorama_2014.jpg/400px-Rimberg-Panorama_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rimberg-Panorama_2014.jpg/800px-Rimberg-Panorama_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rimberg-Panorama_2014.jpg/1200px-Rimberg-Panorama_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rimberg-Panorama_2014.jpg/1920px-Rimberg-Panorama_2014.jpg
+  Dünsberg von Burg Gleiberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dünsberg_von_Burg_Gleiberg.jpg/400px-Dünsberg_von_Burg_Gleiberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dünsberg_von_Burg_Gleiberg.jpg/800px-Dünsberg_von_Burg_Gleiberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dünsberg_von_Burg_Gleiberg.jpg/1200px-Dünsberg_von_Burg_Gleiberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dünsberg_von_Burg_Gleiberg.jpg/1920px-Dünsberg_von_Burg_Gleiberg.jpg
+  Dünsberg vom Radweg Lollar-Giessen (2) 2015-11-26.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG/400px-Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG/800px-Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG/1200px-Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG/1920px-Dünsberg_vom_Radweg_Lollar-Giessen_(2)_2015-11-26.JPG
+  Duensberg von Glauberg 325 SAM 0937 20200506.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg/400px-Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg/800px-Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg/1200px-Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg/1920px-Duensberg_von_Glauberg_325_SAM_0937_20200506.jpg
+  Duensberg Nebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duensberg_Nebel.jpg/400px-Duensberg_Nebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duensberg_Nebel.jpg/800px-Duensberg_Nebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duensberg_Nebel.jpg/1200px-Duensberg_Nebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duensberg_Nebel.jpg/1920px-Duensberg_Nebel.jpg
 ---
 
 ## Overview

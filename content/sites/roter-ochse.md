@@ -13,7 +13,7 @@ regions:
 latitude: 51.4916
 longitude: 11.9604
 images:
-  - "/images-sites/roter-ochse/01-b65c1aab-800w.webp"
+  - "/images/roter-ochse/01-b65c1aab-800w.webp"
 ---
 
 ## Overview

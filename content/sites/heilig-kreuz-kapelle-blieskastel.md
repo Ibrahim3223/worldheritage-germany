@@ -1,19 +1,49 @@
 ---
-title: "Heilig-Kreuz-Kapelle (Blieskastel)"
+title: Heilig-Kreuz-Kapelle (Blieskastel)
 date: 2026-01-23
 draft: false
-description: "chapel in Blieskastel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: chapel in Blieskastel, Germany
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 49.2408
 longitude: 7.25877
 images:
-  - "/images-sites/heilig-kreuz-kapelle-blieskastel/01-28a2ffbf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg/1200px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg/1200px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blieskastel_Heilig-Kreuz-Kapelle_03.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blieskastel_Heilig-Kreuz-Kapelle_04.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_04.JPG
+image_srcset:
+  20210409 Heilig-Kreuz-Kapelle Blieskastel 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg/400px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg/800px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg/1200px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg/1920px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_01.jpg
+  20210409 Heilig-Kreuz-Kapelle Blieskastel 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg/400px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg/800px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg/1200px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg/1920px-20210409_Heilig-Kreuz-Kapelle_Blieskastel_02.jpg
+  Blieskastel Heilig-Kreuz-Kapelle 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/400px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/800px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blieskastel_Heilig-Kreuz-Kapelle_02.JPG/1920px-Blieskastel_Heilig-Kreuz-Kapelle_02.JPG
+  Blieskastel Heilig-Kreuz-Kapelle 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blieskastel_Heilig-Kreuz-Kapelle_03.JPG/400px-Blieskastel_Heilig-Kreuz-Kapelle_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blieskastel_Heilig-Kreuz-Kapelle_03.JPG/800px-Blieskastel_Heilig-Kreuz-Kapelle_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blieskastel_Heilig-Kreuz-Kapelle_03.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blieskastel_Heilig-Kreuz-Kapelle_03.JPG/1920px-Blieskastel_Heilig-Kreuz-Kapelle_03.JPG
+  Blieskastel Heilig-Kreuz-Kapelle 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blieskastel_Heilig-Kreuz-Kapelle_04.JPG/400px-Blieskastel_Heilig-Kreuz-Kapelle_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blieskastel_Heilig-Kreuz-Kapelle_04.JPG/800px-Blieskastel_Heilig-Kreuz-Kapelle_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blieskastel_Heilig-Kreuz-Kapelle_04.JPG/1200px-Blieskastel_Heilig-Kreuz-Kapelle_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blieskastel_Heilig-Kreuz-Kapelle_04.JPG/1920px-Blieskastel_Heilig-Kreuz-Kapelle_04.JPG
 ---
 
 ## Overview

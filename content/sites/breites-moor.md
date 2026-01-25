@@ -1,19 +1,49 @@
 ---
-title: "Breites Moor"
+title: Breites Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6964
 longitude: 10.1772
 images:
-  - "/images-sites/breites-moor/01-d57e3764-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Breites_Moor_7867.jpg/1200px-Breites_Moor_7867.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breites_Moor_bei_Eschede.JPG/1200px-Breites_Moor_bei_Eschede.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1200px-Breites_Moor_bei_Eschede_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seerosen_7054.jpg/1200px-Seerosen_7054.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birkenporling_Fomitopsis_betulina_1_7883.jpg/1200px-Birkenporling_Fomitopsis_betulina_1_7883.jpg
+image_srcset:
+  Breites Moor 7867.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Breites_Moor_7867.jpg/400px-Breites_Moor_7867.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Breites_Moor_7867.jpg/800px-Breites_Moor_7867.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Breites_Moor_7867.jpg/1200px-Breites_Moor_7867.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Breites_Moor_7867.jpg/1920px-Breites_Moor_7867.jpg
+  Breites Moor bei Eschede.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breites_Moor_bei_Eschede.JPG/400px-Breites_Moor_bei_Eschede.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breites_Moor_bei_Eschede.JPG/800px-Breites_Moor_bei_Eschede.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breites_Moor_bei_Eschede.JPG/1200px-Breites_Moor_bei_Eschede.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Breites_Moor_bei_Eschede.JPG/1920px-Breites_Moor_bei_Eschede.JPG
+  Breites Moor bei Eschede 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/400px-Breites_Moor_bei_Eschede_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/800px-Breites_Moor_bei_Eschede_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1200px-Breites_Moor_bei_Eschede_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Breites_Moor_bei_Eschede_16.JPG/1920px-Breites_Moor_bei_Eschede_16.JPG
+  Seerosen 7054.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seerosen_7054.jpg/400px-Seerosen_7054.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seerosen_7054.jpg/800px-Seerosen_7054.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seerosen_7054.jpg/1200px-Seerosen_7054.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seerosen_7054.jpg/1920px-Seerosen_7054.jpg
+  Birkenporling Fomitopsis betulina 1 7883.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birkenporling_Fomitopsis_betulina_1_7883.jpg/400px-Birkenporling_Fomitopsis_betulina_1_7883.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birkenporling_Fomitopsis_betulina_1_7883.jpg/800px-Birkenporling_Fomitopsis_betulina_1_7883.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birkenporling_Fomitopsis_betulina_1_7883.jpg/1200px-Birkenporling_Fomitopsis_betulina_1_7883.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Birkenporling_Fomitopsis_betulina_1_7883.jpg/1920px-Birkenporling_Fomitopsis_betulina_1_7883.jpg
 ---
 
 ## Overview

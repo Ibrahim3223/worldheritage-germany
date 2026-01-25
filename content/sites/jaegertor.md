@@ -1,21 +1,49 @@
 ---
-title: "Jägertor"
+title: Jägertor
 date: 2026-01-23
 draft: false
-description: "Potsdam city gate, former city exit leading to Jägerhof"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: Potsdam city gate, former city exit leading to Jägerhof
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4025614
 longitude: 13.0526785
 images:
-  - "/images-sites/jaegertor/01-bec97c1b-800w.webp"
-  - "/images-sites/jaegertor/02-82e02578-800w.webp"
-  - "/images-sites/jaegertor/03-30469599-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potsdam_Jägertor_625.jpg/1200px-Potsdam_Jägertor_625.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Potsdam,_das_Jägertor_(Telefoto).jpg/1200px-Potsdam,_das_Jägertor_(Telefoto).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1200px-Potsdam_Jaegertor_07-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jagertor_-_panoramio.jpg/1200px-Jagertor_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg/1200px-Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg
+image_srcset:
+  Potsdam Jägertor 625.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potsdam_Jägertor_625.jpg/400px-Potsdam_Jägertor_625.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potsdam_Jägertor_625.jpg/800px-Potsdam_Jägertor_625.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potsdam_Jägertor_625.jpg/1200px-Potsdam_Jägertor_625.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Potsdam_Jägertor_625.jpg/1920px-Potsdam_Jägertor_625.jpg
+  Potsdam, das Jägertor (Telefoto).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Potsdam,_das_Jägertor_(Telefoto).jpg/400px-Potsdam,_das_Jägertor_(Telefoto).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Potsdam,_das_Jägertor_(Telefoto).jpg/800px-Potsdam,_das_Jägertor_(Telefoto).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Potsdam,_das_Jägertor_(Telefoto).jpg/1200px-Potsdam,_das_Jägertor_(Telefoto).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Potsdam,_das_Jägertor_(Telefoto).jpg/1920px-Potsdam,_das_Jägertor_(Telefoto).jpg
+  Potsdam Jaegertor 07-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/400px-Potsdam_Jaegertor_07-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/800px-Potsdam_Jaegertor_07-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1200px-Potsdam_Jaegertor_07-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Potsdam_Jaegertor_07-2017.jpg/1920px-Potsdam_Jaegertor_07-2017.jpg
+  Jagertor - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jagertor_-_panoramio.jpg/400px-Jagertor_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jagertor_-_panoramio.jpg/800px-Jagertor_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jagertor_-_panoramio.jpg/1200px-Jagertor_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jagertor_-_panoramio.jpg/1920px-Jagertor_-_panoramio.jpg
+  Bundesarchiv Bild 170-313, Potsdam, Jägertor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg/400px-Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg/800px-Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg/1200px-Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg/1920px-Bundesarchiv_Bild_170-313,_Potsdam,_Jägertor.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.9478
 longitude: 10.7092
 images:
-  - "/images-sites/winterpalais-gotha/01-f7834b3b-800w.webp"
+  - "/images/winterpalais-gotha/01-f7834b3b-800w.webp"
 ---
 
 ## Overview

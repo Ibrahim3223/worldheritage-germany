@@ -1,29 +1,49 @@
 ---
-title: "Ernst Barlach House"
+title: Ernst Barlach House
 date: 2026-01-23
 draft: false
-description: "art museum in Hamburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.55361111
 longitude: 9.8675
-
-# Images
 images:
-  - "/images-sites/ernst-barlach-house/01-bbc42be7-800w.webp"
-  - "/images-sites/ernst-barlach-house/02-013204b8-800w.webp"
-  - "/images-sites/ernst-barlach-house/03-25a55cf7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ernst-Barlach-Haus_Atrium.jpg/1200px-Ernst-Barlach-Haus_Atrium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg/1200px-Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ernst_Barlach_Hamburg.jpg/1200px-Ernst_Barlach_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1200px-Hh-ernst-barlach-haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Barlach_Dassow.jpg/1200px-Barlach_Dassow.jpg
+image_srcset:
+  Ernst-Barlach-Haus Atrium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ernst-Barlach-Haus_Atrium.jpg/400px-Ernst-Barlach-Haus_Atrium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ernst-Barlach-Haus_Atrium.jpg/800px-Ernst-Barlach-Haus_Atrium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ernst-Barlach-Haus_Atrium.jpg/1200px-Ernst-Barlach-Haus_Atrium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ernst-Barlach-Haus_Atrium.jpg/1920px-Ernst-Barlach-Haus_Atrium.jpg
+  Der Sänger und Frau im Wind (Ernst Barlach).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg/400px-Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg/800px-Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg/1200px-Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg/1920px-Der_Sänger_und_Frau_im_Wind_(Ernst_Barlach).jpg
+  Ernst Barlach Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ernst_Barlach_Hamburg.jpg/400px-Ernst_Barlach_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ernst_Barlach_Hamburg.jpg/800px-Ernst_Barlach_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ernst_Barlach_Hamburg.jpg/1200px-Ernst_Barlach_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ernst_Barlach_Hamburg.jpg/1920px-Ernst_Barlach_Hamburg.jpg
+  Hh-ernst-barlach-haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/400px-Hh-ernst-barlach-haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/800px-Hh-ernst-barlach-haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1200px-Hh-ernst-barlach-haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hh-ernst-barlach-haus.jpg/1920px-Hh-ernst-barlach-haus.jpg
+  Barlach Dassow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Barlach_Dassow.jpg/400px-Barlach_Dassow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Barlach_Dassow.jpg/800px-Barlach_Dassow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Barlach_Dassow.jpg/1200px-Barlach_Dassow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Barlach_Dassow.jpg/1920px-Barlach_Dassow.jpg
 ---
 
 ## Overview

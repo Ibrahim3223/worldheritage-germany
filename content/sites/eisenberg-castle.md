@@ -1,19 +1,49 @@
 ---
-title: "Eisenberg Castle"
+title: Eisenberg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.612777777
 longitude: 10.590277777
 images:
-  - "/images-sites/eisenberg-castle/01-71ce69a2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg-Eisenberg-JR-E-5419-2021-06-29.jpg/1200px-Burg-Eisenberg-JR-E-5419-2021-06-29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Burg-Eisenberg-JR-E-5426-2021-06-29.jpg/1200px-Burg-Eisenberg-JR-E-5426-2021-06-29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Burg-Eisenberg-JR-E-4623-2020-06-25.jpg/1200px-Burg-Eisenberg-JR-E-4623-2020-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Eisenberg-JR-E-4767-2020-06-25.jpg/1200px-Burg-Eisenberg-JR-E-4767-2020-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg-Eisenberg-JR-E-4617-2020-06-25.jpg/1200px-Burg-Eisenberg-JR-E-4617-2020-06-25.jpg
+image_srcset:
+  Burg-Eisenberg-JR-E-5419-2021-06-29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg-Eisenberg-JR-E-5419-2021-06-29.jpg/400px-Burg-Eisenberg-JR-E-5419-2021-06-29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg-Eisenberg-JR-E-5419-2021-06-29.jpg/800px-Burg-Eisenberg-JR-E-5419-2021-06-29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg-Eisenberg-JR-E-5419-2021-06-29.jpg/1200px-Burg-Eisenberg-JR-E-5419-2021-06-29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg-Eisenberg-JR-E-5419-2021-06-29.jpg/1920px-Burg-Eisenberg-JR-E-5419-2021-06-29.jpg
+  Burg-Eisenberg-JR-E-5426-2021-06-29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Burg-Eisenberg-JR-E-5426-2021-06-29.jpg/400px-Burg-Eisenberg-JR-E-5426-2021-06-29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Burg-Eisenberg-JR-E-5426-2021-06-29.jpg/800px-Burg-Eisenberg-JR-E-5426-2021-06-29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Burg-Eisenberg-JR-E-5426-2021-06-29.jpg/1200px-Burg-Eisenberg-JR-E-5426-2021-06-29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Burg-Eisenberg-JR-E-5426-2021-06-29.jpg/1920px-Burg-Eisenberg-JR-E-5426-2021-06-29.jpg
+  Burg-Eisenberg-JR-E-4623-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Burg-Eisenberg-JR-E-4623-2020-06-25.jpg/400px-Burg-Eisenberg-JR-E-4623-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Burg-Eisenberg-JR-E-4623-2020-06-25.jpg/800px-Burg-Eisenberg-JR-E-4623-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Burg-Eisenberg-JR-E-4623-2020-06-25.jpg/1200px-Burg-Eisenberg-JR-E-4623-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Burg-Eisenberg-JR-E-4623-2020-06-25.jpg/1920px-Burg-Eisenberg-JR-E-4623-2020-06-25.jpg
+  Burg-Eisenberg-JR-E-4767-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Eisenberg-JR-E-4767-2020-06-25.jpg/400px-Burg-Eisenberg-JR-E-4767-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Eisenberg-JR-E-4767-2020-06-25.jpg/800px-Burg-Eisenberg-JR-E-4767-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Eisenberg-JR-E-4767-2020-06-25.jpg/1200px-Burg-Eisenberg-JR-E-4767-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Eisenberg-JR-E-4767-2020-06-25.jpg/1920px-Burg-Eisenberg-JR-E-4767-2020-06-25.jpg
+  Burg-Eisenberg-JR-E-4617-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg-Eisenberg-JR-E-4617-2020-06-25.jpg/400px-Burg-Eisenberg-JR-E-4617-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg-Eisenberg-JR-E-4617-2020-06-25.jpg/800px-Burg-Eisenberg-JR-E-4617-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg-Eisenberg-JR-E-4617-2020-06-25.jpg/1200px-Burg-Eisenberg-JR-E-4617-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg-Eisenberg-JR-E-4617-2020-06-25.jpg/1920px-Burg-Eisenberg-JR-E-4617-2020-06-25.jpg
 ---
 
 ## Overview

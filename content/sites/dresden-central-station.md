@@ -1,19 +1,49 @@
 ---
-title: "Dresden Central Station"
+title: Dresden Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.040277777
 longitude: 13.731666666
 images:
-  - "/images-sites/dresden-central-station/01-aac267e4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg/1200px-J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dresden-Germany-Main_station.jpg/1200px-Dresden-Germany-Main_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dresden_Hauptbahnhof_2017_1.jpg/1200px-Dresden_Hauptbahnhof_2017_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2024-07-19_Hauptbahnhof_Dresden.jpg/1200px-2024-07-19_Hauptbahnhof_Dresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg/1200px-20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg
+image_srcset:
+  J36 542 Bf Dresden Hbf, Abstellgruppe Ostbau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg/400px-J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg/800px-J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg/1200px-J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg/1920px-J36_542_Bf_Dresden_Hbf,_Abstellgruppe_Ostbau.jpg
+  Dresden-Germany-Main station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dresden-Germany-Main_station.jpg/400px-Dresden-Germany-Main_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dresden-Germany-Main_station.jpg/800px-Dresden-Germany-Main_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dresden-Germany-Main_station.jpg/1200px-Dresden-Germany-Main_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dresden-Germany-Main_station.jpg/1920px-Dresden-Germany-Main_station.jpg
+  Dresden Hauptbahnhof 2017 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dresden_Hauptbahnhof_2017_1.jpg/400px-Dresden_Hauptbahnhof_2017_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dresden_Hauptbahnhof_2017_1.jpg/800px-Dresden_Hauptbahnhof_2017_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dresden_Hauptbahnhof_2017_1.jpg/1200px-Dresden_Hauptbahnhof_2017_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dresden_Hauptbahnhof_2017_1.jpg/1920px-Dresden_Hauptbahnhof_2017_1.jpg
+  2024-07-19 Hauptbahnhof Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2024-07-19_Hauptbahnhof_Dresden.jpg/400px-2024-07-19_Hauptbahnhof_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2024-07-19_Hauptbahnhof_Dresden.jpg/800px-2024-07-19_Hauptbahnhof_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2024-07-19_Hauptbahnhof_Dresden.jpg/1200px-2024-07-19_Hauptbahnhof_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2024-07-19_Hauptbahnhof_Dresden.jpg/1920px-2024-07-19_Hauptbahnhof_Dresden.jpg
+  20080621030DR Dresden Wiener Platz Hauptbahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg/400px-20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg/800px-20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg/1200px-20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg/1920px-20080621030DR_Dresden_Wiener_Platz_Hauptbahnhof.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Arp Museum Bahnhof Rolandseck"
+title: Arp Museum Bahnhof Rolandseck
 date: 2026-01-23
 draft: false
-description: "art museum in Rolandseck, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Rolandseck, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6314
 longitude: 7.20694
-
-# Images
 images:
-  - "/images-sites/arp-museum-bahnhof-rolandseck/01-2aed2574-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2020-08-09-bad-honnef-himmerich-04.jpg/1200px-2020-08-09-bad-honnef-himmerich-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/11_Meirbau_night_7.JPG/1200px-11_Meirbau_night_7.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Honnef_Lohfelderfähre_Anleger.jpg/1200px-Bad_Honnef_Lohfelderfähre_Anleger.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/1200px-Museum_Arp2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ARPMUS.jpg/1200px-ARPMUS.jpg
+image_srcset:
+  2020-08-09-bad-honnef-himmerich-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2020-08-09-bad-honnef-himmerich-04.jpg/400px-2020-08-09-bad-honnef-himmerich-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2020-08-09-bad-honnef-himmerich-04.jpg/800px-2020-08-09-bad-honnef-himmerich-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2020-08-09-bad-honnef-himmerich-04.jpg/1200px-2020-08-09-bad-honnef-himmerich-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2020-08-09-bad-honnef-himmerich-04.jpg/1920px-2020-08-09-bad-honnef-himmerich-04.jpg
+  11 Meirbau night 7.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/11_Meirbau_night_7.JPG/400px-11_Meirbau_night_7.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/11_Meirbau_night_7.JPG/800px-11_Meirbau_night_7.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/11_Meirbau_night_7.JPG/1200px-11_Meirbau_night_7.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/11_Meirbau_night_7.JPG/1920px-11_Meirbau_night_7.JPG
+  Bad Honnef Lohfelderfähre Anleger.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Honnef_Lohfelderfähre_Anleger.jpg/400px-Bad_Honnef_Lohfelderfähre_Anleger.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Honnef_Lohfelderfähre_Anleger.jpg/800px-Bad_Honnef_Lohfelderfähre_Anleger.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Honnef_Lohfelderfähre_Anleger.jpg/1200px-Bad_Honnef_Lohfelderfähre_Anleger.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bad_Honnef_Lohfelderfähre_Anleger.jpg/1920px-Bad_Honnef_Lohfelderfähre_Anleger.jpg
+  Museum Arp2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/400px-Museum_Arp2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/800px-Museum_Arp2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/1200px-Museum_Arp2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Museum_Arp2.jpg/1920px-Museum_Arp2.jpg
+  ARPMUS.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ARPMUS.jpg/400px-ARPMUS.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ARPMUS.jpg/800px-ARPMUS.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ARPMUS.jpg/1200px-ARPMUS.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ARPMUS.jpg/1920px-ARPMUS.jpg
 ---
 
 ## Overview

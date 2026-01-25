@@ -1,19 +1,49 @@
 ---
-title: "Hanau Central Station"
+title: Hanau Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Hanau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hanau, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.121102
 longitude: 8.92946
 images:
-  - "/images-sites/hanau-central-station/01-14493ebb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Formsignale_Hanau_Hauptbahnhof_2018_06.jpg/1200px-Formsignale_Hanau_Hauptbahnhof_2018_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg/1200px-Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_Hauptbahnhof_Luftbild_HBF.jpg/1200px-Hanau_Hauptbahnhof_Luftbild_HBF.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof-hanau002.jpg/1200px-Bahnhof-hanau002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hanauhbhf003.jpg/1200px-Hanauhbhf003.jpg
+image_srcset:
+  Formsignale Hanau Hauptbahnhof 2018 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Formsignale_Hanau_Hauptbahnhof_2018_06.jpg/400px-Formsignale_Hanau_Hauptbahnhof_2018_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Formsignale_Hanau_Hauptbahnhof_2018_06.jpg/800px-Formsignale_Hanau_Hauptbahnhof_2018_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Formsignale_Hanau_Hauptbahnhof_2018_06.jpg/1200px-Formsignale_Hanau_Hauptbahnhof_2018_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Formsignale_Hanau_Hauptbahnhof_2018_06.jpg/1920px-Formsignale_Hanau_Hauptbahnhof_2018_06.jpg
+  Hanau Hauptbahnhof Luftaufnahme HBF.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg/400px-Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg/800px-Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg/1200px-Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg/1920px-Hanau_Hauptbahnhof_Luftaufnahme_HBF.jpg
+  Hanau Hauptbahnhof Luftbild HBF.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_Hauptbahnhof_Luftbild_HBF.jpg/400px-Hanau_Hauptbahnhof_Luftbild_HBF.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_Hauptbahnhof_Luftbild_HBF.jpg/800px-Hanau_Hauptbahnhof_Luftbild_HBF.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_Hauptbahnhof_Luftbild_HBF.jpg/1200px-Hanau_Hauptbahnhof_Luftbild_HBF.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hanau_Hauptbahnhof_Luftbild_HBF.jpg/1920px-Hanau_Hauptbahnhof_Luftbild_HBF.jpg
+  Bahnhof-hanau002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof-hanau002.jpg/400px-Bahnhof-hanau002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof-hanau002.jpg/800px-Bahnhof-hanau002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof-hanau002.jpg/1200px-Bahnhof-hanau002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof-hanau002.jpg/1920px-Bahnhof-hanau002.jpg
+  Hanauhbhf003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hanauhbhf003.jpg/400px-Hanauhbhf003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hanauhbhf003.jpg/800px-Hanauhbhf003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hanauhbhf003.jpg/1200px-Hanauhbhf003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hanauhbhf003.jpg/1920px-Hanauhbhf003.jpg
 ---
 
 ## Overview

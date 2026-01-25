@@ -1,27 +1,49 @@
 ---
-title: "Grillenburg"
+title: Grillenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5346
 longitude: 11.3141
-
-# Images
 images:
-  - "/images-sites/grillenburg/01-56119812-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg/1200px-20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/1200px-20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/1200px-20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/1200px-20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/1200px-20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+image_srcset:
+  20160901110DR Grillenburg (Tharandt) Jagdschloß Brücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg/400px-20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg/800px-20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg/1200px-20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg/1920px-20160901110DR_Grillenburg_(Tharandt)_Jagdschloß_Brücke.jpg
+  20160904110DR Grillenburg (Tharandt) Jagdhütte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/400px-20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/800px-20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/1200px-20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/1920px-20160904110DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+  20160904100DR Grillenburg (Tharandt) Jagdhütte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/400px-20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/800px-20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/1200px-20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg/1920px-20160904100DR_Grillenburg_(Tharandt)_Jagdhütte.jpg
+  20070707060DR Grillenburg (Tharandt) Neues Jägerhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/400px-20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/800px-20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/1200px-20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/1920px-20070707060DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+  20070707070DR Grillenburg (Tharandt) Neues Jägerhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/400px-20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/800px-20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/1200px-20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg/1920px-20070707070DR_Grillenburg_(Tharandt)_Neues_Jägerhaus.jpg
 ---
 
 ## Overview

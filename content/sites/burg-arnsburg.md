@@ -1,19 +1,49 @@
 ---
-title: "Burg Arnsburg"
+title: Burg Arnsburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.49
 longitude: 8.78905
 images:
-  - "/images-sites/burg-arnsburg/01-82ebd271-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luftbild_Burg_Arnsburg.jpg/1200px-Luftbild_Burg_Arnsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Arnsburg_04.JPG/1200px-Burg_Arnsburg_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg_Arnsburg_10.JPG/1200px-Burg_Arnsburg_10.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Arnsburg_23.JPG/1200px-Burg_Arnsburg_23.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1200px-Burg_Arnsburg_Ruine.jpg
+image_srcset:
+  Luftbild Burg Arnsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luftbild_Burg_Arnsburg.jpg/400px-Luftbild_Burg_Arnsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luftbild_Burg_Arnsburg.jpg/800px-Luftbild_Burg_Arnsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luftbild_Burg_Arnsburg.jpg/1200px-Luftbild_Burg_Arnsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Luftbild_Burg_Arnsburg.jpg/1920px-Luftbild_Burg_Arnsburg.jpg
+  Burg Arnsburg 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Arnsburg_04.JPG/400px-Burg_Arnsburg_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Arnsburg_04.JPG/800px-Burg_Arnsburg_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Arnsburg_04.JPG/1200px-Burg_Arnsburg_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Arnsburg_04.JPG/1920px-Burg_Arnsburg_04.JPG
+  Burg Arnsburg 10.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg_Arnsburg_10.JPG/400px-Burg_Arnsburg_10.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg_Arnsburg_10.JPG/800px-Burg_Arnsburg_10.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg_Arnsburg_10.JPG/1200px-Burg_Arnsburg_10.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burg_Arnsburg_10.JPG/1920px-Burg_Arnsburg_10.JPG
+  Burg Arnsburg 23.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Arnsburg_23.JPG/400px-Burg_Arnsburg_23.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Arnsburg_23.JPG/800px-Burg_Arnsburg_23.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Arnsburg_23.JPG/1200px-Burg_Arnsburg_23.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Arnsburg_23.JPG/1920px-Burg_Arnsburg_23.JPG
+  Burg Arnsburg Ruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/400px-Burg_Arnsburg_Ruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/800px-Burg_Arnsburg_Ruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1200px-Burg_Arnsburg_Ruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Arnsburg_Ruine.jpg/1920px-Burg_Arnsburg_Ruine.jpg
 ---
 
 ## Overview

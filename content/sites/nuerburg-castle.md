@@ -21,9 +21,9 @@ longitude: 6.95407
 
 # Images
 images:
-  - "/images-sites/nuerburg-castle/01-1fb4fe3c-800w.webp"
-  - "/images-sites/nuerburg-castle/02-818f301a-800w.webp"
-  - "/images-sites/nuerburg-castle/03-39becf5a-800w.webp"
+  - "/images/nuerburg-castle/01-1fb4fe3c-800w.webp"
+  - "/images/nuerburg-castle/02-818f301a-800w.webp"
+  - "/images/nuerburg-castle/03-39becf5a-800w.webp"
 ---
 
 ## Overview

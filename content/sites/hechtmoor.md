@@ -1,21 +1,49 @@
 ---
-title: "Hechtmoor"
+title: Hechtmoor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.66305556
 longitude: 9.58944444
 images:
-  - "/images-sites/hechtmoor/01-b79112f2-800w.webp"
-  - "/images-sites/hechtmoor/02-f3dc0ae6-800w.webp"
-  - "/images-sites/hechtmoor/03-249068bc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hechtmoor-6_2020.jpg/1200px-Hechtmoor-6_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg
+image_srcset:
+  Hechtmoor-6 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hechtmoor-6_2020.jpg/400px-Hechtmoor-6_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hechtmoor-6_2020.jpg/800px-Hechtmoor-6_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hechtmoor-6_2020.jpg/1200px-Hechtmoor-6_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hechtmoor-6_2020.jpg/1920px-Hechtmoor-6_2020.jpg
+  FFH-Gebiet Hechtmoor-01 (1 von 95).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg/400px-FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg/800px-FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg/1920px-FFH-Gebiet_Hechtmoor-01_(1_von_95).jpg
+  FFH-Gebiet Hechtmoor-01 (24 von 95).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg/400px-FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg/800px-FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg/1920px-FFH-Gebiet_Hechtmoor-01_(24_von_95).jpg
+  FFH-Gebiet Hechtmoor-01 (80 von 95).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg/400px-FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg/800px-FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg/1920px-FFH-Gebiet_Hechtmoor-01_(80_von_95).jpg
+  FFH-Gebiet Hechtmoor-01 (87 von 95).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg/400px-FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg/800px-FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg/1200px-FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg/1920px-FFH-Gebiet_Hechtmoor-01_(87_von_95).jpg
 ---
 
 ## Overview

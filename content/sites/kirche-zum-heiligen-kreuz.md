@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1116450"
 description: "In the heart of Berlin-Wilmersdorf, the Kirche Zum Heiligen Kreuz stands as a significant religious and architectural landmark. This church invites visi..."
 images:
-  - "/images-sites/kirche-zum-heiligen-kreuz/01-e1fb7353-1920w.webp"
-  - "/images-sites/kirche-zum-heiligen-kreuz/02-b78a5c8e-1920w.webp"
-  - "/images-sites/kirche-zum-heiligen-kreuz/03-8966dd1d-1920w.webp"
+  - "/images/kirche-zum-heiligen-kreuz/01-e1fb7353-1920w.webp"
+  - "/images/kirche-zum-heiligen-kreuz/02-b78a5c8e-1920w.webp"
+  - "/images/kirche-zum-heiligen-kreuz/03-8966dd1d-1920w.webp"
 ---
 
 ## Overview

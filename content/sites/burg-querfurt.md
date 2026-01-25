@@ -1,27 +1,49 @@
 ---
-title: "Burg Querfurt"
+title: Burg Querfurt
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3769
 longitude: 11.5939
-
-# Images
 images:
-  - "/images-sites/burg-querfurt/01-76cf49b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2024BurgQuerfurt2.jpg/1200px-2024BurgQuerfurt2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Querfurt,_004.jpg/1200px-Burg_Querfurt,_004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Querfurt-032.jpg/1200px-Burg_Querfurt-032.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2024BurgQuerfurt1.jpg/1200px-2024BurgQuerfurt1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Querfurt3.jpg/1200px-Querfurt3.jpg
+image_srcset:
+  2024BurgQuerfurt2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2024BurgQuerfurt2.jpg/400px-2024BurgQuerfurt2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2024BurgQuerfurt2.jpg/800px-2024BurgQuerfurt2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2024BurgQuerfurt2.jpg/1200px-2024BurgQuerfurt2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2024BurgQuerfurt2.jpg/1920px-2024BurgQuerfurt2.jpg
+  Burg Querfurt, 004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Querfurt,_004.jpg/400px-Burg_Querfurt,_004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Querfurt,_004.jpg/800px-Burg_Querfurt,_004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Querfurt,_004.jpg/1200px-Burg_Querfurt,_004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Querfurt,_004.jpg/1920px-Burg_Querfurt,_004.jpg
+  Burg Querfurt-032.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Querfurt-032.jpg/400px-Burg_Querfurt-032.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Querfurt-032.jpg/800px-Burg_Querfurt-032.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Querfurt-032.jpg/1200px-Burg_Querfurt-032.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Burg_Querfurt-032.jpg/1920px-Burg_Querfurt-032.jpg
+  2024BurgQuerfurt1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2024BurgQuerfurt1.jpg/400px-2024BurgQuerfurt1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2024BurgQuerfurt1.jpg/800px-2024BurgQuerfurt1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2024BurgQuerfurt1.jpg/1200px-2024BurgQuerfurt1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2024BurgQuerfurt1.jpg/1920px-2024BurgQuerfurt1.jpg
+  Querfurt3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Querfurt3.jpg/400px-Querfurt3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Querfurt3.jpg/800px-Querfurt3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Querfurt3.jpg/1200px-Querfurt3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Querfurt3.jpg/1920px-Querfurt3.jpg
 ---
 
 ## Overview

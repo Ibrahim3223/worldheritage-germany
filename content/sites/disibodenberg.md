@@ -1,21 +1,43 @@
 ---
-title: "Disibodenberg"
+title: Disibodenberg
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7766
 longitude: 7.70119
 images:
-  - "/images-sites/disibodenberg/01-3da1a68e-800w.webp"
-  - "/images-sites/disibodenberg/02-a739609c-800w.webp"
-  - "/images-sites/disibodenberg/03-be3defa9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Disibodenberg_bei_Odernheim.JPG/1200px-Disibodenberg_bei_Odernheim.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Disibodenberg_mit_Glan_und_Nahe.JPG/1200px-Disibodenberg_mit_Glan_und_Nahe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Disibodenberg.Naturschutzgebiet..jpg/1200px-Disibodenberg.Naturschutzgebiet..jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/1200px-Kloster_Disibodenberg_02.jpg
+image_srcset:
+  Disibodenberg bei Odernheim.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Disibodenberg_bei_Odernheim.JPG/400px-Disibodenberg_bei_Odernheim.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Disibodenberg_bei_Odernheim.JPG/800px-Disibodenberg_bei_Odernheim.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Disibodenberg_bei_Odernheim.JPG/1200px-Disibodenberg_bei_Odernheim.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Disibodenberg_bei_Odernheim.JPG/1920px-Disibodenberg_bei_Odernheim.JPG
+  Disibodenberg mit Glan und Nahe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Disibodenberg_mit_Glan_und_Nahe.JPG/400px-Disibodenberg_mit_Glan_und_Nahe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Disibodenberg_mit_Glan_und_Nahe.JPG/800px-Disibodenberg_mit_Glan_und_Nahe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Disibodenberg_mit_Glan_und_Nahe.JPG/1200px-Disibodenberg_mit_Glan_und_Nahe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Disibodenberg_mit_Glan_und_Nahe.JPG/1920px-Disibodenberg_mit_Glan_und_Nahe.JPG
+  Disibodenberg.Naturschutzgebiet..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Disibodenberg.Naturschutzgebiet..jpg/400px-Disibodenberg.Naturschutzgebiet..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Disibodenberg.Naturschutzgebiet..jpg/800px-Disibodenberg.Naturschutzgebiet..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Disibodenberg.Naturschutzgebiet..jpg/1200px-Disibodenberg.Naturschutzgebiet..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Disibodenberg.Naturschutzgebiet..jpg/1920px-Disibodenberg.Naturschutzgebiet..jpg
+  Kloster Disibodenberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/400px-Kloster_Disibodenberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/800px-Kloster_Disibodenberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/1200px-Kloster_Disibodenberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kloster_Disibodenberg_02.jpg/1920px-Kloster_Disibodenberg_02.jpg
 ---
 
 ## Overview

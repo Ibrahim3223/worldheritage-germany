@@ -1,19 +1,49 @@
 ---
-title: "Berlin Peace Column"
+title: Berlin Peace Column
 date: 2026-01-23
 draft: false
-description: "monument in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: monument in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 52.499
 longitude: 13.3917
 images:
-  - "/images-sites/berlin-peace-column/01-c2c79740-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedenssaeule12072023.png/1200px-Friedenssaeule12072023.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mehringplatz_–_Victoria,_front_view.jpg/1200px-Berlin,_Mehringplatz_–_Victoria,_front_view.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_-_Friedenssäule_Mehringplatz.jpg/1200px-Berlin_-_Friedenssäule_Mehringplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/1200px-Mehringplatz1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/1200px-Berlin_Friedenssaeule.jpg
+image_srcset:
+  Friedenssaeule12072023.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedenssaeule12072023.png/400px-Friedenssaeule12072023.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedenssaeule12072023.png/800px-Friedenssaeule12072023.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedenssaeule12072023.png/1200px-Friedenssaeule12072023.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedenssaeule12072023.png/1920px-Friedenssaeule12072023.png
+  Berlin, Mehringplatz – Victoria, front view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mehringplatz_–_Victoria,_front_view.jpg/400px-Berlin,_Mehringplatz_–_Victoria,_front_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mehringplatz_–_Victoria,_front_view.jpg/800px-Berlin,_Mehringplatz_–_Victoria,_front_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mehringplatz_–_Victoria,_front_view.jpg/1200px-Berlin,_Mehringplatz_–_Victoria,_front_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mehringplatz_–_Victoria,_front_view.jpg/1920px-Berlin,_Mehringplatz_–_Victoria,_front_view.jpg
+  Berlin - Friedenssäule Mehringplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_-_Friedenssäule_Mehringplatz.jpg/400px-Berlin_-_Friedenssäule_Mehringplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_-_Friedenssäule_Mehringplatz.jpg/800px-Berlin_-_Friedenssäule_Mehringplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_-_Friedenssäule_Mehringplatz.jpg/1200px-Berlin_-_Friedenssäule_Mehringplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_-_Friedenssäule_Mehringplatz.jpg/1920px-Berlin_-_Friedenssäule_Mehringplatz.jpg
+  Mehringplatz1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/400px-Mehringplatz1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/800px-Mehringplatz1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/1200px-Mehringplatz1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mehringplatz1.jpg/1920px-Mehringplatz1.jpg
+  Berlin Friedenssaeule.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/400px-Berlin_Friedenssaeule.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/800px-Berlin_Friedenssaeule.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/1200px-Berlin_Friedenssaeule.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berlin_Friedenssaeule.jpg/1920px-Berlin_Friedenssaeule.jpg
 ---
 
 ## Overview

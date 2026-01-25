@@ -1,29 +1,49 @@
 ---
-title: "East Side Gallery"
+title: East Side Gallery
 date: 2026-01-23
 draft: false
-description: "art museum"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.503055555
 longitude: 13.444722222
-
-# Images
 images:
-  - "/images-sites/east-side-gallery/01-6d2a4574-800w.webp"
-  - "/images-sites/east-side-gallery/02-029cf244-800w.webp"
-  - "/images-sites/east-side-gallery/03-41930875-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg/1200px-Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/1200px-Berlin_Wall6270.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2015-10_Berlin-Friedrichshain_(9).jpg/1200px-2015-10_Berlin-Friedrichshain_(9).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2015-10_Berlin-Friedrichshain_(7).jpg/1200px-2015-10_Berlin-Friedrichshain_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg/1200px-I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg
+image_srcset:
+  Berlin Wall , East Side Gallery ( Ank Kumar, Infosys Limited) 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg/400px-Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg/800px-Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg/1200px-Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg/1920px-Berlin_Wall_,_East_Side_Gallery_(_Ank_Kumar,_Infosys_Limited)_11.jpg
+  Berlin Wall6270.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/400px-Berlin_Wall6270.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/800px-Berlin_Wall6270.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/1200px-Berlin_Wall6270.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin_Wall6270.JPG/1920px-Berlin_Wall6270.JPG
+  2015-10 Berlin-Friedrichshain (9).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2015-10_Berlin-Friedrichshain_(9).jpg/400px-2015-10_Berlin-Friedrichshain_(9).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2015-10_Berlin-Friedrichshain_(9).jpg/800px-2015-10_Berlin-Friedrichshain_(9).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2015-10_Berlin-Friedrichshain_(9).jpg/1200px-2015-10_Berlin-Friedrichshain_(9).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2015-10_Berlin-Friedrichshain_(9).jpg/1920px-2015-10_Berlin-Friedrichshain_(9).jpg
+  2015-10 Berlin-Friedrichshain (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2015-10_Berlin-Friedrichshain_(7).jpg/400px-2015-10_Berlin-Friedrichshain_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2015-10_Berlin-Friedrichshain_(7).jpg/800px-2015-10_Berlin-Friedrichshain_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2015-10_Berlin-Friedrichshain_(7).jpg/1200px-2015-10_Berlin-Friedrichshain_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2015-10_Berlin-Friedrichshain_(7).jpg/1920px-2015-10_Berlin-Friedrichshain_(7).jpg
+  I Walkers di Mvula Sungani, Emanuela Bianchini étoile ed Damiano Grifoni all'East Side Gallery di Berlino.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg/400px-I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg/800px-I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg/1200px-I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg/1920px-I_Walkers_di_Mvula_Sungani,_Emanuela_Bianchini_étoile_ed_Damiano_Grifoni_all'East_Side_Gallery_di_Berlino.jpg
 ---
 
 ## Overview

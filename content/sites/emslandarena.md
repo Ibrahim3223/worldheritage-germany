@@ -1,19 +1,49 @@
 ---
-title: "EmslandArena"
+title: EmslandArena
 date: 2026-01-23
 draft: false
-description: "Mehrzweckhalle in der niedersächsischen Stadt Lingen im Emsland"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: Mehrzweckhalle in der niedersächsischen Stadt Lingen im Emsland
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5139
 longitude: 7.31389
 images:
-  - "/images-sites/emslandarena/01-1f194855-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg/1200px-Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/EmslandArena_Logo.svg/1200px-EmslandArena_Logo.svg.png
+image_srcset:
+  Lingen - Darmer Hafenstraße - Emslandarena 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg/400px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg/800px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg/1920px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_03_ies.jpg
+  Lingen - Darmer Hafenstraße - Emslandarena 06 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg/400px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg/800px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg/1920px-Lingen_-_Darmer_Hafenstraße_-_Emslandarena_06_ies.jpg
+  Lingen - Lindenstraße + Emslandarena + Alter Hafen 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg/400px-Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg/800px-Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg/1200px-Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg/1920px-Lingen_-_Lindenstraße_+_Emslandarena_+_Alter_Hafen_01_ies.jpg
+  Lingen - Darmer Hafenstraße + Emslandarena 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/400px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/800px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/1200px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg/1920px-Lingen_-_Darmer_Hafenstraße_+_Emslandarena_01_ies.jpg
+  EmslandArena Logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/EmslandArena_Logo.svg/400px-EmslandArena_Logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/EmslandArena_Logo.svg/800px-EmslandArena_Logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/EmslandArena_Logo.svg/1200px-EmslandArena_Logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/EmslandArena_Logo.svg/1920px-EmslandArena_Logo.svg.png
 ---
 
 ## Overview

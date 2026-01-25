@@ -1,27 +1,49 @@
 ---
-title: "Albrechtsburg"
+title: Albrechtsburg
 date: 2026-01-23
 draft: false
-description: "castle in Meißen, Saxony, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Meißen, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.166596
 longitude: 13.471376
-
-# Images
 images:
-  - "/images-sites/albrechtsburg/01-5a39d357-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg/1200px-Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meissen_Albrechtsburg_Innenhof-01.jpg/1200px-Meissen_Albrechtsburg_Innenhof-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Meissen_Albrechtsburg_Innenhof.jpg/1200px-Meissen_Albrechtsburg_Innenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg/1200px-20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Albrechtsburg-2007.jpg/1200px-Albrechtsburg-2007.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Bischofsburg zu Meissen - 991063136009705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg/400px-Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg/800px-Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg/1200px-Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg/1920px-Zentralbibliothek_Zürich_-_Bischofsburg_zu_Meissen_-_991063136009705501.jpg
+  Meissen Albrechtsburg Innenhof-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meissen_Albrechtsburg_Innenhof-01.jpg/400px-Meissen_Albrechtsburg_Innenhof-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meissen_Albrechtsburg_Innenhof-01.jpg/800px-Meissen_Albrechtsburg_Innenhof-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meissen_Albrechtsburg_Innenhof-01.jpg/1200px-Meissen_Albrechtsburg_Innenhof-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meissen_Albrechtsburg_Innenhof-01.jpg/1920px-Meissen_Albrechtsburg_Innenhof-01.jpg
+  Meissen Albrechtsburg Innenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Meissen_Albrechtsburg_Innenhof.jpg/400px-Meissen_Albrechtsburg_Innenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Meissen_Albrechtsburg_Innenhof.jpg/800px-Meissen_Albrechtsburg_Innenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Meissen_Albrechtsburg_Innenhof.jpg/1200px-Meissen_Albrechtsburg_Innenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Meissen_Albrechtsburg_Innenhof.jpg/1920px-Meissen_Albrechtsburg_Innenhof.jpg
+  20211029140DR Meißen Albrechtsburg Domplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg/400px-20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg/800px-20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg/1200px-20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg/1920px-20211029140DR_Meißen_Albrechtsburg_Domplatz.jpg
+  Albrechtsburg-2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Albrechtsburg-2007.jpg/400px-Albrechtsburg-2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Albrechtsburg-2007.jpg/800px-Albrechtsburg-2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Albrechtsburg-2007.jpg/1200px-Albrechtsburg-2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Albrechtsburg-2007.jpg/1920px-Albrechtsburg-2007.jpg
 ---
 
 ## Overview

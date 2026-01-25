@@ -21,7 +21,7 @@ longitude: 9.270516
 
 # Images
 images:
-  - "/images-sites/meersburg-castle/01-ce1b152e-800w.webp"
+  - "/images/meersburg-castle/01-ce1b152e-800w.webp"
 ---
 
 ## Overview

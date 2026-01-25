@@ -1,20 +1,49 @@
 ---
-title: "Grunewaldsee"
+title: Grunewaldsee
 date: 2026-01-23
 draft: false
-description: "lake in Steglitz-Zehlendorf, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Steglitz-Zehlendorf, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.470277777
 longitude: 13.262777777
 images:
-  - "/images-sites/grunewaldsee/02-73ac77fd-800w.webp"
-  - "/images-sites/grunewaldsee/03-989a7fc1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg/1200px-Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg/1200px-Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_Grunewaldsee_03.jpg/1200px-NSG_Grunewaldsee_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NSG_Grunewaldsee_05.jpg/1200px-NSG_Grunewaldsee_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grunewaldsee1.JPG/1200px-Grunewaldsee1.JPG
+image_srcset:
+  Grunewaldsee-Nord (Landschaftsschutzgebiet Grunewald).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg/400px-Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg/800px-Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg/1200px-Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg/1920px-Grunewaldsee-Nord_(Landschaftsschutzgebiet_Grunewald).jpg
+  Grunewaldsee Berlin, Charlottenburg-Wilmersdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg/400px-Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg/800px-Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg/1200px-Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg/1920px-Grunewaldsee_Berlin,_Charlottenburg-Wilmersdorf.jpg
+  NSG Grunewaldsee 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_Grunewaldsee_03.jpg/400px-NSG_Grunewaldsee_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_Grunewaldsee_03.jpg/800px-NSG_Grunewaldsee_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_Grunewaldsee_03.jpg/1200px-NSG_Grunewaldsee_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_Grunewaldsee_03.jpg/1920px-NSG_Grunewaldsee_03.jpg
+  NSG Grunewaldsee 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NSG_Grunewaldsee_05.jpg/400px-NSG_Grunewaldsee_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NSG_Grunewaldsee_05.jpg/800px-NSG_Grunewaldsee_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NSG_Grunewaldsee_05.jpg/1200px-NSG_Grunewaldsee_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NSG_Grunewaldsee_05.jpg/1920px-NSG_Grunewaldsee_05.jpg
+  Grunewaldsee1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grunewaldsee1.JPG/400px-Grunewaldsee1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grunewaldsee1.JPG/800px-Grunewaldsee1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grunewaldsee1.JPG/1200px-Grunewaldsee1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grunewaldsee1.JPG/1920px-Grunewaldsee1.JPG
 ---
 
 ## Overview

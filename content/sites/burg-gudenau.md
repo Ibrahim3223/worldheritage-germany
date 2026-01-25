@@ -1,27 +1,49 @@
 ---
-title: "Burg Gudenau"
+title: Burg Gudenau
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6342
 longitude: 7.08639
-
-# Images
 images:
-  - "/images-sites/burg-gudenau/01-fbefd134-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/I11_034_Burg_Gudenau,_Burghof.jpg/1200px-I11_034_Burg_Gudenau,_Burghof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Gudenau_2006_1.jpg/1200px-Burg_Gudenau_2006_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Gudenau_2006_2.jpg/1200px-Burg_Gudenau_2006_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Gudenau_aus_Nordwesten_2.jpg/1200px-Burg_Gudenau_aus_Nordwesten_2.jpg
+image_srcset:
+  Aerial image of Burg Gudenau (view from the northeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg/400px-Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg/800px-Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Burg_Gudenau_(view_from_the_northeast).jpg
+  I11 034 Burg Gudenau, Burghof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/I11_034_Burg_Gudenau,_Burghof.jpg/400px-I11_034_Burg_Gudenau,_Burghof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/I11_034_Burg_Gudenau,_Burghof.jpg/800px-I11_034_Burg_Gudenau,_Burghof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/I11_034_Burg_Gudenau,_Burghof.jpg/1200px-I11_034_Burg_Gudenau,_Burghof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/I11_034_Burg_Gudenau,_Burghof.jpg/1920px-I11_034_Burg_Gudenau,_Burghof.jpg
+  Burg Gudenau 2006 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Gudenau_2006_1.jpg/400px-Burg_Gudenau_2006_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Gudenau_2006_1.jpg/800px-Burg_Gudenau_2006_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Gudenau_2006_1.jpg/1200px-Burg_Gudenau_2006_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg_Gudenau_2006_1.jpg/1920px-Burg_Gudenau_2006_1.jpg
+  Burg Gudenau 2006 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Gudenau_2006_2.jpg/400px-Burg_Gudenau_2006_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Gudenau_2006_2.jpg/800px-Burg_Gudenau_2006_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Gudenau_2006_2.jpg/1200px-Burg_Gudenau_2006_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Gudenau_2006_2.jpg/1920px-Burg_Gudenau_2006_2.jpg
+  Burg Gudenau aus Nordwesten 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Gudenau_aus_Nordwesten_2.jpg/400px-Burg_Gudenau_aus_Nordwesten_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Gudenau_aus_Nordwesten_2.jpg/800px-Burg_Gudenau_aus_Nordwesten_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Gudenau_aus_Nordwesten_2.jpg/1200px-Burg_Gudenau_aus_Nordwesten_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Gudenau_aus_Nordwesten_2.jpg/1920px-Burg_Gudenau_aus_Nordwesten_2.jpg
 ---
 
 ## Overview

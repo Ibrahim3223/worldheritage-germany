@@ -13,7 +13,7 @@ regions:
 latitude: 49.230833333
 longitude: 6.996111111
 images:
-  - "/images-sites/theater-saarbruecken/01-49348c28-800w.webp"
+  - "/images/theater-saarbruecken/01-49348c28-800w.webp"
 ---
 
 ## Overview

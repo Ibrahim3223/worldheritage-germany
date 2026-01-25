@@ -1,29 +1,49 @@
 ---
-title: "Bruchhauser Steine"
+title: Bruchhauser Steine
 date: 2026-01-23
 draft: false
-description: "rock formation in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: rock formation in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3225
 longitude: 8.54428
-
-# Images
 images:
-  - "/images-sites/bruchhauser-steine/01-38dc2878-800w.webp"
-  - "/images-sites/bruchhauser-steine/02-598ec16d-800w.webp"
-  - "/images-sites/bruchhauser-steine/03-24ad2fb9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Istenberg_mit_Bruchhauser_Steinen.jpg/1200px-Istenberg_mit_Bruchhauser_Steinen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Topographische_Karte_der_Bruchhauser_Steine.png/1200px-Topographische_Karte_der_Bruchhauser_Steine.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/1200px-Blick_vom_Feldstein_nach_Nordosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bruchhauser_Steine_GR.jpg/1200px-Bruchhauser_Steine_GR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bruchhauser_Steine_2014_-_7988.jpg/1200px-Bruchhauser_Steine_2014_-_7988.jpg
+image_srcset:
+  Istenberg mit Bruchhauser Steinen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Istenberg_mit_Bruchhauser_Steinen.jpg/400px-Istenberg_mit_Bruchhauser_Steinen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Istenberg_mit_Bruchhauser_Steinen.jpg/800px-Istenberg_mit_Bruchhauser_Steinen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Istenberg_mit_Bruchhauser_Steinen.jpg/1200px-Istenberg_mit_Bruchhauser_Steinen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Istenberg_mit_Bruchhauser_Steinen.jpg/1920px-Istenberg_mit_Bruchhauser_Steinen.jpg
+  Topographische Karte der Bruchhauser Steine.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Topographische_Karte_der_Bruchhauser_Steine.png/400px-Topographische_Karte_der_Bruchhauser_Steine.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Topographische_Karte_der_Bruchhauser_Steine.png/800px-Topographische_Karte_der_Bruchhauser_Steine.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Topographische_Karte_der_Bruchhauser_Steine.png/1200px-Topographische_Karte_der_Bruchhauser_Steine.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Topographische_Karte_der_Bruchhauser_Steine.png/1920px-Topographische_Karte_der_Bruchhauser_Steine.png
+  Blick vom Feldstein nach Nordosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/400px-Blick_vom_Feldstein_nach_Nordosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/800px-Blick_vom_Feldstein_nach_Nordosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/1200px-Blick_vom_Feldstein_nach_Nordosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blick_vom_Feldstein_nach_Nordosten.jpg/1920px-Blick_vom_Feldstein_nach_Nordosten.jpg
+  Bruchhauser Steine GR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bruchhauser_Steine_GR.jpg/400px-Bruchhauser_Steine_GR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bruchhauser_Steine_GR.jpg/800px-Bruchhauser_Steine_GR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bruchhauser_Steine_GR.jpg/1200px-Bruchhauser_Steine_GR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bruchhauser_Steine_GR.jpg/1920px-Bruchhauser_Steine_GR.jpg
+  Bruchhauser Steine 2014 - 7988.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bruchhauser_Steine_2014_-_7988.jpg/400px-Bruchhauser_Steine_2014_-_7988.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bruchhauser_Steine_2014_-_7988.jpg/800px-Bruchhauser_Steine_2014_-_7988.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bruchhauser_Steine_2014_-_7988.jpg/1200px-Bruchhauser_Steine_2014_-_7988.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bruchhauser_Steine_2014_-_7988.jpg/1920px-Bruchhauser_Steine_2014_-_7988.jpg
 ---
 
 ## Overview

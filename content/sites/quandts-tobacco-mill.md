@@ -13,7 +13,7 @@ regions:
 latitude: 51.3136
 longitude: 12.4072
 images:
-  - "/images-sites/quandts-tobacco-mill/01-a30382d8-800w.webp"
+  - "/images/quandts-tobacco-mill/01-a30382d8-800w.webp"
 ---
 
 ## Overview

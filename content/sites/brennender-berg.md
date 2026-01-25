@@ -1,21 +1,49 @@
 ---
-title: "Brennender Berg"
+title: Brennender Berg
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.288888888
 longitude: 7.053611111
 images:
-  - "/images-sites/brennender-berg/01-c182121f-800w.webp"
-  - "/images-sites/brennender-berg/02-4fa3009f-800w.webp"
-  - "/images-sites/brennender-berg/03-4b4f80f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brennender_Berg_Fisheye.jpg/1200px-Brennender_Berg_Fisheye.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wegweiser_zum_Brennenden_Berg.JPG/1200px-Wegweiser_zum_Brennenden_Berg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg/1200px-Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_Berg_Karte.jpg/1200px-Brennender_Berg_Karte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/1200px-Brennender_berg_felsoeffnungen_2009.jpg
+image_srcset:
+  Brennender Berg Fisheye.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brennender_Berg_Fisheye.jpg/400px-Brennender_Berg_Fisheye.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brennender_Berg_Fisheye.jpg/800px-Brennender_Berg_Fisheye.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brennender_Berg_Fisheye.jpg/1200px-Brennender_Berg_Fisheye.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brennender_Berg_Fisheye.jpg/1920px-Brennender_Berg_Fisheye.jpg
+  Wegweiser zum Brennenden Berg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wegweiser_zum_Brennenden_Berg.JPG/400px-Wegweiser_zum_Brennenden_Berg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wegweiser_zum_Brennenden_Berg.JPG/800px-Wegweiser_zum_Brennenden_Berg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wegweiser_zum_Brennenden_Berg.JPG/1200px-Wegweiser_zum_Brennenden_Berg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wegweiser_zum_Brennenden_Berg.JPG/1920px-Wegweiser_zum_Brennenden_Berg.JPG
+  Dudweiler (Saarbrücken), on the burning mountain, image 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg/400px-Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg/800px-Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg/1200px-Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg/1920px-Dudweiler_(Saarbrücken),_on_the_burning_mountain,_image_2.jpg
+  Brennender Berg Karte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_Berg_Karte.jpg/400px-Brennender_Berg_Karte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_Berg_Karte.jpg/800px-Brennender_Berg_Karte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_Berg_Karte.jpg/1200px-Brennender_Berg_Karte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_Berg_Karte.jpg/1920px-Brennender_Berg_Karte.jpg
+  Brennender berg felsoeffnungen 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/400px-Brennender_berg_felsoeffnungen_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/800px-Brennender_berg_felsoeffnungen_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/1200px-Brennender_berg_felsoeffnungen_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brennender_berg_felsoeffnungen_2009.jpg/1920px-Brennender_berg_felsoeffnungen_2009.jpg
 ---
 
 ## Overview

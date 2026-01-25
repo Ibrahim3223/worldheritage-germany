@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1228469"
 description: "In the heart of Brandenburg, Germany, the Klosterkirche Sankt Trinitatis stands as a remarkable example of Brick Gothic architecture. This church, chara..."
 images:
-  - "/images-sites/klosterkirche-sankt-trinitatis/01-2c2d80f5-1920w.webp"
-  - "/images-sites/klosterkirche-sankt-trinitatis/02-ffb8c264-1920w.webp"
-  - "/images-sites/klosterkirche-sankt-trinitatis/03-ac3b33a3-1920w.webp"
+  - "/images/klosterkirche-sankt-trinitatis/01-2c2d80f5-1920w.webp"
+  - "/images/klosterkirche-sankt-trinitatis/02-ffb8c264-1920w.webp"
+  - "/images/klosterkirche-sankt-trinitatis/03-ac3b33a3-1920w.webp"
 ---
 
 ## Overview

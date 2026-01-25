@@ -21,7 +21,7 @@ longitude: 7.35581
 
 # Images
 images:
-  - "/images-sites/lichtenberg-castle/01-1a49d3f4-800w.webp"
+  - "/images/lichtenberg-castle/01-1a49d3f4-800w.webp"
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Große Kirche Aplerbeck"
-site_name: "Große Kirche Aplerbeck"
-slug: "grosse-kirche-aplerbeck"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Große Kirche Aplerbeck
+site_name: Große Kirche Aplerbeck
+slug: grosse-kirche-aplerbeck
+region: North Rhine-Westphalia
 latitude: 51.4954
 longitude: 7.55844
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1548234"
-description: "In the heart of Dortmund, the Große Kirche Aplerbeck stands as a striking example of Gothic Revival architecture. This Protestant church, designed by ar..."
+- church building
+- religious site
+wikidata_id: Q1548234
+description: In the heart of Dortmund, the Große Kirche Aplerbeck stands as a striking
+  example of Gothic Revival architecture. This Protestant church, designed by ar...
 images:
-  - "/images-sites/grosse-kirche-aplerbeck/01-c0957001-1920w.webp"
-  - "/images-sites/grosse-kirche-aplerbeck/02-c59cfee5-1920w.webp"
-  - "/images-sites/grosse-kirche-aplerbeck/03-3806fca8-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg/1200px-Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg/1200px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg/1200px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg/1200px-Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/1200px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
+image_srcset:
+  Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg/400px-Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg/800px-Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg/1200px-Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg/1920px-Aplerbeck%20Grosse%20Kirche%20IMGP0446%20wp.jpg
+  Aplerbeck von Feldchenbahnbruecke IMGP2257.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg/400px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg/800px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg/1200px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg/1920px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2257.jpg
+  Aplerbeck von Feldchenbahnbruecke IMGP2266.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg/400px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg/800px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg/1200px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg/1920px-Aplerbeck_von_Feldchenbahnbruecke_IMGP2266.jpg
+  Großen Kirche in Aplerbeck Achteckiger Turmaufbau..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg/400px-Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg/800px-Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg/1200px-Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg/1920px-Großen_Kirche_in_Aplerbeck_Achteckiger_Turmaufbau..jpg
+  Aplerbeck Grosse Kirche IMGP0446 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/400px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/800px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/1200px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg/1920px-Aplerbeck_Grosse_Kirche_IMGP0446_wp.jpg
 ---
 
 ## Overview

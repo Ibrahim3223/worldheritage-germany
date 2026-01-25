@@ -13,7 +13,7 @@ regions:
 latitude: 52.8626
 longitude: 9.49476
 images:
-  - "/images-sites/vehmsmoor/01-4d5f7595-800w.webp"
+  - "/images/vehmsmoor/01-4d5f7595-800w.webp"
 ---
 
 ## Overview

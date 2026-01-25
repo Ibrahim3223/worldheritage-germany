@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Bentzin"
-site_name: "Dorfkirche Bentzin"
-slug: "dorfkirche-bentzin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Bentzin
+site_name: Dorfkirche Bentzin
+slug: dorfkirche-bentzin
+region: Mecklenburg-Vorpommern
 latitude: 53.9493
 longitude: 13.274
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244131"
-description: "Dorfkirche Bentzin is a remarkable example of Gothic Revival architecture, located in the tranquil village of Bentzin, Germany. This church building sta..."
+- church building
+- religious site
+wikidata_id: Q1244131
+description: Dorfkirche Bentzin is a remarkable example of Gothic Revival architecture,
+  located in the tranquil village of Bentzin, Germany. This church building sta...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg/1200px-Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bentzin_Kirche.jpg/1200px-Bentzin_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bentzin_Kirche_Ostgiebel.jpg/1200px-Bentzin_Kirche_Ostgiebel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bentzin_Kirche_Westturm.jpg/1200px-Bentzin_Kirche_Westturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1200px-Bentzin_Kirche_Südseite_01.jpg
+image_srcset:
+  Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg/400px-Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg/800px-Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg/1200px-Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg/1920px-Bentzin%20Kirche%20S%C3%BCdseite%2001.jpg
+  Bentzin Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bentzin_Kirche.jpg/400px-Bentzin_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bentzin_Kirche.jpg/800px-Bentzin_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bentzin_Kirche.jpg/1200px-Bentzin_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bentzin_Kirche.jpg/1920px-Bentzin_Kirche.jpg
+  Bentzin Kirche Ostgiebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bentzin_Kirche_Ostgiebel.jpg/400px-Bentzin_Kirche_Ostgiebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bentzin_Kirche_Ostgiebel.jpg/800px-Bentzin_Kirche_Ostgiebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bentzin_Kirche_Ostgiebel.jpg/1200px-Bentzin_Kirche_Ostgiebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bentzin_Kirche_Ostgiebel.jpg/1920px-Bentzin_Kirche_Ostgiebel.jpg
+  Bentzin Kirche Westturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bentzin_Kirche_Westturm.jpg/400px-Bentzin_Kirche_Westturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bentzin_Kirche_Westturm.jpg/800px-Bentzin_Kirche_Westturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bentzin_Kirche_Westturm.jpg/1200px-Bentzin_Kirche_Westturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bentzin_Kirche_Westturm.jpg/1920px-Bentzin_Kirche_Westturm.jpg
+  Bentzin Kirche Südseite 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/400px-Bentzin_Kirche_Südseite_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/800px-Bentzin_Kirche_Südseite_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1200px-Bentzin_Kirche_Südseite_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bentzin_Kirche_Südseite_01.jpg/1920px-Bentzin_Kirche_Südseite_01.jpg
 ---
 
 ## Overview

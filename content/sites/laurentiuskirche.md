@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1808223"
 description: "Laurentiuskirche, a striking example of Baroque architecture, resides in Hemmingen, Germany. This church not only serves as a place of worship but also ..."
 images:
-  - "/images-sites/laurentiuskirche/01-0576a350-1920w.webp"
-  - "/images-sites/laurentiuskirche/02-656b18ef-1920w.webp"
-  - "/images-sites/laurentiuskirche/03-1e827d57-1920w.webp"
+  - "/images/laurentiuskirche/01-0576a350-1920w.webp"
+  - "/images/laurentiuskirche/02-656b18ef-1920w.webp"
+  - "/images/laurentiuskirche/03-1e827d57-1920w.webp"
 ---
 
 ## Overview

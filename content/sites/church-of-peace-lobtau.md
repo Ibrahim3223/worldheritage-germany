@@ -1,19 +1,27 @@
 ---
-title: "Church of PeaceLöbtau"
-site_name: "Church of PeaceLöbtau"
-slug: "church-of-peace-lobtau"
-region: "Saxony"
-
-# Location
+title: Church of PeaceLöbtau
+site_name: Church of PeaceLöbtau
+slug: church-of-peace-lobtau
+region: Saxony
 latitude: 51.0453
 longitude: 13.7002
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1456772"
-description: "The Church of Peace in Löbtau, a remarkable Lutheran church building located in Dresden, Germany, offers a unique glimpse into post-war architecture and..."
+- cultural site
+wikidata_id: Q1456772
+description: The Church of Peace in Löbtau, a remarkable Lutheran church building
+  located in Dresden, Germany, offers a unique glimpse into post-war architecture
+  and...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedenskirche%20Dresden%20vollst.jpg/1200px-Friedenskirche%20Dresden%20vollst.jpg
+image_srcset:
+  Friedenskirche%20Dresden%20vollst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedenskirche%20Dresden%20vollst.jpg/400px-Friedenskirche%20Dresden%20vollst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedenskirche%20Dresden%20vollst.jpg/800px-Friedenskirche%20Dresden%20vollst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedenskirche%20Dresden%20vollst.jpg/1200px-Friedenskirche%20Dresden%20vollst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedenskirche%20Dresden%20vollst.jpg/1920px-Friedenskirche%20Dresden%20vollst.jpg
 ---
 
 ## Overview

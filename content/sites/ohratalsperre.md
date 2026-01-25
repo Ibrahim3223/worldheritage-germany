@@ -13,7 +13,7 @@ regions:
 latitude: 50.76153
 longitude: 10.71303
 images:
-  - "/images-sites/ohratalsperre/01-a5f08b56-800w.webp"
+  - "/images/ohratalsperre/01-a5f08b56-800w.webp"
 ---
 
 ## Overview

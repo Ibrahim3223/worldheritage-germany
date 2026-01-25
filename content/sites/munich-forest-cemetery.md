@@ -13,7 +13,7 @@ regions:
 latitude: 48.102777777
 longitude: 11.493611111
 images:
-  - "/images-sites/munich-forest-cemetery/01-9199153f-800w.webp"
+  - "/images/munich-forest-cemetery/01-9199153f-800w.webp"
 ---
 
 ## Overview

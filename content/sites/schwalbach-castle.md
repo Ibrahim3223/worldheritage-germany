@@ -21,9 +21,9 @@ longitude: 8.08064
 
 # Images
 images:
-  - "/images-sites/schwalbach-castle/01-321e372d-800w.webp"
-  - "/images-sites/schwalbach-castle/02-a1f0d1bc-800w.webp"
-  - "/images-sites/schwalbach-castle/03-5e06c9aa-800w.webp"
+  - "/images/schwalbach-castle/01-321e372d-800w.webp"
+  - "/images/schwalbach-castle/02-a1f0d1bc-800w.webp"
+  - "/images/schwalbach-castle/03-5e06c9aa-800w.webp"
 ---
 
 ## Overview

@@ -21,8 +21,8 @@ longitude: 8.683611
 
 # Images
 images:
-  - "/images-sites/schirn-kunsthalle-frankfurt/02-2412c344-800w.webp"
-  - "/images-sites/schirn-kunsthalle-frankfurt/03-1fbd3aab-800w.webp"
+  - "/images/schirn-kunsthalle-frankfurt/02-2412c344-800w.webp"
+  - "/images/schirn-kunsthalle-frankfurt/03-1fbd3aab-800w.webp"
 ---
 
 ## Overview

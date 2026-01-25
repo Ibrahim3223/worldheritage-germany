@@ -21,9 +21,9 @@ longitude: 14.3388
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-dieselkraftwerk-cottbus/01-aa66502e-800w.webp"
-  - "/images-sites/kunstmuseum-dieselkraftwerk-cottbus/02-532f9c28-800w.webp"
-  - "/images-sites/kunstmuseum-dieselkraftwerk-cottbus/03-4dbd41cc-800w.webp"
+  - "/images/kunstmuseum-dieselkraftwerk-cottbus/01-aa66502e-800w.webp"
+  - "/images/kunstmuseum-dieselkraftwerk-cottbus/02-532f9c28-800w.webp"
+  - "/images/kunstmuseum-dieselkraftwerk-cottbus/03-4dbd41cc-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hochdorf Chieftain's Grave"
+title: Hochdorf Chieftain's Grave
 date: 2026-01-23
 draft: false
-description: "burial chamber and museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: burial chamber and museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.889166666
 longitude: 9.003333333
 images:
-  - "/images-sites/hochdorf-chieftains-grave/01-7c2e3aa7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Keltenmuseum_Hochdorf_02.jpg/1200px-Keltenmuseum_Hochdorf_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Keltenmuseum_Hochdorf_01.jpg/1200px-Keltenmuseum_Hochdorf_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hochdorf_Chieftain's_Grave_reconstruction.jpg/1200px-Hochdorf_Chieftain's_Grave_reconstruction.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/1200px-Keltengrabhuegel_Hochdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HochdorfKeltenmuseum.jpg/1200px-HochdorfKeltenmuseum.jpg
+image_srcset:
+  Keltenmuseum Hochdorf 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Keltenmuseum_Hochdorf_02.jpg/400px-Keltenmuseum_Hochdorf_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Keltenmuseum_Hochdorf_02.jpg/800px-Keltenmuseum_Hochdorf_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Keltenmuseum_Hochdorf_02.jpg/1200px-Keltenmuseum_Hochdorf_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Keltenmuseum_Hochdorf_02.jpg/1920px-Keltenmuseum_Hochdorf_02.jpg
+  Keltenmuseum Hochdorf 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Keltenmuseum_Hochdorf_01.jpg/400px-Keltenmuseum_Hochdorf_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Keltenmuseum_Hochdorf_01.jpg/800px-Keltenmuseum_Hochdorf_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Keltenmuseum_Hochdorf_01.jpg/1200px-Keltenmuseum_Hochdorf_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Keltenmuseum_Hochdorf_01.jpg/1920px-Keltenmuseum_Hochdorf_01.jpg
+  Hochdorf Chieftain's Grave reconstruction.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hochdorf_Chieftain's_Grave_reconstruction.jpg/400px-Hochdorf_Chieftain's_Grave_reconstruction.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hochdorf_Chieftain's_Grave_reconstruction.jpg/800px-Hochdorf_Chieftain's_Grave_reconstruction.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hochdorf_Chieftain's_Grave_reconstruction.jpg/1200px-Hochdorf_Chieftain's_Grave_reconstruction.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hochdorf_Chieftain's_Grave_reconstruction.jpg/1920px-Hochdorf_Chieftain's_Grave_reconstruction.jpg
+  Keltengrabhuegel Hochdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/400px-Keltengrabhuegel_Hochdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/800px-Keltengrabhuegel_Hochdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/1200px-Keltengrabhuegel_Hochdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Keltengrabhuegel_Hochdorf.jpg/1920px-Keltengrabhuegel_Hochdorf.jpg
+  HochdorfKeltenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HochdorfKeltenmuseum.jpg/400px-HochdorfKeltenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HochdorfKeltenmuseum.jpg/800px-HochdorfKeltenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HochdorfKeltenmuseum.jpg/1200px-HochdorfKeltenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HochdorfKeltenmuseum.jpg/1920px-HochdorfKeltenmuseum.jpg
 ---
 
 ## Overview

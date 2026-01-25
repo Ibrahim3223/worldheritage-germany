@@ -1,19 +1,49 @@
 ---
-title: "Burg Mandach"
+title: Burg Mandach
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.70684487
 longitude: 8.27603102
 images:
-  - "/images-sites/burg-mandach/01-498d4bf0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Mandach_Mauerrest.jpg/1200px-Burg_Mandach_Mauerrest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ruine_Mandach.jpg/1200px-Ruine_Mandach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ruine_Mandach_Mauerwerk.jpg/1200px-Ruine_Mandach_Mauerwerk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ruine_Mandach_Ruine.jpg/1200px-Ruine_Mandach_Ruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1200px-Ruine_Mandach_Burgrest.jpg
+image_srcset:
+  Burg Mandach Mauerrest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Mandach_Mauerrest.jpg/400px-Burg_Mandach_Mauerrest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Mandach_Mauerrest.jpg/800px-Burg_Mandach_Mauerrest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Mandach_Mauerrest.jpg/1200px-Burg_Mandach_Mauerrest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Mandach_Mauerrest.jpg/1920px-Burg_Mandach_Mauerrest.jpg
+  Ruine Mandach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ruine_Mandach.jpg/400px-Ruine_Mandach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ruine_Mandach.jpg/800px-Ruine_Mandach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ruine_Mandach.jpg/1200px-Ruine_Mandach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ruine_Mandach.jpg/1920px-Ruine_Mandach.jpg
+  Ruine Mandach Mauerwerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ruine_Mandach_Mauerwerk.jpg/400px-Ruine_Mandach_Mauerwerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ruine_Mandach_Mauerwerk.jpg/800px-Ruine_Mandach_Mauerwerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ruine_Mandach_Mauerwerk.jpg/1200px-Ruine_Mandach_Mauerwerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ruine_Mandach_Mauerwerk.jpg/1920px-Ruine_Mandach_Mauerwerk.jpg
+  Ruine Mandach Ruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ruine_Mandach_Ruine.jpg/400px-Ruine_Mandach_Ruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ruine_Mandach_Ruine.jpg/800px-Ruine_Mandach_Ruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ruine_Mandach_Ruine.jpg/1200px-Ruine_Mandach_Ruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ruine_Mandach_Ruine.jpg/1920px-Ruine_Mandach_Ruine.jpg
+  Ruine Mandach Burgrest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/400px-Ruine_Mandach_Burgrest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/800px-Ruine_Mandach_Burgrest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1200px-Ruine_Mandach_Burgrest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ruine_Mandach_Burgrest.jpg/1920px-Ruine_Mandach_Burgrest.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.537
 longitude: 7.22307
 images:
-  - "/images-sites/martin-opitz-library/01-56430ab6-800w.webp"
+  - "/images/martin-opitz-library/01-56430ab6-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q810111"
 description: "St. Godehard, a remarkable church building located in Hildesheim, Germany, serves as a profound embodiment of Romanesque architecture. Founded in 1101, ..."
 images:
-  - "/images-sites/st-godehard/01-f13186f6-1920w.webp"
-  - "/images-sites/st-godehard/02-1e14995e-1920w.webp"
-  - "/images-sites/st-godehard/03-05fbc3b2-1920w.webp"
+  - "/images/st-godehard/01-f13186f6-1920w.webp"
+  - "/images/st-godehard/02-1e14995e-1920w.webp"
+  - "/images/st-godehard/03-05fbc3b2-1920w.webp"
 ---
 
 ## Overview

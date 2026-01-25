@@ -13,7 +13,7 @@ regions:
 latitude: 51.3588
 longitude: 12.3628
 images:
-  - "/images-sites/schillerhaus/01-59da22bb-800w.webp"
+  - "/images/schillerhaus/01-59da22bb-800w.webp"
 ---
 
 ## Overview

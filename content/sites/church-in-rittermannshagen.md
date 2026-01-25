@@ -1,19 +1,44 @@
 ---
-title: "Church in Rittermannshagen"
-site_name: "Church in Rittermannshagen"
-slug: "church-in-rittermannshagen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Rittermannshagen
+site_name: Church in Rittermannshagen
+slug: church-in-rittermannshagen
+region: Mecklenburg-Vorpommern
 latitude: 53.6236
 longitude: 12.7637
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244659"
-description: "In the quaint region of Faulenrost, Germany, lies the Church in Rittermannshagen, a site that encapsulates the essence of Brick Gothic architecture. Thi..."
+- cultural site
+wikidata_id: Q1244659
+description: In the quaint region of Faulenrost, Germany, lies the Church in Rittermannshagen,
+  a site that encapsulates the essence of Brick Gothic architecture. Thi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rittermannshagen-kirche0801.jpg/1200px-Rittermannshagen-kirche0801.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rittermannshagen-kirchfig2.jpg/1200px-Rittermannshagen-kirchfig2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rittermannshagen-kirche0804.jpg/1200px-Rittermannshagen-kirche0804.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rittermannshagen-kirchbild2.jpg/1200px-Rittermannshagen-kirchbild2.jpg
+image_srcset:
+  Rittermannshagen-kirche0801.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rittermannshagen-kirche0801.jpg/400px-Rittermannshagen-kirche0801.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rittermannshagen-kirche0801.jpg/800px-Rittermannshagen-kirche0801.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rittermannshagen-kirche0801.jpg/1200px-Rittermannshagen-kirche0801.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rittermannshagen-kirche0801.jpg/1920px-Rittermannshagen-kirche0801.jpg
+  Rittermannshagen-kirchfig2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rittermannshagen-kirchfig2.jpg/400px-Rittermannshagen-kirchfig2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rittermannshagen-kirchfig2.jpg/800px-Rittermannshagen-kirchfig2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rittermannshagen-kirchfig2.jpg/1200px-Rittermannshagen-kirchfig2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rittermannshagen-kirchfig2.jpg/1920px-Rittermannshagen-kirchfig2.jpg
+  Rittermannshagen-kirche0804.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rittermannshagen-kirche0804.jpg/400px-Rittermannshagen-kirche0804.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rittermannshagen-kirche0804.jpg/800px-Rittermannshagen-kirche0804.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rittermannshagen-kirche0804.jpg/1200px-Rittermannshagen-kirche0804.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rittermannshagen-kirche0804.jpg/1920px-Rittermannshagen-kirche0804.jpg
+  Rittermannshagen-kirchbild2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rittermannshagen-kirchbild2.jpg/400px-Rittermannshagen-kirchbild2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rittermannshagen-kirchbild2.jpg/800px-Rittermannshagen-kirchbild2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rittermannshagen-kirchbild2.jpg/1200px-Rittermannshagen-kirchbild2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rittermannshagen-kirchbild2.jpg/1920px-Rittermannshagen-kirchbild2.jpg
 ---
 
 ## Overview

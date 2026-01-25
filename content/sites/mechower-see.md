@@ -13,8 +13,8 @@ regions:
 latitude: 53.715277777
 longitude: 10.8225
 images:
-  - "/images-sites/mechower-see/02-8e9f5978-800w.webp"
-  - "/images-sites/mechower-see/03-adf72b8c-800w.webp"
+  - "/images/mechower-see/02-8e9f5978-800w.webp"
+  - "/images/mechower-see/03-adf72b8c-800w.webp"
 ---
 
 ## Overview

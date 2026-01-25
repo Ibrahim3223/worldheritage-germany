@@ -13,9 +13,9 @@ regions:
 latitude: 51.0413
 longitude: 13.733
 images:
-  - "/images-sites/wiener-platz/01-313c0056-800w.webp"
-  - "/images-sites/wiener-platz/02-a70ce662-800w.webp"
-  - "/images-sites/wiener-platz/03-ab9473ed-800w.webp"
+  - "/images/wiener-platz/01-313c0056-800w.webp"
+  - "/images/wiener-platz/02-a70ce662-800w.webp"
+  - "/images/wiener-platz/03-ab9473ed-800w.webp"
 ---
 
 ## Overview

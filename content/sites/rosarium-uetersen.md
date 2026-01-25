@@ -21,7 +21,7 @@ longitude: 9.66981
 
 # Images
 images:
-  - "/images-sites/rosarium-uetersen/01-45a0dd5d-800w.webp"
+  - "/images/rosarium-uetersen/01-45a0dd5d-800w.webp"
 ---
 
 ## Overview

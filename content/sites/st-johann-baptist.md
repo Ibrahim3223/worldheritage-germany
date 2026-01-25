@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2319094"
 description: "In the heart of Bad Honnef, Germany, the St. Johann Baptist church stands as a stunning example of Gothic architecture. With its intricate designs and t..."
 images:
-  - "/images-sites/st-johann-baptist/01-973b7000-1920w.webp"
-  - "/images-sites/st-johann-baptist/02-bd7dbaab-1920w.webp"
-  - "/images-sites/st-johann-baptist/03-87c3e755-1920w.webp"
+  - "/images/st-johann-baptist/01-973b7000-1920w.webp"
+  - "/images/st-johann-baptist/02-bd7dbaab-1920w.webp"
+  - "/images/st-johann-baptist/03-87c3e755-1920w.webp"
 ---
 
 ## Overview

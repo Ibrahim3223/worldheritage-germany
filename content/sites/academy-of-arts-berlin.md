@@ -1,19 +1,44 @@
 ---
-title: "Academy of Arts, Berlin"
+title: Academy of Arts, Berlin
 date: 2026-01-23
 draft: false
-description: "national German academic institution for the advancement of the arts; created in 1993 through the merger of the West and East German academies"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cultural Center"
+description: national German academic institution for the advancement of the arts;
+  created in 1993 through the merger of the West and East German academies
+region: Germany
+country: Germany
+heritage_type: Cultural Center
 categories:
-  - "Cultural Center"
+- Cultural Center
 regions:
-  - "Germany"
+- Germany
 latitude: 52.515
 longitude: 13.379444444
 images:
-  - "/images-sites/academy-of-arts-berlin/01-7e05b1b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1200px-Akademie_der_künste_berlin.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg/1200px-Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg/1200px-MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg/1200px-Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg
+image_srcset:
+  Akademie der künste berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/400px-Akademie_der_künste_berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/800px-Akademie_der_künste_berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1200px-Akademie_der_künste_berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akademie_der_künste_berlin.JPG/1920px-Akademie_der_künste_berlin.JPG
+  Jachtmann, Johann Ludwig und Christoph Carl Pfeuffer- Akademie der Künste - Münzkabinett, Berlin - 5781259.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg/400px-Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg/800px-Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg/1200px-Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg/1920px-Jachtmann,_Johann_Ludwig_und_Christoph_Carl_Pfeuffer-_Akademie_der_Künste_-_Münzkabinett,_Berlin_-_5781259.jpg
+  MOORE Liegende - WBerlin, Akad. d. Kte. - 79 - 148.44.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg/400px-MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg/800px-MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg/1200px-MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg/1920px-MOORE_Liegende_-_WBerlin,_Akad._d._Kte._-_79_-_148.44.jpg
+  Bundesarchiv Bild 183-C1005-0005-096, Berlin, Nationalpreis für Christa Wolf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg/400px-Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg/800px-Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg/1200px-Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg/1920px-Bundesarchiv_Bild_183-C1005-0005-096,_Berlin,_Nationalpreis_für_Christa_Wolf.jpg
 ---
 
 ## Overview

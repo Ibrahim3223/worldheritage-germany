@@ -13,9 +13,9 @@ regions:
 latitude: 52.36069
 longitude: 9.74175
 images:
-  - "/images-sites/landesfunkhaus-niedersachsen/01-7de00d50-800w.webp"
-  - "/images-sites/landesfunkhaus-niedersachsen/02-47945ceb-800w.webp"
-  - "/images-sites/landesfunkhaus-niedersachsen/03-caf4ea00-800w.webp"
+  - "/images/landesfunkhaus-niedersachsen/01-7de00d50-800w.webp"
+  - "/images/landesfunkhaus-niedersachsen/02-47945ceb-800w.webp"
+  - "/images/landesfunkhaus-niedersachsen/03-caf4ea00-800w.webp"
 ---
 
 ## Overview

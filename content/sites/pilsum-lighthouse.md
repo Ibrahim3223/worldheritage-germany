@@ -13,7 +13,7 @@ regions:
 latitude: 53.49799
 longitude: 7.04565
 images:
-  - "/images-sites/pilsum-lighthouse/02-ac8bab6d-800w.webp"
+  - "/images/pilsum-lighthouse/02-ac8bab6d-800w.webp"
 ---
 
 ## Overview

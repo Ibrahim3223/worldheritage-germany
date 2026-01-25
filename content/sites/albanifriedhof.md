@@ -1,19 +1,49 @@
 ---
-title: "Albanifriedhof"
+title: Albanifriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Göttingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Göttingen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.531938888
 longitude: 9.94195
 images:
-  - "/images-sites/albanifriedhof/01-da7f1db2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Göttingen_asv2022-06_img43_Albani-Friedhof.jpg/1200px-Göttingen_asv2022-06_img43_Albani-Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J.F.Blumenbach_gravestone_Goettingen.png/1200px-J.F.Blumenbach_gravestone_Goettingen.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Göttingen-Grave.of.Ernst.Poten_01.jpg/1200px-Göttingen-Grave.of.Ernst.Poten_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg/1200px-Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg/1200px-Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg
+image_srcset:
+  Göttingen asv2022-06 img43 Albani-Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Göttingen_asv2022-06_img43_Albani-Friedhof.jpg/400px-Göttingen_asv2022-06_img43_Albani-Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Göttingen_asv2022-06_img43_Albani-Friedhof.jpg/800px-Göttingen_asv2022-06_img43_Albani-Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Göttingen_asv2022-06_img43_Albani-Friedhof.jpg/1200px-Göttingen_asv2022-06_img43_Albani-Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Göttingen_asv2022-06_img43_Albani-Friedhof.jpg/1920px-Göttingen_asv2022-06_img43_Albani-Friedhof.jpg
+  J.F.Blumenbach gravestone Goettingen.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J.F.Blumenbach_gravestone_Goettingen.png/400px-J.F.Blumenbach_gravestone_Goettingen.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J.F.Blumenbach_gravestone_Goettingen.png/800px-J.F.Blumenbach_gravestone_Goettingen.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J.F.Blumenbach_gravestone_Goettingen.png/1200px-J.F.Blumenbach_gravestone_Goettingen.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J.F.Blumenbach_gravestone_Goettingen.png/1920px-J.F.Blumenbach_gravestone_Goettingen.png
+  Göttingen-Grave.of.Ernst.Poten 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Göttingen-Grave.of.Ernst.Poten_01.jpg/400px-Göttingen-Grave.of.Ernst.Poten_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Göttingen-Grave.of.Ernst.Poten_01.jpg/800px-Göttingen-Grave.of.Ernst.Poten_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Göttingen-Grave.of.Ernst.Poten_01.jpg/1200px-Göttingen-Grave.of.Ernst.Poten_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Göttingen-Grave.of.Ernst.Poten_01.jpg/1920px-Göttingen-Grave.of.Ernst.Poten_01.jpg
+  Goettingen Albanifriedhof von Schwanenteich aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg/400px-Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg/800px-Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg/1200px-Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg/1920px-Goettingen_Albanifriedhof_von_Schwanenteich_aus.jpg
+  Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg/400px-Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg/800px-Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg/1200px-Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg/1920px-Göttingen-Grave.of.Johann.Gottfried.Eichhorn.02.jpg
 ---
 
 ## Overview

@@ -1,19 +1,31 @@
 ---
-title: "Frankfurt Charterhouse"
+title: Frankfurt Charterhouse
 date: 2026-01-23
 draft: false
-description: "carthusian monastery in Frankfurt an der Oder, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: carthusian monastery in Frankfurt an der Oder, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.333333
 longitude: 14.553139
 images:
-  - "/images-sites/frankfurt-charterhouse/01-5261feff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kartuizerembleem.jpg/1200px-Kartuizerembleem.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg/1200px-Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg
+image_srcset:
+  Kartuizerembleem.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kartuizerembleem.jpg/400px-Kartuizerembleem.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kartuizerembleem.jpg/800px-Kartuizerembleem.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kartuizerembleem.jpg/1200px-Kartuizerembleem.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kartuizerembleem.jpg/1920px-Kartuizerembleem.jpg
+  Caspar Merian - Francofurtum ad Viadrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg/400px-Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg/800px-Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg/1200px-Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg/1920px-Caspar_Merian_-_Francofurtum_ad_Viadrum.jpg
 ---
 
 ## Overview

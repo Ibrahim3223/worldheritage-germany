@@ -1,19 +1,49 @@
 ---
-title: "Fehmarn Flügge"
+title: Fehmarn Flügge
 date: 2026-01-23
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.4425
 longitude: 11.01916667
 images:
-  - "/images-sites/fehmarn-fluegge/01-0f3b6f51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg/1200px-2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg/1200px-Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fehmarn_Flügge-msu-0832.jpg/1200px-Fehmarn_Flügge-msu-0832.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Leuchtturm_Fluegge.jpg/1200px-Leuchtturm_Fluegge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Leuchtturm_Flügger_(Querschnitt).jpg/1200px-Leuchtturm_Flügger_(Querschnitt).jpg
+image_srcset:
+  2018-09-16 Leuchtturm Fluegge-msu-0967.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg/400px-2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg/800px-2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg/1200px-2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg/1920px-2018-09-16_Leuchtturm_Fluegge-msu-0967.jpg
+  Leuchtturm Flügge Türe zur Aussichtsplattform.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg/400px-Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg/800px-Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg/1200px-Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg/1920px-Leuchtturm_Flügge_Türe_zur_Aussichtsplattform.jpg
+  Fehmarn Flügge-msu-0832.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fehmarn_Flügge-msu-0832.jpg/400px-Fehmarn_Flügge-msu-0832.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fehmarn_Flügge-msu-0832.jpg/800px-Fehmarn_Flügge-msu-0832.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fehmarn_Flügge-msu-0832.jpg/1200px-Fehmarn_Flügge-msu-0832.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fehmarn_Flügge-msu-0832.jpg/1920px-Fehmarn_Flügge-msu-0832.jpg
+  Leuchtturm Fluegge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Leuchtturm_Fluegge.jpg/400px-Leuchtturm_Fluegge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Leuchtturm_Fluegge.jpg/800px-Leuchtturm_Fluegge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Leuchtturm_Fluegge.jpg/1200px-Leuchtturm_Fluegge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Leuchtturm_Fluegge.jpg/1920px-Leuchtturm_Fluegge.jpg
+  Leuchtturm Flügger (Querschnitt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Leuchtturm_Flügger_(Querschnitt).jpg/400px-Leuchtturm_Flügger_(Querschnitt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Leuchtturm_Flügger_(Querschnitt).jpg/800px-Leuchtturm_Flügger_(Querschnitt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Leuchtturm_Flügger_(Querschnitt).jpg/1200px-Leuchtturm_Flügger_(Querschnitt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Leuchtturm_Flügger_(Querschnitt).jpg/1920px-Leuchtturm_Flügger_(Querschnitt).jpg
 ---
 
 ## Overview

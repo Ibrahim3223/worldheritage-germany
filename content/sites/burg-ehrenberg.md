@@ -1,29 +1,49 @@
 ---
-title: "Burg Ehrenberg"
+title: Burg Ehrenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2672
 longitude: 9.14639
-
-# Images
 images:
-  - "/images-sites/burg-ehrenberg/01-9bc7c3f1-800w.webp"
-  - "/images-sites/burg-ehrenberg/02-0a5b60d2-800w.webp"
-  - "/images-sites/burg-ehrenberg/03-b6f0473b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG/1200px-20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg/1200px-Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reutte_-_Burgruine_Ehrenberg_(b).JPG/1200px-Reutte_-_Burgruine_Ehrenberg_(b).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_ehrenberg_HDR2.jpg/1200px-Burg_ehrenberg_HDR2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ehrenberg_Panorama10.jpg/1200px-Ehrenberg_Panorama10.jpg
+image_srcset:
+  20171122 Ehrenberg Nacht 01 DSC07431 PtrQs.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG/400px-20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG/800px-20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG/1200px-20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG/1920px-20171122_Ehrenberg_Nacht_01_DSC07431_PtrQs.JPG
+  Bad Rappenau - Heinsheim - Burg Ehrenberg - Ansicht von Norden (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg/400px-Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg/800px-Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg/1200px-Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg/1920px-Bad_Rappenau_-_Heinsheim_-_Burg_Ehrenberg_-_Ansicht_von_Norden_(1).jpg
+  Reutte - Burgruine Ehrenberg (b).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reutte_-_Burgruine_Ehrenberg_(b).JPG/400px-Reutte_-_Burgruine_Ehrenberg_(b).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reutte_-_Burgruine_Ehrenberg_(b).JPG/800px-Reutte_-_Burgruine_Ehrenberg_(b).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reutte_-_Burgruine_Ehrenberg_(b).JPG/1200px-Reutte_-_Burgruine_Ehrenberg_(b).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reutte_-_Burgruine_Ehrenberg_(b).JPG/1920px-Reutte_-_Burgruine_Ehrenberg_(b).JPG
+  Burg ehrenberg HDR2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_ehrenberg_HDR2.jpg/400px-Burg_ehrenberg_HDR2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_ehrenberg_HDR2.jpg/800px-Burg_ehrenberg_HDR2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_ehrenberg_HDR2.jpg/1200px-Burg_ehrenberg_HDR2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_ehrenberg_HDR2.jpg/1920px-Burg_ehrenberg_HDR2.jpg
+  Ehrenberg Panorama10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ehrenberg_Panorama10.jpg/400px-Ehrenberg_Panorama10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ehrenberg_Panorama10.jpg/800px-Ehrenberg_Panorama10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ehrenberg_Panorama10.jpg/1200px-Ehrenberg_Panorama10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ehrenberg_Panorama10.jpg/1920px-Ehrenberg_Panorama10.jpg
 ---
 
 ## Overview

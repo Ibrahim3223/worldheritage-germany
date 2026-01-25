@@ -1,27 +1,37 @@
 ---
-title: "Hertenstein Castle"
+title: Hertenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2979
 longitude: 9.88854
-
-# Images
 images:
-  - "/images-sites/hertenstein-castle/01-aca9dd0a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hertenstein_Castle,_part_of_the_moat_01.jpg/1200px-Hertenstein_Castle,_part_of_the_moat_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hertenstein_Castle,_part_of_the_moat_02.jpg/1200px-Hertenstein_Castle,_part_of_the_moat_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hertenstein_Castle,_remains_of_the_keep.jpg/1200px-Hertenstein_Castle,_remains_of_the_keep.jpg
+image_srcset:
+  Hertenstein Castle, part of the moat 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hertenstein_Castle,_part_of_the_moat_01.jpg/400px-Hertenstein_Castle,_part_of_the_moat_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hertenstein_Castle,_part_of_the_moat_01.jpg/800px-Hertenstein_Castle,_part_of_the_moat_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hertenstein_Castle,_part_of_the_moat_01.jpg/1200px-Hertenstein_Castle,_part_of_the_moat_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hertenstein_Castle,_part_of_the_moat_01.jpg/1920px-Hertenstein_Castle,_part_of_the_moat_01.jpg
+  Hertenstein Castle, part of the moat 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hertenstein_Castle,_part_of_the_moat_02.jpg/400px-Hertenstein_Castle,_part_of_the_moat_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hertenstein_Castle,_part_of_the_moat_02.jpg/800px-Hertenstein_Castle,_part_of_the_moat_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hertenstein_Castle,_part_of_the_moat_02.jpg/1200px-Hertenstein_Castle,_part_of_the_moat_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hertenstein_Castle,_part_of_the_moat_02.jpg/1920px-Hertenstein_Castle,_part_of_the_moat_02.jpg
+  Hertenstein Castle, remains of the keep.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hertenstein_Castle,_remains_of_the_keep.jpg/400px-Hertenstein_Castle,_remains_of_the_keep.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hertenstein_Castle,_remains_of_the_keep.jpg/800px-Hertenstein_Castle,_remains_of_the_keep.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hertenstein_Castle,_remains_of_the_keep.jpg/1200px-Hertenstein_Castle,_remains_of_the_keep.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hertenstein_Castle,_remains_of_the_keep.jpg/1920px-Hertenstein_Castle,_remains_of_the_keep.jpg
 ---
 
 ## Overview

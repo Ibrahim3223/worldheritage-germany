@@ -1,19 +1,49 @@
 ---
-title: "Islamic Centre Hamburg"
+title: Islamic Centre Hamburg
 date: 2026-01-23
 draft: false
-description: "mosque"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 53.574569444
 longitude: 10.008416666
 images:
-  - "/images-sites/islamic-centre-hamburg/01-affe261c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg,_Imam-Ali-Moschee_01.jpg/1200px-Hamburg,_Imam-Ali-Moschee_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20230317_Imam-Ali-Moschee_Hamburg.jpg/1200px-20230317_Imam-Ali-Moschee_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg/1200px-Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1200px-Imam-Ali-Moschee_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg/1200px-Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg
+image_srcset:
+  Hamburg, Imam-Ali-Moschee 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg,_Imam-Ali-Moschee_01.jpg/400px-Hamburg,_Imam-Ali-Moschee_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg,_Imam-Ali-Moschee_01.jpg/800px-Hamburg,_Imam-Ali-Moschee_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg,_Imam-Ali-Moschee_01.jpg/1200px-Hamburg,_Imam-Ali-Moschee_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg,_Imam-Ali-Moschee_01.jpg/1920px-Hamburg,_Imam-Ali-Moschee_01.jpg
+  20230317 Imam-Ali-Moschee Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20230317_Imam-Ali-Moschee_Hamburg.jpg/400px-20230317_Imam-Ali-Moschee_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20230317_Imam-Ali-Moschee_Hamburg.jpg/800px-20230317_Imam-Ali-Moschee_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20230317_Imam-Ali-Moschee_Hamburg.jpg/1200px-20230317_Imam-Ali-Moschee_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20230317_Imam-Ali-Moschee_Hamburg.jpg/1920px-20230317_Imam-Ali-Moschee_Hamburg.jpg
+  Hamburg Imam-Ali-Moschee Innen Gebetsraum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg/400px-Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg/800px-Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg/1200px-Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg/1920px-Hamburg_Imam-Ali-Moschee_Innen_Gebetsraum_2.jpg
+  Imam-Ali-Moschee Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/400px-Imam-Ali-Moschee_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/800px-Imam-Ali-Moschee_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1200px-Imam-Ali-Moschee_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imam-Ali-Moschee_Hamburg.jpg/1920px-Imam-Ali-Moschee_Hamburg.jpg
+  Islamischen Zentrum Hamburg Razzia und Schließung am 24. Juli 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg/400px-Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg/800px-Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg/1200px-Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg/1920px-Islamischen_Zentrum_Hamburg_Razzia_und_Schließung_am_24._Juli_2024.jpg
 ---
 
 ## Overview

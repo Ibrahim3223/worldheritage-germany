@@ -1,27 +1,49 @@
 ---
-title: "Ducal Museum Gotha"
+title: Ducal Museum Gotha
 date: 2026-01-23
 draft: false
-description: "museum at Friedenstein Castle in Gotha, Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum at Friedenstein Castle in Gotha, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.94354
 longitude: 10.70572
-
-# Images
 images:
-  - "/images-sites/ducal-museum-gotha/01-6bb3485c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg/1200px-Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg/1200px-Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ducal_Museum_in_Gotha_19.jpg/1200px-Ducal_Museum_in_Gotha_19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/1200px-Ducal_Museum_in_Gotha_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ducal_Museum_in_Gotha_09.jpg/1200px-Ducal_Museum_in_Gotha_09.jpg
+image_srcset:
+  Thuringia Gotha asv2020-07 img28 Herzogliches Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg/400px-Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg/800px-Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg/1200px-Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg/1920px-Thuringia_Gotha_asv2020-07_img28_Herzogliches_Museum.jpg
+  Thuringia Gotha asv2020-07 img04 Herzogliches Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg/400px-Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg/800px-Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg/1200px-Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg/1920px-Thuringia_Gotha_asv2020-07_img04_Herzogliches_Museum.jpg
+  Ducal Museum in Gotha 19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ducal_Museum_in_Gotha_19.jpg/400px-Ducal_Museum_in_Gotha_19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ducal_Museum_in_Gotha_19.jpg/800px-Ducal_Museum_in_Gotha_19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ducal_Museum_in_Gotha_19.jpg/1200px-Ducal_Museum_in_Gotha_19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ducal_Museum_in_Gotha_19.jpg/1920px-Ducal_Museum_in_Gotha_19.jpg
+  Ducal Museum in Gotha 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/400px-Ducal_Museum_in_Gotha_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/800px-Ducal_Museum_in_Gotha_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/1200px-Ducal_Museum_in_Gotha_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ducal_Museum_in_Gotha_18.jpg/1920px-Ducal_Museum_in_Gotha_18.jpg
+  Ducal Museum in Gotha 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ducal_Museum_in_Gotha_09.jpg/400px-Ducal_Museum_in_Gotha_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ducal_Museum_in_Gotha_09.jpg/800px-Ducal_Museum_in_Gotha_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ducal_Museum_in_Gotha_09.jpg/1200px-Ducal_Museum_in_Gotha_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ducal_Museum_in_Gotha_09.jpg/1920px-Ducal_Museum_in_Gotha_09.jpg
 ---
 
 ## Overview

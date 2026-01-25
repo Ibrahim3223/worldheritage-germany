@@ -13,7 +13,7 @@ regions:
 latitude: 50.0819
 longitude: 8.24139
 images:
-  - "/images-sites/schlossplatz/01-51c66976-800w.webp"
+  - "/images/schlossplatz/01-51c66976-800w.webp"
 ---
 
 ## Overview

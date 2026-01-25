@@ -13,7 +13,7 @@ regions:
 latitude: 52.5225
 longitude: 13.51611111
 images:
-  - "/images-sites/revolutionsdenkmal-zentralfriedhof-friedrichsfelde/01-8b0934e5-800w.webp"
+  - "/images/revolutionsdenkmal-zentralfriedhof-friedrichsfelde/01-8b0934e5-800w.webp"
 ---
 
 ## Overview

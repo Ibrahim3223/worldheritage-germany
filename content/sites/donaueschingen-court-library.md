@@ -1,19 +1,49 @@
 ---
-title: "Donaueschingen court library"
+title: Donaueschingen court library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 47.95211
 longitude: 8.49912
 images:
-  - "/images-sites/donaueschingen-court-library/02-2f4fe989-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graf_ausverkauf_donaueschingen.png/1200px-Graf_ausverkauf_donaueschingen.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sicherer-erinnerung-1861.jpg/1200px-Sicherer-erinnerung-1861.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schachzabel_donaueschingen.jpg/1200px-Schachzabel_donaueschingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Donaueschingen_M945Vocabularius2.jpg/1200px-Donaueschingen_M945Vocabularius2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bruschius_donaueschingen_fulda.JPG/1200px-Bruschius_donaueschingen_fulda.JPG
+image_srcset:
+  Graf ausverkauf donaueschingen.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graf_ausverkauf_donaueschingen.png/400px-Graf_ausverkauf_donaueschingen.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graf_ausverkauf_donaueschingen.png/800px-Graf_ausverkauf_donaueschingen.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graf_ausverkauf_donaueschingen.png/1200px-Graf_ausverkauf_donaueschingen.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graf_ausverkauf_donaueschingen.png/1920px-Graf_ausverkauf_donaueschingen.png
+  Sicherer-erinnerung-1861.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sicherer-erinnerung-1861.jpg/400px-Sicherer-erinnerung-1861.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sicherer-erinnerung-1861.jpg/800px-Sicherer-erinnerung-1861.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sicherer-erinnerung-1861.jpg/1200px-Sicherer-erinnerung-1861.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sicherer-erinnerung-1861.jpg/1920px-Sicherer-erinnerung-1861.jpg
+  Schachzabel donaueschingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schachzabel_donaueschingen.jpg/400px-Schachzabel_donaueschingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schachzabel_donaueschingen.jpg/800px-Schachzabel_donaueschingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schachzabel_donaueschingen.jpg/1200px-Schachzabel_donaueschingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schachzabel_donaueschingen.jpg/1920px-Schachzabel_donaueschingen.jpg
+  Donaueschingen M945Vocabularius2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Donaueschingen_M945Vocabularius2.jpg/400px-Donaueschingen_M945Vocabularius2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Donaueschingen_M945Vocabularius2.jpg/800px-Donaueschingen_M945Vocabularius2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Donaueschingen_M945Vocabularius2.jpg/1200px-Donaueschingen_M945Vocabularius2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Donaueschingen_M945Vocabularius2.jpg/1920px-Donaueschingen_M945Vocabularius2.jpg
+  Bruschius donaueschingen fulda.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bruschius_donaueschingen_fulda.JPG/400px-Bruschius_donaueschingen_fulda.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bruschius_donaueschingen_fulda.JPG/800px-Bruschius_donaueschingen_fulda.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bruschius_donaueschingen_fulda.JPG/1200px-Bruschius_donaueschingen_fulda.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bruschius_donaueschingen_fulda.JPG/1920px-Bruschius_donaueschingen_fulda.JPG
 ---
 
 ## Overview

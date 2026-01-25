@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1877932"
 description: "In the heart of Pankow, Germany, lies the Lutherkirche Berlin-Wilhelmsruh, a striking example of Gothic Revival architecture that invites visitors into ..."
 images:
-  - "/images-sites/lutherkirche-berlin-wilhelmsruh/01-2058c928-1920w.webp"
-  - "/images-sites/lutherkirche-berlin-wilhelmsruh/02-2a581001-1920w.webp"
-  - "/images-sites/lutherkirche-berlin-wilhelmsruh/03-f78e8076-1920w.webp"
+  - "/images/lutherkirche-berlin-wilhelmsruh/01-2058c928-1920w.webp"
+  - "/images/lutherkirche-berlin-wilhelmsruh/02-2a581001-1920w.webp"
+  - "/images/lutherkirche-berlin-wilhelmsruh/03-f78e8076-1920w.webp"
 ---
 
 ## Overview

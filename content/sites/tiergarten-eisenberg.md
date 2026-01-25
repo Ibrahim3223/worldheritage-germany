@@ -13,7 +13,7 @@ regions:
 latitude: 50.9667
 longitude: 11.9111
 images:
-  - "/images-sites/tiergarten-eisenberg/01-b926b1b1-800w.webp"
+  - "/images/tiergarten-eisenberg/01-b926b1b1-800w.webp"
 ---
 
 ## Overview

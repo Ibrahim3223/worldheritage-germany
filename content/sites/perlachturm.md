@@ -13,9 +13,9 @@ regions:
 latitude: 48.3692
 longitude: 10.8983
 images:
-  - "/images-sites/perlachturm/01-5ed39a31-800w.webp"
-  - "/images-sites/perlachturm/02-0ba23ffd-800w.webp"
-  - "/images-sites/perlachturm/03-6eb8ec93-800w.webp"
+  - "/images/perlachturm/01-5ed39a31-800w.webp"
+  - "/images/perlachturm/02-0ba23ffd-800w.webp"
+  - "/images/perlachturm/03-6eb8ec93-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Friedhof Schmargendorf"
+title: Friedhof Schmargendorf
 date: 2026-01-23
 draft: false
-description: "cemetery in Charlottenburg-Wilmersdorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Charlottenburg-Wilmersdorf, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4737
 longitude: 13.2926
 images:
-  - "/images-sites/friedhof-schmargendorf/01-c861dbcf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabstätte_Tübbeck.jpg/1200px-Grabstätte_Tübbeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Schmargendorf.png/1200px-Friedhof_Schmargendorf.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Ehrengrab.jpg/1200px-Berlin_Ehrengrab.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg/1200px-Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg/1200px-Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg
+image_srcset:
+  Grabstätte Tübbeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabstätte_Tübbeck.jpg/400px-Grabstätte_Tübbeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabstätte_Tübbeck.jpg/800px-Grabstätte_Tübbeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabstätte_Tübbeck.jpg/1200px-Grabstätte_Tübbeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Grabstätte_Tübbeck.jpg/1920px-Grabstätte_Tübbeck.jpg
+  Friedhof Schmargendorf.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Schmargendorf.png/400px-Friedhof_Schmargendorf.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Schmargendorf.png/800px-Friedhof_Schmargendorf.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Schmargendorf.png/1200px-Friedhof_Schmargendorf.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Schmargendorf.png/1920px-Friedhof_Schmargendorf.png
+  Berlin Ehrengrab.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Ehrengrab.jpg/400px-Berlin_Ehrengrab.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Ehrengrab.jpg/800px-Berlin_Ehrengrab.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Ehrengrab.jpg/1200px-Berlin_Ehrengrab.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Ehrengrab.jpg/1920px-Berlin_Ehrengrab.jpg
+  Friedhof Schmargendorf - Mausoleum Zimmermann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg/400px-Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg/800px-Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg/1200px-Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg/1920px-Friedhof_Schmargendorf_-_Mausoleum_Zimmermann.jpg
+  Friedhof Schmargendorf - Grab Richard Scheibe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg/400px-Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg/800px-Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg/1200px-Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg/1920px-Friedhof_Schmargendorf_-_Grab_Richard_Scheibe.jpg
 ---
 
 ## Overview

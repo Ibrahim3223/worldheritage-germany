@@ -1,19 +1,26 @@
 ---
-title: "German Bratwurst Museum"
+title: German Bratwurst Museum
 date: 2026-01-23
 draft: false
-description: "Sausage themed amusement park and museum in Mühlhausen/Thüringen, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Sausage themed amusement park and museum in Mühlhausen/Thüringen, Thuringia,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8506
 longitude: 10.8808
 images:
-  - "/images-sites/german-bratwurst-museum/01-5b1833de-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/1200px-Bratwurstmuseum_Mühlhausen_15.jpg
+image_srcset:
+  Bratwurstmuseum Mühlhausen 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/400px-Bratwurstmuseum_Mühlhausen_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/800px-Bratwurstmuseum_Mühlhausen_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/1200px-Bratwurstmuseum_Mühlhausen_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bratwurstmuseum_Mühlhausen_15.jpg/1920px-Bratwurstmuseum_Mühlhausen_15.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Grietherorter Altrhein"
+title: Grietherorter Altrhein
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7996
 longitude: 6.3238
 images:
-  - "/images-sites/grietherorter-altrhein/01-dd12bee5-800w.webp"
-  - "/images-sites/grietherorter-altrhein/02-d261493b-800w.webp"
-  - "/images-sites/grietherorter-altrhein/03-6ef605f3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NSG_Grietherorter_Altrhein_PM18-020.jpg/1200px-NSG_Grietherorter_Altrhein_PM18-020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NSG_Grietherorter_Altrhein_PM18-080.jpg/1200px-NSG_Grietherorter_Altrhein_PM18-080.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rees-Grietherort_PM16-5.jpg/1200px-Rees-Grietherort_PM16-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg/1200px-Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vogelschutzgebiet_Grietherort_3.jpg/1200px-Vogelschutzgebiet_Grietherort_3.jpg
+image_srcset:
+  NSG Grietherorter Altrhein PM18-020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NSG_Grietherorter_Altrhein_PM18-020.jpg/400px-NSG_Grietherorter_Altrhein_PM18-020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NSG_Grietherorter_Altrhein_PM18-020.jpg/800px-NSG_Grietherorter_Altrhein_PM18-020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NSG_Grietherorter_Altrhein_PM18-020.jpg/1200px-NSG_Grietherorter_Altrhein_PM18-020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NSG_Grietherorter_Altrhein_PM18-020.jpg/1920px-NSG_Grietherorter_Altrhein_PM18-020.jpg
+  NSG Grietherorter Altrhein PM18-080.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NSG_Grietherorter_Altrhein_PM18-080.jpg/400px-NSG_Grietherorter_Altrhein_PM18-080.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NSG_Grietherorter_Altrhein_PM18-080.jpg/800px-NSG_Grietherorter_Altrhein_PM18-080.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NSG_Grietherorter_Altrhein_PM18-080.jpg/1200px-NSG_Grietherorter_Altrhein_PM18-080.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NSG_Grietherorter_Altrhein_PM18-080.jpg/1920px-NSG_Grietherorter_Altrhein_PM18-080.jpg
+  Rees-Grietherort PM16-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rees-Grietherort_PM16-5.jpg/400px-Rees-Grietherort_PM16-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rees-Grietherort_PM16-5.jpg/800px-Rees-Grietherort_PM16-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rees-Grietherort_PM16-5.jpg/1200px-Rees-Grietherort_PM16-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rees-Grietherort_PM16-5.jpg/1920px-Rees-Grietherort_PM16-5.jpg
+  Rees-Reeserward NSG Grietherorter Altrhein PM18-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg/400px-Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg/800px-Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg/1200px-Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg/1920px-Rees-Reeserward_NSG_Grietherorter_Altrhein_PM18-04.jpg
+  Vogelschutzgebiet Grietherort 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vogelschutzgebiet_Grietherort_3.jpg/400px-Vogelschutzgebiet_Grietherort_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vogelschutzgebiet_Grietherort_3.jpg/800px-Vogelschutzgebiet_Grietherort_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vogelschutzgebiet_Grietherort_3.jpg/1200px-Vogelschutzgebiet_Grietherort_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vogelschutzgebiet_Grietherort_3.jpg/1920px-Vogelschutzgebiet_Grietherort_3.jpg
 ---
 
 ## Overview

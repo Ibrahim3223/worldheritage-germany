@@ -1,19 +1,49 @@
 ---
-title: "Altenburg Castle (Thüringen)"
+title: Altenburg Castle (Thüringen)
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9885
 longitude: 12.4395
 images:
-  - "/images-sites/altenburg-castle-thueringen/01-7e6ea8d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/1200px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg/1200px-Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg/1200px-Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Altenburg_02.JPG/1200px-Schloss_Altenburg_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J_C_Reinhart_Sächsischer_Prinzenraub.jpg/1200px-J_C_Reinhart_Sächsischer_Prinzenraub.jpg
+image_srcset:
+  Aerial image of Schloss Altenburg (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/400px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/800px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/1200px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg/1920px-Aerial_image_of_Schloss_Altenburg_(view_from_the_west).jpg
+  Altenburg Schloss Auffahrt am Theaterplatz 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg/400px-Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg/800px-Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg/1200px-Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg/1920px-Altenburg_Schloss_Auffahrt_am_Theaterplatz_02.jpg
+  Abend am Altenburger Schloss von Aquanauticus - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg/400px-Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg/800px-Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg/1200px-Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg/1920px-Abend_am_Altenburger_Schloss_von_Aquanauticus_-_panoramio.jpg
+  Schloss Altenburg 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Altenburg_02.JPG/400px-Schloss_Altenburg_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Altenburg_02.JPG/800px-Schloss_Altenburg_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Altenburg_02.JPG/1200px-Schloss_Altenburg_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Altenburg_02.JPG/1920px-Schloss_Altenburg_02.JPG
+  J C Reinhart Sächsischer Prinzenraub.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J_C_Reinhart_Sächsischer_Prinzenraub.jpg/400px-J_C_Reinhart_Sächsischer_Prinzenraub.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J_C_Reinhart_Sächsischer_Prinzenraub.jpg/800px-J_C_Reinhart_Sächsischer_Prinzenraub.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J_C_Reinhart_Sächsischer_Prinzenraub.jpg/1200px-J_C_Reinhart_Sächsischer_Prinzenraub.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/J_C_Reinhart_Sächsischer_Prinzenraub.jpg/1920px-J_C_Reinhart_Sächsischer_Prinzenraub.jpg
 ---
 
 ## Overview

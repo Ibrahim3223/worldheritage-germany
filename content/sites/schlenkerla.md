@@ -21,7 +21,7 @@ longitude: 10.884722222
 
 # Images
 images:
-  - "/images-sites/schlenkerla/01-71d74cf8-800w.webp"
+  - "/images/schlenkerla/01-71d74cf8-800w.webp"
 ---
 
 ## Overview

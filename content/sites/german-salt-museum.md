@@ -1,21 +1,49 @@
 ---
-title: "German Salt Museum"
+title: German Salt Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.2433
 longitude: 10.4017
 images:
-  - "/images-sites/german-salt-museum/01-c2833aef-800w.webp"
-  - "/images-sites/german-salt-museum/02-2b52a690-800w.webp"
-  - "/images-sites/german-salt-museum/03-c48bf870-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1200px-Salzmuseum_Lüneburg_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salzmuseum_Lüneburg_Grubenbahn.JPG/1200px-Salzmuseum_Lüneburg_Grubenbahn.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/168_2015_07_16_Sülfmeisterstraße_1.jpg/1200px-168_2015_07_16_Sülfmeisterstraße_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Brunnenhaus_Saline_Lueneburg.jpg/1200px-Brunnenhaus_Saline_Lueneburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pfannenschmiede_Saline_Lueneburg.jpg/1200px-Pfannenschmiede_Saline_Lueneburg.jpg
+image_srcset:
+  Salzmuseum Lüneburg Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/400px-Salzmuseum_Lüneburg_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/800px-Salzmuseum_Lüneburg_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1200px-Salzmuseum_Lüneburg_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salzmuseum_Lüneburg_Eingang.jpg/1920px-Salzmuseum_Lüneburg_Eingang.jpg
+  Salzmuseum Lüneburg Grubenbahn.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salzmuseum_Lüneburg_Grubenbahn.JPG/400px-Salzmuseum_Lüneburg_Grubenbahn.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salzmuseum_Lüneburg_Grubenbahn.JPG/800px-Salzmuseum_Lüneburg_Grubenbahn.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salzmuseum_Lüneburg_Grubenbahn.JPG/1200px-Salzmuseum_Lüneburg_Grubenbahn.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salzmuseum_Lüneburg_Grubenbahn.JPG/1920px-Salzmuseum_Lüneburg_Grubenbahn.JPG
+  168 2015 07 16 Sülfmeisterstraße 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/168_2015_07_16_Sülfmeisterstraße_1.jpg/400px-168_2015_07_16_Sülfmeisterstraße_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/168_2015_07_16_Sülfmeisterstraße_1.jpg/800px-168_2015_07_16_Sülfmeisterstraße_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/168_2015_07_16_Sülfmeisterstraße_1.jpg/1200px-168_2015_07_16_Sülfmeisterstraße_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/168_2015_07_16_Sülfmeisterstraße_1.jpg/1920px-168_2015_07_16_Sülfmeisterstraße_1.jpg
+  Brunnenhaus Saline Lueneburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Brunnenhaus_Saline_Lueneburg.jpg/400px-Brunnenhaus_Saline_Lueneburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Brunnenhaus_Saline_Lueneburg.jpg/800px-Brunnenhaus_Saline_Lueneburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Brunnenhaus_Saline_Lueneburg.jpg/1200px-Brunnenhaus_Saline_Lueneburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Brunnenhaus_Saline_Lueneburg.jpg/1920px-Brunnenhaus_Saline_Lueneburg.jpg
+  Pfannenschmiede Saline Lueneburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pfannenschmiede_Saline_Lueneburg.jpg/400px-Pfannenschmiede_Saline_Lueneburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pfannenschmiede_Saline_Lueneburg.jpg/800px-Pfannenschmiede_Saline_Lueneburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pfannenschmiede_Saline_Lueneburg.jpg/1200px-Pfannenschmiede_Saline_Lueneburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pfannenschmiede_Saline_Lueneburg.jpg/1920px-Pfannenschmiede_Saline_Lueneburg.jpg
 ---
 
 ## Overview

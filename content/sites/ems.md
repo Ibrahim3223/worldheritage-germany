@@ -1,21 +1,49 @@
 ---
-title: "Ems"
+title: Ems
 date: 2026-01-23
 draft: false
-description: "river in northwestern Europe in Germany and the Netherlands"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in northwestern Europe in Germany and the Netherlands
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 53.32555556
 longitude: 7.24472222
 images:
-  - "/images-sites/ems/01-d172a003-800w.webp"
-  - "/images-sites/ems/02-352a7f58-800w.webp"
-  - "/images-sites/ems/03-03abc0be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Delfzijl_Eemshotel.jpg/1200px-Delfzijl_Eemshotel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Datteln_-_KF2011_-_DEK_02_ies.jpg/1200px-Datteln_-_KF2011_-_DEK_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2023-12_Emshochwasser_Warendorf_BI_30.jpg/1200px-2023-12_Emshochwasser_Warendorf_BI_30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ems_Flusssystem_topo.png/1200px-Ems_Flusssystem_topo.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ems_nahe_Quelle.jpg/1200px-Ems_nahe_Quelle.jpg
+image_srcset:
+  Delfzijl Eemshotel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Delfzijl_Eemshotel.jpg/400px-Delfzijl_Eemshotel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Delfzijl_Eemshotel.jpg/800px-Delfzijl_Eemshotel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Delfzijl_Eemshotel.jpg/1200px-Delfzijl_Eemshotel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Delfzijl_Eemshotel.jpg/1920px-Delfzijl_Eemshotel.jpg
+  Datteln - KF2011 - DEK 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Datteln_-_KF2011_-_DEK_02_ies.jpg/400px-Datteln_-_KF2011_-_DEK_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Datteln_-_KF2011_-_DEK_02_ies.jpg/800px-Datteln_-_KF2011_-_DEK_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Datteln_-_KF2011_-_DEK_02_ies.jpg/1200px-Datteln_-_KF2011_-_DEK_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Datteln_-_KF2011_-_DEK_02_ies.jpg/1920px-Datteln_-_KF2011_-_DEK_02_ies.jpg
+  2023-12 Emshochwasser Warendorf BI 30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2023-12_Emshochwasser_Warendorf_BI_30.jpg/400px-2023-12_Emshochwasser_Warendorf_BI_30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2023-12_Emshochwasser_Warendorf_BI_30.jpg/800px-2023-12_Emshochwasser_Warendorf_BI_30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2023-12_Emshochwasser_Warendorf_BI_30.jpg/1200px-2023-12_Emshochwasser_Warendorf_BI_30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2023-12_Emshochwasser_Warendorf_BI_30.jpg/1920px-2023-12_Emshochwasser_Warendorf_BI_30.jpg
+  Ems Flusssystem topo.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ems_Flusssystem_topo.png/400px-Ems_Flusssystem_topo.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ems_Flusssystem_topo.png/800px-Ems_Flusssystem_topo.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ems_Flusssystem_topo.png/1200px-Ems_Flusssystem_topo.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ems_Flusssystem_topo.png/1920px-Ems_Flusssystem_topo.png
+  Ems nahe Quelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ems_nahe_Quelle.jpg/400px-Ems_nahe_Quelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ems_nahe_Quelle.jpg/800px-Ems_nahe_Quelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ems_nahe_Quelle.jpg/1200px-Ems_nahe_Quelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ems_nahe_Quelle.jpg/1920px-Ems_nahe_Quelle.jpg
 ---
 
 ## Overview

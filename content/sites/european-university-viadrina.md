@@ -1,29 +1,43 @@
 ---
-title: "European University Viadrina"
+title: European University Viadrina
 date: 2026-01-23
 draft: false
-description: "university"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: university
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.342222222
 longitude: 14.553888888
-
-# Images
 images:
-  - "/images-sites/european-university-viadrina/01-0ab29718-800w.webp"
-  - "/images-sites/european-university-viadrina/02-fc12bc1f-800w.webp"
-  - "/images-sites/european-university-viadrina/03-6052e9c6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1200px-Universitas_Viadrina_Frankfurt_(Oder).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2004-viadrina_-main_building_Sicherlich.JPG/1200px-2004-viadrina_-main_building_Sicherlich.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/CP_Fassade_mit_ENS_Schild.jpeg/1200px-CP_Fassade_mit_ENS_Schild.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martin_Patzelt_Gesine_Schwan.jpg/1200px-Martin_Patzelt_Gesine_Schwan.jpg
+image_srcset:
+  Universitas Viadrina Frankfurt (Oder).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/400px-Universitas_Viadrina_Frankfurt_(Oder).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/800px-Universitas_Viadrina_Frankfurt_(Oder).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1200px-Universitas_Viadrina_Frankfurt_(Oder).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Universitas_Viadrina_Frankfurt_(Oder).JPG/1920px-Universitas_Viadrina_Frankfurt_(Oder).JPG
+  2004-viadrina -main building Sicherlich.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2004-viadrina_-main_building_Sicherlich.JPG/400px-2004-viadrina_-main_building_Sicherlich.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2004-viadrina_-main_building_Sicherlich.JPG/800px-2004-viadrina_-main_building_Sicherlich.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2004-viadrina_-main_building_Sicherlich.JPG/1200px-2004-viadrina_-main_building_Sicherlich.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2004-viadrina_-main_building_Sicherlich.JPG/1920px-2004-viadrina_-main_building_Sicherlich.JPG
+  CP Fassade mit ENS Schild.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/CP_Fassade_mit_ENS_Schild.jpeg/400px-CP_Fassade_mit_ENS_Schild.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/CP_Fassade_mit_ENS_Schild.jpeg/800px-CP_Fassade_mit_ENS_Schild.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/CP_Fassade_mit_ENS_Schild.jpeg/1200px-CP_Fassade_mit_ENS_Schild.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/CP_Fassade_mit_ENS_Schild.jpeg/1920px-CP_Fassade_mit_ENS_Schild.jpeg
+  Martin Patzelt Gesine Schwan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martin_Patzelt_Gesine_Schwan.jpg/400px-Martin_Patzelt_Gesine_Schwan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martin_Patzelt_Gesine_Schwan.jpg/800px-Martin_Patzelt_Gesine_Schwan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martin_Patzelt_Gesine_Schwan.jpg/1200px-Martin_Patzelt_Gesine_Schwan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Martin_Patzelt_Gesine_Schwan.jpg/1920px-Martin_Patzelt_Gesine_Schwan.jpg
 ---
 
 ## Overview

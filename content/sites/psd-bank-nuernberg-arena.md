@@ -13,7 +13,7 @@ regions:
 latitude: 49.4274
 longitude: 11.1232
 images:
-  - "/images-sites/psd-bank-nuernberg-arena/01-efd77745-800w.webp"
+  - "/images/psd-bank-nuernberg-arena/01-efd77745-800w.webp"
 ---
 
 ## Overview

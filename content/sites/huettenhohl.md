@@ -1,19 +1,49 @@
 ---
-title: "Hüttenhohl"
+title: Hüttenhohl
 date: 2026-01-23
 draft: false
-description: "gap in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: gap in Germany
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 49.31803439
 longitude: 8.06549907
 images:
-  - "/images-sites/huettenhohl/01-0442ba34-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG/1200px-2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2013_Pfälzerwald_026_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_026_Hüttenhohl.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2013_Pfälzerwald_031_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_031_Hüttenhohl.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_032_Hüttenhohl.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2013_Pfälzerwald_401_Kalmitstrasse.JPG/1200px-2013_Pfälzerwald_401_Kalmitstrasse.JPG
+image_srcset:
+  2012 Pfälzerwald 445 Ritterstein Hüttenhohl.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG/400px-2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG/800px-2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG/1200px-2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG/1920px-2012_Pfälzerwald_445_Ritterstein_Hüttenhohl.JPG
+  2013 Pfälzerwald 026 Hüttenhohl.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2013_Pfälzerwald_026_Hüttenhohl.JPG/400px-2013_Pfälzerwald_026_Hüttenhohl.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2013_Pfälzerwald_026_Hüttenhohl.JPG/800px-2013_Pfälzerwald_026_Hüttenhohl.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2013_Pfälzerwald_026_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_026_Hüttenhohl.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2013_Pfälzerwald_026_Hüttenhohl.JPG/1920px-2013_Pfälzerwald_026_Hüttenhohl.JPG
+  2013 Pfälzerwald 031 Hüttenhohl.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2013_Pfälzerwald_031_Hüttenhohl.JPG/400px-2013_Pfälzerwald_031_Hüttenhohl.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2013_Pfälzerwald_031_Hüttenhohl.JPG/800px-2013_Pfälzerwald_031_Hüttenhohl.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2013_Pfälzerwald_031_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_031_Hüttenhohl.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2013_Pfälzerwald_031_Hüttenhohl.JPG/1920px-2013_Pfälzerwald_031_Hüttenhohl.JPG
+  2013 Pfälzerwald 032 Hüttenhohl.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/400px-2013_Pfälzerwald_032_Hüttenhohl.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/800px-2013_Pfälzerwald_032_Hüttenhohl.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/1200px-2013_Pfälzerwald_032_Hüttenhohl.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2013_Pfälzerwald_032_Hüttenhohl.JPG/1920px-2013_Pfälzerwald_032_Hüttenhohl.JPG
+  2013 Pfälzerwald 401 Kalmitstrasse.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2013_Pfälzerwald_401_Kalmitstrasse.JPG/400px-2013_Pfälzerwald_401_Kalmitstrasse.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2013_Pfälzerwald_401_Kalmitstrasse.JPG/800px-2013_Pfälzerwald_401_Kalmitstrasse.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2013_Pfälzerwald_401_Kalmitstrasse.JPG/1200px-2013_Pfälzerwald_401_Kalmitstrasse.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2013_Pfälzerwald_401_Kalmitstrasse.JPG/1920px-2013_Pfälzerwald_401_Kalmitstrasse.JPG
 ---
 
 ## Overview

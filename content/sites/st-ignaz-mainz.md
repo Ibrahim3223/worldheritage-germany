@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q879179"
 description: "St. Ignaz in Mainz is a remarkable example of classical architecture, standing as a significant landmark within the city. Founded in 1775, this Catholic..."
 images:
-  - "/images-sites/st-ignaz-mainz/01-85e8cce6-1920w.webp"
-  - "/images-sites/st-ignaz-mainz/02-8629d755-1920w.webp"
-  - "/images-sites/st-ignaz-mainz/03-6d3f213c-1920w.webp"
+  - "/images/st-ignaz-mainz/01-85e8cce6-1920w.webp"
+  - "/images/st-ignaz-mainz/02-8629d755-1920w.webp"
+  - "/images/st-ignaz-mainz/03-6d3f213c-1920w.webp"
 ---
 
 ## Overview

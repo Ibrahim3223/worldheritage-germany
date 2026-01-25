@@ -13,7 +13,7 @@ regions:
 latitude: 54.8722
 longitude: 8.92917
 images:
-  - "/images-sites/suederluegumer-binnenduenen/01-931621c2-800w.webp"
+  - "/images/suederluegumer-binnenduenen/01-931621c2-800w.webp"
 ---
 
 ## Overview

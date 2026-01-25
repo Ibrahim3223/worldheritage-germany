@@ -13,7 +13,7 @@ regions:
 latitude: 51.9397
 longitude: 13.8775
 images:
-  - "/images-sites/luebben-spreewald-railway-station/01-ecf91654-800w.webp"
+  - "/images/luebben-spreewald-railway-station/01-ecf91654-800w.webp"
 ---
 
 ## Overview

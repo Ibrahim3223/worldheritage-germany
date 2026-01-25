@@ -1,21 +1,49 @@
 ---
-title: "Beethoven–Haydn–Mozart Memorial"
+title: Beethoven–Haydn–Mozart Memorial
 date: 2026-01-23
 draft: false
-description: "memorial in the Großer Tiergarten in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial in the Großer Tiergarten in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5137
 longitude: 13.3703
 images:
-  - "/images-sites/beethovenhaydnmozart-memorial/01-93997f70-800w.webp"
-  - "/images-sites/beethovenhaydnmozart-memorial/02-12083695-800w.webp"
-  - "/images-sites/beethovenhaydnmozart-memorial/03-bd85894d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Beethoven-Haydn-Mozart-Denkmal_(1).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beethoven-Haydn-Mozart-Denkmal_(2).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beethoven-Haydn-Mozart-Denkmal_(3).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Beethoven-Haydn-Mozart-Denkmal_(4).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/1200px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
+image_srcset:
+  Beethoven-Haydn-Mozart-Denkmal (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Beethoven-Haydn-Mozart-Denkmal_(1).jpg/400px-Beethoven-Haydn-Mozart-Denkmal_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Beethoven-Haydn-Mozart-Denkmal_(1).jpg/800px-Beethoven-Haydn-Mozart-Denkmal_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Beethoven-Haydn-Mozart-Denkmal_(1).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Beethoven-Haydn-Mozart-Denkmal_(1).jpg/1920px-Beethoven-Haydn-Mozart-Denkmal_(1).jpg
+  Beethoven-Haydn-Mozart-Denkmal (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beethoven-Haydn-Mozart-Denkmal_(2).jpg/400px-Beethoven-Haydn-Mozart-Denkmal_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beethoven-Haydn-Mozart-Denkmal_(2).jpg/800px-Beethoven-Haydn-Mozart-Denkmal_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beethoven-Haydn-Mozart-Denkmal_(2).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Beethoven-Haydn-Mozart-Denkmal_(2).jpg/1920px-Beethoven-Haydn-Mozart-Denkmal_(2).jpg
+  Beethoven-Haydn-Mozart-Denkmal (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beethoven-Haydn-Mozart-Denkmal_(3).jpg/400px-Beethoven-Haydn-Mozart-Denkmal_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beethoven-Haydn-Mozart-Denkmal_(3).jpg/800px-Beethoven-Haydn-Mozart-Denkmal_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beethoven-Haydn-Mozart-Denkmal_(3).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Beethoven-Haydn-Mozart-Denkmal_(3).jpg/1920px-Beethoven-Haydn-Mozart-Denkmal_(3).jpg
+  Beethoven-Haydn-Mozart-Denkmal (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Beethoven-Haydn-Mozart-Denkmal_(4).jpg/400px-Beethoven-Haydn-Mozart-Denkmal_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Beethoven-Haydn-Mozart-Denkmal_(4).jpg/800px-Beethoven-Haydn-Mozart-Denkmal_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Beethoven-Haydn-Mozart-Denkmal_(4).jpg/1200px-Beethoven-Haydn-Mozart-Denkmal_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Beethoven-Haydn-Mozart-Denkmal_(4).jpg/1920px-Beethoven-Haydn-Mozart-Denkmal_(4).jpg
+  Berlin, Tiergarten, Grosser Tiergarten, Beethoven-Haydn-Mozart-Denkmal, Siemering, 1904.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/400px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/800px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/1200px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg/1920px-Berlin,_Tiergarten,_Grosser_Tiergarten,_Beethoven-Haydn-Mozart-Denkmal,_Siemering,_1904.jpg
 ---
 
 ## Overview

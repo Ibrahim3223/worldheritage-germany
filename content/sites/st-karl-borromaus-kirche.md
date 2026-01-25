@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1489826"
 description: "St.-Karl-Borromäus-Kirche is a striking example of modern church architecture located in the Charlottenburg-Wilmersdorf district of Berlin, Germany. Thi..."
 images:
-  - "/images-sites/st-karl-borromaus-kirche/01-4d52e09c-1920w.webp"
-  - "/images-sites/st-karl-borromaus-kirche/02-29c18229-1920w.webp"
-  - "/images-sites/st-karl-borromaus-kirche/03-e46762f0-1920w.webp"
+  - "/images/st-karl-borromaus-kirche/01-4d52e09c-1920w.webp"
+  - "/images/st-karl-borromaus-kirche/02-29c18229-1920w.webp"
+  - "/images/st-karl-borromaus-kirche/03-e46762f0-1920w.webp"
 ---
 
 ## Overview

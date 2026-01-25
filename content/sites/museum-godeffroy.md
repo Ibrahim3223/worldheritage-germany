@@ -13,7 +13,7 @@ regions:
 latitude: 53.546249
 longitude: 10.000906
 images:
-  - "/images-sites/museum-godeffroy/01-0672ed82-800w.webp"
+  - "/images/museum-godeffroy/01-0672ed82-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.2591
 longitude: 10.524
 images:
-  - "/images-sites/lessing-denkmal/01-c3b2b837-800w.webp"
+  - "/images/lessing-denkmal/01-c3b2b837-800w.webp"
 ---
 
 ## Overview

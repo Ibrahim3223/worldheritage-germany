@@ -1,20 +1,39 @@
 ---
-title: "Esklumer Kirche"
-site_name: "Esklumer Kirche"
-slug: "esklumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Esklumer Kirche
+site_name: Esklumer Kirche
+slug: esklumer-kirche
+region: Lower Saxony
 latitude: 53.211
 longitude: 7.44145
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1367840"
-description: "In the serene landscape of Westoverledingen, Germany, the Esklumer Kirche stands as a remarkable example of Romanesque architecture. This church buildin..."
+- church building
+- religious site
+wikidata_id: Q1367840
+description: In the serene landscape of Westoverledingen, Germany, the Esklumer Kirche
+  stands as a remarkable example of Romanesque architecture. This church buildin...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1200px-ChurchEsklum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Esklum_Organ.jpg/1200px-Esklum_Organ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Esklum_Orgel.jpg/1200px-Esklum_Orgel.jpg
+image_srcset:
+  ChurchEsklum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/400px-ChurchEsklum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/800px-ChurchEsklum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1200px-ChurchEsklum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ChurchEsklum.JPG/1920px-ChurchEsklum.JPG
+  Esklum Organ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Esklum_Organ.jpg/400px-Esklum_Organ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Esklum_Organ.jpg/800px-Esklum_Organ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Esklum_Organ.jpg/1200px-Esklum_Organ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Esklum_Organ.jpg/1920px-Esklum_Organ.jpg
+  Esklum Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Esklum_Orgel.jpg/400px-Esklum_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Esklum_Orgel.jpg/800px-Esklum_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Esklum_Orgel.jpg/1200px-Esklum_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Esklum_Orgel.jpg/1920px-Esklum_Orgel.jpg
 ---
 
 ## Overview

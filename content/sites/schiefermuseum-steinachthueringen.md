@@ -13,9 +13,9 @@ regions:
 latitude: 50.434468
 longitude: 11.15557
 images:
-  - "/images-sites/schiefermuseum-steinachthueringen/01-7f5e1f9b-800w.webp"
-  - "/images-sites/schiefermuseum-steinachthueringen/02-894dce94-800w.webp"
-  - "/images-sites/schiefermuseum-steinachthueringen/03-a3af4e4f-800w.webp"
+  - "/images/schiefermuseum-steinachthueringen/01-7f5e1f9b-800w.webp"
+  - "/images/schiefermuseum-steinachthueringen/02-894dce94-800w.webp"
+  - "/images/schiefermuseum-steinachthueringen/03-a3af4e4f-800w.webp"
 ---
 
 ## Overview

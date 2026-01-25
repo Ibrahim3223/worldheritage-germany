@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1742749"
 description: "The Rote Kirche, or Red Church, stands as a striking example of Gothic Revival architecture in the heart of Bernburg, Germany. Its distinctive brick faç..."
 images:
-  - "/images-sites/rote-kirche/01-79b63ef9-1920w.webp"
-  - "/images-sites/rote-kirche/02-871757c9-1920w.webp"
-  - "/images-sites/rote-kirche/03-e1e41fc3-1920w.webp"
+  - "/images/rote-kirche/01-79b63ef9-1920w.webp"
+  - "/images/rote-kirche/02-871757c9-1920w.webp"
+  - "/images/rote-kirche/03-e1e41fc3-1920w.webp"
 ---
 
 ## Overview

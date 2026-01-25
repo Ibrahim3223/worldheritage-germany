@@ -1,20 +1,49 @@
 ---
-title: "Alte Weser"
+title: Alte Weser
 date: 2026-01-23
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.863461
 longitude: 8.127451
 images:
-  - "/images-sites/alte-weser/02-5d4da4c6-800w.webp"
-  - "/images-sites/alte-weser/03-8f0ad37f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bremer_Weserschleuse.jpg/1200px-Bremer_Weserschleuse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weserbrücke_Achim-Uesen.jpg/1200px-Weserbrücke_Achim-Uesen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weserstadion_2.jpg/1200px-Weserstadion_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weser_Hilwartshausen.jpg/1200px-Weser_Hilwartshausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/1200px-AlteWeser_1964.jpg
+image_srcset:
+  Bremer Weserschleuse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bremer_Weserschleuse.jpg/400px-Bremer_Weserschleuse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bremer_Weserschleuse.jpg/800px-Bremer_Weserschleuse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bremer_Weserschleuse.jpg/1200px-Bremer_Weserschleuse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bremer_Weserschleuse.jpg/1920px-Bremer_Weserschleuse.jpg
+  Weserbrücke Achim-Uesen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weserbrücke_Achim-Uesen.jpg/400px-Weserbrücke_Achim-Uesen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weserbrücke_Achim-Uesen.jpg/800px-Weserbrücke_Achim-Uesen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weserbrücke_Achim-Uesen.jpg/1200px-Weserbrücke_Achim-Uesen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weserbrücke_Achim-Uesen.jpg/1920px-Weserbrücke_Achim-Uesen.jpg
+  Weserstadion 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weserstadion_2.jpg/400px-Weserstadion_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weserstadion_2.jpg/800px-Weserstadion_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weserstadion_2.jpg/1200px-Weserstadion_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weserstadion_2.jpg/1920px-Weserstadion_2.jpg
+  Weser Hilwartshausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weser_Hilwartshausen.jpg/400px-Weser_Hilwartshausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weser_Hilwartshausen.jpg/800px-Weser_Hilwartshausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weser_Hilwartshausen.jpg/1200px-Weser_Hilwartshausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Weser_Hilwartshausen.jpg/1920px-Weser_Hilwartshausen.jpg
+  AlteWeser 1964.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/400px-AlteWeser_1964.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/800px-AlteWeser_1964.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/1200px-AlteWeser_1964.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/AlteWeser_1964.jpg/1920px-AlteWeser_1964.jpg
 ---
 
 ## Overview

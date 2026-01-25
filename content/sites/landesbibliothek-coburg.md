@@ -13,9 +13,9 @@ regions:
 latitude: 50.2581
 longitude: 10.9672
 images:
-  - "/images-sites/landesbibliothek-coburg/01-a8036027-800w.webp"
-  - "/images-sites/landesbibliothek-coburg/02-92e24668-800w.webp"
-  - "/images-sites/landesbibliothek-coburg/03-982f8ddf-800w.webp"
+  - "/images/landesbibliothek-coburg/01-a8036027-800w.webp"
+  - "/images/landesbibliothek-coburg/02-92e24668-800w.webp"
+  - "/images/landesbibliothek-coburg/03-982f8ddf-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Geltinger Birk"
+title: Geltinger Birk
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.7897
 longitude: 9.915
 images:
-  - "/images-sites/geltinger-birk/01-97ea415a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Geltinger_Birk_Binnensee.jpg/1200px-Geltinger_Birk_Binnensee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ziegen_im_Geltinger_Birk.jpg/1200px-Ziegen_im_Geltinger_Birk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brombeerbüsche_Geltinger_Birk.jpg/1200px-Brombeerbüsche_Geltinger_Birk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geltinger_Birk_15.JPG/1200px-Geltinger_Birk_15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Geltinger_Birk_Ende2020.jpg/1200px-Geltinger_Birk_Ende2020.jpg
+image_srcset:
+  Geltinger Birk Binnensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Geltinger_Birk_Binnensee.jpg/400px-Geltinger_Birk_Binnensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Geltinger_Birk_Binnensee.jpg/800px-Geltinger_Birk_Binnensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Geltinger_Birk_Binnensee.jpg/1200px-Geltinger_Birk_Binnensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Geltinger_Birk_Binnensee.jpg/1920px-Geltinger_Birk_Binnensee.jpg
+  Ziegen im Geltinger Birk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ziegen_im_Geltinger_Birk.jpg/400px-Ziegen_im_Geltinger_Birk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ziegen_im_Geltinger_Birk.jpg/800px-Ziegen_im_Geltinger_Birk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ziegen_im_Geltinger_Birk.jpg/1200px-Ziegen_im_Geltinger_Birk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ziegen_im_Geltinger_Birk.jpg/1920px-Ziegen_im_Geltinger_Birk.jpg
+  Brombeerbüsche Geltinger Birk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brombeerbüsche_Geltinger_Birk.jpg/400px-Brombeerbüsche_Geltinger_Birk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brombeerbüsche_Geltinger_Birk.jpg/800px-Brombeerbüsche_Geltinger_Birk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brombeerbüsche_Geltinger_Birk.jpg/1200px-Brombeerbüsche_Geltinger_Birk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brombeerbüsche_Geltinger_Birk.jpg/1920px-Brombeerbüsche_Geltinger_Birk.jpg
+  Geltinger Birk 15.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geltinger_Birk_15.JPG/400px-Geltinger_Birk_15.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geltinger_Birk_15.JPG/800px-Geltinger_Birk_15.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geltinger_Birk_15.JPG/1200px-Geltinger_Birk_15.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geltinger_Birk_15.JPG/1920px-Geltinger_Birk_15.JPG
+  Geltinger Birk Ende2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Geltinger_Birk_Ende2020.jpg/400px-Geltinger_Birk_Ende2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Geltinger_Birk_Ende2020.jpg/800px-Geltinger_Birk_Ende2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Geltinger_Birk_Ende2020.jpg/1200px-Geltinger_Birk_Ende2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Geltinger_Birk_Ende2020.jpg/1920px-Geltinger_Birk_Ende2020.jpg
 ---
 
 ## Overview 

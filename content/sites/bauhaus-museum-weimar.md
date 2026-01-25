@@ -1,27 +1,49 @@
 ---
-title: "Bauhaus Museum, Weimar"
+title: Bauhaus Museum, Weimar
 date: 2026-01-23
 draft: false
-description: "museum in Weimar, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Weimar, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.985
 longitude: 11.32416667
-
-# Images
 images:
-  - "/images-sites/bauhaus-museum-weimar/01-4743e952-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg/1200px-Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bauhaus-Museum_Weimar.jpg/1200px-Bauhaus-Museum_Weimar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weimar_am_25.1.2018_56.jpg/1200px-Weimar_am_25.1.2018_56.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bauhaus-Museum,_Weimar.jpg/1200px-Bauhaus-Museum,_Weimar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1200px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
+image_srcset:
+  Theodor Bogler teapot Model 545 1923 at the Bauhaus Museum Weimar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg/400px-Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg/800px-Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg/1200px-Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg/1920px-Theodor_Bogler_teapot_Model_545_1923_at_the_Bauhaus_Museum_Weimar.jpg
+  Bauhaus-Museum Weimar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bauhaus-Museum_Weimar.jpg/400px-Bauhaus-Museum_Weimar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bauhaus-Museum_Weimar.jpg/800px-Bauhaus-Museum_Weimar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bauhaus-Museum_Weimar.jpg/1200px-Bauhaus-Museum_Weimar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bauhaus-Museum_Weimar.jpg/1920px-Bauhaus-Museum_Weimar.jpg
+  Weimar am 25.1.2018 56.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weimar_am_25.1.2018_56.jpg/400px-Weimar_am_25.1.2018_56.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weimar_am_25.1.2018_56.jpg/800px-Weimar_am_25.1.2018_56.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weimar_am_25.1.2018_56.jpg/1200px-Weimar_am_25.1.2018_56.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weimar_am_25.1.2018_56.jpg/1920px-Weimar_am_25.1.2018_56.jpg
+  Bauhaus-Museum, Weimar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bauhaus-Museum,_Weimar.jpg/400px-Bauhaus-Museum,_Weimar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bauhaus-Museum,_Weimar.jpg/800px-Bauhaus-Museum,_Weimar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bauhaus-Museum,_Weimar.jpg/1200px-Bauhaus-Museum,_Weimar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bauhaus-Museum,_Weimar.jpg/1920px-Bauhaus-Museum,_Weimar.jpg
+  Weimar, Bauhaus-Museum, 2019-09 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/400px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/800px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1200px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg/1920px-Weimar,_Bauhaus-Museum,_2019-09_CN-01.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Blauort"
+title: Blauort
 date: 2026-01-23
 draft: false
-description: "uninhabited North Sea sandy islet"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: uninhabited North Sea sandy islet
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.16702
 longitude: 8.73077
 images:
-  - "/images-sites/blauort/01-fa1ccf10-800w.webp"
-  - "/images-sites/blauort/02-9dfa25f0-800w.webp"
-  - "/images-sites/blauort/03-8422732d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg/1200px-13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blauort_6.7.09.jpg/1200px-Blauort_6.7.09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Meldorferbucht.png/1200px-Meldorferbucht.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wadden_-_Blauort.PNG/1200px-Wadden_-_Blauort.PNG
+image_srcset:
+  Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-060.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-060.jpg
+  13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg/400px-13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg/800px-13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg/1200px-13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg/1920px-13-09-29-nordfriesisches-wattenmeer-RalfR-08.jpg
+  Blauort 6.7.09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blauort_6.7.09.jpg/400px-Blauort_6.7.09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blauort_6.7.09.jpg/800px-Blauort_6.7.09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blauort_6.7.09.jpg/1200px-Blauort_6.7.09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Blauort_6.7.09.jpg/1920px-Blauort_6.7.09.jpg
+  Meldorferbucht.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Meldorferbucht.png/400px-Meldorferbucht.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Meldorferbucht.png/800px-Meldorferbucht.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Meldorferbucht.png/1200px-Meldorferbucht.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Meldorferbucht.png/1920px-Meldorferbucht.png
+  Wadden - Blauort.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wadden_-_Blauort.PNG/400px-Wadden_-_Blauort.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wadden_-_Blauort.PNG/800px-Wadden_-_Blauort.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wadden_-_Blauort.PNG/1200px-Wadden_-_Blauort.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Wadden_-_Blauort.PNG/1920px-Wadden_-_Blauort.PNG
 ---
 
 ## Overview

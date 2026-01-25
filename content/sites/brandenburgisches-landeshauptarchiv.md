@@ -1,19 +1,43 @@
 ---
-title: "Brandenburgisches Landeshauptarchiv"
+title: Brandenburgisches Landeshauptarchiv
 date: 2026-01-23
 draft: false
-description: "archive in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: archive in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.41384
 longitude: 12.97074
 images:
-  - "/images-sites/brandenburgisches-landeshauptarchiv/01-5bcdf88e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BLHA-Golm.jpg/1200px-BLHA-Golm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hissflagge_Spree-Neiße.svg/1200px-Hissflagge_Spree-Neiße.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Banner_Spree-Neiße.svg/1200px-Banner_Spree-Neiße.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Goemnigk_Plan1.JPG/1200px-Goemnigk_Plan1.JPG
+image_srcset:
+  BLHA-Golm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BLHA-Golm.jpg/400px-BLHA-Golm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BLHA-Golm.jpg/800px-BLHA-Golm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BLHA-Golm.jpg/1200px-BLHA-Golm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BLHA-Golm.jpg/1920px-BLHA-Golm.jpg
+  Hissflagge Spree-Neiße.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hissflagge_Spree-Neiße.svg/400px-Hissflagge_Spree-Neiße.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hissflagge_Spree-Neiße.svg/800px-Hissflagge_Spree-Neiße.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hissflagge_Spree-Neiße.svg/1200px-Hissflagge_Spree-Neiße.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hissflagge_Spree-Neiße.svg/1920px-Hissflagge_Spree-Neiße.svg.png
+  Banner Spree-Neiße.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Banner_Spree-Neiße.svg/400px-Banner_Spree-Neiße.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Banner_Spree-Neiße.svg/800px-Banner_Spree-Neiße.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Banner_Spree-Neiße.svg/1200px-Banner_Spree-Neiße.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Banner_Spree-Neiße.svg/1920px-Banner_Spree-Neiße.svg.png
+  Goemnigk Plan1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Goemnigk_Plan1.JPG/400px-Goemnigk_Plan1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Goemnigk_Plan1.JPG/800px-Goemnigk_Plan1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Goemnigk_Plan1.JPG/1200px-Goemnigk_Plan1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Goemnigk_Plan1.JPG/1920px-Goemnigk_Plan1.JPG
 ---
 
 ## Overview

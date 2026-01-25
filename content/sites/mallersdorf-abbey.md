@@ -21,7 +21,7 @@ longitude: 12.254036111
 
 # Images
 images:
-  - "/images-sites/mallersdorf-abbey/01-26c76ab5-800w.webp"
+  - "/images/mallersdorf-abbey/01-26c76ab5-800w.webp"
 ---
 
 ## Overview

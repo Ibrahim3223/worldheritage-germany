@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1742773"
 description: "In the heart of Berlin-Wilmersdorf, an intriguing architectural gem emerges from the urban landscape: the Kirche am Hohenzollernplatz. This church, foun..."
 images:
-  - "/images-sites/kirche-am-hohenzollernplatz/01-f14e9c55-1920w.webp"
-  - "/images-sites/kirche-am-hohenzollernplatz/02-e3904584-1920w.webp"
-  - "/images-sites/kirche-am-hohenzollernplatz/03-92e76614-1920w.webp"
+  - "/images/kirche-am-hohenzollernplatz/01-f14e9c55-1920w.webp"
+  - "/images/kirche-am-hohenzollernplatz/02-e3904584-1920w.webp"
+  - "/images/kirche-am-hohenzollernplatz/03-92e76614-1920w.webp"
 ---
 
 ## Overview

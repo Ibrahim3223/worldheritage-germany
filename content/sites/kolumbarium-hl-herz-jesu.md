@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1779695"
 description: "Nestled in the heart of Misburg-Anderten, the Kolumbarium Hl. Herz Jesu stands as a serene reflection of faith and architectural beauty in Hanover, Germ..."
 images:
-  - "/images-sites/kolumbarium-hl-herz-jesu/01-edfe7674-1920w.webp"
-  - "/images-sites/kolumbarium-hl-herz-jesu/02-63d1b324-1920w.webp"
-  - "/images-sites/kolumbarium-hl-herz-jesu/03-0576f20a-1920w.webp"
+  - "/images/kolumbarium-hl-herz-jesu/01-edfe7674-1920w.webp"
+  - "/images/kolumbarium-hl-herz-jesu/02-63d1b324-1920w.webp"
+  - "/images/kolumbarium-hl-herz-jesu/03-0576f20a-1920w.webp"
 ---
 
 ## Overview

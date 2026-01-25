@@ -1,19 +1,49 @@
 ---
-title: "Beisheim Center"
+title: Beisheim Center
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5108
 longitude: 13.3752
 images:
-  - "/images-sites/beisheim-center/01-8dd04ba3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg/1200px-Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20220811_BahnTower.jpg/1200px-20220811_BahnTower.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20220811_Beisheim-Center.jpg/1200px-20220811_Beisheim-Center.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/1200px-Beisheim_Center,_Berlin-1749.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beisheim_Center_Berlin.jpg/1200px-Beisheim_Center_Berlin.jpg
+image_srcset:
+  Potsdamer Platz, Berlin, 360x180, 160403, ako.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg/400px-Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg/800px-Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg/1200px-Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg/1920px-Potsdamer_Platz,_Berlin,_360x180,_160403,_ako.jpg
+  20220811 BahnTower.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20220811_BahnTower.jpg/400px-20220811_BahnTower.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20220811_BahnTower.jpg/800px-20220811_BahnTower.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20220811_BahnTower.jpg/1200px-20220811_BahnTower.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20220811_BahnTower.jpg/1920px-20220811_BahnTower.jpg
+  20220811 Beisheim-Center.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20220811_Beisheim-Center.jpg/400px-20220811_Beisheim-Center.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20220811_Beisheim-Center.jpg/800px-20220811_Beisheim-Center.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20220811_Beisheim-Center.jpg/1200px-20220811_Beisheim-Center.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20220811_Beisheim-Center.jpg/1920px-20220811_Beisheim-Center.jpg
+  Beisheim Center, Berlin-1749.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/400px-Beisheim_Center,_Berlin-1749.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/800px-Beisheim_Center,_Berlin-1749.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/1200px-Beisheim_Center,_Berlin-1749.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Beisheim_Center,_Berlin-1749.jpg/1920px-Beisheim_Center,_Berlin-1749.jpg
+  Beisheim Center Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beisheim_Center_Berlin.jpg/400px-Beisheim_Center_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beisheim_Center_Berlin.jpg/800px-Beisheim_Center_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beisheim_Center_Berlin.jpg/1200px-Beisheim_Center_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beisheim_Center_Berlin.jpg/1920px-Beisheim_Center_Berlin.jpg
 ---
 
 ## Overview

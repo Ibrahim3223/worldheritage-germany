@@ -1,29 +1,49 @@
 ---
-title: "Abteiberg Museum"
+title: Abteiberg Museum
 date: 2026-01-23
 draft: false
-description: "art museum in Mönchengladbach, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Mönchengladbach, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.192778
 longitude: 6.433056
-
-# Images
 images:
-  - "/images-sites/abteiberg-museum/01-1ab2aaea-800w.webp"
-  - "/images-sites/abteiberg-museum/02-eabd36f9-800w.webp"
-  - "/images-sites/abteiberg-museum/03-312ff0b9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1200px-Mönchengladbach_museum_mit_skulpturengarten.jpg
+image_srcset:
+  2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg/400px-2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg/800px-2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg/1920px-2016-01-15-Museum-Abteiberg-Moenchengladbach-B.jpg
+  2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg/400px-2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg/800px-2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg/1920px-2016-01-15-Museum-Abteiberg-Moenchengladbach-D.jpg
+  2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg/400px-2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg/800px-2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg/1920px-2016-01-15-Museum-Abteiberg-Moenchengladbach-C.jpg
+  2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg/400px-2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg/800px-2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg/1200px-2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg/1920px-2016-01-15-Museum-Abteiberg-Moenchengladbach-Treppe.jpg
+  Mönchengladbach museum mit skulpturengarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/400px-Mönchengladbach_museum_mit_skulpturengarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/800px-Mönchengladbach_museum_mit_skulpturengarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1200px-Mönchengladbach_museum_mit_skulpturengarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mönchengladbach_museum_mit_skulpturengarten.jpg/1920px-Mönchengladbach_museum_mit_skulpturengarten.jpg
 ---
 
 ## Overview

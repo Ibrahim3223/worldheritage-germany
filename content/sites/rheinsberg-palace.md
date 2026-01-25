@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q317840"
 description: "Rheinsberg Palace, a stunning example of Frederician Rococo architecture, invites visitors to immerse themselves in the grandeur of 18th-century Germany..."
 images:
-  - "/images-sites/rheinsberg-palace/01-3ebed316-1920w.webp"
-  - "/images-sites/rheinsberg-palace/02-deffeb65-1920w.webp"
-  - "/images-sites/rheinsberg-palace/03-afa89704-1920w.webp"
+  - "/images/rheinsberg-palace/01-3ebed316-1920w.webp"
+  - "/images/rheinsberg-palace/02-deffeb65-1920w.webp"
+  - "/images/rheinsberg-palace/03-afa89704-1920w.webp"
 ---
 
 ## Overview

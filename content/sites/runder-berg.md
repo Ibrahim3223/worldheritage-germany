@@ -21,7 +21,7 @@ longitude: 9.365
 
 # Images
 images:
-  - "/images-sites/runder-berg/01-88ab90e0-800w.webp"
+  - "/images/runder-berg/01-88ab90e0-800w.webp"
 ---
 
 ## Overview

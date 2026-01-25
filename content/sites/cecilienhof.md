@@ -1,23 +1,50 @@
 ---
-title: "Cecilienhof"
-site_name: "Cecilienhof"
-slug: "cecilienhof"
-region: "Brandenburg"
-
-# Location
+title: Cecilienhof
+site_name: Cecilienhof
+slug: cecilienhof
+region: Brandenburg
 latitude: 52.419167
 longitude: 13.070833
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q321783"
-description: "Cecilienhof, a historic Prussian palace in Potsdam, Germany, is not just an architectural marvel; its a site steeped in the significant events of the 20..."
+- cultural site
+wikidata_id: Q321783
+description: Cecilienhof, a historic Prussian palace in Potsdam, Germany, is not just
+  an architectural marvel; its a site steeped in the significant events of the 20...
 images:
-  - "/images-sites/cecilienhof/01-3432d035-1920w.webp"
-  - "/images-sites/cecilienhof/02-c3c77cd6-1920w.webp"
-  - "/images-sites/cecilienhof/03-cd20934c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss%20Cecilienhof%202013.jpg/1200px-Schloss%20Cecilienhof%202013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/1200px-Schloss_Cecilienhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/1200px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Cecilienhof_2013.jpg/1200px-Schloss_Cecilienhof_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potsdam,_Cecilienhof_-_panoramio_(1).jpg/1200px-Potsdam,_Cecilienhof_-_panoramio_(1).jpg
+image_srcset:
+  Schloss%20Cecilienhof%202013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss%20Cecilienhof%202013.jpg/400px-Schloss%20Cecilienhof%202013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss%20Cecilienhof%202013.jpg/800px-Schloss%20Cecilienhof%202013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss%20Cecilienhof%202013.jpg/1200px-Schloss%20Cecilienhof%202013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss%20Cecilienhof%202013.jpg/1920px-Schloss%20Cecilienhof%202013.jpg
+  Schloss Cecilienhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/400px-Schloss_Cecilienhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/800px-Schloss_Cecilienhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/1200px-Schloss_Cecilienhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/1920px-Schloss_Cecilienhof.jpg
+  Schloss Cecilienhof vom Jungfernsee aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/400px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/800px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/1200px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/1920px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+  Schloss Cecilienhof 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Cecilienhof_2013.jpg/400px-Schloss_Cecilienhof_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Cecilienhof_2013.jpg/800px-Schloss_Cecilienhof_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Cecilienhof_2013.jpg/1200px-Schloss_Cecilienhof_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Cecilienhof_2013.jpg/1920px-Schloss_Cecilienhof_2013.jpg
+  Potsdam, Cecilienhof - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potsdam,_Cecilienhof_-_panoramio_(1).jpg/400px-Potsdam,_Cecilienhof_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potsdam,_Cecilienhof_-_panoramio_(1).jpg/800px-Potsdam,_Cecilienhof_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potsdam,_Cecilienhof_-_panoramio_(1).jpg/1200px-Potsdam,_Cecilienhof_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potsdam,_Cecilienhof_-_panoramio_(1).jpg/1920px-Potsdam,_Cecilienhof_-_panoramio_(1).jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burg Bärenfels"
+title: Burg Bärenfels
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6405
 longitude: 7.9253
 images:
-  - "/images-sites/burg-baerenfels/01-41d07584-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg/1200px-Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG/1200px-Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baerenfels_2022_2.jpg/1200px-Baerenfels_2022_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg/1200px-Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1200px-Baerenfels_01.jpg
+image_srcset:
+  Burg Bärenfels bei Wehr (Baden) Panorama vom Bergfried.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg/400px-Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg/800px-Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg/1200px-Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg/1920px-Burg_Bärenfels_bei_Wehr_(Baden)_Panorama_vom_Bergfried.jpg
+  Burg Bärenfels bei Wehr (Baden) 2016 Bergfried I.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG/400px-Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG/800px-Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG/1200px-Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG/1920px-Burg_Bärenfels_bei_Wehr_(Baden)_2016_Bergfried_I.JPG
+  Baerenfels 2022 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baerenfels_2022_2.jpg/400px-Baerenfels_2022_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baerenfels_2022_2.jpg/800px-Baerenfels_2022_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baerenfels_2022_2.jpg/1200px-Baerenfels_2022_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baerenfels_2022_2.jpg/1920px-Baerenfels_2022_2.jpg
+  Wehr (Baden) Burg Bärenfels Herbst 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg/400px-Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg/800px-Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg/1200px-Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg/1920px-Wehr_(Baden)_Burg_Bärenfels_Herbst_2017.jpg
+  Baerenfels 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/400px-Baerenfels_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/800px-Baerenfels_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1200px-Baerenfels_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baerenfels_01.jpg/1920px-Baerenfels_01.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.850361111
 longitude: 12.119527777
 images:
-  - "/images-sites/rosenheim-station/01-c8cca924-800w.webp"
+  - "/images/rosenheim-station/01-c8cca924-800w.webp"
 ---
 
 ## Overview

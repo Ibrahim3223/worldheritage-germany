@@ -13,7 +13,7 @@ regions:
 latitude: 47.79472222
 longitude: 7.79916667
 images:
-  - "/images-sites/nonnenmattweiher/01-ba9f948f-800w.webp"
+  - "/images/nonnenmattweiher/01-ba9f948f-800w.webp"
 ---
 
 ## Overview

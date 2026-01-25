@@ -1,21 +1,49 @@
 ---
-title: "Deutsches Werkzeugmuseum"
+title: Deutsches Werkzeugmuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1978
 longitude: 7.165
 images:
-  - "/images-sites/deutsches-werkzeugmuseum/01-e297bba2-800w.webp"
-  - "/images-sites/deutsches-werkzeugmuseum/02-cffa57dc-800w.webp"
-  - "/images-sites/deutsches-werkzeugmuseum/03-2b85b4bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Remscheid_-_Werkzeugmuseum_ex_04.jpg/1200px-Remscheid_-_Werkzeugmuseum_ex_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg
+image_srcset:
+  Remscheid - Werkzeugmuseum ex 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Remscheid_-_Werkzeugmuseum_ex_04.jpg/400px-Remscheid_-_Werkzeugmuseum_ex_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Remscheid_-_Werkzeugmuseum_ex_04.jpg/800px-Remscheid_-_Werkzeugmuseum_ex_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Remscheid_-_Werkzeugmuseum_ex_04.jpg/1200px-Remscheid_-_Werkzeugmuseum_ex_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Remscheid_-_Werkzeugmuseum_ex_04.jpg/1920px-Remscheid_-_Werkzeugmuseum_ex_04.jpg
+  Remscheid - Deutsches Werkzeugmuseum 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/400px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/800px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_02_ies.jpg
+  Remscheid - Deutsches Werkzeugmuseum 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg/400px-Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg/800px-Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_04_ies.jpg
+  Remscheid - Deutsches Werkzeugmuseum 09 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg/400px-Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg/800px-Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_09_ies.jpg
+  Remscheid - Deutsches Werkzeugmuseum 10 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg/400px-Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg/800px-Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg/1200px-Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg/1920px-Remscheid_-_Deutsches_Werkzeugmuseum_10_ies.jpg
 ---
 
 ## Overview

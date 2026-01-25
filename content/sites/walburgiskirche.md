@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1290759"
 description: "Walburgiskirche, a striking church building located in Ostercappeln, Germany, captures the imagination with its Gothic Revival architectural style. Foun..."
 images:
-  - "/images-sites/walburgiskirche/01-2a7157ea-1920w.webp"
-  - "/images-sites/walburgiskirche/02-2d66160b-1920w.webp"
-  - "/images-sites/walburgiskirche/03-f8a42003-1920w.webp"
+  - "/images/walburgiskirche/01-2a7157ea-1920w.webp"
+  - "/images/walburgiskirche/02-2d66160b-1920w.webp"
+  - "/images/walburgiskirche/03-f8a42003-1920w.webp"
 ---
 
 ## Overview

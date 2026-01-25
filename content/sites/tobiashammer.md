@@ -13,7 +13,7 @@ regions:
 latitude: 50.8019
 longitude: 10.7318
 images:
-  - "/images-sites/tobiashammer/01-d0260210-800w.webp"
+  - "/images/tobiashammer/01-d0260210-800w.webp"
 ---
 
 ## Overview

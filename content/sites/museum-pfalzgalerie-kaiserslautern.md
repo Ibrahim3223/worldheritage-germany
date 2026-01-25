@@ -21,8 +21,8 @@ longitude: 7.76917
 
 # Images
 images:
-  - "/images-sites/museum-pfalzgalerie-kaiserslautern/02-72e060e3-800w.webp"
-  - "/images-sites/museum-pfalzgalerie-kaiserslautern/03-8825078a-800w.webp"
+  - "/images/museum-pfalzgalerie-kaiserslautern/02-72e060e3-800w.webp"
+  - "/images/museum-pfalzgalerie-kaiserslautern/03-8825078a-800w.webp"
 ---
 
 ## Overview

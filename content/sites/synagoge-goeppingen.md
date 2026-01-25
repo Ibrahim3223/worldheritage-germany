@@ -13,7 +13,7 @@ regions:
 latitude: 48.7053
 longitude: 9.6542
 images:
-  - "/images-sites/synagoge-goeppingen/01-2a47ef84-800w.webp"
+  - "/images/synagoge-goeppingen/01-2a47ef84-800w.webp"
 ---
 
 ## Overview

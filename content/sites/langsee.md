@@ -13,9 +13,9 @@ regions:
 latitude: 53.6321
 longitude: 12.2343
 images:
-  - "/images-sites/langsee/01-64e5b3fa-800w.webp"
-  - "/images-sites/langsee/02-e75fc305-800w.webp"
-  - "/images-sites/langsee/03-6824fe18-800w.webp"
+  - "/images/langsee/01-64e5b3fa-800w.webp"
+  - "/images/langsee/02-e75fc305-800w.webp"
+  - "/images/langsee/03-6824fe18-800w.webp"
 ---
 
 ## Overview

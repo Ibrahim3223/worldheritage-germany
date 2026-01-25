@@ -1,24 +1,45 @@
 ---
-title: "Dorfkirche Marienfelde"
-site_name: "Dorfkirche Marienfelde"
-slug: "dorfkirche-marienfelde"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Marienfelde
+site_name: Dorfkirche Marienfelde
+slug: dorfkirche-marienfelde
+region: Berlin
 latitude: 52.412222222222
 longitude: 13.3675
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244502"
-description: "Dorfkirche Marienfelde is a striking example of Romanesque architecture located in the Tempelhof-Schöneberg district of Berlin, Germany. This church bui..."
+- church building
+- religious site
+wikidata_id: Q1244502
+description: Dorfkirche Marienfelde is a striking example of Romanesque architecture
+  located in the Tempelhof-Schöneberg district of Berlin, Germany. This church bui...
 images:
-  - "/images-sites/dorfkirche-marienfelde/01-b050e1f1-1920w.webp"
-  - "/images-sites/dorfkirche-marienfelde/02-79557f16-1920w.webp"
-  - "/images-sites/dorfkirche-marienfelde/03-3cfa5dd2-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1200px-MarienfeldeKirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin-Marienfelde,_Dorfkirche_(19).jpg/1200px-Berlin-Marienfelde,_Dorfkirche_(19).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dorfkirche_Marienfelde_Berlin.jpg/1200px-Dorfkirche_Marienfelde_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Berlin-Marienfelde,_Dorfkirche_(13).jpg/1200px-Berlin-Marienfelde,_Dorfkirche_(13).jpg
+image_srcset:
+  MarienfeldeKirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/400px-MarienfeldeKirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/800px-MarienfeldeKirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1200px-MarienfeldeKirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MarienfeldeKirche.JPG/1920px-MarienfeldeKirche.JPG
+  Berlin-Marienfelde, Dorfkirche (19).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin-Marienfelde,_Dorfkirche_(19).jpg/400px-Berlin-Marienfelde,_Dorfkirche_(19).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin-Marienfelde,_Dorfkirche_(19).jpg/800px-Berlin-Marienfelde,_Dorfkirche_(19).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin-Marienfelde,_Dorfkirche_(19).jpg/1200px-Berlin-Marienfelde,_Dorfkirche_(19).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berlin-Marienfelde,_Dorfkirche_(19).jpg/1920px-Berlin-Marienfelde,_Dorfkirche_(19).jpg
+  Dorfkirche Marienfelde Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dorfkirche_Marienfelde_Berlin.jpg/400px-Dorfkirche_Marienfelde_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dorfkirche_Marienfelde_Berlin.jpg/800px-Dorfkirche_Marienfelde_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dorfkirche_Marienfelde_Berlin.jpg/1200px-Dorfkirche_Marienfelde_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dorfkirche_Marienfelde_Berlin.jpg/1920px-Dorfkirche_Marienfelde_Berlin.jpg
+  Berlin-Marienfelde, Dorfkirche (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Berlin-Marienfelde,_Dorfkirche_(13).jpg/400px-Berlin-Marienfelde,_Dorfkirche_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Berlin-Marienfelde,_Dorfkirche_(13).jpg/800px-Berlin-Marienfelde,_Dorfkirche_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Berlin-Marienfelde,_Dorfkirche_(13).jpg/1200px-Berlin-Marienfelde,_Dorfkirche_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Berlin-Marienfelde,_Dorfkirche_(13).jpg/1920px-Berlin-Marienfelde,_Dorfkirche_(13).jpg
 ---
 
 ## Overview

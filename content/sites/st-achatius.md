@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q828587"
 description: "St. Achatius is a remarkable church building located in Mainz, Germany, founded in 1809. This neoclassical structure, designed by architect François Aug..."
 images:
-  - "/images-sites/st-achatius/01-f05a328d-1920w.webp"
-  - "/images-sites/st-achatius/02-f796a3f4-1920w.webp"
-  - "/images-sites/st-achatius/03-ffab2970-1920w.webp"
+  - "/images/st-achatius/01-f05a328d-1920w.webp"
+  - "/images/st-achatius/02-f796a3f4-1920w.webp"
+  - "/images/st-achatius/03-ffab2970-1920w.webp"
 ---
 
 ## Overview

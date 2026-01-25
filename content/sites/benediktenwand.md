@@ -1,19 +1,49 @@
 ---
-title: "Benediktenwand"
+title: Benediktenwand
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.653055555
 longitude: 11.465555555
 images:
-  - "/images-sites/benediktenwand/01-0f7bbe78-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Benediktenwand,_1800_m.jpg/1200px-Benediktenwand,_1800_m.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg/1200px-Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benediktenwand_Wolkengrenze.jpg/1200px-Benediktenwand_Wolkengrenze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Benediktenwand_Gipfelkreuzschild.jpg/1200px-Benediktenwand_Gipfelkreuzschild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Benediktenwand_Biwakschachtel.jpg/1200px-Benediktenwand_Biwakschachtel.jpg
+image_srcset:
+  Benediktenwand, 1800 m.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Benediktenwand,_1800_m.jpg/400px-Benediktenwand,_1800_m.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Benediktenwand,_1800_m.jpg/800px-Benediktenwand,_1800_m.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Benediktenwand,_1800_m.jpg/1200px-Benediktenwand,_1800_m.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Benediktenwand,_1800_m.jpg/1920px-Benediktenwand,_1800_m.jpg
+  Benediktenwand Brotzeit oberhalb der Biwakschachtel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg/400px-Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg/800px-Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg/1200px-Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg/1920px-Benediktenwand_Brotzeit_oberhalb_der_Biwakschachtel.jpg
+  Benediktenwand Wolkengrenze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benediktenwand_Wolkengrenze.jpg/400px-Benediktenwand_Wolkengrenze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benediktenwand_Wolkengrenze.jpg/800px-Benediktenwand_Wolkengrenze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benediktenwand_Wolkengrenze.jpg/1200px-Benediktenwand_Wolkengrenze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benediktenwand_Wolkengrenze.jpg/1920px-Benediktenwand_Wolkengrenze.jpg
+  Benediktenwand Gipfelkreuzschild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Benediktenwand_Gipfelkreuzschild.jpg/400px-Benediktenwand_Gipfelkreuzschild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Benediktenwand_Gipfelkreuzschild.jpg/800px-Benediktenwand_Gipfelkreuzschild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Benediktenwand_Gipfelkreuzschild.jpg/1200px-Benediktenwand_Gipfelkreuzschild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Benediktenwand_Gipfelkreuzschild.jpg/1920px-Benediktenwand_Gipfelkreuzschild.jpg
+  Benediktenwand Biwakschachtel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Benediktenwand_Biwakschachtel.jpg/400px-Benediktenwand_Biwakschachtel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Benediktenwand_Biwakschachtel.jpg/800px-Benediktenwand_Biwakschachtel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Benediktenwand_Biwakschachtel.jpg/1200px-Benediktenwand_Biwakschachtel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Benediktenwand_Biwakschachtel.jpg/1920px-Benediktenwand_Biwakschachtel.jpg
 ---
 
 ## Overview

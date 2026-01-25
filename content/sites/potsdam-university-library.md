@@ -13,9 +13,9 @@ regions:
 latitude: 52.4085
 longitude: 12.973
 images:
-  - "/images-sites/potsdam-university-library/01-ad25acc8-800w.webp"
-  - "/images-sites/potsdam-university-library/02-6c7b576c-800w.webp"
-  - "/images-sites/potsdam-university-library/03-c140d972-800w.webp"
+  - "/images/potsdam-university-library/01-ad25acc8-800w.webp"
+  - "/images/potsdam-university-library/02-6c7b576c-800w.webp"
+  - "/images/potsdam-university-library/03-c140d972-800w.webp"
 ---
 
 ## Overview

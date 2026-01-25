@@ -1,19 +1,49 @@
 ---
-title: "Hummerbuden"
+title: Hummerbuden
 date: 2026-01-23
 draft: false
-description: "historisierende Gebäude der Fischer auf Helgoland"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: historisierende Gebäude der Fischer auf Helgoland
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.177711
 longitude: 7.88835
 images:
-  - "/images-sites/hummerbuden/01-63f106a3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Helgoland_Hummerbude_18.jpg/1200px-Helgoland_Hummerbude_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Helgoland_Hummerbude_16.jpg/1200px-Helgoland_Hummerbude_16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Helgoland_Hummerbude_2.jpg/1200px-Helgoland_Hummerbude_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helgoland_Hummerbuden_21955.JPG/1200px-Helgoland_Hummerbuden_21955.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helgoland_Hummerbuden_2010.JPG/1200px-Helgoland_Hummerbuden_2010.JPG
+image_srcset:
+  Helgoland Hummerbude 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Helgoland_Hummerbude_18.jpg/400px-Helgoland_Hummerbude_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Helgoland_Hummerbude_18.jpg/800px-Helgoland_Hummerbude_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Helgoland_Hummerbude_18.jpg/1200px-Helgoland_Hummerbude_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Helgoland_Hummerbude_18.jpg/1920px-Helgoland_Hummerbude_18.jpg
+  Helgoland Hummerbude 16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Helgoland_Hummerbude_16.jpg/400px-Helgoland_Hummerbude_16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Helgoland_Hummerbude_16.jpg/800px-Helgoland_Hummerbude_16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Helgoland_Hummerbude_16.jpg/1200px-Helgoland_Hummerbude_16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Helgoland_Hummerbude_16.jpg/1920px-Helgoland_Hummerbude_16.jpg
+  Helgoland Hummerbude 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Helgoland_Hummerbude_2.jpg/400px-Helgoland_Hummerbude_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Helgoland_Hummerbude_2.jpg/800px-Helgoland_Hummerbude_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Helgoland_Hummerbude_2.jpg/1200px-Helgoland_Hummerbude_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Helgoland_Hummerbude_2.jpg/1920px-Helgoland_Hummerbude_2.jpg
+  Helgoland Hummerbuden 21955.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helgoland_Hummerbuden_21955.JPG/400px-Helgoland_Hummerbuden_21955.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helgoland_Hummerbuden_21955.JPG/800px-Helgoland_Hummerbuden_21955.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helgoland_Hummerbuden_21955.JPG/1200px-Helgoland_Hummerbuden_21955.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helgoland_Hummerbuden_21955.JPG/1920px-Helgoland_Hummerbuden_21955.JPG
+  Helgoland Hummerbuden 2010.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helgoland_Hummerbuden_2010.JPG/400px-Helgoland_Hummerbuden_2010.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helgoland_Hummerbuden_2010.JPG/800px-Helgoland_Hummerbuden_2010.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helgoland_Hummerbuden_2010.JPG/1200px-Helgoland_Hummerbuden_2010.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helgoland_Hummerbuden_2010.JPG/1920px-Helgoland_Hummerbuden_2010.JPG
 ---
 
 ## Overview

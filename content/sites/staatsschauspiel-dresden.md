@@ -13,7 +13,7 @@ regions:
 latitude: 51.05218
 longitude: 13.731833
 images:
-  - "/images-sites/staatsschauspiel-dresden/01-5c642919-800w.webp"
+  - "/images/staatsschauspiel-dresden/01-5c642919-800w.webp"
 ---
 
 ## Overview

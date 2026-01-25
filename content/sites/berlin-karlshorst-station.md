@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Karlshorst station"
+title: Berlin-Karlshorst station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4808
 longitude: 13.5258
 images:
-  - "/images-sites/berlin-karlshorst-station/01-19b03e51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahnhof_Karlshorst-8200.jpg/1200px-S-Bahnhof_Karlshorst-8200.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/S-Bahnhof_Karlshorst-8145.jpg/1200px-S-Bahnhof_Karlshorst-8145.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/S-Bahnhof_Karlshorst-8236.jpg/1200px-S-Bahnhof_Karlshorst-8236.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/S-Bahnhof_Karlshorst-8225.jpg/1200px-S-Bahnhof_Karlshorst-8225.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S-Bahn_Berlin_Karlshorst_1.jpg/1200px-S-Bahn_Berlin_Karlshorst_1.jpg
+image_srcset:
+  S-Bahnhof Karlshorst-8200.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahnhof_Karlshorst-8200.jpg/400px-S-Bahnhof_Karlshorst-8200.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahnhof_Karlshorst-8200.jpg/800px-S-Bahnhof_Karlshorst-8200.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahnhof_Karlshorst-8200.jpg/1200px-S-Bahnhof_Karlshorst-8200.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahnhof_Karlshorst-8200.jpg/1920px-S-Bahnhof_Karlshorst-8200.jpg
+  S-Bahnhof Karlshorst-8145.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/S-Bahnhof_Karlshorst-8145.jpg/400px-S-Bahnhof_Karlshorst-8145.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/S-Bahnhof_Karlshorst-8145.jpg/800px-S-Bahnhof_Karlshorst-8145.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/S-Bahnhof_Karlshorst-8145.jpg/1200px-S-Bahnhof_Karlshorst-8145.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/S-Bahnhof_Karlshorst-8145.jpg/1920px-S-Bahnhof_Karlshorst-8145.jpg
+  S-Bahnhof Karlshorst-8236.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/S-Bahnhof_Karlshorst-8236.jpg/400px-S-Bahnhof_Karlshorst-8236.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/S-Bahnhof_Karlshorst-8236.jpg/800px-S-Bahnhof_Karlshorst-8236.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/S-Bahnhof_Karlshorst-8236.jpg/1200px-S-Bahnhof_Karlshorst-8236.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/S-Bahnhof_Karlshorst-8236.jpg/1920px-S-Bahnhof_Karlshorst-8236.jpg
+  S-Bahnhof Karlshorst-8225.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/S-Bahnhof_Karlshorst-8225.jpg/400px-S-Bahnhof_Karlshorst-8225.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/S-Bahnhof_Karlshorst-8225.jpg/800px-S-Bahnhof_Karlshorst-8225.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/S-Bahnhof_Karlshorst-8225.jpg/1200px-S-Bahnhof_Karlshorst-8225.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/S-Bahnhof_Karlshorst-8225.jpg/1920px-S-Bahnhof_Karlshorst-8225.jpg
+  S-Bahn Berlin Karlshorst 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S-Bahn_Berlin_Karlshorst_1.jpg/400px-S-Bahn_Berlin_Karlshorst_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S-Bahn_Berlin_Karlshorst_1.jpg/800px-S-Bahn_Berlin_Karlshorst_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S-Bahn_Berlin_Karlshorst_1.jpg/1200px-S-Bahn_Berlin_Karlshorst_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/S-Bahn_Berlin_Karlshorst_1.jpg/1920px-S-Bahn_Berlin_Karlshorst_1.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Galopprennbahn Dresden-Seidnitz"
+title: Galopprennbahn Dresden-Seidnitz
 date: 2026-01-23
 draft: false
-description: "heritage ensemble in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: heritage ensemble in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.02222222
 longitude: 13.79722222
 images:
-  - "/images-sites/galopprennbahn-dresden-seidnitz/01-dbedc8be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seidnitzer_Pferderennbahn_17.JPG/1200px-Seidnitzer_Pferderennbahn_17.JPG
+image_srcset:
+  Dresden, Seidnitz, Rennplatz, PKSHN 10223 (Page 1).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg/400px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg/800px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg/1920px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10223_(Page_1).tif.jpg
+  Dresden, Seidnitz, Rennplatz, PKSHN 10225 (Page 1).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg/400px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg/800px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg/1920px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10225_(Page_1).tif.jpg
+  Dresden, Seidnitz, Rennplatz, PKSHN 10229 (Page 1).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg/400px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg/800px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg/1920px-Dresden,_Seidnitz,_Rennplatz,_PKSHN_10229_(Page_1).tif.jpg
+  Dresden, Seidnitz, Rennplatz. Koppelrickheckensprung, PKSHN 10226 (Page 1).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg/400px-Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg/800px-Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg/1200px-Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg/1920px-Dresden,_Seidnitz,_Rennplatz._Koppelrickheckensprung,_PKSHN_10226_(Page_1).tif.jpg
+  Seidnitzer Pferderennbahn 17.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seidnitzer_Pferderennbahn_17.JPG/400px-Seidnitzer_Pferderennbahn_17.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seidnitzer_Pferderennbahn_17.JPG/800px-Seidnitzer_Pferderennbahn_17.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seidnitzer_Pferderennbahn_17.JPG/1200px-Seidnitzer_Pferderennbahn_17.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seidnitzer_Pferderennbahn_17.JPG/1920px-Seidnitzer_Pferderennbahn_17.JPG
 ---
 
 ## Overview

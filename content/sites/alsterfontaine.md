@@ -1,21 +1,43 @@
 ---
-title: "Alsterfontaine"
+title: Alsterfontaine
 date: 2026-01-23
 draft: false
-description: "fountain in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55461667
 longitude: 9.99495278
 images:
-  - "/images-sites/alsterfontaine/01-e61be785-800w.webp"
-  - "/images-sites/alsterfontaine/02-91f90249-800w.webp"
-  - "/images-sites/alsterfontaine/03-d107a8df-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamburg-_Alsterfontäne.jpg/1200px-Hamburg-_Alsterfontäne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg/1200px-Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hamburg_fountain.jpg/1200px-Hamburg_fountain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Binnenalster.jpg/1200px-Binnenalster.jpg
+image_srcset:
+  Hamburg- Alsterfontäne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamburg-_Alsterfontäne.jpg/400px-Hamburg-_Alsterfontäne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamburg-_Alsterfontäne.jpg/800px-Hamburg-_Alsterfontäne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamburg-_Alsterfontäne.jpg/1200px-Hamburg-_Alsterfontäne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hamburg-_Alsterfontäne.jpg/1920px-Hamburg-_Alsterfontäne.jpg
+  Hamburg, Schiffe auf der Binnenalster -- 2016 -- 4185.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg/400px-Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg/800px-Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg/1200px-Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg/1920px-Hamburg,_Schiffe_auf_der_Binnenalster_--_2016_--_4185.jpg
+  Hamburg fountain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hamburg_fountain.jpg/400px-Hamburg_fountain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hamburg_fountain.jpg/800px-Hamburg_fountain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hamburg_fountain.jpg/1200px-Hamburg_fountain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hamburg_fountain.jpg/1920px-Hamburg_fountain.jpg
+  Binnenalster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Binnenalster.jpg/400px-Binnenalster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Binnenalster.jpg/800px-Binnenalster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Binnenalster.jpg/1200px-Binnenalster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Binnenalster.jpg/1920px-Binnenalster.jpg
 ---
 
 ## Overview

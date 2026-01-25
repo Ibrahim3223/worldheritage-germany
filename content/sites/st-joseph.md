@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q872376"
 description: "St. Joseph is a striking church building located in the vibrant region of Munich, Germany. Founded in 1902 and designed by the architect Hans Schurr, th..."
 images:
-  - "/images-sites/st-joseph/01-ca9a35a8-1920w.webp"
-  - "/images-sites/st-joseph/02-63323ae8-1920w.webp"
-  - "/images-sites/st-joseph/03-aa56c22d-1920w.webp"
+  - "/images/st-joseph/01-ca9a35a8-1920w.webp"
+  - "/images/st-joseph/02-63323ae8-1920w.webp"
+  - "/images/st-joseph/03-aa56c22d-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Erbeskopf"
+title: Erbeskopf
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.72944
 longitude: 7.08889
 images:
-  - "/images-sites/erbeskopf/01-02cda05b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erbeskopf_(Wildenburg).jpg/1200px-Erbeskopf_(Wildenburg).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg/1200px-Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama_vom_Erbeskopfturm.jpg/1200px-Panorama_vom_Erbeskopfturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erbeskopf_von_Westen.jpg/1200px-Erbeskopf_von_Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erbeskopf_aus_Nordnordwest.jpg/1200px-Erbeskopf_aus_Nordnordwest.jpg
+image_srcset:
+  Erbeskopf (Wildenburg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erbeskopf_(Wildenburg).jpg/400px-Erbeskopf_(Wildenburg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erbeskopf_(Wildenburg).jpg/800px-Erbeskopf_(Wildenburg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erbeskopf_(Wildenburg).jpg/1200px-Erbeskopf_(Wildenburg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erbeskopf_(Wildenburg).jpg/1920px-Erbeskopf_(Wildenburg).jpg
+  Saar-Hunsrück-Steig auf dem Springkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg/400px-Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg/800px-Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg/1200px-Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg/1920px-Saar-Hunsrück-Steig_auf_dem_Springkopf.jpg
+  Panorama vom Erbeskopfturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama_vom_Erbeskopfturm.jpg/400px-Panorama_vom_Erbeskopfturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama_vom_Erbeskopfturm.jpg/800px-Panorama_vom_Erbeskopfturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama_vom_Erbeskopfturm.jpg/1200px-Panorama_vom_Erbeskopfturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama_vom_Erbeskopfturm.jpg/1920px-Panorama_vom_Erbeskopfturm.jpg
+  Erbeskopf von Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erbeskopf_von_Westen.jpg/400px-Erbeskopf_von_Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erbeskopf_von_Westen.jpg/800px-Erbeskopf_von_Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erbeskopf_von_Westen.jpg/1200px-Erbeskopf_von_Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erbeskopf_von_Westen.jpg/1920px-Erbeskopf_von_Westen.jpg
+  Erbeskopf aus Nordnordwest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erbeskopf_aus_Nordnordwest.jpg/400px-Erbeskopf_aus_Nordnordwest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erbeskopf_aus_Nordnordwest.jpg/800px-Erbeskopf_aus_Nordnordwest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erbeskopf_aus_Nordnordwest.jpg/1200px-Erbeskopf_aus_Nordnordwest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erbeskopf_aus_Nordnordwest.jpg/1920px-Erbeskopf_aus_Nordnordwest.jpg
 ---
 
 ## Overview

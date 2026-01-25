@@ -1,19 +1,49 @@
 ---
-title: "Grassi Museum"
+title: Grassi Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3374
 longitude: 12.3883
 images:
-  - "/images-sites/grassi-museum/01-df821276-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/202009-12_Grassimuseum_03.jpg/1200px-202009-12_Grassimuseum_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/202009-12_Grassimuseum_01.jpg/1200px-202009-12_Grassimuseum_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg/1200px-Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/StadtAL_0522_BA_13207.jpg/1200px-StadtAL_0522_BA_13207.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1200px-Grassimuseum.jpg
+image_srcset:
+  202009-12 Grassimuseum 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/202009-12_Grassimuseum_03.jpg/400px-202009-12_Grassimuseum_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/202009-12_Grassimuseum_03.jpg/800px-202009-12_Grassimuseum_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/202009-12_Grassimuseum_03.jpg/1200px-202009-12_Grassimuseum_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/202009-12_Grassimuseum_03.jpg/1920px-202009-12_Grassimuseum_03.jpg
+  202009-12 Grassimuseum 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/202009-12_Grassimuseum_01.jpg/400px-202009-12_Grassimuseum_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/202009-12_Grassimuseum_01.jpg/800px-202009-12_Grassimuseum_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/202009-12_Grassimuseum_01.jpg/1200px-202009-12_Grassimuseum_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/202009-12_Grassimuseum_01.jpg/1920px-202009-12_Grassimuseum_01.jpg
+  Grassimuseum Leipzig 2024 Innenhof vorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg/400px-Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg/800px-Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg/1200px-Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg/1920px-Grassimuseum_Leipzig_2024_Innenhof_vorn.jpg
+  StadtAL 0522 BA 13207.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/StadtAL_0522_BA_13207.jpg/400px-StadtAL_0522_BA_13207.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/StadtAL_0522_BA_13207.jpg/800px-StadtAL_0522_BA_13207.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/StadtAL_0522_BA_13207.jpg/1200px-StadtAL_0522_BA_13207.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/StadtAL_0522_BA_13207.jpg/1920px-StadtAL_0522_BA_13207.jpg
+  Grassimuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/400px-Grassimuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/800px-Grassimuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1200px-Grassimuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Grassimuseum.jpg/1920px-Grassimuseum.jpg
 ---
 
 ## Overview

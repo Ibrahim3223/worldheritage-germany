@@ -13,7 +13,7 @@ regions:
 latitude: 52.4989
 longitude: 13.4268
 images:
-  - "/images-sites/umar-ibn-al-khattab-mosque/01-18e10de0-800w.webp"
+  - "/images/umar-ibn-al-khattab-mosque/01-18e10de0-800w.webp"
 ---
 
 ## Overview

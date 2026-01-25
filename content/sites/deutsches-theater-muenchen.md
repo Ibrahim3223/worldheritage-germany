@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Theater München"
+title: Deutsches Theater München
 date: 2026-01-23
 draft: false
-description: "theatre in Munich, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Munich, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1368892
 longitude: 11.5620382
 images:
-  - "/images-sites/deutsches-theater-muenchen/02-42c1b084-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg/1200px-Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG/1200px-Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Faunbrunnen.jpg/1200px-Faunbrunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/1200px-Deutsches_Theater_Muenchen_2004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MUC_DtTheater_Sign.jpg/1200px-MUC_DtTheater_Sign.jpg
+image_srcset:
+  Mueschwanthalerstr1518062017c90 (Deutsches Theater).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg/400px-Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg/800px-Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg/1200px-Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg/1920px-Mueschwanthalerstr1518062017c90_(Deutsches_Theater).jpg
+  Deutsches Theater, Fröttmaning-Múnich, Alemania, 2013-02-11, DD 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG/400px-Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG/800px-Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG/1200px-Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG/1920px-Deutsches_Theater,_Fröttmaning-Múnich,_Alemania,_2013-02-11,_DD_01.JPG
+  Faunbrunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Faunbrunnen.jpg/400px-Faunbrunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Faunbrunnen.jpg/800px-Faunbrunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Faunbrunnen.jpg/1200px-Faunbrunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Faunbrunnen.jpg/1920px-Faunbrunnen.jpg
+  Deutsches Theater Muenchen 2004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/400px-Deutsches_Theater_Muenchen_2004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/800px-Deutsches_Theater_Muenchen_2004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/1200px-Deutsches_Theater_Muenchen_2004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Deutsches_Theater_Muenchen_2004.jpg/1920px-Deutsches_Theater_Muenchen_2004.jpg
+  MUC DtTheater Sign.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MUC_DtTheater_Sign.jpg/400px-MUC_DtTheater_Sign.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MUC_DtTheater_Sign.jpg/800px-MUC_DtTheater_Sign.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MUC_DtTheater_Sign.jpg/1200px-MUC_DtTheater_Sign.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MUC_DtTheater_Sign.jpg/1920px-MUC_DtTheater_Sign.jpg
 ---
 
 ## Overview

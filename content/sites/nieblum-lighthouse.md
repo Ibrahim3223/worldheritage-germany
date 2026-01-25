@@ -13,7 +13,7 @@ regions:
 latitude: 54.68441
 longitude: 8.485702
 images:
-  - "/images-sites/nieblum-lighthouse/01-e78e5f06-800w.webp"
+  - "/images/nieblum-lighthouse/01-e78e5f06-800w.webp"
 ---
 
 ## Overview

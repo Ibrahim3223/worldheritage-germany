@@ -13,7 +13,7 @@ regions:
 latitude: 50.1094
 longitude: 8.67131
 images:
-  - "/images-sites/the-english-theatre-frankfurt/01-cdb47857-800w.webp"
+  - "/images/the-english-theatre-frankfurt/01-cdb47857-800w.webp"
 ---
 
 ## Overview

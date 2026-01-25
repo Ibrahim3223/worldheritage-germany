@@ -1,19 +1,50 @@
 ---
-title: "Fischtor"
+title: Fischtor
 date: 2026-01-23
 draft: false
-description: "ehemaliges Tor der Schlossgartenmauer, umgebaut zur Wohnung des Hoffischers in Arnstadt, Ilm-Kreis, Thüringen"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: ehemaliges Tor der Schlossgartenmauer, umgebaut zur Wohnung des Hoffischers
+  in Arnstadt, Ilm-Kreis, Thüringen
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 50.83489
 longitude: 10.95402
 images:
-  - "/images-sites/fischtor/01-0e0d440d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Neubeck_Denkmal_Arnstadt_2.jpg/1200px-Neubeck_Denkmal_Arnstadt_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tafel_am_Fischtor_in_Arnstadt.JPG/1200px-Tafel_am_Fischtor_in_Arnstadt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arnstadt,_Fischtor-001.jpg/1200px-Arnstadt,_Fischtor-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ARN-Wollmarkt14.jpg/1200px-ARN-Wollmarkt14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fischtor_Arnstadt.JPG/1200px-Fischtor_Arnstadt.JPG
+image_srcset:
+  Neubeck Denkmal Arnstadt 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Neubeck_Denkmal_Arnstadt_2.jpg/400px-Neubeck_Denkmal_Arnstadt_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Neubeck_Denkmal_Arnstadt_2.jpg/800px-Neubeck_Denkmal_Arnstadt_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Neubeck_Denkmal_Arnstadt_2.jpg/1200px-Neubeck_Denkmal_Arnstadt_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Neubeck_Denkmal_Arnstadt_2.jpg/1920px-Neubeck_Denkmal_Arnstadt_2.jpg
+  Tafel am Fischtor in Arnstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tafel_am_Fischtor_in_Arnstadt.JPG/400px-Tafel_am_Fischtor_in_Arnstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tafel_am_Fischtor_in_Arnstadt.JPG/800px-Tafel_am_Fischtor_in_Arnstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tafel_am_Fischtor_in_Arnstadt.JPG/1200px-Tafel_am_Fischtor_in_Arnstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tafel_am_Fischtor_in_Arnstadt.JPG/1920px-Tafel_am_Fischtor_in_Arnstadt.JPG
+  Arnstadt, Fischtor-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arnstadt,_Fischtor-001.jpg/400px-Arnstadt,_Fischtor-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arnstadt,_Fischtor-001.jpg/800px-Arnstadt,_Fischtor-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arnstadt,_Fischtor-001.jpg/1200px-Arnstadt,_Fischtor-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arnstadt,_Fischtor-001.jpg/1920px-Arnstadt,_Fischtor-001.jpg
+  ARN-Wollmarkt14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ARN-Wollmarkt14.jpg/400px-ARN-Wollmarkt14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ARN-Wollmarkt14.jpg/800px-ARN-Wollmarkt14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ARN-Wollmarkt14.jpg/1200px-ARN-Wollmarkt14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ARN-Wollmarkt14.jpg/1920px-ARN-Wollmarkt14.jpg
+  Fischtor Arnstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fischtor_Arnstadt.JPG/400px-Fischtor_Arnstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fischtor_Arnstadt.JPG/800px-Fischtor_Arnstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fischtor_Arnstadt.JPG/1200px-Fischtor_Arnstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fischtor_Arnstadt.JPG/1920px-Fischtor_Arnstadt.JPG
 ---
 
 ## Overview

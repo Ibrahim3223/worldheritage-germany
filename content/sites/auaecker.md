@@ -1,21 +1,43 @@
 ---
-title: "Auäcker"
+title: Auäcker
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.769188888
 longitude: 8.481311111
 images:
-  - "/images-sites/auaecker/01-060edef8-800w.webp"
-  - "/images-sites/auaecker/02-be1877fc-800w.webp"
-  - "/images-sites/auaecker/03-c540de44-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg
+image_srcset:
+  Stühlingen Naturschutzgebiet Auäcker Bild 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg/400px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg/800px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg/1920px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_10.jpg
+  Stühlingen Naturschutzgebiet Auäcker Bild 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg/400px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg/800px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg/1920px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_2.jpg
+  Stühlingen Naturschutzgebiet Auäcker Bild 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg/400px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg/800px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg/1920px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_3.jpg
+  Stühlingen Naturschutzgebiet Auäcker Bild 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg/400px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg/800px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg/1200px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg/1920px-Stühlingen_Naturschutzgebiet_Auäcker_Bild_6.jpg
 ---
 
 ## Overview

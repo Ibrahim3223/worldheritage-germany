@@ -13,7 +13,7 @@ regions:
 latitude: 47.7571
 longitude: 10.9319
 images:
-  - "/images-sites/rottenbuch-radio-tower/01-5b93bfba-800w.webp"
+  - "/images/rottenbuch-radio-tower/01-5b93bfba-800w.webp"
 ---
 
 ## Overview

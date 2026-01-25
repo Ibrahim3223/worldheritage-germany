@@ -1,19 +1,49 @@
 ---
-title: "Gymnasium Theodorianum"
+title: Gymnasium Theodorianum
 date: 2026-01-23
 draft: false
-description: "school"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7162
 longitude: 8.75444
 images:
-  - "/images-sites/gymnasium-theodorianum/01-aaef1768-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodorianum_Paderborn-7.jpg/1200px-Theodorianum_Paderborn-7.jpg
+image_srcset:
+  Paderborn Gymnasium Theodorianum asv2024-05 img4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg/400px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg/800px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img4.jpg
+  Paderborn Gymnasium Theodorianum asv2024-05 img5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/400px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/800px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img5.jpg
+  Paderborn Gymnasium Theodorianum asv2024-05 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg/400px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg/800px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img1.jpg
+  Paderborn Gymnasium Theodorianum asv2024-05 img3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg/400px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg/800px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg/1200px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg/1920px-Paderborn_Gymnasium_Theodorianum_asv2024-05_img3.jpg
+  Theodorianum Paderborn-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodorianum_Paderborn-7.jpg/400px-Theodorianum_Paderborn-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodorianum_Paderborn-7.jpg/800px-Theodorianum_Paderborn-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodorianum_Paderborn-7.jpg/1200px-Theodorianum_Paderborn-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theodorianum_Paderborn-7.jpg/1920px-Theodorianum_Paderborn-7.jpg
 ---
 
 ## Overview

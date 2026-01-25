@@ -13,7 +13,7 @@ regions:
 latitude: 52.5586
 longitude: 9.48667
 images:
-  - "/images-sites/kloster-mariensee/01-57e6a17f-800w.webp"
+  - "/images/kloster-mariensee/01-57e6a17f-800w.webp"
 ---
 
 ## Overview

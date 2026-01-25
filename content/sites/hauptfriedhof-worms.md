@@ -1,19 +1,49 @@
 ---
-title: "Hauptfriedhof Worms"
+title: Hauptfriedhof Worms
 date: 2026-01-23
 draft: false
-description: "cemetery in Worms, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Worms, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.6437
 longitude: 8.33453
 images:
-  - "/images-sites/hauptfriedhof-worms/01-2cb0ec2e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms,_Hauptfriedhof_(5).JPG/1200px-Worms,_Hauptfriedhof_(5).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Worms,_Hauptfriedhof_(7).JPG/1200px-Worms,_Hauptfriedhof_(7).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Boller2a.JPG/1200px-Boller2a.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Worms,_Hauptfriedhof_(7)_(cropped).JPG/1200px-Worms,_Hauptfriedhof_(7)_(cropped).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/05_Jewish_Mourning_Hall.jpg/1200px-05_Jewish_Mourning_Hall.jpg
+image_srcset:
+  Worms, Hauptfriedhof (5).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms,_Hauptfriedhof_(5).JPG/400px-Worms,_Hauptfriedhof_(5).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms,_Hauptfriedhof_(5).JPG/800px-Worms,_Hauptfriedhof_(5).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms,_Hauptfriedhof_(5).JPG/1200px-Worms,_Hauptfriedhof_(5).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Worms,_Hauptfriedhof_(5).JPG/1920px-Worms,_Hauptfriedhof_(5).JPG
+  Worms, Hauptfriedhof (7).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Worms,_Hauptfriedhof_(7).JPG/400px-Worms,_Hauptfriedhof_(7).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Worms,_Hauptfriedhof_(7).JPG/800px-Worms,_Hauptfriedhof_(7).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Worms,_Hauptfriedhof_(7).JPG/1200px-Worms,_Hauptfriedhof_(7).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Worms,_Hauptfriedhof_(7).JPG/1920px-Worms,_Hauptfriedhof_(7).JPG
+  Boller2a.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Boller2a.JPG/400px-Boller2a.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Boller2a.JPG/800px-Boller2a.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Boller2a.JPG/1200px-Boller2a.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Boller2a.JPG/1920px-Boller2a.JPG
+  Worms, Hauptfriedhof (7) (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Worms,_Hauptfriedhof_(7)_(cropped).JPG/400px-Worms,_Hauptfriedhof_(7)_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Worms,_Hauptfriedhof_(7)_(cropped).JPG/800px-Worms,_Hauptfriedhof_(7)_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Worms,_Hauptfriedhof_(7)_(cropped).JPG/1200px-Worms,_Hauptfriedhof_(7)_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Worms,_Hauptfriedhof_(7)_(cropped).JPG/1920px-Worms,_Hauptfriedhof_(7)_(cropped).JPG
+  05 Jewish Mourning Hall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/05_Jewish_Mourning_Hall.jpg/400px-05_Jewish_Mourning_Hall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/05_Jewish_Mourning_Hall.jpg/800px-05_Jewish_Mourning_Hall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/05_Jewish_Mourning_Hall.jpg/1200px-05_Jewish_Mourning_Hall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/05_Jewish_Mourning_Hall.jpg/1920px-05_Jewish_Mourning_Hall.jpg
 ---
 
 ## Overview

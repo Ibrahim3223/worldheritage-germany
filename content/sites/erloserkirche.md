@@ -1,24 +1,51 @@
 ---
-title: "Erlöserkirche"
-site_name: "Erlöserkirche"
-slug: "erloserkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Erlöserkirche
+site_name: Erlöserkirche
+slug: erloserkirche
+region: North Rhine-Westphalia
 latitude: 51.282
 longitude: 7.201
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355790"
-description: "In the heart of Wuppertal, Germany, the Erlöserkirche presents a striking example of modern architecture within a landscape that blends urban life with ..."
+- church building
+- religious site
+wikidata_id: Q1355790
+description: In the heart of Wuppertal, Germany, the Erlöserkirche presents a striking
+  example of modern architecture within a landscape that blends urban life with ...
 images:
-  - "/images-sites/erloserkirche/01-f0f35637-1920w.webp"
-  - "/images-sites/erloserkirche/02-1e9b3fc8-1920w.webp"
-  - "/images-sites/erloserkirche/03-1020ff5e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wuppertal%20Erl%C3%B6serkirche1.jpg/1200px-Wuppertal%20Erl%C3%B6serkirche1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BadHomburg2016-017.jpg/1200px-BadHomburg2016-017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg/1200px-Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg/1200px-Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tor..JPG/1200px-Tor..JPG
+image_srcset:
+  Wuppertal%20Erl%C3%B6serkirche1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wuppertal%20Erl%C3%B6serkirche1.jpg/400px-Wuppertal%20Erl%C3%B6serkirche1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wuppertal%20Erl%C3%B6serkirche1.jpg/800px-Wuppertal%20Erl%C3%B6serkirche1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wuppertal%20Erl%C3%B6serkirche1.jpg/1200px-Wuppertal%20Erl%C3%B6serkirche1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wuppertal%20Erl%C3%B6serkirche1.jpg/1920px-Wuppertal%20Erl%C3%B6serkirche1.jpg
+  BadHomburg2016-017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BadHomburg2016-017.jpg/400px-BadHomburg2016-017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BadHomburg2016-017.jpg/800px-BadHomburg2016-017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BadHomburg2016-017.jpg/1200px-BadHomburg2016-017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BadHomburg2016-017.jpg/1920px-BadHomburg2016-017.jpg
+  Bad Homburg - Erlöserkirche - Apsis (3124).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg/400px-Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg/800px-Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg/1200px-Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg/1920px-Bad_Homburg_-_Erlöserkirche_-_Apsis_(3124).jpg
+  Bad Homburg - Erlöserkirche - Decke (3106).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg/400px-Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg/800px-Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg/1200px-Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg/1920px-Bad_Homburg_-_Erlöserkirche_-_Decke_(3106).jpg
+  Tor..JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tor..JPG/400px-Tor..JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tor..JPG/800px-Tor..JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tor..JPG/1200px-Tor..JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tor..JPG/1920px-Tor..JPG
 ---
 
 ## Overview

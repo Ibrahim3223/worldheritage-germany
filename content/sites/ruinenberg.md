@@ -13,9 +13,9 @@ regions:
 latitude: 52.409722222
 longitude: 13.038611111
 images:
-  - "/images-sites/ruinenberg/01-2200ad05-800w.webp"
-  - "/images-sites/ruinenberg/02-639a5f1d-800w.webp"
-  - "/images-sites/ruinenberg/03-e4897742-800w.webp"
+  - "/images/ruinenberg/01-2200ad05-800w.webp"
+  - "/images/ruinenberg/02-639a5f1d-800w.webp"
+  - "/images/ruinenberg/03-e4897742-800w.webp"
 ---
 
 ## Overview

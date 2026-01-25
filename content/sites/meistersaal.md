@@ -13,7 +13,7 @@ regions:
 latitude: 52.5062
 longitude: 13.377
 images:
-  - "/images-sites/meistersaal/01-4b7203d9-800w.webp"
+  - "/images/meistersaal/01-4b7203d9-800w.webp"
 ---
 
 ## Overview

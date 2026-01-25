@@ -21,7 +21,7 @@ longitude: 9.205
 
 # Images
 images:
-  - "/images-sites/wilhelma/01-25abed2c-800w.webp"
+  - "/images/wilhelma/01-25abed2c-800w.webp"
 ---
 
 ## Overview

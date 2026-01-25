@@ -1,19 +1,49 @@
 ---
-title: "Bannwaldsee"
+title: Bannwaldsee
 date: 2026-01-23
 draft: false
-description: "lake in Ostallgäu, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ostallgäu, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.601111111
 longitude: 10.777222222
 images:
-  - "/images-sites/bannwaldsee/01-53fcab36-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_from_Tegelberg_03.jpg/1200px-View_from_Tegelberg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Tegelberg_02.jpg/1200px-View_from_Tegelberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bannwaldsee.jpg/1200px-Bannwaldsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg/1200px-Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forggensee_Bannwaldsee_1.jpg/1200px-Forggensee_Bannwaldsee_1.jpg
+image_srcset:
+  View from Tegelberg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_from_Tegelberg_03.jpg/400px-View_from_Tegelberg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_from_Tegelberg_03.jpg/800px-View_from_Tegelberg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_from_Tegelberg_03.jpg/1200px-View_from_Tegelberg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/View_from_Tegelberg_03.jpg/1920px-View_from_Tegelberg_03.jpg
+  View from Tegelberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Tegelberg_02.jpg/400px-View_from_Tegelberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Tegelberg_02.jpg/800px-View_from_Tegelberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Tegelberg_02.jpg/1200px-View_from_Tegelberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/View_from_Tegelberg_02.jpg/1920px-View_from_Tegelberg_02.jpg
+  Bannwaldsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bannwaldsee.jpg/400px-Bannwaldsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bannwaldsee.jpg/800px-Bannwaldsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bannwaldsee.jpg/1200px-Bannwaldsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bannwaldsee.jpg/1920px-Bannwaldsee.jpg
+  Forggensee und Bannwaldsee - Blick vom Tegelberg (3227-3235).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg/400px-Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg/800px-Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg/1200px-Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg/1920px-Forggensee_und_Bannwaldsee_-_Blick_vom_Tegelberg_(3227-3235).jpg
+  Forggensee Bannwaldsee 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forggensee_Bannwaldsee_1.jpg/400px-Forggensee_Bannwaldsee_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forggensee_Bannwaldsee_1.jpg/800px-Forggensee_Bannwaldsee_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forggensee_Bannwaldsee_1.jpg/1200px-Forggensee_Bannwaldsee_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Forggensee_Bannwaldsee_1.jpg/1920px-Forggensee_Bannwaldsee_1.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Hirschhorn Castle"
+title: Hirschhorn Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4494
 longitude: 8.89833
-
-# Images
 images:
-  - "/images-sites/hirschhorn-castle/01-c384ce32-800w.webp"
-  - "/images-sites/hirschhorn-castle/02-96eb3e53-800w.webp"
-  - "/images-sites/hirschhorn-castle/03-07e8cb6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg/1200px-Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg/1200px-View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg/1200px-Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1200px-Burg_Hirschhorn.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Hirschhorn_Bauphasen_1.jpg/1200px-Burg_Hirschhorn_Bauphasen_1.jpg
+image_srcset:
+  Hirschhorn (Neckar) - Burg Hirschhorn - Gefängnisturm und Mauer - Ansicht von SSO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg/400px-Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg/800px-Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg/1200px-Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg/1920px-Hirschhorn_(Neckar)_-_Burg_Hirschhorn_-_Gefängnisturm_und_Mauer_-_Ansicht_von_SSO.jpg
+  View from castle Hirschhorn, Ersheim, river Neckar, district Bergstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg/400px-View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg/800px-View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg/1200px-View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg/1920px-View_from_castle_Hirschhorn,_Ersheim,_river_Neckar,_district_Bergstraße.jpg
+  Castle Hirschhorn, Mittleres Tor, district Bergstraße 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg/400px-Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg/800px-Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg/1200px-Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg/1920px-Castle_Hirschhorn,_Mittleres_Tor,_district_Bergstraße_01.jpg
+  Burg Hirschhorn.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/400px-Burg_Hirschhorn.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/800px-Burg_Hirschhorn.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1200px-Burg_Hirschhorn.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Burg_Hirschhorn.JPG/1920px-Burg_Hirschhorn.JPG
+  Burg Hirschhorn Bauphasen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Hirschhorn_Bauphasen_1.jpg/400px-Burg_Hirschhorn_Bauphasen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Hirschhorn_Bauphasen_1.jpg/800px-Burg_Hirschhorn_Bauphasen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Hirschhorn_Bauphasen_1.jpg/1200px-Burg_Hirschhorn_Bauphasen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Hirschhorn_Bauphasen_1.jpg/1920px-Burg_Hirschhorn_Bauphasen_1.jpg
 ---
 
 ## Overview

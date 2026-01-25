@@ -13,8 +13,8 @@ regions:
 latitude: 50.8075
 longitude: 8.770277777
 images:
-  - "/images-sites/synagoge-in-marburglahn/02-f5a4f9ac-800w.webp"
-  - "/images-sites/synagoge-in-marburglahn/03-502070a0-800w.webp"
+  - "/images/synagoge-in-marburglahn/02-f5a4f9ac-800w.webp"
+  - "/images/synagoge-in-marburglahn/03-502070a0-800w.webp"
 ---
 
 ## Overview

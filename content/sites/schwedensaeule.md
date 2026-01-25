@@ -13,7 +13,7 @@ regions:
 latitude: 49.8232
 longitude: 8.41472
 images:
-  - "/images-sites/schwedensaeule/01-a56c940a-800w.webp"
+  - "/images/schwedensaeule/01-a56c940a-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,31 @@
 ---
-title: "Fragment from the tomb of Nikarete"
+title: Fragment from the tomb of Nikarete
 date: 2026-01-23
 draft: false
-description: "ancient Greek sculpture"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: ancient Greek sculpture
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5194
 longitude: 13.3983
 images:
-  - "/images-sites/fragment-from-the-tomb-of-nikarete/01-0640efed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1200px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg/1200px-Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg
+image_srcset:
+  Fragment of Funerary Monument of Nikarete - Altes Museum - Berlin - Germany 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/400px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/800px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1200px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/1920px-Fragment_of_Funerary_Monument_of_Nikarete_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg
+  Altes Museum - Fragment vom Grabmal der Nikarete.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg/400px-Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg/800px-Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg/1200px-Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg/1920px-Altes_Museum_-_Fragment_vom_Grabmal_der_Nikarete.jpg
 ---
 
 ## Overview

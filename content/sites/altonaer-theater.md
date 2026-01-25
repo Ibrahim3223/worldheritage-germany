@@ -1,19 +1,49 @@
 ---
-title: "Altonaer Theater"
+title: Altonaer Theater
 date: 2026-01-24
 draft: false
-description: "theatre in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Hamburg
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54896389
 longitude: 9.93436667
 images:
-  - "/images-sites/altonaer-theater/01-01368325-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HANSif1474_Haus_der_Jugend.tif.jpg/1200px-HANSif1474_Haus_der_Jugend.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hamburg_Altona_DS354.jpg/1200px-Hamburg_Altona_DS354.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg/1200px-Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hh-altonaerTheater.jpg/1200px-Hh-altonaerTheater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg/1200px-Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg
+image_srcset:
+  HANSif1474 Haus der Jugend.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HANSif1474_Haus_der_Jugend.tif.jpg/400px-HANSif1474_Haus_der_Jugend.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HANSif1474_Haus_der_Jugend.tif.jpg/800px-HANSif1474_Haus_der_Jugend.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HANSif1474_Haus_der_Jugend.tif.jpg/1200px-HANSif1474_Haus_der_Jugend.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HANSif1474_Haus_der_Jugend.tif.jpg/1920px-HANSif1474_Haus_der_Jugend.tif.jpg
+  Hamburg Altona DS354.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hamburg_Altona_DS354.jpg/400px-Hamburg_Altona_DS354.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hamburg_Altona_DS354.jpg/800px-Hamburg_Altona_DS354.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hamburg_Altona_DS354.jpg/1200px-Hamburg_Altona_DS354.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hamburg_Altona_DS354.jpg/1920px-Hamburg_Altona_DS354.jpg
+  Gesellschaft des Altonaer Schauspielhauses 1876.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg/400px-Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg/800px-Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg/1200px-Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg/1920px-Gesellschaft_des_Altonaer_Schauspielhauses_1876.jpg
+  Hh-altonaerTheater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hh-altonaerTheater.jpg/400px-Hh-altonaerTheater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hh-altonaerTheater.jpg/800px-Hh-altonaerTheater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hh-altonaerTheater.jpg/1200px-Hh-altonaerTheater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hh-altonaerTheater.jpg/1920px-Hh-altonaerTheater.jpg
+  Hamburg, Hamburg - Stadttheater (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg/400px-Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg/800px-Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg/1200px-Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg/1920px-Hamburg,_Hamburg_-_Stadttheater_(Zeno_Ansichtskarten).jpg
 ---
 
 ## Overview

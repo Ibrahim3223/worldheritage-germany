@@ -1,21 +1,49 @@
 ---
-title: "Feinmechanisches Museum Fellenbergmühle"
+title: Feinmechanisches Museum Fellenbergmühle
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4455
 longitude: 6.64334
 images:
-  - "/images-sites/feinmechanisches-museum-fellenbergmuehle/01-ef045b46-800w.webp"
-  - "/images-sites/feinmechanisches-museum-fellenbergmuehle/02-e675c0be-800w.webp"
-  - "/images-sites/feinmechanisches-museum-fellenbergmuehle/03-c23dac7e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fellenbergmühle_Werkstatt_hdr.jpg/1200px-Fellenbergmühle_Werkstatt_hdr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fellenbergmühle_Francis_turbine.jpg/1200px-Fellenbergmühle_Francis_turbine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fellenbergmühle_Zahnradfräßmaschine.jpg/1200px-Fellenbergmühle_Zahnradfräßmaschine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fellenbergmühle_Transmission_vom_Wasserrad.jpg/1200px-Fellenbergmühle_Transmission_vom_Wasserrad.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1200px-MerzigFellenbergmühle2.jpg
+image_srcset:
+  Fellenbergmühle Werkstatt hdr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fellenbergmühle_Werkstatt_hdr.jpg/400px-Fellenbergmühle_Werkstatt_hdr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fellenbergmühle_Werkstatt_hdr.jpg/800px-Fellenbergmühle_Werkstatt_hdr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fellenbergmühle_Werkstatt_hdr.jpg/1200px-Fellenbergmühle_Werkstatt_hdr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fellenbergmühle_Werkstatt_hdr.jpg/1920px-Fellenbergmühle_Werkstatt_hdr.jpg
+  Fellenbergmühle Francis turbine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fellenbergmühle_Francis_turbine.jpg/400px-Fellenbergmühle_Francis_turbine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fellenbergmühle_Francis_turbine.jpg/800px-Fellenbergmühle_Francis_turbine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fellenbergmühle_Francis_turbine.jpg/1200px-Fellenbergmühle_Francis_turbine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fellenbergmühle_Francis_turbine.jpg/1920px-Fellenbergmühle_Francis_turbine.jpg
+  Fellenbergmühle Zahnradfräßmaschine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fellenbergmühle_Zahnradfräßmaschine.jpg/400px-Fellenbergmühle_Zahnradfräßmaschine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fellenbergmühle_Zahnradfräßmaschine.jpg/800px-Fellenbergmühle_Zahnradfräßmaschine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fellenbergmühle_Zahnradfräßmaschine.jpg/1200px-Fellenbergmühle_Zahnradfräßmaschine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fellenbergmühle_Zahnradfräßmaschine.jpg/1920px-Fellenbergmühle_Zahnradfräßmaschine.jpg
+  Fellenbergmühle Transmission vom Wasserrad.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fellenbergmühle_Transmission_vom_Wasserrad.jpg/400px-Fellenbergmühle_Transmission_vom_Wasserrad.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fellenbergmühle_Transmission_vom_Wasserrad.jpg/800px-Fellenbergmühle_Transmission_vom_Wasserrad.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fellenbergmühle_Transmission_vom_Wasserrad.jpg/1200px-Fellenbergmühle_Transmission_vom_Wasserrad.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fellenbergmühle_Transmission_vom_Wasserrad.jpg/1920px-Fellenbergmühle_Transmission_vom_Wasserrad.jpg
+  MerzigFellenbergmühle2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/400px-MerzigFellenbergmühle2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/800px-MerzigFellenbergmühle2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1200px-MerzigFellenbergmühle2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MerzigFellenbergmühle2.jpg/1920px-MerzigFellenbergmühle2.jpg
 ---
 
 ## Overview

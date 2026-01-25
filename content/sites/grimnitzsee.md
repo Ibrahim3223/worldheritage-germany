@@ -1,19 +1,49 @@
 ---
-title: "Grimnitzsee"
+title: Grimnitzsee
 date: 2026-01-23
 draft: false
-description: "lake in Barnim District, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Barnim District, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.978888888
 longitude: 13.785555555
 images:
-  - "/images-sites/grimnitzsee/01-f434c1be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/18-10-21-Juchte-RalfR-DJI_0633-0630.jpg/1200px-18-10-21-Juchte-RalfR-DJI_0633-0630.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/18-10-21-Juchte-RalfR-DJI_0195-0198.jpg/1200px-18-10-21-Juchte-RalfR-DJI_0195-0198.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grimnitzsee_Spandau_Berlin_DE.jpg/1200px-Grimnitzsee_Spandau_Berlin_DE.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grimnitzsee.jpg/1200px-Grimnitzsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grimnitzsee_1_Berlin.JPG/1200px-Grimnitzsee_1_Berlin.JPG
+image_srcset:
+  18-10-21-Juchte-RalfR-DJI 0633-0630.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/18-10-21-Juchte-RalfR-DJI_0633-0630.jpg/400px-18-10-21-Juchte-RalfR-DJI_0633-0630.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/18-10-21-Juchte-RalfR-DJI_0633-0630.jpg/800px-18-10-21-Juchte-RalfR-DJI_0633-0630.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/18-10-21-Juchte-RalfR-DJI_0633-0630.jpg/1200px-18-10-21-Juchte-RalfR-DJI_0633-0630.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/18-10-21-Juchte-RalfR-DJI_0633-0630.jpg/1920px-18-10-21-Juchte-RalfR-DJI_0633-0630.jpg
+  18-10-21-Juchte-RalfR-DJI 0195-0198.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/18-10-21-Juchte-RalfR-DJI_0195-0198.jpg/400px-18-10-21-Juchte-RalfR-DJI_0195-0198.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/18-10-21-Juchte-RalfR-DJI_0195-0198.jpg/800px-18-10-21-Juchte-RalfR-DJI_0195-0198.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/18-10-21-Juchte-RalfR-DJI_0195-0198.jpg/1200px-18-10-21-Juchte-RalfR-DJI_0195-0198.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/18-10-21-Juchte-RalfR-DJI_0195-0198.jpg/1920px-18-10-21-Juchte-RalfR-DJI_0195-0198.jpg
+  Grimnitzsee Spandau Berlin DE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grimnitzsee_Spandau_Berlin_DE.jpg/400px-Grimnitzsee_Spandau_Berlin_DE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grimnitzsee_Spandau_Berlin_DE.jpg/800px-Grimnitzsee_Spandau_Berlin_DE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grimnitzsee_Spandau_Berlin_DE.jpg/1200px-Grimnitzsee_Spandau_Berlin_DE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grimnitzsee_Spandau_Berlin_DE.jpg/1920px-Grimnitzsee_Spandau_Berlin_DE.jpg
+  Grimnitzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grimnitzsee.jpg/400px-Grimnitzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grimnitzsee.jpg/800px-Grimnitzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grimnitzsee.jpg/1200px-Grimnitzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grimnitzsee.jpg/1920px-Grimnitzsee.jpg
+  Grimnitzsee 1 Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grimnitzsee_1_Berlin.JPG/400px-Grimnitzsee_1_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grimnitzsee_1_Berlin.JPG/800px-Grimnitzsee_1_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grimnitzsee_1_Berlin.JPG/1200px-Grimnitzsee_1_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grimnitzsee_1_Berlin.JPG/1920px-Grimnitzsee_1_Berlin.JPG
 ---
 
 ## Overview

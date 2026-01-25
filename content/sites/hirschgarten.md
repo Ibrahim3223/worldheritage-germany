@@ -1,21 +1,49 @@
 ---
-title: "Hirschgarten"
+title: Hirschgarten
 date: 2026-01-23
 draft: false
-description: "park in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9743
 longitude: 11.0295
 images:
-  - "/images-sites/hirschgarten/01-a9ed5e84-800w.webp"
-  - "/images-sites/hirschgarten/02-35a1aff2-800w.webp"
-  - "/images-sites/hirschgarten/03-d4eb17ae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg/1200px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg/1200px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg/1200px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg/1200px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg
+image_srcset:
+  Aerial image of Hirschgarten in Munich (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg/400px-Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg/800px-Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Hirschgarten_in_Munich_(view_from_the_southwest).jpg
+  Dipsacus strigosus - M-Hirschgarten - 2022-03-28 - 815b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg/400px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg/800px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg/1200px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg/1920px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_815b.jpg
+  Damwild im Hirschgarten - München - 2022-03-28 - 805c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg/400px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg/800px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg/1200px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg/1920px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_805c.jpg
+  Damwild im Hirschgarten - München - 2022-03-28 - 806c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg/400px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg/800px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg/1200px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg/1920px-Damwild_im_Hirschgarten_-_München_-_2022-03-28_-_806c.jpg
+  Dipsacus strigosus - M-Hirschgarten - 2022-03-28 - 811b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg/400px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg/800px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg/1200px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg/1920px-Dipsacus_strigosus_-_M-Hirschgarten_-_2022-03-28_-_811b.jpg
 ---
 
 ## Overview

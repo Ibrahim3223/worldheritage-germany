@@ -21,9 +21,9 @@ longitude: 10.9795
 
 # Images
 images:
-  - "/images-sites/kevernburg/01-6ae3d0df-800w.webp"
-  - "/images-sites/kevernburg/02-6c73d6f7-800w.webp"
-  - "/images-sites/kevernburg/03-baf1369f-800w.webp"
+  - "/images/kevernburg/01-6ae3d0df-800w.webp"
+  - "/images/kevernburg/02-6c73d6f7-800w.webp"
+  - "/images/kevernburg/03-baf1369f-800w.webp"
 ---
 
 ## Overview

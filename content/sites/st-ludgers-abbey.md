@@ -13,7 +13,7 @@ regions:
 latitude: 52.2262
 longitude: 11.0157
 images:
-  - "/images-sites/st-ludgers-abbey/01-329d3555-800w.webp"
+  - "/images/st-ludgers-abbey/01-329d3555-800w.webp"
 ---
 
 ## Overview

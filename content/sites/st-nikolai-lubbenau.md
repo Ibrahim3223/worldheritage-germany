@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2222050"
 description: "St. Nikolai in Lübbenau is a striking example of baroque architecture that invites visitors to delve into the rich cultural tapestry of Brandenburg, Ger..."
 images:
-  - "/images-sites/st-nikolai-lubbenau/01-a5c60c22-1920w.webp"
-  - "/images-sites/st-nikolai-lubbenau/02-924df689-1920w.webp"
-  - "/images-sites/st-nikolai-lubbenau/03-9db28a72-1920w.webp"
+  - "/images/st-nikolai-lubbenau/01-a5c60c22-1920w.webp"
+  - "/images/st-nikolai-lubbenau/02-924df689-1920w.webp"
+  - "/images/st-nikolai-lubbenau/03-9db28a72-1920w.webp"
 ---
 
 ## Overview

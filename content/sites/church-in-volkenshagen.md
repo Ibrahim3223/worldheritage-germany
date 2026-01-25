@@ -1,23 +1,50 @@
 ---
-title: "Church in Volkenshagen"
-site_name: "Church in Volkenshagen"
-slug: "church-in-volkenshagen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Volkenshagen
+site_name: Church in Volkenshagen
+slug: church-in-volkenshagen
+region: Mecklenburg-Vorpommern
 latitude: 54.1496
 longitude: 12.3242
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244786"
-description: "In the tranquil region of Bentwisch, Germany, the Church in Volkenshagen stands as a notable example of Protestant architectural design. This church, cr..."
+- cultural site
+wikidata_id: Q1244786
+description: In the tranquil region of Bentwisch, Germany, the Church in Volkenshagen
+  stands as a notable example of Protestant architectural design. This church, cr...
 images:
-  - "/images-sites/church-in-volkenshagen/01-312c11d7-1920w.webp"
-  - "/images-sites/church-in-volkenshagen/02-9b228d51-1920w.webp"
-  - "/images-sites/church-in-volkenshagen/03-0317da1e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dorfkirche%20Volkenshagen%20August%202012.JPG/1200px-Dorfkirche%20Volkenshagen%20August%202012.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg/1200px-Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bentwisch-Volkenshagen,_Dorfkirche.jpg/1200px-Bentwisch-Volkenshagen,_Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1200px-Dorfkirche_Volkenshagen_August_2012.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dorfkirche_Volkenshagen_Seiteneingang.JPG/1200px-Dorfkirche_Volkenshagen_Seiteneingang.JPG
+image_srcset:
+  Dorfkirche%20Volkenshagen%20August%202012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dorfkirche%20Volkenshagen%20August%202012.JPG/400px-Dorfkirche%20Volkenshagen%20August%202012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dorfkirche%20Volkenshagen%20August%202012.JPG/800px-Dorfkirche%20Volkenshagen%20August%202012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dorfkirche%20Volkenshagen%20August%202012.JPG/1200px-Dorfkirche%20Volkenshagen%20August%202012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dorfkirche%20Volkenshagen%20August%202012.JPG/1920px-Dorfkirche%20Volkenshagen%20August%202012.JPG
+  Bentwisch-Volkenshagen, Dorfkirche, Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg/400px-Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg/800px-Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg/1200px-Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg/1920px-Bentwisch-Volkenshagen,_Dorfkirche,_Orgel.jpg
+  Bentwisch-Volkenshagen, Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bentwisch-Volkenshagen,_Dorfkirche.jpg/400px-Bentwisch-Volkenshagen,_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bentwisch-Volkenshagen,_Dorfkirche.jpg/800px-Bentwisch-Volkenshagen,_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bentwisch-Volkenshagen,_Dorfkirche.jpg/1200px-Bentwisch-Volkenshagen,_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bentwisch-Volkenshagen,_Dorfkirche.jpg/1920px-Bentwisch-Volkenshagen,_Dorfkirche.jpg
+  Dorfkirche Volkenshagen August 2012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/400px-Dorfkirche_Volkenshagen_August_2012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/800px-Dorfkirche_Volkenshagen_August_2012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1200px-Dorfkirche_Volkenshagen_August_2012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dorfkirche_Volkenshagen_August_2012.JPG/1920px-Dorfkirche_Volkenshagen_August_2012.JPG
+  Dorfkirche Volkenshagen Seiteneingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dorfkirche_Volkenshagen_Seiteneingang.JPG/400px-Dorfkirche_Volkenshagen_Seiteneingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dorfkirche_Volkenshagen_Seiteneingang.JPG/800px-Dorfkirche_Volkenshagen_Seiteneingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dorfkirche_Volkenshagen_Seiteneingang.JPG/1200px-Dorfkirche_Volkenshagen_Seiteneingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dorfkirche_Volkenshagen_Seiteneingang.JPG/1920px-Dorfkirche_Volkenshagen_Seiteneingang.JPG
 ---
 
 ## Overview

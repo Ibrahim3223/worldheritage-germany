@@ -1,20 +1,51 @@
 ---
-title: "Hafenkirche"
-site_name: "Hafenkirche"
-slug: "hafenkirche"
-region: "Hesse"
-
-# Location
+title: Hafenkirche
+site_name: Hafenkirche
+slug: hafenkirche
+region: Hesse
 latitude: 49.4926
 longitude: 8.45759
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1351739"
-description: "In the heart of Mannheim, Germany, stands Hafenkirche, a striking modern church that invites visitors to explore its unique architectural style and spir..."
+- church building
+- religious site
+wikidata_id: Q1351739
+description: In the heart of Mannheim, Germany, stands Hafenkirche, a striking modern
+  church that invites visitors to explore its unique architectural style and spir...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/1200px-Mannheim-Hafenkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panagia_Myrtidiotissa_01.jpg/1200px-Panagia_Myrtidiotissa_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Posthofstraße_41.JPG/1200px-Posthofstraße_41.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hafenkirche_(Mannheim)_03.jpg/1200px-Hafenkirche_(Mannheim)_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schiffsmodell_Hafenkirche_(Mannheim).JPG/1200px-Schiffsmodell_Hafenkirche_(Mannheim).JPG
+image_srcset:
+  Mannheim-Hafenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/400px-Mannheim-Hafenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/800px-Mannheim-Hafenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/1200px-Mannheim-Hafenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mannheim-Hafenkirche.jpg/1920px-Mannheim-Hafenkirche.jpg
+  Panagia Myrtidiotissa 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panagia_Myrtidiotissa_01.jpg/400px-Panagia_Myrtidiotissa_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panagia_Myrtidiotissa_01.jpg/800px-Panagia_Myrtidiotissa_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panagia_Myrtidiotissa_01.jpg/1200px-Panagia_Myrtidiotissa_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panagia_Myrtidiotissa_01.jpg/1920px-Panagia_Myrtidiotissa_01.jpg
+  Posthofstraße 41.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Posthofstraße_41.JPG/400px-Posthofstraße_41.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Posthofstraße_41.JPG/800px-Posthofstraße_41.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Posthofstraße_41.JPG/1200px-Posthofstraße_41.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Posthofstraße_41.JPG/1920px-Posthofstraße_41.JPG
+  Hafenkirche (Mannheim) 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hafenkirche_(Mannheim)_03.jpg/400px-Hafenkirche_(Mannheim)_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hafenkirche_(Mannheim)_03.jpg/800px-Hafenkirche_(Mannheim)_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hafenkirche_(Mannheim)_03.jpg/1200px-Hafenkirche_(Mannheim)_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hafenkirche_(Mannheim)_03.jpg/1920px-Hafenkirche_(Mannheim)_03.jpg
+  Schiffsmodell Hafenkirche (Mannheim).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schiffsmodell_Hafenkirche_(Mannheim).JPG/400px-Schiffsmodell_Hafenkirche_(Mannheim).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schiffsmodell_Hafenkirche_(Mannheim).JPG/800px-Schiffsmodell_Hafenkirche_(Mannheim).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schiffsmodell_Hafenkirche_(Mannheim).JPG/1200px-Schiffsmodell_Hafenkirche_(Mannheim).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schiffsmodell_Hafenkirche_(Mannheim).JPG/1920px-Schiffsmodell_Hafenkirche_(Mannheim).JPG
 ---
 
 ## Overview

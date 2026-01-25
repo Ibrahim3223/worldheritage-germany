@@ -1,27 +1,49 @@
 ---
-title: "Horst Janssen Museum"
+title: Horst Janssen Museum
 date: 2026-01-23
 draft: false
-description: "artist museum in Oldenburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: artist museum in Oldenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.1444
 longitude: 8.21472
-
-# Images
 images:
-  - "/images-sites/horst-janssen-museum/01-773d806d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nanne_Meyer.jpg/1200px-Nanne_Meyer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horst-Janssen-Platz_Oldenburg.jpg/1200px-Horst-Janssen-Platz_Oldenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Horst_Janssen_Museum.JPG/1200px-Oldenburg_Horst_Janssen_Museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1200px-JanssenMuseumOldenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Horst-Janssen-Museum_-_panoramio.jpg/1200px-Horst-Janssen-Museum_-_panoramio.jpg
+image_srcset:
+  Nanne Meyer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nanne_Meyer.jpg/400px-Nanne_Meyer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nanne_Meyer.jpg/800px-Nanne_Meyer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nanne_Meyer.jpg/1200px-Nanne_Meyer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nanne_Meyer.jpg/1920px-Nanne_Meyer.jpg
+  Horst-Janssen-Platz Oldenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horst-Janssen-Platz_Oldenburg.jpg/400px-Horst-Janssen-Platz_Oldenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horst-Janssen-Platz_Oldenburg.jpg/800px-Horst-Janssen-Platz_Oldenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horst-Janssen-Platz_Oldenburg.jpg/1200px-Horst-Janssen-Platz_Oldenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Horst-Janssen-Platz_Oldenburg.jpg/1920px-Horst-Janssen-Platz_Oldenburg.jpg
+  Oldenburg Horst Janssen Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Horst_Janssen_Museum.JPG/400px-Oldenburg_Horst_Janssen_Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Horst_Janssen_Museum.JPG/800px-Oldenburg_Horst_Janssen_Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Horst_Janssen_Museum.JPG/1200px-Oldenburg_Horst_Janssen_Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Horst_Janssen_Museum.JPG/1920px-Oldenburg_Horst_Janssen_Museum.JPG
+  JanssenMuseumOldenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/400px-JanssenMuseumOldenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/800px-JanssenMuseumOldenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1200px-JanssenMuseumOldenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/JanssenMuseumOldenburg.jpg/1920px-JanssenMuseumOldenburg.jpg
+  Horst-Janssen-Museum - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Horst-Janssen-Museum_-_panoramio.jpg/400px-Horst-Janssen-Museum_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Horst-Janssen-Museum_-_panoramio.jpg/800px-Horst-Janssen-Museum_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Horst-Janssen-Museum_-_panoramio.jpg/1200px-Horst-Janssen-Museum_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Horst-Janssen-Museum_-_panoramio.jpg/1920px-Horst-Janssen-Museum_-_panoramio.jpg
 ---
 
 ## Overview

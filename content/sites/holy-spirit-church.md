@@ -1,23 +1,51 @@
 ---
-title: "Holy-Spirit-Church"
-site_name: "Holy-Spirit-Church"
-slug: "holy-spirit-church"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Holy-Spirit-Church
+site_name: Holy-Spirit-Church
+slug: holy-spirit-church
+region: North Rhine-Westphalia
 latitude: 51.2383
 longitude: 6.78837
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594863"
-description: "In the heart of Düsseldorf-Pempelfort lies the Holy-Spirit-Church, a striking example of Romanesque Revival architecture that has served the Catholic co..."
+- cultural site
+wikidata_id: Q1594863
+description: In the heart of Düsseldorf-Pempelfort lies the Holy-Spirit-Church, a
+  striking example of Romanesque Revival architecture that has served the Catholic
+  co...
 images:
-  - "/images-sites/holy-spirit-church/01-42a4552b-1920w.webp"
-  - "/images-sites/holy-spirit-church/01-6737c378-1920w.webp"
-  - "/images-sites/holy-spirit-church/02-3a397e11-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG/1200px-Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg/1200px-Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG/1200px-615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG/1200px-615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_spirit_Bale_sign.JPG/1200px-Holy_spirit_Bale_sign.JPG
+image_srcset:
+  Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG/400px-Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG/800px-Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG/1200px-Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG/1920px-Heilig%20Geist%20%28D%C3%BCsseldorf%29.JPG
+  Interno de historia kapelo 'Santo Spirito' en Bale - Valle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg/400px-Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg/800px-Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg/1200px-Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg/1920px-Interno_de_historia_kapelo_'Santo_Spirito'_en_Bale_-_Valle.jpg
+  615906 pow krakowski gm Krzeszowice Nowa Gora kosc Ducha 09.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG/400px-615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG/800px-615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG/1200px-615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG/1920px-615906_pow_krakowski_gm_Krzeszowice_Nowa_Gora_kosc_Ducha_09.JPG
+  615907 pow krakowski gm krzeszowice Nowa Gora k Ducha kaplica I.01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG/400px-615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG/800px-615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG/1200px-615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG/1920px-615907_pow_krakowski_gm_krzeszowice_Nowa_Gora_k_Ducha_kaplica_I.01.JPG
+  Holy spirit Bale sign.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_spirit_Bale_sign.JPG/400px-Holy_spirit_Bale_sign.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_spirit_Bale_sign.JPG/800px-Holy_spirit_Bale_sign.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_spirit_Bale_sign.JPG/1200px-Holy_spirit_Bale_sign.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_spirit_Bale_sign.JPG/1920px-Holy_spirit_Bale_sign.JPG
 ---
 
 ## Overview

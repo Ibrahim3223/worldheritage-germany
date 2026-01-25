@@ -13,9 +13,9 @@ regions:
 latitude: 50.65834
 longitude: 7.216159999
 images:
-  - "/images-sites/stiftung-bundeskanzler-adenauer-haus/01-28e90d4e-800w.webp"
-  - "/images-sites/stiftung-bundeskanzler-adenauer-haus/02-11087c98-800w.webp"
-  - "/images-sites/stiftung-bundeskanzler-adenauer-haus/03-b2d6cf2c-800w.webp"
+  - "/images/stiftung-bundeskanzler-adenauer-haus/01-28e90d4e-800w.webp"
+  - "/images/stiftung-bundeskanzler-adenauer-haus/02-11087c98-800w.webp"
+  - "/images/stiftung-bundeskanzler-adenauer-haus/03-b2d6cf2c-800w.webp"
 ---
 
 ## Overview

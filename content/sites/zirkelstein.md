@@ -13,7 +13,7 @@ regions:
 latitude: 50.878333333
 longitude: 14.220555555
 images:
-  - "/images-sites/zirkelstein/01-e6a13048-800w.webp"
+  - "/images/zirkelstein/01-e6a13048-800w.webp"
 ---
 
 ## Overview

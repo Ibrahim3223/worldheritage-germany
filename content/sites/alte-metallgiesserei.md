@@ -1,19 +1,49 @@
 ---
-title: "Alte Metallgiesserei"
+title: Alte Metallgiesserei
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.3306
 longitude: 10.1775
 images:
-  - "/images-sites/alte-metallgiesserei/01-778c2646-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg/1200px-Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Metallgiesserei,_Okt_2016.jpg/1200px-Alte_Metallgiesserei,_Okt_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alte_Metallgiesserei,_2016.jpg/1200px-Alte_Metallgiesserei,_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/21_Neumühlen-Dietrichsdorf_27.jpg/1200px-21_Neumühlen-Dietrichsdorf_27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1200px-AlteMetallgiessereiKiel-01a.jpg
+image_srcset:
+  Museumsnacht Kiel (42) Alte Gießerei (36860469576).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg/400px-Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg/800px-Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg/1200px-Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg/1920px-Museumsnacht_Kiel_(42)_Alte_Gießerei_(36860469576).jpg
+  Alte Metallgiesserei, Okt 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Metallgiesserei,_Okt_2016.jpg/400px-Alte_Metallgiesserei,_Okt_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Metallgiesserei,_Okt_2016.jpg/800px-Alte_Metallgiesserei,_Okt_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Metallgiesserei,_Okt_2016.jpg/1200px-Alte_Metallgiesserei,_Okt_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alte_Metallgiesserei,_Okt_2016.jpg/1920px-Alte_Metallgiesserei,_Okt_2016.jpg
+  Alte Metallgiesserei, 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alte_Metallgiesserei,_2016.jpg/400px-Alte_Metallgiesserei,_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alte_Metallgiesserei,_2016.jpg/800px-Alte_Metallgiesserei,_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alte_Metallgiesserei,_2016.jpg/1200px-Alte_Metallgiesserei,_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alte_Metallgiesserei,_2016.jpg/1920px-Alte_Metallgiesserei,_2016.jpg
+  21 Neumühlen-Dietrichsdorf 27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/21_Neumühlen-Dietrichsdorf_27.jpg/400px-21_Neumühlen-Dietrichsdorf_27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/21_Neumühlen-Dietrichsdorf_27.jpg/800px-21_Neumühlen-Dietrichsdorf_27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/21_Neumühlen-Dietrichsdorf_27.jpg/1200px-21_Neumühlen-Dietrichsdorf_27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/21_Neumühlen-Dietrichsdorf_27.jpg/1920px-21_Neumühlen-Dietrichsdorf_27.jpg
+  AlteMetallgiessereiKiel-01a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/400px-AlteMetallgiessereiKiel-01a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/800px-AlteMetallgiessereiKiel-01a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1200px-AlteMetallgiessereiKiel-01a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AlteMetallgiessereiKiel-01a.jpg/1920px-AlteMetallgiessereiKiel-01a.jpg
 ---
 
 ## Overview

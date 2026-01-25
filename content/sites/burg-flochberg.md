@@ -1,27 +1,44 @@
 ---
-title: "Burg Flochberg"
+title: Burg Flochberg
 date: 2026-01-23
 draft: false
-description: "building in Bopfingen, Stuttgart Government Region, Bade-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: building in Bopfingen, Stuttgart Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.8519
 longitude: 10.3608
-
-# Images
 images:
-  - "/images-sites/burg-flochberg/01-2969476f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flochberg_Mariä_Heimsuchung_436.JPG/1200px-Flochberg_Mariä_Heimsuchung_436.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Flochberg_080608.JPG/1200px-Ruine_Flochberg_080608.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ruine_Flochberg_und_Ipf_120611.JPG/1200px-Ruine_Flochberg_und_Ipf_120611.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ruine-flochberg-vom-ipf-aus.jpg/1200px-Ruine-flochberg-vom-ipf-aus.jpg
+image_srcset:
+  Flochberg Mariä Heimsuchung 436.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flochberg_Mariä_Heimsuchung_436.JPG/400px-Flochberg_Mariä_Heimsuchung_436.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flochberg_Mariä_Heimsuchung_436.JPG/800px-Flochberg_Mariä_Heimsuchung_436.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flochberg_Mariä_Heimsuchung_436.JPG/1200px-Flochberg_Mariä_Heimsuchung_436.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flochberg_Mariä_Heimsuchung_436.JPG/1920px-Flochberg_Mariä_Heimsuchung_436.JPG
+  Ruine Flochberg 080608.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Flochberg_080608.JPG/400px-Ruine_Flochberg_080608.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Flochberg_080608.JPG/800px-Ruine_Flochberg_080608.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Flochberg_080608.JPG/1200px-Ruine_Flochberg_080608.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ruine_Flochberg_080608.JPG/1920px-Ruine_Flochberg_080608.JPG
+  Ruine Flochberg und Ipf 120611.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ruine_Flochberg_und_Ipf_120611.JPG/400px-Ruine_Flochberg_und_Ipf_120611.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ruine_Flochberg_und_Ipf_120611.JPG/800px-Ruine_Flochberg_und_Ipf_120611.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ruine_Flochberg_und_Ipf_120611.JPG/1200px-Ruine_Flochberg_und_Ipf_120611.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ruine_Flochberg_und_Ipf_120611.JPG/1920px-Ruine_Flochberg_und_Ipf_120611.JPG
+  Ruine-flochberg-vom-ipf-aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ruine-flochberg-vom-ipf-aus.jpg/400px-Ruine-flochberg-vom-ipf-aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ruine-flochberg-vom-ipf-aus.jpg/800px-Ruine-flochberg-vom-ipf-aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ruine-flochberg-vom-ipf-aus.jpg/1200px-Ruine-flochberg-vom-ipf-aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ruine-flochberg-vom-ipf-aus.jpg/1920px-Ruine-flochberg-vom-ipf-aus.jpg
 ---
 
 ## Overview

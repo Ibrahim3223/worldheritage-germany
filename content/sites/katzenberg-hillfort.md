@@ -21,7 +21,7 @@ longitude: 7.24389
 
 # Images
 images:
-  - "/images-sites/katzenberg-hillfort/01-2a91f670-800w.webp"
+  - "/images/katzenberg-hillfort/01-2a91f670-800w.webp"
 ---
 
 ## Overview

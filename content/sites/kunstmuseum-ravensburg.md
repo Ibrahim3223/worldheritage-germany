@@ -21,7 +21,7 @@ longitude: 9.614802
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-ravensburg/01-82d5c7d0-800w.webp"
+  - "/images/kunstmuseum-ravensburg/01-82d5c7d0-800w.webp"
 ---
 
 ## Overview

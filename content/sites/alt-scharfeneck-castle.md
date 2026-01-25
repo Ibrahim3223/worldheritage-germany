@@ -1,27 +1,43 @@
 ---
-title: "Alt-Scharfeneck Castle"
+title: Alt-Scharfeneck Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2353
 longitude: 8.05194
-
-# Images
 images:
-  - "/images-sites/alt-scharfeneck-castle/01-9a1eeaf1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altscharfeneck.JPG/1200px-Altscharfeneck.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Questforoldscharfeneck.JPG/1200px-Questforoldscharfeneck.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altscharfeneck03.JPG/1200px-Altscharfeneck03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altscharfeneck04.JPG/1200px-Altscharfeneck04.JPG
+image_srcset:
+  Altscharfeneck.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altscharfeneck.JPG/400px-Altscharfeneck.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altscharfeneck.JPG/800px-Altscharfeneck.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altscharfeneck.JPG/1200px-Altscharfeneck.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Altscharfeneck.JPG/1920px-Altscharfeneck.JPG
+  Questforoldscharfeneck.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Questforoldscharfeneck.JPG/400px-Questforoldscharfeneck.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Questforoldscharfeneck.JPG/800px-Questforoldscharfeneck.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Questforoldscharfeneck.JPG/1200px-Questforoldscharfeneck.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Questforoldscharfeneck.JPG/1920px-Questforoldscharfeneck.JPG
+  Altscharfeneck03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altscharfeneck03.JPG/400px-Altscharfeneck03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altscharfeneck03.JPG/800px-Altscharfeneck03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altscharfeneck03.JPG/1200px-Altscharfeneck03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Altscharfeneck03.JPG/1920px-Altscharfeneck03.JPG
+  Altscharfeneck04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altscharfeneck04.JPG/400px-Altscharfeneck04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altscharfeneck04.JPG/800px-Altscharfeneck04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altscharfeneck04.JPG/1200px-Altscharfeneck04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Altscharfeneck04.JPG/1920px-Altscharfeneck04.JPG
 ---
 
 ## Overview

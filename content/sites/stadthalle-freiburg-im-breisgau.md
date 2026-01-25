@@ -13,7 +13,7 @@ regions:
 latitude: 47.986861111
 longitude: 7.872694444
 images:
-  - "/images-sites/stadthalle-freiburg-im-breisgau/01-b559dadf-800w.webp"
+  - "/images/stadthalle-freiburg-im-breisgau/01-b559dadf-800w.webp"
 ---
 
 ## Overview

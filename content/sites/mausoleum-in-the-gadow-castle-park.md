@@ -13,9 +13,9 @@ regions:
 latitude: 53.076249
 longitude: 11.61431
 images:
-  - "/images-sites/mausoleum-in-the-gadow-castle-park/01-926ae57c-800w.webp"
-  - "/images-sites/mausoleum-in-the-gadow-castle-park/02-8a559e83-800w.webp"
-  - "/images-sites/mausoleum-in-the-gadow-castle-park/03-46d50bd1-800w.webp"
+  - "/images/mausoleum-in-the-gadow-castle-park/01-926ae57c-800w.webp"
+  - "/images/mausoleum-in-the-gadow-castle-park/02-8a559e83-800w.webp"
+  - "/images/mausoleum-in-the-gadow-castle-park/03-46d50bd1-800w.webp"
 ---
 
 ## Overview

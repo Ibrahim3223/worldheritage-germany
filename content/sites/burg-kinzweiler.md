@@ -1,27 +1,43 @@
 ---
-title: "Burg Kinzweiler"
+title: Burg Kinzweiler
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8458
 longitude: 6.23083
-
-# Images
 images:
-  - "/images-sites/burg-kinzweiler/01-8497e7e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/6017506.Erwin_Quedenfeldt.jpg/1200px-6017506.Erwin_Quedenfeldt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/1200px-BurgKinzweiler02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgKinzweiler01.jpg/1200px-BurgKinzweiler01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burch_Kinzwiller.JPG/1200px-Burch_Kinzwiller.JPG
+image_srcset:
+  6017506.Erwin Quedenfeldt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/6017506.Erwin_Quedenfeldt.jpg/400px-6017506.Erwin_Quedenfeldt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/6017506.Erwin_Quedenfeldt.jpg/800px-6017506.Erwin_Quedenfeldt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/6017506.Erwin_Quedenfeldt.jpg/1200px-6017506.Erwin_Quedenfeldt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/6017506.Erwin_Quedenfeldt.jpg/1920px-6017506.Erwin_Quedenfeldt.jpg
+  BurgKinzweiler02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/400px-BurgKinzweiler02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/800px-BurgKinzweiler02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/1200px-BurgKinzweiler02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BurgKinzweiler02.jpg/1920px-BurgKinzweiler02.jpg
+  BurgKinzweiler01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgKinzweiler01.jpg/400px-BurgKinzweiler01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgKinzweiler01.jpg/800px-BurgKinzweiler01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgKinzweiler01.jpg/1200px-BurgKinzweiler01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BurgKinzweiler01.jpg/1920px-BurgKinzweiler01.jpg
+  Burch Kinzwiller.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burch_Kinzwiller.JPG/400px-Burch_Kinzwiller.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burch_Kinzwiller.JPG/800px-Burch_Kinzwiller.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burch_Kinzwiller.JPG/1200px-Burch_Kinzwiller.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Burch_Kinzwiller.JPG/1920px-Burch_Kinzwiller.JPG
 ---
 
 ## Overview

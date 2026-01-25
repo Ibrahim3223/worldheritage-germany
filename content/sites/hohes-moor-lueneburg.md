@@ -1,19 +1,49 @@
 ---
-title: "Hohes Moor (Lüneburg)"
+title: Hohes Moor (Lüneburg)
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5519
 longitude: 9.25889
 images:
-  - "/images-sites/hohes-moor-lueneburg/01-4348621e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg/1200px-Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Libelle_am_Baum.jpg/1200px-Libelle_am_Baum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg
+image_srcset:
+  Elm Hohes Moor Frost 25 12 2021 -043.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg/400px-Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg/800px-Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg/1200px-Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg/1920px-Elm_Hohes_Moor_Frost_25_12_2021_-043.jpg
+  Libelle am Baum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Libelle_am_Baum.jpg/400px-Libelle_am_Baum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Libelle_am_Baum.jpg/800px-Libelle_am_Baum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Libelle_am_Baum.jpg/1200px-Libelle_am_Baum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Libelle_am_Baum.jpg/1920px-Libelle_am_Baum.jpg
+  Lausitz Luftsport- & Techniktage 2013-Hinflug by-RaBoe 0077.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0077.jpg
+  Lausitz Luftsport- & Techniktage 2013-Hinflug by-RaBoe 0078.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078.jpg
+  Lausitz Luftsport- & Techniktage 2013-Hinflug by-RaBoe 0078 retusche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg/400px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg/800px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg/1200px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg/1920px-Lausitz_Luftsport-_&_Techniktage_2013-Hinflug_by-RaBoe_0078_retusche.jpg
 ---
 
 ## Overview

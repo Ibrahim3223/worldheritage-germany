@@ -13,7 +13,7 @@ regions:
 latitude: 47.80885
 longitude: 9.64448
 images:
-  - "/images-sites/weingarten-abbey/01-0a91b0b5-800w.webp"
+  - "/images/weingarten-abbey/01-0a91b0b5-800w.webp"
 ---
 
 ## Overview

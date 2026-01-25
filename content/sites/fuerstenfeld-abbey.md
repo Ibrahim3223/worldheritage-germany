@@ -1,21 +1,49 @@
 ---
-title: "Fürstenfeld Abbey"
+title: Fürstenfeld Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.169740071
 longitude: 11.249592078
 images:
-  - "/images-sites/fuerstenfeld-abbey/01-bbfd4f2a-800w.webp"
-  - "/images-sites/fuerstenfeld-abbey/02-353a33c7-800w.webp"
-  - "/images-sites/fuerstenfeld-abbey/03-cd3a91a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kloster_Fürstenfeld_2022-08-21.jpg/1200px-Kloster_Fürstenfeld_2022-08-21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg/1200px-Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Fürstenfeld.jpg/1200px-Kloster_Fürstenfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg/1200px-Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Luftbild_Gesamtareal_kleiner.jpg/1200px-Luftbild_Gesamtareal_kleiner.jpg
+image_srcset:
+  Kloster Fürstenfeld 2022-08-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kloster_Fürstenfeld_2022-08-21.jpg/400px-Kloster_Fürstenfeld_2022-08-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kloster_Fürstenfeld_2022-08-21.jpg/800px-Kloster_Fürstenfeld_2022-08-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kloster_Fürstenfeld_2022-08-21.jpg/1200px-Kloster_Fürstenfeld_2022-08-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kloster_Fürstenfeld_2022-08-21.jpg/1920px-Kloster_Fürstenfeld_2022-08-21.jpg
+  Aerial image of Fürstenfeld Abbey (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg/400px-Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg/800px-Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg/1200px-Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg/1920px-Aerial_image_of_Fürstenfeld_Abbey_(view_from_the_west).jpg
+  Kloster Fürstenfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Fürstenfeld.jpg/400px-Kloster_Fürstenfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Fürstenfeld.jpg/800px-Kloster_Fürstenfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Fürstenfeld.jpg/1200px-Kloster_Fürstenfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Fürstenfeld.jpg/1920px-Kloster_Fürstenfeld.jpg
+  Klosterkirche St. Mariä Himmelfahrt im Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg/400px-Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg/800px-Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg/1200px-Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg/1920px-Klosterkirche_St._Mariä_Himmelfahrt_im_Herbst.jpg
+  Luftbild Gesamtareal kleiner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Luftbild_Gesamtareal_kleiner.jpg/400px-Luftbild_Gesamtareal_kleiner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Luftbild_Gesamtareal_kleiner.jpg/800px-Luftbild_Gesamtareal_kleiner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Luftbild_Gesamtareal_kleiner.jpg/1200px-Luftbild_Gesamtareal_kleiner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Luftbild_Gesamtareal_kleiner.jpg/1920px-Luftbild_Gesamtareal_kleiner.jpg
 ---
 
 ## Overview

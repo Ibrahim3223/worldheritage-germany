@@ -13,7 +13,7 @@ regions:
 latitude: 47.9414
 longitude: 10.2981
 images:
-  - "/images-sites/ottobeuren-abbey/01-825e6923-800w.webp"
+  - "/images/ottobeuren-abbey/01-825e6923-800w.webp"
 ---
 
 ## Overview

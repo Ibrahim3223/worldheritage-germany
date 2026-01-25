@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2316617"
 description: "St. Nicholas Church in Spandau, Berlin, stands as a striking example of Gothic architecture in the heart of Germany. Rising to a height of 77 meters, th..."
 images:
-  - "/images-sites/st-nicholas-spandau/01-30147fd2-1920w.webp"
-  - "/images-sites/st-nicholas-spandau/02-ec288b4e-1920w.webp"
-  - "/images-sites/st-nicholas-spandau/03-4c0c460f-1920w.webp"
+  - "/images/st-nicholas-spandau/01-30147fd2-1920w.webp"
+  - "/images/st-nicholas-spandau/02-ec288b4e-1920w.webp"
+  - "/images/st-nicholas-spandau/03-4c0c460f-1920w.webp"
 ---
 
 ## Overview

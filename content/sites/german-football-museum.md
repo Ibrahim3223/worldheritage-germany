@@ -1,21 +1,49 @@
 ---
-title: "German Football Museum"
+title: German Football Museum
 date: 2026-01-23
 draft: false
-description: "museum in Dortmund, North Rhine-Westphalia, Germany (2015–)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Dortmund, North Rhine-Westphalia, Germany (2015–)
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.51625
 longitude: 7.45855556
 images:
-  - "/images-sites/german-football-museum/01-eeb5fe64-800w.webp"
-  - "/images-sites/german-football-museum/02-bb926ce1-800w.webp"
-  - "/images-sites/german-football-museum/03-d8503ac7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FussballmuseumOstDortmund.jpg/1200px-FussballmuseumOstDortmund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robert_Hunke_(2021).jpg/1200px-Robert_Hunke_(2021).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Architektur_DFB_Museum_Dortmund.jpg/1200px-Architektur_DFB_Museum_Dortmund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DFB_Museum_Dortmund.jpg/1200px-DFB_Museum_Dortmund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/1200px-Deutsches_Fußballmuseum.jpg
+image_srcset:
+  FussballmuseumOstDortmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FussballmuseumOstDortmund.jpg/400px-FussballmuseumOstDortmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FussballmuseumOstDortmund.jpg/800px-FussballmuseumOstDortmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FussballmuseumOstDortmund.jpg/1200px-FussballmuseumOstDortmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/FussballmuseumOstDortmund.jpg/1920px-FussballmuseumOstDortmund.jpg
+  Robert Hunke (2021).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robert_Hunke_(2021).jpg/400px-Robert_Hunke_(2021).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robert_Hunke_(2021).jpg/800px-Robert_Hunke_(2021).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robert_Hunke_(2021).jpg/1200px-Robert_Hunke_(2021).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Robert_Hunke_(2021).jpg/1920px-Robert_Hunke_(2021).jpg
+  Architektur DFB Museum Dortmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Architektur_DFB_Museum_Dortmund.jpg/400px-Architektur_DFB_Museum_Dortmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Architektur_DFB_Museum_Dortmund.jpg/800px-Architektur_DFB_Museum_Dortmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Architektur_DFB_Museum_Dortmund.jpg/1200px-Architektur_DFB_Museum_Dortmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Architektur_DFB_Museum_Dortmund.jpg/1920px-Architektur_DFB_Museum_Dortmund.jpg
+  DFB Museum Dortmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DFB_Museum_Dortmund.jpg/400px-DFB_Museum_Dortmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DFB_Museum_Dortmund.jpg/800px-DFB_Museum_Dortmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DFB_Museum_Dortmund.jpg/1200px-DFB_Museum_Dortmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DFB_Museum_Dortmund.jpg/1920px-DFB_Museum_Dortmund.jpg
+  Deutsches Fußballmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/400px-Deutsches_Fußballmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/800px-Deutsches_Fußballmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/1200px-Deutsches_Fußballmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Deutsches_Fußballmuseum.jpg/1920px-Deutsches_Fußballmuseum.jpg
 ---
 
 ## Overview

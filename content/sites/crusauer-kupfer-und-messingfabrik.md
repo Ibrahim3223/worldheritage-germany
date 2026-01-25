@@ -1,21 +1,43 @@
 ---
-title: "Crusauer Kupfer- und Messingfabrik"
+title: Crusauer Kupfer- und Messingfabrik
 date: 2026-01-23
 draft: false
-description: "factory at Flensburg Firth 1612-1962"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: factory at Flensburg Firth 1612-1962
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 54.8378
 longitude: 9.4157
 images:
-  - "/images-sites/crusauer-kupfer-und-messingfabrik/01-b1d6387c-800w.webp"
-  - "/images-sites/crusauer-kupfer-und-messingfabrik/02-5acdb2a9-800w.webp"
-  - "/images-sites/crusauer-kupfer-und-messingfabrik/03-807b8b1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG/1200px-2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG/1200px-2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1200px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG/1200px-2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG
+image_srcset:
+  2018 09 21 Bild 3 Kupfermühle um 1830 IMG 9623.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG/400px-2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG/800px-2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG/1200px-2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG/1920px-2018_09_21_Bild_3_Kupfermühle_um_1830_IMG_9623.JPG
+  2018 09 21 Bild 3 Kupfermühle IMG 9631.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG/400px-2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG/800px-2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG/1200px-2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG/1920px-2018_09_21_Bild_3_Kupfermühle_IMG_9631.JPG
+  2018 09 21 Bild 3a Kupfermühle IMG 9631.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/400px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/800px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1200px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG/1920px-2018_09_21_Bild_3a_Kupfermühle_IMG_9631.JPG
+  2018 09 21 Kupferm Dampfm 5 Indikator IMG 9679.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG/400px-2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG/800px-2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG/1200px-2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG/1920px-2018_09_21_Kupferm_Dampfm_5_Indikator_IMG_9679.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.423333333
 longitude: 10.456388888
 images:
-  - "/images-sites/schaenzlespitz/01-4b4ebc93-800w.webp"
+  - "/images/schaenzlespitz/01-4b4ebc93-800w.webp"
 ---
 
 ## Overview

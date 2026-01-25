@@ -13,7 +13,7 @@ regions:
 latitude: 51.964114
 longitude: 7.626215
 images:
-  - "/images-sites/kiepenkerldenkmal/01-9d620e07-800w.webp"
+  - "/images/kiepenkerldenkmal/01-9d620e07-800w.webp"
 ---
 
 ## Overview

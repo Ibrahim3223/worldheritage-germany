@@ -13,7 +13,7 @@ regions:
 latitude: 52.5190508
 longitude: 13.2960218
 images:
-  - "/images-sites/prinz-albrecht-von-preussen-memorial/01-4d64558d-800w.webp"
+  - "/images/prinz-albrecht-von-preussen-memorial/01-4d64558d-800w.webp"
 ---
 
 ## Overview

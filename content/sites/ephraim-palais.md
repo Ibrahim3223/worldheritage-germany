@@ -1,27 +1,50 @@
 ---
-title: "Ephraim-Palais"
+title: Ephraim-Palais
 date: 2026-01-23
 draft: false
-description: "Rokoko building in Berlin. Location for special exhibitions by the Stadtmuseum Berlin on wide-ranging themes related to the history and culture of Ber"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: Rokoko building in Berlin. Location for special exhibitions by the Stadtmuseum
+  Berlin on wide-ranging themes related to the history and culture of Ber
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.515848
 longitude: 13.40714
-
-# Images
 images:
-  - "/images-sites/ephraim-palais/01-6ca06b25-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nikolaiviertel_Ephraimpalais_museum_outside.jpg/1200px-Nikolaiviertel_Ephraimpalais_museum_outside.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/1200px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ephraim-Palais_Berlin_April_2007_004.jpg/1200px-Ephraim-Palais_Berlin_April_2007_004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ephraim-Palais_Berlin_April_2007_006.jpg/1200px-Ephraim-Palais_Berlin_April_2007_006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ephraimpalais_about_1900.jpg/1200px-Ephraimpalais_about_1900.jpg
+image_srcset:
+  Nikolaiviertel Ephraimpalais museum outside.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nikolaiviertel_Ephraimpalais_museum_outside.jpg/400px-Nikolaiviertel_Ephraimpalais_museum_outside.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nikolaiviertel_Ephraimpalais_museum_outside.jpg/800px-Nikolaiviertel_Ephraimpalais_museum_outside.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nikolaiviertel_Ephraimpalais_museum_outside.jpg/1200px-Nikolaiviertel_Ephraimpalais_museum_outside.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nikolaiviertel_Ephraimpalais_museum_outside.jpg/1920px-Nikolaiviertel_Ephraimpalais_museum_outside.jpg
+  Berlin, Mitte, Nikolaiviertel, Palais Ephraim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/400px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/800px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/1200px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg/1920px-Berlin,_Mitte,_Nikolaiviertel,_Palais_Ephraim.jpg
+  Ephraim-Palais Berlin April 2007 004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ephraim-Palais_Berlin_April_2007_004.jpg/400px-Ephraim-Palais_Berlin_April_2007_004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ephraim-Palais_Berlin_April_2007_004.jpg/800px-Ephraim-Palais_Berlin_April_2007_004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ephraim-Palais_Berlin_April_2007_004.jpg/1200px-Ephraim-Palais_Berlin_April_2007_004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ephraim-Palais_Berlin_April_2007_004.jpg/1920px-Ephraim-Palais_Berlin_April_2007_004.jpg
+  Ephraim-Palais Berlin April 2007 006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ephraim-Palais_Berlin_April_2007_006.jpg/400px-Ephraim-Palais_Berlin_April_2007_006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ephraim-Palais_Berlin_April_2007_006.jpg/800px-Ephraim-Palais_Berlin_April_2007_006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ephraim-Palais_Berlin_April_2007_006.jpg/1200px-Ephraim-Palais_Berlin_April_2007_006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ephraim-Palais_Berlin_April_2007_006.jpg/1920px-Ephraim-Palais_Berlin_April_2007_006.jpg
+  Ephraimpalais about 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ephraimpalais_about_1900.jpg/400px-Ephraimpalais_about_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ephraimpalais_about_1900.jpg/800px-Ephraimpalais_about_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ephraimpalais_about_1900.jpg/1200px-Ephraimpalais_about_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ephraimpalais_about_1900.jpg/1920px-Ephraimpalais_about_1900.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.8853
 longitude: 8.62083
 images:
-  - "/images-sites/noor-ud-din-mosque/01-5edd2649-800w.webp"
+  - "/images/noor-ud-din-mosque/01-5edd2649-800w.webp"
 ---
 
 ## Overview

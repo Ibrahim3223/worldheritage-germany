@@ -1,19 +1,49 @@
 ---
-title: "Beatles-Museum Halle"
+title: Beatles-Museum Halle
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4802
 longitude: 11.9683
 images:
-  - "/images-sites/beatles-museum-halle/01-1ccc0cac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/1200px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeatlesMuseumPanda.jpg/1200px-BeatlesMuseumPanda.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BeatlesAmiga.jpg/1200px-BeatlesAmiga.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024BeatlesMuseumEingang.jpg/1200px-2024BeatlesMuseumEingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BeatlesMuseum_in_Halle_Saale_cropped.jpg/1200px-BeatlesMuseum_in_Halle_Saale_cropped.jpg
+image_srcset:
+  Halle(Saale) Beatles-Museum asv2024-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/400px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/800px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/1200px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Halle(Saale)_Beatles-Museum_asv2024-04.jpg/1920px-Halle(Saale)_Beatles-Museum_asv2024-04.jpg
+  BeatlesMuseumPanda.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeatlesMuseumPanda.jpg/400px-BeatlesMuseumPanda.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeatlesMuseumPanda.jpg/800px-BeatlesMuseumPanda.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeatlesMuseumPanda.jpg/1200px-BeatlesMuseumPanda.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BeatlesMuseumPanda.jpg/1920px-BeatlesMuseumPanda.jpg
+  BeatlesAmiga.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BeatlesAmiga.jpg/400px-BeatlesAmiga.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BeatlesAmiga.jpg/800px-BeatlesAmiga.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BeatlesAmiga.jpg/1200px-BeatlesAmiga.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BeatlesAmiga.jpg/1920px-BeatlesAmiga.jpg
+  2024BeatlesMuseumEingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024BeatlesMuseumEingang.jpg/400px-2024BeatlesMuseumEingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024BeatlesMuseumEingang.jpg/800px-2024BeatlesMuseumEingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024BeatlesMuseumEingang.jpg/1200px-2024BeatlesMuseumEingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2024BeatlesMuseumEingang.jpg/1920px-2024BeatlesMuseumEingang.jpg
+  BeatlesMuseum in Halle Saale cropped.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BeatlesMuseum_in_Halle_Saale_cropped.jpg/400px-BeatlesMuseum_in_Halle_Saale_cropped.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BeatlesMuseum_in_Halle_Saale_cropped.jpg/800px-BeatlesMuseum_in_Halle_Saale_cropped.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BeatlesMuseum_in_Halle_Saale_cropped.jpg/1200px-BeatlesMuseum_in_Halle_Saale_cropped.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BeatlesMuseum_in_Halle_Saale_cropped.jpg/1920px-BeatlesMuseum_in_Halle_Saale_cropped.jpg
 ---
 
 ## Overview

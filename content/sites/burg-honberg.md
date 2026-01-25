@@ -1,29 +1,49 @@
 ---
-title: "Burg Honberg"
+title: Burg Honberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.97944444
 longitude: 8.82416667
-
-# Images
 images:
-  - "/images-sites/burg-honberg/01-52a0df1a-800w.webp"
-  - "/images-sites/burg-honberg/02-de5d8a57-800w.webp"
-  - "/images-sites/burg-honberg/03-5c191a39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honberg_At_Night_-_panoramio.jpg/1200px-Honberg_At_Night_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burgruine_honberg_fenster.jpg/1200px-Burgruine_honberg_fenster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Honberg.jpg/1200px-Honberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burgruine_honberg_fenster_web.jpg/1200px-Burgruine_honberg_fenster_web.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/1200px-Burgruine_honberg_web.jpg
+image_srcset:
+  Honberg At Night - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honberg_At_Night_-_panoramio.jpg/400px-Honberg_At_Night_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honberg_At_Night_-_panoramio.jpg/800px-Honberg_At_Night_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honberg_At_Night_-_panoramio.jpg/1200px-Honberg_At_Night_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Honberg_At_Night_-_panoramio.jpg/1920px-Honberg_At_Night_-_panoramio.jpg
+  Burgruine honberg fenster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burgruine_honberg_fenster.jpg/400px-Burgruine_honberg_fenster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burgruine_honberg_fenster.jpg/800px-Burgruine_honberg_fenster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burgruine_honberg_fenster.jpg/1200px-Burgruine_honberg_fenster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Burgruine_honberg_fenster.jpg/1920px-Burgruine_honberg_fenster.jpg
+  Honberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Honberg.jpg/400px-Honberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Honberg.jpg/800px-Honberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Honberg.jpg/1200px-Honberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Honberg.jpg/1920px-Honberg.jpg
+  Burgruine honberg fenster web.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burgruine_honberg_fenster_web.jpg/400px-Burgruine_honberg_fenster_web.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burgruine_honberg_fenster_web.jpg/800px-Burgruine_honberg_fenster_web.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burgruine_honberg_fenster_web.jpg/1200px-Burgruine_honberg_fenster_web.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burgruine_honberg_fenster_web.jpg/1920px-Burgruine_honberg_fenster_web.jpg
+  Burgruine honberg web.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/400px-Burgruine_honberg_web.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/800px-Burgruine_honberg_web.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/1200px-Burgruine_honberg_web.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burgruine_honberg_web.jpg/1920px-Burgruine_honberg_web.jpg
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Auferstehungskirche (Glücksburg)"
-site_name: "Auferstehungskirche (Glücksburg)"
-slug: "auferstehungskirche-glucksburg"
-region: "Schleswig-Holstein"
-
-# Location
+title: Auferstehungskirche (Glücksburg)
+site_name: Auferstehungskirche (Glücksburg)
+slug: auferstehungskirche-glucksburg
+region: Schleswig-Holstein
 latitude: 54.8331
 longitude: 9.54985
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q759616"
-description: "In the heart of Glücksburg, the Auferstehungskirche stands as a modern embodiment of Lutheran architectural values. This church, characterized by its br..."
+- church building
+- religious site
+wikidata_id: Q759616
+description: In the heart of Glücksburg, the Auferstehungskirche stands as a modern
+  embodiment of Lutheran architectural values. This church, characterized by its br...
 images:
-  - "/images-sites/auferstehungskirche-glucksburg/01-0dd3a84e-1920w.webp"
-  - "/images-sites/auferstehungskirche-glucksburg/02-eb5f6e7f-1920w.webp"
-  - "/images-sites/auferstehungskirche-glucksburg/03-28f660c5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg/1200px-Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg/1200px-Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Glücksburg_evangelische_Kirche_Friedhof_2.jpg/1200px-Glücksburg_evangelische_Kirche_Friedhof_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/1200px-Glücksburg_evangelische_Kirche_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glücksburg_evangelische_Kirche_Grundstein_2.jpg/1200px-Glücksburg_evangelische_Kirche_Grundstein_2.jpg
+image_srcset:
+  Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg/400px-Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg/800px-Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg/1200px-Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg/1920px-Gl%C3%BCcksburg%20evangelische%20Kirche%201.jpg
+  Auferstehungskirche am Glücksburger ZOB, 26 Juli 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg/400px-Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg/800px-Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg/1200px-Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg/1920px-Auferstehungskirche_am_Glücksburger_ZOB,_26_Juli_2017.jpg
+  Glücksburg evangelische Kirche Friedhof 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Glücksburg_evangelische_Kirche_Friedhof_2.jpg/400px-Glücksburg_evangelische_Kirche_Friedhof_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Glücksburg_evangelische_Kirche_Friedhof_2.jpg/800px-Glücksburg_evangelische_Kirche_Friedhof_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Glücksburg_evangelische_Kirche_Friedhof_2.jpg/1200px-Glücksburg_evangelische_Kirche_Friedhof_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Glücksburg_evangelische_Kirche_Friedhof_2.jpg/1920px-Glücksburg_evangelische_Kirche_Friedhof_2.jpg
+  Glücksburg evangelische Kirche 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/400px-Glücksburg_evangelische_Kirche_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/800px-Glücksburg_evangelische_Kirche_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/1200px-Glücksburg_evangelische_Kirche_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Glücksburg_evangelische_Kirche_1.jpg/1920px-Glücksburg_evangelische_Kirche_1.jpg
+  Glücksburg evangelische Kirche Grundstein 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glücksburg_evangelische_Kirche_Grundstein_2.jpg/400px-Glücksburg_evangelische_Kirche_Grundstein_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glücksburg_evangelische_Kirche_Grundstein_2.jpg/800px-Glücksburg_evangelische_Kirche_Grundstein_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glücksburg_evangelische_Kirche_Grundstein_2.jpg/1200px-Glücksburg_evangelische_Kirche_Grundstein_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Glücksburg_evangelische_Kirche_Grundstein_2.jpg/1920px-Glücksburg_evangelische_Kirche_Grundstein_2.jpg
 ---
 
 ## Overview

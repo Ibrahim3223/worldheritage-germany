@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q11722073"
 description: "Saint Martin Church, a striking example of modern architecture, emerges in the heart of Reinickendorf, Berlin. Established in 1972 and designed by archi..."
 images:
-  - "/images-sites/saint-martin-church/01-6ca565c3-1920w.webp"
-  - "/images-sites/saint-martin-church/02-2e6ce4e3-1920w.webp"
-  - "/images-sites/saint-martin-church/03-2975a0b5-1920w.webp"
+  - "/images/saint-martin-church/01-6ca565c3-1920w.webp"
+  - "/images/saint-martin-church/02-2e6ce4e3-1920w.webp"
+  - "/images/saint-martin-church/03-2975a0b5-1920w.webp"
 ---
 
 ## Overview

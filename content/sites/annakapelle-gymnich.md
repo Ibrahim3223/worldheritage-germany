@@ -1,23 +1,45 @@
 ---
-title: "Annakapelle Gymnich"
-site_name: "Annakapelle Gymnich"
-slug: "annakapelle-gymnich"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Annakapelle Gymnich
+site_name: Annakapelle Gymnich
+slug: annakapelle-gymnich
+region: North Rhine-Westphalia
 latitude: 50.8328
 longitude: 6.73461
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q564212"
-description: "In the heart of Erftstadt, Germany, stands the Annakapelle Gymnich, a church building that embodies the elegance of Gothic Revival architecture. This st..."
+- cultural site
+wikidata_id: Q564212
+description: In the heart of Erftstadt, Germany, stands the Annakapelle Gymnich, a
+  church building that embodies the elegance of Gothic Revival architecture. This
+  st...
 images:
-  - "/images-sites/annakapelle-gymnich/01-717d7d9b-1920w.webp"
-  - "/images-sites/annakapelle-gymnich/02-bc3646f6-1920w.webp"
-  - "/images-sites/annakapelle-gymnich/03-20a099ba-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gymnich%20Annakapelle03.jpg/1200px-Gymnich%20Annakapelle03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gymnich_Annakapelle02.jpg/1200px-Gymnich_Annakapelle02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/1200px-Gymnich_Annakapelle03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gymnich_Annakapelle01.jpg/1200px-Gymnich_Annakapelle01.jpg
+image_srcset:
+  Gymnich%20Annakapelle03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gymnich%20Annakapelle03.jpg/400px-Gymnich%20Annakapelle03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gymnich%20Annakapelle03.jpg/800px-Gymnich%20Annakapelle03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gymnich%20Annakapelle03.jpg/1200px-Gymnich%20Annakapelle03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gymnich%20Annakapelle03.jpg/1920px-Gymnich%20Annakapelle03.jpg
+  Gymnich Annakapelle02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gymnich_Annakapelle02.jpg/400px-Gymnich_Annakapelle02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gymnich_Annakapelle02.jpg/800px-Gymnich_Annakapelle02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gymnich_Annakapelle02.jpg/1200px-Gymnich_Annakapelle02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gymnich_Annakapelle02.jpg/1920px-Gymnich_Annakapelle02.jpg
+  Gymnich Annakapelle03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/400px-Gymnich_Annakapelle03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/800px-Gymnich_Annakapelle03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/1200px-Gymnich_Annakapelle03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gymnich_Annakapelle03.jpg/1920px-Gymnich_Annakapelle03.jpg
+  Gymnich Annakapelle01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gymnich_Annakapelle01.jpg/400px-Gymnich_Annakapelle01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gymnich_Annakapelle01.jpg/800px-Gymnich_Annakapelle01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gymnich_Annakapelle01.jpg/1200px-Gymnich_Annakapelle01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gymnich_Annakapelle01.jpg/1920px-Gymnich_Annakapelle01.jpg
 ---
 
 ## Overview

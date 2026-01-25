@@ -13,7 +13,7 @@ regions:
 latitude: 51.3433
 longitude: 12.3722
 images:
-  - "/images-sites/richard-wagner-platz/01-5a79d007-800w.webp"
+  - "/images/richard-wagner-platz/01-5a79d007-800w.webp"
 ---
 
 ## Overview

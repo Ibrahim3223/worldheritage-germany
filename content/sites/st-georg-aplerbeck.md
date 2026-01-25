@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1254586"
 description: "St. Georg in Aplerbeck stands as a remarkable example of Protestant Romanesque architecture, inviting visitors to explore its storied past and serene am..."
 images:
-  - "/images-sites/st-georg-aplerbeck/01-eeaa59f6-1920w.webp"
-  - "/images-sites/st-georg-aplerbeck/02-a8613a1d-1920w.webp"
-  - "/images-sites/st-georg-aplerbeck/03-d8a5f2bd-1920w.webp"
+  - "/images/st-georg-aplerbeck/01-eeaa59f6-1920w.webp"
+  - "/images/st-georg-aplerbeck/02-a8613a1d-1920w.webp"
+  - "/images/st-georg-aplerbeck/03-d8a5f2bd-1920w.webp"
 ---
 
 ## Overview

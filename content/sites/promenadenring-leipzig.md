@@ -13,7 +13,7 @@ regions:
 latitude: 51.3406
 longitude: 12.3761
 images:
-  - "/images-sites/promenadenring-leipzig/01-119d8752-800w.webp"
+  - "/images/promenadenring-leipzig/01-119d8752-800w.webp"
 ---
 
 ## Overview

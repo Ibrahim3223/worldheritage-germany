@@ -13,7 +13,7 @@ regions:
 latitude: 48.1225
 longitude: 11.5225
 images:
-  - "/images-sites/westpark/01-1eb1243a-800w.webp"
+  - "/images/westpark/01-1eb1243a-800w.webp"
 ---
 
 ## Overview

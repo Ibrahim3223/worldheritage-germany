@@ -1,19 +1,49 @@
 ---
-title: "Hoher Fricken"
+title: Hoher Fricken
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.532777777
 longitude: 11.155277777
 images:
-  - "/images-sites/hoher-fricken/01-03af5508-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wank_Panorama2.jpg/1200px-Wank_Panorama2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_summer_-_panoramio_(6).jpg/1200px-The_summer_-_panoramio_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoher_Fricken.JPG/1200px-Hoher_Fricken.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estergebirge_HFr_Bischof_KrKopf.jpg/1200px-Estergebirge_HFr_Bischof_KrKopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fricken_HQ.jpg/1200px-Fricken_HQ.jpg
+image_srcset:
+  Wank Panorama2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wank_Panorama2.jpg/400px-Wank_Panorama2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wank_Panorama2.jpg/800px-Wank_Panorama2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wank_Panorama2.jpg/1200px-Wank_Panorama2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wank_Panorama2.jpg/1920px-Wank_Panorama2.jpg
+  The summer - panoramio (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_summer_-_panoramio_(6).jpg/400px-The_summer_-_panoramio_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_summer_-_panoramio_(6).jpg/800px-The_summer_-_panoramio_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_summer_-_panoramio_(6).jpg/1200px-The_summer_-_panoramio_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_summer_-_panoramio_(6).jpg/1920px-The_summer_-_panoramio_(6).jpg
+  Hoher Fricken.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoher_Fricken.JPG/400px-Hoher_Fricken.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoher_Fricken.JPG/800px-Hoher_Fricken.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoher_Fricken.JPG/1200px-Hoher_Fricken.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hoher_Fricken.JPG/1920px-Hoher_Fricken.JPG
+  Estergebirge HFr Bischof KrKopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estergebirge_HFr_Bischof_KrKopf.jpg/400px-Estergebirge_HFr_Bischof_KrKopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estergebirge_HFr_Bischof_KrKopf.jpg/800px-Estergebirge_HFr_Bischof_KrKopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estergebirge_HFr_Bischof_KrKopf.jpg/1200px-Estergebirge_HFr_Bischof_KrKopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estergebirge_HFr_Bischof_KrKopf.jpg/1920px-Estergebirge_HFr_Bischof_KrKopf.jpg
+  Fricken HQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fricken_HQ.jpg/400px-Fricken_HQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fricken_HQ.jpg/800px-Fricken_HQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fricken_HQ.jpg/1200px-Fricken_HQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fricken_HQ.jpg/1920px-Fricken_HQ.jpg
 ---
 
 ## Overview

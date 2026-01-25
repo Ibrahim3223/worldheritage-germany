@@ -1,27 +1,37 @@
 ---
-title: "Hodenhagen Castle"
+title: Hodenhagen Castle
 date: 2026-01-23
 draft: false
-description: "former castle in Lower Saxony"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: former castle in Lower Saxony
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.7549
 longitude: 9.61864
-
-# Images
 images:
-  - "/images-sites/hodenhagen-castle/02-c4e00352-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hodenberg_Plan.jpg/1200px-Burg_Hodenberg_Plan.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1200px-Feste_Hodenhagen_Fluss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Feste_Hodenhagen_Denkmal.jpg/1200px-Feste_Hodenhagen_Denkmal.jpg
+image_srcset:
+  Burg Hodenberg Plan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hodenberg_Plan.jpg/400px-Burg_Hodenberg_Plan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hodenberg_Plan.jpg/800px-Burg_Hodenberg_Plan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hodenberg_Plan.jpg/1200px-Burg_Hodenberg_Plan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Hodenberg_Plan.jpg/1920px-Burg_Hodenberg_Plan.jpg
+  Feste Hodenhagen Fluss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/400px-Feste_Hodenhagen_Fluss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/800px-Feste_Hodenhagen_Fluss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1200px-Feste_Hodenhagen_Fluss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Feste_Hodenhagen_Fluss.jpg/1920px-Feste_Hodenhagen_Fluss.jpg
+  Feste Hodenhagen Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Feste_Hodenhagen_Denkmal.jpg/400px-Feste_Hodenhagen_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Feste_Hodenhagen_Denkmal.jpg/800px-Feste_Hodenhagen_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Feste_Hodenhagen_Denkmal.jpg/1200px-Feste_Hodenhagen_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Feste_Hodenhagen_Denkmal.jpg/1920px-Feste_Hodenhagen_Denkmal.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.43559
 longitude: 7.09495
 images:
-  - "/images-sites/manningaburg/01-92f25440-800w.webp"
-  - "/images-sites/manningaburg/02-847c6984-800w.webp"
-  - "/images-sites/manningaburg/03-1b748307-800w.webp"
+  - "/images/manningaburg/01-92f25440-800w.webp"
+  - "/images/manningaburg/02-847c6984-800w.webp"
+  - "/images/manningaburg/03-1b748307-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1691689"
 description: "Perched in the charming village of Koserow, the Koserow Church stands as a remarkable example of Brick Gothic architecture in Germany. This church, cons..."
 images:
-  - "/images-sites/koserow-church/01-1f2cba96-1920w.webp"
-  - "/images-sites/koserow-church/02-6c926fac-1920w.webp"
-  - "/images-sites/koserow-church/03-e452b683-1920w.webp"
+  - "/images/koserow-church/01-1f2cba96-1920w.webp"
+  - "/images/koserow-church/02-6c926fac-1920w.webp"
+  - "/images/koserow-church/03-e452b683-1920w.webp"
 ---
 
 ## Overview

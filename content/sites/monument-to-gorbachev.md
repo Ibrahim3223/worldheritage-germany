@@ -13,9 +13,9 @@ regions:
 latitude: 51.834711
 longitude: 12.246371
 images:
-  - "/images-sites/monument-to-gorbachev/01-9af6e709-800w.webp"
-  - "/images-sites/monument-to-gorbachev/02-c6237604-800w.webp"
-  - "/images-sites/monument-to-gorbachev/03-a902823b-800w.webp"
+  - "/images/monument-to-gorbachev/01-9af6e709-800w.webp"
+  - "/images/monument-to-gorbachev/02-c6237604-800w.webp"
+  - "/images/monument-to-gorbachev/03-a902823b-800w.webp"
 ---
 
 ## Overview

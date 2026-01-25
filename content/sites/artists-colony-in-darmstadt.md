@@ -1,26 +1,46 @@
 ---
-title: "Artists Colony in Darmstadt"
-site_name: "Artists Colony in Darmstadt"
-slug: "artists-colony-in-darmstadt"
-region: "Hesse"
-
-# Location
+title: Artists Colony in Darmstadt
+site_name: Artists Colony in Darmstadt
+slug: artists-colony-in-darmstadt
+region: Hesse
 latitude: 49.87543334529
 longitude: 8.6665039701752
 regions:
-    - "Hesse"
+- Hesse
 tags:
-  - "unesco"
-
-heritage_type: "cultural site"
+- unesco
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q314730"
-description: "The Artists Colony in Darmstadt, a UNESCO World Heritage Site, presents a compelling glimpse into the artistic movements of the late 19th and early 20th..."
+- cultural site
+wikidata_id: Q314730
+description: The Artists Colony in Darmstadt, a UNESCO World Heritage Site, presents
+  a compelling glimpse into the artistic movements of the late 19th and early 20th...
 images:
-  - "/images-sites/artists-colony-in-darmstadt/01-3bc976b2-1920w.webp"
-  - "/images-sites/artists-colony-in-darmstadt/02-740ff506-1920w.webp"
-  - "/images-sites/artists-colony-in-darmstadt/03-c3d1bcad-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg/1200px-La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg/1200px-Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/1200px-2010_Winter_Mathildenhoehe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/1200px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
+image_srcset:
+  La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg/400px-La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg/800px-La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg/1200px-La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg/1920px-La%20colonie%20dartistes%20jugendstil%20%28Mathildenh%C3%B6he%2C%20Darmstadt%29%20%287882268852%29.jpg
+  Darmstadt Mathildenhoehe Ernst Ludwig Haus S Portal 5 IMG 20200822 1537.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg/400px-Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg/800px-Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg/1200px-Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg/1920px-Darmstadt_Mathildenhoehe_Ernst_Ludwig_Haus_S_Portal_5_IMG_20200822_1537.jpg
+  2010 Winter Mathildenhoehe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/400px-2010_Winter_Mathildenhoehe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/800px-2010_Winter_Mathildenhoehe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/1200px-2010_Winter_Mathildenhoehe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010_Winter_Mathildenhoehe.jpg/1920px-2010_Winter_Mathildenhoehe.jpg
+  La colonie dartistes jugendstil (Mathildenhöhe, Darmstadt) (7882268852).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/400px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/800px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/1200px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg/1920px-La_colonie_dartistes_jugendstil_(Mathildenhöhe,_Darmstadt)_(7882268852).jpg
 ---
 
 ## Overview

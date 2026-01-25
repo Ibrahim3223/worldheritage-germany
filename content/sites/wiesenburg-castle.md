@@ -21,9 +21,9 @@ longitude: 12.5669
 
 # Images
 images:
-  - "/images-sites/wiesenburg-castle/01-98da14e3-800w.webp"
-  - "/images-sites/wiesenburg-castle/02-6a644433-800w.webp"
-  - "/images-sites/wiesenburg-castle/03-4de11390-800w.webp"
+  - "/images/wiesenburg-castle/01-98da14e3-800w.webp"
+  - "/images/wiesenburg-castle/02-6a644433-800w.webp"
+  - "/images/wiesenburg-castle/03-4de11390-800w.webp"
 ---
 
 ## Overview

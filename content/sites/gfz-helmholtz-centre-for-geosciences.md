@@ -1,29 +1,49 @@
 ---
-title: "GFZ Helmholtz Centre for Geosciences"
+title: GFZ Helmholtz Centre for Geosciences
 date: 2026-01-23
 draft: false
-description: "Scientific research center for Earth sciences"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Scientific research center for Earth sciences
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.3826
 longitude: 13.0644
-
-# Images
 images:
-  - "/images-sites/gfz-helmholtz-centre-for-geosciences/01-c518e276-800w.webp"
-  - "/images-sites/gfz-helmholtz-centre-for-geosciences/02-46f83840-800w.webp"
-  - "/images-sites/gfz-helmholtz-centre-for-geosciences/03-d507c0d4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1200px-GeoForschungsZentrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG/1200px-The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg/1200px-GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Horizontalpendel.Hecker.1897.jpg/1200px-Horizontalpendel.Hecker.1897.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Deutsches-GeoForschungsZentrum-Logo.svg/1200px-Deutsches-GeoForschungsZentrum-Logo.svg.png
+image_srcset:
+  GeoForschungsZentrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/400px-GeoForschungsZentrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/800px-GeoForschungsZentrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1200px-GeoForschungsZentrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GeoForschungsZentrum.jpg/1920px-GeoForschungsZentrum.jpg
+  The signboard of the Geoforschungszentrum Potsdam.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG/400px-The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG/800px-The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG/1200px-The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG/1920px-The_signboard_of_the_Geoforschungszentrum_Potsdam.JPG
+  GFZ-Wortbildmarke-DE-Helmholtzdunkelblau RGB.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg/400px-GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg/800px-GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg/1200px-GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg/1920px-GFZ-Wortbildmarke-DE-Helmholtzdunkelblau_RGB.jpg
+  Horizontalpendel.Hecker.1897.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Horizontalpendel.Hecker.1897.jpg/400px-Horizontalpendel.Hecker.1897.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Horizontalpendel.Hecker.1897.jpg/800px-Horizontalpendel.Hecker.1897.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Horizontalpendel.Hecker.1897.jpg/1200px-Horizontalpendel.Hecker.1897.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Horizontalpendel.Hecker.1897.jpg/1920px-Horizontalpendel.Hecker.1897.jpg
+  Deutsches-GeoForschungsZentrum-Logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Deutsches-GeoForschungsZentrum-Logo.svg/400px-Deutsches-GeoForschungsZentrum-Logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Deutsches-GeoForschungsZentrum-Logo.svg/800px-Deutsches-GeoForschungsZentrum-Logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Deutsches-GeoForschungsZentrum-Logo.svg/1200px-Deutsches-GeoForschungsZentrum-Logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Deutsches-GeoForschungsZentrum-Logo.svg/1920px-Deutsches-GeoForschungsZentrum-Logo.svg.png
 ---
 
 ## Overview

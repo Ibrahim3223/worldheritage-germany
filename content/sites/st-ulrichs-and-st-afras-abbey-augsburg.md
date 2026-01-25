@@ -13,7 +13,7 @@ regions:
 latitude: 48.3614
 longitude: 10.9004
 images:
-  - "/images-sites/st-ulrichs-and-st-afras-abbey-augsburg/01-68f548da-800w.webp"
+  - "/images/st-ulrichs-and-st-afras-abbey-augsburg/01-68f548da-800w.webp"
 ---
 
 ## Overview

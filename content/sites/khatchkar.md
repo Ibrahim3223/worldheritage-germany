@@ -13,8 +13,8 @@ regions:
 latitude: 53.2275
 longitude: 7.459444444
 images:
-  - "/images-sites/khatchkar/02-434d8f21-800w.webp"
-  - "/images-sites/khatchkar/03-fcb78f36-800w.webp"
+  - "/images/khatchkar/02-434d8f21-800w.webp"
+  - "/images/khatchkar/03-fcb78f36-800w.webp"
 ---
 
 ## Overview

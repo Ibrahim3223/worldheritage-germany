@@ -1,21 +1,49 @@
 ---
-title: "Görlitz railway station"
+title: Görlitz railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1472
 longitude: 14.9792
 images:
-  - "/images-sites/goerlitz-railway-station/01-fe5d99e7-800w.webp"
-  - "/images-sites/goerlitz-railway-station/02-c2b34bec-800w.webp"
-  - "/images-sites/goerlitz-railway-station/03-55806d6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg/1200px-Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhof_Görlitz_(Detail).jpg/1200px-Bahnhof_Görlitz_(Detail).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Görlitz_2014_NNE.jpg/1200px-Bahnhof_Görlitz_2014_NNE.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bahnhof_Görlitz.jpg/1200px-Bahnhof_Görlitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goerlitz.jpg/1200px-Goerlitz.jpg
+image_srcset:
+  Bahnhofshalle Bahnhof Görlitz Dezember 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg/400px-Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg/800px-Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg/1200px-Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg/1920px-Bahnhofshalle_Bahnhof_Görlitz_Dezember_2022.jpg
+  Bahnhof Görlitz (Detail).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhof_Görlitz_(Detail).jpg/400px-Bahnhof_Görlitz_(Detail).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhof_Görlitz_(Detail).jpg/800px-Bahnhof_Görlitz_(Detail).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhof_Görlitz_(Detail).jpg/1200px-Bahnhof_Görlitz_(Detail).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhof_Görlitz_(Detail).jpg/1920px-Bahnhof_Görlitz_(Detail).jpg
+  Bahnhof Görlitz 2014 NNE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Görlitz_2014_NNE.jpg/400px-Bahnhof_Görlitz_2014_NNE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Görlitz_2014_NNE.jpg/800px-Bahnhof_Görlitz_2014_NNE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Görlitz_2014_NNE.jpg/1200px-Bahnhof_Görlitz_2014_NNE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Görlitz_2014_NNE.jpg/1920px-Bahnhof_Görlitz_2014_NNE.jpg
+  Bahnhof Görlitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bahnhof_Görlitz.jpg/400px-Bahnhof_Görlitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bahnhof_Görlitz.jpg/800px-Bahnhof_Görlitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bahnhof_Görlitz.jpg/1200px-Bahnhof_Görlitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bahnhof_Görlitz.jpg/1920px-Bahnhof_Görlitz.jpg
+  Goerlitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goerlitz.jpg/400px-Goerlitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goerlitz.jpg/800px-Goerlitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goerlitz.jpg/1200px-Goerlitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Goerlitz.jpg/1920px-Goerlitz.jpg
 ---
 
 ## Overview

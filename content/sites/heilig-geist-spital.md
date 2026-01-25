@@ -1,19 +1,50 @@
 ---
-title: "Heilig-Geist-Spital"
-site_name: "Heilig-Geist-Spital"
-slug: "heilig-geist-spital"
-region: "Berlin"
-
-# Location
+title: Heilig-Geist-Spital
+site_name: Heilig-Geist-Spital
+slug: heilig-geist-spital
+region: Berlin
 latitude: 52.520786
 longitude: 13.403212
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594900"
-description: "Heilig-Geist-Spital, a remarkable former hospital in medieval Berlin, stands as a poignant reminder of the citys rich history. This church building, con..."
+- cultural site
+wikidata_id: Q1594900
+description: Heilig-Geist-Spital, a remarkable former hospital in medieval Berlin,
+  stands as a poignant reminder of the citys rich history. This church building, con...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg/1200px-Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/1200px-Nürnberg_Heilig-Geist-Spital_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg/1200px-Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg/1200px-00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_(Nürnberg).jpg/1200px-Heilig-Geist-Spital_(Nürnberg).jpg
+image_srcset:
+  Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg/400px-Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg/800px-Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg/1200px-Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg/1920px-Berlin%2C%20Mitte%2C%20Spandauer%20Stra%C3%9Fe%2C%20Heilig-Geist-Kapelle%2001.jpg
+  Nürnberg Heilig-Geist-Spital 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/400px-Nürnberg_Heilig-Geist-Spital_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/800px-Nürnberg_Heilig-Geist-Spital_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/1200px-Nürnberg_Heilig-Geist-Spital_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/1920px-Nürnberg_Heilig-Geist-Spital_01.jpg
+  Heilig-Geist-Spital (Nürnberg-St. Sebald).2.fw13.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg/400px-Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg/800px-Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg/1200px-Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg/1920px-Heilig-Geist-Spital_(Nürnberg-St._Sebald).2.fw13.ajb.jpg
+  00 4948 Heilig-Geist-Spital - Nürnberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg/400px-00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg/800px-00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg/1200px-00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg/1920px-00_4948_Heilig-Geist-Spital_-_Nürnberg.jpg
+  Heilig-Geist-Spital (Nürnberg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_(Nürnberg).jpg/400px-Heilig-Geist-Spital_(Nürnberg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_(Nürnberg).jpg/800px-Heilig-Geist-Spital_(Nürnberg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_(Nürnberg).jpg/1200px-Heilig-Geist-Spital_(Nürnberg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Heilig-Geist-Spital_(Nürnberg).jpg/1920px-Heilig-Geist-Spital_(Nürnberg).jpg
 ---
 
 ## Overview

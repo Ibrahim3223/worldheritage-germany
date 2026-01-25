@@ -13,7 +13,7 @@ regions:
 latitude: 54.7902
 longitude: 9.43357
 images:
-  - "/images-sites/kompagnietor/01-e89eb59f-800w.webp"
+  - "/images/kompagnietor/01-e89eb59f-800w.webp"
 ---
 
 ## Overview

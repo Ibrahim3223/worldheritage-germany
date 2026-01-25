@@ -13,9 +13,9 @@ regions:
 latitude: 50.4631
 longitude: 11.4384
 images:
-  - "/images-sites/museum-technisches-denkmal-lehesten/01-a84f4deb-800w.webp"
-  - "/images-sites/museum-technisches-denkmal-lehesten/02-1094d7b4-800w.webp"
-  - "/images-sites/museum-technisches-denkmal-lehesten/03-5eef10e6-800w.webp"
+  - "/images/museum-technisches-denkmal-lehesten/01-a84f4deb-800w.webp"
+  - "/images/museum-technisches-denkmal-lehesten/02-1094d7b4-800w.webp"
+  - "/images/museum-technisches-denkmal-lehesten/03-5eef10e6-800w.webp"
 ---
 
 ## Overview

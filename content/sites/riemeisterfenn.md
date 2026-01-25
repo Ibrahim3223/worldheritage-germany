@@ -13,8 +13,8 @@ regions:
 latitude: 52.4553
 longitude: 13.2436
 images:
-  - "/images-sites/riemeisterfenn/02-e3786f75-800w.webp"
-  - "/images-sites/riemeisterfenn/03-2eace329-800w.webp"
+  - "/images/riemeisterfenn/02-e3786f75-800w.webp"
+  - "/images/riemeisterfenn/03-2eace329-800w.webp"
 ---
 
 ## Overview

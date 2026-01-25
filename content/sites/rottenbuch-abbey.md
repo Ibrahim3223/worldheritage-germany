@@ -13,8 +13,8 @@ regions:
 latitude: 47.734887976
 longitude: 10.966956702
 images:
-  - "/images-sites/rottenbuch-abbey/02-98ffb1a3-800w.webp"
-  - "/images-sites/rottenbuch-abbey/03-588af442-800w.webp"
+  - "/images/rottenbuch-abbey/02-98ffb1a3-800w.webp"
+  - "/images/rottenbuch-abbey/03-588af442-800w.webp"
 ---
 
 ## Overview

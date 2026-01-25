@@ -1,29 +1,31 @@
 ---
-title: "Anselburg"
+title: Anselburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5156
 longitude: 7.90386
-
-# Images
 images:
-  - "/images-sites/anselburg/01-9069424a-800w.webp"
-  - "/images-sites/anselburg/02-c96b3bb8-800w.webp"
-  - "/images-sites/anselburg/03-ab22a6fe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spitzerhuebel.jpg/1200px-Spitzerhuebel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1200px-Anselburg.jpg
+image_srcset:
+  Spitzerhuebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spitzerhuebel.jpg/400px-Spitzerhuebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spitzerhuebel.jpg/800px-Spitzerhuebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spitzerhuebel.jpg/1200px-Spitzerhuebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Spitzerhuebel.jpg/1920px-Spitzerhuebel.jpg
+  Anselburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/400px-Anselburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/800px-Anselburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1200px-Anselburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Anselburg.jpg/1920px-Anselburg.jpg
 ---
 
 ## Overview

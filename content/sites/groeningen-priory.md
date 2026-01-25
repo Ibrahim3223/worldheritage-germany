@@ -1,21 +1,49 @@
 ---
-title: "Gröningen Priory"
+title: Gröningen Priory
 date: 2026-01-23
 draft: false
-description: "human settlement in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.9372
 longitude: 11.1969
 images:
-  - "/images-sites/groeningen-priory/01-d9be10c7-800w.webp"
-  - "/images-sites/groeningen-priory/02-fc138b05-800w.webp"
-  - "/images-sites/groeningen-priory/03-83a0ffb4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg/1200px-Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kloster_Gröningen_mit_Romanikkirche.JPG/1200px-Kloster_Gröningen_mit_Romanikkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kloster_Gröningen8.jpg/1200px-Kloster_Gröningen8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kloster_Gröningen1.JPG/1200px-Kloster_Gröningen1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kloster_Gröningen5.JPG/1200px-Kloster_Gröningen5.JPG
+image_srcset:
+  Kloster Gröningen (Gröningen) St. Vitus 465.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg/400px-Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg/800px-Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg/1200px-Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg/1920px-Kloster_Gröningen_(Gröningen)_St._Vitus_465.jpg
+  Kloster Gröningen mit Romanikkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kloster_Gröningen_mit_Romanikkirche.JPG/400px-Kloster_Gröningen_mit_Romanikkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kloster_Gröningen_mit_Romanikkirche.JPG/800px-Kloster_Gröningen_mit_Romanikkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kloster_Gröningen_mit_Romanikkirche.JPG/1200px-Kloster_Gröningen_mit_Romanikkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kloster_Gröningen_mit_Romanikkirche.JPG/1920px-Kloster_Gröningen_mit_Romanikkirche.JPG
+  Kloster Gröningen8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kloster_Gröningen8.jpg/400px-Kloster_Gröningen8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kloster_Gröningen8.jpg/800px-Kloster_Gröningen8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kloster_Gröningen8.jpg/1200px-Kloster_Gröningen8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kloster_Gröningen8.jpg/1920px-Kloster_Gröningen8.jpg
+  Kloster Gröningen1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kloster_Gröningen1.JPG/400px-Kloster_Gröningen1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kloster_Gröningen1.JPG/800px-Kloster_Gröningen1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kloster_Gröningen1.JPG/1200px-Kloster_Gröningen1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kloster_Gröningen1.JPG/1920px-Kloster_Gröningen1.JPG
+  Kloster Gröningen5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kloster_Gröningen5.JPG/400px-Kloster_Gröningen5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kloster_Gröningen5.JPG/800px-Kloster_Gröningen5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kloster_Gröningen5.JPG/1200px-Kloster_Gröningen5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kloster_Gröningen5.JPG/1920px-Kloster_Gröningen5.JPG
 ---
 
 ## Overview

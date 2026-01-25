@@ -13,7 +13,7 @@ regions:
 latitude: 51.502368
 longitude: 10.791502
 images:
-  - "/images-sites/museum-tabakspeicher/01-256abc02-800w.webp"
+  - "/images/museum-tabakspeicher/01-256abc02-800w.webp"
 ---
 
 ## Overview

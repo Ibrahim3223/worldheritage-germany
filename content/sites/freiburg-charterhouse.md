@@ -1,19 +1,50 @@
 ---
-title: "Freiburg Charterhouse"
+title: Freiburg Charterhouse
 date: 2026-01-23
 draft: false
-description: "building in Freiburg im Breisgau, Freiburg Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Freiburg im Breisgau, Freiburg Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.994477
 longitude: 7.882749
 images:
-  - "/images-sites/freiburg-charterhouse/01-13791b8a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kartause_Freiburg_6676.jpg/1200px-Kartause_Freiburg_6676.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1200px-Peter_Mayer_(1718-1800)_287.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grabstein_bei_der_Kartause_in_Freiburg.jpg/1200px-Grabstein_bei_der_Kartause_in_Freiburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Karthause_(Freiburg)_7628_(cropped).jpg/1200px-Karthause_(Freiburg)_7628_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg/1200px-Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg
+image_srcset:
+  Kartause Freiburg 6676.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kartause_Freiburg_6676.jpg/400px-Kartause_Freiburg_6676.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kartause_Freiburg_6676.jpg/800px-Kartause_Freiburg_6676.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kartause_Freiburg_6676.jpg/1200px-Kartause_Freiburg_6676.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kartause_Freiburg_6676.jpg/1920px-Kartause_Freiburg_6676.jpg
+  Peter Mayer (1718-1800) 287.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/400px-Peter_Mayer_(1718-1800)_287.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/800px-Peter_Mayer_(1718-1800)_287.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1200px-Peter_Mayer_(1718-1800)_287.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Mayer_(1718-1800)_287.jpg/1920px-Peter_Mayer_(1718-1800)_287.jpg
+  Grabstein bei der Kartause in Freiburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grabstein_bei_der_Kartause_in_Freiburg.jpg/400px-Grabstein_bei_der_Kartause_in_Freiburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grabstein_bei_der_Kartause_in_Freiburg.jpg/800px-Grabstein_bei_der_Kartause_in_Freiburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grabstein_bei_der_Kartause_in_Freiburg.jpg/1200px-Grabstein_bei_der_Kartause_in_Freiburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grabstein_bei_der_Kartause_in_Freiburg.jpg/1920px-Grabstein_bei_der_Kartause_in_Freiburg.jpg
+  Karthause (Freiburg) 7628 (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Karthause_(Freiburg)_7628_(cropped).jpg/400px-Karthause_(Freiburg)_7628_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Karthause_(Freiburg)_7628_(cropped).jpg/800px-Karthause_(Freiburg)_7628_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Karthause_(Freiburg)_7628_(cropped).jpg/1200px-Karthause_(Freiburg)_7628_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Karthause_(Freiburg)_7628_(cropped).jpg/1920px-Karthause_(Freiburg)_7628_(cropped).jpg
+  Tafel Eingang linke Seite - Kartause Freiburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg/400px-Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg/800px-Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg/1200px-Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg/1920px-Tafel_Eingang_linke_Seite_-_Kartause_Freiburg.jpg
 ---
 
 ## Overview

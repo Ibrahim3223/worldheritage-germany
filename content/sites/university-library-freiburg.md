@@ -13,7 +13,7 @@ regions:
 latitude: 47.99388889
 longitude: 7.84527778
 images:
-  - "/images-sites/university-library-freiburg/01-a1ca056c-800w.webp"
+  - "/images/university-library-freiburg/01-a1ca056c-800w.webp"
 ---
 
 ## Overview

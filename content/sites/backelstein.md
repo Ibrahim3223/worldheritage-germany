@@ -1,19 +1,49 @@
 ---
-title: "Backelstein"
+title: Backelstein
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.184
 longitude: 7.8514
 images:
-  - "/images-sites/backelstein/01-ce0539e6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2013_Pfälzerwald_270_Backelstein.JPG/1200px-2013_Pfälzerwald_270_Backelstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2013_Pfälzerwald_271_Backelstein.JPG/1200px-2013_Pfälzerwald_271_Backelstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG/1200px-2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Backelstein_01.05.2013.jpg/1200px-Backelstein_01.05.2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ritterstein_220_Backelstein.JPG/1200px-Ritterstein_220_Backelstein.JPG
+image_srcset:
+  2013 Pfälzerwald 270 Backelstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2013_Pfälzerwald_270_Backelstein.JPG/400px-2013_Pfälzerwald_270_Backelstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2013_Pfälzerwald_270_Backelstein.JPG/800px-2013_Pfälzerwald_270_Backelstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2013_Pfälzerwald_270_Backelstein.JPG/1200px-2013_Pfälzerwald_270_Backelstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2013_Pfälzerwald_270_Backelstein.JPG/1920px-2013_Pfälzerwald_270_Backelstein.JPG
+  2013 Pfälzerwald 271 Backelstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2013_Pfälzerwald_271_Backelstein.JPG/400px-2013_Pfälzerwald_271_Backelstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2013_Pfälzerwald_271_Backelstein.JPG/800px-2013_Pfälzerwald_271_Backelstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2013_Pfälzerwald_271_Backelstein.JPG/1200px-2013_Pfälzerwald_271_Backelstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2013_Pfälzerwald_271_Backelstein.JPG/1920px-2013_Pfälzerwald_271_Backelstein.JPG
+  2013 Pfälzerwald 276 Hauenstein Backelstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG/400px-2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG/800px-2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG/1200px-2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG/1920px-2013_Pfälzerwald_276_Hauenstein_Backelstein.JPG
+  Backelstein 01.05.2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Backelstein_01.05.2013.jpg/400px-Backelstein_01.05.2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Backelstein_01.05.2013.jpg/800px-Backelstein_01.05.2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Backelstein_01.05.2013.jpg/1200px-Backelstein_01.05.2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Backelstein_01.05.2013.jpg/1920px-Backelstein_01.05.2013.jpg
+  Ritterstein 220 Backelstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ritterstein_220_Backelstein.JPG/400px-Ritterstein_220_Backelstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ritterstein_220_Backelstein.JPG/800px-Ritterstein_220_Backelstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ritterstein_220_Backelstein.JPG/1200px-Ritterstein_220_Backelstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ritterstein_220_Backelstein.JPG/1920px-Ritterstein_220_Backelstein.JPG
 ---
 
 ## Overview

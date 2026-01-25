@@ -13,7 +13,7 @@ regions:
 latitude: 48.169620702
 longitude: 11.526656671
 images:
-  - "/images-sites/westfriedhof/01-f35d039f-800w.webp"
+  - "/images/westfriedhof/01-f35d039f-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.493
 longitude: 9.68501111
 images:
-  - "/images-sites/stiftung-louisenlund/01-6e41b64d-800w.webp"
+  - "/images/stiftung-louisenlund/01-6e41b64d-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q565187"
 description: "St. Pantaleons Church, a remarkable example of Romanesque architecture, dates back to the year 1002 and stands as a significant landmark in Cologne, Ger..."
 images:
-  - "/images-sites/st-pantaleon-s-church/01-fb09b818-1920w.webp"
-  - "/images-sites/st-pantaleon-s-church/02-8cc0893b-1920w.webp"
-  - "/images-sites/st-pantaleon-s-church/03-b0e6d032-1920w.webp"
+  - "/images/st-pantaleon-s-church/01-fb09b818-1920w.webp"
+  - "/images/st-pantaleon-s-church/02-8cc0893b-1920w.webp"
+  - "/images/st-pantaleon-s-church/03-b0e6d032-1920w.webp"
 ---
 
 ## Overview

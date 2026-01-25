@@ -13,7 +13,7 @@ regions:
 latitude: 51.0631
 longitude: 13.7639
 images:
-  - "/images-sites/linckesches-bad/01-74d4488a-800w.webp"
+  - "/images/linckesches-bad/01-74d4488a-800w.webp"
 ---
 
 ## Overview

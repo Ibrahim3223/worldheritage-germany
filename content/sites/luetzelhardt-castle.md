@@ -21,7 +21,7 @@ longitude: 7.95333
 
 # Images
 images:
-  - "/images-sites/luetzelhardt-castle/01-6c921ae1-800w.webp"
+  - "/images/luetzelhardt-castle/01-6c921ae1-800w.webp"
 ---
 
 ## Overview

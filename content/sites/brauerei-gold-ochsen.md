@@ -1,27 +1,49 @@
 ---
-title: "Brauerei Gold Ochsen"
+title: Brauerei Gold Ochsen
 date: 2026-01-23
 draft: false
-description: "German brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.406944444
 longitude: 9.990833333
-
-# Images
 images:
-  - "/images-sites/brauerei-gold-ochsen/01-5c8fe591-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/1200px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg/1200px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg/1200px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg/1200px-Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg/1200px-Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg
+image_srcset:
+  Brauerei Gold Ochsen Ulm - Gaststätte Hetzenbäumle - Am Bleicher Hag - Ulm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/400px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/800px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/1200px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg/1920px-Brauerei_Gold_Ochsen_Ulm_-_Gaststätte_Hetzenbäumle_-_Am_Bleicher_Hag_-_Ulm.jpg
+  Brauerei Gold Ochsen - Ulmer Gold Ochsen Kellerweizen Urtyp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg/400px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg/800px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg/1200px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg/1920px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerweizen_Urtyp.jpg
+  Brauerei Gold Ochsen - Ulmer Gold Ochsen Kellerbier Dunkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg/400px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg/800px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg/1200px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg/1920px-Brauerei_Gold_Ochsen_-_Ulmer_Gold_Ochsen_Kellerbier_Dunkel.jpg
+  Brauerei Gold Ochsen - Oxx Lager.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg/400px-Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg/800px-Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg/1200px-Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg/1920px-Brauerei_Gold_Ochsen_-_Oxx_Lager.jpg
+  Brauerei Gold Ochsen - Gold Ochsen Ulmer Hell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg/400px-Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg/800px-Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg/1200px-Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg/1920px-Brauerei_Gold_Ochsen_-_Gold_Ochsen_Ulmer_Hell.jpg
 ---
 
 ## Overview

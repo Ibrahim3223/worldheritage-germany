@@ -13,7 +13,7 @@ regions:
 latitude: 52.5194
 longitude: 13.3983
 images:
-  - "/images-sites/taranto-goddess/01-2577145f-800w.webp"
+  - "/images/taranto-goddess/01-2577145f-800w.webp"
 ---
 
 ## Overview

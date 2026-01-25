@@ -13,7 +13,7 @@ regions:
 latitude: 53.590277777
 longitude: 10.914444444
 images:
-  - "/images-sites/schaalsee/01-6a29e4d9-800w.webp"
+  - "/images/schaalsee/01-6a29e4d9-800w.webp"
 ---
 
 ## Overview

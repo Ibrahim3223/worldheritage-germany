@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1600604"
 description: "In the vibrant district of Friedrichshain-Kreuzberg, Berlin, the Pfingstkirche stands as a remarkable example of Gothic Revival architecture. Founded in..."
 images:
-  - "/images-sites/pfingstkirche/01-72274ede-1920w.webp"
-  - "/images-sites/pfingstkirche/02-4b1931b1-1920w.webp"
-  - "/images-sites/pfingstkirche/03-82ee4bcb-1920w.webp"
+  - "/images/pfingstkirche/01-72274ede-1920w.webp"
+  - "/images/pfingstkirche/02-4b1931b1-1920w.webp"
+  - "/images/pfingstkirche/03-82ee4bcb-1920w.webp"
 ---
 
 ## Overview

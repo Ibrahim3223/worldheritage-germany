@@ -13,7 +13,7 @@ regions:
 latitude: 49.9658
 longitude: 7.8892
 images:
-  - "/images-sites/kloster-rupertsberg/01-dd18c3e8-800w.webp"
+  - "/images/kloster-rupertsberg/01-dd18c3e8-800w.webp"
 ---
 
 ## Overview

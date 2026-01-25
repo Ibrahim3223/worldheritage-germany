@@ -21,7 +21,7 @@ longitude: 11.567772023
 
 # Images
 images:
-  - "/images-sites/kuenstlerhaus-am-lenbachplatz/01-10200821-800w.webp"
+  - "/images/kuenstlerhaus-am-lenbachplatz/01-10200821-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burgruine Reichenstein"
+title: Burgruine Reichenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.514858
 longitude: 12.620882
 images:
-  - "/images-sites/burgruine-reichenstein/01-3af19615-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bild_Burg_Stadlern_2011_01.JPG/1200px-Bild_Burg_Stadlern_2011_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bild_Burg_Stadlern_2011_03.JPG/1200px-Bild_Burg_Stadlern_2011_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bild_Burg_Stadlern_2011_04.JPG/1200px-Bild_Burg_Stadlern_2011_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bild_Burg_Stadlern_2011_05.JPG/1200px-Bild_Burg_Stadlern_2011_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burgruine_Reichenstein_Skizze_1906.jpg/1200px-Burgruine_Reichenstein_Skizze_1906.jpg
+image_srcset:
+  Bild Burg Stadlern 2011 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bild_Burg_Stadlern_2011_01.JPG/400px-Bild_Burg_Stadlern_2011_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bild_Burg_Stadlern_2011_01.JPG/800px-Bild_Burg_Stadlern_2011_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bild_Burg_Stadlern_2011_01.JPG/1200px-Bild_Burg_Stadlern_2011_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bild_Burg_Stadlern_2011_01.JPG/1920px-Bild_Burg_Stadlern_2011_01.JPG
+  Bild Burg Stadlern 2011 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bild_Burg_Stadlern_2011_03.JPG/400px-Bild_Burg_Stadlern_2011_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bild_Burg_Stadlern_2011_03.JPG/800px-Bild_Burg_Stadlern_2011_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bild_Burg_Stadlern_2011_03.JPG/1200px-Bild_Burg_Stadlern_2011_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bild_Burg_Stadlern_2011_03.JPG/1920px-Bild_Burg_Stadlern_2011_03.JPG
+  Bild Burg Stadlern 2011 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bild_Burg_Stadlern_2011_04.JPG/400px-Bild_Burg_Stadlern_2011_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bild_Burg_Stadlern_2011_04.JPG/800px-Bild_Burg_Stadlern_2011_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bild_Burg_Stadlern_2011_04.JPG/1200px-Bild_Burg_Stadlern_2011_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bild_Burg_Stadlern_2011_04.JPG/1920px-Bild_Burg_Stadlern_2011_04.JPG
+  Bild Burg Stadlern 2011 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bild_Burg_Stadlern_2011_05.JPG/400px-Bild_Burg_Stadlern_2011_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bild_Burg_Stadlern_2011_05.JPG/800px-Bild_Burg_Stadlern_2011_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bild_Burg_Stadlern_2011_05.JPG/1200px-Bild_Burg_Stadlern_2011_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bild_Burg_Stadlern_2011_05.JPG/1920px-Bild_Burg_Stadlern_2011_05.JPG
+  Burgruine Reichenstein Skizze 1906.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burgruine_Reichenstein_Skizze_1906.jpg/400px-Burgruine_Reichenstein_Skizze_1906.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burgruine_Reichenstein_Skizze_1906.jpg/800px-Burgruine_Reichenstein_Skizze_1906.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burgruine_Reichenstein_Skizze_1906.jpg/1200px-Burgruine_Reichenstein_Skizze_1906.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Burgruine_Reichenstein_Skizze_1906.jpg/1920px-Burgruine_Reichenstein_Skizze_1906.jpg
 ---
 
 ## Overview

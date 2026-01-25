@@ -13,7 +13,7 @@ regions:
 latitude: 52.5019
 longitude: 13.3428
 images:
-  - "/images-sites/wittenbergplatz/01-5c242ede-800w.webp"
+  - "/images/wittenbergplatz/01-5c242ede-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.2499
 longitude: 10.4199
 images:
-  - "/images-sites/lueneburg-station/01-d9f4484d-800w.webp"
-  - "/images-sites/lueneburg-station/02-524a1832-800w.webp"
-  - "/images-sites/lueneburg-station/03-3d66aebd-800w.webp"
+  - "/images/lueneburg-station/01-d9f4484d-800w.webp"
+  - "/images/lueneburg-station/02-524a1832-800w.webp"
+  - "/images/lueneburg-station/03-3d66aebd-800w.webp"
 ---
 
 ## Overview

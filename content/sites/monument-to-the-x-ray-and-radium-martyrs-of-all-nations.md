@@ -13,7 +13,7 @@ regions:
 latitude: 53.55903
 longitude: 10.01975
 images:
-  - "/images-sites/monument-to-the-x-ray-and-radium-martyrs-of-all-nations/01-3a927a20-800w.webp"
+  - "/images/monument-to-the-x-ray-and-radium-martyrs-of-all-nations/01-3a927a20-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.0541
 longitude: 13.7768
 images:
-  - "/images-sites/synagoge-fiedlerstrasse-dresden/02-cba5b234-800w.webp"
+  - "/images/synagoge-fiedlerstrasse-dresden/02-cba5b234-800w.webp"
 ---
 
 ## Overview

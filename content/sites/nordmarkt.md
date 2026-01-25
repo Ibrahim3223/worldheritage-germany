@@ -13,7 +13,7 @@ regions:
 latitude: 51.5167
 longitude: 7.45
 images:
-  - "/images-sites/nordmarkt/01-841fe843-800w.webp"
+  - "/images/nordmarkt/01-841fe843-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 51.2275
 longitude: 6.77111
 images:
-  - "/images-sites/schlossturm/02-69aa86f1-800w.webp"
-  - "/images-sites/schlossturm/03-de6ecd4d-800w.webp"
+  - "/images/schlossturm/02-69aa86f1-800w.webp"
+  - "/images/schlossturm/03-de6ecd4d-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,50 @@
 ---
-title: "Alte Synagoge (Ulm)"
+title: Alte Synagoge (Ulm)
 date: 2026-01-23
 draft: false
-description: "building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: building in Ulm, Tübingen Government Region, Bade-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 48.396842
 longitude: 9.990565
 images:
-  - "/images-sites/alte-synagoge-ulm/02-aecadc89-800w.webp"
-  - "/images-sites/alte-synagoge-ulm/03-b39cae15-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ulm_a._D._-_Synagoge.jpg/1200px-Ulm_a._D._-_Synagoge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg/1200px-Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gruss_aus_Ulm_a.D.jpg/1200px-Gruss_aus_Ulm_a.D.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg/1200px-Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg/1200px-Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg
+image_srcset:
+  Ulm a. D. - Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ulm_a._D._-_Synagoge.jpg/400px-Ulm_a._D._-_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ulm_a._D._-_Synagoge.jpg/800px-Ulm_a._D._-_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ulm_a._D._-_Synagoge.jpg/1200px-Ulm_a._D._-_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ulm_a._D._-_Synagoge.jpg/1920px-Ulm_a._D._-_Synagoge.jpg
+  Ulm a. D. Weinhof mit altem Markt, Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg/400px-Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg/800px-Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg/1200px-Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg/1920px-Ulm_a._D._Weinhof_mit_altem_Markt,_Synagoge.jpg
+  Gruss aus Ulm a.D.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gruss_aus_Ulm_a.D.jpg/400px-Gruss_aus_Ulm_a.D.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gruss_aus_Ulm_a.D.jpg/800px-Gruss_aus_Ulm_a.D.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gruss_aus_Ulm_a.D.jpg/1200px-Gruss_aus_Ulm_a.D.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gruss_aus_Ulm_a.D.jpg/1920px-Gruss_aus_Ulm_a.D.jpg
+  Synagogue of Ulm before its trandformation in 1927-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg/400px-Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg/800px-Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg/1200px-Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg/1920px-Synagogue_of_Ulm_before_its_trandformation_in_1927-1.jpg
+  ? Alte Synagoge Ulm, Entwurf von Christoph Adolf Wolff (* 10. August 1832 in Wäldenbronn;
+    † 29. März 1885 in Stuttgart) um 1873.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg/400px-Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg/800px-Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg/1200px-Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg/1920px-Alte_Synagoge_Ulm,_Entwurf_von_Christoph_Adolf_Wolff_(*_10._August_1832_in_Wäldenbronn;_†_29._März_1885_in_Stuttgart)_um_1873.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Inselzoo Altenburg"
+title: Inselzoo Altenburg
 date: 2026-01-24
 draft: false
-description: "Zoo in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: Zoo in Deutschland
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9788
 longitude: 12.4329
 images:
-  - "/images-sites/inselzoo-altenburg/01-92933fcd-800w.webp"
-  - "/images-sites/inselzoo-altenburg/02-f37ea9f4-800w.webp"
-  - "/images-sites/inselzoo-altenburg/03-3db0e7b5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ABG-Inselzoo4.JPG/1200px-ABG-Inselzoo4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ABG-Inselzoo8.JPG/1200px-ABG-Inselzoo8.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ABG-Inselzoo5.JPG/1200px-ABG-Inselzoo5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inselzoo_Altenburg_Eingang.JPG/1200px-Inselzoo_Altenburg_Eingang.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg/1200px-Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg
+image_srcset:
+  ABG-Inselzoo4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ABG-Inselzoo4.JPG/400px-ABG-Inselzoo4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ABG-Inselzoo4.JPG/800px-ABG-Inselzoo4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ABG-Inselzoo4.JPG/1200px-ABG-Inselzoo4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/ABG-Inselzoo4.JPG/1920px-ABG-Inselzoo4.JPG
+  ABG-Inselzoo8.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ABG-Inselzoo8.JPG/400px-ABG-Inselzoo8.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ABG-Inselzoo8.JPG/800px-ABG-Inselzoo8.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ABG-Inselzoo8.JPG/1200px-ABG-Inselzoo8.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ABG-Inselzoo8.JPG/1920px-ABG-Inselzoo8.JPG
+  ABG-Inselzoo5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ABG-Inselzoo5.JPG/400px-ABG-Inselzoo5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ABG-Inselzoo5.JPG/800px-ABG-Inselzoo5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ABG-Inselzoo5.JPG/1200px-ABG-Inselzoo5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/ABG-Inselzoo5.JPG/1920px-ABG-Inselzoo5.JPG
+  Inselzoo Altenburg Eingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inselzoo_Altenburg_Eingang.JPG/400px-Inselzoo_Altenburg_Eingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inselzoo_Altenburg_Eingang.JPG/800px-Inselzoo_Altenburg_Eingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inselzoo_Altenburg_Eingang.JPG/1200px-Inselzoo_Altenburg_Eingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inselzoo_Altenburg_Eingang.JPG/1920px-Inselzoo_Altenburg_Eingang.JPG
+  Altenburg Inselzoo auf der Insel im Großen Teich Foto 2006 Wolfgang Pehlemann Wiesbaden PICT0306.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg/400px-Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg/800px-Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg/1200px-Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg/1920px-Altenburg_Inselzoo_auf_der_Insel_im_Großen_Teich_Foto_2006_Wolfgang_Pehlemann_Wiesbaden_PICT0306.jpg
 ---
 
 ## Overview

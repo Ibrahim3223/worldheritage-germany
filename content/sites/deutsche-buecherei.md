@@ -1,19 +1,49 @@
 ---
-title: "Deutsche Bücherei"
+title: Deutsche Bücherei
 date: 2026-01-23
 draft: false
-description: "former national library of Germany in Leipzig (1912-1990)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: former national library of Germany in Leipzig (1912-1990)
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3224
 longitude: 12.3967
 images:
-  - "/images-sites/deutsche-buecherei/01-51690de5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StadtAL_0563_BA_1989_28363.jpg/1200px-StadtAL_0563_BA_1989_28363.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg/1200px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg/1200px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg/1200px-Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1200px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
+image_srcset:
+  StadtAL 0563 BA 1989 28363.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StadtAL_0563_BA_1989_28363.jpg/400px-StadtAL_0563_BA_1989_28363.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StadtAL_0563_BA_1989_28363.jpg/800px-StadtAL_0563_BA_1989_28363.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StadtAL_0563_BA_1989_28363.jpg/1200px-StadtAL_0563_BA_1989_28363.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/StadtAL_0563_BA_1989_28363.jpg/1920px-StadtAL_0563_BA_1989_28363.jpg
+  2024-04-05 Deutsche Bücherei Konferenzraum mit Reichsbibliothek, Wikipedia Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg/400px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg/800px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg/1200px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg/1920px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover.jpg
+  2024-04-05 Deutsche Bücherei Konferenzraum mit Reichsbibliothek, Wikipedia Hannover 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg/400px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg/800px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg/1200px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg/1920px-2024-04-05_Deutsche_Bücherei_Konferenzraum_mit_Reichsbibliothek,_Wikipedia_Hannover_2.jpg
+  Eingang Deutsche Nationalbibliothek Leipzig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg/400px-Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg/800px-Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg/1200px-Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg/1920px-Eingang_Deutsche_Nationalbibliothek_Leipzig.jpg
+  Deutsche Buecherei Hauptgebaeude mit Buecherturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/400px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/800px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1200px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG/1920px-Deutsche_Buecherei_Hauptgebaeude_mit_Buecherturm.JPG
 ---
 
 ## Overview

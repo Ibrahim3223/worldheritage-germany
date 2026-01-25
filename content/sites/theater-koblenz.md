@@ -13,7 +13,7 @@ regions:
 latitude: 50.3582
 longitude: 7.59944
 images:
-  - "/images-sites/theater-koblenz/01-e753dc17-800w.webp"
+  - "/images/theater-koblenz/01-e753dc17-800w.webp"
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 9.719847697
 
 # Images
 images:
-  - "/images-sites/tib-leibniz-information-centre-for-science-and-technology-and-university-library/01-82b3bc68-800w.webp"
-  - "/images-sites/tib-leibniz-information-centre-for-science-and-technology-and-university-library/02-af6482f7-800w.webp"
-  - "/images-sites/tib-leibniz-information-centre-for-science-and-technology-and-university-library/03-90f2cd45-800w.webp"
+  - "/images/tib-leibniz-information-centre-for-science-and-technology-and-university-library/01-82b3bc68-800w.webp"
+  - "/images/tib-leibniz-information-centre-for-science-and-technology-and-university-library/02-af6482f7-800w.webp"
+  - "/images/tib-leibniz-information-centre-for-science-and-technology-and-university-library/03-90f2cd45-800w.webp"
 ---
 
 ## Overview

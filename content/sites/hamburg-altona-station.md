@@ -1,19 +1,49 @@
 ---
-title: "Hamburg-Altona station"
+title: Hamburg-Altona station
 date: 2026-01-23
 draft: false
-description: "railway station in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55194444
 longitude: 9.935
 images:
-  - "/images-sites/hamburg-altona-station/01-d761dd8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022-01-01-Bahnhof-Altona-2.jpg/1200px-2022-01-01-Bahnhof-Altona-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg/1200px-2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DB_RE6_Hamburg-Altona_2002220832.jpg/1200px-DB_RE6_Hamburg-Altona_2002220832.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Preußisches_Wappenemblem_Bf_Altona.jpg/1200px-Preußisches_Wappenemblem_Bf_Altona.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1200px-Bahnhof_Altona_(Einfahrt).jpg
+image_srcset:
+  2022-01-01-Bahnhof-Altona-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022-01-01-Bahnhof-Altona-2.jpg/400px-2022-01-01-Bahnhof-Altona-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022-01-01-Bahnhof-Altona-2.jpg/800px-2022-01-01-Bahnhof-Altona-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022-01-01-Bahnhof-Altona-2.jpg/1200px-2022-01-01-Bahnhof-Altona-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022-01-01-Bahnhof-Altona-2.jpg/1920px-2022-01-01-Bahnhof-Altona-2.jpg
+  2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg/400px-2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg/800px-2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg/1200px-2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg/1920px-2022-09-01-mark-smith-seat61-sj-euronight-hamburg-altona.jpg
+  DB RE6 Hamburg-Altona 2002220832.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DB_RE6_Hamburg-Altona_2002220832.jpg/400px-DB_RE6_Hamburg-Altona_2002220832.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DB_RE6_Hamburg-Altona_2002220832.jpg/800px-DB_RE6_Hamburg-Altona_2002220832.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DB_RE6_Hamburg-Altona_2002220832.jpg/1200px-DB_RE6_Hamburg-Altona_2002220832.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DB_RE6_Hamburg-Altona_2002220832.jpg/1920px-DB_RE6_Hamburg-Altona_2002220832.jpg
+  Preußisches Wappenemblem Bf Altona.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Preußisches_Wappenemblem_Bf_Altona.jpg/400px-Preußisches_Wappenemblem_Bf_Altona.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Preußisches_Wappenemblem_Bf_Altona.jpg/800px-Preußisches_Wappenemblem_Bf_Altona.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Preußisches_Wappenemblem_Bf_Altona.jpg/1200px-Preußisches_Wappenemblem_Bf_Altona.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Preußisches_Wappenemblem_Bf_Altona.jpg/1920px-Preußisches_Wappenemblem_Bf_Altona.jpg
+  Bahnhof Altona (Einfahrt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/400px-Bahnhof_Altona_(Einfahrt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/800px-Bahnhof_Altona_(Einfahrt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1200px-Bahnhof_Altona_(Einfahrt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bahnhof_Altona_(Einfahrt).jpg/1920px-Bahnhof_Altona_(Einfahrt).jpg
 ---
 
 ## Overview

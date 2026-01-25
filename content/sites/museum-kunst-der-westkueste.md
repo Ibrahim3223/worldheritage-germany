@@ -21,7 +21,7 @@ longitude: 8.51
 
 # Images
 images:
-  - "/images-sites/museum-kunst-der-westkueste/01-c273a82b-800w.webp"
+  - "/images/museum-kunst-der-westkueste/01-c273a82b-800w.webp"
 ---
 
 ## Overview

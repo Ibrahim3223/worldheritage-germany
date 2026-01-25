@@ -13,7 +13,7 @@ regions:
 latitude: 52.481388888
 longitude: 13.409444444
 images:
-  - "/images-sites/turkish-cemetery-berlin/01-243ef5a2-800w.webp"
+  - "/images/turkish-cemetery-berlin/01-243ef5a2-800w.webp"
 ---
 
 ## Overview

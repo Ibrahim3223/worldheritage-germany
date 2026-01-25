@@ -13,7 +13,7 @@ regions:
 latitude: 53.549255
 longitude: 9.997706
 images:
-  - "/images-sites/st-marys-cathedral/01-0100f834-800w.webp"
+  - "/images/st-marys-cathedral/01-0100f834-800w.webp"
 ---
 
 ## Overview

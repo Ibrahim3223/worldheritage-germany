@@ -13,7 +13,7 @@ regions:
 latitude: 50.955778
 longitude: 6.970972
 images:
-  - "/images-sites/skulpturenpark-koeln/01-3f8cb2bd-800w.webp"
+  - "/images/skulpturenpark-koeln/01-3f8cb2bd-800w.webp"
 ---
 
 ## Overview

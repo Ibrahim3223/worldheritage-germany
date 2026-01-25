@@ -1,20 +1,33 @@
 ---
-title: "Dorfkirche Priborn"
-site_name: "Dorfkirche Priborn"
-slug: "dorfkirche-priborn"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Priborn
+site_name: Dorfkirche Priborn
+slug: dorfkirche-priborn
+region: Mecklenburg-Vorpommern
 latitude: 53.3001
 longitude: 12.664
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244631"
-description: "Dorfkirche Priborn is a striking example of Gothic Revival architecture located in the tranquil village of Priborn, Germany. This church, constructed fr..."
+- church building
+- religious site
+wikidata_id: Q1244631
+description: Dorfkirche Priborn is a striking example of Gothic Revival architecture
+  located in the tranquil village of Priborn, Germany. This church, constructed fr...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Priborn%20Kirche%202009-07-16%20206.jpg/1200px-Priborn%20Kirche%202009-07-16%20206.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/1200px-Priborn_Kirche_2009-07-16_206.jpg
+image_srcset:
+  Priborn%20Kirche%202009-07-16%20206.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Priborn%20Kirche%202009-07-16%20206.jpg/400px-Priborn%20Kirche%202009-07-16%20206.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Priborn%20Kirche%202009-07-16%20206.jpg/800px-Priborn%20Kirche%202009-07-16%20206.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Priborn%20Kirche%202009-07-16%20206.jpg/1200px-Priborn%20Kirche%202009-07-16%20206.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Priborn%20Kirche%202009-07-16%20206.jpg/1920px-Priborn%20Kirche%202009-07-16%20206.jpg
+  Priborn Kirche 2009-07-16 206.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/400px-Priborn_Kirche_2009-07-16_206.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/800px-Priborn_Kirche_2009-07-16_206.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/1200px-Priborn_Kirche_2009-07-16_206.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Priborn_Kirche_2009-07-16_206.jpg/1920px-Priborn_Kirche_2009-07-16_206.jpg
 ---
 
 ## Overview

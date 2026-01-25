@@ -13,9 +13,9 @@ regions:
 latitude: 54.027561111
 longitude: 11.4936
 images:
-  - "/images-sites/langenwerder/01-67d46b55-800w.webp"
-  - "/images-sites/langenwerder/02-38e95f8e-800w.webp"
-  - "/images-sites/langenwerder/03-9196aa19-800w.webp"
+  - "/images/langenwerder/01-67d46b55-800w.webp"
+  - "/images/langenwerder/02-38e95f8e-800w.webp"
+  - "/images/langenwerder/03-9196aa19-800w.webp"
 ---
 
 ## Overview

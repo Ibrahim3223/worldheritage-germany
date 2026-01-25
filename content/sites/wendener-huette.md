@@ -13,7 +13,7 @@ regions:
 latitude: 50.9708
 longitude: 7.82799
 images:
-  - "/images-sites/wendener-huette/01-6595c171-800w.webp"
+  - "/images/wendener-huette/01-6595c171-800w.webp"
 ---
 
 ## Overview

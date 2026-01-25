@@ -13,9 +13,9 @@ regions:
 latitude: 52.581666666
 longitude: 13.3725
 images:
-  - "/images-sites/soviet-war-memorial-schoenholzer-heide/01-f8d03c78-800w.webp"
-  - "/images-sites/soviet-war-memorial-schoenholzer-heide/02-99420241-800w.webp"
-  - "/images-sites/soviet-war-memorial-schoenholzer-heide/03-ad87dc89-800w.webp"
+  - "/images/soviet-war-memorial-schoenholzer-heide/01-f8d03c78-800w.webp"
+  - "/images/soviet-war-memorial-schoenholzer-heide/02-99420241-800w.webp"
+  - "/images/soviet-war-memorial-schoenholzer-heide/03-ad87dc89-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Equestrian statue of Frederick William IV"
+title: Equestrian statue of Frederick William IV
 date: 2026-01-23
 draft: false
-description: "19th-century sculpture of King Frederick William IV of Prussia"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: 19th-century sculpture of King Frederick William IV of Prussia
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5206
 longitude: 13.3986
 images:
-  - "/images-sites/equestrian-statue-of-frederick-william-iv/01-85b629cc-800w.webp"
-  - "/images-sites/equestrian-statue-of-frederick-william-iv/02-0f3bb9df-800w.webp"
-  - "/images-sites/equestrian-statue-of-frederick-william-iv/03-c58fd5ae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg/1200px-Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_-_Alte_Nationalgalerie.jpg/1200px-Berlin_-_Alte_Nationalgalerie.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg/1200px-Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Berlin,_Altes_Museum.JPG/1200px-Berlin,_Altes_Museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Equestrian_statue_of_Frederick_William_IV.jpg/1200px-Equestrian_statue_of_Frederick_William_IV.jpg
+image_srcset:
+  Alte Nationalgalerie (Berlin-Mitte). Reiterstandbild Friedrich Wilhelm IV.09030057.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg/400px-Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg/800px-Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg/1200px-Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg/1920px-Alte_Nationalgalerie_(Berlin-Mitte)._Reiterstandbild_Friedrich_Wilhelm_IV.09030057.ajb.jpg
+  Berlin - Alte Nationalgalerie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_-_Alte_Nationalgalerie.jpg/400px-Berlin_-_Alte_Nationalgalerie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_-_Alte_Nationalgalerie.jpg/800px-Berlin_-_Alte_Nationalgalerie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_-_Alte_Nationalgalerie.jpg/1200px-Berlin_-_Alte_Nationalgalerie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin_-_Alte_Nationalgalerie.jpg/1920px-Berlin_-_Alte_Nationalgalerie.jpg
+  Berlin, Mitte, Museumsinsel, Alte Nationalgalerie, Reiterstandbild Friedrich Wilhelm IV. von Alexander Calandrelli.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg/400px-Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg/800px-Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg/1200px-Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg/1920px-Berlin,_Mitte,_Museumsinsel,_Alte_Nationalgalerie,_Reiterstandbild_Friedrich_Wilhelm_IV._von_Alexander_Calandrelli.jpg
+  Berlin, Altes Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Berlin,_Altes_Museum.JPG/400px-Berlin,_Altes_Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Berlin,_Altes_Museum.JPG/800px-Berlin,_Altes_Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Berlin,_Altes_Museum.JPG/1200px-Berlin,_Altes_Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Berlin,_Altes_Museum.JPG/1920px-Berlin,_Altes_Museum.JPG
+  Equestrian statue of Frederick William IV.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Equestrian_statue_of_Frederick_William_IV.jpg/400px-Equestrian_statue_of_Frederick_William_IV.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Equestrian_statue_of_Frederick_William_IV.jpg/800px-Equestrian_statue_of_Frederick_William_IV.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Equestrian_statue_of_Frederick_William_IV.jpg/1200px-Equestrian_statue_of_Frederick_William_IV.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Equestrian_statue_of_Frederick_William_IV.jpg/1920px-Equestrian_statue_of_Frederick_William_IV.jpg
 ---
 
 ## Overview

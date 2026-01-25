@@ -1,20 +1,50 @@
 ---
-title: "Großes Schauspielhaus"
+title: Großes Schauspielhaus
 date: 2026-01-23
 draft: false
-description: "former theatre and revue theatre (Friedrichstadtpalast) in Mitte, Berlin, Germany, originally a market hall, then used as a circus building"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: former theatre and revue theatre (Friedrichstadtpalast) in Mitte, Berlin,
+  Germany, originally a market hall, then used as a circus building
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.52277778
 longitude: 13.38611111
 images:
-  - "/images-sites/grosses-schauspielhaus/02-fb23c281-800w.webp"
-  - "/images-sites/grosses-schauspielhaus/03-a9bfc724-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gs2762.jpg/1200px-Gs2762.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BE_und_Alter_Friedrichstadtpalast_1964.jpg/1200px-BE_und_Alter_Friedrichstadtpalast_1964.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg/1200px-Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1200px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grosses_Schauspielhaus.jpg/1200px-Grosses_Schauspielhaus.jpg
+image_srcset:
+  Gs2762.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gs2762.jpg/400px-Gs2762.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gs2762.jpg/800px-Gs2762.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gs2762.jpg/1200px-Gs2762.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gs2762.jpg/1920px-Gs2762.jpg
+  BE und Alter Friedrichstadtpalast 1964.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BE_und_Alter_Friedrichstadtpalast_1964.jpg/400px-BE_und_Alter_Friedrichstadtpalast_1964.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BE_und_Alter_Friedrichstadtpalast_1964.jpg/800px-BE_und_Alter_Friedrichstadtpalast_1964.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BE_und_Alter_Friedrichstadtpalast_1964.jpg/1200px-BE_und_Alter_Friedrichstadtpalast_1964.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BE_und_Alter_Friedrichstadtpalast_1964.jpg/1920px-BE_und_Alter_Friedrichstadtpalast_1964.jpg
+  Berlin Grosses Schauspielhaus Poelzig Foyer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg/400px-Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg/800px-Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg/1200px-Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg/1920px-Berlin_Grosses_Schauspielhaus_Poelzig_Foyer.jpg
+  Bundesarchiv Bild 183-L1109-0305, Berlin, Friedrichstadtpalast.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/400px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/800px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1200px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg/1920px-Bundesarchiv_Bild_183-L1109-0305,_Berlin,_Friedrichstadtpalast.jpg
+  Grosses Schauspielhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grosses_Schauspielhaus.jpg/400px-Grosses_Schauspielhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grosses_Schauspielhaus.jpg/800px-Grosses_Schauspielhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grosses_Schauspielhaus.jpg/1200px-Grosses_Schauspielhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Grosses_Schauspielhaus.jpg/1920px-Grosses_Schauspielhaus.jpg
 ---
 
 ## Overview

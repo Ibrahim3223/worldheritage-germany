@@ -21,7 +21,7 @@ longitude: 10.3947
 
 # Images
 images:
-  - "/images-sites/schloss-landsberg/01-ae202bfd-800w.webp"
+  - "/images/schloss-landsberg/01-ae202bfd-800w.webp"
 ---
 
 ## Overview

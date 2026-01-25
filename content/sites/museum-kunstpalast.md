@@ -21,9 +21,9 @@ longitude: 6.77333
 
 # Images
 images:
-  - "/images-sites/museum-kunstpalast/01-8e82a626-800w.webp"
-  - "/images-sites/museum-kunstpalast/02-92ad1fd3-800w.webp"
-  - "/images-sites/museum-kunstpalast/03-94f82f11-800w.webp"
+  - "/images/museum-kunstpalast/01-8e82a626-800w.webp"
+  - "/images/museum-kunstpalast/02-92ad1fd3-800w.webp"
+  - "/images/museum-kunstpalast/03-94f82f11-800w.webp"
 ---
 
 ## Overview

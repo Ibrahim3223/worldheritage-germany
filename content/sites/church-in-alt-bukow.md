@@ -1,23 +1,51 @@
 ---
-title: "Church in Alt Bukow"
-site_name: "Church in Alt Bukow"
-slug: "church-in-alt-bukow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Alt Bukow
+site_name: Church in Alt Bukow
+slug: church-in-alt-bukow
+region: Mecklenburg-Vorpommern
 latitude: 53.9963
 longitude: 11.6079
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1380463"
-description: "The Church in Alt Bukow stands as a remarkable example of Brick Gothic architecture, a style that flourished in northern Germany and is characterized by..."
+- cultural site
+wikidata_id: Q1380463
+description: The Church in Alt Bukow stands as a remarkable example of Brick Gothic
+  architecture, a style that flourished in northern Germany and is characterized by...
 images:
-  - "/images-sites/church-in-alt-bukow/01-a4da3d29-1920w.webp"
-  - "/images-sites/church-in-alt-bukow/02-8f3d25b3-1920w.webp"
-  - "/images-sites/church-in-alt-bukow/03-9c1b7b9e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt%20Bukow%203.jpg/1200px-Alt%20Bukow%203.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alt_Bukow_Kirche_1.jpg/1200px-Alt_Bukow_Kirche_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alt_Bukow_Kirche_2.jpg/1200px-Alt_Bukow_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1200px-Alt_Bukow_3.jpg
+image_srcset:
+  Alt%20Bukow%203.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt%20Bukow%203.jpg/400px-Alt%20Bukow%203.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt%20Bukow%203.jpg/800px-Alt%20Bukow%203.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt%20Bukow%203.jpg/1200px-Alt%20Bukow%203.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt%20Bukow%203.jpg/1920px-Alt%20Bukow%203.jpg
+  Alt Bukow Kirche 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alt_Bukow_Kirche_1.jpg/400px-Alt_Bukow_Kirche_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alt_Bukow_Kirche_1.jpg/800px-Alt_Bukow_Kirche_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alt_Bukow_Kirche_1.jpg/1200px-Alt_Bukow_Kirche_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Alt_Bukow_Kirche_1.jpg/1920px-Alt_Bukow_Kirche_1.jpg
+  Alt Bukow Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alt_Bukow_Kirche_2.jpg/400px-Alt_Bukow_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alt_Bukow_Kirche_2.jpg/800px-Alt_Bukow_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alt_Bukow_Kirche_2.jpg/1200px-Alt_Bukow_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alt_Bukow_Kirche_2.jpg/1920px-Alt_Bukow_Kirche_2.jpg
+  ? Die Amtsgerichtsbezirke Hagenow, Wittenburg, Boizenburg, Lübtheen, Dömitz, Grabow,
+    Ludwigslust, Neustadt, Crivitz, Brüel, Warin, Neubukow, Kröpelin und Doberan S.489.png
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png/400px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png/800px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png/1920px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.489.png
+  Alt Bukow 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/400px-Alt_Bukow_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/800px-Alt_Bukow_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1200px-Alt_Bukow_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Alt_Bukow_3.jpg/1920px-Alt_Bukow_3.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.9608
 longitude: 10.8872
 images:
-  - "/images-sites/trave/01-a9b9386c-800w.webp"
+  - "/images/trave/01-a9b9386c-800w.webp"
 ---
 
 ## Overview

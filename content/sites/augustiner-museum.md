@@ -1,27 +1,49 @@
 ---
-title: "Augustiner Museum"
+title: Augustiner Museum
 date: 2026-01-23
 draft: false
-description: "museum in Freiburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Freiburg, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.99388889
 longitude: 7.8525
-
-# Images
 images:
-  - "/images-sites/augustiner-museum/01-0acf4591-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2023-07-22_Museumsnacht_Freiburg_BR_014.jpg/1200px-2023-07-22_Museumsnacht_Freiburg_BR_014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1200px-Augustinermuseum_Freiburg_-_DSC06509.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg/1200px-Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg/1200px-Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg/1200px-Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg
+image_srcset:
+  2023-07-22 Museumsnacht Freiburg BR 014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2023-07-22_Museumsnacht_Freiburg_BR_014.jpg/400px-2023-07-22_Museumsnacht_Freiburg_BR_014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2023-07-22_Museumsnacht_Freiburg_BR_014.jpg/800px-2023-07-22_Museumsnacht_Freiburg_BR_014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2023-07-22_Museumsnacht_Freiburg_BR_014.jpg/1200px-2023-07-22_Museumsnacht_Freiburg_BR_014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2023-07-22_Museumsnacht_Freiburg_BR_014.jpg/1920px-2023-07-22_Museumsnacht_Freiburg_BR_014.jpg
+  Augustinermuseum Freiburg - DSC06509.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/400px-Augustinermuseum_Freiburg_-_DSC06509.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/800px-Augustinermuseum_Freiburg_-_DSC06509.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1200px-Augustinermuseum_Freiburg_-_DSC06509.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Augustinermuseum_Freiburg_-_DSC06509.JPG/1920px-Augustinermuseum_Freiburg_-_DSC06509.JPG
+  Landappbw 666721 1819 Augustiner Museum, Haus der graphischen Sammlung Freiburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg/400px-Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg/800px-Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg/1200px-Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg/1920px-Landappbw_666721_1819_Augustiner_Museum,_Haus_der_graphischen_Sammlung_Freiburg.jpg
+  Platzhalter für ein Pflastermosaik vor dem Freiburger Augustinermuseum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg/400px-Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg/800px-Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg/1200px-Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg/1920px-Platzhalter_für_ein_Pflastermosaik_vor_dem_Freiburger_Augustinermuseum_2.jpg
+  Pflastermosaik auf der Salzstraße am Augustinermuseum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg/400px-Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg/800px-Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg/1200px-Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg/1920px-Pflastermosaik_auf_der_Salzstraße_am_Augustinermuseum_2.jpg
 ---
 
 ## Overview

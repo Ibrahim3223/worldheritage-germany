@@ -1,27 +1,49 @@
 ---
-title: "Falkenburg"
+title: Falkenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3753
 longitude: 11.0378
-
-# Images
 images:
-  - "/images-sites/falkenburg/01-aff29ba6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg/1200px-Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg/1200px-Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg/1200px-Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bob_Falkenburg_1949.jpg/1200px-Bob_Falkenburg_1949.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BOB_FALKENBRUG_1952.jpg/1200px-BOB_FALKENBRUG_1952.jpg
+image_srcset:
+  Złocieniec - Drawa - 22.04.2023 15-16-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg/400px-Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg/800px-Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg/1200px-Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg/1920px-Złocieniec_-_Drawa_-_22.04.2023_15-16-06.jpg
+  Złocieniec - Drawa - 22.04.2023 15-26-27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg/400px-Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg/800px-Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg/1200px-Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg/1920px-Złocieniec_-_Drawa_-_22.04.2023_15-26-27.jpg
+  Złocieniec - krzyż - 22.04.2023 14-21-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg/400px-Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg/800px-Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg/1200px-Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg/1920px-Złocieniec_-_krzyż_-_22.04.2023_14-21-04.jpg
+  Bob Falkenburg 1949.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bob_Falkenburg_1949.jpg/400px-Bob_Falkenburg_1949.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bob_Falkenburg_1949.jpg/800px-Bob_Falkenburg_1949.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bob_Falkenburg_1949.jpg/1200px-Bob_Falkenburg_1949.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bob_Falkenburg_1949.jpg/1920px-Bob_Falkenburg_1949.jpg
+  BOB FALKENBRUG 1952.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BOB_FALKENBRUG_1952.jpg/400px-BOB_FALKENBRUG_1952.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BOB_FALKENBRUG_1952.jpg/800px-BOB_FALKENBRUG_1952.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BOB_FALKENBRUG_1952.jpg/1200px-BOB_FALKENBRUG_1952.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BOB_FALKENBRUG_1952.jpg/1920px-BOB_FALKENBRUG_1952.jpg
 ---
 
 ## Overview

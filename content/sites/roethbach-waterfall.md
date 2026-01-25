@@ -13,7 +13,7 @@ regions:
 latitude: 47.503
 longitude: 13.012
 images:
-  - "/images-sites/roethbach-waterfall/01-680c9b5a-800w.webp"
+  - "/images/roethbach-waterfall/01-680c9b5a-800w.webp"
 ---
 
 ## Overview

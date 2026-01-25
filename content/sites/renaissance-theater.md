@@ -13,8 +13,8 @@ regions:
 latitude: 52.5104
 longitude: 13.3234
 images:
-  - "/images-sites/renaissance-theater/01-022d5362-800w.webp"
-  - "/images-sites/renaissance-theater/03-86cdc9d0-800w.webp"
+  - "/images/renaissance-theater/01-022d5362-800w.webp"
+  - "/images/renaissance-theater/03-86cdc9d0-800w.webp"
 ---
 
 ## Overview

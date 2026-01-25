@@ -13,7 +13,7 @@ regions:
 latitude: 50.983735
 longitude: 11.325183
 images:
-  - "/images-sites/weimarhalle/01-c0514e19-800w.webp"
+  - "/images/weimarhalle/01-c0514e19-800w.webp"
 ---
 
 ## Overview

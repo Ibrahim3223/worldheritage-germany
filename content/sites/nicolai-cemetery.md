@@ -13,7 +13,7 @@ regions:
 latitude: 51.183944
 longitude: 14.422235
 images:
-  - "/images-sites/nicolai-cemetery/01-09f5a0ee-800w.webp"
+  - "/images/nicolai-cemetery/01-09f5a0ee-800w.webp"
 ---
 
 ## Overview

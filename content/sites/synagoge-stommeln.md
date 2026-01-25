@@ -13,7 +13,7 @@ regions:
 latitude: 51.0198
 longitude: 6.75887
 images:
-  - "/images-sites/synagoge-stommeln/01-d74fb78e-800w.webp"
+  - "/images/synagoge-stommeln/01-d74fb78e-800w.webp"
 ---
 
 ## Overview

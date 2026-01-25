@@ -13,9 +13,9 @@ regions:
 latitude: 48.80278
 longitude: 9.56521
 images:
-  - "/images-sites/urbach-tower/01-f9f56404-800w.webp"
-  - "/images-sites/urbach-tower/02-0dc51788-800w.webp"
-  - "/images-sites/urbach-tower/03-6c707f2c-800w.webp"
+  - "/images/urbach-tower/01-f9f56404-800w.webp"
+  - "/images/urbach-tower/02-0dc51788-800w.webp"
+  - "/images/urbach-tower/03-6c707f2c-800w.webp"
 ---
 
 ## Overview

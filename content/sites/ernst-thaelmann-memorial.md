@@ -1,20 +1,49 @@
 ---
-title: "Ernst Thälmann memorial"
+title: Ernst Thälmann memorial
 date: 2026-01-23
 draft: false
-description: "architectural structure in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: architectural structure in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5381
 longitude: 13.4339
 images:
-  - "/images-sites/ernst-thaelmann-memorial/02-b4b3f857-800w.webp"
-  - "/images-sites/ernst-thaelmann-memorial/03-5fa3a9d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg/1200px-Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg
+image_srcset:
+  Ernst Thälmann memorial relief Hans Kies FEZ Wuhlheide Berlin 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg/400px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg/800px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg/1920px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_04.jpg
+  Ernst Thälmann memorial relief Hans Kies FEZ Wuhlheide Berlin 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg/400px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg/800px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg/1920px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_03.jpg
+  Ernst Thälmann memorial relief Hans Kies FEZ Wuhlheide Berlin 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg/400px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg/800px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg/1920px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_02.jpg
+  Ernst Thälmann memorial relief Hans Kies FEZ Wuhlheide Berlin 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg/400px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg/800px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg/1200px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg/1920px-Ernst_Thälmann_memorial_relief_Hans_Kies_FEZ_Wuhlheide_Berlin_01.jpg
+  Relief An der Wuhlheide 171 (Obers) Denkmal für Ernst Thälmann&Hans Kies&1966.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg/400px-Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg/800px-Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg/1200px-Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg/1920px-Relief_An_der_Wuhlheide_171_(Obers)_Denkmal_für_Ernst_Thälmann&Hans_Kies&1966.jpg
 ---
 
 ## Overview

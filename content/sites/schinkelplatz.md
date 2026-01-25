@@ -13,7 +13,7 @@ regions:
 latitude: 52.5166
 longitude: 13.3982
 images:
-  - "/images-sites/schinkelplatz/01-c7fb4951-800w.webp"
+  - "/images/schinkelplatz/01-c7fb4951-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,50 @@
 ---
-title: "Ellwangen Abbey"
+title: Ellwangen Abbey
 date: 2026-01-23
 draft: false
-description: "abbey in Ellwangen (Jagst), Germany, and principality of the Holy Roman Empire"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey in Ellwangen (Jagst), Germany, and principality of the Holy Roman
+  Empire
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.96200035
 longitude: 10.13198179
 images:
-  - "/images-sites/ellwangen-abbey/02-7286913d-800w.webp"
-  - "/images-sites/ellwangen-abbey/03-667aa2f6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg/1200px-Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg/1200px-Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ellwangen_Kirche_3795.jpg/1200px-Ellwangen_Kirche_3795.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ellwangen_Kirche_3795-2.jpg/1200px-Ellwangen_Kirche_3795-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/1200px-Ellwangen_Vitus_1.jpg
+image_srcset:
+  Ellwangen - Altstadt - St. Vitus - südliches Querschiff und südlicher Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg/400px-Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg/800px-Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg/1200px-Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg/1920px-Ellwangen_-_Altstadt_-_St._Vitus_-_südliches_Querschiff_und_südlicher_Turm.jpg
+  Ellwangen - Altstadt - St. Vitus - Ansicht vom Marktplatz mit Abendsonne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg/400px-Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg/800px-Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg/1200px-Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg/1920px-Ellwangen_-_Altstadt_-_St._Vitus_-_Ansicht_vom_Marktplatz_mit_Abendsonne.jpg
+  Ellwangen Kirche 3795.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ellwangen_Kirche_3795.jpg/400px-Ellwangen_Kirche_3795.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ellwangen_Kirche_3795.jpg/800px-Ellwangen_Kirche_3795.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ellwangen_Kirche_3795.jpg/1200px-Ellwangen_Kirche_3795.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ellwangen_Kirche_3795.jpg/1920px-Ellwangen_Kirche_3795.jpg
+  Ellwangen Kirche 3795-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ellwangen_Kirche_3795-2.jpg/400px-Ellwangen_Kirche_3795-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ellwangen_Kirche_3795-2.jpg/800px-Ellwangen_Kirche_3795-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ellwangen_Kirche_3795-2.jpg/1200px-Ellwangen_Kirche_3795-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ellwangen_Kirche_3795-2.jpg/1920px-Ellwangen_Kirche_3795-2.jpg
+  Ellwangen Vitus 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/400px-Ellwangen_Vitus_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/800px-Ellwangen_Vitus_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/1200px-Ellwangen_Vitus_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ellwangen_Vitus_1.jpg/1920px-Ellwangen_Vitus_1.jpg
 ---
 
 ## Overview

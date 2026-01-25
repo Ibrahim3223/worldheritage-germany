@@ -13,9 +13,9 @@ regions:
 latitude: 51.350277777
 longitude: 7.9675
 images:
-  - "/images-sites/sorpe-dam/01-67564fdd-800w.webp"
-  - "/images-sites/sorpe-dam/02-d410edce-800w.webp"
-  - "/images-sites/sorpe-dam/03-2668c1a2-800w.webp"
+  - "/images/sorpe-dam/01-67564fdd-800w.webp"
+  - "/images/sorpe-dam/02-d410edce-800w.webp"
+  - "/images/sorpe-dam/03-2668c1a2-800w.webp"
 ---
 
 ## Overview

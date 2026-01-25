@@ -1,19 +1,43 @@
 ---
-title: "Breitlingsee"
+title: Breitlingsee
 date: 2026-01-23
 draft: false
-description: "lake in Brandenburg an der Havel, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Brandenburg an der Havel, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.386287
 longitude: 12.477894
 images:
-  - "/images-sites/breitlingsee/01-7d6ad78b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Breitlingsee-Kirchmöser_(2).jpg/1200px-Breitlingsee-Kirchmöser_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Breitlingsee-Kirchmöser_(1).jpg/1200px-Breitlingsee-Kirchmöser_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buhnenwerder_breitlingsee.JPG/1200px-Buhnenwerder_breitlingsee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Breitlingsee_Sonnenuntergang.jpg/1200px-Breitlingsee_Sonnenuntergang.jpg
+image_srcset:
+  Breitlingsee-Kirchmöser (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Breitlingsee-Kirchmöser_(2).jpg/400px-Breitlingsee-Kirchmöser_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Breitlingsee-Kirchmöser_(2).jpg/800px-Breitlingsee-Kirchmöser_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Breitlingsee-Kirchmöser_(2).jpg/1200px-Breitlingsee-Kirchmöser_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Breitlingsee-Kirchmöser_(2).jpg/1920px-Breitlingsee-Kirchmöser_(2).jpg
+  Breitlingsee-Kirchmöser (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Breitlingsee-Kirchmöser_(1).jpg/400px-Breitlingsee-Kirchmöser_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Breitlingsee-Kirchmöser_(1).jpg/800px-Breitlingsee-Kirchmöser_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Breitlingsee-Kirchmöser_(1).jpg/1200px-Breitlingsee-Kirchmöser_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Breitlingsee-Kirchmöser_(1).jpg/1920px-Breitlingsee-Kirchmöser_(1).jpg
+  Buhnenwerder breitlingsee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buhnenwerder_breitlingsee.JPG/400px-Buhnenwerder_breitlingsee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buhnenwerder_breitlingsee.JPG/800px-Buhnenwerder_breitlingsee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buhnenwerder_breitlingsee.JPG/1200px-Buhnenwerder_breitlingsee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Buhnenwerder_breitlingsee.JPG/1920px-Buhnenwerder_breitlingsee.JPG
+  Breitlingsee Sonnenuntergang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Breitlingsee_Sonnenuntergang.jpg/400px-Breitlingsee_Sonnenuntergang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Breitlingsee_Sonnenuntergang.jpg/800px-Breitlingsee_Sonnenuntergang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Breitlingsee_Sonnenuntergang.jpg/1200px-Breitlingsee_Sonnenuntergang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Breitlingsee_Sonnenuntergang.jpg/1920px-Breitlingsee_Sonnenuntergang.jpg
 ---
 
 ## Overview

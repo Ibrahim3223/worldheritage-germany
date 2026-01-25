@@ -13,8 +13,8 @@ regions:
 latitude: 51.1657
 longitude: 12.2532
 images:
-  - "/images-sites/pegau-abbey/02-4323f3bc-800w.webp"
-  - "/images-sites/pegau-abbey/03-b5b05fca-800w.webp"
+  - "/images/pegau-abbey/02-4323f3bc-800w.webp"
+  - "/images/pegau-abbey/03-b5b05fca-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hornisgrinde"
+title: Hornisgrinde
 date: 2026-01-23
 draft: false
-description: "Mountain in the Black Forrest"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: Mountain in the Black Forrest
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.606944444
 longitude: 8.2025
 images:
-  - "/images-sites/hornisgrinde/01-59f503c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hornisgrinde_2020-03-14_09.jpg/1200px-Hornisgrinde_2020-03-14_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hornisgrinde_2020-03-14_14.jpg/1200px-Hornisgrinde_2020-03-14_14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hornisgrinde_bog_2020-03-14_03.jpg/1200px-Hornisgrinde_bog_2020-03-14_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hornisgrinde_bog_2020-03-14_18.jpg/1200px-Hornisgrinde_bog_2020-03-14_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hornisgrinde-from-Hohloh-IMGP0125.jpg/1200px-Hornisgrinde-from-Hohloh-IMGP0125.jpg
+image_srcset:
+  Hornisgrinde 2020-03-14 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hornisgrinde_2020-03-14_09.jpg/400px-Hornisgrinde_2020-03-14_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hornisgrinde_2020-03-14_09.jpg/800px-Hornisgrinde_2020-03-14_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hornisgrinde_2020-03-14_09.jpg/1200px-Hornisgrinde_2020-03-14_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hornisgrinde_2020-03-14_09.jpg/1920px-Hornisgrinde_2020-03-14_09.jpg
+  Hornisgrinde 2020-03-14 14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hornisgrinde_2020-03-14_14.jpg/400px-Hornisgrinde_2020-03-14_14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hornisgrinde_2020-03-14_14.jpg/800px-Hornisgrinde_2020-03-14_14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hornisgrinde_2020-03-14_14.jpg/1200px-Hornisgrinde_2020-03-14_14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hornisgrinde_2020-03-14_14.jpg/1920px-Hornisgrinde_2020-03-14_14.jpg
+  Hornisgrinde bog 2020-03-14 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hornisgrinde_bog_2020-03-14_03.jpg/400px-Hornisgrinde_bog_2020-03-14_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hornisgrinde_bog_2020-03-14_03.jpg/800px-Hornisgrinde_bog_2020-03-14_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hornisgrinde_bog_2020-03-14_03.jpg/1200px-Hornisgrinde_bog_2020-03-14_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hornisgrinde_bog_2020-03-14_03.jpg/1920px-Hornisgrinde_bog_2020-03-14_03.jpg
+  Hornisgrinde bog 2020-03-14 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hornisgrinde_bog_2020-03-14_18.jpg/400px-Hornisgrinde_bog_2020-03-14_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hornisgrinde_bog_2020-03-14_18.jpg/800px-Hornisgrinde_bog_2020-03-14_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hornisgrinde_bog_2020-03-14_18.jpg/1200px-Hornisgrinde_bog_2020-03-14_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hornisgrinde_bog_2020-03-14_18.jpg/1920px-Hornisgrinde_bog_2020-03-14_18.jpg
+  Hornisgrinde-from-Hohloh-IMGP0125.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hornisgrinde-from-Hohloh-IMGP0125.jpg/400px-Hornisgrinde-from-Hohloh-IMGP0125.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hornisgrinde-from-Hohloh-IMGP0125.jpg/800px-Hornisgrinde-from-Hohloh-IMGP0125.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hornisgrinde-from-Hohloh-IMGP0125.jpg/1200px-Hornisgrinde-from-Hohloh-IMGP0125.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hornisgrinde-from-Hohloh-IMGP0125.jpg/1920px-Hornisgrinde-from-Hohloh-IMGP0125.jpg
 ---
 
 ## Overview

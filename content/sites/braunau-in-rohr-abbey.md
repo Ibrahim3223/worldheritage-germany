@@ -1,19 +1,43 @@
 ---
-title: "Braunau in Rohr Abbey"
+title: Braunau in Rohr Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.768888888
 longitude: 11.966944444
 images:
-  - "/images-sites/braunau-in-rohr-abbey/01-d12ff793-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Rohr,_2024.jpg/1200px-Kloster_Rohr,_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Rohr_Niederbayern.JPG/1200px-Kloster_Rohr_Niederbayern.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG/1200px-Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG
+image_srcset:
+  Kloster Rohr, 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Rohr,_2024.jpg/400px-Kloster_Rohr,_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Rohr,_2024.jpg/800px-Kloster_Rohr,_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Rohr,_2024.jpg/1200px-Kloster_Rohr,_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Rohr,_2024.jpg/1920px-Kloster_Rohr,_2024.jpg
+  Aerial image of the Braunau in Rohr Abbey (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg/400px-Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg/800px-Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Braunau_in_Rohr_Abbey_(view_from_the_south).jpg
+  Kloster Rohr Niederbayern.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Rohr_Niederbayern.JPG/400px-Kloster_Rohr_Niederbayern.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Rohr_Niederbayern.JPG/800px-Kloster_Rohr_Niederbayern.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Rohr_Niederbayern.JPG/1200px-Kloster_Rohr_Niederbayern.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Rohr_Niederbayern.JPG/1920px-Kloster_Rohr_Niederbayern.JPG
+  Kloster Rohr in Nby Detail Hochaltar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG/400px-Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG/800px-Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG/1200px-Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG/1920px-Kloster_Rohr_in_Nby_Detail_Hochaltar.JPG
 ---
 
 ## Overview

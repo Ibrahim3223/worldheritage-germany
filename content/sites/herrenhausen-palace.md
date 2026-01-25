@@ -1,23 +1,51 @@
 ---
-title: "Herrenhausen Palace"
-site_name: "Herrenhausen Palace"
-slug: "herrenhausen-palace"
-region: "Lower Saxony"
-
-# Location
+title: Herrenhausen Palace
+site_name: Herrenhausen Palace
+slug: herrenhausen-palace
+region: Lower Saxony
 latitude: 52.391388888889
 longitude: 9.6972222222222
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q48966707"
-description: "Herrenhausen Palace, a stunning example of Neoclassical architecture, offers visitors a glimpse into the grandeur of 17th-century royal life. Located in..."
+- cultural site
+wikidata_id: Q48966707
+description: Herrenhausen Palace, a stunning example of Neoclassical architecture,
+  offers visitors a glimpse into the grandeur of 17th-century royal life. Located
+  in...
 images:
-  - "/images-sites/herrenhausen-palace/01-65cb432e-1920w.webp"
-  - "/images-sites/herrenhausen-palace/02-967250d8-1920w.webp"
-  - "/images-sites/herrenhausen-palace/03-5d40e550-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg/1200px-Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2020-11-25_171753_Hannover_Orange_Day.jpg/1200px-2020-11-25_171753_Hannover_Orange_Day.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1200px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1200px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg/1200px-Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg
+image_srcset:
+  Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg/400px-Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg/800px-Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg/1200px-Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg/1920px-Hannover%20Schloss%20zu%20Herrenhausen%20%28um%201895%29.jpg
+  2020-11-25 171753 Hannover Orange Day.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2020-11-25_171753_Hannover_Orange_Day.jpg/400px-2020-11-25_171753_Hannover_Orange_Day.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2020-11-25_171753_Hannover_Orange_Day.jpg/800px-2020-11-25_171753_Hannover_Orange_Day.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2020-11-25_171753_Hannover_Orange_Day.jpg/1200px-2020-11-25_171753_Hannover_Orange_Day.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2020-11-25_171753_Hannover_Orange_Day.jpg/1920px-2020-11-25_171753_Hannover_Orange_Day.jpg
+  Aerial image of the Herrenhausen Gardens.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/400px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/800px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1200px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1920px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+  Hannover Schloss zu Herrenhausen (um 1895).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/400px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/800px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1200px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg/1920px-Hannover_Schloss_zu_Herrenhausen_(um_1895).jpg
+  Blick auf Schloss Herrenhausen in Hannover-Herrenhause.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg/400px-Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg/800px-Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg/1200px-Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg/1920px-Blick_auf_Schloss_Herrenhausen_in_Hannover-Herrenhause.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Zullenstein"
+title: Burg Zullenstein
 date: 2026-01-23
 draft: false
-description: "castle in Biblis, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Biblis, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.703502247
 longitude: 8.392147322
-
-# Images
 images:
-  - "/images-sites/burg-zullenstein/01-96e87e85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NSG_Steiner_Wald_Römische_Anlage.jpg/1200px-NSG_Steiner_Wald_Römische_Anlage.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burg_Stein_(Hessen)-03.jpg/1200px-Burg_Stein_(Hessen)-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Stein_01.jpg/1200px-Burg_Stein_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Stein_von_Matthäus_Merian.jpg/1200px-Burg_Stein_von_Matthäus_Merian.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Palatinatus_Rheni_(Merian)_213.jpg/1200px-Palatinatus_Rheni_(Merian)_213.jpg
+image_srcset:
+  NSG Steiner Wald Römische Anlage.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NSG_Steiner_Wald_Römische_Anlage.jpg/400px-NSG_Steiner_Wald_Römische_Anlage.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NSG_Steiner_Wald_Römische_Anlage.jpg/800px-NSG_Steiner_Wald_Römische_Anlage.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NSG_Steiner_Wald_Römische_Anlage.jpg/1200px-NSG_Steiner_Wald_Römische_Anlage.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NSG_Steiner_Wald_Römische_Anlage.jpg/1920px-NSG_Steiner_Wald_Römische_Anlage.jpg
+  Burg Stein (Hessen)-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burg_Stein_(Hessen)-03.jpg/400px-Burg_Stein_(Hessen)-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burg_Stein_(Hessen)-03.jpg/800px-Burg_Stein_(Hessen)-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burg_Stein_(Hessen)-03.jpg/1200px-Burg_Stein_(Hessen)-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burg_Stein_(Hessen)-03.jpg/1920px-Burg_Stein_(Hessen)-03.jpg
+  Burg Stein 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Stein_01.jpg/400px-Burg_Stein_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Stein_01.jpg/800px-Burg_Stein_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Stein_01.jpg/1200px-Burg_Stein_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Burg_Stein_01.jpg/1920px-Burg_Stein_01.jpg
+  Burg Stein von Matthäus Merian.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Stein_von_Matthäus_Merian.jpg/400px-Burg_Stein_von_Matthäus_Merian.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Stein_von_Matthäus_Merian.jpg/800px-Burg_Stein_von_Matthäus_Merian.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Stein_von_Matthäus_Merian.jpg/1200px-Burg_Stein_von_Matthäus_Merian.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Stein_von_Matthäus_Merian.jpg/1920px-Burg_Stein_von_Matthäus_Merian.jpg
+  Palatinatus Rheni (Merian) 213.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Palatinatus_Rheni_(Merian)_213.jpg/400px-Palatinatus_Rheni_(Merian)_213.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Palatinatus_Rheni_(Merian)_213.jpg/800px-Palatinatus_Rheni_(Merian)_213.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Palatinatus_Rheni_(Merian)_213.jpg/1200px-Palatinatus_Rheni_(Merian)_213.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Palatinatus_Rheni_(Merian)_213.jpg/1920px-Palatinatus_Rheni_(Merian)_213.jpg
 ---
 
 ## Overview

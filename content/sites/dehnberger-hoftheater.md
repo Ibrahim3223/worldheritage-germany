@@ -1,21 +1,43 @@
 ---
-title: "Dehnberger Hoftheater"
+title: Dehnberger Hoftheater
 date: 2026-01-24
 draft: false
-description: "theater in Franconia"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theater in Franconia
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 49.537482108
 longitude: 11.285726509
 images:
-  - "/images-sites/dehnberger-hoftheater/01-221102cf-800w.webp"
-  - "/images-sites/dehnberger-hoftheater/02-15d09144-800w.webp"
-  - "/images-sites/dehnberger-hoftheater/03-43df7787-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg/1200px-Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg
+image_srcset:
+  Dehnberg 14a Bauernhof, heute Dehnberger Hoftheater D-5-74-138-200 2017-08-05 19.22.45.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/400px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/800px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg/1920px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.45.jpg
+  Dehnberg 14a Bauernhof, heute Dehnberger Hoftheater D-5-74-138-200 2017-08-05 19.22.55.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg/400px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg/800px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg/1920px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.22.55.jpg
+  Dehnberg 14a Bauernhof, heute Dehnberger Hoftheater D-5-74-138-200 2017-08-05 19.24.39.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg/400px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg/800px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg/1200px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg/1920px-Dehnberg_14a_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.24.39.jpg
+  Dehnberg 14 Bauernhof, heute Dehnberger Hoftheater D-5-74-138-200 2017-08-05 19.23.07a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg/400px-Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg/800px-Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg/1200px-Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg/1920px-Dehnberg_14_Bauernhof,_heute_Dehnberger_Hoftheater_D-5-74-138-200_2017-08-05_19.23.07a.jpg
 ---
 
 ## Overview

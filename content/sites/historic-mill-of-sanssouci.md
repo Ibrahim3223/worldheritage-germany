@@ -1,19 +1,49 @@
 ---
-title: "Historic Mill of Sanssouci"
+title: Historic Mill of Sanssouci
 date: 2026-01-24
 draft: false
-description: "Reconstruction of a Dutch windmill west of Potsdam's Sanssouci Palace"
-region: "Germany"
-country: "Germany"
-heritage_type: "Windmill"
+description: Reconstruction of a Dutch windmill west of Potsdam's Sanssouci Palace
+region: Germany
+country: Germany
+heritage_type: Windmill
 categories:
-  - "Windmill"
+- Windmill
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4041
 longitude: 13.0356
 images:
-  - "/images-sites/historic-mill-of-sanssouci/01-de059c07-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20220810_Historische_Mühle_Sanssouci_01.jpg/1200px-20220810_Historische_Mühle_Sanssouci_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20220810_Historische_Mühle_Sanssouci_02.jpg/1200px-20220810_Historische_Mühle_Sanssouci_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Potsdamer_Schlössernacht_2023_08.jpg/1200px-Potsdamer_Schlössernacht_2023_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1200px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg/1200px-Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg
+image_srcset:
+  20220810 Historische Mühle Sanssouci 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20220810_Historische_Mühle_Sanssouci_01.jpg/400px-20220810_Historische_Mühle_Sanssouci_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20220810_Historische_Mühle_Sanssouci_01.jpg/800px-20220810_Historische_Mühle_Sanssouci_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20220810_Historische_Mühle_Sanssouci_01.jpg/1200px-20220810_Historische_Mühle_Sanssouci_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20220810_Historische_Mühle_Sanssouci_01.jpg/1920px-20220810_Historische_Mühle_Sanssouci_01.jpg
+  20220810 Historische Mühle Sanssouci 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20220810_Historische_Mühle_Sanssouci_02.jpg/400px-20220810_Historische_Mühle_Sanssouci_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20220810_Historische_Mühle_Sanssouci_02.jpg/800px-20220810_Historische_Mühle_Sanssouci_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20220810_Historische_Mühle_Sanssouci_02.jpg/1200px-20220810_Historische_Mühle_Sanssouci_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20220810_Historische_Mühle_Sanssouci_02.jpg/1920px-20220810_Historische_Mühle_Sanssouci_02.jpg
+  Potsdamer Schlössernacht 2023 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Potsdamer_Schlössernacht_2023_08.jpg/400px-Potsdamer_Schlössernacht_2023_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Potsdamer_Schlössernacht_2023_08.jpg/800px-Potsdamer_Schlössernacht_2023_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Potsdamer_Schlössernacht_2023_08.jpg/1200px-Potsdamer_Schlössernacht_2023_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Potsdamer_Schlössernacht_2023_08.jpg/1920px-Potsdamer_Schlössernacht_2023_08.jpg
+  20150524 Historic Mill of Sanssouci 7483.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/400px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/800px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1200px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/20150524_Historic_Mill_of_Sanssouci_7483.jpg/1920px-20150524_Historic_Mill_of_Sanssouci_7483.jpg
+  Schloss Sanssouci, Neue Kammern und Historische Mühle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg/400px-Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg/800px-Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg/1200px-Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg/1920px-Schloss_Sanssouci,_Neue_Kammern_und_Historische_Mühle.jpg
 ---
 
 ## Overview

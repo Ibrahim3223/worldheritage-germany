@@ -1,19 +1,49 @@
 ---
-title: "Buddenbrookhaus"
+title: Buddenbrookhaus
 date: 2026-01-23
 draft: false
-description: "museum in Lübeck, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: museum in Lübeck, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8683
 longitude: 10.6858
 images:
-  - "/images-sites/buddenbrookhaus/01-ac7f4943-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lübeck,_Buddenbrookhaus.jpg/1200px-Lübeck,_Buddenbrookhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg/1200px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg/1200px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg/1200px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1200px-Lübeck_Buddenbrookhaus_070311.jpg
+image_srcset:
+  Lübeck, Buddenbrookhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lübeck,_Buddenbrookhaus.jpg/400px-Lübeck,_Buddenbrookhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lübeck,_Buddenbrookhaus.jpg/800px-Lübeck,_Buddenbrookhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lübeck,_Buddenbrookhaus.jpg/1200px-Lübeck,_Buddenbrookhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lübeck,_Buddenbrookhaus.jpg/1920px-Lübeck,_Buddenbrookhaus.jpg
+  Lübeck, Mengstraße, Buddenbrookhaus -- 2017 -- 0479.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg/400px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg/800px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg/1200px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg/1920px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0479.jpg
+  Lübeck, Mengstraße, Buddenbrookhaus -- 2017 -- 0482.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg/400px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg/800px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg/1200px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg/1920px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0482.jpg
+  Lübeck, Mengstraße, Buddenbrookhaus -- 2017 -- 0480.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg/400px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg/800px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg/1200px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg/1920px-Lübeck,_Mengstraße,_Buddenbrookhaus_--_2017_--_0480.jpg
+  Lübeck Buddenbrookhaus 070311.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/400px-Lübeck_Buddenbrookhaus_070311.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/800px-Lübeck_Buddenbrookhaus_070311.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1200px-Lübeck_Buddenbrookhaus_070311.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lübeck_Buddenbrookhaus_070311.jpg/1920px-Lübeck_Buddenbrookhaus_070311.jpg
 ---
 
 ## Overview

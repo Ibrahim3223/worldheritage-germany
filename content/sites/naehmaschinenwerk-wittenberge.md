@@ -13,9 +13,9 @@ regions:
 latitude: 52.9911
 longitude: 11.7684
 images:
-  - "/images-sites/naehmaschinenwerk-wittenberge/01-c534573d-800w.webp"
-  - "/images-sites/naehmaschinenwerk-wittenberge/02-6ad6a253-800w.webp"
-  - "/images-sites/naehmaschinenwerk-wittenberge/03-702af897-800w.webp"
+  - "/images/naehmaschinenwerk-wittenberge/01-c534573d-800w.webp"
+  - "/images/naehmaschinenwerk-wittenberge/02-6ad6a253-800w.webp"
+  - "/images/naehmaschinenwerk-wittenberge/03-702af897-800w.webp"
 ---
 
 ## Overview

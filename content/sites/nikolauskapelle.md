@@ -13,7 +13,7 @@ regions:
 latitude: 50.8969
 longitude: 7.0161
 images:
-  - "/images-sites/nikolauskapelle/01-8da0b917-800w.webp"
+  - "/images/nikolauskapelle/01-8da0b917-800w.webp"
 ---
 
 ## Overview

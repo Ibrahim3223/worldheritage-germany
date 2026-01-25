@@ -13,9 +13,9 @@ regions:
 latitude: 50.903305555
 longitude: 14.121083333
 images:
-  - "/images-sites/papststein/01-77320835-800w.webp"
-  - "/images-sites/papststein/02-e414fbfb-800w.webp"
-  - "/images-sites/papststein/03-33997321-800w.webp"
+  - "/images/papststein/01-77320835-800w.webp"
+  - "/images/papststein/02-e414fbfb-800w.webp"
+  - "/images/papststein/03-33997321-800w.webp"
 ---
 
 ## Overview

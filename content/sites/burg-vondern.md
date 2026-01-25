@@ -1,27 +1,49 @@
 ---
-title: "Burg Vondern"
+title: Burg Vondern
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.498888888
 longitude: 6.906666666
-
-# Images
 images:
-  - "/images-sites/burg-vondern/01-f10c9585-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg-Vondern-Durchgang-2013.jpg/1200px-Burg-Vondern-Durchgang-2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg-Vondern-Westen-vom-Weg-2013.jpg/1200px-Burg-Vondern-Westen-vom-Weg-2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg-Vondern-Steintafel-2013.jpg/1200px-Burg-Vondern-Steintafel-2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Vondern-Westen-2013.jpg/1200px-Burg-Vondern-Westen-2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Vondern-Haupthaus-2013.jpg/1200px-Burg-Vondern-Haupthaus-2013.jpg
+image_srcset:
+  Burg-Vondern-Durchgang-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg-Vondern-Durchgang-2013.jpg/400px-Burg-Vondern-Durchgang-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg-Vondern-Durchgang-2013.jpg/800px-Burg-Vondern-Durchgang-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg-Vondern-Durchgang-2013.jpg/1200px-Burg-Vondern-Durchgang-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burg-Vondern-Durchgang-2013.jpg/1920px-Burg-Vondern-Durchgang-2013.jpg
+  Burg-Vondern-Westen-vom-Weg-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg-Vondern-Westen-vom-Weg-2013.jpg/400px-Burg-Vondern-Westen-vom-Weg-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg-Vondern-Westen-vom-Weg-2013.jpg/800px-Burg-Vondern-Westen-vom-Weg-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg-Vondern-Westen-vom-Weg-2013.jpg/1200px-Burg-Vondern-Westen-vom-Weg-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg-Vondern-Westen-vom-Weg-2013.jpg/1920px-Burg-Vondern-Westen-vom-Weg-2013.jpg
+  Burg-Vondern-Steintafel-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg-Vondern-Steintafel-2013.jpg/400px-Burg-Vondern-Steintafel-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg-Vondern-Steintafel-2013.jpg/800px-Burg-Vondern-Steintafel-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg-Vondern-Steintafel-2013.jpg/1200px-Burg-Vondern-Steintafel-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Burg-Vondern-Steintafel-2013.jpg/1920px-Burg-Vondern-Steintafel-2013.jpg
+  Burg-Vondern-Westen-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Vondern-Westen-2013.jpg/400px-Burg-Vondern-Westen-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Vondern-Westen-2013.jpg/800px-Burg-Vondern-Westen-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Vondern-Westen-2013.jpg/1200px-Burg-Vondern-Westen-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Vondern-Westen-2013.jpg/1920px-Burg-Vondern-Westen-2013.jpg
+  Burg-Vondern-Haupthaus-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Vondern-Haupthaus-2013.jpg/400px-Burg-Vondern-Haupthaus-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Vondern-Haupthaus-2013.jpg/800px-Burg-Vondern-Haupthaus-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Vondern-Haupthaus-2013.jpg/1200px-Burg-Vondern-Haupthaus-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Vondern-Haupthaus-2013.jpg/1920px-Burg-Vondern-Haupthaus-2013.jpg
 ---
 
 ## Overview

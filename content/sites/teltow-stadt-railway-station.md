@@ -13,7 +13,7 @@ regions:
 latitude: 52.3969
 longitude: 13.2767
 images:
-  - "/images-sites/teltow-stadt-railway-station/01-2cbe51ba-800w.webp"
+  - "/images/teltow-stadt-railway-station/01-2cbe51ba-800w.webp"
 ---
 
 ## Overview

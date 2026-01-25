@@ -1,19 +1,49 @@
 ---
-title: "Heinse-Haus in Langewiesen"
+title: Heinse-Haus in Langewiesen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6712258
 longitude: 10.9741038
 images:
-  - "/images-sites/heinse-haus-in-langewiesen/01-e65a2d0e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Exhibition_Heinse_in_Langewiesen.JPG/1200px-Exhibition_Heinse_in_Langewiesen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Porcelain_exhibition_Langewiesen.JPG/1200px-Porcelain_exhibition_Langewiesen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Langewiesen-haus-am-markt-2013-001.JPG/1200px-Langewiesen-haus-am-markt-2013-001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1200px-Langewiesen-heinse-geburtshaus-2013-001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Heinsehaus_Langewiesen.JPG/1200px-Heinsehaus_Langewiesen.JPG
+image_srcset:
+  Exhibition Heinse in Langewiesen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Exhibition_Heinse_in_Langewiesen.JPG/400px-Exhibition_Heinse_in_Langewiesen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Exhibition_Heinse_in_Langewiesen.JPG/800px-Exhibition_Heinse_in_Langewiesen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Exhibition_Heinse_in_Langewiesen.JPG/1200px-Exhibition_Heinse_in_Langewiesen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Exhibition_Heinse_in_Langewiesen.JPG/1920px-Exhibition_Heinse_in_Langewiesen.JPG
+  Porcelain exhibition Langewiesen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Porcelain_exhibition_Langewiesen.JPG/400px-Porcelain_exhibition_Langewiesen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Porcelain_exhibition_Langewiesen.JPG/800px-Porcelain_exhibition_Langewiesen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Porcelain_exhibition_Langewiesen.JPG/1200px-Porcelain_exhibition_Langewiesen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Porcelain_exhibition_Langewiesen.JPG/1920px-Porcelain_exhibition_Langewiesen.JPG
+  Langewiesen-haus-am-markt-2013-001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Langewiesen-haus-am-markt-2013-001.JPG/400px-Langewiesen-haus-am-markt-2013-001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Langewiesen-haus-am-markt-2013-001.JPG/800px-Langewiesen-haus-am-markt-2013-001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Langewiesen-haus-am-markt-2013-001.JPG/1200px-Langewiesen-haus-am-markt-2013-001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Langewiesen-haus-am-markt-2013-001.JPG/1920px-Langewiesen-haus-am-markt-2013-001.JPG
+  Langewiesen-heinse-geburtshaus-2013-001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/400px-Langewiesen-heinse-geburtshaus-2013-001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/800px-Langewiesen-heinse-geburtshaus-2013-001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1200px-Langewiesen-heinse-geburtshaus-2013-001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Langewiesen-heinse-geburtshaus-2013-001.JPG/1920px-Langewiesen-heinse-geburtshaus-2013-001.JPG
+  Heinsehaus Langewiesen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Heinsehaus_Langewiesen.JPG/400px-Heinsehaus_Langewiesen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Heinsehaus_Langewiesen.JPG/800px-Heinsehaus_Langewiesen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Heinsehaus_Langewiesen.JPG/1200px-Heinsehaus_Langewiesen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Heinsehaus_Langewiesen.JPG/1920px-Heinsehaus_Langewiesen.JPG
 ---
 
 ## Overview

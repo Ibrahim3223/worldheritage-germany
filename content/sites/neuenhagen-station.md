@@ -13,7 +13,7 @@ regions:
 latitude: 52.5208
 longitude: 13.7003
 images:
-  - "/images-sites/neuenhagen-station/01-17c4d81b-800w.webp"
+  - "/images/neuenhagen-station/01-17c4d81b-800w.webp"
 ---
 
 ## Overview

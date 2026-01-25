@@ -13,7 +13,7 @@ regions:
 latitude: 50.943888888
 longitude: 6.029166666
 images:
-  - "/images-sites/teverener-heide/01-b4561bd5-800w.webp"
+  - "/images/teverener-heide/01-b4561bd5-800w.webp"
 ---
 
 ## Overview

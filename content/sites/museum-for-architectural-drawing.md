@@ -13,7 +13,7 @@ regions:
 latitude: 52.532071
 longitude: 13.410031
 images:
-  - "/images-sites/museum-for-architectural-drawing/01-45a722ba-800w.webp"
+  - "/images/museum-for-architectural-drawing/01-45a722ba-800w.webp"
 ---
 
 ## Overview

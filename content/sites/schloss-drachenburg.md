@@ -13,7 +13,7 @@ regions:
 latitude: 50.6686729
 longitude: 7.2063442
 images:
-  - "/images-sites/schloss-drachenburg/01-95f4127d-800w.webp"
+  - "/images/schloss-drachenburg/01-95f4127d-800w.webp"
 ---
 
 ## Overview

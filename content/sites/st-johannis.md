@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1443382"
 description: "St. Johannis, a striking Gothic Revival church located in Brunswick, Germany, captures the imagination of visitors with its architectural elegance and h..."
 images:
-  - "/images-sites/st-johannis/01-2d84a38f-1920w.webp"
-  - "/images-sites/st-johannis/01-8317531f-1920w.webp"
-  - "/images-sites/st-johannis/02-32216446-1920w.webp"
+  - "/images/st-johannis/01-2d84a38f-1920w.webp"
+  - "/images/st-johannis/01-8317531f-1920w.webp"
+  - "/images/st-johannis/02-32216446-1920w.webp"
 ---
 
 ## Overview

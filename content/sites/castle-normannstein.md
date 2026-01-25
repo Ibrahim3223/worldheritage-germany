@@ -1,27 +1,49 @@
 ---
-title: "Castle Normannstein"
+title: Castle Normannstein
 date: 2026-01-23
 draft: false
-description: "Ruin in Treffurt, Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Ruin in Treffurt, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1406
 longitude: 10.2375
-
-# Images
 images:
-  - "/images-sites/castle-normannstein/01-01371cb3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg/1200px-View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg/1200px-Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg/1200px-Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg/1200px-Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Treffurt_-_5Pf._1920.jpg/1200px-Treffurt_-_5Pf._1920.jpg
+image_srcset:
+  View from Burg Normannstein into the valley of Treffurt 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg/400px-View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg/800px-View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg/1200px-View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg/1920px-View_from_Burg_Normannstein_into_the_valley_of_Treffurt_3.jpg
+  Castle Normannstein in Treffurt, Thuringia 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg/400px-Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg/800px-Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg/1200px-Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg/1920px-Castle_Normannstein_in_Treffurt,_Thuringia_6.jpg
+  Burg Normannstein Treffurt Suedansicht werra 2008 zoom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg/400px-Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg/800px-Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg/1200px-Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg/1920px-Burg_Normannstein_Treffurt_Suedansicht_werra_2008_zoom.jpg
+  Castle Normannstein in Treffurt, Thuringia 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg/400px-Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg/800px-Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg/1200px-Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg/1920px-Castle_Normannstein_in_Treffurt,_Thuringia_10.jpg
+  Treffurt - 5Pf. 1920.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Treffurt_-_5Pf._1920.jpg/400px-Treffurt_-_5Pf._1920.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Treffurt_-_5Pf._1920.jpg/800px-Treffurt_-_5Pf._1920.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Treffurt_-_5Pf._1920.jpg/1200px-Treffurt_-_5Pf._1920.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Treffurt_-_5Pf._1920.jpg/1920px-Treffurt_-_5Pf._1920.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.412672222
 longitude: 13.06975
 images:
-  - "/images-sites/marmorpalais/01-51f525f3-800w.webp"
+  - "/images/marmorpalais/01-51f525f3-800w.webp"
 ---
 
 ## Overview

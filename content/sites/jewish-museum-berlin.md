@@ -1,21 +1,49 @@
 ---
-title: "Jewish Museum Berlin"
+title: Jewish Museum Berlin
 date: 2026-01-23
 draft: false
-description: "museum in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: museum in Berlin
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.502312
 longitude: 13.395447
 images:
-  - "/images-sites/jewish-museum-berlin/01-745bbd82-800w.webp"
-  - "/images-sites/jewish-museum-berlin/02-5f8cab1c-800w.webp"
-  - "/images-sites/jewish-museum-berlin/03-511b8045-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1200px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png/1200px-Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzberg_JMB_Eingang_ANOHA-001.jpg/1200px-Kreuzberg_JMB_Eingang_ANOHA-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuzberg_JMB_Eingang_ANOHA.jpg/1200px-Kreuzberg_JMB_Eingang_ANOHA.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JewishMuseumBerlinAerial.jpg/1200px-JewishMuseumBerlinAerial.jpg
+image_srcset:
+  Berlin Jüdisches Museum und der Libeskind-Bau (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/400px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/800px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1200px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg/1920px-Berlin_Jüdisches_Museum_und_der_Libeskind-Bau_(cropped).jpg
+  Faultier anoha blumenthal-akademie f-u-m-mendelssohn-platz 2021-10-02.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png/400px-Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png/800px-Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png/1200px-Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png/1920px-Faultier_anoha_blumenthal-akademie_f-u-m-mendelssohn-platz_2021-10-02.png
+  Kreuzberg JMB Eingang ANOHA-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzberg_JMB_Eingang_ANOHA-001.jpg/400px-Kreuzberg_JMB_Eingang_ANOHA-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzberg_JMB_Eingang_ANOHA-001.jpg/800px-Kreuzberg_JMB_Eingang_ANOHA-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzberg_JMB_Eingang_ANOHA-001.jpg/1200px-Kreuzberg_JMB_Eingang_ANOHA-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzberg_JMB_Eingang_ANOHA-001.jpg/1920px-Kreuzberg_JMB_Eingang_ANOHA-001.jpg
+  Kreuzberg JMB Eingang ANOHA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuzberg_JMB_Eingang_ANOHA.jpg/400px-Kreuzberg_JMB_Eingang_ANOHA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuzberg_JMB_Eingang_ANOHA.jpg/800px-Kreuzberg_JMB_Eingang_ANOHA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuzberg_JMB_Eingang_ANOHA.jpg/1200px-Kreuzberg_JMB_Eingang_ANOHA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuzberg_JMB_Eingang_ANOHA.jpg/1920px-Kreuzberg_JMB_Eingang_ANOHA.jpg
+  JewishMuseumBerlinAerial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JewishMuseumBerlinAerial.jpg/400px-JewishMuseumBerlinAerial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JewishMuseumBerlinAerial.jpg/800px-JewishMuseumBerlinAerial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JewishMuseumBerlinAerial.jpg/1200px-JewishMuseumBerlinAerial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JewishMuseumBerlinAerial.jpg/1920px-JewishMuseumBerlinAerial.jpg
 ---
 
 ## Overview

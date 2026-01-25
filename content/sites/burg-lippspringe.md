@@ -1,27 +1,49 @@
 ---
-title: "Burg Lippspringe"
+title: Burg Lippspringe
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.7812
 longitude: 8.82251
-
-# Images
 images:
-  - "/images-sites/burg-lippspringe/01-bbc09149-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg/1200px-Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/1200px-BurgLippspringe02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ludorff-PB-Lippspringe-Burg-1.jpg/1200px-Ludorff-PB-Lippspringe-Burg-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BurgLippspringe01.jpg/1200px-BurgLippspringe01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludorff-PB-Lippspringe-Burg-2.jpg/1200px-Ludorff-PB-Lippspringe-Burg-2.jpg
+image_srcset:
+  Bad Lippspringe - 2015-10-23 - Burg (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg/400px-Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg/800px-Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg/1200px-Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg/1920px-Bad_Lippspringe_-_2015-10-23_-_Burg_(01).jpg
+  BurgLippspringe02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/400px-BurgLippspringe02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/800px-BurgLippspringe02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/1200px-BurgLippspringe02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BurgLippspringe02.jpg/1920px-BurgLippspringe02.jpg
+  Ludorff-PB-Lippspringe-Burg-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ludorff-PB-Lippspringe-Burg-1.jpg/400px-Ludorff-PB-Lippspringe-Burg-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ludorff-PB-Lippspringe-Burg-1.jpg/800px-Ludorff-PB-Lippspringe-Burg-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ludorff-PB-Lippspringe-Burg-1.jpg/1200px-Ludorff-PB-Lippspringe-Burg-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ludorff-PB-Lippspringe-Burg-1.jpg/1920px-Ludorff-PB-Lippspringe-Burg-1.jpg
+  BurgLippspringe01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BurgLippspringe01.jpg/400px-BurgLippspringe01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BurgLippspringe01.jpg/800px-BurgLippspringe01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BurgLippspringe01.jpg/1200px-BurgLippspringe01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BurgLippspringe01.jpg/1920px-BurgLippspringe01.jpg
+  Ludorff-PB-Lippspringe-Burg-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludorff-PB-Lippspringe-Burg-2.jpg/400px-Ludorff-PB-Lippspringe-Burg-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludorff-PB-Lippspringe-Burg-2.jpg/800px-Ludorff-PB-Lippspringe-Burg-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludorff-PB-Lippspringe-Burg-2.jpg/1200px-Ludorff-PB-Lippspringe-Burg-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ludorff-PB-Lippspringe-Burg-2.jpg/1920px-Ludorff-PB-Lippspringe-Burg-2.jpg
 ---
 
 ## Overview

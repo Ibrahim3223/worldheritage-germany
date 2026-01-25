@@ -1,21 +1,49 @@
 ---
-title: "Deichvorland bei Grieth mit Kalflack"
+title: Deichvorland bei Grieth mit Kalflack
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.810277777
 longitude: 6.281111111
 images:
-  - "/images-sites/deichvorland-bei-grieth-mit-kalflack/01-3afe1b8a-800w.webp"
-  - "/images-sites/deichvorland-bei-grieth-mit-kalflack/02-0d0e6cbd-800w.webp"
-  - "/images-sites/deichvorland-bei-grieth-mit-kalflack/03-2427df79-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deichvorland_bei_Grieth_PM240605_01.jpg/1200px-Deichvorland_bei_Grieth_PM240605_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deichvorland_bei_Grieth_PM240605_02.jpg/1200px-Deichvorland_bei_Grieth_PM240605_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Deichvorland_bei_Grieth_PM240605_03.jpg/1200px-Deichvorland_bei_Grieth_PM240605_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Deichvorland_bei_Grieth_PM240605_04.jpg/1200px-Deichvorland_bei_Grieth_PM240605_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg/1200px-Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg
+image_srcset:
+  Deichvorland bei Grieth PM240605 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deichvorland_bei_Grieth_PM240605_01.jpg/400px-Deichvorland_bei_Grieth_PM240605_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deichvorland_bei_Grieth_PM240605_01.jpg/800px-Deichvorland_bei_Grieth_PM240605_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deichvorland_bei_Grieth_PM240605_01.jpg/1200px-Deichvorland_bei_Grieth_PM240605_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Deichvorland_bei_Grieth_PM240605_01.jpg/1920px-Deichvorland_bei_Grieth_PM240605_01.jpg
+  Deichvorland bei Grieth PM240605 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deichvorland_bei_Grieth_PM240605_02.jpg/400px-Deichvorland_bei_Grieth_PM240605_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deichvorland_bei_Grieth_PM240605_02.jpg/800px-Deichvorland_bei_Grieth_PM240605_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deichvorland_bei_Grieth_PM240605_02.jpg/1200px-Deichvorland_bei_Grieth_PM240605_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deichvorland_bei_Grieth_PM240605_02.jpg/1920px-Deichvorland_bei_Grieth_PM240605_02.jpg
+  Deichvorland bei Grieth PM240605 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Deichvorland_bei_Grieth_PM240605_03.jpg/400px-Deichvorland_bei_Grieth_PM240605_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Deichvorland_bei_Grieth_PM240605_03.jpg/800px-Deichvorland_bei_Grieth_PM240605_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Deichvorland_bei_Grieth_PM240605_03.jpg/1200px-Deichvorland_bei_Grieth_PM240605_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Deichvorland_bei_Grieth_PM240605_03.jpg/1920px-Deichvorland_bei_Grieth_PM240605_03.jpg
+  Deichvorland bei Grieth PM240605 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Deichvorland_bei_Grieth_PM240605_04.jpg/400px-Deichvorland_bei_Grieth_PM240605_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Deichvorland_bei_Grieth_PM240605_04.jpg/800px-Deichvorland_bei_Grieth_PM240605_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Deichvorland_bei_Grieth_PM240605_04.jpg/1200px-Deichvorland_bei_Grieth_PM240605_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Deichvorland_bei_Grieth_PM240605_04.jpg/1920px-Deichvorland_bei_Grieth_PM240605_04.jpg
+  Kalkar Rheinuferstraße Fangbucht an der Kalflak PM20-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg/400px-Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg/800px-Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg/1200px-Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg/1920px-Kalkar_Rheinuferstraße_Fangbucht_an_der_Kalflak_PM20-03.jpg
 ---
 
 ## Overview

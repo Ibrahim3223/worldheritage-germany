@@ -1,19 +1,49 @@
 ---
-title: "Dillenburg station"
+title: Dillenburg station
 date: 2026-01-23
 draft: false
-description: "railway station in Dillenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Dillenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.735
 longitude: 8.29444
 images:
-  - "/images-sites/dillenburg-station/01-a873fc7f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dillenburg_station_2016.jpg/1200px-Dillenburg_station_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dillenburg_station_trein.JPG/1200px-Dillenburg_station_trein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HLB_in_Dillenburg_station.jpg/1200px-HLB_in_Dillenburg_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/1200px-Bf_Dillenburg_23082002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg/1200px-Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg
+image_srcset:
+  Dillenburg station 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dillenburg_station_2016.jpg/400px-Dillenburg_station_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dillenburg_station_2016.jpg/800px-Dillenburg_station_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dillenburg_station_2016.jpg/1200px-Dillenburg_station_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dillenburg_station_2016.jpg/1920px-Dillenburg_station_2016.jpg
+  Dillenburg station trein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dillenburg_station_trein.JPG/400px-Dillenburg_station_trein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dillenburg_station_trein.JPG/800px-Dillenburg_station_trein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dillenburg_station_trein.JPG/1200px-Dillenburg_station_trein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dillenburg_station_trein.JPG/1920px-Dillenburg_station_trein.JPG
+  HLB in Dillenburg station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HLB_in_Dillenburg_station.jpg/400px-HLB_in_Dillenburg_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HLB_in_Dillenburg_station.jpg/800px-HLB_in_Dillenburg_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HLB_in_Dillenburg_station.jpg/1200px-HLB_in_Dillenburg_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HLB_in_Dillenburg_station.jpg/1920px-HLB_in_Dillenburg_station.jpg
+  Bf Dillenburg 23082002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/400px-Bf_Dillenburg_23082002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/800px-Bf_Dillenburg_23082002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/1200px-Bf_Dillenburg_23082002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bf_Dillenburg_23082002.jpg/1920px-Bf_Dillenburg_23082002.jpg
+  Bahnhof in Dillenburg - geo.hlipp.de - 36635.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg/400px-Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg/800px-Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg/1200px-Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg/1920px-Bahnhof_in_Dillenburg_-_geo.hlipp.de_-_36635.jpg
 ---
 
 ## Overview

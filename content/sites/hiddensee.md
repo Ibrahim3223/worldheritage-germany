@@ -1,19 +1,49 @@
 ---
-title: "Hiddensee"
+title: Hiddensee
 date: 2026-01-23
 draft: false
-description: "island in the Baltic Sea"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in the Baltic Sea
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.568008
 longitude: 13.105547
 images:
-  - "/images-sites/hiddensee/01-796fe4bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiddensee_asv2022-08_img05_Gellen_Strand.jpg/1200px-Hiddensee_asv2022-08_img05_Gellen_Strand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg/1200px-Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hiddensee_Leuchtturm_Ostseestrand.jpg/1200px-Hiddensee_Leuchtturm_Ostseestrand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiddensee_Leuchtturm_Vitter_Bodden.jpg/1200px-Hiddensee_Leuchtturm_Vitter_Bodden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hiddensee_Leuchtturm_vom_Wasser.jpg/1200px-Hiddensee_Leuchtturm_vom_Wasser.jpg
+image_srcset:
+  Hiddensee asv2022-08 img05 Gellen Strand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiddensee_asv2022-08_img05_Gellen_Strand.jpg/400px-Hiddensee_asv2022-08_img05_Gellen_Strand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiddensee_asv2022-08_img05_Gellen_Strand.jpg/800px-Hiddensee_asv2022-08_img05_Gellen_Strand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiddensee_asv2022-08_img05_Gellen_Strand.jpg/1200px-Hiddensee_asv2022-08_img05_Gellen_Strand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hiddensee_asv2022-08_img05_Gellen_Strand.jpg/1920px-Hiddensee_asv2022-08_img05_Gellen_Strand.jpg
+  Hiddensee asv2022-08 img30 Aasriege Kormorane.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg/400px-Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg/800px-Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg/1200px-Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg/1920px-Hiddensee_asv2022-08_img30_Aasriege_Kormorane.jpg
+  Hiddensee Leuchtturm Ostseestrand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hiddensee_Leuchtturm_Ostseestrand.jpg/400px-Hiddensee_Leuchtturm_Ostseestrand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hiddensee_Leuchtturm_Ostseestrand.jpg/800px-Hiddensee_Leuchtturm_Ostseestrand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hiddensee_Leuchtturm_Ostseestrand.jpg/1200px-Hiddensee_Leuchtturm_Ostseestrand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hiddensee_Leuchtturm_Ostseestrand.jpg/1920px-Hiddensee_Leuchtturm_Ostseestrand.jpg
+  Hiddensee Leuchtturm Vitter Bodden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiddensee_Leuchtturm_Vitter_Bodden.jpg/400px-Hiddensee_Leuchtturm_Vitter_Bodden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiddensee_Leuchtturm_Vitter_Bodden.jpg/800px-Hiddensee_Leuchtturm_Vitter_Bodden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiddensee_Leuchtturm_Vitter_Bodden.jpg/1200px-Hiddensee_Leuchtturm_Vitter_Bodden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hiddensee_Leuchtturm_Vitter_Bodden.jpg/1920px-Hiddensee_Leuchtturm_Vitter_Bodden.jpg
+  Hiddensee Leuchtturm vom Wasser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hiddensee_Leuchtturm_vom_Wasser.jpg/400px-Hiddensee_Leuchtturm_vom_Wasser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hiddensee_Leuchtturm_vom_Wasser.jpg/800px-Hiddensee_Leuchtturm_vom_Wasser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hiddensee_Leuchtturm_vom_Wasser.jpg/1200px-Hiddensee_Leuchtturm_vom_Wasser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hiddensee_Leuchtturm_vom_Wasser.jpg/1920px-Hiddensee_Leuchtturm_vom_Wasser.jpg
 ---
 
 ## Overview

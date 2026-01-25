@@ -1,19 +1,44 @@
 ---
-title: "Hl. Drei Könige Garbeck"
-site_name: "Hl. Drei Könige Garbeck"
-slug: "hl-drei-konige-garbeck"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Hl. Drei Könige Garbeck
+site_name: Hl. Drei Könige Garbeck
+slug: hl-drei-konige-garbeck
+region: North Rhine-Westphalia
 latitude: 51.3179
 longitude: 7.82903
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1621385"
-description: "In the heart of Balve, Germany, the Hl. Drei Könige Garbeck church presents a striking example of Gothic Revival architecture. This architectural struct..."
+- cultural site
+wikidata_id: Q1621385
+description: In the heart of Balve, Germany, the Hl. Drei Könige Garbeck church presents
+  a striking example of Gothic Revival architecture. This architectural struct...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1200px-Balve-Garbeck-Kirche1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Garbeck_Kirche_Südseite_2.jpg/1200px-Garbeck_Kirche_Südseite_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garbeck_Kirche_Südseite_Nacht_2.jpg/1200px-Garbeck_Kirche_Südseite_Nacht_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Garbeck_Kirche_von_Südwesten_nah.jpg/1200px-Garbeck_Kirche_von_Südwesten_nah.jpg
+image_srcset:
+  Balve-Garbeck-Kirche1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/400px-Balve-Garbeck-Kirche1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/800px-Balve-Garbeck-Kirche1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1200px-Balve-Garbeck-Kirche1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Balve-Garbeck-Kirche1-Asio.JPG/1920px-Balve-Garbeck-Kirche1-Asio.JPG
+  Garbeck Kirche Südseite 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Garbeck_Kirche_Südseite_2.jpg/400px-Garbeck_Kirche_Südseite_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Garbeck_Kirche_Südseite_2.jpg/800px-Garbeck_Kirche_Südseite_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Garbeck_Kirche_Südseite_2.jpg/1200px-Garbeck_Kirche_Südseite_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Garbeck_Kirche_Südseite_2.jpg/1920px-Garbeck_Kirche_Südseite_2.jpg
+  Garbeck Kirche Südseite Nacht 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garbeck_Kirche_Südseite_Nacht_2.jpg/400px-Garbeck_Kirche_Südseite_Nacht_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garbeck_Kirche_Südseite_Nacht_2.jpg/800px-Garbeck_Kirche_Südseite_Nacht_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garbeck_Kirche_Südseite_Nacht_2.jpg/1200px-Garbeck_Kirche_Südseite_Nacht_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Garbeck_Kirche_Südseite_Nacht_2.jpg/1920px-Garbeck_Kirche_Südseite_Nacht_2.jpg
+  Garbeck Kirche von Südwesten nah.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Garbeck_Kirche_von_Südwesten_nah.jpg/400px-Garbeck_Kirche_von_Südwesten_nah.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Garbeck_Kirche_von_Südwesten_nah.jpg/800px-Garbeck_Kirche_von_Südwesten_nah.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Garbeck_Kirche_von_Südwesten_nah.jpg/1200px-Garbeck_Kirche_von_Südwesten_nah.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Garbeck_Kirche_von_Südwesten_nah.jpg/1920px-Garbeck_Kirche_von_Südwesten_nah.jpg
 ---
 
 ## Overview

@@ -21,8 +21,8 @@ longitude: 6.73262
 
 # Images
 images:
-  - "/images-sites/kerpen-castle/02-88ef5d5d-800w.webp"
-  - "/images-sites/kerpen-castle/03-c5d81dd0-800w.webp"
+  - "/images/kerpen-castle/02-88ef5d5d-800w.webp"
+  - "/images/kerpen-castle/03-c5d81dd0-800w.webp"
 ---
 
 ## Overview

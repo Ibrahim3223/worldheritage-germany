@@ -13,7 +13,7 @@ regions:
 latitude: 53.282777777
 longitude: 8.869444444
 images:
-  - "/images-sites/teufelsmoor/01-e80318e1-800w.webp"
+  - "/images/teufelsmoor/01-e80318e1-800w.webp"
 ---
 
 ## Overview

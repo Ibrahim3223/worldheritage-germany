@@ -1,20 +1,49 @@
 ---
-title: "Eilvese transmitter"
+title: Eilvese transmitter
 date: 2026-01-24
 draft: false
-description: "former long-range transmitter near Hannover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: former long-range transmitter near Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.527778
 longitude: 9.406667
 images:
-  - "/images-sites/eilvese-transmitter/02-940a3a83-800w.webp"
-  - "/images-sites/eilvese-transmitter/03-1906a882-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1200px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eilvese_Goldschmidt_alternator.jpg/1200px-Eilvese_Goldschmidt_alternator.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Funkenturm_Eilvese_attachment.jpg/1200px-Funkenturm_Eilvese_attachment.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Eilvese_Verwaltungshaus.jpg/1200px-Eilvese_Verwaltungshaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Überseesender_Eilvese_Sendergelände.jpg/1200px-Überseesender_Eilvese_Sendergelände.jpg
+image_srcset:
+  Grande antenne d'Eilevese 1923 Perspective générale.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/400px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/800px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1200px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grande_antenne_d'Eilevese_1923_Perspective_générale.png/1920px-Grande_antenne_d'Eilevese_1923_Perspective_générale.png
+  Eilvese Goldschmidt alternator.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eilvese_Goldschmidt_alternator.jpg/400px-Eilvese_Goldschmidt_alternator.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eilvese_Goldschmidt_alternator.jpg/800px-Eilvese_Goldschmidt_alternator.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eilvese_Goldschmidt_alternator.jpg/1200px-Eilvese_Goldschmidt_alternator.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eilvese_Goldschmidt_alternator.jpg/1920px-Eilvese_Goldschmidt_alternator.jpg
+  Funkenturm Eilvese attachment.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Funkenturm_Eilvese_attachment.jpg/400px-Funkenturm_Eilvese_attachment.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Funkenturm_Eilvese_attachment.jpg/800px-Funkenturm_Eilvese_attachment.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Funkenturm_Eilvese_attachment.jpg/1200px-Funkenturm_Eilvese_attachment.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Funkenturm_Eilvese_attachment.jpg/1920px-Funkenturm_Eilvese_attachment.jpg
+  Eilvese Verwaltungshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Eilvese_Verwaltungshaus.jpg/400px-Eilvese_Verwaltungshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Eilvese_Verwaltungshaus.jpg/800px-Eilvese_Verwaltungshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Eilvese_Verwaltungshaus.jpg/1200px-Eilvese_Verwaltungshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Eilvese_Verwaltungshaus.jpg/1920px-Eilvese_Verwaltungshaus.jpg
+  Überseesender Eilvese Sendergelände.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Überseesender_Eilvese_Sendergelände.jpg/400px-Überseesender_Eilvese_Sendergelände.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Überseesender_Eilvese_Sendergelände.jpg/800px-Überseesender_Eilvese_Sendergelände.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Überseesender_Eilvese_Sendergelände.jpg/1200px-Überseesender_Eilvese_Sendergelände.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Überseesender_Eilvese_Sendergelände.jpg/1920px-Überseesender_Eilvese_Sendergelände.jpg
 ---
 
 ## Overview

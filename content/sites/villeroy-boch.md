@@ -13,7 +13,7 @@ regions:
 latitude: 49.49659
 longitude: 6.60019
 images:
-  - "/images-sites/villeroy-boch/01-33283e25-800w.webp"
+  - "/images/villeroy-boch/01-33283e25-800w.webp"
 ---
 
 ## Overview

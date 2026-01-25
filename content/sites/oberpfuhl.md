@@ -13,7 +13,7 @@ regions:
 latitude: 53.215277777
 longitude: 13.320833333
 images:
-  - "/images-sites/oberpfuhl/01-40282016-800w.webp"
+  - "/images/oberpfuhl/01-40282016-800w.webp"
 ---
 
 ## Overview

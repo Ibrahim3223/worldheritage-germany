@@ -21,7 +21,7 @@ longitude: 12.045555555
 
 # Images
 images:
-  - "/images-sites/pruefening-abbey/01-7e3c1326-800w.webp"
+  - "/images/pruefening-abbey/01-7e3c1326-800w.webp"
 ---
 
 ## Overview

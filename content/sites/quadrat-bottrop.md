@@ -13,7 +13,7 @@ regions:
 latitude: 51.5313
 longitude: 6.91792
 images:
-  - "/images-sites/quadrat-bottrop/01-c092665b-800w.webp"
+  - "/images/quadrat-bottrop/01-c092665b-800w.webp"
 ---
 
 ## Overview

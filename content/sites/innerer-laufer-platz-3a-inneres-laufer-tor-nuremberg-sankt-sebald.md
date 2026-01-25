@@ -1,21 +1,49 @@
 ---
-title: "Innerer Laufer Platz 3a, Inneres Laufer Tor (Nuremberg-Sankt Sebald)"
+title: Innerer Laufer Platz 3a, Inneres Laufer Tor (Nuremberg-Sankt Sebald)
 date: 2026-01-24
 draft: false
-description: "Torturm in Nürnberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: Torturm in Nürnberg
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4561
 longitude: 11.0836
 images:
-  - "/images-sites/innerer-laufer-platz-3a-inneres-laufer-tor-nuremberg-sankt-sebald/01-8fda14be-800w.webp"
-  - "/images-sites/innerer-laufer-platz-3a-inneres-laufer-tor-nuremberg-sankt-sebald/02-2840b3ca-800w.webp"
-  - "/images-sites/innerer-laufer-platz-3a-inneres-laufer-tor-nuremberg-sankt-sebald/03-a6efe9a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg/1200px-2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg
+image_srcset:
+  D-5-64-000-86 Innerer Laufer Platz 3 a, Laufer Schlagturm, Ostseite Nürnberg 20241020 0081.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg/400px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg/800px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg/1920px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Ostseite_Nürnberg_20241020_0081.jpg
+  D-5-64-000-86 Innerer Laufer Platz 3 a, Laufer Schlagturm, Westseite Nürnberg 20241020 0080.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg/400px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg/800px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg/1920px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0080.jpg
+  D-5-64-000-86 Innerer Laufer Platz 3 a, Laufer Schlagturm, Westseite Nürnberg 20241020 0078.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg/400px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg/800px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg/1920px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0078.jpg
+  D-5-64-000-86 Innerer Laufer Platz 3 a, Laufer Schlagturm, Westseite Nürnberg 20241020 0077.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg/400px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg/800px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg/1200px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg/1920px-D-5-64-000-86_Innerer_Laufer_Platz_3_a,_Laufer_Schlagturm,_Westseite_Nürnberg_20241020_0077.jpg
+  2024 Inneres Laufer Tor (Nürnberg) (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg/400px-2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg/800px-2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg/1200px-2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg/1920px-2024_Inneres_Laufer_Tor_(Nürnberg)_(1).jpg
 ---
 
 ## Overview

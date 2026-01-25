@@ -21,8 +21,8 @@ longitude: 10.05
 
 # Images
 images:
-  - "/images-sites/rhoen-biosphere-reserve/02-9fac83f2-800w.webp"
-  - "/images-sites/rhoen-biosphere-reserve/03-c5cc53c6-800w.webp"
+  - "/images/rhoen-biosphere-reserve/02-9fac83f2-800w.webp"
+  - "/images/rhoen-biosphere-reserve/03-c5cc53c6-800w.webp"
 ---
 
 ## Overview

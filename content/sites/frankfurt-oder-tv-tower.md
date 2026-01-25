@@ -1,21 +1,49 @@
 ---
-title: "Frankfurt (Oder) TV tower"
+title: Frankfurt (Oder) TV tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3199
 longitude: 14.5287
 images:
-  - "/images-sites/frankfurt-oder-tv-tower/01-896b2080-800w.webp"
-  - "/images-sites/frankfurt-oder-tv-tower/02-d46ce2dd-800w.webp"
-  - "/images-sites/frankfurt-oder-tv-tower/03-93be14fa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1200px-FFO_04-13_Fernsehturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Frankfurt_(Oder)_01.jpg/1200px-Fernmeldeturm_Frankfurt_(Oder)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fernmeldeturm_Frankfurt_(Oder)_03.jpg/1200px-Fernmeldeturm_Frankfurt_(Oder)_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fernmeldeturm_Frankfurt_(Oder).jpg/1200px-Fernmeldeturm_Frankfurt_(Oder).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fernsehturm_ffo_03.jpg/1200px-Fernsehturm_ffo_03.jpg
+image_srcset:
+  FFO 04-13 Fernsehturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/400px-FFO_04-13_Fernsehturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/800px-FFO_04-13_Fernsehturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1200px-FFO_04-13_Fernsehturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FFO_04-13_Fernsehturm.jpg/1920px-FFO_04-13_Fernsehturm.jpg
+  Fernmeldeturm Frankfurt (Oder) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Frankfurt_(Oder)_01.jpg/400px-Fernmeldeturm_Frankfurt_(Oder)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Frankfurt_(Oder)_01.jpg/800px-Fernmeldeturm_Frankfurt_(Oder)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Frankfurt_(Oder)_01.jpg/1200px-Fernmeldeturm_Frankfurt_(Oder)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Frankfurt_(Oder)_01.jpg/1920px-Fernmeldeturm_Frankfurt_(Oder)_01.jpg
+  Fernmeldeturm Frankfurt (Oder) 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fernmeldeturm_Frankfurt_(Oder)_03.jpg/400px-Fernmeldeturm_Frankfurt_(Oder)_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fernmeldeturm_Frankfurt_(Oder)_03.jpg/800px-Fernmeldeturm_Frankfurt_(Oder)_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fernmeldeturm_Frankfurt_(Oder)_03.jpg/1200px-Fernmeldeturm_Frankfurt_(Oder)_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fernmeldeturm_Frankfurt_(Oder)_03.jpg/1920px-Fernmeldeturm_Frankfurt_(Oder)_03.jpg
+  Fernmeldeturm Frankfurt (Oder).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fernmeldeturm_Frankfurt_(Oder).jpg/400px-Fernmeldeturm_Frankfurt_(Oder).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fernmeldeturm_Frankfurt_(Oder).jpg/800px-Fernmeldeturm_Frankfurt_(Oder).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fernmeldeturm_Frankfurt_(Oder).jpg/1200px-Fernmeldeturm_Frankfurt_(Oder).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fernmeldeturm_Frankfurt_(Oder).jpg/1920px-Fernmeldeturm_Frankfurt_(Oder).jpg
+  Fernsehturm ffo 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fernsehturm_ffo_03.jpg/400px-Fernsehturm_ffo_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fernsehturm_ffo_03.jpg/800px-Fernsehturm_ffo_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fernsehturm_ffo_03.jpg/1200px-Fernsehturm_ffo_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fernsehturm_ffo_03.jpg/1920px-Fernsehturm_ffo_03.jpg
 ---
 
 ## Overview

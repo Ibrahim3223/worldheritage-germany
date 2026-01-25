@@ -1,19 +1,49 @@
 ---
-title: "Egapark"
+title: Egapark
 date: 2026-01-23
 draft: false
-description: "park in Erfurt, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Erfurt, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9675
 longitude: 11.0078
 images:
-  - "/images-sites/egapark/01-dfc34081-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bundesgartenschau_2021_egapark_337.JPG/1200px-Bundesgartenschau_2021_egapark_337.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesgartenschau_2021_egapark_340.JPG/1200px-Bundesgartenschau_2021_egapark_340.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesgartenschau_2021_egapark_342.JPG/1200px-Bundesgartenschau_2021_egapark_342.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bundesgartenschau_2021_egapark_343.JPG/1200px-Bundesgartenschau_2021_egapark_343.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Egapark_Erfurt_Wasserachse.jpg/1200px-Egapark_Erfurt_Wasserachse.jpg
+image_srcset:
+  Bundesgartenschau 2021 egapark 337.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bundesgartenschau_2021_egapark_337.JPG/400px-Bundesgartenschau_2021_egapark_337.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bundesgartenschau_2021_egapark_337.JPG/800px-Bundesgartenschau_2021_egapark_337.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bundesgartenschau_2021_egapark_337.JPG/1200px-Bundesgartenschau_2021_egapark_337.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bundesgartenschau_2021_egapark_337.JPG/1920px-Bundesgartenschau_2021_egapark_337.JPG
+  Bundesgartenschau 2021 egapark 340.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesgartenschau_2021_egapark_340.JPG/400px-Bundesgartenschau_2021_egapark_340.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesgartenschau_2021_egapark_340.JPG/800px-Bundesgartenschau_2021_egapark_340.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesgartenschau_2021_egapark_340.JPG/1200px-Bundesgartenschau_2021_egapark_340.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bundesgartenschau_2021_egapark_340.JPG/1920px-Bundesgartenschau_2021_egapark_340.JPG
+  Bundesgartenschau 2021 egapark 342.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesgartenschau_2021_egapark_342.JPG/400px-Bundesgartenschau_2021_egapark_342.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesgartenschau_2021_egapark_342.JPG/800px-Bundesgartenschau_2021_egapark_342.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesgartenschau_2021_egapark_342.JPG/1200px-Bundesgartenschau_2021_egapark_342.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesgartenschau_2021_egapark_342.JPG/1920px-Bundesgartenschau_2021_egapark_342.JPG
+  Bundesgartenschau 2021 egapark 343.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bundesgartenschau_2021_egapark_343.JPG/400px-Bundesgartenschau_2021_egapark_343.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bundesgartenschau_2021_egapark_343.JPG/800px-Bundesgartenschau_2021_egapark_343.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bundesgartenschau_2021_egapark_343.JPG/1200px-Bundesgartenschau_2021_egapark_343.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bundesgartenschau_2021_egapark_343.JPG/1920px-Bundesgartenschau_2021_egapark_343.JPG
+  Egapark Erfurt Wasserachse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Egapark_Erfurt_Wasserachse.jpg/400px-Egapark_Erfurt_Wasserachse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Egapark_Erfurt_Wasserachse.jpg/800px-Egapark_Erfurt_Wasserachse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Egapark_Erfurt_Wasserachse.jpg/1200px-Egapark_Erfurt_Wasserachse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Egapark_Erfurt_Wasserachse.jpg/1920px-Egapark_Erfurt_Wasserachse.jpg
 ---
 
 ## Overview

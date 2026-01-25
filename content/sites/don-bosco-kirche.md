@@ -1,20 +1,51 @@
 ---
-title: "Don-Bosco-Kirche"
-site_name: "Don-Bosco-Kirche"
-slug: "don-bosco-kirche"
-region: "Bavaria"
-
-# Location
+title: Don-Bosco-Kirche
+site_name: Don-Bosco-Kirche
+slug: don-bosco-kirche
+region: Bavaria
 latitude: 48.3575
 longitude: 10.9262
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1238815"
-description: "Tucked away in the vibrant region of Augsburg, the Don-Bosco-Kirche stands as a remarkable example of modern church architecture. Its striking design in..."
+- church building
+- religious site
+wikidata_id: Q1238815
+description: Tucked away in the vibrant region of Augsburg, the Don-Bosco-Kirche stands
+  as a remarkable example of modern church architecture. Its striking design in...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1200px-Don-Bosco-Augsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg/1200px-Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg/1200px-Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg/1200px-Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg/1200px-Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg
+image_srcset:
+  Don-Bosco-Augsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/400px-Don-Bosco-Augsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/800px-Don-Bosco-Augsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1200px-Don-Bosco-Augsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Don-Bosco-Augsburg.jpg/1920px-Don-Bosco-Augsburg.jpg
+  Klagenfurt Hirschenwirtstrasse Don Bosco Kirche Relief Eingang 24052009 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg/400px-Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg/800px-Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg/1200px-Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg/1920px-Klagenfurt_Hirschenwirtstrasse_Don_Bosco_Kirche_Relief_Eingang_24052009_01.jpg
+  Klagenfurt Don Bosco Kirche 29072008 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg/400px-Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg/800px-Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg/1200px-Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg/1920px-Klagenfurt_Don_Bosco_Kirche_29072008_12.jpg
+  Klagenfurt Don Bosco Kirche 29072008 22.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg/400px-Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg/800px-Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg/1200px-Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg/1920px-Klagenfurt_Don_Bosco_Kirche_29072008_22.jpg
+  Klagenfurt Don Bosco Kirche 29072008 42.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg/400px-Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg/800px-Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg/1200px-Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg/1920px-Klagenfurt_Don_Bosco_Kirche_29072008_42.jpg
 ---
 
 ## Overview

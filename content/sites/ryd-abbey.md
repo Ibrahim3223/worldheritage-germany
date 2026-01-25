@@ -13,9 +13,9 @@ regions:
 latitude: 54.83151
 longitude: 9.54412
 images:
-  - "/images-sites/ryd-abbey/01-7bc7ab67-800w.webp"
-  - "/images-sites/ryd-abbey/02-1a2e0dd0-800w.webp"
-  - "/images-sites/ryd-abbey/03-2e218668-800w.webp"
+  - "/images/ryd-abbey/01-7bc7ab67-800w.webp"
+  - "/images/ryd-abbey/02-1a2e0dd0-800w.webp"
+  - "/images/ryd-abbey/03-2e218668-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Sondergarten Wandsbek"
+title: Botanischer Sondergarten Wandsbek
 date: 2026-01-23
 draft: false
-description: "garden in Hamburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.5824
 longitude: 10.0985
-
-# Images
 images:
-  - "/images-sites/botanischer-sondergarten-wandsbek/01-54837332-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Botanischer_Sondergarten_Wandsbek_(1).jpg/1200px-Botanischer_Sondergarten_Wandsbek_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg/1200px-Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG/1200px-Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg/1200px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg/1200px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg
+image_srcset:
+  Botanischer Sondergarten Wandsbek (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Botanischer_Sondergarten_Wandsbek_(1).jpg/400px-Botanischer_Sondergarten_Wandsbek_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Botanischer_Sondergarten_Wandsbek_(1).jpg/800px-Botanischer_Sondergarten_Wandsbek_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Botanischer_Sondergarten_Wandsbek_(1).jpg/1200px-Botanischer_Sondergarten_Wandsbek_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Botanischer_Sondergarten_Wandsbek_(1).jpg/1920px-Botanischer_Sondergarten_Wandsbek_(1).jpg
+  Botanischer Sondergarten Wandsbek Pflanzen (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg/400px-Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg/800px-Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg/1200px-Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg/1920px-Botanischer_Sondergarten_Wandsbek_Pflanzen_(4).jpg
+  Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG/400px-Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG/800px-Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG/1200px-Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG/1920px-Hamburg-botanischer-sondergarten-wandsbek-angepflanzte-blumen.JPG
+  Eichtalpark Botanischer Sondergarten - panoramio (10).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg/400px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg/800px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg/1200px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg/1920px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(10).jpg
+  Eichtalpark Botanischer Sondergarten - panoramio (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg/400px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg/800px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg/1200px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg/1920px-Eichtalpark_Botanischer_Sondergarten_-_panoramio_(13).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.175469
 longitude: 14.429029
 images:
-  - "/images-sites/sorbian-institute/01-e0e040e9-800w.webp"
+  - "/images/sorbian-institute/01-e0e040e9-800w.webp"
 ---
 
 ## Overview

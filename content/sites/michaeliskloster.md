@@ -13,7 +13,7 @@ regions:
 latitude: 54.0871
 longitude: 12.1364
 images:
-  - "/images-sites/michaeliskloster/01-75a2cd0e-800w.webp"
+  - "/images/michaeliskloster/01-75a2cd0e-800w.webp"
 ---
 
 ## Overview

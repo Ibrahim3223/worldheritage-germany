@@ -13,8 +13,8 @@ regions:
 latitude: 48.1476
 longitude: 11.5638
 images:
-  - "/images-sites/palaeontological-museum-munich/01-06e9dab7-800w.webp"
-  - "/images-sites/palaeontological-museum-munich/02-3f81f873-800w.webp"
+  - "/images/palaeontological-museum-munich/01-06e9dab7-800w.webp"
+  - "/images/palaeontological-museum-munich/02-3f81f873-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.361513888
 longitude: 13.035963888
 images:
-  - "/images-sites/zierker-see/01-367ee81b-800w.webp"
+  - "/images/zierker-see/01-367ee81b-800w.webp"
 ---
 
 ## Overview

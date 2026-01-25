@@ -13,8 +13,8 @@ regions:
 latitude: 51.3167
 longitude: 9.46083
 images:
-  - "/images-sites/stadthalle-kassel/02-4df3ae85-800w.webp"
-  - "/images-sites/stadthalle-kassel/03-616f214f-800w.webp"
+  - "/images/stadthalle-kassel/02-4df3ae85-800w.webp"
+  - "/images/stadthalle-kassel/03-616f214f-800w.webp"
 ---
 
 ## Overview

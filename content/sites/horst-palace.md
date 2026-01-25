@@ -1,27 +1,49 @@
 ---
-title: "Horst Palace"
+title: Horst Palace
 date: 2026-01-23
 draft: false
-description: "Palace in Gelsenkirchen, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Palace in Gelsenkirchen, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.536405555
 longitude: 7.025997222
-
-# Images
 images:
-  - "/images-sites/horst-palace/01-251dea61-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SchlossHorst01.jpg/1200px-SchlossHorst01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grundriss_Schloss_Horst_mit_Legende.jpg/1200px-Grundriss_Schloss_Horst_mit_Legende.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg/1200px-Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lageplan_Schloss_Horst.jpg/1200px-Lageplan_Schloss_Horst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schloss_Horst_Katasterkarte_1768.jpg/1200px-Schloss_Horst_Katasterkarte_1768.jpg
+image_srcset:
+  SchlossHorst01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SchlossHorst01.jpg/400px-SchlossHorst01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SchlossHorst01.jpg/800px-SchlossHorst01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SchlossHorst01.jpg/1200px-SchlossHorst01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SchlossHorst01.jpg/1920px-SchlossHorst01.jpg
+  Grundriss Schloss Horst mit Legende.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grundriss_Schloss_Horst_mit_Legende.jpg/400px-Grundriss_Schloss_Horst_mit_Legende.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grundriss_Schloss_Horst_mit_Legende.jpg/800px-Grundriss_Schloss_Horst_mit_Legende.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grundriss_Schloss_Horst_mit_Legende.jpg/1200px-Grundriss_Schloss_Horst_mit_Legende.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grundriss_Schloss_Horst_mit_Legende.jpg/1920px-Grundriss_Schloss_Horst_mit_Legende.jpg
+  Standesamt im Schloss Horst, Gelsenkirchen - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg/400px-Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg/800px-Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg/1200px-Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg/1920px-Standesamt_im_Schloss_Horst,_Gelsenkirchen_-_panoramio.jpg
+  Lageplan Schloss Horst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lageplan_Schloss_Horst.jpg/400px-Lageplan_Schloss_Horst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lageplan_Schloss_Horst.jpg/800px-Lageplan_Schloss_Horst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lageplan_Schloss_Horst.jpg/1200px-Lageplan_Schloss_Horst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lageplan_Schloss_Horst.jpg/1920px-Lageplan_Schloss_Horst.jpg
+  Schloss Horst Katasterkarte 1768.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schloss_Horst_Katasterkarte_1768.jpg/400px-Schloss_Horst_Katasterkarte_1768.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schloss_Horst_Katasterkarte_1768.jpg/800px-Schloss_Horst_Katasterkarte_1768.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schloss_Horst_Katasterkarte_1768.jpg/1200px-Schloss_Horst_Katasterkarte_1768.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schloss_Horst_Katasterkarte_1768.jpg/1920px-Schloss_Horst_Katasterkarte_1768.jpg
 ---
 
 ## Overview

@@ -1,24 +1,52 @@
 ---
-title: "Christuskirche (Bochum)"
-site_name: "Christuskirche (Bochum)"
-slug: "christuskirche-bochum"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Christuskirche (Bochum)
+site_name: Christuskirche (Bochum)
+slug: christuskirche-bochum
+region: North Rhine-Westphalia
 latitude: 51.4821
 longitude: 7.213583
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q83697"
-description: "In the heart of Bochum, Germany, Christuskirche stands as a striking example of brutalist architecture, captivating visitors with its unique design and ..."
+- church building
+- religious site
+wikidata_id: Q83697
+description: In the heart of Bochum, Germany, Christuskirche stands as a striking
+  example of brutalist architecture, captivating visitors with its unique design and
+  ...
 images:
-  - "/images-sites/christuskirche-bochum/01-86f318a2-1920w.webp"
-  - "/images-sites/christuskirche-bochum/02-aeb7d47c-1920w.webp"
-  - "/images-sites/christuskirche-bochum/03-d6eae437-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg/1200px-Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Christuskirche_Bochum_Turm.jpg/1200px-Christuskirche_Bochum_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ultha,_Live_2024.jpg/1200px-Ultha,_Live_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Portal_der_Christuskirche.jpg/1200px-Portal_der_Christuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1200px-Bochum,_Glockenturm_der_Christuskirche.jpg
+image_srcset:
+  Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg/400px-Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg/800px-Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg/1200px-Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg/1920px-Bochum%2C%20Glockenturm%20der%20Christuskirche.jpg
+  Christuskirche Bochum Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Christuskirche_Bochum_Turm.jpg/400px-Christuskirche_Bochum_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Christuskirche_Bochum_Turm.jpg/800px-Christuskirche_Bochum_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Christuskirche_Bochum_Turm.jpg/1200px-Christuskirche_Bochum_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Christuskirche_Bochum_Turm.jpg/1920px-Christuskirche_Bochum_Turm.jpg
+  Ultha, Live 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ultha,_Live_2024.jpg/400px-Ultha,_Live_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ultha,_Live_2024.jpg/800px-Ultha,_Live_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ultha,_Live_2024.jpg/1200px-Ultha,_Live_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ultha,_Live_2024.jpg/1920px-Ultha,_Live_2024.jpg
+  Portal der Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Portal_der_Christuskirche.jpg/400px-Portal_der_Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Portal_der_Christuskirche.jpg/800px-Portal_der_Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Portal_der_Christuskirche.jpg/1200px-Portal_der_Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Portal_der_Christuskirche.jpg/1920px-Portal_der_Christuskirche.jpg
+  Bochum, Glockenturm der Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/400px-Bochum,_Glockenturm_der_Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/800px-Bochum,_Glockenturm_der_Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1200px-Bochum,_Glockenturm_der_Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bochum,_Glockenturm_der_Christuskirche.jpg/1920px-Bochum,_Glockenturm_der_Christuskirche.jpg
 ---
 
 ## Overview

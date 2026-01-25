@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q205540"
 description: "In the heart of Augsburg, the Schaezlerpalais stands as a striking architectural heritage monument that beckons visitors with its elegant facade and ric..."
 images:
-  - "/images-sites/schaezlerpalais/01-476a0816-1920w.webp"
-  - "/images-sites/schaezlerpalais/02-5ade3161-1920w.webp"
-  - "/images-sites/schaezlerpalais/03-bf8fb53d-1920w.webp"
+  - "/images/schaezlerpalais/01-476a0816-1920w.webp"
+  - "/images/schaezlerpalais/02-5ade3161-1920w.webp"
+  - "/images/schaezlerpalais/03-bf8fb53d-1920w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,43 @@
 ---
-title: "Burg Katzenelnbogen"
+title: Burg Katzenelnbogen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2681
 longitude: 7.9765
-
-# Images
 images:
-  - "/images-sites/burg-katzenelnbogen/01-59cbf085-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg/1200px-Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Katzenelnbogen_-_panoramio_(6).jpg/1200px-Katzenelnbogen_-_panoramio_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/1200px-Katzenelnbogen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg/1200px-Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg
+image_srcset:
+  Katzenelnbogen Burg Katzenelbogen Blick aus Südwesten über die Stadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg/400px-Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg/800px-Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg/1200px-Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg/1920px-Katzenelnbogen_Burg_Katzenelbogen_Blick_aus_Südwesten_über_die_Stadt.jpg
+  Katzenelnbogen - panoramio (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Katzenelnbogen_-_panoramio_(6).jpg/400px-Katzenelnbogen_-_panoramio_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Katzenelnbogen_-_panoramio_(6).jpg/800px-Katzenelnbogen_-_panoramio_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Katzenelnbogen_-_panoramio_(6).jpg/1200px-Katzenelnbogen_-_panoramio_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Katzenelnbogen_-_panoramio_(6).jpg/1920px-Katzenelnbogen_-_panoramio_(6).jpg
+  Katzenelnbogen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/400px-Katzenelnbogen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/800px-Katzenelnbogen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/1200px-Katzenelnbogen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Katzenelnbogen.jpg/1920px-Katzenelnbogen.jpg
+  Meisner Catzenelnbogen in Heßen Dux macedum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg/400px-Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg/800px-Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg/1200px-Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg/1920px-Meisner_Catzenelnbogen_in_Heßen_Dux_macedum.jpg
 ---
 
 ## Overview

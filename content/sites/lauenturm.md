@@ -13,7 +13,7 @@ regions:
 latitude: 51.1802
 longitude: 14.4235
 images:
-  - "/images-sites/lauenturm/01-757bd798-800w.webp"
+  - "/images/lauenturm/01-757bd798-800w.webp"
 ---
 
 ## Overview

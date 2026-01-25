@@ -13,9 +13,9 @@ regions:
 latitude: 52.516344444
 longitude: 13.299052777
 images:
-  - "/images-sites/schustehruspark/01-0767dd0b-800w.webp"
-  - "/images-sites/schustehruspark/02-b14827a1-800w.webp"
-  - "/images-sites/schustehruspark/03-5f7028c9-800w.webp"
+  - "/images/schustehruspark/01-0767dd0b-800w.webp"
+  - "/images/schustehruspark/02-b14827a1-800w.webp"
+  - "/images/schustehruspark/03-5f7028c9-800w.webp"
 ---
 
 ## Overview

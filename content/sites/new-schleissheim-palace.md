@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q17121915"
 description: "New Schleissheim Palace, located in Oberschleißheim, Germany, is a remarkable example of neoclassical architecture and a vital part of the larger Schlei..."
 images:
-  - "/images-sites/new-schleissheim-palace/01-db87e120-1920w.webp"
-  - "/images-sites/new-schleissheim-palace/02-111c8110-1920w.webp"
-  - "/images-sites/new-schleissheim-palace/03-a2622def-1920w.webp"
+  - "/images/new-schleissheim-palace/01-db87e120-1920w.webp"
+  - "/images/new-schleissheim-palace/02-111c8110-1920w.webp"
+  - "/images/new-schleissheim-palace/03-a2622def-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Church in Ziethen"
-site_name: "Church in Ziethen"
-slug: "church-in-ziethen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Ziethen
+site_name: Church in Ziethen
+slug: church-in-ziethen
+region: Mecklenburg-Vorpommern
 latitude: 53.8861
 longitude: 13.676
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1690404"
-description: "The Church in Ziethen stands as a remarkable example of Gothic architecture in the picturesque region of Mecklenburg-Vorpommern, Germany. This church, c..."
+- cultural site
+wikidata_id: Q1690404
+description: The Church in Ziethen stands as a remarkable example of Gothic architecture
+  in the picturesque region of Mecklenburg-Vorpommern, Germany. This church, c...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche%20Ziethen%20Vorpommern%201.jpg/1200px-Kirche%20Ziethen%20Vorpommern%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Marien_Nordansicht_mit_Einfriedung.jpg/1200px-St._Marien_Nordansicht_mit_Einfriedung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Marien_Nordansicht_mit_Friedhof.jpg/1200px-St._Marien_Nordansicht_mit_Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ziethen_Anklam_Kirche_Altar.JPG/1200px-Ziethen_Anklam_Kirche_Altar.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1200px-Kirche_Ziethen_Vorpommern_1.jpg
+image_srcset:
+  Kirche%20Ziethen%20Vorpommern%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche%20Ziethen%20Vorpommern%201.jpg/400px-Kirche%20Ziethen%20Vorpommern%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche%20Ziethen%20Vorpommern%201.jpg/800px-Kirche%20Ziethen%20Vorpommern%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche%20Ziethen%20Vorpommern%201.jpg/1200px-Kirche%20Ziethen%20Vorpommern%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kirche%20Ziethen%20Vorpommern%201.jpg/1920px-Kirche%20Ziethen%20Vorpommern%201.jpg
+  St. Marien Nordansicht mit Einfriedung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Marien_Nordansicht_mit_Einfriedung.jpg/400px-St._Marien_Nordansicht_mit_Einfriedung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Marien_Nordansicht_mit_Einfriedung.jpg/800px-St._Marien_Nordansicht_mit_Einfriedung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Marien_Nordansicht_mit_Einfriedung.jpg/1200px-St._Marien_Nordansicht_mit_Einfriedung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/St._Marien_Nordansicht_mit_Einfriedung.jpg/1920px-St._Marien_Nordansicht_mit_Einfriedung.jpg
+  St. Marien Nordansicht mit Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Marien_Nordansicht_mit_Friedhof.jpg/400px-St._Marien_Nordansicht_mit_Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Marien_Nordansicht_mit_Friedhof.jpg/800px-St._Marien_Nordansicht_mit_Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Marien_Nordansicht_mit_Friedhof.jpg/1200px-St._Marien_Nordansicht_mit_Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St._Marien_Nordansicht_mit_Friedhof.jpg/1920px-St._Marien_Nordansicht_mit_Friedhof.jpg
+  Ziethen Anklam Kirche Altar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ziethen_Anklam_Kirche_Altar.JPG/400px-Ziethen_Anklam_Kirche_Altar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ziethen_Anklam_Kirche_Altar.JPG/800px-Ziethen_Anklam_Kirche_Altar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ziethen_Anklam_Kirche_Altar.JPG/1200px-Ziethen_Anklam_Kirche_Altar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ziethen_Anklam_Kirche_Altar.JPG/1920px-Ziethen_Anklam_Kirche_Altar.JPG
+  Kirche Ziethen Vorpommern 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/400px-Kirche_Ziethen_Vorpommern_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/800px-Kirche_Ziethen_Vorpommern_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1200px-Kirche_Ziethen_Vorpommern_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Ziethen_Vorpommern_1.jpg/1920px-Kirche_Ziethen_Vorpommern_1.jpg
 ---
 
 ## Overview

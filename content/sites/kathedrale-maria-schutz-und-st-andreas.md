@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q835542"
 description: "In the heart of Munich, a striking example of modern architecture stands as a focal point for the Ukrainian Greek Catholic community: the Kathedrale Mar..."
 images:
-  - "/images-sites/kathedrale-maria-schutz-und-st-andreas/01-632d7c64-1920w.webp"
-  - "/images-sites/kathedrale-maria-schutz-und-st-andreas/02-715f9274-1920w.webp"
-  - "/images-sites/kathedrale-maria-schutz-und-st-andreas/03-303f4ce4-1920w.webp"
+  - "/images/kathedrale-maria-schutz-und-st-andreas/01-632d7c64-1920w.webp"
+  - "/images/kathedrale-maria-schutz-und-st-andreas/02-715f9274-1920w.webp"
+  - "/images/kathedrale-maria-schutz-und-st-andreas/03-303f4ce4-1920w.webp"
 ---
 
 ## Overview

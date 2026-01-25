@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1237667"
 description: "In the heart of Munich, St. Pius stands as a remarkable example of architectural elegance and spiritual significance. This church building invites visit..."
 images:
-  - "/images-sites/st-pius/01-d99095f0-1920w.webp"
-  - "/images-sites/st-pius/02-6aa376aa-1920w.webp"
-  - "/images-sites/st-pius/03-1a01dda2-1920w.webp"
+  - "/images/st-pius/01-d99095f0-1920w.webp"
+  - "/images/st-pius/02-6aa376aa-1920w.webp"
+  - "/images/st-pius/03-1a01dda2-1920w.webp"
 ---
 
 ## Overview

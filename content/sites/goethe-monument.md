@@ -1,19 +1,50 @@
 ---
-title: "Goethe Monument"
+title: Goethe Monument
 date: 2026-01-23
 draft: false
-description: "memorial in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: memorial in Berlin
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5138
 longitude: 13.3764
 images:
-  - "/images-sites/goethe-monument/01-a04169a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg/1200px-20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/GoetheVillaBorghese.JPG/1200px-GoetheVillaBorghese.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg/1200px-Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg/1200px-Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethe_a_Roma.JPG/1200px-Goethe_a_Roma.JPG
+image_srcset:
+  20160426 013 Roma - Villa Borghese - Goethe Statue (26637772562).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg/400px-20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg/800px-20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg/1200px-20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg/1920px-20160426_013_Roma_-_Villa_Borghese_-_Goethe_Statue_(26637772562).jpg
+  GoetheVillaBorghese.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/GoetheVillaBorghese.JPG/400px-GoetheVillaBorghese.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/GoetheVillaBorghese.JPG/800px-GoetheVillaBorghese.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/GoetheVillaBorghese.JPG/1200px-GoetheVillaBorghese.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/GoetheVillaBorghese.JPG/1920px-GoetheVillaBorghese.JPG
+  Quartiere III Pinciano, Roma, Italy - panoramio (23).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg/400px-Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg/800px-Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg/1200px-Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg/1920px-Quartiere_III_Pinciano,_Roma,_Italy_-_panoramio_(23).jpg
+  ? Goethe Monument für Chicago, geschaffen im Auftrag des dortigen Schwabenvereins
+    von Hermann Hahn (neben dem Denkmal stehend) in München. (1913).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg/400px-Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg/800px-Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg/1200px-Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg/1920px-Goethe_Monument_für_Chicago,_geschaffen_im_Auftrag_des_dortigen_Schwabenvereins_von_Hermann_Hahn_(neben_dem_Denkmal_stehend)_in_München._(1913).jpg
+  Goethe a Roma.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethe_a_Roma.JPG/400px-Goethe_a_Roma.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethe_a_Roma.JPG/800px-Goethe_a_Roma.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethe_a_Roma.JPG/1200px-Goethe_a_Roma.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethe_a_Roma.JPG/1920px-Goethe_a_Roma.JPG
 ---
 
 ## Overview

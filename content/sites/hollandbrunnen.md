@@ -1,19 +1,49 @@
 ---
-title: "Hollandbrunnen"
+title: Hollandbrunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1715
 longitude: 11.5984
 images:
-  - "/images-sites/hollandbrunnen/01-df108193-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hollandstr._Hollandbrunnen_Muenchen-5.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hollandstr._Hollandbrunnen_Muenchen-1.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hollandstr._Hollandbrunnen_Muenchen-2.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hollandstr._Hollandbrunnen_Muenchen-4.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hollandstr._Hollandbrunnen_Muenchen-3.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-3.jpg
+image_srcset:
+  Hollandstr. Hollandbrunnen Muenchen-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hollandstr._Hollandbrunnen_Muenchen-5.jpg/400px-Hollandstr._Hollandbrunnen_Muenchen-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hollandstr._Hollandbrunnen_Muenchen-5.jpg/800px-Hollandstr._Hollandbrunnen_Muenchen-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hollandstr._Hollandbrunnen_Muenchen-5.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hollandstr._Hollandbrunnen_Muenchen-5.jpg/1920px-Hollandstr._Hollandbrunnen_Muenchen-5.jpg
+  Hollandstr. Hollandbrunnen Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hollandstr._Hollandbrunnen_Muenchen-1.jpg/400px-Hollandstr._Hollandbrunnen_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hollandstr._Hollandbrunnen_Muenchen-1.jpg/800px-Hollandstr._Hollandbrunnen_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hollandstr._Hollandbrunnen_Muenchen-1.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hollandstr._Hollandbrunnen_Muenchen-1.jpg/1920px-Hollandstr._Hollandbrunnen_Muenchen-1.jpg
+  Hollandstr. Hollandbrunnen Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hollandstr._Hollandbrunnen_Muenchen-2.jpg/400px-Hollandstr._Hollandbrunnen_Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hollandstr._Hollandbrunnen_Muenchen-2.jpg/800px-Hollandstr._Hollandbrunnen_Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hollandstr._Hollandbrunnen_Muenchen-2.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hollandstr._Hollandbrunnen_Muenchen-2.jpg/1920px-Hollandstr._Hollandbrunnen_Muenchen-2.jpg
+  Hollandstr. Hollandbrunnen Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hollandstr._Hollandbrunnen_Muenchen-4.jpg/400px-Hollandstr._Hollandbrunnen_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hollandstr._Hollandbrunnen_Muenchen-4.jpg/800px-Hollandstr._Hollandbrunnen_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hollandstr._Hollandbrunnen_Muenchen-4.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hollandstr._Hollandbrunnen_Muenchen-4.jpg/1920px-Hollandstr._Hollandbrunnen_Muenchen-4.jpg
+  Hollandstr. Hollandbrunnen Muenchen-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hollandstr._Hollandbrunnen_Muenchen-3.jpg/400px-Hollandstr._Hollandbrunnen_Muenchen-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hollandstr._Hollandbrunnen_Muenchen-3.jpg/800px-Hollandstr._Hollandbrunnen_Muenchen-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hollandstr._Hollandbrunnen_Muenchen-3.jpg/1200px-Hollandstr._Hollandbrunnen_Muenchen-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hollandstr._Hollandbrunnen_Muenchen-3.jpg/1920px-Hollandstr._Hollandbrunnen_Muenchen-3.jpg
 ---
 
 ## Overview

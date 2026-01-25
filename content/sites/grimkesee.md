@@ -1,19 +1,25 @@
 ---
-title: "Grimkesee"
+title: Grimkesee
 date: 2026-01-23
 draft: false
-description: "lake in Schwerin, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Schwerin, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.621388888
 longitude: 11.393888888
 images:
-  - "/images-sites/grimkesee/01-020d36e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grimkesee.jpg/1200px-Grimkesee.jpg
+image_srcset:
+  Grimkesee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grimkesee.jpg/400px-Grimkesee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grimkesee.jpg/800px-Grimkesee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grimkesee.jpg/1200px-Grimkesee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grimkesee.jpg/1920px-Grimkesee.jpg
 ---
 
 ## Overview

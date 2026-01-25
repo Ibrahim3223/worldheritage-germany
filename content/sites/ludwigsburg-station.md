@@ -13,7 +13,7 @@ regions:
 latitude: 48.8922
 longitude: 9.18528
 images:
-  - "/images-sites/ludwigsburg-station/01-6bb51f01-800w.webp"
+  - "/images/ludwigsburg-station/01-6bb51f01-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 10.7994
 
 # Images
 images:
-  - "/images-sites/wolfsburg-castle/01-c1422eea-800w.webp"
+  - "/images/wolfsburg-castle/01-c1422eea-800w.webp"
 ---
 
 ## Overview

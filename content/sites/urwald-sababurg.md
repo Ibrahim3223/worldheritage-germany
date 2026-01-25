@@ -13,7 +13,7 @@ regions:
 latitude: 51.5425
 longitude: 9.50806
 images:
-  - "/images-sites/urwald-sababurg/01-7bad4976-800w.webp"
+  - "/images/urwald-sababurg/01-7bad4976-800w.webp"
 ---
 
 ## Overview

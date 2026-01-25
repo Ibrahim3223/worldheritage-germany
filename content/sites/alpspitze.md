@@ -1,21 +1,49 @@
 ---
-title: "Alpspitze"
+title: Alpspitze
 date: 2026-01-23
 draft: false
-description: "mountain in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.429444444
 longitude: 11.0475
 images:
-  - "/images-sites/alpspitze/01-40751b90-800w.webp"
-  - "/images-sites/alpspitze/02-02ff8e05-800w.webp"
-  - "/images-sites/alpspitze/03-434073b9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg/1200px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg/1200px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Meilerhuette-2014-09-19-1200.jpg/1200px-Meilerhuette-2014-09-19-1200.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/1200px-Alpspitze_(Wetterstein).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg/1200px-Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg
+image_srcset:
+  Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg/400px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg/800px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg/1200px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg/1920px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6609-6613-2023-08-16.jpg
+  Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg/400px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg/800px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg/1200px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg/1920px-Wetterstein-Buckelwiesen-Mittenwald-JR-E-6601-2023-08-16.jpg
+  Meilerhuette-2014-09-19-1200.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Meilerhuette-2014-09-19-1200.jpg/400px-Meilerhuette-2014-09-19-1200.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Meilerhuette-2014-09-19-1200.jpg/800px-Meilerhuette-2014-09-19-1200.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Meilerhuette-2014-09-19-1200.jpg/1200px-Meilerhuette-2014-09-19-1200.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Meilerhuette-2014-09-19-1200.jpg/1920px-Meilerhuette-2014-09-19-1200.jpg
+  Alpspitze (Wetterstein).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/400px-Alpspitze_(Wetterstein).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/800px-Alpspitze_(Wetterstein).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/1200px-Alpspitze_(Wetterstein).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Alpspitze_(Wetterstein).jpg/1920px-Alpspitze_(Wetterstein).jpg
+  Jubiläumsgrat from Zugspitze to Alpspitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg/400px-Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg/800px-Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg/1200px-Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg/1920px-Jubiläumsgrat_from_Zugspitze_to_Alpspitze.jpg
 ---
 
 ## Overview

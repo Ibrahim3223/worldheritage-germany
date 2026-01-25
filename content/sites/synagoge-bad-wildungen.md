@@ -13,8 +13,8 @@ regions:
 latitude: 51.1183
 longitude: 9.1227
 images:
-  - "/images-sites/synagoge-bad-wildungen/02-cb2b185c-800w.webp"
-  - "/images-sites/synagoge-bad-wildungen/03-5720b6ad-800w.webp"
+  - "/images/synagoge-bad-wildungen/02-cb2b185c-800w.webp"
+  - "/images/synagoge-bad-wildungen/03-5720b6ad-800w.webp"
 ---
 
 ## Overview

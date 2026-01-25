@@ -13,7 +13,7 @@ regions:
 latitude: 48.1413
 longitude: 11.5653
 images:
-  - "/images-sites/neptunbrunnen/01-ab9caceb-800w.webp"
+  - "/images/neptunbrunnen/01-ab9caceb-800w.webp"
 ---
 
 ## Overview

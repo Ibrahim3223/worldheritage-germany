@@ -13,7 +13,7 @@ regions:
 latitude: 50.87419455
 longitude: 10.972101822
 images:
-  - "/images-sites/kloster-ichtershausen/01-9c9fe375-800w.webp"
+  - "/images/kloster-ichtershausen/01-9c9fe375-800w.webp"
 ---
 
 ## Overview

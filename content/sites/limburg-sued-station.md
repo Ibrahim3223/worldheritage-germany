@@ -13,7 +13,7 @@ regions:
 latitude: 50.3822
 longitude: 8.09611
 images:
-  - "/images-sites/limburg-sued-station/01-cce40c99-800w.webp"
+  - "/images/limburg-sued-station/01-cce40c99-800w.webp"
 ---
 
 ## Overview

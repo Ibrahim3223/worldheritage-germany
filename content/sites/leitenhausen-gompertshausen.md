@@ -13,7 +13,7 @@ regions:
 latitude: 50.3181
 longitude: 10.6094
 images:
-  - "/images-sites/leitenhausen-gompertshausen/01-f94eeccf-800w.webp"
+  - "/images/leitenhausen-gompertshausen/01-f94eeccf-800w.webp"
 ---
 
 ## Overview

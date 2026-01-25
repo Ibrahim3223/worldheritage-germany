@@ -16,8 +16,8 @@ categories:
 wikidata_id: "Q1871062"
 description: "In the heart of Münster, Germany, the Lotharinger Chorfrauenkirche stands as a remarkable example of Baroque architecture. This church building, designe..."
 images:
-  - "/images-sites/lotharinger-chorfrauenkirche/01-b0c9af12-1920w.webp"
-  - "/images-sites/lotharinger-chorfrauenkirche/02-dfec71a4-1920w.webp"
+  - "/images/lotharinger-chorfrauenkirche/01-b0c9af12-1920w.webp"
+  - "/images/lotharinger-chorfrauenkirche/02-dfec71a4-1920w.webp"
 ---
 
 ## Overview

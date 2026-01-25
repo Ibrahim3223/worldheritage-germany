@@ -1,29 +1,50 @@
 ---
-title: "Imperial Palace Ingelheim"
+title: Imperial Palace Ingelheim
 date: 2026-01-23
 draft: false
-description: "an important Imperial Palace erected in the second half of the 8th century in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: an important Imperial Palace erected in the second half of the 8th century
+  in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9775
 longitude: 8.0715
-
-# Images
 images:
-  - "/images-sites/imperial-palace-ingelheim/01-2a27840d-800w.webp"
-  - "/images-sites/imperial-palace-ingelheim/02-8af4894f-800w.webp"
-  - "/images-sites/imperial-palace-ingelheim/03-18771719-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/HeidesheimerTor-Ingelheim.JPG/1200px-HeidesheimerTor-Ingelheim.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1200px-NI-Kaiserpfalz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg/1200px-Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kaiserpfalz1-Ingelheim.jpg/1200px-Kaiserpfalz1-Ingelheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/1200px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG
+image_srcset:
+  HeidesheimerTor-Ingelheim.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/HeidesheimerTor-Ingelheim.JPG/400px-HeidesheimerTor-Ingelheim.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/HeidesheimerTor-Ingelheim.JPG/800px-HeidesheimerTor-Ingelheim.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/HeidesheimerTor-Ingelheim.JPG/1200px-HeidesheimerTor-Ingelheim.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/HeidesheimerTor-Ingelheim.JPG/1920px-HeidesheimerTor-Ingelheim.JPG
+  NI-Kaiserpfalz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/400px-NI-Kaiserpfalz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/800px-NI-Kaiserpfalz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1200px-NI-Kaiserpfalz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NI-Kaiserpfalz.JPG/1920px-NI-Kaiserpfalz.JPG
+  Ingelheim, Haus Zanggasse 12, Ausgrabungsstätte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg/400px-Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg/800px-Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg/1200px-Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg/1920px-Ingelheim,_Haus_Zanggasse_12,_Ausgrabungsstätte.jpg
+  Kaiserpfalz1-Ingelheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kaiserpfalz1-Ingelheim.jpg/400px-Kaiserpfalz1-Ingelheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kaiserpfalz1-Ingelheim.jpg/800px-Kaiserpfalz1-Ingelheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kaiserpfalz1-Ingelheim.jpg/1200px-Kaiserpfalz1-Ingelheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kaiserpfalz1-Ingelheim.jpg/1920px-Kaiserpfalz1-Ingelheim.jpg
+  Kaiserpfalz Ingelheim - Grundriss.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/400px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/800px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/1200px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kaiserpfalz_Ingelheim_-_Grundriss.JPG/1920px-Kaiserpfalz_Ingelheim_-_Grundriss.JPG
 ---
 
 ## Overview

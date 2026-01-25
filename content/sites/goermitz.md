@@ -1,19 +1,49 @@
 ---
-title: "Görmitz"
+title: Görmitz
 date: 2026-01-23
 draft: false
-description: "island in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in Germany
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.024722222
 longitude: 13.923888888
 images:
-  - "/images-sites/goermitz/01-96d80883-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Görmitz-Vowerk-120911-038.JPG/1200px-Görmitz-Vowerk-120911-038.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Görmitz_Gebäude.JPG/1200px-Görmitz_Gebäude.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Görmitz_ehemaliges_Ferienobjekt.JPG/1200px-Görmitz_ehemaliges_Ferienobjekt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lütow,_Germany_-_panoramio.jpg/1200px-Lütow,_Germany_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Görmitz_luftaufnahme.jpg/1200px-Görmitz_luftaufnahme.jpg
+image_srcset:
+  Görmitz-Vowerk-120911-038.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Görmitz-Vowerk-120911-038.JPG/400px-Görmitz-Vowerk-120911-038.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Görmitz-Vowerk-120911-038.JPG/800px-Görmitz-Vowerk-120911-038.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Görmitz-Vowerk-120911-038.JPG/1200px-Görmitz-Vowerk-120911-038.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Görmitz-Vowerk-120911-038.JPG/1920px-Görmitz-Vowerk-120911-038.JPG
+  Görmitz Gebäude.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Görmitz_Gebäude.JPG/400px-Görmitz_Gebäude.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Görmitz_Gebäude.JPG/800px-Görmitz_Gebäude.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Görmitz_Gebäude.JPG/1200px-Görmitz_Gebäude.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Görmitz_Gebäude.JPG/1920px-Görmitz_Gebäude.JPG
+  Görmitz ehemaliges Ferienobjekt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Görmitz_ehemaliges_Ferienobjekt.JPG/400px-Görmitz_ehemaliges_Ferienobjekt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Görmitz_ehemaliges_Ferienobjekt.JPG/800px-Görmitz_ehemaliges_Ferienobjekt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Görmitz_ehemaliges_Ferienobjekt.JPG/1200px-Görmitz_ehemaliges_Ferienobjekt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Görmitz_ehemaliges_Ferienobjekt.JPG/1920px-Görmitz_ehemaliges_Ferienobjekt.JPG
+  Lütow, Germany - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lütow,_Germany_-_panoramio.jpg/400px-Lütow,_Germany_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lütow,_Germany_-_panoramio.jpg/800px-Lütow,_Germany_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lütow,_Germany_-_panoramio.jpg/1200px-Lütow,_Germany_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lütow,_Germany_-_panoramio.jpg/1920px-Lütow,_Germany_-_panoramio.jpg
+  Görmitz luftaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Görmitz_luftaufnahme.jpg/400px-Görmitz_luftaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Görmitz_luftaufnahme.jpg/800px-Görmitz_luftaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Görmitz_luftaufnahme.jpg/1200px-Görmitz_luftaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Görmitz_luftaufnahme.jpg/1920px-Görmitz_luftaufnahme.jpg
 ---
 
 ## Overview

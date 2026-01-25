@@ -1,19 +1,49 @@
 ---
-title: "Herreninsel"
+title: Herreninsel
 date: 2026-01-23
 draft: false
-description: "2.3 square kilometre island in Bavaria's largest lake, the Chiemsee"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: 2.3 square kilometre island in Bavaria's largest lake, the Chiemsee
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 47.860555555
 longitude: 12.398055555
 images:
-  - "/images-sites/herreninsel/01-6c687a97-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg/1200px-Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/1200px-Aerial_image_of_the_Chiemsee_municipality.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gstadt_am_Chiemsee,_Lakefront_(1).jpg/1200px-Gstadt_am_Chiemsee,_Lakefront_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Herrenwörth_(pramo),_1.jpeg/1200px-Herrenwörth_(pramo),_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Karte_Herrenchiemsee.png/1200px-Karte_Herrenchiemsee.png
+image_srcset:
+  Wilhelm Trübner - Bootssteg auf der Herreninsel im Chiemsee - 2006 - Staatliche Kunsthalle Karlsruhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg/400px-Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg/800px-Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg/1200px-Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg/1920px-Wilhelm_Trübner_-_Bootssteg_auf_der_Herreninsel_im_Chiemsee_-_2006_-_Staatliche_Kunsthalle_Karlsruhe.jpg
+  Aerial image of the Chiemsee municipality.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/400px-Aerial_image_of_the_Chiemsee_municipality.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/800px-Aerial_image_of_the_Chiemsee_municipality.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/1200px-Aerial_image_of_the_Chiemsee_municipality.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Chiemsee_municipality.jpg/1920px-Aerial_image_of_the_Chiemsee_municipality.jpg
+  Gstadt am Chiemsee, Lakefront (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gstadt_am_Chiemsee,_Lakefront_(1).jpg/400px-Gstadt_am_Chiemsee,_Lakefront_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gstadt_am_Chiemsee,_Lakefront_(1).jpg/800px-Gstadt_am_Chiemsee,_Lakefront_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gstadt_am_Chiemsee,_Lakefront_(1).jpg/1200px-Gstadt_am_Chiemsee,_Lakefront_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gstadt_am_Chiemsee,_Lakefront_(1).jpg/1920px-Gstadt_am_Chiemsee,_Lakefront_(1).jpg
+  Herrenwörth (pramo), 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Herrenwörth_(pramo),_1.jpeg/400px-Herrenwörth_(pramo),_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Herrenwörth_(pramo),_1.jpeg/800px-Herrenwörth_(pramo),_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Herrenwörth_(pramo),_1.jpeg/1200px-Herrenwörth_(pramo),_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Herrenwörth_(pramo),_1.jpeg/1920px-Herrenwörth_(pramo),_1.jpeg
+  Karte Herrenchiemsee.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Karte_Herrenchiemsee.png/400px-Karte_Herrenchiemsee.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Karte_Herrenchiemsee.png/800px-Karte_Herrenchiemsee.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Karte_Herrenchiemsee.png/1200px-Karte_Herrenchiemsee.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Karte_Herrenchiemsee.png/1920px-Karte_Herrenchiemsee.png
 ---
 
 ## Overview

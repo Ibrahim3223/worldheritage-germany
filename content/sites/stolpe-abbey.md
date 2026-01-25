@@ -13,7 +13,7 @@ regions:
 latitude: 53.873252777
 longitude: 13.561441666
 images:
-  - "/images-sites/stolpe-abbey/01-f93ed325-800w.webp"
+  - "/images/stolpe-abbey/01-f93ed325-800w.webp"
 ---
 
 ## Overview

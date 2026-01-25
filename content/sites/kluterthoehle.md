@@ -13,7 +13,7 @@ regions:
 latitude: 51.299166666
 longitude: 7.354722222
 images:
-  - "/images-sites/kluterthoehle/01-fb1bc32f-800w.webp"
+  - "/images/kluterthoehle/01-fb1bc32f-800w.webp"
 ---
 
 ## Overview

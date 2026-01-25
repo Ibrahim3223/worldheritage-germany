@@ -13,7 +13,7 @@ regions:
 latitude: 48.4117324
 longitude: 9.7850221
 images:
-  - "/images-sites/museum-fuer-urgeschichte-und-eiszeitkunst/01-6ebc2bed-800w.webp"
+  - "/images/museum-fuer-urgeschichte-und-eiszeitkunst/01-6ebc2bed-800w.webp"
 ---
 
 ## Overview

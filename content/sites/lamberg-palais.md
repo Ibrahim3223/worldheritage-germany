@@ -13,7 +13,7 @@ regions:
 latitude: 48.5745
 longitude: 13.463
 images:
-  - "/images-sites/lamberg-palais/01-97b19abb-800w.webp"
+  - "/images/lamberg-palais/01-97b19abb-800w.webp"
 ---
 
 ## Overview

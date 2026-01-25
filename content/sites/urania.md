@@ -13,7 +13,7 @@ regions:
 latitude: 52.5014
 longitude: 13.3481
 images:
-  - "/images-sites/urania/01-89a684f4-800w.webp"
+  - "/images/urania/01-89a684f4-800w.webp"
 ---
 
 ## Overview

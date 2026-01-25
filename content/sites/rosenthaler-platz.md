@@ -13,8 +13,8 @@ regions:
 latitude: 52.5296
 longitude: 13.4012
 images:
-  - "/images-sites/rosenthaler-platz/02-48479dcf-800w.webp"
-  - "/images-sites/rosenthaler-platz/03-3da5cef9-800w.webp"
+  - "/images/rosenthaler-platz/02-48479dcf-800w.webp"
+  - "/images/rosenthaler-platz/03-3da5cef9-800w.webp"
 ---
 
 ## Overview

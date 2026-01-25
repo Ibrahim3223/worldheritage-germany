@@ -1,23 +1,50 @@
 ---
-title: "Basilica of St. Quirinus"
-site_name: "Basilica of St. Quirinus"
-slug: "basilica-of-st-quirinus"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Basilica of St. Quirinus
+site_name: Basilica of St. Quirinus
+slug: basilica-of-st-quirinus
+region: North Rhine-Westphalia
 latitude: 51.1991
 longitude: 6.69321
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q896410"
-description: "Imagine stepping into a sacred space where history and spirituality intertwine seamlessly. The Basilica of St. Quirinus, a Roman Catholic church located..."
+- cultural site
+wikidata_id: Q896410
+description: Imagine stepping into a sacred space where history and spirituality intertwine
+  seamlessly. The Basilica of St. Quirinus, a Roman Catholic church located...
 images:
-  - "/images-sites/basilica-of-st-quirinus/01-c193961f-1920w.webp"
-  - "/images-sites/basilica-of-st-quirinus/02-6f8bc81c-1920w.webp"
-  - "/images-sites/basilica-of-st-quirinus/03-3c34974c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg/1200px-2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg/1200px-Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Basilica_St._Quirinus.jpg/1200px-Basilica_St._Quirinus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg/1200px-Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg/1200px-POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg
+image_srcset:
+  2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg/400px-2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg/800px-2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg/1200px-2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg/1920px-2009%20Turm%20Quirinusm%C3%BCnster%20Neuss.jpg
+  Kip ispred crkve sv. Kvirina, Sisak.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg/400px-Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg/800px-Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg/1200px-Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg/1920px-Kip_ispred_crkve_sv._Kvirina,_Sisak.jpg
+  Basilica St. Quirinus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Basilica_St._Quirinus.jpg/400px-Basilica_St._Quirinus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Basilica_St._Quirinus.jpg/800px-Basilica_St._Quirinus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Basilica_St._Quirinus.jpg/1200px-Basilica_St._Quirinus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Basilica_St._Quirinus.jpg/1920px-Basilica_St._Quirinus.jpg
+  Neuss (DE), Quirinus-Münster, Mittelschiff -- 2014 -- 1155.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg/400px-Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg/800px-Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg/1200px-Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg/1920px-Neuss_(DE),_Quirinus-Münster,_Mittelschiff_--_2014_--_1155.jpg
+  POPPEL(1852) p633 DER DOM IN NEUSS.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg/400px-POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg/800px-POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg/1200px-POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg/1920px-POPPEL(1852)_p633_DER_DOM_IN_NEUSS.jpg
 ---
 
 ## Overview

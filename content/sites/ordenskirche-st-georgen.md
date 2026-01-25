@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2029138"
 description: "The Ordenskirche St. Georgen is a striking example of baroque architecture located in the enchanting region of Bayreuth, Germany. This church building i..."
 images:
-  - "/images-sites/ordenskirche-st-georgen/01-e96d4588-1920w.webp"
-  - "/images-sites/ordenskirche-st-georgen/02-cdc7b16e-1920w.webp"
-  - "/images-sites/ordenskirche-st-georgen/03-22508f09-1920w.webp"
+  - "/images/ordenskirche-st-georgen/01-e96d4588-1920w.webp"
+  - "/images/ordenskirche-st-georgen/02-cdc7b16e-1920w.webp"
+  - "/images/ordenskirche-st-georgen/03-22508f09-1920w.webp"
 ---
 
 ## Overview

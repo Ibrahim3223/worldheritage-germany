@@ -1,19 +1,49 @@
 ---
-title: "Gothaer Haus der Versicherungsgeschichte"
+title: Gothaer Haus der Versicherungsgeschichte
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9431
 longitude: 10.7122
 images:
-  - "/images-sites/gothaer-haus-der-versicherungsgeschichte/01-936e73e4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/1200px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
+image_srcset:
+  GLAM Gotha Thüringer Finanzgericht-6538.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg/400px-GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg/800px-GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg/1920px-GLAM_Gotha_Thüringer_Finanzgericht-6538.jpg
+  GLAM Gotha Thüringer Finanzgericht-6539.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg/400px-GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg/800px-GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg/1920px-GLAM_Gotha_Thüringer_Finanzgericht-6539.jpg
+  GLAM Gotha Thüringer Finanzgericht-6540.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg/400px-GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg/800px-GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg/1920px-GLAM_Gotha_Thüringer_Finanzgericht-6540.jpg
+  GLAM Gotha Thüringer Finanzgericht-6542.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg/400px-GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg/800px-GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg/1200px-GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg/1920px-GLAM_Gotha_Thüringer_Finanzgericht-6542.jpg
+  Thuringia Gotha asv2020-07 img07 Versicherungsmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/400px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/800px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/1200px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg/1920px-Thuringia_Gotha_asv2020-07_img07_Versicherungsmuseum.jpg
 ---
 
 ## Overview

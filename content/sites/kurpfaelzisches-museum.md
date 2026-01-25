@@ -21,7 +21,7 @@ longitude: 8.70278
 
 # Images
 images:
-  - "/images-sites/kurpfaelzisches-museum/01-4f64f0f3-800w.webp"
+  - "/images/kurpfaelzisches-museum/01-4f64f0f3-800w.webp"
 ---
 
 ## Overview

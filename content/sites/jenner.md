@@ -1,19 +1,49 @@
 ---
-title: "Jenner"
+title: Jenner
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.5761
 longitude: 13.0244
 images:
-  - "/images-sites/jenner/01-80e07831-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg/1200px-Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg/1200px-Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/1200px-Edward_Jenner.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg/1200px-Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Jenner_by_James_Northcote.jpg/1200px-Edward_Jenner_by_James_Northcote.jpg
+image_srcset:
+  Edward Jenner. Oil painting. Wellcome M0006737.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg/400px-Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg/800px-Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg/1200px-Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg/1920px-Edward_Jenner._Oil_painting._Wellcome_M0006737.jpg
+  Portrait of Edward Jenner. Wellcome M0006237.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg/400px-Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg/800px-Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg/1200px-Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg/1920px-Portrait_of_Edward_Jenner._Wellcome_M0006237.jpg
+  Edward Jenner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/400px-Edward_Jenner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/800px-Edward_Jenner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/1200px-Edward_Jenner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Jenner.jpg/1920px-Edward_Jenner.jpg
+  Edward Jenner. Line engraving by C. Böhme after P. R. Vignér Wellcome V0003082.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg/400px-Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg/800px-Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg/1200px-Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg/1920px-Edward_Jenner._Line_engraving_by_C._Böhme_after_P._R._Vignér_Wellcome_V0003082.jpg
+  Edward Jenner by James Northcote.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Jenner_by_James_Northcote.jpg/400px-Edward_Jenner_by_James_Northcote.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Jenner_by_James_Northcote.jpg/800px-Edward_Jenner_by_James_Northcote.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Jenner_by_James_Northcote.jpg/1200px-Edward_Jenner_by_James_Northcote.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Jenner_by_James_Northcote.jpg/1920px-Edward_Jenner_by_James_Northcote.jpg
 ---
 
 ## Overview

@@ -21,8 +21,8 @@ longitude: 9.186875
 
 # Images
 images:
-  - "/images-sites/staatsgalerie-stuttgart/02-b4ebfdac-800w.webp"
-  - "/images-sites/staatsgalerie-stuttgart/03-d2d685f0-800w.webp"
+  - "/images/staatsgalerie-stuttgart/02-b4ebfdac-800w.webp"
+  - "/images/staatsgalerie-stuttgart/03-d2d685f0-800w.webp"
 ---
 
 ## Overview

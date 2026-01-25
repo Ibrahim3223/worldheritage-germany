@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1876714"
 description: "Luisenkirche, a Protestant church located in the Charlottenburg-Wilmersdorf district of Berlin, is a remarkable example of Neoclassical architecture. Fo..."
 images:
-  - "/images-sites/luisenkirche-charlottenburg/01-37b51a05-1920w.webp"
-  - "/images-sites/luisenkirche-charlottenburg/02-536e101a-1920w.webp"
-  - "/images-sites/luisenkirche-charlottenburg/03-8dd2db59-1920w.webp"
+  - "/images/luisenkirche-charlottenburg/01-37b51a05-1920w.webp"
+  - "/images/luisenkirche-charlottenburg/02-536e101a-1920w.webp"
+  - "/images/luisenkirche-charlottenburg/03-8dd2db59-1920w.webp"
 ---
 
 ## Overview

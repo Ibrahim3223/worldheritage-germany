@@ -13,7 +13,7 @@ regions:
 latitude: 49.372579
 longitude: 8.513379
 images:
-  - "/images-sites/ketscher-rheininsel/01-bc2fc494-800w.webp"
+  - "/images/ketscher-rheininsel/01-bc2fc494-800w.webp"
 ---
 
 ## Overview

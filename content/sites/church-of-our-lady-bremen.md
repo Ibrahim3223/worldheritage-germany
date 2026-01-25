@@ -1,23 +1,50 @@
 ---
-title: "Church of Our Lady (Bremen)"
-site_name: "Church of Our Lady (Bremen)"
-slug: "church-of-our-lady-bremen"
-region: "Bremen"
-
-# Location
+title: Church of Our Lady (Bremen)
+site_name: Church of Our Lady (Bremen)
+slug: church-of-our-lady-bremen
+region: Bremen
 latitude: 53.076339
 longitude: 8.807542
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1756463"
-description: "In the heart of Bremen, Germany, the Church of Our Lady stands as an exquisite example of Gothic architecture, inviting visitors to explore its historic..."
+- cultural site
+wikidata_id: Q1756463
+description: In the heart of Bremen, Germany, the Church of Our Lady stands as an
+  exquisite example of Gothic architecture, inviting visitors to explore its historic...
 images:
-  - "/images-sites/church-of-our-lady-bremen/01-b3f18e4a-1920w.webp"
-  - "/images-sites/church-of-our-lady-bremen/02-08327c7e-1920w.webp"
-  - "/images-sites/church-of-our-lady-bremen/03-37339c5b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg/1200px-Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg/1200px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg/1200px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg/1200px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Liebfrauenkirche_02.jpg/1200px-Liebfrauenkirche_02.jpg
+image_srcset:
+  Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg/400px-Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg/800px-Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg/1200px-Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg/1920px-Bremen%20Liebfrauenkirche%20aus%20der%20Hakenstr987.jpg
+  Bremen, Unser-Lieben-Frauen-Kirche -- 2021 -- 6366.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg/400px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg/800px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg/1200px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg/1920px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6366.jpg
+  Bremen, Unser-Lieben-Frauen-Kirche -- 2021 -- 6390.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg/400px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg/800px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg/1200px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg/1920px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6390.jpg
+  Bremen, Unser-Lieben-Frauen-Kirche -- 2021 -- 6368.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg/400px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg/800px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg/1200px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg/1920px-Bremen,_Unser-Lieben-Frauen-Kirche_--_2021_--_6368.jpg
+  Liebfrauenkirche 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Liebfrauenkirche_02.jpg/400px-Liebfrauenkirche_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Liebfrauenkirche_02.jpg/800px-Liebfrauenkirche_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Liebfrauenkirche_02.jpg/1200px-Liebfrauenkirche_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Liebfrauenkirche_02.jpg/1920px-Liebfrauenkirche_02.jpg
 ---
 
 ## Overview

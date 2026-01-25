@@ -13,7 +13,7 @@ regions:
 latitude: 51.5278
 longitude: 7.03111
 images:
-  - "/images-sites/mine-nordstern/01-c20942ca-800w.webp"
+  - "/images/mine-nordstern/01-c20942ca-800w.webp"
 ---
 
 ## Overview

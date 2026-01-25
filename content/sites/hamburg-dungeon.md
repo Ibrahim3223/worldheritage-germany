@@ -1,19 +1,49 @@
 ---
-title: "Hamburg Dungeon"
+title: Hamburg Dungeon
 date: 2026-01-23
 draft: false
-description: "tourist attraction in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: tourist attraction in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.543871
 longitude: 9.9894039
 images:
-  - "/images-sites/hamburg-dungeon/01-b7055b85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamburg_Dungeon_Speicherstadt.jpg/1200px-Hamburg_Dungeon_Speicherstadt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miniatur_Wunderland_building_02.JPG/1200px-Miniatur_Wunderland_building_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Speicherstadt_Hamburg_04.JPG/1200px-Speicherstadt_Hamburg_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/1200px-HamburgDungeon.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/1200px-HamburgDungeon2.JPG
+image_srcset:
+  Hamburg Dungeon Speicherstadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamburg_Dungeon_Speicherstadt.jpg/400px-Hamburg_Dungeon_Speicherstadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamburg_Dungeon_Speicherstadt.jpg/800px-Hamburg_Dungeon_Speicherstadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamburg_Dungeon_Speicherstadt.jpg/1200px-Hamburg_Dungeon_Speicherstadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hamburg_Dungeon_Speicherstadt.jpg/1920px-Hamburg_Dungeon_Speicherstadt.jpg
+  Miniatur Wunderland building 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miniatur_Wunderland_building_02.JPG/400px-Miniatur_Wunderland_building_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miniatur_Wunderland_building_02.JPG/800px-Miniatur_Wunderland_building_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miniatur_Wunderland_building_02.JPG/1200px-Miniatur_Wunderland_building_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Miniatur_Wunderland_building_02.JPG/1920px-Miniatur_Wunderland_building_02.JPG
+  Speicherstadt Hamburg 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Speicherstadt_Hamburg_04.JPG/400px-Speicherstadt_Hamburg_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Speicherstadt_Hamburg_04.JPG/800px-Speicherstadt_Hamburg_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Speicherstadt_Hamburg_04.JPG/1200px-Speicherstadt_Hamburg_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Speicherstadt_Hamburg_04.JPG/1920px-Speicherstadt_Hamburg_04.JPG
+  HamburgDungeon.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/400px-HamburgDungeon.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/800px-HamburgDungeon.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/1200px-HamburgDungeon.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HamburgDungeon.JPG/1920px-HamburgDungeon.JPG
+  HamburgDungeon2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/400px-HamburgDungeon2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/800px-HamburgDungeon2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/1200px-HamburgDungeon2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HamburgDungeon2.JPG/1920px-HamburgDungeon2.JPG
 ---
 
 ## Overview

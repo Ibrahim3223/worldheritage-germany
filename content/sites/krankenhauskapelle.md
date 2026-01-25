@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1252594"
 description: "In the heart of Halle (Saale), Germany, stands the Krankenhauskapelle, a striking church building that embodies the elegance of Gothic Revival architect..."
 images:
-  - "/images-sites/krankenhauskapelle/01-e2878207-1920w.webp"
-  - "/images-sites/krankenhauskapelle/02-d35024a4-1920w.webp"
-  - "/images-sites/krankenhauskapelle/03-8f04e12d-1920w.webp"
+  - "/images/krankenhauskapelle/01-e2878207-1920w.webp"
+  - "/images/krankenhauskapelle/02-d35024a4-1920w.webp"
+  - "/images/krankenhauskapelle/03-8f04e12d-1920w.webp"
 ---
 
 ## Overview

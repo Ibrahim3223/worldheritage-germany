@@ -13,7 +13,7 @@ regions:
 latitude: 52.320277777
 longitude: 12.743333333
 images:
-  - "/images-sites/lehnin-abbey/01-aac199ac-800w.webp"
+  - "/images/lehnin-abbey/01-aac199ac-800w.webp"
 ---
 
 ## Overview

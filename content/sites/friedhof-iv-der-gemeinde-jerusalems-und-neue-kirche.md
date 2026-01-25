@@ -1,19 +1,49 @@
 ---
-title: "Friedhof IV der Gemeinde Jerusalems- und Neue Kirche"
+title: Friedhof IV der Gemeinde Jerusalems- und Neue Kirche
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.486388888
 longitude: 13.403888888
 images:
-  - "/images-sites/friedhof-iv-der-gemeinde-jerusalems-und-neue-kirche/01-a1cadf57-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg/1200px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg/1200px-Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg/1200px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grave_of_Margot_Leonhard-ME_fec.jpg/1200px-Grave_of_Margot_Leonhard-ME_fec.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hermann_von_der_Hude-ME_fec.jpg/1200px-Hermann_von_der_Hude-ME_fec.jpg
+image_srcset:
+  Friedhof IV der Gemeinde Jerusalems- und Neue Kirche (Berlin-Kreuzberg) Totengräberhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg/400px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg/800px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg/1200px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg/1920px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+  Gedenktafel Bergmannstr 47 (Kreuz) Friedhof IV2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg/400px-Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg/800px-Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg/1200px-Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg/1920px-Gedenktafel_Bergmannstr_47_(Kreuz)_Friedhof_IV2.jpg
+  Friedhof IV der Gemeinde Jerusalems- und Neue Kirche (Berlin-Kreuzberg) Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg/400px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg/800px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg/1200px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg/1920px-Friedhof_IV_der_Gemeinde_Jerusalems-_und_Neue_Kirche_(Berlin-Kreuzberg)_Kapelle.jpg
+  Grave of Margot Leonhard-ME fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grave_of_Margot_Leonhard-ME_fec.jpg/400px-Grave_of_Margot_Leonhard-ME_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grave_of_Margot_Leonhard-ME_fec.jpg/800px-Grave_of_Margot_Leonhard-ME_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grave_of_Margot_Leonhard-ME_fec.jpg/1200px-Grave_of_Margot_Leonhard-ME_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grave_of_Margot_Leonhard-ME_fec.jpg/1920px-Grave_of_Margot_Leonhard-ME_fec.jpg
+  Hermann von der Hude-ME fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hermann_von_der_Hude-ME_fec.jpg/400px-Hermann_von_der_Hude-ME_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hermann_von_der_Hude-ME_fec.jpg/800px-Hermann_von_der_Hude-ME_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hermann_von_der_Hude-ME_fec.jpg/1200px-Hermann_von_der_Hude-ME_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hermann_von_der_Hude-ME_fec.jpg/1920px-Hermann_von_der_Hude-ME_fec.jpg
 ---
 
 ## Overview

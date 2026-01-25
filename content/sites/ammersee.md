@@ -1,19 +1,49 @@
 ---
-title: "Ammersee"
+title: Ammersee
 date: 2026-01-23
 draft: false
-description: "lake in Upper Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Upper Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0
 longitude: 11.116666666
 images:
-  - "/images-sites/ammersee/01-fc5cd81e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg/1200px-20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20220102_Lakefront_Inning_am_Ammersee_06.jpg/1200px-20220102_Lakefront_Inning_am_Ammersee_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20180118Skulpturenweg_Ammersee_11.jpg/1200px-20180118Skulpturenweg_Ammersee_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20180118_Fischerhütte_am_Ammersee.jpg/1200px-20180118_Fischerhütte_am_Ammersee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
+image_srcset:
+  20220515 MS Utting Ammersee DSC03805 PtrQs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg/400px-20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg/800px-20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg/1200px-20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg/1920px-20220515_MS_Utting_Ammersee_DSC03805_PtrQs.jpg
+  20220102 Lakefront Inning am Ammersee 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20220102_Lakefront_Inning_am_Ammersee_06.jpg/400px-20220102_Lakefront_Inning_am_Ammersee_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20220102_Lakefront_Inning_am_Ammersee_06.jpg/800px-20220102_Lakefront_Inning_am_Ammersee_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20220102_Lakefront_Inning_am_Ammersee_06.jpg/1200px-20220102_Lakefront_Inning_am_Ammersee_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20220102_Lakefront_Inning_am_Ammersee_06.jpg/1920px-20220102_Lakefront_Inning_am_Ammersee_06.jpg
+  20180118Skulpturenweg Ammersee 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20180118Skulpturenweg_Ammersee_11.jpg/400px-20180118Skulpturenweg_Ammersee_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20180118Skulpturenweg_Ammersee_11.jpg/800px-20180118Skulpturenweg_Ammersee_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20180118Skulpturenweg_Ammersee_11.jpg/1200px-20180118Skulpturenweg_Ammersee_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20180118Skulpturenweg_Ammersee_11.jpg/1920px-20180118Skulpturenweg_Ammersee_11.jpg
+  20180118 Fischerhütte am Ammersee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20180118_Fischerhütte_am_Ammersee.jpg/400px-20180118_Fischerhütte_am_Ammersee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20180118_Fischerhütte_am_Ammersee.jpg/800px-20180118_Fischerhütte_am_Ammersee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20180118_Fischerhütte_am_Ammersee.jpg/1200px-20180118_Fischerhütte_am_Ammersee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20180118_Fischerhütte_am_Ammersee.jpg/1920px-20180118_Fischerhütte_am_Ammersee.jpg
+  Aerial image of the Ammersee (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/400px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/800px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aerial_image_of_the_Ammersee_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Ammersee_(view_from_the_south).jpg
 ---
 
 ## Overview

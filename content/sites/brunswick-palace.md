@@ -1,19 +1,49 @@
 ---
-title: "Brunswick Palace"
+title: Brunswick Palace
 date: 2026-01-23
 draft: false
-description: "Palace in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: Palace in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2631
 longitude: 10.5272
 images:
-  - "/images-sites/brunswick-palace/01-9fcf556a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Braunschweiger_Schloss.jpg/1200px-Braunschweiger_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Façade_Braunschweiger_Schloss.jpg/1200px-Façade_Braunschweiger_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/1200px-Braunschweig_Residenzschloss_um_189711.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg/1200px-Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1200px-ECE_Schloss_06u07_1b.jpg
+image_srcset:
+  Braunschweiger Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Braunschweiger_Schloss.jpg/400px-Braunschweiger_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Braunschweiger_Schloss.jpg/800px-Braunschweiger_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Braunschweiger_Schloss.jpg/1200px-Braunschweiger_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Braunschweiger_Schloss.jpg/1920px-Braunschweiger_Schloss.jpg
+  Façade Braunschweiger Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Façade_Braunschweiger_Schloss.jpg/400px-Façade_Braunschweiger_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Façade_Braunschweiger_Schloss.jpg/800px-Façade_Braunschweiger_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Façade_Braunschweiger_Schloss.jpg/1200px-Façade_Braunschweiger_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Façade_Braunschweiger_Schloss.jpg/1920px-Façade_Braunschweiger_Schloss.jpg
+  Braunschweig Residenzschloss um 189711.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/400px-Braunschweig_Residenzschloss_um_189711.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/800px-Braunschweig_Residenzschloss_um_189711.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/1200px-Braunschweig_Residenzschloss_um_189711.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Residenzschloss_um_189711.jpg/1920px-Braunschweig_Residenzschloss_um_189711.jpg
+  Ducal Castle Brunswick (i.e. Braunschweig) Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg/400px-Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg/800px-Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg/1200px-Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg/1920px-Ducal_Castle_Brunswick_(i.e._Braunschweig)_Germany.jpg
+  ECE Schloss 06u07 1b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/400px-ECE_Schloss_06u07_1b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/800px-ECE_Schloss_06u07_1b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1200px-ECE_Schloss_06u07_1b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ECE_Schloss_06u07_1b.jpg/1920px-ECE_Schloss_06u07_1b.jpg
 ---
 
 ## Overview

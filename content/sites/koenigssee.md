@@ -13,9 +13,9 @@ regions:
 latitude: 47.55
 longitude: 12.975
 images:
-  - "/images-sites/koenigssee/01-971f9f92-800w.webp"
-  - "/images-sites/koenigssee/02-209a2ed3-800w.webp"
-  - "/images-sites/koenigssee/03-fc30101a-800w.webp"
+  - "/images/koenigssee/01-971f9f92-800w.webp"
+  - "/images/koenigssee/02-209a2ed3-800w.webp"
+  - "/images/koenigssee/03-fc30101a-800w.webp"
 ---
 
 ## Overview

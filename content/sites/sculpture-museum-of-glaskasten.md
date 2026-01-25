@@ -13,9 +13,9 @@ regions:
 latitude: 51.6561763
 longitude: 7.0946834
 images:
-  - "/images-sites/sculpture-museum-of-glaskasten/01-ad5012e3-800w.webp"
-  - "/images-sites/sculpture-museum-of-glaskasten/02-be317362-800w.webp"
-  - "/images-sites/sculpture-museum-of-glaskasten/03-e1a0aff7-800w.webp"
+  - "/images/sculpture-museum-of-glaskasten/01-ad5012e3-800w.webp"
+  - "/images/sculpture-museum-of-glaskasten/02-be317362-800w.webp"
+  - "/images/sculpture-museum-of-glaskasten/03-e1a0aff7-800w.webp"
 ---
 
 ## Overview

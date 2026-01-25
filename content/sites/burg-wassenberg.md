@@ -1,27 +1,49 @@
 ---
-title: "Burg Wassenberg"
+title: Burg Wassenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1009
 longitude: 6.15769
-
-# Images
 images:
-  - "/images-sites/burg-wassenberg/01-5a932400-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wassenberg_Burg_680.jpg/1200px-Wassenberg_Burg_680.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg/1200px-Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg/1200px-Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg/1200px-Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wassenberg_19Jh.jpg/1200px-Wassenberg_19Jh.jpg
+image_srcset:
+  Wassenberg Burg 680.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wassenberg_Burg_680.jpg/400px-Wassenberg_Burg_680.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wassenberg_Burg_680.jpg/800px-Wassenberg_Burg_680.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wassenberg_Burg_680.jpg/1200px-Wassenberg_Burg_680.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wassenberg_Burg_680.jpg/1920px-Wassenberg_Burg_680.jpg
+  Wassenberg - Auf dem Burgberg - Burg 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg/400px-Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg/800px-Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg/1200px-Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg/1920px-Wassenberg_-_Auf_dem_Burgberg_-_Burg_05_ies.jpg
+  Wassenberg - St-Georg-Platz - Burg 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg/400px-Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg/800px-Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg/1200px-Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg/1920px-Wassenberg_-_St-Georg-Platz_-_Burg_01_ies.jpg
+  Wassenberg , Deutschland , Burg - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg/400px-Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg/800px-Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg/1200px-Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg/1920px-Wassenberg_,_Deutschland_,_Burg_-_panoramio.jpg
+  Wassenberg 19Jh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wassenberg_19Jh.jpg/400px-Wassenberg_19Jh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wassenberg_19Jh.jpg/800px-Wassenberg_19Jh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wassenberg_19Jh.jpg/1200px-Wassenberg_19Jh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wassenberg_19Jh.jpg/1920px-Wassenberg_19Jh.jpg
 ---
 
 ## Overview

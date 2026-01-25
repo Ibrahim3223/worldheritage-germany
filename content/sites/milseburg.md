@@ -21,8 +21,8 @@ longitude: 9.898055555
 
 # Images
 images:
-  - "/images-sites/milseburg/02-0d715e7f-800w.webp"
-  - "/images-sites/milseburg/03-9c131621-800w.webp"
+  - "/images/milseburg/02-0d715e7f-800w.webp"
+  - "/images/milseburg/03-9c131621-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.168579
 longitude: 7.3183367
 images:
-  - "/images-sites/ufer-und-talhaenge-der-wuppertalsperre/01-102a5fa5-800w.webp"
+  - "/images/ufer-und-talhaenge-der-wuppertalsperre/01-102a5fa5-800w.webp"
 ---
 
 ## Overview

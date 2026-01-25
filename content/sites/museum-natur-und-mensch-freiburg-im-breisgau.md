@@ -13,7 +13,7 @@ regions:
 latitude: 47.99331
 longitude: 7.85159
 images:
-  - "/images-sites/museum-natur-und-mensch-freiburg-im-breisgau/01-19ef0288-800w.webp"
+  - "/images/museum-natur-und-mensch-freiburg-im-breisgau/01-19ef0288-800w.webp"
 ---
 
 ## Overview

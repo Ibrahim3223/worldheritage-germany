@@ -13,7 +13,7 @@ regions:
 latitude: 52.442777777
 longitude: 13.216666666
 images:
-  - "/images-sites/schlachtensee/01-93281548-800w.webp"
+  - "/images/schlachtensee/01-93281548-800w.webp"
 ---
 
 ## Overview 

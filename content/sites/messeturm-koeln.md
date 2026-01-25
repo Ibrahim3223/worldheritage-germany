@@ -13,7 +13,7 @@ regions:
 latitude: 50.9444
 longitude: 6.96972
 images:
-  - "/images-sites/messeturm-koeln/01-cc4a4ec5-800w.webp"
+  - "/images/messeturm-koeln/01-cc4a4ec5-800w.webp"
 ---
 
 ## Overview

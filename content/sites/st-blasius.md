@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1283049"
 description: "St. Blasius stands as a significant church building in Düsseldorf-Hamm, Germany. Founded in 1909, this architectural gem showcases Romanesque Revival ar..."
 images:
-  - "/images-sites/st-blasius/01-233e1365-1920w.webp"
-  - "/images-sites/st-blasius/02-eba19c96-1920w.webp"
-  - "/images-sites/st-blasius/03-a76ddc16-1920w.webp"
+  - "/images/st-blasius/01-233e1365-1920w.webp"
+  - "/images/st-blasius/02-eba19c96-1920w.webp"
+  - "/images/st-blasius/03-a76ddc16-1920w.webp"
 ---
 
 ## Overview

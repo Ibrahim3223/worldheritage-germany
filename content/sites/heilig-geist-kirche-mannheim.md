@@ -1,20 +1,51 @@
 ---
-title: "Heilig-Geist-Kirche (Mannheim)"
-site_name: "Heilig-Geist-Kirche (Mannheim)"
-slug: "heilig-geist-kirche-mannheim"
-region: "Hesse"
-
-# Location
+title: Heilig-Geist-Kirche (Mannheim)
+site_name: Heilig-Geist-Kirche (Mannheim)
+slug: heilig-geist-kirche-mannheim
+region: Hesse
 latitude: 49.4814
 longitude: 8.4758
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1594878"
-description: "Heilig-Geist-Kirche, a striking example of Gothic Revival architecture, stands prominently in Mannheim, Germany. Known for its intricate design and hist..."
+- church building
+- religious site
+wikidata_id: Q1594878
+description: Heilig-Geist-Kirche, a striking example of Gothic Revival architecture,
+  stands prominently in Mannheim, Germany. Known for its intricate design and hist...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg/1200px-Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Heilig-Geist-Kirche_Mannheim_12.jpg/1200px-20180714_Heilig-Geist-Kirche_Mannheim_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20180714_Heilig-Geist-Kirche_Mannheim_07.jpg/1200px-20180714_Heilig-Geist-Kirche_Mannheim_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20180714_Heilig-Geist-Kirche_Mannheim_09.jpg/1200px-20180714_Heilig-Geist-Kirche_Mannheim_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mannheim_Heilig-Geist-Kirche_außen_1.jpg/1200px-Mannheim_Heilig-Geist-Kirche_außen_1.jpg
+image_srcset:
+  Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg/400px-Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg/800px-Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg/1200px-Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg/1920px-Mannheim%20Heilig-Geist-Kirche%20au%C3%9Fen%201.jpg
+  20180714 Heilig-Geist-Kirche Mannheim 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Heilig-Geist-Kirche_Mannheim_12.jpg/400px-20180714_Heilig-Geist-Kirche_Mannheim_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Heilig-Geist-Kirche_Mannheim_12.jpg/800px-20180714_Heilig-Geist-Kirche_Mannheim_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Heilig-Geist-Kirche_Mannheim_12.jpg/1200px-20180714_Heilig-Geist-Kirche_Mannheim_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20180714_Heilig-Geist-Kirche_Mannheim_12.jpg/1920px-20180714_Heilig-Geist-Kirche_Mannheim_12.jpg
+  20180714 Heilig-Geist-Kirche Mannheim 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20180714_Heilig-Geist-Kirche_Mannheim_07.jpg/400px-20180714_Heilig-Geist-Kirche_Mannheim_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20180714_Heilig-Geist-Kirche_Mannheim_07.jpg/800px-20180714_Heilig-Geist-Kirche_Mannheim_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20180714_Heilig-Geist-Kirche_Mannheim_07.jpg/1200px-20180714_Heilig-Geist-Kirche_Mannheim_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20180714_Heilig-Geist-Kirche_Mannheim_07.jpg/1920px-20180714_Heilig-Geist-Kirche_Mannheim_07.jpg
+  20180714 Heilig-Geist-Kirche Mannheim 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20180714_Heilig-Geist-Kirche_Mannheim_09.jpg/400px-20180714_Heilig-Geist-Kirche_Mannheim_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20180714_Heilig-Geist-Kirche_Mannheim_09.jpg/800px-20180714_Heilig-Geist-Kirche_Mannheim_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20180714_Heilig-Geist-Kirche_Mannheim_09.jpg/1200px-20180714_Heilig-Geist-Kirche_Mannheim_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20180714_Heilig-Geist-Kirche_Mannheim_09.jpg/1920px-20180714_Heilig-Geist-Kirche_Mannheim_09.jpg
+  Mannheim Heilig-Geist-Kirche außen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mannheim_Heilig-Geist-Kirche_außen_1.jpg/400px-Mannheim_Heilig-Geist-Kirche_außen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mannheim_Heilig-Geist-Kirche_außen_1.jpg/800px-Mannheim_Heilig-Geist-Kirche_außen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mannheim_Heilig-Geist-Kirche_außen_1.jpg/1200px-Mannheim_Heilig-Geist-Kirche_außen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mannheim_Heilig-Geist-Kirche_außen_1.jpg/1920px-Mannheim_Heilig-Geist-Kirche_außen_1.jpg
 ---
 
 ## Overview

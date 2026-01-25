@@ -1,19 +1,49 @@
 ---
-title: "Halle (Saale) Central Station"
+title: Halle (Saale) Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4781
 longitude: 11.9867
 images:
-  - "/images-sites/halle-saale-central-station/01-799de52f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg/1200px-J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg/1200px-J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg/1200px-J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg/1200px-I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1200px-Hbf_Halle_(Saale).jpg
+image_srcset:
+  J34 045 Bf Halle (S) Hbf, Bahnsteighallen Ostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg/400px-J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg/800px-J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg/1200px-J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg/1920px-J34_045_Bf_Halle_(S)_Hbf,_Bahnsteighallen_Ostseite.jpg
+  J34 051 Bf Halle (S) Hbf, Zwsig O349. O348.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg/400px-J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg/800px-J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg/1200px-J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg/1920px-J34_051_Bf_Halle_(S)_Hbf,_Zwsig_O349._O348.jpg
+  J34 050 Bf Halle (S) Hbf, Gleis 348 (Bahnsteig 13a).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg/400px-J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg/800px-J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg/1200px-J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg/1920px-J34_050_Bf_Halle_(S)_Hbf,_Gleis_348_(Bahnsteig_13a).jpg
+  I20 086 Straßennamen, Zugang Bahnsteig 13a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg/400px-I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg/800px-I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg/1200px-I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg/1920px-I20_086_Straßennamen,_Zugang_Bahnsteig_13a.jpg
+  Hbf Halle (Saale).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/400px-Hbf_Halle_(Saale).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/800px-Hbf_Halle_(Saale).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1200px-Hbf_Halle_(Saale).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hbf_Halle_(Saale).jpg/1920px-Hbf_Halle_(Saale).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.614053
 longitude: 7.66542
 images:
-  - "/images-sites/loerrach-central-station/01-c0b8cf41-800w.webp"
+  - "/images/loerrach-central-station/01-c0b8cf41-800w.webp"
 ---
 
 ## Overview

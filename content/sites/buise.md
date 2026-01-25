@@ -1,19 +1,25 @@
 ---
-title: "Buise"
+title: Buise
 date: 2026-01-23
 draft: false
-description: "island"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 53.707222
 longitude: 7.146944
 images:
-  - "/images-sites/buise/01-fd80f4dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/East_Friesland_1584_map_by_Waghenaer.jpg/1200px-East_Friesland_1584_map_by_Waghenaer.jpg
+image_srcset:
+  East Friesland 1584 map by Waghenaer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/East_Friesland_1584_map_by_Waghenaer.jpg/400px-East_Friesland_1584_map_by_Waghenaer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/East_Friesland_1584_map_by_Waghenaer.jpg/800px-East_Friesland_1584_map_by_Waghenaer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/East_Friesland_1584_map_by_Waghenaer.jpg/1200px-East_Friesland_1584_map_by_Waghenaer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/East_Friesland_1584_map_by_Waghenaer.jpg/1920px-East_Friesland_1584_map_by_Waghenaer.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.691944444
 longitude: 11.406666666
 images:
-  - "/images-sites/kirch-stuecker-see/01-dc418b47-800w.webp"
+  - "/images/kirch-stuecker-see/01-dc418b47-800w.webp"
 ---
 
 ## Overview

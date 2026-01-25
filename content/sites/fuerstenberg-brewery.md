@@ -1,27 +1,49 @@
 ---
-title: "Fürstenberg Brewery"
+title: Fürstenberg Brewery
 date: 2026-01-23
 draft: false
-description: "brewery in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.95174
 longitude: 8.49965
-
-# Images
 images:
-  - "/images-sites/fuerstenberg-brewery/01-6546d99f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Donaueschingen_Haldenstraße_6.jpg/1200px-Donaueschingen_Haldenstraße_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg/1200px-Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fuerstenberg_5239.jpg/1200px-Fuerstenberg_5239.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gleichstrommotor_9114.jpg/1200px-Gleichstrommotor_9114.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fürstenberg_Brauerei_Logo.png/1200px-Fürstenberg_Brauerei_Logo.png
+image_srcset:
+  Donaueschingen Haldenstraße 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Donaueschingen_Haldenstraße_6.jpg/400px-Donaueschingen_Haldenstraße_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Donaueschingen_Haldenstraße_6.jpg/800px-Donaueschingen_Haldenstraße_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Donaueschingen_Haldenstraße_6.jpg/1200px-Donaueschingen_Haldenstraße_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Donaueschingen_Haldenstraße_6.jpg/1920px-Donaueschingen_Haldenstraße_6.jpg
+  Fürstliche Fürstenbergische Brauerei in Donaueschingen (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg/400px-Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg/800px-Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg/1200px-Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg/1920px-Fürstliche_Fürstenbergische_Brauerei_in_Donaueschingen_(2025).jpg
+  Fuerstenberg 5239.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fuerstenberg_5239.jpg/400px-Fuerstenberg_5239.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fuerstenberg_5239.jpg/800px-Fuerstenberg_5239.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fuerstenberg_5239.jpg/1200px-Fuerstenberg_5239.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fuerstenberg_5239.jpg/1920px-Fuerstenberg_5239.jpg
+  Gleichstrommotor 9114.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gleichstrommotor_9114.jpg/400px-Gleichstrommotor_9114.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gleichstrommotor_9114.jpg/800px-Gleichstrommotor_9114.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gleichstrommotor_9114.jpg/1200px-Gleichstrommotor_9114.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gleichstrommotor_9114.jpg/1920px-Gleichstrommotor_9114.jpg
+  Fürstenberg Brauerei Logo.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fürstenberg_Brauerei_Logo.png/400px-Fürstenberg_Brauerei_Logo.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fürstenberg_Brauerei_Logo.png/800px-Fürstenberg_Brauerei_Logo.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fürstenberg_Brauerei_Logo.png/1200px-Fürstenberg_Brauerei_Logo.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fürstenberg_Brauerei_Logo.png/1920px-Fürstenberg_Brauerei_Logo.png
 ---
 
 ## Overview

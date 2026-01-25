@@ -13,7 +13,7 @@ regions:
 latitude: 53.281388888
 longitude: 12.807222222
 images:
-  - "/images-sites/mirower-see/01-8ab0cd38-800w.webp"
+  - "/images/mirower-see/01-8ab0cd38-800w.webp"
 ---
 
 ## Overview

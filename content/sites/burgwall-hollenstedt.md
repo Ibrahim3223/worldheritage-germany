@@ -1,19 +1,43 @@
 ---
-title: "Burgwall Hollenstedt"
+title: Burgwall Hollenstedt
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 53.3528
 longitude: 9.71829
 images:
-  - "/images-sites/burgwall-hollenstedt/01-bbe25fc6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panorama_Burgwall_Hollenstedt.jpg/1200px-Panorama_Burgwall_Hollenstedt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burgwall_Hollenstedt_east.jpg/1200px-Burgwall_Hollenstedt_east.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burgwall_Hollenstedt_west.jpg/1200px-Burgwall_Hollenstedt_west.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ringwall_Hollenstedt-P6141296.jpg/1200px-Ringwall_Hollenstedt-P6141296.jpg
+image_srcset:
+  Panorama Burgwall Hollenstedt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panorama_Burgwall_Hollenstedt.jpg/400px-Panorama_Burgwall_Hollenstedt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panorama_Burgwall_Hollenstedt.jpg/800px-Panorama_Burgwall_Hollenstedt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panorama_Burgwall_Hollenstedt.jpg/1200px-Panorama_Burgwall_Hollenstedt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panorama_Burgwall_Hollenstedt.jpg/1920px-Panorama_Burgwall_Hollenstedt.jpg
+  Burgwall Hollenstedt east.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burgwall_Hollenstedt_east.jpg/400px-Burgwall_Hollenstedt_east.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burgwall_Hollenstedt_east.jpg/800px-Burgwall_Hollenstedt_east.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burgwall_Hollenstedt_east.jpg/1200px-Burgwall_Hollenstedt_east.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burgwall_Hollenstedt_east.jpg/1920px-Burgwall_Hollenstedt_east.jpg
+  Burgwall Hollenstedt west.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burgwall_Hollenstedt_west.jpg/400px-Burgwall_Hollenstedt_west.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burgwall_Hollenstedt_west.jpg/800px-Burgwall_Hollenstedt_west.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burgwall_Hollenstedt_west.jpg/1200px-Burgwall_Hollenstedt_west.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burgwall_Hollenstedt_west.jpg/1920px-Burgwall_Hollenstedt_west.jpg
+  Ringwall Hollenstedt-P6141296.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ringwall_Hollenstedt-P6141296.jpg/400px-Ringwall_Hollenstedt-P6141296.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ringwall_Hollenstedt-P6141296.jpg/800px-Ringwall_Hollenstedt-P6141296.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ringwall_Hollenstedt-P6141296.jpg/1200px-Ringwall_Hollenstedt-P6141296.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ringwall_Hollenstedt-P6141296.jpg/1920px-Ringwall_Hollenstedt-P6141296.jpg
 ---
 
 ## Overview

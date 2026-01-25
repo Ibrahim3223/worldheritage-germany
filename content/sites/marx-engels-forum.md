@@ -13,7 +13,7 @@ regions:
 latitude: 52.5183
 longitude: 13.4042
 images:
-  - "/images-sites/marx-engels-forum/01-a9233359-800w.webp"
+  - "/images/marx-engels-forum/01-a9233359-800w.webp"
 ---
 
 ## Overview

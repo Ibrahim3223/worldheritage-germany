@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Stadtkirche Dinslaken"
-site_name: "Evangelische Stadtkirche Dinslaken"
-slug: "evangelische-stadtkirche-dinslaken"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Stadtkirche Dinslaken
+site_name: Evangelische Stadtkirche Dinslaken
+slug: evangelische-stadtkirche-dinslaken
+region: North Rhine-Westphalia
 latitude: 51.5617
 longitude: 6.73411
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381154"
-description: "In the heart of Dinslaken, the Evangelische Stadtkirche Dinslaken stands as a significant landmark, embodying the essence of Protestant faith and baroqu..."
+- church building
+- religious site
+wikidata_id: Q1381154
+description: In the heart of Dinslaken, the Evangelische Stadtkirche Dinslaken stands
+  as a significant landmark, embodying the essence of Protestant faith and baroqu...
 images:
-  - "/images-sites/evangelische-stadtkirche-dinslaken/01-f7db02f3-1920w.webp"
-  - "/images-sites/evangelische-stadtkirche-dinslaken/02-3734befe-1920w.webp"
-  - "/images-sites/evangelische-stadtkirche-dinslaken/03-45227508-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg/1200px-NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg/1200px-Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/1200px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg/1200px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dinslaken_ev_stadtkirche.jpg/1200px-Dinslaken_ev_stadtkirche.jpg
+image_srcset:
+  NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg/400px-NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg/800px-NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg/1200px-NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg/1920px-NRW%2C%20Dinslaken%20-%20Evangelische%20Stadtkirche%2001.jpg
+  Dinslaken-Relief an der Evangelischen Stadtkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg/400px-Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg/800px-Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg/1200px-Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg/1920px-Dinslaken-Relief_an_der_Evangelischen_Stadtkirche.jpg
+  NRW, Dinslaken - Evangelische Stadtkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/400px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/800px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/1200px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg/1920px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_01.jpg
+  NRW, Dinslaken - Evangelische Stadtkirche 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg/400px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg/800px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg/1200px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg/1920px-NRW,_Dinslaken_-_Evangelische_Stadtkirche_02.jpg
+  Dinslaken ev stadtkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dinslaken_ev_stadtkirche.jpg/400px-Dinslaken_ev_stadtkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dinslaken_ev_stadtkirche.jpg/800px-Dinslaken_ev_stadtkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dinslaken_ev_stadtkirche.jpg/1200px-Dinslaken_ev_stadtkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dinslaken_ev_stadtkirche.jpg/1920px-Dinslaken_ev_stadtkirche.jpg
 ---
 
 ## Overview

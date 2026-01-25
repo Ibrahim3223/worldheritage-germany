@@ -1,20 +1,51 @@
 ---
-title: "Evangeliumskirche"
-site_name: "Evangeliumskirche"
-slug: "evangeliumskirche"
-region: "Bavaria"
-
-# Location
+title: Evangeliumskirche
+site_name: Evangeliumskirche
+slug: evangeliumskirche
+region: Bavaria
 latitude: 48.2172
 longitude: 11.5539
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381449"
-description: "In the heart of Munich, the Evangeliumskirche stands as a modern testament to faith and community. This Lutheran church, founded in 1962, embodies a uni..."
+- church building
+- religious site
+wikidata_id: Q1381449
+description: In the heart of Munich, the Evangeliumskirche stands as a modern testament
+  to faith and community. This Lutheran church, founded in 1962, embodies a uni...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg/1200px-Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg/1200px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg/1200px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg/1200px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/1200px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
+image_srcset:
+  Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg/400px-Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg/800px-Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg/1200px-Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg/1920px-Evangeliumskirche%20Muenchen-Hasenbergl%201.jpg
+  Stanigplatz Evangeliumskirche Hasenbergl Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg/400px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg/800px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg/1200px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg/1920px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-2.jpg
+  Stanigplatz Evangeliumskirche Hasenbergl Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg/400px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg/800px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg/1200px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg/1920px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-1.jpg
+  Stanigplatz Evangeliumskirche Hasenbergl Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg/400px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg/800px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg/1200px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg/1920px-Stanigplatz_Evangeliumskirche_Hasenbergl_Muenchen-4.jpg
+  Evangeliumskirche Muenchen-Hasenbergl 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/400px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/800px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/1200px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Evangeliumskirche_Muenchen-Hasenbergl_1.jpg/1920px-Evangeliumskirche_Muenchen-Hasenbergl_1.jpg
 ---
 
 ## Overview

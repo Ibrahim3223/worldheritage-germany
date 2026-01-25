@@ -13,7 +13,7 @@ regions:
 latitude: 53.855
 longitude: 8.081667
 images:
-  - "/images-sites/roter-sand/01-2fb7eef3-800w.webp"
+  - "/images/roter-sand/01-2fb7eef3-800w.webp"
 ---
 
 ## Overview

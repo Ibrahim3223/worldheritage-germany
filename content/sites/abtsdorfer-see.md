@@ -1,19 +1,43 @@
 ---
-title: "Abtsdorfer See"
+title: Abtsdorfer See
 date: 2026-01-23
 draft: false
-description: "lake in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.910555555
 longitude: 12.907777777
 images:
-  - "/images-sites/abtsdorfer-see/02-555861b2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LSG_Abtsdorfer_See_1.jpg/1200px-LSG_Abtsdorfer_See_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abtsdorfer_See_20031226.jpg/1200px-Abtsdorfer_See_20031226.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Panorama_Abtsee.jpg/1200px-Panorama_Abtsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abtssee3.jpg/1200px-Abtssee3.jpg
+image_srcset:
+  LSG Abtsdorfer See 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LSG_Abtsdorfer_See_1.jpg/400px-LSG_Abtsdorfer_See_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LSG_Abtsdorfer_See_1.jpg/800px-LSG_Abtsdorfer_See_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LSG_Abtsdorfer_See_1.jpg/1200px-LSG_Abtsdorfer_See_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LSG_Abtsdorfer_See_1.jpg/1920px-LSG_Abtsdorfer_See_1.jpg
+  Abtsdorfer See 20031226.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abtsdorfer_See_20031226.jpg/400px-Abtsdorfer_See_20031226.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abtsdorfer_See_20031226.jpg/800px-Abtsdorfer_See_20031226.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abtsdorfer_See_20031226.jpg/1200px-Abtsdorfer_See_20031226.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Abtsdorfer_See_20031226.jpg/1920px-Abtsdorfer_See_20031226.jpg
+  Panorama Abtsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Panorama_Abtsee.jpg/400px-Panorama_Abtsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Panorama_Abtsee.jpg/800px-Panorama_Abtsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Panorama_Abtsee.jpg/1200px-Panorama_Abtsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Panorama_Abtsee.jpg/1920px-Panorama_Abtsee.jpg
+  Abtssee3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abtssee3.jpg/400px-Abtssee3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abtssee3.jpg/800px-Abtssee3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abtssee3.jpg/1200px-Abtssee3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abtssee3.jpg/1920px-Abtssee3.jpg
 ---
 
 ## Overview

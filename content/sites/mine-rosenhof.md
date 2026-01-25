@@ -13,7 +13,7 @@ regions:
 latitude: 51.80466
 longitude: 10.32407
 images:
-  - "/images-sites/mine-rosenhof/01-43797576-800w.webp"
+  - "/images/mine-rosenhof/01-43797576-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Kaiser Wilhelm Memorial Cemetery"
+title: Kaiser Wilhelm Memorial Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5259
 longitude: 13.2779
 images:
-  - "/images-sites/kaiser-wilhelm-memorial-cemetery/01-cdcb332b-800w.webp"
-  - "/images-sites/kaiser-wilhelm-memorial-cemetery/02-dbf3c764-800w.webp"
-  - "/images-sites/kaiser-wilhelm-memorial-cemetery/03-470661dd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG/1200px-2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg/1200px-Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg/1200px-Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg/1200px-Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/1200px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
+image_srcset:
+  2013-03-31 Kaiser-Wilhelm-Gedächtnis-Friedhof Berlin Grab Familie Hirsch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG/400px-2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG/800px-2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG/1200px-2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG/1920px-2013-03-31_Kaiser-Wilhelm-Gedächtnis-Friedhof_Berlin_Grab_Familie_Hirsch.JPG
+  Grabstellen berühmter Persönichkeiten Kaiser-Wilhelm-Gedächtnis-Friedhof (Berlin).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg/400px-Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg/800px-Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg/1200px-Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg/1920px-Grabstellen_berühmter_Persönichkeiten_Kaiser-Wilhelm-Gedächtnis-Friedhof_(Berlin).jpg
+  Jazzschloss Friedhofskapelle auf dem Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg/400px-Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg/800px-Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg/1200px-Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg/1920px-Jazzschloss_Friedhofskapelle_auf_dem_Kaiser-Wilhelm-Gedächtnis-Friedhof.jpg
+  Kaiser-Wilhelm-Gedächtnis-Friedhof, Fürstenbrunner Weg, Berlin-Charlottenburg, Bild 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg/400px-Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg/800px-Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg/1200px-Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg/1920px-Kaiser-Wilhelm-Gedächtnis-Friedhof,_Fürstenbrunner_Weg,_Berlin-Charlottenburg,_Bild_15.jpg
+  Kaiser-Wilhelm-Gedächtnis-Friedhof - Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/400px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/800px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/1200px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg/1920px-Kaiser-Wilhelm-Gedächtnis-Friedhof_-_Kapelle.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "C/O Berlin"
+title: C/O Berlin
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.506667
 longitude: 13.330556
-
-# Images
 images:
-  - "/images-sites/co-berlin/01-4b4af44c-800w.webp"
-  - "/images-sites/co-berlin/02-ea06bdcb-800w.webp"
-  - "/images-sites/co-berlin/03-8b6cc3f6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Old-fashioned,_but_still_attractive._(43943969804).jpg/1200px-Old-fashioned,_but_still_attractive._(43943969804).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C-O_Berlin_im_Amerika_Haus-2575.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2575.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2577.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/C-O_Berlin_im_Amerika_Haus-2578.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2578.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/C-O_Berlin_im_Amerika_Haus-2581.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2581.jpg
+image_srcset:
+  Old-fashioned, but still attractive. (43943969804).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Old-fashioned,_but_still_attractive._(43943969804).jpg/400px-Old-fashioned,_but_still_attractive._(43943969804).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Old-fashioned,_but_still_attractive._(43943969804).jpg/800px-Old-fashioned,_but_still_attractive._(43943969804).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Old-fashioned,_but_still_attractive._(43943969804).jpg/1200px-Old-fashioned,_but_still_attractive._(43943969804).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Old-fashioned,_but_still_attractive._(43943969804).jpg/1920px-Old-fashioned,_but_still_attractive._(43943969804).jpg
+  C-O Berlin im Amerika Haus-2575.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C-O_Berlin_im_Amerika_Haus-2575.jpg/400px-C-O_Berlin_im_Amerika_Haus-2575.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C-O_Berlin_im_Amerika_Haus-2575.jpg/800px-C-O_Berlin_im_Amerika_Haus-2575.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C-O_Berlin_im_Amerika_Haus-2575.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2575.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C-O_Berlin_im_Amerika_Haus-2575.jpg/1920px-C-O_Berlin_im_Amerika_Haus-2575.jpg
+  C-O Berlin im Amerika Haus-2577.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/400px-C-O_Berlin_im_Amerika_Haus-2577.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/800px-C-O_Berlin_im_Amerika_Haus-2577.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2577.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-O_Berlin_im_Amerika_Haus-2577.jpg/1920px-C-O_Berlin_im_Amerika_Haus-2577.jpg
+  C-O Berlin im Amerika Haus-2578.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/C-O_Berlin_im_Amerika_Haus-2578.jpg/400px-C-O_Berlin_im_Amerika_Haus-2578.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/C-O_Berlin_im_Amerika_Haus-2578.jpg/800px-C-O_Berlin_im_Amerika_Haus-2578.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/C-O_Berlin_im_Amerika_Haus-2578.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2578.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/C-O_Berlin_im_Amerika_Haus-2578.jpg/1920px-C-O_Berlin_im_Amerika_Haus-2578.jpg
+  C-O Berlin im Amerika Haus-2581.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/C-O_Berlin_im_Amerika_Haus-2581.jpg/400px-C-O_Berlin_im_Amerika_Haus-2581.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/C-O_Berlin_im_Amerika_Haus-2581.jpg/800px-C-O_Berlin_im_Amerika_Haus-2581.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/C-O_Berlin_im_Amerika_Haus-2581.jpg/1200px-C-O_Berlin_im_Amerika_Haus-2581.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/C-O_Berlin_im_Amerika_Haus-2581.jpg/1920px-C-O_Berlin_im_Amerika_Haus-2581.jpg
 ---
 
 ## Overview

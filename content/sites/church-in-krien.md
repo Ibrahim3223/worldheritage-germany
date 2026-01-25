@@ -1,19 +1,32 @@
 ---
-title: "Church in Krien"
-site_name: "Church in Krien"
-slug: "church-in-krien"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Krien
+site_name: Church in Krien
+slug: church-in-krien
+region: Mecklenburg-Vorpommern
 latitude: 53.8311
 longitude: 13.4475
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1522664"
-description: "The Church in Krien, a striking example of Brick Gothic architecture, stands out against the backdrop of Krien, Germany. This church is not just a place..."
+- cultural site
+wikidata_id: Q1522664
+description: The Church in Krien, a striking example of Brick Gothic architecture,
+  stands out against the backdrop of Krien, Germany. This church is not just a place...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Krien%20Kirche%20S%C3%BCdseite.jpg/1200px-Krien%20Kirche%20S%C3%BCdseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1200px-Krien_Kirche_Südseite.jpg
+image_srcset:
+  Krien%20Kirche%20S%C3%BCdseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Krien%20Kirche%20S%C3%BCdseite.jpg/400px-Krien%20Kirche%20S%C3%BCdseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Krien%20Kirche%20S%C3%BCdseite.jpg/800px-Krien%20Kirche%20S%C3%BCdseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Krien%20Kirche%20S%C3%BCdseite.jpg/1200px-Krien%20Kirche%20S%C3%BCdseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Krien%20Kirche%20S%C3%BCdseite.jpg/1920px-Krien%20Kirche%20S%C3%BCdseite.jpg
+  Krien Kirche Südseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/400px-Krien_Kirche_Südseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/800px-Krien_Kirche_Südseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1200px-Krien_Kirche_Südseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Krien_Kirche_Südseite.jpg/1920px-Krien_Kirche_Südseite.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Angel of Peace"
+title: Angel of Peace
 date: 2026-01-23
 draft: false
-description: "monument in the Munich suburb of Bogenhausen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in the Munich suburb of Bogenhausen
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1414
 longitude: 11.5969
 images:
-  - "/images-sites/angel-of-peace/01-f9e8b26f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muefriedensengel04072013d95b1.jpg/1200px-Muefriedensengel04072013d95b1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedensengel_Muenchen-14.jpg/1200px-Friedensengel_Muenchen-14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Friedensengel_Muenchen-16.jpg/1200px-Friedensengel_Muenchen-16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedensengel_Muenchen-17.jpg/1200px-Friedensengel_Muenchen-17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1200px-Muenchen-_Friedensenangel.JPG
+image_srcset:
+  Muefriedensengel04072013d95b1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muefriedensengel04072013d95b1.jpg/400px-Muefriedensengel04072013d95b1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muefriedensengel04072013d95b1.jpg/800px-Muefriedensengel04072013d95b1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muefriedensengel04072013d95b1.jpg/1200px-Muefriedensengel04072013d95b1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Muefriedensengel04072013d95b1.jpg/1920px-Muefriedensengel04072013d95b1.jpg
+  Friedensengel Muenchen-14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedensengel_Muenchen-14.jpg/400px-Friedensengel_Muenchen-14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedensengel_Muenchen-14.jpg/800px-Friedensengel_Muenchen-14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedensengel_Muenchen-14.jpg/1200px-Friedensengel_Muenchen-14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Friedensengel_Muenchen-14.jpg/1920px-Friedensengel_Muenchen-14.jpg
+  Friedensengel Muenchen-16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Friedensengel_Muenchen-16.jpg/400px-Friedensengel_Muenchen-16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Friedensengel_Muenchen-16.jpg/800px-Friedensengel_Muenchen-16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Friedensengel_Muenchen-16.jpg/1200px-Friedensengel_Muenchen-16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Friedensengel_Muenchen-16.jpg/1920px-Friedensengel_Muenchen-16.jpg
+  Friedensengel Muenchen-17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedensengel_Muenchen-17.jpg/400px-Friedensengel_Muenchen-17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedensengel_Muenchen-17.jpg/800px-Friedensengel_Muenchen-17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedensengel_Muenchen-17.jpg/1200px-Friedensengel_Muenchen-17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Friedensengel_Muenchen-17.jpg/1920px-Friedensengel_Muenchen-17.jpg
+  Muenchen- Friedensenangel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/400px-Muenchen-_Friedensenangel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/800px-Muenchen-_Friedensenangel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1200px-Muenchen-_Friedensenangel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Muenchen-_Friedensenangel.JPG/1920px-Muenchen-_Friedensenangel.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.9933
 longitude: 8.27778
 images:
-  - "/images-sites/mainz-roemisches-theater-station/01-ec5f02e0-800w.webp"
+  - "/images/mainz-roemisches-theater-station/01-ec5f02e0-800w.webp"
 ---
 
 ## Overview

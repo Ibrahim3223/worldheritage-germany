@@ -1,19 +1,49 @@
 ---
-title: "Höllbachgspreng"
+title: Höllbachgspreng
 date: 2026-01-24
 draft: false
-description: "wooded rock massif in Bavarian Forest, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: wooded rock massif in Bavarian Forest, Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0858
 longitude: 13.2967
 images:
-  - "/images-sites/hoellbachgspreng/01-8639b46e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Urwaldgebiet,_Höllbachgspreng.jpg/1200px-Urwaldgebiet,_Höllbachgspreng.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1200px-Felswand_im_Höllbachgspreng.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Höllbachfälle_am_Großen_Falkenstein.jpg/1200px-Höllbachfälle_am_Großen_Falkenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urwald_am_Höllbachgspreng.JPG/1200px-Urwald_am_Höllbachgspreng.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hoellbachgspreng.jpg/1200px-Hoellbachgspreng.jpg
+image_srcset:
+  Urwaldgebiet, Höllbachgspreng.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Urwaldgebiet,_Höllbachgspreng.jpg/400px-Urwaldgebiet,_Höllbachgspreng.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Urwaldgebiet,_Höllbachgspreng.jpg/800px-Urwaldgebiet,_Höllbachgspreng.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Urwaldgebiet,_Höllbachgspreng.jpg/1200px-Urwaldgebiet,_Höllbachgspreng.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Urwaldgebiet,_Höllbachgspreng.jpg/1920px-Urwaldgebiet,_Höllbachgspreng.jpg
+  Felswand im Höllbachgspreng.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/400px-Felswand_im_Höllbachgspreng.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/800px-Felswand_im_Höllbachgspreng.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1200px-Felswand_im_Höllbachgspreng.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Felswand_im_Höllbachgspreng.jpg/1920px-Felswand_im_Höllbachgspreng.jpg
+  Höllbachfälle am Großen Falkenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Höllbachfälle_am_Großen_Falkenstein.jpg/400px-Höllbachfälle_am_Großen_Falkenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Höllbachfälle_am_Großen_Falkenstein.jpg/800px-Höllbachfälle_am_Großen_Falkenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Höllbachfälle_am_Großen_Falkenstein.jpg/1200px-Höllbachfälle_am_Großen_Falkenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Höllbachfälle_am_Großen_Falkenstein.jpg/1920px-Höllbachfälle_am_Großen_Falkenstein.jpg
+  Urwald am Höllbachgspreng.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urwald_am_Höllbachgspreng.JPG/400px-Urwald_am_Höllbachgspreng.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urwald_am_Höllbachgspreng.JPG/800px-Urwald_am_Höllbachgspreng.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urwald_am_Höllbachgspreng.JPG/1200px-Urwald_am_Höllbachgspreng.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Urwald_am_Höllbachgspreng.JPG/1920px-Urwald_am_Höllbachgspreng.JPG
+  Hoellbachgspreng.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hoellbachgspreng.jpg/400px-Hoellbachgspreng.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hoellbachgspreng.jpg/800px-Hoellbachgspreng.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hoellbachgspreng.jpg/1200px-Hoellbachgspreng.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hoellbachgspreng.jpg/1920px-Hoellbachgspreng.jpg
 ---
 
 ## Overview

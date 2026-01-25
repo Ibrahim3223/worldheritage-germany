@@ -1,19 +1,49 @@
 ---
-title: "Congress Centrum Suhl"
+title: Congress Centrum Suhl
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall in Suhl, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall in Suhl, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.61027778
 longitude: 10.68777778
 images:
-  - "/images-sites/congress-centrum-suhl/01-4043b311-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Suhl0030.JPG/1200px-Suhl0030.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg/1200px-Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg/1200px-Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg
+image_srcset:
+  Thuringia Suhl asv2020-07 img03 Vehicles Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/400px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/800px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img03_Vehicles_Museum.jpg
+  Thuringia Suhl asv2020-07 img04 Arms Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg/400px-Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg/800px-Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg/1200px-Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg/1920px-Thuringia_Suhl_asv2020-07_img04_Arms_Museum.jpg
+  Suhl0030.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Suhl0030.JPG/400px-Suhl0030.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Suhl0030.JPG/800px-Suhl0030.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Suhl0030.JPG/1200px-Suhl0030.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Suhl0030.JPG/1920px-Suhl0030.JPG
+  Bundesarchiv Bild 183-L1209-0008, Suhl, Stadthalle, Innenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg/400px-Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg/800px-Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg/1200px-Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg/1920px-Bundesarchiv_Bild_183-L1209-0008,_Suhl,_Stadthalle,_Innenansicht.jpg
+  Bundesarchiv Bild 183-N0727-0007, Suhl, Stadthalle, Wohnhochhäuser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg/400px-Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg/800px-Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg/1200px-Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg/1920px-Bundesarchiv_Bild_183-N0727-0007,_Suhl,_Stadthalle,_Wohnhochhäuser.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.9175
 longitude: 8.06916667
 images:
-  - "/images-sites/st-oswald/01-1cd355d5-800w.webp"
+  - "/images/st-oswald/01-1cd355d5-800w.webp"
 ---
 
 ## Overview

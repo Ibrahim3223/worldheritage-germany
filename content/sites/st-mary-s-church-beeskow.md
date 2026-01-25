@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1649692"
 description: "St. Mary’s Church in Beeskow stands as a remarkable example of Brick Gothic architecture, showcasing the craftsmanship and religious devotion of its era..."
 images:
-  - "/images-sites/st-mary-s-church-beeskow/01-988d0989-1920w.webp"
-  - "/images-sites/st-mary-s-church-beeskow/02-71493917-1920w.webp"
-  - "/images-sites/st-mary-s-church-beeskow/03-d3313a2a-1920w.webp"
+  - "/images/st-mary-s-church-beeskow/01-988d0989-1920w.webp"
+  - "/images/st-mary-s-church-beeskow/02-71493917-1920w.webp"
+  - "/images/st-mary-s-church-beeskow/03-d3313a2a-1920w.webp"
 ---
 
 ## Overview

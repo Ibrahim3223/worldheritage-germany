@@ -1,27 +1,43 @@
 ---
-title: "Burg Tringenstein"
+title: Burg Tringenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7586
 longitude: 8.4123
-
-# Images
 images:
-  - "/images-sites/burg-tringenstein/01-2bf617a4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tringenstein_Reste_der_Burg.jpg/1200px-Tringenstein_Reste_der_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Tringenstein_01.jpg/1200px-Burg_Tringenstein_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Tringenstein_02.jpg/1200px-Burg_Tringenstein_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg/1200px-Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg
+image_srcset:
+  Tringenstein Reste der Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tringenstein_Reste_der_Burg.jpg/400px-Tringenstein_Reste_der_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tringenstein_Reste_der_Burg.jpg/800px-Tringenstein_Reste_der_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tringenstein_Reste_der_Burg.jpg/1200px-Tringenstein_Reste_der_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tringenstein_Reste_der_Burg.jpg/1920px-Tringenstein_Reste_der_Burg.jpg
+  Burg Tringenstein 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Tringenstein_01.jpg/400px-Burg_Tringenstein_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Tringenstein_01.jpg/800px-Burg_Tringenstein_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Tringenstein_01.jpg/1200px-Burg_Tringenstein_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Tringenstein_01.jpg/1920px-Burg_Tringenstein_01.jpg
+  Burg Tringenstein 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Tringenstein_02.jpg/400px-Burg_Tringenstein_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Tringenstein_02.jpg/800px-Burg_Tringenstein_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Tringenstein_02.jpg/1200px-Burg_Tringenstein_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Tringenstein_02.jpg/1920px-Burg_Tringenstein_02.jpg
+  Luthmer IV-107-Burg Tringenstein (Nach einem Modell).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg/400px-Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg/800px-Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg/1200px-Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg/1920px-Luthmer_IV-107-Burg_Tringenstein_(Nach_einem_Modell).jpg
 ---
 
 ## Overview

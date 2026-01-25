@@ -13,9 +13,9 @@ regions:
 latitude: 48.365555555
 longitude: 10.891944444
 images:
-  - "/images-sites/synagoge-halderstrasse/01-ccfeaf09-800w.webp"
-  - "/images-sites/synagoge-halderstrasse/02-b8353b07-800w.webp"
-  - "/images-sites/synagoge-halderstrasse/03-2b3b79a3-800w.webp"
+  - "/images/synagoge-halderstrasse/01-ccfeaf09-800w.webp"
+  - "/images/synagoge-halderstrasse/02-b8353b07-800w.webp"
+  - "/images/synagoge-halderstrasse/03-2b3b79a3-800w.webp"
 ---
 
 ## Overview

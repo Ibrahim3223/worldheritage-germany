@@ -1,21 +1,31 @@
 ---
-title: "Haus Rüschhaus"
+title: Haus Rüschhaus
 date: 2026-01-23
 draft: false
-description: "museum in Münster, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Münster, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.990662
 longitude: 7.552318
 images:
-  - "/images-sites/haus-rueschhaus/01-36bdb79b-800w.webp"
-  - "/images-sites/haus-rueschhaus/02-f96d77c2-800w.webp"
-  - "/images-sites/haus-rueschhaus/03-976192b3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg/1200px-Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1200px-Münster_Haus_Rüschhaus_2006_vorne.jpg
+image_srcset:
+  Münster, Haus Rüschhaus, 2011-10 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg/400px-Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg/800px-Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg/1200px-Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg/1920px-Münster,_Haus_Rüschhaus,_2011-10_CN-01.jpg
+  Münster Haus Rüschhaus 2006 vorne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/400px-Münster_Haus_Rüschhaus_2006_vorne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/800px-Münster_Haus_Rüschhaus_2006_vorne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1200px-Münster_Haus_Rüschhaus_2006_vorne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Münster_Haus_Rüschhaus_2006_vorne.jpg/1920px-Münster_Haus_Rüschhaus_2006_vorne.jpg
 ---
 
 ## Overview

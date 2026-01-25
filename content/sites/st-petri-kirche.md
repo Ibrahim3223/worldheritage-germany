@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1239774"
 description: "St. Petri-Kirche, a remarkable example of Brick Gothic architecture, captures the essence of historical religious architecture in Garz, Germany. This ch..."
 images:
-  - "/images-sites/st-petri-kirche/01-a87a566c-1920w.webp"
-  - "/images-sites/st-petri-kirche/02-27e19361-1920w.webp"
-  - "/images-sites/st-petri-kirche/03-1f54858d-1920w.webp"
+  - "/images/st-petri-kirche/01-a87a566c-1920w.webp"
+  - "/images/st-petri-kirche/02-27e19361-1920w.webp"
+  - "/images/st-petri-kirche/03-1f54858d-1920w.webp"
 ---
 
 ## Overview

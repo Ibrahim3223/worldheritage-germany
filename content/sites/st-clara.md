@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2348824"
 description: "St. Clara, a Gothic Revival church building located in Dortmund, Germany, captivates visitors with its striking architectural style and historical signi..."
 images:
-  - "/images-sites/st-clara/01-c526c872-1920w.webp"
-  - "/images-sites/st-clara/02-ed2be3f7-1920w.webp"
-  - "/images-sites/st-clara/03-e61f25d6-1920w.webp"
+  - "/images/st-clara/01-c526c872-1920w.webp"
+  - "/images/st-clara/02-ed2be3f7-1920w.webp"
+  - "/images/st-clara/03-e61f25d6-1920w.webp"
 ---
 
 ## Overview

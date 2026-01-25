@@ -21,7 +21,7 @@ longitude: 11.21728337
 
 # Images
 images:
-  - "/images-sites/pyraser-brauerei/03-ff508e6c-800w.webp"
+  - "/images/pyraser-brauerei/03-ff508e6c-800w.webp"
 ---
 
 ## Overview

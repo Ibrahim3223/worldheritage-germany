@@ -1,19 +1,50 @@
 ---
-title: "Church in Börzow"
-site_name: "Church in Börzow"
-slug: "church-in-borzow"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Börzow
+site_name: Church in Börzow
+slug: church-in-borzow
+region: Schleswig-Holstein
 latitude: 53.8573
 longitude: 11.1213
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244192"
-description: "In the heart of Stepenitztal, the Church in Börzow stands as a striking example of Brick Gothic architecture, captivating visitors with its historical a..."
+- cultural site
+wikidata_id: Q1244192
+description: In the heart of Stepenitztal, the Church in Börzow stands as a striking
+  example of Brick Gothic architecture, captivating visitors with its historical a...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boerzow%20Kirche%202009-01-02%20038.jpg/1200px-Boerzow%20Kirche%202009-01-02%20038.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_in_Börzow08.JPG/1200px-Church_in_Börzow08.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Church_in_Börzow11.JPG/1200px-Church_in_Börzow11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Church_in_Börzow13.JPG/1200px-Church_in_Börzow13.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1200px-Boerzow_Kirche_2009-01-02_038.jpg
+image_srcset:
+  Boerzow%20Kirche%202009-01-02%20038.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boerzow%20Kirche%202009-01-02%20038.jpg/400px-Boerzow%20Kirche%202009-01-02%20038.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boerzow%20Kirche%202009-01-02%20038.jpg/800px-Boerzow%20Kirche%202009-01-02%20038.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boerzow%20Kirche%202009-01-02%20038.jpg/1200px-Boerzow%20Kirche%202009-01-02%20038.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boerzow%20Kirche%202009-01-02%20038.jpg/1920px-Boerzow%20Kirche%202009-01-02%20038.jpg
+  Church in Börzow08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_in_Börzow08.JPG/400px-Church_in_Börzow08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_in_Börzow08.JPG/800px-Church_in_Börzow08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_in_Börzow08.JPG/1200px-Church_in_Börzow08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Church_in_Börzow08.JPG/1920px-Church_in_Börzow08.JPG
+  Church in Börzow11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Church_in_Börzow11.JPG/400px-Church_in_Börzow11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Church_in_Börzow11.JPG/800px-Church_in_Börzow11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Church_in_Börzow11.JPG/1200px-Church_in_Börzow11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Church_in_Börzow11.JPG/1920px-Church_in_Börzow11.JPG
+  Church in Börzow13.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Church_in_Börzow13.JPG/400px-Church_in_Börzow13.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Church_in_Börzow13.JPG/800px-Church_in_Börzow13.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Church_in_Börzow13.JPG/1200px-Church_in_Börzow13.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Church_in_Börzow13.JPG/1920px-Church_in_Börzow13.JPG
+  Boerzow Kirche 2009-01-02 038.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/400px-Boerzow_Kirche_2009-01-02_038.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/800px-Boerzow_Kirche_2009-01-02_038.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1200px-Boerzow_Kirche_2009-01-02_038.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boerzow_Kirche_2009-01-02_038.jpg/1920px-Boerzow_Kirche_2009-01-02_038.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 50.140556
 longitude: 7.894167
 images:
-  - "/images-sites/schoenau-abbey-in-nassau/02-05e0a931-800w.webp"
-  - "/images-sites/schoenau-abbey-in-nassau/03-8c32cbf1-800w.webp"
+  - "/images/schoenau-abbey-in-nassau/02-05e0a931-800w.webp"
+  - "/images/schoenau-abbey-in-nassau/03-8c32cbf1-800w.webp"
 ---
 
 ## Overview

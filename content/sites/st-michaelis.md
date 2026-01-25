@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2321752"
 description: "St. Michaelis stands as a significant religious structure in Mitte, Germany, embodying the modern architectural style while serving the Evangelical Chur..."
 images:
-  - "/images-sites/st-michaelis/01-e97b267b-1920w.webp"
-  - "/images-sites/st-michaelis/02-23724ae3-1920w.webp"
-  - "/images-sites/st-michaelis/03-05ff05e7-1920w.webp"
+  - "/images/st-michaelis/01-e97b267b-1920w.webp"
+  - "/images/st-michaelis/02-23724ae3-1920w.webp"
+  - "/images/st-michaelis/03-05ff05e7-1920w.webp"
 ---
 
 ## Overview

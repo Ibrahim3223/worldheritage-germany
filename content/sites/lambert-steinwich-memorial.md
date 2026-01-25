@@ -13,8 +13,8 @@ regions:
 latitude: 54.307222222
 longitude: 13.092055555
 images:
-  - "/images-sites/lambert-steinwich-memorial/02-a84d61c2-800w.webp"
-  - "/images-sites/lambert-steinwich-memorial/03-e0e87f2d-800w.webp"
+  - "/images/lambert-steinwich-memorial/02-a84d61c2-800w.webp"
+  - "/images/lambert-steinwich-memorial/03-e0e87f2d-800w.webp"
 ---
 
 ## Overview

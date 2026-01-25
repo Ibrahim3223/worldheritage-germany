@@ -1,19 +1,49 @@
 ---
-title: "Dialogue in the Dark"
+title: Dialogue in the Dark
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54619444
 longitude: 10.00161111
 images:
-  - "/images-sites/dialogue-in-the-dark/01-c9d18527-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/1200px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hamburg_Dialog_im_Dunkeln_(27095609239).jpg/1200px-Hamburg_Dialog_im_Dunkeln_(27095609239).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hamburg_Dialog_im_Dunkeln_(27095608889).jpg/1200px-Hamburg_Dialog_im_Dunkeln_(27095608889).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dialog_im_Dunkeln_Eingang.jpg/1200px-Dialog_im_Dunkeln_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Exhibition_in_Atlanta.jpg/1200px-Exhibition_in_Atlanta.jpg
+image_srcset:
+  PikiWiki Israel 45993 Childrens museum in Holon.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/400px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/800px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/1200px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG/1920px-PikiWiki_Israel_45993_Childrens_museum_in_Holon.JPG
+  Hamburg Dialog im Dunkeln (27095609239).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hamburg_Dialog_im_Dunkeln_(27095609239).jpg/400px-Hamburg_Dialog_im_Dunkeln_(27095609239).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hamburg_Dialog_im_Dunkeln_(27095609239).jpg/800px-Hamburg_Dialog_im_Dunkeln_(27095609239).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hamburg_Dialog_im_Dunkeln_(27095609239).jpg/1200px-Hamburg_Dialog_im_Dunkeln_(27095609239).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hamburg_Dialog_im_Dunkeln_(27095609239).jpg/1920px-Hamburg_Dialog_im_Dunkeln_(27095609239).jpg
+  Hamburg Dialog im Dunkeln (27095608889).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hamburg_Dialog_im_Dunkeln_(27095608889).jpg/400px-Hamburg_Dialog_im_Dunkeln_(27095608889).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hamburg_Dialog_im_Dunkeln_(27095608889).jpg/800px-Hamburg_Dialog_im_Dunkeln_(27095608889).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hamburg_Dialog_im_Dunkeln_(27095608889).jpg/1200px-Hamburg_Dialog_im_Dunkeln_(27095608889).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hamburg_Dialog_im_Dunkeln_(27095608889).jpg/1920px-Hamburg_Dialog_im_Dunkeln_(27095608889).jpg
+  Dialog im Dunkeln Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dialog_im_Dunkeln_Eingang.jpg/400px-Dialog_im_Dunkeln_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dialog_im_Dunkeln_Eingang.jpg/800px-Dialog_im_Dunkeln_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dialog_im_Dunkeln_Eingang.jpg/1200px-Dialog_im_Dunkeln_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dialog_im_Dunkeln_Eingang.jpg/1920px-Dialog_im_Dunkeln_Eingang.jpg
+  Exhibition in Atlanta.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Exhibition_in_Atlanta.jpg/400px-Exhibition_in_Atlanta.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Exhibition_in_Atlanta.jpg/800px-Exhibition_in_Atlanta.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Exhibition_in_Atlanta.jpg/1200px-Exhibition_in_Atlanta.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Exhibition_in_Atlanta.jpg/1920px-Exhibition_in_Atlanta.jpg
 ---
 
 ## Overview

@@ -1,28 +1,49 @@
 ---
-title: "Burg Friedeburg"
+title: Burg Friedeburg
 date: 2026-01-23
 draft: false
-description: "Festungsanlage in Ostfriesland, Niedersachsen, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Festungsanlage in Ostfriesland, Niedersachsen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.447
 longitude: 7.84364
-
-# Images
 images:
-  - "/images-sites/burg-friedeburg/02-b0132413-800w.webp"
-  - "/images-sites/burg-friedeburg/03-19d858bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Friedeburg_Saale.JPG/1200px-Friedeburg_Saale.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Friedeburg_2.jpg/1200px-Schloss_Friedeburg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Friedeburg.jpg/1200px-Schloss_Friedeburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_10_Modell_Burg_Friedeburg.JPG/1200px-2010_10_Modell_Burg_Friedeburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1200px-Friedeburg.jpg
+image_srcset:
+  Friedeburg Saale.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Friedeburg_Saale.JPG/400px-Friedeburg_Saale.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Friedeburg_Saale.JPG/800px-Friedeburg_Saale.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Friedeburg_Saale.JPG/1200px-Friedeburg_Saale.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Friedeburg_Saale.JPG/1920px-Friedeburg_Saale.JPG
+  Schloss Friedeburg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Friedeburg_2.jpg/400px-Schloss_Friedeburg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Friedeburg_2.jpg/800px-Schloss_Friedeburg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Friedeburg_2.jpg/1200px-Schloss_Friedeburg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schloss_Friedeburg_2.jpg/1920px-Schloss_Friedeburg_2.jpg
+  Schloss Friedeburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Friedeburg.jpg/400px-Schloss_Friedeburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Friedeburg.jpg/800px-Schloss_Friedeburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Friedeburg.jpg/1200px-Schloss_Friedeburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Friedeburg.jpg/1920px-Schloss_Friedeburg.jpg
+  2010 10 Modell Burg Friedeburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_10_Modell_Burg_Friedeburg.JPG/400px-2010_10_Modell_Burg_Friedeburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_10_Modell_Burg_Friedeburg.JPG/800px-2010_10_Modell_Burg_Friedeburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_10_Modell_Burg_Friedeburg.JPG/1200px-2010_10_Modell_Burg_Friedeburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2010_10_Modell_Burg_Friedeburg.JPG/1920px-2010_10_Modell_Burg_Friedeburg.JPG
+  Friedeburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/400px-Friedeburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/800px-Friedeburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1200px-Friedeburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Friedeburg.jpg/1920px-Friedeburg.jpg
 ---
 
 ## Overview

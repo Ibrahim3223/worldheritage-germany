@@ -1,28 +1,49 @@
 ---
-title: "Danevirke"
+title: Danevirke
 date: 2026-01-23
 draft: false
-description: "system of Danish fortifications in Schleswig-Holstein, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: system of Danish fortifications in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.4775
 longitude: 9.486666666
-
-# Images
 images:
-  - "/images-sites/danevirke/02-e10e7467-800w.webp"
-  - "/images-sites/danevirke/03-acee4d9c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Danevirke_today.jpg/1200px-Danevirke_today.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Danewerk.JPG/1200px-Danewerk.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg/1200px-'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_Danewerk.jpg/1200px-Karte_Danewerk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/1200px-Danewerk.jpg
+image_srcset:
+  Danevirke today.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Danevirke_today.jpg/400px-Danevirke_today.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Danevirke_today.jpg/800px-Danevirke_today.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Danevirke_today.jpg/1200px-Danevirke_today.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Danevirke_today.jpg/1920px-Danevirke_today.jpg
+  Danewerk.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Danewerk.JPG/400px-Danewerk.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Danewerk.JPG/800px-Danewerk.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Danewerk.JPG/1200px-Danewerk.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Danewerk.JPG/1920px-Danewerk.JPG
+  '''Thyre Dannebod grundlægger Dannevirke'' - kunstblad 1855 af Lorenz Frølich til Kunstforeningen i Flensborg (farvelagt).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg/400px-'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg/800px-'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg/1200px-'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg/1920px-'Thyre_Dannebod_grundlægger_Dannevirke'_-_kunstblad_1855_af_Lorenz_Frølich_til_Kunstforeningen_i_Flensborg_(farvelagt).jpg
+  Karte Danewerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_Danewerk.jpg/400px-Karte_Danewerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_Danewerk.jpg/800px-Karte_Danewerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_Danewerk.jpg/1200px-Karte_Danewerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Karte_Danewerk.jpg/1920px-Karte_Danewerk.jpg
+  Danewerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/400px-Danewerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/800px-Danewerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/1200px-Danewerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danewerk.jpg/1920px-Danewerk.jpg
 ---
 
 ## Overview

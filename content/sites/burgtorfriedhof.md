@@ -1,20 +1,49 @@
 ---
-title: "Burgtorfriedhof"
+title: Burgtorfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Lübeck, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Lübeck, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8847
 longitude: 10.7047
 images:
-  - "/images-sites/burgtorfriedhof/02-6aea2265-800w.webp"
-  - "/images-sites/burgtorfriedhof/03-6f099650-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burgtorfriedhof_(Lübeck)_03.jpg/1200px-Burgtorfriedhof_(Lübeck)_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgtorfriedhof_Gruft_(Lübeck).jpg/1200px-Burgtorfriedhof_Gruft_(Lübeck).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burgtorfriedhof_Hinweise_(Lübeck).jpg/1200px-Burgtorfriedhof_Hinweise_(Lübeck).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg/1200px-Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HermannJoachimPagelsEF_-_Possehl.jpg/1200px-HermannJoachimPagelsEF_-_Possehl.jpg
+image_srcset:
+  Burgtorfriedhof (Lübeck) 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burgtorfriedhof_(Lübeck)_03.jpg/400px-Burgtorfriedhof_(Lübeck)_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burgtorfriedhof_(Lübeck)_03.jpg/800px-Burgtorfriedhof_(Lübeck)_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burgtorfriedhof_(Lübeck)_03.jpg/1200px-Burgtorfriedhof_(Lübeck)_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burgtorfriedhof_(Lübeck)_03.jpg/1920px-Burgtorfriedhof_(Lübeck)_03.jpg
+  Burgtorfriedhof Gruft (Lübeck).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgtorfriedhof_Gruft_(Lübeck).jpg/400px-Burgtorfriedhof_Gruft_(Lübeck).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgtorfriedhof_Gruft_(Lübeck).jpg/800px-Burgtorfriedhof_Gruft_(Lübeck).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgtorfriedhof_Gruft_(Lübeck).jpg/1200px-Burgtorfriedhof_Gruft_(Lübeck).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgtorfriedhof_Gruft_(Lübeck).jpg/1920px-Burgtorfriedhof_Gruft_(Lübeck).jpg
+  Burgtorfriedhof Hinweise (Lübeck).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burgtorfriedhof_Hinweise_(Lübeck).jpg/400px-Burgtorfriedhof_Hinweise_(Lübeck).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burgtorfriedhof_Hinweise_(Lübeck).jpg/800px-Burgtorfriedhof_Hinweise_(Lübeck).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burgtorfriedhof_Hinweise_(Lübeck).jpg/1200px-Burgtorfriedhof_Hinweise_(Lübeck).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burgtorfriedhof_Hinweise_(Lübeck).jpg/1920px-Burgtorfriedhof_Hinweise_(Lübeck).jpg
+  Burgtorfriedhof Kreuze gegenüber der Kapelle (Lübeck).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg/400px-Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg/800px-Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg/1200px-Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg/1920px-Burgtorfriedhof_Kreuze_gegenüber_der_Kapelle_(Lübeck).jpg
+  HermannJoachimPagelsEF - Possehl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HermannJoachimPagelsEF_-_Possehl.jpg/400px-HermannJoachimPagelsEF_-_Possehl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HermannJoachimPagelsEF_-_Possehl.jpg/800px-HermannJoachimPagelsEF_-_Possehl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HermannJoachimPagelsEF_-_Possehl.jpg/1200px-HermannJoachimPagelsEF_-_Possehl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/HermannJoachimPagelsEF_-_Possehl.jpg/1920px-HermannJoachimPagelsEF_-_Possehl.jpg
 ---
 
 ## Overview

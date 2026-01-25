@@ -13,7 +13,7 @@ regions:
 latitude: 47.6994
 longitude: 12.9831
 images:
-  - "/images-sites/riesending-cave/01-1ec33c86-800w.webp"
+  - "/images/riesending-cave/01-1ec33c86-800w.webp"
 ---
 
 ## Overview

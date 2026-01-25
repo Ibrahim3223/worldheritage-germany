@@ -1,19 +1,43 @@
 ---
-title: "Baindt Abbey"
+title: Baindt Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.842778
 longitude: 9.665833
 images:
-  - "/images-sites/baindt-abbey/01-21c6ffb1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baindt_um1790_Reichsabtei.jpg/1200px-Baindt_um1790_Reichsabtei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Baindt_Konventliste_1715.jpg/1200px-Baindt_Konventliste_1715.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baindt_1773_Reichsabtei.jpg/1200px-Baindt_1773_Reichsabtei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1200px-Baindt_Kloster_Ansicht.jpg
+image_srcset:
+  Baindt um1790 Reichsabtei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baindt_um1790_Reichsabtei.jpg/400px-Baindt_um1790_Reichsabtei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baindt_um1790_Reichsabtei.jpg/800px-Baindt_um1790_Reichsabtei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baindt_um1790_Reichsabtei.jpg/1200px-Baindt_um1790_Reichsabtei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Baindt_um1790_Reichsabtei.jpg/1920px-Baindt_um1790_Reichsabtei.jpg
+  Baindt Konventliste 1715.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Baindt_Konventliste_1715.jpg/400px-Baindt_Konventliste_1715.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Baindt_Konventliste_1715.jpg/800px-Baindt_Konventliste_1715.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Baindt_Konventliste_1715.jpg/1200px-Baindt_Konventliste_1715.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Baindt_Konventliste_1715.jpg/1920px-Baindt_Konventliste_1715.jpg
+  Baindt 1773 Reichsabtei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baindt_1773_Reichsabtei.jpg/400px-Baindt_1773_Reichsabtei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baindt_1773_Reichsabtei.jpg/800px-Baindt_1773_Reichsabtei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baindt_1773_Reichsabtei.jpg/1200px-Baindt_1773_Reichsabtei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Baindt_1773_Reichsabtei.jpg/1920px-Baindt_1773_Reichsabtei.jpg
+  Baindt Kloster Ansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/400px-Baindt_Kloster_Ansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/800px-Baindt_Kloster_Ansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1200px-Baindt_Kloster_Ansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Baindt_Kloster_Ansicht.jpg/1920px-Baindt_Kloster_Ansicht.jpg
 ---
 
 ## Overview

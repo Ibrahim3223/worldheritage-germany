@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1460668"
 description: "St. Nicholas Church in Rostock is a remarkable example of Brick Gothic architecture that has captivated visitors for centuries. This church, constructed..."
 images:
-  - "/images-sites/st-nicholas-church-rostock/01-4d1b8010-1920w.webp"
-  - "/images-sites/st-nicholas-church-rostock/02-33be575b-1920w.webp"
-  - "/images-sites/st-nicholas-church-rostock/03-702483fd-1920w.webp"
+  - "/images/st-nicholas-church-rostock/01-4d1b8010-1920w.webp"
+  - "/images/st-nicholas-church-rostock/02-33be575b-1920w.webp"
+  - "/images/st-nicholas-church-rostock/03-702483fd-1920w.webp"
 ---
 
 ## Overview

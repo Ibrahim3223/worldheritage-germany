@@ -13,7 +13,7 @@ regions:
 latitude: 49.001916666
 longitude: 8.399888888
 images:
-  - "/images-sites/nancy-hall/01-0dc94f40-800w.webp"
+  - "/images/nancy-hall/01-0dc94f40-800w.webp"
 ---
 
 ## Overview

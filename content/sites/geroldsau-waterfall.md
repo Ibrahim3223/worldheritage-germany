@@ -1,19 +1,49 @@
 ---
-title: "Geroldsau Waterfall"
+title: Geroldsau Waterfall
 date: 2026-01-24
 draft: false
-description: "Waterfall in Geroldsau"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: Waterfall in Geroldsau
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7128
 longitude: 8.24958
 images:
-  - "/images-sites/geroldsau-waterfall/01-f7eece9c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geroldsau_Waterfall_2020-03-13_18.jpg/1200px-Geroldsau_Waterfall_2020-03-13_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Geroldsau_Waterfall_2020-03-13_62.jpg/1200px-Geroldsau_Waterfall_2020-03-13_62.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Geroldsauer_Wasserfall.jpg/1200px-Geroldsauer_Wasserfall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/1200px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GeroldsauerTal-1.jpg/1200px-GeroldsauerTal-1.jpg
+image_srcset:
+  Geroldsau Waterfall 2020-03-13 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geroldsau_Waterfall_2020-03-13_18.jpg/400px-Geroldsau_Waterfall_2020-03-13_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geroldsau_Waterfall_2020-03-13_18.jpg/800px-Geroldsau_Waterfall_2020-03-13_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geroldsau_Waterfall_2020-03-13_18.jpg/1200px-Geroldsau_Waterfall_2020-03-13_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Geroldsau_Waterfall_2020-03-13_18.jpg/1920px-Geroldsau_Waterfall_2020-03-13_18.jpg
+  Geroldsau Waterfall 2020-03-13 62.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Geroldsau_Waterfall_2020-03-13_62.jpg/400px-Geroldsau_Waterfall_2020-03-13_62.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Geroldsau_Waterfall_2020-03-13_62.jpg/800px-Geroldsau_Waterfall_2020-03-13_62.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Geroldsau_Waterfall_2020-03-13_62.jpg/1200px-Geroldsau_Waterfall_2020-03-13_62.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Geroldsau_Waterfall_2020-03-13_62.jpg/1920px-Geroldsau_Waterfall_2020-03-13_62.jpg
+  Geroldsauer Wasserfall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Geroldsauer_Wasserfall.jpg/400px-Geroldsauer_Wasserfall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Geroldsauer_Wasserfall.jpg/800px-Geroldsauer_Wasserfall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Geroldsauer_Wasserfall.jpg/1200px-Geroldsauer_Wasserfall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Geroldsauer_Wasserfall.jpg/1920px-Geroldsauer_Wasserfall.jpg
+  Panoramaweg Fischkultur Malschbach Geroldsauer Wasserfall 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/400px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/800px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/1200px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg/1920px-Panoramaweg_Fischkultur_Malschbach_Geroldsauer_Wasserfall_02.jpg
+  GeroldsauerTal-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GeroldsauerTal-1.jpg/400px-GeroldsauerTal-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GeroldsauerTal-1.jpg/800px-GeroldsauerTal-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GeroldsauerTal-1.jpg/1200px-GeroldsauerTal-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GeroldsauerTal-1.jpg/1920px-GeroldsauerTal-1.jpg
 ---
 
 ## Overview

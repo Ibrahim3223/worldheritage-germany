@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q905665"
 description: "Minster Breisach, a remarkable church building located in the heart of Breisach, Germany, invites visitors to explore its rich history and architectural..."
 images:
-  - "/images-sites/minster-breisach/01-8066ad7f-1920w.webp"
-  - "/images-sites/minster-breisach/02-f5a8ce1f-1920w.webp"
-  - "/images-sites/minster-breisach/03-8a31f311-1920w.webp"
+  - "/images/minster-breisach/01-8066ad7f-1920w.webp"
+  - "/images/minster-breisach/02-f5a8ce1f-1920w.webp"
+  - "/images/minster-breisach/03-8a31f311-1920w.webp"
 ---
 
 ## Overview

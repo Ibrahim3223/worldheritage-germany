@@ -1,29 +1,49 @@
 ---
-title: "Beethoven House"
+title: Beethoven House
 date: 2026-01-23
 draft: false
-description: "museum on and birthplace of Ludwig van Beethoven in Bonn, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: museum on and birthplace of Ludwig van Beethoven in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7369
 longitude: 7.10139
-
-# Images
 images:
-  - "/images-sites/beethoven-house/01-9d7e7e3f-800w.webp"
-  - "/images-sites/beethoven-house/02-14c9f233-800w.webp"
-  - "/images-sites/beethoven-house/03-9f2b4d85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Beethoven-Haus_Bonn_-_Bonngasse.jpg/1200px-Beethoven-Haus_Bonn_-_Bonngasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beethovenhaus_(Bonn)_jm01858.jpg/1200px-Beethovenhaus_(Bonn)_jm01858.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1200px-Beethoven-Haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg/1200px-Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bonn_Beethoven-Haus_(51800415225).jpg/1200px-Bonn_Beethoven-Haus_(51800415225).jpg
+image_srcset:
+  Beethoven-Haus Bonn - Bonngasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Beethoven-Haus_Bonn_-_Bonngasse.jpg/400px-Beethoven-Haus_Bonn_-_Bonngasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Beethoven-Haus_Bonn_-_Bonngasse.jpg/800px-Beethoven-Haus_Bonn_-_Bonngasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Beethoven-Haus_Bonn_-_Bonngasse.jpg/1200px-Beethoven-Haus_Bonn_-_Bonngasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Beethoven-Haus_Bonn_-_Bonngasse.jpg/1920px-Beethoven-Haus_Bonn_-_Bonngasse.jpg
+  Beethovenhaus (Bonn) jm01858.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beethovenhaus_(Bonn)_jm01858.jpg/400px-Beethovenhaus_(Bonn)_jm01858.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beethovenhaus_(Bonn)_jm01858.jpg/800px-Beethovenhaus_(Bonn)_jm01858.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beethovenhaus_(Bonn)_jm01858.jpg/1200px-Beethovenhaus_(Bonn)_jm01858.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beethovenhaus_(Bonn)_jm01858.jpg/1920px-Beethovenhaus_(Bonn)_jm01858.jpg
+  Beethoven-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/400px-Beethoven-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/800px-Beethoven-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1200px-Beethoven-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Beethoven-Haus.jpg/1920px-Beethoven-Haus.jpg
+  Beethoven-Haus Bonn Hof 2021-09-02a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg/400px-Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg/800px-Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg/1200px-Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg/1920px-Beethoven-Haus_Bonn_Hof_2021-09-02a.jpg
+  Bonn Beethoven-Haus (51800415225).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bonn_Beethoven-Haus_(51800415225).jpg/400px-Bonn_Beethoven-Haus_(51800415225).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bonn_Beethoven-Haus_(51800415225).jpg/800px-Bonn_Beethoven-Haus_(51800415225).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bonn_Beethoven-Haus_(51800415225).jpg/1200px-Bonn_Beethoven-Haus_(51800415225).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bonn_Beethoven-Haus_(51800415225).jpg/1920px-Bonn_Beethoven-Haus_(51800415225).jpg
 ---
 
 ## Overview

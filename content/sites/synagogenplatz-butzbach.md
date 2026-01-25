@@ -13,7 +13,7 @@ regions:
 latitude: 50.436388888
 longitude: 8.670277777
 images:
-  - "/images-sites/synagogenplatz-butzbach/01-7e28c42a-800w.webp"
+  - "/images/synagogenplatz-butzbach/01-7e28c42a-800w.webp"
 ---
 
 ## Overview

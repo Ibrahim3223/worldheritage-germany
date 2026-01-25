@@ -1,19 +1,49 @@
 ---
-title: "Baumbachhaus Kranichfeld"
+title: Baumbachhaus Kranichfeld
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.853521
 longitude: 11.20024368
 images:
-  - "/images-sites/baumbachhaus-kranichfeld/01-ca28fc51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baumbachhaus_(Kranichfeld)_1.jpg/1200px-Baumbachhaus_(Kranichfeld)_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baumbachhaus_Kranichfeld_1.jpg/1200px-Baumbachhaus_Kranichfeld_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baumbachhaus_Kranichfeld_3.jpg/1200px-Baumbachhaus_Kranichfeld_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baumbachhaus_Kranichfeld_4.jpg/1200px-Baumbachhaus_Kranichfeld_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1200px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
+image_srcset:
+  Baumbachhaus (Kranichfeld) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baumbachhaus_(Kranichfeld)_1.jpg/400px-Baumbachhaus_(Kranichfeld)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baumbachhaus_(Kranichfeld)_1.jpg/800px-Baumbachhaus_(Kranichfeld)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baumbachhaus_(Kranichfeld)_1.jpg/1200px-Baumbachhaus_(Kranichfeld)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baumbachhaus_(Kranichfeld)_1.jpg/1920px-Baumbachhaus_(Kranichfeld)_1.jpg
+  Baumbachhaus Kranichfeld 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baumbachhaus_Kranichfeld_1.jpg/400px-Baumbachhaus_Kranichfeld_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baumbachhaus_Kranichfeld_1.jpg/800px-Baumbachhaus_Kranichfeld_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baumbachhaus_Kranichfeld_1.jpg/1200px-Baumbachhaus_Kranichfeld_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Baumbachhaus_Kranichfeld_1.jpg/1920px-Baumbachhaus_Kranichfeld_1.jpg
+  Baumbachhaus Kranichfeld 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baumbachhaus_Kranichfeld_3.jpg/400px-Baumbachhaus_Kranichfeld_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baumbachhaus_Kranichfeld_3.jpg/800px-Baumbachhaus_Kranichfeld_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baumbachhaus_Kranichfeld_3.jpg/1200px-Baumbachhaus_Kranichfeld_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baumbachhaus_Kranichfeld_3.jpg/1920px-Baumbachhaus_Kranichfeld_3.jpg
+  Baumbachhaus Kranichfeld 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baumbachhaus_Kranichfeld_4.jpg/400px-Baumbachhaus_Kranichfeld_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baumbachhaus_Kranichfeld_4.jpg/800px-Baumbachhaus_Kranichfeld_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baumbachhaus_Kranichfeld_4.jpg/1200px-Baumbachhaus_Kranichfeld_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Baumbachhaus_Kranichfeld_4.jpg/1920px-Baumbachhaus_Kranichfeld_4.jpg
+  Kranichfeld Molkereistraße 11 Baumbachhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/400px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/800px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1200px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg/1920px-Kranichfeld_Molkereistraße_11_Baumbachhaus.jpg
 ---
 
 ## Overview

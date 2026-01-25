@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Universität Rostock"
+title: Botanischer Garten Universität Rostock
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.0907
 longitude: 12.0931
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-universitaet-rostock/01-12643828-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gunnera_-_Botanischer_Garten_Rostock_2015.jpg/1200px-Gunnera_-_Botanischer_Garten_Rostock_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg/1200px-Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Botanischer_Garten_Rostock_Teich.jpg/1200px-Botanischer_Garten_Rostock_Teich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/1200px-Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/1200px-Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+image_srcset:
+  Gunnera - Botanischer Garten Rostock 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gunnera_-_Botanischer_Garten_Rostock_2015.jpg/400px-Gunnera_-_Botanischer_Garten_Rostock_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gunnera_-_Botanischer_Garten_Rostock_2015.jpg/800px-Gunnera_-_Botanischer_Garten_Rostock_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gunnera_-_Botanischer_Garten_Rostock_2015.jpg/1200px-Gunnera_-_Botanischer_Garten_Rostock_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gunnera_-_Botanischer_Garten_Rostock_2015.jpg/1920px-Gunnera_-_Botanischer_Garten_Rostock_2015.jpg
+  Botanischer Garten Rostock Loki Schmidt Gewächshaus Rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg/400px-Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg/800px-Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg/1200px-Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg/1920px-Botanischer_Garten_Rostock_Loki_Schmidt_Gewächshaus_Rückseite.jpg
+  Botanischer Garten Rostock Teich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Botanischer_Garten_Rostock_Teich.jpg/400px-Botanischer_Garten_Rostock_Teich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Botanischer_Garten_Rostock_Teich.jpg/800px-Botanischer_Garten_Rostock_Teich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Botanischer_Garten_Rostock_Teich.jpg/1200px-Botanischer_Garten_Rostock_Teich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Botanischer_Garten_Rostock_Teich.jpg/1920px-Botanischer_Garten_Rostock_Teich.jpg
+  Bundesarchiv Bild 183-94754-0002, Rostock, Botanischer Garten, Haus der Hochseefischer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/400px-Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/800px-Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/1200px-Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/1920px-Bundesarchiv_Bild_183-94754-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+  Bundesarchiv Bild 183-94734-0002, Rostock, Botanischer Garten, Haus der Hochseefischer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/400px-Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/800px-Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/1200px-Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg/1920px-Bundesarchiv_Bild_183-94734-0002,_Rostock,_Botanischer_Garten,_Haus_der_Hochseefischer.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Altenberg Abbey, Odenthal"
+title: Altenberg Abbey, Odenthal
 date: 2026-01-23
 draft: false
-description: "former Cistercian monastery in Odenthal"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Cistercian monastery in Odenthal
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.054722222
 longitude: 7.132777777
 images:
-  - "/images-sites/altenberg-abbey-odenthal/01-4059c5a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/V-P_08435_Altenberg_monastery_-_baroque_gate.jpg/1200px-V-P_08435_Altenberg_monastery_-_baroque_gate.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg/1200px-Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg/1200px-Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altenberger_Dom_HDR.jpg/1200px-Altenberger_Dom_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abtei_Altenberg_(1707).jpg/1200px-Abtei_Altenberg_(1707).jpg
+image_srcset:
+  V-P 08435 Altenberg monastery - baroque gate.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/V-P_08435_Altenberg_monastery_-_baroque_gate.jpg/400px-V-P_08435_Altenberg_monastery_-_baroque_gate.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/V-P_08435_Altenberg_monastery_-_baroque_gate.jpg/800px-V-P_08435_Altenberg_monastery_-_baroque_gate.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/V-P_08435_Altenberg_monastery_-_baroque_gate.jpg/1200px-V-P_08435_Altenberg_monastery_-_baroque_gate.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/V-P_08435_Altenberg_monastery_-_baroque_gate.jpg/1920px-V-P_08435_Altenberg_monastery_-_baroque_gate.jpg
+  Aerial image of Altenberger Dom (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg/400px-Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg/800px-Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg/1200px-Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg/1920px-Aerial_image_of_Altenberger_Dom_(view_from_the_south).jpg
+  Odenthal Altenberg Hotel Altenberger Hof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg/400px-Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg/800px-Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg/1200px-Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg/1920px-Odenthal_Altenberg_Hotel_Altenberger_Hof.jpg
+  Altenberger Dom HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altenberger_Dom_HDR.jpg/400px-Altenberger_Dom_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altenberger_Dom_HDR.jpg/800px-Altenberger_Dom_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altenberger_Dom_HDR.jpg/1200px-Altenberger_Dom_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Altenberger_Dom_HDR.jpg/1920px-Altenberger_Dom_HDR.jpg
+  Abtei Altenberg (1707).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abtei_Altenberg_(1707).jpg/400px-Abtei_Altenberg_(1707).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abtei_Altenberg_(1707).jpg/800px-Abtei_Altenberg_(1707).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abtei_Altenberg_(1707).jpg/1200px-Abtei_Altenberg_(1707).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abtei_Altenberg_(1707).jpg/1920px-Abtei_Altenberg_(1707).jpg
 ---
 
 ## Overview

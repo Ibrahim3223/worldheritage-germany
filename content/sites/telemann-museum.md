@@ -13,7 +13,7 @@ regions:
 latitude: 53.55123889
 longitude: 9.97654722
 images:
-  - "/images-sites/telemann-museum/01-45644c33-800w.webp"
+  - "/images/telemann-museum/01-45644c33-800w.webp"
 ---
 
 ## Overview

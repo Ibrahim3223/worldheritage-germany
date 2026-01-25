@@ -21,9 +21,9 @@ longitude: 7.463
 
 # Images
 images:
-  - "/images-sites/museum-of-art-and-cultural-history-dortmund/01-0f62e561-800w.webp"
-  - "/images-sites/museum-of-art-and-cultural-history-dortmund/02-db1e6cad-800w.webp"
-  - "/images-sites/museum-of-art-and-cultural-history-dortmund/03-67823253-800w.webp"
+  - "/images/museum-of-art-and-cultural-history-dortmund/01-0f62e561-800w.webp"
+  - "/images/museum-of-art-and-cultural-history-dortmund/02-db1e6cad-800w.webp"
+  - "/images/museum-of-art-and-cultural-history-dortmund/03-67823253-800w.webp"
 ---
 
 ## Overview

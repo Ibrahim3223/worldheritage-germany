@@ -1,19 +1,49 @@
 ---
-title: "Burg Pappenheim"
+title: Burg Pappenheim
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9328
 longitude: 10.9716
 images:
-  - "/images-sites/burg-pappenheim/01-c5e8ee3d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg/1200px-I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/T00_118_Äußere_Brücke.jpg/1200px-T00_118_Äußere_Brücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/T00_120_»Bratwursthaus«.jpg/1200px-T00_120_»Bratwursthaus«.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T00_116e_Zeughaus,_Bergfried.jpg/1200px-T00_116e_Zeughaus,_Bergfried.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aerial_image_of_the_Burg_Pappenheim.jpg/1200px-Aerial_image_of_the_Burg_Pappenheim.jpg
+image_srcset:
+  I09 231 Burg Pappenheim, Turnierplatz und Bratwursthaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg/400px-I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg/800px-I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg/1200px-I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg/1920px-I09_231_Burg_Pappenheim,_Turnierplatz_und_Bratwursthaus.jpg
+  T00 118 Äußere Brücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/T00_118_Äußere_Brücke.jpg/400px-T00_118_Äußere_Brücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/T00_118_Äußere_Brücke.jpg/800px-T00_118_Äußere_Brücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/T00_118_Äußere_Brücke.jpg/1200px-T00_118_Äußere_Brücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/T00_118_Äußere_Brücke.jpg/1920px-T00_118_Äußere_Brücke.jpg
+  T00 120 »Bratwursthaus«.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/T00_120_»Bratwursthaus«.jpg/400px-T00_120_»Bratwursthaus«.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/T00_120_»Bratwursthaus«.jpg/800px-T00_120_»Bratwursthaus«.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/T00_120_»Bratwursthaus«.jpg/1200px-T00_120_»Bratwursthaus«.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/T00_120_»Bratwursthaus«.jpg/1920px-T00_120_»Bratwursthaus«.jpg
+  T00 116e Zeughaus, Bergfried.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T00_116e_Zeughaus,_Bergfried.jpg/400px-T00_116e_Zeughaus,_Bergfried.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T00_116e_Zeughaus,_Bergfried.jpg/800px-T00_116e_Zeughaus,_Bergfried.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T00_116e_Zeughaus,_Bergfried.jpg/1200px-T00_116e_Zeughaus,_Bergfried.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/T00_116e_Zeughaus,_Bergfried.jpg/1920px-T00_116e_Zeughaus,_Bergfried.jpg
+  Aerial image of the Burg Pappenheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aerial_image_of_the_Burg_Pappenheim.jpg/400px-Aerial_image_of_the_Burg_Pappenheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aerial_image_of_the_Burg_Pappenheim.jpg/800px-Aerial_image_of_the_Burg_Pappenheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aerial_image_of_the_Burg_Pappenheim.jpg/1200px-Aerial_image_of_the_Burg_Pappenheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aerial_image_of_the_Burg_Pappenheim.jpg/1920px-Aerial_image_of_the_Burg_Pappenheim.jpg
 ---
 
 ## Overview

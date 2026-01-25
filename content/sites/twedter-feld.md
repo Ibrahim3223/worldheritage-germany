@@ -13,7 +13,7 @@ regions:
 latitude: 54.80542222
 longitude: 9.49062778
 images:
-  - "/images-sites/twedter-feld/01-04868cfe-800w.webp"
+  - "/images/twedter-feld/01-04868cfe-800w.webp"
 ---
 
 ## Overview

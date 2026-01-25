@@ -13,7 +13,7 @@ regions:
 latitude: 53.55197222
 longitude: 9.99827778
 images:
-  - "/images-sites/thalia-theater/03-8757b045-800w.webp"
+  - "/images/thalia-theater/03-8757b045-800w.webp"
 ---
 
 ## Overview

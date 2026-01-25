@@ -13,7 +13,7 @@ regions:
 latitude: 52.3876
 longitude: 13.6793
 images:
-  - "/images-sites/seddinsee/01-d3bbb650-800w.webp"
+  - "/images/seddinsee/01-d3bbb650-800w.webp"
 ---
 
 ## Overview

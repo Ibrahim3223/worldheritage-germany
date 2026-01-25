@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1701340"
 description: "St. Elisabeth in Halle (Saale) is a remarkable church building that captures the essence of Romanesque architecture. The structures robust design and hi..."
 images:
-  - "/images-sites/st-elisabeth/01-0aad7b82-1920w.webp"
-  - "/images-sites/st-elisabeth/02-5718fbd9-1920w.webp"
-  - "/images-sites/st-elisabeth/03-b776883e-1920w.webp"
+  - "/images/st-elisabeth/01-0aad7b82-1920w.webp"
+  - "/images/st-elisabeth/02-5718fbd9-1920w.webp"
+  - "/images/st-elisabeth/03-b776883e-1920w.webp"
 ---
 
 ## Overview

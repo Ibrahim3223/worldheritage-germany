@@ -1,27 +1,49 @@
 ---
-title: "Baldern Castle"
+title: Baldern Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.9026
 longitude: 10.3169
-
-# Images
 images:
-  - "/images-sites/baldern-castle/01-c93bdc12-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg/1200px-Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg/1200px-Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albis_-_Baldern_IMG_5301.JPG/1200px-Albis_-_Baldern_IMG_5301.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Baldern_Standort.jpg/1200px-Burg_Baldern_Standort.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baldern02.JPG/1200px-Baldern02.JPG
+image_srcset:
+  Zentralbibliothek Zürich - a. Arx Balderen in monte Albis porpe Uetlibergam ... - 991010434739705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg/400px-Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg/800px-Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg/1200px-Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg/1920px-Zentralbibliothek_Zürich_-_a._Arx_Balderen_in_monte_Albis_porpe_Uetlibergam_..._-_991010434739705501.jpg
+  Zentralbibliothek Zürich - Das Schloss Baldern - 991099292149705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg/400px-Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg/800px-Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg/1200px-Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg/1920px-Zentralbibliothek_Zürich_-_Das_Schloss_Baldern_-_991099292149705501.jpg
+  Albis - Baldern IMG 5301.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albis_-_Baldern_IMG_5301.JPG/400px-Albis_-_Baldern_IMG_5301.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albis_-_Baldern_IMG_5301.JPG/800px-Albis_-_Baldern_IMG_5301.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albis_-_Baldern_IMG_5301.JPG/1200px-Albis_-_Baldern_IMG_5301.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albis_-_Baldern_IMG_5301.JPG/1920px-Albis_-_Baldern_IMG_5301.JPG
+  Burg Baldern Standort.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Baldern_Standort.jpg/400px-Burg_Baldern_Standort.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Baldern_Standort.jpg/800px-Burg_Baldern_Standort.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Baldern_Standort.jpg/1200px-Burg_Baldern_Standort.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burg_Baldern_Standort.jpg/1920px-Burg_Baldern_Standort.jpg
+  Baldern02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baldern02.JPG/400px-Baldern02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baldern02.JPG/800px-Baldern02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baldern02.JPG/1200px-Baldern02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Baldern02.JPG/1920px-Baldern02.JPG
 ---
 
 ## Overview

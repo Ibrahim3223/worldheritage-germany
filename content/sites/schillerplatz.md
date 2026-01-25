@@ -13,7 +13,7 @@ regions:
 latitude: 48.7772
 longitude: 9.17847
 images:
-  - "/images-sites/schillerplatz/01-3fb7d4a3-800w.webp"
+  - "/images/schillerplatz/01-3fb7d4a3-800w.webp"
 ---
 
 ## Overview

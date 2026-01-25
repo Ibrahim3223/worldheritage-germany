@@ -1,24 +1,51 @@
 ---
-title: "Ernst-Moritz-Arndt-Kirche"
-site_name: "Ernst-Moritz-Arndt-Kirche"
-slug: "ernst-moritz-arndt-kirche"
-region: "Berlin"
-
-# Location
+title: Ernst-Moritz-Arndt-Kirche
+site_name: Ernst-Moritz-Arndt-Kirche
+slug: ernst-moritz-arndt-kirche
+region: Berlin
 latitude: 52.4488
 longitude: 13.2515
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1357152"
-description: "The Ernst-Moritz-Arndt-Kirche, a striking example of modern architecture, was established in 1935 and stands as a significant symbol of the united and u..."
+- church building
+- religious site
+wikidata_id: Q1357152
+description: The Ernst-Moritz-Arndt-Kirche, a striking example of modern architecture,
+  was established in 1935 and stands as a significant symbol of the united and u...
 images:
-  - "/images-sites/ernst-moritz-arndt-kirche/01-23909366-1920w.webp"
-  - "/images-sites/ernst-moritz-arndt-kirche/02-503ba363-1920w.webp"
-  - "/images-sites/ernst-moritz-arndt-kirche/03-c1b82428-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg/1200px-Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG/1200px-Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg
+image_srcset:
+  Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg/400px-Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg/800px-Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg/1200px-Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg/1920px-Ernst-Moritz-Arndt-Kirche%20%28Berlin-Zehlendorf%29.jpg
+  Ernst-Moritz-Arndt-Kirche (Berlin-Zehlendorf) Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg/400px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg/800px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg/1920px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel.jpg
+  Ernst-Moritz-Arndt-Kirche (Berlin-Zehlendorf).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/400px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/800px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg/1920px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf).jpg
+  Zehlendorf Wilskistraße Ernst-Moritz-Arndt-Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG/400px-Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG/800px-Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG/1200px-Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG/1920px-Zehlendorf_Wilskistraße_Ernst-Moritz-Arndt-Kirche.JPG
+  Ernst-Moritz-Arndt-Kirche (Berlin-Zehlendorf) Orgel (retouched) (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg/400px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg/800px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg/1200px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg/1920px-Ernst-Moritz-Arndt-Kirche_(Berlin-Zehlendorf)_Orgel_(retouched)_(cropped).jpg
 ---
 
 ## Overview

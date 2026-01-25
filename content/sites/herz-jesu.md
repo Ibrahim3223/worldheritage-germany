@@ -1,19 +1,45 @@
 ---
-title: "Herz Jesu"
-site_name: "Herz Jesu"
-slug: "herz-jesu"
-region: "Saxony-Anhalt"
-
-# Location
+title: Herz Jesu
+site_name: Herz Jesu
+slug: herz-jesu
+region: Saxony-Anhalt
 latitude: 51.476
 longitude: 11.2929
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1614985"
-description: "In the heart of Sangerhausen, Germany, the Herz Jesu church stands as a striking example of Gothic Revival architecture, inviting visitors to explore it..."
+- cultural site
+wikidata_id: Q1614985
+description: In the heart of Sangerhausen, Germany, the Herz Jesu church stands as
+  a striking example of Gothic Revival architecture, inviting visitors to explore
+  it...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg/1200px-Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg/1200px-Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png/1200px-Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg/1200px-Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg
+image_srcset:
+  Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg/400px-Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg/800px-Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg/1200px-Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg/1920px-Sangerhausen%2C%20die%20Herz-Jesu-Kirche.jpg
+  Cathédrale Saint Louis de La Rochelle - Chapelle du Sacré Coeur - vitrail Apparition du Christ à Marguerite-Marie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg/400px-Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg/800px-Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg/1200px-Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg/1920px-Cathédrale_Saint_Louis_de_La_Rochelle_-_Chapelle_du_Sacré_Coeur_-_vitrail_Apparition_du_Christ_à_Marguerite-Marie.jpg
+  Sagrado Coração de Jesus - escola portuguesa, século XIX.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png/400px-Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png/800px-Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png/1200px-Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png/1920px-Sagrado_Coração_de_Jesus_-_escola_portuguesa,_século_XIX.png
+  Ángel García Díaz, Monumento al Sagrado Corazón de Jesús, Valdepeñas de Jaén, 1928.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg/400px-Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg/800px-Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg/1200px-Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg/1920px-Ángel_García_Díaz,_Monumento_al_Sagrado_Corazón_de_Jesús,_Valdepeñas_de_Jaén,_1928.jpg
 ---
 
 ## Overview

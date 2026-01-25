@@ -1,27 +1,49 @@
 ---
-title: "Burg Wertheim"
+title: Burg Wertheim
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.75887
 longitude: 9.51991
-
-# Images
 images:
-  - "/images-sites/burg-wertheim/01-8be3a0ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg/1200px-"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Burg_Wertheim_(11).jpg/1200px-Burg_Wertheim_(11).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2016-01-03_Burg_Wertheim_06.jpg/1200px-2016-01-03_Burg_Wertheim_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2016-01-03_Burg_Wertheim_08.jpg/1200px-2016-01-03_Burg_Wertheim_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Wertheim.jpg/1200px-Burg_Wertheim.jpg
+image_srcset:
+  '"Eine der ältesten Burgruinen in Baden-Württemberg". 04.jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg/400px-"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg/800px-"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg/1200px-"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg/1920px-"Eine_der_ältesten_Burgruinen_in_Baden-Württemberg"._04.jpg
+  Burg Wertheim (11).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Burg_Wertheim_(11).jpg/400px-Burg_Wertheim_(11).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Burg_Wertheim_(11).jpg/800px-Burg_Wertheim_(11).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Burg_Wertheim_(11).jpg/1200px-Burg_Wertheim_(11).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Burg_Wertheim_(11).jpg/1920px-Burg_Wertheim_(11).jpg
+  2016-01-03 Burg Wertheim 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2016-01-03_Burg_Wertheim_06.jpg/400px-2016-01-03_Burg_Wertheim_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2016-01-03_Burg_Wertheim_06.jpg/800px-2016-01-03_Burg_Wertheim_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2016-01-03_Burg_Wertheim_06.jpg/1200px-2016-01-03_Burg_Wertheim_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2016-01-03_Burg_Wertheim_06.jpg/1920px-2016-01-03_Burg_Wertheim_06.jpg
+  2016-01-03 Burg Wertheim 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2016-01-03_Burg_Wertheim_08.jpg/400px-2016-01-03_Burg_Wertheim_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2016-01-03_Burg_Wertheim_08.jpg/800px-2016-01-03_Burg_Wertheim_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2016-01-03_Burg_Wertheim_08.jpg/1200px-2016-01-03_Burg_Wertheim_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2016-01-03_Burg_Wertheim_08.jpg/1920px-2016-01-03_Burg_Wertheim_08.jpg
+  Burg Wertheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Wertheim.jpg/400px-Burg_Wertheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Wertheim.jpg/800px-Burg_Wertheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Wertheim.jpg/1200px-Burg_Wertheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Wertheim.jpg/1920px-Burg_Wertheim.jpg
 ---
 
 ## Overview

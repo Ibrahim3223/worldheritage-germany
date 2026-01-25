@@ -13,7 +13,7 @@ regions:
 latitude: 51.34694444
 longitude: 6.5825
 images:
-  - "/images-sites/lange-and-esters-houses/01-71c8275f-800w.webp"
+  - "/images/lange-and-esters-houses/01-71c8275f-800w.webp"
 ---
 
 ## Overview

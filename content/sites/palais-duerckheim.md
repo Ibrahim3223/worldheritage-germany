@@ -13,7 +13,7 @@ regions:
 latitude: 48.1458
 longitude: 11.5733
 images:
-  - "/images-sites/palais-duerckheim/01-da313fb2-800w.webp"
+  - "/images/palais-duerckheim/01-da313fb2-800w.webp"
 ---
 
 ## Overview

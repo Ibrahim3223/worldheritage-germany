@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2793824"
 description: "In the bustling heart of Berlin’s Tempelhof-Schöneberg district, the Philippus-Kirche stands as a striking example of modern architecture. This church, ..."
 images:
-  - "/images-sites/philippus-kirche/01-261a1802-1920w.webp"
-  - "/images-sites/philippus-kirche/02-fcd91c62-1920w.webp"
-  - "/images-sites/philippus-kirche/03-ad774c6e-1920w.webp"
+  - "/images/philippus-kirche/01-261a1802-1920w.webp"
+  - "/images/philippus-kirche/02-fcd91c62-1920w.webp"
+  - "/images/philippus-kirche/03-ad774c6e-1920w.webp"
 ---
 
 ## Overview

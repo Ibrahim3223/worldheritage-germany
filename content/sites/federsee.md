@@ -1,19 +1,49 @@
 ---
-title: "Federsee"
+title: Federsee
 date: 2026-01-23
 draft: false
-description: "lake in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 48.083333333
 longitude: 9.633333333
 images:
-  - "/images-sites/federsee/01-281e552c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Federsee_2019-06-02_NO.jpg/1200px-Federsee_2019-06-02_NO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Winter_im_Naturschutzgebiet_Federsee.jpg/1200px-Winter_im_Naturschutzgebiet_Federsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1200px-Federsee-2012-08.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Der_Federseesteg_in_Bad_Buchau.jpg/1200px-Der_Federseesteg_in_Bad_Buchau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Federsee_mit_Schwan.jpg/1200px-Federsee_mit_Schwan.jpg
+image_srcset:
+  Federsee 2019-06-02 NO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Federsee_2019-06-02_NO.jpg/400px-Federsee_2019-06-02_NO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Federsee_2019-06-02_NO.jpg/800px-Federsee_2019-06-02_NO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Federsee_2019-06-02_NO.jpg/1200px-Federsee_2019-06-02_NO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Federsee_2019-06-02_NO.jpg/1920px-Federsee_2019-06-02_NO.jpg
+  Winter im Naturschutzgebiet Federsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Winter_im_Naturschutzgebiet_Federsee.jpg/400px-Winter_im_Naturschutzgebiet_Federsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Winter_im_Naturschutzgebiet_Federsee.jpg/800px-Winter_im_Naturschutzgebiet_Federsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Winter_im_Naturschutzgebiet_Federsee.jpg/1200px-Winter_im_Naturschutzgebiet_Federsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Winter_im_Naturschutzgebiet_Federsee.jpg/1920px-Winter_im_Naturschutzgebiet_Federsee.jpg
+  Federsee-2012-08.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/400px-Federsee-2012-08.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/800px-Federsee-2012-08.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1200px-Federsee-2012-08.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Federsee-2012-08.jpeg/1920px-Federsee-2012-08.jpeg
+  Der Federseesteg in Bad Buchau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Der_Federseesteg_in_Bad_Buchau.jpg/400px-Der_Federseesteg_in_Bad_Buchau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Der_Federseesteg_in_Bad_Buchau.jpg/800px-Der_Federseesteg_in_Bad_Buchau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Der_Federseesteg_in_Bad_Buchau.jpg/1200px-Der_Federseesteg_in_Bad_Buchau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Der_Federseesteg_in_Bad_Buchau.jpg/1920px-Der_Federseesteg_in_Bad_Buchau.jpg
+  Federsee mit Schwan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Federsee_mit_Schwan.jpg/400px-Federsee_mit_Schwan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Federsee_mit_Schwan.jpg/800px-Federsee_mit_Schwan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Federsee_mit_Schwan.jpg/1200px-Federsee_mit_Schwan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Federsee_mit_Schwan.jpg/1920px-Federsee_mit_Schwan.jpg
 ---
 
 ## Overview

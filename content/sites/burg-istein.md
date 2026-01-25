@@ -1,27 +1,45 @@
 ---
-title: "Burg Istein"
+title: Burg Istein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.66305556
 longitude: 7.53083333
-
-# Images
 images:
-  - "/images-sites/burg-istein/01-d69d0d43-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg/1200px-Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Isteiner_Klotz_jm01350_ji.jpg/1200px-Isteiner_Klotz_jm01350_ji.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg/1200px-Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1200px-Festung_am_Isteiner_Klotz.jpg
+image_srcset:
+  Landappbw 865724 1820 Sankt Veit Kapelle Efringen-Kirchen - Istein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg/400px-Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg/800px-Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg/1200px-Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg/1920px-Landappbw_865724_1820_Sankt_Veit_Kapelle_Efringen-Kirchen_-_Istein.jpg
+  Isteiner Klotz jm01350 ji.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Isteiner_Klotz_jm01350_ji.jpg/400px-Isteiner_Klotz_jm01350_ji.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Isteiner_Klotz_jm01350_ji.jpg/800px-Isteiner_Klotz_jm01350_ji.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Isteiner_Klotz_jm01350_ji.jpg/1200px-Isteiner_Klotz_jm01350_ji.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Isteiner_Klotz_jm01350_ji.jpg/1920px-Isteiner_Klotz_jm01350_ji.jpg
+  ? Erklärung Geometrischen Grundrißes über der Isteinische zwischen dem Rhein, Efringen
+    und Huttinger Bann eingeschlossene Bannbezirk, samt dem von der G - LABW - Generallandesarchiv
+    Karlsruhe H Istein 5.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg/400px-Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg/800px-Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg/1200px-Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg/1920px-Erklärung_Geometrischen_Grundrißes_über_der_Isteinische_zwischen_dem_Rhein,_Efringen_und_Huttinger_Bann_eingeschlossene_Bannbezirk,_samt_dem_von_der_G_-_LABW_-_Generallandesarchiv_Karlsruhe_H_Istein_5.jpg
+  Festung am Isteiner Klotz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/400px-Festung_am_Isteiner_Klotz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/800px-Festung_am_Isteiner_Klotz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1200px-Festung_am_Isteiner_Klotz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Festung_am_Isteiner_Klotz.jpg/1920px-Festung_am_Isteiner_Klotz.jpg
 ---
 
 ## Overview

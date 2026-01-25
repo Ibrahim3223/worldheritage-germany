@@ -1,27 +1,49 @@
 ---
-title: "Burg Baldenau"
+title: Burg Baldenau
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8353
 longitude: 7.165
-
-# Images
 images:
-  - "/images-sites/burg-baldenau/01-66779221-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Baldenau.jpg/1200px-Baldenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Baldenau.jpg/1200px-Burg_Baldenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Baldenau_Turm.jpg/1200px-Burg_Baldenau_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BaldenauInnen.jpg/1200px-BaldenauInnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Baldenau_2.jpg/1200px-Burg_Baldenau_2.jpg
+image_srcset:
+  Baldenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Baldenau.jpg/400px-Baldenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Baldenau.jpg/800px-Baldenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Baldenau.jpg/1200px-Baldenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Baldenau.jpg/1920px-Baldenau.jpg
+  Burg Baldenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Baldenau.jpg/400px-Burg_Baldenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Baldenau.jpg/800px-Burg_Baldenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Baldenau.jpg/1200px-Burg_Baldenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Burg_Baldenau.jpg/1920px-Burg_Baldenau.jpg
+  Burg Baldenau Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Baldenau_Turm.jpg/400px-Burg_Baldenau_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Baldenau_Turm.jpg/800px-Burg_Baldenau_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Baldenau_Turm.jpg/1200px-Burg_Baldenau_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Baldenau_Turm.jpg/1920px-Burg_Baldenau_Turm.jpg
+  BaldenauInnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BaldenauInnen.jpg/400px-BaldenauInnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BaldenauInnen.jpg/800px-BaldenauInnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BaldenauInnen.jpg/1200px-BaldenauInnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/BaldenauInnen.jpg/1920px-BaldenauInnen.jpg
+  Burg Baldenau 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Baldenau_2.jpg/400px-Burg_Baldenau_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Baldenau_2.jpg/800px-Burg_Baldenau_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Baldenau_2.jpg/1200px-Burg_Baldenau_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Baldenau_2.jpg/1920px-Burg_Baldenau_2.jpg
 ---
 
 ## Overview

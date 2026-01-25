@@ -1,19 +1,49 @@
 ---
-title: "Alte Haase mine"
+title: Alte Haase mine
 date: 2026-01-23
 draft: false
-description: "mine"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3722
 longitude: 7.24361
 images:
-  - "/images-sites/alte-haase-mine/01-38ec211d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1200px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg/1200px-Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Schacht_Julie01.jpg/1200px-Schacht_Julie01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Alte_Haase.png/1200px-Karte_Alte_Haase.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schacht_Niederheide_147.jpg/1200px-Schacht_Niederheide_147.jpg
+image_srcset:
+  Sprockhövel - Zeche Alte Haase 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/400px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/800px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1200px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg/1920px-Sprockhövel_-_Zeche_Alte_Haase_02_ies.jpg
+  Sprockhövel - Zeche Alte Haase 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg/400px-Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg/800px-Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg/1200px-Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg/1920px-Sprockhövel_-_Zeche_Alte_Haase_05_ies.jpg
+  Schacht Julie01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Schacht_Julie01.jpg/400px-Schacht_Julie01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Schacht_Julie01.jpg/800px-Schacht_Julie01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Schacht_Julie01.jpg/1200px-Schacht_Julie01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Schacht_Julie01.jpg/1920px-Schacht_Julie01.jpg
+  Karte Alte Haase.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Alte_Haase.png/400px-Karte_Alte_Haase.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Alte_Haase.png/800px-Karte_Alte_Haase.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Alte_Haase.png/1200px-Karte_Alte_Haase.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Alte_Haase.png/1920px-Karte_Alte_Haase.png
+  Schacht Niederheide 147.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schacht_Niederheide_147.jpg/400px-Schacht_Niederheide_147.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schacht_Niederheide_147.jpg/800px-Schacht_Niederheide_147.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schacht_Niederheide_147.jpg/1200px-Schacht_Niederheide_147.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schacht_Niederheide_147.jpg/1920px-Schacht_Niederheide_147.jpg
 ---
 
 ## Overview

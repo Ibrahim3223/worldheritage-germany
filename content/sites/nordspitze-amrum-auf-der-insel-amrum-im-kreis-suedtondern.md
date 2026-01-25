@@ -13,7 +13,7 @@ regions:
 latitude: 54.699
 longitude: 8.33897
 images:
-  - "/images-sites/nordspitze-amrum-auf-der-insel-amrum-im-kreis-suedtondern/01-88734d4d-800w.webp"
+  - "/images/nordspitze-amrum-auf-der-insel-amrum-im-kreis-suedtondern/01-88734d4d-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.490277777
 longitude: 13.47
 images:
-  - "/images-sites/treptower-park/01-d981b159-800w.webp"
-  - "/images-sites/treptower-park/02-0ae398d7-800w.webp"
-  - "/images-sites/treptower-park/03-b4b57824-800w.webp"
+  - "/images/treptower-park/01-d981b159-800w.webp"
+  - "/images/treptower-park/02-0ae398d7-800w.webp"
+  - "/images/treptower-park/03-b4b57824-800w.webp"
 ---
 
 ## Overview

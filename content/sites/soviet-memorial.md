@@ -13,9 +13,9 @@ regions:
 latitude: 50.608482
 longitude: 10.682672
 images:
-  - "/images-sites/soviet-memorial/01-2888fbfd-800w.webp"
-  - "/images-sites/soviet-memorial/02-ce971a96-800w.webp"
-  - "/images-sites/soviet-memorial/03-5ccebc9b-800w.webp"
+  - "/images/soviet-memorial/01-2888fbfd-800w.webp"
+  - "/images/soviet-memorial/02-ce971a96-800w.webp"
+  - "/images/soviet-memorial/03-5ccebc9b-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Das Schiff"
+title: Das Schiff
 date: 2026-01-24
 draft: false
-description: "Schiffstheater in Hamburg im Nikolaifleet"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: Schiffstheater in Hamburg im Nikolaifleet
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54595611
 longitude: 9.98790806
 images:
-  - "/images-sites/das-schiff/01-5a8edbc4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Theaterschiff_2018_H.Schindler_008_a.jpg/1200px-Theaterschiff_2018_H.Schindler_008_a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thespis_Kahn_und_Das_Schiff_(2).jpg/1200px-Thespis_Kahn_und_Das_Schiff_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thespis_Kahn_und_Das_Schiff_(3).jpg/1200px-Thespis_Kahn_und_Das_Schiff_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leinen_los.jpg/1200px-Leinen_los.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1200px-Dasschiff_1.jpg
+image_srcset:
+  Theaterschiff 2018 H.Schindler 008 a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Theaterschiff_2018_H.Schindler_008_a.jpg/400px-Theaterschiff_2018_H.Schindler_008_a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Theaterschiff_2018_H.Schindler_008_a.jpg/800px-Theaterschiff_2018_H.Schindler_008_a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Theaterschiff_2018_H.Schindler_008_a.jpg/1200px-Theaterschiff_2018_H.Schindler_008_a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Theaterschiff_2018_H.Schindler_008_a.jpg/1920px-Theaterschiff_2018_H.Schindler_008_a.jpg
+  Thespis Kahn und Das Schiff (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thespis_Kahn_und_Das_Schiff_(2).jpg/400px-Thespis_Kahn_und_Das_Schiff_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thespis_Kahn_und_Das_Schiff_(2).jpg/800px-Thespis_Kahn_und_Das_Schiff_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thespis_Kahn_und_Das_Schiff_(2).jpg/1200px-Thespis_Kahn_und_Das_Schiff_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thespis_Kahn_und_Das_Schiff_(2).jpg/1920px-Thespis_Kahn_und_Das_Schiff_(2).jpg
+  Thespis Kahn und Das Schiff (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thespis_Kahn_und_Das_Schiff_(3).jpg/400px-Thespis_Kahn_und_Das_Schiff_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thespis_Kahn_und_Das_Schiff_(3).jpg/800px-Thespis_Kahn_und_Das_Schiff_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thespis_Kahn_und_Das_Schiff_(3).jpg/1200px-Thespis_Kahn_und_Das_Schiff_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thespis_Kahn_und_Das_Schiff_(3).jpg/1920px-Thespis_Kahn_und_Das_Schiff_(3).jpg
+  Leinen los.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leinen_los.jpg/400px-Leinen_los.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leinen_los.jpg/800px-Leinen_los.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leinen_los.jpg/1200px-Leinen_los.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leinen_los.jpg/1920px-Leinen_los.jpg
+  Dasschiff 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/400px-Dasschiff_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/800px-Dasschiff_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1200px-Dasschiff_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dasschiff_1.jpg/1920px-Dasschiff_1.jpg
 ---
 
 ## Overview

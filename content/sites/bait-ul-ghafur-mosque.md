@@ -1,19 +1,43 @@
 ---
-title: "Bait ul-Ghafur Mosque"
+title: Bait ul-Ghafur Mosque
 date: 2026-01-23
 draft: false
-description: "Mosque in Ginsheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: Mosque in Ginsheim, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 49.989524
 longitude: 8.331813
 images:
-  - "/images-sites/bait-ul-ghafur-mosque/01-01b00f03-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/1200px-Bait_ul-Ghafur_(Ginsheim).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bait_ul-Ghafur_(Ginsheim)_1.jpg/1200px-Bait_ul-Ghafur_(Ginsheim)_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bait_ul-Ghafur_(Ginsheim)_2.jpg/1200px-Bait_ul-Ghafur_(Ginsheim)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bait-ul-Ghafur_Moschee.JPG/1200px-Bait-ul-Ghafur_Moschee.JPG
+image_srcset:
+  Bait ul-Ghafur (Ginsheim).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/400px-Bait_ul-Ghafur_(Ginsheim).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/800px-Bait_ul-Ghafur_(Ginsheim).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/1200px-Bait_ul-Ghafur_(Ginsheim).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bait_ul-Ghafur_(Ginsheim).jpg/1920px-Bait_ul-Ghafur_(Ginsheim).jpg
+  Bait ul-Ghafur (Ginsheim) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bait_ul-Ghafur_(Ginsheim)_1.jpg/400px-Bait_ul-Ghafur_(Ginsheim)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bait_ul-Ghafur_(Ginsheim)_1.jpg/800px-Bait_ul-Ghafur_(Ginsheim)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bait_ul-Ghafur_(Ginsheim)_1.jpg/1200px-Bait_ul-Ghafur_(Ginsheim)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bait_ul-Ghafur_(Ginsheim)_1.jpg/1920px-Bait_ul-Ghafur_(Ginsheim)_1.jpg
+  Bait ul-Ghafur (Ginsheim) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bait_ul-Ghafur_(Ginsheim)_2.jpg/400px-Bait_ul-Ghafur_(Ginsheim)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bait_ul-Ghafur_(Ginsheim)_2.jpg/800px-Bait_ul-Ghafur_(Ginsheim)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bait_ul-Ghafur_(Ginsheim)_2.jpg/1200px-Bait_ul-Ghafur_(Ginsheim)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bait_ul-Ghafur_(Ginsheim)_2.jpg/1920px-Bait_ul-Ghafur_(Ginsheim)_2.jpg
+  Bait-ul-Ghafur Moschee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bait-ul-Ghafur_Moschee.JPG/400px-Bait-ul-Ghafur_Moschee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bait-ul-Ghafur_Moschee.JPG/800px-Bait-ul-Ghafur_Moschee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bait-ul-Ghafur_Moschee.JPG/1200px-Bait-ul-Ghafur_Moschee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bait-ul-Ghafur_Moschee.JPG/1920px-Bait-ul-Ghafur_Moschee.JPG
 ---
 
 ## Overview

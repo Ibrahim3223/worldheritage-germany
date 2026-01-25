@@ -1,19 +1,49 @@
 ---
-title: "Hexenturm"
+title: Hexenturm
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.92082
 longitude: 6.35598
 images:
-  - "/images-sites/hexenturm/01-5c006cde-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hexenturm_Kirchhain_(4).jpg/1200px-Hexenturm_Kirchhain_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hexenturm_Kirchhain_(2).jpg/1200px-Hexenturm_Kirchhain_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hexenturm_Marburg_(02).jpg/1200px-Hexenturm_Marburg_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1200px-Hexenturm_Jülich-DSC_0004w.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hexenturm_Jülich.jpg/1200px-Hexenturm_Jülich.jpg
+image_srcset:
+  Hexenturm Kirchhain (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hexenturm_Kirchhain_(4).jpg/400px-Hexenturm_Kirchhain_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hexenturm_Kirchhain_(4).jpg/800px-Hexenturm_Kirchhain_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hexenturm_Kirchhain_(4).jpg/1200px-Hexenturm_Kirchhain_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hexenturm_Kirchhain_(4).jpg/1920px-Hexenturm_Kirchhain_(4).jpg
+  Hexenturm Kirchhain (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hexenturm_Kirchhain_(2).jpg/400px-Hexenturm_Kirchhain_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hexenturm_Kirchhain_(2).jpg/800px-Hexenturm_Kirchhain_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hexenturm_Kirchhain_(2).jpg/1200px-Hexenturm_Kirchhain_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hexenturm_Kirchhain_(2).jpg/1920px-Hexenturm_Kirchhain_(2).jpg
+  Hexenturm Marburg (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hexenturm_Marburg_(02).jpg/400px-Hexenturm_Marburg_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hexenturm_Marburg_(02).jpg/800px-Hexenturm_Marburg_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hexenturm_Marburg_(02).jpg/1200px-Hexenturm_Marburg_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hexenturm_Marburg_(02).jpg/1920px-Hexenturm_Marburg_(02).jpg
+  Hexenturm Jülich-DSC 0004w.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/400px-Hexenturm_Jülich-DSC_0004w.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/800px-Hexenturm_Jülich-DSC_0004w.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1200px-Hexenturm_Jülich-DSC_0004w.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hexenturm_Jülich-DSC_0004w.jpg/1920px-Hexenturm_Jülich-DSC_0004w.jpg
+  Hexenturm Jülich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hexenturm_Jülich.jpg/400px-Hexenturm_Jülich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hexenturm_Jülich.jpg/800px-Hexenturm_Jülich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hexenturm_Jülich.jpg/1200px-Hexenturm_Jülich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hexenturm_Jülich.jpg/1920px-Hexenturm_Jülich.jpg
 ---
 
 ## Overview

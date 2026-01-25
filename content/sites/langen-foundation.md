@@ -21,9 +21,9 @@ longitude: 6.644611111
 
 # Images
 images:
-  - "/images-sites/langen-foundation/01-9114e835-800w.webp"
-  - "/images-sites/langen-foundation/02-41ed9ca3-800w.webp"
-  - "/images-sites/langen-foundation/03-c7b8977e-800w.webp"
+  - "/images/langen-foundation/01-9114e835-800w.webp"
+  - "/images/langen-foundation/02-41ed9ca3-800w.webp"
+  - "/images/langen-foundation/03-c7b8977e-800w.webp"
 ---
 
 ## Overview

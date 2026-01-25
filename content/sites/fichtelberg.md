@@ -1,19 +1,43 @@
 ---
-title: "Fichtelberg"
+title: Fichtelberg
 date: 2026-01-23
 draft: false
-description: "mountain of the Ore Mountains in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Ore Mountains in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.429444444
 longitude: 12.954166666
 images:
-  - "/images-sites/fichtelberg/02-ffd7dd77-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg/1200px-Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg/1200px-Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg/1200px-Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fichtelberg_Felle.jpg/1200px-Fichtelberg_Felle.jpg
+image_srcset:
+  Digitales Orthofoto von Fichtelberg (Bayerische Vermessungsverwaltung).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg/400px-Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg/800px-Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg/1200px-Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg/1920px-Digitales_Orthofoto_von_Fichtelberg_(Bayerische_Vermessungsverwaltung).tif.jpg
+  Digitales Orthofoto von Fichtelberg2 (Bayerische Vermessungsverwaltung).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg/400px-Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg/800px-Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg/1200px-Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg/1920px-Digitales_Orthofoto_von_Fichtelberg2_(Bayerische_Vermessungsverwaltung).tif.jpg
+  Fichtelberg (Berg), Sachsen - Rundschau; Unterkunftshaus mit Turm und Landeswetterwarte (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg/400px-Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg/800px-Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg/1200px-Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg/1920px-Fichtelberg_(Berg),_Sachsen_-_Rundschau;_Unterkunftshaus_mit_Turm_und_Landeswetterwarte_(Zeno_Ansichtskarten).jpg
+  Fichtelberg Felle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fichtelberg_Felle.jpg/400px-Fichtelberg_Felle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fichtelberg_Felle.jpg/800px-Fichtelberg_Felle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fichtelberg_Felle.jpg/1200px-Fichtelberg_Felle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fichtelberg_Felle.jpg/1920px-Fichtelberg_Felle.jpg
 ---
 
 ## Overview

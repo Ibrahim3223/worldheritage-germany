@@ -1,22 +1,45 @@
 ---
-title: "Aukrug church"
-site_name: "Aukrug church"
-slug: "aukrug-church"
-region: "Schleswig-Holstein"
-
-# Location
+title: Aukrug church
+site_name: Aukrug church
+slug: aukrug-church
+region: Schleswig-Holstein
 latitude: 54.0797
 longitude: 9.78564
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1380500"
-description: "In the serene landscape of Aukrug, Germany, the Aukrug church stands as a remarkable example of Gothic Revival architecture. This church, designed by ar..."
+- cultural site
+wikidata_id: Q1380500
+description: In the serene landscape of Aukrug, Germany, the Aukrug church stands
+  as a remarkable example of Gothic Revival architecture. This church, designed by
+  ar...
 images:
-  - "/images-sites/aukrug-church/01-0fb40091-1920w.webp"
-  - "/images-sites/aukrug-church/02-8a6082ce-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1200px-Kirche-quardratisch-2018.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ehrenmal-aukrug.jpg/1200px-Ehrenmal-aukrug.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kircheneingang-aukrug.jpg/1200px-Kircheneingang-aukrug.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aukrug_kirche.JPG/1200px-Aukrug_kirche.JPG
+image_srcset:
+  Kirche-quardratisch-2018.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/400px-Kirche-quardratisch-2018.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/800px-Kirche-quardratisch-2018.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1200px-Kirche-quardratisch-2018.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kirche-quardratisch-2018.gif/1920px-Kirche-quardratisch-2018.gif
+  Ehrenmal-aukrug.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ehrenmal-aukrug.jpg/400px-Ehrenmal-aukrug.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ehrenmal-aukrug.jpg/800px-Ehrenmal-aukrug.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ehrenmal-aukrug.jpg/1200px-Ehrenmal-aukrug.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ehrenmal-aukrug.jpg/1920px-Ehrenmal-aukrug.jpg
+  Kircheneingang-aukrug.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kircheneingang-aukrug.jpg/400px-Kircheneingang-aukrug.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kircheneingang-aukrug.jpg/800px-Kircheneingang-aukrug.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kircheneingang-aukrug.jpg/1200px-Kircheneingang-aukrug.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kircheneingang-aukrug.jpg/1920px-Kircheneingang-aukrug.jpg
+  Aukrug kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aukrug_kirche.JPG/400px-Aukrug_kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aukrug_kirche.JPG/800px-Aukrug_kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aukrug_kirche.JPG/1200px-Aukrug_kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aukrug_kirche.JPG/1920px-Aukrug_kirche.JPG
 ---
 
 ## Overview

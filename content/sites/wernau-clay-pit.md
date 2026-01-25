@@ -13,9 +13,9 @@ regions:
 latitude: 48.6794
 longitude: 9.41914
 images:
-  - "/images-sites/wernau-clay-pit/01-2c2dae59-800w.webp"
-  - "/images-sites/wernau-clay-pit/02-fb5ff1aa-800w.webp"
-  - "/images-sites/wernau-clay-pit/03-a5439fc6-800w.webp"
+  - "/images/wernau-clay-pit/01-2c2dae59-800w.webp"
+  - "/images/wernau-clay-pit/02-fb5ff1aa-800w.webp"
+  - "/images/wernau-clay-pit/03-a5439fc6-800w.webp"
 ---
 
 ## Overview

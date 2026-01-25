@@ -13,8 +13,8 @@ regions:
 latitude: 52.3665
 longitude: 9.727611111
 images:
-  - "/images-sites/waterloosaeule/02-428a4fe8-800w.webp"
-  - "/images-sites/waterloosaeule/03-1dbef4ac-800w.webp"
+  - "/images/waterloosaeule/02-428a4fe8-800w.webp"
+  - "/images/waterloosaeule/03-1dbef4ac-800w.webp"
 ---
 
 ## Overview

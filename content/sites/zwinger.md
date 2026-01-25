@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q155107"
 description: "The Zwinger in Dresden is a striking example of Baroque architecture, captivating visitors with its grand design and historical significance. Constructe..."
 images:
-  - "/images-sites/zwinger/01-11dbab52-1920w.webp"
-  - "/images-sites/zwinger/02-d407cdfa-1920w.webp"
-  - "/images-sites/zwinger/03-351d64d8-1920w.webp"
+  - "/images/zwinger/01-11dbab52-1920w.webp"
+  - "/images/zwinger/02-d407cdfa-1920w.webp"
+  - "/images/zwinger/03-351d64d8-1920w.webp"
 ---
 
 ## Overview

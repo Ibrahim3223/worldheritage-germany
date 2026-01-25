@@ -1,19 +1,49 @@
 ---
-title: "Jarrestadt"
+title: Jarrestadt
 date: 2026-01-23
 draft: false
-description: "architectural ensemble in Hamburg-Nord, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: architectural ensemble in Hamburg-Nord, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.58472222
 longitude: 10.02388889
 images:
-  - "/images-sites/jarrestadt/01-9c4dee8c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HH-Grossheidestrasse_24.jpg/1200px-HH-Grossheidestrasse_24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HH-Hölderlinsallee_20.JPG/1200px-HH-Hölderlinsallee_20.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HH-Jarrestrasse_29.JPG/1200px-HH-Jarrestrasse_29.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-jarrestadt-hof.jpg/1200px-Hh-jarrestadt-hof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hamburg.Jarrestadt.Glindweg.wmt.jpg/1200px-Hamburg.Jarrestadt.Glindweg.wmt.jpg
+image_srcset:
+  HH-Grossheidestrasse 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HH-Grossheidestrasse_24.jpg/400px-HH-Grossheidestrasse_24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HH-Grossheidestrasse_24.jpg/800px-HH-Grossheidestrasse_24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HH-Grossheidestrasse_24.jpg/1200px-HH-Grossheidestrasse_24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HH-Grossheidestrasse_24.jpg/1920px-HH-Grossheidestrasse_24.jpg
+  HH-Hölderlinsallee 20.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HH-Hölderlinsallee_20.JPG/400px-HH-Hölderlinsallee_20.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HH-Hölderlinsallee_20.JPG/800px-HH-Hölderlinsallee_20.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HH-Hölderlinsallee_20.JPG/1200px-HH-Hölderlinsallee_20.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HH-Hölderlinsallee_20.JPG/1920px-HH-Hölderlinsallee_20.JPG
+  HH-Jarrestrasse 29.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HH-Jarrestrasse_29.JPG/400px-HH-Jarrestrasse_29.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HH-Jarrestrasse_29.JPG/800px-HH-Jarrestrasse_29.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HH-Jarrestrasse_29.JPG/1200px-HH-Jarrestrasse_29.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HH-Jarrestrasse_29.JPG/1920px-HH-Jarrestrasse_29.JPG
+  Hh-jarrestadt-hof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-jarrestadt-hof.jpg/400px-Hh-jarrestadt-hof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-jarrestadt-hof.jpg/800px-Hh-jarrestadt-hof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-jarrestadt-hof.jpg/1200px-Hh-jarrestadt-hof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-jarrestadt-hof.jpg/1920px-Hh-jarrestadt-hof.jpg
+  Hamburg.Jarrestadt.Glindweg.wmt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hamburg.Jarrestadt.Glindweg.wmt.jpg/400px-Hamburg.Jarrestadt.Glindweg.wmt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hamburg.Jarrestadt.Glindweg.wmt.jpg/800px-Hamburg.Jarrestadt.Glindweg.wmt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hamburg.Jarrestadt.Glindweg.wmt.jpg/1200px-Hamburg.Jarrestadt.Glindweg.wmt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hamburg.Jarrestadt.Glindweg.wmt.jpg/1920px-Hamburg.Jarrestadt.Glindweg.wmt.jpg
 ---
 
 ## Overview

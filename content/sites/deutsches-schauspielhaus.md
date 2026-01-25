@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Schauspielhaus"
+title: Deutsches Schauspielhaus
 date: 2026-01-23
 draft: false
-description: "theatre building in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre building in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55430556
 longitude: 10.00886111
 images:
-  - "/images-sites/deutsches-schauspielhaus/01-5bc1490a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/1200px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutsches_Schauspielhaus,_Hamburg.jpg/1200px-Deutsches_Schauspielhaus,_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Schauspielhaus_DS693n.jpg/1200px-Hamburg_Schauspielhaus_DS693n.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hamburg_Deutsches_Schauspielhaus_9438.jpg/1200px-Hamburg_Deutsches_Schauspielhaus_9438.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png/1200px-Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png
+image_srcset:
+  Deutsches Schauspielhaus, Kirchenallee, Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/400px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/800px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/1200px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg/1920px-Deutsches_Schauspielhaus,_Kirchenallee,_Hamburg.jpg
+  Deutsches Schauspielhaus, Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutsches_Schauspielhaus,_Hamburg.jpg/400px-Deutsches_Schauspielhaus,_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutsches_Schauspielhaus,_Hamburg.jpg/800px-Deutsches_Schauspielhaus,_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutsches_Schauspielhaus,_Hamburg.jpg/1200px-Deutsches_Schauspielhaus,_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Deutsches_Schauspielhaus,_Hamburg.jpg/1920px-Deutsches_Schauspielhaus,_Hamburg.jpg
+  Hamburg Schauspielhaus DS693n.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Schauspielhaus_DS693n.jpg/400px-Hamburg_Schauspielhaus_DS693n.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Schauspielhaus_DS693n.jpg/800px-Hamburg_Schauspielhaus_DS693n.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Schauspielhaus_DS693n.jpg/1200px-Hamburg_Schauspielhaus_DS693n.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Schauspielhaus_DS693n.jpg/1920px-Hamburg_Schauspielhaus_DS693n.jpg
+  Hamburg Deutsches Schauspielhaus 9438.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hamburg_Deutsches_Schauspielhaus_9438.jpg/400px-Hamburg_Deutsches_Schauspielhaus_9438.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hamburg_Deutsches_Schauspielhaus_9438.jpg/800px-Hamburg_Deutsches_Schauspielhaus_9438.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hamburg_Deutsches_Schauspielhaus_9438.jpg/1200px-Hamburg_Deutsches_Schauspielhaus_9438.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hamburg_Deutsches_Schauspielhaus_9438.jpg/1920px-Hamburg_Deutsches_Schauspielhaus_9438.jpg
+  Deutsches Schauspielhaus Zweiter Stock (1901) Zentralblatt Abbildung 4.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png/400px-Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png/800px-Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png/1200px-Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png/1920px-Deutsches_Schauspielhaus_Zweiter_Stock_(1901)_Zentralblatt_Abbildung_4.png
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.5111
 longitude: 7.32671
 images:
-  - "/images-sites/roemerwelt/01-a95ab61a-800w.webp"
+  - "/images/roemerwelt/01-a95ab61a-800w.webp"
 ---
 
 ## Overview

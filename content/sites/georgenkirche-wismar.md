@@ -1,20 +1,51 @@
 ---
-title: "Georgenkirche (Wismar)"
-site_name: "Georgenkirche (Wismar)"
-slug: "georgenkirche-wismar"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Georgenkirche (Wismar)
+site_name: Georgenkirche (Wismar)
+slug: georgenkirche-wismar
+region: Mecklenburg-Vorpommern
 latitude: 53.8908
 longitude: 11.4606
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1508738"
-description: "In the heart of Wismar, a coastal town in northern Germany, Georgenkirche stands as a remarkable example of Brick Gothic architecture. This church build..."
+- church building
+- religious site
+wikidata_id: Q1508738
+description: In the heart of Wismar, a coastal town in northern Germany, Georgenkirche
+  stands as a remarkable example of Brick Gothic architecture. This church build...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wismar%20St.%20Georgen%202008-06-10%20059.jpg/1200px-Wismar%20St.%20Georgen%202008-06-10%20059.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/19860529350NR_Wismar_Georgenkirche_Ruine.jpg/1200px-19860529350NR_Wismar_Georgenkirche_Ruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/19860530220NR_Wismar_Georgenkirche_Ruine.jpg/1200px-19860530220NR_Wismar_Georgenkirche_Ruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg/1200px-19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1200px-Wismar_St._Georgen_2008-06-10_059.jpg
+image_srcset:
+  Wismar%20St.%20Georgen%202008-06-10%20059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wismar%20St.%20Georgen%202008-06-10%20059.jpg/400px-Wismar%20St.%20Georgen%202008-06-10%20059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wismar%20St.%20Georgen%202008-06-10%20059.jpg/800px-Wismar%20St.%20Georgen%202008-06-10%20059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wismar%20St.%20Georgen%202008-06-10%20059.jpg/1200px-Wismar%20St.%20Georgen%202008-06-10%20059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wismar%20St.%20Georgen%202008-06-10%20059.jpg/1920px-Wismar%20St.%20Georgen%202008-06-10%20059.jpg
+  19860529350NR Wismar Georgenkirche Ruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/19860529350NR_Wismar_Georgenkirche_Ruine.jpg/400px-19860529350NR_Wismar_Georgenkirche_Ruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/19860529350NR_Wismar_Georgenkirche_Ruine.jpg/800px-19860529350NR_Wismar_Georgenkirche_Ruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/19860529350NR_Wismar_Georgenkirche_Ruine.jpg/1200px-19860529350NR_Wismar_Georgenkirche_Ruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/19860529350NR_Wismar_Georgenkirche_Ruine.jpg/1920px-19860529350NR_Wismar_Georgenkirche_Ruine.jpg
+  19860530220NR Wismar Georgenkirche Ruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/19860530220NR_Wismar_Georgenkirche_Ruine.jpg/400px-19860530220NR_Wismar_Georgenkirche_Ruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/19860530220NR_Wismar_Georgenkirche_Ruine.jpg/800px-19860530220NR_Wismar_Georgenkirche_Ruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/19860530220NR_Wismar_Georgenkirche_Ruine.jpg/1200px-19860530220NR_Wismar_Georgenkirche_Ruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/19860530220NR_Wismar_Georgenkirche_Ruine.jpg/1920px-19860530220NR_Wismar_Georgenkirche_Ruine.jpg
+  19860529360NR Wismar Georgenkirche Ruine Terrakotten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg/400px-19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg/800px-19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg/1200px-19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg/1920px-19860529360NR_Wismar_Georgenkirche_Ruine_Terrakotten.jpg
+  Wismar St. Georgen 2008-06-10 059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/400px-Wismar_St._Georgen_2008-06-10_059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/800px-Wismar_St._Georgen_2008-06-10_059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1200px-Wismar_St._Georgen_2008-06-10_059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Wismar_St._Georgen_2008-06-10_059.jpg/1920px-Wismar_St._Georgen_2008-06-10_059.jpg
 ---
 
 ## Overview

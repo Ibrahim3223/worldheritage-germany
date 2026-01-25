@@ -13,7 +13,7 @@ regions:
 latitude: 52.5362
 longitude: 13.4172
 images:
-  - "/images-sites/kollwitzplatz/01-3e7ee053-800w.webp"
+  - "/images/kollwitzplatz/01-3e7ee053-800w.webp"
 ---
 
 ## Overview

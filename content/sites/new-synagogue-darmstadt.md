@@ -13,7 +13,7 @@ regions:
 latitude: 49.86753
 longitude: 8.6546
 images:
-  - "/images-sites/new-synagogue-darmstadt/01-936e90d2-800w.webp"
+  - "/images/new-synagogue-darmstadt/01-936e90d2-800w.webp"
 ---
 
 ## Overview

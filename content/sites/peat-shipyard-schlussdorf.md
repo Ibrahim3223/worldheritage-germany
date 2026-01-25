@@ -13,7 +13,7 @@ regions:
 latitude: 53.2356
 longitude: 8.97281
 images:
-  - "/images-sites/peat-shipyard-schlussdorf/03-09e6b2fd-800w.webp"
+  - "/images/peat-shipyard-schlussdorf/03-09e6b2fd-800w.webp"
 ---
 
 ## Overview

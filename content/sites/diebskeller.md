@@ -1,21 +1,49 @@
 ---
-title: "Diebskeller"
+title: Diebskeller
 date: 2026-01-23
 draft: false
-description: "Schichtfugenhöhle am Quirl in der Sächsischen Schweiz"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: Schichtfugenhöhle am Quirl in der Sächsischen Schweiz
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 50.90858
 longitude: 14.06425
 images:
-  - "/images-sites/diebskeller/01-1bff0a15-800w.webp"
-  - "/images-sites/diebskeller/01-ed343092-800w.webp"
-  - "/images-sites/diebskeller/02-72b6a3a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg/1200px-Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Platz_vor_dem_Diebskeller.jpg/1200px-Platz_vor_dem_Diebskeller.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg/1200px-Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg/1200px-Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Diebskeller_(12)_(1).jpg/1200px-Diebskeller_(12)_(1).jpg
+image_srcset:
+  Diebskeller bei der Rhät-Felswand bei Rabelsdorf 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg/400px-Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg/800px-Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg/1200px-Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg/1920px-Diebskeller_bei_der_Rhät-Felswand_bei_Rabelsdorf_2.jpg
+  Platz vor dem Diebskeller.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Platz_vor_dem_Diebskeller.jpg/400px-Platz_vor_dem_Diebskeller.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Platz_vor_dem_Diebskeller.jpg/800px-Platz_vor_dem_Diebskeller.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Platz_vor_dem_Diebskeller.jpg/1200px-Platz_vor_dem_Diebskeller.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Platz_vor_dem_Diebskeller.jpg/1920px-Platz_vor_dem_Diebskeller.jpg
+  Königstein Quirl lub 2024-07-23 img03 Diebskeller.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg/400px-Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg/800px-Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg/1200px-Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg/1920px-Königstein_Quirl_lub_2024-07-23_img03_Diebskeller.jpg
+  Königstein Quirl lub 2024-07-23 img04 Diebskeller.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg/400px-Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg/800px-Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg/1200px-Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg/1920px-Königstein_Quirl_lub_2024-07-23_img04_Diebskeller.jpg
+  Diebskeller (12) (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Diebskeller_(12)_(1).jpg/400px-Diebskeller_(12)_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Diebskeller_(12)_(1).jpg/800px-Diebskeller_(12)_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Diebskeller_(12)_(1).jpg/1200px-Diebskeller_(12)_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Diebskeller_(12)_(1).jpg/1920px-Diebskeller_(12)_(1).jpg
 ---
 
 ## Overview

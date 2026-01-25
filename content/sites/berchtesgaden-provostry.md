@@ -1,21 +1,50 @@
 ---
-title: "Berchtesgaden Provostry"
+title: Berchtesgaden Provostry
 date: 2026-01-23
 draft: false
-description: "monastery in Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery in Bavaria
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.63333333
 longitude: 13.00361111
 images:
-  - "/images-sites/berchtesgaden-provostry/01-91e7ff66-800w.webp"
-  - "/images-sites/berchtesgaden-provostry/02-b7c03295-800w.webp"
-  - "/images-sites/berchtesgaden-provostry/03-1011cf27-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berchtesgaden,_c._1715.jpg/1200px-Berchtesgaden,_c._1715.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fürst-Stift_BGD.jpg/1200px-Fürst-Stift_BGD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg/1200px-Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Das_Fürstliche_Stüfft_Berchtolsgaden.jpg/1200px-Das_Fürstliche_Stüfft_Berchtolsgaden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HRR_1789_Fürstpropstei_Berchtesgaden.png/1200px-HRR_1789_Fürstpropstei_Berchtesgaden.png
+image_srcset:
+  Berchtesgaden, c. 1715.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berchtesgaden,_c._1715.jpg/400px-Berchtesgaden,_c._1715.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berchtesgaden,_c._1715.jpg/800px-Berchtesgaden,_c._1715.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berchtesgaden,_c._1715.jpg/1200px-Berchtesgaden,_c._1715.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Berchtesgaden,_c._1715.jpg/1920px-Berchtesgaden,_c._1715.jpg
+  Fürst-Stift BGD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fürst-Stift_BGD.jpg/400px-Fürst-Stift_BGD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fürst-Stift_BGD.jpg/800px-Fürst-Stift_BGD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fürst-Stift_BGD.jpg/1200px-Fürst-Stift_BGD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Fürst-Stift_BGD.jpg/1920px-Fürst-Stift_BGD.jpg
+  ? Vue de Berchtolsgaden dans le Pays de Salzbourg Ansicht von Berchtolsgaden im
+    Salzburgischen - - Gezeig u Gest. von J.J. Strüdt. LCCN2012649716.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg/400px-Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg/800px-Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg/1200px-Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg/1920px-Vue_de_Berchtolsgaden_dans_le_Pays_de_Salzbourg_Ansicht_von_Berchtolsgaden_im_Salzburgischen_-_-_Gezeig_u_Gest._von_J.J._Strüdt._LCCN2012649716.jpg
+  Das Fürstliche Stüfft Berchtolsgaden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Das_Fürstliche_Stüfft_Berchtolsgaden.jpg/400px-Das_Fürstliche_Stüfft_Berchtolsgaden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Das_Fürstliche_Stüfft_Berchtolsgaden.jpg/800px-Das_Fürstliche_Stüfft_Berchtolsgaden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Das_Fürstliche_Stüfft_Berchtolsgaden.jpg/1200px-Das_Fürstliche_Stüfft_Berchtolsgaden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Das_Fürstliche_Stüfft_Berchtolsgaden.jpg/1920px-Das_Fürstliche_Stüfft_Berchtolsgaden.jpg
+  HRR 1789 Fürstpropstei Berchtesgaden.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HRR_1789_Fürstpropstei_Berchtesgaden.png/400px-HRR_1789_Fürstpropstei_Berchtesgaden.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HRR_1789_Fürstpropstei_Berchtesgaden.png/800px-HRR_1789_Fürstpropstei_Berchtesgaden.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HRR_1789_Fürstpropstei_Berchtesgaden.png/1200px-HRR_1789_Fürstpropstei_Berchtesgaden.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HRR_1789_Fürstpropstei_Berchtesgaden.png/1920px-HRR_1789_Fürstpropstei_Berchtesgaden.png
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bennohöhle"
+title: Bennohöhle
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 50.83333
 longitude: 14.05
 images:
-  - "/images-sites/bennohoehle/01-211244eb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bennohöhle1.jpg/1200px-Bennohöhle1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bennohöhle3.jpg/1200px-Bennohöhle3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bennohöhle4.jpg/1200px-Bennohöhle4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bennohöhle5.jpg/1200px-Bennohöhle5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bennohöhle2.jpg/1200px-Bennohöhle2.jpg
+image_srcset:
+  Bennohöhle1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bennohöhle1.jpg/400px-Bennohöhle1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bennohöhle1.jpg/800px-Bennohöhle1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bennohöhle1.jpg/1200px-Bennohöhle1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bennohöhle1.jpg/1920px-Bennohöhle1.jpg
+  Bennohöhle3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bennohöhle3.jpg/400px-Bennohöhle3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bennohöhle3.jpg/800px-Bennohöhle3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bennohöhle3.jpg/1200px-Bennohöhle3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bennohöhle3.jpg/1920px-Bennohöhle3.jpg
+  Bennohöhle4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bennohöhle4.jpg/400px-Bennohöhle4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bennohöhle4.jpg/800px-Bennohöhle4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bennohöhle4.jpg/1200px-Bennohöhle4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bennohöhle4.jpg/1920px-Bennohöhle4.jpg
+  Bennohöhle5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bennohöhle5.jpg/400px-Bennohöhle5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bennohöhle5.jpg/800px-Bennohöhle5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bennohöhle5.jpg/1200px-Bennohöhle5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bennohöhle5.jpg/1920px-Bennohöhle5.jpg
+  Bennohöhle2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bennohöhle2.jpg/400px-Bennohöhle2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bennohöhle2.jpg/800px-Bennohöhle2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bennohöhle2.jpg/1200px-Bennohöhle2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bennohöhle2.jpg/1920px-Bennohöhle2.jpg
 ---
 
 ## Overview

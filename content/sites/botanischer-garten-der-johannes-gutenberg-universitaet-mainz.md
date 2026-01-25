@@ -1,28 +1,49 @@
 ---
-title: "Botanischer Garten der Johannes Gutenberg-Universität Mainz"
+title: Botanischer Garten der Johannes Gutenberg-Universität Mainz
 date: 2026-01-23
 draft: false
-description: "botanical garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9923
 longitude: 8.24369
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-johannes-gutenberg-universitaet-mainz/01-b96b87fc-800w.webp"
-  - "/images-sites/botanischer-garten-der-johannes-gutenberg-universitaet-mainz/02-a72f4073-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg/1200px-JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg/1200px-JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG/1200px-Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Arboretum-MZ.jpg/1200px-Arboretum-MZ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Froschteichmainz.jpg/1200px-Froschteichmainz.jpg
+image_srcset:
+  JGU Mainz - Botanischer Garten, Kakaobaum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg/400px-JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg/800px-JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg/1200px-JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg/1920px-JGU_Mainz_-_Botanischer_Garten,_Kakaobaum.jpg
+  JGU Mainz - Botanischer Garten, unreife Kakaofrucht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg/400px-JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg/800px-JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg/1200px-JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg/1920px-JGU_Mainz_-_Botanischer_Garten,_unreife_Kakaofrucht.jpg
+  Anthemis tinctoria - Botanischer Garten Mainz IMG 5441.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG/400px-Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG/800px-Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG/1200px-Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG/1920px-Anthemis_tinctoria_-_Botanischer_Garten_Mainz_IMG_5441.JPG
+  Arboretum-MZ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Arboretum-MZ.jpg/400px-Arboretum-MZ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Arboretum-MZ.jpg/800px-Arboretum-MZ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Arboretum-MZ.jpg/1200px-Arboretum-MZ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Arboretum-MZ.jpg/1920px-Arboretum-MZ.jpg
+  Froschteichmainz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Froschteichmainz.jpg/400px-Froschteichmainz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Froschteichmainz.jpg/800px-Froschteichmainz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Froschteichmainz.jpg/1200px-Froschteichmainz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Froschteichmainz.jpg/1920px-Froschteichmainz.jpg
 ---
 
 ## Overview

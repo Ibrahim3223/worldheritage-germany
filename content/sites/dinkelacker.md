@@ -1,27 +1,49 @@
 ---
-title: "Dinkelacker"
+title: Dinkelacker
 date: 2026-01-23
 draft: false
-description: "trademark"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: trademark
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.768055555
 longitude: 9.170555555
-
-# Images
 images:
-  - "/images-sites/dinkelacker/01-9743b103-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stuttgart_browar_Dinkelacker_1.jpg/1200px-Stuttgart_browar_Dinkelacker_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuttgart_browar_Dinkelacker_2.jpg/1200px-Stuttgart_browar_Dinkelacker_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1200px-Dinkelackergespann.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg/1200px-Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Volksfest20030927.jpg/1200px-Volksfest20030927.jpg
+image_srcset:
+  Stuttgart browar Dinkelacker 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stuttgart_browar_Dinkelacker_1.jpg/400px-Stuttgart_browar_Dinkelacker_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stuttgart_browar_Dinkelacker_1.jpg/800px-Stuttgart_browar_Dinkelacker_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stuttgart_browar_Dinkelacker_1.jpg/1200px-Stuttgart_browar_Dinkelacker_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stuttgart_browar_Dinkelacker_1.jpg/1920px-Stuttgart_browar_Dinkelacker_1.jpg
+  Stuttgart browar Dinkelacker 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuttgart_browar_Dinkelacker_2.jpg/400px-Stuttgart_browar_Dinkelacker_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuttgart_browar_Dinkelacker_2.jpg/800px-Stuttgart_browar_Dinkelacker_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuttgart_browar_Dinkelacker_2.jpg/1200px-Stuttgart_browar_Dinkelacker_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuttgart_browar_Dinkelacker_2.jpg/1920px-Stuttgart_browar_Dinkelacker_2.jpg
+  Dinkelackergespann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/400px-Dinkelackergespann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/800px-Dinkelackergespann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1200px-Dinkelackergespann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dinkelackergespann.jpg/1920px-Dinkelackergespann.jpg
+  Dinkel Acker beer mug Cannstatter Volksfest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg/400px-Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg/800px-Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg/1200px-Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg/1920px-Dinkel_Acker_beer_mug_Cannstatter_Volksfest.jpg
+  Volksfest20030927.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Volksfest20030927.jpg/400px-Volksfest20030927.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Volksfest20030927.jpg/800px-Volksfest20030927.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Volksfest20030927.jpg/1200px-Volksfest20030927.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Volksfest20030927.jpg/1920px-Volksfest20030927.jpg
 ---
 
 ## Overview

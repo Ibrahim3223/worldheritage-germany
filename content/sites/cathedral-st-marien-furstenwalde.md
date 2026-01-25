@@ -1,19 +1,50 @@
 ---
-title: "Cathedral St. Marien Fürstenwalde"
-site_name: "Cathedral St. Marien Fürstenwalde"
-slug: "cathedral-st-marien-furstenwalde"
-region: "Brandenburg"
-
-# Location
+title: Cathedral St. Marien Fürstenwalde
+site_name: Cathedral St. Marien Fürstenwalde
+slug: cathedral-st-marien-furstenwalde
+region: Brandenburg
 latitude: 52.3581
 longitude: 14.0653
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1236544"
-description: "In the heart of Brandenburg state, the Cathedral St. Marien Fürstenwalde stands as a striking example of Gothic architecture, captivating visitors with ..."
+- cultural site
+wikidata_id: Q1236544
+description: In the heart of Brandenburg state, the Cathedral St. Marien Fürstenwalde
+  stands as a striking example of Gothic architecture, captivating visitors with ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fuerstenwalde%20St%20Marien.jpg/1200px-Fuerstenwalde%20St%20Marien.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dom_in_Fuerstenwalde_(Spree).jpg/1200px-Dom_in_Fuerstenwalde_(Spree).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Marien_Dom_Fürstenwalde.jpg/1200px-St._Marien_Dom_Fürstenwalde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1200px-Fuerstenwalde_St_Marien.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dom_St_Marien_-_panoramio.jpg/1200px-Dom_St_Marien_-_panoramio.jpg
+image_srcset:
+  Fuerstenwalde%20St%20Marien.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fuerstenwalde%20St%20Marien.jpg/400px-Fuerstenwalde%20St%20Marien.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fuerstenwalde%20St%20Marien.jpg/800px-Fuerstenwalde%20St%20Marien.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fuerstenwalde%20St%20Marien.jpg/1200px-Fuerstenwalde%20St%20Marien.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fuerstenwalde%20St%20Marien.jpg/1920px-Fuerstenwalde%20St%20Marien.jpg
+  Dom in Fuerstenwalde (Spree).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dom_in_Fuerstenwalde_(Spree).jpg/400px-Dom_in_Fuerstenwalde_(Spree).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dom_in_Fuerstenwalde_(Spree).jpg/800px-Dom_in_Fuerstenwalde_(Spree).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dom_in_Fuerstenwalde_(Spree).jpg/1200px-Dom_in_Fuerstenwalde_(Spree).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dom_in_Fuerstenwalde_(Spree).jpg/1920px-Dom_in_Fuerstenwalde_(Spree).jpg
+  St. Marien Dom Fürstenwalde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Marien_Dom_Fürstenwalde.jpg/400px-St._Marien_Dom_Fürstenwalde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Marien_Dom_Fürstenwalde.jpg/800px-St._Marien_Dom_Fürstenwalde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Marien_Dom_Fürstenwalde.jpg/1200px-St._Marien_Dom_Fürstenwalde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/St._Marien_Dom_Fürstenwalde.jpg/1920px-St._Marien_Dom_Fürstenwalde.jpg
+  Fuerstenwalde St Marien.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/400px-Fuerstenwalde_St_Marien.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/800px-Fuerstenwalde_St_Marien.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1200px-Fuerstenwalde_St_Marien.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuerstenwalde_St_Marien.jpg/1920px-Fuerstenwalde_St_Marien.jpg
+  Dom St Marien - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dom_St_Marien_-_panoramio.jpg/400px-Dom_St_Marien_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dom_St_Marien_-_panoramio.jpg/800px-Dom_St_Marien_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dom_St_Marien_-_panoramio.jpg/1200px-Dom_St_Marien_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dom_St_Marien_-_panoramio.jpg/1920px-Dom_St_Marien_-_panoramio.jpg
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 8.6912
 
 # Images
 images:
-  - "/images-sites/radeberger-group/01-3543190f-800w.webp"
-  - "/images-sites/radeberger-group/02-036f7d91-800w.webp"
-  - "/images-sites/radeberger-group/03-3d6731f0-800w.webp"
+  - "/images/radeberger-group/01-3543190f-800w.webp"
+  - "/images/radeberger-group/02-036f7d91-800w.webp"
+  - "/images/radeberger-group/03-3d6731f0-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Eschweiler Central Station"
+title: Eschweiler Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Eschweiler, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Eschweiler, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8133
 longitude: 6.25222
 images:
-  - "/images-sites/eschweiler-central-station/01-e969194c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/1200px-Ew-hbf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eschweiler_Hauptbahnhof_Rückseite.JPG/1200px-Eschweiler_Hauptbahnhof_Rückseite.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eschweiler_Hauptbahnhof_EG.jpg/1200px-Eschweiler_Hauptbahnhof_EG.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eschweiler_Hauptbahnhof_Bahnsteig.JPG/1200px-Eschweiler_Hauptbahnhof_Bahnsteig.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Eschweiler_Hbf_Unterführung.jpeg/1200px-Eschweiler_Hbf_Unterführung.jpeg
+image_srcset:
+  Ew-hbf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/400px-Ew-hbf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/800px-Ew-hbf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/1200px-Ew-hbf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ew-hbf.jpg/1920px-Ew-hbf.jpg
+  Eschweiler Hauptbahnhof Rückseite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eschweiler_Hauptbahnhof_Rückseite.JPG/400px-Eschweiler_Hauptbahnhof_Rückseite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eschweiler_Hauptbahnhof_Rückseite.JPG/800px-Eschweiler_Hauptbahnhof_Rückseite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eschweiler_Hauptbahnhof_Rückseite.JPG/1200px-Eschweiler_Hauptbahnhof_Rückseite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eschweiler_Hauptbahnhof_Rückseite.JPG/1920px-Eschweiler_Hauptbahnhof_Rückseite.JPG
+  Eschweiler Hauptbahnhof EG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eschweiler_Hauptbahnhof_EG.jpg/400px-Eschweiler_Hauptbahnhof_EG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eschweiler_Hauptbahnhof_EG.jpg/800px-Eschweiler_Hauptbahnhof_EG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eschweiler_Hauptbahnhof_EG.jpg/1200px-Eschweiler_Hauptbahnhof_EG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eschweiler_Hauptbahnhof_EG.jpg/1920px-Eschweiler_Hauptbahnhof_EG.jpg
+  Eschweiler Hauptbahnhof Bahnsteig.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eschweiler_Hauptbahnhof_Bahnsteig.JPG/400px-Eschweiler_Hauptbahnhof_Bahnsteig.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eschweiler_Hauptbahnhof_Bahnsteig.JPG/800px-Eschweiler_Hauptbahnhof_Bahnsteig.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eschweiler_Hauptbahnhof_Bahnsteig.JPG/1200px-Eschweiler_Hauptbahnhof_Bahnsteig.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Eschweiler_Hauptbahnhof_Bahnsteig.JPG/1920px-Eschweiler_Hauptbahnhof_Bahnsteig.JPG
+  Eschweiler Hbf Unterführung.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Eschweiler_Hbf_Unterführung.jpeg/400px-Eschweiler_Hbf_Unterführung.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Eschweiler_Hbf_Unterführung.jpeg/800px-Eschweiler_Hbf_Unterführung.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Eschweiler_Hbf_Unterführung.jpeg/1200px-Eschweiler_Hbf_Unterführung.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Eschweiler_Hbf_Unterführung.jpeg/1920px-Eschweiler_Hbf_Unterführung.jpeg
 ---
 
 ## Overview

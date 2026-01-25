@@ -1,19 +1,49 @@
 ---
-title: "Göttingen City Cemetery"
+title: Göttingen City Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Göttingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Göttingen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5325
 longitude: 9.90972
 images:
-  - "/images-sites/goettingen-city-cemetery/01-84a8c417-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg/1200px-Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/1200px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg/1200px-Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg/1200px-Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg/1200px-Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg
+image_srcset:
+  Gemeinschaftsgrab Russischer Arbeiter (Stadtfriedhof Göttingen) Inschrift deutsch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg/400px-Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg/800px-Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg/1200px-Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg/1920px-Gemeinschaftsgrab_Russischer_Arbeiter_(Stadtfriedhof_Göttingen)_Inschrift_deutsch.jpg
+  Goettingen Stadtfriedhof Kapelle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/400px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/800px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/1200px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Goettingen_Stadtfriedhof_Kapelle_01.jpg/1920px-Goettingen_Stadtfriedhof_Kapelle_01.jpg
+  Stadtfriedhof GÖ, Grabmal Edith und Otto Hahn, Foto 03 11 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg/400px-Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg/800px-Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg/1200px-Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg/1920px-Stadtfriedhof_GÖ,_Grabmal_Edith_und_Otto_Hahn,_Foto_03_11_2024.jpg
+  Stadtfriedhof GÖ, Grabmal Georg Elias Müller, Foto 03 11 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg/400px-Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg/800px-Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg/1200px-Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg/1920px-Stadtfriedhof_GÖ,_Grabmal_Georg_Elias_Müller,_Foto_03_11_2024.jpg
+  Stadtfriedhof GÖ, Grabmal Wilhelm Ebel, Foto 03 11 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg/400px-Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg/800px-Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg/1200px-Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg/1920px-Stadtfriedhof_GÖ,_Grabmal_Wilhelm_Ebel,_Foto_03_11_2024.jpg
 ---
 
 ## Overview

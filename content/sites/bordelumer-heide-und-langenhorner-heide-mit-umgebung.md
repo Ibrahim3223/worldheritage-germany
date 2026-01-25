@@ -1,21 +1,49 @@
 ---
-title: "Bordelumer Heide und Langenhorner Heide mit Umgebung"
+title: Bordelumer Heide und Langenhorner Heide mit Umgebung
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6547
 longitude: 8.95861
 images:
-  - "/images-sites/bordelumer-heide-und-langenhorner-heide-mit-umgebung/01-2e860961-800w.webp"
-  - "/images-sites/bordelumer-heide-und-langenhorner-heide-mit-umgebung/02-366c8a89-800w.webp"
-  - "/images-sites/bordelumer-heide-und-langenhorner-heide-mit-umgebung/03-e6e4acbf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg/1200px-Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg/1200px-Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bordelumer_Heide.jpg/1200px-Bordelumer_Heide.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg/1200px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg/1200px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg
+image_srcset:
+  Heideweiher im Naturschutzgebiet Bordelumer Heide.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg/400px-Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg/800px-Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg/1200px-Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg/1920px-Heideweiher_im_Naturschutzgebiet_Bordelumer_Heide.jpg
+  Reed im Naturschutzgebiet Bordelumer Heide - Schleswig-Holstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg/400px-Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg/800px-Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg/1200px-Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg/1920px-Reed_im_Naturschutzgebiet_Bordelumer_Heide_-_Schleswig-Holstein.jpg
+  Bordelumer Heide.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bordelumer_Heide.jpg/400px-Bordelumer_Heide.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bordelumer_Heide.jpg/800px-Bordelumer_Heide.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bordelumer_Heide.jpg/1200px-Bordelumer_Heide.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bordelumer_Heide.jpg/1920px-Bordelumer_Heide.jpg
+  FFH-Gebiet NSG Bordelumer Heide und Langenhorner Heide mit Umgebung-LRT.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg/400px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg/800px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg/1200px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg/1920px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-LRT.jpg
+  FFH-Gebiet NSG Bordelumer Heide und Langenhorner Heide mit Umgebung-GBU.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg/400px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg/800px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg/1200px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg/1920px-FFH-Gebiet_NSG_Bordelumer_Heide_und_Langenhorner_Heide_mit_Umgebung-GBU.jpg
 ---
 
 ## Overview

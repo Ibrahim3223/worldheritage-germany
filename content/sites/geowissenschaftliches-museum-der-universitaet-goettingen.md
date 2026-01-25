@@ -1,19 +1,49 @@
 ---
-title: "Geowissenschaftliches Museum der Universität Göttingen"
+title: Geowissenschaftliches Museum der Universität Göttingen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.55631
 longitude: 9.94732
 images:
-  - "/images-sites/geowissenschaftliches-museum-der-universitaet-goettingen/01-cd5d7d4b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1200px-Geoscience_Museum_Göttingen_Entrance.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Geoscience_Museum_Göttingen_Glacial_erratics.JPG/1200px-Geoscience_Museum_Göttingen_Glacial_erratics.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Danaite-GZG-Museum-366102-1.png/1200px-Danaite-GZG-Museum-366102-1.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg/1200px-Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg/1200px-Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg
+image_srcset:
+  Geoscience Museum Göttingen Entrance.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/400px-Geoscience_Museum_Göttingen_Entrance.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/800px-Geoscience_Museum_Göttingen_Entrance.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1200px-Geoscience_Museum_Göttingen_Entrance.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Geoscience_Museum_Göttingen_Entrance.JPG/1920px-Geoscience_Museum_Göttingen_Entrance.JPG
+  Geoscience Museum Göttingen Glacial erratics.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Geoscience_Museum_Göttingen_Glacial_erratics.JPG/400px-Geoscience_Museum_Göttingen_Glacial_erratics.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Geoscience_Museum_Göttingen_Glacial_erratics.JPG/800px-Geoscience_Museum_Göttingen_Glacial_erratics.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Geoscience_Museum_Göttingen_Glacial_erratics.JPG/1200px-Geoscience_Museum_Göttingen_Glacial_erratics.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Geoscience_Museum_Göttingen_Glacial_erratics.JPG/1920px-Geoscience_Museum_Göttingen_Glacial_erratics.JPG
+  Danaite-GZG-Museum-366102-1.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Danaite-GZG-Museum-366102-1.png/400px-Danaite-GZG-Museum-366102-1.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Danaite-GZG-Museum-366102-1.png/800px-Danaite-GZG-Museum-366102-1.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Danaite-GZG-Museum-366102-1.png/1200px-Danaite-GZG-Museum-366102-1.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Danaite-GZG-Museum-366102-1.png/1920px-Danaite-GZG-Museum-366102-1.png
+  Dolichoderus passalomma GZG-BST04982 specimen tag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg/400px-Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg/800px-Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg/1200px-Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg/1920px-Dolichoderus_passalomma_GZG-BST04982_specimen_tag.jpg
+  Drymomyrmex fuscipennis GZG-BST04158 specimen tag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg/400px-Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg/800px-Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg/1200px-Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg/1920px-Drymomyrmex_fuscipennis_GZG-BST04158_specimen_tag.jpg
 ---
 
 ## Overview

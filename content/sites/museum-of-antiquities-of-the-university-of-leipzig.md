@@ -13,7 +13,7 @@ regions:
 latitude: 51.3413
 longitude: 12.3783
 images:
-  - "/images-sites/museum-of-antiquities-of-the-university-of-leipzig/01-588faee1-800w.webp"
+  - "/images/museum-of-antiquities-of-the-university-of-leipzig/01-588faee1-800w.webp"
 ---
 
 ## Overview

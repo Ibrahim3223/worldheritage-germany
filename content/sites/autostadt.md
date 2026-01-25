@@ -1,19 +1,43 @@
 ---
-title: "Autostadt"
+title: Autostadt
 date: 2026-01-23
 draft: false
-description: "museum and park in Wolfsburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum and park in Wolfsburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4311
 longitude: 10.7919
 images:
-  - "/images-sites/autostadt/01-02c4d002-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/14-01-18-autostadt-wob-037.jpg/1200px-14-01-18-autostadt-wob-037.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Autostadt-Süd_bei_Nacht.jpg/1200px-Autostadt-Süd_bei_Nacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wolfsburg_Jun_2012_010_(Autostadt).JPG/1200px-Wolfsburg_Jun_2012_010_(Autostadt).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Autostadt,_Wolfsburg_Gelände.jpg/1200px-Autostadt,_Wolfsburg_Gelände.jpg
+image_srcset:
+  14-01-18-autostadt-wob-037.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/14-01-18-autostadt-wob-037.jpg/400px-14-01-18-autostadt-wob-037.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/14-01-18-autostadt-wob-037.jpg/800px-14-01-18-autostadt-wob-037.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/14-01-18-autostadt-wob-037.jpg/1200px-14-01-18-autostadt-wob-037.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/14-01-18-autostadt-wob-037.jpg/1920px-14-01-18-autostadt-wob-037.jpg
+  Autostadt-Süd bei Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Autostadt-Süd_bei_Nacht.jpg/400px-Autostadt-Süd_bei_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Autostadt-Süd_bei_Nacht.jpg/800px-Autostadt-Süd_bei_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Autostadt-Süd_bei_Nacht.jpg/1200px-Autostadt-Süd_bei_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Autostadt-Süd_bei_Nacht.jpg/1920px-Autostadt-Süd_bei_Nacht.jpg
+  Wolfsburg Jun 2012 010 (Autostadt).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wolfsburg_Jun_2012_010_(Autostadt).JPG/400px-Wolfsburg_Jun_2012_010_(Autostadt).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wolfsburg_Jun_2012_010_(Autostadt).JPG/800px-Wolfsburg_Jun_2012_010_(Autostadt).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wolfsburg_Jun_2012_010_(Autostadt).JPG/1200px-Wolfsburg_Jun_2012_010_(Autostadt).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wolfsburg_Jun_2012_010_(Autostadt).JPG/1920px-Wolfsburg_Jun_2012_010_(Autostadt).JPG
+  Autostadt, Wolfsburg Gelände.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Autostadt,_Wolfsburg_Gelände.jpg/400px-Autostadt,_Wolfsburg_Gelände.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Autostadt,_Wolfsburg_Gelände.jpg/800px-Autostadt,_Wolfsburg_Gelände.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Autostadt,_Wolfsburg_Gelände.jpg/1200px-Autostadt,_Wolfsburg_Gelände.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Autostadt,_Wolfsburg_Gelände.jpg/1920px-Autostadt,_Wolfsburg_Gelände.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 8.23806
 
 # Images
 images:
-  - "/images-sites/staatliche-kunsthalle-baden-baden/01-7fb6feff-800w.webp"
+  - "/images/staatliche-kunsthalle-baden-baden/01-7fb6feff-800w.webp"
 ---
 
 ## Overview

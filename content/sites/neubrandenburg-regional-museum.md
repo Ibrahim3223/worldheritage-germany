@@ -13,8 +13,8 @@ regions:
 latitude: 53.5569
 longitude: 13.255
 images:
-  - "/images-sites/neubrandenburg-regional-museum/02-247e369c-800w.webp"
-  - "/images-sites/neubrandenburg-regional-museum/03-f4dbbc34-800w.webp"
+  - "/images/neubrandenburg-regional-museum/02-247e369c-800w.webp"
+  - "/images/neubrandenburg-regional-museum/03-f4dbbc34-800w.webp"
 ---
 
 ## Overview

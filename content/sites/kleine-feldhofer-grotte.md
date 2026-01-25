@@ -21,8 +21,8 @@ longitude: 6.94555556
 
 # Images
 images:
-  - "/images-sites/kleine-feldhofer-grotte/02-f701bb78-800w.webp"
-  - "/images-sites/kleine-feldhofer-grotte/03-2bb57c29-800w.webp"
+  - "/images/kleine-feldhofer-grotte/02-f701bb78-800w.webp"
+  - "/images/kleine-feldhofer-grotte/03-2bb57c29-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Haus"
+title: Deutsches Haus
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall in Flensburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall in Flensburg, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 54.781
 longitude: 9.43825
 images:
-  - "/images-sites/deutsches-haus/01-fbdf1f6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rehna_Deutsche_Haus_Alte_Fassade.JPG/1200px-Rehna_Deutsche_Haus_Alte_Fassade.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutsches_Haus_Treppe_Filmprojektor.jpg/1200px-Deutsches_Haus_Treppe_Filmprojektor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rehna_Deutsches_Haus_2012-02-26_051.JPG/1200px-Rehna_Deutsches_Haus_2012-02-26_051.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg/1200px-2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Deutsches_haus.jpg/1200px-Deutsches_haus.jpg
+image_srcset:
+  Rehna Deutsche Haus Alte Fassade.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rehna_Deutsche_Haus_Alte_Fassade.JPG/400px-Rehna_Deutsche_Haus_Alte_Fassade.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rehna_Deutsche_Haus_Alte_Fassade.JPG/800px-Rehna_Deutsche_Haus_Alte_Fassade.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rehna_Deutsche_Haus_Alte_Fassade.JPG/1200px-Rehna_Deutsche_Haus_Alte_Fassade.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rehna_Deutsche_Haus_Alte_Fassade.JPG/1920px-Rehna_Deutsche_Haus_Alte_Fassade.JPG
+  Deutsches Haus Treppe Filmprojektor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutsches_Haus_Treppe_Filmprojektor.jpg/400px-Deutsches_Haus_Treppe_Filmprojektor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutsches_Haus_Treppe_Filmprojektor.jpg/800px-Deutsches_Haus_Treppe_Filmprojektor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutsches_Haus_Treppe_Filmprojektor.jpg/1200px-Deutsches_Haus_Treppe_Filmprojektor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutsches_Haus_Treppe_Filmprojektor.jpg/1920px-Deutsches_Haus_Treppe_Filmprojektor.jpg
+  Rehna Deutsches Haus 2012-02-26 051.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rehna_Deutsches_Haus_2012-02-26_051.JPG/400px-Rehna_Deutsches_Haus_2012-02-26_051.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rehna_Deutsches_Haus_2012-02-26_051.JPG/800px-Rehna_Deutsches_Haus_2012-02-26_051.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rehna_Deutsches_Haus_2012-02-26_051.JPG/1200px-Rehna_Deutsches_Haus_2012-02-26_051.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rehna_Deutsches_Haus_2012-02-26_051.JPG/1920px-Rehna_Deutsches_Haus_2012-02-26_051.JPG
+  2017-02-03, Deutsches Haus HCM, View from the street I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg/400px-2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg/800px-2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg/1200px-2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg/1920px-2017-02-03,_Deutsches_Haus_HCM,_View_from_the_street_I.jpg
+  Deutsches haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Deutsches_haus.jpg/400px-Deutsches_haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Deutsches_haus.jpg/800px-Deutsches_haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Deutsches_haus.jpg/1200px-Deutsches_haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Deutsches_haus.jpg/1920px-Deutsches_haus.jpg
 ---
 
 ## Overview

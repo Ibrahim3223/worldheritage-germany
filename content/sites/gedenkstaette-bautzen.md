@@ -1,19 +1,50 @@
 ---
-title: "Gedenkstätte Bautzen"
+title: Gedenkstätte Bautzen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 51.17799377
 longitude: 14.43645191
 images:
-  - "/images-sites/gedenkstaette-bautzen/01-8043aa77-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bautzen_Türschaltung_April_2025.jpg/1200px-Bautzen_Türschaltung_April_2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bautzen_II.jpg/1200px-Bautzen_II.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/1200px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG/1200px-Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gedenkstätte_Bautzen.jpg/1200px-Gedenkstätte_Bautzen.jpg
+image_srcset:
+  Bautzen Türschaltung April 2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bautzen_Türschaltung_April_2025.jpg/400px-Bautzen_Türschaltung_April_2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bautzen_Türschaltung_April_2025.jpg/800px-Bautzen_Türschaltung_April_2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bautzen_Türschaltung_April_2025.jpg/1200px-Bautzen_Türschaltung_April_2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bautzen_Türschaltung_April_2025.jpg/1920px-Bautzen_Türschaltung_April_2025.jpg
+  Bautzen II.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bautzen_II.jpg/400px-Bautzen_II.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bautzen_II.jpg/800px-Bautzen_II.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bautzen_II.jpg/1200px-Bautzen_II.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bautzen_II.jpg/1920px-Bautzen_II.jpg
+  ? Blick auf das Amtsgericht Bautzen vom Freiganghof der Haftanstalt Bautzen II aus
+    gesehen (3) - Gedenkstätte Stasigefängnis Bautzen II Weigangstraße 8a.JPG
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/400px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/800px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/1200px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG/1920px-Blick_auf_das_Amtsgericht_Bautzen_vom_Freiganghof_der_Haftanstalt_Bautzen_II_aus_gesehen_(3)_-_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a.JPG
+  Freiganghof der Gedenkstätte Stasigefängnis Bautzen II Weigangstraße 8a für einzelne Häftlinge (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG/400px-Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG/800px-Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG/1200px-Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG/1920px-Freiganghof_der_Gedenkstätte_Stasigefängnis_Bautzen_II_Weigangstraße_8a_für_einzelne_Häftlinge_(2).JPG
+  Gedenkstätte Bautzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gedenkstätte_Bautzen.jpg/400px-Gedenkstätte_Bautzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gedenkstätte_Bautzen.jpg/800px-Gedenkstätte_Bautzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gedenkstätte_Bautzen.jpg/1200px-Gedenkstätte_Bautzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gedenkstätte_Bautzen.jpg/1920px-Gedenkstätte_Bautzen.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Augsburg Cathedral"
+title: Augsburg Cathedral
 date: 2026-01-23
 draft: false
-description: "cathedral"
-region: "Germany"
-country: "Germany"
-heritage_type: "Pilgrimage Church"
+description: cathedral
+region: Germany
+country: Germany
+heritage_type: Pilgrimage Church
 categories:
-  - "Pilgrimage Church"
+- Pilgrimage Church
 regions:
-  - "Germany"
+- Germany
 latitude: 48.372743587
 longitude: 10.896565711
 images:
-  - "/images-sites/augsburg-cathedral/01-631a1941-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20231023_Augsburg_Cathedral_02.jpg/1200px-20231023_Augsburg_Cathedral_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20231023_Augsburg_Cathedral_03.jpg/1200px-20231023_Augsburg_Cathedral_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/1200px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg/1200px-Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20231023_Augsburg_Cathedral_01.jpg/1200px-20231023_Augsburg_Cathedral_01.jpg
+image_srcset:
+  20231023 Augsburg Cathedral 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20231023_Augsburg_Cathedral_02.jpg/400px-20231023_Augsburg_Cathedral_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20231023_Augsburg_Cathedral_02.jpg/800px-20231023_Augsburg_Cathedral_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20231023_Augsburg_Cathedral_02.jpg/1200px-20231023_Augsburg_Cathedral_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20231023_Augsburg_Cathedral_02.jpg/1920px-20231023_Augsburg_Cathedral_02.jpg
+  20231023 Augsburg Cathedral 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20231023_Augsburg_Cathedral_03.jpg/400px-20231023_Augsburg_Cathedral_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20231023_Augsburg_Cathedral_03.jpg/800px-20231023_Augsburg_Cathedral_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20231023_Augsburg_Cathedral_03.jpg/1200px-20231023_Augsburg_Cathedral_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20231023_Augsburg_Cathedral_03.jpg/1920px-20231023_Augsburg_Cathedral_03.jpg
+  2011-02-26 Augsburg 058 Dom Unserer Lieben Frau (5482533015).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/400px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/800px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/1200px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg/1920px-2011-02-26_Augsburg_058_Dom_Unserer_Lieben_Frau_(5482533015).jpg
+  Zentralbibliothek Zürich - Erker beim Dom Augsburg - 991153418169705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg/400px-Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg/800px-Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg/1200px-Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg/1920px-Zentralbibliothek_Zürich_-_Erker_beim_Dom_Augsburg_-_991153418169705501.jpg
+  20231023 Augsburg Cathedral 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20231023_Augsburg_Cathedral_01.jpg/400px-20231023_Augsburg_Cathedral_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20231023_Augsburg_Cathedral_01.jpg/800px-20231023_Augsburg_Cathedral_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20231023_Augsburg_Cathedral_01.jpg/1200px-20231023_Augsburg_Cathedral_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20231023_Augsburg_Cathedral_01.jpg/1920px-20231023_Augsburg_Cathedral_01.jpg
 ---
 
 ## Overview

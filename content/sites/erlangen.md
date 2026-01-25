@@ -1,21 +1,49 @@
 ---
-title: "Erlangen"
+title: Erlangen
 date: 2026-01-23
 draft: false
-description: "railway halt in the urban district of Erlangen, Middle Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway halt in the urban district of Erlangen, Middle Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.595968
 longitude: 11.001572
 images:
-  - "/images-sites/erlangen/01-2981e104-800w.webp"
-  - "/images-sites/erlangen/02-abd27efb-800w.webp"
-  - "/images-sites/erlangen/03-76cb94e7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg/1200px-Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Erlangen_Panorama_Luftaufnahme_(2020).jpg/1200px-Erlangen_Panorama_Luftaufnahme_(2020).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG/1200px-Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Erlangen_08-2012.jpg/1200px-Erlangen_08-2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palais_Stutterheim_im_Abendlicht.jpg/1200px-Palais_Stutterheim_im_Abendlicht.jpg
+image_srcset:
+  Digitales Orthofoto von Erlangen (Bayerische Vermessungsverwaltung).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg/400px-Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg/800px-Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg/1200px-Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg/1920px-Digitales_Orthofoto_von_Erlangen_(Bayerische_Vermessungsverwaltung).tif.jpg
+  Erlangen Panorama Luftaufnahme (2020).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Erlangen_Panorama_Luftaufnahme_(2020).jpg/400px-Erlangen_Panorama_Luftaufnahme_(2020).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Erlangen_Panorama_Luftaufnahme_(2020).jpg/800px-Erlangen_Panorama_Luftaufnahme_(2020).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Erlangen_Panorama_Luftaufnahme_(2020).jpg/1200px-Erlangen_Panorama_Luftaufnahme_(2020).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Erlangen_Panorama_Luftaufnahme_(2020).jpg/1920px-Erlangen_Panorama_Luftaufnahme_(2020).jpg
+  Erlangen Blick vom Burgberg auf die Innenstadt 2009 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG/400px-Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG/800px-Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG/1200px-Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG/1920px-Erlangen_Blick_vom_Burgberg_auf_die_Innenstadt_2009_001.JPG
+  Erlangen 08-2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Erlangen_08-2012.jpg/400px-Erlangen_08-2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Erlangen_08-2012.jpg/800px-Erlangen_08-2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Erlangen_08-2012.jpg/1200px-Erlangen_08-2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Erlangen_08-2012.jpg/1920px-Erlangen_08-2012.jpg
+  Palais Stutterheim im Abendlicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palais_Stutterheim_im_Abendlicht.jpg/400px-Palais_Stutterheim_im_Abendlicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palais_Stutterheim_im_Abendlicht.jpg/800px-Palais_Stutterheim_im_Abendlicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palais_Stutterheim_im_Abendlicht.jpg/1200px-Palais_Stutterheim_im_Abendlicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palais_Stutterheim_im_Abendlicht.jpg/1920px-Palais_Stutterheim_im_Abendlicht.jpg
 ---
 
 ## Overview

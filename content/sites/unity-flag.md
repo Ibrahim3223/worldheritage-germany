@@ -13,9 +13,9 @@ regions:
 latitude: 52.5184194
 longitude: 13.3747951
 images:
-  - "/images-sites/unity-flag/01-0408f4c8-800w.webp"
-  - "/images-sites/unity-flag/02-995a07bd-800w.webp"
-  - "/images-sites/unity-flag/03-eefe5519-800w.webp"
+  - "/images/unity-flag/01-0408f4c8-800w.webp"
+  - "/images/unity-flag/02-995a07bd-800w.webp"
+  - "/images/unity-flag/03-eefe5519-800w.webp"
 ---
 
 ## Overview

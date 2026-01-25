@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q896899"
 description: "In the heart of Dresden, an evocative reminder of a once-grand church stands where the Sophienkirche once thrived. This Lutheran church, founded in 1945..."
 images:
-  - "/images-sites/sophienkirche/01-e7723158-1920w.webp"
-  - "/images-sites/sophienkirche/02-579ac768-1920w.webp"
-  - "/images-sites/sophienkirche/03-468e7aca-1920w.webp"
+  - "/images/sophienkirche/01-e7723158-1920w.webp"
+  - "/images/sophienkirche/02-579ac768-1920w.webp"
+  - "/images/sophienkirche/03-468e7aca-1920w.webp"
 ---
 
 ## Overview

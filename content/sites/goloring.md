@@ -1,28 +1,37 @@
 ---
-title: "Goloring"
+title: Goloring
 date: 2026-01-23
 draft: false
-description: "Neolithic henge monument"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Neolithic henge monument
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.3392
 longitude: 7.43972
-
-# Images
 images:
-  - "/images-sites/goloring/02-aba8e18c-800w.webp"
-  - "/images-sites/goloring/03-492d18e1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goloring_001.jpg/1200px-Goloring_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Goloring_002.jpg/1200px-Goloring_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Goloring_004.jpg/1200px-Goloring_004.jpg
+image_srcset:
+  Goloring 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goloring_001.jpg/400px-Goloring_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goloring_001.jpg/800px-Goloring_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goloring_001.jpg/1200px-Goloring_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goloring_001.jpg/1920px-Goloring_001.jpg
+  Goloring 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Goloring_002.jpg/400px-Goloring_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Goloring_002.jpg/800px-Goloring_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Goloring_002.jpg/1200px-Goloring_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Goloring_002.jpg/1920px-Goloring_002.jpg
+  Goloring 004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Goloring_004.jpg/400px-Goloring_004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Goloring_004.jpg/800px-Goloring_004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Goloring_004.jpg/1200px-Goloring_004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Goloring_004.jpg/1920px-Goloring_004.jpg
 ---
 
 ## Overview

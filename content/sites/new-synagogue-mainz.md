@@ -13,7 +13,7 @@ regions:
 latitude: 50.0087
 longitude: 8.25931
 images:
-  - "/images-sites/new-synagogue-mainz/01-43f108d0-800w.webp"
+  - "/images/new-synagogue-mainz/01-43f108d0-800w.webp"
 ---
 
 ## Overview

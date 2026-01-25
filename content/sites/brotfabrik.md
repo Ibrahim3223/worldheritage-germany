@@ -1,21 +1,49 @@
 ---
-title: "Brotfabrik"
+title: Brotfabrik
 date: 2026-01-23
 draft: false
-description: "arts and cultural center with cinema in Berlin-Weissensee"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: arts and cultural center with cinema in Berlin-Weissensee
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5527
 longitude: 13.4303
 images:
-  - "/images-sites/brotfabrik/01-ee2a72a2-800w.webp"
-  - "/images-sites/brotfabrik/02-1427e551-800w.webp"
-  - "/images-sites/brotfabrik/03-b06eb1b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeVaka@Brotfabrik_03.jpg/1200px-TeVaka@Brotfabrik_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TeVaka@Brotfabrik_22.jpg/1200px-TeVaka@Brotfabrik_22.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TeVaka@Brotfabrik_38.jpg/1200px-TeVaka@Brotfabrik_38.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/1200px-Brotfabrik_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/1200px-BROTFAB.jpg
+image_srcset:
+  TeVaka@Brotfabrik 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeVaka@Brotfabrik_03.jpg/400px-TeVaka@Brotfabrik_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeVaka@Brotfabrik_03.jpg/800px-TeVaka@Brotfabrik_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeVaka@Brotfabrik_03.jpg/1200px-TeVaka@Brotfabrik_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeVaka@Brotfabrik_03.jpg/1920px-TeVaka@Brotfabrik_03.jpg
+  TeVaka@Brotfabrik 22.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TeVaka@Brotfabrik_22.jpg/400px-TeVaka@Brotfabrik_22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TeVaka@Brotfabrik_22.jpg/800px-TeVaka@Brotfabrik_22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TeVaka@Brotfabrik_22.jpg/1200px-TeVaka@Brotfabrik_22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TeVaka@Brotfabrik_22.jpg/1920px-TeVaka@Brotfabrik_22.jpg
+  TeVaka@Brotfabrik 38.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TeVaka@Brotfabrik_38.jpg/400px-TeVaka@Brotfabrik_38.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TeVaka@Brotfabrik_38.jpg/800px-TeVaka@Brotfabrik_38.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TeVaka@Brotfabrik_38.jpg/1200px-TeVaka@Brotfabrik_38.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TeVaka@Brotfabrik_38.jpg/1920px-TeVaka@Brotfabrik_38.jpg
+  Brotfabrik aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/400px-Brotfabrik_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/800px-Brotfabrik_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/1200px-Brotfabrik_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brotfabrik_aussen.jpg/1920px-Brotfabrik_aussen.jpg
+  BROTFAB.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/400px-BROTFAB.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/800px-BROTFAB.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/1200px-BROTFAB.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/BROTFAB.jpg/1920px-BROTFAB.jpg
 ---
 
 ## Overview

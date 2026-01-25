@@ -1,27 +1,49 @@
 ---
-title: "Burg Schnellenberg"
+title: Burg Schnellenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.12375
 longitude: 7.925694444
-
-# Images
 images:
-  - "/images-sites/burg-schnellenberg/01-cb8e06c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg_Schnellenberg_FFSN-4512.jpg/1200px-Burg_Schnellenberg_FFSN-4512.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St_George's_Chapel_altar.jpg/1200px-St_George's_Chapel_altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Attendorn_3203.JPG/1200px-Attendorn_3203.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Attendorn_3205.JPG/1200px-Attendorn_3205.JPG
+image_srcset:
+  Burg Schnellenberg FFSN-4512.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg_Schnellenberg_FFSN-4512.jpg/400px-Burg_Schnellenberg_FFSN-4512.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg_Schnellenberg_FFSN-4512.jpg/800px-Burg_Schnellenberg_FFSN-4512.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg_Schnellenberg_FFSN-4512.jpg/1200px-Burg_Schnellenberg_FFSN-4512.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Burg_Schnellenberg_FFSN-4512.jpg/1920px-Burg_Schnellenberg_FFSN-4512.jpg
+  St George's Chapel altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St_George's_Chapel_altar.jpg/400px-St_George's_Chapel_altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St_George's_Chapel_altar.jpg/800px-St_George's_Chapel_altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St_George's_Chapel_altar.jpg/1200px-St_George's_Chapel_altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/St_George's_Chapel_altar.jpg/1920px-St_George's_Chapel_altar.jpg
+  Aerial image of Burg Schnellenberg (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg/400px-Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg/800px-Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Burg_Schnellenberg_(view_from_the_southeast).jpg
+  Attendorn 3203.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Attendorn_3203.JPG/400px-Attendorn_3203.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Attendorn_3203.JPG/800px-Attendorn_3203.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Attendorn_3203.JPG/1200px-Attendorn_3203.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Attendorn_3203.JPG/1920px-Attendorn_3203.JPG
+  Attendorn 3205.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Attendorn_3205.JPG/400px-Attendorn_3205.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Attendorn_3205.JPG/800px-Attendorn_3205.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Attendorn_3205.JPG/1200px-Attendorn_3205.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Attendorn_3205.JPG/1920px-Attendorn_3205.JPG
 ---
 
 ## Overview

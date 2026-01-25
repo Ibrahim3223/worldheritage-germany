@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1434955"
 description: "St. Peter, a striking church in Oldenburg, Germany, stands as a significant landmark of Gothic Revival architecture. This impressive structure invites v..."
 images:
-  - "/images-sites/st-peter/01-766427d3-1920w.webp"
-  - "/images-sites/st-peter/02-ae9aae9b-1920w.webp"
-  - "/images-sites/st-peter/03-c2496f51-1920w.webp"
+  - "/images/st-peter/01-766427d3-1920w.webp"
+  - "/images/st-peter/02-ae9aae9b-1920w.webp"
+  - "/images/st-peter/03-c2496f51-1920w.webp"
 ---
 
 ## Overview

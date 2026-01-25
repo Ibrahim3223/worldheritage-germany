@@ -1,27 +1,49 @@
 ---
-title: "Dresden City Art Gallery"
+title: Dresden City Art Gallery
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.05
 longitude: 13.74305556
-
-# Images
 images:
-  - "/images-sites/dresden-city-art-gallery/01-a46087df-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1200px-Landhausstr.5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Otto_Speckter_-_Der_gestiefelte_Kater.jpg/1200px-Otto_Speckter_-_Der_gestiefelte_Kater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2017-06_Dresden_(9).jpg/1200px-2017-06_Dresden_(9).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg/1200px-Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg/1200px-Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg
+image_srcset:
+  Landhausstr.5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/400px-Landhausstr.5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/800px-Landhausstr.5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1200px-Landhausstr.5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Landhausstr.5.jpg/1920px-Landhausstr.5.jpg
+  Otto Speckter - Der gestiefelte Kater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Otto_Speckter_-_Der_gestiefelte_Kater.jpg/400px-Otto_Speckter_-_Der_gestiefelte_Kater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Otto_Speckter_-_Der_gestiefelte_Kater.jpg/800px-Otto_Speckter_-_Der_gestiefelte_Kater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Otto_Speckter_-_Der_gestiefelte_Kater.jpg/1200px-Otto_Speckter_-_Der_gestiefelte_Kater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Otto_Speckter_-_Der_gestiefelte_Kater.jpg/1920px-Otto_Speckter_-_Der_gestiefelte_Kater.jpg
+  2017-06 Dresden (9).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2017-06_Dresden_(9).jpg/400px-2017-06_Dresden_(9).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2017-06_Dresden_(9).jpg/800px-2017-06_Dresden_(9).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2017-06_Dresden_(9).jpg/1200px-2017-06_Dresden_(9).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2017-06_Dresden_(9).jpg/1920px-2017-06_Dresden_(9).jpg
+  Hanns Hanner - Oberbürgermeister Dr. Blüher.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg/400px-Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg/800px-Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg/1200px-Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg/1920px-Hanns_Hanner_-_Oberbürgermeister_Dr._Blüher.jpg
+  Ferdinand Schimon Carl Maria von Weber.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg/400px-Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg/800px-Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg/1200px-Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg/1920px-Ferdinand_Schimon_Carl_Maria_von_Weber.tif.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Felix Nussbaum Haus"
+title: Felix Nussbaum Haus
 date: 2026-01-23
 draft: false
-description: "museum dedicated to Felix Nussbaum in Osnabrück, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum dedicated to Felix Nussbaum in Osnabrück, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.27522
 longitude: 8.03851
-
-# Images
 images:
-  - "/images-sites/felix-nussbaum-haus/02-b16ac489-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/1200px-Asymmetrische_Fenster.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osnabrück_-_Felix-Nussbaum-Haus_01.jpg/1200px-Osnabrück_-_Felix-Nussbaum-Haus_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museumsquartier_Osnabrück_Jan_24.jpg/1200px-Museumsquartier_Osnabrück_Jan_24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/1200px-OS-FelixNussbaumHaus-II-20071227.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1200px-FelixNussbaumHaus.jpg
+image_srcset:
+  Asymmetrische Fenster.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/400px-Asymmetrische_Fenster.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/800px-Asymmetrische_Fenster.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/1200px-Asymmetrische_Fenster.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/1920px-Asymmetrische_Fenster.JPG
+  Osnabrück - Felix-Nussbaum-Haus 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osnabrück_-_Felix-Nussbaum-Haus_01.jpg/400px-Osnabrück_-_Felix-Nussbaum-Haus_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osnabrück_-_Felix-Nussbaum-Haus_01.jpg/800px-Osnabrück_-_Felix-Nussbaum-Haus_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osnabrück_-_Felix-Nussbaum-Haus_01.jpg/1200px-Osnabrück_-_Felix-Nussbaum-Haus_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Osnabrück_-_Felix-Nussbaum-Haus_01.jpg/1920px-Osnabrück_-_Felix-Nussbaum-Haus_01.jpg
+  Museumsquartier Osnabrück Jan 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museumsquartier_Osnabrück_Jan_24.jpg/400px-Museumsquartier_Osnabrück_Jan_24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museumsquartier_Osnabrück_Jan_24.jpg/800px-Museumsquartier_Osnabrück_Jan_24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museumsquartier_Osnabrück_Jan_24.jpg/1200px-Museumsquartier_Osnabrück_Jan_24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Museumsquartier_Osnabrück_Jan_24.jpg/1920px-Museumsquartier_Osnabrück_Jan_24.jpg
+  OS-FelixNussbaumHaus-II-20071227.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/400px-OS-FelixNussbaumHaus-II-20071227.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/800px-OS-FelixNussbaumHaus-II-20071227.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/1200px-OS-FelixNussbaumHaus-II-20071227.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OS-FelixNussbaumHaus-II-20071227.jpg/1920px-OS-FelixNussbaumHaus-II-20071227.jpg
+  FelixNussbaumHaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/400px-FelixNussbaumHaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/800px-FelixNussbaumHaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1200px-FelixNussbaumHaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FelixNussbaumHaus.jpg/1920px-FelixNussbaumHaus.jpg
 ---
 
 ## Overview

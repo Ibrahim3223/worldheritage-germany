@@ -13,7 +13,7 @@ regions:
 latitude: 52.4992
 longitude: 13.3539
 images:
-  - "/images-sites/nollendorfplatz/01-70a72f6f-800w.webp"
+  - "/images/nollendorfplatz/01-70a72f6f-800w.webp"
 ---
 
 ## Overview

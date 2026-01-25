@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1986323"
 description: "Nestled in the picturesque town of Röbel, Germany, Nikolaikirche is a stunning example of Brick Gothic architecture that captivates both locals and visi..."
 images:
-  - "/images-sites/nikolaikirche/01-647fdfb5-1920w.webp"
-  - "/images-sites/nikolaikirche/02-52ce608e-1920w.webp"
-  - "/images-sites/nikolaikirche/03-67d8e8ae-1920w.webp"
+  - "/images/nikolaikirche/01-647fdfb5-1920w.webp"
+  - "/images/nikolaikirche/02-52ce608e-1920w.webp"
+  - "/images/nikolaikirche/03-67d8e8ae-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.649444444
 longitude: 11.940833333
 images:
-  - "/images-sites/kleinpritzer-see/01-4022dde9-800w.webp"
+  - "/images/kleinpritzer-see/01-4022dde9-800w.webp"
 ---
 
 ## Overview

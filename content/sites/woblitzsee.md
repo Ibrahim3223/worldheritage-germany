@@ -13,9 +13,9 @@ regions:
 latitude: 53.296944444
 longitude: 12.994166666
 images:
-  - "/images-sites/woblitzsee/01-94e771b0-800w.webp"
-  - "/images-sites/woblitzsee/02-2086d60c-800w.webp"
-  - "/images-sites/woblitzsee/03-3e755b2e-800w.webp"
+  - "/images/woblitzsee/01-94e771b0-800w.webp"
+  - "/images/woblitzsee/02-2086d60c-800w.webp"
+  - "/images/woblitzsee/03-3e755b2e-800w.webp"
 ---
 
 ## Overview

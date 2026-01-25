@@ -1,21 +1,43 @@
 ---
-title: "Ellerbruch"
+title: Ellerbruch
 date: 2026-01-23
 draft: false
-description: "cemetery in Wingst, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Wingst, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.711894444
 longitude: 9.056444444
 images:
-  - "/images-sites/ellerbruch/01-dc89a732-800w.webp"
-  - "/images-sites/ellerbruch/02-3f4c41df-800w.webp"
-  - "/images-sites/ellerbruch/03-ea98cd8a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg/1200px-2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg/1200px-Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg/1200px-Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg/1200px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg
+image_srcset:
+  2012-02-22-Fotoflugkurs Cuxhaven-Bin im Garten 0151.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg/400px-2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg/800px-2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg/1200px-2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg/1920px-2012-02-22-Fotoflugkurs_Cuxhaven-Bin_im_Garten_0151.jpg
+  Ehrenhain in Ellerbrook in de Wingst 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg/400px-Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg/800px-Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg/1200px-Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg/1920px-Ehrenhain_in_Ellerbrook_in_de_Wingst_12.jpg
+  Wingst 2020 -Ehrenhain Ellerbruch- by-RaBoe 005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg/400px-Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg/800px-Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg/1200px-Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg/1920px-Wingst_2020_-Ehrenhain_Ellerbruch-_by-RaBoe_005.jpg
+  Wingst 2007 -Ehrenhain Ellerbruch- by RaBoe 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg/400px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg/800px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg/1200px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg/1920px-Wingst_2007_-Ehrenhain_Ellerbruch-_by_RaBoe_04.jpg
 ---
 
 ## Overview

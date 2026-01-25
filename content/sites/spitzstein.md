@@ -13,7 +13,7 @@ regions:
 latitude: 47.710833333
 longitude: 12.246666666
 images:
-  - "/images-sites/spitzstein/01-df5ee861-800w.webp"
+  - "/images/spitzstein/01-df5ee861-800w.webp"
 ---
 
 ## Overview

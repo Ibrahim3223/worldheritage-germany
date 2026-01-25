@@ -13,7 +13,7 @@ regions:
 latitude: 53.0311
 longitude: 13.3103
 images:
-  - "/images-sites/mildenberg-brick-work-park/01-c57cba31-800w.webp"
+  - "/images/mildenberg-brick-work-park/01-c57cba31-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.2972
 longitude: 8.89222
 images:
-  - "/images-sites/kampa-halle/01-10a4cbbc-800w.webp"
+  - "/images/kampa-halle/01-10a4cbbc-800w.webp"
 ---
 
 ## Overview

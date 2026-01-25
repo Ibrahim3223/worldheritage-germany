@@ -1,19 +1,49 @@
 ---
-title: "Bürgle"
+title: Bürgle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.68244
 longitude: 7.81567
 images:
-  - "/images-sites/buergle/01-7ac3449e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Killertal-2.jpg/1200px-Killertal-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Naturschutzgebiet_Bürgle_Jungingen_02.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naturschutzgebiet_Bürgle_Jungingen_04.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Naturschutzgebiet_Bürgle_Jungingen_13.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen_13.JPG
+image_srcset:
+  Killertal-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Killertal-2.jpg/400px-Killertal-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Killertal-2.jpg/800px-Killertal-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Killertal-2.jpg/1200px-Killertal-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Killertal-2.jpg/1920px-Killertal-2.jpg
+  Naturschutzgebiet Bürgle Jungingen, Ansicht Killer.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG/400px-Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG/800px-Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG/1920px-Naturschutzgebiet_Bürgle_Jungingen,_Ansicht_Killer.JPG
+  Naturschutzgebiet Bürgle Jungingen 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Naturschutzgebiet_Bürgle_Jungingen_02.JPG/400px-Naturschutzgebiet_Bürgle_Jungingen_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Naturschutzgebiet_Bürgle_Jungingen_02.JPG/800px-Naturschutzgebiet_Bürgle_Jungingen_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Naturschutzgebiet_Bürgle_Jungingen_02.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Naturschutzgebiet_Bürgle_Jungingen_02.JPG/1920px-Naturschutzgebiet_Bürgle_Jungingen_02.JPG
+  Naturschutzgebiet Bürgle Jungingen 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naturschutzgebiet_Bürgle_Jungingen_04.JPG/400px-Naturschutzgebiet_Bürgle_Jungingen_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naturschutzgebiet_Bürgle_Jungingen_04.JPG/800px-Naturschutzgebiet_Bürgle_Jungingen_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naturschutzgebiet_Bürgle_Jungingen_04.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Naturschutzgebiet_Bürgle_Jungingen_04.JPG/1920px-Naturschutzgebiet_Bürgle_Jungingen_04.JPG
+  Naturschutzgebiet Bürgle Jungingen 13.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Naturschutzgebiet_Bürgle_Jungingen_13.JPG/400px-Naturschutzgebiet_Bürgle_Jungingen_13.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Naturschutzgebiet_Bürgle_Jungingen_13.JPG/800px-Naturschutzgebiet_Bürgle_Jungingen_13.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Naturschutzgebiet_Bürgle_Jungingen_13.JPG/1200px-Naturschutzgebiet_Bürgle_Jungingen_13.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Naturschutzgebiet_Bürgle_Jungingen_13.JPG/1920px-Naturschutzgebiet_Bürgle_Jungingen_13.JPG
 ---
 
 ## Overview

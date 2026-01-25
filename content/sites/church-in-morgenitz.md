@@ -1,19 +1,44 @@
 ---
-title: "Church in Morgenitz"
-site_name: "Church in Morgenitz"
-slug: "church-in-morgenitz"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Morgenitz
+site_name: Church in Morgenitz
+slug: church-in-morgenitz
+region: Mecklenburg-Vorpommern
 latitude: 53.9261
 longitude: 13.9645
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1390091"
-description: "The Church in Morgenitz stands as a striking example of Brick Gothic architecture, located in the serene region of Mellenthin, Germany. This church serv..."
+- cultural site
+wikidata_id: Q1390091
+description: The Church in Morgenitz stands as a striking example of Brick Gothic
+  architecture, located in the serene region of Mellenthin, Germany. This church serv...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/1200px-Kirche-morgenitz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg/1200px-20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg/1200px-20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg/1200px-20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg
+image_srcset:
+  Kirche-morgenitz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/400px-Kirche-morgenitz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/800px-Kirche-morgenitz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/1200px-Kirche-morgenitz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kirche-morgenitz.JPG/1920px-Kirche-morgenitz.JPG
+  20040702170DR Morgenitz (Mellenthin) Kirche zur Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg/400px-20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg/800px-20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg/1200px-20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg/1920px-20040702170DR_Morgenitz_(Mellenthin)_Kirche_zur_Orgel.jpg
+  20040702110DR Morgenitz (Mellenthin) Kirche zum Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg/400px-20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg/800px-20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg/1200px-20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg/1920px-20040702110DR_Morgenitz_(Mellenthin)_Kirche_zum_Altar.jpg
+  20040702140DR Morgenitz (Mellenthin) Kirche Epitaph.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg/400px-20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg/800px-20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg/1200px-20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg/1920px-20040702140DR_Morgenitz_(Mellenthin)_Kirche_Epitaph.jpg
 ---
 
 ## Overview

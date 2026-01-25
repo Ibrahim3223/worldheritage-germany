@@ -13,7 +13,7 @@ regions:
 latitude: 53.58483333
 longitude: 10.04433333
 images:
-  - "/images-sites/trude/01-73b3299c-800w.webp"
+  - "/images/trude/01-73b3299c-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.7559
 longitude: 10.3437
 images:
-  - "/images-sites/neresheim-abbey/01-67d3a0fa-800w.webp"
+  - "/images/neresheim-abbey/01-67d3a0fa-800w.webp"
 ---
 
 ## Overview

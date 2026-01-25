@@ -1,19 +1,50 @@
 ---
-title: "Bockkarkopf"
+title: Bockkarkopf
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps at the border Tyrol, Austria, and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps at the border Tyrol, Austria, and Bavaria,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.29216
 longitude: 10.28765
 images:
-  - "/images-sites/bockkarkopf/01-41af1597-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Frühnebel_im_Stillachtal_bei_Faistenoy.jpg/1200px-Frühnebel_im_Stillachtal_bei_Faistenoy.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bockkarkopf_Hochfrottspitze.JPG/1200px-Bockkarkopf_Hochfrottspitze.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/1200px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG/1200px-Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Maedelegabelgruppe_von_Nordwesten.jpg/1200px-Maedelegabelgruppe_von_Nordwesten.jpg
+image_srcset:
+  Frühnebel im Stillachtal bei Faistenoy.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Frühnebel_im_Stillachtal_bei_Faistenoy.jpg/400px-Frühnebel_im_Stillachtal_bei_Faistenoy.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Frühnebel_im_Stillachtal_bei_Faistenoy.jpg/800px-Frühnebel_im_Stillachtal_bei_Faistenoy.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Frühnebel_im_Stillachtal_bei_Faistenoy.jpg/1200px-Frühnebel_im_Stillachtal_bei_Faistenoy.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Frühnebel_im_Stillachtal_bei_Faistenoy.jpg/1920px-Frühnebel_im_Stillachtal_bei_Faistenoy.jpg
+  Bockkarkopf Hochfrottspitze.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bockkarkopf_Hochfrottspitze.JPG/400px-Bockkarkopf_Hochfrottspitze.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bockkarkopf_Hochfrottspitze.JPG/800px-Bockkarkopf_Hochfrottspitze.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bockkarkopf_Hochfrottspitze.JPG/1200px-Bockkarkopf_Hochfrottspitze.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bockkarkopf_Hochfrottspitze.JPG/1920px-Bockkarkopf_Hochfrottspitze.JPG
+  Guggersee Trettachspitze Maedelegabel Hochfrottspitze.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/400px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/800px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/1200px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/1920px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+  Heilbronner Weg Steinschartenkopf Ladder-bridge.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG/400px-Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG/800px-Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG/1200px-Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG/1920px-Heilbronner_Weg_Steinschartenkopf_Ladder-bridge.JPG
+  Maedelegabelgruppe von Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Maedelegabelgruppe_von_Nordwesten.jpg/400px-Maedelegabelgruppe_von_Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Maedelegabelgruppe_von_Nordwesten.jpg/800px-Maedelegabelgruppe_von_Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Maedelegabelgruppe_von_Nordwesten.jpg/1200px-Maedelegabelgruppe_von_Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Maedelegabelgruppe_von_Nordwesten.jpg/1920px-Maedelegabelgruppe_von_Nordwesten.jpg
 ---
 
 ## Overview

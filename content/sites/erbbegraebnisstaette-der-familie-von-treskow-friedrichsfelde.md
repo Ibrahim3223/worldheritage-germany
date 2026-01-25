@@ -1,19 +1,49 @@
 ---
-title: "Erbbegräbnisstätte der Familie von Treskow-Friedrichsfelde"
+title: Erbbegräbnisstätte der Familie von Treskow-Friedrichsfelde
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.49745
 longitude: 13.52676
 images:
-  - "/images-sites/erbbegraebnisstaette-der-familie-von-treskow-friedrichsfelde/01-b459fe15-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin_Tierpark_18.jpg/1200px-Berlin_Tierpark_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Am_Tierpark,_Erbbegräbnis.jpg/1200px-Am_Tierpark,_Erbbegräbnis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG/1200px-Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erbbegreabnis_Treskow_2.JPG/1200px-Erbbegreabnis_Treskow_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erbbegreabnis_Treskow_4.JPG/1200px-Erbbegreabnis_Treskow_4.JPG
+image_srcset:
+  Berlin Tierpark 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin_Tierpark_18.jpg/400px-Berlin_Tierpark_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin_Tierpark_18.jpg/800px-Berlin_Tierpark_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin_Tierpark_18.jpg/1200px-Berlin_Tierpark_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin_Tierpark_18.jpg/1920px-Berlin_Tierpark_18.jpg
+  Am Tierpark, Erbbegräbnis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Am_Tierpark,_Erbbegräbnis.jpg/400px-Am_Tierpark,_Erbbegräbnis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Am_Tierpark,_Erbbegräbnis.jpg/800px-Am_Tierpark,_Erbbegräbnis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Am_Tierpark,_Erbbegräbnis.jpg/1200px-Am_Tierpark,_Erbbegräbnis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Am_Tierpark,_Erbbegräbnis.jpg/1920px-Am_Tierpark,_Erbbegräbnis.jpg
+  Family grave of family von Treskow-Friedrichsfelde (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG/400px-Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG/800px-Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG/1200px-Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG/1920px-Family_grave_of_family_von_Treskow-Friedrichsfelde_(1).JPG
+  Erbbegreabnis Treskow 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erbbegreabnis_Treskow_2.JPG/400px-Erbbegreabnis_Treskow_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erbbegreabnis_Treskow_2.JPG/800px-Erbbegreabnis_Treskow_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erbbegreabnis_Treskow_2.JPG/1200px-Erbbegreabnis_Treskow_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erbbegreabnis_Treskow_2.JPG/1920px-Erbbegreabnis_Treskow_2.JPG
+  Erbbegreabnis Treskow 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erbbegreabnis_Treskow_4.JPG/400px-Erbbegreabnis_Treskow_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erbbegreabnis_Treskow_4.JPG/800px-Erbbegreabnis_Treskow_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erbbegreabnis_Treskow_4.JPG/1200px-Erbbegreabnis_Treskow_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erbbegreabnis_Treskow_4.JPG/1920px-Erbbegreabnis_Treskow_4.JPG
 ---
 
 ## Overview

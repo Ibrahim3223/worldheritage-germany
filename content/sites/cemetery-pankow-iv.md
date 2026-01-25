@@ -1,19 +1,49 @@
 ---
-title: "Cemetery Pankow IV"
+title: Cemetery Pankow IV
 date: 2026-01-23
 draft: false
-description: "graveyard in the Niederschönhausen quarter of Berlin-Pankow"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: graveyard in the Niederschönhausen quarter of Berlin-Pankow
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.583511111
 longitude: 13.408930555
 images:
-  - "/images-sites/cemetery-pankow-iv/01-d728dc32-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg/1200px-GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg/1200px-GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/08-01-08_Pankow_IV_Familiengrab2.jpg/1200px-08-01-08_Pankow_IV_Familiengrab2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/08-01-08_Pankow-IV-Feierhal.jpg/1200px-08-01-08_Pankow-IV-Feierhal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/08-01-08_PankowIV_Erbbegräbnisse2.jpg/1200px-08-01-08_PankowIV_Erbbegräbnisse2.jpg
+image_srcset:
+  GraveSteffenWenig-BuchholzerStrasse RomanDeckert31012023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg/400px-GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg/800px-GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg/1200px-GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg/1920px-GraveSteffenWenig-BuchholzerStrasse_RomanDeckert31012023.jpg
+  GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow RomanDeckert08042023-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg/400px-GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg/800px-GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg/1200px-GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg/1920px-GraveMaxSkladanowsky-CemeteryBuchholzerStrasseBerlinPankow_RomanDeckert08042023-01.jpg
+  08-01-08 Pankow IV Familiengrab2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/08-01-08_Pankow_IV_Familiengrab2.jpg/400px-08-01-08_Pankow_IV_Familiengrab2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/08-01-08_Pankow_IV_Familiengrab2.jpg/800px-08-01-08_Pankow_IV_Familiengrab2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/08-01-08_Pankow_IV_Familiengrab2.jpg/1200px-08-01-08_Pankow_IV_Familiengrab2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/08-01-08_Pankow_IV_Familiengrab2.jpg/1920px-08-01-08_Pankow_IV_Familiengrab2.jpg
+  08-01-08 Pankow-IV-Feierhal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/08-01-08_Pankow-IV-Feierhal.jpg/400px-08-01-08_Pankow-IV-Feierhal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/08-01-08_Pankow-IV-Feierhal.jpg/800px-08-01-08_Pankow-IV-Feierhal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/08-01-08_Pankow-IV-Feierhal.jpg/1200px-08-01-08_Pankow-IV-Feierhal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/08-01-08_Pankow-IV-Feierhal.jpg/1920px-08-01-08_Pankow-IV-Feierhal.jpg
+  08-01-08 PankowIV Erbbegräbnisse2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/08-01-08_PankowIV_Erbbegräbnisse2.jpg/400px-08-01-08_PankowIV_Erbbegräbnisse2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/08-01-08_PankowIV_Erbbegräbnisse2.jpg/800px-08-01-08_PankowIV_Erbbegräbnisse2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/08-01-08_PankowIV_Erbbegräbnisse2.jpg/1200px-08-01-08_PankowIV_Erbbegräbnisse2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/08-01-08_PankowIV_Erbbegräbnisse2.jpg/1920px-08-01-08_PankowIV_Erbbegräbnisse2.jpg
 ---
 
 ## Overview

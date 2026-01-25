@@ -13,7 +13,7 @@ regions:
 latitude: 54.593115
 longitude: 9.802486944
 images:
-  - "/images-sites/lindauhof/01-273d0449-800w.webp"
+  - "/images/lindauhof/01-273d0449-800w.webp"
 ---
 
 ## Overview

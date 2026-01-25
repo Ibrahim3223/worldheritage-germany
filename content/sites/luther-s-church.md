@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1669890"
 description: "In the heart of Görlitz, Germany, Luthers Church stands as an impressive example of Romanesque Revival architecture, a style that evokes the grandeur of..."
 images:
-  - "/images-sites/luther-s-church/01-1094563b-1920w.webp"
-  - "/images-sites/luther-s-church/02-3ea9be3f-1920w.webp"
-  - "/images-sites/luther-s-church/03-973e818a-1920w.webp"
+  - "/images/luther-s-church/01-1094563b-1920w.webp"
+  - "/images/luther-s-church/02-3ea9be3f-1920w.webp"
+  - "/images/luther-s-church/03-973e818a-1920w.webp"
 ---
 
 ## Overview

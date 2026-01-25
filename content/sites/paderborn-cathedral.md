@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q383958"
 description: "Paderborn Cathedral, an architectural gem of Romanesque style, stands proudly in the heart of Paderborn, Germany. Founded in 1270, this magnificent stru..."
 images:
-  - "/images-sites/paderborn-cathedral/01-cc6840ff-1920w.webp"
-  - "/images-sites/paderborn-cathedral/02-cd88acf0-1920w.webp"
-  - "/images-sites/paderborn-cathedral/03-1fef13ac-1920w.webp"
+  - "/images/paderborn-cathedral/01-cc6840ff-1920w.webp"
+  - "/images/paderborn-cathedral/02-cd88acf0-1920w.webp"
+  - "/images/paderborn-cathedral/03-1fef13ac-1920w.webp"
 ---
 
 ## Overview

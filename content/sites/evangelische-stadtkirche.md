@@ -1,20 +1,51 @@
 ---
-title: "Evangelische Stadtkirche"
-site_name: "Evangelische Stadtkirche"
-slug: "evangelische-stadtkirche"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische Stadtkirche
+site_name: Evangelische Stadtkirche
+slug: evangelische-stadtkirche
+region: Baden-Württemberg
 latitude: 48.8594
 longitude: 8.20306
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381139"
-description: "In the heart of Rastatt, Germany, the Evangelische Stadtkirche stands as a remarkable example of Baroque architecture. This church building invites visi..."
+- church building
+- religious site
+wikidata_id: Q1381139
+description: In the heart of Rastatt, Germany, the Evangelische Stadtkirche stands
+  as a remarkable example of Baroque architecture. This church building invites visi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Evangelische%20Stadtkirche%20Rastatt.JPG/1200px-Evangelische%20Stadtkirche%20Rastatt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ravensburg,_Stadtkirche_(13).jpg/1200px-Ravensburg,_Stadtkirche_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg,_Stadtkirche_(04).jpg/1200px-Ravensburg,_Stadtkirche_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravensburg,_Stadtkirche_(06).jpg/1200px-Ravensburg,_Stadtkirche_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg/1200px-Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg
+image_srcset:
+  Evangelische%20Stadtkirche%20Rastatt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Evangelische%20Stadtkirche%20Rastatt.JPG/400px-Evangelische%20Stadtkirche%20Rastatt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Evangelische%20Stadtkirche%20Rastatt.JPG/800px-Evangelische%20Stadtkirche%20Rastatt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Evangelische%20Stadtkirche%20Rastatt.JPG/1200px-Evangelische%20Stadtkirche%20Rastatt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Evangelische%20Stadtkirche%20Rastatt.JPG/1920px-Evangelische%20Stadtkirche%20Rastatt.JPG
+  Ravensburg, Stadtkirche (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ravensburg,_Stadtkirche_(13).jpg/400px-Ravensburg,_Stadtkirche_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ravensburg,_Stadtkirche_(13).jpg/800px-Ravensburg,_Stadtkirche_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ravensburg,_Stadtkirche_(13).jpg/1200px-Ravensburg,_Stadtkirche_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ravensburg,_Stadtkirche_(13).jpg/1920px-Ravensburg,_Stadtkirche_(13).jpg
+  Ravensburg, Stadtkirche (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg,_Stadtkirche_(04).jpg/400px-Ravensburg,_Stadtkirche_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg,_Stadtkirche_(04).jpg/800px-Ravensburg,_Stadtkirche_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg,_Stadtkirche_(04).jpg/1200px-Ravensburg,_Stadtkirche_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ravensburg,_Stadtkirche_(04).jpg/1920px-Ravensburg,_Stadtkirche_(04).jpg
+  Ravensburg, Stadtkirche (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravensburg,_Stadtkirche_(06).jpg/400px-Ravensburg,_Stadtkirche_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravensburg,_Stadtkirche_(06).jpg/800px-Ravensburg,_Stadtkirche_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravensburg,_Stadtkirche_(06).jpg/1200px-Ravensburg,_Stadtkirche_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravensburg,_Stadtkirche_(06).jpg/1920px-Ravensburg,_Stadtkirche_(06).jpg
+  Dillenburg - Evangelische Pfarrkirche Kirchberg 18 (KD.HE 132582 3 08.2015).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg/400px-Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg/800px-Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg/1200px-Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg/1920px-Dillenburg_-_Evangelische_Pfarrkirche_Kirchberg_18_(KD.HE_132582_3_08.2015).jpg
 ---
 
 ## Overview

@@ -1,20 +1,43 @@
 ---
-title: "Burg Bucherbach"
+title: Burg Bucherbach
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3002
 longitude: 6.89712
 images:
-  - "/images-sites/burg-bucherbach/02-ee86db24-800w.webp"
-  - "/images-sites/burg-bucherbach/03-5512cb25-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20201031_Burg_Bucherbach_01.jpg/1200px-20201031_Burg_Bucherbach_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20201031_Burg_Bucherbach_04.jpg/1200px-20201031_Burg_Bucherbach_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20201031_Burg_Bucherbach_15.jpg/1200px-20201031_Burg_Bucherbach_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Köllerbach_Burg_Bucherbach_02.JPG/1200px-Köllerbach_Burg_Bucherbach_02.JPG
+image_srcset:
+  20201031 Burg Bucherbach 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20201031_Burg_Bucherbach_01.jpg/400px-20201031_Burg_Bucherbach_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20201031_Burg_Bucherbach_01.jpg/800px-20201031_Burg_Bucherbach_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20201031_Burg_Bucherbach_01.jpg/1200px-20201031_Burg_Bucherbach_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20201031_Burg_Bucherbach_01.jpg/1920px-20201031_Burg_Bucherbach_01.jpg
+  20201031 Burg Bucherbach 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20201031_Burg_Bucherbach_04.jpg/400px-20201031_Burg_Bucherbach_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20201031_Burg_Bucherbach_04.jpg/800px-20201031_Burg_Bucherbach_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20201031_Burg_Bucherbach_04.jpg/1200px-20201031_Burg_Bucherbach_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20201031_Burg_Bucherbach_04.jpg/1920px-20201031_Burg_Bucherbach_04.jpg
+  20201031 Burg Bucherbach 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20201031_Burg_Bucherbach_15.jpg/400px-20201031_Burg_Bucherbach_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20201031_Burg_Bucherbach_15.jpg/800px-20201031_Burg_Bucherbach_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20201031_Burg_Bucherbach_15.jpg/1200px-20201031_Burg_Bucherbach_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20201031_Burg_Bucherbach_15.jpg/1920px-20201031_Burg_Bucherbach_15.jpg
+  Köllerbach Burg Bucherbach 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Köllerbach_Burg_Bucherbach_02.JPG/400px-Köllerbach_Burg_Bucherbach_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Köllerbach_Burg_Bucherbach_02.JPG/800px-Köllerbach_Burg_Bucherbach_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Köllerbach_Burg_Bucherbach_02.JPG/1200px-Köllerbach_Burg_Bucherbach_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Köllerbach_Burg_Bucherbach_02.JPG/1920px-Köllerbach_Burg_Bucherbach_02.JPG
 ---
 
 ## Overview

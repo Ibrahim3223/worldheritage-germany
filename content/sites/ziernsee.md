@@ -13,7 +13,7 @@ regions:
 latitude: 53.208192
 longitude: 13.076992
 images:
-  - "/images-sites/ziernsee/01-863588dd-800w.webp"
+  - "/images/ziernsee/01-863588dd-800w.webp"
 ---
 
 ## Overview 

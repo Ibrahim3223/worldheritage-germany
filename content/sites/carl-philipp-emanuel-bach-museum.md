@@ -1,19 +1,49 @@
 ---
-title: "Carl Philipp Emanuel Bach Museum"
+title: Carl Philipp Emanuel Bach Museum
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.551476
 longitude: 9.977276
 images:
-  - "/images-sites/carl-philipp-emanuel-bach-museum/01-6e4c9af4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/1200px-Peterstraße_29_Hamburg_3.JPG
+image_srcset:
+  Carl Philipp Emanuel Bach Museum - 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG/400px-Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG/800px-Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG/1920px-Carl_Philipp_Emanuel_Bach_Museum_-_1.JPG
+  Carl Philipp Emanuel Bach Museum - 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG/400px-Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG/800px-Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG/1920px-Carl_Philipp_Emanuel_Bach_Museum_-_2.JPG
+  Carl Philipp Emanuel Bach Museum - 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG/400px-Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG/800px-Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG/1920px-Carl_Philipp_Emanuel_Bach_Museum_-_3.JPG
+  Carl Philipp Emanuel Bach Museum - 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG/400px-Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG/800px-Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG/1200px-Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG/1920px-Carl_Philipp_Emanuel_Bach_Museum_-_4.JPG
+  Peterstraße 29 Hamburg 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/400px-Peterstraße_29_Hamburg_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/800px-Peterstraße_29_Hamburg_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/1200px-Peterstraße_29_Hamburg_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/1920px-Peterstraße_29_Hamburg_3.JPG
 ---
 
 ## Overview

@@ -1,22 +1,50 @@
 ---
-title: "Electoral Palace Koblenz"
-site_name: "Electoral Palace Koblenz"
-slug: "electoral-palace-koblenz"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Electoral Palace Koblenz
+site_name: Electoral Palace Koblenz
+slug: electoral-palace-koblenz
+region: North Rhine-Westphalia
 latitude: 50.3556
 longitude: 7.60222
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q461127"
-description: "In the heart of Koblenz, Germany, the Electoral Palace stands as a striking example of Neoclassical architecture. This palace, designed by the renowned ..."
+- cultural site
+wikidata_id: Q461127
+description: In the heart of Koblenz, Germany, the Electoral Palace stands as a striking
+  example of Neoclassical architecture. This palace, designed by the renowned ...
 images:
-  - "/images-sites/electoral-palace-koblenz/01-a6475485-1920w.webp"
-  - "/images-sites/electoral-palace-koblenz/02-17371ca4-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg/1200px-00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg/1200px-Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Koblenz_vom_rechten_Rheinufer.jpg/1200px-Koblenz_vom_rechten_Rheinufer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/1200px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1200px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
+image_srcset:
+  00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg/400px-00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg/800px-00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg/1200px-00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg/1920px-00%206084.%20Koblenz%20-%20Kurf%C3%BCrstliches%20Schloss.jpg
+  Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg/400px-Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg/800px-Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg/1200px-Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg/1920px-Koblenz%20im%20Buga-Jahr%202011%20-%20Luftbilder%2001.jpg
+  Koblenz vom rechten Rheinufer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Koblenz_vom_rechten_Rheinufer.jpg/400px-Koblenz_vom_rechten_Rheinufer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Koblenz_vom_rechten_Rheinufer.jpg/800px-Koblenz_vom_rechten_Rheinufer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Koblenz_vom_rechten_Rheinufer.jpg/1200px-Koblenz_vom_rechten_Rheinufer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Koblenz_vom_rechten_Rheinufer.jpg/1920px-Koblenz_vom_rechten_Rheinufer.jpg
+  Koblenz, Kurfürstliches Schloss, vor 1903.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/400px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/800px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/1200px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/1920px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+  00 6084. Koblenz - Kurfürstliches Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/400px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/800px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1200px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg/1920px-00_6084._Koblenz_-_Kurfürstliches_Schloss.jpg
 ---
 
 ## Overview

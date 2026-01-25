@@ -1,20 +1,49 @@
 ---
-title: "Brose Arena"
+title: Brose Arena
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 49.879167
 longitude: 10.920556
 images:
-  - "/images-sites/brose-arena/02-9b20ccc0-800w.webp"
-  - "/images-sites/brose-arena/03-84a256d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brose-Arena-5194279.jpg/1200px-Brose-Arena-5194279.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brose_arena_bamberg.jpg/1200px-Brose_arena_bamberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Brose-Arena-5194283-PS.jpg/1200px-Brose-Arena-5194283-PS.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg/1200px-Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/1200px-Brose-Arena-Bamerg.jpg
+image_srcset:
+  Brose-Arena-5194279.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brose-Arena-5194279.jpg/400px-Brose-Arena-5194279.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brose-Arena-5194279.jpg/800px-Brose-Arena-5194279.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brose-Arena-5194279.jpg/1200px-Brose-Arena-5194279.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Brose-Arena-5194279.jpg/1920px-Brose-Arena-5194279.jpg
+  Brose arena bamberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brose_arena_bamberg.jpg/400px-Brose_arena_bamberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brose_arena_bamberg.jpg/800px-Brose_arena_bamberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brose_arena_bamberg.jpg/1200px-Brose_arena_bamberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brose_arena_bamberg.jpg/1920px-Brose_arena_bamberg.jpg
+  Brose-Arena-5194283-PS.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Brose-Arena-5194283-PS.jpg/400px-Brose-Arena-5194283-PS.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Brose-Arena-5194283-PS.jpg/800px-Brose-Arena-5194283-PS.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Brose-Arena-5194283-PS.jpg/1200px-Brose-Arena-5194283-PS.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Brose-Arena-5194283-PS.jpg/1920px-Brose-Arena-5194283-PS.jpg
+  Brose-Arena-Basketball-Innenaufnahme-Suedtribuene 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg/400px-Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg/800px-Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg/1200px-Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg/1920px-Brose-Arena-Basketball-Innenaufnahme-Suedtribuene_03.jpg
+  Brose-Arena-Bamerg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/400px-Brose-Arena-Bamerg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/800px-Brose-Arena-Bamerg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/1200px-Brose-Arena-Bamerg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Brose-Arena-Bamerg.jpg/1920px-Brose-Arena-Bamerg.jpg
 ---
 
 ## Overview

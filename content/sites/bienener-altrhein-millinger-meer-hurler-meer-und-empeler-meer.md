@@ -1,19 +1,49 @@
 ---
-title: "Bienener Altrhein, Millinger Meer, Hurler Meer und Empeler Meer"
+title: Bienener Altrhein, Millinger Meer, Hurler Meer und Empeler Meer
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8036594
 longitude: 6.3595969
 images:
-  - "/images-sites/bienener-altrhein-millinger-meer-hurler-meer-und-empeler-meer/01-29cc15da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg/1200px-Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Millinger_Meer_Rees_Androp_PM210104_02.jpg/1200px-Millinger_Meer_Rees_Androp_PM210104_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rees-Empel_Empeler_Meer_PM200123.jpg/1200px-Rees-Empel_Empeler_Meer_PM200123.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rees-Millingen_Millinger_Landwehr_PM200123.jpg/1200px-Rees-Millingen_Millinger_Landwehr_PM200123.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rees-Bienen_06.jpg/1200px-Rees-Bienen_06.jpg
+image_srcset:
+  Emmerich-Praest Bienener Altrhein PM18-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg/400px-Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg/800px-Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg/1200px-Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg/1920px-Emmerich-Praest_Bienener_Altrhein_PM18-02.jpg
+  Millinger Meer Rees Androp PM210104 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Millinger_Meer_Rees_Androp_PM210104_02.jpg/400px-Millinger_Meer_Rees_Androp_PM210104_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Millinger_Meer_Rees_Androp_PM210104_02.jpg/800px-Millinger_Meer_Rees_Androp_PM210104_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Millinger_Meer_Rees_Androp_PM210104_02.jpg/1200px-Millinger_Meer_Rees_Androp_PM210104_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Millinger_Meer_Rees_Androp_PM210104_02.jpg/1920px-Millinger_Meer_Rees_Androp_PM210104_02.jpg
+  Rees-Empel Empeler Meer PM200123.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rees-Empel_Empeler_Meer_PM200123.jpg/400px-Rees-Empel_Empeler_Meer_PM200123.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rees-Empel_Empeler_Meer_PM200123.jpg/800px-Rees-Empel_Empeler_Meer_PM200123.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rees-Empel_Empeler_Meer_PM200123.jpg/1200px-Rees-Empel_Empeler_Meer_PM200123.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rees-Empel_Empeler_Meer_PM200123.jpg/1920px-Rees-Empel_Empeler_Meer_PM200123.jpg
+  Rees-Millingen Millinger Landwehr PM200123.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rees-Millingen_Millinger_Landwehr_PM200123.jpg/400px-Rees-Millingen_Millinger_Landwehr_PM200123.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rees-Millingen_Millinger_Landwehr_PM200123.jpg/800px-Rees-Millingen_Millinger_Landwehr_PM200123.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rees-Millingen_Millinger_Landwehr_PM200123.jpg/1200px-Rees-Millingen_Millinger_Landwehr_PM200123.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rees-Millingen_Millinger_Landwehr_PM200123.jpg/1920px-Rees-Millingen_Millinger_Landwehr_PM200123.jpg
+  Rees-Bienen 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rees-Bienen_06.jpg/400px-Rees-Bienen_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rees-Bienen_06.jpg/800px-Rees-Bienen_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rees-Bienen_06.jpg/1200px-Rees-Bienen_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rees-Bienen_06.jpg/1920px-Rees-Bienen_06.jpg
 ---
 
 ## Overview

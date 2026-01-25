@@ -21,7 +21,7 @@ longitude: 7.61246
 
 # Images
 images:
-  - "/images-sites/lahneck-castle/01-368a6e19-800w.webp"
+  - "/images/lahneck-castle/01-368a6e19-800w.webp"
 ---
 
 ## Overview

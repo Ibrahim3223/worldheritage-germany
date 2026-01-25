@@ -1,19 +1,49 @@
 ---
-title: "Arena Leipzig"
+title: Arena Leipzig
 date: 2026-01-23
 draft: false
-description: "building in Leipzig, Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: building in Leipzig, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 51.342778
 longitude: 12.355278
 images:
-  - "/images-sites/arena-leipzig/01-5700bc8a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Bull_Arena_Panorama_cropped.jpg/1200px-Red_Bull_Arena_Panorama_cropped.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg/1200px-Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_stadium.jpg/1200px-Leipzig_stadium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Beyond_the_Black_Arena_Leipzig_2023_54.jpg/1200px-Beyond_the_Black_Arena_Leipzig_2023_54.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/1200px-Arena_leipzig_2.jpg
+image_srcset:
+  Red Bull Arena Panorama cropped.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Bull_Arena_Panorama_cropped.jpg/400px-Red_Bull_Arena_Panorama_cropped.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Bull_Arena_Panorama_cropped.jpg/800px-Red_Bull_Arena_Panorama_cropped.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Bull_Arena_Panorama_cropped.jpg/1200px-Red_Bull_Arena_Panorama_cropped.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Red_Bull_Arena_Panorama_cropped.jpg/1920px-Red_Bull_Arena_Panorama_cropped.jpg
+  Panorama Leipzig Richtung Westen von Tower 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg/400px-Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg/800px-Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg/1200px-Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg/1920px-Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg
+  Leipzig stadium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_stadium.jpg/400px-Leipzig_stadium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_stadium.jpg/800px-Leipzig_stadium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_stadium.jpg/1200px-Leipzig_stadium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Leipzig_stadium.jpg/1920px-Leipzig_stadium.jpg
+  Beyond the Black Arena Leipzig 2023 54.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Beyond_the_Black_Arena_Leipzig_2023_54.jpg/400px-Beyond_the_Black_Arena_Leipzig_2023_54.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Beyond_the_Black_Arena_Leipzig_2023_54.jpg/800px-Beyond_the_Black_Arena_Leipzig_2023_54.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Beyond_the_Black_Arena_Leipzig_2023_54.jpg/1200px-Beyond_the_Black_Arena_Leipzig_2023_54.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Beyond_the_Black_Arena_Leipzig_2023_54.jpg/1920px-Beyond_the_Black_Arena_Leipzig_2023_54.jpg
+  Arena leipzig 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/400px-Arena_leipzig_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/800px-Arena_leipzig_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/1200px-Arena_leipzig_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_leipzig_2.jpg/1920px-Arena_leipzig_2.jpg
 ---
 
 ## Overview

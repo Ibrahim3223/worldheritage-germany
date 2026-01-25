@@ -13,9 +13,9 @@ regions:
 latitude: 53.965
 longitude: 11.0595
 images:
-  - "/images-sites/schloss-kalkhorst/01-0158f3d2-800w.webp"
-  - "/images-sites/schloss-kalkhorst/02-f8c8edbe-800w.webp"
-  - "/images-sites/schloss-kalkhorst/03-ae3c82ad-800w.webp"
+  - "/images/schloss-kalkhorst/01-0158f3d2-800w.webp"
+  - "/images/schloss-kalkhorst/02-f8c8edbe-800w.webp"
+  - "/images/schloss-kalkhorst/03-ae3c82ad-800w.webp"
 ---
 
 ## Overview

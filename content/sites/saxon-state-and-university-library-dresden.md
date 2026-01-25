@@ -13,7 +13,7 @@ regions:
 latitude: 51.0283
 longitude: 13.73659
 images:
-  - "/images-sites/saxon-state-and-university-library-dresden/01-1f702699-800w.webp"
+  - "/images/saxon-state-and-university-library-dresden/01-1f702699-800w.webp"
 ---
 
 ## Overview

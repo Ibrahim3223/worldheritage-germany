@@ -13,7 +13,7 @@ regions:
 latitude: 47.638055555
 longitude: 11.804166666
 images:
-  - "/images-sites/risserkogel/01-8eb7c3ab-800w.webp"
+  - "/images/risserkogel/01-8eb7c3ab-800w.webp"
 ---
 
 ## Overview

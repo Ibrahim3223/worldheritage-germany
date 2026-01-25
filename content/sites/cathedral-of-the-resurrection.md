@@ -1,23 +1,50 @@
 ---
-title: "Cathedral of the Resurrection"
-site_name: "Cathedral of the Resurrection"
-slug: "cathedral-of-the-resurrection"
-region: "Berlin"
-
-# Location
+title: Cathedral of the Resurrection
+site_name: Cathedral of the Resurrection
+slug: cathedral-of-the-resurrection
+region: Berlin
 latitude: 52.4881
 longitude: 13.3078
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q833695"
-description: "The Cathedral of the Resurrection, located in the Charlottenburg-Wilmersdorf district of Berlin, stands as a striking example of Byzantine architecture...."
+- cultural site
+wikidata_id: Q833695
+description: The Cathedral of the Resurrection, located in the Charlottenburg-Wilmersdorf
+  district of Berlin, stands as a striking example of Byzantine architecture....
 images:
-  - "/images-sites/cathedral-of-the-resurrection/01-4042932d-1920w.webp"
-  - "/images-sites/cathedral-of-the-resurrection/02-4adfb1b3-1920w.webp"
-  - "/images-sites/cathedral-of-the-resurrection/03-5cfb9fa6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/B-Wilmersdorf%20Okt12%20RussKirche.jpg/1200px-B-Wilmersdorf%20Okt12%20RussKirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG/1200px-Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg/1200px-The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg/1200px-Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg/1200px-Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg
+image_srcset:
+  B-Wilmersdorf%20Okt12%20RussKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/B-Wilmersdorf%20Okt12%20RussKirche.jpg/400px-B-Wilmersdorf%20Okt12%20RussKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/B-Wilmersdorf%20Okt12%20RussKirche.jpg/800px-B-Wilmersdorf%20Okt12%20RussKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/B-Wilmersdorf%20Okt12%20RussKirche.jpg/1200px-B-Wilmersdorf%20Okt12%20RussKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/B-Wilmersdorf%20Okt12%20RussKirche.jpg/1920px-B-Wilmersdorf%20Okt12%20RussKirche.jpg
+  Iglesia de Nuestra Señora de los Remedios, Kotor, Bahía de Kotor, Montenegro, 2014-04-19, DD 28.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG/400px-Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG/800px-Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG/1200px-Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG/1920px-Iglesia_de_Nuestra_Señora_de_los_Remedios,_Kotor,_Bahía_de_Kotor,_Montenegro,_2014-04-19,_DD_28.JPG
+  The Cathedral of the Resurrection of Christ of Podgorica, Montenegro.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg/400px-The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg/800px-The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg/1200px-The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg/1920px-The_Cathedral_of_the_Resurrection_of_Christ_of_Podgorica,_Montenegro.jpg
+  Blok 5, Podgorica, Montenegro - panoramio (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg/400px-Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg/800px-Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg/1200px-Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg/1920px-Blok_5,_Podgorica,_Montenegro_-_panoramio_(2).jpg
+  Тверь7 2014 IMG 5005 Воскресенский собор (Воскресения Словущего) e1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg/400px-Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg/800px-Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg/1200px-Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg/1920px-Тверь7_2014_IMG_5005_Воскресенский_собор_(Воскресения_Словущего)_e1.jpg
 ---
 
 ## Overview

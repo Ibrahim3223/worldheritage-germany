@@ -13,7 +13,7 @@ regions:
 latitude: 49.173888888
 longitude: 13.166388888
 images:
-  - "/images-sites/zwercheck/01-fd6736e8-800w.webp"
+  - "/images/zwercheck/01-fd6736e8-800w.webp"
 ---
 
 ## Overview

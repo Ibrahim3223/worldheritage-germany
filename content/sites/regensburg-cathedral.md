@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q280268"
 description: "Regensburg Cathedral, an impressive example of Gothic architecture, rises majestically in the heart of Regensburg, Germany. With its towering height of ..."
 images:
-  - "/images-sites/regensburg-cathedral/01-317adca5-1920w.webp"
-  - "/images-sites/regensburg-cathedral/02-e00265cc-1920w.webp"
-  - "/images-sites/regensburg-cathedral/03-6a6127aa-1920w.webp"
+  - "/images/regensburg-cathedral/01-317adca5-1920w.webp"
+  - "/images/regensburg-cathedral/02-e00265cc-1920w.webp"
+  - "/images/regensburg-cathedral/03-6a6127aa-1920w.webp"
 ---
 
 ## Overview

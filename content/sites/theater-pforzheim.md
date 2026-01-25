@@ -13,8 +13,8 @@ regions:
 latitude: 48.8895
 longitude: 8.70245
 images:
-  - "/images-sites/theater-pforzheim/02-f4a17cfd-800w.webp"
-  - "/images-sites/theater-pforzheim/03-8f6eae89-800w.webp"
+  - "/images/theater-pforzheim/02-f4a17cfd-800w.webp"
+  - "/images/theater-pforzheim/03-8f6eae89-800w.webp"
 ---
 
 ## Overview

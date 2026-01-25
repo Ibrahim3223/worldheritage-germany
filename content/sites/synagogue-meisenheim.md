@@ -13,7 +13,7 @@ regions:
 latitude: 49.7084
 longitude: 7.66958
 images:
-  - "/images-sites/synagogue-meisenheim/01-5e602b9a-800w.webp"
+  - "/images/synagogue-meisenheim/01-5e602b9a-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Burg Ehrenstein"
+title: Burg Ehrenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6174
 longitude: 7.45501
 images:
-  - "/images-sites/burg-ehrenstein/01-0891d630-800w.webp"
-  - "/images-sites/burg-ehrenstein/02-afdb4481-800w.webp"
-  - "/images-sites/burg-ehrenstein/03-98e46c86-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Ehrenstein - 991016194979705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg/400px-Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg/800px-Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg/1920px-Zentralbibliothek_Zürich_-_Ehrenstein_-_991016194979705501.jpg
+  19850707320NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  19850707306NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  19850707311NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  19850707325NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
 ---
 
 ## Overview

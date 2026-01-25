@@ -1,24 +1,51 @@
 ---
-title: "Friedrich-von-Bodelschwingh-Kirche"
-site_name: "Friedrich-von-Bodelschwingh-Kirche"
-slug: "friedrich-von-bodelschwingh-kirche"
-region: "Schleswig-Holstein"
-
-# Location
+title: Friedrich-von-Bodelschwingh-Kirche
+site_name: Friedrich-von-Bodelschwingh-Kirche
+slug: friedrich-von-bodelschwingh-kirche
+region: Schleswig-Holstein
 latitude: 53.8692
 longitude: 10.6525
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1231989"
-description: "In the heart of Lübeck, a city celebrated for its medieval architecture and rich maritime history, stands the Friedrich-von-Bodelschwingh-Kirche, a stri..."
+- church building
+- religious site
+wikidata_id: Q1231989
+description: In the heart of Lübeck, a city celebrated for its medieval architecture
+  and rich maritime history, stands the Friedrich-von-Bodelschwingh-Kirche, a stri...
 images:
-  - "/images-sites/friedrich-von-bodelschwingh-kirche/01-9afc791c-1920w.webp"
-  - "/images-sites/friedrich-von-bodelschwingh-kirche/02-95a27d77-1920w.webp"
-  - "/images-sites/friedrich-von-bodelschwingh-kirche/03-33f17533-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg/1200px-Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg/1200px-Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg/1200px-Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg/1200px-Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1200px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
+image_srcset:
+  Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg/400px-Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg/800px-Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg/1200px-Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg/1920px-Friedrich-von-Bodelschwingh-Kirche%20%28Luebeck%29.jpg
+  Bodelschwingh mit liturgischer Beleuchtung. - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg/400px-Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg/800px-Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg/1200px-Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg/1920px-Bodelschwingh_mit_liturgischer_Beleuchtung._-_panoramio.jpg
+  Lübeck Bodelschwingh-Kirche Orgel (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg/400px-Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg/800px-Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg/1200px-Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg/1920px-Lübeck_Bodelschwingh-Kirche_Orgel_(3).jpg
+  Lübeck Bodelschwingh-Kirche Orgel (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg/400px-Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg/800px-Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg/1200px-Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg/1920px-Lübeck_Bodelschwingh-Kirche_Orgel_(4).jpg
+  Friedrich-von-Bodelschwingh-Kirche (Luebeck).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/400px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/800px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1200px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg/1920px-Friedrich-von-Bodelschwingh-Kirche_(Luebeck).jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Bodenstein"
+title: Burg Bodenstein
 date: 2026-01-23
 draft: false
-description: "castle in Leinefelde-Worbis, Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Leinefelde-Worbis, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.453611111
 longitude: 10.3425
-
-# Images
 images:
-  - "/images-sites/burg-bodenstein/01-054bf4a7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bodenstein_Burg_05.jpg/1200px-Bodenstein_Burg_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Scharfenstein_(Eichsfeld)_13.jpg/1200px-Burg_Scharfenstein_(Eichsfeld)_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/0702246987_bodenstein.jpg/1200px-0702246987_bodenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/0702247011_bodenstein.jpg/1200px-0702247011_bodenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Carl_Duval_-_Schloss_Bodenstein.jpg/1200px-Carl_Duval_-_Schloss_Bodenstein.jpg
+image_srcset:
+  Bodenstein Burg 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bodenstein_Burg_05.jpg/400px-Bodenstein_Burg_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bodenstein_Burg_05.jpg/800px-Bodenstein_Burg_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bodenstein_Burg_05.jpg/1200px-Bodenstein_Burg_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bodenstein_Burg_05.jpg/1920px-Bodenstein_Burg_05.jpg
+  Burg Scharfenstein (Eichsfeld) 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Scharfenstein_(Eichsfeld)_13.jpg/400px-Burg_Scharfenstein_(Eichsfeld)_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Scharfenstein_(Eichsfeld)_13.jpg/800px-Burg_Scharfenstein_(Eichsfeld)_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Scharfenstein_(Eichsfeld)_13.jpg/1200px-Burg_Scharfenstein_(Eichsfeld)_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Scharfenstein_(Eichsfeld)_13.jpg/1920px-Burg_Scharfenstein_(Eichsfeld)_13.jpg
+  0702246987 bodenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/0702246987_bodenstein.jpg/400px-0702246987_bodenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/0702246987_bodenstein.jpg/800px-0702246987_bodenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/0702246987_bodenstein.jpg/1200px-0702246987_bodenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/0702246987_bodenstein.jpg/1920px-0702246987_bodenstein.jpg
+  0702247011 bodenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/0702247011_bodenstein.jpg/400px-0702247011_bodenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/0702247011_bodenstein.jpg/800px-0702247011_bodenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/0702247011_bodenstein.jpg/1200px-0702247011_bodenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/0702247011_bodenstein.jpg/1920px-0702247011_bodenstein.jpg
+  Carl Duval - Schloss Bodenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Carl_Duval_-_Schloss_Bodenstein.jpg/400px-Carl_Duval_-_Schloss_Bodenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Carl_Duval_-_Schloss_Bodenstein.jpg/800px-Carl_Duval_-_Schloss_Bodenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Carl_Duval_-_Schloss_Bodenstein.jpg/1200px-Carl_Duval_-_Schloss_Bodenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Carl_Duval_-_Schloss_Bodenstein.jpg/1920px-Carl_Duval_-_Schloss_Bodenstein.jpg
 ---
 
 ## Overview

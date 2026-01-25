@@ -1,21 +1,49 @@
 ---
-title: "Großer Inselsberg"
+title: Großer Inselsberg
 date: 2026-01-23
 draft: false
-description: "peak in the Thuringian Forest"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: peak in the Thuringian Forest
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8512
 longitude: 10.4665
 images:
-  - "/images-sites/grosser-inselsberg/01-c0512d90-800w.webp"
-  - "/images-sites/grosser-inselsberg/02-08f96d89-800w.webp"
-  - "/images-sites/grosser-inselsberg/03-1a749211-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WAK_SEEB_INSELSBG.jpg/1200px-WAK_SEEB_INSELSBG.jpg
+image_srcset:
+  Thuringia asv2020-07 Grosser Inselsberg img4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg/400px-Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg/800px-Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg/1920px-Thuringia_asv2020-07_Grosser_Inselsberg_img4.jpg
+  Thuringia asv2020-07 Grosser Inselsberg img2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg/400px-Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg/800px-Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg/1920px-Thuringia_asv2020-07_Grosser_Inselsberg_img2.jpg
+  Thuringia asv2020-07 Grosser Inselsberg img3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg/400px-Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg/800px-Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg/1920px-Thuringia_asv2020-07_Grosser_Inselsberg_img3.jpg
+  Thuringia asv2020-07 Grosser Inselsberg img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg/400px-Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg/800px-Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg/1200px-Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg/1920px-Thuringia_asv2020-07_Grosser_Inselsberg_img1.jpg
+  WAK SEEB INSELSBG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WAK_SEEB_INSELSBG.jpg/400px-WAK_SEEB_INSELSBG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WAK_SEEB_INSELSBG.jpg/800px-WAK_SEEB_INSELSBG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WAK_SEEB_INSELSBG.jpg/1200px-WAK_SEEB_INSELSBG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WAK_SEEB_INSELSBG.jpg/1920px-WAK_SEEB_INSELSBG.jpg
 ---
 
 ## Overview

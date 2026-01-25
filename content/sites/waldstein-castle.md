@@ -21,7 +21,7 @@ longitude: 8.1369
 
 # Images
 images:
-  - "/images-sites/waldstein-castle/01-141a377a-800w.webp"
+  - "/images/waldstein-castle/01-141a377a-800w.webp"
 ---
 
 ## Overview

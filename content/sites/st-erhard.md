@@ -21,7 +21,7 @@ longitude: 10.871666666
 
 # Images
 images:
-  - "/images-sites/st-erhard/01-ec0e3d61-800w.webp"
+  - "/images/st-erhard/01-ec0e3d61-800w.webp"
 ---
 
 ## Overview

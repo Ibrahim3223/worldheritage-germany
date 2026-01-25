@@ -13,7 +13,7 @@ regions:
 latitude: 51.15827778
 longitude: 14.98980556
 images:
-  - "/images-sites/nikolaiturm/01-3a4d8b89-800w.webp"
+  - "/images/nikolaiturm/01-3a4d8b89-800w.webp"
 ---
 
 ## Overview

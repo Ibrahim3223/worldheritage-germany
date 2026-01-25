@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Musikautomaten-Museum"
+title: Deutsches Musikautomaten-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Bruchsal (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Bruchsal (Germany)
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1287
 longitude: 8.59796
 images:
-  - "/images-sites/deutsches-musikautomaten-museum/01-7a5354dd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/09_Bruchsal_(40).JPG/1200px-09_Bruchsal_(40).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09_Bruchsal_(41).JPG/1200px-09_Bruchsal_(41).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/1200px-Bruchsal_schloss2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20190208Spieluhr_Ulrich_von_Hutten.jpg/1200px-20190208Spieluhr_Ulrich_von_Hutten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Musikautomat_Tino.jpg/1200px-Musikautomat_Tino.jpg
+image_srcset:
+  09 Bruchsal (40).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/09_Bruchsal_(40).JPG/400px-09_Bruchsal_(40).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/09_Bruchsal_(40).JPG/800px-09_Bruchsal_(40).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/09_Bruchsal_(40).JPG/1200px-09_Bruchsal_(40).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/09_Bruchsal_(40).JPG/1920px-09_Bruchsal_(40).JPG
+  09 Bruchsal (41).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09_Bruchsal_(41).JPG/400px-09_Bruchsal_(41).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09_Bruchsal_(41).JPG/800px-09_Bruchsal_(41).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09_Bruchsal_(41).JPG/1200px-09_Bruchsal_(41).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/09_Bruchsal_(41).JPG/1920px-09_Bruchsal_(41).JPG
+  Bruchsal schloss2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/400px-Bruchsal_schloss2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/800px-Bruchsal_schloss2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/1200px-Bruchsal_schloss2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bruchsal_schloss2.JPG/1920px-Bruchsal_schloss2.JPG
+  20190208Spieluhr Ulrich von Hutten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20190208Spieluhr_Ulrich_von_Hutten.jpg/400px-20190208Spieluhr_Ulrich_von_Hutten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20190208Spieluhr_Ulrich_von_Hutten.jpg/800px-20190208Spieluhr_Ulrich_von_Hutten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20190208Spieluhr_Ulrich_von_Hutten.jpg/1200px-20190208Spieluhr_Ulrich_von_Hutten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20190208Spieluhr_Ulrich_von_Hutten.jpg/1920px-20190208Spieluhr_Ulrich_von_Hutten.jpg
+  Musikautomat Tino.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Musikautomat_Tino.jpg/400px-Musikautomat_Tino.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Musikautomat_Tino.jpg/800px-Musikautomat_Tino.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Musikautomat_Tino.jpg/1200px-Musikautomat_Tino.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Musikautomat_Tino.jpg/1920px-Musikautomat_Tino.jpg
 ---
 
 ## Overview

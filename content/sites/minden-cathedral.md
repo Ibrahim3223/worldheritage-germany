@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1936373"
 description: "Minden Cathedral, a significant architectural landmark in Minden, Germany, invites visitors to explore its striking Gothic design and rich history. As y..."
 images:
-  - "/images-sites/minden-cathedral/01-3e885037-1920w.webp"
-  - "/images-sites/minden-cathedral/02-af00d1aa-1920w.webp"
-  - "/images-sites/minden-cathedral/03-12e0ea57-1920w.webp"
+  - "/images/minden-cathedral/01-3e885037-1920w.webp"
+  - "/images/minden-cathedral/02-af00d1aa-1920w.webp"
+  - "/images/minden-cathedral/03-12e0ea57-1920w.webp"
 ---
 
 ## Overview

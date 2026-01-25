@@ -13,7 +13,7 @@ regions:
 latitude: 49.981028
 longitude: 7.899833
 images:
-  - "/images-sites/niederwalddenkmal/01-0ed777ea-800w.webp"
+  - "/images/niederwalddenkmal/01-0ed777ea-800w.webp"
 ---
 
 ## Overview

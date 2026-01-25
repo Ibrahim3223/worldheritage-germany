@@ -1,19 +1,49 @@
 ---
-title: "Hanns-Martin-Schleyer-Halle"
+title: Hanns-Martin-Schleyer-Halle
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.793889
 longitude: 9.226944
 images:
-  - "/images-sites/hanns-martin-schleyer-halle/02-824f55cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg/1200px-Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg/1200px-2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Helene-Fischer-Schleyerhalle.jpg/1200px-Helene-Fischer-Schleyerhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/1200px-Schleyerhalle-West.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ECStuttgart2004.jpg/1200px-ECStuttgart2004.jpg
+image_srcset:
+  Sonia Liebing - 2018286215156 2018-10-13 Die Schlagernacht des Jahres - 1D X MK II - 0775 - B70I5406.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg/400px-Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg/800px-Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg/1200px-Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg/1920px-Sonia_Liebing_-_2018286215156_2018-10-13_Die_Schlagernacht_des_Jahres_-_1D_X_MK_II_-_0775_-_B70I5406.jpg
+  2021-05-16 Handball Frauen, OLYMP Final4 2021, HL Buchholz 08-Rosengarten vs. SG BBM Bietigheim 1DX 3620 by Stepro.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg/400px-2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg/800px-2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg/1200px-2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg/1920px-2021-05-16_Handball_Frauen,_OLYMP_Final4_2021,_HL_Buchholz_08-Rosengarten_vs._SG_BBM_Bietigheim_1DX_3620_by_Stepro.jpg
+  Helene-Fischer-Schleyerhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Helene-Fischer-Schleyerhalle.jpg/400px-Helene-Fischer-Schleyerhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Helene-Fischer-Schleyerhalle.jpg/800px-Helene-Fischer-Schleyerhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Helene-Fischer-Schleyerhalle.jpg/1200px-Helene-Fischer-Schleyerhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Helene-Fischer-Schleyerhalle.jpg/1920px-Helene-Fischer-Schleyerhalle.jpg
+  Schleyerhalle-West.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/400px-Schleyerhalle-West.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/800px-Schleyerhalle-West.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/1200px-Schleyerhalle-West.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schleyerhalle-West.jpg/1920px-Schleyerhalle-West.jpg
+  ECStuttgart2004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ECStuttgart2004.jpg/400px-ECStuttgart2004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ECStuttgart2004.jpg/800px-ECStuttgart2004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ECStuttgart2004.jpg/1200px-ECStuttgart2004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ECStuttgart2004.jpg/1920px-ECStuttgart2004.jpg
 ---
 
 ## Overview

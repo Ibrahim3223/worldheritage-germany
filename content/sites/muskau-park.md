@@ -13,7 +13,7 @@ regions:
 latitude: 51.547559
 longitude: 14.723229
 images:
-  - "/images-sites/muskau-park/01-50f68f27-800w.webp"
+  - "/images/muskau-park/01-50f68f27-800w.webp"
 ---
 
 ## Overview

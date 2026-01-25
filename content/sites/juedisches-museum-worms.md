@@ -1,21 +1,49 @@
 ---
-title: "Jüdisches Museum Worms"
+title: Jüdisches Museum Worms
 date: 2026-01-23
 draft: false
-description: "historical building in Worms, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: historical building in Worms, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.63336944
 longitude: 8.36628333
 images:
-  - "/images-sites/juedisches-museum-worms/01-1040b938-800w.webp"
-  - "/images-sites/juedisches-museum-worms/02-c09866d4-800w.webp"
-  - "/images-sites/juedisches-museum-worms/03-56609bb6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/1200px-Raschi-Haus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jüdisches_Museum_Worms_Gewölbekeller.jpg/1200px-Jüdisches_Museum_Worms_Gewölbekeller.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raschi-Haus_02.jpg/1200px-Raschi-Haus_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Raschi-Haus_01.jpg/1200px-Raschi-Haus_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Raschi-Haus_mit_Synagoge.jpg/1200px-Raschi-Haus_mit_Synagoge.jpg
+image_srcset:
+  Raschi-Haus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/400px-Raschi-Haus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/800px-Raschi-Haus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/1200px-Raschi-Haus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raschi-Haus.JPG/1920px-Raschi-Haus.JPG
+  Jüdisches Museum Worms Gewölbekeller.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jüdisches_Museum_Worms_Gewölbekeller.jpg/400px-Jüdisches_Museum_Worms_Gewölbekeller.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jüdisches_Museum_Worms_Gewölbekeller.jpg/800px-Jüdisches_Museum_Worms_Gewölbekeller.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jüdisches_Museum_Worms_Gewölbekeller.jpg/1200px-Jüdisches_Museum_Worms_Gewölbekeller.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jüdisches_Museum_Worms_Gewölbekeller.jpg/1920px-Jüdisches_Museum_Worms_Gewölbekeller.jpg
+  Raschi-Haus 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raschi-Haus_02.jpg/400px-Raschi-Haus_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raschi-Haus_02.jpg/800px-Raschi-Haus_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raschi-Haus_02.jpg/1200px-Raschi-Haus_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raschi-Haus_02.jpg/1920px-Raschi-Haus_02.jpg
+  Raschi-Haus 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Raschi-Haus_01.jpg/400px-Raschi-Haus_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Raschi-Haus_01.jpg/800px-Raschi-Haus_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Raschi-Haus_01.jpg/1200px-Raschi-Haus_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Raschi-Haus_01.jpg/1920px-Raschi-Haus_01.jpg
+  Raschi-Haus mit Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Raschi-Haus_mit_Synagoge.jpg/400px-Raschi-Haus_mit_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Raschi-Haus_mit_Synagoge.jpg/800px-Raschi-Haus_mit_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Raschi-Haus_mit_Synagoge.jpg/1200px-Raschi-Haus_mit_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Raschi-Haus_mit_Synagoge.jpg/1920px-Raschi-Haus_mit_Synagoge.jpg
 ---
 
 ## Overview

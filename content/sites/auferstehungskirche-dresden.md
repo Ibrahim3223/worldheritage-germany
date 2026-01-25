@@ -1,24 +1,51 @@
 ---
-title: "Auferstehungskirche (Dresden)"
-site_name: "Auferstehungskirche (Dresden)"
-slug: "auferstehungskirche-dresden"
-region: "Saxony"
-
-# Location
+title: Auferstehungskirche (Dresden)
+site_name: Auferstehungskirche (Dresden)
+slug: auferstehungskirche-dresden
+region: Saxony
 latitude: 51.029
 longitude: 13.7044
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q759614"
-description: "Dresden’s Auferstehungskirche, a stunning example of Renaissance Revival architecture, stands tall at 49 meters, inviting visitors into its historical e..."
+- church building
+- religious site
+wikidata_id: Q759614
+description: Dresden’s Auferstehungskirche, a stunning example of Renaissance Revival
+  architecture, stands tall at 49 meters, inviting visitors into its historical e...
 images:
-  - "/images-sites/auferstehungskirche-dresden/01-5d59440c-1920w.webp"
-  - "/images-sites/auferstehungskirche-dresden/02-c5a0ae20-1920w.webp"
-  - "/images-sites/auferstehungskirche-dresden/03-3a6ea0c7-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg/1200px-20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/DD-Auferstehungskirche.jpg/1200px-DD-Auferstehungskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1200px-Dresden-Plauen-Auferstehung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg/1200px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg/1200px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg
+image_srcset:
+  20050331070DR Dresden-Plauen Auferstehungskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg/400px-20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg/800px-20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg/1200px-20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg/1920px-20050331070DR_Dresden-Plauen_Auferstehungskirche.jpg
+  DD-Auferstehungskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/DD-Auferstehungskirche.jpg/400px-DD-Auferstehungskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/DD-Auferstehungskirche.jpg/800px-DD-Auferstehungskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/DD-Auferstehungskirche.jpg/1200px-DD-Auferstehungskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/DD-Auferstehungskirche.jpg/1920px-DD-Auferstehungskirche.jpg
+  Dresden-Plauen-Auferstehung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/400px-Dresden-Plauen-Auferstehung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/800px-Dresden-Plauen-Auferstehung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1200px-Dresden-Plauen-Auferstehung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dresden-Plauen-Auferstehung.jpg/1920px-Dresden-Plauen-Auferstehung.jpg
+  Neue sächsische Kirchengalerie – Die Ephorie Dresden Seite 402a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg/400px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg/800px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg/1200px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg/1920px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_402a.jpg
+  Neue sächsische Kirchengalerie – Die Ephorie Dresden Seite 404a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg/400px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg/800px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg/1200px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg/1920px-Neue_sächsische_Kirchengalerie_–_Die_Ephorie_Dresden_Seite_404a.jpg
 ---
 
 ## Overview

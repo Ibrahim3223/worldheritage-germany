@@ -13,9 +13,9 @@ regions:
 latitude: 51.339488
 longitude: 12.371575
 images:
-  - "/images-sites/mendelssohn-denkmal/01-3c892475-800w.webp"
-  - "/images-sites/mendelssohn-denkmal/02-b3454395-800w.webp"
-  - "/images-sites/mendelssohn-denkmal/03-ebb29d42-800w.webp"
+  - "/images/mendelssohn-denkmal/01-3c892475-800w.webp"
+  - "/images/mendelssohn-denkmal/02-b3454395-800w.webp"
+  - "/images/mendelssohn-denkmal/03-ebb29d42-800w.webp"
 ---
 
 ## Overview

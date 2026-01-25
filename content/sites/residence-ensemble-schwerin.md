@@ -13,9 +13,9 @@ regions:
 latitude: 53.62417
 longitude: 11.41889
 images:
-  - "/images-sites/residence-ensemble-schwerin/01-3b7c8bb4-800w.webp"
-  - "/images-sites/residence-ensemble-schwerin/02-a998f6cd-800w.webp"
-  - "/images-sites/residence-ensemble-schwerin/03-18e78940-800w.webp"
+  - "/images/residence-ensemble-schwerin/01-3b7c8bb4-800w.webp"
+  - "/images/residence-ensemble-schwerin/02-a998f6cd-800w.webp"
+  - "/images/residence-ensemble-schwerin/03-18e78940-800w.webp"
 ---
 
 ## Overview

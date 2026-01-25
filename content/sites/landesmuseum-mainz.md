@@ -13,7 +13,7 @@ regions:
 latitude: 50.00385
 longitude: 8.26778
 images:
-  - "/images-sites/landesmuseum-mainz/01-b758f1b5-800w.webp"
+  - "/images/landesmuseum-mainz/01-b758f1b5-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Allgäuer Hochalpen"
+title: Allgäuer Hochalpen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.3725
 longitude: 10.3372
 images:
-  - "/images-sites/allgaeuer-hochalpen/01-d758add3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Allgäuer_Alpen_auf_der_Grüntenalpe.jpg/1200px-Allgäuer_Alpen_auf_der_Grüntenalpe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entschenkopf-JR-E-6281-2022-09-12.jpg/1200px-Entschenkopf-JR-E-6281-2022-09-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entschenkopf-JR-E-6282-2022-09-12.jpg/1200px-Entschenkopf-JR-E-6282-2022-09-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Entschenkopf-JR-E-6294-2022-09-12.jpg/1200px-Entschenkopf-JR-E-6294-2022-09-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nsg_allgaeuer_hochalpen.jpg/1200px-Nsg_allgaeuer_hochalpen.jpg
+image_srcset:
+  Allgäuer Alpen auf der Grüntenalpe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Allgäuer_Alpen_auf_der_Grüntenalpe.jpg/400px-Allgäuer_Alpen_auf_der_Grüntenalpe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Allgäuer_Alpen_auf_der_Grüntenalpe.jpg/800px-Allgäuer_Alpen_auf_der_Grüntenalpe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Allgäuer_Alpen_auf_der_Grüntenalpe.jpg/1200px-Allgäuer_Alpen_auf_der_Grüntenalpe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Allgäuer_Alpen_auf_der_Grüntenalpe.jpg/1920px-Allgäuer_Alpen_auf_der_Grüntenalpe.jpg
+  Entschenkopf-JR-E-6281-2022-09-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entschenkopf-JR-E-6281-2022-09-12.jpg/400px-Entschenkopf-JR-E-6281-2022-09-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entschenkopf-JR-E-6281-2022-09-12.jpg/800px-Entschenkopf-JR-E-6281-2022-09-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entschenkopf-JR-E-6281-2022-09-12.jpg/1200px-Entschenkopf-JR-E-6281-2022-09-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Entschenkopf-JR-E-6281-2022-09-12.jpg/1920px-Entschenkopf-JR-E-6281-2022-09-12.jpg
+  Entschenkopf-JR-E-6282-2022-09-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entschenkopf-JR-E-6282-2022-09-12.jpg/400px-Entschenkopf-JR-E-6282-2022-09-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entschenkopf-JR-E-6282-2022-09-12.jpg/800px-Entschenkopf-JR-E-6282-2022-09-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entschenkopf-JR-E-6282-2022-09-12.jpg/1200px-Entschenkopf-JR-E-6282-2022-09-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entschenkopf-JR-E-6282-2022-09-12.jpg/1920px-Entschenkopf-JR-E-6282-2022-09-12.jpg
+  Entschenkopf-JR-E-6294-2022-09-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Entschenkopf-JR-E-6294-2022-09-12.jpg/400px-Entschenkopf-JR-E-6294-2022-09-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Entschenkopf-JR-E-6294-2022-09-12.jpg/800px-Entschenkopf-JR-E-6294-2022-09-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Entschenkopf-JR-E-6294-2022-09-12.jpg/1200px-Entschenkopf-JR-E-6294-2022-09-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Entschenkopf-JR-E-6294-2022-09-12.jpg/1920px-Entschenkopf-JR-E-6294-2022-09-12.jpg
+  Nsg allgaeuer hochalpen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nsg_allgaeuer_hochalpen.jpg/400px-Nsg_allgaeuer_hochalpen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nsg_allgaeuer_hochalpen.jpg/800px-Nsg_allgaeuer_hochalpen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nsg_allgaeuer_hochalpen.jpg/1200px-Nsg_allgaeuer_hochalpen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nsg_allgaeuer_hochalpen.jpg/1920px-Nsg_allgaeuer_hochalpen.jpg
 ---
 
 ## Overview

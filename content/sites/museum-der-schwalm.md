@@ -13,9 +13,9 @@ regions:
 latitude: 50.9109
 longitude: 9.2347
 images:
-  - "/images-sites/museum-der-schwalm/01-a8db4335-800w.webp"
-  - "/images-sites/museum-der-schwalm/02-234a04c8-800w.webp"
-  - "/images-sites/museum-der-schwalm/03-978087d9-800w.webp"
+  - "/images/museum-der-schwalm/01-a8db4335-800w.webp"
+  - "/images/museum-der-schwalm/02-234a04c8-800w.webp"
+  - "/images/museum-der-schwalm/03-978087d9-800w.webp"
 ---
 
 ## Overview

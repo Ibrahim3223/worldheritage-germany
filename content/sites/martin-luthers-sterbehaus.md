@@ -13,8 +13,8 @@ regions:
 latitude: 51.5281
 longitude: 11.5443
 images:
-  - "/images-sites/martin-luthers-sterbehaus/02-ce6d0cac-800w.webp"
-  - "/images-sites/martin-luthers-sterbehaus/03-47ffa511-800w.webp"
+  - "/images/martin-luthers-sterbehaus/02-ce6d0cac-800w.webp"
+  - "/images/martin-luthers-sterbehaus/03-47ffa511-800w.webp"
 ---
 
 ## Overview

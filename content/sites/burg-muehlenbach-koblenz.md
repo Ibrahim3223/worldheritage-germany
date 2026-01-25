@@ -1,19 +1,43 @@
 ---
-title: "Burg Mühlenbach (Koblenz)"
+title: Burg Mühlenbach (Koblenz)
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3532
 longitude: 7.67103
 images:
-  - "/images-sites/burg-muehlenbach-koblenz/01-a61db204-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/1200px-Burg_Mühlenbach_Koblenz_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mühlenbach_05_2009_006.jpg/1200px-Mühlenbach_05_2009_006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mühlenbach_05_2009_015.jpg/1200px-Mühlenbach_05_2009_015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Turm_Schloss_Muehlenbach_01.jpg/1200px-Turm_Schloss_Muehlenbach_01.jpg
+image_srcset:
+  Burg Mühlenbach Koblenz 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/400px-Burg_Mühlenbach_Koblenz_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/800px-Burg_Mühlenbach_Koblenz_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/1200px-Burg_Mühlenbach_Koblenz_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burg_Mühlenbach_Koblenz_2011.jpg/1920px-Burg_Mühlenbach_Koblenz_2011.jpg
+  Mühlenbach 05 2009 006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mühlenbach_05_2009_006.jpg/400px-Mühlenbach_05_2009_006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mühlenbach_05_2009_006.jpg/800px-Mühlenbach_05_2009_006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mühlenbach_05_2009_006.jpg/1200px-Mühlenbach_05_2009_006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mühlenbach_05_2009_006.jpg/1920px-Mühlenbach_05_2009_006.jpg
+  Mühlenbach 05 2009 015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mühlenbach_05_2009_015.jpg/400px-Mühlenbach_05_2009_015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mühlenbach_05_2009_015.jpg/800px-Mühlenbach_05_2009_015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mühlenbach_05_2009_015.jpg/1200px-Mühlenbach_05_2009_015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mühlenbach_05_2009_015.jpg/1920px-Mühlenbach_05_2009_015.jpg
+  Turm Schloss Muehlenbach 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Turm_Schloss_Muehlenbach_01.jpg/400px-Turm_Schloss_Muehlenbach_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Turm_Schloss_Muehlenbach_01.jpg/800px-Turm_Schloss_Muehlenbach_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Turm_Schloss_Muehlenbach_01.jpg/1200px-Turm_Schloss_Muehlenbach_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Turm_Schloss_Muehlenbach_01.jpg/1920px-Turm_Schloss_Muehlenbach_01.jpg
 ---
 
 ## Overview

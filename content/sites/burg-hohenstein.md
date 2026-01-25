@@ -1,29 +1,49 @@
 ---
-title: "Burg Hohenstein"
+title: Burg Hohenstein
 date: 2026-01-23
 draft: false
-description: "castle in Taunus"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Taunus
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.194
 longitude: 8.0571
-
-# Images
 images:
-  - "/images-sites/burg-hohenstein/01-43ef703b-800w.webp"
-  - "/images-sites/burg-hohenstein/02-19628b8a-800w.webp"
-  - "/images-sites/burg-hohenstein/03-9f980fa4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_Teilansicht.JPG/1200px-Burg_Hohenstein_Teilansicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Burg_Hohenstein_(Taunus)_03.JPG/1200px-Burg_Hohenstein_(Taunus)_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_(Taunus)_04.JPG/1200px-Burg_Hohenstein_(Taunus)_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Hohenstein_(Taunus)_05.JPG/1200px-Burg_Hohenstein_(Taunus)_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Hohenstein_(Taunus)_06.JPG/1200px-Burg_Hohenstein_(Taunus)_06.JPG
+image_srcset:
+  Burg Hohenstein Teilansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_Teilansicht.JPG/400px-Burg_Hohenstein_Teilansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_Teilansicht.JPG/800px-Burg_Hohenstein_Teilansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_Teilansicht.JPG/1200px-Burg_Hohenstein_Teilansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_Teilansicht.JPG/1920px-Burg_Hohenstein_Teilansicht.JPG
+  Burg Hohenstein (Taunus) 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Burg_Hohenstein_(Taunus)_03.JPG/400px-Burg_Hohenstein_(Taunus)_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Burg_Hohenstein_(Taunus)_03.JPG/800px-Burg_Hohenstein_(Taunus)_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Burg_Hohenstein_(Taunus)_03.JPG/1200px-Burg_Hohenstein_(Taunus)_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Burg_Hohenstein_(Taunus)_03.JPG/1920px-Burg_Hohenstein_(Taunus)_03.JPG
+  Burg Hohenstein (Taunus) 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_(Taunus)_04.JPG/400px-Burg_Hohenstein_(Taunus)_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_(Taunus)_04.JPG/800px-Burg_Hohenstein_(Taunus)_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_(Taunus)_04.JPG/1200px-Burg_Hohenstein_(Taunus)_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Hohenstein_(Taunus)_04.JPG/1920px-Burg_Hohenstein_(Taunus)_04.JPG
+  Burg Hohenstein (Taunus) 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Hohenstein_(Taunus)_05.JPG/400px-Burg_Hohenstein_(Taunus)_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Hohenstein_(Taunus)_05.JPG/800px-Burg_Hohenstein_(Taunus)_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Hohenstein_(Taunus)_05.JPG/1200px-Burg_Hohenstein_(Taunus)_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Hohenstein_(Taunus)_05.JPG/1920px-Burg_Hohenstein_(Taunus)_05.JPG
+  Burg Hohenstein (Taunus) 06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Hohenstein_(Taunus)_06.JPG/400px-Burg_Hohenstein_(Taunus)_06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Hohenstein_(Taunus)_06.JPG/800px-Burg_Hohenstein_(Taunus)_06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Hohenstein_(Taunus)_06.JPG/1200px-Burg_Hohenstein_(Taunus)_06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Hohenstein_(Taunus)_06.JPG/1920px-Burg_Hohenstein_(Taunus)_06.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 47.704161
 longitude: 11.792268
 images:
-  - "/images-sites/riedersteinkapelle/01-67ba37af-800w.webp"
-  - "/images-sites/riedersteinkapelle/02-6fc62551-800w.webp"
-  - "/images-sites/riedersteinkapelle/03-69db1f35-800w.webp"
+  - "/images/riedersteinkapelle/01-67ba37af-800w.webp"
+  - "/images/riedersteinkapelle/02-6fc62551-800w.webp"
+  - "/images/riedersteinkapelle/03-69db1f35-800w.webp"
 ---
 
 ## Overview

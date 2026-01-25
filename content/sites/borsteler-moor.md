@@ -1,19 +1,49 @@
 ---
-title: "Borsteler Moor"
+title: Borsteler Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6514
 longitude: 8.95278
 images:
-  - "/images-sites/borsteler-moor/01-18130a07-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg/1200px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg/1200px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg/1200px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/1200px-Borsteler_Moor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hinweistafel_Borsteler_Moor.jpg/1200px-Hinweistafel_Borsteler_Moor.jpg
+image_srcset:
+  Flug -Nordholz-Hammelburg 2015 by-RaBoe 0317 - Borsteler Moor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg/400px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg/800px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg/1200px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg/1920px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0317_-_Borsteler_Moor.jpg
+  Flug -Nordholz-Hammelburg 2015 by-RaBoe 0323 - Borsteler Moor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg/400px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg/800px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg/1200px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg/1920px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0323_-_Borsteler_Moor.jpg
+  Flug -Nordholz-Hammelburg 2015 by-RaBoe 0318 - Borsteler Moor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg/400px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg/800px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg/1200px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg/1920px-Flug_-Nordholz-Hammelburg_2015_by-RaBoe_0318_-_Borsteler_Moor.jpg
+  Borsteler Moor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/400px-Borsteler_Moor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/800px-Borsteler_Moor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/1200px-Borsteler_Moor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Borsteler_Moor.jpg/1920px-Borsteler_Moor.jpg
+  Hinweistafel Borsteler Moor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hinweistafel_Borsteler_Moor.jpg/400px-Hinweistafel_Borsteler_Moor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hinweistafel_Borsteler_Moor.jpg/800px-Hinweistafel_Borsteler_Moor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hinweistafel_Borsteler_Moor.jpg/1200px-Hinweistafel_Borsteler_Moor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hinweistafel_Borsteler_Moor.jpg/1920px-Hinweistafel_Borsteler_Moor.jpg
 ---
 
 ## Overview

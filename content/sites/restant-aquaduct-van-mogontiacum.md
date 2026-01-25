@@ -21,7 +21,7 @@ longitude: 8.25361
 
 # Images
 images:
-  - "/images-sites/restant-aquaduct-van-mogontiacum/01-9d276c2e-800w.webp"
+  - "/images/restant-aquaduct-van-mogontiacum/01-9d276c2e-800w.webp"
 ---
 
 ## Overview

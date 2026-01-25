@@ -1,19 +1,49 @@
 ---
-title: "Castle chapel Torgau"
+title: Castle chapel Torgau
 date: 2026-01-23
 draft: false
-description: "Castle church in Torgau (Saxony)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: Castle church in Torgau (Saxony)
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 51.559178
 longitude: 13.008966
 images:
-  - "/images-sites/castle-chapel-torgau/01-29a53847-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Torgau_Schlosskirche_Portal.jpg/1200px-Torgau_Schlosskirche_Portal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Torgau_Schlosskirche_03.jpg/1200px-Torgau_Schlosskirche_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg/1200px-19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Schlosskapelle-Torgau.jpg/1200px-Schlosskapelle-Torgau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg/1200px-Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg
+image_srcset:
+  Torgau Schlosskirche Portal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Torgau_Schlosskirche_Portal.jpg/400px-Torgau_Schlosskirche_Portal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Torgau_Schlosskirche_Portal.jpg/800px-Torgau_Schlosskirche_Portal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Torgau_Schlosskirche_Portal.jpg/1200px-Torgau_Schlosskirche_Portal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Torgau_Schlosskirche_Portal.jpg/1920px-Torgau_Schlosskirche_Portal.jpg
+  Torgau Schlosskirche 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Torgau_Schlosskirche_03.jpg/400px-Torgau_Schlosskirche_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Torgau_Schlosskirche_03.jpg/800px-Torgau_Schlosskirche_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Torgau_Schlosskirche_03.jpg/1200px-Torgau_Schlosskirche_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Torgau_Schlosskirche_03.jpg/1920px-Torgau_Schlosskirche_03.jpg
+  19711113200NR Torgau Schloß Hartenfels Schloßkapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg/400px-19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg/800px-19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg/1200px-19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg/1920px-19711113200NR_Torgau_Schloß_Hartenfels_Schloßkapelle.jpg
+  Schlosskapelle-Torgau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Schlosskapelle-Torgau.jpg/400px-Schlosskapelle-Torgau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Schlosskapelle-Torgau.jpg/800px-Schlosskapelle-Torgau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Schlosskapelle-Torgau.jpg/1200px-Schlosskapelle-Torgau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Schlosskapelle-Torgau.jpg/1920px-Schlosskapelle-Torgau.jpg
+  Fotothek df ps 0000817 002 Musik ^ Musikinstrumente ^ Aerophone ^ Orgel ^ Stando.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg/400px-Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg/800px-Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg/1200px-Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg/1920px-Fotothek_df_ps_0000817_002_Musik_^_Musikinstrumente_^_Aerophone_^_Orgel_^_Stando.jpg
 ---
 
 ## Overview

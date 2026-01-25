@@ -1,27 +1,49 @@
 ---
-title: "Castle Friedlingen"
+title: Castle Friedlingen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.59666667
 longitude: 7.60638889
-
-# Images
 images:
-  - "/images-sites/castle-friedlingen/01-7c90e9b4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg/1200px-Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/1200px-Schloss_Friedlingen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lageplan_Burg_Friedlingen.jpg/1200px-Lageplan_Burg_Friedlingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wasserschloss_Friedlingen_Arhardt.jpg/1200px-Wasserschloss_Friedlingen_Arhardt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Friedlingen_1671.jpg/1200px-Schloss_Friedlingen_1671.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Man muess schmieden wenn das Eÿsen glüend ist Ottlingen Schweitzerisch - 991029891419705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg/400px-Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg/800px-Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg/1200px-Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg/1920px-Zentralbibliothek_Zürich_-_Man_muess_schmieden_wenn_das_Eÿsen_glüend_ist_Ottlingen_Schweitzerisch_-_991029891419705501.jpg
+  Schloss Friedlingen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/400px-Schloss_Friedlingen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/800px-Schloss_Friedlingen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/1200px-Schloss_Friedlingen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Schloss_Friedlingen.JPG/1920px-Schloss_Friedlingen.JPG
+  Lageplan Burg Friedlingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lageplan_Burg_Friedlingen.jpg/400px-Lageplan_Burg_Friedlingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lageplan_Burg_Friedlingen.jpg/800px-Lageplan_Burg_Friedlingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lageplan_Burg_Friedlingen.jpg/1200px-Lageplan_Burg_Friedlingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lageplan_Burg_Friedlingen.jpg/1920px-Lageplan_Burg_Friedlingen.jpg
+  Wasserschloss Friedlingen Arhardt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wasserschloss_Friedlingen_Arhardt.jpg/400px-Wasserschloss_Friedlingen_Arhardt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wasserschloss_Friedlingen_Arhardt.jpg/800px-Wasserschloss_Friedlingen_Arhardt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wasserschloss_Friedlingen_Arhardt.jpg/1200px-Wasserschloss_Friedlingen_Arhardt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wasserschloss_Friedlingen_Arhardt.jpg/1920px-Wasserschloss_Friedlingen_Arhardt.jpg
+  Schloss Friedlingen 1671.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Friedlingen_1671.jpg/400px-Schloss_Friedlingen_1671.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Friedlingen_1671.jpg/800px-Schloss_Friedlingen_1671.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Friedlingen_1671.jpg/1200px-Schloss_Friedlingen_1671.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Schloss_Friedlingen_1671.jpg/1920px-Schloss_Friedlingen_1671.jpg
 ---
 
 ## Overview

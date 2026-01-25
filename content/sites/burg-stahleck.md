@@ -1,27 +1,49 @@
 ---
-title: "Burg Stahleck"
+title: Burg Stahleck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.4421
 longitude: 9.29705
-
-# Images
 images:
-  - "/images-sites/burg-stahleck/01-8e205a70-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg/1200px-Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg/1200px-Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg/1200px-Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/8_Burg_Stahleck_34DSC_0470_(45685239524).jpg/1200px-8_Burg_Stahleck_34DSC_0470_(45685239524).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/1200px-Burg_Stahleck.jpg
+image_srcset:
+  Jugendherberge Burg Stahleck Bacharach September 2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg/400px-Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg/800px-Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg/1200px-Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg/1920px-Jugendherberge_Burg_Stahleck_Bacharach_September_2025.jpg
+  Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg/400px-Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg/800px-Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg/1200px-Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg/1920px-Mittelrhein-Burg-Stahleck-JR-E-1700-2017-05-27.jpg
+  Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg/400px-Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg/800px-Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg/1200px-Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg/1920px-Burg-Stahleck-JR-E-1665-1666-2017-05-27.jpg
+  8 Burg Stahleck 34DSC 0470 (45685239524).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/8_Burg_Stahleck_34DSC_0470_(45685239524).jpg/400px-8_Burg_Stahleck_34DSC_0470_(45685239524).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/8_Burg_Stahleck_34DSC_0470_(45685239524).jpg/800px-8_Burg_Stahleck_34DSC_0470_(45685239524).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/8_Burg_Stahleck_34DSC_0470_(45685239524).jpg/1200px-8_Burg_Stahleck_34DSC_0470_(45685239524).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/8_Burg_Stahleck_34DSC_0470_(45685239524).jpg/1920px-8_Burg_Stahleck_34DSC_0470_(45685239524).jpg
+  Burg Stahleck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/400px-Burg_Stahleck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/800px-Burg_Stahleck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/1200px-Burg_Stahleck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg_Stahleck.jpg/1920px-Burg_Stahleck.jpg
 ---
 
 ## Overview

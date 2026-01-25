@@ -13,7 +13,7 @@ regions:
 latitude: 48.141
 longitude: 11.5806
 images:
-  - "/images-sites/kronprinz-rupprecht-brunnen-muenchner-residenz/01-0dba1f28-800w.webp"
+  - "/images/kronprinz-rupprecht-brunnen-muenchner-residenz/01-0dba1f28-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Alternativer Bärenpark Worbis"
+title: Alternativer Bärenpark Worbis
 date: 2026-01-24
 draft: false
-description: "zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4272
 longitude: 10.3469
 images:
-  - "/images-sites/alternativer-baerenpark-worbis/01-b46260c1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Beim_Bärenpark.JPG/1200px-Beim_Bärenpark.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wbs_Bärenpark_(10).jpg/1200px-Wbs_Bärenpark_(10).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wbs_Bärenpark_(16).jpg/1200px-Wbs_Bärenpark_(16).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/1200px-Wbs_Bärenpark_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wbs_Bärenpark_(11).jpg/1200px-Wbs_Bärenpark_(11).jpg
+image_srcset:
+  Beim Bärenpark.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Beim_Bärenpark.JPG/400px-Beim_Bärenpark.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Beim_Bärenpark.JPG/800px-Beim_Bärenpark.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Beim_Bärenpark.JPG/1200px-Beim_Bärenpark.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Beim_Bärenpark.JPG/1920px-Beim_Bärenpark.JPG
+  Wbs Bärenpark (10).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wbs_Bärenpark_(10).jpg/400px-Wbs_Bärenpark_(10).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wbs_Bärenpark_(10).jpg/800px-Wbs_Bärenpark_(10).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wbs_Bärenpark_(10).jpg/1200px-Wbs_Bärenpark_(10).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wbs_Bärenpark_(10).jpg/1920px-Wbs_Bärenpark_(10).jpg
+  Wbs Bärenpark (16).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wbs_Bärenpark_(16).jpg/400px-Wbs_Bärenpark_(16).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wbs_Bärenpark_(16).jpg/800px-Wbs_Bärenpark_(16).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wbs_Bärenpark_(16).jpg/1200px-Wbs_Bärenpark_(16).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wbs_Bärenpark_(16).jpg/1920px-Wbs_Bärenpark_(16).jpg
+  Wbs Bärenpark (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/400px-Wbs_Bärenpark_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/800px-Wbs_Bärenpark_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/1200px-Wbs_Bärenpark_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wbs_Bärenpark_(7).jpg/1920px-Wbs_Bärenpark_(7).jpg
+  Wbs Bärenpark (11).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wbs_Bärenpark_(11).jpg/400px-Wbs_Bärenpark_(11).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wbs_Bärenpark_(11).jpg/800px-Wbs_Bärenpark_(11).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wbs_Bärenpark_(11).jpg/1200px-Wbs_Bärenpark_(11).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wbs_Bärenpark_(11).jpg/1920px-Wbs_Bärenpark_(11).jpg
 ---
 
 ## Overview

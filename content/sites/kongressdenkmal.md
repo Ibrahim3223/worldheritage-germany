@@ -13,7 +13,7 @@ regions:
 latitude: 50.7817
 longitude: 6.09747
 images:
-  - "/images-sites/kongressdenkmal/01-b2d8d8f9-800w.webp"
+  - "/images/kongressdenkmal/01-b2d8d8f9-800w.webp"
 ---
 
 ## Overview

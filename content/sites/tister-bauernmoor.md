@@ -13,7 +13,7 @@ regions:
 latitude: 53.2684
 longitude: 9.57077
 images:
-  - "/images-sites/tister-bauernmoor/01-1aebffc9-800w.webp"
+  - "/images/tister-bauernmoor/01-1aebffc9-800w.webp"
 ---
 
 ## Overview

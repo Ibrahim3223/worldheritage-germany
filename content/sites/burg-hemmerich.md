@@ -1,29 +1,49 @@
 ---
-title: "Burg Hemmerich"
+title: Burg Hemmerich
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.762
 longitude: 6.92997
-
-# Images
 images:
-  - "/images-sites/burg-hemmerich/01-96927f98-800w.webp"
-  - "/images-sites/burg-hemmerich/02-58be1d0b-800w.webp"
-  - "/images-sites/burg-hemmerich/03-6417fdbc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Hemmerich,_Bornheim_001.JPG/1200px-Burg_Hemmerich,_Bornheim_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/1200px-Burg_Hemmerich,_Bornheim_007-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hemmerich,_Bornheim_013.JPG/1200px-Burg_Hemmerich,_Bornheim_013.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hemmerich_Schlossruine.jpg/1200px-Hemmerich_Schlossruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg-Bornheim-Hemmerich-021.JPG/1200px-Burg-Bornheim-Hemmerich-021.JPG
+image_srcset:
+  Burg Hemmerich, Bornheim 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Hemmerich,_Bornheim_001.JPG/400px-Burg_Hemmerich,_Bornheim_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Hemmerich,_Bornheim_001.JPG/800px-Burg_Hemmerich,_Bornheim_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Hemmerich,_Bornheim_001.JPG/1200px-Burg_Hemmerich,_Bornheim_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_Hemmerich,_Bornheim_001.JPG/1920px-Burg_Hemmerich,_Bornheim_001.JPG
+  Burg Hemmerich, Bornheim 007-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/400px-Burg_Hemmerich,_Bornheim_007-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/800px-Burg_Hemmerich,_Bornheim_007-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/1200px-Burg_Hemmerich,_Bornheim_007-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burg_Hemmerich,_Bornheim_007-.jpg/1920px-Burg_Hemmerich,_Bornheim_007-.jpg
+  Burg Hemmerich, Bornheim 013.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hemmerich,_Bornheim_013.JPG/400px-Burg_Hemmerich,_Bornheim_013.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hemmerich,_Bornheim_013.JPG/800px-Burg_Hemmerich,_Bornheim_013.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hemmerich,_Bornheim_013.JPG/1200px-Burg_Hemmerich,_Bornheim_013.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hemmerich,_Bornheim_013.JPG/1920px-Burg_Hemmerich,_Bornheim_013.JPG
+  Hemmerich Schlossruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hemmerich_Schlossruine.jpg/400px-Hemmerich_Schlossruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hemmerich_Schlossruine.jpg/800px-Hemmerich_Schlossruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hemmerich_Schlossruine.jpg/1200px-Hemmerich_Schlossruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hemmerich_Schlossruine.jpg/1920px-Hemmerich_Schlossruine.jpg
+  Burg-Bornheim-Hemmerich-021.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg-Bornheim-Hemmerich-021.JPG/400px-Burg-Bornheim-Hemmerich-021.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg-Bornheim-Hemmerich-021.JPG/800px-Burg-Bornheim-Hemmerich-021.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg-Bornheim-Hemmerich-021.JPG/1200px-Burg-Bornheim-Hemmerich-021.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg-Bornheim-Hemmerich-021.JPG/1920px-Burg-Bornheim-Hemmerich-021.JPG
 ---
 
 ## Overview

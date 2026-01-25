@@ -13,7 +13,7 @@ regions:
 latitude: 52.243611111
 longitude: 14.050833333
 images:
-  - "/images-sites/scharmuetzelsee/01-a43cf1b6-800w.webp"
+  - "/images/scharmuetzelsee/01-a43cf1b6-800w.webp"
 ---
 
 ## Overview

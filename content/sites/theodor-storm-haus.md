@@ -13,9 +13,9 @@ regions:
 latitude: 54.4757
 longitude: 9.04766
 images:
-  - "/images-sites/theodor-storm-haus/01-8afd8464-800w.webp"
-  - "/images-sites/theodor-storm-haus/02-8332832b-800w.webp"
-  - "/images-sites/theodor-storm-haus/03-4de6ea3a-800w.webp"
+  - "/images/theodor-storm-haus/01-8afd8464-800w.webp"
+  - "/images/theodor-storm-haus/02-8332832b-800w.webp"
+  - "/images/theodor-storm-haus/03-4de6ea3a-800w.webp"
 ---
 
 ## Overview

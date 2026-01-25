@@ -13,9 +13,9 @@ regions:
 latitude: 52.526666666
 longitude: 13.433888888
 images:
-  - "/images-sites/volkspark-friedrichshain/01-89fcd6ef-800w.webp"
-  - "/images-sites/volkspark-friedrichshain/02-7be128bf-800w.webp"
-  - "/images-sites/volkspark-friedrichshain/03-2160bbd6-800w.webp"
+  - "/images/volkspark-friedrichshain/01-89fcd6ef-800w.webp"
+  - "/images/volkspark-friedrichshain/02-7be128bf-800w.webp"
+  - "/images/volkspark-friedrichshain/03-2160bbd6-800w.webp"
 ---
 
 ## Overview

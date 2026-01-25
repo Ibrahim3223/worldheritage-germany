@@ -13,7 +13,7 @@ regions:
 latitude: 49.0199
 longitude: 12.1032
 images:
-  - "/images-sites/museum-der-bayerischen-geschichte/01-1080cd1a-800w.webp"
+  - "/images/museum-der-bayerischen-geschichte/01-1080cd1a-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Augsburg State and Municipal Library"
+title: Augsburg State and Municipal Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3695
 longitude: 10.8906
 images:
-  - "/images-sites/augsburg-state-and-municipal-library/01-984b38e1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1200px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg/1200px-Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bibliotheksgebäude_-_2022-06-03_-_654b.jpg/1200px-Bibliotheksgebäude_-_2022-06-03_-_654b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bibliotheksgebäude_-_2022-06-03_-_649c.jpg/1200px-Bibliotheksgebäude_-_2022-06-03_-_649c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Augsburg_Staatsbibliothek_Frontseite.jpg/1200px-Augsburg_Staatsbibliothek_Frontseite.jpg
+image_srcset:
+  Stadt- und Staatsbibliothek Augsburg Vorderfront 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/400px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/800px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1200px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg/1920px-Stadt-_und_Staatsbibliothek_Augsburg_Vorderfront_3.jpg
+  Bibliotheksgebäude Fassadendetails - 2022-06-03 - 643d.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg/400px-Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg/800px-Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg/1200px-Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg/1920px-Bibliotheksgebäude_Fassadendetails_-_2022-06-03_-_643d.jpg
+  Bibliotheksgebäude - 2022-06-03 - 654b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bibliotheksgebäude_-_2022-06-03_-_654b.jpg/400px-Bibliotheksgebäude_-_2022-06-03_-_654b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bibliotheksgebäude_-_2022-06-03_-_654b.jpg/800px-Bibliotheksgebäude_-_2022-06-03_-_654b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bibliotheksgebäude_-_2022-06-03_-_654b.jpg/1200px-Bibliotheksgebäude_-_2022-06-03_-_654b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bibliotheksgebäude_-_2022-06-03_-_654b.jpg/1920px-Bibliotheksgebäude_-_2022-06-03_-_654b.jpg
+  Bibliotheksgebäude - 2022-06-03 - 649c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bibliotheksgebäude_-_2022-06-03_-_649c.jpg/400px-Bibliotheksgebäude_-_2022-06-03_-_649c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bibliotheksgebäude_-_2022-06-03_-_649c.jpg/800px-Bibliotheksgebäude_-_2022-06-03_-_649c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bibliotheksgebäude_-_2022-06-03_-_649c.jpg/1200px-Bibliotheksgebäude_-_2022-06-03_-_649c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bibliotheksgebäude_-_2022-06-03_-_649c.jpg/1920px-Bibliotheksgebäude_-_2022-06-03_-_649c.jpg
+  Augsburg Staatsbibliothek Frontseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Augsburg_Staatsbibliothek_Frontseite.jpg/400px-Augsburg_Staatsbibliothek_Frontseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Augsburg_Staatsbibliothek_Frontseite.jpg/800px-Augsburg_Staatsbibliothek_Frontseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Augsburg_Staatsbibliothek_Frontseite.jpg/1200px-Augsburg_Staatsbibliothek_Frontseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Augsburg_Staatsbibliothek_Frontseite.jpg/1920px-Augsburg_Staatsbibliothek_Frontseite.jpg
 ---
 
 ## Overview

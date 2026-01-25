@@ -13,9 +13,9 @@ regions:
 latitude: 52.5061
 longitude: 13.3342
 images:
-  - "/images-sites/zoo-palast/01-6189f559-800w.webp"
-  - "/images-sites/zoo-palast/02-6475651c-800w.webp"
-  - "/images-sites/zoo-palast/03-1142182f-800w.webp"
+  - "/images/zoo-palast/01-6189f559-800w.webp"
+  - "/images/zoo-palast/02-6475651c-800w.webp"
+  - "/images/zoo-palast/03-1142182f-800w.webp"
 ---
 
 ## Overview

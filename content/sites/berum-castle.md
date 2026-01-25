@@ -1,27 +1,43 @@
 ---
-title: "Berum Castle"
+title: Berum Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.6014
 longitude: 7.2973
-
-# Images
 images:
-  - "/images-sites/berum-castle/01-327c9a81-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Berum-msu-2021-210-4738.jpg/1200px-Burg_Berum-msu-2021-210-4738.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Burg_berum_vorburg.jpg/1200px-Burg_berum_vorburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_berum_vorburg1.jpg/1200px-Burg_berum_vorburg1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berum_(Hage)_05.JPG/1200px-Burg_Berum_(Hage)_05.JPG
+image_srcset:
+  Burg Berum-msu-2021-210-4738.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Berum-msu-2021-210-4738.jpg/400px-Burg_Berum-msu-2021-210-4738.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Berum-msu-2021-210-4738.jpg/800px-Burg_Berum-msu-2021-210-4738.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Berum-msu-2021-210-4738.jpg/1200px-Burg_Berum-msu-2021-210-4738.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Berum-msu-2021-210-4738.jpg/1920px-Burg_Berum-msu-2021-210-4738.jpg
+  Burg berum vorburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Burg_berum_vorburg.jpg/400px-Burg_berum_vorburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Burg_berum_vorburg.jpg/800px-Burg_berum_vorburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Burg_berum_vorburg.jpg/1200px-Burg_berum_vorburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Burg_berum_vorburg.jpg/1920px-Burg_berum_vorburg.jpg
+  Burg berum vorburg1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_berum_vorburg1.jpg/400px-Burg_berum_vorburg1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_berum_vorburg1.jpg/800px-Burg_berum_vorburg1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_berum_vorburg1.jpg/1200px-Burg_berum_vorburg1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Burg_berum_vorburg1.jpg/1920px-Burg_berum_vorburg1.jpg
+  Burg Berum (Hage) 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berum_(Hage)_05.JPG/400px-Burg_Berum_(Hage)_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berum_(Hage)_05.JPG/800px-Burg_Berum_(Hage)_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berum_(Hage)_05.JPG/1200px-Burg_Berum_(Hage)_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burg_Berum_(Hage)_05.JPG/1920px-Burg_Berum_(Hage)_05.JPG
 ---
 
 ## Overview

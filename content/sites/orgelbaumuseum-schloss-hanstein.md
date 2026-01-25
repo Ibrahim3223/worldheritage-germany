@@ -13,7 +13,7 @@ regions:
 latitude: 50.4586
 longitude: 10.235
 images:
-  - "/images-sites/orgelbaumuseum-schloss-hanstein/01-68df9620-800w.webp"
+  - "/images/orgelbaumuseum-schloss-hanstein/01-68df9620-800w.webp"
 ---
 
 ## Overview

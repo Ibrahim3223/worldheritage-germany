@@ -16,7 +16,7 @@ categories:
 wikidata_id: "Q205402"
 description: "In the heart of Düsseldorf, Zionskirche stands as a striking example of brutalist architecture, capturing the attention of both locals and visitors alik..."
 images:
-  - "/images-sites/zionskirche-dusseldorf/satellite-1920w.webp"
+  - "/images/zionskirche-dusseldorf/satellite-1920w.webp"
 ---
 
 ## Overview

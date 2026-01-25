@@ -1,23 +1,38 @@
 ---
-title: "Drostei"
-site_name: "Drostei"
-slug: "drostei"
-region: "Hamburg"
-
-# Location
+title: Drostei
+site_name: Drostei
+slug: drostei
+region: Hamburg
 latitude: 53.6608
 longitude: 9.79667
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1260605"
-description: "The Drostei, an architectural jewel located in Pinneberg, Germany, is a striking example of Rococo design that has captured the attention of both histor..."
+- cultural site
+wikidata_id: Q1260605
+description: The Drostei, an architectural jewel located in Pinneberg, Germany, is
+  a striking example of Rococo design that has captured the attention of both histor...
 images:
-  - "/images-sites/drostei/01-5eef9627-1920w.webp"
-  - "/images-sites/drostei/02-3f30ab12-1920w.webp"
-  - "/images-sites/drostei/03-a5275ef7-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pinneberg-drostei.jpg/1200px-Pinneberg-drostei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pinneberg%20Drostei%201.jpg/1200px-Pinneberg%20Drostei%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Die_Drostei_-_Pinneberg.jpg/1200px-Die_Drostei_-_Pinneberg.jpg
+image_srcset:
+  Pinneberg-drostei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pinneberg-drostei.jpg/400px-Pinneberg-drostei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pinneberg-drostei.jpg/800px-Pinneberg-drostei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pinneberg-drostei.jpg/1200px-Pinneberg-drostei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pinneberg-drostei.jpg/1920px-Pinneberg-drostei.jpg
+  Pinneberg%20Drostei%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pinneberg%20Drostei%201.jpg/400px-Pinneberg%20Drostei%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pinneberg%20Drostei%201.jpg/800px-Pinneberg%20Drostei%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pinneberg%20Drostei%201.jpg/1200px-Pinneberg%20Drostei%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pinneberg%20Drostei%201.jpg/1920px-Pinneberg%20Drostei%201.jpg
+  Die Drostei - Pinneberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Die_Drostei_-_Pinneberg.jpg/400px-Die_Drostei_-_Pinneberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Die_Drostei_-_Pinneberg.jpg/800px-Die_Drostei_-_Pinneberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Die_Drostei_-_Pinneberg.jpg/1200px-Die_Drostei_-_Pinneberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Die_Drostei_-_Pinneberg.jpg/1920px-Die_Drostei_-_Pinneberg.jpg
 ---
 
 ## Overview

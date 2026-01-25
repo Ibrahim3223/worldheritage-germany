@@ -13,7 +13,7 @@ regions:
 latitude: 52.485166666
 longitude: 13.311
 images:
-  - "/images-sites/wilmersdorf-cemetery/01-1248beb1-800w.webp"
+  - "/images/wilmersdorf-cemetery/01-1248beb1-800w.webp"
 ---
 
 ## Overview

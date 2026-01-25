@@ -1,19 +1,49 @@
 ---
-title: "Kaiserslautern Hauptbahnhof"
+title: Kaiserslautern Hauptbahnhof
 date: 2026-01-23
 draft: false
-description: "railway station in Kaiserslautern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Kaiserslautern, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4359
 longitude: 7.76882
 images:
-  - "/images-sites/kaiserslautern-hauptbahnhof/01-17f793ca-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/643_524_628_477_Kaiserslautern_Hbf.jpg/1200px-643_524_628_477_Kaiserslautern_Hbf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/928_441_Kaiserslautern.jpg/1200px-928_441_Kaiserslautern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bahnhof_Kaiserslautern-2.jpg/1200px-Bahnhof_Kaiserslautern-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bahnhof_Kaiserslautern.jpg/1200px-Bahnhof_Kaiserslautern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/02.04.93_Kaiserslautern_Hbf_212099.jpg/1200px-02.04.93_Kaiserslautern_Hbf_212099.jpg
+image_srcset:
+  643 524 628 477 Kaiserslautern Hbf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/643_524_628_477_Kaiserslautern_Hbf.jpg/400px-643_524_628_477_Kaiserslautern_Hbf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/643_524_628_477_Kaiserslautern_Hbf.jpg/800px-643_524_628_477_Kaiserslautern_Hbf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/643_524_628_477_Kaiserslautern_Hbf.jpg/1200px-643_524_628_477_Kaiserslautern_Hbf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/643_524_628_477_Kaiserslautern_Hbf.jpg/1920px-643_524_628_477_Kaiserslautern_Hbf.jpg
+  928 441 Kaiserslautern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/928_441_Kaiserslautern.jpg/400px-928_441_Kaiserslautern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/928_441_Kaiserslautern.jpg/800px-928_441_Kaiserslautern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/928_441_Kaiserslautern.jpg/1200px-928_441_Kaiserslautern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/928_441_Kaiserslautern.jpg/1920px-928_441_Kaiserslautern.jpg
+  Bahnhof Kaiserslautern-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bahnhof_Kaiserslautern-2.jpg/400px-Bahnhof_Kaiserslautern-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bahnhof_Kaiserslautern-2.jpg/800px-Bahnhof_Kaiserslautern-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bahnhof_Kaiserslautern-2.jpg/1200px-Bahnhof_Kaiserslautern-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bahnhof_Kaiserslautern-2.jpg/1920px-Bahnhof_Kaiserslautern-2.jpg
+  Bahnhof Kaiserslautern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bahnhof_Kaiserslautern.jpg/400px-Bahnhof_Kaiserslautern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bahnhof_Kaiserslautern.jpg/800px-Bahnhof_Kaiserslautern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bahnhof_Kaiserslautern.jpg/1200px-Bahnhof_Kaiserslautern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bahnhof_Kaiserslautern.jpg/1920px-Bahnhof_Kaiserslautern.jpg
+  02.04.93 Kaiserslautern Hbf 212099.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/02.04.93_Kaiserslautern_Hbf_212099.jpg/400px-02.04.93_Kaiserslautern_Hbf_212099.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/02.04.93_Kaiserslautern_Hbf_212099.jpg/800px-02.04.93_Kaiserslautern_Hbf_212099.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/02.04.93_Kaiserslautern_Hbf_212099.jpg/1200px-02.04.93_Kaiserslautern_Hbf_212099.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/02.04.93_Kaiserslautern_Hbf_212099.jpg/1920px-02.04.93_Kaiserslautern_Hbf_212099.jpg
 ---
 
 ## Overview

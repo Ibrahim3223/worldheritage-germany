@@ -1,19 +1,49 @@
 ---
-title: "Funtensee"
+title: Funtensee
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.493611111
 longitude: 12.939166666
 images:
-  - "/images-sites/funtensee/01-f42a14c5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kärlingerhaus_Funtensee.jpg/1200px-Kärlingerhaus_Funtensee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg/1200px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/1200px-Funtensee_Hundstod.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg/1200px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1200px-Funtensee.jpg
+image_srcset:
+  Kärlingerhaus Funtensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kärlingerhaus_Funtensee.jpg/400px-Kärlingerhaus_Funtensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kärlingerhaus_Funtensee.jpg/800px-Kärlingerhaus_Funtensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kärlingerhaus_Funtensee.jpg/1200px-Kärlingerhaus_Funtensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kärlingerhaus_Funtensee.jpg/1920px-Kärlingerhaus_Funtensee.jpg
+  Funtensee vom Kärlingerhaus mit Schottmalhorn 2015-07 (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg/400px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg/800px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg/1200px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg/1920px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(5).jpg
+  Funtensee Hundstod.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/400px-Funtensee_Hundstod.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/800px-Funtensee_Hundstod.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/1200px-Funtensee_Hundstod.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Funtensee_Hundstod.jpg/1920px-Funtensee_Hundstod.jpg
+  Funtensee vom Kärlingerhaus mit Schottmalhorn 2015-07 (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg/400px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg/800px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg/1200px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg/1920px-Funtensee_vom_Kärlingerhaus_mit_Schottmalhorn_2015-07_(1).jpg
+  Funtensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/400px-Funtensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/800px-Funtensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1200px-Funtensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Funtensee.jpg/1920px-Funtensee.jpg
 ---
 
 ## Overview

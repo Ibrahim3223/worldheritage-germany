@@ -1,19 +1,49 @@
 ---
-title: "Burg Denstedt"
+title: Burg Denstedt
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0008
 longitude: 11.3824
 images:
-  - "/images-sites/burg-denstedt/01-64a98a9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg/1200px-19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Denstedt_2.jpg/1200px-Burg_Denstedt_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Denstedt.jpg/1200px-Burg_Denstedt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denstedt_1988-06-19_11.jpg/1200px-Denstedt_1988-06-19_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Denstedt_1988-06-19_12.jpg/1200px-Denstedt_1988-06-19_12.jpg
+image_srcset:
+  19880412305NR Denstedt (Kromsdorf) Burg bzw Altes Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg/400px-19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg/800px-19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg/1200px-19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg/1920px-19880412305NR_Denstedt_(Kromsdorf)_Burg_bzw_Altes_Schloß.jpg
+  Burg Denstedt 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Denstedt_2.jpg/400px-Burg_Denstedt_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Denstedt_2.jpg/800px-Burg_Denstedt_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Denstedt_2.jpg/1200px-Burg_Denstedt_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg_Denstedt_2.jpg/1920px-Burg_Denstedt_2.jpg
+  Burg Denstedt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Denstedt.jpg/400px-Burg_Denstedt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Denstedt.jpg/800px-Burg_Denstedt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Denstedt.jpg/1200px-Burg_Denstedt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burg_Denstedt.jpg/1920px-Burg_Denstedt.jpg
+  Denstedt 1988-06-19 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denstedt_1988-06-19_11.jpg/400px-Denstedt_1988-06-19_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denstedt_1988-06-19_11.jpg/800px-Denstedt_1988-06-19_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denstedt_1988-06-19_11.jpg/1200px-Denstedt_1988-06-19_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denstedt_1988-06-19_11.jpg/1920px-Denstedt_1988-06-19_11.jpg
+  Denstedt 1988-06-19 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Denstedt_1988-06-19_12.jpg/400px-Denstedt_1988-06-19_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Denstedt_1988-06-19_12.jpg/800px-Denstedt_1988-06-19_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Denstedt_1988-06-19_12.jpg/1200px-Denstedt_1988-06-19_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Denstedt_1988-06-19_12.jpg/1920px-Denstedt_1988-06-19_12.jpg
 ---
 
 ## Overview

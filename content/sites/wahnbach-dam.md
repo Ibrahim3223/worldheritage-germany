@@ -13,7 +13,7 @@ regions:
 latitude: 50.8047
 longitude: 7.28417
 images:
-  - "/images-sites/wahnbach-dam/01-56cbcace-800w.webp"
+  - "/images/wahnbach-dam/01-56cbcace-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Heinrich Heine monument"
+title: Heinrich Heine monument
 date: 2026-01-23
 draft: false
-description: "sculpture in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: sculpture in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 51.21938
 longitude: 6.77334
 images:
-  - "/images-sites/heinrich-heine-monument/01-eec94765-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg/1200px-Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Düsseldorf_(DerHexer)_2010-08-13_229.jpg/1200px-Düsseldorf_(DerHexer)_2010-08-13_229.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Heine-Denkmal_B._Gerresheim_01.jpg/1200px-Heine-Denkmal_B._Gerresheim_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Heinrich-Heine-Monument_-_panoramio.jpg/1200px-Heinrich-Heine-Monument_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeineMonument.jpg/1200px-HeineMonument.jpg
+image_srcset:
+  Düsseldorf, Heinrich-Heine-Denkmal -- 2015 -- 8223.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg/400px-Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg/800px-Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg/1200px-Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg/1920px-Düsseldorf,_Heinrich-Heine-Denkmal_--_2015_--_8223.jpg
+  Düsseldorf (DerHexer) 2010-08-13 229.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Düsseldorf_(DerHexer)_2010-08-13_229.jpg/400px-Düsseldorf_(DerHexer)_2010-08-13_229.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Düsseldorf_(DerHexer)_2010-08-13_229.jpg/800px-Düsseldorf_(DerHexer)_2010-08-13_229.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Düsseldorf_(DerHexer)_2010-08-13_229.jpg/1200px-Düsseldorf_(DerHexer)_2010-08-13_229.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Düsseldorf_(DerHexer)_2010-08-13_229.jpg/1920px-Düsseldorf_(DerHexer)_2010-08-13_229.jpg
+  Heine-Denkmal B. Gerresheim 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Heine-Denkmal_B._Gerresheim_01.jpg/400px-Heine-Denkmal_B._Gerresheim_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Heine-Denkmal_B._Gerresheim_01.jpg/800px-Heine-Denkmal_B._Gerresheim_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Heine-Denkmal_B._Gerresheim_01.jpg/1200px-Heine-Denkmal_B._Gerresheim_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Heine-Denkmal_B._Gerresheim_01.jpg/1920px-Heine-Denkmal_B._Gerresheim_01.jpg
+  Heinrich-Heine-Monument - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Heinrich-Heine-Monument_-_panoramio.jpg/400px-Heinrich-Heine-Monument_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Heinrich-Heine-Monument_-_panoramio.jpg/800px-Heinrich-Heine-Monument_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Heinrich-Heine-Monument_-_panoramio.jpg/1200px-Heinrich-Heine-Monument_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Heinrich-Heine-Monument_-_panoramio.jpg/1920px-Heinrich-Heine-Monument_-_panoramio.jpg
+  HeineMonument.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeineMonument.jpg/400px-HeineMonument.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeineMonument.jpg/800px-HeineMonument.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeineMonument.jpg/1200px-HeineMonument.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/HeineMonument.jpg/1920px-HeineMonument.jpg
 ---
 
 ## Overview

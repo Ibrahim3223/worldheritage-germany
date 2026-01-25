@@ -1,19 +1,49 @@
 ---
-title: "Garden of Steinhausstraße 72"
+title: Garden of Steinhausstraße 72
 date: 2026-01-23
 draft: false
-description: "garden in Bunde, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Garden"
+description: garden in Bunde, Germany
+region: Germany
+country: Germany
+heritage_type: Garden
 categories:
-  - "Garden"
+- Garden
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1995
 longitude: 7.28304
 images:
-  - "/images-sites/garden-of-steinhausstrasse-72/01-79785a8a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bunderhee.Tammen.JPG/1200px-Bunderhee.Tammen.JPG
+image_srcset:
+  Bunde - Steinhausstraße - 72 - Hausgarten 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg/400px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg/800px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg/1920px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_04_ies.jpg
+  Bunde - Steinhausstraße - 72 - Hausgarten 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg/400px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg/800px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg/1920px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_05_ies.jpg
+  Bunde - Steinhausstraße - 72 - Hausgarten 06 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg/400px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg/800px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg/1920px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_06_ies.jpg
+  Bunde - Steinhausstraße - 72 - Hausgarten 07 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg/400px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg/800px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg/1200px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg/1920px-Bunde_-_Steinhausstraße_-_72_-_Hausgarten_07_ies.jpg
+  Bunderhee.Tammen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bunderhee.Tammen.JPG/400px-Bunderhee.Tammen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bunderhee.Tammen.JPG/800px-Bunderhee.Tammen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bunderhee.Tammen.JPG/1200px-Bunderhee.Tammen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bunderhee.Tammen.JPG/1920px-Bunderhee.Tammen.JPG
 ---
 
 ## Overview

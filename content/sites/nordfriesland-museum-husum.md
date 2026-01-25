@@ -13,7 +13,7 @@ regions:
 latitude: 54.47521
 longitude: 9.05606
 images:
-  - "/images-sites/nordfriesland-museum-husum/01-ed6fa592-800w.webp"
+  - "/images/nordfriesland-museum-husum/01-ed6fa592-800w.webp"
 ---
 
 ## Overview

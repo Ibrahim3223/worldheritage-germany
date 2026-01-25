@@ -1,19 +1,49 @@
 ---
-title: "Freimann Mosque"
+title: Freimann Mosque
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 48.2103
 longitude: 11.6342
 images:
-  - "/images-sites/freimann-mosque/01-0acff513-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20200228_Freimann_Moschee.jpg/1200px-20200228_Freimann_Moschee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Islamisches_Zentrum_München.JPG/1200px-Islamisches_Zentrum_München.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1200px-Moschee_Freimann_Rückansicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1200px-Moschee_Freimann.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gebetsaal.JPG/1200px-Gebetsaal.JPG
+image_srcset:
+  20200228 Freimann Moschee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20200228_Freimann_Moschee.jpg/400px-20200228_Freimann_Moschee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20200228_Freimann_Moschee.jpg/800px-20200228_Freimann_Moschee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20200228_Freimann_Moschee.jpg/1200px-20200228_Freimann_Moschee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20200228_Freimann_Moschee.jpg/1920px-20200228_Freimann_Moschee.jpg
+  Islamisches Zentrum München.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Islamisches_Zentrum_München.JPG/400px-Islamisches_Zentrum_München.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Islamisches_Zentrum_München.JPG/800px-Islamisches_Zentrum_München.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Islamisches_Zentrum_München.JPG/1200px-Islamisches_Zentrum_München.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Islamisches_Zentrum_München.JPG/1920px-Islamisches_Zentrum_München.JPG
+  Moschee Freimann Rückansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/400px-Moschee_Freimann_Rückansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/800px-Moschee_Freimann_Rückansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1200px-Moschee_Freimann_Rückansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Moschee_Freimann_Rückansicht.JPG/1920px-Moschee_Freimann_Rückansicht.JPG
+  Moschee Freimann.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/400px-Moschee_Freimann.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/800px-Moschee_Freimann.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1200px-Moschee_Freimann.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Moschee_Freimann.JPG/1920px-Moschee_Freimann.JPG
+  Gebetsaal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gebetsaal.JPG/400px-Gebetsaal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gebetsaal.JPG/800px-Gebetsaal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gebetsaal.JPG/1200px-Gebetsaal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gebetsaal.JPG/1920px-Gebetsaal.JPG
 ---
 
 ## Overview

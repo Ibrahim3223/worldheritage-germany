@@ -1,19 +1,49 @@
 ---
-title: "Fernmeldeturm Lamstedt"
+title: Fernmeldeturm Lamstedt
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6651
 longitude: 9.11073
 images:
-  - "/images-sites/fernmeldeturm-lamstedt/01-6a7ad96a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Funktoorn_Loomst_01.jpg/1200px-Funktoorn_Loomst_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Funktoorn_Loomst_02.jpg/1200px-Funktoorn_Loomst_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lamstedt_08_(RaBoe).jpg/1200px-Lamstedt_08_(RaBoe).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/1200px-Lamstedt_Funkturm_01_(RaBoe).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamstedt_06_(RaBoe).jpg/1200px-Lamstedt_06_(RaBoe).jpg
+image_srcset:
+  Funktoorn Loomst 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Funktoorn_Loomst_01.jpg/400px-Funktoorn_Loomst_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Funktoorn_Loomst_01.jpg/800px-Funktoorn_Loomst_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Funktoorn_Loomst_01.jpg/1200px-Funktoorn_Loomst_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Funktoorn_Loomst_01.jpg/1920px-Funktoorn_Loomst_01.jpg
+  Funktoorn Loomst 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Funktoorn_Loomst_02.jpg/400px-Funktoorn_Loomst_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Funktoorn_Loomst_02.jpg/800px-Funktoorn_Loomst_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Funktoorn_Loomst_02.jpg/1200px-Funktoorn_Loomst_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Funktoorn_Loomst_02.jpg/1920px-Funktoorn_Loomst_02.jpg
+  Lamstedt 08 (RaBoe).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lamstedt_08_(RaBoe).jpg/400px-Lamstedt_08_(RaBoe).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lamstedt_08_(RaBoe).jpg/800px-Lamstedt_08_(RaBoe).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lamstedt_08_(RaBoe).jpg/1200px-Lamstedt_08_(RaBoe).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lamstedt_08_(RaBoe).jpg/1920px-Lamstedt_08_(RaBoe).jpg
+  Lamstedt Funkturm 01 (RaBoe).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/400px-Lamstedt_Funkturm_01_(RaBoe).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/800px-Lamstedt_Funkturm_01_(RaBoe).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/1200px-Lamstedt_Funkturm_01_(RaBoe).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lamstedt_Funkturm_01_(RaBoe).jpg/1920px-Lamstedt_Funkturm_01_(RaBoe).jpg
+  Lamstedt 06 (RaBoe).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamstedt_06_(RaBoe).jpg/400px-Lamstedt_06_(RaBoe).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamstedt_06_(RaBoe).jpg/800px-Lamstedt_06_(RaBoe).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamstedt_06_(RaBoe).jpg/1200px-Lamstedt_06_(RaBoe).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamstedt_06_(RaBoe).jpg/1920px-Lamstedt_06_(RaBoe).jpg
 ---
 
 ## Overview

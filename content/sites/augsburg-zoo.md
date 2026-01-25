@@ -1,21 +1,49 @@
 ---
-title: "Augsburg Zoo"
+title: Augsburg Zoo
 date: 2026-01-24
 draft: false
-description: "zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3478
 longitude: 10.9144
 images:
-  - "/images-sites/augsburg-zoo/01-2cbd032c-800w.webp"
-  - "/images-sites/augsburg-zoo/02-1bafead6-800w.webp"
-  - "/images-sites/augsburg-zoo/03-ca125750-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg/1200px-Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg/1200px-Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bengaltiger_im_Zoo_Augsburg.jpg/1200px-Bengaltiger_im_Zoo_Augsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/1200px-Augsburg_Zoo_entry.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zoo_Augsburg_Infotafel.JPG/1200px-Zoo_Augsburg_Infotafel.JPG
+image_srcset:
+  Molukkensegelechse Hydrosaurus weberi Zoo Augsburg-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg/400px-Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg/800px-Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg/1200px-Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg/1920px-Molukkensegelechse_Hydrosaurus_weberi_Zoo_Augsburg-01.jpg
+  Grevyzebra Equus grevyi Zoo Augsburg-15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg/400px-Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg/800px-Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg/1200px-Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg/1920px-Grevyzebra_Equus_grevyi_Zoo_Augsburg-15.jpg
+  Bengaltiger im Zoo Augsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bengaltiger_im_Zoo_Augsburg.jpg/400px-Bengaltiger_im_Zoo_Augsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bengaltiger_im_Zoo_Augsburg.jpg/800px-Bengaltiger_im_Zoo_Augsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bengaltiger_im_Zoo_Augsburg.jpg/1200px-Bengaltiger_im_Zoo_Augsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bengaltiger_im_Zoo_Augsburg.jpg/1920px-Bengaltiger_im_Zoo_Augsburg.jpg
+  Augsburg Zoo entry.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/400px-Augsburg_Zoo_entry.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/800px-Augsburg_Zoo_entry.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/1200px-Augsburg_Zoo_entry.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Augsburg_Zoo_entry.jpg/1920px-Augsburg_Zoo_entry.jpg
+  Zoo Augsburg Infotafel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zoo_Augsburg_Infotafel.JPG/400px-Zoo_Augsburg_Infotafel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zoo_Augsburg_Infotafel.JPG/800px-Zoo_Augsburg_Infotafel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zoo_Augsburg_Infotafel.JPG/1200px-Zoo_Augsburg_Infotafel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Zoo_Augsburg_Infotafel.JPG/1920px-Zoo_Augsburg_Infotafel.JPG
 ---
 
 ## Overview

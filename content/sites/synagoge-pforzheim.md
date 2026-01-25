@@ -13,8 +13,8 @@ regions:
 latitude: 48.8907
 longitude: 8.69572
 images:
-  - "/images-sites/synagoge-pforzheim/02-7e825734-800w.webp"
-  - "/images-sites/synagoge-pforzheim/03-9132e4ec-800w.webp"
+  - "/images/synagoge-pforzheim/02-7e825734-800w.webp"
+  - "/images/synagoge-pforzheim/03-9132e4ec-800w.webp"
 ---
 
 ## Overview

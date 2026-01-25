@@ -13,7 +13,7 @@ regions:
 latitude: 49.0192
 longitude: 12.0997
 images:
-  - "/images-sites/roemerturm/01-1a72174b-800w.webp"
+  - "/images/roemerturm/01-1a72174b-800w.webp"
 ---
 
 ## Overview

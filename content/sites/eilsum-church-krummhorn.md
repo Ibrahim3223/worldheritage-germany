@@ -1,22 +1,50 @@
 ---
-title: "Eilsum Church (Krummhörn)"
-site_name: "Eilsum Church (Krummhörn)"
-slug: "eilsum-church-krummhorn"
-region: "Lower Saxony"
-
-# Location
+title: Eilsum Church (Krummhörn)
+site_name: Eilsum Church (Krummhörn)
+slug: eilsum-church-krummhorn
+region: Lower Saxony
 latitude: 53.4726
 longitude: 7.13992
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q719347"
-description: "Eilsum Church, a notable church building located in the picturesque region of Krummhörn, Lower Saxony, Germany, invites visitors to explore its architec..."
+- cultural site
+wikidata_id: Q719347
+description: Eilsum Church, a notable church building located in the picturesque region
+  of Krummhörn, Lower Saxony, Germany, invites visitors to explore its architec...
 images:
-  - "/images-sites/eilsum-church-krummhorn/01-6065b984-1920w.webp"
-  - "/images-sites/eilsum-church-krummhorn/02-942ce569-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eilsum%20Kirche.JPG/1200px-Eilsum%20Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/J38_478_Kirche_Eilsum.jpg/1200px-J38_478_Kirche_Eilsum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/70528_Eilsum_Südwand_v_W.JPG/1200px-70528_Eilsum_Südwand_v_W.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/70566_Eilsum_re_v_Nordportal.JPG/1200px-70566_Eilsum_re_v_Nordportal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/1200px-Eilsum_Kirche.JPG
+image_srcset:
+  Eilsum%20Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eilsum%20Kirche.JPG/400px-Eilsum%20Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eilsum%20Kirche.JPG/800px-Eilsum%20Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eilsum%20Kirche.JPG/1200px-Eilsum%20Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eilsum%20Kirche.JPG/1920px-Eilsum%20Kirche.JPG
+  J38 478 Kirche Eilsum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/J38_478_Kirche_Eilsum.jpg/400px-J38_478_Kirche_Eilsum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/J38_478_Kirche_Eilsum.jpg/800px-J38_478_Kirche_Eilsum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/J38_478_Kirche_Eilsum.jpg/1200px-J38_478_Kirche_Eilsum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/J38_478_Kirche_Eilsum.jpg/1920px-J38_478_Kirche_Eilsum.jpg
+  70528 Eilsum Südwand v W.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/70528_Eilsum_Südwand_v_W.JPG/400px-70528_Eilsum_Südwand_v_W.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/70528_Eilsum_Südwand_v_W.JPG/800px-70528_Eilsum_Südwand_v_W.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/70528_Eilsum_Südwand_v_W.JPG/1200px-70528_Eilsum_Südwand_v_W.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/70528_Eilsum_Südwand_v_W.JPG/1920px-70528_Eilsum_Südwand_v_W.JPG
+  70566 Eilsum re v Nordportal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/70566_Eilsum_re_v_Nordportal.JPG/400px-70566_Eilsum_re_v_Nordportal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/70566_Eilsum_re_v_Nordportal.JPG/800px-70566_Eilsum_re_v_Nordportal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/70566_Eilsum_re_v_Nordportal.JPG/1200px-70566_Eilsum_re_v_Nordportal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/70566_Eilsum_re_v_Nordportal.JPG/1920px-70566_Eilsum_re_v_Nordportal.JPG
+  Eilsum Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/400px-Eilsum_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/800px-Eilsum_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/1200px-Eilsum_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eilsum_Kirche.JPG/1920px-Eilsum_Kirche.JPG
 ---
 
 ## Overview

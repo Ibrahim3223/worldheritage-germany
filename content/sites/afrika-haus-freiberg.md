@@ -1,19 +1,37 @@
 ---
-title: "Afrika-Haus Freiberg"
+title: Afrika-Haus Freiberg
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9378
 longitude: 9.17942
 images:
-  - "/images-sites/afrika-haus-freiberg/01-96dc5759-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AfrikahausFreibergInnenraum1.jpg/1200px-AfrikahausFreibergInnenraum1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/AfrikafestJamSession.jpg/1200px-AfrikafestJamSession.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1200px-AfrikahausFreiberg.jpg
+image_srcset:
+  AfrikahausFreibergInnenraum1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AfrikahausFreibergInnenraum1.jpg/400px-AfrikahausFreibergInnenraum1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AfrikahausFreibergInnenraum1.jpg/800px-AfrikahausFreibergInnenraum1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AfrikahausFreibergInnenraum1.jpg/1200px-AfrikahausFreibergInnenraum1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AfrikahausFreibergInnenraum1.jpg/1920px-AfrikahausFreibergInnenraum1.jpg
+  AfrikafestJamSession.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/AfrikafestJamSession.jpg/400px-AfrikafestJamSession.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/AfrikafestJamSession.jpg/800px-AfrikafestJamSession.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/AfrikafestJamSession.jpg/1200px-AfrikafestJamSession.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/AfrikafestJamSession.jpg/1920px-AfrikafestJamSession.jpg
+  AfrikahausFreiberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/400px-AfrikahausFreiberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/800px-AfrikahausFreiberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1200px-AfrikahausFreiberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/AfrikahausFreiberg.jpg/1920px-AfrikahausFreiberg.jpg
 ---
 
 ## Overview

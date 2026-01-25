@@ -13,7 +13,7 @@ regions:
 latitude: 48.145555555
 longitude: 11.565277777
 images:
-  - "/images-sites/koenigsplatz/01-10a737d4-800w.webp"
+  - "/images/koenigsplatz/01-10a737d4-800w.webp"
 ---
 
 ## Overview

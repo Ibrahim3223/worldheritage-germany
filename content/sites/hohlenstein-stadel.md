@@ -1,27 +1,49 @@
 ---
-title: "Hohlenstein-Stadel"
+title: Hohlenstein-Stadel
 date: 2026-01-23
 draft: false
-description: "cave in the Swabian Jura"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: cave in the Swabian Jura
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.5493
 longitude: 10.1724
-
-# Images
 images:
-  - "/images-sites/hohlenstein-stadel/01-df52f8af-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hohlenstein_(2021)-0002.jpg/1200px-Hohlenstein_(2021)-0002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg/1200px-Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Die_Hohlensteinhöhle_im_Lonetal.jpg/1200px-Die_Hohlensteinhöhle_im_Lonetal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/1200px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg/1200px-Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg
+image_srcset:
+  Hohlenstein (2021)-0002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hohlenstein_(2021)-0002.jpg/400px-Hohlenstein_(2021)-0002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hohlenstein_(2021)-0002.jpg/800px-Hohlenstein_(2021)-0002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hohlenstein_(2021)-0002.jpg/1200px-Hohlenstein_(2021)-0002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hohlenstein_(2021)-0002.jpg/1920px-Hohlenstein_(2021)-0002.jpg
+  Lonetal Hohlenstein,Fundort des Löwenmenschen vor 33TSD Jahren 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg/400px-Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg/800px-Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg/1200px-Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg/1920px-Lonetal_Hohlenstein,Fundort_des_Löwenmenschen_vor_33TSD_Jahren_02.jpg
+  Die Hohlensteinhöhle im Lonetal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Die_Hohlensteinhöhle_im_Lonetal.jpg/400px-Die_Hohlensteinhöhle_im_Lonetal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Die_Hohlensteinhöhle_im_Lonetal.jpg/800px-Die_Hohlensteinhöhle_im_Lonetal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Die_Hohlensteinhöhle_im_Lonetal.jpg/1200px-Die_Hohlensteinhöhle_im_Lonetal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Die_Hohlensteinhöhle_im_Lonetal.jpg/1920px-Die_Hohlensteinhöhle_im_Lonetal.jpg
+  Höhle Hohlenstein Hohlensteinstadel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/400px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/800px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/1200px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Höhle_Hohlenstein_Hohlensteinstadel.jpg/1920px-Höhle_Hohlenstein_Hohlensteinstadel.jpg
+  Landappbw 432420 1824 Höhle Hohlenstein-Stadel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg/400px-Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg/800px-Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg/1200px-Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg/1920px-Landappbw_432420_1824_Höhle_Hohlenstein-Stadel.jpg
 ---
 
 ## Overview

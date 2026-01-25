@@ -1,20 +1,49 @@
 ---
-title: "Docu Center Ramstein"
+title: Docu Center Ramstein
 date: 2026-01-23
 draft: false
-description: "Museum in Ramstein-Miesenbach"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Museum in Ramstein-Miesenbach
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.448331
 longitude: 7.566496
 images:
-  - "/images-sites/docu-center-ramstein/01-2e277fb5-800w.webp"
-  - "/images-sites/docu-center-ramstein/01-5e2532e1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Docu_Center_Ramstein_-_Container_2.jpg/1200px-Docu_Center_Ramstein_-_Container_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Docu_Center_Ramstein_-_Containerdorf.jpg/1200px-Docu_Center_Ramstein_-_Containerdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Docu_Center_Ramstein_-_Container_3.jpg/1200px-Docu_Center_Ramstein_-_Container_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Docu_Center_Ramstein_-_Container_1.jpg/1200px-Docu_Center_Ramstein_-_Container_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Docu_Center_Ramstein_-_Wachhaus.jpg/1200px-Docu_Center_Ramstein_-_Wachhaus.jpg
+image_srcset:
+  Docu Center Ramstein - Container 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Docu_Center_Ramstein_-_Container_2.jpg/400px-Docu_Center_Ramstein_-_Container_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Docu_Center_Ramstein_-_Container_2.jpg/800px-Docu_Center_Ramstein_-_Container_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Docu_Center_Ramstein_-_Container_2.jpg/1200px-Docu_Center_Ramstein_-_Container_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Docu_Center_Ramstein_-_Container_2.jpg/1920px-Docu_Center_Ramstein_-_Container_2.jpg
+  Docu Center Ramstein - Containerdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Docu_Center_Ramstein_-_Containerdorf.jpg/400px-Docu_Center_Ramstein_-_Containerdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Docu_Center_Ramstein_-_Containerdorf.jpg/800px-Docu_Center_Ramstein_-_Containerdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Docu_Center_Ramstein_-_Containerdorf.jpg/1200px-Docu_Center_Ramstein_-_Containerdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Docu_Center_Ramstein_-_Containerdorf.jpg/1920px-Docu_Center_Ramstein_-_Containerdorf.jpg
+  Docu Center Ramstein - Container 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Docu_Center_Ramstein_-_Container_3.jpg/400px-Docu_Center_Ramstein_-_Container_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Docu_Center_Ramstein_-_Container_3.jpg/800px-Docu_Center_Ramstein_-_Container_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Docu_Center_Ramstein_-_Container_3.jpg/1200px-Docu_Center_Ramstein_-_Container_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Docu_Center_Ramstein_-_Container_3.jpg/1920px-Docu_Center_Ramstein_-_Container_3.jpg
+  Docu Center Ramstein - Container 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Docu_Center_Ramstein_-_Container_1.jpg/400px-Docu_Center_Ramstein_-_Container_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Docu_Center_Ramstein_-_Container_1.jpg/800px-Docu_Center_Ramstein_-_Container_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Docu_Center_Ramstein_-_Container_1.jpg/1200px-Docu_Center_Ramstein_-_Container_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Docu_Center_Ramstein_-_Container_1.jpg/1920px-Docu_Center_Ramstein_-_Container_1.jpg
+  Docu Center Ramstein - Wachhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Docu_Center_Ramstein_-_Wachhaus.jpg/400px-Docu_Center_Ramstein_-_Wachhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Docu_Center_Ramstein_-_Wachhaus.jpg/800px-Docu_Center_Ramstein_-_Wachhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Docu_Center_Ramstein_-_Wachhaus.jpg/1200px-Docu_Center_Ramstein_-_Wachhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Docu_Center_Ramstein_-_Wachhaus.jpg/1920px-Docu_Center_Ramstein_-_Wachhaus.jpg
 ---
 
 ## Overview

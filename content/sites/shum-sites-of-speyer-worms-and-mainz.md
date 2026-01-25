@@ -13,7 +13,7 @@ regions:
 latitude: 49.316211
 longitude: 8.439539
 images:
-  - "/images-sites/shum-sites-of-speyer-worms-and-mainz/01-ca54ce3d-800w.webp"
+  - "/images/shum-sites-of-speyer-worms-and-mainz/01-ca54ce3d-800w.webp"
 ---
 
 ## Overview

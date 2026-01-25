@@ -1,24 +1,51 @@
 ---
-title: "Christus-Kirche"
-site_name: "Christus-Kirche"
-slug: "christus-kirche"
-region: "Berlin"
-
-# Location
+title: Christus-Kirche
+site_name: Christus-Kirche
+slug: christus-kirche
+region: Berlin
 latitude: 52.4946
 longitude: 13.3816
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q14541117"
-description: "In the heart of Berlin-Kreuzberg, the Christus-Kirche stands as a striking example of modern architecture, reflecting a unique blend of spirituality and..."
+- church building
+- religious site
+wikidata_id: Q14541117
+description: In the heart of Berlin-Kreuzberg, the Christus-Kirche stands as a striking
+  example of modern architecture, reflecting a unique blend of spirituality and...
 images:
-  - "/images-sites/christus-kirche/01-508c38d2-1920w.webp"
-  - "/images-sites/christus-kirche/02-7d779417-1920w.webp"
-  - "/images-sites/christus-kirche/03-bc6b5fa3-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1200px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jesus-Christus-Church.Berlin-Dahlem.jpg/1200px-Jesus-Christus-Church.Berlin-Dahlem.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zodel_Kirche.JPG/1200px-Zodel_Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/08-07-01_Christuskirche_Dahlem_02.JPG/1200px-08-07-01_Christuskirche_Dahlem_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/08-07-01_Christuskirche_Dahlem_03.JPG/1200px-08-07-01_Christuskirche_Dahlem_03.JPG
+image_srcset:
+  Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/400px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/800px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1200px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg/1920px-Christus-Kirche-Hornstr-Berlin-Kreuzberg-Klaus-H-Ernst-Mai-2016.jpg
+  Jesus-Christus-Church.Berlin-Dahlem.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jesus-Christus-Church.Berlin-Dahlem.jpg/400px-Jesus-Christus-Church.Berlin-Dahlem.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jesus-Christus-Church.Berlin-Dahlem.jpg/800px-Jesus-Christus-Church.Berlin-Dahlem.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jesus-Christus-Church.Berlin-Dahlem.jpg/1200px-Jesus-Christus-Church.Berlin-Dahlem.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jesus-Christus-Church.Berlin-Dahlem.jpg/1920px-Jesus-Christus-Church.Berlin-Dahlem.jpg
+  Zodel Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zodel_Kirche.JPG/400px-Zodel_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zodel_Kirche.JPG/800px-Zodel_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zodel_Kirche.JPG/1200px-Zodel_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zodel_Kirche.JPG/1920px-Zodel_Kirche.JPG
+  08-07-01 Christuskirche Dahlem 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/08-07-01_Christuskirche_Dahlem_02.JPG/400px-08-07-01_Christuskirche_Dahlem_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/08-07-01_Christuskirche_Dahlem_02.JPG/800px-08-07-01_Christuskirche_Dahlem_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/08-07-01_Christuskirche_Dahlem_02.JPG/1200px-08-07-01_Christuskirche_Dahlem_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/08-07-01_Christuskirche_Dahlem_02.JPG/1920px-08-07-01_Christuskirche_Dahlem_02.JPG
+  08-07-01 Christuskirche Dahlem 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/08-07-01_Christuskirche_Dahlem_03.JPG/400px-08-07-01_Christuskirche_Dahlem_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/08-07-01_Christuskirche_Dahlem_03.JPG/800px-08-07-01_Christuskirche_Dahlem_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/08-07-01_Christuskirche_Dahlem_03.JPG/1200px-08-07-01_Christuskirche_Dahlem_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/08-07-01_Christuskirche_Dahlem_03.JPG/1920px-08-07-01_Christuskirche_Dahlem_03.JPG
 ---
 
 ## Overview

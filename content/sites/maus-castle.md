@@ -21,9 +21,9 @@ longitude: 7.69599
 
 # Images
 images:
-  - "/images-sites/maus-castle/01-0a60ea3f-800w.webp"
-  - "/images-sites/maus-castle/02-54a40983-800w.webp"
-  - "/images-sites/maus-castle/03-672396af-800w.webp"
+  - "/images/maus-castle/01-0a60ea3f-800w.webp"
+  - "/images/maus-castle/02-54a40983-800w.webp"
+  - "/images/maus-castle/03-672396af-800w.webp"
 ---
 
 ## Overview

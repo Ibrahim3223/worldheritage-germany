@@ -1,19 +1,49 @@
 ---
-title: "Busmannkapelle Memorial"
+title: Busmannkapelle Memorial
 date: 2026-01-23
 draft: false
-description: "memorial"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0514
 longitude: 13.7349
 images:
-  - "/images-sites/busmannkapelle-memorial/01-08ca8e7d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DenkRaum_Sophienkirche_03.jpg/1200px-DenkRaum_Sophienkirche_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg/1200px-20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DenkRaum_Sophienkirche_01.jpg/1200px-DenkRaum_Sophienkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg/1200px-20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1200px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
+image_srcset:
+  DenkRaum Sophienkirche 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DenkRaum_Sophienkirche_03.jpg/400px-DenkRaum_Sophienkirche_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DenkRaum_Sophienkirche_03.jpg/800px-DenkRaum_Sophienkirche_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DenkRaum_Sophienkirche_03.jpg/1200px-DenkRaum_Sophienkirche_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DenkRaum_Sophienkirche_03.jpg/1920px-DenkRaum_Sophienkirche_03.jpg
+  20121018150DR Dresden Altstadt Busmannkapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg/400px-20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg/800px-20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg/1200px-20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg/1920px-20121018150DR_Dresden_Altstadt_Busmannkapelle.jpg
+  DenkRaum Sophienkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DenkRaum_Sophienkirche_01.jpg/400px-DenkRaum_Sophienkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DenkRaum_Sophienkirche_01.jpg/800px-DenkRaum_Sophienkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DenkRaum_Sophienkirche_01.jpg/1200px-DenkRaum_Sophienkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DenkRaum_Sophienkirche_01.jpg/1920px-DenkRaum_Sophienkirche_01.jpg
+  20120929130DR Dresden Altstadt Busmannkapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg/400px-20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg/800px-20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg/1200px-20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg/1920px-20120929130DR_Dresden_Altstadt_Busmannkapelle.jpg
+  Dresden, Sophienstraße 2, Denkraum Sophienkirche, 17.6.2.40-060454.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/400px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/800px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1200px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg/1920px-Dresden,_Sophienstraße_2,_Denkraum_Sophienkirche,_17.6.2.40-060454.jpg
 ---
 
 ## Overview

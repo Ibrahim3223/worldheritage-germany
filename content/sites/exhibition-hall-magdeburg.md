@@ -1,19 +1,49 @@
 ---
-title: "Exhibition Hall Magdeburg"
+title: Exhibition Hall Magdeburg
 date: 2026-01-23
 draft: false
-description: "Hyperbolic roof in Sachsen-Anhalt state, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: Hyperbolic roof in Sachsen-Anhalt state, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1206
 longitude: 11.6394
 images:
-  - "/images-sites/exhibition-hall-magdeburg/01-0d74a652-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg/1200px-Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg
+image_srcset:
+  Hyparschale (Magdeburg-Werder).2015.Detail.1.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg/400px-Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg/800px-Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg/1920px-Hyparschale_(Magdeburg-Werder).2015.Detail.1.ajb.jpg
+  Hyparschale (Magdeburg-Werder).2015.Detail.2.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg/400px-Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg/800px-Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg/1920px-Hyparschale_(Magdeburg-Werder).2015.Detail.2.ajb.jpg
+  Hyparschale (Magdeburg-Werder).2015.1.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg/400px-Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg/800px-Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg/1920px-Hyparschale_(Magdeburg-Werder).2015.1.ajb.jpg
+  Hyparschale (Magdeburg-Werder).2015.4.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg/400px-Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg/800px-Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg/1200px-Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg/1920px-Hyparschale_(Magdeburg-Werder).2015.4.ajb.jpg
+  Ausstellungszentrum Hyparschale Magdeburg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg/400px-Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg/800px-Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg/1200px-Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg/1920px-Ausstellungszentrum_Hyparschale_Magdeburg_02.jpg
 ---
 
 ## Overview

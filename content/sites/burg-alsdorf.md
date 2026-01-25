@@ -1,27 +1,49 @@
 ---
-title: "Burg Alsdorf"
+title: Burg Alsdorf
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8789
 longitude: 6.16167
-
-# Images
 images:
-  - "/images-sites/burg-alsdorf/01-d25d8c10-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg/1200px-ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Alsdorf_Suedostansicht.jpg/1200px-Burg_Alsdorf_Suedostansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1200px-Burg_Alsdorf_Ostansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Alsdorf_Erker.jpg/1200px-Burg_Alsdorf_Erker.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Alsdorf_Sedfluegel.jpg/1200px-Burg_Alsdorf_Sedfluegel.jpg
+image_srcset:
+  ND Alsdorf, 2. Esskastanie, Park an der Burg Alsdorf - 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg/400px-ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg/800px-ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg/1200px-ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg/1920px-ND_Alsdorf,_2._Esskastanie,_Park_an_der_Burg_Alsdorf_-_5.jpg
+  Burg Alsdorf Suedostansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Alsdorf_Suedostansicht.jpg/400px-Burg_Alsdorf_Suedostansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Alsdorf_Suedostansicht.jpg/800px-Burg_Alsdorf_Suedostansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Alsdorf_Suedostansicht.jpg/1200px-Burg_Alsdorf_Suedostansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Alsdorf_Suedostansicht.jpg/1920px-Burg_Alsdorf_Suedostansicht.jpg
+  Burg Alsdorf Ostansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/400px-Burg_Alsdorf_Ostansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/800px-Burg_Alsdorf_Ostansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1200px-Burg_Alsdorf_Ostansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Burg_Alsdorf_Ostansicht.jpg/1920px-Burg_Alsdorf_Ostansicht.jpg
+  Burg Alsdorf Erker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Alsdorf_Erker.jpg/400px-Burg_Alsdorf_Erker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Alsdorf_Erker.jpg/800px-Burg_Alsdorf_Erker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Alsdorf_Erker.jpg/1200px-Burg_Alsdorf_Erker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burg_Alsdorf_Erker.jpg/1920px-Burg_Alsdorf_Erker.jpg
+  Burg Alsdorf Sedfluegel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Alsdorf_Sedfluegel.jpg/400px-Burg_Alsdorf_Sedfluegel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Alsdorf_Sedfluegel.jpg/800px-Burg_Alsdorf_Sedfluegel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Alsdorf_Sedfluegel.jpg/1200px-Burg_Alsdorf_Sedfluegel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Alsdorf_Sedfluegel.jpg/1920px-Burg_Alsdorf_Sedfluegel.jpg
 ---
 
 ## Overview

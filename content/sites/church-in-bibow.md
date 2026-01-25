@@ -1,19 +1,50 @@
 ---
-title: "Church in Bibow"
-site_name: "Church in Bibow"
-slug: "church-in-bibow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Bibow
+site_name: Church in Bibow
+slug: church-in-bibow
+region: Mecklenburg-Vorpommern
 latitude: 53.7839
 longitude: 11.6424
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244142"
-description: "Imagine standing in front of a striking church building that embodies the essence of Brick Gothic architecture. The Church in Bibow, located in the sere..."
+- cultural site
+wikidata_id: Q1244142
+description: Imagine standing in front of a striking church building that embodies
+  the essence of Brick Gothic architecture. The Church in Bibow, located in the sere...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bibow%20Kirche%202008-08-17%20001.jpg/1200px-Bibow%20Kirche%202008-08-17%20001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibow%20Kirche%202008-08-17%20003cut.jpg/1200px-Bibow%20Kirche%202008-08-17%20003cut.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfkirche-bibow13.jpg/1200px-Dorfkirche-bibow13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bibow_Kirche_2008-08-17_001.jpg/1200px-Bibow_Kirche_2008-08-17_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/1200px-Bibow_Kirche_2008-08-17_003cut.jpg
+image_srcset:
+  Bibow%20Kirche%202008-08-17%20001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bibow%20Kirche%202008-08-17%20001.jpg/400px-Bibow%20Kirche%202008-08-17%20001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bibow%20Kirche%202008-08-17%20001.jpg/800px-Bibow%20Kirche%202008-08-17%20001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bibow%20Kirche%202008-08-17%20001.jpg/1200px-Bibow%20Kirche%202008-08-17%20001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bibow%20Kirche%202008-08-17%20001.jpg/1920px-Bibow%20Kirche%202008-08-17%20001.jpg
+  Bibow%20Kirche%202008-08-17%20003cut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibow%20Kirche%202008-08-17%20003cut.jpg/400px-Bibow%20Kirche%202008-08-17%20003cut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibow%20Kirche%202008-08-17%20003cut.jpg/800px-Bibow%20Kirche%202008-08-17%20003cut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibow%20Kirche%202008-08-17%20003cut.jpg/1200px-Bibow%20Kirche%202008-08-17%20003cut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bibow%20Kirche%202008-08-17%20003cut.jpg/1920px-Bibow%20Kirche%202008-08-17%20003cut.jpg
+  Dorfkirche-bibow13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfkirche-bibow13.jpg/400px-Dorfkirche-bibow13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfkirche-bibow13.jpg/800px-Dorfkirche-bibow13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfkirche-bibow13.jpg/1200px-Dorfkirche-bibow13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dorfkirche-bibow13.jpg/1920px-Dorfkirche-bibow13.jpg
+  Bibow Kirche 2008-08-17 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bibow_Kirche_2008-08-17_001.jpg/400px-Bibow_Kirche_2008-08-17_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bibow_Kirche_2008-08-17_001.jpg/800px-Bibow_Kirche_2008-08-17_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bibow_Kirche_2008-08-17_001.jpg/1200px-Bibow_Kirche_2008-08-17_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bibow_Kirche_2008-08-17_001.jpg/1920px-Bibow_Kirche_2008-08-17_001.jpg
+  Bibow Kirche 2008-08-17 003cut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/400px-Bibow_Kirche_2008-08-17_003cut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/800px-Bibow_Kirche_2008-08-17_003cut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/1200px-Bibow_Kirche_2008-08-17_003cut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bibow_Kirche_2008-08-17_003cut.jpg/1920px-Bibow_Kirche_2008-08-17_003cut.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Automatenmuseum"
+title: Deutsches Automatenmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.34472222
 longitude: 8.575
 images:
-  - "/images-sites/deutsches-automatenmuseum/01-55d373df-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/War_Eagle_1931.jpg/1200px-War_Eagle_1931.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Spielautomat_Merkur_B.jpg/1200px-Spielautomat_Merkur_B.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cheese-o-matic.jpg/1200px-Cheese-o-matic.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsches_Automatenmuseum.jpg/1200px-Deutsches_Automatenmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/1200px-Deutsches_Automatenmuseum_Eingang.jpg
+image_srcset:
+  War Eagle 1931.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/War_Eagle_1931.jpg/400px-War_Eagle_1931.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/War_Eagle_1931.jpg/800px-War_Eagle_1931.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/War_Eagle_1931.jpg/1200px-War_Eagle_1931.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/War_Eagle_1931.jpg/1920px-War_Eagle_1931.jpg
+  Spielautomat Merkur B.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Spielautomat_Merkur_B.jpg/400px-Spielautomat_Merkur_B.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Spielautomat_Merkur_B.jpg/800px-Spielautomat_Merkur_B.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Spielautomat_Merkur_B.jpg/1200px-Spielautomat_Merkur_B.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Spielautomat_Merkur_B.jpg/1920px-Spielautomat_Merkur_B.jpg
+  Cheese-o-matic.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cheese-o-matic.jpg/400px-Cheese-o-matic.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cheese-o-matic.jpg/800px-Cheese-o-matic.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cheese-o-matic.jpg/1200px-Cheese-o-matic.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cheese-o-matic.jpg/1920px-Cheese-o-matic.jpg
+  Deutsches Automatenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsches_Automatenmuseum.jpg/400px-Deutsches_Automatenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsches_Automatenmuseum.jpg/800px-Deutsches_Automatenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsches_Automatenmuseum.jpg/1200px-Deutsches_Automatenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Deutsches_Automatenmuseum.jpg/1920px-Deutsches_Automatenmuseum.jpg
+  Deutsches Automatenmuseum Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/400px-Deutsches_Automatenmuseum_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/800px-Deutsches_Automatenmuseum_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/1200px-Deutsches_Automatenmuseum_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deutsches_Automatenmuseum_Eingang.jpg/1920px-Deutsches_Automatenmuseum_Eingang.jpg
 ---
 
 ## Overview

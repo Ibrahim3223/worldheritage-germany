@@ -13,7 +13,7 @@ regions:
 latitude: 52.5261
 longitude: 13.4131
 images:
-  - "/images-sites/karl-liebknecht-haus/01-0499cef3-800w.webp"
+  - "/images/karl-liebknecht-haus/01-0499cef3-800w.webp"
 ---
 
 ## Overview

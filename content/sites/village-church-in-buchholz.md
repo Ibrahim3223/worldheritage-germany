@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244180"
 description: "The Village Church in Buchholz is a striking example of Gothic Revival architecture, standing as a noteworthy landmark in the Ziesendorf region of Germa..."
 images:
-  - "/images-sites/village-church-in-buchholz/01-537df589-1920w.webp"
-  - "/images-sites/village-church-in-buchholz/02-178c62a9-1920w.webp"
-  - "/images-sites/village-church-in-buchholz/03-a75a1ccc-1920w.webp"
+  - "/images/village-church-in-buchholz/01-537df589-1920w.webp"
+  - "/images/village-church-in-buchholz/02-178c62a9-1920w.webp"
+  - "/images/village-church-in-buchholz/03-a75a1ccc-1920w.webp"
 ---
 
 ## Overview

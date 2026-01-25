@@ -1,19 +1,49 @@
 ---
-title: "Friedehorst Park"
+title: Friedehorst Park
 date: 2026-01-23
 draft: false
-description: "park in Bremen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Bremen, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1769
 longitude: 8.67308
 images:
-  - "/images-sites/friedehorst-park/01-e90a807b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Abgeknickter_Baum_im_grünen_Wasser.jpg/1200px-Abgeknickter_Baum_im_grünen_Wasser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gräser_im_grünen_See.jpg/1200px-Gräser_im_grünen_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Insel_im_Teich.jpg/1200px-Insel_im_Teich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Äste_und_Holzscheite_im_grünen_Wasser.jpg/1200px-Äste_und_Holzscheite_im_grünen_Wasser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Friedhorstpark_20160619.jpg/1200px-Friedhorstpark_20160619.jpg
+image_srcset:
+  Abgeknickter Baum im grünen Wasser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Abgeknickter_Baum_im_grünen_Wasser.jpg/400px-Abgeknickter_Baum_im_grünen_Wasser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Abgeknickter_Baum_im_grünen_Wasser.jpg/800px-Abgeknickter_Baum_im_grünen_Wasser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Abgeknickter_Baum_im_grünen_Wasser.jpg/1200px-Abgeknickter_Baum_im_grünen_Wasser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Abgeknickter_Baum_im_grünen_Wasser.jpg/1920px-Abgeknickter_Baum_im_grünen_Wasser.jpg
+  Gräser im grünen See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gräser_im_grünen_See.jpg/400px-Gräser_im_grünen_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gräser_im_grünen_See.jpg/800px-Gräser_im_grünen_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gräser_im_grünen_See.jpg/1200px-Gräser_im_grünen_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gräser_im_grünen_See.jpg/1920px-Gräser_im_grünen_See.jpg
+  Insel im Teich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Insel_im_Teich.jpg/400px-Insel_im_Teich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Insel_im_Teich.jpg/800px-Insel_im_Teich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Insel_im_Teich.jpg/1200px-Insel_im_Teich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Insel_im_Teich.jpg/1920px-Insel_im_Teich.jpg
+  Äste und Holzscheite im grünen Wasser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Äste_und_Holzscheite_im_grünen_Wasser.jpg/400px-Äste_und_Holzscheite_im_grünen_Wasser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Äste_und_Holzscheite_im_grünen_Wasser.jpg/800px-Äste_und_Holzscheite_im_grünen_Wasser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Äste_und_Holzscheite_im_grünen_Wasser.jpg/1200px-Äste_und_Holzscheite_im_grünen_Wasser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Äste_und_Holzscheite_im_grünen_Wasser.jpg/1920px-Äste_und_Holzscheite_im_grünen_Wasser.jpg
+  Friedhorstpark 20160619.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Friedhorstpark_20160619.jpg/400px-Friedhorstpark_20160619.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Friedhorstpark_20160619.jpg/800px-Friedhorstpark_20160619.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Friedhorstpark_20160619.jpg/1200px-Friedhorstpark_20160619.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Friedhorstpark_20160619.jpg/1920px-Friedhorstpark_20160619.jpg
 ---
 
 ## Overview

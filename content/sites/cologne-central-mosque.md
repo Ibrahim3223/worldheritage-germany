@@ -1,19 +1,49 @@
 ---
-title: "Cologne Central Mosque"
+title: Cologne Central Mosque
 date: 2026-01-23
 draft: false
-description: "mosque"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 50.945555555
 longitude: 6.928333333
 images:
-  - "/images-sites/cologne-central-mosque/01-9a63791f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DITIB-Zentralmoschee_Köln_-.jpg/1200px-DITIB-Zentralmoschee_Köln_-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Köln_Moschee.jpg/1200px-Köln_Moschee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Centrale_moskee_in_Keulen.jpg/1200px-Centrale_moskee_in_Keulen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1200px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg/1200px-DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg
+image_srcset:
+  DITIB-Zentralmoschee Köln -.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DITIB-Zentralmoschee_Köln_-.jpg/400px-DITIB-Zentralmoschee_Köln_-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DITIB-Zentralmoschee_Köln_-.jpg/800px-DITIB-Zentralmoschee_Köln_-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DITIB-Zentralmoschee_Köln_-.jpg/1200px-DITIB-Zentralmoschee_Köln_-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DITIB-Zentralmoschee_Köln_-.jpg/1920px-DITIB-Zentralmoschee_Köln_-.jpg
+  Köln Moschee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Köln_Moschee.jpg/400px-Köln_Moschee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Köln_Moschee.jpg/800px-Köln_Moschee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Köln_Moschee.jpg/1200px-Köln_Moschee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Köln_Moschee.jpg/1920px-Köln_Moschee.jpg
+  Centrale moskee in Keulen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Centrale_moskee_in_Keulen.jpg/400px-Centrale_moskee_in_Keulen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Centrale_moskee_in_Keulen.jpg/800px-Centrale_moskee_in_Keulen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Centrale_moskee_in_Keulen.jpg/1200px-Centrale_moskee_in_Keulen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Centrale_moskee_in_Keulen.jpg/1920px-Centrale_moskee_in_Keulen.jpg
+  DITIB-Zentralmoschee Köln - April 2015-7489.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/400px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/800px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1200px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg/1920px-DITIB-Zentralmoschee_Köln_-_April_2015-7489.jpg
+  DITIB-Zentralmoschee Köln - April 2015-7492.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg/400px-DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg/800px-DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg/1200px-DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg/1920px-DITIB-Zentralmoschee_Köln_-_April_2015-7492.jpg
 ---
 
 ## Overview

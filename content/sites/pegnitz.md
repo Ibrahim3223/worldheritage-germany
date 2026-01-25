@@ -13,7 +13,7 @@ regions:
 latitude: 49.7582
 longitude: 11.5377
 images:
-  - "/images-sites/pegnitz/01-819053bd-800w.webp"
+  - "/images/pegnitz/01-819053bd-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hartwig & Vogel"
+title: Hartwig & Vogel
 date: 2026-01-23
 draft: false
-description: "building in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: building in Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.04786
 longitude: 13.72327
 images:
-  - "/images-sites/hartwig-vogel/01-7032e861-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Großindustrie_Sachsen_T2_0169.jpg/1200px-Großindustrie_Sachsen_T2_0169.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg/1200px-Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg/1200px-Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HartwigVogel_AG_DresdenA_um1925.jpg/1200px-HartwigVogel_AG_DresdenA_um1925.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hartwig+Vogel-0011317.jpg/1200px-Hartwig+Vogel-0011317.jpg
+image_srcset:
+  Großindustrie Sachsen T2 0169.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Großindustrie_Sachsen_T2_0169.jpg/400px-Großindustrie_Sachsen_T2_0169.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Großindustrie_Sachsen_T2_0169.jpg/800px-Großindustrie_Sachsen_T2_0169.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Großindustrie_Sachsen_T2_0169.jpg/1200px-Großindustrie_Sachsen_T2_0169.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Großindustrie_Sachsen_T2_0169.jpg/1920px-Großindustrie_Sachsen_T2_0169.jpg
+  Kolonial Sammelbild-Kamerun-Museum im Ritterhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg/400px-Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg/800px-Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg/1200px-Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg/1920px-Kolonial_Sammelbild-Kamerun-Museum_im_Ritterhaus.jpg
+  Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg/400px-Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg/800px-Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg/1200px-Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg/1920px-Kakaodose-pillnitz-sbg-hermann-cc-by-02.jpg
+  HartwigVogel AG DresdenA um1925.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HartwigVogel_AG_DresdenA_um1925.jpg/400px-HartwigVogel_AG_DresdenA_um1925.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HartwigVogel_AG_DresdenA_um1925.jpg/800px-HartwigVogel_AG_DresdenA_um1925.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HartwigVogel_AG_DresdenA_um1925.jpg/1200px-HartwigVogel_AG_DresdenA_um1925.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HartwigVogel_AG_DresdenA_um1925.jpg/1920px-HartwigVogel_AG_DresdenA_um1925.jpg
+  Hartwig+Vogel-0011317.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hartwig+Vogel-0011317.jpg/400px-Hartwig+Vogel-0011317.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hartwig+Vogel-0011317.jpg/800px-Hartwig+Vogel-0011317.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hartwig+Vogel-0011317.jpg/1200px-Hartwig+Vogel-0011317.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hartwig+Vogel-0011317.jpg/1920px-Hartwig+Vogel-0011317.jpg
 ---
 
 ## Overview

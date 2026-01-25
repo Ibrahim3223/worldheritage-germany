@@ -13,7 +13,7 @@ regions:
 latitude: 52.393055555
 longitude: 9.799722222
 images:
-  - "/images-sites/telemax/01-82094d0a-800w.webp"
+  - "/images/telemax/01-82094d0a-800w.webp"
 ---
 
 ## Overview

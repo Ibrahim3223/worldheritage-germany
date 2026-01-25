@@ -13,7 +13,7 @@ regions:
 latitude: 52.424166666
 longitude: 13.211111111
 images:
-  - "/images-sites/zehlendorf-forest-cemetery/01-742ea672-800w.webp"
+  - "/images/zehlendorf-forest-cemetery/01-742ea672-800w.webp"
 ---
 
 ## Overview

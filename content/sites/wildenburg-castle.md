@@ -21,8 +21,8 @@ longitude: 7.2568
 
 # Images
 images:
-  - "/images-sites/wildenburg-castle/02-0c2e94d7-800w.webp"
-  - "/images-sites/wildenburg-castle/03-8e15a7c3-800w.webp"
+  - "/images/wildenburg-castle/02-0c2e94d7-800w.webp"
+  - "/images/wildenburg-castle/03-8e15a7c3-800w.webp"
 ---
 
 ## Overview

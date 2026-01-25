@@ -21,9 +21,9 @@ longitude: 12.4859
 
 # Images
 images:
-  - "/images-sites/old-bishops-palace-in-wittstockdosse/01-1273869d-800w.webp"
-  - "/images-sites/old-bishops-palace-in-wittstockdosse/02-35e4baf8-800w.webp"
-  - "/images-sites/old-bishops-palace-in-wittstockdosse/03-12df88d5-800w.webp"
+  - "/images/old-bishops-palace-in-wittstockdosse/01-1273869d-800w.webp"
+  - "/images/old-bishops-palace-in-wittstockdosse/02-35e4baf8-800w.webp"
+  - "/images/old-bishops-palace-in-wittstockdosse/03-12df88d5-800w.webp"
 ---
 
 ## Overview

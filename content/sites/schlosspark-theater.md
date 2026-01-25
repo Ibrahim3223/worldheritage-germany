@@ -13,7 +13,7 @@ regions:
 latitude: 52.4547
 longitude: 13.3181
 images:
-  - "/images-sites/schlosspark-theater/01-0243c026-800w.webp"
+  - "/images/schlosspark-theater/01-0243c026-800w.webp"
 ---
 
 ## Overview

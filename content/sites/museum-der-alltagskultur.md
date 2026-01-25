@@ -13,7 +13,7 @@ regions:
 latitude: 48.6373
 longitude: 9.13105
 images:
-  - "/images-sites/museum-der-alltagskultur/01-9b65d166-800w.webp"
+  - "/images/museum-der-alltagskultur/01-9b65d166-800w.webp"
 ---
 
 ## Overview

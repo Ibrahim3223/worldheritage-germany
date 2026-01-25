@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Lichterfelde Ost railway station"
+title: Berlin-Lichterfelde Ost railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Steglitz-Zehlendorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Steglitz-Zehlendorf, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.43
 longitude: 13.3289
 images:
-  - "/images-sites/berlin-lichterfelde-ost-railway-station/01-0538dbfe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Lichterfelde_Ost.jpg/1200px-Bahnhof_Lichterfelde_Ost.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Lichterfelde_Ost_Berlin.jpg/1200px-Bahnhof_Lichterfelde_Ost_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG/1200px-Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg/1200px-Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Train_station_Berlin_Lichterfelde_Ost_1.jpg/1200px-Train_station_Berlin_Lichterfelde_Ost_1.jpg
+image_srcset:
+  Bahnhof Lichterfelde Ost.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Lichterfelde_Ost.jpg/400px-Bahnhof_Lichterfelde_Ost.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Lichterfelde_Ost.jpg/800px-Bahnhof_Lichterfelde_Ost.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Lichterfelde_Ost.jpg/1200px-Bahnhof_Lichterfelde_Ost.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Lichterfelde_Ost.jpg/1920px-Bahnhof_Lichterfelde_Ost.jpg
+  Bahnhof Lichterfelde Ost Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Lichterfelde_Ost_Berlin.jpg/400px-Bahnhof_Lichterfelde_Ost_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Lichterfelde_Ost_Berlin.jpg/800px-Bahnhof_Lichterfelde_Ost_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Lichterfelde_Ost_Berlin.jpg/1200px-Bahnhof_Lichterfelde_Ost_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bahnhof_Lichterfelde_Ost_Berlin.jpg/1920px-Bahnhof_Lichterfelde_Ost_Berlin.jpg
+  Lichterfelde Lankwitzer Straße Bahnhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG/400px-Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG/800px-Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG/1200px-Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG/1920px-Lichterfelde_Lankwitzer_Straße_Bahnhof.JPG
+  Lichterfelde Jungfernstieg Bahnhof Lichterfelde Ost.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg/400px-Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg/800px-Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg/1200px-Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg/1920px-Lichterfelde_Jungfernstieg_Bahnhof_Lichterfelde_Ost.jpg
+  Train station Berlin Lichterfelde Ost 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Train_station_Berlin_Lichterfelde_Ost_1.jpg/400px-Train_station_Berlin_Lichterfelde_Ost_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Train_station_Berlin_Lichterfelde_Ost_1.jpg/800px-Train_station_Berlin_Lichterfelde_Ost_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Train_station_Berlin_Lichterfelde_Ost_1.jpg/1200px-Train_station_Berlin_Lichterfelde_Ost_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Train_station_Berlin_Lichterfelde_Ost_1.jpg/1920px-Train_station_Berlin_Lichterfelde_Ost_1.jpg
 ---
 
 ## Overview

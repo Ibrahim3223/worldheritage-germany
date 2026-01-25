@@ -1,24 +1,51 @@
 ---
-title: "Herz-Jesu-Kirche"
-site_name: "Herz-Jesu-Kirche"
-slug: "herz-jesu-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Herz-Jesu-Kirche
+site_name: Herz-Jesu-Kirche
+slug: herz-jesu-kirche
+region: Lower Saxony
 latitude: 52.7689
 longitude: 7.46389
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1614973"
-description: "Located in the serene village of Klein Berßen, Germany, the Herz-Jesu-Kirche is a striking example of Gothic Revival architecture that captures the esse..."
+- church building
+- religious site
+wikidata_id: Q1614973
+description: Located in the serene village of Klein Berßen, Germany, the Herz-Jesu-Kirche
+  is a striking example of Gothic Revival architecture that captures the esse...
 images:
-  - "/images-sites/herz-jesu-kirche/01-189b6f11-1920w.webp"
-  - "/images-sites/herz-jesu-kirche/01-bce57aaa-1920w.webp"
-  - "/images-sites/herz-jesu-kirche/02-7da726c9-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG/1200px-Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Minimal_Church_(24616629531).jpg/1200px-Minimal_Church_(24616629531).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Church_herz-jesu_graz.jpg/1200px-Church_herz-jesu_graz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG/1200px-Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brick_Rosette_(253542969).jpeg/1200px-Brick_Rosette_(253542969).jpeg
+image_srcset:
+  Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG/400px-Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG/800px-Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG/1200px-Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG/1920px-Chorraum%20der%20Herz-Jesu-Kirche%20in%20Klein%20Ber%C3%9Fen.JPG
+  Minimal Church (24616629531).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Minimal_Church_(24616629531).jpg/400px-Minimal_Church_(24616629531).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Minimal_Church_(24616629531).jpg/800px-Minimal_Church_(24616629531).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Minimal_Church_(24616629531).jpg/1200px-Minimal_Church_(24616629531).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Minimal_Church_(24616629531).jpg/1920px-Minimal_Church_(24616629531).jpg
+  Church herz-jesu graz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Church_herz-jesu_graz.jpg/400px-Church_herz-jesu_graz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Church_herz-jesu_graz.jpg/800px-Church_herz-jesu_graz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Church_herz-jesu_graz.jpg/1200px-Church_herz-jesu_graz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Church_herz-jesu_graz.jpg/1920px-Church_herz-jesu_graz.jpg
+  Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG/400px-Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG/800px-Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG/1200px-Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG/1920px-Graz-Sparbersbachgasse58-PfarrhofHerzJesu.JPG
+  Brick Rosette (253542969).jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brick_Rosette_(253542969).jpeg/400px-Brick_Rosette_(253542969).jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brick_Rosette_(253542969).jpeg/800px-Brick_Rosette_(253542969).jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brick_Rosette_(253542969).jpeg/1200px-Brick_Rosette_(253542969).jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Brick_Rosette_(253542969).jpeg/1920px-Brick_Rosette_(253542969).jpeg
 ---
 
 ## Overview

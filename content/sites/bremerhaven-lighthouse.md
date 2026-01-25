@@ -1,19 +1,49 @@
 ---
-title: "Bremerhaven lighthouse"
+title: Bremerhaven lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Free Hanseatic City of Bremen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Free Hanseatic City of Bremen, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.546306
 longitude: 8.570111
 images:
-  - "/images-sites/bremerhaven-lighthouse/01-91db86c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg/1200px-Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg/1200px-Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg/1200px-Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg/1200px-Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1200px-Bremerhaven_Oberfeuer_01.jpg
+image_srcset:
+  Bremerhaven, Neuer Hafen, Unterfeuer -- 2024 -- 2180.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg/400px-Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg/800px-Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg/1200px-Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg/1920px-Bremerhaven,_Neuer_Hafen,_Unterfeuer_--_2024_--_2180.jpg
+  Bremerhaven, Neuer Hafen, Oberfeuer -- 2024 -- 2276.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg/400px-Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg/800px-Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg/1200px-Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg/1920px-Bremerhaven,_Neuer_Hafen,_Oberfeuer_--_2024_--_2276.jpg
+  Bremerhaven, Neuer Hafen, Schleuse und Oberfeuer -- 2024 -- 2314.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg/400px-Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg/800px-Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg/1200px-Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg/1920px-Bremerhaven,_Neuer_Hafen,_Schleuse_und_Oberfeuer_--_2024_--_2314.jpg
+  Bremerhaven, Neuer Hafen -- 2024 -- 2168.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg/400px-Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg/800px-Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg/1200px-Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg/1920px-Bremerhaven,_Neuer_Hafen_--_2024_--_2168.jpg
+  Bremerhaven Oberfeuer 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/400px-Bremerhaven_Oberfeuer_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/800px-Bremerhaven_Oberfeuer_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1200px-Bremerhaven_Oberfeuer_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bremerhaven_Oberfeuer_01.jpg/1920px-Bremerhaven_Oberfeuer_01.jpg
 ---
 
 ## Overview

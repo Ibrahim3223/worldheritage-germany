@@ -13,7 +13,7 @@ regions:
 latitude: 50.8664
 longitude: 12.0644
 images:
-  - "/images-sites/tierpark-gera/01-d53e3e77-800w.webp"
+  - "/images/tierpark-gera/01-d53e3e77-800w.webp"
 ---
 
 ## Overview

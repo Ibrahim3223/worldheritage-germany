@@ -13,9 +13,9 @@ regions:
 latitude: 53.55788889
 longitude: 9.98797222
 images:
-  - "/images-sites/museum-of-communication-hamburg/01-8329ed0b-800w.webp"
-  - "/images-sites/museum-of-communication-hamburg/02-3e2b8a53-800w.webp"
-  - "/images-sites/museum-of-communication-hamburg/03-ee221b3f-800w.webp"
+  - "/images/museum-of-communication-hamburg/01-8329ed0b-800w.webp"
+  - "/images/museum-of-communication-hamburg/02-3e2b8a53-800w.webp"
+  - "/images/museum-of-communication-hamburg/03-ee221b3f-800w.webp"
 ---
 
 ## Overview

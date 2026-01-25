@@ -1,23 +1,50 @@
 ---
-title: "Immanuel Church"
-site_name: "Immanuel Church"
-slug: "immanuel-church"
-region: "Berlin"
-
-# Location
+title: Immanuel Church
+site_name: Immanuel Church
+slug: immanuel-church
+region: Berlin
 latitude: 52.5333
 longitude: 13.4211
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1659952"
-description: "Immanuel Church, a striking example of Romanesque Revival architecture, sits in the heart of Pankow, Berlin. This church, constructed from durable brick..."
+- cultural site
+wikidata_id: Q1659952
+description: Immanuel Church, a striking example of Romanesque Revival architecture,
+  sits in the heart of Pankow, Berlin. This church, constructed from durable brick...
 images:
-  - "/images-sites/immanuel-church/01-87852810-1920w.webp"
-  - "/images-sites/immanuel-church/02-512c6b53-1920w.webp"
-  - "/images-sites/immanuel-church/03-19b775cc-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG/1200px-Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSI_Immanuek_church_,_Broadway.jpg/1200px-CSI_Immanuek_church_,_Broadway.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CSI_Immanuel_Church_,_Broadway.JPG/1200px-CSI_Immanuel_Church_,_Broadway.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Csi_immanuel_church_-_near_broadway_ernakulam.JPG/1200px-Csi_immanuel_church_-_near_broadway_ernakulam.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Immanuelskyrkan_Stockholm.JPG/1200px-Immanuelskyrkan_Stockholm.JPG
+image_srcset:
+  Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG/400px-Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG/800px-Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG/1200px-Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG/1920px-Kirchturm%20und%20Gemeindehaus%2C%20Immanuelkirche%20Berlin.JPG
+  CSI Immanuek church , Broadway.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSI_Immanuek_church_,_Broadway.jpg/400px-CSI_Immanuek_church_,_Broadway.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSI_Immanuek_church_,_Broadway.jpg/800px-CSI_Immanuek_church_,_Broadway.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSI_Immanuek_church_,_Broadway.jpg/1200px-CSI_Immanuek_church_,_Broadway.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/CSI_Immanuek_church_,_Broadway.jpg/1920px-CSI_Immanuek_church_,_Broadway.jpg
+  CSI Immanuel Church , Broadway.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CSI_Immanuel_Church_,_Broadway.JPG/400px-CSI_Immanuel_Church_,_Broadway.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CSI_Immanuel_Church_,_Broadway.JPG/800px-CSI_Immanuel_Church_,_Broadway.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CSI_Immanuel_Church_,_Broadway.JPG/1200px-CSI_Immanuel_Church_,_Broadway.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CSI_Immanuel_Church_,_Broadway.JPG/1920px-CSI_Immanuel_Church_,_Broadway.JPG
+  Csi immanuel church - near broadway ernakulam.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Csi_immanuel_church_-_near_broadway_ernakulam.JPG/400px-Csi_immanuel_church_-_near_broadway_ernakulam.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Csi_immanuel_church_-_near_broadway_ernakulam.JPG/800px-Csi_immanuel_church_-_near_broadway_ernakulam.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Csi_immanuel_church_-_near_broadway_ernakulam.JPG/1200px-Csi_immanuel_church_-_near_broadway_ernakulam.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Csi_immanuel_church_-_near_broadway_ernakulam.JPG/1920px-Csi_immanuel_church_-_near_broadway_ernakulam.JPG
+  Immanuelskyrkan Stockholm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Immanuelskyrkan_Stockholm.JPG/400px-Immanuelskyrkan_Stockholm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Immanuelskyrkan_Stockholm.JPG/800px-Immanuelskyrkan_Stockholm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Immanuelskyrkan_Stockholm.JPG/1200px-Immanuelskyrkan_Stockholm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Immanuelskyrkan_Stockholm.JPG/1920px-Immanuelskyrkan_Stockholm.JPG
 ---
 
 ## Overview

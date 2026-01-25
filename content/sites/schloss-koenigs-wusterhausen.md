@@ -21,7 +21,7 @@ longitude: 13.625
 
 # Images
 images:
-  - "/images-sites/schloss-koenigs-wusterhausen/01-2a7729fc-800w.webp"
+  - "/images/schloss-koenigs-wusterhausen/01-2a7729fc-800w.webp"
 ---
 
 ## Overview

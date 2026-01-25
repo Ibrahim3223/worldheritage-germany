@@ -1,24 +1,52 @@
 ---
-title: "Heilandskirche"
-site_name: "Heilandskirche"
-slug: "heilandskirche"
-region: "Brandenburg"
-
-# Location
+title: Heilandskirche
+site_name: Heilandskirche
+slug: heilandskirche
+region: Brandenburg
 latitude: 51.5073
 longitude: 11.9954
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1308198"
-description: "Heilandskirche, a striking church building located in Halle (Saale), Germany, invites visitors to explore its unique architectural beauty and serene atm..."
+- church building
+- religious site
+wikidata_id: Q1308198
+description: Heilandskirche, a striking church building located in Halle (Saale),
+  Germany, invites visitors to explore its unique architectural beauty and serene
+  atm...
 images:
-  - "/images-sites/heilandskirche/01-069e65dc-1920w.webp"
-  - "/images-sites/heilandskirche/02-217b9365-1920w.webp"
-  - "/images-sites/heilandskirche/03-e83b24b5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Heilandskirche%20Halle%20002.jpg/1200px-Heilandskirche%20Halle%20002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1200px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilandskirche_Sacrow,_Potsdam.jpg/1200px-Heilandskirche_Sacrow,_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacrow,_Heilandskirche_(10).jpg/1200px-Sacrow,_Heilandskirche_(10).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg/1200px-Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg
+image_srcset:
+  Heilandskirche%20Halle%20002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Heilandskirche%20Halle%20002.jpg/400px-Heilandskirche%20Halle%20002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Heilandskirche%20Halle%20002.jpg/800px-Heilandskirche%20Halle%20002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Heilandskirche%20Halle%20002.jpg/1200px-Heilandskirche%20Halle%20002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Heilandskirche%20Halle%20002.jpg/1920px-Heilandskirche%20Halle%20002.jpg
+  Teltowkanal 07 Wannsee Heilandskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/400px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/800px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1200px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1920px-Teltowkanal_07_Wannsee_Heilandskirche.jpg
+  Heilandskirche Sacrow, Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilandskirche_Sacrow,_Potsdam.jpg/400px-Heilandskirche_Sacrow,_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilandskirche_Sacrow,_Potsdam.jpg/800px-Heilandskirche_Sacrow,_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilandskirche_Sacrow,_Potsdam.jpg/1200px-Heilandskirche_Sacrow,_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Heilandskirche_Sacrow,_Potsdam.jpg/1920px-Heilandskirche_Sacrow,_Potsdam.jpg
+  Sacrow, Heilandskirche (10).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacrow,_Heilandskirche_(10).jpg/400px-Sacrow,_Heilandskirche_(10).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacrow,_Heilandskirche_(10).jpg/800px-Sacrow,_Heilandskirche_(10).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacrow,_Heilandskirche_(10).jpg/1200px-Sacrow,_Heilandskirche_(10).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sacrow,_Heilandskirche_(10).jpg/1920px-Sacrow,_Heilandskirche_(10).jpg
+  Potsdam - Verkehrsreiche Havel (Busy Traffic on the Havel) - geo.hlipp.de - 35061.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg/400px-Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg/800px-Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg/1200px-Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg/1920px-Potsdam_-_Verkehrsreiche_Havel_(Busy_Traffic_on_the_Havel)_-_geo.hlipp.de_-_35061.jpg
 ---
 
 ## Overview

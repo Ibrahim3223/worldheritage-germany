@@ -13,7 +13,7 @@ regions:
 latitude: 53.56930556
 longitude: 10.02863889
 images:
-  - "/images-sites/the-english-theatre-of-hamburg/01-4b588b5f-800w.webp"
+  - "/images/the-english-theatre-of-hamburg/01-4b588b5f-800w.webp"
 ---
 
 ## Overview

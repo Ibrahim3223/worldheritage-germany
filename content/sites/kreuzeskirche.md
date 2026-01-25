@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1788260"
 description: "In the heart of Essen, Germany, lies the Kreuzeskirche, a church building that is a prominent example of Romanesque Revival architecture. The structure ..."
 images:
-  - "/images-sites/kreuzeskirche/01-8a0e5c92-1920w.webp"
-  - "/images-sites/kreuzeskirche/02-6b558835-1920w.webp"
-  - "/images-sites/kreuzeskirche/03-587f6c00-1920w.webp"
+  - "/images/kreuzeskirche/01-8a0e5c92-1920w.webp"
+  - "/images/kreuzeskirche/02-6b558835-1920w.webp"
+  - "/images/kreuzeskirche/03-587f6c00-1920w.webp"
 ---
 
 ## Overview

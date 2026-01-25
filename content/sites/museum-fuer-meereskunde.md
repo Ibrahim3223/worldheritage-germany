@@ -13,8 +13,8 @@ regions:
 latitude: 52.5198
 longitude: 13.3912
 images:
-  - "/images-sites/museum-fuer-meereskunde/02-8fa3df67-800w.webp"
-  - "/images-sites/museum-fuer-meereskunde/03-374b1b96-800w.webp"
+  - "/images/museum-fuer-meereskunde/02-8fa3df67-800w.webp"
+  - "/images/museum-fuer-meereskunde/03-374b1b96-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hamm (Westf) Hbf"
+title: Hamm (Westf) Hbf
 date: 2026-01-23
 draft: false
-description: "railway station in Hamm, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hamm, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.678333333
 longitude: 7.808333333
 images:
-  - "/images-sites/hamm-westf-hbf/01-95d97ad0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg/1200px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg/1200px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg/1200px-Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg/1200px-Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bahnhof_Hamm_(Westfalen).jpg/1200px-Bahnhof_Hamm_(Westfalen).jpg
+image_srcset:
+  Hamm (Westfalen) Hauptbahnhof asv2024-05 img2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg/400px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg/800px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg/1200px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg/1920px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img2.jpg
+  Hamm (Westfalen) Hauptbahnhof asv2024-05 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg/400px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg/800px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg/1200px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg/1920px-Hamm_(Westfalen)_Hauptbahnhof_asv2024-05_img1.jpg
+  Otto-Brenner-Straße, 7, Mitte, Hamm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg/400px-Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg/800px-Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg/1200px-Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg/1920px-Otto-Brenner-Straße,_7,_Mitte,_Hamm.jpg
+  Otto-Brenner-Straße, 9, Mitte, Hamm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg/400px-Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg/800px-Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg/1200px-Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg/1920px-Otto-Brenner-Straße,_9,_Mitte,_Hamm.jpg
+  Bahnhof Hamm (Westfalen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bahnhof_Hamm_(Westfalen).jpg/400px-Bahnhof_Hamm_(Westfalen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bahnhof_Hamm_(Westfalen).jpg/800px-Bahnhof_Hamm_(Westfalen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bahnhof_Hamm_(Westfalen).jpg/1200px-Bahnhof_Hamm_(Westfalen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bahnhof_Hamm_(Westfalen).jpg/1920px-Bahnhof_Hamm_(Westfalen).jpg
 ---
 
 ## Overview

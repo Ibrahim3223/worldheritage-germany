@@ -1,24 +1,51 @@
 ---
-title: "Friedenskirche Charlottenburg"
-site_name: "Friedenskirche Charlottenburg"
-slug: "friedenskirche-charlottenburg"
-region: "Berlin"
-
-# Location
+title: Friedenskirche Charlottenburg
+site_name: Friedenskirche Charlottenburg
+slug: friedenskirche-charlottenburg
+region: Berlin
 latitude: 52.5126
 longitude: 13.3066
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1456769"
-description: "In the heart of Charlottenburg-Wilmersdorf, the Friedenskirche Charlottenburg stands as a distinctive example of Gothic Revival architecture, offering v..."
+- church building
+- religious site
+wikidata_id: Q1456769
+description: In the heart of Charlottenburg-Wilmersdorf, the Friedenskirche Charlottenburg
+  stands as a distinctive example of Gothic Revival architecture, offering v...
 images:
-  - "/images-sites/friedenskirche-charlottenburg/01-37f6e164-1920w.webp"
-  - "/images-sites/friedenskirche-charlottenburg/02-9a23ce98-1920w.webp"
-  - "/images-sites/friedenskirche-charlottenburg/03-9250dd22-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Friedenskirche%20Charlottenburg%201.jpg/1200px-Friedenskirche%20Charlottenburg%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1200px-Friedenskirche_Charlottenburg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedenskirche_Berin-Charlottenburg_Portal.JPG/1200px-Friedenskirche_Berin-Charlottenburg_Portal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg/1200px-Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fotothek_df_pk_0000262_027.jpg/1200px-Fotothek_df_pk_0000262_027.jpg
+image_srcset:
+  Friedenskirche%20Charlottenburg%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Friedenskirche%20Charlottenburg%201.jpg/400px-Friedenskirche%20Charlottenburg%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Friedenskirche%20Charlottenburg%201.jpg/800px-Friedenskirche%20Charlottenburg%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Friedenskirche%20Charlottenburg%201.jpg/1200px-Friedenskirche%20Charlottenburg%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Friedenskirche%20Charlottenburg%201.jpg/1920px-Friedenskirche%20Charlottenburg%201.jpg
+  Friedenskirche Charlottenburg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/400px-Friedenskirche_Charlottenburg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/800px-Friedenskirche_Charlottenburg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1200px-Friedenskirche_Charlottenburg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Friedenskirche_Charlottenburg_1.jpg/1920px-Friedenskirche_Charlottenburg_1.jpg
+  Friedenskirche Berin-Charlottenburg Portal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedenskirche_Berin-Charlottenburg_Portal.JPG/400px-Friedenskirche_Berin-Charlottenburg_Portal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedenskirche_Berin-Charlottenburg_Portal.JPG/800px-Friedenskirche_Berin-Charlottenburg_Portal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedenskirche_Berin-Charlottenburg_Portal.JPG/1200px-Friedenskirche_Berin-Charlottenburg_Portal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Friedenskirche_Berin-Charlottenburg_Portal.JPG/1920px-Friedenskirche_Berin-Charlottenburg_Portal.JPG
+  Berlin-Charlottenburg, Friedenskirche, Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg/400px-Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg/800px-Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg/1200px-Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg/1920px-Berlin-Charlottenburg,_Friedenskirche,_Orgel.jpg
+  Fotothek df pk 0000262 027.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fotothek_df_pk_0000262_027.jpg/400px-Fotothek_df_pk_0000262_027.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fotothek_df_pk_0000262_027.jpg/800px-Fotothek_df_pk_0000262_027.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fotothek_df_pk_0000262_027.jpg/1200px-Fotothek_df_pk_0000262_027.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fotothek_df_pk_0000262_027.jpg/1920px-Fotothek_df_pk_0000262_027.jpg
 ---
 
 ## Overview

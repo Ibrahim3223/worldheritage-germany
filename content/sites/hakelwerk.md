@@ -1,19 +1,50 @@
 ---
-title: "Hakelwerk"
+title: Hakelwerk
 date: 2026-01-23
 draft: false
-description: "mit einem Doppelgrabensystem, Wällen und Eckbastionen bewehrte Befestigung in Weener, Landkreis Leer, Niedersachsen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fortress"
+description: mit einem Doppelgrabensystem, Wällen und Eckbastionen bewehrte Befestigung
+  in Weener, Landkreis Leer, Niedersachsen
+region: Germany
+country: Germany
+heritage_type: Fortress
 categories:
-  - "Fortress"
+- Fortress
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1219
 longitude: 7.29875
 images:
-  - "/images-sites/hakelwerk/01-73712a89-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg/1200px-Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg
+image_srcset:
+  Weener - Dielerheider Straße - Hakelwerk 08 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg/400px-Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg/800px-Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg/1920px-Weener_-_Dielerheider_Straße_-_Hakelwerk_08_ies.jpg
+  Weener - Dielerheider Straße + Hakelwerk 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg/400px-Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg/800px-Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg/1200px-Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg/1920px-Weener_-_Dielerheider_Straße_+_Hakelwerk_03_ies.jpg
+  Weener - Dielerheider Straße - Hakelwerk 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg/400px-Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg/800px-Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg/1920px-Weener_-_Dielerheider_Straße_-_Hakelwerk_02_ies.jpg
+  Weener - Dielerheider Straße - Hakelwerk 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg/400px-Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg/800px-Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg/1920px-Weener_-_Dielerheider_Straße_-_Hakelwerk_03_ies.jpg
+  Weener - Dielerheider Straße - Hakelwerk 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg/400px-Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg/800px-Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg/1200px-Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg/1920px-Weener_-_Dielerheider_Straße_-_Hakelwerk_05_ies.jpg
 ---
 
 ## Overview

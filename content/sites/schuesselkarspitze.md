@@ -13,7 +13,7 @@ regions:
 latitude: 47.3972
 longitude: 11.1197
 images:
-  - "/images-sites/schuesselkarspitze/01-08ce5023-800w.webp"
+  - "/images/schuesselkarspitze/01-08ce5023-800w.webp"
 ---
 
 ## Overview

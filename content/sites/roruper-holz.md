@@ -13,7 +13,7 @@ regions:
 latitude: 51.916305555
 longitude: 7.231611111
 images:
-  - "/images-sites/roruper-holz/01-6d63ee9e-800w.webp"
+  - "/images/roruper-holz/01-6d63ee9e-800w.webp"
 ---
 
 ## Overview

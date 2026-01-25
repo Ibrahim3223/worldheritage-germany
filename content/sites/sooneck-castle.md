@@ -21,7 +21,7 @@ longitude: 7.82493
 
 # Images
 images:
-  - "/images-sites/sooneck-castle/01-382db24d-800w.webp"
+  - "/images/sooneck-castle/01-382db24d-800w.webp"
 ---
 
 ## Overview

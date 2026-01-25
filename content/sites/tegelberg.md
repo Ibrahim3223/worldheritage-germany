@@ -13,7 +13,7 @@ regions:
 latitude: 47.5595
 longitude: 10.7785
 images:
-  - "/images-sites/tegelberg/01-37314c3d-800w.webp"
+  - "/images/tegelberg/01-37314c3d-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Baumschule Bischweiler"
+title: Baumschule Bischweiler
 date: 2026-01-23
 draft: false
-description: "park in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1194
 longitude: 11.565
 images:
-  - "/images-sites/baumschule-bischweiler/01-14d9fa12-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1200px-Muebischweilerrgareal072019c89.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Muebischweilerrgweg072019c85.jpg/1200px-Muebischweilerrgweg072019c85.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg/1200px-Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zufahrt_zur_Baumschule_Bischweiler.jpg/1200px-Zufahrt_zur_Baumschule_Bischweiler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Luftbild_Baumschule_Bischweiler_1.jpg/1200px-Luftbild_Baumschule_Bischweiler_1.jpg
+image_srcset:
+  Muebischweilerrgareal072019c89.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/400px-Muebischweilerrgareal072019c89.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/800px-Muebischweilerrgareal072019c89.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1200px-Muebischweilerrgareal072019c89.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muebischweilerrgareal072019c89.jpg/1920px-Muebischweilerrgareal072019c89.jpg
+  Muebischweilerrgweg072019c85.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Muebischweilerrgweg072019c85.jpg/400px-Muebischweilerrgweg072019c85.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Muebischweilerrgweg072019c85.jpg/800px-Muebischweilerrgweg072019c85.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Muebischweilerrgweg072019c85.jpg/1200px-Muebischweilerrgweg072019c85.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Muebischweilerrgweg072019c85.jpg/1920px-Muebischweilerrgweg072019c85.jpg
+  Gehölzkulturen in der Baumschule Bischweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg/400px-Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg/800px-Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg/1200px-Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg/1920px-Gehölzkulturen_in_der_Baumschule_Bischweiler.jpg
+  Zufahrt zur Baumschule Bischweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zufahrt_zur_Baumschule_Bischweiler.jpg/400px-Zufahrt_zur_Baumschule_Bischweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zufahrt_zur_Baumschule_Bischweiler.jpg/800px-Zufahrt_zur_Baumschule_Bischweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zufahrt_zur_Baumschule_Bischweiler.jpg/1200px-Zufahrt_zur_Baumschule_Bischweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zufahrt_zur_Baumschule_Bischweiler.jpg/1920px-Zufahrt_zur_Baumschule_Bischweiler.jpg
+  Luftbild Baumschule Bischweiler 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Luftbild_Baumschule_Bischweiler_1.jpg/400px-Luftbild_Baumschule_Bischweiler_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Luftbild_Baumschule_Bischweiler_1.jpg/800px-Luftbild_Baumschule_Bischweiler_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Luftbild_Baumschule_Bischweiler_1.jpg/1200px-Luftbild_Baumschule_Bischweiler_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Luftbild_Baumschule_Bischweiler_1.jpg/1920px-Luftbild_Baumschule_Bischweiler_1.jpg
 ---
 
 ## Overview

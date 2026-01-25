@@ -1,27 +1,49 @@
 ---
-title: "Burg Balduinseck"
+title: Burg Balduinseck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.0764
 longitude: 7.36339
-
-# Images
 images:
-  - "/images-sites/burg-balduinseck/01-ff9ff7fb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ruine_Balduinseck_25.08.2021.jpg/1200px-Ruine_Balduinseck_25.08.2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ruine_Balduinseck_25.08.2021_VIII.jpg/1200px-Ruine_Balduinseck_25.08.2021_VIII.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ruine_Balduinseck_(2).jpg/1200px-Ruine_Balduinseck_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ruine_Balduinseck_(5).jpg/1200px-Ruine_Balduinseck_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baldiunseck1.jpg/1200px-Baldiunseck1.jpg
+image_srcset:
+  Ruine Balduinseck 25.08.2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ruine_Balduinseck_25.08.2021.jpg/400px-Ruine_Balduinseck_25.08.2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ruine_Balduinseck_25.08.2021.jpg/800px-Ruine_Balduinseck_25.08.2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ruine_Balduinseck_25.08.2021.jpg/1200px-Ruine_Balduinseck_25.08.2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ruine_Balduinseck_25.08.2021.jpg/1920px-Ruine_Balduinseck_25.08.2021.jpg
+  Ruine Balduinseck 25.08.2021 VIII.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ruine_Balduinseck_25.08.2021_VIII.jpg/400px-Ruine_Balduinseck_25.08.2021_VIII.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ruine_Balduinseck_25.08.2021_VIII.jpg/800px-Ruine_Balduinseck_25.08.2021_VIII.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ruine_Balduinseck_25.08.2021_VIII.jpg/1200px-Ruine_Balduinseck_25.08.2021_VIII.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ruine_Balduinseck_25.08.2021_VIII.jpg/1920px-Ruine_Balduinseck_25.08.2021_VIII.jpg
+  Ruine Balduinseck (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ruine_Balduinseck_(2).jpg/400px-Ruine_Balduinseck_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ruine_Balduinseck_(2).jpg/800px-Ruine_Balduinseck_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ruine_Balduinseck_(2).jpg/1200px-Ruine_Balduinseck_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ruine_Balduinseck_(2).jpg/1920px-Ruine_Balduinseck_(2).jpg
+  Ruine Balduinseck (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ruine_Balduinseck_(5).jpg/400px-Ruine_Balduinseck_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ruine_Balduinseck_(5).jpg/800px-Ruine_Balduinseck_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ruine_Balduinseck_(5).jpg/1200px-Ruine_Balduinseck_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ruine_Balduinseck_(5).jpg/1920px-Ruine_Balduinseck_(5).jpg
+  Baldiunseck1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baldiunseck1.jpg/400px-Baldiunseck1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baldiunseck1.jpg/800px-Baldiunseck1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baldiunseck1.jpg/1200px-Baldiunseck1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baldiunseck1.jpg/1920px-Baldiunseck1.jpg
 ---
 
 ## Overview

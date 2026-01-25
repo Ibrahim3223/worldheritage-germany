@@ -13,7 +13,7 @@ regions:
 latitude: 49.4028
 longitude: 8.73066
 images:
-  - "/images-sites/telecom-telecommunication-tower-heidelberg/01-d6335d1d-800w.webp"
+  - "/images/telecom-telecommunication-tower-heidelberg/01-d6335d1d-800w.webp"
 ---
 
 ## Overview

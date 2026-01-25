@@ -21,7 +21,7 @@ longitude: 14.063436
 
 # Images
 images:
-  - "/images-sites/rathaus/01-9a3db466-800w.webp"
+  - "/images/rathaus/01-9a3db466-800w.webp"
 ---
 
 ## Overview

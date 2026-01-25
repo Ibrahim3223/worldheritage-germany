@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q14540448"
 description: "St. Jakobi in Bremen-Neustadt is a remarkable Gothic Revival church that commands attention with its intricate brickwork and architectural elegance. As ..."
 images:
-  - "/images-sites/st-jakobi-bremen-neustadt/01-1a96e3fe-1920w.webp"
-  - "/images-sites/st-jakobi-bremen-neustadt/02-0a3b7300-1920w.webp"
-  - "/images-sites/st-jakobi-bremen-neustadt/03-c34765d5-1920w.webp"
+  - "/images/st-jakobi-bremen-neustadt/01-1a96e3fe-1920w.webp"
+  - "/images/st-jakobi-bremen-neustadt/02-0a3b7300-1920w.webp"
+  - "/images/st-jakobi-bremen-neustadt/03-c34765d5-1920w.webp"
 ---
 
 ## Overview

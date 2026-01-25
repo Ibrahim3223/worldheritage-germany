@@ -21,7 +21,7 @@ longitude: 6.77204
 
 # Images
 images:
-  - "/images-sites/nrw-forum/01-4cfd7652-800w.webp"
+  - "/images/nrw-forum/01-4cfd7652-800w.webp"
 ---
 
 ## Overview

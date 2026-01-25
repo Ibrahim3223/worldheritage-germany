@@ -1,19 +1,37 @@
 ---
-title: "Gut Freienwillen"
+title: Gut Freienwillen
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.8161
 longitude: 9.63494
 images:
-  - "/images-sites/gut-freienwillen/01-e2a27bcc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/1200px-Gut_Freienwillen,_Haupthaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg/1200px-Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gut_Freienwillen,_Seitenansicht.jpg/1200px-Gut_Freienwillen,_Seitenansicht.jpg
+image_srcset:
+  Gut Freienwillen, Haupthaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/400px-Gut_Freienwillen,_Haupthaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/800px-Gut_Freienwillen,_Haupthaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/1200px-Gut_Freienwillen,_Haupthaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gut_Freienwillen,_Haupthaus.jpg/1920px-Gut_Freienwillen,_Haupthaus.jpg
+  Gut Freienwillen, Haupthaus mit Nebengebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg/400px-Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg/800px-Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg/1200px-Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg/1920px-Gut_Freienwillen,_Haupthaus_mit_Nebengebäude.jpg
+  Gut Freienwillen, Seitenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gut_Freienwillen,_Seitenansicht.jpg/400px-Gut_Freienwillen,_Seitenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gut_Freienwillen,_Seitenansicht.jpg/800px-Gut_Freienwillen,_Seitenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gut_Freienwillen,_Seitenansicht.jpg/1200px-Gut_Freienwillen,_Seitenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gut_Freienwillen,_Seitenansicht.jpg/1920px-Gut_Freienwillen,_Seitenansicht.jpg
 ---
 
 ## Overview

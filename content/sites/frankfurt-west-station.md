@@ -1,19 +1,49 @@
 ---
-title: "Frankfurt West station"
+title: Frankfurt West station
 date: 2026-01-23
 draft: false
-description: "railway station in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1192
 longitude: 8.63944
 images:
-  - "/images-sites/frankfurt-west-station/01-8b9002d0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Westbahnhof_Hochbahnsteig.jpg/1200px-Westbahnhof_Hochbahnsteig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg/1200px-Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frankfurt_Westbahnhof_2.jpg/1200px-Frankfurt_Westbahnhof_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt-Westbahnhof_Gleis_1.jpg/1200px-Frankfurt-Westbahnhof_Gleis_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frankfurt-Bockenheim_Westbahnhof_A2.jpg/1200px-Frankfurt-Bockenheim_Westbahnhof_A2.jpg
+image_srcset:
+  Westbahnhof Hochbahnsteig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Westbahnhof_Hochbahnsteig.jpg/400px-Westbahnhof_Hochbahnsteig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Westbahnhof_Hochbahnsteig.jpg/800px-Westbahnhof_Hochbahnsteig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Westbahnhof_Hochbahnsteig.jpg/1200px-Westbahnhof_Hochbahnsteig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Westbahnhof_Hochbahnsteig.jpg/1920px-Westbahnhof_Hochbahnsteig.jpg
+  Westbahnhof, 6, Bockenheim, Frankfurt am Main.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg/400px-Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg/800px-Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg/1200px-Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg/1920px-Westbahnhof,_6,_Bockenheim,_Frankfurt_am_Main.jpg
+  Frankfurt Westbahnhof 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frankfurt_Westbahnhof_2.jpg/400px-Frankfurt_Westbahnhof_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frankfurt_Westbahnhof_2.jpg/800px-Frankfurt_Westbahnhof_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frankfurt_Westbahnhof_2.jpg/1200px-Frankfurt_Westbahnhof_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frankfurt_Westbahnhof_2.jpg/1920px-Frankfurt_Westbahnhof_2.jpg
+  Frankfurt-Westbahnhof Gleis 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt-Westbahnhof_Gleis_1.jpg/400px-Frankfurt-Westbahnhof_Gleis_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt-Westbahnhof_Gleis_1.jpg/800px-Frankfurt-Westbahnhof_Gleis_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt-Westbahnhof_Gleis_1.jpg/1200px-Frankfurt-Westbahnhof_Gleis_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt-Westbahnhof_Gleis_1.jpg/1920px-Frankfurt-Westbahnhof_Gleis_1.jpg
+  Frankfurt-Bockenheim Westbahnhof A2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frankfurt-Bockenheim_Westbahnhof_A2.jpg/400px-Frankfurt-Bockenheim_Westbahnhof_A2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frankfurt-Bockenheim_Westbahnhof_A2.jpg/800px-Frankfurt-Bockenheim_Westbahnhof_A2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frankfurt-Bockenheim_Westbahnhof_A2.jpg/1200px-Frankfurt-Bockenheim_Westbahnhof_A2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Frankfurt-Bockenheim_Westbahnhof_A2.jpg/1920px-Frankfurt-Bockenheim_Westbahnhof_A2.jpg
 ---
 
 ## Overview

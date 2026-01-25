@@ -13,7 +13,7 @@ regions:
 latitude: 50.14374
 longitude: 8.63457
 images:
-  - "/images-sites/niddapark/01-a3b7e0f4-800w.webp"
+  - "/images/niddapark/01-a3b7e0f4-800w.webp"
 ---
 
 ## Overview

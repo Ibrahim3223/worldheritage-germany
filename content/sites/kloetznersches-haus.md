@@ -13,7 +13,7 @@ regions:
 latitude: 50.968375
 longitude: 11.906189
 images:
-  - "/images-sites/kloetznersches-haus/01-4b46045e-800w.webp"
+  - "/images/kloetznersches-haus/01-4b46045e-800w.webp"
 ---
 
 ## Overview

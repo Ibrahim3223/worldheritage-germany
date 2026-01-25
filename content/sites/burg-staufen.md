@@ -1,27 +1,49 @@
 ---
-title: "Burg Staufen"
+title: Burg Staufen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.88616667
 longitude: 7.73163889
-
-# Images
 images:
-  - "/images-sites/burg-staufen/01-4acb3511-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_(Staufen_im_Breisgau)_jm87341.jpg/1200px-Burg_(Staufen_im_Breisgau)_jm87341.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgruine_Staufen_im_Breisgau.JPG/1200px-Burgruine_Staufen_im_Breisgau.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_3994_Burg_Staufen_(Breisgau).jpg/1200px-00_3994_Burg_Staufen_(Breisgau).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg/1200px-00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/03304_Staufen_im_Breisgau.jpg/1200px-03304_Staufen_im_Breisgau.jpg
+image_srcset:
+  Burg (Staufen im Breisgau) jm87341.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_(Staufen_im_Breisgau)_jm87341.jpg/400px-Burg_(Staufen_im_Breisgau)_jm87341.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_(Staufen_im_Breisgau)_jm87341.jpg/800px-Burg_(Staufen_im_Breisgau)_jm87341.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_(Staufen_im_Breisgau)_jm87341.jpg/1200px-Burg_(Staufen_im_Breisgau)_jm87341.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_(Staufen_im_Breisgau)_jm87341.jpg/1920px-Burg_(Staufen_im_Breisgau)_jm87341.jpg
+  Burgruine Staufen im Breisgau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgruine_Staufen_im_Breisgau.JPG/400px-Burgruine_Staufen_im_Breisgau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgruine_Staufen_im_Breisgau.JPG/800px-Burgruine_Staufen_im_Breisgau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgruine_Staufen_im_Breisgau.JPG/1200px-Burgruine_Staufen_im_Breisgau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgruine_Staufen_im_Breisgau.JPG/1920px-Burgruine_Staufen_im_Breisgau.JPG
+  00 3994 Burg Staufen (Breisgau).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_3994_Burg_Staufen_(Breisgau).jpg/400px-00_3994_Burg_Staufen_(Breisgau).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_3994_Burg_Staufen_(Breisgau).jpg/800px-00_3994_Burg_Staufen_(Breisgau).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_3994_Burg_Staufen_(Breisgau).jpg/1200px-00_3994_Burg_Staufen_(Breisgau).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/00_3994_Burg_Staufen_(Breisgau).jpg/1920px-00_3994_Burg_Staufen_(Breisgau).jpg
+  00 3319 Burgruine Staufen bei der Stadt Staufen im Breisgau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg/400px-00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg/800px-00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg/1200px-00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg/1920px-00_3319_Burgruine_Staufen_bei_der_Stadt_Staufen_im_Breisgau.jpg
+  03304 Staufen im Breisgau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/03304_Staufen_im_Breisgau.jpg/400px-03304_Staufen_im_Breisgau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/03304_Staufen_im_Breisgau.jpg/800px-03304_Staufen_im_Breisgau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/03304_Staufen_im_Breisgau.jpg/1200px-03304_Staufen_im_Breisgau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/03304_Staufen_im_Breisgau.jpg/1920px-03304_Staufen_im_Breisgau.jpg
 ---
 
 ## Overview

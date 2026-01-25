@@ -1,19 +1,25 @@
 ---
-title: "Jura-Hallen"
+title: Jura-Hallen
 date: 2026-01-23
 draft: false
-description: "presentation hall in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: presentation hall in Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 49.2791
 longitude: 11.4471
 images:
-  - "/images-sites/jura-hallen/01-d2196408-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Neumarkt1.jpg/1200px-Neumarkt1.jpg
+image_srcset:
+  Neumarkt1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Neumarkt1.jpg/400px-Neumarkt1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Neumarkt1.jpg/800px-Neumarkt1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Neumarkt1.jpg/1200px-Neumarkt1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Neumarkt1.jpg/1920px-Neumarkt1.jpg
 ---
 
 ## Overview

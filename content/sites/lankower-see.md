@@ -13,7 +13,7 @@ regions:
 latitude: 53.6411
 longitude: 11.3769
 images:
-  - "/images-sites/lankower-see/01-b3954a14-800w.webp"
+  - "/images/lankower-see/01-b3954a14-800w.webp"
 ---
 
 ## Overview

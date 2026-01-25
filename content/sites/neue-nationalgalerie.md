@@ -21,7 +21,7 @@ longitude: 13.367777777
 
 # Images
 images:
-  - "/images-sites/neue-nationalgalerie/01-12078a7a-800w.webp"
+  - "/images/neue-nationalgalerie/01-12078a7a-800w.webp"
 ---
 
 ## Overview

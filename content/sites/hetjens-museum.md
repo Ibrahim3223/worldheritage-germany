@@ -1,21 +1,49 @@
 ---
-title: "Hetjens-Museum"
+title: Hetjens-Museum
 date: 2026-01-23
 draft: false
-description: "ceramics museum in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: ceramics museum in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2239
 longitude: 6.77111
 images:
-  - "/images-sites/hetjens-museum/01-e055b3d5-800w.webp"
-  - "/images-sites/hetjens-museum/02-890d554f-800w.webp"
-  - "/images-sites/hetjens-museum/03-ae039ef8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg/1200px-Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg/1200px-Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jupiter_and_Callisto._Vienna_porcelain.jpg/1200px-Jupiter_and_Callisto._Vienna_porcelain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duesseldorf_Hetjens_Museum.jpg/1200px-Duesseldorf_Hetjens_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg/1200px-Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg
+image_srcset:
+  Außenansicht des Hetjens - Deutsches Keramikmuseum (2018).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg/400px-Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg/800px-Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg/1200px-Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg/1920px-Außenansicht_des_Hetjens_-_Deutsches_Keramikmuseum_(2018).jpg
+  Düsseldorf - Schulstraße - Hetjens-Museum 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg/400px-Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg/800px-Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg/1200px-Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg/1920px-Düsseldorf_-_Schulstraße_-_Hetjens-Museum_01_ies.jpg
+  Jupiter and Callisto. Vienna porcelain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jupiter_and_Callisto._Vienna_porcelain.jpg/400px-Jupiter_and_Callisto._Vienna_porcelain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jupiter_and_Callisto._Vienna_porcelain.jpg/800px-Jupiter_and_Callisto._Vienna_porcelain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jupiter_and_Callisto._Vienna_porcelain.jpg/1200px-Jupiter_and_Callisto._Vienna_porcelain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jupiter_and_Callisto._Vienna_porcelain.jpg/1920px-Jupiter_and_Callisto._Vienna_porcelain.jpg
+  Duesseldorf Hetjens Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duesseldorf_Hetjens_Museum.jpg/400px-Duesseldorf_Hetjens_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duesseldorf_Hetjens_Museum.jpg/800px-Duesseldorf_Hetjens_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duesseldorf_Hetjens_Museum.jpg/1200px-Duesseldorf_Hetjens_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Duesseldorf_Hetjens_Museum.jpg/1920px-Duesseldorf_Hetjens_Museum.jpg
+  Grabstätte Heinz Ritzerfeld (1882–1954).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg/400px-Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg/800px-Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg/1200px-Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg/1920px-Grabstätte_Heinz_Ritzerfeld_(1882–1954).jpg
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Johanneskirche"
-site_name: "Johanneskirche"
-slug: "johanneskirche"
-region: "Hesse"
-
-# Location
+title: Johanneskirche
+site_name: Johanneskirche
+slug: johanneskirche
+region: Hesse
 latitude: 50.022996683092
 longitude: 8.0998236853576
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1588340"
-description: "In the heart of Eltville am Rhein, the Johanneskirche stands as a remarkable example of Gothic Revival architecture, inviting visitors to explore its ri..."
+- church building
+- religious site
+wikidata_id: Q1588340
+description: In the heart of Eltville am Rhein, the Johanneskirche stands as a remarkable
+  example of Gothic Revival architecture, inviting visitors to explore its ri...
 images:
-  - "/images-sites/johanneskirche/01-2ad501f5-1920w.webp"
-  - "/images-sites/johanneskirche/02-ee2d602f-1920w.webp"
-  - "/images-sites/johanneskirche/03-5a795e7d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg/1200px-Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Düsseldorf,_Johanneskirche,_Orgel_(04).jpg/1200px-Düsseldorf,_Johanneskirche,_Orgel_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/JohanniskircheFR_001.jpg/1200px-JohanniskircheFR_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/1200px-Düsseldorf_Johannes_v_SW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf,_Johanneskirche,_Orgel_(02).jpg/1200px-Düsseldorf,_Johanneskirche,_Orgel_(02).jpg
+image_srcset:
+  Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg/400px-Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg/800px-Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg/1200px-Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg/1920px-Eltville-Erbach-Johanneskirche%20von%20Suedosten-20110605.jpg
+  Düsseldorf, Johanneskirche, Orgel (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Düsseldorf,_Johanneskirche,_Orgel_(04).jpg/400px-Düsseldorf,_Johanneskirche,_Orgel_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Düsseldorf,_Johanneskirche,_Orgel_(04).jpg/800px-Düsseldorf,_Johanneskirche,_Orgel_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Düsseldorf,_Johanneskirche,_Orgel_(04).jpg/1200px-Düsseldorf,_Johanneskirche,_Orgel_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Düsseldorf,_Johanneskirche,_Orgel_(04).jpg/1920px-Düsseldorf,_Johanneskirche,_Orgel_(04).jpg
+  JohanniskircheFR 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/JohanniskircheFR_001.jpg/400px-JohanniskircheFR_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/JohanniskircheFR_001.jpg/800px-JohanniskircheFR_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/JohanniskircheFR_001.jpg/1200px-JohanniskircheFR_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/JohanniskircheFR_001.jpg/1920px-JohanniskircheFR_001.jpg
+  Düsseldorf Johannes v SW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/400px-Düsseldorf_Johannes_v_SW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/800px-Düsseldorf_Johannes_v_SW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/1200px-Düsseldorf_Johannes_v_SW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Düsseldorf_Johannes_v_SW.jpg/1920px-Düsseldorf_Johannes_v_SW.jpg
+  Düsseldorf, Johanneskirche, Orgel (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf,_Johanneskirche,_Orgel_(02).jpg/400px-Düsseldorf,_Johanneskirche,_Orgel_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf,_Johanneskirche,_Orgel_(02).jpg/800px-Düsseldorf,_Johanneskirche,_Orgel_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf,_Johanneskirche,_Orgel_(02).jpg/1200px-Düsseldorf,_Johanneskirche,_Orgel_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Düsseldorf,_Johanneskirche,_Orgel_(02).jpg/1920px-Düsseldorf,_Johanneskirche,_Orgel_(02).jpg
 ---
 
 ## Overview

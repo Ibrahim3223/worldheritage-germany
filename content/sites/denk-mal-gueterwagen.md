@@ -1,19 +1,49 @@
 ---
-title: "Denk-Mal Güterwagen"
+title: Denk-Mal Güterwagen
 date: 2026-01-23
 draft: false
-description: "monument in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 53.587464
 longitude: 10.027059
 images:
-  - "/images-sites/denk-mal-gueterwagen/01-af648f9c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg/1200px-Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg/1200px-Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg/1200px-Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denkmal_Meerweinstraße.jpg/1200px-Denkmal_Meerweinstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1200px-Hamburg.GS-Winterhude.Denkmal.jpg
+image_srcset:
+  Denk-Mal Güterwagen Hamburg-Winterhude.2.nnw.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg/400px-Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg/800px-Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg/1200px-Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg/1920px-Denk-Mal_Güterwagen_Hamburg-Winterhude.2.nnw.jpg
+  Denk-Mal Güterwagen Relief Gefangener Hamburg-Winterhude.nnw.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg/400px-Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg/800px-Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg/1200px-Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg/1920px-Denk-Mal_Güterwagen_Relief_Gefangener_Hamburg-Winterhude.nnw.jpg
+  Denk-Mal Güterwagen Relief Schädel Hamburg-Winterhude.nnw.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg/400px-Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg/800px-Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg/1200px-Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg/1920px-Denk-Mal_Güterwagen_Relief_Schädel_Hamburg-Winterhude.nnw.jpg
+  Denkmal Meerweinstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denkmal_Meerweinstraße.jpg/400px-Denkmal_Meerweinstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denkmal_Meerweinstraße.jpg/800px-Denkmal_Meerweinstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denkmal_Meerweinstraße.jpg/1200px-Denkmal_Meerweinstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denkmal_Meerweinstraße.jpg/1920px-Denkmal_Meerweinstraße.jpg
+  Hamburg.GS-Winterhude.Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/400px-Hamburg.GS-Winterhude.Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/800px-Hamburg.GS-Winterhude.Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1200px-Hamburg.GS-Winterhude.Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hamburg.GS-Winterhude.Denkmal.jpg/1920px-Hamburg.GS-Winterhude.Denkmal.jpg
 ---
 
 ## Overview

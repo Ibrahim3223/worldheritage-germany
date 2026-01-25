@@ -13,7 +13,7 @@ regions:
 latitude: 49.017632
 longitude: 13.22803
 images:
-  - "/images-sites/zwiesel-kristallglas/01-1e9a9a1b-800w.webp"
+  - "/images/zwiesel-kristallglas/01-1e9a9a1b-800w.webp"
 ---
 
 ## Overview

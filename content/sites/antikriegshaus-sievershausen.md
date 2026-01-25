@@ -1,19 +1,43 @@
 ---
-title: "Antikriegshaus Sievershausen"
+title: Antikriegshaus Sievershausen
 date: 2026-01-23
 draft: false
-description: "building and event venue near Hannover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building and event venue near Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.374284
 longitude: 10.129696
 images:
-  - "/images-sites/antikriegshaus-sievershausen/01-1b96cf1a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-04-20_Ostermarsch_Hannover_(349).JPG/1200px-2019-04-20_Ostermarsch_Hannover_(349).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1200px-Antikriegshaus_Sievershausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antikriegshaus_Sievershausen_mit_Bauphase.jpg/1200px-Antikriegshaus_Sievershausen_mit_Bauphase.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sievershausen_Antikriegshaus.jpg/1200px-Sievershausen_Antikriegshaus.jpg
+image_srcset:
+  2019-04-20 Ostermarsch Hannover (349).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-04-20_Ostermarsch_Hannover_(349).JPG/400px-2019-04-20_Ostermarsch_Hannover_(349).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-04-20_Ostermarsch_Hannover_(349).JPG/800px-2019-04-20_Ostermarsch_Hannover_(349).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-04-20_Ostermarsch_Hannover_(349).JPG/1200px-2019-04-20_Ostermarsch_Hannover_(349).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2019-04-20_Ostermarsch_Hannover_(349).JPG/1920px-2019-04-20_Ostermarsch_Hannover_(349).JPG
+  Antikriegshaus Sievershausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/400px-Antikriegshaus_Sievershausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/800px-Antikriegshaus_Sievershausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1200px-Antikriegshaus_Sievershausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antikriegshaus_Sievershausen.jpg/1920px-Antikriegshaus_Sievershausen.jpg
+  Antikriegshaus Sievershausen mit Bauphase.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antikriegshaus_Sievershausen_mit_Bauphase.jpg/400px-Antikriegshaus_Sievershausen_mit_Bauphase.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antikriegshaus_Sievershausen_mit_Bauphase.jpg/800px-Antikriegshaus_Sievershausen_mit_Bauphase.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antikriegshaus_Sievershausen_mit_Bauphase.jpg/1200px-Antikriegshaus_Sievershausen_mit_Bauphase.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antikriegshaus_Sievershausen_mit_Bauphase.jpg/1920px-Antikriegshaus_Sievershausen_mit_Bauphase.jpg
+  Sievershausen Antikriegshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sievershausen_Antikriegshaus.jpg/400px-Sievershausen_Antikriegshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sievershausen_Antikriegshaus.jpg/800px-Sievershausen_Antikriegshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sievershausen_Antikriegshaus.jpg/1200px-Sievershausen_Antikriegshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sievershausen_Antikriegshaus.jpg/1920px-Sievershausen_Antikriegshaus.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 10.7194
 
 # Images
 images:
-  - "/images-sites/rennsteiggarten-oberhof/01-08cb8a19-800w.webp"
+  - "/images/rennsteiggarten-oberhof/01-08cb8a19-800w.webp"
 ---
 
 ## Overview

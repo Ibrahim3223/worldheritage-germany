@@ -1,29 +1,37 @@
 ---
-title: "Burg Mark"
+title: Burg Mark
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.6822
 longitude: 7.84667
-
-# Images
 images:
-  - "/images-sites/burg-mark/01-43596258-800w.webp"
-  - "/images-sites/burg-mark/02-ad22987a-800w.webp"
-  - "/images-sites/burg-mark/03-2236ce3a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Mark_Infotafel_2.JPG/1200px-Burg_Mark_Infotafel_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Mark_Vandalismus_1.JPG/1200px-Burg_Mark_Vandalismus_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Förderverein_Burg_Mark.JPG/1200px-Förderverein_Burg_Mark.JPG
+image_srcset:
+  Burg Mark Infotafel 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Mark_Infotafel_2.JPG/400px-Burg_Mark_Infotafel_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Mark_Infotafel_2.JPG/800px-Burg_Mark_Infotafel_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Mark_Infotafel_2.JPG/1200px-Burg_Mark_Infotafel_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burg_Mark_Infotafel_2.JPG/1920px-Burg_Mark_Infotafel_2.JPG
+  Burg Mark Vandalismus 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Mark_Vandalismus_1.JPG/400px-Burg_Mark_Vandalismus_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Mark_Vandalismus_1.JPG/800px-Burg_Mark_Vandalismus_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Mark_Vandalismus_1.JPG/1200px-Burg_Mark_Vandalismus_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Mark_Vandalismus_1.JPG/1920px-Burg_Mark_Vandalismus_1.JPG
+  Förderverein Burg Mark.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Förderverein_Burg_Mark.JPG/400px-Förderverein_Burg_Mark.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Förderverein_Burg_Mark.JPG/800px-Förderverein_Burg_Mark.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Förderverein_Burg_Mark.JPG/1200px-Förderverein_Burg_Mark.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Förderverein_Burg_Mark.JPG/1920px-Förderverein_Burg_Mark.JPG
 ---
 
 ## Overview

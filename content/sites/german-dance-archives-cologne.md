@@ -1,21 +1,31 @@
 ---
-title: "German Dance Archives Cologne"
+title: German Dance Archives Cologne
 date: 2026-01-23
 draft: false
-description: "archive, Library and Museum of present and past Art of Dancing"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: archive, Library and Museum of present and past Art of Dancing
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.94869
 longitude: 6.94339
 images:
-  - "/images-sites/german-dance-archives-cologne/01-ad360907-800w.webp"
-  - "/images-sites/german-dance-archives-cologne/02-f9dd969f-800w.webp"
-  - "/images-sites/german-dance-archives-cologne/03-73c022b1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MediaPark_Köln,_Haus_7_(Komed)-0392.jpg/1200px-MediaPark_Köln,_Haus_7_(Komed)-0392.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg/1200px-Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg
+image_srcset:
+  MediaPark Köln, Haus 7 (Komed)-0392.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MediaPark_Köln,_Haus_7_(Komed)-0392.jpg/400px-MediaPark_Köln,_Haus_7_(Komed)-0392.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MediaPark_Köln,_Haus_7_(Komed)-0392.jpg/800px-MediaPark_Köln,_Haus_7_(Komed)-0392.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MediaPark_Köln,_Haus_7_(Komed)-0392.jpg/1200px-MediaPark_Köln,_Haus_7_(Komed)-0392.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MediaPark_Köln,_Haus_7_(Komed)-0392.jpg/1920px-MediaPark_Köln,_Haus_7_(Komed)-0392.jpg
+  Komed, SK Stiftung Kultur, Mediapark 7, Köln-0365.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg/400px-Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg/800px-Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg/1200px-Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg/1920px-Komed,_SK_Stiftung_Kultur,_Mediapark_7,_Köln-0365.jpg
 ---
 
 ## Overview

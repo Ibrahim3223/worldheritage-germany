@@ -1,19 +1,49 @@
 ---
-title: "ESO Supernova Planetarium & Visitor Centre"
+title: ESO Supernova Planetarium & Visitor Centre
 date: 2026-01-23
 draft: false
-description: "astronomy center"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: astronomy center
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.26025
 longitude: 11.670878
 images:
-  - "/images-sites/eso-supernova-planetarium-visitor-centre/01-4fdd7a9b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg/1200px-ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/1200px-ESO_Supernova_opening.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg/1200px-ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_ESO_Supernova_exhibition.jpg/1200px-The_ESO_Supernova_exhibition.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_ESO_Supernova.svg/1200px-Logo_ESO_Supernova.svg.png
+image_srcset:
+  ESO Supernova Planetarium & Visitor Centre, spring vegetation (31857325638).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg/400px-ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg/800px-ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg/1200px-ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg/1920px-ESO_Supernova_Planetarium_&_Visitor_Centre,_spring_vegetation_(31857325638).jpg
+  ESO Supernova opening.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/400px-ESO_Supernova_opening.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/800px-ESO_Supernova_opening.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/1200px-ESO_Supernova_opening.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ESO_Supernova_opening.jpg/1920px-ESO_Supernova_opening.jpg
+  ESO Supernova opens its doors to the world (upr IMG 6803-cc).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg/400px-ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg/800px-ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg/1200px-ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg/1920px-ESO_Supernova_opens_its_doors_to_the_world_(upr_IMG_6803-cc).tif.jpg
+  The ESO Supernova exhibition.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_ESO_Supernova_exhibition.jpg/400px-The_ESO_Supernova_exhibition.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_ESO_Supernova_exhibition.jpg/800px-The_ESO_Supernova_exhibition.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_ESO_Supernova_exhibition.jpg/1200px-The_ESO_Supernova_exhibition.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_ESO_Supernova_exhibition.jpg/1920px-The_ESO_Supernova_exhibition.jpg
+  Logo ESO Supernova.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_ESO_Supernova.svg/400px-Logo_ESO_Supernova.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_ESO_Supernova.svg/800px-Logo_ESO_Supernova.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_ESO_Supernova.svg/1200px-Logo_ESO_Supernova.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_ESO_Supernova.svg/1920px-Logo_ESO_Supernova.svg.png
 ---
 
 ## Overview

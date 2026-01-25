@@ -21,7 +21,7 @@ longitude: 6.87133
 
 # Images
 images:
-  - "/images-sites/schloss-broich/01-aa4fb882-800w.webp"
+  - "/images/schloss-broich/01-aa4fb882-800w.webp"
 ---
 
 ## Overview

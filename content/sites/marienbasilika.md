@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1897617"
 description: "In the heart of Kevelaer, Germany, the Marienbasilika stands as a striking example of Gothic Revival architecture. This church is not merely a place of ..."
 images:
-  - "/images-sites/marienbasilika/01-4eaea88b-1920w.webp"
-  - "/images-sites/marienbasilika/02-aa5df8ff-1920w.webp"
-  - "/images-sites/marienbasilika/03-7a263afe-1920w.webp"
+  - "/images/marienbasilika/01-4eaea88b-1920w.webp"
+  - "/images/marienbasilika/02-aa5df8ff-1920w.webp"
+  - "/images/marienbasilika/03-7a263afe-1920w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 8.74083
 
 # Images
 images:
-  - "/images-sites/neuburg-abbey/01-0a25f7ff-800w.webp"
+  - "/images/neuburg-abbey/01-0a25f7ff-800w.webp"
 ---
 
 ## Overview

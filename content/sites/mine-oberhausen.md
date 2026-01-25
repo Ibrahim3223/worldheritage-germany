@@ -13,7 +13,7 @@ regions:
 latitude: 51.4822
 longitude: 6.885
 images:
-  - "/images-sites/mine-oberhausen/01-183f303b-800w.webp"
+  - "/images/mine-oberhausen/01-183f303b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.006944444
 longitude: 7.700833333
 images:
-  - "/images-sites/tuniberg/01-902f588a-800w.webp"
+  - "/images/tuniberg/01-902f588a-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Ellerhoop-Thiensen Arboretum"
+title: Ellerhoop-Thiensen Arboretum
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.7173
 longitude: 9.77642
-
-# Images
 images:
-  - "/images-sites/ellerhoop-thiensen-arboretum/01-deb73711-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg/1200px-Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg/1200px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg/1200px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arboretum_Ellerhoop_-_Wasserwald.jpg/1200px-Arboretum_Ellerhoop_-_Wasserwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg/1200px-Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg
+image_srcset:
+  Arboretum Ellerhoop – Gelbe Scheinkalla.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg/400px-Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg/800px-Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg/1200px-Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg/1920px-Arboretum_Ellerhoop_–_Gelbe_Scheinkalla.jpg
+  Nelumbo nucifera – Arboretum Ellerhoop 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg/400px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg/800px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg/1200px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg/1920px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_13.jpg
+  Nelumbo nucifera – Arboretum Ellerhoop 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg/400px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg/800px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg/1200px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg/1920px-Nelumbo_nucifera_–_Arboretum_Ellerhoop_5.jpg
+  Arboretum Ellerhoop - Wasserwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arboretum_Ellerhoop_-_Wasserwald.jpg/400px-Arboretum_Ellerhoop_-_Wasserwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arboretum_Ellerhoop_-_Wasserwald.jpg/800px-Arboretum_Ellerhoop_-_Wasserwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arboretum_Ellerhoop_-_Wasserwald.jpg/1200px-Arboretum_Ellerhoop_-_Wasserwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arboretum_Ellerhoop_-_Wasserwald.jpg/1920px-Arboretum_Ellerhoop_-_Wasserwald.jpg
+  Arboretum Ellerhoop - Dichter-Narzissenwiese 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg/400px-Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg/800px-Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg/1200px-Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg/1920px-Arboretum_Ellerhoop_-_Dichter-Narzissenwiese_2.jpg
 ---
 
 ## Overview

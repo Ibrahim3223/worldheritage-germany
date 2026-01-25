@@ -13,7 +13,7 @@ regions:
 latitude: 52.5807
 longitude: 10.185
 images:
-  - "/images-sites/wienhausen-abbey/01-875ef961-800w.webp"
+  - "/images/wienhausen-abbey/01-875ef961-800w.webp"
 ---
 
 ## Overview

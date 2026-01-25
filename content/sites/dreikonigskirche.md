@@ -1,24 +1,52 @@
 ---
-title: "Dreikönigskirche"
-site_name: "Dreikönigskirche"
-slug: "dreikonigskirche"
-region: "Hesse"
-
-# Location
+title: Dreikönigskirche
+site_name: Dreikönigskirche
+slug: dreikonigskirche
+region: Hesse
 latitude: 50.107217
 longitude: 8.685136
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1185719"
-description: "In the heart of Frankfurt, the Dreikönigskirche stands as a remarkable example of Gothic Revival architecture, drawing both locals and travelers alike. ..."
+- church building
+- religious site
+wikidata_id: Q1185719
+description: In the heart of Frankfurt, the Dreikönigskirche stands as a remarkable
+  example of Gothic Revival architecture, drawing both locals and travelers alike.
+  ...
 images:
-  - "/images-sites/dreikonigskirche/01-efdd2b51-1920w.webp"
-  - "/images-sites/dreikonigskirche/02-3d63f309-1920w.webp"
-  - "/images-sites/dreikonigskirche/03-44f99a04-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg/1200px-Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dreikönigskirche_(August_2025).jpg/1200px-Dreikönigskirche_(August_2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/An_der_Dreikönigskirche_8_Dresden.JPG/1200px-An_der_Dreikönigskirche_8_Dresden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg/1200px-20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg/1200px-20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg
+image_srcset:
+  Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg/400px-Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg/800px-Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg/1200px-Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg/1920px-Frankfurt%20Am%20Main-Dreikoenigskirche%20vom%20Mainkai-20110408.jpg
+  Dreikönigskirche (August 2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dreikönigskirche_(August_2025).jpg/400px-Dreikönigskirche_(August_2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dreikönigskirche_(August_2025).jpg/800px-Dreikönigskirche_(August_2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dreikönigskirche_(August_2025).jpg/1200px-Dreikönigskirche_(August_2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dreikönigskirche_(August_2025).jpg/1920px-Dreikönigskirche_(August_2025).jpg
+  An der Dreikönigskirche 8 Dresden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/An_der_Dreikönigskirche_8_Dresden.JPG/400px-An_der_Dreikönigskirche_8_Dresden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/An_der_Dreikönigskirche_8_Dresden.JPG/800px-An_der_Dreikönigskirche_8_Dresden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/An_der_Dreikönigskirche_8_Dresden.JPG/1200px-An_der_Dreikönigskirche_8_Dresden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/An_der_Dreikönigskirche_8_Dresden.JPG/1920px-An_der_Dreikönigskirche_8_Dresden.JPG
+  20080629155DR Dresden-Neustadt An der Dreikönigskirche 3+5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg/400px-20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg/800px-20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg/1200px-20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg/1920px-20080629155DR_Dresden-Neustadt_An_der_Dreikönigskirche_3+5.jpg
+  20080629150DR Dresden-Neustadt An der Dreikönigskirche 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg/400px-20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg/800px-20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg/1200px-20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg/1920px-20080629150DR_Dresden-Neustadt_An_der_Dreikönigskirche_5.jpg
 ---
 
 ## Overview

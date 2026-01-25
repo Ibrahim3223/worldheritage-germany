@@ -1,19 +1,49 @@
 ---
-title: "Bamberg"
+title: Bamberg
 date: 2026-01-23
 draft: false
-description: "railway halt in the urban district of Bamberg, Upper Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway halt in the urban district of Bamberg, Upper Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.900815
 longitude: 10.899516
 images:
-  - "/images-sites/bamberg/01-68965c44-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg/1200px-Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hain_Eiche_Herbst_121696.jpg/1200px-Hain_Eiche_Herbst_121696.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Man_corona_mask-20200505-RM-160216.jpg/1200px-Man_corona_mask-20200505-RM-160216.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wasserschloss-Villa-Concordia-P3100010.jpg/1200px-Wasserschloss-Villa-Concordia-P3100010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Altes_Rathaus_(Bamberg)_10.JPG/1200px-Altes_Rathaus_(Bamberg)_10.JPG
+image_srcset:
+  Bamberg Naturkundemuseum Vogelsaal 926449506HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg/400px-Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg/800px-Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg/1200px-Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg/1920px-Bamberg_Naturkundemuseum_Vogelsaal_926449506HDR.jpg
+  Hain Eiche Herbst 121696.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hain_Eiche_Herbst_121696.jpg/400px-Hain_Eiche_Herbst_121696.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hain_Eiche_Herbst_121696.jpg/800px-Hain_Eiche_Herbst_121696.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hain_Eiche_Herbst_121696.jpg/1200px-Hain_Eiche_Herbst_121696.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hain_Eiche_Herbst_121696.jpg/1920px-Hain_Eiche_Herbst_121696.jpg
+  Man corona mask-20200505-RM-160216.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Man_corona_mask-20200505-RM-160216.jpg/400px-Man_corona_mask-20200505-RM-160216.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Man_corona_mask-20200505-RM-160216.jpg/800px-Man_corona_mask-20200505-RM-160216.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Man_corona_mask-20200505-RM-160216.jpg/1200px-Man_corona_mask-20200505-RM-160216.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Man_corona_mask-20200505-RM-160216.jpg/1920px-Man_corona_mask-20200505-RM-160216.jpg
+  Wasserschloss-Villa-Concordia-P3100010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wasserschloss-Villa-Concordia-P3100010.jpg/400px-Wasserschloss-Villa-Concordia-P3100010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wasserschloss-Villa-Concordia-P3100010.jpg/800px-Wasserschloss-Villa-Concordia-P3100010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wasserschloss-Villa-Concordia-P3100010.jpg/1200px-Wasserschloss-Villa-Concordia-P3100010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wasserschloss-Villa-Concordia-P3100010.jpg/1920px-Wasserschloss-Villa-Concordia-P3100010.jpg
+  Altes Rathaus (Bamberg) 10.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Altes_Rathaus_(Bamberg)_10.JPG/400px-Altes_Rathaus_(Bamberg)_10.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Altes_Rathaus_(Bamberg)_10.JPG/800px-Altes_Rathaus_(Bamberg)_10.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Altes_Rathaus_(Bamberg)_10.JPG/1200px-Altes_Rathaus_(Bamberg)_10.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Altes_Rathaus_(Bamberg)_10.JPG/1920px-Altes_Rathaus_(Bamberg)_10.JPG
 ---
 
 ## Overview

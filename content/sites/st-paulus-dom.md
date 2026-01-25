@@ -16,7 +16,7 @@ categories:
 wikidata_id: "Q708532"
 description: "Imagine stepping into a space where history, art, and spirituality converge. St.-Paulus-Dom, the magnificent cathedral located in the heart of Münster, ..."
 images:
-  - "/images-sites/st-paulus-dom/01-ee074be3-1920w.webp"
+  - "/images/st-paulus-dom/01-ee074be3-1920w.webp"
 ---
 
 ## Overview

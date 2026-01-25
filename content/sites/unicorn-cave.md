@@ -13,7 +13,7 @@ regions:
 latitude: 51.635
 longitude: 10.4042
 images:
-  - "/images-sites/unicorn-cave/01-06acd9e2-800w.webp"
+  - "/images/unicorn-cave/01-06acd9e2-800w.webp"
 ---
 
 ## Overview

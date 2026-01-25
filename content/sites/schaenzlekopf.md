@@ -13,7 +13,7 @@ regions:
 latitude: 47.417777777
 longitude: 10.4525
 images:
-  - "/images-sites/schaenzlekopf/01-bd2eeb69-800w.webp"
+  - "/images/schaenzlekopf/01-bd2eeb69-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.76667
 longitude: 10.56667
 images:
-  - "/images-sites/steigerwald-nature-park/01-85881a80-800w.webp"
-  - "/images-sites/steigerwald-nature-park/02-4110dcfd-800w.webp"
-  - "/images-sites/steigerwald-nature-park/03-a2051c34-800w.webp"
+  - "/images/steigerwald-nature-park/01-85881a80-800w.webp"
+  - "/images/steigerwald-nature-park/02-4110dcfd-800w.webp"
+  - "/images/steigerwald-nature-park/03-a2051c34-800w.webp"
 ---
 
 ## Overview

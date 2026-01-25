@@ -1,19 +1,37 @@
 ---
-title: "Deutsches Bimsmuseum"
+title: Deutsches Bimsmuseum
 date: 2026-01-23
 draft: false
-description: "Museum in Kaltenengers bei Koblenz zur Geschichte des Bimsabbaus"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Museum in Kaltenengers bei Koblenz zur Geschichte des Bimsabbaus
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.40355066
 longitude: 7.54085292
 images:
-  - "/images-sites/deutsches-bimsmuseum/01-fae09e39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_der_Bimsindustrie_007.jpg/1200px-Museum_der_Bimsindustrie_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum_der_Bimsindustrie,_Förderband.jpg/1200px-Museum_der_Bimsindustrie,_Förderband.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1200px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
+image_srcset:
+  Museum der Bimsindustrie 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_der_Bimsindustrie_007.jpg/400px-Museum_der_Bimsindustrie_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_der_Bimsindustrie_007.jpg/800px-Museum_der_Bimsindustrie_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_der_Bimsindustrie_007.jpg/1200px-Museum_der_Bimsindustrie_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_der_Bimsindustrie_007.jpg/1920px-Museum_der_Bimsindustrie_007.jpg
+  Museum der Bimsindustrie, Förderband.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum_der_Bimsindustrie,_Förderband.jpg/400px-Museum_der_Bimsindustrie,_Förderband.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum_der_Bimsindustrie,_Förderband.jpg/800px-Museum_der_Bimsindustrie,_Förderband.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum_der_Bimsindustrie,_Förderband.jpg/1200px-Museum_der_Bimsindustrie,_Förderband.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum_der_Bimsindustrie,_Förderband.jpg/1920px-Museum_der_Bimsindustrie,_Förderband.jpg
+  Museum der Bimsindustrie, Bimssteine zum Trocknen auf Arken gestapelt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/400px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/800px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1200px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg/1920px-Museum_der_Bimsindustrie,_Bimssteine_zum_Trocknen_auf_Arken_gestapelt.jpg
 ---
 
 ## Overview

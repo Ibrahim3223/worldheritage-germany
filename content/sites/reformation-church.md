@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1409429"
 description: "In the heart of Berlin-Moabit, a striking example of Gothic Revival architecture stands—Reformation Church. Built in 1907, this Protestant church not on..."
 images:
-  - "/images-sites/reformation-church/01-1febc0f3-1920w.webp"
-  - "/images-sites/reformation-church/02-20e539c0-1920w.webp"
-  - "/images-sites/reformation-church/03-f076151d-1920w.webp"
+  - "/images/reformation-church/01-1febc0f3-1920w.webp"
+  - "/images/reformation-church/02-20e539c0-1920w.webp"
+  - "/images/reformation-church/03-f076151d-1920w.webp"
 ---
 
 ## Overview

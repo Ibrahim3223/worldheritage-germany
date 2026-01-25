@@ -1,21 +1,49 @@
 ---
-title: "Bussen"
+title: Bussen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.161944444
 longitude: 9.555277777
 images:
-  - "/images-sites/bussen/01-2ab356a4-800w.webp"
-  - "/images-sites/bussen/02-e5387312-800w.webp"
-  - "/images-sites/bussen/03-81ce1d5a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/7_Bussen.jpg/1200px-7_Bussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Landappbw_526990_4871_Bussen_Bussen.jpg/1200px-Landappbw_526990_4871_Bussen_Bussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Hausen_am_Bussen_COA.svg/1200px-DEU_Hausen_am_Bussen_COA.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hausen_am_Bussen_in_UL.svg/1200px-Hausen_am_Bussen_in_UL.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg/1200px-Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg
+image_srcset:
+  7 Bussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/7_Bussen.jpg/400px-7_Bussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/7_Bussen.jpg/800px-7_Bussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/7_Bussen.jpg/1200px-7_Bussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/7_Bussen.jpg/1920px-7_Bussen.jpg
+  Landappbw 526990 4871 Bussen Bussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Landappbw_526990_4871_Bussen_Bussen.jpg/400px-Landappbw_526990_4871_Bussen_Bussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Landappbw_526990_4871_Bussen_Bussen.jpg/800px-Landappbw_526990_4871_Bussen_Bussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Landappbw_526990_4871_Bussen_Bussen.jpg/1200px-Landappbw_526990_4871_Bussen_Bussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Landappbw_526990_4871_Bussen_Bussen.jpg/1920px-Landappbw_526990_4871_Bussen_Bussen.jpg
+  DEU Hausen am Bussen COA.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Hausen_am_Bussen_COA.svg/400px-DEU_Hausen_am_Bussen_COA.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Hausen_am_Bussen_COA.svg/800px-DEU_Hausen_am_Bussen_COA.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Hausen_am_Bussen_COA.svg/1200px-DEU_Hausen_am_Bussen_COA.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DEU_Hausen_am_Bussen_COA.svg/1920px-DEU_Hausen_am_Bussen_COA.svg.png
+  Hausen am Bussen in UL.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hausen_am_Bussen_in_UL.svg/400px-Hausen_am_Bussen_in_UL.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hausen_am_Bussen_in_UL.svg/800px-Hausen_am_Bussen_in_UL.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hausen_am_Bussen_in_UL.svg/1200px-Hausen_am_Bussen_in_UL.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hausen_am_Bussen_in_UL.svg/1920px-Hausen_am_Bussen_in_UL.svg.png
+  Hausen am Bussen Pfarrkirche Seitenaltar Scagliola.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg/400px-Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg/800px-Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg/1200px-Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg/1920px-Hausen_am_Bussen_Pfarrkirche_Seitenaltar_Scagliola.jpg
 ---
 
 ## Overview

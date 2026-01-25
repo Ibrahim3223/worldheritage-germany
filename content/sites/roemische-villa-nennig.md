@@ -13,7 +13,7 @@ regions:
 latitude: 49.528848
 longitude: 6.384713
 images:
-  - "/images-sites/roemische-villa-nennig/01-79e65e04-800w.webp"
+  - "/images/roemische-villa-nennig/01-79e65e04-800w.webp"
 ---
 
 ## Overview

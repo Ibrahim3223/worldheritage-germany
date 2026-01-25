@@ -21,7 +21,7 @@ longitude: 13.2081
 
 # Images
 images:
-  - "/images-sites/lauterstein-castle-marienberg/01-157a0498-800w.webp"
+  - "/images/lauterstein-castle-marienberg/01-157a0498-800w.webp"
 ---
 
 ## Overview

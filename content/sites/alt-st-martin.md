@@ -1,23 +1,50 @@
 ---
-title: "Alt St. Martin"
-site_name: "Alt St. Martin"
-slug: "alt-st-martin"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Alt St. Martin
+site_name: Alt St. Martin
+slug: alt-st-martin
+region: North Rhine-Westphalia
 latitude: 51.2074
 longitude: 6.76525
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q433292"
-description: "In the heart of Düsseldorf-Bilk lies Alt St. Martin, a church that has stood since the year 900, making it a remarkable testament to the enduring legacy..."
+- cultural site
+wikidata_id: Q433292
+description: In the heart of Düsseldorf-Bilk lies Alt St. Martin, a church that has
+  stood since the year 900, making it a remarkable testament to the enduring legacy...
 images:
-  - "/images-sites/alt-st-martin/01-e077585b-1920w.webp"
-  - "/images-sites/alt-st-martin/02-85ebd476-1920w.webp"
-  - "/images-sites/alt-st-martin/03-e6af048e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG/1200px-D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg/1200px-Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duesseldorf_Alt_St_Martin_2.jpg/1200px-Duesseldorf_Alt_St_Martin_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duesseldorf_Alt_St_Martin_1.jpg/1200px-Duesseldorf_Alt_St_Martin_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/1200px-Düsseldorf_Alt_St_Martin2.JPG
+image_srcset:
+  D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG/400px-D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG/800px-D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG/1200px-D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG/1920px-D%C3%BCsseldorf%20Alt%20St%20Martin2.JPG
+  Alt-St. Martin Düsseldorf-Bilk um 1935 Julius Söhn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg/400px-Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg/800px-Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg/1200px-Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg/1920px-Alt-St._Martin_Düsseldorf-Bilk_um_1935_Julius_Söhn.jpg
+  Duesseldorf Alt St Martin 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duesseldorf_Alt_St_Martin_2.jpg/400px-Duesseldorf_Alt_St_Martin_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duesseldorf_Alt_St_Martin_2.jpg/800px-Duesseldorf_Alt_St_Martin_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duesseldorf_Alt_St_Martin_2.jpg/1200px-Duesseldorf_Alt_St_Martin_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Duesseldorf_Alt_St_Martin_2.jpg/1920px-Duesseldorf_Alt_St_Martin_2.jpg
+  Duesseldorf Alt St Martin 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duesseldorf_Alt_St_Martin_1.jpg/400px-Duesseldorf_Alt_St_Martin_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duesseldorf_Alt_St_Martin_1.jpg/800px-Duesseldorf_Alt_St_Martin_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duesseldorf_Alt_St_Martin_1.jpg/1200px-Duesseldorf_Alt_St_Martin_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duesseldorf_Alt_St_Martin_1.jpg/1920px-Duesseldorf_Alt_St_Martin_1.jpg
+  Düsseldorf Alt St Martin2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/400px-Düsseldorf_Alt_St_Martin2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/800px-Düsseldorf_Alt_St_Martin2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/1200px-Düsseldorf_Alt_St_Martin2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Düsseldorf_Alt_St_Martin2.JPG/1920px-Düsseldorf_Alt_St_Martin2.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hamburg Central Mosque"
+title: Hamburg Central Mosque
 date: 2026-01-23
 draft: false
-description: "Mosque in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: Mosque in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55416667
 longitude: 10.01666667
 images:
-  - "/images-sites/hamburg-central-mosque/01-3c583778-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1200px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Centrum-Moschee_Hamburg(7982100264).jpg/1200px-Centrum-Moschee_Hamburg(7982100264).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg/1200px-Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg/1200px-Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg/1200px-Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg
+image_srcset:
+  Centrum-Moschee Hamburg im Jahr 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/400px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/800px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1200px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Centrum-Moschee_Hamburg_im_Jahr_2019.jpg/1920px-Centrum-Moschee_Hamburg_im_Jahr_2019.jpg
+  Centrum-Moschee Hamburg(7982100264).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Centrum-Moschee_Hamburg(7982100264).jpg/400px-Centrum-Moschee_Hamburg(7982100264).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Centrum-Moschee_Hamburg(7982100264).jpg/800px-Centrum-Moschee_Hamburg(7982100264).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Centrum-Moschee_Hamburg(7982100264).jpg/1200px-Centrum-Moschee_Hamburg(7982100264).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Centrum-Moschee_Hamburg(7982100264).jpg/1920px-Centrum-Moschee_Hamburg(7982100264).jpg
+  Centrum-Moschee Ansicht Lindenstraße mit Linden-Bazar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg/400px-Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg/800px-Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg/1200px-Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg/1920px-Centrum-Moschee_Ansicht_Lindenstraße_mit_Linden-Bazar.jpg
+  Hamburg-Sankt Georg - Centrum Moschee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg/400px-Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg/800px-Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg/1200px-Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg/1920px-Hamburg-Sankt_Georg_-_Centrum_Moschee.jpg
+  Moschee in der Böckmannstraße in Hamburg-St. Georg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg/400px-Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg/800px-Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg/1200px-Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg/1920px-Moschee_in_der_Böckmannstraße_in_Hamburg-St._Georg.jpg
 ---
 
 ## Overview

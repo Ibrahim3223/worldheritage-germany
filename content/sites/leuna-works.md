@@ -13,7 +13,7 @@ regions:
 latitude: 51.31861111
 longitude: 12.00833333
 images:
-  - "/images-sites/leuna-works/01-0deabc4c-800w.webp"
+  - "/images/leuna-works/01-0deabc4c-800w.webp"
 ---
 
 ## Overview

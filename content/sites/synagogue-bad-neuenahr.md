@@ -13,7 +13,7 @@ regions:
 latitude: 50.5448
 longitude: 7.13925
 images:
-  - "/images-sites/synagogue-bad-neuenahr/01-6ef7e431-800w.webp"
+  - "/images/synagogue-bad-neuenahr/01-6ef7e431-800w.webp"
 ---
 
 ## Overview

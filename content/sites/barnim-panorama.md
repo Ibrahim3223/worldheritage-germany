@@ -1,21 +1,49 @@
 ---
-title: "Barnim Panorama"
+title: Barnim Panorama
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7524
 longitude: 13.4538
 images:
-  - "/images-sites/barnim-panorama/01-c50b5d45-800w.webp"
-  - "/images-sites/barnim-panorama/02-d88bc16b-800w.webp"
-  - "/images-sites/barnim-panorama/03-da4b666c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/1200px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg/1200px-Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wandlitz_Barnimpanorama_Naturparkzentrum.jpg/1200px-Wandlitz_Barnimpanorama_Naturparkzentrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg/1200px-Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png/1200px-Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png
+image_srcset:
+  2014-07-06 02 Agrarmuseum Wandlitz anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/400px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/800px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/1200px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG/1920px-2014-07-06_02_Agrarmuseum_Wandlitz_anagoria.JPG
+  Wandlitz Barnimpanorama Naturparkzentrum-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg/400px-Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg/800px-Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg/1200px-Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg/1920px-Wandlitz_Barnimpanorama_Naturparkzentrum-001.jpg
+  Wandlitz Barnimpanorama Naturparkzentrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wandlitz_Barnimpanorama_Naturparkzentrum.jpg/400px-Wandlitz_Barnimpanorama_Naturparkzentrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wandlitz_Barnimpanorama_Naturparkzentrum.jpg/800px-Wandlitz_Barnimpanorama_Naturparkzentrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wandlitz_Barnimpanorama_Naturparkzentrum.jpg/1200px-Wandlitz_Barnimpanorama_Naturparkzentrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wandlitz_Barnimpanorama_Naturparkzentrum.jpg/1920px-Wandlitz_Barnimpanorama_Naturparkzentrum.jpg
+  Wandlitz Naturpark Barnim (ehemals Schule).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg/400px-Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg/800px-Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg/1200px-Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg/1920px-Wandlitz_Naturpark_Barnim_(ehemals_Schule).jpg
+  Agrarmuseum Wandlitz Plan Neubau 2011-08-03 AMA fec (1).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png/400px-Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png/800px-Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png/1200px-Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png/1920px-Agrarmuseum_Wandlitz_Plan_Neubau_2011-08-03_AMA_fec_(1).png
 ---
 
 ## Overview

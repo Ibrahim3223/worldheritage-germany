@@ -13,7 +13,7 @@ regions:
 latitude: 54.565846
 longitude: 8.550553
 images:
-  - "/images-sites/koenigspesel/01-15ccf337-800w.webp"
+  - "/images/koenigspesel/01-15ccf337-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1290262"
 description: "In the heart of Göttingen lies the SS. Peter and Pauls Church, a former church building that reflects the architectural elegance of Gothic design. This ..."
 images:
-  - "/images-sites/ss-peter-and-paul-s-church-gottingen/01-35bfe1e9-1920w.webp"
-  - "/images-sites/ss-peter-and-paul-s-church-gottingen/02-fc68bc87-1920w.webp"
-  - "/images-sites/ss-peter-and-paul-s-church-gottingen/03-48fbfb6f-1920w.webp"
+  - "/images/ss-peter-and-paul-s-church-gottingen/01-35bfe1e9-1920w.webp"
+  - "/images/ss-peter-and-paul-s-church-gottingen/02-fc68bc87-1920w.webp"
+  - "/images/ss-peter-and-paul-s-church-gottingen/03-48fbfb6f-1920w.webp"
 ---
 
 ## Overview

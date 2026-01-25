@@ -1,27 +1,49 @@
 ---
-title: "Castle Keppenbach"
+title: Castle Keppenbach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.1647
 longitude: 7.9168
-
-# Images
 images:
-  - "/images-sites/castle-keppenbach/01-7c617d56-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/06_Castle_Keppenbach.JPG/1200px-06_Castle_Keppenbach.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/1200px-Castle_Keppenbach_–_view_from_north.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Castle_Keppenbach_–_view_from_south.jpg/1200px-Castle_Keppenbach_–_view_from_south.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saegplatz_-_view_from_Castle_Keppenbach.JPG/1200px-Saegplatz_-_view_from_Castle_Keppenbach.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Keppenbach_overview.JPG/1200px-Castle_Keppenbach_overview.JPG
+image_srcset:
+  06 Castle Keppenbach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/06_Castle_Keppenbach.JPG/400px-06_Castle_Keppenbach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/06_Castle_Keppenbach.JPG/800px-06_Castle_Keppenbach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/06_Castle_Keppenbach.JPG/1200px-06_Castle_Keppenbach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/06_Castle_Keppenbach.JPG/1920px-06_Castle_Keppenbach.JPG
+  Castle Keppenbach – view from north.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/400px-Castle_Keppenbach_–_view_from_north.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/800px-Castle_Keppenbach_–_view_from_north.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/1200px-Castle_Keppenbach_–_view_from_north.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Castle_Keppenbach_–_view_from_north.jpg/1920px-Castle_Keppenbach_–_view_from_north.jpg
+  Castle Keppenbach – view from south.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Castle_Keppenbach_–_view_from_south.jpg/400px-Castle_Keppenbach_–_view_from_south.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Castle_Keppenbach_–_view_from_south.jpg/800px-Castle_Keppenbach_–_view_from_south.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Castle_Keppenbach_–_view_from_south.jpg/1200px-Castle_Keppenbach_–_view_from_south.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Castle_Keppenbach_–_view_from_south.jpg/1920px-Castle_Keppenbach_–_view_from_south.jpg
+  Saegplatz - view from Castle Keppenbach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saegplatz_-_view_from_Castle_Keppenbach.JPG/400px-Saegplatz_-_view_from_Castle_Keppenbach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saegplatz_-_view_from_Castle_Keppenbach.JPG/800px-Saegplatz_-_view_from_Castle_Keppenbach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saegplatz_-_view_from_Castle_Keppenbach.JPG/1200px-Saegplatz_-_view_from_Castle_Keppenbach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saegplatz_-_view_from_Castle_Keppenbach.JPG/1920px-Saegplatz_-_view_from_Castle_Keppenbach.JPG
+  Castle Keppenbach overview.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Keppenbach_overview.JPG/400px-Castle_Keppenbach_overview.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Keppenbach_overview.JPG/800px-Castle_Keppenbach_overview.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Keppenbach_overview.JPG/1200px-Castle_Keppenbach_overview.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Keppenbach_overview.JPG/1920px-Castle_Keppenbach_overview.JPG
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Hinte church"
-site_name: "Hinte church"
-slug: "hinte-church"
-region: "Lower Saxony"
-
-# Location
+title: Hinte church
+site_name: Hinte church
+slug: hinte-church
+region: Lower Saxony
 latitude: 53.4162
 longitude: 7.19508
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1619579"
-description: "In the quaint region of Hinte, Lower Saxony, Germany, the Hinte church emerges as a striking example of Brick Gothic architecture. Founded in 1500, this..."
+- cultural site
+wikidata_id: Q1619579
+description: In the quaint region of Hinte, Lower Saxony, Germany, the Hinte church
+  emerges as a striking example of Brick Gothic architecture. Founded in 1500, this...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirche%20Hinte.jpg/1200px-Kirche%20Hinte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hinte_church-msu-7261-.jpg/1200px-Hinte_church-msu-7261-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hinte_church-msu-9815.jpg/1200px-Hinte_church-msu-9815.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchHinte.jpg/1200px-ChurchHinte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/1200px-Kirche_Hinte.jpg
+image_srcset:
+  Kirche%20Hinte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirche%20Hinte.jpg/400px-Kirche%20Hinte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirche%20Hinte.jpg/800px-Kirche%20Hinte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirche%20Hinte.jpg/1200px-Kirche%20Hinte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirche%20Hinte.jpg/1920px-Kirche%20Hinte.jpg
+  Hinte church-msu-7261-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hinte_church-msu-7261-.jpg/400px-Hinte_church-msu-7261-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hinte_church-msu-7261-.jpg/800px-Hinte_church-msu-7261-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hinte_church-msu-7261-.jpg/1200px-Hinte_church-msu-7261-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hinte_church-msu-7261-.jpg/1920px-Hinte_church-msu-7261-.jpg
+  Hinte church-msu-9815.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hinte_church-msu-9815.jpg/400px-Hinte_church-msu-9815.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hinte_church-msu-9815.jpg/800px-Hinte_church-msu-9815.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hinte_church-msu-9815.jpg/1200px-Hinte_church-msu-9815.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hinte_church-msu-9815.jpg/1920px-Hinte_church-msu-9815.jpg
+  ChurchHinte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchHinte.jpg/400px-ChurchHinte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchHinte.jpg/800px-ChurchHinte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchHinte.jpg/1200px-ChurchHinte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchHinte.jpg/1920px-ChurchHinte.jpg
+  Kirche Hinte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/400px-Kirche_Hinte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/800px-Kirche_Hinte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/1200px-Kirche_Hinte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kirche_Hinte.jpg/1920px-Kirche_Hinte.jpg
 ---
 
 ## Overview

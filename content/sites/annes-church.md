@@ -1,23 +1,50 @@
 ---
-title: "Anne’s Church"
-site_name: "Anne’s Church"
-slug: "annes-church"
-region: "Saxony"
-
-# Location
+title: Anne’s Church
+site_name: Anne’s Church
+slug: annes-church
+region: Saxony
 latitude: 51.04888888888889
 longitude: 13.7275
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q566436"
-description: "In the heart of Dresden, Germany, Anne’s Church stands as a magnificent example of Baroque architecture, captivating visitors with its elegant design an..."
+- cultural site
+wikidata_id: Q566436
+description: In the heart of Dresden, Germany, Anne’s Church stands as a magnificent
+  example of Baroque architecture, captivating visitors with its elegant design an...
 images:
-  - "/images-sites/annes-church/01-9bbc7d4f-1920w.webp"
-  - "/images-sites/annes-church/02-66c62118-1920w.webp"
-  - "/images-sites/annes-church/03-0de66f00-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1200px-Dresden-Annenkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg/1200px-Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Annes_soho_harrison.jpg/1200px-Annes_soho_harrison.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg/1200px-St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St_annes_soho_1.jpg/1200px-St_annes_soho_1.jpg
+image_srcset:
+  Dresden-Annenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/400px-Dresden-Annenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/800px-Dresden-Annenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1200px-Dresden-Annenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dresden-Annenkirche.jpg/1920px-Dresden-Annenkirche.jpg
+  Monuments at St Anne’s Church, Soho, June 2023 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg/400px-Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg/800px-Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg/1200px-Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg/1920px-Monuments_at_St_Anne’s_Church,_Soho,_June_2023_04.jpg
+  Annes soho harrison.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Annes_soho_harrison.jpg/400px-Annes_soho_harrison.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Annes_soho_harrison.jpg/800px-Annes_soho_harrison.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Annes_soho_harrison.jpg/1200px-Annes_soho_harrison.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Annes_soho_harrison.jpg/1920px-Annes_soho_harrison.jpg
+  St Anne's Church, Wardour Street W1 - geograph.org.uk - 1824164.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg/400px-St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg/800px-St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg/1200px-St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg/1920px-St_Anne's_Church,_Wardour_Street_W1_-_geograph.org.uk_-_1824164.jpg
+  St annes soho 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St_annes_soho_1.jpg/400px-St_annes_soho_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St_annes_soho_1.jpg/800px-St_annes_soho_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St_annes_soho_1.jpg/1200px-St_annes_soho_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/St_annes_soho_1.jpg/1920px-St_annes_soho_1.jpg
 ---
 
 ## Overview

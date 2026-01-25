@@ -1,19 +1,49 @@
 ---
-title: "Clara mine"
+title: Clara mine
 date: 2026-01-23
 draft: false
-description: "Rankach valley, Oberwolfach"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: Rankach valley, Oberwolfach
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3797
 longitude: 8.22859
 images:
-  - "/images-sites/clara-mine/03-babd13b4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tenorite_cornwallite_Clara.jpg/1200px-Tenorite_cornwallite_Clara.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Delafossite5120.jpg/1200px-Delafossite5120.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cornwallite-111332.jpg/1200px-Cornwallite-111332.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rankachite-88990.jpg/1200px-Rankachite-88990.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barite-Fluorite-lc-96a.jpg/1200px-Barite-Fluorite-lc-96a.jpg
+image_srcset:
+  Tenorite cornwallite Clara.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tenorite_cornwallite_Clara.jpg/400px-Tenorite_cornwallite_Clara.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tenorite_cornwallite_Clara.jpg/800px-Tenorite_cornwallite_Clara.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tenorite_cornwallite_Clara.jpg/1200px-Tenorite_cornwallite_Clara.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tenorite_cornwallite_Clara.jpg/1920px-Tenorite_cornwallite_Clara.jpg
+  Delafossite5120.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Delafossite5120.jpg/400px-Delafossite5120.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Delafossite5120.jpg/800px-Delafossite5120.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Delafossite5120.jpg/1200px-Delafossite5120.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Delafossite5120.jpg/1920px-Delafossite5120.jpg
+  Cornwallite-111332.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cornwallite-111332.jpg/400px-Cornwallite-111332.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cornwallite-111332.jpg/800px-Cornwallite-111332.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cornwallite-111332.jpg/1200px-Cornwallite-111332.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cornwallite-111332.jpg/1920px-Cornwallite-111332.jpg
+  Rankachite-88990.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rankachite-88990.jpg/400px-Rankachite-88990.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rankachite-88990.jpg/800px-Rankachite-88990.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rankachite-88990.jpg/1200px-Rankachite-88990.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rankachite-88990.jpg/1920px-Rankachite-88990.jpg
+  Barite-Fluorite-lc-96a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barite-Fluorite-lc-96a.jpg/400px-Barite-Fluorite-lc-96a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barite-Fluorite-lc-96a.jpg/800px-Barite-Fluorite-lc-96a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barite-Fluorite-lc-96a.jpg/1200px-Barite-Fluorite-lc-96a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barite-Fluorite-lc-96a.jpg/1920px-Barite-Fluorite-lc-96a.jpg
 ---
 
 ## Overview

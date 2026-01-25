@@ -13,7 +13,7 @@ regions:
 latitude: 49.100278
 longitude: 9.749722
 images:
-  - "/images-sites/monastery-of-comburg/01-688f90a6-800w.webp"
+  - "/images/monastery-of-comburg/01-688f90a6-800w.webp"
 ---
 
 ## Overview

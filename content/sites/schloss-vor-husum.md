@@ -13,7 +13,7 @@ regions:
 latitude: 54.4799
 longitude: 9.04982
 images:
-  - "/images-sites/schloss-vor-husum/01-2641cf90-800w.webp"
+  - "/images/schloss-vor-husum/01-2641cf90-800w.webp"
 ---
 
 ## Overview

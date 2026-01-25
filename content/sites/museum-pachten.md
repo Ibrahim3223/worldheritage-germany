@@ -13,7 +13,7 @@ regions:
 latitude: 49.355
 longitude: 6.70853
 images:
-  - "/images-sites/museum-pachten/01-ce637f2f-800w.webp"
+  - "/images/museum-pachten/01-ce637f2f-800w.webp"
 ---
 
 ## Overview

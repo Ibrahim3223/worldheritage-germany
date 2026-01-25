@@ -1,19 +1,49 @@
 ---
-title: "Grocers' Apartments"
+title: Grocers' Apartments
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.548
 longitude: 9.9802
 images:
-  - "/images-sites/grocers-apartments/01-fbc1257d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/1200px-Krameramthh040911_060.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/12832_Krayenkamp_11.JPG/1200px-12832_Krayenkamp_11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Krayenkamp_10e_Krameramt.jpg/1200px-Krayenkamp_10e_Krameramt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/1200px-Krameramtsstuben.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Amburgo_160808_-_Krameramtsstuben_01.JPG/1200px-Amburgo_160808_-_Krameramtsstuben_01.JPG
+image_srcset:
+  Krameramthh040911 060.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/400px-Krameramthh040911_060.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/800px-Krameramthh040911_060.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/1200px-Krameramthh040911_060.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Krameramthh040911_060.jpg/1920px-Krameramthh040911_060.jpg
+  12832 Krayenkamp 11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/12832_Krayenkamp_11.JPG/400px-12832_Krayenkamp_11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/12832_Krayenkamp_11.JPG/800px-12832_Krayenkamp_11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/12832_Krayenkamp_11.JPG/1200px-12832_Krayenkamp_11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/12832_Krayenkamp_11.JPG/1920px-12832_Krayenkamp_11.JPG
+  Krayenkamp 10e Krameramt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Krayenkamp_10e_Krameramt.jpg/400px-Krayenkamp_10e_Krameramt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Krayenkamp_10e_Krameramt.jpg/800px-Krayenkamp_10e_Krameramt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Krayenkamp_10e_Krameramt.jpg/1200px-Krayenkamp_10e_Krameramt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Krayenkamp_10e_Krameramt.jpg/1920px-Krayenkamp_10e_Krameramt.jpg
+  Krameramtsstuben.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/400px-Krameramtsstuben.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/800px-Krameramtsstuben.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/1200px-Krameramtsstuben.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Krameramtsstuben.JPG/1920px-Krameramtsstuben.JPG
+  Amburgo 160808 - Krameramtsstuben 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Amburgo_160808_-_Krameramtsstuben_01.JPG/400px-Amburgo_160808_-_Krameramtsstuben_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Amburgo_160808_-_Krameramtsstuben_01.JPG/800px-Amburgo_160808_-_Krameramtsstuben_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Amburgo_160808_-_Krameramtsstuben_01.JPG/1200px-Amburgo_160808_-_Krameramtsstuben_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Amburgo_160808_-_Krameramtsstuben_01.JPG/1920px-Amburgo_160808_-_Krameramtsstuben_01.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Filmstudio Glückauf"
+title: Filmstudio Glückauf
 date: 2026-01-23
 draft: false
-description: "cinema in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: cinema in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4432
 longitude: 7.00685
 images:
-  - "/images-sites/filmstudio-glueckauf/01-5e6007a2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg/1200px-FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Abriss_Filmstudio.JPG/1200px-Abriss_Filmstudio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Filmstudio_Glückauf_2001.JPG/1200px-Filmstudio_Glückauf_2001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filmstudio_Kasse.JPG/1200px-Filmstudio_Kasse.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Filmstudio_Essen_2010.jpg/1200px-Filmstudio_Essen_2010.jpg
+image_srcset:
+  FilmStudio 1993 - Frauen sind was Wunderbares.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg/400px-FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg/800px-FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg/1200px-FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg/1920px-FilmStudio_1993_-_Frauen_sind_was_Wunderbares.jpg
+  Abriss Filmstudio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Abriss_Filmstudio.JPG/400px-Abriss_Filmstudio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Abriss_Filmstudio.JPG/800px-Abriss_Filmstudio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Abriss_Filmstudio.JPG/1200px-Abriss_Filmstudio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Abriss_Filmstudio.JPG/1920px-Abriss_Filmstudio.JPG
+  Filmstudio Glückauf 2001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Filmstudio_Glückauf_2001.JPG/400px-Filmstudio_Glückauf_2001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Filmstudio_Glückauf_2001.JPG/800px-Filmstudio_Glückauf_2001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Filmstudio_Glückauf_2001.JPG/1200px-Filmstudio_Glückauf_2001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Filmstudio_Glückauf_2001.JPG/1920px-Filmstudio_Glückauf_2001.JPG
+  Filmstudio Kasse.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filmstudio_Kasse.JPG/400px-Filmstudio_Kasse.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filmstudio_Kasse.JPG/800px-Filmstudio_Kasse.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filmstudio_Kasse.JPG/1200px-Filmstudio_Kasse.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Filmstudio_Kasse.JPG/1920px-Filmstudio_Kasse.JPG
+  Filmstudio Essen 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Filmstudio_Essen_2010.jpg/400px-Filmstudio_Essen_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Filmstudio_Essen_2010.jpg/800px-Filmstudio_Essen_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Filmstudio_Essen_2010.jpg/1200px-Filmstudio_Essen_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Filmstudio_Essen_2010.jpg/1920px-Filmstudio_Essen_2010.jpg
 ---
 
 ## Overview

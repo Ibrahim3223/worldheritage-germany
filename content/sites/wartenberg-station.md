@@ -13,7 +13,7 @@ regions:
 latitude: 52.57306
 longitude: 13.50389
 images:
-  - "/images-sites/wartenberg-station/01-2614ee44-800w.webp"
+  - "/images/wartenberg-station/01-2614ee44-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.42139
 longitude: 9.64806
 images:
-  - "/images-sites/weser/01-c7cfa12c-800w.webp"
+  - "/images/weser/01-c7cfa12c-800w.webp"
 ---
 
 ## Overview

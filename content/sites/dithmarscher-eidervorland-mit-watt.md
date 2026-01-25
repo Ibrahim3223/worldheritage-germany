@@ -1,19 +1,49 @@
 ---
-title: "Dithmarscher Eidervorland mit Watt"
+title: Dithmarscher Eidervorland mit Watt
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.275
 longitude: 8.92222222
 images:
-  - "/images-sites/dithmarscher-eidervorland-mit-watt/01-3aaa2088-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg
+image_srcset:
+  Dithmarscher eiderwatt 13.11.2012 14-51-57.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg/400px-Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg/800px-Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg/1920px-Dithmarscher_eiderwatt_13.11.2012_14-51-57.jpg
+  Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-350.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-350.jpg
+  Dithmarscher eiderwatt 13.11.2012 14-46-50.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg/400px-Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg/800px-Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg/1920px-Dithmarscher_eiderwatt_13.11.2012_14-46-50.jpg
+  Dithmarscher eiderwatt 13.11.2012 14-56-051.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg/400px-Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg/800px-Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg/1920px-Dithmarscher_eiderwatt_13.11.2012_14-56-051.jpg
+  Dithmarscher eiderwatt 13.11.2012 14-54-052.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg/400px-Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg/800px-Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg/1200px-Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg/1920px-Dithmarscher_eiderwatt_13.11.2012_14-54-052.jpg
 ---
 
 ## Overview

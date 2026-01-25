@@ -13,8 +13,8 @@ regions:
 latitude: 48.2365
 longitude: 9.57097
 images:
-  - "/images-sites/marchtal-abbey/02-b2a0acf1-800w.webp"
-  - "/images-sites/marchtal-abbey/03-d0b90236-800w.webp"
+  - "/images/marchtal-abbey/02-b2a0acf1-800w.webp"
+  - "/images/marchtal-abbey/03-d0b90236-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.1575293
 longitude: 6.8654225
 images:
-  - "/images-sites/schlosspark-benrath/01-3c461065-800w.webp"
+  - "/images/schlosspark-benrath/01-3c461065-800w.webp"
 ---
 
 ## Overview

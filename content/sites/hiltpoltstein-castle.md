@@ -1,27 +1,49 @@
 ---
-title: "Hiltpoltstein Castle"
+title: Hiltpoltstein Castle
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-74-138-6 (0) in Hiltpoltstein, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument D-4-74-138-6 (0) in Hiltpoltstein, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.659802
 longitude: 11.321948
-
-# Images
 images:
-  - "/images-sites/hiltpoltstein-castle/01-69e5c716-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hiltpoltstein_1270287.jpg/1200px-Hiltpoltstein_1270287.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burg-Hiltpoltstein.jpg/1200px-Burg-Hiltpoltstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg/1200px-Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/1200px-Burg_Hiltpoltstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg/1200px-Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg
+image_srcset:
+  Hiltpoltstein 1270287.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hiltpoltstein_1270287.jpg/400px-Hiltpoltstein_1270287.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hiltpoltstein_1270287.jpg/800px-Hiltpoltstein_1270287.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hiltpoltstein_1270287.jpg/1200px-Hiltpoltstein_1270287.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hiltpoltstein_1270287.jpg/1920px-Hiltpoltstein_1270287.jpg
+  Burg-Hiltpoltstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burg-Hiltpoltstein.jpg/400px-Burg-Hiltpoltstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burg-Hiltpoltstein.jpg/800px-Burg-Hiltpoltstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burg-Hiltpoltstein.jpg/1200px-Burg-Hiltpoltstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burg-Hiltpoltstein.jpg/1920px-Burg-Hiltpoltstein.jpg
+  Burg Hiltpoltstein Luftaufnahme (2020).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg/400px-Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg/800px-Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg/1200px-Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg/1920px-Burg_Hiltpoltstein_Luftaufnahme_(2020).jpg
+  Burg Hiltpoltstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/400px-Burg_Hiltpoltstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/800px-Burg_Hiltpoltstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/1200px-Burg_Hiltpoltstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Hiltpoltstein.jpg/1920px-Burg_Hiltpoltstein.jpg
+  Burg Hiltpolstein, Ansicht von Südwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg/400px-Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg/800px-Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg/1200px-Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg/1920px-Burg_Hiltpolstein,_Ansicht_von_Südwesten.jpg
 ---
 
 ## Overview

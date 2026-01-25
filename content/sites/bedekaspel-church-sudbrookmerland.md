@@ -1,23 +1,44 @@
 ---
-title: "Bedekaspel Church (Südbrookmerland)"
-site_name: "Bedekaspel Church (Südbrookmerland)"
-slug: "bedekaspel-church-sudbrookmerland"
-region: "Lower Saxony"
-
-# Location
+title: Bedekaspel Church (Südbrookmerland)
+site_name: Bedekaspel Church (Südbrookmerland)
+slug: bedekaspel-church-sudbrookmerland
+region: Lower Saxony
 latitude: 53.437336
 longitude: 7.310872
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q813833"
-description: "In the heart of Südbrookmerland, the Bedekaspel Church stands as a remarkable example of Baroque architecture, inviting visitors to explore its elegant ..."
+- cultural site
+wikidata_id: Q813833
+description: In the heart of Südbrookmerland, the Bedekaspel Church stands as a remarkable
+  example of Baroque architecture, inviting visitors to explore its elegant ...
 images:
-  - "/images-sites/bedekaspel-church-sudbrookmerland/01-bc25748c-1920w.webp"
-  - "/images-sites/bedekaspel-church-sudbrookmerland/02-b2deb4b9-1920w.webp"
-  - "/images-sites/bedekaspel-church-sudbrookmerland/03-ee487477-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1200px-ChurchBedekaspel..JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bedekaspeler_Kirche-msu-2021-209-4423.jpg/1200px-Bedekaspeler_Kirche-msu-2021-209-4423.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bedekaspel_Taufstein46.jpg/1200px-Bedekaspel_Taufstein46.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche_Bedekaspel_innen42.jpg/1200px-Kirche_Bedekaspel_innen42.jpg
+image_srcset:
+  ChurchBedekaspel..JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/400px-ChurchBedekaspel..JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/800px-ChurchBedekaspel..JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1200px-ChurchBedekaspel..JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ChurchBedekaspel..JPG/1920px-ChurchBedekaspel..JPG
+  Bedekaspeler Kirche-msu-2021-209-4423.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bedekaspeler_Kirche-msu-2021-209-4423.jpg/400px-Bedekaspeler_Kirche-msu-2021-209-4423.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bedekaspeler_Kirche-msu-2021-209-4423.jpg/800px-Bedekaspeler_Kirche-msu-2021-209-4423.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bedekaspeler_Kirche-msu-2021-209-4423.jpg/1200px-Bedekaspeler_Kirche-msu-2021-209-4423.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bedekaspeler_Kirche-msu-2021-209-4423.jpg/1920px-Bedekaspeler_Kirche-msu-2021-209-4423.jpg
+  Bedekaspel Taufstein46.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bedekaspel_Taufstein46.jpg/400px-Bedekaspel_Taufstein46.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bedekaspel_Taufstein46.jpg/800px-Bedekaspel_Taufstein46.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bedekaspel_Taufstein46.jpg/1200px-Bedekaspel_Taufstein46.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bedekaspel_Taufstein46.jpg/1920px-Bedekaspel_Taufstein46.jpg
+  Kirche Bedekaspel innen42.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche_Bedekaspel_innen42.jpg/400px-Kirche_Bedekaspel_innen42.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche_Bedekaspel_innen42.jpg/800px-Kirche_Bedekaspel_innen42.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche_Bedekaspel_innen42.jpg/1200px-Kirche_Bedekaspel_innen42.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche_Bedekaspel_innen42.jpg/1920px-Kirche_Bedekaspel_innen42.jpg
 ---
 
 ## Overview

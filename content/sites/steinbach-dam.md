@@ -13,7 +13,7 @@ regions:
 latitude: 50.5908
 longitude: 6.83667
 images:
-  - "/images-sites/steinbach-dam/01-592be2c6-800w.webp"
+  - "/images/steinbach-dam/01-592be2c6-800w.webp"
 ---
 
 ## Overview

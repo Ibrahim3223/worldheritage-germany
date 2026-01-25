@@ -1,21 +1,49 @@
 ---
-title: "Großes Moor bei Dänschenburg"
+title: Großes Moor bei Dänschenburg
 date: 2026-01-23
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1294
 longitude: 12.4424
 images:
-  - "/images-sites/grosses-moor-bei-daenschenburg/01-af671fb3-800w.webp"
-  - "/images-sites/grosses-moor-bei-daenschenburg/02-54e4cda0-800w.webp"
-  - "/images-sites/grosses-moor-bei-daenschenburg/03-a5cedfe4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daenschenburger-Moor-26-06-2008-144.jpg/1200px-Daenschenburger-Moor-26-06-2008-144.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Daenschenburger-Moor-26-06-2008-147.jpg/1200px-Daenschenburger-Moor-26-06-2008-147.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Daenschenburger-Moor-26-06-2008-148.jpg/1200px-Daenschenburger-Moor-26-06-2008-148.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Daenschenburger-Moor-26-06-2008-151.jpg/1200px-Daenschenburger-Moor-26-06-2008-151.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daenschenburger-Moor-26-06-2008-167.jpg/1200px-Daenschenburger-Moor-26-06-2008-167.jpg
+image_srcset:
+  Daenschenburger-Moor-26-06-2008-144.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daenschenburger-Moor-26-06-2008-144.jpg/400px-Daenschenburger-Moor-26-06-2008-144.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daenschenburger-Moor-26-06-2008-144.jpg/800px-Daenschenburger-Moor-26-06-2008-144.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daenschenburger-Moor-26-06-2008-144.jpg/1200px-Daenschenburger-Moor-26-06-2008-144.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Daenschenburger-Moor-26-06-2008-144.jpg/1920px-Daenschenburger-Moor-26-06-2008-144.jpg
+  Daenschenburger-Moor-26-06-2008-147.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Daenschenburger-Moor-26-06-2008-147.jpg/400px-Daenschenburger-Moor-26-06-2008-147.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Daenschenburger-Moor-26-06-2008-147.jpg/800px-Daenschenburger-Moor-26-06-2008-147.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Daenschenburger-Moor-26-06-2008-147.jpg/1200px-Daenschenburger-Moor-26-06-2008-147.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Daenschenburger-Moor-26-06-2008-147.jpg/1920px-Daenschenburger-Moor-26-06-2008-147.jpg
+  Daenschenburger-Moor-26-06-2008-148.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Daenschenburger-Moor-26-06-2008-148.jpg/400px-Daenschenburger-Moor-26-06-2008-148.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Daenschenburger-Moor-26-06-2008-148.jpg/800px-Daenschenburger-Moor-26-06-2008-148.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Daenschenburger-Moor-26-06-2008-148.jpg/1200px-Daenschenburger-Moor-26-06-2008-148.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Daenschenburger-Moor-26-06-2008-148.jpg/1920px-Daenschenburger-Moor-26-06-2008-148.jpg
+  Daenschenburger-Moor-26-06-2008-151.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Daenschenburger-Moor-26-06-2008-151.jpg/400px-Daenschenburger-Moor-26-06-2008-151.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Daenschenburger-Moor-26-06-2008-151.jpg/800px-Daenschenburger-Moor-26-06-2008-151.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Daenschenburger-Moor-26-06-2008-151.jpg/1200px-Daenschenburger-Moor-26-06-2008-151.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Daenschenburger-Moor-26-06-2008-151.jpg/1920px-Daenschenburger-Moor-26-06-2008-151.jpg
+  Daenschenburger-Moor-26-06-2008-167.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daenschenburger-Moor-26-06-2008-167.jpg/400px-Daenschenburger-Moor-26-06-2008-167.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daenschenburger-Moor-26-06-2008-167.jpg/800px-Daenschenburger-Moor-26-06-2008-167.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daenschenburger-Moor-26-06-2008-167.jpg/1200px-Daenschenburger-Moor-26-06-2008-167.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Daenschenburger-Moor-26-06-2008-167.jpg/1920px-Daenschenburger-Moor-26-06-2008-167.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.3599
 longitude: 10.903
 images:
-  - "/images-sites/rotes-tor/01-15615642-800w.webp"
+  - "/images/rotes-tor/01-15615642-800w.webp"
 ---
 
 ## Overview

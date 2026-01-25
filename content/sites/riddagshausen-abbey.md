@@ -13,7 +13,7 @@ regions:
 latitude: 52.2674
 longitude: 10.5773
 images:
-  - "/images-sites/riddagshausen-abbey/01-9820ca95-800w.webp"
+  - "/images/riddagshausen-abbey/01-9820ca95-800w.webp"
 ---
 
 ## Overview

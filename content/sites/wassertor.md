@@ -13,7 +13,7 @@ regions:
 latitude: 53.8964
 longitude: 11.4613
 images:
-  - "/images-sites/wassertor/01-0c03454a-800w.webp"
+  - "/images/wassertor/01-0c03454a-800w.webp"
 ---
 
 ## Overview

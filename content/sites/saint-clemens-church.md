@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q20534"
 description: "Saint Clemens Church, a remarkable structure located on the island of Amrum in the Nebel region of Germany, dates back to its founding in 1240. This Pro..."
 images:
-  - "/images-sites/saint-clemens-church/01-58e6d2bb-1920w.webp"
-  - "/images-sites/saint-clemens-church/02-cb06fdcc-1920w.webp"
-  - "/images-sites/saint-clemens-church/03-5ab54057-1920w.webp"
+  - "/images/saint-clemens-church/01-58e6d2bb-1920w.webp"
+  - "/images/saint-clemens-church/02-cb06fdcc-1920w.webp"
+  - "/images/saint-clemens-church/03-5ab54057-1920w.webp"
 ---
 
 ## Overview

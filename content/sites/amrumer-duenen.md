@@ -1,19 +1,49 @@
 ---
-title: "Amrumer Dünen"
+title: Amrumer Dünen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6594
 longitude: 8.32194
 images:
-  - "/images-sites/amrumer-duenen/01-3fb0fc64-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Amrumer_Dünen_und_Leuchtturm.jpg/1200px-Amrumer_Dünen_und_Leuchtturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amrumer_Dünen_und_Leuchtturm_2.jpg/1200px-Amrumer_Dünen_und_Leuchtturm_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amrumer_Dünen_und_Leuchtturm_3.jpg/1200px-Amrumer_Dünen_und_Leuchtturm_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amrumer_Dünen_Wittdün.jpg/1200px-Amrumer_Dünen_Wittdün.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1200px-Amrumer_Dünen.jpg
+image_srcset:
+  Amrumer Dünen und Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Amrumer_Dünen_und_Leuchtturm.jpg/400px-Amrumer_Dünen_und_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Amrumer_Dünen_und_Leuchtturm.jpg/800px-Amrumer_Dünen_und_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Amrumer_Dünen_und_Leuchtturm.jpg/1200px-Amrumer_Dünen_und_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Amrumer_Dünen_und_Leuchtturm.jpg/1920px-Amrumer_Dünen_und_Leuchtturm.jpg
+  Amrumer Dünen und Leuchtturm 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amrumer_Dünen_und_Leuchtturm_2.jpg/400px-Amrumer_Dünen_und_Leuchtturm_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amrumer_Dünen_und_Leuchtturm_2.jpg/800px-Amrumer_Dünen_und_Leuchtturm_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amrumer_Dünen_und_Leuchtturm_2.jpg/1200px-Amrumer_Dünen_und_Leuchtturm_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amrumer_Dünen_und_Leuchtturm_2.jpg/1920px-Amrumer_Dünen_und_Leuchtturm_2.jpg
+  Amrumer Dünen und Leuchtturm 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amrumer_Dünen_und_Leuchtturm_3.jpg/400px-Amrumer_Dünen_und_Leuchtturm_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amrumer_Dünen_und_Leuchtturm_3.jpg/800px-Amrumer_Dünen_und_Leuchtturm_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amrumer_Dünen_und_Leuchtturm_3.jpg/1200px-Amrumer_Dünen_und_Leuchtturm_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amrumer_Dünen_und_Leuchtturm_3.jpg/1920px-Amrumer_Dünen_und_Leuchtturm_3.jpg
+  Amrumer Dünen Wittdün.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amrumer_Dünen_Wittdün.jpg/400px-Amrumer_Dünen_Wittdün.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amrumer_Dünen_Wittdün.jpg/800px-Amrumer_Dünen_Wittdün.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amrumer_Dünen_Wittdün.jpg/1200px-Amrumer_Dünen_Wittdün.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amrumer_Dünen_Wittdün.jpg/1920px-Amrumer_Dünen_Wittdün.jpg
+  Amrumer Dünen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/400px-Amrumer_Dünen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/800px-Amrumer_Dünen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1200px-Amrumer_Dünen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amrumer_Dünen.jpg/1920px-Amrumer_Dünen.jpg
 ---
 
 ## Overview

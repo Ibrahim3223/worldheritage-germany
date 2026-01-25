@@ -1,19 +1,49 @@
 ---
-title: "Bürgerpark Pankow"
+title: Bürgerpark Pankow
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.569444444
 longitude: 13.393055555
 images:
-  - "/images-sites/buergerpark-pankow/01-7dcce22e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg/1200px-2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_-_Bürgerpark_Pankow.jpg/1200px-Berlin_-_Bürgerpark_Pankow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg/1200px-MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bürgerpark_Pankow,_Berlin.jpg/1200px-Bürgerpark_Pankow,_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fall_in_Bürgerpark_Pankow,_Berlin.jpg/1200px-Fall_in_Bürgerpark_Pankow,_Berlin.jpg
+image_srcset:
+  2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg/400px-2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg/800px-2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg/1200px-2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg/1920px-2022-03-20-Musikpavillon-Rosengarten-Buergerpark-Pankow.jpg
+  Berlin - Bürgerpark Pankow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_-_Bürgerpark_Pankow.jpg/400px-Berlin_-_Bürgerpark_Pankow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_-_Bürgerpark_Pankow.jpg/800px-Berlin_-_Bürgerpark_Pankow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_-_Bürgerpark_Pankow.jpg/1200px-Berlin_-_Bürgerpark_Pankow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_-_Bürgerpark_Pankow.jpg/1920px-Berlin_-_Bürgerpark_Pankow.jpg
+  MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I RomanDeckert06032022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg/400px-MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg/800px-MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg/1200px-MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg/1920px-MausoleumKillischVonHorn-Pankower-Gemeindefriedhof-I_RomanDeckert06032022.jpg
+  Bürgerpark Pankow, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bürgerpark_Pankow,_Berlin.jpg/400px-Bürgerpark_Pankow,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bürgerpark_Pankow,_Berlin.jpg/800px-Bürgerpark_Pankow,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bürgerpark_Pankow,_Berlin.jpg/1200px-Bürgerpark_Pankow,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bürgerpark_Pankow,_Berlin.jpg/1920px-Bürgerpark_Pankow,_Berlin.jpg
+  Fall in Bürgerpark Pankow, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fall_in_Bürgerpark_Pankow,_Berlin.jpg/400px-Fall_in_Bürgerpark_Pankow,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fall_in_Bürgerpark_Pankow,_Berlin.jpg/800px-Fall_in_Bürgerpark_Pankow,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fall_in_Bürgerpark_Pankow,_Berlin.jpg/1200px-Fall_in_Bürgerpark_Pankow,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fall_in_Bürgerpark_Pankow,_Berlin.jpg/1920px-Fall_in_Bürgerpark_Pankow,_Berlin.jpg
 ---
 
 ## Overview

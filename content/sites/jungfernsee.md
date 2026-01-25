@@ -1,19 +1,49 @@
 ---
-title: "Jungfernsee"
+title: Jungfernsee
 date: 2026-01-23
 draft: false
-description: "lake in Steglitz-Zehlendorf, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Steglitz-Zehlendorf, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.416666666
 longitude: 13.083333333
 images:
-  - "/images-sites/jungfernsee/01-dccad7d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/1200px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg/1200px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg/1200px-Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg/1200px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/1200px-Jungfernsee-18-V-07-006.jpg
+image_srcset:
+  Schloss Cecilienhof vom Jungfernsee aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/400px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/800px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/1200px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg/1920px-Schloss_Cecilienhof_vom_Jungfernsee_aus.jpg
+  Glienicker Lake, Glienicker Brücke, Jungfernsee-0442.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg/400px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg/800px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg/1200px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg/1920px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0442.jpg
+  Germany - Berlin and Potsdam, Belvedere Pfingstberg Pdm. (28609248615).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg/400px-Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg/800px-Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg/1200px-Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg/1920px-Germany_-_Berlin_and_Potsdam,_Belvedere_Pfingstberg_Pdm._(28609248615).jpg
+  Glienicker Lake, Glienicker Brücke, Jungfernsee-0443.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg/400px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg/800px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg/1200px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg/1920px-Glienicker_Lake,_Glienicker_Brücke,_Jungfernsee-0443.jpg
+  Jungfernsee-18-V-07-006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/400px-Jungfernsee-18-V-07-006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/800px-Jungfernsee-18-V-07-006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/1200px-Jungfernsee-18-V-07-006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jungfernsee-18-V-07-006.jpg/1920px-Jungfernsee-18-V-07-006.jpg
 ---
 
 ## Overview

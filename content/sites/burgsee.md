@@ -1,19 +1,49 @@
 ---
-title: "Burgsee"
+title: Burgsee
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.5106
 longitude: 9.535
 images:
-  - "/images-sites/burgsee/01-a21e748d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg/1200px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg/1200px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg/1200px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gadebuscher_Burgsee.jpg/1200px-Gadebuscher_Burgsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gadebusch_-_Burgsee_im_März_-_panoramio.jpg/1200px-Gadebusch_-_Burgsee_im_März_-_panoramio.jpg
+image_srcset:
+  Burgsee in Schwerin vom Burggarten aus gesehen 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg/400px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg/800px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg/1200px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg/1920px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_01.jpg
+  Burgsee in Schwerin vom Burggarten aus gesehen 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg/400px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg/800px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg/1200px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg/1920px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_02.jpg
+  Burgsee in Schwerin vom Burggarten aus gesehen 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg/400px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg/800px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg/1200px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg/1920px-Burgsee_in_Schwerin_vom_Burggarten_aus_gesehen_03.jpg
+  Gadebuscher Burgsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gadebuscher_Burgsee.jpg/400px-Gadebuscher_Burgsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gadebuscher_Burgsee.jpg/800px-Gadebuscher_Burgsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gadebuscher_Burgsee.jpg/1200px-Gadebuscher_Burgsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gadebuscher_Burgsee.jpg/1920px-Gadebuscher_Burgsee.jpg
+  Gadebusch - Burgsee im März - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gadebusch_-_Burgsee_im_März_-_panoramio.jpg/400px-Gadebusch_-_Burgsee_im_März_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gadebusch_-_Burgsee_im_März_-_panoramio.jpg/800px-Gadebusch_-_Burgsee_im_März_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gadebusch_-_Burgsee_im_März_-_panoramio.jpg/1200px-Gadebusch_-_Burgsee_im_März_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gadebusch_-_Burgsee_im_März_-_panoramio.jpg/1920px-Gadebusch_-_Burgsee_im_März_-_panoramio.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Johann Adolf Hasse Museum"
+title: Johann Adolf Hasse Museum
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hamburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.551476
 longitude: 9.977276
 images:
-  - "/images-sites/johann-adolf-hasse-museum/01-19c19b6e-800w.webp"
-  - "/images-sites/johann-adolf-hasse-museum/02-9064bf94-800w.webp"
-  - "/images-sites/johann-adolf-hasse-museum/03-2889eea7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johann_Adolf_Hasse_Museum_-_1.JPG/1200px-Johann_Adolf_Hasse_Museum_-_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johann_Adolf_Hasse_Museum_-_2.JPG/1200px-Johann_Adolf_Hasse_Museum_-_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Johann_Adolf_Hasse_Museum_-_3.JPG/1200px-Johann_Adolf_Hasse_Museum_-_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Johann_Adolf_Hasse_Museum_-_4.JPG/1200px-Johann_Adolf_Hasse_Museum_-_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1200px-Peterstraße_29_Hamburg_2.JPG
+image_srcset:
+  Johann Adolf Hasse Museum - 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johann_Adolf_Hasse_Museum_-_1.JPG/400px-Johann_Adolf_Hasse_Museum_-_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johann_Adolf_Hasse_Museum_-_1.JPG/800px-Johann_Adolf_Hasse_Museum_-_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johann_Adolf_Hasse_Museum_-_1.JPG/1200px-Johann_Adolf_Hasse_Museum_-_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johann_Adolf_Hasse_Museum_-_1.JPG/1920px-Johann_Adolf_Hasse_Museum_-_1.JPG
+  Johann Adolf Hasse Museum - 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johann_Adolf_Hasse_Museum_-_2.JPG/400px-Johann_Adolf_Hasse_Museum_-_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johann_Adolf_Hasse_Museum_-_2.JPG/800px-Johann_Adolf_Hasse_Museum_-_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johann_Adolf_Hasse_Museum_-_2.JPG/1200px-Johann_Adolf_Hasse_Museum_-_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johann_Adolf_Hasse_Museum_-_2.JPG/1920px-Johann_Adolf_Hasse_Museum_-_2.JPG
+  Johann Adolf Hasse Museum - 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Johann_Adolf_Hasse_Museum_-_3.JPG/400px-Johann_Adolf_Hasse_Museum_-_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Johann_Adolf_Hasse_Museum_-_3.JPG/800px-Johann_Adolf_Hasse_Museum_-_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Johann_Adolf_Hasse_Museum_-_3.JPG/1200px-Johann_Adolf_Hasse_Museum_-_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Johann_Adolf_Hasse_Museum_-_3.JPG/1920px-Johann_Adolf_Hasse_Museum_-_3.JPG
+  Johann Adolf Hasse Museum - 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Johann_Adolf_Hasse_Museum_-_4.JPG/400px-Johann_Adolf_Hasse_Museum_-_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Johann_Adolf_Hasse_Museum_-_4.JPG/800px-Johann_Adolf_Hasse_Museum_-_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Johann_Adolf_Hasse_Museum_-_4.JPG/1200px-Johann_Adolf_Hasse_Museum_-_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Johann_Adolf_Hasse_Museum_-_4.JPG/1920px-Johann_Adolf_Hasse_Museum_-_4.JPG
+  Peterstraße 29 Hamburg 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/400px-Peterstraße_29_Hamburg_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/800px-Peterstraße_29_Hamburg_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1200px-Peterstraße_29_Hamburg_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1920px-Peterstraße_29_Hamburg_2.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.515861111
 longitude: 13.398611111
 images:
-  - "/images-sites/kreismuseum-bad-liebenwerda/01-25a7b8da-800w.webp"
-  - "/images-sites/kreismuseum-bad-liebenwerda/02-c5e7ce8d-800w.webp"
-  - "/images-sites/kreismuseum-bad-liebenwerda/03-e1f272bf-800w.webp"
+  - "/images/kreismuseum-bad-liebenwerda/01-25a7b8da-800w.webp"
+  - "/images/kreismuseum-bad-liebenwerda/02-c5e7ce8d-800w.webp"
+  - "/images/kreismuseum-bad-liebenwerda/03-e1f272bf-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1471420"
 description: "Tucked away in the picturesque village of Hörnum on the island of Sylt, St. Thomas Church offers a modern interpretation of spiritual architecture. Foun..."
 images:
-  - "/images-sites/st-thomas-church-hornum/01-797169a1-1920w.webp"
-  - "/images-sites/st-thomas-church-hornum/02-a1a2d79c-1920w.webp"
-  - "/images-sites/st-thomas-church-hornum/03-395ada3c-1920w.webp"
+  - "/images/st-thomas-church-hornum/01-797169a1-1920w.webp"
+  - "/images/st-thomas-church-hornum/02-a1a2d79c-1920w.webp"
+  - "/images/st-thomas-church-hornum/03-395ada3c-1920w.webp"
 ---
 
 ## Overview

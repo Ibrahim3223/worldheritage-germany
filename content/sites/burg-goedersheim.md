@@ -1,27 +1,43 @@
 ---
-title: "Burg Gödersheim"
+title: Burg Gödersheim
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6727
 longitude: 6.54725
-
-# Images
 images:
-  - "/images-sites/burg-goedersheim/01-cc0158f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/1200px-Burg_Gödersheim_005-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg/1200px-Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grundriss_Burg_Goedersheim.jpg/1200px-Grundriss_Burg_Goedersheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Goedersheim_1890.jpg/1200px-Burg_Goedersheim_1890.jpg
+image_srcset:
+  Burg Gödersheim 005-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/400px-Burg_Gödersheim_005-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/800px-Burg_Gödersheim_005-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/1200px-Burg_Gödersheim_005-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Gödersheim_005-.jpg/1920px-Burg_Gödersheim_005-.jpg
+  Nideggen-Wollersheim Denkmal-Nr. 113, Burg Gödersheim (1426).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg/400px-Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg/800px-Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg/1200px-Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg/1920px-Nideggen-Wollersheim_Denkmal-Nr._113,_Burg_Gödersheim_(1426).jpg
+  Grundriss Burg Goedersheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grundriss_Burg_Goedersheim.jpg/400px-Grundriss_Burg_Goedersheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grundriss_Burg_Goedersheim.jpg/800px-Grundriss_Burg_Goedersheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grundriss_Burg_Goedersheim.jpg/1200px-Grundriss_Burg_Goedersheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grundriss_Burg_Goedersheim.jpg/1920px-Grundriss_Burg_Goedersheim.jpg
+  Burg Goedersheim 1890.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Goedersheim_1890.jpg/400px-Burg_Goedersheim_1890.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Goedersheim_1890.jpg/800px-Burg_Goedersheim_1890.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Goedersheim_1890.jpg/1200px-Burg_Goedersheim_1890.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Goedersheim_1890.jpg/1920px-Burg_Goedersheim_1890.jpg
 ---
 
 ## Overview

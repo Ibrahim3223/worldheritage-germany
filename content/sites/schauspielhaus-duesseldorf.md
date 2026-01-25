@@ -13,8 +13,8 @@ regions:
 latitude: 51.2201
 longitude: 6.77586
 images:
-  - "/images-sites/schauspielhaus-duesseldorf/02-7e7572d0-800w.webp"
-  - "/images-sites/schauspielhaus-duesseldorf/03-172fa5b3-800w.webp"
+  - "/images/schauspielhaus-duesseldorf/02-7e7572d0-800w.webp"
+  - "/images/schauspielhaus-duesseldorf/03-172fa5b3-800w.webp"
 ---
 
 ## Overview

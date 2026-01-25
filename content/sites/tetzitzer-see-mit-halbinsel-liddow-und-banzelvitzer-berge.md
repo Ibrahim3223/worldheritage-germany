@@ -13,8 +13,8 @@ regions:
 latitude: 54.541
 longitude: 13.367961111
 images:
-  - "/images-sites/tetzitzer-see-mit-halbinsel-liddow-und-banzelvitzer-berge/02-0a218655-800w.webp"
-  - "/images-sites/tetzitzer-see-mit-halbinsel-liddow-und-banzelvitzer-berge/03-162c133f-800w.webp"
+  - "/images/tetzitzer-see-mit-halbinsel-liddow-und-banzelvitzer-berge/02-0a218655-800w.webp"
+  - "/images/tetzitzer-see-mit-halbinsel-liddow-und-banzelvitzer-berge/03-162c133f-800w.webp"
 ---
 
 ## Overview

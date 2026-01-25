@@ -1,23 +1,39 @@
 ---
-title: "Andreaskirche (Norden)"
-site_name: "Andreaskirche (Norden)"
-slug: "andreaskirche-norden"
-region: "Lower Saxony"
-
-# Location
+title: Andreaskirche (Norden)
+site_name: Andreaskirche (Norden)
+slug: andreaskirche-norden
+region: Lower Saxony
 latitude: 53.5961
 longitude: 7.20395
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q501537"
-description: "In the heart of Norden, Germany, the Andreaskirche stands as a remarkable example of Brick Gothic architecture. This church, constructed primarily from ..."
+- church building
+- religious site
+wikidata_id: Q501537
+description: In the heart of Norden, Germany, the Andreaskirche stands as a remarkable
+  example of Brick Gothic architecture. This church, constructed primarily from ...
 images:
-  - "/images-sites/andreaskirche-norden/01-2cce59b9-1920w.webp"
-  - "/images-sites/andreaskirche-norden/02-8635c8df-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/1200px-Norden1590.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG/1200px-Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Andreaskirche-Norden_rek.jpg/1200px-Andreaskirche-Norden_rek.jpg
+image_srcset:
+  Norden1590.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/400px-Norden1590.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/800px-Norden1590.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/1200px-Norden1590.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Norden1590.jpg/1920px-Norden1590.jpg
+  Braunschweig Wollmarkt von Andreaskirche Norden (2005).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG/400px-Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG/800px-Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG/1200px-Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG/1920px-Braunschweig_Wollmarkt_von_Andreaskirche_Norden_(2005).JPG
+  Andreaskirche-Norden rek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Andreaskirche-Norden_rek.jpg/400px-Andreaskirche-Norden_rek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Andreaskirche-Norden_rek.jpg/800px-Andreaskirche-Norden_rek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Andreaskirche-Norden_rek.jpg/1200px-Andreaskirche-Norden_rek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Andreaskirche-Norden_rek.jpg/1920px-Andreaskirche-Norden_rek.jpg
 ---
 
 ## Overview

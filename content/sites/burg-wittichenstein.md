@@ -1,27 +1,49 @@
 ---
-title: "Burg Wittichenstein"
+title: Burg Wittichenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.3335
 longitude: 8.3539
-
-# Images
 images:
-  - "/images-sites/burg-wittichenstein/01-325900eb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burgfelsen._Burg_Wittichenstein.jpg/1200px-Burgfelsen._Burg_Wittichenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burgfelsen_Nordostseite.jpg/1200px-Burgfelsen_Nordostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burgfelsen_Südseite.jpg/1200px-Burgfelsen_Südseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg/1200px-Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgfelsen_Nordseite.jpg/1200px-Burgfelsen_Nordseite.jpg
+image_srcset:
+  Burgfelsen. Burg Wittichenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burgfelsen._Burg_Wittichenstein.jpg/400px-Burgfelsen._Burg_Wittichenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burgfelsen._Burg_Wittichenstein.jpg/800px-Burgfelsen._Burg_Wittichenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burgfelsen._Burg_Wittichenstein.jpg/1200px-Burgfelsen._Burg_Wittichenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burgfelsen._Burg_Wittichenstein.jpg/1920px-Burgfelsen._Burg_Wittichenstein.jpg
+  Burgfelsen Nordostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burgfelsen_Nordostseite.jpg/400px-Burgfelsen_Nordostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burgfelsen_Nordostseite.jpg/800px-Burgfelsen_Nordostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burgfelsen_Nordostseite.jpg/1200px-Burgfelsen_Nordostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burgfelsen_Nordostseite.jpg/1920px-Burgfelsen_Nordostseite.jpg
+  Burgfelsen Südseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burgfelsen_Südseite.jpg/400px-Burgfelsen_Südseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burgfelsen_Südseite.jpg/800px-Burgfelsen_Südseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burgfelsen_Südseite.jpg/1200px-Burgfelsen_Südseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Burgfelsen_Südseite.jpg/1920px-Burgfelsen_Südseite.jpg
+  Burgfelsen zwischen Klosterbach und Kaltbrunnbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg/400px-Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg/800px-Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg/1200px-Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg/1920px-Burgfelsen_zwischen_Klosterbach_und_Kaltbrunnbach.jpg
+  Burgfelsen Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgfelsen_Nordseite.jpg/400px-Burgfelsen_Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgfelsen_Nordseite.jpg/800px-Burgfelsen_Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgfelsen_Nordseite.jpg/1200px-Burgfelsen_Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgfelsen_Nordseite.jpg/1920px-Burgfelsen_Nordseite.jpg
 ---
 
 ## Overview

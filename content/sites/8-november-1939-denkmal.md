@@ -1,19 +1,49 @@
 ---
-title: "8. November 1939 (Denkmal)"
+title: 8. November 1939 (Denkmal)
 date: 2026-01-23
 draft: false
-description: "monument in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1509
 longitude: 11.5767
 images:
-  - "/images-sites/8-november-1939-denkmal/01-ad429e2d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tuerkenstrasse68.jpg/1200px-Tuerkenstrasse68.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/8.November.jpg/1200px-8.November.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Georg-Elser-Platz_Muenchen.jpg/1200px-Georg-Elser-Platz_Muenchen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Georg-Elser-Denkmal_Muenchen_am_Tag.JPG/1200px-Georg-Elser-Denkmal_Muenchen_am_Tag.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1200px-Fassadeninstallation,_Geäudeschild.JPG
+image_srcset:
+  Tuerkenstrasse68.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tuerkenstrasse68.jpg/400px-Tuerkenstrasse68.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tuerkenstrasse68.jpg/800px-Tuerkenstrasse68.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tuerkenstrasse68.jpg/1200px-Tuerkenstrasse68.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tuerkenstrasse68.jpg/1920px-Tuerkenstrasse68.jpg
+  8.November.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/8.November.jpg/400px-8.November.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/8.November.jpg/800px-8.November.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/8.November.jpg/1200px-8.November.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/8.November.jpg/1920px-8.November.jpg
+  Georg-Elser-Platz Muenchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Georg-Elser-Platz_Muenchen.jpg/400px-Georg-Elser-Platz_Muenchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Georg-Elser-Platz_Muenchen.jpg/800px-Georg-Elser-Platz_Muenchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Georg-Elser-Platz_Muenchen.jpg/1200px-Georg-Elser-Platz_Muenchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Georg-Elser-Platz_Muenchen.jpg/1920px-Georg-Elser-Platz_Muenchen.jpg
+  Georg-Elser-Denkmal Muenchen am Tag.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Georg-Elser-Denkmal_Muenchen_am_Tag.JPG/400px-Georg-Elser-Denkmal_Muenchen_am_Tag.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Georg-Elser-Denkmal_Muenchen_am_Tag.JPG/800px-Georg-Elser-Denkmal_Muenchen_am_Tag.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Georg-Elser-Denkmal_Muenchen_am_Tag.JPG/1200px-Georg-Elser-Denkmal_Muenchen_am_Tag.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Georg-Elser-Denkmal_Muenchen_am_Tag.JPG/1920px-Georg-Elser-Denkmal_Muenchen_am_Tag.JPG
+  Fassadeninstallation, Geäudeschild.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/400px-Fassadeninstallation,_Geäudeschild.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/800px-Fassadeninstallation,_Geäudeschild.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1200px-Fassadeninstallation,_Geäudeschild.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Fassadeninstallation,_Geäudeschild.JPG/1920px-Fassadeninstallation,_Geäudeschild.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Esperhöhle"
+title: Esperhöhle
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7708
 longitude: 11.2964
 images:
-  - "/images-sites/esperhoehle/01-eb2116c5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Esperhöhle_Panorama_1.jpg/1200px-2016_Esperhöhle_Panorama_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/1200px-2016_Esperhöhle_Panorama_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esperhöhle_03.jpg/1200px-Esperhöhle_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Esperhöhle_06.jpg/1200px-Esperhöhle_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Esperhoehle.jpg/1200px-Esperhoehle.jpg
+image_srcset:
+  2016 Esperhöhle Panorama 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Esperhöhle_Panorama_1.jpg/400px-2016_Esperhöhle_Panorama_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Esperhöhle_Panorama_1.jpg/800px-2016_Esperhöhle_Panorama_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Esperhöhle_Panorama_1.jpg/1200px-2016_Esperhöhle_Panorama_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Esperhöhle_Panorama_1.jpg/1920px-2016_Esperhöhle_Panorama_1.jpg
+  2016 Esperhöhle Panorama 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/400px-2016_Esperhöhle_Panorama_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/800px-2016_Esperhöhle_Panorama_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/1200px-2016_Esperhöhle_Panorama_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_Esperhöhle_Panorama_2.jpg/1920px-2016_Esperhöhle_Panorama_2.jpg
+  Esperhöhle 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esperhöhle_03.jpg/400px-Esperhöhle_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esperhöhle_03.jpg/800px-Esperhöhle_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esperhöhle_03.jpg/1200px-Esperhöhle_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Esperhöhle_03.jpg/1920px-Esperhöhle_03.jpg
+  Esperhöhle 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Esperhöhle_06.jpg/400px-Esperhöhle_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Esperhöhle_06.jpg/800px-Esperhöhle_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Esperhöhle_06.jpg/1200px-Esperhöhle_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Esperhöhle_06.jpg/1920px-Esperhöhle_06.jpg
+  Esperhoehle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Esperhoehle.jpg/400px-Esperhoehle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Esperhoehle.jpg/800px-Esperhoehle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Esperhoehle.jpg/1200px-Esperhoehle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Esperhoehle.jpg/1920px-Esperhoehle.jpg
 ---
 
 ## Overview

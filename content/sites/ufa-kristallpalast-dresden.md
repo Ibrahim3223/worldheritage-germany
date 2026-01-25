@@ -13,9 +13,9 @@ regions:
 latitude: 51.0441
 longitude: 13.7375
 images:
-  - "/images-sites/ufa-kristallpalast-dresden/01-c1259bf8-800w.webp"
-  - "/images-sites/ufa-kristallpalast-dresden/02-a612bc18-800w.webp"
-  - "/images-sites/ufa-kristallpalast-dresden/03-285721b1-800w.webp"
+  - "/images/ufa-kristallpalast-dresden/01-c1259bf8-800w.webp"
+  - "/images/ufa-kristallpalast-dresden/02-a612bc18-800w.webp"
+  - "/images/ufa-kristallpalast-dresden/03-285721b1-800w.webp"
 ---
 
 ## Overview

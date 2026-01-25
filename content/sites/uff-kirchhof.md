@@ -13,7 +13,7 @@ regions:
 latitude: 48.804269444
 longitude: 9.226013888
 images:
-  - "/images-sites/uff-kirchhof/01-f6ff5ee9-800w.webp"
+  - "/images/uff-kirchhof/01-f6ff5ee9-800w.webp"
 ---
 
 ## Overview

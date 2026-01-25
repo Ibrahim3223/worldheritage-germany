@@ -13,7 +13,7 @@ regions:
 latitude: 53.8539
 longitude: 13.7047
 images:
-  - "/images-sites/otto-lilienthal-museum/01-61af6644-800w.webp"
+  - "/images/otto-lilienthal-museum/01-61af6644-800w.webp"
 ---
 
 ## Overview

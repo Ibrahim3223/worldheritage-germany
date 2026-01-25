@@ -1,19 +1,49 @@
 ---
-title: "Friedrichsgrund"
+title: Friedrichsgrund
 date: 2026-01-24
 draft: false
-description: "valley in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0154
 longitude: 13.8859
 images:
-  - "/images-sites/friedrichsgrund/01-3d37c1d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Meixmühle_Borsberg_08.jpg/1200px-Meixmühle_Borsberg_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg/1200px-Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg/1200px-Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Meixmühle_Borsberg_04.jpg/1200px-Meixmühle_Borsberg_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg/1200px-Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg
+image_srcset:
+  Meixmühle Borsberg 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Meixmühle_Borsberg_08.jpg/400px-Meixmühle_Borsberg_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Meixmühle_Borsberg_08.jpg/800px-Meixmühle_Borsberg_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Meixmühle_Borsberg_08.jpg/1200px-Meixmühle_Borsberg_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Meixmühle_Borsberg_08.jpg/1920px-Meixmühle_Borsberg_08.jpg
+  Eduard Leonhardi - Blattpflanzen im sommerlichen Friedrichsgrund bei Pillnitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg/400px-Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg/800px-Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg/1200px-Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg/1920px-Eduard_Leonhardi_-_Blattpflanzen_im_sommerlichen_Friedrichsgrund_bei_Pillnitz.jpg
+  Dresden, Sachsen - Meixmühle im Friedrichsgrund (back) (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg/400px-Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg/800px-Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg/1200px-Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg/1920px-Dresden,_Sachsen_-_Meixmühle_im_Friedrichsgrund_(back)_(Zeno_Ansichtskarten).jpg
+  Meixmühle Borsberg 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Meixmühle_Borsberg_04.jpg/400px-Meixmühle_Borsberg_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Meixmühle_Borsberg_04.jpg/800px-Meixmühle_Borsberg_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Meixmühle_Borsberg_04.jpg/1200px-Meixmühle_Borsberg_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Meixmühle_Borsberg_04.jpg/1920px-Meixmühle_Borsberg_04.jpg
+  Friedrichsgrund (Eulengb.), Schlesien - Stadtansicht (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg/400px-Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg/800px-Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg/1200px-Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg/1920px-Friedrichsgrund_(Eulengb.),_Schlesien_-_Stadtansicht_(Zeno_Ansichtskarten).jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Freundschaftsinsel"
+title: Freundschaftsinsel
 date: 2026-01-23
 draft: false
-description: "island and park in Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: island and park in Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.395
 longitude: 13.0647
 images:
-  - "/images-sites/freundschaftsinsel/01-f2755d6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg/1200px-Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg/1200px-Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Freundschaftsinsel_Potsdam-0782.jpg/1200px-Freundschaftsinsel_Potsdam-0782.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg/1200px-20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Potsdam_Freundschaftsinsel_Kunstraum-001.jpg/1200px-Potsdam_Freundschaftsinsel_Kunstraum-001.jpg
+image_srcset:
+  Freundschaftsinsel Potsdam, Staudengarten-0781.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg/400px-Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg/800px-Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg/1200px-Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg/1920px-Freundschaftsinsel_Potsdam,_Staudengarten-0781.jpg
+  Freundschaftsinsel Potsdam, Staudengarten-0790.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg/400px-Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg/800px-Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg/1200px-Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg/1920px-Freundschaftsinsel_Potsdam,_Staudengarten-0790.jpg
+  Freundschaftsinsel Potsdam-0782.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Freundschaftsinsel_Potsdam-0782.jpg/400px-Freundschaftsinsel_Potsdam-0782.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Freundschaftsinsel_Potsdam-0782.jpg/800px-Freundschaftsinsel_Potsdam-0782.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Freundschaftsinsel_Potsdam-0782.jpg/1200px-Freundschaftsinsel_Potsdam-0782.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Freundschaftsinsel_Potsdam-0782.jpg/1920px-Freundschaftsinsel_Potsdam-0782.jpg
+  20221203 xl 112927499-auf-der-Freundschaftsinsel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg/400px-20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg/800px-20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg/1200px-20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg/1920px-20221203_xl_112927499-auf-der-Freundschaftsinsel.jpg
+  Potsdam Freundschaftsinsel Kunstraum-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Potsdam_Freundschaftsinsel_Kunstraum-001.jpg/400px-Potsdam_Freundschaftsinsel_Kunstraum-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Potsdam_Freundschaftsinsel_Kunstraum-001.jpg/800px-Potsdam_Freundschaftsinsel_Kunstraum-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Potsdam_Freundschaftsinsel_Kunstraum-001.jpg/1200px-Potsdam_Freundschaftsinsel_Kunstraum-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Potsdam_Freundschaftsinsel_Kunstraum-001.jpg/1920px-Potsdam_Freundschaftsinsel_Kunstraum-001.jpg
 ---
 
 ## Overview

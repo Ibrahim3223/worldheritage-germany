@@ -1,19 +1,49 @@
 ---
-title: "Gut Eckhof"
+title: Gut Eckhof
 date: 2026-01-23
 draft: false
-description: "Gut in der Gemeinde Strande im Kreis Rendsburg-Eckernförde in Schleswig-Holstein."
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Gut in der Gemeinde Strande im Kreis Rendsburg-Eckernförde in Schleswig-Holstein.
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.4354
 longitude: 10.1529
 images:
-  - "/images-sites/gut-eckhof/01-bc12e238-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gut_Eckhof_-_Portal_Herrenhaus.jpg/1200px-Gut_Eckhof_-_Portal_Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gut_Eckhof_-_alte_Scheune.jpg/1200px-Gut_Eckhof_-_alte_Scheune.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg/1200px-Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gut_Eckhof_-_Herrenhaus.jpg/1200px-Gut_Eckhof_-_Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/1200px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
+image_srcset:
+  Gut Eckhof - Portal Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gut_Eckhof_-_Portal_Herrenhaus.jpg/400px-Gut_Eckhof_-_Portal_Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gut_Eckhof_-_Portal_Herrenhaus.jpg/800px-Gut_Eckhof_-_Portal_Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gut_Eckhof_-_Portal_Herrenhaus.jpg/1200px-Gut_Eckhof_-_Portal_Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gut_Eckhof_-_Portal_Herrenhaus.jpg/1920px-Gut_Eckhof_-_Portal_Herrenhaus.jpg
+  Gut Eckhof - alte Scheune.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gut_Eckhof_-_alte_Scheune.jpg/400px-Gut_Eckhof_-_alte_Scheune.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gut_Eckhof_-_alte_Scheune.jpg/800px-Gut_Eckhof_-_alte_Scheune.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gut_Eckhof_-_alte_Scheune.jpg/1200px-Gut_Eckhof_-_alte_Scheune.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gut_Eckhof_-_alte_Scheune.jpg/1920px-Gut_Eckhof_-_alte_Scheune.jpg
+  Gut Eckhof - Wirtschaftsgebäude Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg/400px-Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg/800px-Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg/1200px-Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg/1920px-Gut_Eckhof_-_Wirtschaftsgebäude_Nordseite.jpg
+  Gut Eckhof - Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gut_Eckhof_-_Herrenhaus.jpg/400px-Gut_Eckhof_-_Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gut_Eckhof_-_Herrenhaus.jpg/800px-Gut_Eckhof_-_Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gut_Eckhof_-_Herrenhaus.jpg/1200px-Gut_Eckhof_-_Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gut_Eckhof_-_Herrenhaus.jpg/1920px-Gut_Eckhof_-_Herrenhaus.jpg
+  Gut Eckhof - Herrenhaus und Wirtschaftsgebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/400px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/800px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/1200px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg/1920px-Gut_Eckhof_-_Herrenhaus_und_Wirtschaftsgebäude.jpg
 ---
 
 ## Overview

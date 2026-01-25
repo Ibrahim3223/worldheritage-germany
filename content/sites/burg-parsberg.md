@@ -1,27 +1,49 @@
 ---
-title: "Burg Parsberg"
+title: Burg Parsberg
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.160438888
 longitude: 11.7204
-
-# Images
 images:
-  - "/images-sites/burg-parsberg/01-26063405-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zur_Burg_Parsberg_02.jpg/1200px-Zur_Burg_Parsberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zur_Burg_Parsberg_10.jpg/1200px-Zur_Burg_Parsberg_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ortsansicht_Parsberg_Burg_Kirche.JPG/1200px-Ortsansicht_Parsberg_Burg_Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Parsberg_Burg_Parsberg_2011_02.jpg/1200px-Parsberg_Burg_Parsberg_2011_02.jpg
+image_srcset:
+  Zur Burg Parsberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zur_Burg_Parsberg_02.jpg/400px-Zur_Burg_Parsberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zur_Burg_Parsberg_02.jpg/800px-Zur_Burg_Parsberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zur_Burg_Parsberg_02.jpg/1200px-Zur_Burg_Parsberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zur_Burg_Parsberg_02.jpg/1920px-Zur_Burg_Parsberg_02.jpg
+  Zur Burg Parsberg 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zur_Burg_Parsberg_10.jpg/400px-Zur_Burg_Parsberg_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zur_Burg_Parsberg_10.jpg/800px-Zur_Burg_Parsberg_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zur_Burg_Parsberg_10.jpg/1200px-Zur_Burg_Parsberg_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zur_Burg_Parsberg_10.jpg/1920px-Zur_Burg_Parsberg_10.jpg
+  Aerial image of the Burg Parsberg (view from the west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg/400px-Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg/800px-Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg/1200px-Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg/1920px-Aerial_image_of_the_Burg_Parsberg_(view_from_the_west).jpg
+  Ortsansicht Parsberg Burg Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ortsansicht_Parsberg_Burg_Kirche.JPG/400px-Ortsansicht_Parsberg_Burg_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ortsansicht_Parsberg_Burg_Kirche.JPG/800px-Ortsansicht_Parsberg_Burg_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ortsansicht_Parsberg_Burg_Kirche.JPG/1200px-Ortsansicht_Parsberg_Burg_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ortsansicht_Parsberg_Burg_Kirche.JPG/1920px-Ortsansicht_Parsberg_Burg_Kirche.JPG
+  Parsberg Burg Parsberg 2011 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Parsberg_Burg_Parsberg_2011_02.jpg/400px-Parsberg_Burg_Parsberg_2011_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Parsberg_Burg_Parsberg_2011_02.jpg/800px-Parsberg_Burg_Parsberg_2011_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Parsberg_Burg_Parsberg_2011_02.jpg/1200px-Parsberg_Burg_Parsberg_2011_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Parsberg_Burg_Parsberg_2011_02.jpg/1920px-Parsberg_Burg_Parsberg_2011_02.jpg
 ---
 
 ## Overview

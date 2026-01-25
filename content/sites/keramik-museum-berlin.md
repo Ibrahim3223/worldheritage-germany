@@ -21,7 +21,7 @@ longitude: 13.304
 
 # Images
 images:
-  - "/images-sites/keramik-museum-berlin/01-7d3cff76-800w.webp"
+  - "/images/keramik-museum-berlin/01-7d3cff76-800w.webp"
 ---
 
 ## Overview

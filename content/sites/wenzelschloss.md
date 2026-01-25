@@ -21,7 +21,7 @@ longitude: 11.2821
 
 # Images
 images:
-  - "/images-sites/wenzelschloss/01-74304a00-800w.webp"
+  - "/images/wenzelschloss/01-74304a00-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Dillenburger Schloss"
+title: Dillenburger Schloss
 date: 2026-01-23
 draft: false
-description: "former castle and site of Wilhelmsturm in Dillenburg"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: former castle and site of Wilhelmsturm in Dillenburg
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.738333
 longitude: 8.285278
-
-# Images
 images:
-  - "/images-sites/dillenburger-schloss/01-e6ecc9b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dillenburg_-_Schlossberg_11_ies.jpg/1200px-Dillenburg_-_Schlossberg_11_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg/1200px-Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dillenburg_Schloss_NW_P1050747_2020719.jpg/1200px-Dillenburg_Schloss_NW_P1050747_2020719.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg/1200px-Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dillenburg_De_Merian_Hassiae.jpg/1200px-Dillenburg_De_Merian_Hassiae.jpg
+image_srcset:
+  Dillenburg - Schlossberg 11 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dillenburg_-_Schlossberg_11_ies.jpg/400px-Dillenburg_-_Schlossberg_11_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dillenburg_-_Schlossberg_11_ies.jpg/800px-Dillenburg_-_Schlossberg_11_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dillenburg_-_Schlossberg_11_ies.jpg/1200px-Dillenburg_-_Schlossberg_11_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dillenburg_-_Schlossberg_11_ies.jpg/1920px-Dillenburg_-_Schlossberg_11_ies.jpg
+  Dillenburg Schloss Mauerrest Zeughaus 70 P1050749 20200719.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg/400px-Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg/800px-Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg/1200px-Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg/1920px-Dillenburg_Schloss_Mauerrest_Zeughaus_70_P1050749_20200719.jpg
+  Dillenburg Schloss NW P1050747 2020719.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dillenburg_Schloss_NW_P1050747_2020719.jpg/400px-Dillenburg_Schloss_NW_P1050747_2020719.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dillenburg_Schloss_NW_P1050747_2020719.jpg/800px-Dillenburg_Schloss_NW_P1050747_2020719.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dillenburg_Schloss_NW_P1050747_2020719.jpg/1200px-Dillenburg_Schloss_NW_P1050747_2020719.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dillenburg_Schloss_NW_P1050747_2020719.jpg/1920px-Dillenburg_Schloss_NW_P1050747_2020719.jpg
+  Dillenburg Wilhelmsturm Krone 80 P1050748 20200719.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg/400px-Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg/800px-Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg/1200px-Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg/1920px-Dillenburg_Wilhelmsturm_Krone_80_P1050748_20200719.jpg
+  Dillenburg De Merian Hassiae.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dillenburg_De_Merian_Hassiae.jpg/400px-Dillenburg_De_Merian_Hassiae.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dillenburg_De_Merian_Hassiae.jpg/800px-Dillenburg_De_Merian_Hassiae.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dillenburg_De_Merian_Hassiae.jpg/1200px-Dillenburg_De_Merian_Hassiae.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dillenburg_De_Merian_Hassiae.jpg/1920px-Dillenburg_De_Merian_Hassiae.jpg
 ---
 
 ## Overview

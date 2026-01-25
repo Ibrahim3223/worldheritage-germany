@@ -13,9 +13,9 @@ regions:
 latitude: 53.643611111
 longitude: 11.337222222
 images:
-  - "/images-sites/neumuehler-see/01-0db264ce-800w.webp"
-  - "/images-sites/neumuehler-see/02-e7ea6803-800w.webp"
-  - "/images-sites/neumuehler-see/03-ad2fdd45-800w.webp"
+  - "/images/neumuehler-see/01-0db264ce-800w.webp"
+  - "/images/neumuehler-see/02-e7ea6803-800w.webp"
+  - "/images/neumuehler-see/03-ad2fdd45-800w.webp"
 ---
 
 ## Overview

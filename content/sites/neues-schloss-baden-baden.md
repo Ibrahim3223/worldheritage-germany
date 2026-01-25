@@ -21,7 +21,7 @@ longitude: 8.24167
 
 # Images
 images:
-  - "/images-sites/neues-schloss-baden-baden/01-768621e6-800w.webp"
+  - "/images/neues-schloss-baden-baden/01-768621e6-800w.webp"
 ---
 
 ## Overview

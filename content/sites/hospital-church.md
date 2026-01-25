@@ -1,23 +1,50 @@
 ---
-title: "Hospital church"
-site_name: "Hospital church"
-slug: "hospital-church"
-region: "Saxony"
-
-# Location
+title: Hospital church
+site_name: Hospital church
+slug: hospital-church
+region: Saxony
 latitude: 50.32443
 longitude: 11.91912
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1630470"
-description: "In the heart of Hof, Germany, stands the Hospital Church, a remarkable testament to the citys medieval roots. Founded in 1260, this church not only serv..."
+- cultural site
+wikidata_id: Q1630470
+description: In the heart of Hof, Germany, stands the Hospital Church, a remarkable
+  testament to the citys medieval roots. Founded in 1260, this church not only serv...
 images:
-  - "/images-sites/hospital-church/01-095844e6-1920w.webp"
-  - "/images-sites/hospital-church/02-f3da524b-1920w.webp"
-  - "/images-sites/hospital-church/03-503c6721-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png/1200px-Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg/1200px-Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg/1200px-Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/1200px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spitalkirche_Aichach_01.jpg/1200px-Spitalkirche_Aichach_01.jpg
+image_srcset:
+  Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png/400px-Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png/800px-Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png/1200px-Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png/1920px-Hospitalkirche%20Hof%2020220628%20HOF05614%2020221229000710cens.png
+  Iphofen St. Johann Baptist Orgelempore-20201018-RM-165348.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg/400px-Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg/800px-Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg/1200px-Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg/1920px-Iphofen_St._Johann_Baptist_Orgelempore-20201018-RM-165348.jpg
+  Iphofen Johannes der Täufer -20201018-RM-170645.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg/400px-Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg/800px-Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg/1200px-Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg/1920px-Iphofen_Johannes_der_Täufer_-20201018-RM-170645.jpg
+  Hospital del Espíritu Santo, Füssen, Alemania, 2012-10-06, DD 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/400px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/800px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/1200px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/1920px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+  Spitalkirche Aichach 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spitalkirche_Aichach_01.jpg/400px-Spitalkirche_Aichach_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spitalkirche_Aichach_01.jpg/800px-Spitalkirche_Aichach_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spitalkirche_Aichach_01.jpg/1200px-Spitalkirche_Aichach_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Spitalkirche_Aichach_01.jpg/1920px-Spitalkirche_Aichach_01.jpg
 ---
 
 ## Overview

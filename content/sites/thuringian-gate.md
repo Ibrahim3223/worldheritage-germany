@@ -13,7 +13,7 @@ regions:
 latitude: 51.2975
 longitude: 11.171944444
 images:
-  - "/images-sites/thuringian-gate/01-8b678af7-800w.webp"
+  - "/images/thuringian-gate/01-8b678af7-800w.webp"
 ---
 
 ## Overview

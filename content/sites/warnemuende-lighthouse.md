@@ -13,7 +13,7 @@ regions:
 latitude: 54.1814
 longitude: 12.0858
 images:
-  - "/images-sites/warnemuende-lighthouse/01-023988fb-800w.webp"
+  - "/images/warnemuende-lighthouse/01-023988fb-800w.webp"
 ---
 
 ## Overview

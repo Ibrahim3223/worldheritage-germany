@@ -13,9 +13,9 @@ regions:
 latitude: 51.785944444
 longitude: 11.136805555
 images:
-  - "/images-sites/quedlinburg-abbey/01-bce23e78-800w.webp"
-  - "/images-sites/quedlinburg-abbey/02-6427f44a-800w.webp"
-  - "/images-sites/quedlinburg-abbey/03-fccc9a8f-800w.webp"
+  - "/images/quedlinburg-abbey/01-bce23e78-800w.webp"
+  - "/images/quedlinburg-abbey/02-6427f44a-800w.webp"
+  - "/images/quedlinburg-abbey/03-fccc9a8f-800w.webp"
 ---
 
 ## Overview

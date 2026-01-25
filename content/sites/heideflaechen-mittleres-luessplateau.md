@@ -1,19 +1,49 @@
 ---
-title: "Heideflächen mittleres Lüßplateau"
+title: Heideflächen mittleres Lüßplateau
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.81388889
 longitude: 10.16277778
 images:
-  - "/images-sites/heideflaechen-mittleres-luessplateau/01-2e5ca67a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HeideblueteTiefental.JPG/1200px-HeideblueteTiefental.JPG
+image_srcset:
+  NSG LÜ 212 Heideflächen mittleres Lüßplateau (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg/400px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg/800px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg/1920px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(12).jpg
+  NSG LÜ 212 Heideflächen mittleres Lüßplateau (37).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg/400px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg/800px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg/1920px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_(37).jpg
+  NSG LÜ 212 Heideflächen mittleres Lüßplateau - Heidespanner (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg/400px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg/800px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg/1920px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Heidespanner_(1).jpg
+  NSG LÜ 212 Heideflächen mittleres Lüßplateau - Zitronenfalter (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg/400px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg/800px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg/1200px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg/1920px-NSG_LÜ_212_Heideflächen_mittleres_Lüßplateau_-_Zitronenfalter_(4).jpg
+  HeideblueteTiefental.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HeideblueteTiefental.JPG/400px-HeideblueteTiefental.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HeideblueteTiefental.JPG/800px-HeideblueteTiefental.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HeideblueteTiefental.JPG/1200px-HeideblueteTiefental.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HeideblueteTiefental.JPG/1920px-HeideblueteTiefental.JPG
 ---
 
 ## Overview

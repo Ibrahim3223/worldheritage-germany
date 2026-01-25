@@ -1,29 +1,49 @@
 ---
-title: "Burg Eschweiler"
+title: Burg Eschweiler
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.818
 longitude: 6.2646
-
-# Images
 images:
-  - "/images-sites/burg-eschweiler/01-26441cac-800w.webp"
-  - "/images-sites/burg-eschweiler/02-e6b9c525-800w.webp"
-  - "/images-sites/burg-eschweiler/03-fd0010a2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burg_Eschweiler.JPG/1200px-Burg_Eschweiler.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/5974795.Erwin_Quedenfeldt.jpg/1200px-5974795.Erwin_Quedenfeldt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/1200px-Burg_Eschweiler,_oturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ewburgsüdturm.jpg/1200px-Ewburgsüdturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eschweiler_Burg,_Modell.jpg/1200px-Eschweiler_Burg,_Modell.jpg
+image_srcset:
+  Burg Eschweiler.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burg_Eschweiler.JPG/400px-Burg_Eschweiler.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burg_Eschweiler.JPG/800px-Burg_Eschweiler.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burg_Eschweiler.JPG/1200px-Burg_Eschweiler.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Burg_Eschweiler.JPG/1920px-Burg_Eschweiler.JPG
+  5974795.Erwin Quedenfeldt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/5974795.Erwin_Quedenfeldt.jpg/400px-5974795.Erwin_Quedenfeldt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/5974795.Erwin_Quedenfeldt.jpg/800px-5974795.Erwin_Quedenfeldt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/5974795.Erwin_Quedenfeldt.jpg/1200px-5974795.Erwin_Quedenfeldt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/5974795.Erwin_Quedenfeldt.jpg/1920px-5974795.Erwin_Quedenfeldt.jpg
+  Burg Eschweiler, oturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/400px-Burg_Eschweiler,_oturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/800px-Burg_Eschweiler,_oturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/1200px-Burg_Eschweiler,_oturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Eschweiler,_oturm.jpg/1920px-Burg_Eschweiler,_oturm.jpg
+  Ewburgsüdturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ewburgsüdturm.jpg/400px-Ewburgsüdturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ewburgsüdturm.jpg/800px-Ewburgsüdturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ewburgsüdturm.jpg/1200px-Ewburgsüdturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ewburgsüdturm.jpg/1920px-Ewburgsüdturm.jpg
+  Eschweiler Burg, Modell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eschweiler_Burg,_Modell.jpg/400px-Eschweiler_Burg,_Modell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eschweiler_Burg,_Modell.jpg/800px-Eschweiler_Burg,_Modell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eschweiler_Burg,_Modell.jpg/1200px-Eschweiler_Burg,_Modell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eschweiler_Burg,_Modell.jpg/1920px-Eschweiler_Burg,_Modell.jpg
 ---
 
 ## Overview

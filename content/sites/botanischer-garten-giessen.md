@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Gießen"
+title: Botanischer Garten Gießen
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.5864
 longitude: 8.67889
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-giessen/01-1994c87b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BotGartenGiessenHaupteingang.jpg/1200px-BotGartenGiessenHaupteingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BotGartenGiessen2XDarwin.jpg/1200px-BotGartenGiessen2XDarwin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotGartenGiessenVictoriahaus.jpg/1200px-BotGartenGiessenVictoriahaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BotGartenGiessenDarwin1.jpg/1200px-BotGartenGiessenDarwin1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Botanical_garden_Giessen_Germany_01.jpg/1200px-Botanical_garden_Giessen_Germany_01.jpg
+image_srcset:
+  BotGartenGiessenHaupteingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BotGartenGiessenHaupteingang.jpg/400px-BotGartenGiessenHaupteingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BotGartenGiessenHaupteingang.jpg/800px-BotGartenGiessenHaupteingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BotGartenGiessenHaupteingang.jpg/1200px-BotGartenGiessenHaupteingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BotGartenGiessenHaupteingang.jpg/1920px-BotGartenGiessenHaupteingang.jpg
+  BotGartenGiessen2XDarwin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BotGartenGiessen2XDarwin.jpg/400px-BotGartenGiessen2XDarwin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BotGartenGiessen2XDarwin.jpg/800px-BotGartenGiessen2XDarwin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BotGartenGiessen2XDarwin.jpg/1200px-BotGartenGiessen2XDarwin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BotGartenGiessen2XDarwin.jpg/1920px-BotGartenGiessen2XDarwin.jpg
+  BotGartenGiessenVictoriahaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotGartenGiessenVictoriahaus.jpg/400px-BotGartenGiessenVictoriahaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotGartenGiessenVictoriahaus.jpg/800px-BotGartenGiessenVictoriahaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotGartenGiessenVictoriahaus.jpg/1200px-BotGartenGiessenVictoriahaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotGartenGiessenVictoriahaus.jpg/1920px-BotGartenGiessenVictoriahaus.jpg
+  BotGartenGiessenDarwin1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BotGartenGiessenDarwin1.jpg/400px-BotGartenGiessenDarwin1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BotGartenGiessenDarwin1.jpg/800px-BotGartenGiessenDarwin1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BotGartenGiessenDarwin1.jpg/1200px-BotGartenGiessenDarwin1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BotGartenGiessenDarwin1.jpg/1920px-BotGartenGiessenDarwin1.jpg
+  Botanical garden Giessen Germany 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Botanical_garden_Giessen_Germany_01.jpg/400px-Botanical_garden_Giessen_Germany_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Botanical_garden_Giessen_Germany_01.jpg/800px-Botanical_garden_Giessen_Germany_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Botanical_garden_Giessen_Germany_01.jpg/1200px-Botanical_garden_Giessen_Germany_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Botanical_garden_Giessen_Germany_01.jpg/1920px-Botanical_garden_Giessen_Germany_01.jpg
 ---
 
 ## Overview

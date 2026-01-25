@@ -13,7 +13,7 @@ regions:
 latitude: 51.0528
 longitude: 13.7433
 images:
-  - "/images-sites/kunsthalle-dresden/01-09e45e36-800w.webp"
+  - "/images/kunsthalle-dresden/01-09e45e36-800w.webp"
 ---
 
 ## Overview

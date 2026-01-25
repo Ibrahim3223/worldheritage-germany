@@ -1,19 +1,49 @@
 ---
-title: "Burg Entenburg"
+title: Burg Entenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.9378
 longitude: 8.552
 images:
-  - "/images-sites/burg-entenburg/01-b4cfaece-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DS-Pfohren-6216.jpg/1200px-DS-Pfohren-6216.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DS-Pfohren-6221.jpg/1200px-DS-Pfohren-6221.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Entenburg_Pfohren.jpg/1200px-Entenburg_Pfohren.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Entenburg_Grundriss.jpg/1200px-Entenburg_Grundriss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Entenburg_Rekonstruktion.jpg/1200px-Entenburg_Rekonstruktion.jpg
+image_srcset:
+  DS-Pfohren-6216.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DS-Pfohren-6216.jpg/400px-DS-Pfohren-6216.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DS-Pfohren-6216.jpg/800px-DS-Pfohren-6216.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DS-Pfohren-6216.jpg/1200px-DS-Pfohren-6216.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DS-Pfohren-6216.jpg/1920px-DS-Pfohren-6216.jpg
+  DS-Pfohren-6221.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DS-Pfohren-6221.jpg/400px-DS-Pfohren-6221.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DS-Pfohren-6221.jpg/800px-DS-Pfohren-6221.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DS-Pfohren-6221.jpg/1200px-DS-Pfohren-6221.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DS-Pfohren-6221.jpg/1920px-DS-Pfohren-6221.jpg
+  Entenburg Pfohren.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Entenburg_Pfohren.jpg/400px-Entenburg_Pfohren.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Entenburg_Pfohren.jpg/800px-Entenburg_Pfohren.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Entenburg_Pfohren.jpg/1200px-Entenburg_Pfohren.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Entenburg_Pfohren.jpg/1920px-Entenburg_Pfohren.jpg
+  Entenburg Grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Entenburg_Grundriss.jpg/400px-Entenburg_Grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Entenburg_Grundriss.jpg/800px-Entenburg_Grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Entenburg_Grundriss.jpg/1200px-Entenburg_Grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Entenburg_Grundriss.jpg/1920px-Entenburg_Grundriss.jpg
+  Entenburg Rekonstruktion.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Entenburg_Rekonstruktion.jpg/400px-Entenburg_Rekonstruktion.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Entenburg_Rekonstruktion.jpg/800px-Entenburg_Rekonstruktion.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Entenburg_Rekonstruktion.jpg/1200px-Entenburg_Rekonstruktion.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Entenburg_Rekonstruktion.jpg/1920px-Entenburg_Rekonstruktion.jpg
 ---
 
 ## Overview

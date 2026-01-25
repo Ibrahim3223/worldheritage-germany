@@ -13,7 +13,7 @@ regions:
 latitude: 50.7319
 longitude: 7.0925
 images:
-  - "/images-sites/rheinisches-landesmuseum-bonn/01-1c48df83-800w.webp"
+  - "/images/rheinisches-landesmuseum-bonn/01-1c48df83-800w.webp"
 ---
 
 ## Overview

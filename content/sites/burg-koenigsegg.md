@@ -1,19 +1,25 @@
 ---
-title: "Burg Königsegg"
+title: Burg Königsegg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.925
 longitude: 9.45613
 images:
-  - "/images-sites/burg-koenigsegg/01-cca5239a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1200px-Burg_Königsegg.jpg
+image_srcset:
+  Burg Königsegg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/400px-Burg_Königsegg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/800px-Burg_Königsegg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1200px-Burg_Königsegg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Burg_Königsegg.jpg/1920px-Burg_Königsegg.jpg
 ---
 
 ## Overview

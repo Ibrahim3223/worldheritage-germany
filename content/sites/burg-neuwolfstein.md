@@ -1,27 +1,43 @@
 ---
-title: "Burg Neuwolfstein"
+title: Burg Neuwolfstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5857
 longitude: 7.60483
-
-# Images
 images:
-  - "/images-sites/burg-neuwolfstein/01-e86d76b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1200px-Neuwolfstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neuwolfstein2.jpg/1200px-Neuwolfstein2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neuwolfstein1.jpg/1200px-Neuwolfstein1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wolfstein-Merian.jpg/1200px-Wolfstein-Merian.jpg
+image_srcset:
+  Neuwolfstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/400px-Neuwolfstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/800px-Neuwolfstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1200px-Neuwolfstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Neuwolfstein.JPG/1920px-Neuwolfstein.JPG
+  Neuwolfstein2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neuwolfstein2.jpg/400px-Neuwolfstein2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neuwolfstein2.jpg/800px-Neuwolfstein2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neuwolfstein2.jpg/1200px-Neuwolfstein2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neuwolfstein2.jpg/1920px-Neuwolfstein2.jpg
+  Neuwolfstein1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neuwolfstein1.jpg/400px-Neuwolfstein1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neuwolfstein1.jpg/800px-Neuwolfstein1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neuwolfstein1.jpg/1200px-Neuwolfstein1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neuwolfstein1.jpg/1920px-Neuwolfstein1.jpg
+  Wolfstein-Merian.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wolfstein-Merian.jpg/400px-Wolfstein-Merian.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wolfstein-Merian.jpg/800px-Wolfstein-Merian.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wolfstein-Merian.jpg/1200px-Wolfstein-Merian.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wolfstein-Merian.jpg/1920px-Wolfstein-Merian.jpg
 ---
 
 ## Overview

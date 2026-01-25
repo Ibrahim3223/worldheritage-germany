@@ -13,7 +13,7 @@ regions:
 latitude: 53.964166666
 longitude: 14.0875
 images:
-  - "/images-sites/schmollensee/01-ddce0f04-800w.webp"
+  - "/images/schmollensee/01-ddce0f04-800w.webp"
 ---
 
 ## Overview

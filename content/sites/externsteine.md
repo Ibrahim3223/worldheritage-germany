@@ -1,27 +1,49 @@
 ---
-title: "Externsteine"
+title: Externsteine
 date: 2026-01-23
 draft: false
-description: "rock formation in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: rock formation in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.868888888
 longitude: 8.9175
-
-# Images
 images:
-  - "/images-sites/externsteine/01-256ac1b9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Externsteine_(Nordostansicht).jpg/1200px-Externsteine_(Nordostansicht).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Externsteine_von_Westen.jpg/1200px-Externsteine_von_Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Topographische_Karte_Externsteine.png/1200px-Topographische_Karte_Externsteine.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1200px-Externsteine_pano.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Externsteine_Felsenschiff.jpg/1200px-Externsteine_Felsenschiff.jpg
+image_srcset:
+  Externsteine (Nordostansicht).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Externsteine_(Nordostansicht).jpg/400px-Externsteine_(Nordostansicht).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Externsteine_(Nordostansicht).jpg/800px-Externsteine_(Nordostansicht).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Externsteine_(Nordostansicht).jpg/1200px-Externsteine_(Nordostansicht).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Externsteine_(Nordostansicht).jpg/1920px-Externsteine_(Nordostansicht).jpg
+  Externsteine von Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Externsteine_von_Westen.jpg/400px-Externsteine_von_Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Externsteine_von_Westen.jpg/800px-Externsteine_von_Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Externsteine_von_Westen.jpg/1200px-Externsteine_von_Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Externsteine_von_Westen.jpg/1920px-Externsteine_von_Westen.jpg
+  Topographische Karte Externsteine.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Topographische_Karte_Externsteine.png/400px-Topographische_Karte_Externsteine.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Topographische_Karte_Externsteine.png/800px-Topographische_Karte_Externsteine.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Topographische_Karte_Externsteine.png/1200px-Topographische_Karte_Externsteine.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Topographische_Karte_Externsteine.png/1920px-Topographische_Karte_Externsteine.png
+  Externsteine pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/400px-Externsteine_pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/800px-Externsteine_pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1200px-Externsteine_pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Externsteine_pano.jpg/1920px-Externsteine_pano.jpg
+  Externsteine Felsenschiff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Externsteine_Felsenschiff.jpg/400px-Externsteine_Felsenschiff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Externsteine_Felsenschiff.jpg/800px-Externsteine_Felsenschiff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Externsteine_Felsenschiff.jpg/1200px-Externsteine_Felsenschiff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Externsteine_Felsenschiff.jpg/1920px-Externsteine_Felsenschiff.jpg
 ---
 
 ## Overview

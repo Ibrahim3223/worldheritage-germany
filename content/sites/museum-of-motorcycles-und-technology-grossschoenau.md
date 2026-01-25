@@ -13,9 +13,9 @@ regions:
 latitude: 50.894891944
 longitude: 14.672028055
 images:
-  - "/images-sites/museum-of-motorcycles-und-technology-grossschoenau/01-6bdfbf95-800w.webp"
-  - "/images-sites/museum-of-motorcycles-und-technology-grossschoenau/02-640dcf7f-800w.webp"
-  - "/images-sites/museum-of-motorcycles-und-technology-grossschoenau/03-ce6e94a5-800w.webp"
+  - "/images/museum-of-motorcycles-und-technology-grossschoenau/01-6bdfbf95-800w.webp"
+  - "/images/museum-of-motorcycles-und-technology-grossschoenau/02-640dcf7f-800w.webp"
+  - "/images/museum-of-motorcycles-und-technology-grossschoenau/03-ce6e94a5-800w.webp"
 ---
 
 ## Overview

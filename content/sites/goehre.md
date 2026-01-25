@@ -1,19 +1,31 @@
 ---
-title: "Göhre"
+title: Göhre
 date: 2026-01-23
 draft: false
-description: "city museum in Jena"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: city museum in Jena
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9285
 longitude: 11.5883
 images:
-  - "/images-sites/goehre/01-f3abf012-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paul_Gohre_LCCN2014714905.jpg/1200px-Paul_Gohre_LCCN2014714905.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg/1200px-Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg
+image_srcset:
+  Paul Gohre LCCN2014714905.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paul_Gohre_LCCN2014714905.jpg/400px-Paul_Gohre_LCCN2014714905.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paul_Gohre_LCCN2014714905.jpg/800px-Paul_Gohre_LCCN2014714905.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paul_Gohre_LCCN2014714905.jpg/1200px-Paul_Gohre_LCCN2014714905.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paul_Gohre_LCCN2014714905.jpg/1920px-Paul_Gohre_LCCN2014714905.jpg
+  Anlage der Fa. Kraus Fandor Ausstellung im Stadtmuseum Jena 2006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg/400px-Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg/800px-Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg/1200px-Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg/1920px-Anlage_der_Fa._Kraus_Fandor_Ausstellung_im_Stadtmuseum_Jena_2006.jpg
 ---
 
 ## Overview

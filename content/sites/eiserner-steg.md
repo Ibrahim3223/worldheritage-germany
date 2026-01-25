@@ -1,29 +1,49 @@
 ---
-title: "Eiserner Steg"
+title: Eiserner Steg
 date: 2026-01-23
 draft: false
-description: "footbridge over the Main in Frankfurt"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Bridge"
-
-# Taxonomies
+description: footbridge over the Main in Frankfurt
+region: Germany
+country: Germany
+heritage_type: Bridge
 categories:
-  - "Bridge"
+- Bridge
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.108102863
 longitude: 8.682122202
-
-# Images
 images:
-  - "/images-sites/eiserner-steg/01-320ce9a9-800w.webp"
-  - "/images-sites/eiserner-steg/02-3b16458c-800w.webp"
-  - "/images-sites/eiserner-steg/03-24b0c08e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg/1200px-Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg/1200px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg/1200px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/1200px-Eiserner-Steg-2012-Ffm-977-8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg/1200px-Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg
+image_srcset:
+  Eiserner Steg Frankfurt am Main 2021-08-17 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg/400px-Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg/800px-Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg/1200px-Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg/1920px-Eiserner_Steg_Frankfurt_am_Main_2021-08-17_01.jpg
+  Night view of Frankfurt's skyline from Iron Footbridge (Eiserner Steg) (Ank Kumar) 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg/400px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg/800px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg/1200px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg/1920px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_09.jpg
+  Night view of Frankfurt's skyline from Iron Footbridge (Eiserner Steg) (Ank Kumar) 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg/400px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg/800px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg/1200px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg/1920px-Night_view_of_Frankfurt's_skyline_from_Iron_Footbridge_(Eiserner_Steg)_(Ank_Kumar)_11.jpg
+  Eiserner-Steg-2012-Ffm-977-8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/400px-Eiserner-Steg-2012-Ffm-977-8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/800px-Eiserner-Steg-2012-Ffm-977-8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/1200px-Eiserner-Steg-2012-Ffm-977-8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Eiserner-Steg-2012-Ffm-977-8.jpg/1920px-Eiserner-Steg-2012-Ffm-977-8.jpg
+  Frankfurt am Main - Eiserner Steg 20240805-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg/400px-Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg/800px-Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg/1200px-Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg/1920px-Frankfurt_am_Main_-_Eiserner_Steg_20240805-01.jpg
 ---
 
 ## Overview

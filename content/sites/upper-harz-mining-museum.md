@@ -13,7 +13,7 @@ regions:
 latitude: 51.8171
 longitude: 10.3359
 images:
-  - "/images-sites/upper-harz-mining-museum/01-03582544-800w.webp"
+  - "/images/upper-harz-mining-museum/01-03582544-800w.webp"
 ---
 
 ## Overview

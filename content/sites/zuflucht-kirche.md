@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q14537394"
 description: "In the heart of Berlins Spandau district lies a striking example of modern architecture: Zuflucht-Kirche. This church, designed by architect Bodo Fleisc..."
 images:
-  - "/images-sites/zuflucht-kirche/01-92429388-1920w.webp"
-  - "/images-sites/zuflucht-kirche/02-9c382923-1920w.webp"
-  - "/images-sites/zuflucht-kirche/03-cef81347-1920w.webp"
+  - "/images/zuflucht-kirche/01-92429388-1920w.webp"
+  - "/images/zuflucht-kirche/02-9c382923-1920w.webp"
+  - "/images/zuflucht-kirche/03-cef81347-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1397588"
 description: "Pilsum Cross Church, an exquisite example of Romanesque architecture, stands prominently in the Krummhörn region of Germany. This church building, const..."
 images:
-  - "/images-sites/pilsum-cross-church/01-6cc45160-1920w.webp"
-  - "/images-sites/pilsum-cross-church/02-51bdc70e-1920w.webp"
-  - "/images-sites/pilsum-cross-church/03-e567687f-1920w.webp"
+  - "/images/pilsum-cross-church/01-6cc45160-1920w.webp"
+  - "/images/pilsum-cross-church/02-51bdc70e-1920w.webp"
+  - "/images/pilsum-cross-church/03-e567687f-1920w.webp"
 ---
 
 ## Overview

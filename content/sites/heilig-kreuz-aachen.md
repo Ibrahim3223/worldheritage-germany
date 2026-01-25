@@ -1,23 +1,26 @@
 ---
-title: "Heilig KreuzAachen"
-site_name: "Heilig KreuzAachen"
-slug: "heilig-kreuz-aachen"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Heilig KreuzAachen
+site_name: Heilig KreuzAachen
+slug: heilig-kreuz-aachen
+region: North Rhine-Westphalia
 latitude: 50.7806
 longitude: 6.08023
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1248380"
-description: "In the heart of Aachen, Germany, stands the Heilig Kreuz church, a striking example of Gothic Revival architecture. This parish church, designed by arch..."
+- cultural site
+wikidata_id: Q1248380
+description: In the heart of Aachen, Germany, stands the Heilig Kreuz church, a striking
+  example of Gothic Revival architecture. This parish church, designed by arch...
 images:
-  - "/images-sites/heilig-kreuz-aachen/01-5b2e6421-1920w.webp"
-  - "/images-sites/heilig-kreuz-aachen/02-50e87426-1920w.webp"
-  - "/images-sites/heilig-kreuz-aachen/03-86e84806-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg/1200px-Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg
+image_srcset:
+  Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg/400px-Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg/800px-Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg/1200px-Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg/1920px-Heilig-Kreuz-Kirche%20%28Aachen%29%2006.jpg
 ---
 
 ## Overview

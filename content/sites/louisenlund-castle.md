@@ -13,7 +13,7 @@ regions:
 latitude: 54.49318
 longitude: 9.68499
 images:
-  - "/images-sites/louisenlund-castle/01-6e41b64d-800w.webp"
+  - "/images/louisenlund-castle/01-6e41b64d-800w.webp"
 ---
 
 ## Overview

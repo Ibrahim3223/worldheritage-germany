@@ -13,9 +13,9 @@ regions:
 latitude: 50.90904
 longitude: 14.266
 images:
-  - "/images-sites/kleiner-zschand/01-fe1d8f1f-800w.webp"
-  - "/images-sites/kleiner-zschand/02-14108d71-800w.webp"
-  - "/images-sites/kleiner-zschand/03-74640eef-800w.webp"
+  - "/images/kleiner-zschand/01-fe1d8f1f-800w.webp"
+  - "/images/kleiner-zschand/02-14108d71-800w.webp"
+  - "/images/kleiner-zschand/03-74640eef-800w.webp"
 ---
 
 ## Overview

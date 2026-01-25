@@ -1,23 +1,50 @@
 ---
-title: "Church Ochsenwerder"
-site_name: "Church Ochsenwerder"
-slug: "church-ochsenwerder"
-region: "Hamburg"
-
-# Location
+title: Church Ochsenwerder
+site_name: Church Ochsenwerder
+slug: church-ochsenwerder
+region: Hamburg
 latitude: 53.47583333
 longitude: 10.085
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1259001"
-description: "Church Ochsenwerder, a distinguished church building in Hamburg-Ochsenwerder, stands as a remarkable example of baroque architecture in the Bergedorf re..."
+- cultural site
+wikidata_id: Q1259001
+description: Church Ochsenwerder, a distinguished church building in Hamburg-Ochsenwerder,
+  stands as a remarkable example of baroque architecture in the Bergedorf re...
 images:
-  - "/images-sites/church-ochsenwerder/01-6778de24-1920w.webp"
-  - "/images-sites/church-ochsenwerder/02-dabf99b9-1920w.webp"
-  - "/images-sites/church-ochsenwerder/03-e2591b22-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg/1200px-St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg/1200px-St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ossenwerder_-_Panorama.jpg/1200px-Ossenwerder_-_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/1200px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ossenwerder_Kark.jpg/1200px-Ossenwerder_Kark.jpg
+image_srcset:
+  St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg/400px-St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg/800px-St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg/1200px-St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg/1920px-St.%20Pankratius%20%28Hamburg-Ochsenwerder%29.27655.ajb.jpg
+  St. Pankratius (Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg/400px-St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg/800px-St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg/1200px-St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg/1920px-St._Pankratius_(Hamburg-Ochsenwerder).Tafel.27655.ajb.jpg
+  Ossenwerder - Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ossenwerder_-_Panorama.jpg/400px-Ossenwerder_-_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ossenwerder_-_Panorama.jpg/800px-Ossenwerder_-_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ossenwerder_-_Panorama.jpg/1200px-Ossenwerder_-_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ossenwerder_-_Panorama.jpg/1920px-Ossenwerder_-_Panorama.jpg
+  St. Pankratius (Hamburg-Ochsenwerder).27655.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/400px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/800px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/1200px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg/1920px-St._Pankratius_(Hamburg-Ochsenwerder).27655.ajb.jpg
+  Ossenwerder Kark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ossenwerder_Kark.jpg/400px-Ossenwerder_Kark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ossenwerder_Kark.jpg/800px-Ossenwerder_Kark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ossenwerder_Kark.jpg/1200px-Ossenwerder_Kark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ossenwerder_Kark.jpg/1920px-Ossenwerder_Kark.jpg
 ---
 
 ## Overview

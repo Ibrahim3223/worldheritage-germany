@@ -13,7 +13,7 @@ regions:
 latitude: 51.1027
 longitude: 13.6735
 images:
-  - "/images-sites/karl-may-museum-radebeul/01-0ac12514-800w.webp"
+  - "/images/karl-may-museum-radebeul/01-0ac12514-800w.webp"
 ---
 
 ## Overview

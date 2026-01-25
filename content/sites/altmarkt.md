@@ -1,21 +1,49 @@
 ---
-title: "Altmarkt"
+title: Altmarkt
 date: 2026-01-23
 draft: false
-description: "square in Dresden"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Dresden
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 51.04972
 longitude: 13.73806
 images:
-  - "/images-sites/altmarkt/01-9b0bb448-800w.webp"
-  - "/images-sites/altmarkt/02-ae58f7c2-800w.webp"
-  - "/images-sites/altmarkt/03-2172039e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1200px-Dresden_photochrom2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_fünf_Millionen.jpg/1200px-Dresden_fünf_Millionen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Babisnauer_Pappel_Blick_auf_Dresden.jpg/1200px-Babisnauer_Pappel_Blick_auf_Dresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DD-canaletto-blick.jpg/1200px-DD-canaletto-blick.jpg
+image_srcset:
+  Dresden-nightpanorama-dri.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/400px-Dresden-nightpanorama-dri.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/800px-Dresden-nightpanorama-dri.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1920px-Dresden-nightpanorama-dri.jpg
+  Dresden photochrom2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/400px-Dresden_photochrom2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/800px-Dresden_photochrom2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1200px-Dresden_photochrom2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1920px-Dresden_photochrom2.jpg
+  Dresden fünf Millionen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_fünf_Millionen.jpg/400px-Dresden_fünf_Millionen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_fünf_Millionen.jpg/800px-Dresden_fünf_Millionen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_fünf_Millionen.jpg/1200px-Dresden_fünf_Millionen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dresden_fünf_Millionen.jpg/1920px-Dresden_fünf_Millionen.jpg
+  Babisnauer Pappel Blick auf Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Babisnauer_Pappel_Blick_auf_Dresden.jpg/400px-Babisnauer_Pappel_Blick_auf_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Babisnauer_Pappel_Blick_auf_Dresden.jpg/800px-Babisnauer_Pappel_Blick_auf_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Babisnauer_Pappel_Blick_auf_Dresden.jpg/1200px-Babisnauer_Pappel_Blick_auf_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Babisnauer_Pappel_Blick_auf_Dresden.jpg/1920px-Babisnauer_Pappel_Blick_auf_Dresden.jpg
+  DD-canaletto-blick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DD-canaletto-blick.jpg/400px-DD-canaletto-blick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DD-canaletto-blick.jpg/800px-DD-canaletto-blick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DD-canaletto-blick.jpg/1200px-DD-canaletto-blick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DD-canaletto-blick.jpg/1920px-DD-canaletto-blick.jpg
 ---
 
 ## Overview

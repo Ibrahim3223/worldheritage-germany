@@ -13,7 +13,7 @@ regions:
 latitude: 49.457565
 longitude: 8.294139
 images:
-  - "/images-sites/synagogue/01-1499b26b-800w.webp"
+  - "/images/synagogue/01-1499b26b-800w.webp"
 ---
 
 ## Overview

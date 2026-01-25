@@ -21,7 +21,7 @@ longitude: 13.3825
 
 # Images
 images:
-  - "/images-sites/pomeranian-state-museum/01-f4a09f23-800w.webp"
+  - "/images/pomeranian-state-museum/01-f4a09f23-800w.webp"
 ---
 
 ## Overview

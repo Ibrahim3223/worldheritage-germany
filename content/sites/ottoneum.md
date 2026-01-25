@@ -13,7 +13,7 @@ regions:
 latitude: 51.3133
 longitude: 9.49889
 images:
-  - "/images-sites/ottoneum/01-a0e91188-800w.webp"
+  - "/images/ottoneum/01-a0e91188-800w.webp"
 ---
 
 ## Overview

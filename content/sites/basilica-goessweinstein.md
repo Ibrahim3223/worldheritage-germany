@@ -1,29 +1,49 @@
 ---
-title: "Basilica Gößweinstein"
+title: Basilica Gößweinstein
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-74-129-2 (0) in Gößweinstein, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: cultural heritage monument D-4-74-129-2 (0) in Gößweinstein, Bavaria
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.77
 longitude: 11.3372
-
-# Images
 images:
-  - "/images-sites/basilica-goessweinstein/01-19158add-800w.webp"
-  - "/images-sites/basilica-goessweinstein/02-b4a6df18-800w.webp"
-  - "/images-sites/basilica-goessweinstein/03-9f80d760-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_02.jpg/1200px-Gößweinstein_Basilica_Facade_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_01.jpg/1200px-Gößweinstein_Basilica_Facade_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/163franken_093.JPG/1200px-163franken_093.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg/1200px-00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1200px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
+image_srcset:
+  Gößweinstein Basilica Facade 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_02.jpg/400px-Gößweinstein_Basilica_Facade_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_02.jpg/800px-Gößweinstein_Basilica_Facade_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_02.jpg/1200px-Gößweinstein_Basilica_Facade_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_02.jpg/1920px-Gößweinstein_Basilica_Facade_02.jpg
+  Gößweinstein Basilica Facade 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_01.jpg/400px-Gößweinstein_Basilica_Facade_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_01.jpg/800px-Gößweinstein_Basilica_Facade_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_01.jpg/1200px-Gößweinstein_Basilica_Facade_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gößweinstein_Basilica_Facade_01.jpg/1920px-Gößweinstein_Basilica_Facade_01.jpg
+  163franken 093.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/163franken_093.JPG/400px-163franken_093.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/163franken_093.JPG/800px-163franken_093.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/163franken_093.JPG/1200px-163franken_093.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/163franken_093.JPG/1920px-163franken_093.JPG
+  00 3341 Gößweinstein - Basilika Zur Heiligen Dreifaltigkeit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg/400px-00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg/800px-00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg/1200px-00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg/1920px-00_3341_Gößweinstein_-_Basilika_Zur_Heiligen_Dreifaltigkeit.jpg
+  00 3342 Gößweinstein - Dreifaltigkeitsbasilika.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/400px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/800px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1200px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg/1920px-00_3342_Gößweinstein_-_Dreifaltigkeitsbasilika.jpg
 ---
 
 ## Overview

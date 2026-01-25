@@ -21,7 +21,7 @@ longitude: 8.96323
 
 # Images
 images:
-  - "/images-sites/new-castle/01-feae0500-800w.webp"
+  - "/images/new-castle/01-feae0500-800w.webp"
 ---
 
 ## Overview

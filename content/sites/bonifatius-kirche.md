@@ -1,24 +1,51 @@
 ---
-title: "Bonifatius-Kirche"
-site_name: "Bonifatius-Kirche"
-slug: "bonifatius-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Bonifatius-Kirche
+site_name: Bonifatius-Kirche
+slug: bonifatius-kirche
+region: North Rhine-Westphalia
 latitude: 51.5004
 longitude: 7.47355
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q121945"
-description: "In the heart of Dortmund, the Bonifatius-Kirche stands as a significant landmark, reflecting the enduring spirit of the Catholic faith within the commun..."
+- church building
+- religious site
+wikidata_id: Q121945
+description: In the heart of Dortmund, the Bonifatius-Kirche stands as a significant
+  landmark, reflecting the enduring spirit of the Catholic faith within the commun...
 images:
-  - "/images-sites/bonifatius-kirche/01-321ed08d-1920w.webp"
-  - "/images-sites/bonifatius-kirche/02-0ed4191a-1920w.webp"
-  - "/images-sites/bonifatius-kirche/03-15e0953c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1200px-Westfalenpark-100818-16820-St-Bonifatius.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg
+image_srcset:
+  Westfalenpark-100818-16820-St-Bonifatius.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/400px-Westfalenpark-100818-16820-St-Bonifatius.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/800px-Westfalenpark-100818-16820-St-Bonifatius.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1200px-Westfalenpark-100818-16820-St-Bonifatius.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Westfalenpark-100818-16820-St-Bonifatius.jpg/1920px-Westfalenpark-100818-16820-St-Bonifatius.jpg
+  Alte St.-Bonifatius-Kirche (Varel) 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg/400px-Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg/800px-Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg/1920px-Alte_St.-Bonifatius-Kirche_(Varel)_05.jpg
+  Alte St.-Bonifatius-Kirche (Varel) 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg/400px-Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg/800px-Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg/1920px-Alte_St.-Bonifatius-Kirche_(Varel)_04.jpg
+  Alte St.-Bonifatius-Kirche (Varel) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg/400px-Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg/800px-Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg/1920px-Alte_St.-Bonifatius-Kirche_(Varel)_02.jpg
+  Alte St.-Bonifatius-Kirche (Varel) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg/400px-Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg/800px-Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg/1200px-Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg/1920px-Alte_St.-Bonifatius-Kirche_(Varel)_01.jpg
 ---
 
 ## Overview

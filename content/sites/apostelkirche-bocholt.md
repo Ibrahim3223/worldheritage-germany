@@ -1,24 +1,46 @@
 ---
-title: "Apostelkirche (Bocholt)"
-site_name: "Apostelkirche (Bocholt)"
-slug: "apostelkirche-bocholt"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Apostelkirche (Bocholt)
+site_name: Apostelkirche (Bocholt)
+slug: apostelkirche-bocholt
+region: North Rhine-Westphalia
 latitude: 51.8243
 longitude: 6.61706
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q619877"
-description: "Apostelkirche, located in Bocholt, Germany, is a striking example of modern church architecture that commands attention. Its design stands out in the la..."
+- church building
+- religious site
+wikidata_id: Q619877
+description: Apostelkirche, located in Bocholt, Germany, is a striking example of
+  modern church architecture that commands attention. Its design stands out in the
+  la...
 images:
-  - "/images-sites/apostelkirche-bocholt/01-793ca9bd-1920w.webp"
-  - "/images-sites/apostelkirche-bocholt/02-c3dd10a1-1920w.webp"
-  - "/images-sites/apostelkirche-bocholt/03-5a7f1cc1-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Apostelkirche%20%28Bocholt%29%20autostitch.jpg/1200px-Apostelkirche%20%28Bocholt%29%20autostitch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirchenraumaltar.jpg/1200px-Kirchenraumaltar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1200px-Apostelkirche_(Bocholt)_autostitch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jerusalemleuchter.jpg/1200px-Jerusalemleuchter.jpg
+image_srcset:
+  Apostelkirche%20%28Bocholt%29%20autostitch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Apostelkirche%20%28Bocholt%29%20autostitch.jpg/400px-Apostelkirche%20%28Bocholt%29%20autostitch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Apostelkirche%20%28Bocholt%29%20autostitch.jpg/800px-Apostelkirche%20%28Bocholt%29%20autostitch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Apostelkirche%20%28Bocholt%29%20autostitch.jpg/1200px-Apostelkirche%20%28Bocholt%29%20autostitch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Apostelkirche%20%28Bocholt%29%20autostitch.jpg/1920px-Apostelkirche%20%28Bocholt%29%20autostitch.jpg
+  Kirchenraumaltar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirchenraumaltar.jpg/400px-Kirchenraumaltar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirchenraumaltar.jpg/800px-Kirchenraumaltar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirchenraumaltar.jpg/1200px-Kirchenraumaltar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirchenraumaltar.jpg/1920px-Kirchenraumaltar.jpg
+  Apostelkirche (Bocholt) autostitch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/400px-Apostelkirche_(Bocholt)_autostitch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/800px-Apostelkirche_(Bocholt)_autostitch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1200px-Apostelkirche_(Bocholt)_autostitch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apostelkirche_(Bocholt)_autostitch.jpg/1920px-Apostelkirche_(Bocholt)_autostitch.jpg
+  Jerusalemleuchter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jerusalemleuchter.jpg/400px-Jerusalemleuchter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jerusalemleuchter.jpg/800px-Jerusalemleuchter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jerusalemleuchter.jpg/1200px-Jerusalemleuchter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jerusalemleuchter.jpg/1920px-Jerusalemleuchter.jpg
 ---
 
 ## Overview

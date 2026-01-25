@@ -1,19 +1,50 @@
 ---
-title: "Gutshaus Wietzow"
+title: Gutshaus Wietzow
 date: 2026-01-23
 draft: false
-description: "Herrenhaus in Wietzow, einem Ortsteil der Gemeinde Daberkow im Landkreis Vorpommern-Greifswald"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus in Wietzow, einem Ortsteil der Gemeinde Daberkow im Landkreis
+  Vorpommern-Greifswald
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8224
 longitude: 13.2768
 images:
-  - "/images-sites/gutshaus-wietzow/01-b45d0517-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wietzow_Park_Gutshaus.jpg/1200px-Wietzow_Park_Gutshaus.jpg
+image_srcset:
+  20040628100DR Wietzow (Daberkow) Gutshaus Wietzow 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/400px-20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/800px-20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1920px-20040628100DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+  20040628080DR Wietzow (Daberkow) Gutshaus Wietzow 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/400px-20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/800px-20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1920px-20040628080DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+  20040628030DR Wietzow (Daberkow) Gutshaus Wietzow 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/400px-20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/800px-20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1920px-20040628030DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+  20040628060DR Wietzow (Daberkow) Gutshaus Wietzow 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/400px-20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/800px-20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1200px-20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg/1920px-20040628060DR_Wietzow_(Daberkow)_Gutshaus_Wietzow_10.jpg
+  Wietzow Park Gutshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wietzow_Park_Gutshaus.jpg/400px-Wietzow_Park_Gutshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wietzow_Park_Gutshaus.jpg/800px-Wietzow_Park_Gutshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wietzow_Park_Gutshaus.jpg/1200px-Wietzow_Park_Gutshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wietzow_Park_Gutshaus.jpg/1920px-Wietzow_Park_Gutshaus.jpg
 ---
 
 ## Overview

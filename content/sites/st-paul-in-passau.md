@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1306062"
 description: "St. Paul in Passau is a striking example of baroque architecture, capturing the attention of visitors with its grand design and rich Catholic heritage. ..."
 images:
-  - "/images-sites/st-paul-in-passau/01-84e8be72-1920w.webp"
-  - "/images-sites/st-paul-in-passau/02-10dc9ec8-1920w.webp"
-  - "/images-sites/st-paul-in-passau/03-f82efb71-1920w.webp"
+  - "/images/st-paul-in-passau/01-84e8be72-1920w.webp"
+  - "/images/st-paul-in-passau/02-10dc9ec8-1920w.webp"
+  - "/images/st-paul-in-passau/03-f82efb71-1920w.webp"
 ---
 
 ## Overview

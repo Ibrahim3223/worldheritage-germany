@@ -13,7 +13,7 @@ regions:
 latitude: 52.405
 longitude: 13.0296
 images:
-  - "/images-sites/orangery-palace/01-1152978e-800w.webp"
+  - "/images/orangery-palace/01-1152978e-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.531944444
 longitude: 13.401388888
 images:
-  - "/images-sites/volkspark-am-weinbergsweg/01-b27a5571-800w.webp"
-  - "/images-sites/volkspark-am-weinbergsweg/02-53e5b748-800w.webp"
-  - "/images-sites/volkspark-am-weinbergsweg/03-793f6a14-800w.webp"
+  - "/images/volkspark-am-weinbergsweg/01-b27a5571-800w.webp"
+  - "/images/volkspark-am-weinbergsweg/02-53e5b748-800w.webp"
+  - "/images/volkspark-am-weinbergsweg/03-793f6a14-800w.webp"
 ---
 
 ## Overview

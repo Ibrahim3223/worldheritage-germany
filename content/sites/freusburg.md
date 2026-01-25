@@ -1,19 +1,49 @@
 ---
-title: "Freusburg"
+title: Freusburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8267
 longitude: 7.88111
 images:
-  - "/images-sites/freusburg/01-22a3b5b4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rodder_Maar_Burg_Olbrück.jpg/1200px-Rodder_Maar_Burg_Olbrück.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Neu-Bamberg.jpg/1200px-Neu-Bamberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Trutzbingen1.JPG/1200px-Trutzbingen1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_wolsfeld.jpg/1200px-Burg_wolsfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Merian_Simmern.JPG/1200px-Merian_Simmern.JPG
+image_srcset:
+  Rodder Maar Burg Olbrück.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rodder_Maar_Burg_Olbrück.jpg/400px-Rodder_Maar_Burg_Olbrück.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rodder_Maar_Burg_Olbrück.jpg/800px-Rodder_Maar_Burg_Olbrück.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rodder_Maar_Burg_Olbrück.jpg/1200px-Rodder_Maar_Burg_Olbrück.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rodder_Maar_Burg_Olbrück.jpg/1920px-Rodder_Maar_Burg_Olbrück.jpg
+  Neu-Bamberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Neu-Bamberg.jpg/400px-Neu-Bamberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Neu-Bamberg.jpg/800px-Neu-Bamberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Neu-Bamberg.jpg/1200px-Neu-Bamberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Neu-Bamberg.jpg/1920px-Neu-Bamberg.jpg
+  Trutzbingen1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Trutzbingen1.JPG/400px-Trutzbingen1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Trutzbingen1.JPG/800px-Trutzbingen1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Trutzbingen1.JPG/1200px-Trutzbingen1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Trutzbingen1.JPG/1920px-Trutzbingen1.JPG
+  Burg wolsfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_wolsfeld.jpg/400px-Burg_wolsfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_wolsfeld.jpg/800px-Burg_wolsfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_wolsfeld.jpg/1200px-Burg_wolsfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_wolsfeld.jpg/1920px-Burg_wolsfeld.jpg
+  Merian Simmern.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Merian_Simmern.JPG/400px-Merian_Simmern.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Merian_Simmern.JPG/800px-Merian_Simmern.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Merian_Simmern.JPG/1200px-Merian_Simmern.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Merian_Simmern.JPG/1920px-Merian_Simmern.JPG
 ---
 
 ## Overview

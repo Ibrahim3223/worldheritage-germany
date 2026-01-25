@@ -13,7 +13,7 @@ regions:
 latitude: 48.1505042
 longitude: 8.7503824
 images:
-  - "/images-sites/lemberg/01-6d367389-800w.webp"
+  - "/images/lemberg/01-6d367389-800w.webp"
 ---
 
 ## Overview

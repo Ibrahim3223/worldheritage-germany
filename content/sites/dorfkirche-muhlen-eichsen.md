@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Mühlen Eichsen"
-site_name: "Dorfkirche Mühlen Eichsen"
-slug: "dorfkirche-muhlen-eichsen"
-region: "Schleswig-Holstein"
-
-# Location
+title: Dorfkirche Mühlen Eichsen
+site_name: Dorfkirche Mühlen Eichsen
+slug: dorfkirche-muhlen-eichsen
+region: Schleswig-Holstein
 latitude: 53.7584
 longitude: 11.2521
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244549"
-description: "In the tranquil village of Mühlen Eichsen, Germany, the Dorfkirche Mühlen Eichsen stands as a remarkable example of Brick Gothic architecture. This chur..."
+- church building
+- religious site
+wikidata_id: Q1244549
+description: In the tranquil village of Mühlen Eichsen, Germany, the Dorfkirche Mühlen
+  Eichsen stands as a remarkable example of Brick Gothic architecture. This chur...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirche%20in%20M%C3%BChlen%20Eichsen.jpg/1200px-Kirche%20in%20M%C3%BChlen%20Eichsen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mühlen_Eichsen_Kirche_Orgel_(3).jpg/1200px-Mühlen_Eichsen_Kirche_Orgel_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mühlen_Eichsen_Kirche_Orgel_(4).jpg/1200px-Mühlen_Eichsen_Kirche_Orgel_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mühlen_Eichsen_Kirche_Orgel_(2).jpg/1200px-Mühlen_Eichsen_Kirche_Orgel_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1200px-Kirche_in_Mühlen_Eichsen.jpg
+image_srcset:
+  Kirche%20in%20M%C3%BChlen%20Eichsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirche%20in%20M%C3%BChlen%20Eichsen.jpg/400px-Kirche%20in%20M%C3%BChlen%20Eichsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirche%20in%20M%C3%BChlen%20Eichsen.jpg/800px-Kirche%20in%20M%C3%BChlen%20Eichsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirche%20in%20M%C3%BChlen%20Eichsen.jpg/1200px-Kirche%20in%20M%C3%BChlen%20Eichsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kirche%20in%20M%C3%BChlen%20Eichsen.jpg/1920px-Kirche%20in%20M%C3%BChlen%20Eichsen.jpg
+  Mühlen Eichsen Kirche Orgel (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mühlen_Eichsen_Kirche_Orgel_(3).jpg/400px-Mühlen_Eichsen_Kirche_Orgel_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mühlen_Eichsen_Kirche_Orgel_(3).jpg/800px-Mühlen_Eichsen_Kirche_Orgel_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mühlen_Eichsen_Kirche_Orgel_(3).jpg/1200px-Mühlen_Eichsen_Kirche_Orgel_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mühlen_Eichsen_Kirche_Orgel_(3).jpg/1920px-Mühlen_Eichsen_Kirche_Orgel_(3).jpg
+  Mühlen Eichsen Kirche Orgel (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mühlen_Eichsen_Kirche_Orgel_(4).jpg/400px-Mühlen_Eichsen_Kirche_Orgel_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mühlen_Eichsen_Kirche_Orgel_(4).jpg/800px-Mühlen_Eichsen_Kirche_Orgel_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mühlen_Eichsen_Kirche_Orgel_(4).jpg/1200px-Mühlen_Eichsen_Kirche_Orgel_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mühlen_Eichsen_Kirche_Orgel_(4).jpg/1920px-Mühlen_Eichsen_Kirche_Orgel_(4).jpg
+  Mühlen Eichsen Kirche Orgel (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mühlen_Eichsen_Kirche_Orgel_(2).jpg/400px-Mühlen_Eichsen_Kirche_Orgel_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mühlen_Eichsen_Kirche_Orgel_(2).jpg/800px-Mühlen_Eichsen_Kirche_Orgel_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mühlen_Eichsen_Kirche_Orgel_(2).jpg/1200px-Mühlen_Eichsen_Kirche_Orgel_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mühlen_Eichsen_Kirche_Orgel_(2).jpg/1920px-Mühlen_Eichsen_Kirche_Orgel_(2).jpg
+  Kirche in Mühlen Eichsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/400px-Kirche_in_Mühlen_Eichsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/800px-Kirche_in_Mühlen_Eichsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1200px-Kirche_in_Mühlen_Eichsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kirche_in_Mühlen_Eichsen.jpg/1920px-Kirche_in_Mühlen_Eichsen.jpg
 ---
 
 ## Overview

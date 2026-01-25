@@ -13,7 +13,7 @@ regions:
 latitude: 51.24194444
 longitude: 6.80527778
 images:
-  - "/images-sites/zoologischer-garten-duesseldorf/01-da3ff6c1-800w.webp"
+  - "/images/zoologischer-garten-duesseldorf/01-da3ff6c1-800w.webp"
 ---
 
 ## Overview

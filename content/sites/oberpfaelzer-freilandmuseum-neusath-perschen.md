@@ -13,7 +13,7 @@ regions:
 latitude: 49.4658
 longitude: 12.2201
 images:
-  - "/images-sites/oberpfaelzer-freilandmuseum-neusath-perschen/01-b6abbdd4-800w.webp"
+  - "/images/oberpfaelzer-freilandmuseum-neusath-perschen/01-b6abbdd4-800w.webp"
 ---
 
 ## Overview

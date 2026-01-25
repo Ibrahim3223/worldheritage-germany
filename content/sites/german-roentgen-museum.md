@@ -1,19 +1,25 @@
 ---
-title: "German Röntgen Museum"
+title: German Röntgen Museum
 date: 2026-01-23
 draft: false
-description: "museum in Remscheid, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Remscheid, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1937
 longitude: 7.2595
 images:
-  - "/images-sites/german-roentgen-museum/01-1bf00426-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2008-08-17RS-Lennep50Röntgenmuseum01.jpg/1200px-2008-08-17RS-Lennep50Röntgenmuseum01.jpg
+image_srcset:
+  2008-08-17RS-Lennep50Röntgenmuseum01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2008-08-17RS-Lennep50Röntgenmuseum01.jpg/400px-2008-08-17RS-Lennep50Röntgenmuseum01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2008-08-17RS-Lennep50Röntgenmuseum01.jpg/800px-2008-08-17RS-Lennep50Röntgenmuseum01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2008-08-17RS-Lennep50Röntgenmuseum01.jpg/1200px-2008-08-17RS-Lennep50Röntgenmuseum01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2008-08-17RS-Lennep50Röntgenmuseum01.jpg/1920px-2008-08-17RS-Lennep50Röntgenmuseum01.jpg
 ---
 
 ## Overview

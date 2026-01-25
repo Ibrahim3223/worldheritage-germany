@@ -13,7 +13,7 @@ regions:
 latitude: 51.5031
 longitude: 6.87611
 images:
-  - "/images-sites/zeche-osterfeld/01-3a231eeb-800w.webp"
+  - "/images/zeche-osterfeld/01-3a231eeb-800w.webp"
 ---
 
 ## Overview

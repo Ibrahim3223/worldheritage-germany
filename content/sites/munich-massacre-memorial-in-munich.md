@@ -13,7 +13,7 @@ regions:
 latitude: 48.1767
 longitude: 11.5478
 images:
-  - "/images-sites/munich-massacre-memorial-in-munich/01-ef143c8a-800w.webp"
+  - "/images/munich-massacre-memorial-in-munich/01-ef143c8a-800w.webp"
 ---
 
 ## Overview

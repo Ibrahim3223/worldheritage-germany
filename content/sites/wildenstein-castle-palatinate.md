@@ -21,7 +21,7 @@ longitude: 7.9249
 
 # Images
 images:
-  - "/images-sites/wildenstein-castle-palatinate/01-15bed73f-800w.webp"
+  - "/images/wildenstein-castle-palatinate/01-15bed73f-800w.webp"
 ---
 
 ## Overview

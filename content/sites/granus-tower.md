@@ -1,19 +1,43 @@
 ---
-title: "Granus Tower"
+title: Granus Tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.77597
 longitude: 6.08422
 images:
-  - "/images-sites/granus-tower/01-af4aa7ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg/1200px-Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg/1200px-Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NRW,_Aachen_-_Rathaus_03.jpg/1200px-NRW,_Aachen_-_Rathaus_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2022_Aachen_Granusturm.jpg/1200px-2022_Aachen_Granusturm.jpg
+image_srcset:
+  Aachen, Rathaus, Granusturm -- 2016 -- 2774.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg/400px-Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg/800px-Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg/1200px-Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg/1920px-Aachen,_Rathaus,_Granusturm_--_2016_--_2774.jpg
+  Aachen, Rathaus, Granusturm -- 2016 -- 2777.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg/400px-Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg/800px-Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg/1200px-Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg/1920px-Aachen,_Rathaus,_Granusturm_--_2016_--_2777.jpg
+  NRW, Aachen - Rathaus 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NRW,_Aachen_-_Rathaus_03.jpg/400px-NRW,_Aachen_-_Rathaus_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NRW,_Aachen_-_Rathaus_03.jpg/800px-NRW,_Aachen_-_Rathaus_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NRW,_Aachen_-_Rathaus_03.jpg/1200px-NRW,_Aachen_-_Rathaus_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/NRW,_Aachen_-_Rathaus_03.jpg/1920px-NRW,_Aachen_-_Rathaus_03.jpg
+  2022 Aachen Granusturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2022_Aachen_Granusturm.jpg/400px-2022_Aachen_Granusturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2022_Aachen_Granusturm.jpg/800px-2022_Aachen_Granusturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2022_Aachen_Granusturm.jpg/1200px-2022_Aachen_Granusturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2022_Aachen_Granusturm.jpg/1920px-2022_Aachen_Granusturm.jpg
 ---
 
 ## Overview

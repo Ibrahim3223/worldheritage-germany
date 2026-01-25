@@ -1,20 +1,45 @@
 ---
-title: "Johanneskirche (Untergruppenbach)"
-site_name: "Johanneskirche (Untergruppenbach)"
-slug: "johanneskirche-untergruppenbach"
-region: "Baden-Württemberg"
-
-# Location
+title: Johanneskirche (Untergruppenbach)
+site_name: Johanneskirche (Untergruppenbach)
+slug: johanneskirche-untergruppenbach
+region: Baden-Württemberg
 latitude: 49.0895
 longitude: 9.27436
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698862"
-description: "In the heart of Baden-Württemberg, Germany, the Johanneskirche in Untergruppenbach stands as a notable example of ecclesiastical architecture. This chur..."
+- church building
+- religious site
+wikidata_id: Q1698862
+description: In the heart of Baden-Württemberg, Germany, the Johanneskirche in Untergruppenbach
+  stands as a notable example of ecclesiastical architecture. This chur...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/1200px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg/1200px-Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ev._Kichen_Gemeinde_Untergruppenbach.jpg/1200px-Ev._Kichen_Gemeinde_Untergruppenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Untergruppenbach-Johanneskirche-2011-001.JPG/1200px-Untergruppenbach-Johanneskirche-2011-001.JPG
+image_srcset:
+  Johanneskirche-Untergruppenbach-ansicht2011-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/400px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/800px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/1200px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johanneskirche-Untergruppenbach-ansicht2011-01.JPG/1920px-Johanneskirche-Untergruppenbach-ansicht2011-01.JPG
+  Untergruppenbach - Ansicht aus NNW vom Schweinsbergturm im Herbst (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg/400px-Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg/800px-Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg/1200px-Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg/1920px-Untergruppenbach_-_Ansicht_aus_NNW_vom_Schweinsbergturm_im_Herbst_(1).jpg
+  Ev. Kichen Gemeinde Untergruppenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ev._Kichen_Gemeinde_Untergruppenbach.jpg/400px-Ev._Kichen_Gemeinde_Untergruppenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ev._Kichen_Gemeinde_Untergruppenbach.jpg/800px-Ev._Kichen_Gemeinde_Untergruppenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ev._Kichen_Gemeinde_Untergruppenbach.jpg/1200px-Ev._Kichen_Gemeinde_Untergruppenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ev._Kichen_Gemeinde_Untergruppenbach.jpg/1920px-Ev._Kichen_Gemeinde_Untergruppenbach.jpg
+  Untergruppenbach-Johanneskirche-2011-001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Untergruppenbach-Johanneskirche-2011-001.JPG/400px-Untergruppenbach-Johanneskirche-2011-001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Untergruppenbach-Johanneskirche-2011-001.JPG/800px-Untergruppenbach-Johanneskirche-2011-001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Untergruppenbach-Johanneskirche-2011-001.JPG/1200px-Untergruppenbach-Johanneskirche-2011-001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Untergruppenbach-Johanneskirche-2011-001.JPG/1920px-Untergruppenbach-Johanneskirche-2011-001.JPG
 ---
 
 ## Overview

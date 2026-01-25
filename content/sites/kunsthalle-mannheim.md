@@ -21,7 +21,7 @@ longitude: 8.475263
 
 # Images
 images:
-  - "/images-sites/kunsthalle-mannheim/01-ec4ea7ed-800w.webp"
+  - "/images/kunsthalle-mannheim/01-ec4ea7ed-800w.webp"
 ---
 
 ## Overview

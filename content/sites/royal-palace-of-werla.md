@@ -21,7 +21,7 @@ longitude: 10.5548
 
 # Images
 images:
-  - "/images-sites/royal-palace-of-werla/01-a0f55397-800w.webp"
+  - "/images/royal-palace-of-werla/01-a0f55397-800w.webp"
 ---
 
 ## Overview

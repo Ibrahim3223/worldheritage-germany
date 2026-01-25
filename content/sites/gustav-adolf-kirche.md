@@ -1,24 +1,51 @@
 ---
-title: "Gustav-Adolf-Kirche"
-site_name: "Gustav-Adolf-Kirche"
-slug: "gustav-adolf-kirche"
-region: "Hesse"
-
-# Location
+title: Gustav-Adolf-Kirche
+site_name: Gustav-Adolf-Kirche
+slug: gustav-adolf-kirche
+region: Hesse
 latitude: 50.1679
 longitude: 8.61913
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q11722095"
-description: "In the heart of Frankfurt-Nord-West lies the Gustav-Adolf-Kirche, a striking example of modern architecture that reflects the innovative spirit of its t..."
+- church building
+- religious site
+wikidata_id: Q11722095
+description: In the heart of Frankfurt-Nord-West lies the Gustav-Adolf-Kirche, a striking
+  example of modern architecture that reflects the innovative spirit of its t...
 images:
-  - "/images-sites/gustav-adolf-kirche/01-2a1b0395-1920w.webp"
-  - "/images-sites/gustav-adolf-kirche/02-d836b02d-1920w.webp"
-  - "/images-sites/gustav-adolf-kirche/03-2f5d545c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gustav-Adolf-Kirche%20Niederursel.JPG/1200px-Gustav-Adolf-Kirche%20Niederursel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg/1200px-Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Großauheim_10.4.2011_GustavAdolf3.JPG/1200px-Großauheim_10.4.2011_GustavAdolf3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2KirchenMain.jpg/1200px-2KirchenMain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/G-adolf-kirche.jpg/1200px-G-adolf-kirche.jpg
+image_srcset:
+  Gustav-Adolf-Kirche%20Niederursel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gustav-Adolf-Kirche%20Niederursel.JPG/400px-Gustav-Adolf-Kirche%20Niederursel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gustav-Adolf-Kirche%20Niederursel.JPG/800px-Gustav-Adolf-Kirche%20Niederursel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gustav-Adolf-Kirche%20Niederursel.JPG/1200px-Gustav-Adolf-Kirche%20Niederursel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gustav-Adolf-Kirche%20Niederursel.JPG/1920px-Gustav-Adolf-Kirche%20Niederursel.JPG
+  Großauheim (Hanau), die Gustav-Adolf-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg/400px-Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg/800px-Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg/1200px-Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg/1920px-Großauheim_(Hanau),_die_Gustav-Adolf-Kirche.jpg
+  Großauheim 10.4.2011 GustavAdolf3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Großauheim_10.4.2011_GustavAdolf3.JPG/400px-Großauheim_10.4.2011_GustavAdolf3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Großauheim_10.4.2011_GustavAdolf3.JPG/800px-Großauheim_10.4.2011_GustavAdolf3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Großauheim_10.4.2011_GustavAdolf3.JPG/1200px-Großauheim_10.4.2011_GustavAdolf3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Großauheim_10.4.2011_GustavAdolf3.JPG/1920px-Großauheim_10.4.2011_GustavAdolf3.JPG
+  2KirchenMain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2KirchenMain.jpg/400px-2KirchenMain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2KirchenMain.jpg/800px-2KirchenMain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2KirchenMain.jpg/1200px-2KirchenMain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2KirchenMain.jpg/1920px-2KirchenMain.jpg
+  G-adolf-kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/G-adolf-kirche.jpg/400px-G-adolf-kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/G-adolf-kirche.jpg/800px-G-adolf-kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/G-adolf-kirche.jpg/1200px-G-adolf-kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/G-adolf-kirche.jpg/1920px-G-adolf-kirche.jpg
 ---
 
 ## Overview

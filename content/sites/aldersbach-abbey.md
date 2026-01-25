@@ -1,19 +1,43 @@
 ---
-title: "Aldersbach Abbey"
+title: Aldersbach Abbey
 date: 2026-01-23
 draft: false
-description: "abbey in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.588162543
 longitude: 13.086090904
 images:
-  - "/images-sites/aldersbach-abbey/01-09c37fa7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aldersbach_Kloster_-_Abtzimmer_1.jpg/1200px-Aldersbach_Kloster_-_Abtzimmer_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aldersbach-Klosterkirche-außen-3.JPG/1200px-Aldersbach-Klosterkirche-außen-3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aldersbacher-Luftbild.jpg/1200px-Aldersbacher-Luftbild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kloster_Aldersbach_1765.jpg/1200px-Kloster_Aldersbach_1765.jpg
+image_srcset:
+  Aldersbach Kloster - Abtzimmer 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aldersbach_Kloster_-_Abtzimmer_1.jpg/400px-Aldersbach_Kloster_-_Abtzimmer_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aldersbach_Kloster_-_Abtzimmer_1.jpg/800px-Aldersbach_Kloster_-_Abtzimmer_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aldersbach_Kloster_-_Abtzimmer_1.jpg/1200px-Aldersbach_Kloster_-_Abtzimmer_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aldersbach_Kloster_-_Abtzimmer_1.jpg/1920px-Aldersbach_Kloster_-_Abtzimmer_1.jpg
+  Aldersbach-Klosterkirche-außen-3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aldersbach-Klosterkirche-außen-3.JPG/400px-Aldersbach-Klosterkirche-außen-3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aldersbach-Klosterkirche-außen-3.JPG/800px-Aldersbach-Klosterkirche-außen-3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aldersbach-Klosterkirche-außen-3.JPG/1200px-Aldersbach-Klosterkirche-außen-3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aldersbach-Klosterkirche-außen-3.JPG/1920px-Aldersbach-Klosterkirche-außen-3.JPG
+  Aldersbacher-Luftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aldersbacher-Luftbild.jpg/400px-Aldersbacher-Luftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aldersbacher-Luftbild.jpg/800px-Aldersbacher-Luftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aldersbacher-Luftbild.jpg/1200px-Aldersbacher-Luftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aldersbacher-Luftbild.jpg/1920px-Aldersbacher-Luftbild.jpg
+  Kloster Aldersbach 1765.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kloster_Aldersbach_1765.jpg/400px-Kloster_Aldersbach_1765.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kloster_Aldersbach_1765.jpg/800px-Kloster_Aldersbach_1765.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kloster_Aldersbach_1765.jpg/1200px-Kloster_Aldersbach_1765.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kloster_Aldersbach_1765.jpg/1920px-Kloster_Aldersbach_1765.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.182947
 longitude: 8.017652
 images:
-  - "/images-sites/open-air-museum-ammerlaender-bauernhaus/01-2bd597c9-800w.webp"
+  - "/images/open-air-museum-ammerlaender-bauernhaus/01-2bd597c9-800w.webp"
 ---
 
 ## Overview

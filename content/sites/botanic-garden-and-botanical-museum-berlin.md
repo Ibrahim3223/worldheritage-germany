@@ -1,27 +1,49 @@
 ---
-title: "Botanic Garden and Botanical Museum Berlin"
+title: Botanic Garden and Botanical Museum Berlin
 date: 2026-01-23
 draft: false
-description: "Botanical garden and museum located in Berlin"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: Botanical garden and museum located in Berlin
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.455
 longitude: 13.3036
-
-# Images
 images:
-  - "/images-sites/botanic-garden-and-botanical-museum-berlin/01-bfdad043-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Botanischer_Garten_--_2013_--_4697.jpg/1200px-Berlin,_Botanischer_Garten_--_2013_--_4697.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Botanischer_Garten_--_2013_--_3.jpg/1200px-Berlin,_Botanischer_Garten_--_2013_--_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg
+image_srcset:
+  Botanischer Garten Berlin-Dahlem 10-2014 photo01 pond.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/400px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/800px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg
+  Botanischer Garten Berlin-Dahlem 10-2014 photo12 Stranvaesia davidiana.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg/400px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg/800px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo12_Stranvaesia_davidiana.jpg
+  Berlin, Botanischer Garten -- 2013 -- 4697.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Botanischer_Garten_--_2013_--_4697.jpg/400px-Berlin,_Botanischer_Garten_--_2013_--_4697.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Botanischer_Garten_--_2013_--_4697.jpg/800px-Berlin,_Botanischer_Garten_--_2013_--_4697.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Botanischer_Garten_--_2013_--_4697.jpg/1200px-Berlin,_Botanischer_Garten_--_2013_--_4697.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Berlin,_Botanischer_Garten_--_2013_--_4697.jpg/1920px-Berlin,_Botanischer_Garten_--_2013_--_4697.jpg
+  Berlin, Botanischer Garten -- 2013 -- 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Botanischer_Garten_--_2013_--_3.jpg/400px-Berlin,_Botanischer_Garten_--_2013_--_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Botanischer_Garten_--_2013_--_3.jpg/800px-Berlin,_Botanischer_Garten_--_2013_--_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Botanischer_Garten_--_2013_--_3.jpg/1200px-Berlin,_Botanischer_Garten_--_2013_--_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Botanischer_Garten_--_2013_--_3.jpg/1920px-Berlin,_Botanischer_Garten_--_2013_--_3.jpg
+  Botanischer Garten Berlin-Dahlem 10-2014 photo11 Malus mandshurica.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg/400px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg/800px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg/1200px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg/1920px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo11_Malus_mandshurica.jpg
 ---
 
 ## Overview

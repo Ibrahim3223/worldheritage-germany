@@ -13,9 +13,9 @@ regions:
 latitude: 51.751133333
 longitude: 10.753422222
 images:
-  - "/images-sites/koenigshuette-waterfall/01-7077e245-800w.webp"
-  - "/images-sites/koenigshuette-waterfall/02-316524d8-800w.webp"
-  - "/images-sites/koenigshuette-waterfall/03-98c83eda-800w.webp"
+  - "/images/koenigshuette-waterfall/01-7077e245-800w.webp"
+  - "/images/koenigshuette-waterfall/02-316524d8-800w.webp"
+  - "/images/koenigshuette-waterfall/03-98c83eda-800w.webp"
 ---
 
 ## Overview

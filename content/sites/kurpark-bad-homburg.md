@@ -13,9 +13,9 @@ regions:
 latitude: 50.226778589
 longitude: 8.625949306
 images:
-  - "/images-sites/kurpark-bad-homburg/01-e260b567-800w.webp"
-  - "/images-sites/kurpark-bad-homburg/02-283800cc-800w.webp"
-  - "/images-sites/kurpark-bad-homburg/03-791aa88e-800w.webp"
+  - "/images/kurpark-bad-homburg/01-e260b567-800w.webp"
+  - "/images/kurpark-bad-homburg/02-283800cc-800w.webp"
+  - "/images/kurpark-bad-homburg/03-791aa88e-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.44555556
 longitude: 11.07444444
 images:
-  - "/images-sites/museum-of-communication-nuremberg/01-46c8608e-800w.webp"
-  - "/images-sites/museum-of-communication-nuremberg/02-ef48a089-800w.webp"
-  - "/images-sites/museum-of-communication-nuremberg/03-d7a537d1-800w.webp"
+  - "/images/museum-of-communication-nuremberg/01-46c8608e-800w.webp"
+  - "/images/museum-of-communication-nuremberg/02-ef48a089-800w.webp"
+  - "/images/museum-of-communication-nuremberg/03-d7a537d1-800w.webp"
 ---
 
 ## Overview

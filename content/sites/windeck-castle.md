@@ -21,7 +21,7 @@ longitude: 8.15788
 
 # Images
 images:
-  - "/images-sites/windeck-castle/01-847a7569-800w.webp"
+  - "/images/windeck-castle/01-847a7569-800w.webp"
 ---
 
 ## Overview

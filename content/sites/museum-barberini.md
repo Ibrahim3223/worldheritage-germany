@@ -21,9 +21,9 @@ longitude: 13.062282
 
 # Images
 images:
-  - "/images-sites/museum-barberini/01-32a0a7e4-800w.webp"
-  - "/images-sites/museum-barberini/02-0f1adde1-800w.webp"
-  - "/images-sites/museum-barberini/03-507b5f23-800w.webp"
+  - "/images/museum-barberini/01-32a0a7e4-800w.webp"
+  - "/images/museum-barberini/02-0f1adde1-800w.webp"
+  - "/images/museum-barberini/03-507b5f23-800w.webp"
 ---
 
 ## Overview

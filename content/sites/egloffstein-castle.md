@@ -1,19 +1,49 @@
 ---
-title: "Egloffstein Castle"
+title: Egloffstein Castle
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-74-124-1 (0) in Egloffstein, Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: cultural heritage monument D-4-74-124-1 (0) in Egloffstein, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7026
 longitude: 11.2574
 images:
-  - "/images-sites/egloffstein-castle/01-697636a6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Egloffstein_Panorama_01.jpg/1200px-Egloffstein_Panorama_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Egloffstein_Castle_01.jpg/1200px-Egloffstein_Castle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/1200px-Burg_Egloffstein01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Egloffstein_Castle_02.jpg/1200px-Egloffstein_Castle_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg/1200px-Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg
+image_srcset:
+  Egloffstein Panorama 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Egloffstein_Panorama_01.jpg/400px-Egloffstein_Panorama_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Egloffstein_Panorama_01.jpg/800px-Egloffstein_Panorama_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Egloffstein_Panorama_01.jpg/1200px-Egloffstein_Panorama_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Egloffstein_Panorama_01.jpg/1920px-Egloffstein_Panorama_01.jpg
+  Egloffstein Castle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Egloffstein_Castle_01.jpg/400px-Egloffstein_Castle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Egloffstein_Castle_01.jpg/800px-Egloffstein_Castle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Egloffstein_Castle_01.jpg/1200px-Egloffstein_Castle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Egloffstein_Castle_01.jpg/1920px-Egloffstein_Castle_01.jpg
+  Burg Egloffstein01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/400px-Burg_Egloffstein01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/800px-Burg_Egloffstein01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/1200px-Burg_Egloffstein01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Egloffstein01.jpg/1920px-Burg_Egloffstein01.jpg
+  Egloffstein Castle 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Egloffstein_Castle_02.jpg/400px-Egloffstein_Castle_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Egloffstein_Castle_02.jpg/800px-Egloffstein_Castle_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Egloffstein_Castle_02.jpg/1200px-Egloffstein_Castle_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Egloffstein_Castle_02.jpg/1920px-Egloffstein_Castle_02.jpg
+  Blick auf Burg Egloffstein von W IMG 5104.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg/400px-Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg/800px-Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg/1200px-Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg/1920px-Blick_auf_Burg_Egloffstein_von_W_IMG_5104.jpg
 ---
 
 ## Overview

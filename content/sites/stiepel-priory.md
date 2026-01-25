@@ -13,7 +13,7 @@ regions:
 latitude: 51.431766666
 longitude: 7.228675
 images:
-  - "/images-sites/stiepel-priory/01-0b1e4d2c-800w.webp"
+  - "/images/stiepel-priory/01-0b1e4d2c-800w.webp"
 ---
 
 ## Overview

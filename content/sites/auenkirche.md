@@ -1,24 +1,51 @@
 ---
-title: "Auenkirche"
-site_name: "Auenkirche"
-slug: "auenkirche"
-region: "Berlin"
-
-# Location
+title: Auenkirche
+site_name: Auenkirche
+slug: auenkirche
+region: Berlin
 latitude: 52.4848
 longitude: 13.3244
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q759119"
-description: "In the heart of Berlin-Wilmersdorf stands Auenkirche, a striking example of Gothic Revival architecture that captivates visitors with its unique design ..."
+- church building
+- religious site
+wikidata_id: Q759119
+description: In the heart of Berlin-Wilmersdorf stands Auenkirche, a striking example
+  of Gothic Revival architecture that captivates visitors with its unique design ...
 images:
-  - "/images-sites/auenkirche/01-02f24e58-1920w.webp"
-  - "/images-sites/auenkirche/02-a5817866-1920w.webp"
-  - "/images-sites/auenkirche/03-340a6afa-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Auenkirche%20Gesamt%20III.jpg/1200px-Auenkirche%20Gesamt%20III.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Markkleeberg_Auenkirche-01.jpg/1200px-Markkleeberg_Auenkirche-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Auenkirche_Markkleeberg_(12).jpg/1200px-Auenkirche_Markkleeberg_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auenkirche_Markkleeberg_(15).jpg/1200px-Auenkirche_Markkleeberg_(15).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Auenkirche_Mkb.jpg/1200px-Auenkirche_Mkb.jpg
+image_srcset:
+  Auenkirche%20Gesamt%20III.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Auenkirche%20Gesamt%20III.jpg/400px-Auenkirche%20Gesamt%20III.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Auenkirche%20Gesamt%20III.jpg/800px-Auenkirche%20Gesamt%20III.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Auenkirche%20Gesamt%20III.jpg/1200px-Auenkirche%20Gesamt%20III.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Auenkirche%20Gesamt%20III.jpg/1920px-Auenkirche%20Gesamt%20III.jpg
+  Markkleeberg Auenkirche-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Markkleeberg_Auenkirche-01.jpg/400px-Markkleeberg_Auenkirche-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Markkleeberg_Auenkirche-01.jpg/800px-Markkleeberg_Auenkirche-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Markkleeberg_Auenkirche-01.jpg/1200px-Markkleeberg_Auenkirche-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Markkleeberg_Auenkirche-01.jpg/1920px-Markkleeberg_Auenkirche-01.jpg
+  Auenkirche Markkleeberg (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Auenkirche_Markkleeberg_(12).jpg/400px-Auenkirche_Markkleeberg_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Auenkirche_Markkleeberg_(12).jpg/800px-Auenkirche_Markkleeberg_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Auenkirche_Markkleeberg_(12).jpg/1200px-Auenkirche_Markkleeberg_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Auenkirche_Markkleeberg_(12).jpg/1920px-Auenkirche_Markkleeberg_(12).jpg
+  Auenkirche Markkleeberg (15).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auenkirche_Markkleeberg_(15).jpg/400px-Auenkirche_Markkleeberg_(15).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auenkirche_Markkleeberg_(15).jpg/800px-Auenkirche_Markkleeberg_(15).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auenkirche_Markkleeberg_(15).jpg/1200px-Auenkirche_Markkleeberg_(15).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auenkirche_Markkleeberg_(15).jpg/1920px-Auenkirche_Markkleeberg_(15).jpg
+  Auenkirche Mkb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Auenkirche_Mkb.jpg/400px-Auenkirche_Mkb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Auenkirche_Mkb.jpg/800px-Auenkirche_Mkb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Auenkirche_Mkb.jpg/1200px-Auenkirche_Mkb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Auenkirche_Mkb.jpg/1920px-Auenkirche_Mkb.jpg
 ---
 
 ## Overview

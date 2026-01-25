@@ -21,9 +21,9 @@ longitude: 9.99568
 
 # Images
 images:
-  - "/images-sites/stiftung-hamburg-maritim/01-d4438f0f-800w.webp"
-  - "/images-sites/stiftung-hamburg-maritim/02-f5b35dd3-800w.webp"
-  - "/images-sites/stiftung-hamburg-maritim/03-dac9017c-800w.webp"
+  - "/images/stiftung-hamburg-maritim/01-d4438f0f-800w.webp"
+  - "/images/stiftung-hamburg-maritim/02-f5b35dd3-800w.webp"
+  - "/images/stiftung-hamburg-maritim/03-dac9017c-800w.webp"
 ---
 
 ## Overview

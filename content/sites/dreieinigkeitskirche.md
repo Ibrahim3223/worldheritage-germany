@@ -1,24 +1,51 @@
 ---
-title: "Dreieinigkeitskirche"
-site_name: "Dreieinigkeitskirche"
-slug: "dreieinigkeitskirche"
-region: "Saxony"
-
-# Location
+title: Dreieinigkeitskirche
+site_name: Dreieinigkeitskirche
+slug: dreieinigkeitskirche
+region: Saxony
 latitude: 50.6472
 longitude: 11.9814
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1257531"
-description: "Tucked away in the charming town of Zeulenroda-Triebes, Dreieinigkeitskirche stands as a significant representation of Neoclassical architecture. Founde..."
+- church building
+- religious site
+wikidata_id: Q1257531
+description: Tucked away in the charming town of Zeulenroda-Triebes, Dreieinigkeitskirche
+  stands as a significant representation of Neoclassical architecture. Founde...
 images:
-  - "/images-sites/dreieinigkeitskirche/01-12119f2f-1920w.webp"
-  - "/images-sites/dreieinigkeitskirche/02-00b4303c-1920w.webp"
-  - "/images-sites/dreieinigkeitskirche/03-a78517bb-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dreieinigkeitskirche%20Zeulenronda.JPG/1200px-Dreieinigkeitskirche%20Zeulenronda.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg/1200px-Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png/1200px-Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dreieinigkeitskirche_Hof_20191030_003.jpg/1200px-Dreieinigkeitskirche_Hof_20191030_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirchsteinbek_chor.jpg/1200px-Kirchsteinbek_chor.jpg
+image_srcset:
+  Dreieinigkeitskirche%20Zeulenronda.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dreieinigkeitskirche%20Zeulenronda.JPG/400px-Dreieinigkeitskirche%20Zeulenronda.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dreieinigkeitskirche%20Zeulenronda.JPG/800px-Dreieinigkeitskirche%20Zeulenronda.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dreieinigkeitskirche%20Zeulenronda.JPG/1200px-Dreieinigkeitskirche%20Zeulenronda.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dreieinigkeitskirche%20Zeulenronda.JPG/1920px-Dreieinigkeitskirche%20Zeulenronda.JPG
+  Eingang zur Dreieinigkeitskirche Hof 20210404 DSC08580.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg/400px-Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg/800px-Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg/1200px-Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg/1920px-Eingang_zur_Dreieinigkeitskirche_Hof_20210404_DSC08580.jpg
+  Dreieinigkeitskirche Hof 20220724 HOF07179 RAW-Export.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png/400px-Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png/800px-Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png/1200px-Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png/1920px-Dreieinigkeitskirche_Hof_20220724_HOF07179_RAW-Export.png
+  Dreieinigkeitskirche Hof 20191030 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dreieinigkeitskirche_Hof_20191030_003.jpg/400px-Dreieinigkeitskirche_Hof_20191030_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dreieinigkeitskirche_Hof_20191030_003.jpg/800px-Dreieinigkeitskirche_Hof_20191030_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dreieinigkeitskirche_Hof_20191030_003.jpg/1200px-Dreieinigkeitskirche_Hof_20191030_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dreieinigkeitskirche_Hof_20191030_003.jpg/1920px-Dreieinigkeitskirche_Hof_20191030_003.jpg
+  Kirchsteinbek chor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirchsteinbek_chor.jpg/400px-Kirchsteinbek_chor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirchsteinbek_chor.jpg/800px-Kirchsteinbek_chor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirchsteinbek_chor.jpg/1200px-Kirchsteinbek_chor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirchsteinbek_chor.jpg/1920px-Kirchsteinbek_chor.jpg
 ---
 
 ## Overview

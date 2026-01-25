@@ -1,19 +1,49 @@
 ---
-title: "Irrhain"
+title: Irrhain
 date: 2026-01-23
 draft: false
-description: "park in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.514658545
 longitude: 11.060357539
 images:
-  - "/images-sites/irrhain/01-b96ca700-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Irrhain_8734.jpg/1200px-Irrhain_8734.jpg
+image_srcset:
+  D-5-72-458-1 Irrhain des 1644 gegründeten Pegnesischen Blumenordens Kraftshofer Forst 20241201 0193.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg/400px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg/800px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg/1920px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0193.jpg
+  D-5-72-458-1 Irrhain des 1644 gegründeten Pegnesischen Blumenordens Kraftshofer Forst 20241201 0199.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg/400px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg/800px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg/1920px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0199.jpg
+  D-5-72-458-1 Irrhain des 1644 gegründeten Pegnesischen Blumenordens Kraftshofer Forst 20241201 0192.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg/400px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg/800px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg/1920px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0192.jpg
+  D-5-72-458-1 Irrhain des 1644 gegründeten Pegnesischen Blumenordens Kraftshofer Forst 20241201 0196.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg/400px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg/800px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg/1200px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg/1920px-D-5-72-458-1_Irrhain_des_1644_gegründeten_Pegnesischen_Blumenordens_Kraftshofer_Forst_20241201_0196.jpg
+  Irrhain 8734.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Irrhain_8734.jpg/400px-Irrhain_8734.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Irrhain_8734.jpg/800px-Irrhain_8734.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Irrhain_8734.jpg/1200px-Irrhain_8734.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Irrhain_8734.jpg/1920px-Irrhain_8734.jpg
 ---
 
 ## Overview

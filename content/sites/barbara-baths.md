@@ -1,29 +1,49 @@
 ---
-title: "Barbara Baths"
+title: Barbara Baths
 date: 2026-01-23
 draft: false
-description: "Roman baths in Trier, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman baths in Trier, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.75
 longitude: 6.63028
-
-# Images
 images:
-  - "/images-sites/barbara-baths/01-777a74e0-800w.webp"
-  - "/images-sites/barbara-baths/02-c7ec2508-800w.webp"
-  - "/images-sites/barbara-baths/03-9d96aa11-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/20180513_Barbarathermen.jpg/1200px-20180513_Barbarathermen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Trier_07.JPG/1200px-Trier_07.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg/1200px-Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trier_Barbarathermen.jpg/1200px-Trier_Barbarathermen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Barbarathermen_Trier_Wiltheim_1620_3.jpg/1200px-Barbarathermen_Trier_Wiltheim_1620_3.jpg
+image_srcset:
+  20180513 Barbarathermen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/20180513_Barbarathermen.jpg/400px-20180513_Barbarathermen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/20180513_Barbarathermen.jpg/800px-20180513_Barbarathermen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/20180513_Barbarathermen.jpg/1200px-20180513_Barbarathermen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/20180513_Barbarathermen.jpg/1920px-20180513_Barbarathermen.jpg
+  Trier 07.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Trier_07.JPG/400px-Trier_07.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Trier_07.JPG/800px-Trier_07.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Trier_07.JPG/1200px-Trier_07.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Trier_07.JPG/1920px-Trier_07.JPG
+  Barbarathermen Trier, Bauhütte Trier 1990 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg/400px-Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg/800px-Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg/1200px-Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg/1920px-Barbarathermen_Trier,_Bauhütte_Trier_1990_2.jpg
+  Trier Barbarathermen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trier_Barbarathermen.jpg/400px-Trier_Barbarathermen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trier_Barbarathermen.jpg/800px-Trier_Barbarathermen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trier_Barbarathermen.jpg/1200px-Trier_Barbarathermen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Trier_Barbarathermen.jpg/1920px-Trier_Barbarathermen.jpg
+  Barbarathermen Trier Wiltheim 1620 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Barbarathermen_Trier_Wiltheim_1620_3.jpg/400px-Barbarathermen_Trier_Wiltheim_1620_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Barbarathermen_Trier_Wiltheim_1620_3.jpg/800px-Barbarathermen_Trier_Wiltheim_1620_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Barbarathermen_Trier_Wiltheim_1620_3.jpg/1200px-Barbarathermen_Trier_Wiltheim_1620_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Barbarathermen_Trier_Wiltheim_1620_3.jpg/1920px-Barbarathermen_Trier_Wiltheim_1620_3.jpg
 ---
 
 ## Overview

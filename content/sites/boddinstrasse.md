@@ -1,19 +1,49 @@
 ---
-title: "Boddinstraße"
+title: Boddinstraße
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.48
 longitude: 13.425277777
 images:
-  - "/images-sites/boddinstrasse/01-78f8ed65-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg/1200px-Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/U8_Berlin_Boddinstrasse_12-2017.jpg/1200px-U8_Berlin_Boddinstrasse_12-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Berlin-Neukölln_Boddinstraße.jpg/1200px-Berlin-Neukölln_Boddinstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/UBahnhf_Boddinstr.JPG/1200px-UBahnhf_Boddinstr.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Boddinstrasse.png/1200px-Boddinstrasse.png
+image_srcset:
+  Berlin - U-Bahnhof Boddinstraße (15018334836).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg/400px-Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg/800px-Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg/1200px-Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg/1920px-Berlin_-_U-Bahnhof_Boddinstraße_(15018334836).jpg
+  U8 Berlin Boddinstrasse 12-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/U8_Berlin_Boddinstrasse_12-2017.jpg/400px-U8_Berlin_Boddinstrasse_12-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/U8_Berlin_Boddinstrasse_12-2017.jpg/800px-U8_Berlin_Boddinstrasse_12-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/U8_Berlin_Boddinstrasse_12-2017.jpg/1200px-U8_Berlin_Boddinstrasse_12-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/U8_Berlin_Boddinstrasse_12-2017.jpg/1920px-U8_Berlin_Boddinstrasse_12-2017.jpg
+  Berlin-Neukölln Boddinstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Berlin-Neukölln_Boddinstraße.jpg/400px-Berlin-Neukölln_Boddinstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Berlin-Neukölln_Boddinstraße.jpg/800px-Berlin-Neukölln_Boddinstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Berlin-Neukölln_Boddinstraße.jpg/1200px-Berlin-Neukölln_Boddinstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Berlin-Neukölln_Boddinstraße.jpg/1920px-Berlin-Neukölln_Boddinstraße.jpg
+  UBahnhf Boddinstr.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/UBahnhf_Boddinstr.JPG/400px-UBahnhf_Boddinstr.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/UBahnhf_Boddinstr.JPG/800px-UBahnhf_Boddinstr.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/UBahnhf_Boddinstr.JPG/1200px-UBahnhf_Boddinstr.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/UBahnhf_Boddinstr.JPG/1920px-UBahnhf_Boddinstr.JPG
+  Boddinstrasse.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Boddinstrasse.png/400px-Boddinstrasse.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Boddinstrasse.png/800px-Boddinstrasse.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Boddinstrasse.png/1200px-Boddinstrasse.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Boddinstrasse.png/1920px-Boddinstrasse.png
 ---
 
 ## Overview

@@ -1,22 +1,27 @@
 ---
-title: "Dorotheenkirche (Nortrup)"
-site_name: "Dorotheenkirche (Nortrup)"
-slug: "dorotheenkirche-nortrup"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Dorotheenkirche (Nortrup)
+site_name: Dorotheenkirche (Nortrup)
+slug: dorotheenkirche-nortrup
+region: North Rhine-Westphalia
 latitude: 52.5974
 longitude: 7.86894
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1250252"
-description: "In the quaint village of Nortrup, Germany, the Dorotheenkirche stands as a striking example of Gothic Revival architecture. This church, designed by the..."
+- church building
+- religious site
+wikidata_id: Q1250252
+description: In the quaint village of Nortrup, Germany, the Dorotheenkirche stands
+  as a striking example of Gothic Revival architecture. This church, designed by the...
 images:
-  - "/images-sites/dorotheenkirche-nortrup/01-a46655a8-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg/1200px-Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg
+image_srcset:
+  Nortrup-Loxten Dorotheenkirche ev-luth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg/400px-Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg/800px-Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg/1200px-Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg/1920px-Nortrup-Loxten_Dorotheenkirche_ev-luth.jpg
 ---
 
 ## Overview

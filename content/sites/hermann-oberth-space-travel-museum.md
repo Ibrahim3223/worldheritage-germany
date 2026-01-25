@@ -1,19 +1,49 @@
 ---
-title: "Hermann Oberth Space Travel Museum"
+title: Hermann Oberth Space Travel Museum
 date: 2026-01-23
 draft: false
-description: "museum in Museum im Landkreis Nürnberger Land in Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Museum im Landkreis Nürnberger Land in Bavaria
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.375
 longitude: 11.211666666
 images:
-  - "/images-sites/hermann-oberth-space-travel-museum/01-37267b2e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raumfahrtmuseum_Feucht_04.jpg/1200px-Raumfahrtmuseum_Feucht_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zenithrakete.JPG/1200px-Zenithrakete.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Raumfahrtmuseum_Feucht_03.jpg/1200px-Raumfahrtmuseum_Feucht_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raumfahrtmuseum_Feucht_02.jpg/1200px-Raumfahrtmuseum_Feucht_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/1200px-Raumfahrtmuseum_Feucht_05.jpg
+image_srcset:
+  Raumfahrtmuseum Feucht 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raumfahrtmuseum_Feucht_04.jpg/400px-Raumfahrtmuseum_Feucht_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raumfahrtmuseum_Feucht_04.jpg/800px-Raumfahrtmuseum_Feucht_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raumfahrtmuseum_Feucht_04.jpg/1200px-Raumfahrtmuseum_Feucht_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raumfahrtmuseum_Feucht_04.jpg/1920px-Raumfahrtmuseum_Feucht_04.jpg
+  Zenithrakete.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zenithrakete.JPG/400px-Zenithrakete.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zenithrakete.JPG/800px-Zenithrakete.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zenithrakete.JPG/1200px-Zenithrakete.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Zenithrakete.JPG/1920px-Zenithrakete.JPG
+  Raumfahrtmuseum Feucht 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Raumfahrtmuseum_Feucht_03.jpg/400px-Raumfahrtmuseum_Feucht_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Raumfahrtmuseum_Feucht_03.jpg/800px-Raumfahrtmuseum_Feucht_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Raumfahrtmuseum_Feucht_03.jpg/1200px-Raumfahrtmuseum_Feucht_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Raumfahrtmuseum_Feucht_03.jpg/1920px-Raumfahrtmuseum_Feucht_03.jpg
+  Raumfahrtmuseum Feucht 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raumfahrtmuseum_Feucht_02.jpg/400px-Raumfahrtmuseum_Feucht_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raumfahrtmuseum_Feucht_02.jpg/800px-Raumfahrtmuseum_Feucht_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raumfahrtmuseum_Feucht_02.jpg/1200px-Raumfahrtmuseum_Feucht_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Raumfahrtmuseum_Feucht_02.jpg/1920px-Raumfahrtmuseum_Feucht_02.jpg
+  Raumfahrtmuseum Feucht 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/400px-Raumfahrtmuseum_Feucht_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/800px-Raumfahrtmuseum_Feucht_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/1200px-Raumfahrtmuseum_Feucht_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Raumfahrtmuseum_Feucht_05.jpg/1920px-Raumfahrtmuseum_Feucht_05.jpg
 ---
 
 ## Overview

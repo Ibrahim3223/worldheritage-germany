@@ -1,19 +1,49 @@
 ---
-title: "Hochblassen"
+title: Hochblassen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.423533333
 longitude: 11.040536111
 images:
-  - "/images-sites/hochblassen/01-2696a414-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hochblassen_Zusteig_Meilerhuette_20141004.jpg/1200px-Hochblassen_Zusteig_Meilerhuette_20141004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussicht_vom_Schachen_1900.jpg/1200px-Aussicht_vom_Schachen_1900.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg/1200px-Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schachengebiet.jpg/1200px-Schachengebiet.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpspitze.JPG/1200px-Alpspitze.JPG
+image_srcset:
+  Hochblassen Zusteig Meilerhuette 20141004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hochblassen_Zusteig_Meilerhuette_20141004.jpg/400px-Hochblassen_Zusteig_Meilerhuette_20141004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hochblassen_Zusteig_Meilerhuette_20141004.jpg/800px-Hochblassen_Zusteig_Meilerhuette_20141004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hochblassen_Zusteig_Meilerhuette_20141004.jpg/1200px-Hochblassen_Zusteig_Meilerhuette_20141004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hochblassen_Zusteig_Meilerhuette_20141004.jpg/1920px-Hochblassen_Zusteig_Meilerhuette_20141004.jpg
+  Aussicht vom Schachen 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussicht_vom_Schachen_1900.jpg/400px-Aussicht_vom_Schachen_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussicht_vom_Schachen_1900.jpg/800px-Aussicht_vom_Schachen_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussicht_vom_Schachen_1900.jpg/1200px-Aussicht_vom_Schachen_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussicht_vom_Schachen_1900.jpg/1920px-Aussicht_vom_Schachen_1900.jpg
+  Wetterstein Hochblassen Alpspitze von O 2009-09-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg/400px-Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg/800px-Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg/1200px-Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg/1920px-Wetterstein_Hochblassen_Alpspitze_von_O_2009-09-01.jpg
+  Schachengebiet.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schachengebiet.jpg/400px-Schachengebiet.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schachengebiet.jpg/800px-Schachengebiet.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schachengebiet.jpg/1200px-Schachengebiet.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Schachengebiet.jpg/1920px-Schachengebiet.jpg
+  Alpspitze.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpspitze.JPG/400px-Alpspitze.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpspitze.JPG/800px-Alpspitze.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpspitze.JPG/1200px-Alpspitze.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpspitze.JPG/1920px-Alpspitze.JPG
 ---
 
 ## Overview

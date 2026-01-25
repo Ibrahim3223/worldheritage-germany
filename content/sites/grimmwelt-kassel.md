@@ -1,19 +1,49 @@
 ---
-title: "Grimmwelt Kassel"
+title: Grimmwelt Kassel
 date: 2026-01-23
 draft: false
-description: "museum in Kassel, Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Kassel, Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3092
 longitude: 9.48927
 images:
-  - "/images-sites/grimmwelt-kassel/01-e6084a53-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/1200px-Grimmwelt_Kassel,_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grimmwelt_Kassel_Dachterasse_1.jpg/1200px-Grimmwelt_Kassel_Dachterasse_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grimmwelt_Kassel_Dachterasse_3.jpg/1200px-Grimmwelt_Kassel_Dachterasse_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grimmwelt_Jan_2016.jpg/1200px-Grimmwelt_Jan_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/GRIMMWELT_Kassel_Außenansicht.jpg/1200px-GRIMMWELT_Kassel_Außenansicht.jpg
+image_srcset:
+  Grimmwelt Kassel, Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/400px-Grimmwelt_Kassel,_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/800px-Grimmwelt_Kassel,_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/1200px-Grimmwelt_Kassel,_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Grimmwelt_Kassel,_Eingang.jpg/1920px-Grimmwelt_Kassel,_Eingang.jpg
+  Grimmwelt Kassel Dachterasse 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grimmwelt_Kassel_Dachterasse_1.jpg/400px-Grimmwelt_Kassel_Dachterasse_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grimmwelt_Kassel_Dachterasse_1.jpg/800px-Grimmwelt_Kassel_Dachterasse_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grimmwelt_Kassel_Dachterasse_1.jpg/1200px-Grimmwelt_Kassel_Dachterasse_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Grimmwelt_Kassel_Dachterasse_1.jpg/1920px-Grimmwelt_Kassel_Dachterasse_1.jpg
+  Grimmwelt Kassel Dachterasse 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grimmwelt_Kassel_Dachterasse_3.jpg/400px-Grimmwelt_Kassel_Dachterasse_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grimmwelt_Kassel_Dachterasse_3.jpg/800px-Grimmwelt_Kassel_Dachterasse_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grimmwelt_Kassel_Dachterasse_3.jpg/1200px-Grimmwelt_Kassel_Dachterasse_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Grimmwelt_Kassel_Dachterasse_3.jpg/1920px-Grimmwelt_Kassel_Dachterasse_3.jpg
+  Grimmwelt Jan 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grimmwelt_Jan_2016.jpg/400px-Grimmwelt_Jan_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grimmwelt_Jan_2016.jpg/800px-Grimmwelt_Jan_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grimmwelt_Jan_2016.jpg/1200px-Grimmwelt_Jan_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grimmwelt_Jan_2016.jpg/1920px-Grimmwelt_Jan_2016.jpg
+  GRIMMWELT Kassel Außenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/GRIMMWELT_Kassel_Außenansicht.jpg/400px-GRIMMWELT_Kassel_Außenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/GRIMMWELT_Kassel_Außenansicht.jpg/800px-GRIMMWELT_Kassel_Außenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/GRIMMWELT_Kassel_Außenansicht.jpg/1200px-GRIMMWELT_Kassel_Außenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/GRIMMWELT_Kassel_Außenansicht.jpg/1920px-GRIMMWELT_Kassel_Außenansicht.jpg
 ---
 
 ## Overview

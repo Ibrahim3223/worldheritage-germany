@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q430550"
 description: "In the heart of Bavaria, the New Residence in Bamberg stands as a remarkable testament to baroque architecture. This cultural heritage monument invites ..."
 images:
-  - "/images-sites/new-residence-bamberg/01-08eb47c6-1920w.webp"
-  - "/images-sites/new-residence-bamberg/02-5b5d7170-1920w.webp"
-  - "/images-sites/new-residence-bamberg/03-126ce5ed-1920w.webp"
+  - "/images/new-residence-bamberg/01-08eb47c6-1920w.webp"
+  - "/images/new-residence-bamberg/02-5b5d7170-1920w.webp"
+  - "/images/new-residence-bamberg/03-126ce5ed-1920w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 51.52694
 longitude: 11.55007
 images:
-  - "/images-sites/martin-luthers-birth-house/02-32bea059-800w.webp"
-  - "/images-sites/martin-luthers-birth-house/03-a8f1132f-800w.webp"
+  - "/images/martin-luthers-birth-house/02-32bea059-800w.webp"
+  - "/images/martin-luthers-birth-house/03-a8f1132f-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.4225
 longitude: 7.54361
 images:
-  - "/images-sites/schloss-engers/01-b8b2c6b3-800w.webp"
+  - "/images/schloss-engers/01-b8b2c6b3-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.1397
 longitude: 8.55936
 images:
-  - "/images-sites/widukind-museum-enger/01-eec52a9b-800w.webp"
+  - "/images/widukind-museum-enger/01-eec52a9b-800w.webp"
 ---
 
 ## Overview

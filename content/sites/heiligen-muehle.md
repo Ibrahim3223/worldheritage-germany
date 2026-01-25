@@ -1,21 +1,49 @@
 ---
-title: "Heiligen Mühle"
+title: Heiligen Mühle
 date: 2026-01-23
 draft: false
-description: "Wassermühle in Erfurt, Thüringen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Wassermühle in Erfurt, Thüringen
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.001708
 longitude: 11.022711
 images:
-  - "/images-sites/heiligen-muehle/01-e2003b9c-800w.webp"
-  - "/images-sites/heiligen-muehle/02-e8eef4a6-800w.webp"
-  - "/images-sites/heiligen-muehle/03-35926f9e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ErfurtHeiligenmühleMühlrad.jpg/1200px-ErfurtHeiligenmühleMühlrad.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Veranstaltungen_Heiligenmühle_Erfurt.jpg/1200px-Veranstaltungen_Heiligenmühle_Erfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heiligenmühle_Erfurt.JPG/1200px-Heiligenmühle_Erfurt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Heiligenmühle_Erfurt_1.JPG/1200px-Heiligenmühle_Erfurt_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/1200px-Heiligenmühle_Erfurt_2.JPG
+image_srcset:
+  ErfurtHeiligenmühleMühlrad.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ErfurtHeiligenmühleMühlrad.jpg/400px-ErfurtHeiligenmühleMühlrad.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ErfurtHeiligenmühleMühlrad.jpg/800px-ErfurtHeiligenmühleMühlrad.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ErfurtHeiligenmühleMühlrad.jpg/1200px-ErfurtHeiligenmühleMühlrad.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ErfurtHeiligenmühleMühlrad.jpg/1920px-ErfurtHeiligenmühleMühlrad.jpg
+  Veranstaltungen Heiligenmühle Erfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Veranstaltungen_Heiligenmühle_Erfurt.jpg/400px-Veranstaltungen_Heiligenmühle_Erfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Veranstaltungen_Heiligenmühle_Erfurt.jpg/800px-Veranstaltungen_Heiligenmühle_Erfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Veranstaltungen_Heiligenmühle_Erfurt.jpg/1200px-Veranstaltungen_Heiligenmühle_Erfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Veranstaltungen_Heiligenmühle_Erfurt.jpg/1920px-Veranstaltungen_Heiligenmühle_Erfurt.jpg
+  Heiligenmühle Erfurt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heiligenmühle_Erfurt.JPG/400px-Heiligenmühle_Erfurt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heiligenmühle_Erfurt.JPG/800px-Heiligenmühle_Erfurt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heiligenmühle_Erfurt.JPG/1200px-Heiligenmühle_Erfurt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heiligenmühle_Erfurt.JPG/1920px-Heiligenmühle_Erfurt.JPG
+  Heiligenmühle Erfurt 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Heiligenmühle_Erfurt_1.JPG/400px-Heiligenmühle_Erfurt_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Heiligenmühle_Erfurt_1.JPG/800px-Heiligenmühle_Erfurt_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Heiligenmühle_Erfurt_1.JPG/1200px-Heiligenmühle_Erfurt_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Heiligenmühle_Erfurt_1.JPG/1920px-Heiligenmühle_Erfurt_1.JPG
+  Heiligenmühle Erfurt 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/400px-Heiligenmühle_Erfurt_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/800px-Heiligenmühle_Erfurt_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/1200px-Heiligenmühle_Erfurt_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Heiligenmühle_Erfurt_2.JPG/1920px-Heiligenmühle_Erfurt_2.JPG
 ---
 
 ## Overview

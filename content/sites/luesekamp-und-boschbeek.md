@@ -13,7 +13,7 @@ regions:
 latitude: 51.1775
 longitude: 6.081694444
 images:
-  - "/images-sites/luesekamp-und-boschbeek/01-079a1a20-800w.webp"
+  - "/images/luesekamp-und-boschbeek/01-079a1a20-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Altrathen Castle"
+title: Altrathen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9588
 longitude: 14.0806
-
-# Images
 images:
-  - "/images-sites/altrathen-castle/01-8b3d87a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1200px-20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1200px-20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1200px-20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg/1200px-20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/1200px-Burg-Altrathen2.jpg
+image_srcset:
+  20151102040DR Rathen (Sächsische Schweiz) Burg Altrathen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/400px-20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/800px-20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1200px-20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1920px-20151102040DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+  20151102055DR Rathen (Sächsische Schweiz) Burg Altrathen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/400px-20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/800px-20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1200px-20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1920px-20151102055DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+  20151102030DR Rathen (Sächsische Schweiz) Burg Altrathen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/400px-20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/800px-20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1200px-20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg/1920px-20151102030DR_Rathen_(Sächsische_Schweiz)_Burg_Altrathen.jpg
+  20070421485DR Kurort Rathen Burg Altrathen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg/400px-20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg/800px-20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg/1200px-20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg/1920px-20070421485DR_Kurort_Rathen_Burg_Altrathen.jpg
+  Burg-Altrathen2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/400px-Burg-Altrathen2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/800px-Burg-Altrathen2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/1200px-Burg-Altrathen2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg-Altrathen2.jpg/1920px-Burg-Altrathen2.jpg
 ---
 
 ## Overview

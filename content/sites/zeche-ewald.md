@@ -13,7 +13,7 @@ regions:
 latitude: 51.5719
 longitude: 7.14833
 images:
-  - "/images-sites/zeche-ewald/01-31fc0934-800w.webp"
+  - "/images/zeche-ewald/01-31fc0934-800w.webp"
 ---
 
 ## Overview

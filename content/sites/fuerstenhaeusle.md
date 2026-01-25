@@ -1,19 +1,49 @@
 ---
-title: "Fürstenhäusle"
+title: Fürstenhäusle
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.69453611
 longitude: 9.27540278
 images:
-  - "/images-sites/fuerstenhaeusle/01-6c5e5a9e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1200px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fürstenhäusle_Aussicht_2019.JPG/1200px-Fürstenhäusle_Aussicht_2019.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fürstenhäusle_Ost_2019.JPG/1200px-Fürstenhäusle_Ost_2019.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fürstenhäusle_Süd_2019.JPG/1200px-Fürstenhäusle_Süd_2019.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Droste_Haus.jpg/1200px-Droste_Haus.jpg
+image_srcset:
+  Fürstenhäusle (Annette von Droste-Hülshoff) Ostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/400px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/800px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1200px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg/1920px-Fürstenhäusle_(Annette_von_Droste-Hülshoff)_Ostseite.jpg
+  Fürstenhäusle Aussicht 2019.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fürstenhäusle_Aussicht_2019.JPG/400px-Fürstenhäusle_Aussicht_2019.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fürstenhäusle_Aussicht_2019.JPG/800px-Fürstenhäusle_Aussicht_2019.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fürstenhäusle_Aussicht_2019.JPG/1200px-Fürstenhäusle_Aussicht_2019.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fürstenhäusle_Aussicht_2019.JPG/1920px-Fürstenhäusle_Aussicht_2019.JPG
+  Fürstenhäusle Ost 2019.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fürstenhäusle_Ost_2019.JPG/400px-Fürstenhäusle_Ost_2019.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fürstenhäusle_Ost_2019.JPG/800px-Fürstenhäusle_Ost_2019.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fürstenhäusle_Ost_2019.JPG/1200px-Fürstenhäusle_Ost_2019.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fürstenhäusle_Ost_2019.JPG/1920px-Fürstenhäusle_Ost_2019.JPG
+  Fürstenhäusle Süd 2019.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fürstenhäusle_Süd_2019.JPG/400px-Fürstenhäusle_Süd_2019.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fürstenhäusle_Süd_2019.JPG/800px-Fürstenhäusle_Süd_2019.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fürstenhäusle_Süd_2019.JPG/1200px-Fürstenhäusle_Süd_2019.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fürstenhäusle_Süd_2019.JPG/1920px-Fürstenhäusle_Süd_2019.JPG
+  Droste Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Droste_Haus.jpg/400px-Droste_Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Droste_Haus.jpg/800px-Droste_Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Droste_Haus.jpg/1200px-Droste_Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Droste_Haus.jpg/1920px-Droste_Haus.jpg
 ---
 
 ## Overview

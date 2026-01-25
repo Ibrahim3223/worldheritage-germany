@@ -1,21 +1,50 @@
 ---
-title: "Gardelegen massacre"
+title: Gardelegen massacre
 date: 2026-01-23
 draft: false
-description: "German war crime - massacre near the town Gardelegen in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: German war crime - massacre near the town Gardelegen in Saxony-Anhalt,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5378
 longitude: 11.4219
 images:
-  - "/images-sites/gardelegen-massacre/01-b85f53f2-800w.webp"
-  - "/images-sites/gardelegen-massacre/02-97c7fc5a-800w.webp"
-  - "/images-sites/gardelegen-massacre/03-ed0d6a5f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+image_srcset:
+  2024-03-27 125320 Gardelegen Gedenkstätte Feldscheune Isenschnibbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/400px-2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/800px-2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1920px-2024-03-27_125320_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+  2024-03-27 130404 Gardelegen Gedenkstätte Feldscheune Isenschnibbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/400px-2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/800px-2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1920px-2024-03-27_130404_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+  2024-03-27 130548 Gardelegen Gedenkstätte Feldscheune Isenschnibbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/400px-2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/800px-2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1920px-2024-03-27_130548_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+  2024-03-27 131158 Gardelegen Gedenkstätte Feldscheune Isenschnibbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/400px-2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/800px-2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1920px-2024-03-27_131158_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+  2024-03-27 140853 Gardelegen Gedenkstätte Feldscheune Isenschnibbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/400px-2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/800px-2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1200px-2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg/1920px-2024-03-27_140853_Gardelegen_Gedenkstätte_Feldscheune_Isenschnibbe.jpg
 ---
 
 ## Overview

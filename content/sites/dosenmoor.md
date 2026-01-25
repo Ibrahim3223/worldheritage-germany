@@ -1,19 +1,49 @@
 ---
-title: "Dosenmoor"
+title: Dosenmoor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1317
 longitude: 10.0194
 images:
-  - "/images-sites/dosenmoor/01-89d1b303-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dosenmoor_msu_05_2018-.jpg/1200px-Dosenmoor_msu_05_2018-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dosenmoor_Sommer_2021_21.jpg/1200px-Dosenmoor_Sommer_2021_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dosenmoor_Sommer_2021_35.jpg/1200px-Dosenmoor_Sommer_2021_35.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DosenmoorBirken2.jpg/1200px-DosenmoorBirken2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Informationstafel_Naturschutzgebiet_Dosenmoor.jpg/1200px-Informationstafel_Naturschutzgebiet_Dosenmoor.jpg
+image_srcset:
+  Dosenmoor msu 05 2018-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dosenmoor_msu_05_2018-.jpg/400px-Dosenmoor_msu_05_2018-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dosenmoor_msu_05_2018-.jpg/800px-Dosenmoor_msu_05_2018-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dosenmoor_msu_05_2018-.jpg/1200px-Dosenmoor_msu_05_2018-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dosenmoor_msu_05_2018-.jpg/1920px-Dosenmoor_msu_05_2018-.jpg
+  Dosenmoor Sommer 2021 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dosenmoor_Sommer_2021_21.jpg/400px-Dosenmoor_Sommer_2021_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dosenmoor_Sommer_2021_21.jpg/800px-Dosenmoor_Sommer_2021_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dosenmoor_Sommer_2021_21.jpg/1200px-Dosenmoor_Sommer_2021_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dosenmoor_Sommer_2021_21.jpg/1920px-Dosenmoor_Sommer_2021_21.jpg
+  Dosenmoor Sommer 2021 35.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dosenmoor_Sommer_2021_35.jpg/400px-Dosenmoor_Sommer_2021_35.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dosenmoor_Sommer_2021_35.jpg/800px-Dosenmoor_Sommer_2021_35.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dosenmoor_Sommer_2021_35.jpg/1200px-Dosenmoor_Sommer_2021_35.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dosenmoor_Sommer_2021_35.jpg/1920px-Dosenmoor_Sommer_2021_35.jpg
+  DosenmoorBirken2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DosenmoorBirken2.jpg/400px-DosenmoorBirken2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DosenmoorBirken2.jpg/800px-DosenmoorBirken2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DosenmoorBirken2.jpg/1200px-DosenmoorBirken2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DosenmoorBirken2.jpg/1920px-DosenmoorBirken2.jpg
+  Informationstafel Naturschutzgebiet Dosenmoor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Informationstafel_Naturschutzgebiet_Dosenmoor.jpg/400px-Informationstafel_Naturschutzgebiet_Dosenmoor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Informationstafel_Naturschutzgebiet_Dosenmoor.jpg/800px-Informationstafel_Naturschutzgebiet_Dosenmoor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Informationstafel_Naturschutzgebiet_Dosenmoor.jpg/1200px-Informationstafel_Naturschutzgebiet_Dosenmoor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Informationstafel_Naturschutzgebiet_Dosenmoor.jpg/1920px-Informationstafel_Naturschutzgebiet_Dosenmoor.jpg
 ---
 
 ## Overview

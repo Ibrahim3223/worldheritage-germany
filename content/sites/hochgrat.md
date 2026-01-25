@@ -1,19 +1,49 @@
 ---
-title: "Hochgrat"
+title: Hochgrat
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.4953531
 longitude: 10.078628
 images:
-  - "/images-sites/hochgrat/01-65b963ae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg/1200px-Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg/1200px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Der_Hochgrat.jpg/1200px-Der_Hochgrat.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg/1200px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HochgratVomSeelekopf28070826.jpg/1200px-HochgratVomSeelekopf28070826.jpg
+image_srcset:
+  Blick auf den Hochgrat bei Oberstaufen (Allgäu).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg/400px-Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg/800px-Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg/1200px-Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg/1920px-Blick_auf_den_Hochgrat_bei_Oberstaufen_(Allgäu).jpg
+  Gipfelkreuz auf dem Hochgrat (Allgäu) (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg/400px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg/800px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg/1200px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg/1920px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(2).jpg
+  Der Hochgrat.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Der_Hochgrat.jpg/400px-Der_Hochgrat.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Der_Hochgrat.jpg/800px-Der_Hochgrat.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Der_Hochgrat.jpg/1200px-Der_Hochgrat.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Der_Hochgrat.jpg/1920px-Der_Hochgrat.jpg
+  Gipfelkreuz auf dem Hochgrat (Allgäu) (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg/400px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg/800px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg/1200px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg/1920px-Gipfelkreuz_auf_dem_Hochgrat_(Allgäu)_(1).jpg
+  HochgratVomSeelekopf28070826.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HochgratVomSeelekopf28070826.jpg/400px-HochgratVomSeelekopf28070826.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HochgratVomSeelekopf28070826.jpg/800px-HochgratVomSeelekopf28070826.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HochgratVomSeelekopf28070826.jpg/1200px-HochgratVomSeelekopf28070826.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/HochgratVomSeelekopf28070826.jpg/1920px-HochgratVomSeelekopf28070826.jpg
 ---
 
 ## Overview

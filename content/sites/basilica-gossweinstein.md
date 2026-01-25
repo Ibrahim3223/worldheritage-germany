@@ -1,23 +1,38 @@
 ---
-title: "Basilica Gößweinstein"
-site_name: "Basilica Gößweinstein"
-slug: "basilica-gossweinstein"
-region: "Bavaria"
-
-# Location
+title: Basilica Gößweinstein
+site_name: Basilica Gößweinstein
+slug: basilica-gossweinstein
+region: Bavaria
 latitude: 49.77
 longitude: 11.3372
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q810087"
-description: "Basilica Gößweinstein, a striking example of Baroque architecture, commands attention with its intricate design and cultural significance. Located in th..."
+- cultural site
+wikidata_id: Q810087
+description: Basilica Gößweinstein, a striking example of Baroque architecture, commands
+  attention with its intricate design and cultural significance. Located in th...
 images:
-  - "/images-sites/basilica-gossweinstein/01-690f3529-1920w.webp"
-  - "/images-sites/basilica-gossweinstein/02-072289da-1920w.webp"
-  - "/images-sites/basilica-gossweinstein/03-ef7ead72-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg/1200px-00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg/1200px-00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/163franken%20093.JPG/1200px-163franken%20093.JPG
+image_srcset:
+  00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg/400px-00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg/800px-00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg/1200px-00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg/1920px-00%203341%20G%C3%B6%C3%9Fweinstein%20-%20Basilika%20Zur%20Heiligen%20Dreifaltigkeit.jpg
+  00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg/400px-00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg/800px-00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg/1200px-00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg/1920px-00%203342%20G%C3%B6%C3%9Fweinstein%20-%20Dreifaltigkeitsbasilika.jpg
+  163franken%20093.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/163franken%20093.JPG/400px-163franken%20093.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/163franken%20093.JPG/800px-163franken%20093.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/163franken%20093.JPG/1200px-163franken%20093.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/163franken%20093.JPG/1920px-163franken%20093.JPG
 ---
 
 ## Overview

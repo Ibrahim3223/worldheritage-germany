@@ -1,21 +1,49 @@
 ---
-title: "Burg Diemerstein"
+title: Burg Diemerstein
 date: 2026-01-23
 draft: false
-description: "castle in Frankenstein (Pfalz), Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Frankenstein (Pfalz), Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.444311111
 longitude: 7.961858333
 images:
-  - "/images-sites/burg-diemerstein/01-66c97a5f-800w.webp"
-  - "/images-sites/burg-diemerstein/02-fdfae615-800w.webp"
-  - "/images-sites/burg-diemerstein/03-5b09431a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20210626_Burg_Diemerstein_01.jpg/1200px-20210626_Burg_Diemerstein_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210626_Burg_Diemerstein_02.jpg/1200px-20210626_Burg_Diemerstein_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20210626_Burg_Diemerstein_03.jpg/1200px-20210626_Burg_Diemerstein_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20210626_Burg_Diemerstein_04.jpg/1200px-20210626_Burg_Diemerstein_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankenstein_-_Burgruine_Diemerstein.jpg/1200px-Frankenstein_-_Burgruine_Diemerstein.jpg
+image_srcset:
+  20210626 Burg Diemerstein 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20210626_Burg_Diemerstein_01.jpg/400px-20210626_Burg_Diemerstein_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20210626_Burg_Diemerstein_01.jpg/800px-20210626_Burg_Diemerstein_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20210626_Burg_Diemerstein_01.jpg/1200px-20210626_Burg_Diemerstein_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20210626_Burg_Diemerstein_01.jpg/1920px-20210626_Burg_Diemerstein_01.jpg
+  20210626 Burg Diemerstein 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210626_Burg_Diemerstein_02.jpg/400px-20210626_Burg_Diemerstein_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210626_Burg_Diemerstein_02.jpg/800px-20210626_Burg_Diemerstein_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210626_Burg_Diemerstein_02.jpg/1200px-20210626_Burg_Diemerstein_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210626_Burg_Diemerstein_02.jpg/1920px-20210626_Burg_Diemerstein_02.jpg
+  20210626 Burg Diemerstein 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20210626_Burg_Diemerstein_03.jpg/400px-20210626_Burg_Diemerstein_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20210626_Burg_Diemerstein_03.jpg/800px-20210626_Burg_Diemerstein_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20210626_Burg_Diemerstein_03.jpg/1200px-20210626_Burg_Diemerstein_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20210626_Burg_Diemerstein_03.jpg/1920px-20210626_Burg_Diemerstein_03.jpg
+  20210626 Burg Diemerstein 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20210626_Burg_Diemerstein_04.jpg/400px-20210626_Burg_Diemerstein_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20210626_Burg_Diemerstein_04.jpg/800px-20210626_Burg_Diemerstein_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20210626_Burg_Diemerstein_04.jpg/1200px-20210626_Burg_Diemerstein_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20210626_Burg_Diemerstein_04.jpg/1920px-20210626_Burg_Diemerstein_04.jpg
+  Frankenstein - Burgruine Diemerstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankenstein_-_Burgruine_Diemerstein.jpg/400px-Frankenstein_-_Burgruine_Diemerstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankenstein_-_Burgruine_Diemerstein.jpg/800px-Frankenstein_-_Burgruine_Diemerstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankenstein_-_Burgruine_Diemerstein.jpg/1200px-Frankenstein_-_Burgruine_Diemerstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankenstein_-_Burgruine_Diemerstein.jpg/1920px-Frankenstein_-_Burgruine_Diemerstein.jpg
 ---
 
 ## Overview

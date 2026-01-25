@@ -1,19 +1,49 @@
 ---
-title: "Battle of the Seelow Heights Memorial"
+title: Battle of the Seelow Heights Memorial
 date: 2026-01-23
 draft: false
-description: "memorial in Seelow, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: memorial in Seelow, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.534722222
 longitude: 14.395833333
 images:
-  - "/images-sites/battle-of-the-seelow-heights-memorial/01-fa623d32-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gedenkstätte_Seelower_Höhen_2013_08.JPG/1200px-Gedenkstätte_Seelower_Höhen_2013_08.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg/1200px-Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg/1200px-Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2009-11-22-seelower-hoehen-by-Ralf-64.jpg/1200px-2009-11-22-seelower-hoehen-by-Ralf-64.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2009-11-22-seelower-hoehen-by-Ralf-72.jpg/1200px-2009-11-22-seelower-hoehen-by-Ralf-72.jpg
+image_srcset:
+  Gedenkstätte Seelower Höhen 2013 08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gedenkstätte_Seelower_Höhen_2013_08.JPG/400px-Gedenkstätte_Seelower_Höhen_2013_08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gedenkstätte_Seelower_Höhen_2013_08.JPG/800px-Gedenkstätte_Seelower_Höhen_2013_08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gedenkstätte_Seelower_Höhen_2013_08.JPG/1200px-Gedenkstätte_Seelower_Höhen_2013_08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gedenkstätte_Seelower_Höhen_2013_08.JPG/1920px-Gedenkstätte_Seelower_Höhen_2013_08.JPG
+  Gedenkstätte Seelower Höhen 2021-05-15 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg/400px-Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg/800px-Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg/1200px-Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg/1920px-Gedenkstätte_Seelower_Höhen_2021-05-15_2.jpg
+  Seelow - 2015-07-04 - Gedenkstätte Seelower Höhen (41).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg/400px-Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg/800px-Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg/1200px-Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg/1920px-Seelow_-_2015-07-04_-_Gedenkstätte_Seelower_Höhen_(41).jpg
+  2009-11-22-seelower-hoehen-by-Ralf-64.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2009-11-22-seelower-hoehen-by-Ralf-64.jpg/400px-2009-11-22-seelower-hoehen-by-Ralf-64.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2009-11-22-seelower-hoehen-by-Ralf-64.jpg/800px-2009-11-22-seelower-hoehen-by-Ralf-64.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2009-11-22-seelower-hoehen-by-Ralf-64.jpg/1200px-2009-11-22-seelower-hoehen-by-Ralf-64.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2009-11-22-seelower-hoehen-by-Ralf-64.jpg/1920px-2009-11-22-seelower-hoehen-by-Ralf-64.jpg
+  2009-11-22-seelower-hoehen-by-Ralf-72.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2009-11-22-seelower-hoehen-by-Ralf-72.jpg/400px-2009-11-22-seelower-hoehen-by-Ralf-72.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2009-11-22-seelower-hoehen-by-Ralf-72.jpg/800px-2009-11-22-seelower-hoehen-by-Ralf-72.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2009-11-22-seelower-hoehen-by-Ralf-72.jpg/1200px-2009-11-22-seelower-hoehen-by-Ralf-72.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2009-11-22-seelower-hoehen-by-Ralf-72.jpg/1920px-2009-11-22-seelower-hoehen-by-Ralf-72.jpg
 ---
 
 ## Overview

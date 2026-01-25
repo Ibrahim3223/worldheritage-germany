@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1897856"
 description: "St. Marys Church in Pirna is a striking example of Gothic architecture that has captivated visitors for generations. Towering at 60 meters, the church c..."
 images:
-  - "/images-sites/st-mary-s-church-pirna/01-d4fcb045-1920w.webp"
-  - "/images-sites/st-mary-s-church-pirna/02-86e4a5ca-1920w.webp"
-  - "/images-sites/st-mary-s-church-pirna/03-16aca6ae-1920w.webp"
+  - "/images/st-mary-s-church-pirna/01-d4fcb045-1920w.webp"
+  - "/images/st-mary-s-church-pirna/02-86e4a5ca-1920w.webp"
+  - "/images/st-mary-s-church-pirna/03-16aca6ae-1920w.webp"
 ---
 
 ## Overview

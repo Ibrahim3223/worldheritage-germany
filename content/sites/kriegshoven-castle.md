@@ -13,7 +13,7 @@ regions:
 latitude: 50.7265
 longitude: 6.90667
 images:
-  - "/images-sites/kriegshoven-castle/01-93e1d106-800w.webp"
+  - "/images/kriegshoven-castle/01-93e1d106-800w.webp"
 ---
 
 ## Overview

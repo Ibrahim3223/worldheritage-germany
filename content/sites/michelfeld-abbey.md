@@ -21,9 +21,9 @@ longitude: 11.587037406
 
 # Images
 images:
-  - "/images-sites/michelfeld-abbey/01-54231d8b-800w.webp"
-  - "/images-sites/michelfeld-abbey/02-705d9864-800w.webp"
-  - "/images-sites/michelfeld-abbey/03-3a5d3ddf-800w.webp"
+  - "/images/michelfeld-abbey/01-54231d8b-800w.webp"
+  - "/images/michelfeld-abbey/02-705d9864-800w.webp"
+  - "/images/michelfeld-abbey/03-3a5d3ddf-800w.webp"
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 7.14444
 
 # Images
 images:
-  - "/images-sites/veldenz-castle/01-a9c6a75f-800w.webp"
-  - "/images-sites/veldenz-castle/02-c0ef0c26-800w.webp"
-  - "/images-sites/veldenz-castle/03-0de527d4-800w.webp"
+  - "/images/veldenz-castle/01-a9c6a75f-800w.webp"
+  - "/images/veldenz-castle/02-c0ef0c26-800w.webp"
+  - "/images/veldenz-castle/03-0de527d4-800w.webp"
 ---
 
 ## Overview

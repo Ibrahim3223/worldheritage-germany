@@ -1,23 +1,44 @@
 ---
-title: "Ditzum Church (Ditzum)"
-site_name: "Ditzum Church (Ditzum)"
-slug: "ditzum-church-ditzum"
-region: "Lower Saxony"
-
-# Location
+title: Ditzum Church (Ditzum)
+site_name: Ditzum Church (Ditzum)
+slug: ditzum-church-ditzum
+region: Lower Saxony
 latitude: 53.3151
 longitude: 7.27974
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q195354"
-description: "Ditzum Church, located in the picturesque region of Jemgum in Lower Saxony, Germany, is a remarkable example of Romanesque architecture. This church bui..."
+- cultural site
+wikidata_id: Q195354
+description: Ditzum Church, located in the picturesque region of Jemgum in Lower Saxony,
+  Germany, is a remarkable example of Romanesque architecture. This church bui...
 images:
-  - "/images-sites/ditzum-church-ditzum/01-0e11f1a4-1920w.webp"
-  - "/images-sites/ditzum-church-ditzum/02-195b8b18-1920w.webp"
-  - "/images-sites/ditzum-church-ditzum/03-97a2f959-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/1200px-ChurchDitzum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_Ditzum-msu-0328.jpg/1200px-Kirche_Ditzum-msu-0328.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg/1200px-Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg/1200px-Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg
+image_srcset:
+  ChurchDitzum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/400px-ChurchDitzum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/800px-ChurchDitzum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/1200px-ChurchDitzum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ChurchDitzum.jpg/1920px-ChurchDitzum.jpg
+  Kirche Ditzum-msu-0328.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_Ditzum-msu-0328.jpg/400px-Kirche_Ditzum-msu-0328.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_Ditzum-msu-0328.jpg/800px-Kirche_Ditzum-msu-0328.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_Ditzum-msu-0328.jpg/1200px-Kirche_Ditzum-msu-0328.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kirche_Ditzum-msu-0328.jpg/1920px-Kirche_Ditzum-msu-0328.jpg
+  Ditzumer Kirche mit Friedhof, Südansicht (Jemgum, 2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg/400px-Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg/800px-Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg/1200px-Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg/1920px-Ditzumer_Kirche_mit_Friedhof,_Südansicht_(Jemgum,_2024).jpg
+  Jemgum Ditzum - Mühlenstraße - Kirche 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg/400px-Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg/800px-Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg/1200px-Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg/1920px-Jemgum_Ditzum_-_Mühlenstraße_-_Kirche_04_ies.jpg
 ---
 
 ## Overview

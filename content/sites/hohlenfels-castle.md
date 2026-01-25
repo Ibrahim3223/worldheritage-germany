@@ -1,27 +1,49 @@
 ---
-title: "Hohlenfels Castle"
+title: Hohlenfels Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Mudershausen, Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Mudershausen, Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2904
 longitude: 8.031
-
-# Images
 images:
-  - "/images-sites/hohlenfels-castle/01-55b7cd3c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg/1200px-Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg/1200px-Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg/1200px-Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/11RK-Hohenfels.jpg/1200px-11RK-Hohenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/1200px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
+image_srcset:
+  Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg/400px-Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg/800px-Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg/1200px-Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg/1920px-Burg-Hohlenfels-JR-E-3146-2019-04-21.jpg
+  Luthmer III-229-Burg Hohlenfels Ansicht von Südosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg/400px-Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg/800px-Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg/1200px-Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg/1920px-Luthmer_III-229-Burg_Hohlenfels_Ansicht_von_Südosten.jpg
+  Luthmer III-233-Burg Hohlenfels von Norden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg/400px-Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg/800px-Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg/1200px-Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg/1920px-Luthmer_III-233-Burg_Hohlenfels_von_Norden.jpg
+  11RK-Hohenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/11RK-Hohenfels.jpg/400px-11RK-Hohenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/11RK-Hohenfels.jpg/800px-11RK-Hohenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/11RK-Hohenfels.jpg/1200px-11RK-Hohenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/11RK-Hohenfels.jpg/1920px-11RK-Hohenfels.jpg
+  Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/400px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/800px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/1200px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg/1920px-Burg-Hohlenfels-JR-G6-3645-2009-08-04.jpg
 ---
 
 ## Overview

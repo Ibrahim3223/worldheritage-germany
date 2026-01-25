@@ -13,7 +13,7 @@ regions:
 latitude: 52.582608333
 longitude: 13.875819444
 images:
-  - "/images-sites/straussee/01-9d255a0b-800w.webp"
+  - "/images/straussee/01-9d255a0b-800w.webp"
 ---
 
 ## Overview

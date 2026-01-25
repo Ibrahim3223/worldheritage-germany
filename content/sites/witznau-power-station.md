@@ -13,7 +13,7 @@ regions:
 latitude: 47.687805555
 longitude: 8.251388888
 images:
-  - "/images-sites/witznau-power-station/01-cba1bb43-800w.webp"
+  - "/images/witznau-power-station/01-cba1bb43-800w.webp"
 ---
 
 ## Overview

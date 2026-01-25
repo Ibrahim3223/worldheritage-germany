@@ -1,29 +1,49 @@
 ---
-title: "Are Castle"
+title: Are Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.517589
 longitude: 6.995256
-
-# Images
 images:
-  - "/images-sites/are-castle/01-09060598-800w.webp"
-  - "/images-sites/are-castle/02-be1d52bf-800w.webp"
-  - "/images-sites/are-castle/03-2b4b0e92-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg/1200px-Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Are_qtl1.jpg/1200px-Burg_Are_qtl1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Are_013-.jpg/1200px-Burg_Are_013-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Are_019-.jpg/1200px-Burg_Are_019-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenahr_Burg_Are.jpg/1200px-Altenahr_Burg_Are.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Altenahr - 991023219149705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg/400px-Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg/800px-Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg/1200px-Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg/1920px-Zentralbibliothek_Zürich_-_Altenahr_-_991023219149705501.jpg
+  Burg Are qtl1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Are_qtl1.jpg/400px-Burg_Are_qtl1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Are_qtl1.jpg/800px-Burg_Are_qtl1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Are_qtl1.jpg/1200px-Burg_Are_qtl1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Burg_Are_qtl1.jpg/1920px-Burg_Are_qtl1.jpg
+  Burg Are 013-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Are_013-.jpg/400px-Burg_Are_013-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Are_013-.jpg/800px-Burg_Are_013-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Are_013-.jpg/1200px-Burg_Are_013-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burg_Are_013-.jpg/1920px-Burg_Are_013-.jpg
+  Burg Are 019-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Are_019-.jpg/400px-Burg_Are_019-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Are_019-.jpg/800px-Burg_Are_019-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Are_019-.jpg/1200px-Burg_Are_019-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Are_019-.jpg/1920px-Burg_Are_019-.jpg
+  Altenahr Burg Are.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenahr_Burg_Are.jpg/400px-Altenahr_Burg_Are.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenahr_Burg_Are.jpg/800px-Altenahr_Burg_Are.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenahr_Burg_Are.jpg/1200px-Altenahr_Burg_Are.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Altenahr_Burg_Are.jpg/1920px-Altenahr_Burg_Are.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "German Institute for Global and Area Studies"
+title: German Institute for Global and Area Studies
 date: 2026-01-23
 draft: false
-description: "Social science research institute, member of the Leibniz Association"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Social science research institute, member of the Leibniz Association
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.557222
 longitude: 9.992222
-
-# Images
 images:
-  - "/images-sites/german-institute-for-global-and-area-studies/01-d7d290ae-800w.webp"
-  - "/images-sites/german-institute-for-global-and-area-studies/02-af6db5b2-800w.webp"
-  - "/images-sites/german-institute-for-global-and-area-studies/03-afb68ac2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/4.1-_Labour_Mobility_(10070500545).jpg/1200px-4.1-_Labour_Mobility_(10070500545).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg/1200px-Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg/1200px-Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamburg,_Neuer_Jungfernstieg_21_04.jpg/1200px-Hamburg,_Neuer_Jungfernstieg_21_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/German_Institute_for_Global_and_Area_Studies_logo.svg/1200px-German_Institute_for_Global_and_Area_Studies_logo.svg.png
+image_srcset:
+  4.1- Labour Mobility (10070500545).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/4.1-_Labour_Mobility_(10070500545).jpg/400px-4.1-_Labour_Mobility_(10070500545).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/4.1-_Labour_Mobility_(10070500545).jpg/800px-4.1-_Labour_Mobility_(10070500545).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/4.1-_Labour_Mobility_(10070500545).jpg/1200px-4.1-_Labour_Mobility_(10070500545).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/4.1-_Labour_Mobility_(10070500545).jpg/1920px-4.1-_Labour_Mobility_(10070500545).jpg
+  Vortrag Der Krieg in Syrien Ende oder Beginn einer neuen Phase? (48115785391).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg/400px-Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg/800px-Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg/1200px-Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg/1920px-Vortrag_Der_Krieg_in_Syrien_Ende_oder_Beginn_einer_neuen_Phase?_(48115785391).jpg
+  Hamburg Deutsche Zentralbibliothek für Wirtschaftswissenschaften 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg/400px-Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg/800px-Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg/1200px-Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg/1920px-Hamburg_Deutsche_Zentralbibliothek_für_Wirtschaftswissenschaften_01.jpg
+  Hamburg, Neuer Jungfernstieg 21 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamburg,_Neuer_Jungfernstieg_21_04.jpg/400px-Hamburg,_Neuer_Jungfernstieg_21_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamburg,_Neuer_Jungfernstieg_21_04.jpg/800px-Hamburg,_Neuer_Jungfernstieg_21_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamburg,_Neuer_Jungfernstieg_21_04.jpg/1200px-Hamburg,_Neuer_Jungfernstieg_21_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hamburg,_Neuer_Jungfernstieg_21_04.jpg/1920px-Hamburg,_Neuer_Jungfernstieg_21_04.jpg
+  German Institute for Global and Area Studies logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/German_Institute_for_Global_and_Area_Studies_logo.svg/400px-German_Institute_for_Global_and_Area_Studies_logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/German_Institute_for_Global_and_Area_Studies_logo.svg/800px-German_Institute_for_Global_and_Area_Studies_logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/German_Institute_for_Global_and_Area_Studies_logo.svg/1200px-German_Institute_for_Global_and_Area_Studies_logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/German_Institute_for_Global_and_Area_Studies_logo.svg/1920px-German_Institute_for_Global_and_Area_Studies_logo.svg.png
 ---
 
 ## Overview

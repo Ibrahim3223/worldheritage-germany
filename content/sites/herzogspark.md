@@ -1,27 +1,49 @@
 ---
-title: "Herzogspark"
+title: Herzogspark
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.0231
 longitude: 12.0822
-
-# Images
 images:
-  - "/images-sites/herzogspark/01-5b4b2fd2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Regensburg-Herzogspark-1-Asio.JPG/1200px-Regensburg-Herzogspark-1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Herzogspark_-_panoramio_(5).jpg/1200px-Herzogspark_-_panoramio_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg/1200px-Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herzogspark-Renaissancegarten.jpg/1200px-Herzogspark-Renaissancegarten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1200px-Prebrunnturm.jpg
+image_srcset:
+  Regensburg-Herzogspark-1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Regensburg-Herzogspark-1-Asio.JPG/400px-Regensburg-Herzogspark-1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Regensburg-Herzogspark-1-Asio.JPG/800px-Regensburg-Herzogspark-1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Regensburg-Herzogspark-1-Asio.JPG/1200px-Regensburg-Herzogspark-1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Regensburg-Herzogspark-1-Asio.JPG/1920px-Regensburg-Herzogspark-1-Asio.JPG
+  Herzogspark - panoramio (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Herzogspark_-_panoramio_(5).jpg/400px-Herzogspark_-_panoramio_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Herzogspark_-_panoramio_(5).jpg/800px-Herzogspark_-_panoramio_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Herzogspark_-_panoramio_(5).jpg/1200px-Herzogspark_-_panoramio_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Herzogspark_-_panoramio_(5).jpg/1920px-Herzogspark_-_panoramio_(5).jpg
+  Regensburg, Herzogspark, Rosa Lusatia, 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg/400px-Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg/800px-Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg/1200px-Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg/1920px-Regensburg,_Herzogspark,_Rosa_Lusatia,_1.jpeg
+  Herzogspark-Renaissancegarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herzogspark-Renaissancegarten.jpg/400px-Herzogspark-Renaissancegarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herzogspark-Renaissancegarten.jpg/800px-Herzogspark-Renaissancegarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herzogspark-Renaissancegarten.jpg/1200px-Herzogspark-Renaissancegarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Herzogspark-Renaissancegarten.jpg/1920px-Herzogspark-Renaissancegarten.jpg
+  Prebrunnturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/400px-Prebrunnturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/800px-Prebrunnturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1200px-Prebrunnturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Prebrunnturm.jpg/1920px-Prebrunnturm.jpg
 ---
 
 ## Overview

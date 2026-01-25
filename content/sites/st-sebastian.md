@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1502663"
 description: "St. Sebastian in Augsburg is not just a church; it represents a significant architectural accomplishment from the Romanesque Revival period. As you appr..."
 images:
-  - "/images-sites/st-sebastian/01-2f670d55-1920w.webp"
-  - "/images-sites/st-sebastian/01-d8a24333-1920w.webp"
-  - "/images-sites/st-sebastian/02-ad889207-1920w.webp"
+  - "/images/st-sebastian/01-2f670d55-1920w.webp"
+  - "/images/st-sebastian/01-d8a24333-1920w.webp"
+  - "/images/st-sebastian/02-ad889207-1920w.webp"
 ---
 
 ## Overview

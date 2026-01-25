@@ -13,7 +13,7 @@ regions:
 latitude: 52.75
 longitude: 13.449722222
 images:
-  - "/images-sites/wandlitzer-see/01-d78b73a4-800w.webp"
+  - "/images/wandlitzer-see/01-d78b73a4-800w.webp"
 ---
 
 ## Overview

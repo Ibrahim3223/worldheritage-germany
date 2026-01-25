@@ -1,24 +1,46 @@
 ---
-title: "Evangelische Kirche Lahde"
-site_name: "Evangelische Kirche Lahde"
-slug: "evangelische-kirche-lahde"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Kirche Lahde
+site_name: Evangelische Kirche Lahde
+slug: evangelische-kirche-lahde
+region: North Rhine-Westphalia
 latitude: 52.3695
 longitude: 8.99157
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380803"
-description: "The Evangelische Kirche Lahde stands as a striking example of Gothic Revival architecture in Petershagen, Germany. This church, constructed from brick, ..."
+- church building
+- religious site
+wikidata_id: Q1380803
+description: The Evangelische Kirche Lahde stands as a striking example of Gothic
+  Revival architecture in Petershagen, Germany. This church, constructed from brick,
+  ...
 images:
-  - "/images-sites/evangelische-kirche-lahde/01-606ff864-1920w.webp"
-  - "/images-sites/evangelische-kirche-lahde/02-49020354-1920w.webp"
-  - "/images-sites/evangelische-kirche-lahde/03-479e5e18-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/1200px-Lahde1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lahde,_evKirche,_Aussen.jpg/1200px-Lahde,_evKirche,_Aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg/1200px-Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lahde,_evKirche,_Spieltisch.jpg/1200px-Lahde,_evKirche,_Spieltisch.jpg
+image_srcset:
+  Lahde1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/400px-Lahde1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/800px-Lahde1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/1200px-Lahde1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lahde1.jpg/1920px-Lahde1.jpg
+  Lahde, evKirche, Aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lahde,_evKirche,_Aussen.jpg/400px-Lahde,_evKirche,_Aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lahde,_evKirche,_Aussen.jpg/800px-Lahde,_evKirche,_Aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lahde,_evKirche,_Aussen.jpg/1200px-Lahde,_evKirche,_Aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lahde,_evKirche,_Aussen.jpg/1920px-Lahde,_evKirche,_Aussen.jpg
+  Lahde, evKirche, FurtwaenglerHammer Schild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg/400px-Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg/800px-Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg/1200px-Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg/1920px-Lahde,_evKirche,_FurtwaenglerHammer_Schild.jpg
+  Lahde, evKirche, Spieltisch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lahde,_evKirche,_Spieltisch.jpg/400px-Lahde,_evKirche,_Spieltisch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lahde,_evKirche,_Spieltisch.jpg/800px-Lahde,_evKirche,_Spieltisch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lahde,_evKirche,_Spieltisch.jpg/1200px-Lahde,_evKirche,_Spieltisch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lahde,_evKirche,_Spieltisch.jpg/1920px-Lahde,_evKirche,_Spieltisch.jpg
 ---
 
 ## Overview

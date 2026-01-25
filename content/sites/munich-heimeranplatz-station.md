@@ -13,7 +13,7 @@ regions:
 latitude: 48.132961
 longitude: 11.5315
 images:
-  - "/images-sites/munich-heimeranplatz-station/01-a5c5eb47-800w.webp"
+  - "/images/munich-heimeranplatz-station/01-a5c5eb47-800w.webp"
 ---
 
 ## Overview

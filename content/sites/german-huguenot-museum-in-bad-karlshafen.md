@@ -1,19 +1,49 @@
 ---
-title: "German Huguenot Museum in Bad Karlshafen"
+title: German Huguenot Museum in Bad Karlshafen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.642391
 longitude: 9.452661
 images:
-  - "/images-sites/german-huguenot-museum-in-bad-karlshafen/01-b813a42b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg/1200px-Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg/1200px-Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg/1200px-Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevennenstube.jpg/1200px-Cevennenstube.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1200px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
+image_srcset:
+  Hugenotttenmuseum (Bad Karlshafen) 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg/400px-Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg/800px-Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg/1200px-Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg/1920px-Hugenotttenmuseum_(Bad_Karlshafen)_10.jpg
+  Hugenotttenmuseum (Bad Karlshafen) 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg/400px-Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg/800px-Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg/1200px-Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg/1920px-Hugenotttenmuseum_(Bad_Karlshafen)_6.jpg
+  Hugenotttenmuseum (Bad Karlshafen) 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg/400px-Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg/800px-Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg/1200px-Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg/1920px-Hugenotttenmuseum_(Bad_Karlshafen)_8.jpg
+  Cevennenstube.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevennenstube.jpg/400px-Cevennenstube.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevennenstube.jpg/800px-Cevennenstube.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevennenstube.jpg/1200px-Cevennenstube.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevennenstube.jpg/1920px-Cevennenstube.jpg
+  Deutsches Hugenottenmuseum in Bad Karlshafen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/400px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/800px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1200px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg/1920px-Deutsches_Hugenottenmuseum_in_Bad_Karlshafen.jpg
 ---
 
 ## Overview

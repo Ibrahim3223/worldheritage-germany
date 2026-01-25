@@ -13,7 +13,7 @@ regions:
 latitude: 51.5
 longitude: 14.016666666
 images:
-  - "/images-sites/senftenberger-see/01-cda5cc21-800w.webp"
+  - "/images/senftenberger-see/01-cda5cc21-800w.webp"
 ---
 
 ## Overview

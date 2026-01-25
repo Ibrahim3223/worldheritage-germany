@@ -13,7 +13,7 @@ regions:
 latitude: 48.574698533
 longitude: 13.469312698
 images:
-  - "/images-sites/scharfrichterhaus/01-a05c8930-800w.webp"
+  - "/images/scharfrichterhaus/01-a05c8930-800w.webp"
 ---
 
 ## Overview

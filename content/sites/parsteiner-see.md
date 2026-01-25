@@ -13,9 +13,9 @@ regions:
 latitude: 52.933669444
 longitude: 13.982280555
 images:
-  - "/images-sites/parsteiner-see/01-bbafdb5e-800w.webp"
-  - "/images-sites/parsteiner-see/02-d92e1bb5-800w.webp"
-  - "/images-sites/parsteiner-see/03-c26a6498-800w.webp"
+  - "/images/parsteiner-see/01-bbafdb5e-800w.webp"
+  - "/images/parsteiner-see/02-d92e1bb5-800w.webp"
+  - "/images/parsteiner-see/03-c26a6498-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 7.0
 
 # Images
 images:
-  - "/images-sites/schloss-lembeck/01-f059a711-800w.webp"
+  - "/images/schloss-lembeck/01-f059a711-800w.webp"
 ---
 
 ## Overview

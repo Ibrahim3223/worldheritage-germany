@@ -21,7 +21,7 @@ longitude: 7.765555555
 
 # Images
 images:
-  - "/images-sites/stahleck-castle/01-672c30da-800w.webp"
+  - "/images/stahleck-castle/01-672c30da-800w.webp"
 ---
 
 ## Overview

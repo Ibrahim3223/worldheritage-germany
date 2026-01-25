@@ -13,7 +13,7 @@ regions:
 latitude: 48.6547
 longitude: 8.32944
 images:
-  - "/images-sites/schwarzenbach-dam/01-79f98e55-800w.webp"
+  - "/images/schwarzenbach-dam/01-79f98e55-800w.webp"
 ---
 
 ## Overview

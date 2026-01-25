@@ -13,9 +13,9 @@ regions:
 latitude: 51.03282
 longitude: 11.27943
 images:
-  - "/images-sites/thueringer-klossmuseum/01-b1cfd9a9-800w.webp"
-  - "/images-sites/thueringer-klossmuseum/02-44a2bcc2-800w.webp"
-  - "/images-sites/thueringer-klossmuseum/03-7d95f2fe-800w.webp"
+  - "/images/thueringer-klossmuseum/01-b1cfd9a9-800w.webp"
+  - "/images/thueringer-klossmuseum/02-44a2bcc2-800w.webp"
+  - "/images/thueringer-klossmuseum/03-7d95f2fe-800w.webp"
 ---
 
 ## Overview

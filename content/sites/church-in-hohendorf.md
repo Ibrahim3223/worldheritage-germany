@@ -1,19 +1,51 @@
 ---
-title: "Church in Hohendorf"
-site_name: "Church in Hohendorf"
-slug: "church-in-hohendorf"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Hohendorf
+site_name: Church in Hohendorf
+slug: church-in-hohendorf
+region: Mecklenburg-Vorpommern
 latitude: 54.0229
 longitude: 13.7326
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244379"
-description: "Tucked away in the serene region of Wolgast, the Church in Hohendorf stands as a remarkable example of Brick Gothic architecture. This church is not jus..."
+- cultural site
+wikidata_id: Q1244379
+description: Tucked away in the serene region of Wolgast, the Church in Hohendorf
+  stands as a remarkable example of Brick Gothic architecture. This church is not
+  jus...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hohendorf%20OVP%20Kirche%2001.jpg/1200px-Hohendorf%20OVP%20Kirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/1200px-Hohendorf_OVP_Kirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dorfkirche_Hohendorf_Eingangsportal.JPG/1200px-Dorfkirche_Hohendorf_Eingangsportal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche_Hohendorf_Nordsakristei.JPG/1200px-Dorfkirche_Hohendorf_Nordsakristei.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dorfkirche_Hohendorf_Pfarrscheune.JPG/1200px-Dorfkirche_Hohendorf_Pfarrscheune.JPG
+image_srcset:
+  Hohendorf%20OVP%20Kirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hohendorf%20OVP%20Kirche%2001.jpg/400px-Hohendorf%20OVP%20Kirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hohendorf%20OVP%20Kirche%2001.jpg/800px-Hohendorf%20OVP%20Kirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hohendorf%20OVP%20Kirche%2001.jpg/1200px-Hohendorf%20OVP%20Kirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hohendorf%20OVP%20Kirche%2001.jpg/1920px-Hohendorf%20OVP%20Kirche%2001.jpg
+  Hohendorf OVP Kirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/400px-Hohendorf_OVP_Kirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/800px-Hohendorf_OVP_Kirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/1200px-Hohendorf_OVP_Kirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohendorf_OVP_Kirche_01.jpg/1920px-Hohendorf_OVP_Kirche_01.jpg
+  Dorfkirche Hohendorf Eingangsportal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dorfkirche_Hohendorf_Eingangsportal.JPG/400px-Dorfkirche_Hohendorf_Eingangsportal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dorfkirche_Hohendorf_Eingangsportal.JPG/800px-Dorfkirche_Hohendorf_Eingangsportal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dorfkirche_Hohendorf_Eingangsportal.JPG/1200px-Dorfkirche_Hohendorf_Eingangsportal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dorfkirche_Hohendorf_Eingangsportal.JPG/1920px-Dorfkirche_Hohendorf_Eingangsportal.JPG
+  Dorfkirche Hohendorf Nordsakristei.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche_Hohendorf_Nordsakristei.JPG/400px-Dorfkirche_Hohendorf_Nordsakristei.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche_Hohendorf_Nordsakristei.JPG/800px-Dorfkirche_Hohendorf_Nordsakristei.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche_Hohendorf_Nordsakristei.JPG/1200px-Dorfkirche_Hohendorf_Nordsakristei.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche_Hohendorf_Nordsakristei.JPG/1920px-Dorfkirche_Hohendorf_Nordsakristei.JPG
+  Dorfkirche Hohendorf Pfarrscheune.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dorfkirche_Hohendorf_Pfarrscheune.JPG/400px-Dorfkirche_Hohendorf_Pfarrscheune.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dorfkirche_Hohendorf_Pfarrscheune.JPG/800px-Dorfkirche_Hohendorf_Pfarrscheune.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dorfkirche_Hohendorf_Pfarrscheune.JPG/1200px-Dorfkirche_Hohendorf_Pfarrscheune.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dorfkirche_Hohendorf_Pfarrscheune.JPG/1920px-Dorfkirche_Hohendorf_Pfarrscheune.JPG
 ---
 
 ## Overview

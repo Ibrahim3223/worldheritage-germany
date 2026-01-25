@@ -1,19 +1,50 @@
 ---
-title: "Church of the Holy Spirit"
-site_name: "Church of the Holy Spirit"
-slug: "church-of-the-holy-spirit"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church of the Holy Spirit
+site_name: Church of the Holy Spirit
+slug: church-of-the-holy-spirit
+region: Schleswig-Holstein
 latitude: 54.78768
 longitude: 9.43244
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q878494"
-description: "The Church of the Holy Spirit, a striking example of Gothic architecture, stands prominently in Flensburg, Germany. Founded in 1386, this Danish church ..."
+- cultural site
+wikidata_id: Q878494
+description: The Church of the Holy Spirit, a striking example of Gothic architecture,
+  stands prominently in Flensburg, Germany. Founded in 1386, this Danish church ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heiliggeistkirche%20%28Flensburg%29.JPG/1200px-Heiliggeistkirche%20%28Flensburg%29.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Holy_Spirit_Church_Newtown.jpg/1200px-Holy_Spirit_Church_Newtown.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/1200px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HeiilgGeistKircheArheilgen.jpg/1200px-HeiilgGeistKircheArheilgen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kostel2020.png/1200px-Kostel2020.png
+image_srcset:
+  Heiliggeistkirche%20%28Flensburg%29.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heiliggeistkirche%20%28Flensburg%29.JPG/400px-Heiliggeistkirche%20%28Flensburg%29.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heiliggeistkirche%20%28Flensburg%29.JPG/800px-Heiliggeistkirche%20%28Flensburg%29.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heiliggeistkirche%20%28Flensburg%29.JPG/1200px-Heiliggeistkirche%20%28Flensburg%29.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heiliggeistkirche%20%28Flensburg%29.JPG/1920px-Heiliggeistkirche%20%28Flensburg%29.JPG
+  Holy Spirit Church Newtown.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Holy_Spirit_Church_Newtown.jpg/400px-Holy_Spirit_Church_Newtown.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Holy_Spirit_Church_Newtown.jpg/800px-Holy_Spirit_Church_Newtown.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Holy_Spirit_Church_Newtown.jpg/1200px-Holy_Spirit_Church_Newtown.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Holy_Spirit_Church_Newtown.jpg/1920px-Holy_Spirit_Church_Newtown.jpg
+  Hospital del Espíritu Santo, Füssen, Alemania, 2012-10-06, DD 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/400px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/800px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/1200px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg/1920px-Hospital_del_Espíritu_Santo,_Füssen,_Alemania,_2012-10-06,_DD_05.jpg
+  HeiilgGeistKircheArheilgen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HeiilgGeistKircheArheilgen.jpg/400px-HeiilgGeistKircheArheilgen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HeiilgGeistKircheArheilgen.jpg/800px-HeiilgGeistKircheArheilgen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HeiilgGeistKircheArheilgen.jpg/1200px-HeiilgGeistKircheArheilgen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HeiilgGeistKircheArheilgen.jpg/1920px-HeiilgGeistKircheArheilgen.jpg
+  Kostel2020.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kostel2020.png/400px-Kostel2020.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kostel2020.png/800px-Kostel2020.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kostel2020.png/1200px-Kostel2020.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kostel2020.png/1920px-Kostel2020.png
 ---
 
 ## Overview

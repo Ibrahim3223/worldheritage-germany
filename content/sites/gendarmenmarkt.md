@@ -1,19 +1,49 @@
 ---
-title: "Gendarmenmarkt"
+title: Gendarmenmarkt
 date: 2026-01-23
 draft: false
-description: "square in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.513611111
 longitude: 13.392777777
 images:
-  - "/images-sites/gendarmenmarkt/01-3a35c260-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg/1200px-Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gendarmenmarkt_wird_erneuert.jpg/1200px-Gendarmenmarkt_wird_erneuert.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG/1200px-View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gendarmenmarkt_Berlin_2009.JPG/1200px-Gendarmenmarkt_Berlin_2009.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/1200px-Gendarmenmarkt_2010_11_01.jpg
+image_srcset:
+  Französischer Dom, Gendarmenmarkt, Berlin (Blaue Stunde).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg/400px-Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg/800px-Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg/1200px-Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg/1920px-Französischer_Dom,_Gendarmenmarkt,_Berlin_(Blaue_Stunde).jpg
+  Gendarmenmarkt wird erneuert.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gendarmenmarkt_wird_erneuert.jpg/400px-Gendarmenmarkt_wird_erneuert.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gendarmenmarkt_wird_erneuert.jpg/800px-Gendarmenmarkt_wird_erneuert.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gendarmenmarkt_wird_erneuert.jpg/1200px-Gendarmenmarkt_wird_erneuert.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gendarmenmarkt_wird_erneuert.jpg/1920px-Gendarmenmarkt_wird_erneuert.jpg
+  View of the Gendarmenmarkt and Deutscher Dom (German Cathedral) from the Top of Französischer Dom (French Cathedral).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG/400px-View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG/800px-View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG/1200px-View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG/1920px-View_of_the_Gendarmenmarkt_and_Deutscher_Dom_(German_Cathedral)_from_the_Top_of_Französischer_Dom_(French_Cathedral).JPG
+  Gendarmenmarkt Berlin 2009.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gendarmenmarkt_Berlin_2009.JPG/400px-Gendarmenmarkt_Berlin_2009.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gendarmenmarkt_Berlin_2009.JPG/800px-Gendarmenmarkt_Berlin_2009.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gendarmenmarkt_Berlin_2009.JPG/1200px-Gendarmenmarkt_Berlin_2009.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gendarmenmarkt_Berlin_2009.JPG/1920px-Gendarmenmarkt_Berlin_2009.JPG
+  Gendarmenmarkt 2010 11 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/400px-Gendarmenmarkt_2010_11_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/800px-Gendarmenmarkt_2010_11_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/1200px-Gendarmenmarkt_2010_11_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gendarmenmarkt_2010_11_01.jpg/1920px-Gendarmenmarkt_2010_11_01.jpg
 ---
 
 ## Overview

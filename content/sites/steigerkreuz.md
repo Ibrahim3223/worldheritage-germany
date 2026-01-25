@@ -13,7 +13,7 @@ regions:
 latitude: 50.93954
 longitude: 11.03822
 images:
-  - "/images-sites/steigerkreuz/01-dfdd48db-800w.webp"
+  - "/images/steigerkreuz/01-dfdd48db-800w.webp"
 ---
 
 ## Overview

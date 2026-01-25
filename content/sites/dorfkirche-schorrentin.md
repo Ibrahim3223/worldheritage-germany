@@ -1,20 +1,45 @@
 ---
-title: "Dorfkirche Schorrentin"
-site_name: "Dorfkirche Schorrentin"
-slug: "dorfkirche-schorrentin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Schorrentin
+site_name: Dorfkirche Schorrentin
+slug: dorfkirche-schorrentin
+region: Mecklenburg-Vorpommern
 latitude: 53.8547
 longitude: 12.7701
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244715"
-description: "Dorfkirche Schorrentin is a striking example of Brick Gothic architecture that captures the essence of Germanys rich ecclesiastical heritage. Located in..."
+- church building
+- religious site
+wikidata_id: Q1244715
+description: Dorfkirche Schorrentin is a striking example of Brick Gothic architecture
+  that captures the essence of Germanys rich ecclesiastical heritage. Located in...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1200px-Schorrentin-kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Schorrentin.jpg/1200px-Kirche_Schorrentin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schorrentin-glocke.jpg/1200px-Schorrentin-glocke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schorrentin.JPG/1200px-Schorrentin.JPG
+image_srcset:
+  Schorrentin-kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/400px-Schorrentin-kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/800px-Schorrentin-kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1200px-Schorrentin-kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schorrentin-kirche.jpg/1920px-Schorrentin-kirche.jpg
+  Kirche Schorrentin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Schorrentin.jpg/400px-Kirche_Schorrentin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Schorrentin.jpg/800px-Kirche_Schorrentin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Schorrentin.jpg/1200px-Kirche_Schorrentin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Schorrentin.jpg/1920px-Kirche_Schorrentin.jpg
+  Schorrentin-glocke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schorrentin-glocke.jpg/400px-Schorrentin-glocke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schorrentin-glocke.jpg/800px-Schorrentin-glocke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schorrentin-glocke.jpg/1200px-Schorrentin-glocke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schorrentin-glocke.jpg/1920px-Schorrentin-glocke.jpg
+  Schorrentin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schorrentin.JPG/400px-Schorrentin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schorrentin.JPG/800px-Schorrentin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schorrentin.JPG/1200px-Schorrentin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Schorrentin.JPG/1920px-Schorrentin.JPG
 ---
 
 ## Overview

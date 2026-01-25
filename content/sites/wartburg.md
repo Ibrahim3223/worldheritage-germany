@@ -21,7 +21,7 @@ longitude: 10.306388888
 
 # Images
 images:
-  - "/images-sites/wartburg/01-0f2d7085-800w.webp"
+  - "/images/wartburg/01-0f2d7085-800w.webp"
 ---
 
 ## Overview

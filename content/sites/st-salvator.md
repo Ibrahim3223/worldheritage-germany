@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1732174"
 description: "In the heart of Gera, Germany, lies a remarkable testament to Baroque architecture: St. Salvator. This church, constructed in 1717, stands as a striking..."
 images:
-  - "/images-sites/st-salvator/01-75447c90-1920w.webp"
-  - "/images-sites/st-salvator/02-5ebec7ac-1920w.webp"
-  - "/images-sites/st-salvator/03-515e8bb3-1920w.webp"
+  - "/images/st-salvator/01-75447c90-1920w.webp"
+  - "/images/st-salvator/02-5ebec7ac-1920w.webp"
+  - "/images/st-salvator/03-515e8bb3-1920w.webp"
 ---
 
 ## Overview

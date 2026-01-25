@@ -1,19 +1,49 @@
 ---
-title: "Elchingen Abbey"
+title: Elchingen Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4524
 longitude: 10.0881
 images:
-  - "/images-sites/elchingen-abbey/01-0dd11976-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Elchingen,_Klosterhof_7-002.jpg/1200px-Elchingen,_Klosterhof_7-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tomerdingen_Zehntscheuer_2.jpg/1200px-Tomerdingen_Zehntscheuer_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/1200px-Elchingen1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wojnicz.jpg/1200px-Wojnicz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wappenbuch_Circulus_Suevicus_17.jpg/1200px-Wappenbuch_Circulus_Suevicus_17.jpg
+image_srcset:
+  Elchingen, Klosterhof 7-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Elchingen,_Klosterhof_7-002.jpg/400px-Elchingen,_Klosterhof_7-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Elchingen,_Klosterhof_7-002.jpg/800px-Elchingen,_Klosterhof_7-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Elchingen,_Klosterhof_7-002.jpg/1200px-Elchingen,_Klosterhof_7-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Elchingen,_Klosterhof_7-002.jpg/1920px-Elchingen,_Klosterhof_7-002.jpg
+  Tomerdingen Zehntscheuer 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tomerdingen_Zehntscheuer_2.jpg/400px-Tomerdingen_Zehntscheuer_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tomerdingen_Zehntscheuer_2.jpg/800px-Tomerdingen_Zehntscheuer_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tomerdingen_Zehntscheuer_2.jpg/1200px-Tomerdingen_Zehntscheuer_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tomerdingen_Zehntscheuer_2.jpg/1920px-Tomerdingen_Zehntscheuer_2.jpg
+  Elchingen1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/400px-Elchingen1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/800px-Elchingen1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/1200px-Elchingen1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elchingen1.jpeg/1920px-Elchingen1.jpeg
+  Wojnicz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wojnicz.jpg/400px-Wojnicz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wojnicz.jpg/800px-Wojnicz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wojnicz.jpg/1200px-Wojnicz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wojnicz.jpg/1920px-Wojnicz.jpg
+  Wappenbuch Circulus Suevicus 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wappenbuch_Circulus_Suevicus_17.jpg/400px-Wappenbuch_Circulus_Suevicus_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wappenbuch_Circulus_Suevicus_17.jpg/800px-Wappenbuch_Circulus_Suevicus_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wappenbuch_Circulus_Suevicus_17.jpg/1200px-Wappenbuch_Circulus_Suevicus_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wappenbuch_Circulus_Suevicus_17.jpg/1920px-Wappenbuch_Circulus_Suevicus_17.jpg
 ---
 
 ## Overview

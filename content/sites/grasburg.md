@@ -1,27 +1,49 @@
 ---
-title: "Grasburg"
+title: Grasburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5183
 longitude: 10.9349
-
-# Images
 images:
-  - "/images-sites/grasburg/01-2746e3bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(2).jpg/1200px-Grasburg_bei_Rottleberode_-_Chor_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(3).jpg/1200px-Grasburg_bei_Rottleberode_-_Chor_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg/1200px-Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grasburg_bei_Rottleberode_-_Giebelwand.jpg/1200px-Grasburg_bei_Rottleberode_-_Giebelwand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg/1200px-Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg
+image_srcset:
+  Grasburg bei Rottleberode - Chor (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(2).jpg/400px-Grasburg_bei_Rottleberode_-_Chor_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(2).jpg/800px-Grasburg_bei_Rottleberode_-_Chor_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(2).jpg/1200px-Grasburg_bei_Rottleberode_-_Chor_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(2).jpg/1920px-Grasburg_bei_Rottleberode_-_Chor_(2).jpg
+  Grasburg bei Rottleberode - Chor (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(3).jpg/400px-Grasburg_bei_Rottleberode_-_Chor_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(3).jpg/800px-Grasburg_bei_Rottleberode_-_Chor_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(3).jpg/1200px-Grasburg_bei_Rottleberode_-_Chor_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Chor_(3).jpg/1920px-Grasburg_bei_Rottleberode_-_Chor_(3).jpg
+  Grasburg bei Rottleberode - Giebel mit ausgebrochener Choröffnung (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg/400px-Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg/800px-Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg/1200px-Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg/1920px-Grasburg_bei_Rottleberode_-_Giebel_mit_ausgebrochener_Choröffnung_(2).jpg
+  Grasburg bei Rottleberode - Giebelwand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grasburg_bei_Rottleberode_-_Giebelwand.jpg/400px-Grasburg_bei_Rottleberode_-_Giebelwand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grasburg_bei_Rottleberode_-_Giebelwand.jpg/800px-Grasburg_bei_Rottleberode_-_Giebelwand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grasburg_bei_Rottleberode_-_Giebelwand.jpg/1200px-Grasburg_bei_Rottleberode_-_Giebelwand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Grasburg_bei_Rottleberode_-_Giebelwand.jpg/1920px-Grasburg_bei_Rottleberode_-_Giebelwand.jpg
+  Grasburg bei Rottleberode - Giebelwand und Chor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg/400px-Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg/800px-Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg/1200px-Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg/1920px-Grasburg_bei_Rottleberode_-_Giebelwand_und_Chor.jpg
 ---
 
 ## Overview

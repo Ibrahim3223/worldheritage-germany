@@ -1,19 +1,43 @@
 ---
-title: "Burg Frauenburg"
+title: Burg Frauenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.6636
 longitude: 7.28403
 images:
-  - "/images-sites/burg-frauenburg/01-44ffb3c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Frauenburg-1.JPG/1200px-Burg_Frauenburg-1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Frauenburg-2.JPG/1200px-Burg_Frauenburg-2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg/1200px-BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Burg_Frauenburg-3-Infotafel.jpg/1200px-Burg_Frauenburg-3-Infotafel.jpg
+image_srcset:
+  Burg Frauenburg-1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Frauenburg-1.JPG/400px-Burg_Frauenburg-1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Frauenburg-1.JPG/800px-Burg_Frauenburg-1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Frauenburg-1.JPG/1200px-Burg_Frauenburg-1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Frauenburg-1.JPG/1920px-Burg_Frauenburg-1.JPG
+  Burg Frauenburg-2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Frauenburg-2.JPG/400px-Burg_Frauenburg-2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Frauenburg-2.JPG/800px-Burg_Frauenburg-2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Frauenburg-2.JPG/1200px-Burg_Frauenburg-2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Frauenburg-2.JPG/1920px-Burg_Frauenburg-2.JPG
+  BL - Bodman - Ruine Altbodman (Burg Frauenberg) 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg/400px-BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg/800px-BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg/1200px-BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg/1920px-BL_-_Bodman_-_Ruine_Altbodman_(Burg_Frauenberg)_01_ies.jpg
+  Burg Frauenburg-3-Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Burg_Frauenburg-3-Infotafel.jpg/400px-Burg_Frauenburg-3-Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Burg_Frauenburg-3-Infotafel.jpg/800px-Burg_Frauenburg-3-Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Burg_Frauenburg-3-Infotafel.jpg/1200px-Burg_Frauenburg-3-Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Burg_Frauenburg-3-Infotafel.jpg/1920px-Burg_Frauenburg-3-Infotafel.jpg
 ---
 
 ## Overview

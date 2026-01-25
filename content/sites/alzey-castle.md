@@ -1,28 +1,49 @@
 ---
-title: "Alzey Castle"
+title: Alzey Castle
 date: 2026-01-23
 draft: false
-description: "Schloss in Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Schloss in Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.746
 longitude: 8.11625
-
-# Images
 images:
-  - "/images-sites/alzey-castle/02-8443840b-800w.webp"
-  - "/images-sites/alzey-castle/03-4f6f56c4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alzey,_Schloss,_Panorama_(1).jpg/1200px-Alzey,_Schloss,_Panorama_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Alzey_Rekonstruktionszeichnung_1.jpg/1200px-Schloss_Alzey_Rekonstruktionszeichnung_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alzey_Schlossplan2.JPG/1200px-Alzey_Schlossplan2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1200px-SchlossAlzey.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alzey_Schloss1905.jpg/1200px-Alzey_Schloss1905.jpg
+image_srcset:
+  Alzey, Schloss, Panorama (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alzey,_Schloss,_Panorama_(1).jpg/400px-Alzey,_Schloss,_Panorama_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alzey,_Schloss,_Panorama_(1).jpg/800px-Alzey,_Schloss,_Panorama_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alzey,_Schloss,_Panorama_(1).jpg/1200px-Alzey,_Schloss,_Panorama_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alzey,_Schloss,_Panorama_(1).jpg/1920px-Alzey,_Schloss,_Panorama_(1).jpg
+  Schloss Alzey Rekonstruktionszeichnung 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Alzey_Rekonstruktionszeichnung_1.jpg/400px-Schloss_Alzey_Rekonstruktionszeichnung_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Alzey_Rekonstruktionszeichnung_1.jpg/800px-Schloss_Alzey_Rekonstruktionszeichnung_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Alzey_Rekonstruktionszeichnung_1.jpg/1200px-Schloss_Alzey_Rekonstruktionszeichnung_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Alzey_Rekonstruktionszeichnung_1.jpg/1920px-Schloss_Alzey_Rekonstruktionszeichnung_1.jpg
+  Alzey Schlossplan2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alzey_Schlossplan2.JPG/400px-Alzey_Schlossplan2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alzey_Schlossplan2.JPG/800px-Alzey_Schlossplan2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alzey_Schlossplan2.JPG/1200px-Alzey_Schlossplan2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alzey_Schlossplan2.JPG/1920px-Alzey_Schlossplan2.JPG
+  SchlossAlzey.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/400px-SchlossAlzey.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/800px-SchlossAlzey.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1200px-SchlossAlzey.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SchlossAlzey.jpg/1920px-SchlossAlzey.jpg
+  Alzey Schloss1905.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alzey_Schloss1905.jpg/400px-Alzey_Schloss1905.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alzey_Schloss1905.jpg/800px-Alzey_Schloss1905.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alzey_Schloss1905.jpg/1200px-Alzey_Schloss1905.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alzey_Schloss1905.jpg/1920px-Alzey_Schloss1905.jpg
 ---
 
 ## Overview

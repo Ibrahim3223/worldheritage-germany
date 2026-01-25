@@ -13,9 +13,9 @@ regions:
 latitude: 50.861438
 longitude: 12.177797
 images:
-  - "/images-sites/schloss-ronneburg/01-9e6f7b5e-800w.webp"
-  - "/images-sites/schloss-ronneburg/02-843846f0-800w.webp"
-  - "/images-sites/schloss-ronneburg/03-0ff39a94-800w.webp"
+  - "/images/schloss-ronneburg/01-9e6f7b5e-800w.webp"
+  - "/images/schloss-ronneburg/02-843846f0-800w.webp"
+  - "/images/schloss-ronneburg/03-0ff39a94-800w.webp"
 ---
 
 ## Overview

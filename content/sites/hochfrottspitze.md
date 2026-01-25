@@ -1,19 +1,50 @@
 ---
-title: "Hochfrottspitze"
+title: Hochfrottspitze
 date: 2026-01-23
 draft: false
-description: "mountain in the Allgäu Alps at the border of Tyrol, Austria and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Allgäu Alps at the border of Tyrol, Austria and Bavaria,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.296111111
 longitude: 10.293055555
 images:
-  - "/images-sites/hochfrottspitze/01-66b9b257-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Einödsbach_2020a.jpg/1200px-Einödsbach_2020a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG/1200px-Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/1200px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hochfrottspitze.jpg/1200px-Hochfrottspitze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Einödsbachtal_-_panoramio.jpg/1200px-Einödsbachtal_-_panoramio.jpg
+image_srcset:
+  Einödsbach 2020a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Einödsbach_2020a.jpg/400px-Einödsbach_2020a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Einödsbach_2020a.jpg/800px-Einödsbach_2020a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Einödsbach_2020a.jpg/1200px-Einödsbach_2020a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Einödsbach_2020a.jpg/1920px-Einödsbach_2020a.jpg
+  Oberstdorf - Trettach, Mädelegabel, Hochfrottspitze.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG/400px-Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG/800px-Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG/1200px-Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG/1920px-Oberstdorf_-_Trettach,_Mädelegabel,_Hochfrottspitze.JPG
+  Guggersee Trettachspitze Maedelegabel Hochfrottspitze.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/400px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/800px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/1200px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG/1920px-Guggersee_Trettachspitze_Maedelegabel_Hochfrottspitze.JPG
+  Hochfrottspitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hochfrottspitze.jpg/400px-Hochfrottspitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hochfrottspitze.jpg/800px-Hochfrottspitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hochfrottspitze.jpg/1200px-Hochfrottspitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hochfrottspitze.jpg/1920px-Hochfrottspitze.jpg
+  Einödsbachtal - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Einödsbachtal_-_panoramio.jpg/400px-Einödsbachtal_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Einödsbachtal_-_panoramio.jpg/800px-Einödsbachtal_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Einödsbachtal_-_panoramio.jpg/1200px-Einödsbachtal_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Einödsbachtal_-_panoramio.jpg/1920px-Einödsbachtal_-_panoramio.jpg
 ---
 
 ## Overview

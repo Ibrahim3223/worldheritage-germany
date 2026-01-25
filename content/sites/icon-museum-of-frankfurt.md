@@ -1,19 +1,37 @@
 ---
-title: "Icon museum of Frankfurt"
+title: Icon museum of Frankfurt
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.106764
 longitude: 8.688015
 images:
-  - "/images-sites/icon-museum-of-frankfurt/01-34db2525-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1200px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annunciation_of_the_Theotokos.jpg/1200px-Annunciation_of_the_Theotokos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/1200px-Deutschordenskirche-ffm001.jpg
+image_srcset:
+  Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/400px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/800px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1200px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1920px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+  Annunciation of the Theotokos.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annunciation_of_the_Theotokos.jpg/400px-Annunciation_of_the_Theotokos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annunciation_of_the_Theotokos.jpg/800px-Annunciation_of_the_Theotokos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annunciation_of_the_Theotokos.jpg/1200px-Annunciation_of_the_Theotokos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Annunciation_of_the_Theotokos.jpg/1920px-Annunciation_of_the_Theotokos.jpg
+  Deutschordenskirche-ffm001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/400px-Deutschordenskirche-ffm001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/800px-Deutschordenskirche-ffm001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/1200px-Deutschordenskirche-ffm001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Deutschordenskirche-ffm001.jpg/1920px-Deutschordenskirche-ffm001.jpg
 ---
 
 ## Overview

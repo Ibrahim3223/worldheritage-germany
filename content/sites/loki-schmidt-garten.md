@@ -21,7 +21,7 @@ longitude: 9.86111111
 
 # Images
 images:
-  - "/images-sites/loki-schmidt-garten/01-4e731f78-800w.webp"
+  - "/images/loki-schmidt-garten/01-4e731f78-800w.webp"
 ---
 
 ## Overview

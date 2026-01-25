@@ -1,21 +1,49 @@
 ---
-title: "Freiheitshalle"
+title: Freiheitshalle
 date: 2026-01-23
 draft: false
-description: "multi-purposehall in Hof, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purposehall in Hof, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3202
 longitude: 11.9031
 images:
-  - "/images-sites/freiheitshalle/01-e33d8a5c-800w.webp"
-  - "/images-sites/freiheitshalle/02-56c791c1-800w.webp"
-  - "/images-sites/freiheitshalle/03-07a8b0f4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Freiheitshalle_Hof_20210812_HOF03248.jpg/1200px-Freiheitshalle_Hof_20210812_HOF03248.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg/1200px-Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hof_Freiheitshalle_01.jpg/1200px-Hof_Freiheitshalle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofer_Volksfest_2010_-_4840575706.jpg/1200px-Hofer_Volksfest_2010_-_4840575706.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Freiheitshalle.jpg/1200px-Freiheitshalle.jpg
+image_srcset:
+  Freiheitshalle Hof 20210812 HOF03248.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Freiheitshalle_Hof_20210812_HOF03248.jpg/400px-Freiheitshalle_Hof_20210812_HOF03248.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Freiheitshalle_Hof_20210812_HOF03248.jpg/800px-Freiheitshalle_Hof_20210812_HOF03248.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Freiheitshalle_Hof_20210812_HOF03248.jpg/1200px-Freiheitshalle_Hof_20210812_HOF03248.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Freiheitshalle_Hof_20210812_HOF03248.jpg/1920px-Freiheitshalle_Hof_20210812_HOF03248.jpg
+  Freiheitstrompeter von Otmar Alt 20220311 HOF09426.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg/400px-Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg/800px-Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg/1200px-Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg/1920px-Freiheitstrompeter_von_Otmar_Alt_20220311_HOF09426.jpg
+  Hof Freiheitshalle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hof_Freiheitshalle_01.jpg/400px-Hof_Freiheitshalle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hof_Freiheitshalle_01.jpg/800px-Hof_Freiheitshalle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hof_Freiheitshalle_01.jpg/1200px-Hof_Freiheitshalle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hof_Freiheitshalle_01.jpg/1920px-Hof_Freiheitshalle_01.jpg
+  Hofer Volksfest 2010 - 4840575706.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofer_Volksfest_2010_-_4840575706.jpg/400px-Hofer_Volksfest_2010_-_4840575706.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofer_Volksfest_2010_-_4840575706.jpg/800px-Hofer_Volksfest_2010_-_4840575706.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofer_Volksfest_2010_-_4840575706.jpg/1200px-Hofer_Volksfest_2010_-_4840575706.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hofer_Volksfest_2010_-_4840575706.jpg/1920px-Hofer_Volksfest_2010_-_4840575706.jpg
+  Freiheitshalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Freiheitshalle.jpg/400px-Freiheitshalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Freiheitshalle.jpg/800px-Freiheitshalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Freiheitshalle.jpg/1200px-Freiheitshalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Freiheitshalle.jpg/1920px-Freiheitshalle.jpg
 ---
 
 ## Overview

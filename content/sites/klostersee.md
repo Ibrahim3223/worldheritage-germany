@@ -13,8 +13,8 @@ regions:
 latitude: 52.333869444
 longitude: 12.740538888
 images:
-  - "/images-sites/klostersee/02-3a44caee-800w.webp"
-  - "/images-sites/klostersee/03-4e15af4a-800w.webp"
+  - "/images/klostersee/02-3a44caee-800w.webp"
+  - "/images/klostersee/03-4e15af4a-800w.webp"
 ---
 
 ## Overview

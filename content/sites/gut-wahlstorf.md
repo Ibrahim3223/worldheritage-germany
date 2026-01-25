@@ -1,19 +1,49 @@
 ---
-title: "Gut Wahlstorf"
+title: Gut Wahlstorf
 date: 2026-01-23
 draft: false
-description: "building in Wahlstorf (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Wahlstorf (Germany)
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1964
 longitude: 10.3067
 images:
-  - "/images-sites/gut-wahlstorf/01-9116faed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gut_Wahlstorf.jpg/1200px-Gut_Wahlstorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg/1200px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg/1200px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahlstorf_Gut_Wahlstorf.jpg/1200px-Wahlstorf_Gut_Wahlstorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1200px-Wahlstorf,_Herrenhaus.JPG
+image_srcset:
+  Gut Wahlstorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gut_Wahlstorf.jpg/400px-Gut_Wahlstorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gut_Wahlstorf.jpg/800px-Gut_Wahlstorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gut_Wahlstorf.jpg/1200px-Gut_Wahlstorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gut_Wahlstorf.jpg/1920px-Gut_Wahlstorf.jpg
+  Schwentine kurz vor Eintritt in den Lanker See-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg/400px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg/800px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg/1200px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg/1920px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See-3.jpg
+  Schwentine kurz vor Eintritt in den Lanker See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg/400px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg/800px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg/1200px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg/1920px-Schwentine_kurz_vor_Eintritt_in_den_Lanker_See.jpg
+  Wahlstorf Gut Wahlstorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahlstorf_Gut_Wahlstorf.jpg/400px-Wahlstorf_Gut_Wahlstorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahlstorf_Gut_Wahlstorf.jpg/800px-Wahlstorf_Gut_Wahlstorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahlstorf_Gut_Wahlstorf.jpg/1200px-Wahlstorf_Gut_Wahlstorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wahlstorf_Gut_Wahlstorf.jpg/1920px-Wahlstorf_Gut_Wahlstorf.jpg
+  Wahlstorf, Herrenhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/400px-Wahlstorf,_Herrenhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/800px-Wahlstorf,_Herrenhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1200px-Wahlstorf,_Herrenhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wahlstorf,_Herrenhaus.JPG/1920px-Wahlstorf,_Herrenhaus.JPG
 ---
 
 ## Overview

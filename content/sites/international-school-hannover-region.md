@@ -1,20 +1,49 @@
 ---
-title: "International School Hannover Region"
+title: International School Hannover Region
 date: 2026-01-23
 draft: false
-description: "International School in Hannover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: International School in Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3636
 longitude: 9.7325
 images:
-  - "/images-sites/international-school-hannover-region/02-e8b848b9-800w.webp"
-  - "/images-sites/international-school-hannover-region/03-2b969e30-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schoolsign-ishr-2.jpg/1200px-Schoolsign-ishr-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schützenplatz_Hannover_Luftbild_2016.JPG/1200px-Schützenplatz_Hannover_Luftbild_2016.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/D802707.jpg/1200px-D802707.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D802726.jpg/1200px-D802726.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1200px-International_School_Hannover_Front.jpg
+image_srcset:
+  Schoolsign-ishr-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schoolsign-ishr-2.jpg/400px-Schoolsign-ishr-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schoolsign-ishr-2.jpg/800px-Schoolsign-ishr-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schoolsign-ishr-2.jpg/1200px-Schoolsign-ishr-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Schoolsign-ishr-2.jpg/1920px-Schoolsign-ishr-2.jpg
+  Schützenplatz Hannover Luftbild 2016.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schützenplatz_Hannover_Luftbild_2016.JPG/400px-Schützenplatz_Hannover_Luftbild_2016.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schützenplatz_Hannover_Luftbild_2016.JPG/800px-Schützenplatz_Hannover_Luftbild_2016.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schützenplatz_Hannover_Luftbild_2016.JPG/1200px-Schützenplatz_Hannover_Luftbild_2016.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schützenplatz_Hannover_Luftbild_2016.JPG/1920px-Schützenplatz_Hannover_Luftbild_2016.JPG
+  D802707.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/D802707.jpg/400px-D802707.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/D802707.jpg/800px-D802707.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/D802707.jpg/1200px-D802707.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/D802707.jpg/1920px-D802707.jpg
+  D802726.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D802726.jpg/400px-D802726.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D802726.jpg/800px-D802726.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D802726.jpg/1200px-D802726.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/D802726.jpg/1920px-D802726.jpg
+  International School Hannover Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/400px-International_School_Hannover_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/800px-International_School_Hannover_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1200px-International_School_Hannover_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/International_School_Hannover_Front.jpg/1920px-International_School_Hannover_Front.jpg
 ---
 
 ## Overview

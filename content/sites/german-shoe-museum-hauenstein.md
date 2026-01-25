@@ -1,19 +1,49 @@
 ---
-title: "German Shoe Museum Hauenstein"
+title: German Shoe Museum Hauenstein
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.18984
 longitude: 7.85612
 images:
-  - "/images-sites/german-shoe-museum-hauenstein/01-1f351363-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg/1200px-Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg/1200px-Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg/1200px-Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg/1200px-Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1200px-Deutsches_Schuhmuseum.jpg
+image_srcset:
+  Hauenstein-Schuhmuseum-112-Antriebsmaschine von oben-2008-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg/400px-Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg/800px-Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg/1200px-Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg/1920px-Hauenstein-Schuhmuseum-112-Antriebsmaschine_von_oben-2008-gje.jpg
+  Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg/400px-Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg/800px-Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg/1200px-Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg/1920px-Hauenstein-Schuhmuseum-192-Backstube-Ofen-2008-gje.jpg
+  Hauenstein-Schuhmuseum-142-Steppmaschine von Pfaff-2008-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg/400px-Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg/800px-Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg/1200px-Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg/1920px-Hauenstein-Schuhmuseum-142-Steppmaschine_von_Pfaff-2008-gje.jpg
+  Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg/400px-Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg/800px-Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg/1200px-Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg/1920px-Hauenstein-Schuhmuseum-168-Heimarbeiter-Kueche-2005-gje.jpg
+  Deutsches Schuhmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/400px-Deutsches_Schuhmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/800px-Deutsches_Schuhmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1200px-Deutsches_Schuhmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Deutsches_Schuhmuseum.jpg/1920px-Deutsches_Schuhmuseum.jpg
 ---
 
 ## Overview

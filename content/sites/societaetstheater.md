@@ -13,7 +13,7 @@ regions:
 latitude: 51.0605
 longitude: 13.7427
 images:
-  - "/images-sites/societaetstheater/01-7e7e959e-800w.webp"
+  - "/images/societaetstheater/01-7e7e959e-800w.webp"
 ---
 
 ## Overview

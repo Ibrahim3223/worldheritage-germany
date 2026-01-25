@@ -21,7 +21,7 @@ longitude: 11.26394
 
 # Images
 images:
-  - "/images-sites/pfuenz-roman-fort/01-ce3a0772-800w.webp"
+  - "/images/pfuenz-roman-fort/01-ce3a0772-800w.webp"
 ---
 
 ## Overview

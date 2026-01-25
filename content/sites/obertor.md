@@ -13,9 +13,9 @@ regions:
 latitude: 51.1945
 longitude: 6.69832
 images:
-  - "/images-sites/obertor/01-2a88b7e8-800w.webp"
-  - "/images-sites/obertor/02-d541c062-800w.webp"
-  - "/images-sites/obertor/03-e9536b8f-800w.webp"
+  - "/images/obertor/01-2a88b7e8-800w.webp"
+  - "/images/obertor/02-d541c062-800w.webp"
+  - "/images/obertor/03-e9536b8f-800w.webp"
 ---
 
 ## Overview

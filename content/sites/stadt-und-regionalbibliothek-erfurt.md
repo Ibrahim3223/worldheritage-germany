@@ -13,8 +13,8 @@ regions:
 latitude: 50.97805556
 longitude: 11.02444444
 images:
-  - "/images-sites/stadt-und-regionalbibliothek-erfurt/02-d84ffe61-800w.webp"
-  - "/images-sites/stadt-und-regionalbibliothek-erfurt/03-a2cde0c0-800w.webp"
+  - "/images/stadt-und-regionalbibliothek-erfurt/02-d84ffe61-800w.webp"
+  - "/images/stadt-und-regionalbibliothek-erfurt/03-a2cde0c0-800w.webp"
 ---
 
 ## Overview

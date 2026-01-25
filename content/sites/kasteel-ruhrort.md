@@ -13,7 +13,7 @@ regions:
 latitude: 51.4504
 longitude: 6.7331
 images:
-  - "/images-sites/kasteel-ruhrort/01-081be3f9-800w.webp"
+  - "/images/kasteel-ruhrort/01-081be3f9-800w.webp"
 ---
 
 ## Overview

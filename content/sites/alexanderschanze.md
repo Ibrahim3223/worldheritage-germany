@@ -1,19 +1,49 @@
 ---
-title: "Alexanderschanze"
+title: Alexanderschanze
 date: 2026-01-23
 draft: false
-description: "mountain pass"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: mountain pass
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4797
 longitude: 8.27583
 images:
-  - "/images-sites/alexanderschanze/02-b8901fa0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg/1200px-Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kniebis-Alexanderschanze_im_Nebel.jpg/1200px-Kniebis-Alexanderschanze_im_Nebel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alexanderschanze,_von_Prälat_Johann_Mayer.jpg/1200px-Alexanderschanze,_von_Prälat_Johann_Mayer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stebenhaber-Karte_von_1675.jpg/1200px-Stebenhaber-Karte_von_1675.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/AlexanderschanzeHotel.jpg/1200px-AlexanderschanzeHotel.jpg
+image_srcset:
+  Kreisgrenze Landkreis Freudenstadt und Ortenaukreis Alexanderschanze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg/400px-Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg/800px-Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg/1200px-Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg/1920px-Kreisgrenze_Landkreis_Freudenstadt_und_Ortenaukreis_Alexanderschanze.jpg
+  Kniebis-Alexanderschanze im Nebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kniebis-Alexanderschanze_im_Nebel.jpg/400px-Kniebis-Alexanderschanze_im_Nebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kniebis-Alexanderschanze_im_Nebel.jpg/800px-Kniebis-Alexanderschanze_im_Nebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kniebis-Alexanderschanze_im_Nebel.jpg/1200px-Kniebis-Alexanderschanze_im_Nebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kniebis-Alexanderschanze_im_Nebel.jpg/1920px-Kniebis-Alexanderschanze_im_Nebel.jpg
+  Alexanderschanze, von Prälat Johann Mayer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alexanderschanze,_von_Prälat_Johann_Mayer.jpg/400px-Alexanderschanze,_von_Prälat_Johann_Mayer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alexanderschanze,_von_Prälat_Johann_Mayer.jpg/800px-Alexanderschanze,_von_Prälat_Johann_Mayer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alexanderschanze,_von_Prälat_Johann_Mayer.jpg/1200px-Alexanderschanze,_von_Prälat_Johann_Mayer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alexanderschanze,_von_Prälat_Johann_Mayer.jpg/1920px-Alexanderschanze,_von_Prälat_Johann_Mayer.jpg
+  Stebenhaber-Karte von 1675.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stebenhaber-Karte_von_1675.jpg/400px-Stebenhaber-Karte_von_1675.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stebenhaber-Karte_von_1675.jpg/800px-Stebenhaber-Karte_von_1675.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stebenhaber-Karte_von_1675.jpg/1200px-Stebenhaber-Karte_von_1675.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stebenhaber-Karte_von_1675.jpg/1920px-Stebenhaber-Karte_von_1675.jpg
+  AlexanderschanzeHotel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/AlexanderschanzeHotel.jpg/400px-AlexanderschanzeHotel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/AlexanderschanzeHotel.jpg/800px-AlexanderschanzeHotel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/AlexanderschanzeHotel.jpg/1200px-AlexanderschanzeHotel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/AlexanderschanzeHotel.jpg/1920px-AlexanderschanzeHotel.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Tegel railway station"
+title: Berlin-Tegel railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5886
 longitude: 13.2894
 images:
-  - "/images-sites/berlin-tegel-railway-station/01-29d3eec7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg/1200px-Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg/1200px-Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG/1200px-09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Berlin-Tegel,_2025-12-09.jpeg/1200px-Bahnhof_Berlin-Tegel,_2025-12-09.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bf-b-tegel.jpg/1200px-Bf-b-tegel.jpg
+image_srcset:
+  Bahnhof Berlin-Tegel, 2, 2025-12-09.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg/400px-Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg/800px-Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg/1200px-Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg/1920px-Bahnhof_Berlin-Tegel,_2,_2025-12-09.jpeg
+  Stellwerk Tgl am Bahnhof Berlin-Tegel, 2026-01-12.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg/400px-Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg/800px-Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg/1200px-Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg/1920px-Stellwerk_Tgl_am_Bahnhof_Berlin-Tegel,_2026-01-12.jpeg
+  09011883 Berlin-Tegel, Buddestraße 2-10 002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG/400px-09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG/800px-09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG/1200px-09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG/1920px-09011883_Berlin-Tegel,_Buddestraße_2-10_002.JPG
+  Bahnhof Berlin-Tegel, 2025-12-09.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Berlin-Tegel,_2025-12-09.jpeg/400px-Bahnhof_Berlin-Tegel,_2025-12-09.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Berlin-Tegel,_2025-12-09.jpeg/800px-Bahnhof_Berlin-Tegel,_2025-12-09.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Berlin-Tegel,_2025-12-09.jpeg/1200px-Bahnhof_Berlin-Tegel,_2025-12-09.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bahnhof_Berlin-Tegel,_2025-12-09.jpeg/1920px-Bahnhof_Berlin-Tegel,_2025-12-09.jpeg
+  Bf-b-tegel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bf-b-tegel.jpg/400px-Bf-b-tegel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bf-b-tegel.jpg/800px-Bf-b-tegel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bf-b-tegel.jpg/1200px-Bf-b-tegel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bf-b-tegel.jpg/1920px-Bf-b-tegel.jpg
 ---
 
 ## Overview

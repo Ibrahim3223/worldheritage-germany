@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2319191"
 description: "In the heart of Halle (Saale), Germany, stands the St. Johannes church, a striking example of Gothic Revival architecture. Its intricate brickwork and s..."
 images:
-  - "/images-sites/st-johannes/01-acd061e2-1920w.webp"
-  - "/images-sites/st-johannes/02-2425e577-1920w.webp"
-  - "/images-sites/st-johannes/03-663a6ad6-1920w.webp"
+  - "/images/st-johannes/01-acd061e2-1920w.webp"
+  - "/images/st-johannes/02-2425e577-1920w.webp"
+  - "/images/st-johannes/03-663a6ad6-1920w.webp"
 ---
 
 ## Overview

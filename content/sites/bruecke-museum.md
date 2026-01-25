@@ -1,27 +1,49 @@
 ---
-title: "Brücke Museum"
+title: Brücke Museum
 date: 2026-01-23
 draft: false
-description: "museum in Berlin, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.4669
 longitude: 13.2736
-
-# Images
 images:
-  - "/images-sites/bruecke-museum/01-18b68906-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg/1200px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg/1200px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlem_Bussardsteig_Brücke-Museum.jpg/1200px-Dahlem_Bussardsteig_Brücke-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dahlem_Brücke-Museum_2016-002.jpg/1200px-Dahlem_Brücke-Museum_2016-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Brücke-Museum.jpg/1200px-Brücke-Museum.jpg
+image_srcset:
+  2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg/400px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg/800px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg/1200px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg/1920px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-C.jpg
+  2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg/400px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg/800px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg/1200px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg/1920px-2021-05-26-Bruecke-Museum-Berlin-Dahlem-Bussardsteig-Werner-Duettmann-A.jpg
+  Dahlem Bussardsteig Brücke-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlem_Bussardsteig_Brücke-Museum.jpg/400px-Dahlem_Bussardsteig_Brücke-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlem_Bussardsteig_Brücke-Museum.jpg/800px-Dahlem_Bussardsteig_Brücke-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlem_Bussardsteig_Brücke-Museum.jpg/1200px-Dahlem_Bussardsteig_Brücke-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlem_Bussardsteig_Brücke-Museum.jpg/1920px-Dahlem_Bussardsteig_Brücke-Museum.jpg
+  Dahlem Brücke-Museum 2016-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dahlem_Brücke-Museum_2016-002.jpg/400px-Dahlem_Brücke-Museum_2016-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dahlem_Brücke-Museum_2016-002.jpg/800px-Dahlem_Brücke-Museum_2016-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dahlem_Brücke-Museum_2016-002.jpg/1200px-Dahlem_Brücke-Museum_2016-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dahlem_Brücke-Museum_2016-002.jpg/1920px-Dahlem_Brücke-Museum_2016-002.jpg
+  Brücke-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Brücke-Museum.jpg/400px-Brücke-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Brücke-Museum.jpg/800px-Brücke-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Brücke-Museum.jpg/1200px-Brücke-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Brücke-Museum.jpg/1920px-Brücke-Museum.jpg
 ---
 
 ## Overview

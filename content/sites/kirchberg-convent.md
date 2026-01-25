@@ -13,7 +13,7 @@ regions:
 latitude: 48.3581
 longitude: 8.73278
 images:
-  - "/images-sites/kirchberg-convent/01-dc6b93a9-800w.webp"
+  - "/images/kirchberg-convent/01-dc6b93a9-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Hohenfreyberg Castle"
+title: Hohenfreyberg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.6138
 longitude: 10.5877
-
-# Images
 images:
-  - "/images-sites/hohenfreyberg-castle/01-64f80e58-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1200px-Hohenfreyberg_bild.jpg
+image_srcset:
+  Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg/400px-Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg/800px-Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg/1920px-Burg-Hohenfreyberg-JR-E-4677-4679-2020-06-25.jpg
+  Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg/400px-Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg/800px-Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg/1920px-Burg-Hohenfreyberg-JR-E-4680-4682-2020-06-25.jpg
+  Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg/400px-Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg/800px-Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg/1920px-Burg-Hohenfreyberg-JR-E-4683-2020-06-25.jpg
+  Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg/400px-Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg/800px-Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg/1200px-Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg/1920px-Burg-Hohenfreyberg-JR-E-4684-2020-06-25.jpg
+  Hohenfreyberg bild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/400px-Hohenfreyberg_bild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/800px-Hohenfreyberg_bild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1200px-Hohenfreyberg_bild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hohenfreyberg_bild.jpg/1920px-Hohenfreyberg_bild.jpg
 ---
 
 ## Overview

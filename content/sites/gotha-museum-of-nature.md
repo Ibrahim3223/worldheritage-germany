@@ -1,21 +1,50 @@
 ---
-title: "Gotha Museum of Nature"
+title: Gotha Museum of Nature
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9433
 longitude: 10.7058
 images:
-  - "/images-sites/gotha-museum-of-nature/01-e2fd2d30-800w.webp"
-  - "/images-sites/gotha-museum-of-nature/02-3171baae-800w.webp"
-  - "/images-sites/gotha-museum-of-nature/03-37abcb75-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg/1200px-Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Herzogliches_Museum_2008.JPG/1200px-Herzogliches_Museum_2008.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/1200px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gotha,_Schloss_Friedenstein,_Elefant.jpg/1200px-Gotha,_Schloss_Friedenstein,_Elefant.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museumdernaturgotha.jpg/1200px-Museumdernaturgotha.jpg
+image_srcset:
+  Blick in die Dauerausstellung Tiere im Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg/400px-Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg/800px-Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg/1200px-Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg/1920px-Blick_in_die_Dauerausstellung_Tiere_im_Turm.jpg
+  Herzogliches Museum 2008.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Herzogliches_Museum_2008.JPG/400px-Herzogliches_Museum_2008.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Herzogliches_Museum_2008.JPG/800px-Herzogliches_Museum_2008.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Herzogliches_Museum_2008.JPG/1200px-Herzogliches_Museum_2008.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Herzogliches_Museum_2008.JPG/1920px-Herzogliches_Museum_2008.JPG
+  ? Herzogliches Museum heute Kunstmuseum Stiftung Schloss Friedenstein Gotha vor
+    2010 Museum der Natur - Thüringen - Foto Wolfgang Pehlemann DSCN3016.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/400px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/800px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/1200px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg/1920px-Herzogliches_Museum_heute_Kunstmuseum_Stiftung_Schloss_Friedenstein_Gotha_vor_2010_Museum_der_Natur_-_Thüringen_-_Foto_Wolfgang_Pehlemann_DSCN3016.jpg
+  Gotha, Schloss Friedenstein, Elefant.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gotha,_Schloss_Friedenstein,_Elefant.jpg/400px-Gotha,_Schloss_Friedenstein,_Elefant.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gotha,_Schloss_Friedenstein,_Elefant.jpg/800px-Gotha,_Schloss_Friedenstein,_Elefant.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gotha,_Schloss_Friedenstein,_Elefant.jpg/1200px-Gotha,_Schloss_Friedenstein,_Elefant.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gotha,_Schloss_Friedenstein,_Elefant.jpg/1920px-Gotha,_Schloss_Friedenstein,_Elefant.jpg
+  Museumdernaturgotha.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museumdernaturgotha.jpg/400px-Museumdernaturgotha.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museumdernaturgotha.jpg/800px-Museumdernaturgotha.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museumdernaturgotha.jpg/1200px-Museumdernaturgotha.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Museumdernaturgotha.jpg/1920px-Museumdernaturgotha.jpg
 ---
 
 ## Overview

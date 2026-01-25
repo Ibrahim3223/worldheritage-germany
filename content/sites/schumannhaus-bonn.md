@@ -13,7 +13,7 @@ regions:
 latitude: 50.7243
 longitude: 7.07728
 images:
-  - "/images-sites/schumannhaus-bonn/01-6f45d42a-800w.webp"
+  - "/images/schumannhaus-bonn/01-6f45d42a-800w.webp"
 ---
 
 ## Overview

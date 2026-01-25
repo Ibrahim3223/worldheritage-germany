@@ -13,7 +13,7 @@ regions:
 latitude: 50.9778
 longitude: 10.3222
 images:
-  - "/images-sites/landestheater-eisenach/01-54402fa6-800w.webp"
+  - "/images/landestheater-eisenach/01-54402fa6-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Haus der Berliner Festspiele"
+title: Haus der Berliner Festspiele
 date: 2026-01-24
 draft: false
-description: "theater in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theater in Berlin
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4986
 longitude: 13.3286
 images:
-  - "/images-sites/haus-der-berliner-festspiele/01-2b6da34d-800w.webp"
-  - "/images-sites/haus-der-berliner-festspiele/02-ace1bcd4-800w.webp"
-  - "/images-sites/haus-der-berliner-festspiele/03-2b99793d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilmersdorf_Berliner_Festspiele-001.jpg/1200px-Wilmersdorf_Berliner_Festspiele-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wilmersdorf_Berliner_Festspiele-003.jpg/1200px-Wilmersdorf_Berliner_Festspiele-003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg/1200px-13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Haus_der_Berliner_Festspiele_02-2014.jpg/1200px-Haus_der_Berliner_Festspiele_02-2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg/1200px-Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg
+image_srcset:
+  Wilmersdorf Berliner Festspiele-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilmersdorf_Berliner_Festspiele-001.jpg/400px-Wilmersdorf_Berliner_Festspiele-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilmersdorf_Berliner_Festspiele-001.jpg/800px-Wilmersdorf_Berliner_Festspiele-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilmersdorf_Berliner_Festspiele-001.jpg/1200px-Wilmersdorf_Berliner_Festspiele-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilmersdorf_Berliner_Festspiele-001.jpg/1920px-Wilmersdorf_Berliner_Festspiele-001.jpg
+  Wilmersdorf Berliner Festspiele-003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wilmersdorf_Berliner_Festspiele-003.jpg/400px-Wilmersdorf_Berliner_Festspiele-003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wilmersdorf_Berliner_Festspiele-003.jpg/800px-Wilmersdorf_Berliner_Festspiele-003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wilmersdorf_Berliner_Festspiele-003.jpg/1200px-Wilmersdorf_Berliner_Festspiele-003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wilmersdorf_Berliner_Festspiele-003.jpg/1920px-Wilmersdorf_Berliner_Festspiele-003.jpg
+  13. Internationales Literaturfestival Berlin - Haus der Berliner Festspiele - Schaperstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg/400px-13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg/800px-13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg/1200px-13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg/1920px-13._Internationales_Literaturfestival_Berlin_-_Haus_der_Berliner_Festspiele_-_Schaperstraße.jpg
+  Haus der Berliner Festspiele 02-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Haus_der_Berliner_Festspiele_02-2014.jpg/400px-Haus_der_Berliner_Festspiele_02-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Haus_der_Berliner_Festspiele_02-2014.jpg/800px-Haus_der_Berliner_Festspiele_02-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Haus_der_Berliner_Festspiele_02-2014.jpg/1200px-Haus_der_Berliner_Festspiele_02-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Haus_der_Berliner_Festspiele_02-2014.jpg/1920px-Haus_der_Berliner_Festspiele_02-2014.jpg
+  Forecourt at Haus der Berliner Festspiele on September 8, 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg/400px-Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg/800px-Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg/1200px-Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg/1920px-Forecourt_at_Haus_der_Berliner_Festspiele_on_September_8,_2016.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.423861111
 longitude: 13.833666666
 images:
-  - "/images-sites/peetzsee/01-bfdf586f-800w.webp"
+  - "/images/peetzsee/01-bfdf586f-800w.webp"
 ---
 
 ## Overview

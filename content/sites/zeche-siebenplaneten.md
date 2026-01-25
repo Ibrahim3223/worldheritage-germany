@@ -13,7 +13,7 @@ regions:
 latitude: 51.4828
 longitude: 7.33972
 images:
-  - "/images-sites/zeche-siebenplaneten/01-680cdb25-800w.webp"
+  - "/images/zeche-siebenplaneten/01-680cdb25-800w.webp"
 ---
 
 ## Overview

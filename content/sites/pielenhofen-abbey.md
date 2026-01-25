@@ -21,7 +21,7 @@ longitude: 11.956923189
 
 # Images
 images:
-  - "/images-sites/pielenhofen-abbey/01-d3df2022-800w.webp"
+  - "/images/pielenhofen-abbey/01-d3df2022-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.118398
 longitude: 13.49909
 images:
-  - "/images-sites/st-georges-chapel-templin/01-60e31f51-800w.webp"
+  - "/images/st-georges-chapel-templin/01-60e31f51-800w.webp"
 ---
 
 ## Overview

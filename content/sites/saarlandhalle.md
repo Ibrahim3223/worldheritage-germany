@@ -13,9 +13,9 @@ regions:
 latitude: 49.24917
 longitude: 6.98603
 images:
-  - "/images-sites/saarlandhalle/01-fd50f6b6-800w.webp"
-  - "/images-sites/saarlandhalle/02-44df09a5-800w.webp"
-  - "/images-sites/saarlandhalle/03-64f69f63-800w.webp"
+  - "/images/saarlandhalle/01-fd50f6b6-800w.webp"
+  - "/images/saarlandhalle/02-44df09a5-800w.webp"
+  - "/images/saarlandhalle/03-64f69f63-800w.webp"
 ---
 
 ## Overview

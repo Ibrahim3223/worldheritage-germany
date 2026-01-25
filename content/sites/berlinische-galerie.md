@@ -1,29 +1,50 @@
 ---
-title: "Berlinische Galerie"
+title: Berlinische Galerie
 date: 2026-01-23
 draft: false
-description: "museum of modern art, photography and architecture in Berlin's Kreuzberg district"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum of modern art, photography and architecture in Berlin's Kreuzberg
+  district
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.5039
 longitude: 13.3981
-
-# Images
 images:
-  - "/images-sites/berlinische-galerie/01-9209341a-800w.webp"
-  - "/images-sites/berlinische-galerie/02-4ef81f52-800w.webp"
-  - "/images-sites/berlinische-galerie/03-de408112-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2012-08_Berlinische_Galerie_anagoria.JPG/1200px-2012-08_Berlinische_Galerie_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2012_Berlinische_Galerie_Eingang_anagoria.JPG/1200px-2012_Berlinische_Galerie_Eingang_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlinische_Galerie_2024.jpg/1200px-Berlinische_Galerie_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1200px-Berlinische_Galerie_aussen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berlinische_Galerie_und_Berlin-Kreuzberg.jpg/1200px-Berlinische_Galerie_und_Berlin-Kreuzberg.jpg
+image_srcset:
+  2012-08 Berlinische Galerie anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2012-08_Berlinische_Galerie_anagoria.JPG/400px-2012-08_Berlinische_Galerie_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2012-08_Berlinische_Galerie_anagoria.JPG/800px-2012-08_Berlinische_Galerie_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2012-08_Berlinische_Galerie_anagoria.JPG/1200px-2012-08_Berlinische_Galerie_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2012-08_Berlinische_Galerie_anagoria.JPG/1920px-2012-08_Berlinische_Galerie_anagoria.JPG
+  2012 Berlinische Galerie Eingang anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2012_Berlinische_Galerie_Eingang_anagoria.JPG/400px-2012_Berlinische_Galerie_Eingang_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2012_Berlinische_Galerie_Eingang_anagoria.JPG/800px-2012_Berlinische_Galerie_Eingang_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2012_Berlinische_Galerie_Eingang_anagoria.JPG/1200px-2012_Berlinische_Galerie_Eingang_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2012_Berlinische_Galerie_Eingang_anagoria.JPG/1920px-2012_Berlinische_Galerie_Eingang_anagoria.JPG
+  Berlinische Galerie 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlinische_Galerie_2024.jpg/400px-Berlinische_Galerie_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlinische_Galerie_2024.jpg/800px-Berlinische_Galerie_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlinische_Galerie_2024.jpg/1200px-Berlinische_Galerie_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Berlinische_Galerie_2024.jpg/1920px-Berlinische_Galerie_2024.jpg
+  Berlinische Galerie aussen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/400px-Berlinische_Galerie_aussen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/800px-Berlinische_Galerie_aussen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1200px-Berlinische_Galerie_aussen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlinische_Galerie_aussen.JPG/1920px-Berlinische_Galerie_aussen.JPG
+  Berlinische Galerie und Berlin-Kreuzberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berlinische_Galerie_und_Berlin-Kreuzberg.jpg/400px-Berlinische_Galerie_und_Berlin-Kreuzberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berlinische_Galerie_und_Berlin-Kreuzberg.jpg/800px-Berlinische_Galerie_und_Berlin-Kreuzberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berlinische_Galerie_und_Berlin-Kreuzberg.jpg/1200px-Berlinische_Galerie_und_Berlin-Kreuzberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Berlinische_Galerie_und_Berlin-Kreuzberg.jpg/1920px-Berlinische_Galerie_und_Berlin-Kreuzberg.jpg
 ---
 
 ## Overview

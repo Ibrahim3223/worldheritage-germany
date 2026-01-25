@@ -13,7 +13,7 @@ regions:
 latitude: 50.9814
 longitude: 11.0275
 images:
-  - "/images-sites/kunstgewerbeschule-erfurt/01-4dc684b7-800w.webp"
+  - "/images/kunstgewerbeschule-erfurt/01-4dc684b7-800w.webp"
 ---
 
 ## Overview

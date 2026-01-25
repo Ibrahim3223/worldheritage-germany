@@ -1,27 +1,52 @@
 ---
-title: "Augusteum"
+title: Augusteum
 date: 2026-01-23
 draft: false
-description: "art museum in Oldenburg founded in 1876 by Peter II, Grand Duke of Oldenburg and named after his father the art collector"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Oldenburg founded in 1876 by Peter II, Grand Duke of Oldenburg
+  and named after his father the art collector
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.1362
 longitude: 8.21659
-
-# Images
 images:
-  - "/images-sites/augusteum/01-3786dbc9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg/1200px-02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg/1200px-Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAMARIE_AUGUSTEUM_08_08_2019.jpg/1200px-SAMARIE_AUGUSTEUM_08_08_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1200px-Augusteum_Oldenburg_20141230.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oldenburg_Mühlenhunte.JPG/1200px-Oldenburg_Mühlenhunte.JPG
+image_srcset:
+  ? 02 2020 Grecia photo Paolo Villa FO190035 (Museo archeologico di Olimpia - Torso
+    di statua tipo Zeus, Epoca impero romano augusteo I sec a.C., marmo pentelico,
+    senza gimp).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg/400px-02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg/800px-02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg/1200px-02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg/1920px-02_2020_Grecia_photo_Paolo_Villa_FO190035_(Museo_archeologico_di_Olimpia_-_Torso_di_statua_tipo_Zeus,_Epoca_impero_romano_augusteo_I_sec_a.C.,_marmo_pentelico,_senza_gimp).jpg
+  Augusteum - Kunstmuseum in Oldenburg (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg/400px-Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg/800px-Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg/1200px-Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg/1920px-Augusteum_-_Kunstmuseum_in_Oldenburg_(2025).jpg
+  SAMARIE AUGUSTEUM 08 08 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAMARIE_AUGUSTEUM_08_08_2019.jpg/400px-SAMARIE_AUGUSTEUM_08_08_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAMARIE_AUGUSTEUM_08_08_2019.jpg/800px-SAMARIE_AUGUSTEUM_08_08_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAMARIE_AUGUSTEUM_08_08_2019.jpg/1200px-SAMARIE_AUGUSTEUM_08_08_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAMARIE_AUGUSTEUM_08_08_2019.jpg/1920px-SAMARIE_AUGUSTEUM_08_08_2019.jpg
+  Augusteum Oldenburg 20141230.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/400px-Augusteum_Oldenburg_20141230.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/800px-Augusteum_Oldenburg_20141230.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1200px-Augusteum_Oldenburg_20141230.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Augusteum_Oldenburg_20141230.jpg/1920px-Augusteum_Oldenburg_20141230.jpg
+  Oldenburg Mühlenhunte.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oldenburg_Mühlenhunte.JPG/400px-Oldenburg_Mühlenhunte.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oldenburg_Mühlenhunte.JPG/800px-Oldenburg_Mühlenhunte.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oldenburg_Mühlenhunte.JPG/1200px-Oldenburg_Mühlenhunte.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Oldenburg_Mühlenhunte.JPG/1920px-Oldenburg_Mühlenhunte.JPG
 ---
 
 ## Overview

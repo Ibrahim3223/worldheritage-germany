@@ -21,7 +21,7 @@ longitude: 11.0225
 
 # Images
 images:
-  - "/images-sites/schloss-rosenau/01-ccdec12a-800w.webp"
+  - "/images/schloss-rosenau/01-ccdec12a-800w.webp"
 ---
 
 ## Overview

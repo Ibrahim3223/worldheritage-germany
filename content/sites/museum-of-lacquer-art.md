@@ -13,8 +13,8 @@ regions:
 latitude: 51.9578
 longitude: 7.63125
 images:
-  - "/images-sites/museum-of-lacquer-art/01-47f4442a-800w.webp"
-  - "/images-sites/museum-of-lacquer-art/03-822ebdd1-800w.webp"
+  - "/images/museum-of-lacquer-art/01-47f4442a-800w.webp"
+  - "/images/museum-of-lacquer-art/03-822ebdd1-800w.webp"
 ---
 
 ## Overview

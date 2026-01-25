@@ -1,20 +1,49 @@
 ---
-title: "Borsigplatz"
+title: Borsigplatz
 date: 2026-01-23
 draft: false
-description: "square in Dortmund"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Dortmund
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 51.523333055
 longitude: 7.481666944
 images:
-  - "/images-sites/borsigplatz/02-b0a8a979-800w.webp"
-  - "/images-sites/borsigplatz/03-2119476b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BVB_Fanhouse,_Borsigplatz_Dortmund.jpg/1200px-BVB_Fanhouse,_Borsigplatz_Dortmund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Borsigplatz_Quartier_Dortmund.jpg/1200px-Borsigplatz_Quartier_Dortmund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg/1200px-Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dortmund-Borsigplatz.jpg/1200px-Dortmund-Borsigplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Borsigplatz_IMGP0810.jpg/1200px-Borsigplatz_IMGP0810.jpg
+image_srcset:
+  BVB Fanhouse, Borsigplatz Dortmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BVB_Fanhouse,_Borsigplatz_Dortmund.jpg/400px-BVB_Fanhouse,_Borsigplatz_Dortmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BVB_Fanhouse,_Borsigplatz_Dortmund.jpg/800px-BVB_Fanhouse,_Borsigplatz_Dortmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BVB_Fanhouse,_Borsigplatz_Dortmund.jpg/1200px-BVB_Fanhouse,_Borsigplatz_Dortmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BVB_Fanhouse,_Borsigplatz_Dortmund.jpg/1920px-BVB_Fanhouse,_Borsigplatz_Dortmund.jpg
+  Borsigplatz Quartier Dortmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Borsigplatz_Quartier_Dortmund.jpg/400px-Borsigplatz_Quartier_Dortmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Borsigplatz_Quartier_Dortmund.jpg/800px-Borsigplatz_Quartier_Dortmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Borsigplatz_Quartier_Dortmund.jpg/1200px-Borsigplatz_Quartier_Dortmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Borsigplatz_Quartier_Dortmund.jpg/1920px-Borsigplatz_Quartier_Dortmund.jpg
+  Meisterfeier 2012 Borsigplatz 01 Panorama Stereografisch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg/400px-Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg/800px-Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg/1200px-Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg/1920px-Meisterfeier_2012_Borsigplatz_01_Panorama_Stereografisch.jpg
+  Dortmund-Borsigplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dortmund-Borsigplatz.jpg/400px-Dortmund-Borsigplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dortmund-Borsigplatz.jpg/800px-Dortmund-Borsigplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dortmund-Borsigplatz.jpg/1200px-Dortmund-Borsigplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dortmund-Borsigplatz.jpg/1920px-Dortmund-Borsigplatz.jpg
+  Borsigplatz IMGP0810.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Borsigplatz_IMGP0810.jpg/400px-Borsigplatz_IMGP0810.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Borsigplatz_IMGP0810.jpg/800px-Borsigplatz_IMGP0810.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Borsigplatz_IMGP0810.jpg/1200px-Borsigplatz_IMGP0810.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Borsigplatz_IMGP0810.jpg/1920px-Borsigplatz_IMGP0810.jpg
 ---
 
 ## Overview

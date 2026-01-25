@@ -13,7 +13,7 @@ regions:
 latitude: 54.474166666
 longitude: 13.173333333
 images:
-  - "/images-sites/ummanz/01-673c74de-800w.webp"
+  - "/images/ummanz/01-673c74de-800w.webp"
 ---
 
 ## Overview

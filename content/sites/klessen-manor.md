@@ -13,7 +13,7 @@ regions:
 latitude: 52.73944
 longitude: 12.495557
 images:
-  - "/images-sites/klessen-manor/01-56cd33ea-800w.webp"
+  - "/images/klessen-manor/01-56cd33ea-800w.webp"
 ---
 
 ## Overview

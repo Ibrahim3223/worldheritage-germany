@@ -13,7 +13,7 @@ regions:
 latitude: 51.64605
 longitude: 10.50544
 images:
-  - "/images-sites/oder-dam/01-b7558e02-800w.webp"
+  - "/images/oder-dam/01-b7558e02-800w.webp"
 ---
 
 ## Overview

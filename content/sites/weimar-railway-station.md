@@ -13,7 +13,7 @@ regions:
 latitude: 50.9917
 longitude: 11.3269
 images:
-  - "/images-sites/weimar-railway-station/01-8bc2c036-800w.webp"
+  - "/images/weimar-railway-station/01-8bc2c036-800w.webp"
 ---
 
 ## Overview

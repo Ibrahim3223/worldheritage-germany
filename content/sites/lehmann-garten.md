@@ -21,9 +21,9 @@ longitude: 13.5273
 
 # Images
 images:
-  - "/images-sites/lehmann-garten/01-781631c0-800w.webp"
-  - "/images-sites/lehmann-garten/02-d780b70e-800w.webp"
-  - "/images-sites/lehmann-garten/03-9c808d9d-800w.webp"
+  - "/images/lehmann-garten/01-781631c0-800w.webp"
+  - "/images/lehmann-garten/02-d780b70e-800w.webp"
+  - "/images/lehmann-garten/03-9c808d9d-800w.webp"
 ---
 
 ## Overview

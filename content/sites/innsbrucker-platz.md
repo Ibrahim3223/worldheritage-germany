@@ -1,21 +1,49 @@
 ---
-title: "Innsbrucker Platz"
+title: Innsbrucker Platz
 date: 2026-01-23
 draft: false
-description: "square in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4786
 longitude: 13.3439
 images:
-  - "/images-sites/innsbrucker-platz/01-7c56e80b-800w.webp"
-  - "/images-sites/innsbrucker-platz/02-57266f18-800w.webp"
-  - "/images-sites/innsbrucker-platz/03-ac506803-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg/1200px-Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/S-bahnhof_innsbrucker-platz_2022-06-29.png/1200px-S-bahnhof_innsbrucker-platz_2022-06-29.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png/1200px-Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eisackstr_muelleimer_2021-08-18.png/1200px-Eisackstr_muelleimer_2021-08-18.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/S-Bahn_Berlin_Innsbrucker_Platz.JPG/1200px-S-Bahn_Berlin_Innsbrucker_Platz.JPG
+image_srcset:
+  Berlin S-Bahn Bhf Innsbrucker Platz (S41 1986).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg/400px-Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg/800px-Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg/1200px-Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg/1920px-Berlin_S-Bahn_Bhf_Innsbrucker_Platz_(S41_1986).jpg
+  S-bahnhof innsbrucker-platz 2022-06-29.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/S-bahnhof_innsbrucker-platz_2022-06-29.png/400px-S-bahnhof_innsbrucker-platz_2022-06-29.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/S-bahnhof_innsbrucker-platz_2022-06-29.png/800px-S-bahnhof_innsbrucker-platz_2022-06-29.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/S-bahnhof_innsbrucker-platz_2022-06-29.png/1200px-S-bahnhof_innsbrucker-platz_2022-06-29.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/S-bahnhof_innsbrucker-platz_2022-06-29.png/1920px-S-bahnhof_innsbrucker-platz_2022-06-29.png
+  Friedenauer-hoehe baustelle v s-bahn innsbrucker-platz 2022-06-29.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png/400px-Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png/800px-Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png/1200px-Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png/1920px-Friedenauer-hoehe_baustelle_v_s-bahn_innsbrucker-platz_2022-06-29.png
+  Eisackstr muelleimer 2021-08-18.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eisackstr_muelleimer_2021-08-18.png/400px-Eisackstr_muelleimer_2021-08-18.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eisackstr_muelleimer_2021-08-18.png/800px-Eisackstr_muelleimer_2021-08-18.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eisackstr_muelleimer_2021-08-18.png/1200px-Eisackstr_muelleimer_2021-08-18.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eisackstr_muelleimer_2021-08-18.png/1920px-Eisackstr_muelleimer_2021-08-18.png
+  S-Bahn Berlin Innsbrucker Platz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/S-Bahn_Berlin_Innsbrucker_Platz.JPG/400px-S-Bahn_Berlin_Innsbrucker_Platz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/S-Bahn_Berlin_Innsbrucker_Platz.JPG/800px-S-Bahn_Berlin_Innsbrucker_Platz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/S-Bahn_Berlin_Innsbrucker_Platz.JPG/1200px-S-Bahn_Berlin_Innsbrucker_Platz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/S-Bahn_Berlin_Innsbrucker_Platz.JPG/1920px-S-Bahn_Berlin_Innsbrucker_Platz.JPG
 ---
 
 ## Overview

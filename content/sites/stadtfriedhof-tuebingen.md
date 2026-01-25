@@ -13,7 +13,7 @@ regions:
 latitude: 48.525988888
 longitude: 9.057172222
 images:
-  - "/images-sites/stadtfriedhof-tuebingen/01-4cf622d3-800w.webp"
+  - "/images/stadtfriedhof-tuebingen/01-4cf622d3-800w.webp"
 ---
 
 ## Overview

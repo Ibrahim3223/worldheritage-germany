@@ -13,7 +13,7 @@ regions:
 latitude: 52.4283
 longitude: 7.09194
 images:
-  - "/images-sites/tierpark-nordhorn/01-0c98055c-800w.webp"
+  - "/images/tierpark-nordhorn/01-0c98055c-800w.webp"
 ---
 
 ## Overview

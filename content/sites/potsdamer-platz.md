@@ -13,7 +13,7 @@ regions:
 latitude: 52.508944444
 longitude: 13.376333333
 images:
-  - "/images-sites/potsdamer-platz/01-806dc8ef-800w.webp"
+  - "/images/potsdamer-platz/01-806dc8ef-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.6094
 longitude: 9.9729
 images:
-  - "/images-sites/stavenhagenhaus/01-9875d60e-800w.webp"
-  - "/images-sites/stavenhagenhaus/02-20597177-800w.webp"
-  - "/images-sites/stavenhagenhaus/03-c0164739-800w.webp"
+  - "/images/stavenhagenhaus/01-9875d60e-800w.webp"
+  - "/images/stavenhagenhaus/02-20597177-800w.webp"
+  - "/images/stavenhagenhaus/03-c0164739-800w.webp"
 ---
 
 ## Overview

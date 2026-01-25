@@ -21,7 +21,7 @@ longitude: 9.061194449
 
 # Images
 images:
-  - "/images-sites/ronneburg-castle/01-1f185077-800w.webp"
+  - "/images/ronneburg-castle/01-1f185077-800w.webp"
 ---
 
 ## Overview

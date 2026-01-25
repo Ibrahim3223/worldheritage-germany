@@ -1,29 +1,49 @@
 ---
-title: "Hochburg"
+title: Hochburg
 date: 2026-01-23
 draft: false
-description: "castle ruin between the city of Emmendingen and the village of Sexau"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin between the city of Emmendingen and the village of Sexau
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.1167
 longitude: 7.90056
-
-# Images
 images:
-  - "/images-sites/hochburg/01-78d01462-800w.webp"
-  - "/images-sites/hochburg/02-78b125f0-800w.webp"
-  - "/images-sites/hochburg/03-c631f713-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1200px-Hochburg_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ach_an_der_Salzach_von_Burghausen_aus6.JPG/1200px-Ach_an_der_Salzach_von_Burghausen_aus6.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blanc.jpg/1200px-Blanc.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hochburg-Ach_im_Bezirk_BR.png/1200px-Hochburg-Ach_im_Bezirk_BR.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coat_of_arms_Hochburg-Ach.svg/1200px-Coat_of_arms_Hochburg-Ach.svg.png
+image_srcset:
+  Hochburg Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/400px-Hochburg_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/800px-Hochburg_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1200px-Hochburg_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hochburg_Panorama.jpg/1920px-Hochburg_Panorama.jpg
+  Ach an der Salzach von Burghausen aus6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ach_an_der_Salzach_von_Burghausen_aus6.JPG/400px-Ach_an_der_Salzach_von_Burghausen_aus6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ach_an_der_Salzach_von_Burghausen_aus6.JPG/800px-Ach_an_der_Salzach_von_Burghausen_aus6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ach_an_der_Salzach_von_Burghausen_aus6.JPG/1200px-Ach_an_der_Salzach_von_Burghausen_aus6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ach_an_der_Salzach_von_Burghausen_aus6.JPG/1920px-Ach_an_der_Salzach_von_Burghausen_aus6.JPG
+  Blanc.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blanc.jpg/400px-Blanc.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blanc.jpg/800px-Blanc.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blanc.jpg/1200px-Blanc.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blanc.jpg/1920px-Blanc.jpg
+  Hochburg-Ach im Bezirk BR.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hochburg-Ach_im_Bezirk_BR.png/400px-Hochburg-Ach_im_Bezirk_BR.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hochburg-Ach_im_Bezirk_BR.png/800px-Hochburg-Ach_im_Bezirk_BR.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hochburg-Ach_im_Bezirk_BR.png/1200px-Hochburg-Ach_im_Bezirk_BR.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hochburg-Ach_im_Bezirk_BR.png/1920px-Hochburg-Ach_im_Bezirk_BR.png
+  Coat of arms Hochburg-Ach.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coat_of_arms_Hochburg-Ach.svg/400px-Coat_of_arms_Hochburg-Ach.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coat_of_arms_Hochburg-Ach.svg/800px-Coat_of_arms_Hochburg-Ach.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coat_of_arms_Hochburg-Ach.svg/1200px-Coat_of_arms_Hochburg-Ach.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coat_of_arms_Hochburg-Ach.svg/1920px-Coat_of_arms_Hochburg-Ach.svg.png
 ---
 
 ## Overview

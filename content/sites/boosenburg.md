@@ -1,29 +1,49 @@
 ---
-title: "Boosenburg"
+title: Boosenburg
 date: 2026-01-23
 draft: false
-description: "Castle in Rüdesheim am Rhein, medieval bergfried and later additions"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Rüdesheim am Rhein, medieval bergfried and later additions
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9783
 longitude: 7.91806
-
-# Images
 images:
-  - "/images-sites/boosenburg/01-3375ef96-800w.webp"
-  - "/images-sites/boosenburg/02-1aff1317-800w.webp"
-  - "/images-sites/boosenburg/03-7c6b087d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/1200px-Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J21_638_Rüdesheim,_Brömserburg.jpg/1200px-J21_638_Rüdesheim,_Brömserburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg/1200px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boosenburg.JPG/1200px-Boosenburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg/1200px-Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg
+image_srcset:
+  Boosenburg and Brömserburg, Rüdesheim, West view 20140928 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/400px-Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/800px-Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/1200px-Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg/1920px-Boosenburg_and_Brömserburg,_Rüdesheim,_West_view_20140928_1.jpg
+  J21 638 Rüdesheim, Brömserburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J21_638_Rüdesheim,_Brömserburg.jpg/400px-J21_638_Rüdesheim,_Brömserburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J21_638_Rüdesheim,_Brömserburg.jpg/800px-J21_638_Rüdesheim,_Brömserburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J21_638_Rüdesheim,_Brömserburg.jpg/1200px-J21_638_Rüdesheim,_Brömserburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J21_638_Rüdesheim,_Brömserburg.jpg/1920px-J21_638_Rüdesheim,_Brömserburg.jpg
+  Joseph Knippenberg, Rheinisches Bildarchiv, rba 225416 kni.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg/400px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg/800px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg/1200px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg/1920px-Joseph_Knippenberg,_Rheinisches_Bildarchiv,_rba_225416_kni.jpg
+  Boosenburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boosenburg.JPG/400px-Boosenburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boosenburg.JPG/800px-Boosenburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boosenburg.JPG/1200px-Boosenburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boosenburg.JPG/1920px-Boosenburg.JPG
+  Carl Swoboda - The feast at Boosenburg, 1045.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg/400px-Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg/800px-Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg/1200px-Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg/1920px-Carl_Swoboda_-_The_feast_at_Boosenburg,_1045.jpg
 ---
 
 ## Overview

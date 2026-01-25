@@ -1,27 +1,49 @@
 ---
-title: "Fabergé Museum"
+title: Fabergé Museum
 date: 2026-01-23
 draft: false
-description: "museum in Baden-Baden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Baden-Baden
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.7621
 longitude: 8.2434
-
-# Images
 images:
-  - "/images-sites/faberg-museum/01-0ea49319-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg/1200px-Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg/1200px-Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1200px-Fabergé_Museum_Baden-Baden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baden_baden_2016_0025.jpg/1200px-Baden_baden_2016_0025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Baden_baden_2016_0026.jpg/1200px-Baden_baden_2016_0026.jpg
+image_srcset:
+  Baden-Baden-Faberge-Museum-Schild russisch-2020-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg/400px-Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg/800px-Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg/1200px-Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg/1920px-Baden-Baden-Faberge-Museum-Schild_russisch-2020-gje.jpg
+  Fontanka 21 Shuvalov Palace Apr 2015 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg/400px-Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg/800px-Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg/1200px-Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg/1920px-Fontanka_21_Shuvalov_Palace_Apr_2015_04.jpg
+  Fabergé Museum Baden-Baden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/400px-Fabergé_Museum_Baden-Baden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/800px-Fabergé_Museum_Baden-Baden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1200px-Fabergé_Museum_Baden-Baden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fabergé_Museum_Baden-Baden.JPG/1920px-Fabergé_Museum_Baden-Baden.JPG
+  Baden baden 2016 0025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baden_baden_2016_0025.jpg/400px-Baden_baden_2016_0025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baden_baden_2016_0025.jpg/800px-Baden_baden_2016_0025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baden_baden_2016_0025.jpg/1200px-Baden_baden_2016_0025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Baden_baden_2016_0025.jpg/1920px-Baden_baden_2016_0025.jpg
+  Baden baden 2016 0026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Baden_baden_2016_0026.jpg/400px-Baden_baden_2016_0026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Baden_baden_2016_0026.jpg/800px-Baden_baden_2016_0026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Baden_baden_2016_0026.jpg/1200px-Baden_baden_2016_0026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Baden_baden_2016_0026.jpg/1920px-Baden_baden_2016_0026.jpg
 ---
 
 ## Overview

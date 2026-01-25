@@ -1,19 +1,49 @@
 ---
-title: "Gudelacksee"
+title: Gudelacksee
 date: 2026-01-23
 draft: false
-description: "lake in Lindow, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Lindow, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.983333333
 longitude: 12.95
 images:
-  - "/images-sites/gudelacksee/01-3a936ca2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg/1200px-2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2014-08-17_Gudelacksee_132.jpg/1200px-2014-08-17_Gudelacksee_132.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gudelacksee-15-XI-2007-005.jpg/1200px-Gudelacksee-15-XI-2007-005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gudelacksee-15-XI-2007-009.jpg/1200px-Gudelacksee-15-XI-2007-009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg/1200px-2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg
+image_srcset:
+  2014-08-09 Gudelacksee Dampferanlegestelle 321.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg/400px-2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg/800px-2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg/1200px-2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg/1920px-2014-08-09_Gudelacksee_Dampferanlegestelle_321.jpg
+  2014-08-17 Gudelacksee 132.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2014-08-17_Gudelacksee_132.jpg/400px-2014-08-17_Gudelacksee_132.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2014-08-17_Gudelacksee_132.jpg/800px-2014-08-17_Gudelacksee_132.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2014-08-17_Gudelacksee_132.jpg/1200px-2014-08-17_Gudelacksee_132.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2014-08-17_Gudelacksee_132.jpg/1920px-2014-08-17_Gudelacksee_132.jpg
+  Gudelacksee-15-XI-2007-005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gudelacksee-15-XI-2007-005.jpg/400px-Gudelacksee-15-XI-2007-005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gudelacksee-15-XI-2007-005.jpg/800px-Gudelacksee-15-XI-2007-005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gudelacksee-15-XI-2007-005.jpg/1200px-Gudelacksee-15-XI-2007-005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gudelacksee-15-XI-2007-005.jpg/1920px-Gudelacksee-15-XI-2007-005.jpg
+  Gudelacksee-15-XI-2007-009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gudelacksee-15-XI-2007-009.jpg/400px-Gudelacksee-15-XI-2007-009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gudelacksee-15-XI-2007-009.jpg/800px-Gudelacksee-15-XI-2007-009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gudelacksee-15-XI-2007-009.jpg/1200px-Gudelacksee-15-XI-2007-009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gudelacksee-15-XI-2007-009.jpg/1920px-Gudelacksee-15-XI-2007-009.jpg
+  2012-05-12 Gudelacksee von der Insel Werder 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg/400px-2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg/800px-2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg/1200px-2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg/1920px-2012-05-12_Gudelacksee_von_der_Insel_Werder_012.jpg
 ---
 
 ## Overview

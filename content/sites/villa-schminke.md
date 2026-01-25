@@ -13,9 +13,9 @@ regions:
 latitude: 51.1004
 longitude: 14.6594
 images:
-  - "/images-sites/villa-schminke/01-beba0ded-800w.webp"
-  - "/images-sites/villa-schminke/02-3946e005-800w.webp"
-  - "/images-sites/villa-schminke/03-c8bb0e52-800w.webp"
+  - "/images/villa-schminke/01-beba0ded-800w.webp"
+  - "/images/villa-schminke/02-3946e005-800w.webp"
+  - "/images/villa-schminke/03-c8bb0e52-800w.webp"
 ---
 
 ## Overview

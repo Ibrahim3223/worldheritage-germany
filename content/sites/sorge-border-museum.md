@@ -13,9 +13,9 @@ regions:
 latitude: 51.6949
 longitude: 10.6859
 images:
-  - "/images-sites/sorge-border-museum/01-4c08882e-800w.webp"
-  - "/images-sites/sorge-border-museum/02-d81ae35e-800w.webp"
-  - "/images-sites/sorge-border-museum/03-5533db40-800w.webp"
+  - "/images/sorge-border-museum/01-4c08882e-800w.webp"
+  - "/images/sorge-border-museum/02-d81ae35e-800w.webp"
+  - "/images/sorge-border-museum/03-5533db40-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.4585184
 longitude: 10.4681893
 images:
-  - "/images-sites/rauhhorn/01-97b3032b-800w.webp"
+  - "/images/rauhhorn/01-97b3032b-800w.webp"
 ---
 
 ## Overview

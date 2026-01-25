@@ -1,24 +1,51 @@
 ---
-title: "Antoniterkirche"
-site_name: "Antoniterkirche"
-slug: "antoniterkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Antoniterkirche
+site_name: Antoniterkirche
+slug: antoniterkirche
+region: North Rhine-Westphalia
 latitude: 50.93622
 longitude: 6.95315
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q606488"
-description: "In the heart of Cologne’s Altstadt-Nord region, the Antoniterkirche stands as a remarkable example of Gothic architecture, captivating visitors with its..."
+- church building
+- religious site
+wikidata_id: Q606488
+description: In the heart of Cologne’s Altstadt-Nord region, the Antoniterkirche stands
+  as a remarkable example of Gothic architecture, captivating visitors with its...
 images:
-  - "/images-sites/antoniterkirche/01-ac729936-1920w.webp"
-  - "/images-sites/antoniterkirche/02-d173b8b5-1920w.webp"
-  - "/images-sites/antoniterkirche/03-348290c6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg/1200px-Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antoniterkirche_Köln-4493.jpg/1200px-Antoniterkirche_Köln-4493.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antoniterkirche_Köln-3844.jpg/1200px-Antoniterkirche_Köln-3844.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antoniterkirche_(Köln)_(04)_a.jpg/1200px-Antoniterkirche_(Köln)_(04)_a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antoniterkirche_Koeln_(0159-61).jpg/1200px-Antoniterkirche_Koeln_(0159-61).jpg
+image_srcset:
+  Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg/400px-Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg/800px-Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg/1200px-Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg/1920px-Antoniterkirche%20%28K%C3%B6ln%29%20%2804%29%20a.jpg
+  Antoniterkirche Köln-4493.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antoniterkirche_Köln-4493.jpg/400px-Antoniterkirche_Köln-4493.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antoniterkirche_Köln-4493.jpg/800px-Antoniterkirche_Köln-4493.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antoniterkirche_Köln-4493.jpg/1200px-Antoniterkirche_Köln-4493.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Antoniterkirche_Köln-4493.jpg/1920px-Antoniterkirche_Köln-4493.jpg
+  Antoniterkirche Köln-3844.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antoniterkirche_Köln-3844.jpg/400px-Antoniterkirche_Köln-3844.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antoniterkirche_Köln-3844.jpg/800px-Antoniterkirche_Köln-3844.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antoniterkirche_Köln-3844.jpg/1200px-Antoniterkirche_Köln-3844.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Antoniterkirche_Köln-3844.jpg/1920px-Antoniterkirche_Köln-3844.jpg
+  Antoniterkirche (Köln) (04) a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antoniterkirche_(Köln)_(04)_a.jpg/400px-Antoniterkirche_(Köln)_(04)_a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antoniterkirche_(Köln)_(04)_a.jpg/800px-Antoniterkirche_(Köln)_(04)_a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antoniterkirche_(Köln)_(04)_a.jpg/1200px-Antoniterkirche_(Köln)_(04)_a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antoniterkirche_(Köln)_(04)_a.jpg/1920px-Antoniterkirche_(Köln)_(04)_a.jpg
+  Antoniterkirche Koeln (0159-61).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antoniterkirche_Koeln_(0159-61).jpg/400px-Antoniterkirche_Koeln_(0159-61).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antoniterkirche_Koeln_(0159-61).jpg/800px-Antoniterkirche_Koeln_(0159-61).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antoniterkirche_Koeln_(0159-61).jpg/1200px-Antoniterkirche_Koeln_(0159-61).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antoniterkirche_Koeln_(0159-61).jpg/1920px-Antoniterkirche_Koeln_(0159-61).jpg
 ---
 
 ## Overview

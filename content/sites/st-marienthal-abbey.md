@@ -13,8 +13,8 @@ regions:
 latitude: 50.997971
 longitude: 14.924648
 images:
-  - "/images-sites/st-marienthal-abbey/02-098d86db-800w.webp"
-  - "/images-sites/st-marienthal-abbey/03-3750bc37-800w.webp"
+  - "/images/st-marienthal-abbey/02-098d86db-800w.webp"
+  - "/images/st-marienthal-abbey/03-3750bc37-800w.webp"
 ---
 
 ## Overview

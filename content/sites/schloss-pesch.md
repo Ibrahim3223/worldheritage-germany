@@ -13,7 +13,7 @@ regions:
 latitude: 51.296666666
 longitude: 6.645
 images:
-  - "/images-sites/schloss-pesch/01-72d5fd3b-800w.webp"
+  - "/images/schloss-pesch/01-72d5fd3b-800w.webp"
 ---
 
 ## Overview

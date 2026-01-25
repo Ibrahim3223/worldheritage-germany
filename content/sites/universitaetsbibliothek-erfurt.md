@@ -13,7 +13,7 @@ regions:
 latitude: 50.98907
 longitude: 11.01438
 images:
-  - "/images-sites/universitaetsbibliothek-erfurt/01-beefe62d-800w.webp"
+  - "/images/universitaetsbibliothek-erfurt/01-beefe62d-800w.webp"
 ---
 
 ## Overview 

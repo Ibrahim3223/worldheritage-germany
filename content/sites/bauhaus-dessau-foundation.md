@@ -1,27 +1,49 @@
 ---
-title: "Bauhaus Dessau Foundation"
+title: Bauhaus Dessau Foundation
 date: 2026-01-23
 draft: false
-description: "German foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: German foundation
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.839504
 longitude: 12.2250714
-
-# Images
 images:
-  - "/images-sites/bauhaus-dessau-foundation/01-69260fe1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1200px-Dessau_Bauhaus_neu.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bauhaus.JPG/1200px-Bauhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stiftungbauhaus_logo_old.png/1200px-Stiftungbauhaus_logo_old.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stiftungbauhaus_logo.png/1200px-Stiftungbauhaus_logo.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bauhaus_Stiftung_Logo.png/1200px-Bauhaus_Stiftung_Logo.png
+image_srcset:
+  Dessau Bauhaus neu.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/400px-Dessau_Bauhaus_neu.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/800px-Dessau_Bauhaus_neu.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1200px-Dessau_Bauhaus_neu.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dessau_Bauhaus_neu.JPG/1920px-Dessau_Bauhaus_neu.JPG
+  Bauhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bauhaus.JPG/400px-Bauhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bauhaus.JPG/800px-Bauhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bauhaus.JPG/1200px-Bauhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bauhaus.JPG/1920px-Bauhaus.JPG
+  Stiftungbauhaus logo old.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stiftungbauhaus_logo_old.png/400px-Stiftungbauhaus_logo_old.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stiftungbauhaus_logo_old.png/800px-Stiftungbauhaus_logo_old.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stiftungbauhaus_logo_old.png/1200px-Stiftungbauhaus_logo_old.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Stiftungbauhaus_logo_old.png/1920px-Stiftungbauhaus_logo_old.png
+  Stiftungbauhaus logo.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stiftungbauhaus_logo.png/400px-Stiftungbauhaus_logo.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stiftungbauhaus_logo.png/800px-Stiftungbauhaus_logo.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stiftungbauhaus_logo.png/1200px-Stiftungbauhaus_logo.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stiftungbauhaus_logo.png/1920px-Stiftungbauhaus_logo.png
+  Bauhaus Stiftung Logo.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bauhaus_Stiftung_Logo.png/400px-Bauhaus_Stiftung_Logo.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bauhaus_Stiftung_Logo.png/800px-Bauhaus_Stiftung_Logo.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bauhaus_Stiftung_Logo.png/1200px-Bauhaus_Stiftung_Logo.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bauhaus_Stiftung_Logo.png/1920px-Bauhaus_Stiftung_Logo.png
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.2608
 longitude: 10.5169
 images:
-  - "/images-sites/synagoge-braunschweig/01-ed146e65-800w.webp"
+  - "/images/synagoge-braunschweig/01-ed146e65-800w.webp"
 ---
 
 ## Overview

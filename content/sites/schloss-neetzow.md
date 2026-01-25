@@ -13,9 +13,9 @@ regions:
 latitude: 53.8803
 longitude: 13.4112
 images:
-  - "/images-sites/schloss-neetzow/01-4a2dbc42-800w.webp"
-  - "/images-sites/schloss-neetzow/02-f540db73-800w.webp"
-  - "/images-sites/schloss-neetzow/03-531b6aae-800w.webp"
+  - "/images/schloss-neetzow/01-4a2dbc42-800w.webp"
+  - "/images/schloss-neetzow/02-f540db73-800w.webp"
+  - "/images/schloss-neetzow/03-531b6aae-800w.webp"
 ---
 
 ## Overview 

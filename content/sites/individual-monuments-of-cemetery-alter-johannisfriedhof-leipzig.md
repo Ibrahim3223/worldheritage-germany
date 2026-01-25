@@ -1,19 +1,49 @@
 ---
-title: "Individual monuments of cemetery Alter Johannisfriedhof, Leipzig"
+title: Individual monuments of cemetery Alter Johannisfriedhof, Leipzig
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument in Saxony, former cemetery in Leipzig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cultural heritage monument in Saxony, former cemetery in Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.337
 longitude: 12.3895
 images:
-  - "/images-sites/individual-monuments-of-cemetery-alter-johannisfriedhof-leipzig/01-79c8f567-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg/1200px-Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alter_Johannisfriedhof_Leipzig_2011.jpg/1200px-Alter_Johannisfriedhof_Leipzig_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1200px-Brockhaus_Gravestones.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/GrabsteinLorenzClasen.JPG/1200px-GrabsteinLorenzClasen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grabplatte_Heine.JPG/1200px-Grabplatte_Heine.JPG
+image_srcset:
+  Leipzig - Täubchenweg - Alter Johannisfriedhof 39 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg/400px-Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg/800px-Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg/1200px-Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg/1920px-Leipzig_-_Täubchenweg_-_Alter_Johannisfriedhof_39_ies.jpg
+  Alter Johannisfriedhof Leipzig 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alter_Johannisfriedhof_Leipzig_2011.jpg/400px-Alter_Johannisfriedhof_Leipzig_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alter_Johannisfriedhof_Leipzig_2011.jpg/800px-Alter_Johannisfriedhof_Leipzig_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alter_Johannisfriedhof_Leipzig_2011.jpg/1200px-Alter_Johannisfriedhof_Leipzig_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alter_Johannisfriedhof_Leipzig_2011.jpg/1920px-Alter_Johannisfriedhof_Leipzig_2011.jpg
+  Brockhaus Gravestones.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/400px-Brockhaus_Gravestones.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/800px-Brockhaus_Gravestones.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1200px-Brockhaus_Gravestones.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brockhaus_Gravestones.jpg/1920px-Brockhaus_Gravestones.jpg
+  GrabsteinLorenzClasen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/GrabsteinLorenzClasen.JPG/400px-GrabsteinLorenzClasen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/GrabsteinLorenzClasen.JPG/800px-GrabsteinLorenzClasen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/GrabsteinLorenzClasen.JPG/1200px-GrabsteinLorenzClasen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/GrabsteinLorenzClasen.JPG/1920px-GrabsteinLorenzClasen.JPG
+  Grabplatte Heine.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grabplatte_Heine.JPG/400px-Grabplatte_Heine.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grabplatte_Heine.JPG/800px-Grabplatte_Heine.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grabplatte_Heine.JPG/1200px-Grabplatte_Heine.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grabplatte_Heine.JPG/1920px-Grabplatte_Heine.JPG
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Düvels Kamp"
+title: Düvels Kamp
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4211
 longitude: 10.155
 images:
-  - "/images-sites/duevels-kamp/01-c00be913-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Düvels_Kamp_(NSG-HA_152)_01.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Düvels_Kamp_(NSG-HA_152)_02.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Düvels_Kamp_(NSG-HA_152)_03.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Düvels_Kamp_(NSG-HA_152)_04.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_04.jpg
+image_srcset:
+  Düvels Kamp (NSG-HA 152) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Düvels_Kamp_(NSG-HA_152)_01.jpg/400px-Düvels_Kamp_(NSG-HA_152)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Düvels_Kamp_(NSG-HA_152)_01.jpg/800px-Düvels_Kamp_(NSG-HA_152)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Düvels_Kamp_(NSG-HA_152)_01.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Düvels_Kamp_(NSG-HA_152)_01.jpg/1920px-Düvels_Kamp_(NSG-HA_152)_01.jpg
+  Düvels Kamp (NSG-HA 152) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Düvels_Kamp_(NSG-HA_152)_02.jpg/400px-Düvels_Kamp_(NSG-HA_152)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Düvels_Kamp_(NSG-HA_152)_02.jpg/800px-Düvels_Kamp_(NSG-HA_152)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Düvels_Kamp_(NSG-HA_152)_02.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Düvels_Kamp_(NSG-HA_152)_02.jpg/1920px-Düvels_Kamp_(NSG-HA_152)_02.jpg
+  Düvels Kamp (NSG-HA 152) 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Düvels_Kamp_(NSG-HA_152)_03.jpg/400px-Düvels_Kamp_(NSG-HA_152)_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Düvels_Kamp_(NSG-HA_152)_03.jpg/800px-Düvels_Kamp_(NSG-HA_152)_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Düvels_Kamp_(NSG-HA_152)_03.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Düvels_Kamp_(NSG-HA_152)_03.jpg/1920px-Düvels_Kamp_(NSG-HA_152)_03.jpg
+  Düvels Kamp (NSG-HA 152) 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Düvels_Kamp_(NSG-HA_152)_04.jpg/400px-Düvels_Kamp_(NSG-HA_152)_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Düvels_Kamp_(NSG-HA_152)_04.jpg/800px-Düvels_Kamp_(NSG-HA_152)_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Düvels_Kamp_(NSG-HA_152)_04.jpg/1200px-Düvels_Kamp_(NSG-HA_152)_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Düvels_Kamp_(NSG-HA_152)_04.jpg/1920px-Düvels_Kamp_(NSG-HA_152)_04.jpg
 ---
 
 ## Overview

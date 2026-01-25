@@ -13,7 +13,7 @@ regions:
 latitude: 49.4614
 longitude: 8.14939
 images:
-  - "/images-sites/palatinate-museum-of-natural-history/01-9c54e070-800w.webp"
+  - "/images/palatinate-museum-of-natural-history/01-9c54e070-800w.webp"
 ---
 
 ## Overview

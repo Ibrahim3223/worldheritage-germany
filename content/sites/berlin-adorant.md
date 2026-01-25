@@ -1,19 +1,49 @@
 ---
-title: "Berlin Adorant"
+title: Berlin Adorant
 date: 2026-01-23
 draft: false
-description: "antique bronze statue, Altes Museum, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: antique bronze statue, Altes Museum, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.519
 longitude: 13.398
 images:
-  - "/images-sites/berlin-adorant/01-1d016b35-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg/1200px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg/1200px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG/1200px-Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1200px-Altes_Museum_-_Betender_Knabe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Der_Betende_Knabe_25.jpg/1200px-Der_Betende_Knabe_25.jpg
+image_srcset:
+  Praying Boy, from Rhodes, ca. 300 BCE; Altes Museum, Berlin (1) (40147598202).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg/400px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg/800px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg/1200px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg/1920px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(1)_(40147598202).jpg
+  Praying Boy, from Rhodes, ca. 300 BCE; Altes Museum, Berlin (2) (25308748587).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg/400px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg/800px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg/1200px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg/1920px-Praying_Boy,_from_Rhodes,_ca._300_BCE;_Altes_Museum,_Berlin_(2)_(25308748587).jpg
+  Statua di giovane detto l'orante, da rodi, 300 ac ca. 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG/400px-Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG/800px-Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG/1200px-Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG/1920px-Statua_di_giovane_detto_l'orante,_da_rodi,_300_ac_ca._01.JPG
+  Altes Museum - Betender Knabe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/400px-Altes_Museum_-_Betender_Knabe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/800px-Altes_Museum_-_Betender_Knabe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1200px-Altes_Museum_-_Betender_Knabe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Altes_Museum_-_Betender_Knabe.jpg/1920px-Altes_Museum_-_Betender_Knabe.jpg
+  Der Betende Knabe 25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Der_Betende_Knabe_25.jpg/400px-Der_Betende_Knabe_25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Der_Betende_Knabe_25.jpg/800px-Der_Betende_Knabe_25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Der_Betende_Knabe_25.jpg/1200px-Der_Betende_Knabe_25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Der_Betende_Knabe_25.jpg/1920px-Der_Betende_Knabe_25.jpg
 ---
 
 ## Overview

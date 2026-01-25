@@ -1,20 +1,49 @@
 ---
-title: "Einfelder See"
+title: Einfelder See
 date: 2026-01-23
 draft: false
-description: "lake in Mühbrook, Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mühbrook, Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.141388888
 longitude: 10.001111111
 images:
-  - "/images-sites/einfelder-see/02-ce8bd199-800w.webp"
-  - "/images-sites/einfelder-see/03-2c9d7982-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Panorama_Einfelder_See_Winter_2010.jpg/1200px-Panorama_Einfelder_See_Winter_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lebenszeichen_von_Wolf_Gloßner_(1989).jpg/1200px-Lebenszeichen_von_Wolf_Gloßner_(1989).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Einfelder_See_Neumünster._Neumuenster.jpg/1200px-Einfelder_See_Neumünster._Neumuenster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einfelder_See_NSG.JPG/1200px-Einfelder_See_NSG.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Einfeld.jpg/1200px-Einfeld.jpg
+image_srcset:
+  Panorama Einfelder See Winter 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Panorama_Einfelder_See_Winter_2010.jpg/400px-Panorama_Einfelder_See_Winter_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Panorama_Einfelder_See_Winter_2010.jpg/800px-Panorama_Einfelder_See_Winter_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Panorama_Einfelder_See_Winter_2010.jpg/1200px-Panorama_Einfelder_See_Winter_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Panorama_Einfelder_See_Winter_2010.jpg/1920px-Panorama_Einfelder_See_Winter_2010.jpg
+  Lebenszeichen von Wolf Gloßner (1989).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lebenszeichen_von_Wolf_Gloßner_(1989).jpg/400px-Lebenszeichen_von_Wolf_Gloßner_(1989).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lebenszeichen_von_Wolf_Gloßner_(1989).jpg/800px-Lebenszeichen_von_Wolf_Gloßner_(1989).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lebenszeichen_von_Wolf_Gloßner_(1989).jpg/1200px-Lebenszeichen_von_Wolf_Gloßner_(1989).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lebenszeichen_von_Wolf_Gloßner_(1989).jpg/1920px-Lebenszeichen_von_Wolf_Gloßner_(1989).jpg
+  Einfelder See Neumünster. Neumuenster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Einfelder_See_Neumünster._Neumuenster.jpg/400px-Einfelder_See_Neumünster._Neumuenster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Einfelder_See_Neumünster._Neumuenster.jpg/800px-Einfelder_See_Neumünster._Neumuenster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Einfelder_See_Neumünster._Neumuenster.jpg/1200px-Einfelder_See_Neumünster._Neumuenster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Einfelder_See_Neumünster._Neumuenster.jpg/1920px-Einfelder_See_Neumünster._Neumuenster.jpg
+  Einfelder See NSG.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einfelder_See_NSG.JPG/400px-Einfelder_See_NSG.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einfelder_See_NSG.JPG/800px-Einfelder_See_NSG.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einfelder_See_NSG.JPG/1200px-Einfelder_See_NSG.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einfelder_See_NSG.JPG/1920px-Einfelder_See_NSG.JPG
+  Einfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Einfeld.jpg/400px-Einfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Einfeld.jpg/800px-Einfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Einfeld.jpg/1200px-Einfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Einfeld.jpg/1920px-Einfeld.jpg
 ---
 
 ## Overview

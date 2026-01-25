@@ -1,29 +1,37 @@
 ---
-title: "Grenzau Castle"
+title: Grenzau Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4503
 longitude: 7.65523
-
-# Images
 images:
-  - "/images-sites/grenzau-castle/01-05f05a35-800w.webp"
-  - "/images-sites/grenzau-castle/02-92792fc2-800w.webp"
-  - "/images-sites/grenzau-castle/03-efe212d3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Grenzau_Panorama.jpg/1200px-Grenzau_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Grenzau_014.JPG/1200px-Burg_Grenzau_014.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1200px-Grenzau_Burg.jpg
+image_srcset:
+  Grenzau Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Grenzau_Panorama.jpg/400px-Grenzau_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Grenzau_Panorama.jpg/800px-Grenzau_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Grenzau_Panorama.jpg/1200px-Grenzau_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Grenzau_Panorama.jpg/1920px-Grenzau_Panorama.jpg
+  Burg Grenzau 014.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Grenzau_014.JPG/400px-Burg_Grenzau_014.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Grenzau_014.JPG/800px-Burg_Grenzau_014.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Grenzau_014.JPG/1200px-Burg_Grenzau_014.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Burg_Grenzau_014.JPG/1920px-Burg_Grenzau_014.JPG
+  Grenzau Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/400px-Grenzau_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/800px-Grenzau_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1200px-Grenzau_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Grenzau_Burg.jpg/1920px-Grenzau_Burg.jpg
 ---
 
 ## Overview

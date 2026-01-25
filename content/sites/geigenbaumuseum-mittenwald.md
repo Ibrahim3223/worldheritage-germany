@@ -1,19 +1,49 @@
 ---
-title: "Geigenbaumuseum Mittenwald"
+title: Geigenbaumuseum Mittenwald
 date: 2026-01-23
 draft: false
-description: "museum in Mittenwald, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Mittenwald, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.442651201
 longitude: 11.260372854
 images:
-  - "/images-sites/geigenbaumuseum-mittenwald/01-10689584-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg/1200px-Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2025MittenwaldGeiegnbaumuseumW.jpg/1200px-2025MittenwaldGeiegnbaumuseumW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2025MittenwaldGeiegnbaumuseumA.jpg/1200px-2025MittenwaldGeiegnbaumuseumA.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg/1200px-Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mittenwald_1_-_26.05.2006.JPG/1200px-Mittenwald_1_-_26.05.2006.JPG
+image_srcset:
+  Mittenwald, Ballenhausgasse 3, Geigenbaumuseum, 6.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg/400px-Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg/800px-Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg/1200px-Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg/1920px-Mittenwald,_Ballenhausgasse_3,_Geigenbaumuseum,_6.jpeg
+  2025MittenwaldGeiegnbaumuseumW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2025MittenwaldGeiegnbaumuseumW.jpg/400px-2025MittenwaldGeiegnbaumuseumW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2025MittenwaldGeiegnbaumuseumW.jpg/800px-2025MittenwaldGeiegnbaumuseumW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2025MittenwaldGeiegnbaumuseumW.jpg/1200px-2025MittenwaldGeiegnbaumuseumW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2025MittenwaldGeiegnbaumuseumW.jpg/1920px-2025MittenwaldGeiegnbaumuseumW.jpg
+  2025MittenwaldGeiegnbaumuseumA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2025MittenwaldGeiegnbaumuseumA.jpg/400px-2025MittenwaldGeiegnbaumuseumA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2025MittenwaldGeiegnbaumuseumA.jpg/800px-2025MittenwaldGeiegnbaumuseumA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2025MittenwaldGeiegnbaumuseumA.jpg/1200px-2025MittenwaldGeiegnbaumuseumA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2025MittenwaldGeiegnbaumuseumA.jpg/1920px-2025MittenwaldGeiegnbaumuseumA.jpg
+  Mittenwald, Geigenbaumuseum in der Ballenhofgasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg/400px-Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg/800px-Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg/1200px-Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg/1920px-Mittenwald,_Geigenbaumuseum_in_der_Ballenhofgasse.jpg
+  Mittenwald 1 - 26.05.2006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mittenwald_1_-_26.05.2006.JPG/400px-Mittenwald_1_-_26.05.2006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mittenwald_1_-_26.05.2006.JPG/800px-Mittenwald_1_-_26.05.2006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mittenwald_1_-_26.05.2006.JPG/1200px-Mittenwald_1_-_26.05.2006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mittenwald_1_-_26.05.2006.JPG/1920px-Mittenwald_1_-_26.05.2006.JPG
 ---
 
 ## Overview

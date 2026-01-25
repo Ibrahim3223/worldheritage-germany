@@ -1,19 +1,49 @@
 ---
-title: "Eliasfriedhof"
+title: Eliasfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0533
 longitude: 13.757
 images:
-  - "/images-sites/eliasfriedhof/01-f078d6f2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eliasfriedhof2016_-_12.jpg/1200px-Eliasfriedhof2016_-_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eliasfriedhof2016_-_2.jpg/1200px-Eliasfriedhof2016_-_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DD-Eliasfriedhof-07.jpg/1200px-DD-Eliasfriedhof-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eliasfriedhof_dd_lichetenegg.JPG/1200px-Eliasfriedhof_dd_lichetenegg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-Eliasfriedhof7.jpg/1200px-Dresden-Eliasfriedhof7.jpg
+image_srcset:
+  Eliasfriedhof2016 - 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eliasfriedhof2016_-_12.jpg/400px-Eliasfriedhof2016_-_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eliasfriedhof2016_-_12.jpg/800px-Eliasfriedhof2016_-_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eliasfriedhof2016_-_12.jpg/1200px-Eliasfriedhof2016_-_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Eliasfriedhof2016_-_12.jpg/1920px-Eliasfriedhof2016_-_12.jpg
+  Eliasfriedhof2016 - 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eliasfriedhof2016_-_2.jpg/400px-Eliasfriedhof2016_-_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eliasfriedhof2016_-_2.jpg/800px-Eliasfriedhof2016_-_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eliasfriedhof2016_-_2.jpg/1200px-Eliasfriedhof2016_-_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eliasfriedhof2016_-_2.jpg/1920px-Eliasfriedhof2016_-_2.jpg
+  DD-Eliasfriedhof-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DD-Eliasfriedhof-07.jpg/400px-DD-Eliasfriedhof-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DD-Eliasfriedhof-07.jpg/800px-DD-Eliasfriedhof-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DD-Eliasfriedhof-07.jpg/1200px-DD-Eliasfriedhof-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DD-Eliasfriedhof-07.jpg/1920px-DD-Eliasfriedhof-07.jpg
+  Eliasfriedhof dd lichetenegg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eliasfriedhof_dd_lichetenegg.JPG/400px-Eliasfriedhof_dd_lichetenegg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eliasfriedhof_dd_lichetenegg.JPG/800px-Eliasfriedhof_dd_lichetenegg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eliasfriedhof_dd_lichetenegg.JPG/1200px-Eliasfriedhof_dd_lichetenegg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eliasfriedhof_dd_lichetenegg.JPG/1920px-Eliasfriedhof_dd_lichetenegg.JPG
+  Dresden-Eliasfriedhof7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-Eliasfriedhof7.jpg/400px-Dresden-Eliasfriedhof7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-Eliasfriedhof7.jpg/800px-Dresden-Eliasfriedhof7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-Eliasfriedhof7.jpg/1200px-Dresden-Eliasfriedhof7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-Eliasfriedhof7.jpg/1920px-Dresden-Eliasfriedhof7.jpg
 ---
 
 ## Overview

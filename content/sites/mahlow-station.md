@@ -13,7 +13,7 @@ regions:
 latitude: 52.3602
 longitude: 13.4085
 images:
-  - "/images-sites/mahlow-station/01-c118e797-800w.webp"
+  - "/images/mahlow-station/01-c118e797-800w.webp"
 ---
 
 ## Overview

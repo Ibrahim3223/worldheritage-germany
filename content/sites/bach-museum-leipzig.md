@@ -1,19 +1,43 @@
 ---
-title: "Bach-Museum Leipzig"
+title: Bach-Museum Leipzig
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.33865
 longitude: 12.37226
 images:
-  - "/images-sites/bach-museum-leipzig/01-884bf976-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bosehaus_Leipzig_Straßenfront_2.jpg/1200px-Bosehaus_Leipzig_Straßenfront_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/1200px-Bosehaus_Leipzig_Straßenfront_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg/1200px-Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bach-Museum_Logo.svg/1200px-Bach-Museum_Logo.svg.png
+image_srcset:
+  Bosehaus Leipzig Straßenfront 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bosehaus_Leipzig_Straßenfront_2.jpg/400px-Bosehaus_Leipzig_Straßenfront_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bosehaus_Leipzig_Straßenfront_2.jpg/800px-Bosehaus_Leipzig_Straßenfront_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bosehaus_Leipzig_Straßenfront_2.jpg/1200px-Bosehaus_Leipzig_Straßenfront_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bosehaus_Leipzig_Straßenfront_2.jpg/1920px-Bosehaus_Leipzig_Straßenfront_2.jpg
+  Bosehaus Leipzig Straßenfront 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/400px-Bosehaus_Leipzig_Straßenfront_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/800px-Bosehaus_Leipzig_Straßenfront_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/1200px-Bosehaus_Leipzig_Straßenfront_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Straßenfront_1.jpg/1920px-Bosehaus_Leipzig_Straßenfront_1.jpg
+  Bundesarchiv Bild 183-M0505-0007, Leipzig, Bach-Gedenkstätte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg/400px-Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg/800px-Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg/1200px-Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg/1920px-Bundesarchiv_Bild_183-M0505-0007,_Leipzig,_Bach-Gedenkstätte.jpg
+  Bach-Museum Logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bach-Museum_Logo.svg/400px-Bach-Museum_Logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bach-Museum_Logo.svg/800px-Bach-Museum_Logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bach-Museum_Logo.svg/1200px-Bach-Museum_Logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bach-Museum_Logo.svg/1920px-Bach-Museum_Logo.svg.png
 ---
 
 ## Overview

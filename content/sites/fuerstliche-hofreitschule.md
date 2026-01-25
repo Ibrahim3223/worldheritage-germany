@@ -1,19 +1,49 @@
 ---
-title: "Fürstliche Hofreitschule"
+title: Fürstliche Hofreitschule
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.259846
 longitude: 9.046372
 images:
-  - "/images-sites/fuerstliche-hofreitschule/01-bebec156-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG/1200px-Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1200px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG/1200px-Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fürstliche_Hofreitschule_-_riding_equipment.JPG/1200px-Fürstliche_Hofreitschule_-_riding_equipment.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG/1200px-Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG
+image_srcset:
+  Fürstliche Hofreitschule - Museum - Equipment.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG/400px-Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG/800px-Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG/1200px-Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG/1920px-Fürstliche_Hofreitschule_-_Museum_-_Equipment.JPG
+  Fürstliche Hofreitschule - door to museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/400px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/800px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1200px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fürstliche_Hofreitschule_-_door_to_museum.JPG/1920px-Fürstliche_Hofreitschule_-_door_to_museum.JPG
+  Fürstliche Hofreitschule - horse in stall with plaque.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG/400px-Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG/800px-Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG/1200px-Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG/1920px-Fürstliche_Hofreitschule_-_horse_in_stall_with_plaque.JPG
+  Fürstliche Hofreitschule - riding equipment.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fürstliche_Hofreitschule_-_riding_equipment.JPG/400px-Fürstliche_Hofreitschule_-_riding_equipment.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fürstliche_Hofreitschule_-_riding_equipment.JPG/800px-Fürstliche_Hofreitschule_-_riding_equipment.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fürstliche_Hofreitschule_-_riding_equipment.JPG/1200px-Fürstliche_Hofreitschule_-_riding_equipment.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fürstliche_Hofreitschule_-_riding_equipment.JPG/1920px-Fürstliche_Hofreitschule_-_riding_equipment.JPG
+  Fürstliche Hofreitschule - tack (saddles and bits) on wall.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG/400px-Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG/800px-Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG/1200px-Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG/1920px-Fürstliche_Hofreitschule_-_tack_(saddles_and_bits)_on_wall.JPG
 ---
 
 ## Overview

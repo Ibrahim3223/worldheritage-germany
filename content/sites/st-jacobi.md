@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1805915"
 description: "In the heart of Göttingen, Germany, the St. Jacobi church rises with a commanding presence, its Gothic architecture a striking feature against the citys..."
 images:
-  - "/images-sites/st-jacobi/01-26bece97-1920w.webp"
-  - "/images-sites/st-jacobi/02-26da84b9-1920w.webp"
-  - "/images-sites/st-jacobi/03-7dbcc830-1920w.webp"
+  - "/images/st-jacobi/01-26bece97-1920w.webp"
+  - "/images/st-jacobi/02-26da84b9-1920w.webp"
+  - "/images/st-jacobi/03-7dbcc830-1920w.webp"
 ---
 
 ## Overview

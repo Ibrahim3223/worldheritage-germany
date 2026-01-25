@@ -1,19 +1,49 @@
 ---
-title: "Futurium"
+title: Futurium
 date: 2026-01-23
 draft: false
-description: "research institute and museum in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: research institute and museum in Berlin
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5238786
 longitude: 13.3743364
 images:
-  - "/images-sites/futurium/01-75dc0df9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/1200px-Mitte_Kapelle-Ufer_Futurium-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-001.jpg/1200px-Futurium_Dauerausstellung-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-002.jpg/1200px-Futurium_Dauerausstellung-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg/1200px-Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Futurium_2.jpg/1200px-Futurium_2.jpg
+image_srcset:
+  Mitte Kapelle-Ufer Futurium-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/400px-Mitte_Kapelle-Ufer_Futurium-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/800px-Mitte_Kapelle-Ufer_Futurium-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/1200px-Mitte_Kapelle-Ufer_Futurium-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mitte_Kapelle-Ufer_Futurium-001.jpg/1920px-Mitte_Kapelle-Ufer_Futurium-001.jpg
+  Futurium Dauerausstellung-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-001.jpg/400px-Futurium_Dauerausstellung-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-001.jpg/800px-Futurium_Dauerausstellung-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-001.jpg/1200px-Futurium_Dauerausstellung-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-001.jpg/1920px-Futurium_Dauerausstellung-001.jpg
+  Futurium Dauerausstellung-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-002.jpg/400px-Futurium_Dauerausstellung-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-002.jpg/800px-Futurium_Dauerausstellung-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-002.jpg/1200px-Futurium_Dauerausstellung-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Futurium_Dauerausstellung-002.jpg/1920px-Futurium_Dauerausstellung-002.jpg
+  Futurium Berlin bei Nacht IMG 20191012 231437 .jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg/400px-Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg/800px-Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg/1200px-Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg/1920px-Futurium_Berlin_bei_Nacht_IMG_20191012_231437_.jpg
+  Futurium 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Futurium_2.jpg/400px-Futurium_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Futurium_2.jpg/800px-Futurium_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Futurium_2.jpg/1200px-Futurium_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Futurium_2.jpg/1920px-Futurium_2.jpg
 ---
 
 ## Overview

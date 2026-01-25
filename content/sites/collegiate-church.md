@@ -1,22 +1,50 @@
 ---
-title: "Collegiate Church"
-site_name: "Collegiate Church"
-slug: "collegiate-church"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Collegiate Church
+site_name: Collegiate Church
+slug: collegiate-church
+region: Rhineland-Palatinate
 latitude: 49.3541
 longitude: 8.13643
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q22603"
-description: "The Collegiate Church in Neustadt an der Weinstraße stands as a remarkable example of Gothic architecture, capturing the spirit of a bygone era. This ch..."
+- cultural site
+wikidata_id: Q22603
+description: The Collegiate Church in Neustadt an der Weinstraße stands as a remarkable
+  example of Gothic architecture, capturing the spirit of a bygone era. This ch...
 images:
-  - "/images-sites/collegiate-church/02-69c531a3-1920w.webp"
-  - "/images-sites/collegiate-church/03-f9156051-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG/1200px-Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg/1200px-Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg/1200px-00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Duomo_di_Chivasso_Italia_3.jpg/1200px-Duomo_di_Chivasso_Italia_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg/1200px-00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg
+image_srcset:
+  Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG/400px-Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG/800px-Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG/1200px-Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG/1920px-Stiftskirche%20NW%2C%20S%C3%BCdweite.JPG
+  Iglesia colegial de Poznan, Poznan, Polonia, 2014-09-18, DD 16-18 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg/400px-Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg/800px-Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg/1200px-Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg/1920px-Iglesia_colegial_de_Poznan,_Poznan,_Polonia,_2014-09-18,_DD_16-18_HDR.jpg
+  00 1668 Stiftskirche in Göppingen-Faurndau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg/400px-00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg/800px-00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg/1200px-00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg/1920px-00_1668_Stiftskirche_in_Göppingen-Faurndau.jpg
+  Duomo di Chivasso Italia 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Duomo_di_Chivasso_Italia_3.jpg/400px-Duomo_di_Chivasso_Italia_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Duomo_di_Chivasso_Italia_3.jpg/800px-Duomo_di_Chivasso_Italia_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Duomo_di_Chivasso_Italia_3.jpg/1200px-Duomo_di_Chivasso_Italia_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Duomo_di_Chivasso_Italia_3.jpg/1920px-Duomo_di_Chivasso_Italia_3.jpg
+  00 2008 07 14 0043 Hechingen - Stiftskirche St. Jakob.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg/400px-00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg/800px-00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg/1200px-00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg/1920px-00_2008_07_14_0043_Hechingen_-_Stiftskirche_St._Jakob.jpg
 ---
 
 ## Overview

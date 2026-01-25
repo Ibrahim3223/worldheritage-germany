@@ -13,7 +13,7 @@ regions:
 latitude: 49.0136
 longitude: 8.40444
 images:
-  - "/images-sites/the-badisches-landesmuseum/01-aab7329d-800w.webp"
+  - "/images/the-badisches-landesmuseum/01-aab7329d-800w.webp"
 ---
 
 ## Overview

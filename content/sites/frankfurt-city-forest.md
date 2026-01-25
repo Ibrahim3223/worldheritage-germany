@@ -1,19 +1,49 @@
 ---
-title: "Frankfurt City Forest"
+title: Frankfurt City Forest
 date: 2026-01-23
 draft: false
-description: "urban forest of Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: urban forest of Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.070833333
 longitude: 8.658333333
 images:
-  - "/images-sites/frankfurt-city-forest/01-c605b4ae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sachsenhausen_Süd_forest_2020-03-27_05.jpg/1200px-Sachsenhausen_Süd_forest_2020-03-27_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schwanheimer_Wald_2020-03-27_03.jpg/1200px-Schwanheimer_Wald_2020-03-27_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schwanheimer_Wald_2020-03-27_07.jpg/1200px-Schwanheimer_Wald_2020-03-27_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schwanheimer_Wald_2020-03-27_08.jpg/1200px-Schwanheimer_Wald_2020-03-27_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Skyline-sued-ffm001.jpg/1200px-Skyline-sued-ffm001.jpg
+image_srcset:
+  Sachsenhausen Süd forest 2020-03-27 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sachsenhausen_Süd_forest_2020-03-27_05.jpg/400px-Sachsenhausen_Süd_forest_2020-03-27_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sachsenhausen_Süd_forest_2020-03-27_05.jpg/800px-Sachsenhausen_Süd_forest_2020-03-27_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sachsenhausen_Süd_forest_2020-03-27_05.jpg/1200px-Sachsenhausen_Süd_forest_2020-03-27_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sachsenhausen_Süd_forest_2020-03-27_05.jpg/1920px-Sachsenhausen_Süd_forest_2020-03-27_05.jpg
+  Schwanheimer Wald 2020-03-27 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schwanheimer_Wald_2020-03-27_03.jpg/400px-Schwanheimer_Wald_2020-03-27_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schwanheimer_Wald_2020-03-27_03.jpg/800px-Schwanheimer_Wald_2020-03-27_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schwanheimer_Wald_2020-03-27_03.jpg/1200px-Schwanheimer_Wald_2020-03-27_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schwanheimer_Wald_2020-03-27_03.jpg/1920px-Schwanheimer_Wald_2020-03-27_03.jpg
+  Schwanheimer Wald 2020-03-27 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schwanheimer_Wald_2020-03-27_07.jpg/400px-Schwanheimer_Wald_2020-03-27_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schwanheimer_Wald_2020-03-27_07.jpg/800px-Schwanheimer_Wald_2020-03-27_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schwanheimer_Wald_2020-03-27_07.jpg/1200px-Schwanheimer_Wald_2020-03-27_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schwanheimer_Wald_2020-03-27_07.jpg/1920px-Schwanheimer_Wald_2020-03-27_07.jpg
+  Schwanheimer Wald 2020-03-27 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schwanheimer_Wald_2020-03-27_08.jpg/400px-Schwanheimer_Wald_2020-03-27_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schwanheimer_Wald_2020-03-27_08.jpg/800px-Schwanheimer_Wald_2020-03-27_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schwanheimer_Wald_2020-03-27_08.jpg/1200px-Schwanheimer_Wald_2020-03-27_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schwanheimer_Wald_2020-03-27_08.jpg/1920px-Schwanheimer_Wald_2020-03-27_08.jpg
+  Skyline-sued-ffm001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Skyline-sued-ffm001.jpg/400px-Skyline-sued-ffm001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Skyline-sued-ffm001.jpg/800px-Skyline-sued-ffm001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Skyline-sued-ffm001.jpg/1200px-Skyline-sued-ffm001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Skyline-sued-ffm001.jpg/1920px-Skyline-sued-ffm001.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Jerichow Monastery"
+title: Jerichow Monastery
 date: 2026-01-23
 draft: false
-description: "former Premonstratensian monastery in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Premonstratensian monastery in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5023
 longitude: 12.0158
 images:
-  - "/images-sites/jerichow-monastery/01-6eb28ded-800w.webp"
-  - "/images-sites/jerichow-monastery/02-e0595c2e-800w.webp"
-  - "/images-sites/jerichow-monastery/03-77ea5d1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg/1200px-Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg/1200px-Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg/1200px-Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elbauen_vor_Kloster_Jerichow_02.jpg/1200px-Elbauen_vor_Kloster_Jerichow_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Die_Elbauen_vor_Kloster_Jerichow.jpg/1200px-Die_Elbauen_vor_Kloster_Jerichow.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Jerichow südl Querschiff u südl. Seiten-Apsis - 991046852209705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg/400px-Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg/800px-Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg/1200px-Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg/1920px-Zentralbibliothek_Zürich_-_Jerichow_südl_Querschiff_u_südl._Seiten-Apsis_-_991046852209705501.jpg
+  Jerichow Stiftskirche St. Marien und St. Nikolaus 664.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg/400px-Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg/800px-Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg/1200px-Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg/1920px-Jerichow_Stiftskirche_St._Marien_und_St._Nikolaus_664.jpg
+  Zentralbibliothek Zürich - Jerichow Chor u Krypta - 991023823569705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg/400px-Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg/800px-Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg/1200px-Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg/1920px-Zentralbibliothek_Zürich_-_Jerichow_Chor_u_Krypta_-_991023823569705501.jpg
+  Elbauen vor Kloster Jerichow 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elbauen_vor_Kloster_Jerichow_02.jpg/400px-Elbauen_vor_Kloster_Jerichow_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elbauen_vor_Kloster_Jerichow_02.jpg/800px-Elbauen_vor_Kloster_Jerichow_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elbauen_vor_Kloster_Jerichow_02.jpg/1200px-Elbauen_vor_Kloster_Jerichow_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Elbauen_vor_Kloster_Jerichow_02.jpg/1920px-Elbauen_vor_Kloster_Jerichow_02.jpg
+  Die Elbauen vor Kloster Jerichow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Die_Elbauen_vor_Kloster_Jerichow.jpg/400px-Die_Elbauen_vor_Kloster_Jerichow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Die_Elbauen_vor_Kloster_Jerichow.jpg/800px-Die_Elbauen_vor_Kloster_Jerichow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Die_Elbauen_vor_Kloster_Jerichow.jpg/1200px-Die_Elbauen_vor_Kloster_Jerichow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Die_Elbauen_vor_Kloster_Jerichow.jpg/1920px-Die_Elbauen_vor_Kloster_Jerichow.jpg
 ---
 
 ## Overview

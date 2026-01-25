@@ -13,7 +13,7 @@ regions:
 latitude: 52.0208
 longitude: 8.535
 images:
-  - "/images-sites/theater-bielefeld/01-e2d8c289-800w.webp"
+  - "/images/theater-bielefeld/01-e2d8c289-800w.webp"
 ---
 
 ## Overview

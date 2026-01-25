@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q522824"
 description: "In the heart of Görlitz, Germany, stands the magnificent Saint Peter and Paul Church, a striking example of Gothic architecture. This Lutheran church, f..."
 images:
-  - "/images-sites/saint-peter-and-paul/01-bb1442dd-1920w.webp"
-  - "/images-sites/saint-peter-and-paul/02-83f436d9-1920w.webp"
-  - "/images-sites/saint-peter-and-paul/03-566aefe9-1920w.webp"
+  - "/images/saint-peter-and-paul/01-bb1442dd-1920w.webp"
+  - "/images/saint-peter-and-paul/02-83f436d9-1920w.webp"
+  - "/images/saint-peter-and-paul/03-566aefe9-1920w.webp"
 ---
 
 ## Overview

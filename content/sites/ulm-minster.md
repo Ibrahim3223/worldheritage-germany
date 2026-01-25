@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q44562"
 description: "At an impressive height of 162 meters, Ulm Minster captures the attention of anyone who gazes upon it. This Gothic church, founded in 1377, stands as a ..."
 images:
-  - "/images-sites/ulm-minster/01-af695312-1920w.webp"
-  - "/images-sites/ulm-minster/02-fc3a55f0-1920w.webp"
-  - "/images-sites/ulm-minster/03-e7ebb2db-1920w.webp"
+  - "/images/ulm-minster/01-af695312-1920w.webp"
+  - "/images/ulm-minster/02-fc3a55f0-1920w.webp"
+  - "/images/ulm-minster/03-e7ebb2db-1920w.webp"
 ---
 
 ## Overview

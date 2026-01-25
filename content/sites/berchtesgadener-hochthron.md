@@ -1,19 +1,49 @@
 ---
-title: "Berchtesgadener Hochthron"
+title: Berchtesgadener Hochthron
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.694027777
 longitude: 12.986111111
 images:
-  - "/images-sites/berchtesgadener-hochthron/01-3c3807ff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berchtesgadener_Hochthron.jpg/1200px-Berchtesgadener_Hochthron.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/1200px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Gilgen_-_Schafberg,_West-Panoramablick.JPG/1200px-St._Gilgen_-_Schafberg,_West-Panoramablick.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg/1200px-Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berchtesgadener_Hochthron_280804.jpg/1200px-Berchtesgadener_Hochthron_280804.jpg
+image_srcset:
+  Berchtesgadener Hochthron.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berchtesgadener_Hochthron.jpg/400px-Berchtesgadener_Hochthron.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berchtesgadener_Hochthron.jpg/800px-Berchtesgadener_Hochthron.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berchtesgadener_Hochthron.jpg/1200px-Berchtesgadener_Hochthron.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berchtesgadener_Hochthron.jpg/1920px-Berchtesgadener_Hochthron.jpg
+  Blick in den Nationalpark Berchtesgaden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/400px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/800px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/1200px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/1920px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+  St. Gilgen - Schafberg, West-Panoramablick.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Gilgen_-_Schafberg,_West-Panoramablick.JPG/400px-St._Gilgen_-_Schafberg,_West-Panoramablick.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Gilgen_-_Schafberg,_West-Panoramablick.JPG/800px-St._Gilgen_-_Schafberg,_West-Panoramablick.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Gilgen_-_Schafberg,_West-Panoramablick.JPG/1200px-St._Gilgen_-_Schafberg,_West-Panoramablick.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Gilgen_-_Schafberg,_West-Panoramablick.JPG/1920px-St._Gilgen_-_Schafberg,_West-Panoramablick.JPG
+  Berchtesgadener Hochthron S 345 IMG 20240514 1130.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg/400px-Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg/800px-Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg/1200px-Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg/1920px-Berchtesgadener_Hochthron_S_345_IMG_20240514_1130.jpg
+  Berchtesgadener Hochthron 280804.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berchtesgadener_Hochthron_280804.jpg/400px-Berchtesgadener_Hochthron_280804.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berchtesgadener_Hochthron_280804.jpg/800px-Berchtesgadener_Hochthron_280804.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berchtesgadener_Hochthron_280804.jpg/1200px-Berchtesgadener_Hochthron_280804.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berchtesgadener_Hochthron_280804.jpg/1920px-Berchtesgadener_Hochthron_280804.jpg
 ---
 
 ## Overview

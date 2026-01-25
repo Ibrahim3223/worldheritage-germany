@@ -1,21 +1,49 @@
 ---
-title: "Hessian State Museum"
+title: Hessian State Museum
 date: 2026-01-23
 draft: false
-description: "art museum in Kassel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: art museum in Kassel, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3108
 longitude: 9.48972
 images:
-  - "/images-sites/hessian-state-museum/01-1c661e04-800w.webp"
-  - "/images-sites/hessian-state-museum/02-554f1f44-800w.webp"
-  - "/images-sites/hessian-state-museum/03-1e346f18-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_asv2022-02_img18_Landesmuseum.jpg/1200px-Kassel_asv2022-02_img18_Landesmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg
+image_srcset:
+  Kassel asv2022-02 img18 Landesmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_asv2022-02_img18_Landesmuseum.jpg/400px-Kassel_asv2022-02_img18_Landesmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_asv2022-02_img18_Landesmuseum.jpg/800px-Kassel_asv2022-02_img18_Landesmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_asv2022-02_img18_Landesmuseum.jpg/1200px-Kassel_asv2022-02_img18_Landesmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kassel_asv2022-02_img18_Landesmuseum.jpg/1920px-Kassel_asv2022-02_img18_Landesmuseum.jpg
+  Linhard Bauer-Petruspokal-Darmstadt (16).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg/400px-Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg/800px-Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg/1920px-Linhard_Bauer-Petruspokal-Darmstadt_(16).jpg
+  Linhard Bauer-Petruspokal-Darmstadt (18).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg/400px-Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg/800px-Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg/1920px-Linhard_Bauer-Petruspokal-Darmstadt_(18).jpg
+  Linhard Bauer-Petruspokal-Darmstadt (19).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg/400px-Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg/800px-Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg/1920px-Linhard_Bauer-Petruspokal-Darmstadt_(19).jpg
+  Linhard Bauer-Petruspokal-Darmstadt (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg/400px-Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg/800px-Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg/1200px-Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg/1920px-Linhard_Bauer-Petruspokal-Darmstadt_(2).jpg
 ---
 
 ## Overview

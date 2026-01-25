@@ -21,9 +21,9 @@ longitude: 7.68880556
 
 # Images
 images:
-  - "/images-sites/sausenburg-castle/01-3986996a-800w.webp"
-  - "/images-sites/sausenburg-castle/02-961ffc3d-800w.webp"
-  - "/images-sites/sausenburg-castle/03-fd74c222-800w.webp"
+  - "/images/sausenburg-castle/01-3986996a-800w.webp"
+  - "/images/sausenburg-castle/02-961ffc3d-800w.webp"
+  - "/images/sausenburg-castle/03-fd74c222-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Brühler Garten"
+title: Brühler Garten
 date: 2026-01-23
 draft: false
-description: "park in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9733
 longitude: 11.0196
 images:
-  - "/images-sites/bruehler-garten/01-d1df6629-800w.webp"
-  - "/images-sites/bruehler-garten/02-94cb01c8-800w.webp"
-  - "/images-sites/bruehler-garten/03-e54d41b5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Brühler_Garten_Erfurt_20211003_0017.jpg/1200px-Brühler_Garten_Erfurt_20211003_0017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bruehler_Garten_Erfurt.jpg/1200px-Bruehler_Garten_Erfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brühler_Garten_Pavillon.JPG/1200px-Brühler_Garten_Pavillon.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brühler_Garten_Südeingang.JPG/1200px-Brühler_Garten_Südeingang.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Erfurt,_der_Brühler_Garten.jpeg/1200px-Erfurt,_der_Brühler_Garten.jpeg
+image_srcset:
+  Brühler Garten Erfurt 20211003 0017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Brühler_Garten_Erfurt_20211003_0017.jpg/400px-Brühler_Garten_Erfurt_20211003_0017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Brühler_Garten_Erfurt_20211003_0017.jpg/800px-Brühler_Garten_Erfurt_20211003_0017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Brühler_Garten_Erfurt_20211003_0017.jpg/1200px-Brühler_Garten_Erfurt_20211003_0017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Brühler_Garten_Erfurt_20211003_0017.jpg/1920px-Brühler_Garten_Erfurt_20211003_0017.jpg
+  Bruehler Garten Erfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bruehler_Garten_Erfurt.jpg/400px-Bruehler_Garten_Erfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bruehler_Garten_Erfurt.jpg/800px-Bruehler_Garten_Erfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bruehler_Garten_Erfurt.jpg/1200px-Bruehler_Garten_Erfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bruehler_Garten_Erfurt.jpg/1920px-Bruehler_Garten_Erfurt.jpg
+  Brühler Garten Pavillon.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brühler_Garten_Pavillon.JPG/400px-Brühler_Garten_Pavillon.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brühler_Garten_Pavillon.JPG/800px-Brühler_Garten_Pavillon.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brühler_Garten_Pavillon.JPG/1200px-Brühler_Garten_Pavillon.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brühler_Garten_Pavillon.JPG/1920px-Brühler_Garten_Pavillon.JPG
+  Brühler Garten Südeingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brühler_Garten_Südeingang.JPG/400px-Brühler_Garten_Südeingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brühler_Garten_Südeingang.JPG/800px-Brühler_Garten_Südeingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brühler_Garten_Südeingang.JPG/1200px-Brühler_Garten_Südeingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brühler_Garten_Südeingang.JPG/1920px-Brühler_Garten_Südeingang.JPG
+  Erfurt, der Brühler Garten.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Erfurt,_der_Brühler_Garten.jpeg/400px-Erfurt,_der_Brühler_Garten.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Erfurt,_der_Brühler_Garten.jpeg/800px-Erfurt,_der_Brühler_Garten.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Erfurt,_der_Brühler_Garten.jpeg/1200px-Erfurt,_der_Brühler_Garten.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Erfurt,_der_Brühler_Garten.jpeg/1920px-Erfurt,_der_Brühler_Garten.jpeg
 ---
 
 ## Overview

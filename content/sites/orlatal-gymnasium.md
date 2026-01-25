@@ -13,7 +13,7 @@ regions:
 latitude: 50.735669
 longitude: 11.741997
 images:
-  - "/images-sites/orlatal-gymnasium/01-45c8c526-800w.webp"
+  - "/images/orlatal-gymnasium/01-45c8c526-800w.webp"
 ---
 
 ## Overview

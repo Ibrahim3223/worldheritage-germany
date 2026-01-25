@@ -1,20 +1,39 @@
 ---
-title: "Dorfkirche Döbbelin"
-site_name: "Dorfkirche Döbbelin"
-slug: "dorfkirche-dobbelin"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Döbbelin
+site_name: Dorfkirche Döbbelin
+slug: dorfkirche-dobbelin
+region: Brandenburg
 latitude: 52.5748
 longitude: 11.79
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244244"
-description: "Dorfkirche Döbbelin is a captivating church building located in the Altmark region of Stendal, Sachsen-Anhalt, Germany. Constructed primarily from field..."
+- church building
+- religious site
+wikidata_id: Q1244244
+description: Dorfkirche Döbbelin is a captivating church building located in the Altmark
+  region of Stendal, Sachsen-Anhalt, Germany. Constructed primarily from field...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche%20D%C3%B6bbelin%20Turm.JPG/1200px-Dorfkirche%20D%C3%B6bbelin%20Turm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dorfkirche_Döbbelin_Schiff.JPG/1200px-Dorfkirche_Döbbelin_Schiff.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/1200px-Dorfkirche_Döbbelin_Turm.JPG
+image_srcset:
+  Dorfkirche%20D%C3%B6bbelin%20Turm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche%20D%C3%B6bbelin%20Turm.JPG/400px-Dorfkirche%20D%C3%B6bbelin%20Turm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche%20D%C3%B6bbelin%20Turm.JPG/800px-Dorfkirche%20D%C3%B6bbelin%20Turm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche%20D%C3%B6bbelin%20Turm.JPG/1200px-Dorfkirche%20D%C3%B6bbelin%20Turm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche%20D%C3%B6bbelin%20Turm.JPG/1920px-Dorfkirche%20D%C3%B6bbelin%20Turm.JPG
+  Dorfkirche Döbbelin Schiff.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dorfkirche_Döbbelin_Schiff.JPG/400px-Dorfkirche_Döbbelin_Schiff.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dorfkirche_Döbbelin_Schiff.JPG/800px-Dorfkirche_Döbbelin_Schiff.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dorfkirche_Döbbelin_Schiff.JPG/1200px-Dorfkirche_Döbbelin_Schiff.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dorfkirche_Döbbelin_Schiff.JPG/1920px-Dorfkirche_Döbbelin_Schiff.JPG
+  Dorfkirche Döbbelin Turm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/400px-Dorfkirche_Döbbelin_Turm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/800px-Dorfkirche_Döbbelin_Turm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/1200px-Dorfkirche_Döbbelin_Turm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dorfkirche_Döbbelin_Turm.JPG/1920px-Dorfkirche_Döbbelin_Turm.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Altarm der Schwentine"
+title: Altarm der Schwentine
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.2967
 longitude: 10.2342
 images:
-  - "/images-sites/altarm-der-schwentine/01-6908c178-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg/1200px-Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg/1200px-Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg/1200px-Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/1200px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tiere_0907.jpg/1200px-Tiere_0907.jpg
+image_srcset:
+  Erpel beim Sonnenbaden im Landschaftsschutzgebiet Schwentinetal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg/400px-Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg/800px-Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg/1200px-Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg/1920px-Erpel_beim_Sonnenbaden_im_Landschaftsschutzgebiet_Schwentinetal.jpg
+  Pfad under Hainbuchen aus einem ehemaligen Bruch nahe dem Rosensee, Landschaftsschutzgebiet Schwentinetal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg/400px-Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg/800px-Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg/1200px-Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg/1920px-Pfad_under_Hainbuchen_aus_einem_ehemaligen_Bruch_nahe_dem_Rosensee,_Landschaftsschutzgebiet_Schwentinetal.jpg
+  Schwentine bei Niedrigwasser, Landschaftsschutzgebiet Schwentinetal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg/400px-Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg/800px-Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg/1200px-Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg/1920px-Schwentine_bei_Niedrigwasser,_Landschaftsschutzgebiet_Schwentinetal.jpg
+  Naturschutzgebiet Altarm der Schwentine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/400px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/800px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/1200px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Naturschutzgebiet_Altarm_der_Schwentine.jpg/1920px-Naturschutzgebiet_Altarm_der_Schwentine.jpg
+  Tiere 0907.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tiere_0907.jpg/400px-Tiere_0907.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tiere_0907.jpg/800px-Tiere_0907.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tiere_0907.jpg/1200px-Tiere_0907.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tiere_0907.jpg/1920px-Tiere_0907.jpg
 ---
 
 ## Overview

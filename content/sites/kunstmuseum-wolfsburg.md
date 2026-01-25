@@ -21,7 +21,7 @@ longitude: 10.7853
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-wolfsburg/01-b3e65fb5-800w.webp"
+  - "/images/kunstmuseum-wolfsburg/01-b3e65fb5-800w.webp"
 ---
 
 ## Overview

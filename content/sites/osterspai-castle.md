@@ -13,8 +13,8 @@ regions:
 latitude: 50.2463
 longitude: 7.61592
 images:
-  - "/images-sites/osterspai-castle/02-f8ea0a72-800w.webp"
-  - "/images-sites/osterspai-castle/03-fbac6a9e-800w.webp"
+  - "/images/osterspai-castle/02-f8ea0a72-800w.webp"
+  - "/images/osterspai-castle/03-fbac6a9e-800w.webp"
 ---
 
 ## Overview

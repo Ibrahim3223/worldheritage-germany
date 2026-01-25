@@ -1,19 +1,50 @@
 ---
-title: "French church"
-site_name: "French church"
-slug: "french-church"
-region: "Brandenburg"
-
-# Location
+title: French church
+site_name: French church
+slug: french-church
+region: Brandenburg
 latitude: 52.4006
 longitude: 13.0628
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1450578"
-description: "The French church in Potsdam is a striking example of religious architecture that captures the essence of the 18th century. Founded in 1750, this church..."
+- cultural site
+wikidata_id: Q1450578
+description: The French church in Potsdam is a striking example of religious architecture
+  that captures the essence of the 18th century. Founded in 1750, this church...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg/1200px-Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg/1200px-Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/San_Luigi_dei_Francesi_-_facciata.jpg/1200px-San_Luigi_dei_Francesi_-_facciata.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chiesa_di_San_Luigi_dei_Francesi_17.jpg/1200px-Chiesa_di_San_Luigi_dei_Francesi_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Picture_of_St._Louis_of_the_French.jpg/1200px-Picture_of_St._Louis_of_the_French.jpg
+image_srcset:
+  Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg/400px-Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg/800px-Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg/1200px-Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg/1920px-Potsdam%20-%20Franz%C3%B6sische%20Kirche%20-%202013.jpg
+  Église San Luigi Francesi - Rome (IT62) - 2021-08-28 - 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg/400px-Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg/800px-Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg/1200px-Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg/1920px-Église_San_Luigi_Francesi_-_Rome_(IT62)_-_2021-08-28_-_2.jpg
+  San Luigi dei Francesi - facciata.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/San_Luigi_dei_Francesi_-_facciata.jpg/400px-San_Luigi_dei_Francesi_-_facciata.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/San_Luigi_dei_Francesi_-_facciata.jpg/800px-San_Luigi_dei_Francesi_-_facciata.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/San_Luigi_dei_Francesi_-_facciata.jpg/1200px-San_Luigi_dei_Francesi_-_facciata.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/San_Luigi_dei_Francesi_-_facciata.jpg/1920px-San_Luigi_dei_Francesi_-_facciata.jpg
+  Chiesa di San Luigi dei Francesi 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chiesa_di_San_Luigi_dei_Francesi_17.jpg/400px-Chiesa_di_San_Luigi_dei_Francesi_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chiesa_di_San_Luigi_dei_Francesi_17.jpg/800px-Chiesa_di_San_Luigi_dei_Francesi_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chiesa_di_San_Luigi_dei_Francesi_17.jpg/1200px-Chiesa_di_San_Luigi_dei_Francesi_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chiesa_di_San_Luigi_dei_Francesi_17.jpg/1920px-Chiesa_di_San_Luigi_dei_Francesi_17.jpg
+  Picture of St. Louis of the French.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Picture_of_St._Louis_of_the_French.jpg/400px-Picture_of_St._Louis_of_the_French.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Picture_of_St._Louis_of_the_French.jpg/800px-Picture_of_St._Louis_of_the_French.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Picture_of_St._Louis_of_the_French.jpg/1200px-Picture_of_St._Louis_of_the_French.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Picture_of_St._Louis_of_the_French.jpg/1920px-Picture_of_St._Louis_of_the_French.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.7125843
 longitude: 10.5277516
 images:
-  - "/images-sites/roter-baer-pit/01-d0f787bd-800w.webp"
+  - "/images/roter-baer-pit/01-d0f787bd-800w.webp"
 ---
 
 ## Overview

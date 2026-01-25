@@ -1,19 +1,49 @@
 ---
-title: "Invalids' Cemetery"
+title: Invalids' Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.531944444
 longitude: 13.371111111
 images:
-  - "/images-sites/invalids-cemetery/01-7cce5ee6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg/1200px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg/1200px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg/1200px-Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Invalidenfriedhof,_Grabfeld_A.jpg/1200px-Invalidenfriedhof,_Grabfeld_A.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1200px-Invalidenfriedhof.jpg
+image_srcset:
+  GraveReinhardHeydrich-InvalidenfriedhofBerlin RomanDeckert15042023-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg/400px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg/800px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg/1200px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg/1920px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-02.jpg
+  GraveReinhardHeydrich-InvalidenfriedhofBerlin RomanDeckert15042023-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg/400px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg/800px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg/1200px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg/1920px-GraveReinhardHeydrich-InvalidenfriedhofBerlin_RomanDeckert15042023-01.jpg
+  Ingang Invalidenfriedhof aan de Scharnhorststraße te Berlijn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg/400px-Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg/800px-Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg/1200px-Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg/1920px-Ingang_Invalidenfriedhof_aan_de_Scharnhorststraße_te_Berlijn.jpg
+  Invalidenfriedhof, Grabfeld A.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Invalidenfriedhof,_Grabfeld_A.jpg/400px-Invalidenfriedhof,_Grabfeld_A.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Invalidenfriedhof,_Grabfeld_A.jpg/800px-Invalidenfriedhof,_Grabfeld_A.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Invalidenfriedhof,_Grabfeld_A.jpg/1200px-Invalidenfriedhof,_Grabfeld_A.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Invalidenfriedhof,_Grabfeld_A.jpg/1920px-Invalidenfriedhof,_Grabfeld_A.jpg
+  Invalidenfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/400px-Invalidenfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/800px-Invalidenfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1200px-Invalidenfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Invalidenfriedhof.jpg/1920px-Invalidenfriedhof.jpg
 ---
 
 ## Overview

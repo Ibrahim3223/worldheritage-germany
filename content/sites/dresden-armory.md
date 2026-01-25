@@ -1,19 +1,50 @@
 ---
-title: "Dresden Armory"
+title: Dresden Armory
 date: 2026-01-23
 draft: false
-description: "museum in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.05254
 longitude: 13.73743
 images:
-  - "/images-sites/dresden-armory/01-901a7c67-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/1200px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/1200px-Dresden-Zwinger-Armoury-Armor.13.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg/1200px-Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg/1200px-Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Moritz-von-Sachsen-1578.jpg/1200px-Moritz-von-Sachsen-1578.jpg
+image_srcset:
+  Dresden, Rüstkammer, Hofdegen (Dezember 2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/400px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/800px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/1200px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/1920px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+  Dresden-Zwinger-Armoury-Armor.13.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/400px-Dresden-Zwinger-Armoury-Armor.13.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/800px-Dresden-Zwinger-Armoury-Armor.13.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/1200px-Dresden-Zwinger-Armoury-Armor.13.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dresden-Zwinger-Armoury-Armor.13.JPG/1920px-Dresden-Zwinger-Armoury-Armor.13.JPG
+  ? Portrait of Prince-Elector Maurice of Saxony (1521–1553), in armour (by Lucas
+    Cranach the Younger) - Staatliche Kunstsammlungen Dresden.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg/400px-Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg/800px-Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg/1200px-Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg/1920px-Portrait_of_Prince-Elector_Maurice_of_Saxony_(1521–1553),_in_armour_(by_Lucas_Cranach_the_Younger)_-_Staatliche_Kunstsammlungen_Dresden.jpg
+  Lucas Cranach the Younger - Prince Elector Moritz of Saxony - Google Art Project.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg/400px-Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg/800px-Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg/1200px-Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg/1920px-Lucas_Cranach_the_Younger_-_Prince_Elector_Moritz_of_Saxony_-_Google_Art_Project.jpg
+  Moritz-von-Sachsen-1578.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Moritz-von-Sachsen-1578.jpg/400px-Moritz-von-Sachsen-1578.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Moritz-von-Sachsen-1578.jpg/800px-Moritz-von-Sachsen-1578.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Moritz-von-Sachsen-1578.jpg/1200px-Moritz-von-Sachsen-1578.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Moritz-von-Sachsen-1578.jpg/1920px-Moritz-von-Sachsen-1578.jpg
 ---
 
 ## Overview

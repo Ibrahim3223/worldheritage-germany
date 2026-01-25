@@ -1,19 +1,49 @@
 ---
-title: "Großer Beerberg"
+title: Großer Beerberg
 date: 2026-01-23
 draft: false
-description: "highest point of Thuringian Forest, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: highest point of Thuringian Forest, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.659444444
 longitude: 10.746111111
 images:
-  - "/images-sites/grosser-beerberg/01-da6124a6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Suhl_2020-05.jpg/1200px-Suhl_2020-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Umgebungskarte_von_Arnstadt_(12).jpg/1200px-Umgebungskarte_von_Arnstadt_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grosser_Beerberg.jpg/1200px-Grosser_Beerberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg/1200px-Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg/1200px-Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg
+image_srcset:
+  Suhl 2020-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Suhl_2020-05.jpg/400px-Suhl_2020-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Suhl_2020-05.jpg/800px-Suhl_2020-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Suhl_2020-05.jpg/1200px-Suhl_2020-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Suhl_2020-05.jpg/1920px-Suhl_2020-05.jpg
+  Umgebungskarte von Arnstadt (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Umgebungskarte_von_Arnstadt_(12).jpg/400px-Umgebungskarte_von_Arnstadt_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Umgebungskarte_von_Arnstadt_(12).jpg/800px-Umgebungskarte_von_Arnstadt_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Umgebungskarte_von_Arnstadt_(12).jpg/1200px-Umgebungskarte_von_Arnstadt_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Umgebungskarte_von_Arnstadt_(12).jpg/1920px-Umgebungskarte_von_Arnstadt_(12).jpg
+  Grosser Beerberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grosser_Beerberg.jpg/400px-Grosser_Beerberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grosser_Beerberg.jpg/800px-Grosser_Beerberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grosser_Beerberg.jpg/1200px-Grosser_Beerberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Grosser_Beerberg.jpg/1920px-Grosser_Beerberg.jpg
+  Beerberg und Schneekopf vom Finsterberg aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg/400px-Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg/800px-Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg/1200px-Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg/1920px-Beerberg_und_Schneekopf_vom_Finsterberg_aus.jpg
+  Plänkners Aussicht am großen Beerberg - panoramio - deWaldmann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg/400px-Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg/800px-Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg/1200px-Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg/1920px-Plänkners_Aussicht_am_großen_Beerberg_-_panoramio_-_deWaldmann.jpg
 ---
 
 ## Overview

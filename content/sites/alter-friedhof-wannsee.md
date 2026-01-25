@@ -1,19 +1,49 @@
 ---
-title: "Alter Friedhof Wannsee"
+title: Alter Friedhof Wannsee
 date: 2026-01-23
 draft: false
-description: "cemetery in Steglitz-Zehlendorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Steglitz-Zehlendorf, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.414094444
 longitude: 13.141302777
 images:
-  - "/images-sites/alter-friedhof-wannsee/01-154fcc8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg/1200px-Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grab_Gerhard_Reuter.jpg/1200px-Grab_Gerhard_Reuter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Grab_Kurt_Fleischmann.jpg/1200px-Grab_Kurt_Fleischmann.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grabstätte_Harald_Schäfer.jpg/1200px-Grabstätte_Harald_Schäfer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bornemann_Fritz.jpg/1200px-Bornemann_Fritz.jpg
+image_srcset:
+  Grabstätte Friedenstr 8-10 (Wanns) Oscar Begas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg/400px-Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg/800px-Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg/1200px-Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg/1920px-Grabstätte_Friedenstr_8-10_(Wanns)_Oscar_Begas.jpg
+  Grab Gerhard Reuter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grab_Gerhard_Reuter.jpg/400px-Grab_Gerhard_Reuter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grab_Gerhard_Reuter.jpg/800px-Grab_Gerhard_Reuter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grab_Gerhard_Reuter.jpg/1200px-Grab_Gerhard_Reuter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grab_Gerhard_Reuter.jpg/1920px-Grab_Gerhard_Reuter.jpg
+  Grab Kurt Fleischmann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Grab_Kurt_Fleischmann.jpg/400px-Grab_Kurt_Fleischmann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Grab_Kurt_Fleischmann.jpg/800px-Grab_Kurt_Fleischmann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Grab_Kurt_Fleischmann.jpg/1200px-Grab_Kurt_Fleischmann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Grab_Kurt_Fleischmann.jpg/1920px-Grab_Kurt_Fleischmann.jpg
+  Grabstätte Harald Schäfer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grabstätte_Harald_Schäfer.jpg/400px-Grabstätte_Harald_Schäfer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grabstätte_Harald_Schäfer.jpg/800px-Grabstätte_Harald_Schäfer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grabstätte_Harald_Schäfer.jpg/1200px-Grabstätte_Harald_Schäfer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grabstätte_Harald_Schäfer.jpg/1920px-Grabstätte_Harald_Schäfer.jpg
+  Bornemann Fritz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bornemann_Fritz.jpg/400px-Bornemann_Fritz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bornemann_Fritz.jpg/800px-Bornemann_Fritz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bornemann_Fritz.jpg/1200px-Bornemann_Fritz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bornemann_Fritz.jpg/1920px-Bornemann_Fritz.jpg
 ---
 
 ## Overview

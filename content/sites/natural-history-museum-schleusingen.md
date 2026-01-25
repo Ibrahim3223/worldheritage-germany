@@ -13,7 +13,7 @@ regions:
 latitude: 50.5092
 longitude: 10.7493
 images:
-  - "/images-sites/natural-history-museum-schleusingen/01-0cb3aa60-800w.webp"
+  - "/images/natural-history-museum-schleusingen/01-0cb3aa60-800w.webp"
 ---
 
 ## Overview

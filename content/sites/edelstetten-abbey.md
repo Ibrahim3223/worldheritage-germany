@@ -1,19 +1,50 @@
 ---
-title: "Edelstetten Abbey"
+title: Edelstetten Abbey
 date: 2026-01-23
 draft: false
-description: "former secularized canonesses' stift in the Roman Catholic Diocese of Augsburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former secularized canonesses' stift in the Roman Catholic Diocese of
+  Augsburg, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.2986
 longitude: 10.3948
 images:
-  - "/images-sites/edelstetten-abbey/01-8c28f79e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg/1200px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Edelstetten_vonNO.jpg/1200px-Edelstetten_vonNO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edelstetten_Kloster_95.JPG/1200px-Edelstetten_Kloster_95.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG/1200px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edelstetten_Blick_von_Westen_2.jpg/1200px-Edelstetten_Blick_von_Westen_2.jpg
+image_srcset:
+  Edelstetten St. Johannes Baptist und Johannes Evangelist 93.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg/400px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg/800px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg/1200px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg/1920px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_93.jpg
+  Edelstetten vonNO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Edelstetten_vonNO.jpg/400px-Edelstetten_vonNO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Edelstetten_vonNO.jpg/800px-Edelstetten_vonNO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Edelstetten_vonNO.jpg/1200px-Edelstetten_vonNO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Edelstetten_vonNO.jpg/1920px-Edelstetten_vonNO.jpg
+  Edelstetten Kloster 95.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edelstetten_Kloster_95.JPG/400px-Edelstetten_Kloster_95.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edelstetten_Kloster_95.JPG/800px-Edelstetten_Kloster_95.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edelstetten_Kloster_95.JPG/1200px-Edelstetten_Kloster_95.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Edelstetten_Kloster_95.JPG/1920px-Edelstetten_Kloster_95.JPG
+  Edelstetten St. Johannes Baptist und Johannes Evangelist 97.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG/400px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG/800px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG/1200px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG/1920px-Edelstetten_St._Johannes_Baptist_und_Johannes_Evangelist_97.JPG
+  Edelstetten Blick von Westen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edelstetten_Blick_von_Westen_2.jpg/400px-Edelstetten_Blick_von_Westen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edelstetten_Blick_von_Westen_2.jpg/800px-Edelstetten_Blick_von_Westen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edelstetten_Blick_von_Westen_2.jpg/1200px-Edelstetten_Blick_von_Westen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Edelstetten_Blick_von_Westen_2.jpg/1920px-Edelstetten_Blick_von_Westen_2.jpg
 ---
 
 ## Overview

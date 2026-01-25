@@ -1,19 +1,49 @@
 ---
-title: "Freilichtmuseum auf der Insel"
+title: Freilichtmuseum auf der Insel
 date: 2026-01-23
 draft: false
-description: "open air museum in Stade, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: open air museum in Stade, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5989
 longitude: 9.47111
 images:
-  - "/images-sites/freilichtmuseum-auf-der-insel/01-3e2fe818-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museum_op_de_Insel_in_Stood_03.jpg/1200px-Museum_op_de_Insel_in_Stood_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museum_op_de_Insel_in_Stood_04.jpg/1200px-Museum_op_de_Insel_in_Stood_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Museum_op_de_Insel_in_Stood_10.jpg/1200px-Museum_op_de_Insel_in_Stood_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ItDozent_Insel_Brunnen_1.jpg/1200px-ItDozent_Insel_Brunnen_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1200px-ItDozent_Inselhaus_1.jpg
+image_srcset:
+  Museum op de Insel in Stood 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museum_op_de_Insel_in_Stood_03.jpg/400px-Museum_op_de_Insel_in_Stood_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museum_op_de_Insel_in_Stood_03.jpg/800px-Museum_op_de_Insel_in_Stood_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museum_op_de_Insel_in_Stood_03.jpg/1200px-Museum_op_de_Insel_in_Stood_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Museum_op_de_Insel_in_Stood_03.jpg/1920px-Museum_op_de_Insel_in_Stood_03.jpg
+  Museum op de Insel in Stood 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museum_op_de_Insel_in_Stood_04.jpg/400px-Museum_op_de_Insel_in_Stood_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museum_op_de_Insel_in_Stood_04.jpg/800px-Museum_op_de_Insel_in_Stood_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museum_op_de_Insel_in_Stood_04.jpg/1200px-Museum_op_de_Insel_in_Stood_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museum_op_de_Insel_in_Stood_04.jpg/1920px-Museum_op_de_Insel_in_Stood_04.jpg
+  Museum op de Insel in Stood 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Museum_op_de_Insel_in_Stood_10.jpg/400px-Museum_op_de_Insel_in_Stood_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Museum_op_de_Insel_in_Stood_10.jpg/800px-Museum_op_de_Insel_in_Stood_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Museum_op_de_Insel_in_Stood_10.jpg/1200px-Museum_op_de_Insel_in_Stood_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Museum_op_de_Insel_in_Stood_10.jpg/1920px-Museum_op_de_Insel_in_Stood_10.jpg
+  ItDozent Insel Brunnen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ItDozent_Insel_Brunnen_1.jpg/400px-ItDozent_Insel_Brunnen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ItDozent_Insel_Brunnen_1.jpg/800px-ItDozent_Insel_Brunnen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ItDozent_Insel_Brunnen_1.jpg/1200px-ItDozent_Insel_Brunnen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ItDozent_Insel_Brunnen_1.jpg/1920px-ItDozent_Insel_Brunnen_1.jpg
+  ItDozent Inselhaus 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/400px-ItDozent_Inselhaus_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/800px-ItDozent_Inselhaus_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1200px-ItDozent_Inselhaus_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/ItDozent_Inselhaus_1.jpg/1920px-ItDozent_Inselhaus_1.jpg
 ---
 
 ## Overview

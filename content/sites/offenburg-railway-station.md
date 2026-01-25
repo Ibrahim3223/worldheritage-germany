@@ -13,9 +13,9 @@ regions:
 latitude: 48.476
 longitude: 7.94572
 images:
-  - "/images-sites/offenburg-railway-station/01-6399d59d-800w.webp"
-  - "/images-sites/offenburg-railway-station/02-cd6a8ea5-800w.webp"
-  - "/images-sites/offenburg-railway-station/03-edba383f-800w.webp"
+  - "/images/offenburg-railway-station/01-6399d59d-800w.webp"
+  - "/images/offenburg-railway-station/02-cd6a8ea5-800w.webp"
+  - "/images/offenburg-railway-station/03-edba383f-800w.webp"
 ---
 
 ## Overview

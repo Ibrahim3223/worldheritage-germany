@@ -21,7 +21,7 @@ longitude: 6.96027778
 
 # Images
 images:
-  - "/images-sites/museum-ludwig/01-cbaa0803-800w.webp"
+  - "/images/museum-ludwig/01-cbaa0803-800w.webp"
 ---
 
 ## Overview

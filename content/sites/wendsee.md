@@ -13,7 +13,7 @@ regions:
 latitude: 52.397027777
 longitude: 12.397002777
 images:
-  - "/images-sites/wendsee/01-99d5bf5e-800w.webp"
+  - "/images/wendsee/01-99d5bf5e-800w.webp"
 ---
 
 ## Overview

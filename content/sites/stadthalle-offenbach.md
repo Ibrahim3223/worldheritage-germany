@@ -13,9 +13,9 @@ regions:
 latitude: 50.0829
 longitude: 8.7767
 images:
-  - "/images-sites/stadthalle-offenbach/01-3787f944-800w.webp"
-  - "/images-sites/stadthalle-offenbach/02-32fef326-800w.webp"
-  - "/images-sites/stadthalle-offenbach/03-a5260335-800w.webp"
+  - "/images/stadthalle-offenbach/01-3787f944-800w.webp"
+  - "/images/stadthalle-offenbach/02-32fef326-800w.webp"
+  - "/images/stadthalle-offenbach/03-a5260335-800w.webp"
 ---
 
 ## Overview

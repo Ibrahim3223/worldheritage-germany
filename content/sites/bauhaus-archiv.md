@@ -1,19 +1,49 @@
 ---
-title: "Bauhaus-Archiv"
+title: Bauhaus-Archiv
 date: 2026-01-23
 draft: false
-description: "museum and archive in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: museum and archive in Berlin
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5061
 longitude: 13.3542
 images:
-  - "/images-sites/bauhaus-archiv/01-2ee19df3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bauhaus-archiv-treppenhaus-20180405-123036.jpg/1200px-Bauhaus-archiv-treppenhaus-20180405-123036.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bauhaus-archiv-foyer-20180405-120338.jpg/1200px-Bauhaus-archiv-foyer-20180405-120338.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bauhaus-archiv-halle-links-20180405-115904.jpg/1200px-Bauhaus-archiv-halle-links-20180405-115904.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin2008-Bauhaus.JPG/1200px-Berlin2008-Bauhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/1200px-Bauhaus_archiv_berlijn.JPG
+image_srcset:
+  Bauhaus-archiv-treppenhaus-20180405-123036.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bauhaus-archiv-treppenhaus-20180405-123036.jpg/400px-Bauhaus-archiv-treppenhaus-20180405-123036.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bauhaus-archiv-treppenhaus-20180405-123036.jpg/800px-Bauhaus-archiv-treppenhaus-20180405-123036.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bauhaus-archiv-treppenhaus-20180405-123036.jpg/1200px-Bauhaus-archiv-treppenhaus-20180405-123036.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bauhaus-archiv-treppenhaus-20180405-123036.jpg/1920px-Bauhaus-archiv-treppenhaus-20180405-123036.jpg
+  Bauhaus-archiv-foyer-20180405-120338.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bauhaus-archiv-foyer-20180405-120338.jpg/400px-Bauhaus-archiv-foyer-20180405-120338.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bauhaus-archiv-foyer-20180405-120338.jpg/800px-Bauhaus-archiv-foyer-20180405-120338.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bauhaus-archiv-foyer-20180405-120338.jpg/1200px-Bauhaus-archiv-foyer-20180405-120338.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bauhaus-archiv-foyer-20180405-120338.jpg/1920px-Bauhaus-archiv-foyer-20180405-120338.jpg
+  Bauhaus-archiv-halle-links-20180405-115904.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bauhaus-archiv-halle-links-20180405-115904.jpg/400px-Bauhaus-archiv-halle-links-20180405-115904.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bauhaus-archiv-halle-links-20180405-115904.jpg/800px-Bauhaus-archiv-halle-links-20180405-115904.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bauhaus-archiv-halle-links-20180405-115904.jpg/1200px-Bauhaus-archiv-halle-links-20180405-115904.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bauhaus-archiv-halle-links-20180405-115904.jpg/1920px-Bauhaus-archiv-halle-links-20180405-115904.jpg
+  Berlin2008-Bauhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin2008-Bauhaus.JPG/400px-Berlin2008-Bauhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin2008-Bauhaus.JPG/800px-Berlin2008-Bauhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin2008-Bauhaus.JPG/1200px-Berlin2008-Bauhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin2008-Bauhaus.JPG/1920px-Berlin2008-Bauhaus.JPG
+  Bauhaus archiv berlijn.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/400px-Bauhaus_archiv_berlijn.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/800px-Bauhaus_archiv_berlijn.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/1200px-Bauhaus_archiv_berlijn.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bauhaus_archiv_berlijn.JPG/1920px-Bauhaus_archiv_berlijn.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.407972222
 longitude: 7.024333333
 images:
-  - "/images-sites/schloss-baldeney/01-da83f7a6-800w.webp"
+  - "/images/schloss-baldeney/01-da83f7a6-800w.webp"
 ---
 
 ## Overview

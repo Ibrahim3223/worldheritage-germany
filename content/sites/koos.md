@@ -13,7 +13,7 @@ regions:
 latitude: 54.166666666
 longitude: 13.416666666
 images:
-  - "/images-sites/koos/01-665cb6fa-800w.webp"
+  - "/images/koos/01-665cb6fa-800w.webp"
 ---
 
 ## Overview

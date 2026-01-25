@@ -13,9 +13,9 @@ regions:
 latitude: 47.93255997
 longitude: 11.55589962
 images:
-  - "/images-sites/st-florian-attenham/01-f6fbc59e-800w.webp"
-  - "/images-sites/st-florian-attenham/02-5acb88c2-800w.webp"
-  - "/images-sites/st-florian-attenham/03-b5c96713-800w.webp"
+  - "/images/st-florian-attenham/01-f6fbc59e-800w.webp"
+  - "/images/st-florian-attenham/02-5acb88c2-800w.webp"
+  - "/images/st-florian-attenham/03-b5c96713-800w.webp"
 ---
 
 ## Overview

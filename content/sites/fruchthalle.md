@@ -1,19 +1,50 @@
 ---
-title: "Fruchthalle"
+title: Fruchthalle
 date: 2026-01-23
 draft: false
-description: "multi-purpose event venue in Kaiserslautern, Germany, originally a market hall"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose event venue in Kaiserslautern, Germany, originally a market
+  hall
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 49.44567
 longitude: 7.77036
 images:
-  - "/images-sites/fruchthalle/01-e8c9b586-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reisender_Raumplaner_an_der_Fruchthalle.jpg/1200px-Reisender_Raumplaner_an_der_Fruchthalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaiserslautern-10-Fruchthalle-gje.jpg/1200px-Kaiserslautern-10-Fruchthalle-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kaiserslautern_Fruchthalle.jpg/1200px-Kaiserslautern_Fruchthalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/KL-Fruchthalle_2010.jpg/1200px-KL-Fruchthalle_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fruchthalle_kl.jpg/1200px-Fruchthalle_kl.jpg
+image_srcset:
+  Reisender Raumplaner an der Fruchthalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reisender_Raumplaner_an_der_Fruchthalle.jpg/400px-Reisender_Raumplaner_an_der_Fruchthalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reisender_Raumplaner_an_der_Fruchthalle.jpg/800px-Reisender_Raumplaner_an_der_Fruchthalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reisender_Raumplaner_an_der_Fruchthalle.jpg/1200px-Reisender_Raumplaner_an_der_Fruchthalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reisender_Raumplaner_an_der_Fruchthalle.jpg/1920px-Reisender_Raumplaner_an_der_Fruchthalle.jpg
+  Kaiserslautern-10-Fruchthalle-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaiserslautern-10-Fruchthalle-gje.jpg/400px-Kaiserslautern-10-Fruchthalle-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaiserslautern-10-Fruchthalle-gje.jpg/800px-Kaiserslautern-10-Fruchthalle-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaiserslautern-10-Fruchthalle-gje.jpg/1200px-Kaiserslautern-10-Fruchthalle-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kaiserslautern-10-Fruchthalle-gje.jpg/1920px-Kaiserslautern-10-Fruchthalle-gje.jpg
+  Kaiserslautern Fruchthalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kaiserslautern_Fruchthalle.jpg/400px-Kaiserslautern_Fruchthalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kaiserslautern_Fruchthalle.jpg/800px-Kaiserslautern_Fruchthalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kaiserslautern_Fruchthalle.jpg/1200px-Kaiserslautern_Fruchthalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kaiserslautern_Fruchthalle.jpg/1920px-Kaiserslautern_Fruchthalle.jpg
+  KL-Fruchthalle 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/KL-Fruchthalle_2010.jpg/400px-KL-Fruchthalle_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/KL-Fruchthalle_2010.jpg/800px-KL-Fruchthalle_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/KL-Fruchthalle_2010.jpg/1200px-KL-Fruchthalle_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/KL-Fruchthalle_2010.jpg/1920px-KL-Fruchthalle_2010.jpg
+  Fruchthalle kl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fruchthalle_kl.jpg/400px-Fruchthalle_kl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fruchthalle_kl.jpg/800px-Fruchthalle_kl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fruchthalle_kl.jpg/1200px-Fruchthalle_kl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fruchthalle_kl.jpg/1920px-Fruchthalle_kl.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Burgk Castle"
+title: Burgk Castle
 date: 2026-01-23
 draft: false
-description: "castle in Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5536
 longitude: 11.7156
 images:
-  - "/images-sites/burgk-castle/01-f9d4ac3c-800w.webp"
-  - "/images-sites/burgk-castle/02-895aaebf-800w.webp"
-  - "/images-sites/burgk-castle/03-fa01a44c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloß_Burgk-20180816-RM-172213.jpg/1200px-Schloß_Burgk-20180816-RM-172213.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burgk_Schloss_8169744.jpg/1200px-Burgk_Schloss_8169744.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Schloß_Burgk-20180816-RM-160104.jpg/1200px-Schloß_Burgk-20180816-RM-160104.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_Saaleturm_02.jpg/1200px-View_from_Saaleturm_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/1200px-Schloss_Burgk_vom_Saaleturm.jpg
+image_srcset:
+  Schloß Burgk-20180816-RM-172213.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloß_Burgk-20180816-RM-172213.jpg/400px-Schloß_Burgk-20180816-RM-172213.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloß_Burgk-20180816-RM-172213.jpg/800px-Schloß_Burgk-20180816-RM-172213.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloß_Burgk-20180816-RM-172213.jpg/1200px-Schloß_Burgk-20180816-RM-172213.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schloß_Burgk-20180816-RM-172213.jpg/1920px-Schloß_Burgk-20180816-RM-172213.jpg
+  Burgk Schloss 8169744.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burgk_Schloss_8169744.jpg/400px-Burgk_Schloss_8169744.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burgk_Schloss_8169744.jpg/800px-Burgk_Schloss_8169744.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burgk_Schloss_8169744.jpg/1200px-Burgk_Schloss_8169744.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burgk_Schloss_8169744.jpg/1920px-Burgk_Schloss_8169744.jpg
+  Schloß Burgk-20180816-RM-160104.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Schloß_Burgk-20180816-RM-160104.jpg/400px-Schloß_Burgk-20180816-RM-160104.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Schloß_Burgk-20180816-RM-160104.jpg/800px-Schloß_Burgk-20180816-RM-160104.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Schloß_Burgk-20180816-RM-160104.jpg/1200px-Schloß_Burgk-20180816-RM-160104.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Schloß_Burgk-20180816-RM-160104.jpg/1920px-Schloß_Burgk-20180816-RM-160104.jpg
+  View from Saaleturm 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_Saaleturm_02.jpg/400px-View_from_Saaleturm_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_Saaleturm_02.jpg/800px-View_from_Saaleturm_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_Saaleturm_02.jpg/1200px-View_from_Saaleturm_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/View_from_Saaleturm_02.jpg/1920px-View_from_Saaleturm_02.jpg
+  Schloss Burgk vom Saaleturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/400px-Schloss_Burgk_vom_Saaleturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/800px-Schloss_Burgk_vom_Saaleturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/1200px-Schloss_Burgk_vom_Saaleturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Schloss_Burgk_vom_Saaleturm.jpg/1920px-Schloss_Burgk_vom_Saaleturm.jpg
 ---
 
 ## Overview

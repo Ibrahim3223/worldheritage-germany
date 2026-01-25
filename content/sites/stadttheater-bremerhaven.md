@@ -13,7 +13,7 @@ regions:
 latitude: 53.5407
 longitude: 8.58131
 images:
-  - "/images-sites/stadttheater-bremerhaven/01-a13f915d-800w.webp"
+  - "/images/stadttheater-bremerhaven/01-a13f915d-800w.webp"
 ---
 
 ## Overview

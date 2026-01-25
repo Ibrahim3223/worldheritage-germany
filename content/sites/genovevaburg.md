@@ -1,27 +1,49 @@
 ---
-title: "Genovevaburg"
+title: Genovevaburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.3261
 longitude: 7.22127
-
-# Images
 images:
-  - "/images-sites/genovevaburg/01-9523830e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg/1200px-Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Genovevaburg_005x.jpg/1200px-Genovevaburg_005x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mayen,_Genovevaburg,_2012-08_CN-01.jpg/1200px-Mayen,_Genovevaburg,_2012-08_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genovevaburg_02.jpg/1200px-Genovevaburg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fritz_von_Wille_0088.jpg/1200px-Fritz_von_Wille_0088.jpg
+image_srcset:
+  Mayen Genovevaburg Ostzugang Orsbeckwappen P1050713 20200717.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg/400px-Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg/800px-Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg/1200px-Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg/1920px-Mayen_Genovevaburg_Ostzugang_Orsbeckwappen_P1050713_20200717.jpg
+  Genovevaburg 005x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Genovevaburg_005x.jpg/400px-Genovevaburg_005x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Genovevaburg_005x.jpg/800px-Genovevaburg_005x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Genovevaburg_005x.jpg/1200px-Genovevaburg_005x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Genovevaburg_005x.jpg/1920px-Genovevaburg_005x.jpg
+  Mayen, Genovevaburg, 2012-08 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mayen,_Genovevaburg,_2012-08_CN-01.jpg/400px-Mayen,_Genovevaburg,_2012-08_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mayen,_Genovevaburg,_2012-08_CN-01.jpg/800px-Mayen,_Genovevaburg,_2012-08_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mayen,_Genovevaburg,_2012-08_CN-01.jpg/1200px-Mayen,_Genovevaburg,_2012-08_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mayen,_Genovevaburg,_2012-08_CN-01.jpg/1920px-Mayen,_Genovevaburg,_2012-08_CN-01.jpg
+  Genovevaburg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genovevaburg_02.jpg/400px-Genovevaburg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genovevaburg_02.jpg/800px-Genovevaburg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genovevaburg_02.jpg/1200px-Genovevaburg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Genovevaburg_02.jpg/1920px-Genovevaburg_02.jpg
+  Fritz von Wille 0088.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fritz_von_Wille_0088.jpg/400px-Fritz_von_Wille_0088.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fritz_von_Wille_0088.jpg/800px-Fritz_von_Wille_0088.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fritz_von_Wille_0088.jpg/1200px-Fritz_von_Wille_0088.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fritz_von_Wille_0088.jpg/1920px-Fritz_von_Wille_0088.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.4474
 longitude: 6.70377
 images:
-  - "/images-sites/zeche-rheinpreussen/01-a7f5f771-800w.webp"
+  - "/images/zeche-rheinpreussen/01-a7f5f771-800w.webp"
 ---
 
 ## Overview

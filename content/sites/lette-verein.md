@@ -21,7 +21,7 @@ longitude: 13.3412049
 
 # Images
 images:
-  - "/images-sites/lette-verein/01-738b56c8-800w.webp"
+  - "/images/lette-verein/01-738b56c8-800w.webp"
 ---
 
 ## Overview

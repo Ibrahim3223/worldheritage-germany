@@ -1,20 +1,51 @@
 ---
-title: "Hugenottenkirche"
-site_name: "Hugenottenkirche"
-slug: "hugenottenkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Hugenottenkirche
+site_name: Hugenottenkirche
+slug: hugenottenkirche
+region: North Rhine-Westphalia
 latitude: 50.3359
 longitude: 8.53374
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1634154"
-description: "In the heart of Usingen, Germany, Hugenottenkirche stands as a striking example of baroque architecture. This church building captivates visitors with i..."
+- church building
+- religious site
+wikidata_id: Q1634154
+description: In the heart of Usingen, Germany, Hugenottenkirche stands as a striking
+  example of baroque architecture. This church building captivates visitors with i...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg/1200px-Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/1200px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/1200px-Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/1200px-Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wilhelmsdorf,_Hugenottenkirche-003.jpg/1200px-Wilhelmsdorf,_Hugenottenkirche-003.jpg
+image_srcset:
+  Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg/400px-Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg/800px-Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg/1200px-Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg/1920px-Hugenotten%20Church%20in%20Usingen%2C%20Germany.jpg
+  Erlangen Reformierte Pfarrkirche Luftbild-20230422-RM-164736.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/400px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/800px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/1200px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/1920px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+  Hugenottenkirche, 1, Bremer Straße 12, Schöneberg, Hofgeismar, Landkreis Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/400px-Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/800px-Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/1200px-Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/1920px-Hugenottenkirche,_1,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+  Hugenottenkirche, 2, Bremer Straße 12, Schöneberg, Hofgeismar, Landkreis Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/400px-Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/800px-Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/1200px-Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg/1920px-Hugenottenkirche,_2,_Bremer_Straße_12,_Schöneberg,_Hofgeismar,_Landkreis_Kassel.jpg
+  Wilhelmsdorf, Hugenottenkirche-003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wilhelmsdorf,_Hugenottenkirche-003.jpg/400px-Wilhelmsdorf,_Hugenottenkirche-003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wilhelmsdorf,_Hugenottenkirche-003.jpg/800px-Wilhelmsdorf,_Hugenottenkirche-003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wilhelmsdorf,_Hugenottenkirche-003.jpg/1200px-Wilhelmsdorf,_Hugenottenkirche-003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wilhelmsdorf,_Hugenottenkirche-003.jpg/1920px-Wilhelmsdorf,_Hugenottenkirche-003.jpg
 ---
 
 ## Overview

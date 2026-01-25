@@ -1,19 +1,37 @@
 ---
-title: "Cathedral Hill in Erfurt"
+title: Cathedral Hill in Erfurt
 date: 2026-01-23
 draft: false
-description: "Cathedral Hill in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: Cathedral Hill in Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.976071
 longitude: 11.023058
 images:
-  - "/images-sites/cathedral-hill-in-erfurt/01-f887687c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1200px-Erfurter_Dom_von_Oben_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Gartenlaube_(1864)_b_229.jpg/1200px-Die_Gartenlaube_(1864)_b_229.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ErfurterDom.jpg/1200px-ErfurterDom.jpg
+image_srcset:
+  Erfurter Dom von Oben 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/400px-Erfurter_Dom_von_Oben_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/800px-Erfurter_Dom_von_Oben_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1200px-Erfurter_Dom_von_Oben_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Erfurter_Dom_von_Oben_05.jpg/1920px-Erfurter_Dom_von_Oben_05.jpg
+  Die Gartenlaube (1864) b 229.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Gartenlaube_(1864)_b_229.jpg/400px-Die_Gartenlaube_(1864)_b_229.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Gartenlaube_(1864)_b_229.jpg/800px-Die_Gartenlaube_(1864)_b_229.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Gartenlaube_(1864)_b_229.jpg/1200px-Die_Gartenlaube_(1864)_b_229.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Gartenlaube_(1864)_b_229.jpg/1920px-Die_Gartenlaube_(1864)_b_229.jpg
+  ErfurterDom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ErfurterDom.jpg/400px-ErfurterDom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ErfurterDom.jpg/800px-ErfurterDom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ErfurterDom.jpg/1200px-ErfurterDom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ErfurterDom.jpg/1920px-ErfurterDom.jpg
 ---
 
 ## Overview

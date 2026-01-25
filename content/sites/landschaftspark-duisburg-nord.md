@@ -13,7 +13,7 @@ regions:
 latitude: 51.480278
 longitude: 6.78
 images:
-  - "/images-sites/landschaftspark-duisburg-nord/01-3e2926ee-800w.webp"
+  - "/images/landschaftspark-duisburg-nord/01-3e2926ee-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Goossee"
+title: Goossee
 date: 2026-01-23
 draft: false
-description: "lake nearby Eckernförde"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake nearby Eckernförde
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.441388888
 longitude: 9.855555555
 images:
-  - "/images-sites/goossee/01-143f83ab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eckernförde_goossee.JPG/1200px-Eckernförde_goossee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Goossee_O.JPG/1200px-Goossee_O.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goossee_ONO.JPG/1200px-Goossee_ONO.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goossee_NW_large.jpg/1200px-Goossee_NW_large.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Goossee_NW_small.jpg/1200px-Goossee_NW_small.jpg
+image_srcset:
+  Eckernförde goossee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eckernförde_goossee.JPG/400px-Eckernförde_goossee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eckernförde_goossee.JPG/800px-Eckernförde_goossee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eckernförde_goossee.JPG/1200px-Eckernförde_goossee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eckernförde_goossee.JPG/1920px-Eckernförde_goossee.JPG
+  Goossee O.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Goossee_O.JPG/400px-Goossee_O.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Goossee_O.JPG/800px-Goossee_O.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Goossee_O.JPG/1200px-Goossee_O.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Goossee_O.JPG/1920px-Goossee_O.JPG
+  Goossee ONO.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goossee_ONO.JPG/400px-Goossee_ONO.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goossee_ONO.JPG/800px-Goossee_ONO.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goossee_ONO.JPG/1200px-Goossee_ONO.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Goossee_ONO.JPG/1920px-Goossee_ONO.JPG
+  Goossee NW large.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goossee_NW_large.jpg/400px-Goossee_NW_large.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goossee_NW_large.jpg/800px-Goossee_NW_large.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goossee_NW_large.jpg/1200px-Goossee_NW_large.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goossee_NW_large.jpg/1920px-Goossee_NW_large.jpg
+  Goossee NW small.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Goossee_NW_small.jpg/400px-Goossee_NW_small.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Goossee_NW_small.jpg/800px-Goossee_NW_small.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Goossee_NW_small.jpg/1200px-Goossee_NW_small.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Goossee_NW_small.jpg/1920px-Goossee_NW_small.jpg
 ---
 
 ## Overview

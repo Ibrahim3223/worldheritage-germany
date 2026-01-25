@@ -13,7 +13,7 @@ regions:
 latitude: 50.986838
 longitude: 11.326041
 images:
-  - "/images-sites/grundschule-johannes-falk/01-d05b3284-800w.webp"
+  - "/images/grundschule-johannes-falk/01-d05b3284-800w.webp"
 ---
 
 ## Overview

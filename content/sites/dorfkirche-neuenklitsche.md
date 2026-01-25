@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Neuenklitsche"
-site_name: "Dorfkirche Neuenklitsche"
-slug: "dorfkirche-neuenklitsche"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Neuenklitsche
+site_name: Dorfkirche Neuenklitsche
+slug: dorfkirche-neuenklitsche
+region: Brandenburg
 latitude: 52.4798
 longitude: 12.2343
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244563"
-description: "In the heart of Jerichow, Saxony-Anhalt, stands the Dorfkirche Neuenklitsche, a remarkable example of Romanesque architecture. This church building, con..."
+- church building
+- religious site
+wikidata_id: Q1244563
+description: In the heart of Jerichow, Saxony-Anhalt, stands the Dorfkirche Neuenklitsche,
+  a remarkable example of Romanesque architecture. This church building, con...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirche%20Neuenklitsche%2002.JPG/1200px-Kirche%20Neuenklitsche%2002.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Neuenklitsche_2011_Innenraum02.JPG/1200px-Neuenklitsche_2011_Innenraum02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Neuenklitsche_2011_Nordseite01.jpg/1200px-Neuenklitsche_2011_Nordseite01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Neuenklitsche_2011_Sandsteintaufe01.JPG/1200px-Neuenklitsche_2011_Sandsteintaufe01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/1200px-Kirche_Neuenklitsche_02.JPG
+image_srcset:
+  Kirche%20Neuenklitsche%2002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirche%20Neuenklitsche%2002.JPG/400px-Kirche%20Neuenklitsche%2002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirche%20Neuenklitsche%2002.JPG/800px-Kirche%20Neuenklitsche%2002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirche%20Neuenklitsche%2002.JPG/1200px-Kirche%20Neuenklitsche%2002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirche%20Neuenklitsche%2002.JPG/1920px-Kirche%20Neuenklitsche%2002.JPG
+  Neuenklitsche 2011 Innenraum02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Neuenklitsche_2011_Innenraum02.JPG/400px-Neuenklitsche_2011_Innenraum02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Neuenklitsche_2011_Innenraum02.JPG/800px-Neuenklitsche_2011_Innenraum02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Neuenklitsche_2011_Innenraum02.JPG/1200px-Neuenklitsche_2011_Innenraum02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Neuenklitsche_2011_Innenraum02.JPG/1920px-Neuenklitsche_2011_Innenraum02.JPG
+  Neuenklitsche 2011 Nordseite01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Neuenklitsche_2011_Nordseite01.jpg/400px-Neuenklitsche_2011_Nordseite01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Neuenklitsche_2011_Nordseite01.jpg/800px-Neuenklitsche_2011_Nordseite01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Neuenklitsche_2011_Nordseite01.jpg/1200px-Neuenklitsche_2011_Nordseite01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Neuenklitsche_2011_Nordseite01.jpg/1920px-Neuenklitsche_2011_Nordseite01.jpg
+  Neuenklitsche 2011 Sandsteintaufe01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Neuenklitsche_2011_Sandsteintaufe01.JPG/400px-Neuenklitsche_2011_Sandsteintaufe01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Neuenklitsche_2011_Sandsteintaufe01.JPG/800px-Neuenklitsche_2011_Sandsteintaufe01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Neuenklitsche_2011_Sandsteintaufe01.JPG/1200px-Neuenklitsche_2011_Sandsteintaufe01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Neuenklitsche_2011_Sandsteintaufe01.JPG/1920px-Neuenklitsche_2011_Sandsteintaufe01.JPG
+  Kirche Neuenklitsche 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/400px-Kirche_Neuenklitsche_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/800px-Kirche_Neuenklitsche_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/1200px-Kirche_Neuenklitsche_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kirche_Neuenklitsche_02.JPG/1920px-Kirche_Neuenklitsche_02.JPG
 ---
 
 ## Overview

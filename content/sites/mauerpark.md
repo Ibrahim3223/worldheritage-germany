@@ -13,7 +13,7 @@ regions:
 latitude: 52.543611
 longitude: 13.403333
 images:
-  - "/images-sites/mauerpark/01-c5deae3b-800w.webp"
+  - "/images/mauerpark/01-c5deae3b-800w.webp"
 ---
 
 ## Overview

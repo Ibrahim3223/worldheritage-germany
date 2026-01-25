@@ -21,7 +21,7 @@ longitude: 8.4974
 
 # Images
 images:
-  - "/images-sites/luisenpark/01-c310c6b8-800w.webp"
+  - "/images/luisenpark/01-c310c6b8-800w.webp"
 ---
 
 ## Overview

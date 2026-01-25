@@ -21,7 +21,7 @@ longitude: 8.63774
 
 # Images
 images:
-  - "/images-sites/nida/01-777169ce-800w.webp"
+  - "/images/nida/01-777169ce-800w.webp"
 ---
 
 ## Overview

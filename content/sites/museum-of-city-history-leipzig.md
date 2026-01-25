@@ -13,8 +13,8 @@ regions:
 latitude: 51.34072
 longitude: 12.375331
 images:
-  - "/images-sites/museum-of-city-history-leipzig/02-c70debd2-800w.webp"
-  - "/images-sites/museum-of-city-history-leipzig/03-88242725-800w.webp"
+  - "/images/museum-of-city-history-leipzig/02-c70debd2-800w.webp"
+  - "/images/museum-of-city-history-leipzig/03-88242725-800w.webp"
 ---
 
 ## Overview

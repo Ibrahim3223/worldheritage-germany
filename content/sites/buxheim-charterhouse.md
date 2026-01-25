@@ -1,19 +1,49 @@
 ---
-title: "Buxheim Charterhouse"
+title: Buxheim Charterhouse
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.9995
 longitude: 10.1338
 images:
-  - "/images-sites/buxheim-charterhouse/01-de69dccd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Klosterhof_Reichskartause_Buxheim1.JPG/1200px-Klosterhof_Reichskartause_Buxheim1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1200px-Klosterhof_Reichskartause_Buxheim2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg/1200px-Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG/1200px-Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg/1200px-Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg
+image_srcset:
+  Klosterhof Reichskartause Buxheim1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Klosterhof_Reichskartause_Buxheim1.JPG/400px-Klosterhof_Reichskartause_Buxheim1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Klosterhof_Reichskartause_Buxheim1.JPG/800px-Klosterhof_Reichskartause_Buxheim1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Klosterhof_Reichskartause_Buxheim1.JPG/1200px-Klosterhof_Reichskartause_Buxheim1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Klosterhof_Reichskartause_Buxheim1.JPG/1920px-Klosterhof_Reichskartause_Buxheim1.JPG
+  Klosterhof Reichskartause Buxheim2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/400px-Klosterhof_Reichskartause_Buxheim2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/800px-Klosterhof_Reichskartause_Buxheim2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1200px-Klosterhof_Reichskartause_Buxheim2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Klosterhof_Reichskartause_Buxheim2.JPG/1920px-Klosterhof_Reichskartause_Buxheim2.JPG
+  Buxheim Pfarrkirche und Klosterkirche - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg/400px-Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg/800px-Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg/1200px-Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg/1920px-Buxheim_Pfarrkirche_und_Klosterkirche_-_panoramio.jpg
+  Buxheim, MN - Kartause - Volutengiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG/400px-Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG/800px-Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG/1200px-Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG/1920px-Buxheim,_MN_-_Kartause_-_Volutengiebel.JPG
+  Johann Friedrich Sichelbein Buxheim c1690.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg/400px-Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg/800px-Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg/1200px-Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg/1920px-Johann_Friedrich_Sichelbein_Buxheim_c1690.jpg
 ---
 
 ## Overview

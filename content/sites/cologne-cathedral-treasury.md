@@ -1,19 +1,49 @@
 ---
-title: "Cologne Cathedral Treasury"
+title: Cologne Cathedral Treasury
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.94171
 longitude: 6.95853
 images:
-  - "/images-sites/cologne-cathedral-treasury/01-5acead3e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20191024_Domschatzkammer_Köln_2.jpg/1200px-20191024_Domschatzkammer_Köln_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Domschatzkammer_Köln_09.JPG/1200px-Domschatzkammer_Köln_09.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Domschatzkammer_Köln_14.JPG/1200px-Domschatzkammer_Köln_14.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1200px-Koeln_domschatzkammer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg/1200px-Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg
+image_srcset:
+  20191024 Domschatzkammer Köln 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20191024_Domschatzkammer_Köln_2.jpg/400px-20191024_Domschatzkammer_Köln_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20191024_Domschatzkammer_Köln_2.jpg/800px-20191024_Domschatzkammer_Köln_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20191024_Domschatzkammer_Köln_2.jpg/1200px-20191024_Domschatzkammer_Köln_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20191024_Domschatzkammer_Köln_2.jpg/1920px-20191024_Domschatzkammer_Köln_2.jpg
+  Domschatzkammer Köln 09.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Domschatzkammer_Köln_09.JPG/400px-Domschatzkammer_Köln_09.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Domschatzkammer_Köln_09.JPG/800px-Domschatzkammer_Köln_09.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Domschatzkammer_Köln_09.JPG/1200px-Domschatzkammer_Köln_09.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Domschatzkammer_Köln_09.JPG/1920px-Domschatzkammer_Köln_09.JPG
+  Domschatzkammer Köln 14.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Domschatzkammer_Köln_14.JPG/400px-Domschatzkammer_Köln_14.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Domschatzkammer_Köln_14.JPG/800px-Domschatzkammer_Köln_14.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Domschatzkammer_Köln_14.JPG/1200px-Domschatzkammer_Köln_14.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Domschatzkammer_Köln_14.JPG/1920px-Domschatzkammer_Köln_14.JPG
+  Koeln domschatzkammer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/400px-Koeln_domschatzkammer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/800px-Koeln_domschatzkammer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1200px-Koeln_domschatzkammer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Koeln_domschatzkammer.jpg/1920px-Koeln_domschatzkammer.jpg
+  Kölner Dom - Nordseite und Bahnhofsvorplatz bei Nacht (8117-19) (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg/400px-Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg/800px-Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg/1200px-Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg/1920px-Kölner_Dom_-_Nordseite_und_Bahnhofsvorplatz_bei_Nacht_(8117-19)_(cropped).jpg
 ---
 
 ## Overview

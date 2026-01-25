@@ -13,9 +13,9 @@ regions:
 latitude: 52.7872
 longitude: 9.89028
 images:
-  - "/images-sites/schloss-bredebeck/01-995933c8-800w.webp"
-  - "/images-sites/schloss-bredebeck/02-24854bae-800w.webp"
-  - "/images-sites/schloss-bredebeck/03-58f3fa5d-800w.webp"
+  - "/images/schloss-bredebeck/01-995933c8-800w.webp"
+  - "/images/schloss-bredebeck/02-24854bae-800w.webp"
+  - "/images/schloss-bredebeck/03-58f3fa5d-800w.webp"
 ---
 
 ## Overview

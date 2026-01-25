@@ -13,7 +13,7 @@ regions:
 latitude: 52.7456
 longitude: 9.61667
 images:
-  - "/images-sites/serengeti-park/01-6a014711-800w.webp"
+  - "/images/serengeti-park/01-6a014711-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1284450"
 description: "St. Anton in Passau is a striking example of Baroque Revival architecture, established in 1910. Its unique design and historical context make it a notew..."
 images:
-  - "/images-sites/st-anton-passau/01-54364139-1920w.webp"
-  - "/images-sites/st-anton-passau/02-1600c9b7-1920w.webp"
-  - "/images-sites/st-anton-passau/03-7444f205-1920w.webp"
+  - "/images/st-anton-passau/01-54364139-1920w.webp"
+  - "/images/st-anton-passau/02-1600c9b7-1920w.webp"
+  - "/images/st-anton-passau/03-7444f205-1920w.webp"
 ---
 
 ## Overview

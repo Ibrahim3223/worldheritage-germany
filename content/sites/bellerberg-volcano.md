@@ -1,19 +1,49 @@
 ---
-title: "Bellerberg volcano"
+title: Bellerberg volcano
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 50.347334
 longitude: 7.230359
 images:
-  - "/images-sites/bellerberg-volcano/01-2828780a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Eifel_021_Kottenheimer_Winfeld.jpg/1200px-2019_Eifel_021_Kottenheimer_Winfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sharyginite.png/1200px-Sharyginite.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brownmillerite-103177.jpg/1200px-Brownmillerite-103177.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Reinhardbraunsite-102617.jpg/1200px-Reinhardbraunsite-102617.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Osumilite-Group-91813.jpg/1200px-Osumilite-Group-91813.jpg
+image_srcset:
+  2019 Eifel 021 Kottenheimer Winfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Eifel_021_Kottenheimer_Winfeld.jpg/400px-2019_Eifel_021_Kottenheimer_Winfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Eifel_021_Kottenheimer_Winfeld.jpg/800px-2019_Eifel_021_Kottenheimer_Winfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Eifel_021_Kottenheimer_Winfeld.jpg/1200px-2019_Eifel_021_Kottenheimer_Winfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2019_Eifel_021_Kottenheimer_Winfeld.jpg/1920px-2019_Eifel_021_Kottenheimer_Winfeld.jpg
+  Sharyginite.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sharyginite.png/400px-Sharyginite.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sharyginite.png/800px-Sharyginite.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sharyginite.png/1200px-Sharyginite.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sharyginite.png/1920px-Sharyginite.png
+  Brownmillerite-103177.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brownmillerite-103177.jpg/400px-Brownmillerite-103177.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brownmillerite-103177.jpg/800px-Brownmillerite-103177.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brownmillerite-103177.jpg/1200px-Brownmillerite-103177.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Brownmillerite-103177.jpg/1920px-Brownmillerite-103177.jpg
+  Reinhardbraunsite-102617.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Reinhardbraunsite-102617.jpg/400px-Reinhardbraunsite-102617.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Reinhardbraunsite-102617.jpg/800px-Reinhardbraunsite-102617.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Reinhardbraunsite-102617.jpg/1200px-Reinhardbraunsite-102617.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Reinhardbraunsite-102617.jpg/1920px-Reinhardbraunsite-102617.jpg
+  Osumilite-Group-91813.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Osumilite-Group-91813.jpg/400px-Osumilite-Group-91813.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Osumilite-Group-91813.jpg/800px-Osumilite-Group-91813.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Osumilite-Group-91813.jpg/1200px-Osumilite-Group-91813.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Osumilite-Group-91813.jpg/1920px-Osumilite-Group-91813.jpg
 ---
 
 ## Overview

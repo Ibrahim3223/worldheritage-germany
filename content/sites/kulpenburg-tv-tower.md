@@ -13,7 +13,7 @@ regions:
 latitude: 51.411847
 longitude: 11.07615
 images:
-  - "/images-sites/kulpenburg-tv-tower/01-b26ddbd9-800w.webp"
+  - "/images/kulpenburg-tv-tower/01-b26ddbd9-800w.webp"
 ---
 
 ## Overview

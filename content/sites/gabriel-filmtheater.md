@@ -1,19 +1,43 @@
 ---
-title: "Gabriel Filmtheater"
+title: Gabriel Filmtheater
 date: 2026-01-23
 draft: false
-description: "former cinema in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: former cinema in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1433
 longitude: 11.5602
 images:
-  - "/images-sites/gabriel-filmtheater/01-8a5ee56e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gabriel_Kino_München_1.jpg/1200px-Gabriel_Kino_München_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gabriel_Kino_München_2.jpg/1200px-Gabriel_Kino_München_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gabriel-Kino1-001.jpg/1200px-Gabriel-Kino1-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GabrielFilmtheater-Kino2-001.jpg/1200px-GabrielFilmtheater-Kino2-001.jpg
+image_srcset:
+  Gabriel Kino München 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gabriel_Kino_München_1.jpg/400px-Gabriel_Kino_München_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gabriel_Kino_München_1.jpg/800px-Gabriel_Kino_München_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gabriel_Kino_München_1.jpg/1200px-Gabriel_Kino_München_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gabriel_Kino_München_1.jpg/1920px-Gabriel_Kino_München_1.jpg
+  Gabriel Kino München 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gabriel_Kino_München_2.jpg/400px-Gabriel_Kino_München_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gabriel_Kino_München_2.jpg/800px-Gabriel_Kino_München_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gabriel_Kino_München_2.jpg/1200px-Gabriel_Kino_München_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gabriel_Kino_München_2.jpg/1920px-Gabriel_Kino_München_2.jpg
+  Gabriel-Kino1-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gabriel-Kino1-001.jpg/400px-Gabriel-Kino1-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gabriel-Kino1-001.jpg/800px-Gabriel-Kino1-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gabriel-Kino1-001.jpg/1200px-Gabriel-Kino1-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gabriel-Kino1-001.jpg/1920px-Gabriel-Kino1-001.jpg
+  GabrielFilmtheater-Kino2-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GabrielFilmtheater-Kino2-001.jpg/400px-GabrielFilmtheater-Kino2-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GabrielFilmtheater-Kino2-001.jpg/800px-GabrielFilmtheater-Kino2-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GabrielFilmtheater-Kino2-001.jpg/1200px-GabrielFilmtheater-Kino2-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GabrielFilmtheater-Kino2-001.jpg/1920px-GabrielFilmtheater-Kino2-001.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.705338
 longitude: 10.147107
 images:
-  - "/images-sites/wohldorfer-wald/01-44eefefc-800w.webp"
+  - "/images/wohldorfer-wald/01-44eefefc-800w.webp"
 ---
 
 ## Overview

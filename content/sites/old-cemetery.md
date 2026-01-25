@@ -13,7 +13,7 @@ regions:
 latitude: 49.323
 longitude: 8.43027
 images:
-  - "/images-sites/old-cemetery/01-c7616376-800w.webp"
+  - "/images/old-cemetery/01-c7616376-800w.webp"
 ---
 
 ## Overview

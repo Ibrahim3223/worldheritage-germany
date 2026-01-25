@@ -13,8 +13,8 @@ regions:
 latitude: 51.4744
 longitude: 7.47083
 images:
-  - "/images-sites/zoo-dortmund/02-589ce419-800w.webp"
-  - "/images-sites/zoo-dortmund/03-4fd33fde-800w.webp"
+  - "/images/zoo-dortmund/02-589ce419-800w.webp"
+  - "/images/zoo-dortmund/03-4fd33fde-800w.webp"
 ---
 
 ## Overview

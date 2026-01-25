@@ -21,7 +21,7 @@ longitude: 11.168055555
 
 # Images
 images:
-  - "/images-sites/privatbrauerei-hofmuehl/01-7eff55b7-800w.webp"
+  - "/images/privatbrauerei-hofmuehl/01-7eff55b7-800w.webp"
 ---
 
 ## Overview

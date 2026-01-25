@@ -1,19 +1,43 @@
 ---
-title: "Ehsaan Mosque"
+title: Ehsaan Mosque
 date: 2026-01-23
 draft: false
-description: "mosque in Mannheim, Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Mannheim, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 49.448911
 longitude: 8.505697
 images:
-  - "/images-sites/ehsaan-mosque/01-1ed80078-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg/1200px-Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1200px-Ehsaan-Moschee_(Mannheim).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ehsan-Moschee,_Gebetsraum.jpg/1200px-Ehsan-Moschee,_Gebetsraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ehsan-Moschee_(Mannheim).jpg/1200px-Ehsan-Moschee_(Mannheim).jpg
+image_srcset:
+  Neckarau, 68199 Mannheim, Germany - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg/400px-Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg/800px-Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg/1200px-Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg/1920px-Neckarau,_68199_Mannheim,_Germany_-_panoramio.jpg
+  Ehsaan-Moschee (Mannheim).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/400px-Ehsaan-Moschee_(Mannheim).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/800px-Ehsaan-Moschee_(Mannheim).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1200px-Ehsaan-Moschee_(Mannheim).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ehsaan-Moschee_(Mannheim).jpg/1920px-Ehsaan-Moschee_(Mannheim).jpg
+  Ehsan-Moschee, Gebetsraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ehsan-Moschee,_Gebetsraum.jpg/400px-Ehsan-Moschee,_Gebetsraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ehsan-Moschee,_Gebetsraum.jpg/800px-Ehsan-Moschee,_Gebetsraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ehsan-Moschee,_Gebetsraum.jpg/1200px-Ehsan-Moschee,_Gebetsraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ehsan-Moschee,_Gebetsraum.jpg/1920px-Ehsan-Moschee,_Gebetsraum.jpg
+  Ehsan-Moschee (Mannheim).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ehsan-Moschee_(Mannheim).jpg/400px-Ehsan-Moschee_(Mannheim).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ehsan-Moschee_(Mannheim).jpg/800px-Ehsan-Moschee_(Mannheim).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ehsan-Moschee_(Mannheim).jpg/1200px-Ehsan-Moschee_(Mannheim).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ehsan-Moschee_(Mannheim).jpg/1920px-Ehsan-Moschee_(Mannheim).jpg
 ---
 
 ## Overview

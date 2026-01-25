@@ -1,19 +1,25 @@
 ---
-title: "Deutsches Spielkarten-Museum"
+title: Deutsches Spielkarten-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.6902
 longitude: 9.13848
 images:
-  - "/images-sites/deutsches-spielkarten-museum/01-6c4d6b09-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg/1200px-Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg
+image_srcset:
+  Bretter, die die Welt bedeuten. Spielend durch 2000 Jahre Köln -0724.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg/400px-Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg/800px-Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg/1200px-Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg/1920px-Bretter,_die_die_Welt_bedeuten._Spielend_durch_2000_Jahre_Köln_-0724.jpg
 ---
 
 ## Overview

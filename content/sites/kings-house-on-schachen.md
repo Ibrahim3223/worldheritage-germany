@@ -21,7 +21,7 @@ longitude: 11.112586111
 
 # Images
 images:
-  - "/images-sites/kings-house-on-schachen/01-f22790b3-800w.webp"
+  - "/images/kings-house-on-schachen/01-f22790b3-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.7905
 longitude: 7.78171
 images:
-  - "/images-sites/schmittenstollen/01-51c7b69b-800w.webp"
+  - "/images/schmittenstollen/01-51c7b69b-800w.webp"
 ---
 
 ## Overview

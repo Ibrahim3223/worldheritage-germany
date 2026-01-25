@@ -1,29 +1,49 @@
 ---
-title: "Ackeburg"
+title: Ackeburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.6861
 longitude: 11.2535
-
-# Images
 images:
-  - "/images-sites/ackeburg/01-a3871e7c-800w.webp"
-  - "/images-sites/ackeburg/02-770c3c17-800w.webp"
-  - "/images-sites/ackeburg/03-895726e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Selkesicht_Selketal.jpg/1200px-Selkesicht_Selketal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg/1200px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg/1200px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1200px-The_Selke_Valley_from_the_Selkesicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wall_bei_der_Ackeburg.jpg/1200px-Wall_bei_der_Ackeburg.jpg
+image_srcset:
+  Selkesicht Selketal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Selkesicht_Selketal.jpg/400px-Selkesicht_Selketal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Selkesicht_Selketal.jpg/800px-Selkesicht_Selketal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Selkesicht_Selketal.jpg/1200px-Selkesicht_Selketal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Selkesicht_Selketal.jpg/1920px-Selkesicht_Selketal.jpg
+  Falkenstein-Harz, die Selkesicht an der Ackeburg, Bild 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg/400px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg/800px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg/1200px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg/1920px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_2.jpg
+  Falkenstein-Harz, die Selkesicht an der Ackeburg, Bild 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg/400px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg/800px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg/1200px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg/1920px-Falkenstein-Harz,_die_Selkesicht_an_der_Ackeburg,_Bild_5.jpg
+  The Selke Valley from the Selkesicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/400px-The_Selke_Valley_from_the_Selkesicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/800px-The_Selke_Valley_from_the_Selkesicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1200px-The_Selke_Valley_from_the_Selkesicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Selke_Valley_from_the_Selkesicht.JPG/1920px-The_Selke_Valley_from_the_Selkesicht.JPG
+  Wall bei der Ackeburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wall_bei_der_Ackeburg.jpg/400px-Wall_bei_der_Ackeburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wall_bei_der_Ackeburg.jpg/800px-Wall_bei_der_Ackeburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wall_bei_der_Ackeburg.jpg/1200px-Wall_bei_der_Ackeburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wall_bei_der_Ackeburg.jpg/1920px-Wall_bei_der_Ackeburg.jpg
 ---
 
 ## Overview

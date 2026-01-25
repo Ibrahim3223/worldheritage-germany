@@ -21,7 +21,7 @@ longitude: 7.85075
 
 # Images
 images:
-  - "/images-sites/klusenstein-castle/01-399f5b4c-800w.webp"
+  - "/images/klusenstein-castle/01-399f5b4c-800w.webp"
 ---
 
 ## Overview

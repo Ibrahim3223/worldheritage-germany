@@ -21,7 +21,7 @@ longitude: 7.68944
 
 # Images
 images:
-  - "/images-sites/ruppertstein-castle/01-a5ab8d3f-800w.webp"
+  - "/images/ruppertstein-castle/01-a5ab8d3f-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,31 @@
 ---
-title: "Alte Synagoge (Barmen)"
+title: Alte Synagoge (Barmen)
 date: 2026-01-23
 draft: false
-description: "Gebäude in Barmen, BRD"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: Gebäude in Barmen, BRD
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2753
 longitude: 7.20222
 images:
-  - "/images-sites/alte-synagoge-barmen/03-e6a6e971-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg/1200px-Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/1200px-Wuppertal_Barmen_Alte_Synagoge.jpg
+image_srcset:
+  Wuppertal Barmen Alte Synagoge Grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg/400px-Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg/800px-Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg/1200px-Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg/1920px-Wuppertal_Barmen_Alte_Synagoge_Grundriss.jpg
+  Wuppertal Barmen Alte Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/400px-Wuppertal_Barmen_Alte_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/800px-Wuppertal_Barmen_Alte_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/1200px-Wuppertal_Barmen_Alte_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wuppertal_Barmen_Alte_Synagoge.jpg/1920px-Wuppertal_Barmen_Alte_Synagoge.jpg
 ---
 
 ## Overview

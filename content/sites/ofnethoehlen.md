@@ -13,7 +13,7 @@ regions:
 latitude: 48.8185
 longitude: 10.4503
 images:
-  - "/images-sites/ofnethoehlen/01-01b41b1d-800w.webp"
+  - "/images/ofnethoehlen/01-01b41b1d-800w.webp"
 ---
 
 ## Overview

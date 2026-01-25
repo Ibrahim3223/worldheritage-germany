@@ -1,27 +1,49 @@
 ---
-title: "Burg Wolfsberg (Steinekirch)"
+title: Burg Wolfsberg (Steinekirch)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.3715
 longitude: 10.5844
-
-# Images
 images:
-  - "/images-sites/burg-wolfsberg-steinekirch/01-99977d66-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20180929_Bergfried_Wolfsburg.jpg/1200px-20180929_Bergfried_Wolfsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Wolfsberg_Steinekirch.jpg/1200px-Burg_Wolfsberg_Steinekirch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Wolfsberg_Steinekirch_2.jpg/1200px-Burg_Wolfsberg_Steinekirch_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Wolfsberg_Steinekirch_4.jpg/1200px-Burg_Wolfsberg_Steinekirch_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Wolfsberg_Steinekirch_3.jpg/1200px-Burg_Wolfsberg_Steinekirch_3.jpg
+image_srcset:
+  20180929 Bergfried Wolfsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20180929_Bergfried_Wolfsburg.jpg/400px-20180929_Bergfried_Wolfsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20180929_Bergfried_Wolfsburg.jpg/800px-20180929_Bergfried_Wolfsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20180929_Bergfried_Wolfsburg.jpg/1200px-20180929_Bergfried_Wolfsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20180929_Bergfried_Wolfsburg.jpg/1920px-20180929_Bergfried_Wolfsburg.jpg
+  Burg Wolfsberg Steinekirch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Wolfsberg_Steinekirch.jpg/400px-Burg_Wolfsberg_Steinekirch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Wolfsberg_Steinekirch.jpg/800px-Burg_Wolfsberg_Steinekirch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Wolfsberg_Steinekirch.jpg/1200px-Burg_Wolfsberg_Steinekirch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Wolfsberg_Steinekirch.jpg/1920px-Burg_Wolfsberg_Steinekirch.jpg
+  Burg Wolfsberg Steinekirch 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Wolfsberg_Steinekirch_2.jpg/400px-Burg_Wolfsberg_Steinekirch_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Wolfsberg_Steinekirch_2.jpg/800px-Burg_Wolfsberg_Steinekirch_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Wolfsberg_Steinekirch_2.jpg/1200px-Burg_Wolfsberg_Steinekirch_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Wolfsberg_Steinekirch_2.jpg/1920px-Burg_Wolfsberg_Steinekirch_2.jpg
+  Burg Wolfsberg Steinekirch 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Wolfsberg_Steinekirch_4.jpg/400px-Burg_Wolfsberg_Steinekirch_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Wolfsberg_Steinekirch_4.jpg/800px-Burg_Wolfsberg_Steinekirch_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Wolfsberg_Steinekirch_4.jpg/1200px-Burg_Wolfsberg_Steinekirch_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Wolfsberg_Steinekirch_4.jpg/1920px-Burg_Wolfsberg_Steinekirch_4.jpg
+  Burg Wolfsberg Steinekirch 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Wolfsberg_Steinekirch_3.jpg/400px-Burg_Wolfsberg_Steinekirch_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Wolfsberg_Steinekirch_3.jpg/800px-Burg_Wolfsberg_Steinekirch_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Wolfsberg_Steinekirch_3.jpg/1200px-Burg_Wolfsberg_Steinekirch_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Wolfsberg_Steinekirch_3.jpg/1920px-Burg_Wolfsberg_Steinekirch_3.jpg
 ---
 
 ## Overview

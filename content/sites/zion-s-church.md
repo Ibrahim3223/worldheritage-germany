@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q8072471"
 description: "Zions Church, a remarkable example of Rococo architecture, stands proudly in the serene surroundings of Worpswede, Lower Saxony, Germany. Founded in 175..."
 images:
-  - "/images-sites/zion-s-church/01-c2d5ee04-1920w.webp"
-  - "/images-sites/zion-s-church/02-809c661d-1920w.webp"
-  - "/images-sites/zion-s-church/03-5b1adb9e-1920w.webp"
+  - "/images/zion-s-church/01-c2d5ee04-1920w.webp"
+  - "/images/zion-s-church/02-809c661d-1920w.webp"
+  - "/images/zion-s-church/03-5b1adb9e-1920w.webp"
 ---
 
 ## Overview

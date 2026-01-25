@@ -1,19 +1,50 @@
 ---
-title: "Die Säule"
+title: Die Säule
 date: 2026-01-24
 draft: false
-description: "Die Säule is a theatre in Duisburg, North Rhine-Westphalia, Germany."
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: Die Säule is a theatre in Duisburg, North Rhine-Westphalia, Germany.
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4306
 longitude: 6.76056
 images:
-  - "/images-sites/die-saeule/01-d83d0879-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg/1200px-20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Triangulationssäule_auf_dem_Kottmar.jpg/1200px-Triangulationssäule_auf_dem_Kottmar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg/1200px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1200px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg/1200px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg
+image_srcset:
+  ? 20241011 xl 1138-Blick von der Fuchskanzel, Felsen am Straßberg (Zittauer Gebirge),
+    Gemarkung Hartau der Stadt Zittau 5.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg/400px-20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg/800px-20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg/1200px-20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg/1920px-20241011_xl_1138-Blick_von_der_Fuchskanzel,_Felsen_am_Straßberg_(Zittauer_Gebirge),_Gemarkung_Hartau_der_Stadt_Zittau_5.jpg
+  Triangulationssäule auf dem Kottmar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Triangulationssäule_auf_dem_Kottmar.jpg/400px-Triangulationssäule_auf_dem_Kottmar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Triangulationssäule_auf_dem_Kottmar.jpg/800px-Triangulationssäule_auf_dem_Kottmar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Triangulationssäule_auf_dem_Kottmar.jpg/1200px-Triangulationssäule_auf_dem_Kottmar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Triangulationssäule_auf_dem_Kottmar.jpg/1920px-Triangulationssäule_auf_dem_Kottmar.jpg
+  Rolf Hochhuth, McKinsey is Coming, Duisburg 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg/400px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg/800px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg/1200px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg/1920px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005.jpg
+  Die Säule, Goldstraße in Duisburg, 2003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/400px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/800px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1200px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg/1920px-Die_Säule,_Goldstraße_in_Duisburg,_2003.jpg
+  Rolf Hochhuth, McKinsey is Coming, Duisburg 2005 (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg/400px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg/800px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg/1200px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg/1920px-Rolf_Hochhuth,_McKinsey_is_Coming,_Duisburg_2005_(cropped).jpg
 ---
 
 ## Overview

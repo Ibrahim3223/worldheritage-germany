@@ -21,7 +21,7 @@ longitude: 8.7731
 
 # Images
 images:
-  - "/images-sites/nolde-museum-seebuell/01-4d74f57d-800w.webp"
+  - "/images/nolde-museum-seebuell/01-4d74f57d-800w.webp"
 ---
 
 ## Overview

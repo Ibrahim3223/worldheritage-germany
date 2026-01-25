@@ -13,7 +13,7 @@ regions:
 latitude: 50.97709
 longitude: 11.03561
 images:
-  - "/images-sites/neuer-angerbrunnen/01-39bf6a47-800w.webp"
+  - "/images/neuer-angerbrunnen/01-39bf6a47-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Alamannen-Museum Vörstetten"
+title: Alamannen-Museum Vörstetten
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0664
 longitude: 7.85305
 images:
-  - "/images-sites/alamannen-museum-voerstetten/01-48330e05-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ausstellung_Alamannen-Museum.JPG/1200px-Ausstellung_Alamannen-Museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama-Wohnstallhaus.jpg/1200px-Panorama-Wohnstallhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_Wohnstallhaus.jpg/1200px-Panorama_Wohnstallhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alamannische_Kleidung.JPG/1200px-Alamannische_Kleidung.JPG
+image_srcset:
+  Ausstellung Alamannen-Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ausstellung_Alamannen-Museum.JPG/400px-Ausstellung_Alamannen-Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ausstellung_Alamannen-Museum.JPG/800px-Ausstellung_Alamannen-Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ausstellung_Alamannen-Museum.JPG/1200px-Ausstellung_Alamannen-Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ausstellung_Alamannen-Museum.JPG/1920px-Ausstellung_Alamannen-Museum.JPG
+  Panorama-Wohnstallhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama-Wohnstallhaus.jpg/400px-Panorama-Wohnstallhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama-Wohnstallhaus.jpg/800px-Panorama-Wohnstallhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama-Wohnstallhaus.jpg/1200px-Panorama-Wohnstallhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Panorama-Wohnstallhaus.jpg/1920px-Panorama-Wohnstallhaus.jpg
+  Panorama Wohnstallhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_Wohnstallhaus.jpg/400px-Panorama_Wohnstallhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_Wohnstallhaus.jpg/800px-Panorama_Wohnstallhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_Wohnstallhaus.jpg/1200px-Panorama_Wohnstallhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Panorama_Wohnstallhaus.jpg/1920px-Panorama_Wohnstallhaus.jpg
+  Alamannische Kleidung.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alamannische_Kleidung.JPG/400px-Alamannische_Kleidung.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alamannische_Kleidung.JPG/800px-Alamannische_Kleidung.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alamannische_Kleidung.JPG/1200px-Alamannische_Kleidung.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alamannische_Kleidung.JPG/1920px-Alamannische_Kleidung.JPG
 ---
 
 ## Overview

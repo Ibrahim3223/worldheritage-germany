@@ -1,19 +1,49 @@
 ---
-title: "Bernburg Castle"
+title: Bernburg Castle
 date: 2026-01-23
 draft: false
-description: "castle and museum in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle and museum in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7939
 longitude: 11.7344
 images:
-  - "/images-sites/bernburg-castle/01-ff057758-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/1200px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg/1200px-Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2024-05-05_Schloss_Bernburg_02.jpg/1200px-2024-05-05_Schloss_Bernburg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2024-05-05_Schloss_Bernburg_05.jpg/1200px-2024-05-05_Schloss_Bernburg_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024-05-05_Schloss_Bernburg_07.jpg/1200px-2024-05-05_Schloss_Bernburg_07.jpg
+image_srcset:
+  Bernburg, Schloss, Ansicht von Nordwesten 20170419 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/400px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/800px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/1200px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg/1920px-Bernburg,_Schloss,_Ansicht_von_Nordwesten_20170419_009.jpg
+  Aerial image of Schloss Bernburg (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg/400px-Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg/800px-Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg/1200px-Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg/1920px-Aerial_image_of_Schloss_Bernburg_(view_from_the_south).jpg
+  2024-05-05 Schloss Bernburg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2024-05-05_Schloss_Bernburg_02.jpg/400px-2024-05-05_Schloss_Bernburg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2024-05-05_Schloss_Bernburg_02.jpg/800px-2024-05-05_Schloss_Bernburg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2024-05-05_Schloss_Bernburg_02.jpg/1200px-2024-05-05_Schloss_Bernburg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2024-05-05_Schloss_Bernburg_02.jpg/1920px-2024-05-05_Schloss_Bernburg_02.jpg
+  2024-05-05 Schloss Bernburg 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2024-05-05_Schloss_Bernburg_05.jpg/400px-2024-05-05_Schloss_Bernburg_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2024-05-05_Schloss_Bernburg_05.jpg/800px-2024-05-05_Schloss_Bernburg_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2024-05-05_Schloss_Bernburg_05.jpg/1200px-2024-05-05_Schloss_Bernburg_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2024-05-05_Schloss_Bernburg_05.jpg/1920px-2024-05-05_Schloss_Bernburg_05.jpg
+  2024-05-05 Schloss Bernburg 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024-05-05_Schloss_Bernburg_07.jpg/400px-2024-05-05_Schloss_Bernburg_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024-05-05_Schloss_Bernburg_07.jpg/800px-2024-05-05_Schloss_Bernburg_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024-05-05_Schloss_Bernburg_07.jpg/1200px-2024-05-05_Schloss_Bernburg_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024-05-05_Schloss_Bernburg_07.jpg/1920px-2024-05-05_Schloss_Bernburg_07.jpg
 ---
 
 ## Overview

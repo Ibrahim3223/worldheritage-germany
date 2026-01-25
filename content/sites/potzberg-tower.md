@@ -13,7 +13,7 @@ regions:
 latitude: 49.5209
 longitude: 7.48033
 images:
-  - "/images-sites/potzberg-tower/01-352ac3a9-800w.webp"
+  - "/images/potzberg-tower/01-352ac3a9-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.3404
 longitude: 12.3747
 images:
-  - "/images-sites/markt/01-85c3d822-800w.webp"
+  - "/images/markt/01-85c3d822-800w.webp"
 ---
 
 ## Overview

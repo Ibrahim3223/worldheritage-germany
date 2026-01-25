@@ -13,7 +13,7 @@ regions:
 latitude: 50.732940316
 longitude: 13.21971168
 images:
-  - "/images-sites/saidenbach-dam/01-11d3fcfa-800w.webp"
+  - "/images/saidenbach-dam/01-11d3fcfa-800w.webp"
 ---
 
 ## Overview

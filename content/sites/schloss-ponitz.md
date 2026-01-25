@@ -13,7 +13,7 @@ regions:
 latitude: 50.856784
 longitude: 12.422052
 images:
-  - "/images-sites/schloss-ponitz/01-2f453353-800w.webp"
+  - "/images/schloss-ponitz/01-2f453353-800w.webp"
 ---
 
 ## Overview

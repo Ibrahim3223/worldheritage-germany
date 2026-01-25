@@ -1,19 +1,50 @@
 ---
-title: "Fagus Factory"
+title: Fagus Factory
 date: 2026-01-23
 draft: false
-description: "factory in Alfeld, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: factory in Alfeld, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.9837
 longitude: 9.81256
 images:
-  - "/images-sites/fagus-factory/01-ead940d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fagus_Werk_Alfeld_Leine_Hinten.jpg/1200px-Fagus_Werk_Alfeld_Leine_Hinten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alfeld_Fagus_08JUL15.JPG/1200px-Alfeld_Fagus_08JUL15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg/1200px-1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alfeld_Fagus-Werke_1-2005.jpg/1200px-Alfeld_Fagus-Werke_1-2005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1200px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
+image_srcset:
+  Fagus Werk Alfeld Leine Hinten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fagus_Werk_Alfeld_Leine_Hinten.jpg/400px-Fagus_Werk_Alfeld_Leine_Hinten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fagus_Werk_Alfeld_Leine_Hinten.jpg/800px-Fagus_Werk_Alfeld_Leine_Hinten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fagus_Werk_Alfeld_Leine_Hinten.jpg/1200px-Fagus_Werk_Alfeld_Leine_Hinten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Fagus_Werk_Alfeld_Leine_Hinten.jpg/1920px-Fagus_Werk_Alfeld_Leine_Hinten.jpg
+  Alfeld Fagus 08JUL15.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alfeld_Fagus_08JUL15.JPG/400px-Alfeld_Fagus_08JUL15.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alfeld_Fagus_08JUL15.JPG/800px-Alfeld_Fagus_08JUL15.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alfeld_Fagus_08JUL15.JPG/1200px-Alfeld_Fagus_08JUL15.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alfeld_Fagus_08JUL15.JPG/1920px-Alfeld_Fagus_08JUL15.JPG
+  ? 1911-1914 durch die Architekten Walter Gropius und Adolf Meyer erbautes Fagus-Werk
+    in Alfeld Leine, Fotograf Edmund Lill, Provenienz Landesmuseum Oldenburg.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg/400px-1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg/800px-1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg/1200px-1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg/1920px-1911-1914_durch_die_Architekten_Walter_Gropius_und_Adolf_Meyer_erbautes_Fagus-Werk_in_Alfeld_Leine,_Fotograf_Edmund_Lill,_Provenienz_Landesmuseum_Oldenburg.jpg
+  Alfeld Fagus-Werke 1-2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alfeld_Fagus-Werke_1-2005.jpg/400px-Alfeld_Fagus-Werke_1-2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alfeld_Fagus-Werke_1-2005.jpg/800px-Alfeld_Fagus-Werke_1-2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alfeld_Fagus-Werke_1-2005.jpg/1200px-Alfeld_Fagus-Werke_1-2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alfeld_Fagus-Werke_1-2005.jpg/1920px-Alfeld_Fagus-Werke_1-2005.jpg
+  Fagus Gropius Hauptgebaeude 200705 wiki front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/400px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/800px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1200px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg/1920px-Fagus_Gropius_Hauptgebaeude_200705_wiki_front.jpg
 ---
 
 ## Overview

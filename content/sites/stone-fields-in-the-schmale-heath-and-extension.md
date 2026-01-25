@@ -13,9 +13,9 @@ regions:
 latitude: 54.4688
 longitude: 13.5578
 images:
-  - "/images-sites/stone-fields-in-the-schmale-heath-and-extension/01-59f866b3-800w.webp"
-  - "/images-sites/stone-fields-in-the-schmale-heath-and-extension/02-1612fd0b-800w.webp"
-  - "/images-sites/stone-fields-in-the-schmale-heath-and-extension/03-f1e88f61-800w.webp"
+  - "/images/stone-fields-in-the-schmale-heath-and-extension/01-59f866b3-800w.webp"
+  - "/images/stone-fields-in-the-schmale-heath-and-extension/02-1612fd0b-800w.webp"
+  - "/images/stone-fields-in-the-schmale-heath-and-extension/03-f1e88f61-800w.webp"
 ---
 
 ## Overview

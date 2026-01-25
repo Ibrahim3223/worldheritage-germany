@@ -13,9 +13,9 @@ regions:
 latitude: 51.7056
 longitude: 10.7942
 images:
-  - "/images-sites/rappbode-auxiliary-dam/01-d7e58758-800w.webp"
-  - "/images-sites/rappbode-auxiliary-dam/02-a37ee4e4-800w.webp"
-  - "/images-sites/rappbode-auxiliary-dam/03-b7c80bc8-800w.webp"
+  - "/images/rappbode-auxiliary-dam/01-d7e58758-800w.webp"
+  - "/images/rappbode-auxiliary-dam/02-a37ee4e4-800w.webp"
+  - "/images/rappbode-auxiliary-dam/03-b7c80bc8-800w.webp"
 ---
 
 ## Overview

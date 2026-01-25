@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1806842"
 description: "In the heart of Essen, Germany, stands St. Bonifatius, a church building that reflects the architectural vision of Emil Steffann. This structure is not ..."
 images:
-  - "/images-sites/st-bonifatius/01-01f55b7e-1920w.webp"
-  - "/images-sites/st-bonifatius/02-72829b35-1920w.webp"
-  - "/images-sites/st-bonifatius/03-213776a2-1920w.webp"
+  - "/images/st-bonifatius/01-01f55b7e-1920w.webp"
+  - "/images/st-bonifatius/02-72829b35-1920w.webp"
+  - "/images/st-bonifatius/03-213776a2-1920w.webp"
 ---
 
 ## Overview

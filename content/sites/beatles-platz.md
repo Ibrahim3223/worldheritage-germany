@@ -1,19 +1,49 @@
 ---
-title: "Beatles-Platz"
+title: Beatles-Platz
 date: 2026-01-23
 draft: false
-description: "plaza in the St. Pauli quarter in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: plaza in the St. Pauli quarter in Hamburg
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5497679
 longitude: 9.95726
 images:
-  - "/images-sites/beatles-platz/01-fea3eb48-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Amalgame_des_photos_Hambourg.jpg/1200px-Amalgame_des_photos_Hambourg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg/1200px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg/1200px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beatles-Platz_(Hamburg-St._Pauli).jpg/1200px-Beatles-Platz_(Hamburg-St._Pauli).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beatlesplatz.jpg/1200px-Beatlesplatz.jpg
+image_srcset:
+  Amalgame des photos Hambourg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Amalgame_des_photos_Hambourg.jpg/400px-Amalgame_des_photos_Hambourg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Amalgame_des_photos_Hambourg.jpg/800px-Amalgame_des_photos_Hambourg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Amalgame_des_photos_Hambourg.jpg/1200px-Amalgame_des_photos_Hambourg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Amalgame_des_photos_Hambourg.jpg/1920px-Amalgame_des_photos_Hambourg.jpg
+  Hamburg- St. Pauli- Beatles-Platz 9.4.2009 I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg/400px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg/800px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg/1200px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg/1920px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_I.jpg
+  Hamburg- St. Pauli- Beatles-Platz 9.4.2009 II.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg/400px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg/800px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg/1200px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg/1920px-Hamburg-_St._Pauli-_Beatles-Platz_9.4.2009_II.jpg
+  Beatles-Platz (Hamburg-St. Pauli).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beatles-Platz_(Hamburg-St._Pauli).jpg/400px-Beatles-Platz_(Hamburg-St._Pauli).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beatles-Platz_(Hamburg-St._Pauli).jpg/800px-Beatles-Platz_(Hamburg-St._Pauli).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beatles-Platz_(Hamburg-St._Pauli).jpg/1200px-Beatles-Platz_(Hamburg-St._Pauli).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beatles-Platz_(Hamburg-St._Pauli).jpg/1920px-Beatles-Platz_(Hamburg-St._Pauli).jpg
+  Beatlesplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beatlesplatz.jpg/400px-Beatlesplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beatlesplatz.jpg/800px-Beatlesplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beatlesplatz.jpg/1200px-Beatlesplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beatlesplatz.jpg/1920px-Beatlesplatz.jpg
 ---
 
 ## Overview

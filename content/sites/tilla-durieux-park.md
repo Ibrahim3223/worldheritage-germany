@@ -13,7 +13,7 @@ regions:
 latitude: 52.506344444
 longitude: 13.375111111
 images:
-  - "/images-sites/tilla-durieux-park/01-dd3f58f6-800w.webp"
+  - "/images/tilla-durieux-park/01-dd3f58f6-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.754611111
 longitude: 13.249222222
 images:
-  - "/images-sites/oranienburg-station/01-b48f5c53-800w.webp"
-  - "/images-sites/oranienburg-station/02-45f8127b-800w.webp"
-  - "/images-sites/oranienburg-station/03-0307b6b0-800w.webp"
+  - "/images/oranienburg-station/01-b48f5c53-800w.webp"
+  - "/images/oranienburg-station/02-45f8127b-800w.webp"
+  - "/images/oranienburg-station/03-0307b6b0-800w.webp"
 ---
 
 ## Overview

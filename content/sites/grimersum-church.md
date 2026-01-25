@@ -1,19 +1,50 @@
 ---
-title: "Grimersum Church"
-site_name: "Grimersum Church"
-slug: "grimersum-church"
-region: "Lower Saxony"
-
-# Location
+title: Grimersum Church
+site_name: Grimersum Church
+slug: grimersum-church
+region: Lower Saxony
 latitude: 53.4776
 longitude: 7.17089
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1546833"
-description: "Grimersum Church, a striking example of Romanesque architecture, stands in the tranquil landscape of Krummhörn, Germany. This church, constructed from b..."
+- cultural site
+wikidata_id: Q1546833
+description: Grimersum Church, a striking example of Romanesque architecture, stands
+  in the tranquil landscape of Krummhörn, Germany. This church, constructed from b...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1200px-ChurchGrimersum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grabmal_Eggerik_Beninga_Grimersum.jpg/1200px-Grabmal_Eggerik_Beninga_Grimersum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirchenschiff_Grimersum0.jpg/1200px-Kirchenschiff_Grimersum0.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Orgel_Grimersum7.jpg/1200px-Orgel_Grimersum7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taufbecken_Grimersum32.jpg/1200px-Taufbecken_Grimersum32.jpg
+image_srcset:
+  ChurchGrimersum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/400px-ChurchGrimersum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/800px-ChurchGrimersum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1200px-ChurchGrimersum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ChurchGrimersum.jpg/1920px-ChurchGrimersum.jpg
+  Grabmal Eggerik Beninga Grimersum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grabmal_Eggerik_Beninga_Grimersum.jpg/400px-Grabmal_Eggerik_Beninga_Grimersum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grabmal_Eggerik_Beninga_Grimersum.jpg/800px-Grabmal_Eggerik_Beninga_Grimersum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grabmal_Eggerik_Beninga_Grimersum.jpg/1200px-Grabmal_Eggerik_Beninga_Grimersum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grabmal_Eggerik_Beninga_Grimersum.jpg/1920px-Grabmal_Eggerik_Beninga_Grimersum.jpg
+  Kirchenschiff Grimersum0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirchenschiff_Grimersum0.jpg/400px-Kirchenschiff_Grimersum0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirchenschiff_Grimersum0.jpg/800px-Kirchenschiff_Grimersum0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirchenschiff_Grimersum0.jpg/1200px-Kirchenschiff_Grimersum0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirchenschiff_Grimersum0.jpg/1920px-Kirchenschiff_Grimersum0.jpg
+  Orgel Grimersum7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Orgel_Grimersum7.jpg/400px-Orgel_Grimersum7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Orgel_Grimersum7.jpg/800px-Orgel_Grimersum7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Orgel_Grimersum7.jpg/1200px-Orgel_Grimersum7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Orgel_Grimersum7.jpg/1920px-Orgel_Grimersum7.jpg
+  Taufbecken Grimersum32.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taufbecken_Grimersum32.jpg/400px-Taufbecken_Grimersum32.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taufbecken_Grimersum32.jpg/800px-Taufbecken_Grimersum32.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taufbecken_Grimersum32.jpg/1200px-Taufbecken_Grimersum32.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Taufbecken_Grimersum32.jpg/1920px-Taufbecken_Grimersum32.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz"
+title: Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4629
 longitude: 12.4926
 images:
-  - "/images-sites/deutsche-raumfahrtausstellung-morgenroethe-rautenkranz/01-3cd72462-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg/1200px-Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG/1200px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG/1200px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg/1200px-Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1200px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
+image_srcset:
+  Raumfahrtausstellung Morgenröthe-Rautenkranz 2023 (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg/400px-Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg/800px-Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg/1200px-Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg/1920px-Raumfahrtausstellung_Morgenröthe-Rautenkranz_2023_(1).jpg
+  Morgenröthe-Rautenkranz - Deutsche Raumfahrtausstellung04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG/400px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG/800px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG/1200px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG/1920px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung04.JPG
+  Morgenröthe-Rautenkranz - Deutsche Raumfahrtausstellung03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG/400px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG/800px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG/1200px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG/1920px-Morgenröthe-Rautenkranz_-_Deutsche_Raumfahrtausstellung03.JPG
+  Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg/400px-Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg/800px-Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg/1200px-Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg/1920px-Deutsche_Raumfahrtausstellung_Morgenröthe-Rautenkranz.jpg
+  Deutsche Raumfahrtausstellung in Morgenröthe-Rautenkranz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/400px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/800px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1200px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg/1920px-Deutsche_Raumfahrtausstellung_in_Morgenröthe-Rautenkranz.jpg
 ---
 
 ## Overview

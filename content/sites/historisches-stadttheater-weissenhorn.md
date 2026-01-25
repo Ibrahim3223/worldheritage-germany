@@ -1,21 +1,49 @@
 ---
-title: "Historisches Stadttheater Weißenhorn"
+title: Historisches Stadttheater Weißenhorn
 date: 2026-01-24
 draft: false
-description: "theatre in Weißenhorn, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Weißenhorn, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3052
 longitude: 10.1565
 images:
-  - "/images-sites/historisches-stadttheater-weissenhorn/01-7625874b-800w.webp"
-  - "/images-sites/historisches-stadttheater-weissenhorn/02-99d9d329-800w.webp"
-  - "/images-sites/historisches-stadttheater-weissenhorn/03-635c8b7d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1200px-Historisches_Stadttheater_Weißenhorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg/1200px-Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Weissenhorn_Stadttheater_Decke.jpg/1200px-Weissenhorn_Stadttheater_Decke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Weissenhorn_Stadttheater_Hofseite.jpg/1200px-Weissenhorn_Stadttheater_Hofseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weissenhorn_Stadttheater.jpg/1200px-Weissenhorn_Stadttheater.jpg
+image_srcset:
+  Historisches Stadttheater Weißenhorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/400px-Historisches_Stadttheater_Weißenhorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/800px-Historisches_Stadttheater_Weißenhorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1200px-Historisches_Stadttheater_Weißenhorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Historisches_Stadttheater_Weißenhorn.jpg/1920px-Historisches_Stadttheater_Weißenhorn.jpg
+  Weissenhorn Stadttheater Blick zur Bühne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg/400px-Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg/800px-Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg/1200px-Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg/1920px-Weissenhorn_Stadttheater_Blick_zur_Bühne.jpg
+  Weissenhorn Stadttheater Decke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Weissenhorn_Stadttheater_Decke.jpg/400px-Weissenhorn_Stadttheater_Decke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Weissenhorn_Stadttheater_Decke.jpg/800px-Weissenhorn_Stadttheater_Decke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Weissenhorn_Stadttheater_Decke.jpg/1200px-Weissenhorn_Stadttheater_Decke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Weissenhorn_Stadttheater_Decke.jpg/1920px-Weissenhorn_Stadttheater_Decke.jpg
+  Weissenhorn Stadttheater Hofseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Weissenhorn_Stadttheater_Hofseite.jpg/400px-Weissenhorn_Stadttheater_Hofseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Weissenhorn_Stadttheater_Hofseite.jpg/800px-Weissenhorn_Stadttheater_Hofseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Weissenhorn_Stadttheater_Hofseite.jpg/1200px-Weissenhorn_Stadttheater_Hofseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Weissenhorn_Stadttheater_Hofseite.jpg/1920px-Weissenhorn_Stadttheater_Hofseite.jpg
+  Weissenhorn Stadttheater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weissenhorn_Stadttheater.jpg/400px-Weissenhorn_Stadttheater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weissenhorn_Stadttheater.jpg/800px-Weissenhorn_Stadttheater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weissenhorn_Stadttheater.jpg/1200px-Weissenhorn_Stadttheater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weissenhorn_Stadttheater.jpg/1920px-Weissenhorn_Stadttheater.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Europa-Kolleg Hamburg"
+title: Europa-Kolleg Hamburg
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.567820072
 longitude: 9.870906068
-
-# Images
 images:
-  - "/images-sites/europa-kolleg-hamburg/01-080682c3-800w.webp"
-  - "/images-sites/europa-kolleg-hamburg/01-8797dcf6-800w.webp"
-  - "/images-sites/europa-kolleg-hamburg/02-c8b75396-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gf_windmühlenweg_27_5_29898.jpg/1200px-Gf_windmühlenweg_27_5_29898.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gf_windmühlenweg_27_3_29898.jpg/1200px-Gf_windmühlenweg_27_3_29898.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gf_windmühlenweg_27_4_29898.jpg/1200px-Gf_windmühlenweg_27_4_29898.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gf_windmühlenweg_27_2_29898.jpg/1200px-Gf_windmühlenweg_27_2_29898.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Heine-Statue_Europa-Kolleg.jpg/1200px-Heine-Statue_Europa-Kolleg.jpg
+image_srcset:
+  Gf windmühlenweg 27 5 29898.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gf_windmühlenweg_27_5_29898.jpg/400px-Gf_windmühlenweg_27_5_29898.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gf_windmühlenweg_27_5_29898.jpg/800px-Gf_windmühlenweg_27_5_29898.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gf_windmühlenweg_27_5_29898.jpg/1200px-Gf_windmühlenweg_27_5_29898.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gf_windmühlenweg_27_5_29898.jpg/1920px-Gf_windmühlenweg_27_5_29898.jpg
+  Gf windmühlenweg 27 3 29898.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gf_windmühlenweg_27_3_29898.jpg/400px-Gf_windmühlenweg_27_3_29898.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gf_windmühlenweg_27_3_29898.jpg/800px-Gf_windmühlenweg_27_3_29898.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gf_windmühlenweg_27_3_29898.jpg/1200px-Gf_windmühlenweg_27_3_29898.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gf_windmühlenweg_27_3_29898.jpg/1920px-Gf_windmühlenweg_27_3_29898.jpg
+  Gf windmühlenweg 27 4 29898.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gf_windmühlenweg_27_4_29898.jpg/400px-Gf_windmühlenweg_27_4_29898.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gf_windmühlenweg_27_4_29898.jpg/800px-Gf_windmühlenweg_27_4_29898.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gf_windmühlenweg_27_4_29898.jpg/1200px-Gf_windmühlenweg_27_4_29898.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gf_windmühlenweg_27_4_29898.jpg/1920px-Gf_windmühlenweg_27_4_29898.jpg
+  Gf windmühlenweg 27 2 29898.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gf_windmühlenweg_27_2_29898.jpg/400px-Gf_windmühlenweg_27_2_29898.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gf_windmühlenweg_27_2_29898.jpg/800px-Gf_windmühlenweg_27_2_29898.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gf_windmühlenweg_27_2_29898.jpg/1200px-Gf_windmühlenweg_27_2_29898.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gf_windmühlenweg_27_2_29898.jpg/1920px-Gf_windmühlenweg_27_2_29898.jpg
+  Heine-Statue Europa-Kolleg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Heine-Statue_Europa-Kolleg.jpg/400px-Heine-Statue_Europa-Kolleg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Heine-Statue_Europa-Kolleg.jpg/800px-Heine-Statue_Europa-Kolleg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Heine-Statue_Europa-Kolleg.jpg/1200px-Heine-Statue_Europa-Kolleg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Heine-Statue_Europa-Kolleg.jpg/1920px-Heine-Statue_Europa-Kolleg.jpg
 ---
 
 ## Overview

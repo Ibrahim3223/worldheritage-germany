@@ -1,19 +1,25 @@
 ---
-title: "Fazle Omar Mosque"
+title: Fazle Omar Mosque
 date: 2026-01-23
 draft: false
-description: "a mosque in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: a mosque in Hamburg
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 53.58361111
 longitude: 9.94333333
 images:
-  - "/images-sites/fazle-omar-mosque/01-67e3b7a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1200px-FazleOmarMoschee.jpg
+image_srcset:
+  FazleOmarMoschee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/400px-FazleOmarMoschee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/800px-FazleOmarMoschee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1200px-FazleOmarMoschee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/FazleOmarMoschee.jpg/1920px-FazleOmarMoschee.jpg
 ---
 
 ## Overview

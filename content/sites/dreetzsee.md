@@ -1,21 +1,49 @@
 ---
-title: "Dreetzsee"
+title: Dreetzsee
 date: 2026-01-23
 draft: false
-description: "lake in Feldberger Seenlandschaft, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Feldberger Seenlandschaft, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.287
 longitude: 13.4328
 images:
-  - "/images-sites/dreetzsee/01-b8bc97fb-800w.webp"
-  - "/images-sites/dreetzsee/02-0416c1b5-800w.webp"
-  - "/images-sites/dreetzsee/03-3d546184-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dreetzsee_am_Morgen.jpg/1200px-Dreetzsee_am_Morgen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sonnenuntergang_am_Dreetzsee.jpg/1200px-Sonnenuntergang_am_Dreetzsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dreetzsee.jpg/1200px-Dreetzsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Feldberger_Seen_Abflussverteilung_2003–2018.png/1200px-Feldberger_Seen_Abflussverteilung_2003–2018.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreetzsee_morning.jpg/1200px-Dreetzsee_morning.jpg
+image_srcset:
+  Dreetzsee am Morgen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dreetzsee_am_Morgen.jpg/400px-Dreetzsee_am_Morgen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dreetzsee_am_Morgen.jpg/800px-Dreetzsee_am_Morgen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dreetzsee_am_Morgen.jpg/1200px-Dreetzsee_am_Morgen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dreetzsee_am_Morgen.jpg/1920px-Dreetzsee_am_Morgen.jpg
+  Sonnenuntergang am Dreetzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sonnenuntergang_am_Dreetzsee.jpg/400px-Sonnenuntergang_am_Dreetzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sonnenuntergang_am_Dreetzsee.jpg/800px-Sonnenuntergang_am_Dreetzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sonnenuntergang_am_Dreetzsee.jpg/1200px-Sonnenuntergang_am_Dreetzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sonnenuntergang_am_Dreetzsee.jpg/1920px-Sonnenuntergang_am_Dreetzsee.jpg
+  Dreetzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dreetzsee.jpg/400px-Dreetzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dreetzsee.jpg/800px-Dreetzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dreetzsee.jpg/1200px-Dreetzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dreetzsee.jpg/1920px-Dreetzsee.jpg
+  Feldberger Seen Abflussverteilung 2003–2018.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Feldberger_Seen_Abflussverteilung_2003–2018.png/400px-Feldberger_Seen_Abflussverteilung_2003–2018.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Feldberger_Seen_Abflussverteilung_2003–2018.png/800px-Feldberger_Seen_Abflussverteilung_2003–2018.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Feldberger_Seen_Abflussverteilung_2003–2018.png/1200px-Feldberger_Seen_Abflussverteilung_2003–2018.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Feldberger_Seen_Abflussverteilung_2003–2018.png/1920px-Feldberger_Seen_Abflussverteilung_2003–2018.png
+  Dreetzsee morning.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreetzsee_morning.jpg/400px-Dreetzsee_morning.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreetzsee_morning.jpg/800px-Dreetzsee_morning.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreetzsee_morning.jpg/1200px-Dreetzsee_morning.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dreetzsee_morning.jpg/1920px-Dreetzsee_morning.jpg
 ---
 
 ## Overview

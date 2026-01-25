@@ -13,7 +13,7 @@ regions:
 latitude: 48.9978
 longitude: 8.40167
 images:
-  - "/images-sites/karlsruhe-zoo/01-50702205-800w.webp"
+  - "/images/karlsruhe-zoo/01-50702205-800w.webp"
 ---
 
 ## Overview

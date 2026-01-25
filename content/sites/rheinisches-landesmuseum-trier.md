@@ -13,8 +13,8 @@ regions:
 latitude: 49.7518
 longitude: 6.6445
 images:
-  - "/images-sites/rheinisches-landesmuseum-trier/01-2b40c29f-800w.webp"
-  - "/images-sites/rheinisches-landesmuseum-trier/03-5432cef1-800w.webp"
+  - "/images/rheinisches-landesmuseum-trier/01-2b40c29f-800w.webp"
+  - "/images/rheinisches-landesmuseum-trier/03-5432cef1-800w.webp"
 ---
 
 ## Overview

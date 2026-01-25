@@ -13,8 +13,8 @@ regions:
 latitude: 52.5225
 longitude: 13.3764
 images:
-  - "/images-sites/lessing-theater/02-6b2386d7-800w.webp"
-  - "/images-sites/lessing-theater/03-90fe9417-800w.webp"
+  - "/images/lessing-theater/02-6b2386d7-800w.webp"
+  - "/images/lessing-theater/03-90fe9417-800w.webp"
 ---
 
 ## Overview

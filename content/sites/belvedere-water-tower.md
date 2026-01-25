@@ -1,19 +1,49 @@
 ---
-title: "Belvedere water tower"
+title: Belvedere water tower
 date: 2026-01-24
 draft: false
-description: "tower in Aachen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Aachen, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7864
 longitude: 6.08064
 images:
-  - "/images-sites/belvedere-water-tower/01-c17a9772-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg/1200px-Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aachen_Lousberg_Belvedere.jpg/1200px-Aachen_Lousberg_Belvedere.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aachen_Drehturm_Belvedere_-_panoramio.jpg/1200px-Aachen_Drehturm_Belvedere_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aachen_Drehturm_Belvedere_1.jpg/1200px-Aachen_Drehturm_Belvedere_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aachen_Drehturm_Belvedere_2.jpg/1200px-Aachen_Drehturm_Belvedere_2.jpg
+image_srcset:
+  Drehturm Belvedere auf dem Lousberg in Aachen - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg/400px-Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg/800px-Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg/1200px-Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg/1920px-Drehturm_Belvedere_auf_dem_Lousberg_in_Aachen_-_panoramio.jpg
+  Aachen Lousberg Belvedere.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aachen_Lousberg_Belvedere.jpg/400px-Aachen_Lousberg_Belvedere.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aachen_Lousberg_Belvedere.jpg/800px-Aachen_Lousberg_Belvedere.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aachen_Lousberg_Belvedere.jpg/1200px-Aachen_Lousberg_Belvedere.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aachen_Lousberg_Belvedere.jpg/1920px-Aachen_Lousberg_Belvedere.jpg
+  Aachen Drehturm Belvedere - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aachen_Drehturm_Belvedere_-_panoramio.jpg/400px-Aachen_Drehturm_Belvedere_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aachen_Drehturm_Belvedere_-_panoramio.jpg/800px-Aachen_Drehturm_Belvedere_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aachen_Drehturm_Belvedere_-_panoramio.jpg/1200px-Aachen_Drehturm_Belvedere_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aachen_Drehturm_Belvedere_-_panoramio.jpg/1920px-Aachen_Drehturm_Belvedere_-_panoramio.jpg
+  Aachen Drehturm Belvedere 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aachen_Drehturm_Belvedere_1.jpg/400px-Aachen_Drehturm_Belvedere_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aachen_Drehturm_Belvedere_1.jpg/800px-Aachen_Drehturm_Belvedere_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aachen_Drehturm_Belvedere_1.jpg/1200px-Aachen_Drehturm_Belvedere_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aachen_Drehturm_Belvedere_1.jpg/1920px-Aachen_Drehturm_Belvedere_1.jpg
+  Aachen Drehturm Belvedere 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aachen_Drehturm_Belvedere_2.jpg/400px-Aachen_Drehturm_Belvedere_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aachen_Drehturm_Belvedere_2.jpg/800px-Aachen_Drehturm_Belvedere_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aachen_Drehturm_Belvedere_2.jpg/1200px-Aachen_Drehturm_Belvedere_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Aachen_Drehturm_Belvedere_2.jpg/1920px-Aachen_Drehturm_Belvedere_2.jpg
 ---
 
 ## Overview

@@ -1,19 +1,51 @@
 ---
-title: "Buchau Abbey"
+title: Buchau Abbey
 date: 2026-01-23
 draft: false
-description: "Monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0675
 longitude: 9.6116
 images:
-  - "/images-sites/buchau-abbey/01-d98a03c7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bad-Buchau-0622.jpg/1200px-Bad-Buchau-0622.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg/1200px-St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG/1200px-Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/1200px-Bad_Buchau_Blick_von_Oggelshausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg/1200px-Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg
+image_srcset:
+  Bad-Buchau-0622.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bad-Buchau-0622.jpg/400px-Bad-Buchau-0622.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bad-Buchau-0622.jpg/800px-Bad-Buchau-0622.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bad-Buchau-0622.jpg/1200px-Bad-Buchau-0622.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bad-Buchau-0622.jpg/1920px-Bad-Buchau-0622.jpg
+  St. Cornelius und Cyprianus (Bad Buchau)-b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg/400px-St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg/800px-St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg/1200px-St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg/1920px-St._Cornelius_und_Cyprianus_(Bad_Buchau)-b.jpg
+  ? Deckelpokal (Detail) mit römischem Krieger 1633 als Geschenk der Äbtissin des
+    Klosters Buchenau an den Rat der Stadt Rapperswil - Silberobjekte aus dem Rathaus
+    im Stadtmuseum Rapperswil 2012-12-01 16-16-53 (P7700).JPG
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG/400px-Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG/800px-Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG/1200px-Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG/1920px-Deckelpokal_(Detail)_mit_römischem_Krieger_1633_als_Geschenk_der_Äbtissin_des_Klosters_Buchenau_an_den_Rat_der_Stadt_Rapperswil_-_Silberobjekte_aus_dem_Rathaus_im_Stadtmuseum_Rapperswil_2012-12-01_16-16-53_(P7700).JPG
+  Bad Buchau Blick von Oggelshausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/400px-Bad_Buchau_Blick_von_Oggelshausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/800px-Bad_Buchau_Blick_von_Oggelshausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/1200px-Bad_Buchau_Blick_von_Oggelshausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bad_Buchau_Blick_von_Oggelshausen.jpg/1920px-Bad_Buchau_Blick_von_Oggelshausen.jpg
+  Buchau. View of former Imperial abbey, circa 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg/400px-Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg/800px-Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg/1200px-Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg/1920px-Buchau._View_of_former_Imperial_abbey,_circa_1900.jpg
 ---
 
 ## Overview

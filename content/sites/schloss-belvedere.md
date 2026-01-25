@@ -13,7 +13,7 @@ regions:
 latitude: 50.9486
 longitude: 11.3486
 images:
-  - "/images-sites/schloss-belvedere/01-231e2e4a-800w.webp"
+  - "/images/schloss-belvedere/01-231e2e4a-800w.webp"
 ---
 
 ## Overview

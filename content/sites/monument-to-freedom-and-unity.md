@@ -13,9 +13,9 @@ regions:
 latitude: 52.51638889
 longitude: 13.4
 images:
-  - "/images-sites/monument-to-freedom-and-unity/01-8bfa0edc-800w.webp"
-  - "/images-sites/monument-to-freedom-and-unity/02-c57723b3-800w.webp"
-  - "/images-sites/monument-to-freedom-and-unity/03-41ad3745-800w.webp"
+  - "/images/monument-to-freedom-and-unity/01-8bfa0edc-800w.webp"
+  - "/images/monument-to-freedom-and-unity/02-c57723b3-800w.webp"
+  - "/images/monument-to-freedom-and-unity/03-41ad3745-800w.webp"
 ---
 
 ## Overview

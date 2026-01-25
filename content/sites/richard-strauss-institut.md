@@ -13,9 +13,9 @@ regions:
 latitude: 47.493085
 longitude: 11.107684
 images:
-  - "/images-sites/richard-strauss-institut/01-ffb08fd2-800w.webp"
-  - "/images-sites/richard-strauss-institut/02-e69c64f4-800w.webp"
-  - "/images-sites/richard-strauss-institut/03-7848fb20-800w.webp"
+  - "/images/richard-strauss-institut/01-ffb08fd2-800w.webp"
+  - "/images/richard-strauss-institut/02-e69c64f4-800w.webp"
+  - "/images/richard-strauss-institut/03-7848fb20-800w.webp"
 ---
 
 ## Overview

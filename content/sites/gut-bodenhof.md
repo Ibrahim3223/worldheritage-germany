@@ -1,20 +1,49 @@
 ---
-title: "Gut Bodenhof"
+title: Gut Bodenhof
 date: 2026-01-23
 draft: false
-description: "former estate in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: former estate in Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 50.758611111
 longitude: 6.083611111
 images:
-  - "/images-sites/gut-bodenhof/02-926f45ab-800w.webp"
-  - "/images-sites/gut-bodenhof/03-c7c11b28-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gut_Bodenhof_Arched_Gate.jpg/1200px-Gut_Bodenhof_Arched_Gate.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gut_Bodenhof_Bridge_and_Moat.jpg/1200px-Gut_Bodenhof_Bridge_and_Moat.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portal_und_Brücke_des_Gutes_Bodenhof.jpg/1200px-Portal_und_Brücke_des_Gutes_Bodenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gut_Bodenhof_Urkataster.jpg/1200px-Gut_Bodenhof_Urkataster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg/1200px-Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg
+image_srcset:
+  Gut Bodenhof Arched Gate.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gut_Bodenhof_Arched_Gate.jpg/400px-Gut_Bodenhof_Arched_Gate.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gut_Bodenhof_Arched_Gate.jpg/800px-Gut_Bodenhof_Arched_Gate.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gut_Bodenhof_Arched_Gate.jpg/1200px-Gut_Bodenhof_Arched_Gate.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gut_Bodenhof_Arched_Gate.jpg/1920px-Gut_Bodenhof_Arched_Gate.jpg
+  Gut Bodenhof Bridge and Moat.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gut_Bodenhof_Bridge_and_Moat.jpg/400px-Gut_Bodenhof_Bridge_and_Moat.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gut_Bodenhof_Bridge_and_Moat.jpg/800px-Gut_Bodenhof_Bridge_and_Moat.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gut_Bodenhof_Bridge_and_Moat.jpg/1200px-Gut_Bodenhof_Bridge_and_Moat.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gut_Bodenhof_Bridge_and_Moat.jpg/1920px-Gut_Bodenhof_Bridge_and_Moat.jpg
+  Portal und Brücke des Gutes Bodenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portal_und_Brücke_des_Gutes_Bodenhof.jpg/400px-Portal_und_Brücke_des_Gutes_Bodenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portal_und_Brücke_des_Gutes_Bodenhof.jpg/800px-Portal_und_Brücke_des_Gutes_Bodenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portal_und_Brücke_des_Gutes_Bodenhof.jpg/1200px-Portal_und_Brücke_des_Gutes_Bodenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portal_und_Brücke_des_Gutes_Bodenhof.jpg/1920px-Portal_und_Brücke_des_Gutes_Bodenhof.jpg
+  Gut Bodenhof Urkataster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gut_Bodenhof_Urkataster.jpg/400px-Gut_Bodenhof_Urkataster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gut_Bodenhof_Urkataster.jpg/800px-Gut_Bodenhof_Urkataster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gut_Bodenhof_Urkataster.jpg/1200px-Gut_Bodenhof_Urkataster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gut_Bodenhof_Urkataster.jpg/1920px-Gut_Bodenhof_Urkataster.jpg
+  Gut Bodenhof, Caspar Wolf 1780-81.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg/400px-Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg/800px-Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg/1200px-Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg/1920px-Gut_Bodenhof,_Caspar_Wolf_1780-81.jpg
 ---
 
 ## Overview

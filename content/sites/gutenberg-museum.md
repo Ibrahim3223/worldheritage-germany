@@ -1,19 +1,49 @@
 ---
-title: "Gutenberg Museum"
+title: Gutenberg Museum
 date: 2026-01-23
 draft: false
-description: "museum in Mainz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Mainz, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.999722222
 longitude: 8.275277777
 images:
-  - "/images-sites/gutenberg-museum/01-297955c6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg/1200px-Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Entrance_to_Gutenberg_museum.jpg/1200px-Entrance_to_Gutenberg_museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gutenbergmuseum_Mainz.jpg/1200px-Gutenbergmuseum_Mainz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg/1200px-Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1200px-Gutenberg-Museum_Mainz_585-vh.jpg
+image_srcset:
+  Gutenberg Museum - Haus Zum Römischen Kaiser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg/400px-Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg/800px-Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg/1200px-Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg/1920px-Gutenberg_Museum_-_Haus_Zum_Römischen_Kaiser.jpg
+  Entrance to Gutenberg museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Entrance_to_Gutenberg_museum.jpg/400px-Entrance_to_Gutenberg_museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Entrance_to_Gutenberg_museum.jpg/800px-Entrance_to_Gutenberg_museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Entrance_to_Gutenberg_museum.jpg/1200px-Entrance_to_Gutenberg_museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Entrance_to_Gutenberg_museum.jpg/1920px-Entrance_to_Gutenberg_museum.jpg
+  Gutenbergmuseum Mainz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gutenbergmuseum_Mainz.jpg/400px-Gutenbergmuseum_Mainz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gutenbergmuseum_Mainz.jpg/800px-Gutenbergmuseum_Mainz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gutenbergmuseum_Mainz.jpg/1200px-Gutenbergmuseum_Mainz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gutenbergmuseum_Mainz.jpg/1920px-Gutenbergmuseum_Mainz.jpg
+  Rekonstruierte Druckerpresse im Gutenberg-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg/400px-Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg/800px-Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg/1200px-Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg/1920px-Rekonstruierte_Druckerpresse_im_Gutenberg-Museum.jpg
+  Gutenberg-Museum Mainz 585-vh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/400px-Gutenberg-Museum_Mainz_585-vh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/800px-Gutenberg-Museum_Mainz_585-vh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1200px-Gutenberg-Museum_Mainz_585-vh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1920px-Gutenberg-Museum_Mainz_585-vh.jpg
 ---
 
 ## Overview

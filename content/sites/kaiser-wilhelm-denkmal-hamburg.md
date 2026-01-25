@@ -1,19 +1,49 @@
 ---
-title: "Kaiser-Wilhelm-Denkmal, Hamburg"
+title: Kaiser-Wilhelm-Denkmal, Hamburg
 date: 2026-01-23
 draft: false
-description: "Denkmal in Hamburg-Neustadt"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Denkmal in Hamburg-Neustadt
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55538889
 longitude: 9.97805556
 images:
-  - "/images-sites/kaiser-wilhelm-denkmal-hamburg/01-25cc24a7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg/1200px-Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1200px-Kaiser_Wilhelm_I._Denkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kaiser_Wilhelm_I._-_panoramio.jpg/1200px-Kaiser_Wilhelm_I._-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg/1200px-Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png/1200px-Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png
+image_srcset:
+  Denkmal Wilhelm I in Hamburg, nahe Sievekingplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg/400px-Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg/800px-Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg/1200px-Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg/1920px-Denkmal_Wilhelm_I_in_Hamburg,_nahe_Sievekingplatz.jpg
+  Kaiser Wilhelm I. Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/400px-Kaiser_Wilhelm_I._Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/800px-Kaiser_Wilhelm_I._Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1200px-Kaiser_Wilhelm_I._Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser_Wilhelm_I._Denkmal.jpg/1920px-Kaiser_Wilhelm_I._Denkmal.jpg
+  Kaiser Wilhelm I. - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kaiser_Wilhelm_I._-_panoramio.jpg/400px-Kaiser_Wilhelm_I._-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kaiser_Wilhelm_I._-_panoramio.jpg/800px-Kaiser_Wilhelm_I._-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kaiser_Wilhelm_I._-_panoramio.jpg/1200px-Kaiser_Wilhelm_I._-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kaiser_Wilhelm_I._-_panoramio.jpg/1920px-Kaiser_Wilhelm_I._-_panoramio.jpg
+  Hamburg, Hamburg - Kaiser-Wilhelm-Denkmal (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg/400px-Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg/800px-Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg/1200px-Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg/1920px-Hamburg,_Hamburg_-_Kaiser-Wilhelm-Denkmal_(Zeno_Ansichtskarten).jpg
+  Rathausmarkt um 1906 mit Kaiser-Wilhelm-Denkmal, Fotograf Johann Hamann,gemeinfrei.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png/400px-Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png/800px-Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png/1200px-Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png/1920px-Rathausmarkt_um_1906_mit_Kaiser-Wilhelm-Denkmal,_Fotograf_Johann_Hamann,gemeinfrei.png
 ---
 
 ## Overview

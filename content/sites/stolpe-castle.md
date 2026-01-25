@@ -13,7 +13,7 @@ regions:
 latitude: 53.8679
 longitude: 13.9915
 images:
-  - "/images-sites/stolpe-castle/01-56335260-800w.webp"
+  - "/images/stolpe-castle/01-56335260-800w.webp"
 ---
 
 ## Overview

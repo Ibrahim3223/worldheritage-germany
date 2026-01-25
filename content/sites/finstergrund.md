@@ -1,19 +1,43 @@
 ---
-title: "Finstergrund"
+title: Finstergrund
 date: 2026-01-23
 draft: false
-description: "Abandoned mine, now museum, in the Southern Black Forest in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: Abandoned mine, now museum, in the Southern Black Forest in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 47.832897222
 longitude: 7.9032
 images:
-  - "/images-sites/finstergrund/01-8ce401d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2012_Schwarzwald_066_Finstergrund.JPG/1200px-2012_Schwarzwald_066_Finstergrund.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2012_Schwarzwald_068_Finstergrund_Flussspat.JPG/1200px-2012_Schwarzwald_068_Finstergrund_Flussspat.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg/1200px-Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptmann_-_Finstergrund-Mühle.jpg/1200px-Hauptmann_-_Finstergrund-Mühle.jpg
+image_srcset:
+  2012 Schwarzwald 066 Finstergrund.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2012_Schwarzwald_066_Finstergrund.JPG/400px-2012_Schwarzwald_066_Finstergrund.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2012_Schwarzwald_066_Finstergrund.JPG/800px-2012_Schwarzwald_066_Finstergrund.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2012_Schwarzwald_066_Finstergrund.JPG/1200px-2012_Schwarzwald_066_Finstergrund.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2012_Schwarzwald_066_Finstergrund.JPG/1920px-2012_Schwarzwald_066_Finstergrund.JPG
+  2012 Schwarzwald 068 Finstergrund Flussspat.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2012_Schwarzwald_068_Finstergrund_Flussspat.JPG/400px-2012_Schwarzwald_068_Finstergrund_Flussspat.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2012_Schwarzwald_068_Finstergrund_Flussspat.JPG/800px-2012_Schwarzwald_068_Finstergrund_Flussspat.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2012_Schwarzwald_068_Finstergrund_Flussspat.JPG/1200px-2012_Schwarzwald_068_Finstergrund_Flussspat.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2012_Schwarzwald_068_Finstergrund_Flussspat.JPG/1920px-2012_Schwarzwald_068_Finstergrund_Flussspat.JPG
+  Bergwerk Finstergrund Schussfolge zwanzigstes Jahrhundert brisante Sprengstoffe Millisekundenzuender.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg/400px-Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg/800px-Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg/1200px-Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg/1920px-Bergwerk_Finstergrund_Schussfolge_zwanzigstes_Jahrhundert_brisante_Sprengstoffe_Millisekundenzuender.jpg
+  Hauptmann - Finstergrund-Mühle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptmann_-_Finstergrund-Mühle.jpg/400px-Hauptmann_-_Finstergrund-Mühle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptmann_-_Finstergrund-Mühle.jpg/800px-Hauptmann_-_Finstergrund-Mühle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptmann_-_Finstergrund-Mühle.jpg/1200px-Hauptmann_-_Finstergrund-Mühle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptmann_-_Finstergrund-Mühle.jpg/1920px-Hauptmann_-_Finstergrund-Mühle.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 11.81944444
 
 # Images
 images:
-  - "/images-sites/schkoelen-castle/01-b53dd437-800w.webp"
+  - "/images/schkoelen-castle/01-b53dd437-800w.webp"
 ---
 
 ## Overview

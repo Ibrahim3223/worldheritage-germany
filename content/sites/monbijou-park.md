@@ -13,7 +13,7 @@ regions:
 latitude: 52.5231
 longitude: 13.3969
 images:
-  - "/images-sites/monbijou-park/01-c2828587-800w.webp"
+  - "/images/monbijou-park/01-c2828587-800w.webp"
 ---
 
 ## Overview

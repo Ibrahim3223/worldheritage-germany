@@ -1,27 +1,45 @@
 ---
-title: "Burg Weiler"
+title: Burg Weiler
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.288
 longitude: 8.11175
-
-# Images
 images:
-  - "/images-sites/burg-weiler/01-fe2e16b7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg/1200px-The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg/1200px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg/1200px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu/1200px-Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu
+image_srcset:
+  ? The Burg Weiler Altar Triptych Centerpiece The Virgin and Child and Saints Apollonia
+    Barbara Catherina Lawrence Chapel of Burg Weiler Castle Northern Swabia Middle
+    Rhineland Germany.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg/400px-The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg/800px-The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg/1200px-The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg/1920px-The_Burg_Weiler_Altar_Triptych_Centerpiece_The_Virgin_and_Child_and_Saints_Apollonia_Barbara_Catherina_Lawrence_Chapel_of_Burg_Weiler_Castle_Northern_Swabia_Middle_Rhineland_Germany.jpg
+  The Burg Weiler Altar Triptych (Altarpiece with the Virgin and Child and Saints) MET DP164882.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg/400px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg/800px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg/1200px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg/1920px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP164882.jpg
+  The Burg Weiler Altar Triptych (Altarpiece with the Virgin and Child and Saints) MET DP278974.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg/400px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg/800px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg/1200px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg/1920px-The_Burg_Weiler_Altar_Triptych_(Altarpiece_with_the_Virgin_and_Child_and_Saints)_MET_DP278974.jpg
+  Vollständige Beschreibung des Schweizerlandes, Supplement Band, 1835, Markus Lutz (bub gb bO06AAAAcAAJ).djvu:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu/400px-Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu/800px-Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu/1200px-Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu/1920px-Vollständige_Beschreibung_des_Schweizerlandes,_Supplement_Band,_1835,_Markus_Lutz_(bub_gb_bO06AAAAcAAJ).djvu
 ---
 
 ## Overview

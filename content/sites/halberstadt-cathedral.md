@@ -1,19 +1,49 @@
 ---
-title: "Halberstadt Cathedral"
+title: Halberstadt Cathedral
 date: 2026-01-23
 draft: false
-description: "cathedral in Halberstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cathedral"
+description: cathedral in Halberstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Cathedral
 categories:
-  - "Cathedral"
+- Cathedral
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8963
 longitude: 11.0487
 images:
-  - "/images-sites/halberstadt-cathedral/01-7ed06cd7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg/1200px-L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/L02_336_Domplatz,_Dom,_Martinikirche.jpg/1200px-L02_336_Domplatz,_Dom,_Martinikirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1200px-Halberstadt_Dom_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg/1200px-Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg/1200px-Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg
+image_srcset:
+  L02 329 Domplatz, Dom St. Stephanus und St. Sixtus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg/400px-L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg/800px-L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg/1200px-L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg/1920px-L02_329_Domplatz,_Dom_St._Stephanus_und_St._Sixtus.jpg
+  L02 336 Domplatz, Dom, Martinikirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/L02_336_Domplatz,_Dom,_Martinikirche.jpg/400px-L02_336_Domplatz,_Dom,_Martinikirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/L02_336_Domplatz,_Dom,_Martinikirche.jpg/800px-L02_336_Domplatz,_Dom,_Martinikirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/L02_336_Domplatz,_Dom,_Martinikirche.jpg/1200px-L02_336_Domplatz,_Dom,_Martinikirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/L02_336_Domplatz,_Dom,_Martinikirche.jpg/1920px-L02_336_Domplatz,_Dom,_Martinikirche.jpg
+  Halberstadt Dom 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/400px-Halberstadt_Dom_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/800px-Halberstadt_Dom_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1200px-Halberstadt_Dom_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Halberstadt_Dom_2023.jpg/1920px-Halberstadt_Dom_2023.jpg
+  Zentralbibliothek Zürich - Der Dom z Halberstadt N Seite - 991150521199705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg/400px-Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg/800px-Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg/1200px-Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg/1920px-Zentralbibliothek_Zürich_-_Der_Dom_z_Halberstadt_N_Seite_-_991150521199705501.jpg
+  Zentralbibliothek Zürich - Dom in Halberstadt, Ansicht der Nordseite - 991051282079705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg/400px-Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg/800px-Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg/1200px-Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg/1920px-Zentralbibliothek_Zürich_-_Dom_in_Halberstadt,_Ansicht_der_Nordseite_-_991051282079705501.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.347151111
 longitude: 10.501813055
 images:
-  - "/images-sites/poppenholz/01-fe3b29ef-800w.webp"
+  - "/images/poppenholz/01-fe3b29ef-800w.webp"
 ---
 
 ## Overview

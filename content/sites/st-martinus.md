@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1310617"
 description: "St. Martinus is a striking church located in Sundern, Germany, showcasing the elegant Gothic Revival architectural style. This church serves not only as..."
 images:
-  - "/images-sites/st-martinus/01-f3394120-1920w.webp"
-  - "/images-sites/st-martinus/02-f42129f7-1920w.webp"
-  - "/images-sites/st-martinus/03-a74b95bf-1920w.webp"
+  - "/images/st-martinus/01-f3394120-1920w.webp"
+  - "/images/st-martinus/02-f42129f7-1920w.webp"
+  - "/images/st-martinus/03-a74b95bf-1920w.webp"
 ---
 
 ## Overview

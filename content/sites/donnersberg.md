@@ -1,19 +1,49 @@
 ---
-title: "Donnersberg"
+title: Donnersberg
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.625280555
 longitude: 7.914719444
 images:
-  - "/images-sites/donnersberg/01-b04c8fb6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Blick_auf_Einselthum.jpg/1200px-Blick_auf_Einselthum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ilbesheim_Panorama01.jpg/1200px-Ilbesheim_Panorama01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilbesheim_Panorama02.jpg/1200px-Ilbesheim_Panorama02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1200px-Donnersberg_von_Steinbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Keltenwall.jpg/1200px-Keltenwall.jpg
+image_srcset:
+  Blick auf Einselthum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Blick_auf_Einselthum.jpg/400px-Blick_auf_Einselthum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Blick_auf_Einselthum.jpg/800px-Blick_auf_Einselthum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Blick_auf_Einselthum.jpg/1200px-Blick_auf_Einselthum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Blick_auf_Einselthum.jpg/1920px-Blick_auf_Einselthum.jpg
+  Ilbesheim Panorama01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ilbesheim_Panorama01.jpg/400px-Ilbesheim_Panorama01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ilbesheim_Panorama01.jpg/800px-Ilbesheim_Panorama01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ilbesheim_Panorama01.jpg/1200px-Ilbesheim_Panorama01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ilbesheim_Panorama01.jpg/1920px-Ilbesheim_Panorama01.jpg
+  Ilbesheim Panorama02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilbesheim_Panorama02.jpg/400px-Ilbesheim_Panorama02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilbesheim_Panorama02.jpg/800px-Ilbesheim_Panorama02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilbesheim_Panorama02.jpg/1200px-Ilbesheim_Panorama02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ilbesheim_Panorama02.jpg/1920px-Ilbesheim_Panorama02.jpg
+  Donnersberg von Steinbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/400px-Donnersberg_von_Steinbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/800px-Donnersberg_von_Steinbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1200px-Donnersberg_von_Steinbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Donnersberg_von_Steinbach.jpg/1920px-Donnersberg_von_Steinbach.jpg
+  Keltenwall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Keltenwall.jpg/400px-Keltenwall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Keltenwall.jpg/800px-Keltenwall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Keltenwall.jpg/1200px-Keltenwall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Keltenwall.jpg/1920px-Keltenwall.jpg
 ---
 
 ## Overview

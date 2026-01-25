@@ -13,7 +13,7 @@ regions:
 latitude: 49.998889
 longitude: 8.273889
 images:
-  - "/images-sites/mainz-cathedral/01-73191baf-800w.webp"
+  - "/images/mainz-cathedral/01-73191baf-800w.webp"
 ---
 
 ## Overview

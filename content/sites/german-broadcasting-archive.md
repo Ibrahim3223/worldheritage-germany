@@ -1,27 +1,43 @@
 ---
-title: "German Broadcasting Archive"
+title: German Broadcasting Archive
 date: 2026-01-23
 draft: false
-description: "archive in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: archive in Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.389672
 longitude: 13.119806
-
-# Images
 images:
-  - "/images-sites/german-broadcasting-archive/01-ade8e67f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg/1200px-Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/1200px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg/1200px-Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ARD-Hochhaus.jpg/1200px-ARD-Hochhaus.jpg
+image_srcset:
+  Stiftung Deutsches Rundfunkarchiv Frankfurt-Main.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg/400px-Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg/800px-Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg/1200px-Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg/1920px-Stiftung_Deutsches_Rundfunkarchiv_Frankfurt-Main.jpg
+  Deutsches Rundfunkarchiv in Potsdam 2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/400px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/800px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/1200px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg/1920px-Deutsches_Rundfunkarchiv_in_Potsdam_2007.jpg
+  Fernsehfilm in gekühlter Filmdose DRA Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg/400px-Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg/800px-Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg/1200px-Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg/1920px-Fernsehfilm_in_gekühlter_Filmdose_DRA_Potsdam.jpg
+  ARD-Hochhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ARD-Hochhaus.jpg/400px-ARD-Hochhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ARD-Hochhaus.jpg/800px-ARD-Hochhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ARD-Hochhaus.jpg/1200px-ARD-Hochhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ARD-Hochhaus.jpg/1920px-ARD-Hochhaus.jpg
 ---
 
 ## Overview

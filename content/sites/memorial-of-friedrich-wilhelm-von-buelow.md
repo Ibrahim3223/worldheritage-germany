@@ -13,7 +13,7 @@ regions:
 latitude: 52.517165
 longitude: 13.395501
 images:
-  - "/images-sites/memorial-of-friedrich-wilhelm-von-buelow/01-0ec23d4e-800w.webp"
+  - "/images/memorial-of-friedrich-wilhelm-von-buelow/01-0ec23d4e-800w.webp"
 ---
 
 ## Overview

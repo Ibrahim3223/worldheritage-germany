@@ -1,27 +1,49 @@
 ---
-title: "Duissern Botanical Garden"
+title: Duissern Botanical Garden
 date: 2026-01-23
 draft: false
-description: "botanical garden in Duisburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Duisburg, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4358
 longitude: 6.79725
-
-# Images
 images:
-  - "/images-sites/duissern-botanical-garden/01-22e3c48e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Duisburg-Duissern-Botanischer_Garten-001.JPG/1200px-Duisburg-Duissern-Botanischer_Garten-001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Duisburg-Duissern-Botanischer_Garten.jpg/1200px-Duisburg-Duissern-Botanischer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Botanischergarten_Duisburg_9.JPG/1200px-Botanischergarten_Duisburg_9.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haupteingang_Botanischergarten_Duisburg.JPG/1200px-Haupteingang_Botanischergarten_Duisburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Botanischer_Garten_Duissern_Teiche_2.jpg/1200px-Botanischer_Garten_Duissern_Teiche_2.jpg
+image_srcset:
+  Duisburg-Duissern-Botanischer Garten-001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Duisburg-Duissern-Botanischer_Garten-001.JPG/400px-Duisburg-Duissern-Botanischer_Garten-001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Duisburg-Duissern-Botanischer_Garten-001.JPG/800px-Duisburg-Duissern-Botanischer_Garten-001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Duisburg-Duissern-Botanischer_Garten-001.JPG/1200px-Duisburg-Duissern-Botanischer_Garten-001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Duisburg-Duissern-Botanischer_Garten-001.JPG/1920px-Duisburg-Duissern-Botanischer_Garten-001.JPG
+  Duisburg-Duissern-Botanischer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Duisburg-Duissern-Botanischer_Garten.jpg/400px-Duisburg-Duissern-Botanischer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Duisburg-Duissern-Botanischer_Garten.jpg/800px-Duisburg-Duissern-Botanischer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Duisburg-Duissern-Botanischer_Garten.jpg/1200px-Duisburg-Duissern-Botanischer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Duisburg-Duissern-Botanischer_Garten.jpg/1920px-Duisburg-Duissern-Botanischer_Garten.jpg
+  Botanischergarten Duisburg 9.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Botanischergarten_Duisburg_9.JPG/400px-Botanischergarten_Duisburg_9.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Botanischergarten_Duisburg_9.JPG/800px-Botanischergarten_Duisburg_9.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Botanischergarten_Duisburg_9.JPG/1200px-Botanischergarten_Duisburg_9.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Botanischergarten_Duisburg_9.JPG/1920px-Botanischergarten_Duisburg_9.JPG
+  Haupteingang Botanischergarten Duisburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haupteingang_Botanischergarten_Duisburg.JPG/400px-Haupteingang_Botanischergarten_Duisburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haupteingang_Botanischergarten_Duisburg.JPG/800px-Haupteingang_Botanischergarten_Duisburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haupteingang_Botanischergarten_Duisburg.JPG/1200px-Haupteingang_Botanischergarten_Duisburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haupteingang_Botanischergarten_Duisburg.JPG/1920px-Haupteingang_Botanischergarten_Duisburg.JPG
+  Botanischer Garten Duissern Teiche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Botanischer_Garten_Duissern_Teiche_2.jpg/400px-Botanischer_Garten_Duissern_Teiche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Botanischer_Garten_Duissern_Teiche_2.jpg/800px-Botanischer_Garten_Duissern_Teiche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Botanischer_Garten_Duissern_Teiche_2.jpg/1200px-Botanischer_Garten_Duissern_Teiche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Botanischer_Garten_Duissern_Teiche_2.jpg/1920px-Botanischer_Garten_Duissern_Teiche_2.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.0167
 longitude: 7.77694
 images:
-  - "/images-sites/mundenhof/01-f5451310-800w.webp"
+  - "/images/mundenhof/01-f5451310-800w.webp"
 ---
 
 ## Overview

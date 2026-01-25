@@ -1,19 +1,51 @@
 ---
-title: "Holy Trinity church (Zerbst/Anhalt)"
-site_name: "Holy Trinity church (Zerbst/Anhalt)"
-slug: "holy-trinity-church-zerbst-anhalt"
-region: "Brandenburg"
-
-# Location
+title: Holy Trinity church (Zerbst/Anhalt)
+site_name: Holy Trinity church (Zerbst/Anhalt)
+slug: holy-trinity-church-zerbst-anhalt
+region: Brandenburg
 latitude: 51.969572
 longitude: 12.087169
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1438293"
-description: "In the heart of Zerbst, Germany, the Holy Trinity Church stands as a remarkable example of Baroque architecture. This church, located in Saxony-Anhalt, ..."
+- cultural site
+wikidata_id: Q1438293
+description: In the heart of Zerbst, Germany, the Holy Trinity Church stands as a
+  remarkable example of Baroque architecture. This church, located in Saxony-Anhalt,
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St.%20Trinitatis%20Zerbst%2020180812%20002.jpg/1200px-St.%20Trinitatis%20Zerbst%2020180812%20002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/St._Trinitatis_Zerbst_20180812_002.jpg/1200px-St._Trinitatis_Zerbst_20180812_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg/1200px-ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg/1200px-ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zerbst_Trinitatiskirche.jpg/1200px-Zerbst_Trinitatiskirche.jpg
+image_srcset:
+  St.%20Trinitatis%20Zerbst%2020180812%20002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St.%20Trinitatis%20Zerbst%2020180812%20002.jpg/400px-St.%20Trinitatis%20Zerbst%2020180812%20002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St.%20Trinitatis%20Zerbst%2020180812%20002.jpg/800px-St.%20Trinitatis%20Zerbst%2020180812%20002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St.%20Trinitatis%20Zerbst%2020180812%20002.jpg/1200px-St.%20Trinitatis%20Zerbst%2020180812%20002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/St.%20Trinitatis%20Zerbst%2020180812%20002.jpg/1920px-St.%20Trinitatis%20Zerbst%2020180812%20002.jpg
+  St. Trinitatis Zerbst 20180812 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/St._Trinitatis_Zerbst_20180812_002.jpg/400px-St._Trinitatis_Zerbst_20180812_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/St._Trinitatis_Zerbst_20180812_002.jpg/800px-St._Trinitatis_Zerbst_20180812_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/St._Trinitatis_Zerbst_20180812_002.jpg/1200px-St._Trinitatis_Zerbst_20180812_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/St._Trinitatis_Zerbst_20180812_002.jpg/1920px-St._Trinitatis_Zerbst_20180812_002.jpg
+  ZerbstAnhalt StTrinitatis asv2023-05 img5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg/400px-ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg/800px-ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg/1200px-ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg/1920px-ZerbstAnhalt_StTrinitatis_asv2023-05_img5.jpg
+  ZerbstAnhalt StTrinitatis asv2023-05 img6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg/400px-ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg/800px-ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg/1200px-ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg/1920px-ZerbstAnhalt_StTrinitatis_asv2023-05_img6.jpg
+  Zerbst Trinitatiskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zerbst_Trinitatiskirche.jpg/400px-Zerbst_Trinitatiskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zerbst_Trinitatiskirche.jpg/800px-Zerbst_Trinitatiskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zerbst_Trinitatiskirche.jpg/1200px-Zerbst_Trinitatiskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zerbst_Trinitatiskirche.jpg/1920px-Zerbst_Trinitatiskirche.jpg
 ---
 
 ## Overview

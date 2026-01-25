@@ -13,8 +13,8 @@ regions:
 latitude: 47.4475
 longitude: 11.022777777
 images:
-  - "/images-sites/waxenstein/01-3df4e8bc-800w.webp"
-  - "/images-sites/waxenstein/03-90f247cc-800w.webp"
+  - "/images/waxenstein/01-3df4e8bc-800w.webp"
+  - "/images/waxenstein/03-90f247cc-800w.webp"
 ---
 
 ## Overview

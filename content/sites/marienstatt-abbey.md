@@ -13,7 +13,7 @@ regions:
 latitude: 50.685
 longitude: 7.803055555
 images:
-  - "/images-sites/marienstatt-abbey/01-cec9d571-800w.webp"
+  - "/images/marienstatt-abbey/01-cec9d571-800w.webp"
 ---
 
 ## Overview

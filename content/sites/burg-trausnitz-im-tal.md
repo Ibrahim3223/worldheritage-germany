@@ -1,27 +1,49 @@
 ---
-title: "Burg Trausnitz im Tal"
+title: Burg Trausnitz im Tal
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5203
 longitude: 12.2649
-
-# Images
 images:
-  - "/images-sites/burg-trausnitz-im-tal/01-f12d8847-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg/1200px-Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trausnitz_im_Tal_Burg.JPG/1200px-Trausnitz_im_Tal_Burg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trausnitz_Burg_Trausnitz_im_Tal.jpg/1200px-Trausnitz_Burg_Trausnitz_im_Tal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg/1200px-Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Die_Gartenlaube_(1868)_b_574.jpg/1200px-Die_Gartenlaube_(1868)_b_574.jpg
+image_srcset:
+  Aerial image of the Burg Trausnitz im Tal (view from the northwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg/400px-Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg/800px-Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg/1200px-Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg/1920px-Aerial_image_of_the_Burg_Trausnitz_im_Tal_(view_from_the_northwest).jpg
+  Trausnitz im Tal Burg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trausnitz_im_Tal_Burg.JPG/400px-Trausnitz_im_Tal_Burg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trausnitz_im_Tal_Burg.JPG/800px-Trausnitz_im_Tal_Burg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trausnitz_im_Tal_Burg.JPG/1200px-Trausnitz_im_Tal_Burg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trausnitz_im_Tal_Burg.JPG/1920px-Trausnitz_im_Tal_Burg.JPG
+  Trausnitz Burg Trausnitz im Tal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trausnitz_Burg_Trausnitz_im_Tal.jpg/400px-Trausnitz_Burg_Trausnitz_im_Tal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trausnitz_Burg_Trausnitz_im_Tal.jpg/800px-Trausnitz_Burg_Trausnitz_im_Tal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trausnitz_Burg_Trausnitz_im_Tal.jpg/1200px-Trausnitz_Burg_Trausnitz_im_Tal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trausnitz_Burg_Trausnitz_im_Tal.jpg/1920px-Trausnitz_Burg_Trausnitz_im_Tal.jpg
+  Litho - Trausnitz im Tal - Aretin - 1829.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg/400px-Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg/800px-Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg/1200px-Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg/1920px-Litho_-_Trausnitz_im_Tal_-_Aretin_-_1829.jpg
+  Die Gartenlaube (1868) b 574.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Die_Gartenlaube_(1868)_b_574.jpg/400px-Die_Gartenlaube_(1868)_b_574.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Die_Gartenlaube_(1868)_b_574.jpg/800px-Die_Gartenlaube_(1868)_b_574.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Die_Gartenlaube_(1868)_b_574.jpg/1200px-Die_Gartenlaube_(1868)_b_574.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Die_Gartenlaube_(1868)_b_574.jpg/1920px-Die_Gartenlaube_(1868)_b_574.jpg
 ---
 
 ## Overview

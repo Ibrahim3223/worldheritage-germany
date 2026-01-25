@@ -1,20 +1,25 @@
 ---
-title: "Großer Mützelburger See"
+title: Großer Mützelburger See
 date: 2026-01-23
 draft: false
-description: "lake"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6513
 longitude: 14.2845
 images:
-  - "/images-sites/grosser-muetzelburger-see/01-c0908ecc-800w.webp"
-  - "/images-sites/grosser-muetzelburger-see/02-a1d158a7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/0904_Jez_Myslbor_Wie_ZPL.JPG/1200px-0904_Jez_Myslbor_Wie_ZPL.JPG
+image_srcset:
+  0904 Jez Myslbor Wie ZPL.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/0904_Jez_Myslbor_Wie_ZPL.JPG/400px-0904_Jez_Myslbor_Wie_ZPL.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/0904_Jez_Myslbor_Wie_ZPL.JPG/800px-0904_Jez_Myslbor_Wie_ZPL.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/0904_Jez_Myslbor_Wie_ZPL.JPG/1200px-0904_Jez_Myslbor_Wie_ZPL.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/0904_Jez_Myslbor_Wie_ZPL.JPG/1920px-0904_Jez_Myslbor_Wie_ZPL.JPG
 ---
 
 ## Overview

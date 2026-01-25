@@ -1,24 +1,45 @@
 ---
-title: "Dreifaltigkeitskirche (Detmold)"
-site_name: "Dreifaltigkeitskirche (Detmold)"
-slug: "dreifaltigkeitskirche-detmold"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Dreifaltigkeitskirche (Detmold)
+site_name: Dreifaltigkeitskirche (Detmold)
+slug: dreifaltigkeitskirche-detmold
+region: North Rhine-Westphalia
 latitude: 51.9478
 longitude: 8.87867
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1257653"
-description: "In the heart of Detmold, the Dreifaltigkeitskirche stands as a remarkable example of modern architecture. This church, crafted from concrete, invites vi..."
+- church building
+- religious site
+wikidata_id: Q1257653
+description: In the heart of Detmold, the Dreifaltigkeitskirche stands as a remarkable
+  example of modern architecture. This church, crafted from concrete, invites vi...
 images:
-  - "/images-sites/dreifaltigkeitskirche-detmold/01-c0e4e11b-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-detmold/02-5490faa0-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-detmold/03-8645d871-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg/1200px-Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Detmold_-_Dreifaltigkeitskirche_(3).jpg/1200px-Detmold_-_Dreifaltigkeitskirche_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/1200px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg/1200px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg
+image_srcset:
+  Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg/400px-Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg/800px-Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg/1200px-Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg/1920px-Detmold%20-%20Evangelisch-Lutherische%20Dreifaltigkeitskirche.jpg
+  Detmold - Dreifaltigkeitskirche (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Detmold_-_Dreifaltigkeitskirche_(3).jpg/400px-Detmold_-_Dreifaltigkeitskirche_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Detmold_-_Dreifaltigkeitskirche_(3).jpg/800px-Detmold_-_Dreifaltigkeitskirche_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Detmold_-_Dreifaltigkeitskirche_(3).jpg/1200px-Detmold_-_Dreifaltigkeitskirche_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Detmold_-_Dreifaltigkeitskirche_(3).jpg/1920px-Detmold_-_Dreifaltigkeitskirche_(3).jpg
+  Detmold - Evangelisch-Lutherische Dreifaltigkeitskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/400px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/800px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/1200px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg/1920px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche.jpg
+  Detmold - Evangelisch-Lutherische Dreifaltigkeitskirche (Rueckseite).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg/400px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg/800px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg/1200px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg/1920px-Detmold_-_Evangelisch-Lutherische_Dreifaltigkeitskirche_(Rueckseite).jpg
 ---
 
 ## Overview

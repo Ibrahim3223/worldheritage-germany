@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1255819"
 description: "St. Augustine, a modern church building located in Düsseldorf, Germany, reflects the evolving nature of religious architecture in the 20th century. Esta..."
 images:
-  - "/images-sites/st-augustine/01-847231bf-1920w.webp"
-  - "/images-sites/st-augustine/02-6d8c8118-1920w.webp"
-  - "/images-sites/st-augustine/03-0ca5c158-1920w.webp"
+  - "/images/st-augustine/01-847231bf-1920w.webp"
+  - "/images/st-augustine/02-6d8c8118-1920w.webp"
+  - "/images/st-augustine/03-0ca5c158-1920w.webp"
 ---
 
 ## Overview

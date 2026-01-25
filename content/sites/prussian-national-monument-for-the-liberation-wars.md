@@ -13,7 +13,7 @@ regions:
 latitude: 52.487661
 longitude: 13.381464
 images:
-  - "/images-sites/prussian-national-monument-for-the-liberation-wars/01-c21b25d7-800w.webp"
+  - "/images/prussian-national-monument-for-the-liberation-wars/01-c21b25d7-800w.webp"
 ---
 
 ## Overview

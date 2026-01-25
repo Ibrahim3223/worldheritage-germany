@@ -1,19 +1,25 @@
 ---
-title: "Heide und Moor bei Haslah"
+title: Heide und Moor bei Haslah
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.305
 longitude: 8.72778
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Heide_und_Moor_bei_Haslah_-_1.jpg/1200px-Heide_und_Moor_bei_Haslah_-_1.jpg
+image_srcset:
+  Heide und Moor bei Haslah - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Heide_und_Moor_bei_Haslah_-_1.jpg/400px-Heide_und_Moor_bei_Haslah_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Heide_und_Moor_bei_Haslah_-_1.jpg/800px-Heide_und_Moor_bei_Haslah_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Heide_und_Moor_bei_Haslah_-_1.jpg/1200px-Heide_und_Moor_bei_Haslah_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Heide_und_Moor_bei_Haslah_-_1.jpg/1920px-Heide_und_Moor_bei_Haslah_-_1.jpg
 ---
 
 ## Overview

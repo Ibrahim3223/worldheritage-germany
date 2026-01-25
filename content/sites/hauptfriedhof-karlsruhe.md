@@ -1,21 +1,50 @@
 ---
-title: "Hauptfriedhof Karlsruhe"
+title: Hauptfriedhof Karlsruhe
 date: 2026-01-23
 draft: false
-description: "cemetery in Karlsruhe, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Karlsruhe, Karlsruhe Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.017461111
 longitude: 8.435427777
 images:
-  - "/images-sites/hauptfriedhof-karlsruhe/01-cb08e9df-800w.webp"
-  - "/images-sites/hauptfriedhof-karlsruhe/02-94d45afa-800w.webp"
-  - "/images-sites/hauptfriedhof-karlsruhe/03-76c28381-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg/1200px-Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg/1200px-Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karlsruhe_Fliegeropfer_II.jpg/1200px-Karlsruhe_Fliegeropfer_II.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HauptfriedhofKarlsruheTriumphbogenaußen.jpg/1200px-HauptfriedhofKarlsruheTriumphbogenaußen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Karlsruhe_TordesSchmerzes.jpg/1200px-Karlsruhe_TordesSchmerzes.jpg
+image_srcset:
+  Landesamt für Geoinformation und Landentwicklung BaWü – dop20rgb 32 458 5429 1 bw 2024.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg/400px-Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg/800px-Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg/1200px-Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg/1920px-Landesamt_für_Geoinformation_und_Landentwicklung_BaWü_–_dop20rgb_32_458_5429_1_bw_2024.tif.jpg
+  Hauptfriedhof Karlsruhe - Grab Luigi Colani.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg/400px-Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg/800px-Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg/1200px-Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg/1920px-Hauptfriedhof_Karlsruhe_-_Grab_Luigi_Colani.jpg
+  Karlsruhe Fliegeropfer II.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karlsruhe_Fliegeropfer_II.jpg/400px-Karlsruhe_Fliegeropfer_II.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karlsruhe_Fliegeropfer_II.jpg/800px-Karlsruhe_Fliegeropfer_II.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karlsruhe_Fliegeropfer_II.jpg/1200px-Karlsruhe_Fliegeropfer_II.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karlsruhe_Fliegeropfer_II.jpg/1920px-Karlsruhe_Fliegeropfer_II.jpg
+  HauptfriedhofKarlsruheTriumphbogenaußen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HauptfriedhofKarlsruheTriumphbogenaußen.jpg/400px-HauptfriedhofKarlsruheTriumphbogenaußen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HauptfriedhofKarlsruheTriumphbogenaußen.jpg/800px-HauptfriedhofKarlsruheTriumphbogenaußen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HauptfriedhofKarlsruheTriumphbogenaußen.jpg/1200px-HauptfriedhofKarlsruheTriumphbogenaußen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HauptfriedhofKarlsruheTriumphbogenaußen.jpg/1920px-HauptfriedhofKarlsruheTriumphbogenaußen.jpg
+  Karlsruhe TordesSchmerzes.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Karlsruhe_TordesSchmerzes.jpg/400px-Karlsruhe_TordesSchmerzes.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Karlsruhe_TordesSchmerzes.jpg/800px-Karlsruhe_TordesSchmerzes.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Karlsruhe_TordesSchmerzes.jpg/1200px-Karlsruhe_TordesSchmerzes.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Karlsruhe_TordesSchmerzes.jpg/1920px-Karlsruhe_TordesSchmerzes.jpg
 ---
 
 ## Overview

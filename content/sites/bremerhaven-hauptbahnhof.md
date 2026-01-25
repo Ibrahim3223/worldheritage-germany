@@ -1,19 +1,49 @@
 ---
-title: "Bremerhaven Hauptbahnhof"
+title: Bremerhaven Hauptbahnhof
 date: 2026-01-23
 draft: false
-description: "railway station in Geestemünde, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Geestemünde, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.534872
 longitude: 8.598862
 images:
-  - "/images-sites/bremerhaven-hauptbahnhof/01-f3d12b9e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Trambrhv_hbf.jpg/1200px-Trambrhv_hbf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg/1200px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg/1200px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hauptbahnhof_Bremerhaven.jpg/1200px-Hauptbahnhof_Bremerhaven.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bremerhaven_Hbf_1998.jpg/1200px-Bremerhaven_Hbf_1998.jpg
+image_srcset:
+  Trambrhv hbf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Trambrhv_hbf.jpg/400px-Trambrhv_hbf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Trambrhv_hbf.jpg/800px-Trambrhv_hbf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Trambrhv_hbf.jpg/1200px-Trambrhv_hbf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Trambrhv_hbf.jpg/1920px-Trambrhv_hbf.jpg
+  Bahnhof Bremerhaven Hauptbahnhof 2005071855.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg/400px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg/800px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg/1200px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg/1920px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071855.jpg
+  Bahnhof Bremerhaven Hauptbahnhof 2005071903.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg/400px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg/800px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg/1200px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg/1920px-Bahnhof_Bremerhaven_Hauptbahnhof_2005071903.jpg
+  Hauptbahnhof Bremerhaven.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hauptbahnhof_Bremerhaven.jpg/400px-Hauptbahnhof_Bremerhaven.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hauptbahnhof_Bremerhaven.jpg/800px-Hauptbahnhof_Bremerhaven.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hauptbahnhof_Bremerhaven.jpg/1200px-Hauptbahnhof_Bremerhaven.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hauptbahnhof_Bremerhaven.jpg/1920px-Hauptbahnhof_Bremerhaven.jpg
+  Bremerhaven Hbf 1998.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bremerhaven_Hbf_1998.jpg/400px-Bremerhaven_Hbf_1998.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bremerhaven_Hbf_1998.jpg/800px-Bremerhaven_Hbf_1998.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bremerhaven_Hbf_1998.jpg/1200px-Bremerhaven_Hbf_1998.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bremerhaven_Hbf_1998.jpg/1920px-Bremerhaven_Hbf_1998.jpg
 ---
 
 ## Overview

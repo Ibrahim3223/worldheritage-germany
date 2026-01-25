@@ -13,7 +13,7 @@ regions:
 latitude: 51.0578
 longitude: 13.7439
 images:
-  - "/images-sites/museum-fuer-saechsische-volkskunst/01-30a63e66-800w.webp"
+  - "/images/museum-fuer-saechsische-volkskunst/01-30a63e66-800w.webp"
 ---
 
 ## Overview

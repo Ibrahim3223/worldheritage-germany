@@ -21,7 +21,7 @@ longitude: 8.361304
 
 # Images
 images:
-  - "/images-sites/wallburg-semberg/01-75ff76ae-800w.webp"
+  - "/images/wallburg-semberg/01-75ff76ae-800w.webp"
 ---
 
 ## Overview

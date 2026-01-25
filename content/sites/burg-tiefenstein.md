@@ -1,29 +1,49 @@
 ---
-title: "Burg Tiefenstein"
+title: Burg Tiefenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.63055556
 longitude: 8.09527778
-
-# Images
 images:
-  - "/images-sites/burg-tiefenstein/01-f613ad1d-800w.webp"
-  - "/images-sites/burg-tiefenstein/02-4a99c5cf-800w.webp"
-  - "/images-sites/burg-tiefenstein/03-8d710ab9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiefenstein_Wallburg.jpg/1200px-Tiefenstein_Wallburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Tiefenstein_Nord.jpg/1200px-Burg_Tiefenstein_Nord.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Tiefenstein_Sueden.jpg/1200px-Burg_Tiefenstein_Sueden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Tiefenstein.JPG/1200px-Burghügel_Tiefenstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg
+image_srcset:
+  Tiefenstein Wallburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiefenstein_Wallburg.jpg/400px-Tiefenstein_Wallburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiefenstein_Wallburg.jpg/800px-Tiefenstein_Wallburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiefenstein_Wallburg.jpg/1200px-Tiefenstein_Wallburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tiefenstein_Wallburg.jpg/1920px-Tiefenstein_Wallburg.jpg
+  Burg Tiefenstein Nord.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Tiefenstein_Nord.jpg/400px-Burg_Tiefenstein_Nord.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Tiefenstein_Nord.jpg/800px-Burg_Tiefenstein_Nord.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Tiefenstein_Nord.jpg/1200px-Burg_Tiefenstein_Nord.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Tiefenstein_Nord.jpg/1920px-Burg_Tiefenstein_Nord.jpg
+  Burg Tiefenstein Sueden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Tiefenstein_Sueden.jpg/400px-Burg_Tiefenstein_Sueden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Tiefenstein_Sueden.jpg/800px-Burg_Tiefenstein_Sueden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Tiefenstein_Sueden.jpg/1200px-Burg_Tiefenstein_Sueden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burg_Tiefenstein_Sueden.jpg/1920px-Burg_Tiefenstein_Sueden.jpg
+  Burghügel Tiefenstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Tiefenstein.JPG/400px-Burghügel_Tiefenstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Tiefenstein.JPG/800px-Burghügel_Tiefenstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Tiefenstein.JPG/1200px-Burghügel_Tiefenstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Burghügel_Tiefenstein.JPG/1920px-Burghügel_Tiefenstein.JPG
+  Landesarchiv Baden-Wuerttemberg Generallandesarchiv Karlsruhe H Goerwihl 1 Bild 1 (4-1705797-1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg/400px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg/800px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg/1920px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_H_Goerwihl_1_Bild_1_(4-1705797-1).jpg
 ---
 
 ## Overview

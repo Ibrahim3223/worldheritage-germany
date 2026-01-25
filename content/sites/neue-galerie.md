@@ -21,7 +21,7 @@ longitude: 9.49324
 
 # Images
 images:
-  - "/images-sites/neue-galerie/01-2710ceef-800w.webp"
+  - "/images/neue-galerie/01-2710ceef-800w.webp"
 ---
 
 ## Overview

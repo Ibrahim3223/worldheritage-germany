@@ -1,24 +1,45 @@
 ---
-title: "Dorfkirche Lichtenberg"
-site_name: "Dorfkirche Lichtenberg"
-slug: "dorfkirche-lichtenberg"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Lichtenberg
+site_name: Dorfkirche Lichtenberg
+slug: dorfkirche-lichtenberg
+region: Berlin
 latitude: 52.521177777778
 longitude: 13.4799
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q436081"
-description: "In the heart of Berlin, the Dorfkirche Lichtenberg stands as a significant landmark, showcasing the rich tapestry of the citys architectural and cultura..."
+- church building
+- religious site
+wikidata_id: Q436081
+description: In the heart of Berlin, the Dorfkirche Lichtenberg stands as a significant
+  landmark, showcasing the rich tapestry of the citys architectural and cultura...
 images:
-  - "/images-sites/dorfkirche-lichtenberg/01-6c8d7290-1920w.webp"
-  - "/images-sites/dorfkirche-lichtenberg/02-38bd0c17-1920w.webp"
-  - "/images-sites/dorfkirche-lichtenberg/03-36eaff95-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1200px-Kirche-Berlin-Lichtenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dorfkirche_Lichtenberg_02.jpg/1200px-Dorfkirche_Lichtenberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg/1200px-Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Loeperplatz_VDN+Kirche.jpg/1200px-Loeperplatz_VDN+Kirche.jpg
+image_srcset:
+  Kirche-Berlin-Lichtenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/400px-Kirche-Berlin-Lichtenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/800px-Kirche-Berlin-Lichtenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1200px-Kirche-Berlin-Lichtenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kirche-Berlin-Lichtenberg.jpg/1920px-Kirche-Berlin-Lichtenberg.jpg
+  Dorfkirche Lichtenberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dorfkirche_Lichtenberg_02.jpg/400px-Dorfkirche_Lichtenberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dorfkirche_Lichtenberg_02.jpg/800px-Dorfkirche_Lichtenberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dorfkirche_Lichtenberg_02.jpg/1200px-Dorfkirche_Lichtenberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dorfkirche_Lichtenberg_02.jpg/1920px-Dorfkirche_Lichtenberg_02.jpg
+  Grabvase Loeperplatz (Liber) Johann Gottfried Schadow 1797.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg/400px-Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg/800px-Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg/1200px-Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg/1920px-Grabvase_Loeperplatz_(Liber)_Johann_Gottfried_Schadow_1797.jpg
+  Loeperplatz VDN+Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Loeperplatz_VDN+Kirche.jpg/400px-Loeperplatz_VDN+Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Loeperplatz_VDN+Kirche.jpg/800px-Loeperplatz_VDN+Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Loeperplatz_VDN+Kirche.jpg/1200px-Loeperplatz_VDN+Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Loeperplatz_VDN+Kirche.jpg/1920px-Loeperplatz_VDN+Kirche.jpg
 ---
 
 ## Overview

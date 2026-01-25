@@ -1,27 +1,49 @@
 ---
-title: "Burg Hüls"
+title: Burg Hüls
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3747
 longitude: 6.51222
-
-# Images
 images:
-  - "/images-sites/burg-huels/01-ac2830f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg/1200px-Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Huels_01.jpg/1200px-Burg_Huels_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg2007-1.jpg/1200px-Burg2007-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hupark01.JPG/1200px-Hupark01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg2001-1.jpg/1200px-Burg2001-1.jpg
+image_srcset:
+  Krefeld, Hüls, Burg, 2012-09 CN-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg/400px-Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg/800px-Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg/1200px-Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg/1920px-Krefeld,_Hüls,_Burg,_2012-09_CN-02.jpg
+  Burg Huels 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Huels_01.jpg/400px-Burg_Huels_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Huels_01.jpg/800px-Burg_Huels_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Huels_01.jpg/1200px-Burg_Huels_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Huels_01.jpg/1920px-Burg_Huels_01.jpg
+  Burg2007-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg2007-1.jpg/400px-Burg2007-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg2007-1.jpg/800px-Burg2007-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg2007-1.jpg/1200px-Burg2007-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg2007-1.jpg/1920px-Burg2007-1.jpg
+  Hupark01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hupark01.JPG/400px-Hupark01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hupark01.JPG/800px-Hupark01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hupark01.JPG/1200px-Hupark01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hupark01.JPG/1920px-Hupark01.JPG
+  Burg2001-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg2001-1.jpg/400px-Burg2001-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg2001-1.jpg/800px-Burg2001-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg2001-1.jpg/1200px-Burg2001-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg2001-1.jpg/1920px-Burg2001-1.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.725208333
 longitude: 8.636816666
 images:
-  - "/images-sites/melibokus/01-9c432e80-800w.webp"
+  - "/images/melibokus/01-9c432e80-800w.webp"
 ---
 
 ## Overview 

@@ -13,9 +13,9 @@ regions:
 latitude: 51.209111111
 longitude: 7.309611111
 images:
-  - "/images-sites/wupper-bei-radevormwald/01-d11dc217-800w.webp"
-  - "/images-sites/wupper-bei-radevormwald/02-0805d7bc-800w.webp"
-  - "/images-sites/wupper-bei-radevormwald/03-60fc1625-800w.webp"
+  - "/images/wupper-bei-radevormwald/01-d11dc217-800w.webp"
+  - "/images/wupper-bei-radevormwald/02-0805d7bc-800w.webp"
+  - "/images/wupper-bei-radevormwald/03-60fc1625-800w.webp"
 ---
 
 ## Overview

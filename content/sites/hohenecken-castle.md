@@ -1,27 +1,49 @@
 ---
-title: "Hohenecken Castle"
+title: Hohenecken Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4147
 longitude: 7.70111
-
-# Images
 images:
-  - "/images-sites/hohenecken-castle/01-2b5ed256-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hohenecken_09.jpg/1200px-Hohenecken_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Burgruine_Hohenecken.JPG/1200px-Burgruine_Hohenecken.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1200px-Hohenecken2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KL_Hohenecken_2010.jpg/1200px-KL_Hohenecken_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hohenecken_Rekonstruktion.jpg/1200px-Hohenecken_Rekonstruktion.jpg
+image_srcset:
+  Hohenecken 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hohenecken_09.jpg/400px-Hohenecken_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hohenecken_09.jpg/800px-Hohenecken_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hohenecken_09.jpg/1200px-Hohenecken_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hohenecken_09.jpg/1920px-Hohenecken_09.jpg
+  Burgruine Hohenecken.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Burgruine_Hohenecken.JPG/400px-Burgruine_Hohenecken.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Burgruine_Hohenecken.JPG/800px-Burgruine_Hohenecken.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Burgruine_Hohenecken.JPG/1200px-Burgruine_Hohenecken.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Burgruine_Hohenecken.JPG/1920px-Burgruine_Hohenecken.JPG
+  Hohenecken2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/400px-Hohenecken2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/800px-Hohenecken2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1200px-Hohenecken2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hohenecken2011.jpg/1920px-Hohenecken2011.jpg
+  KL Hohenecken 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KL_Hohenecken_2010.jpg/400px-KL_Hohenecken_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KL_Hohenecken_2010.jpg/800px-KL_Hohenecken_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KL_Hohenecken_2010.jpg/1200px-KL_Hohenecken_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KL_Hohenecken_2010.jpg/1920px-KL_Hohenecken_2010.jpg
+  Hohenecken Rekonstruktion.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hohenecken_Rekonstruktion.jpg/400px-Hohenecken_Rekonstruktion.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hohenecken_Rekonstruktion.jpg/800px-Hohenecken_Rekonstruktion.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hohenecken_Rekonstruktion.jpg/1200px-Hohenecken_Rekonstruktion.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hohenecken_Rekonstruktion.jpg/1920px-Hohenecken_Rekonstruktion.jpg
 ---
 
 ## Overview

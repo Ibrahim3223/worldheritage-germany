@@ -13,7 +13,7 @@ regions:
 latitude: 51.97972222
 longitude: 9.25166667
 images:
-  - "/images-sites/tierpark-bad-pyrmont/01-9f692351-800w.webp"
+  - "/images/tierpark-bad-pyrmont/01-9f692351-800w.webp"
 ---
 
 ## Overview

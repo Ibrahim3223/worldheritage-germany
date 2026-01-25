@@ -1,21 +1,49 @@
 ---
-title: "Brückturm"
+title: Brückturm
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0212
 longitude: 12.0971
 images:
-  - "/images-sites/brueckturm/01-7b6aae37-800w.webp"
-  - "/images-sites/brueckturm/02-1227373a-800w.webp"
-  - "/images-sites/brueckturm/03-1205daec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-08-02_Brückturm_in_Regensburg.jpg/1200px-2019-08-02_Brückturm_in_Regensburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburger_Brückturm_-_panoramio_(1).jpg/1200px-Regensburger_Brückturm_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg/1200px-Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brückturm_in_Regensburg_06.JPG/1200px-Brückturm_in_Regensburg_06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BrueckturmR.JPG/1200px-BrueckturmR.JPG
+image_srcset:
+  2019-08-02 Brückturm in Regensburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-08-02_Brückturm_in_Regensburg.jpg/400px-2019-08-02_Brückturm_in_Regensburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-08-02_Brückturm_in_Regensburg.jpg/800px-2019-08-02_Brückturm_in_Regensburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-08-02_Brückturm_in_Regensburg.jpg/1200px-2019-08-02_Brückturm_in_Regensburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-08-02_Brückturm_in_Regensburg.jpg/1920px-2019-08-02_Brückturm_in_Regensburg.jpg
+  Regensburger Brückturm - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburger_Brückturm_-_panoramio_(1).jpg/400px-Regensburger_Brückturm_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburger_Brückturm_-_panoramio_(1).jpg/800px-Regensburger_Brückturm_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburger_Brückturm_-_panoramio_(1).jpg/1200px-Regensburger_Brückturm_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Regensburger_Brückturm_-_panoramio_(1).jpg/1920px-Regensburger_Brückturm_-_panoramio_(1).jpg
+  Regensburg, Amberger Stadel, Brückturm N 2018-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg/400px-Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg/800px-Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg/1200px-Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg/1920px-Regensburg,_Amberger_Stadel,_Brückturm_N_2018-10.jpg
+  Brückturm in Regensburg 06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brückturm_in_Regensburg_06.JPG/400px-Brückturm_in_Regensburg_06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brückturm_in_Regensburg_06.JPG/800px-Brückturm_in_Regensburg_06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brückturm_in_Regensburg_06.JPG/1200px-Brückturm_in_Regensburg_06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brückturm_in_Regensburg_06.JPG/1920px-Brückturm_in_Regensburg_06.JPG
+  BrueckturmR.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BrueckturmR.JPG/400px-BrueckturmR.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BrueckturmR.JPG/800px-BrueckturmR.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BrueckturmR.JPG/1200px-BrueckturmR.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BrueckturmR.JPG/1920px-BrueckturmR.JPG
 ---
 
 ## Overview

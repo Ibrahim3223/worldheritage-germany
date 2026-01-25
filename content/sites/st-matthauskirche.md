@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q320886"
 description: "St. Matthäuskirche, a striking example of Romanesque Revival architecture, captures the essence of Berlin-Tiergarten with its rich history and cultural ..."
 images:
-  - "/images-sites/st-matthauskirche/01-17faf884-1920w.webp"
-  - "/images-sites/st-matthauskirche/02-f390d7d5-1920w.webp"
-  - "/images-sites/st-matthauskirche/03-a54644bb-1920w.webp"
+  - "/images/st-matthauskirche/01-17faf884-1920w.webp"
+  - "/images/st-matthauskirche/02-f390d7d5-1920w.webp"
+  - "/images/st-matthauskirche/03-a54644bb-1920w.webp"
 ---
 
 ## Overview

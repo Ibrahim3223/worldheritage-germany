@@ -1,19 +1,49 @@
 ---
-title: "Justus-Liebig-Schule"
+title: Justus-Liebig-Schule
 date: 2026-01-23
 draft: false
-description: "school in Darmstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school in Darmstadt, Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 49.877393347
 longitude: 8.645879827
 images:
-  - "/images-sites/justus-liebig-schule/01-4fd53639-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG/1200px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG/1200px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg/1200px-Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg/1200px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg/1200px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg
+image_srcset:
+  Schulinsel Darmstadt gimnazioj Justus-Liebig- + Eleonorenschule 8.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG/400px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG/800px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG/1200px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG/1920px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_8.JPG
+  Schulinsel Darmstadt gimnazioj Justus-Liebig- + Eleonorenschule 9.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG/400px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG/800px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG/1200px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG/1920px-Schulinsel_Darmstadt_gimnazioj_Justus-Liebig-_+_Eleonorenschule_9.JPG
+  Darmstadt Julius-Reiber-Straße 3 Schuldienerwohnhaus 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg/400px-Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg/800px-Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg/1200px-Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg/1920px-Darmstadt_Julius-Reiber-Straße_3_Schuldienerwohnhaus_001.jpg
+  Darmstadt Landwehrstraße 28 Justus-Liebig-Schule 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg/400px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg/800px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg/1200px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg/1920px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_001.jpg
+  Darmstadt Landwehrstraße 28 Justus-Liebig-Schule 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg/400px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg/800px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg/1200px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg/1920px-Darmstadt_Landwehrstraße_28_Justus-Liebig-Schule_002.jpg
 ---
 
 ## Overview

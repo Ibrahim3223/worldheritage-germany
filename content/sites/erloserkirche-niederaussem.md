@@ -1,20 +1,51 @@
 ---
-title: "Erlöserkirche Niederaußem"
-site_name: "Erlöserkirche Niederaußem"
-slug: "erloserkirche-niederaussem"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Erlöserkirche Niederaußem
+site_name: Erlöserkirche Niederaußem
+slug: erloserkirche-niederaussem
+region: North Rhine-Westphalia
 latitude: 50.981
 longitude: 6.67623
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355769"
-description: "Erlöserkirche Niederaußem, a striking modern church building located in the Bergheim region of Germany, invites visitors to explore its unique architect..."
+- church building
+- religious site
+wikidata_id: Q1355769
+description: Erlöserkirche Niederaußem, a striking modern church building located
+  in the Bergheim region of Germany, invites visitors to explore its unique architect...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg/1200px-Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/1200px-Niederaußem_Erlöserkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Niederaußem_Erlöserkirche_03.jpg/1200px-Niederaußem_Erlöserkirche_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erlöserkirche_Niederaußem-2.JPG/1200px-Erlöserkirche_Niederaußem-2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Erlöserkirche_Niederaußem.JPG/1200px-Erlöserkirche_Niederaußem.JPG
+image_srcset:
+  Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg/400px-Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg/800px-Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg/1200px-Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg/1920px-Niederau%C3%9Fem%20Erl%C3%B6serkirche%2001.jpg
+  Niederaußem Erlöserkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/400px-Niederaußem_Erlöserkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/800px-Niederaußem_Erlöserkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/1200px-Niederaußem_Erlöserkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Niederaußem_Erlöserkirche_01.jpg/1920px-Niederaußem_Erlöserkirche_01.jpg
+  Niederaußem Erlöserkirche 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Niederaußem_Erlöserkirche_03.jpg/400px-Niederaußem_Erlöserkirche_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Niederaußem_Erlöserkirche_03.jpg/800px-Niederaußem_Erlöserkirche_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Niederaußem_Erlöserkirche_03.jpg/1200px-Niederaußem_Erlöserkirche_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Niederaußem_Erlöserkirche_03.jpg/1920px-Niederaußem_Erlöserkirche_03.jpg
+  Erlöserkirche Niederaußem-2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erlöserkirche_Niederaußem-2.JPG/400px-Erlöserkirche_Niederaußem-2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erlöserkirche_Niederaußem-2.JPG/800px-Erlöserkirche_Niederaußem-2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erlöserkirche_Niederaußem-2.JPG/1200px-Erlöserkirche_Niederaußem-2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Erlöserkirche_Niederaußem-2.JPG/1920px-Erlöserkirche_Niederaußem-2.JPG
+  Erlöserkirche Niederaußem.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Erlöserkirche_Niederaußem.JPG/400px-Erlöserkirche_Niederaußem.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Erlöserkirche_Niederaußem.JPG/800px-Erlöserkirche_Niederaußem.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Erlöserkirche_Niederaußem.JPG/1200px-Erlöserkirche_Niederaußem.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Erlöserkirche_Niederaußem.JPG/1920px-Erlöserkirche_Niederaußem.JPG
 ---
 
 ## Overview

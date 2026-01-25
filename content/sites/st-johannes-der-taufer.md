@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1659157"
 description: "In the heart of Warendorf, Germany, St. Johannes der Täufer stands as a remarkable example of Gothic Revival architecture. This church building, designe..."
 images:
-  - "/images-sites/st-johannes-der-taufer/01-163efd05-1920w.webp"
-  - "/images-sites/st-johannes-der-taufer/02-bb5a1d55-1920w.webp"
-  - "/images-sites/st-johannes-der-taufer/03-2316d42d-1920w.webp"
+  - "/images/st-johannes-der-taufer/01-163efd05-1920w.webp"
+  - "/images/st-johannes-der-taufer/02-bb5a1d55-1920w.webp"
+  - "/images/st-johannes-der-taufer/03-2316d42d-1920w.webp"
 ---
 
 ## Overview

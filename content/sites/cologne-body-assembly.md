@@ -1,19 +1,49 @@
 ---
-title: "Cologne Body & Assembly"
+title: Cologne Body & Assembly
 date: 2026-01-23
 draft: false
-description: "Ford factory in Cologne (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: Ford factory in Cologne (Germany)
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0025228
 longitude: 6.9514133
 images:
-  - "/images-sites/cologne-body-assembly/01-9aaf7fd1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg/1200px-Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg/1200px-Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ford-Werke_Köln-Merkenich-0320.jpg/1200px-Ford-Werke_Köln-Merkenich-0320.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Ford_development_center_Cologne.jpg/1200px-Aerial_view_of_Ford_development_center_Cologne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg/1200px-Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg
+image_srcset:
+  Luftbild vom Ford Betriebsgebäude in der Nähe vom Fühlinger See in Köln, Deutschland (48331419627).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg/400px-Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg/800px-Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg/1200px-Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg/1920px-Luftbild_vom_Ford_Betriebsgebäude_in_der_Nähe_vom_Fühlinger_See_in_Köln,_Deutschland_(48331419627).jpg
+  Aerial view of Ford facilities near Fühlinger See in Cologne, Germany (48331286896).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg/400px-Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg/800px-Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg/1200px-Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg/1920px-Aerial_view_of_Ford_facilities_near_Fühlinger_See_in_Cologne,_Germany_(48331286896).jpg
+  Ford-Werke Köln-Merkenich-0320.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ford-Werke_Köln-Merkenich-0320.jpg/400px-Ford-Werke_Köln-Merkenich-0320.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ford-Werke_Köln-Merkenich-0320.jpg/800px-Ford-Werke_Köln-Merkenich-0320.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ford-Werke_Köln-Merkenich-0320.jpg/1200px-Ford-Werke_Köln-Merkenich-0320.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ford-Werke_Köln-Merkenich-0320.jpg/1920px-Ford-Werke_Köln-Merkenich-0320.jpg
+  Aerial view of Ford development center Cologne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Ford_development_center_Cologne.jpg/400px-Aerial_view_of_Ford_development_center_Cologne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Ford_development_center_Cologne.jpg/800px-Aerial_view_of_Ford_development_center_Cologne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Ford_development_center_Cologne.jpg/1200px-Aerial_view_of_Ford_development_center_Cologne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_view_of_Ford_development_center_Cologne.jpg/1920px-Aerial_view_of_Ford_development_center_Cologne.jpg
+  Bundesarchiv Bild 183-2005-0722-512, Köln, Erster Ford Taunus läuft vom Fließband..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg/400px-Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg/800px-Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg/1200px-Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg/1920px-Bundesarchiv_Bild_183-2005-0722-512,_Köln,_Erster_Ford_Taunus_läuft_vom_Fließband..jpg
 ---
 
 ## Overview

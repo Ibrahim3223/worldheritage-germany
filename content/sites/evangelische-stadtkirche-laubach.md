@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Stadtkirche Laubach"
-site_name: "Evangelische Stadtkirche Laubach"
-slug: "evangelische-stadtkirche-laubach"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Stadtkirche Laubach
+site_name: Evangelische Stadtkirche Laubach
+slug: evangelische-stadtkirche-laubach
+region: North Rhine-Westphalia
 latitude: 50.543
 longitude: 8.99051
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381156"
-description: "In the heart of Laubach, Germany, the Evangelische Stadtkirche Laubach stands as a striking example of baroque architecture. This church, a central plac..."
+- church building
+- religious site
+wikidata_id: Q1381156
+description: In the heart of Laubach, Germany, the Evangelische Stadtkirche Laubach
+  stands as a striking example of baroque architecture. This church, a central plac...
 images:
-  - "/images-sites/evangelische-stadtkirche-laubach/01-fda3978d-1920w.webp"
-  - "/images-sites/evangelische-stadtkirche-laubach/02-65e0920b-1920w.webp"
-  - "/images-sites/evangelische-stadtkirche-laubach/03-7dd2fb7b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2012-07%20Kirche%20Laubach.jpg/1200px-2012-07%20Kirche%20Laubach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg/1200px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg/1200px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Laubach_Ev._Stadtkirche_(06).jpg/1200px-Laubach_Ev._Stadtkirche_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1200px-2012-07_Kirche_Laubach.jpg
+image_srcset:
+  2012-07%20Kirche%20Laubach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2012-07%20Kirche%20Laubach.jpg/400px-2012-07%20Kirche%20Laubach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2012-07%20Kirche%20Laubach.jpg/800px-2012-07%20Kirche%20Laubach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2012-07%20Kirche%20Laubach.jpg/1200px-2012-07%20Kirche%20Laubach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2012-07%20Kirche%20Laubach.jpg/1920px-2012-07%20Kirche%20Laubach.jpg
+  Laubach, Kirchplatz 1a, Evangelische Stadtkirche 20161013-010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg/400px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg/800px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg/1200px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg/1920px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-010.jpg
+  Laubach, Kirchplatz 1a, Evangelische Stadtkirche 20161013-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg/400px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg/800px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg/1200px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg/1920px-Laubach,_Kirchplatz_1a,_Evangelische_Stadtkirche_20161013-001.jpg
+  Laubach Ev. Stadtkirche (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Laubach_Ev._Stadtkirche_(06).jpg/400px-Laubach_Ev._Stadtkirche_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Laubach_Ev._Stadtkirche_(06).jpg/800px-Laubach_Ev._Stadtkirche_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Laubach_Ev._Stadtkirche_(06).jpg/1200px-Laubach_Ev._Stadtkirche_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Laubach_Ev._Stadtkirche_(06).jpg/1920px-Laubach_Ev._Stadtkirche_(06).jpg
+  2012-07 Kirche Laubach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/400px-2012-07_Kirche_Laubach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/800px-2012-07_Kirche_Laubach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1200px-2012-07_Kirche_Laubach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2012-07_Kirche_Laubach.jpg/1920px-2012-07_Kirche_Laubach.jpg
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Hoffnungskirche (Berlin-Pankow)"
-site_name: "Hoffnungskirche (Berlin-Pankow)"
-slug: "hoffnungskirche-berlin-pankow"
-region: "Berlin"
-
-# Location
+title: Hoffnungskirche (Berlin-Pankow)
+site_name: Hoffnungskirche (Berlin-Pankow)
+slug: hoffnungskirche-berlin-pankow
+region: Berlin
 latitude: 52.56
 longitude: 13.4189
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q264887"
-description: "Hoffnungskirche in Berlin-Pankow is a striking example of early 20th-century religious architecture, completed in 1913. This church stands as a testamen..."
+- church building
+- religious site
+wikidata_id: Q264887
+description: Hoffnungskirche in Berlin-Pankow is a striking example of early 20th-century
+  religious architecture, completed in 1913. This church stands as a testamen...
 images:
-  - "/images-sites/hoffnungskirche-berlin-pankow/01-5e7aa045-1920w.webp"
-  - "/images-sites/hoffnungskirche-berlin-pankow/02-1f05e7d2-1920w.webp"
-  - "/images-sites/hoffnungskirche-berlin-pankow/03-c7c0e115-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin%20Pankow%20Hoffnungskirche.jpg/1200px-Berlin%20Pankow%20Hoffnungskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoffnungskirche_Pankow_Gewölbe.jpg/1200px-Hoffnungskirche_Pankow_Gewölbe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hoffnungskirche-pankow.jpg/1200px-Hoffnungskirche-pankow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hoffnungskirche_Orgelempore_(cropped).jpg/1200px-Hoffnungskirche_Orgelempore_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1200px-Berlin_Pankow_Hoffnungskirche.jpg
+image_srcset:
+  Berlin%20Pankow%20Hoffnungskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin%20Pankow%20Hoffnungskirche.jpg/400px-Berlin%20Pankow%20Hoffnungskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin%20Pankow%20Hoffnungskirche.jpg/800px-Berlin%20Pankow%20Hoffnungskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin%20Pankow%20Hoffnungskirche.jpg/1200px-Berlin%20Pankow%20Hoffnungskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin%20Pankow%20Hoffnungskirche.jpg/1920px-Berlin%20Pankow%20Hoffnungskirche.jpg
+  Hoffnungskirche Pankow Gewölbe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoffnungskirche_Pankow_Gewölbe.jpg/400px-Hoffnungskirche_Pankow_Gewölbe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoffnungskirche_Pankow_Gewölbe.jpg/800px-Hoffnungskirche_Pankow_Gewölbe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoffnungskirche_Pankow_Gewölbe.jpg/1200px-Hoffnungskirche_Pankow_Gewölbe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hoffnungskirche_Pankow_Gewölbe.jpg/1920px-Hoffnungskirche_Pankow_Gewölbe.jpg
+  Hoffnungskirche-pankow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hoffnungskirche-pankow.jpg/400px-Hoffnungskirche-pankow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hoffnungskirche-pankow.jpg/800px-Hoffnungskirche-pankow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hoffnungskirche-pankow.jpg/1200px-Hoffnungskirche-pankow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Hoffnungskirche-pankow.jpg/1920px-Hoffnungskirche-pankow.jpg
+  Hoffnungskirche Orgelempore (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hoffnungskirche_Orgelempore_(cropped).jpg/400px-Hoffnungskirche_Orgelempore_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hoffnungskirche_Orgelempore_(cropped).jpg/800px-Hoffnungskirche_Orgelempore_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hoffnungskirche_Orgelempore_(cropped).jpg/1200px-Hoffnungskirche_Orgelempore_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hoffnungskirche_Orgelempore_(cropped).jpg/1920px-Hoffnungskirche_Orgelempore_(cropped).jpg
+  Berlin Pankow Hoffnungskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/400px-Berlin_Pankow_Hoffnungskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/800px-Berlin_Pankow_Hoffnungskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1200px-Berlin_Pankow_Hoffnungskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berlin_Pankow_Hoffnungskirche.jpg/1920px-Berlin_Pankow_Hoffnungskirche.jpg
 ---
 
 ## Overview

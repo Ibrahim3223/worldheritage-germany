@@ -13,8 +13,8 @@ regions:
 latitude: 48.7306
 longitude: 8.20028
 images:
-  - "/images-sites/yburg-castle/02-f25a58dd-800w.webp"
-  - "/images-sites/yburg-castle/03-b73c2d51-800w.webp"
+  - "/images/yburg-castle/02-f25a58dd-800w.webp"
+  - "/images/yburg-castle/03-b73c2d51-800w.webp"
 ---
 
 ## Overview

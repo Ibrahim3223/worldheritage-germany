@@ -13,7 +13,7 @@ regions:
 latitude: 51.358938888
 longitude: 7.466916666
 images:
-  - "/images-sites/theater-hagen/01-cba1dd71-800w.webp"
+  - "/images/theater-hagen/01-cba1dd71-800w.webp"
 ---
 
 ## Overview

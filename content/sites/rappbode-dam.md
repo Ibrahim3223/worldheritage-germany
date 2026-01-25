@@ -13,8 +13,8 @@ regions:
 latitude: 51.739987
 longitude: 10.89339
 images:
-  - "/images-sites/rappbode-dam/02-378ffc2b-800w.webp"
-  - "/images-sites/rappbode-dam/03-505c71c9-800w.webp"
+  - "/images/rappbode-dam/02-378ffc2b-800w.webp"
+  - "/images/rappbode-dam/03-505c71c9-800w.webp"
 ---
 
 ## Overview

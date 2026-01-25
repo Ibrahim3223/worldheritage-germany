@@ -1,24 +1,52 @@
 ---
-title: "Cathedral of Magdeburg"
-site_name: "Cathedral of Magdeburg"
-slug: "cathedral-of-magdeburg"
-region: "Brandenburg"
-
-# Location
+title: Cathedral of Magdeburg
+site_name: Cathedral of Magdeburg
+slug: cathedral-of-magdeburg
+region: Brandenburg
 latitude: 52.124722222222
 longitude: 11.634444444444
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q668341"
-description: "As you approach the Cathedral of Magdeburg, the sight of its towering façade commands your attention. This magnificent structure, founded in 1201, is Ge..."
+- castle
+- fortification
+wikidata_id: Q668341
+description: As you approach the Cathedral of Magdeburg, the sight of its towering
+  façade commands your attention. This magnificent structure, founded in 1201, is
+  Ge...
 images:
-  - "/images-sites/cathedral-of-magdeburg/01-5de90ade-1920w.webp"
-  - "/images-sites/cathedral-of-magdeburg/02-a5a00b62-1920w.webp"
-  - "/images-sites/cathedral-of-magdeburg/03-08a2bb4b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg/1200px-Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_2590_Magdeburger_Dom.jpg/1200px-00_2590_Magdeburger_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1200px-Magdeburger_Dom_Cathedral_(40705658233).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fassade_Magdeburger_Dom.jpg/1200px-Fassade_Magdeburger_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carl_Hasenpflug_Magdeburger_Dom_1828.jpg/1200px-Carl_Hasenpflug_Magdeburger_Dom_1828.jpg
+image_srcset:
+  Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg/400px-Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg/800px-Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg/1200px-Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg/1920px-Magdeburger%20Dom%20Cathedral%20%2840705658233%29.jpg
+  00 2590 Magdeburger Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_2590_Magdeburger_Dom.jpg/400px-00_2590_Magdeburger_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_2590_Magdeburger_Dom.jpg/800px-00_2590_Magdeburger_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_2590_Magdeburger_Dom.jpg/1200px-00_2590_Magdeburger_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/00_2590_Magdeburger_Dom.jpg/1920px-00_2590_Magdeburger_Dom.jpg
+  Magdeburger Dom Cathedral (40705658233).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/400px-Magdeburger_Dom_Cathedral_(40705658233).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/800px-Magdeburger_Dom_Cathedral_(40705658233).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1200px-Magdeburger_Dom_Cathedral_(40705658233).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Magdeburger_Dom_Cathedral_(40705658233).jpg/1920px-Magdeburger_Dom_Cathedral_(40705658233).jpg
+  Fassade Magdeburger Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fassade_Magdeburger_Dom.jpg/400px-Fassade_Magdeburger_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fassade_Magdeburger_Dom.jpg/800px-Fassade_Magdeburger_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fassade_Magdeburger_Dom.jpg/1200px-Fassade_Magdeburger_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Fassade_Magdeburger_Dom.jpg/1920px-Fassade_Magdeburger_Dom.jpg
+  Carl Hasenpflug Magdeburger Dom 1828.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carl_Hasenpflug_Magdeburger_Dom_1828.jpg/400px-Carl_Hasenpflug_Magdeburger_Dom_1828.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carl_Hasenpflug_Magdeburger_Dom_1828.jpg/800px-Carl_Hasenpflug_Magdeburger_Dom_1828.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carl_Hasenpflug_Magdeburger_Dom_1828.jpg/1200px-Carl_Hasenpflug_Magdeburger_Dom_1828.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Carl_Hasenpflug_Magdeburger_Dom_1828.jpg/1920px-Carl_Hasenpflug_Magdeburger_Dom_1828.jpg
 ---
 
 ## Overview

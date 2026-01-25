@@ -21,7 +21,7 @@ longitude: 8.13989
 
 # Images
 images:
-  - "/images-sites/neuleiningen-castle/01-c56bf42f-800w.webp"
+  - "/images/neuleiningen-castle/01-c56bf42f-800w.webp"
 ---
 
 ## Overview

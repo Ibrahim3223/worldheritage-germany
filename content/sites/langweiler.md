@@ -21,9 +21,9 @@ longitude: 6.25277778
 
 # Images
 images:
-  - "/images-sites/langweiler/01-3a919783-800w.webp"
-  - "/images-sites/langweiler/01-fc15c5b3-800w.webp"
-  - "/images-sites/langweiler/02-fc15c5b3-800w.webp"
+  - "/images/langweiler/01-3a919783-800w.webp"
+  - "/images/langweiler/01-fc15c5b3-800w.webp"
+  - "/images/langweiler/02-fc15c5b3-800w.webp"
 ---
 
 ## Overview

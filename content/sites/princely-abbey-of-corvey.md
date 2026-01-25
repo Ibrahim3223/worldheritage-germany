@@ -13,7 +13,7 @@ regions:
 latitude: 51.777778
 longitude: 9.41
 images:
-  - "/images-sites/princely-abbey-of-corvey/01-26134607-800w.webp"
+  - "/images/princely-abbey-of-corvey/01-26134607-800w.webp"
 ---
 
 ## Overview

@@ -1,28 +1,49 @@
 ---
-title: "Höhingen Castle"
+title: Höhingen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.0708
 longitude: 7.62083
-
-# Images
 images:
-  - "/images-sites/hoehingen-castle/02-de8afbaa-800w.webp"
-  - "/images-sites/hoehingen-castle/03-955ae130-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03_Höhingen_Castle.JPG/1200px-03_Höhingen_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/04_Höhingen_Castle.JPG/1200px-04_Höhingen_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/08_Höhingen_Castle.JPG/1200px-08_Höhingen_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SchlossbergAchkarren.jpg/1200px-SchlossbergAchkarren.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HoehingenAusschnitt.jpg/1200px-HoehingenAusschnitt.jpg
+image_srcset:
+  03 Höhingen Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03_Höhingen_Castle.JPG/400px-03_Höhingen_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03_Höhingen_Castle.JPG/800px-03_Höhingen_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03_Höhingen_Castle.JPG/1200px-03_Höhingen_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/03_Höhingen_Castle.JPG/1920px-03_Höhingen_Castle.JPG
+  04 Höhingen Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/04_Höhingen_Castle.JPG/400px-04_Höhingen_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/04_Höhingen_Castle.JPG/800px-04_Höhingen_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/04_Höhingen_Castle.JPG/1200px-04_Höhingen_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/04_Höhingen_Castle.JPG/1920px-04_Höhingen_Castle.JPG
+  08 Höhingen Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/08_Höhingen_Castle.JPG/400px-08_Höhingen_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/08_Höhingen_Castle.JPG/800px-08_Höhingen_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/08_Höhingen_Castle.JPG/1200px-08_Höhingen_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/08_Höhingen_Castle.JPG/1920px-08_Höhingen_Castle.JPG
+  SchlossbergAchkarren.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SchlossbergAchkarren.jpg/400px-SchlossbergAchkarren.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SchlossbergAchkarren.jpg/800px-SchlossbergAchkarren.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SchlossbergAchkarren.jpg/1200px-SchlossbergAchkarren.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SchlossbergAchkarren.jpg/1920px-SchlossbergAchkarren.jpg
+  HoehingenAusschnitt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HoehingenAusschnitt.jpg/400px-HoehingenAusschnitt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HoehingenAusschnitt.jpg/800px-HoehingenAusschnitt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HoehingenAusschnitt.jpg/1200px-HoehingenAusschnitt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/HoehingenAusschnitt.jpg/1920px-HoehingenAusschnitt.jpg
 ---
 
 ## Overview

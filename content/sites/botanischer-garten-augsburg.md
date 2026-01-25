@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Augsburg"
+title: Botanischer Garten Augsburg
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.349769511
 longitude: 10.912423818
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-augsburg/01-733ac85b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg/1200px-Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg/1200px-KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_Botanischer_Garten.jpg/1200px-Augsburg_Botanischer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/1200px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JapaneseGardenAugsburg.jpg/1200px-JapaneseGardenAugsburg.jpg
+image_srcset:
+  Augsburg, historischer Pavillon im Botanischen Garten, 6.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg/400px-Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg/800px-Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg/1200px-Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg/1920px-Augsburg,_historischer_Pavillon_im_Botanischen_Garten,_6.jpeg
+  KulturTour zum Botanischen Garten Augsburg 25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg/400px-KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg/800px-KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg/1200px-KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg/1920px-KulturTour_zum_Botanischen_Garten_Augsburg_25.jpg
+  Augsburg Botanischer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_Botanischer_Garten.jpg/400px-Augsburg_Botanischer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_Botanischer_Garten.jpg/800px-Augsburg_Botanischer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_Botanischer_Garten.jpg/1200px-Augsburg_Botanischer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_Botanischer_Garten.jpg/1920px-Augsburg_Botanischer_Garten.jpg
+  Augsburg Bot Garten Japang Mittelteil.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/400px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/800px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/1200px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Augsburg_Bot_Garten_Japang_Mittelteil.jpg/1920px-Augsburg_Bot_Garten_Japang_Mittelteil.jpg
+  JapaneseGardenAugsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JapaneseGardenAugsburg.jpg/400px-JapaneseGardenAugsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JapaneseGardenAugsburg.jpg/800px-JapaneseGardenAugsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JapaneseGardenAugsburg.jpg/1200px-JapaneseGardenAugsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/JapaneseGardenAugsburg.jpg/1920px-JapaneseGardenAugsburg.jpg
 ---
 
 ## Overview

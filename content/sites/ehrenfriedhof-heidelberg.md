@@ -1,19 +1,49 @@
 ---
-title: "Ehrenfriedhof Heidelberg"
+title: Ehrenfriedhof Heidelberg
 date: 2026-01-23
 draft: false
-description: "cemetery in Heidelberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.393611111
 longitude: 8.6975
 images:
-  - "/images-sites/ehrenfriedhof-heidelberg/01-b39d2d3b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gedenkstätte_Ehrenfriedhof.JPG/1200px-Gedenkstätte_Ehrenfriedhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG/1200px-Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/1200px-Ehrenfriefhof_HD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gedenkstein_EF_HD.jpg/1200px-Gedenkstein_EF_HD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehrenfriedhof_Heidelberg_Rundtempel2.jpg/1200px-Ehrenfriedhof_Heidelberg_Rundtempel2.jpg
+image_srcset:
+  Gedenkstätte Ehrenfriedhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gedenkstätte_Ehrenfriedhof.JPG/400px-Gedenkstätte_Ehrenfriedhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gedenkstätte_Ehrenfriedhof.JPG/800px-Gedenkstätte_Ehrenfriedhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gedenkstätte_Ehrenfriedhof.JPG/1200px-Gedenkstätte_Ehrenfriedhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gedenkstätte_Ehrenfriedhof.JPG/1920px-Gedenkstätte_Ehrenfriedhof.JPG
+  Ehrenfriedhof Heidelberg Gedenkstätte.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG/400px-Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG/800px-Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG/1200px-Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG/1920px-Ehrenfriedhof_Heidelberg_Gedenkstätte.JPG
+  Ehrenfriefhof HD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/400px-Ehrenfriefhof_HD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/800px-Ehrenfriefhof_HD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/1200px-Ehrenfriefhof_HD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ehrenfriefhof_HD.jpg/1920px-Ehrenfriefhof_HD.jpg
+  Gedenkstein EF HD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gedenkstein_EF_HD.jpg/400px-Gedenkstein_EF_HD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gedenkstein_EF_HD.jpg/800px-Gedenkstein_EF_HD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gedenkstein_EF_HD.jpg/1200px-Gedenkstein_EF_HD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gedenkstein_EF_HD.jpg/1920px-Gedenkstein_EF_HD.jpg
+  Ehrenfriedhof Heidelberg Rundtempel2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehrenfriedhof_Heidelberg_Rundtempel2.jpg/400px-Ehrenfriedhof_Heidelberg_Rundtempel2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehrenfriedhof_Heidelberg_Rundtempel2.jpg/800px-Ehrenfriedhof_Heidelberg_Rundtempel2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehrenfriedhof_Heidelberg_Rundtempel2.jpg/1200px-Ehrenfriedhof_Heidelberg_Rundtempel2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehrenfriedhof_Heidelberg_Rundtempel2.jpg/1920px-Ehrenfriedhof_Heidelberg_Rundtempel2.jpg
 ---
 
 ## Overview

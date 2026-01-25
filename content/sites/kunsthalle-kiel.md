@@ -21,7 +21,7 @@ longitude: 10.14611111
 
 # Images
 images:
-  - "/images-sites/kunsthalle-kiel/01-bd2aa0c8-800w.webp"
+  - "/images/kunsthalle-kiel/01-bd2aa0c8-800w.webp"
 ---
 
 ## Overview

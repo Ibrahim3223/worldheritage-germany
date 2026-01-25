@@ -13,7 +13,7 @@ regions:
 latitude: 54.172222222
 longitude: 10.594444444
 images:
-  - "/images-sites/kellersee/01-b6692e92-800w.webp"
+  - "/images/kellersee/01-b6692e92-800w.webp"
 ---
 
 ## Overview

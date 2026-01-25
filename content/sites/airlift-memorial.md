@@ -1,19 +1,50 @@
 ---
-title: "Airlift Memorial"
+title: Airlift Memorial
 date: 2026-01-23
 draft: false
-description: "series of monuments based on the plans of architect Eduard Ludwig in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: series of monuments based on the plans of architect Eduard Ludwig in
+  Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.484111111
 longitude: 13.387388888
 images:
-  - "/images-sites/airlift-memorial/01-4e0c5969-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg/1200px-20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Platz_der_Luftbruecke_Berlin_20080424.jpg/1200px-Platz_der_Luftbruecke_Berlin_20080424.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg/1200px-Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Airlift_Monument.2013.jpg/1200px-Berlin_Airlift_Monument.2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg/1200px-Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg
+image_srcset:
+  20240311 xl 1728-Stadtplatz Platz der Luftbrücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg/400px-20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg/800px-20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg/1200px-20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg/1920px-20240311_xl_1728-Stadtplatz_Platz_der_Luftbrücke.jpg
+  Platz der Luftbruecke Berlin 20080424.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Platz_der_Luftbruecke_Berlin_20080424.jpg/400px-Platz_der_Luftbruecke_Berlin_20080424.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Platz_der_Luftbruecke_Berlin_20080424.jpg/800px-Platz_der_Luftbruecke_Berlin_20080424.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Platz_der_Luftbruecke_Berlin_20080424.jpg/1200px-Platz_der_Luftbruecke_Berlin_20080424.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Platz_der_Luftbruecke_Berlin_20080424.jpg/1920px-Platz_der_Luftbruecke_Berlin_20080424.jpg
+  Berlin Airlift Memorial at National Memorial Arboretum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg/400px-Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg/800px-Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg/1200px-Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg/1920px-Berlin_Airlift_Memorial_at_National_Memorial_Arboretum.jpg
+  Berlin Airlift Monument.2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Airlift_Monument.2013.jpg/400px-Berlin_Airlift_Monument.2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Airlift_Monument.2013.jpg/800px-Berlin_Airlift_Monument.2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Airlift_Monument.2013.jpg/1200px-Berlin_Airlift_Monument.2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Berlin_Airlift_Monument.2013.jpg/1920px-Berlin_Airlift_Monument.2013.jpg
+  Berlin Airlift Memorial - geograph.org.uk - 847867.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg/400px-Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg/800px-Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg/1200px-Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg/1920px-Berlin_Airlift_Memorial_-_geograph.org.uk_-_847867.jpg
 ---
 
 ## Overview

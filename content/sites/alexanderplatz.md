@@ -1,19 +1,49 @@
 ---
-title: "Alexanderplatz"
+title: Alexanderplatz
 date: 2026-01-23
 draft: false
-description: "square in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.521666666
 longitude: 13.413611111
 images:
-  - "/images-sites/alexanderplatz/01-e97cd602-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/1200px-Alexanderplatz_in_Berlin_-_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/1200px-Berlin_-_Alexanderplatz1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aleksanderplatz_in_Berlin.jpg/1200px-Aleksanderplatz_in_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alexanderplatz,_2024_(02).jpg/1200px-Alexanderplatz,_2024_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bahnhof_Berlin-Alexanderplatz.jpg/1200px-Bahnhof_Berlin-Alexanderplatz.jpg
+image_srcset:
+  Alexanderplatz in Berlin - Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/400px-Alexanderplatz_in_Berlin_-_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/800px-Alexanderplatz_in_Berlin_-_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/1200px-Alexanderplatz_in_Berlin_-_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Alexanderplatz_in_Berlin_-_Panorama.jpg/1920px-Alexanderplatz_in_Berlin_-_Panorama.jpg
+  Berlin - Alexanderplatz1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/400px-Berlin_-_Alexanderplatz1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/800px-Berlin_-_Alexanderplatz1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/1200px-Berlin_-_Alexanderplatz1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Berlin_-_Alexanderplatz1.jpg/1920px-Berlin_-_Alexanderplatz1.jpg
+  Aleksanderplatz in Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aleksanderplatz_in_Berlin.jpg/400px-Aleksanderplatz_in_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aleksanderplatz_in_Berlin.jpg/800px-Aleksanderplatz_in_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aleksanderplatz_in_Berlin.jpg/1200px-Aleksanderplatz_in_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aleksanderplatz_in_Berlin.jpg/1920px-Aleksanderplatz_in_Berlin.jpg
+  Alexanderplatz, 2024 (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alexanderplatz,_2024_(02).jpg/400px-Alexanderplatz,_2024_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alexanderplatz,_2024_(02).jpg/800px-Alexanderplatz,_2024_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alexanderplatz,_2024_(02).jpg/1200px-Alexanderplatz,_2024_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alexanderplatz,_2024_(02).jpg/1920px-Alexanderplatz,_2024_(02).jpg
+  Bahnhof Berlin-Alexanderplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bahnhof_Berlin-Alexanderplatz.jpg/400px-Bahnhof_Berlin-Alexanderplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bahnhof_Berlin-Alexanderplatz.jpg/800px-Bahnhof_Berlin-Alexanderplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bahnhof_Berlin-Alexanderplatz.jpg/1200px-Bahnhof_Berlin-Alexanderplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bahnhof_Berlin-Alexanderplatz.jpg/1920px-Bahnhof_Berlin-Alexanderplatz.jpg
 ---
 
 ## Overview

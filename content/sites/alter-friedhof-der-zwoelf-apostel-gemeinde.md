@@ -1,19 +1,49 @@
 ---
-title: "Alter Friedhof der Zwölf-Apostel-Gemeinde"
+title: Alter Friedhof der Zwölf-Apostel-Gemeinde
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.483661111
 longitude: 13.36545
 images:
-  - "/images-sites/alter-friedhof-der-zwoelf-apostel-gemeinde/01-0a3936cf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG/1200px-Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alter_Zwölf-Apostel-Kirchhof.JPG/1200px-Alter_Zwölf-Apostel-Kirchhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/1200px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg/1200px-Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BerlinEingangsschild12ApostelGemeinde.png/1200px-BerlinEingangsschild12ApostelGemeinde.png
+image_srcset:
+  Alter Zwölf-Apostel-Kirchhof, alte Grabstätten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG/400px-Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG/800px-Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG/1200px-Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG/1920px-Alter_Zwölf-Apostel-Kirchhof,_alte_Grabstätten.JPG
+  Alter Zwölf-Apostel-Kirchhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alter_Zwölf-Apostel-Kirchhof.JPG/400px-Alter_Zwölf-Apostel-Kirchhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alter_Zwölf-Apostel-Kirchhof.JPG/800px-Alter_Zwölf-Apostel-Kirchhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alter_Zwölf-Apostel-Kirchhof.JPG/1200px-Alter_Zwölf-Apostel-Kirchhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alter_Zwölf-Apostel-Kirchhof.JPG/1920px-Alter_Zwölf-Apostel-Kirchhof.JPG
+  Südliche Grabwand Zwölf-Apostel-Kirchhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/400px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/800px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/1200px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg/1920px-Südliche_Grabwand_Zwölf-Apostel-Kirchhof.jpg
+  Alter zwölf Apostel friedhof mai2017 - 32.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg/400px-Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg/800px-Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg/1200px-Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg/1920px-Alter_zwölf_Apostel_friedhof_mai2017_-_32.jpg
+  BerlinEingangsschild12ApostelGemeinde.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BerlinEingangsschild12ApostelGemeinde.png/400px-BerlinEingangsschild12ApostelGemeinde.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BerlinEingangsschild12ApostelGemeinde.png/800px-BerlinEingangsschild12ApostelGemeinde.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BerlinEingangsschild12ApostelGemeinde.png/1200px-BerlinEingangsschild12ApostelGemeinde.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BerlinEingangsschild12ApostelGemeinde.png/1920px-BerlinEingangsschild12ApostelGemeinde.png
 ---
 
 ## Overview

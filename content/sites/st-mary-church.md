@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2320880"
 description: "St. Mary Church, a striking example of Brick Gothic architecture, stands prominently in Stendal, Saxony-Anhalt, Germany. This church is not merely a pla..."
 images:
-  - "/images-sites/st-mary-church/01-c4209a01-1920w.webp"
-  - "/images-sites/st-mary-church/02-e571e20a-1920w.webp"
-  - "/images-sites/st-mary-church/03-2cc58cdc-1920w.webp"
+  - "/images/st-mary-church/01-c4209a01-1920w.webp"
+  - "/images/st-mary-church/02-e571e20a-1920w.webp"
+  - "/images/st-mary-church/03-2cc58cdc-1920w.webp"
 ---
 
 ## Overview

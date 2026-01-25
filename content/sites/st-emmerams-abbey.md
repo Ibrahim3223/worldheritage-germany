@@ -13,9 +13,9 @@ regions:
 latitude: 49.015277777
 longitude: 12.092777777
 images:
-  - "/images-sites/st-emmerams-abbey/01-0a5d7b18-800w.webp"
-  - "/images-sites/st-emmerams-abbey/02-ce5fdb67-800w.webp"
-  - "/images-sites/st-emmerams-abbey/03-3af39615-800w.webp"
+  - "/images/st-emmerams-abbey/01-0a5d7b18-800w.webp"
+  - "/images/st-emmerams-abbey/02-ce5fdb67-800w.webp"
+  - "/images/st-emmerams-abbey/03-3af39615-800w.webp"
 ---
 
 ## Overview

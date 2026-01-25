@@ -1,19 +1,50 @@
 ---
-title: "Church in Kölzin"
-site_name: "Church in Kölzin"
-slug: "church-in-kolzin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Kölzin
+site_name: Church in Kölzin
+slug: church-in-kolzin
+region: Mecklenburg-Vorpommern
 latitude: 53.9637
 longitude: 13.4498
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1515188"
-description: "The Church in Kölzin stands as a captivating example of Gothic Revival architecture in Gützkow, Germany. This church, constructed from fieldstone, draws..."
+- cultural site
+wikidata_id: Q1515188
+description: The Church in Kölzin stands as a captivating example of Gothic Revival
+  architecture in Gützkow, Germany. This church, constructed from fieldstone, draws...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/K%C3%B6lzin-Kirche-Westgiebel.JPG/1200px-K%C3%B6lzin-Kirche-Westgiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Marien_in_Koelzin.jpg/1200px-St._Marien_in_Koelzin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kölzin-Kirche-120715-075.JPG/1200px-Kölzin-Kirche-120715-075.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1200px-Kölzin-Kirche-Westgiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kölzin_Sankt_Marien_Südansicht.JPG/1200px-Kölzin_Sankt_Marien_Südansicht.JPG
+image_srcset:
+  K%C3%B6lzin-Kirche-Westgiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/K%C3%B6lzin-Kirche-Westgiebel.JPG/400px-K%C3%B6lzin-Kirche-Westgiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/K%C3%B6lzin-Kirche-Westgiebel.JPG/800px-K%C3%B6lzin-Kirche-Westgiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/K%C3%B6lzin-Kirche-Westgiebel.JPG/1200px-K%C3%B6lzin-Kirche-Westgiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/K%C3%B6lzin-Kirche-Westgiebel.JPG/1920px-K%C3%B6lzin-Kirche-Westgiebel.JPG
+  St. Marien in Koelzin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Marien_in_Koelzin.jpg/400px-St._Marien_in_Koelzin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Marien_in_Koelzin.jpg/800px-St._Marien_in_Koelzin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Marien_in_Koelzin.jpg/1200px-St._Marien_in_Koelzin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/St._Marien_in_Koelzin.jpg/1920px-St._Marien_in_Koelzin.jpg
+  Kölzin-Kirche-120715-075.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kölzin-Kirche-120715-075.JPG/400px-Kölzin-Kirche-120715-075.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kölzin-Kirche-120715-075.JPG/800px-Kölzin-Kirche-120715-075.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kölzin-Kirche-120715-075.JPG/1200px-Kölzin-Kirche-120715-075.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kölzin-Kirche-120715-075.JPG/1920px-Kölzin-Kirche-120715-075.JPG
+  Kölzin-Kirche-Westgiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/400px-Kölzin-Kirche-Westgiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/800px-Kölzin-Kirche-Westgiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1200px-Kölzin-Kirche-Westgiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kölzin-Kirche-Westgiebel.JPG/1920px-Kölzin-Kirche-Westgiebel.JPG
+  Kölzin Sankt Marien Südansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kölzin_Sankt_Marien_Südansicht.JPG/400px-Kölzin_Sankt_Marien_Südansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kölzin_Sankt_Marien_Südansicht.JPG/800px-Kölzin_Sankt_Marien_Südansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kölzin_Sankt_Marien_Südansicht.JPG/1200px-Kölzin_Sankt_Marien_Südansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kölzin_Sankt_Marien_Südansicht.JPG/1920px-Kölzin_Sankt_Marien_Südansicht.JPG
 ---
 
 ## Overview

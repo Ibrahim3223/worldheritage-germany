@@ -13,7 +13,7 @@ regions:
 latitude: 49.792797617
 longitude: 9.938889043
 images:
-  - "/images-sites/wuerzburg-residence/01-9f73efd9-800w.webp"
+  - "/images/wuerzburg-residence/01-9f73efd9-800w.webp"
 ---
 
 ## Overview

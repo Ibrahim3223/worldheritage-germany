@@ -1,19 +1,49 @@
 ---
-title: "Burgruine Neufürstenberg, Schwarzwald-Baar"
+title: Burgruine Neufürstenberg, Schwarzwald-Baar
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.9981
 longitude: 8.3261
 images:
-  - "/images-sites/burgruine-neufuerstenberg-schwarzwald-baar/01-65c5da03-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/1200px-Burgruine_Neu-Fürstenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neu-Fürstenberg_1.jpg/1200px-Neu-Fürstenberg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Neu-Fürstenberg_2.jpg/1200px-Neu-Fürstenberg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landappbw_127468_1818_Neufürstenberg.jpg/1200px-Landappbw_127468_1818_Neufürstenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg/1200px-Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg
+image_srcset:
+  Burgruine Neu-Fürstenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/400px-Burgruine_Neu-Fürstenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/800px-Burgruine_Neu-Fürstenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/1200px-Burgruine_Neu-Fürstenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burgruine_Neu-Fürstenberg.jpg/1920px-Burgruine_Neu-Fürstenberg.jpg
+  Neu-Fürstenberg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neu-Fürstenberg_1.jpg/400px-Neu-Fürstenberg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neu-Fürstenberg_1.jpg/800px-Neu-Fürstenberg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neu-Fürstenberg_1.jpg/1200px-Neu-Fürstenberg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neu-Fürstenberg_1.jpg/1920px-Neu-Fürstenberg_1.jpg
+  Neu-Fürstenberg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Neu-Fürstenberg_2.jpg/400px-Neu-Fürstenberg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Neu-Fürstenberg_2.jpg/800px-Neu-Fürstenberg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Neu-Fürstenberg_2.jpg/1200px-Neu-Fürstenberg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Neu-Fürstenberg_2.jpg/1920px-Neu-Fürstenberg_2.jpg
+  Landappbw 127468 1818 Neufürstenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landappbw_127468_1818_Neufürstenberg.jpg/400px-Landappbw_127468_1818_Neufürstenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landappbw_127468_1818_Neufürstenberg.jpg/800px-Landappbw_127468_1818_Neufürstenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landappbw_127468_1818_Neufürstenberg.jpg/1200px-Landappbw_127468_1818_Neufürstenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landappbw_127468_1818_Neufürstenberg.jpg/1920px-Landappbw_127468_1818_Neufürstenberg.jpg
+  Landappbw 375661 1818 Neufürstenberg Hammereisenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg/400px-Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg/800px-Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg/1200px-Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg/1920px-Landappbw_375661_1818_Neufürstenberg_Hammereisenbach.jpg
 ---
 
 ## Overview

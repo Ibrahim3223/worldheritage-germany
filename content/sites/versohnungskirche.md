@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q877654"
 description: "In the heart of Bezirk Mitte, Germany, lies Versöhnungskirche, a church building steeped in historical significance and architectural elegance. The Goth..."
 images:
-  - "/images-sites/versohnungskirche/01-976950b4-1920w.webp"
-  - "/images-sites/versohnungskirche/02-ed03abb2-1920w.webp"
-  - "/images-sites/versohnungskirche/03-b83b753a-1920w.webp"
+  - "/images/versohnungskirche/01-976950b4-1920w.webp"
+  - "/images/versohnungskirche/02-ed03abb2-1920w.webp"
+  - "/images/versohnungskirche/03-b83b753a-1920w.webp"
 ---
 
 ## Overview

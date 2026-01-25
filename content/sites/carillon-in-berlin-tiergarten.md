@@ -1,20 +1,49 @@
 ---
-title: "Carillon in Berlin-Tiergarten"
+title: Carillon in Berlin-Tiergarten
 date: 2026-01-24
 draft: false
-description: "freestanding 42m-tall tower in Berlin's central Tiergarten park"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: freestanding 42m-tall tower in Berlin's central Tiergarten park
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.517777777
 longitude: 13.367222222
 images:
-  - "/images-sites/carillon-in-berlin-tiergarten/02-2ebbcdda-800w.webp"
-  - "/images-sites/carillon-in-berlin-tiergarten/03-43ebce15-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blick_auf_HdKdW_300414.jpg/1200px-Blick_auf_HdKdW_300414.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150515_Carillon_(Berlin-Tiergarten).jpg/1200px-150515_Carillon_(Berlin-Tiergarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-10_Berlin-Tiergarten_(21).jpg/1200px-2015-10_Berlin-Tiergarten_(21).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/110930-Carillon-Tiergarten.JPG/1200px-110930-Carillon-Tiergarten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/1200px-Berlin_Tiergarten_Carillon.JPG
+image_srcset:
+  Blick auf HdKdW 300414.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blick_auf_HdKdW_300414.jpg/400px-Blick_auf_HdKdW_300414.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blick_auf_HdKdW_300414.jpg/800px-Blick_auf_HdKdW_300414.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blick_auf_HdKdW_300414.jpg/1200px-Blick_auf_HdKdW_300414.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Blick_auf_HdKdW_300414.jpg/1920px-Blick_auf_HdKdW_300414.jpg
+  150515 Carillon (Berlin-Tiergarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150515_Carillon_(Berlin-Tiergarten).jpg/400px-150515_Carillon_(Berlin-Tiergarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150515_Carillon_(Berlin-Tiergarten).jpg/800px-150515_Carillon_(Berlin-Tiergarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150515_Carillon_(Berlin-Tiergarten).jpg/1200px-150515_Carillon_(Berlin-Tiergarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/150515_Carillon_(Berlin-Tiergarten).jpg/1920px-150515_Carillon_(Berlin-Tiergarten).jpg
+  2015-10 Berlin-Tiergarten (21).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-10_Berlin-Tiergarten_(21).jpg/400px-2015-10_Berlin-Tiergarten_(21).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-10_Berlin-Tiergarten_(21).jpg/800px-2015-10_Berlin-Tiergarten_(21).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-10_Berlin-Tiergarten_(21).jpg/1200px-2015-10_Berlin-Tiergarten_(21).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-10_Berlin-Tiergarten_(21).jpg/1920px-2015-10_Berlin-Tiergarten_(21).jpg
+  110930-Carillon-Tiergarten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/110930-Carillon-Tiergarten.JPG/400px-110930-Carillon-Tiergarten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/110930-Carillon-Tiergarten.JPG/800px-110930-Carillon-Tiergarten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/110930-Carillon-Tiergarten.JPG/1200px-110930-Carillon-Tiergarten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/110930-Carillon-Tiergarten.JPG/1920px-110930-Carillon-Tiergarten.JPG
+  Berlin Tiergarten Carillon.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/400px-Berlin_Tiergarten_Carillon.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/800px-Berlin_Tiergarten_Carillon.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/1200px-Berlin_Tiergarten_Carillon.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin_Tiergarten_Carillon.JPG/1920px-Berlin_Tiergarten_Carillon.JPG
 ---
 
 ## Overview

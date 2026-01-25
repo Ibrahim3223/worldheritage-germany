@@ -1,21 +1,49 @@
 ---
-title: "Fletch Bizzel"
+title: Fletch Bizzel
 date: 2026-01-24
 draft: false
-description: "theatre in North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5105
 longitude: 7.45375
 images:
-  - "/images-sites/fletch-bizzel/01-fac9a206-800w.webp"
-  - "/images-sites/fletch-bizzel/02-1f327a8b-800w.webp"
-  - "/images-sites/fletch-bizzel/03-d8a0ec61-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fletch_Bizzel_Eingang_1.JPG/1200px-Fletch_Bizzel_Eingang_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fletch_Bizzel_Eingang_2.JPG/1200px-Fletch_Bizzel_Eingang_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG/1200px-Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/U-Bahn_Dortmund-Hauptbahnhof.JPG/1200px-U-Bahn_Dortmund-Hauptbahnhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahnhof_Saarlandstraße_(2).JPG/1200px-U-Bahnhof_Saarlandstraße_(2).JPG
+image_srcset:
+  Fletch Bizzel Eingang 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fletch_Bizzel_Eingang_1.JPG/400px-Fletch_Bizzel_Eingang_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fletch_Bizzel_Eingang_1.JPG/800px-Fletch_Bizzel_Eingang_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fletch_Bizzel_Eingang_1.JPG/1200px-Fletch_Bizzel_Eingang_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fletch_Bizzel_Eingang_1.JPG/1920px-Fletch_Bizzel_Eingang_1.JPG
+  Fletch Bizzel Eingang 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fletch_Bizzel_Eingang_2.JPG/400px-Fletch_Bizzel_Eingang_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fletch_Bizzel_Eingang_2.JPG/800px-Fletch_Bizzel_Eingang_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fletch_Bizzel_Eingang_2.JPG/1200px-Fletch_Bizzel_Eingang_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fletch_Bizzel_Eingang_2.JPG/1920px-Fletch_Bizzel_Eingang_2.JPG
+  Fletch Bizzel Programm Mai 2016, U-Bahn-Station Münsterstraße.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG/400px-Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG/800px-Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG/1200px-Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG/1920px-Fletch_Bizzel_Programm_Mai_2016,_U-Bahn-Station_Münsterstraße.JPG
+  U-Bahn Dortmund-Hauptbahnhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/U-Bahn_Dortmund-Hauptbahnhof.JPG/400px-U-Bahn_Dortmund-Hauptbahnhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/U-Bahn_Dortmund-Hauptbahnhof.JPG/800px-U-Bahn_Dortmund-Hauptbahnhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/U-Bahn_Dortmund-Hauptbahnhof.JPG/1200px-U-Bahn_Dortmund-Hauptbahnhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/U-Bahn_Dortmund-Hauptbahnhof.JPG/1920px-U-Bahn_Dortmund-Hauptbahnhof.JPG
+  U-Bahnhof Saarlandstraße (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahnhof_Saarlandstraße_(2).JPG/400px-U-Bahnhof_Saarlandstraße_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahnhof_Saarlandstraße_(2).JPG/800px-U-Bahnhof_Saarlandstraße_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahnhof_Saarlandstraße_(2).JPG/1200px-U-Bahnhof_Saarlandstraße_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/U-Bahnhof_Saarlandstraße_(2).JPG/1920px-U-Bahnhof_Saarlandstraße_(2).JPG
 ---
 
 ## Overview

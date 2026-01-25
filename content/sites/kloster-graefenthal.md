@@ -13,7 +13,7 @@ regions:
 latitude: 51.7058
 longitude: 6.10611
 images:
-  - "/images-sites/kloster-graefenthal/01-80fc1915-800w.webp"
+  - "/images/kloster-graefenthal/01-80fc1915-800w.webp"
 ---
 
 ## Overview

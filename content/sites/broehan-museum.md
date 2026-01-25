@@ -1,27 +1,50 @@
 ---
-title: "Bröhan Museum"
+title: Bröhan Museum
 date: 2026-01-23
 draft: false
-description: "museum of art and design in Berlin"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum of art and design in Berlin
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.5188
 longitude: 13.2954
-
-# Images
 images:
-  - "/images-sites/broehan-museum/01-ae6ef448-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG/1200px-Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bröhan-Museum.jpg/1200px-Bröhan-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tobias_Hoffmann_Bröhan-Museum_2013.jpg/1200px-Tobias_Hoffmann_Bröhan-Museum_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bröhan_Museum_Art_Deco_room_July_2025.jpg/1200px-Bröhan_Museum_Art_Deco_room_July_2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Margrit_Bröhan_Portrait.jpg/1200px-Dr._Margrit_Bröhan_Portrait.jpg
+image_srcset:
+  ? Loetz glass, made by Glasfabrik Johann Loetz Witwe, Klostermühle (Bohemia), c.
+    1900, glass - Bröhan Museum, Berlin - DSC03953.JPG
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG/400px-Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG/800px-Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG/1200px-Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG/1920px-Loetz_glass,_made_by_Glasfabrik_Johann_Loetz_Witwe,_Klostermühle_(Bohemia),_c._1900,_glass_-_Bröhan_Museum,_Berlin_-_DSC03953.JPG
+  Bröhan-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bröhan-Museum.jpg/400px-Bröhan-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bröhan-Museum.jpg/800px-Bröhan-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bröhan-Museum.jpg/1200px-Bröhan-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bröhan-Museum.jpg/1920px-Bröhan-Museum.jpg
+  Tobias Hoffmann Bröhan-Museum 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tobias_Hoffmann_Bröhan-Museum_2013.jpg/400px-Tobias_Hoffmann_Bröhan-Museum_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tobias_Hoffmann_Bröhan-Museum_2013.jpg/800px-Tobias_Hoffmann_Bröhan-Museum_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tobias_Hoffmann_Bröhan-Museum_2013.jpg/1200px-Tobias_Hoffmann_Bröhan-Museum_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tobias_Hoffmann_Bröhan-Museum_2013.jpg/1920px-Tobias_Hoffmann_Bröhan-Museum_2013.jpg
+  Bröhan Museum Art Deco room July 2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bröhan_Museum_Art_Deco_room_July_2025.jpg/400px-Bröhan_Museum_Art_Deco_room_July_2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bröhan_Museum_Art_Deco_room_July_2025.jpg/800px-Bröhan_Museum_Art_Deco_room_July_2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bröhan_Museum_Art_Deco_room_July_2025.jpg/1200px-Bröhan_Museum_Art_Deco_room_July_2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bröhan_Museum_Art_Deco_room_July_2025.jpg/1920px-Bröhan_Museum_Art_Deco_room_July_2025.jpg
+  Dr. Margrit Bröhan Portrait.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Margrit_Bröhan_Portrait.jpg/400px-Dr._Margrit_Bröhan_Portrait.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Margrit_Bröhan_Portrait.jpg/800px-Dr._Margrit_Bröhan_Portrait.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Margrit_Bröhan_Portrait.jpg/1200px-Dr._Margrit_Bröhan_Portrait.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dr._Margrit_Bröhan_Portrait.jpg/1920px-Dr._Margrit_Bröhan_Portrait.jpg
 ---
 
 ## Overview

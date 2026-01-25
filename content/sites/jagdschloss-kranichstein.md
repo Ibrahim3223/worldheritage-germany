@@ -1,27 +1,49 @@
 ---
-title: "Jagdschloss Kranichstein"
+title: Jagdschloss Kranichstein
 date: 2026-01-23
 draft: false
-description: "hunting lodge, a palace, now museum and hotel, in Darmstadt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: hunting lodge, a palace, now museum and hotel, in Darmstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9003
 longitude: 8.6975
-
-# Images
 images:
-  - "/images-sites/jagdschloss-kranichstein/01-6d7194f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2017_Jagdschloss_Kranichstein_03.jpg/1200px-2017_Jagdschloss_Kranichstein_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_Jagdschloss_Kranichstein_12.jpg/1200px-2017_Jagdschloss_Kranichstein_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg/1200px-Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jagdschloss_Kranichstein_HDR.jpg/1200px-Jagdschloss_Kranichstein_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jagdschloss_Kranichstein_HDR2.jpg/1200px-Jagdschloss_Kranichstein_HDR2.jpg
+image_srcset:
+  2017 Jagdschloss Kranichstein 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2017_Jagdschloss_Kranichstein_03.jpg/400px-2017_Jagdschloss_Kranichstein_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2017_Jagdschloss_Kranichstein_03.jpg/800px-2017_Jagdschloss_Kranichstein_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2017_Jagdschloss_Kranichstein_03.jpg/1200px-2017_Jagdschloss_Kranichstein_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2017_Jagdschloss_Kranichstein_03.jpg/1920px-2017_Jagdschloss_Kranichstein_03.jpg
+  2017 Jagdschloss Kranichstein 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_Jagdschloss_Kranichstein_12.jpg/400px-2017_Jagdschloss_Kranichstein_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_Jagdschloss_Kranichstein_12.jpg/800px-2017_Jagdschloss_Kranichstein_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_Jagdschloss_Kranichstein_12.jpg/1200px-2017_Jagdschloss_Kranichstein_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2017_Jagdschloss_Kranichstein_12.jpg/1920px-2017_Jagdschloss_Kranichstein_12.jpg
+  Jagdschloss Kranichstein, Illustrirte Zeitung, 12. Juli 1845, S. 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg/400px-Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg/800px-Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg/1200px-Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg/1920px-Jagdschloss_Kranichstein,_Illustrirte_Zeitung,_12._Juli_1845,_S._24.jpg
+  Jagdschloss Kranichstein HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jagdschloss_Kranichstein_HDR.jpg/400px-Jagdschloss_Kranichstein_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jagdschloss_Kranichstein_HDR.jpg/800px-Jagdschloss_Kranichstein_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jagdschloss_Kranichstein_HDR.jpg/1200px-Jagdschloss_Kranichstein_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jagdschloss_Kranichstein_HDR.jpg/1920px-Jagdschloss_Kranichstein_HDR.jpg
+  Jagdschloss Kranichstein HDR2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jagdschloss_Kranichstein_HDR2.jpg/400px-Jagdschloss_Kranichstein_HDR2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jagdschloss_Kranichstein_HDR2.jpg/800px-Jagdschloss_Kranichstein_HDR2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jagdschloss_Kranichstein_HDR2.jpg/1200px-Jagdschloss_Kranichstein_HDR2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jagdschloss_Kranichstein_HDR2.jpg/1920px-Jagdschloss_Kranichstein_HDR2.jpg
 ---
 
 ## Overview

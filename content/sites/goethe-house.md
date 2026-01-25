@@ -1,21 +1,49 @@
 ---
-title: "Goethe House"
+title: Goethe House
 date: 2026-01-23
 draft: false
-description: "Goethe family residence in Frankfurt am Main"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cultural Center"
+description: Goethe family residence in Frankfurt am Main
+region: Germany
+country: Germany
+heritage_type: Cultural Center
 categories:
-  - "Cultural Center"
+- Cultural Center
 regions:
-  - "Germany"
+- Germany
 latitude: 50.111194444
 longitude: 8.677666666
 images:
-  - "/images-sites/goethe-house/01-8292ab75-800w.webp"
-  - "/images-sites/goethe-house/02-80880e17-800w.webp"
-  - "/images-sites/goethe-house/03-c65ef9f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Goetheplan1.jpg/1200px-Goetheplan1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Goethe_House_plan_cross-section_-_staircase.jpg/1200px-Goethe_House_plan_cross-section_-_staircase.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/1200px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg/1200px-03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AK_Goethe-Haus,_Johannes_Miesler.jpg/1200px-AK_Goethe-Haus,_Johannes_Miesler.jpg
+image_srcset:
+  Goetheplan1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Goetheplan1.jpg/400px-Goetheplan1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Goetheplan1.jpg/800px-Goetheplan1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Goetheplan1.jpg/1200px-Goetheplan1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Goetheplan1.jpg/1920px-Goetheplan1.jpg
+  Goethe House plan cross-section - staircase.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Goethe_House_plan_cross-section_-_staircase.jpg/400px-Goethe_House_plan_cross-section_-_staircase.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Goethe_House_plan_cross-section_-_staircase.jpg/800px-Goethe_House_plan_cross-section_-_staircase.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Goethe_House_plan_cross-section_-_staircase.jpg/1200px-Goethe_House_plan_cross-section_-_staircase.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Goethe_House_plan_cross-section_-_staircase.jpg/1920px-Goethe_House_plan_cross-section_-_staircase.jpg
+  Frankfurt Am Main-Goethe-Haus-Ansicht am Grossen Hirschgraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/400px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/800px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/1200px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg/1920px-Frankfurt_Am_Main-Goethe-Haus-Ansicht_am_Grossen_Hirschgraben.jpg
+  03Junker, H Museums u Bibliotheksbau Lichtdruck Zur Eröffnung des GM 20.06.1897.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg/400px-03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg/800px-03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg/1200px-03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg/1920px-03Junker,_H_Museums_u_Bibliotheksbau_Lichtdruck_Zur_Eröffnung_des_GM_20.06.1897.tif.jpg
+  AK Goethe-Haus, Johannes Miesler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AK_Goethe-Haus,_Johannes_Miesler.jpg/400px-AK_Goethe-Haus,_Johannes_Miesler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AK_Goethe-Haus,_Johannes_Miesler.jpg/800px-AK_Goethe-Haus,_Johannes_Miesler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AK_Goethe-Haus,_Johannes_Miesler.jpg/1200px-AK_Goethe-Haus,_Johannes_Miesler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AK_Goethe-Haus,_Johannes_Miesler.jpg/1920px-AK_Goethe-Haus,_Johannes_Miesler.jpg
 ---
 
 ## Overview

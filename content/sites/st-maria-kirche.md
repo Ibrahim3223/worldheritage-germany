@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2316427"
 description: "St.-Maria-Kirche is a remarkable church building located in Marienchor, Germany, within the Jemgum region. This site captures the essence of baroque arc..."
 images:
-  - "/images-sites/st-maria-kirche/01-7444706f-1920w.webp"
-  - "/images-sites/st-maria-kirche/02-c6bdf7e4-1920w.webp"
-  - "/images-sites/st-maria-kirche/03-cca5f5b5-1920w.webp"
+  - "/images/st-maria-kirche/01-7444706f-1920w.webp"
+  - "/images/st-maria-kirche/02-c6bdf7e4-1920w.webp"
+  - "/images/st-maria-kirche/03-cca5f5b5-1920w.webp"
 ---
 
 ## Overview

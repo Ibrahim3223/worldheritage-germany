@@ -21,9 +21,9 @@ longitude: 8.91083
 
 # Images
 images:
-  - "/images-sites/otzberg-castle/01-1e9f17aa-800w.webp"
-  - "/images-sites/otzberg-castle/02-cc7287ac-800w.webp"
-  - "/images-sites/otzberg-castle/03-7e93bf6e-800w.webp"
+  - "/images/otzberg-castle/01-1e9f17aa-800w.webp"
+  - "/images/otzberg-castle/02-cc7287ac-800w.webp"
+  - "/images/otzberg-castle/03-7e93bf6e-800w.webp"
 ---
 
 ## Overview

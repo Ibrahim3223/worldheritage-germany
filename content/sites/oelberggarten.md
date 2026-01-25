@@ -13,7 +13,7 @@ regions:
 latitude: 51.16087
 longitude: 14.983768
 images:
-  - "/images-sites/oelberggarten/01-46269c92-800w.webp"
+  - "/images/oelberggarten/01-46269c92-800w.webp"
 ---
 
 ## Overview

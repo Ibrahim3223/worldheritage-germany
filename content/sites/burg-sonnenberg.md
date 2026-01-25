@@ -1,27 +1,49 @@
 ---
-title: "Burg Sonnenberg"
+title: Burg Sonnenberg
 date: 2026-01-23
 draft: false
-description: "castle ruins in Wiesbaden-Sonnenberg"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruins in Wiesbaden-Sonnenberg
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1029
 longitude: 8.26573
-
-# Images
 images:
-  - "/images-sites/burg-sonnenberg/01-5dc620a4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2011-04-10_Burgruine_Sonnenberg_01.jpg/1200px-2011-04-10_Burgruine_Sonnenberg_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg/1200px-Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wiesbaden_burg_sonnenberg_1.jpg/1200px-Wiesbaden_burg_sonnenberg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Sonnenberg_.jpg/1200px-Burg_Sonnenberg_.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sonnenberg_100115.jpg/1200px-Sonnenberg_100115.jpg
+image_srcset:
+  2011-04-10 Burgruine Sonnenberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2011-04-10_Burgruine_Sonnenberg_01.jpg/400px-2011-04-10_Burgruine_Sonnenberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2011-04-10_Burgruine_Sonnenberg_01.jpg/800px-2011-04-10_Burgruine_Sonnenberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2011-04-10_Burgruine_Sonnenberg_01.jpg/1200px-2011-04-10_Burgruine_Sonnenberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2011-04-10_Burgruine_Sonnenberg_01.jpg/1920px-2011-04-10_Burgruine_Sonnenberg_01.jpg
+  Luthmer V - 251 - Sonnenberg Ruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg/400px-Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg/800px-Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg/1200px-Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg/1920px-Luthmer_V_-_251_-_Sonnenberg_Ruine.jpg
+  Wiesbaden burg sonnenberg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wiesbaden_burg_sonnenberg_1.jpg/400px-Wiesbaden_burg_sonnenberg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wiesbaden_burg_sonnenberg_1.jpg/800px-Wiesbaden_burg_sonnenberg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wiesbaden_burg_sonnenberg_1.jpg/1200px-Wiesbaden_burg_sonnenberg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wiesbaden_burg_sonnenberg_1.jpg/1920px-Wiesbaden_burg_sonnenberg_1.jpg
+  Burg Sonnenberg .jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Sonnenberg_.jpg/400px-Burg_Sonnenberg_.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Sonnenberg_.jpg/800px-Burg_Sonnenberg_.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Sonnenberg_.jpg/1200px-Burg_Sonnenberg_.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Sonnenberg_.jpg/1920px-Burg_Sonnenberg_.jpg
+  Sonnenberg 100115.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sonnenberg_100115.jpg/400px-Sonnenberg_100115.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sonnenberg_100115.jpg/800px-Sonnenberg_100115.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sonnenberg_100115.jpg/1200px-Sonnenberg_100115.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sonnenberg_100115.jpg/1920px-Sonnenberg_100115.jpg
 ---
 
 ## Overview

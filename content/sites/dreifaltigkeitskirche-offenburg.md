@@ -1,24 +1,51 @@
 ---
-title: "Dreifaltigkeitskirche (Offenburg)"
-site_name: "Dreifaltigkeitskirche (Offenburg)"
-slug: "dreifaltigkeitskirche-offenburg"
-region: "Baden-Württemberg"
-
-# Location
+title: Dreifaltigkeitskirche (Offenburg)
+site_name: Dreifaltigkeitskirche (Offenburg)
+slug: dreifaltigkeitskirche-offenburg
+region: Baden-Württemberg
 latitude: 48.471
 longitude: 7.9491
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1257712"
-description: "Dreifaltigkeitskirche, a striking church building located in Offenburg, Baden-Württemberg, stands as a notable example of Romanesque Revival architectur..."
+- church building
+- religious site
+wikidata_id: Q1257712
+description: Dreifaltigkeitskirche, a striking church building located in Offenburg,
+  Baden-Württemberg, stands as a notable example of Romanesque Revival architectur...
 images:
-  - "/images-sites/dreifaltigkeitskirche-offenburg/01-c2234a11-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-offenburg/02-7c2f9cd8-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-offenburg/03-8cbf027b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg%20Kirche.jpg/1200px-Offenburg%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg/1200px-Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg/1200px-1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg/1200px-Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/1200px-Offenburg_Kirche.jpg
+image_srcset:
+  Offenburg%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg%20Kirche.jpg/400px-Offenburg%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg%20Kirche.jpg/800px-Offenburg%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg%20Kirche.jpg/1200px-Offenburg%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg%20Kirche.jpg/1920px-Offenburg%20Kirche.jpg
+  Offenburg - Dreifaltigkeitskirche - Doppelturmfassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg/400px-Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg/800px-Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg/1200px-Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg/1920px-Offenburg_-_Dreifaltigkeitskirche_-_Doppelturmfassade.jpg
+  1983 03 99 OG Dreifaltigkeitskirche Anne Frank Schule und Schulbruecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg/400px-1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg/800px-1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg/1200px-1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg/1920px-1983_03_99_OG_Dreifaltigkeitskirche_Anne_Frank_Schule_und_Schulbruecke.jpg
+  Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus wird in das Grab gelegt-2024-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg/400px-Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg/800px-Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg/1200px-Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg/1920px-Offenburg-Dreifaltigkeitskirche-Kreuzweg-14-Jesus_wird_in_das_Grab_gelegt-2024-gje.jpg
+  Offenburg Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/400px-Offenburg_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/800px-Offenburg_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/1200px-Offenburg_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Offenburg_Kirche.jpg/1920px-Offenburg_Kirche.jpg
 ---
 
 ## Overview

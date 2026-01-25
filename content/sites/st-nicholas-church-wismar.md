@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q877183"
 description: "St Nicholas Church in Wismar stands as a striking example of Brick Gothic architecture, a style that encapsulates the rich heritage of northern Germany...."
 images:
-  - "/images-sites/st-nicholas-church-wismar/01-af8da460-1920w.webp"
-  - "/images-sites/st-nicholas-church-wismar/02-97ba961c-1920w.webp"
-  - "/images-sites/st-nicholas-church-wismar/03-4e67b8b9-1920w.webp"
+  - "/images/st-nicholas-church-wismar/01-af8da460-1920w.webp"
+  - "/images/st-nicholas-church-wismar/02-97ba961c-1920w.webp"
+  - "/images/st-nicholas-church-wismar/03-4e67b8b9-1920w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 9.968445
 
 # Images
 images:
-  - "/images-sites/ratsherrn-brauerei/01-0a23ca92-800w.webp"
+  - "/images/ratsherrn-brauerei/01-0a23ca92-800w.webp"
 ---
 
 ## Overview

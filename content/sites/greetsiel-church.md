@@ -1,19 +1,50 @@
 ---
-title: "Greetsiel Church"
-site_name: "Greetsiel Church"
-slug: "greetsiel-church"
-region: "Lower Saxony"
-
-# Location
+title: Greetsiel Church
+site_name: Greetsiel Church
+slug: greetsiel-church
+region: Lower Saxony
 latitude: 53.5006
 longitude: 7.09364
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1544850"
-description: "In the quaint village of Greetsiel, nestled within the picturesque region of Krummhörn, Germany, stands a remarkable church that captures the essence of..."
+- cultural site
+wikidata_id: Q1544850
+description: In the quaint village of Greetsiel, nestled within the picturesque region
+  of Krummhörn, Germany, stands a remarkable church that captures the essence of...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Greetsieler%20Kirche%202010.jpg/1200px-Greetsieler%20Kirche%202010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg/1200px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg/1200px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg/1200px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1200px-Greetsieler_Kirche_2010.jpg
+image_srcset:
+  Greetsieler%20Kirche%202010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Greetsieler%20Kirche%202010.jpg/400px-Greetsieler%20Kirche%202010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Greetsieler%20Kirche%202010.jpg/800px-Greetsieler%20Kirche%202010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Greetsieler%20Kirche%202010.jpg/1200px-Greetsieler%20Kirche%202010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Greetsieler%20Kirche%202010.jpg/1920px-Greetsieler%20Kirche%202010.jpg
+  Krummhörn, Greetsiel, Evangelisch-reformierte Kirche -- 2018 -- 1134.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg/400px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg/800px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg/1200px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg/1920px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1134.jpg
+  Krummhörn, Greetsiel, Evangelisch-reformierte Kirche -- 2018 -- 1135.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg/400px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg/800px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg/1200px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg/1920px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1135.jpg
+  Krummhörn, Greetsiel, Evangelisch-reformierte Kirche -- 2018 -- 1132.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg/400px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg/800px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg/1200px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg/1920px-Krummhörn,_Greetsiel,_Evangelisch-reformierte_Kirche_--_2018_--_1132.jpg
+  Greetsieler Kirche 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/400px-Greetsieler_Kirche_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/800px-Greetsieler_Kirche_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1200px-Greetsieler_Kirche_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Greetsieler_Kirche_2010.jpg/1920px-Greetsieler_Kirche_2010.jpg
 ---
 
 ## Overview

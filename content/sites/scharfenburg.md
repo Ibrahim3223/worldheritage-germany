@@ -13,7 +13,7 @@ regions:
 latitude: 50.9144
 longitude: 10.3972
 images:
-  - "/images-sites/scharfenburg/01-b1f2d0a7-800w.webp"
+  - "/images/scharfenburg/01-b1f2d0a7-800w.webp"
 ---
 
 ## Overview

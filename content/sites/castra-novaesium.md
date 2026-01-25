@@ -1,29 +1,49 @@
 ---
-title: "Castra Novaesium"
+title: Castra Novaesium
 date: 2026-01-23
 draft: false
-description: "Roman fort"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman fort
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1839
 longitude: 6.72194
-
-# Images
 images:
-  - "/images-sites/castra-novaesium/01-30e89ff4-800w.webp"
-  - "/images-sites/castra-novaesium/01-ba841de7-800w.webp"
-  - "/images-sites/castra-novaesium/02-30e89ff4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Novaesium_BJ_1904_tab_03.jpg/1200px-Novaesium_BJ_1904_tab_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/201005151647_NE_RW,_Lagermarkierung.jpg/1200px-201005151647_NE_RW,_Lagermarkierung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg/1200px-201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Erft_(Grimlinghauserbrücke)-_Neuss.jpg/1200px-Erft_(Grimlinghauserbrücke)-_Neuss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novaesium.jpg/1200px-Novaesium.jpg
+image_srcset:
+  Novaesium BJ 1904 tab 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Novaesium_BJ_1904_tab_03.jpg/400px-Novaesium_BJ_1904_tab_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Novaesium_BJ_1904_tab_03.jpg/800px-Novaesium_BJ_1904_tab_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Novaesium_BJ_1904_tab_03.jpg/1200px-Novaesium_BJ_1904_tab_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Novaesium_BJ_1904_tab_03.jpg/1920px-Novaesium_BJ_1904_tab_03.jpg
+  201005151647 NE RW, Lagermarkierung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/201005151647_NE_RW,_Lagermarkierung.jpg/400px-201005151647_NE_RW,_Lagermarkierung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/201005151647_NE_RW,_Lagermarkierung.jpg/800px-201005151647_NE_RW,_Lagermarkierung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/201005151647_NE_RW,_Lagermarkierung.jpg/1200px-201005151647_NE_RW,_Lagermarkierung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/201005151647_NE_RW,_Lagermarkierung.jpg/1920px-201005151647_NE_RW,_Lagermarkierung.jpg
+  201005151411 NE CSM Schrägrandtopf mit Rollrädchendekor, Belgische Ware, 1.Jh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg/400px-201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg/800px-201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg/1200px-201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg/1920px-201005151411_NE_CSM_Schrägrandtopf_mit_Rollrädchendekor,_Belgische_Ware,_1.Jh.jpg
+  Erft (Grimlinghauserbrücke)- Neuss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Erft_(Grimlinghauserbrücke)-_Neuss.jpg/400px-Erft_(Grimlinghauserbrücke)-_Neuss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Erft_(Grimlinghauserbrücke)-_Neuss.jpg/800px-Erft_(Grimlinghauserbrücke)-_Neuss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Erft_(Grimlinghauserbrücke)-_Neuss.jpg/1200px-Erft_(Grimlinghauserbrücke)-_Neuss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Erft_(Grimlinghauserbrücke)-_Neuss.jpg/1920px-Erft_(Grimlinghauserbrücke)-_Neuss.jpg
+  Novaesium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novaesium.jpg/400px-Novaesium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novaesium.jpg/800px-Novaesium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novaesium.jpg/1200px-Novaesium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novaesium.jpg/1920px-Novaesium.jpg
 ---
 
 ## Overview

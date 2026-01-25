@@ -1,27 +1,49 @@
 ---
-title: "German Ivory Museum Erbach"
+title: German Ivory Museum Erbach
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.663002777
 longitude: 9.00075
-
-# Images
 images:
-  - "/images-sites/german-ivory-museum-erbach/01-554c981b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg/1200px-Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1200px-Elfenbeinmuseum_Erbach_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ivory_museum,_exhibit_2.jpg/1200px-Ivory_museum,_exhibit_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elfenbeinmuseum_Erbach-01.jpg/1200px-Elfenbeinmuseum_Erbach-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ArmreifErbach.jpg/1200px-ArmreifErbach.jpg
+image_srcset:
+  Elfenbeinmuseum Damenfiguren IMT (c) Michael Leukel (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg/400px-Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg/800px-Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg/1200px-Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg/1920px-Elfenbeinmuseum_Damenfiguren_IMT_(c)_Michael_Leukel_(13).jpg
+  Elfenbeinmuseum Erbach aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/400px-Elfenbeinmuseum_Erbach_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/800px-Elfenbeinmuseum_Erbach_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1200px-Elfenbeinmuseum_Erbach_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elfenbeinmuseum_Erbach_aussen.jpg/1920px-Elfenbeinmuseum_Erbach_aussen.jpg
+  Ivory museum, exhibit 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ivory_museum,_exhibit_2.jpg/400px-Ivory_museum,_exhibit_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ivory_museum,_exhibit_2.jpg/800px-Ivory_museum,_exhibit_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ivory_museum,_exhibit_2.jpg/1200px-Ivory_museum,_exhibit_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ivory_museum,_exhibit_2.jpg/1920px-Ivory_museum,_exhibit_2.jpg
+  Elfenbeinmuseum Erbach-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elfenbeinmuseum_Erbach-01.jpg/400px-Elfenbeinmuseum_Erbach-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elfenbeinmuseum_Erbach-01.jpg/800px-Elfenbeinmuseum_Erbach-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elfenbeinmuseum_Erbach-01.jpg/1200px-Elfenbeinmuseum_Erbach-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Elfenbeinmuseum_Erbach-01.jpg/1920px-Elfenbeinmuseum_Erbach-01.jpg
+  ArmreifErbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ArmreifErbach.jpg/400px-ArmreifErbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ArmreifErbach.jpg/800px-ArmreifErbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ArmreifErbach.jpg/1200px-ArmreifErbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ArmreifErbach.jpg/1920px-ArmreifErbach.jpg
 ---
 
 ## Overview

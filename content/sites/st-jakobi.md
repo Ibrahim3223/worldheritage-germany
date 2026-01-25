@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q375042"
 description: "In the heart of Lübecks Old City, St. Jakobi stands as a remarkable example of Brick Gothic architecture. Founded in 1227, this Lutheran church captivat..."
 images:
-  - "/images-sites/st-jakobi/01-44895eb8-1920w.webp"
-  - "/images-sites/st-jakobi/02-1c519e8c-1920w.webp"
-  - "/images-sites/st-jakobi/03-3256c144-1920w.webp"
+  - "/images/st-jakobi/01-44895eb8-1920w.webp"
+  - "/images/st-jakobi/02-1c519e8c-1920w.webp"
+  - "/images/st-jakobi/03-3256c144-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.183055555
 longitude: 13.363888888
 images:
-  - "/images-sites/riems/01-1d9a34b8-800w.webp"
+  - "/images/riems/01-1d9a34b8-800w.webp"
 ---
 
 ## Overview

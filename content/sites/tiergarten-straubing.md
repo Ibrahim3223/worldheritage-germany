@@ -13,7 +13,7 @@ regions:
 latitude: 48.8842
 longitude: 12.5355
 images:
-  - "/images-sites/tiergarten-straubing/01-9134f63f-800w.webp"
+  - "/images/tiergarten-straubing/01-9134f63f-800w.webp"
 ---
 
 ## Overview

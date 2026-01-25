@@ -13,7 +13,7 @@ regions:
 latitude: 49.2024897
 longitude: 13.1046453
 images:
-  - "/images-sites/osser/01-8ff098a6-800w.webp"
+  - "/images/osser/01-8ff098a6-800w.webp"
 ---
 
 ## Overview

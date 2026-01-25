@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q368576"
 description: "In the heart of Nuremberg, Germany, lies a remarkable church that has witnessed centuries of history and transformation: St. Sebaldus. Founded in 1225, ..."
 images:
-  - "/images-sites/st-sebaldus/01-01b0c657-1920w.webp"
-  - "/images-sites/st-sebaldus/02-75a0413f-1920w.webp"
-  - "/images-sites/st-sebaldus/03-bcf4ddf4-1920w.webp"
+  - "/images/st-sebaldus/01-01b0c657-1920w.webp"
+  - "/images/st-sebaldus/02-75a0413f-1920w.webp"
+  - "/images/st-sebaldus/03-bcf4ddf4-1920w.webp"
 ---
 
 ## Overview

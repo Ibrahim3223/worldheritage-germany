@@ -1,19 +1,49 @@
 ---
-title: "Dreitorspitze"
+title: Dreitorspitze
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.4
 longitude: 11.123888888
 images:
-  - "/images-sites/dreitorspitze/01-0dc306ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/1200px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg/1200px-Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Leutascher_Dreitorspitze_MQ.jpg/1200px-Leutascher_Dreitorspitze_MQ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg/1200px-Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dreitorspitze_Musterstein_HQ.jpg/1200px-Dreitorspitze_Musterstein_HQ.jpg
+image_srcset:
+  ÖBB 4024-076 near Seefeld in Tirol, Mittenwaldbahn, 20.02.2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/400px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/800px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/1200px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg/1920px-ÖBB_4024-076_near_Seefeld_in_Tirol,_Mittenwaldbahn,_20.02.2017.jpg
+  Leutascher Dreitorspitze von der Partenkirchner Dreitorspitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg/400px-Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg/800px-Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg/1200px-Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg/1920px-Leutascher_Dreitorspitze_von_der_Partenkirchner_Dreitorspitze.jpg
+  Leutascher Dreitorspitze MQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Leutascher_Dreitorspitze_MQ.jpg/400px-Leutascher_Dreitorspitze_MQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Leutascher_Dreitorspitze_MQ.jpg/800px-Leutascher_Dreitorspitze_MQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Leutascher_Dreitorspitze_MQ.jpg/1200px-Leutascher_Dreitorspitze_MQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Leutascher_Dreitorspitze_MQ.jpg/1920px-Leutascher_Dreitorspitze_MQ.jpg
+  Partenkirchner Dreitorspitze von S aus dem Leutascher Platt HQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg/400px-Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg/800px-Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg/1200px-Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg/1920px-Partenkirchner_Dreitorspitze_von_S_aus_dem_Leutascher_Platt_HQ.jpg
+  Dreitorspitze Musterstein HQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dreitorspitze_Musterstein_HQ.jpg/400px-Dreitorspitze_Musterstein_HQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dreitorspitze_Musterstein_HQ.jpg/800px-Dreitorspitze_Musterstein_HQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dreitorspitze_Musterstein_HQ.jpg/1200px-Dreitorspitze_Musterstein_HQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dreitorspitze_Musterstein_HQ.jpg/1920px-Dreitorspitze_Musterstein_HQ.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.3219
 longitude: 8.43194
 images:
-  - "/images-sites/synagoge-beith-schalom-speyer/01-30d89afd-800w.webp"
+  - "/images/synagoge-beith-schalom-speyer/01-30d89afd-800w.webp"
 ---
 
 ## Overview

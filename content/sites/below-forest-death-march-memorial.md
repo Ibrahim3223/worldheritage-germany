@@ -1,19 +1,32 @@
 ---
-title: "Below Forest Death March Memorial"
+title: Below Forest Death March Memorial
 date: 2026-01-23
 draft: false
-description: "Memorial for the victims of the death march from Sachsenhausen concentration camp"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Memorial for the victims of the death march from Sachsenhausen concentration
+  camp
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 53.25558853
 longitude: 12.46757507
 images:
-  - "/images-sites/below-forest-death-march-memorial/01-c0dc6c50-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenkstätte_Belower_Wald_Wittstock.jpg/1200px-Gedenkstätte_Belower_Wald_Wittstock.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/1200px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
+image_srcset:
+  Gedenkstätte Belower Wald Wittstock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenkstätte_Belower_Wald_Wittstock.jpg/400px-Gedenkstätte_Belower_Wald_Wittstock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenkstätte_Belower_Wald_Wittstock.jpg/800px-Gedenkstätte_Belower_Wald_Wittstock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenkstätte_Belower_Wald_Wittstock.jpg/1200px-Gedenkstätte_Belower_Wald_Wittstock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Gedenkstätte_Belower_Wald_Wittstock.jpg/1920px-Gedenkstätte_Belower_Wald_Wittstock.jpg
+  Belower-Damm-Wittstock-Dosse-Mahnmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/400px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/800px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/1200px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belower-Damm-Wittstock-Dosse-Mahnmal.jpg/1920px-Belower-Damm-Wittstock-Dosse-Mahnmal.jpg
 ---
 
 ## Overview

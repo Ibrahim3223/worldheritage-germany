@@ -1,29 +1,50 @@
 ---
-title: "Burgstall Gegenpoint"
+title: Burgstall Gegenpoint
 date: 2026-01-23
 draft: false
-description: "the site of a ruined spur castle from the high middle ages, which stood about 2km to the east of Fürstenfeld Abbey in Fürstenfeldbruck, Bavaria, Germa"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: the site of a ruined spur castle from the high middle ages, which stood
+  about 2km to the east of Fürstenfeld Abbey in Fürstenfeldbruck, Bavaria, Germa
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.1712
 longitude: 11.2724
-
-# Images
 images:
-  - "/images-sites/burgstall-gegenpoint/01-fd0936e2-800w.webp"
-  - "/images-sites/burgstall-gegenpoint/02-784d0699-800w.webp"
-  - "/images-sites/burgstall-gegenpoint/03-62a1c2cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fußpfad_auf_der_Emmeringer_Leite_01.jpg/1200px-Fußpfad_auf_der_Emmeringer_Leite_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Waldboden_auf_der_Emmeringer_Leite_05.jpg/1200px-Waldboden_auf_der_Emmeringer_Leite_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgstall_Gegenpoint.JPG/1200px-Burgstall_Gegenpoint.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gedenkstein_Burgstall_Gegenpoint.JPG/1200px-Gedenkstein_Burgstall_Gegenpoint.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burgstall_Gegenpoint-Lageplan.PNG/1200px-Burgstall_Gegenpoint-Lageplan.PNG
+image_srcset:
+  Fußpfad auf der Emmeringer Leite 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fußpfad_auf_der_Emmeringer_Leite_01.jpg/400px-Fußpfad_auf_der_Emmeringer_Leite_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fußpfad_auf_der_Emmeringer_Leite_01.jpg/800px-Fußpfad_auf_der_Emmeringer_Leite_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fußpfad_auf_der_Emmeringer_Leite_01.jpg/1200px-Fußpfad_auf_der_Emmeringer_Leite_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fußpfad_auf_der_Emmeringer_Leite_01.jpg/1920px-Fußpfad_auf_der_Emmeringer_Leite_01.jpg
+  Waldboden auf der Emmeringer Leite 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Waldboden_auf_der_Emmeringer_Leite_05.jpg/400px-Waldboden_auf_der_Emmeringer_Leite_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Waldboden_auf_der_Emmeringer_Leite_05.jpg/800px-Waldboden_auf_der_Emmeringer_Leite_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Waldboden_auf_der_Emmeringer_Leite_05.jpg/1200px-Waldboden_auf_der_Emmeringer_Leite_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Waldboden_auf_der_Emmeringer_Leite_05.jpg/1920px-Waldboden_auf_der_Emmeringer_Leite_05.jpg
+  Burgstall Gegenpoint.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgstall_Gegenpoint.JPG/400px-Burgstall_Gegenpoint.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgstall_Gegenpoint.JPG/800px-Burgstall_Gegenpoint.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgstall_Gegenpoint.JPG/1200px-Burgstall_Gegenpoint.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgstall_Gegenpoint.JPG/1920px-Burgstall_Gegenpoint.JPG
+  Gedenkstein Burgstall Gegenpoint.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gedenkstein_Burgstall_Gegenpoint.JPG/400px-Gedenkstein_Burgstall_Gegenpoint.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gedenkstein_Burgstall_Gegenpoint.JPG/800px-Gedenkstein_Burgstall_Gegenpoint.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gedenkstein_Burgstall_Gegenpoint.JPG/1200px-Gedenkstein_Burgstall_Gegenpoint.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gedenkstein_Burgstall_Gegenpoint.JPG/1920px-Gedenkstein_Burgstall_Gegenpoint.JPG
+  Burgstall Gegenpoint-Lageplan.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burgstall_Gegenpoint-Lageplan.PNG/400px-Burgstall_Gegenpoint-Lageplan.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burgstall_Gegenpoint-Lageplan.PNG/800px-Burgstall_Gegenpoint-Lageplan.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burgstall_Gegenpoint-Lageplan.PNG/1200px-Burgstall_Gegenpoint-Lageplan.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burgstall_Gegenpoint-Lageplan.PNG/1920px-Burgstall_Gegenpoint-Lageplan.PNG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.3462
 longitude: 14.5482
 images:
-  - "/images-sites/lennpark/01-89cf83a7-800w.webp"
+  - "/images/lennpark/01-89cf83a7-800w.webp"
 ---
 
 ## Overview

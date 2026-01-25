@@ -1,19 +1,49 @@
 ---
-title: "Hammaburg"
+title: Hammaburg
 date: 2026-01-23
 draft: false
-description: "fortification, origin of city Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: fortification, origin of city Hamburg
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 53.549866
 longitude: 9.997729
 images:
-  - "/images-sites/hammaburg/01-9bb60d57-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg/1200px-The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg/1200px-Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Die_Gartenlaube_(1883)_b_501.jpg/1200px-Die_Gartenlaube_(1883)_b_501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Domplatz_Hamburg.jpg/1200px-Domplatz_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg/1200px-Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg
+image_srcset:
+  The Wizards @ Hell over Hammaburg 2018-03-10 017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg/400px-The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg/800px-The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg/1200px-The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg/1920px-The_Wizards_@_Hell_over_Hammaburg_2018-03-10_017.jpg
+  Night Demon @ Hell over Hammaburg 2019-03-03 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg/400px-Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg/800px-Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg/1200px-Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg/1920px-Night_Demon_@_Hell_over_Hammaburg_2019-03-03_002.jpg
+  Die Gartenlaube (1883) b 501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Die_Gartenlaube_(1883)_b_501.jpg/400px-Die_Gartenlaube_(1883)_b_501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Die_Gartenlaube_(1883)_b_501.jpg/800px-Die_Gartenlaube_(1883)_b_501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Die_Gartenlaube_(1883)_b_501.jpg/1200px-Die_Gartenlaube_(1883)_b_501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Die_Gartenlaube_(1883)_b_501.jpg/1920px-Die_Gartenlaube_(1883)_b_501.jpg
+  Domplatz Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Domplatz_Hamburg.jpg/400px-Domplatz_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Domplatz_Hamburg.jpg/800px-Domplatz_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Domplatz_Hamburg.jpg/1200px-Domplatz_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Domplatz_Hamburg.jpg/1920px-Domplatz_Hamburg.jpg
+  Businessmen Benjamin and Aleksei Mitro 1922 Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg/400px-Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg/800px-Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg/1200px-Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg/1920px-Businessmen_Benjamin_and_Aleksei_Mitro_1922_Hamburg.jpg
 ---
 
 ## Overview

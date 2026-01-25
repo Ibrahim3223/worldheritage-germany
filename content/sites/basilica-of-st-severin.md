@@ -1,23 +1,50 @@
 ---
-title: "Basilica of St. Severin"
-site_name: "Basilica of St. Severin"
-slug: "basilica-of-st-severin"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Basilica of St. Severin
+site_name: Basilica of St. Severin
+slug: basilica-of-st-severin
+region: North Rhine-Westphalia
 latitude: 50.923478
 longitude: 6.959717
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q457659"
-description: "The Basilica of St. Severin, located in the vibrant district of Altstadt-Süd in Germany, is a remarkable example of Romanesque architecture that capture..."
+- cultural site
+wikidata_id: Q457659
+description: The Basilica of St. Severin, located in the vibrant district of Altstadt-Süd
+  in Germany, is a remarkable example of Romanesque architecture that capture...
 images:
-  - "/images-sites/basilica-of-st-severin/01-178ff7ee-1920w.webp"
-  - "/images-sites/basilica-of-st-severin/02-6cc21d3a-1920w.webp"
-  - "/images-sites/basilica-of-st-severin/03-72b33fcf-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Severeinskirche%20aus%20Severinstorburg%202009.jpg/1200px-Severeinskirche%20aus%20Severinstorburg%202009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg/1200px-St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg/1200px-2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg/1200px-Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1200px-Severeinskirche_aus_Severinstorburg_2009.jpg
+image_srcset:
+  Severeinskirche%20aus%20Severinstorburg%202009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Severeinskirche%20aus%20Severinstorburg%202009.jpg/400px-Severeinskirche%20aus%20Severinstorburg%202009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Severeinskirche%20aus%20Severinstorburg%202009.jpg/800px-Severeinskirche%20aus%20Severinstorburg%202009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Severeinskirche%20aus%20Severinstorburg%202009.jpg/1200px-Severeinskirche%20aus%20Severinstorburg%202009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Severeinskirche%20aus%20Severinstorburg%202009.jpg/1920px-Severeinskirche%20aus%20Severinstorburg%202009.jpg
+  St. Severin Köln - Blick durch das Langhaus ohne Kirchenbänke-8788.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg/400px-St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg/800px-St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg/1200px-St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg/1920px-St._Severin_Köln_-_Blick_durch_das_Langhaus_ohne_Kirchenbänke-8788.jpg
+  2013-08-10 07-08-52 Ballonfahrt über Köln EH 0577.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg/400px-2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg/800px-2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg/1200px-2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg/1920px-2013-08-10_07-08-52_Ballonfahrt_über_Köln_EH_0577.jpg
+  Ballonfahrt über Köln - Severinstraße, St Severin-RS-4035.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg/400px-Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg/800px-Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg/1200px-Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg/1920px-Ballonfahrt_über_Köln_-_Severinstraße,_St_Severin-RS-4035.jpg
+  Severeinskirche aus Severinstorburg 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/400px-Severeinskirche_aus_Severinstorburg_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/800px-Severeinskirche_aus_Severinstorburg_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1200px-Severeinskirche_aus_Severinstorburg_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Severeinskirche_aus_Severinstorburg_2009.jpg/1920px-Severeinskirche_aus_Severinstorburg_2009.jpg
 ---
 
 ## Overview

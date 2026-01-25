@@ -13,9 +13,9 @@ regions:
 latitude: 49.22
 longitude: 9.88215
 images:
-  - "/images-sites/morstein-castle/01-2ad033c8-800w.webp"
-  - "/images-sites/morstein-castle/02-99f5e0c9-800w.webp"
-  - "/images-sites/morstein-castle/03-0da22f4c-800w.webp"
+  - "/images/morstein-castle/01-2ad033c8-800w.webp"
+  - "/images/morstein-castle/02-99f5e0c9-800w.webp"
+  - "/images/morstein-castle/03-0da22f4c-800w.webp"
 ---
 
 ## Overview

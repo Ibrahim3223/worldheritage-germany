@@ -13,7 +13,7 @@ regions:
 latitude: 50.015277777
 longitude: 8.206944444
 images:
-  - "/images-sites/mainzer-sand/01-be491968-800w.webp"
+  - "/images/mainzer-sand/01-be491968-800w.webp"
 ---
 
 ## Overview

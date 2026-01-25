@@ -13,7 +13,7 @@ regions:
 latitude: 47.409444444
 longitude: 10.97
 images:
-  - "/images-sites/schneefernerkopf/01-bb629893-800w.webp"
+  - "/images/schneefernerkopf/01-bb629893-800w.webp"
 ---
 
 ## Overview

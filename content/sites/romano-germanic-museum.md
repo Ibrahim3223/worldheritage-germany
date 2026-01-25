@@ -13,7 +13,7 @@ regions:
 latitude: 50.940542
 longitude: 6.958931
 images:
-  - "/images-sites/romano-germanic-museum/01-5bdabb0b-800w.webp"
+  - "/images/romano-germanic-museum/01-5bdabb0b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.5517
 longitude: 8.87531
 images:
-  - "/images-sites/memorial-hailfingen-tailfingen-concentration-camp/01-609082a0-800w.webp"
+  - "/images/memorial-hailfingen-tailfingen-concentration-camp/01-609082a0-800w.webp"
 ---
 
 ## Overview

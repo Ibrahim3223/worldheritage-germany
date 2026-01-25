@@ -21,7 +21,7 @@ longitude: 8.381056375
 
 # Images
 images:
-  - "/images-sites/nibelungenbruecke-worms/01-3dabfd03-800w.webp"
+  - "/images/nibelungenbruecke-worms/01-3dabfd03-800w.webp"
 ---
 
 ## Overview

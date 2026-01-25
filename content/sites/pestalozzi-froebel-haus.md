@@ -21,7 +21,7 @@ longitude: 13.351444
 
 # Images
 images:
-  - "/images-sites/pestalozzi-froebel-haus/01-5112b465-800w.webp"
+  - "/images/pestalozzi-froebel-haus/01-5112b465-800w.webp"
 ---
 
 ## Overview

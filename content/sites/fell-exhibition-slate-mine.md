@@ -1,21 +1,49 @@
 ---
-title: "Fell Exhibition Slate Mine"
+title: Fell Exhibition Slate Mine
 date: 2026-01-23
 draft: false
-description: "mine"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7559
 longitude: 6.79908
 images:
-  - "/images-sites/fell-exhibition-slate-mine/01-3fac01a6-800w.webp"
-  - "/images-sites/fell-exhibition-slate-mine/02-68beec06-800w.webp"
-  - "/images-sites/fell-exhibition-slate-mine/03-524d3479-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Besucherbergwerk_Terrasse.jpg/1200px-Besucherbergwerk_Terrasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ausbau_im_Besucherbergwerk.jpg/1200px-Ausbau_im_Besucherbergwerk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grube_Barbara.jpg/1200px-Grube_Barbara.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bergwerk-fell-bahn.jpg/1200px-Bergwerk-fell-bahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stollen_Besucherbergwerk_Fell.jpg/1200px-Stollen_Besucherbergwerk_Fell.jpg
+image_srcset:
+  Besucherbergwerk Terrasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Besucherbergwerk_Terrasse.jpg/400px-Besucherbergwerk_Terrasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Besucherbergwerk_Terrasse.jpg/800px-Besucherbergwerk_Terrasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Besucherbergwerk_Terrasse.jpg/1200px-Besucherbergwerk_Terrasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Besucherbergwerk_Terrasse.jpg/1920px-Besucherbergwerk_Terrasse.jpg
+  Ausbau im Besucherbergwerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ausbau_im_Besucherbergwerk.jpg/400px-Ausbau_im_Besucherbergwerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ausbau_im_Besucherbergwerk.jpg/800px-Ausbau_im_Besucherbergwerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ausbau_im_Besucherbergwerk.jpg/1200px-Ausbau_im_Besucherbergwerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ausbau_im_Besucherbergwerk.jpg/1920px-Ausbau_im_Besucherbergwerk.jpg
+  Grube Barbara.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grube_Barbara.jpg/400px-Grube_Barbara.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grube_Barbara.jpg/800px-Grube_Barbara.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grube_Barbara.jpg/1200px-Grube_Barbara.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grube_Barbara.jpg/1920px-Grube_Barbara.jpg
+  Bergwerk-fell-bahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bergwerk-fell-bahn.jpg/400px-Bergwerk-fell-bahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bergwerk-fell-bahn.jpg/800px-Bergwerk-fell-bahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bergwerk-fell-bahn.jpg/1200px-Bergwerk-fell-bahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bergwerk-fell-bahn.jpg/1920px-Bergwerk-fell-bahn.jpg
+  Stollen Besucherbergwerk Fell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stollen_Besucherbergwerk_Fell.jpg/400px-Stollen_Besucherbergwerk_Fell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stollen_Besucherbergwerk_Fell.jpg/800px-Stollen_Besucherbergwerk_Fell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stollen_Besucherbergwerk_Fell.jpg/1200px-Stollen_Besucherbergwerk_Fell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Stollen_Besucherbergwerk_Fell.jpg/1920px-Stollen_Besucherbergwerk_Fell.jpg
 ---
 
 ## Overview

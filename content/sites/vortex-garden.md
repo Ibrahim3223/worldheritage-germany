@@ -13,7 +13,7 @@ regions:
 latitude: 49.875119
 longitude: 8.666603
 images:
-  - "/images-sites/vortex-garden/01-e9e06541-800w.webp"
+  - "/images/vortex-garden/01-e9e06541-800w.webp"
 ---
 
 ## Overview

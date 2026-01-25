@@ -1,19 +1,49 @@
 ---
-title: "Heimatmuseum Gerstungen"
+title: Heimatmuseum Gerstungen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.968
 longitude: 10.0783
 images:
-  - "/images-sites/heimatmuseum-gerstungen/01-4340ba68-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gerstungen23_Kita_und_Bibliothek.jpg/1200px-Gerstungen23_Kita_und_Bibliothek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gerstungen07_Butterformen2.jpg/1200px-Gerstungen07_Butterformen2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_GERSTUNGEN_MUSEUM_1.jpg/1200px-WAK_GERSTUNGEN_MUSEUM_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gerstungen23_Werratalmuseum_Werbetafel.jpg/1200px-Gerstungen23_Werratalmuseum_Werbetafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gerstungen23_Werratalmuseum_Gedenktafel.jpg/1200px-Gerstungen23_Werratalmuseum_Gedenktafel.jpg
+image_srcset:
+  Gerstungen23 Kita und Bibliothek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gerstungen23_Kita_und_Bibliothek.jpg/400px-Gerstungen23_Kita_und_Bibliothek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gerstungen23_Kita_und_Bibliothek.jpg/800px-Gerstungen23_Kita_und_Bibliothek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gerstungen23_Kita_und_Bibliothek.jpg/1200px-Gerstungen23_Kita_und_Bibliothek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gerstungen23_Kita_und_Bibliothek.jpg/1920px-Gerstungen23_Kita_und_Bibliothek.jpg
+  Gerstungen07 Butterformen2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gerstungen07_Butterformen2.jpg/400px-Gerstungen07_Butterformen2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gerstungen07_Butterformen2.jpg/800px-Gerstungen07_Butterformen2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gerstungen07_Butterformen2.jpg/1200px-Gerstungen07_Butterformen2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gerstungen07_Butterformen2.jpg/1920px-Gerstungen07_Butterformen2.jpg
+  WAK GERSTUNGEN MUSEUM 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_GERSTUNGEN_MUSEUM_1.jpg/400px-WAK_GERSTUNGEN_MUSEUM_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_GERSTUNGEN_MUSEUM_1.jpg/800px-WAK_GERSTUNGEN_MUSEUM_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_GERSTUNGEN_MUSEUM_1.jpg/1200px-WAK_GERSTUNGEN_MUSEUM_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WAK_GERSTUNGEN_MUSEUM_1.jpg/1920px-WAK_GERSTUNGEN_MUSEUM_1.jpg
+  Gerstungen23 Werratalmuseum Werbetafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gerstungen23_Werratalmuseum_Werbetafel.jpg/400px-Gerstungen23_Werratalmuseum_Werbetafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gerstungen23_Werratalmuseum_Werbetafel.jpg/800px-Gerstungen23_Werratalmuseum_Werbetafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gerstungen23_Werratalmuseum_Werbetafel.jpg/1200px-Gerstungen23_Werratalmuseum_Werbetafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gerstungen23_Werratalmuseum_Werbetafel.jpg/1920px-Gerstungen23_Werratalmuseum_Werbetafel.jpg
+  Gerstungen23 Werratalmuseum Gedenktafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gerstungen23_Werratalmuseum_Gedenktafel.jpg/400px-Gerstungen23_Werratalmuseum_Gedenktafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gerstungen23_Werratalmuseum_Gedenktafel.jpg/800px-Gerstungen23_Werratalmuseum_Gedenktafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gerstungen23_Werratalmuseum_Gedenktafel.jpg/1200px-Gerstungen23_Werratalmuseum_Gedenktafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gerstungen23_Werratalmuseum_Gedenktafel.jpg/1920px-Gerstungen23_Werratalmuseum_Gedenktafel.jpg
 ---
 
 ## Overview

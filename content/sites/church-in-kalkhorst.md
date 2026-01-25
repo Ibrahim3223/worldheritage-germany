@@ -1,19 +1,51 @@
 ---
-title: "Church in Kalkhorst"
-site_name: "Church in Kalkhorst"
-slug: "church-in-kalkhorst"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Kalkhorst
+site_name: Church in Kalkhorst
+slug: church-in-kalkhorst
+region: Schleswig-Holstein
 latitude: 53.9707
 longitude: 11.0451
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244394"
-description: "The Church in Kalkhorst stands as a striking example of Brick Gothic architecture, a style that flourished in Northern Europe. This church, located in t..."
+- cultural site
+wikidata_id: Q1244394
+description: The Church in Kalkhorst stands as a striking example of Brick Gothic
+  architecture, a style that flourished in Northern Europe. This church, located in
+  t...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg/1200px-%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/1200px-"Église_Saint-Laurent_de_Kalkhorst".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg/1200px-Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkhorst_Orgel_(3).jpg/1200px-Kalkhorst_Orgel_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dorfkirche_Kalkhorst1.jpg/1200px-Dorfkirche_Kalkhorst1.jpg
+image_srcset:
+  '%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg/400px-%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg/800px-%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg/1200px-%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg/1920px-%22%C3%89glise%20Saint-Laurent%20de%20Kalkhorst%22.jpg
+  '"Église Saint-Laurent de Kalkhorst".jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/400px-"Église_Saint-Laurent_de_Kalkhorst".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/800px-"Église_Saint-Laurent_de_Kalkhorst".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/1200px-"Église_Saint-Laurent_de_Kalkhorst".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/"Église_Saint-Laurent_de_Kalkhorst".jpg/1920px-"Église_Saint-Laurent_de_Kalkhorst".jpg
+  Kalkhorst, Dorfkirche St. Laurentius, Seiteneingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg/400px-Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg/800px-Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg/1200px-Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg/1920px-Kalkhorst,_Dorfkirche_St._Laurentius,_Seiteneingang.jpg
+  Kalkhorst Orgel (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkhorst_Orgel_(3).jpg/400px-Kalkhorst_Orgel_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkhorst_Orgel_(3).jpg/800px-Kalkhorst_Orgel_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkhorst_Orgel_(3).jpg/1200px-Kalkhorst_Orgel_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kalkhorst_Orgel_(3).jpg/1920px-Kalkhorst_Orgel_(3).jpg
+  Dorfkirche Kalkhorst1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dorfkirche_Kalkhorst1.jpg/400px-Dorfkirche_Kalkhorst1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dorfkirche_Kalkhorst1.jpg/800px-Dorfkirche_Kalkhorst1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dorfkirche_Kalkhorst1.jpg/1200px-Dorfkirche_Kalkhorst1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dorfkirche_Kalkhorst1.jpg/1920px-Dorfkirche_Kalkhorst1.jpg
 ---
 
 ## Overview

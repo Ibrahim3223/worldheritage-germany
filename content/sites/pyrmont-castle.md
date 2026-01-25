@@ -21,7 +21,7 @@ longitude: 7.28765
 
 # Images
 images:
-  - "/images-sites/pyrmont-castle/01-f2de5da4-800w.webp"
+  - "/images/pyrmont-castle/01-f2de5da4-800w.webp"
 ---
 
 ## Overview

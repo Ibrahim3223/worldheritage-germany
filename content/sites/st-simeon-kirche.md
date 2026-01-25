@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1273371"
 description: "The St.-Simeon-Kirche is a striking example of Gothic Revival architecture, situated in the vibrant Friedrichshain-Kreuzberg region of Germany. This chu..."
 images:
-  - "/images-sites/st-simeon-kirche/01-7a34f730-1920w.webp"
-  - "/images-sites/st-simeon-kirche/02-97c393d1-1920w.webp"
-  - "/images-sites/st-simeon-kirche/03-9e5f9774-1920w.webp"
+  - "/images/st-simeon-kirche/01-7a34f730-1920w.webp"
+  - "/images/st-simeon-kirche/02-97c393d1-1920w.webp"
+  - "/images/st-simeon-kirche/03-9e5f9774-1920w.webp"
 ---
 
 ## Overview

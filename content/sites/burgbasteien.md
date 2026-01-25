@@ -1,27 +1,49 @@
 ---
-title: "Burgbasteien"
+title: Burgbasteien
 date: 2026-01-23
 draft: false
-description: "building in Nuremberg, Middle Franconia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: building in Nuremberg, Middle Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.458374557
 longitude: 11.074770408
-
-# Images
 images:
-  - "/images-sites/burgbasteien/01-634156d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg/1200px-D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg/1200px-Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg/1200px-Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nürnberg_Vestnertorbastei_Tor.jpg/1200px-Nürnberg_Vestnertorbastei_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nuernberg-burggarten-suedbastei-v-n.jpg/1200px-Nuernberg-burggarten-suedbastei-v-n.jpg
+image_srcset:
+  D-5-64-000-320 Große Burgbasteien Nürnberg 20241020 0051.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg/400px-D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg/800px-D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg/1200px-D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg/1920px-D-5-64-000-320_Große_Burgbasteien_Nürnberg_20241020_0051.jpg
+  Nürnberg, Stadtbefestigung, Bastion am Tiergärtner Tor-20160810-003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg/400px-Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg/800px-Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg/1200px-Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg/1920px-Nürnberg,_Stadtbefestigung,_Bastion_am_Tiergärtner_Tor-20160810-003.jpg
+  Nürnberg, Vestnertorbrücke von Nordwesten, 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg/400px-Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg/800px-Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg/1200px-Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg/1920px-Nürnberg,_Vestnertorbrücke_von_Nordwesten,_1.jpeg
+  Nürnberg Vestnertorbastei Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nürnberg_Vestnertorbastei_Tor.jpg/400px-Nürnberg_Vestnertorbastei_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nürnberg_Vestnertorbastei_Tor.jpg/800px-Nürnberg_Vestnertorbastei_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nürnberg_Vestnertorbastei_Tor.jpg/1200px-Nürnberg_Vestnertorbastei_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nürnberg_Vestnertorbastei_Tor.jpg/1920px-Nürnberg_Vestnertorbastei_Tor.jpg
+  Nuernberg-burggarten-suedbastei-v-n.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nuernberg-burggarten-suedbastei-v-n.jpg/400px-Nuernberg-burggarten-suedbastei-v-n.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nuernberg-burggarten-suedbastei-v-n.jpg/800px-Nuernberg-burggarten-suedbastei-v-n.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nuernberg-burggarten-suedbastei-v-n.jpg/1200px-Nuernberg-burggarten-suedbastei-v-n.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Nuernberg-burggarten-suedbastei-v-n.jpg/1920px-Nuernberg-burggarten-suedbastei-v-n.jpg
 ---
 
 ## Overview

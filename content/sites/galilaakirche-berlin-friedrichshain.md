@@ -1,20 +1,51 @@
 ---
-title: "Galiläakirche (Berlin-Friedrichshain)"
-site_name: "Galiläakirche (Berlin-Friedrichshain)"
-slug: "galilaakirche-berlin-friedrichshain"
-region: "Berlin"
-
-# Location
+title: Galiläakirche (Berlin-Friedrichshain)
+site_name: Galiläakirche (Berlin-Friedrichshain)
+slug: galilaakirche-berlin-friedrichshain
+region: Berlin
 latitude: 52.5178
 longitude: 13.4564
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1492093"
-description: "In the heart of Berlin-Friedrichshain stands the Galiläakirche, a striking representation of Gothic Revival architecture that invites both reverence and..."
+- church building
+- religious site
+wikidata_id: Q1492093
+description: In the heart of Berlin-Friedrichshain stands the Galiläakirche, a striking
+  representation of Gothic Revival architecture that invites both reverence and...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Galil%C3%A4akirche.JPG/1200px-Galil%C3%A4akirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Galiläakirche_Altar_und_Orgel.JPG/1200px-Galiläakirche_Altar_und_Orgel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Galiläakirche_1910.JPG/1200px-Galiläakirche_1910.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1200px-Galiläakirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Galiläakirche_Altar_und_Orgel_(cropped).JPG/1200px-Galiläakirche_Altar_und_Orgel_(cropped).JPG
+image_srcset:
+  Galil%C3%A4akirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Galil%C3%A4akirche.JPG/400px-Galil%C3%A4akirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Galil%C3%A4akirche.JPG/800px-Galil%C3%A4akirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Galil%C3%A4akirche.JPG/1200px-Galil%C3%A4akirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Galil%C3%A4akirche.JPG/1920px-Galil%C3%A4akirche.JPG
+  Galiläakirche Altar und Orgel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Galiläakirche_Altar_und_Orgel.JPG/400px-Galiläakirche_Altar_und_Orgel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Galiläakirche_Altar_und_Orgel.JPG/800px-Galiläakirche_Altar_und_Orgel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Galiläakirche_Altar_und_Orgel.JPG/1200px-Galiläakirche_Altar_und_Orgel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Galiläakirche_Altar_und_Orgel.JPG/1920px-Galiläakirche_Altar_und_Orgel.JPG
+  Galiläakirche 1910.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Galiläakirche_1910.JPG/400px-Galiläakirche_1910.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Galiläakirche_1910.JPG/800px-Galiläakirche_1910.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Galiläakirche_1910.JPG/1200px-Galiläakirche_1910.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Galiläakirche_1910.JPG/1920px-Galiläakirche_1910.JPG
+  Galiläakirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/400px-Galiläakirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/800px-Galiläakirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1200px-Galiläakirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galiläakirche.JPG/1920px-Galiläakirche.JPG
+  Galiläakirche Altar und Orgel (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Galiläakirche_Altar_und_Orgel_(cropped).JPG/400px-Galiläakirche_Altar_und_Orgel_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Galiläakirche_Altar_und_Orgel_(cropped).JPG/800px-Galiläakirche_Altar_und_Orgel_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Galiläakirche_Altar_und_Orgel_(cropped).JPG/1200px-Galiläakirche_Altar_und_Orgel_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Galiläakirche_Altar_und_Orgel_(cropped).JPG/1920px-Galiläakirche_Altar_und_Orgel_(cropped).JPG
 ---
 
 ## Overview

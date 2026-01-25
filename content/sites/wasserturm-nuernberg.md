@@ -13,7 +13,7 @@ regions:
 latitude: 49.4535
 longitude: 11.0734
 images:
-  - "/images-sites/wasserturm-nuernberg/01-10d801ae-800w.webp"
+  - "/images/wasserturm-nuernberg/01-10d801ae-800w.webp"
 ---
 
 ## Overview

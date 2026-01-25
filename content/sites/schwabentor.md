@@ -13,7 +13,7 @@ regions:
 latitude: 47.99277778
 longitude: 7.85416667
 images:
-  - "/images-sites/schwabentor/01-f4fb741b-800w.webp"
+  - "/images/schwabentor/01-f4fb741b-800w.webp"
 ---
 
 ## Overview

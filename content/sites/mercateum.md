@@ -13,7 +13,7 @@ regions:
 latitude: 48.270708333
 longitude: 10.885544444
 images:
-  - "/images-sites/mercateum/01-36f2a379-800w.webp"
+  - "/images/mercateum/01-36f2a379-800w.webp"
 ---
 
 ## Overview

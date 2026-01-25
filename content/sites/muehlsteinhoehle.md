@@ -13,7 +13,7 @@ regions:
 latitude: 50.1936
 longitude: 6.76007
 images:
-  - "/images-sites/muehlsteinhoehle/01-c1962fd2-800w.webp"
+  - "/images/muehlsteinhoehle/01-c1962fd2-800w.webp"
 ---
 
 ## Overview

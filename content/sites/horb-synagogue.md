@@ -1,19 +1,49 @@
 ---
-title: "Horb Synagogue"
+title: Horb Synagogue
 date: 2026-01-23
 draft: false
-description: "building in Marktzeuln, Upper Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building in Marktzeuln, Upper Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.156848
 longitude: 11.199578
 images:
-  - "/images-sites/horb-synagogue/01-cd8a282a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museu_de_Israel_P1130206_(25000725046).jpg/1200px-Museu_de_Israel_P1130206_(25000725046).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1200px-Horb_Synagogue_(8528802629).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Horb_Synagogue_(8528812473).jpg/1200px-Horb_Synagogue_(8528812473).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horb_Synagogue_(8529924164).jpg/1200px-Horb_Synagogue_(8529924164).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Israel_DSC08894_(9626419011).jpg/1200px-Israel_DSC08894_(9626419011).jpg
+image_srcset:
+  Museu de Israel P1130206 (25000725046).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museu_de_Israel_P1130206_(25000725046).jpg/400px-Museu_de_Israel_P1130206_(25000725046).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museu_de_Israel_P1130206_(25000725046).jpg/800px-Museu_de_Israel_P1130206_(25000725046).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museu_de_Israel_P1130206_(25000725046).jpg/1200px-Museu_de_Israel_P1130206_(25000725046).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Museu_de_Israel_P1130206_(25000725046).jpg/1920px-Museu_de_Israel_P1130206_(25000725046).jpg
+  Horb Synagogue (8528802629).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/400px-Horb_Synagogue_(8528802629).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/800px-Horb_Synagogue_(8528802629).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1200px-Horb_Synagogue_(8528802629).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Horb_Synagogue_(8528802629).jpg/1920px-Horb_Synagogue_(8528802629).jpg
+  Horb Synagogue (8528812473).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Horb_Synagogue_(8528812473).jpg/400px-Horb_Synagogue_(8528812473).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Horb_Synagogue_(8528812473).jpg/800px-Horb_Synagogue_(8528812473).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Horb_Synagogue_(8528812473).jpg/1200px-Horb_Synagogue_(8528812473).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Horb_Synagogue_(8528812473).jpg/1920px-Horb_Synagogue_(8528812473).jpg
+  Horb Synagogue (8529924164).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horb_Synagogue_(8529924164).jpg/400px-Horb_Synagogue_(8529924164).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horb_Synagogue_(8529924164).jpg/800px-Horb_Synagogue_(8529924164).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horb_Synagogue_(8529924164).jpg/1200px-Horb_Synagogue_(8529924164).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Horb_Synagogue_(8529924164).jpg/1920px-Horb_Synagogue_(8529924164).jpg
+  Israel DSC08894 (9626419011).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Israel_DSC08894_(9626419011).jpg/400px-Israel_DSC08894_(9626419011).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Israel_DSC08894_(9626419011).jpg/800px-Israel_DSC08894_(9626419011).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Israel_DSC08894_(9626419011).jpg/1200px-Israel_DSC08894_(9626419011).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Israel_DSC08894_(9626419011).jpg/1920px-Israel_DSC08894_(9626419011).jpg
 ---
 
 ## Overview

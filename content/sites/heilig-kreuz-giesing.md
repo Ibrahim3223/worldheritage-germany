@@ -1,23 +1,50 @@
 ---
-title: "Heilig Kreuz (Giesing)"
-site_name: "Heilig Kreuz (Giesing)"
-slug: "heilig-kreuz-giesing"
-region: "Bavaria"
-
-# Location
+title: Heilig Kreuz (Giesing)
+site_name: Heilig Kreuz (Giesing)
+slug: heilig-kreuz-giesing
+region: Bavaria
 latitude: 48.116311
 longitude: 11.577817
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594945"
-description: "In the heart of Munich, a striking church rises to a height of 95 meters, capturing the attention of both locals and visitors alike. Heilig Kreuz, or Ho..."
+- cultural site
+wikidata_id: Q1594945
+description: In the heart of Munich, a striking church rises to a height of 95 meters,
+  capturing the attention of both locals and visitors alike. Heilig Kreuz, or Ho...
 images:
-  - "/images-sites/heilig-kreuz-giesing/01-cabaefb9-1920w.webp"
-  - "/images-sites/heilig-kreuz-giesing/02-c249e4ed-1920w.webp"
-  - "/images-sites/heilig-kreuz-giesing/03-24aaedbe-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg/1200px-Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg/1200px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg/1200px-Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1200px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg/1200px-15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg
+image_srcset:
+  Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg/400px-Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg/800px-Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg/1200px-Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg/1920px-Ichostr.%201%20Pfarrkirche%20Hl.%20Kreuz%20Muenchen-2.jpg
+  Ichostr. 1 Pfarrkirche Hl. Kreuz Muenchen-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg/400px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg/800px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg/1200px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg/1920px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-5.jpg
+  Kriegerdenkmal Heilig-Kreuz-Kirche (Giesing) 1870-1871.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg/400px-Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg/800px-Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg/1200px-Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg/1920px-Kriegerdenkmal_Heilig-Kreuz-Kirche_(Giesing)_1870-1871.jpg
+  Ichostr. 1 Pfarrkirche Hl. Kreuz Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/400px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/800px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1200px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg/1920px-Ichostr._1_Pfarrkirche_Hl._Kreuz_Muenchen-2.jpg
+  15.11.2007 München - panoramio - Sandor Bordas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg/400px-15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg/800px-15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg/1200px-15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg/1920px-15.11.2007_München_-_panoramio_-_Sandor_Bordas.jpg
 ---
 
 ## Overview

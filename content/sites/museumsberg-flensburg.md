@@ -21,7 +21,7 @@ longitude: 9.43158
 
 # Images
 images:
-  - "/images-sites/museumsberg-flensburg/01-79680eef-800w.webp"
+  - "/images/museumsberg-flensburg/01-79680eef-800w.webp"
 ---
 
 ## Overview

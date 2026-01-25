@@ -13,7 +13,7 @@ regions:
 latitude: 54.320556
 longitude: 10.130556
 images:
-  - "/images-sites/wunderino-arena/01-71b80ff4-800w.webp"
+  - "/images/wunderino-arena/01-71b80ff4-800w.webp"
 ---
 
 ## Overview

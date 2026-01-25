@@ -13,9 +13,9 @@ regions:
 latitude: 51.31583333
 longitude: 9.49805556
 images:
-  - "/images-sites/kassel-apollo/01-e362302d-800w.webp"
-  - "/images-sites/kassel-apollo/02-5a828803-800w.webp"
-  - "/images-sites/kassel-apollo/03-acdd501c-800w.webp"
+  - "/images/kassel-apollo/01-e362302d-800w.webp"
+  - "/images/kassel-apollo/02-5a828803-800w.webp"
+  - "/images/kassel-apollo/03-acdd501c-800w.webp"
 ---
 
 ## Overview

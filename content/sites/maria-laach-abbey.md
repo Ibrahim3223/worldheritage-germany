@@ -13,7 +13,7 @@ regions:
 latitude: 50.402261
 longitude: 7.252098
 images:
-  - "/images-sites/maria-laach-abbey/01-6d06e8e9-800w.webp"
+  - "/images/maria-laach-abbey/01-6d06e8e9-800w.webp"
 ---
 
 ## Overview

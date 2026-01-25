@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1424831"
 description: "St. Martin is a striking church building located in Nörten-Hardenberg, Germany, that captivates visitors with its Romanesque Revival architecture. Const..."
 images:
-  - "/images-sites/st-martin/01-2b1404ca-1920w.webp"
-  - "/images-sites/st-martin/02-284c69a3-1920w.webp"
-  - "/images-sites/st-martin/02-558de41c-1920w.webp"
+  - "/images/st-martin/01-2b1404ca-1920w.webp"
+  - "/images/st-martin/02-284c69a3-1920w.webp"
+  - "/images/st-martin/02-558de41c-1920w.webp"
 ---
 
 ## Overview

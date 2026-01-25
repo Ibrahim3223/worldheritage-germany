@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q457665"
 description: "St. Kuniberts Church, an emblem of Romanesque architecture, is a significant religious site located in Cologne, Germany. This historic church captures t..."
 images:
-  - "/images-sites/st-kunibert-s-church/01-b3cb0cdb-1920w.webp"
-  - "/images-sites/st-kunibert-s-church/02-a852eb9b-1920w.webp"
-  - "/images-sites/st-kunibert-s-church/03-5fa0f2d3-1920w.webp"
+  - "/images/st-kunibert-s-church/01-b3cb0cdb-1920w.webp"
+  - "/images/st-kunibert-s-church/02-a852eb9b-1920w.webp"
+  - "/images/st-kunibert-s-church/03-5fa0f2d3-1920w.webp"
 ---
 
 ## Overview

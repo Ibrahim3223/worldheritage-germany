@@ -13,7 +13,7 @@ regions:
 latitude: 53.613333333
 longitude: 11.394166666
 images:
-  - "/images-sites/ostorfer-see/01-e99cf0f8-800w.webp"
+  - "/images/ostorfer-see/01-e99cf0f8-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Daneil's Cave"
+title: Daneil's Cave
 date: 2026-01-23
 draft: false
-description: "cave in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 51.962611111
 longitude: 10.988333333
 images:
-  - "/images-sites/daneils-cave/01-9edcc6c2-800w.webp"
-  - "/images-sites/daneils-cave/02-83463cc9-800w.webp"
-  - "/images-sites/daneils-cave/03-42723dc1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG/1200px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG/1200px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG/1200px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daneils_cave_Daneilshohle_Huy_2014-06.jpg/1200px-Daneils_cave_Daneilshohle_Huy_2014-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Daneilshöhle1_(1).jpg/1200px-Daneilshöhle1_(1).jpg
+image_srcset:
+  Landschaftsschutzgebiet Huy - Daneilshöhle (7).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG/400px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG/800px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG/1200px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG/1920px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(7).JPG
+  Landschaftsschutzgebiet Huy - Daneilshöhle (13).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG/400px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG/800px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG/1200px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG/1920px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(13).JPG
+  Landschaftsschutzgebiet Huy - Daneilshöhle (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG/400px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG/800px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG/1200px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG/1920px-Landschaftsschutzgebiet_Huy_-_Daneilshöhle_(2).JPG
+  Daneils cave Daneilshohle Huy 2014-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daneils_cave_Daneilshohle_Huy_2014-06.jpg/400px-Daneils_cave_Daneilshohle_Huy_2014-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daneils_cave_Daneilshohle_Huy_2014-06.jpg/800px-Daneils_cave_Daneilshohle_Huy_2014-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daneils_cave_Daneilshohle_Huy_2014-06.jpg/1200px-Daneils_cave_Daneilshohle_Huy_2014-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Daneils_cave_Daneilshohle_Huy_2014-06.jpg/1920px-Daneils_cave_Daneilshohle_Huy_2014-06.jpg
+  Daneilshöhle1 (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Daneilshöhle1_(1).jpg/400px-Daneilshöhle1_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Daneilshöhle1_(1).jpg/800px-Daneilshöhle1_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Daneilshöhle1_(1).jpg/1200px-Daneilshöhle1_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Daneilshöhle1_(1).jpg/1920px-Daneilshöhle1_(1).jpg
 ---
 
 ## Overview

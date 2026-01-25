@@ -1,19 +1,49 @@
 ---
-title: "Gustavsee"
+title: Gustavsee
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 50.054621944
 longitude: 8.990841944
 images:
-  - "/images-sites/gustavsee/01-a561add5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavsee_202110.jpg/1200px-Gustavsee_202110.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gustavsee.jpg/1200px-Gustavsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustavsee2.jpg/1200px-Gustavsee2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kipp.jpg/1200px-Kipp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gustavsee.PNG/1200px-Gustavsee.PNG
+image_srcset:
+  Gustavsee 202110.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavsee_202110.jpg/400px-Gustavsee_202110.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavsee_202110.jpg/800px-Gustavsee_202110.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavsee_202110.jpg/1200px-Gustavsee_202110.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gustavsee_202110.jpg/1920px-Gustavsee_202110.jpg
+  Gustavsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gustavsee.jpg/400px-Gustavsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gustavsee.jpg/800px-Gustavsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gustavsee.jpg/1200px-Gustavsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gustavsee.jpg/1920px-Gustavsee.jpg
+  Gustavsee2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustavsee2.jpg/400px-Gustavsee2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustavsee2.jpg/800px-Gustavsee2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustavsee2.jpg/1200px-Gustavsee2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Gustavsee2.jpg/1920px-Gustavsee2.jpg
+  Kipp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kipp.jpg/400px-Kipp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kipp.jpg/800px-Kipp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kipp.jpg/1200px-Kipp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kipp.jpg/1920px-Kipp.jpg
+  Gustavsee.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gustavsee.PNG/400px-Gustavsee.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gustavsee.PNG/800px-Gustavsee.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gustavsee.PNG/1200px-Gustavsee.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gustavsee.PNG/1920px-Gustavsee.PNG
 ---
 
 ## Overview

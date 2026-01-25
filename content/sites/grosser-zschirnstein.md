@@ -1,19 +1,49 @@
 ---
-title: "Großer Zschirnstein"
+title: Großer Zschirnstein
 date: 2026-01-23
 draft: false
-description: "hill in the Saxon and German part of the Elbe Sandstone Mountains"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: hill in the Saxon and German part of the Elbe Sandstone Mountains
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8548521
 longitude: 14.1766206
 images:
-  - "/images-sites/grosser-zschirnstein/01-4a4512bc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg/1200px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg/1200px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Großer_Zschirnstein_2015-05-14_21.jpg/1200px-Großer_Zschirnstein_2015-05-14_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pfaffenstein_Barbarine_(04-2).jpg/1200px-Pfaffenstein_Barbarine_(04-2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zschirnsteine.jpg/1200px-Zschirnsteine.jpg
+image_srcset:
+  Reinhardtsdorf-Schöna Großer Zschirnstein lub 2024-07-21 img13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg/400px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg/800px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg/1200px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg/1920px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img13.jpg
+  Reinhardtsdorf-Schöna Großer Zschirnstein lub 2024-07-21 img14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg/400px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg/800px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg/1200px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg/1920px-Reinhardtsdorf-Schöna_Großer_Zschirnstein_lub_2024-07-21_img14.jpg
+  Großer Zschirnstein 2015-05-14 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Großer_Zschirnstein_2015-05-14_21.jpg/400px-Großer_Zschirnstein_2015-05-14_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Großer_Zschirnstein_2015-05-14_21.jpg/800px-Großer_Zschirnstein_2015-05-14_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Großer_Zschirnstein_2015-05-14_21.jpg/1200px-Großer_Zschirnstein_2015-05-14_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Großer_Zschirnstein_2015-05-14_21.jpg/1920px-Großer_Zschirnstein_2015-05-14_21.jpg
+  Pfaffenstein Barbarine (04-2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pfaffenstein_Barbarine_(04-2).jpg/400px-Pfaffenstein_Barbarine_(04-2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pfaffenstein_Barbarine_(04-2).jpg/800px-Pfaffenstein_Barbarine_(04-2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pfaffenstein_Barbarine_(04-2).jpg/1200px-Pfaffenstein_Barbarine_(04-2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pfaffenstein_Barbarine_(04-2).jpg/1920px-Pfaffenstein_Barbarine_(04-2).jpg
+  Zschirnsteine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zschirnsteine.jpg/400px-Zschirnsteine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zschirnsteine.jpg/800px-Zschirnsteine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zschirnsteine.jpg/1200px-Zschirnsteine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Zschirnsteine.jpg/1920px-Zschirnsteine.jpg
 ---
 
 ## Overview

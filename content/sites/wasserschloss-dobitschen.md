@@ -13,7 +13,7 @@ regions:
 latitude: 50.955757
 longitude: 12.280858
 images:
-  - "/images-sites/wasserschloss-dobitschen/01-29b3351c-800w.webp"
+  - "/images/wasserschloss-dobitschen/01-29b3351c-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.1361
 longitude: 9.41333
 images:
-  - "/images-sites/muehlenbachsee/01-66370efe-800w.webp"
+  - "/images/muehlenbachsee/01-66370efe-800w.webp"
 ---
 
 ## Overview

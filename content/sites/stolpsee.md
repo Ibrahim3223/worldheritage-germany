@@ -13,8 +13,8 @@ regions:
 latitude: 53.174888888
 longitude: 13.212305555
 images:
-  - "/images-sites/stolpsee/01-2ff1cc92-800w.webp"
-  - "/images-sites/stolpsee/03-6154ba2d-800w.webp"
+  - "/images/stolpsee/01-2ff1cc92-800w.webp"
+  - "/images/stolpsee/03-6154ba2d-800w.webp"
 ---
 
 ## Overview

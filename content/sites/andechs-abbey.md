@@ -1,21 +1,49 @@
 ---
-title: "Andechs Abbey"
+title: Andechs Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.974659939
 longitude: 11.182454806
 images:
-  - "/images-sites/andechs-abbey/01-39002032-800w.webp"
-  - "/images-sites/andechs-abbey/02-56675bde-800w.webp"
-  - "/images-sites/andechs-abbey/03-323d465b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Andechs-2.jpg/1200px-Kloster_Andechs-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kloster_Andechs-1.jpg/1200px-Kloster_Andechs-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Andechs,_Kloster_Andechs-HB-11.jpg/1200px-Andechs,_Kloster_Andechs-HB-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Andechs,_Kloster_Andechs-HB-04.jpg/1200px-Andechs,_Kloster_Andechs-HB-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andechs,_Kloster_Andechs,_Exterior_003.JPG/1200px-Andechs,_Kloster_Andechs,_Exterior_003.JPG
+image_srcset:
+  Kloster Andechs-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Andechs-2.jpg/400px-Kloster_Andechs-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Andechs-2.jpg/800px-Kloster_Andechs-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Andechs-2.jpg/1200px-Kloster_Andechs-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kloster_Andechs-2.jpg/1920px-Kloster_Andechs-2.jpg
+  Kloster Andechs-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kloster_Andechs-1.jpg/400px-Kloster_Andechs-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kloster_Andechs-1.jpg/800px-Kloster_Andechs-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kloster_Andechs-1.jpg/1200px-Kloster_Andechs-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kloster_Andechs-1.jpg/1920px-Kloster_Andechs-1.jpg
+  Andechs, Kloster Andechs-HB-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Andechs,_Kloster_Andechs-HB-11.jpg/400px-Andechs,_Kloster_Andechs-HB-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Andechs,_Kloster_Andechs-HB-11.jpg/800px-Andechs,_Kloster_Andechs-HB-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Andechs,_Kloster_Andechs-HB-11.jpg/1200px-Andechs,_Kloster_Andechs-HB-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Andechs,_Kloster_Andechs-HB-11.jpg/1920px-Andechs,_Kloster_Andechs-HB-11.jpg
+  Andechs, Kloster Andechs-HB-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Andechs,_Kloster_Andechs-HB-04.jpg/400px-Andechs,_Kloster_Andechs-HB-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Andechs,_Kloster_Andechs-HB-04.jpg/800px-Andechs,_Kloster_Andechs-HB-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Andechs,_Kloster_Andechs-HB-04.jpg/1200px-Andechs,_Kloster_Andechs-HB-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Andechs,_Kloster_Andechs-HB-04.jpg/1920px-Andechs,_Kloster_Andechs-HB-04.jpg
+  Andechs, Kloster Andechs, Exterior 003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andechs,_Kloster_Andechs,_Exterior_003.JPG/400px-Andechs,_Kloster_Andechs,_Exterior_003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andechs,_Kloster_Andechs,_Exterior_003.JPG/800px-Andechs,_Kloster_Andechs,_Exterior_003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andechs,_Kloster_Andechs,_Exterior_003.JPG/1200px-Andechs,_Kloster_Andechs,_Exterior_003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Andechs,_Kloster_Andechs,_Exterior_003.JPG/1920px-Andechs,_Kloster_Andechs,_Exterior_003.JPG
 ---
 
 ## Overview

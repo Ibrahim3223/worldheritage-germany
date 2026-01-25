@@ -13,9 +13,9 @@ regions:
 latitude: 50.439
 longitude: 7.40483
 images:
-  - "/images-sites/pulverturm-andernach/01-3c422b05-800w.webp"
-  - "/images-sites/pulverturm-andernach/02-1531c6ce-800w.webp"
-  - "/images-sites/pulverturm-andernach/03-5f441f68-800w.webp"
+  - "/images/pulverturm-andernach/01-3c422b05-800w.webp"
+  - "/images/pulverturm-andernach/02-1531c6ce-800w.webp"
+  - "/images/pulverturm-andernach/03-5f441f68-800w.webp"
 ---
 
 ## Overview

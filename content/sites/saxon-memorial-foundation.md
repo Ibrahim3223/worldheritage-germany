@@ -21,7 +21,7 @@ longitude: 13.72734
 
 # Images
 images:
-  - "/images-sites/saxon-memorial-foundation/01-c16ba125-800w.webp"
+  - "/images/saxon-memorial-foundation/01-c16ba125-800w.webp"
 ---
 
 ## Overview

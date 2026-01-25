@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q598352"
 description: "St. Maria im Kapitol, a striking Romanesque church in Cologne, Germany, invites visitors into its hallowed spaces with a promise of historical depth and..."
 images:
-  - "/images-sites/st-maria-im-kapitol/01-cb68a39b-1920w.webp"
-  - "/images-sites/st-maria-im-kapitol/02-3c79ac7e-1920w.webp"
-  - "/images-sites/st-maria-im-kapitol/03-6be73cd9-1920w.webp"
+  - "/images/st-maria-im-kapitol/01-cb68a39b-1920w.webp"
+  - "/images/st-maria-im-kapitol/02-3c79ac7e-1920w.webp"
+  - "/images/st-maria-im-kapitol/03-6be73cd9-1920w.webp"
 ---
 
 ## Overview

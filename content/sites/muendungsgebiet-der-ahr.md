@@ -13,9 +13,9 @@ regions:
 latitude: 50.5578
 longitude: 7.27556
 images:
-  - "/images-sites/muendungsgebiet-der-ahr/01-55f0c056-800w.webp"
-  - "/images-sites/muendungsgebiet-der-ahr/02-b8bbb116-800w.webp"
-  - "/images-sites/muendungsgebiet-der-ahr/03-c9a54811-800w.webp"
+  - "/images/muendungsgebiet-der-ahr/01-55f0c056-800w.webp"
+  - "/images/muendungsgebiet-der-ahr/02-b8bbb116-800w.webp"
+  - "/images/muendungsgebiet-der-ahr/03-c9a54811-800w.webp"
 ---
 
 ## Overview

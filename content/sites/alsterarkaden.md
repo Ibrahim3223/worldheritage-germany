@@ -1,19 +1,49 @@
 ---
-title: "Alsterarkaden"
+title: Alsterarkaden
 date: 2026-01-23
 draft: false
-description: "street in Hamburg-Neustadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: street in Hamburg-Neustadt, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55194444
 longitude: 9.99222222
 images:
-  - "/images-sites/alsterarkaden/01-031ae22d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg/1200px-Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alsterarkaden,_September_2022-L1000296.jpg/1200px-Alsterarkaden,_September_2022-L1000296.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/HH_Alsterarkaden_pano1.jpg/1200px-HH_Alsterarkaden_pano1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HH_Alsterarkaden_pano1b.jpg/1200px-HH_Alsterarkaden_pano1b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alsterarkaden_in_Hamburg.jpg/1200px-Alsterarkaden_in_Hamburg.jpg
+image_srcset:
+  Alsterarkaden und Kleine Alster, September 2022-L1000293.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg/400px-Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg/800px-Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg/1200px-Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg/1920px-Alsterarkaden_und_Kleine_Alster,_September_2022-L1000293.jpg
+  Alsterarkaden, September 2022-L1000296.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alsterarkaden,_September_2022-L1000296.jpg/400px-Alsterarkaden,_September_2022-L1000296.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alsterarkaden,_September_2022-L1000296.jpg/800px-Alsterarkaden,_September_2022-L1000296.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alsterarkaden,_September_2022-L1000296.jpg/1200px-Alsterarkaden,_September_2022-L1000296.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Alsterarkaden,_September_2022-L1000296.jpg/1920px-Alsterarkaden,_September_2022-L1000296.jpg
+  HH Alsterarkaden pano1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/HH_Alsterarkaden_pano1.jpg/400px-HH_Alsterarkaden_pano1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/HH_Alsterarkaden_pano1.jpg/800px-HH_Alsterarkaden_pano1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/HH_Alsterarkaden_pano1.jpg/1200px-HH_Alsterarkaden_pano1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/HH_Alsterarkaden_pano1.jpg/1920px-HH_Alsterarkaden_pano1.jpg
+  HH Alsterarkaden pano1b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HH_Alsterarkaden_pano1b.jpg/400px-HH_Alsterarkaden_pano1b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HH_Alsterarkaden_pano1b.jpg/800px-HH_Alsterarkaden_pano1b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HH_Alsterarkaden_pano1b.jpg/1200px-HH_Alsterarkaden_pano1b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HH_Alsterarkaden_pano1b.jpg/1920px-HH_Alsterarkaden_pano1b.jpg
+  Alsterarkaden in Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alsterarkaden_in_Hamburg.jpg/400px-Alsterarkaden_in_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alsterarkaden_in_Hamburg.jpg/800px-Alsterarkaden_in_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alsterarkaden_in_Hamburg.jpg/1200px-Alsterarkaden_in_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alsterarkaden_in_Hamburg.jpg/1920px-Alsterarkaden_in_Hamburg.jpg
 ---
 
 ## Overview

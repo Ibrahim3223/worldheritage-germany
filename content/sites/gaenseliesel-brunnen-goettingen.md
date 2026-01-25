@@ -1,19 +1,50 @@
 ---
-title: "Gänseliesel-Brunnen Göttingen"
+title: Gänseliesel-Brunnen Göttingen
 date: 2026-01-23
 draft: false
-description: "fountain which was erected in 1901 in front of the mediaeval town hall of Göttingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain which was erected in 1901 in front of the mediaeval town hall
+  of Göttingen, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.532709
 longitude: 9.935101
 images:
-  - "/images-sites/gaenseliesel-brunnen-goettingen/01-d90b5125-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1200px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/1200px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/1200px-Göttingen_Gänseliesel_März06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/1200px-Göttingen_Gänseliesel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/1200px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
+image_srcset:
+  Göttingen asv2022-06 img39 Gänseliesel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/400px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/800px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1200px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Göttingen_asv2022-06_img39_Gänseliesel.jpg/1920px-Göttingen_asv2022-06_img39_Gänseliesel.jpg
+  Original Göttinger Gänseliesel (Gänsemädel) von Paul Nisse (Bronze, 1901).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/400px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/800px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/1200px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG/1920px-Original_Göttinger_Gänseliesel_(Gänsemädel)_von_Paul_Nisse_(Bronze,_1901).JPG
+  Göttingen Gänseliesel März06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/400px-Göttingen_Gänseliesel_März06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/800px-Göttingen_Gänseliesel_März06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/1200px-Göttingen_Gänseliesel_März06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göttingen_Gänseliesel_März06.jpg/1920px-Göttingen_Gänseliesel_März06.jpg
+  Göttingen Gänseliesel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/400px-Göttingen_Gänseliesel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/800px-Göttingen_Gänseliesel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/1200px-Göttingen_Gänseliesel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Göttingen_Gänseliesel.jpg/1920px-Göttingen_Gänseliesel.jpg
+  2020.12.28., Gänselieselbrunnen GÖ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/400px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/800px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/1200px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2020.12.28.,_Gänselieselbrunnen_GÖ.jpg/1920px-2020.12.28.,_Gänselieselbrunnen_GÖ.jpg
 ---
 
 ## Overview

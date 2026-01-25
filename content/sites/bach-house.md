@@ -1,19 +1,49 @@
 ---
-title: "Bach House"
+title: Bach House
 date: 2026-01-23
 draft: false
-description: "museum in Eisenach, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Eisenach, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.971491666
 longitude: 10.322611111
 images:
-  - "/images-sites/bach-house/01-0fd02aa5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png/1200px-Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg/1200px-Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reflections_on_a_Chicago_Morning.jpg/1200px-Reflections_on_a_Chicago_Morning.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bach_House_Chicago.jpg/1200px-Bach_House_Chicago.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Emil_Bach_House.jpg/1200px-Emil_Bach_House.jpg
+image_srcset:
+  Emil Bach House, 7415 North Sheridan Road, Chicago, Cook County, IL HABS ILL,16-CHIG,83- (sheet 5 of 6).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png/400px-Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png/800px-Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png/1200px-Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png/1920px-Emil_Bach_House,_7415_North_Sheridan_Road,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,83-_(sheet_5_of_6).png
+  Emil Bach House, Sheridan Road, Rogers Park, Chicago, IL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg/400px-Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg/800px-Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg/1200px-Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg/1920px-Emil_Bach_House,_Sheridan_Road,_Rogers_Park,_Chicago,_IL.jpg
+  Reflections on a Chicago Morning.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reflections_on_a_Chicago_Morning.jpg/400px-Reflections_on_a_Chicago_Morning.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reflections_on_a_Chicago_Morning.jpg/800px-Reflections_on_a_Chicago_Morning.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reflections_on_a_Chicago_Morning.jpg/1200px-Reflections_on_a_Chicago_Morning.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Reflections_on_a_Chicago_Morning.jpg/1920px-Reflections_on_a_Chicago_Morning.jpg
+  Bach House Chicago.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bach_House_Chicago.jpg/400px-Bach_House_Chicago.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bach_House_Chicago.jpg/800px-Bach_House_Chicago.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bach_House_Chicago.jpg/1200px-Bach_House_Chicago.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bach_House_Chicago.jpg/1920px-Bach_House_Chicago.jpg
+  Emil Bach House.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Emil_Bach_House.jpg/400px-Emil_Bach_House.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Emil_Bach_House.jpg/800px-Emil_Bach_House.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Emil_Bach_House.jpg/1200px-Emil_Bach_House.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Emil_Bach_House.jpg/1920px-Emil_Bach_House.jpg
 ---
 
 ## Overview

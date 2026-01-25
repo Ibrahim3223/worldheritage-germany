@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1302040"
 description: "In the heart of Bützow, Germany, lies the Stiftskirche Bützow, a striking example of Brick Gothic architecture. This church is not merely a place of wor..."
 images:
-  - "/images-sites/stiftskirche-butzow/01-00e5f0e3-1920w.webp"
-  - "/images-sites/stiftskirche-butzow/02-50c9862d-1920w.webp"
-  - "/images-sites/stiftskirche-butzow/03-fdda9426-1920w.webp"
+  - "/images/stiftskirche-butzow/01-00e5f0e3-1920w.webp"
+  - "/images/stiftskirche-butzow/02-50c9862d-1920w.webp"
+  - "/images/stiftskirche-butzow/03-fdda9426-1920w.webp"
 ---
 
 ## Overview

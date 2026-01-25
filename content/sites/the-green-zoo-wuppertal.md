@@ -13,9 +13,9 @@ regions:
 latitude: 51.2397
 longitude: 7.11222
 images:
-  - "/images-sites/the-green-zoo-wuppertal/01-77bcc800-800w.webp"
-  - "/images-sites/the-green-zoo-wuppertal/02-aa8c33dc-800w.webp"
-  - "/images-sites/the-green-zoo-wuppertal/03-a37cceeb-800w.webp"
+  - "/images/the-green-zoo-wuppertal/01-77bcc800-800w.webp"
+  - "/images/the-green-zoo-wuppertal/02-aa8c33dc-800w.webp"
+  - "/images/the-green-zoo-wuppertal/03-a37cceeb-800w.webp"
 ---
 
 ## Overview

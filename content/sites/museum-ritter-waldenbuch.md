@@ -21,7 +21,7 @@ longitude: 9.1226
 
 # Images
 images:
-  - "/images-sites/museum-ritter-waldenbuch/01-cc60af9e-800w.webp"
+  - "/images/museum-ritter-waldenbuch/01-cc60af9e-800w.webp"
 ---
 
 ## Overview

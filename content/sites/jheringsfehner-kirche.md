@@ -1,20 +1,46 @@
 ---
-title: "Jheringsfehner Kirche"
-site_name: "Jheringsfehner Kirche"
-slug: "jheringsfehner-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Jheringsfehner Kirche
+site_name: Jheringsfehner Kirche
+slug: jheringsfehner-kirche
+region: Lower Saxony
 latitude: 53.3285
 longitude: 7.52231
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1688828"
-description: "In the heart of Moormerland, Germany, lies the Jheringsfehner Kirche, a striking example of Romanesque Revival architecture that captures both the eye a..."
+- church building
+- religious site
+wikidata_id: Q1688828
+description: In the heart of Moormerland, Germany, lies the Jheringsfehner Kirche,
+  a striking example of Romanesque Revival architecture that captures both the eye
+  a...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1200px-ChurchJheringsfehn.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jheringsfehn_Kirche_Innenraum.jpg/1200px-Jheringsfehn_Kirche_Innenraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jheringsfehn_Kirche_Innenraum2.jpg/1200px-Jheringsfehn_Kirche_Innenraum2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jheringsfehn_Orgel.jpg/1200px-Jheringsfehn_Orgel.jpg
+image_srcset:
+  ChurchJheringsfehn.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/400px-ChurchJheringsfehn.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/800px-ChurchJheringsfehn.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1200px-ChurchJheringsfehn.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/ChurchJheringsfehn.JPG/1920px-ChurchJheringsfehn.JPG
+  Jheringsfehn Kirche Innenraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jheringsfehn_Kirche_Innenraum.jpg/400px-Jheringsfehn_Kirche_Innenraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jheringsfehn_Kirche_Innenraum.jpg/800px-Jheringsfehn_Kirche_Innenraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jheringsfehn_Kirche_Innenraum.jpg/1200px-Jheringsfehn_Kirche_Innenraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jheringsfehn_Kirche_Innenraum.jpg/1920px-Jheringsfehn_Kirche_Innenraum.jpg
+  Jheringsfehn Kirche Innenraum2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jheringsfehn_Kirche_Innenraum2.jpg/400px-Jheringsfehn_Kirche_Innenraum2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jheringsfehn_Kirche_Innenraum2.jpg/800px-Jheringsfehn_Kirche_Innenraum2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jheringsfehn_Kirche_Innenraum2.jpg/1200px-Jheringsfehn_Kirche_Innenraum2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jheringsfehn_Kirche_Innenraum2.jpg/1920px-Jheringsfehn_Kirche_Innenraum2.jpg
+  Jheringsfehn Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jheringsfehn_Orgel.jpg/400px-Jheringsfehn_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jheringsfehn_Orgel.jpg/800px-Jheringsfehn_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jheringsfehn_Orgel.jpg/1200px-Jheringsfehn_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jheringsfehn_Orgel.jpg/1920px-Jheringsfehn_Orgel.jpg
 ---
 
 ## Overview

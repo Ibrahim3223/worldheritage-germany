@@ -13,9 +13,9 @@ regions:
 latitude: 47.433330555
 longitude: 11.166669444
 images:
-  - "/images-sites/schachen-und-reintal/01-bdc46503-800w.webp"
-  - "/images-sites/schachen-und-reintal/02-2aaca735-800w.webp"
-  - "/images-sites/schachen-und-reintal/03-d95bddc7-800w.webp"
+  - "/images/schachen-und-reintal/01-bdc46503-800w.webp"
+  - "/images/schachen-und-reintal/02-2aaca735-800w.webp"
+  - "/images/schachen-und-reintal/03-d95bddc7-800w.webp"
 ---
 
 ## Overview

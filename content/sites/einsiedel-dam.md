@@ -1,19 +1,49 @@
 ---
-title: "Einsiedel Dam"
+title: Einsiedel Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7747
 longitude: 12.9822
 images:
-  - "/images-sites/einsiedel-dam/01-028693c5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Talsperre_Chemnitz-Einsiedel_(6).jpg/1200px-Talsperre_Chemnitz-Einsiedel_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wasserwerk_Chemnitz-Einsiedel.jpg/1200px-Wasserwerk_Chemnitz-Einsiedel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg/1200px-Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Skipiste_Chemnitz-Einsiedel.jpg/1200px-Skipiste_Chemnitz-Einsiedel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1200px-Einsiedel-Staumauer2.jpg
+image_srcset:
+  Talsperre Chemnitz-Einsiedel (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Talsperre_Chemnitz-Einsiedel_(6).jpg/400px-Talsperre_Chemnitz-Einsiedel_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Talsperre_Chemnitz-Einsiedel_(6).jpg/800px-Talsperre_Chemnitz-Einsiedel_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Talsperre_Chemnitz-Einsiedel_(6).jpg/1200px-Talsperre_Chemnitz-Einsiedel_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Talsperre_Chemnitz-Einsiedel_(6).jpg/1920px-Talsperre_Chemnitz-Einsiedel_(6).jpg
+  Wasserwerk Chemnitz-Einsiedel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wasserwerk_Chemnitz-Einsiedel.jpg/400px-Wasserwerk_Chemnitz-Einsiedel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wasserwerk_Chemnitz-Einsiedel.jpg/800px-Wasserwerk_Chemnitz-Einsiedel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wasserwerk_Chemnitz-Einsiedel.jpg/1200px-Wasserwerk_Chemnitz-Einsiedel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wasserwerk_Chemnitz-Einsiedel.jpg/1920px-Wasserwerk_Chemnitz-Einsiedel.jpg
+  Überlauf der Talsperre Chemnitz-Einsiedel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg/400px-Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg/800px-Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg/1200px-Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg/1920px-Überlauf_der_Talsperre_Chemnitz-Einsiedel.jpg
+  Skipiste Chemnitz-Einsiedel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Skipiste_Chemnitz-Einsiedel.jpg/400px-Skipiste_Chemnitz-Einsiedel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Skipiste_Chemnitz-Einsiedel.jpg/800px-Skipiste_Chemnitz-Einsiedel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Skipiste_Chemnitz-Einsiedel.jpg/1200px-Skipiste_Chemnitz-Einsiedel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Skipiste_Chemnitz-Einsiedel.jpg/1920px-Skipiste_Chemnitz-Einsiedel.jpg
+  Einsiedel-Staumauer2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/400px-Einsiedel-Staumauer2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/800px-Einsiedel-Staumauer2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1200px-Einsiedel-Staumauer2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einsiedel-Staumauer2.jpg/1920px-Einsiedel-Staumauer2.jpg
 ---
 
 ## Overview

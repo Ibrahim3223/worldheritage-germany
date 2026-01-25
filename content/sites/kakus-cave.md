@@ -1,19 +1,49 @@
 ---
-title: "Kakus cave"
+title: Kakus cave
 date: 2026-01-23
 draft: false
-description: "cave"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 50.545
 longitude: 6.66
 images:
-  - "/images-sites/kakus-cave/01-770c2153-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kakushöhle_04.jpg/1200px-Kakushöhle_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kakushöhle_02.jpg/1200px-Kakushöhle_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mechernich_(Eifel);_Kakushöhle_h.jpg/1200px-Mechernich_(Eifel);_Kakushöhle_h.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kakushöhle_06.jpg/1200px-Kakushöhle_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kakushöhle-4.JPG/1200px-Kakushöhle-4.JPG
+image_srcset:
+  Kakushöhle 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kakushöhle_04.jpg/400px-Kakushöhle_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kakushöhle_04.jpg/800px-Kakushöhle_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kakushöhle_04.jpg/1200px-Kakushöhle_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kakushöhle_04.jpg/1920px-Kakushöhle_04.jpg
+  Kakushöhle 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kakushöhle_02.jpg/400px-Kakushöhle_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kakushöhle_02.jpg/800px-Kakushöhle_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kakushöhle_02.jpg/1200px-Kakushöhle_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kakushöhle_02.jpg/1920px-Kakushöhle_02.jpg
+  Mechernich (Eifel); Kakushöhle h.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mechernich_(Eifel);_Kakushöhle_h.jpg/400px-Mechernich_(Eifel);_Kakushöhle_h.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mechernich_(Eifel);_Kakushöhle_h.jpg/800px-Mechernich_(Eifel);_Kakushöhle_h.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mechernich_(Eifel);_Kakushöhle_h.jpg/1200px-Mechernich_(Eifel);_Kakushöhle_h.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mechernich_(Eifel);_Kakushöhle_h.jpg/1920px-Mechernich_(Eifel);_Kakushöhle_h.jpg
+  Kakushöhle 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kakushöhle_06.jpg/400px-Kakushöhle_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kakushöhle_06.jpg/800px-Kakushöhle_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kakushöhle_06.jpg/1200px-Kakushöhle_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kakushöhle_06.jpg/1920px-Kakushöhle_06.jpg
+  Kakushöhle-4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kakushöhle-4.JPG/400px-Kakushöhle-4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kakushöhle-4.JPG/800px-Kakushöhle-4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kakushöhle-4.JPG/1200px-Kakushöhle-4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kakushöhle-4.JPG/1920px-Kakushöhle-4.JPG
 ---
 
 ## Overview

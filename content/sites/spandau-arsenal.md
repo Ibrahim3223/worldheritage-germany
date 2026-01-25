@@ -13,7 +13,7 @@ regions:
 latitude: 52.540885
 longitude: 13.213372
 images:
-  - "/images-sites/spandau-arsenal/01-f534d515-800w.webp"
+  - "/images/spandau-arsenal/01-f534d515-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.333027777
 longitude: 12.369777777
 images:
-  - "/images-sites/reichsgericht-building/01-b469c101-800w.webp"
+  - "/images/reichsgericht-building/01-b469c101-800w.webp"
 ---
 
 ## Overview

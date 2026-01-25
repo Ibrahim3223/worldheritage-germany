@@ -1,27 +1,37 @@
 ---
-title: "Botanischer Garten Schellerhau"
+title: Botanischer Garten Schellerhau
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7678
 longitude: 13.6997
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-schellerhau/01-01534d60-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schellerhau_Botanischer_Garten_(01).JPG/1200px-Schellerhau_Botanischer_Garten_(01).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schellerhau_Botanischer_Garten_(03).JPG/1200px-Schellerhau_Botanischer_Garten_(03).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schellerhau_Botanischer_Garten_(07).JPG/1200px-Schellerhau_Botanischer_Garten_(07).JPG
+image_srcset:
+  Schellerhau Botanischer Garten (01).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schellerhau_Botanischer_Garten_(01).JPG/400px-Schellerhau_Botanischer_Garten_(01).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schellerhau_Botanischer_Garten_(01).JPG/800px-Schellerhau_Botanischer_Garten_(01).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schellerhau_Botanischer_Garten_(01).JPG/1200px-Schellerhau_Botanischer_Garten_(01).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Schellerhau_Botanischer_Garten_(01).JPG/1920px-Schellerhau_Botanischer_Garten_(01).JPG
+  Schellerhau Botanischer Garten (03).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schellerhau_Botanischer_Garten_(03).JPG/400px-Schellerhau_Botanischer_Garten_(03).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schellerhau_Botanischer_Garten_(03).JPG/800px-Schellerhau_Botanischer_Garten_(03).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schellerhau_Botanischer_Garten_(03).JPG/1200px-Schellerhau_Botanischer_Garten_(03).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schellerhau_Botanischer_Garten_(03).JPG/1920px-Schellerhau_Botanischer_Garten_(03).JPG
+  Schellerhau Botanischer Garten (07).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schellerhau_Botanischer_Garten_(07).JPG/400px-Schellerhau_Botanischer_Garten_(07).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schellerhau_Botanischer_Garten_(07).JPG/800px-Schellerhau_Botanischer_Garten_(07).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schellerhau_Botanischer_Garten_(07).JPG/1200px-Schellerhau_Botanischer_Garten_(07).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Schellerhau_Botanischer_Garten_(07).JPG/1920px-Schellerhau_Botanischer_Garten_(07).JPG
 ---
 
 ## Overview

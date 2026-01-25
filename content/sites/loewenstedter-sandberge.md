@@ -13,7 +13,7 @@ regions:
 latitude: 54.6264
 longitude: 9.09917
 images:
-  - "/images-sites/loewenstedter-sandberge/01-e257e15b-800w.webp"
+  - "/images/loewenstedter-sandberge/01-e257e15b-800w.webp"
 ---
 
 ## Overview

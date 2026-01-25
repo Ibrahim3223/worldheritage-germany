@@ -1,22 +1,50 @@
 ---
-title: "Friedrichsbau of Heidelberg Castle"
-site_name: "Friedrichsbau of Heidelberg Castle"
-slug: "friedrichsbau-of-heidelberg-castle"
-region: "Hesse"
-
-# Location
+title: Friedrichsbau of Heidelberg Castle
+site_name: Friedrichsbau of Heidelberg Castle
+slug: friedrichsbau-of-heidelberg-castle
+region: Hesse
 latitude: 49.41099129680288
 longitude: 8.715152828031124
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q30061593"
-description: "In the heart of Heidelberg, the Friedrichsbau of Heidelberg Castle emerges as a striking example of Baroque architecture, with its red sandstone façade ..."
+- cultural site
+wikidata_id: Q30061593
+description: In the heart of Heidelberg, the Friedrichsbau of Heidelberg Castle emerges
+  as a striking example of Baroque architecture, with its red sandstone façade ...
 images:
-  - "/images-sites/friedrichsbau-of-heidelberg-castle/01-58cb62f0-1920w.webp"
-  - "/images-sites/friedrichsbau-of-heidelberg-castle/02-d739247c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg/1200px-Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/1200px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg/1200px-2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg/1200px-Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg/1200px-Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg
+image_srcset:
+  Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg/400px-Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg/800px-Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg/1200px-Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg/1920px-Heidelberg%20Castle%20-%20Friedrichsbau%20Facade%20-%201.jpg
+  Heidelberg Castle - Friedrichsbau Facade - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/400px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/800px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/1200px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg/1920px-Heidelberg_Castle_-_Friedrichsbau_Facade_-_1.jpg
+  2019.03.08., 1, Heidelberg, Schloss (29).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg/400px-2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg/800px-2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg/1200px-2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg/1920px-2019.03.08.,_1,_Heidelberg,_Schloss_(29).jpg
+  Plattenrustika, Heidelberger Schloss, Friedrichsbau, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg/400px-Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg/800px-Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg/1200px-Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg/1920px-Plattenrustika,_Heidelberger_Schloss,_Friedrichsbau,_2019.jpg
+  Landappbw 689814 1818 Heidelberger Schloss, Friedrichsbau Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg/400px-Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg/800px-Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg/1200px-Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg/1920px-Landappbw_689814_1818_Heidelberger_Schloss,_Friedrichsbau_Heidelberg.jpg
 ---
 
 ## Overview

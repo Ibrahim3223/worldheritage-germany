@@ -1,20 +1,49 @@
 ---
-title: "Dorotheenstadt Cemetery"
+title: Dorotheenstadt Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.528411111
 longitude: 13.383702777
 images:
-  - "/images-sites/dorotheenstadt-cemetery/02-271294dd-800w.webp"
-  - "/images-sites/dorotheenstadt-cemetery/03-e9acab9f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg/1200px-Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg/1200px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg/1200px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg/1200px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1200px-Grab-Brecht-Weigel.JPG
+image_srcset:
+  Grabstätte Chausseestr 126 (Mitte) Albert Hetterle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg/400px-Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg/800px-Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg/1200px-Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg/1920px-Grabstätte_Chausseestr_126_(Mitte)_Albert_Hetterle.jpg
+  Friedhof der Dorotheenstädtischen und Friedrichswerderschen Gemeinden 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg/400px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg/800px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg/1200px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg/1920px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_01.jpg
+  Friedhof der Dorotheenstädtischen und Friedrichswerderschen Gemeinden 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg/400px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg/800px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg/1200px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg/1920px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_02.jpg
+  Friedhof der Dorotheenstädtischen und Friedrichswerderschen Gemeinden 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg/400px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg/800px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg/1200px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg/1920px-Friedhof_der_Dorotheenstädtischen_und_Friedrichswerderschen_Gemeinden_05.jpg
+  Grab-Brecht-Weigel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/400px-Grab-Brecht-Weigel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/800px-Grab-Brecht-Weigel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1200px-Grab-Brecht-Weigel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grab-Brecht-Weigel.JPG/1920px-Grab-Brecht-Weigel.JPG
 ---
 
 ## Overview

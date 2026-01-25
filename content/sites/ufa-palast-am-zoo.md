@@ -13,8 +13,8 @@ regions:
 latitude: 52.5061
 longitude: 13.3342
 images:
-  - "/images-sites/ufa-palast-am-zoo/02-6c1fbd58-800w.webp"
-  - "/images-sites/ufa-palast-am-zoo/03-fa9cb508-800w.webp"
+  - "/images/ufa-palast-am-zoo/02-6c1fbd58-800w.webp"
+  - "/images/ufa-palast-am-zoo/03-fa9cb508-800w.webp"
 ---
 
 ## Overview

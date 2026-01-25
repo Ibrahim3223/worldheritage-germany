@@ -13,7 +13,7 @@ regions:
 latitude: 49.265323178
 longitude: 11.308313288
 images:
-  - "/images-sites/kloster-seligenporten/01-06423f0e-800w.webp"
+  - "/images/kloster-seligenporten/01-06423f0e-800w.webp"
 ---
 
 ## Overview

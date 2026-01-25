@@ -1,20 +1,49 @@
 ---
-title: "Gloria-Palast"
+title: Gloria-Palast
 date: 2026-01-23
 draft: false
-description: "former cinema (1953-1998) in Charlottenburg, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: former cinema (1953-1998) in Charlottenburg, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.504572
 longitude: 13.333282
 images:
-  - "/images-sites/gloria-palast/02-ee536446-800w.webp"
-  - "/images-sites/gloria-palast/03-cb5db0be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg/1200px-Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg/1200px-Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gloriapalast_um_1925.jpg/1200px-Gloriapalast_um_1925.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg/1200px-Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin_Gloria-Palast_124047a.jpg/1200px-Berlin_Gloria-Palast_124047a.jpg
+image_srcset:
+  Berlin (West), Charlottenburg, Kurfürstendamm 10–12, Kino Gloria-Palast.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg/400px-Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg/800px-Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg/1200px-Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg/1920px-Berlin_(West),_Charlottenburg,_Kurfürstendamm_10–12,_Kino_Gloria-Palast.jpg
+  Berlijn. Tauentzienstraße met autoverkeer waaronder een dubbeldeksbus en met o…, Bestanddeelnr 254-5645.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg/400px-Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg/800px-Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg/1200px-Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg/1920px-Berlijn._Tauentzienstraße_met_autoverkeer_waaronder_een_dubbeldeksbus_en_met_o…,_Bestanddeelnr_254-5645.jpg
+  Gloriapalast um 1925.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gloriapalast_um_1925.jpg/400px-Gloriapalast_um_1925.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gloriapalast_um_1925.jpg/800px-Gloriapalast_um_1925.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gloriapalast_um_1925.jpg/1200px-Gloriapalast_um_1925.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gloriapalast_um_1925.jpg/1920px-Gloriapalast_um_1925.jpg
+  Bundesarchiv B 145 Bild-F079108-0021, Berlin, Kaiser-Wilhelm Gedächtniskirche, Ku-Damm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg/400px-Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg/800px-Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg/1200px-Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg/1920px-Bundesarchiv_B_145_Bild-F079108-0021,_Berlin,_Kaiser-Wilhelm_Gedächtniskirche,_Ku-Damm.jpg
+  Berlin Gloria-Palast 124047a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin_Gloria-Palast_124047a.jpg/400px-Berlin_Gloria-Palast_124047a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin_Gloria-Palast_124047a.jpg/800px-Berlin_Gloria-Palast_124047a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin_Gloria-Palast_124047a.jpg/1200px-Berlin_Gloria-Palast_124047a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Berlin_Gloria-Palast_124047a.jpg/1920px-Berlin_Gloria-Palast_124047a.jpg
 ---
 
 ## Overview

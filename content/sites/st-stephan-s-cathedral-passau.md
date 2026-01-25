@@ -15,7 +15,7 @@ categories:
 wikidata_id: "Q267182"
 description: "St. Stephans Cathedral in Passau, Germany, is not just another house of worship; it is a monumental achievement of baroque architecture that captivates ..."
 images:
-  - "/images-sites/st-stephan-s-cathedral-passau/01-b9805c3c-1920w.webp"
+  - "/images/st-stephan-s-cathedral-passau/01-b9805c3c-1920w.webp"
 ---
 
 ## Overview

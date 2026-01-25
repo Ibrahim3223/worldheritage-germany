@@ -13,7 +13,7 @@ regions:
 latitude: 47.777
 longitude: 9.1452
 images:
-  - "/images-sites/spetzgart-castle/01-73c4f7c7-800w.webp"
+  - "/images/spetzgart-castle/01-73c4f7c7-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.322777777
 longitude: 12.442222222
 images:
-  - "/images-sites/massower-see/01-bc3a2457-800w.webp"
+  - "/images/massower-see/01-bc3a2457-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Grundloses Moor"
+title: Grundloses Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.9035
 longitude: 9.55013
 images:
-  - "/images-sites/grundloses-moor/01-e827ad92-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buntes_Leben.JPG/1200px-Buntes_Leben.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Grundloses_Moor_1.jpg/1200px-Grundloses_Moor_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grundloses_Moor_3.jpg/1200px-Grundloses_Moor_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blüte_der_Rauschbeere.jpg/1200px-Blüte_der_Rauschbeere.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Verdreht.jpg/1200px-Verdreht.jpg
+image_srcset:
+  Buntes Leben.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buntes_Leben.JPG/400px-Buntes_Leben.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buntes_Leben.JPG/800px-Buntes_Leben.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buntes_Leben.JPG/1200px-Buntes_Leben.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Buntes_Leben.JPG/1920px-Buntes_Leben.JPG
+  Grundloses Moor 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Grundloses_Moor_1.jpg/400px-Grundloses_Moor_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Grundloses_Moor_1.jpg/800px-Grundloses_Moor_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Grundloses_Moor_1.jpg/1200px-Grundloses_Moor_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Grundloses_Moor_1.jpg/1920px-Grundloses_Moor_1.jpg
+  Grundloses Moor 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grundloses_Moor_3.jpg/400px-Grundloses_Moor_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grundloses_Moor_3.jpg/800px-Grundloses_Moor_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grundloses_Moor_3.jpg/1200px-Grundloses_Moor_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Grundloses_Moor_3.jpg/1920px-Grundloses_Moor_3.jpg
+  Blüte der Rauschbeere.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blüte_der_Rauschbeere.jpg/400px-Blüte_der_Rauschbeere.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blüte_der_Rauschbeere.jpg/800px-Blüte_der_Rauschbeere.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blüte_der_Rauschbeere.jpg/1200px-Blüte_der_Rauschbeere.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blüte_der_Rauschbeere.jpg/1920px-Blüte_der_Rauschbeere.jpg
+  Verdreht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Verdreht.jpg/400px-Verdreht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Verdreht.jpg/800px-Verdreht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Verdreht.jpg/1200px-Verdreht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Verdreht.jpg/1920px-Verdreht.jpg
 ---
 
 ## Overview

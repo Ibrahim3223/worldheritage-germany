@@ -13,7 +13,7 @@ regions:
 latitude: 53.6039
 longitude: 9.47722
 images:
-  - "/images-sites/schwedenspeicher-museum/01-a0d4f968-800w.webp"
+  - "/images/schwedenspeicher-museum/01-a0d4f968-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.1018
 longitude: 8.74744
 images:
-  - "/images-sites/rosenheim-museum/01-f29d88cb-800w.webp"
-  - "/images-sites/rosenheim-museum/02-14868579-800w.webp"
-  - "/images-sites/rosenheim-museum/03-c889aaea-800w.webp"
+  - "/images/rosenheim-museum/01-f29d88cb-800w.webp"
+  - "/images/rosenheim-museum/02-14868579-800w.webp"
+  - "/images/rosenheim-museum/03-c889aaea-800w.webp"
 ---
 
 ## Overview

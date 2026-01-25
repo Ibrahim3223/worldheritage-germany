@@ -1,20 +1,49 @@
 ---
-title: "Burg Loburg"
+title: Burg Loburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1111
 longitude: 12.0697
 images:
-  - "/images-sites/burg-loburg/02-bf788b3a-800w.webp"
-  - "/images-sites/burg-loburg/03-937958f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Loburg.jpg/1200px-Burg_Loburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Loburg_castle.jpg/1200px-Loburg_castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Loburg2.jpg/1200px-Loburg2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1200px-Loburg1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Loburg_-_geo.hlipp.de_-_19538.jpg/1200px-Burg_Loburg_-_geo.hlipp.de_-_19538.jpg
+image_srcset:
+  Burg Loburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Loburg.jpg/400px-Burg_Loburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Loburg.jpg/800px-Burg_Loburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Loburg.jpg/1200px-Burg_Loburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Burg_Loburg.jpg/1920px-Burg_Loburg.jpg
+  Loburg castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Loburg_castle.jpg/400px-Loburg_castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Loburg_castle.jpg/800px-Loburg_castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Loburg_castle.jpg/1200px-Loburg_castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Loburg_castle.jpg/1920px-Loburg_castle.jpg
+  Loburg2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Loburg2.jpg/400px-Loburg2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Loburg2.jpg/800px-Loburg2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Loburg2.jpg/1200px-Loburg2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Loburg2.jpg/1920px-Loburg2.jpg
+  Loburg1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/400px-Loburg1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/800px-Loburg1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1200px-Loburg1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Loburg1.JPG/1920px-Loburg1.JPG
+  Burg Loburg - geo.hlipp.de - 19538.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Loburg_-_geo.hlipp.de_-_19538.jpg/400px-Burg_Loburg_-_geo.hlipp.de_-_19538.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Loburg_-_geo.hlipp.de_-_19538.jpg/800px-Burg_Loburg_-_geo.hlipp.de_-_19538.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Loburg_-_geo.hlipp.de_-_19538.jpg/1200px-Burg_Loburg_-_geo.hlipp.de_-_19538.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burg_Loburg_-_geo.hlipp.de_-_19538.jpg/1920px-Burg_Loburg_-_geo.hlipp.de_-_19538.jpg
 ---
 
 ## Overview

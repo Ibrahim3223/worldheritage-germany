@@ -1,27 +1,25 @@
 ---
-title: "Arboretum Lohbrügge"
+title: Arboretum Lohbrügge
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.50388889
 longitude: 10.19916667
-
-# Images
 images:
-  - "/images-sites/arboretum-lohbruegge/01-bf8b6590-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bristlecone_Pinus_longaeva_new_growth.jpg/1200px-Bristlecone_Pinus_longaeva_new_growth.jpg
+image_srcset:
+  Bristlecone Pinus longaeva new growth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bristlecone_Pinus_longaeva_new_growth.jpg/400px-Bristlecone_Pinus_longaeva_new_growth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bristlecone_Pinus_longaeva_new_growth.jpg/800px-Bristlecone_Pinus_longaeva_new_growth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bristlecone_Pinus_longaeva_new_growth.jpg/1200px-Bristlecone_Pinus_longaeva_new_growth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bristlecone_Pinus_longaeva_new_growth.jpg/1920px-Bristlecone_Pinus_longaeva_new_growth.jpg
 ---
 
 ## Overview

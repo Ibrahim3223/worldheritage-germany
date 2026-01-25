@@ -1,19 +1,49 @@
 ---
-title: "Hassel Auxiliary Dam"
+title: Hassel Auxiliary Dam
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7061
 longitude: 10.8303
 images:
-  - "/images-sites/hassel-auxiliary-dam/01-abf67b90-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hasselfelde_(Januar_2026)_2.jpg/1200px-Hasselfelde_(Januar_2026)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hasselfelde_(Januar_2026)_3.jpg/1200px-Hasselfelde_(Januar_2026)_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hasselfelde_(Januar_2026)_4.jpg/1200px-Hasselfelde_(Januar_2026)_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hasselfelde_(Januar_2026)_6.jpg/1200px-Hasselfelde_(Januar_2026)_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hasselvorsperre.jpg/1200px-Hasselvorsperre.jpg
+image_srcset:
+  Hasselfelde (Januar 2026) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hasselfelde_(Januar_2026)_2.jpg/400px-Hasselfelde_(Januar_2026)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hasselfelde_(Januar_2026)_2.jpg/800px-Hasselfelde_(Januar_2026)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hasselfelde_(Januar_2026)_2.jpg/1200px-Hasselfelde_(Januar_2026)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hasselfelde_(Januar_2026)_2.jpg/1920px-Hasselfelde_(Januar_2026)_2.jpg
+  Hasselfelde (Januar 2026) 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hasselfelde_(Januar_2026)_3.jpg/400px-Hasselfelde_(Januar_2026)_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hasselfelde_(Januar_2026)_3.jpg/800px-Hasselfelde_(Januar_2026)_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hasselfelde_(Januar_2026)_3.jpg/1200px-Hasselfelde_(Januar_2026)_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hasselfelde_(Januar_2026)_3.jpg/1920px-Hasselfelde_(Januar_2026)_3.jpg
+  Hasselfelde (Januar 2026) 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hasselfelde_(Januar_2026)_4.jpg/400px-Hasselfelde_(Januar_2026)_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hasselfelde_(Januar_2026)_4.jpg/800px-Hasselfelde_(Januar_2026)_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hasselfelde_(Januar_2026)_4.jpg/1200px-Hasselfelde_(Januar_2026)_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hasselfelde_(Januar_2026)_4.jpg/1920px-Hasselfelde_(Januar_2026)_4.jpg
+  Hasselfelde (Januar 2026) 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hasselfelde_(Januar_2026)_6.jpg/400px-Hasselfelde_(Januar_2026)_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hasselfelde_(Januar_2026)_6.jpg/800px-Hasselfelde_(Januar_2026)_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hasselfelde_(Januar_2026)_6.jpg/1200px-Hasselfelde_(Januar_2026)_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hasselfelde_(Januar_2026)_6.jpg/1920px-Hasselfelde_(Januar_2026)_6.jpg
+  Hasselvorsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hasselvorsperre.jpg/400px-Hasselvorsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hasselvorsperre.jpg/800px-Hasselvorsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hasselvorsperre.jpg/1200px-Hasselvorsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hasselvorsperre.jpg/1920px-Hasselvorsperre.jpg
 ---
 
 ## Overview

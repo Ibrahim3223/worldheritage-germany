@@ -1,19 +1,49 @@
 ---
-title: "ACUD"
+title: ACUD
 date: 2026-01-23
 draft: false
-description: "cultural center and cinema in Mitte, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: cultural center and cinema in Mitte, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5334
 longitude: 13.4009
 images:
-  - "/images-sites/acud/01-82d6d0f7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg/1200px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kunsthaus_ACUD_Berlin_2007.jpg/1200px-Kunsthaus_ACUD_Berlin_2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg/1200px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1200px-Berlin-ACUD.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin-ACUD_2.jpg/1200px-Berlin-ACUD_2.jpg
+image_srcset:
+  StellaGaetano-LiteraturesInExileBerlin RomanDeckert11062024-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg/400px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg/800px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg/1200px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg/1920px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-03.jpg
+  Kunsthaus ACUD Berlin 2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kunsthaus_ACUD_Berlin_2007.jpg/400px-Kunsthaus_ACUD_Berlin_2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kunsthaus_ACUD_Berlin_2007.jpg/800px-Kunsthaus_ACUD_Berlin_2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kunsthaus_ACUD_Berlin_2007.jpg/1200px-Kunsthaus_ACUD_Berlin_2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kunsthaus_ACUD_Berlin_2007.jpg/1920px-Kunsthaus_ACUD_Berlin_2007.jpg
+  StellaGaetano-LiteraturesInExileBerlin RomanDeckert11062024-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg/400px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg/800px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg/1200px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg/1920px-StellaGaetano-LiteraturesInExileBerlin_RomanDeckert11062024-02.jpg
+  Berlin-ACUD.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/400px-Berlin-ACUD.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/800px-Berlin-ACUD.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1200px-Berlin-ACUD.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Berlin-ACUD.JPG/1920px-Berlin-ACUD.JPG
+  Berlin-ACUD 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin-ACUD_2.jpg/400px-Berlin-ACUD_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin-ACUD_2.jpg/800px-Berlin-ACUD_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin-ACUD_2.jpg/1200px-Berlin-ACUD_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin-ACUD_2.jpg/1920px-Berlin-ACUD_2.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Wittelsbach"
+title: Burg Wittelsbach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.4686
 longitude: 11.1762
-
-# Images
 images:
-  - "/images-sites/burg-wittelsbach/01-ceb33f1f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nationaldenkmal_Burg_Wittelsbach.jpg/1200px-Nationaldenkmal_Burg_Wittelsbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Oberwittelsbach_3.jpg/1200px-Burg_Oberwittelsbach_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1200px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Oberwittelsbach_2.jpg/1200px-Burg_Oberwittelsbach_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Oberwittelsbach_4.jpg/1200px-Burg_Oberwittelsbach_4.jpg
+image_srcset:
+  Nationaldenkmal Burg Wittelsbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nationaldenkmal_Burg_Wittelsbach.jpg/400px-Nationaldenkmal_Burg_Wittelsbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nationaldenkmal_Burg_Wittelsbach.jpg/800px-Nationaldenkmal_Burg_Wittelsbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nationaldenkmal_Burg_Wittelsbach.jpg/1200px-Nationaldenkmal_Burg_Wittelsbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Nationaldenkmal_Burg_Wittelsbach.jpg/1920px-Nationaldenkmal_Burg_Wittelsbach.jpg
+  Burg Oberwittelsbach 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Oberwittelsbach_3.jpg/400px-Burg_Oberwittelsbach_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Oberwittelsbach_3.jpg/800px-Burg_Oberwittelsbach_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Oberwittelsbach_3.jpg/1200px-Burg_Oberwittelsbach_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Oberwittelsbach_3.jpg/1920px-Burg_Oberwittelsbach_3.jpg
+  Kirche Beatae Mariae Virginis Oberwittelsbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/400px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/800px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1200px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg/1920px-Kirche_Beatae_Mariae_Virginis_Oberwittelsbach.jpg
+  Burg Oberwittelsbach 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Oberwittelsbach_2.jpg/400px-Burg_Oberwittelsbach_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Oberwittelsbach_2.jpg/800px-Burg_Oberwittelsbach_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Oberwittelsbach_2.jpg/1200px-Burg_Oberwittelsbach_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burg_Oberwittelsbach_2.jpg/1920px-Burg_Oberwittelsbach_2.jpg
+  Burg Oberwittelsbach 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Oberwittelsbach_4.jpg/400px-Burg_Oberwittelsbach_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Oberwittelsbach_4.jpg/800px-Burg_Oberwittelsbach_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Oberwittelsbach_4.jpg/1200px-Burg_Oberwittelsbach_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Burg_Oberwittelsbach_4.jpg/1920px-Burg_Oberwittelsbach_4.jpg
 ---
 
 ## Overview

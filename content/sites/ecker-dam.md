@@ -1,19 +1,49 @@
 ---
-title: "Ecker Dam"
+title: Ecker Dam
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.83555556
 longitude: 10.5875
 images:
-  - "/images-sites/ecker-dam/01-ec97dbfc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eckerstausee.JPG/1200px-Eckerstausee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Infotafel_Eckertal_1.jpg/1200px-Infotafel_Eckertal_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Staumauer_Eckertalsperre_2023.jpg/1200px-Staumauer_Eckertalsperre_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eckertalsp.jpg/1200px-Eckertalsp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ECKERTALSPERRE_nieder.svg/1200px-ECKERTALSPERRE_nieder.svg.png
+image_srcset:
+  Eckerstausee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eckerstausee.JPG/400px-Eckerstausee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eckerstausee.JPG/800px-Eckerstausee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eckerstausee.JPG/1200px-Eckerstausee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Eckerstausee.JPG/1920px-Eckerstausee.JPG
+  Infotafel Eckertal 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Infotafel_Eckertal_1.jpg/400px-Infotafel_Eckertal_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Infotafel_Eckertal_1.jpg/800px-Infotafel_Eckertal_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Infotafel_Eckertal_1.jpg/1200px-Infotafel_Eckertal_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Infotafel_Eckertal_1.jpg/1920px-Infotafel_Eckertal_1.jpg
+  Staumauer Eckertalsperre 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Staumauer_Eckertalsperre_2023.jpg/400px-Staumauer_Eckertalsperre_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Staumauer_Eckertalsperre_2023.jpg/800px-Staumauer_Eckertalsperre_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Staumauer_Eckertalsperre_2023.jpg/1200px-Staumauer_Eckertalsperre_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Staumauer_Eckertalsperre_2023.jpg/1920px-Staumauer_Eckertalsperre_2023.jpg
+  Eckertalsp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eckertalsp.jpg/400px-Eckertalsp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eckertalsp.jpg/800px-Eckertalsp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eckertalsp.jpg/1200px-Eckertalsp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eckertalsp.jpg/1920px-Eckertalsp.jpg
+  ECKERTALSPERRE nieder.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ECKERTALSPERRE_nieder.svg/400px-ECKERTALSPERRE_nieder.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ECKERTALSPERRE_nieder.svg/800px-ECKERTALSPERRE_nieder.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ECKERTALSPERRE_nieder.svg/1200px-ECKERTALSPERRE_nieder.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/ECKERTALSPERRE_nieder.svg/1920px-ECKERTALSPERRE_nieder.svg.png
 ---
 
 ## Overview

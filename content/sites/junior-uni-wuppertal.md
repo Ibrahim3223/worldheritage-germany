@@ -1,19 +1,43 @@
 ---
-title: "Junior-Uni Wuppertal"
+title: Junior-Uni Wuppertal
 date: 2026-01-23
 draft: false
-description: "Schule in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: Schule in Deutschland
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2665
 longitude: 7.18703
 images:
-  - "/images-sites/junior-uni-wuppertal/01-41cd8978-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wuppertal32.jpg/1200px-Wuppertal32.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wuppertal36.jpg/1200px-Wuppertal36.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wuppertal34.jpg/1200px-Wuppertal34.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/1200px-GER_Wuppertal_Junioruni_018.jpg
+image_srcset:
+  Wuppertal32.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wuppertal32.jpg/400px-Wuppertal32.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wuppertal32.jpg/800px-Wuppertal32.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wuppertal32.jpg/1200px-Wuppertal32.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wuppertal32.jpg/1920px-Wuppertal32.jpg
+  Wuppertal36.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wuppertal36.jpg/400px-Wuppertal36.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wuppertal36.jpg/800px-Wuppertal36.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wuppertal36.jpg/1200px-Wuppertal36.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wuppertal36.jpg/1920px-Wuppertal36.jpg
+  Wuppertal34.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wuppertal34.jpg/400px-Wuppertal34.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wuppertal34.jpg/800px-Wuppertal34.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wuppertal34.jpg/1200px-Wuppertal34.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wuppertal34.jpg/1920px-Wuppertal34.jpg
+  GER Wuppertal Junioruni 018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/400px-GER_Wuppertal_Junioruni_018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/800px-GER_Wuppertal_Junioruni_018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/1200px-GER_Wuppertal_Junioruni_018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GER_Wuppertal_Junioruni_018.jpg/1920px-GER_Wuppertal_Junioruni_018.jpg
 ---
 
 ## Overview

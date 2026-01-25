@@ -1,19 +1,49 @@
 ---
-title: "East Prussian Regional Museum"
+title: East Prussian Regional Museum
 date: 2026-01-23
 draft: false
-description: "museum in Lüneburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Lüneburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.24619444
 longitude: 10.40744444
 images:
-  - "/images-sites/east-prussian-regional-museum/01-8ecf8adf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Regierungsgebäude_Gumbinnen.JPG/1200px-Regierungsgebäude_Gumbinnen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg/1200px-Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1200px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Außenansicht_Ostpreußisches_Landesmuseum.jpg/1200px-Außenansicht_Ostpreußisches_Landesmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erweiterungsbau_OL_Lüneburg.JPG/1200px-Erweiterungsbau_OL_Lüneburg.JPG
+image_srcset:
+  Regierungsgebäude Gumbinnen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Regierungsgebäude_Gumbinnen.JPG/400px-Regierungsgebäude_Gumbinnen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Regierungsgebäude_Gumbinnen.JPG/800px-Regierungsgebäude_Gumbinnen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Regierungsgebäude_Gumbinnen.JPG/1200px-Regierungsgebäude_Gumbinnen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Regierungsgebäude_Gumbinnen.JPG/1920px-Regierungsgebäude_Gumbinnen.JPG
+  Bischoff-Culm Reisigsammlerin 1908 OL, Cordes S. 74.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg/400px-Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg/800px-Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg/1200px-Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg/1920px-Bischoff-Culm_Reisigsammlerin_1908_OL,_Cordes_S._74.jpg
+  Lüneburg - Heiligengeiststraße - Ostpreußisches Landesmuseum 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/400px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/800px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1200px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg/1920px-Lüneburg_-_Heiligengeiststraße_-_Ostpreußisches_Landesmuseum_01_ies.jpg
+  Außenansicht Ostpreußisches Landesmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Außenansicht_Ostpreußisches_Landesmuseum.jpg/400px-Außenansicht_Ostpreußisches_Landesmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Außenansicht_Ostpreußisches_Landesmuseum.jpg/800px-Außenansicht_Ostpreußisches_Landesmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Außenansicht_Ostpreußisches_Landesmuseum.jpg/1200px-Außenansicht_Ostpreußisches_Landesmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Außenansicht_Ostpreußisches_Landesmuseum.jpg/1920px-Außenansicht_Ostpreußisches_Landesmuseum.jpg
+  Erweiterungsbau OL Lüneburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erweiterungsbau_OL_Lüneburg.JPG/400px-Erweiterungsbau_OL_Lüneburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erweiterungsbau_OL_Lüneburg.JPG/800px-Erweiterungsbau_OL_Lüneburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erweiterungsbau_OL_Lüneburg.JPG/1200px-Erweiterungsbau_OL_Lüneburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erweiterungsbau_OL_Lüneburg.JPG/1920px-Erweiterungsbau_OL_Lüneburg.JPG
 ---
 
 ## Overview

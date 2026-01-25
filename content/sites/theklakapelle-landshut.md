@@ -13,7 +13,7 @@ regions:
 latitude: 48.5312
 longitude: 12.1502
 images:
-  - "/images-sites/theklakapelle-landshut/01-eb9ee4bd-800w.webp"
+  - "/images/theklakapelle-landshut/01-eb9ee4bd-800w.webp"
 ---
 
 ## Overview

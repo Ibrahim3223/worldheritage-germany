@@ -1,19 +1,49 @@
 ---
-title: "Burg Rappelstein"
+title: Burg Rappelstein
 date: 2026-01-23
 draft: false
-description: "castle in Schmalenberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Schmalenberg
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.175
 longitude: 8.42472
 images:
-  - "/images-sites/burg-rappelstein/01-d3361ca9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg/1200px-Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg/1200px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg/1200px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgruine_Rappelstein_Aufgang.jpg/1200px-Burgruine_Rappelstein_Aufgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgruine_Rappelstein.jpg/1200px-Burgruine_Rappelstein.jpg
+image_srcset:
+  Schmallenberg-Nordenau Sauerland Ost 042 pk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg/400px-Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg/800px-Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg/1200px-Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg/1920px-Schmallenberg-Nordenau_Sauerland_Ost_042_pk.jpg
+  Schmallenberg-Nordenau St. Hubertus Sauerland-Ost 029.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg/400px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg/800px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg/1200px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg/1920px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_029.jpg
+  Schmallenberg-Nordenau St. Hubertus Sauerland-Ost 030.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg/400px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg/800px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg/1200px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg/1920px-Schmallenberg-Nordenau_St._Hubertus_Sauerland-Ost_030.jpg
+  Burgruine Rappelstein Aufgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgruine_Rappelstein_Aufgang.jpg/400px-Burgruine_Rappelstein_Aufgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgruine_Rappelstein_Aufgang.jpg/800px-Burgruine_Rappelstein_Aufgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgruine_Rappelstein_Aufgang.jpg/1200px-Burgruine_Rappelstein_Aufgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burgruine_Rappelstein_Aufgang.jpg/1920px-Burgruine_Rappelstein_Aufgang.jpg
+  Burgruine Rappelstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgruine_Rappelstein.jpg/400px-Burgruine_Rappelstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgruine_Rappelstein.jpg/800px-Burgruine_Rappelstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgruine_Rappelstein.jpg/1200px-Burgruine_Rappelstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burgruine_Rappelstein.jpg/1920px-Burgruine_Rappelstein.jpg
 ---
 
 ## Overview

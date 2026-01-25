@@ -1,19 +1,49 @@
 ---
-title: "Bremerhaven Radar Tower"
+title: Bremerhaven Radar Tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5384
 longitude: 8.58026
 images:
-  - "/images-sites/bremerhaven-radar-tower/01-baa4c966-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/1200px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg/1200px-Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bremerhaven,_Deich_--_2024_--_2286.jpg/1200px-Bremerhaven,_Deich_--_2024_--_2286.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg/1200px-Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1200px-Radarfunkturm2-Bremerhaven.JPG
+image_srcset:
+  Bremerhaven, Richtfunkturm -- 2024 -- 2282.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/400px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/800px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/1200px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg/1920px-Bremerhaven,_Richtfunkturm_--_2024_--_2282.jpg
+  Bremerhaven, Richtfunkturm -- 2024 -- 2150.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg/400px-Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg/800px-Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg/1200px-Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg/1920px-Bremerhaven,_Richtfunkturm_--_2024_--_2150.jpg
+  Bremerhaven, Deich -- 2024 -- 2286.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bremerhaven,_Deich_--_2024_--_2286.jpg/400px-Bremerhaven,_Deich_--_2024_--_2286.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bremerhaven,_Deich_--_2024_--_2286.jpg/800px-Bremerhaven,_Deich_--_2024_--_2286.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bremerhaven,_Deich_--_2024_--_2286.jpg/1200px-Bremerhaven,_Deich_--_2024_--_2286.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bremerhaven,_Deich_--_2024_--_2286.jpg/1920px-Bremerhaven,_Deich_--_2024_--_2286.jpg
+  Bremerhaven, Klimahaus, Blick von der Aussichtsplattform -- 2024 -- 170821.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg/400px-Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg/800px-Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg/1200px-Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg/1920px-Bremerhaven,_Klimahaus,_Blick_von_der_Aussichtsplattform_--_2024_--_170821.jpg
+  Radarfunkturm2-Bremerhaven.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/400px-Radarfunkturm2-Bremerhaven.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/800px-Radarfunkturm2-Bremerhaven.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1200px-Radarfunkturm2-Bremerhaven.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Radarfunkturm2-Bremerhaven.JPG/1920px-Radarfunkturm2-Bremerhaven.JPG
 ---
 
 ## Overview

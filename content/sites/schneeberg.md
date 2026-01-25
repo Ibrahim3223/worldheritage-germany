@@ -13,9 +13,9 @@ regions:
 latitude: 50.052465
 longitude: 11.8534185
 images:
-  - "/images-sites/schneeberg/01-94b01de3-800w.webp"
-  - "/images-sites/schneeberg/02-8cf0b836-800w.webp"
-  - "/images-sites/schneeberg/03-0c88a191-800w.webp"
+  - "/images/schneeberg/01-94b01de3-800w.webp"
+  - "/images/schneeberg/02-8cf0b836-800w.webp"
+  - "/images/schneeberg/03-0c88a191-800w.webp"
 ---
 
 ## Overview

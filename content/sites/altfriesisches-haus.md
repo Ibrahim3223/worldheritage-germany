@@ -1,19 +1,49 @@
 ---
-title: "Altfriesisches Haus"
+title: Altfriesisches Haus
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.8956214
 longitude: 8.3727097
 images:
-  - "/images-sites/altfriesisches-haus/01-7700cd4b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg/1200px-Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg/1200px-Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg/1200px-Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1200px-Am_Kliff_13.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gammelfrisisk_Hus_Kejtum_2.jpg/1200px-Gammelfrisisk_Hus_Kejtum_2.jpg
+image_srcset:
+  Altfriesisches Haus Keitum, Sylt@20171229 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg/400px-Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg/800px-Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg/1200px-Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg/1920px-Altfriesisches_Haus_Keitum,_Sylt@20171229_02.jpg
+  Altfriesisches Haus Keitum, Sylt@20171229 33.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg/400px-Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg/800px-Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg/1200px-Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg/1920px-Altfriesisches_Haus_Keitum,_Sylt@20171229_33.jpg
+  Altfriesisches Haus Keitum, Sylt@20171229 38.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg/400px-Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg/800px-Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg/1200px-Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg/1920px-Altfriesisches_Haus_Keitum,_Sylt@20171229_38.jpg
+  Am Kliff 13.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/400px-Am_Kliff_13.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/800px-Am_Kliff_13.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1200px-Am_Kliff_13.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Am_Kliff_13.JPG/1920px-Am_Kliff_13.JPG
+  Gammelfrisisk Hus Kejtum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gammelfrisisk_Hus_Kejtum_2.jpg/400px-Gammelfrisisk_Hus_Kejtum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gammelfrisisk_Hus_Kejtum_2.jpg/800px-Gammelfrisisk_Hus_Kejtum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gammelfrisisk_Hus_Kejtum_2.jpg/1200px-Gammelfrisisk_Hus_Kejtum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gammelfrisisk_Hus_Kejtum_2.jpg/1920px-Gammelfrisisk_Hus_Kejtum_2.jpg
 ---
 
 ## Overview

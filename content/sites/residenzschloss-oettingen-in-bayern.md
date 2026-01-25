@@ -13,7 +13,7 @@ regions:
 latitude: 48.9546
 longitude: 10.6046
 images:
-  - "/images-sites/residenzschloss-oettingen-in-bayern/01-d3f4e492-800w.webp"
+  - "/images/residenzschloss-oettingen-in-bayern/01-d3f4e492-800w.webp"
 ---
 
 ## Overview

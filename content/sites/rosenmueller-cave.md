@@ -13,7 +13,7 @@ regions:
 latitude: 49.80794564
 longitude: 11.259277486
 images:
-  - "/images-sites/rosenmueller-cave/01-dcfd7569-800w.webp"
+  - "/images/rosenmueller-cave/01-dcfd7569-800w.webp"
 ---
 
 ## Overview

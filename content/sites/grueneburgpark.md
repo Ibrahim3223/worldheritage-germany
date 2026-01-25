@@ -1,21 +1,49 @@
 ---
-title: "Grüneburgpark"
+title: Grüneburgpark
 date: 2026-01-23
 draft: false
-description: "park in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1266
 longitude: 8.6604
 images:
-  - "/images-sites/grueneburgpark/01-3882b82c-800w.webp"
-  - "/images-sites/grueneburgpark/02-1d00fb55-800w.webp"
-  - "/images-sites/grueneburgpark/03-f0b3f535-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg
+image_srcset:
+  Grüneburgpark Frankfurt am Main 2021-08-17 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg/400px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg/800px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg/1920px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_01.jpg
+  Grüneburgpark Frankfurt am Main 2021-08-17 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg/400px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg/800px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg/1920px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_03.jpg
+  Grüneburgpark Frankfurt am Main 2021-08-17 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg/400px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg/800px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg/1920px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_04.jpg
+  Grüneburgpark Frankfurt am Main 2021-08-17 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg/400px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg/800px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg/1920px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_05.jpg
+  Grüneburgpark Frankfurt am Main 2021-08-17 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg/400px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg/800px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg/1200px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg/1920px-Grüneburgpark_Frankfurt_am_Main_2021-08-17_06.jpg
 ---
 
 ## Overview

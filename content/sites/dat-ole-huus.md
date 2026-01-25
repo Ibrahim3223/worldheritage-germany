@@ -1,21 +1,49 @@
 ---
-title: "Dat ole Huus"
+title: Dat ole Huus
 date: 2026-01-23
 draft: false
-description: "museum in Wilsede, Lower Saxony"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Wilsede, Lower Saxony
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1641
 longitude: 9.96034
 images:
-  - "/images-sites/dat-ole-huus/01-39566bd2-800w.webp"
-  - "/images-sites/dat-ole-huus/02-c8c51a28-800w.webp"
-  - "/images-sites/dat-ole-huus/03-fd82d009-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg/1200px-"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg/1200px-"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/1200px-2015_Wilsede_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg/1200px-Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DatolehuusSW.JPG/1200px-DatolehuusSW.JPG
+image_srcset:
+  '"Dat ole Hus" - Heidemuseum Wilsede (2024).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg/400px-"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg/800px-"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg/1200px-"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg/1920px-"Dat_ole_Hus"_-_Heidemuseum_Wilsede_(2024).jpg
+  '"Dat ole Huus" Heidemuseum Wilsede 9 (2024).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg/400px-"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg/800px-"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg/1200px-"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg/1920px-"Dat_ole_Huus"_Heidemuseum_Wilsede_9_(2024).jpg
+  2015 Wilsede 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/400px-2015_Wilsede_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/800px-2015_Wilsede_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/1200px-2015_Wilsede_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2015_Wilsede_10.jpg/1920px-2015_Wilsede_10.jpg
+  Heidemuseum Wilsede - dat ole Huus (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg/400px-Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg/800px-Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg/1200px-Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg/1920px-Heidemuseum_Wilsede_-_dat_ole_Huus_(2024).jpg
+  DatolehuusSW.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DatolehuusSW.JPG/400px-DatolehuusSW.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DatolehuusSW.JPG/800px-DatolehuusSW.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DatolehuusSW.JPG/1200px-DatolehuusSW.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DatolehuusSW.JPG/1920px-DatolehuusSW.JPG
 ---
 
 ## Overview

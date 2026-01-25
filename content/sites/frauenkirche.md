@@ -1,24 +1,51 @@
 ---
-title: "Frauenkirche"
-site_name: "Frauenkirche"
-slug: "frauenkirche"
-region: "Baden-Württemberg"
-
-# Location
+title: Frauenkirche
+site_name: Frauenkirche
+slug: frauenkirche
+region: Baden-Württemberg
 latitude: 48.4566061567304
 longitude: 10.2767216784478
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1451776"
-description: "The Frauenkirche in Günzburg is a stunning example of Rococo architecture that captures the spirit of 18th-century Germany. Built in 1741, this Catholic..."
+- church building
+- religious site
+wikidata_id: Q1451776
+description: The Frauenkirche in Günzburg is a stunning example of Rococo architecture
+  that captures the spirit of 18th-century Germany. Built in 1741, this Catholic...
 images:
-  - "/images-sites/frauenkirche/01-dc564078-1920w.webp"
-  - "/images-sites/frauenkirche/02-ce386e8d-1920w.webp"
-  - "/images-sites/frauenkirche/03-d488d01a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/1200px-BY%20Guenzburg%2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/1200px-Frauenkirche_Munich_March_2013.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/1200px-Frauenkirche_Munich,_March_2018.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/1200px-Nef_de_la_cathédrale_de_Munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/1200px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
+image_srcset:
+  BY%20Guenzburg%2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/400px-BY%20Guenzburg%2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/800px-BY%20Guenzburg%2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/1200px-BY%20Guenzburg%2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BY%20Guenzburg%2010.jpg/1920px-BY%20Guenzburg%2010.jpg
+  Frauenkirche Munich March 2013.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/400px-Frauenkirche_Munich_March_2013.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/800px-Frauenkirche_Munich_March_2013.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/1200px-Frauenkirche_Munich_March_2013.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Frauenkirche_Munich_March_2013.JPG/1920px-Frauenkirche_Munich_March_2013.JPG
+  Frauenkirche Munich, March 2018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/400px-Frauenkirche_Munich,_March_2018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/800px-Frauenkirche_Munich,_March_2018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/1200px-Frauenkirche_Munich,_March_2018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frauenkirche_Munich,_March_2018.jpg/1920px-Frauenkirche_Munich,_March_2018.jpg
+  Nef de la cathédrale de Munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/400px-Nef_de_la_cathédrale_de_Munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/800px-Nef_de_la_cathédrale_de_Munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/1200px-Nef_de_la_cathédrale_de_Munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Nef_de_la_cathédrale_de_Munich.jpg/1920px-Nef_de_la_cathédrale_de_Munich.jpg
+  Frauenkirche Munich - View from Peterskirche Tower.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/400px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/800px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/1200px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg/1920px-Frauenkirche_Munich_-_View_from_Peterskirche_Tower.jpg
 ---
 
 ## Overview

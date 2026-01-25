@@ -21,9 +21,9 @@ longitude: 8.98558
 
 # Images
 images:
-  - "/images-sites/lindheim-castle/01-7c883003-800w.webp"
-  - "/images-sites/lindheim-castle/02-7077e8ad-800w.webp"
-  - "/images-sites/lindheim-castle/03-cc1a898b-800w.webp"
+  - "/images/lindheim-castle/01-7c883003-800w.webp"
+  - "/images/lindheim-castle/02-7077e8ad-800w.webp"
+  - "/images/lindheim-castle/03-cc1a898b-800w.webp"
 ---
 
 ## Overview

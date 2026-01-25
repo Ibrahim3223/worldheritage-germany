@@ -1,27 +1,49 @@
 ---
-title: "Hanstein Castle"
+title: Hanstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3394
 longitude: 9.94
-
-# Images
 images:
-  - "/images-sites/hanstein-castle/01-90ec4a6c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg/1200px-Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg/1200px-Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg/1200px-Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Hanstein_2022-05-28_b.JPG/1200px-Burg_Hanstein_2022-05-28_b.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg/1200px-Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg
+image_srcset:
+  Castle Hanstein, Thuringia 02, entrance area, view from the south.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg/400px-Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg/800px-Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg/1200px-Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg/1920px-Castle_Hanstein,_Thuringia_02,_entrance_area,_view_from_the_south.jpg
+  Castle Hanstein and church St. Marien in Rimbach-Bornhagen, district Eichsfeld, Thuringia.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg/400px-Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg/800px-Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg/1200px-Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg/1920px-Castle_Hanstein_and_church_St._Marien_in_Rimbach-Bornhagen,_district_Eichsfeld,_Thuringia.jpg
+  Castle Hanstein, Thuringia, Eichsfeld 02 north side with north and south towers.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg/400px-Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg/800px-Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg/1200px-Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg/1920px-Castle_Hanstein,_Thuringia,_Eichsfeld_02_north_side_with_north_and_south_towers.jpg
+  Burg Hanstein 2022-05-28 b.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Hanstein_2022-05-28_b.JPG/400px-Burg_Hanstein_2022-05-28_b.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Hanstein_2022-05-28_b.JPG/800px-Burg_Hanstein_2022-05-28_b.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Hanstein_2022-05-28_b.JPG/1200px-Burg_Hanstein_2022-05-28_b.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Hanstein_2022-05-28_b.JPG/1920px-Burg_Hanstein_2022-05-28_b.JPG
+  Castle Hanstein, Thuringia, Eichsfeld 01 north side and gate 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg/400px-Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg/800px-Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg/1200px-Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg/1920px-Castle_Hanstein,_Thuringia,_Eichsfeld_01_north_side_and_gate_4.jpg
 ---
 
 ## Overview

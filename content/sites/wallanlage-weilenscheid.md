@@ -13,9 +13,9 @@ regions:
 latitude: 51.1439
 longitude: 8.04833
 images:
-  - "/images-sites/wallanlage-weilenscheid/01-7a342e1f-800w.webp"
-  - "/images-sites/wallanlage-weilenscheid/02-fbdd5c8d-800w.webp"
-  - "/images-sites/wallanlage-weilenscheid/03-778ed14c-800w.webp"
+  - "/images/wallanlage-weilenscheid/01-7a342e1f-800w.webp"
+  - "/images/wallanlage-weilenscheid/02-fbdd5c8d-800w.webp"
+  - "/images/wallanlage-weilenscheid/03-778ed14c-800w.webp"
 ---
 
 ## Overview

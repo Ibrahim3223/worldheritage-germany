@@ -1,19 +1,49 @@
 ---
-title: "Anne Frank Zentrum"
+title: Anne Frank Zentrum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5245
 longitude: 13.4017
 images:
-  - "/images-sites/anne-frank-zentrum/01-aee0a9b7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anne-Frank-Museum.JPG/1200px-Anne-Frank-Museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anne_Frank_Zentrum.jpg/1200px-Anne_Frank_Zentrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anne_Frank_Centere_Library.jpg/1200px-Anne_Frank_Centere_Library.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/1200px-Anne-frank-zentrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Annefrankhaus.jpg/1200px-Annefrankhaus.jpg
+image_srcset:
+  Anne-Frank-Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anne-Frank-Museum.JPG/400px-Anne-Frank-Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anne-Frank-Museum.JPG/800px-Anne-Frank-Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anne-Frank-Museum.JPG/1200px-Anne-Frank-Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anne-Frank-Museum.JPG/1920px-Anne-Frank-Museum.JPG
+  Anne Frank Zentrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anne_Frank_Zentrum.jpg/400px-Anne_Frank_Zentrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anne_Frank_Zentrum.jpg/800px-Anne_Frank_Zentrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anne_Frank_Zentrum.jpg/1200px-Anne_Frank_Zentrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anne_Frank_Zentrum.jpg/1920px-Anne_Frank_Zentrum.jpg
+  Anne Frank Centere Library.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anne_Frank_Centere_Library.jpg/400px-Anne_Frank_Centere_Library.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anne_Frank_Centere_Library.jpg/800px-Anne_Frank_Centere_Library.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anne_Frank_Centere_Library.jpg/1200px-Anne_Frank_Centere_Library.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anne_Frank_Centere_Library.jpg/1920px-Anne_Frank_Centere_Library.jpg
+  Anne-frank-zentrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/400px-Anne-frank-zentrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/800px-Anne-frank-zentrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/1200px-Anne-frank-zentrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Anne-frank-zentrum.jpg/1920px-Anne-frank-zentrum.jpg
+  Annefrankhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Annefrankhaus.jpg/400px-Annefrankhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Annefrankhaus.jpg/800px-Annefrankhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Annefrankhaus.jpg/1200px-Annefrankhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Annefrankhaus.jpg/1920px-Annefrankhaus.jpg
 ---
 
 ## Overview

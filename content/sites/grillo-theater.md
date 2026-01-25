@@ -1,19 +1,49 @@
 ---
-title: "Grillo-Theater"
+title: Grillo-Theater
 date: 2026-01-23
 draft: false
-description: "theatre in Essen, Germany, used by the municipal drama company"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Essen, Germany, used by the municipal drama company
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4546
 longitude: 7.01167
 images:
-  - "/images-sites/grillo-theater/01-65aeec24-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen_-_Grillo-Theater_(49393953468).jpg/1200px-Essen_-_Grillo-Theater_(49393953468).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/1200px-Grillo-Theater-2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen-Ruhr_Stadttheater.jpg/1200px-Essen-Ruhr_Stadttheater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grillo-Theater,_Essen,_Nordseite.jpg/1200px-Grillo-Theater,_Essen,_Nordseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen_Grillo_Theater_Front_1_2005.jpg/1200px-Essen_Grillo_Theater_Front_1_2005.jpg
+image_srcset:
+  Essen - Grillo-Theater (49393953468).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen_-_Grillo-Theater_(49393953468).jpg/400px-Essen_-_Grillo-Theater_(49393953468).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen_-_Grillo-Theater_(49393953468).jpg/800px-Essen_-_Grillo-Theater_(49393953468).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen_-_Grillo-Theater_(49393953468).jpg/1200px-Essen_-_Grillo-Theater_(49393953468).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen_-_Grillo-Theater_(49393953468).jpg/1920px-Essen_-_Grillo-Theater_(49393953468).jpg
+  Grillo-Theater-2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/400px-Grillo-Theater-2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/800px-Grillo-Theater-2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/1200px-Grillo-Theater-2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grillo-Theater-2012.jpg/1920px-Grillo-Theater-2012.jpg
+  Essen-Ruhr Stadttheater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen-Ruhr_Stadttheater.jpg/400px-Essen-Ruhr_Stadttheater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen-Ruhr_Stadttheater.jpg/800px-Essen-Ruhr_Stadttheater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen-Ruhr_Stadttheater.jpg/1200px-Essen-Ruhr_Stadttheater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen-Ruhr_Stadttheater.jpg/1920px-Essen-Ruhr_Stadttheater.jpg
+  Grillo-Theater, Essen, Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grillo-Theater,_Essen,_Nordseite.jpg/400px-Grillo-Theater,_Essen,_Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grillo-Theater,_Essen,_Nordseite.jpg/800px-Grillo-Theater,_Essen,_Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grillo-Theater,_Essen,_Nordseite.jpg/1200px-Grillo-Theater,_Essen,_Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grillo-Theater,_Essen,_Nordseite.jpg/1920px-Grillo-Theater,_Essen,_Nordseite.jpg
+  Essen Grillo Theater Front 1 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen_Grillo_Theater_Front_1_2005.jpg/400px-Essen_Grillo_Theater_Front_1_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen_Grillo_Theater_Front_1_2005.jpg/800px-Essen_Grillo_Theater_Front_1_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen_Grillo_Theater_Front_1_2005.jpg/1200px-Essen_Grillo_Theater_Front_1_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Essen_Grillo_Theater_Front_1_2005.jpg/1920px-Essen_Grillo_Theater_Front_1_2005.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.003061111
 longitude: 5.921203055
 images:
-  - "/images-sites/tuedderner-fenn/01-06844171-800w.webp"
-  - "/images-sites/tuedderner-fenn/02-298fd66c-800w.webp"
-  - "/images-sites/tuedderner-fenn/03-23777034-800w.webp"
+  - "/images/tuedderner-fenn/01-06844171-800w.webp"
+  - "/images/tuedderner-fenn/02-298fd66c-800w.webp"
+  - "/images/tuedderner-fenn/03-23777034-800w.webp"
 ---
 
 ## Overview

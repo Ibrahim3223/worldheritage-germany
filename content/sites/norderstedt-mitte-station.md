@@ -13,7 +13,7 @@ regions:
 latitude: 53.707778
 longitude: 9.992222
 images:
-  - "/images-sites/norderstedt-mitte-station/01-0f49926b-800w.webp"
+  - "/images/norderstedt-mitte-station/01-0f49926b-800w.webp"
 ---
 
 ## Overview

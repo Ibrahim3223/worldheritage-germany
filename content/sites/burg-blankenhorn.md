@@ -1,19 +1,49 @@
 ---
-title: "Burg Blankenhorn"
+title: Burg Blankenhorn
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0414
 longitude: 8.99139
 images:
-  - "/images-sites/burg-blankenhorn/01-1b54e703-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blankenhorn-Eingangstor.jpg/1200px-Blankenhorn-Eingangstor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blankenhorn-von-Westen.jpg/1200px-Blankenhorn-von-Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg/1200px-Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg/1200px-Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Blankenhorn_Palasfenster.jpg/1200px-Blankenhorn_Palasfenster.jpg
+image_srcset:
+  Blankenhorn-Eingangstor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blankenhorn-Eingangstor.jpg/400px-Blankenhorn-Eingangstor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blankenhorn-Eingangstor.jpg/800px-Blankenhorn-Eingangstor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blankenhorn-Eingangstor.jpg/1200px-Blankenhorn-Eingangstor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Blankenhorn-Eingangstor.jpg/1920px-Blankenhorn-Eingangstor.jpg
+  Blankenhorn-von-Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blankenhorn-von-Westen.jpg/400px-Blankenhorn-von-Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blankenhorn-von-Westen.jpg/800px-Blankenhorn-von-Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blankenhorn-von-Westen.jpg/1200px-Blankenhorn-von-Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Blankenhorn-von-Westen.jpg/1920px-Blankenhorn-von-Westen.jpg
+  Landappbw 243382 1818 Burgruine Blankenhorn Eibensbach (Güglingen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg/400px-Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg/800px-Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg/1200px-Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg/1920px-Landappbw_243382_1818_Burgruine_Blankenhorn_Eibensbach_(Güglingen).jpg
+  Burgruine Blankenhorn Eibensbach Futtermauer 20140216.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg/400px-Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg/800px-Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg/1200px-Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg/1920px-Burgruine_Blankenhorn_Eibensbach_Futtermauer_20140216.jpg
+  Blankenhorn Palasfenster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Blankenhorn_Palasfenster.jpg/400px-Blankenhorn_Palasfenster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Blankenhorn_Palasfenster.jpg/800px-Blankenhorn_Palasfenster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Blankenhorn_Palasfenster.jpg/1200px-Blankenhorn_Palasfenster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Blankenhorn_Palasfenster.jpg/1920px-Blankenhorn_Palasfenster.jpg
 ---
 
 ## Overview

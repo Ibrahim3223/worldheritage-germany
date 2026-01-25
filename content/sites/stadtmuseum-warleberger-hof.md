@@ -13,7 +13,7 @@ regions:
 latitude: 54.3244
 longitude: 10.141
 images:
-  - "/images-sites/stadtmuseum-warleberger-hof/01-4f4217aa-800w.webp"
+  - "/images/stadtmuseum-warleberger-hof/01-4f4217aa-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.4543
 longitude: 11.0708
 images:
-  - "/images-sites/schlayerturm-nuernberg/01-73a685b0-800w.webp"
+  - "/images/schlayerturm-nuernberg/01-73a685b0-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Feldberg/Taunus transmitter"
+title: Feldberg/Taunus transmitter
 date: 2026-01-24
 draft: false
-description: "tower for TV-broadcasting and directional radio services north of Frankfurt (Main)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower for TV-broadcasting and directional radio services north of Frankfurt
+  (Main)
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.2321
 longitude: 8.45734
 images:
-  - "/images-sites/feldbergtaunus-transmitter/01-ef0049d3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/1200px-Communication_tower_on_the_Großer_Feldberg_01.jpg
+image_srcset:
+  Großer Feldberg communication tower with snow 2021-04-06 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg/400px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg/800px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg/1920px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_05.jpg
+  Großer Feldberg communication tower with snow 2021-04-06 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg/400px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg/800px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg/1920px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_07.jpg
+  Großer Feldberg communication tower with snow 2021-04-06 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg/400px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg/800px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg/1920px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_08.jpg
+  Großer Feldberg communication tower with snow 2021-04-06 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg/400px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg/800px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg/1200px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg/1920px-Großer_Feldberg_communication_tower_with_snow_2021-04-06_11.jpg
+  Communication tower on the Großer Feldberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/400px-Communication_tower_on_the_Großer_Feldberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/800px-Communication_tower_on_the_Großer_Feldberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/1200px-Communication_tower_on_the_Großer_Feldberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Communication_tower_on_the_Großer_Feldberg_01.jpg/1920px-Communication_tower_on_the_Großer_Feldberg_01.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.076
 longitude: 9.97988
 images:
-  - "/images-sites/neumuenster-station/01-1f0e7e53-800w.webp"
+  - "/images/neumuenster-station/01-1f0e7e53-800w.webp"
 ---
 
 ## Overview

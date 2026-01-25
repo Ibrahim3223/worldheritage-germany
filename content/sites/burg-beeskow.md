@@ -1,27 +1,49 @@
 ---
-title: "Burg Beeskow"
+title: Burg Beeskow
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.1704
 longitude: 14.2522
-
-# Images
 images:
-  - "/images-sites/burg-beeskow/01-be7bca8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOS_08-13_img01_Beeskow.jpg/1200px-LOS_08-13_img01_Beeskow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Beeskow_2020_06.jpg/1200px-Burg_Beeskow_2020_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Beeskow_2020_07.jpg/1200px-Burg_Beeskow_2020_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Beeskow_2020_12.jpg/1200px-Burg_Beeskow_2020_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_Beeskow_2020_15.jpg/1200px-Burg_Beeskow_2020_15.jpg
+image_srcset:
+  LOS 08-13 img01 Beeskow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOS_08-13_img01_Beeskow.jpg/400px-LOS_08-13_img01_Beeskow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOS_08-13_img01_Beeskow.jpg/800px-LOS_08-13_img01_Beeskow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOS_08-13_img01_Beeskow.jpg/1200px-LOS_08-13_img01_Beeskow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOS_08-13_img01_Beeskow.jpg/1920px-LOS_08-13_img01_Beeskow.jpg
+  Burg Beeskow 2020 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Beeskow_2020_06.jpg/400px-Burg_Beeskow_2020_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Beeskow_2020_06.jpg/800px-Burg_Beeskow_2020_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Beeskow_2020_06.jpg/1200px-Burg_Beeskow_2020_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Burg_Beeskow_2020_06.jpg/1920px-Burg_Beeskow_2020_06.jpg
+  Burg Beeskow 2020 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Beeskow_2020_07.jpg/400px-Burg_Beeskow_2020_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Beeskow_2020_07.jpg/800px-Burg_Beeskow_2020_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Beeskow_2020_07.jpg/1200px-Burg_Beeskow_2020_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Beeskow_2020_07.jpg/1920px-Burg_Beeskow_2020_07.jpg
+  Burg Beeskow 2020 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Beeskow_2020_12.jpg/400px-Burg_Beeskow_2020_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Beeskow_2020_12.jpg/800px-Burg_Beeskow_2020_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Beeskow_2020_12.jpg/1200px-Burg_Beeskow_2020_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Beeskow_2020_12.jpg/1920px-Burg_Beeskow_2020_12.jpg
+  Burg Beeskow 2020 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_Beeskow_2020_15.jpg/400px-Burg_Beeskow_2020_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_Beeskow_2020_15.jpg/800px-Burg_Beeskow_2020_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_Beeskow_2020_15.jpg/1200px-Burg_Beeskow_2020_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Burg_Beeskow_2020_15.jpg/1920px-Burg_Beeskow_2020_15.jpg
 ---
 
 ## Overview

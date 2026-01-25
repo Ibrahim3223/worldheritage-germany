@@ -1,19 +1,49 @@
 ---
-title: "Charlottenburg Palace"
+title: Charlottenburg Palace
 date: 2026-01-23
 draft: false
-description: "Baroque palace in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Baroque palace in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.521111
 longitude: 13.295833
 images:
-  - "/images-sites/charlottenburg-palace/01-f3c4f5da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Schloss_Charlottenburg_nachts.jpg/1200px-Schloss_Charlottenburg_nachts.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schloss_Charlottenburg_nachts_(Zuschnitt).jpg/1200px-Schloss_Charlottenburg_nachts_(Zuschnitt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Statue_Entrance_Schloss_Charlottenburg.jpg/1200px-Statue_Entrance_Schloss_Charlottenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/1200px-Charlottenburg_Hohenzollern_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kolumna_honorowa_dla_Fryderyka_II.tif.jpg/1200px-Kolumna_honorowa_dla_Fryderyka_II.tif.jpg
+image_srcset:
+  Schloss Charlottenburg nachts.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Schloss_Charlottenburg_nachts.jpg/400px-Schloss_Charlottenburg_nachts.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Schloss_Charlottenburg_nachts.jpg/800px-Schloss_Charlottenburg_nachts.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Schloss_Charlottenburg_nachts.jpg/1200px-Schloss_Charlottenburg_nachts.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Schloss_Charlottenburg_nachts.jpg/1920px-Schloss_Charlottenburg_nachts.jpg
+  Schloss Charlottenburg nachts (Zuschnitt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schloss_Charlottenburg_nachts_(Zuschnitt).jpg/400px-Schloss_Charlottenburg_nachts_(Zuschnitt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schloss_Charlottenburg_nachts_(Zuschnitt).jpg/800px-Schloss_Charlottenburg_nachts_(Zuschnitt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schloss_Charlottenburg_nachts_(Zuschnitt).jpg/1200px-Schloss_Charlottenburg_nachts_(Zuschnitt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schloss_Charlottenburg_nachts_(Zuschnitt).jpg/1920px-Schloss_Charlottenburg_nachts_(Zuschnitt).jpg
+  Statue Entrance Schloss Charlottenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Statue_Entrance_Schloss_Charlottenburg.jpg/400px-Statue_Entrance_Schloss_Charlottenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Statue_Entrance_Schloss_Charlottenburg.jpg/800px-Statue_Entrance_Schloss_Charlottenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Statue_Entrance_Schloss_Charlottenburg.jpg/1200px-Statue_Entrance_Schloss_Charlottenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Statue_Entrance_Schloss_Charlottenburg.jpg/1920px-Statue_Entrance_Schloss_Charlottenburg.jpg
+  Charlottenburg Hohenzollern 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/400px-Charlottenburg_Hohenzollern_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/800px-Charlottenburg_Hohenzollern_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/1200px-Charlottenburg_Hohenzollern_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/1920px-Charlottenburg_Hohenzollern_2.jpg
+  Kolumna honorowa dla Fryderyka II.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kolumna_honorowa_dla_Fryderyka_II.tif.jpg/400px-Kolumna_honorowa_dla_Fryderyka_II.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kolumna_honorowa_dla_Fryderyka_II.tif.jpg/800px-Kolumna_honorowa_dla_Fryderyka_II.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kolumna_honorowa_dla_Fryderyka_II.tif.jpg/1200px-Kolumna_honorowa_dla_Fryderyka_II.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kolumna_honorowa_dla_Fryderyka_II.tif.jpg/1920px-Kolumna_honorowa_dla_Fryderyka_II.tif.jpg
 ---
 
 ## Overview

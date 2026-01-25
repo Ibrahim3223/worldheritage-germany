@@ -1,19 +1,49 @@
 ---
-title: "Haus der Kultur und Bildung"
+title: Haus der Kultur und Bildung
 date: 2026-01-23
 draft: false
-description: "house of culture in Neubrandenburg, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: house of culture in Neubrandenburg, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5581
 longitude: 13.2603
 images:
-  - "/images-sites/haus-der-kultur-und-bildung/02-690931ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg/1200px-20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NB-Stargarder-Strasse-26-VIII-2007-47.jpg/1200px-NB-Stargarder-Strasse-26-VIII-2007-47.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg/1200px-Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1200px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg/1200px-Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg
+image_srcset:
+  20030708250DR Neubrandenburg Hochhaus der Kultur und Bildung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg/400px-20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg/800px-20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg/1200px-20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg/1920px-20030708250DR_Neubrandenburg_Hochhaus_der_Kultur_und_Bildung.jpg
+  NB-Stargarder-Strasse-26-VIII-2007-47.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NB-Stargarder-Strasse-26-VIII-2007-47.jpg/400px-NB-Stargarder-Strasse-26-VIII-2007-47.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NB-Stargarder-Strasse-26-VIII-2007-47.jpg/800px-NB-Stargarder-Strasse-26-VIII-2007-47.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NB-Stargarder-Strasse-26-VIII-2007-47.jpg/1200px-NB-Stargarder-Strasse-26-VIII-2007-47.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NB-Stargarder-Strasse-26-VIII-2007-47.jpg/1920px-NB-Stargarder-Strasse-26-VIII-2007-47.jpg
+  Bundesarchiv Bild 183-1984-1126-310, Neubrandenburg, Wohnhäuser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg/400px-Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg/800px-Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg/1200px-Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg/1920px-Bundesarchiv_Bild_183-1984-1126-310,_Neubrandenburg,_Wohnhäuser.jpg
+  Bundesarchiv Bild 183-F0612-0022-001, Neubrandenburg, Haus der Kultur und Bildung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/400px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/800px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1200px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg/1920px-Bundesarchiv_Bild_183-F0612-0022-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung.jpg
+  Bundesarchiv Bild 183-G1230-0004-001, Neubrandenburg, Haus der Kultur und Bildung, Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg/400px-Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg/800px-Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg/1200px-Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg/1920px-Bundesarchiv_Bild_183-G1230-0004-001,_Neubrandenburg,_Haus_der_Kultur_und_Bildung,_Nacht.jpg
 ---
 
 ## Overview

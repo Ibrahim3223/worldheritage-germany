@@ -13,9 +13,9 @@ regions:
 latitude: 47.5614
 longitude: 10.6947
 images:
-  - "/images-sites/lechfall/01-73e7c215-800w.webp"
-  - "/images-sites/lechfall/02-ff2a37df-800w.webp"
-  - "/images-sites/lechfall/03-041a4ea8-800w.webp"
+  - "/images/lechfall/01-73e7c215-800w.webp"
+  - "/images/lechfall/02-ff2a37df-800w.webp"
+  - "/images/lechfall/03-041a4ea8-800w.webp"
 ---
 
 ## Overview

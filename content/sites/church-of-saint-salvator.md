@@ -1,23 +1,51 @@
 ---
-title: "Church of Saint Salvator"
-site_name: "Church of Saint Salvator"
-slug: "church-of-saint-salvator"
-region: "Bavaria"
-
-# Location
+title: Church of Saint Salvator
+site_name: Church of Saint Salvator
+slug: church-of-saint-salvator
+region: Bavaria
 latitude: 48.1416412145909
 longitude: 11.5748399812437
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q328188"
-description: "The Church of Saint Salvator stands as a remarkable example of Gothic architecture in Munich, Germany. Founded in 1401, this Eastern Orthodox church is ..."
+- cultural site
+wikidata_id: Q328188
+description: The Church of Saint Salvator stands as a remarkable example of Gothic
+  architecture in Munich, Germany. Founded in 1401, this Eastern Orthodox church is
+  ...
 images:
-  - "/images-sites/church-of-saint-salvator/01-5ebec7ac-1920w.webp"
-  - "/images-sites/church-of-saint-salvator/02-b0ef3fb9-1920w.webp"
-  - "/images-sites/church-of-saint-salvator/03-14868c14-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salvatorkirche%20Munich%20I.jpg/1200px-Salvatorkirche%20Munich%20I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg/1200px-Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg/1200px-050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/St._Salvator_Muenchen-2.jpg/1200px-St._Salvator_Muenchen-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG/1200px-Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG
+image_srcset:
+  Salvatorkirche%20Munich%20I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salvatorkirche%20Munich%20I.jpg/400px-Salvatorkirche%20Munich%20I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salvatorkirche%20Munich%20I.jpg/800px-Salvatorkirche%20Munich%20I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salvatorkirche%20Munich%20I.jpg/1200px-Salvatorkirche%20Munich%20I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salvatorkirche%20Munich%20I.jpg/1920px-Salvatorkirche%20Munich%20I.jpg
+  Praha, Staré Město, Staroměstské náměstí, klášter paulínů 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg/400px-Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg/800px-Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg/1200px-Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg/1920px-Praha,_Staré_Město,_Staroměstské_náměstí,_klášter_paulínů_01.jpg
+  050 Staroměstské Náměstí, convent Paulí i casa de la Creu d'Or.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg/400px-050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg/800px-050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg/1200px-050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg/1920px-050_Staroměstské_Náměstí,_convent_Paulí_i_casa_de_la_Creu_d'Or.jpg
+  St. Salvator Muenchen-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/St._Salvator_Muenchen-2.jpg/400px-St._Salvator_Muenchen-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/St._Salvator_Muenchen-2.jpg/800px-St._Salvator_Muenchen-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/St._Salvator_Muenchen-2.jpg/1200px-St._Salvator_Muenchen-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/St._Salvator_Muenchen-2.jpg/1920px-St._Salvator_Muenchen-2.jpg
+  Bývalý klášter pavlánů u svatého Salvátora, Praha 1, Staroměstské nám. 7, Staré Město.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG/400px-Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG/800px-Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG/1200px-Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG/1920px-Bývalý_klášter_pavlánů_u_svatého_Salvátora,_Praha_1,_Staroměstské_nám._7,_Staré_Město.JPG
 ---
 
 ## Overview

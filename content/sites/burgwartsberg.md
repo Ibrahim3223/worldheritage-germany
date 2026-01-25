@@ -1,21 +1,49 @@
 ---
-title: "Burgwartsberg"
+title: Burgwartsberg
 date: 2026-01-23
 draft: false
-description: "Mountain in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Mountain in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0184
 longitude: 13.6538
 images:
-  - "/images-sites/burgwartsberg/01-8f76ac76-800w.webp"
-  - "/images-sites/burgwartsberg/02-80230604-800w.webp"
-  - "/images-sites/burgwartsberg/03-c494dc8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg/1200px-20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg/1200px-20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg/1200px-20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/1200px-20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/1200px-20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+image_srcset:
+  20080909185DR Pesterwitz (Freital) Burgwartsbg Castell Thorun.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg/400px-20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg/800px-20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg/1200px-20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg/1920px-20080909185DR_Pesterwitz_(Freital)_Burgwartsbg_Castell_Thorun.jpg
+  20080908015DR Freital Stadtpanorama nach Süden zum Windberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg/400px-20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg/800px-20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg/1200px-20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg/1920px-20080908015DR_Freital_Stadtpanorama_nach_Süden_zum_Windberg.jpg
+  20080928115DR Freital Blick nach Westen zum Burgwartsberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg/400px-20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg/800px-20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg/1200px-20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg/1920px-20080928115DR_Freital_Blick_nach_Westen_zum_Burgwartsberg.jpg
+  20080928105DR Freital nach Westen Richtung Pesterwitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/400px-20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/800px-20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/1200px-20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/1920px-20080928105DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+  20080928100DR Freital nach Westen Richtung Pesterwitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/400px-20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/800px-20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/1200px-20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg/1920px-20080928100DR_Freital_nach_Westen_Richtung_Pesterwitz.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.1392
 longitude: 8.21
 images:
-  - "/images-sites/oldenburgisches-staatstheater/01-e60a87f8-800w.webp"
+  - "/images/oldenburgisches-staatstheater/01-e60a87f8-800w.webp"
 ---
 
 ## Overview

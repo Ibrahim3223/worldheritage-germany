@@ -13,7 +13,7 @@ regions:
 latitude: 52.5116731
 longitude: 13.3846697
 images:
-  - "/images-sites/statue-of-james-francis-edward-keith/01-8c4b9f07-800w.webp"
+  - "/images/statue-of-james-francis-edward-keith/01-8c4b9f07-800w.webp"
 ---
 
 ## Overview

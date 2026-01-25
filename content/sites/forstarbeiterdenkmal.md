@@ -1,19 +1,49 @@
 ---
-title: "Forstarbeiterdenkmal"
+title: Forstarbeiterdenkmal
 date: 2026-01-23
 draft: false
-description: "monument in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6952
 longitude: 10.7194
 images:
-  - "/images-sites/forstarbeiterdenkmal/01-0811c1c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Forstarbeiterdenkmal_Oberhof.jpg/1200px-Forstarbeiterdenkmal_Oberhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/1200px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Forstarbeiterdenkmal_Oberhof_Winter_3.jpg/1200px-Forstarbeiterdenkmal_Oberhof_Winter_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Forstarbeiterdenkmal_Oberhof_Winter_4.jpg/1200px-Forstarbeiterdenkmal_Oberhof_Winter_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Waldarbeiterdenkmal.JPG/1200px-Waldarbeiterdenkmal.JPG
+image_srcset:
+  Forstarbeiterdenkmal Oberhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Forstarbeiterdenkmal_Oberhof.jpg/400px-Forstarbeiterdenkmal_Oberhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Forstarbeiterdenkmal_Oberhof.jpg/800px-Forstarbeiterdenkmal_Oberhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Forstarbeiterdenkmal_Oberhof.jpg/1200px-Forstarbeiterdenkmal_Oberhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Forstarbeiterdenkmal_Oberhof.jpg/1920px-Forstarbeiterdenkmal_Oberhof.jpg
+  20151008 xl P1000070 Oberhof Stadt am Rennsteig und Umgebung.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/400px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/800px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/1200px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG/1920px-20151008_xl_P1000070_Oberhof_Stadt_am_Rennsteig_und_Umgebung.JPG
+  Forstarbeiterdenkmal Oberhof Winter 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Forstarbeiterdenkmal_Oberhof_Winter_3.jpg/400px-Forstarbeiterdenkmal_Oberhof_Winter_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Forstarbeiterdenkmal_Oberhof_Winter_3.jpg/800px-Forstarbeiterdenkmal_Oberhof_Winter_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Forstarbeiterdenkmal_Oberhof_Winter_3.jpg/1200px-Forstarbeiterdenkmal_Oberhof_Winter_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Forstarbeiterdenkmal_Oberhof_Winter_3.jpg/1920px-Forstarbeiterdenkmal_Oberhof_Winter_3.jpg
+  Forstarbeiterdenkmal Oberhof Winter 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Forstarbeiterdenkmal_Oberhof_Winter_4.jpg/400px-Forstarbeiterdenkmal_Oberhof_Winter_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Forstarbeiterdenkmal_Oberhof_Winter_4.jpg/800px-Forstarbeiterdenkmal_Oberhof_Winter_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Forstarbeiterdenkmal_Oberhof_Winter_4.jpg/1200px-Forstarbeiterdenkmal_Oberhof_Winter_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Forstarbeiterdenkmal_Oberhof_Winter_4.jpg/1920px-Forstarbeiterdenkmal_Oberhof_Winter_4.jpg
+  Waldarbeiterdenkmal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Waldarbeiterdenkmal.JPG/400px-Waldarbeiterdenkmal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Waldarbeiterdenkmal.JPG/800px-Waldarbeiterdenkmal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Waldarbeiterdenkmal.JPG/1200px-Waldarbeiterdenkmal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Waldarbeiterdenkmal.JPG/1920px-Waldarbeiterdenkmal.JPG
 ---
 
 ## Overview

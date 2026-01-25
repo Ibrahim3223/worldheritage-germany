@@ -13,7 +13,7 @@ regions:
 latitude: 50.364166666
 longitude: 7.605555555
 images:
-  - "/images-sites/middle-rhine/01-da02c54d-800w.webp"
+  - "/images/middle-rhine/01-da02c54d-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 50.6581
 longitude: 8.3274
 images:
-  - "/images-sites/villa-haas/02-ce1e8a1b-800w.webp"
-  - "/images-sites/villa-haas/03-76bead2a-800w.webp"
+  - "/images/villa-haas/02-ce1e8a1b-800w.webp"
+  - "/images/villa-haas/03-76bead2a-800w.webp"
 ---
 
 ## Overview

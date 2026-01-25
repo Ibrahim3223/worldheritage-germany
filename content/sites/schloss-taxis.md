@@ -21,7 +21,7 @@ longitude: 10.371777777
 
 # Images
 images:
-  - "/images-sites/schloss-taxis/01-e99960b4-800w.webp"
+  - "/images/schloss-taxis/01-e99960b4-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Windeck"
+title: Burg Windeck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8137
 longitude: 7.57888
-
-# Images
 images:
-  - "/images-sites/burg-windeck/01-a9252b80-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Windeck_im_Herbst.jpg/1200px-Burg_Windeck_im_Herbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Windeck,_Luftaufnahme.jpg/1200px-Burg_Windeck,_Luftaufnahme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BurgWindeckSieg.jpg/1200px-BurgWindeckSieg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Windeck_Panorama.jpg/1200px-Burg_Windeck_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_windeck_grundriss.jpg/1200px-Burg_windeck_grundriss.jpg
+image_srcset:
+  Burg Windeck im Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Windeck_im_Herbst.jpg/400px-Burg_Windeck_im_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Windeck_im_Herbst.jpg/800px-Burg_Windeck_im_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Windeck_im_Herbst.jpg/1200px-Burg_Windeck_im_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Windeck_im_Herbst.jpg/1920px-Burg_Windeck_im_Herbst.jpg
+  Burg Windeck, Luftaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Windeck,_Luftaufnahme.jpg/400px-Burg_Windeck,_Luftaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Windeck,_Luftaufnahme.jpg/800px-Burg_Windeck,_Luftaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Windeck,_Luftaufnahme.jpg/1200px-Burg_Windeck,_Luftaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Windeck,_Luftaufnahme.jpg/1920px-Burg_Windeck,_Luftaufnahme.jpg
+  BurgWindeckSieg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BurgWindeckSieg.jpg/400px-BurgWindeckSieg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BurgWindeckSieg.jpg/800px-BurgWindeckSieg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BurgWindeckSieg.jpg/1200px-BurgWindeckSieg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BurgWindeckSieg.jpg/1920px-BurgWindeckSieg.jpg
+  Burg Windeck Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Windeck_Panorama.jpg/400px-Burg_Windeck_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Windeck_Panorama.jpg/800px-Burg_Windeck_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Windeck_Panorama.jpg/1200px-Burg_Windeck_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burg_Windeck_Panorama.jpg/1920px-Burg_Windeck_Panorama.jpg
+  Burg windeck grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_windeck_grundriss.jpg/400px-Burg_windeck_grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_windeck_grundriss.jpg/800px-Burg_windeck_grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_windeck_grundriss.jpg/1200px-Burg_windeck_grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Burg_windeck_grundriss.jpg/1920px-Burg_windeck_grundriss.jpg
 ---
 
 ## Overview

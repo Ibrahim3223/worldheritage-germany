@@ -13,9 +13,9 @@ regions:
 latitude: 50.0199
 longitude: 11.2022
 images:
-  - "/images-sites/kleinziegenfelder-valley/01-e1b60a8f-800w.webp"
-  - "/images-sites/kleinziegenfelder-valley/02-1109669a-800w.webp"
-  - "/images-sites/kleinziegenfelder-valley/03-18442844-800w.webp"
+  - "/images/kleinziegenfelder-valley/01-e1b60a8f-800w.webp"
+  - "/images/kleinziegenfelder-valley/02-1109669a-800w.webp"
+  - "/images/kleinziegenfelder-valley/03-18442844-800w.webp"
 ---
 
 ## Overview

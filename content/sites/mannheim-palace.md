@@ -13,9 +13,9 @@ regions:
 latitude: 49.4829
 longitude: 8.46177
 images:
-  - "/images-sites/mannheim-palace/01-290c3a74-800w.webp"
-  - "/images-sites/mannheim-palace/02-d1781ede-800w.webp"
-  - "/images-sites/mannheim-palace/03-d2dc41b2-800w.webp"
+  - "/images/mannheim-palace/01-290c3a74-800w.webp"
+  - "/images/mannheim-palace/02-d1781ede-800w.webp"
+  - "/images/mannheim-palace/03-d2dc41b2-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,43 @@
 ---
-title: "Haus Bamenohl"
+title: Haus Bamenohl
 date: 2026-01-23
 draft: false
-description: "Castle in the town of Finnentrop (Olpe district), Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in the town of Finnentrop (Olpe district), Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.161666666
 longitude: 7.987222222
-
-# Images
 images:
-  - "/images-sites/haus-bamenohl/01-09a76f6b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haus_Bamenohl-Winter.jpg/1200px-Haus_Bamenohl-Winter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bamenohl_HausBamenohl_2007.jpg/1200px-Bamenohl_HausBamenohl_2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamenohl_HausBamenohl_1940.jpg/1200px-Bamenohl_HausBamenohl_1940.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Haus_Bamenohl-front.png/1200px-Haus_Bamenohl-front.png
+image_srcset:
+  Haus Bamenohl-Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haus_Bamenohl-Winter.jpg/400px-Haus_Bamenohl-Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haus_Bamenohl-Winter.jpg/800px-Haus_Bamenohl-Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haus_Bamenohl-Winter.jpg/1200px-Haus_Bamenohl-Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haus_Bamenohl-Winter.jpg/1920px-Haus_Bamenohl-Winter.jpg
+  Bamenohl HausBamenohl 2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bamenohl_HausBamenohl_2007.jpg/400px-Bamenohl_HausBamenohl_2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bamenohl_HausBamenohl_2007.jpg/800px-Bamenohl_HausBamenohl_2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bamenohl_HausBamenohl_2007.jpg/1200px-Bamenohl_HausBamenohl_2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bamenohl_HausBamenohl_2007.jpg/1920px-Bamenohl_HausBamenohl_2007.jpg
+  Bamenohl HausBamenohl 1940.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamenohl_HausBamenohl_1940.jpg/400px-Bamenohl_HausBamenohl_1940.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamenohl_HausBamenohl_1940.jpg/800px-Bamenohl_HausBamenohl_1940.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamenohl_HausBamenohl_1940.jpg/1200px-Bamenohl_HausBamenohl_1940.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bamenohl_HausBamenohl_1940.jpg/1920px-Bamenohl_HausBamenohl_1940.jpg
+  Haus Bamenohl-front.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Haus_Bamenohl-front.png/400px-Haus_Bamenohl-front.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Haus_Bamenohl-front.png/800px-Haus_Bamenohl-front.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Haus_Bamenohl-front.png/1200px-Haus_Bamenohl-front.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Haus_Bamenohl-front.png/1920px-Haus_Bamenohl-front.png
 ---
 
 ## Overview

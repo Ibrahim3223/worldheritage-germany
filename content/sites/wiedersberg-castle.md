@@ -21,9 +21,9 @@ longitude: 11.9983
 
 # Images
 images:
-  - "/images-sites/wiedersberg-castle/01-aadf32b2-800w.webp"
-  - "/images-sites/wiedersberg-castle/02-9124104f-800w.webp"
-  - "/images-sites/wiedersberg-castle/03-48333974-800w.webp"
+  - "/images/wiedersberg-castle/01-aadf32b2-800w.webp"
+  - "/images/wiedersberg-castle/02-9124104f-800w.webp"
+  - "/images/wiedersberg-castle/03-48333974-800w.webp"
 ---
 
 ## Overview

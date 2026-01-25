@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1499140"
 description: "Imagine stepping into a space that reflects a modern interpretation of spirituality and community. The Luther Church, located in Münster, Germany, embod..."
 images:
-  - "/images-sites/luther-church/01-b56483a8-1920w.webp"
-  - "/images-sites/luther-church/02-1afdcea4-1920w.webp"
-  - "/images-sites/luther-church/03-a0b68322-1920w.webp"
+  - "/images/luther-church/01-b56483a8-1920w.webp"
+  - "/images/luther-church/02-1afdcea4-1920w.webp"
+  - "/images/luther-church/03-a0b68322-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q347216"
 description: "In the heart of Würzburg, Germany, the Saint Adalbero Church stands as a prominent example of Romanesque Revival architecture. This parish church in San..."
 images:
-  - "/images-sites/saint-adalbero-church/01-c3a56271-1920w.webp"
-  - "/images-sites/saint-adalbero-church/02-84e08970-1920w.webp"
-  - "/images-sites/saint-adalbero-church/03-c4c6f3e1-1920w.webp"
+  - "/images/saint-adalbero-church/01-c3a56271-1920w.webp"
+  - "/images/saint-adalbero-church/02-84e08970-1920w.webp"
+  - "/images/saint-adalbero-church/03-c4c6f3e1-1920w.webp"
 ---
 
 ## Overview

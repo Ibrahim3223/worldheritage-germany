@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2317034"
 description: "In the heart of Berlin-Friedrichshain, the St.-Andreas-Kirche once stood as a remarkable example of Rundbogenstil architecture, characterized by its rou..."
 images:
-  - "/images-sites/st-andreas-kirche/01-c8b32fd5-1920w.webp"
-  - "/images-sites/st-andreas-kirche/02-6e0a0e7b-1920w.webp"
-  - "/images-sites/st-andreas-kirche/03-177d9239-1920w.webp"
+  - "/images/st-andreas-kirche/01-c8b32fd5-1920w.webp"
+  - "/images/st-andreas-kirche/02-6e0a0e7b-1920w.webp"
+  - "/images/st-andreas-kirche/03-177d9239-1920w.webp"
 ---
 
 ## Overview

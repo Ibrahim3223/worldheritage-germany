@@ -1,21 +1,49 @@
 ---
-title: "Justizpalast"
+title: Justizpalast
 date: 2026-01-23
 draft: false
-description: "courthouse in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Courthouse"
+description: courthouse in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Courthouse
 categories:
-  - "Courthouse"
+- Courthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1406
 longitude: 11.5647
 images:
-  - "/images-sites/justizpalast/01-e8e31ce2-800w.webp"
-  - "/images-sites/justizpalast/02-7a9bb554-800w.webp"
-  - "/images-sites/justizpalast/03-db378e4b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_image_of_Justizpalast_Munich.jpg/1200px-Aerial_image_of_Justizpalast_Munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Justizpalast_at_dusk.JPG/1200px-Justizpalast_at_dusk.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Justizpalast_at_dusk_2.JPG/1200px-Justizpalast_at_dusk_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Munich_-_Justizpalast_04.jpg/1200px-Munich_-_Justizpalast_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Justizpalast_München.jpg/1200px-Justizpalast_München.jpg
+image_srcset:
+  Aerial image of Justizpalast Munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_image_of_Justizpalast_Munich.jpg/400px-Aerial_image_of_Justizpalast_Munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_image_of_Justizpalast_Munich.jpg/800px-Aerial_image_of_Justizpalast_Munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_image_of_Justizpalast_Munich.jpg/1200px-Aerial_image_of_Justizpalast_Munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aerial_image_of_Justizpalast_Munich.jpg/1920px-Aerial_image_of_Justizpalast_Munich.jpg
+  Justizpalast at dusk.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Justizpalast_at_dusk.JPG/400px-Justizpalast_at_dusk.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Justizpalast_at_dusk.JPG/800px-Justizpalast_at_dusk.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Justizpalast_at_dusk.JPG/1200px-Justizpalast_at_dusk.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Justizpalast_at_dusk.JPG/1920px-Justizpalast_at_dusk.JPG
+  Justizpalast at dusk 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Justizpalast_at_dusk_2.JPG/400px-Justizpalast_at_dusk_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Justizpalast_at_dusk_2.JPG/800px-Justizpalast_at_dusk_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Justizpalast_at_dusk_2.JPG/1200px-Justizpalast_at_dusk_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Justizpalast_at_dusk_2.JPG/1920px-Justizpalast_at_dusk_2.JPG
+  Munich - Justizpalast 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Munich_-_Justizpalast_04.jpg/400px-Munich_-_Justizpalast_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Munich_-_Justizpalast_04.jpg/800px-Munich_-_Justizpalast_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Munich_-_Justizpalast_04.jpg/1200px-Munich_-_Justizpalast_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Munich_-_Justizpalast_04.jpg/1920px-Munich_-_Justizpalast_04.jpg
+  Justizpalast München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Justizpalast_München.jpg/400px-Justizpalast_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Justizpalast_München.jpg/800px-Justizpalast_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Justizpalast_München.jpg/1200px-Justizpalast_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Justizpalast_München.jpg/1920px-Justizpalast_München.jpg
 ---
 
 ## Overview

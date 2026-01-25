@@ -1,19 +1,49 @@
 ---
-title: "Alexandrowka"
+title: Alexandrowka
 date: 2026-01-23
 draft: false
-description: "Russian architectural ensemble in Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: Russian architectural ensemble in Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.41056
 longitude: 13.05694
 images:
-  - "/images-sites/alexandrowka/01-1fc3159d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eine_Straße_in_Alexandrowka.jpg/1200px-Eine_Straße_in_Alexandrowka.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/1200px-Schloss_Cecilienhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1200px-Potsdam_Alexandrowka_02-14_img2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015-10_Potsdam-Nauener_Vorstadt_(5).jpg/1200px-2015-10_Potsdam-Nauener_Vorstadt_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015-10_Potsdam-Nauener_Vorstadt_(3).jpg/1200px-2015-10_Potsdam-Nauener_Vorstadt_(3).jpg
+image_srcset:
+  Eine Straße in Alexandrowka.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eine_Straße_in_Alexandrowka.jpg/400px-Eine_Straße_in_Alexandrowka.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eine_Straße_in_Alexandrowka.jpg/800px-Eine_Straße_in_Alexandrowka.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eine_Straße_in_Alexandrowka.jpg/1200px-Eine_Straße_in_Alexandrowka.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eine_Straße_in_Alexandrowka.jpg/1920px-Eine_Straße_in_Alexandrowka.jpg
+  Schloss Cecilienhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/400px-Schloss_Cecilienhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/800px-Schloss_Cecilienhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/1200px-Schloss_Cecilienhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schloss_Cecilienhof.jpg/1920px-Schloss_Cecilienhof.jpg
+  Potsdam Alexandrowka 02-14 img2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/400px-Potsdam_Alexandrowka_02-14_img2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/800px-Potsdam_Alexandrowka_02-14_img2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1200px-Potsdam_Alexandrowka_02-14_img2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Potsdam_Alexandrowka_02-14_img2.jpg/1920px-Potsdam_Alexandrowka_02-14_img2.jpg
+  2015-10 Potsdam-Nauener Vorstadt (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015-10_Potsdam-Nauener_Vorstadt_(5).jpg/400px-2015-10_Potsdam-Nauener_Vorstadt_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015-10_Potsdam-Nauener_Vorstadt_(5).jpg/800px-2015-10_Potsdam-Nauener_Vorstadt_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015-10_Potsdam-Nauener_Vorstadt_(5).jpg/1200px-2015-10_Potsdam-Nauener_Vorstadt_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2015-10_Potsdam-Nauener_Vorstadt_(5).jpg/1920px-2015-10_Potsdam-Nauener_Vorstadt_(5).jpg
+  2015-10 Potsdam-Nauener Vorstadt (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015-10_Potsdam-Nauener_Vorstadt_(3).jpg/400px-2015-10_Potsdam-Nauener_Vorstadt_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015-10_Potsdam-Nauener_Vorstadt_(3).jpg/800px-2015-10_Potsdam-Nauener_Vorstadt_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015-10_Potsdam-Nauener_Vorstadt_(3).jpg/1200px-2015-10_Potsdam-Nauener_Vorstadt_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2015-10_Potsdam-Nauener_Vorstadt_(3).jpg/1920px-2015-10_Potsdam-Nauener_Vorstadt_(3).jpg
 ---
 
 ## Overview

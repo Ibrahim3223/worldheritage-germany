@@ -13,7 +13,7 @@ regions:
 latitude: 54.795
 longitude: 9.65
 images:
-  - "/images-sites/landschaftsmuseum-angeln/01-62565db2-800w.webp"
+  - "/images/landschaftsmuseum-angeln/01-62565db2-800w.webp"
 ---
 
 ## Overview

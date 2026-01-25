@@ -13,7 +13,7 @@ regions:
 latitude: 52.486388888
 longitude: 13.403888888
 images:
-  - "/images-sites/luisenstadt-cemetery/01-fbbdeb82-800w.webp"
+  - "/images/luisenstadt-cemetery/01-fbbdeb82-800w.webp"
 ---
 
 ## Overview

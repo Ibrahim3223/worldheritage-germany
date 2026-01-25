@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1764508"
 description: "In the heart of Berlin, where modernity intertwines with history, Segen Church stands as a remarkable example of Renaissance Revival architecture. This ..."
 images:
-  - "/images-sites/segen-church/01-2498e40b-1920w.webp"
-  - "/images-sites/segen-church/02-bc234f6e-1920w.webp"
-  - "/images-sites/segen-church/03-859b9200-1920w.webp"
+  - "/images/segen-church/01-2498e40b-1920w.webp"
+  - "/images/segen-church/02-bc234f6e-1920w.webp"
+  - "/images/segen-church/03-859b9200-1920w.webp"
 ---
 
 ## Overview

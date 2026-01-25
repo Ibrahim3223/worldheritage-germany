@@ -21,9 +21,9 @@ longitude: 7.844775
 
 # Images
 images:
-  - "/images-sites/kronenbruecke/01-93d9a34c-800w.webp"
-  - "/images-sites/kronenbruecke/02-24c2cf93-800w.webp"
-  - "/images-sites/kronenbruecke/03-90dece74-800w.webp"
+  - "/images/kronenbruecke/01-93d9a34c-800w.webp"
+  - "/images/kronenbruecke/02-24c2cf93-800w.webp"
+  - "/images/kronenbruecke/03-90dece74-800w.webp"
 ---
 
 ## Overview

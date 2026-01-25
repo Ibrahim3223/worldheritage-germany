@@ -1,21 +1,49 @@
 ---
-title: "Benediktbeuern Abbey"
+title: Benediktbeuern Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.707774256
 longitude: 11.399005363
 images:
-  - "/images-sites/benediktbeuern-abbey/01-12f62680-800w.webp"
-  - "/images-sites/benediktbeuern-abbey/02-f27b27d3-800w.webp"
-  - "/images-sites/benediktbeuern-abbey/03-661f2049-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg/1200px-Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg/1200px-Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg/1200px-Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/1200px-Benediktbeuern_6796.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kloster_Benediktbeuern-1.jpg/1200px-Kloster_Benediktbeuern-1.jpg
+image_srcset:
+  Kloster Benediktbeuern - Säulengang - Panorama (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg/400px-Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg/800px-Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg/1200px-Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg/1920px-Kloster_Benediktbeuern_-_Säulengang_-_Panorama_(1).jpg
+  Kreuzgang Kloster Benediktbeuern - Westflügel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg/400px-Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg/800px-Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg/1200px-Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg/1920px-Kreuzgang_Kloster_Benediktbeuern_-_Westflügel.jpg
+  Ehem. Speisesaal Kloster Benediktbeuern 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg/400px-Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg/800px-Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg/1200px-Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg/1920px-Ehem._Speisesaal_Kloster_Benediktbeuern_01.jpg
+  Benediktbeuern 6796.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/400px-Benediktbeuern_6796.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/800px-Benediktbeuern_6796.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/1200px-Benediktbeuern_6796.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Benediktbeuern_6796.jpg/1920px-Benediktbeuern_6796.jpg
+  Kloster Benediktbeuern-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kloster_Benediktbeuern-1.jpg/400px-Kloster_Benediktbeuern-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kloster_Benediktbeuern-1.jpg/800px-Kloster_Benediktbeuern-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kloster_Benediktbeuern-1.jpg/1200px-Kloster_Benediktbeuern-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kloster_Benediktbeuern-1.jpg/1920px-Kloster_Benediktbeuern-1.jpg
 ---
 
 ## Overview

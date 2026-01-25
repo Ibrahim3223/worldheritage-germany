@@ -1,29 +1,49 @@
 ---
-title: "Flensburger Brauerei"
+title: Flensburger Brauerei
 date: 2026-01-23
 draft: false
-description: "brewery in Flensburg, Schleswig-Holstein, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Flensburg, Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.779055555
 longitude: 9.435722222
-
-# Images
 images:
-  - "/images-sites/flensburger-brauerei/01-210344f9-800w.webp"
-  - "/images-sites/flensburger-brauerei/02-681f9264-800w.webp"
-  - "/images-sites/flensburger-brauerei/03-0c41f683-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg/1200px-Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flensburger_Brauerei_-_Gold.jpg/1200px-Flensburger_Brauerei_-_Gold.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg/1200px-Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flensburger_Brauerei_-_Flensburger_Dunkel.jpg/1200px-Flensburger_Brauerei_-_Flensburger_Dunkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1200px-Flensborg_Bryggeri.JPG
+image_srcset:
+  Flensburger Brauerei - Flensburger Frühlingsbock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg/400px-Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg/800px-Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg/1200px-Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg/1920px-Flensburger_Brauerei_-_Flensburger_Frühlingsbock.jpg
+  Flensburger Brauerei - Gold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flensburger_Brauerei_-_Gold.jpg/400px-Flensburger_Brauerei_-_Gold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flensburger_Brauerei_-_Gold.jpg/800px-Flensburger_Brauerei_-_Gold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flensburger_Brauerei_-_Gold.jpg/1200px-Flensburger_Brauerei_-_Gold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flensburger_Brauerei_-_Gold.jpg/1920px-Flensburger_Brauerei_-_Gold.jpg
+  Flensburger Brauerei - Flensburger Edles Helles.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg/400px-Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg/800px-Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg/1200px-Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg/1920px-Flensburger_Brauerei_-_Flensburger_Edles_Helles.jpg
+  Flensburger Brauerei - Flensburger Dunkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flensburger_Brauerei_-_Flensburger_Dunkel.jpg/400px-Flensburger_Brauerei_-_Flensburger_Dunkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flensburger_Brauerei_-_Flensburger_Dunkel.jpg/800px-Flensburger_Brauerei_-_Flensburger_Dunkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flensburger_Brauerei_-_Flensburger_Dunkel.jpg/1200px-Flensburger_Brauerei_-_Flensburger_Dunkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flensburger_Brauerei_-_Flensburger_Dunkel.jpg/1920px-Flensburger_Brauerei_-_Flensburger_Dunkel.jpg
+  Flensborg Bryggeri.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/400px-Flensborg_Bryggeri.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/800px-Flensborg_Bryggeri.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1200px-Flensborg_Bryggeri.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flensborg_Bryggeri.JPG/1920px-Flensborg_Bryggeri.JPG
 ---
 
 ## Overview

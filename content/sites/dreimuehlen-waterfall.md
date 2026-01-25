@@ -1,21 +1,49 @@
 ---
-title: "Dreimühlen waterfall"
+title: Dreimühlen waterfall
 date: 2026-01-24
 draft: false
-description: "waterfall in Üxheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: waterfall in Üxheim, Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.325
 longitude: 6.769
 images:
-  - "/images-sites/dreimuehlen-waterfall/01-bd948cfa-800w.webp"
-  - "/images-sites/dreimuehlen-waterfall/02-8ff4e25c-800w.webp"
-  - "/images-sites/dreimuehlen-waterfall/03-621da0b1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-05-29-Wasserfall_Dreimühlen-9410.jpg/1200px-2022-05-29-Wasserfall_Dreimühlen-9410.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-10-16-Dreimühlen-Wasserfall-0508.jpg/1200px-2020-10-16-Dreimühlen-Wasserfall-0508.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2016-02-27_Dreimuehlen-0031.jpg/1200px-2016-02-27_Dreimuehlen-0031.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wasserfall_Dreimühlen_2017-04-14.jpg/1200px-Wasserfall_Dreimühlen_2017-04-14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wasserfall_Dreimühlen_2017-04-14_-_3.jpg/1200px-Wasserfall_Dreimühlen_2017-04-14_-_3.jpg
+image_srcset:
+  2022-05-29-Wasserfall Dreimühlen-9410.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-05-29-Wasserfall_Dreimühlen-9410.jpg/400px-2022-05-29-Wasserfall_Dreimühlen-9410.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-05-29-Wasserfall_Dreimühlen-9410.jpg/800px-2022-05-29-Wasserfall_Dreimühlen-9410.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-05-29-Wasserfall_Dreimühlen-9410.jpg/1200px-2022-05-29-Wasserfall_Dreimühlen-9410.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-05-29-Wasserfall_Dreimühlen-9410.jpg/1920px-2022-05-29-Wasserfall_Dreimühlen-9410.jpg
+  2020-10-16-Dreimühlen-Wasserfall-0508.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-10-16-Dreimühlen-Wasserfall-0508.jpg/400px-2020-10-16-Dreimühlen-Wasserfall-0508.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-10-16-Dreimühlen-Wasserfall-0508.jpg/800px-2020-10-16-Dreimühlen-Wasserfall-0508.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-10-16-Dreimühlen-Wasserfall-0508.jpg/1200px-2020-10-16-Dreimühlen-Wasserfall-0508.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-10-16-Dreimühlen-Wasserfall-0508.jpg/1920px-2020-10-16-Dreimühlen-Wasserfall-0508.jpg
+  2016-02-27 Dreimuehlen-0031.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2016-02-27_Dreimuehlen-0031.jpg/400px-2016-02-27_Dreimuehlen-0031.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2016-02-27_Dreimuehlen-0031.jpg/800px-2016-02-27_Dreimuehlen-0031.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2016-02-27_Dreimuehlen-0031.jpg/1200px-2016-02-27_Dreimuehlen-0031.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2016-02-27_Dreimuehlen-0031.jpg/1920px-2016-02-27_Dreimuehlen-0031.jpg
+  Wasserfall Dreimühlen 2017-04-14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wasserfall_Dreimühlen_2017-04-14.jpg/400px-Wasserfall_Dreimühlen_2017-04-14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wasserfall_Dreimühlen_2017-04-14.jpg/800px-Wasserfall_Dreimühlen_2017-04-14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wasserfall_Dreimühlen_2017-04-14.jpg/1200px-Wasserfall_Dreimühlen_2017-04-14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wasserfall_Dreimühlen_2017-04-14.jpg/1920px-Wasserfall_Dreimühlen_2017-04-14.jpg
+  Wasserfall Dreimühlen 2017-04-14 - 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wasserfall_Dreimühlen_2017-04-14_-_3.jpg/400px-Wasserfall_Dreimühlen_2017-04-14_-_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wasserfall_Dreimühlen_2017-04-14_-_3.jpg/800px-Wasserfall_Dreimühlen_2017-04-14_-_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wasserfall_Dreimühlen_2017-04-14_-_3.jpg/1200px-Wasserfall_Dreimühlen_2017-04-14_-_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wasserfall_Dreimühlen_2017-04-14_-_3.jpg/1920px-Wasserfall_Dreimühlen_2017-04-14_-_3.jpg
 ---
 
 ## Overview

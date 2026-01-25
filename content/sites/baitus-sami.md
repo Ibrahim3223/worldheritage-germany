@@ -1,19 +1,49 @@
 ---
-title: "Baitus Sami"
+title: Baitus Sami
 date: 2026-01-23
 draft: false
-description: "mosque in Hanover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Hanover, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 52.429633966
 longitude: 9.65812469
 images:
-  - "/images-sites/baitus-sami/01-c0f2872c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sami-Moschee_Hannover_1066.jpg/1200px-Sami-Moschee_Hannover_1066.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG/1200px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sami-Moschee_Hannover_1065.jpg/1200px-Sami-Moschee_Hannover_1065.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1200px-Bait_us-Sami.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG/1200px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG
+image_srcset:
+  Sami-Moschee Hannover 1066.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sami-Moschee_Hannover_1066.jpg/400px-Sami-Moschee_Hannover_1066.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sami-Moschee_Hannover_1066.jpg/800px-Sami-Moschee_Hannover_1066.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sami-Moschee_Hannover_1066.jpg/1200px-Sami-Moschee_Hannover_1066.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sami-Moschee_Hannover_1066.jpg/1920px-Sami-Moschee_Hannover_1066.jpg
+  2016-07-27 Ahmadiyya Muslim Jamaat Deutschland, Islamausstellung Hannover Am Steintor (100).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG/400px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG/800px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG/1200px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG/1920px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(100).JPG
+  Sami-Moschee Hannover 1065.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sami-Moschee_Hannover_1065.jpg/400px-Sami-Moschee_Hannover_1065.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sami-Moschee_Hannover_1065.jpg/800px-Sami-Moschee_Hannover_1065.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sami-Moschee_Hannover_1065.jpg/1200px-Sami-Moschee_Hannover_1065.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sami-Moschee_Hannover_1065.jpg/1920px-Sami-Moschee_Hannover_1065.jpg
+  Bait us-Sami.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/400px-Bait_us-Sami.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/800px-Bait_us-Sami.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1200px-Bait_us-Sami.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bait_us-Sami.jpg/1920px-Bait_us-Sami.jpg
+  2016-07-27 Ahmadiyya Muslim Jamaat Deutschland, Islamausstellung Hannover Am Steintor (103).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG/400px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG/800px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG/1200px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG/1920px-2016-07-27_Ahmadiyya_Muslim_Jamaat_Deutschland,_Islamausstellung_Hannover_Am_Steintor_(103).JPG
 ---
 
 ## Overview

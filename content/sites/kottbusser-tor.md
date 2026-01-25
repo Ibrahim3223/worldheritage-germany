@@ -13,7 +13,7 @@ regions:
 latitude: 52.4992
 longitude: 13.4181
 images:
-  - "/images-sites/kottbusser-tor/01-d81c9e06-800w.webp"
+  - "/images/kottbusser-tor/01-d81c9e06-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1977303"
 description: "At the heart of Nendorp, Germany, stands a remarkable structure known as Nendorp Church, an example of Neoclassical architecture that captivates visitor..."
 images:
-  - "/images-sites/nendorp-church-jemgum/01-f28d7138-1920w.webp"
-  - "/images-sites/nendorp-church-jemgum/02-98a3b7fe-1920w.webp"
-  - "/images-sites/nendorp-church-jemgum/03-51e143ca-1920w.webp"
+  - "/images/nendorp-church-jemgum/01-f28d7138-1920w.webp"
+  - "/images/nendorp-church-jemgum/02-98a3b7fe-1920w.webp"
+  - "/images/nendorp-church-jemgum/03-51e143ca-1920w.webp"
 ---
 
 ## Overview

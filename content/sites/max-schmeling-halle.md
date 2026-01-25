@@ -13,7 +13,7 @@ regions:
 latitude: 52.544792
 longitude: 13.404484
 images:
-  - "/images-sites/max-schmeling-halle/01-e804a05f-800w.webp"
+  - "/images/max-schmeling-halle/01-e804a05f-800w.webp"
 ---
 
 ## Overview

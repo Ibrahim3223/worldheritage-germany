@@ -1,27 +1,49 @@
 ---
-title: "Gemäldegalerie Berlin"
+title: Gemäldegalerie Berlin
 date: 2026-01-23
 draft: false
-description: "art museum in Berlin, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.508611111
 longitude: 13.364722222
-
-# Images
 images:
-  - "/images-sites/gemaeldegalerie-berlin/01-42051c0c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/1200px-Kulturforum.Berlin.Portal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kulturforum_2015.JPG/1200px-Kulturforum_2015.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg/1200px-Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2015-10_Berlin-Tiergarten_(61).jpg/1200px-2015-10_Berlin-Tiergarten_(61).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berlin_Kulturforum_2002a.jpg/1200px-Berlin_Kulturforum_2002a.jpg
+image_srcset:
+  Kulturforum.Berlin.Portal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/400px-Kulturforum.Berlin.Portal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/800px-Kulturforum.Berlin.Portal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/1200px-Kulturforum.Berlin.Portal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kulturforum.Berlin.Portal.jpg/1920px-Kulturforum.Berlin.Portal.jpg
+  Kulturforum 2015.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kulturforum_2015.JPG/400px-Kulturforum_2015.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kulturforum_2015.JPG/800px-Kulturforum_2015.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kulturforum_2015.JPG/1200px-Kulturforum_2015.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kulturforum_2015.JPG/1920px-Kulturforum_2015.JPG
+  Vitrine im Raum 35 der Gemäldegalerie Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg/400px-Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg/800px-Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg/1200px-Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg/1920px-Vitrine_im_Raum_35_der_Gemäldegalerie_Berlin.jpg
+  2015-10 Berlin-Tiergarten (61).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2015-10_Berlin-Tiergarten_(61).jpg/400px-2015-10_Berlin-Tiergarten_(61).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2015-10_Berlin-Tiergarten_(61).jpg/800px-2015-10_Berlin-Tiergarten_(61).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2015-10_Berlin-Tiergarten_(61).jpg/1200px-2015-10_Berlin-Tiergarten_(61).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2015-10_Berlin-Tiergarten_(61).jpg/1920px-2015-10_Berlin-Tiergarten_(61).jpg
+  Berlin Kulturforum 2002a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berlin_Kulturforum_2002a.jpg/400px-Berlin_Kulturforum_2002a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berlin_Kulturforum_2002a.jpg/800px-Berlin_Kulturforum_2002a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berlin_Kulturforum_2002a.jpg/1200px-Berlin_Kulturforum_2002a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Berlin_Kulturforum_2002a.jpg/1920px-Berlin_Kulturforum_2002a.jpg
 ---
 
 ## Overview

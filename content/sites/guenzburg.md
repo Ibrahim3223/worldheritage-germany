@@ -1,19 +1,49 @@
 ---
-title: "Günzburg"
+title: Günzburg
 date: 2026-01-23
 draft: false
-description: "railway station in Günzburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Günzburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4602
 longitude: 10.2786
 images:
-  - "/images-sites/guenzburg/01-29557709-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Am_Hechtweiher.jpg/1200px-Am_Hechtweiher.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Merian_Günzburg_Topagraphia_Sueviae.png/1200px-Merian_Günzburg_Topagraphia_Sueviae.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Innenstadt_Guenzburg_02.JPG/1200px-Innenstadt_Guenzburg_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png/1200px-Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png/1200px-Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png
+image_srcset:
+  Am Hechtweiher.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Am_Hechtweiher.jpg/400px-Am_Hechtweiher.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Am_Hechtweiher.jpg/800px-Am_Hechtweiher.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Am_Hechtweiher.jpg/1200px-Am_Hechtweiher.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Am_Hechtweiher.jpg/1920px-Am_Hechtweiher.jpg
+  Merian Günzburg Topagraphia Sueviae.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Merian_Günzburg_Topagraphia_Sueviae.png/400px-Merian_Günzburg_Topagraphia_Sueviae.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Merian_Günzburg_Topagraphia_Sueviae.png/800px-Merian_Günzburg_Topagraphia_Sueviae.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Merian_Günzburg_Topagraphia_Sueviae.png/1200px-Merian_Günzburg_Topagraphia_Sueviae.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Merian_Günzburg_Topagraphia_Sueviae.png/1920px-Merian_Günzburg_Topagraphia_Sueviae.png
+  Innenstadt Guenzburg 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Innenstadt_Guenzburg_02.JPG/400px-Innenstadt_Guenzburg_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Innenstadt_Guenzburg_02.JPG/800px-Innenstadt_Guenzburg_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Innenstadt_Guenzburg_02.JPG/1200px-Innenstadt_Guenzburg_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Innenstadt_Guenzburg_02.JPG/1920px-Innenstadt_Guenzburg_02.JPG
+  Günzburg Ehrenspiegel des Hauses Habsburg 1559.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png/400px-Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png/800px-Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png/1200px-Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png/1920px-Günzburg_Ehrenspiegel_des_Hauses_Habsburg_1559.png
+  Schematische Darstellung des römischen Günzburgs (Gontia).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png/400px-Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png/800px-Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png/1200px-Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png/1920px-Schematische_Darstellung_des_römischen_Günzburgs_(Gontia).png
 ---
 
 ## Overview

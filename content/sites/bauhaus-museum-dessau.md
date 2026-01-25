@@ -1,19 +1,49 @@
 ---
-title: "Bauhaus Museum Dessau"
+title: Bauhaus Museum Dessau
 date: 2026-01-23
 draft: false
-description: "design museum in Dessau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: design museum in Dessau, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8346
 longitude: 12.2421
 images:
-  - "/images-sites/bauhaus-museum-dessau/01-64d5e336-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/1200px-2020-09-24-Bauhaus-Museum-Dessau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg/1200px-Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-09-25-Bauhaus-Museum-Dessau-EG.jpg/1200px-2020-09-25-Bauhaus-Museum-Dessau-EG.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg/1200px-20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg/1200px-20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg
+image_srcset:
+  2020-09-24-Bauhaus-Museum-Dessau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/400px-2020-09-24-Bauhaus-Museum-Dessau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/800px-2020-09-24-Bauhaus-Museum-Dessau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/1200px-2020-09-24-Bauhaus-Museum-Dessau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/1920px-2020-09-24-Bauhaus-Museum-Dessau.jpg
+  Dessau, Bauhaus Museum, Eröffnung mit Kanzlerin Angela Merkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg/400px-Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg/800px-Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg/1200px-Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg/1920px-Dessau,_Bauhaus_Museum,_Eröffnung_mit_Kanzlerin_Angela_Merkel.jpg
+  2020-09-25-Bauhaus-Museum-Dessau-EG.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-09-25-Bauhaus-Museum-Dessau-EG.jpg/400px-2020-09-25-Bauhaus-Museum-Dessau-EG.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-09-25-Bauhaus-Museum-Dessau-EG.jpg/800px-2020-09-25-Bauhaus-Museum-Dessau-EG.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-09-25-Bauhaus-Museum-Dessau-EG.jpg/1200px-2020-09-25-Bauhaus-Museum-Dessau-EG.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2020-09-25-Bauhaus-Museum-Dessau-EG.jpg/1920px-2020-09-25-Bauhaus-Museum-Dessau-EG.jpg
+  20240217 xl 1454-Bauhaus Museum Dessau 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg/400px-20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg/800px-20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg/1200px-20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg/1920px-20240217_xl_1454-Bauhaus_Museum_Dessau_4.jpg
+  20240217 xl 1454-Bauhaus Museum Dessau 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg/400px-20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg/800px-20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg/1200px-20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg/1920px-20240217_xl_1454-Bauhaus_Museum_Dessau_3.jpg
 ---
 
 ## Overview

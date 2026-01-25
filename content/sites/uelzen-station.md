@@ -13,7 +13,7 @@ regions:
 latitude: 52.9697
 longitude: 10.5531
 images:
-  - "/images-sites/uelzen-station/01-3ce099be-800w.webp"
+  - "/images/uelzen-station/01-3ce099be-800w.webp"
 ---
 
 ## Overview

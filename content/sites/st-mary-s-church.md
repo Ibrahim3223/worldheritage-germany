@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q878468"
 description: "St. Marys Church, located in the northern German town of Flensburg, is a striking example of Gothic architecture that captures the essence of the region..."
 images:
-  - "/images-sites/st-mary-s-church/01-f487ef6f-1920w.webp"
-  - "/images-sites/st-mary-s-church/02-3812e025-1920w.webp"
-  - "/images-sites/st-mary-s-church/02-68526539-1920w.webp"
+  - "/images/st-mary-s-church/01-f487ef6f-1920w.webp"
+  - "/images/st-mary-s-church/02-3812e025-1920w.webp"
+  - "/images/st-mary-s-church/02-68526539-1920w.webp"
 ---
 
 ## Overview

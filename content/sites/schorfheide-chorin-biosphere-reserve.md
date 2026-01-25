@@ -21,7 +21,7 @@ longitude: 13.4
 
 # Images
 images:
-  - "/images-sites/schorfheide-chorin-biosphere-reserve/01-2a3617bc-800w.webp"
+  - "/images/schorfheide-chorin-biosphere-reserve/01-2a3617bc-800w.webp"
 ---
 
 ## Overview 

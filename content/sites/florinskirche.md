@@ -1,24 +1,51 @@
 ---
-title: "Florinskirche"
-site_name: "Florinskirche"
-slug: "florinskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Florinskirche
+site_name: Florinskirche
+slug: florinskirche
+region: North Rhine-Westphalia
 latitude: 50.361925
 longitude: 7.597231
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q829315"
-description: "In the heart of Koblenz, Germany, the Florinskirche stands as a remarkable example of Romanesque architecture, drawing visitors with its historical sign..."
+- church building
+- religious site
+wikidata_id: Q829315
+description: In the heart of Koblenz, Germany, the Florinskirche stands as a remarkable
+  example of Romanesque architecture, drawing visitors with its historical sign...
 images:
-  - "/images-sites/florinskirche/01-2f2564a7-1920w.webp"
-  - "/images-sites/florinskirche/02-a1ce23c5-1920w.webp"
-  - "/images-sites/florinskirche/03-ff0d5601-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00%206053%20Florinskirche%20in%20Koblenz.jpg/1200px-00%206053%20Florinskirche%20in%20Koblenz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg/1200px-Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg/1200px-Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vaduz_Cathedral_of_St._Florin_exterior.jpg/1200px-Vaduz_Cathedral_of_St._Florin_exterior.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg/1200px-Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg
+image_srcset:
+  00%206053%20Florinskirche%20in%20Koblenz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00%206053%20Florinskirche%20in%20Koblenz.jpg/400px-00%206053%20Florinskirche%20in%20Koblenz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00%206053%20Florinskirche%20in%20Koblenz.jpg/800px-00%206053%20Florinskirche%20in%20Koblenz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00%206053%20Florinskirche%20in%20Koblenz.jpg/1200px-00%206053%20Florinskirche%20in%20Koblenz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/00%206053%20Florinskirche%20in%20Koblenz.jpg/1920px-00%206053%20Florinskirche%20in%20Koblenz.jpg
+  Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg/400px-Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg/800px-Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg/1200px-Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg/1920px-Koblenz%20im%20Buga-Jahr%202011%20-%20Florinskirche%2001.jpg
+  Liechtenstein asv2022-10 img19 Vaduz Kathedrale StFlorin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg/400px-Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg/800px-Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg/1200px-Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg/1920px-Liechtenstein_asv2022-10_img19_Vaduz_Kathedrale_StFlorin.jpg
+  Vaduz Cathedral of St. Florin exterior.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vaduz_Cathedral_of_St._Florin_exterior.jpg/400px-Vaduz_Cathedral_of_St._Florin_exterior.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vaduz_Cathedral_of_St._Florin_exterior.jpg/800px-Vaduz_Cathedral_of_St._Florin_exterior.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vaduz_Cathedral_of_St._Florin_exterior.jpg/1200px-Vaduz_Cathedral_of_St._Florin_exterior.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vaduz_Cathedral_of_St._Florin_exterior.jpg/1920px-Vaduz_Cathedral_of_St._Florin_exterior.jpg
+  Liechtenstein asv2022-10 img21 Vaduz Kathedrale StFlorin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg/400px-Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg/800px-Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg/1200px-Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg/1920px-Liechtenstein_asv2022-10_img21_Vaduz_Kathedrale_StFlorin.jpg
 ---
 
 ## Overview

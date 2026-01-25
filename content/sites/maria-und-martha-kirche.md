@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1146679"
 description: "The Maria- und Martha-Kirche, a striking example of Gothic Revival architecture, rises prominently in the heart of Bautzen, Germany. Completed in 1888, ..."
 images:
-  - "/images-sites/maria-und-martha-kirche/01-9779050b-1920w.webp"
-  - "/images-sites/maria-und-martha-kirche/02-394ba03b-1920w.webp"
-  - "/images-sites/maria-und-martha-kirche/03-b2047cff-1920w.webp"
+  - "/images/maria-und-martha-kirche/01-9779050b-1920w.webp"
+  - "/images/maria-und-martha-kirche/02-394ba03b-1920w.webp"
+  - "/images/maria-und-martha-kirche/03-b2047cff-1920w.webp"
 ---
 
 ## Overview

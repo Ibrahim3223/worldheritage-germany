@@ -1,21 +1,49 @@
 ---
-title: "Hasbruch"
+title: Hasbruch
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.07222
 longitude: 8.48056
 images:
-  - "/images-sites/hasbruch/01-76052793-800w.webp"
-  - "/images-sites/hasbruch/02-a13a887a-800w.webp"
-  - "/images-sites/hasbruch/03-99e0e4e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lichteinfall_Hasbruch.jpg/1200px-Lichteinfall_Hasbruch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hude_-_Wegweiser_im_Hasbruch_(2024).jpg/1200px-Hude_-_Wegweiser_im_Hasbruch_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg/1200px-Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Waldweg_im_Hasbruch_(Hude,_2024).jpg/1200px-Waldweg_im_Hasbruch_(Hude,_2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Die_Jagdhütte_im_Hasbruch.jpg/1200px-Die_Jagdhütte_im_Hasbruch.jpg
+image_srcset:
+  Lichteinfall Hasbruch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lichteinfall_Hasbruch.jpg/400px-Lichteinfall_Hasbruch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lichteinfall_Hasbruch.jpg/800px-Lichteinfall_Hasbruch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lichteinfall_Hasbruch.jpg/1200px-Lichteinfall_Hasbruch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lichteinfall_Hasbruch.jpg/1920px-Lichteinfall_Hasbruch.jpg
+  Hude - Wegweiser im Hasbruch (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hude_-_Wegweiser_im_Hasbruch_(2024).jpg/400px-Hude_-_Wegweiser_im_Hasbruch_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hude_-_Wegweiser_im_Hasbruch_(2024).jpg/800px-Hude_-_Wegweiser_im_Hasbruch_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hude_-_Wegweiser_im_Hasbruch_(2024).jpg/1200px-Hude_-_Wegweiser_im_Hasbruch_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hude_-_Wegweiser_im_Hasbruch_(2024).jpg/1920px-Hude_-_Wegweiser_im_Hasbruch_(2024).jpg
+  Georg-Marien-Eiche im Hasbruch (Hude, 2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg/400px-Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg/800px-Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg/1200px-Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg/1920px-Georg-Marien-Eiche_im_Hasbruch_(Hude,_2024).jpg
+  Waldweg im Hasbruch (Hude, 2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Waldweg_im_Hasbruch_(Hude,_2024).jpg/400px-Waldweg_im_Hasbruch_(Hude,_2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Waldweg_im_Hasbruch_(Hude,_2024).jpg/800px-Waldweg_im_Hasbruch_(Hude,_2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Waldweg_im_Hasbruch_(Hude,_2024).jpg/1200px-Waldweg_im_Hasbruch_(Hude,_2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Waldweg_im_Hasbruch_(Hude,_2024).jpg/1920px-Waldweg_im_Hasbruch_(Hude,_2024).jpg
+  Die Jagdhütte im Hasbruch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Die_Jagdhütte_im_Hasbruch.jpg/400px-Die_Jagdhütte_im_Hasbruch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Die_Jagdhütte_im_Hasbruch.jpg/800px-Die_Jagdhütte_im_Hasbruch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Die_Jagdhütte_im_Hasbruch.jpg/1200px-Die_Jagdhütte_im_Hasbruch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Die_Jagdhütte_im_Hasbruch.jpg/1920px-Die_Jagdhütte_im_Hasbruch.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Brigach"
+title: Brigach
 date: 2026-01-23
 draft: false
-description: "river in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 47.950833333
 longitude: 8.520277777
 images:
-  - "/images-sites/brigach/01-7944f505-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg/1200px-Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg/1200px-Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BW_Donaueschingen_Danube_5.jpg/1200px-BW_Donaueschingen_Danube_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/1200px-DE_VS_Brigach_Breg_confluence.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Donaueschingen_Brigach_4320.jpg/1200px-Donaueschingen_Brigach_4320.jpg
+image_srcset:
+  Fürstenberg Braustüble am Postplatz in Donaueschingen (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg/400px-Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg/800px-Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg/1200px-Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg/1920px-Fürstenberg_Braustüble_am_Postplatz_in_Donaueschingen_(2025).jpg
+  Donaueschingen - Blick von der Irmabrücke auf die Brigach (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg/400px-Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg/800px-Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg/1200px-Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg/1920px-Donaueschingen_-_Blick_von_der_Irmabrücke_auf_die_Brigach_(2025).jpg
+  BW Donaueschingen Danube 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BW_Donaueschingen_Danube_5.jpg/400px-BW_Donaueschingen_Danube_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BW_Donaueschingen_Danube_5.jpg/800px-BW_Donaueschingen_Danube_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BW_Donaueschingen_Danube_5.jpg/1200px-BW_Donaueschingen_Danube_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BW_Donaueschingen_Danube_5.jpg/1920px-BW_Donaueschingen_Danube_5.jpg
+  DE VS Brigach Breg confluence.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/400px-DE_VS_Brigach_Breg_confluence.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/800px-DE_VS_Brigach_Breg_confluence.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/1200px-DE_VS_Brigach_Breg_confluence.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/1920px-DE_VS_Brigach_Breg_confluence.jpg
+  Donaueschingen Brigach 4320.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Donaueschingen_Brigach_4320.jpg/400px-Donaueschingen_Brigach_4320.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Donaueschingen_Brigach_4320.jpg/800px-Donaueschingen_Brigach_4320.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Donaueschingen_Brigach_4320.jpg/1200px-Donaueschingen_Brigach_4320.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Donaueschingen_Brigach_4320.jpg/1920px-Donaueschingen_Brigach_4320.jpg
 ---
 
 ## Overview

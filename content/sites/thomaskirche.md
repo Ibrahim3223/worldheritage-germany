@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2428535"
 description: "In the heart of Cologne, Germany, stands the Thomaskirche, a modern Protestant church that invites visitors to explore its unique architectural beauty a..."
 images:
-  - "/images-sites/thomaskirche/01-26311150-1920w.webp"
-  - "/images-sites/thomaskirche/02-9732af4c-1920w.webp"
-  - "/images-sites/thomaskirche/03-5f7d83ad-1920w.webp"
+  - "/images/thomaskirche/01-26311150-1920w.webp"
+  - "/images/thomaskirche/02-9732af4c-1920w.webp"
+  - "/images/thomaskirche/03-5f7d83ad-1920w.webp"
 ---
 
 ## Overview

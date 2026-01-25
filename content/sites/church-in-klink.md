@@ -1,19 +1,50 @@
 ---
-title: "Church in Klink"
-site_name: "Church in Klink"
-slug: "church-in-klink"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Klink
+site_name: Church in Klink
+slug: church-in-klink
+region: Mecklenburg-Vorpommern
 latitude: 53.4794
 longitude: 12.6225
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244432"
-description: "In the charming region of Klink, Germany, a remarkable church stands as a testament to baroque architecture. This church, constructed from enduring bric..."
+- cultural site
+wikidata_id: Q1244432
+description: In the charming region of Klink, Germany, a remarkable church stands
+  as a testament to baroque architecture. This church, constructed from enduring bric...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Klink%20Kirche%202009-08-31%20073.jpg/1200px-Klink%20Kirche%202009-08-31%20073.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Klink,_Kirche.JPG/1200px-Klink,_Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1200px-Klink_Kirche_2009-08-31_073.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Klink_Kirche_2009-08-31_074.jpg/1200px-Klink_Kirche_2009-08-31_074.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Klink_Kirche_Loge_2009-08-31_078.jpg/1200px-Klink_Kirche_Loge_2009-08-31_078.jpg
+image_srcset:
+  Klink%20Kirche%202009-08-31%20073.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Klink%20Kirche%202009-08-31%20073.jpg/400px-Klink%20Kirche%202009-08-31%20073.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Klink%20Kirche%202009-08-31%20073.jpg/800px-Klink%20Kirche%202009-08-31%20073.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Klink%20Kirche%202009-08-31%20073.jpg/1200px-Klink%20Kirche%202009-08-31%20073.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Klink%20Kirche%202009-08-31%20073.jpg/1920px-Klink%20Kirche%202009-08-31%20073.jpg
+  Klink, Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Klink,_Kirche.JPG/400px-Klink,_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Klink,_Kirche.JPG/800px-Klink,_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Klink,_Kirche.JPG/1200px-Klink,_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Klink,_Kirche.JPG/1920px-Klink,_Kirche.JPG
+  Klink Kirche 2009-08-31 073.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/400px-Klink_Kirche_2009-08-31_073.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/800px-Klink_Kirche_2009-08-31_073.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1200px-Klink_Kirche_2009-08-31_073.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Klink_Kirche_2009-08-31_073.jpg/1920px-Klink_Kirche_2009-08-31_073.jpg
+  Klink Kirche 2009-08-31 074.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Klink_Kirche_2009-08-31_074.jpg/400px-Klink_Kirche_2009-08-31_074.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Klink_Kirche_2009-08-31_074.jpg/800px-Klink_Kirche_2009-08-31_074.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Klink_Kirche_2009-08-31_074.jpg/1200px-Klink_Kirche_2009-08-31_074.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Klink_Kirche_2009-08-31_074.jpg/1920px-Klink_Kirche_2009-08-31_074.jpg
+  Klink Kirche Loge 2009-08-31 078.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Klink_Kirche_Loge_2009-08-31_078.jpg/400px-Klink_Kirche_Loge_2009-08-31_078.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Klink_Kirche_Loge_2009-08-31_078.jpg/800px-Klink_Kirche_Loge_2009-08-31_078.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Klink_Kirche_Loge_2009-08-31_078.jpg/1200px-Klink_Kirche_Loge_2009-08-31_078.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Klink_Kirche_Loge_2009-08-31_078.jpg/1920px-Klink_Kirche_Loge_2009-08-31_078.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Historical Museum Bamberg"
+title: Historical Museum Bamberg
 date: 2026-01-23
 draft: false
-description: "museum in Bamberg managing various historical locations with galleries"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Bamberg managing various historical locations with galleries
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8909
 longitude: 10.8824
 images:
-  - "/images-sites/historical-museum-bamberg/01-569e960c-800w.webp"
-  - "/images-sites/historical-museum-bamberg/02-7d223414-800w.webp"
-  - "/images-sites/historical-museum-bamberg/03-00ebfecb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg/1200px-2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg/1200px-Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg/1200px-1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BIB_-_Warmbierschüssel.jpg/1200px-BIB_-_Warmbierschüssel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1200px-Bamberg-Alte_Hofhaltung-Fassade.JPG
+image_srcset:
+  2019-04-25 Himmelsglobus 01 Historisches Museum Bamberg anagoria.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg/400px-2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg/800px-2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg/1200px-2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg/1920px-2019-04-25_Himmelsglobus_01_Historisches_Museum_Bamberg_anagoria.jpg
+  Maria Anne Treu Tischbein Bamberg-20151001-RM-115341.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg/400px-Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg/800px-Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg/1200px-Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg/1920px-Maria_Anne_Treu_Tischbein_Bamberg-20151001-RM-115341.jpg
+  1879 Seilerrad Inv. 8-473 Historisches Museum Bamberg anagoria.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg/400px-1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg/800px-1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg/1200px-1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg/1920px-1879_Seilerrad_Inv._8-473_Historisches_Museum_Bamberg_anagoria.jpg
+  BIB - Warmbierschüssel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BIB_-_Warmbierschüssel.jpg/400px-BIB_-_Warmbierschüssel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BIB_-_Warmbierschüssel.jpg/800px-BIB_-_Warmbierschüssel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BIB_-_Warmbierschüssel.jpg/1200px-BIB_-_Warmbierschüssel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BIB_-_Warmbierschüssel.jpg/1920px-BIB_-_Warmbierschüssel.jpg
+  Bamberg-Alte Hofhaltung-Fassade.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/400px-Bamberg-Alte_Hofhaltung-Fassade.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/800px-Bamberg-Alte_Hofhaltung-Fassade.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1200px-Bamberg-Alte_Hofhaltung-Fassade.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bamberg-Alte_Hofhaltung-Fassade.JPG/1920px-Bamberg-Alte_Hofhaltung-Fassade.JPG
 ---
 
 ## Overview

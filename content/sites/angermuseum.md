@@ -1,19 +1,49 @@
 ---
-title: "Angermuseum"
+title: Angermuseum
 date: 2026-01-23
 draft: false
-description: "museum in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9756
 longitude: 11.0342
 images:
-  - "/images-sites/angermuseum/01-70ddbf7c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Anger_18_Erfurt_20200909_0233.jpg/1200px-Anger_18_Erfurt_20200909_0233.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg/1200px-GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GER_Erfurt,_Anger_001.jpg/1200px-GER_Erfurt,_Anger_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/1200px-Angermuseum_Erfurt2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg/1200px-Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg
+image_srcset:
+  Anger 18 Erfurt 20200909 0233.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Anger_18_Erfurt_20200909_0233.jpg/400px-Anger_18_Erfurt_20200909_0233.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Anger_18_Erfurt_20200909_0233.jpg/800px-Anger_18_Erfurt_20200909_0233.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Anger_18_Erfurt_20200909_0233.jpg/1200px-Anger_18_Erfurt_20200909_0233.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Anger_18_Erfurt_20200909_0233.jpg/1920px-Anger_18_Erfurt_20200909_0233.jpg
+  GER — Thüringen — Erfurt — Anger 18 (Angermuseum · Treppenhaus) Mattes 2022-03-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg/400px-GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg/800px-GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg/1200px-GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg/1920px-GER_—_Thüringen_—_Erfurt_—_Anger_18_(Angermuseum_·_Treppenhaus)_Mattes_2022-03-25.jpg
+  GER Erfurt, Anger 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GER_Erfurt,_Anger_001.jpg/400px-GER_Erfurt,_Anger_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GER_Erfurt,_Anger_001.jpg/800px-GER_Erfurt,_Anger_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GER_Erfurt,_Anger_001.jpg/1200px-GER_Erfurt,_Anger_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/GER_Erfurt,_Anger_001.jpg/1920px-GER_Erfurt,_Anger_001.jpg
+  Angermuseum Erfurt2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/400px-Angermuseum_Erfurt2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/800px-Angermuseum_Erfurt2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/1200px-Angermuseum_Erfurt2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Angermuseum_Erfurt2.JPG/1920px-Angermuseum_Erfurt2.JPG
+  Das Angermuseum in Erfurt - geo.hlipp.de - 14219.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg/400px-Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg/800px-Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg/1200px-Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg/1920px-Das_Angermuseum_in_Erfurt_-_geo.hlipp.de_-_14219.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.2823
 longitude: 7.61372
 images:
-  - "/images-sites/koenigsstuhl/01-401b901c-800w.webp"
+  - "/images/koenigsstuhl/01-401b901c-800w.webp"
 ---
 
 ## Overview

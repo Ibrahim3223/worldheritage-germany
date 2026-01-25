@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten der Ruhr-Universität Bochum"
+title: Botanischer Garten der Ruhr-Universität Bochum
 date: 2026-01-23
 draft: false
-description: "botanical garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4419
 longitude: 7.2675
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-ruhr-universitaet-bochum/01-61be4d01-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bogarub-echinocactus-grusonii-2.jpg/1200px-Bogarub-echinocactus-grusonii-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bogarub-nelumbo-nucifera-3.jpg/1200px-Bogarub-nelumbo-nucifera-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bogarub-pelophylax-esculentus-3.jpg/1200px-Bogarub-pelophylax-esculentus-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bogarub-savannenhaus-1.jpg/1200px-Bogarub-savannenhaus-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/1200px-Ruhr-Uni-Bochum-0089.JPG
+image_srcset:
+  Bogarub-echinocactus-grusonii-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bogarub-echinocactus-grusonii-2.jpg/400px-Bogarub-echinocactus-grusonii-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bogarub-echinocactus-grusonii-2.jpg/800px-Bogarub-echinocactus-grusonii-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bogarub-echinocactus-grusonii-2.jpg/1200px-Bogarub-echinocactus-grusonii-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bogarub-echinocactus-grusonii-2.jpg/1920px-Bogarub-echinocactus-grusonii-2.jpg
+  Bogarub-nelumbo-nucifera-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bogarub-nelumbo-nucifera-3.jpg/400px-Bogarub-nelumbo-nucifera-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bogarub-nelumbo-nucifera-3.jpg/800px-Bogarub-nelumbo-nucifera-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bogarub-nelumbo-nucifera-3.jpg/1200px-Bogarub-nelumbo-nucifera-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bogarub-nelumbo-nucifera-3.jpg/1920px-Bogarub-nelumbo-nucifera-3.jpg
+  Bogarub-pelophylax-esculentus-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bogarub-pelophylax-esculentus-3.jpg/400px-Bogarub-pelophylax-esculentus-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bogarub-pelophylax-esculentus-3.jpg/800px-Bogarub-pelophylax-esculentus-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bogarub-pelophylax-esculentus-3.jpg/1200px-Bogarub-pelophylax-esculentus-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bogarub-pelophylax-esculentus-3.jpg/1920px-Bogarub-pelophylax-esculentus-3.jpg
+  Bogarub-savannenhaus-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bogarub-savannenhaus-1.jpg/400px-Bogarub-savannenhaus-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bogarub-savannenhaus-1.jpg/800px-Bogarub-savannenhaus-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bogarub-savannenhaus-1.jpg/1200px-Bogarub-savannenhaus-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bogarub-savannenhaus-1.jpg/1920px-Bogarub-savannenhaus-1.jpg
+  Ruhr-Uni-Bochum-0089.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/400px-Ruhr-Uni-Bochum-0089.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/800px-Ruhr-Uni-Bochum-0089.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/1200px-Ruhr-Uni-Bochum-0089.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ruhr-Uni-Bochum-0089.JPG/1920px-Ruhr-Uni-Bochum-0089.JPG
 ---
 
 ## Overview

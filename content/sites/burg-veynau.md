@@ -1,27 +1,49 @@
 ---
-title: "Burg Veynau"
+title: Burg Veynau
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.639
 longitude: 6.71828
-
-# Images
 images:
-  - "/images-sites/burg-veynau/01-6334cef6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Veynau_2.jpg/1200px-Burg_Veynau_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Veynau_016x.jpg/1200px-Burg_Veynau_016x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Veynau_I.jpg/1200px-Veynau_I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burg_Veynau_014bx.jpg/1200px-Burg_Veynau_014bx.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Veynau_Sammlung_Duncker.jpg/1200px-Burg_Veynau_Sammlung_Duncker.jpg
+image_srcset:
+  Burg Veynau 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Veynau_2.jpg/400px-Burg_Veynau_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Veynau_2.jpg/800px-Burg_Veynau_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Veynau_2.jpg/1200px-Burg_Veynau_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_Veynau_2.jpg/1920px-Burg_Veynau_2.jpg
+  Burg Veynau 016x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Veynau_016x.jpg/400px-Burg_Veynau_016x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Veynau_016x.jpg/800px-Burg_Veynau_016x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Veynau_016x.jpg/1200px-Burg_Veynau_016x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Veynau_016x.jpg/1920px-Burg_Veynau_016x.jpg
+  Veynau I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Veynau_I.jpg/400px-Veynau_I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Veynau_I.jpg/800px-Veynau_I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Veynau_I.jpg/1200px-Veynau_I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Veynau_I.jpg/1920px-Veynau_I.jpg
+  Burg Veynau 014bx.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burg_Veynau_014bx.jpg/400px-Burg_Veynau_014bx.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burg_Veynau_014bx.jpg/800px-Burg_Veynau_014bx.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burg_Veynau_014bx.jpg/1200px-Burg_Veynau_014bx.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Burg_Veynau_014bx.jpg/1920px-Burg_Veynau_014bx.jpg
+  Burg Veynau Sammlung Duncker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Veynau_Sammlung_Duncker.jpg/400px-Burg_Veynau_Sammlung_Duncker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Veynau_Sammlung_Duncker.jpg/800px-Burg_Veynau_Sammlung_Duncker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Veynau_Sammlung_Duncker.jpg/1200px-Burg_Veynau_Sammlung_Duncker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Burg_Veynau_Sammlung_Duncker.jpg/1920px-Burg_Veynau_Sammlung_Duncker.jpg
 ---
 
 ## Overview

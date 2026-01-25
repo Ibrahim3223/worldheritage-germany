@@ -21,7 +21,7 @@ longitude: 9.20094
 
 # Images
 images:
-  - "/images-sites/schaumburg-castle-lower-saxony/01-9953b209-800w.webp"
+  - "/images/schaumburg-castle-lower-saxony/01-9953b209-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.235608333
 longitude: 6.733875
 images:
-  - "/images-sites/vodafone-campus/01-2f4813a9-800w.webp"
+  - "/images/vodafone-campus/01-2f4813a9-800w.webp"
 ---
 
 ## Overview

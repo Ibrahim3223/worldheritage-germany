@@ -13,7 +13,7 @@ regions:
 latitude: 52.5245
 longitude: 13.4017
 images:
-  - "/images-sites/silent-heroes-memorial/01-012fea28-800w.webp"
+  - "/images/silent-heroes-memorial/01-012fea28-800w.webp"
 ---
 
 ## Overview

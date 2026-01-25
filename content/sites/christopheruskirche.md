@@ -1,24 +1,52 @@
 ---
-title: "Christopheruskirche"
-site_name: "Christopheruskirche"
-slug: "christopheruskirche"
-region: "Berlin"
-
-# Location
+title: Christopheruskirche
+site_name: Christopheruskirche
+slug: christopheruskirche
+region: Berlin
 latitude: 52.451
 longitude: 13.6252
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087115"
-description: "In the heart of Treptow-Köpenick, Germany, Christopheruskirche stands as a striking example of Gothic Revival architecture. This church, crafted from br..."
+- church building
+- religious site
+wikidata_id: Q1087115
+description: In the heart of Treptow-Köpenick, Germany, Christopheruskirche stands
+  as a striking example of Gothic Revival architecture. This church, crafted from
+  br...
 images:
-  - "/images-sites/christopheruskirche/01-c9ebe0e3-1920w.webp"
-  - "/images-sites/christopheruskirche/02-522c6251-1920w.webp"
-  - "/images-sites/christopheruskirche/03-d6cd8674-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg/1200px-Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Christopheruskirche_Wahmbeck.jpg/1200px-Christopheruskirche_Wahmbeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Christopheruskirche_Wahmbeck_Orgelempore.jpg/1200px-Christopheruskirche_Wahmbeck_Orgelempore.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Christopheruskirche_Wahmbeck_a.jpg/1200px-Christopheruskirche_Wahmbeck_a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/StChristophorus_Wahmbeck.jpg/1200px-StChristophorus_Wahmbeck.jpg
+image_srcset:
+  Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg/400px-Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg/800px-Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg/1200px-Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg/1920px-Berlin-Friedrichshagen%20-%20Christopheruskirche1.jpg
+  Christopheruskirche Wahmbeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Christopheruskirche_Wahmbeck.jpg/400px-Christopheruskirche_Wahmbeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Christopheruskirche_Wahmbeck.jpg/800px-Christopheruskirche_Wahmbeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Christopheruskirche_Wahmbeck.jpg/1200px-Christopheruskirche_Wahmbeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Christopheruskirche_Wahmbeck.jpg/1920px-Christopheruskirche_Wahmbeck.jpg
+  Christopheruskirche Wahmbeck Orgelempore.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Christopheruskirche_Wahmbeck_Orgelempore.jpg/400px-Christopheruskirche_Wahmbeck_Orgelempore.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Christopheruskirche_Wahmbeck_Orgelempore.jpg/800px-Christopheruskirche_Wahmbeck_Orgelempore.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Christopheruskirche_Wahmbeck_Orgelempore.jpg/1200px-Christopheruskirche_Wahmbeck_Orgelempore.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Christopheruskirche_Wahmbeck_Orgelempore.jpg/1920px-Christopheruskirche_Wahmbeck_Orgelempore.jpg
+  Christopheruskirche Wahmbeck a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Christopheruskirche_Wahmbeck_a.jpg/400px-Christopheruskirche_Wahmbeck_a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Christopheruskirche_Wahmbeck_a.jpg/800px-Christopheruskirche_Wahmbeck_a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Christopheruskirche_Wahmbeck_a.jpg/1200px-Christopheruskirche_Wahmbeck_a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Christopheruskirche_Wahmbeck_a.jpg/1920px-Christopheruskirche_Wahmbeck_a.jpg
+  StChristophorus Wahmbeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/StChristophorus_Wahmbeck.jpg/400px-StChristophorus_Wahmbeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/StChristophorus_Wahmbeck.jpg/800px-StChristophorus_Wahmbeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/StChristophorus_Wahmbeck.jpg/1200px-StChristophorus_Wahmbeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/StChristophorus_Wahmbeck.jpg/1920px-StChristophorus_Wahmbeck.jpg
 ---
 
 ## Overview

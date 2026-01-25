@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1903213"
 description: "In the heart of Blumenthal, Germany, the Martin-Luther-Kirche stands as a striking example of Gothic Revival architecture. This church, designed by Karl..."
 images:
-  - "/images-sites/martin-luther-kirche/01-49c0b288-1920w.webp"
-  - "/images-sites/martin-luther-kirche/02-76dd8666-1920w.webp"
-  - "/images-sites/martin-luther-kirche/03-d842ef4f-1920w.webp"
+  - "/images/martin-luther-kirche/01-49c0b288-1920w.webp"
+  - "/images/martin-luther-kirche/02-76dd8666-1920w.webp"
+  - "/images/martin-luther-kirche/03-d842ef4f-1920w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.1671
 longitude: 10.0076
 images:
-  - "/images-sites/pfarrkirche/01-0b976753-800w.webp"
-  - "/images-sites/pfarrkirche/02-28ba7013-800w.webp"
-  - "/images-sites/pfarrkirche/03-40a130ac-800w.webp"
+  - "/images/pfarrkirche/01-0b976753-800w.webp"
+  - "/images/pfarrkirche/02-28ba7013-800w.webp"
+  - "/images/pfarrkirche/03-40a130ac-800w.webp"
 ---
 
 ## Overview

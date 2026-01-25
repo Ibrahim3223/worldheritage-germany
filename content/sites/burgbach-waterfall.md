@@ -1,19 +1,49 @@
 ---
-title: "Burgbach Waterfall"
+title: Burgbach Waterfall
 date: 2026-01-24
 draft: false
-description: "Wasserfall in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: Wasserfall in Deutschland
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4097
 longitude: 8.33549
 images:
-  - "/images-sites/burgbach-waterfall/01-178a29b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg/1200px-Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burgbachwasserfall_IMG_3041.jpg/1200px-Burgbachwasserfall_IMG_3041.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgbachwasserfall_IMG_3055.jpg/1200px-Burgbachwasserfall_IMG_3055.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1200px-Burgbachwasserfall_IMG_3048.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burgbachwasserfall_IMG_3037.jpg/1200px-Burgbachwasserfall_IMG_3037.jpg
+image_srcset:
+  Bad Rippoldsau-Schapbach Burgbachwasserfall Bild 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg/400px-Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg/800px-Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg/1200px-Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg/1920px-Bad_Rippoldsau-Schapbach_Burgbachwasserfall_Bild_3.jpg
+  Burgbachwasserfall IMG 3041.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burgbachwasserfall_IMG_3041.jpg/400px-Burgbachwasserfall_IMG_3041.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burgbachwasserfall_IMG_3041.jpg/800px-Burgbachwasserfall_IMG_3041.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burgbachwasserfall_IMG_3041.jpg/1200px-Burgbachwasserfall_IMG_3041.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burgbachwasserfall_IMG_3041.jpg/1920px-Burgbachwasserfall_IMG_3041.jpg
+  Burgbachwasserfall IMG 3055.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgbachwasserfall_IMG_3055.jpg/400px-Burgbachwasserfall_IMG_3055.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgbachwasserfall_IMG_3055.jpg/800px-Burgbachwasserfall_IMG_3055.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgbachwasserfall_IMG_3055.jpg/1200px-Burgbachwasserfall_IMG_3055.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burgbachwasserfall_IMG_3055.jpg/1920px-Burgbachwasserfall_IMG_3055.jpg
+  Burgbachwasserfall IMG 3048.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/400px-Burgbachwasserfall_IMG_3048.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/800px-Burgbachwasserfall_IMG_3048.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1200px-Burgbachwasserfall_IMG_3048.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Burgbachwasserfall_IMG_3048.jpg/1920px-Burgbachwasserfall_IMG_3048.jpg
+  Burgbachwasserfall IMG 3037.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burgbachwasserfall_IMG_3037.jpg/400px-Burgbachwasserfall_IMG_3037.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burgbachwasserfall_IMG_3037.jpg/800px-Burgbachwasserfall_IMG_3037.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burgbachwasserfall_IMG_3037.jpg/1200px-Burgbachwasserfall_IMG_3037.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Burgbachwasserfall_IMG_3037.jpg/1920px-Burgbachwasserfall_IMG_3037.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 47.371
 longitude: 10.37
 images:
-  - "/images-sites/stuibenfall/02-91ba30c1-800w.webp"
-  - "/images-sites/stuibenfall/03-96ae9e3b-800w.webp"
+  - "/images/stuibenfall/02-91ba30c1-800w.webp"
+  - "/images/stuibenfall/03-96ae9e3b-800w.webp"
 ---
 
 ## Overview

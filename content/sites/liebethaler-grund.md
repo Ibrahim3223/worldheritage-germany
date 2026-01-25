@@ -13,7 +13,7 @@ regions:
 latitude: 50.996641
 longitude: 13.962306
 images:
-  - "/images-sites/liebethaler-grund/01-9e48334f-800w.webp"
+  - "/images/liebethaler-grund/01-9e48334f-800w.webp"
 ---
 
 ## Overview

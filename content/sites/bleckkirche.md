@@ -1,20 +1,51 @@
 ---
-title: "Bleckkirche"
-site_name: "Bleckkirche"
-slug: "bleckkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Bleckkirche
+site_name: Bleckkirche
+slug: bleckkirche
+region: North Rhine-Westphalia
 latitude: 51.5416
 longitude: 7.11072
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q883384"
-description: "Bleckkirche, a striking example of Romanesque Revival architecture, stands as a notable church building in Gelsenkirchen, Germany. With its red brick fa..."
+- church building
+- religious site
+wikidata_id: Q883384
+description: Bleckkirche, a striking example of Romanesque Revival architecture, stands
+  as a notable church building in Gelsenkirchen, Germany. With its red brick fa...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg/1200px-Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/VitorinoBleckkirche2014_02.JPG/1200px-VitorinoBleckkirche2014_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VitorinoBleckkirche2014_05.JPG/1200px-VitorinoBleckkirche2014_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1200px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vitorino2014.06.JPG/1200px-Vitorino2014.06.JPG
+image_srcset:
+  Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg/400px-Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg/800px-Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg/1200px-Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg/1920px-Gelsenkirchen%20-%20Bleckstra%C3%9Fe%20-%20Bleckkirche%20ex%2003%20ies.jpg
+  VitorinoBleckkirche2014 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/VitorinoBleckkirche2014_02.JPG/400px-VitorinoBleckkirche2014_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/VitorinoBleckkirche2014_02.JPG/800px-VitorinoBleckkirche2014_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/VitorinoBleckkirche2014_02.JPG/1200px-VitorinoBleckkirche2014_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/VitorinoBleckkirche2014_02.JPG/1920px-VitorinoBleckkirche2014_02.JPG
+  VitorinoBleckkirche2014 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VitorinoBleckkirche2014_05.JPG/400px-VitorinoBleckkirche2014_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VitorinoBleckkirche2014_05.JPG/800px-VitorinoBleckkirche2014_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VitorinoBleckkirche2014_05.JPG/1200px-VitorinoBleckkirche2014_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/VitorinoBleckkirche2014_05.JPG/1920px-VitorinoBleckkirche2014_05.JPG
+  Gelsenkirchen - Bleckstraße - Bleckkirche ex 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/400px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/800px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1200px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg/1920px-Gelsenkirchen_-_Bleckstraße_-_Bleckkirche_ex_03_ies.jpg
+  Vitorino2014.06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vitorino2014.06.JPG/400px-Vitorino2014.06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vitorino2014.06.JPG/800px-Vitorino2014.06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vitorino2014.06.JPG/1200px-Vitorino2014.06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vitorino2014.06.JPG/1920px-Vitorino2014.06.JPG
 ---
 
 ## Overview

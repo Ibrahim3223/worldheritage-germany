@@ -1,21 +1,49 @@
 ---
-title: "Helgoland lighthouse"
+title: Helgoland lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse on the island of Heligoland, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse on the island of Heligoland, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.18183333
 longitude: 7.88238889
 images:
-  - "/images-sites/helgoland-lighthouse/01-56fe827f-800w.webp"
-  - "/images-sites/helgoland-lighthouse/02-d0db3678-800w.webp"
-  - "/images-sites/helgoland-lighthouse/03-872cd2bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo20.jpg/1200px-Heligoland_07-2016_photo20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG/1200px-Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Helgoland_Panorama_20090627_059.JPG/1200px-Helgoland_Panorama_20090627_059.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heligoland_Oberland_20090627_017.JPG/1200px-Heligoland_Oberland_20090627_017.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Helgoland_Leuchtturm.jpg/1200px-Helgoland_Leuchtturm.jpg
+image_srcset:
+  Heligoland 07-2016 photo20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo20.jpg/400px-Heligoland_07-2016_photo20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo20.jpg/800px-Heligoland_07-2016_photo20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo20.jpg/1200px-Heligoland_07-2016_photo20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo20.jpg/1920px-Heligoland_07-2016_photo20.jpg
+  Helgoland 27 Juni 2009 Rundfahrt 20090627 003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG/400px-Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG/800px-Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG/1200px-Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG/1920px-Helgoland_27_Juni_2009_Rundfahrt_20090627_003.JPG
+  Helgoland Panorama 20090627 059.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Helgoland_Panorama_20090627_059.JPG/400px-Helgoland_Panorama_20090627_059.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Helgoland_Panorama_20090627_059.JPG/800px-Helgoland_Panorama_20090627_059.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Helgoland_Panorama_20090627_059.JPG/1200px-Helgoland_Panorama_20090627_059.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Helgoland_Panorama_20090627_059.JPG/1920px-Helgoland_Panorama_20090627_059.JPG
+  Heligoland Oberland 20090627 017.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heligoland_Oberland_20090627_017.JPG/400px-Heligoland_Oberland_20090627_017.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heligoland_Oberland_20090627_017.JPG/800px-Heligoland_Oberland_20090627_017.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heligoland_Oberland_20090627_017.JPG/1200px-Heligoland_Oberland_20090627_017.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heligoland_Oberland_20090627_017.JPG/1920px-Heligoland_Oberland_20090627_017.JPG
+  Helgoland Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Helgoland_Leuchtturm.jpg/400px-Helgoland_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Helgoland_Leuchtturm.jpg/800px-Helgoland_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Helgoland_Leuchtturm.jpg/1200px-Helgoland_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Helgoland_Leuchtturm.jpg/1920px-Helgoland_Leuchtturm.jpg
 ---
 
 ## Overview

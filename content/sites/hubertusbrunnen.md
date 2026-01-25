@@ -1,19 +1,49 @@
 ---
-title: "Hubertusbrunnen"
+title: Hubertusbrunnen
 date: 2026-01-23
 draft: false
-description: "water well"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: water well
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1591
 longitude: 11.5297
 images:
-  - "/images-sites/hubertusbrunnen/01-b4d168f7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oberneukirchen_Hubertusbrunnen.JPG/1200px-Oberneukirchen_Hubertusbrunnen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2014_Hubertusbrunnen_01.jpg/1200px-2014_Hubertusbrunnen_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2014_Hubertusbrunnen_02.jpg/1200px-2014_Hubertusbrunnen_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014_Hubertusbrunnen_03.jpg/1200px-2014_Hubertusbrunnen_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hubertusquelle_-_panoramio.jpg/1200px-Hubertusquelle_-_panoramio.jpg
+image_srcset:
+  Oberneukirchen Hubertusbrunnen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oberneukirchen_Hubertusbrunnen.JPG/400px-Oberneukirchen_Hubertusbrunnen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oberneukirchen_Hubertusbrunnen.JPG/800px-Oberneukirchen_Hubertusbrunnen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oberneukirchen_Hubertusbrunnen.JPG/1200px-Oberneukirchen_Hubertusbrunnen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oberneukirchen_Hubertusbrunnen.JPG/1920px-Oberneukirchen_Hubertusbrunnen.JPG
+  2014 Hubertusbrunnen 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2014_Hubertusbrunnen_01.jpg/400px-2014_Hubertusbrunnen_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2014_Hubertusbrunnen_01.jpg/800px-2014_Hubertusbrunnen_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2014_Hubertusbrunnen_01.jpg/1200px-2014_Hubertusbrunnen_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2014_Hubertusbrunnen_01.jpg/1920px-2014_Hubertusbrunnen_01.jpg
+  2014 Hubertusbrunnen 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2014_Hubertusbrunnen_02.jpg/400px-2014_Hubertusbrunnen_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2014_Hubertusbrunnen_02.jpg/800px-2014_Hubertusbrunnen_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2014_Hubertusbrunnen_02.jpg/1200px-2014_Hubertusbrunnen_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2014_Hubertusbrunnen_02.jpg/1920px-2014_Hubertusbrunnen_02.jpg
+  2014 Hubertusbrunnen 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014_Hubertusbrunnen_03.jpg/400px-2014_Hubertusbrunnen_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014_Hubertusbrunnen_03.jpg/800px-2014_Hubertusbrunnen_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014_Hubertusbrunnen_03.jpg/1200px-2014_Hubertusbrunnen_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014_Hubertusbrunnen_03.jpg/1920px-2014_Hubertusbrunnen_03.jpg
+  Hubertusquelle - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hubertusquelle_-_panoramio.jpg/400px-Hubertusquelle_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hubertusquelle_-_panoramio.jpg/800px-Hubertusquelle_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hubertusquelle_-_panoramio.jpg/1200px-Hubertusquelle_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hubertusquelle_-_panoramio.jpg/1920px-Hubertusquelle_-_panoramio.jpg
 ---
 
 ## Overview

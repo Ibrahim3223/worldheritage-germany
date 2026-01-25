@@ -1,23 +1,50 @@
 ---
-title: "Church of St Peter in Chains"
-site_name: "Church of St Peter in Chains"
-slug: "church-of-st-peter-in-chains"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Church of St Peter in Chains
+site_name: Church of St Peter in Chains
+slug: church-of-st-peter-in-chains
+region: North Rhine-Westphalia
 latitude: 50.7101
 longitude: 7.06891
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1440448"
-description: "The Church of St Peter in Chains, a Roman Catholic church located in Lengsdorf, Bonn, Germany, stands as a remarkable example of Romanesque architecture..."
+- cultural site
+wikidata_id: Q1440448
+description: The Church of St Peter in Chains, a Roman Catholic church located in
+  Lengsdorf, Bonn, Germany, stands as a remarkable example of Romanesque architecture...
 images:
-  - "/images-sites/church-of-st-peter-in-chains/01-3fe47048-1920w.webp"
-  - "/images-sites/church-of-st-peter-in-chains/02-d4b6c17b-1920w.webp"
-  - "/images-sites/church-of-st-peter-in-chains/03-ee79271a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG/1200px-St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg/1200px-Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St_Peter_in_Chains_Nicpmi-02201-1.jpg/1200px-St_Peter_in_Chains_Nicpmi-02201-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Features_of_Mdina_04.jpg/1200px-Features_of_Mdina_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Features_of_Mdina_05.jpg/1200px-Features_of_Mdina_05.jpg
+image_srcset:
+  St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG/400px-St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG/800px-St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG/1200px-St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG/1920px-St.%20Peter%20%28Lengsdorf%29%20%283%29.JPG
+  Church of St Peter in Chains, Mdina, Malta.01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg/400px-Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg/800px-Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg/1200px-Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg/1920px-Church_of_St_Peter_in_Chains,_Mdina,_Malta.01.jpg
+  St Peter in Chains Nicpmi-02201-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St_Peter_in_Chains_Nicpmi-02201-1.jpg/400px-St_Peter_in_Chains_Nicpmi-02201-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St_Peter_in_Chains_Nicpmi-02201-1.jpg/800px-St_Peter_in_Chains_Nicpmi-02201-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St_Peter_in_Chains_Nicpmi-02201-1.jpg/1200px-St_Peter_in_Chains_Nicpmi-02201-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/St_Peter_in_Chains_Nicpmi-02201-1.jpg/1920px-St_Peter_in_Chains_Nicpmi-02201-1.jpg
+  Features of Mdina 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Features_of_Mdina_04.jpg/400px-Features_of_Mdina_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Features_of_Mdina_04.jpg/800px-Features_of_Mdina_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Features_of_Mdina_04.jpg/1200px-Features_of_Mdina_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Features_of_Mdina_04.jpg/1920px-Features_of_Mdina_04.jpg
+  Features of Mdina 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Features_of_Mdina_05.jpg/400px-Features_of_Mdina_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Features_of_Mdina_05.jpg/800px-Features_of_Mdina_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Features_of_Mdina_05.jpg/1200px-Features_of_Mdina_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Features_of_Mdina_05.jpg/1920px-Features_of_Mdina_05.jpg
 ---
 
 ## Overview

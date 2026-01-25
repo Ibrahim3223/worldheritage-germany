@@ -21,7 +21,7 @@ longitude: 10.3116
 
 # Images
 images:
-  - "/images-sites/st-lorenz-basilica/01-1f328484-800w.webp"
+  - "/images/st-lorenz-basilica/01-1f328484-800w.webp"
 ---
 
 ## Overview

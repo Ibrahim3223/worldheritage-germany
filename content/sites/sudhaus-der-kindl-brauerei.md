@@ -13,7 +13,7 @@ regions:
 latitude: 52.4794
 longitude: 13.4308
 images:
-  - "/images-sites/sudhaus-der-kindl-brauerei/01-71d7dc5e-800w.webp"
+  - "/images/sudhaus-der-kindl-brauerei/01-71d7dc5e-800w.webp"
 ---
 
 ## Overview

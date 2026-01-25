@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1526036"
 description: "The Mennonitenkirche Leer, a notable church building founded in 1825, serves as a striking example of Neoclassical architecture in the heart of Leer, Ge..."
 images:
-  - "/images-sites/mennonitenkirche-leer/01-8399272e-1920w.webp"
-  - "/images-sites/mennonitenkirche-leer/02-0c12b417-1920w.webp"
-  - "/images-sites/mennonitenkirche-leer/03-442154d3-1920w.webp"
+  - "/images/mennonitenkirche-leer/01-8399272e-1920w.webp"
+  - "/images/mennonitenkirche-leer/02-0c12b417-1920w.webp"
+  - "/images/mennonitenkirche-leer/03-442154d3-1920w.webp"
 ---
 
 ## Overview

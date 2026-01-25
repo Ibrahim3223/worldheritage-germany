@@ -1,24 +1,51 @@
 ---
-title: "Apostelkirche"
-site_name: "Apostelkirche"
-slug: "apostelkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Apostelkirche
+site_name: Apostelkirche
+slug: apostelkirche
+region: North Rhine-Westphalia
 latitude: 51.4459
 longitude: 6.97437
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q619884"
-description: "In the heart of Essen, Germany, lies the Apostelkirche, a church building that stands as a significant landmark in the region. Founded in 1913, this arc..."
+- church building
+- religious site
+wikidata_id: Q619884
+description: In the heart of Essen, Germany, lies the Apostelkirche, a church building
+  that stands as a significant landmark in the region. Founded in 1913, this arc...
 images:
-  - "/images-sites/apostelkirche/01-3167a89e-1920w.webp"
-  - "/images-sites/apostelkirche/02-9fd78c5b-1920w.webp"
-  - "/images-sites/apostelkirche/03-edfff5d1-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apostelkirche%20um%201914.jpg/1200px-Apostelkirche%20um%201914.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apostelkirche_(Gütersloh)_(09).jpg/1200px-Apostelkirche_(Gütersloh)_(09).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apostelkirche_(Gütersloh)_(12).jpg/1200px-Apostelkirche_(Gütersloh)_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Apostelkirche_(Gütersloh)_(13).jpg/1200px-Apostelkirche_(Gütersloh)_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apostelkirche_(Gütersloh)_(01).jpg/1200px-Apostelkirche_(Gütersloh)_(01).jpg
+image_srcset:
+  Apostelkirche%20um%201914.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apostelkirche%20um%201914.jpg/400px-Apostelkirche%20um%201914.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apostelkirche%20um%201914.jpg/800px-Apostelkirche%20um%201914.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apostelkirche%20um%201914.jpg/1200px-Apostelkirche%20um%201914.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apostelkirche%20um%201914.jpg/1920px-Apostelkirche%20um%201914.jpg
+  Apostelkirche (Gütersloh) (09).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apostelkirche_(Gütersloh)_(09).jpg/400px-Apostelkirche_(Gütersloh)_(09).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apostelkirche_(Gütersloh)_(09).jpg/800px-Apostelkirche_(Gütersloh)_(09).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apostelkirche_(Gütersloh)_(09).jpg/1200px-Apostelkirche_(Gütersloh)_(09).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apostelkirche_(Gütersloh)_(09).jpg/1920px-Apostelkirche_(Gütersloh)_(09).jpg
+  Apostelkirche (Gütersloh) (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apostelkirche_(Gütersloh)_(12).jpg/400px-Apostelkirche_(Gütersloh)_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apostelkirche_(Gütersloh)_(12).jpg/800px-Apostelkirche_(Gütersloh)_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apostelkirche_(Gütersloh)_(12).jpg/1200px-Apostelkirche_(Gütersloh)_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apostelkirche_(Gütersloh)_(12).jpg/1920px-Apostelkirche_(Gütersloh)_(12).jpg
+  Apostelkirche (Gütersloh) (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Apostelkirche_(Gütersloh)_(13).jpg/400px-Apostelkirche_(Gütersloh)_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Apostelkirche_(Gütersloh)_(13).jpg/800px-Apostelkirche_(Gütersloh)_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Apostelkirche_(Gütersloh)_(13).jpg/1200px-Apostelkirche_(Gütersloh)_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Apostelkirche_(Gütersloh)_(13).jpg/1920px-Apostelkirche_(Gütersloh)_(13).jpg
+  Apostelkirche (Gütersloh) (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apostelkirche_(Gütersloh)_(01).jpg/400px-Apostelkirche_(Gütersloh)_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apostelkirche_(Gütersloh)_(01).jpg/800px-Apostelkirche_(Gütersloh)_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apostelkirche_(Gütersloh)_(01).jpg/1200px-Apostelkirche_(Gütersloh)_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apostelkirche_(Gütersloh)_(01).jpg/1920px-Apostelkirche_(Gütersloh)_(01).jpg
 ---
 
 ## Overview

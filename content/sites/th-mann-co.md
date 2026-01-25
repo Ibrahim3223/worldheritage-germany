@@ -13,8 +13,8 @@ regions:
 latitude: 52.023225
 longitude: 8.530217
 images:
-  - "/images-sites/th-mann-co/02-f95888e4-800w.webp"
-  - "/images-sites/th-mann-co/03-20ad97f8-800w.webp"
+  - "/images/th-mann-co/02-f95888e4-800w.webp"
+  - "/images/th-mann-co/03-20ad97f8-800w.webp"
 ---
 
 ## Overview

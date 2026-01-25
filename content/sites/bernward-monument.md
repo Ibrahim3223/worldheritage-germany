@@ -1,19 +1,49 @@
 ---
-title: "Bernward Monument"
+title: Bernward Monument
 date: 2026-01-23
 draft: false
-description: "statue in Hildesheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: statue in Hildesheim, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1491
 longitude: 9.94633
 images:
-  - "/images-sites/bernward-monument/01-98512bf0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HI_Bernwardsdenkmal.JPG/1200px-HI_Bernwardsdenkmal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hildesheim,_Statue_des_Heilgen_Bernward.jpg/1200px-Hildesheim,_Statue_des_Heilgen_Bernward.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hildesheim_Bernwardsdenkmal_Statue.jpg/1200px-Hildesheim_Bernwardsdenkmal_Statue.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hildesheim_Bishop.Bernward.Statue.02.JPG/1200px-Hildesheim_Bishop.Bernward.Statue.02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/1200px-Bernwardsdenkmal_(2019).jpg
+image_srcset:
+  HI Bernwardsdenkmal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HI_Bernwardsdenkmal.JPG/400px-HI_Bernwardsdenkmal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HI_Bernwardsdenkmal.JPG/800px-HI_Bernwardsdenkmal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HI_Bernwardsdenkmal.JPG/1200px-HI_Bernwardsdenkmal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HI_Bernwardsdenkmal.JPG/1920px-HI_Bernwardsdenkmal.JPG
+  Hildesheim, Statue des Heilgen Bernward.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hildesheim,_Statue_des_Heilgen_Bernward.jpg/400px-Hildesheim,_Statue_des_Heilgen_Bernward.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hildesheim,_Statue_des_Heilgen_Bernward.jpg/800px-Hildesheim,_Statue_des_Heilgen_Bernward.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hildesheim,_Statue_des_Heilgen_Bernward.jpg/1200px-Hildesheim,_Statue_des_Heilgen_Bernward.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hildesheim,_Statue_des_Heilgen_Bernward.jpg/1920px-Hildesheim,_Statue_des_Heilgen_Bernward.jpg
+  Hildesheim Bernwardsdenkmal Statue.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hildesheim_Bernwardsdenkmal_Statue.jpg/400px-Hildesheim_Bernwardsdenkmal_Statue.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hildesheim_Bernwardsdenkmal_Statue.jpg/800px-Hildesheim_Bernwardsdenkmal_Statue.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hildesheim_Bernwardsdenkmal_Statue.jpg/1200px-Hildesheim_Bernwardsdenkmal_Statue.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hildesheim_Bernwardsdenkmal_Statue.jpg/1920px-Hildesheim_Bernwardsdenkmal_Statue.jpg
+  Hildesheim Bishop.Bernward.Statue.02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hildesheim_Bishop.Bernward.Statue.02.JPG/400px-Hildesheim_Bishop.Bernward.Statue.02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hildesheim_Bishop.Bernward.Statue.02.JPG/800px-Hildesheim_Bishop.Bernward.Statue.02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hildesheim_Bishop.Bernward.Statue.02.JPG/1200px-Hildesheim_Bishop.Bernward.Statue.02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hildesheim_Bishop.Bernward.Statue.02.JPG/1920px-Hildesheim_Bishop.Bernward.Statue.02.JPG
+  Bernwardsdenkmal (2019).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/400px-Bernwardsdenkmal_(2019).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/800px-Bernwardsdenkmal_(2019).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/1200px-Bernwardsdenkmal_(2019).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bernwardsdenkmal_(2019).jpg/1920px-Bernwardsdenkmal_(2019).jpg
 ---
 
 ## Overview

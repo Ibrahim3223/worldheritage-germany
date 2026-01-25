@@ -13,7 +13,7 @@ regions:
 latitude: 53.8
 longitude: 12.866666666
 images:
-  - "/images-sites/kummerower-see/01-cbc7c385-800w.webp"
+  - "/images/kummerower-see/01-cbc7c385-800w.webp"
 ---
 
 ## Overview 

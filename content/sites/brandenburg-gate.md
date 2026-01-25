@@ -1,19 +1,49 @@
 ---
-title: "Brandenburg Gate"
+title: Brandenburg Gate
 date: 2026-01-23
 draft: false
-description: "triumphal arch in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: triumphal arch in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 52.516272222
 longitude: 13.377722222
 images:
-  - "/images-sites/brandenburg-gate/01-48f037ff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brandenburger_Tor_morgens.jpg/1200px-Brandenburger_Tor_morgens.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brandenburger_Tor_nachts_2012-07.jpg/1200px-Brandenburger_Tor_nachts_2012-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/1200px-Brandenburger_Tor_nachts.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Berlin-Brandenburg_Gate_overview.jpg/1200px-Berlin-Brandenburg_Gate_overview.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandenburg_Gate_Quadriga_at_Night.jpg/1200px-Brandenburg_Gate_Quadriga_at_Night.jpg
+image_srcset:
+  Brandenburger Tor morgens.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brandenburger_Tor_morgens.jpg/400px-Brandenburger_Tor_morgens.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brandenburger_Tor_morgens.jpg/800px-Brandenburger_Tor_morgens.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brandenburger_Tor_morgens.jpg/1200px-Brandenburger_Tor_morgens.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Brandenburger_Tor_morgens.jpg/1920px-Brandenburger_Tor_morgens.jpg
+  Brandenburger Tor nachts 2012-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brandenburger_Tor_nachts_2012-07.jpg/400px-Brandenburger_Tor_nachts_2012-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brandenburger_Tor_nachts_2012-07.jpg/800px-Brandenburger_Tor_nachts_2012-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brandenburger_Tor_nachts_2012-07.jpg/1200px-Brandenburger_Tor_nachts_2012-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Brandenburger_Tor_nachts_2012-07.jpg/1920px-Brandenburger_Tor_nachts_2012-07.jpg
+  Brandenburger Tor nachts.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/400px-Brandenburger_Tor_nachts.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/800px-Brandenburger_Tor_nachts.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/1200px-Brandenburger_Tor_nachts.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/1920px-Brandenburger_Tor_nachts.jpg
+  Berlin-Brandenburg Gate overview.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Berlin-Brandenburg_Gate_overview.jpg/400px-Berlin-Brandenburg_Gate_overview.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Berlin-Brandenburg_Gate_overview.jpg/800px-Berlin-Brandenburg_Gate_overview.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Berlin-Brandenburg_Gate_overview.jpg/1200px-Berlin-Brandenburg_Gate_overview.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Berlin-Brandenburg_Gate_overview.jpg/1920px-Berlin-Brandenburg_Gate_overview.jpg
+  Brandenburg Gate Quadriga at Night.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandenburg_Gate_Quadriga_at_Night.jpg/400px-Brandenburg_Gate_Quadriga_at_Night.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandenburg_Gate_Quadriga_at_Night.jpg/800px-Brandenburg_Gate_Quadriga_at_Night.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandenburg_Gate_Quadriga_at_Night.jpg/1200px-Brandenburg_Gate_Quadriga_at_Night.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brandenburg_Gate_Quadriga_at_Night.jpg/1920px-Brandenburg_Gate_Quadriga_at_Night.jpg
 ---
 
 ## Overview

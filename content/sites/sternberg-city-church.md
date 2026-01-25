@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2327473"
 description: "The Sternberg City Church, a striking example of Brick Gothic architecture, stands proudly in the heart of Sternberg, Mecklenburg-Vorpommern, Germany. T..."
 images:
-  - "/images-sites/sternberg-city-church/01-56ff96e7-1920w.webp"
-  - "/images-sites/sternberg-city-church/02-07599cf3-1920w.webp"
-  - "/images-sites/sternberg-city-church/03-7caafaaa-1920w.webp"
+  - "/images/sternberg-city-church/01-56ff96e7-1920w.webp"
+  - "/images/sternberg-city-church/02-07599cf3-1920w.webp"
+  - "/images/sternberg-city-church/03-7caafaaa-1920w.webp"
 ---
 
 ## Overview

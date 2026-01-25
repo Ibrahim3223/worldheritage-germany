@@ -13,7 +13,7 @@ regions:
 latitude: 49.451990592
 longitude: 11.082130337
 images:
-  - "/images-sites/katharinenkirche-nuremberg/01-6f9aa4fd-800w.webp"
+  - "/images/katharinenkirche-nuremberg/01-6f9aa4fd-800w.webp"
 ---
 
 ## Overview

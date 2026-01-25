@@ -1,19 +1,49 @@
 ---
-title: "Gandersheim Abbey"
+title: Gandersheim Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.870397222
 longitude: 10.026097222
 images:
-  - "/images-sites/gandersheim-abbey/01-acd3963c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bad_Gandersheim_Stiftskirche_06.jpg/1200px-Bad_Gandersheim_Stiftskirche_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg/1200px-Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/1200px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bad-gandersheim-2a.jpg/1200px-Bad-gandersheim-2a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MariaElisabethMecklenburgP103.JPG/1200px-MariaElisabethMecklenburgP103.JPG
+image_srcset:
+  Bad Gandersheim Stiftskirche 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bad_Gandersheim_Stiftskirche_06.jpg/400px-Bad_Gandersheim_Stiftskirche_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bad_Gandersheim_Stiftskirche_06.jpg/800px-Bad_Gandersheim_Stiftskirche_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bad_Gandersheim_Stiftskirche_06.jpg/1200px-Bad_Gandersheim_Stiftskirche_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bad_Gandersheim_Stiftskirche_06.jpg/1920px-Bad_Gandersheim_Stiftskirche_06.jpg
+  Denkmäler deutscher Renaissance - Band2 - 0050.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg/400px-Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg/800px-Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg/1200px-Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg/1920px-Denkmäler_deutscher_Renaissance_-_Band2_-_0050.jpg
+  00 7482 Bad Gandersheim - Stift Gandersheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/400px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/800px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/1200px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg/1920px-00_7482_Bad_Gandersheim_-_Stift_Gandersheim.jpg
+  Bad-gandersheim-2a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bad-gandersheim-2a.jpg/400px-Bad-gandersheim-2a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bad-gandersheim-2a.jpg/800px-Bad-gandersheim-2a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bad-gandersheim-2a.jpg/1200px-Bad-gandersheim-2a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bad-gandersheim-2a.jpg/1920px-Bad-gandersheim-2a.jpg
+  MariaElisabethMecklenburgP103.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MariaElisabethMecklenburgP103.JPG/400px-MariaElisabethMecklenburgP103.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MariaElisabethMecklenburgP103.JPG/800px-MariaElisabethMecklenburgP103.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MariaElisabethMecklenburgP103.JPG/1200px-MariaElisabethMecklenburgP103.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/MariaElisabethMecklenburgP103.JPG/1920px-MariaElisabethMecklenburgP103.JPG
 ---
 
 ## Overview

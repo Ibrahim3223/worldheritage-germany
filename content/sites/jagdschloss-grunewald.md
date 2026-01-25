@@ -1,27 +1,49 @@
 ---
-title: "Jagdschloss Grunewald"
+title: Jagdschloss Grunewald
 date: 2026-01-23
 draft: false
-description: "hunting lodge and art museum"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: hunting lodge and art museum
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.4672
 longitude: 13.2614
-
-# Images
 images:
-  - "/images-sites/jagdschloss-grunewald/01-082c283e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/1200px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jagdschloss_Grunewald_01.jpg/1200px-Jagdschloss_Grunewald_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jagdschloss_Grunewald_02.jpg/1200px-Jagdschloss_Grunewald_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jagdschloss_Grunewald_03.jpg/1200px-Jagdschloss_Grunewald_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grunewaldsee2_Schloss1.JPG/1200px-Grunewaldsee2_Schloss1.JPG
+image_srcset:
+  2018-09-22-Jagdschloss Grunewald-0670.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/400px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/800px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/1200px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018-09-22-Jagdschloss_Grunewald-0670.jpg/1920px-2018-09-22-Jagdschloss_Grunewald-0670.jpg
+  Jagdschloss Grunewald 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jagdschloss_Grunewald_01.jpg/400px-Jagdschloss_Grunewald_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jagdschloss_Grunewald_01.jpg/800px-Jagdschloss_Grunewald_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jagdschloss_Grunewald_01.jpg/1200px-Jagdschloss_Grunewald_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jagdschloss_Grunewald_01.jpg/1920px-Jagdschloss_Grunewald_01.jpg
+  Jagdschloss Grunewald 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jagdschloss_Grunewald_02.jpg/400px-Jagdschloss_Grunewald_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jagdschloss_Grunewald_02.jpg/800px-Jagdschloss_Grunewald_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jagdschloss_Grunewald_02.jpg/1200px-Jagdschloss_Grunewald_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jagdschloss_Grunewald_02.jpg/1920px-Jagdschloss_Grunewald_02.jpg
+  Jagdschloss Grunewald 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jagdschloss_Grunewald_03.jpg/400px-Jagdschloss_Grunewald_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jagdschloss_Grunewald_03.jpg/800px-Jagdschloss_Grunewald_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jagdschloss_Grunewald_03.jpg/1200px-Jagdschloss_Grunewald_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Jagdschloss_Grunewald_03.jpg/1920px-Jagdschloss_Grunewald_03.jpg
+  Grunewaldsee2 Schloss1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grunewaldsee2_Schloss1.JPG/400px-Grunewaldsee2_Schloss1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grunewaldsee2_Schloss1.JPG/800px-Grunewaldsee2_Schloss1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grunewaldsee2_Schloss1.JPG/1200px-Grunewaldsee2_Schloss1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grunewaldsee2_Schloss1.JPG/1920px-Grunewaldsee2_Schloss1.JPG
 ---
 
 ## Overview

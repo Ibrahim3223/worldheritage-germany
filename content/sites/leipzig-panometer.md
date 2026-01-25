@@ -13,7 +13,7 @@ regions:
 latitude: 51.3143
 longitude: 12.3867
 images:
-  - "/images-sites/leipzig-panometer/01-719a9302-800w.webp"
+  - "/images/leipzig-panometer/01-719a9302-800w.webp"
 ---
 
 ## Overview

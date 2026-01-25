@@ -13,9 +13,9 @@ regions:
 latitude: 53.197632
 longitude: 8.016015
 images:
-  - "/images-sites/zwischenahner-meer/01-f2ca2de7-800w.webp"
-  - "/images-sites/zwischenahner-meer/02-04e4c23d-800w.webp"
-  - "/images-sites/zwischenahner-meer/03-3e3a6219-800w.webp"
+  - "/images/zwischenahner-meer/01-f2ca2de7-800w.webp"
+  - "/images/zwischenahner-meer/02-04e4c23d-800w.webp"
+  - "/images/zwischenahner-meer/03-3e3a6219-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.4939
 longitude: 8.46139
 images:
-  - "/images-sites/yavuz-sultan-selim-mosque/01-8295d2fa-800w.webp"
+  - "/images/yavuz-sultan-selim-mosque/01-8295d2fa-800w.webp"
 ---
 
 ## Overview

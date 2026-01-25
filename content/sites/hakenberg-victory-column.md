@@ -1,19 +1,49 @@
 ---
-title: "Hakenberg Victory Column"
+title: Hakenberg Victory Column
 date: 2026-01-24
 draft: false
-description: "tower in Brandenburg state"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Brandenburg state
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.771
 longitude: 12.829
 images:
-  - "/images-sites/hakenberg-victory-column/01-7acfc481-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/OPR_Hakenberg_Kleines_Denkmal.jpg/1200px-OPR_Hakenberg_Kleines_Denkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Siegessäule_Hakenberg-01.jpg/1200px-Siegessäule_Hakenberg-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1200px-Siegessauele-Hakenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG/1200px-Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hakenberg_Denkmal.jpg/1200px-Hakenberg_Denkmal.jpg
+image_srcset:
+  OPR Hakenberg Kleines Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/OPR_Hakenberg_Kleines_Denkmal.jpg/400px-OPR_Hakenberg_Kleines_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/OPR_Hakenberg_Kleines_Denkmal.jpg/800px-OPR_Hakenberg_Kleines_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/OPR_Hakenberg_Kleines_Denkmal.jpg/1200px-OPR_Hakenberg_Kleines_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/OPR_Hakenberg_Kleines_Denkmal.jpg/1920px-OPR_Hakenberg_Kleines_Denkmal.jpg
+  Siegessäule Hakenberg-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Siegessäule_Hakenberg-01.jpg/400px-Siegessäule_Hakenberg-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Siegessäule_Hakenberg-01.jpg/800px-Siegessäule_Hakenberg-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Siegessäule_Hakenberg-01.jpg/1200px-Siegessäule_Hakenberg-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Siegessäule_Hakenberg-01.jpg/1920px-Siegessäule_Hakenberg-01.jpg
+  Siegessauele-Hakenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/400px-Siegessauele-Hakenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/800px-Siegessauele-Hakenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1200px-Siegessauele-Hakenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Siegessauele-Hakenberg.jpg/1920px-Siegessauele-Hakenberg.jpg
+  Denkmal für die Schlacht bei Fehrbellin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG/400px-Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG/800px-Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG/1200px-Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG/1920px-Denkmal_für_die_Schlacht_bei_Fehrbellin.JPG
+  Hakenberg Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hakenberg_Denkmal.jpg/400px-Hakenberg_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hakenberg_Denkmal.jpg/800px-Hakenberg_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hakenberg_Denkmal.jpg/1200px-Hakenberg_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hakenberg_Denkmal.jpg/1920px-Hakenberg_Denkmal.jpg
 ---
 
 ## Overview

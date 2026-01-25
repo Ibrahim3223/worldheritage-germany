@@ -13,7 +13,7 @@ regions:
 latitude: 52.53273
 longitude: 13.33942
 images:
-  - "/images-sites/statue-of-peace/01-7bcef8c5-800w.webp"
+  - "/images/statue-of-peace/01-7bcef8c5-800w.webp"
 ---
 
 ## Overview

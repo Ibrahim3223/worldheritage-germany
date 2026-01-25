@@ -13,7 +13,7 @@ regions:
 latitude: 51.5666
 longitude: 11.2061
 images:
-  - "/images-sites/wippra-dam/01-514245f5-800w.webp"
+  - "/images/wippra-dam/01-514245f5-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dessau-Wörlitz Garden Realm"
+title: Dessau-Wörlitz Garden Realm
 date: 2026-01-23
 draft: false
-description: "cultural landscape"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: cultural landscape
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8636
 longitude: 12.2814
 images:
-  - "/images-sites/dessau-woerlitz-garden-realm/01-1b8e3632-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1200px-WörlitzAmaliengrotte.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Außenaufnahmen_Schloss_Mosigkau_01.jpg/1200px-Außenaufnahmen_Schloss_Mosigkau_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/1200px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/1200px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/1200px-Woerlitzpark81.jpg
+image_srcset:
+  WörlitzAmaliengrotte.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/400px-WörlitzAmaliengrotte.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/800px-WörlitzAmaliengrotte.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1200px-WörlitzAmaliengrotte.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WörlitzAmaliengrotte.JPG/1920px-WörlitzAmaliengrotte.JPG
+  Außenaufnahmen Schloss Mosigkau 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Außenaufnahmen_Schloss_Mosigkau_01.jpg/400px-Außenaufnahmen_Schloss_Mosigkau_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Außenaufnahmen_Schloss_Mosigkau_01.jpg/800px-Außenaufnahmen_Schloss_Mosigkau_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Außenaufnahmen_Schloss_Mosigkau_01.jpg/1200px-Außenaufnahmen_Schloss_Mosigkau_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Außenaufnahmen_Schloss_Mosigkau_01.jpg/1920px-Außenaufnahmen_Schloss_Mosigkau_01.jpg
+  2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/400px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/800px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/1200px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg/1920px-2020-09-23-IonischerTempel-Georgium-Dessau-Gartenreich.jpg
+  Außenaufnahmen Schloss Mosigkau 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/400px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/800px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/1200px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Außenaufnahmen_Schloss_Mosigkau_03.jpg/1920px-Außenaufnahmen_Schloss_Mosigkau_03.jpg
+  Woerlitzpark81.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/400px-Woerlitzpark81.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/800px-Woerlitzpark81.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/1200px-Woerlitzpark81.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Woerlitzpark81.jpg/1920px-Woerlitzpark81.jpg
 ---
 
 ## Overview

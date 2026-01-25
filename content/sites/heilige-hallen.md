@@ -1,19 +1,49 @@
 ---
-title: "Heilige Hallen"
+title: Heilige Hallen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.3253
 longitude: 13.37
 images:
-  - "/images-sites/heilige-hallen/01-fd721999-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilige_Hallen_Bad_Freienwalde_Oder.jpg/1200px-Heilige_Hallen_Bad_Freienwalde_Oder.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanderweg_im_Sebnitzer_Wald_2.jpg/1200px-Wanderweg_im_Sebnitzer_Wald_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/1200px-20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/1200px-20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heilige_Hallen_12+.jpg/1200px-Heilige_Hallen_12+.jpg
+image_srcset:
+  Heilige Hallen Bad Freienwalde Oder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilige_Hallen_Bad_Freienwalde_Oder.jpg/400px-Heilige_Hallen_Bad_Freienwalde_Oder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilige_Hallen_Bad_Freienwalde_Oder.jpg/800px-Heilige_Hallen_Bad_Freienwalde_Oder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilige_Hallen_Bad_Freienwalde_Oder.jpg/1200px-Heilige_Hallen_Bad_Freienwalde_Oder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heilige_Hallen_Bad_Freienwalde_Oder.jpg/1920px-Heilige_Hallen_Bad_Freienwalde_Oder.jpg
+  Wanderweg im Sebnitzer Wald 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanderweg_im_Sebnitzer_Wald_2.jpg/400px-Wanderweg_im_Sebnitzer_Wald_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanderweg_im_Sebnitzer_Wald_2.jpg/800px-Wanderweg_im_Sebnitzer_Wald_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanderweg_im_Sebnitzer_Wald_2.jpg/1200px-Wanderweg_im_Sebnitzer_Wald_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanderweg_im_Sebnitzer_Wald_2.jpg/1920px-Wanderweg_im_Sebnitzer_Wald_2.jpg
+  20200820 xl 0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/400px-20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/800px-20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/1200px-20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/1920px-20200820_xl_0137-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+  20200820 xl 0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/400px-20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/800px-20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/1200px-20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg/1920px-20200820_xl_0144-Wanderung-zum-Naturschutzgebiet-Heilige-Hallen-Feldberger-Seenlandschaft.jpg
+  Heilige Hallen 12+.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heilige_Hallen_12+.jpg/400px-Heilige_Hallen_12+.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heilige_Hallen_12+.jpg/800px-Heilige_Hallen_12+.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heilige_Hallen_12+.jpg/1200px-Heilige_Hallen_12+.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Heilige_Hallen_12+.jpg/1920px-Heilige_Hallen_12+.jpg
 ---
 
 ## Overview

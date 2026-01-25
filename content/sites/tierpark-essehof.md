@@ -13,9 +13,9 @@ regions:
 latitude: 52.3061
 longitude: 10.665
 images:
-  - "/images-sites/tierpark-essehof/01-8c0fe30c-800w.webp"
-  - "/images-sites/tierpark-essehof/02-830612c5-800w.webp"
-  - "/images-sites/tierpark-essehof/03-5d121695-800w.webp"
+  - "/images/tierpark-essehof/01-8c0fe30c-800w.webp"
+  - "/images/tierpark-essehof/02-830612c5-800w.webp"
+  - "/images/tierpark-essehof/03-5d121695-800w.webp"
 ---
 
 ## Overview

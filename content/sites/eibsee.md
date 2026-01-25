@@ -1,19 +1,49 @@
 ---
-title: "Eibsee"
+title: Eibsee
 date: 2026-01-23
 draft: false
-description: "lake in Grainau municipality, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Grainau municipality, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.457777777
 longitude: 10.973055555
 images:
-  - "/images-sites/eibsee/01-55a75ab7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg/1200px-Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bayrische_Karibik.jpg/1200px-Bayrische_Karibik.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg/1200px-Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg/1200px-Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1200px-Eibsee_und_Ammergauer_Alpen.jpg
+image_srcset:
+  Eibseeseilbahn von der Zugspitze 2002-07-09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg/400px-Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg/800px-Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg/1200px-Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg/1920px-Eibseeseilbahn_von_der_Zugspitze_2002-07-09.jpg
+  Bayrische Karibik.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bayrische_Karibik.jpg/400px-Bayrische_Karibik.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bayrische_Karibik.jpg/800px-Bayrische_Karibik.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bayrische_Karibik.jpg/1200px-Bayrische_Karibik.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bayrische_Karibik.jpg/1920px-Bayrische_Karibik.jpg
+  Blick von der Zugspitze auf den Eibsee und umliegende Berge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg/400px-Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg/800px-Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg/1200px-Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg/1920px-Blick_von_der_Zugspitze_auf_den_Eibsee_und_umliegende_Berge.jpg
+  Eibsee im Herbst. Blickrichtung Waxenstein im Wettersteingebirge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg/400px-Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg/800px-Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg/1200px-Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg/1920px-Eibsee_im_Herbst._Blickrichtung_Waxenstein_im_Wettersteingebirge.jpg
+  Eibsee und Ammergauer Alpen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/400px-Eibsee_und_Ammergauer_Alpen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/800px-Eibsee_und_Ammergauer_Alpen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1200px-Eibsee_und_Ammergauer_Alpen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eibsee_und_Ammergauer_Alpen.jpg/1920px-Eibsee_und_Ammergauer_Alpen.jpg
 ---
 
 ## Overview

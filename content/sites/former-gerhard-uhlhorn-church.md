@@ -1,19 +1,51 @@
 ---
-title: "former Gerhard-Uhlhorn-Church"
-site_name: "former Gerhard-Uhlhorn-Church"
-slug: "former-gerhard-uhlhorn-church"
-region: "Lower Saxony"
-
-# Location
+title: former Gerhard-Uhlhorn-Church
+site_name: former Gerhard-Uhlhorn-Church
+slug: former-gerhard-uhlhorn-church
+region: Lower Saxony
 latitude: 52.3781
 longitude: 9.70832
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1511209"
-description: "The former Gerhard-Uhlhorn-Church, a striking example of modern architecture, stands in the Linden-Limmer region of Hannover, Germany. Built in 1963 by ..."
+- cultural site
+wikidata_id: Q1511209
+description: The former Gerhard-Uhlhorn-Church, a striking example of modern architecture,
+  stands in the Linden-Limmer region of Hannover, Germany. Built in 1963 by ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg/1200px-2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg/1200px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg/1200px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/1200px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg/1200px-Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg
+image_srcset:
+  2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg/400px-2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg/800px-2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg/1200px-2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg/1920px-2024-09-15%20Gerhard-Uhlhorn-Kirche%201050972.jpg
+  Ehem. Gerhard-Uhlhorn-Kirche in Hannover 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg/400px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg/800px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg/1200px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg/1920px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_1.jpg
+  Ehem. Gerhard-Uhlhorn-Kirche in Hannover 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg/400px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg/800px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg/1200px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg/1920px-Ehem._Gerhard-Uhlhorn-Kirche_in_Hannover_2.jpg
+  2024-09-15 Gerhard-Uhlhorn-Kirche 1050972.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/400px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/800px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/1200px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg/1920px-2024-09-15_Gerhard-Uhlhorn-Kirche_1050972.jpg
+  ? Ausstellung der Fotografien Kunstaktion LindenSindWir in der Gerhard-Uhlhorn-Kirche
+    Salzmannstraße 5 Hannover Linden-Nord.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg/400px-Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg/800px-Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg/1200px-Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg/1920px-Ausstellung_der_Fotografien_Kunstaktion_LindenSindWir_in_der_Gerhard-Uhlhorn-Kirche_Salzmannstraße_5_Hannover_Linden-Nord.jpg
 ---
 
 ## Overview

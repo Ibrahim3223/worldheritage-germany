@@ -1,19 +1,49 @@
 ---
-title: "Heylshof"
+title: Heylshof
 date: 2026-01-23
 draft: false
-description: "building and garden in Worms, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: building and garden in Worms, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.6313
 longitude: 8.359749
 images:
-  - "/images-sites/heylshof/01-5497ef49-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eingang_Domkeller_Heylshofpark.jpg/1200px-Eingang_Domkeller_Heylshofpark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/1200px-Worms_Heylshofgarten_2005-05-27a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rubens_-_RKDimages,_247747.jpg/1200px-Rubens_-_RKDimages,_247747.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hohlbein_worms.jpg/1200px-Hohlbein_worms.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VautierDorfkirche.jpg/1200px-VautierDorfkirche.jpg
+image_srcset:
+  Eingang Domkeller Heylshofpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eingang_Domkeller_Heylshofpark.jpg/400px-Eingang_Domkeller_Heylshofpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eingang_Domkeller_Heylshofpark.jpg/800px-Eingang_Domkeller_Heylshofpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eingang_Domkeller_Heylshofpark.jpg/1200px-Eingang_Domkeller_Heylshofpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Eingang_Domkeller_Heylshofpark.jpg/1920px-Eingang_Domkeller_Heylshofpark.jpg
+  Worms Heylshofgarten 2005-05-27a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/400px-Worms_Heylshofgarten_2005-05-27a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/800px-Worms_Heylshofgarten_2005-05-27a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/1200px-Worms_Heylshofgarten_2005-05-27a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Worms_Heylshofgarten_2005-05-27a.jpg/1920px-Worms_Heylshofgarten_2005-05-27a.jpg
+  Rubens - RKDimages, 247747.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rubens_-_RKDimages,_247747.jpg/400px-Rubens_-_RKDimages,_247747.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rubens_-_RKDimages,_247747.jpg/800px-Rubens_-_RKDimages,_247747.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rubens_-_RKDimages,_247747.jpg/1200px-Rubens_-_RKDimages,_247747.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rubens_-_RKDimages,_247747.jpg/1920px-Rubens_-_RKDimages,_247747.jpg
+  Hohlbein worms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hohlbein_worms.jpg/400px-Hohlbein_worms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hohlbein_worms.jpg/800px-Hohlbein_worms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hohlbein_worms.jpg/1200px-Hohlbein_worms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hohlbein_worms.jpg/1920px-Hohlbein_worms.jpg
+  VautierDorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VautierDorfkirche.jpg/400px-VautierDorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VautierDorfkirche.jpg/800px-VautierDorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VautierDorfkirche.jpg/1200px-VautierDorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VautierDorfkirche.jpg/1920px-VautierDorfkirche.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.8283
 longitude: 7.28014
 images:
-  - "/images-sites/luedinghauser-tor/01-2c03a62c-800w.webp"
+  - "/images/luedinghauser-tor/01-2c03a62c-800w.webp"
 ---
 
 ## Overview

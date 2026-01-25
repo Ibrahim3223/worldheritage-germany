@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q872821"
 description: "In the heart of Rottenburg am Neckar, Germany, stands the magnificent Rottenburg Cathedral, a stunning example of Gothic architecture. This iconic struc..."
 images:
-  - "/images-sites/rottenburg-cathedral/01-29cd13bb-1920w.webp"
-  - "/images-sites/rottenburg-cathedral/02-ccd97aa2-1920w.webp"
-  - "/images-sites/rottenburg-cathedral/03-19ab0550-1920w.webp"
+  - "/images/rottenburg-cathedral/01-29cd13bb-1920w.webp"
+  - "/images/rottenburg-cathedral/02-ccd97aa2-1920w.webp"
+  - "/images/rottenburg-cathedral/03-19ab0550-1920w.webp"
 ---
 
 ## Overview

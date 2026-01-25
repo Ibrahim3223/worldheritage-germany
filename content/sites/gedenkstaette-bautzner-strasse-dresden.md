@@ -1,19 +1,49 @@
 ---
-title: "Gedenkstätte Bautzner Straße Dresden"
+title: Gedenkstätte Bautzner Straße Dresden
 date: 2026-01-23
 draft: false
-description: "memorial in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0667
 longitude: 13.7833
 images:
-  - "/images-sites/gedenkstaette-bautzner-strasse-dresden/01-e0caec58-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1200px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG/1200px-Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg/1200px-Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg/1200px-Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DD-Bautzner-Str-112-116-2.jpg/1200px-DD-Bautzner-Str-112-116-2.jpg
+image_srcset:
+  Gedenkstätte Bautzner Straße Dresden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/400px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/800px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1200px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gedenkstätte_Bautzner_Straße_Dresden.JPG/1920px-Gedenkstätte_Bautzner_Straße_Dresden.JPG
+  Gedenkstätte Bautzner Straße Dresden - Waschraum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG/400px-Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG/800px-Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG/1200px-Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG/1920px-Gedenkstätte_Bautzner_Straße_Dresden_-_Waschraum.JPG
+  Gedenkstätte Bautzner Straße Dresden - Beratungsraum des Leiters der MfS-Bezirksverwaltung Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg/400px-Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg/800px-Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg/1200px-Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg/1920px-Gedenkstätte_Bautzner_Straße_Dresden_-_Beratungsraum_des_Leiters_der_MfS-Bezirksverwaltung_Dresden.jpg
+  Gedenkstätte Bautzner Straße Dresden – Festsaal des MfS.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg/400px-Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg/800px-Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg/1200px-Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg/1920px-Gedenkstätte_Bautzner_Straße_Dresden_–_Festsaal_des_MfS.jpg
+  DD-Bautzner-Str-112-116-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DD-Bautzner-Str-112-116-2.jpg/400px-DD-Bautzner-Str-112-116-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DD-Bautzner-Str-112-116-2.jpg/800px-DD-Bautzner-Str-112-116-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DD-Bautzner-Str-112-116-2.jpg/1200px-DD-Bautzner-Str-112-116-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DD-Bautzner-Str-112-116-2.jpg/1920px-DD-Bautzner-Str-112-116-2.jpg
 ---
 
 ## Overview

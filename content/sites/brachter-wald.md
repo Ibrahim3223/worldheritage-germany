@@ -1,19 +1,49 @@
 ---
-title: "Brachter Wald"
+title: Brachter Wald
 date: 2026-01-23
 draft: false
-description: "nature reserve in Brüggen, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Brüggen, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.264722222
 longitude: 6.146666666
 images:
-  - "/images-sites/brachter-wald/01-5693fe8b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg/1200px-Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg
+image_srcset:
+  Brüggen, Brachter Wald, 2020-06 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg/400px-Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg/800px-Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg/1920px-Brüggen,_Brachter_Wald,_2020-06_CN-01.jpg
+  Brüggen, Brachter Wald, 2020-06 CN-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg/400px-Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg/800px-Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg/1920px-Brüggen,_Brachter_Wald,_2020-06_CN-04.jpg
+  Brüggen, Brachter Wald, 2020-06 CN-08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg/400px-Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg/800px-Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg/1920px-Brüggen,_Brachter_Wald,_2020-06_CN-08.jpg
+  Brüggen, Brachter Wald, 2020-06 CN-15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg/400px-Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg/800px-Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg/1200px-Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg/1920px-Brüggen,_Brachter_Wald,_2020-06_CN-15.jpg
+  Zicht op terrein van verlaten munitiedepot, bij Brachterwald - Brüggen - 20536745 - RCE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg/400px-Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg/800px-Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg/1200px-Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg/1920px-Zicht_op_terrein_van_verlaten_munitiedepot,_bij_Brachterwald_-_Brüggen_-_20536745_-_RCE.jpg
 ---
 
 ## Overview

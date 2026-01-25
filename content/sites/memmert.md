@@ -13,7 +13,7 @@ regions:
 latitude: 53.638055555
 longitude: 6.884166666
 images:
-  - "/images-sites/memmert/01-ac76f563-800w.webp"
+  - "/images/memmert/01-ac76f563-800w.webp"
 ---
 
 ## Overview

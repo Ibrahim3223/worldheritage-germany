@@ -1,19 +1,49 @@
 ---
-title: "Gut Grünholz"
+title: Gut Grünholz
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.577
 longitude: 9.95024
 images:
-  - "/images-sites/gut-gruenholz/01-12e61363-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thumby_Gut_Grünholz_4970.jpg/1200px-Thumby_Gut_Grünholz_4970.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/1200px-Gut_Grünholz,_Herrenhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Grünholz,_Torhaus.JPG/1200px-Gut_Grünholz,_Torhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Christoph_of_Schleswig-Holstein_guest_group_2010.jpg/1200px-Christoph_of_Schleswig-Holstein_guest_group_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elisabeth_of_Schleswig-Holstein_2010.jpg/1200px-Elisabeth_of_Schleswig-Holstein_2010.jpg
+image_srcset:
+  Thumby Gut Grünholz 4970.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thumby_Gut_Grünholz_4970.jpg/400px-Thumby_Gut_Grünholz_4970.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thumby_Gut_Grünholz_4970.jpg/800px-Thumby_Gut_Grünholz_4970.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thumby_Gut_Grünholz_4970.jpg/1200px-Thumby_Gut_Grünholz_4970.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thumby_Gut_Grünholz_4970.jpg/1920px-Thumby_Gut_Grünholz_4970.jpg
+  Gut Grünholz, Herrenhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/400px-Gut_Grünholz,_Herrenhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/800px-Gut_Grünholz,_Herrenhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/1200px-Gut_Grünholz,_Herrenhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gut_Grünholz,_Herrenhaus.JPG/1920px-Gut_Grünholz,_Herrenhaus.JPG
+  Gut Grünholz, Torhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Grünholz,_Torhaus.JPG/400px-Gut_Grünholz,_Torhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Grünholz,_Torhaus.JPG/800px-Gut_Grünholz,_Torhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Grünholz,_Torhaus.JPG/1200px-Gut_Grünholz,_Torhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Grünholz,_Torhaus.JPG/1920px-Gut_Grünholz,_Torhaus.JPG
+  Christoph of Schleswig-Holstein guest group 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Christoph_of_Schleswig-Holstein_guest_group_2010.jpg/400px-Christoph_of_Schleswig-Holstein_guest_group_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Christoph_of_Schleswig-Holstein_guest_group_2010.jpg/800px-Christoph_of_Schleswig-Holstein_guest_group_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Christoph_of_Schleswig-Holstein_guest_group_2010.jpg/1200px-Christoph_of_Schleswig-Holstein_guest_group_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Christoph_of_Schleswig-Holstein_guest_group_2010.jpg/1920px-Christoph_of_Schleswig-Holstein_guest_group_2010.jpg
+  Elisabeth of Schleswig-Holstein 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elisabeth_of_Schleswig-Holstein_2010.jpg/400px-Elisabeth_of_Schleswig-Holstein_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elisabeth_of_Schleswig-Holstein_2010.jpg/800px-Elisabeth_of_Schleswig-Holstein_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elisabeth_of_Schleswig-Holstein_2010.jpg/1200px-Elisabeth_of_Schleswig-Holstein_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elisabeth_of_Schleswig-Holstein_2010.jpg/1920px-Elisabeth_of_Schleswig-Holstein_2010.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 6.76678
 
 # Images
 images:
-  - "/images-sites/kunst-im-tunnel/01-7ed38f3b-800w.webp"
+  - "/images/kunst-im-tunnel/01-7ed38f3b-800w.webp"
 ---
 
 ## Overview

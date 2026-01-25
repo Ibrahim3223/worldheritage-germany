@@ -1,19 +1,49 @@
 ---
-title: "Gießen station"
+title: Gießen station
 date: 2026-01-23
 draft: false
-description: "railway station in Gießen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Gießen, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5792
 longitude: 8.66194
 images:
-  - "/images-sites/giessen-station/01-c93cd431-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg/1200px-Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Giessen-bahnhof-2015-307.jpg/1200px-Giessen-bahnhof-2015-307.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Giessen_Bahnhof_2007.jpg/1200px-Giessen_Bahnhof_2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Giessen_RW_0229_25578_detail.webp/1200px-Giessen_RW_0229_25578_detail.webp
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Giessen_Train_Station_w_Tower_f_e.jpg/1200px-Giessen_Train_Station_w_Tower_f_e.jpg
+image_srcset:
+  Bahnhof, 13, Gießen, Landkreis Gießen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg/400px-Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg/800px-Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg/1200px-Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg/1920px-Bahnhof,_13,_Gießen,_Landkreis_Gießen.jpg
+  Giessen-bahnhof-2015-307.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Giessen-bahnhof-2015-307.jpg/400px-Giessen-bahnhof-2015-307.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Giessen-bahnhof-2015-307.jpg/800px-Giessen-bahnhof-2015-307.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Giessen-bahnhof-2015-307.jpg/1200px-Giessen-bahnhof-2015-307.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Giessen-bahnhof-2015-307.jpg/1920px-Giessen-bahnhof-2015-307.jpg
+  Giessen Bahnhof 2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Giessen_Bahnhof_2007.jpg/400px-Giessen_Bahnhof_2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Giessen_Bahnhof_2007.jpg/800px-Giessen_Bahnhof_2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Giessen_Bahnhof_2007.jpg/1200px-Giessen_Bahnhof_2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Giessen_Bahnhof_2007.jpg/1920px-Giessen_Bahnhof_2007.jpg
+  Giessen RW 0229 25578 detail.webp:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Giessen_RW_0229_25578_detail.webp/400px-Giessen_RW_0229_25578_detail.webp
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Giessen_RW_0229_25578_detail.webp/800px-Giessen_RW_0229_25578_detail.webp
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Giessen_RW_0229_25578_detail.webp/1200px-Giessen_RW_0229_25578_detail.webp
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Giessen_RW_0229_25578_detail.webp/1920px-Giessen_RW_0229_25578_detail.webp
+  Giessen Train Station w Tower f e.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Giessen_Train_Station_w_Tower_f_e.jpg/400px-Giessen_Train_Station_w_Tower_f_e.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Giessen_Train_Station_w_Tower_f_e.jpg/800px-Giessen_Train_Station_w_Tower_f_e.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Giessen_Train_Station_w_Tower_f_e.jpg/1200px-Giessen_Train_Station_w_Tower_f_e.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Giessen_Train_Station_w_Tower_f_e.jpg/1920px-Giessen_Train_Station_w_Tower_f_e.jpg
 ---
 
 ## Overview

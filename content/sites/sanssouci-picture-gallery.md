@@ -21,7 +21,7 @@ longitude: 13.041
 
 # Images
 images:
-  - "/images-sites/sanssouci-picture-gallery/01-8985e38a-800w.webp"
+  - "/images/sanssouci-picture-gallery/01-8985e38a-800w.webp"
 ---
 
 ## Overview

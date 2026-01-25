@@ -13,9 +13,9 @@ regions:
 latitude: 50.98262
 longitude: 11.326048
 images:
-  - "/images-sites/kunsthalle-harry-graf-kessler/01-3ee23969-800w.webp"
-  - "/images-sites/kunsthalle-harry-graf-kessler/02-66ec7691-800w.webp"
-  - "/images-sites/kunsthalle-harry-graf-kessler/03-8ce4bb00-800w.webp"
+  - "/images/kunsthalle-harry-graf-kessler/01-3ee23969-800w.webp"
+  - "/images/kunsthalle-harry-graf-kessler/02-66ec7691-800w.webp"
+  - "/images/kunsthalle-harry-graf-kessler/03-8ce4bb00-800w.webp"
 ---
 
 ## Overview

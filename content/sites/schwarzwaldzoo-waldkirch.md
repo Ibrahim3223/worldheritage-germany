@@ -13,7 +13,7 @@ regions:
 latitude: 48.0876
 longitude: 7.95854
 images:
-  - "/images-sites/schwarzwaldzoo-waldkirch/01-12216219-800w.webp"
+  - "/images/schwarzwaldzoo-waldkirch/01-12216219-800w.webp"
 ---
 
 ## Overview

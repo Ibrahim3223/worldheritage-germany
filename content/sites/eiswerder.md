@@ -1,19 +1,49 @@
 ---
-title: "Eiswerder"
+title: Eiswerder
 date: 2026-01-23
 draft: false
-description: "island"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 52.549
 longitude: 13.2185
 images:
-  - "/images-sites/eiswerder/01-66e9594a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg/1200px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg/1200px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg/1200px-Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-eiswerder_1_denis-apel.jpg/1200px-Berlin-eiswerder_1_denis-apel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin-eiswerder_2_denis-apel.jpg/1200px-Berlin-eiswerder_2_denis-apel.jpg
+image_srcset:
+  Eiswerder from Frieda-Arnheim-Promenade 2019-07-24 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg/400px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg/800px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg/1200px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg/1920px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_01.jpg
+  Eiswerder from Frieda-Arnheim-Promenade 2019-07-24 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg/400px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg/800px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg/1200px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg/1920px-Eiswerder_from_Frieda-Arnheim-Promenade_2019-07-24_02.jpg
+  Wehrmachtsspeicher from Spandauer-See-Brücke at night 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg/400px-Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg/800px-Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg/1200px-Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg/1920px-Wehrmachtsspeicher_from_Spandauer-See-Brücke_at_night_2.jpg
+  Berlin-eiswerder 1 denis-apel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-eiswerder_1_denis-apel.jpg/400px-Berlin-eiswerder_1_denis-apel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-eiswerder_1_denis-apel.jpg/800px-Berlin-eiswerder_1_denis-apel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-eiswerder_1_denis-apel.jpg/1200px-Berlin-eiswerder_1_denis-apel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Berlin-eiswerder_1_denis-apel.jpg/1920px-Berlin-eiswerder_1_denis-apel.jpg
+  Berlin-eiswerder 2 denis-apel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin-eiswerder_2_denis-apel.jpg/400px-Berlin-eiswerder_2_denis-apel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin-eiswerder_2_denis-apel.jpg/800px-Berlin-eiswerder_2_denis-apel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin-eiswerder_2_denis-apel.jpg/1200px-Berlin-eiswerder_2_denis-apel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin-eiswerder_2_denis-apel.jpg/1920px-Berlin-eiswerder_2_denis-apel.jpg
 ---
 
 ## Overview

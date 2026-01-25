@@ -13,7 +13,7 @@ regions:
 latitude: 47.534722222
 longitude: 10.755
 images:
-  - "/images-sites/saeuling/01-47a4bdd3-800w.webp"
+  - "/images/saeuling/01-47a4bdd3-800w.webp"
 ---
 
 ## Overview

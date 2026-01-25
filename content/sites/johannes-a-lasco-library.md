@@ -1,19 +1,50 @@
 ---
-title: "Johannes a Lasco Library"
+title: Johannes a Lasco Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 53.3653
 longitude: 7.20236
 images:
-  - "/images-sites/johannes-a-lasco-library/01-18f2e278-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/1200px-Innenraum_dergrßenkirche4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Johannes_a_Lasco_Bibliothek_emden.jpg/1200px-Johannes_a_Lasco_Bibliothek_emden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg/1200px-Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg/1200px-Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jutta_Oltmanns.jpg/1200px-Jutta_Oltmanns.jpg
+image_srcset:
+  Innenraum dergrßenkirche4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/400px-Innenraum_dergrßenkirche4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/800px-Innenraum_dergrßenkirche4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/1200px-Innenraum_dergrßenkirche4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Innenraum_dergrßenkirche4.jpg/1920px-Innenraum_dergrßenkirche4.jpg
+  Johannes a Lasco Bibliothek emden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Johannes_a_Lasco_Bibliothek_emden.jpg/400px-Johannes_a_Lasco_Bibliothek_emden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Johannes_a_Lasco_Bibliothek_emden.jpg/800px-Johannes_a_Lasco_Bibliothek_emden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Johannes_a_Lasco_Bibliothek_emden.jpg/1200px-Johannes_a_Lasco_Bibliothek_emden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Johannes_a_Lasco_Bibliothek_emden.jpg/1920px-Johannes_a_Lasco_Bibliothek_emden.jpg
+  Bakhuizen, Ludolf - Blick von der Insel Nesserland auf Emden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg/400px-Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg/800px-Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg/1200px-Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg/1920px-Bakhuizen,_Ludolf_-_Blick_von_der_Insel_Nesserland_auf_Emden.jpg
+  ? Hyperaspistes diatribae adversus servum arbitrium M Lutheri -and- Hyperasispae
+    liber secundus adversus librum M Lutheri - Upper cover (Davis651).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg/400px-Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg/800px-Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg/1200px-Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg/1920px-Hyperaspistes_diatribae_adversus_servum_arbitrium_M_Lutheri_-and-_Hyperasispae_liber_secundus_adversus_librum_M_Lutheri_-_Upper_cover_(Davis651).jpg
+  Jutta Oltmanns.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jutta_Oltmanns.jpg/400px-Jutta_Oltmanns.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jutta_Oltmanns.jpg/800px-Jutta_Oltmanns.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jutta_Oltmanns.jpg/1200px-Jutta_Oltmanns.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jutta_Oltmanns.jpg/1920px-Jutta_Oltmanns.jpg
 ---
 
 ## Overview

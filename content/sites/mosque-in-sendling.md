@@ -13,8 +13,8 @@ regions:
 latitude: 48.118055555
 longitude: 11.551388888
 images:
-  - "/images-sites/mosque-in-sendling/02-17acf841-800w.webp"
-  - "/images-sites/mosque-in-sendling/03-b66d8b57-800w.webp"
+  - "/images/mosque-in-sendling/02-17acf841-800w.webp"
+  - "/images/mosque-in-sendling/03-b66d8b57-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.13984894
 longitude: 11.57806098
 images:
-  - "/images-sites/max-joseph-platz/01-fd084f90-800w.webp"
+  - "/images/max-joseph-platz/01-fd084f90-800w.webp"
 ---
 
 ## Overview

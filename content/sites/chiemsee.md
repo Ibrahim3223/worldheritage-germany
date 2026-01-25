@@ -1,19 +1,49 @@
 ---
-title: "Chiemsee"
+title: Chiemsee
 date: 2026-01-23
 draft: false
-description: "freshwater lake in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: freshwater lake in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.89
 longitude: 12.47
 images:
-  - "/images-sites/chiemsee/01-6785b0a3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg/1200px-Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/1200px-Frauenchiemsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Herreninsel_Bootsanleger.jpg/1200px-Herreninsel_Bootsanleger.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chiemsee_Panorama_1.jpg/1200px-Chiemsee_Panorama_1.jpg
+image_srcset:
+  Die Barbara bei der Einfahrt in den Hafen von Prien 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg/400px-Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg/800px-Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg/1200px-Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg/1920px-Die_Barbara_bei_der_Einfahrt_in_den_Hafen_von_Prien_03.jpg
+  Frauenchiemsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/400px-Frauenchiemsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/800px-Frauenchiemsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/1200px-Frauenchiemsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frauenchiemsee.jpg/1920px-Frauenchiemsee.jpg
+  Aerial image of the Chiemsee (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Chiemsee_(view_from_the_southwest).jpg
+  Herreninsel Bootsanleger.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Herreninsel_Bootsanleger.jpg/400px-Herreninsel_Bootsanleger.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Herreninsel_Bootsanleger.jpg/800px-Herreninsel_Bootsanleger.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Herreninsel_Bootsanleger.jpg/1200px-Herreninsel_Bootsanleger.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Herreninsel_Bootsanleger.jpg/1920px-Herreninsel_Bootsanleger.jpg
+  Chiemsee Panorama 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chiemsee_Panorama_1.jpg/400px-Chiemsee_Panorama_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chiemsee_Panorama_1.jpg/800px-Chiemsee_Panorama_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chiemsee_Panorama_1.jpg/1200px-Chiemsee_Panorama_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chiemsee_Panorama_1.jpg/1920px-Chiemsee_Panorama_1.jpg
 ---
 
 ## Overview

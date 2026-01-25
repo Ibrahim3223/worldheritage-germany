@@ -1,20 +1,51 @@
 ---
-title: "Gemarker Kirche"
-site_name: "Gemarker Kirche"
-slug: "gemarker-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Gemarker Kirche
+site_name: Gemarker Kirche
+slug: gemarker-kirche
+region: North Rhine-Westphalia
 latitude: 51.2711
 longitude: 7.19778
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1345945"
-description: "The Gemarker Kirche, a striking church building located in the Wuppertal region of Germany, invites visitors to explore its eclectic architectural style..."
+- church building
+- religious site
+wikidata_id: Q1345945
+description: The Gemarker Kirche, a striking church building located in the Wuppertal
+  region of Germany, invites visitors to explore its eclectic architectural style...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20Zwinglistr%200029.jpg/1200px-Wuppertal%20Zwinglistr%200029.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg/1200px-GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gemarker_Kirche_Wuppertal-Barmen.jpg/1200px-Gemarker_Kirche_Wuppertal-Barmen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wuppertal_Zwinglistr_0026.jpg/1200px-Wuppertal_Zwinglistr_0026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Zwinglistr_0039.jpg/1200px-Wuppertal_Zwinglistr_0039.jpg
+image_srcset:
+  Wuppertal%20Zwinglistr%200029.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20Zwinglistr%200029.jpg/400px-Wuppertal%20Zwinglistr%200029.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20Zwinglistr%200029.jpg/800px-Wuppertal%20Zwinglistr%200029.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20Zwinglistr%200029.jpg/1200px-Wuppertal%20Zwinglistr%200029.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20Zwinglistr%200029.jpg/1920px-Wuppertal%20Zwinglistr%200029.jpg
+  GER Wuppertal Zwinglistraße 003 2016 - Gemarker Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg/400px-GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg/800px-GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg/1200px-GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg/1920px-GER_Wuppertal_Zwinglistraße_003_2016_-_Gemarker_Kirche.jpg
+  Gemarker Kirche Wuppertal-Barmen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gemarker_Kirche_Wuppertal-Barmen.jpg/400px-Gemarker_Kirche_Wuppertal-Barmen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gemarker_Kirche_Wuppertal-Barmen.jpg/800px-Gemarker_Kirche_Wuppertal-Barmen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gemarker_Kirche_Wuppertal-Barmen.jpg/1200px-Gemarker_Kirche_Wuppertal-Barmen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gemarker_Kirche_Wuppertal-Barmen.jpg/1920px-Gemarker_Kirche_Wuppertal-Barmen.jpg
+  Wuppertal Zwinglistr 0026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wuppertal_Zwinglistr_0026.jpg/400px-Wuppertal_Zwinglistr_0026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wuppertal_Zwinglistr_0026.jpg/800px-Wuppertal_Zwinglistr_0026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wuppertal_Zwinglistr_0026.jpg/1200px-Wuppertal_Zwinglistr_0026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wuppertal_Zwinglistr_0026.jpg/1920px-Wuppertal_Zwinglistr_0026.jpg
+  Wuppertal Zwinglistr 0039.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Zwinglistr_0039.jpg/400px-Wuppertal_Zwinglistr_0039.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Zwinglistr_0039.jpg/800px-Wuppertal_Zwinglistr_0039.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Zwinglistr_0039.jpg/1200px-Wuppertal_Zwinglistr_0039.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Zwinglistr_0039.jpg/1920px-Wuppertal_Zwinglistr_0039.jpg
 ---
 
 ## Overview

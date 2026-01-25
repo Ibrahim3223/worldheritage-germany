@@ -13,7 +13,7 @@ regions:
 latitude: 47.481944444
 longitude: 11.3575
 images:
-  - "/images-sites/soiernspitze/01-24e4e445-800w.webp"
+  - "/images/soiernspitze/01-24e4e445-800w.webp"
 ---
 
 ## Overview

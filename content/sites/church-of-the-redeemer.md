@@ -1,26 +1,53 @@
 ---
-title: "Church of the Redeemer"
-site_name: "Church of the Redeemer"
-slug: "church-of-the-redeemer"
-region: "Brandenburg"
-
-# Location
+title: Church of the Redeemer
+site_name: Church of the Redeemer
+slug: church-of-the-redeemer
+region: Brandenburg
 latitude: 52.424638888888886
 longitude: 13.096472222222221
 regions:
-    - "Brandenburg"
+- Brandenburg
 tags:
-  - "unesco"
-
-heritage_type: "cultural site"
+- unesco
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q564199"
-description: "The Church of the Redeemer, an architectural gem located in Potsdam, Germany, embodies a rich blend of history and artistry. Constructed in 1844, this c..."
+- cultural site
+wikidata_id: Q564199
+description: The Church of the Redeemer, an architectural gem located in Potsdam,
+  Germany, embodies a rich blend of history and artistry. Constructed in 1844, this
+  c...
 images:
-  - "/images-sites/church-of-the-redeemer/01-6a761db3-1920w.webp"
-  - "/images-sites/church-of-the-redeemer/02-75d7f0ab-1920w.webp"
-  - "/images-sites/church-of-the-redeemer/03-891bcaaa-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg/1200px-Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg/1200px-Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Redeemer_in_Woodfin,_NC.jpg/1200px-Church_of_the_Redeemer_in_Woodfin,_NC.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Church_of_the_Redeemer_side_view.jpg/1200px-Church_of_the_Redeemer_side_view.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statue_at_Church_of_the_Redeemer.jpg/1200px-Statue_at_Church_of_the_Redeemer.jpg
+image_srcset:
+  Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg/400px-Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg/800px-Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg/1200px-Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg/1920px-Teltowkanal%2007%20Wannsee%20Heilandskirche.jpg
+  Jerusalem RedeemerChurch 1-3000-202 J31m.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg/400px-Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg/800px-Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg/1200px-Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg/1920px-Jerusalem_RedeemerChurch_1-3000-202_J31m.jpg
+  Church of the Redeemer in Woodfin, NC.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Redeemer_in_Woodfin,_NC.jpg/400px-Church_of_the_Redeemer_in_Woodfin,_NC.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Redeemer_in_Woodfin,_NC.jpg/800px-Church_of_the_Redeemer_in_Woodfin,_NC.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Redeemer_in_Woodfin,_NC.jpg/1200px-Church_of_the_Redeemer_in_Woodfin,_NC.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Church_of_the_Redeemer_in_Woodfin,_NC.jpg/1920px-Church_of_the_Redeemer_in_Woodfin,_NC.jpg
+  Church of the Redeemer side view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Church_of_the_Redeemer_side_view.jpg/400px-Church_of_the_Redeemer_side_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Church_of_the_Redeemer_side_view.jpg/800px-Church_of_the_Redeemer_side_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Church_of_the_Redeemer_side_view.jpg/1200px-Church_of_the_Redeemer_side_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Church_of_the_Redeemer_side_view.jpg/1920px-Church_of_the_Redeemer_side_view.jpg
+  Statue at Church of the Redeemer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statue_at_Church_of_the_Redeemer.jpg/400px-Statue_at_Church_of_the_Redeemer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statue_at_Church_of_the_Redeemer.jpg/800px-Statue_at_Church_of_the_Redeemer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statue_at_Church_of_the_Redeemer.jpg/1200px-Statue_at_Church_of_the_Redeemer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statue_at_Church_of_the_Redeemer.jpg/1920px-Statue_at_Church_of_the_Redeemer.jpg
 ---
 
 ## Overview

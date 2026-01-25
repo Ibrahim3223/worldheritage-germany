@@ -13,7 +13,7 @@ regions:
 latitude: 48.7282
 longitude: 9.07953
 images:
-  - "/images-sites/vodafone-funkturm-stuttgart-vaihingen/01-81c6ae92-800w.webp"
+  - "/images/vodafone-funkturm-stuttgart-vaihingen/01-81c6ae92-800w.webp"
 ---
 
 ## Overview

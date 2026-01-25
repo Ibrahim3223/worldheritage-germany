@@ -21,8 +21,8 @@ longitude: 7.09396
 
 # Images
 images:
-  - "/images-sites/rheinisches-malermuseum/01-7eb46571-800w.webp"
-  - "/images-sites/rheinisches-malermuseum/02-0803b5c7-800w.webp"
+  - "/images/rheinisches-malermuseum/01-7eb46571-800w.webp"
+  - "/images/rheinisches-malermuseum/02-0803b5c7-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dornicksche Ward"
+title: Dornicksche Ward
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.825891666
 longitude: 6.270430555
 images:
-  - "/images-sites/dornicksche-ward/01-328a769b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg
+image_srcset:
+  Naturschutzgebiet Dornicksche Ward PM22-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg/400px-Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg/800px-Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg/1920px-Naturschutzgebiet_Dornicksche_Ward_PM22-05.jpg
+  Naturschutzgebiet Dornicksche Ward PM22-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg/400px-Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg/800px-Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg/1920px-Naturschutzgebiet_Dornicksche_Ward_PM22-11.jpg
+  Naturschutzgebiet Dornicksche Ward PM22-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg/400px-Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg/800px-Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg/1920px-Naturschutzgebiet_Dornicksche_Ward_PM22-12.jpg
+  Naturschutzgebiet Dornicksche Ward PM22-17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg/400px-Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg/800px-Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg/1920px-Naturschutzgebiet_Dornicksche_Ward_PM22-17.jpg
+  Naturschutzgebiet Dornicksche Ward PM18-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg/400px-Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg/800px-Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg/1200px-Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg/1920px-Naturschutzgebiet_Dornicksche_Ward_PM18-06.jpg
 ---
 
 ## Overview

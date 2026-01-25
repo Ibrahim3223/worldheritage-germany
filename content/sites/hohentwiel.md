@@ -1,19 +1,49 @@
 ---
-title: "Hohentwiel"
+title: Hohentwiel
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.764722222
 longitude: 8.818888888
 images:
-  - "/images-sites/hohentwiel/01-f0a096c6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohentwiel_1.jpg/1200px-Burg_Hohentwiel_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohentwiel_2.jpg/1200px-Burg_Hohentwiel_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Constance-ship_Hohentwiel-02ASD.jpg/1200px-Lake_Constance-ship_Hohentwiel-02ASD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hohentwiel-luftbild.jpg/1200px-Hohentwiel-luftbild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hohentwiel_sideview.jpg/1200px-Hohentwiel_sideview.jpg
+image_srcset:
+  Burg Hohentwiel 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohentwiel_1.jpg/400px-Burg_Hohentwiel_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohentwiel_1.jpg/800px-Burg_Hohentwiel_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohentwiel_1.jpg/1200px-Burg_Hohentwiel_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Burg_Hohentwiel_1.jpg/1920px-Burg_Hohentwiel_1.jpg
+  Burg Hohentwiel 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohentwiel_2.jpg/400px-Burg_Hohentwiel_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohentwiel_2.jpg/800px-Burg_Hohentwiel_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohentwiel_2.jpg/1200px-Burg_Hohentwiel_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg_Hohentwiel_2.jpg/1920px-Burg_Hohentwiel_2.jpg
+  Lake Constance-ship Hohentwiel-02ASD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Constance-ship_Hohentwiel-02ASD.jpg/400px-Lake_Constance-ship_Hohentwiel-02ASD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Constance-ship_Hohentwiel-02ASD.jpg/800px-Lake_Constance-ship_Hohentwiel-02ASD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Constance-ship_Hohentwiel-02ASD.jpg/1200px-Lake_Constance-ship_Hohentwiel-02ASD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Constance-ship_Hohentwiel-02ASD.jpg/1920px-Lake_Constance-ship_Hohentwiel-02ASD.jpg
+  Hohentwiel-luftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hohentwiel-luftbild.jpg/400px-Hohentwiel-luftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hohentwiel-luftbild.jpg/800px-Hohentwiel-luftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hohentwiel-luftbild.jpg/1200px-Hohentwiel-luftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hohentwiel-luftbild.jpg/1920px-Hohentwiel-luftbild.jpg
+  Hohentwiel sideview.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hohentwiel_sideview.jpg/400px-Hohentwiel_sideview.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hohentwiel_sideview.jpg/800px-Hohentwiel_sideview.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hohentwiel_sideview.jpg/1200px-Hohentwiel_sideview.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hohentwiel_sideview.jpg/1920px-Hohentwiel_sideview.jpg
 ---
 
 ## Overview

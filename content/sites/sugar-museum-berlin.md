@@ -13,7 +13,7 @@ regions:
 latitude: 52.5456
 longitude: 13.3453
 images:
-  - "/images-sites/sugar-museum-berlin/01-89289515-800w.webp"
+  - "/images/sugar-museum-berlin/01-89289515-800w.webp"
 ---
 
 ## Overview

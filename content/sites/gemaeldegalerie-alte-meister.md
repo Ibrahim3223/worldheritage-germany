@@ -1,27 +1,49 @@
 ---
-title: "Gemäldegalerie Alte Meister"
+title: Gemäldegalerie Alte Meister
 date: 2026-01-23
 draft: false
-description: "art gallery housed in the Schloss Wilhelmshöhe in Kassel in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art gallery housed in the Schloss Wilhelmshöhe in Kassel in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.315
 longitude: 9.41611
-
-# Images
 images:
-  - "/images-sites/gemaeldegalerie-alte-meister/01-776199c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg/1200px-Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg/1200px-Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg/1200px-Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg/1200px-Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1200px-Dresden-Zwinger-Courtyard.11.JPG
+image_srcset:
+  Gemaldegalerie Alte Meister Dresden 2010 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg/400px-Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg/800px-Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg/1200px-Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg/1920px-Gemaldegalerie_Alte_Meister_Dresden_2010_2.jpg
+  Gemaldegalerie Alte Meister Dresden 2010 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg/400px-Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg/800px-Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg/1200px-Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg/1920px-Gemaldegalerie_Alte_Meister_Dresden_2010_3.jpg
+  Gemaldegalerie Alte Meister Dresden 2010 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg/400px-Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg/800px-Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg/1200px-Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg/1920px-Gemaldegalerie_Alte_Meister_Dresden_2010_1.jpg
+  Pinacoteca do Estado de São Paulo (Lado oposto) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg/400px-Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg/800px-Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg/1200px-Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg/1920px-Pinacoteca_do_Estado_de_São_Paulo_(Lado_oposto)_2.jpg
+  Dresden-Zwinger-Courtyard.11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/400px-Dresden-Zwinger-Courtyard.11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/800px-Dresden-Zwinger-Courtyard.11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1200px-Dresden-Zwinger-Courtyard.11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dresden-Zwinger-Courtyard.11.JPG/1920px-Dresden-Zwinger-Courtyard.11.JPG
 ---
 
 ## Overview

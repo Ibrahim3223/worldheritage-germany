@@ -13,7 +13,7 @@ regions:
 latitude: 49.6323
 longitude: 8.3601
 images:
-  - "/images-sites/luther-monument-worms/01-983f60de-800w.webp"
+  - "/images/luther-monument-worms/01-983f60de-800w.webp"
 ---
 
 ## Overview

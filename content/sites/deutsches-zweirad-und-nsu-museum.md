@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Zweirad- und NSU-Museum"
+title: Deutsches Zweirad- und NSU-Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1916
 longitude: 9.2224
 images:
-  - "/images-sites/deutsches-zweirad-und-nsu-museum/01-f0b061de-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg/1200px-Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg/1200px-Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1200px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg/1200px-Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NSU_-_Museum_-_panoramio.jpg/1200px-NSU_-_Museum_-_panoramio.jpg
+image_srcset:
+  Deutsches Zweirad- und NSU-Museum Neckarsulm Parkseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg/400px-Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg/800px-Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg/1200px-Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg/1920px-Deutsches_Zweirad-_und_NSU-Museum_Neckarsulm_Parkseite.jpg
+  Eingangsbereich des Deutschen Zweirad- und NSU-Museums.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg/400px-Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg/800px-Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg/1200px-Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg/1920px-Eingangsbereich_des_Deutschen_Zweirad-_und_NSU-Museums.jpg
+  Neckarsulm-ZweiradMuseum-Innenhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/400px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/800px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1200px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Neckarsulm-ZweiradMuseum-Innenhof.JPG/1920px-Neckarsulm-ZweiradMuseum-Innenhof.JPG
+  Deutsches Zweirad- und NSU-Museum, Blick in die Motorradabteilung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg/400px-Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg/800px-Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg/1200px-Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg/1920px-Deutsches_Zweirad-_und_NSU-Museum,_Blick_in_die_Motorradabteilung.jpg
+  NSU - Museum - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NSU_-_Museum_-_panoramio.jpg/400px-NSU_-_Museum_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NSU_-_Museum_-_panoramio.jpg/800px-NSU_-_Museum_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NSU_-_Museum_-_panoramio.jpg/1200px-NSU_-_Museum_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/NSU_-_Museum_-_panoramio.jpg/1920px-NSU_-_Museum_-_panoramio.jpg
 ---
 
 ## Overview

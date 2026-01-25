@@ -21,7 +21,7 @@ longitude: 8.52677
 
 # Images
 images:
-  - "/images-sites/sparrenberg-castle/01-fed10664-800w.webp"
+  - "/images/sparrenberg-castle/01-fed10664-800w.webp"
 ---
 
 ## Overview

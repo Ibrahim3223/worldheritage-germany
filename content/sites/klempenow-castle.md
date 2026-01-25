@@ -21,9 +21,9 @@ longitude: 13.3111
 
 # Images
 images:
-  - "/images-sites/klempenow-castle/01-bb5c27ab-800w.webp"
-  - "/images-sites/klempenow-castle/02-0b9438bf-800w.webp"
-  - "/images-sites/klempenow-castle/03-04e0a23e-800w.webp"
+  - "/images/klempenow-castle/01-bb5c27ab-800w.webp"
+  - "/images/klempenow-castle/02-0b9438bf-800w.webp"
+  - "/images/klempenow-castle/03-04e0a23e-800w.webp"
 ---
 
 ## Overview

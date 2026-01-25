@@ -13,9 +13,9 @@ regions:
 latitude: 47.592845
 longitude: 12.795074
 images:
-  - "/images-sites/stadelhorn/01-79b0bbe7-800w.webp"
-  - "/images-sites/stadelhorn/02-72feba21-800w.webp"
-  - "/images-sites/stadelhorn/03-7134c465-800w.webp"
+  - "/images/stadelhorn/01-79b0bbe7-800w.webp"
+  - "/images/stadelhorn/02-72feba21-800w.webp"
+  - "/images/stadelhorn/03-7134c465-800w.webp"
 ---
 
 ## Overview

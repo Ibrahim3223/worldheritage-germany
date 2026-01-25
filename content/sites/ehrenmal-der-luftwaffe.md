@@ -1,21 +1,49 @@
 ---
-title: "Ehrenmal der Luftwaffe"
+title: Ehrenmal der Luftwaffe
 date: 2026-01-23
 draft: false
-description: "monument in Fürstenfeldbruck, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Fürstenfeldbruck, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1917
 longitude: 11.2605
 images:
-  - "/images-sites/ehrenmal-der-luftwaffe/01-be44a4f5-800w.webp"
-  - "/images-sites/ehrenmal-der-luftwaffe/02-aeeff4e7-800w.webp"
-  - "/images-sites/ehrenmal-der-luftwaffe/03-594aab83-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG/1200px-Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ehrenmal_der_Luftwaffe_17_innen.JPG/1200px-Ehrenmal_der_Luftwaffe_17_innen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ehrenmal_der_Luftwaffe_18_innen_02.JPG/1200px-Ehrenmal_der_Luftwaffe_18_innen_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG/1200px-Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg/1200px-Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg
+image_srcset:
+  Ehrenmal der Luftwaffe 02 Eingangsbereich außen gesamt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG/400px-Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG/800px-Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG/1200px-Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG/1920px-Ehrenmal_der_Luftwaffe_02_Eingangsbereich_außen_gesamt.JPG
+  Ehrenmal der Luftwaffe 17 innen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ehrenmal_der_Luftwaffe_17_innen.JPG/400px-Ehrenmal_der_Luftwaffe_17_innen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ehrenmal_der_Luftwaffe_17_innen.JPG/800px-Ehrenmal_der_Luftwaffe_17_innen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ehrenmal_der_Luftwaffe_17_innen.JPG/1200px-Ehrenmal_der_Luftwaffe_17_innen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ehrenmal_der_Luftwaffe_17_innen.JPG/1920px-Ehrenmal_der_Luftwaffe_17_innen.JPG
+  Ehrenmal der Luftwaffe 18 innen 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ehrenmal_der_Luftwaffe_18_innen_02.JPG/400px-Ehrenmal_der_Luftwaffe_18_innen_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ehrenmal_der_Luftwaffe_18_innen_02.JPG/800px-Ehrenmal_der_Luftwaffe_18_innen_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ehrenmal_der_Luftwaffe_18_innen_02.JPG/1200px-Ehrenmal_der_Luftwaffe_18_innen_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ehrenmal_der_Luftwaffe_18_innen_02.JPG/1920px-Ehrenmal_der_Luftwaffe_18_innen_02.JPG
+  Ehrenmal der Luftwaffe 10 Vorfeld-1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG/400px-Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG/800px-Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG/1200px-Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG/1920px-Ehrenmal_der_Luftwaffe_10_Vorfeld-1.JPG
+  Ehrenmal der Luftwaffe 10 Vorfeld-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg/400px-Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg/800px-Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg/1200px-Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg/1920px-Ehrenmal_der_Luftwaffe_10_Vorfeld-.jpg
 ---
 
 ## Overview

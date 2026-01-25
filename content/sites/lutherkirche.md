@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1707604"
 description: "In the heart of Dortmund, Germany, the Lutherkirche stands as a remarkable example of Gothic Revival architecture. This church, designed by architect Gu..."
 images:
-  - "/images-sites/lutherkirche/01-da297f8f-1920w.webp"
-  - "/images-sites/lutherkirche/02-cf14fb5c-1920w.webp"
-  - "/images-sites/lutherkirche/03-94b6443c-1920w.webp"
+  - "/images/lutherkirche/01-da297f8f-1920w.webp"
+  - "/images/lutherkirche/02-cf14fb5c-1920w.webp"
+  - "/images/lutherkirche/03-94b6443c-1920w.webp"
 ---
 
 ## Overview

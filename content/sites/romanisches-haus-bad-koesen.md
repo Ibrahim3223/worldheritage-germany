@@ -13,9 +13,9 @@ regions:
 latitude: 51.1356
 longitude: 11.7225
 images:
-  - "/images-sites/romanisches-haus-bad-koesen/01-557e7dbf-800w.webp"
-  - "/images-sites/romanisches-haus-bad-koesen/02-7d1585ce-800w.webp"
-  - "/images-sites/romanisches-haus-bad-koesen/03-5b50109a-800w.webp"
+  - "/images/romanisches-haus-bad-koesen/01-557e7dbf-800w.webp"
+  - "/images/romanisches-haus-bad-koesen/02-7d1585ce-800w.webp"
+  - "/images/romanisches-haus-bad-koesen/03-5b50109a-800w.webp"
 ---
 
 ## Overview

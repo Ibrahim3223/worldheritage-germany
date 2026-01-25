@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1276576"
 description: "St. Norbert Church in Düsseldorf-Garath stands as a striking example of modern architecture, built in 1966 under the vision of architect Gerhard Nitschk..."
 images:
-  - "/images-sites/st-norbert/01-2f4c388c-1920w.webp"
-  - "/images-sites/st-norbert/02-22225ee2-1920w.webp"
-  - "/images-sites/st-norbert/03-d83702ff-1920w.webp"
+  - "/images/st-norbert/01-2f4c388c-1920w.webp"
+  - "/images/st-norbert/02-22225ee2-1920w.webp"
+  - "/images/st-norbert/03-d83702ff-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Geologisches Museum München"
+title: Geologisches Museum München
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1472
 longitude: 11.5647
 images:
-  - "/images-sites/geologisches-museum-muenchen/01-385aee1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/München_Fakultät_für_Geowissenschaften_2023.jpg/1200px-München_Fakultät_für_Geowissenschaften_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Geologisches_Museum_München,_2017-09-11.jpg/1200px-Geologisches_Museum_München,_2017-09-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg/1200px-FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1200px-Geologisches_Museum_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Luisenstrasse37.jpg/1200px-Luisenstrasse37.jpg
+image_srcset:
+  München Fakultät für Geowissenschaften 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/München_Fakultät_für_Geowissenschaften_2023.jpg/400px-München_Fakultät_für_Geowissenschaften_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/München_Fakultät_für_Geowissenschaften_2023.jpg/800px-München_Fakultät_für_Geowissenschaften_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/München_Fakultät_für_Geowissenschaften_2023.jpg/1200px-München_Fakultät_für_Geowissenschaften_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/München_Fakultät_für_Geowissenschaften_2023.jpg/1920px-München_Fakultät_für_Geowissenschaften_2023.jpg
+  Geologisches Museum München, 2017-09-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Geologisches_Museum_München,_2017-09-11.jpg/400px-Geologisches_Museum_München,_2017-09-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Geologisches_Museum_München,_2017-09-11.jpg/800px-Geologisches_Museum_München,_2017-09-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Geologisches_Museum_München,_2017-09-11.jpg/1200px-Geologisches_Museum_München,_2017-09-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Geologisches_Museum_München,_2017-09-11.jpg/1920px-Geologisches_Museum_München,_2017-09-11.jpg
+  FotoTour Staatssammlung für Paläontologie und Geologie 16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg/400px-FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg/800px-FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg/1200px-FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg/1920px-FotoTour_Staatssammlung_für_Paläontologie_und_Geologie_16.jpg
+  Geologisches Museum München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/400px-Geologisches_Museum_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/800px-Geologisches_Museum_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1200px-Geologisches_Museum_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Geologisches_Museum_München.jpg/1920px-Geologisches_Museum_München.jpg
+  Luisenstrasse37.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Luisenstrasse37.jpg/400px-Luisenstrasse37.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Luisenstrasse37.jpg/800px-Luisenstrasse37.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Luisenstrasse37.jpg/1200px-Luisenstrasse37.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Luisenstrasse37.jpg/1920px-Luisenstrasse37.jpg
 ---
 
 ## Overview

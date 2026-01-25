@@ -21,7 +21,7 @@ longitude: 11.411234631
 
 # Images
 images:
-  - "/images-sites/kloster-gnadenberg/01-42ea21af-800w.webp"
+  - "/images/kloster-gnadenberg/01-42ea21af-800w.webp"
 ---
 
 ## Overview

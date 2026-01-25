@@ -1,19 +1,49 @@
 ---
-title: "Festhalle Viersen"
+title: Festhalle Viersen
 date: 2026-01-23
 draft: false
-description: "theatre, concert and multi-purpose hall in Viersen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: theatre, concert and multi-purpose hall in Viersen, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 51.253
 longitude: 6.39131
 images:
-  - "/images-sites/festhalle-viersen/01-b0dd58c4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Viersen,_Stadthalle,_Klais-Orgel_02.jpg/1200px-Viersen,_Stadthalle,_Klais-Orgel_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Viersen_(Germany)-Festhalle.jpg/1200px-Viersen_(Germany)-Festhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Festhalle_viersen.JPG/1200px-Festhalle_viersen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Viersen_Festhalle.jpg/1200px-Viersen_Festhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/361_Festhalle,_Heimbachstraße_10_(Viersen).jpg/1200px-361_Festhalle,_Heimbachstraße_10_(Viersen).jpg
+image_srcset:
+  Viersen, Stadthalle, Klais-Orgel 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Viersen,_Stadthalle,_Klais-Orgel_02.jpg/400px-Viersen,_Stadthalle,_Klais-Orgel_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Viersen,_Stadthalle,_Klais-Orgel_02.jpg/800px-Viersen,_Stadthalle,_Klais-Orgel_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Viersen,_Stadthalle,_Klais-Orgel_02.jpg/1200px-Viersen,_Stadthalle,_Klais-Orgel_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Viersen,_Stadthalle,_Klais-Orgel_02.jpg/1920px-Viersen,_Stadthalle,_Klais-Orgel_02.jpg
+  Viersen (Germany)-Festhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Viersen_(Germany)-Festhalle.jpg/400px-Viersen_(Germany)-Festhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Viersen_(Germany)-Festhalle.jpg/800px-Viersen_(Germany)-Festhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Viersen_(Germany)-Festhalle.jpg/1200px-Viersen_(Germany)-Festhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Viersen_(Germany)-Festhalle.jpg/1920px-Viersen_(Germany)-Festhalle.jpg
+  Festhalle viersen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Festhalle_viersen.JPG/400px-Festhalle_viersen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Festhalle_viersen.JPG/800px-Festhalle_viersen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Festhalle_viersen.JPG/1200px-Festhalle_viersen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Festhalle_viersen.JPG/1920px-Festhalle_viersen.JPG
+  Viersen Festhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Viersen_Festhalle.jpg/400px-Viersen_Festhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Viersen_Festhalle.jpg/800px-Viersen_Festhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Viersen_Festhalle.jpg/1200px-Viersen_Festhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Viersen_Festhalle.jpg/1920px-Viersen_Festhalle.jpg
+  361 Festhalle, Heimbachstraße 10 (Viersen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/361_Festhalle,_Heimbachstraße_10_(Viersen).jpg/400px-361_Festhalle,_Heimbachstraße_10_(Viersen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/361_Festhalle,_Heimbachstraße_10_(Viersen).jpg/800px-361_Festhalle,_Heimbachstraße_10_(Viersen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/361_Festhalle,_Heimbachstraße_10_(Viersen).jpg/1200px-361_Festhalle,_Heimbachstraße_10_(Viersen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/361_Festhalle,_Heimbachstraße_10_(Viersen).jpg/1920px-361_Festhalle,_Heimbachstraße_10_(Viersen).jpg
 ---
 
 ## Overview

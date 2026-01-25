@@ -13,7 +13,7 @@ regions:
 latitude: 50.1095
 longitude: 8.7056
 images:
-  - "/images-sites/memorial-at-the-frankfurt-grossmarkthalle/01-a0be7a09-800w.webp"
+  - "/images/memorial-at-the-frankfurt-grossmarkthalle/01-a0be7a09-800w.webp"
 ---
 
 ## Overview

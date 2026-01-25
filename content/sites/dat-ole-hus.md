@@ -1,19 +1,49 @@
 ---
-title: "Dat ole Hus"
+title: Dat ole Hus
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.071016
 longitude: 9.798034
 images:
-  - "/images-sites/dat-ole-hus/01-64459047-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dat_Ole_Hus,_Mai_2018b.jpg/1200px-Dat_Ole_Hus,_Mai_2018b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dat_Ole_Hus,_Mai_2018.jpg/1200px-Dat_Ole_Hus,_Mai_2018.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Datolehus-garten.jpg/1200px-Datolehus-garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1200px-Aukrug_ole-hus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Datolehus-2016b.jpg/1200px-Datolehus-2016b.jpg
+image_srcset:
+  Dat Ole Hus, Mai 2018b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dat_Ole_Hus,_Mai_2018b.jpg/400px-Dat_Ole_Hus,_Mai_2018b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dat_Ole_Hus,_Mai_2018b.jpg/800px-Dat_Ole_Hus,_Mai_2018b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dat_Ole_Hus,_Mai_2018b.jpg/1200px-Dat_Ole_Hus,_Mai_2018b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dat_Ole_Hus,_Mai_2018b.jpg/1920px-Dat_Ole_Hus,_Mai_2018b.jpg
+  Dat Ole Hus, Mai 2018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dat_Ole_Hus,_Mai_2018.jpg/400px-Dat_Ole_Hus,_Mai_2018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dat_Ole_Hus,_Mai_2018.jpg/800px-Dat_Ole_Hus,_Mai_2018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dat_Ole_Hus,_Mai_2018.jpg/1200px-Dat_Ole_Hus,_Mai_2018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dat_Ole_Hus,_Mai_2018.jpg/1920px-Dat_Ole_Hus,_Mai_2018.jpg
+  Datolehus-garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Datolehus-garten.jpg/400px-Datolehus-garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Datolehus-garten.jpg/800px-Datolehus-garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Datolehus-garten.jpg/1200px-Datolehus-garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Datolehus-garten.jpg/1920px-Datolehus-garten.jpg
+  Aukrug ole-hus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/400px-Aukrug_ole-hus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/800px-Aukrug_ole-hus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1200px-Aukrug_ole-hus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aukrug_ole-hus.JPG/1920px-Aukrug_ole-hus.JPG
+  Datolehus-2016b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Datolehus-2016b.jpg/400px-Datolehus-2016b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Datolehus-2016b.jpg/800px-Datolehus-2016b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Datolehus-2016b.jpg/1200px-Datolehus-2016b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Datolehus-2016b.jpg/1920px-Datolehus-2016b.jpg
 ---
 
 ## Overview

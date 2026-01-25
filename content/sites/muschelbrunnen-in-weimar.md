@@ -13,7 +13,7 @@ regions:
 latitude: 50.9831188
 longitude: 11.3215073
 images:
-  - "/images-sites/muschelbrunnen-in-weimar/01-f0177026-800w.webp"
+  - "/images/muschelbrunnen-in-weimar/01-f0177026-800w.webp"
 ---
 
 ## Overview

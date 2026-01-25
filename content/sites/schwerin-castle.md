@@ -13,7 +13,7 @@ regions:
 latitude: 53.624166666
 longitude: 11.418888888
 images:
-  - "/images-sites/schwerin-castle/01-c8f49765-800w.webp"
+  - "/images/schwerin-castle/01-c8f49765-800w.webp"
 ---
 
 ## Overview

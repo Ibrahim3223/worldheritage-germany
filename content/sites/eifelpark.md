@@ -1,21 +1,49 @@
 ---
-title: "Eifelpark"
+title: Eifelpark
 date: 2026-01-24
 draft: false
-description: "zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 49.9628
 longitude: 6.6175
 images:
-  - "/images-sites/eifelpark/01-64d3bd4f-800w.webp"
-  - "/images-sites/eifelpark/02-82393750-800w.webp"
-  - "/images-sites/eifelpark/03-15bacf45-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eifelpark_Logo_cmyk_headtype_petrol_www.jpg/1200px-Eifelpark_Logo_cmyk_headtype_petrol_www.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eifelpark_EifelparkBlitz.jpg/1200px-Eifelpark_EifelparkBlitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eifelpark_Gondorf_Alpensteinbock.JPG/1200px-Eifelpark_Gondorf_Alpensteinbock.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Eifelpark_Eifel-Coaster.jpg/1200px-Eifelpark_Eifel-Coaster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eifelpark_Petz_auf_Rutsche.jpg/1200px-Eifelpark_Petz_auf_Rutsche.jpg
+image_srcset:
+  Eifelpark Logo cmyk headtype petrol www.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eifelpark_Logo_cmyk_headtype_petrol_www.jpg/400px-Eifelpark_Logo_cmyk_headtype_petrol_www.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eifelpark_Logo_cmyk_headtype_petrol_www.jpg/800px-Eifelpark_Logo_cmyk_headtype_petrol_www.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eifelpark_Logo_cmyk_headtype_petrol_www.jpg/1200px-Eifelpark_Logo_cmyk_headtype_petrol_www.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eifelpark_Logo_cmyk_headtype_petrol_www.jpg/1920px-Eifelpark_Logo_cmyk_headtype_petrol_www.jpg
+  Eifelpark EifelparkBlitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eifelpark_EifelparkBlitz.jpg/400px-Eifelpark_EifelparkBlitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eifelpark_EifelparkBlitz.jpg/800px-Eifelpark_EifelparkBlitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eifelpark_EifelparkBlitz.jpg/1200px-Eifelpark_EifelparkBlitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eifelpark_EifelparkBlitz.jpg/1920px-Eifelpark_EifelparkBlitz.jpg
+  Eifelpark Gondorf Alpensteinbock.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eifelpark_Gondorf_Alpensteinbock.JPG/400px-Eifelpark_Gondorf_Alpensteinbock.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eifelpark_Gondorf_Alpensteinbock.JPG/800px-Eifelpark_Gondorf_Alpensteinbock.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eifelpark_Gondorf_Alpensteinbock.JPG/1200px-Eifelpark_Gondorf_Alpensteinbock.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eifelpark_Gondorf_Alpensteinbock.JPG/1920px-Eifelpark_Gondorf_Alpensteinbock.JPG
+  Eifelpark Eifel-Coaster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Eifelpark_Eifel-Coaster.jpg/400px-Eifelpark_Eifel-Coaster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Eifelpark_Eifel-Coaster.jpg/800px-Eifelpark_Eifel-Coaster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Eifelpark_Eifel-Coaster.jpg/1200px-Eifelpark_Eifel-Coaster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Eifelpark_Eifel-Coaster.jpg/1920px-Eifelpark_Eifel-Coaster.jpg
+  Eifelpark Petz auf Rutsche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eifelpark_Petz_auf_Rutsche.jpg/400px-Eifelpark_Petz_auf_Rutsche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eifelpark_Petz_auf_Rutsche.jpg/800px-Eifelpark_Petz_auf_Rutsche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eifelpark_Petz_auf_Rutsche.jpg/1200px-Eifelpark_Petz_auf_Rutsche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eifelpark_Petz_auf_Rutsche.jpg/1920px-Eifelpark_Petz_auf_Rutsche.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.4981
 longitude: 10.8809
 images:
-  - "/images-sites/nieklitzer-moor/01-a97ce6d0-800w.webp"
+  - "/images/nieklitzer-moor/01-a97ce6d0-800w.webp"
 ---
 
 ## Overview

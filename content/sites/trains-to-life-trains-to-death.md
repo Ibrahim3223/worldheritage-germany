@@ -13,9 +13,9 @@ regions:
 latitude: 52.519847
 longitude: 13.387743
 images:
-  - "/images-sites/trains-to-life-trains-to-death/01-3582e3e3-800w.webp"
-  - "/images-sites/trains-to-life-trains-to-death/02-d51019e6-800w.webp"
-  - "/images-sites/trains-to-life-trains-to-death/03-69902bd2-800w.webp"
+  - "/images/trains-to-life-trains-to-death/01-3582e3e3-800w.webp"
+  - "/images/trains-to-life-trains-to-death/02-d51019e6-800w.webp"
+  - "/images/trains-to-life-trains-to-death/03-69902bd2-800w.webp"
 ---
 
 ## Overview 

@@ -1,20 +1,49 @@
 ---
-title: "EWE Arena"
+title: EWE Arena
 date: 2026-01-23
 draft: false
-description: "multi-purpose halls in Oldenburg, Lower Saxony"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose halls in Oldenburg, Lower Saxony
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 53.146944
 longitude: 8.226667
 images:
-  - "/images-sites/ewe-arena/02-3283978a-800w.webp"
-  - "/images-sites/ewe-arena/03-a88361c7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg/1200px-(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg/1200px-(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg/1200px-(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Grosse_EWE_Arena_02.jpg/1200px-Oldenburg_Grosse_EWE_Arena_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1200px-Ewearena.jpg
+image_srcset:
+  (Kleine) EWE ARENA in Oldenburg (Oldb).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg/400px-(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg/800px-(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg/1200px-(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg/1920px-(Kleine)_EWE_ARENA_in_Oldenburg_(Oldb).jpg
+  (Kleine) EWE ARENA in Oldenburg (2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg/400px-(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg/800px-(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg/1200px-(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg/1920px-(Kleine)_EWE_ARENA_in_Oldenburg_(2023).jpg
+  (Kleine) EWE ARENA mit Kassen in Oldenburg (2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg/400px-(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg/800px-(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg/1200px-(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg/1920px-(Kleine)_EWE_ARENA_mit_Kassen_in_Oldenburg_(2023).jpg
+  Oldenburg Grosse EWE Arena 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Grosse_EWE_Arena_02.jpg/400px-Oldenburg_Grosse_EWE_Arena_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Grosse_EWE_Arena_02.jpg/800px-Oldenburg_Grosse_EWE_Arena_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Grosse_EWE_Arena_02.jpg/1200px-Oldenburg_Grosse_EWE_Arena_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Oldenburg_Grosse_EWE_Arena_02.jpg/1920px-Oldenburg_Grosse_EWE_Arena_02.jpg
+  Ewearena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/400px-Ewearena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/800px-Ewearena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1200px-Ewearena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ewearena.jpg/1920px-Ewearena.jpg
 ---
 
 ## Overview

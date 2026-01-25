@@ -1,20 +1,51 @@
 ---
-title: "Epiphanienkirche (Berlin-Westend)"
-site_name: "Epiphanienkirche (Berlin-Westend)"
-slug: "epiphanienkirche-berlin-westend"
-region: "Berlin"
-
-# Location
+title: Epiphanienkirche (Berlin-Westend)
+site_name: Epiphanienkirche (Berlin-Westend)
+slug: epiphanienkirche-berlin-westend
+region: Berlin
 latitude: 52.513
 longitude: 13.2848
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1347204"
-description: "Epiphanienkirche, located in the Charlottenburg borough of Berlin, stands as a distinctive church building marked by its eclectic architectural style. T..."
+- church building
+- religious site
+wikidata_id: Q1347204
+description: Epiphanienkirche, located in the Charlottenburg borough of Berlin, stands
+  as a distinctive church building marked by its eclectic architectural style. T...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Epiphanien-Kirche%20%28Berlin%29.jpg/1200px-Epiphanien-Kirche%20%28Berlin%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WestendRognitzstraße.jpg/1200px-WestendRognitzstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Epiphanien-Kirche_(Berlin)_Südostecke.jpg/1200px-Epiphanien-Kirche_(Berlin)_Südostecke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1200px-Epiphanien-Kirche_(Berlin).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WestendRognitzstraße_(cropped).jpg/1200px-WestendRognitzstraße_(cropped).jpg
+image_srcset:
+  Epiphanien-Kirche%20%28Berlin%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Epiphanien-Kirche%20%28Berlin%29.jpg/400px-Epiphanien-Kirche%20%28Berlin%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Epiphanien-Kirche%20%28Berlin%29.jpg/800px-Epiphanien-Kirche%20%28Berlin%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Epiphanien-Kirche%20%28Berlin%29.jpg/1200px-Epiphanien-Kirche%20%28Berlin%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Epiphanien-Kirche%20%28Berlin%29.jpg/1920px-Epiphanien-Kirche%20%28Berlin%29.jpg
+  WestendRognitzstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WestendRognitzstraße.jpg/400px-WestendRognitzstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WestendRognitzstraße.jpg/800px-WestendRognitzstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WestendRognitzstraße.jpg/1200px-WestendRognitzstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WestendRognitzstraße.jpg/1920px-WestendRognitzstraße.jpg
+  Epiphanien-Kirche (Berlin) Südostecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Epiphanien-Kirche_(Berlin)_Südostecke.jpg/400px-Epiphanien-Kirche_(Berlin)_Südostecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Epiphanien-Kirche_(Berlin)_Südostecke.jpg/800px-Epiphanien-Kirche_(Berlin)_Südostecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Epiphanien-Kirche_(Berlin)_Südostecke.jpg/1200px-Epiphanien-Kirche_(Berlin)_Südostecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Epiphanien-Kirche_(Berlin)_Südostecke.jpg/1920px-Epiphanien-Kirche_(Berlin)_Südostecke.jpg
+  Epiphanien-Kirche (Berlin).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/400px-Epiphanien-Kirche_(Berlin).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/800px-Epiphanien-Kirche_(Berlin).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1200px-Epiphanien-Kirche_(Berlin).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Epiphanien-Kirche_(Berlin).jpg/1920px-Epiphanien-Kirche_(Berlin).jpg
+  WestendRognitzstraße (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WestendRognitzstraße_(cropped).jpg/400px-WestendRognitzstraße_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WestendRognitzstraße_(cropped).jpg/800px-WestendRognitzstraße_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WestendRognitzstraße_(cropped).jpg/1200px-WestendRognitzstraße_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WestendRognitzstraße_(cropped).jpg/1920px-WestendRognitzstraße_(cropped).jpg
 ---
 
 ## Overview

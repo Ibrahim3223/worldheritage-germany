@@ -1,19 +1,49 @@
 ---
-title: "Emmeramer Tor"
+title: Emmeramer Tor
 date: 2026-01-23
 draft: false
-description: "Stadttor der mittelalterlichen Stadtbefestigung von Regensburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: Stadttor der mittelalterlichen Stadtbefestigung von Regensburg
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 49.014381135
 longitude: 12.091440739
 images:
-  - "/images-sites/emmeramer-tor/01-2f95ebb1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg/1200px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg/1200px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg/1200px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Regensburg_Emmeramertor_Rückseite.JPG/1200px-Regensburg_Emmeramertor_Rückseite.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Emmeramer_Tor_Regensburg_2011.JPG/1200px-Emmeramer_Tor_Regensburg_2011.JPG
+image_srcset:
+  Emmeramer Tor Regensburg Nähe Fürst-Anselm-Allee D-3-62-000-1725 05.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg/400px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg/800px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg/1200px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg/1920px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_05.tif.jpg
+  Emmeramer Tor Regensburg Nähe Fürst-Anselm-Allee D-3-62-000-1725 10.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg/400px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg/800px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg/1200px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg/1920px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_10.tif.jpg
+  Emmeramer Tor Regensburg Nähe Fürst-Anselm-Allee D-3-62-000-1725 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg/400px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg/800px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg/1200px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg/1920px-Emmeramer_Tor_Regensburg_Nähe_Fürst-Anselm-Allee_D-3-62-000-1725_08.jpg
+  Regensburg Emmeramertor Rückseite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Regensburg_Emmeramertor_Rückseite.JPG/400px-Regensburg_Emmeramertor_Rückseite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Regensburg_Emmeramertor_Rückseite.JPG/800px-Regensburg_Emmeramertor_Rückseite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Regensburg_Emmeramertor_Rückseite.JPG/1200px-Regensburg_Emmeramertor_Rückseite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Regensburg_Emmeramertor_Rückseite.JPG/1920px-Regensburg_Emmeramertor_Rückseite.JPG
+  Emmeramer Tor Regensburg 2011.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Emmeramer_Tor_Regensburg_2011.JPG/400px-Emmeramer_Tor_Regensburg_2011.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Emmeramer_Tor_Regensburg_2011.JPG/800px-Emmeramer_Tor_Regensburg_2011.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Emmeramer_Tor_Regensburg_2011.JPG/1200px-Emmeramer_Tor_Regensburg_2011.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Emmeramer_Tor_Regensburg_2011.JPG/1920px-Emmeramer_Tor_Regensburg_2011.JPG
 ---
 
 ## Overview

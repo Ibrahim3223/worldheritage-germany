@@ -13,7 +13,7 @@ regions:
 latitude: 49.822416525
 longitude: 11.327086105
 images:
-  - "/images-sites/rabeneck-castle/01-2b198e3d-800w.webp"
+  - "/images/rabeneck-castle/01-2b198e3d-800w.webp"
 ---
 
 ## Overview

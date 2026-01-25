@@ -13,7 +13,7 @@ regions:
 latitude: 47.562222222
 longitude: 13.057222222
 images:
-  - "/images-sites/schneibstein/01-01139692-800w.webp"
+  - "/images/schneibstein/01-01139692-800w.webp"
 ---
 
 ## Overview

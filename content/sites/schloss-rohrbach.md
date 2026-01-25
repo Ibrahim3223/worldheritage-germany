@@ -13,7 +13,7 @@ regions:
 latitude: 51.06787
 longitude: 11.397938
 images:
-  - "/images-sites/schloss-rohrbach/01-2df17fd3-800w.webp"
+  - "/images/schloss-rohrbach/01-2df17fd3-800w.webp"
 ---
 
 ## Overview

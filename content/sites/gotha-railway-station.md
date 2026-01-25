@@ -1,19 +1,49 @@
 ---
-title: "Gotha railway station"
+title: Gotha railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Gotha, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Gotha, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9392
 longitude: 10.7139
 images:
-  - "/images-sites/gotha-railway-station/01-febf4c9f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg/1200px-Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg/1200px-Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg/1200px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg/1200px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gotha-bahnhof-bahnsteig-1900.jpg/1200px-Gotha-bahnhof-bahnsteig-1900.jpg
+image_srcset:
+  Thuringia Gotha asv2020-07 img01 Gotha Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg/400px-Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg/800px-Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg/1200px-Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg/1920px-Thuringia_Gotha_asv2020-07_img01_Gotha_Bahnhof.jpg
+  Gotha Hauptbahnhof Summer 2024(tram stop).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg/400px-Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg/800px-Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg/1200px-Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg/1920px-Gotha_Hauptbahnhof_Summer_2024(tram_stop).jpg
+  Gotha Hauptbahnhof Summer 2024(tram stop) 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg/400px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg/800px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg/1200px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg/1920px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_3.jpg
+  Gotha Hauptbahnhof Summer 2024(tram stop) 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg/400px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg/800px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg/1200px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg/1920px-Gotha_Hauptbahnhof_Summer_2024(tram_stop)_4.jpg
+  Gotha-bahnhof-bahnsteig-1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gotha-bahnhof-bahnsteig-1900.jpg/400px-Gotha-bahnhof-bahnsteig-1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gotha-bahnhof-bahnsteig-1900.jpg/800px-Gotha-bahnhof-bahnsteig-1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gotha-bahnhof-bahnsteig-1900.jpg/1200px-Gotha-bahnhof-bahnsteig-1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gotha-bahnhof-bahnsteig-1900.jpg/1920px-Gotha-bahnhof-bahnsteig-1900.jpg
 ---
 
 ## Overview

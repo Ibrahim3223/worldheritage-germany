@@ -1,27 +1,49 @@
 ---
-title: "Glyptothek"
+title: Glyptothek
 date: 2026-01-23
 draft: false
-description: "archaeological museum in Munich"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: archaeological museum in Munich
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.146565531
 longitude: 11.565819516
-
-# Images
 images:
-  - "/images-sites/glyptothek/01-45b93219-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg/1200px-Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20221202_Glyptothek_Munich.jpg/1200px-20221202_Glyptothek_Munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/1200px-Glyptothek_München,_April_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG/1200px-Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glyptothek_in_München_in_2013.jpg/1200px-Glyptothek_in_München_in_2013.jpg
+image_srcset:
+  Glyptothek, Königsplatz, Múnich, Alemania, 2024-04-02, DD 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg/400px-Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg/800px-Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg/1200px-Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg/1920px-Glyptothek,_Königsplatz,_Múnich,_Alemania,_2024-04-02,_DD_02.jpg
+  20221202 Glyptothek Munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20221202_Glyptothek_Munich.jpg/400px-20221202_Glyptothek_Munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20221202_Glyptothek_Munich.jpg/800px-20221202_Glyptothek_Munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20221202_Glyptothek_Munich.jpg/1200px-20221202_Glyptothek_Munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20221202_Glyptothek_Munich.jpg/1920px-20221202_Glyptothek_Munich.jpg
+  Glyptothek München, April 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/400px-Glyptothek_München,_April_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/800px-Glyptothek_München,_April_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/1200px-Glyptothek_München,_April_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glyptothek_München,_April_2023.jpg/1920px-Glyptothek_München,_April_2023.jpg
+  Glyptothek, Königsplatz, Múnich, Alemania06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG/400px-Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG/800px-Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG/1200px-Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG/1920px-Glyptothek,_Königsplatz,_Múnich,_Alemania06.JPG
+  Glyptothek in München in 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glyptothek_in_München_in_2013.jpg/400px-Glyptothek_in_München_in_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glyptothek_in_München_in_2013.jpg/800px-Glyptothek_in_München_in_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glyptothek_in_München_in_2013.jpg/1200px-Glyptothek_in_München_in_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glyptothek_in_München_in_2013.jpg/1920px-Glyptothek_in_München_in_2013.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q125229"
 description: "St. Elizabeths Church in Wiesbaden is a striking example of Russian Orthodox architecture in Germany, founded in 1847. This church stands out not just f..."
 images:
-  - "/images-sites/st-elizabeth-s-church-wiesbaden/01-4dd27831-1920w.webp"
-  - "/images-sites/st-elizabeth-s-church-wiesbaden/02-f5776b4d-1920w.webp"
-  - "/images-sites/st-elizabeth-s-church-wiesbaden/03-041bcf1e-1920w.webp"
+  - "/images/st-elizabeth-s-church-wiesbaden/01-4dd27831-1920w.webp"
+  - "/images/st-elizabeth-s-church-wiesbaden/02-f5776b4d-1920w.webp"
+  - "/images/st-elizabeth-s-church-wiesbaden/03-041bcf1e-1920w.webp"
 ---
 
 ## Overview

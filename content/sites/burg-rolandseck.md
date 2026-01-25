@@ -1,29 +1,49 @@
 ---
-title: "Burg Rolandseck"
+title: Burg Rolandseck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.64061111
 longitude: 7.20221944
-
-# Images
 images:
-  - "/images-sites/burg-rolandseck/01-3b54b842-800w.webp"
-  - "/images-sites/burg-rolandseck/02-c50e2568-800w.webp"
-  - "/images-sites/burg-rolandseck/03-09fa877c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg/1200px-Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Rolandseck,_Rolandsbogen-0349.jpg/1200px-Burg_Rolandseck,_Rolandsbogen-0349.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rolandsbogen_3.jpg/1200px-Rolandsbogen_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/1200px-Rolandsbogen_1900.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rolandsbogen_2011_ohne_Efeu.jpg/1200px-Rolandsbogen_2011_ohne_Efeu.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Rolandsbogen in Remagen-Rolandswerth - 991119024059705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg/400px-Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg/800px-Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg/1200px-Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg/1920px-Zentralbibliothek_Zürich_-_Rolandsbogen_in_Remagen-Rolandswerth_-_991119024059705501.jpg
+  Burg Rolandseck, Rolandsbogen-0349.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Rolandseck,_Rolandsbogen-0349.jpg/400px-Burg_Rolandseck,_Rolandsbogen-0349.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Rolandseck,_Rolandsbogen-0349.jpg/800px-Burg_Rolandseck,_Rolandsbogen-0349.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Rolandseck,_Rolandsbogen-0349.jpg/1200px-Burg_Rolandseck,_Rolandsbogen-0349.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Rolandseck,_Rolandsbogen-0349.jpg/1920px-Burg_Rolandseck,_Rolandsbogen-0349.jpg
+  Rolandsbogen 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rolandsbogen_3.jpg/400px-Rolandsbogen_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rolandsbogen_3.jpg/800px-Rolandsbogen_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rolandsbogen_3.jpg/1200px-Rolandsbogen_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rolandsbogen_3.jpg/1920px-Rolandsbogen_3.jpg
+  Rolandsbogen 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/400px-Rolandsbogen_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/800px-Rolandsbogen_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/1200px-Rolandsbogen_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Rolandsbogen_1900.jpg/1920px-Rolandsbogen_1900.jpg
+  Rolandsbogen 2011 ohne Efeu.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rolandsbogen_2011_ohne_Efeu.jpg/400px-Rolandsbogen_2011_ohne_Efeu.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rolandsbogen_2011_ohne_Efeu.jpg/800px-Rolandsbogen_2011_ohne_Efeu.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rolandsbogen_2011_ohne_Efeu.jpg/1200px-Rolandsbogen_2011_ohne_Efeu.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rolandsbogen_2011_ohne_Efeu.jpg/1920px-Rolandsbogen_2011_ohne_Efeu.jpg
 ---
 
 ## Overview

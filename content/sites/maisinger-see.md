@@ -13,7 +13,7 @@ regions:
 latitude: 47.9797
 longitude: 11.2794
 images:
-  - "/images-sites/maisinger-see/01-b2d8d109-800w.webp"
+  - "/images/maisinger-see/01-b2d8d109-800w.webp"
 ---
 
 ## Overview

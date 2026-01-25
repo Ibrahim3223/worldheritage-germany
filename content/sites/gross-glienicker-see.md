@@ -1,21 +1,49 @@
 ---
-title: "Groß Glienicker See"
+title: Groß Glienicker See
 date: 2026-01-23
 draft: false
-description: "lake in Berlin and Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Berlin and Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.465277777
 longitude: 13.111111111
 images:
-  - "/images-sites/gross-glienicker-see/01-5cc4c912-800w.webp"
-  - "/images-sites/gross-glienicker-see/02-806dd555-800w.webp"
-  - "/images-sites/gross-glienicker-see/03-f20001c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg/1200px-GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg/1200px-GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Groß_Glienicker_See_Bootsanleger_4+.jpg/1200px-Groß_Glienicker_See_Bootsanleger_4+.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Topografische_Karte_Gutspark_Groß-Glienicke.png/1200px-Topografische_Karte_Gutspark_Groß-Glienicke.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg/1200px-Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg
+image_srcset:
+  GrGlienicke asv2020-10 img15 Lake Glienicke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg/400px-GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg/800px-GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg/1200px-GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg/1920px-GrGlienicke_asv2020-10_img15_Lake_Glienicke.jpg
+  GrGlienicke asv2020-10 img16 Lake Glienicke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg/400px-GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg/800px-GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg/1200px-GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg/1920px-GrGlienicke_asv2020-10_img16_Lake_Glienicke.jpg
+  Groß Glienicker See Bootsanleger 4+.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Groß_Glienicker_See_Bootsanleger_4+.jpg/400px-Groß_Glienicker_See_Bootsanleger_4+.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Groß_Glienicker_See_Bootsanleger_4+.jpg/800px-Groß_Glienicker_See_Bootsanleger_4+.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Groß_Glienicker_See_Bootsanleger_4+.jpg/1200px-Groß_Glienicker_See_Bootsanleger_4+.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Groß_Glienicker_See_Bootsanleger_4+.jpg/1920px-Groß_Glienicker_See_Bootsanleger_4+.jpg
+  Topografische Karte Gutspark Groß-Glienicke.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Topografische_Karte_Gutspark_Groß-Glienicke.png/400px-Topografische_Karte_Gutspark_Groß-Glienicke.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Topografische_Karte_Gutspark_Groß-Glienicke.png/800px-Topografische_Karte_Gutspark_Groß-Glienicke.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Topografische_Karte_Gutspark_Groß-Glienicke.png/1200px-Topografische_Karte_Gutspark_Groß-Glienicke.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Topografische_Karte_Gutspark_Groß-Glienicke.png/1920px-Topografische_Karte_Gutspark_Groß-Glienicke.png
+  Gross Glienicker See - geo.hlipp.de - 30490.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg/400px-Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg/800px-Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg/1200px-Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg/1920px-Gross_Glienicker_See_-_geo.hlipp.de_-_30490.jpg
 ---
 
 ## Overview

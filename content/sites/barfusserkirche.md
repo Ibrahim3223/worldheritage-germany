@@ -1,24 +1,51 @@
 ---
-title: "Barfüßerkirche"
-site_name: "Barfüßerkirche"
-slug: "barfusserkirche"
-region: "Saxony-Anhalt"
-
-# Location
+title: Barfüßerkirche
+site_name: Barfüßerkirche
+slug: barfusserkirche
+region: Saxony-Anhalt
 latitude: 50.9756
 longitude: 11.03
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q808125"
-description: "The Barfüßerkirche, or Barefoot Church, presents a striking example of Gothic architecture nestled in the heart of Erfurt, Thuringia, Germany. This hist..."
+- church building
+- religious site
+wikidata_id: Q808125
+description: The Barfüßerkirche, or Barefoot Church, presents a striking example of
+  Gothic architecture nestled in the heart of Erfurt, Thuringia, Germany. This hist...
 images:
-  - "/images-sites/barfusserkirche/01-30e95ef4-1920w.webp"
-  - "/images-sites/barfusserkirche/02-8da3b993-1920w.webp"
-  - "/images-sites/barfusserkirche/03-eade9bb3-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG/1200px-Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/L02_442_Historisches_Museum_Basel.jpg/1200px-L02_442_Historisches_Museum_Basel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg/1200px-Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hist.mus.basel2.jpg/1200px-Hist.mus.basel2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barfüsserkirche_1.JPG/1200px-Barfüsserkirche_1.JPG
+image_srcset:
+  Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG/400px-Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG/800px-Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG/1200px-Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG/1920px-Erfurt%20Barf%C3%BC%C3%9Ferkirche.JPG
+  L02 442 Historisches Museum Basel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/L02_442_Historisches_Museum_Basel.jpg/400px-L02_442_Historisches_Museum_Basel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/L02_442_Historisches_Museum_Basel.jpg/800px-L02_442_Historisches_Museum_Basel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/L02_442_Historisches_Museum_Basel.jpg/1200px-L02_442_Historisches_Museum_Basel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/L02_442_Historisches_Museum_Basel.jpg/1920px-L02_442_Historisches_Museum_Basel.jpg
+  Zentralbibliothek Zürich - Holzdecke im Chor der Barfüsserkirche in Basel - 991049588429705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg/400px-Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg/800px-Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg/1200px-Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg/1920px-Zentralbibliothek_Zürich_-_Holzdecke_im_Chor_der_Barfüsserkirche_in_Basel_-_991049588429705501.jpg
+  Hist.mus.basel2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hist.mus.basel2.jpg/400px-Hist.mus.basel2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hist.mus.basel2.jpg/800px-Hist.mus.basel2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hist.mus.basel2.jpg/1200px-Hist.mus.basel2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hist.mus.basel2.jpg/1920px-Hist.mus.basel2.jpg
+  Barfüsserkirche 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barfüsserkirche_1.JPG/400px-Barfüsserkirche_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barfüsserkirche_1.JPG/800px-Barfüsserkirche_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barfüsserkirche_1.JPG/1200px-Barfüsserkirche_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barfüsserkirche_1.JPG/1920px-Barfüsserkirche_1.JPG
 ---
 
 ## Overview

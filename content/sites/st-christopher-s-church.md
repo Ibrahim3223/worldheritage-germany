@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1087113"
 description: "In the heart of Berlin-Siemensstadt, St. Christophers Church stands as a striking example of modern architecture, capturing the attention of both locals..."
 images:
-  - "/images-sites/st-christopher-s-church/01-ae7523d9-1920w.webp"
-  - "/images-sites/st-christopher-s-church/02-3cd3de51-1920w.webp"
-  - "/images-sites/st-christopher-s-church/03-259afce0-1920w.webp"
+  - "/images/st-christopher-s-church/01-ae7523d9-1920w.webp"
+  - "/images/st-christopher-s-church/02-3cd3de51-1920w.webp"
+  - "/images/st-christopher-s-church/03-259afce0-1920w.webp"
 ---
 
 ## Overview

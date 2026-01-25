@@ -1,19 +1,49 @@
 ---
-title: "Cohn-Scheune"
+title: Cohn-Scheune
 date: 2026-01-23
 draft: false
-description: "museum in Rotenburg (Wümme), Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Rotenburg (Wümme), Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1097
 longitude: 9.40542
 images:
-  - "/images-sites/cohn-scheune/01-4e9edbed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg/1200px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg/1200px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cohn-Scheune_in_Rotenburg_(Wümme).jpg/1200px-Cohn-Scheune_in_Rotenburg_(Wümme).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg/1200px-Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/1200px-Cohn-Scheune.jpg
+image_srcset:
+  Skulptur an der Cohn-Scheune (Matthias Bantz) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg/400px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg/800px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg/1200px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg/1920px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_2.jpg
+  Skulptur an der Cohn-Scheune (Matthias Bantz) 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg/400px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg/800px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg/1200px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg/1920px-Skulptur_an_der_Cohn-Scheune_(Matthias_Bantz)_3.jpg
+  Cohn-Scheune in Rotenburg (Wümme).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cohn-Scheune_in_Rotenburg_(Wümme).jpg/400px-Cohn-Scheune_in_Rotenburg_(Wümme).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cohn-Scheune_in_Rotenburg_(Wümme).jpg/800px-Cohn-Scheune_in_Rotenburg_(Wümme).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cohn-Scheune_in_Rotenburg_(Wümme).jpg/1200px-Cohn-Scheune_in_Rotenburg_(Wümme).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cohn-Scheune_in_Rotenburg_(Wümme).jpg/1920px-Cohn-Scheune_in_Rotenburg_(Wümme).jpg
+  Cohn-Scheune in Rotenburg (Wümme) im Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg/400px-Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg/800px-Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg/1200px-Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg/1920px-Cohn-Scheune_in_Rotenburg_(Wümme)_im_Winter.jpg
+  Cohn-Scheune.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/400px-Cohn-Scheune.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/800px-Cohn-Scheune.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/1200px-Cohn-Scheune.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cohn-Scheune.jpg/1920px-Cohn-Scheune.jpg
 ---
 
 ## Overview

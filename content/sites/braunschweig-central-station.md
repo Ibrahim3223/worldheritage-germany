@@ -1,21 +1,49 @@
 ---
-title: "Braunschweig Central Station"
+title: Braunschweig Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Brunswick, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Brunswick, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2522
 longitude: 10.5397
 images:
-  - "/images-sites/braunschweig-central-station/01-0044e36a-800w.webp"
-  - "/images-sites/braunschweig-central-station/02-eab93885-800w.webp"
-  - "/images-sites/braunschweig-central-station/03-a007601a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg/1200px-20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1200px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Braunschweig_Hbf_1909080928.jpg/1200px-Bahnhof_Braunschweig_Hbf_1909080928.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bahnhof_Braunschweig_Hbf_1909080929.jpg/1200px-Bahnhof_Braunschweig_Hbf_1909080929.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Braunschweig_Hbf_1909080937.jpg/1200px-Bahnhof_Braunschweig_Hbf_1909080937.jpg
+image_srcset:
+  20190609 Hauptbahnhof Braunschweig Bahnsteig DSC08410 PtrQs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg/400px-20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg/800px-20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg/1200px-20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg/1920px-20190609_Hauptbahnhof_Braunschweig_Bahnsteig_DSC08410_PtrQs.jpg
+  Braunschweig Hauptbahnhof Gesamt 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/400px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/800px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1200px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Braunschweig_Hauptbahnhof_Gesamt_2.JPG/1920px-Braunschweig_Hauptbahnhof_Gesamt_2.JPG
+  Bahnhof Braunschweig Hbf 1909080928.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Braunschweig_Hbf_1909080928.jpg/400px-Bahnhof_Braunschweig_Hbf_1909080928.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Braunschweig_Hbf_1909080928.jpg/800px-Bahnhof_Braunschweig_Hbf_1909080928.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Braunschweig_Hbf_1909080928.jpg/1200px-Bahnhof_Braunschweig_Hbf_1909080928.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Braunschweig_Hbf_1909080928.jpg/1920px-Bahnhof_Braunschweig_Hbf_1909080928.jpg
+  Bahnhof Braunschweig Hbf 1909080929.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bahnhof_Braunschweig_Hbf_1909080929.jpg/400px-Bahnhof_Braunschweig_Hbf_1909080929.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bahnhof_Braunschweig_Hbf_1909080929.jpg/800px-Bahnhof_Braunschweig_Hbf_1909080929.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bahnhof_Braunschweig_Hbf_1909080929.jpg/1200px-Bahnhof_Braunschweig_Hbf_1909080929.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bahnhof_Braunschweig_Hbf_1909080929.jpg/1920px-Bahnhof_Braunschweig_Hbf_1909080929.jpg
+  Bahnhof Braunschweig Hbf 1909080937.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Braunschweig_Hbf_1909080937.jpg/400px-Bahnhof_Braunschweig_Hbf_1909080937.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Braunschweig_Hbf_1909080937.jpg/800px-Bahnhof_Braunschweig_Hbf_1909080937.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Braunschweig_Hbf_1909080937.jpg/1200px-Bahnhof_Braunschweig_Hbf_1909080937.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bahnhof_Braunschweig_Hbf_1909080937.jpg/1920px-Bahnhof_Braunschweig_Hbf_1909080937.jpg
 ---
 
 ## Overview

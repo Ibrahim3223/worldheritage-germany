@@ -1,24 +1,51 @@
 ---
-title: "Aegidienkirche"
-site_name: "Aegidienkirche"
-slug: "aegidienkirche"
-region: "Lower Saxony"
-
-# Location
+title: Aegidienkirche
+site_name: Aegidienkirche
+slug: aegidienkirche
+region: Lower Saxony
 latitude: 52.36940422625719
 longitude: 9.739298871425781
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q380599"
-description: "In the heart of Hannover, Germany, lies Aegidienkirche, a striking church ruin that invites both reflection and exploration. Founded in 1347, this Gothi..."
+- church building
+- religious site
+wikidata_id: Q380599
+description: In the heart of Hannover, Germany, lies Aegidienkirche, a striking church
+  ruin that invites both reflection and exploration. Founded in 1347, this Gothi...
 images:
-  - "/images-sites/aegidienkirche/01-70272cd4-1920w.webp"
-  - "/images-sites/aegidienkirche/02-c81bb658-1920w.webp"
-  - "/images-sites/aegidienkirche/03-74b62550-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg/1200px-Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg/1200px-Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1200px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aegidienkirche_01.jpg/1200px-Aegidienkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG/1200px-2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG
+image_srcset:
+  Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg/400px-Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg/800px-Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg/1200px-Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg/1920px-Aegidienkirche%20memorial%20Breite%20Strasse%20Osterstrasse%20Mitte%20Hannover%20Germany%2001.jpg
+  Floor relief UNSEREN TOTEN Aegidienkirche memorial Breite Strasse Mitte Hannover Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg/400px-Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg/800px-Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg/1200px-Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg/1920px-Floor_relief_UNSEREN_TOTEN_Aegidienkirche_memorial_Breite_Strasse_Mitte_Hannover_Germany.jpg
+  Aegidienkirche memorial Breite Strasse Osterstrasse Mitte Hannover Germany 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/400px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/800px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1200px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg/1920px-Aegidienkirche_memorial_Breite_Strasse_Osterstrasse_Mitte_Hannover_Germany_01.jpg
+  Aegidienkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aegidienkirche_01.jpg/400px-Aegidienkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aegidienkirche_01.jpg/800px-Aegidienkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aegidienkirche_01.jpg/1200px-Aegidienkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aegidienkirche_01.jpg/1920px-Aegidienkirche_01.jpg
+  2021-02-11 Breite Straße mit Aegidienkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG/400px-2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG/800px-2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG/1200px-2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG/1920px-2021-02-11_Breite_Straße_mit_Aegidienkirche.JPG
 ---
 
 ## Overview

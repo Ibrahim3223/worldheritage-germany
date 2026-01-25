@@ -1,19 +1,49 @@
 ---
-title: "Gut Ludwigsburg"
+title: Gut Ludwigsburg
 date: 2026-01-23
 draft: false
-description: "manor house in Waabs, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house in Waabs, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.5132
 longitude: 9.93158
 images:
-  - "/images-sites/gut-ludwigsburg/01-2a9d8df4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gut-Ludwigsburg-2019-msu-9042.jpg/1200px-Gut-Ludwigsburg-2019-msu-9042.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gut_Ludwigsburg-2019-msu-wlm-9059.jpg/1200px-Gut_Ludwigsburg-2019-msu-wlm-9059.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg/1200px-Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1200px-Herrenhaus_Gut_Ludwigsburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kohøved.jpg/1200px-Kohøved.jpg
+image_srcset:
+  Gut-Ludwigsburg-2019-msu-9042.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gut-Ludwigsburg-2019-msu-9042.jpg/400px-Gut-Ludwigsburg-2019-msu-9042.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gut-Ludwigsburg-2019-msu-9042.jpg/800px-Gut-Ludwigsburg-2019-msu-9042.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gut-Ludwigsburg-2019-msu-9042.jpg/1200px-Gut-Ludwigsburg-2019-msu-9042.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gut-Ludwigsburg-2019-msu-9042.jpg/1920px-Gut-Ludwigsburg-2019-msu-9042.jpg
+  Gut Ludwigsburg-2019-msu-wlm-9059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gut_Ludwigsburg-2019-msu-wlm-9059.jpg/400px-Gut_Ludwigsburg-2019-msu-wlm-9059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gut_Ludwigsburg-2019-msu-wlm-9059.jpg/800px-Gut_Ludwigsburg-2019-msu-wlm-9059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gut_Ludwigsburg-2019-msu-wlm-9059.jpg/1200px-Gut_Ludwigsburg-2019-msu-wlm-9059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gut_Ludwigsburg-2019-msu-wlm-9059.jpg/1920px-Gut_Ludwigsburg-2019-msu-wlm-9059.jpg
+  Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg/400px-Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg/800px-Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg/1200px-Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg/1920px-Gut-Ludwigsburg-msu-2023-0I9A-1489-.jpg
+  Herrenhaus Gut Ludwigsburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/400px-Herrenhaus_Gut_Ludwigsburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/800px-Herrenhaus_Gut_Ludwigsburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1200px-Herrenhaus_Gut_Ludwigsburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Herrenhaus_Gut_Ludwigsburg.JPG/1920px-Herrenhaus_Gut_Ludwigsburg.JPG
+  Kohøved.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kohøved.jpg/400px-Kohøved.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kohøved.jpg/800px-Kohøved.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kohøved.jpg/1200px-Kohøved.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kohøved.jpg/1920px-Kohøved.jpg
 ---
 
 ## Overview

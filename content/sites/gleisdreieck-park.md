@@ -1,19 +1,49 @@
 ---
-title: "Gleisdreieck Park"
+title: Gleisdreieck Park
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4958
 longitude: 13.3758
 images:
-  - "/images-sites/gleisdreieck-park/01-d506fc18-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg/1200px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg/1200px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg/1200px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gleisdreieckpark_2019-10-19_07.jpg/1200px-Gleisdreieckpark_2019-10-19_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg/1200px-Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg
+image_srcset:
+  Naturdenkmal Findling Gleisdreieck Park Berlin-Kreuzberg 2024-05-05 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg/400px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg/800px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg/1200px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg/1920px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_01.jpg
+  Naturdenkmal Findling Gleisdreieck Park Berlin-Kreuzberg 2024-05-05 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg/400px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg/800px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg/1200px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg/1920px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_02.jpg
+  Naturdenkmal Findling Gleisdreieck Park Berlin-Kreuzberg 2024-05-05 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg/400px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg/800px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg/1200px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg/1920px-Naturdenkmal_Findling_Gleisdreieck_Park_Berlin-Kreuzberg_2024-05-05_03.jpg
+  Gleisdreieckpark 2019-10-19 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gleisdreieckpark_2019-10-19_07.jpg/400px-Gleisdreieckpark_2019-10-19_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gleisdreieckpark_2019-10-19_07.jpg/800px-Gleisdreieckpark_2019-10-19_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gleisdreieckpark_2019-10-19_07.jpg/1200px-Gleisdreieckpark_2019-10-19_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gleisdreieckpark_2019-10-19_07.jpg/1920px-Gleisdreieckpark_2019-10-19_07.jpg
+  Berlin Park am Gleisdreieck lub 2023-05-02 U-Bahn-Viadukt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg/400px-Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg/800px-Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg/1200px-Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg/1920px-Berlin_Park_am_Gleisdreieck_lub_2023-05-02_U-Bahn-Viadukt.jpg
 ---
 
 ## Overview

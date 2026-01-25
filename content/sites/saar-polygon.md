@@ -13,7 +13,7 @@ regions:
 latitude: 49.318
 longitude: 6.785
 images:
-  - "/images-sites/saar-polygon/01-55fcc672-800w.webp"
+  - "/images/saar-polygon/01-55fcc672-800w.webp"
 ---
 
 ## Overview

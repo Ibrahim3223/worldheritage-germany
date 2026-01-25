@@ -13,7 +13,7 @@ regions:
 latitude: 52.5158
 longitude: 13.3808
 images:
-  - "/images-sites/palais-strousberg/01-5f348ea1-800w.webp"
+  - "/images/palais-strousberg/01-5f348ea1-800w.webp"
 ---
 
 ## Overview

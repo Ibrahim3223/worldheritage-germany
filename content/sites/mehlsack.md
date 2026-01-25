@@ -13,9 +13,9 @@ regions:
 latitude: 47.77943056
 longitude: 9.61550556
 images:
-  - "/images-sites/mehlsack/01-3dcda87b-800w.webp"
-  - "/images-sites/mehlsack/02-12af4bb5-800w.webp"
-  - "/images-sites/mehlsack/03-08719d47-800w.webp"
+  - "/images/mehlsack/01-3dcda87b-800w.webp"
+  - "/images/mehlsack/02-12af4bb5-800w.webp"
+  - "/images/mehlsack/03-08719d47-800w.webp"
 ---
 
 ## Overview

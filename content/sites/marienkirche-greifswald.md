@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1238725"
 description: "In the heart of Greifswald, a remarkable church structure emerges, known as Marienkirche. This brick Gothic masterpiece captivates visitors with its stu..."
 images:
-  - "/images-sites/marienkirche-greifswald/01-4bf724d6-1920w.webp"
-  - "/images-sites/marienkirche-greifswald/02-e0b9ae4b-1920w.webp"
-  - "/images-sites/marienkirche-greifswald/03-75e02c3b-1920w.webp"
+  - "/images/marienkirche-greifswald/01-4bf724d6-1920w.webp"
+  - "/images/marienkirche-greifswald/02-e0b9ae4b-1920w.webp"
+  - "/images/marienkirche-greifswald/03-75e02c3b-1920w.webp"
 ---
 
 ## Overview

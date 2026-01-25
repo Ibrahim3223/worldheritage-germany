@@ -13,7 +13,7 @@ regions:
 latitude: 47.864444444
 longitude: 8.022222222
 images:
-  - "/images-sites/seebuck/01-edd16f53-800w.webp"
+  - "/images/seebuck/01-edd16f53-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Deutsches Korbmuseum"
+title: Deutsches Korbmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.162047
 longitude: 11.113764
 images:
-  - "/images-sites/deutsches-korbmuseum/02-ed2a5a11-800w.webp"
-  - "/images-sites/deutsches-korbmuseum/03-cb564ca2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ansicht_Deutsches_Korbmuseum.jpg/1200px-Ansicht_Deutsches_Korbmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg
+image_srcset:
+  Michelau - Deutsches Korbmacher Museum (MGK 18078).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg/400px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg/800px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg/1920px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18078).jpg
+  Michelau - Deutsches Korbmacher Museum (MGK 18085).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg/400px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg/800px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg/1920px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18085).jpg
+  Michelau - Deutsches Korbmacher Museum (MGK 18072).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg/400px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg/800px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg/1920px-Michelau_-_Deutsches_Korbmacher_Museum_(MGK_18072).jpg
+  Ansicht Deutsches Korbmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ansicht_Deutsches_Korbmuseum.jpg/400px-Ansicht_Deutsches_Korbmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ansicht_Deutsches_Korbmuseum.jpg/800px-Ansicht_Deutsches_Korbmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ansicht_Deutsches_Korbmuseum.jpg/1200px-Ansicht_Deutsches_Korbmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ansicht_Deutsches_Korbmuseum.jpg/1920px-Ansicht_Deutsches_Korbmuseum.jpg
+  Michelau - Deutsches Korbmacher Museum - Scheitelstein (MGK 18074).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg/400px-Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg/800px-Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg/1200px-Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg/1920px-Michelau_-_Deutsches_Korbmacher_Museum_-_Scheitelstein_(MGK_18074).jpg
 ---
 
 ## Overview

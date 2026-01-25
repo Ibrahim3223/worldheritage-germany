@@ -1,19 +1,49 @@
 ---
-title: "Bremen TV tower"
+title: Bremen TV tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0957
 longitude: 8.79187
 images:
-  - "/images-sites/bremen-tv-tower/01-c9b170e4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/HB_2016-0607_photo27_TV_Tower.jpg/1200px-HB_2016-0607_photo27_TV_Tower.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/1200px-Fernmeldeturm_Bremen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FernmeldeTurm-Bremen-NachUnten.jpg/1200px-FernmeldeTurm-Bremen-NachUnten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bremer_Fernsehturm.jpg/1200px-Bremer_Fernsehturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Bremen_(1)_(Falke).jpg/1200px-Fernmeldeturm_Bremen_(1)_(Falke).jpg
+image_srcset:
+  HB 2016-0607 photo27 TV Tower.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/HB_2016-0607_photo27_TV_Tower.jpg/400px-HB_2016-0607_photo27_TV_Tower.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/HB_2016-0607_photo27_TV_Tower.jpg/800px-HB_2016-0607_photo27_TV_Tower.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/HB_2016-0607_photo27_TV_Tower.jpg/1200px-HB_2016-0607_photo27_TV_Tower.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/HB_2016-0607_photo27_TV_Tower.jpg/1920px-HB_2016-0607_photo27_TV_Tower.jpg
+  Fernmeldeturm Bremen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/400px-Fernmeldeturm_Bremen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/800px-Fernmeldeturm_Bremen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/1200px-Fernmeldeturm_Bremen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernmeldeturm_Bremen_(1).jpg/1920px-Fernmeldeturm_Bremen_(1).jpg
+  FernmeldeTurm-Bremen-NachUnten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FernmeldeTurm-Bremen-NachUnten.jpg/400px-FernmeldeTurm-Bremen-NachUnten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FernmeldeTurm-Bremen-NachUnten.jpg/800px-FernmeldeTurm-Bremen-NachUnten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FernmeldeTurm-Bremen-NachUnten.jpg/1200px-FernmeldeTurm-Bremen-NachUnten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FernmeldeTurm-Bremen-NachUnten.jpg/1920px-FernmeldeTurm-Bremen-NachUnten.jpg
+  Bremer Fernsehturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bremer_Fernsehturm.jpg/400px-Bremer_Fernsehturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bremer_Fernsehturm.jpg/800px-Bremer_Fernsehturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bremer_Fernsehturm.jpg/1200px-Bremer_Fernsehturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bremer_Fernsehturm.jpg/1920px-Bremer_Fernsehturm.jpg
+  Fernmeldeturm Bremen (1) (Falke).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Bremen_(1)_(Falke).jpg/400px-Fernmeldeturm_Bremen_(1)_(Falke).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Bremen_(1)_(Falke).jpg/800px-Fernmeldeturm_Bremen_(1)_(Falke).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Bremen_(1)_(Falke).jpg/1200px-Fernmeldeturm_Bremen_(1)_(Falke).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fernmeldeturm_Bremen_(1)_(Falke).jpg/1920px-Fernmeldeturm_Bremen_(1)_(Falke).jpg
 ---
 
 ## Overview

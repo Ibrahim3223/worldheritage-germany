@@ -13,7 +13,7 @@ regions:
 latitude: 51.3347
 longitude: 14.1115
 images:
-  - "/images-sites/teichgebiet-biehla-weissig/01-a1a1066f-800w.webp"
+  - "/images/teichgebiet-biehla-weissig/01-a1a1066f-800w.webp"
 ---
 
 ## Overview

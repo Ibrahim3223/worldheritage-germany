@@ -1,19 +1,43 @@
 ---
-title: "Burg Lahr"
+title: Burg Lahr
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6199
 longitude: 7.4959
 images:
-  - "/images-sites/burg-lahr/01-cbdc8bd4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Lahr_8178.jpg/1200px-Burg_Lahr_8178.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019-06-29-Burg_Lahr-0602.jpg/1200px-2019-06-29-Burg_Lahr-0602.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/1200px-2019-06-29-Burg_Lahr-0603.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burgturm_burglahr.jpg/1200px-Burgturm_burglahr.jpg
+image_srcset:
+  Burg Lahr 8178.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Lahr_8178.jpg/400px-Burg_Lahr_8178.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Lahr_8178.jpg/800px-Burg_Lahr_8178.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Lahr_8178.jpg/1200px-Burg_Lahr_8178.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Lahr_8178.jpg/1920px-Burg_Lahr_8178.jpg
+  2019-06-29-Burg Lahr-0602.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019-06-29-Burg_Lahr-0602.jpg/400px-2019-06-29-Burg_Lahr-0602.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019-06-29-Burg_Lahr-0602.jpg/800px-2019-06-29-Burg_Lahr-0602.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019-06-29-Burg_Lahr-0602.jpg/1200px-2019-06-29-Burg_Lahr-0602.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019-06-29-Burg_Lahr-0602.jpg/1920px-2019-06-29-Burg_Lahr-0602.jpg
+  2019-06-29-Burg Lahr-0603.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/400px-2019-06-29-Burg_Lahr-0603.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/800px-2019-06-29-Burg_Lahr-0603.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/1200px-2019-06-29-Burg_Lahr-0603.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2019-06-29-Burg_Lahr-0603.jpg/1920px-2019-06-29-Burg_Lahr-0603.jpg
+  Burgturm burglahr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burgturm_burglahr.jpg/400px-Burgturm_burglahr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burgturm_burglahr.jpg/800px-Burgturm_burglahr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burgturm_burglahr.jpg/1200px-Burgturm_burglahr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Burgturm_burglahr.jpg/1920px-Burgturm_burglahr.jpg
 ---
 
 ## Overview

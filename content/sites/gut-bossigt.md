@@ -1,19 +1,31 @@
 ---
-title: "Gut Bossigt"
+title: Gut Bossigt
 date: 2026-01-23
 draft: false
-description: "architectural heritage monument"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: architectural heritage monument
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6852
 longitude: 6.63664
 images:
-  - "/images-sites/gut-bossigt/01-740cee7a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1200px-Wesel_Gut_Bossigt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Bossigt_XIX_Wesel.jpg/1200px-Gut_Bossigt_XIX_Wesel.jpg
+image_srcset:
+  Wesel Gut Bossigt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/400px-Wesel_Gut_Bossigt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/800px-Wesel_Gut_Bossigt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1200px-Wesel_Gut_Bossigt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wesel_Gut_Bossigt.jpg/1920px-Wesel_Gut_Bossigt.jpg
+  Gut Bossigt XIX Wesel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Bossigt_XIX_Wesel.jpg/400px-Gut_Bossigt_XIX_Wesel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Bossigt_XIX_Wesel.jpg/800px-Gut_Bossigt_XIX_Wesel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Bossigt_XIX_Wesel.jpg/1200px-Gut_Bossigt_XIX_Wesel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gut_Bossigt_XIX_Wesel.jpg/1920px-Gut_Bossigt_XIX_Wesel.jpg
 ---
 
 ## Overview

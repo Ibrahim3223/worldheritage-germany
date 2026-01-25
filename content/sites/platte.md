@@ -13,9 +13,9 @@ regions:
 latitude: 50.13457
 longitude: 8.21792
 images:
-  - "/images-sites/platte/01-8ba56b51-800w.webp"
-  - "/images-sites/platte/02-dc99d9c0-800w.webp"
-  - "/images-sites/platte/03-e7006ac0-800w.webp"
+  - "/images/platte/01-8ba56b51-800w.webp"
+  - "/images/platte/02-dc99d9c0-800w.webp"
+  - "/images/platte/03-e7006ac0-800w.webp"
 ---
 
 ## Overview

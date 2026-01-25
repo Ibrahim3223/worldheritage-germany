@@ -13,8 +13,8 @@ regions:
 latitude: 52.25371
 longitude: 10.56814
 images:
-  - "/images-sites/sowjetisches-ehrenmal/01-fc0918ec-800w.webp"
-  - "/images-sites/sowjetisches-ehrenmal/02-489283a8-800w.webp"
+  - "/images/sowjetisches-ehrenmal/01-fc0918ec-800w.webp"
+  - "/images/sowjetisches-ehrenmal/02-489283a8-800w.webp"
 ---
 
 ## Overview

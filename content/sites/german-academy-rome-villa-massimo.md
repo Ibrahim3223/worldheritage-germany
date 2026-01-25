@@ -1,19 +1,49 @@
 ---
-title: "German academy Rome Villa Massimo"
+title: German academy Rome Villa Massimo
 date: 2026-01-23
 draft: false
-description: "academy in Rome, Italy"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cultural Center"
+description: academy in Rome, Italy
+region: Germany
+country: Germany
+heritage_type: Cultural Center
 categories:
-  - "Cultural Center"
+- Cultural Center
 regions:
-  - "Germany"
+- Germany
 latitude: 41.916713
 longitude: 12.519111
 images:
-  - "/images-sites/german-academy-rome-villa-massimo/01-ed786bee-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Benedikt-hartl-villa-massimo-2024-03.jpg/1200px-Benedikt-hartl-villa-massimo-2024-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg/1200px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg/1200px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Premiazione_Wiki_Loves_Lazio_2024_05.jpg/1200px-Premiazione_Wiki_Loves_Lazio_2024_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Premiazione_Wiki_Loves_Lazio_2024_30.jpg/1200px-Premiazione_Wiki_Loves_Lazio_2024_30.jpg
+image_srcset:
+  Benedikt-hartl-villa-massimo-2024-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Benedikt-hartl-villa-massimo-2024-03.jpg/400px-Benedikt-hartl-villa-massimo-2024-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Benedikt-hartl-villa-massimo-2024-03.jpg/800px-Benedikt-hartl-villa-massimo-2024-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Benedikt-hartl-villa-massimo-2024-03.jpg/1200px-Benedikt-hartl-villa-massimo-2024-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Benedikt-hartl-villa-massimo-2024-03.jpg/1920px-Benedikt-hartl-villa-massimo-2024-03.jpg
+  Accademia Tedesca Roma Villa Massimo - insegna in italiano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg/400px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg/800px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg/1200px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg/1920px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_italiano.jpg
+  Accademia Tedesca Roma Villa Massimo - insegna in tedesco.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg/400px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg/800px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg/1200px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg/1920px-Accademia_Tedesca_Roma_Villa_Massimo_-_insegna_in_tedesco.jpg
+  Premiazione Wiki Loves Lazio 2024 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Premiazione_Wiki_Loves_Lazio_2024_05.jpg/400px-Premiazione_Wiki_Loves_Lazio_2024_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Premiazione_Wiki_Loves_Lazio_2024_05.jpg/800px-Premiazione_Wiki_Loves_Lazio_2024_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Premiazione_Wiki_Loves_Lazio_2024_05.jpg/1200px-Premiazione_Wiki_Loves_Lazio_2024_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Premiazione_Wiki_Loves_Lazio_2024_05.jpg/1920px-Premiazione_Wiki_Loves_Lazio_2024_05.jpg
+  Premiazione Wiki Loves Lazio 2024 30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Premiazione_Wiki_Loves_Lazio_2024_30.jpg/400px-Premiazione_Wiki_Loves_Lazio_2024_30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Premiazione_Wiki_Loves_Lazio_2024_30.jpg/800px-Premiazione_Wiki_Loves_Lazio_2024_30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Premiazione_Wiki_Loves_Lazio_2024_30.jpg/1200px-Premiazione_Wiki_Loves_Lazio_2024_30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Premiazione_Wiki_Loves_Lazio_2024_30.jpg/1920px-Premiazione_Wiki_Loves_Lazio_2024_30.jpg
 ---
 
 ## Overview

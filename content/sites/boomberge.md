@@ -1,21 +1,49 @@
 ---
-title: "Boomberge"
+title: Boomberge
 date: 2026-01-23
 draft: false
-description: "nature reserve in Harsewinkel, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Harsewinkel, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.95
 longitude: 8.23611
 images:
-  - "/images-sites/boomberge/01-2c26b10c-800w.webp"
-  - "/images-sites/boomberge/02-c16b8282-800w.webp"
-  - "/images-sites/boomberge/03-7a4caee1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forest_Dawn.jpg/1200px-Forest_Dawn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boomberge_Harsewinkel_Nadelbaum.jpg/1200px-Boomberge_Harsewinkel_Nadelbaum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boomberge_Harsewinkel_Teich.jpg/1200px-Boomberge_Harsewinkel_Teich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomberge_Harsewinkel_Wald.jpg/1200px-Boomberge_Harsewinkel_Wald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1200px-Boomberge_Harsewinkel.jpg
+image_srcset:
+  Forest Dawn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forest_Dawn.jpg/400px-Forest_Dawn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forest_Dawn.jpg/800px-Forest_Dawn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forest_Dawn.jpg/1200px-Forest_Dawn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Forest_Dawn.jpg/1920px-Forest_Dawn.jpg
+  Boomberge Harsewinkel Nadelbaum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boomberge_Harsewinkel_Nadelbaum.jpg/400px-Boomberge_Harsewinkel_Nadelbaum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boomberge_Harsewinkel_Nadelbaum.jpg/800px-Boomberge_Harsewinkel_Nadelbaum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boomberge_Harsewinkel_Nadelbaum.jpg/1200px-Boomberge_Harsewinkel_Nadelbaum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Boomberge_Harsewinkel_Nadelbaum.jpg/1920px-Boomberge_Harsewinkel_Nadelbaum.jpg
+  Boomberge Harsewinkel Teich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boomberge_Harsewinkel_Teich.jpg/400px-Boomberge_Harsewinkel_Teich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boomberge_Harsewinkel_Teich.jpg/800px-Boomberge_Harsewinkel_Teich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boomberge_Harsewinkel_Teich.jpg/1200px-Boomberge_Harsewinkel_Teich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boomberge_Harsewinkel_Teich.jpg/1920px-Boomberge_Harsewinkel_Teich.jpg
+  Boomberge Harsewinkel Wald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomberge_Harsewinkel_Wald.jpg/400px-Boomberge_Harsewinkel_Wald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomberge_Harsewinkel_Wald.jpg/800px-Boomberge_Harsewinkel_Wald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomberge_Harsewinkel_Wald.jpg/1200px-Boomberge_Harsewinkel_Wald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomberge_Harsewinkel_Wald.jpg/1920px-Boomberge_Harsewinkel_Wald.jpg
+  Boomberge Harsewinkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/400px-Boomberge_Harsewinkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/800px-Boomberge_Harsewinkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1200px-Boomberge_Harsewinkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Boomberge_Harsewinkel.jpg/1920px-Boomberge_Harsewinkel.jpg
 ---
 
 ## Overview

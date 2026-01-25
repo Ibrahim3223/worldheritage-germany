@@ -1,27 +1,50 @@
 ---
-title: "Freiburg Botanical Garden"
+title: Freiburg Botanical Garden
 date: 2026-01-23
 draft: false
-description: "botanical garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.0097
 longitude: 7.85833
-
-# Images
 images:
-  - "/images-sites/freiburg-botanical-garden/01-e488258c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Botanischer_Garten_Freiburg_-_DSC06299.jpg/1200px-Botanischer_Garten_Freiburg_-_DSC06299.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tom_Brane-City_of_Freiburg_15.jpg/1200px-Tom_Brane-City_of_Freiburg_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/1200px-Botanischer_Garten_Freiburg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg/1200px-April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg/1200px-Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg
+image_srcset:
+  Botanischer Garten Freiburg - DSC06299.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Botanischer_Garten_Freiburg_-_DSC06299.jpg/400px-Botanischer_Garten_Freiburg_-_DSC06299.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Botanischer_Garten_Freiburg_-_DSC06299.jpg/800px-Botanischer_Garten_Freiburg_-_DSC06299.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Botanischer_Garten_Freiburg_-_DSC06299.jpg/1200px-Botanischer_Garten_Freiburg_-_DSC06299.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Botanischer_Garten_Freiburg_-_DSC06299.jpg/1920px-Botanischer_Garten_Freiburg_-_DSC06299.jpg
+  Tom Brane-City of Freiburg 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tom_Brane-City_of_Freiburg_15.jpg/400px-Tom_Brane-City_of_Freiburg_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tom_Brane-City_of_Freiburg_15.jpg/800px-Tom_Brane-City_of_Freiburg_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tom_Brane-City_of_Freiburg_15.jpg/1200px-Tom_Brane-City_of_Freiburg_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tom_Brane-City_of_Freiburg_15.jpg/1920px-Tom_Brane-City_of_Freiburg_15.jpg
+  Botanischer Garten Freiburg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/400px-Botanischer_Garten_Freiburg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/800px-Botanischer_Garten_Freiburg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/1200px-Botanischer_Garten_Freiburg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Botanischer_Garten_Freiburg_2.jpg/1920px-Botanischer_Garten_Freiburg_2.jpg
+  April Botanic Garden Freiburg - Master Botany Photography 2014 - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg/400px-April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg/800px-April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg/1200px-April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg/1920px-April_Botanic_Garden_Freiburg_-_Master_Botany_Photography_2014_-_panoramio_(1).jpg
+  ? Sequoiadendron giganteum, Mammutbaum - October 2013 - Master Botany Photography
+    - Botanischer Garten Freiburg - panoramio.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg/400px-Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg/800px-Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg/1200px-Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg/1920px-Sequoiadendron_giganteum,_Mammutbaum_-_October_2013_-_Master_Botany_Photography_-_Botanischer_Garten_Freiburg_-_panoramio.jpg
 ---
 
 ## Overview

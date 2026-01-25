@@ -1,19 +1,49 @@
 ---
-title: "Elbe"
+title: Elbe
 date: 2026-01-23
 draft: false
-description: "major river in Central Europe"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: major river in Central Europe
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 53.922222222
 longitude: 8.722222222
 images:
-  - "/images-sites/elbe/01-e261fe0d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elbe_estuary_(elbe-estuary).jpg/1200px-Elbe_estuary_(elbe-estuary).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbe_in_Saxon_Switzerland.jpg/1200px-Elbe_in_Saxon_Switzerland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Labe_udoli.jpg/1200px-Labe_udoli.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pont_manga-labé.jpg/1200px-Pont_manga-labé.jpg
+image_srcset:
+  Dresden-nightpanorama-dri.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/400px-Dresden-nightpanorama-dri.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/800px-Dresden-nightpanorama-dri.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1920px-Dresden-nightpanorama-dri.jpg
+  Elbe estuary (elbe-estuary).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elbe_estuary_(elbe-estuary).jpg/400px-Elbe_estuary_(elbe-estuary).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elbe_estuary_(elbe-estuary).jpg/800px-Elbe_estuary_(elbe-estuary).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elbe_estuary_(elbe-estuary).jpg/1200px-Elbe_estuary_(elbe-estuary).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Elbe_estuary_(elbe-estuary).jpg/1920px-Elbe_estuary_(elbe-estuary).jpg
+  Elbe in Saxon Switzerland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbe_in_Saxon_Switzerland.jpg/400px-Elbe_in_Saxon_Switzerland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbe_in_Saxon_Switzerland.jpg/800px-Elbe_in_Saxon_Switzerland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbe_in_Saxon_Switzerland.jpg/1200px-Elbe_in_Saxon_Switzerland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elbe_in_Saxon_Switzerland.jpg/1920px-Elbe_in_Saxon_Switzerland.jpg
+  Labe udoli.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Labe_udoli.jpg/400px-Labe_udoli.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Labe_udoli.jpg/800px-Labe_udoli.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Labe_udoli.jpg/1200px-Labe_udoli.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Labe_udoli.jpg/1920px-Labe_udoli.jpg
+  Pont manga-labé.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pont_manga-labé.jpg/400px-Pont_manga-labé.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pont_manga-labé.jpg/800px-Pont_manga-labé.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pont_manga-labé.jpg/1200px-Pont_manga-labé.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pont_manga-labé.jpg/1920px-Pont_manga-labé.jpg
 ---
 
 ## Overview

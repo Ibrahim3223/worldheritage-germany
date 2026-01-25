@@ -1,24 +1,51 @@
 ---
-title: "Dorfkirche Marzahn"
-site_name: "Dorfkirche Marzahn"
-slug: "dorfkirche-marzahn"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Marzahn
+site_name: Dorfkirche Marzahn
+slug: dorfkirche-marzahn
+region: Berlin
 latitude: 52.5429476
 longitude: 13.5617212
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244515"
-description: "In the heart of Marzahn-Hellersdorf, a striking Gothic Revival church stands as a testament to Berlin’s architectural evolution. The Dorfkirche Marzahn,..."
+- church building
+- religious site
+wikidata_id: Q1244515
+description: In the heart of Marzahn-Hellersdorf, a striking Gothic Revival church
+  stands as a testament to Berlin’s architectural evolution. The Dorfkirche Marzahn,...
 images:
-  - "/images-sites/dorfkirche-marzahn/01-ff5a700b-1920w.webp"
-  - "/images-sites/dorfkirche-marzahn/02-bea750bc-1920w.webp"
-  - "/images-sites/dorfkirche-marzahn/03-a5dd409a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG/1200px-Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg/1200px-Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg/1200px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg/1200px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/1200px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
+image_srcset:
+  Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG/400px-Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG/800px-Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG/1200px-Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG/1920px-Alt-Marzahn%20Kirche%20110320%20AMA%20fec%20%2814%29.JPG
+  Aussicht Skywalk Marzahn Alt-Marzahn Dorfkirche Marzahn Berlin 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg/400px-Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg/800px-Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg/1200px-Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg/1920px-Aussicht_Skywalk_Marzahn_Alt-Marzahn_Dorfkirche_Marzahn_Berlin_03.jpg
+  Dorfkirche Marzahn Alt-Marzahn Berlin-Marzahn 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg/400px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg/800px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg/1200px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg/1920px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_02.jpg
+  Dorfkirche Marzahn Alt-Marzahn Berlin-Marzahn 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg/400px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg/800px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg/1200px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg/1920px-Dorfkirche_Marzahn_Alt-Marzahn_Berlin-Marzahn_03.jpg
+  Alt-Marzahn Kirche 110320 AMA fec (14).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/400px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/800px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/1200px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG/1920px-Alt-Marzahn_Kirche_110320_AMA_fec_(14).JPG
 ---
 
 ## Overview

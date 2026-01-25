@@ -13,7 +13,7 @@ regions:
 latitude: 50.4983
 longitude: 10.3894
 images:
-  - "/images-sites/schiller-house-bauerbach/01-9b3bf264-800w.webp"
+  - "/images/schiller-house-bauerbach/01-9b3bf264-800w.webp"
 ---
 
 ## Overview

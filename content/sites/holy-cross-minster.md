@@ -1,19 +1,51 @@
 ---
-title: "Holy Cross Minster"
-site_name: "Holy Cross Minster"
-slug: "holy-cross-minster"
-region: "Baden-Württemberg"
-
-# Location
+title: Holy Cross Minster
+site_name: Holy Cross Minster
+slug: holy-cross-minster
+region: Baden-Württemberg
 latitude: 48.7988
 longitude: 9.79639
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594984"
-description: "The Holy Cross Minster in Schwäbisch Gmünd is a remarkable example of Gothic architecture that captures the imagination of visitors with its intricate d..."
+- cultural site
+wikidata_id: Q1594984
+description: The Holy Cross Minster in Schwäbisch Gmünd is a remarkable example of
+  Gothic architecture that captures the imagination of visitors with its intricate
+  d...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gmuend%20Muenster%20von%20Suedwest.jpg/1200px-Gmuend%20Muenster%20von%20Suedwest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rottweil,_Heilig-Kreuz-Münster_(03).jpg/1200px-Rottweil,_Heilig-Kreuz-Münster_(03).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rottweil,_Heilig-Kreuz-Münster_(07).jpg/1200px-Rottweil,_Heilig-Kreuz-Münster_(07).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rottweil,_Heilig-Kreuz-Münster_(06).jpg/1200px-Rottweil,_Heilig-Kreuz-Münster_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heilig-Kreuz-Kirche_Rottweil.png/1200px-Heilig-Kreuz-Kirche_Rottweil.png
+image_srcset:
+  Gmuend%20Muenster%20von%20Suedwest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gmuend%20Muenster%20von%20Suedwest.jpg/400px-Gmuend%20Muenster%20von%20Suedwest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gmuend%20Muenster%20von%20Suedwest.jpg/800px-Gmuend%20Muenster%20von%20Suedwest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gmuend%20Muenster%20von%20Suedwest.jpg/1200px-Gmuend%20Muenster%20von%20Suedwest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gmuend%20Muenster%20von%20Suedwest.jpg/1920px-Gmuend%20Muenster%20von%20Suedwest.jpg
+  Rottweil, Heilig-Kreuz-Münster (03).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rottweil,_Heilig-Kreuz-Münster_(03).jpg/400px-Rottweil,_Heilig-Kreuz-Münster_(03).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rottweil,_Heilig-Kreuz-Münster_(03).jpg/800px-Rottweil,_Heilig-Kreuz-Münster_(03).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rottweil,_Heilig-Kreuz-Münster_(03).jpg/1200px-Rottweil,_Heilig-Kreuz-Münster_(03).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rottweil,_Heilig-Kreuz-Münster_(03).jpg/1920px-Rottweil,_Heilig-Kreuz-Münster_(03).jpg
+  Rottweil, Heilig-Kreuz-Münster (07).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rottweil,_Heilig-Kreuz-Münster_(07).jpg/400px-Rottweil,_Heilig-Kreuz-Münster_(07).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rottweil,_Heilig-Kreuz-Münster_(07).jpg/800px-Rottweil,_Heilig-Kreuz-Münster_(07).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rottweil,_Heilig-Kreuz-Münster_(07).jpg/1200px-Rottweil,_Heilig-Kreuz-Münster_(07).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rottweil,_Heilig-Kreuz-Münster_(07).jpg/1920px-Rottweil,_Heilig-Kreuz-Münster_(07).jpg
+  Rottweil, Heilig-Kreuz-Münster (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rottweil,_Heilig-Kreuz-Münster_(06).jpg/400px-Rottweil,_Heilig-Kreuz-Münster_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rottweil,_Heilig-Kreuz-Münster_(06).jpg/800px-Rottweil,_Heilig-Kreuz-Münster_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rottweil,_Heilig-Kreuz-Münster_(06).jpg/1200px-Rottweil,_Heilig-Kreuz-Münster_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rottweil,_Heilig-Kreuz-Münster_(06).jpg/1920px-Rottweil,_Heilig-Kreuz-Münster_(06).jpg
+  Heilig-Kreuz-Kirche Rottweil.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heilig-Kreuz-Kirche_Rottweil.png/400px-Heilig-Kreuz-Kirche_Rottweil.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heilig-Kreuz-Kirche_Rottweil.png/800px-Heilig-Kreuz-Kirche_Rottweil.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heilig-Kreuz-Kirche_Rottweil.png/1200px-Heilig-Kreuz-Kirche_Rottweil.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heilig-Kreuz-Kirche_Rottweil.png/1920px-Heilig-Kreuz-Kirche_Rottweil.png
 ---
 
 ## Overview

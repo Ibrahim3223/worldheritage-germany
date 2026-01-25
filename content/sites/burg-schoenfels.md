@@ -1,29 +1,49 @@
 ---
-title: "Burg Schönfels"
+title: Burg Schönfels
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6756
 longitude: 12.4008
-
-# Images
 images:
-  - "/images-sites/burg-schoenfels/01-ba957770-800w.webp"
-  - "/images-sites/burg-schoenfels/02-0a64cab0-800w.webp"
-  - "/images-sites/burg-schoenfels/03-6076f423-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Schönfels.Sachsen.IMG_4766WI.jpg/1200px-Burg_Schönfels.Sachsen.IMG_4766WI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg/1200px-Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg/1200px-20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schönfels_Castle_(aka).jpg/1200px-Schönfels_Castle_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Schönfels.JPG/1200px-Burg_Schönfels.JPG
+image_srcset:
+  Burg Schönfels.Sachsen.IMG 4766WI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Schönfels.Sachsen.IMG_4766WI.jpg/400px-Burg_Schönfels.Sachsen.IMG_4766WI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Schönfels.Sachsen.IMG_4766WI.jpg/800px-Burg_Schönfels.Sachsen.IMG_4766WI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Schönfels.Sachsen.IMG_4766WI.jpg/1200px-Burg_Schönfels.Sachsen.IMG_4766WI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg_Schönfels.Sachsen.IMG_4766WI.jpg/1920px-Burg_Schönfels.Sachsen.IMG_4766WI.jpg
+  Schönfels (Lichtentanne), die Burg, Tür.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg/400px-Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg/800px-Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg/1200px-Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg/1920px-Schönfels_(Lichtentanne),_die_Burg,_Tür.jpg
+  20071015185DR Schönfels (Lichtentanne) Burg Altschönfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg/400px-20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg/800px-20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg/1200px-20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg/1920px-20071015185DR_Schönfels_(Lichtentanne)_Burg_Altschönfels.jpg
+  Schönfels Castle (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schönfels_Castle_(aka).jpg/400px-Schönfels_Castle_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schönfels_Castle_(aka).jpg/800px-Schönfels_Castle_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schönfels_Castle_(aka).jpg/1200px-Schönfels_Castle_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schönfels_Castle_(aka).jpg/1920px-Schönfels_Castle_(aka).jpg
+  Burg Schönfels.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Schönfels.JPG/400px-Burg_Schönfels.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Schönfels.JPG/800px-Burg_Schönfels.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Schönfels.JPG/1200px-Burg_Schönfels.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Schönfels.JPG/1920px-Burg_Schönfels.JPG
 ---
 
 ## Overview

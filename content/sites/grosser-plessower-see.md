@@ -1,20 +1,49 @@
 ---
-title: "Großer Plessower See"
+title: Großer Plessower See
 date: 2026-01-23
 draft: false
-description: "lake in Werder (Havel), Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Werder (Havel), Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.380833333
 longitude: 12.898611111
 images:
-  - "/images-sites/grosser-plessower-see/02-f27a19a4-800w.webp"
-  - "/images-sites/grosser-plessower-see/03-029d03e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Großer_Plessower_See_from_east_2022-05-25_05.jpg/1200px-Großer_Plessower_See_from_east_2022-05-25_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Großer_Plessower_See_from_east_2022-05-25_13.jpg/1200px-Großer_Plessower_See_from_east_2022-05-25_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Großer_Plessower_See_from_east_2022-05-25_14.jpg/1200px-Großer_Plessower_See_from_east_2022-05-25_14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Großer_Plessower_See_from_west_2022-05-25_01.jpg/1200px-Großer_Plessower_See_from_west_2022-05-25_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werder.jpg/1200px-Werder.jpg
+image_srcset:
+  Großer Plessower See from east 2022-05-25 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Großer_Plessower_See_from_east_2022-05-25_05.jpg/400px-Großer_Plessower_See_from_east_2022-05-25_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Großer_Plessower_See_from_east_2022-05-25_05.jpg/800px-Großer_Plessower_See_from_east_2022-05-25_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Großer_Plessower_See_from_east_2022-05-25_05.jpg/1200px-Großer_Plessower_See_from_east_2022-05-25_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Großer_Plessower_See_from_east_2022-05-25_05.jpg/1920px-Großer_Plessower_See_from_east_2022-05-25_05.jpg
+  Großer Plessower See from east 2022-05-25 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Großer_Plessower_See_from_east_2022-05-25_13.jpg/400px-Großer_Plessower_See_from_east_2022-05-25_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Großer_Plessower_See_from_east_2022-05-25_13.jpg/800px-Großer_Plessower_See_from_east_2022-05-25_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Großer_Plessower_See_from_east_2022-05-25_13.jpg/1200px-Großer_Plessower_See_from_east_2022-05-25_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Großer_Plessower_See_from_east_2022-05-25_13.jpg/1920px-Großer_Plessower_See_from_east_2022-05-25_13.jpg
+  Großer Plessower See from east 2022-05-25 14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Großer_Plessower_See_from_east_2022-05-25_14.jpg/400px-Großer_Plessower_See_from_east_2022-05-25_14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Großer_Plessower_See_from_east_2022-05-25_14.jpg/800px-Großer_Plessower_See_from_east_2022-05-25_14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Großer_Plessower_See_from_east_2022-05-25_14.jpg/1200px-Großer_Plessower_See_from_east_2022-05-25_14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Großer_Plessower_See_from_east_2022-05-25_14.jpg/1920px-Großer_Plessower_See_from_east_2022-05-25_14.jpg
+  Großer Plessower See from west 2022-05-25 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Großer_Plessower_See_from_west_2022-05-25_01.jpg/400px-Großer_Plessower_See_from_west_2022-05-25_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Großer_Plessower_See_from_west_2022-05-25_01.jpg/800px-Großer_Plessower_See_from_west_2022-05-25_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Großer_Plessower_See_from_west_2022-05-25_01.jpg/1200px-Großer_Plessower_See_from_west_2022-05-25_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Großer_Plessower_See_from_west_2022-05-25_01.jpg/1920px-Großer_Plessower_See_from_west_2022-05-25_01.jpg
+  Werder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werder.jpg/400px-Werder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werder.jpg/800px-Werder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werder.jpg/1200px-Werder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Werder.jpg/1920px-Werder.jpg
 ---
 
 ## Overview

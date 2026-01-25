@@ -1,19 +1,49 @@
 ---
-title: "Augustusburg and Falkenlust Palaces"
+title: Augustusburg and Falkenlust Palaces
 date: 2026-01-23
 draft: false
-description: "complex of multiple built objects"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: complex of multiple built objects
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8275
 longitude: 6.908055555
 images:
-  - "/images-sites/augustusburg-and-falkenlust-palaces/01-316ae1cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg/1200px-Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DE_Bruhl_0710_(124)_(17225573602).jpg/1200px-DE_Bruhl_0710_(124)_(17225573602).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DE_Bruhl_0710_(125)_(17225573292).jpg/1200px-DE_Bruhl_0710_(125)_(17225573292).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DE_Bruhl_0710_(42)_(17039536478).jpg/1200px-DE_Bruhl_0710_(42)_(17039536478).jpg
+image_srcset:
+  Aerial image of the Augustusburg Palace gardens (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg/400px-Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg/800px-Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Augustusburg_Palace_gardens_(view_from_the_south).jpg
+  Schloss Augustusburg, Southern Facade, November 2017 -01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg/400px-Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg/800px-Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg/1200px-Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg/1920px-Schloss_Augustusburg,_Southern_Facade,_November_2017_-01.jpg
+  DE Bruhl 0710 (124) (17225573602).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DE_Bruhl_0710_(124)_(17225573602).jpg/400px-DE_Bruhl_0710_(124)_(17225573602).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DE_Bruhl_0710_(124)_(17225573602).jpg/800px-DE_Bruhl_0710_(124)_(17225573602).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DE_Bruhl_0710_(124)_(17225573602).jpg/1200px-DE_Bruhl_0710_(124)_(17225573602).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DE_Bruhl_0710_(124)_(17225573602).jpg/1920px-DE_Bruhl_0710_(124)_(17225573602).jpg
+  DE Bruhl 0710 (125) (17225573292).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DE_Bruhl_0710_(125)_(17225573292).jpg/400px-DE_Bruhl_0710_(125)_(17225573292).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DE_Bruhl_0710_(125)_(17225573292).jpg/800px-DE_Bruhl_0710_(125)_(17225573292).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DE_Bruhl_0710_(125)_(17225573292).jpg/1200px-DE_Bruhl_0710_(125)_(17225573292).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DE_Bruhl_0710_(125)_(17225573292).jpg/1920px-DE_Bruhl_0710_(125)_(17225573292).jpg
+  DE Bruhl 0710 (42) (17039536478).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DE_Bruhl_0710_(42)_(17039536478).jpg/400px-DE_Bruhl_0710_(42)_(17039536478).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DE_Bruhl_0710_(42)_(17039536478).jpg/800px-DE_Bruhl_0710_(42)_(17039536478).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DE_Bruhl_0710_(42)_(17039536478).jpg/1200px-DE_Bruhl_0710_(42)_(17039536478).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DE_Bruhl_0710_(42)_(17039536478).jpg/1920px-DE_Bruhl_0710_(42)_(17039536478).jpg
 ---
 
 ## Overview

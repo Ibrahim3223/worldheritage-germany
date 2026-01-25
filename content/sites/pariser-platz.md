@@ -13,7 +13,7 @@ regions:
 latitude: 52.516388888
 longitude: 13.378888888
 images:
-  - "/images-sites/pariser-platz/01-52f89fcd-800w.webp"
+  - "/images/pariser-platz/01-52f89fcd-800w.webp"
 ---
 
 ## Overview

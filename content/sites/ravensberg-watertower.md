@@ -13,9 +13,9 @@ regions:
 latitude: 54.341245
 longitude: 10.128996
 images:
-  - "/images-sites/ravensberg-watertower/01-52e2de1e-800w.webp"
-  - "/images-sites/ravensberg-watertower/02-4f74b6c0-800w.webp"
-  - "/images-sites/ravensberg-watertower/03-4809666e-800w.webp"
+  - "/images/ravensberg-watertower/01-52e2de1e-800w.webp"
+  - "/images/ravensberg-watertower/02-4f74b6c0-800w.webp"
+  - "/images/ravensberg-watertower/03-4809666e-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.875833333
 longitude: 8.679444444
 images:
-  - "/images-sites/rosenhohe-park/01-bb710fea-800w.webp"
+  - "/images/rosenhohe-park/01-bb710fea-800w.webp"
 ---
 
 ## Overview

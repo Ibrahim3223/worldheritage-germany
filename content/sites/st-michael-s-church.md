@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q158324"
 description: "St. Michaels Church, a remarkable example of Romanesque architecture, stands as a historical landmark in Hildesheim, Germany. Founded in 1010, this chur..."
 images:
-  - "/images-sites/st-michael-s-church/01-1c92c543-1920w.webp"
-  - "/images-sites/st-michael-s-church/02-d3a905f2-1920w.webp"
-  - "/images-sites/st-michael-s-church/03-b7772b50-1920w.webp"
+  - "/images/st-michael-s-church/01-1c92c543-1920w.webp"
+  - "/images/st-michael-s-church/02-d3a905f2-1920w.webp"
+  - "/images/st-michael-s-church/03-b7772b50-1920w.webp"
 ---
 
 ## Overview

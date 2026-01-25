@@ -13,7 +13,7 @@ regions:
 latitude: 53.5823
 longitude: 12.8592
 images:
-  - "/images-sites/schloss-varchentin/01-26b76a49-800w.webp"
+  - "/images/schloss-varchentin/01-26b76a49-800w.webp"
 ---
 
 ## Overview

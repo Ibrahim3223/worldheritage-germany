@@ -1,19 +1,49 @@
 ---
-title: "Haus am Horn"
+title: Haus am Horn
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9739
 longitude: 11.3394
 images:
-  - "/images-sites/haus-am-horn/01-554941b3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg/1200px-Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg/1200px-Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg/1200px-Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1200px-Haus_am_Horn,_Luftaufnahme-0030.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haus_am_Horn_04.JPG/1200px-Haus_am_Horn_04.JPG
+image_srcset:
+  Außenaufnahmen Haus am Horn in Weimar 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg/400px-Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg/800px-Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg/1200px-Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg/1920px-Außenaufnahmen_Haus_am_Horn_in_Weimar_01.jpg
+  Außenaufnahmen Haus am Horn in Weimar 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg/400px-Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg/800px-Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg/1200px-Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg/1920px-Außenaufnahmen_Haus_am_Horn_in_Weimar_03.jpg
+  Außenaufnahmen Haus am Horn in Weimar 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg/400px-Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg/800px-Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg/1200px-Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg/1920px-Außenaufnahmen_Haus_am_Horn_in_Weimar_06.jpg
+  Haus am Horn, Luftaufnahme-0030.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/400px-Haus_am_Horn,_Luftaufnahme-0030.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/800px-Haus_am_Horn,_Luftaufnahme-0030.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1200px-Haus_am_Horn,_Luftaufnahme-0030.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Haus_am_Horn,_Luftaufnahme-0030.jpg/1920px-Haus_am_Horn,_Luftaufnahme-0030.jpg
+  Haus am Horn 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haus_am_Horn_04.JPG/400px-Haus_am_Horn_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haus_am_Horn_04.JPG/800px-Haus_am_Horn_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haus_am_Horn_04.JPG/1200px-Haus_am_Horn_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haus_am_Horn_04.JPG/1920px-Haus_am_Horn_04.JPG
 ---
 
 ## Overview

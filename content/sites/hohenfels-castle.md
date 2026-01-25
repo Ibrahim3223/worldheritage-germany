@@ -1,27 +1,49 @@
 ---
-title: "Hohenfels Castle"
+title: Hohenfels Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.6009
 longitude: 7.8962
-
-# Images
 images:
-  - "/images-sites/hohenfels-castle/01-fe98325e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Hohenfels_(Hohenfels)_01.JPG/1200px-Burg_Hohenfels_(Hohenfels)_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Hohenfels_(Hohenfels)_02.JPG/1200px-Burg_Hohenfels_(Hohenfels)_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohenfels_(Hohenfels)_04.JPG/1200px-Burg_Hohenfels_(Hohenfels)_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Hohenfels_(Hohenfels)_05.JPG/1200px-Burg_Hohenfels_(Hohenfels)_05.JPG
+image_srcset:
+  Aerial image of the Hohenfels Castle (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Hohenfels_Castle_(view_from_the_southwest).jpg
+  Burg Hohenfels (Hohenfels) 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Hohenfels_(Hohenfels)_01.JPG/400px-Burg_Hohenfels_(Hohenfels)_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Hohenfels_(Hohenfels)_01.JPG/800px-Burg_Hohenfels_(Hohenfels)_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Hohenfels_(Hohenfels)_01.JPG/1200px-Burg_Hohenfels_(Hohenfels)_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Hohenfels_(Hohenfels)_01.JPG/1920px-Burg_Hohenfels_(Hohenfels)_01.JPG
+  Burg Hohenfels (Hohenfels) 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Hohenfels_(Hohenfels)_02.JPG/400px-Burg_Hohenfels_(Hohenfels)_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Hohenfels_(Hohenfels)_02.JPG/800px-Burg_Hohenfels_(Hohenfels)_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Hohenfels_(Hohenfels)_02.JPG/1200px-Burg_Hohenfels_(Hohenfels)_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Hohenfels_(Hohenfels)_02.JPG/1920px-Burg_Hohenfels_(Hohenfels)_02.JPG
+  Burg Hohenfels (Hohenfels) 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohenfels_(Hohenfels)_04.JPG/400px-Burg_Hohenfels_(Hohenfels)_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohenfels_(Hohenfels)_04.JPG/800px-Burg_Hohenfels_(Hohenfels)_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohenfels_(Hohenfels)_04.JPG/1200px-Burg_Hohenfels_(Hohenfels)_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Burg_Hohenfels_(Hohenfels)_04.JPG/1920px-Burg_Hohenfels_(Hohenfels)_04.JPG
+  Burg Hohenfels (Hohenfels) 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Hohenfels_(Hohenfels)_05.JPG/400px-Burg_Hohenfels_(Hohenfels)_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Hohenfels_(Hohenfels)_05.JPG/800px-Burg_Hohenfels_(Hohenfels)_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Hohenfels_(Hohenfels)_05.JPG/1200px-Burg_Hohenfels_(Hohenfels)_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Hohenfels_(Hohenfels)_05.JPG/1920px-Burg_Hohenfels_(Hohenfels)_05.JPG
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q564898"
 description: "St. Andreas Church, founded in 974, stands as a remarkable embodiment of Romanesque architecture in the Altstadt-Nord region of Köln, Germany. This hist..."
 images:
-  - "/images-sites/st-andreas-church/01-83d54982-1920w.webp"
-  - "/images-sites/st-andreas-church/02-707be82d-1920w.webp"
-  - "/images-sites/st-andreas-church/03-9ed006ee-1920w.webp"
+  - "/images/st-andreas-church/01-83d54982-1920w.webp"
+  - "/images/st-andreas-church/02-707be82d-1920w.webp"
+  - "/images/st-andreas-church/03-9ed006ee-1920w.webp"
 ---
 
 ## Overview

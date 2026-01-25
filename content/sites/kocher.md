@@ -13,7 +13,7 @@ regions:
 latitude: 49.222888888
 longitude: 9.201861111
 images:
-  - "/images-sites/kocher/01-a97a55ee-800w.webp"
+  - "/images/kocher/01-a97a55ee-800w.webp"
 ---
 
 ## Overview

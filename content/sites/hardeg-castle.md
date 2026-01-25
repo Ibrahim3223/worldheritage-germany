@@ -1,27 +1,49 @@
 ---
-title: "Hardeg Castle"
+title: Hardeg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.651
 longitude: 9.82605
-
-# Images
 images:
-  - "/images-sites/hardeg-castle/01-1b0966fa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Hardeg_13.jpg/1200px-Burg_Hardeg_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Hardeg_2.jpg/1200px-Burg_Hardeg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Hardeg_5.jpg/1200px-Burg_Hardeg_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Hardeg_6.jpg/1200px-Burg_Hardeg_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1200px-Burg_Hardegsen_3.jpg
+image_srcset:
+  Burg Hardeg 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Hardeg_13.jpg/400px-Burg_Hardeg_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Hardeg_13.jpg/800px-Burg_Hardeg_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Hardeg_13.jpg/1200px-Burg_Hardeg_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burg_Hardeg_13.jpg/1920px-Burg_Hardeg_13.jpg
+  Burg Hardeg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Hardeg_2.jpg/400px-Burg_Hardeg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Hardeg_2.jpg/800px-Burg_Hardeg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Hardeg_2.jpg/1200px-Burg_Hardeg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Hardeg_2.jpg/1920px-Burg_Hardeg_2.jpg
+  Burg Hardeg 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Hardeg_5.jpg/400px-Burg_Hardeg_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Hardeg_5.jpg/800px-Burg_Hardeg_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Hardeg_5.jpg/1200px-Burg_Hardeg_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Hardeg_5.jpg/1920px-Burg_Hardeg_5.jpg
+  Burg Hardeg 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Hardeg_6.jpg/400px-Burg_Hardeg_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Hardeg_6.jpg/800px-Burg_Hardeg_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Hardeg_6.jpg/1200px-Burg_Hardeg_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burg_Hardeg_6.jpg/1920px-Burg_Hardeg_6.jpg
+  Burg Hardegsen 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/400px-Burg_Hardegsen_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/800px-Burg_Hardegsen_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1200px-Burg_Hardegsen_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Hardegsen_3.jpg/1920px-Burg_Hardegsen_3.jpg
 ---
 
 ## Overview

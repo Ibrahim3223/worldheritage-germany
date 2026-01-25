@@ -1,19 +1,49 @@
 ---
-title: "Bolongaropalast"
+title: Bolongaropalast
 date: 2026-01-23
 draft: false
-description: "palace in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: palace in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1011
 longitude: 8.55222
 images:
-  - "/images-sites/bolongaropalast/01-41f784d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg/1200px-Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG/1200px-Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg/1200px-Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1200px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Zuckschwerdtstr_1.JPG/1200px-Zuckschwerdtstr_1.JPG
+image_srcset:
+  Frankfurt Am Main-Panorama des Hoechster Mainufers zwischen Bolongaropalast und Ochsenturm von Sueden-20100524.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg/400px-Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg/800px-Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg/1200px-Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg/1920px-Frankfurt_Am_Main-Panorama_des_Hoechster_Mainufers_zwischen_Bolongaropalast_und_Ochsenturm_von_Sueden-20100524.jpg
+  Bolongaro-Palast Bolongaro-Strasse 14042009.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG/400px-Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG/800px-Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG/1200px-Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG/1920px-Bolongaro-Palast_Bolongaro-Strasse_14042009.JPG
+  Frankfurt Am Main-Hoechst-Bolongaropalast-Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg/400px-Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg/800px-Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg/1200px-Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg/1920px-Frankfurt_Am_Main-Hoechst-Bolongaropalast-Nordseite.jpg
+  Bolongaropalast F-Hoechst Strassenfront.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/400px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/800px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1200px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bolongaropalast_F-Hoechst_Strassenfront.jpg/1920px-Bolongaropalast_F-Hoechst_Strassenfront.jpg
+  Zuckschwerdtstr 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Zuckschwerdtstr_1.JPG/400px-Zuckschwerdtstr_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Zuckschwerdtstr_1.JPG/800px-Zuckschwerdtstr_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Zuckschwerdtstr_1.JPG/1200px-Zuckschwerdtstr_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Zuckschwerdtstr_1.JPG/1920px-Zuckschwerdtstr_1.JPG
 ---
 
 ## Overview

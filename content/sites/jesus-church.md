@@ -1,23 +1,45 @@
 ---
-title: "Jesus Church"
-site_name: "Jesus Church"
-slug: "jesus-church"
-region: "Berlin"
-
-# Location
+title: Jesus Church
+site_name: Jesus Church
+slug: jesus-church
+region: Berlin
 latitude: 52.5082
 longitude: 13.5808
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244404"
-description: "In the heart of Marzahn-Hellersdorf lies the Jesus Church, a striking Gothic Revival church building that dates back to the 15th century. This historic ..."
+- cultural site
+wikidata_id: Q1244404
+description: In the heart of Marzahn-Hellersdorf lies the Jesus Church, a striking
+  Gothic Revival church building that dates back to the 15th century. This historic
+  ...
 images:
-  - "/images-sites/jesus-church/01-9eaab4f8-1920w.webp"
-  - "/images-sites/jesus-church/02-5b5c90c0-1920w.webp"
-  - "/images-sites/jesus-church/03-38857363-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorfkirche%20Kaulsdorf%2005.jpg/1200px-Dorfkirche%20Kaulsdorf%2005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NorthernThai-TrueJesusChurch.jpg/1200px-NorthernThai-TrueJesusChurch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dzongkha.jpg/1200px-Dzongkha.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TJC-liaison-office.jpg/1200px-TJC-liaison-office.jpg
+image_srcset:
+  Dorfkirche%20Kaulsdorf%2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorfkirche%20Kaulsdorf%2005.jpg/400px-Dorfkirche%20Kaulsdorf%2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorfkirche%20Kaulsdorf%2005.jpg/800px-Dorfkirche%20Kaulsdorf%2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorfkirche%20Kaulsdorf%2005.jpg/1200px-Dorfkirche%20Kaulsdorf%2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorfkirche%20Kaulsdorf%2005.jpg/1920px-Dorfkirche%20Kaulsdorf%2005.jpg
+  NorthernThai-TrueJesusChurch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NorthernThai-TrueJesusChurch.jpg/400px-NorthernThai-TrueJesusChurch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NorthernThai-TrueJesusChurch.jpg/800px-NorthernThai-TrueJesusChurch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NorthernThai-TrueJesusChurch.jpg/1200px-NorthernThai-TrueJesusChurch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NorthernThai-TrueJesusChurch.jpg/1920px-NorthernThai-TrueJesusChurch.jpg
+  Dzongkha.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dzongkha.jpg/400px-Dzongkha.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dzongkha.jpg/800px-Dzongkha.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dzongkha.jpg/1200px-Dzongkha.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dzongkha.jpg/1920px-Dzongkha.jpg
+  TJC-liaison-office.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TJC-liaison-office.jpg/400px-TJC-liaison-office.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TJC-liaison-office.jpg/800px-TJC-liaison-office.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TJC-liaison-office.jpg/1200px-TJC-liaison-office.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TJC-liaison-office.jpg/1920px-TJC-liaison-office.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q127685"
 description: "The Evangelical Reformed St. Peter Church in Groothusen is a striking example of Gothic architecture set against the picturesque backdrop of Lower Saxon..."
 images:
-  - "/images-sites/the-evangelical-reformed-st-peter-church-in-groothusen/01-4d67c50e-1920w.webp"
-  - "/images-sites/the-evangelical-reformed-st-peter-church-in-groothusen/02-beac90b8-1920w.webp"
-  - "/images-sites/the-evangelical-reformed-st-peter-church-in-groothusen/03-79380aec-1920w.webp"
+  - "/images/the-evangelical-reformed-st-peter-church-in-groothusen/01-4d67c50e-1920w.webp"
+  - "/images/the-evangelical-reformed-st-peter-church-in-groothusen/02-beac90b8-1920w.webp"
+  - "/images/the-evangelical-reformed-st-peter-church-in-groothusen/03-79380aec-1920w.webp"
 ---
 
 ## Overview

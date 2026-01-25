@@ -13,7 +13,7 @@ regions:
 latitude: 49.2305
 longitude: 6.99157
 images:
-  - "/images-sites/the-square-of-the-invisible-monument/01-d9eb93c3-800w.webp"
+  - "/images/the-square-of-the-invisible-monument/01-d9eb93c3-800w.webp"
 ---
 
 ## Overview

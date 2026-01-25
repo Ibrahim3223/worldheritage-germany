@@ -13,7 +13,7 @@ regions:
 latitude: 51.9302
 longitude: 8.88173
 images:
-  - "/images-sites/lippe-state-library-at-detmold/01-a7aba0c6-800w.webp"
+  - "/images/lippe-state-library-at-detmold/01-a7aba0c6-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.025277777
 longitude: 11.188055555
 images:
-  - "/images-sites/pilsensee/01-847e5e3a-800w.webp"
+  - "/images/pilsensee/01-847e5e3a-800w.webp"
 ---
 
 ## Overview

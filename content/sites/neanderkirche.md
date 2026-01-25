@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1973070"
 description: "In the heart of Düsseldorfs Altstadt, the Neanderkirche stands as a remarkable example of Baroque architecture, drawing both history enthusiasts and arc..."
 images:
-  - "/images-sites/neanderkirche/01-1ec4d1d0-1920w.webp"
-  - "/images-sites/neanderkirche/02-35de974d-1920w.webp"
-  - "/images-sites/neanderkirche/03-92716cde-1920w.webp"
+  - "/images/neanderkirche/01-1ec4d1d0-1920w.webp"
+  - "/images/neanderkirche/02-35de974d-1920w.webp"
+  - "/images/neanderkirche/03-92716cde-1920w.webp"
 ---
 
 ## Overview

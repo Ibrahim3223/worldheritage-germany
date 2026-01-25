@@ -13,7 +13,7 @@ regions:
 latitude: 50.3588
 longitude: 7.59622
 images:
-  - "/images-sites/mittelrhein-museum/01-9197197e-800w.webp"
+  - "/images/mittelrhein-museum/01-9197197e-800w.webp"
 ---
 
 ## Overview

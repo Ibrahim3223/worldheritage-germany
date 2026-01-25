@@ -13,7 +13,7 @@ regions:
 latitude: 49.374187192
 longitude: 11.213705416
 images:
-  - "/images-sites/tucherschloss-in-feucht/01-7f484619-800w.webp"
+  - "/images/tucherschloss-in-feucht/01-7f484619-800w.webp"
 ---
 
 ## Overview

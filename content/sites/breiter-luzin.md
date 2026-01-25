@@ -1,19 +1,49 @@
 ---
-title: "Breiter Luzin"
+title: Breiter Luzin
 date: 2026-01-23
 draft: false
-description: "lake in Feldberger Seenlandschaft, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Feldberger Seenlandschaft, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.355277777
 longitude: 13.465277777
 images:
-  - "/images-sites/breiter-luzin/01-3223232d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG/1200px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG/1200px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lutzin_-_panoramio.jpg/1200px-Lutzin_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonne_luzin_-_panoramio.jpg/1200px-Sonne_luzin_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_de_Feldberg_Breiter_Luzinsee.JPG/1200px-Lake_de_Feldberg_Breiter_Luzinsee.JPG
+image_srcset:
+  Nationaler Geotop - Feldberger Seen - Breiter Luzin (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG/400px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG/800px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG/1200px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG/1920px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(1).JPG
+  Nationaler Geotop - Feldberger Seen - Breiter Luzin (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG/400px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG/800px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG/1200px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG/1920px-Nationaler_Geotop_-_Feldberger_Seen_-_Breiter_Luzin_(2).JPG
+  Lutzin - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lutzin_-_panoramio.jpg/400px-Lutzin_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lutzin_-_panoramio.jpg/800px-Lutzin_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lutzin_-_panoramio.jpg/1200px-Lutzin_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lutzin_-_panoramio.jpg/1920px-Lutzin_-_panoramio.jpg
+  Sonne luzin - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonne_luzin_-_panoramio.jpg/400px-Sonne_luzin_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonne_luzin_-_panoramio.jpg/800px-Sonne_luzin_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonne_luzin_-_panoramio.jpg/1200px-Sonne_luzin_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sonne_luzin_-_panoramio.jpg/1920px-Sonne_luzin_-_panoramio.jpg
+  Lake de Feldberg Breiter Luzinsee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_de_Feldberg_Breiter_Luzinsee.JPG/400px-Lake_de_Feldberg_Breiter_Luzinsee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_de_Feldberg_Breiter_Luzinsee.JPG/800px-Lake_de_Feldberg_Breiter_Luzinsee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_de_Feldberg_Breiter_Luzinsee.JPG/1200px-Lake_de_Feldberg_Breiter_Luzinsee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lake_de_Feldberg_Breiter_Luzinsee.JPG/1920px-Lake_de_Feldberg_Breiter_Luzinsee.JPG
 ---
 
 ## Overview

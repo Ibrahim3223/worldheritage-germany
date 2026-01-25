@@ -1,19 +1,49 @@
 ---
-title: "Alter Friedhof Segeroth"
+title: Alter Friedhof Segeroth
 date: 2026-01-23
 draft: false
-description: "cemetery in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4669
 longitude: 6.99806
 images:
-  - "/images-sites/alter-friedhof-segeroth/01-1b7dbcfa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg/1200px-Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1200px-Grabmal_Götte,_Friedhof_Segeroth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg/1200px-Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alter_Friedhof_Segeroth.jpg/1200px-Alter_Friedhof_Segeroth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg/1200px-Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg
+image_srcset:
+  Grabmal Möller, Alter Friedhof Segeroth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg/400px-Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg/800px-Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg/1200px-Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg/1920px-Grabmal_Möller,_Alter_Friedhof_Segeroth.jpg
+  Grabmal Götte, Friedhof Segeroth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/400px-Grabmal_Götte,_Friedhof_Segeroth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/800px-Grabmal_Götte,_Friedhof_Segeroth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1200px-Grabmal_Götte,_Friedhof_Segeroth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Grabmal_Götte,_Friedhof_Segeroth.jpg/1920px-Grabmal_Götte,_Friedhof_Segeroth.jpg
+  Grabmal Ludwig Möller, Alter Friedhof Segeroth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg/400px-Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg/800px-Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg/1200px-Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg/1920px-Grabmal_Ludwig_Möller,_Alter_Friedhof_Segeroth.jpg
+  Alter Friedhof Segeroth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alter_Friedhof_Segeroth.jpg/400px-Alter_Friedhof_Segeroth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alter_Friedhof_Segeroth.jpg/800px-Alter_Friedhof_Segeroth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alter_Friedhof_Segeroth.jpg/1200px-Alter_Friedhof_Segeroth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alter_Friedhof_Segeroth.jpg/1920px-Alter_Friedhof_Segeroth.jpg
+  Grabmal Karl Korte, Alter Friedhof Segeroth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg/400px-Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg/800px-Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg/1200px-Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg/1920px-Grabmal_Karl_Korte,_Alter_Friedhof_Segeroth.jpg
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q245152"
 description: "Located in the heart of Frankenthal, Germany, the Zwölf-Apostel-Kirche stands as a striking example of neoclassical architecture. This church, designed ..."
 images:
-  - "/images-sites/zwolf-apostel-kirche-frankenthal/01-36df649e-1920w.webp"
-  - "/images-sites/zwolf-apostel-kirche-frankenthal/02-0f927861-1920w.webp"
-  - "/images-sites/zwolf-apostel-kirche-frankenthal/03-2f375bc2-1920w.webp"
+  - "/images/zwolf-apostel-kirche-frankenthal/01-36df649e-1920w.webp"
+  - "/images/zwolf-apostel-kirche-frankenthal/02-0f927861-1920w.webp"
+  - "/images/zwolf-apostel-kirche-frankenthal/03-2f375bc2-1920w.webp"
 ---
 
 ## Overview

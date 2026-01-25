@@ -1,19 +1,49 @@
 ---
-title: "Europahaus"
+title: Europahaus
 date: 2026-01-23
 draft: false
-description: "office block in Kreuzberg, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: office block in Kreuzberg, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5051
 longitude: 13.382
 images:
-  - "/images-sites/europahaus/01-b602f3d5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg/1200px-Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/141209_Europahaus_(Berlin),_Fassade.jpg/1200px-141209_Europahaus_(Berlin),_Fassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg/1200px-Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/20240815_Falco_tinnunculus.jpg/1200px-20240815_Falco_tinnunculus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Leipzig_Europahaus.jpg/1200px-Leipzig_Europahaus.jpg
+image_srcset:
+  Europahaus & Deutschlandhaus Stresemannstr. Berlin (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg/400px-Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg/800px-Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg/1200px-Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg/1920px-Europahaus_&_Deutschlandhaus_Stresemannstr._Berlin_(2024).jpg
+  141209 Europahaus (Berlin), Fassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/141209_Europahaus_(Berlin),_Fassade.jpg/400px-141209_Europahaus_(Berlin),_Fassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/141209_Europahaus_(Berlin),_Fassade.jpg/800px-141209_Europahaus_(Berlin),_Fassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/141209_Europahaus_(Berlin),_Fassade.jpg/1200px-141209_Europahaus_(Berlin),_Fassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/141209_Europahaus_(Berlin),_Fassade.jpg/1920px-141209_Europahaus_(Berlin),_Fassade.jpg
+  Berlin, Kreuzberg, Stresemannstrasse, Europahaus, Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg/400px-Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg/800px-Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg/1200px-Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg/1920px-Berlin,_Kreuzberg,_Stresemannstrasse,_Europahaus,_Bundesministerium_für_Wirtschaftliche_Zusammenarbeit_und_Entwicklung.jpg
+  20240815 Falco tinnunculus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/20240815_Falco_tinnunculus.jpg/400px-20240815_Falco_tinnunculus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/20240815_Falco_tinnunculus.jpg/800px-20240815_Falco_tinnunculus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/20240815_Falco_tinnunculus.jpg/1200px-20240815_Falco_tinnunculus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/20240815_Falco_tinnunculus.jpg/1920px-20240815_Falco_tinnunculus.jpg
+  Leipzig Europahaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Leipzig_Europahaus.jpg/400px-Leipzig_Europahaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Leipzig_Europahaus.jpg/800px-Leipzig_Europahaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Leipzig_Europahaus.jpg/1200px-Leipzig_Europahaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Leipzig_Europahaus.jpg/1920px-Leipzig_Europahaus.jpg
 ---
 
 ## Overview

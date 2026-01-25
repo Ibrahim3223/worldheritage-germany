@@ -1,19 +1,49 @@
 ---
-title: "Burg Edenserloog"
+title: Burg Edenserloog
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6603
 longitude: 7.7246
 images:
-  - "/images-sites/burg-edenserloog/01-3874ad77-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Edenserloog_240.jpg/1200px-Burg_Edenserloog_240.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Edenserloog_38.jpg/1200px-Burg_Edenserloog_38.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Edenserloog_(Werdum)_03.JPG/1200px-Burg_Edenserloog_(Werdum)_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Edenserloog2.JPG/1200px-Burg_Edenserloog2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Edenserloog.JPG/1200px-Burg_Edenserloog.JPG
+image_srcset:
+  Burg Edenserloog 240.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Edenserloog_240.jpg/400px-Burg_Edenserloog_240.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Edenserloog_240.jpg/800px-Burg_Edenserloog_240.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Edenserloog_240.jpg/1200px-Burg_Edenserloog_240.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Edenserloog_240.jpg/1920px-Burg_Edenserloog_240.jpg
+  Burg Edenserloog 38.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Edenserloog_38.jpg/400px-Burg_Edenserloog_38.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Edenserloog_38.jpg/800px-Burg_Edenserloog_38.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Edenserloog_38.jpg/1200px-Burg_Edenserloog_38.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Edenserloog_38.jpg/1920px-Burg_Edenserloog_38.jpg
+  Burg Edenserloog (Werdum) 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Edenserloog_(Werdum)_03.JPG/400px-Burg_Edenserloog_(Werdum)_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Edenserloog_(Werdum)_03.JPG/800px-Burg_Edenserloog_(Werdum)_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Edenserloog_(Werdum)_03.JPG/1200px-Burg_Edenserloog_(Werdum)_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Edenserloog_(Werdum)_03.JPG/1920px-Burg_Edenserloog_(Werdum)_03.JPG
+  Burg Edenserloog2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Edenserloog2.JPG/400px-Burg_Edenserloog2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Edenserloog2.JPG/800px-Burg_Edenserloog2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Edenserloog2.JPG/1200px-Burg_Edenserloog2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Edenserloog2.JPG/1920px-Burg_Edenserloog2.JPG
+  Burg Edenserloog.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Edenserloog.JPG/400px-Burg_Edenserloog.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Edenserloog.JPG/800px-Burg_Edenserloog.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Edenserloog.JPG/1200px-Burg_Edenserloog.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Edenserloog.JPG/1920px-Burg_Edenserloog.JPG
 ---
 
 ## Overview

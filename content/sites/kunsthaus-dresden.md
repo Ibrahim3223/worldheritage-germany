@@ -21,9 +21,9 @@ longitude: 13.741
 
 # Images
 images:
-  - "/images-sites/kunsthaus-dresden/01-1dc3ef6d-800w.webp"
-  - "/images-sites/kunsthaus-dresden/02-3b7afd01-800w.webp"
-  - "/images-sites/kunsthaus-dresden/03-2d296c03-800w.webp"
+  - "/images/kunsthaus-dresden/01-1dc3ef6d-800w.webp"
+  - "/images/kunsthaus-dresden/02-3b7afd01-800w.webp"
+  - "/images/kunsthaus-dresden/03-2d296c03-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Harmlos"
+title: Harmlos
 date: 2026-01-23
 draft: false
-description: "denkmalgeschützte Statue in München"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: denkmalgeschützte Statue in München
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1436
 longitude: 11.5823
 images:
-  - "/images-sites/harmlos/01-1cbf57ee-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20180804_Harmlos.jpg/1200px-20180804_Harmlos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/1200px-Jünglingsfigur_Harmlos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg/1200px-Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg/1200px-Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harmlos_F.J.Schwanthaler_1803_v2.jpg/1200px-Harmlos_F.J.Schwanthaler_1803_v2.jpg
+image_srcset:
+  20180804 Harmlos.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20180804_Harmlos.jpg/400px-20180804_Harmlos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20180804_Harmlos.jpg/800px-20180804_Harmlos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20180804_Harmlos.jpg/1200px-20180804_Harmlos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20180804_Harmlos.jpg/1920px-20180804_Harmlos.jpg
+  Jünglingsfigur Harmlos.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/400px-Jünglingsfigur_Harmlos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/800px-Jünglingsfigur_Harmlos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/1200px-Jünglingsfigur_Harmlos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jünglingsfigur_Harmlos.jpg/1920px-Jünglingsfigur_Harmlos.jpg
+  Harmlos F.J.Schwanthaler 1803 Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg/400px-Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg/800px-Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg/1200px-Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg/1920px-Harmlos_F.J.Schwanthaler_1803_Muenchen-1.jpg
+  Harmlos F.J.Schwanthaler 1803 Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg/400px-Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg/800px-Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg/1200px-Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg/1920px-Harmlos_F.J.Schwanthaler_1803_Muenchen-4.jpg
+  Harmlos F.J.Schwanthaler 1803 v2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harmlos_F.J.Schwanthaler_1803_v2.jpg/400px-Harmlos_F.J.Schwanthaler_1803_v2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harmlos_F.J.Schwanthaler_1803_v2.jpg/800px-Harmlos_F.J.Schwanthaler_1803_v2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harmlos_F.J.Schwanthaler_1803_v2.jpg/1200px-Harmlos_F.J.Schwanthaler_1803_v2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harmlos_F.J.Schwanthaler_1803_v2.jpg/1920px-Harmlos_F.J.Schwanthaler_1803_v2.jpg
 ---
 
 ## Overview

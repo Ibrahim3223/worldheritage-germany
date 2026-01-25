@@ -1,21 +1,49 @@
 ---
-title: "Gartenfriedhof"
+title: Gartenfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Hannover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.369795163
 longitude: 9.747385126
 images:
-  - "/images-sites/gartenfriedhof/01-aababf07-800w.webp"
-  - "/images-sites/gartenfriedhof/02-a2ceedd3-800w.webp"
-  - "/images-sites/gartenfriedhof/03-a744e3e1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover_Gartenfriedhof_03.jpg/1200px-Hannover_Gartenfriedhof_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg/1200px-Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg/1200px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg/1200px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg/1200px-Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg
+image_srcset:
+  Hannover Gartenfriedhof 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover_Gartenfriedhof_03.jpg/400px-Hannover_Gartenfriedhof_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover_Gartenfriedhof_03.jpg/800px-Hannover_Gartenfriedhof_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover_Gartenfriedhof_03.jpg/1200px-Hannover_Gartenfriedhof_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hannover_Gartenfriedhof_03.jpg/1920px-Hannover_Gartenfriedhof_03.jpg
+  Familiengrabmal von Kielmannsegge Gartenfriedhof Hannover 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg/400px-Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg/800px-Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg/1200px-Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg/1920px-Familiengrabmal_von_Kielmannsegge_Gartenfriedhof_Hannover_3.jpg
+  Grabmal CatharinaDorothea Elisabeth Nageln und Friedrich Gartenfriedhof Hannover 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg/400px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg/800px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg/1200px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg/1920px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_3.jpg
+  Grabmal CatharinaDorothea Elisabeth Nageln und Friedrich Gartenfriedhof Hannover 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg/400px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg/800px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg/1200px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg/1920px-Grabmal_CatharinaDorothea_Elisabeth_Nageln_und_Friedrich_Gartenfriedhof_Hannover_4.jpg
+  Postament (Gartenfriedhof Hannover, 04.06.2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg/400px-Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg/800px-Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg/1200px-Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg/1920px-Postament_(Gartenfriedhof_Hannover,_04.06.2024).jpg
 ---
 
 ## Overview

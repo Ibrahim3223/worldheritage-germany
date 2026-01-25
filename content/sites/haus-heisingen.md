@@ -1,21 +1,49 @@
 ---
-title: "Haus Heisingen"
+title: Haus Heisingen
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.400472222
 longitude: 7.074166666
 images:
-  - "/images-sites/haus-heisingen/01-30e96281-800w.webp"
-  - "/images-sites/haus-heisingen/02-fbb74296-800w.webp"
-  - "/images-sites/haus-heisingen/03-0c78f90c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ciclovia_na_Wuppertaler_Str._em_Essen.jpg/1200px-Ciclovia_na_Wuppertaler_Str._em_Essen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/E-Heisingen_09_-_Haus_Heisingen.jpg/1200px-E-Heisingen_09_-_Haus_Heisingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HausHeisingenSuedansicht.jpg/1200px-HausHeisingenSuedansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HausHeisingenTuer.jpg/1200px-HausHeisingenTuer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Haus_Heisingen_Luftbild_01.jpg/1200px-Haus_Heisingen_Luftbild_01.jpg
+image_srcset:
+  Ciclovia na Wuppertaler Str. em Essen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ciclovia_na_Wuppertaler_Str._em_Essen.jpg/400px-Ciclovia_na_Wuppertaler_Str._em_Essen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ciclovia_na_Wuppertaler_Str._em_Essen.jpg/800px-Ciclovia_na_Wuppertaler_Str._em_Essen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ciclovia_na_Wuppertaler_Str._em_Essen.jpg/1200px-Ciclovia_na_Wuppertaler_Str._em_Essen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ciclovia_na_Wuppertaler_Str._em_Essen.jpg/1920px-Ciclovia_na_Wuppertaler_Str._em_Essen.jpg
+  E-Heisingen 09 - Haus Heisingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/E-Heisingen_09_-_Haus_Heisingen.jpg/400px-E-Heisingen_09_-_Haus_Heisingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/E-Heisingen_09_-_Haus_Heisingen.jpg/800px-E-Heisingen_09_-_Haus_Heisingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/E-Heisingen_09_-_Haus_Heisingen.jpg/1200px-E-Heisingen_09_-_Haus_Heisingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/E-Heisingen_09_-_Haus_Heisingen.jpg/1920px-E-Heisingen_09_-_Haus_Heisingen.jpg
+  HausHeisingenSuedansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HausHeisingenSuedansicht.jpg/400px-HausHeisingenSuedansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HausHeisingenSuedansicht.jpg/800px-HausHeisingenSuedansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HausHeisingenSuedansicht.jpg/1200px-HausHeisingenSuedansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HausHeisingenSuedansicht.jpg/1920px-HausHeisingenSuedansicht.jpg
+  HausHeisingenTuer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HausHeisingenTuer.jpg/400px-HausHeisingenTuer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HausHeisingenTuer.jpg/800px-HausHeisingenTuer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HausHeisingenTuer.jpg/1200px-HausHeisingenTuer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HausHeisingenTuer.jpg/1920px-HausHeisingenTuer.jpg
+  Haus Heisingen Luftbild 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Haus_Heisingen_Luftbild_01.jpg/400px-Haus_Heisingen_Luftbild_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Haus_Heisingen_Luftbild_01.jpg/800px-Haus_Heisingen_Luftbild_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Haus_Heisingen_Luftbild_01.jpg/1200px-Haus_Heisingen_Luftbild_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Haus_Heisingen_Luftbild_01.jpg/1920px-Haus_Heisingen_Luftbild_01.jpg
 ---
 
 ## Overview

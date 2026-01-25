@@ -1,19 +1,49 @@
 ---
-title: "Alexander Puschkin Monument"
+title: Alexander Puschkin Monument
 date: 2026-01-23
 draft: false
-description: "monument in Weimar, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Weimar, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.978111111
 longitude: 11.332166666
 images:
-  - "/images-sites/alexander-puschkin-monument/01-44c09330-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Weimar_popiersie_Puszkina_1.jpg/1200px-Weimar_popiersie_Puszkina_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Pushkin_monument_Jena.jpg/1200px-Alexander_Pushkin_monument_Jena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexander_Pushkin_monument_Jena_2.jpg/1200px-Alexander_Pushkin_monument_Jena_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jena_Alexander-Puschkin-Denkmal.jpg/1200px-Jena_Alexander-Puschkin-Denkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexander_Puschkin_Büste.jpg/1200px-Alexander_Puschkin_Büste.jpg
+image_srcset:
+  Weimar popiersie Puszkina 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Weimar_popiersie_Puszkina_1.jpg/400px-Weimar_popiersie_Puszkina_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Weimar_popiersie_Puszkina_1.jpg/800px-Weimar_popiersie_Puszkina_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Weimar_popiersie_Puszkina_1.jpg/1200px-Weimar_popiersie_Puszkina_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Weimar_popiersie_Puszkina_1.jpg/1920px-Weimar_popiersie_Puszkina_1.jpg
+  Alexander Pushkin monument Jena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Pushkin_monument_Jena.jpg/400px-Alexander_Pushkin_monument_Jena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Pushkin_monument_Jena.jpg/800px-Alexander_Pushkin_monument_Jena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Pushkin_monument_Jena.jpg/1200px-Alexander_Pushkin_monument_Jena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alexander_Pushkin_monument_Jena.jpg/1920px-Alexander_Pushkin_monument_Jena.jpg
+  Alexander Pushkin monument Jena 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexander_Pushkin_monument_Jena_2.jpg/400px-Alexander_Pushkin_monument_Jena_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexander_Pushkin_monument_Jena_2.jpg/800px-Alexander_Pushkin_monument_Jena_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexander_Pushkin_monument_Jena_2.jpg/1200px-Alexander_Pushkin_monument_Jena_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexander_Pushkin_monument_Jena_2.jpg/1920px-Alexander_Pushkin_monument_Jena_2.jpg
+  Jena Alexander-Puschkin-Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jena_Alexander-Puschkin-Denkmal.jpg/400px-Jena_Alexander-Puschkin-Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jena_Alexander-Puschkin-Denkmal.jpg/800px-Jena_Alexander-Puschkin-Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jena_Alexander-Puschkin-Denkmal.jpg/1200px-Jena_Alexander-Puschkin-Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jena_Alexander-Puschkin-Denkmal.jpg/1920px-Jena_Alexander-Puschkin-Denkmal.jpg
+  Alexander Puschkin Büste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexander_Puschkin_Büste.jpg/400px-Alexander_Puschkin_Büste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexander_Puschkin_Büste.jpg/800px-Alexander_Puschkin_Büste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexander_Puschkin_Büste.jpg/1200px-Alexander_Puschkin_Büste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexander_Puschkin_Büste.jpg/1920px-Alexander_Puschkin_Büste.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.8003
 longitude: 7.20547
 images:
-  - "/images-sites/studiobuehne-siegburg/01-4b2f19e5-800w.webp"
+  - "/images/studiobuehne-siegburg/01-4b2f19e5-800w.webp"
 ---
 
 ## Overview

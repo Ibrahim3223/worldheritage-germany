@@ -13,7 +13,7 @@ regions:
 latitude: 52.038
 longitude: 6.83892
 images:
-  - "/images-sites/kapelle-maria-brunn/01-0db0e5e4-800w.webp"
+  - "/images/kapelle-maria-brunn/01-0db0e5e4-800w.webp"
 ---
 
 ## Overview

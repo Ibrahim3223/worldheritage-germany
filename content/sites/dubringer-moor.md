@@ -1,19 +1,49 @@
 ---
-title: "Dubringer Moor"
+title: Dubringer Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.396661111
 longitude: 14.197597222
 images:
-  - "/images-sites/dubringer-moor/01-11a43285-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dubringer_Moor.jpg/1200px-Dubringer_Moor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dubringer_Moor_2.JPG/1200px-Dubringer_Moor_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dubringer_Moor_4.JPG/1200px-Dubringer_Moor_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dubringer_Moor-Wollgraswiese.JPG/1200px-Dubringer_Moor-Wollgraswiese.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg/1200px-Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg
+image_srcset:
+  Dubringer Moor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dubringer_Moor.jpg/400px-Dubringer_Moor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dubringer_Moor.jpg/800px-Dubringer_Moor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dubringer_Moor.jpg/1200px-Dubringer_Moor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dubringer_Moor.jpg/1920px-Dubringer_Moor.jpg
+  Dubringer Moor 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dubringer_Moor_2.JPG/400px-Dubringer_Moor_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dubringer_Moor_2.JPG/800px-Dubringer_Moor_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dubringer_Moor_2.JPG/1200px-Dubringer_Moor_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dubringer_Moor_2.JPG/1920px-Dubringer_Moor_2.JPG
+  Dubringer Moor 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dubringer_Moor_4.JPG/400px-Dubringer_Moor_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dubringer_Moor_4.JPG/800px-Dubringer_Moor_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dubringer_Moor_4.JPG/1200px-Dubringer_Moor_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dubringer_Moor_4.JPG/1920px-Dubringer_Moor_4.JPG
+  Dubringer Moor-Wollgraswiese.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dubringer_Moor-Wollgraswiese.JPG/400px-Dubringer_Moor-Wollgraswiese.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dubringer_Moor-Wollgraswiese.JPG/800px-Dubringer_Moor-Wollgraswiese.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dubringer_Moor-Wollgraswiese.JPG/1200px-Dubringer_Moor-Wollgraswiese.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dubringer_Moor-Wollgraswiese.JPG/1920px-Dubringer_Moor-Wollgraswiese.JPG
+  Versunkenes Schloss im Dubringer Moor Geländemodell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg/400px-Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg/800px-Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg/1200px-Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg/1920px-Versunkenes_Schloss_im_Dubringer_Moor_Geländemodell.jpg
 ---
 
 ## Overview

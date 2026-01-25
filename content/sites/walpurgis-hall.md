@@ -13,7 +13,7 @@ regions:
 latitude: 51.7327
 longitude: 11.0261
 images:
-  - "/images-sites/walpurgis-hall/01-037f1950-800w.webp"
+  - "/images/walpurgis-hall/01-037f1950-800w.webp"
 ---
 
 ## Overview

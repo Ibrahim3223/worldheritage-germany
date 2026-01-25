@@ -13,8 +13,8 @@ regions:
 latitude: 52.2842
 longitude: 10.5923
 images:
-  - "/images-sites/niederdeutsches-theater-braunschweig/01-56a91d03-800w.webp"
-  - "/images-sites/niederdeutsches-theater-braunschweig/02-4c735e24-800w.webp"
+  - "/images/niederdeutsches-theater-braunschweig/01-56a91d03-800w.webp"
+  - "/images/niederdeutsches-theater-braunschweig/02-4c735e24-800w.webp"
 ---
 
 ## Overview

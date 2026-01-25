@@ -1,19 +1,43 @@
 ---
-title: "Esterweger Dose"
+title: Esterweger Dose
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0461
 longitude: 7.63472
 images:
-  - "/images-sites/esterweger-dose/01-fa55b665-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg/1200px-Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Esterweger_Dose.jpg/1200px-Esterweger_Dose.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moor_-Landschaft_Esterweger_Dose.JPG/1200px-Moor_-Landschaft_Esterweger_Dose.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moorfrosch_in_der_Esterweger_Dose.JPG/1200px-Moorfrosch_in_der_Esterweger_Dose.JPG
+image_srcset:
+  Esterwegen - B401 - NSG Esterweger Dose 35 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg/400px-Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg/800px-Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg/1200px-Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg/1920px-Esterwegen_-_B401_-_NSG_Esterweger_Dose_35_ies.jpg
+  Esterweger Dose.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Esterweger_Dose.jpg/400px-Esterweger_Dose.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Esterweger_Dose.jpg/800px-Esterweger_Dose.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Esterweger_Dose.jpg/1200px-Esterweger_Dose.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Esterweger_Dose.jpg/1920px-Esterweger_Dose.jpg
+  Moor -Landschaft Esterweger Dose.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moor_-Landschaft_Esterweger_Dose.JPG/400px-Moor_-Landschaft_Esterweger_Dose.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moor_-Landschaft_Esterweger_Dose.JPG/800px-Moor_-Landschaft_Esterweger_Dose.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moor_-Landschaft_Esterweger_Dose.JPG/1200px-Moor_-Landschaft_Esterweger_Dose.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Moor_-Landschaft_Esterweger_Dose.JPG/1920px-Moor_-Landschaft_Esterweger_Dose.JPG
+  Moorfrosch in der Esterweger Dose.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moorfrosch_in_der_Esterweger_Dose.JPG/400px-Moorfrosch_in_der_Esterweger_Dose.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moorfrosch_in_der_Esterweger_Dose.JPG/800px-Moorfrosch_in_der_Esterweger_Dose.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moorfrosch_in_der_Esterweger_Dose.JPG/1200px-Moorfrosch_in_der_Esterweger_Dose.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moorfrosch_in_der_Esterweger_Dose.JPG/1920px-Moorfrosch_in_der_Esterweger_Dose.JPG
 ---
 
 ## Overview

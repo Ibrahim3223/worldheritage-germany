@@ -1,19 +1,49 @@
 ---
-title: "Europäisches Hansemuseum"
+title: Europäisches Hansemuseum
 date: 2026-01-23
 draft: false
-description: "museum of the Hanseatic League in Lübeck"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum of the Hanseatic League in Lübeck
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.87411111
 longitude: 10.68961111
 images:
-  - "/images-sites/europaeisches-hansemuseum/01-afe3a22e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg/1200px-Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg/1200px-European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg/1200px-Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Europäisches_Hansemuseum_2015.jpg/1200px-Europäisches_Hansemuseum_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg/1200px-European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg
+image_srcset:
+  Lübeck, Große Burgstraße -- 2017 -- 0392.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg/400px-Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg/800px-Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg/1200px-Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg/1920px-Lübeck,_Große_Burgstraße_--_2017_--_0392.jpg
+  European Hansemuseum Lübeck, passage between the former cloister and the confessional building.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg/400px-European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg/800px-European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg/1200px-European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg/1920px-European_Hansemuseum_Lübeck,_passage_between_the_former_cloister_and_the_confessional_building.jpg
+  Museumsareal Europäisches Hansemuseum (Lübeck).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg/400px-Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg/800px-Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg/1200px-Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg/1920px-Museumsareal_Europäisches_Hansemuseum_(Lübeck).jpg
+  Europäisches Hansemuseum 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Europäisches_Hansemuseum_2015.jpg/400px-Europäisches_Hansemuseum_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Europäisches_Hansemuseum_2015.jpg/800px-Europäisches_Hansemuseum_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Europäisches_Hansemuseum_2015.jpg/1200px-Europäisches_Hansemuseum_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Europäisches_Hansemuseum_2015.jpg/1920px-Europäisches_Hansemuseum_2015.jpg
+  European Hansemuseum in Lübeck, entrance from Hinter der Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg/400px-European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg/800px-European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg/1200px-European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg/1920px-European_Hansemuseum_in_Lübeck,_entrance_from_Hinter_der_Burg.jpg
 ---
 
 ## Overview

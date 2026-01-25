@@ -21,7 +21,7 @@ longitude: 9.39194
 
 # Images
 images:
-  - "/images-sites/naxburg/01-9a4ce6e1-800w.webp"
+  - "/images/naxburg/01-9a4ce6e1-800w.webp"
 ---
 
 ## Overview

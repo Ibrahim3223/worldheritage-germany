@@ -1,24 +1,51 @@
 ---
-title: "Herz-Jesu-Kirche (Bremerhaven-Geestemünde)"
-site_name: "Herz-Jesu-Kirche (Bremerhaven-Geestemünde)"
-slug: "herz-jesu-kirche-bremerhaven-geestemunde"
-region: "Bremen"
-
-# Location
+title: Herz-Jesu-Kirche (Bremerhaven-Geestemünde)
+site_name: Herz-Jesu-Kirche (Bremerhaven-Geestemünde)
+slug: herz-jesu-kirche-bremerhaven-geestemunde
+region: Bremen
 latitude: 53.5335
 longitude: 8.59687
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1614945"
-description: "Bremerhaven-Geestemünde is home to the Herz-Jesu-Kirche, a striking example of Gothic Revival architecture that serves as a beacon for the Catholic comm..."
+- church building
+- religious site
+wikidata_id: Q1614945
+description: Bremerhaven-Geestemünde is home to the Herz-Jesu-Kirche, a striking example
+  of Gothic Revival architecture that serves as a beacon for the Catholic comm...
 images:
-  - "/images-sites/herz-jesu-kirche-bremerhaven-geestemunde/01-34383af8-1920w.webp"
-  - "/images-sites/herz-jesu-kirche-bremerhaven-geestemunde/02-84ea73db-1920w.webp"
-  - "/images-sites/herz-jesu-kirche-bremerhaven-geestemunde/03-7b12c770-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg/1200px-Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Südl._Ebert-Str._(Bremerhaven).JPG/1200px-Südl._Ebert-Str._(Bremerhaven).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg/1200px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg/1200px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ein_Kirchturm_in_Bremerhaven_1uf.JPG/1200px-Ein_Kirchturm_in_Bremerhaven_1uf.JPG
+image_srcset:
+  Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg/400px-Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg/800px-Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg/1200px-Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg/1920px-Herz-Jesu-Kirche%20Bremerhaven-Geestem%C3%BCnde-2.jpg
+  Südl. Ebert-Str. (Bremerhaven).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Südl._Ebert-Str._(Bremerhaven).JPG/400px-Südl._Ebert-Str._(Bremerhaven).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Südl._Ebert-Str._(Bremerhaven).JPG/800px-Südl._Ebert-Str._(Bremerhaven).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Südl._Ebert-Str._(Bremerhaven).JPG/1200px-Südl._Ebert-Str._(Bremerhaven).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Südl._Ebert-Str._(Bremerhaven).JPG/1920px-Südl._Ebert-Str._(Bremerhaven).JPG
+  Herz-Jesu-Kirche Bremerhaven-Geestemünde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg/400px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg/800px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg/1200px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg/1920px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde.jpg
+  Herz-Jesu-Kirche Bremerhaven-Geestemünde-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg/400px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg/800px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg/1200px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg/1920px-Herz-Jesu-Kirche_Bremerhaven-Geestemünde-2.jpg
+  Ein Kirchturm in Bremerhaven 1uf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ein_Kirchturm_in_Bremerhaven_1uf.JPG/400px-Ein_Kirchturm_in_Bremerhaven_1uf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ein_Kirchturm_in_Bremerhaven_1uf.JPG/800px-Ein_Kirchturm_in_Bremerhaven_1uf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ein_Kirchturm_in_Bremerhaven_1uf.JPG/1200px-Ein_Kirchturm_in_Bremerhaven_1uf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ein_Kirchturm_in_Bremerhaven_1uf.JPG/1920px-Ein_Kirchturm_in_Bremerhaven_1uf.JPG
 ---
 
 ## Overview

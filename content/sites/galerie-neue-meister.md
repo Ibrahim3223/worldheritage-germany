@@ -1,27 +1,49 @@
 ---
-title: "Galerie Neue Meister"
+title: Galerie Neue Meister
 date: 2026-01-23
 draft: false
-description: "art museum in Dresden, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.051944388
 longitude: 13.744444388
-
-# Images
 images:
-  - "/images-sites/galerie-neue-meister/01-c1d6dba6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg/1200px-Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg/1200px-32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1200px-AlbertinumDresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg/1200px-Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg/1200px-Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg
+image_srcset:
+  Albertinum Dresden Julius Röting Columbus in Salamanca.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg/400px-Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg/800px-Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg/1200px-Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg/1920px-Albertinum_Dresden_Julius_Röting_Columbus_in_Salamanca.jpg
+  32499-Staatliche Kunstsammlungen-2001-Kretzschmar-Die Synagoge in Dresden -Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg/400px-32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg/800px-32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg/1200px-32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg/1920px-32499-Staatliche_Kunstsammlungen-2001-Kretzschmar-Die_Synagoge_in_Dresden_-Brück_&_Sohn_Kunstverlag.jpg
+  AlbertinumDresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/400px-AlbertinumDresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/800px-AlbertinumDresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1200px-AlbertinumDresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/AlbertinumDresden.jpg/1920px-AlbertinumDresden.jpg
+  Theodor Markus Rehbenitz - Self-Portrait - WGA19047.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg/400px-Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg/800px-Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg/1200px-Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg/1920px-Theodor_Markus_Rehbenitz_-_Self-Portrait_-_WGA19047.jpg
+  Bundesarchiv Bild 183-1987-0930-013, Dresden, Albertinum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg/400px-Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg/800px-Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg/1200px-Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg/1920px-Bundesarchiv_Bild_183-1987-0930-013,_Dresden,_Albertinum.jpg
 ---
 
 ## Overview

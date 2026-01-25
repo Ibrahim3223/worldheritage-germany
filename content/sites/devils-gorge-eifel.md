@@ -1,19 +1,49 @@
 ---
-title: "Devil's Gorge (Eifel)"
+title: Devil's Gorge (Eifel)
 date: 2026-01-24
 draft: false
-description: "valley in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8456
 longitude: 6.44083
 images:
-  - "/images-sites/devils-gorge-eifel/01-3da6d7ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrel_Eifel4.jpg/1200px-Irrel_Eifel4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Teufelsschlucht_(Eifel).jpg/1200px-Teufelsschlucht_(Eifel).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Teufelsschlucht8938L-2.jpg/1200px-Teufelsschlucht8938L-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Teufelsschlucht9129KW.jpg/1200px-Teufelsschlucht9129KW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/1200px-Teufelsschlucht-Ferschweiler01.jpg
+image_srcset:
+  Irrel Eifel4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrel_Eifel4.jpg/400px-Irrel_Eifel4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrel_Eifel4.jpg/800px-Irrel_Eifel4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrel_Eifel4.jpg/1200px-Irrel_Eifel4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrel_Eifel4.jpg/1920px-Irrel_Eifel4.jpg
+  Teufelsschlucht (Eifel).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Teufelsschlucht_(Eifel).jpg/400px-Teufelsschlucht_(Eifel).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Teufelsschlucht_(Eifel).jpg/800px-Teufelsschlucht_(Eifel).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Teufelsschlucht_(Eifel).jpg/1200px-Teufelsschlucht_(Eifel).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Teufelsschlucht_(Eifel).jpg/1920px-Teufelsschlucht_(Eifel).jpg
+  Teufelsschlucht8938L-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Teufelsschlucht8938L-2.jpg/400px-Teufelsschlucht8938L-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Teufelsschlucht8938L-2.jpg/800px-Teufelsschlucht8938L-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Teufelsschlucht8938L-2.jpg/1200px-Teufelsschlucht8938L-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Teufelsschlucht8938L-2.jpg/1920px-Teufelsschlucht8938L-2.jpg
+  Teufelsschlucht9129KW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Teufelsschlucht9129KW.jpg/400px-Teufelsschlucht9129KW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Teufelsschlucht9129KW.jpg/800px-Teufelsschlucht9129KW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Teufelsschlucht9129KW.jpg/1200px-Teufelsschlucht9129KW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Teufelsschlucht9129KW.jpg/1920px-Teufelsschlucht9129KW.jpg
+  Teufelsschlucht-Ferschweiler01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/400px-Teufelsschlucht-Ferschweiler01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/800px-Teufelsschlucht-Ferschweiler01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/1200px-Teufelsschlucht-Ferschweiler01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Teufelsschlucht-Ferschweiler01.jpg/1920px-Teufelsschlucht-Ferschweiler01.jpg
 ---
 
 ## Overview 

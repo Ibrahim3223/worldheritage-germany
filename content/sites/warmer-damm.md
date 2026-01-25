@@ -13,7 +13,7 @@ regions:
 latitude: 50.0819
 longitude: 8.24639
 images:
-  - "/images-sites/warmer-damm/01-a6d67357-800w.webp"
+  - "/images/warmer-damm/01-a6d67357-800w.webp"
 ---
 
 ## Overview

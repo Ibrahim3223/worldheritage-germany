@@ -21,9 +21,9 @@ longitude: 8.67167
 
 # Images
 images:
-  - "/images-sites/liebieghaus/01-518820fa-800w.webp"
-  - "/images-sites/liebieghaus/02-469e78cb-800w.webp"
-  - "/images-sites/liebieghaus/03-d3cac2d7-800w.webp"
+  - "/images/liebieghaus/01-518820fa-800w.webp"
+  - "/images/liebieghaus/02-469e78cb-800w.webp"
+  - "/images/liebieghaus/03-d3cac2d7-800w.webp"
 ---
 
 ## Overview

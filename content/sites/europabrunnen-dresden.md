@@ -1,21 +1,49 @@
 ---
-title: "Europabrunnen (Dresden)"
+title: Europabrunnen (Dresden)
 date: 2026-01-23
 draft: false
-description: "fountain in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.054009
 longitude: 13.786128
 images:
-  - "/images-sites/europabrunnen-dresden/01-74197940-800w.webp"
-  - "/images-sites/europabrunnen-dresden/02-1843bedf-800w.webp"
-  - "/images-sites/europabrunnen-dresden/03-a291f358-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blasewitz,_Europabrunnen_2012_012.jpg/1200px-Blasewitz,_Europabrunnen_2012_012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blasewitz,_Königsheimplatz_2018_023.jpg/1200px-Blasewitz,_Königsheimplatz_2018_023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Europabrunnen_am_Königsheimplatz_Dresden_1.JPG/1200px-Europabrunnen_am_Königsheimplatz_Dresden_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blasewitz,_Europabrunnen_2013_011.jpg/1200px-Blasewitz,_Europabrunnen_2013_011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg/1200px-20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg
+image_srcset:
+  Blasewitz, Europabrunnen 2012 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blasewitz,_Europabrunnen_2012_012.jpg/400px-Blasewitz,_Europabrunnen_2012_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blasewitz,_Europabrunnen_2012_012.jpg/800px-Blasewitz,_Europabrunnen_2012_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blasewitz,_Europabrunnen_2012_012.jpg/1200px-Blasewitz,_Europabrunnen_2012_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blasewitz,_Europabrunnen_2012_012.jpg/1920px-Blasewitz,_Europabrunnen_2012_012.jpg
+  Blasewitz, Königsheimplatz 2018 023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blasewitz,_Königsheimplatz_2018_023.jpg/400px-Blasewitz,_Königsheimplatz_2018_023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blasewitz,_Königsheimplatz_2018_023.jpg/800px-Blasewitz,_Königsheimplatz_2018_023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blasewitz,_Königsheimplatz_2018_023.jpg/1200px-Blasewitz,_Königsheimplatz_2018_023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blasewitz,_Königsheimplatz_2018_023.jpg/1920px-Blasewitz,_Königsheimplatz_2018_023.jpg
+  Europabrunnen am Königsheimplatz Dresden 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Europabrunnen_am_Königsheimplatz_Dresden_1.JPG/400px-Europabrunnen_am_Königsheimplatz_Dresden_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Europabrunnen_am_Königsheimplatz_Dresden_1.JPG/800px-Europabrunnen_am_Königsheimplatz_Dresden_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Europabrunnen_am_Königsheimplatz_Dresden_1.JPG/1200px-Europabrunnen_am_Königsheimplatz_Dresden_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Europabrunnen_am_Königsheimplatz_Dresden_1.JPG/1920px-Europabrunnen_am_Königsheimplatz_Dresden_1.JPG
+  Blasewitz, Europabrunnen 2013 011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blasewitz,_Europabrunnen_2013_011.jpg/400px-Blasewitz,_Europabrunnen_2013_011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blasewitz,_Europabrunnen_2013_011.jpg/800px-Blasewitz,_Europabrunnen_2013_011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blasewitz,_Europabrunnen_2013_011.jpg/1200px-Blasewitz,_Europabrunnen_2013_011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blasewitz,_Europabrunnen_2013_011.jpg/1920px-Blasewitz,_Europabrunnen_2013_011.jpg
+  20040907200DR Dresden-Blasewitz Europabrunnen Königsheimplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg/400px-20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg/800px-20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg/1200px-20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg/1920px-20040907200DR_Dresden-Blasewitz_Europabrunnen_Königsheimplatz.jpg
 ---
 
 ## Overview

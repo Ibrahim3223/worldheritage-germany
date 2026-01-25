@@ -1,19 +1,49 @@
 ---
-title: "Babelsberg Park"
+title: Babelsberg Park
 date: 2026-01-23
 draft: false
-description: "park in the city of Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in the city of Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.405386
 longitude: 13.092721
 images:
-  - "/images-sites/babelsberg-park/01-70236940-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg/1200px-2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Park_Babelsberg,_Tiefer_See-0441.jpg/1200px-Park_Babelsberg,_Tiefer_See-0441.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1200px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg/1200px-Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Park_Babelsberg_Herbst.jpg/1200px-Park_Babelsberg_Herbst.jpg
+image_srcset:
+  2019-06-21 Flatowturm Potsdam (Wikipedianische KulTour) by DCB–005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg/400px-2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg/800px-2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg/1200px-2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg/1920px-2019-06-21_Flatowturm_Potsdam_(Wikipedianische_KulTour)_by_DCB–005.jpg
+  Park Babelsberg, Tiefer See-0441.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Park_Babelsberg,_Tiefer_See-0441.jpg/400px-Park_Babelsberg,_Tiefer_See-0441.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Park_Babelsberg,_Tiefer_See-0441.jpg/800px-Park_Babelsberg,_Tiefer_See-0441.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Park_Babelsberg,_Tiefer_See-0441.jpg/1200px-Park_Babelsberg,_Tiefer_See-0441.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Park_Babelsberg,_Tiefer_See-0441.jpg/1920px-Park_Babelsberg,_Tiefer_See-0441.jpg
+  Schlosspark Babelsberg Blick Glienicker Bruecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/400px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/800px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1200px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1920px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg
+  Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg/400px-Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg/800px-Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg/1200px-Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg/1920px-Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg
+  Park Babelsberg Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Park_Babelsberg_Herbst.jpg/400px-Park_Babelsberg_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Park_Babelsberg_Herbst.jpg/800px-Park_Babelsberg_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Park_Babelsberg_Herbst.jpg/1200px-Park_Babelsberg_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Park_Babelsberg_Herbst.jpg/1920px-Park_Babelsberg_Herbst.jpg
 ---
 
 ## Overview

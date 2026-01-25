@@ -21,9 +21,9 @@ longitude: 11.08
 
 # Images
 images:
-  - "/images-sites/neues-museum-nuernberg/01-6297aa17-800w.webp"
-  - "/images-sites/neues-museum-nuernberg/02-7edaf766-800w.webp"
-  - "/images-sites/neues-museum-nuernberg/03-3cf36cd4-800w.webp"
+  - "/images/neues-museum-nuernberg/01-6297aa17-800w.webp"
+  - "/images/neues-museum-nuernberg/02-7edaf766-800w.webp"
+  - "/images/neues-museum-nuernberg/03-3cf36cd4-800w.webp"
 ---
 
 ## Overview

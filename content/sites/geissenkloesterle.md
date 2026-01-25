@@ -1,27 +1,49 @@
 ---
-title: "Geißenklösterle"
+title: Geißenklösterle
 date: 2026-01-23
 draft: false
-description: "geographical object"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: geographical object
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.398333333
 longitude: 9.772222222
-
-# Images
 images:
-  - "/images-sites/geissenkloesterle/01-539684b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG/1200px-Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Geißenklösterle_Blaubeuren_2022-09-09_4.jpg/1200px-Geißenklösterle_Blaubeuren_2022-09-09_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geißenklösterle_Blaubeuren_2022-09-09_2.jpg/1200px-Geißenklösterle_Blaubeuren_2022-09-09_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg/1200px-Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1200px-Geißenklösterle.jpg
+image_srcset:
+  Blaubeuren - OT Weiler, Geißenklösterle im Bruckfelsmassiv .JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG/400px-Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG/800px-Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG/1200px-Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG/1920px-Blaubeuren_-_OT_Weiler,_Geißenklösterle_im_Bruckfelsmassiv_.JPG
+  Geißenklösterle Blaubeuren 2022-09-09 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Geißenklösterle_Blaubeuren_2022-09-09_4.jpg/400px-Geißenklösterle_Blaubeuren_2022-09-09_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Geißenklösterle_Blaubeuren_2022-09-09_4.jpg/800px-Geißenklösterle_Blaubeuren_2022-09-09_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Geißenklösterle_Blaubeuren_2022-09-09_4.jpg/1200px-Geißenklösterle_Blaubeuren_2022-09-09_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Geißenklösterle_Blaubeuren_2022-09-09_4.jpg/1920px-Geißenklösterle_Blaubeuren_2022-09-09_4.jpg
+  Geißenklösterle Blaubeuren 2022-09-09 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geißenklösterle_Blaubeuren_2022-09-09_2.jpg/400px-Geißenklösterle_Blaubeuren_2022-09-09_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geißenklösterle_Blaubeuren_2022-09-09_2.jpg/800px-Geißenklösterle_Blaubeuren_2022-09-09_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geißenklösterle_Blaubeuren_2022-09-09_2.jpg/1200px-Geißenklösterle_Blaubeuren_2022-09-09_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geißenklösterle_Blaubeuren_2022-09-09_2.jpg/1920px-Geißenklösterle_Blaubeuren_2022-09-09_2.jpg
+  Floete Schwanenknochen Geissenkloesterle Blaubeuren.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg/400px-Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg/800px-Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg/1200px-Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg/1920px-Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg
+  Geißenklösterle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/400px-Geißenklösterle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/800px-Geißenklösterle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1200px-Geißenklösterle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Geißenklösterle.jpg/1920px-Geißenklösterle.jpg
 ---
 
 ## Overview

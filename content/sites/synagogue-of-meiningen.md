@@ -13,7 +13,7 @@ regions:
 latitude: 50.5656
 longitude: 10.4135
 images:
-  - "/images-sites/synagogue-of-meiningen/01-020c8ffe-800w.webp"
+  - "/images/synagogue-of-meiningen/01-020c8ffe-800w.webp"
 ---
 
 ## Overview

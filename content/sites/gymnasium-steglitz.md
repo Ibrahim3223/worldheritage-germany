@@ -1,21 +1,49 @@
 ---
-title: "Gymnasium Steglitz"
+title: Gymnasium Steglitz
 date: 2026-01-23
 draft: false
-description: "gymnasium"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: gymnasium
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4569
 longitude: 13.3264
 images:
-  - "/images-sites/gymnasium-steglitz/01-3bb2d10a-800w.webp"
-  - "/images-sites/gymnasium-steglitz/02-82029284-800w.webp"
-  - "/images-sites/gymnasium-steglitz/03-e4fa7522-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/1200px-Gymnasium_Steglitz_04-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg/1200px-Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/120518-Gymnasium-Steglitz-Heesestraße.JPG/1200px-120518-Gymnasium-Steglitz-Heesestraße.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/120518-Steglitz-Heesestraße.JPG/1200px-120518-Steglitz-Heesestraße.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gymnasium_Steglitz.JPG/1200px-Gymnasium_Steglitz.JPG
+image_srcset:
+  Gymnasium Steglitz 04-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/400px-Gymnasium_Steglitz_04-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/800px-Gymnasium_Steglitz_04-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/1200px-Gymnasium_Steglitz_04-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gymnasium_Steglitz_04-2015.jpg/1920px-Gymnasium_Steglitz_04-2015.jpg
+  Gedenktafel Südendstr 64 (Stegl) Wandervogel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg/400px-Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg/800px-Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg/1200px-Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg/1920px-Gedenktafel_Südendstr_64_(Stegl)_Wandervogel.jpg
+  120518-Gymnasium-Steglitz-Heesestraße.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/120518-Gymnasium-Steglitz-Heesestraße.JPG/400px-120518-Gymnasium-Steglitz-Heesestraße.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/120518-Gymnasium-Steglitz-Heesestraße.JPG/800px-120518-Gymnasium-Steglitz-Heesestraße.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/120518-Gymnasium-Steglitz-Heesestraße.JPG/1200px-120518-Gymnasium-Steglitz-Heesestraße.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/120518-Gymnasium-Steglitz-Heesestraße.JPG/1920px-120518-Gymnasium-Steglitz-Heesestraße.JPG
+  120518-Steglitz-Heesestraße.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/120518-Steglitz-Heesestraße.JPG/400px-120518-Steglitz-Heesestraße.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/120518-Steglitz-Heesestraße.JPG/800px-120518-Steglitz-Heesestraße.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/120518-Steglitz-Heesestraße.JPG/1200px-120518-Steglitz-Heesestraße.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/120518-Steglitz-Heesestraße.JPG/1920px-120518-Steglitz-Heesestraße.JPG
+  Gymnasium Steglitz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gymnasium_Steglitz.JPG/400px-Gymnasium_Steglitz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gymnasium_Steglitz.JPG/800px-Gymnasium_Steglitz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gymnasium_Steglitz.JPG/1200px-Gymnasium_Steglitz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gymnasium_Steglitz.JPG/1920px-Gymnasium_Steglitz.JPG
 ---
 
 ## Overview

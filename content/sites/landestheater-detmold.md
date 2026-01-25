@@ -13,7 +13,7 @@ regions:
 latitude: 51.937833333
 longitude: 8.878944444
 images:
-  - "/images-sites/landestheater-detmold/01-688e09f5-800w.webp"
+  - "/images/landestheater-detmold/01-688e09f5-800w.webp"
 ---
 
 ## Overview

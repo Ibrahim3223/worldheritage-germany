@@ -13,7 +13,7 @@ regions:
 latitude: 50.7735
 longitude: 6.09569
 images:
-  - "/images-sites/suermondt-ludwig-museum/01-e6035906-800w.webp"
+  - "/images/suermondt-ludwig-museum/01-e6035906-800w.webp"
 ---
 
 ## Overview

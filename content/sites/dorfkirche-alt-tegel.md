@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Alt-Tegel"
-site_name: "Dorfkirche Alt-Tegel"
-slug: "dorfkirche-alt-tegel"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Alt-Tegel
+site_name: Dorfkirche Alt-Tegel
+slug: dorfkirche-alt-tegel
+region: Berlin
 latitude: 52.5881
 longitude: 13.2772
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244081"
-description: "Dorfkirche Alt-Tegel, a striking example of Romanesque Revival architecture, stands as a notable landmark in the Reinickendorf region of Germany. Founde..."
+- church building
+- religious site
+wikidata_id: Q1244081
+description: Dorfkirche Alt-Tegel, a striking example of Romanesque Revival architecture,
+  stands as a notable landmark in the Reinickendorf region of Germany. Founde...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg/1200px-09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1200px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg/1200px-Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegel_Alt-Tegel_Dorfkirche.JPG/1200px-Tegel_Alt-Tegel_Dorfkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dorfkirche_Alt-Tegel_2.jpg/1200px-Dorfkirche_Alt-Tegel_2.jpg
+image_srcset:
+  09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg/400px-09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg/800px-09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg/1200px-09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg/1920px-09011751%20Berlin-Tegel%2C%20Alt-Tegel%20003.jpg
+  09011751 Berlin-Tegel, Alt-Tegel 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/400px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/800px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1200px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/09011751_Berlin-Tegel,_Alt-Tegel_003.jpg/1920px-09011751_Berlin-Tegel,_Alt-Tegel_003.jpg
+  Berlin Alt-Tegel lub 2023-11-11 img02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg/400px-Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg/800px-Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg/1200px-Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg/1920px-Berlin_Alt-Tegel_lub_2023-11-11_img02.jpg
+  Tegel Alt-Tegel Dorfkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegel_Alt-Tegel_Dorfkirche.JPG/400px-Tegel_Alt-Tegel_Dorfkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegel_Alt-Tegel_Dorfkirche.JPG/800px-Tegel_Alt-Tegel_Dorfkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegel_Alt-Tegel_Dorfkirche.JPG/1200px-Tegel_Alt-Tegel_Dorfkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tegel_Alt-Tegel_Dorfkirche.JPG/1920px-Tegel_Alt-Tegel_Dorfkirche.JPG
+  Dorfkirche Alt-Tegel 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dorfkirche_Alt-Tegel_2.jpg/400px-Dorfkirche_Alt-Tegel_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dorfkirche_Alt-Tegel_2.jpg/800px-Dorfkirche_Alt-Tegel_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dorfkirche_Alt-Tegel_2.jpg/1200px-Dorfkirche_Alt-Tegel_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dorfkirche_Alt-Tegel_2.jpg/1920px-Dorfkirche_Alt-Tegel_2.jpg
 ---
 
 ## Overview

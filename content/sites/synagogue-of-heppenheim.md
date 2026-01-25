@@ -13,7 +13,7 @@ regions:
 latitude: 49.643943
 longitude: 8.643668
 images:
-  - "/images-sites/synagogue-of-heppenheim/02-66c12582-800w.webp"
+  - "/images/synagogue-of-heppenheim/02-66c12582-800w.webp"
 ---
 
 ## Overview

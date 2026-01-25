@@ -13,7 +13,7 @@ regions:
 latitude: 48.3518
 longitude: 8.96546
 images:
-  - "/images-sites/synagoge-hechingen/01-ff661761-800w.webp"
+  - "/images/synagoge-hechingen/01-ff661761-800w.webp"
 ---
 
 ## Overview

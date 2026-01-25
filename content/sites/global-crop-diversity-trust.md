@@ -1,28 +1,32 @@
 ---
-title: "Global Crop Diversity Trust"
+title: Global Crop Diversity Trust
 date: 2026-01-23
 draft: false
-description: "international nonprofit foundation which works to preserve agricultural biodiversity"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: international nonprofit foundation which works to preserve agricultural
+  biodiversity
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.720322192
 longitude: 7.122884136
-
-# Images
 images:
-  - "/images-sites/global-crop-diversity-trust/01-9084566f-800w.webp"
-  - "/images-sites/global-crop-diversity-trust/02-693bcaf9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Svalbard_Global_Seed_Vault_Exterior_2020.jpg/1200px-Svalbard_Global_Seed_Vault_Exterior_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pavlovsk_Station_Gate.jpg/1200px-Pavlovsk_Station_Gate.jpg
+image_srcset:
+  Svalbard Global Seed Vault Exterior 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Svalbard_Global_Seed_Vault_Exterior_2020.jpg/400px-Svalbard_Global_Seed_Vault_Exterior_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Svalbard_Global_Seed_Vault_Exterior_2020.jpg/800px-Svalbard_Global_Seed_Vault_Exterior_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Svalbard_Global_Seed_Vault_Exterior_2020.jpg/1200px-Svalbard_Global_Seed_Vault_Exterior_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Svalbard_Global_Seed_Vault_Exterior_2020.jpg/1920px-Svalbard_Global_Seed_Vault_Exterior_2020.jpg
+  Pavlovsk Station Gate.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pavlovsk_Station_Gate.jpg/400px-Pavlovsk_Station_Gate.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pavlovsk_Station_Gate.jpg/800px-Pavlovsk_Station_Gate.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pavlovsk_Station_Gate.jpg/1200px-Pavlovsk_Station_Gate.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pavlovsk_Station_Gate.jpg/1920px-Pavlovsk_Station_Gate.jpg
 ---
 
 ## Overview

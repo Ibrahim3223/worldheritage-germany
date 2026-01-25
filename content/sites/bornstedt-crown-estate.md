@@ -1,27 +1,49 @@
 ---
-title: "Bornstedt Crown Estate"
+title: Bornstedt Crown Estate
 date: 2026-01-23
 draft: false
-description: "building in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: building in Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.4085
 longitude: 13.0309
-
-# Images
 images:
-  - "/images-sites/bornstedt-crown-estate/01-597370d4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg/1200px-2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Krongut_Bornstedt_(Potsdam).jpg/1200px-Krongut_Bornstedt_(Potsdam).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg/1200px-Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BornstedtRibbeckstr.JPG/1200px-BornstedtRibbeckstr.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krongut.jpg/1200px-Krongut.jpg
+image_srcset:
+  2019 Potsdam Kron-Fidei-Commis-Gut Bornstedt 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg/400px-2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg/800px-2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg/1200px-2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg/1920px-2019_Potsdam_Kron-Fidei-Commis-Gut_Bornstedt_03.jpg
+  Krongut Bornstedt (Potsdam).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Krongut_Bornstedt_(Potsdam).jpg/400px-Krongut_Bornstedt_(Potsdam).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Krongut_Bornstedt_(Potsdam).jpg/800px-Krongut_Bornstedt_(Potsdam).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Krongut_Bornstedt_(Potsdam).jpg/1200px-Krongut_Bornstedt_(Potsdam).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Krongut_Bornstedt_(Potsdam).jpg/1920px-Krongut_Bornstedt_(Potsdam).jpg
+  Orangerieschloss, Schlossorangerie, aus Vogelperspektive, aerial view, Luftaufnahme, Park Sanssouci, Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg/400px-Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg/800px-Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg/1200px-Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg/1920px-Orangerieschloss,_Schlossorangerie,_aus_Vogelperspektive,_aerial_view,_Luftaufnahme,_Park_Sanssouci,_Potsdam.jpg
+  BornstedtRibbeckstr.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BornstedtRibbeckstr.JPG/400px-BornstedtRibbeckstr.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BornstedtRibbeckstr.JPG/800px-BornstedtRibbeckstr.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BornstedtRibbeckstr.JPG/1200px-BornstedtRibbeckstr.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BornstedtRibbeckstr.JPG/1920px-BornstedtRibbeckstr.JPG
+  Krongut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krongut.jpg/400px-Krongut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krongut.jpg/800px-Krongut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krongut.jpg/1200px-Krongut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krongut.jpg/1920px-Krongut.jpg
 ---
 
 ## Overview

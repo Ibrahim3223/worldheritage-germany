@@ -1,27 +1,49 @@
 ---
-title: "Gutenfels Castle"
+title: Gutenfels Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.0878
 longitude: 7.76561
-
-# Images
 images:
-  - "/images-sites/gutenfels-castle/01-c493bfbf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg/1200px-Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kaub_2020-05-17_15-41-04.jpg/1200px-Kaub_2020-05-17_15-41-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaub_2020-05-17_14-37-01.jpg/1200px-Kaub_2020-05-17_14-37-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/1200px-Burg_Gutenfels_(Kaub).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2020-03-05-Rhein-bei-Kaub.jpg/1200px-2020-03-05-Rhein-bei-Kaub.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Gutenfels b Caub - 991059762909705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg/400px-Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg/800px-Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg/1200px-Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg/1920px-Zentralbibliothek_Zürich_-_Gutenfels_b_Caub_-_991059762909705501.jpg
+  Kaub 2020-05-17 15-41-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kaub_2020-05-17_15-41-04.jpg/400px-Kaub_2020-05-17_15-41-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kaub_2020-05-17_15-41-04.jpg/800px-Kaub_2020-05-17_15-41-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kaub_2020-05-17_15-41-04.jpg/1200px-Kaub_2020-05-17_15-41-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kaub_2020-05-17_15-41-04.jpg/1920px-Kaub_2020-05-17_15-41-04.jpg
+  Kaub 2020-05-17 14-37-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaub_2020-05-17_14-37-01.jpg/400px-Kaub_2020-05-17_14-37-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaub_2020-05-17_14-37-01.jpg/800px-Kaub_2020-05-17_14-37-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaub_2020-05-17_14-37-01.jpg/1200px-Kaub_2020-05-17_14-37-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kaub_2020-05-17_14-37-01.jpg/1920px-Kaub_2020-05-17_14-37-01.jpg
+  Burg Gutenfels (Kaub).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/400px-Burg_Gutenfels_(Kaub).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/800px-Burg_Gutenfels_(Kaub).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/1200px-Burg_Gutenfels_(Kaub).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Gutenfels_(Kaub).jpg/1920px-Burg_Gutenfels_(Kaub).jpg
+  2020-03-05-Rhein-bei-Kaub.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2020-03-05-Rhein-bei-Kaub.jpg/400px-2020-03-05-Rhein-bei-Kaub.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2020-03-05-Rhein-bei-Kaub.jpg/800px-2020-03-05-Rhein-bei-Kaub.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2020-03-05-Rhein-bei-Kaub.jpg/1200px-2020-03-05-Rhein-bei-Kaub.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2020-03-05-Rhein-bei-Kaub.jpg/1920px-2020-03-05-Rhein-bei-Kaub.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.213611111
 longitude: 8.558333333
 images:
-  - "/images-sites/ruhr/01-11298a31-800w.webp"
+  - "/images/ruhr/01-11298a31-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Haus der Springmaus"
+title: Haus der Springmaus
 date: 2026-01-24
 draft: false
-description: "Kleinkunsttheater in Bonn"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: Kleinkunsttheater in Bonn
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7275
 longitude: 7.07438
 images:
-  - "/images-sites/haus-der-springmaus/01-88d286b5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg/1200px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg/1200px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg/1200px-2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Haus_der_Springmaus_Bonn_Eingang_2008.jpg/1200px-Haus_der_Springmaus_Bonn_Eingang_2008.jpg
+image_srcset:
+  2016-11-01 Bonn Haus der Springmaus Endenich Frongasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg/400px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg/800px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg/1200px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg/1920px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse.jpg
+  2016-11-01 Bonn Haus der Springmaus Endenich Frongasse RW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg/400px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg/800px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg/1200px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg/1920px-2016-11-01_Bonn_Haus_der_Springmaus_Endenich_Frongasse_RW.jpg
+  2008-03-08 Bonn-Endenich Haus der Springmaus Frongasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg/400px-2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg/800px-2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg/1200px-2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg/1920px-2008-03-08_Bonn-Endenich_Haus_der_Springmaus_Frongasse.jpg
+  Haus der Springmaus Bonn Eingang 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Haus_der_Springmaus_Bonn_Eingang_2008.jpg/400px-Haus_der_Springmaus_Bonn_Eingang_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Haus_der_Springmaus_Bonn_Eingang_2008.jpg/800px-Haus_der_Springmaus_Bonn_Eingang_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Haus_der_Springmaus_Bonn_Eingang_2008.jpg/1200px-Haus_der_Springmaus_Bonn_Eingang_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Haus_der_Springmaus_Bonn_Eingang_2008.jpg/1920px-Haus_der_Springmaus_Bonn_Eingang_2008.jpg
 ---
 
 ## Overview

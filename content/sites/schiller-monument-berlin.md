@@ -13,7 +13,7 @@ regions:
 latitude: 52.5136
 longitude: 13.3927
 images:
-  - "/images-sites/schiller-monument-berlin/01-27c49bf9-800w.webp"
+  - "/images/schiller-monument-berlin/01-27c49bf9-800w.webp"
 ---
 
 ## Overview

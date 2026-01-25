@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q436380"
 description: "The Werl Pilgrimage Churches stand as a striking example of Baroque architecture in Werl, North Rhine-Westphalia, Germany. Founded in 1861, this pilgrim..."
 images:
-  - "/images-sites/werl-pilgrimage-churches/01-ac28e918-1920w.webp"
-  - "/images-sites/werl-pilgrimage-churches/02-81f37b64-1920w.webp"
-  - "/images-sites/werl-pilgrimage-churches/03-eddec28e-1920w.webp"
+  - "/images/werl-pilgrimage-churches/01-ac28e918-1920w.webp"
+  - "/images/werl-pilgrimage-churches/02-81f37b64-1920w.webp"
+  - "/images/werl-pilgrimage-churches/03-eddec28e-1920w.webp"
 ---
 
 ## Overview

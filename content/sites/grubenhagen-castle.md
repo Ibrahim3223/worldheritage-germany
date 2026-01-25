@@ -1,27 +1,49 @@
 ---
-title: "Grubenhagen Castle"
+title: Grubenhagen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.7647
 longitude: 9.81722
-
-# Images
 images:
-  - "/images-sites/grubenhagen-castle/01-353923f0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grubenhagen_Turm.jpg/1200px-Grubenhagen_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/1200px-Grubenhagen_Turm_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lithographie_Burg_Grubenhagen.png/1200px-Lithographie_Burg_Grubenhagen.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg-grubenhagen.jpg/1200px-Burg-grubenhagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg/1200px-Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg
+image_srcset:
+  Grubenhagen Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grubenhagen_Turm.jpg/400px-Grubenhagen_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grubenhagen_Turm.jpg/800px-Grubenhagen_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grubenhagen_Turm.jpg/1200px-Grubenhagen_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grubenhagen_Turm.jpg/1920px-Grubenhagen_Turm.jpg
+  Grubenhagen Turm 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/400px-Grubenhagen_Turm_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/800px-Grubenhagen_Turm_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/1200px-Grubenhagen_Turm_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Grubenhagen_Turm_2.jpg/1920px-Grubenhagen_Turm_2.jpg
+  Lithographie Burg Grubenhagen.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lithographie_Burg_Grubenhagen.png/400px-Lithographie_Burg_Grubenhagen.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lithographie_Burg_Grubenhagen.png/800px-Lithographie_Burg_Grubenhagen.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lithographie_Burg_Grubenhagen.png/1200px-Lithographie_Burg_Grubenhagen.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lithographie_Burg_Grubenhagen.png/1920px-Lithographie_Burg_Grubenhagen.png
+  Burg-grubenhagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg-grubenhagen.jpg/400px-Burg-grubenhagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg-grubenhagen.jpg/800px-Burg-grubenhagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg-grubenhagen.jpg/1200px-Burg-grubenhagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg-grubenhagen.jpg/1920px-Burg-grubenhagen.jpg
+  Burggraben Grubenhagen (Moat of Grubenhagen castle) (geograph 80908).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg/400px-Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg/800px-Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg/1200px-Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg/1920px-Burggraben_Grubenhagen_(Moat_of_Grubenhagen_castle)_(geograph_80908).jpg
 ---
 
 ## Overview

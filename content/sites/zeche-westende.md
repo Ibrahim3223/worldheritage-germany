@@ -13,7 +13,7 @@ regions:
 latitude: 51.465
 longitude: 6.73934
 images:
-  - "/images-sites/zeche-westende/01-b71b67c2-800w.webp"
+  - "/images/zeche-westende/01-b71b67c2-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.2966
 longitude: 13.6311
 images:
-  - "/images-sites/koenigs-wusterhausen-railway-station/01-8870b599-800w.webp"
-  - "/images-sites/koenigs-wusterhausen-railway-station/02-bba99344-800w.webp"
-  - "/images-sites/koenigs-wusterhausen-railway-station/03-e62144f4-800w.webp"
+  - "/images/koenigs-wusterhausen-railway-station/01-8870b599-800w.webp"
+  - "/images/koenigs-wusterhausen-railway-station/02-bba99344-800w.webp"
+  - "/images/koenigs-wusterhausen-railway-station/03-e62144f4-800w.webp"
 ---
 
 ## Overview

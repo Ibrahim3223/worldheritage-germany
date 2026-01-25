@@ -13,7 +13,7 @@ regions:
 latitude: 48.128365956
 longitude: 12.787242812
 images:
-  - "/images-sites/raitenhaslach-cistercian-abbey/01-291a116f-800w.webp"
+  - "/images/raitenhaslach-cistercian-abbey/01-291a116f-800w.webp"
 ---
 
 ## Overview

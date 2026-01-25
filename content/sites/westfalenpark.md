@@ -13,7 +13,7 @@ regions:
 latitude: 51.496111111
 longitude: 7.4775
 images:
-  - "/images-sites/westfalenpark/01-30ac7f73-800w.webp"
+  - "/images/westfalenpark/01-30ac7f73-800w.webp"
 ---
 
 ## Overview

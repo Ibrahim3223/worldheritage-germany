@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2064326"
 description: "In the heart of Mannheim lies the Pauluskirche, a striking church building that embodies the Gothic Revival architectural style. This impressive structu..."
 images:
-  - "/images-sites/pauluskirche/01-d032dbf1-1920w.webp"
-  - "/images-sites/pauluskirche/02-f759f10e-1920w.webp"
-  - "/images-sites/pauluskirche/03-920eb432-1920w.webp"
+  - "/images/pauluskirche/01-d032dbf1-1920w.webp"
+  - "/images/pauluskirche/02-f759f10e-1920w.webp"
+  - "/images/pauluskirche/03-920eb432-1920w.webp"
 ---
 
 ## Overview

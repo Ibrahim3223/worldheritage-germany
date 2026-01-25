@@ -1,23 +1,44 @@
 ---
-title: "Evangelical Church Centre Kronsberg"
-site_name: "Evangelical Church Centre Kronsberg"
-slug: "evangelical-church-centre-kronsberg"
-region: "Lower Saxony"
-
-# Location
+title: Evangelical Church Centre Kronsberg
+site_name: Evangelical Church Centre Kronsberg
+slug: evangelical-church-centre-kronsberg
+region: Lower Saxony
 latitude: 52.3392
 longitude: 9.83582
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1381332"
-description: "The Evangelical Church Centre Kronsberg stands as a modern architectural statement in the Kirchrode-Bemerode-Wülferode region of Germany. This church, d..."
+- cultural site
+wikidata_id: Q1381332
+description: The Evangelical Church Centre Kronsberg stands as a modern architectural
+  statement in the Kirchrode-Bemerode-Wülferode region of Germany. This church, d...
 images:
-  - "/images-sites/evangelical-church-centre-kronsberg/01-5a6f9c2f-1920w.webp"
-  - "/images-sites/evangelical-church-centre-kronsberg/02-725547ba-1920w.webp"
-  - "/images-sites/evangelical-church-centre-kronsberg/03-4320270c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG/1200px-Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/1200px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG/1200px-Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirchenzentrum_Kronsberg.jpg/1200px-Kirchenzentrum_Kronsberg.jpg
+image_srcset:
+  Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG/400px-Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG/800px-Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG/1200px-Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG/1920px-Evangelisches%20Kirchenzentrum%20Kronsberg%2C%20Mai%202012.JPG
+  Evangelisches Kirchenzentrum Kronsberg, Mai 2012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/400px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/800px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/1200px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG/1920px-Evangelisches_Kirchenzentrum_Kronsberg,_Mai_2012.JPG
+  Lichtband an der Altarwand, Kirchenzentrum Kronsberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG/400px-Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG/800px-Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG/1200px-Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG/1920px-Lichtband_an_der_Altarwand,_Kirchenzentrum_Kronsberg.JPG
+  Kirchenzentrum Kronsberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirchenzentrum_Kronsberg.jpg/400px-Kirchenzentrum_Kronsberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirchenzentrum_Kronsberg.jpg/800px-Kirchenzentrum_Kronsberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirchenzentrum_Kronsberg.jpg/1200px-Kirchenzentrum_Kronsberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirchenzentrum_Kronsberg.jpg/1920px-Kirchenzentrum_Kronsberg.jpg
 ---
 
 ## Overview

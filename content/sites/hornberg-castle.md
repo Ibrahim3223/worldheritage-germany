@@ -1,27 +1,49 @@
 ---
-title: "Hornberg Castle"
+title: Hornberg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Neckarzimmern, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Neckarzimmern, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.3139
 longitude: 9.14583
-
-# Images
 images:
-  - "/images-sites/hornberg-castle/01-1a412bd9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg/1200px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg/1200px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020_Burg_Hornberg_01.jpg/1200px-2020_Burg_Hornberg_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg
+image_srcset:
+  Neckarzimmern - Burg Hornberg - Ansicht aus SSO vom Haßmersheimer Steg (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg/400px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg/800px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg/1200px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg/1920px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_SSO_vom_Haßmersheimer_Steg_(1).jpg
+  Neckarzimmern - Burg Hornberg - Ansicht aus WSW vom östlichen Neckarufer (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg/400px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg/800px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg/1200px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg/1920px-Neckarzimmern_-_Burg_Hornberg_-_Ansicht_aus_WSW_vom_östlichen_Neckarufer_(1).jpg
+  2020 Burg Hornberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020_Burg_Hornberg_01.jpg/400px-2020_Burg_Hornberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020_Burg_Hornberg_01.jpg/800px-2020_Burg_Hornberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020_Burg_Hornberg_01.jpg/1200px-2020_Burg_Hornberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2020_Burg_Hornberg_01.jpg/1920px-2020_Burg_Hornberg_01.jpg
+  Landesarchiv Baden-Wuerttemberg Generallandesarchiv Karlsruhe J-B Hornberg (Neckar) 5 Bild 1 (4-1589875-1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg/400px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg/800px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg/1920px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_5_Bild_1_(4-1589875-1).jpg
+  Landesarchiv Baden-Wuerttemberg Generallandesarchiv Karlsruhe J-B Hornberg (Neckar) 3 Bild 1 (4-1589734-1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg/400px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg/800px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg/1200px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg/1920px-Landesarchiv_Baden-Wuerttemberg_Generallandesarchiv_Karlsruhe_J-B_Hornberg_(Neckar)_3_Bild_1_(4-1589734-1).jpg
 ---
 
 ## Overview

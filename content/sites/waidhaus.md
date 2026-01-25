@@ -13,7 +13,7 @@ regions:
 latitude: 51.15794
 longitude: 14.992609
 images:
-  - "/images-sites/waidhaus/01-04fab008-800w.webp"
+  - "/images/waidhaus/01-04fab008-800w.webp"
 ---
 
 ## Overview

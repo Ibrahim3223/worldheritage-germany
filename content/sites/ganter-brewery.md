@@ -1,27 +1,49 @@
 ---
-title: "Ganter Brewery"
+title: Ganter Brewery
 date: 2026-01-23
 draft: false
-description: "German Brewery from Freiburg im Breisgau, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German Brewery from Freiburg im Breisgau, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.990277777
 longitude: 7.860277777
-
-# Images
 images:
-  - "/images-sites/ganter-brewery/01-2e03a186-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg/1200px-Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Badisch_Hell_(Brauerei_Ganter).jpg/1200px-Badisch_Hell_(Brauerei_Ganter).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Urtrunk_(Brauerei_Ganter).jpg/1200px-Urtrunk_(Brauerei_Ganter).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brauerei_Ganter.jpg/1200px-Brauerei_Ganter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ganterbrauerei.jpg/1200px-Ganterbrauerei.jpg
+image_srcset:
+  Brauereischild "Ganter-Bier" an einer Gaststätte in Freiburg (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg/400px-Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg/800px-Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg/1200px-Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg/1920px-Brauereischild_"Ganter-Bier"_an_einer_Gaststätte_in_Freiburg_(2025).jpg
+  Badisch Hell (Brauerei Ganter).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Badisch_Hell_(Brauerei_Ganter).jpg/400px-Badisch_Hell_(Brauerei_Ganter).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Badisch_Hell_(Brauerei_Ganter).jpg/800px-Badisch_Hell_(Brauerei_Ganter).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Badisch_Hell_(Brauerei_Ganter).jpg/1200px-Badisch_Hell_(Brauerei_Ganter).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Badisch_Hell_(Brauerei_Ganter).jpg/1920px-Badisch_Hell_(Brauerei_Ganter).jpg
+  Urtrunk (Brauerei Ganter).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Urtrunk_(Brauerei_Ganter).jpg/400px-Urtrunk_(Brauerei_Ganter).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Urtrunk_(Brauerei_Ganter).jpg/800px-Urtrunk_(Brauerei_Ganter).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Urtrunk_(Brauerei_Ganter).jpg/1200px-Urtrunk_(Brauerei_Ganter).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Urtrunk_(Brauerei_Ganter).jpg/1920px-Urtrunk_(Brauerei_Ganter).jpg
+  Brauerei Ganter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brauerei_Ganter.jpg/400px-Brauerei_Ganter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brauerei_Ganter.jpg/800px-Brauerei_Ganter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brauerei_Ganter.jpg/1200px-Brauerei_Ganter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brauerei_Ganter.jpg/1920px-Brauerei_Ganter.jpg
+  Ganterbrauerei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ganterbrauerei.jpg/400px-Ganterbrauerei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ganterbrauerei.jpg/800px-Ganterbrauerei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ganterbrauerei.jpg/1200px-Ganterbrauerei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ganterbrauerei.jpg/1920px-Ganterbrauerei.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Brunnen der Völkerfreundschaft"
+title: Brunnen der Völkerfreundschaft
 date: 2026-01-23
 draft: false
-description: "fountain on Alexanderplatz in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain on Alexanderplatz in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 52.522
 longitude: 13.4128
 images:
-  - "/images-sites/brunnen-der-voelkerfreundschaft/01-bfa668b4-800w.webp"
-  - "/images-sites/brunnen-der-voelkerfreundschaft/02-4a40e15f-800w.webp"
-  - "/images-sites/brunnen-der-voelkerfreundschaft/03-ad4277dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/At_Berlin_2024_024.jpg/1200px-At_Berlin_2024_024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2013-05-24_Berliner_Fernsehturm_07.jpg/1200px-2013-05-24_Berliner_Fernsehturm_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/1200px-200806_Berlin_196.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Александрплатц_-_panoramio.jpg/1200px-Александрплатц_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg/1200px-Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg
+image_srcset:
+  At Berlin 2024 024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/At_Berlin_2024_024.jpg/400px-At_Berlin_2024_024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/At_Berlin_2024_024.jpg/800px-At_Berlin_2024_024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/At_Berlin_2024_024.jpg/1200px-At_Berlin_2024_024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/At_Berlin_2024_024.jpg/1920px-At_Berlin_2024_024.jpg
+  2013-05-24 Berliner Fernsehturm 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2013-05-24_Berliner_Fernsehturm_07.jpg/400px-2013-05-24_Berliner_Fernsehturm_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2013-05-24_Berliner_Fernsehturm_07.jpg/800px-2013-05-24_Berliner_Fernsehturm_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2013-05-24_Berliner_Fernsehturm_07.jpg/1200px-2013-05-24_Berliner_Fernsehturm_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2013-05-24_Berliner_Fernsehturm_07.jpg/1920px-2013-05-24_Berliner_Fernsehturm_07.jpg
+  200806 Berlin 196.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/400px-200806_Berlin_196.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/800px-200806_Berlin_196.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/1200px-200806_Berlin_196.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/200806_Berlin_196.JPG/1920px-200806_Berlin_196.JPG
+  Александрплатц - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Александрплатц_-_panoramio.jpg/400px-Александрплатц_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Александрплатц_-_panoramio.jpg/800px-Александрплатц_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Александрплатц_-_panoramio.jpg/1200px-Александрплатц_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Александрплатц_-_panoramio.jpg/1920px-Александрплатц_-_panoramio.jpg
+  Brunnen der Voelkerfreundschaft Berlin 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg/400px-Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg/800px-Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg/1200px-Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg/1920px-Brunnen_der_Voelkerfreundschaft_Berlin_3.jpg
 ---
 
 ## Overview

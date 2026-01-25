@@ -13,7 +13,7 @@ regions:
 latitude: 52.1728
 longitude: 13.5025
 images:
-  - "/images-sites/zehrensdorf-indian-military-cemetery/01-6f6f8c67-800w.webp"
+  - "/images/zehrensdorf-indian-military-cemetery/01-6f6f8c67-800w.webp"
 ---
 
 ## Overview

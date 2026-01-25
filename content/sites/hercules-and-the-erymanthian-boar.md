@@ -1,21 +1,49 @@
 ---
-title: "Hercules and the Erymanthian Boar"
+title: Hercules and the Erymanthian Boar
 date: 2026-01-23
 draft: false
-description: "sculpture by Louis Tuaillon"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: sculpture by Louis Tuaillon
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.50446
 longitude: 13.3525
 images:
-  - "/images-sites/hercules-and-the-erymanthian-boar/01-277fb062-800w.webp"
-  - "/images-sites/hercules-and-the-erymanthian-boar/02-2ea8d062-800w.webp"
-  - "/images-sites/hercules-and-the-erymanthian-boar/03-9ea28c77-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luetzowplatz.Erymanthischer.Eber.jpg/1200px-Luetzowplatz.Erymanthischer.Eber.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1200px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg/1200px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg/1200px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Herakles_an_de_Béier.jpg/1200px-Herakles_an_de_Béier.jpg
+image_srcset:
+  Luetzowplatz.Erymanthischer.Eber.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luetzowplatz.Erymanthischer.Eber.jpg/400px-Luetzowplatz.Erymanthischer.Eber.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luetzowplatz.Erymanthischer.Eber.jpg/800px-Luetzowplatz.Erymanthischer.Eber.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luetzowplatz.Erymanthischer.Eber.jpg/1200px-Luetzowplatz.Erymanthischer.Eber.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luetzowplatz.Erymanthischer.Eber.jpg/1920px-Luetzowplatz.Erymanthischer.Eber.jpg
+  Skulptur Lützowplatz (Tierg) Herkules und der erymantische Eber Louis Tuaillon1904.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/400px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/800px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1200px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg/1920px-Skulptur_Lützowplatz_(Tierg)_Herkules_und_der_erymantische_Eber_Louis_Tuaillon1904.jpg
+  Tuaillon, Herkules und Eber, Berlin Luetzowplatz, Teilansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg/400px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg/800px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg/1200px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg/1920px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz,_Teilansicht.jpg
+  Tuaillon, Herkules und Eber, Berlin Luetzowplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg/400px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg/800px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg/1200px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg/1920px-Tuaillon,_Herkules_und_Eber,_Berlin_Luetzowplatz.jpg
+  Herakles an de Béier.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Herakles_an_de_Béier.jpg/400px-Herakles_an_de_Béier.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Herakles_an_de_Béier.jpg/800px-Herakles_an_de_Béier.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Herakles_an_de_Béier.jpg/1200px-Herakles_an_de_Béier.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Herakles_an_de_Béier.jpg/1920px-Herakles_an_de_Béier.jpg
 ---
 
 ## Overview

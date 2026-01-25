@@ -13,7 +13,7 @@ regions:
 latitude: 50.775556
 longitude: 6.083889
 images:
-  - "/images-sites/palace-of-aachen/01-9b97e965-800w.webp"
+  - "/images/palace-of-aachen/01-9b97e965-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Danube"
+title: Danube
 date: 2026-01-23
 draft: false
-description: "second-longest river in Europe"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: second-longest river in Europe
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 45.221944444
 longitude: 29.743333333
 images:
-  - "/images-sites/danube/01-4d3ba522-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/1200px-Ruine_Aggstein_20180527.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Schönbühel_20180919.jpg/1200px-Schloss_Schönbühel_20180919.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg/1200px-Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/1200px-Ruine_Aggstein_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Danube_in_Ritopek,_Serbia.jpg/1200px-Danube_in_Ritopek,_Serbia.jpg
+image_srcset:
+  Ruine Aggstein 20180527.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/400px-Ruine_Aggstein_20180527.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/800px-Ruine_Aggstein_20180527.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/1200px-Ruine_Aggstein_20180527.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/1920px-Ruine_Aggstein_20180527.jpg
+  Schloss Schönbühel 20180919.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Schönbühel_20180919.jpg/400px-Schloss_Schönbühel_20180919.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Schönbühel_20180919.jpg/800px-Schloss_Schönbühel_20180919.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Schönbühel_20180919.jpg/1200px-Schloss_Schönbühel_20180919.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schloss_Schönbühel_20180919.jpg/1920px-Schloss_Schönbühel_20180919.jpg
+  Canal del Danubio, Viena, Austria, 2020-01-31, DD 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg/400px-Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg/800px-Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg/1200px-Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg/1920px-Canal_del_Danubio,_Viena,_Austria,_2020-01-31,_DD_02.jpg
+  Ruine Aggstein 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/400px-Ruine_Aggstein_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/800px-Ruine_Aggstein_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/1200px-Ruine_Aggstein_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/1920px-Ruine_Aggstein_02.JPG
+  Danube in Ritopek, Serbia.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Danube_in_Ritopek,_Serbia.jpg/400px-Danube_in_Ritopek,_Serbia.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Danube_in_Ritopek,_Serbia.jpg/800px-Danube_in_Ritopek,_Serbia.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Danube_in_Ritopek,_Serbia.jpg/1200px-Danube_in_Ritopek,_Serbia.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Danube_in_Ritopek,_Serbia.jpg/1920px-Danube_in_Ritopek,_Serbia.jpg
 ---
 
 ## Overview

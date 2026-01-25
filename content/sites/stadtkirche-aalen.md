@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2327364"
 description: "In the heart of Aalen, a city steeped in history, the Stadtkirche Aalen stands as a remarkable example of baroque architecture. This Protestant church, ..."
 images:
-  - "/images-sites/stadtkirche-aalen/01-d7c3d8bc-1920w.webp"
-  - "/images-sites/stadtkirche-aalen/02-91f3b023-1920w.webp"
-  - "/images-sites/stadtkirche-aalen/03-dc1e0970-1920w.webp"
+  - "/images/stadtkirche-aalen/01-d7c3d8bc-1920w.webp"
+  - "/images/stadtkirche-aalen/02-91f3b023-1920w.webp"
+  - "/images/stadtkirche-aalen/03-dc1e0970-1920w.webp"
 ---
 
 ## Overview

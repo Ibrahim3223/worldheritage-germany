@@ -13,7 +13,7 @@ regions:
 latitude: 52.531933
 longitude: 13.836933
 images:
-  - "/images-sites/strausberg-station/01-253032b9-800w.webp"
+  - "/images/strausberg-station/01-253032b9-800w.webp"
 ---
 
 ## Overview

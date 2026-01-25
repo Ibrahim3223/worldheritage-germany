@@ -13,7 +13,7 @@ regions:
 latitude: 50.125
 longitude: 8.665
 images:
-  - "/images-sites/wollheim-memorial/01-ec365cdf-800w.webp"
+  - "/images/wollheim-memorial/01-ec365cdf-800w.webp"
 ---
 
 ## Overview

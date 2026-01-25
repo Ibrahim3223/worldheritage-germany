@@ -21,7 +21,7 @@ longitude: 8.4437
 
 # Images
 images:
-  - "/images-sites/magdalenenberg/03-99a47545-800w.webp"
+  - "/images/magdalenenberg/03-99a47545-800w.webp"
 ---
 
 ## Overview

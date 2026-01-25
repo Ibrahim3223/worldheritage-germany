@@ -1,19 +1,49 @@
 ---
-title: "Feldkapelle"
+title: Feldkapelle
 date: 2026-01-23
 draft: false
-description: "Catholic chapel in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: Catholic chapel in Germany
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 50.592980832
 longitude: 6.727386645
 images:
-  - "/images-sites/feldkapelle/01-7f6525cf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1200px-Bruder_Klaus_Feldkapelle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bruder_Klaus_Kapelle1.jpg/1200px-Bruder_Klaus_Kapelle1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bruder_Klaus_Kapelle3.jpg/1200px-Bruder_Klaus_Kapelle3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bruder_Klaus_Kapelle5.jpg/1200px-Bruder_Klaus_Kapelle5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bruder_Klaus_Kapelle6.jpg/1200px-Bruder_Klaus_Kapelle6.jpg
+image_srcset:
+  Bruder Klaus Feldkapelle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/400px-Bruder_Klaus_Feldkapelle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/800px-Bruder_Klaus_Feldkapelle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1200px-Bruder_Klaus_Feldkapelle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bruder_Klaus_Feldkapelle.JPG/1920px-Bruder_Klaus_Feldkapelle.JPG
+  Bruder Klaus Kapelle1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bruder_Klaus_Kapelle1.jpg/400px-Bruder_Klaus_Kapelle1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bruder_Klaus_Kapelle1.jpg/800px-Bruder_Klaus_Kapelle1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bruder_Klaus_Kapelle1.jpg/1200px-Bruder_Klaus_Kapelle1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bruder_Klaus_Kapelle1.jpg/1920px-Bruder_Klaus_Kapelle1.jpg
+  Bruder Klaus Kapelle3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bruder_Klaus_Kapelle3.jpg/400px-Bruder_Klaus_Kapelle3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bruder_Klaus_Kapelle3.jpg/800px-Bruder_Klaus_Kapelle3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bruder_Klaus_Kapelle3.jpg/1200px-Bruder_Klaus_Kapelle3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bruder_Klaus_Kapelle3.jpg/1920px-Bruder_Klaus_Kapelle3.jpg
+  Bruder Klaus Kapelle5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bruder_Klaus_Kapelle5.jpg/400px-Bruder_Klaus_Kapelle5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bruder_Klaus_Kapelle5.jpg/800px-Bruder_Klaus_Kapelle5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bruder_Klaus_Kapelle5.jpg/1200px-Bruder_Klaus_Kapelle5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bruder_Klaus_Kapelle5.jpg/1920px-Bruder_Klaus_Kapelle5.jpg
+  Bruder Klaus Kapelle6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bruder_Klaus_Kapelle6.jpg/400px-Bruder_Klaus_Kapelle6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bruder_Klaus_Kapelle6.jpg/800px-Bruder_Klaus_Kapelle6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bruder_Klaus_Kapelle6.jpg/1200px-Bruder_Klaus_Kapelle6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bruder_Klaus_Kapelle6.jpg/1920px-Bruder_Klaus_Kapelle6.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 49.923703
 longitude: 8.483328
 images:
-  - "/images-sites/synagogue-in-gross-gerau/02-51a8f80a-800w.webp"
-  - "/images-sites/synagogue-in-gross-gerau/03-8ed0d142-800w.webp"
+  - "/images/synagogue-in-gross-gerau/02-51a8f80a-800w.webp"
+  - "/images/synagogue-in-gross-gerau/03-8ed0d142-800w.webp"
 ---
 
 ## Overview

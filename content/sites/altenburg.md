@@ -1,27 +1,49 @@
 ---
-title: "Altenburg"
+title: Altenburg
 date: 2026-01-23
 draft: false
-description: "castle in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.2477
 longitude: 9.29062
-
-# Images
 images:
-  - "/images-sites/altenburg/01-bcb8e992-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teichstraße_19,_Altenburg.jpg/1200px-Teichstraße_19,_Altenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Markt_26,_Altenburg.jpg/1200px-Markt_26,_Altenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Markt_27,_Altenburg.jpg/1200px-Markt_27,_Altenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Altenburg_Frauenfels.jpg/1200px-Altenburg_Frauenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Markt_14,_Altenburg.jpg/1200px-Markt_14,_Altenburg.jpg
+image_srcset:
+  Teichstraße 19, Altenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teichstraße_19,_Altenburg.jpg/400px-Teichstraße_19,_Altenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teichstraße_19,_Altenburg.jpg/800px-Teichstraße_19,_Altenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teichstraße_19,_Altenburg.jpg/1200px-Teichstraße_19,_Altenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Teichstraße_19,_Altenburg.jpg/1920px-Teichstraße_19,_Altenburg.jpg
+  Markt 26, Altenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Markt_26,_Altenburg.jpg/400px-Markt_26,_Altenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Markt_26,_Altenburg.jpg/800px-Markt_26,_Altenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Markt_26,_Altenburg.jpg/1200px-Markt_26,_Altenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Markt_26,_Altenburg.jpg/1920px-Markt_26,_Altenburg.jpg
+  Markt 27, Altenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Markt_27,_Altenburg.jpg/400px-Markt_27,_Altenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Markt_27,_Altenburg.jpg/800px-Markt_27,_Altenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Markt_27,_Altenburg.jpg/1200px-Markt_27,_Altenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Markt_27,_Altenburg.jpg/1920px-Markt_27,_Altenburg.jpg
+  Altenburg Frauenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Altenburg_Frauenfels.jpg/400px-Altenburg_Frauenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Altenburg_Frauenfels.jpg/800px-Altenburg_Frauenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Altenburg_Frauenfels.jpg/1200px-Altenburg_Frauenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Altenburg_Frauenfels.jpg/1920px-Altenburg_Frauenfels.jpg
+  Markt 14, Altenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Markt_14,_Altenburg.jpg/400px-Markt_14,_Altenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Markt_14,_Altenburg.jpg/800px-Markt_14,_Altenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Markt_14,_Altenburg.jpg/1200px-Markt_14,_Altenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Markt_14,_Altenburg.jpg/1920px-Markt_14,_Altenburg.jpg
 ---
 
 ## Overview

@@ -1,27 +1,45 @@
 ---
-title: "Burg Grimmenstein"
+title: Burg Grimmenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9458
 longitude: 10.7044
-
-# Images
 images:
-  - "/images-sites/burg-grimmenstein/02-17b0080c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg/1200px-Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg/1200px-Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grimmenstein_gotha_model.jpg/1200px-Grimmenstein_gotha_model.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/1200px-Gotha1572.jpg
+image_srcset:
+  ? Grundriss der alten Festung Grimmenstein, vor 1670, Andreas Rudolphi, Federzeichnung
+    auf Papier, Friedenstein Stiftung Gotha, Kupferstichkabinett, Inv. GothaZng6.tif
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg/400px-Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg/800px-Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg/1200px-Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg/1920px-Grundriss_der_alten_Festung_Grimmenstein,_vor_1670,_Andreas_Rudolphi,_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng6.tif.jpg
+  ? Der Grimmenstein mit Festungsgürtel, 17. Jahrhundert, Aquarell und Federzeichnung
+    auf Papier, Friedenstein Stiftung Gotha, Kupferstichkabinett, Inv. GothaZng1.tif
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg/400px-Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg/800px-Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg/1200px-Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg/1920px-Der_Grimmenstein_mit_Festungsgürtel,_17._Jahrhundert,_Aquarell_und_Federzeichnung_auf_Papier,_Friedenstein_Stiftung_Gotha,_Kupferstichkabinett,_Inv._GothaZng1.tif.jpg
+  Grimmenstein gotha model.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grimmenstein_gotha_model.jpg/400px-Grimmenstein_gotha_model.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grimmenstein_gotha_model.jpg/800px-Grimmenstein_gotha_model.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grimmenstein_gotha_model.jpg/1200px-Grimmenstein_gotha_model.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grimmenstein_gotha_model.jpg/1920px-Grimmenstein_gotha_model.jpg
+  Gotha1572.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/400px-Gotha1572.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/800px-Gotha1572.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/1200px-Gotha1572.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gotha1572.jpg/1920px-Gotha1572.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Frankenstein Castle"
+title: Frankenstein Castle
 date: 2026-01-23
 draft: false
-description: "medieval fortification, Palatinate Forest, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: medieval fortification, Palatinate Forest, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4397
 longitude: 7.97583
-
-# Images
 images:
-  - "/images-sites/frankenstein-castle/01-46563673-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20210626_Burg_Frankenstein_Pfalz_10.jpg/1200px-20210626_Burg_Frankenstein_Pfalz_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20210626_Burg_Frankenstein_Pfalz_12.jpg/1200px-20210626_Burg_Frankenstein_Pfalz_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210626_Burg_Frankenstein_Pfalz_13.jpg/1200px-20210626_Burg_Frankenstein_Pfalz_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Frankenstein_(Pfalz)-0432.jpg/1200px-Burg_Frankenstein_(Pfalz)-0432.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/1200px-InnerCastle.jpg
+image_srcset:
+  20210626 Burg Frankenstein Pfalz 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20210626_Burg_Frankenstein_Pfalz_10.jpg/400px-20210626_Burg_Frankenstein_Pfalz_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20210626_Burg_Frankenstein_Pfalz_10.jpg/800px-20210626_Burg_Frankenstein_Pfalz_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20210626_Burg_Frankenstein_Pfalz_10.jpg/1200px-20210626_Burg_Frankenstein_Pfalz_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20210626_Burg_Frankenstein_Pfalz_10.jpg/1920px-20210626_Burg_Frankenstein_Pfalz_10.jpg
+  20210626 Burg Frankenstein Pfalz 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20210626_Burg_Frankenstein_Pfalz_12.jpg/400px-20210626_Burg_Frankenstein_Pfalz_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20210626_Burg_Frankenstein_Pfalz_12.jpg/800px-20210626_Burg_Frankenstein_Pfalz_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20210626_Burg_Frankenstein_Pfalz_12.jpg/1200px-20210626_Burg_Frankenstein_Pfalz_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20210626_Burg_Frankenstein_Pfalz_12.jpg/1920px-20210626_Burg_Frankenstein_Pfalz_12.jpg
+  20210626 Burg Frankenstein Pfalz 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210626_Burg_Frankenstein_Pfalz_13.jpg/400px-20210626_Burg_Frankenstein_Pfalz_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210626_Burg_Frankenstein_Pfalz_13.jpg/800px-20210626_Burg_Frankenstein_Pfalz_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210626_Burg_Frankenstein_Pfalz_13.jpg/1200px-20210626_Burg_Frankenstein_Pfalz_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20210626_Burg_Frankenstein_Pfalz_13.jpg/1920px-20210626_Burg_Frankenstein_Pfalz_13.jpg
+  Burg Frankenstein (Pfalz)-0432.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Frankenstein_(Pfalz)-0432.jpg/400px-Burg_Frankenstein_(Pfalz)-0432.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Frankenstein_(Pfalz)-0432.jpg/800px-Burg_Frankenstein_(Pfalz)-0432.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Frankenstein_(Pfalz)-0432.jpg/1200px-Burg_Frankenstein_(Pfalz)-0432.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Frankenstein_(Pfalz)-0432.jpg/1920px-Burg_Frankenstein_(Pfalz)-0432.jpg
+  InnerCastle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/400px-InnerCastle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/800px-InnerCastle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/1200px-InnerCastle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/InnerCastle.jpg/1920px-InnerCastle.jpg
 ---
 
 ## Overview

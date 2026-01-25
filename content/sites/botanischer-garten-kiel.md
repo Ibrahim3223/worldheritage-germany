@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Kiel"
+title: Botanischer Garten Kiel
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.3481
 longitude: 10.1167
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-kiel/01-4cc2a1cb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1200px-Botanischer_Garten_Kiel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Luftaufnahme_ZBM_Botanischer_Garten.jpg/1200px-Luftaufnahme_ZBM_Botanischer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg/1200px-Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg/1200px-Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-Garten-Kiel_-_Eingangsbereich.jpg/1200px-Botanischer-Garten-Kiel_-_Eingangsbereich.jpg
+image_srcset:
+  Botanischer Garten Kiel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/400px-Botanischer_Garten_Kiel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/800px-Botanischer_Garten_Kiel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1200px-Botanischer_Garten_Kiel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Botanischer_Garten_Kiel.jpg/1920px-Botanischer_Garten_Kiel.jpg
+  Luftaufnahme ZBM Botanischer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Luftaufnahme_ZBM_Botanischer_Garten.jpg/400px-Luftaufnahme_ZBM_Botanischer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Luftaufnahme_ZBM_Botanischer_Garten.jpg/800px-Luftaufnahme_ZBM_Botanischer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Luftaufnahme_ZBM_Botanischer_Garten.jpg/1200px-Luftaufnahme_ZBM_Botanischer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Luftaufnahme_ZBM_Botanischer_Garten.jpg/1920px-Luftaufnahme_ZBM_Botanischer_Garten.jpg
+  Schaugewächshäuser Botanischer Garten CAU Kiel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg/400px-Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg/800px-Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg/1200px-Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg/1920px-Schaugewächshäuser_Botanischer_Garten_CAU_Kiel.jpg
+  Luftaufnahme Botanischer Garten CAU Kiel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg/400px-Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg/800px-Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg/1200px-Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg/1920px-Luftaufnahme_Botanischer_Garten_CAU_Kiel.jpg
+  Botanischer-Garten-Kiel - Eingangsbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-Garten-Kiel_-_Eingangsbereich.jpg/400px-Botanischer-Garten-Kiel_-_Eingangsbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-Garten-Kiel_-_Eingangsbereich.jpg/800px-Botanischer-Garten-Kiel_-_Eingangsbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-Garten-Kiel_-_Eingangsbereich.jpg/1200px-Botanischer-Garten-Kiel_-_Eingangsbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-Garten-Kiel_-_Eingangsbereich.jpg/1920px-Botanischer-Garten-Kiel_-_Eingangsbereich.jpg
 ---
 
 ## Overview

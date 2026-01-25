@@ -13,9 +13,9 @@ regions:
 latitude: 51.7131
 longitude: 10.5161
 images:
-  - "/images-sites/samson-pit/01-bbb4c5ac-800w.webp"
-  - "/images-sites/samson-pit/02-a00652ce-800w.webp"
-  - "/images-sites/samson-pit/03-1c1a12c3-800w.webp"
+  - "/images/samson-pit/01-bbb4c5ac-800w.webp"
+  - "/images/samson-pit/02-a00652ce-800w.webp"
+  - "/images/samson-pit/03-1c1a12c3-800w.webp"
 ---
 
 ## Overview

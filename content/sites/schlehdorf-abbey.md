@@ -13,7 +13,7 @@ regions:
 latitude: 47.6578
 longitude: 11.3181
 images:
-  - "/images-sites/schlehdorf-abbey/01-cabdb456-800w.webp"
+  - "/images/schlehdorf-abbey/01-cabdb456-800w.webp"
 ---
 
 ## Overview

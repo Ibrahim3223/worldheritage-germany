@@ -13,8 +13,8 @@ regions:
 latitude: 48.0073
 longitude: 9.65858
 images:
-  - "/images-sites/schussenried-abbey/02-551fa353-800w.webp"
-  - "/images-sites/schussenried-abbey/03-e4c3431b-800w.webp"
+  - "/images/schussenried-abbey/02-551fa353-800w.webp"
+  - "/images/schussenried-abbey/03-e4c3431b-800w.webp"
 ---
 
 ## Overview

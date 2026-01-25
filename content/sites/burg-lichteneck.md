@@ -1,27 +1,49 @@
 ---
-title: "Burg Lichteneck"
+title: Burg Lichteneck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.1723
 longitude: 7.7677
-
-# Images
 images:
-  - "/images-sites/burg-lichteneck/01-24e89605-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg/1200px-Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg/1200px-Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/De_Kunstdenkmäler_Baden_6_189.jpg/1200px-De_Kunstdenkmäler_Baden_6_189.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Kenzingen_5575.jpg/1200px-Burg_Kenzingen_5575.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg/1200px-Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg
+image_srcset:
+  Kenzingen - Burg Lichteneck - 20200622232936.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg/400px-Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg/800px-Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg/1200px-Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg/1920px-Kenzingen_-_Burg_Lichteneck_-_20200622232936.jpg
+  Kenzingen-Hecklingen, ruïne Burg Lichteneck IMG 1830 2022-05-18 11.53.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg/400px-Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg/800px-Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg/1200px-Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg/1920px-Kenzingen-Hecklingen,_ruïne_Burg_Lichteneck_IMG_1830_2022-05-18_11.53.jpg
+  De Kunstdenkmäler Baden 6 189.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/De_Kunstdenkmäler_Baden_6_189.jpg/400px-De_Kunstdenkmäler_Baden_6_189.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/De_Kunstdenkmäler_Baden_6_189.jpg/800px-De_Kunstdenkmäler_Baden_6_189.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/De_Kunstdenkmäler_Baden_6_189.jpg/1200px-De_Kunstdenkmäler_Baden_6_189.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/De_Kunstdenkmäler_Baden_6_189.jpg/1920px-De_Kunstdenkmäler_Baden_6_189.jpg
+  Burg Kenzingen 5575.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Kenzingen_5575.jpg/400px-Burg_Kenzingen_5575.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Kenzingen_5575.jpg/800px-Burg_Kenzingen_5575.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Kenzingen_5575.jpg/1200px-Burg_Kenzingen_5575.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Kenzingen_5575.jpg/1920px-Burg_Kenzingen_5575.jpg
+  Burg Lichteneck in Kenzingen-Hecklingen Bild2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg/400px-Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg/800px-Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg/1200px-Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg/1920px-Burg_Lichteneck_in_Kenzingen-Hecklingen_Bild2.jpg
 ---
 
 ## Overview

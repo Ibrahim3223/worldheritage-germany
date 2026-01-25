@@ -1,19 +1,50 @@
 ---
-title: "Großer Stadtsee"
+title: Großer Stadtsee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.495277777
 longitude: 13.090503336
 images:
-  - "/images-sites/grosser-stadtsee/01-133bba74-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg/1200px-Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG/1200px-Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Großer_Stadtsee_(Penzlin)_03.jpg/1200px-Großer_Stadtsee_(Penzlin)_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Großer_Stadtsee_(Penzlin)_06.jpg/1200px-Großer_Stadtsee_(Penzlin)_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Werder_(OT_v_Penzlin).jpg/1200px-Werder_(OT_v_Penzlin).jpg
+image_srcset:
+  Historische Karte südlich von Penzlin mittelalterlicher Weg Slawenzeit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg/400px-Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg/800px-Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg/1200px-Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg/1920px-Historische_Karte_südlich_von_Penzlin_mittelalterlicher_Weg_Slawenzeit.jpg
+  Penzlin Grosser Stadtsee 2010-09-03 250.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG/400px-Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG/800px-Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG/1200px-Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG/1920px-Penzlin_Grosser_Stadtsee_2010-09-03_250.JPG
+  Großer Stadtsee (Penzlin) 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Großer_Stadtsee_(Penzlin)_03.jpg/400px-Großer_Stadtsee_(Penzlin)_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Großer_Stadtsee_(Penzlin)_03.jpg/800px-Großer_Stadtsee_(Penzlin)_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Großer_Stadtsee_(Penzlin)_03.jpg/1200px-Großer_Stadtsee_(Penzlin)_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Großer_Stadtsee_(Penzlin)_03.jpg/1920px-Großer_Stadtsee_(Penzlin)_03.jpg
+  Großer Stadtsee (Penzlin) 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Großer_Stadtsee_(Penzlin)_06.jpg/400px-Großer_Stadtsee_(Penzlin)_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Großer_Stadtsee_(Penzlin)_06.jpg/800px-Großer_Stadtsee_(Penzlin)_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Großer_Stadtsee_(Penzlin)_06.jpg/1200px-Großer_Stadtsee_(Penzlin)_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Großer_Stadtsee_(Penzlin)_06.jpg/1920px-Großer_Stadtsee_(Penzlin)_06.jpg
+  Werder (OT v Penzlin).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Werder_(OT_v_Penzlin).jpg/400px-Werder_(OT_v_Penzlin).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Werder_(OT_v_Penzlin).jpg/800px-Werder_(OT_v_Penzlin).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Werder_(OT_v_Penzlin).jpg/1200px-Werder_(OT_v_Penzlin).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Werder_(OT_v_Penzlin).jpg/1920px-Werder_(OT_v_Penzlin).jpg
 ---
 
 ## Overview

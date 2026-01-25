@@ -1,19 +1,43 @@
 ---
-title: "Jungfern Cave"
+title: Jungfern Cave
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 49.92
 longitude: 11.0881
 images:
-  - "/images-sites/jungfern-cave/01-87ed7111-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blick_in_die_Jungfernhöhle.jpg/1200px-Blick_in_die_Jungfernhöhle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jungfernhöhle-1020495.jpg/1200px-Jungfernhöhle-1020495.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jungfernhöhle-1020485.jpg/1200px-Jungfernhöhle-1020485.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jungfernhoehle_Kreuz.jpg/1200px-Jungfernhoehle_Kreuz.jpg
+image_srcset:
+  Blick in die Jungfernhöhle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blick_in_die_Jungfernhöhle.jpg/400px-Blick_in_die_Jungfernhöhle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blick_in_die_Jungfernhöhle.jpg/800px-Blick_in_die_Jungfernhöhle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blick_in_die_Jungfernhöhle.jpg/1200px-Blick_in_die_Jungfernhöhle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blick_in_die_Jungfernhöhle.jpg/1920px-Blick_in_die_Jungfernhöhle.jpg
+  Jungfernhöhle-1020495.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jungfernhöhle-1020495.jpg/400px-Jungfernhöhle-1020495.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jungfernhöhle-1020495.jpg/800px-Jungfernhöhle-1020495.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jungfernhöhle-1020495.jpg/1200px-Jungfernhöhle-1020495.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jungfernhöhle-1020495.jpg/1920px-Jungfernhöhle-1020495.jpg
+  Jungfernhöhle-1020485.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jungfernhöhle-1020485.jpg/400px-Jungfernhöhle-1020485.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jungfernhöhle-1020485.jpg/800px-Jungfernhöhle-1020485.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jungfernhöhle-1020485.jpg/1200px-Jungfernhöhle-1020485.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jungfernhöhle-1020485.jpg/1920px-Jungfernhöhle-1020485.jpg
+  Jungfernhoehle Kreuz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jungfernhoehle_Kreuz.jpg/400px-Jungfernhoehle_Kreuz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jungfernhoehle_Kreuz.jpg/800px-Jungfernhoehle_Kreuz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jungfernhoehle_Kreuz.jpg/1200px-Jungfernhoehle_Kreuz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jungfernhoehle_Kreuz.jpg/1920px-Jungfernhoehle_Kreuz.jpg
 ---
 
 ## Overview

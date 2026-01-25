@@ -1,29 +1,50 @@
 ---
-title: "Heiligenburg Castle"
+title: Heiligenburg Castle
 date: 2026-01-23
 draft: false
-description: "castle ruin on the hill of Heiligenberg in the district of Schwalm-Eder-Kreis, Hesse, Germany."
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin on the hill of Heiligenberg in the district of Schwalm-Eder-Kreis,
+  Hesse, Germany.
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1328
 longitude: 9.45833
-
-# Images
 images:
-  - "/images-sites/heiligenburg-castle/01-8265545a-800w.webp"
-  - "/images-sites/heiligenburg-castle/02-a527591a-800w.webp"
-  - "/images-sites/heiligenburg-castle/03-6461e058-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heiligenberg_Altenbrunslar.jpg/1200px-Heiligenberg_Altenbrunslar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blick_vom_Heiligenberg.jpg/1200px-Blick_vom_Heiligenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg/1200px-K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligenburg_auf_dem_Heiligenberg.JPG/1200px-Heiligenburg_auf_dem_Heiligenberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1200px-Felsberg_De_Merian_Hassiae.jpg
+image_srcset:
+  Heiligenberg Altenbrunslar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heiligenberg_Altenbrunslar.jpg/400px-Heiligenberg_Altenbrunslar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heiligenberg_Altenbrunslar.jpg/800px-Heiligenberg_Altenbrunslar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heiligenberg_Altenbrunslar.jpg/1200px-Heiligenberg_Altenbrunslar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Heiligenberg_Altenbrunslar.jpg/1920px-Heiligenberg_Altenbrunslar.jpg
+  Blick vom Heiligenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blick_vom_Heiligenberg.jpg/400px-Blick_vom_Heiligenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blick_vom_Heiligenberg.jpg/800px-Blick_vom_Heiligenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blick_vom_Heiligenberg.jpg/1200px-Blick_vom_Heiligenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Blick_vom_Heiligenberg.jpg/1920px-Blick_vom_Heiligenberg.jpg
+  K 144, 1, Gensungen, Felsberg, Schwalm-Eder-Kreis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg/400px-K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg/800px-K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg/1200px-K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg/1920px-K_144,_1,_Gensungen,_Felsberg,_Schwalm-Eder-Kreis.jpg
+  Heiligenburg auf dem Heiligenberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligenburg_auf_dem_Heiligenberg.JPG/400px-Heiligenburg_auf_dem_Heiligenberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligenburg_auf_dem_Heiligenberg.JPG/800px-Heiligenburg_auf_dem_Heiligenberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligenburg_auf_dem_Heiligenberg.JPG/1200px-Heiligenburg_auf_dem_Heiligenberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligenburg_auf_dem_Heiligenberg.JPG/1920px-Heiligenburg_auf_dem_Heiligenberg.JPG
+  Felsberg De Merian Hassiae.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/400px-Felsberg_De_Merian_Hassiae.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/800px-Felsberg_De_Merian_Hassiae.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1200px-Felsberg_De_Merian_Hassiae.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felsberg_De_Merian_Hassiae.jpg/1920px-Felsberg_De_Merian_Hassiae.jpg
 ---
 
 ## Overview

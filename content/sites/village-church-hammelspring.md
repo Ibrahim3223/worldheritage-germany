@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244359"
 description: "In the tranquil surroundings of Templin, Brandenburg, lies the Village Church of Hammelspring, a remarkable example of early 19th-century ecclesiastical..."
 images:
-  - "/images-sites/village-church-hammelspring/01-e839c9a5-1920w.webp"
-  - "/images-sites/village-church-hammelspring/02-238f3cd3-1920w.webp"
-  - "/images-sites/village-church-hammelspring/03-1eb72934-1920w.webp"
+  - "/images/village-church-hammelspring/01-e839c9a5-1920w.webp"
+  - "/images/village-church-hammelspring/02-238f3cd3-1920w.webp"
+  - "/images/village-church-hammelspring/03-1eb72934-1920w.webp"
 ---
 
 ## Overview

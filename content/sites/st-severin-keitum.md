@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1619026"
 description: "St. Severin in Keitum is a remarkable example of Brick Gothic architecture, founded in 1201. This church stands out not only for its stunning constructi..."
 images:
-  - "/images-sites/st-severin-keitum/01-641bef62-1920w.webp"
-  - "/images-sites/st-severin-keitum/02-e1b073d6-1920w.webp"
-  - "/images-sites/st-severin-keitum/03-fe002c8d-1920w.webp"
+  - "/images/st-severin-keitum/01-641bef62-1920w.webp"
+  - "/images/st-severin-keitum/02-e1b073d6-1920w.webp"
+  - "/images/st-severin-keitum/03-fe002c8d-1920w.webp"
 ---
 
 ## Overview

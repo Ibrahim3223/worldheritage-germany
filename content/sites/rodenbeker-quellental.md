@@ -13,7 +13,7 @@ regions:
 latitude: 53.6838
 longitude: 10.1179
 images:
-  - "/images-sites/rodenbeker-quellental/01-0320b222-800w.webp"
+  - "/images/rodenbeker-quellental/01-0320b222-800w.webp"
 ---
 
 ## Overview

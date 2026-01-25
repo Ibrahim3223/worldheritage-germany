@@ -1,24 +1,51 @@
 ---
-title: "Bergkirche Schierke"
-site_name: "Bergkirche Schierke"
-slug: "bergkirche-schierke"
-region: "Saxony-Anhalt"
-
-# Location
+title: Bergkirche Schierke
+site_name: Bergkirche Schierke
+slug: bergkirche-schierke
+region: Saxony-Anhalt
 latitude: 51.764
 longitude: 10.6643
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q819910"
-description: "Bergkirche Schierke stands as a significant landmark in the serene landscape of Wernigerode, Germany. This Protestant church building, designed in the G..."
+- church building
+- religious site
+wikidata_id: Q819910
+description: Bergkirche Schierke stands as a significant landmark in the serene landscape
+  of Wernigerode, Germany. This Protestant church building, designed in the G...
 images:
-  - "/images-sites/bergkirche-schierke/01-34ebcf47-1920w.webp"
-  - "/images-sites/bergkirche-schierke/02-9662d9a0-1920w.webp"
-  - "/images-sites/bergkirche-schierke/03-de9afc84-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schierker%20Bergkirche.JPG/1200px-Schierker%20Bergkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wernigerode,_Germany_-_panoramio_(1).jpg/1200px-Wernigerode,_Germany_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg/1200px-20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1200px-Schierker_Bergkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derharz00hoff_orig_0335.png/1200px-Derharz00hoff_orig_0335.png
+image_srcset:
+  Schierker%20Bergkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schierker%20Bergkirche.JPG/400px-Schierker%20Bergkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schierker%20Bergkirche.JPG/800px-Schierker%20Bergkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schierker%20Bergkirche.JPG/1200px-Schierker%20Bergkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schierker%20Bergkirche.JPG/1920px-Schierker%20Bergkirche.JPG
+  Wernigerode, Germany - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wernigerode,_Germany_-_panoramio_(1).jpg/400px-Wernigerode,_Germany_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wernigerode,_Germany_-_panoramio_(1).jpg/800px-Wernigerode,_Germany_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wernigerode,_Germany_-_panoramio_(1).jpg/1200px-Wernigerode,_Germany_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Wernigerode,_Germany_-_panoramio_(1).jpg/1920px-Wernigerode,_Germany_-_panoramio_(1).jpg
+  20010202250NR Schierke (Wernigerode) Bergkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg/400px-20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg/800px-20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg/1200px-20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg/1920px-20010202250NR_Schierke_(Wernigerode)_Bergkirche.jpg
+  Schierker Bergkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/400px-Schierker_Bergkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/800px-Schierker_Bergkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1200px-Schierker_Bergkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schierker_Bergkirche.JPG/1920px-Schierker_Bergkirche.JPG
+  Derharz00hoff orig 0335.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derharz00hoff_orig_0335.png/400px-Derharz00hoff_orig_0335.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derharz00hoff_orig_0335.png/800px-Derharz00hoff_orig_0335.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derharz00hoff_orig_0335.png/1200px-Derharz00hoff_orig_0335.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Derharz00hoff_orig_0335.png/1920px-Derharz00hoff_orig_0335.png
 ---
 
 ## Overview

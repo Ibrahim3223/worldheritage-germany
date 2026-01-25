@@ -1,28 +1,50 @@
 ---
-title: "Hambach Castle"
+title: Hambach Castle
 date: 2026-01-23
 draft: false
-description: "castle near the urban district Hambach of Neustadt an der Weinstraße in Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle near the urban district Hambach of Neustadt an der Weinstraße
+  in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.325
 longitude: 8.11861
-
-# Images
 images:
-  - "/images-sites/hambach-castle/02-860c993c-800w.webp"
-  - "/images-sites/hambach-castle/03-4a00294b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg/1200px-Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg/1200px-Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eckkopf_-_Blauen.jpg/1200px-Eckkopf_-_Blauen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2012_07_21_016_Hambacher_Schloss_Ostseite.jpg/1200px-2012_07_21_016_Hambacher_Schloss_Ostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1200px-Hambacherschloss.jpg
+image_srcset:
+  Herbstliche Landschaft vom Hambacher Schlosss 2020 IMG 8158.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg/400px-Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg/800px-Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg/1200px-Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg/1920px-Herbstliche_Landschaft_vom_Hambacher_Schlosss_2020_IMG_8158.jpg
+  Hambach an der Weinstraße Schloßstraße 001 2021 08 14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg/400px-Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg/800px-Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg/1200px-Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg/1920px-Hambach_an_der_Weinstraße_Schloßstraße_001_2021_08_14.jpg
+  Eckkopf - Blauen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eckkopf_-_Blauen.jpg/400px-Eckkopf_-_Blauen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eckkopf_-_Blauen.jpg/800px-Eckkopf_-_Blauen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eckkopf_-_Blauen.jpg/1200px-Eckkopf_-_Blauen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Eckkopf_-_Blauen.jpg/1920px-Eckkopf_-_Blauen.jpg
+  2012 07 21 016 Hambacher Schloss Ostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2012_07_21_016_Hambacher_Schloss_Ostseite.jpg/400px-2012_07_21_016_Hambacher_Schloss_Ostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2012_07_21_016_Hambacher_Schloss_Ostseite.jpg/800px-2012_07_21_016_Hambacher_Schloss_Ostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2012_07_21_016_Hambacher_Schloss_Ostseite.jpg/1200px-2012_07_21_016_Hambacher_Schloss_Ostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2012_07_21_016_Hambacher_Schloss_Ostseite.jpg/1920px-2012_07_21_016_Hambacher_Schloss_Ostseite.jpg
+  Hambacherschloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/400px-Hambacherschloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/800px-Hambacherschloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1200px-Hambacherschloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hambacherschloss.jpg/1920px-Hambacherschloss.jpg
 ---
 
 ## Overview

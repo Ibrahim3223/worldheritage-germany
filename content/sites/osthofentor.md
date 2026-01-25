@@ -13,9 +13,9 @@ regions:
 latitude: 51.5736
 longitude: 8.11583
 images:
-  - "/images-sites/osthofentor/01-e6f6f373-800w.webp"
-  - "/images-sites/osthofentor/02-1e284157-800w.webp"
-  - "/images-sites/osthofentor/03-6ae3044b-800w.webp"
+  - "/images/osthofentor/01-e6f6f373-800w.webp"
+  - "/images/osthofentor/02-1e284157-800w.webp"
+  - "/images/osthofentor/03-6ae3044b-800w.webp"
 ---
 
 ## Overview

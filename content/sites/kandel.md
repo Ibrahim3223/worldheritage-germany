@@ -13,7 +13,7 @@ regions:
 latitude: 48.0625477
 longitude: 8.0113188
 images:
-  - "/images-sites/kandel/01-e0b044b3-800w.webp"
+  - "/images/kandel/01-e0b044b3-800w.webp"
 ---
 
 ## Overview

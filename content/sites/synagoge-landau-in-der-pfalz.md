@@ -13,8 +13,8 @@ regions:
 latitude: 49.1948
 longitude: 8.11591
 images:
-  - "/images-sites/synagoge-landau-in-der-pfalz/02-1a2051ba-800w.webp"
-  - "/images-sites/synagoge-landau-in-der-pfalz/03-b4fb53e0-800w.webp"
+  - "/images/synagoge-landau-in-der-pfalz/02-1a2051ba-800w.webp"
+  - "/images/synagoge-landau-in-der-pfalz/03-b4fb53e0-800w.webp"
 ---
 
 ## Overview

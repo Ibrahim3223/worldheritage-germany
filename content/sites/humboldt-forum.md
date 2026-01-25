@@ -1,19 +1,49 @@
 ---
-title: "Humboldt Forum"
+title: Humboldt Forum
 date: 2026-01-23
 draft: false
-description: "museum in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5175
 longitude: 13.40277778
 images:
-  - "/images-sites/humboldt-forum/01-96905c69-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg/1200px-Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20240815_View_cupola_Berlin_Cathedral_09.jpg/1200px-20240815_View_cupola_Berlin_Cathedral_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin-fusschirurg-gottlieb.jpg/1200px-Berlin-fusschirurg-gottlieb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg/1200px-Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlín_Humboldtovo_forum.jpg/1200px-Berlín_Humboldtovo_forum.jpg
+image_srcset:
+  Humboldt Forum from Marx-Engels-Forum at night 2021-01-17 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg/400px-Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg/800px-Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg/1200px-Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg/1920px-Humboldt_Forum_from_Marx-Engels-Forum_at_night_2021-01-17_08.jpg
+  20240815 View cupola Berlin Cathedral 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20240815_View_cupola_Berlin_Cathedral_09.jpg/400px-20240815_View_cupola_Berlin_Cathedral_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20240815_View_cupola_Berlin_Cathedral_09.jpg/800px-20240815_View_cupola_Berlin_Cathedral_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20240815_View_cupola_Berlin_Cathedral_09.jpg/1200px-20240815_View_cupola_Berlin_Cathedral_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/20240815_View_cupola_Berlin_Cathedral_09.jpg/1920px-20240815_View_cupola_Berlin_Cathedral_09.jpg
+  Berlin-fusschirurg-gottlieb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin-fusschirurg-gottlieb.jpg/400px-Berlin-fusschirurg-gottlieb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin-fusschirurg-gottlieb.jpg/800px-Berlin-fusschirurg-gottlieb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin-fusschirurg-gottlieb.jpg/1200px-Berlin-fusschirurg-gottlieb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin-fusschirurg-gottlieb.jpg/1920px-Berlin-fusschirurg-gottlieb.jpg
+  Eingang U-Bahnhof Museumsinsel Kronprinzenpalais.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg/400px-Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg/800px-Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg/1200px-Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg/1920px-Eingang_U-Bahnhof_Museumsinsel_Kronprinzenpalais.jpg
+  Berlín Humboldtovo forum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlín_Humboldtovo_forum.jpg/400px-Berlín_Humboldtovo_forum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlín_Humboldtovo_forum.jpg/800px-Berlín_Humboldtovo_forum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlín_Humboldtovo_forum.jpg/1200px-Berlín_Humboldtovo_forum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Berlín_Humboldtovo_forum.jpg/1920px-Berlín_Humboldtovo_forum.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Cambser See"
+title: Cambser See
 date: 2026-01-23
 draft: false
-description: "lake"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.678611111
 longitude: 11.535555555
 images:
-  - "/images-sites/cambser-see/01-5b37027a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg/1200px-Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cambser-See-20-04-2009-20.jpg/1200px-Cambser-See-20-04-2009-20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cambser-See-20-04-2009-22.jpg/1200px-Cambser-See-20-04-2009-22.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cambser-See-20-04-2009-26.jpg/1200px-Cambser-See-20-04-2009-26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cambser-See-20-04-2009-30.jpg/1200px-Cambser-See-20-04-2009-30.jpg
+image_srcset:
+  Kleefeld Siedlung Cambser See 2009-03-04 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg/400px-Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg/800px-Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg/1200px-Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg/1920px-Kleefeld_Siedlung_Cambser_See_2009-03-04_002.jpg
+  Cambser-See-20-04-2009-20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cambser-See-20-04-2009-20.jpg/400px-Cambser-See-20-04-2009-20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cambser-See-20-04-2009-20.jpg/800px-Cambser-See-20-04-2009-20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cambser-See-20-04-2009-20.jpg/1200px-Cambser-See-20-04-2009-20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cambser-See-20-04-2009-20.jpg/1920px-Cambser-See-20-04-2009-20.jpg
+  Cambser-See-20-04-2009-22.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cambser-See-20-04-2009-22.jpg/400px-Cambser-See-20-04-2009-22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cambser-See-20-04-2009-22.jpg/800px-Cambser-See-20-04-2009-22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cambser-See-20-04-2009-22.jpg/1200px-Cambser-See-20-04-2009-22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cambser-See-20-04-2009-22.jpg/1920px-Cambser-See-20-04-2009-22.jpg
+  Cambser-See-20-04-2009-26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cambser-See-20-04-2009-26.jpg/400px-Cambser-See-20-04-2009-26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cambser-See-20-04-2009-26.jpg/800px-Cambser-See-20-04-2009-26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cambser-See-20-04-2009-26.jpg/1200px-Cambser-See-20-04-2009-26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cambser-See-20-04-2009-26.jpg/1920px-Cambser-See-20-04-2009-26.jpg
+  Cambser-See-20-04-2009-30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cambser-See-20-04-2009-30.jpg/400px-Cambser-See-20-04-2009-30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cambser-See-20-04-2009-30.jpg/800px-Cambser-See-20-04-2009-30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cambser-See-20-04-2009-30.jpg/1200px-Cambser-See-20-04-2009-30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cambser-See-20-04-2009-30.jpg/1920px-Cambser-See-20-04-2009-30.jpg
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Heisterbach Abbey"
+title: Heisterbach Abbey
 date: 2026-01-23
 draft: false
-description: "also Petersthal, formerly Petersberg, near Oberdollendorf, after which the Hotel Petersberg is named"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: also Petersthal, formerly Petersberg, near Oberdollendorf, after which
+  the Hotel Petersberg is named
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6953
 longitude: 7.21389
 images:
-  - "/images-sites/heisterbach-abbey/01-e1e88d04-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Klosterruine-Heisterbach-045.JPG/1200px-Klosterruine-Heisterbach-045.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2022RuineKlosterHeisterbach.jpg/1200px-2022RuineKlosterHeisterbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Chorruine_des_Klosters_Heisterbach_01.jpg/1200px-Die_Chorruine_des_Klosters_Heisterbach_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Die_Chorruine_des_Klosters_Heisterbach_04.jpg/1200px-Die_Chorruine_des_Klosters_Heisterbach_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg/1200px-Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg
+image_srcset:
+  Klosterruine-Heisterbach-045.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Klosterruine-Heisterbach-045.JPG/400px-Klosterruine-Heisterbach-045.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Klosterruine-Heisterbach-045.JPG/800px-Klosterruine-Heisterbach-045.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Klosterruine-Heisterbach-045.JPG/1200px-Klosterruine-Heisterbach-045.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Klosterruine-Heisterbach-045.JPG/1920px-Klosterruine-Heisterbach-045.JPG
+  2022RuineKlosterHeisterbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2022RuineKlosterHeisterbach.jpg/400px-2022RuineKlosterHeisterbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2022RuineKlosterHeisterbach.jpg/800px-2022RuineKlosterHeisterbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2022RuineKlosterHeisterbach.jpg/1200px-2022RuineKlosterHeisterbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2022RuineKlosterHeisterbach.jpg/1920px-2022RuineKlosterHeisterbach.jpg
+  Die Chorruine des Klosters Heisterbach 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Chorruine_des_Klosters_Heisterbach_01.jpg/400px-Die_Chorruine_des_Klosters_Heisterbach_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Chorruine_des_Klosters_Heisterbach_01.jpg/800px-Die_Chorruine_des_Klosters_Heisterbach_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Chorruine_des_Klosters_Heisterbach_01.jpg/1200px-Die_Chorruine_des_Klosters_Heisterbach_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Die_Chorruine_des_Klosters_Heisterbach_01.jpg/1920px-Die_Chorruine_des_Klosters_Heisterbach_01.jpg
+  Die Chorruine des Klosters Heisterbach 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Die_Chorruine_des_Klosters_Heisterbach_04.jpg/400px-Die_Chorruine_des_Klosters_Heisterbach_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Die_Chorruine_des_Klosters_Heisterbach_04.jpg/800px-Die_Chorruine_des_Klosters_Heisterbach_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Die_Chorruine_des_Klosters_Heisterbach_04.jpg/1200px-Die_Chorruine_des_Klosters_Heisterbach_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Die_Chorruine_des_Klosters_Heisterbach_04.jpg/1920px-Die_Chorruine_des_Klosters_Heisterbach_04.jpg
+  Schutzmantelmadonna Chorruine Abtei Heisterbach Königswinter - Bronzeplastik von Ernemann Sander.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg/400px-Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg/800px-Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg/1200px-Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg/1920px-Schutzmantelmadonna_Chorruine_Abtei_Heisterbach_Königswinter_-_Bronzeplastik_von_Ernemann_Sander.jpg
 ---
 
 ## Overview

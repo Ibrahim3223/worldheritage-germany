@@ -1,19 +1,31 @@
 ---
-title: "Gänsemarkt"
+title: Gänsemarkt
 date: 2026-01-23
 draft: false
-description: "square in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Hamburg
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 53.555
 longitude: 9.98833333
 images:
-  - "/images-sites/gaensemarkt/01-2a14a182-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gänsemarkt.jpg/1200px-Gänsemarkt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oper_GM_1750.jpg/1200px-Oper_GM_1750.jpg
+image_srcset:
+  Gänsemarkt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gänsemarkt.jpg/400px-Gänsemarkt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gänsemarkt.jpg/800px-Gänsemarkt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gänsemarkt.jpg/1200px-Gänsemarkt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gänsemarkt.jpg/1920px-Gänsemarkt.jpg
+  Oper GM 1750.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oper_GM_1750.jpg/400px-Oper_GM_1750.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oper_GM_1750.jpg/800px-Oper_GM_1750.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oper_GM_1750.jpg/1200px-Oper_GM_1750.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oper_GM_1750.jpg/1920px-Oper_GM_1750.jpg
 ---
 
 ## Overview

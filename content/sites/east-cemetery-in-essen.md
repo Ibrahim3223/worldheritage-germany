@@ -1,19 +1,49 @@
 ---
-title: "East cemetery in Essen"
+title: East cemetery in Essen
 date: 2026-01-23
 draft: false
-description: "cemetery in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4469
 longitude: 7.03111
 images:
-  - "/images-sites/east-cemetery-in-essen/01-b0dc86ea-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg/1200px-Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edith_Ficker,_Ostfriedhof_Essen.jpg/1200px-Edith_Ficker,_Ostfriedhof_Essen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grab_Diether_Krebs.jpg/1200px-Grab_Diether_Krebs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grab_Diether_Posser.jpg/1200px-Grab_Diether_Posser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ostfriedhof_Essen,_Portal.JPG/1200px-Ostfriedhof_Essen,_Portal.JPG
+image_srcset:
+  Adolf u. Frieda Kollmann, Ostfriedhof Essen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg/400px-Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg/800px-Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg/1200px-Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg/1920px-Adolf_u._Frieda_Kollmann,_Ostfriedhof_Essen.jpg
+  Edith Ficker, Ostfriedhof Essen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edith_Ficker,_Ostfriedhof_Essen.jpg/400px-Edith_Ficker,_Ostfriedhof_Essen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edith_Ficker,_Ostfriedhof_Essen.jpg/800px-Edith_Ficker,_Ostfriedhof_Essen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edith_Ficker,_Ostfriedhof_Essen.jpg/1200px-Edith_Ficker,_Ostfriedhof_Essen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Edith_Ficker,_Ostfriedhof_Essen.jpg/1920px-Edith_Ficker,_Ostfriedhof_Essen.jpg
+  Grab Diether Krebs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grab_Diether_Krebs.jpg/400px-Grab_Diether_Krebs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grab_Diether_Krebs.jpg/800px-Grab_Diether_Krebs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grab_Diether_Krebs.jpg/1200px-Grab_Diether_Krebs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Grab_Diether_Krebs.jpg/1920px-Grab_Diether_Krebs.jpg
+  Grab Diether Posser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grab_Diether_Posser.jpg/400px-Grab_Diether_Posser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grab_Diether_Posser.jpg/800px-Grab_Diether_Posser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grab_Diether_Posser.jpg/1200px-Grab_Diether_Posser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grab_Diether_Posser.jpg/1920px-Grab_Diether_Posser.jpg
+  Ostfriedhof Essen, Portal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ostfriedhof_Essen,_Portal.JPG/400px-Ostfriedhof_Essen,_Portal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ostfriedhof_Essen,_Portal.JPG/800px-Ostfriedhof_Essen,_Portal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ostfriedhof_Essen,_Portal.JPG/1200px-Ostfriedhof_Essen,_Portal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ostfriedhof_Essen,_Portal.JPG/1920px-Ostfriedhof_Essen,_Portal.JPG
 ---
 
 ## Overview

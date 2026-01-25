@@ -1,24 +1,51 @@
 ---
-title: "Dorfkirche Britz"
-site_name: "Dorfkirche Britz"
-slug: "dorfkirche-britz"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Britz
+site_name: Dorfkirche Britz
+slug: dorfkirche-britz
+region: Berlin
 latitude: 52.4481
 longitude: 13.4367
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244174"
-description: "In the bustling district of Neukölln, Berlin, the Dorfkirche Britz stands as a striking example of Gothic architecture, inviting visitors to explore its..."
+- church building
+- religious site
+wikidata_id: Q1244174
+description: In the bustling district of Neukölln, Berlin, the Dorfkirche Britz stands
+  as a striking example of Gothic architecture, inviting visitors to explore its...
 images:
-  - "/images-sites/dorfkirche-britz/01-d18c12a0-1920w.webp"
-  - "/images-sites/dorfkirche-britz/02-d52c2d87-1920w.webp"
-  - "/images-sites/dorfkirche-britz/03-52c747f8-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg/1200px-Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1200px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dorfkirche_Britz_2012_1.jpg/1200px-Dorfkirche_Britz_2012_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg/1200px-Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfkirche_Britz_04.jpg/1200px-Dorfkirche_Britz_04.jpg
+image_srcset:
+  Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg/400px-Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg/800px-Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg/1200px-Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg/1920px-Berlin%20Britz%20Dorfkirche%20asv2021-03%20img1.jpg
+  Berlin Britz Dorfkirche asv2021-03 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/400px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/800px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1200px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg/1920px-Berlin_Britz_Dorfkirche_asv2021-03_img1.jpg
+  Dorfkirche Britz 2012 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dorfkirche_Britz_2012_1.jpg/400px-Dorfkirche_Britz_2012_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dorfkirche_Britz_2012_1.jpg/800px-Dorfkirche_Britz_2012_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dorfkirche_Britz_2012_1.jpg/1200px-Dorfkirche_Britz_2012_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dorfkirche_Britz_2012_1.jpg/1920px-Dorfkirche_Britz_2012_1.jpg
+  Evangelische Dorfkirche Britz (Berlin), Bild 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg/400px-Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg/800px-Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg/1200px-Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg/1920px-Evangelische_Dorfkirche_Britz_(Berlin),_Bild_1.jpg
+  Dorfkirche Britz 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfkirche_Britz_04.jpg/400px-Dorfkirche_Britz_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfkirche_Britz_04.jpg/800px-Dorfkirche_Britz_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfkirche_Britz_04.jpg/1200px-Dorfkirche_Britz_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dorfkirche_Britz_04.jpg/1920px-Dorfkirche_Britz_04.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Bramberg Castle"
+title: Bramberg Castle
 date: 2026-01-23
 draft: false
-description: "Castle ruin in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle ruin in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.108460523
 longitude: 10.634810436
-
-# Images
 images:
-  - "/images-sites/bramberg-castle/01-6369158a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg/1200px-Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lage_Burg_Bramberg.jpg/1200px-Lage_Burg_Bramberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg/1200px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg/1200px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Bramberg_Haßberge2.jpg/1200px-Burg_Bramberg_Haßberge2.jpg
+image_srcset:
+  Bramberg Ruine Tür in der Vorburg P4RM2217.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg/400px-Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg/800px-Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg/1200px-Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg/1920px-Bramberg_Ruine_Tür_in_der_Vorburg_P4RM2217.jpg
+  Lage Burg Bramberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lage_Burg_Bramberg.jpg/400px-Lage_Burg_Bramberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lage_Burg_Bramberg.jpg/800px-Lage_Burg_Bramberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lage_Burg_Bramberg.jpg/1200px-Lage_Burg_Bramberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lage_Burg_Bramberg.jpg/1920px-Lage_Burg_Bramberg.jpg
+  Bramberg (Haßberge) Burgruine-20220821-RM-180320.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg/400px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg/800px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg/1200px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg/1920px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180320.jpg
+  Bramberg (Haßberge) Burgruine-20220821-RM-180051.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg/400px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg/800px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg/1200px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg/1920px-Bramberg_(Haßberge)_Burgruine-20220821-RM-180051.jpg
+  Burg Bramberg Haßberge2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Bramberg_Haßberge2.jpg/400px-Burg_Bramberg_Haßberge2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Bramberg_Haßberge2.jpg/800px-Burg_Bramberg_Haßberge2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Bramberg_Haßberge2.jpg/1200px-Burg_Bramberg_Haßberge2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Bramberg_Haßberge2.jpg/1920px-Burg_Bramberg_Haßberge2.jpg
 ---
 
 ## Overview

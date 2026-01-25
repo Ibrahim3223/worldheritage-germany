@@ -13,7 +13,7 @@ regions:
 latitude: 54.409367
 longitude: 11.095616
 images:
-  - "/images-sites/leuchtturm-strukkamphuk/01-52ab4b87-800w.webp"
+  - "/images/leuchtturm-strukkamphuk/01-52ab4b87-800w.webp"
 ---
 
 ## Overview

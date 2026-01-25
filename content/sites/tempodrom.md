@@ -13,7 +13,7 @@ regions:
 latitude: 52.5017
 longitude: 13.3811
 images:
-  - "/images-sites/tempodrom/01-d25924db-800w.webp"
+  - "/images/tempodrom/01-d25924db-800w.webp"
 ---
 
 ## Overview

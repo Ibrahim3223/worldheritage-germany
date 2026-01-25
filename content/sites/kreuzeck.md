@@ -13,7 +13,7 @@ regions:
 latitude: 47.4533
 longitude: 11.0806
 images:
-  - "/images-sites/kreuzeck/01-20be8383-800w.webp"
+  - "/images/kreuzeck/01-20be8383-800w.webp"
 ---
 
 ## Overview

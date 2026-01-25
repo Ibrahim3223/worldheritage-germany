@@ -13,9 +13,9 @@ regions:
 latitude: 54.472777777
 longitude: 11.021388888
 images:
-  - "/images-sites/wallnau-fehmarn/01-da948861-800w.webp"
-  - "/images-sites/wallnau-fehmarn/02-9d663f57-800w.webp"
-  - "/images-sites/wallnau-fehmarn/03-b5806703-800w.webp"
+  - "/images/wallnau-fehmarn/01-da948861-800w.webp"
+  - "/images/wallnau-fehmarn/02-9d663f57-800w.webp"
+  - "/images/wallnau-fehmarn/03-b5806703-800w.webp"
 ---
 
 ## Overview

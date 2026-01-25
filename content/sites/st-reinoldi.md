@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q471310"
 description: "Standing proudly in the heart of Dortmund, St. Reinoldi is a remarkable church that captures both historical significance and architectural beauty. Foun..."
 images:
-  - "/images-sites/st-reinoldi/01-46a196a2-1920w.webp"
-  - "/images-sites/st-reinoldi/02-9c7d4edb-1920w.webp"
-  - "/images-sites/st-reinoldi/03-1074a16e-1920w.webp"
+  - "/images/st-reinoldi/01-46a196a2-1920w.webp"
+  - "/images/st-reinoldi/02-9c7d4edb-1920w.webp"
+  - "/images/st-reinoldi/03-1074a16e-1920w.webp"
 ---
 
 ## Overview

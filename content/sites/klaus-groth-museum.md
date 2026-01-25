@@ -13,7 +13,7 @@ regions:
 latitude: 54.1929
 longitude: 9.09628
 images:
-  - "/images-sites/klaus-groth-museum/01-137c7f53-800w.webp"
+  - "/images/klaus-groth-museum/01-137c7f53-800w.webp"
 ---
 
 ## Overview

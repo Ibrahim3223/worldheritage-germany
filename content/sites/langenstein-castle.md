@@ -21,9 +21,9 @@ longitude: 8.90277778
 
 # Images
 images:
-  - "/images-sites/langenstein-castle/01-0ce0dbba-800w.webp"
-  - "/images-sites/langenstein-castle/02-dae8f7fb-800w.webp"
-  - "/images-sites/langenstein-castle/03-17ff35d9-800w.webp"
+  - "/images/langenstein-castle/01-0ce0dbba-800w.webp"
+  - "/images/langenstein-castle/02-dae8f7fb-800w.webp"
+  - "/images/langenstein-castle/03-17ff35d9-800w.webp"
 ---
 
 ## Overview

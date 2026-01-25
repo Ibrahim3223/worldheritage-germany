@@ -1,19 +1,49 @@
 ---
-title: "Bärnfels Castle"
+title: Bärnfels Castle
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-74-156-13 (0) in Obertrubach, Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: cultural heritage monument D-4-74-156-13 (0) in Obertrubach, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7145
 longitude: 11.3437
 images:
-  - "/images-sites/baernfels-castle/01-d3164865-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bärnfels_Ruine_Burg-20080413-RM-112132.jpg/1200px-Bärnfels_Ruine_Burg-20080413-RM-112132.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine-Bärnfels_2021-04-11_06.jpg/1200px-Ruine-Bärnfels_2021-04-11_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ruine-Bärnfels_2021-04-11_08.jpg/1200px-Ruine-Bärnfels_2021-04-11_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ruine-Bärnfels_2021-04-11_05.jpg/1200px-Ruine-Bärnfels_2021-04-11_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ruine-Bärnfels_2021-04-11_02.jpg/1200px-Ruine-Bärnfels_2021-04-11_02.jpg
+image_srcset:
+  Bärnfels Ruine Burg-20080413-RM-112132.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bärnfels_Ruine_Burg-20080413-RM-112132.jpg/400px-Bärnfels_Ruine_Burg-20080413-RM-112132.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bärnfels_Ruine_Burg-20080413-RM-112132.jpg/800px-Bärnfels_Ruine_Burg-20080413-RM-112132.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bärnfels_Ruine_Burg-20080413-RM-112132.jpg/1200px-Bärnfels_Ruine_Burg-20080413-RM-112132.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bärnfels_Ruine_Burg-20080413-RM-112132.jpg/1920px-Bärnfels_Ruine_Burg-20080413-RM-112132.jpg
+  Ruine-Bärnfels 2021-04-11 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine-Bärnfels_2021-04-11_06.jpg/400px-Ruine-Bärnfels_2021-04-11_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine-Bärnfels_2021-04-11_06.jpg/800px-Ruine-Bärnfels_2021-04-11_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine-Bärnfels_2021-04-11_06.jpg/1200px-Ruine-Bärnfels_2021-04-11_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ruine-Bärnfels_2021-04-11_06.jpg/1920px-Ruine-Bärnfels_2021-04-11_06.jpg
+  Ruine-Bärnfels 2021-04-11 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ruine-Bärnfels_2021-04-11_08.jpg/400px-Ruine-Bärnfels_2021-04-11_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ruine-Bärnfels_2021-04-11_08.jpg/800px-Ruine-Bärnfels_2021-04-11_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ruine-Bärnfels_2021-04-11_08.jpg/1200px-Ruine-Bärnfels_2021-04-11_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ruine-Bärnfels_2021-04-11_08.jpg/1920px-Ruine-Bärnfels_2021-04-11_08.jpg
+  Ruine-Bärnfels 2021-04-11 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ruine-Bärnfels_2021-04-11_05.jpg/400px-Ruine-Bärnfels_2021-04-11_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ruine-Bärnfels_2021-04-11_05.jpg/800px-Ruine-Bärnfels_2021-04-11_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ruine-Bärnfels_2021-04-11_05.jpg/1200px-Ruine-Bärnfels_2021-04-11_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ruine-Bärnfels_2021-04-11_05.jpg/1920px-Ruine-Bärnfels_2021-04-11_05.jpg
+  Ruine-Bärnfels 2021-04-11 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ruine-Bärnfels_2021-04-11_02.jpg/400px-Ruine-Bärnfels_2021-04-11_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ruine-Bärnfels_2021-04-11_02.jpg/800px-Ruine-Bärnfels_2021-04-11_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ruine-Bärnfels_2021-04-11_02.jpg/1200px-Ruine-Bärnfels_2021-04-11_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ruine-Bärnfels_2021-04-11_02.jpg/1920px-Ruine-Bärnfels_2021-04-11_02.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1657371"
 description: "In the bustling city of Frankfurt am Main, a remarkable structure emerges from the urban landscape: St. Ignatius Church. Completed in 1963, this church ..."
 images:
-  - "/images-sites/st-ignatius/01-6739823c-1920w.webp"
-  - "/images-sites/st-ignatius/02-80e33a2c-1920w.webp"
-  - "/images-sites/st-ignatius/03-1580d909-1920w.webp"
+  - "/images/st-ignatius/01-6739823c-1920w.webp"
+  - "/images/st-ignatius/02-80e33a2c-1920w.webp"
+  - "/images/st-ignatius/03-1580d909-1920w.webp"
 ---
 
 ## Overview

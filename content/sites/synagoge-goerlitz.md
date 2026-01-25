@@ -13,7 +13,7 @@ regions:
 latitude: 51.15277778
 longitude: 14.99111111
 images:
-  - "/images-sites/synagoge-goerlitz/01-11e03387-800w.webp"
+  - "/images/synagoge-goerlitz/01-11e03387-800w.webp"
 ---
 
 ## Overview

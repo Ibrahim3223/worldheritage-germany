@@ -1,19 +1,49 @@
 ---
-title: "Bayerischer Platz"
+title: Bayerischer Platz
 date: 2026-01-23
 draft: false
-description: "square in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.489
 longitude: 13.3399
 images:
-  - "/images-sites/bayerischer-platz/01-067a84ed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2019-09-10-Bayerischer-Platz.jpg/1200px-2019-09-10-Bayerischer-Platz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg/1200px-2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayerisches_Viertel_Bayerischer_Platz.jpg/1200px-Bayerisches_Viertel_Bayerischer_Platz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg/1200px-2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_U-Bhf_Bayerischer_Platz.jpg/1200px-Berlin_U-Bhf_Bayerischer_Platz.jpg
+image_srcset:
+  2019-09-10-Bayerischer-Platz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2019-09-10-Bayerischer-Platz.jpg/400px-2019-09-10-Bayerischer-Platz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2019-09-10-Bayerischer-Platz.jpg/800px-2019-09-10-Bayerischer-Platz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2019-09-10-Bayerischer-Platz.jpg/1200px-2019-09-10-Bayerischer-Platz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2019-09-10-Bayerischer-Platz.jpg/1920px-2019-09-10-Bayerischer-Platz.jpg
+  2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg/400px-2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg/800px-2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg/1200px-2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg/1920px-2019-05-29-Wohnhaus-Bayerischer-Platz-A.jpg
+  Bayerisches Viertel Bayerischer Platz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayerisches_Viertel_Bayerischer_Platz.jpg/400px-Bayerisches_Viertel_Bayerischer_Platz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayerisches_Viertel_Bayerischer_Platz.jpg/800px-Bayerisches_Viertel_Bayerischer_Platz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayerisches_Viertel_Bayerischer_Platz.jpg/1200px-Bayerisches_Viertel_Bayerischer_Platz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayerisches_Viertel_Bayerischer_Platz.jpg/1920px-Bayerisches_Viertel_Bayerischer_Platz.jpg
+  2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg/400px-2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg/800px-2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg/1200px-2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg/1920px-2019-05-29-Wohnhaus-Bayerischer-Platz-B.jpg
+  Berlin U-Bhf Bayerischer Platz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_U-Bhf_Bayerischer_Platz.jpg/400px-Berlin_U-Bhf_Bayerischer_Platz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_U-Bhf_Bayerischer_Platz.jpg/800px-Berlin_U-Bhf_Bayerischer_Platz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_U-Bhf_Bayerischer_Platz.jpg/1200px-Berlin_U-Bhf_Bayerischer_Platz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_U-Bhf_Bayerischer_Platz.jpg/1920px-Berlin_U-Bhf_Bayerischer_Platz.jpg
 ---
 
 ## Overview

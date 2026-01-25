@@ -1,19 +1,49 @@
 ---
-title: "Hoher Hagen"
+title: Hoher Hagen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4752
 longitude: 9.76457
 images:
-  - "/images-sites/hoher-hagen/01-4c270f5a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Scheden_Panorama.jpg/1200px-Scheden_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg/1200px-Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hoher_Hagen_von_Scheden_aus.JPG/1200px-Hoher_Hagen_von_Scheden_aus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoher_Hagen_Dransfeld_von_Jühnde.jpg/1200px-Hoher_Hagen_Dransfeld_von_Jühnde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wasserscheide-unterirdisch.jpg/1200px-Wasserscheide-unterirdisch.jpg
+image_srcset:
+  Scheden Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Scheden_Panorama.jpg/400px-Scheden_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Scheden_Panorama.jpg/800px-Scheden_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Scheden_Panorama.jpg/1200px-Scheden_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Scheden_Panorama.jpg/1920px-Scheden_Panorama.jpg
+  Blick auf Atzenhausen und dem Hohen Hagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg/400px-Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg/800px-Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg/1200px-Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg/1920px-Blick_auf_Atzenhausen_und_dem_Hohen_Hagen.jpg
+  Hoher Hagen von Scheden aus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hoher_Hagen_von_Scheden_aus.JPG/400px-Hoher_Hagen_von_Scheden_aus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hoher_Hagen_von_Scheden_aus.JPG/800px-Hoher_Hagen_von_Scheden_aus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hoher_Hagen_von_Scheden_aus.JPG/1200px-Hoher_Hagen_von_Scheden_aus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hoher_Hagen_von_Scheden_aus.JPG/1920px-Hoher_Hagen_von_Scheden_aus.JPG
+  Hoher Hagen Dransfeld von Jühnde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoher_Hagen_Dransfeld_von_Jühnde.jpg/400px-Hoher_Hagen_Dransfeld_von_Jühnde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoher_Hagen_Dransfeld_von_Jühnde.jpg/800px-Hoher_Hagen_Dransfeld_von_Jühnde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoher_Hagen_Dransfeld_von_Jühnde.jpg/1200px-Hoher_Hagen_Dransfeld_von_Jühnde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hoher_Hagen_Dransfeld_von_Jühnde.jpg/1920px-Hoher_Hagen_Dransfeld_von_Jühnde.jpg
+  Wasserscheide-unterirdisch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wasserscheide-unterirdisch.jpg/400px-Wasserscheide-unterirdisch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wasserscheide-unterirdisch.jpg/800px-Wasserscheide-unterirdisch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wasserscheide-unterirdisch.jpg/1200px-Wasserscheide-unterirdisch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wasserscheide-unterirdisch.jpg/1920px-Wasserscheide-unterirdisch.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dichtergarten"
+title: Dichtergarten
 date: 2026-01-23
 draft: false
-description: "Parkanlage in München"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: Parkanlage in München
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.144064294
 longitude: 11.581718516
 images:
-  - "/images-sites/dichtergarten/01-1f6e102d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Finanzgarten_Muenchen-4.jpg/1200px-Finanzgarten_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Finanzgarten_Muenchen-7.jpg/1200px-Finanzgarten_Muenchen-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Finanzgarten_Muenchen-5.jpg/1200px-Finanzgarten_Muenchen-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Finanzgarten_Muenchen-11.jpg/1200px-Finanzgarten_Muenchen-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dichtergarten_Muenchen-1.jpg/1200px-Dichtergarten_Muenchen-1.jpg
+image_srcset:
+  Finanzgarten Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Finanzgarten_Muenchen-4.jpg/400px-Finanzgarten_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Finanzgarten_Muenchen-4.jpg/800px-Finanzgarten_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Finanzgarten_Muenchen-4.jpg/1200px-Finanzgarten_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Finanzgarten_Muenchen-4.jpg/1920px-Finanzgarten_Muenchen-4.jpg
+  Finanzgarten Muenchen-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Finanzgarten_Muenchen-7.jpg/400px-Finanzgarten_Muenchen-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Finanzgarten_Muenchen-7.jpg/800px-Finanzgarten_Muenchen-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Finanzgarten_Muenchen-7.jpg/1200px-Finanzgarten_Muenchen-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Finanzgarten_Muenchen-7.jpg/1920px-Finanzgarten_Muenchen-7.jpg
+  Finanzgarten Muenchen-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Finanzgarten_Muenchen-5.jpg/400px-Finanzgarten_Muenchen-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Finanzgarten_Muenchen-5.jpg/800px-Finanzgarten_Muenchen-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Finanzgarten_Muenchen-5.jpg/1200px-Finanzgarten_Muenchen-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Finanzgarten_Muenchen-5.jpg/1920px-Finanzgarten_Muenchen-5.jpg
+  Finanzgarten Muenchen-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Finanzgarten_Muenchen-11.jpg/400px-Finanzgarten_Muenchen-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Finanzgarten_Muenchen-11.jpg/800px-Finanzgarten_Muenchen-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Finanzgarten_Muenchen-11.jpg/1200px-Finanzgarten_Muenchen-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Finanzgarten_Muenchen-11.jpg/1920px-Finanzgarten_Muenchen-11.jpg
+  Dichtergarten Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dichtergarten_Muenchen-1.jpg/400px-Dichtergarten_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dichtergarten_Muenchen-1.jpg/800px-Dichtergarten_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dichtergarten_Muenchen-1.jpg/1200px-Dichtergarten_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dichtergarten_Muenchen-1.jpg/1920px-Dichtergarten_Muenchen-1.jpg
 ---
 
 ## Overview

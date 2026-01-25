@@ -13,7 +13,7 @@ regions:
 latitude: 47.5035
 longitude: 10.4315
 images:
-  - "/images-sites/kuehgundkopf/01-ac4cc8cf-800w.webp"
+  - "/images/kuehgundkopf/01-ac4cc8cf-800w.webp"
 ---
 
 ## Overview

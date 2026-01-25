@@ -1,21 +1,49 @@
 ---
-title: "Fürstliches Mausoleum"
+title: Fürstliches Mausoleum
 date: 2026-01-23
 draft: false
-description: "Mausoleum in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mausoleum"
+description: Mausoleum in Deutschland
+region: Germany
+country: Germany
+heritage_type: Mausoleum
 categories:
-  - "Mausoleum"
+- Mausoleum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.252202
 longitude: 9.859162
 images:
-  - "/images-sites/fuerstliches-mausoleum/01-75aff38d-800w.webp"
-  - "/images-sites/fuerstliches-mausoleum/01-d37c22a7-800w.webp"
-  - "/images-sites/fuerstliches-mausoleum/02-75aff38d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MausoleumHohenloheLangenburg-91.jpg/1200px-MausoleumHohenloheLangenburg-91.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG/1200px-Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MausoleumHohenloheLangenburg-92.jpg/1200px-MausoleumHohenloheLangenburg-92.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MausoleumLangenburgmsu-93.jpg/1200px-MausoleumLangenburgmsu-93.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mausoleumlangenburgmsu.JPG/1200px-Mausoleumlangenburgmsu.JPG
+image_srcset:
+  MausoleumHohenloheLangenburg-91.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MausoleumHohenloheLangenburg-91.jpg/400px-MausoleumHohenloheLangenburg-91.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MausoleumHohenloheLangenburg-91.jpg/800px-MausoleumHohenloheLangenburg-91.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MausoleumHohenloheLangenburg-91.jpg/1200px-MausoleumHohenloheLangenburg-91.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MausoleumHohenloheLangenburg-91.jpg/1920px-MausoleumHohenloheLangenburg-91.jpg
+  Fürstenmausoleum Stadthagen 04 Christus unter der Kuppel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG/400px-Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG/800px-Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG/1200px-Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG/1920px-Fürstenmausoleum_Stadthagen_04_Christus_unter_der_Kuppel.JPG
+  MausoleumHohenloheLangenburg-92.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MausoleumHohenloheLangenburg-92.jpg/400px-MausoleumHohenloheLangenburg-92.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MausoleumHohenloheLangenburg-92.jpg/800px-MausoleumHohenloheLangenburg-92.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MausoleumHohenloheLangenburg-92.jpg/1200px-MausoleumHohenloheLangenburg-92.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MausoleumHohenloheLangenburg-92.jpg/1920px-MausoleumHohenloheLangenburg-92.jpg
+  MausoleumLangenburgmsu-93.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MausoleumLangenburgmsu-93.jpg/400px-MausoleumLangenburgmsu-93.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MausoleumLangenburgmsu-93.jpg/800px-MausoleumLangenburgmsu-93.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MausoleumLangenburgmsu-93.jpg/1200px-MausoleumLangenburgmsu-93.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MausoleumLangenburgmsu-93.jpg/1920px-MausoleumLangenburgmsu-93.jpg
+  Mausoleumlangenburgmsu.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mausoleumlangenburgmsu.JPG/400px-Mausoleumlangenburgmsu.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mausoleumlangenburgmsu.JPG/800px-Mausoleumlangenburgmsu.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mausoleumlangenburgmsu.JPG/1200px-Mausoleumlangenburgmsu.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mausoleumlangenburgmsu.JPG/1920px-Mausoleumlangenburgmsu.JPG
 ---
 
 ## Overview

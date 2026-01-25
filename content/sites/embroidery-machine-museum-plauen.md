@@ -1,21 +1,43 @@
 ---
-title: "Embroidery Machine Museum, Plauen"
+title: Embroidery Machine Museum, Plauen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.492221
 longitude: 12.15834
 images:
-  - "/images-sites/embroidery-machine-museum-plauen/01-7608ce04-800w.webp"
-  - "/images-sites/embroidery-machine-museum-plauen/02-73e84932-800w.webp"
-  - "/images-sites/embroidery-machine-museum-plauen/03-dfa73629-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Plauen-Reusa,_Obstgartenweg_01.JPG/1200px-Plauen-Reusa,_Obstgartenweg_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20201004_Schaustickerei_Obstgartenstr_1.jpg/1200px-20201004_Schaustickerei_Obstgartenstr_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schaustickerei_Schiffchenstickmaschine.jpg/1200px-Schaustickerei_Schiffchenstickmaschine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/1200px-Schaustickerei_Haus01.jpg
+image_srcset:
+  Plauen-Reusa, Obstgartenweg 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Plauen-Reusa,_Obstgartenweg_01.JPG/400px-Plauen-Reusa,_Obstgartenweg_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Plauen-Reusa,_Obstgartenweg_01.JPG/800px-Plauen-Reusa,_Obstgartenweg_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Plauen-Reusa,_Obstgartenweg_01.JPG/1200px-Plauen-Reusa,_Obstgartenweg_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Plauen-Reusa,_Obstgartenweg_01.JPG/1920px-Plauen-Reusa,_Obstgartenweg_01.JPG
+  20201004 Schaustickerei Obstgartenstr 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20201004_Schaustickerei_Obstgartenstr_1.jpg/400px-20201004_Schaustickerei_Obstgartenstr_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20201004_Schaustickerei_Obstgartenstr_1.jpg/800px-20201004_Schaustickerei_Obstgartenstr_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20201004_Schaustickerei_Obstgartenstr_1.jpg/1200px-20201004_Schaustickerei_Obstgartenstr_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20201004_Schaustickerei_Obstgartenstr_1.jpg/1920px-20201004_Schaustickerei_Obstgartenstr_1.jpg
+  Schaustickerei Schiffchenstickmaschine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schaustickerei_Schiffchenstickmaschine.jpg/400px-Schaustickerei_Schiffchenstickmaschine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schaustickerei_Schiffchenstickmaschine.jpg/800px-Schaustickerei_Schiffchenstickmaschine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schaustickerei_Schiffchenstickmaschine.jpg/1200px-Schaustickerei_Schiffchenstickmaschine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Schaustickerei_Schiffchenstickmaschine.jpg/1920px-Schaustickerei_Schiffchenstickmaschine.jpg
+  Schaustickerei Haus01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/400px-Schaustickerei_Haus01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/800px-Schaustickerei_Haus01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/1200px-Schaustickerei_Haus01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Schaustickerei_Haus01.jpg/1920px-Schaustickerei_Haus01.jpg
 ---
 
 ## Overview

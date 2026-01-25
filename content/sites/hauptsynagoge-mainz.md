@@ -1,21 +1,49 @@
 ---
-title: "Hauptsynagoge Mainz"
+title: Hauptsynagoge Mainz
 date: 2026-01-23
 draft: false
-description: "demolished synagogue in Mainz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: demolished synagogue in Mainz, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.0087
 longitude: 8.25931
 images:
-  - "/images-sites/hauptsynagoge-mainz/01-bb628955-800w.webp"
-  - "/images-sites/hauptsynagoge-mainz/02-bc58ee46-800w.webp"
-  - "/images-sites/hauptsynagoge-mainz/03-2275ba62-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg/1200px-Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Invitation_to_tender_-_4th_price.jpg/1200px-Invitation_to_tender_-_4th_price.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/1200px-Hauptsynagoge_in_1912.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Postcard_-Hauptsynagoge_Mainz.jpg/1200px-Postcard_-Hauptsynagoge_Mainz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg/1200px-בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg
+image_srcset:
+  Mainz, Hauptsynagoge in der Hindenburgstraße, Ansichtskarte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg/400px-Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg/800px-Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg/1200px-Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg/1920px-Mainz,_Hauptsynagoge_in_der_Hindenburgstraße,_Ansichtskarte.jpg
+  Invitation to tender - 4th price.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Invitation_to_tender_-_4th_price.jpg/400px-Invitation_to_tender_-_4th_price.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Invitation_to_tender_-_4th_price.jpg/800px-Invitation_to_tender_-_4th_price.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Invitation_to_tender_-_4th_price.jpg/1200px-Invitation_to_tender_-_4th_price.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Invitation_to_tender_-_4th_price.jpg/1920px-Invitation_to_tender_-_4th_price.jpg
+  Hauptsynagoge in 1912.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/400px-Hauptsynagoge_in_1912.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/800px-Hauptsynagoge_in_1912.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/1200px-Hauptsynagoge_in_1912.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hauptsynagoge_in_1912.jpg/1920px-Hauptsynagoge_in_1912.jpg
+  Postcard -Hauptsynagoge Mainz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Postcard_-Hauptsynagoge_Mainz.jpg/400px-Postcard_-Hauptsynagoge_Mainz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Postcard_-Hauptsynagoge_Mainz.jpg/800px-Postcard_-Hauptsynagoge_Mainz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Postcard_-Hauptsynagoge_Mainz.jpg/1200px-Postcard_-Hauptsynagoge_Mainz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Postcard_-Hauptsynagoge_Mainz.jpg/1920px-Postcard_-Hauptsynagoge_Mainz.jpg
+  בית הכנסת המרכזי של מיינץ, 1912.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg/400px-בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg/800px-בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg/1200px-בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg/1920px-בית_הכנסת_המרכזי_של_מיינץ,_1912.jpg
 ---
 
 ## Overview

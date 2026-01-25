@@ -13,7 +13,7 @@ regions:
 latitude: 48.6894
 longitude: 9.39636
 images:
-  - "/images-sites/wernau-quarry-ponds/01-4fcd2c47-800w.webp"
+  - "/images/wernau-quarry-ponds/01-4fcd2c47-800w.webp"
 ---
 
 ## Overview

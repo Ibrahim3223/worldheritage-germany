@@ -1,19 +1,49 @@
 ---
-title: "Gentzrode"
+title: Gentzrode
 date: 2026-01-23
 draft: false
-description: "Anwesen in Neuruppin, Landkreis Ostprignitz-Ruppin, Brandenburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: Anwesen in Neuruppin, Landkreis Ostprignitz-Ruppin, Brandenburg
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.9792
 longitude: 12.7969
 images:
-  - "/images-sites/gentzrode/01-f597ddaa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gentzrode_Kornspeicher_Turmzimmer-01.jpg/1200px-Gentzrode_Kornspeicher_Turmzimmer-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gentzrode_Herrenhaus-06.jpg/1200px-Gentzrode_Herrenhaus-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1200px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg/1200px-Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentzrode_manor.jpg/1200px-Gentzrode_manor.jpg
+image_srcset:
+  Gentzrode Kornspeicher Turmzimmer-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gentzrode_Kornspeicher_Turmzimmer-01.jpg/400px-Gentzrode_Kornspeicher_Turmzimmer-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gentzrode_Kornspeicher_Turmzimmer-01.jpg/800px-Gentzrode_Kornspeicher_Turmzimmer-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gentzrode_Kornspeicher_Turmzimmer-01.jpg/1200px-Gentzrode_Kornspeicher_Turmzimmer-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gentzrode_Kornspeicher_Turmzimmer-01.jpg/1920px-Gentzrode_Kornspeicher_Turmzimmer-01.jpg
+  Gentzrode Herrenhaus-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gentzrode_Herrenhaus-06.jpg/400px-Gentzrode_Herrenhaus-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gentzrode_Herrenhaus-06.jpg/800px-Gentzrode_Herrenhaus-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gentzrode_Herrenhaus-06.jpg/1200px-Gentzrode_Herrenhaus-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gentzrode_Herrenhaus-06.jpg/1920px-Gentzrode_Herrenhaus-06.jpg
+  Gentzrode Herrenhaus und Kornspeicher.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/400px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/800px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1200px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gentzrode_Herrenhaus_und_Kornspeicher.jpg/1920px-Gentzrode_Herrenhaus_und_Kornspeicher.jpg
+  Loch im Dach des Herrenhauses Gentzrode.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg/400px-Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg/800px-Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg/1200px-Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg/1920px-Loch_im_Dach_des_Herrenhauses_Gentzrode.jpg
+  Gentzrode manor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentzrode_manor.jpg/400px-Gentzrode_manor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentzrode_manor.jpg/800px-Gentzrode_manor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentzrode_manor.jpg/1200px-Gentzrode_manor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentzrode_manor.jpg/1920px-Gentzrode_manor.jpg
 ---
 
 ## Overview

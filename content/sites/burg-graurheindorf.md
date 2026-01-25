@@ -1,19 +1,49 @@
 ---
-title: "Burg Graurheindorf"
+title: Burg Graurheindorf
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.760799
 longitude: 7.077343
 images:
-  - "/images-sites/burg-graurheindorf/01-c765bb9f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Graurheindorf,_Graurheindorfer_Burg_014--.jpg/1200px-Graurheindorf,_Graurheindorfer_Burg_014--.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bonn-Graurheindorf,_Burg_1.JPG/1200px-Bonn-Graurheindorf,_Burg_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bonn-Graurheindorf,_Burg_2.JPG/1200px-Bonn-Graurheindorf,_Burg_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bonn-Graurheindorf,_Burg_3.JPG/1200px-Bonn-Graurheindorf,_Burg_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bonn-Graurheindorf,_Burg_4.JPG/1200px-Bonn-Graurheindorf,_Burg_4.JPG
+image_srcset:
+  Graurheindorf, Graurheindorfer Burg 014--.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Graurheindorf,_Graurheindorfer_Burg_014--.jpg/400px-Graurheindorf,_Graurheindorfer_Burg_014--.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Graurheindorf,_Graurheindorfer_Burg_014--.jpg/800px-Graurheindorf,_Graurheindorfer_Burg_014--.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Graurheindorf,_Graurheindorfer_Burg_014--.jpg/1200px-Graurheindorf,_Graurheindorfer_Burg_014--.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Graurheindorf,_Graurheindorfer_Burg_014--.jpg/1920px-Graurheindorf,_Graurheindorfer_Burg_014--.jpg
+  Bonn-Graurheindorf, Burg 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bonn-Graurheindorf,_Burg_1.JPG/400px-Bonn-Graurheindorf,_Burg_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bonn-Graurheindorf,_Burg_1.JPG/800px-Bonn-Graurheindorf,_Burg_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bonn-Graurheindorf,_Burg_1.JPG/1200px-Bonn-Graurheindorf,_Burg_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bonn-Graurheindorf,_Burg_1.JPG/1920px-Bonn-Graurheindorf,_Burg_1.JPG
+  Bonn-Graurheindorf, Burg 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bonn-Graurheindorf,_Burg_2.JPG/400px-Bonn-Graurheindorf,_Burg_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bonn-Graurheindorf,_Burg_2.JPG/800px-Bonn-Graurheindorf,_Burg_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bonn-Graurheindorf,_Burg_2.JPG/1200px-Bonn-Graurheindorf,_Burg_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bonn-Graurheindorf,_Burg_2.JPG/1920px-Bonn-Graurheindorf,_Burg_2.JPG
+  Bonn-Graurheindorf, Burg 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bonn-Graurheindorf,_Burg_3.JPG/400px-Bonn-Graurheindorf,_Burg_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bonn-Graurheindorf,_Burg_3.JPG/800px-Bonn-Graurheindorf,_Burg_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bonn-Graurheindorf,_Burg_3.JPG/1200px-Bonn-Graurheindorf,_Burg_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bonn-Graurheindorf,_Burg_3.JPG/1920px-Bonn-Graurheindorf,_Burg_3.JPG
+  Bonn-Graurheindorf, Burg 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bonn-Graurheindorf,_Burg_4.JPG/400px-Bonn-Graurheindorf,_Burg_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bonn-Graurheindorf,_Burg_4.JPG/800px-Bonn-Graurheindorf,_Burg_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bonn-Graurheindorf,_Burg_4.JPG/1200px-Bonn-Graurheindorf,_Burg_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bonn-Graurheindorf,_Burg_4.JPG/1920px-Bonn-Graurheindorf,_Burg_4.JPG
 ---
 
 ## Overview

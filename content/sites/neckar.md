@@ -13,7 +13,7 @@ regions:
 latitude: 49.511944
 longitude: 8.437222
 images:
-  - "/images-sites/neckar/01-0b6fa39c-800w.webp"
+  - "/images/neckar/01-0b6fa39c-800w.webp"
 ---
 
 ## Overview

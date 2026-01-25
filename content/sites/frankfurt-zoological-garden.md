@@ -1,21 +1,49 @@
 ---
-title: "Frankfurt Zoological Garden"
+title: Frankfurt Zoological Garden
 date: 2026-01-24
 draft: false
-description: "zoo in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1156
 longitude: 8.70314
 images:
-  - "/images-sites/frankfurt-zoological-garden/01-5189fba0-800w.webp"
-  - "/images-sites/frankfurt-zoological-garden/02-1869ede3-800w.webp"
-  - "/images-sites/frankfurt-zoological-garden/03-32f3209d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vogelhaus_im_Teilpanorama.jpg/1200px-Vogelhaus_im_Teilpanorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo-ffm001.jpg/1200px-Zoo-ffm001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1200px-Exotarium,_Zoo_Frankfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stephan_Universalmaschine_1_(fcm).jpg/1200px-Stephan_Universalmaschine_1_(fcm).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Frankfurt_peng2.JPG/1200px-Zoo_Frankfurt_peng2.JPG
+image_srcset:
+  Vogelhaus im Teilpanorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vogelhaus_im_Teilpanorama.jpg/400px-Vogelhaus_im_Teilpanorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vogelhaus_im_Teilpanorama.jpg/800px-Vogelhaus_im_Teilpanorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vogelhaus_im_Teilpanorama.jpg/1200px-Vogelhaus_im_Teilpanorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vogelhaus_im_Teilpanorama.jpg/1920px-Vogelhaus_im_Teilpanorama.jpg
+  Zoo-ffm001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo-ffm001.jpg/400px-Zoo-ffm001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo-ffm001.jpg/800px-Zoo-ffm001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo-ffm001.jpg/1200px-Zoo-ffm001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zoo-ffm001.jpg/1920px-Zoo-ffm001.jpg
+  Exotarium, Zoo Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/400px-Exotarium,_Zoo_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/800px-Exotarium,_Zoo_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1200px-Exotarium,_Zoo_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Exotarium,_Zoo_Frankfurt.jpg/1920px-Exotarium,_Zoo_Frankfurt.jpg
+  Stephan Universalmaschine 1 (fcm).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stephan_Universalmaschine_1_(fcm).jpg/400px-Stephan_Universalmaschine_1_(fcm).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stephan_Universalmaschine_1_(fcm).jpg/800px-Stephan_Universalmaschine_1_(fcm).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stephan_Universalmaschine_1_(fcm).jpg/1200px-Stephan_Universalmaschine_1_(fcm).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Stephan_Universalmaschine_1_(fcm).jpg/1920px-Stephan_Universalmaschine_1_(fcm).jpg
+  Zoo Frankfurt peng2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Frankfurt_peng2.JPG/400px-Zoo_Frankfurt_peng2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Frankfurt_peng2.JPG/800px-Zoo_Frankfurt_peng2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Frankfurt_peng2.JPG/1200px-Zoo_Frankfurt_peng2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Zoo_Frankfurt_peng2.JPG/1920px-Zoo_Frankfurt_peng2.JPG
 ---
 
 ## Overview

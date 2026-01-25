@@ -1,21 +1,49 @@
 ---
-title: "Dagebüll lighthouse"
+title: Dagebüll lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.7252801
 longitude: 8.6998737
 images:
-  - "/images-sites/dagebuell-lighthouse/01-538aa94d-800w.webp"
-  - "/images-sites/dagebuell-lighthouse/02-258f0e01-800w.webp"
-  - "/images-sites/dagebuell-lighthouse/03-6355423c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/13-04-21-dagebuell-by-RalfR-071.jpg/1200px-13-04-21-dagebuell-by-RalfR-071.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/13-04-21-dagebuell-by-RalfR-073.jpg/1200px-13-04-21-dagebuell-by-RalfR-073.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/13-04-21-dagebuell-by-RalfR-075.jpg/1200px-13-04-21-dagebuell-by-RalfR-075.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dagebüll_old_lighthouse.jpg/1200px-Dagebüll_old_lighthouse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg/1200px-Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg
+image_srcset:
+  13-04-21-dagebuell-by-RalfR-071.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/13-04-21-dagebuell-by-RalfR-071.jpg/400px-13-04-21-dagebuell-by-RalfR-071.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/13-04-21-dagebuell-by-RalfR-071.jpg/800px-13-04-21-dagebuell-by-RalfR-071.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/13-04-21-dagebuell-by-RalfR-071.jpg/1200px-13-04-21-dagebuell-by-RalfR-071.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/13-04-21-dagebuell-by-RalfR-071.jpg/1920px-13-04-21-dagebuell-by-RalfR-071.jpg
+  13-04-21-dagebuell-by-RalfR-073.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/13-04-21-dagebuell-by-RalfR-073.jpg/400px-13-04-21-dagebuell-by-RalfR-073.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/13-04-21-dagebuell-by-RalfR-073.jpg/800px-13-04-21-dagebuell-by-RalfR-073.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/13-04-21-dagebuell-by-RalfR-073.jpg/1200px-13-04-21-dagebuell-by-RalfR-073.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/13-04-21-dagebuell-by-RalfR-073.jpg/1920px-13-04-21-dagebuell-by-RalfR-073.jpg
+  13-04-21-dagebuell-by-RalfR-075.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/13-04-21-dagebuell-by-RalfR-075.jpg/400px-13-04-21-dagebuell-by-RalfR-075.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/13-04-21-dagebuell-by-RalfR-075.jpg/800px-13-04-21-dagebuell-by-RalfR-075.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/13-04-21-dagebuell-by-RalfR-075.jpg/1200px-13-04-21-dagebuell-by-RalfR-075.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/13-04-21-dagebuell-by-RalfR-075.jpg/1920px-13-04-21-dagebuell-by-RalfR-075.jpg
+  Dagebüll old lighthouse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dagebüll_old_lighthouse.jpg/400px-Dagebüll_old_lighthouse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dagebüll_old_lighthouse.jpg/800px-Dagebüll_old_lighthouse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dagebüll_old_lighthouse.jpg/1200px-Dagebüll_old_lighthouse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dagebüll_old_lighthouse.jpg/1920px-Dagebüll_old_lighthouse.jpg
+  Lighthouse - DEU - Dagebuell - alter Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg/400px-Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg/800px-Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg/1200px-Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg/1920px-Lighthouse_-_DEU_-_Dagebuell_-_alter_Turm.jpg
 ---
 
 ## Overview

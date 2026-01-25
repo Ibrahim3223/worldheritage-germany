@@ -1,19 +1,50 @@
 ---
-title: "Church in Banzkow"
-site_name: "Church in Banzkow"
-slug: "church-in-banzkow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Banzkow
+site_name: Church in Banzkow
+slug: church-in-banzkow
+region: Mecklenburg-Vorpommern
 latitude: 53.5228
 longitude: 11.5167
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244109"
-description: "In the quaint village of Banzkow, Germany, the Church in Banzkow stands as a notable example of Gothic Revival architecture. This church is not merely a..."
+- cultural site
+wikidata_id: Q1244109
+description: In the quaint village of Banzkow, Germany, the Church in Banzkow stands
+  as a notable example of Gothic Revival architecture. This church is not merely a...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Banzkow%20Dorfkirche.jpg/1200px-Banzkow%20Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banzkow_Kirche_2009-03-31_002.jpg/1200px-Banzkow_Kirche_2009-03-31_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Banzkow.jpg/1200px-Banzkow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_Banzkow.jpg/1200px-Kirche_Banzkow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1200px-Banzkow_Dorfkirche.jpg
+image_srcset:
+  Banzkow%20Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Banzkow%20Dorfkirche.jpg/400px-Banzkow%20Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Banzkow%20Dorfkirche.jpg/800px-Banzkow%20Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Banzkow%20Dorfkirche.jpg/1200px-Banzkow%20Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Banzkow%20Dorfkirche.jpg/1920px-Banzkow%20Dorfkirche.jpg
+  Banzkow Kirche 2009-03-31 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banzkow_Kirche_2009-03-31_002.jpg/400px-Banzkow_Kirche_2009-03-31_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banzkow_Kirche_2009-03-31_002.jpg/800px-Banzkow_Kirche_2009-03-31_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banzkow_Kirche_2009-03-31_002.jpg/1200px-Banzkow_Kirche_2009-03-31_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banzkow_Kirche_2009-03-31_002.jpg/1920px-Banzkow_Kirche_2009-03-31_002.jpg
+  Banzkow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Banzkow.jpg/400px-Banzkow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Banzkow.jpg/800px-Banzkow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Banzkow.jpg/1200px-Banzkow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Banzkow.jpg/1920px-Banzkow.jpg
+  Kirche Banzkow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_Banzkow.jpg/400px-Kirche_Banzkow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_Banzkow.jpg/800px-Kirche_Banzkow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_Banzkow.jpg/1200px-Kirche_Banzkow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_Banzkow.jpg/1920px-Kirche_Banzkow.jpg
+  Banzkow Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/400px-Banzkow_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/800px-Banzkow_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1200px-Banzkow_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Banzkow_Dorfkirche.jpg/1920px-Banzkow_Dorfkirche.jpg
 ---
 
 ## Overview

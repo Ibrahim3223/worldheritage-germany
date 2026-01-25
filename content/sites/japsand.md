@@ -1,19 +1,49 @@
 ---
-title: "Japsand"
+title: Japsand
 date: 2026-01-23
 draft: false
-description: "sand bar in North Sea"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: sand bar in North Sea
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.566944444
 longitude: 8.468333333
 images:
-  - "/images-sites/japsand/01-a8d0d18d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1200px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg/1200px-20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg/1200px-20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20160726-1305-C350D-6835_Japsand.jpg/1200px-20160726-1305-C350D-6835_Japsand.jpg
+image_srcset:
+  Luftaufnahmen Nordseekueste 2012-05-by-RaBoe-105.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg/400px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg/800px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg/1200px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg/1920px-Luftaufnahmen_Nordseekueste_2012-05-by-RaBoe-105.jpg
+  Süderoogsand, Norderoogsand, Japsand, and Amrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/400px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/800px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1200px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1920px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+  20160726-1228-C350D-6779 Hauke Haien am Japsand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg/400px-20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg/800px-20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg/1200px-20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg/1920px-20160726-1228-C350D-6779_Hauke_Haien_am_Japsand.jpg
+  20160726-1236-C350D-6792 Japsand Blickrichtung Amrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg/400px-20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg/800px-20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg/1200px-20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg/1920px-20160726-1236-C350D-6792_Japsand_Blickrichtung_Amrum.jpg
+  20160726-1305-C350D-6835 Japsand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20160726-1305-C350D-6835_Japsand.jpg/400px-20160726-1305-C350D-6835_Japsand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20160726-1305-C350D-6835_Japsand.jpg/800px-20160726-1305-C350D-6835_Japsand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20160726-1305-C350D-6835_Japsand.jpg/1200px-20160726-1305-C350D-6835_Japsand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20160726-1305-C350D-6835_Japsand.jpg/1920px-20160726-1305-C350D-6835_Japsand.jpg
 ---
 
 ## Overview

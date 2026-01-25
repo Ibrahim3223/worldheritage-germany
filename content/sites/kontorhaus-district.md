@@ -13,7 +13,7 @@ regions:
 latitude: 53.54888889
 longitude: 10.00166667
 images:
-  - "/images-sites/kontorhaus-district/01-21691ec6-800w.webp"
+  - "/images/kontorhaus-district/01-21691ec6-800w.webp"
 ---
 
 ## Overview

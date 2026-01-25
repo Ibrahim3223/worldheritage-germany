@@ -13,7 +13,7 @@ regions:
 latitude: 52.516599
 longitude: 13.3984872
 images:
-  - "/images-sites/statue-of-albrecht-thaer/01-ca77bcfe-800w.webp"
+  - "/images/statue-of-albrecht-thaer/01-ca77bcfe-800w.webp"
 ---
 
 ## Overview

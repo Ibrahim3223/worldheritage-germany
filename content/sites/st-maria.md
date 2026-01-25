@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1448091"
 description: "In the heart of Hannover, Germany, stands St. Maria, a Catholic church building that showcases the beauty of Gothic Revival architecture. Built in 1896,..."
 images:
-  - "/images-sites/st-maria/01-b632b8b1-1920w.webp"
-  - "/images-sites/st-maria/01-ea170ab9-1920w.webp"
-  - "/images-sites/st-maria/02-1b06ae27-1920w.webp"
+  - "/images/st-maria/01-b632b8b1-1920w.webp"
+  - "/images/st-maria/01-ea170ab9-1920w.webp"
+  - "/images/st-maria/02-1b06ae27-1920w.webp"
 ---
 
 ## Overview

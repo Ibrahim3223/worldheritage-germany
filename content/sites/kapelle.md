@@ -13,9 +13,9 @@ regions:
 latitude: 47.8954
 longitude: 10.1444
 images:
-  - "/images-sites/kapelle/01-90967262-800w.webp"
-  - "/images-sites/kapelle/02-d250d4ba-800w.webp"
-  - "/images-sites/kapelle/03-41af4433-800w.webp"
+  - "/images/kapelle/01-90967262-800w.webp"
+  - "/images/kapelle/02-d250d4ba-800w.webp"
+  - "/images/kapelle/03-41af4433-800w.webp"
 ---
 
 ## Overview

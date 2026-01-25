@@ -13,7 +13,7 @@ regions:
 latitude: 54.9657
 longitude: 8.33781
 images:
-  - "/images-sites/rotes-kliff-lighthouse/01-0d479881-800w.webp"
+  - "/images/rotes-kliff-lighthouse/01-0d479881-800w.webp"
 ---
 
 ## Overview

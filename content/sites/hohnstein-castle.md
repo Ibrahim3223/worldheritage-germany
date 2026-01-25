@@ -1,29 +1,49 @@
 ---
-title: "Hohnstein Castle"
+title: Hohnstein Castle
 date: 2026-01-23
 draft: false
-description: "Germany castle ruins"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Germany castle ruins
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.57
 longitude: 10.8375
-
-# Images
 images:
-  - "/images-sites/hohnstein-castle/01-5a1df60e-800w.webp"
-  - "/images-sites/hohnstein-castle/02-4df04c00-800w.webp"
-  - "/images-sites/hohnstein-castle/03-b6520f65-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg/1200px-19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19880514085NR_Hohnstein_Burg.jpg/1200px-19880514085NR_Hohnstein_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20060305185DR_Hohnstein_Burg_Hohnstein.jpg/1200px-20060305185DR_Hohnstein_Burg_Hohnstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/1200px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hohnstein1.jpg/1200px-Hohnstein1.jpg
+image_srcset:
+  19880514160DR Hohnstein von der Hocksteinaussicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg/400px-19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg/800px-19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg/1200px-19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg/1920px-19880514160DR_Hohnstein_von_der_Hocksteinaussicht.jpg
+  19880514085NR Hohnstein Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19880514085NR_Hohnstein_Burg.jpg/400px-19880514085NR_Hohnstein_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19880514085NR_Hohnstein_Burg.jpg/800px-19880514085NR_Hohnstein_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19880514085NR_Hohnstein_Burg.jpg/1200px-19880514085NR_Hohnstein_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19880514085NR_Hohnstein_Burg.jpg/1920px-19880514085NR_Hohnstein_Burg.jpg
+  20060305185DR Hohnstein Burg Hohnstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20060305185DR_Hohnstein_Burg_Hohnstein.jpg/400px-20060305185DR_Hohnstein_Burg_Hohnstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20060305185DR_Hohnstein_Burg_Hohnstein.jpg/800px-20060305185DR_Hohnstein_Burg_Hohnstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20060305185DR_Hohnstein_Burg_Hohnstein.jpg/1200px-20060305185DR_Hohnstein_Burg_Hohnstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20060305185DR_Hohnstein_Burg_Hohnstein.jpg/1920px-20060305185DR_Hohnstein_Burg_Hohnstein.jpg
+  Burg Hohnstein in der Sächsischen Schweiz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/400px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/800px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/1200px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg/1920px-Burg_Hohnstein_in_der_Sächsischen_Schweiz.jpg
+  Hohnstein1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hohnstein1.jpg/400px-Hohnstein1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hohnstein1.jpg/800px-Hohnstein1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hohnstein1.jpg/1200px-Hohnstein1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hohnstein1.jpg/1920px-Hohnstein1.jpg
 ---
 
 ## Overview

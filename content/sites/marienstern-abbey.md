@@ -13,9 +13,9 @@ regions:
 latitude: 51.436
 longitude: 13.2193
 images:
-  - "/images-sites/marienstern-abbey/01-800bedf8-800w.webp"
-  - "/images-sites/marienstern-abbey/02-08892ce9-800w.webp"
-  - "/images-sites/marienstern-abbey/03-ab424e3b-800w.webp"
+  - "/images/marienstern-abbey/01-800bedf8-800w.webp"
+  - "/images/marienstern-abbey/02-08892ce9-800w.webp"
+  - "/images/marienstern-abbey/03-ab424e3b-800w.webp"
 ---
 
 ## Overview

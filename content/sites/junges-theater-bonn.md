@@ -1,21 +1,43 @@
 ---
-title: "Junges Theater Bonn"
+title: Junges Theater Bonn
 date: 2026-01-24
 draft: false
-description: "theatre in North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7365
 longitude: 7.11686
 images:
-  - "/images-sites/junges-theater-bonn/01-24dfb7d5-800w.webp"
-  - "/images-sites/junges-theater-bonn/02-e8b32cc7-800w.webp"
-  - "/images-sites/junges-theater-bonn/03-05c2d5c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/1200px-2018-03-18-bonn-beuel-junges-theater-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Junges_Theater18.jpg/1200px-Junges_Theater18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JungesTheaterBonn2_haus_aussen.jpg/1200px-JungesTheaterBonn2_haus_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JungesTheaterBonn_haus_aussen.jpg/1200px-JungesTheaterBonn_haus_aussen.jpg
+image_srcset:
+  2018-03-18-bonn-beuel-junges-theater-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/400px-2018-03-18-bonn-beuel-junges-theater-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/800px-2018-03-18-bonn-beuel-junges-theater-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/1200px-2018-03-18-bonn-beuel-junges-theater-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2018-03-18-bonn-beuel-junges-theater-01.jpg/1920px-2018-03-18-bonn-beuel-junges-theater-01.jpg
+  Junges Theater18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Junges_Theater18.jpg/400px-Junges_Theater18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Junges_Theater18.jpg/800px-Junges_Theater18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Junges_Theater18.jpg/1200px-Junges_Theater18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Junges_Theater18.jpg/1920px-Junges_Theater18.jpg
+  JungesTheaterBonn2 haus aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JungesTheaterBonn2_haus_aussen.jpg/400px-JungesTheaterBonn2_haus_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JungesTheaterBonn2_haus_aussen.jpg/800px-JungesTheaterBonn2_haus_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JungesTheaterBonn2_haus_aussen.jpg/1200px-JungesTheaterBonn2_haus_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JungesTheaterBonn2_haus_aussen.jpg/1920px-JungesTheaterBonn2_haus_aussen.jpg
+  JungesTheaterBonn haus aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JungesTheaterBonn_haus_aussen.jpg/400px-JungesTheaterBonn_haus_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JungesTheaterBonn_haus_aussen.jpg/800px-JungesTheaterBonn_haus_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JungesTheaterBonn_haus_aussen.jpg/1200px-JungesTheaterBonn_haus_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JungesTheaterBonn_haus_aussen.jpg/1920px-JungesTheaterBonn_haus_aussen.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.7386
 longitude: 10.7933
 images:
-  - "/images-sites/koenigshuette-dam/01-13566695-800w.webp"
+  - "/images/koenigshuette-dam/01-13566695-800w.webp"
 ---
 
 ## Overview

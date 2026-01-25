@@ -1,23 +1,50 @@
 ---
-title: "Ardorf Protestant Church"
-site_name: "Ardorf Protestant Church"
-slug: "ardorf-protestant-church"
-region: "Lower Saxony"
-
-# Location
+title: Ardorf Protestant Church
+site_name: Ardorf Protestant Church
+slug: ardorf-protestant-church
+region: Lower Saxony
 latitude: 53.5356
 longitude: 7.6895
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q140223"
-description: "Ardorf Protestant Church is a remarkable example of Romanesque architecture, situated in the Wittmund region of Germany. This church, constructed primar..."
+- cultural site
+wikidata_id: Q140223
+description: Ardorf Protestant Church is a remarkable example of Romanesque architecture,
+  situated in the Wittmund region of Germany. This church, constructed primar...
 images:
-  - "/images-sites/ardorf-protestant-church/01-79033ea6-1920w.webp"
-  - "/images-sites/ardorf-protestant-church/02-279e578d-1920w.webp"
-  - "/images-sites/ardorf-protestant-church/03-4f2b5b8a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wittmund%2C%20Ardorf%2C%20Kirche.jpg/1200px-Wittmund%2C%20Ardorf%2C%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wtm-ardorf-Kircheeingang.jpg/1200px-Wtm-ardorf-Kircheeingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orgel_Ardorf.jpg/1200px-Orgel_Ardorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glockenturm_der_Ardorfer_Kirche.JPG/1200px-Glockenturm_der_Ardorfer_Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1200px-Wittmund,_Ardorf,_Kirche.jpg
+image_srcset:
+  Wittmund%2C%20Ardorf%2C%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wittmund%2C%20Ardorf%2C%20Kirche.jpg/400px-Wittmund%2C%20Ardorf%2C%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wittmund%2C%20Ardorf%2C%20Kirche.jpg/800px-Wittmund%2C%20Ardorf%2C%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wittmund%2C%20Ardorf%2C%20Kirche.jpg/1200px-Wittmund%2C%20Ardorf%2C%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wittmund%2C%20Ardorf%2C%20Kirche.jpg/1920px-Wittmund%2C%20Ardorf%2C%20Kirche.jpg
+  Wtm-ardorf-Kircheeingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wtm-ardorf-Kircheeingang.jpg/400px-Wtm-ardorf-Kircheeingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wtm-ardorf-Kircheeingang.jpg/800px-Wtm-ardorf-Kircheeingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wtm-ardorf-Kircheeingang.jpg/1200px-Wtm-ardorf-Kircheeingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wtm-ardorf-Kircheeingang.jpg/1920px-Wtm-ardorf-Kircheeingang.jpg
+  Orgel Ardorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orgel_Ardorf.jpg/400px-Orgel_Ardorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orgel_Ardorf.jpg/800px-Orgel_Ardorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orgel_Ardorf.jpg/1200px-Orgel_Ardorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orgel_Ardorf.jpg/1920px-Orgel_Ardorf.jpg
+  Glockenturm der Ardorfer Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glockenturm_der_Ardorfer_Kirche.JPG/400px-Glockenturm_der_Ardorfer_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glockenturm_der_Ardorfer_Kirche.JPG/800px-Glockenturm_der_Ardorfer_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glockenturm_der_Ardorfer_Kirche.JPG/1200px-Glockenturm_der_Ardorfer_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glockenturm_der_Ardorfer_Kirche.JPG/1920px-Glockenturm_der_Ardorfer_Kirche.JPG
+  Wittmund, Ardorf, Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/400px-Wittmund,_Ardorf,_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/800px-Wittmund,_Ardorf,_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1200px-Wittmund,_Ardorf,_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Wittmund,_Ardorf,_Kirche.jpg/1920px-Wittmund,_Ardorf,_Kirche.jpg
 ---
 
 ## Overview

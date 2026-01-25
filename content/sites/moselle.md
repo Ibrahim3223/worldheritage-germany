@@ -13,7 +13,7 @@ regions:
 latitude: 50.3661
 longitude: 7.6076
 images:
-  - "/images-sites/moselle/01-5c07a5de-800w.webp"
+  - "/images/moselle/01-5c07a5de-800w.webp"
 ---
 
 ## Overview

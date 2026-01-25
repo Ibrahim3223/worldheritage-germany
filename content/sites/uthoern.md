@@ -13,7 +13,7 @@ regions:
 latitude: 55.035833333
 longitude: 8.430277777
 images:
-  - "/images-sites/uthoern/01-941f9e26-800w.webp"
+  - "/images/uthoern/01-941f9e26-800w.webp"
 ---
 
 ## Overview

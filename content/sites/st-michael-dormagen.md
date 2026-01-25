@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1298333"
 description: "St. Michael in Dormagen, Germany, is a remarkable church that stands as a modern example of Romanesque architecture. Founded in 1970, it offers a unique..."
 images:
-  - "/images-sites/st-michael-dormagen/01-1063c02a-1920w.webp"
-  - "/images-sites/st-michael-dormagen/02-2966ab1d-1920w.webp"
-  - "/images-sites/st-michael-dormagen/03-a289a233-1920w.webp"
+  - "/images/st-michael-dormagen/01-1063c02a-1920w.webp"
+  - "/images/st-michael-dormagen/02-2966ab1d-1920w.webp"
+  - "/images/st-michael-dormagen/03-a289a233-1920w.webp"
 ---
 
 ## Overview

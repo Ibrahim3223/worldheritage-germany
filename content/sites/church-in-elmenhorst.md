@@ -1,19 +1,50 @@
 ---
-title: "Church in Elmenhorst"
-site_name: "Church in Elmenhorst"
-slug: "church-in-elmenhorst"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Elmenhorst
+site_name: Church in Elmenhorst
+slug: church-in-elmenhorst
+region: Schleswig-Holstein
 latitude: 53.99440108220321
 longitude: 11.104141012601929
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244263"
-description: "In the quaint village of Elmenhorst, Germany, a remarkable church stands as a symbol of the regions rich heritage. The Church in Elmenhorst, characteriz..."
+- cultural site
+wikidata_id: Q1244263
+description: In the quaint village of Elmenhorst, Germany, a remarkable church stands
+  as a symbol of the regions rich heritage. The Church in Elmenhorst, characteriz...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elmenhorst%20sued2.jpg/1200px-Elmenhorst%20sued2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Elmenhorst_Kalkhorst_Orgel_(01).jpg/1200px-Elmenhorst_Kalkhorst_Orgel_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elmenhorst_Kalkhorst_Orgel_(02).jpg/1200px-Elmenhorst_Kalkhorst_Orgel_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kirche_in_Elmenhorst.JPG/1200px-Kirche_in_Elmenhorst.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elmenhorst_west.jpg/1200px-Elmenhorst_west.jpg
+image_srcset:
+  Elmenhorst%20sued2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elmenhorst%20sued2.jpg/400px-Elmenhorst%20sued2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elmenhorst%20sued2.jpg/800px-Elmenhorst%20sued2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elmenhorst%20sued2.jpg/1200px-Elmenhorst%20sued2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elmenhorst%20sued2.jpg/1920px-Elmenhorst%20sued2.jpg
+  Elmenhorst Kalkhorst Orgel (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Elmenhorst_Kalkhorst_Orgel_(01).jpg/400px-Elmenhorst_Kalkhorst_Orgel_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Elmenhorst_Kalkhorst_Orgel_(01).jpg/800px-Elmenhorst_Kalkhorst_Orgel_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Elmenhorst_Kalkhorst_Orgel_(01).jpg/1200px-Elmenhorst_Kalkhorst_Orgel_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Elmenhorst_Kalkhorst_Orgel_(01).jpg/1920px-Elmenhorst_Kalkhorst_Orgel_(01).jpg
+  Elmenhorst Kalkhorst Orgel (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elmenhorst_Kalkhorst_Orgel_(02).jpg/400px-Elmenhorst_Kalkhorst_Orgel_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elmenhorst_Kalkhorst_Orgel_(02).jpg/800px-Elmenhorst_Kalkhorst_Orgel_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elmenhorst_Kalkhorst_Orgel_(02).jpg/1200px-Elmenhorst_Kalkhorst_Orgel_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elmenhorst_Kalkhorst_Orgel_(02).jpg/1920px-Elmenhorst_Kalkhorst_Orgel_(02).jpg
+  Kirche in Elmenhorst.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kirche_in_Elmenhorst.JPG/400px-Kirche_in_Elmenhorst.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kirche_in_Elmenhorst.JPG/800px-Kirche_in_Elmenhorst.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kirche_in_Elmenhorst.JPG/1200px-Kirche_in_Elmenhorst.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kirche_in_Elmenhorst.JPG/1920px-Kirche_in_Elmenhorst.JPG
+  Elmenhorst west.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elmenhorst_west.jpg/400px-Elmenhorst_west.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elmenhorst_west.jpg/800px-Elmenhorst_west.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elmenhorst_west.jpg/1200px-Elmenhorst_west.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elmenhorst_west.jpg/1920px-Elmenhorst_west.jpg
 ---
 
 ## Overview

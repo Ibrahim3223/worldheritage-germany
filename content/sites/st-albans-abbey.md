@@ -13,8 +13,8 @@ regions:
 latitude: 49.99
 longitude: 8.28
 images:
-  - "/images-sites/st-albans-abbey/02-d0d7ae15-800w.webp"
-  - "/images-sites/st-albans-abbey/03-b78fd641-800w.webp"
+  - "/images/st-albans-abbey/02-d0d7ae15-800w.webp"
+  - "/images/st-albans-abbey/03-b78fd641-800w.webp"
 ---
 
 ## Overview

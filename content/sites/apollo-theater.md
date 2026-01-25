@@ -1,19 +1,50 @@
 ---
-title: "Apollo-Theater"
+title: Apollo-Theater
 date: 2026-01-24
 draft: false
-description: "theatre in Siegen, Germany, built 2005-2007 on the site of the former Apollo cinema, with only the older building's facade remaining"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Siegen, Germany, built 2005-2007 on the site of the former
+  Apollo cinema, with only the older building's facade remaining
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.87398
 longitude: 8.01758
 images:
-  - "/images-sites/apollo-theater/01-20da2caa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BEA_0019A.jpg/1200px-BEA_0019A.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apollo_Theatre_(NYC).jpg/1200px-Apollo_Theatre_(NYC).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Apollo_Theater,_Harlem_(2009).jpg/1200px-Apollo_Theater,_Harlem_(2009).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg/1200px-Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Apollo_Theater,_Harlem_(November_2006).jpg/1200px-Apollo_Theater,_Harlem_(November_2006).jpg
+image_srcset:
+  BEA 0019A.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BEA_0019A.jpg/400px-BEA_0019A.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BEA_0019A.jpg/800px-BEA_0019A.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BEA_0019A.jpg/1200px-BEA_0019A.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BEA_0019A.jpg/1920px-BEA_0019A.jpg
+  Apollo Theatre (NYC).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apollo_Theatre_(NYC).jpg/400px-Apollo_Theatre_(NYC).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apollo_Theatre_(NYC).jpg/800px-Apollo_Theatre_(NYC).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apollo_Theatre_(NYC).jpg/1200px-Apollo_Theatre_(NYC).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Apollo_Theatre_(NYC).jpg/1920px-Apollo_Theatre_(NYC).jpg
+  Apollo Theater, Harlem (2009).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Apollo_Theater,_Harlem_(2009).jpg/400px-Apollo_Theater,_Harlem_(2009).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Apollo_Theater,_Harlem_(2009).jpg/800px-Apollo_Theater,_Harlem_(2009).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Apollo_Theater,_Harlem_(2009).jpg/1200px-Apollo_Theater,_Harlem_(2009).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Apollo_Theater,_Harlem_(2009).jpg/1920px-Apollo_Theater,_Harlem_(2009).jpg
+  Apollo Theater bill Adolph Sixto 30 AUG 1915 "After the War, What?".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg/400px-Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg/800px-Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg/1200px-Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg/1920px-Apollo_Theater_bill_Adolph_Sixto_30_AUG_1915_"After_the_War,_What?".jpg
+  Apollo Theater, Harlem (November 2006).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Apollo_Theater,_Harlem_(November_2006).jpg/400px-Apollo_Theater,_Harlem_(November_2006).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Apollo_Theater,_Harlem_(November_2006).jpg/800px-Apollo_Theater,_Harlem_(November_2006).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Apollo_Theater,_Harlem_(November_2006).jpg/1200px-Apollo_Theater,_Harlem_(November_2006).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Apollo_Theater,_Harlem_(November_2006).jpg/1920px-Apollo_Theater,_Harlem_(November_2006).jpg
 ---
 
 ## Overview

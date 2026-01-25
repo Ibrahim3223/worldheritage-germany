@@ -13,8 +13,8 @@ regions:
 latitude: 47.5264
 longitude: 10.9185
 images:
-  - "/images-sites/kreuzspitze/01-f4ae9c7a-800w.webp"
-  - "/images-sites/kreuzspitze/03-e888aae1-800w.webp"
+  - "/images/kreuzspitze/01-f4ae9c7a-800w.webp"
+  - "/images/kreuzspitze/03-e888aae1-800w.webp"
 ---
 
 ## Overview

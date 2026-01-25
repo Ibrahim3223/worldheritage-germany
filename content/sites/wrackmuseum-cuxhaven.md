@@ -13,7 +13,7 @@ regions:
 latitude: 53.8747
 longitude: 8.65389
 images:
-  - "/images-sites/wrackmuseum-cuxhaven/01-7f1d16cb-800w.webp"
+  - "/images/wrackmuseum-cuxhaven/01-7f1d16cb-800w.webp"
 ---
 
 ## Overview

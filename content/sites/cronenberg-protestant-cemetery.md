@@ -1,19 +1,31 @@
 ---
-title: "Cronenberg Protestant Cemetery"
+title: Cronenberg Protestant Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Wuppertal, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Wuppertal, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.206952777
 longitude: 7.131425
 images:
-  - "/images-sites/cronenberg-protestant-cemetery/01-ae60c94e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grab_Hans_Kremendahl.jpg/1200px-Grab_Hans_Kremendahl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1200px-Grab-wille-cronenberg.jpg
+image_srcset:
+  Grab Hans Kremendahl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grab_Hans_Kremendahl.jpg/400px-Grab_Hans_Kremendahl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grab_Hans_Kremendahl.jpg/800px-Grab_Hans_Kremendahl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grab_Hans_Kremendahl.jpg/1200px-Grab_Hans_Kremendahl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grab_Hans_Kremendahl.jpg/1920px-Grab_Hans_Kremendahl.jpg
+  Grab-wille-cronenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/400px-Grab-wille-cronenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/800px-Grab-wille-cronenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1200px-Grab-wille-cronenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grab-wille-cronenberg.jpg/1920px-Grab-wille-cronenberg.jpg
 ---
 
 ## Overview

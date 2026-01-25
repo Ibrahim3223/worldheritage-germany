@@ -1,19 +1,49 @@
 ---
-title: "Burschenschaftsdenkmal"
+title: Burschenschaftsdenkmal
 date: 2026-01-23
 draft: false
-description: "monument in Eisenach, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Eisenach, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9666
 longitude: 10.3351
 images:
-  - "/images-sites/burschenschaftsdenkmal/01-28e428e1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burschenschaftsdenkmal_(DSC05421).jpg/1200px-Burschenschaftsdenkmal_(DSC05421).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1200px-Jena_Burschenschaftsdenkmal_1900.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Jena_Burschenschaftsdenkmal_1.jpg/1200px-Jena_Burschenschaftsdenkmal_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg/1200px-Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Denkmal_Urburschenschaft_in_Jena.JPG/1200px-Denkmal_Urburschenschaft_in_Jena.JPG
+image_srcset:
+  Burschenschaftsdenkmal (DSC05421).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burschenschaftsdenkmal_(DSC05421).jpg/400px-Burschenschaftsdenkmal_(DSC05421).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burschenschaftsdenkmal_(DSC05421).jpg/800px-Burschenschaftsdenkmal_(DSC05421).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burschenschaftsdenkmal_(DSC05421).jpg/1200px-Burschenschaftsdenkmal_(DSC05421).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Burschenschaftsdenkmal_(DSC05421).jpg/1920px-Burschenschaftsdenkmal_(DSC05421).jpg
+  Jena Burschenschaftsdenkmal 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/400px-Jena_Burschenschaftsdenkmal_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/800px-Jena_Burschenschaftsdenkmal_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1200px-Jena_Burschenschaftsdenkmal_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jena_Burschenschaftsdenkmal_1900.jpg/1920px-Jena_Burschenschaftsdenkmal_1900.jpg
+  Jena Burschenschaftsdenkmal 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Jena_Burschenschaftsdenkmal_1.jpg/400px-Jena_Burschenschaftsdenkmal_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Jena_Burschenschaftsdenkmal_1.jpg/800px-Jena_Burschenschaftsdenkmal_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Jena_Burschenschaftsdenkmal_1.jpg/1200px-Jena_Burschenschaftsdenkmal_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Jena_Burschenschaftsdenkmal_1.jpg/1920px-Jena_Burschenschaftsdenkmal_1.jpg
+  Eisenach Burschenschaftsdenkmal Wartburgblick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg/400px-Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg/800px-Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg/1200px-Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg/1920px-Eisenach_Burschenschaftsdenkmal_Wartburgblick.jpg
+  Denkmal Urburschenschaft in Jena.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Denkmal_Urburschenschaft_in_Jena.JPG/400px-Denkmal_Urburschenschaft_in_Jena.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Denkmal_Urburschenschaft_in_Jena.JPG/800px-Denkmal_Urburschenschaft_in_Jena.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Denkmal_Urburschenschaft_in_Jena.JPG/1200px-Denkmal_Urburschenschaft_in_Jena.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Denkmal_Urburschenschaft_in_Jena.JPG/1920px-Denkmal_Urburschenschaft_in_Jena.JPG
 ---
 
 ## Overview

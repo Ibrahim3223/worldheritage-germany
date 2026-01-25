@@ -21,7 +21,7 @@ longitude: 13.0176
 
 # Images
 images:
-  - "/images-sites/kriebstein-castle/01-2537cd35-800w.webp"
+  - "/images/kriebstein-castle/01-2537cd35-800w.webp"
 ---
 
 ## Overview

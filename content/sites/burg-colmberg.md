@@ -1,19 +1,49 @@
 ---
-title: "Burg Colmberg"
+title: Burg Colmberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3602
 longitude: 10.4081
 images:
-  - "/images-sites/burg-colmberg/01-ca422eba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg/1200px-Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Colmberg_Ortskern_fern_165_P1051191_20200917.jpg/1200px-Colmberg_Ortskern_fern_165_P1051191_20200917.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Colmberg-luft.jpg/1200px-Colmberg-luft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BurgColmberg.jpg/1200px-BurgColmberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Colmberg_2.JPG/1200px-Burg_Colmberg_2.JPG
+image_srcset:
+  Colmberg Altmuehltal Viehweide P1051193 20200917.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg/400px-Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg/800px-Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg/1200px-Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg/1920px-Colmberg_Altmuehltal_Viehweide_P1051193_20200917.jpg
+  Colmberg Ortskern fern 165 P1051191 20200917.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Colmberg_Ortskern_fern_165_P1051191_20200917.jpg/400px-Colmberg_Ortskern_fern_165_P1051191_20200917.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Colmberg_Ortskern_fern_165_P1051191_20200917.jpg/800px-Colmberg_Ortskern_fern_165_P1051191_20200917.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Colmberg_Ortskern_fern_165_P1051191_20200917.jpg/1200px-Colmberg_Ortskern_fern_165_P1051191_20200917.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Colmberg_Ortskern_fern_165_P1051191_20200917.jpg/1920px-Colmberg_Ortskern_fern_165_P1051191_20200917.jpg
+  Colmberg-luft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Colmberg-luft.jpg/400px-Colmberg-luft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Colmberg-luft.jpg/800px-Colmberg-luft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Colmberg-luft.jpg/1200px-Colmberg-luft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Colmberg-luft.jpg/1920px-Colmberg-luft.jpg
+  BurgColmberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BurgColmberg.jpg/400px-BurgColmberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BurgColmberg.jpg/800px-BurgColmberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BurgColmberg.jpg/1200px-BurgColmberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BurgColmberg.jpg/1920px-BurgColmberg.jpg
+  Burg Colmberg 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Colmberg_2.JPG/400px-Burg_Colmberg_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Colmberg_2.JPG/800px-Burg_Colmberg_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Colmberg_2.JPG/1200px-Burg_Colmberg_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Colmberg_2.JPG/1920px-Burg_Colmberg_2.JPG
 ---
 
 ## Overview

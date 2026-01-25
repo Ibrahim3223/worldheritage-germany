@@ -1,19 +1,49 @@
 ---
-title: "Colosseum Theater"
+title: Colosseum Theater
 date: 2026-01-23
 draft: false
-description: "theater in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: theater in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4589
 longitude: 7.0025
 images:
-  - "/images-sites/colosseum-theater/01-1e70a2ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg/1200px-8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Colosseum_Theater_Essen_2011_innen_(1).jpg/1200px-Colosseum_Theater_Essen_2011_innen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1200px-Colosseum_Theater_Essen_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Colosseum_Theater_Essen_(Innen)_2.jpg/1200px-Colosseum_Theater_Essen_(Innen)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_Theater_Essen_(Front)_2.jpg/1200px-Colosseum_Theater_Essen_(Front)_2.jpg
+image_srcset:
+  8. Mechanische Werkstatt Krupp Essen Rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg/400px-8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg/800px-8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg/1200px-8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg/1920px-8._Mechanische_Werkstatt_Krupp_Essen_Rückseite.jpg
+  Colosseum Theater Essen 2011 innen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Colosseum_Theater_Essen_2011_innen_(1).jpg/400px-Colosseum_Theater_Essen_2011_innen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Colosseum_Theater_Essen_2011_innen_(1).jpg/800px-Colosseum_Theater_Essen_2011_innen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Colosseum_Theater_Essen_2011_innen_(1).jpg/1200px-Colosseum_Theater_Essen_2011_innen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Colosseum_Theater_Essen_2011_innen_(1).jpg/1920px-Colosseum_Theater_Essen_2011_innen_(1).jpg
+  Colosseum Theater Essen 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/400px-Colosseum_Theater_Essen_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/800px-Colosseum_Theater_Essen_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1200px-Colosseum_Theater_Essen_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Colosseum_Theater_Essen_2011.jpg/1920px-Colosseum_Theater_Essen_2011.jpg
+  Colosseum Theater Essen (Innen) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Colosseum_Theater_Essen_(Innen)_2.jpg/400px-Colosseum_Theater_Essen_(Innen)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Colosseum_Theater_Essen_(Innen)_2.jpg/800px-Colosseum_Theater_Essen_(Innen)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Colosseum_Theater_Essen_(Innen)_2.jpg/1200px-Colosseum_Theater_Essen_(Innen)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Colosseum_Theater_Essen_(Innen)_2.jpg/1920px-Colosseum_Theater_Essen_(Innen)_2.jpg
+  Colosseum Theater Essen (Front) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_Theater_Essen_(Front)_2.jpg/400px-Colosseum_Theater_Essen_(Front)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_Theater_Essen_(Front)_2.jpg/800px-Colosseum_Theater_Essen_(Front)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_Theater_Essen_(Front)_2.jpg/1200px-Colosseum_Theater_Essen_(Front)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_Theater_Essen_(Front)_2.jpg/1920px-Colosseum_Theater_Essen_(Front)_2.jpg
 ---
 
 ## Overview

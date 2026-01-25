@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1877938"
 description: "In the heart of Erfurt, Germany, the Lutherkirche stands as a striking example of Art Deco architecture, completed in 1927. This church, designed by arc..."
 images:
-  - "/images-sites/lutherkirche-erfurt/01-18beea76-1920w.webp"
-  - "/images-sites/lutherkirche-erfurt/02-53156dfd-1920w.webp"
-  - "/images-sites/lutherkirche-erfurt/03-a4fb8d4a-1920w.webp"
+  - "/images/lutherkirche-erfurt/01-18beea76-1920w.webp"
+  - "/images/lutherkirche-erfurt/02-53156dfd-1920w.webp"
+  - "/images/lutherkirche-erfurt/03-a4fb8d4a-1920w.webp"
 ---
 
 ## Overview

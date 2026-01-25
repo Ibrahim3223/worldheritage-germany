@@ -1,20 +1,49 @@
 ---
-title: "Breitscheidplatz"
+title: Breitscheidplatz
 date: 2026-01-23
 draft: false
-description: "square in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.504833333
 longitude: 13.336166666
 images:
-  - "/images-sites/breitscheidplatz/02-a03194d0-800w.webp"
-  - "/images-sites/breitscheidplatz/03-066e2f55-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg/1200px-190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg/1200px-190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg/1200px-Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg/1200px-Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1200px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
+image_srcset:
+  190829 Sculpture by Joachim Schmettau Breitscheidplatz Berlin-Charlottenburg Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg/400px-190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg/800px-190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg/1200px-190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg/1920px-190829_Sculpture_by_Joachim_Schmettau_Breitscheidplatz_Berlin-Charlottenburg_Germany.jpg
+  190930 Skyline City West von der Dachterrasse des Reichstagsgebäudes.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg/400px-190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg/800px-190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg/1200px-190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg/1920px-190930_Skyline_City_West_von_der_Dachterrasse_des_Reichstagsgebäudes.jpg
+  Berlin, Charlottenburg, Breitscheidplatz von Kantstr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg/400px-Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg/800px-Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg/1200px-Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg/1920px-Berlin,_Charlottenburg,_Breitscheidplatz_von_Kantstr.jpg
+  Gedächtniskirche, Europa Center, Bikini Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg/400px-Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg/800px-Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg/1200px-Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg/1920px-Gedächtniskirche,_Europa_Center,_Bikini_Berlin.jpg
+  Joachim Schmettau, Erdkugelbrunnen aka Weltkugelbrunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/400px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/800px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1200px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg/1920px-Joachim_Schmettau,_Erdkugelbrunnen_aka_Weltkugelbrunnen.jpg
 ---
 
 ## Overview

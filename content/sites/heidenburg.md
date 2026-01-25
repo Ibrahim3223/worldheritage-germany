@@ -1,21 +1,43 @@
 ---
-title: "Heidenburg"
+title: Heidenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.374
 longitude: 8.1435
 images:
-  - "/images-sites/heidenburg/01-ce7f79e3-800w.webp"
-  - "/images-sites/heidenburg/02-21f51149-800w.webp"
-  - "/images-sites/heidenburg/03-b89b93d5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg/1200px-Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dhrontalsperre_(dam).jpg/1200px-Dhrontalsperre_(dam).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heidenburg_in_WIL.svg/1200px-Heidenburg_in_WIL.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Einwohnerentwicklung_von_Heidenburg.svg/1200px-Einwohnerentwicklung_von_Heidenburg.svg.png
+image_srcset:
+  Heidenburg, Hausorgel Jäger, Spieltisch, MJ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg/400px-Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg/800px-Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg/1200px-Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg/1920px-Heidenburg,_Hausorgel_Jäger,_Spieltisch,_MJ.jpg
+  Dhrontalsperre (dam).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dhrontalsperre_(dam).jpg/400px-Dhrontalsperre_(dam).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dhrontalsperre_(dam).jpg/800px-Dhrontalsperre_(dam).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dhrontalsperre_(dam).jpg/1200px-Dhrontalsperre_(dam).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dhrontalsperre_(dam).jpg/1920px-Dhrontalsperre_(dam).jpg
+  Heidenburg in WIL.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heidenburg_in_WIL.svg/400px-Heidenburg_in_WIL.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heidenburg_in_WIL.svg/800px-Heidenburg_in_WIL.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heidenburg_in_WIL.svg/1200px-Heidenburg_in_WIL.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Heidenburg_in_WIL.svg/1920px-Heidenburg_in_WIL.svg.png
+  Einwohnerentwicklung von Heidenburg.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Einwohnerentwicklung_von_Heidenburg.svg/400px-Einwohnerentwicklung_von_Heidenburg.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Einwohnerentwicklung_von_Heidenburg.svg/800px-Einwohnerentwicklung_von_Heidenburg.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Einwohnerentwicklung_von_Heidenburg.svg/1200px-Einwohnerentwicklung_von_Heidenburg.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Einwohnerentwicklung_von_Heidenburg.svg/1920px-Einwohnerentwicklung_von_Heidenburg.svg.png
 ---
 
 ## Overview

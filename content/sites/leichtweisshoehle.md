@@ -13,7 +13,7 @@ regions:
 latitude: 50.1053
 longitude: 8.22166
 images:
-  - "/images-sites/leichtweisshoehle/01-4f1c041a-800w.webp"
+  - "/images/leichtweisshoehle/01-4f1c041a-800w.webp"
 ---
 
 ## Overview

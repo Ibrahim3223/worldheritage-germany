@@ -1,19 +1,49 @@
 ---
-title: "Energie-Museum Berlin"
+title: Energie-Museum Berlin
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4436
 longitude: 13.33
 images:
-  - "/images-sites/energie-museum-berlin/01-20507b6d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Energie-Museum_Berlin_Schild.JPG/1200px-Energie-Museum_Berlin_Schild.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg/1200px-Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg/1200px-Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg/1200px-Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Berlin-Lankwitz_Energie-Museum.jpg/1200px-Berlin-Lankwitz_Energie-Museum.jpg
+image_srcset:
+  Energie-Museum Berlin Schild.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Energie-Museum_Berlin_Schild.JPG/400px-Energie-Museum_Berlin_Schild.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Energie-Museum_Berlin_Schild.JPG/800px-Energie-Museum_Berlin_Schild.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Energie-Museum_Berlin_Schild.JPG/1200px-Energie-Museum_Berlin_Schild.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Energie-Museum_Berlin_Schild.JPG/1920px-Energie-Museum_Berlin_Schild.JPG
+  Energie-Museum Berlin Litfaßsäulen-Transformator.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg/400px-Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg/800px-Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg/1200px-Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg/1920px-Energie-Museum_Berlin_Litfaßsäulen-Transformator.jpg
+  Energie-Museum Berlin Litfaßsäulen-Transformator (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg/400px-Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg/800px-Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg/1200px-Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg/1920px-Energie-Museum_Berlin_Litfaßsäulen-Transformator_(cropped).jpg
+  Berlin-Lankwitz Abzweig Teltowkanal zum Kraftwerk Steglitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg/400px-Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg/800px-Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg/1200px-Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg/1920px-Berlin-Lankwitz_Abzweig_Teltowkanal_zum_Kraftwerk_Steglitz.jpg
+  Berlin-Lankwitz Energie-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Berlin-Lankwitz_Energie-Museum.jpg/400px-Berlin-Lankwitz_Energie-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Berlin-Lankwitz_Energie-Museum.jpg/800px-Berlin-Lankwitz_Energie-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Berlin-Lankwitz_Energie-Museum.jpg/1200px-Berlin-Lankwitz_Energie-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Berlin-Lankwitz_Energie-Museum.jpg/1920px-Berlin-Lankwitz_Energie-Museum.jpg
 ---
 
 ## Overview

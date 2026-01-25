@@ -13,7 +13,7 @@ regions:
 latitude: 48.146111111
 longitude: 11.564166666
 images:
-  - "/images-sites/propylaea/01-a302ec81-800w.webp"
+  - "/images/propylaea/01-a302ec81-800w.webp"
 ---
 
 ## Overview

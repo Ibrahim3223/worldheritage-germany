@@ -13,7 +13,7 @@ regions:
 latitude: 47.873631
 longitude: 8.004172
 images:
-  - "/images-sites/sender-feldberg/01-0b861fee-800w.webp"
+  - "/images/sender-feldberg/01-0b861fee-800w.webp"
 ---
 
 ## Overview

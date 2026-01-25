@@ -1,19 +1,49 @@
 ---
-title: "Aula Carolina"
+title: Aula Carolina
 date: 2026-01-23
 draft: false
-description: "school building"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school building
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 50.777
 longitude: 6.08297
 images:
-  - "/images-sites/aula-carolina/01-2fafcd72-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aachen,_Pontstraße_und_Aula_Carolina.jpg/1200px-Aachen,_Pontstraße_und_Aula_Carolina.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/1200px-Aula_Carolina,_Pontstraße,_aachen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AachenPontstr.jpg/1200px-AachenPontstr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aachen_Aula-Carolina_3.jpg/1200px-Aachen_Aula-Carolina_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aachen_Zeitungsmuseum.jpg/1200px-Aachen_Zeitungsmuseum.jpg
+image_srcset:
+  Aachen, Pontstraße und Aula Carolina.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aachen,_Pontstraße_und_Aula_Carolina.jpg/400px-Aachen,_Pontstraße_und_Aula_Carolina.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aachen,_Pontstraße_und_Aula_Carolina.jpg/800px-Aachen,_Pontstraße_und_Aula_Carolina.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aachen,_Pontstraße_und_Aula_Carolina.jpg/1200px-Aachen,_Pontstraße_und_Aula_Carolina.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aachen,_Pontstraße_und_Aula_Carolina.jpg/1920px-Aachen,_Pontstraße_und_Aula_Carolina.jpg
+  Aula Carolina, Pontstraße, aachen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/400px-Aula_Carolina,_Pontstraße,_aachen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/800px-Aula_Carolina,_Pontstraße,_aachen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/1200px-Aula_Carolina,_Pontstraße,_aachen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aula_Carolina,_Pontstraße,_aachen.JPG/1920px-Aula_Carolina,_Pontstraße,_aachen.JPG
+  AachenPontstr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AachenPontstr.jpg/400px-AachenPontstr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AachenPontstr.jpg/800px-AachenPontstr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AachenPontstr.jpg/1200px-AachenPontstr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AachenPontstr.jpg/1920px-AachenPontstr.jpg
+  Aachen Aula-Carolina 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aachen_Aula-Carolina_3.jpg/400px-Aachen_Aula-Carolina_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aachen_Aula-Carolina_3.jpg/800px-Aachen_Aula-Carolina_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aachen_Aula-Carolina_3.jpg/1200px-Aachen_Aula-Carolina_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aachen_Aula-Carolina_3.jpg/1920px-Aachen_Aula-Carolina_3.jpg
+  Aachen Zeitungsmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aachen_Zeitungsmuseum.jpg/400px-Aachen_Zeitungsmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aachen_Zeitungsmuseum.jpg/800px-Aachen_Zeitungsmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aachen_Zeitungsmuseum.jpg/1200px-Aachen_Zeitungsmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Aachen_Zeitungsmuseum.jpg/1920px-Aachen_Zeitungsmuseum.jpg
 ---
 
 ## Overview

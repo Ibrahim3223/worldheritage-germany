@@ -1,19 +1,44 @@
 ---
-title: "Borgfeld church"
-site_name: "Borgfeld church"
-slug: "borgfeld-church"
-region: "Lower Saxony"
-
-# Location
+title: Borgfeld church
+site_name: Borgfeld church
+slug: borgfeld-church
+region: Lower Saxony
 latitude: 53.1263
 longitude: 8.90572
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1742822"
-description: "Borgfeld Church, located in Bremen-Borgfeld, Germany, is a striking example of Brick Gothic architecture. This church stands out in its tranquil surroun..."
+- cultural site
+wikidata_id: Q1742822
+description: Borgfeld Church, located in Bremen-Borgfeld, Germany, is a striking example
+  of Brick Gothic architecture. This church stands out in its tranquil surroun...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bremen-Borgfeld%20evang-Kirche%2001.jpg/1200px-Bremen-Borgfeld%20evang-Kirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/50687Borgfeld_Kirche_str.png/1200px-50687Borgfeld_Kirche_str.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wikingborg.jpg/1200px-Wikingborg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/1200px-Bremen-Borgfeld_evang-Kirche_01.jpg
+image_srcset:
+  Bremen-Borgfeld%20evang-Kirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bremen-Borgfeld%20evang-Kirche%2001.jpg/400px-Bremen-Borgfeld%20evang-Kirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bremen-Borgfeld%20evang-Kirche%2001.jpg/800px-Bremen-Borgfeld%20evang-Kirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bremen-Borgfeld%20evang-Kirche%2001.jpg/1200px-Bremen-Borgfeld%20evang-Kirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bremen-Borgfeld%20evang-Kirche%2001.jpg/1920px-Bremen-Borgfeld%20evang-Kirche%2001.jpg
+  50687Borgfeld Kirche str.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/50687Borgfeld_Kirche_str.png/400px-50687Borgfeld_Kirche_str.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/50687Borgfeld_Kirche_str.png/800px-50687Borgfeld_Kirche_str.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/50687Borgfeld_Kirche_str.png/1200px-50687Borgfeld_Kirche_str.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/50687Borgfeld_Kirche_str.png/1920px-50687Borgfeld_Kirche_str.png
+  Wikingborg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wikingborg.jpg/400px-Wikingborg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wikingborg.jpg/800px-Wikingborg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wikingborg.jpg/1200px-Wikingborg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wikingborg.jpg/1920px-Wikingborg.jpg
+  Bremen-Borgfeld evang-Kirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/400px-Bremen-Borgfeld_evang-Kirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/800px-Bremen-Borgfeld_evang-Kirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/1200px-Bremen-Borgfeld_evang-Kirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bremen-Borgfeld_evang-Kirche_01.jpg/1920px-Bremen-Borgfeld_evang-Kirche_01.jpg
 ---
 
 ## Overview

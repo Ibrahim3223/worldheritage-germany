@@ -13,7 +13,7 @@ regions:
 latitude: 49.5067
 longitude: 9.11519
 images:
-  - "/images-sites/reisenbach-telecommunication-tower/01-a189387a-800w.webp"
+  - "/images/reisenbach-telecommunication-tower/01-a189387a-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.3695
 longitude: 9.74769
 images:
-  - "/images-sites/open-grave/01-3f5451a6-800w.webp"
+  - "/images/open-grave/01-3f5451a6-800w.webp"
 ---
 
 # Open Grave: A Historical Insight into an Ancient Memorial

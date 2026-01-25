@@ -13,7 +13,7 @@ regions:
 latitude: 51.4564
 longitude: 7.415
 images:
-  - "/images-sites/zeche-vereinigte-wiendahlsbank/01-310e48da-800w.webp"
+  - "/images/zeche-vereinigte-wiendahlsbank/01-310e48da-800w.webp"
 ---
 
 ## Overview

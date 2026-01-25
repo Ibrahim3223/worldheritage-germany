@@ -13,7 +13,7 @@ regions:
 latitude: 52.711111111
 longitude: 9.816666666
 images:
-  - "/images-sites/meissendorfer-teiche-bannetzer-moor/01-e8ca3d8b-800w.webp"
+  - "/images/meissendorfer-teiche-bannetzer-moor/01-e8ca3d8b-800w.webp"
 ---
 
 ## Overview

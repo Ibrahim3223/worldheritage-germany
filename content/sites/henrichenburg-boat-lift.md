@@ -1,19 +1,49 @@
 ---
-title: "Henrichenburg boat lift"
+title: Henrichenburg boat lift
 date: 2026-01-23
 draft: false
-description: "boat lift"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: boat lift
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.616583333
 longitude: 7.325861111
 images:
-  - "/images-sites/henrichenburg-boat-lift/01-8f09afdd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Waltrop-Altes_Schiffshebewerk-WUS03397.jpg/1200px-Waltrop-Altes_Schiffshebewerk-WUS03397.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Schild_Schiffshebewerk_Henrichenburg.jpg/1200px-Schild_Schiffshebewerk_Henrichenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg/1200px-Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Die_Gartenlaube_(1899)_b_0531_2.jpg/1200px-Die_Gartenlaube_(1899)_b_0531_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/1200px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
+image_srcset:
+  Waltrop-Altes Schiffshebewerk-WUS03397.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Waltrop-Altes_Schiffshebewerk-WUS03397.jpg/400px-Waltrop-Altes_Schiffshebewerk-WUS03397.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Waltrop-Altes_Schiffshebewerk-WUS03397.jpg/800px-Waltrop-Altes_Schiffshebewerk-WUS03397.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Waltrop-Altes_Schiffshebewerk-WUS03397.jpg/1200px-Waltrop-Altes_Schiffshebewerk-WUS03397.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Waltrop-Altes_Schiffshebewerk-WUS03397.jpg/1920px-Waltrop-Altes_Schiffshebewerk-WUS03397.jpg
+  Schild Schiffshebewerk Henrichenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Schild_Schiffshebewerk_Henrichenburg.jpg/400px-Schild_Schiffshebewerk_Henrichenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Schild_Schiffshebewerk_Henrichenburg.jpg/800px-Schild_Schiffshebewerk_Henrichenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Schild_Schiffshebewerk_Henrichenburg.jpg/1200px-Schild_Schiffshebewerk_Henrichenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Schild_Schiffshebewerk_Henrichenburg.jpg/1920px-Schild_Schiffshebewerk_Henrichenburg.jpg
+  Altes Schiffshebewerk Henrichenburg - Museumsschiffe im Oberwasser 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg/400px-Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg/800px-Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg/1200px-Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg/1920px-Altes_Schiffshebewerk_Henrichenburg_-_Museumsschiffe_im_Oberwasser_2.jpg
+  Die Gartenlaube (1899) b 0531 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Die_Gartenlaube_(1899)_b_0531_2.jpg/400px-Die_Gartenlaube_(1899)_b_0531_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Die_Gartenlaube_(1899)_b_0531_2.jpg/800px-Die_Gartenlaube_(1899)_b_0531_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Die_Gartenlaube_(1899)_b_0531_2.jpg/1200px-Die_Gartenlaube_(1899)_b_0531_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Die_Gartenlaube_(1899)_b_0531_2.jpg/1920px-Die_Gartenlaube_(1899)_b_0531_2.jpg
+  Henrichenburg, Nordrhein-Westfalen - Schiffshebewerk (2) (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/400px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/800px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/1200px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg/1920px-Henrichenburg,_Nordrhein-Westfalen_-_Schiffshebewerk_(2)_(Zeno_Ansichtskarten).jpg
 ---
 
 ## Overview

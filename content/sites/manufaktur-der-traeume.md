@@ -13,7 +13,7 @@ regions:
 latitude: 50.5792
 longitude: 13.0019
 images:
-  - "/images-sites/manufaktur-der-traeume/01-0d70e364-800w.webp"
+  - "/images/manufaktur-der-traeume/01-0d70e364-800w.webp"
 ---
 
 ## Overview

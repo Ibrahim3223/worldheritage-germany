@@ -13,7 +13,7 @@ regions:
 latitude: 50.9773
 longitude: 10.3225
 images:
-  - "/images-sites/wasserburg-klemme/01-bb6b7c7a-800w.webp"
+  - "/images/wasserburg-klemme/01-bb6b7c7a-800w.webp"
 ---
 
 ## Overview

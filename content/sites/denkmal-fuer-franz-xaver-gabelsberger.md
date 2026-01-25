@@ -1,19 +1,49 @@
 ---
-title: "Denkmal für Franz Xaver Gabelsberger"
+title: Denkmal für Franz Xaver Gabelsberger
 date: 2026-01-23
 draft: false
-description: "monument"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: monument
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1418
 longitude: 11.5678
 images:
-  - "/images-sites/denkmal-fuer-franz-xaver-gabelsberger/01-9ed55bb0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg/1200px-Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg/1200px-Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/1200px-Munich_Gabelsberger_Memorial.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg/1200px-Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg/1200px-AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg
+image_srcset:
+  Standbeeld van Franz Xaver Gabelsberger, uitvinder van een stenografisch schrif…, Bestanddeelnr 254-3742.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg/400px-Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg/800px-Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg/1200px-Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg/1920px-Standbeeld_van_Franz_Xaver_Gabelsberger,_uitvinder_van_een_stenografisch_schrif…,_Bestanddeelnr_254-3742.jpg
+  Monument for Franz Xaver Gabelsberger, Munich - DSC08682.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg/400px-Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg/800px-Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg/1200px-Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg/1920px-Monument_for_Franz_Xaver_Gabelsberger,_Munich_-_DSC08682.jpg
+  Munich Gabelsberger Memorial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/400px-Munich_Gabelsberger_Memorial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/800px-Munich_Gabelsberger_Memorial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/1200px-Munich_Gabelsberger_Memorial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Munich_Gabelsberger_Memorial.jpg/1920px-Munich_Gabelsberger_Memorial.jpg
+  Monument for Franz Xaver Gabelsberger, Munich, 1910.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg/400px-Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg/800px-Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg/1200px-Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg/1920px-Monument_for_Franz_Xaver_Gabelsberger,_Munich,_1910.jpg
+  AK - München - Gabelsberger-Denkmal - 1908.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg/400px-AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg/800px-AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg/1200px-AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg/1920px-AK_-_München_-_Gabelsberger-Denkmal_-_1908.jpg
 ---
 
 ## Overview

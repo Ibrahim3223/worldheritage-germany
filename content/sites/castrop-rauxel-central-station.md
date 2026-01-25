@@ -1,21 +1,49 @@
 ---
-title: "Castrop-Rauxel Central Station"
+title: Castrop-Rauxel Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Castrop-Rauxel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Castrop-Rauxel, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.573555555
 longitude: 7.304166666
 images:
-  - "/images-sites/castrop-rauxel-central-station/01-cb18902a-800w.webp"
-  - "/images-sites/castrop-rauxel-central-station/02-35230712-800w.webp"
-  - "/images-sites/castrop-rauxel-central-station/03-59023f49-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Castrop-Rauxel_central_station.jpg/1200px-Castrop-Rauxel_central_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BF_Castrop-Rauxel_HBF.jpg/1200px-BF_Castrop-Rauxel_HBF.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Guterbahnhof_Rauxel_HBF.JPG/1200px-Guterbahnhof_Rauxel_HBF.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hbf_castrop.jpg/1200px-Hbf_castrop.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/S223.jpg/1200px-S223.jpg
+image_srcset:
+  Castrop-Rauxel central station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Castrop-Rauxel_central_station.jpg/400px-Castrop-Rauxel_central_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Castrop-Rauxel_central_station.jpg/800px-Castrop-Rauxel_central_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Castrop-Rauxel_central_station.jpg/1200px-Castrop-Rauxel_central_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Castrop-Rauxel_central_station.jpg/1920px-Castrop-Rauxel_central_station.jpg
+  BF Castrop-Rauxel HBF.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BF_Castrop-Rauxel_HBF.jpg/400px-BF_Castrop-Rauxel_HBF.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BF_Castrop-Rauxel_HBF.jpg/800px-BF_Castrop-Rauxel_HBF.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BF_Castrop-Rauxel_HBF.jpg/1200px-BF_Castrop-Rauxel_HBF.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BF_Castrop-Rauxel_HBF.jpg/1920px-BF_Castrop-Rauxel_HBF.jpg
+  Guterbahnhof Rauxel HBF.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Guterbahnhof_Rauxel_HBF.JPG/400px-Guterbahnhof_Rauxel_HBF.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Guterbahnhof_Rauxel_HBF.JPG/800px-Guterbahnhof_Rauxel_HBF.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Guterbahnhof_Rauxel_HBF.JPG/1200px-Guterbahnhof_Rauxel_HBF.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Guterbahnhof_Rauxel_HBF.JPG/1920px-Guterbahnhof_Rauxel_HBF.JPG
+  Hbf castrop.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hbf_castrop.jpg/400px-Hbf_castrop.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hbf_castrop.jpg/800px-Hbf_castrop.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hbf_castrop.jpg/1200px-Hbf_castrop.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hbf_castrop.jpg/1920px-Hbf_castrop.jpg
+  S223.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/S223.jpg/400px-S223.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/S223.jpg/800px-S223.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/S223.jpg/1200px-S223.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/S223.jpg/1920px-S223.jpg
 ---
 
 ## Overview

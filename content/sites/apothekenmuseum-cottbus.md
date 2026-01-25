@@ -1,19 +1,49 @@
 ---
-title: "Apothekenmuseum, Cottbus"
+title: Apothekenmuseum, Cottbus
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7604
 longitude: 14.3344
 images:
-  - "/images-sites/apothekenmuseum-cottbus/01-db7eb17a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apothekenmuseum_Cottbus.jpg/1200px-Apothekenmuseum_Cottbus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1200px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg/1200px-Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg/1200px-Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg/1200px-Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg
+image_srcset:
+  Apothekenmuseum Cottbus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apothekenmuseum_Cottbus.jpg/400px-Apothekenmuseum_Cottbus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apothekenmuseum_Cottbus.jpg/800px-Apothekenmuseum_Cottbus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apothekenmuseum_Cottbus.jpg/1200px-Apothekenmuseum_Cottbus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apothekenmuseum_Cottbus.jpg/1920px-Apothekenmuseum_Cottbus.jpg
+  Cottbus 07-2017 img31 Apothekenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/400px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/800px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1200px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cottbus_07-2017_img31_Apothekenmuseum.jpg/1920px-Cottbus_07-2017_img31_Apothekenmuseum.jpg
+  Bundesarchiv Bild 183-Z0316-325, Cottbus, pharmaziehistorische Sammlung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg/400px-Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg/800px-Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg/1200px-Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg/1920px-Bundesarchiv_Bild_183-Z0316-325,_Cottbus,_pharmaziehistorische_Sammlung.jpg
+  Bundesarchiv Bild 183-1989-0709-301, Cottbus, Apothekenmuseum, Hof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg/400px-Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg/800px-Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg/1200px-Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg/1920px-Bundesarchiv_Bild_183-1989-0709-301,_Cottbus,_Apothekenmuseum,_Hof.jpg
+  Bundesarchiv Bild 183-1989-0307-013, Cottbus, Altmarkt, Bürgerhäuser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg/400px-Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg/800px-Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg/1200px-Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg/1920px-Bundesarchiv_Bild_183-1989-0307-013,_Cottbus,_Altmarkt,_Bürgerhäuser.jpg
 ---
 
 ## Overview

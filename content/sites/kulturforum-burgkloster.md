@@ -13,7 +13,7 @@ regions:
 latitude: 53.8735
 longitude: 10.6893
 images:
-  - "/images-sites/kulturforum-burgkloster/01-eb0a7a99-800w.webp"
+  - "/images/kulturforum-burgkloster/01-eb0a7a99-800w.webp"
 ---
 
 ## Overview

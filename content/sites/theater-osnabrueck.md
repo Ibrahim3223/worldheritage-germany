@@ -13,7 +13,7 @@ regions:
 latitude: 52.2767
 longitude: 8.04444
 images:
-  - "/images-sites/theater-osnabrueck/01-140a3477-800w.webp"
+  - "/images/theater-osnabrueck/01-140a3477-800w.webp"
 ---
 
 ## Overview

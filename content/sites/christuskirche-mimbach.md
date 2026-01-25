@@ -1,20 +1,51 @@
 ---
-title: "Christuskirche (Mimbach)"
-site_name: "Christuskirche (Mimbach)"
-slug: "christuskirche-mimbach"
-region: "Saarland"
-
-# Location
+title: Christuskirche (Mimbach)
+site_name: Christuskirche (Mimbach)
+slug: christuskirche-mimbach
+region: Saarland
 latitude: 49.2268
 longitude: 7.26616
 regions:
-    - "Saarland"
-heritage_type: "cultural site"
+- Saarland
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087372"
-description: "In the heart of Blieskastel, Germany, lies Christuskirche, a church building that exemplifies the intricate beauty of baroque architecture. This site is..."
+- church building
+- religious site
+wikidata_id: Q1087372
+description: In the heart of Blieskastel, Germany, lies Christuskirche, a church building
+  that exemplifies the intricate beauty of baroque architecture. This site is...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mimbach%20Christuskirche%202013-06-15.jpg/1200px-Mimbach%20Christuskirche%202013-06-15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mimbach_Christuskirche_Pfarrhaus.JPG/1200px-Mimbach_Christuskirche_Pfarrhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mimbach_Kirche_02.JPG/1200px-Mimbach_Kirche_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mimbach_Kirche_03.JPG/1200px-Mimbach_Kirche_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1200px-Mimbach_Christuskirche_2013-06-15.jpg
+image_srcset:
+  Mimbach%20Christuskirche%202013-06-15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mimbach%20Christuskirche%202013-06-15.jpg/400px-Mimbach%20Christuskirche%202013-06-15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mimbach%20Christuskirche%202013-06-15.jpg/800px-Mimbach%20Christuskirche%202013-06-15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mimbach%20Christuskirche%202013-06-15.jpg/1200px-Mimbach%20Christuskirche%202013-06-15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mimbach%20Christuskirche%202013-06-15.jpg/1920px-Mimbach%20Christuskirche%202013-06-15.jpg
+  Mimbach Christuskirche Pfarrhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mimbach_Christuskirche_Pfarrhaus.JPG/400px-Mimbach_Christuskirche_Pfarrhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mimbach_Christuskirche_Pfarrhaus.JPG/800px-Mimbach_Christuskirche_Pfarrhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mimbach_Christuskirche_Pfarrhaus.JPG/1200px-Mimbach_Christuskirche_Pfarrhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mimbach_Christuskirche_Pfarrhaus.JPG/1920px-Mimbach_Christuskirche_Pfarrhaus.JPG
+  Mimbach Kirche 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mimbach_Kirche_02.JPG/400px-Mimbach_Kirche_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mimbach_Kirche_02.JPG/800px-Mimbach_Kirche_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mimbach_Kirche_02.JPG/1200px-Mimbach_Kirche_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mimbach_Kirche_02.JPG/1920px-Mimbach_Kirche_02.JPG
+  Mimbach Kirche 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mimbach_Kirche_03.JPG/400px-Mimbach_Kirche_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mimbach_Kirche_03.JPG/800px-Mimbach_Kirche_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mimbach_Kirche_03.JPG/1200px-Mimbach_Kirche_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mimbach_Kirche_03.JPG/1920px-Mimbach_Kirche_03.JPG
+  Mimbach Christuskirche 2013-06-15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/400px-Mimbach_Christuskirche_2013-06-15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/800px-Mimbach_Christuskirche_2013-06-15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1200px-Mimbach_Christuskirche_2013-06-15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mimbach_Christuskirche_2013-06-15.jpg/1920px-Mimbach_Christuskirche_2013-06-15.jpg
 ---
 
 ## Overview

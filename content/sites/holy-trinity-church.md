@@ -1,23 +1,50 @@
 ---
-title: "Holy Trinity Church"
-site_name: "Holy Trinity Church"
-slug: "holy-trinity-church"
-region: "Berlin"
-
-# Location
+title: Holy Trinity Church
+site_name: Holy Trinity Church
+slug: holy-trinity-church
+region: Berlin
 latitude: 52.511606
 longitude: 13.386379
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1257643"
-description: "Holy Trinity Church, an exquisite example of Baroque architecture, stands as a prominent landmark in Berlins Bezirk Mitte. Built in 1739, this Protestan..."
+- cultural site
+wikidata_id: Q1257643
+description: Holy Trinity Church, an exquisite example of Baroque architecture, stands
+  as a prominent landmark in Berlins Bezirk Mitte. Built in 1739, this Protestan...
 images:
-  - "/images-sites/holy-trinity-church/01-463e89c6-1920w.webp"
-  - "/images-sites/holy-trinity-church/02-44fb42cf-1920w.webp"
-  - "/images-sites/holy-trinity-church/03-78bb62fd-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg/1200px-Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg/1200px-Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg/1200px-Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg/1200px-Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rood_Screen_-_geograph.org.uk_-_374141.jpg/1200px-Rood_Screen_-_geograph.org.uk_-_374141.jpg
+image_srcset:
+  Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg/400px-Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg/800px-Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg/1200px-Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg/1920px-Bundesarchiv%20Bild%20183-1987-0127-503%2C%20Berlin%2C%20Dreifaltigkeitskirche.jpg
+  Interior of Holy Trinity, Hagworthingham - geograph.org.uk - 450523.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg/400px-Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg/800px-Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg/1200px-Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg/1920px-Interior_of_Holy_Trinity,_Hagworthingham_-_geograph.org.uk_-_450523.jpg
+  Wonston - Holy Trinity Church - geograph.org.uk - 1770760.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg/400px-Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg/800px-Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg/1200px-Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg/1920px-Wonston_-_Holy_Trinity_Church_-_geograph.org.uk_-_1770760.jpg
+  Holy Trinity Church, Broadstairs, Kent - Organ - geograph.org.uk - 1545634.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg/400px-Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg/800px-Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg/1200px-Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg/1920px-Holy_Trinity_Church,_Broadstairs,_Kent_-_Organ_-_geograph.org.uk_-_1545634.jpg
+  Rood Screen - geograph.org.uk - 374141.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rood_Screen_-_geograph.org.uk_-_374141.jpg/400px-Rood_Screen_-_geograph.org.uk_-_374141.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rood_Screen_-_geograph.org.uk_-_374141.jpg/800px-Rood_Screen_-_geograph.org.uk_-_374141.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rood_Screen_-_geograph.org.uk_-_374141.jpg/1200px-Rood_Screen_-_geograph.org.uk_-_374141.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rood_Screen_-_geograph.org.uk_-_374141.jpg/1920px-Rood_Screen_-_geograph.org.uk_-_374141.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Der Hafenarbeiter"
+title: Der Hafenarbeiter
 date: 2026-01-23
 draft: false
-description: "public sculpture by Constantin Meunier in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: public sculpture by Constantin Meunier in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1002479
 longitude: 8.6679463
 images:
-  - "/images-sites/der-hafenarbeiter/01-f0e17513-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg/1200px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg/1200px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg/1200px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg/1200px-Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1200px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
+image_srcset:
+  Der Hafenarbeiter - Frankfurt Main - Germany - March 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg/400px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg/800px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg/1200px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg/1920px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_March_2014.jpg
+  Der Hafenarbeiter - Frankfurt Main - Germany - May 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg/400px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg/800px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg/1200px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg/1920px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_May_2014.jpg
+  Der Hafenarbeiter - Frankfurt Main - Germany - No War.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg/400px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg/800px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg/1200px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg/1920px-Der_Hafenarbeiter_-_Frankfurt_Main_-_Germany_-_No_War.jpg
+  Hafenbarbeiter - I love Frankfurt Main - Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg/400px-Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg/800px-Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg/1200px-Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg/1920px-Hafenbarbeiter_-_I_love_Frankfurt_Main_-_Germany.jpg
+  Der Hafenarbeiter Friedenbruecke Frankfurt 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/400px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/800px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1200px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg/1920px-Der_Hafenarbeiter_Friedenbruecke_Frankfurt_2.jpg
 ---
 
 ## Overview

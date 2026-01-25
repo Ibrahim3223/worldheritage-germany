@@ -1,19 +1,49 @@
 ---
-title: "Emmericher Ward"
+title: Emmericher Ward
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.836943888
 longitude: 6.201666944
 images:
-  - "/images-sites/emmericher-ward/01-fa61d061-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg/1200px-Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg
+image_srcset:
+  Kühe im Naturschutzgebiet Emmericher Ward-1370.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg/400px-Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg/800px-Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg/1200px-Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg/1920px-Kühe_im_Naturschutzgebiet_Emmericher_Ward-1370.jpg
+  Naturschutzgebiet Emmericher Ward PM18-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg/400px-Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg/800px-Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg/1920px-Naturschutzgebiet_Emmericher_Ward_PM18-02.jpg
+  Naturschutzgebiet Emmericher Ward PM18-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg/400px-Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg/800px-Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg/1920px-Naturschutzgebiet_Emmericher_Ward_PM18-04.jpg
+  Naturschutzgebiet Emmericher Ward PM18-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg/400px-Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg/800px-Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg/1920px-Naturschutzgebiet_Emmericher_Ward_PM18-05.jpg
+  Naturschutzgebiet Emmericher Ward PM18-13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg/400px-Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg/800px-Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg/1200px-Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg/1920px-Naturschutzgebiet_Emmericher_Ward_PM18-13.jpg
 ---
 
 ## Overview

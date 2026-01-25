@@ -1,20 +1,52 @@
 ---
-title: "Dominikanerkirche"
-site_name: "Dominikanerkirche"
-slug: "dominikanerkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Dominikanerkirche
+site_name: Dominikanerkirche
+slug: dominikanerkirche
+region: North Rhine-Westphalia
 latitude: 51.9619
 longitude: 7.63083
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1237968"
-description: "In the heart of Münster, Germany, lies the Dominikanerkirche, a church building steeped in historical significance. Its architectural elegance reflects ..."
+- church building
+- religious site
+wikidata_id: Q1237968
+description: In the heart of Münster, Germany, lies the Dominikanerkirche, a church
+  building steeped in historical significance. Its architectural elegance reflects
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1200px-Dominikanerkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wien_Dominikanerkirche.jpg/1200px-Wien_Dominikanerkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dominikanerkloster_Kreuzgang_08.jpg/1200px-Dominikanerkloster_Kreuzgang_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg/1200px-AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg/1200px-DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg
+image_srcset:
+  Dominikanerkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/400px-Dominikanerkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/800px-Dominikanerkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1200px-Dominikanerkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dominikanerkirche.jpg/1920px-Dominikanerkirche.jpg
+  Wien Dominikanerkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wien_Dominikanerkirche.jpg/400px-Wien_Dominikanerkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wien_Dominikanerkirche.jpg/800px-Wien_Dominikanerkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wien_Dominikanerkirche.jpg/1200px-Wien_Dominikanerkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Wien_Dominikanerkirche.jpg/1920px-Wien_Dominikanerkirche.jpg
+  Dominikanerkloster Kreuzgang 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dominikanerkloster_Kreuzgang_08.jpg/400px-Dominikanerkloster_Kreuzgang_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dominikanerkloster_Kreuzgang_08.jpg/800px-Dominikanerkloster_Kreuzgang_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dominikanerkloster_Kreuzgang_08.jpg/1200px-Dominikanerkloster_Kreuzgang_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dominikanerkloster_Kreuzgang_08.jpg/1920px-Dominikanerkloster_Kreuzgang_08.jpg
+  AT-50364 Sancta Maria Rotunda mit Dominikanerkonvent 9083-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg/400px-AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg/800px-AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg/1200px-AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg/1920px-AT-50364_Sancta_Maria_Rotunda_mit_Dominikanerkonvent_9083-2.jpg
+  DOMINIKAR CHURCH-VIENNA-Dr. Murali Mohan Gurram (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg/400px-DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg/800px-DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg/1200px-DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg/1920px-DOMINIKAR_CHURCH-VIENNA-Dr._Murali_Mohan_Gurram_(7).jpg
 ---
 
 ## Overview

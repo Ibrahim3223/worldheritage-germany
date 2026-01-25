@@ -21,7 +21,7 @@ longitude: 12.1287
 
 # Images
 images:
-  - "/images-sites/porzellanikon/01-4edc057d-800w.webp"
+  - "/images/porzellanikon/01-4edc057d-800w.webp"
 ---
 
 ## Overview

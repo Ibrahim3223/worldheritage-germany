@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1292307"
 description: "Michaelskapelle, a captivating church building located in Bruchsal, Germany, stands as a remarkable example of baroque architecture. As you approach thi..."
 images:
-  - "/images-sites/michaelskapelle/01-6d05c2f8-1920w.webp"
-  - "/images-sites/michaelskapelle/02-9fa9ba50-1920w.webp"
-  - "/images-sites/michaelskapelle/03-a530bc0c-1920w.webp"
+  - "/images/michaelskapelle/01-6d05c2f8-1920w.webp"
+  - "/images/michaelskapelle/02-9fa9ba50-1920w.webp"
+  - "/images/michaelskapelle/03-a530bc0c-1920w.webp"
 ---
 
 ## Overview

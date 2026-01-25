@@ -1,19 +1,49 @@
 ---
-title: "Dessau Central Station"
+title: Dessau Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Dessau-Roßlau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Dessau-Roßlau, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.839994
 longitude: 12.234972
 images:
-  - "/images-sites/dessau-central-station/01-d2b4c9fe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/1200px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg/1200px-I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg/1200px-I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg/1200px-I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20240217_xl_1639-Dessau_Hauptbahnhof.jpg/1200px-20240217_xl_1639-Dessau_Hauptbahnhof.jpg
+image_srcset:
+  Dessau asv2022-08 img29 Hbf von der Bahnhofsbrücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/400px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/800px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/1200px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg/1920px-Dessau_asv2022-08_img29_Hbf_von_der_Bahnhofsbrücke.jpg
+  I09 007 Bf Dessau Hbf, Straßenbahnendstelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg/400px-I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg/800px-I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg/1200px-I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg/1920px-I09_007_Bf_Dessau_Hbf,_Straßenbahnendstelle.jpg
+  I09 009 Bf Dessau Hbf, Zugdeckungssignal L303X.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg/400px-I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg/800px-I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg/1200px-I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg/1920px-I09_009_Bf_Dessau_Hbf,_Zugdeckungssignal_L303X.jpg
+  I09 008 Bf Dessau Hbf, ET 309, 310.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg/400px-I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg/800px-I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg/1200px-I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg/1920px-I09_008_Bf_Dessau_Hbf,_ET_309,_310.jpg
+  20240217 xl 1639-Dessau Hauptbahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20240217_xl_1639-Dessau_Hauptbahnhof.jpg/400px-20240217_xl_1639-Dessau_Hauptbahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20240217_xl_1639-Dessau_Hauptbahnhof.jpg/800px-20240217_xl_1639-Dessau_Hauptbahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20240217_xl_1639-Dessau_Hauptbahnhof.jpg/1200px-20240217_xl_1639-Dessau_Hauptbahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20240217_xl_1639-Dessau_Hauptbahnhof.jpg/1920px-20240217_xl_1639-Dessau_Hauptbahnhof.jpg
 ---
 
 ## Overview

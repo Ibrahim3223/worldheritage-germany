@@ -13,7 +13,7 @@ regions:
 latitude: 54.18562
 longitude: 13.77528
 images:
-  - "/images-sites/peenemuende-lighthouse/01-cf362eef-800w.webp"
+  - "/images/peenemuende-lighthouse/01-cf362eef-800w.webp"
 ---
 
 ## Overview

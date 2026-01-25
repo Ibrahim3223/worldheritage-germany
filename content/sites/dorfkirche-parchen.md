@@ -1,20 +1,52 @@
 ---
-title: "Dorfkirche Parchen"
-site_name: "Dorfkirche Parchen"
-slug: "dorfkirche-parchen"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Parchen
+site_name: Dorfkirche Parchen
+slug: dorfkirche-parchen
+region: Brandenburg
 latitude: 52.3508
 longitude: 12.0811
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244593"
-description: "In the heart of Genthin, Germany, the Dorfkirche Parchen stands as a remarkable example of historical architecture and community heritage. This church b..."
+- church building
+- religious site
+wikidata_id: Q1244593
+description: In the heart of Genthin, Germany, the Dorfkirche Parchen stands as a
+  remarkable example of historical architecture and community heritage. This church
+  b...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche%20Parchen.JPG/1200px-Dorfkirche%20Parchen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sanierungstafeln.jpg/1200px-Sanierungstafeln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/L._Rathenow.jpg/1200px-L._Rathenow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Friedhofsmauer_Parchen.jpg/1200px-Friedhofsmauer_Parchen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/1200px-Dorfkirche_Parchen.JPG
+image_srcset:
+  Dorfkirche%20Parchen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche%20Parchen.JPG/400px-Dorfkirche%20Parchen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche%20Parchen.JPG/800px-Dorfkirche%20Parchen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche%20Parchen.JPG/1200px-Dorfkirche%20Parchen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dorfkirche%20Parchen.JPG/1920px-Dorfkirche%20Parchen.JPG
+  Sanierungstafeln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sanierungstafeln.jpg/400px-Sanierungstafeln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sanierungstafeln.jpg/800px-Sanierungstafeln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sanierungstafeln.jpg/1200px-Sanierungstafeln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sanierungstafeln.jpg/1920px-Sanierungstafeln.jpg
+  L. Rathenow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/L._Rathenow.jpg/400px-L._Rathenow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/L._Rathenow.jpg/800px-L._Rathenow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/L._Rathenow.jpg/1200px-L._Rathenow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/L._Rathenow.jpg/1920px-L._Rathenow.jpg
+  Friedhofsmauer Parchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Friedhofsmauer_Parchen.jpg/400px-Friedhofsmauer_Parchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Friedhofsmauer_Parchen.jpg/800px-Friedhofsmauer_Parchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Friedhofsmauer_Parchen.jpg/1200px-Friedhofsmauer_Parchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Friedhofsmauer_Parchen.jpg/1920px-Friedhofsmauer_Parchen.jpg
+  Dorfkirche Parchen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/400px-Dorfkirche_Parchen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/800px-Dorfkirche_Parchen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/1200px-Dorfkirche_Parchen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dorfkirche_Parchen.JPG/1920px-Dorfkirche_Parchen.JPG
 ---
 
 ## Overview

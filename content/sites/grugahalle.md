@@ -1,19 +1,49 @@
 ---
-title: "Grugahalle"
+title: Grugahalle
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 51.431
 longitude: 6.99767
 images:
-  - "/images-sites/grugahalle/01-346287ed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1200px-Grugahalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Essen_–_Grugahalle_-_panoramio.jpg/1200px-Essen_–_Grugahalle_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KAS-Essen-Bild-618-1.jpg/1200px-KAS-Essen-Bild-618-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Essen_Gruga_Park_Grugahalle.jpg/1200px-Essen_Gruga_Park_Grugahalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saris_Live_1983.jpg/1200px-Saris_Live_1983.jpg
+image_srcset:
+  Grugahalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/400px-Grugahalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/800px-Grugahalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1200px-Grugahalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grugahalle.jpg/1920px-Grugahalle.jpg
+  Essen – Grugahalle - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Essen_–_Grugahalle_-_panoramio.jpg/400px-Essen_–_Grugahalle_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Essen_–_Grugahalle_-_panoramio.jpg/800px-Essen_–_Grugahalle_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Essen_–_Grugahalle_-_panoramio.jpg/1200px-Essen_–_Grugahalle_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Essen_–_Grugahalle_-_panoramio.jpg/1920px-Essen_–_Grugahalle_-_panoramio.jpg
+  KAS-Essen-Bild-618-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KAS-Essen-Bild-618-1.jpg/400px-KAS-Essen-Bild-618-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KAS-Essen-Bild-618-1.jpg/800px-KAS-Essen-Bild-618-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KAS-Essen-Bild-618-1.jpg/1200px-KAS-Essen-Bild-618-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KAS-Essen-Bild-618-1.jpg/1920px-KAS-Essen-Bild-618-1.jpg
+  Essen Gruga Park Grugahalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Essen_Gruga_Park_Grugahalle.jpg/400px-Essen_Gruga_Park_Grugahalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Essen_Gruga_Park_Grugahalle.jpg/800px-Essen_Gruga_Park_Grugahalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Essen_Gruga_Park_Grugahalle.jpg/1200px-Essen_Gruga_Park_Grugahalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Essen_Gruga_Park_Grugahalle.jpg/1920px-Essen_Gruga_Park_Grugahalle.jpg
+  Saris Live 1983.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saris_Live_1983.jpg/400px-Saris_Live_1983.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saris_Live_1983.jpg/800px-Saris_Live_1983.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saris_Live_1983.jpg/1200px-Saris_Live_1983.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saris_Live_1983.jpg/1920px-Saris_Live_1983.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Funtenseetauern"
+title: Funtenseetauern
 date: 2026-01-23
 draft: false
-description: "mountain in the Berchtesgaden Alps at the border Salzburg / Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Berchtesgaden Alps at the border Salzburg / Bavaria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.485
 longitude: 12.976944444
 images:
-  - "/images-sites/funtenseetauern/01-254d501a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg/1200px-20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Funtenseetauern_west.JPG/1200px-Funtenseetauern_west.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Funtenseetauern-Gipfel.jpg/1200px-Funtenseetauern-Gipfel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berchtesgaden_IMG_4851.jpg/1200px-Berchtesgaden_IMG_4851.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg/1200px-Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg
+image_srcset:
+  20160831 Flechten an der Weißbachlscharte, Saalfelden am Steinernen Meer, Österreich (06791).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg/400px-20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg/800px-20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg/1200px-20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg/1920px-20160831_Flechten_an_der_Weißbachlscharte,_Saalfelden_am_Steinernen_Meer,_Österreich_(06791).jpg
+  Funtenseetauern west.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Funtenseetauern_west.JPG/400px-Funtenseetauern_west.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Funtenseetauern_west.JPG/800px-Funtenseetauern_west.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Funtenseetauern_west.JPG/1200px-Funtenseetauern_west.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Funtenseetauern_west.JPG/1920px-Funtenseetauern_west.JPG
+  Funtenseetauern-Gipfel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Funtenseetauern-Gipfel.jpg/400px-Funtenseetauern-Gipfel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Funtenseetauern-Gipfel.jpg/800px-Funtenseetauern-Gipfel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Funtenseetauern-Gipfel.jpg/1200px-Funtenseetauern-Gipfel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Funtenseetauern-Gipfel.jpg/1920px-Funtenseetauern-Gipfel.jpg
+  Berchtesgaden IMG 4851.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berchtesgaden_IMG_4851.jpg/400px-Berchtesgaden_IMG_4851.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berchtesgaden_IMG_4851.jpg/800px-Berchtesgaden_IMG_4851.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berchtesgaden_IMG_4851.jpg/1200px-Berchtesgaden_IMG_4851.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berchtesgaden_IMG_4851.jpg/1920px-Berchtesgaden_IMG_4851.jpg
+  Funtenseetauern N von Jenner 200 IMG 20240514 1429.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg/400px-Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg/800px-Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg/1200px-Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg/1920px-Funtenseetauern_N_von_Jenner_200_IMG_20240514_1429.jpg
 ---
 
 ## Overview

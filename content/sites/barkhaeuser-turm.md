@@ -1,21 +1,49 @@
 ---
-title: "Barkhäuser Turm"
+title: Barkhäuser Turm
 date: 2026-01-24
 draft: false
-description: "Turm in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: Turm in Deutschland
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0525
 longitude: 11.1001
 images:
-  - "/images-sites/barkhaeuser-turm/01-72bfc88f-800w.webp"
-  - "/images-sites/barkhaeuser-turm/02-24746d94-800w.webp"
-  - "/images-sites/barkhaeuser-turm/03-0cc8a582-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barkhäuser_Turm_2.jpg/1200px-Barkhäuser_Turm_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barkhäuser_Turm_mit_Umfeld.jpg/1200px-Barkhäuser_Turm_mit_Umfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Barkhäuser_Warte_mit_Umfeld.jpg/1200px-Barkhäuser_Warte_mit_Umfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Infoschild_zum_Barkhäuser_Turm.jpg/1200px-Infoschild_zum_Barkhäuser_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg/1200px-Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg
+image_srcset:
+  Barkhäuser Turm 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barkhäuser_Turm_2.jpg/400px-Barkhäuser_Turm_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barkhäuser_Turm_2.jpg/800px-Barkhäuser_Turm_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barkhäuser_Turm_2.jpg/1200px-Barkhäuser_Turm_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barkhäuser_Turm_2.jpg/1920px-Barkhäuser_Turm_2.jpg
+  Barkhäuser Turm mit Umfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barkhäuser_Turm_mit_Umfeld.jpg/400px-Barkhäuser_Turm_mit_Umfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barkhäuser_Turm_mit_Umfeld.jpg/800px-Barkhäuser_Turm_mit_Umfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barkhäuser_Turm_mit_Umfeld.jpg/1200px-Barkhäuser_Turm_mit_Umfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barkhäuser_Turm_mit_Umfeld.jpg/1920px-Barkhäuser_Turm_mit_Umfeld.jpg
+  Barkhäuser Warte mit Umfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Barkhäuser_Warte_mit_Umfeld.jpg/400px-Barkhäuser_Warte_mit_Umfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Barkhäuser_Warte_mit_Umfeld.jpg/800px-Barkhäuser_Warte_mit_Umfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Barkhäuser_Warte_mit_Umfeld.jpg/1200px-Barkhäuser_Warte_mit_Umfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Barkhäuser_Warte_mit_Umfeld.jpg/1920px-Barkhäuser_Warte_mit_Umfeld.jpg
+  Infoschild zum Barkhäuser Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Infoschild_zum_Barkhäuser_Turm.jpg/400px-Infoschild_zum_Barkhäuser_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Infoschild_zum_Barkhäuser_Turm.jpg/800px-Infoschild_zum_Barkhäuser_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Infoschild_zum_Barkhäuser_Turm.jpg/1200px-Infoschild_zum_Barkhäuser_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Infoschild_zum_Barkhäuser_Turm.jpg/1920px-Infoschild_zum_Barkhäuser_Turm.jpg
+  Wegweiser zum Rundturm des Barkhäuser Turms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg/400px-Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg/800px-Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg/1200px-Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg/1920px-Wegweiser_zum_Rundturm_des_Barkhäuser_Turms.jpg
 ---
 
 ## Overview

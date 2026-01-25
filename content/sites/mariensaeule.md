@@ -13,7 +13,7 @@ regions:
 latitude: 49.76
 longitude: 6.62028
 images:
-  - "/images-sites/mariensaeule/01-3531dc66-800w.webp"
+  - "/images/mariensaeule/01-3531dc66-800w.webp"
 ---
 
 ## Overview

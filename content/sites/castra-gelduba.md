@@ -1,27 +1,49 @@
 ---
-title: "Castra Gelduba"
+title: Castra Gelduba
 date: 2026-01-23
 draft: false
-description: "Roman fort"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman fort
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3332
 longitude: 6.6825
-
-# Images
 images:
-  - "/images-sites/castra-gelduba/01-2a6f5745-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Keramik_Gelduba_Museum_Burg_Linn.jpg/1200px-Keramik_Gelduba_Museum_Burg_Linn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg/1200px-Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Porzellanglockenspiel_Krefeld.JPG/1200px-Porzellanglockenspiel_Krefeld.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FrankFürstGrab.JPG/1200px-FrankFürstGrab.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg_Linn_Modell_16._Jh.JPG/1200px-Burg_Linn_Modell_16._Jh.JPG
+image_srcset:
+  Keramik Gelduba Museum Burg Linn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Keramik_Gelduba_Museum_Burg_Linn.jpg/400px-Keramik_Gelduba_Museum_Burg_Linn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Keramik_Gelduba_Museum_Burg_Linn.jpg/800px-Keramik_Gelduba_Museum_Burg_Linn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Keramik_Gelduba_Museum_Burg_Linn.jpg/1200px-Keramik_Gelduba_Museum_Burg_Linn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Keramik_Gelduba_Museum_Burg_Linn.jpg/1920px-Keramik_Gelduba_Museum_Burg_Linn.jpg
+  Buntglasierte Tonware (4. Jh.) Museum Burg Linn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg/400px-Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg/800px-Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg/1200px-Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg/1920px-Buntglasierte_Tonware_(4._Jh.)_Museum_Burg_Linn.jpg
+  Porzellanglockenspiel Krefeld.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Porzellanglockenspiel_Krefeld.JPG/400px-Porzellanglockenspiel_Krefeld.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Porzellanglockenspiel_Krefeld.JPG/800px-Porzellanglockenspiel_Krefeld.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Porzellanglockenspiel_Krefeld.JPG/1200px-Porzellanglockenspiel_Krefeld.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Porzellanglockenspiel_Krefeld.JPG/1920px-Porzellanglockenspiel_Krefeld.JPG
+  FrankFürstGrab.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FrankFürstGrab.JPG/400px-FrankFürstGrab.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FrankFürstGrab.JPG/800px-FrankFürstGrab.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FrankFürstGrab.JPG/1200px-FrankFürstGrab.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/FrankFürstGrab.JPG/1920px-FrankFürstGrab.JPG
+  Burg Linn Modell 16. Jh.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg_Linn_Modell_16._Jh.JPG/400px-Burg_Linn_Modell_16._Jh.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg_Linn_Modell_16._Jh.JPG/800px-Burg_Linn_Modell_16._Jh.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg_Linn_Modell_16._Jh.JPG/1200px-Burg_Linn_Modell_16._Jh.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg_Linn_Modell_16._Jh.JPG/1920px-Burg_Linn_Modell_16._Jh.JPG
 ---
 
 ## Overview

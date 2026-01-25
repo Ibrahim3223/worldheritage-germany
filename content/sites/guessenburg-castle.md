@@ -1,28 +1,49 @@
 ---
-title: "Güssenburg Castle"
+title: Güssenburg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.600308333
 longitude: 10.246611111
-
-# Images
 images:
-  - "/images-sites/guessenburg-castle/01-92949e0d-800w.webp"
-  - "/images-sites/guessenburg-castle/02-4d8b3080-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Güssenberg_(Magenau)_030.gif/1200px-Güssenberg_(Magenau)_030.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Güssenberg_(Magenau)_071.gif/1200px-Güssenberg_(Magenau)_071.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Güssenberg_(Magenau)_095.gif/1200px-Güssenberg_(Magenau)_095.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Güssenberg_(Magenau)_p_007.gif/1200px-Güssenberg_(Magenau)_p_007.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg_Guessenburg.jpg/1200px-Burg_Guessenburg.jpg
+image_srcset:
+  Güssenberg (Magenau) 030.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Güssenberg_(Magenau)_030.gif/400px-Güssenberg_(Magenau)_030.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Güssenberg_(Magenau)_030.gif/800px-Güssenberg_(Magenau)_030.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Güssenberg_(Magenau)_030.gif/1200px-Güssenberg_(Magenau)_030.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Güssenberg_(Magenau)_030.gif/1920px-Güssenberg_(Magenau)_030.gif
+  Güssenberg (Magenau) 071.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Güssenberg_(Magenau)_071.gif/400px-Güssenberg_(Magenau)_071.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Güssenberg_(Magenau)_071.gif/800px-Güssenberg_(Magenau)_071.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Güssenberg_(Magenau)_071.gif/1200px-Güssenberg_(Magenau)_071.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Güssenberg_(Magenau)_071.gif/1920px-Güssenberg_(Magenau)_071.gif
+  Güssenberg (Magenau) 095.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Güssenberg_(Magenau)_095.gif/400px-Güssenberg_(Magenau)_095.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Güssenberg_(Magenau)_095.gif/800px-Güssenberg_(Magenau)_095.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Güssenberg_(Magenau)_095.gif/1200px-Güssenberg_(Magenau)_095.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Güssenberg_(Magenau)_095.gif/1920px-Güssenberg_(Magenau)_095.gif
+  Güssenberg (Magenau) p 007.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Güssenberg_(Magenau)_p_007.gif/400px-Güssenberg_(Magenau)_p_007.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Güssenberg_(Magenau)_p_007.gif/800px-Güssenberg_(Magenau)_p_007.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Güssenberg_(Magenau)_p_007.gif/1200px-Güssenberg_(Magenau)_p_007.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Güssenberg_(Magenau)_p_007.gif/1920px-Güssenberg_(Magenau)_p_007.gif
+  Burg Guessenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg_Guessenburg.jpg/400px-Burg_Guessenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg_Guessenburg.jpg/800px-Burg_Guessenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg_Guessenburg.jpg/1200px-Burg_Guessenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Burg_Guessenburg.jpg/1920px-Burg_Guessenburg.jpg
 ---
 
 ## Overview

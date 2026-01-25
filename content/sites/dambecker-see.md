@@ -1,19 +1,50 @@
 ---
-title: "Dambecker See"
+title: Dambecker See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.367777777
 longitude: 12.493888888
 images:
-  - "/images-sites/dambecker-see/01-cee1a076-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dambecker_See_SO_Bütow.JPG/1200px-Dambecker_See_SO_Bütow.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dambecker_See_SO_Bütow_(2).JPG/1200px-Dambecker_See_SO_Bütow_(2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NSG_grosser_Dambecker_See_5.JPG/1200px-NSG_grosser_Dambecker_See_5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/1200px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Kleiner_Dambecker_See_Panorama.png/1200px-NSG_Kleiner_Dambecker_See_Panorama.png
+image_srcset:
+  Dambecker See SO Bütow.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dambecker_See_SO_Bütow.JPG/400px-Dambecker_See_SO_Bütow.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dambecker_See_SO_Bütow.JPG/800px-Dambecker_See_SO_Bütow.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dambecker_See_SO_Bütow.JPG/1200px-Dambecker_See_SO_Bütow.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dambecker_See_SO_Bütow.JPG/1920px-Dambecker_See_SO_Bütow.JPG
+  Dambecker See SO Bütow (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dambecker_See_SO_Bütow_(2).JPG/400px-Dambecker_See_SO_Bütow_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dambecker_See_SO_Bütow_(2).JPG/800px-Dambecker_See_SO_Bütow_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dambecker_See_SO_Bütow_(2).JPG/1200px-Dambecker_See_SO_Bütow_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dambecker_See_SO_Bütow_(2).JPG/1920px-Dambecker_See_SO_Bütow_(2).JPG
+  NSG grosser Dambecker See 5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NSG_grosser_Dambecker_See_5.JPG/400px-NSG_grosser_Dambecker_See_5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NSG_grosser_Dambecker_See_5.JPG/800px-NSG_grosser_Dambecker_See_5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NSG_grosser_Dambecker_See_5.JPG/1200px-NSG_grosser_Dambecker_See_5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NSG_grosser_Dambecker_See_5.JPG/1920px-NSG_grosser_Dambecker_See_5.JPG
+  Dambeck (Bütow MÜR) Dambecker See 2009-08-31 031.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/400px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/800px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/1200px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg/1920px-Dambeck_(Bütow_MÜR)_Dambecker_See_2009-08-31_031.jpg
+  NSG Kleiner Dambecker See Panorama.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Kleiner_Dambecker_See_Panorama.png/400px-NSG_Kleiner_Dambecker_See_Panorama.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Kleiner_Dambecker_See_Panorama.png/800px-NSG_Kleiner_Dambecker_See_Panorama.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Kleiner_Dambecker_See_Panorama.png/1200px-NSG_Kleiner_Dambecker_See_Panorama.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Kleiner_Dambecker_See_Panorama.png/1920px-NSG_Kleiner_Dambecker_See_Panorama.png
 ---
 
 ## Overview

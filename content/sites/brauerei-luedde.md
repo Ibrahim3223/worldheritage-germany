@@ -1,27 +1,49 @@
 ---
-title: "Brauerei Lüdde"
+title: Brauerei Lüdde
 date: 2026-01-23
 draft: false
-description: "timber framed house"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: timber framed house
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.788428
 longitude: 11.138994
-
-# Images
 images:
-  - "/images-sites/brauerei-luedde/01-9b3cd657-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg/1200px-Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Quedlinburg_-_14_Blasiistraße_-_01.jpg/1200px-Quedlinburg_-_14_Blasiistraße_-_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Quedlinburg,_Brauerei_Lüdde_(1).jpg/1200px-Quedlinburg,_Brauerei_Lüdde_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1200px-Quedlinburg_Brauerei_Lüdde.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Blasiistraße_13_(Quedlinburg).JPG/1200px-Blasiistraße_13_(Quedlinburg).JPG
+image_srcset:
+  Quedlinburg, Haus Blasiistraße 14 (Brauerei Lüdde).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg/400px-Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg/800px-Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg/1200px-Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg/1920px-Quedlinburg,_Haus_Blasiistraße_14_(Brauerei_Lüdde).jpg
+  Quedlinburg - 14 Blasiistraße - 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Quedlinburg_-_14_Blasiistraße_-_01.jpg/400px-Quedlinburg_-_14_Blasiistraße_-_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Quedlinburg_-_14_Blasiistraße_-_01.jpg/800px-Quedlinburg_-_14_Blasiistraße_-_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Quedlinburg_-_14_Blasiistraße_-_01.jpg/1200px-Quedlinburg_-_14_Blasiistraße_-_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Quedlinburg_-_14_Blasiistraße_-_01.jpg/1920px-Quedlinburg_-_14_Blasiistraße_-_01.jpg
+  Quedlinburg, Brauerei Lüdde (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Quedlinburg,_Brauerei_Lüdde_(1).jpg/400px-Quedlinburg,_Brauerei_Lüdde_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Quedlinburg,_Brauerei_Lüdde_(1).jpg/800px-Quedlinburg,_Brauerei_Lüdde_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Quedlinburg,_Brauerei_Lüdde_(1).jpg/1200px-Quedlinburg,_Brauerei_Lüdde_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Quedlinburg,_Brauerei_Lüdde_(1).jpg/1920px-Quedlinburg,_Brauerei_Lüdde_(1).jpg
+  Quedlinburg Brauerei Lüdde.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/400px-Quedlinburg_Brauerei_Lüdde.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/800px-Quedlinburg_Brauerei_Lüdde.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1200px-Quedlinburg_Brauerei_Lüdde.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Quedlinburg_Brauerei_Lüdde.JPG/1920px-Quedlinburg_Brauerei_Lüdde.JPG
+  Blasiistraße 13 (Quedlinburg).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Blasiistraße_13_(Quedlinburg).JPG/400px-Blasiistraße_13_(Quedlinburg).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Blasiistraße_13_(Quedlinburg).JPG/800px-Blasiistraße_13_(Quedlinburg).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Blasiistraße_13_(Quedlinburg).JPG/1200px-Blasiistraße_13_(Quedlinburg).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Blasiistraße_13_(Quedlinburg).JPG/1920px-Blasiistraße_13_(Quedlinburg).JPG
 ---
 
 ## Overview

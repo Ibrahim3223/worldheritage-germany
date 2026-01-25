@@ -1,27 +1,49 @@
 ---
-title: "Burg Hülshoff"
+title: Burg Hülshoff
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.9711926
 longitude: 7.5034043
-
-# Images
 images:
-  - "/images-sites/burg-huelshoff/01-0e86d2d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg/1200px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Hülshoff_Rückansicht.jpg/1200px-Burg_Hülshoff_Rückansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wasserburg_Hülshoff.JPG/1200px-Wasserburg_Hülshoff.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg/1200px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Hülshoff_-_panoramio_(1).jpg/1200px-Burg_Hülshoff_-_panoramio_(1).jpg
+image_srcset:
+  Havixbeck, Burg Hülshoff -- 2014 -- 9333.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg/400px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg/800px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg/1200px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg/1920px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333.jpg
+  Burg Hülshoff Rückansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Hülshoff_Rückansicht.jpg/400px-Burg_Hülshoff_Rückansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Hülshoff_Rückansicht.jpg/800px-Burg_Hülshoff_Rückansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Hülshoff_Rückansicht.jpg/1200px-Burg_Hülshoff_Rückansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Burg_Hülshoff_Rückansicht.jpg/1920px-Burg_Hülshoff_Rückansicht.jpg
+  Wasserburg Hülshoff.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wasserburg_Hülshoff.JPG/400px-Wasserburg_Hülshoff.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wasserburg_Hülshoff.JPG/800px-Wasserburg_Hülshoff.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wasserburg_Hülshoff.JPG/1200px-Wasserburg_Hülshoff.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wasserburg_Hülshoff.JPG/1920px-Wasserburg_Hülshoff.JPG
+  Havixbeck, Burg Hülshoff -- 2014 -- 9333 -- Ausschnitt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg/400px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg/800px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg/1200px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg/1920px-Havixbeck,_Burg_Hülshoff_--_2014_--_9333_--_Ausschnitt.jpg
+  Burg Hülshoff - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Hülshoff_-_panoramio_(1).jpg/400px-Burg_Hülshoff_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Hülshoff_-_panoramio_(1).jpg/800px-Burg_Hülshoff_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Hülshoff_-_panoramio_(1).jpg/1200px-Burg_Hülshoff_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Hülshoff_-_panoramio_(1).jpg/1920px-Burg_Hülshoff_-_panoramio_(1).jpg
 ---
 
 ## Overview

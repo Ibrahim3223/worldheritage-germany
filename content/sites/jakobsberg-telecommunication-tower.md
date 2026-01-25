@@ -1,21 +1,49 @@
 ---
-title: "Jakobsberg Telecommunication Tower"
+title: Jakobsberg Telecommunication Tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2416
 longitude: 8.93647
 images:
-  - "/images-sites/jakobsberg-telecommunication-tower/01-cbdb7a0b-800w.webp"
-  - "/images-sites/jakobsberg-telecommunication-tower/02-9fe85531-800w.webp"
-  - "/images-sites/jakobsberg-telecommunication-tower/03-cd6f71da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Porta_Westfalica,_2009-Nov_(Panorama_03).jpg/1200px-Porta_Westfalica,_2009-Nov_(Panorama_03).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1200px-FMT_Porta_Westfalica.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hausberge-2.jpg/1200px-Hausberge-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fernsehturm_Jacobsberg.jpg/1200px-Fernsehturm_Jacobsberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg/1200px-Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg
+image_srcset:
+  Porta Westfalica, 2009-Nov (Panorama 03).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Porta_Westfalica,_2009-Nov_(Panorama_03).jpg/400px-Porta_Westfalica,_2009-Nov_(Panorama_03).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Porta_Westfalica,_2009-Nov_(Panorama_03).jpg/800px-Porta_Westfalica,_2009-Nov_(Panorama_03).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Porta_Westfalica,_2009-Nov_(Panorama_03).jpg/1200px-Porta_Westfalica,_2009-Nov_(Panorama_03).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Porta_Westfalica,_2009-Nov_(Panorama_03).jpg/1920px-Porta_Westfalica,_2009-Nov_(Panorama_03).jpg
+  FMT Porta Westfalica.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/400px-FMT_Porta_Westfalica.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/800px-FMT_Porta_Westfalica.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1200px-FMT_Porta_Westfalica.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FMT_Porta_Westfalica.JPG/1920px-FMT_Porta_Westfalica.JPG
+  Hausberge-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hausberge-2.jpg/400px-Hausberge-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hausberge-2.jpg/800px-Hausberge-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hausberge-2.jpg/1200px-Hausberge-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hausberge-2.jpg/1920px-Hausberge-2.jpg
+  Fernsehturm Jacobsberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fernsehturm_Jacobsberg.jpg/400px-Fernsehturm_Jacobsberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fernsehturm_Jacobsberg.jpg/800px-Fernsehturm_Jacobsberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fernsehturm_Jacobsberg.jpg/1200px-Fernsehturm_Jacobsberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fernsehturm_Jacobsberg.jpg/1920px-Fernsehturm_Jacobsberg.jpg
+  Foto vom 19.04.2020 14.20 Uhr von einem UKW-fähigen Radio in Neesen Porta Westfalica.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg/400px-Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg/800px-Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg/1200px-Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg/1920px-Foto_vom_19.04.2020_14.20_Uhr_von_einem_UKW-fähigen_Radio_in_Neesen_Porta_Westfalica.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.5622
 longitude: 6.7474
 images:
-  - "/images-sites/light-vessel-borkumriff/01-6dd862f6-800w.webp"
+  - "/images/light-vessel-borkumriff/01-6dd862f6-800w.webp"
 ---
 
 ## Overview

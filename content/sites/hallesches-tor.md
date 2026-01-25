@@ -1,19 +1,49 @@
 ---
-title: "Hallesches Tor"
+title: Hallesches Tor
 date: 2026-01-23
 draft: false
-description: "former city gate in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: former city gate in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 52.497960573
 longitude: 13.391887077
 images:
-  - "/images-sites/hallesches-tor/01-d5e31d9b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/1200px-Hallesches_Tor_1730.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_-_Postkarte_2_Hallesches_Tor.png/1200px-Berlin_-_Postkarte_2_Hallesches_Tor.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/UBahnhofHalleschestor.JPG/1200px-UBahnhofHalleschestor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg/1200px-Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/U-Bahn_Berlin_Hallesches_TorU1.JPG/1200px-U-Bahn_Berlin_Hallesches_TorU1.JPG
+image_srcset:
+  Hallesches Tor 1730.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/400px-Hallesches_Tor_1730.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/800px-Hallesches_Tor_1730.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/1200px-Hallesches_Tor_1730.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hallesches_Tor_1730.jpg/1920px-Hallesches_Tor_1730.jpg
+  Berlin - Postkarte 2 Hallesches Tor.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_-_Postkarte_2_Hallesches_Tor.png/400px-Berlin_-_Postkarte_2_Hallesches_Tor.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_-_Postkarte_2_Hallesches_Tor.png/800px-Berlin_-_Postkarte_2_Hallesches_Tor.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_-_Postkarte_2_Hallesches_Tor.png/1200px-Berlin_-_Postkarte_2_Hallesches_Tor.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin_-_Postkarte_2_Hallesches_Tor.png/1920px-Berlin_-_Postkarte_2_Hallesches_Tor.png
+  UBahnhofHalleschestor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/UBahnhofHalleschestor.JPG/400px-UBahnhofHalleschestor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/UBahnhofHalleschestor.JPG/800px-UBahnhofHalleschestor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/UBahnhofHalleschestor.JPG/1200px-UBahnhofHalleschestor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/UBahnhofHalleschestor.JPG/1920px-UBahnhofHalleschestor.JPG
+  Bundesarchiv Bild 146-1973-030C-26, Berlin, Hallesches Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg/400px-Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg/800px-Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg/1200px-Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg/1920px-Bundesarchiv_Bild_146-1973-030C-26,_Berlin,_Hallesches_Tor.jpg
+  U-Bahn Berlin Hallesches TorU1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/U-Bahn_Berlin_Hallesches_TorU1.JPG/400px-U-Bahn_Berlin_Hallesches_TorU1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/U-Bahn_Berlin_Hallesches_TorU1.JPG/800px-U-Bahn_Berlin_Hallesches_TorU1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/U-Bahn_Berlin_Hallesches_TorU1.JPG/1200px-U-Bahn_Berlin_Hallesches_TorU1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/U-Bahn_Berlin_Hallesches_TorU1.JPG/1920px-U-Bahn_Berlin_Hallesches_TorU1.JPG
 ---
 
 ## Overview

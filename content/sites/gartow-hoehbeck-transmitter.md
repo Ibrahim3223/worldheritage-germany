@@ -1,19 +1,49 @@
 ---
-title: "Gartow-Höhbeck transmitter"
+title: Gartow-Höhbeck transmitter
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0655
 longitude: 11.4428
 images:
-  - "/images-sites/gartow-hoehbeck-transmitter/01-b7ed9956-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gartow_Radio_Masts_18082009_1.JPG/1200px-Gartow_Radio_Masts_18082009_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gartow_Transmitter_Cable_Canal.JPG/1200px-Gartow_Transmitter_Cable_Canal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gartow_Transmitter_Mast1_section11.JPG/1200px-Gartow_Transmitter_Mast1_section11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoehbeck_Sender_Gartow_2_8087.jpg/1200px-Hoehbeck_Sender_Gartow_2_8087.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Höhbeck2148.JPG/1200px-Höhbeck2148.JPG
+image_srcset:
+  Gartow Radio Masts 18082009 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gartow_Radio_Masts_18082009_1.JPG/400px-Gartow_Radio_Masts_18082009_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gartow_Radio_Masts_18082009_1.JPG/800px-Gartow_Radio_Masts_18082009_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gartow_Radio_Masts_18082009_1.JPG/1200px-Gartow_Radio_Masts_18082009_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gartow_Radio_Masts_18082009_1.JPG/1920px-Gartow_Radio_Masts_18082009_1.JPG
+  Gartow Transmitter Cable Canal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gartow_Transmitter_Cable_Canal.JPG/400px-Gartow_Transmitter_Cable_Canal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gartow_Transmitter_Cable_Canal.JPG/800px-Gartow_Transmitter_Cable_Canal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gartow_Transmitter_Cable_Canal.JPG/1200px-Gartow_Transmitter_Cable_Canal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gartow_Transmitter_Cable_Canal.JPG/1920px-Gartow_Transmitter_Cable_Canal.JPG
+  Gartow Transmitter Mast1 section11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gartow_Transmitter_Mast1_section11.JPG/400px-Gartow_Transmitter_Mast1_section11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gartow_Transmitter_Mast1_section11.JPG/800px-Gartow_Transmitter_Mast1_section11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gartow_Transmitter_Mast1_section11.JPG/1200px-Gartow_Transmitter_Mast1_section11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gartow_Transmitter_Mast1_section11.JPG/1920px-Gartow_Transmitter_Mast1_section11.JPG
+  Hoehbeck Sender Gartow 2 8087.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoehbeck_Sender_Gartow_2_8087.jpg/400px-Hoehbeck_Sender_Gartow_2_8087.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoehbeck_Sender_Gartow_2_8087.jpg/800px-Hoehbeck_Sender_Gartow_2_8087.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoehbeck_Sender_Gartow_2_8087.jpg/1200px-Hoehbeck_Sender_Gartow_2_8087.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hoehbeck_Sender_Gartow_2_8087.jpg/1920px-Hoehbeck_Sender_Gartow_2_8087.jpg
+  Höhbeck2148.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Höhbeck2148.JPG/400px-Höhbeck2148.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Höhbeck2148.JPG/800px-Höhbeck2148.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Höhbeck2148.JPG/1200px-Höhbeck2148.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Höhbeck2148.JPG/1920px-Höhbeck2148.JPG
 ---
 
 ## Overview

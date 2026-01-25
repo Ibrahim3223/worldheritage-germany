@@ -1,19 +1,49 @@
 ---
-title: "Burg Neu-Windeck"
+title: Burg Neu-Windeck
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.64339
 longitude: 8.13801
 images:
-  - "/images-sites/burg-neu-windeck/01-91d89a2e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg/1200px-Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lauf-Burg_Neuwindeck-02-gje.jpg/1200px-Lauf-Burg_Neuwindeck-02-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Landappbw_989015_1818_Neuwindeck_Lauf.jpg/1200px-Landappbw_989015_1818_Neuwindeck_Lauf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Landappbw_989017_1818_Neuwindeck_Lauf.jpg/1200px-Landappbw_989017_1818_Neuwindeck_Lauf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/1200px-Neu-Windeck_01.jpg
+image_srcset:
+  Lauf-Burg Neuwindeck-01-vom Friedhof-2018-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg/400px-Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg/800px-Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg/1200px-Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg/1920px-Lauf-Burg_Neuwindeck-01-vom_Friedhof-2018-gje.jpg
+  Lauf-Burg Neuwindeck-02-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lauf-Burg_Neuwindeck-02-gje.jpg/400px-Lauf-Burg_Neuwindeck-02-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lauf-Burg_Neuwindeck-02-gje.jpg/800px-Lauf-Burg_Neuwindeck-02-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lauf-Burg_Neuwindeck-02-gje.jpg/1200px-Lauf-Burg_Neuwindeck-02-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lauf-Burg_Neuwindeck-02-gje.jpg/1920px-Lauf-Burg_Neuwindeck-02-gje.jpg
+  Landappbw 989015 1818 Neuwindeck Lauf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Landappbw_989015_1818_Neuwindeck_Lauf.jpg/400px-Landappbw_989015_1818_Neuwindeck_Lauf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Landappbw_989015_1818_Neuwindeck_Lauf.jpg/800px-Landappbw_989015_1818_Neuwindeck_Lauf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Landappbw_989015_1818_Neuwindeck_Lauf.jpg/1200px-Landappbw_989015_1818_Neuwindeck_Lauf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Landappbw_989015_1818_Neuwindeck_Lauf.jpg/1920px-Landappbw_989015_1818_Neuwindeck_Lauf.jpg
+  Landappbw 989017 1818 Neuwindeck Lauf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Landappbw_989017_1818_Neuwindeck_Lauf.jpg/400px-Landappbw_989017_1818_Neuwindeck_Lauf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Landappbw_989017_1818_Neuwindeck_Lauf.jpg/800px-Landappbw_989017_1818_Neuwindeck_Lauf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Landappbw_989017_1818_Neuwindeck_Lauf.jpg/1200px-Landappbw_989017_1818_Neuwindeck_Lauf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Landappbw_989017_1818_Neuwindeck_Lauf.jpg/1920px-Landappbw_989017_1818_Neuwindeck_Lauf.jpg
+  Neu-Windeck 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/400px-Neu-Windeck_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/800px-Neu-Windeck_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/1200px-Neu-Windeck_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Neu-Windeck_01.jpg/1920px-Neu-Windeck_01.jpg
 ---
 
 ## Overview

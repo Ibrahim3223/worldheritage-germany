@@ -21,7 +21,7 @@ longitude: 11.3264
 
 # Images
 images:
-  - "/images-sites/neues-museum-weimar/01-9f914728-800w.webp"
+  - "/images/neues-museum-weimar/01-9f914728-800w.webp"
 ---
 
 ## Overview

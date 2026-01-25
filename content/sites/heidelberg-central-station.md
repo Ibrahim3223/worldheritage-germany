@@ -1,19 +1,49 @@
 ---
-title: "Heidelberg Central Station"
+title: Heidelberg Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Heidelberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.403611111
 longitude: 8.675277777
 images:
-  - "/images-sites/heidelberg-central-station/01-de6d87a5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heidelberg_Hbf_-_Platform_4.JPG/1200px-Heidelberg_Hbf_-_Platform_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelberg_HBF_006c.jpg/1200px-Heidelberg_HBF_006c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidelberg_HBF.jpg/1200px-Heidelberg_HBF.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Baden-Württemberg_Police_Volkswagen_transporter.jpg/1200px-Baden-Württemberg_Police_Volkswagen_transporter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heidelberg_Hbf.jpg/1200px-Heidelberg_Hbf.jpg
+image_srcset:
+  Heidelberg Hbf - Platform 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heidelberg_Hbf_-_Platform_4.JPG/400px-Heidelberg_Hbf_-_Platform_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heidelberg_Hbf_-_Platform_4.JPG/800px-Heidelberg_Hbf_-_Platform_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heidelberg_Hbf_-_Platform_4.JPG/1200px-Heidelberg_Hbf_-_Platform_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heidelberg_Hbf_-_Platform_4.JPG/1920px-Heidelberg_Hbf_-_Platform_4.JPG
+  Heidelberg HBF 006c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelberg_HBF_006c.jpg/400px-Heidelberg_HBF_006c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelberg_HBF_006c.jpg/800px-Heidelberg_HBF_006c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelberg_HBF_006c.jpg/1200px-Heidelberg_HBF_006c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heidelberg_HBF_006c.jpg/1920px-Heidelberg_HBF_006c.jpg
+  Heidelberg HBF.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidelberg_HBF.jpg/400px-Heidelberg_HBF.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidelberg_HBF.jpg/800px-Heidelberg_HBF.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidelberg_HBF.jpg/1200px-Heidelberg_HBF.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heidelberg_HBF.jpg/1920px-Heidelberg_HBF.jpg
+  Baden-Württemberg Police Volkswagen transporter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Baden-Württemberg_Police_Volkswagen_transporter.jpg/400px-Baden-Württemberg_Police_Volkswagen_transporter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Baden-Württemberg_Police_Volkswagen_transporter.jpg/800px-Baden-Württemberg_Police_Volkswagen_transporter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Baden-Württemberg_Police_Volkswagen_transporter.jpg/1200px-Baden-Württemberg_Police_Volkswagen_transporter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Baden-Württemberg_Police_Volkswagen_transporter.jpg/1920px-Baden-Württemberg_Police_Volkswagen_transporter.jpg
+  Heidelberg Hbf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heidelberg_Hbf.jpg/400px-Heidelberg_Hbf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heidelberg_Hbf.jpg/800px-Heidelberg_Hbf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heidelberg_Hbf.jpg/1200px-Heidelberg_Hbf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heidelberg_Hbf.jpg/1920px-Heidelberg_Hbf.jpg
 ---
 
 ## Overview

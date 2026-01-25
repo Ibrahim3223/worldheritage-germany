@@ -1,21 +1,55 @@
 ---
-title: "Kaiser-Wilhelm- und Ratsgymnasium (Hannover)"
+title: Kaiser-Wilhelm- und Ratsgymnasium (Hannover)
 date: 2026-01-23
 draft: false
-description: "school"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3781
 longitude: 9.76222
 images:
-  - "/images-sites/kaiser-wilhelm-und-ratsgymnasium-hannover/01-9ef1aa26-800w.webp"
-  - "/images-sites/kaiser-wilhelm-und-ratsgymnasium-hannover/02-e857906f-800w.webp"
-  - "/images-sites/kaiser-wilhelm-und-ratsgymnasium-hannover/03-8461b21b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg/1200px-1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1200px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp/1200px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp/1200px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KWR5.jpg/1200px-KWR5.jpg
+image_srcset:
+  ? 1854 circa Wilhelm Kretschmer (Zeichner), Leopold Kraatz (Lithografie), Koloration
+    vermutlich Kinderhand, Verlag Herm Oppermann Lyceum und höhere Bürgerschule Georgsplatz
+    Hannover.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg/400px-1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg/800px-1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg/1200px-1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg/1920px-1854_circa_Wilhelm_Kretschmer_(Zeichner),_Leopold_Kraatz_(Lithografie),_Koloration_vermutlich_Kinderhand,_Verlag_Herm_Oppermann_Lyceum_und_höhere_Bürgerschule_Georgsplatz_Hannover.jpg
+  Kaiser-Wilhelm- und Ratsgymnasium Hannover Strassenseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/400px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/800px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1200px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg/1920px-Kaiser-Wilhelm-_und_Ratsgymnasium_Hannover_Strassenseite.jpg
+  ? 1854 circa Wilhelm Kretschmer Zeichnung Lyceum und Höhere Bürgerschule, Tonlithographie
+    Lith. Institut Arnz et Comp. in Düsseldorf, Verlag Verlag von Herm. Oppermann
+    in Hannover, ganzes Blatt.webp
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp/400px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp/800px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp/1200px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp/1920px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover,_ganzes_Blatt.webp
+  ? 1854 circa Wilhelm Kretschmer Zeichnung Lyceum und Höhere Bürgerschule, Tonlithographie
+    Lith. Institut Arnz et Comp. in Düsseldorf, Verlag Verlag von Herm. Oppermann
+    in Hannover 02.webp
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp/400px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp/800px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp/1200px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp/1920px-1854_circa_Wilhelm_Kretschmer_Zeichnung_Lyceum_und_Höhere_Bürgerschule,_Tonlithographie_Lith._Institut_Arnz_et_Comp._in_Düsseldorf,_Verlag_Verlag_von_Herm._Oppermann_in_Hannover_02.webp
+  KWR5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KWR5.jpg/400px-KWR5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KWR5.jpg/800px-KWR5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KWR5.jpg/1200px-KWR5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KWR5.jpg/1920px-KWR5.jpg
 ---
 
 ## Overview

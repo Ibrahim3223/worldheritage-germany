@@ -13,8 +13,8 @@ regions:
 latitude: 50.5517
 longitude: 9.67917
 images:
-  - "/images-sites/university-of-fulda/02-a5ffa341-800w.webp"
-  - "/images-sites/university-of-fulda/03-9ff1eabd-800w.webp"
+  - "/images/university-of-fulda/02-a5ffa341-800w.webp"
+  - "/images/university-of-fulda/03-9ff1eabd-800w.webp"
 ---
 
 ## Overview

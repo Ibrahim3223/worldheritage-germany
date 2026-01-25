@@ -1,21 +1,49 @@
 ---
-title: "Alter Garnisonfriedhof Berlin"
+title: Alter Garnisonfriedhof Berlin
 date: 2026-01-23
 draft: false
-description: "cemetery in Mitte, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Mitte, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.528333333
 longitude: 13.404166666
 images:
-  - "/images-sites/alter-garnisonfriedhof-berlin/01-ae9a8bb1-800w.webp"
-  - "/images-sites/alter-garnisonfriedhof-berlin/02-b07ea9ea-800w.webp"
-  - "/images-sites/alter-garnisonfriedhof-berlin/03-cbf4c8a7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alter_Garnisonfriedhof,_Berlin_(15).jpg/1200px-Alter_Garnisonfriedhof,_Berlin_(15).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Garnisonfriedhof_2.jpg/1200px-Alter_Garnisonfriedhof_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg/1200px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg/1200px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg/1200px-Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg
+image_srcset:
+  Alter Garnisonfriedhof, Berlin (15).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alter_Garnisonfriedhof,_Berlin_(15).jpg/400px-Alter_Garnisonfriedhof,_Berlin_(15).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alter_Garnisonfriedhof,_Berlin_(15).jpg/800px-Alter_Garnisonfriedhof,_Berlin_(15).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alter_Garnisonfriedhof,_Berlin_(15).jpg/1200px-Alter_Garnisonfriedhof,_Berlin_(15).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alter_Garnisonfriedhof,_Berlin_(15).jpg/1920px-Alter_Garnisonfriedhof,_Berlin_(15).jpg
+  Alter Garnisonfriedhof 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Garnisonfriedhof_2.jpg/400px-Alter_Garnisonfriedhof_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Garnisonfriedhof_2.jpg/800px-Alter_Garnisonfriedhof_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Garnisonfriedhof_2.jpg/1200px-Alter_Garnisonfriedhof_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alter_Garnisonfriedhof_2.jpg/1920px-Alter_Garnisonfriedhof_2.jpg
+  Alter Garnisonfriedhof Grabstätte Friedrich Wilhelm Scheltz 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg/400px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg/800px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg/1200px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg/1920px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_3.jpg
+  Alter Garnisonfriedhof Grabstätte Friedrich Wilhelm Scheltz 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg/400px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg/800px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg/1200px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg/1920px-Alter_Garnisonfriedhof_Grabstätte_Friedrich_Wilhelm_Scheltz_5.jpg
+  Alter Garnisonfriedhof Grabstätten Buddenbrock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg/400px-Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg/800px-Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg/1200px-Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg/1920px-Alter_Garnisonfriedhof_Grabstätten_Buddenbrock.jpg
 ---
 
 ## Overview

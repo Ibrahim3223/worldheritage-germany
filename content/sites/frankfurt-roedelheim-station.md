@@ -1,19 +1,49 @@
 ---
-title: "Frankfurt Rödelheim station"
+title: Frankfurt Rödelheim station
 date: 2026-01-23
 draft: false
-description: "railway station in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1244
 longitude: 8.60726
 images:
-  - "/images-sites/frankfurt-roedelheim-station/01-007f9ebf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg/1200px-Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg/1200px-Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bahnhof_Frankfurt_Rödelheim_1809061209.jpg/1200px-Bahnhof_Frankfurt_Rödelheim_1809061209.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bahnhof_Frankfurt-Rödelheim_1.jpg/1200px-Bahnhof_Frankfurt-Rödelheim_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Frankfurt-Rödelheim_2.jpg/1200px-Bahnhof_Frankfurt-Rödelheim_2.jpg
+image_srcset:
+  Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg/400px-Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg/800px-Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg/1200px-Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg/1920px-Frankfurt-Roedelheim-Lorscher-Strasse-03-2016-Ffm-734-736.jpg
+  Bahnhof Roedelheim Ueberblick von Suedwest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg/400px-Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg/800px-Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg/1200px-Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg/1920px-Bahnhof_Roedelheim_Ueberblick_von_Suedwest.jpg
+  Bahnhof Frankfurt Rödelheim 1809061209.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bahnhof_Frankfurt_Rödelheim_1809061209.jpg/400px-Bahnhof_Frankfurt_Rödelheim_1809061209.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bahnhof_Frankfurt_Rödelheim_1809061209.jpg/800px-Bahnhof_Frankfurt_Rödelheim_1809061209.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bahnhof_Frankfurt_Rödelheim_1809061209.jpg/1200px-Bahnhof_Frankfurt_Rödelheim_1809061209.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bahnhof_Frankfurt_Rödelheim_1809061209.jpg/1920px-Bahnhof_Frankfurt_Rödelheim_1809061209.jpg
+  Bahnhof Frankfurt-Rödelheim 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bahnhof_Frankfurt-Rödelheim_1.jpg/400px-Bahnhof_Frankfurt-Rödelheim_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bahnhof_Frankfurt-Rödelheim_1.jpg/800px-Bahnhof_Frankfurt-Rödelheim_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bahnhof_Frankfurt-Rödelheim_1.jpg/1200px-Bahnhof_Frankfurt-Rödelheim_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bahnhof_Frankfurt-Rödelheim_1.jpg/1920px-Bahnhof_Frankfurt-Rödelheim_1.jpg
+  Bahnhof Frankfurt-Rödelheim 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Frankfurt-Rödelheim_2.jpg/400px-Bahnhof_Frankfurt-Rödelheim_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Frankfurt-Rödelheim_2.jpg/800px-Bahnhof_Frankfurt-Rödelheim_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Frankfurt-Rödelheim_2.jpg/1200px-Bahnhof_Frankfurt-Rödelheim_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Frankfurt-Rödelheim_2.jpg/1920px-Bahnhof_Frankfurt-Rödelheim_2.jpg
 ---
 
 ## Overview

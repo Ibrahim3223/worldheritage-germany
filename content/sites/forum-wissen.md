@@ -1,19 +1,49 @@
 ---
-title: "Forum Wissen"
+title: Forum Wissen
 date: 2026-01-23
 draft: false
-description: "science museum in Göttingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: science museum in Göttingen, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.534411946
 longitude: 9.926379969
 images:
-  - "/images-sites/forum-wissen/01-4088944a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Göttingen_asv2022-06_img60_Forum_Wissen.jpg/1200px-Göttingen_asv2022-06_img60_Forum_Wissen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Göttingen_asv2022-06_img59_Forum_Wissen.jpg/1200px-Göttingen_asv2022-06_img59_Forum_Wissen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skelett_Pottwal_Forum_Wissen_Göttingen.jpg/1200px-Skelett_Pottwal_Forum_Wissen_Göttingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg/1200px-Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Naturhist._Mus._GÖ,_2023(1).jpg/1200px-Naturhist._Mus._GÖ,_2023(1).jpg
+image_srcset:
+  Göttingen asv2022-06 img60 Forum Wissen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Göttingen_asv2022-06_img60_Forum_Wissen.jpg/400px-Göttingen_asv2022-06_img60_Forum_Wissen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Göttingen_asv2022-06_img60_Forum_Wissen.jpg/800px-Göttingen_asv2022-06_img60_Forum_Wissen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Göttingen_asv2022-06_img60_Forum_Wissen.jpg/1200px-Göttingen_asv2022-06_img60_Forum_Wissen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Göttingen_asv2022-06_img60_Forum_Wissen.jpg/1920px-Göttingen_asv2022-06_img60_Forum_Wissen.jpg
+  Göttingen asv2022-06 img59 Forum Wissen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Göttingen_asv2022-06_img59_Forum_Wissen.jpg/400px-Göttingen_asv2022-06_img59_Forum_Wissen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Göttingen_asv2022-06_img59_Forum_Wissen.jpg/800px-Göttingen_asv2022-06_img59_Forum_Wissen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Göttingen_asv2022-06_img59_Forum_Wissen.jpg/1200px-Göttingen_asv2022-06_img59_Forum_Wissen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Göttingen_asv2022-06_img59_Forum_Wissen.jpg/1920px-Göttingen_asv2022-06_img59_Forum_Wissen.jpg
+  Skelett Pottwal Forum Wissen Göttingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skelett_Pottwal_Forum_Wissen_Göttingen.jpg/400px-Skelett_Pottwal_Forum_Wissen_Göttingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skelett_Pottwal_Forum_Wissen_Göttingen.jpg/800px-Skelett_Pottwal_Forum_Wissen_Göttingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skelett_Pottwal_Forum_Wissen_Göttingen.jpg/1200px-Skelett_Pottwal_Forum_Wissen_Göttingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Skelett_Pottwal_Forum_Wissen_Göttingen.jpg/1920px-Skelett_Pottwal_Forum_Wissen_Göttingen.jpg
+  Sockelgesims, GÖ, Berliner Straße 28, Forum Wissen, 2.6.2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg/400px-Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg/800px-Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg/1200px-Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg/1920px-Sockelgesims,_GÖ,_Berliner_Straße_28,_Forum_Wissen,_2.6.2024.jpg
+  Naturhist. Mus. GÖ, 2023(1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Naturhist._Mus._GÖ,_2023(1).jpg/400px-Naturhist._Mus._GÖ,_2023(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Naturhist._Mus._GÖ,_2023(1).jpg/800px-Naturhist._Mus._GÖ,_2023(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Naturhist._Mus._GÖ,_2023(1).jpg/1200px-Naturhist._Mus._GÖ,_2023(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Naturhist._Mus._GÖ,_2023(1).jpg/1920px-Naturhist._Mus._GÖ,_2023(1).jpg
 ---
 
 ## Overview

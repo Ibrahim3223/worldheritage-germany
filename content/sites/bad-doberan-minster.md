@@ -1,23 +1,50 @@
 ---
-title: "Bad Doberan Minster"
-site_name: "Bad Doberan Minster"
-slug: "bad-doberan-minster"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Bad Doberan Minster
+site_name: Bad Doberan Minster
+slug: bad-doberan-minster
+region: Mecklenburg-Vorpommern
 latitude: 54.107783333333
 longitude: 11.909833333333
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q461397"
-description: "In the heart of Bad Doberan, a striking church building rises, its brick facade telling stories of faith and architecture that span centuries. The Bad D..."
+- cultural site
+wikidata_id: Q461397
+description: In the heart of Bad Doberan, a striking church building rises, its brick
+  facade telling stories of faith and architecture that span centuries. The Bad D...
 images:
-  - "/images-sites/bad-doberan-minster/01-8b4aa126-1920w.webp"
-  - "/images-sites/bad-doberan-minster/02-45fa64e1-1920w.webp"
-  - "/images-sites/bad-doberan-minster/03-145e25dd-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg/1200px-Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg/1200px-Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/1200px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Doberaner_Münster,_NW_view,_2024-02-17.jpg/1200px-Doberaner_Münster,_NW_view,_2024-02-17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Doberaner_Münster,_NW_view,_2025-06-25.jpg/1200px-Doberaner_Münster,_NW_view,_2025-06-25.jpg
+image_srcset:
+  Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg/400px-Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg/800px-Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg/1200px-Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg/1920px-Bad%20Doberan%2C%20Doberaner%20M%C3%BCnster%20--%202024%20--%205096.jpg
+  Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg/400px-Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg/800px-Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg/1200px-Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg/1920px-Doberaner%20M%C3%BCnster%2C%20NW%20view%2C%202024-02-17.jpg
+  Bad Doberan, Doberaner Münster -- 2024 -- 5096.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/400px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/800px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/1200px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg/1920px-Bad_Doberan,_Doberaner_Münster_--_2024_--_5096.jpg
+  Doberaner Münster, NW view, 2024-02-17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Doberaner_Münster,_NW_view,_2024-02-17.jpg/400px-Doberaner_Münster,_NW_view,_2024-02-17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Doberaner_Münster,_NW_view,_2024-02-17.jpg/800px-Doberaner_Münster,_NW_view,_2024-02-17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Doberaner_Münster,_NW_view,_2024-02-17.jpg/1200px-Doberaner_Münster,_NW_view,_2024-02-17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Doberaner_Münster,_NW_view,_2024-02-17.jpg/1920px-Doberaner_Münster,_NW_view,_2024-02-17.jpg
+  Doberaner Münster, NW view, 2025-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Doberaner_Münster,_NW_view,_2025-06-25.jpg/400px-Doberaner_Münster,_NW_view,_2025-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Doberaner_Münster,_NW_view,_2025-06-25.jpg/800px-Doberaner_Münster,_NW_view,_2025-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Doberaner_Münster,_NW_view,_2025-06-25.jpg/1200px-Doberaner_Münster,_NW_view,_2025-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Doberaner_Münster,_NW_view,_2025-06-25.jpg/1920px-Doberaner_Münster,_NW_view,_2025-06-25.jpg
 ---
 
 ## Overview

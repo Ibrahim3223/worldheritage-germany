@@ -1,19 +1,49 @@
 ---
-title: "German Inland Waterways Museum"
+title: German Inland Waterways Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.46
 longitude: 6.73
 images:
-  - "/images-sites/german-inland-waterways-museum/01-9c5f3064-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG/1200px-2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2009-03-13_Duisburg_MdDB_Poon_Modell.jpg/1200px-2009-03-13_Duisburg_MdDB_Poon_Modell.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MdDB_Steenkool_losinstallatie.jpg/1200px-MdDB_Steenkool_losinstallatie.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MdDB_Ruhraak.jpg/1200px-MdDB_Ruhraak.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG/1200px-20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG
+image_srcset:
+  2009-03-13 Duisburg MdDB Modell Haniel Kurier 61 NRS 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG/400px-2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG/800px-2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG/1200px-2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG/1920px-2009-03-13_Duisburg_MdDB_Modell_Haniel_Kurier_61_NRS_03.JPG
+  2009-03-13 Duisburg MdDB Poon Modell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2009-03-13_Duisburg_MdDB_Poon_Modell.jpg/400px-2009-03-13_Duisburg_MdDB_Poon_Modell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2009-03-13_Duisburg_MdDB_Poon_Modell.jpg/800px-2009-03-13_Duisburg_MdDB_Poon_Modell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2009-03-13_Duisburg_MdDB_Poon_Modell.jpg/1200px-2009-03-13_Duisburg_MdDB_Poon_Modell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2009-03-13_Duisburg_MdDB_Poon_Modell.jpg/1920px-2009-03-13_Duisburg_MdDB_Poon_Modell.jpg
+  MdDB Steenkool losinstallatie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MdDB_Steenkool_losinstallatie.jpg/400px-MdDB_Steenkool_losinstallatie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MdDB_Steenkool_losinstallatie.jpg/800px-MdDB_Steenkool_losinstallatie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MdDB_Steenkool_losinstallatie.jpg/1200px-MdDB_Steenkool_losinstallatie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MdDB_Steenkool_losinstallatie.jpg/1920px-MdDB_Steenkool_losinstallatie.jpg
+  MdDB Ruhraak.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MdDB_Ruhraak.jpg/400px-MdDB_Ruhraak.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MdDB_Ruhraak.jpg/800px-MdDB_Ruhraak.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MdDB_Ruhraak.jpg/1200px-MdDB_Ruhraak.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/MdDB_Ruhraak.jpg/1920px-MdDB_Ruhraak.jpg
+  20120909 Museumsschiffe Duisburg-Ruhrort jpg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG/400px-20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG/800px-20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG/1200px-20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG/1920px-20120909_Museumsschiffe_Duisburg-Ruhrort_jpg.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.1008
 longitude: 7.59806
 images:
-  - "/images-sites/korkenziehermuseum/01-7aa491fa-800w.webp"
+  - "/images/korkenziehermuseum/01-7aa491fa-800w.webp"
 ---
 
 ## Overview

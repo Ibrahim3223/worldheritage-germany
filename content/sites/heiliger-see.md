@@ -1,19 +1,49 @@
 ---
-title: "Heiliger See"
+title: Heiliger See
 date: 2026-01-23
 draft: false
-description: "lake in Potsdam, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Potsdam, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.411944444
 longitude: 13.071111111
 images:
-  - "/images-sites/heiliger-see/01-3e59af0f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heiliger_See_Potsdam.jpg/1200px-Heiliger_See_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg/1200px-Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg/1200px-Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/View_of_Heiliger_See_in_Potsdam.jpg/1200px-View_of_Heiliger_See_in_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heiliger_See.jpg/1200px-Heiliger_See.jpg
+image_srcset:
+  Heiliger See Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heiliger_See_Potsdam.jpg/400px-Heiliger_See_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heiliger_See_Potsdam.jpg/800px-Heiliger_See_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heiliger_See_Potsdam.jpg/1200px-Heiliger_See_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heiliger_See_Potsdam.jpg/1920px-Heiliger_See_Potsdam.jpg
+  Sichtachse im Neuer Garten vom Marmorpalais aus zum Schloss auf der Pfaueninsel 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg/400px-Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg/800px-Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg/1200px-Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg/1920px-Sichtachse_im_Neuer_Garten_vom_Marmorpalais_aus_zum_Schloss_auf_der_Pfaueninsel_2.jpg
+  Marmorpalais im Neuen Garten vom Heiligen See aus gesehen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg/400px-Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg/800px-Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg/1200px-Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg/1920px-Marmorpalais_im_Neuen_Garten_vom_Heiligen_See_aus_gesehen_2.jpg
+  View of Heiliger See in Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/View_of_Heiliger_See_in_Potsdam.jpg/400px-View_of_Heiliger_See_in_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/View_of_Heiliger_See_in_Potsdam.jpg/800px-View_of_Heiliger_See_in_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/View_of_Heiliger_See_in_Potsdam.jpg/1200px-View_of_Heiliger_See_in_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/View_of_Heiliger_See_in_Potsdam.jpg/1920px-View_of_Heiliger_See_in_Potsdam.jpg
+  Heiliger See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heiliger_See.jpg/400px-Heiliger_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heiliger_See.jpg/800px-Heiliger_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heiliger_See.jpg/1200px-Heiliger_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Heiliger_See.jpg/1920px-Heiliger_See.jpg
 ---
 
 ## Overview

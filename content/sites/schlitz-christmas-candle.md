@@ -13,7 +13,7 @@ regions:
 latitude: 50.673
 longitude: 9.56061
 images:
-  - "/images-sites/schlitz-christmas-candle/01-f7249eca-800w.webp"
+  - "/images/schlitz-christmas-candle/01-f7249eca-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.185
 longitude: 12.28
 images:
-  - "/images-sites/wiederau-transmitter/01-ff2b5df3-800w.webp"
+  - "/images/wiederau-transmitter/01-ff2b5df3-800w.webp"
 ---
 
 ## Overview

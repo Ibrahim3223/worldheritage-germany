@@ -1,21 +1,49 @@
 ---
-title: "Altona Volkspark"
+title: Altona Volkspark
 date: 2026-01-23
 draft: false
-description: "Urban park in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: Urban park in Hamburg
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 53.58027778
 longitude: 9.90361111
 images:
-  - "/images-sites/altona-volkspark/01-a99d6e52-800w.webp"
-  - "/images-sites/altona-volkspark/02-b5e909b8-800w.webp"
-  - "/images-sites/altona-volkspark/03-f1a25fbe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grillhäuschen.JPG/1200px-Grillhäuschen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hummel_Hummel_-_panoramio.jpg/1200px-Hummel_Hummel_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Volkspark_Minigolf.jpg/1200px-Volkspark_Minigolf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HH-Altonaer_Volkspark_o.jpg/1200px-HH-Altonaer_Volkspark_o.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1200px-HH-Altona_Volkspark_o.jpg
+image_srcset:
+  Grillhäuschen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grillhäuschen.JPG/400px-Grillhäuschen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grillhäuschen.JPG/800px-Grillhäuschen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grillhäuschen.JPG/1200px-Grillhäuschen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Grillhäuschen.JPG/1920px-Grillhäuschen.JPG
+  Hummel Hummel - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hummel_Hummel_-_panoramio.jpg/400px-Hummel_Hummel_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hummel_Hummel_-_panoramio.jpg/800px-Hummel_Hummel_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hummel_Hummel_-_panoramio.jpg/1200px-Hummel_Hummel_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hummel_Hummel_-_panoramio.jpg/1920px-Hummel_Hummel_-_panoramio.jpg
+  Volkspark Minigolf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Volkspark_Minigolf.jpg/400px-Volkspark_Minigolf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Volkspark_Minigolf.jpg/800px-Volkspark_Minigolf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Volkspark_Minigolf.jpg/1200px-Volkspark_Minigolf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Volkspark_Minigolf.jpg/1920px-Volkspark_Minigolf.jpg
+  HH-Altonaer Volkspark o.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HH-Altonaer_Volkspark_o.jpg/400px-HH-Altonaer_Volkspark_o.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HH-Altonaer_Volkspark_o.jpg/800px-HH-Altonaer_Volkspark_o.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HH-Altonaer_Volkspark_o.jpg/1200px-HH-Altonaer_Volkspark_o.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HH-Altonaer_Volkspark_o.jpg/1920px-HH-Altonaer_Volkspark_o.jpg
+  HH-Altona Volkspark o.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/400px-HH-Altona_Volkspark_o.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/800px-HH-Altona_Volkspark_o.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1200px-HH-Altona_Volkspark_o.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HH-Altona_Volkspark_o.jpg/1920px-HH-Altona_Volkspark_o.jpg
 ---
 
 ## Overview

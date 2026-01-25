@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q873490"
 description: "In the heart of Munich lies St. Markus, an architectural gem that captures the essence of Gothic Revival design. This striking church, founded in 1877, ..."
 images:
-  - "/images-sites/st-markus/01-bc13df98-1920w.webp"
-  - "/images-sites/st-markus/02-8eb752cf-1920w.webp"
-  - "/images-sites/st-markus/03-0d42d4f0-1920w.webp"
+  - "/images/st-markus/01-bc13df98-1920w.webp"
+  - "/images/st-markus/02-8eb752cf-1920w.webp"
+  - "/images/st-markus/03-0d42d4f0-1920w.webp"
 ---
 
 ## Overview

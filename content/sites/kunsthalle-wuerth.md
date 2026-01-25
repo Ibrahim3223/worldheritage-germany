@@ -21,7 +21,7 @@ longitude: 9.73243
 
 # Images
 images:
-  - "/images-sites/kunsthalle-wuerth/01-2318f87d-800w.webp"
+  - "/images/kunsthalle-wuerth/01-2318f87d-800w.webp"
 ---
 
 ## Overview

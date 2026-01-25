@@ -13,7 +13,7 @@ regions:
 latitude: 47.728333333
 longitude: 11.7325
 images:
-  - "/images-sites/tegernsee/01-0212edd2-800w.webp"
+  - "/images/tegernsee/01-0212edd2-800w.webp"
 ---
 
 ## Overview

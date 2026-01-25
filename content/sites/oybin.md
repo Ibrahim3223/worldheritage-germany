@@ -13,7 +13,7 @@ regions:
 latitude: 50.844444444
 longitude: 14.74
 images:
-  - "/images-sites/oybin/01-be9fa054-800w.webp"
+  - "/images/oybin/01-be9fa054-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 54.3734
 longitude: 8.63992
 images:
-  - "/images-sites/westerheversand-lighthouse/01-289391b3-800w.webp"
-  - "/images-sites/westerheversand-lighthouse/02-9e918479-800w.webp"
-  - "/images-sites/westerheversand-lighthouse/03-69b5c83c-800w.webp"
+  - "/images/westerheversand-lighthouse/01-289391b3-800w.webp"
+  - "/images/westerheversand-lighthouse/02-9e918479-800w.webp"
+  - "/images/westerheversand-lighthouse/03-69b5c83c-800w.webp"
 ---
 
 ## Overview

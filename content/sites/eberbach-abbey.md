@@ -1,19 +1,49 @@
 ---
-title: "Eberbach Abbey"
+title: Eberbach Abbey
 date: 2026-01-23
 draft: false
-description: "former monastery in the Rheingau"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former monastery in the Rheingau
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.0425
 longitude: 8.046666666
 images:
-  - "/images-sites/eberbach-abbey/01-c4c97bc7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eberbach_Abbey_set-up.jpg/1200px-Eberbach_Abbey_set-up.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Folia,_Eberbach_Abbey.jpg/1200px-La_Folia,_Eberbach_Abbey.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Steinmeier_reception.jpg/1200px-Steinmeier_reception.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster-Eberbach-01s.jpg/1200px-Kloster-Eberbach-01s.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1200px-Kloster_Eberbach_fg01.JPG
+image_srcset:
+  Eberbach Abbey set-up.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eberbach_Abbey_set-up.jpg/400px-Eberbach_Abbey_set-up.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eberbach_Abbey_set-up.jpg/800px-Eberbach_Abbey_set-up.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eberbach_Abbey_set-up.jpg/1200px-Eberbach_Abbey_set-up.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eberbach_Abbey_set-up.jpg/1920px-Eberbach_Abbey_set-up.jpg
+  La Folia, Eberbach Abbey.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Folia,_Eberbach_Abbey.jpg/400px-La_Folia,_Eberbach_Abbey.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Folia,_Eberbach_Abbey.jpg/800px-La_Folia,_Eberbach_Abbey.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Folia,_Eberbach_Abbey.jpg/1200px-La_Folia,_Eberbach_Abbey.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Folia,_Eberbach_Abbey.jpg/1920px-La_Folia,_Eberbach_Abbey.jpg
+  Steinmeier reception.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Steinmeier_reception.jpg/400px-Steinmeier_reception.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Steinmeier_reception.jpg/800px-Steinmeier_reception.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Steinmeier_reception.jpg/1200px-Steinmeier_reception.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Steinmeier_reception.jpg/1920px-Steinmeier_reception.jpg
+  Kloster-Eberbach-01s.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster-Eberbach-01s.jpg/400px-Kloster-Eberbach-01s.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster-Eberbach-01s.jpg/800px-Kloster-Eberbach-01s.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster-Eberbach-01s.jpg/1200px-Kloster-Eberbach-01s.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster-Eberbach-01s.jpg/1920px-Kloster-Eberbach-01s.jpg
+  Kloster Eberbach fg01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/400px-Kloster_Eberbach_fg01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/800px-Kloster_Eberbach_fg01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1200px-Kloster_Eberbach_fg01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kloster_Eberbach_fg01.JPG/1920px-Kloster_Eberbach_fg01.JPG
 ---
 
 ## Overview

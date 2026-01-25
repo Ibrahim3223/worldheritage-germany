@@ -1,19 +1,49 @@
 ---
-title: "Goethe-Nationalmuseum"
+title: Goethe-Nationalmuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9776
 longitude: 11.3287
 images:
-  - "/images-sites/goethe-nationalmuseum/01-34456467-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG/1200px-Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG/1200px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/1200px-GoethehausWeimar.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG/1200px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CarlFriedrichErnstFrommann.jpg/1200px-CarlFriedrichErnstFrommann.jpg
+image_srcset:
+  Wilhelm von Humboldt@Goethe Nationalmuseum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG/400px-Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG/800px-Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG/1200px-Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG/1920px-Wilhelm_von_Humboldt@Goethe_Nationalmuseum.JPG
+  Gotheporträt H.C. Kolbe@Weimar Goethe Nationalmuseum 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG/400px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG/800px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG/1200px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG/1920px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01.JPG
+  GoethehausWeimar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/400px-GoethehausWeimar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/800px-GoethehausWeimar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/1200px-GoethehausWeimar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GoethehausWeimar.JPG/1920px-GoethehausWeimar.JPG
+  Gotheporträt H.C. Kolbe@Weimar Goethe Nationalmuseum 01 (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG/400px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG/800px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG/1200px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG/1920px-Gotheporträt_H.C._Kolbe@Weimar_Goethe_Nationalmuseum_01_(cropped).JPG
+  CarlFriedrichErnstFrommann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CarlFriedrichErnstFrommann.jpg/400px-CarlFriedrichErnstFrommann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CarlFriedrichErnstFrommann.jpg/800px-CarlFriedrichErnstFrommann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CarlFriedrichErnstFrommann.jpg/1200px-CarlFriedrichErnstFrommann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CarlFriedrichErnstFrommann.jpg/1920px-CarlFriedrichErnstFrommann.jpg
 ---
 
 ## Overview

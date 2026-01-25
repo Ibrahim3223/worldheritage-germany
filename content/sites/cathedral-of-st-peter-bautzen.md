@@ -1,23 +1,26 @@
 ---
-title: "Cathedral of St PeterBautzen"
-site_name: "Cathedral of St PeterBautzen"
-slug: "cathedral-of-st-peter-bautzen"
-region: "Saxony"
-
-# Location
+title: Cathedral of St PeterBautzen
+site_name: Cathedral of St PeterBautzen
+slug: cathedral-of-st-peter-bautzen
+region: Saxony
 latitude: 51.1824
 longitude: 14.4237
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q317346"
-description: "The Cathedral of St Peter in Bautzen, a striking example of Gothic architecture, commands attention with its towering presence and storied past. Founded..."
+- cultural site
+wikidata_id: Q317346
+description: The Cathedral of St Peter in Bautzen, a striking example of Gothic architecture,
+  commands attention with its towering presence and storied past. Founded...
 images:
-  - "/images-sites/cathedral-of-st-peter-bautzen/01-d2d5ff10-1920w.webp"
-  - "/images-sites/cathedral-of-st-peter-bautzen/02-f7aecd7b-1920w.webp"
-  - "/images-sites/cathedral-of-st-peter-bautzen/03-32092380-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St%20Petri%20church%20Bautzen%20101.JPG/1200px-St%20Petri%20church%20Bautzen%20101.JPG
+image_srcset:
+  St%20Petri%20church%20Bautzen%20101.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St%20Petri%20church%20Bautzen%20101.JPG/400px-St%20Petri%20church%20Bautzen%20101.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St%20Petri%20church%20Bautzen%20101.JPG/800px-St%20Petri%20church%20Bautzen%20101.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St%20Petri%20church%20Bautzen%20101.JPG/1200px-St%20Petri%20church%20Bautzen%20101.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St%20Petri%20church%20Bautzen%20101.JPG/1920px-St%20Petri%20church%20Bautzen%20101.JPG
 ---
 
 ## Overview

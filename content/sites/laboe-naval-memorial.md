@@ -13,7 +13,7 @@ regions:
 latitude: 54.4122
 longitude: 10.2306
 images:
-  - "/images-sites/laboe-naval-memorial/01-7d21e9df-800w.webp"
+  - "/images/laboe-naval-memorial/01-7d21e9df-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.41305556
 longitude: 8.70611111
 images:
-  - "/images-sites/synagoge-heidelberg-1878-1938/01-ac5feff7-800w.webp"
+  - "/images/synagoge-heidelberg-1878-1938/01-ac5feff7-800w.webp"
 ---
 
 ## Overview

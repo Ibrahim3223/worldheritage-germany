@@ -13,8 +13,8 @@ regions:
 latitude: 49.4359
 longitude: 8.8094
 images:
-  - "/images-sites/schoenau-abbey/02-05e0a931-800w.webp"
-  - "/images-sites/schoenau-abbey/03-8c32cbf1-800w.webp"
+  - "/images/schoenau-abbey/02-05e0a931-800w.webp"
+  - "/images/schoenau-abbey/03-8c32cbf1-800w.webp"
 ---
 
 ## Overview

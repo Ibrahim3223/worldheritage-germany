@@ -1,19 +1,49 @@
 ---
-title: "DİTİB Kocatepe Mosque"
+title: DİTİB Kocatepe Mosque
 date: 2026-01-23
 draft: false
-description: "mosque in Ingolstadt, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Ingolstadt, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7781
 longitude: 11.4236
 images:
-  - "/images-sites/ditib-kocatepe-mosque/01-94f36ddc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingolstadt_Kocatepe-Moschee_Innen_07.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_07.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ingolstadt_Kocatepe-Moschee_Innen_11.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/1200px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
+image_srcset:
+  Ingolstadt Kocatepe-Moschee Innen 07.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingolstadt_Kocatepe-Moschee_Innen_07.JPG/400px-Ingolstadt_Kocatepe-Moschee_Innen_07.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingolstadt_Kocatepe-Moschee_Innen_07.JPG/800px-Ingolstadt_Kocatepe-Moschee_Innen_07.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingolstadt_Kocatepe-Moschee_Innen_07.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_07.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ingolstadt_Kocatepe-Moschee_Innen_07.JPG/1920px-Ingolstadt_Kocatepe-Moschee_Innen_07.JPG
+  Ingolstadt Kocatepe-Moschee Innen Kronleuchter 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG/400px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG/800px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG/1920px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_3.JPG
+  Ingolstadt Kocatepe-Moschee Innen 11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ingolstadt_Kocatepe-Moschee_Innen_11.JPG/400px-Ingolstadt_Kocatepe-Moschee_Innen_11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ingolstadt_Kocatepe-Moschee_Innen_11.JPG/800px-Ingolstadt_Kocatepe-Moschee_Innen_11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ingolstadt_Kocatepe-Moschee_Innen_11.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ingolstadt_Kocatepe-Moschee_Innen_11.JPG/1920px-Ingolstadt_Kocatepe-Moschee_Innen_11.JPG
+  Ingolstadt Kocatepe-Moschee Innen Kronleuchter 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG/400px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG/800px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG/1200px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG/1920px-Ingolstadt_Kocatepe-Moschee_Innen_Kronleuchter_2.JPG
+  Kocatepe-Moschee Ingolstadt 16.01.2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/400px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/800px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/1200px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg/1920px-Kocatepe-Moschee_Ingolstadt_16.01.2009.jpg
 ---
 
 ## Overview

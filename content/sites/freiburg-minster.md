@@ -1,24 +1,51 @@
 ---
-title: "Freiburg Minster"
-site_name: "Freiburg Minster"
-slug: "freiburg-minster"
-region: "Baden-Württemberg"
-
-# Location
+title: Freiburg Minster
+site_name: Freiburg Minster
+slug: freiburg-minster
+region: Baden-Württemberg
 latitude: 47.995556
 longitude: 7.852222
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q250212"
-description: "In the heart of Freiburg im Breisgau, Germany, the Freiburg Minster stands as a remarkable example of Gothic architecture, drawing visitors from all cor..."
+- castle
+- fortification
+wikidata_id: Q250212
+description: In the heart of Freiburg im Breisgau, Germany, the Freiburg Minster stands
+  as a remarkable example of Gothic architecture, drawing visitors from all cor...
 images:
-  - "/images-sites/freiburg-minster/01-26e1898e-1920w.webp"
-  - "/images-sites/freiburg-minster/02-03b8158d-1920w.webp"
-  - "/images-sites/freiburg-minster/03-a0e54dde-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG/1200px-Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg/1200px-Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg/1200px-Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Freiburg_Münster_Hochaltar_01.jpg/1200px-Freiburg_Münster_Hochaltar_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg/1200px-Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg
+image_srcset:
+  Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG/400px-Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG/800px-Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG/1200px-Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG/1920px-Freiburg%20M%C3%BCnster3%2005%2003%2006.JPG
+  Freiburg im Breisgau, Münster, Vorhalle -- 2025 -- 7903 (kreativ 1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg/400px-Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg/800px-Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg/1200px-Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg/1920px-Freiburg_im_Breisgau,_Münster,_Vorhalle_--_2025_--_7903_(kreativ_1).jpg
+  Freiburg Münster rechtes Seitenschiff Märtyrerfenster 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg/400px-Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg/800px-Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg/1200px-Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg/1920px-Freiburg_Münster_rechtes_Seitenschiff_Märtyrerfenster_01.jpg
+  Freiburg Münster Hochaltar 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Freiburg_Münster_Hochaltar_01.jpg/400px-Freiburg_Münster_Hochaltar_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Freiburg_Münster_Hochaltar_01.jpg/800px-Freiburg_Münster_Hochaltar_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Freiburg_Münster_Hochaltar_01.jpg/1200px-Freiburg_Münster_Hochaltar_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Freiburg_Münster_Hochaltar_01.jpg/1920px-Freiburg_Münster_Hochaltar_01.jpg
+  Freiburg Münster rechtes Seitenschiff Schuhmacherfenster 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg/400px-Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg/800px-Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg/1200px-Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg/1920px-Freiburg_Münster_rechtes_Seitenschiff_Schuhmacherfenster_01.jpg
 ---
 
 ## Overview

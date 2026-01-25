@@ -13,9 +13,9 @@ regions:
 latitude: 51.50527778
 longitude: 11.9625
 images:
-  - "/images-sites/zoologischer-garten-halle/01-06dbf079-800w.webp"
-  - "/images-sites/zoologischer-garten-halle/01-a376253d-800w.webp"
-  - "/images-sites/zoologischer-garten-halle/02-97f56092-800w.webp"
+  - "/images/zoologischer-garten-halle/01-06dbf079-800w.webp"
+  - "/images/zoologischer-garten-halle/01-a376253d-800w.webp"
+  - "/images/zoologischer-garten-halle/02-97f56092-800w.webp"
 ---
 
 ## Overview

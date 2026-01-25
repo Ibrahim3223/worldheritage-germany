@@ -1,21 +1,49 @@
 ---
-title: "Gaslaternen-Freilichtmuseum Berlin"
+title: Gaslaternen-Freilichtmuseum Berlin
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.51268333
 longitude: 13.33705278
 images:
-  - "/images-sites/gaslaternen-freilichtmuseum-berlin/01-51b443ef-800w.webp"
-  - "/images-sites/gaslaternen-freilichtmuseum-berlin/02-eabbc703-800w.webp"
-  - "/images-sites/gaslaternen-freilichtmuseum-berlin/03-9f3f5e6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg/1200px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg/1200px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/1200px-Gaslaternen-Freilichtmuseum_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg/1200px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg/1200px-Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg
+image_srcset:
+  Berlin Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg/400px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg/800px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg/1200px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg/1920px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111904.jpg
+  Berlin Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg/400px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg/800px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg/1200px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg/1920px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-111724.jpg
+  Gaslaternen-Freilichtmuseum Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/400px-Gaslaternen-Freilichtmuseum_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/800px-Gaslaternen-Freilichtmuseum_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/1200px-Gaslaternen-Freilichtmuseum_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gaslaternen-Freilichtmuseum_Berlin.jpg/1920px-Gaslaternen-Freilichtmuseum_Berlin.jpg
+  Berlin Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg/400px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg/800px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg/1200px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg/1920px-Berlin_Gaslaternen-Freilichtmuseum-20241207-RM-113307.jpg
+  Berlin - Laterne im Tiergarten (Gas Lamp in the Tiergarten) - geo.hlipp.de - 30192.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg/400px-Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg/800px-Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg/1200px-Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg/1920px-Berlin_-_Laterne_im_Tiergarten_(Gas_Lamp_in_the_Tiergarten)_-_geo.hlipp.de_-_30192.jpg
 ---
 
 ## Overview

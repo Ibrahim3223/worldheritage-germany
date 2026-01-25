@@ -1,19 +1,49 @@
 ---
-title: "Glassworks Museum of the Ore Mountains"
+title: Glassworks Museum of the Ore Mountains
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6775
 longitude: 13.4622
 images:
-  - "/images-sites/glassworks-museum-of-the-ore-mountains/01-189043d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Glashüttenmuseum_des_Erzgebirges_(2).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Glashüttenmuseum_des_Erzgebirges_(3).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1200px-Glashuettenmuseum_001_Museum_2009.jpg
+image_srcset:
+  Glashüttenmuseum des Erzgebirges (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Glashüttenmuseum_des_Erzgebirges_(2).jpg/400px-Glashüttenmuseum_des_Erzgebirges_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Glashüttenmuseum_des_Erzgebirges_(2).jpg/800px-Glashüttenmuseum_des_Erzgebirges_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Glashüttenmuseum_des_Erzgebirges_(2).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Glashüttenmuseum_des_Erzgebirges_(2).jpg/1920px-Glashüttenmuseum_des_Erzgebirges_(2).jpg
+  Glashüttenmuseum des Erzgebirges (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Glashüttenmuseum_des_Erzgebirges_(3).jpg/400px-Glashüttenmuseum_des_Erzgebirges_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Glashüttenmuseum_des_Erzgebirges_(3).jpg/800px-Glashüttenmuseum_des_Erzgebirges_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Glashüttenmuseum_des_Erzgebirges_(3).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Glashüttenmuseum_des_Erzgebirges_(3).jpg/1920px-Glashüttenmuseum_des_Erzgebirges_(3).jpg
+  Glashüttenmuseum des Erzgebirges - Sammlung historischer Holzfunde (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg/400px-Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg/800px-Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg/1920px-Glashüttenmuseum_des_Erzgebirges_-_Sammlung_historischer_Holzfunde_(3).jpg
+  Glashüttenmuseum des Erzgebirges - Exponate (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg/400px-Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg/800px-Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg/1200px-Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg/1920px-Glashüttenmuseum_des_Erzgebirges_-_Exponate_(3).jpg
+  Glashuettenmuseum 001 Museum 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/400px-Glashuettenmuseum_001_Museum_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/800px-Glashuettenmuseum_001_Museum_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1200px-Glashuettenmuseum_001_Museum_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Glashuettenmuseum_001_Museum_2009.jpg/1920px-Glashuettenmuseum_001_Museum_2009.jpg
 ---
 
 ## Overview

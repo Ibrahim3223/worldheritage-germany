@@ -1,19 +1,49 @@
 ---
-title: "Hemmelsdorfer See"
+title: Hemmelsdorfer See
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.966433333
 longitude: 10.782708333
 images:
-  - "/images-sites/hemmelsdorfer-see/01-b43e9d06-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aussichtsplattform_Hermann-Löns-Blick.JPG/1200px-Aussichtsplattform_Hermann-Löns-Blick.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG/1200px-Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg/1200px-Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hemmelsdorfer_See_-_panoramio_(2).jpg/1200px-Hemmelsdorfer_See_-_panoramio_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hemmelsdorfer_See_-.jpg/1200px-Hemmelsdorfer_See_-.jpg
+image_srcset:
+  Aussichtsplattform Hermann-Löns-Blick.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aussichtsplattform_Hermann-Löns-Blick.JPG/400px-Aussichtsplattform_Hermann-Löns-Blick.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aussichtsplattform_Hermann-Löns-Blick.JPG/800px-Aussichtsplattform_Hermann-Löns-Blick.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aussichtsplattform_Hermann-Löns-Blick.JPG/1200px-Aussichtsplattform_Hermann-Löns-Blick.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aussichtsplattform_Hermann-Löns-Blick.JPG/1920px-Aussichtsplattform_Hermann-Löns-Blick.JPG
+  Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG/400px-Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG/800px-Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG/1200px-Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG/1920px-Hemmelsdorfer-see-von-hemmelsdorf-aus.JPG
+  Blick vom Löns Turm HemmelsdorferSee Ausfluss aalbek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg/400px-Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg/800px-Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg/1200px-Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg/1920px-Blick_vom_Löns_Turm_HemmelsdorferSee_Ausfluss_aalbek.jpg
+  Hemmelsdorfer See - panoramio (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hemmelsdorfer_See_-_panoramio_(2).jpg/400px-Hemmelsdorfer_See_-_panoramio_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hemmelsdorfer_See_-_panoramio_(2).jpg/800px-Hemmelsdorfer_See_-_panoramio_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hemmelsdorfer_See_-_panoramio_(2).jpg/1200px-Hemmelsdorfer_See_-_panoramio_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hemmelsdorfer_See_-_panoramio_(2).jpg/1920px-Hemmelsdorfer_See_-_panoramio_(2).jpg
+  Hemmelsdorfer See -.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hemmelsdorfer_See_-.jpg/400px-Hemmelsdorfer_See_-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hemmelsdorfer_See_-.jpg/800px-Hemmelsdorfer_See_-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hemmelsdorfer_See_-.jpg/1200px-Hemmelsdorfer_See_-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hemmelsdorfer_See_-.jpg/1920px-Hemmelsdorfer_See_-.jpg
 ---
 
 ## Overview

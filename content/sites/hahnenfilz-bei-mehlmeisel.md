@@ -1,19 +1,31 @@
 ---
-title: "Hahnenfilz bei Mehlmeisel"
+title: Hahnenfilz bei Mehlmeisel
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 49.976388888
 longitude: 11.898055555
 images:
-  - "/images-sites/hahnenfilz-bei-mehlmeisel/01-cdc95a4a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NSG_Hahnenfilz_-_panoramio.jpg/1200px-NSG_Hahnenfilz_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hahnenfilz.JPG/1200px-Hahnenfilz.JPG
+image_srcset:
+  NSG Hahnenfilz - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NSG_Hahnenfilz_-_panoramio.jpg/400px-NSG_Hahnenfilz_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NSG_Hahnenfilz_-_panoramio.jpg/800px-NSG_Hahnenfilz_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NSG_Hahnenfilz_-_panoramio.jpg/1200px-NSG_Hahnenfilz_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NSG_Hahnenfilz_-_panoramio.jpg/1920px-NSG_Hahnenfilz_-_panoramio.jpg
+  Hahnenfilz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hahnenfilz.JPG/400px-Hahnenfilz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hahnenfilz.JPG/800px-Hahnenfilz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hahnenfilz.JPG/1200px-Hahnenfilz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hahnenfilz.JPG/1920px-Hahnenfilz.JPG
 ---
 
 ## Overview

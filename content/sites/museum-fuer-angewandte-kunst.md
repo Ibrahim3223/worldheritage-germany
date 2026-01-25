@@ -21,7 +21,7 @@ longitude: 6.9548423
 
 # Images
 images:
-  - "/images-sites/museum-fuer-angewandte-kunst/01-09938cc1-800w.webp"
+  - "/images/museum-fuer-angewandte-kunst/01-09938cc1-800w.webp"
 ---
 
 ## Overview

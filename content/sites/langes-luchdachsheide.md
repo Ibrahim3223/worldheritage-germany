@@ -13,8 +13,8 @@ regions:
 latitude: 52.4611
 longitude: 13.2517
 images:
-  - "/images-sites/langes-luchdachsheide/02-cbdd2af3-800w.webp"
-  - "/images-sites/langes-luchdachsheide/03-fd759f93-800w.webp"
+  - "/images/langes-luchdachsheide/02-cbdd2af3-800w.webp"
+  - "/images/langes-luchdachsheide/03-fd759f93-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.3981
 longitude: 13.0603
 images:
-  - "/images-sites/synagogue-in-potsdam/02-9b8e8e60-800w.webp"
+  - "/images/synagogue-in-potsdam/02-9b8e8e60-800w.webp"
 ---
 
 ## Overview

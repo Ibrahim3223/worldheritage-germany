@@ -13,7 +13,7 @@ regions:
 latitude: 51.5236
 longitude: 7.03333
 images:
-  - "/images-sites/nordsternpark/01-de746d45-800w.webp"
+  - "/images/nordsternpark/01-de746d45-800w.webp"
 ---
 
 ## Overview

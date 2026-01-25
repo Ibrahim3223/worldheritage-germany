@@ -13,7 +13,7 @@ regions:
 latitude: 52.5139
 longitude: 13.322
 images:
-  - "/images-sites/srh-berlin-university-of-applied-sciences/01-82113c40-800w.webp"
+  - "/images/srh-berlin-university-of-applied-sciences/01-82113c40-800w.webp"
 ---
 
 ## Overview

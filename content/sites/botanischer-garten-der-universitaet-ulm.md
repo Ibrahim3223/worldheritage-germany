@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten der Universität Ulm"
+title: Botanischer Garten der Universität Ulm
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.4194
 longitude: 9.96667
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-universitaet-ulm/01-f0a3008d-800w.webp"
-  - "/images-sites/botanischer-garten-der-universitaet-ulm/02-1163f3e2-800w.webp"
-  - "/images-sites/botanischer-garten-der-universitaet-ulm/03-0aceef38-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mg_20180614_DSC3889.jpg/1200px-Mg_20180614_DSC3889.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mg_20191009_DSC5379.jpg/1200px-Mg_20191009_DSC5379.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1200px-Tagliliengarten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arbo_Ulm_mg.jpg/1200px-Arbo_Ulm_mg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanischer_Garten_Ulm_Gewächshaus.jpg/1200px-Botanischer_Garten_Ulm_Gewächshaus.jpg
+image_srcset:
+  Mg 20180614 DSC3889.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mg_20180614_DSC3889.jpg/400px-Mg_20180614_DSC3889.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mg_20180614_DSC3889.jpg/800px-Mg_20180614_DSC3889.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mg_20180614_DSC3889.jpg/1200px-Mg_20180614_DSC3889.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mg_20180614_DSC3889.jpg/1920px-Mg_20180614_DSC3889.jpg
+  Mg 20191009 DSC5379.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mg_20191009_DSC5379.jpg/400px-Mg_20191009_DSC5379.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mg_20191009_DSC5379.jpg/800px-Mg_20191009_DSC5379.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mg_20191009_DSC5379.jpg/1200px-Mg_20191009_DSC5379.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mg_20191009_DSC5379.jpg/1920px-Mg_20191009_DSC5379.jpg
+  Tagliliengarten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/400px-Tagliliengarten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/800px-Tagliliengarten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1200px-Tagliliengarten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tagliliengarten.JPG/1920px-Tagliliengarten.JPG
+  Arbo Ulm mg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arbo_Ulm_mg.jpg/400px-Arbo_Ulm_mg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arbo_Ulm_mg.jpg/800px-Arbo_Ulm_mg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arbo_Ulm_mg.jpg/1200px-Arbo_Ulm_mg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Arbo_Ulm_mg.jpg/1920px-Arbo_Ulm_mg.jpg
+  Botanischer Garten Ulm Gewächshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanischer_Garten_Ulm_Gewächshaus.jpg/400px-Botanischer_Garten_Ulm_Gewächshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanischer_Garten_Ulm_Gewächshaus.jpg/800px-Botanischer_Garten_Ulm_Gewächshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanischer_Garten_Ulm_Gewächshaus.jpg/1200px-Botanischer_Garten_Ulm_Gewächshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Botanischer_Garten_Ulm_Gewächshaus.jpg/1920px-Botanischer_Garten_Ulm_Gewächshaus.jpg
 ---
 
 ## Overview

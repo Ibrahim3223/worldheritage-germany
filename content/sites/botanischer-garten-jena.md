@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Jena"
+title: Botanischer Garten Jena
 date: 2026-01-23
 draft: false
-description: "botanical garden in Jena, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Jena, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9311
 longitude: 11.5861
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-jena/01-c7448613-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sonnenaufgang_am_Botanischen_Garten_Jena.jpg/1200px-Sonnenaufgang_am_Botanischen_Garten_Jena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Solanum_betaceum_unripe_fruits.jpg/1200px-Solanum_betaceum_unripe_fruits.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1200px-Jena_-_botanical_garden_02_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jena_-_botanical_garden_07_(aka).jpg/1200px-Jena_-_botanical_garden_07_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Botanischer-garten-jena-rs-786x512.jpg/1200px-Botanischer-garten-jena-rs-786x512.jpg
+image_srcset:
+  Sonnenaufgang am Botanischen Garten Jena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sonnenaufgang_am_Botanischen_Garten_Jena.jpg/400px-Sonnenaufgang_am_Botanischen_Garten_Jena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sonnenaufgang_am_Botanischen_Garten_Jena.jpg/800px-Sonnenaufgang_am_Botanischen_Garten_Jena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sonnenaufgang_am_Botanischen_Garten_Jena.jpg/1200px-Sonnenaufgang_am_Botanischen_Garten_Jena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sonnenaufgang_am_Botanischen_Garten_Jena.jpg/1920px-Sonnenaufgang_am_Botanischen_Garten_Jena.jpg
+  Solanum betaceum unripe fruits.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Solanum_betaceum_unripe_fruits.jpg/400px-Solanum_betaceum_unripe_fruits.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Solanum_betaceum_unripe_fruits.jpg/800px-Solanum_betaceum_unripe_fruits.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Solanum_betaceum_unripe_fruits.jpg/1200px-Solanum_betaceum_unripe_fruits.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Solanum_betaceum_unripe_fruits.jpg/1920px-Solanum_betaceum_unripe_fruits.jpg
+  Jena - botanical garden 02 (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/400px-Jena_-_botanical_garden_02_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/800px-Jena_-_botanical_garden_02_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1200px-Jena_-_botanical_garden_02_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jena_-_botanical_garden_02_(aka).jpg/1920px-Jena_-_botanical_garden_02_(aka).jpg
+  Jena - botanical garden 07 (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jena_-_botanical_garden_07_(aka).jpg/400px-Jena_-_botanical_garden_07_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jena_-_botanical_garden_07_(aka).jpg/800px-Jena_-_botanical_garden_07_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jena_-_botanical_garden_07_(aka).jpg/1200px-Jena_-_botanical_garden_07_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jena_-_botanical_garden_07_(aka).jpg/1920px-Jena_-_botanical_garden_07_(aka).jpg
+  Botanischer-garten-jena-rs-786x512.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Botanischer-garten-jena-rs-786x512.jpg/400px-Botanischer-garten-jena-rs-786x512.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Botanischer-garten-jena-rs-786x512.jpg/800px-Botanischer-garten-jena-rs-786x512.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Botanischer-garten-jena-rs-786x512.jpg/1200px-Botanischer-garten-jena-rs-786x512.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Botanischer-garten-jena-rs-786x512.jpg/1920px-Botanischer-garten-jena-rs-786x512.jpg
 ---
 
 ## Overview

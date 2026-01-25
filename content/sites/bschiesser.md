@@ -1,19 +1,50 @@
 ---
-title: "B'schießer"
+title: B'schießer
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps at the border of Bavaria, Germany, and Tyrol, Austria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps at the border of Bavaria, Germany, and Tyrol,
+  Austria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.4879802
 longitude: 10.440407
 images:
-  - "/images-sites/bschiesser/01-dd1e0b62-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20210901_Bschießer_-_065.jpg/1200px-20210901_Bschießer_-_065.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg/1200px-Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20250809_101022_HDR.jpg/1200px-20250809_101022_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/20250809_133947_HDR.jpg/1200px-20250809_133947_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bschiesser.JPG/1200px-Bschiesser.JPG
+image_srcset:
+  20210901 Bschießer - 065.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20210901_Bschießer_-_065.jpg/400px-20210901_Bschießer_-_065.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20210901_Bschießer_-_065.jpg/800px-20210901_Bschießer_-_065.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20210901_Bschießer_-_065.jpg/1200px-20210901_Bschießer_-_065.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20210901_Bschießer_-_065.jpg/1920px-20210901_Bschießer_-_065.jpg
+  Bschießer, Allgäuer Alpen (2022-07-13), by Klugschnacker in Wikipedia, 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg/400px-Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg/800px-Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg/1200px-Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg/1920px-Bschießer,_Allgäuer_Alpen_(2022-07-13),_by_Klugschnacker_in_Wikipedia,_04.jpg
+  20250809 101022 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20250809_101022_HDR.jpg/400px-20250809_101022_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20250809_101022_HDR.jpg/800px-20250809_101022_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20250809_101022_HDR.jpg/1200px-20250809_101022_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/20250809_101022_HDR.jpg/1920px-20250809_101022_HDR.jpg
+  20250809 133947 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/20250809_133947_HDR.jpg/400px-20250809_133947_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/20250809_133947_HDR.jpg/800px-20250809_133947_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/20250809_133947_HDR.jpg/1200px-20250809_133947_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/20250809_133947_HDR.jpg/1920px-20250809_133947_HDR.jpg
+  Bschiesser.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bschiesser.JPG/400px-Bschiesser.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bschiesser.JPG/800px-Bschiesser.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bschiesser.JPG/1200px-Bschiesser.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bschiesser.JPG/1920px-Bschiesser.JPG
 ---
 
 ## Overview

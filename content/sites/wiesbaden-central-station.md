@@ -13,7 +13,7 @@ regions:
 latitude: 50.0708
 longitude: 8.24389
 images:
-  - "/images-sites/wiesbaden-central-station/01-8c59c97e-800w.webp"
+  - "/images/wiesbaden-central-station/01-8c59c97e-800w.webp"
 ---
 
 ## Overview

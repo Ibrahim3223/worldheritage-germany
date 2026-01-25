@@ -13,7 +13,7 @@ regions:
 latitude: 52.3767
 longitude: 9.97444
 images:
-  - "/images-sites/lehrte-station/01-5ee17c57-800w.webp"
+  - "/images/lehrte-station/01-5ee17c57-800w.webp"
 ---
 
 ## Overview

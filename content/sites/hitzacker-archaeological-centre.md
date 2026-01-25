@@ -1,19 +1,25 @@
 ---
-title: "Hitzacker Archaeological Centre"
+title: Hitzacker Archaeological Centre
 date: 2026-01-23
 draft: false
-description: "Archaeological open-air museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Archaeological open-air museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1469
 longitude: 11.0472
 images:
-  - "/images-sites/hitzacker-archaeological-centre/01-2633c685-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1200px-Langhaus_1_Hitzacker.JPG
+image_srcset:
+  Langhaus 1 Hitzacker.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/400px-Langhaus_1_Hitzacker.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/800px-Langhaus_1_Hitzacker.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1200px-Langhaus_1_Hitzacker.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Langhaus_1_Hitzacker.JPG/1920px-Langhaus_1_Hitzacker.JPG
 ---
 
 ## Overview

@@ -1,19 +1,44 @@
 ---
-title: "Gedenkstätte Poppenhausen"
+title: Gedenkstätte Poppenhausen
 date: 2026-01-23
 draft: false
-description: "Hinrichtungsort von Häftlingen aus dem Konzentrationslager Buchenwald in Poppenhausen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Hinrichtungsort von Häftlingen aus dem Konzentrationslager Buchenwald
+  in Poppenhausen
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 50.2553623
 longitude: 10.7240954
 images:
-  - "/images-sites/gedenkstaette-poppenhausen/01-e257e4c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/1200px-Poppenhausen-Denkmal-2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Buchenwald_Executions_13143.jpg/1200px-Buchenwald_Executions_13143.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Poppenhausen_03.jpg/1200px-Poppenhausen_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Buchenwald_Forced_Labor_Gallows_13137.jpg/1200px-Buchenwald_Forced_Labor_Gallows_13137.jpg
+image_srcset:
+  Poppenhausen-Denkmal-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/400px-Poppenhausen-Denkmal-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/800px-Poppenhausen-Denkmal-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/1200px-Poppenhausen-Denkmal-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Poppenhausen-Denkmal-2014.jpg/1920px-Poppenhausen-Denkmal-2014.jpg
+  Buchenwald Executions 13143.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Buchenwald_Executions_13143.jpg/400px-Buchenwald_Executions_13143.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Buchenwald_Executions_13143.jpg/800px-Buchenwald_Executions_13143.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Buchenwald_Executions_13143.jpg/1200px-Buchenwald_Executions_13143.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Buchenwald_Executions_13143.jpg/1920px-Buchenwald_Executions_13143.jpg
+  Poppenhausen 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Poppenhausen_03.jpg/400px-Poppenhausen_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Poppenhausen_03.jpg/800px-Poppenhausen_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Poppenhausen_03.jpg/1200px-Poppenhausen_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Poppenhausen_03.jpg/1920px-Poppenhausen_03.jpg
+  Buchenwald Forced Labor Gallows 13137.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Buchenwald_Forced_Labor_Gallows_13137.jpg/400px-Buchenwald_Forced_Labor_Gallows_13137.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Buchenwald_Forced_Labor_Gallows_13137.jpg/800px-Buchenwald_Forced_Labor_Gallows_13137.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Buchenwald_Forced_Labor_Gallows_13137.jpg/1200px-Buchenwald_Forced_Labor_Gallows_13137.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Buchenwald_Forced_Labor_Gallows_13137.jpg/1920px-Buchenwald_Forced_Labor_Gallows_13137.jpg
 ---
 
 ## Overview

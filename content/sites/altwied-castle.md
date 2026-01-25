@@ -1,27 +1,49 @@
 ---
-title: "Altwied Castle"
+title: Altwied Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4835
 longitude: 7.46722
-
-# Images
 images:
-  - "/images-sites/altwied-castle/01-b6e8ceaf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Altwied_048.jpg/1200px-Burg_Altwied_048.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Altwied_-_Senkrechtaufnahme.JPG/1200px-Burg_Altwied_-_Senkrechtaufnahme.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Altwied.jpg/1200px-Burg_Altwied.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Altwied3.jpg/1200px-Burg_Altwied3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Altwied_-_Burg_Altwied_015--b.jpg/1200px-Altwied_-_Burg_Altwied_015--b.jpg
+image_srcset:
+  Burg Altwied 048.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Altwied_048.jpg/400px-Burg_Altwied_048.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Altwied_048.jpg/800px-Burg_Altwied_048.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Altwied_048.jpg/1200px-Burg_Altwied_048.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Altwied_048.jpg/1920px-Burg_Altwied_048.jpg
+  Burg Altwied - Senkrechtaufnahme.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Altwied_-_Senkrechtaufnahme.JPG/400px-Burg_Altwied_-_Senkrechtaufnahme.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Altwied_-_Senkrechtaufnahme.JPG/800px-Burg_Altwied_-_Senkrechtaufnahme.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Altwied_-_Senkrechtaufnahme.JPG/1200px-Burg_Altwied_-_Senkrechtaufnahme.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burg_Altwied_-_Senkrechtaufnahme.JPG/1920px-Burg_Altwied_-_Senkrechtaufnahme.JPG
+  Burg Altwied.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Altwied.jpg/400px-Burg_Altwied.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Altwied.jpg/800px-Burg_Altwied.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Altwied.jpg/1200px-Burg_Altwied.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Altwied.jpg/1920px-Burg_Altwied.jpg
+  Burg Altwied3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Altwied3.jpg/400px-Burg_Altwied3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Altwied3.jpg/800px-Burg_Altwied3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Altwied3.jpg/1200px-Burg_Altwied3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Altwied3.jpg/1920px-Burg_Altwied3.jpg
+  Altwied - Burg Altwied 015--b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Altwied_-_Burg_Altwied_015--b.jpg/400px-Altwied_-_Burg_Altwied_015--b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Altwied_-_Burg_Altwied_015--b.jpg/800px-Altwied_-_Burg_Altwied_015--b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Altwied_-_Burg_Altwied_015--b.jpg/1200px-Altwied_-_Burg_Altwied_015--b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Altwied_-_Burg_Altwied_015--b.jpg/1920px-Altwied_-_Burg_Altwied_015--b.jpg
 ---
 
 ## Overview

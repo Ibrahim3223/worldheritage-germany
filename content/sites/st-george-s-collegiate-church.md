@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q875952"
 description: "In the heart of Tübingen, Germany, stands St. Georges Collegiate Church, an exemplary representation of Gothic architecture that has captivated visitors..."
 images:
-  - "/images-sites/st-george-s-collegiate-church/01-e1b9a041-1920w.webp"
-  - "/images-sites/st-george-s-collegiate-church/02-77369553-1920w.webp"
-  - "/images-sites/st-george-s-collegiate-church/03-fc25c4fc-1920w.webp"
+  - "/images/st-george-s-collegiate-church/01-e1b9a041-1920w.webp"
+  - "/images/st-george-s-collegiate-church/02-77369553-1920w.webp"
+  - "/images/st-george-s-collegiate-church/03-fc25c4fc-1920w.webp"
 ---
 
 ## Overview

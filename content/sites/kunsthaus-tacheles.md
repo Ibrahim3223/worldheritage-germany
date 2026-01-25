@@ -21,9 +21,9 @@ longitude: 13.388611111
 
 # Images
 images:
-  - "/images-sites/kunsthaus-tacheles/01-8d020e31-800w.webp"
-  - "/images-sites/kunsthaus-tacheles/02-7eef14a7-800w.webp"
-  - "/images-sites/kunsthaus-tacheles/03-e1232b22-800w.webp"
+  - "/images/kunsthaus-tacheles/01-8d020e31-800w.webp"
+  - "/images/kunsthaus-tacheles/02-7eef14a7-800w.webp"
+  - "/images/kunsthaus-tacheles/03-e1232b22-800w.webp"
 ---
 
 ## Overview

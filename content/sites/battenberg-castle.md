@@ -1,28 +1,49 @@
 ---
-title: "Battenberg Castle"
+title: Battenberg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5322
 longitude: 8.14472
-
-# Images
 images:
-  - "/images-sites/battenberg-castle/02-de9911b1-800w.webp"
-  - "/images-sites/battenberg-castle/03-e7d90ada-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg/1200px-View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Battenberg_Treppenturm.jpg/1200px-Battenberg_Treppenturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Batt_Torbau_2.jpg/1200px-Batt_Torbau_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Battenberg_05.JPG/1200px-Burg_Battenberg_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Battenberg2.JPG/1200px-Battenberg2.JPG
+image_srcset:
+  View of the Upper Rhine Plain from Battenberg Castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg/400px-View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg/800px-View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg/1200px-View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg/1920px-View_of_the_Upper_Rhine_Plain_from_Battenberg_Castle.jpg
+  Battenberg Treppenturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Battenberg_Treppenturm.jpg/400px-Battenberg_Treppenturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Battenberg_Treppenturm.jpg/800px-Battenberg_Treppenturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Battenberg_Treppenturm.jpg/1200px-Battenberg_Treppenturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Battenberg_Treppenturm.jpg/1920px-Battenberg_Treppenturm.jpg
+  Batt Torbau 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Batt_Torbau_2.jpg/400px-Batt_Torbau_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Batt_Torbau_2.jpg/800px-Batt_Torbau_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Batt_Torbau_2.jpg/1200px-Batt_Torbau_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Batt_Torbau_2.jpg/1920px-Batt_Torbau_2.jpg
+  Burg Battenberg 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Battenberg_05.JPG/400px-Burg_Battenberg_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Battenberg_05.JPG/800px-Burg_Battenberg_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Battenberg_05.JPG/1200px-Burg_Battenberg_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Battenberg_05.JPG/1920px-Burg_Battenberg_05.JPG
+  Battenberg2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Battenberg2.JPG/400px-Battenberg2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Battenberg2.JPG/800px-Battenberg2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Battenberg2.JPG/1200px-Battenberg2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Battenberg2.JPG/1920px-Battenberg2.JPG
 ---
 
 ## Overview

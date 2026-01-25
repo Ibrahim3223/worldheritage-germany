@@ -13,7 +13,7 @@ regions:
 latitude: 54.36065
 longitude: 10.60093
 images:
-  - "/images-sites/neuland-lighthouse/01-bf1c969c-800w.webp"
+  - "/images/neuland-lighthouse/01-bf1c969c-800w.webp"
 ---
 
 ## Overview

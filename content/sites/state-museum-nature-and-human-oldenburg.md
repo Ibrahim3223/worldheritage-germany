@@ -13,9 +13,9 @@ regions:
 latitude: 53.1337
 longitude: 8.21949
 images:
-  - "/images-sites/state-museum-nature-and-human-oldenburg/01-322efbcd-800w.webp"
-  - "/images-sites/state-museum-nature-and-human-oldenburg/02-924223d7-800w.webp"
-  - "/images-sites/state-museum-nature-and-human-oldenburg/03-4df6cb69-800w.webp"
+  - "/images/state-museum-nature-and-human-oldenburg/01-322efbcd-800w.webp"
+  - "/images/state-museum-nature-and-human-oldenburg/02-924223d7-800w.webp"
+  - "/images/state-museum-nature-and-human-oldenburg/03-4df6cb69-800w.webp"
 ---
 
 ## Overview

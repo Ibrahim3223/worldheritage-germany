@@ -13,7 +13,7 @@ regions:
 latitude: 52.5725
 longitude: 13.43055556
 images:
-  - "/images-sites/khadija-mosque/01-a76fee7d-800w.webp"
+  - "/images/khadija-mosque/01-a76fee7d-800w.webp"
 ---
 
 ## Overview

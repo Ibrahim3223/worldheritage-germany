@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2319969"
 description: "In the heart of Freiburg im Breisgau, the church of St. Konrad und Elisabeth stands as a striking example of expressionist architecture, a style that em..."
 images:
-  - "/images-sites/st-konrad-und-elisabeth-freiburg/01-271836ab-1920w.webp"
-  - "/images-sites/st-konrad-und-elisabeth-freiburg/02-549dfaca-1920w.webp"
-  - "/images-sites/st-konrad-und-elisabeth-freiburg/03-ff3ecf5c-1920w.webp"
+  - "/images/st-konrad-und-elisabeth-freiburg/01-271836ab-1920w.webp"
+  - "/images/st-konrad-und-elisabeth-freiburg/02-549dfaca-1920w.webp"
+  - "/images/st-konrad-und-elisabeth-freiburg/03-ff3ecf5c-1920w.webp"
 ---
 
 ## Overview

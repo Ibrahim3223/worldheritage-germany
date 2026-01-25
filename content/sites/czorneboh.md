@@ -1,21 +1,49 @@
 ---
-title: "Czorneboh"
+title: Czorneboh
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1195346
 longitude: 14.5260235
 images:
-  - "/images-sites/czorneboh/01-1fdf8d93-800w.webp"
-  - "/images-sites/czorneboh/02-d43eca45-800w.webp"
-  - "/images-sites/czorneboh/03-95eb0d85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg/1200px-Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1200px-Běłobóh_Čornobóh.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg/1200px-25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg/1200px-17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg/1200px-13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg
+image_srcset:
+  Cunewalde - Czorneboh - Berggasthof 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg/400px-Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg/800px-Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg/1200px-Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg/1920px-Cunewalde_-_Czorneboh_-_Berggasthof_03_ies.jpg
+  Běłobóh Čornobóh.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/400px-Běłobóh_Čornobóh.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/800px-Běłobóh_Čornobóh.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1200px-Běłobóh_Čornobóh.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Běłobóh_Čornobóh.JPG/1920px-Běłobóh_Čornobóh.JPG
+  25830-Czorneboh-1932-Czorneboh vom Mönchswalder Berg aus-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg/400px-25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg/800px-25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg/1200px-25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg/1920px-25830-Czorneboh-1932-Czorneboh_vom_Mönchswalder_Berg_aus-Brück_&_Sohn_Kunstverlag.jpg
+  17909-Großpostwitz-1914-Blick auf Großpostwitz und Corneboh vom Mönchswalder Berg-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg/400px-17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg/800px-17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg/1200px-17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg/1920px-17909-Großpostwitz-1914-Blick_auf_Großpostwitz_und_Corneboh_vom_Mönchswalder_Berg-Brück_&_Sohn_Kunstverlag.jpg
+  13701-Großpostwitz-1911-Blick auf Großpostwitz-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg/400px-13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg/800px-13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg/1200px-13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg/1920px-13701-Großpostwitz-1911-Blick_auf_Großpostwitz-Brück_&_Sohn_Kunstverlag.jpg
 ---
 
 ## Overview

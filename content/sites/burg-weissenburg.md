@@ -1,27 +1,49 @@
 ---
-title: "Burg Weißenburg"
+title: Burg Weißenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7312
 longitude: 11.4484
-
-# Images
 images:
-  - "/images-sites/burg-weissenburg/01-b84b19c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schlossweißenburg_thüringen1.JPG/1200px-Schlossweißenburg_thüringen1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossweißenburg_thüringen2.JPG/1200px-Schlossweißenburg_thüringen2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Weißenburg_vom_Saaletal.jpg/1200px-Weißenburg_vom_Saaletal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Thueringen-Weissenburg-Eingangsseite.jpg/1200px-Thueringen-Weissenburg-Eingangsseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thueringen-Weissenburg-Suedostseite.jpg/1200px-Thueringen-Weissenburg-Suedostseite.jpg
+image_srcset:
+  Schlossweißenburg thüringen1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schlossweißenburg_thüringen1.JPG/400px-Schlossweißenburg_thüringen1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schlossweißenburg_thüringen1.JPG/800px-Schlossweißenburg_thüringen1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schlossweißenburg_thüringen1.JPG/1200px-Schlossweißenburg_thüringen1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Schlossweißenburg_thüringen1.JPG/1920px-Schlossweißenburg_thüringen1.JPG
+  Schlossweißenburg thüringen2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossweißenburg_thüringen2.JPG/400px-Schlossweißenburg_thüringen2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossweißenburg_thüringen2.JPG/800px-Schlossweißenburg_thüringen2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossweißenburg_thüringen2.JPG/1200px-Schlossweißenburg_thüringen2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossweißenburg_thüringen2.JPG/1920px-Schlossweißenburg_thüringen2.JPG
+  Weißenburg vom Saaletal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Weißenburg_vom_Saaletal.jpg/400px-Weißenburg_vom_Saaletal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Weißenburg_vom_Saaletal.jpg/800px-Weißenburg_vom_Saaletal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Weißenburg_vom_Saaletal.jpg/1200px-Weißenburg_vom_Saaletal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Weißenburg_vom_Saaletal.jpg/1920px-Weißenburg_vom_Saaletal.jpg
+  Thueringen-Weissenburg-Eingangsseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Thueringen-Weissenburg-Eingangsseite.jpg/400px-Thueringen-Weissenburg-Eingangsseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Thueringen-Weissenburg-Eingangsseite.jpg/800px-Thueringen-Weissenburg-Eingangsseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Thueringen-Weissenburg-Eingangsseite.jpg/1200px-Thueringen-Weissenburg-Eingangsseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Thueringen-Weissenburg-Eingangsseite.jpg/1920px-Thueringen-Weissenburg-Eingangsseite.jpg
+  Thueringen-Weissenburg-Suedostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thueringen-Weissenburg-Suedostseite.jpg/400px-Thueringen-Weissenburg-Suedostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thueringen-Weissenburg-Suedostseite.jpg/800px-Thueringen-Weissenburg-Suedostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thueringen-Weissenburg-Suedostseite.jpg/1200px-Thueringen-Weissenburg-Suedostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thueringen-Weissenburg-Suedostseite.jpg/1920px-Thueringen-Weissenburg-Suedostseite.jpg
 ---
 
 ## Overview

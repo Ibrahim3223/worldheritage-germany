@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1283446"
 description: "Tucked away in the charming district of Vegesack, the Stadtkirche Vegesack stands as a distinguished example of Neoclassical architecture in Bremen, Ger..."
 images:
-  - "/images-sites/stadtkirche-vegesack/01-48045ffe-1920w.webp"
-  - "/images-sites/stadtkirche-vegesack/02-6ed0136a-1920w.webp"
-  - "/images-sites/stadtkirche-vegesack/03-4b2b05b2-1920w.webp"
+  - "/images/stadtkirche-vegesack/01-48045ffe-1920w.webp"
+  - "/images/stadtkirche-vegesack/02-6ed0136a-1920w.webp"
+  - "/images/stadtkirche-vegesack/03-4b2b05b2-1920w.webp"
 ---
 
 ## Overview

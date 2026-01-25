@@ -1,19 +1,49 @@
 ---
-title: "Burg Freudenberg"
+title: Burg Freudenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7389
 longitude: 9.3235
 images:
-  - "/images-sites/burg-freudenberg/01-b2657512-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg/1200px-Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rundturm_mit_späterem_Tor.JPG/1200px-Rundturm_mit_späterem_Tor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lage_Burg_Freudenberg_(Baden)_2.png/1200px-Lage_Burg_Freudenberg_(Baden)_2.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lage_Burg_Freudenberg_(Baden)_1.png/1200px-Lage_Burg_Freudenberg_(Baden)_1.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lage_Burg_Freudenberg_(Baden)_3.png/1200px-Lage_Burg_Freudenberg_(Baden)_3.png
+image_srcset:
+  Burg Freudenberg. Rundturm. 2015-09-13 12-03-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg/400px-Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg/800px-Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg/1200px-Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg/1920px-Burg_Freudenberg._Rundturm._2015-09-13_12-03-10.jpg
+  Rundturm mit späterem Tor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rundturm_mit_späterem_Tor.JPG/400px-Rundturm_mit_späterem_Tor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rundturm_mit_späterem_Tor.JPG/800px-Rundturm_mit_späterem_Tor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rundturm_mit_späterem_Tor.JPG/1200px-Rundturm_mit_späterem_Tor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rundturm_mit_späterem_Tor.JPG/1920px-Rundturm_mit_späterem_Tor.JPG
+  Lage Burg Freudenberg (Baden) 2.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lage_Burg_Freudenberg_(Baden)_2.png/400px-Lage_Burg_Freudenberg_(Baden)_2.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lage_Burg_Freudenberg_(Baden)_2.png/800px-Lage_Burg_Freudenberg_(Baden)_2.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lage_Burg_Freudenberg_(Baden)_2.png/1200px-Lage_Burg_Freudenberg_(Baden)_2.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lage_Burg_Freudenberg_(Baden)_2.png/1920px-Lage_Burg_Freudenberg_(Baden)_2.png
+  Lage Burg Freudenberg (Baden) 1.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lage_Burg_Freudenberg_(Baden)_1.png/400px-Lage_Burg_Freudenberg_(Baden)_1.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lage_Burg_Freudenberg_(Baden)_1.png/800px-Lage_Burg_Freudenberg_(Baden)_1.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lage_Burg_Freudenberg_(Baden)_1.png/1200px-Lage_Burg_Freudenberg_(Baden)_1.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lage_Burg_Freudenberg_(Baden)_1.png/1920px-Lage_Burg_Freudenberg_(Baden)_1.png
+  Lage Burg Freudenberg (Baden) 3.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lage_Burg_Freudenberg_(Baden)_3.png/400px-Lage_Burg_Freudenberg_(Baden)_3.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lage_Burg_Freudenberg_(Baden)_3.png/800px-Lage_Burg_Freudenberg_(Baden)_3.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lage_Burg_Freudenberg_(Baden)_3.png/1200px-Lage_Burg_Freudenberg_(Baden)_3.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lage_Burg_Freudenberg_(Baden)_3.png/1920px-Lage_Burg_Freudenberg_(Baden)_3.png
 ---
 
 ## Overview

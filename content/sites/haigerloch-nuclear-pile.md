@@ -1,19 +1,49 @@
 ---
-title: "Haigerloch nuclear pile"
+title: Haigerloch nuclear pile
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3668
 longitude: 8.80404
 images:
-  - "/images-sites/haigerloch-nuclear-pile/01-71375f1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg/1200px-Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reaktoraufbau_Haigerloch.JPG/1200px-Reaktoraufbau_Haigerloch.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg/1200px-German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/1200px-Eingang_Atomkeller_Haigerloch.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Forschungsreaktor_Haigerloch_Gitter.svg/1200px-Forschungsreaktor_Haigerloch_Gitter.svg.png
+image_srcset:
+  Haigerloch Schlossfelsen Schlosskirche Atomkeller-Museum 2013-08-18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg/400px-Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg/800px-Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg/1200px-Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg/1920px-Haigerloch_Schlossfelsen_Schlosskirche_Atomkeller-Museum_2013-08-18.jpg
+  Reaktoraufbau Haigerloch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reaktoraufbau_Haigerloch.JPG/400px-Reaktoraufbau_Haigerloch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reaktoraufbau_Haigerloch.JPG/800px-Reaktoraufbau_Haigerloch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reaktoraufbau_Haigerloch.JPG/1200px-Reaktoraufbau_Haigerloch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Reaktoraufbau_Haigerloch.JPG/1920px-Reaktoraufbau_Haigerloch.JPG
+  German Experimental Pile - Haigerloch - April 1945.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg/400px-German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg/800px-German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg/1200px-German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg/1920px-German_Experimental_Pile_-_Haigerloch_-_April_1945.jpg
+  Eingang Atomkeller Haigerloch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/400px-Eingang_Atomkeller_Haigerloch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/800px-Eingang_Atomkeller_Haigerloch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/1200px-Eingang_Atomkeller_Haigerloch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eingang_Atomkeller_Haigerloch.JPG/1920px-Eingang_Atomkeller_Haigerloch.JPG
+  Forschungsreaktor Haigerloch Gitter.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Forschungsreaktor_Haigerloch_Gitter.svg/400px-Forschungsreaktor_Haigerloch_Gitter.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Forschungsreaktor_Haigerloch_Gitter.svg/800px-Forschungsreaktor_Haigerloch_Gitter.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Forschungsreaktor_Haigerloch_Gitter.svg/1200px-Forschungsreaktor_Haigerloch_Gitter.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Forschungsreaktor_Haigerloch_Gitter.svg/1920px-Forschungsreaktor_Haigerloch_Gitter.svg.png
 ---
 
 ## Overview

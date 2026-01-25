@@ -1,19 +1,49 @@
 ---
-title: "Irsee Abbey"
+title: Irsee Abbey
 date: 2026-01-23
 draft: false
-description: "former abbey in Germany, nowadays conference and training center"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former abbey in Germany, nowadays conference and training center
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.910435022
 longitude: 10.574434776
 images:
-  - "/images-sites/irsee-abbey/01-074f6448-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg/1200px-Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Irsee_Euthanasie-Friedhof.JPG/1200px-Irsee_Euthanasie-Friedhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/IKBLuftbild.jpg/1200px-IKBLuftbild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichsabtei_Irsee_coat_of_arms.svg/1200px-Reichsabtei_Irsee_coat_of_arms.svg.png
+image_srcset:
+  Pfarrkirche und ehem. Klosteranlage in Irsee, Ehem. Mariä Himmelfahrt, jetzt Peter und Paul.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg/400px-Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg/800px-Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg/1200px-Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg/1920px-Pfarrkirche_und_ehem._Klosteranlage_in_Irsee,_Ehem._Mariä_Himmelfahrt,_jetzt_Peter_und_Paul.jpg
+  Aerial image of Irsee Abbey (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Irsee_Abbey_(view_from_the_southeast).jpg
+  Irsee Euthanasie-Friedhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Irsee_Euthanasie-Friedhof.JPG/400px-Irsee_Euthanasie-Friedhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Irsee_Euthanasie-Friedhof.JPG/800px-Irsee_Euthanasie-Friedhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Irsee_Euthanasie-Friedhof.JPG/1200px-Irsee_Euthanasie-Friedhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Irsee_Euthanasie-Friedhof.JPG/1920px-Irsee_Euthanasie-Friedhof.JPG
+  IKBLuftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/IKBLuftbild.jpg/400px-IKBLuftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/IKBLuftbild.jpg/800px-IKBLuftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/IKBLuftbild.jpg/1200px-IKBLuftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/IKBLuftbild.jpg/1920px-IKBLuftbild.jpg
+  Reichsabtei Irsee coat of arms.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichsabtei_Irsee_coat_of_arms.svg/400px-Reichsabtei_Irsee_coat_of_arms.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichsabtei_Irsee_coat_of_arms.svg/800px-Reichsabtei_Irsee_coat_of_arms.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichsabtei_Irsee_coat_of_arms.svg/1200px-Reichsabtei_Irsee_coat_of_arms.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Reichsabtei_Irsee_coat_of_arms.svg/1920px-Reichsabtei_Irsee_coat_of_arms.svg.png
 ---
 
 ## Overview

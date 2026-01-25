@@ -13,7 +13,7 @@ regions:
 latitude: 48.2905
 longitude: 8.34377
 images:
-  - "/images-sites/schuettesaege-museum/01-1db48dfd-800w.webp"
+  - "/images/schuettesaege-museum/01-1db48dfd-800w.webp"
 ---
 
 ## Overview

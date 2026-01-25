@@ -1,21 +1,49 @@
 ---
-title: "Herne station"
+title: Herne station
 date: 2026-01-23
 draft: false
-description: "railway station in Herne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Herne, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.543611111
 longitude: 7.217777777
 images:
-  - "/images-sites/herne-station/01-e8dae700-800w.webp"
-  - "/images-sites/herne-station/02-0001f068-800w.webp"
-  - "/images-sites/herne-station/03-88005369-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Herne_1907161550.jpg/1200px-Bahnhof_Herne_1907161550.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Herne_1907161555.jpg/1200px-Bahnhof_Herne_1907161555.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Herne_1907161556.jpg/1200px-Bahnhof_Herne_1907161556.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahnhof_Herne_1907161558.jpg/1200px-Bahnhof_Herne_1907161558.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bahnhof_Herne_1907161559.jpg/1200px-Bahnhof_Herne_1907161559.jpg
+image_srcset:
+  Bahnhof Herne 1907161550.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Herne_1907161550.jpg/400px-Bahnhof_Herne_1907161550.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Herne_1907161550.jpg/800px-Bahnhof_Herne_1907161550.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Herne_1907161550.jpg/1200px-Bahnhof_Herne_1907161550.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bahnhof_Herne_1907161550.jpg/1920px-Bahnhof_Herne_1907161550.jpg
+  Bahnhof Herne 1907161555.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Herne_1907161555.jpg/400px-Bahnhof_Herne_1907161555.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Herne_1907161555.jpg/800px-Bahnhof_Herne_1907161555.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Herne_1907161555.jpg/1200px-Bahnhof_Herne_1907161555.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Herne_1907161555.jpg/1920px-Bahnhof_Herne_1907161555.jpg
+  Bahnhof Herne 1907161556.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Herne_1907161556.jpg/400px-Bahnhof_Herne_1907161556.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Herne_1907161556.jpg/800px-Bahnhof_Herne_1907161556.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Herne_1907161556.jpg/1200px-Bahnhof_Herne_1907161556.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bahnhof_Herne_1907161556.jpg/1920px-Bahnhof_Herne_1907161556.jpg
+  Bahnhof Herne 1907161558.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahnhof_Herne_1907161558.jpg/400px-Bahnhof_Herne_1907161558.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahnhof_Herne_1907161558.jpg/800px-Bahnhof_Herne_1907161558.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahnhof_Herne_1907161558.jpg/1200px-Bahnhof_Herne_1907161558.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahnhof_Herne_1907161558.jpg/1920px-Bahnhof_Herne_1907161558.jpg
+  Bahnhof Herne 1907161559.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bahnhof_Herne_1907161559.jpg/400px-Bahnhof_Herne_1907161559.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bahnhof_Herne_1907161559.jpg/800px-Bahnhof_Herne_1907161559.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bahnhof_Herne_1907161559.jpg/1200px-Bahnhof_Herne_1907161559.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bahnhof_Herne_1907161559.jpg/1920px-Bahnhof_Herne_1907161559.jpg
 ---
 
 ## Overview

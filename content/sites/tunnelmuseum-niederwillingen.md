@@ -13,7 +13,7 @@ regions:
 latitude: 50.7719
 longitude: 11.0356
 images:
-  - "/images-sites/tunnelmuseum-niederwillingen/01-43d8f290-800w.webp"
+  - "/images/tunnelmuseum-niederwillingen/01-43d8f290-800w.webp"
 ---
 
 ## Overview

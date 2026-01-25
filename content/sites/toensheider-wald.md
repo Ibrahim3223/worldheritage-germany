@@ -13,7 +13,7 @@ regions:
 latitude: 54.0567
 longitude: 9.77333
 images:
-  - "/images-sites/toensheider-wald/01-4338df8b-800w.webp"
+  - "/images/toensheider-wald/01-4338df8b-800w.webp"
 ---
 
 ## Overview

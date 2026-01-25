@@ -1,23 +1,45 @@
 ---
-title: "City Church Konkordien Mannheim"
-site_name: "City Church Konkordien Mannheim"
-slug: "city-church-konkordien-mannheim"
-region: "Hesse"
-
-# Location
+title: City Church Konkordien Mannheim
+site_name: City Church Konkordien Mannheim
+slug: city-church-konkordien-mannheim
+region: Hesse
 latitude: 49.4888
 longitude: 8.46905
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1781768"
-description: "The City Church Konkordien in Mannheim stands as a striking example of Baroque architecture, distinguished by its impressive height and unique sandstone..."
+- cultural site
+wikidata_id: Q1781768
+description: The City Church Konkordien in Mannheim stands as a striking example of
+  Baroque architecture, distinguished by its impressive height and unique sandstone...
 images:
-  - "/images-sites/city-church-konkordien-mannheim/01-5ff3b514-1920w.webp"
-  - "/images-sites/city-church-konkordien-mannheim/02-0ef2bb83-1920w.webp"
-  - "/images-sites/city-church-konkordien-mannheim/03-75f7bfc7-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/1200px-Mannheim-Konkordienkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180714_Konkordienkirche_Mannheim_03.jpg/1200px-20180714_Konkordienkirche_Mannheim_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG/1200px-Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg/1200px-Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg
+image_srcset:
+  Mannheim-Konkordienkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/400px-Mannheim-Konkordienkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/800px-Mannheim-Konkordienkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/1200px-Mannheim-Konkordienkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mannheim-Konkordienkirche.jpg/1920px-Mannheim-Konkordienkirche.jpg
+  20180714 Konkordienkirche Mannheim 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180714_Konkordienkirche_Mannheim_03.jpg/400px-20180714_Konkordienkirche_Mannheim_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180714_Konkordienkirche_Mannheim_03.jpg/800px-20180714_Konkordienkirche_Mannheim_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180714_Konkordienkirche_Mannheim_03.jpg/1200px-20180714_Konkordienkirche_Mannheim_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180714_Konkordienkirche_Mannheim_03.jpg/1920px-20180714_Konkordienkirche_Mannheim_03.jpg
+  Mannheim, Konkordienkirche, Turm (2008-02-07 Sp).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG/400px-Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG/800px-Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG/1200px-Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG/1920px-Mannheim,_Konkordienkirche,_Turm_(2008-02-07_Sp).JPG
+  ? Karl Ludwig hands over the church, built in 1679 in Mannheim and dedicated to
+    Sancta Concordia, to the Catholic, Lutheran and Calvinist cults.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg/400px-Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg/800px-Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg/1200px-Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg/1920px-Karl_Ludwig_hands_over_the_church,_built_in_1679_in_Mannheim_and_dedicated_to_Sancta_Concordia,_to_the_Catholic,_Lutheran_and_Calvinist_cults.jpg
 ---
 
 ## Overview

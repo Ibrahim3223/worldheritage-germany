@@ -13,7 +13,7 @@ regions:
 latitude: 50.83669
 longitude: 10.94686
 images:
-  - "/images-sites/synagogue-of-arnstadt/01-e4b73c15-800w.webp"
+  - "/images/synagogue-of-arnstadt/01-e4b73c15-800w.webp"
 ---
 
 ## Overview

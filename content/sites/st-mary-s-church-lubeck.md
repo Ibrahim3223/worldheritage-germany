@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q695065"
 description: "St. Marys Church, known as St. Marien in German, stands as a remarkable example of Brick Gothic architecture in Lübeck, Germany. Founded in 1300, this c..."
 images:
-  - "/images-sites/st-mary-s-church-lubeck/01-02475f0f-1920w.webp"
-  - "/images-sites/st-mary-s-church-lubeck/02-0e07b8b1-1920w.webp"
-  - "/images-sites/st-mary-s-church-lubeck/03-05c9543a-1920w.webp"
+  - "/images/st-mary-s-church-lubeck/01-02475f0f-1920w.webp"
+  - "/images/st-mary-s-church-lubeck/02-0e07b8b1-1920w.webp"
+  - "/images/st-mary-s-church-lubeck/03-05c9543a-1920w.webp"
 ---
 
 ## Overview

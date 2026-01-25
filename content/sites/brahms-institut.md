@@ -1,19 +1,49 @@
 ---
-title: "Brahms-Institut"
+title: Brahms-Institut
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 53.88
 longitude: 10.696
 images:
-  - "/images-sites/brahms-institut/01-4a58fb11-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WP_Eschenburgpark_2.jpg/1200px-WP_Eschenburgpark_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20180421084939!HL_–_Jerusalemsberg_4_(2).jpg/1200px-20180421084939!HL_–_Jerusalemsberg_4_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/1200px-HL_–_Jerusalemsberg_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eschenbgvilla.jpg/1200px-Eschenbgvilla.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eschenbgvilla_parkseite.jpg/1200px-Eschenbgvilla_parkseite.jpg
+image_srcset:
+  WP Eschenburgpark 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WP_Eschenburgpark_2.jpg/400px-WP_Eschenburgpark_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WP_Eschenburgpark_2.jpg/800px-WP_Eschenburgpark_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WP_Eschenburgpark_2.jpg/1200px-WP_Eschenburgpark_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WP_Eschenburgpark_2.jpg/1920px-WP_Eschenburgpark_2.jpg
+  20180421084939!HL – Jerusalemsberg 4 (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20180421084939!HL_–_Jerusalemsberg_4_(2).jpg/400px-20180421084939!HL_–_Jerusalemsberg_4_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20180421084939!HL_–_Jerusalemsberg_4_(2).jpg/800px-20180421084939!HL_–_Jerusalemsberg_4_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20180421084939!HL_–_Jerusalemsberg_4_(2).jpg/1200px-20180421084939!HL_–_Jerusalemsberg_4_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20180421084939!HL_–_Jerusalemsberg_4_(2).jpg/1920px-20180421084939!HL_–_Jerusalemsberg_4_(2).jpg
+  HL – Jerusalemsberg 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/400px-HL_–_Jerusalemsberg_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/800px-HL_–_Jerusalemsberg_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/1200px-HL_–_Jerusalemsberg_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/HL_–_Jerusalemsberg_4.jpg/1920px-HL_–_Jerusalemsberg_4.jpg
+  Eschenbgvilla.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eschenbgvilla.jpg/400px-Eschenbgvilla.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eschenbgvilla.jpg/800px-Eschenbgvilla.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eschenbgvilla.jpg/1200px-Eschenbgvilla.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eschenbgvilla.jpg/1920px-Eschenbgvilla.jpg
+  Eschenbgvilla parkseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eschenbgvilla_parkseite.jpg/400px-Eschenbgvilla_parkseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eschenbgvilla_parkseite.jpg/800px-Eschenbgvilla_parkseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eschenbgvilla_parkseite.jpg/1200px-Eschenbgvilla_parkseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eschenbgvilla_parkseite.jpg/1920px-Eschenbgvilla_parkseite.jpg
 ---
 
 ## Overview

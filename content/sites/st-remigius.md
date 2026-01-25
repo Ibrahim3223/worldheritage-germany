@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1423012"
 description: "St. Remigius, located in the serene region of Heddesheim, Germany, is a striking example of Baroque architecture that captures the essence of its histor..."
 images:
-  - "/images-sites/st-remigius/01-f6defb80-1920w.webp"
-  - "/images-sites/st-remigius/02-ccbfc087-1920w.webp"
-  - "/images-sites/st-remigius/03-f280925a-1920w.webp"
+  - "/images/st-remigius/01-f6defb80-1920w.webp"
+  - "/images/st-remigius/02-ccbfc087-1920w.webp"
+  - "/images/st-remigius/03-f280925a-1920w.webp"
 ---
 
 ## Overview

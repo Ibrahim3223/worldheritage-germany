@@ -13,7 +13,7 @@ regions:
 latitude: 54.48921
 longitude: 9.5065
 images:
-  - "/images-sites/thyraborg/01-6824c70a-800w.webp"
+  - "/images/thyraborg/01-6824c70a-800w.webp"
 ---
 
 ## Overview

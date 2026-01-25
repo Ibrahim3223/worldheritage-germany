@@ -13,8 +13,8 @@ regions:
 latitude: 51.5325
 longitude: 7.15416667
 images:
-  - "/images-sites/mondpalast/02-0e479437-800w.webp"
-  - "/images-sites/mondpalast/03-6e507274-800w.webp"
+  - "/images/mondpalast/02-0e479437-800w.webp"
+  - "/images/mondpalast/03-6e507274-800w.webp"
 ---
 
 ## Overview

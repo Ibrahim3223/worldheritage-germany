@@ -1,20 +1,49 @@
 ---
-title: "cemeteries at Hallesches Tor"
+title: cemeteries at Hallesches Tor
 date: 2026-01-23
 draft: false
-description: "group of cemeteries in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: group of cemeteries in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.495277777
 longitude: 13.391944444
 images:
-  - "/images-sites/cemeteries-at-hallesches-tor/02-6cb1dfa5-800w.webp"
-  - "/images-sites/cemeteries-at-hallesches-tor/03-14feedf9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg/1200px-2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg/1200px-Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhoefe_vor_dem_halleschen_tor.svg/1200px-Friedhoefe_vor_dem_halleschen_tor.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graveyards_Hallesches_Tor2_Berlin.JPG/1200px-Graveyards_Hallesches_Tor2_Berlin.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Graveyards_Hallesches_Tor7_Berlin.JPG/1200px-Graveyards_Hallesches_Tor7_Berlin.JPG
+image_srcset:
+  2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg/400px-2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg/800px-2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg/1200px-2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg/1920px-2019-06-01-Gruft-Friedhof-Hallesches-Tor.jpg
+  Grabstätte Beschort Dreifaltigkeitsfriedhof Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg/400px-Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg/800px-Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg/1200px-Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg/1920px-Grabstätte_Beschort_Dreifaltigkeitsfriedhof_Berlin.jpg
+  Friedhoefe vor dem halleschen tor.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhoefe_vor_dem_halleschen_tor.svg/400px-Friedhoefe_vor_dem_halleschen_tor.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhoefe_vor_dem_halleschen_tor.svg/800px-Friedhoefe_vor_dem_halleschen_tor.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhoefe_vor_dem_halleschen_tor.svg/1200px-Friedhoefe_vor_dem_halleschen_tor.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhoefe_vor_dem_halleschen_tor.svg/1920px-Friedhoefe_vor_dem_halleschen_tor.svg.png
+  Graveyards Hallesches Tor2 Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graveyards_Hallesches_Tor2_Berlin.JPG/400px-Graveyards_Hallesches_Tor2_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graveyards_Hallesches_Tor2_Berlin.JPG/800px-Graveyards_Hallesches_Tor2_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graveyards_Hallesches_Tor2_Berlin.JPG/1200px-Graveyards_Hallesches_Tor2_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Graveyards_Hallesches_Tor2_Berlin.JPG/1920px-Graveyards_Hallesches_Tor2_Berlin.JPG
+  Graveyards Hallesches Tor7 Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Graveyards_Hallesches_Tor7_Berlin.JPG/400px-Graveyards_Hallesches_Tor7_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Graveyards_Hallesches_Tor7_Berlin.JPG/800px-Graveyards_Hallesches_Tor7_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Graveyards_Hallesches_Tor7_Berlin.JPG/1200px-Graveyards_Hallesches_Tor7_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Graveyards_Hallesches_Tor7_Berlin.JPG/1920px-Graveyards_Hallesches_Tor7_Berlin.JPG
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Berlin Wollankstraße station"
+title: Berlin Wollankstraße station
 date: 2026-01-23
 draft: false
-description: "railway station in Pankow, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Pankow, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5651525
 longitude: 13.3923627
 images:
-  - "/images-sites/berlin-wollankstrasse-station/01-a3ab6b51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg/1200px-Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bahnhof_Berlin_Wollankstraße_(4).jpg/1200px-Bahnhof_Berlin_Wollankstraße_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Wollankstraße.JPG/1200px-Bahnhof_Wollankstraße.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pankow_Wollankstr_S-Bahnbruecke.jpg/1200px-Pankow_Wollankstr_S-Bahnbruecke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pankow_Wollankstr_S-Bahnhof.jpg/1200px-Pankow_Wollankstr_S-Bahnhof.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Wollankstraße (S01 0340 0288).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg/400px-Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg/800px-Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg/1200px-Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg/1920px-Berlin_S-Bahn_Bhf_Wollankstraße_(S01_0340_0288).jpg
+  Bahnhof Berlin Wollankstraße (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bahnhof_Berlin_Wollankstraße_(4).jpg/400px-Bahnhof_Berlin_Wollankstraße_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bahnhof_Berlin_Wollankstraße_(4).jpg/800px-Bahnhof_Berlin_Wollankstraße_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bahnhof_Berlin_Wollankstraße_(4).jpg/1200px-Bahnhof_Berlin_Wollankstraße_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bahnhof_Berlin_Wollankstraße_(4).jpg/1920px-Bahnhof_Berlin_Wollankstraße_(4).jpg
+  Bahnhof Wollankstraße.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Wollankstraße.JPG/400px-Bahnhof_Wollankstraße.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Wollankstraße.JPG/800px-Bahnhof_Wollankstraße.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Wollankstraße.JPG/1200px-Bahnhof_Wollankstraße.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bahnhof_Wollankstraße.JPG/1920px-Bahnhof_Wollankstraße.JPG
+  Pankow Wollankstr S-Bahnbruecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pankow_Wollankstr_S-Bahnbruecke.jpg/400px-Pankow_Wollankstr_S-Bahnbruecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pankow_Wollankstr_S-Bahnbruecke.jpg/800px-Pankow_Wollankstr_S-Bahnbruecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pankow_Wollankstr_S-Bahnbruecke.jpg/1200px-Pankow_Wollankstr_S-Bahnbruecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pankow_Wollankstr_S-Bahnbruecke.jpg/1920px-Pankow_Wollankstr_S-Bahnbruecke.jpg
+  Pankow Wollankstr S-Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pankow_Wollankstr_S-Bahnhof.jpg/400px-Pankow_Wollankstr_S-Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pankow_Wollankstr_S-Bahnhof.jpg/800px-Pankow_Wollankstr_S-Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pankow_Wollankstr_S-Bahnhof.jpg/1200px-Pankow_Wollankstr_S-Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pankow_Wollankstr_S-Bahnhof.jpg/1920px-Pankow_Wollankstr_S-Bahnhof.jpg
 ---
 
 ## Overview

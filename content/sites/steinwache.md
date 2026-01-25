@@ -13,7 +13,7 @@ regions:
 latitude: 51.5196
 longitude: 7.46062
 images:
-  - "/images-sites/steinwache/01-6a11d5cf-800w.webp"
+  - "/images/steinwache/01-6a11d5cf-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 51.4956
 longitude: 7.52111
 images:
-  - "/images-sites/zeche-freie-vogel-unverhofft/01-7f62d083-800w.webp"
-  - "/images-sites/zeche-freie-vogel-unverhofft/02-1d93f2c5-800w.webp"
+  - "/images/zeche-freie-vogel-unverhofft/01-7f62d083-800w.webp"
+  - "/images/zeche-freie-vogel-unverhofft/02-1d93f2c5-800w.webp"
 ---
 
 ## Overview

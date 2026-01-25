@@ -1,19 +1,49 @@
 ---
-title: "Jenisch House"
+title: Jenisch House
 date: 2026-01-23
 draft: false
-description: "classicist manor house in Hamburg-Othmarschen, now a museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: classicist manor house in Hamburg-Othmarschen, now a museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5525
 longitude: 9.86555556
 images:
-  - "/images-sites/jenisch-house/01-f96bf327-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hamburg.Jenischhaus.wmt.jpg/1200px-Hamburg.Jenischhaus.wmt.jpg
+image_srcset:
+  Jenisch-Haus (Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg/400px-Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg/800px-Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg/1920px-Jenisch-Haus_(Hamburg-Othmarschen).Nordfassade.18006.ajb.jpg
+  Jenisch-Haus (Hamburg-Othmarschen).1.18006.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg/400px-Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg/800px-Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg/1920px-Jenisch-Haus_(Hamburg-Othmarschen).1.18006.ajb.jpg
+  Jenisch-Haus (Hamburg-Othmarschen).Westfassade.18006.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg/400px-Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg/800px-Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg/1920px-Jenisch-Haus_(Hamburg-Othmarschen).Westfassade.18006.ajb.jpg
+  Jenisch-Haus (Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg/400px-Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg/800px-Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg/1200px-Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg/1920px-Jenisch-Haus_(Hamburg-Othmarschen).Südfassade.Portikus.18006.ajb.jpg
+  Hamburg.Jenischhaus.wmt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hamburg.Jenischhaus.wmt.jpg/400px-Hamburg.Jenischhaus.wmt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hamburg.Jenischhaus.wmt.jpg/800px-Hamburg.Jenischhaus.wmt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hamburg.Jenischhaus.wmt.jpg/1200px-Hamburg.Jenischhaus.wmt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hamburg.Jenischhaus.wmt.jpg/1920px-Hamburg.Jenischhaus.wmt.jpg
 ---
 
 ## Overview

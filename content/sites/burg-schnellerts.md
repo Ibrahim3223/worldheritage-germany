@@ -1,27 +1,49 @@
 ---
-title: "Burg Schnellerts"
+title: Burg Schnellerts
 date: 2026-01-23
 draft: false
-description: "Burgruine in Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Burgruine in Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7409
 longitude: 8.8951
-
-# Images
 images:
-  - "/images-sites/burg-schnellerts/01-c5a308c8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burgruine_Schnellerts01.jpg/1200px-Burgruine_Schnellerts01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burgruine_Schnellerts_Turm.jpg/1200px-Burgruine_Schnellerts_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20211226_Burg_Schnellerts_04.jpg/1200px-20211226_Burg_Schnellerts_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20211226_Burg_Schnellerts_05.jpg/1200px-20211226_Burg_Schnellerts_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/20211226_Burg_Schnellerts_07.jpg/1200px-20211226_Burg_Schnellerts_07.jpg
+image_srcset:
+  Burgruine Schnellerts01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burgruine_Schnellerts01.jpg/400px-Burgruine_Schnellerts01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burgruine_Schnellerts01.jpg/800px-Burgruine_Schnellerts01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burgruine_Schnellerts01.jpg/1200px-Burgruine_Schnellerts01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Burgruine_Schnellerts01.jpg/1920px-Burgruine_Schnellerts01.jpg
+  Burgruine Schnellerts Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burgruine_Schnellerts_Turm.jpg/400px-Burgruine_Schnellerts_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burgruine_Schnellerts_Turm.jpg/800px-Burgruine_Schnellerts_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burgruine_Schnellerts_Turm.jpg/1200px-Burgruine_Schnellerts_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Burgruine_Schnellerts_Turm.jpg/1920px-Burgruine_Schnellerts_Turm.jpg
+  20211226 Burg Schnellerts 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20211226_Burg_Schnellerts_04.jpg/400px-20211226_Burg_Schnellerts_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20211226_Burg_Schnellerts_04.jpg/800px-20211226_Burg_Schnellerts_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20211226_Burg_Schnellerts_04.jpg/1200px-20211226_Burg_Schnellerts_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20211226_Burg_Schnellerts_04.jpg/1920px-20211226_Burg_Schnellerts_04.jpg
+  20211226 Burg Schnellerts 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20211226_Burg_Schnellerts_05.jpg/400px-20211226_Burg_Schnellerts_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20211226_Burg_Schnellerts_05.jpg/800px-20211226_Burg_Schnellerts_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20211226_Burg_Schnellerts_05.jpg/1200px-20211226_Burg_Schnellerts_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20211226_Burg_Schnellerts_05.jpg/1920px-20211226_Burg_Schnellerts_05.jpg
+  20211226 Burg Schnellerts 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/20211226_Burg_Schnellerts_07.jpg/400px-20211226_Burg_Schnellerts_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/20211226_Burg_Schnellerts_07.jpg/800px-20211226_Burg_Schnellerts_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/20211226_Burg_Schnellerts_07.jpg/1200px-20211226_Burg_Schnellerts_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/20211226_Burg_Schnellerts_07.jpg/1920px-20211226_Burg_Schnellerts_07.jpg
 ---
 
 ## Overview

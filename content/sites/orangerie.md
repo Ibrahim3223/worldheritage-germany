@@ -13,7 +13,7 @@ regions:
 latitude: 49.858
 longitude: 8.6531
 images:
-  - "/images-sites/orangerie/01-0ca550fa-800w.webp"
+  - "/images/orangerie/01-0ca550fa-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.798007739
 longitude: 9.93587169
 images:
-  - "/images-sites/stift-haug-wuerzburg/01-e3a0fab8-800w.webp"
+  - "/images/stift-haug-wuerzburg/01-e3a0fab8-800w.webp"
 ---
 
 ## Overview

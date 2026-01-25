@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2428526"
 description: "St. Thomas Church, a prominent landmark in Erfurt, Germany, emerges as an architectural gem of the Gothic Revival style. Founded in 1902, this church is..."
 images:
-  - "/images-sites/st-thomas-church/01-5e9341e8-1920w.webp"
-  - "/images-sites/st-thomas-church/01-c8e26efc-1920w.webp"
-  - "/images-sites/st-thomas-church/02-0071e1a2-1920w.webp"
+  - "/images/st-thomas-church/01-5e9341e8-1920w.webp"
+  - "/images/st-thomas-church/01-c8e26efc-1920w.webp"
+  - "/images/st-thomas-church/02-0071e1a2-1920w.webp"
 ---
 
 ## Overview

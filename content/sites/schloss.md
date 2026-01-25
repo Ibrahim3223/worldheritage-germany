@@ -21,7 +21,7 @@ longitude: 11.348550406
 
 # Images
 images:
-  - "/images-sites/schloss/01-56f140fa-800w.webp"
+  - "/images/schloss/01-56f140fa-800w.webp"
 ---
 
 ## Overview

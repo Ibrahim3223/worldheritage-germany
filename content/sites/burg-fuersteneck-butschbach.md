@@ -1,27 +1,31 @@
 ---
-title: "Burg Fürsteneck (Butschbach)"
+title: Burg Fürsteneck (Butschbach)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.5264
 longitude: 8.0602
-
-# Images
 images:
-  - "/images-sites/burg-fuersteneck-butschbach/01-625090c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/1200px-Fuersteneck1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuersteneck2.jpg/1200px-Fuersteneck2.jpg
+image_srcset:
+  Fuersteneck1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/400px-Fuersteneck1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/800px-Fuersteneck1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/1200px-Fuersteneck1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fuersteneck1.jpg/1920px-Fuersteneck1.jpg
+  Fuersteneck2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuersteneck2.jpg/400px-Fuersteneck2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuersteneck2.jpg/800px-Fuersteneck2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuersteneck2.jpg/1200px-Fuersteneck2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Fuersteneck2.jpg/1920px-Fuersteneck2.jpg
 ---
 
 ## Overview

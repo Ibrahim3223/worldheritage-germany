@@ -1,19 +1,50 @@
 ---
-title: "Church Kirch Grambow"
-site_name: "Church Kirch Grambow"
-slug: "church-kirch-grambow"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church Kirch Grambow
+site_name: Church Kirch Grambow
+slug: church-kirch-grambow
+region: Schleswig-Holstein
 latitude: 53.769
 longitude: 11.1202
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244409"
-description: "Church Kirch Grambow is an intriguing example of Brick Gothic architecture located in the tranquil region of Wedendorfersee, Germany. This church stands..."
+- cultural site
+wikidata_id: Q1244409
+description: Church Kirch Grambow is an intriguing example of Brick Gothic architecture
+  located in the tranquil region of Wedendorfersee, Germany. This church stands...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kirch%20Grambow.jpg/1200px-Kirch%20Grambow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kirch_Grambow_06_2016_03.jpg/1200px-Kirch_Grambow_06_2016_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kirche_Kirch_Grambow_06_2016.jpg/1200px-Kirche_Kirch_Grambow_06_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Koenigsloew_Grab.jpg/1200px-Koenigsloew_Grab.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/1200px-Kirch_Grambow.jpg
+image_srcset:
+  Kirch%20Grambow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kirch%20Grambow.jpg/400px-Kirch%20Grambow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kirch%20Grambow.jpg/800px-Kirch%20Grambow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kirch%20Grambow.jpg/1200px-Kirch%20Grambow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kirch%20Grambow.jpg/1920px-Kirch%20Grambow.jpg
+  Kirch Grambow 06 2016 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kirch_Grambow_06_2016_03.jpg/400px-Kirch_Grambow_06_2016_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kirch_Grambow_06_2016_03.jpg/800px-Kirch_Grambow_06_2016_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kirch_Grambow_06_2016_03.jpg/1200px-Kirch_Grambow_06_2016_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kirch_Grambow_06_2016_03.jpg/1920px-Kirch_Grambow_06_2016_03.jpg
+  Kirche Kirch Grambow 06 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kirche_Kirch_Grambow_06_2016.jpg/400px-Kirche_Kirch_Grambow_06_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kirche_Kirch_Grambow_06_2016.jpg/800px-Kirche_Kirch_Grambow_06_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kirche_Kirch_Grambow_06_2016.jpg/1200px-Kirche_Kirch_Grambow_06_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kirche_Kirch_Grambow_06_2016.jpg/1920px-Kirche_Kirch_Grambow_06_2016.jpg
+  Koenigsloew Grab.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Koenigsloew_Grab.jpg/400px-Koenigsloew_Grab.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Koenigsloew_Grab.jpg/800px-Koenigsloew_Grab.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Koenigsloew_Grab.jpg/1200px-Koenigsloew_Grab.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Koenigsloew_Grab.jpg/1920px-Koenigsloew_Grab.jpg
+  Kirch Grambow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/400px-Kirch_Grambow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/800px-Kirch_Grambow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/1200px-Kirch_Grambow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kirch_Grambow.jpg/1920px-Kirch_Grambow.jpg
 ---
 
 ## Overview

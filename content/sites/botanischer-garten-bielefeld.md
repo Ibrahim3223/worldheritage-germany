@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Bielefeld"
+title: Botanischer Garten Bielefeld
 date: 2026-01-23
 draft: false
-description: "botanical garden in Bielefeld, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Bielefeld, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.0147
 longitude: 8.51
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-bielefeld/01-ef58626e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nymphaea_macro_BG_Bi.jpg/1200px-Nymphaea_macro_BG_Bi.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bielefeld_Botanischer_Garten_3.jpg/1200px-Bielefeld_Botanischer_Garten_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bielefeld_Botanischer_Garten_5.jpg/1200px-Bielefeld_Botanischer_Garten_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingangsbereich_BotBi.JPG/1200px-Eingangsbereich_BotBi.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Im-Botanischen-Garten-Bielefeld.JPG/1200px-Im-Botanischen-Garten-Bielefeld.JPG
+image_srcset:
+  Nymphaea macro BG Bi.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nymphaea_macro_BG_Bi.jpg/400px-Nymphaea_macro_BG_Bi.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nymphaea_macro_BG_Bi.jpg/800px-Nymphaea_macro_BG_Bi.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nymphaea_macro_BG_Bi.jpg/1200px-Nymphaea_macro_BG_Bi.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nymphaea_macro_BG_Bi.jpg/1920px-Nymphaea_macro_BG_Bi.jpg
+  Bielefeld Botanischer Garten 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bielefeld_Botanischer_Garten_3.jpg/400px-Bielefeld_Botanischer_Garten_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bielefeld_Botanischer_Garten_3.jpg/800px-Bielefeld_Botanischer_Garten_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bielefeld_Botanischer_Garten_3.jpg/1200px-Bielefeld_Botanischer_Garten_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bielefeld_Botanischer_Garten_3.jpg/1920px-Bielefeld_Botanischer_Garten_3.jpg
+  Bielefeld Botanischer Garten 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bielefeld_Botanischer_Garten_5.jpg/400px-Bielefeld_Botanischer_Garten_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bielefeld_Botanischer_Garten_5.jpg/800px-Bielefeld_Botanischer_Garten_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bielefeld_Botanischer_Garten_5.jpg/1200px-Bielefeld_Botanischer_Garten_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bielefeld_Botanischer_Garten_5.jpg/1920px-Bielefeld_Botanischer_Garten_5.jpg
+  Eingangsbereich BotBi.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingangsbereich_BotBi.JPG/400px-Eingangsbereich_BotBi.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingangsbereich_BotBi.JPG/800px-Eingangsbereich_BotBi.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingangsbereich_BotBi.JPG/1200px-Eingangsbereich_BotBi.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eingangsbereich_BotBi.JPG/1920px-Eingangsbereich_BotBi.JPG
+  Im-Botanischen-Garten-Bielefeld.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Im-Botanischen-Garten-Bielefeld.JPG/400px-Im-Botanischen-Garten-Bielefeld.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Im-Botanischen-Garten-Bielefeld.JPG/800px-Im-Botanischen-Garten-Bielefeld.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Im-Botanischen-Garten-Bielefeld.JPG/1200px-Im-Botanischen-Garten-Bielefeld.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Im-Botanischen-Garten-Bielefeld.JPG/1920px-Im-Botanischen-Garten-Bielefeld.JPG
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Schermen"
-site_name: "Dorfkirche Schermen"
-slug: "dorfkirche-schermen"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Schermen
+site_name: Dorfkirche Schermen
+slug: dorfkirche-schermen
+region: Brandenburg
 latitude: 52.2317
 longitude: 11.8176
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244699"
-description: "Dorfkirche Schermen, a remarkable example of Romanesque architecture, stands as a prominent landmark in the serene landscape of Möser, Germany. This chu..."
+- church building
+- religious site
+wikidata_id: Q1244699
+description: Dorfkirche Schermen, a remarkable example of Romanesque architecture,
+  stands as a prominent landmark in the serene landscape of Möser, Germany. This chu...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Schermen%20bei%20M%C3%B6ser.jpg/1200px-Kirche%20Schermen%20bei%20M%C3%B6ser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1200px-Kirche_Schermen_bei_Möser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dorfkirche_Schermen_5.jpg/1200px-Dorfkirche_Schermen_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfkirche_Schermen_4.jpg/1200px-Dorfkirche_Schermen_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schermenkirche.jpg/1200px-Schermenkirche.jpg
+image_srcset:
+  Kirche%20Schermen%20bei%20M%C3%B6ser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Schermen%20bei%20M%C3%B6ser.jpg/400px-Kirche%20Schermen%20bei%20M%C3%B6ser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Schermen%20bei%20M%C3%B6ser.jpg/800px-Kirche%20Schermen%20bei%20M%C3%B6ser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Schermen%20bei%20M%C3%B6ser.jpg/1200px-Kirche%20Schermen%20bei%20M%C3%B6ser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kirche%20Schermen%20bei%20M%C3%B6ser.jpg/1920px-Kirche%20Schermen%20bei%20M%C3%B6ser.jpg
+  Kirche Schermen bei Möser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/400px-Kirche_Schermen_bei_Möser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/800px-Kirche_Schermen_bei_Möser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1200px-Kirche_Schermen_bei_Möser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kirche_Schermen_bei_Möser.jpg/1920px-Kirche_Schermen_bei_Möser.jpg
+  Dorfkirche Schermen 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dorfkirche_Schermen_5.jpg/400px-Dorfkirche_Schermen_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dorfkirche_Schermen_5.jpg/800px-Dorfkirche_Schermen_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dorfkirche_Schermen_5.jpg/1200px-Dorfkirche_Schermen_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dorfkirche_Schermen_5.jpg/1920px-Dorfkirche_Schermen_5.jpg
+  Dorfkirche Schermen 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfkirche_Schermen_4.jpg/400px-Dorfkirche_Schermen_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfkirche_Schermen_4.jpg/800px-Dorfkirche_Schermen_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfkirche_Schermen_4.jpg/1200px-Dorfkirche_Schermen_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dorfkirche_Schermen_4.jpg/1920px-Dorfkirche_Schermen_4.jpg
+  Schermenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schermenkirche.jpg/400px-Schermenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schermenkirche.jpg/800px-Schermenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schermenkirche.jpg/1200px-Schermenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schermenkirche.jpg/1920px-Schermenkirche.jpg
 ---
 
 ## Overview

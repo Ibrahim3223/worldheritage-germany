@@ -1,19 +1,49 @@
 ---
-title: "Brückensprengungsdenkmal"
+title: Brückensprengungsdenkmal
 date: 2026-01-23
 draft: false
-description: "monument in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Leipzig
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.342991194
 longitude: 12.365011805
 images:
-  - "/images-sites/brueckensprengungsdenkmal/01-1c95a3b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/L00_746_Gewerkschaftshaus.jpg/1200px-L00_746_Gewerkschaftshaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg/1200px-Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg/1200px-Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/1200px-Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/1200px-Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+image_srcset:
+  L00 746 Gewerkschaftshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/L00_746_Gewerkschaftshaus.jpg/400px-L00_746_Gewerkschaftshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/L00_746_Gewerkschaftshaus.jpg/800px-L00_746_Gewerkschaftshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/L00_746_Gewerkschaftshaus.jpg/1200px-L00_746_Gewerkschaftshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/L00_746_Gewerkschaftshaus.jpg/1920px-L00_746_Gewerkschaftshaus.jpg
+  Brückensprengungsdenkmal Elstermühlgraben (Leipzig).ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg/400px-Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg/800px-Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg/1200px-Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg/1920px-Brückensprengungsdenkmal_Elstermühlgraben_(Leipzig).ajb.jpg
+  Brückensprengungsdenkmal an den Napoleon-Feldzug im Jahr 1813 erinnernd im August 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg/400px-Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg/800px-Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg/1200px-Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg/1920px-Brückensprengungsdenkmal_an_den_Napoleon-Feldzug_im_Jahr_1813_erinnernd_im_August_2017.jpg
+  Fotothek df roe-neg 0006518 024 Denkmal zur Erinnerung an die Sprengung der Elst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/400px-Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/800px-Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/1200px-Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/1920px-Fotothek_df_roe-neg_0006518_024_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+  Fotothek df roe-neg 0006518 023 Denkmal zur Erinnerung an die Sprengung der Elst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/400px-Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/800px-Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/1200px-Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg/1920px-Fotothek_df_roe-neg_0006518_023_Denkmal_zur_Erinnerung_an_die_Sprengung_der_Elst.jpg
 ---
 
 ## Overview

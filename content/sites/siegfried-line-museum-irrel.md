@@ -13,8 +13,8 @@ regions:
 latitude: 49.8516
 longitude: 6.45355
 images:
-  - "/images-sites/siegfried-line-museum-irrel/01-f282d1f9-800w.webp"
-  - "/images-sites/siegfried-line-museum-irrel/02-b33bd51f-800w.webp"
+  - "/images/siegfried-line-museum-irrel/01-f282d1f9-800w.webp"
+  - "/images/siegfried-line-museum-irrel/02-b33bd51f-800w.webp"
 ---
 
 ## Overview

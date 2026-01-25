@@ -1,21 +1,49 @@
 ---
-title: "Cologne Mülheim Protestant Cemetery"
+title: Cologne Mülheim Protestant Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.962505555
 longitude: 7.012336111
 images:
-  - "/images-sites/cologne-muelheim-protestant-cemetery/01-63449703-800w.webp"
-  - "/images-sites/cologne-muelheim-protestant-cemetery/02-31d98cff-800w.webp"
-  - "/images-sites/cologne-muelheim-protestant-cemetery/03-90c068d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg/1200px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg/1200px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Evangelischer_Friedhof_Köln-Mülheim_7.jpg/1200px-Evangelischer_Friedhof_Köln-Mülheim_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg/1200px-Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/1200px-Evfriedhof-muelheim.jpg
+image_srcset:
+  Christoph Andreae Ev Friedhof Köln-Mülheim Seite d.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg/400px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg/800px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg/1200px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg/1920px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_Seite_d.jpg
+  Christoph Andreae Ev Friedhof Köln-Mülheim A.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg/400px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg/800px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg/1200px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg/1920px-Christoph_Andreae_Ev_Friedhof_Köln-Mülheim_A.jpg
+  Evangelischer Friedhof Köln-Mülheim 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Evangelischer_Friedhof_Köln-Mülheim_7.jpg/400px-Evangelischer_Friedhof_Köln-Mülheim_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Evangelischer_Friedhof_Köln-Mülheim_7.jpg/800px-Evangelischer_Friedhof_Köln-Mülheim_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Evangelischer_Friedhof_Köln-Mülheim_7.jpg/1200px-Evangelischer_Friedhof_Köln-Mülheim_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Evangelischer_Friedhof_Köln-Mülheim_7.jpg/1920px-Evangelischer_Friedhof_Köln-Mülheim_7.jpg
+  Köln Evangelischer Friedhof Köln-Mülheim 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg/400px-Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg/800px-Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg/1200px-Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg/1920px-Köln_Evangelischer_Friedhof_Köln-Mülheim_2.jpg
+  Evfriedhof-muelheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/400px-Evfriedhof-muelheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/800px-Evfriedhof-muelheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/1200px-Evfriedhof-muelheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Evfriedhof-muelheim.jpg/1920px-Evfriedhof-muelheim.jpg
 ---
 
 ## Overview

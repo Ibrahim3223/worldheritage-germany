@@ -13,9 +13,9 @@ regions:
 latitude: 48.5744
 longitude: 13.4657
 images:
-  - "/images-sites/sixtuskapelle/01-48267716-800w.webp"
-  - "/images-sites/sixtuskapelle/02-65c72679-800w.webp"
-  - "/images-sites/sixtuskapelle/03-4b2a81af-800w.webp"
+  - "/images/sixtuskapelle/01-48267716-800w.webp"
+  - "/images/sixtuskapelle/02-65c72679-800w.webp"
+  - "/images/sixtuskapelle/03-4b2a81af-800w.webp"
 ---
 
 ## Overview

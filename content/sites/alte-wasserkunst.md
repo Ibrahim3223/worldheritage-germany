@@ -1,19 +1,49 @@
 ---
-title: "Alte Wasserkunst"
+title: Alte Wasserkunst
 date: 2026-01-23
 draft: false
-description: "culture heritage monument in Saxony: tower in Bautzen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: 'culture heritage monument in Saxony: tower in Bautzen, Germany'
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.180666666
 longitude: 14.420647222
 images:
-  - "/images-sites/alte-wasserkunst/01-2d1fd342-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bautzen_Altstadt_61.jpg/1200px-Bautzen_Altstadt_61.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bautzen_Altstadt_57.tif.jpg/1200px-Bautzen_Altstadt_57.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Alte_Wasserkunst_Bautzen_101.jpg/1200px-Alte_Wasserkunst_Bautzen_101.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bautzen_zur_blauen_Stunde_-_panoramio.jpg/1200px-Bautzen_zur_blauen_Stunde_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wasserkunst.raiko-koch.106.jpg/1200px-Wasserkunst.raiko-koch.106.jpg
+image_srcset:
+  Bautzen Altstadt 61.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bautzen_Altstadt_61.jpg/400px-Bautzen_Altstadt_61.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bautzen_Altstadt_61.jpg/800px-Bautzen_Altstadt_61.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bautzen_Altstadt_61.jpg/1200px-Bautzen_Altstadt_61.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bautzen_Altstadt_61.jpg/1920px-Bautzen_Altstadt_61.jpg
+  Bautzen Altstadt 57.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bautzen_Altstadt_57.tif.jpg/400px-Bautzen_Altstadt_57.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bautzen_Altstadt_57.tif.jpg/800px-Bautzen_Altstadt_57.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bautzen_Altstadt_57.tif.jpg/1200px-Bautzen_Altstadt_57.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bautzen_Altstadt_57.tif.jpg/1920px-Bautzen_Altstadt_57.tif.jpg
+  Alte Wasserkunst Bautzen 101.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Alte_Wasserkunst_Bautzen_101.jpg/400px-Alte_Wasserkunst_Bautzen_101.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Alte_Wasserkunst_Bautzen_101.jpg/800px-Alte_Wasserkunst_Bautzen_101.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Alte_Wasserkunst_Bautzen_101.jpg/1200px-Alte_Wasserkunst_Bautzen_101.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Alte_Wasserkunst_Bautzen_101.jpg/1920px-Alte_Wasserkunst_Bautzen_101.jpg
+  Bautzen zur blauen Stunde - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bautzen_zur_blauen_Stunde_-_panoramio.jpg/400px-Bautzen_zur_blauen_Stunde_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bautzen_zur_blauen_Stunde_-_panoramio.jpg/800px-Bautzen_zur_blauen_Stunde_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bautzen_zur_blauen_Stunde_-_panoramio.jpg/1200px-Bautzen_zur_blauen_Stunde_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bautzen_zur_blauen_Stunde_-_panoramio.jpg/1920px-Bautzen_zur_blauen_Stunde_-_panoramio.jpg
+  Wasserkunst.raiko-koch.106.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wasserkunst.raiko-koch.106.jpg/400px-Wasserkunst.raiko-koch.106.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wasserkunst.raiko-koch.106.jpg/800px-Wasserkunst.raiko-koch.106.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wasserkunst.raiko-koch.106.jpg/1200px-Wasserkunst.raiko-koch.106.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wasserkunst.raiko-koch.106.jpg/1920px-Wasserkunst.raiko-koch.106.jpg
 ---
 
 ## Overview

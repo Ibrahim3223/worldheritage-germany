@@ -1,19 +1,49 @@
 ---
-title: "Jewish Community of Berlin"
+title: Jewish Community of Berlin
 date: 2026-01-23
 draft: false
-description: "Jewish Community"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: Jewish Community
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.524917
 longitude: 13.394642
 images:
-  - "/images-sites/jewish-community-of-berlin/01-25c36151-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jüd_gym_mendelssohn_berlin_-_1.jpg/1200px-Jüd_gym_mendelssohn_berlin_-_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG/1200px-Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg/1200px-Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lancien_quartier_juif_(Berlin)_(6333778949).jpg/1200px-Lancien_quartier_juif_(Berlin)_(6333778949).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lancien_quartier_juif_(Berlin)_(6334533712).jpg/1200px-Lancien_quartier_juif_(Berlin)_(6334533712).jpg
+image_srcset:
+  Jüd gym mendelssohn berlin - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jüd_gym_mendelssohn_berlin_-_1.jpg/400px-Jüd_gym_mendelssohn_berlin_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jüd_gym_mendelssohn_berlin_-_1.jpg/800px-Jüd_gym_mendelssohn_berlin_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jüd_gym_mendelssohn_berlin_-_1.jpg/1200px-Jüd_gym_mendelssohn_berlin_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jüd_gym_mendelssohn_berlin_-_1.jpg/1920px-Jüd_gym_mendelssohn_berlin_-_1.jpg
+  Mitte Große Hamburger Straße 27 Jüdisches Gymnasium.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG/400px-Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG/800px-Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG/1200px-Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG/1920px-Mitte_Große_Hamburger_Straße_27_Jüdisches_Gymnasium.JPG
+  Berlin, Mitte, Grosse Hamburger Strasse 27, Juedische Oberschule.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg/400px-Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg/800px-Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg/1200px-Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg/1920px-Berlin,_Mitte,_Grosse_Hamburger_Strasse_27,_Juedische_Oberschule.jpg
+  Lancien quartier juif (Berlin) (6333778949).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lancien_quartier_juif_(Berlin)_(6333778949).jpg/400px-Lancien_quartier_juif_(Berlin)_(6333778949).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lancien_quartier_juif_(Berlin)_(6333778949).jpg/800px-Lancien_quartier_juif_(Berlin)_(6333778949).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lancien_quartier_juif_(Berlin)_(6333778949).jpg/1200px-Lancien_quartier_juif_(Berlin)_(6333778949).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Lancien_quartier_juif_(Berlin)_(6333778949).jpg/1920px-Lancien_quartier_juif_(Berlin)_(6333778949).jpg
+  Lancien quartier juif (Berlin) (6334533712).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lancien_quartier_juif_(Berlin)_(6334533712).jpg/400px-Lancien_quartier_juif_(Berlin)_(6334533712).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lancien_quartier_juif_(Berlin)_(6334533712).jpg/800px-Lancien_quartier_juif_(Berlin)_(6334533712).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lancien_quartier_juif_(Berlin)_(6334533712).jpg/1200px-Lancien_quartier_juif_(Berlin)_(6334533712).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lancien_quartier_juif_(Berlin)_(6334533712).jpg/1920px-Lancien_quartier_juif_(Berlin)_(6334533712).jpg
 ---
 
 ## Overview

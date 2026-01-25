@@ -1,19 +1,50 @@
 ---
-title: "Heilig Geist (Sarstedt)"
-site_name: "Heilig Geist (Sarstedt)"
-slug: "heilig-geist-sarstedt"
-region: "Lower Saxony"
-
-# Location
+title: Heilig Geist (Sarstedt)
+site_name: Heilig Geist (Sarstedt)
+slug: heilig-geist-sarstedt
+region: Lower Saxony
 latitude: 52.23557
 longitude: 9.84898
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594998"
-description: "In the heart of Sarstedt, Germany, the Heilig Geist church stands as a noteworthy example of Romanesque Revival architecture. With its distinctive desig..."
+- cultural site
+wikidata_id: Q1594998
+description: In the heart of Sarstedt, Germany, the Heilig Geist church stands as
+  a noteworthy example of Romanesque Revival architecture. With its distinctive desig...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sarstedt%20Heilig-Geist%20Portalseite.jpg/1200px-Sarstedt%20Heilig-Geist%20Portalseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg/1200px-Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1200px-Sarstedt_Heilig-Geist_Portalseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sarstedt_Heilig-Geist_Rueckseite.jpg/1200px-Sarstedt_Heilig-Geist_Rueckseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg/1200px-Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg
+image_srcset:
+  Sarstedt%20Heilig-Geist%20Portalseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sarstedt%20Heilig-Geist%20Portalseite.jpg/400px-Sarstedt%20Heilig-Geist%20Portalseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sarstedt%20Heilig-Geist%20Portalseite.jpg/800px-Sarstedt%20Heilig-Geist%20Portalseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sarstedt%20Heilig-Geist%20Portalseite.jpg/1200px-Sarstedt%20Heilig-Geist%20Portalseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sarstedt%20Heilig-Geist%20Portalseite.jpg/1920px-Sarstedt%20Heilig-Geist%20Portalseite.jpg
+  Heilig-Geist-Kirche in Sarstedt IMG 9262.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg/400px-Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg/800px-Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg/1200px-Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg/1920px-Heilig-Geist-Kirche_in_Sarstedt_IMG_9262.jpg
+  Sarstedt Heilig-Geist Portalseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/400px-Sarstedt_Heilig-Geist_Portalseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/800px-Sarstedt_Heilig-Geist_Portalseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1200px-Sarstedt_Heilig-Geist_Portalseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarstedt_Heilig-Geist_Portalseite.jpg/1920px-Sarstedt_Heilig-Geist_Portalseite.jpg
+  Sarstedt Heilig-Geist Rueckseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sarstedt_Heilig-Geist_Rueckseite.jpg/400px-Sarstedt_Heilig-Geist_Rueckseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sarstedt_Heilig-Geist_Rueckseite.jpg/800px-Sarstedt_Heilig-Geist_Rueckseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sarstedt_Heilig-Geist_Rueckseite.jpg/1200px-Sarstedt_Heilig-Geist_Rueckseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sarstedt_Heilig-Geist_Rueckseite.jpg/1920px-Sarstedt_Heilig-Geist_Rueckseite.jpg
+  Heilig-Geist-Kirche Sarstedt IMG 1400.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg/400px-Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg/800px-Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg/1200px-Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg/1920px-Heilig-Geist-Kirche_Sarstedt_IMG_1400.jpg
 ---
 
 ## Overview

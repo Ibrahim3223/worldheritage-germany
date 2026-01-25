@@ -1,21 +1,49 @@
 ---
-title: "Aquarius-Wassermuseum"
+title: Aquarius-Wassermuseum
 date: 2026-01-23
 draft: false
-description: "museum in Mülheim an der Ruhr, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Mülheim an der Ruhr, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.443138888
 longitude: 6.856416666
 images:
-  - "/images-sites/aquarius-wassermuseum/01-07805e77-800w.webp"
-  - "/images-sites/aquarius-wassermuseum/02-e2e74223-800w.webp"
-  - "/images-sites/aquarius-wassermuseum/03-735775b1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aquarius-2013.jpg/1200px-Aquarius-2013.jpg
+image_srcset:
+  Mülheim an der Ruhr, Aquarius-Wassermuseum, 2020-04 CN-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg/400px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg/800px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg/1920px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-02.jpg
+  Mülheim an der Ruhr, Aquarius-Wassermuseum, 2011-08 CN-03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG/400px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG/800px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG/1920px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-03.JPG
+  Mülheim an der Ruhr, Aquarius-Wassermuseum, 2020-04 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg/400px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg/800px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg/1920px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2020-04_CN-01.jpg
+  Mülheim an der Ruhr, Aquarius-Wassermuseum, 2011-08 CN-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG/400px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG/800px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG/1200px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG/1920px-Mülheim_an_der_Ruhr,_Aquarius-Wassermuseum,_2011-08_CN-01.JPG
+  Aquarius-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aquarius-2013.jpg/400px-Aquarius-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aquarius-2013.jpg/800px-Aquarius-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aquarius-2013.jpg/1200px-Aquarius-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aquarius-2013.jpg/1920px-Aquarius-2013.jpg
 ---
 
 ## Overview

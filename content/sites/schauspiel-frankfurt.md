@@ -13,7 +13,7 @@ regions:
 latitude: 50.10847
 longitude: 8.67473
 images:
-  - "/images-sites/schauspiel-frankfurt/01-4377c5a5-800w.webp"
+  - "/images/schauspiel-frankfurt/01-4377c5a5-800w.webp"
 ---
 
 ## Overview

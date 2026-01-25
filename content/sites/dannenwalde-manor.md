@@ -1,19 +1,49 @@
 ---
-title: "Dannenwalde Manor"
+title: Dannenwalde Manor
 date: 2026-01-23
 draft: false
-description: "German castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: German castle
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0788
 longitude: 13.1867
 images:
-  - "/images-sites/dannenwalde-manor/01-f312a381-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Herrenhaus_Dannewalde_Gransee_2019.jpg/1200px-Herrenhaus_Dannewalde_Gransee_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dannenwalde_rueckseite_eingangsbereich.jpg/1200px-Dannenwalde_rueckseite_eingangsbereich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schloss_Dannenwalde_(Luftbild_1).jpg/1200px-Schloss_Dannenwalde_(Luftbild_1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Schloss_Dannenwalde_(Luftbild_3).jpg/1200px-Schloss_Dannenwalde_(Luftbild_3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herrenhaus_Dannenwalde_Frontansicht.JPG/1200px-Herrenhaus_Dannenwalde_Frontansicht.JPG
+image_srcset:
+  Herrenhaus Dannewalde Gransee 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Herrenhaus_Dannewalde_Gransee_2019.jpg/400px-Herrenhaus_Dannewalde_Gransee_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Herrenhaus_Dannewalde_Gransee_2019.jpg/800px-Herrenhaus_Dannewalde_Gransee_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Herrenhaus_Dannewalde_Gransee_2019.jpg/1200px-Herrenhaus_Dannewalde_Gransee_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Herrenhaus_Dannewalde_Gransee_2019.jpg/1920px-Herrenhaus_Dannewalde_Gransee_2019.jpg
+  Dannenwalde rueckseite eingangsbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dannenwalde_rueckseite_eingangsbereich.jpg/400px-Dannenwalde_rueckseite_eingangsbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dannenwalde_rueckseite_eingangsbereich.jpg/800px-Dannenwalde_rueckseite_eingangsbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dannenwalde_rueckseite_eingangsbereich.jpg/1200px-Dannenwalde_rueckseite_eingangsbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dannenwalde_rueckseite_eingangsbereich.jpg/1920px-Dannenwalde_rueckseite_eingangsbereich.jpg
+  Schloss Dannenwalde (Luftbild 1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schloss_Dannenwalde_(Luftbild_1).jpg/400px-Schloss_Dannenwalde_(Luftbild_1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schloss_Dannenwalde_(Luftbild_1).jpg/800px-Schloss_Dannenwalde_(Luftbild_1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schloss_Dannenwalde_(Luftbild_1).jpg/1200px-Schloss_Dannenwalde_(Luftbild_1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Schloss_Dannenwalde_(Luftbild_1).jpg/1920px-Schloss_Dannenwalde_(Luftbild_1).jpg
+  Schloss Dannenwalde (Luftbild 3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Schloss_Dannenwalde_(Luftbild_3).jpg/400px-Schloss_Dannenwalde_(Luftbild_3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Schloss_Dannenwalde_(Luftbild_3).jpg/800px-Schloss_Dannenwalde_(Luftbild_3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Schloss_Dannenwalde_(Luftbild_3).jpg/1200px-Schloss_Dannenwalde_(Luftbild_3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Schloss_Dannenwalde_(Luftbild_3).jpg/1920px-Schloss_Dannenwalde_(Luftbild_3).jpg
+  Herrenhaus Dannenwalde Frontansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herrenhaus_Dannenwalde_Frontansicht.JPG/400px-Herrenhaus_Dannenwalde_Frontansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herrenhaus_Dannenwalde_Frontansicht.JPG/800px-Herrenhaus_Dannenwalde_Frontansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herrenhaus_Dannenwalde_Frontansicht.JPG/1200px-Herrenhaus_Dannenwalde_Frontansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Herrenhaus_Dannenwalde_Frontansicht.JPG/1920px-Herrenhaus_Dannenwalde_Frontansicht.JPG
 ---
 
 ## Overview 

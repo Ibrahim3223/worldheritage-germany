@@ -13,7 +13,7 @@ regions:
 latitude: 54.0141
 longitude: 12.7744
 images:
-  - "/images-sites/trebeltal/01-9aae6d3e-800w.webp"
+  - "/images/trebeltal/01-9aae6d3e-800w.webp"
 ---
 
 ## Overview

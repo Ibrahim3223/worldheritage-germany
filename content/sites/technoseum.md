@@ -13,9 +13,9 @@ regions:
 latitude: 49.4764
 longitude: 8.49755
 images:
-  - "/images-sites/technoseum/01-45c385b1-800w.webp"
-  - "/images-sites/technoseum/02-73958264-800w.webp"
-  - "/images-sites/technoseum/03-c360a166-800w.webp"
+  - "/images/technoseum/01-45c385b1-800w.webp"
+  - "/images/technoseum/02-73958264-800w.webp"
+  - "/images/technoseum/03-c360a166-800w.webp"
 ---
 
 ## Overview

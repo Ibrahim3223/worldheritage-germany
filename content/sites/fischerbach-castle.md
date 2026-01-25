@@ -1,27 +1,49 @@
 ---
-title: "Fischerbach Castle"
+title: Fischerbach Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.3048
 longitude: 8.1231
-
-# Images
 images:
-  - "/images-sites/fischerbach-castle/01-6a6b4b7e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/04_Fischerbach_Castle.JPG/1200px-04_Fischerbach_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/06_Fischerbach_Castle.JPG/1200px-06_Fischerbach_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/07_Fischerbach_Castle.JPG/1200px-07_Fischerbach_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1200px-08_Fischerbach_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/09_Fischerbach_Castle.JPG/1200px-09_Fischerbach_Castle.JPG
+image_srcset:
+  04 Fischerbach Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/04_Fischerbach_Castle.JPG/400px-04_Fischerbach_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/04_Fischerbach_Castle.JPG/800px-04_Fischerbach_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/04_Fischerbach_Castle.JPG/1200px-04_Fischerbach_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/04_Fischerbach_Castle.JPG/1920px-04_Fischerbach_Castle.JPG
+  06 Fischerbach Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/06_Fischerbach_Castle.JPG/400px-06_Fischerbach_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/06_Fischerbach_Castle.JPG/800px-06_Fischerbach_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/06_Fischerbach_Castle.JPG/1200px-06_Fischerbach_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/06_Fischerbach_Castle.JPG/1920px-06_Fischerbach_Castle.JPG
+  07 Fischerbach Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/07_Fischerbach_Castle.JPG/400px-07_Fischerbach_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/07_Fischerbach_Castle.JPG/800px-07_Fischerbach_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/07_Fischerbach_Castle.JPG/1200px-07_Fischerbach_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/07_Fischerbach_Castle.JPG/1920px-07_Fischerbach_Castle.JPG
+  08 Fischerbach Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/400px-08_Fischerbach_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/800px-08_Fischerbach_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1200px-08_Fischerbach_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/08_Fischerbach_Castle.JPG/1920px-08_Fischerbach_Castle.JPG
+  09 Fischerbach Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/09_Fischerbach_Castle.JPG/400px-09_Fischerbach_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/09_Fischerbach_Castle.JPG/800px-09_Fischerbach_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/09_Fischerbach_Castle.JPG/1200px-09_Fischerbach_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/09_Fischerbach_Castle.JPG/1920px-09_Fischerbach_Castle.JPG
 ---
 
 ## Overview

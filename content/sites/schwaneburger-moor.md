@@ -13,9 +13,9 @@ regions:
 latitude: 53.0439
 longitude: 7.78861
 images:
-  - "/images-sites/schwaneburger-moor/01-26d8af72-800w.webp"
-  - "/images-sites/schwaneburger-moor/02-698a6cf1-800w.webp"
-  - "/images-sites/schwaneburger-moor/03-48a7504b-800w.webp"
+  - "/images/schwaneburger-moor/01-26d8af72-800w.webp"
+  - "/images/schwaneburger-moor/02-698a6cf1-800w.webp"
+  - "/images/schwaneburger-moor/03-48a7504b-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.0002
 longitude: 8.3837
 images:
-  - "/images-sites/staedtische-galerie-karlsruhe/01-9cef5951-800w.webp"
-  - "/images-sites/staedtische-galerie-karlsruhe/02-63976a0e-800w.webp"
-  - "/images-sites/staedtische-galerie-karlsruhe/03-5d0943f2-800w.webp"
+  - "/images/staedtische-galerie-karlsruhe/01-9cef5951-800w.webp"
+  - "/images/staedtische-galerie-karlsruhe/02-63976a0e-800w.webp"
+  - "/images/staedtische-galerie-karlsruhe/03-5d0943f2-800w.webp"
 ---
 
 ## Overview

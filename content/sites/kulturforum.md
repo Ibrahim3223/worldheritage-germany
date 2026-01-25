@@ -13,7 +13,7 @@ regions:
 latitude: 52.5083
 longitude: 13.3678
 images:
-  - "/images-sites/kulturforum/01-682b24a8-800w.webp"
+  - "/images/kulturforum/01-682b24a8-800w.webp"
 ---
 
 ## Overview

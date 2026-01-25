@@ -1,19 +1,49 @@
 ---
-title: "Berlin Mosque"
+title: Berlin Mosque
 date: 2026-01-23
 draft: false
-description: "mosque in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4875
 longitude: 13.311667
 images:
-  - "/images-sites/berlin-mosque/01-d67a3e7a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg/1200px-MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wilmersdorfer_Mosque.JPG/1200px-Wilmersdorfer_Mosque.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1200px-Moschee_Wilmersdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2002-07-20_Moschee-Wilmersdorf.jpg/1200px-2002-07-20_Moschee-Wilmersdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berlin_Ahmadiyya_Mosque_ext-int.png/1200px-Berlin_Ahmadiyya_Mosque_ext-int.png
+image_srcset:
+  MJK 46348 Minarett (Wilmersdorfer Moschee).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg/400px-MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg/800px-MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg/1200px-MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg/1920px-MJK_46348_Minarett_(Wilmersdorfer_Moschee).jpg
+  Wilmersdorfer Mosque.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wilmersdorfer_Mosque.JPG/400px-Wilmersdorfer_Mosque.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wilmersdorfer_Mosque.JPG/800px-Wilmersdorfer_Mosque.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wilmersdorfer_Mosque.JPG/1200px-Wilmersdorfer_Mosque.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wilmersdorfer_Mosque.JPG/1920px-Wilmersdorfer_Mosque.JPG
+  Moschee Wilmersdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/400px-Moschee_Wilmersdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/800px-Moschee_Wilmersdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1200px-Moschee_Wilmersdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moschee_Wilmersdorf.jpg/1920px-Moschee_Wilmersdorf.jpg
+  2002-07-20 Moschee-Wilmersdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2002-07-20_Moschee-Wilmersdorf.jpg/400px-2002-07-20_Moschee-Wilmersdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2002-07-20_Moschee-Wilmersdorf.jpg/800px-2002-07-20_Moschee-Wilmersdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2002-07-20_Moschee-Wilmersdorf.jpg/1200px-2002-07-20_Moschee-Wilmersdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2002-07-20_Moschee-Wilmersdorf.jpg/1920px-2002-07-20_Moschee-Wilmersdorf.jpg
+  Berlin Ahmadiyya Mosque ext-int.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berlin_Ahmadiyya_Mosque_ext-int.png/400px-Berlin_Ahmadiyya_Mosque_ext-int.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berlin_Ahmadiyya_Mosque_ext-int.png/800px-Berlin_Ahmadiyya_Mosque_ext-int.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berlin_Ahmadiyya_Mosque_ext-int.png/1200px-Berlin_Ahmadiyya_Mosque_ext-int.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berlin_Ahmadiyya_Mosque_ext-int.png/1920px-Berlin_Ahmadiyya_Mosque_ext-int.png
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Altabgrabung Klingenberger"
+title: Altabgrabung Klingenberger
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.092083888
 longitude: 6.938623055
 images:
-  - "/images-sites/altabgrabung-klingenberger/01-9ac8135e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NSG_Altabgrabung_Klingenberger-10.jpg/1200px-NSG_Altabgrabung_Klingenberger-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/NSG_Altabgrabung_Klingenberger-6.jpg/1200px-NSG_Altabgrabung_Klingenberger-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NSG_Altabgrabung_Klingenberger-7.jpg/1200px-NSG_Altabgrabung_Klingenberger-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NSG_Altabgrabung_Klingenberger-1.jpg/1200px-NSG_Altabgrabung_Klingenberger-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NSG_Altabgrabung_Klingenberger-2.jpg/1200px-NSG_Altabgrabung_Klingenberger-2.jpg
+image_srcset:
+  NSG Altabgrabung Klingenberger-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NSG_Altabgrabung_Klingenberger-10.jpg/400px-NSG_Altabgrabung_Klingenberger-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NSG_Altabgrabung_Klingenberger-10.jpg/800px-NSG_Altabgrabung_Klingenberger-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NSG_Altabgrabung_Klingenberger-10.jpg/1200px-NSG_Altabgrabung_Klingenberger-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NSG_Altabgrabung_Klingenberger-10.jpg/1920px-NSG_Altabgrabung_Klingenberger-10.jpg
+  NSG Altabgrabung Klingenberger-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/NSG_Altabgrabung_Klingenberger-6.jpg/400px-NSG_Altabgrabung_Klingenberger-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/NSG_Altabgrabung_Klingenberger-6.jpg/800px-NSG_Altabgrabung_Klingenberger-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/NSG_Altabgrabung_Klingenberger-6.jpg/1200px-NSG_Altabgrabung_Klingenberger-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/NSG_Altabgrabung_Klingenberger-6.jpg/1920px-NSG_Altabgrabung_Klingenberger-6.jpg
+  NSG Altabgrabung Klingenberger-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NSG_Altabgrabung_Klingenberger-7.jpg/400px-NSG_Altabgrabung_Klingenberger-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NSG_Altabgrabung_Klingenberger-7.jpg/800px-NSG_Altabgrabung_Klingenberger-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NSG_Altabgrabung_Klingenberger-7.jpg/1200px-NSG_Altabgrabung_Klingenberger-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NSG_Altabgrabung_Klingenberger-7.jpg/1920px-NSG_Altabgrabung_Klingenberger-7.jpg
+  NSG Altabgrabung Klingenberger-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NSG_Altabgrabung_Klingenberger-1.jpg/400px-NSG_Altabgrabung_Klingenberger-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NSG_Altabgrabung_Klingenberger-1.jpg/800px-NSG_Altabgrabung_Klingenberger-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NSG_Altabgrabung_Klingenberger-1.jpg/1200px-NSG_Altabgrabung_Klingenberger-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NSG_Altabgrabung_Klingenberger-1.jpg/1920px-NSG_Altabgrabung_Klingenberger-1.jpg
+  NSG Altabgrabung Klingenberger-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NSG_Altabgrabung_Klingenberger-2.jpg/400px-NSG_Altabgrabung_Klingenberger-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NSG_Altabgrabung_Klingenberger-2.jpg/800px-NSG_Altabgrabung_Klingenberger-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NSG_Altabgrabung_Klingenberger-2.jpg/1200px-NSG_Altabgrabung_Klingenberger-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NSG_Altabgrabung_Klingenberger-2.jpg/1920px-NSG_Altabgrabung_Klingenberger-2.jpg
 ---
 
 ## Overview

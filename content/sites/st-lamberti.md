@@ -15,7 +15,7 @@ categories:
 wikidata_id: "Q896612"
 description: "In the heart of Münster lies St. Lamberti, a striking church building that stands as a significant landmark within the region. Founded in 1600, this chu..."
 images:
-  - "/images-sites/st-lamberti/01-56f0338a-1920w.webp"
+  - "/images/st-lamberti/01-56f0338a-1920w.webp"
 ---
 
 ## Overview

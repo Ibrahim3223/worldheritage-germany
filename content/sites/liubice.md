@@ -21,7 +21,7 @@ longitude: 10.71444444
 
 # Images
 images:
-  - "/images-sites/liubice/01-82960660-800w.webp"
+  - "/images/liubice/01-82960660-800w.webp"
 ---
 
 ## Overview

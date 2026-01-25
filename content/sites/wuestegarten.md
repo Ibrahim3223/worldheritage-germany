@@ -21,7 +21,7 @@ longitude: 9.084166666
 
 # Images
 images:
-  - "/images-sites/wuestegarten/01-36762620-800w.webp"
+  - "/images/wuestegarten/01-36762620-800w.webp"
 ---
 
 ## Overview

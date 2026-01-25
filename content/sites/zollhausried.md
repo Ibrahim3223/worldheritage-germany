@@ -13,7 +13,7 @@ regions:
 latitude: 47.8423
 longitude: 8.56745
 images:
-  - "/images-sites/zollhausried/01-618b3eff-800w.webp"
+  - "/images/zollhausried/01-618b3eff-800w.webp"
 ---
 
 ## Overview

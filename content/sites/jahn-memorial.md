@@ -1,19 +1,49 @@
 ---
-title: "Jahn memorial"
+title: Jahn memorial
 date: 2026-01-23
 draft: false
-description: "monument in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: monument in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4860429
 longitude: 13.4196808
 images:
-  - "/images-sites/jahn-memorial/01-7e05b37a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg/1200px-Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg/1200px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg/1200px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FreyburgJahndenkmal.jpg/1200px-FreyburgJahndenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Freyburg_F-L_Jahn_80440.JPG/1200px-Freyburg_F-L_Jahn_80440.JPG
+image_srcset:
+  Oberstraße 9, Friedrich-Ludwig-Jahn-Erinnerungsturnhalle Freyburg (Unstrut) 20180814 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg/400px-Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg/800px-Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg/1200px-Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg/1920px-Oberstraße_9,_Friedrich-Ludwig-Jahn-Erinnerungsturnhalle_Freyburg_(Unstrut)_20180814_002.jpg
+  Freyburg an der Unstrut, Oberstraße 9, Turnhalle-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg/400px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg/800px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg/1200px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg/1920px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-002.jpg
+  Freyburg an der Unstrut, Oberstraße 9, Turnhalle-004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg/400px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg/800px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg/1200px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg/1920px-Freyburg_an_der_Unstrut,_Oberstraße_9,_Turnhalle-004.jpg
+  FreyburgJahndenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FreyburgJahndenkmal.jpg/400px-FreyburgJahndenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FreyburgJahndenkmal.jpg/800px-FreyburgJahndenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FreyburgJahndenkmal.jpg/1200px-FreyburgJahndenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/FreyburgJahndenkmal.jpg/1920px-FreyburgJahndenkmal.jpg
+  Freyburg F-L Jahn 80440.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Freyburg_F-L_Jahn_80440.JPG/400px-Freyburg_F-L_Jahn_80440.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Freyburg_F-L_Jahn_80440.JPG/800px-Freyburg_F-L_Jahn_80440.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Freyburg_F-L_Jahn_80440.JPG/1200px-Freyburg_F-L_Jahn_80440.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Freyburg_F-L_Jahn_80440.JPG/1920px-Freyburg_F-L_Jahn_80440.JPG
 ---
 
 ## Overview

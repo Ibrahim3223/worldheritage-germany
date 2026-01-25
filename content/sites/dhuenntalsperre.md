@@ -1,19 +1,49 @@
 ---
-title: "Dhünntalsperre"
+title: Dhünntalsperre
 date: 2026-01-23
 draft: false
-description: "reservoir in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: reservoir in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0742
 longitude: 7.21389
 images:
-  - "/images-sites/dhuenntalsperre/01-6a4104fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg/1200px-Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dhünntalsperre_Panorama.jpg/1200px-Dhünntalsperre_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Große_Dhünntalsperre_Bergisches_Land.jpg/1200px-Große_Dhünntalsperre_Bergisches_Land.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ausgleichsweiher_Große_Dhünn-Talsperre.jpg/1200px-Ausgleichsweiher_Große_Dhünn-Talsperre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dhünntalsperre.2.JPG/1200px-Dhünntalsperre.2.JPG
+image_srcset:
+  Große Dhünntalsperre – Kugelpanorama aus 400 m Höhe (April 2020).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg/400px-Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg/800px-Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg/1200px-Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg/1920px-Große_Dhünntalsperre_–_Kugelpanorama_aus_400_m_Höhe_(April_2020).jpg
+  Dhünntalsperre Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dhünntalsperre_Panorama.jpg/400px-Dhünntalsperre_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dhünntalsperre_Panorama.jpg/800px-Dhünntalsperre_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dhünntalsperre_Panorama.jpg/1200px-Dhünntalsperre_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dhünntalsperre_Panorama.jpg/1920px-Dhünntalsperre_Panorama.jpg
+  Große Dhünntalsperre Bergisches Land.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Große_Dhünntalsperre_Bergisches_Land.jpg/400px-Große_Dhünntalsperre_Bergisches_Land.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Große_Dhünntalsperre_Bergisches_Land.jpg/800px-Große_Dhünntalsperre_Bergisches_Land.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Große_Dhünntalsperre_Bergisches_Land.jpg/1200px-Große_Dhünntalsperre_Bergisches_Land.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Große_Dhünntalsperre_Bergisches_Land.jpg/1920px-Große_Dhünntalsperre_Bergisches_Land.jpg
+  Ausgleichsweiher Große Dhünn-Talsperre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ausgleichsweiher_Große_Dhünn-Talsperre.jpg/400px-Ausgleichsweiher_Große_Dhünn-Talsperre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ausgleichsweiher_Große_Dhünn-Talsperre.jpg/800px-Ausgleichsweiher_Große_Dhünn-Talsperre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ausgleichsweiher_Große_Dhünn-Talsperre.jpg/1200px-Ausgleichsweiher_Große_Dhünn-Talsperre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ausgleichsweiher_Große_Dhünn-Talsperre.jpg/1920px-Ausgleichsweiher_Große_Dhünn-Talsperre.jpg
+  Dhünntalsperre.2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dhünntalsperre.2.JPG/400px-Dhünntalsperre.2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dhünntalsperre.2.JPG/800px-Dhünntalsperre.2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dhünntalsperre.2.JPG/1200px-Dhünntalsperre.2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dhünntalsperre.2.JPG/1920px-Dhünntalsperre.2.JPG
 ---
 
 ## Overview

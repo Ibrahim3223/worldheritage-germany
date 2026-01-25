@@ -1,19 +1,49 @@
 ---
-title: "Burg Arras"
+title: Burg Arras
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.0526
 longitude: 7.10583
 images:
-  - "/images-sites/burg-arras/01-81273bb8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Arras,_Dyckerhoff-Villa.jpg/1200px-Burg_Arras,_Dyckerhoff-Villa.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg/1200px-Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20190813Burg_Arras.jpg/1200px-20190813Burg_Arras.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Arras2.jpg/1200px-Burg_Arras2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Arras1.jpg/1200px-Burg_Arras1.jpg
+image_srcset:
+  Burg Arras, Dyckerhoff-Villa.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Arras,_Dyckerhoff-Villa.jpg/400px-Burg_Arras,_Dyckerhoff-Villa.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Arras,_Dyckerhoff-Villa.jpg/800px-Burg_Arras,_Dyckerhoff-Villa.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Arras,_Dyckerhoff-Villa.jpg/1200px-Burg_Arras,_Dyckerhoff-Villa.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Arras,_Dyckerhoff-Villa.jpg/1920px-Burg_Arras,_Dyckerhoff-Villa.jpg
+  Alf (Mosel), Burg Arras, 2012-08 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg/400px-Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg/800px-Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg/1200px-Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg/1920px-Alf_(Mosel),_Burg_Arras,_2012-08_CN-01.jpg
+  20190813Burg Arras.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20190813Burg_Arras.jpg/400px-20190813Burg_Arras.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20190813Burg_Arras.jpg/800px-20190813Burg_Arras.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20190813Burg_Arras.jpg/1200px-20190813Burg_Arras.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20190813Burg_Arras.jpg/1920px-20190813Burg_Arras.jpg
+  Burg Arras2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Arras2.jpg/400px-Burg_Arras2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Arras2.jpg/800px-Burg_Arras2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Arras2.jpg/1200px-Burg_Arras2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Arras2.jpg/1920px-Burg_Arras2.jpg
+  Burg Arras1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Arras1.jpg/400px-Burg_Arras1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Arras1.jpg/800px-Burg_Arras1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Arras1.jpg/1200px-Burg_Arras1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burg_Arras1.jpg/1920px-Burg_Arras1.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.339108333
 longitude: 12.37265
 images:
-  - "/images-sites/new-bach-monument/01-006a3a62-800w.webp"
-  - "/images-sites/new-bach-monument/02-41fa9e6e-800w.webp"
-  - "/images-sites/new-bach-monument/03-823b93d3-800w.webp"
+  - "/images/new-bach-monument/01-006a3a62-800w.webp"
+  - "/images/new-bach-monument/02-41fa9e6e-800w.webp"
+  - "/images/new-bach-monument/03-823b93d3-800w.webp"
 ---
 
 ## Overview

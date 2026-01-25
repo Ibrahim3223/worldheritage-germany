@@ -1,27 +1,49 @@
 ---
-title: "Burg Kniphausen"
+title: Burg Kniphausen
 date: 2026-01-23
 draft: false
-description: "castle in Wilhelmshaven, Lower Saxony, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Wilhelmshaven, Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.5508
 longitude: 8.05269
-
-# Images
 images:
-  - "/images-sites/burg-kniphausen/01-474de6e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Torhaus_Kniphausen.jpg/1200px-Torhaus_Kniphausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Kniphausen_-_Wilhelmshaven_01.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Kniphausen_-_Wilhelmshaven_05.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kniphausen.jpg/1200px-Kniphausen.jpg
+image_srcset:
+  Torhaus Kniphausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Torhaus_Kniphausen.jpg/400px-Torhaus_Kniphausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Torhaus_Kniphausen.jpg/800px-Torhaus_Kniphausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Torhaus_Kniphausen.jpg/1200px-Torhaus_Kniphausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Torhaus_Kniphausen.jpg/1920px-Torhaus_Kniphausen.jpg
+  Burg Kniphausen - Wilhelmshaven 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Kniphausen_-_Wilhelmshaven_01.jpg/400px-Burg_Kniphausen_-_Wilhelmshaven_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Kniphausen_-_Wilhelmshaven_01.jpg/800px-Burg_Kniphausen_-_Wilhelmshaven_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Kniphausen_-_Wilhelmshaven_01.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Kniphausen_-_Wilhelmshaven_01.jpg/1920px-Burg_Kniphausen_-_Wilhelmshaven_01.jpg
+  Burg Kniphausen - Wilhelmshaven 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/400px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/800px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Kniphausen_-_Wilhelmshaven_04.jpg/1920px-Burg_Kniphausen_-_Wilhelmshaven_04.jpg
+  Burg Kniphausen - Wilhelmshaven 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Kniphausen_-_Wilhelmshaven_05.jpg/400px-Burg_Kniphausen_-_Wilhelmshaven_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Kniphausen_-_Wilhelmshaven_05.jpg/800px-Burg_Kniphausen_-_Wilhelmshaven_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Kniphausen_-_Wilhelmshaven_05.jpg/1200px-Burg_Kniphausen_-_Wilhelmshaven_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Kniphausen_-_Wilhelmshaven_05.jpg/1920px-Burg_Kniphausen_-_Wilhelmshaven_05.jpg
+  Kniphausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kniphausen.jpg/400px-Kniphausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kniphausen.jpg/800px-Kniphausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kniphausen.jpg/1200px-Kniphausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kniphausen.jpg/1920px-Kniphausen.jpg
 ---
 
 ## Overview

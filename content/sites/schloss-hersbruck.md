@@ -21,9 +21,9 @@ longitude: 11.430904143
 
 # Images
 images:
-  - "/images-sites/schloss-hersbruck/01-b2d8f69f-800w.webp"
-  - "/images-sites/schloss-hersbruck/02-4974758b-800w.webp"
-  - "/images-sites/schloss-hersbruck/03-4e5562fe-800w.webp"
+  - "/images/schloss-hersbruck/01-b2d8f69f-800w.webp"
+  - "/images/schloss-hersbruck/02-4974758b-800w.webp"
+  - "/images/schloss-hersbruck/03-4e5562fe-800w.webp"
 ---
 
 ## Overview

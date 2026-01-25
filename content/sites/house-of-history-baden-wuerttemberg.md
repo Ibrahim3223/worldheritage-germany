@@ -1,19 +1,49 @@
 ---
-title: "House of History Baden-Württemberg"
+title: House of History Baden-Württemberg
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7789
 longitude: 9.18583
 images:
-  - "/images-sites/house-of-history-baden-wuerttemberg/01-ae69176e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg/1200px-20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/HausderGeschichteBaden-Württemberg.jpg/1200px-HausderGeschichteBaden-Württemberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stuttgart_Haus_der_Geschichte-pjt1.jpg/1200px-Stuttgart_Haus_der_Geschichte-pjt1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg/1200px-Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1200px-Stuttgart-haus-der-geschichte-bw.jpg
+image_srcset:
+  20230214 Hochschule für Musik und Darstellende Kunst Stuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg/400px-20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg/800px-20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg/1200px-20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg/1920px-20230214_Hochschule_für_Musik_und_Darstellende_Kunst_Stuttgart.jpg
+  HausderGeschichteBaden-Württemberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/HausderGeschichteBaden-Württemberg.jpg/400px-HausderGeschichteBaden-Württemberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/HausderGeschichteBaden-Württemberg.jpg/800px-HausderGeschichteBaden-Württemberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/HausderGeschichteBaden-Württemberg.jpg/1200px-HausderGeschichteBaden-Württemberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/HausderGeschichteBaden-Württemberg.jpg/1920px-HausderGeschichteBaden-Württemberg.jpg
+  Stuttgart Haus der Geschichte-pjt1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stuttgart_Haus_der_Geschichte-pjt1.jpg/400px-Stuttgart_Haus_der_Geschichte-pjt1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stuttgart_Haus_der_Geschichte-pjt1.jpg/800px-Stuttgart_Haus_der_Geschichte-pjt1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stuttgart_Haus_der_Geschichte-pjt1.jpg/1200px-Stuttgart_Haus_der_Geschichte-pjt1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stuttgart_Haus_der_Geschichte-pjt1.jpg/1920px-Stuttgart_Haus_der_Geschichte-pjt1.jpg
+  Ausstellung "NS-Justiz" im Landgericht Stuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg/400px-Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg/800px-Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg/1200px-Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg/1920px-Ausstellung_"NS-Justiz"_im_Landgericht_Stuttgart.jpg
+  Stuttgart-haus-der-geschichte-bw.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/400px-Stuttgart-haus-der-geschichte-bw.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/800px-Stuttgart-haus-der-geschichte-bw.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1200px-Stuttgart-haus-der-geschichte-bw.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stuttgart-haus-der-geschichte-bw.jpg/1920px-Stuttgart-haus-der-geschichte-bw.jpg
 ---
 
 ## Overview

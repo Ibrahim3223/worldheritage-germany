@@ -1,19 +1,49 @@
 ---
-title: "Fischerbuberl-Brunnen"
+title: Fischerbuberl-Brunnen
 date: 2026-01-23
 draft: false
-description: "water well"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: water well
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1345
 longitude: 11.596
 images:
-  - "/images-sites/fischerbuberl-brunnen/01-04b6ec36-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20160921_Fischerbuberl-Brunnen.jpg/1200px-20160921_Fischerbuberl-Brunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wiener_Platz_Fischerbuberl_Muenchen-1.jpg/1200px-Wiener_Platz_Fischerbuberl_Muenchen-1.jpg
+image_srcset:
+  20160921 Fischerbuberl-Brunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20160921_Fischerbuberl-Brunnen.jpg/400px-20160921_Fischerbuberl-Brunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20160921_Fischerbuberl-Brunnen.jpg/800px-20160921_Fischerbuberl-Brunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20160921_Fischerbuberl-Brunnen.jpg/1200px-20160921_Fischerbuberl-Brunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20160921_Fischerbuberl-Brunnen.jpg/1920px-20160921_Fischerbuberl-Brunnen.jpg
+  Brunnen mit Fischerbuberl Wiener-Platz Muenchen-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg/400px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg/800px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-6.jpg
+  Brunnen mit Fischerbuberl Wiener-Platz Muenchen-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg/400px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg/800px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-7.jpg
+  Brunnen mit Fischerbuberl Wiener-Platz Muenchen-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/400px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/800px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1200px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg/1920px-Brunnen_mit_Fischerbuberl_Wiener-Platz_Muenchen-3.jpg
+  Wiener Platz Fischerbuberl Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wiener_Platz_Fischerbuberl_Muenchen-1.jpg/400px-Wiener_Platz_Fischerbuberl_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wiener_Platz_Fischerbuberl_Muenchen-1.jpg/800px-Wiener_Platz_Fischerbuberl_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wiener_Platz_Fischerbuberl_Muenchen-1.jpg/1200px-Wiener_Platz_Fischerbuberl_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wiener_Platz_Fischerbuberl_Muenchen-1.jpg/1920px-Wiener_Platz_Fischerbuberl_Muenchen-1.jpg
 ---
 
 ## Overview

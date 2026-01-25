@@ -1,29 +1,49 @@
 ---
-title: "Brauerei zur Malzmühle"
+title: Brauerei zur Malzmühle
 date: 2026-01-23
 draft: false
-description: "kölsch brewery in Cologne, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: kölsch brewery in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9347
 longitude: 6.96068
-
-# Images
 images:
-  - "/images-sites/brauerei-zur-malzmuehle/01-632516b6-800w.webp"
-  - "/images-sites/brauerei-zur-malzmuehle/02-a7b2cfa1-800w.webp"
-  - "/images-sites/brauerei-zur-malzmuehle/03-f4a1c38a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg/1200px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg/1200px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1200px-Brauerei-zur-Malzmühle-Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg/1200px-Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brauerei_zur_Malzmühle,_Köln-1919.jpg/1200px-Brauerei_zur_Malzmühle,_Köln-1919.jpg
+image_srcset:
+  Bundesparteitag der AfD 2017 Köln - rund um den Heumarkt-2500.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg/400px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg/800px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg/1200px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg/1920px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2500.jpg
+  Bundesparteitag der AfD 2017 Köln - rund um den Heumarkt-2493.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg/400px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg/800px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg/1200px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg/1920px-Bundesparteitag_der_AfD_2017_Köln_-_rund_um_den_Heumarkt-2493.jpg
+  Brauerei-zur-Malzmühle-Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/400px-Brauerei-zur-Malzmühle-Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/800px-Brauerei-zur-Malzmühle-Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1200px-Brauerei-zur-Malzmühle-Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brauerei-zur-Malzmühle-Köln.jpg/1920px-Brauerei-zur-Malzmühle-Köln.jpg
+  Brauerei zur Malzmühle mit Höhner Stall und Hotel zur Malzmühle-7464.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg/400px-Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg/800px-Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg/1200px-Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg/1920px-Brauerei_zur_Malzmühle_mit_Höhner_Stall_und_Hotel_zur_Malzmühle-7464.jpg
+  Brauerei zur Malzmühle, Köln-1919.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brauerei_zur_Malzmühle,_Köln-1919.jpg/400px-Brauerei_zur_Malzmühle,_Köln-1919.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brauerei_zur_Malzmühle,_Köln-1919.jpg/800px-Brauerei_zur_Malzmühle,_Köln-1919.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brauerei_zur_Malzmühle,_Köln-1919.jpg/1200px-Brauerei_zur_Malzmühle,_Köln-1919.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brauerei_zur_Malzmühle,_Köln-1919.jpg/1920px-Brauerei_zur_Malzmühle,_Köln-1919.jpg
 ---
 
 ## Overview

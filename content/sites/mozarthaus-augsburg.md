@@ -13,8 +13,8 @@ regions:
 latitude: 48.3756
 longitude: 10.8957
 images:
-  - "/images-sites/mozarthaus-augsburg/02-b16af616-800w.webp"
-  - "/images-sites/mozarthaus-augsburg/03-0293052a-800w.webp"
+  - "/images/mozarthaus-augsburg/02-b16af616-800w.webp"
+  - "/images/mozarthaus-augsburg/03-0293052a-800w.webp"
 ---
 
 ## Overview

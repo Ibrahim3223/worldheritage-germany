@@ -1,29 +1,49 @@
 ---
-title: "Gunzenhauser Museum"
+title: Gunzenhauser Museum
 date: 2026-01-23
 draft: false
-description: "art museum in Chemnitz, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Chemnitz, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.82861111
 longitude: 12.91527778
-
-# Images
 images:
-  - "/images-sites/gunzenhauser-museum/01-fe44df5f-800w.webp"
-  - "/images-sites/gunzenhauser-museum/02-e1efbea9-800w.webp"
-  - "/images-sites/gunzenhauser-museum/03-533cf865-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Museum-Gunzenhauser-Chemnitz-February-2025.jpg/1200px-Museum-Gunzenhauser-Chemnitz-February-2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museum_Gunzenhauser_(Chemnitz)_(1).jpg/1200px-Museum_Gunzenhauser_(Chemnitz)_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Museum_Gunzenhauser_2_Luftaufnahme.jpg/1200px-Museum_Gunzenhauser_2_Luftaufnahme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chemnitz-Gunzenhauser-night.jpg/1200px-Chemnitz-Gunzenhauser-night.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chemnitz-Gunzenhauser.jpg/1200px-Chemnitz-Gunzenhauser.jpg
+image_srcset:
+  Museum-Gunzenhauser-Chemnitz-February-2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Museum-Gunzenhauser-Chemnitz-February-2025.jpg/400px-Museum-Gunzenhauser-Chemnitz-February-2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Museum-Gunzenhauser-Chemnitz-February-2025.jpg/800px-Museum-Gunzenhauser-Chemnitz-February-2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Museum-Gunzenhauser-Chemnitz-February-2025.jpg/1200px-Museum-Gunzenhauser-Chemnitz-February-2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Museum-Gunzenhauser-Chemnitz-February-2025.jpg/1920px-Museum-Gunzenhauser-Chemnitz-February-2025.jpg
+  Museum Gunzenhauser (Chemnitz) (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museum_Gunzenhauser_(Chemnitz)_(1).jpg/400px-Museum_Gunzenhauser_(Chemnitz)_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museum_Gunzenhauser_(Chemnitz)_(1).jpg/800px-Museum_Gunzenhauser_(Chemnitz)_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museum_Gunzenhauser_(Chemnitz)_(1).jpg/1200px-Museum_Gunzenhauser_(Chemnitz)_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Museum_Gunzenhauser_(Chemnitz)_(1).jpg/1920px-Museum_Gunzenhauser_(Chemnitz)_(1).jpg
+  Museum Gunzenhauser 2 Luftaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Museum_Gunzenhauser_2_Luftaufnahme.jpg/400px-Museum_Gunzenhauser_2_Luftaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Museum_Gunzenhauser_2_Luftaufnahme.jpg/800px-Museum_Gunzenhauser_2_Luftaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Museum_Gunzenhauser_2_Luftaufnahme.jpg/1200px-Museum_Gunzenhauser_2_Luftaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Museum_Gunzenhauser_2_Luftaufnahme.jpg/1920px-Museum_Gunzenhauser_2_Luftaufnahme.jpg
+  Chemnitz-Gunzenhauser-night.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chemnitz-Gunzenhauser-night.jpg/400px-Chemnitz-Gunzenhauser-night.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chemnitz-Gunzenhauser-night.jpg/800px-Chemnitz-Gunzenhauser-night.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chemnitz-Gunzenhauser-night.jpg/1200px-Chemnitz-Gunzenhauser-night.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chemnitz-Gunzenhauser-night.jpg/1920px-Chemnitz-Gunzenhauser-night.jpg
+  Chemnitz-Gunzenhauser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chemnitz-Gunzenhauser.jpg/400px-Chemnitz-Gunzenhauser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chemnitz-Gunzenhauser.jpg/800px-Chemnitz-Gunzenhauser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chemnitz-Gunzenhauser.jpg/1200px-Chemnitz-Gunzenhauser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chemnitz-Gunzenhauser.jpg/1920px-Chemnitz-Gunzenhauser.jpg
 ---
 
 ## Overview

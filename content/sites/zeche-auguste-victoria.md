@@ -13,7 +13,7 @@ regions:
 latitude: 51.6851
 longitude: 7.11056
 images:
-  - "/images-sites/zeche-auguste-victoria/01-36c559c5-800w.webp"
+  - "/images/zeche-auguste-victoria/01-36c559c5-800w.webp"
 ---
 
 ## Overview

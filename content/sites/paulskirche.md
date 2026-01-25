@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1287478"
 description: "In the heart of Schwerin, Germany, lies Paulskirche, a remarkable church building that captures the essence of Gothic Revival architecture. This stunnin..."
 images:
-  - "/images-sites/paulskirche/01-103c815b-1920w.webp"
-  - "/images-sites/paulskirche/02-eb8620a2-1920w.webp"
-  - "/images-sites/paulskirche/03-7b3debaf-1920w.webp"
+  - "/images/paulskirche/01-103c815b-1920w.webp"
+  - "/images/paulskirche/02-eb8620a2-1920w.webp"
+  - "/images/paulskirche/03-7b3debaf-1920w.webp"
 ---
 
 ## Overview

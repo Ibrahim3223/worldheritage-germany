@@ -21,8 +21,8 @@ longitude: 9.73167
 
 # Images
 images:
-  - "/images-sites/kestnergesellschaft/02-0d54b251-800w.webp"
-  - "/images-sites/kestnergesellschaft/03-6c4cd6e7-800w.webp"
+  - "/images/kestnergesellschaft/02-0d54b251-800w.webp"
+  - "/images/kestnergesellschaft/03-6c4cd6e7-800w.webp"
 ---
 
 ## Overview

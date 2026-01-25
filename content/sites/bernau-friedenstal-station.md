@@ -1,21 +1,37 @@
 ---
-title: "Bernau-Friedenstal station"
+title: Bernau-Friedenstal station
 date: 2026-01-23
 draft: false
-description: "railway station in Bernau bei Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Bernau bei Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6685
 longitude: 13.5648
 images:
-  - "/images-sites/bernau-friedenstal-station/01-6a2aef95-800w.webp"
-  - "/images-sites/bernau-friedenstal-station/02-f9362bf2-800w.webp"
-  - "/images-sites/bernau-friedenstal-station/03-fdc48893-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg/1200px-Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg/1200px-Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg/1200px-Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Bernau-Friedenstal (S02 0078).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg/400px-Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg/800px-Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg/1200px-Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg/1920px-Berlin_S-Bahn_Bhf_Bernau-Friedenstal_(S02_0078).jpg
+  Bernau bei Berlin Bahnhof Friedenstal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg/400px-Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg/800px-Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg/1200px-Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg/1920px-Bernau_bei_Berlin_Bahnhof_Friedenstal.jpg
+  Bernau bei Berlin Bahnhof Friedenstal Platform.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg/400px-Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg/800px-Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg/1200px-Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg/1920px-Bernau_bei_Berlin_Bahnhof_Friedenstal_Platform.jpg
 ---
 
 ## Overview

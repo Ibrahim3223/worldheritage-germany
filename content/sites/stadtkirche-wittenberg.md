@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q458821"
 description: "In the heart of Lutherstadt Wittenberg, the Stadtkirche Wittenberg stands as a remarkable example of Gothic architecture, with roots tracing back to 128..."
 images:
-  - "/images-sites/stadtkirche-wittenberg/01-14ee4e4e-1920w.webp"
-  - "/images-sites/stadtkirche-wittenberg/02-630108f5-1920w.webp"
-  - "/images-sites/stadtkirche-wittenberg/03-1fbf6cf8-1920w.webp"
+  - "/images/stadtkirche-wittenberg/01-14ee4e4e-1920w.webp"
+  - "/images/stadtkirche-wittenberg/02-630108f5-1920w.webp"
+  - "/images/stadtkirche-wittenberg/03-1fbf6cf8-1920w.webp"
 ---
 
 ## Overview

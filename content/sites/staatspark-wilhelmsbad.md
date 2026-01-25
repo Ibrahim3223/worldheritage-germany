@@ -13,7 +13,7 @@ regions:
 latitude: 50.1481
 longitude: 8.88222
 images:
-  - "/images-sites/staatspark-wilhelmsbad/01-b8bb256b-800w.webp"
+  - "/images/staatspark-wilhelmsbad/01-b8bb256b-800w.webp"
 ---
 
 ## Overview

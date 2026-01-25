@@ -1,19 +1,49 @@
 ---
-title: "Berlin Modernism Housing Estates"
+title: Berlin Modernism Housing Estates
 date: 2026-01-23
 draft: false
-description: "six subsidized housing estates"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: six subsidized housing estates
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.448333
 longitude: 13.45
 images:
-  - "/images-sites/berlin-modernism-housing-estates/01-c5d9f7b9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin_Hufeisensiedlung_UAV_04-2017.jpg/1200px-Berlin_Hufeisensiedlung_UAV_04-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG/1200px-20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Berlin_Maeckeritzstr.jpg/1200px-Berlin_Maeckeritzstr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Berlin_GS_Siemensstadt_Panzerkreuzer.jpg/1200px-Berlin_GS_Siemensstadt_Panzerkreuzer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hufeisensiedlung.jpg/1200px-Hufeisensiedlung.jpg
+image_srcset:
+  Berlin Hufeisensiedlung UAV 04-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin_Hufeisensiedlung_UAV_04-2017.jpg/400px-Berlin_Hufeisensiedlung_UAV_04-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin_Hufeisensiedlung_UAV_04-2017.jpg/800px-Berlin_Hufeisensiedlung_UAV_04-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin_Hufeisensiedlung_UAV_04-2017.jpg/1200px-Berlin_Hufeisensiedlung_UAV_04-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Berlin_Hufeisensiedlung_UAV_04-2017.jpg/1920px-Berlin_Hufeisensiedlung_UAV_04-2017.jpg
+  20080716 14995 DSC02001 Weiße Stadt Aroser Allee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG/400px-20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG/800px-20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG/1200px-20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG/1920px-20080716_14995_DSC02001_Weiße_Stadt_Aroser_Allee.JPG
+  Berlin Maeckeritzstr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Berlin_Maeckeritzstr.jpg/400px-Berlin_Maeckeritzstr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Berlin_Maeckeritzstr.jpg/800px-Berlin_Maeckeritzstr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Berlin_Maeckeritzstr.jpg/1200px-Berlin_Maeckeritzstr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Berlin_Maeckeritzstr.jpg/1920px-Berlin_Maeckeritzstr.jpg
+  Berlin GS Siemensstadt Panzerkreuzer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Berlin_GS_Siemensstadt_Panzerkreuzer.jpg/400px-Berlin_GS_Siemensstadt_Panzerkreuzer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Berlin_GS_Siemensstadt_Panzerkreuzer.jpg/800px-Berlin_GS_Siemensstadt_Panzerkreuzer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Berlin_GS_Siemensstadt_Panzerkreuzer.jpg/1200px-Berlin_GS_Siemensstadt_Panzerkreuzer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Berlin_GS_Siemensstadt_Panzerkreuzer.jpg/1920px-Berlin_GS_Siemensstadt_Panzerkreuzer.jpg
+  Hufeisensiedlung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hufeisensiedlung.jpg/400px-Hufeisensiedlung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hufeisensiedlung.jpg/800px-Hufeisensiedlung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hufeisensiedlung.jpg/1200px-Hufeisensiedlung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hufeisensiedlung.jpg/1920px-Hufeisensiedlung.jpg
 ---
 
 ## Overview

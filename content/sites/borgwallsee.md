@@ -1,19 +1,49 @@
 ---
-title: "Borgwallsee"
+title: Borgwallsee
 date: 2026-01-23
 draft: false
-description: "lake in Vorpommern-Rügen District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Vorpommern-Rügen District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.273333333
 longitude: 13.007777777
 images:
-  - "/images-sites/borgwallsee/01-c0e163a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pütter_See_(2008-05-07).JPG/1200px-Pütter_See_(2008-05-07).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burgwall_(Borgwallsee)_bei_Stralsund.jpg/1200px-Burgwall_(Borgwallsee)_bei_Stralsund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG/1200px-Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Borgwallsee_01-12-2010_476.png/1200px-Borgwallsee_01-12-2010_476.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Location_Borgwallsee.PNG/1200px-Location_Borgwallsee.PNG
+image_srcset:
+  Pütter See (2008-05-07).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pütter_See_(2008-05-07).JPG/400px-Pütter_See_(2008-05-07).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pütter_See_(2008-05-07).JPG/800px-Pütter_See_(2008-05-07).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pütter_See_(2008-05-07).JPG/1200px-Pütter_See_(2008-05-07).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pütter_See_(2008-05-07).JPG/1920px-Pütter_See_(2008-05-07).JPG
+  Burgwall (Borgwallsee) bei Stralsund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burgwall_(Borgwallsee)_bei_Stralsund.jpg/400px-Burgwall_(Borgwallsee)_bei_Stralsund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burgwall_(Borgwallsee)_bei_Stralsund.jpg/800px-Burgwall_(Borgwallsee)_bei_Stralsund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burgwall_(Borgwallsee)_bei_Stralsund.jpg/1200px-Burgwall_(Borgwallsee)_bei_Stralsund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burgwall_(Borgwallsee)_bei_Stralsund.jpg/1920px-Burgwall_(Borgwallsee)_bei_Stralsund.jpg
+  Borgwallsee in Vorpommern, Panorama (2009-07-14, Klugschnacker).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG/400px-Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG/800px-Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG/1200px-Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG/1920px-Borgwallsee_in_Vorpommern,_Panorama_(2009-07-14,_Klugschnacker).JPG
+  Borgwallsee 01-12-2010 476.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Borgwallsee_01-12-2010_476.png/400px-Borgwallsee_01-12-2010_476.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Borgwallsee_01-12-2010_476.png/800px-Borgwallsee_01-12-2010_476.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Borgwallsee_01-12-2010_476.png/1200px-Borgwallsee_01-12-2010_476.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Borgwallsee_01-12-2010_476.png/1920px-Borgwallsee_01-12-2010_476.png
+  Location Borgwallsee.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Location_Borgwallsee.PNG/400px-Location_Borgwallsee.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Location_Borgwallsee.PNG/800px-Location_Borgwallsee.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Location_Borgwallsee.PNG/1200px-Location_Borgwallsee.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Location_Borgwallsee.PNG/1920px-Location_Borgwallsee.PNG
 ---
 
 ## Overview

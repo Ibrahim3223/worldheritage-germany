@@ -13,9 +13,9 @@ regions:
 latitude: 53.9803
 longitude: 13.1572
 images:
-  - "/images-sites/schwingetal-und-peenewiesen-bei-trantow/01-fa7d907e-800w.webp"
-  - "/images-sites/schwingetal-und-peenewiesen-bei-trantow/02-219323e1-800w.webp"
-  - "/images-sites/schwingetal-und-peenewiesen-bei-trantow/03-9367fbce-800w.webp"
+  - "/images/schwingetal-und-peenewiesen-bei-trantow/01-fa7d907e-800w.webp"
+  - "/images/schwingetal-und-peenewiesen-bei-trantow/02-219323e1-800w.webp"
+  - "/images/schwingetal-und-peenewiesen-bei-trantow/03-9367fbce-800w.webp"
 ---
 
 ## Overview

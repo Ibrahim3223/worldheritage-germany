@@ -13,7 +13,7 @@ regions:
 latitude: 49.8686472
 longitude: 8.65098774
 images:
-  - "/images-sites/neues-palais/01-8401c86e-800w.webp"
+  - "/images/neues-palais/01-8401c86e-800w.webp"
 ---
 
 ## Overview

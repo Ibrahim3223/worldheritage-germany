@@ -13,8 +13,8 @@ regions:
 latitude: 49.4544391
 longitude: 11.0480624
 images:
-  - "/images-sites/memorium-nuernberger-prozesse/01-8cdc8551-800w.webp"
-  - "/images-sites/memorium-nuernberger-prozesse/01-d1e2da9d-800w.webp"
+  - "/images/memorium-nuernberger-prozesse/01-8cdc8551-800w.webp"
+  - "/images/memorium-nuernberger-prozesse/01-d1e2da9d-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Großer Wummsee"
+title: Großer Wummsee
 date: 2026-01-23
 draft: false
-description: "lake in Ostprignitz-Ruppin District, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ostprignitz-Ruppin District, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.188333333
 longitude: 12.800277777
 images:
-  - "/images-sites/grosser-wummsee/01-422a5c96-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg/1200px-Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg/1200px-Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2016-10-30-Großer-Wummsee-222.jpg/1200px-2016-10-30-Großer-Wummsee-222.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_08_05-Großer_Wummsee-067.jpg/1200px-2015_08_05-Großer_Wummsee-067.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg/1200px-2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg
+image_srcset:
+  Naturschutzgebiet Wummsee und Twernsee 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg/400px-Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg/800px-Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg/1200px-Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg/1920px-Naturschutzgebiet_Wummsee_und_Twernsee_10.jpg
+  Naturschutzgebiet Wummsee und Twernsee 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg/400px-Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg/800px-Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg/1200px-Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg/1920px-Naturschutzgebiet_Wummsee_und_Twernsee_15.jpg
+  2016-10-30-Großer-Wummsee-222.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2016-10-30-Großer-Wummsee-222.jpg/400px-2016-10-30-Großer-Wummsee-222.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2016-10-30-Großer-Wummsee-222.jpg/800px-2016-10-30-Großer-Wummsee-222.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2016-10-30-Großer-Wummsee-222.jpg/1200px-2016-10-30-Großer-Wummsee-222.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2016-10-30-Großer-Wummsee-222.jpg/1920px-2016-10-30-Großer-Wummsee-222.jpg
+  2015 08 05-Großer Wummsee-067.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_08_05-Großer_Wummsee-067.jpg/400px-2015_08_05-Großer_Wummsee-067.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_08_05-Großer_Wummsee-067.jpg/800px-2015_08_05-Großer_Wummsee-067.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_08_05-Großer_Wummsee-067.jpg/1200px-2015_08_05-Großer_Wummsee-067.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2015_08_05-Großer_Wummsee-067.jpg/1920px-2015_08_05-Großer_Wummsee-067.jpg
+  2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg/400px-2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg/800px-2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg/1200px-2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg/1920px-2016-10-30-Großer-Wummsee-Badestelle-Pano.jpg
 ---
 
 ## Overview

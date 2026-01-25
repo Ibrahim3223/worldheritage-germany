@@ -1,21 +1,38 @@
 ---
-title: "Bagband Church"
-site_name: "Bagband Church"
-slug: "bagband-church"
-region: "Lower Saxony"
-
-# Location
+title: Bagband Church
+site_name: Bagband Church
+slug: bagband-church
+region: Lower Saxony
 latitude: 53.350012
 longitude: 7.6089298
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q799855"
-description: "In the heart of Großefehn, Germany, Bagband Church stands as a remarkable example of Romanesque architecture, inviting visitors to explore its serene be..."
+- cultural site
+wikidata_id: Q799855
+description: In the heart of Großefehn, Germany, Bagband Church stands as a remarkable
+  example of Romanesque architecture, inviting visitors to explore its serene be...
 images:
-  - "/images-sites/bagband-church/01-2f04a507-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche%20Pleishof.jpg/1200px-Kirche%20Pleishof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bagbander_Kirche.jpg/1200px-Bagbander_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/1200px-Kirche_Pleishof.jpg
+image_srcset:
+  Kirche%20Pleishof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche%20Pleishof.jpg/400px-Kirche%20Pleishof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche%20Pleishof.jpg/800px-Kirche%20Pleishof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche%20Pleishof.jpg/1200px-Kirche%20Pleishof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kirche%20Pleishof.jpg/1920px-Kirche%20Pleishof.jpg
+  Bagbander Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bagbander_Kirche.jpg/400px-Bagbander_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bagbander_Kirche.jpg/800px-Bagbander_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bagbander_Kirche.jpg/1200px-Bagbander_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bagbander_Kirche.jpg/1920px-Bagbander_Kirche.jpg
+  Kirche Pleishof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/400px-Kirche_Pleishof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/800px-Kirche_Pleishof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/1200px-Kirche_Pleishof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kirche_Pleishof.jpg/1920px-Kirche_Pleishof.jpg
 ---
 
 ## Overview

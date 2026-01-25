@@ -1,29 +1,49 @@
 ---
-title: "Ilsenhöhle"
+title: Ilsenhöhle
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6626
 longitude: 11.5649
-
-# Images
 images:
-  - "/images-sites/ilsenhoehle/01-9b1e02a1-800w.webp"
-  - "/images-sites/ilsenhoehle/02-13bf7177-800w.webp"
-  - "/images-sites/ilsenhoehle/03-bf1cdb9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ilsenhöhle_Außenansicht.jpg/1200px-Ilsenhöhle_Außenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg/1200px-Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg/1200px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg/1200px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jerzmanowician_point_and_selected_debitage_products.png/1200px-Jerzmanowician_point_and_selected_debitage_products.png
+image_srcset:
+  Ilsenhöhle Außenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ilsenhöhle_Außenansicht.jpg/400px-Ilsenhöhle_Außenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ilsenhöhle_Außenansicht.jpg/800px-Ilsenhöhle_Außenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ilsenhöhle_Außenansicht.jpg/1200px-Ilsenhöhle_Außenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ilsenhöhle_Außenansicht.jpg/1920px-Ilsenhöhle_Außenansicht.jpg
+  Map of Ranis with the location of the newly identified hominin specimens and selected lithic artefacts.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg/400px-Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg/800px-Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg/1200px-Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg/1920px-Map_of_Ranis_with_the_location_of_the_newly_identified_hominin_specimens_and_selected_lithic_artefacts.jpg
+  Ranis, the LRJ and other MPUP transitional technocomplexes, Brno Bohunice, Bacho Kiro, and Zlatý kůň.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg/400px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg/800px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg/1200px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg/1920px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň.jpg
+  Ranis, the LRJ and other MPUP transitional technocomplexes, Brno Bohunice, Bacho Kiro, and Zlatý kůň Derivat.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg/400px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg/800px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg/1200px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg/1920px-Ranis,_the_LRJ_and_other_MPUP_transitional_technocomplexes,_Brno_Bohunice,_Bacho_Kiro,_and_Zlatý_kůň_Derivat.jpg
+  Jerzmanowician point and selected debitage products.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jerzmanowician_point_and_selected_debitage_products.png/400px-Jerzmanowician_point_and_selected_debitage_products.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jerzmanowician_point_and_selected_debitage_products.png/800px-Jerzmanowician_point_and_selected_debitage_products.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jerzmanowician_point_and_selected_debitage_products.png/1200px-Jerzmanowician_point_and_selected_debitage_products.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jerzmanowician_point_and_selected_debitage_products.png/1920px-Jerzmanowician_point_and_selected_debitage_products.png
 ---
 
 ## Overview

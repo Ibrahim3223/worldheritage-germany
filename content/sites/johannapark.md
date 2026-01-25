@@ -1,21 +1,49 @@
 ---
-title: "Johannapark"
+title: Johannapark
 date: 2026-01-23
 draft: false
-description: "park in Leipzig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3346
 longitude: 12.3625
 images:
-  - "/images-sites/johannapark/01-4b485737-800w.webp"
-  - "/images-sites/johannapark/02-a310691c-800w.webp"
-  - "/images-sites/johannapark/03-158c85e9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Leipzig_-_Johannapark_01_ies.jpg/1200px-Leipzig_-_Johannapark_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Johannapark_Leipzig_2024_Liegewiese.jpg/1200px-Johannapark_Leipzig_2024_Liegewiese.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bb046634_1.tif.jpg/1200px-Bb046634_1.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Johannapark.jpg/1200px-Johannapark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Leipzig_parks_065.jpg/1200px-Leipzig_parks_065.jpg
+image_srcset:
+  Leipzig - Johannapark 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Leipzig_-_Johannapark_01_ies.jpg/400px-Leipzig_-_Johannapark_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Leipzig_-_Johannapark_01_ies.jpg/800px-Leipzig_-_Johannapark_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Leipzig_-_Johannapark_01_ies.jpg/1200px-Leipzig_-_Johannapark_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Leipzig_-_Johannapark_01_ies.jpg/1920px-Leipzig_-_Johannapark_01_ies.jpg
+  Johannapark Leipzig 2024 Liegewiese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Johannapark_Leipzig_2024_Liegewiese.jpg/400px-Johannapark_Leipzig_2024_Liegewiese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Johannapark_Leipzig_2024_Liegewiese.jpg/800px-Johannapark_Leipzig_2024_Liegewiese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Johannapark_Leipzig_2024_Liegewiese.jpg/1200px-Johannapark_Leipzig_2024_Liegewiese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Johannapark_Leipzig_2024_Liegewiese.jpg/1920px-Johannapark_Leipzig_2024_Liegewiese.jpg
+  Bb046634 1.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bb046634_1.tif.jpg/400px-Bb046634_1.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bb046634_1.tif.jpg/800px-Bb046634_1.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bb046634_1.tif.jpg/1200px-Bb046634_1.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bb046634_1.tif.jpg/1920px-Bb046634_1.tif.jpg
+  Johannapark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Johannapark.jpg/400px-Johannapark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Johannapark.jpg/800px-Johannapark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Johannapark.jpg/1200px-Johannapark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Johannapark.jpg/1920px-Johannapark.jpg
+  Leipzig parks 065.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Leipzig_parks_065.jpg/400px-Leipzig_parks_065.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Leipzig_parks_065.jpg/800px-Leipzig_parks_065.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Leipzig_parks_065.jpg/1200px-Leipzig_parks_065.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Leipzig_parks_065.jpg/1920px-Leipzig_parks_065.jpg
 ---
 
 ## Overview

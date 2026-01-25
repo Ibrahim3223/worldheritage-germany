@@ -1,19 +1,49 @@
 ---
-title: "Goethe Gymnasium"
+title: Goethe Gymnasium
 date: 2026-01-23
 draft: false
-description: "school in Berlin-Wilmersdorf"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school in Berlin-Wilmersdorf
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4873
 longitude: 13.3216
 images:
-  - "/images-sites/goethe-gymnasium/01-2a76d12c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg/1200px-Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg/1200px-Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png/1200px-Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg/1200px-Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gruppenfoto_Flakhelfer.jpg/1200px-Gruppenfoto_Flakhelfer.jpg
+image_srcset:
+  Frankfurt, Goethe-Gymnasium, Rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg/400px-Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg/800px-Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg/1200px-Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg/1920px-Frankfurt,_Goethe-Gymnasium,_Rückseite.jpg
+  Frankfurt, Goethe-Gymnasium, Straßenseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg/400px-Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg/800px-Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg/1200px-Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg/1920px-Frankfurt,_Goethe-Gymnasium,_Straßenseite.jpg
+  Goethe-Reformgymnasium Frankfurt am Main-westend.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png/400px-Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png/800px-Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png/1200px-Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png/1920px-Goethe-Reformgymnasium_Frankfurt_am_Main-westend.png
+  Prof Dr phil Ewald Ernst Johannes Bruhn 1862-1932.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg/400px-Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg/800px-Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg/1200px-Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg/1920px-Prof_Dr_phil_Ewald_Ernst_Johannes_Bruhn_1862-1932.jpg
+  Gruppenfoto Flakhelfer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gruppenfoto_Flakhelfer.jpg/400px-Gruppenfoto_Flakhelfer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gruppenfoto_Flakhelfer.jpg/800px-Gruppenfoto_Flakhelfer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gruppenfoto_Flakhelfer.jpg/1200px-Gruppenfoto_Flakhelfer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gruppenfoto_Flakhelfer.jpg/1920px-Gruppenfoto_Flakhelfer.jpg
 ---
 
 ## Overview

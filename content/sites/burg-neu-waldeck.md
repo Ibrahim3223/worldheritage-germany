@@ -1,19 +1,49 @@
 ---
-title: "Burg Neu-Waldeck"
+title: Burg Neu-Waldeck
 date: 2026-01-23
 draft: false
-description: "ruined castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: ruined castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.7166
 longitude: 7.7933
 images:
-  - "/images-sites/burg-neu-waldeck/01-96d3320a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Neu-Waldeck_1.JPG/1200px-Burg_Neu-Waldeck_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Neu-Waldeck_4.JPG/1200px-Burg_Neu-Waldeck_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Neu-Waldeck_5.JPG/1200px-Burg_Neu-Waldeck_5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Neu-Waldeck_8.JPG/1200px-Burg_Neu-Waldeck_8.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Neu-Waldeck_9.JPG/1200px-Burg_Neu-Waldeck_9.JPG
+image_srcset:
+  Burg Neu-Waldeck 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Neu-Waldeck_1.JPG/400px-Burg_Neu-Waldeck_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Neu-Waldeck_1.JPG/800px-Burg_Neu-Waldeck_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Neu-Waldeck_1.JPG/1200px-Burg_Neu-Waldeck_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burg_Neu-Waldeck_1.JPG/1920px-Burg_Neu-Waldeck_1.JPG
+  Burg Neu-Waldeck 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Neu-Waldeck_4.JPG/400px-Burg_Neu-Waldeck_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Neu-Waldeck_4.JPG/800px-Burg_Neu-Waldeck_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Neu-Waldeck_4.JPG/1200px-Burg_Neu-Waldeck_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Neu-Waldeck_4.JPG/1920px-Burg_Neu-Waldeck_4.JPG
+  Burg Neu-Waldeck 5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Neu-Waldeck_5.JPG/400px-Burg_Neu-Waldeck_5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Neu-Waldeck_5.JPG/800px-Burg_Neu-Waldeck_5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Neu-Waldeck_5.JPG/1200px-Burg_Neu-Waldeck_5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Neu-Waldeck_5.JPG/1920px-Burg_Neu-Waldeck_5.JPG
+  Burg Neu-Waldeck 8.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Neu-Waldeck_8.JPG/400px-Burg_Neu-Waldeck_8.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Neu-Waldeck_8.JPG/800px-Burg_Neu-Waldeck_8.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Neu-Waldeck_8.JPG/1200px-Burg_Neu-Waldeck_8.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Burg_Neu-Waldeck_8.JPG/1920px-Burg_Neu-Waldeck_8.JPG
+  Burg Neu-Waldeck 9.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Neu-Waldeck_9.JPG/400px-Burg_Neu-Waldeck_9.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Neu-Waldeck_9.JPG/800px-Burg_Neu-Waldeck_9.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Neu-Waldeck_9.JPG/1200px-Burg_Neu-Waldeck_9.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Neu-Waldeck_9.JPG/1920px-Burg_Neu-Waldeck_9.JPG
 ---
 
 ## Overview

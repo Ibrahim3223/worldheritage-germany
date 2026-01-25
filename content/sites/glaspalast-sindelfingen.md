@@ -1,19 +1,49 @@
 ---
-title: "Glaspalast Sindelfingen"
+title: Glaspalast Sindelfingen
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.715955
 longitude: 8.983662
 images:
-  - "/images-sites/glaspalast-sindelfingen/01-c7a58197-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glaspalast_Sindelfingen_40.jpg/1200px-Glaspalast_Sindelfingen_40.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Glaspalast_Sindelfingen_24.jpg/1200px-Glaspalast_Sindelfingen_24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg/1200px-Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eingang_Glaspalast_Sindelfingen17042019.png/1200px-Eingang_Glaspalast_Sindelfingen17042019.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mercedes-Benz_Junior_Cup_2013.jpg/1200px-Mercedes-Benz_Junior_Cup_2013.jpg
+image_srcset:
+  Glaspalast Sindelfingen 40.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glaspalast_Sindelfingen_40.jpg/400px-Glaspalast_Sindelfingen_40.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glaspalast_Sindelfingen_40.jpg/800px-Glaspalast_Sindelfingen_40.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glaspalast_Sindelfingen_40.jpg/1200px-Glaspalast_Sindelfingen_40.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glaspalast_Sindelfingen_40.jpg/1920px-Glaspalast_Sindelfingen_40.jpg
+  Glaspalast Sindelfingen 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Glaspalast_Sindelfingen_24.jpg/400px-Glaspalast_Sindelfingen_24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Glaspalast_Sindelfingen_24.jpg/800px-Glaspalast_Sindelfingen_24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Glaspalast_Sindelfingen_24.jpg/1200px-Glaspalast_Sindelfingen_24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Glaspalast_Sindelfingen_24.jpg/1920px-Glaspalast_Sindelfingen_24.jpg
+  Kreisverkehr Konrad-Adenauer-Straße und Willi-Brandt-Straße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg/400px-Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg/800px-Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg/1200px-Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg/1920px-Kreisverkehr_Konrad-Adenauer-Straße_und_Willi-Brandt-Straße.jpg
+  Eingang Glaspalast Sindelfingen17042019.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eingang_Glaspalast_Sindelfingen17042019.png/400px-Eingang_Glaspalast_Sindelfingen17042019.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eingang_Glaspalast_Sindelfingen17042019.png/800px-Eingang_Glaspalast_Sindelfingen17042019.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eingang_Glaspalast_Sindelfingen17042019.png/1200px-Eingang_Glaspalast_Sindelfingen17042019.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eingang_Glaspalast_Sindelfingen17042019.png/1920px-Eingang_Glaspalast_Sindelfingen17042019.png
+  Mercedes-Benz Junior Cup 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mercedes-Benz_Junior_Cup_2013.jpg/400px-Mercedes-Benz_Junior_Cup_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mercedes-Benz_Junior_Cup_2013.jpg/800px-Mercedes-Benz_Junior_Cup_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mercedes-Benz_Junior_Cup_2013.jpg/1200px-Mercedes-Benz_Junior_Cup_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mercedes-Benz_Junior_Cup_2013.jpg/1920px-Mercedes-Benz_Junior_Cup_2013.jpg
 ---
 
 ## Overview

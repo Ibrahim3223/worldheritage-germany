@@ -13,8 +13,8 @@ regions:
 latitude: 48.232
 longitude: 9.46135
 images:
-  - "/images-sites/zwiefalten-abbey/02-e2057e5a-800w.webp"
-  - "/images-sites/zwiefalten-abbey/03-515de14e-800w.webp"
+  - "/images/zwiefalten-abbey/02-e2057e5a-800w.webp"
+  - "/images/zwiefalten-abbey/03-515de14e-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burg Eppstein"
+title: Burg Eppstein
 date: 2026-01-23
 draft: false
-description: "Castle ruin in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Castle ruin in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1404
 longitude: 8.39314
 images:
-  - "/images-sites/burg-eppstein/01-dc1ef492-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg-Eppstein-JR-T20-2513-2019-04-19.jpg/1200px-Burg-Eppstein-JR-T20-2513-2019-04-19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg-Eppstein-JR-E-2613-2018-08-18.jpg/1200px-Burg-Eppstein-JR-E-2613-2018-08-18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_to_Burg_Eppstein_02.jpg/1200px-Entrance_to_Burg_Eppstein_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg/1200px-Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg-Eppstein-JR-G6-1273-2006-09-10.jpg/1200px-Burg-Eppstein-JR-G6-1273-2006-09-10.jpg
+image_srcset:
+  Burg-Eppstein-JR-T20-2513-2019-04-19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg-Eppstein-JR-T20-2513-2019-04-19.jpg/400px-Burg-Eppstein-JR-T20-2513-2019-04-19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg-Eppstein-JR-T20-2513-2019-04-19.jpg/800px-Burg-Eppstein-JR-T20-2513-2019-04-19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg-Eppstein-JR-T20-2513-2019-04-19.jpg/1200px-Burg-Eppstein-JR-T20-2513-2019-04-19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burg-Eppstein-JR-T20-2513-2019-04-19.jpg/1920px-Burg-Eppstein-JR-T20-2513-2019-04-19.jpg
+  Burg-Eppstein-JR-E-2613-2018-08-18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg-Eppstein-JR-E-2613-2018-08-18.jpg/400px-Burg-Eppstein-JR-E-2613-2018-08-18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg-Eppstein-JR-E-2613-2018-08-18.jpg/800px-Burg-Eppstein-JR-E-2613-2018-08-18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg-Eppstein-JR-E-2613-2018-08-18.jpg/1200px-Burg-Eppstein-JR-E-2613-2018-08-18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg-Eppstein-JR-E-2613-2018-08-18.jpg/1920px-Burg-Eppstein-JR-E-2613-2018-08-18.jpg
+  Entrance to Burg Eppstein 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_to_Burg_Eppstein_02.jpg/400px-Entrance_to_Burg_Eppstein_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_to_Burg_Eppstein_02.jpg/800px-Entrance_to_Burg_Eppstein_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_to_Burg_Eppstein_02.jpg/1200px-Entrance_to_Burg_Eppstein_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Entrance_to_Burg_Eppstein_02.jpg/1920px-Entrance_to_Burg_Eppstein_02.jpg
+  Burg Eppstein-JR-F-8-B-28a-2002-06-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg/400px-Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg/800px-Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg/1200px-Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg/1920px-Burg_Eppstein-JR-F-8-B-28a-2002-06-02.jpg
+  Burg-Eppstein-JR-G6-1273-2006-09-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg-Eppstein-JR-G6-1273-2006-09-10.jpg/400px-Burg-Eppstein-JR-G6-1273-2006-09-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg-Eppstein-JR-G6-1273-2006-09-10.jpg/800px-Burg-Eppstein-JR-G6-1273-2006-09-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg-Eppstein-JR-G6-1273-2006-09-10.jpg/1200px-Burg-Eppstein-JR-G6-1273-2006-09-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg-Eppstein-JR-G6-1273-2006-09-10.jpg/1920px-Burg-Eppstein-JR-G6-1273-2006-09-10.jpg
 ---
 
 ## Overview

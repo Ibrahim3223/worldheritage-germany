@@ -1,24 +1,52 @@
 ---
-title: "Johanniskirche"
-site_name: "Johanniskirche"
-slug: "johanniskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Johanniskirche
+site_name: Johanniskirche
+slug: johanniskirche
+region: North Rhine-Westphalia
 latitude: 51.2704
 longitude: 7.22507
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698951"
-description: "In the heart of Wuppertal, Germany, stands Johanniskirche, a striking example of Gothic Revival architecture that captivates both locals and visitors al..."
+- church building
+- religious site
+wikidata_id: Q1698951
+description: In the heart of Wuppertal, Germany, stands Johanniskirche, a striking
+  example of Gothic Revival architecture that captivates both locals and visitors
+  al...
 images:
-  - "/images-sites/johanniskirche/01-8d7db840-1920w.webp"
-  - "/images-sites/johanniskirche/02-9b74533b-1920w.webp"
-  - "/images-sites/johanniskirche/03-595988c9-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wuppertal%20Heckinghausen%20Johanniskirche.jpg/1200px-Wuppertal%20Heckinghausen%20Johanniskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten_20090218.jpg/1200px-Witten_20090218.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/JohanessKirche_LaufadPegnitz.JPG/1200px-JohanessKirche_LaufadPegnitz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Witten_Johanniskirche_Portal_S_20191110_1340.jpg/1200px-Witten_Johanniskirche_Portal_S_20191110_1340.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg/1200px-IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg
+image_srcset:
+  Wuppertal%20Heckinghausen%20Johanniskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wuppertal%20Heckinghausen%20Johanniskirche.jpg/400px-Wuppertal%20Heckinghausen%20Johanniskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wuppertal%20Heckinghausen%20Johanniskirche.jpg/800px-Wuppertal%20Heckinghausen%20Johanniskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wuppertal%20Heckinghausen%20Johanniskirche.jpg/1200px-Wuppertal%20Heckinghausen%20Johanniskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wuppertal%20Heckinghausen%20Johanniskirche.jpg/1920px-Wuppertal%20Heckinghausen%20Johanniskirche.jpg
+  Witten 20090218.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten_20090218.jpg/400px-Witten_20090218.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten_20090218.jpg/800px-Witten_20090218.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten_20090218.jpg/1200px-Witten_20090218.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten_20090218.jpg/1920px-Witten_20090218.jpg
+  JohanessKirche LaufadPegnitz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/JohanessKirche_LaufadPegnitz.JPG/400px-JohanessKirche_LaufadPegnitz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/JohanessKirche_LaufadPegnitz.JPG/800px-JohanessKirche_LaufadPegnitz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/JohanessKirche_LaufadPegnitz.JPG/1200px-JohanessKirche_LaufadPegnitz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/JohanessKirche_LaufadPegnitz.JPG/1920px-JohanessKirche_LaufadPegnitz.JPG
+  Witten Johanniskirche Portal S 20191110 1340.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Witten_Johanniskirche_Portal_S_20191110_1340.jpg/400px-Witten_Johanniskirche_Portal_S_20191110_1340.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Witten_Johanniskirche_Portal_S_20191110_1340.jpg/800px-Witten_Johanniskirche_Portal_S_20191110_1340.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Witten_Johanniskirche_Portal_S_20191110_1340.jpg/1200px-Witten_Johanniskirche_Portal_S_20191110_1340.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Witten_Johanniskirche_Portal_S_20191110_1340.jpg/1920px-Witten_Johanniskirche_Portal_S_20191110_1340.jpg
+  IMG 2651-Witten-Johanniskirche-Suedwest-1894.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg/400px-IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg/800px-IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg/1200px-IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg/1920px-IMG_2651-Witten-Johanniskirche-Suedwest-1894.jpg
 ---
 
 ## Overview

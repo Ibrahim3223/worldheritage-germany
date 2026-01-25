@@ -1,28 +1,43 @@
 ---
-title: "Fürsteneck Castle"
+title: Fürsteneck Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7764
 longitude: 9.80806
-
-# Images
 images:
-  - "/images-sites/fuersteneck-castle/02-23914962-800w.webp"
-  - "/images-sites/fuersteneck-castle/03-66f3613c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg/1200px-Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fürsteneck_hof_eiterfeld.jpg/1200px-Fürsteneck_hof_eiterfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fürsteneck_wappen1_eiterfeld.jpg/1200px-Fürsteneck_wappen1_eiterfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg/1200px-Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg
+image_srcset:
+  Festakt 70 Jahre Akademie Burg Fürsteneck 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg/400px-Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg/800px-Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg/1200px-Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg/1920px-Festakt_70_Jahre_Akademie_Burg_Fürsteneck_2023.jpg
+  Fürsteneck hof eiterfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fürsteneck_hof_eiterfeld.jpg/400px-Fürsteneck_hof_eiterfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fürsteneck_hof_eiterfeld.jpg/800px-Fürsteneck_hof_eiterfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fürsteneck_hof_eiterfeld.jpg/1200px-Fürsteneck_hof_eiterfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fürsteneck_hof_eiterfeld.jpg/1920px-Fürsteneck_hof_eiterfeld.jpg
+  Fürsteneck wappen1 eiterfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fürsteneck_wappen1_eiterfeld.jpg/400px-Fürsteneck_wappen1_eiterfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fürsteneck_wappen1_eiterfeld.jpg/800px-Fürsteneck_wappen1_eiterfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fürsteneck_wappen1_eiterfeld.jpg/1200px-Fürsteneck_wappen1_eiterfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fürsteneck_wappen1_eiterfeld.jpg/1920px-Fürsteneck_wappen1_eiterfeld.jpg
+  Burg-Fuersteneck front www.burg-fuersteneck.de.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg/400px-Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg/800px-Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg/1200px-Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg/1920px-Burg-Fuersteneck_front_www.burg-fuersteneck.de.jpg
 ---
 
 ## Overview

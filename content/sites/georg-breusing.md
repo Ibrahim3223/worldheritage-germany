@@ -1,21 +1,49 @@
 ---
-title: "Georg Breusing"
+title: Georg Breusing
 date: 2026-01-23
 draft: false
-description: "museum shipin Emden, Germany, former rescue cruiser"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum shipin Emden, Germany, former rescue cruiser
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.3664
 longitude: 7.20626
 images:
-  - "/images-sites/georg-breusing/01-1d721bb3-800w.webp"
-  - "/images-sites/georg-breusing/02-360eac04-800w.webp"
-  - "/images-sites/georg-breusing/03-74f1f2ef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg/1200px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg/1200px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg/1200px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1200px-Sk_georg_breusing.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Georg_Breusing.jpg/1200px-Georg_Breusing.jpg
+image_srcset:
+  Emden, Museumsschiff -Georg Breusing- -- 2016 -- 5487.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg/400px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg/800px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg/1200px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg/1920px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5487.jpg
+  Emden, Museumsschiff -Georg Breusing- -- 2016 -- 5502.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg/400px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg/800px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg/1200px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg/1920px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5502.jpg
+  Emden, Museumsschiff -Georg Breusing- -- 2016 -- 5498.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg/400px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg/800px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg/1200px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg/1920px-Emden,_Museumsschiff_-Georg_Breusing-_--_2016_--_5498.jpg
+  Sk georg breusing.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/400px-Sk_georg_breusing.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/800px-Sk_georg_breusing.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1200px-Sk_georg_breusing.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sk_georg_breusing.jpg/1920px-Sk_georg_breusing.jpg
+  Georg Breusing.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Georg_Breusing.jpg/400px-Georg_Breusing.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Georg_Breusing.jpg/800px-Georg_Breusing.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Georg_Breusing.jpg/1200px-Georg_Breusing.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Georg_Breusing.jpg/1920px-Georg_Breusing.jpg
 ---
 
 ## Overview

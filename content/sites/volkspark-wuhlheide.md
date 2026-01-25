@@ -13,9 +13,9 @@ regions:
 latitude: 52.46667
 longitude: 13.52639
 images:
-  - "/images-sites/volkspark-wuhlheide/01-943454b8-800w.webp"
-  - "/images-sites/volkspark-wuhlheide/02-a0c83ae6-800w.webp"
-  - "/images-sites/volkspark-wuhlheide/03-451fa404-800w.webp"
+  - "/images/volkspark-wuhlheide/01-943454b8-800w.webp"
+  - "/images/volkspark-wuhlheide/02-a0c83ae6-800w.webp"
+  - "/images/volkspark-wuhlheide/03-451fa404-800w.webp"
 ---
 
 ## Overview

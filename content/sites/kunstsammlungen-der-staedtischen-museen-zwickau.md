@@ -21,9 +21,9 @@ longitude: 12.489733
 
 # Images
 images:
-  - "/images-sites/kunstsammlungen-der-staedtischen-museen-zwickau/01-ead07f2a-800w.webp"
-  - "/images-sites/kunstsammlungen-der-staedtischen-museen-zwickau/02-d5110f5c-800w.webp"
-  - "/images-sites/kunstsammlungen-der-staedtischen-museen-zwickau/03-080294d7-800w.webp"
+  - "/images/kunstsammlungen-der-staedtischen-museen-zwickau/01-ead07f2a-800w.webp"
+  - "/images/kunstsammlungen-der-staedtischen-museen-zwickau/02-d5110f5c-800w.webp"
+  - "/images/kunstsammlungen-der-staedtischen-museen-zwickau/03-080294d7-800w.webp"
 ---
 
 ## Overview

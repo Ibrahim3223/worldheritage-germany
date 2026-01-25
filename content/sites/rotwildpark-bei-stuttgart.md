@@ -13,7 +13,7 @@ regions:
 latitude: 48.759823
 longitude: 9.10104
 images:
-  - "/images-sites/rotwildpark-bei-stuttgart/01-d7ab5ebc-800w.webp"
+  - "/images/rotwildpark-bei-stuttgart/01-d7ab5ebc-800w.webp"
 ---
 
 ## Overview

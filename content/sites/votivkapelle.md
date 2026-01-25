@@ -13,7 +13,7 @@ regions:
 latitude: 47.963863131
 longitude: 11.348185842
 images:
-  - "/images-sites/votivkapelle/01-8b7422f4-800w.webp"
+  - "/images/votivkapelle/01-8b7422f4-800w.webp"
 ---
 
 ## Overview

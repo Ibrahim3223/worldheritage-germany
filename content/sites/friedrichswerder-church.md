@@ -1,23 +1,50 @@
 ---
-title: "Friedrichswerder Church"
-site_name: "Friedrichswerder Church"
-slug: "friedrichswerder-church"
-region: "Berlin"
-
-# Location
+title: Friedrichswerder Church
+site_name: Friedrichswerder Church
+slug: friedrichswerder-church
+region: Berlin
 latitude: 52.515833
 longitude: 13.397222
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q833817"
-description: "Friedrichswerder Church, a striking example of Neo-Gothic architecture, stands proudly in the Bezirk Mitte district of Berlin. Founded in 1824, this chu..."
+- cultural site
+wikidata_id: Q833817
+description: Friedrichswerder Church, a striking example of Neo-Gothic architecture,
+  stands proudly in the Bezirk Mitte district of Berlin. Founded in 1824, this chu...
 images:
-  - "/images-sites/friedrichswerder-church/01-0f5736fb-1920w.webp"
-  - "/images-sites/friedrichswerder-church/02-a25cb403-1920w.webp"
-  - "/images-sites/friedrichswerder-church/03-4291c34f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%20friedrichswerdersche%20kirche.jpg/1200px-Berlin%20friedrichswerdersche%20kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg/1200px-Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg/1200px-Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FriedrKirche_Eingang_Details.jpg/1200px-FriedrKirche_Eingang_Details.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1200px-Berlin_friedrichswerdersche_kirche.jpg
+image_srcset:
+  Berlin%20friedrichswerdersche%20kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%20friedrichswerdersche%20kirche.jpg/400px-Berlin%20friedrichswerdersche%20kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%20friedrichswerdersche%20kirche.jpg/800px-Berlin%20friedrichswerdersche%20kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%20friedrichswerdersche%20kirche.jpg/1200px-Berlin%20friedrichswerdersche%20kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Berlin%20friedrichswerdersche%20kirche.jpg/1920px-Berlin%20friedrichswerdersche%20kirche.jpg
+  Berlin - Friedrichswerdersche Kirche - Apsis - Decke (9700).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg/400px-Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg/800px-Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg/1200px-Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg/1920px-Berlin_-_Friedrichswerdersche_Kirche_-_Apsis_-_Decke_(9700).jpg
+  Berlin - Friedrichswerdersche Kirche - Innenansicht (9734).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg/400px-Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg/800px-Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg/1200px-Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg/1920px-Berlin_-_Friedrichswerdersche_Kirche_-_Innenansicht_(9734).jpg
+  FriedrKirche Eingang Details.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FriedrKirche_Eingang_Details.jpg/400px-FriedrKirche_Eingang_Details.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FriedrKirche_Eingang_Details.jpg/800px-FriedrKirche_Eingang_Details.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FriedrKirche_Eingang_Details.jpg/1200px-FriedrKirche_Eingang_Details.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FriedrKirche_Eingang_Details.jpg/1920px-FriedrKirche_Eingang_Details.jpg
+  Berlin friedrichswerdersche kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/400px-Berlin_friedrichswerdersche_kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/800px-Berlin_friedrichswerdersche_kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1200px-Berlin_friedrichswerdersche_kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin_friedrichswerdersche_kirche.jpg/1920px-Berlin_friedrichswerdersche_kirche.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q113308"
 description: "Willibrordi Cathedral, a remarkable Protestant church building located in Wesel, Germany, invites visitors to explore its rich architectural and cultura..."
 images:
-  - "/images-sites/willibrordi-cathedral/01-d7ca239b-1920w.webp"
-  - "/images-sites/willibrordi-cathedral/02-db3b3191-1920w.webp"
-  - "/images-sites/willibrordi-cathedral/03-b50b731b-1920w.webp"
+  - "/images/willibrordi-cathedral/01-d7ca239b-1920w.webp"
+  - "/images/willibrordi-cathedral/02-db3b3191-1920w.webp"
+  - "/images/willibrordi-cathedral/03-b50b731b-1920w.webp"
 ---
 
 ## Overview

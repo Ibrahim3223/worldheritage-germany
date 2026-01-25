@@ -1,19 +1,49 @@
 ---
-title: "Johannes Daniel Falk memorial"
+title: Johannes Daniel Falk memorial
 date: 2026-01-23
 draft: false
-description: "monument in Weimar, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Weimar, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.98221
 longitude: 11.32824
 images:
-  - "/images-sites/johannes-daniel-falk-memorial/01-a6c5c140-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg/1200px-Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weimar-Denkmal-Falk.jpg/1200px-Weimar-Denkmal-Falk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Falk-Denkmal_Weimar_1.jpg/1200px-Falk-Denkmal_Weimar_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/WeimarFalkdenkmal.JPG/1200px-WeimarFalkdenkmal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Weimar_Falk.JPG/1200px-Weimar_Falk.JPG
+image_srcset:
+  Falk-Denkmal Weimar 3, Hintergrund Sparkasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg/400px-Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg/800px-Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg/1200px-Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg/1920px-Falk-Denkmal_Weimar_3,_Hintergrund_Sparkasse.jpg
+  Weimar-Denkmal-Falk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weimar-Denkmal-Falk.jpg/400px-Weimar-Denkmal-Falk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weimar-Denkmal-Falk.jpg/800px-Weimar-Denkmal-Falk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weimar-Denkmal-Falk.jpg/1200px-Weimar-Denkmal-Falk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Weimar-Denkmal-Falk.jpg/1920px-Weimar-Denkmal-Falk.jpg
+  Falk-Denkmal Weimar 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Falk-Denkmal_Weimar_1.jpg/400px-Falk-Denkmal_Weimar_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Falk-Denkmal_Weimar_1.jpg/800px-Falk-Denkmal_Weimar_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Falk-Denkmal_Weimar_1.jpg/1200px-Falk-Denkmal_Weimar_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Falk-Denkmal_Weimar_1.jpg/1920px-Falk-Denkmal_Weimar_1.jpg
+  WeimarFalkdenkmal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/WeimarFalkdenkmal.JPG/400px-WeimarFalkdenkmal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/WeimarFalkdenkmal.JPG/800px-WeimarFalkdenkmal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/WeimarFalkdenkmal.JPG/1200px-WeimarFalkdenkmal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/WeimarFalkdenkmal.JPG/1920px-WeimarFalkdenkmal.JPG
+  Weimar Falk.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Weimar_Falk.JPG/400px-Weimar_Falk.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Weimar_Falk.JPG/800px-Weimar_Falk.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Weimar_Falk.JPG/1200px-Weimar_Falk.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Weimar_Falk.JPG/1920px-Weimar_Falk.JPG
 ---
 
 ## Overview

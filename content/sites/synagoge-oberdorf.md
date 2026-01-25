@@ -13,7 +13,7 @@ regions:
 latitude: 48.8666
 longitude: 10.3471
 images:
-  - "/images-sites/synagoge-oberdorf/01-4e35b868-800w.webp"
+  - "/images/synagoge-oberdorf/01-4e35b868-800w.webp"
 ---
 
 ## Overview

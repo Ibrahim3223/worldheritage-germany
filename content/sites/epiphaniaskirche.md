@@ -1,24 +1,51 @@
 ---
-title: "Epiphaniaskirche"
-site_name: "Epiphaniaskirche"
-slug: "epiphaniaskirche"
-region: "Lower Saxony"
-
-# Location
+title: Epiphaniaskirche
+site_name: Epiphaniaskirche
+slug: epiphaniaskirche
+region: Lower Saxony
 latitude: 52.4153
 longitude: 9.7735
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1347194"
-description: "In the heart of Hannover, Germany, lies the Epiphaniaskirche, a modern church building that stands as a symbol of contemporary Lutheran architecture. Th..."
+- church building
+- religious site
+wikidata_id: Q1347194
+description: In the heart of Hannover, Germany, lies the Epiphaniaskirche, a modern
+  church building that stands as a symbol of contemporary Lutheran architecture. Th...
 images:
-  - "/images-sites/epiphaniaskirche/01-fc82155c-1920w.webp"
-  - "/images-sites/epiphaniaskirche/02-87109569-1920w.webp"
-  - "/images-sites/epiphaniaskirche/03-ecae8521-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg/1200px-Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg/1200px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg/1200px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg/1200px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Epiphaniaskirche.jpg/1200px-Epiphaniaskirche.jpg
+image_srcset:
+  Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg/400px-Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg/800px-Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg/1200px-Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg/1920px-Epiphaniaskirche%20im%20Sahlkamp%20%28Hannover%29%20IMG%209164.jpg
+  Mannheim-Feudenheim, Kulturkirche Epipanias (19).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg/400px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg/800px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg/1200px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg/1920px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(19).jpg
+  Mannheim-Feudenheim, Kulturkirche Epipanias (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg/400px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg/800px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg/1200px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg/1920px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(13).jpg
+  Mannheim-Feudenheim, Kulturkirche Epipanias (17).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg/400px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg/800px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg/1200px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg/1920px-Mannheim-Feudenheim,_Kulturkirche_Epipanias_(17).jpg
+  Epiphaniaskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Epiphaniaskirche.jpg/400px-Epiphaniaskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Epiphaniaskirche.jpg/800px-Epiphaniaskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Epiphaniaskirche.jpg/1200px-Epiphaniaskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Epiphaniaskirche.jpg/1920px-Epiphaniaskirche.jpg
 ---
 
 ## Overview

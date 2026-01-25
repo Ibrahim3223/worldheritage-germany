@@ -1,21 +1,49 @@
 ---
-title: "Gut Rundhof"
+title: Gut Rundhof
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.7267
 longitude: 9.84478
 images:
-  - "/images-sites/gut-rundhof/01-e3c2f97b-800w.webp"
-  - "/images-sites/gut-rundhof/02-4f5ed0d0-800w.webp"
-  - "/images-sites/gut-rundhof/03-a7861211-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/12-08_Gut_Rundhof_03.JPG/1200px-12-08_Gut_Rundhof_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Herrenhaus_Rundhof.JPG/1200px-Herrenhaus_Rundhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/1200px-Herrenhaus_Rundhof_(cropped).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rumohr_family_1785.jpg/1200px-Rumohr_family_1785.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rundhof.jpg/1200px-Rundhof.jpg
+image_srcset:
+  12-08 Gut Rundhof 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/12-08_Gut_Rundhof_03.JPG/400px-12-08_Gut_Rundhof_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/12-08_Gut_Rundhof_03.JPG/800px-12-08_Gut_Rundhof_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/12-08_Gut_Rundhof_03.JPG/1200px-12-08_Gut_Rundhof_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/12-08_Gut_Rundhof_03.JPG/1920px-12-08_Gut_Rundhof_03.JPG
+  Herrenhaus Rundhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Herrenhaus_Rundhof.JPG/400px-Herrenhaus_Rundhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Herrenhaus_Rundhof.JPG/800px-Herrenhaus_Rundhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Herrenhaus_Rundhof.JPG/1200px-Herrenhaus_Rundhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Herrenhaus_Rundhof.JPG/1920px-Herrenhaus_Rundhof.JPG
+  Herrenhaus Rundhof (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/400px-Herrenhaus_Rundhof_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/800px-Herrenhaus_Rundhof_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/1200px-Herrenhaus_Rundhof_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Herrenhaus_Rundhof_(cropped).JPG/1920px-Herrenhaus_Rundhof_(cropped).JPG
+  Rumohr family 1785.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rumohr_family_1785.jpg/400px-Rumohr_family_1785.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rumohr_family_1785.jpg/800px-Rumohr_family_1785.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rumohr_family_1785.jpg/1200px-Rumohr_family_1785.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rumohr_family_1785.jpg/1920px-Rumohr_family_1785.jpg
+  Rundhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rundhof.jpg/400px-Rundhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rundhof.jpg/800px-Rundhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rundhof.jpg/1200px-Rundhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rundhof.jpg/1920px-Rundhof.jpg
 ---
 
 ## Overview

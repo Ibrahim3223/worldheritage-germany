@@ -13,7 +13,7 @@ regions:
 latitude: 51.81251
 longitude: 10.71051
 images:
-  - "/images-sites/steinerne-renne/01-7265ff99-800w.webp"
+  - "/images/steinerne-renne/01-7265ff99-800w.webp"
 ---
 
 ## Overview

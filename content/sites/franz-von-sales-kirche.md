@@ -1,20 +1,33 @@
 ---
-title: "Franz-von-Sales-Kirche"
-site_name: "Franz-von-Sales-Kirche"
-slug: "franz-von-sales-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Franz-von-Sales-Kirche
+site_name: Franz-von-Sales-Kirche
+slug: franz-von-sales-kirche
+region: North Rhine-Westphalia
 latitude: 51.1979
 longitude: 6.81146
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1445934"
-description: "In the heart of Düsseldorf-Wersten, the Franz-von-Sales-Kirche stands as a modern architectural marvel, completed in 1969. This church, dedicated to the..."
+- church building
+- religious site
+wikidata_id: Q1445934
+description: In the heart of Düsseldorf-Wersten, the Franz-von-Sales-Kirche stands
+  as a modern architectural marvel, completed in 1969. This church, dedicated to the...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg/1200px-Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1200px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
+image_srcset:
+  Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg/400px-Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg/800px-Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg/1200px-Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg/1920px-Franz-von-Sales-Kirche%2C%20Duesseldorf.jpg
+  Franz-von-Sales-Kirche, Duesseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/400px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/800px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1200px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Franz-von-Sales-Kirche,_Duesseldorf.jpg/1920px-Franz-von-Sales-Kirche,_Duesseldorf.jpg
 ---
 
 ## Overview

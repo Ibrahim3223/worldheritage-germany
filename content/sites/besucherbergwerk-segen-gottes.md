@@ -1,19 +1,25 @@
 ---
-title: "Besucherbergwerk Segen Gottes"
+title: Besucherbergwerk Segen Gottes
 date: 2026-01-23
 draft: false
-description: "Show Mine in the Black Forest"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: Show Mine in the Black Forest
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 48.292168
 longitude: 8.085385
 images:
-  - "/images-sites/besucherbergwerk-segen-gottes/01-6d640a27-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/20120520_Segen_Gottes_13.jpg/1200px-20120520_Segen_Gottes_13.jpg
+image_srcset:
+  20120520 Segen Gottes 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/20120520_Segen_Gottes_13.jpg/400px-20120520_Segen_Gottes_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/20120520_Segen_Gottes_13.jpg/800px-20120520_Segen_Gottes_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/20120520_Segen_Gottes_13.jpg/1200px-20120520_Segen_Gottes_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/20120520_Segen_Gottes_13.jpg/1920px-20120520_Segen_Gottes_13.jpg
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Holy Name Church"
-site_name: "Holy Name Church"
-slug: "holy-name-church"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Holy Name Church
+site_name: Holy Name Church
+slug: holy-name-church
+region: North Rhine-Westphalia
 latitude: 50.736244
 longitude: 7.101253
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q477567"
-description: "Holy Name Church, an embodiment of baroque architecture, has graced the landscape of Stadtbezirk Bonn since its construction in 1686. This church, built..."
+- cultural site
+wikidata_id: Q477567
+description: Holy Name Church, an embodiment of baroque architecture, has graced the
+  landscape of Stadtbezirk Bonn since its construction in 1686. This church, built...
 images:
-  - "/images-sites/holy-name-church/01-5f33c539-1920w.webp"
-  - "/images-sites/holy-name-church/02-b384b79f-1920w.webp"
-  - "/images-sites/holy-name-church/03-2c75a777-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg/1200px-Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg/1200px-Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Holy_Name_School_in_Louisville.jpg/1200px-Holy_Name_School_in_Louisville.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_the_Holy_Name,_Boyton.jpg/1200px-Church_of_the_Holy_Name,_Boyton.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Holy_Name_Church_organ,_Manchester.jpg/1200px-Holy_Name_Church_organ,_Manchester.jpg
+image_srcset:
+  Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg/400px-Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg/800px-Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg/1200px-Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg/1920px-Bonn%2C%20Hillige%20Namme%20van%20Jezustsjerke%2C%20de%20tsjerke%20yn%20de%20Bonnergasse.jpg
+  Holy Name Church groundbreaking - DPLA - dc59404fe4d9e6f2a61cac8ef2db25d9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg/400px-Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg/800px-Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg/1200px-Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg/1920px-Holy_Name_Church_groundbreaking_-_DPLA_-_dc59404fe4d9e6f2a61cac8ef2db25d9.jpg
+  Holy Name School in Louisville.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Holy_Name_School_in_Louisville.jpg/400px-Holy_Name_School_in_Louisville.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Holy_Name_School_in_Louisville.jpg/800px-Holy_Name_School_in_Louisville.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Holy_Name_School_in_Louisville.jpg/1200px-Holy_Name_School_in_Louisville.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Holy_Name_School_in_Louisville.jpg/1920px-Holy_Name_School_in_Louisville.jpg
+  Church of the Holy Name, Boyton.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_the_Holy_Name,_Boyton.jpg/400px-Church_of_the_Holy_Name,_Boyton.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_the_Holy_Name,_Boyton.jpg/800px-Church_of_the_Holy_Name,_Boyton.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_the_Holy_Name,_Boyton.jpg/1200px-Church_of_the_Holy_Name,_Boyton.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_the_Holy_Name,_Boyton.jpg/1920px-Church_of_the_Holy_Name,_Boyton.jpg
+  Holy Name Church organ, Manchester.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Holy_Name_Church_organ,_Manchester.jpg/400px-Holy_Name_Church_organ,_Manchester.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Holy_Name_Church_organ,_Manchester.jpg/800px-Holy_Name_Church_organ,_Manchester.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Holy_Name_Church_organ,_Manchester.jpg/1200px-Holy_Name_Church_organ,_Manchester.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Holy_Name_Church_organ,_Manchester.jpg/1920px-Holy_Name_Church_organ,_Manchester.jpg
 ---
 
 ## Overview

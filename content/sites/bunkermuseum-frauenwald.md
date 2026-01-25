@@ -1,21 +1,43 @@
 ---
-title: "Bunkermuseum Frauenwald"
+title: Bunkermuseum Frauenwald
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6063
 longitude: 10.8464
 images:
-  - "/images-sites/bunkermuseum-frauenwald/01-57baefd7-800w.webp"
-  - "/images-sites/bunkermuseum-frauenwald/02-a997f4dc-800w.webp"
-  - "/images-sites/bunkermuseum-frauenwald/03-8295bbbf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bunker_Frauenwald.jpg/1200px-Bunker_Frauenwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bunkermuseum_frauenwald.jpg/1200px-Bunkermuseum_frauenwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bunkermuseum-frauenwald-1.jpg/1200px-Bunkermuseum-frauenwald-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/1200px-Bunkermuseum-frauenwald-2.jpg
+image_srcset:
+  Bunker Frauenwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bunker_Frauenwald.jpg/400px-Bunker_Frauenwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bunker_Frauenwald.jpg/800px-Bunker_Frauenwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bunker_Frauenwald.jpg/1200px-Bunker_Frauenwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bunker_Frauenwald.jpg/1920px-Bunker_Frauenwald.jpg
+  Bunkermuseum frauenwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bunkermuseum_frauenwald.jpg/400px-Bunkermuseum_frauenwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bunkermuseum_frauenwald.jpg/800px-Bunkermuseum_frauenwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bunkermuseum_frauenwald.jpg/1200px-Bunkermuseum_frauenwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bunkermuseum_frauenwald.jpg/1920px-Bunkermuseum_frauenwald.jpg
+  Bunkermuseum-frauenwald-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bunkermuseum-frauenwald-1.jpg/400px-Bunkermuseum-frauenwald-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bunkermuseum-frauenwald-1.jpg/800px-Bunkermuseum-frauenwald-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bunkermuseum-frauenwald-1.jpg/1200px-Bunkermuseum-frauenwald-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bunkermuseum-frauenwald-1.jpg/1920px-Bunkermuseum-frauenwald-1.jpg
+  Bunkermuseum-frauenwald-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/400px-Bunkermuseum-frauenwald-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/800px-Bunkermuseum-frauenwald-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/1200px-Bunkermuseum-frauenwald-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bunkermuseum-frauenwald-2.jpg/1920px-Bunkermuseum-frauenwald-2.jpg
 ---
 
 ## Overview

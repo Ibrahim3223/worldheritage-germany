@@ -1,20 +1,44 @@
 ---
-title: "Internationales Keramikmuseum"
+title: Internationales Keramikmuseum
 date: 2026-01-23
 draft: false
-description: "Weiden in der Oberpfalz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Weiden in der Oberpfalz, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.678194444
 longitude: 12.164
 images:
-  - "/images-sites/internationales-keramikmuseum/02-b451d899-800w.webp"
-  - "/images-sites/internationales-keramikmuseum/03-ae926c18-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg/1200px-Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg/1200px-Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg/1200px-Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg/1200px-Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg
+image_srcset:
+  Guido andlovitz per SCI, piatto serie maschere d'italia, rosaura, in terraglia, laveno 1948-49.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg/400px-Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg/800px-Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg/1200px-Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg/1920px-Guido_andlovitz_per_SCI,_piatto_serie_maschere_d'italia,_rosaura,_in_terraglia,_laveno_1948-49.jpg
+  ? Giappone, arita, piatto con leonessa cinese karashishi che gioca col suo cucciolo
+    tra peonie in stile nishiki, 1820-60 ca.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg/400px-Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg/800px-Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg/1200px-Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg/1920px-Giappone,_arita,_piatto_con_leonessa_cinese_karashishi_che_gioca_col_suo_cucciolo_tra_peonie_in_stile_nishiki,_1820-60_ca.jpg
+  Paesi bassi, mattonella con soldato, in maiolica, 1625-50 ca., 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg/400px-Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg/800px-Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg/1200px-Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg/1920px-Paesi_bassi,_mattonella_con_soldato,_in_maiolica,_1625-50_ca.,_03.jpg
+  Museo internazionale ceramiche Faenza - Bacheca sala ceramiche popolari e design.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg/400px-Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg/800px-Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg/1200px-Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg/1920px-Museo_internazionale_ceramiche_Faenza_-_Bacheca_sala_ceramiche_popolari_e_design.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.945111111
 longitude: 11.571444444
 images:
-  - "/images-sites/napoleonstein/01-5305196a-800w.webp"
+  - "/images/napoleonstein/01-5305196a-800w.webp"
 ---
 
 ## Overview

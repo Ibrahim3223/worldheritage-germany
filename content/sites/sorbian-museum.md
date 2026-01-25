@@ -13,7 +13,7 @@ regions:
 latitude: 51.1834
 longitude: 14.4193
 images:
-  - "/images-sites/sorbian-museum/01-54eb8c90-800w.webp"
+  - "/images/sorbian-museum/01-54eb8c90-800w.webp"
 ---
 
 ## Overview

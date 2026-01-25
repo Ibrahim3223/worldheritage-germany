@@ -1,24 +1,51 @@
 ---
-title: "Dreifaltigkeitskirche (Speyer)"
-site_name: "Dreifaltigkeitskirche (Speyer)"
-slug: "dreifaltigkeitskirche-speyer"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Dreifaltigkeitskirche (Speyer)
+site_name: Dreifaltigkeitskirche (Speyer)
+slug: dreifaltigkeitskirche-speyer
+region: Rhineland-Palatinate
 latitude: 49.3179
 longitude: 8.43951
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1257726"
-description: "In the heart of Speyer, Germany, the Dreifaltigkeitskirche stands as a striking example of Baroque architecture. This Protestant parish church, designed..."
+- church building
+- religious site
+wikidata_id: Q1257726
+description: In the heart of Speyer, Germany, the Dreifaltigkeitskirche stands as
+  a striking example of Baroque architecture. This Protestant parish church, designed...
 images:
-  - "/images-sites/dreifaltigkeitskirche-speyer/01-c02b4b1d-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-speyer/02-562b9f92-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-speyer/03-41ad8b53-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg/1200px-Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg
+image_srcset:
+  Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg/400px-Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg/800px-Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg/1200px-Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg/1920px-Speyer%20Gro%C3%9Fe%20Himmelsgasse%204%20002%202021%2002%2026.jpg
+  Speyer Große Himmelsgasse 4 001 2021 02 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg/400px-Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg/800px-Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg/1920px-Speyer_Große_Himmelsgasse_4_001_2021_02_26.jpg
+  Speyer Große Himmelsgasse 4 005 2021 02 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg/400px-Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg/800px-Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg/1920px-Speyer_Große_Himmelsgasse_4_005_2021_02_26.jpg
+  Speyer Große Himmelsgasse 4 002 2021 02 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/400px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/800px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg/1920px-Speyer_Große_Himmelsgasse_4_002_2021_02_26.jpg
+  Speyer Große Himmelsgasse 4 004 2021 02 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg/400px-Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg/800px-Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg/1200px-Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg/1920px-Speyer_Große_Himmelsgasse_4_004_2021_02_26.jpg
 ---
 
 ## Overview

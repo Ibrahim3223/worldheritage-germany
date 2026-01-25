@@ -13,8 +13,8 @@ regions:
 latitude: 52.5128
 longitude: 13.40998
 images:
-  - "/images-sites/prussian-heritage-image-archive/01-a895bb61-800w.webp"
-  - "/images-sites/prussian-heritage-image-archive/03-e2de71bc-800w.webp"
+  - "/images/prussian-heritage-image-archive/01-a895bb61-800w.webp"
+  - "/images/prussian-heritage-image-archive/03-e2de71bc-800w.webp"
 ---
 
 ## Overview

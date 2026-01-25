@@ -1,19 +1,49 @@
 ---
-title: "Ebertswiese"
+title: Ebertswiese
 date: 2026-01-23
 draft: false
-description: "Part of the Spittergrund nature reserve in Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: Part of the Spittergrund nature reserve in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7847
 longitude: 10.5342
 images:
-  - "/images-sites/ebertswiese/01-50b93d7d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schnellbach_Ebertswiese_1976-07.jpg/1200px-Schnellbach_Ebertswiese_1976-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg/1200px-Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thüringer_Wald_Ebertswiese.jpg/1200px-Thüringer_Wald_Ebertswiese.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ebertswiese_Wanderhütte.jpg/1200px-Ebertswiese_Wanderhütte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg/1200px-Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg
+image_srcset:
+  Schnellbach Ebertswiese 1976-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schnellbach_Ebertswiese_1976-07.jpg/400px-Schnellbach_Ebertswiese_1976-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schnellbach_Ebertswiese_1976-07.jpg/800px-Schnellbach_Ebertswiese_1976-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schnellbach_Ebertswiese_1976-07.jpg/1200px-Schnellbach_Ebertswiese_1976-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Schnellbach_Ebertswiese_1976-07.jpg/1920px-Schnellbach_Ebertswiese_1976-07.jpg
+  Naturschutzgebiet Spittergrund Ebertswiese lub 2025-04-15 img08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg/400px-Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg/800px-Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg/1200px-Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg/1920px-Naturschutzgebiet_Spittergrund_Ebertswiese_lub_2025-04-15_img08.jpg
+  Thüringer Wald Ebertswiese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thüringer_Wald_Ebertswiese.jpg/400px-Thüringer_Wald_Ebertswiese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thüringer_Wald_Ebertswiese.jpg/800px-Thüringer_Wald_Ebertswiese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thüringer_Wald_Ebertswiese.jpg/1200px-Thüringer_Wald_Ebertswiese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thüringer_Wald_Ebertswiese.jpg/1920px-Thüringer_Wald_Ebertswiese.jpg
+  Ebertswiese Wanderhütte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ebertswiese_Wanderhütte.jpg/400px-Ebertswiese_Wanderhütte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ebertswiese_Wanderhütte.jpg/800px-Ebertswiese_Wanderhütte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ebertswiese_Wanderhütte.jpg/1200px-Ebertswiese_Wanderhütte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ebertswiese_Wanderhütte.jpg/1920px-Ebertswiese_Wanderhütte.jpg
+  Ebertswiese im Naturschutzgebiet Spittergrund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg/400px-Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg/800px-Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg/1200px-Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg/1920px-Ebertswiese_im_Naturschutzgebiet_Spittergrund.jpg
 ---
 
 ## Overview

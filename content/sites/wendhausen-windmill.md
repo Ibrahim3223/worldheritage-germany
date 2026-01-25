@@ -13,7 +13,7 @@ regions:
 latitude: 52.316194444
 longitude: 10.63275
 images:
-  - "/images-sites/wendhausen-windmill/01-ec66c8de-800w.webp"
+  - "/images/wendhausen-windmill/01-ec66c8de-800w.webp"
 ---
 
 ## Overview

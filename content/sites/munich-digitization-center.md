@@ -13,8 +13,8 @@ regions:
 latitude: 48.14766
 longitude: 11.58076
 images:
-  - "/images-sites/munich-digitization-center/01-e09a575c-800w.webp"
-  - "/images-sites/munich-digitization-center/02-5984bb3f-800w.webp"
+  - "/images/munich-digitization-center/01-e09a575c-800w.webp"
+  - "/images/munich-digitization-center/02-5984bb3f-800w.webp"
 ---
 
 ## Overview

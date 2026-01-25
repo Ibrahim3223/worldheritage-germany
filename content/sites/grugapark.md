@@ -1,19 +1,49 @@
 ---
-title: "Grugapark"
+title: Grugapark
 date: 2026-01-23
 draft: false
-description: "park in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4281
 longitude: 6.98694
 images:
-  - "/images-sites/grugapark/01-b89ed39d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blick-ueber-Gruga-vom-Wasserfall-2015.jpg/1200px-Blick-ueber-Gruga-vom-Wasserfall-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkleuchten_2017,_Essen,_Grugapark_32.jpg/1200px-Parkleuchten_2017,_Essen,_Grugapark_32.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg/1200px-Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg/1200px-Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grugapark_Essen.JPG/1200px-Grugapark_Essen.JPG
+image_srcset:
+  Blick-ueber-Gruga-vom-Wasserfall-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blick-ueber-Gruga-vom-Wasserfall-2015.jpg/400px-Blick-ueber-Gruga-vom-Wasserfall-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blick-ueber-Gruga-vom-Wasserfall-2015.jpg/800px-Blick-ueber-Gruga-vom-Wasserfall-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blick-ueber-Gruga-vom-Wasserfall-2015.jpg/1200px-Blick-ueber-Gruga-vom-Wasserfall-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Blick-ueber-Gruga-vom-Wasserfall-2015.jpg/1920px-Blick-ueber-Gruga-vom-Wasserfall-2015.jpg
+  Parkleuchten 2017, Essen, Grugapark 32.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkleuchten_2017,_Essen,_Grugapark_32.jpg/400px-Parkleuchten_2017,_Essen,_Grugapark_32.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkleuchten_2017,_Essen,_Grugapark_32.jpg/800px-Parkleuchten_2017,_Essen,_Grugapark_32.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkleuchten_2017,_Essen,_Grugapark_32.jpg/1200px-Parkleuchten_2017,_Essen,_Grugapark_32.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Parkleuchten_2017,_Essen,_Grugapark_32.jpg/1920px-Parkleuchten_2017,_Essen,_Grugapark_32.jpg
+  Teichfrosch Pelophylax esculentus Gruga 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg/400px-Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg/800px-Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg/1200px-Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg/1920px-Teichfrosch_Pelophylax_esculentus_Gruga_003.jpg
+  Teichfrosch Pelophylax esculentus Gruga 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg/400px-Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg/800px-Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg/1200px-Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg/1920px-Teichfrosch_Pelophylax_esculentus_Gruga_002.jpg
+  Grugapark Essen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grugapark_Essen.JPG/400px-Grugapark_Essen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grugapark_Essen.JPG/800px-Grugapark_Essen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grugapark_Essen.JPG/1200px-Grugapark_Essen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grugapark_Essen.JPG/1920px-Grugapark_Essen.JPG
 ---
 
 ## Overview

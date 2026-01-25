@@ -13,7 +13,7 @@ regions:
 latitude: 50.9776
 longitude: 11.0352
 images:
-  - "/images-sites/luther-memorial-erfurt/01-cddd60f8-800w.webp"
+  - "/images/luther-memorial-erfurt/01-cddd60f8-800w.webp"
 ---
 
 ## Overview

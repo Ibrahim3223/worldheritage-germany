@@ -1,27 +1,49 @@
 ---
-title: "Bucerius Kunst Forum"
+title: Bucerius Kunst Forum
 date: 2026-01-23
 draft: false
-description: "art museum in Hamburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.5507
 longitude: 9.99104
-
-# Images
 images:
-  - "/images-sites/bucerius-kunst-forum/01-c8eaf1ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bucerius_Kunst_Forum,_Alter_Wall_12.jpg/1200px-Bucerius_Kunst_Forum,_Alter_Wall_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/1200px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lamp_in_the_Bucerius_Passage.jpg/1200px-Lamp_in_the_Bucerius_Passage.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wuerfel027-2.jpg/1200px-Wuerfel027-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bucerius_Kunst_Forum,_Hamburg-01.jpg/1200px-Bucerius_Kunst_Forum,_Hamburg-01.jpg
+image_srcset:
+  Bucerius Kunst Forum, Alter Wall 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bucerius_Kunst_Forum,_Alter_Wall_12.jpg/400px-Bucerius_Kunst_Forum,_Alter_Wall_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bucerius_Kunst_Forum,_Alter_Wall_12.jpg/800px-Bucerius_Kunst_Forum,_Alter_Wall_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bucerius_Kunst_Forum,_Alter_Wall_12.jpg/1200px-Bucerius_Kunst_Forum,_Alter_Wall_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bucerius_Kunst_Forum,_Alter_Wall_12.jpg/1920px-Bucerius_Kunst_Forum,_Alter_Wall_12.jpg
+  Bucerius Kunst Forum, Alter Wall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/400px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/800px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/1200px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bucerius_Kunst_Forum,_Alter_Wall.jpg/1920px-Bucerius_Kunst_Forum,_Alter_Wall.jpg
+  Lamp in the Bucerius Passage.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lamp_in_the_Bucerius_Passage.jpg/400px-Lamp_in_the_Bucerius_Passage.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lamp_in_the_Bucerius_Passage.jpg/800px-Lamp_in_the_Bucerius_Passage.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lamp_in_the_Bucerius_Passage.jpg/1200px-Lamp_in_the_Bucerius_Passage.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lamp_in_the_Bucerius_Passage.jpg/1920px-Lamp_in_the_Bucerius_Passage.jpg
+  Wuerfel027-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wuerfel027-2.jpg/400px-Wuerfel027-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wuerfel027-2.jpg/800px-Wuerfel027-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wuerfel027-2.jpg/1200px-Wuerfel027-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wuerfel027-2.jpg/1920px-Wuerfel027-2.jpg
+  Bucerius Kunst Forum, Hamburg-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bucerius_Kunst_Forum,_Hamburg-01.jpg/400px-Bucerius_Kunst_Forum,_Hamburg-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bucerius_Kunst_Forum,_Hamburg-01.jpg/800px-Bucerius_Kunst_Forum,_Hamburg-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bucerius_Kunst_Forum,_Hamburg-01.jpg/1200px-Bucerius_Kunst_Forum,_Hamburg-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bucerius_Kunst_Forum,_Hamburg-01.jpg/1920px-Bucerius_Kunst_Forum,_Hamburg-01.jpg
 ---
 
 ## Overview

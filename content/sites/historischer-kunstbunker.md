@@ -1,19 +1,49 @@
 ---
-title: "Historischer Kunstbunker"
+title: Historischer Kunstbunker
 date: 2026-01-23
 draft: false
-description: "building in Nuremberg, Middle Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building in Nuremberg, Middle Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4568
 longitude: 11.0754
 images:
-  - "/images-sites/historischer-kunstbunker/01-4706d329-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2019_Kunstbunker_05.jpg/1200px-2019_Kunstbunker_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2019_Kunstbunker_01.jpg/1200px-2019_Kunstbunker_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2019_Kunstbunker_03.jpg/1200px-2019_Kunstbunker_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstbunker_Nürnberg_03.jpg/1200px-Kunstbunker_Nürnberg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1200px-Kunstbunker.jpg
+image_srcset:
+  2019 Kunstbunker 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2019_Kunstbunker_05.jpg/400px-2019_Kunstbunker_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2019_Kunstbunker_05.jpg/800px-2019_Kunstbunker_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2019_Kunstbunker_05.jpg/1200px-2019_Kunstbunker_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2019_Kunstbunker_05.jpg/1920px-2019_Kunstbunker_05.jpg
+  2019 Kunstbunker 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2019_Kunstbunker_01.jpg/400px-2019_Kunstbunker_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2019_Kunstbunker_01.jpg/800px-2019_Kunstbunker_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2019_Kunstbunker_01.jpg/1200px-2019_Kunstbunker_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2019_Kunstbunker_01.jpg/1920px-2019_Kunstbunker_01.jpg
+  2019 Kunstbunker 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2019_Kunstbunker_03.jpg/400px-2019_Kunstbunker_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2019_Kunstbunker_03.jpg/800px-2019_Kunstbunker_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2019_Kunstbunker_03.jpg/1200px-2019_Kunstbunker_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2019_Kunstbunker_03.jpg/1920px-2019_Kunstbunker_03.jpg
+  Kunstbunker Nürnberg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstbunker_Nürnberg_03.jpg/400px-Kunstbunker_Nürnberg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstbunker_Nürnberg_03.jpg/800px-Kunstbunker_Nürnberg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstbunker_Nürnberg_03.jpg/1200px-Kunstbunker_Nürnberg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kunstbunker_Nürnberg_03.jpg/1920px-Kunstbunker_Nürnberg_03.jpg
+  Kunstbunker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/400px-Kunstbunker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/800px-Kunstbunker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1200px-Kunstbunker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kunstbunker.jpg/1920px-Kunstbunker.jpg
 ---
 
 ## Overview

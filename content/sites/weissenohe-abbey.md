@@ -21,9 +21,9 @@ longitude: 11.2533
 
 # Images
 images:
-  - "/images-sites/weissenohe-abbey/01-6bd3fe45-800w.webp"
-  - "/images-sites/weissenohe-abbey/02-16f5f98c-800w.webp"
-  - "/images-sites/weissenohe-abbey/03-f7069058-800w.webp"
+  - "/images/weissenohe-abbey/01-6bd3fe45-800w.webp"
+  - "/images/weissenohe-abbey/02-16f5f98c-800w.webp"
+  - "/images/weissenohe-abbey/03-f7069058-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 47.669988
 longitude: 9.584959
 images:
-  - "/images-sites/tettnang-castle/01-00607e12-800w.webp"
-  - "/images-sites/tettnang-castle/02-1a7ffd8e-800w.webp"
-  - "/images-sites/tettnang-castle/03-da2d31d3-800w.webp"
+  - "/images/tettnang-castle/01-00607e12-800w.webp"
+  - "/images/tettnang-castle/02-1a7ffd8e-800w.webp"
+  - "/images/tettnang-castle/03-da2d31d3-800w.webp"
 ---
 
 ## Overview

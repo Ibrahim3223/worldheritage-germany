@@ -13,9 +13,9 @@ regions:
 latitude: 53.2376
 longitude: 7.49683
 images:
-  - "/images-sites/philippsburg/01-f96f8faf-800w.webp"
-  - "/images-sites/philippsburg/02-5f116a95-800w.webp"
-  - "/images-sites/philippsburg/03-dc045793-800w.webp"
+  - "/images/philippsburg/01-f96f8faf-800w.webp"
+  - "/images/philippsburg/02-5f116a95-800w.webp"
+  - "/images/philippsburg/03-dc045793-800w.webp"
 ---
 
 ## Overview

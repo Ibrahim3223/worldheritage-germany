@@ -1,27 +1,49 @@
 ---
-title: "Heidetrank Oppidum"
+title: Heidetrank Oppidum
 date: 2026-01-23
 draft: false
-description: "Celtic oppidum near Oberursel in the Taunus in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Celtic oppidum near Oberursel in the Taunus in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2208
 longitude: 8.52194
-
-# Images
 images:
-  - "/images-sites/heidetrank-oppidum/01-7ba61d0d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forest_in_the_Heidetränk_Oppidum.jpg/1200px-Forest_in_the_Heidetränk_Oppidum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Forest_in_the_Heidetränk_Oppidum_2.jpg/1200px-Forest_in_the_Heidetränk_Oppidum_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1200px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiking_trail_in_the_Heidetränk_Oppidum.jpg/1200px-Hiking_trail_in_the_Heidetränk_Oppidum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heidetränk-Oppidum_Digitales_Geländemodell.jpg/1200px-Heidetränk-Oppidum_Digitales_Geländemodell.jpg
+image_srcset:
+  Forest in the Heidetränk Oppidum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forest_in_the_Heidetränk_Oppidum.jpg/400px-Forest_in_the_Heidetränk_Oppidum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forest_in_the_Heidetränk_Oppidum.jpg/800px-Forest_in_the_Heidetränk_Oppidum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forest_in_the_Heidetränk_Oppidum.jpg/1200px-Forest_in_the_Heidetränk_Oppidum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forest_in_the_Heidetränk_Oppidum.jpg/1920px-Forest_in_the_Heidetränk_Oppidum.jpg
+  Forest in the Heidetränk Oppidum 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Forest_in_the_Heidetränk_Oppidum_2.jpg/400px-Forest_in_the_Heidetränk_Oppidum_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Forest_in_the_Heidetränk_Oppidum_2.jpg/800px-Forest_in_the_Heidetränk_Oppidum_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Forest_in_the_Heidetränk_Oppidum_2.jpg/1200px-Forest_in_the_Heidetränk_Oppidum_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Forest_in_the_Heidetränk_Oppidum_2.jpg/1920px-Forest_in_the_Heidetränk_Oppidum_2.jpg
+  Heidetränk Oppidum old Celtic oppidum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/400px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/800px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1200px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heidetränk_Oppidum_old_Celtic_oppidum.jpg/1920px-Heidetränk_Oppidum_old_Celtic_oppidum.jpg
+  Hiking trail in the Heidetränk Oppidum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiking_trail_in_the_Heidetränk_Oppidum.jpg/400px-Hiking_trail_in_the_Heidetränk_Oppidum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiking_trail_in_the_Heidetränk_Oppidum.jpg/800px-Hiking_trail_in_the_Heidetränk_Oppidum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiking_trail_in_the_Heidetränk_Oppidum.jpg/1200px-Hiking_trail_in_the_Heidetränk_Oppidum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hiking_trail_in_the_Heidetränk_Oppidum.jpg/1920px-Hiking_trail_in_the_Heidetränk_Oppidum.jpg
+  Heidetränk-Oppidum Digitales Geländemodell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heidetränk-Oppidum_Digitales_Geländemodell.jpg/400px-Heidetränk-Oppidum_Digitales_Geländemodell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heidetränk-Oppidum_Digitales_Geländemodell.jpg/800px-Heidetränk-Oppidum_Digitales_Geländemodell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heidetränk-Oppidum_Digitales_Geländemodell.jpg/1200px-Heidetränk-Oppidum_Digitales_Geländemodell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Heidetränk-Oppidum_Digitales_Geländemodell.jpg/1920px-Heidetränk-Oppidum_Digitales_Geländemodell.jpg
 ---
 
 ## Overview

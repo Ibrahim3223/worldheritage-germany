@@ -13,7 +13,7 @@ regions:
 latitude: 50.93843
 longitude: 6.9829
 images:
-  - "/images-sites/lanxess-arena/02-67bfdf51-800w.webp"
+  - "/images/lanxess-arena/02-67bfdf51-800w.webp"
 ---
 
 ## Overview

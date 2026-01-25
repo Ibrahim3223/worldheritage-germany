@@ -13,9 +13,9 @@ regions:
 latitude: 52.5117489
 longitude: 13.3846272
 images:
-  - "/images-sites/statue-of-friedrich-wilhelm-von-seydlitz/01-c87eafa2-800w.webp"
-  - "/images-sites/statue-of-friedrich-wilhelm-von-seydlitz/02-f3621a24-800w.webp"
-  - "/images-sites/statue-of-friedrich-wilhelm-von-seydlitz/03-81d04377-800w.webp"
+  - "/images/statue-of-friedrich-wilhelm-von-seydlitz/01-c87eafa2-800w.webp"
+  - "/images/statue-of-friedrich-wilhelm-von-seydlitz/02-f3621a24-800w.webp"
+  - "/images/statue-of-friedrich-wilhelm-von-seydlitz/03-81d04377-800w.webp"
 ---
 
 ## Overview

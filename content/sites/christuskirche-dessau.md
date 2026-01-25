@@ -1,24 +1,40 @@
 ---
-title: "Christuskirche (Dessau)"
-site_name: "Christuskirche (Dessau)"
-slug: "christuskirche-dessau"
-region: "Brandenburg"
-
-# Location
+title: Christuskirche (Dessau)
+site_name: Christuskirche (Dessau)
+slug: christuskirche-dessau
+region: Brandenburg
 latitude: 51.8485
 longitude: 12.2224
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087291"
-description: "Christuskirche in Dessau is a striking example of Romanesque Revival architecture, inviting visitors to explore its unique historical and architectural ..."
+- church building
+- religious site
+wikidata_id: Q1087291
+description: Christuskirche in Dessau is a striking example of Romanesque Revival
+  architecture, inviting visitors to explore its unique historical and architectural
+  ...
 images:
-  - "/images-sites/christuskirche-dessau/01-ec416c45-1920w.webp"
-  - "/images-sites/christuskirche-dessau/02-f8c15f9b-1920w.webp"
-  - "/images-sites/christuskirche-dessau/03-98d4264f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/1200px-Christuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dessau-Ziebigk,Denkmal_Christuskirche.jpg/1200px-Dessau-Ziebigk,Denkmal_Christuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG/1200px-Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG
+image_srcset:
+  Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/400px-Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/800px-Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/1200px-Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christuskirche.jpg/1920px-Christuskirche.jpg
+  Dessau-Ziebigk,Denkmal Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dessau-Ziebigk,Denkmal_Christuskirche.jpg/400px-Dessau-Ziebigk,Denkmal_Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dessau-Ziebigk,Denkmal_Christuskirche.jpg/800px-Dessau-Ziebigk,Denkmal_Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dessau-Ziebigk,Denkmal_Christuskirche.jpg/1200px-Dessau-Ziebigk,Denkmal_Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dessau-Ziebigk,Denkmal_Christuskirche.jpg/1920px-Dessau-Ziebigk,Denkmal_Christuskirche.jpg
+  Dessau-Ziebigk,Denkmal Christuskirche 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG/400px-Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG/800px-Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG/1200px-Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG/1920px-Dessau-Ziebigk,Denkmal_Christuskirche_2.JPG
 ---
 
 ## Overview

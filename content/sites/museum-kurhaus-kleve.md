@@ -21,7 +21,7 @@ longitude: 6.12583
 
 # Images
 images:
-  - "/images-sites/museum-kurhaus-kleve/01-ad58e644-800w.webp"
+  - "/images/museum-kurhaus-kleve/01-ad58e644-800w.webp"
 ---
 
 ## Overview

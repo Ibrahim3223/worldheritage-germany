@@ -13,9 +13,9 @@ regions:
 latitude: 49.9144
 longitude: 10.8303
 images:
-  - "/images-sites/regnitz/01-7fb26c55-800w.webp"
-  - "/images-sites/regnitz/02-6dfc1e31-800w.webp"
-  - "/images-sites/regnitz/03-71e945d0-800w.webp"
+  - "/images/regnitz/01-7fb26c55-800w.webp"
+  - "/images/regnitz/02-6dfc1e31-800w.webp"
+  - "/images/regnitz/03-71e945d0-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Hansa Pit"
+title: Hansa Pit
 date: 2026-01-23
 draft: false
-description: "former iron mine in Germany known for its paleontology"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: former iron mine in Germany known for its paleontology
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 51.904444
 longitude: 10.513333
 images:
-  - "/images-sites/hansa-pit/01-ec8ceb6d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grube_Hansa_Harlingerode_Eingangsbereich.jpg/1200px-Grube_Hansa_Harlingerode_Eingangsbereich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grube_Hansa_Gedenklore_Göttingerode_1.jpg/1200px-Grube_Hansa_Gedenklore_Göttingerode_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Informationstafel_Grube_Hansa,_3._Juli_2022.jpg/1200px-Informationstafel_Grube_Hansa,_3._Juli_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hurlebach_Grube_Hansa.jpg/1200px-Hurlebach_Grube_Hansa.jpg
+image_srcset:
+  Grube Hansa Harlingerode Eingangsbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grube_Hansa_Harlingerode_Eingangsbereich.jpg/400px-Grube_Hansa_Harlingerode_Eingangsbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grube_Hansa_Harlingerode_Eingangsbereich.jpg/800px-Grube_Hansa_Harlingerode_Eingangsbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grube_Hansa_Harlingerode_Eingangsbereich.jpg/1200px-Grube_Hansa_Harlingerode_Eingangsbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Grube_Hansa_Harlingerode_Eingangsbereich.jpg/1920px-Grube_Hansa_Harlingerode_Eingangsbereich.jpg
+  Grube Hansa Gedenklore Göttingerode 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grube_Hansa_Gedenklore_Göttingerode_1.jpg/400px-Grube_Hansa_Gedenklore_Göttingerode_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grube_Hansa_Gedenklore_Göttingerode_1.jpg/800px-Grube_Hansa_Gedenklore_Göttingerode_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grube_Hansa_Gedenklore_Göttingerode_1.jpg/1200px-Grube_Hansa_Gedenklore_Göttingerode_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Grube_Hansa_Gedenklore_Göttingerode_1.jpg/1920px-Grube_Hansa_Gedenklore_Göttingerode_1.jpg
+  Informationstafel Grube Hansa, 3. Juli 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Informationstafel_Grube_Hansa,_3._Juli_2022.jpg/400px-Informationstafel_Grube_Hansa,_3._Juli_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Informationstafel_Grube_Hansa,_3._Juli_2022.jpg/800px-Informationstafel_Grube_Hansa,_3._Juli_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Informationstafel_Grube_Hansa,_3._Juli_2022.jpg/1200px-Informationstafel_Grube_Hansa,_3._Juli_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Informationstafel_Grube_Hansa,_3._Juli_2022.jpg/1920px-Informationstafel_Grube_Hansa,_3._Juli_2022.jpg
+  Hurlebach Grube Hansa.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hurlebach_Grube_Hansa.jpg/400px-Hurlebach_Grube_Hansa.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hurlebach_Grube_Hansa.jpg/800px-Hurlebach_Grube_Hansa.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hurlebach_Grube_Hansa.jpg/1200px-Hurlebach_Grube_Hansa.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hurlebach_Grube_Hansa.jpg/1920px-Hurlebach_Grube_Hansa.jpg
 ---
 
 ## Overview

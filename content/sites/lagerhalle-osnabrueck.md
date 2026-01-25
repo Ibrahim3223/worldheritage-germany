@@ -13,9 +13,9 @@ regions:
 latitude: 52.276191
 longitude: 8.039429
 images:
-  - "/images-sites/lagerhalle-osnabrueck/01-24e9bc5a-800w.webp"
-  - "/images-sites/lagerhalle-osnabrueck/02-ae83ed6f-800w.webp"
-  - "/images-sites/lagerhalle-osnabrueck/03-e545ac84-800w.webp"
+  - "/images/lagerhalle-osnabrueck/01-24e9bc5a-800w.webp"
+  - "/images/lagerhalle-osnabrueck/02-ae83ed6f-800w.webp"
+  - "/images/lagerhalle-osnabrueck/03-e545ac84-800w.webp"
 ---
 
 ## Overview 

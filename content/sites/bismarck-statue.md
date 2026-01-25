@@ -1,19 +1,49 @@
 ---
-title: "Bismarck Statue"
+title: Bismarck Statue
 date: 2026-01-23
 draft: false
-description: "Standbild auf dem 98 m hohen Aschberg südlich von Ascheffel in Schleswig-Holstein"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Standbild auf dem 98 m hohen Aschberg südlich von Ascheffel in Schleswig-Holstein
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 54.417472
 longitude: 9.689917
 images:
-  - "/images-sites/bismarck-statue/01-049aa9d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG/1200px-Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bismarck-Statue_Aschberg_(3).jpg/1200px-Bismarck-Statue_Aschberg_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bismarck-Statue_Aschberg_(4).jpg/1200px-Bismarck-Statue_Aschberg_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aschberg_msu2017-0667.jpg/1200px-Aschberg_msu2017-0667.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aschberg_Bismarck_2010.JPG/1200px-Aschberg_Bismarck_2010.JPG
+image_srcset:
+  Otto von Bismarck, Denkmal auf dem Aschberg (SH).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG/400px-Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG/800px-Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG/1200px-Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG/1920px-Otto_von_Bismarck,_Denkmal_auf_dem_Aschberg_(SH).JPG
+  Bismarck-Statue Aschberg (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bismarck-Statue_Aschberg_(3).jpg/400px-Bismarck-Statue_Aschberg_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bismarck-Statue_Aschberg_(3).jpg/800px-Bismarck-Statue_Aschberg_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bismarck-Statue_Aschberg_(3).jpg/1200px-Bismarck-Statue_Aschberg_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bismarck-Statue_Aschberg_(3).jpg/1920px-Bismarck-Statue_Aschberg_(3).jpg
+  Bismarck-Statue Aschberg (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bismarck-Statue_Aschberg_(4).jpg/400px-Bismarck-Statue_Aschberg_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bismarck-Statue_Aschberg_(4).jpg/800px-Bismarck-Statue_Aschberg_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bismarck-Statue_Aschberg_(4).jpg/1200px-Bismarck-Statue_Aschberg_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bismarck-Statue_Aschberg_(4).jpg/1920px-Bismarck-Statue_Aschberg_(4).jpg
+  Aschberg msu2017-0667.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aschberg_msu2017-0667.jpg/400px-Aschberg_msu2017-0667.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aschberg_msu2017-0667.jpg/800px-Aschberg_msu2017-0667.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aschberg_msu2017-0667.jpg/1200px-Aschberg_msu2017-0667.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aschberg_msu2017-0667.jpg/1920px-Aschberg_msu2017-0667.jpg
+  Aschberg Bismarck 2010.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aschberg_Bismarck_2010.JPG/400px-Aschberg_Bismarck_2010.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aschberg_Bismarck_2010.JPG/800px-Aschberg_Bismarck_2010.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aschberg_Bismarck_2010.JPG/1200px-Aschberg_Bismarck_2010.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aschberg_Bismarck_2010.JPG/1920px-Aschberg_Bismarck_2010.JPG
 ---
 
 ## Overview

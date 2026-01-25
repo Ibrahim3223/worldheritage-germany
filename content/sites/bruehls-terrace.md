@@ -1,21 +1,49 @@
 ---
-title: "Brühl's Terrace"
+title: Brühl's Terrace
 date: 2026-01-23
 draft: false
-description: "historic architectural ensemble in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: historic architectural ensemble in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.053427
 longitude: 13.740206
 images:
-  - "/images-sites/bruehls-terrace/01-70726bda-800w.webp"
-  - "/images-sites/bruehls-terrace/02-544c4b10-800w.webp"
-  - "/images-sites/bruehls-terrace/03-2f1df9e7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dresden-Carolabruecke-gp.jpg/1200px-Dresden-Carolabruecke-gp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dresden-Kunstakademie2-gp.jpg/1200px-Dresden-Kunstakademie2-gp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dresden_Brühlsche_Terrasse_1900.jpg/1200px-Dresden_Brühlsche_Terrasse_1900.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1200px-Dresden_Elbterrasse.jpg
+image_srcset:
+  Dresden-Carolabruecke-gp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dresden-Carolabruecke-gp.jpg/400px-Dresden-Carolabruecke-gp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dresden-Carolabruecke-gp.jpg/800px-Dresden-Carolabruecke-gp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dresden-Carolabruecke-gp.jpg/1200px-Dresden-Carolabruecke-gp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dresden-Carolabruecke-gp.jpg/1920px-Dresden-Carolabruecke-gp.jpg
+  Dresden-Kunstakademie2-gp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dresden-Kunstakademie2-gp.jpg/400px-Dresden-Kunstakademie2-gp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dresden-Kunstakademie2-gp.jpg/800px-Dresden-Kunstakademie2-gp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dresden-Kunstakademie2-gp.jpg/1200px-Dresden-Kunstakademie2-gp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dresden-Kunstakademie2-gp.jpg/1920px-Dresden-Kunstakademie2-gp.jpg
+  Dresden-nightpanorama-dri.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/400px-Dresden-nightpanorama-dri.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/800px-Dresden-nightpanorama-dri.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1200px-Dresden-nightpanorama-dri.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dresden-nightpanorama-dri.jpg/1920px-Dresden-nightpanorama-dri.jpg
+  Dresden Brühlsche Terrasse 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dresden_Brühlsche_Terrasse_1900.jpg/400px-Dresden_Brühlsche_Terrasse_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dresden_Brühlsche_Terrasse_1900.jpg/800px-Dresden_Brühlsche_Terrasse_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dresden_Brühlsche_Terrasse_1900.jpg/1200px-Dresden_Brühlsche_Terrasse_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dresden_Brühlsche_Terrasse_1900.jpg/1920px-Dresden_Brühlsche_Terrasse_1900.jpg
+  Dresden Elbterrasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/400px-Dresden_Elbterrasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/800px-Dresden_Elbterrasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1200px-Dresden_Elbterrasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1920px-Dresden_Elbterrasse.jpg
 ---
 
 ## Overview

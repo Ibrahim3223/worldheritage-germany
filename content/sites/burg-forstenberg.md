@@ -1,20 +1,37 @@
 ---
-title: "Burg Forstenberg"
+title: Burg Forstenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.151528
 longitude: 12.164167
 images:
-  - "/images-sites/burg-forstenberg/01-b0a37324-800w.webp"
-  - "/images-sites/burg-forstenberg/02-8b9314b8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1200px-Ruine_Forstenberg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Forstenberg-neu.PNG/1200px-Burg_Forstenberg-neu.PNG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg_Forstenberg.PNG/1200px-Burg_Forstenberg.PNG
+image_srcset:
+  Ruine Forstenberg.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/400px-Ruine_Forstenberg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/800px-Ruine_Forstenberg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1200px-Ruine_Forstenberg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ruine_Forstenberg.png/1920px-Ruine_Forstenberg.png
+  Burg Forstenberg-neu.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Forstenberg-neu.PNG/400px-Burg_Forstenberg-neu.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Forstenberg-neu.PNG/800px-Burg_Forstenberg-neu.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Forstenberg-neu.PNG/1200px-Burg_Forstenberg-neu.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Forstenberg-neu.PNG/1920px-Burg_Forstenberg-neu.PNG
+  Burg Forstenberg.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg_Forstenberg.PNG/400px-Burg_Forstenberg.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg_Forstenberg.PNG/800px-Burg_Forstenberg.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg_Forstenberg.PNG/1200px-Burg_Forstenberg.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Burg_Forstenberg.PNG/1920px-Burg_Forstenberg.PNG
 ---
 
 ## Overview

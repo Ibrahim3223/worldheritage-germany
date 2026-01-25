@@ -1,23 +1,50 @@
 ---
-title: "Alt St. Alban"
-site_name: "Alt St. Alban"
-slug: "alt-st-alban"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Alt St. Alban
+site_name: Alt St. Alban
+slug: alt-st-alban
+region: North Rhine-Westphalia
 latitude: 50.9369
 longitude: 6.95824
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q433272"
-description: "In the heart of Colognes Altstadt-Nord district, Alt St. Alban emerges as a striking example of Gothic architecture, offering a glimpse into the region’..."
+- cultural site
+wikidata_id: Q433272
+description: In the heart of Colognes Altstadt-Nord district, Alt St. Alban emerges
+  as a striking example of Gothic architecture, offering a glimpse into the region’...
 images:
-  - "/images-sites/alt-st-alban/01-6479663f-1920w.webp"
-  - "/images-sites/alt-st-alban/02-95e06dfe-1920w.webp"
-  - "/images-sites/alt-st-alban/03-f3b646d5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alt%20St.%20Alban%20%288578-80%29.jpg/1200px-Alt%20St.%20Alban%20%288578-80%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg/1200px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg/1200px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg/1200px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/1200px-Alt_St._Alban_(8578-80).jpg
+image_srcset:
+  Alt%20St.%20Alban%20%288578-80%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alt%20St.%20Alban%20%288578-80%29.jpg/400px-Alt%20St.%20Alban%20%288578-80%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alt%20St.%20Alban%20%288578-80%29.jpg/800px-Alt%20St.%20Alban%20%288578-80%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alt%20St.%20Alban%20%288578-80%29.jpg/1200px-Alt%20St.%20Alban%20%288578-80%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alt%20St.%20Alban%20%288578-80%29.jpg/1920px-Alt%20St.%20Alban%20%288578-80%29.jpg
+  Köln, Ruine -Alt St. Alban- -- 2014 -- 1904-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg/400px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg/800px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg/1200px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg/1920px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1904-5.jpg
+  Köln, Ruine -Alt St. Alban- -- 2014 -- 1907.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg/400px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg/800px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg/1200px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg/1920px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1907.jpg
+  Köln, Ruine -Alt St. Alban- -- 2014 -- 1902.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg/400px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg/800px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg/1200px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg/1920px-Köln,_Ruine_-Alt_St._Alban-_--_2014_--_1902.jpg
+  Alt St. Alban (8578-80).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/400px-Alt_St._Alban_(8578-80).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/800px-Alt_St._Alban_(8578-80).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/1200px-Alt_St._Alban_(8578-80).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alt_St._Alban_(8578-80).jpg/1920px-Alt_St._Alban_(8578-80).jpg
 ---
 
 ## Overview

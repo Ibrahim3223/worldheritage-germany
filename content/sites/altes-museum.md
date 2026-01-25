@@ -1,27 +1,50 @@
 ---
-title: "Altes Museum"
+title: Altes Museum
 date: 2026-01-23
 draft: false
-description: "antiquities museum in Berlin, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: antiquities museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.519444444
 longitude: 13.398888888
-
-# Images
 images:
-  - "/images-sites/altes-museum/01-54314556-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altes_Museum_4.jpg/1200px-Altes_Museum_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_-_Altes_Museum1.jpg/1200px-Berlin_-_Altes_Museum1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Berlin_-_Altes_Museum2.jpg/1200px-Berlin_-_Altes_Museum2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg/1200px-Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1200px-Berlín_Staré_muzeum_4.jpg
+image_srcset:
+  Altes Museum 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altes_Museum_4.jpg/400px-Altes_Museum_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altes_Museum_4.jpg/800px-Altes_Museum_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altes_Museum_4.jpg/1200px-Altes_Museum_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Altes_Museum_4.jpg/1920px-Altes_Museum_4.jpg
+  Berlin - Altes Museum1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_-_Altes_Museum1.jpg/400px-Berlin_-_Altes_Museum1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_-_Altes_Museum1.jpg/800px-Berlin_-_Altes_Museum1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_-_Altes_Museum1.jpg/1200px-Berlin_-_Altes_Museum1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_-_Altes_Museum1.jpg/1920px-Berlin_-_Altes_Museum1.jpg
+  Berlin - Altes Museum2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Berlin_-_Altes_Museum2.jpg/400px-Berlin_-_Altes_Museum2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Berlin_-_Altes_Museum2.jpg/800px-Berlin_-_Altes_Museum2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Berlin_-_Altes_Museum2.jpg/1200px-Berlin_-_Altes_Museum2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Berlin_-_Altes_Museum2.jpg/1920px-Berlin_-_Altes_Museum2.jpg
+  ? Berlin, Mitte, Berlin - Museum und Schlossbrücke; Friedrichsbrücke und Nationalgalerie;
+    Denkmal Friedrich Wilhelm III. (Zeno Ansichtskarten).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg/400px-Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg/800px-Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg/1200px-Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg/1920px-Berlin,_Mitte,_Berlin_-_Museum_und_Schlossbrücke;_Friedrichsbrücke_und_Nationalgalerie;_Denkmal_Friedrich_Wilhelm_III._(Zeno_Ansichtskarten).jpg
+  Berlín Staré muzeum 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/400px-Berlín_Staré_muzeum_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/800px-Berlín_Staré_muzeum_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1200px-Berlín_Staré_muzeum_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlín_Staré_muzeum_4.jpg/1920px-Berlín_Staré_muzeum_4.jpg
 ---
 
 ## Overview

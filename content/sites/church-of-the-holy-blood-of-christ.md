@@ -1,23 +1,50 @@
 ---
-title: "Church of the Holy Blood of Christ"
-site_name: "Church of the Holy Blood of Christ"
-slug: "church-of-the-holy-blood-of-christ"
-region: "Hesse"
-
-# Location
+title: Church of the Holy Blood of Christ
+site_name: Church of the Holy Blood of Christ
+slug: church-of-the-holy-blood-of-christ
+region: Hesse
 latitude: 49.808
 longitude: 8.05755
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q228960"
-description: "In the quaint village of Armsheim, Germany, the Church of the Holy Blood of Christ stands as a remarkable example of Gothic architecture, drawing visito..."
+- cultural site
+wikidata_id: Q228960
+description: In the quaint village of Armsheim, Germany, the Church of the Holy Blood
+  of Christ stands as a remarkable example of Gothic architecture, drawing visito...
 images:
-  - "/images-sites/church-of-the-holy-blood-of-christ/01-77e4ce8c-1920w.webp"
-  - "/images-sites/church-of-the-holy-blood-of-christ/02-ef04635e-1920w.webp"
-  - "/images-sites/church-of-the-holy-blood-of-christ/03-2c9c5e49-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Armsheim%20%E2%80%93%20ev.%20Kirche.jpg/1200px-Armsheim%20%E2%80%93%20ev.%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Armsheim,_Hillich_Bloedtsjerke.jpg/1200px-Armsheim,_Hillich_Bloedtsjerke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg/1200px-Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg/1200px-Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1200px-Armsheim_–_ev._Kirche.jpg
+image_srcset:
+  Armsheim%20%E2%80%93%20ev.%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Armsheim%20%E2%80%93%20ev.%20Kirche.jpg/400px-Armsheim%20%E2%80%93%20ev.%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Armsheim%20%E2%80%93%20ev.%20Kirche.jpg/800px-Armsheim%20%E2%80%93%20ev.%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Armsheim%20%E2%80%93%20ev.%20Kirche.jpg/1200px-Armsheim%20%E2%80%93%20ev.%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Armsheim%20%E2%80%93%20ev.%20Kirche.jpg/1920px-Armsheim%20%E2%80%93%20ev.%20Kirche.jpg
+  Armsheim, Hillich Bloedtsjerke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Armsheim,_Hillich_Bloedtsjerke.jpg/400px-Armsheim,_Hillich_Bloedtsjerke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Armsheim,_Hillich_Bloedtsjerke.jpg/800px-Armsheim,_Hillich_Bloedtsjerke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Armsheim,_Hillich_Bloedtsjerke.jpg/1200px-Armsheim,_Hillich_Bloedtsjerke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Armsheim,_Hillich_Bloedtsjerke.jpg/1920px-Armsheim,_Hillich_Bloedtsjerke.jpg
+  Armsheim, Hillich Bloedtsjerke, wetterspijer I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg/400px-Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg/800px-Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg/1200px-Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg/1920px-Armsheim,_Hillich_Bloedtsjerke,_wetterspijer_I.jpg
+  Armsheim, Hillich Bloedtsjerke, grêfplaat Siegfried Löwenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg/400px-Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg/800px-Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg/1200px-Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg/1920px-Armsheim,_Hillich_Bloedtsjerke,_grêfplaat_Siegfried_Löwenstein.jpg
+  Armsheim – ev. Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/400px-Armsheim_–_ev._Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/800px-Armsheim_–_ev._Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1200px-Armsheim_–_ev._Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Armsheim_–_ev._Kirche.jpg/1920px-Armsheim_–_ev._Kirche.jpg
 ---
 
 ## Overview

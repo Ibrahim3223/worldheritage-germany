@@ -1,23 +1,50 @@
 ---
-title: "Canisianum"
-site_name: "Canisianum"
-slug: "canisianum"
-region: "Saarland"
-
-# Location
+title: Canisianum
+site_name: Canisianum
+slug: canisianum
+region: Saarland
 latitude: 49.3156
 longitude: 6.75397
 regions:
-    - "Saarland"
-heritage_type: "cultural site"
+- Saarland
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1033323"
-description: "In the heart of Saarlouis, Germany, the Canisianum stands as a notable example of Romanesque Revival architecture. Founded in 1901, this Catholic church..."
+- cultural site
+wikidata_id: Q1033323
+description: In the heart of Saarlouis, Germany, the Canisianum stands as a notable
+  example of Romanesque Revival architecture. Founded in 1901, this Catholic church...
 images:
-  - "/images-sites/canisianum/01-46b8b8c0-1920w.webp"
-  - "/images-sites/canisianum/02-ba912865-1920w.webp"
-  - "/images-sites/canisianum/03-2e7cc81c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG/1200px-Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canisianum_Innsbruck_(IMG_1317).jpg/1200px-Canisianum_Innsbruck_(IMG_1317).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canisianum_Innsbruck_(20190601_105432).jpg/1200px-Canisianum_Innsbruck_(20190601_105432).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canisianum_Innsbruck_from_NNW.jpg/1200px-Canisianum_Innsbruck_from_NNW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Innsbruck-Tschurtschenthalerstr7.jpg/1200px-Innsbruck-Tschurtschenthalerstr7.jpg
+image_srcset:
+  Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG/400px-Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG/800px-Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG/1200px-Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG/1920px-Saarlouis%2C%20the%20church%20of%20the%20Peter%20brotherhood%20society.JPG
+  Canisianum Innsbruck (IMG 1317).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canisianum_Innsbruck_(IMG_1317).jpg/400px-Canisianum_Innsbruck_(IMG_1317).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canisianum_Innsbruck_(IMG_1317).jpg/800px-Canisianum_Innsbruck_(IMG_1317).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canisianum_Innsbruck_(IMG_1317).jpg/1200px-Canisianum_Innsbruck_(IMG_1317).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canisianum_Innsbruck_(IMG_1317).jpg/1920px-Canisianum_Innsbruck_(IMG_1317).jpg
+  Canisianum Innsbruck (20190601 105432).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canisianum_Innsbruck_(20190601_105432).jpg/400px-Canisianum_Innsbruck_(20190601_105432).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canisianum_Innsbruck_(20190601_105432).jpg/800px-Canisianum_Innsbruck_(20190601_105432).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canisianum_Innsbruck_(20190601_105432).jpg/1200px-Canisianum_Innsbruck_(20190601_105432).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canisianum_Innsbruck_(20190601_105432).jpg/1920px-Canisianum_Innsbruck_(20190601_105432).jpg
+  Canisianum Innsbruck from NNW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canisianum_Innsbruck_from_NNW.jpg/400px-Canisianum_Innsbruck_from_NNW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canisianum_Innsbruck_from_NNW.jpg/800px-Canisianum_Innsbruck_from_NNW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canisianum_Innsbruck_from_NNW.jpg/1200px-Canisianum_Innsbruck_from_NNW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Canisianum_Innsbruck_from_NNW.jpg/1920px-Canisianum_Innsbruck_from_NNW.jpg
+  Innsbruck-Tschurtschenthalerstr7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Innsbruck-Tschurtschenthalerstr7.jpg/400px-Innsbruck-Tschurtschenthalerstr7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Innsbruck-Tschurtschenthalerstr7.jpg/800px-Innsbruck-Tschurtschenthalerstr7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Innsbruck-Tschurtschenthalerstr7.jpg/1200px-Innsbruck-Tschurtschenthalerstr7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Innsbruck-Tschurtschenthalerstr7.jpg/1920px-Innsbruck-Tschurtschenthalerstr7.jpg
 ---
 
 ## Overview

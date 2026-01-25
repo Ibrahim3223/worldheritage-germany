@@ -13,7 +13,7 @@ regions:
 latitude: 47.344444444
 longitude: 10.368055555
 images:
-  - "/images-sites/rauheck/01-b8d8e8fa-800w.webp"
+  - "/images/rauheck/01-b8d8e8fa-800w.webp"
 ---
 
 ## Overview

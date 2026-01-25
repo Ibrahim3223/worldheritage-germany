@@ -13,7 +13,7 @@ regions:
 latitude: 50.99263
 longitude: 10.25764
 images:
-  - "/images-sites/unteres-schloss/01-7d16ee16-800w.webp"
+  - "/images/unteres-schloss/01-7d16ee16-800w.webp"
 ---
 
 ## Overview

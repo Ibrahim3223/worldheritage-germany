@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q14506044"
 description: "In the heart of Bavaria, Germany, the St. Vitus church stands as a stunning example of Gothic Revival architecture, crafted from enduring brick. This ch..."
 images:
-  - "/images-sites/st-vitus-gammelsdorf/01-1f6a8e3b-1920w.webp"
-  - "/images-sites/st-vitus-gammelsdorf/02-e6d1006c-1920w.webp"
-  - "/images-sites/st-vitus-gammelsdorf/03-5abb2996-1920w.webp"
+  - "/images/st-vitus-gammelsdorf/01-1f6a8e3b-1920w.webp"
+  - "/images/st-vitus-gammelsdorf/02-e6d1006c-1920w.webp"
+  - "/images/st-vitus-gammelsdorf/03-5abb2996-1920w.webp"
 ---
 
 ## Overview

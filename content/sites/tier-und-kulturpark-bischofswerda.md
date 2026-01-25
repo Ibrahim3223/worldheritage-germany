@@ -13,9 +13,9 @@ regions:
 latitude: 51.1264
 longitude: 14.1758
 images:
-  - "/images-sites/tier-und-kulturpark-bischofswerda/01-0a165a81-800w.webp"
-  - "/images-sites/tier-und-kulturpark-bischofswerda/02-5c662b65-800w.webp"
-  - "/images-sites/tier-und-kulturpark-bischofswerda/03-3ce2c37f-800w.webp"
+  - "/images/tier-und-kulturpark-bischofswerda/01-0a165a81-800w.webp"
+  - "/images/tier-und-kulturpark-bischofswerda/02-5c662b65-800w.webp"
+  - "/images/tier-und-kulturpark-bischofswerda/03-3ce2c37f-800w.webp"
 ---
 
 ## Overview

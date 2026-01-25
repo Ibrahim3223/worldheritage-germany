@@ -13,9 +13,9 @@ regions:
 latitude: 51.5689
 longitude: 7.03417
 images:
-  - "/images-sites/zeche-hugo/01-1548c996-800w.webp"
-  - "/images-sites/zeche-hugo/01-bea3fe8d-800w.webp"
-  - "/images-sites/zeche-hugo/02-1548c996-800w.webp"
+  - "/images/zeche-hugo/01-1548c996-800w.webp"
+  - "/images/zeche-hugo/01-bea3fe8d-800w.webp"
+  - "/images/zeche-hugo/02-1548c996-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.9628
 longitude: 14.0756
 images:
-  - "/images-sites/wehlgrund/01-17dd497c-800w.webp"
+  - "/images/wehlgrund/01-17dd497c-800w.webp"
 ---
 
 ## Overview

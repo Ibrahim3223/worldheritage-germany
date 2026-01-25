@@ -1,29 +1,49 @@
 ---
-title: "documenta-Halle"
+title: documenta-Halle
 date: 2026-01-23
 draft: false
-description: "building in Kassel, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: building in Kassel, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3119
 longitude: 9.49917
-
-# Images
 images:
-  - "/images-sites/documenta-halle/01-1f3e166d-800w.webp"
-  - "/images-sites/documenta-halle/02-ca3b0fe4-800w.webp"
-  - "/images-sites/documenta-halle/03-6180d7ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Documenta-Halle_de_Kassel.JPG/1200px-Documenta-Halle_de_Kassel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D15_-_documenta_Halle_2022-07-09.JPG/1200px-D15_-_documenta_Halle_2022-07-09.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/1200px-Documenta-Halle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Etel_Adnan_in_documenta_13.jpg/1200px-Etel_Adnan_in_documenta_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Documenta_halle.jpg/1200px-Documenta_halle.jpg
+image_srcset:
+  Documenta-Halle de Kassel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Documenta-Halle_de_Kassel.JPG/400px-Documenta-Halle_de_Kassel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Documenta-Halle_de_Kassel.JPG/800px-Documenta-Halle_de_Kassel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Documenta-Halle_de_Kassel.JPG/1200px-Documenta-Halle_de_Kassel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Documenta-Halle_de_Kassel.JPG/1920px-Documenta-Halle_de_Kassel.JPG
+  D15 - documenta Halle 2022-07-09.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D15_-_documenta_Halle_2022-07-09.JPG/400px-D15_-_documenta_Halle_2022-07-09.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D15_-_documenta_Halle_2022-07-09.JPG/800px-D15_-_documenta_Halle_2022-07-09.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D15_-_documenta_Halle_2022-07-09.JPG/1200px-D15_-_documenta_Halle_2022-07-09.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/D15_-_documenta_Halle_2022-07-09.JPG/1920px-D15_-_documenta_Halle_2022-07-09.JPG
+  Documenta-Halle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/400px-Documenta-Halle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/800px-Documenta-Halle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/1200px-Documenta-Halle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Documenta-Halle.jpg/1920px-Documenta-Halle.jpg
+  Etel Adnan in documenta 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Etel_Adnan_in_documenta_13.jpg/400px-Etel_Adnan_in_documenta_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Etel_Adnan_in_documenta_13.jpg/800px-Etel_Adnan_in_documenta_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Etel_Adnan_in_documenta_13.jpg/1200px-Etel_Adnan_in_documenta_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Etel_Adnan_in_documenta_13.jpg/1920px-Etel_Adnan_in_documenta_13.jpg
+  Documenta halle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Documenta_halle.jpg/400px-Documenta_halle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Documenta_halle.jpg/800px-Documenta_halle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Documenta_halle.jpg/1200px-Documenta_halle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Documenta_halle.jpg/1920px-Documenta_halle.jpg
 ---
 
 ## Overview

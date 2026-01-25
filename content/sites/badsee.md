@@ -1,19 +1,50 @@
 ---
-title: "Badsee"
+title: Badsee
 date: 2026-01-23
 draft: false
-description: "nature reserve in the municipalities of Isny im Allgäu and Argenbühl, Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in the municipalities of Isny im Allgäu and Argenbühl,
+  Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.774778
 longitude: 9.99306
 images:
-  - "/images-sites/badsee/01-c9016b67-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Isny_im_Allgäu_-_Badsee_02.JPG/1200px-Isny_im_Allgäu_-_Badsee_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1200px-Isny_im_Allgäu_-_Badsee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Badsee_1.jpg/1200px-Badsee_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Strandbad_Badsee_-_panoramio.jpg/1200px-Strandbad_Badsee_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg/1200px-Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg
+image_srcset:
+  Isny im Allgäu - Badsee 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Isny_im_Allgäu_-_Badsee_02.JPG/400px-Isny_im_Allgäu_-_Badsee_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Isny_im_Allgäu_-_Badsee_02.JPG/800px-Isny_im_Allgäu_-_Badsee_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Isny_im_Allgäu_-_Badsee_02.JPG/1200px-Isny_im_Allgäu_-_Badsee_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Isny_im_Allgäu_-_Badsee_02.JPG/1920px-Isny_im_Allgäu_-_Badsee_02.JPG
+  Isny im Allgäu - Badsee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/400px-Isny_im_Allgäu_-_Badsee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/800px-Isny_im_Allgäu_-_Badsee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1200px-Isny_im_Allgäu_-_Badsee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isny_im_Allgäu_-_Badsee.JPG/1920px-Isny_im_Allgäu_-_Badsee.JPG
+  Badsee 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Badsee_1.jpg/400px-Badsee_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Badsee_1.jpg/800px-Badsee_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Badsee_1.jpg/1200px-Badsee_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Badsee_1.jpg/1920px-Badsee_1.jpg
+  Strandbad Badsee - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Strandbad_Badsee_-_panoramio.jpg/400px-Strandbad_Badsee_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Strandbad_Badsee_-_panoramio.jpg/800px-Strandbad_Badsee_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Strandbad_Badsee_-_panoramio.jpg/1200px-Strandbad_Badsee_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Strandbad_Badsee_-_panoramio.jpg/1920px-Strandbad_Badsee_-_panoramio.jpg
+  Unterschiedliche Vegetation am Ufer des Rötelbachs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg/400px-Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg/800px-Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg/1200px-Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg/1920px-Unterschiedliche_Vegetation_am_Ufer_des_Rötelbachs.jpg
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Church of Our Saviour"
-site_name: "Church of Our Saviour"
-slug: "church-of-our-saviour"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Church of Our Saviour
+site_name: Church of Our Saviour
+slug: church-of-our-saviour
+region: North Rhine-Westphalia
 latitude: 51.435842
 longitude: 6.761117
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q316118"
-description: "The Church of Our Saviour, a remarkable example of Gothic architecture, has stood since its founding in 1316 in Duisburg, Germany. Its striking design a..."
+- cultural site
+wikidata_id: Q316118
+description: The Church of Our Saviour, a remarkable example of Gothic architecture,
+  has stood since its founding in 1316 in Duisburg, Germany. Its striking design a...
 images:
-  - "/images-sites/church-of-our-saviour/01-93fad452-1920w.webp"
-  - "/images-sites/church-of-our-saviour/02-d239dbd2-1920w.webp"
-  - "/images-sites/church-of-our-saviour/03-b71b7058-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Salvatorkirche%20in%20Duisburg.jpg/1200px-Salvatorkirche%20in%20Duisburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/1200px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Црква_„Св._Спас“_-_Праведник_(7).jpg/1200px-Црква_„Св._Спас“_-_Праведник_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/1200px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Church_of_Our_Saviour_Oatlands_06_(cropped).jpg/1200px-Church_of_Our_Saviour_Oatlands_06_(cropped).jpg
+image_srcset:
+  Salvatorkirche%20in%20Duisburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Salvatorkirche%20in%20Duisburg.jpg/400px-Salvatorkirche%20in%20Duisburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Salvatorkirche%20in%20Duisburg.jpg/800px-Salvatorkirche%20in%20Duisburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Salvatorkirche%20in%20Duisburg.jpg/1200px-Salvatorkirche%20in%20Duisburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Salvatorkirche%20in%20Duisburg.jpg/1920px-Salvatorkirche%20in%20Duisburg.jpg
+  Erlöserkirche in Aserbaidschan Baku.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/400px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/800px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/1200px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/1920px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+  Црква „Св. Спас“ - Праведник (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Црква_„Св._Спас“_-_Праведник_(7).jpg/400px-Црква_„Св._Спас“_-_Праведник_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Црква_„Св._Спас“_-_Праведник_(7).jpg/800px-Црква_„Св._Спас“_-_Праведник_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Црква_„Св._Спас“_-_Праведник_(7).jpg/1200px-Црква_„Св._Спас“_-_Праведник_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Црква_„Св._Спас“_-_Праведник_(7).jpg/1920px-Црква_„Св._Спас“_-_Праведник_(7).jpg
+  Hülfensberg Erlöserkirche St. Salvator innen 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/400px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/800px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/1200px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/1920px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+  Church of Our Saviour Oatlands 06 (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Church_of_Our_Saviour_Oatlands_06_(cropped).jpg/400px-Church_of_Our_Saviour_Oatlands_06_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Church_of_Our_Saviour_Oatlands_06_(cropped).jpg/800px-Church_of_Our_Saviour_Oatlands_06_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Church_of_Our_Saviour_Oatlands_06_(cropped).jpg/1200px-Church_of_Our_Saviour_Oatlands_06_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Church_of_Our_Saviour_Oatlands_06_(cropped).jpg/1920px-Church_of_Our_Saviour_Oatlands_06_(cropped).jpg
 ---
 
 ## Overview

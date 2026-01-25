@@ -1,20 +1,25 @@
 ---
-title: "Altfunnixsieler Mühle"
+title: Altfunnixsieler Mühle
 date: 2026-01-24
 draft: false
-description: "windmill in Funnix, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Windmill"
+description: windmill in Funnix, Germany
+region: Germany
+country: Germany
+heritage_type: Windmill
 categories:
-  - "Windmill"
+- Windmill
 regions:
-  - "Germany"
+- Germany
 latitude: 53.65232
 longitude: 7.77871
 images:
-  - "/images-sites/altfunnixsieler-muehle/01-388006dc-800w.webp"
-  - "/images-sites/altfunnixsieler-muehle/02-fe8967a3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altfunnixsiel_Mühle.JPG/1200px-Altfunnixsiel_Mühle.JPG
+image_srcset:
+  Altfunnixsiel Mühle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altfunnixsiel_Mühle.JPG/400px-Altfunnixsiel_Mühle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altfunnixsiel_Mühle.JPG/800px-Altfunnixsiel_Mühle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altfunnixsiel_Mühle.JPG/1200px-Altfunnixsiel_Mühle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altfunnixsiel_Mühle.JPG/1920px-Altfunnixsiel_Mühle.JPG
 ---
 
 ## Overview

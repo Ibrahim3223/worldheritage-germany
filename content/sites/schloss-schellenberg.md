@@ -21,7 +21,7 @@ longitude: 7.050238888
 
 # Images
 images:
-  - "/images-sites/schloss-schellenberg/01-237916cf-800w.webp"
+  - "/images/schloss-schellenberg/01-237916cf-800w.webp"
 ---
 
 ## Overview

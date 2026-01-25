@@ -13,7 +13,7 @@ regions:
 latitude: 51.3356
 longitude: 12.38626
 images:
-  - "/images-sites/peters-music-library/01-8ad27d16-800w.webp"
+  - "/images/peters-music-library/01-8ad27d16-800w.webp"
 ---
 
 ## Overview

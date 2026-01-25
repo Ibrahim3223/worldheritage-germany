@@ -13,7 +13,7 @@ regions:
 latitude: 52.583333333
 longitude: 13.266666666
 images:
-  - "/images-sites/lake-tegel/01-4c3f166c-800w.webp"
+  - "/images/lake-tegel/01-4c3f166c-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244614"
 description: "The Village Church Pinnow in Hohen Neuendorf stands as a striking example of Romanesque Revival architecture in Brandenburg, Germany. This church is not..."
 images:
-  - "/images-sites/village-church-pinnow-hohen-neuendorf/01-b8056197-1920w.webp"
-  - "/images-sites/village-church-pinnow-hohen-neuendorf/02-e1926f25-1920w.webp"
-  - "/images-sites/village-church-pinnow-hohen-neuendorf/03-a2516974-1920w.webp"
+  - "/images/village-church-pinnow-hohen-neuendorf/01-b8056197-1920w.webp"
+  - "/images/village-church-pinnow-hohen-neuendorf/02-e1926f25-1920w.webp"
+  - "/images/village-church-pinnow-hohen-neuendorf/03-a2516974-1920w.webp"
 ---
 
 ## Overview

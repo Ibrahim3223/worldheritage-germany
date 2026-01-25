@@ -13,7 +13,7 @@ regions:
 latitude: 48.5063
 longitude: 8.9825
 images:
-  - "/images-sites/sankt-remigius-kapelle/01-7ab85e29-800w.webp"
+  - "/images/sankt-remigius-kapelle/01-7ab85e29-800w.webp"
 ---
 
 ## Overview

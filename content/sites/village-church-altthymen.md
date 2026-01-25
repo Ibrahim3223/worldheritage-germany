@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244039"
 description: "The Village Church Altthymen, a striking example of Romanesque Revival architecture, stands proudly in the Oberhavel district of Brandenburg, Germany. B..."
 images:
-  - "/images-sites/village-church-altthymen/01-41c0cb39-1920w.webp"
-  - "/images-sites/village-church-altthymen/02-c5a89f42-1920w.webp"
-  - "/images-sites/village-church-altthymen/03-93f0686d-1920w.webp"
+  - "/images/village-church-altthymen/01-41c0cb39-1920w.webp"
+  - "/images/village-church-altthymen/02-c5a89f42-1920w.webp"
+  - "/images/village-church-altthymen/03-93f0686d-1920w.webp"
 ---
 
 ## Overview

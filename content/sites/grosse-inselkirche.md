@@ -1,20 +1,39 @@
 ---
-title: "Große Inselkirche"
-site_name: "Große Inselkirche"
-slug: "grosse-inselkirche"
-region: "Lower Saxony"
-
-# Location
+title: Große Inselkirche
+site_name: Große Inselkirche
+slug: grosse-inselkirche
+region: Lower Saxony
 latitude: 53.727439
 longitude: 7.371633
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1664476"
-description: "On the small island of Baltrum in Germany, the Große Inselkirche stands as a significant landmark, inviting visitors with its unique charm and historica..."
+- church building
+- religious site
+wikidata_id: Q1664476
+description: On the small island of Baltrum in Germany, the Große Inselkirche stands
+  as a significant landmark, inviting visitors with its unique charm and historica...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Baltrum%20ev%20Kirche.jpg/1200px-Baltrum%20ev%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Baltrum_Neue_Inselkirche.JPG/1200px-Baltrum_Neue_Inselkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/1200px-Baltrum_ev_Kirche.jpg
+image_srcset:
+  Baltrum%20ev%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Baltrum%20ev%20Kirche.jpg/400px-Baltrum%20ev%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Baltrum%20ev%20Kirche.jpg/800px-Baltrum%20ev%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Baltrum%20ev%20Kirche.jpg/1200px-Baltrum%20ev%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Baltrum%20ev%20Kirche.jpg/1920px-Baltrum%20ev%20Kirche.jpg
+  Baltrum Neue Inselkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Baltrum_Neue_Inselkirche.JPG/400px-Baltrum_Neue_Inselkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Baltrum_Neue_Inselkirche.JPG/800px-Baltrum_Neue_Inselkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Baltrum_Neue_Inselkirche.JPG/1200px-Baltrum_Neue_Inselkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Baltrum_Neue_Inselkirche.JPG/1920px-Baltrum_Neue_Inselkirche.JPG
+  Baltrum ev Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/400px-Baltrum_ev_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/800px-Baltrum_ev_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/1200px-Baltrum_ev_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Baltrum_ev_Kirche.jpg/1920px-Baltrum_ev_Kirche.jpg
 ---
 
 ## Overview

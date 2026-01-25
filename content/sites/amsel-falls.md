@@ -1,21 +1,49 @@
 ---
-title: "Amsel Falls"
+title: Amsel Falls
 date: 2026-01-24
 draft: false
-description: "waterfall in Lohmen in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: waterfall in Lohmen in Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.971944444
 longitude: 14.073611111
 images:
-  - "/images-sites/amsel-falls/01-c900c76d-800w.webp"
-  - "/images-sites/amsel-falls/02-d50f7a69-800w.webp"
-  - "/images-sites/amsel-falls/03-46a1260f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amsel_fd_(2).jpg/1200px-Amsel_fd_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1200px-Hohenstein_-_Amsel-Wasserfall03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/19700818360NR_Rathen_Amselgrund_Amselfall.jpg/1200px-19700818360NR_Rathen_Amselgrund_Amselfall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amselfall_(01).JPG/1200px-Amselfall_(01).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg/1200px-Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg
+image_srcset:
+  Amsel fd (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amsel_fd_(2).jpg/400px-Amsel_fd_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amsel_fd_(2).jpg/800px-Amsel_fd_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amsel_fd_(2).jpg/1200px-Amsel_fd_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Amsel_fd_(2).jpg/1920px-Amsel_fd_(2).jpg
+  Hohenstein - Amsel-Wasserfall03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/400px-Hohenstein_-_Amsel-Wasserfall03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/800px-Hohenstein_-_Amsel-Wasserfall03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1200px-Hohenstein_-_Amsel-Wasserfall03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hohenstein_-_Amsel-Wasserfall03.jpg/1920px-Hohenstein_-_Amsel-Wasserfall03.jpg
+  19700818360NR Rathen Amselgrund Amselfall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/19700818360NR_Rathen_Amselgrund_Amselfall.jpg/400px-19700818360NR_Rathen_Amselgrund_Amselfall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/19700818360NR_Rathen_Amselgrund_Amselfall.jpg/800px-19700818360NR_Rathen_Amselgrund_Amselfall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/19700818360NR_Rathen_Amselgrund_Amselfall.jpg/1200px-19700818360NR_Rathen_Amselgrund_Amselfall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/19700818360NR_Rathen_Amselgrund_Amselfall.jpg/1920px-19700818360NR_Rathen_Amselgrund_Amselfall.jpg
+  Amselfall (01).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amselfall_(01).JPG/400px-Amselfall_(01).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amselfall_(01).JPG/800px-Amselfall_(01).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amselfall_(01).JPG/1200px-Amselfall_(01).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amselfall_(01).JPG/1920px-Amselfall_(01).JPG
+  Uttewalde, Sachsen - Amselfall; Basteibrücke vom Ferdinandstein; Felsentor (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg/400px-Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg/800px-Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg/1200px-Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg/1920px-Uttewalde,_Sachsen_-_Amselfall;_Basteibrücke_vom_Ferdinandstein;_Felsentor_(Zeno_Ansichtskarten).jpg
 ---
 
 ## Overview

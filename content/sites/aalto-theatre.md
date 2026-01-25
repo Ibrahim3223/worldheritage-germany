@@ -1,19 +1,49 @@
 ---
-title: "Aalto Theatre"
+title: Aalto Theatre
 date: 2026-01-23
 draft: false
-description: "opera house in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: opera house in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.446944444
 longitude: 7.012777777
 images:
-  - "/images-sites/aalto-theatre/01-0a306202-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Park_Aalto-Theater_Rundumsicht.jpg/1200px-Park_Aalto-Theater_Rundumsicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1200px-Aalto-Theater-Abends-02-2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essen,_Aalto-Theater,_2017-04_CN-03.jpg/1200px-Essen,_Aalto-Theater,_2017-04_CN-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aalto_Theater_02_2014.jpg/1200px-Aalto_Theater_02_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aalto-Theater_02.jpg/1200px-Aalto-Theater_02.jpg
+image_srcset:
+  Park Aalto-Theater Rundumsicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Park_Aalto-Theater_Rundumsicht.jpg/400px-Park_Aalto-Theater_Rundumsicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Park_Aalto-Theater_Rundumsicht.jpg/800px-Park_Aalto-Theater_Rundumsicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Park_Aalto-Theater_Rundumsicht.jpg/1200px-Park_Aalto-Theater_Rundumsicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Park_Aalto-Theater_Rundumsicht.jpg/1920px-Park_Aalto-Theater_Rundumsicht.jpg
+  Aalto-Theater-Abends-02-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/400px-Aalto-Theater-Abends-02-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/800px-Aalto-Theater-Abends-02-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1200px-Aalto-Theater-Abends-02-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aalto-Theater-Abends-02-2014.jpg/1920px-Aalto-Theater-Abends-02-2014.jpg
+  Essen, Aalto-Theater, 2017-04 CN-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essen,_Aalto-Theater,_2017-04_CN-03.jpg/400px-Essen,_Aalto-Theater,_2017-04_CN-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essen,_Aalto-Theater,_2017-04_CN-03.jpg/800px-Essen,_Aalto-Theater,_2017-04_CN-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essen,_Aalto-Theater,_2017-04_CN-03.jpg/1200px-Essen,_Aalto-Theater,_2017-04_CN-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Essen,_Aalto-Theater,_2017-04_CN-03.jpg/1920px-Essen,_Aalto-Theater,_2017-04_CN-03.jpg
+  Aalto Theater 02 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aalto_Theater_02_2014.jpg/400px-Aalto_Theater_02_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aalto_Theater_02_2014.jpg/800px-Aalto_Theater_02_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aalto_Theater_02_2014.jpg/1200px-Aalto_Theater_02_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aalto_Theater_02_2014.jpg/1920px-Aalto_Theater_02_2014.jpg
+  Aalto-Theater 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aalto-Theater_02.jpg/400px-Aalto-Theater_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aalto-Theater_02.jpg/800px-Aalto-Theater_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aalto-Theater_02.jpg/1200px-Aalto-Theater_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aalto-Theater_02.jpg/1920px-Aalto-Theater_02.jpg
 ---
 
 ## Overview

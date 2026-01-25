@@ -13,7 +13,7 @@ regions:
 latitude: 53.55638889
 longitude: 9.9775
 images:
-  - "/images-sites/ziviljustizgebaeude/01-d4ac3f9f-800w.webp"
+  - "/images/ziviljustizgebaeude/01-d4ac3f9f-800w.webp"
 ---
 
 ## Overview

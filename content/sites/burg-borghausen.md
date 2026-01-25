@@ -1,19 +1,43 @@
 ---
-title: "Burg Borghausen"
+title: Burg Borghausen
 date: 2026-01-23
 draft: false
-description: "castle ruin close to Attendorn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle ruin close to Attendorn, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1478
 longitude: 7.99611
 images:
-  - "/images-sites/burg-borghausen/01-8b09a7c1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruine_Burg_Borghausen.jpg/1200px-Ruine_Burg_Borghausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Turm_Ruine_Burg_Borghausen.jpg/1200px-Turm_Ruine_Burg_Borghausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruine_Borghausen-1936.jpg/1200px-Ruine_Borghausen-1936.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Historika25_Borghausen_1840.jpg/1200px-Historika25_Borghausen_1840.jpg
+image_srcset:
+  Ruine Burg Borghausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruine_Burg_Borghausen.jpg/400px-Ruine_Burg_Borghausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruine_Burg_Borghausen.jpg/800px-Ruine_Burg_Borghausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruine_Burg_Borghausen.jpg/1200px-Ruine_Burg_Borghausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruine_Burg_Borghausen.jpg/1920px-Ruine_Burg_Borghausen.jpg
+  Turm Ruine Burg Borghausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Turm_Ruine_Burg_Borghausen.jpg/400px-Turm_Ruine_Burg_Borghausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Turm_Ruine_Burg_Borghausen.jpg/800px-Turm_Ruine_Burg_Borghausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Turm_Ruine_Burg_Borghausen.jpg/1200px-Turm_Ruine_Burg_Borghausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Turm_Ruine_Burg_Borghausen.jpg/1920px-Turm_Ruine_Burg_Borghausen.jpg
+  Ruine Borghausen-1936.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruine_Borghausen-1936.jpg/400px-Ruine_Borghausen-1936.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruine_Borghausen-1936.jpg/800px-Ruine_Borghausen-1936.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruine_Borghausen-1936.jpg/1200px-Ruine_Borghausen-1936.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruine_Borghausen-1936.jpg/1920px-Ruine_Borghausen-1936.jpg
+  Historika25 Borghausen 1840.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Historika25_Borghausen_1840.jpg/400px-Historika25_Borghausen_1840.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Historika25_Borghausen_1840.jpg/800px-Historika25_Borghausen_1840.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Historika25_Borghausen_1840.jpg/1200px-Historika25_Borghausen_1840.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Historika25_Borghausen_1840.jpg/1920px-Historika25_Borghausen_1840.jpg
 ---
 
 ## Overview

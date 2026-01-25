@@ -1,20 +1,49 @@
 ---
-title: "Hölderlinturm"
+title: Hölderlinturm
 date: 2026-01-24
 draft: false
-description: "building in Tübingen, Tübingen Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: building in Tübingen, Tübingen Government Region, Bade-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 48.519344
 longitude: 9.055728
 images:
-  - "/images-sites/hoelderlinturm/02-fa1e6d60-800w.webp"
-  - "/images-sites/hoelderlinturm/03-442278ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg/1200px-Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg/1200px-Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hölderlinturm_Tübingen_Juli_2016.jpg/1200px-Hölderlinturm_Tübingen_Juli_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg/1200px-Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HölderlinturmTübingen.jpg/1200px-HölderlinturmTübingen.jpg
+image_srcset:
+  Tübingen - Altstadt - Neckarfront - Hölderlinturm und Nachbargebäude als Spiegelung im Neckar (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg/400px-Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg/800px-Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg/1200px-Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg/1920px-Tübingen_-_Altstadt_-_Neckarfront_-_Hölderlinturm_und_Nachbargebäude_als_Spiegelung_im_Neckar_(1).jpg
+  Tübingen Hölderlinturm BW 2015-04-27 15-27-51.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg/400px-Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg/800px-Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg/1200px-Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg/1920px-Tübingen_Hölderlinturm_BW_2015-04-27_15-27-51.jpg
+  Hölderlinturm Tübingen Juli 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hölderlinturm_Tübingen_Juli_2016.jpg/400px-Hölderlinturm_Tübingen_Juli_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hölderlinturm_Tübingen_Juli_2016.jpg/800px-Hölderlinturm_Tübingen_Juli_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hölderlinturm_Tübingen_Juli_2016.jpg/1200px-Hölderlinturm_Tübingen_Juli_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hölderlinturm_Tübingen_Juli_2016.jpg/1920px-Hölderlinturm_Tübingen_Juli_2016.jpg
+  Neckarfront Tübingen Ensemble Tübingen Februar 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg/400px-Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg/800px-Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg/1200px-Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg/1920px-Neckarfront_Tübingen_Ensemble_Tübingen_Februar_2019.jpg
+  HölderlinturmTübingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HölderlinturmTübingen.jpg/400px-HölderlinturmTübingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HölderlinturmTübingen.jpg/800px-HölderlinturmTübingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HölderlinturmTübingen.jpg/1200px-HölderlinturmTübingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HölderlinturmTübingen.jpg/1920px-HölderlinturmTübingen.jpg
 ---
 
 ## Overview

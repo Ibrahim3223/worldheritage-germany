@@ -1,20 +1,49 @@
 ---
-title: "Breg"
+title: Breg
 date: 2026-01-23
 draft: false
-description: "river in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 48.095452777
 longitude: 8.155108333
 images:
-  - "/images-sites/breg/01-bf4a20d0-800w.webp"
-  - "/images-sites/breg/03-136ff28b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porträt_von_Nancy_Faeser_2023.jpg/1200px-Porträt_von_Nancy_Faeser_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bregquelle_01.jpg/1200px-Bregquelle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/1200px-DE_VS_Brigach_Breg_confluence.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanzler21a.jpg/1200px-Kanzler21a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg/1200px--Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg
+image_srcset:
+  Porträt von Nancy Faeser 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porträt_von_Nancy_Faeser_2023.jpg/400px-Porträt_von_Nancy_Faeser_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porträt_von_Nancy_Faeser_2023.jpg/800px-Porträt_von_Nancy_Faeser_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porträt_von_Nancy_Faeser_2023.jpg/1200px-Porträt_von_Nancy_Faeser_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porträt_von_Nancy_Faeser_2023.jpg/1920px-Porträt_von_Nancy_Faeser_2023.jpg
+  Bregquelle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bregquelle_01.jpg/400px-Bregquelle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bregquelle_01.jpg/800px-Bregquelle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bregquelle_01.jpg/1200px-Bregquelle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bregquelle_01.jpg/1920px-Bregquelle_01.jpg
+  DE VS Brigach Breg confluence.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/400px-DE_VS_Brigach_Breg_confluence.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/800px-DE_VS_Brigach_Breg_confluence.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/1200px-DE_VS_Brigach_Breg_confluence.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/DE_VS_Brigach_Breg_confluence.jpg/1920px-DE_VS_Brigach_Breg_confluence.jpg
+  Kanzler21a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanzler21a.jpg/400px-Kanzler21a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanzler21a.jpg/800px-Kanzler21a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanzler21a.jpg/1200px-Kanzler21a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanzler21a.jpg/1920px-Kanzler21a.jpg
+  -Bundesarchiv B 145 Bild-P090947, Bonn, Sitzung des Bundeskabinetts-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg/400px--Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg/800px--Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg/1200px--Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg/1920px--Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg
 ---
 
 ## Overview

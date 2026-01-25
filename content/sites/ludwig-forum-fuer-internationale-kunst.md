@@ -21,7 +21,7 @@ longitude: 6.10194444
 
 # Images
 images:
-  - "/images-sites/ludwig-forum-fuer-internationale-kunst/01-fd626228-800w.webp"
+  - "/images/ludwig-forum-fuer-internationale-kunst/01-fd626228-800w.webp"
 ---
 
 ## Overview

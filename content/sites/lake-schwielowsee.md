@@ -13,7 +13,7 @@ regions:
 latitude: 52.337752
 longitude: 12.954941
 images:
-  - "/images-sites/lake-schwielowsee/01-170c6608-800w.webp"
+  - "/images/lake-schwielowsee/01-170c6608-800w.webp"
 ---
 
 ## Overview

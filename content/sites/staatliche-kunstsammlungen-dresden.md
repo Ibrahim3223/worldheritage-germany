@@ -21,8 +21,8 @@ longitude: 13.7369
 
 # Images
 images:
-  - "/images-sites/staatliche-kunstsammlungen-dresden/02-01e35248-800w.webp"
-  - "/images-sites/staatliche-kunstsammlungen-dresden/03-c4e6ad6d-800w.webp"
+  - "/images/staatliche-kunstsammlungen-dresden/02-01e35248-800w.webp"
+  - "/images/staatliche-kunstsammlungen-dresden/03-c4e6ad6d-800w.webp"
 ---
 
 ## Overview

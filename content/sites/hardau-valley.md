@@ -1,19 +1,25 @@
 ---
-title: "Hardau Valley"
+title: Hardau Valley
 date: 2026-01-24
 draft: false
-description: "valley in Lower Saxony"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Lower Saxony
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 52.901270277
 longitude: 10.465869444
 images:
-  - "/images-sites/hardau-valley/01-c04b88f3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG/1200px-Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG
+image_srcset:
+  Landschaftsschutzgebiet Blaue Berge mit Hardautal (LSG UE 00013).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG/400px-Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG/800px-Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG/1200px-Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG/1920px-Landschaftsschutzgebiet_Blaue_Berge_mit_Hardautal_(LSG_UE_00013).JPG
 ---
 
 ## Overview

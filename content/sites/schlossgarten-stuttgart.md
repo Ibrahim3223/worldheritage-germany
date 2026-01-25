@@ -13,7 +13,7 @@ regions:
 latitude: 48.7844
 longitude: 9.18639
 images:
-  - "/images-sites/schlossgarten-stuttgart/01-c6a955a7-800w.webp"
+  - "/images/schlossgarten-stuttgart/01-c6a955a7-800w.webp"
 ---
 
 ## Overview

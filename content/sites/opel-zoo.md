@@ -13,7 +13,7 @@ regions:
 latitude: 50.183333333
 longitude: 8.486388888
 images:
-  - "/images-sites/opel-zoo/01-1d83c8ae-800w.webp"
+  - "/images/opel-zoo/01-1d83c8ae-800w.webp"
 ---
 
 ## Overview

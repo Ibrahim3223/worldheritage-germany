@@ -21,9 +21,9 @@ longitude: 10.4011
 
 # Images
 images:
-  - "/images-sites/leuphana-university-of-lueneburg/01-44739c5e-800w.webp"
-  - "/images-sites/leuphana-university-of-lueneburg/02-f7f5f8ac-800w.webp"
-  - "/images-sites/leuphana-university-of-lueneburg/03-def4f798-800w.webp"
+  - "/images/leuphana-university-of-lueneburg/01-44739c5e-800w.webp"
+  - "/images/leuphana-university-of-lueneburg/02-f7f5f8ac-800w.webp"
+  - "/images/leuphana-university-of-lueneburg/03-def4f798-800w.webp"
 ---
 
 ## Overview

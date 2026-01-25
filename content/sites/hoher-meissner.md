@@ -1,19 +1,49 @@
 ---
-title: "Hoher Meissner"
+title: Hoher Meissner
 date: 2026-01-23
 draft: false
-description: "German mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: German mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.207777777
 longitude: 9.847222222
 images:
-  - "/images-sites/hoher-meissner/01-3cf7db7a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg/1200px-Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg/1200px-Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg/1200px-Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg/1200px-View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg/1200px-View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg
+image_srcset:
+  Point of view "Tagebau Kalbe" at Hoher Meißner 1 view to the south.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg/400px-Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg/800px-Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg/1200px-Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg/1920px-Point_of_view_"Tagebau_Kalbe"_at_Hoher_Meißner_1_view_to_the_south.jpg
+  Der Hohe Meißner vom Bilstein von NNW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg/400px-Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg/800px-Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg/1200px-Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg/1920px-Der_Hohe_Meißner_vom_Bilstein_von_NNW.jpg
+  Hiking trail P1 "Hoher Meißner", nature park Frau-Holle-Land in Hesse 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg/400px-Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg/800px-Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg/1200px-Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg/1920px-Hiking_trail_P1_"Hoher_Meißner",_nature_park_Frau-Holle-Land_in_Hesse_1.jpg
+  View of Wolfterode and the Hohe Meißner seen from the east 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg/400px-View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg/800px-View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg/1200px-View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg/1920px-View_of_Wolfterode_and_the_Hohe_Meißner_seen_from_the_east_1.jpg
+  View to the Stinksteinwand and fromer coal mine Kalbe, Hoher Meißner, Hesse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg/400px-View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg/800px-View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg/1200px-View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg/1920px-View_to_the_Stinksteinwand_and_fromer_coal_mine_Kalbe,_Hoher_Meißner,_Hesse.jpg
 ---
 
 ## Overview

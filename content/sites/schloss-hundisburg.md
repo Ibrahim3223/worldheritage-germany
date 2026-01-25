@@ -21,7 +21,7 @@ longitude: 11.400247
 
 # Images
 images:
-  - "/images-sites/schloss-hundisburg/01-d7fc5e3b-800w.webp"
+  - "/images/schloss-hundisburg/01-d7fc5e3b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.2826
 longitude: 8.12756
 images:
-  - "/images-sites/lederstrumpfbrunnen/01-b724415d-800w.webp"
+  - "/images/lederstrumpfbrunnen/01-b724415d-800w.webp"
 ---
 
 ## Overview

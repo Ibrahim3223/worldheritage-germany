@@ -1,29 +1,49 @@
 ---
-title: "City Museum Simeonstift, Trier"
+title: City Museum Simeonstift, Trier
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7597
 longitude: 6.64333
-
-# Images
 images:
-  - "/images-sites/city-museum-simeonstift-trier/01-f46b73d8-800w.webp"
-  - "/images-sites/city-museum-simeonstift-trier/02-d5a7856b-800w.webp"
-  - "/images-sites/city-museum-simeonstift-trier/03-d6544471-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Trier_Ritter_Steipe_Stadtmuseum.jpg/1200px-Trier_Ritter_Steipe_Stadtmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stadtmuseum_Simeonstift_Eingang.jpg/1200px-Stadtmuseum_Simeonstift_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg/1200px-Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/1200px-Trier_BW_2013-09-30_11-19-47.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trier_Marktkreuz_Stadtmuseum_(1).jpg/1200px-Trier_Marktkreuz_Stadtmuseum_(1).jpg
+image_srcset:
+  Trier Ritter Steipe Stadtmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Trier_Ritter_Steipe_Stadtmuseum.jpg/400px-Trier_Ritter_Steipe_Stadtmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Trier_Ritter_Steipe_Stadtmuseum.jpg/800px-Trier_Ritter_Steipe_Stadtmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Trier_Ritter_Steipe_Stadtmuseum.jpg/1200px-Trier_Ritter_Steipe_Stadtmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Trier_Ritter_Steipe_Stadtmuseum.jpg/1920px-Trier_Ritter_Steipe_Stadtmuseum.jpg
+  Stadtmuseum Simeonstift Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stadtmuseum_Simeonstift_Eingang.jpg/400px-Stadtmuseum_Simeonstift_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stadtmuseum_Simeonstift_Eingang.jpg/800px-Stadtmuseum_Simeonstift_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stadtmuseum_Simeonstift_Eingang.jpg/1200px-Stadtmuseum_Simeonstift_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Stadtmuseum_Simeonstift_Eingang.jpg/1920px-Stadtmuseum_Simeonstift_Eingang.jpg
+  Trier Stadtmuseum Clemens Wenzeslaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg/400px-Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg/800px-Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg/1200px-Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg/1920px-Trier_Stadtmuseum_Clemens_Wenzeslaus.jpg
+  Trier BW 2013-09-30 11-19-47.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/400px-Trier_BW_2013-09-30_11-19-47.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/800px-Trier_BW_2013-09-30_11-19-47.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/1200px-Trier_BW_2013-09-30_11-19-47.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trier_BW_2013-09-30_11-19-47.JPG/1920px-Trier_BW_2013-09-30_11-19-47.JPG
+  Trier Marktkreuz Stadtmuseum (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trier_Marktkreuz_Stadtmuseum_(1).jpg/400px-Trier_Marktkreuz_Stadtmuseum_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trier_Marktkreuz_Stadtmuseum_(1).jpg/800px-Trier_Marktkreuz_Stadtmuseum_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trier_Marktkreuz_Stadtmuseum_(1).jpg/1200px-Trier_Marktkreuz_Stadtmuseum_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Trier_Marktkreuz_Stadtmuseum_(1).jpg/1920px-Trier_Marktkreuz_Stadtmuseum_(1).jpg
 ---
 
 ## Overview

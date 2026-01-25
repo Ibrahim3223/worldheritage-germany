@@ -1,27 +1,49 @@
 ---
-title: "Faller-Klamm-Brücke"
+title: Faller-Klamm-Brücke
 date: 2026-01-23
 draft: false
-description: "bridge"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Bridge"
-
-# Taxonomies
+description: bridge
+region: Germany
+country: Germany
+heritage_type: Bridge
 categories:
-  - "Bridge"
+- Bridge
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.5763
 longitude: 11.5373
-
-# Images
 images:
-  - "/images-sites/faller-klamm-bruecke/01-386ab82e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210619_Sylvensteinspeicher_12.jpg/1200px-20210619_Sylvensteinspeicher_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20210619_Sylvensteinspeicher_08.jpg/1200px-20210619_Sylvensteinspeicher_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sylvensteinsee_Bayern.jpg/1200px-Sylvensteinsee_Bayern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sylvensteinspeicher_-_panoramio.jpg/1200px-Sylvensteinspeicher_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sylvensteinbruecke.jpg/1200px-Sylvensteinbruecke.jpg
+image_srcset:
+  20210619 Sylvensteinspeicher 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210619_Sylvensteinspeicher_12.jpg/400px-20210619_Sylvensteinspeicher_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210619_Sylvensteinspeicher_12.jpg/800px-20210619_Sylvensteinspeicher_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210619_Sylvensteinspeicher_12.jpg/1200px-20210619_Sylvensteinspeicher_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/20210619_Sylvensteinspeicher_12.jpg/1920px-20210619_Sylvensteinspeicher_12.jpg
+  20210619 Sylvensteinspeicher 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20210619_Sylvensteinspeicher_08.jpg/400px-20210619_Sylvensteinspeicher_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20210619_Sylvensteinspeicher_08.jpg/800px-20210619_Sylvensteinspeicher_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20210619_Sylvensteinspeicher_08.jpg/1200px-20210619_Sylvensteinspeicher_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20210619_Sylvensteinspeicher_08.jpg/1920px-20210619_Sylvensteinspeicher_08.jpg
+  Sylvensteinsee Bayern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sylvensteinsee_Bayern.jpg/400px-Sylvensteinsee_Bayern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sylvensteinsee_Bayern.jpg/800px-Sylvensteinsee_Bayern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sylvensteinsee_Bayern.jpg/1200px-Sylvensteinsee_Bayern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sylvensteinsee_Bayern.jpg/1920px-Sylvensteinsee_Bayern.jpg
+  Sylvensteinspeicher - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sylvensteinspeicher_-_panoramio.jpg/400px-Sylvensteinspeicher_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sylvensteinspeicher_-_panoramio.jpg/800px-Sylvensteinspeicher_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sylvensteinspeicher_-_panoramio.jpg/1200px-Sylvensteinspeicher_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sylvensteinspeicher_-_panoramio.jpg/1920px-Sylvensteinspeicher_-_panoramio.jpg
+  Sylvensteinbruecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sylvensteinbruecke.jpg/400px-Sylvensteinbruecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sylvensteinbruecke.jpg/800px-Sylvensteinbruecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sylvensteinbruecke.jpg/1200px-Sylvensteinbruecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sylvensteinbruecke.jpg/1920px-Sylvensteinbruecke.jpg
 ---
 
 ## Overview

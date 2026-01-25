@@ -13,7 +13,7 @@ regions:
 latitude: 49.75
 longitude: 6.63306
 images:
-  - "/images-sites/roman-monuments-cathedral-of-st-peter-and-church-of-our-lady-in-trier-unesco-wor/01-0f52b5d1-800w.webp"
+  - "/images/roman-monuments-cathedral-of-st-peter-and-church-of-our-lady-in-trier-unesco-wor/01-0f52b5d1-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1708278"
 description: "Located in the picturesque region of Karlsburg in Mecklenburg-Vorpommern, Germany, Kirche Zarnekow is a striking example of Gothic architecture. This ch..."
 images:
-  - "/images-sites/kirche-zarnekow/01-618805e1-1920w.webp"
-  - "/images-sites/kirche-zarnekow/02-6d999a0a-1920w.webp"
-  - "/images-sites/kirche-zarnekow/03-dd3ed57c-1920w.webp"
+  - "/images/kirche-zarnekow/01-618805e1-1920w.webp"
+  - "/images/kirche-zarnekow/02-6d999a0a-1920w.webp"
+  - "/images/kirche-zarnekow/03-dd3ed57c-1920w.webp"
 ---
 
 ## Overview

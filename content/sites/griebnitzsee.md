@@ -1,19 +1,49 @@
 ---
-title: "Griebnitzsee"
+title: Griebnitzsee
 date: 2026-01-23
 draft: false
-description: "lake in Babelsberg, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Babelsberg, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3975
 longitude: 13.123888888
 images:
-  - "/images-sites/griebnitzsee/01-73b2b279-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Griebnitzsee_with_snow_2021-01-30_04.jpg/1200px-Griebnitzsee_with_snow_2021-01-30_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Griebnitzsee_with_snow_2021-01-30_16.jpg/1200px-Griebnitzsee_with_snow_2021-01-30_16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Griebnitzsee_with_snow_2021-01-30_17.jpg/1200px-Griebnitzsee_with_snow_2021-01-30_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Griebnitzsee.jpg/1200px-Griebnitzsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg/1200px-S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg
+image_srcset:
+  Griebnitzsee with snow 2021-01-30 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Griebnitzsee_with_snow_2021-01-30_04.jpg/400px-Griebnitzsee_with_snow_2021-01-30_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Griebnitzsee_with_snow_2021-01-30_04.jpg/800px-Griebnitzsee_with_snow_2021-01-30_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Griebnitzsee_with_snow_2021-01-30_04.jpg/1200px-Griebnitzsee_with_snow_2021-01-30_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Griebnitzsee_with_snow_2021-01-30_04.jpg/1920px-Griebnitzsee_with_snow_2021-01-30_04.jpg
+  Griebnitzsee with snow 2021-01-30 16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Griebnitzsee_with_snow_2021-01-30_16.jpg/400px-Griebnitzsee_with_snow_2021-01-30_16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Griebnitzsee_with_snow_2021-01-30_16.jpg/800px-Griebnitzsee_with_snow_2021-01-30_16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Griebnitzsee_with_snow_2021-01-30_16.jpg/1200px-Griebnitzsee_with_snow_2021-01-30_16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Griebnitzsee_with_snow_2021-01-30_16.jpg/1920px-Griebnitzsee_with_snow_2021-01-30_16.jpg
+  Griebnitzsee with snow 2021-01-30 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Griebnitzsee_with_snow_2021-01-30_17.jpg/400px-Griebnitzsee_with_snow_2021-01-30_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Griebnitzsee_with_snow_2021-01-30_17.jpg/800px-Griebnitzsee_with_snow_2021-01-30_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Griebnitzsee_with_snow_2021-01-30_17.jpg/1200px-Griebnitzsee_with_snow_2021-01-30_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Griebnitzsee_with_snow_2021-01-30_17.jpg/1920px-Griebnitzsee_with_snow_2021-01-30_17.jpg
+  Griebnitzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Griebnitzsee.jpg/400px-Griebnitzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Griebnitzsee.jpg/800px-Griebnitzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Griebnitzsee.jpg/1200px-Griebnitzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Griebnitzsee.jpg/1920px-Griebnitzsee.jpg
+  S-Bahn Berlin Potsdam Griebnitzsee Entrance.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg/400px-S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg/800px-S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg/1200px-S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg/1920px-S-Bahn_Berlin_Potsdam_Griebnitzsee_Entrance.jpg
 ---
 
 ## Overview

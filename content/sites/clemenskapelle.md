@@ -1,19 +1,49 @@
 ---
-title: "Clemenskapelle"
+title: Clemenskapelle
 date: 2026-01-23
 draft: false
-description: "church"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: church
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9769
 longitude: 10.3361
 images:
-  - "/images-sites/clemenskapelle/01-a5812608-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Clemenskapelle_14.jpeg/1200px-Clemenskapelle_14.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Epitaph_2_Clemenskapelle_Trechtingshausen.jpg/1200px-Epitaph_2_Clemenskapelle_Trechtingshausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg/1200px-Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg/1200px-Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Klemenskapelle1.jpg/1200px-Klemenskapelle1.jpg
+image_srcset:
+  Clemenskapelle 14.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Clemenskapelle_14.jpeg/400px-Clemenskapelle_14.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Clemenskapelle_14.jpeg/800px-Clemenskapelle_14.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Clemenskapelle_14.jpeg/1200px-Clemenskapelle_14.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Clemenskapelle_14.jpeg/1920px-Clemenskapelle_14.jpeg
+  Epitaph 2 Clemenskapelle Trechtingshausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Epitaph_2_Clemenskapelle_Trechtingshausen.jpg/400px-Epitaph_2_Clemenskapelle_Trechtingshausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Epitaph_2_Clemenskapelle_Trechtingshausen.jpg/800px-Epitaph_2_Clemenskapelle_Trechtingshausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Epitaph_2_Clemenskapelle_Trechtingshausen.jpg/1200px-Epitaph_2_Clemenskapelle_Trechtingshausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Epitaph_2_Clemenskapelle_Trechtingshausen.jpg/1920px-Epitaph_2_Clemenskapelle_Trechtingshausen.jpg
+  Clemenskapelle Trechtingshausen 2014-04-20 14.39.16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg/400px-Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg/800px-Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg/1200px-Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg/1920px-Clemenskapelle_Trechtingshausen_2014-04-20_14.39.16.jpg
+  Epitaph Pfarrer Peter Senck von Oberwesel Clemenskapelle Trechtingshausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg/400px-Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg/800px-Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg/1200px-Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg/1920px-Epitaph_Pfarrer_Peter_Senck_von_Oberwesel_Clemenskapelle_Trechtingshausen.jpg
+  Klemenskapelle1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Klemenskapelle1.jpg/400px-Klemenskapelle1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Klemenskapelle1.jpg/800px-Klemenskapelle1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Klemenskapelle1.jpg/1200px-Klemenskapelle1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Klemenskapelle1.jpg/1920px-Klemenskapelle1.jpg
 ---
 
 ## Overview

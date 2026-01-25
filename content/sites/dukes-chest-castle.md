@@ -1,27 +1,50 @@
 ---
-title: "Duke's Chest Castle"
+title: Duke's Chest Castle
 date: 2026-01-23
 draft: false
-description: "was built in 1255 as the additional fortification to the southwest part of the city wall"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: was built in 1255 as the additional fortification to the southwest part
+  of the city wall
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.7636
 longitude: 11.4275
-
-# Images
 images:
-  - "/images-sites/dukes-chest-castle/01-e31fd9a3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg/1200px-Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallstraße_2_Ingolstadt_20180722_001.jpg/1200px-Hallstraße_2_Ingolstadt_20180722_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg/1200px-GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/1200px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/HerzogskastenIngolstadtRueck.JPG/1200px-HerzogskastenIngolstadtRueck.JPG
+image_srcset:
+  Hallstraße 2, von Norden Ingolstadt 20180722 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg/400px-Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg/800px-Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg/1200px-Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg/1920px-Hallstraße_2,_von_Norden_Ingolstadt_20180722_002.jpg
+  Hallstraße 2 Ingolstadt 20180722 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallstraße_2_Ingolstadt_20180722_001.jpg/400px-Hallstraße_2_Ingolstadt_20180722_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallstraße_2_Ingolstadt_20180722_001.jpg/800px-Hallstraße_2_Ingolstadt_20180722_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallstraße_2_Ingolstadt_20180722_001.jpg/1200px-Hallstraße_2_Ingolstadt_20180722_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallstraße_2_Ingolstadt_20180722_001.jpg/1920px-Hallstraße_2_Ingolstadt_20180722_001.jpg
+  GER Ingolstadt Hallstraße Bibliothek 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg/400px-GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg/800px-GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg/1200px-GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg/1920px-GER_Ingolstadt_Hallstraße_Bibliothek_01.jpg
+  Hallstr. 2 Herzogskasten Ingolstadt-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/400px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/800px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/1200px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hallstr._2_Herzogskasten_Ingolstadt-2.jpg/1920px-Hallstr._2_Herzogskasten_Ingolstadt-2.jpg
+  HerzogskastenIngolstadtRueck.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/HerzogskastenIngolstadtRueck.JPG/400px-HerzogskastenIngolstadtRueck.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/HerzogskastenIngolstadtRueck.JPG/800px-HerzogskastenIngolstadtRueck.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/HerzogskastenIngolstadtRueck.JPG/1200px-HerzogskastenIngolstadtRueck.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/HerzogskastenIngolstadtRueck.JPG/1920px-HerzogskastenIngolstadtRueck.JPG
 ---
 
 ## Overview

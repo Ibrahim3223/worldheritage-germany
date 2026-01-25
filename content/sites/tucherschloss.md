@@ -13,7 +13,7 @@ regions:
 latitude: 49.4575
 longitude: 11.0842
 images:
-  - "/images-sites/tucherschloss/01-dd07244d-800w.webp"
+  - "/images/tucherschloss/01-dd07244d-800w.webp"
 ---
 
 ## Overview

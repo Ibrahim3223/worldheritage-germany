@@ -21,7 +21,7 @@ longitude: 9.31
 
 # Images
 images:
-  - "/images-sites/schloss-heiligenberg/01-093e3c84-800w.webp"
+  - "/images/schloss-heiligenberg/01-093e3c84-800w.webp"
 ---
 
 ## Overview

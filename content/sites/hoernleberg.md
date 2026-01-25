@@ -1,20 +1,49 @@
 ---
-title: "Hörnleberg"
+title: Hörnleberg
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.127777777
 longitude: 8.045
 images:
-  - "/images-sites/hoernleberg/02-f3443bea-800w.webp"
-  - "/images-sites/hoernleberg/03-76fb8488-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Elzach_jm178980.jpg/1200px-Elzach_jm178980.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Niederwinden_jm178970.jpg/1200px-Niederwinden_jm178970.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Elztal_Panorama_Winter.jpg/1200px-Elztal_Panorama_Winter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hörnleberg_Wallfahrtskapelle_Altar_01.jpg/1200px-Hörnleberg_Wallfahrtskapelle_Altar_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hörnleberg_–_closer_view.JPG/1200px-Hörnleberg_–_closer_view.JPG
+image_srcset:
+  Elzach jm178980.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Elzach_jm178980.jpg/400px-Elzach_jm178980.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Elzach_jm178980.jpg/800px-Elzach_jm178980.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Elzach_jm178980.jpg/1200px-Elzach_jm178980.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Elzach_jm178980.jpg/1920px-Elzach_jm178980.jpg
+  Niederwinden jm178970.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Niederwinden_jm178970.jpg/400px-Niederwinden_jm178970.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Niederwinden_jm178970.jpg/800px-Niederwinden_jm178970.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Niederwinden_jm178970.jpg/1200px-Niederwinden_jm178970.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Niederwinden_jm178970.jpg/1920px-Niederwinden_jm178970.jpg
+  Elztal Panorama Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Elztal_Panorama_Winter.jpg/400px-Elztal_Panorama_Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Elztal_Panorama_Winter.jpg/800px-Elztal_Panorama_Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Elztal_Panorama_Winter.jpg/1200px-Elztal_Panorama_Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Elztal_Panorama_Winter.jpg/1920px-Elztal_Panorama_Winter.jpg
+  Hörnleberg Wallfahrtskapelle Altar 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hörnleberg_Wallfahrtskapelle_Altar_01.jpg/400px-Hörnleberg_Wallfahrtskapelle_Altar_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hörnleberg_Wallfahrtskapelle_Altar_01.jpg/800px-Hörnleberg_Wallfahrtskapelle_Altar_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hörnleberg_Wallfahrtskapelle_Altar_01.jpg/1200px-Hörnleberg_Wallfahrtskapelle_Altar_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hörnleberg_Wallfahrtskapelle_Altar_01.jpg/1920px-Hörnleberg_Wallfahrtskapelle_Altar_01.jpg
+  Hörnleberg – closer view.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hörnleberg_–_closer_view.JPG/400px-Hörnleberg_–_closer_view.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hörnleberg_–_closer_view.JPG/800px-Hörnleberg_–_closer_view.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hörnleberg_–_closer_view.JPG/1200px-Hörnleberg_–_closer_view.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hörnleberg_–_closer_view.JPG/1920px-Hörnleberg_–_closer_view.JPG
 ---
 
 ## Overview

@@ -1,20 +1,31 @@
 ---
-title: "Käthe Kollwitz House"
+title: Käthe Kollwitz House
 date: 2026-01-23
 draft: false
-description: "museum in Moritzburg, Germany, dedicated to the artist Käthe Kollwitz"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Moritzburg, Germany, dedicated to the artist Käthe Kollwitz
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.166064
 longitude: 13.674649
 images:
-  - "/images-sites/kaethe-kollwitz-house/01-19c72738-800w.webp"
-  - "/images-sites/kaethe-kollwitz-house/02-756eec8c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20220905.Moritzburg.Rüdenhof.-011.jpg/1200px-20220905.Moritzburg.Rüdenhof.-011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Moritzburg,_Rüdenhof_005.JPG/1200px-Moritzburg,_Rüdenhof_005.JPG
+image_srcset:
+  20220905.Moritzburg.Rüdenhof.-011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20220905.Moritzburg.Rüdenhof.-011.jpg/400px-20220905.Moritzburg.Rüdenhof.-011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20220905.Moritzburg.Rüdenhof.-011.jpg/800px-20220905.Moritzburg.Rüdenhof.-011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20220905.Moritzburg.Rüdenhof.-011.jpg/1200px-20220905.Moritzburg.Rüdenhof.-011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20220905.Moritzburg.Rüdenhof.-011.jpg/1920px-20220905.Moritzburg.Rüdenhof.-011.jpg
+  Moritzburg, Rüdenhof 005.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Moritzburg,_Rüdenhof_005.JPG/400px-Moritzburg,_Rüdenhof_005.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Moritzburg,_Rüdenhof_005.JPG/800px-Moritzburg,_Rüdenhof_005.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Moritzburg,_Rüdenhof_005.JPG/1200px-Moritzburg,_Rüdenhof_005.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Moritzburg,_Rüdenhof_005.JPG/1920px-Moritzburg,_Rüdenhof_005.JPG
 ---
 
 ## Overview

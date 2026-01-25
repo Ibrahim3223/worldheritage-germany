@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1979671"
 description: "In the heart of Berlin, the New Nazareth Church stands as a striking example of Gothic Revival architecture. Founded in 1893, this church building not o..."
 images:
-  - "/images-sites/new-nazareth-church/01-61d23438-1920w.webp"
-  - "/images-sites/new-nazareth-church/02-a2e569b8-1920w.webp"
-  - "/images-sites/new-nazareth-church/03-b0ccbdf3-1920w.webp"
+  - "/images/new-nazareth-church/01-61d23438-1920w.webp"
+  - "/images/new-nazareth-church/02-a2e569b8-1920w.webp"
+  - "/images/new-nazareth-church/03-b0ccbdf3-1920w.webp"
 ---
 
 ## Overview

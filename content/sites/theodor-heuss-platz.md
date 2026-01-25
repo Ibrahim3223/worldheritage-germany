@@ -13,7 +13,7 @@ regions:
 latitude: 52.5094
 longitude: 13.2728
 images:
-  - "/images-sites/theodor-heuss-platz/01-027c9aea-800w.webp"
+  - "/images/theodor-heuss-platz/01-027c9aea-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.7670375
 longitude: 10.9136261
 images:
-  - "/images-sites/kunstwanderweg-kleinbreitenbach/01-377cab95-800w.webp"
-  - "/images-sites/kunstwanderweg-kleinbreitenbach/02-6283d6f9-800w.webp"
-  - "/images-sites/kunstwanderweg-kleinbreitenbach/03-9ab94d22-800w.webp"
+  - "/images/kunstwanderweg-kleinbreitenbach/01-377cab95-800w.webp"
+  - "/images/kunstwanderweg-kleinbreitenbach/02-6283d6f9-800w.webp"
+  - "/images/kunstwanderweg-kleinbreitenbach/03-9ab94d22-800w.webp"
 ---
 
 ## Overview

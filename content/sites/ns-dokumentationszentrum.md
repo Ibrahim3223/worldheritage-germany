@@ -13,7 +13,7 @@ regions:
 latitude: 48.14527778
 longitude: 11.5675
 images:
-  - "/images-sites/ns-dokumentationszentrum/01-c521d4b6-800w.webp"
+  - "/images/ns-dokumentationszentrum/01-c521d4b6-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,44 @@
 ---
-title: "Feldberger Haussee"
+title: Feldberger Haussee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.341666666
 longitude: 13.448611111
 images:
-  - "/images-sites/feldberger-haussee/01-f94fad9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Feldberg_Haussee_2010-10-30_138.JPG/1200px-Feldberg_Haussee_2010-10-30_138.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Feldberg_Haussee_2010-10-30_135.JPG/1200px-Feldberg_Haussee_2010-10-30_135.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg/1200px-View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg/1200px-Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg
+image_srcset:
+  Feldberg Haussee 2010-10-30 138.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Feldberg_Haussee_2010-10-30_138.JPG/400px-Feldberg_Haussee_2010-10-30_138.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Feldberg_Haussee_2010-10-30_138.JPG/800px-Feldberg_Haussee_2010-10-30_138.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Feldberg_Haussee_2010-10-30_138.JPG/1200px-Feldberg_Haussee_2010-10-30_138.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Feldberg_Haussee_2010-10-30_138.JPG/1920px-Feldberg_Haussee_2010-10-30_138.JPG
+  Feldberg Haussee 2010-10-30 135.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Feldberg_Haussee_2010-10-30_135.JPG/400px-Feldberg_Haussee_2010-10-30_135.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Feldberg_Haussee_2010-10-30_135.JPG/800px-Feldberg_Haussee_2010-10-30_135.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Feldberg_Haussee_2010-10-30_135.JPG/1200px-Feldberg_Haussee_2010-10-30_135.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Feldberg_Haussee_2010-10-30_135.JPG/1920px-Feldberg_Haussee_2010-10-30_135.JPG
+  View to the lake Feldberger Haussee from Reiherberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg/400px-View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg/800px-View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg/1200px-View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg/1920px-View_to_the_lake_Feldberger_Haussee_from_Reiherberg.jpg
+  Hans Licht Der Feldberger Haussee in Mecklenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg/400px-Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg/800px-Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg/1200px-Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg/1920px-Hans_Licht_Der_Feldberger_Haussee_in_Mecklenburg.jpg
 ---
 
 ## Overview

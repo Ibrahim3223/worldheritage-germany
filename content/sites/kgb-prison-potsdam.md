@@ -13,7 +13,7 @@ regions:
 latitude: 52.41647222
 longitude: 13.06441667
 images:
-  - "/images-sites/kgb-prison-potsdam/01-46b5462c-800w.webp"
+  - "/images/kgb-prison-potsdam/01-46b5462c-800w.webp"
 ---
 
 ## Overview

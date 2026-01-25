@@ -1,24 +1,51 @@
 ---
-title: "Bethlehem-Kirche"
-site_name: "Bethlehem-Kirche"
-slug: "bethlehem-kirche"
-region: "Hamburg"
-
-# Location
+title: Bethlehem-Kirche
+site_name: Bethlehem-Kirche
+slug: bethlehem-kirche
+region: Hamburg
 latitude: 53.576895
 longitude: 9.963027
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q831313"
-description: "Bethlehem-Kirche stands as a modern architectural marvel in the Eimsbüttel region of Germany. This church building, designed by architect Joachim Mattha..."
+- church building
+- religious site
+wikidata_id: Q831313
+description: Bethlehem-Kirche stands as a modern architectural marvel in the Eimsbüttel
+  region of Germany. This church building, designed by architect Joachim Mattha...
 images:
-  - "/images-sites/bethlehem-kirche/01-7f1b25eb-1920w.webp"
-  - "/images-sites/bethlehem-kirche/02-80a325d9-1920w.webp"
-  - "/images-sites/bethlehem-kirche/03-fcb8d8d6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg/1200px-Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg/1200px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg/1200px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matthias_Suessen_-5242.jpg/1200px-Matthias_Suessen_-5242.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bethlehem-Kirche_Kiel.jpg/1200px-Bethlehem-Kirche_Kiel.jpg
+image_srcset:
+  Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg/400px-Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg/800px-Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg/1200px-Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg/1920px-Hamburg-Eimsb%C3%BCttel%2C%20Bethlehem-Kirche%2C%20S%C3%BCdansicht.jpg
+  Bethlehem-Kirche (Kiel-Friedrichsort), Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg/400px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg/800px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg/1200px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg/1920px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Eingang.jpg
+  Bethlehem-Kirche (Kiel-Friedrichsort), Vorderansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg/400px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg/800px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg/1200px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg/1920px-Bethlehem-Kirche_(Kiel-Friedrichsort),_Vorderansicht.jpg
+  Matthias Suessen -5242.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matthias_Suessen_-5242.jpg/400px-Matthias_Suessen_-5242.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matthias_Suessen_-5242.jpg/800px-Matthias_Suessen_-5242.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matthias_Suessen_-5242.jpg/1200px-Matthias_Suessen_-5242.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Matthias_Suessen_-5242.jpg/1920px-Matthias_Suessen_-5242.jpg
+  Bethlehem-Kirche Kiel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bethlehem-Kirche_Kiel.jpg/400px-Bethlehem-Kirche_Kiel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bethlehem-Kirche_Kiel.jpg/800px-Bethlehem-Kirche_Kiel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bethlehem-Kirche_Kiel.jpg/1200px-Bethlehem-Kirche_Kiel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bethlehem-Kirche_Kiel.jpg/1920px-Bethlehem-Kirche_Kiel.jpg
 ---
 
 ## Overview

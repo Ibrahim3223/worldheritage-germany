@@ -1,19 +1,49 @@
 ---
-title: "Engesohde city cemetery"
+title: Engesohde city cemetery
 date: 2026-01-23
 draft: false
-description: "Listed cemetery in Hanover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: Listed cemetery in Hanover, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.349166666
 longitude: 9.754722222
 images:
-  - "/images-sites/engesohde-city-cemetery/01-37e25403-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1200px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20230320_Engesohde_city_cemetery_01.jpg/1200px-20230320_Engesohde_city_cemetery_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20230320_Engesohde_city_cemetery_03.jpg/1200px-20230320_Engesohde_city_cemetery_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20230320_Engesohde_city_cemetery_02.jpg/1200px-20230320_Engesohde_city_cemetery_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg/1200px-2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg
+image_srcset:
+  Stadtfriedhof Hannover Engesode Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/400px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/800px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1200px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Stadtfriedhof_Hannover_Engesode_Eingang.jpg/1920px-Stadtfriedhof_Hannover_Engesode_Eingang.jpg
+  20230320 Engesohde city cemetery 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20230320_Engesohde_city_cemetery_01.jpg/400px-20230320_Engesohde_city_cemetery_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20230320_Engesohde_city_cemetery_01.jpg/800px-20230320_Engesohde_city_cemetery_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20230320_Engesohde_city_cemetery_01.jpg/1200px-20230320_Engesohde_city_cemetery_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/20230320_Engesohde_city_cemetery_01.jpg/1920px-20230320_Engesohde_city_cemetery_01.jpg
+  20230320 Engesohde city cemetery 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20230320_Engesohde_city_cemetery_03.jpg/400px-20230320_Engesohde_city_cemetery_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20230320_Engesohde_city_cemetery_03.jpg/800px-20230320_Engesohde_city_cemetery_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20230320_Engesohde_city_cemetery_03.jpg/1200px-20230320_Engesohde_city_cemetery_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20230320_Engesohde_city_cemetery_03.jpg/1920px-20230320_Engesohde_city_cemetery_03.jpg
+  20230320 Engesohde city cemetery 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20230320_Engesohde_city_cemetery_02.jpg/400px-20230320_Engesohde_city_cemetery_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20230320_Engesohde_city_cemetery_02.jpg/800px-20230320_Engesohde_city_cemetery_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20230320_Engesohde_city_cemetery_02.jpg/1200px-20230320_Engesohde_city_cemetery_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20230320_Engesohde_city_cemetery_02.jpg/1920px-20230320_Engesohde_city_cemetery_02.jpg
+  2023-07-06 Friedhof Engesohde Details durch Wikipedia Hannover 320.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg/400px-2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg/800px-2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg/1200px-2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg/1920px-2023-07-06_Friedhof_Engesohde_Details_durch_Wikipedia_Hannover_320.jpg
 ---
 
 ## Overview

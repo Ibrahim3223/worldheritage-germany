@@ -21,7 +21,7 @@ longitude: 8.26797
 
 # Images
 images:
-  - "/images-sites/sactuary-of-isis-and-magna-mater/01-52df1998-800w.webp"
+  - "/images/sactuary-of-isis-and-magna-mater/01-52df1998-800w.webp"
 ---
 
 ## Overview

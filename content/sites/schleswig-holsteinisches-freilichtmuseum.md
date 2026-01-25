@@ -13,7 +13,7 @@ regions:
 latitude: 54.2752
 longitude: 10.079
 images:
-  - "/images-sites/schleswig-holsteinisches-freilichtmuseum/01-78f9ec3d-800w.webp"
+  - "/images/schleswig-holsteinisches-freilichtmuseum/01-78f9ec3d-800w.webp"
 ---
 
 ## Overview

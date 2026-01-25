@@ -21,7 +21,7 @@ longitude: 8.15868
 
 # Images
 images:
-  - "/images-sites/kriemhildenstuhl/01-f6fa33a0-800w.webp"
+  - "/images/kriemhildenstuhl/01-f6fa33a0-800w.webp"
 ---
 
 ## Overview

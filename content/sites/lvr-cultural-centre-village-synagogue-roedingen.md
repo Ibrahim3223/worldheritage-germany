@@ -13,7 +13,7 @@ regions:
 latitude: 50.9655
 longitude: 6.4612
 images:
-  - "/images-sites/lvr-cultural-centre-village-synagogue-roedingen/01-b442ced5-800w.webp"
+  - "/images/lvr-cultural-centre-village-synagogue-roedingen/01-b442ced5-800w.webp"
 ---
 
 ## Overview

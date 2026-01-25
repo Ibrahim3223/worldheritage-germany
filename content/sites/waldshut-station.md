@@ -13,8 +13,8 @@ regions:
 latitude: 47.621368
 longitude: 8.219526
 images:
-  - "/images-sites/waldshut-station/01-5b35dd0b-800w.webp"
-  - "/images-sites/waldshut-station/02-081af831-800w.webp"
+  - "/images/waldshut-station/01-5b35dd0b-800w.webp"
+  - "/images/waldshut-station/02-081af831-800w.webp"
 ---
 
 ## Overview

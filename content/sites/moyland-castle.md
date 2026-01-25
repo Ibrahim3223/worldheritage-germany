@@ -13,7 +13,7 @@ regions:
 latitude: 51.7553
 longitude: 6.23681
 images:
-  - "/images-sites/moyland-castle/01-f05d047e-800w.webp"
+  - "/images/moyland-castle/01-f05d047e-800w.webp"
 ---
 
 ## Overview

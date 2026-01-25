@@ -13,7 +13,7 @@ regions:
 latitude: 50.1025
 longitude: 8.19222
 images:
-  - "/images-sites/tier-und-pflanzenpark-fasanerie/01-827cfce2-800w.webp"
+  - "/images/tier-und-pflanzenpark-fasanerie/01-827cfce2-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Freilichtmuseum Glentleiten"
+title: Freilichtmuseum Glentleiten
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6656
 longitude: 11.2864
 images:
-  - "/images-sites/freilichtmuseum-glentleiten/01-d3e746e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Glentleiten_Mühle-20180624-RM-130603.jpg/1200px-Glentleiten_Mühle-20180624-RM-130603.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg/1200px-Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg/1200px-Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg/1200px-Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/1200px-Glentleiten-bjs130905-01.jpg
+image_srcset:
+  Glentleiten Mühle-20180624-RM-130603.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Glentleiten_Mühle-20180624-RM-130603.jpg/400px-Glentleiten_Mühle-20180624-RM-130603.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Glentleiten_Mühle-20180624-RM-130603.jpg/800px-Glentleiten_Mühle-20180624-RM-130603.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Glentleiten_Mühle-20180624-RM-130603.jpg/1200px-Glentleiten_Mühle-20180624-RM-130603.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Glentleiten_Mühle-20180624-RM-130603.jpg/1920px-Glentleiten_Mühle-20180624-RM-130603.jpg
+  Glentleiten Röhr 15 R Traktor-20180624-RM-123852.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg/400px-Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg/800px-Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg/1200px-Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg/1920px-Glentleiten_Röhr_15_R_Traktor-20180624-RM-123852.jpg
+  Glentleiten Lanz D 3506-20180624-RM-124123.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg/400px-Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg/800px-Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg/1200px-Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg/1920px-Glentleiten_Lanz_D_3506-20180624-RM-124123.jpg
+  Glentleiten Primus P11 Traktor-20180624-RM-134722.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg/400px-Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg/800px-Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg/1200px-Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg/1920px-Glentleiten_Primus_P11_Traktor-20180624-RM-134722.jpg
+  Glentleiten-bjs130905-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/400px-Glentleiten-bjs130905-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/800px-Glentleiten-bjs130905-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/1200px-Glentleiten-bjs130905-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Glentleiten-bjs130905-01.jpg/1920px-Glentleiten-bjs130905-01.jpg
 ---
 
 ## Overview

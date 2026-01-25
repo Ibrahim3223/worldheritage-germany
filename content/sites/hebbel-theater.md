@@ -1,19 +1,49 @@
 ---
-title: "Hebbel Theater"
+title: Hebbel Theater
 date: 2026-01-23
 draft: false
-description: "theater in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theater in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5
 longitude: 13.3873
 images:
-  - "/images-sites/hebbel-theater/01-44777409-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hebbel-Theater_0259.jpg/1200px-Hebbel-Theater_0259.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hebbel-Theater_0261.jpg/1200px-Hebbel-Theater_0261.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hebbel-Theater,_Berlin.jpg/1200px-Hebbel-Theater,_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HebbelZuschauerraum.jpg/1200px-HebbelZuschauerraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_Hebbeltheater.jpg/1200px-Berlin_Hebbeltheater.jpg
+image_srcset:
+  Hebbel-Theater 0259.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hebbel-Theater_0259.jpg/400px-Hebbel-Theater_0259.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hebbel-Theater_0259.jpg/800px-Hebbel-Theater_0259.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hebbel-Theater_0259.jpg/1200px-Hebbel-Theater_0259.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hebbel-Theater_0259.jpg/1920px-Hebbel-Theater_0259.jpg
+  Hebbel-Theater 0261.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hebbel-Theater_0261.jpg/400px-Hebbel-Theater_0261.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hebbel-Theater_0261.jpg/800px-Hebbel-Theater_0261.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hebbel-Theater_0261.jpg/1200px-Hebbel-Theater_0261.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hebbel-Theater_0261.jpg/1920px-Hebbel-Theater_0261.jpg
+  Hebbel-Theater, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hebbel-Theater,_Berlin.jpg/400px-Hebbel-Theater,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hebbel-Theater,_Berlin.jpg/800px-Hebbel-Theater,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hebbel-Theater,_Berlin.jpg/1200px-Hebbel-Theater,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hebbel-Theater,_Berlin.jpg/1920px-Hebbel-Theater,_Berlin.jpg
+  HebbelZuschauerraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HebbelZuschauerraum.jpg/400px-HebbelZuschauerraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HebbelZuschauerraum.jpg/800px-HebbelZuschauerraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HebbelZuschauerraum.jpg/1200px-HebbelZuschauerraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HebbelZuschauerraum.jpg/1920px-HebbelZuschauerraum.jpg
+  Berlin Hebbeltheater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_Hebbeltheater.jpg/400px-Berlin_Hebbeltheater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_Hebbeltheater.jpg/800px-Berlin_Hebbeltheater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_Hebbeltheater.jpg/1200px-Berlin_Hebbeltheater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Berlin_Hebbeltheater.jpg/1920px-Berlin_Hebbeltheater.jpg
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1823918"
 description: "In the heart of Bocholt, Germany, lies Liebfrauenkirche, a church building that captures the essence of local architectural heritage. This striking bric..."
 images:
-  - "/images-sites/liebfrauenkirche/01-1e9a2460-1920w.webp"
-  - "/images-sites/liebfrauenkirche/02-2c19f1fe-1920w.webp"
-  - "/images-sites/liebfrauenkirche/03-a5637922-1920w.webp"
+  - "/images/liebfrauenkirche/01-1e9a2460-1920w.webp"
+  - "/images/liebfrauenkirche/02-2c19f1fe-1920w.webp"
+  - "/images/liebfrauenkirche/03-a5637922-1920w.webp"
 ---
 
 ## Overview

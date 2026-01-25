@@ -1,27 +1,43 @@
 ---
-title: "Castra Divitia"
+title: Castra Divitia
 date: 2026-01-23
 draft: false
-description: "Roman fort"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman fort
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.937238
 longitude: 6.973596
-
-# Images
 images:
-  - "/images-sites/castra-divitia/01-0368089a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg/1200px-Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg/1200px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg/1200px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg/1200px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg
+image_srcset:
+  Modell des Kastell Divitia Deutz, Köln-0230.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg/400px-Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg/800px-Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg/1200px-Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg/1920px-Modell_des_Kastell_Divitia_Deutz,_Köln-0230.jpg
+  Pressekonferenz zu den archäologischen Grabungen am Rheinboulevard Köln-Deutz-5053.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg/400px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg/800px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg/1200px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg/1920px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5053.jpg
+  Pressekonferenz zu den archäologischen Grabungen am Rheinboulevard Köln-Deutz-5057.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg/400px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg/800px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg/1200px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg/1920px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5057.jpg
+  Pressekonferenz zu den archäologischen Grabungen am Rheinboulevard Köln-Deutz-5059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg/400px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg/800px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg/1200px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg/1920px-Pressekonferenz_zu_den_archäologischen_Grabungen_am_Rheinboulevard_Köln-Deutz-5059.jpg
 ---
 
 ## Overview

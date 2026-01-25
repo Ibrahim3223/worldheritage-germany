@@ -1,24 +1,51 @@
 ---
-title: "Bockhorster Dorfkirche"
-site_name: "Bockhorster Dorfkirche"
-slug: "bockhorster-dorfkirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Bockhorster Dorfkirche
+site_name: Bockhorster Dorfkirche
+slug: bockhorster-dorfkirche
+region: North Rhine-Westphalia
 latitude: 52.074
 longitude: 8.20329
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380162"
-description: "Bockhorster Dorfkirche, a remarkable example of Romanesque architecture, stands as a significant landmark in the region of Versmold, Germany. This churc..."
+- church building
+- religious site
+wikidata_id: Q1380162
+description: Bockhorster Dorfkirche, a remarkable example of Romanesque architecture,
+  stands as a significant landmark in the region of Versmold, Germany. This churc...
 images:
-  - "/images-sites/bockhorster-dorfkirche/01-6d853811-1920w.webp"
-  - "/images-sites/bockhorster-dorfkirche/02-d4bd931e-1920w.webp"
-  - "/images-sites/bockhorster-dorfkirche/03-b233e06e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bockhorst%20Dorfkirche.jpg/1200px-Bockhorst%20Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nachbildung%20Bockhorster%20Kreuz.jpg/1200px-Nachbildung%20Bockhorster%20Kreuz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/1200px-Bockhorst_Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nachbildung_Bockhorster_Kreuz.jpg/1200px-Nachbildung_Bockhorster_Kreuz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bockhorst_Kirche_Grundriss_Ludorff.png/1200px-Bockhorst_Kirche_Grundriss_Ludorff.png
+image_srcset:
+  Bockhorst%20Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bockhorst%20Dorfkirche.jpg/400px-Bockhorst%20Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bockhorst%20Dorfkirche.jpg/800px-Bockhorst%20Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bockhorst%20Dorfkirche.jpg/1200px-Bockhorst%20Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bockhorst%20Dorfkirche.jpg/1920px-Bockhorst%20Dorfkirche.jpg
+  Nachbildung%20Bockhorster%20Kreuz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nachbildung%20Bockhorster%20Kreuz.jpg/400px-Nachbildung%20Bockhorster%20Kreuz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nachbildung%20Bockhorster%20Kreuz.jpg/800px-Nachbildung%20Bockhorster%20Kreuz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nachbildung%20Bockhorster%20Kreuz.jpg/1200px-Nachbildung%20Bockhorster%20Kreuz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nachbildung%20Bockhorster%20Kreuz.jpg/1920px-Nachbildung%20Bockhorster%20Kreuz.jpg
+  Bockhorst Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/400px-Bockhorst_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/800px-Bockhorst_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/1200px-Bockhorst_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bockhorst_Dorfkirche.jpg/1920px-Bockhorst_Dorfkirche.jpg
+  Nachbildung Bockhorster Kreuz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nachbildung_Bockhorster_Kreuz.jpg/400px-Nachbildung_Bockhorster_Kreuz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nachbildung_Bockhorster_Kreuz.jpg/800px-Nachbildung_Bockhorster_Kreuz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nachbildung_Bockhorster_Kreuz.jpg/1200px-Nachbildung_Bockhorster_Kreuz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nachbildung_Bockhorster_Kreuz.jpg/1920px-Nachbildung_Bockhorster_Kreuz.jpg
+  Bockhorst Kirche Grundriss Ludorff.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bockhorst_Kirche_Grundriss_Ludorff.png/400px-Bockhorst_Kirche_Grundriss_Ludorff.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bockhorst_Kirche_Grundriss_Ludorff.png/800px-Bockhorst_Kirche_Grundriss_Ludorff.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bockhorst_Kirche_Grundriss_Ludorff.png/1200px-Bockhorst_Kirche_Grundriss_Ludorff.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bockhorst_Kirche_Grundriss_Ludorff.png/1920px-Bockhorst_Kirche_Grundriss_Ludorff.png
 ---
 
 ## Overview

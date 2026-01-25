@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q154364"
 description: "In the heart of Nuremberg, Germany, stands St. Elizabeth, a parish church that encapsulates the essence of Neoclassical architecture. This remarkable st..."
 images:
-  - "/images-sites/st-elizabeth/01-c230ee7d-1920w.webp"
-  - "/images-sites/st-elizabeth/02-f83b9f59-1920w.webp"
-  - "/images-sites/st-elizabeth/03-0aad7b82-1920w.webp"
+  - "/images/st-elizabeth/01-c230ee7d-1920w.webp"
+  - "/images/st-elizabeth/02-f83b9f59-1920w.webp"
+  - "/images/st-elizabeth/03-0aad7b82-1920w.webp"
 ---
 
 ## Overview

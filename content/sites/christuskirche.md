@@ -1,24 +1,51 @@
 ---
-title: "Christuskirche"
-site_name: "Christuskirche"
-slug: "christuskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Christuskirche
+site_name: Christuskirche
+slug: christuskirche
+region: North Rhine-Westphalia
 latitude: 50.354933
 longitude: 7.593353
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087348"
-description: "Christuskirche, a striking example of Gothic Revival architecture, captures the attention of visitors with its intricate design and serene atmosphere. L..."
+- church building
+- religious site
+wikidata_id: Q1087348
+description: Christuskirche, a striking example of Gothic Revival architecture, captures
+  the attention of visitors with its intricate design and serene atmosphere. L...
 images:
-  - "/images-sites/christuskirche/01-23ac50f0-1920w.webp"
-  - "/images-sites/christuskirche/02-56705da3-1920w.webp"
-  - "/images-sites/christuskirche/03-82c6875f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chistuskirche%20Koblenz%202009.jpg/1200px-Chistuskirche%20Koblenz%202009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg/1200px-Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stadtbahn_Hannover_Christuskirche_2107031748.jpg/1200px-Stadtbahn_Hannover_Christuskirche_2107031748.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stadtbahn_Hannover_Christuskirche_2107031755.jpg/1200px-Stadtbahn_Hannover_Christuskirche_2107031755.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stadtbahn_Hannover_Christuskirche_2107031753.jpg/1200px-Stadtbahn_Hannover_Christuskirche_2107031753.jpg
+image_srcset:
+  Chistuskirche%20Koblenz%202009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chistuskirche%20Koblenz%202009.jpg/400px-Chistuskirche%20Koblenz%202009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chistuskirche%20Koblenz%202009.jpg/800px-Chistuskirche%20Koblenz%202009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chistuskirche%20Koblenz%202009.jpg/1200px-Chistuskirche%20Koblenz%202009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chistuskirche%20Koblenz%202009.jpg/1920px-Chistuskirche%20Koblenz%202009.jpg
+  Stadtbahn Hannover 11 2012 Christuskirche 2107031752.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg/400px-Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg/800px-Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg/1200px-Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg/1920px-Stadtbahn_Hannover_11_2012_Christuskirche_2107031752.jpg
+  Stadtbahn Hannover Christuskirche 2107031748.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stadtbahn_Hannover_Christuskirche_2107031748.jpg/400px-Stadtbahn_Hannover_Christuskirche_2107031748.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stadtbahn_Hannover_Christuskirche_2107031748.jpg/800px-Stadtbahn_Hannover_Christuskirche_2107031748.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stadtbahn_Hannover_Christuskirche_2107031748.jpg/1200px-Stadtbahn_Hannover_Christuskirche_2107031748.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stadtbahn_Hannover_Christuskirche_2107031748.jpg/1920px-Stadtbahn_Hannover_Christuskirche_2107031748.jpg
+  Stadtbahn Hannover Christuskirche 2107031755.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stadtbahn_Hannover_Christuskirche_2107031755.jpg/400px-Stadtbahn_Hannover_Christuskirche_2107031755.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stadtbahn_Hannover_Christuskirche_2107031755.jpg/800px-Stadtbahn_Hannover_Christuskirche_2107031755.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stadtbahn_Hannover_Christuskirche_2107031755.jpg/1200px-Stadtbahn_Hannover_Christuskirche_2107031755.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stadtbahn_Hannover_Christuskirche_2107031755.jpg/1920px-Stadtbahn_Hannover_Christuskirche_2107031755.jpg
+  Stadtbahn Hannover Christuskirche 2107031753.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stadtbahn_Hannover_Christuskirche_2107031753.jpg/400px-Stadtbahn_Hannover_Christuskirche_2107031753.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stadtbahn_Hannover_Christuskirche_2107031753.jpg/800px-Stadtbahn_Hannover_Christuskirche_2107031753.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stadtbahn_Hannover_Christuskirche_2107031753.jpg/1200px-Stadtbahn_Hannover_Christuskirche_2107031753.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stadtbahn_Hannover_Christuskirche_2107031753.jpg/1920px-Stadtbahn_Hannover_Christuskirche_2107031753.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Großer Stern"
+title: Großer Stern
 date: 2026-01-23
 draft: false
-description: "historic square in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: historic square in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5145
 longitude: 13.350111111
 images:
-  - "/images-sites/grosser-stern/01-4c476b1b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png/1200px-Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Klappe_siegessaeule_tuer_2022-09-04.png/1200px-Klappe_siegessaeule_tuer_2022-09-04.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Siegessaeule_Berlin_2022-09-04.png/1200px-Siegessaeule_Berlin_2022-09-04.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Klappe_siegessaeule_tuer_ecke_2022-09-04.png/1200px-Klappe_siegessaeule_tuer_ecke_2022-09-04.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Siegessäule-Berlin-Tiergarten.jpg/1200px-Siegessäule-Berlin-Tiergarten.jpg
+image_srcset:
+  Klappe siegessaeule speer-wachhaeuschen 2022-09-04.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png/400px-Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png/800px-Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png/1200px-Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png/1920px-Klappe_siegessaeule_speer-wachhaeuschen_2022-09-04.png
+  Klappe siegessaeule tuer 2022-09-04.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Klappe_siegessaeule_tuer_2022-09-04.png/400px-Klappe_siegessaeule_tuer_2022-09-04.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Klappe_siegessaeule_tuer_2022-09-04.png/800px-Klappe_siegessaeule_tuer_2022-09-04.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Klappe_siegessaeule_tuer_2022-09-04.png/1200px-Klappe_siegessaeule_tuer_2022-09-04.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Klappe_siegessaeule_tuer_2022-09-04.png/1920px-Klappe_siegessaeule_tuer_2022-09-04.png
+  Siegessaeule Berlin 2022-09-04.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Siegessaeule_Berlin_2022-09-04.png/400px-Siegessaeule_Berlin_2022-09-04.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Siegessaeule_Berlin_2022-09-04.png/800px-Siegessaeule_Berlin_2022-09-04.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Siegessaeule_Berlin_2022-09-04.png/1200px-Siegessaeule_Berlin_2022-09-04.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Siegessaeule_Berlin_2022-09-04.png/1920px-Siegessaeule_Berlin_2022-09-04.png
+  Klappe siegessaeule tuer ecke 2022-09-04.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Klappe_siegessaeule_tuer_ecke_2022-09-04.png/400px-Klappe_siegessaeule_tuer_ecke_2022-09-04.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Klappe_siegessaeule_tuer_ecke_2022-09-04.png/800px-Klappe_siegessaeule_tuer_ecke_2022-09-04.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Klappe_siegessaeule_tuer_ecke_2022-09-04.png/1200px-Klappe_siegessaeule_tuer_ecke_2022-09-04.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Klappe_siegessaeule_tuer_ecke_2022-09-04.png/1920px-Klappe_siegessaeule_tuer_ecke_2022-09-04.png
+  Siegessäule-Berlin-Tiergarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Siegessäule-Berlin-Tiergarten.jpg/400px-Siegessäule-Berlin-Tiergarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Siegessäule-Berlin-Tiergarten.jpg/800px-Siegessäule-Berlin-Tiergarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Siegessäule-Berlin-Tiergarten.jpg/1200px-Siegessäule-Berlin-Tiergarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Siegessäule-Berlin-Tiergarten.jpg/1920px-Siegessäule-Berlin-Tiergarten.jpg
 ---
 
 ## Overview

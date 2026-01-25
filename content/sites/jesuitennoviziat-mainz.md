@@ -1,19 +1,25 @@
 ---
-title: "Jesuitennoviziat (Mainz)"
+title: Jesuitennoviziat (Mainz)
 date: 2026-01-23
 draft: false
-description: "demolished school building in Mainz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: demolished school building in Mainz, Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 50.001509
 longitude: 8.271941
 images:
-  - "/images-sites/jesuitennoviziat-mainz/01-cb3992b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1200px-JosephskapelleMainz.jpg
+image_srcset:
+  JosephskapelleMainz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/400px-JosephskapelleMainz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/800px-JosephskapelleMainz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1200px-JosephskapelleMainz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JosephskapelleMainz.jpg/1920px-JosephskapelleMainz.jpg
 ---
 
 ## Overview

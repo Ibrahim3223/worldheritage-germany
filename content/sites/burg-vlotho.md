@@ -1,27 +1,49 @@
 ---
-title: "Burg Vlotho"
+title: Burg Vlotho
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.1714
 longitude: 8.85944
-
-# Images
 images:
-  - "/images-sites/burg-vlotho/01-4be1123d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg_Vlotho,_view_to_Weser.jpg/1200px-Burg_Vlotho,_view_to_Weser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vlotho-Burgruine.jpg/1200px-Vlotho-Burgruine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/1200px-2010-05-11_Vlotho_110.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2010-05-11_Vlotho_139.jpg/1200px-2010-05-11_Vlotho_139.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2010-05-11_Vlotho_144.jpg/1200px-2010-05-11_Vlotho_144.jpg
+image_srcset:
+  Burg Vlotho, view to Weser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg_Vlotho,_view_to_Weser.jpg/400px-Burg_Vlotho,_view_to_Weser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg_Vlotho,_view_to_Weser.jpg/800px-Burg_Vlotho,_view_to_Weser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg_Vlotho,_view_to_Weser.jpg/1200px-Burg_Vlotho,_view_to_Weser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Burg_Vlotho,_view_to_Weser.jpg/1920px-Burg_Vlotho,_view_to_Weser.jpg
+  Vlotho-Burgruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vlotho-Burgruine.jpg/400px-Vlotho-Burgruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vlotho-Burgruine.jpg/800px-Vlotho-Burgruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vlotho-Burgruine.jpg/1200px-Vlotho-Burgruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vlotho-Burgruine.jpg/1920px-Vlotho-Burgruine.jpg
+  2010-05-11 Vlotho 110.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/400px-2010-05-11_Vlotho_110.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/800px-2010-05-11_Vlotho_110.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/1200px-2010-05-11_Vlotho_110.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2010-05-11_Vlotho_110.jpg/1920px-2010-05-11_Vlotho_110.jpg
+  2010-05-11 Vlotho 139.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2010-05-11_Vlotho_139.jpg/400px-2010-05-11_Vlotho_139.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2010-05-11_Vlotho_139.jpg/800px-2010-05-11_Vlotho_139.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2010-05-11_Vlotho_139.jpg/1200px-2010-05-11_Vlotho_139.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2010-05-11_Vlotho_139.jpg/1920px-2010-05-11_Vlotho_139.jpg
+  2010-05-11 Vlotho 144.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2010-05-11_Vlotho_144.jpg/400px-2010-05-11_Vlotho_144.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2010-05-11_Vlotho_144.jpg/800px-2010-05-11_Vlotho_144.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2010-05-11_Vlotho_144.jpg/1200px-2010-05-11_Vlotho_144.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2010-05-11_Vlotho_144.jpg/1920px-2010-05-11_Vlotho_144.jpg
 ---
 
 ## Overview

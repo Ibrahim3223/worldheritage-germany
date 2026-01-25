@@ -1,24 +1,51 @@
 ---
-title: "Asamkirche"
-site_name: "Asamkirche"
-slug: "asamkirche"
-region: "Bavaria"
-
-# Location
+title: Asamkirche
+site_name: Asamkirche
+slug: asamkirche
+region: Bavaria
 latitude: 48.1352069602052
 longitude: 11.5695139676141
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q152973"
-description: "As you wander through the vibrant streets of Munich, a striking architectural gem captures your attention: Asamkirche, a stunning example of Rococo desi..."
+- church building
+- religious site
+wikidata_id: Q152973
+description: 'As you wander through the vibrant streets of Munich, a striking architectural
+  gem captures your attention: Asamkirche, a stunning example of Rococo desi...'
 images:
-  - "/images-sites/asamkirche/01-e429cc4a-1920w.webp"
-  - "/images-sites/asamkirche/02-ed265663-1920w.webp"
-  - "/images-sites/asamkirche/03-44a9f8d6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Nepomuk%20retusche.jpg/1200px-St.%20Nepomuk%20retusche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg/1200px-Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/München,_Asamkirche,_Turm,_2.jpeg/1200px-München,_Asamkirche,_Turm,_2.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1200px-St._Nepomuk_retusche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Asamkirche_-_München_-_2022-04-28_-_293a.jpg/1200px-Asamkirche_-_München_-_2022-04-28_-_293a.jpg
+image_srcset:
+  St.%20Nepomuk%20retusche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Nepomuk%20retusche.jpg/400px-St.%20Nepomuk%20retusche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Nepomuk%20retusche.jpg/800px-St.%20Nepomuk%20retusche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Nepomuk%20retusche.jpg/1200px-St.%20Nepomuk%20retusche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/St.%20Nepomuk%20retusche.jpg/1920px-St.%20Nepomuk%20retusche.jpg
+  Asamkirche, Múnich, Alemania, 2024-04-02, DD 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg/400px-Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg/800px-Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg/1200px-Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg/1920px-Asamkirche,_Múnich,_Alemania,_2024-04-02,_DD_04.jpg
+  München, Asamkirche, Turm, 2.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/München,_Asamkirche,_Turm,_2.jpeg/400px-München,_Asamkirche,_Turm,_2.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/München,_Asamkirche,_Turm,_2.jpeg/800px-München,_Asamkirche,_Turm,_2.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/München,_Asamkirche,_Turm,_2.jpeg/1200px-München,_Asamkirche,_Turm,_2.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/München,_Asamkirche,_Turm,_2.jpeg/1920px-München,_Asamkirche,_Turm,_2.jpeg
+  St. Nepomuk retusche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/400px-St._Nepomuk_retusche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/800px-St._Nepomuk_retusche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1200px-St._Nepomuk_retusche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St._Nepomuk_retusche.jpg/1920px-St._Nepomuk_retusche.jpg
+  Asamkirche - München - 2022-04-28 - 293a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Asamkirche_-_München_-_2022-04-28_-_293a.jpg/400px-Asamkirche_-_München_-_2022-04-28_-_293a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Asamkirche_-_München_-_2022-04-28_-_293a.jpg/800px-Asamkirche_-_München_-_2022-04-28_-_293a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Asamkirche_-_München_-_2022-04-28_-_293a.jpg/1200px-Asamkirche_-_München_-_2022-04-28_-_293a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Asamkirche_-_München_-_2022-04-28_-_293a.jpg/1920px-Asamkirche_-_München_-_2022-04-28_-_293a.jpg
 ---
 
 ## Overview

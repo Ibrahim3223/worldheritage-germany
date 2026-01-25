@@ -1,19 +1,49 @@
 ---
-title: "DITIB-Merkez-Moschee"
+title: DITIB-Merkez-Moschee
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5094
 longitude: 6.75389
 images:
-  - "/images-sites/ditib-merkez-moschee/01-f9a8b3a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Merkez-Moschee,_Duisburg-Marxloh.jpg/1200px-Merkez-Moschee,_Duisburg-Marxloh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/1200px-DITIB-Merkez-Mosque_Front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg/1200px-DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duisburg_Merkez-Moschee_2.jpg/1200px-Duisburg_Merkez-Moschee_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duisburg_Merkez-Moschee_3.jpg/1200px-Duisburg_Merkez-Moschee_3.jpg
+image_srcset:
+  Merkez-Moschee, Duisburg-Marxloh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Merkez-Moschee,_Duisburg-Marxloh.jpg/400px-Merkez-Moschee,_Duisburg-Marxloh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Merkez-Moschee,_Duisburg-Marxloh.jpg/800px-Merkez-Moschee,_Duisburg-Marxloh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Merkez-Moschee,_Duisburg-Marxloh.jpg/1200px-Merkez-Moschee,_Duisburg-Marxloh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Merkez-Moschee,_Duisburg-Marxloh.jpg/1920px-Merkez-Moschee,_Duisburg-Marxloh.jpg
+  DITIB-Merkez-Mosque Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/400px-DITIB-Merkez-Mosque_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/800px-DITIB-Merkez-Mosque_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/1200px-DITIB-Merkez-Mosque_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/DITIB-Merkez-Mosque_Front.jpg/1920px-DITIB-Merkez-Mosque_Front.jpg
+  DITIB-Merkez-Moschee Duisburg IMGP0009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg/400px-DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg/800px-DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg/1200px-DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg/1920px-DITIB-Merkez-Moschee_Duisburg_IMGP0009.jpg
+  Duisburg Merkez-Moschee 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duisburg_Merkez-Moschee_2.jpg/400px-Duisburg_Merkez-Moschee_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duisburg_Merkez-Moschee_2.jpg/800px-Duisburg_Merkez-Moschee_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duisburg_Merkez-Moschee_2.jpg/1200px-Duisburg_Merkez-Moschee_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duisburg_Merkez-Moschee_2.jpg/1920px-Duisburg_Merkez-Moschee_2.jpg
+  Duisburg Merkez-Moschee 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duisburg_Merkez-Moschee_3.jpg/400px-Duisburg_Merkez-Moschee_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duisburg_Merkez-Moschee_3.jpg/800px-Duisburg_Merkez-Moschee_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duisburg_Merkez-Moschee_3.jpg/1200px-Duisburg_Merkez-Moschee_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Duisburg_Merkez-Moschee_3.jpg/1920px-Duisburg_Merkez-Moschee_3.jpg
 ---
 
 ## Overview

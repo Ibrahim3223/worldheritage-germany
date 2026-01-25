@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2317560"
 description: "In the heart of Döhren-Wülfel, Germany, lies St. Bernward, a church building that captivates visitors with its architectural elegance and historical sig..."
 images:
-  - "/images-sites/st-bernward/01-b9bdeb96-1920w.webp"
-  - "/images-sites/st-bernward/02-913078fa-1920w.webp"
-  - "/images-sites/st-bernward/03-ceef510d-1920w.webp"
+  - "/images/st-bernward/01-b9bdeb96-1920w.webp"
+  - "/images/st-bernward/02-913078fa-1920w.webp"
+  - "/images/st-bernward/03-ceef510d-1920w.webp"
 ---
 
 ## Overview

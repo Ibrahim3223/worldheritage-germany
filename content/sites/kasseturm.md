@@ -13,7 +13,7 @@ regions:
 latitude: 50.9819
 longitude: 11.3261
 images:
-  - "/images-sites/kasseturm/01-81b6debf-800w.webp"
+  - "/images/kasseturm/01-81b6debf-800w.webp"
 ---
 
 ## Overview

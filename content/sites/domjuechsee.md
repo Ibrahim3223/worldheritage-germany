@@ -1,19 +1,43 @@
 ---
-title: "Domjüchsee"
+title: Domjüchsee
 date: 2026-01-23
 draft: false
-description: "lake in Neustrelitz, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Neustrelitz, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.331138888
 longitude: 13.131511111
 images:
-  - "/images-sites/domjuechsee/01-fa7defef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg/1200px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg/1200px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Domjüchsee.jpg/1200px-Domjüchsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg/1200px-Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg
+image_srcset:
+  Neustrelitz, Mecklenburg-Vorpommern - Kurhaus am Domjüchsee (2) (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg/400px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg/800px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg/1200px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg/1920px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(Zeno_Ansichtskarten).jpg
+  Neustrelitz, Mecklenburg-Vorpommern - Kurhaus am Domjüchsee (2) (back) (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg/400px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg/800px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg/1200px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg/1920px-Neustrelitz,_Mecklenburg-Vorpommern_-_Kurhaus_am_Domjüchsee_(2)_(back)_(Zeno_Ansichtskarten).jpg
+  Domjüchsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Domjüchsee.jpg/400px-Domjüchsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Domjüchsee.jpg/800px-Domjüchsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Domjüchsee.jpg/1200px-Domjüchsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Domjüchsee.jpg/1920px-Domjüchsee.jpg
+  Alt Strelitz, Sonnenuntergang am Domjuechsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg/400px-Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg/800px-Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg/1200px-Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg/1920px-Alt_Strelitz,_Sonnenuntergang_am_Domjuechsee.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.421303
 longitude: 9.648473
 images:
-  - "/images-sites/werra/01-4eabbaea-800w.webp"
+  - "/images/werra/01-4eabbaea-800w.webp"
 ---
 
 ## Overview

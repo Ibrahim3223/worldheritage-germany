@@ -13,7 +13,7 @@ regions:
 latitude: 52.5186
 longitude: 13.3725
 images:
-  - "/images-sites/platz-der-republik/01-62444bb8-800w.webp"
+  - "/images/platz-der-republik/01-62444bb8-800w.webp"
 ---
 
 ## Overview

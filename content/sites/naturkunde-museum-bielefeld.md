@@ -13,7 +13,7 @@ regions:
 latitude: 52.0165
 longitude: 8.52857
 images:
-  - "/images-sites/naturkunde-museum-bielefeld/01-1bebb452-800w.webp"
+  - "/images/naturkunde-museum-bielefeld/01-1bebb452-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Alte Burg"
+title: Alte Burg
 date: 2026-01-23
 draft: false
-description: "castle in Berka vor dem Hainich"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Berka vor dem Hainich
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.0583
 longitude: 10.4114
-
-# Images
 images:
-  - "/images-sites/alte-burg/01-af7ed599-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alte_Burg_Netphen.jpg/1200px-Alte_Burg_Netphen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gernrode,_Osterteich_001.jpg/1200px-Gernrode,_Osterteich_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg/1200px-Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg/1200px-Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg/1200px-Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg
+image_srcset:
+  Alte Burg Netphen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alte_Burg_Netphen.jpg/400px-Alte_Burg_Netphen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alte_Burg_Netphen.jpg/800px-Alte_Burg_Netphen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alte_Burg_Netphen.jpg/1200px-Alte_Burg_Netphen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alte_Burg_Netphen.jpg/1920px-Alte_Burg_Netphen.jpg
+  Gernrode, Osterteich 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gernrode,_Osterteich_001.jpg/400px-Gernrode,_Osterteich_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gernrode,_Osterteich_001.jpg/800px-Gernrode,_Osterteich_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gernrode,_Osterteich_001.jpg/1200px-Gernrode,_Osterteich_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gernrode,_Osterteich_001.jpg/1920px-Gernrode,_Osterteich_001.jpg
+  Tor zum Burghof von Praunheim Graebestraße 1911 nach Kronberg verkauft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg/400px-Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg/800px-Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg/1200px-Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg/1920px-Tor_zum_Burghof_von_Praunheim_Graebestraße_1911_nach_Kronberg_verkauft.jpg
+  Ziegenmarkt in Praunheim um 1900 im alten Burghof, ecke Graebestraße Alt Praunheim Tankstelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg/400px-Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg/800px-Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg/1200px-Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg/1920px-Ziegenmarkt_in_Praunheim_um_1900_im_alten_Burghof,_ecke_Graebestraße_Alt_Praunheim_Tankstelle.jpg
+  Burgtor zu Praunheim mit Blick zur Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg/400px-Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg/800px-Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg/1200px-Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg/1920px-Burgtor_zu_Praunheim_mit_Blick_zur_Kirche.jpg
 ---
 
 ## Overview

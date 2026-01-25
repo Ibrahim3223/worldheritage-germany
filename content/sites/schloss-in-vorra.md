@@ -13,7 +13,7 @@ regions:
 latitude: 49.57336
 longitude: 11.49708
 images:
-  - "/images-sites/schloss-in-vorra/01-5ed0ff69-800w.webp"
+  - "/images/schloss-in-vorra/01-5ed0ff69-800w.webp"
 ---
 
 ## Overview

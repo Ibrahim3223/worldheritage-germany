@@ -13,7 +13,7 @@ regions:
 latitude: 53.28
 longitude: 13.864166666
 images:
-  - "/images-sites/unteruckersee/01-dedfa2d1-800w.webp"
+  - "/images/unteruckersee/01-dedfa2d1-800w.webp"
 ---
 
 ## Overview

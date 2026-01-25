@@ -1,23 +1,51 @@
 ---
-title: "Aula Palatina"
-site_name: "Aula Palatina"
-slug: "aula-palatina"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Aula Palatina
+site_name: Aula Palatina
+slug: aula-palatina
+region: Rhineland-Palatinate
 latitude: 49.75333333333333
 longitude: 6.6433333333333335
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q686773"
-description: "Imagine stepping into a grand ecclesiastical space that has witnessed centuries of worship and community gatherings. The Aula Palatina, located in the h..."
+- cultural site
+wikidata_id: Q686773
+description: Imagine stepping into a grand ecclesiastical space that has witnessed
+  centuries of worship and community gatherings. The Aula Palatina, located in the
+  h...
 images:
-  - "/images-sites/aula-palatina/01-4c8c27e0-1920w.webp"
-  - "/images-sites/aula-palatina/02-476415f6-1920w.webp"
-  - "/images-sites/aula-palatina/03-08776c86-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00%200099%20Trier%20-%20Konstantinbasilika.jpg/1200px-00%200099%20Trier%20-%20Konstantinbasilika.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trier%20Konstantinbasilika%20BW%201.JPG/1200px-Trier%20Konstantinbasilika%20BW%201.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Trier_--_2015_--_6161.jpg/1200px-Trier_--_2015_--_6161.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Trier_Konstantinbasilika_BW_1.JPG/1200px-Trier_Konstantinbasilika_BW_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/1200px-00_0099_Trier_-_Konstantinbasilika.jpg
+image_srcset:
+  00%200099%20Trier%20-%20Konstantinbasilika.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00%200099%20Trier%20-%20Konstantinbasilika.jpg/400px-00%200099%20Trier%20-%20Konstantinbasilika.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00%200099%20Trier%20-%20Konstantinbasilika.jpg/800px-00%200099%20Trier%20-%20Konstantinbasilika.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00%200099%20Trier%20-%20Konstantinbasilika.jpg/1200px-00%200099%20Trier%20-%20Konstantinbasilika.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00%200099%20Trier%20-%20Konstantinbasilika.jpg/1920px-00%200099%20Trier%20-%20Konstantinbasilika.jpg
+  Trier%20Konstantinbasilika%20BW%201.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trier%20Konstantinbasilika%20BW%201.JPG/400px-Trier%20Konstantinbasilika%20BW%201.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trier%20Konstantinbasilika%20BW%201.JPG/800px-Trier%20Konstantinbasilika%20BW%201.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trier%20Konstantinbasilika%20BW%201.JPG/1200px-Trier%20Konstantinbasilika%20BW%201.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trier%20Konstantinbasilika%20BW%201.JPG/1920px-Trier%20Konstantinbasilika%20BW%201.JPG
+  Trier -- 2015 -- 6161.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Trier_--_2015_--_6161.jpg/400px-Trier_--_2015_--_6161.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Trier_--_2015_--_6161.jpg/800px-Trier_--_2015_--_6161.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Trier_--_2015_--_6161.jpg/1200px-Trier_--_2015_--_6161.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Trier_--_2015_--_6161.jpg/1920px-Trier_--_2015_--_6161.jpg
+  Trier Konstantinbasilika BW 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Trier_Konstantinbasilika_BW_1.JPG/400px-Trier_Konstantinbasilika_BW_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Trier_Konstantinbasilika_BW_1.JPG/800px-Trier_Konstantinbasilika_BW_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Trier_Konstantinbasilika_BW_1.JPG/1200px-Trier_Konstantinbasilika_BW_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Trier_Konstantinbasilika_BW_1.JPG/1920px-Trier_Konstantinbasilika_BW_1.JPG
+  00 0099 Trier - Konstantinbasilika.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/400px-00_0099_Trier_-_Konstantinbasilika.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/800px-00_0099_Trier_-_Konstantinbasilika.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/1200px-00_0099_Trier_-_Konstantinbasilika.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/00_0099_Trier_-_Konstantinbasilika.jpg/1920px-00_0099_Trier_-_Konstantinbasilika.jpg
 ---
 
 ## Overview

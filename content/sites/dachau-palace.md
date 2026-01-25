@@ -1,27 +1,49 @@
 ---
-title: "Dachau Palace"
+title: Dachau Palace
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.258388888
 longitude: 11.432972222
-
-# Images
 images:
-  - "/images-sites/dachau-palace/01-67472d82-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dachau_Ansicht_um_1750.jpg/1200px-Dachau_Ansicht_um_1750.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dachau,_das_Schloss.jpg/1200px-Dachau,_das_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossdachau1.jpg/1200px-Schlossdachau1.jpg
+image_srcset:
+  Aerial image of the Dachau palace (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Dachau_palace_(view_from_the_southwest).jpg
+  Aerial image of the Dachau palace and court garden (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Dachau_palace_and_court_garden_(view_from_the_southwest).jpg
+  Dachau Ansicht um 1750.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dachau_Ansicht_um_1750.jpg/400px-Dachau_Ansicht_um_1750.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dachau_Ansicht_um_1750.jpg/800px-Dachau_Ansicht_um_1750.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dachau_Ansicht_um_1750.jpg/1200px-Dachau_Ansicht_um_1750.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dachau_Ansicht_um_1750.jpg/1920px-Dachau_Ansicht_um_1750.jpg
+  Dachau, das Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dachau,_das_Schloss.jpg/400px-Dachau,_das_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dachau,_das_Schloss.jpg/800px-Dachau,_das_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dachau,_das_Schloss.jpg/1200px-Dachau,_das_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Dachau,_das_Schloss.jpg/1920px-Dachau,_das_Schloss.jpg
+  Schlossdachau1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossdachau1.jpg/400px-Schlossdachau1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossdachau1.jpg/800px-Schlossdachau1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossdachau1.jpg/1200px-Schlossdachau1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Schlossdachau1.jpg/1920px-Schlossdachau1.jpg
 ---
 
 ## Overview

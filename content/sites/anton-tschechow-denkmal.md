@@ -1,19 +1,49 @@
 ---
-title: "Anton Tschechow Denkmal"
+title: Anton Tschechow Denkmal
 date: 2026-01-23
 draft: false
-description: "monument in Badenweiler, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Badenweiler, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 47.801928
 longitude: 7.673132
 images:
-  - "/images-sites/anton-tschechow-denkmal/01-fca8c41a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Chekhov_in_Badenweiler_01.JPG/1200px-Anton_Chekhov_in_Badenweiler_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anton_Chekhov_in_Badenweiler_03.JPG/1200px-Anton_Chekhov_in_Badenweiler_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anton_Chekhov_in_Badenweiler_04.JPG/1200px-Anton_Chekhov_in_Badenweiler_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Anton_Chekhov_in_Badenweiler_05.JPG/1200px-Anton_Chekhov_in_Badenweiler_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BW42_Tschechoff_Denkmal.jpg/1200px-BW42_Tschechoff_Denkmal.jpg
+image_srcset:
+  Anton Chekhov in Badenweiler 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Chekhov_in_Badenweiler_01.JPG/400px-Anton_Chekhov_in_Badenweiler_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Chekhov_in_Badenweiler_01.JPG/800px-Anton_Chekhov_in_Badenweiler_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Chekhov_in_Badenweiler_01.JPG/1200px-Anton_Chekhov_in_Badenweiler_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Chekhov_in_Badenweiler_01.JPG/1920px-Anton_Chekhov_in_Badenweiler_01.JPG
+  Anton Chekhov in Badenweiler 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anton_Chekhov_in_Badenweiler_03.JPG/400px-Anton_Chekhov_in_Badenweiler_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anton_Chekhov_in_Badenweiler_03.JPG/800px-Anton_Chekhov_in_Badenweiler_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anton_Chekhov_in_Badenweiler_03.JPG/1200px-Anton_Chekhov_in_Badenweiler_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anton_Chekhov_in_Badenweiler_03.JPG/1920px-Anton_Chekhov_in_Badenweiler_03.JPG
+  Anton Chekhov in Badenweiler 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anton_Chekhov_in_Badenweiler_04.JPG/400px-Anton_Chekhov_in_Badenweiler_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anton_Chekhov_in_Badenweiler_04.JPG/800px-Anton_Chekhov_in_Badenweiler_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anton_Chekhov_in_Badenweiler_04.JPG/1200px-Anton_Chekhov_in_Badenweiler_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anton_Chekhov_in_Badenweiler_04.JPG/1920px-Anton_Chekhov_in_Badenweiler_04.JPG
+  Anton Chekhov in Badenweiler 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Anton_Chekhov_in_Badenweiler_05.JPG/400px-Anton_Chekhov_in_Badenweiler_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Anton_Chekhov_in_Badenweiler_05.JPG/800px-Anton_Chekhov_in_Badenweiler_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Anton_Chekhov_in_Badenweiler_05.JPG/1200px-Anton_Chekhov_in_Badenweiler_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Anton_Chekhov_in_Badenweiler_05.JPG/1920px-Anton_Chekhov_in_Badenweiler_05.JPG
+  BW42 Tschechoff Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BW42_Tschechoff_Denkmal.jpg/400px-BW42_Tschechoff_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BW42_Tschechoff_Denkmal.jpg/800px-BW42_Tschechoff_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BW42_Tschechoff_Denkmal.jpg/1200px-BW42_Tschechoff_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BW42_Tschechoff_Denkmal.jpg/1920px-BW42_Tschechoff_Denkmal.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Ettal Abbey"
+title: Ettal Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.569577059
 longitude: 11.094658627
 images:
-  - "/images-sites/ettal-abbey/01-25d7107a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kloster_Ettal_und_Basilika.jpg/1200px-Kloster_Ettal_und_Basilika.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ettal_Abbey_Church,_August_2017.jpg/1200px-Ettal_Abbey_Church,_August_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/1200px-Ettal_-_Klosterkirche_Ettal2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ettaler_Manndl_von_Notkarspitze.jpg/1200px-Ettaler_Manndl_von_Notkarspitze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_Ettal_von_oben.jpg/1200px-Kloster_Ettal_von_oben.jpg
+image_srcset:
+  Kloster Ettal und Basilika.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kloster_Ettal_und_Basilika.jpg/400px-Kloster_Ettal_und_Basilika.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kloster_Ettal_und_Basilika.jpg/800px-Kloster_Ettal_und_Basilika.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kloster_Ettal_und_Basilika.jpg/1200px-Kloster_Ettal_und_Basilika.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kloster_Ettal_und_Basilika.jpg/1920px-Kloster_Ettal_und_Basilika.jpg
+  Ettal Abbey Church, August 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ettal_Abbey_Church,_August_2017.jpg/400px-Ettal_Abbey_Church,_August_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ettal_Abbey_Church,_August_2017.jpg/800px-Ettal_Abbey_Church,_August_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ettal_Abbey_Church,_August_2017.jpg/1200px-Ettal_Abbey_Church,_August_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ettal_Abbey_Church,_August_2017.jpg/1920px-Ettal_Abbey_Church,_August_2017.jpg
+  Ettal - Klosterkirche Ettal2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/400px-Ettal_-_Klosterkirche_Ettal2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/800px-Ettal_-_Klosterkirche_Ettal2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/1200px-Ettal_-_Klosterkirche_Ettal2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ettal_-_Klosterkirche_Ettal2.jpg/1920px-Ettal_-_Klosterkirche_Ettal2.jpg
+  Ettaler Manndl von Notkarspitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ettaler_Manndl_von_Notkarspitze.jpg/400px-Ettaler_Manndl_von_Notkarspitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ettaler_Manndl_von_Notkarspitze.jpg/800px-Ettaler_Manndl_von_Notkarspitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ettaler_Manndl_von_Notkarspitze.jpg/1200px-Ettaler_Manndl_von_Notkarspitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ettaler_Manndl_von_Notkarspitze.jpg/1920px-Ettaler_Manndl_von_Notkarspitze.jpg
+  Kloster Ettal von oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_Ettal_von_oben.jpg/400px-Kloster_Ettal_von_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_Ettal_von_oben.jpg/800px-Kloster_Ettal_von_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_Ettal_von_oben.jpg/1200px-Kloster_Ettal_von_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kloster_Ettal_von_oben.jpg/1920px-Kloster_Ettal_von_oben.jpg
 ---
 
 ## Overview

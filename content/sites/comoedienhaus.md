@@ -1,20 +1,49 @@
 ---
-title: "Comoedienhaus"
+title: Comoedienhaus
 date: 2026-01-24
 draft: false
-description: "former theatre in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: former theatre in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.11433
 longitude: 8.67696
 images:
-  - "/images-sites/comoedienhaus/02-3e07c815-800w.webp"
-  - "/images-sites/comoedienhaus/03-588b45e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Comoedienhaus_Ansicht_von_Süden.jpg/1200px-Comoedienhaus_Ansicht_von_Süden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Comoedienhaus_Grundriss.jpg/1200px-Comoedienhaus_Grundriss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Komödienhaus_Frankfurt_c1870.jpg/1200px-Komödienhaus_Frankfurt_c1870.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Woltze_Frankfurt_Komoedienhaus.jpg/1200px-Woltze_Frankfurt_Komoedienhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/1200px-Frankfurt_Comoedienhaus_1902.jpg
+image_srcset:
+  Comoedienhaus Ansicht von Süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Comoedienhaus_Ansicht_von_Süden.jpg/400px-Comoedienhaus_Ansicht_von_Süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Comoedienhaus_Ansicht_von_Süden.jpg/800px-Comoedienhaus_Ansicht_von_Süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Comoedienhaus_Ansicht_von_Süden.jpg/1200px-Comoedienhaus_Ansicht_von_Süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Comoedienhaus_Ansicht_von_Süden.jpg/1920px-Comoedienhaus_Ansicht_von_Süden.jpg
+  Comoedienhaus Grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Comoedienhaus_Grundriss.jpg/400px-Comoedienhaus_Grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Comoedienhaus_Grundriss.jpg/800px-Comoedienhaus_Grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Comoedienhaus_Grundriss.jpg/1200px-Comoedienhaus_Grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Comoedienhaus_Grundriss.jpg/1920px-Comoedienhaus_Grundriss.jpg
+  Komödienhaus Frankfurt c1870.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Komödienhaus_Frankfurt_c1870.jpg/400px-Komödienhaus_Frankfurt_c1870.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Komödienhaus_Frankfurt_c1870.jpg/800px-Komödienhaus_Frankfurt_c1870.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Komödienhaus_Frankfurt_c1870.jpg/1200px-Komödienhaus_Frankfurt_c1870.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Komödienhaus_Frankfurt_c1870.jpg/1920px-Komödienhaus_Frankfurt_c1870.jpg
+  Woltze Frankfurt Komoedienhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Woltze_Frankfurt_Komoedienhaus.jpg/400px-Woltze_Frankfurt_Komoedienhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Woltze_Frankfurt_Komoedienhaus.jpg/800px-Woltze_Frankfurt_Komoedienhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Woltze_Frankfurt_Komoedienhaus.jpg/1200px-Woltze_Frankfurt_Komoedienhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Woltze_Frankfurt_Komoedienhaus.jpg/1920px-Woltze_Frankfurt_Komoedienhaus.jpg
+  Frankfurt Comoedienhaus 1902.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/400px-Frankfurt_Comoedienhaus_1902.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/800px-Frankfurt_Comoedienhaus_1902.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/1200px-Frankfurt_Comoedienhaus_1902.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frankfurt_Comoedienhaus_1902.jpg/1920px-Frankfurt_Comoedienhaus_1902.jpg
 ---
 
 ## Overview

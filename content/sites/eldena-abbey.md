@@ -1,29 +1,49 @@
 ---
-title: "Eldena Abbey"
+title: Eldena Abbey
 date: 2026-01-23
 draft: false
-description: "former Cistercian monastery in Mecklenburg-Vorpommern, Germany, in ruins"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: former Cistercian monastery in Mecklenburg-Vorpommern, Germany, in ruins
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.0892
 longitude: 13.452219444
-
-# Images
 images:
-  - "/images-sites/eldena-abbey/01-61ec1434-800w.webp"
-  - "/images-sites/eldena-abbey/02-697750be-800w.webp"
-  - "/images-sites/eldena-abbey/03-411e0678-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1200px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+image_srcset:
+  Greifswald Klosterruine Eldena Kirche Ost 2014-11-30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/400px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/800px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1200px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg/1920px-Greifswald_Klosterruine_Eldena_Kirche_Ost_2014-11-30.jpg
+  20040630301DR Eldena (Greifswald) Klosterruine Eldena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/400px-20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/800px-20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1920px-20040630301DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+  20040630340DR Eldena (Greifswald) Klosterruine Eldena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/400px-20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/800px-20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1920px-20040630340DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+  20040630300DR Eldena (Greifswald) Klosterruine Eldena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/400px-20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/800px-20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1920px-20040630300DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+  20040630320DR Eldena (Greifswald) Klosterruine Eldena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/400px-20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/800px-20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1200px-20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg/1920px-20040630320DR_Eldena_(Greifswald)_Klosterruine_Eldena.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 54.3139
 longitude: 13.0861
 images:
-  - "/images-sites/kuetertor/01-bcdd6893-800w.webp"
-  - "/images-sites/kuetertor/02-ef5775b2-800w.webp"
+  - "/images/kuetertor/01-bcdd6893-800w.webp"
+  - "/images/kuetertor/02-ef5775b2-800w.webp"
 ---
 
 ## Overview

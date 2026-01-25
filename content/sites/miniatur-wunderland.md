@@ -13,9 +13,9 @@ regions:
 latitude: 53.5438229
 longitude: 9.9889448
 images:
-  - "/images-sites/miniatur-wunderland/01-20a0a465-800w.webp"
-  - "/images-sites/miniatur-wunderland/02-83f55b72-800w.webp"
-  - "/images-sites/miniatur-wunderland/03-e35a8e31-800w.webp"
+  - "/images/miniatur-wunderland/01-20a0a465-800w.webp"
+  - "/images/miniatur-wunderland/02-83f55b72-800w.webp"
+  - "/images/miniatur-wunderland/03-e35a8e31-800w.webp"
 ---
 
 ## Overview

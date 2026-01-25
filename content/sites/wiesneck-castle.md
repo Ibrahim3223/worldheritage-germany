@@ -21,7 +21,7 @@ longitude: 7.99966389
 
 # Images
 images:
-  - "/images-sites/wiesneck-castle/01-f1abebee-800w.webp"
+  - "/images/wiesneck-castle/01-f1abebee-800w.webp"
 ---
 
 ## Overview

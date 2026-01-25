@@ -13,7 +13,7 @@ regions:
 latitude: 52.5361
 longitude: 13.2089
 images:
-  - "/images-sites/spree/01-a96b2bab-800w.webp"
+  - "/images/spree/01-a96b2bab-800w.webp"
 ---
 
 ## Overview

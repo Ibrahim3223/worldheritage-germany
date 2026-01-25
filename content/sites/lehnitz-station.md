@@ -13,7 +13,7 @@ regions:
 latitude: 52.7411
 longitude: 13.2635
 images:
-  - "/images-sites/lehnitz-station/01-5667d5fb-800w.webp"
+  - "/images/lehnitz-station/01-5667d5fb-800w.webp"
 ---
 
 ## Overview

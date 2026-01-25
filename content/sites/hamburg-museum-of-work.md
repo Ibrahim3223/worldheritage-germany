@@ -1,21 +1,49 @@
 ---
-title: "Hamburg Museum of Work"
+title: Hamburg Museum of Work
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.58583333
 longitude: 10.04565
 images:
-  - "/images-sites/hamburg-museum-of-work/01-62fc1387-800w.webp"
-  - "/images-sites/hamburg-museum-of-work/02-04d6a5ba-800w.webp"
-  - "/images-sites/hamburg-museum-of-work/03-440e8e9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg/1200px-Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum_der_Arbeit_Museumshof.JPG/1200px-Museum_der_Arbeit_Museumshof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_der_Arbeit.jpg/1200px-Museum_der_Arbeit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg/1200px-Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg/1200px-Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg
+image_srcset:
+  Kopie aus Plastikstoff des Karl Marx Monumentes aus Chemnitz.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg/400px-Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg/800px-Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg/1200px-Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg/1920px-Kopie_aus_Plastikstoff_des_Karl_Marx_Monumentes_aus_Chemnitz.jpeg
+  Museum der Arbeit Museumshof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum_der_Arbeit_Museumshof.JPG/400px-Museum_der_Arbeit_Museumshof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum_der_Arbeit_Museumshof.JPG/800px-Museum_der_Arbeit_Museumshof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum_der_Arbeit_Museumshof.JPG/1200px-Museum_der_Arbeit_Museumshof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Museum_der_Arbeit_Museumshof.JPG/1920px-Museum_der_Arbeit_Museumshof.JPG
+  Museum der Arbeit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_der_Arbeit.jpg/400px-Museum_der_Arbeit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_der_Arbeit.jpg/800px-Museum_der_Arbeit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_der_Arbeit.jpg/1200px-Museum_der_Arbeit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Museum_der_Arbeit.jpg/1920px-Museum_der_Arbeit.jpg
+  Hamburg Museum of Work and surroundings, aerial view, 2023-06-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg/400px-Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg/800px-Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg/1200px-Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg/1920px-Hamburg_Museum_of_Work_and_surroundings,_aerial_view,_2023-06-06.jpg
+  Hamburg Museum of Work, aerial view, 2023-06-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg/400px-Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg/800px-Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg/1200px-Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg/1920px-Hamburg_Museum_of_Work,_aerial_view,_2023-06-06.jpg
 ---
 
 ## Overview

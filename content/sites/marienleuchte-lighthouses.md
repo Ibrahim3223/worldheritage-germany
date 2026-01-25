@@ -13,7 +13,7 @@ regions:
 latitude: 54.495
 longitude: 11.238055555
 images:
-  - "/images-sites/marienleuchte-lighthouses/01-352eed9d-800w.webp"
+  - "/images/marienleuchte-lighthouses/01-352eed9d-800w.webp"
 ---
 
 ## Overview

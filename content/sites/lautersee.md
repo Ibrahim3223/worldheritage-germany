@@ -13,7 +13,7 @@ regions:
 latitude: 47.438611111
 longitude: 11.235277777
 images:
-  - "/images-sites/lautersee/01-839baa01-800w.webp"
+  - "/images/lautersee/01-839baa01-800w.webp"
 ---
 
 ## Overview

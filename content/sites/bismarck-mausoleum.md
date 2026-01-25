@@ -1,20 +1,50 @@
 ---
-title: "Bismarck Mausoleum"
+title: Bismarck Mausoleum
 date: 2026-01-23
 draft: false
-description: "burial place of Otto von Bismarck and his wife in Friedrichsruh near Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: burial place of Otto von Bismarck and his wife in Friedrichsruh near
+  Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5277
 longitude: 10.3361
 images:
-  - "/images-sites/bismarck-mausoleum/01-345ed86a-800w.webp"
-  - "/images-sites/bismarck-mausoleum/03-0c05d290-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Die_Gartenlaube_(1899)_b_0200.jpg/1200px-Die_Gartenlaube_(1899)_b_0200.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Die_Gartenlaube_(1899)_b_0099.jpg/1200px-Die_Gartenlaube_(1899)_b_0099.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RK_2105_P1840803_Bismarck-Mausoleum.jpg/1200px-RK_2105_P1840803_Bismarck-Mausoleum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg/1200px-Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BismarckMausoleum.jpg/1200px-BismarckMausoleum.jpg
+image_srcset:
+  Die Gartenlaube (1899) b 0200.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Die_Gartenlaube_(1899)_b_0200.jpg/400px-Die_Gartenlaube_(1899)_b_0200.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Die_Gartenlaube_(1899)_b_0200.jpg/800px-Die_Gartenlaube_(1899)_b_0200.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Die_Gartenlaube_(1899)_b_0200.jpg/1200px-Die_Gartenlaube_(1899)_b_0200.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Die_Gartenlaube_(1899)_b_0200.jpg/1920px-Die_Gartenlaube_(1899)_b_0200.jpg
+  Die Gartenlaube (1899) b 0099.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Die_Gartenlaube_(1899)_b_0099.jpg/400px-Die_Gartenlaube_(1899)_b_0099.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Die_Gartenlaube_(1899)_b_0099.jpg/800px-Die_Gartenlaube_(1899)_b_0099.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Die_Gartenlaube_(1899)_b_0099.jpg/1200px-Die_Gartenlaube_(1899)_b_0099.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Die_Gartenlaube_(1899)_b_0099.jpg/1920px-Die_Gartenlaube_(1899)_b_0099.jpg
+  RK 2105 P1840803 Bismarck-Mausoleum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RK_2105_P1840803_Bismarck-Mausoleum.jpg/400px-RK_2105_P1840803_Bismarck-Mausoleum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RK_2105_P1840803_Bismarck-Mausoleum.jpg/800px-RK_2105_P1840803_Bismarck-Mausoleum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RK_2105_P1840803_Bismarck-Mausoleum.jpg/1200px-RK_2105_P1840803_Bismarck-Mausoleum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RK_2105_P1840803_Bismarck-Mausoleum.jpg/1920px-RK_2105_P1840803_Bismarck-Mausoleum.jpg
+  Bundesarchiv Bild 102-00339, Friedrichsruh, Gedenkfeier des Bismarckbundes.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg/400px-Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg/800px-Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg/1200px-Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg/1920px-Bundesarchiv_Bild_102-00339,_Friedrichsruh,_Gedenkfeier_des_Bismarckbundes.jpg
+  BismarckMausoleum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BismarckMausoleum.jpg/400px-BismarckMausoleum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BismarckMausoleum.jpg/800px-BismarckMausoleum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BismarckMausoleum.jpg/1200px-BismarckMausoleum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BismarckMausoleum.jpg/1920px-BismarckMausoleum.jpg
 ---
 
 ## Overview

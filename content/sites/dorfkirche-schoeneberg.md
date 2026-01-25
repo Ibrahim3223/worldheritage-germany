@@ -1,19 +1,49 @@
 ---
-title: "Dorfkirche Schöneberg"
+title: Dorfkirche Schöneberg
 date: 2026-01-23
 draft: false
-description: "church building in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: church building in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.482916666
 longitude: 13.349444444
 images:
-  - "/images-sites/dorfkirche-schoeneberg/01-24d46da0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dorfkirche_(Berlin-Schöneberg)_Altar.jpg/1200px-Dorfkirche_(Berlin-Schöneberg)_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/1200px-Dorfkirche_B-Schoeneberg_10-2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg/1200px-Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg/1200px-Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg/1200px-Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg
+image_srcset:
+  Dorfkirche (Berlin-Schöneberg) Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dorfkirche_(Berlin-Schöneberg)_Altar.jpg/400px-Dorfkirche_(Berlin-Schöneberg)_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dorfkirche_(Berlin-Schöneberg)_Altar.jpg/800px-Dorfkirche_(Berlin-Schöneberg)_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dorfkirche_(Berlin-Schöneberg)_Altar.jpg/1200px-Dorfkirche_(Berlin-Schöneberg)_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dorfkirche_(Berlin-Schöneberg)_Altar.jpg/1920px-Dorfkirche_(Berlin-Schöneberg)_Altar.jpg
+  Dorfkirche B-Schoeneberg 10-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/400px-Dorfkirche_B-Schoeneberg_10-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/800px-Dorfkirche_B-Schoeneberg_10-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/1200px-Dorfkirche_B-Schoeneberg_10-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dorfkirche_B-Schoeneberg_10-2014.jpg/1920px-Dorfkirche_B-Schoeneberg_10-2014.jpg
+  Berlin schoeneberg hauptstrasse 06.09.2013 09-00-57.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg/400px-Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg/800px-Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg/1200px-Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg/1920px-Berlin_schoeneberg_hauptstrasse_06.09.2013_09-00-57.jpg
+  Dorfkirche Schoeneberg (Schoeneberg Village Church) - geo.hlipp.de - 31483.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg/400px-Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg/800px-Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg/1200px-Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg/1920px-Dorfkirche_Schoeneberg_(Schoeneberg_Village_Church)_-_geo.hlipp.de_-_31483.jpg
+  Schoeneberg - Dorfkirche (Village Church) - geo.hlipp.de - 42545.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg/400px-Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg/800px-Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg/1200px-Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg/1920px-Schoeneberg_-_Dorfkirche_(Village_Church)_-_geo.hlipp.de_-_42545.jpg
 ---
 
 ## Overview

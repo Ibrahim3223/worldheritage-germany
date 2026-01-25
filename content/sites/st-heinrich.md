@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2318730"
 description: "St. Heinrich is a significant church building located in the Südstadt-Bult region of Hanover, Germany. This listed structure, constructed from brick, em..."
 images:
-  - "/images-sites/st-heinrich/01-4f8d1b0d-1920w.webp"
-  - "/images-sites/st-heinrich/02-9e1ef18a-1920w.webp"
-  - "/images-sites/st-heinrich/03-2407a8e0-1920w.webp"
+  - "/images/st-heinrich/01-4f8d1b0d-1920w.webp"
+  - "/images/st-heinrich/02-9e1ef18a-1920w.webp"
+  - "/images/st-heinrich/03-2407a8e0-1920w.webp"
 ---
 
 ## Overview

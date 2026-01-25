@@ -13,9 +13,9 @@ regions:
 latitude: 48.13496
 longitude: 11.58168
 images:
-  - "/images-sites/valentin-volkssaenger-musaeum/01-bd354845-800w.webp"
-  - "/images-sites/valentin-volkssaenger-musaeum/02-bdcc2ddf-800w.webp"
-  - "/images-sites/valentin-volkssaenger-musaeum/03-011533c7-800w.webp"
+  - "/images/valentin-volkssaenger-musaeum/01-bd354845-800w.webp"
+  - "/images/valentin-volkssaenger-musaeum/02-bdcc2ddf-800w.webp"
+  - "/images/valentin-volkssaenger-musaeum/03-011533c7-800w.webp"
 ---
 
 ## Overview

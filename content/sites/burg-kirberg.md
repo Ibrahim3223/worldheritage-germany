@@ -1,27 +1,49 @@
 ---
-title: "Burg Kirberg"
+title: Burg Kirberg
 date: 2026-01-23
 draft: false
-description: "Burgruine in Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Burgruine in Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.3106
 longitude: 8.15583
-
-# Images
 images:
-  - "/images-sites/burg-kirberg/01-e2f96b1a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Kirberg-01.jpg/1200px-Burg_Kirberg-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_Kirberg-02.jpg/1200px-Burg_Kirberg-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/51255_Kirberg,_Burgstraße_44_Burgruine2.JPG/1200px-51255_Kirberg,_Burgstraße_44_Burgruine2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/51255_Kirberg,_Burgstraße_44_Burgruine1.JPG/1200px-51255_Kirberg,_Burgstraße_44_Burgruine1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1200px-Kirberg_-_Burg.jpg
+image_srcset:
+  Burg Kirberg-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Kirberg-01.jpg/400px-Burg_Kirberg-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Kirberg-01.jpg/800px-Burg_Kirberg-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Kirberg-01.jpg/1200px-Burg_Kirberg-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Burg_Kirberg-01.jpg/1920px-Burg_Kirberg-01.jpg
+  Burg Kirberg-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_Kirberg-02.jpg/400px-Burg_Kirberg-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_Kirberg-02.jpg/800px-Burg_Kirberg-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_Kirberg-02.jpg/1200px-Burg_Kirberg-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Burg_Kirberg-02.jpg/1920px-Burg_Kirberg-02.jpg
+  51255 Kirberg, Burgstraße 44 Burgruine2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/51255_Kirberg,_Burgstraße_44_Burgruine2.JPG/400px-51255_Kirberg,_Burgstraße_44_Burgruine2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/51255_Kirberg,_Burgstraße_44_Burgruine2.JPG/800px-51255_Kirberg,_Burgstraße_44_Burgruine2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/51255_Kirberg,_Burgstraße_44_Burgruine2.JPG/1200px-51255_Kirberg,_Burgstraße_44_Burgruine2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/51255_Kirberg,_Burgstraße_44_Burgruine2.JPG/1920px-51255_Kirberg,_Burgstraße_44_Burgruine2.JPG
+  51255 Kirberg, Burgstraße 44 Burgruine1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/51255_Kirberg,_Burgstraße_44_Burgruine1.JPG/400px-51255_Kirberg,_Burgstraße_44_Burgruine1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/51255_Kirberg,_Burgstraße_44_Burgruine1.JPG/800px-51255_Kirberg,_Burgstraße_44_Burgruine1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/51255_Kirberg,_Burgstraße_44_Burgruine1.JPG/1200px-51255_Kirberg,_Burgstraße_44_Burgruine1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/51255_Kirberg,_Burgstraße_44_Burgruine1.JPG/1920px-51255_Kirberg,_Burgstraße_44_Burgruine1.JPG
+  Kirberg - Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/400px-Kirberg_-_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/800px-Kirberg_-_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1200px-Kirberg_-_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kirberg_-_Burg.jpg/1920px-Kirberg_-_Burg.jpg
 ---
 
 ## Overview

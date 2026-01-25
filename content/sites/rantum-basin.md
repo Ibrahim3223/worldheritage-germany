@@ -13,7 +13,7 @@ regions:
 latitude: 54.867122222
 longitude: 8.322144444
 images:
-  - "/images-sites/rantum-basin/01-1a2f30ed-800w.webp"
+  - "/images/rantum-basin/01-1a2f30ed-800w.webp"
 ---
 
 ## Overview

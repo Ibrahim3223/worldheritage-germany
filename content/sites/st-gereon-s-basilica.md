@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q682188"
 description: "St. Gereons Basilica, a remarkable church located in Cologne, Germany, presents a captivating blend of history and architectural beauty. Founded in 1201..."
 images:
-  - "/images-sites/st-gereon-s-basilica/01-2fcc8b39-1920w.webp"
-  - "/images-sites/st-gereon-s-basilica/02-0568f2c5-1920w.webp"
-  - "/images-sites/st-gereon-s-basilica/03-e7c2196c-1920w.webp"
+  - "/images/st-gereon-s-basilica/01-2fcc8b39-1920w.webp"
+  - "/images/st-gereon-s-basilica/02-0568f2c5-1920w.webp"
+  - "/images/st-gereon-s-basilica/03-e7c2196c-1920w.webp"
 ---
 
 ## Overview

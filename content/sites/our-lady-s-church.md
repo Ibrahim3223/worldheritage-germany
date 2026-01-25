@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1823922"
 description: "Our Ladys Church, a striking example of Gothic architecture, stands tall in the heart of Frankenberg, Germany. With its impressive height of 61.3 meters..."
 images:
-  - "/images-sites/our-lady-s-church/01-7c87d886-1920w.webp"
-  - "/images-sites/our-lady-s-church/02-63438c0f-1920w.webp"
-  - "/images-sites/our-lady-s-church/03-8f075261-1920w.webp"
+  - "/images/our-lady-s-church/01-7c87d886-1920w.webp"
+  - "/images/our-lady-s-church/02-63438c0f-1920w.webp"
+  - "/images/our-lady-s-church/03-8f075261-1920w.webp"
 ---
 
 ## Overview

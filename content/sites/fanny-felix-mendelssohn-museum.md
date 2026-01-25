@@ -1,19 +1,49 @@
 ---
-title: "Fanny & Felix Mendelssohn Museum"
+title: Fanny & Felix Mendelssohn Museum
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hamburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.551476
 longitude: 9.977276
 images:
-  - "/images-sites/fanny-felix-mendelssohn-museum/01-19c19b6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg/1200px-Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG/1200px-Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG/1200px-Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG/1200px-Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1200px-Peterstraße_29_Hamburg_2.JPG
+image_srcset:
+  Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg/400px-Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg/800px-Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg/1200px-Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg/1920px-Laterne.vor.Fanny-und-Felix-Mendelssohn-Museum.Komponistenquartier.Hamburg.jpg
+  Fanny & Felix Mendelssohn Museum - 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG/400px-Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG/800px-Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG/1200px-Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG/1920px-Fanny_&_Felix_Mendelssohn_Museum_-_1.JPG
+  Fanny & Felix Mendelssohn Museum - 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG/400px-Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG/800px-Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG/1200px-Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG/1920px-Fanny_&_Felix_Mendelssohn_Museum_-_2.JPG
+  Fanny & Felix Mendelssohn Museum - 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG/400px-Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG/800px-Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG/1200px-Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG/1920px-Fanny_&_Felix_Mendelssohn_Museum_-_3.JPG
+  Peterstraße 29 Hamburg 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/400px-Peterstraße_29_Hamburg_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/800px-Peterstraße_29_Hamburg_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1200px-Peterstraße_29_Hamburg_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Peterstraße_29_Hamburg_2.JPG/1920px-Peterstraße_29_Hamburg_2.JPG
 ---
 
 ## Overview

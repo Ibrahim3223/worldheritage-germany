@@ -13,7 +13,7 @@ regions:
 latitude: 47.89317
 longitude: 11.77991
 images:
-  - "/images-sites/orgelzentrum-valley/01-343b784d-800w.webp"
+  - "/images/orgelzentrum-valley/01-343b784d-800w.webp"
 ---
 
 ## Overview

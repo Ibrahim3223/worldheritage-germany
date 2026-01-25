@@ -1,21 +1,49 @@
 ---
-title: "Baden State Library"
+title: Baden State Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0078
 longitude: 8.39917
 images:
-  - "/images-sites/baden-state-library/01-817901c9-800w.webp"
-  - "/images-sites/baden-state-library/02-b63d8f4c-800w.webp"
-  - "/images-sites/baden-state-library/03-a798192a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/096_BLB_021_Fassade.jpg/1200px-096_BLB_021_Fassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Badische_Landesbibliothek_Karlsruhe.jpg/1200px-Badische_Landesbibliothek_Karlsruhe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg/1200px-Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/1200px-001_BLB_016_Fassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg/1200px-Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg
+image_srcset:
+  096 BLB 021 Fassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/096_BLB_021_Fassade.jpg/400px-096_BLB_021_Fassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/096_BLB_021_Fassade.jpg/800px-096_BLB_021_Fassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/096_BLB_021_Fassade.jpg/1200px-096_BLB_021_Fassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/096_BLB_021_Fassade.jpg/1920px-096_BLB_021_Fassade.jpg
+  Badische Landesbibliothek Karlsruhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Badische_Landesbibliothek_Karlsruhe.jpg/400px-Badische_Landesbibliothek_Karlsruhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Badische_Landesbibliothek_Karlsruhe.jpg/800px-Badische_Landesbibliothek_Karlsruhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Badische_Landesbibliothek_Karlsruhe.jpg/1200px-Badische_Landesbibliothek_Karlsruhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Badische_Landesbibliothek_Karlsruhe.jpg/1920px-Badische_Landesbibliothek_Karlsruhe.jpg
+  Neubau der Badischen Landesbibliothek in Karlsruhe, Architekt Oswald Mathias Ungers.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg/400px-Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg/800px-Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg/1200px-Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg/1920px-Neubau_der_Badischen_Landesbibliothek_in_Karlsruhe,_Architekt_Oswald_Mathias_Ungers.jpg
+  001 BLB 016 Fassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/400px-001_BLB_016_Fassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/800px-001_BLB_016_Fassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/1200px-001_BLB_016_Fassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/001_BLB_016_Fassade.jpg/1920px-001_BLB_016_Fassade.jpg
+  Badische Landesbibliothek - geograph.org.uk - 2860.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg/400px-Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg/800px-Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg/1200px-Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg/1920px-Badische_Landesbibliothek_-_geograph.org.uk_-_2860.jpg
 ---
 
 ## Overview

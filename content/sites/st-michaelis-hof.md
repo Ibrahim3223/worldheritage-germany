@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2321759"
 description: "At the heart of Hof, Germany, St. Michaelis (Hof) stands as a striking example of Gothic architecture, captivating visitors with its historical signific..."
 images:
-  - "/images-sites/st-michaelis-hof/01-3c39706d-1920w.webp"
-  - "/images-sites/st-michaelis-hof/02-2deec211-1920w.webp"
-  - "/images-sites/st-michaelis-hof/03-b43cf1e4-1920w.webp"
+  - "/images/st-michaelis-hof/01-3c39706d-1920w.webp"
+  - "/images/st-michaelis-hof/02-2deec211-1920w.webp"
+  - "/images/st-michaelis-hof/03-b43cf1e4-1920w.webp"
 ---
 
 ## Overview

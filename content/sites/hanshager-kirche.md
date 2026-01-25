@@ -1,24 +1,51 @@
 ---
-title: "Hanshäger Kirche"
-site_name: "Hanshäger Kirche"
-slug: "hanshager-kirche"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Hanshäger Kirche
+site_name: Hanshäger Kirche
+slug: hanshager-kirche
+region: Mecklenburg-Vorpommern
 latitude: 54.043
 longitude: 13.5385
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1315022"
-description: "Hanshäger Kirche stands as a remarkable example of Gothic Revival architecture in the heart of Hanshagen, Germany. This church, built predominantly from..."
+- church building
+- religious site
+wikidata_id: Q1315022
+description: Hanshäger Kirche stands as a remarkable example of Gothic Revival architecture
+  in the heart of Hanshagen, Germany. This church, built predominantly from...
 images:
-  - "/images-sites/hanshager-kirche/01-b9e6af7e-1920w.webp"
-  - "/images-sites/hanshager-kirche/02-e3291917-1920w.webp"
-  - "/images-sites/hanshager-kirche/03-f4722d5a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG/1200px-Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/1200px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG/1200px-Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanshagen_Harmonium.jpg/1200px-Dorfkirche_Hanshagen_Harmonium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dorfkirche_Hanshagen_Nordostansicht.JPG/1200px-Dorfkirche_Hanshagen_Nordostansicht.JPG
+image_srcset:
+  Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG/400px-Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG/800px-Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG/1200px-Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG/1920px-Hanshagen%20Kirche%20Au%C3%9Fenansicht%20June-2010%20SL274137.JPG
+  Hanshagen Kirche Außenansicht June-2010 SL274137.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/400px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/800px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/1200px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG/1920px-Hanshagen_Kirche_Außenansicht_June-2010_SL274137.JPG
+  Hanshagen Kirche Außenansicht June-2010 SL274139.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG/400px-Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG/800px-Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG/1200px-Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG/1920px-Hanshagen_Kirche_Außenansicht_June-2010_SL274139.JPG
+  Dorfkirche Hanshagen Harmonium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanshagen_Harmonium.jpg/400px-Dorfkirche_Hanshagen_Harmonium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanshagen_Harmonium.jpg/800px-Dorfkirche_Hanshagen_Harmonium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanshagen_Harmonium.jpg/1200px-Dorfkirche_Hanshagen_Harmonium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dorfkirche_Hanshagen_Harmonium.jpg/1920px-Dorfkirche_Hanshagen_Harmonium.jpg
+  Dorfkirche Hanshagen Nordostansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dorfkirche_Hanshagen_Nordostansicht.JPG/400px-Dorfkirche_Hanshagen_Nordostansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dorfkirche_Hanshagen_Nordostansicht.JPG/800px-Dorfkirche_Hanshagen_Nordostansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dorfkirche_Hanshagen_Nordostansicht.JPG/1200px-Dorfkirche_Hanshagen_Nordostansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dorfkirche_Hanshagen_Nordostansicht.JPG/1920px-Dorfkirche_Hanshagen_Nordostansicht.JPG
 ---
 
 ## Overview

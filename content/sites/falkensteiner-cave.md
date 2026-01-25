@@ -1,19 +1,49 @@
 ---
-title: "Falkensteiner Cave"
+title: Falkensteiner Cave
 date: 2026-01-23
 draft: false
-description: "cave"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5142
 longitude: 9.45278
 images:
-  - "/images-sites/falkensteiner-cave/01-48213b5d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Falkensteiner_Höhle.tif.jpg/1200px-Falkensteiner_Höhle.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Falkensteiner_Höhle.JPG/1200px-Falkensteiner_Höhle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Falkensteiner_Höhle_1.jpg/1200px-Falkensteiner_Höhle_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Falkensteiner_Hoehle.jpg/1200px-Falkensteiner_Hoehle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Falkensteiner_Hoehle2.jpg/1200px-Falkensteiner_Hoehle2.jpg
+image_srcset:
+  Falkensteiner Höhle.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Falkensteiner_Höhle.tif.jpg/400px-Falkensteiner_Höhle.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Falkensteiner_Höhle.tif.jpg/800px-Falkensteiner_Höhle.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Falkensteiner_Höhle.tif.jpg/1200px-Falkensteiner_Höhle.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Falkensteiner_Höhle.tif.jpg/1920px-Falkensteiner_Höhle.tif.jpg
+  Falkensteiner Höhle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Falkensteiner_Höhle.JPG/400px-Falkensteiner_Höhle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Falkensteiner_Höhle.JPG/800px-Falkensteiner_Höhle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Falkensteiner_Höhle.JPG/1200px-Falkensteiner_Höhle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Falkensteiner_Höhle.JPG/1920px-Falkensteiner_Höhle.JPG
+  Falkensteiner Höhle 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Falkensteiner_Höhle_1.jpg/400px-Falkensteiner_Höhle_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Falkensteiner_Höhle_1.jpg/800px-Falkensteiner_Höhle_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Falkensteiner_Höhle_1.jpg/1200px-Falkensteiner_Höhle_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Falkensteiner_Höhle_1.jpg/1920px-Falkensteiner_Höhle_1.jpg
+  Falkensteiner Hoehle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Falkensteiner_Hoehle.jpg/400px-Falkensteiner_Hoehle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Falkensteiner_Hoehle.jpg/800px-Falkensteiner_Hoehle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Falkensteiner_Hoehle.jpg/1200px-Falkensteiner_Hoehle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Falkensteiner_Hoehle.jpg/1920px-Falkensteiner_Hoehle.jpg
+  Falkensteiner Hoehle2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Falkensteiner_Hoehle2.jpg/400px-Falkensteiner_Hoehle2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Falkensteiner_Hoehle2.jpg/800px-Falkensteiner_Hoehle2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Falkensteiner_Hoehle2.jpg/1200px-Falkensteiner_Hoehle2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Falkensteiner_Hoehle2.jpg/1920px-Falkensteiner_Hoehle2.jpg
 ---
 
 ## Overview

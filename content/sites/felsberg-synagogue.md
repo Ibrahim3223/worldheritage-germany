@@ -1,19 +1,31 @@
 ---
-title: "Felsberg synagogue"
+title: Felsberg synagogue
 date: 2026-01-23
 draft: false
-description: "synagogue in Felsberg, Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue in Felsberg, Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 51.13572
 longitude: 9.421845
 images:
-  - "/images-sites/felsberg-synagogue/01-dac98421-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Synagoge_Felsberg_01.jpg/1200px-Synagoge_Felsberg_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Die_Synagoge_in_Felsberg.jpg/1200px-Die_Synagoge_in_Felsberg.jpg
+image_srcset:
+  Synagoge Felsberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Synagoge_Felsberg_01.jpg/400px-Synagoge_Felsberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Synagoge_Felsberg_01.jpg/800px-Synagoge_Felsberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Synagoge_Felsberg_01.jpg/1200px-Synagoge_Felsberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Synagoge_Felsberg_01.jpg/1920px-Synagoge_Felsberg_01.jpg
+  Die Synagoge in Felsberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Die_Synagoge_in_Felsberg.jpg/400px-Die_Synagoge_in_Felsberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Die_Synagoge_in_Felsberg.jpg/800px-Die_Synagoge_in_Felsberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Die_Synagoge_in_Felsberg.jpg/1200px-Die_Synagoge_in_Felsberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Die_Synagoge_in_Felsberg.jpg/1920px-Die_Synagoge_in_Felsberg.jpg
 ---
 
 ## Overview

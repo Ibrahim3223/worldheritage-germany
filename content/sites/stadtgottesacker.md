@@ -13,7 +13,7 @@ regions:
 latitude: 51.482222222
 longitude: 11.9775
 images:
-  - "/images-sites/stadtgottesacker/01-dd0082b5-800w.webp"
+  - "/images/stadtgottesacker/01-dd0082b5-800w.webp"
 ---
 
 ## Overview

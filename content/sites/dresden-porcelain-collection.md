@@ -1,19 +1,49 @@
 ---
-title: "Dresden Porcelain Collection"
+title: Dresden Porcelain Collection
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0522
 longitude: 13.7346
 images:
-  - "/images-sites/dresden-porcelain-collection/01-db4fcb41-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_Porcelain_Collection_-_07-2078.jpg/1200px-Dresden_Porcelain_Collection_-_07-2078.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dresde,_Zwinger_07.jpg/1200px-Dresde,_Zwinger_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/XiWangMu-Dresden.JPG/1200px-XiWangMu-Dresden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1200px-Dresden-Porzellansammlung.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/DD-Shoulao.JPG/1200px-DD-Shoulao.JPG
+image_srcset:
+  Dresden Porcelain Collection - 07-2078.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_Porcelain_Collection_-_07-2078.jpg/400px-Dresden_Porcelain_Collection_-_07-2078.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_Porcelain_Collection_-_07-2078.jpg/800px-Dresden_Porcelain_Collection_-_07-2078.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_Porcelain_Collection_-_07-2078.jpg/1200px-Dresden_Porcelain_Collection_-_07-2078.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dresden_Porcelain_Collection_-_07-2078.jpg/1920px-Dresden_Porcelain_Collection_-_07-2078.jpg
+  Dresde, Zwinger 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dresde,_Zwinger_07.jpg/400px-Dresde,_Zwinger_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dresde,_Zwinger_07.jpg/800px-Dresde,_Zwinger_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dresde,_Zwinger_07.jpg/1200px-Dresde,_Zwinger_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dresde,_Zwinger_07.jpg/1920px-Dresde,_Zwinger_07.jpg
+  XiWangMu-Dresden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/XiWangMu-Dresden.JPG/400px-XiWangMu-Dresden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/XiWangMu-Dresden.JPG/800px-XiWangMu-Dresden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/XiWangMu-Dresden.JPG/1200px-XiWangMu-Dresden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/XiWangMu-Dresden.JPG/1920px-XiWangMu-Dresden.JPG
+  Dresden-Porzellansammlung.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/400px-Dresden-Porzellansammlung.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/800px-Dresden-Porzellansammlung.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1200px-Dresden-Porzellansammlung.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dresden-Porzellansammlung.JPG/1920px-Dresden-Porzellansammlung.JPG
+  DD-Shoulao.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/DD-Shoulao.JPG/400px-DD-Shoulao.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/DD-Shoulao.JPG/800px-DD-Shoulao.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/DD-Shoulao.JPG/1200px-DD-Shoulao.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/DD-Shoulao.JPG/1920px-DD-Shoulao.JPG
 ---
 
 ## Overview

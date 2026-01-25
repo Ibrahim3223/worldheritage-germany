@@ -21,7 +21,7 @@ longitude: 8.24593
 
 # Images
 images:
-  - "/images-sites/reinhard-ernst-museum/01-171a1184-800w.webp"
+  - "/images/reinhard-ernst-museum/01-171a1184-800w.webp"
 ---
 
 ## Overview

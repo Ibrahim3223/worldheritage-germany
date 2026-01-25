@@ -1,21 +1,49 @@
 ---
-title: "Headquarters of the Federal Intelligence Service"
+title: Headquarters of the Federal Intelligence Service
 date: 2026-01-23
 draft: false
-description: "headquarters of the Federal Intelligence Service (BND) in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: headquarters of the Federal Intelligence Service (BND) in Berlin
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.533665
 longitude: 13.376327
 images:
-  - "/images-sites/headquarters-of-the-federal-intelligence-service/01-33eaa0b7-800w.webp"
-  - "/images-sites/headquarters-of-the-federal-intelligence-service/02-607a9fe5-800w.webp"
-  - "/images-sites/headquarters-of-the-federal-intelligence-service/03-a177dcec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg/1200px-2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg/1200px-2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mitte_BND-Gebäude_Grünzug_Südpanke.JPG/1200px-Mitte_BND-Gebäude_Grünzug_Südpanke.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg/1200px-2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg/1200px-Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg
+image_srcset:
+  2019-08-30 BND Zentrale Berlin OK 0319.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg/400px-2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg/800px-2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg/1200px-2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg/1920px-2019-08-30_BND_Zentrale_Berlin_OK_0319.jpg
+  2019-08-30 BND Zentrale Berlin OK 0318.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg/400px-2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg/800px-2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg/1200px-2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg/1920px-2019-08-30_BND_Zentrale_Berlin_OK_0318.jpg
+  Mitte BND-Gebäude Grünzug Südpanke.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mitte_BND-Gebäude_Grünzug_Südpanke.JPG/400px-Mitte_BND-Gebäude_Grünzug_Südpanke.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mitte_BND-Gebäude_Grünzug_Südpanke.JPG/800px-Mitte_BND-Gebäude_Grünzug_Südpanke.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mitte_BND-Gebäude_Grünzug_Südpanke.JPG/1200px-Mitte_BND-Gebäude_Grünzug_Südpanke.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mitte_BND-Gebäude_Grünzug_Südpanke.JPG/1920px-Mitte_BND-Gebäude_Grünzug_Südpanke.JPG
+  2019-08-30 BND Zentrale Berlin OK 0317.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg/400px-2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg/800px-2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg/1200px-2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg/1920px-2019-08-30_BND_Zentrale_Berlin_OK_0317.jpg
+  Berlin-Mitte, BND-Zentrale, 2012 - ELB 0002A1AF.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg/400px-Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg/800px-Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg/1200px-Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg/1920px-Berlin-Mitte,_BND-Zentrale,_2012_-_ELB_0002A1AF.jpg
 ---
 
 ## Overview

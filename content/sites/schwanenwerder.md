@@ -13,7 +13,7 @@ regions:
 latitude: 52.448347222
 longitude: 13.169130555
 images:
-  - "/images-sites/schwanenwerder/01-57bf2d25-800w.webp"
+  - "/images/schwanenwerder/01-57bf2d25-800w.webp"
 ---
 
 ## Overview

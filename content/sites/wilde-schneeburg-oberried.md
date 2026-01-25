@@ -21,7 +21,7 @@ longitude: 7.93916667
 
 # Images
 images:
-  - "/images-sites/wilde-schneeburg-oberried/01-d015f511-800w.webp"
+  - "/images/wilde-schneeburg-oberried/01-d015f511-800w.webp"
 ---
 
 ## Overview

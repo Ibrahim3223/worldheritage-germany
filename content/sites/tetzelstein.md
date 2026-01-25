@@ -13,8 +13,8 @@ regions:
 latitude: 52.1959
 longitude: 10.7909
 images:
-  - "/images-sites/tetzelstein/01-f070bc65-800w.webp"
-  - "/images-sites/tetzelstein/02-22682fd6-800w.webp"
+  - "/images/tetzelstein/01-f070bc65-800w.webp"
+  - "/images/tetzelstein/02-22682fd6-800w.webp"
 ---
 
 ## Overview

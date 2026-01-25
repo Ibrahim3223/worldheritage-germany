@@ -1,21 +1,49 @@
 ---
-title: "Hegel House"
+title: Hegel House
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7731
 longitude: 9.17694
 images:
-  - "/images-sites/hegel-house/01-fc4978b9-800w.webp"
-  - "/images-sites/hegel-house/02-60b2f353-800w.webp"
-  - "/images-sites/hegel-house/03-cfcbd591-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hegelhaus_Stuttgart.jpg/1200px-Hegelhaus_Stuttgart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20170326_Stuttgart_-_Eberhardstraße_53.jpg/1200px-20170326_Stuttgart_-_Eberhardstraße_53.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hegel_001.jpg/1200px-Hegel_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg/1200px-Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1200px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
+image_srcset:
+  Hegelhaus Stuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hegelhaus_Stuttgart.jpg/400px-Hegelhaus_Stuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hegelhaus_Stuttgart.jpg/800px-Hegelhaus_Stuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hegelhaus_Stuttgart.jpg/1200px-Hegelhaus_Stuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hegelhaus_Stuttgart.jpg/1920px-Hegelhaus_Stuttgart.jpg
+  20170326 Stuttgart - Eberhardstraße 53.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20170326_Stuttgart_-_Eberhardstraße_53.jpg/400px-20170326_Stuttgart_-_Eberhardstraße_53.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20170326_Stuttgart_-_Eberhardstraße_53.jpg/800px-20170326_Stuttgart_-_Eberhardstraße_53.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20170326_Stuttgart_-_Eberhardstraße_53.jpg/1200px-20170326_Stuttgart_-_Eberhardstraße_53.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20170326_Stuttgart_-_Eberhardstraße_53.jpg/1920px-20170326_Stuttgart_-_Eberhardstraße_53.jpg
+  Hegel 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hegel_001.jpg/400px-Hegel_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hegel_001.jpg/800px-Hegel_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hegel_001.jpg/1200px-Hegel_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hegel_001.jpg/1920px-Hegel_001.jpg
+  Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg/400px-Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg/800px-Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg/1200px-Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg/1920px-Stuttgart-Hegel-Birthplace-2006-04-09a-2.jpeg
+  Stuttgart-Hegel-Birthplace-2006-04-09a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/400px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/800px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1200px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Stuttgart-Hegel-Birthplace-2006-04-09a.jpg/1920px-Stuttgart-Hegel-Birthplace-2006-04-09a.jpg
 ---
 
 ## Overview

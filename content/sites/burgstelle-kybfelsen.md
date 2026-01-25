@@ -1,21 +1,49 @@
 ---
-title: "Burgstelle Kybfelsen"
+title: Burgstelle Kybfelsen
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.96073
 longitude: 7.884972
 images:
-  - "/images-sites/burgstelle-kybfelsen/01-8889e87a-800w.webp"
-  - "/images-sites/burgstelle-kybfelsen/02-5c49d818-800w.webp"
-  - "/images-sites/burgstelle-kybfelsen/03-ce9bd2b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kybfelsen_Burg_16.JPG/1200px-Kybfelsen_Burg_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kybfelsen_Burg_19.JPG/1200px-Kybfelsen_Burg_19.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/1200px-Kybfelsen_Burg_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kybfelsen_Burg_09a.JPG/1200px-Kybfelsen_Burg_09a.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kybfelsen_Burg_14.JPG/1200px-Kybfelsen_Burg_14.JPG
+image_srcset:
+  Kybfelsen Burg 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kybfelsen_Burg_16.JPG/400px-Kybfelsen_Burg_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kybfelsen_Burg_16.JPG/800px-Kybfelsen_Burg_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kybfelsen_Burg_16.JPG/1200px-Kybfelsen_Burg_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kybfelsen_Burg_16.JPG/1920px-Kybfelsen_Burg_16.JPG
+  Kybfelsen Burg 19.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kybfelsen_Burg_19.JPG/400px-Kybfelsen_Burg_19.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kybfelsen_Burg_19.JPG/800px-Kybfelsen_Burg_19.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kybfelsen_Burg_19.JPG/1200px-Kybfelsen_Burg_19.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kybfelsen_Burg_19.JPG/1920px-Kybfelsen_Burg_19.JPG
+  Kybfelsen Burg 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/400px-Kybfelsen_Burg_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/800px-Kybfelsen_Burg_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/1200px-Kybfelsen_Burg_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kybfelsen_Burg_03.JPG/1920px-Kybfelsen_Burg_03.JPG
+  Kybfelsen Burg 09a.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kybfelsen_Burg_09a.JPG/400px-Kybfelsen_Burg_09a.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kybfelsen_Burg_09a.JPG/800px-Kybfelsen_Burg_09a.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kybfelsen_Burg_09a.JPG/1200px-Kybfelsen_Burg_09a.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kybfelsen_Burg_09a.JPG/1920px-Kybfelsen_Burg_09a.JPG
+  Kybfelsen Burg 14.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kybfelsen_Burg_14.JPG/400px-Kybfelsen_Burg_14.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kybfelsen_Burg_14.JPG/800px-Kybfelsen_Burg_14.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kybfelsen_Burg_14.JPG/1200px-Kybfelsen_Burg_14.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kybfelsen_Burg_14.JPG/1920px-Kybfelsen_Burg_14.JPG
 ---
 
 ## Overview

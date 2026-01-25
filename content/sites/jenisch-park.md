@@ -1,19 +1,49 @@
 ---
-title: "Jenisch park"
+title: Jenisch park
 date: 2026-01-23
 draft: false
-description: "landscaped park in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: landscaped park in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5525
 longitude: 9.86555556
 images:
-  - "/images-sites/jenisch-park/01-8bbd3764-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/1200px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jenischpark_gewächshäuser_04.jpg/1200px-Jenischpark_gewächshäuser_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jenischpark_gewächshäuser_01.jpg/1200px-Jenischpark_gewächshäuser_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jenischpark_gewächshäuser_03.jpg/1200px-Jenischpark_gewächshäuser_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jenischpark_Hamburg.jpg/1200px-Jenischpark_Hamburg.jpg
+image_srcset:
+  Hamburg, Naturschutzgebiet Flottbektal, Graureiher und Teichhuhn, WDPA ID 81677.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/400px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/800px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/1200px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/1920px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+  Jenischpark gewächshäuser 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jenischpark_gewächshäuser_04.jpg/400px-Jenischpark_gewächshäuser_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jenischpark_gewächshäuser_04.jpg/800px-Jenischpark_gewächshäuser_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jenischpark_gewächshäuser_04.jpg/1200px-Jenischpark_gewächshäuser_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jenischpark_gewächshäuser_04.jpg/1920px-Jenischpark_gewächshäuser_04.jpg
+  Jenischpark gewächshäuser 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jenischpark_gewächshäuser_01.jpg/400px-Jenischpark_gewächshäuser_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jenischpark_gewächshäuser_01.jpg/800px-Jenischpark_gewächshäuser_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jenischpark_gewächshäuser_01.jpg/1200px-Jenischpark_gewächshäuser_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jenischpark_gewächshäuser_01.jpg/1920px-Jenischpark_gewächshäuser_01.jpg
+  Jenischpark gewächshäuser 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jenischpark_gewächshäuser_03.jpg/400px-Jenischpark_gewächshäuser_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jenischpark_gewächshäuser_03.jpg/800px-Jenischpark_gewächshäuser_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jenischpark_gewächshäuser_03.jpg/1200px-Jenischpark_gewächshäuser_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Jenischpark_gewächshäuser_03.jpg/1920px-Jenischpark_gewächshäuser_03.jpg
+  Jenischpark Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jenischpark_Hamburg.jpg/400px-Jenischpark_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jenischpark_Hamburg.jpg/800px-Jenischpark_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jenischpark_Hamburg.jpg/1200px-Jenischpark_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jenischpark_Hamburg.jpg/1920px-Jenischpark_Hamburg.jpg
 ---
 
 ## Overview

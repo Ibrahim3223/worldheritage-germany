@@ -1,27 +1,49 @@
 ---
-title: "Heidenmauer"
+title: Heidenmauer
 date: 2026-01-23
 draft: false
-description: "Celtic ringwork in Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Celtic ringwork in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4644
 longitude: 8.15444
-
-# Images
 images:
-  - "/images-sites/heidenmauer/01-af34ad49-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Heidenmauer_2024_04.jpg/1200px-Heidenmauer_2024_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Römertor_2024_5.jpg/1200px-Römertor_2024_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Römertor_2024_6.jpg/1200px-Römertor_2024_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Römertor_2024_7.jpg/1200px-Römertor_2024_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Remagen_-_25Pf._1921.jpg/1200px-Remagen_-_25Pf._1921.jpg
+image_srcset:
+  Heidenmauer 2024 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Heidenmauer_2024_04.jpg/400px-Heidenmauer_2024_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Heidenmauer_2024_04.jpg/800px-Heidenmauer_2024_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Heidenmauer_2024_04.jpg/1200px-Heidenmauer_2024_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Heidenmauer_2024_04.jpg/1920px-Heidenmauer_2024_04.jpg
+  Römertor 2024 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Römertor_2024_5.jpg/400px-Römertor_2024_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Römertor_2024_5.jpg/800px-Römertor_2024_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Römertor_2024_5.jpg/1200px-Römertor_2024_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Römertor_2024_5.jpg/1920px-Römertor_2024_5.jpg
+  Römertor 2024 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Römertor_2024_6.jpg/400px-Römertor_2024_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Römertor_2024_6.jpg/800px-Römertor_2024_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Römertor_2024_6.jpg/1200px-Römertor_2024_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Römertor_2024_6.jpg/1920px-Römertor_2024_6.jpg
+  Römertor 2024 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Römertor_2024_7.jpg/400px-Römertor_2024_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Römertor_2024_7.jpg/800px-Römertor_2024_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Römertor_2024_7.jpg/1200px-Römertor_2024_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Römertor_2024_7.jpg/1920px-Römertor_2024_7.jpg
+  Remagen - 25Pf. 1921.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Remagen_-_25Pf._1921.jpg/400px-Remagen_-_25Pf._1921.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Remagen_-_25Pf._1921.jpg/800px-Remagen_-_25Pf._1921.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Remagen_-_25Pf._1921.jpg/1200px-Remagen_-_25Pf._1921.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Remagen_-_25Pf._1921.jpg/1920px-Remagen_-_25Pf._1921.jpg
 ---
 
 ## Overview

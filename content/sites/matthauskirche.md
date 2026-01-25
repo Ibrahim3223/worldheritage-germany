@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1463102"
 description: "In the heart of Lehrte, a small town in the Region Hannover, Germany, stands Matthäuskirche, an architectural gem that invites both contemplation and ad..."
 images:
-  - "/images-sites/matthauskirche/01-35355ac4-1920w.webp"
-  - "/images-sites/matthauskirche/02-17faf884-1920w.webp"
-  - "/images-sites/matthauskirche/03-c546a856-1920w.webp"
+  - "/images/matthauskirche/01-35355ac4-1920w.webp"
+  - "/images/matthauskirche/02-17faf884-1920w.webp"
+  - "/images/matthauskirche/03-c546a856-1920w.webp"
 ---
 
 ## Overview

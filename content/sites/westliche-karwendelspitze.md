@@ -13,7 +13,7 @@ regions:
 latitude: 47.43
 longitude: 11.298888888
 images:
-  - "/images-sites/westliche-karwendelspitze/01-d351de3f-800w.webp"
+  - "/images/westliche-karwendelspitze/01-d351de3f-800w.webp"
 ---
 
 ## Overview

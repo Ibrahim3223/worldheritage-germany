@@ -13,7 +13,7 @@ regions:
 latitude: 50.706573055
 longitude: 7.138551944
 images:
-  - "/images-sites/post-and-telecommunications-museum-foundation/01-256ab4e4-800w.webp"
+  - "/images/post-and-telecommunications-museum-foundation/01-256ab4e4-800w.webp"
 ---
 
 ## Overview

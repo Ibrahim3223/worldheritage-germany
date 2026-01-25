@@ -1,19 +1,49 @@
 ---
-title: "Gut Lundsgaard"
+title: Gut Lundsgaard
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.7782
 longitude: 9.6531
 images:
-  - "/images-sites/gut-lundsgaard/01-c7801dda-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gut_Lundsgaard.jpg/1200px-Gut_Lundsgaard.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gruntorf_01.jpg/1200px-Gruntorf_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gut_Lundsgaard_Fernsicht.jpg/1200px-Gut_Lundsgaard_Fernsicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gut_Lundsgaard_Fluegel_rechts.jpg/1200px-Gut_Lundsgaard_Fluegel_rechts.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1200px-Gut_Lundsgaard_Haupthaus.jpg
+image_srcset:
+  Gut Lundsgaard.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gut_Lundsgaard.jpg/400px-Gut_Lundsgaard.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gut_Lundsgaard.jpg/800px-Gut_Lundsgaard.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gut_Lundsgaard.jpg/1200px-Gut_Lundsgaard.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gut_Lundsgaard.jpg/1920px-Gut_Lundsgaard.jpg
+  Gruntorf 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gruntorf_01.jpg/400px-Gruntorf_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gruntorf_01.jpg/800px-Gruntorf_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gruntorf_01.jpg/1200px-Gruntorf_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gruntorf_01.jpg/1920px-Gruntorf_01.jpg
+  Gut Lundsgaard Fernsicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gut_Lundsgaard_Fernsicht.jpg/400px-Gut_Lundsgaard_Fernsicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gut_Lundsgaard_Fernsicht.jpg/800px-Gut_Lundsgaard_Fernsicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gut_Lundsgaard_Fernsicht.jpg/1200px-Gut_Lundsgaard_Fernsicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gut_Lundsgaard_Fernsicht.jpg/1920px-Gut_Lundsgaard_Fernsicht.jpg
+  Gut Lundsgaard Fluegel rechts.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gut_Lundsgaard_Fluegel_rechts.jpg/400px-Gut_Lundsgaard_Fluegel_rechts.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gut_Lundsgaard_Fluegel_rechts.jpg/800px-Gut_Lundsgaard_Fluegel_rechts.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gut_Lundsgaard_Fluegel_rechts.jpg/1200px-Gut_Lundsgaard_Fluegel_rechts.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gut_Lundsgaard_Fluegel_rechts.jpg/1920px-Gut_Lundsgaard_Fluegel_rechts.jpg
+  Gut Lundsgaard Haupthaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/400px-Gut_Lundsgaard_Haupthaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/800px-Gut_Lundsgaard_Haupthaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1200px-Gut_Lundsgaard_Haupthaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gut_Lundsgaard_Haupthaus.jpg/1920px-Gut_Lundsgaard_Haupthaus.jpg
 ---
 
 ## Overview

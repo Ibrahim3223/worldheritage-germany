@@ -13,9 +13,9 @@ regions:
 latitude: 53.075
 longitude: 8.80583
 images:
-  - "/images-sites/ludwig-roselius-museum/01-f79eb833-800w.webp"
-  - "/images-sites/ludwig-roselius-museum/02-e2670f73-800w.webp"
-  - "/images-sites/ludwig-roselius-museum/03-08763a9c-800w.webp"
+  - "/images/ludwig-roselius-museum/01-f79eb833-800w.webp"
+  - "/images/ludwig-roselius-museum/02-e2670f73-800w.webp"
+  - "/images/ludwig-roselius-museum/03-08763a9c-800w.webp"
 ---
 
 ## Overview

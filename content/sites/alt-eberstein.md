@@ -1,19 +1,49 @@
 ---
-title: "Alt Eberstein"
+title: Alt Eberstein
 date: 2026-01-24
 draft: false
-description: "castle ruin in Baden-Baden. Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: castle ruin in Baden-Baden. Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7839
 longitude: 8.27056
 images:
-  - "/images-sites/alt-eberstein/01-32460362-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1200px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg/1200px-Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg/1200px-(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burghof_Alt_Eberstein_-_panoramio.jpg/1200px-Burghof_Alt_Eberstein_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg/1200px-Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg
+image_srcset:
+  Baden-Baden 10-2015 img48 Ebersteinburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/400px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/800px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1200px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Baden-Baden_10-2015_img48_Ebersteinburg.jpg/1920px-Baden-Baden_10-2015_img48_Ebersteinburg.jpg
+  Numa Blanc Eberstein Burg Albuminabzug 1863.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg/400px-Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg/800px-Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg/1200px-Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg/1920px-Numa_Blanc_Eberstein_Burg_Albuminabzug_1863.jpg
+  (Ghzgt. Baden) DIE BURG ALT-EBERSTEIN.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg/400px-(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg/800px-(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg/1200px-(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg/1920px-(Ghzgt._Baden)_DIE_BURG_ALT-EBERSTEIN.jpg
+  Burghof Alt Eberstein - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burghof_Alt_Eberstein_-_panoramio.jpg/400px-Burghof_Alt_Eberstein_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burghof_Alt_Eberstein_-_panoramio.jpg/800px-Burghof_Alt_Eberstein_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burghof_Alt_Eberstein_-_panoramio.jpg/1200px-Burghof_Alt_Eberstein_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burghof_Alt_Eberstein_-_panoramio.jpg/1920px-Burghof_Alt_Eberstein_-_panoramio.jpg
+  Graf und Gräfin von Eberstein - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg/400px-Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg/800px-Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg/1200px-Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg/1920px-Graf_und_Gräfin_von_Eberstein_-_panoramio.jpg
 ---
 
 ## Overview

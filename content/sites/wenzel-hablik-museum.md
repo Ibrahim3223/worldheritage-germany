@@ -13,7 +13,7 @@ regions:
 latitude: 53.9196
 longitude: 9.51599
 images:
-  - "/images-sites/wenzel-hablik-museum/01-d692461d-800w.webp"
+  - "/images/wenzel-hablik-museum/01-d692461d-800w.webp"
 ---
 
 ## Overview

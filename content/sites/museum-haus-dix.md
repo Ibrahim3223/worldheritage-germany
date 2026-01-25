@@ -13,7 +13,7 @@ regions:
 latitude: 47.672777777
 longitude: 8.961388888
 images:
-  - "/images-sites/museum-haus-dix/01-cf0482bd-800w.webp"
+  - "/images/museum-haus-dix/01-cf0482bd-800w.webp"
 ---
 
 ## Overview

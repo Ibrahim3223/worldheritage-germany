@@ -1,21 +1,49 @@
 ---
-title: "Amerika-Gedenkbibliothek"
+title: Amerika-Gedenkbibliothek
 date: 2026-01-23
 draft: false
-description: "public library in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: public library in Berlin
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4965968
 longitude: 13.3925104
 images:
-  - "/images-sites/amerika-gedenkbibliothek/01-62b7bbef-800w.webp"
-  - "/images-sites/amerika-gedenkbibliothek/02-a53f3fb6-800w.webp"
-  - "/images-sites/amerika-gedenkbibliothek/03-3f61f50d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ZLB_20_Jahre.jpg/1200px-ZLB_20_Jahre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1200px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg/1200px-2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg/1200px-Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg/1200px-FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg
+image_srcset:
+  ZLB 20 Jahre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ZLB_20_Jahre.jpg/400px-ZLB_20_Jahre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ZLB_20_Jahre.jpg/800px-ZLB_20_Jahre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ZLB_20_Jahre.jpg/1200px-ZLB_20_Jahre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ZLB_20_Jahre.jpg/1920px-ZLB_20_Jahre.jpg
+  Berlin, Kreuzberg, Bluecherplatz 1, Amerika-Gedenk-Bibliothek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/400px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/800px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1200px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg/1920px-Berlin,_Kreuzberg,_Bluecherplatz_1,_Amerika-Gedenk-Bibliothek.jpg
+  2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg/400px-2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg/800px-2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg/1200px-2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg/1920px-2020-08-09-Amerika-Gedenkbibliothek-Bluecherplatz-Berlin-Kreuzberg.jpg
+  Annette Hollywood zum Projekt anderkawer bei FLINTastic.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg/400px-Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg/800px-Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg/1200px-Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg/1920px-Annette_Hollywood_zum_Projekt_anderkawer_bei_FLINTastic.jpg
+  FLINTastic mit Annette Hollywood und Grizma 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg/400px-FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg/800px-FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg/1200px-FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg/1920px-FLINTastic_mit_Annette_Hollywood_und_Grizma_02.jpg
 ---
 
 ## Overview

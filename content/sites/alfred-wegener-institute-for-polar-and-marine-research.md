@@ -1,29 +1,43 @@
 ---
-title: "Alfred Wegener Institute for Polar and Marine Research"
+title: Alfred Wegener Institute for Polar and Marine Research
 date: 2026-01-23
 draft: false
-description: "German research institution"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: German research institution
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.532722222
 longitude: 8.579555555
-
-# Images
 images:
-  - "/images-sites/alfred-wegener-institute-for-polar-and-marine-research/01-d0f5b8c8-800w.webp"
-  - "/images-sites/alfred-wegener-institute-for-polar-and-marine-research/02-806322a1-800w.webp"
-  - "/images-sites/alfred-wegener-institute-for-polar-and-marine-research/03-41b1c843-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007_awi-logo_hg.jpg/1200px-2007_awi-logo_hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/1200px-AWI_Gebaeude_neben_Doppelschleuse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AWI_Building_D.jpg/1200px-AWI_Building_D.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Technikum_bulding_of_AWI.jpg/1200px-Technikum_bulding_of_AWI.jpg
+image_srcset:
+  2007 awi-logo hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007_awi-logo_hg.jpg/400px-2007_awi-logo_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007_awi-logo_hg.jpg/800px-2007_awi-logo_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007_awi-logo_hg.jpg/1200px-2007_awi-logo_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007_awi-logo_hg.jpg/1920px-2007_awi-logo_hg.jpg
+  AWI Gebaeude neben Doppelschleuse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/400px-AWI_Gebaeude_neben_Doppelschleuse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/800px-AWI_Gebaeude_neben_Doppelschleuse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/1200px-AWI_Gebaeude_neben_Doppelschleuse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AWI_Gebaeude_neben_Doppelschleuse.jpg/1920px-AWI_Gebaeude_neben_Doppelschleuse.jpg
+  AWI Building D.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AWI_Building_D.jpg/400px-AWI_Building_D.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AWI_Building_D.jpg/800px-AWI_Building_D.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AWI_Building_D.jpg/1200px-AWI_Building_D.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AWI_Building_D.jpg/1920px-AWI_Building_D.jpg
+  Technikum bulding of AWI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Technikum_bulding_of_AWI.jpg/400px-Technikum_bulding_of_AWI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Technikum_bulding_of_AWI.jpg/800px-Technikum_bulding_of_AWI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Technikum_bulding_of_AWI.jpg/1200px-Technikum_bulding_of_AWI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Technikum_bulding_of_AWI.jpg/1920px-Technikum_bulding_of_AWI.jpg
 ---
 
 ## Overview

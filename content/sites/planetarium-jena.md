@@ -13,7 +13,7 @@ regions:
 latitude: 50.931805555
 longitude: 11.586888888
 images:
-  - "/images-sites/planetarium-jena/01-8c898eae-800w.webp"
+  - "/images/planetarium-jena/01-8c898eae-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Denkmal für den unbekannten Wehrmachtsdeserteur"
+title: Denkmal für den unbekannten Wehrmachtsdeserteur
 date: 2026-01-23
 draft: false
-description: "monument"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9783
 longitude: 11.0206
 images:
-  - "/images-sites/denkmal-fuer-den-unbekannten-wehrmachtsdeserteur/01-fbea3920-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/T-Nicolai_1995_building-deserter-monument_2.jpg/1200px-T-Nicolai_1995_building-deserter-monument_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/T-Nicolai_1995_building-deserter-monument_1.jpg/1200px-T-Nicolai_1995_building-deserter-monument_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/1200px-Monument_deserter_Erfurt-above.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Monument_deserter_Erfurt-front.jpg/1200px-Monument_deserter_Erfurt-front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Monument_deserter_Erfurt-detail.jpg/1200px-Monument_deserter_Erfurt-detail.jpg
+image_srcset:
+  T-Nicolai 1995 building-deserter-monument 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/T-Nicolai_1995_building-deserter-monument_2.jpg/400px-T-Nicolai_1995_building-deserter-monument_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/T-Nicolai_1995_building-deserter-monument_2.jpg/800px-T-Nicolai_1995_building-deserter-monument_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/T-Nicolai_1995_building-deserter-monument_2.jpg/1200px-T-Nicolai_1995_building-deserter-monument_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/T-Nicolai_1995_building-deserter-monument_2.jpg/1920px-T-Nicolai_1995_building-deserter-monument_2.jpg
+  T-Nicolai 1995 building-deserter-monument 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/T-Nicolai_1995_building-deserter-monument_1.jpg/400px-T-Nicolai_1995_building-deserter-monument_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/T-Nicolai_1995_building-deserter-monument_1.jpg/800px-T-Nicolai_1995_building-deserter-monument_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/T-Nicolai_1995_building-deserter-monument_1.jpg/1200px-T-Nicolai_1995_building-deserter-monument_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/T-Nicolai_1995_building-deserter-monument_1.jpg/1920px-T-Nicolai_1995_building-deserter-monument_1.jpg
+  Monument deserter Erfurt-above.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/400px-Monument_deserter_Erfurt-above.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/800px-Monument_deserter_Erfurt-above.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/1200px-Monument_deserter_Erfurt-above.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monument_deserter_Erfurt-above.jpg/1920px-Monument_deserter_Erfurt-above.jpg
+  Monument deserter Erfurt-front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Monument_deserter_Erfurt-front.jpg/400px-Monument_deserter_Erfurt-front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Monument_deserter_Erfurt-front.jpg/800px-Monument_deserter_Erfurt-front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Monument_deserter_Erfurt-front.jpg/1200px-Monument_deserter_Erfurt-front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Monument_deserter_Erfurt-front.jpg/1920px-Monument_deserter_Erfurt-front.jpg
+  Monument deserter Erfurt-detail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Monument_deserter_Erfurt-detail.jpg/400px-Monument_deserter_Erfurt-detail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Monument_deserter_Erfurt-detail.jpg/800px-Monument_deserter_Erfurt-detail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Monument_deserter_Erfurt-detail.jpg/1200px-Monument_deserter_Erfurt-detail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Monument_deserter_Erfurt-detail.jpg/1920px-Monument_deserter_Erfurt-detail.jpg
 ---
 
 ## Overview

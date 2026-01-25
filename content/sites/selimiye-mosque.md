@@ -13,7 +13,7 @@ regions:
 latitude: 48.818771
 longitude: 12.950861
 images:
-  - "/images-sites/selimiye-mosque/01-ee67ef5e-800w.webp"
+  - "/images/selimiye-mosque/01-ee67ef5e-800w.webp"
 ---
 
 ## Overview

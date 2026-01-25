@@ -13,7 +13,7 @@ regions:
 latitude: 51.054
 longitude: 13.736
 images:
-  - "/images-sites/theaterplatz/01-a62c6110-800w.webp"
+  - "/images/theaterplatz/01-a62c6110-800w.webp"
 ---
 
 ## Overview

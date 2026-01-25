@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q11722179"
 description: "St. Katharina und St. Laurentius Kirche zu Rostock-Toitenwinkel stands as a significant church building in Toitenwinkel, Germany, capturing the attentio..."
 images:
-  - "/images-sites/st-katharina-und-st-laurentius-kirche-zu-rostock-toitenwinkel/01-ea06acd0-1920w.webp"
-  - "/images-sites/st-katharina-und-st-laurentius-kirche-zu-rostock-toitenwinkel/02-a40449bc-1920w.webp"
-  - "/images-sites/st-katharina-und-st-laurentius-kirche-zu-rostock-toitenwinkel/03-91fe454b-1920w.webp"
+  - "/images/st-katharina-und-st-laurentius-kirche-zu-rostock-toitenwinkel/01-ea06acd0-1920w.webp"
+  - "/images/st-katharina-und-st-laurentius-kirche-zu-rostock-toitenwinkel/02-a40449bc-1920w.webp"
+  - "/images/st-katharina-und-st-laurentius-kirche-zu-rostock-toitenwinkel/03-91fe454b-1920w.webp"
 ---
 
 ## Overview

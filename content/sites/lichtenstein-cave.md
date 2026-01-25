@@ -13,7 +13,7 @@ regions:
 latitude: 51.724444444
 longitude: 10.174166666
 images:
-  - "/images-sites/lichtenstein-cave/02-b21315c5-800w.webp"
+  - "/images/lichtenstein-cave/02-b21315c5-800w.webp"
 ---
 
 ## Overview

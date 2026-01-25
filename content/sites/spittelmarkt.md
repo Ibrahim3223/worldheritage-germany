@@ -13,7 +13,7 @@ regions:
 latitude: 52.5119
 longitude: 13.4014
 images:
-  - "/images-sites/spittelmarkt/01-b07c0507-800w.webp"
+  - "/images/spittelmarkt/01-b07c0507-800w.webp"
 ---
 
 ## Overview

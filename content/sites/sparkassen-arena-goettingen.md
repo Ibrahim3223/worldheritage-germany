@@ -13,7 +13,7 @@ regions:
 latitude: 51.542186
 longitude: 9.921973
 images:
-  - "/images-sites/sparkassen-arena-goettingen/01-1ab4ffbc-800w.webp"
+  - "/images/sparkassen-arena-goettingen/01-1ab4ffbc-800w.webp"
 ---
 
 ## Overview

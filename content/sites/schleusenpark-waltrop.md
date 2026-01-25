@@ -13,9 +13,9 @@ regions:
 latitude: 51.6186
 longitude: 7.33007
 images:
-  - "/images-sites/schleusenpark-waltrop/01-83e14ab0-800w.webp"
-  - "/images-sites/schleusenpark-waltrop/02-4cdfa695-800w.webp"
-  - "/images-sites/schleusenpark-waltrop/03-c9585365-800w.webp"
+  - "/images/schleusenpark-waltrop/01-83e14ab0-800w.webp"
+  - "/images/schleusenpark-waltrop/02-4cdfa695-800w.webp"
+  - "/images/schleusenpark-waltrop/03-c9585365-800w.webp"
 ---
 
 ## Overview

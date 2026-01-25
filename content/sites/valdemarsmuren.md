@@ -13,9 +13,9 @@ regions:
 latitude: 54.4817
 longitude: 9.49551
 images:
-  - "/images-sites/valdemarsmuren/01-10363de7-800w.webp"
-  - "/images-sites/valdemarsmuren/02-96d6db07-800w.webp"
-  - "/images-sites/valdemarsmuren/03-cc7f4a90-800w.webp"
+  - "/images/valdemarsmuren/01-10363de7-800w.webp"
+  - "/images/valdemarsmuren/02-96d6db07-800w.webp"
+  - "/images/valdemarsmuren/03-cc7f4a90-800w.webp"
 ---
 
 ## Overview

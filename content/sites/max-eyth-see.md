@@ -13,7 +13,7 @@ regions:
 latitude: 48.835243
 longitude: 9.216243
 images:
-  - "/images-sites/max-eyth-see/01-1bc09f49-800w.webp"
+  - "/images/max-eyth-see/01-1bc09f49-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.17377778
 longitude: 7.20719444
 images:
-  - "/images-sites/museum-fuer-doerfliche-alltagskultur/01-c703d58a-800w.webp"
+  - "/images/museum-fuer-doerfliche-alltagskultur/01-c703d58a-800w.webp"
 ---
 
 ## Overview

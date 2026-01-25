@@ -1,19 +1,49 @@
 ---
-title: "Darmstadt State Theater"
+title: Darmstadt State Theater
 date: 2026-01-24
 draft: false
-description: "theatre and opera house in Darmstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre and opera house in Darmstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8684
 longitude: 8.64904
 images:
-  - "/images-sites/darmstadt-state-theater/01-5d16c3a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg/1200px-Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg/1200px-Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Staatstheater_Darmstadt_Außenansicht_Ost.jpg/1200px-Staatstheater_Darmstadt_Außenansicht_Ost.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Da_Theatre_(146249673).jpeg/1200px-Da_Theatre_(146249673).jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Darmstadt_Staatstheater_(13363761045).jpg/1200px-Darmstadt_Staatstheater_(13363761045).jpg
+image_srcset:
+  Darmstadt- Staatstheater- von B 26 (Hügelstraße) aus 28.4.2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg/400px-Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg/800px-Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg/1200px-Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg/1920px-Darmstadt-_Staatstheater-_von_B_26_(Hügelstraße)_aus_28.4.2009.jpg
+  Darmstadt Georg-Büchner-Platz 05a Staatstheater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg/400px-Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg/800px-Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg/1200px-Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg/1920px-Darmstadt_Georg-Büchner-Platz_05a_Staatstheater.jpg
+  Staatstheater Darmstadt Außenansicht Ost.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Staatstheater_Darmstadt_Außenansicht_Ost.jpg/400px-Staatstheater_Darmstadt_Außenansicht_Ost.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Staatstheater_Darmstadt_Außenansicht_Ost.jpg/800px-Staatstheater_Darmstadt_Außenansicht_Ost.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Staatstheater_Darmstadt_Außenansicht_Ost.jpg/1200px-Staatstheater_Darmstadt_Außenansicht_Ost.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Staatstheater_Darmstadt_Außenansicht_Ost.jpg/1920px-Staatstheater_Darmstadt_Außenansicht_Ost.jpg
+  Da Theatre (146249673).jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Da_Theatre_(146249673).jpeg/400px-Da_Theatre_(146249673).jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Da_Theatre_(146249673).jpeg/800px-Da_Theatre_(146249673).jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Da_Theatre_(146249673).jpeg/1200px-Da_Theatre_(146249673).jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Da_Theatre_(146249673).jpeg/1920px-Da_Theatre_(146249673).jpeg
+  Darmstadt Staatstheater (13363761045).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Darmstadt_Staatstheater_(13363761045).jpg/400px-Darmstadt_Staatstheater_(13363761045).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Darmstadt_Staatstheater_(13363761045).jpg/800px-Darmstadt_Staatstheater_(13363761045).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Darmstadt_Staatstheater_(13363761045).jpg/1200px-Darmstadt_Staatstheater_(13363761045).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Darmstadt_Staatstheater_(13363761045).jpg/1920px-Darmstadt_Staatstheater_(13363761045).jpg
 ---
 
 ## Overview

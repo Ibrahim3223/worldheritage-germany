@@ -13,7 +13,7 @@ regions:
 latitude: 54.3227
 longitude: 10.1436
 images:
-  - "/images-sites/kiel-maritime-museum/01-9ebc206e-800w.webp"
+  - "/images/kiel-maritime-museum/01-9ebc206e-800w.webp"
 ---
 
 ## Overview

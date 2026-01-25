@@ -1,27 +1,49 @@
 ---
-title: "Gustavia"
+title: Gustavia
 date: 2026-01-23
 draft: false
-description: "unfinished town project in Swedish Pomerania"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: unfinished town project in Swedish Pomerania
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.28867733
 longitude: 13.68965149
-
-# Images
 images:
-  - "/images-sites/gustavia/01-3e3e63b5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustavia_försvar_1.jpg/1200px-Gustavia_försvar_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gustavia_försvar_3.jpg/1200px-Gustavia_försvar_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG/1200px-Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gustavia_Harbor,_Saint-Barthélemy.jpg/1200px-Gustavia_Harbor,_Saint-Barthélemy.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gustavia_superba.jpg/1200px-Gustavia_superba.jpg
+image_srcset:
+  Gustavia försvar 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustavia_försvar_1.jpg/400px-Gustavia_försvar_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustavia_försvar_1.jpg/800px-Gustavia_försvar_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustavia_försvar_1.jpg/1200px-Gustavia_försvar_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustavia_försvar_1.jpg/1920px-Gustavia_försvar_1.jpg
+  Gustavia försvar 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gustavia_försvar_3.jpg/400px-Gustavia_försvar_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gustavia_försvar_3.jpg/800px-Gustavia_försvar_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gustavia_försvar_3.jpg/1200px-Gustavia_försvar_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gustavia_försvar_3.jpg/1920px-Gustavia_försvar_3.jpg
+  Saint-Barthélemy — Gustavia — Promenade (gardeners).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG/400px-Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG/800px-Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG/1200px-Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG/1920px-Saint-Barthélemy_—_Gustavia_—_Promenade_(gardeners).JPG
+  Gustavia Harbor, Saint-Barthélemy.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gustavia_Harbor,_Saint-Barthélemy.jpg/400px-Gustavia_Harbor,_Saint-Barthélemy.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gustavia_Harbor,_Saint-Barthélemy.jpg/800px-Gustavia_Harbor,_Saint-Barthélemy.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gustavia_Harbor,_Saint-Barthélemy.jpg/1200px-Gustavia_Harbor,_Saint-Barthélemy.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gustavia_Harbor,_Saint-Barthélemy.jpg/1920px-Gustavia_Harbor,_Saint-Barthélemy.jpg
+  Gustavia superba.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gustavia_superba.jpg/400px-Gustavia_superba.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gustavia_superba.jpg/800px-Gustavia_superba.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gustavia_superba.jpg/1200px-Gustavia_superba.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gustavia_superba.jpg/1920px-Gustavia_superba.jpg
 ---
 
 ## Overview

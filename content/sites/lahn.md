@@ -13,7 +13,7 @@ regions:
 latitude: 50.892252777
 longitude: 8.241583333
 images:
-  - "/images-sites/lahn/01-2731af31-800w.webp"
+  - "/images/lahn/01-2731af31-800w.webp"
 ---
 
 ## Overview

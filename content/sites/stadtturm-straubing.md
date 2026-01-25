@@ -13,7 +13,7 @@ regions:
 latitude: 48.881666666
 longitude: 12.569444444
 images:
-  - "/images-sites/stadtturm-straubing/01-0dd18a36-800w.webp"
+  - "/images/stadtturm-straubing/01-0dd18a36-800w.webp"
 ---
 
 ## Overview

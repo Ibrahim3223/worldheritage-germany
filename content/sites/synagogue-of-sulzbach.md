@@ -13,7 +13,7 @@ regions:
 latitude: 49.5043
 longitude: 11.7394
 images:
-  - "/images-sites/synagogue-of-sulzbach/01-54effb4b-800w.webp"
+  - "/images/synagogue-of-sulzbach/01-54effb4b-800w.webp"
 ---
 
 ## Overview

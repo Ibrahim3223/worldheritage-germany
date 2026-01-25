@@ -1,26 +1,46 @@
 ---
-title: "Bad Kissingen"
-site_name: "Bad Kissingen"
-slug: "bad-kissingen"
-region: "Thuringia"
-
-# Location
+title: Bad Kissingen
+site_name: Bad Kissingen
+slug: bad-kissingen
+region: Thuringia
 latitude: 50.2
 longitude: 10.066666666666666
 regions:
-    - "Thuringia"
+- Thuringia
 tags:
-  - "unesco"
-
-heritage_type: "cultural site"
+- unesco
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q488346"
-description: "Bad Kissingen, a town in the Bad Kissingen district of Bavaria, Germany, is renowned for its therapeutic mineral springs and rich cultural heritage. Thi..."
+- cultural site
+wikidata_id: Q488346
+description: Bad Kissingen, a town in the Bad Kissingen district of Bavaria, Germany,
+  is renowned for its therapeutic mineral springs and rich cultural heritage. Thi...
 images:
-  - "/images-sites/bad-kissingen/01-93f5f9c3-1920w.webp"
-  - "/images-sites/bad-kissingen/02-ab29cf4e-1920w.webp"
-  - "/images-sites/bad-kissingen/03-64858934-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/1200px-Badkissingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burgruine_Botenlauben--20170410-RM-152453.jpg/1200px-Burgruine_Botenlauben--20170410-RM-152453.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg/1200px-Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Finsterberg_(Bad_Kissingen).jpg/1200px-Finsterberg_(Bad_Kissingen).jpg
+image_srcset:
+  Badkissingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/400px-Badkissingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/800px-Badkissingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/1200px-Badkissingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Badkissingen.jpg/1920px-Badkissingen.jpg
+  Burgruine Botenlauben--20170410-RM-152453.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burgruine_Botenlauben--20170410-RM-152453.jpg/400px-Burgruine_Botenlauben--20170410-RM-152453.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burgruine_Botenlauben--20170410-RM-152453.jpg/800px-Burgruine_Botenlauben--20170410-RM-152453.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burgruine_Botenlauben--20170410-RM-152453.jpg/1200px-Burgruine_Botenlauben--20170410-RM-152453.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burgruine_Botenlauben--20170410-RM-152453.jpg/1920px-Burgruine_Botenlauben--20170410-RM-152453.jpg
+  Im Luitpoldhain in Bad Kissingen 2022 19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg/400px-Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg/800px-Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg/1200px-Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg/1920px-Im_Luitpoldhain_in_Bad_Kissingen_2022_19.jpg
+  Finsterberg (Bad Kissingen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Finsterberg_(Bad_Kissingen).jpg/400px-Finsterberg_(Bad_Kissingen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Finsterberg_(Bad_Kissingen).jpg/800px-Finsterberg_(Bad_Kissingen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Finsterberg_(Bad_Kissingen).jpg/1200px-Finsterberg_(Bad_Kissingen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Finsterberg_(Bad_Kissingen).jpg/1920px-Finsterberg_(Bad_Kissingen).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.4854
 longitude: 7.22671
 images:
-  - "/images-sites/neue-synagoge-bochum/01-d4cfcb15-800w.webp"
+  - "/images/neue-synagoge-bochum/01-d4cfcb15-800w.webp"
 ---
 
 ## Overview

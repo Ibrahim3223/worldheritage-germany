@@ -13,9 +13,9 @@ regions:
 latitude: 49.8269
 longitude: 11.3758
 images:
-  - "/images-sites/sophienhoehle/01-2d15c69c-800w.webp"
-  - "/images-sites/sophienhoehle/02-2b7cc0af-800w.webp"
-  - "/images-sites/sophienhoehle/03-db881405-800w.webp"
+  - "/images/sophienhoehle/01-2d15c69c-800w.webp"
+  - "/images/sophienhoehle/02-2b7cc0af-800w.webp"
+  - "/images/sophienhoehle/03-db881405-800w.webp"
 ---
 
 ## Overview

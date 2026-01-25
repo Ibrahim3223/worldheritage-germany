@@ -13,7 +13,7 @@ regions:
 latitude: 51.9647
 longitude: 7.62889
 images:
-  - "/images-sites/theater-muenster/01-71286556-800w.webp"
+  - "/images/theater-muenster/01-71286556-800w.webp"
 ---
 
 ## Overview

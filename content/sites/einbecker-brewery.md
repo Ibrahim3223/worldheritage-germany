@@ -1,27 +1,49 @@
 ---
-title: "Einbecker Brewery"
+title: Einbecker Brewery
 date: 2026-01-23
 draft: false
-description: "public company"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: public company
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.815833333
 longitude: 9.863333333
-
-# Images
 images:
-  - "/images-sites/einbecker-brewery/01-bd137f95-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1200px-Einbecker_Brauhaus_Hoffest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg
+image_srcset:
+  Einbecker Brauhaus - Einbecker Ur-Bock Dunkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg/400px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg/800px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg/1920px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Dunkel.jpg
+  Einbecker Brauhaus - Einbecker Mai-Ur-Bock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg/400px-Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg/800px-Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg/1920px-Einbecker_Brauhaus_-_Einbecker_Mai-Ur-Bock.jpg
+  Einbecker Brauhaus - Einbecker Ur-Bock Hell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg/400px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg/800px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg/1920px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell.jpg
+  Einbecker Brauhaus Hoffest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/400px-Einbecker_Brauhaus_Hoffest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/800px-Einbecker_Brauhaus_Hoffest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1200px-Einbecker_Brauhaus_Hoffest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einbecker_Brauhaus_Hoffest.jpg/1920px-Einbecker_Brauhaus_Hoffest.jpg
+  Einbecker Brauhaus - Einbecker Ur-Bock Hell, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg/400px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg/800px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg/1200px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg/1920px-Einbecker_Brauhaus_-_Einbecker_Ur-Bock_Hell,_2019.jpg
 ---
 
 ## Overview

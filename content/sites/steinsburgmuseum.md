@@ -13,9 +13,9 @@ regions:
 latitude: 50.39945
 longitude: 10.59108
 images:
-  - "/images-sites/steinsburgmuseum/01-64d2e79f-800w.webp"
-  - "/images-sites/steinsburgmuseum/02-a42ea050-800w.webp"
-  - "/images-sites/steinsburgmuseum/03-20ebfb6e-800w.webp"
+  - "/images/steinsburgmuseum/01-64d2e79f-800w.webp"
+  - "/images/steinsburgmuseum/02-a42ea050-800w.webp"
+  - "/images/steinsburgmuseum/03-20ebfb6e-800w.webp"
 ---
 
 ## Overview

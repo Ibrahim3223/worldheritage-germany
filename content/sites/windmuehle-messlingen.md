@@ -13,7 +13,7 @@ regions:
 latitude: 52.3834
 longitude: 8.88837
 images:
-  - "/images-sites/windmuehle-messlingen/01-95a0f1f2-800w.webp"
+  - "/images/windmuehle-messlingen/01-95a0f1f2-800w.webp"
 ---
 
 ## Overview

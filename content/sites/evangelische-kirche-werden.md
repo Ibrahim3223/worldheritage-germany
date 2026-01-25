@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Kirche Werden"
-site_name: "Evangelische Kirche Werden"
-slug: "evangelische-kirche-werden"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Kirche Werden
+site_name: Evangelische Kirche Werden
+slug: evangelische-kirche-werden
+region: North Rhine-Westphalia
 latitude: 51.39045
 longitude: 7.003
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380692"
-description: "Evangelische Kirche Werden, a remarkable church building located in Essen, Germany, showcases the intricate beauty of Gothic art. As you approach this s..."
+- church building
+- religious site
+wikidata_id: Q1380692
+description: Evangelische Kirche Werden, a remarkable church building located in Essen,
+  Germany, showcases the intricate beauty of Gothic art. As you approach this s...
 images:
-  - "/images-sites/evangelische-kirche-werden/01-d8cda76c-1920w.webp"
-  - "/images-sites/evangelische-kirche-werden/02-7fb2b6ad-1920w.webp"
-  - "/images-sites/evangelische-kirche-werden/03-6ed77319-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg/1200px-NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg/1200px-Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Evangelische-Kirche-Werden-2021.jpg/1200px-Evangelische-Kirche-Werden-2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/1200px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg/1200px-Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg
+image_srcset:
+  NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg/400px-NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg/800px-NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg/1200px-NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg/1920px-NRW%2C%20Essen%2C%20Werden%20-%20Evangelische%20Kirche.jpg
+  Essen-Werden, Ev. Kirche, Orgel (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg/400px-Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg/800px-Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg/1200px-Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg/1920px-Essen-Werden,_Ev._Kirche,_Orgel_(4).jpg
+  Evangelische-Kirche-Werden-2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Evangelische-Kirche-Werden-2021.jpg/400px-Evangelische-Kirche-Werden-2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Evangelische-Kirche-Werden-2021.jpg/800px-Evangelische-Kirche-Werden-2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Evangelische-Kirche-Werden-2021.jpg/1200px-Evangelische-Kirche-Werden-2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Evangelische-Kirche-Werden-2021.jpg/1920px-Evangelische-Kirche-Werden-2021.jpg
+  NRW, Essen, Werden - Evangelische Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/400px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/800px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/1200px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg/1920px-NRW,_Essen,_Werden_-_Evangelische_Kirche.jpg
+  Essen-Werden, Ev. Kirche, Orgel (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg/400px-Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg/800px-Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg/1200px-Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg/1920px-Essen-Werden,_Ev._Kirche,_Orgel_(5).jpg
 ---
 
 ## Overview

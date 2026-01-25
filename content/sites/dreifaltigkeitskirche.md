@@ -1,24 +1,51 @@
 ---
-title: "Dreifaltigkeitskirche"
-site_name: "Dreifaltigkeitskirche"
-slug: "dreifaltigkeitskirche"
-region: "Hesse"
-
-# Location
+title: Dreifaltigkeitskirche
+site_name: Dreifaltigkeitskirche
+slug: dreifaltigkeitskirche
+region: Hesse
 latitude: 49.4898
 longitude: 8.43466
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1257702"
-description: "In the heart of Ludwigshafen, Germany, stands the Dreifaltigkeitskirche, a striking example of Gothic Revival architecture. This church, designed by arc..."
+- church building
+- religious site
+wikidata_id: Q1257702
+description: In the heart of Ludwigshafen, Germany, stands the Dreifaltigkeitskirche,
+  a striking example of Gothic Revival architecture. This church, designed by arc...
 images:
-  - "/images-sites/dreifaltigkeitskirche/01-c02b4b1d-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche/02-bd3ac2a7-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche/03-a0633e21-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg/1200px-Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kappl_2012_02.jpg/1200px-Kappl_2012_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Каппель_1.jpg/1200px-Каппель_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Haunsheim_Dreifaltigkeitskirche_49.JPG/1200px-Haunsheim_Dreifaltigkeitskirche_49.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kappel03.JPG/1200px-Kappel03.JPG
+image_srcset:
+  Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg/400px-Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg/800px-Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg/1200px-Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg/1920px-Dreifaltigkeitskirche%20Ludwigshafen%2002a.jpg
+  Kappl 2012 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kappl_2012_02.jpg/400px-Kappl_2012_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kappl_2012_02.jpg/800px-Kappl_2012_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kappl_2012_02.jpg/1200px-Kappl_2012_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kappl_2012_02.jpg/1920px-Kappl_2012_02.jpg
+  Каппель 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Каппель_1.jpg/400px-Каппель_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Каппель_1.jpg/800px-Каппель_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Каппель_1.jpg/1200px-Каппель_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Каппель_1.jpg/1920px-Каппель_1.jpg
+  Haunsheim Dreifaltigkeitskirche 49.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Haunsheim_Dreifaltigkeitskirche_49.JPG/400px-Haunsheim_Dreifaltigkeitskirche_49.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Haunsheim_Dreifaltigkeitskirche_49.JPG/800px-Haunsheim_Dreifaltigkeitskirche_49.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Haunsheim_Dreifaltigkeitskirche_49.JPG/1200px-Haunsheim_Dreifaltigkeitskirche_49.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Haunsheim_Dreifaltigkeitskirche_49.JPG/1920px-Haunsheim_Dreifaltigkeitskirche_49.JPG
+  Kappel03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kappel03.JPG/400px-Kappel03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kappel03.JPG/800px-Kappel03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kappel03.JPG/1200px-Kappel03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kappel03.JPG/1920px-Kappel03.JPG
 ---
 
 ## Overview

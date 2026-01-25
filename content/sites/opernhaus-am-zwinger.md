@@ -13,9 +13,9 @@ regions:
 latitude: 51.052
 longitude: 13.734
 images:
-  - "/images-sites/opernhaus-am-zwinger/01-6e5f3916-800w.webp"
-  - "/images-sites/opernhaus-am-zwinger/02-f769e8bf-800w.webp"
-  - "/images-sites/opernhaus-am-zwinger/03-9f3f6312-800w.webp"
+  - "/images/opernhaus-am-zwinger/01-6e5f3916-800w.webp"
+  - "/images/opernhaus-am-zwinger/02-f769e8bf-800w.webp"
+  - "/images/opernhaus-am-zwinger/03-9f3f6312-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.754305555
 longitude: 6.643916666
 images:
-  - "/images-sites/roter-turm-trier-konstantinplatz/01-9c78a375-800w.webp"
+  - "/images/roter-turm-trier-konstantinplatz/01-9c78a375-800w.webp"
 ---
 
 ## Overview

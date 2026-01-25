@@ -1,19 +1,49 @@
 ---
-title: "Blauen"
+title: Blauen
 date: 2026-01-23
 draft: false
-description: "mountain of the Black Forest, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Black Forest, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.7775
 longitude: 7.70111111
 images:
-  - "/images-sites/blauen/01-fe9c4c38-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Naturschutzgebiet_Blauen.jpg/1200px-Naturschutzgebiet_Blauen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naturschutzgebiet_Blauen_02.jpg/1200px-Naturschutzgebiet_Blauen_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schweiz_Jura_Baselland_Laufental_Blauen.JPG/1200px-Schweiz_Jura_Baselland_Laufental_Blauen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CHE_Blauen_Flag.svg/1200px-CHE_Blauen_Flag.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coat_of_arms_of_Blauen_BL.svg/1200px-Coat_of_arms_of_Blauen_BL.svg.png
+image_srcset:
+  Naturschutzgebiet Blauen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Naturschutzgebiet_Blauen.jpg/400px-Naturschutzgebiet_Blauen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Naturschutzgebiet_Blauen.jpg/800px-Naturschutzgebiet_Blauen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Naturschutzgebiet_Blauen.jpg/1200px-Naturschutzgebiet_Blauen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Naturschutzgebiet_Blauen.jpg/1920px-Naturschutzgebiet_Blauen.jpg
+  Naturschutzgebiet Blauen 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naturschutzgebiet_Blauen_02.jpg/400px-Naturschutzgebiet_Blauen_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naturschutzgebiet_Blauen_02.jpg/800px-Naturschutzgebiet_Blauen_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naturschutzgebiet_Blauen_02.jpg/1200px-Naturschutzgebiet_Blauen_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naturschutzgebiet_Blauen_02.jpg/1920px-Naturschutzgebiet_Blauen_02.jpg
+  Schweiz Jura Baselland Laufental Blauen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schweiz_Jura_Baselland_Laufental_Blauen.JPG/400px-Schweiz_Jura_Baselland_Laufental_Blauen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schweiz_Jura_Baselland_Laufental_Blauen.JPG/800px-Schweiz_Jura_Baselland_Laufental_Blauen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schweiz_Jura_Baselland_Laufental_Blauen.JPG/1200px-Schweiz_Jura_Baselland_Laufental_Blauen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schweiz_Jura_Baselland_Laufental_Blauen.JPG/1920px-Schweiz_Jura_Baselland_Laufental_Blauen.JPG
+  CHE Blauen Flag.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CHE_Blauen_Flag.svg/400px-CHE_Blauen_Flag.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CHE_Blauen_Flag.svg/800px-CHE_Blauen_Flag.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CHE_Blauen_Flag.svg/1200px-CHE_Blauen_Flag.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/CHE_Blauen_Flag.svg/1920px-CHE_Blauen_Flag.svg.png
+  Coat of arms of Blauen BL.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coat_of_arms_of_Blauen_BL.svg/400px-Coat_of_arms_of_Blauen_BL.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coat_of_arms_of_Blauen_BL.svg/800px-Coat_of_arms_of_Blauen_BL.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coat_of_arms_of_Blauen_BL.svg/1200px-Coat_of_arms_of_Blauen_BL.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coat_of_arms_of_Blauen_BL.svg/1920px-Coat_of_arms_of_Blauen_BL.svg.png
 ---
 
 ## Overview

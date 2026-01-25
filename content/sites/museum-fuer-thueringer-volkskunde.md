@@ -13,7 +13,7 @@ regions:
 latitude: 50.9814
 longitude: 11.0356
 images:
-  - "/images-sites/museum-fuer-thueringer-volkskunde/01-9630b9a3-800w.webp"
+  - "/images/museum-fuer-thueringer-volkskunde/01-9630b9a3-800w.webp"
 ---
 
 ## Overview

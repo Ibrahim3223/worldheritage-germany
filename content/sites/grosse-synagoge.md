@@ -1,19 +1,37 @@
 ---
-title: "Große Synagoge"
+title: Große Synagoge
 date: 2026-01-23
 draft: false
-description: "demolished synagogue in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: demolished synagogue in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9709
 longitude: 11.0276
 images:
-  - "/images-sites/grosse-synagoge/01-6143395c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg/1200px-Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1200px-Große_Synagoge_Erfurt_außen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg/1200px-Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg
+image_srcset:
+  Danzig - Gesamtansicht. ante 1931 (68377052).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg/400px-Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg/800px-Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg/1200px-Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg/1920px-Danzig_-_Gesamtansicht._ante_1931_(68377052).jpg
+  Große Synagoge Erfurt außen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/400px-Große_Synagoge_Erfurt_außen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/800px-Große_Synagoge_Erfurt_außen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1200px-Große_Synagoge_Erfurt_außen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Große_Synagoge_Erfurt_außen.jpg/1920px-Große_Synagoge_Erfurt_außen.jpg
+  Brockhaus and Efron Jewish Encyclopedia e7 003-0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg/400px-Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg/800px-Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg/1200px-Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg/1920px-Brockhaus_and_Efron_Jewish_Encyclopedia_e7_003-0.jpg
 ---
 
 ## Overview

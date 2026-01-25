@@ -1,20 +1,49 @@
 ---
-title: "Altzella Abbey"
+title: Altzella Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0603
 longitude: 13.2765
 images:
-  - "/images-sites/altzella-abbey/02-1a4166a7-800w.webp"
-  - "/images-sites/altzella-abbey/03-fb7846de-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Altzella_2H1A0465WI.jpg/1200px-Kloster_Altzella_2H1A0465WI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kloster_Altzella_2H1A0358WII.jpg/1200px-Kloster_Altzella_2H1A0358WII.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kloster_Altzella_106.JPG/1200px-Kloster_Altzella_106.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kloster_Altzella_102.JPG/1200px-Kloster_Altzella_102.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1200px-Altzella_Konversenhaus.jpg
+image_srcset:
+  Kloster Altzella 2H1A0465WI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Altzella_2H1A0465WI.jpg/400px-Kloster_Altzella_2H1A0465WI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Altzella_2H1A0465WI.jpg/800px-Kloster_Altzella_2H1A0465WI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Altzella_2H1A0465WI.jpg/1200px-Kloster_Altzella_2H1A0465WI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Altzella_2H1A0465WI.jpg/1920px-Kloster_Altzella_2H1A0465WI.jpg
+  Kloster Altzella 2H1A0358WII.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kloster_Altzella_2H1A0358WII.jpg/400px-Kloster_Altzella_2H1A0358WII.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kloster_Altzella_2H1A0358WII.jpg/800px-Kloster_Altzella_2H1A0358WII.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kloster_Altzella_2H1A0358WII.jpg/1200px-Kloster_Altzella_2H1A0358WII.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kloster_Altzella_2H1A0358WII.jpg/1920px-Kloster_Altzella_2H1A0358WII.jpg
+  Kloster Altzella 106.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kloster_Altzella_106.JPG/400px-Kloster_Altzella_106.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kloster_Altzella_106.JPG/800px-Kloster_Altzella_106.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kloster_Altzella_106.JPG/1200px-Kloster_Altzella_106.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kloster_Altzella_106.JPG/1920px-Kloster_Altzella_106.JPG
+  Kloster Altzella 102.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kloster_Altzella_102.JPG/400px-Kloster_Altzella_102.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kloster_Altzella_102.JPG/800px-Kloster_Altzella_102.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kloster_Altzella_102.JPG/1200px-Kloster_Altzella_102.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kloster_Altzella_102.JPG/1920px-Kloster_Altzella_102.JPG
+  Altzella Konversenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/400px-Altzella_Konversenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/800px-Altzella_Konversenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1200px-Altzella_Konversenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Altzella_Konversenhaus.jpg/1920px-Altzella_Konversenhaus.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bergtor"
+title: Bergtor
 date: 2026-01-23
 draft: false
-description: "city gate of Aachen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: city gate of Aachen, Germany
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7822
 longitude: 6.08488
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kato_Bukkyo-no-Odo_San-mon_06.jpg/1200px-Kato_Bukkyo-no-Odo_San-mon_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kato_Bukkyo-no-Odo_San-mon_10.jpg/1200px-Kato_Bukkyo-no-Odo_San-mon_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kirchberg_2020-03-20_d.JPG/1200px-Kirchberg_2020-03-20_d.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1200px-Bergtor.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bergtor.jpg/1200px-Bergtor.jpg
+image_srcset:
+  Kato Bukkyo-no-Odo San-mon 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kato_Bukkyo-no-Odo_San-mon_06.jpg/400px-Kato_Bukkyo-no-Odo_San-mon_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kato_Bukkyo-no-Odo_San-mon_06.jpg/800px-Kato_Bukkyo-no-Odo_San-mon_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kato_Bukkyo-no-Odo_San-mon_06.jpg/1200px-Kato_Bukkyo-no-Odo_San-mon_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kato_Bukkyo-no-Odo_San-mon_06.jpg/1920px-Kato_Bukkyo-no-Odo_San-mon_06.jpg
+  Kato Bukkyo-no-Odo San-mon 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kato_Bukkyo-no-Odo_San-mon_10.jpg/400px-Kato_Bukkyo-no-Odo_San-mon_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kato_Bukkyo-no-Odo_San-mon_10.jpg/800px-Kato_Bukkyo-no-Odo_San-mon_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kato_Bukkyo-no-Odo_San-mon_10.jpg/1200px-Kato_Bukkyo-no-Odo_San-mon_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kato_Bukkyo-no-Odo_San-mon_10.jpg/1920px-Kato_Bukkyo-no-Odo_San-mon_10.jpg
+  Kirchberg 2020-03-20 d.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kirchberg_2020-03-20_d.JPG/400px-Kirchberg_2020-03-20_d.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kirchberg_2020-03-20_d.JPG/800px-Kirchberg_2020-03-20_d.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kirchberg_2020-03-20_d.JPG/1200px-Kirchberg_2020-03-20_d.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kirchberg_2020-03-20_d.JPG/1920px-Kirchberg_2020-03-20_d.JPG
+  Bergtor.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/400px-Bergtor.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/800px-Bergtor.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1200px-Bergtor.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bergtor.png/1920px-Bergtor.png
+  Bergtor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bergtor.jpg/400px-Bergtor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bergtor.jpg/800px-Bergtor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bergtor.jpg/1200px-Bergtor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bergtor.jpg/1920px-Bergtor.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Gymnasium Bayreuther Straße"
+title: Gymnasium Bayreuther Straße
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2617
 longitude: 7.12939
 images:
-  - "/images-sites/gymnasium-bayreuther-strasse/01-84e75ee1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wuppertal_Bayreuther_Straße_2017_011.jpg/1200px-Wuppertal_Bayreuther_Straße_2017_011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wuppertal_Bayreuther_Str_0003.jpg/1200px-Wuppertal_Bayreuther_Str_0003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/1200px-Wuppertal_Bayreuther_Str_0016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuppertal_Bayreuther_Str_0018.jpg/1200px-Wuppertal_Bayreuther_Str_0018.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wuppertal_Bayreuther_Str_0027.jpg/1200px-Wuppertal_Bayreuther_Str_0027.jpg
+image_srcset:
+  Wuppertal Bayreuther Straße 2017 011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wuppertal_Bayreuther_Straße_2017_011.jpg/400px-Wuppertal_Bayreuther_Straße_2017_011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wuppertal_Bayreuther_Straße_2017_011.jpg/800px-Wuppertal_Bayreuther_Straße_2017_011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wuppertal_Bayreuther_Straße_2017_011.jpg/1200px-Wuppertal_Bayreuther_Straße_2017_011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wuppertal_Bayreuther_Straße_2017_011.jpg/1920px-Wuppertal_Bayreuther_Straße_2017_011.jpg
+  Wuppertal Bayreuther Str 0003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wuppertal_Bayreuther_Str_0003.jpg/400px-Wuppertal_Bayreuther_Str_0003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wuppertal_Bayreuther_Str_0003.jpg/800px-Wuppertal_Bayreuther_Str_0003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wuppertal_Bayreuther_Str_0003.jpg/1200px-Wuppertal_Bayreuther_Str_0003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wuppertal_Bayreuther_Str_0003.jpg/1920px-Wuppertal_Bayreuther_Str_0003.jpg
+  Wuppertal Bayreuther Str 0016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/400px-Wuppertal_Bayreuther_Str_0016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/800px-Wuppertal_Bayreuther_Str_0016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/1200px-Wuppertal_Bayreuther_Str_0016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Bayreuther_Str_0016.jpg/1920px-Wuppertal_Bayreuther_Str_0016.jpg
+  Wuppertal Bayreuther Str 0018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuppertal_Bayreuther_Str_0018.jpg/400px-Wuppertal_Bayreuther_Str_0018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuppertal_Bayreuther_Str_0018.jpg/800px-Wuppertal_Bayreuther_Str_0018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuppertal_Bayreuther_Str_0018.jpg/1200px-Wuppertal_Bayreuther_Str_0018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wuppertal_Bayreuther_Str_0018.jpg/1920px-Wuppertal_Bayreuther_Str_0018.jpg
+  Wuppertal Bayreuther Str 0027.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wuppertal_Bayreuther_Str_0027.jpg/400px-Wuppertal_Bayreuther_Str_0027.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wuppertal_Bayreuther_Str_0027.jpg/800px-Wuppertal_Bayreuther_Str_0027.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wuppertal_Bayreuther_Str_0027.jpg/1200px-Wuppertal_Bayreuther_Str_0027.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wuppertal_Bayreuther_Str_0027.jpg/1920px-Wuppertal_Bayreuther_Str_0027.jpg
 ---
 
 ## Overview

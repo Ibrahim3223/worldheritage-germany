@@ -1,21 +1,49 @@
 ---
-title: "Hildesheim Cathedral"
+title: Hildesheim Cathedral
 date: 2026-01-23
 draft: false
-description: "cathedral church in Hildesheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Pilgrimage Church"
+description: cathedral church in Hildesheim, Germany
+region: Germany
+country: Germany
+heritage_type: Pilgrimage Church
 categories:
-  - "Pilgrimage Church"
+- Pilgrimage Church
 regions:
-  - "Germany"
+- Germany
 latitude: 52.148889
 longitude: 9.947222
 images:
-  - "/images-sites/hildesheim-cathedral/01-ea010cb2-800w.webp"
-  - "/images-sites/hildesheim-cathedral/02-bbf3a5ee-800w.webp"
-  - "/images-sites/hildesheim-cathedral/03-d249a998-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hildesheim,_Dom_20171201_001.jpg/1200px-Hildesheim,_Dom_20171201_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg/1200px-Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1200px-Hildesheimer_Dom_2015.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg/1200px-Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1200px-Hildesheim_Dombibliothek_02.jpg
+image_srcset:
+  Hildesheim, Dom 20171201 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hildesheim,_Dom_20171201_001.jpg/400px-Hildesheim,_Dom_20171201_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hildesheim,_Dom_20171201_001.jpg/800px-Hildesheim,_Dom_20171201_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hildesheim,_Dom_20171201_001.jpg/1200px-Hildesheim,_Dom_20171201_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hildesheim,_Dom_20171201_001.jpg/1920px-Hildesheim,_Dom_20171201_001.jpg
+  Zentralbibliothek Zürich - Das Taufbecken im Dom z Hildesheim - 991119131499705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg/400px-Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg/800px-Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg/1200px-Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg/1920px-Zentralbibliothek_Zürich_-_Das_Taufbecken_im_Dom_z_Hildesheim_-_991119131499705501.jpg
+  Hildesheimer Dom 2015.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/400px-Hildesheimer_Dom_2015.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/800px-Hildesheimer_Dom_2015.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1200px-Hildesheimer_Dom_2015.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hildesheimer_Dom_2015.JPG/1920px-Hildesheimer_Dom_2015.JPG
+  Zentralbibliothek Zürich - Vom Kronleuchter aus dem Dom zu Hildesheim - 991121884979705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg/400px-Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg/800px-Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg/1200px-Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg/1920px-Zentralbibliothek_Zürich_-_Vom_Kronleuchter_aus_dem_Dom_zu_Hildesheim_-_991121884979705501.jpg
+  Hildesheim Dombibliothek 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/400px-Hildesheim_Dombibliothek_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/800px-Hildesheim_Dombibliothek_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1200px-Hildesheim_Dombibliothek_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1920px-Hildesheim_Dombibliothek_02.jpg
 ---
 
 ## Overview

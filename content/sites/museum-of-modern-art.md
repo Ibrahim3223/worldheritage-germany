@@ -21,7 +21,7 @@ longitude: 13.4731
 
 # Images
 images:
-  - "/images-sites/museum-of-modern-art/01-0d640d8c-800w.webp"
+  - "/images/museum-of-modern-art/01-0d640d8c-800w.webp"
 ---
 
 ## Overview

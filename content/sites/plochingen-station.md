@@ -13,7 +13,7 @@ regions:
 latitude: 48.7131
 longitude: 9.41167
 images:
-  - "/images-sites/plochingen-station/01-87f2ef9b-800w.webp"
+  - "/images/plochingen-station/01-87f2ef9b-800w.webp"
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 7.850306
 
 # Images
 images:
-  - "/images-sites/rheingrafenstein-castle/01-e293b97c-800w.webp"
-  - "/images-sites/rheingrafenstein-castle/02-3fd2054c-800w.webp"
-  - "/images-sites/rheingrafenstein-castle/03-fabe60c4-800w.webp"
+  - "/images/rheingrafenstein-castle/01-e293b97c-800w.webp"
+  - "/images/rheingrafenstein-castle/02-3fd2054c-800w.webp"
+  - "/images/rheingrafenstein-castle/03-fabe60c4-800w.webp"
 ---
 
 ## Overview

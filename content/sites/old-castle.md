@@ -21,7 +21,7 @@ longitude: 9.17917
 
 # Images
 images:
-  - "/images-sites/old-castle/01-4232f729-800w.webp"
+  - "/images/old-castle/01-4232f729-800w.webp"
 ---
 
 ## Overview

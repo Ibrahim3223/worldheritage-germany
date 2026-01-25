@@ -1,24 +1,51 @@
 ---
-title: "Anbetungskirche"
-site_name: "Anbetungskirche"
-slug: "anbetungskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Anbetungskirche
+site_name: Anbetungskirche
+slug: anbetungskirche
+region: North Rhine-Westphalia
 latitude: 50.4075
 longitude: 7.63554
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q488835"
-description: "In the quaint town of Vallendar, Germany, the Anbetungskirche stands as a striking example of modern religious architecture. This Catholic church, locat..."
+- church building
+- religious site
+wikidata_id: Q488835
+description: In the quaint town of Vallendar, Germany, the Anbetungskirche stands
+  as a striking example of modern religious architecture. This Catholic church, locat...
 images:
-  - "/images-sites/anbetungskirche/01-a3dc0c7f-1920w.webp"
-  - "/images-sites/anbetungskirche/02-c7067248-1920w.webp"
-  - "/images-sites/anbetungskirche/03-b9725a5b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg/1200px-Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg
+image_srcset:
+  Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg/400px-Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg/800px-Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg/1200px-Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg/1920px-Sch%C3%B6nstatt%20-%20Aanbiddingskerk.jpg
+  Düsseldorf-Hassels, Anbetungskirche, Orgel (10).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg/400px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg/800px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg/1920px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(10).jpg
+  Düsseldorf-Hassels, Anbetungskirche, Orgel (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg/400px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg/800px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg/1920px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(13).jpg
+  Düsseldorf-Hassels, Anbetungskirche, Orgel (07).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg/400px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg/800px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg/1920px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(07).jpg
+  Düsseldorf-Hassels, Anbetungskirche, Orgel (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg/400px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg/800px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg/1200px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg/1920px-Düsseldorf-Hassels,_Anbetungskirche,_Orgel_(06).jpg
 ---
 
 ## Overview

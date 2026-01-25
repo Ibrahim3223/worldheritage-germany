@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2318154"
 description: "St. Evergislus, a captivating church building located in Brenig, Bornheim, Germany, offers visitors a glimpse into the rich cultural and architectural h..."
 images:
-  - "/images-sites/st-evergislus/01-4ec5a914-1920w.webp"
-  - "/images-sites/st-evergislus/02-13a9682d-1920w.webp"
-  - "/images-sites/st-evergislus/03-4dde03a3-1920w.webp"
+  - "/images/st-evergislus/01-4ec5a914-1920w.webp"
+  - "/images/st-evergislus/02-13a9682d-1920w.webp"
+  - "/images/st-evergislus/03-4dde03a3-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q14541005"
 description: "St. Mary’s Church in Prenzlau stands as an impressive example of Brick Gothic architecture, a style that dominates the landscape of the Uckermark distri..."
 images:
-  - "/images-sites/st-mary-s-church-prenzlau/01-a366d933-1920w.webp"
-  - "/images-sites/st-mary-s-church-prenzlau/02-556580fc-1920w.webp"
-  - "/images-sites/st-mary-s-church-prenzlau/03-42168c2d-1920w.webp"
+  - "/images/st-mary-s-church-prenzlau/01-a366d933-1920w.webp"
+  - "/images/st-mary-s-church-prenzlau/02-556580fc-1920w.webp"
+  - "/images/st-mary-s-church-prenzlau/03-42168c2d-1920w.webp"
 ---
 
 ## Overview

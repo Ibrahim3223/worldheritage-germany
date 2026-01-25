@@ -1,21 +1,49 @@
 ---
-title: "Erlachsee"
+title: Erlachsee
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 48.98441696
 longitude: 8.42951775
 images:
-  - "/images-sites/erlachsee/01-7c19daf5-800w.webp"
-  - "/images-sites/erlachsee/02-db4b6877-800w.webp"
-  - "/images-sites/erlachsee/03-d18f8cb7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erlachsee_NSG_BW_KA_d.JPG/1200px-Erlachsee_NSG_BW_KA_d.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberwald_LSG_BW_KA_Rißnert_b.JPG/1200px-Oberwald_LSG_BW_KA_Rißnert_b.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erlachsee.jpg/1200px-Erlachsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wasserwerk_Oberwald_Karlsruhe_2.jpg/1200px-Wasserwerk_Oberwald_Karlsruhe_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erlachsee-4.jpg/1200px-Erlachsee-4.jpg
+image_srcset:
+  Erlachsee NSG BW KA d.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erlachsee_NSG_BW_KA_d.JPG/400px-Erlachsee_NSG_BW_KA_d.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erlachsee_NSG_BW_KA_d.JPG/800px-Erlachsee_NSG_BW_KA_d.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erlachsee_NSG_BW_KA_d.JPG/1200px-Erlachsee_NSG_BW_KA_d.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Erlachsee_NSG_BW_KA_d.JPG/1920px-Erlachsee_NSG_BW_KA_d.JPG
+  Oberwald LSG BW KA Rißnert b.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberwald_LSG_BW_KA_Rißnert_b.JPG/400px-Oberwald_LSG_BW_KA_Rißnert_b.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberwald_LSG_BW_KA_Rißnert_b.JPG/800px-Oberwald_LSG_BW_KA_Rißnert_b.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberwald_LSG_BW_KA_Rißnert_b.JPG/1200px-Oberwald_LSG_BW_KA_Rißnert_b.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberwald_LSG_BW_KA_Rißnert_b.JPG/1920px-Oberwald_LSG_BW_KA_Rißnert_b.JPG
+  Erlachsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erlachsee.jpg/400px-Erlachsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erlachsee.jpg/800px-Erlachsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erlachsee.jpg/1200px-Erlachsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Erlachsee.jpg/1920px-Erlachsee.jpg
+  Wasserwerk Oberwald Karlsruhe 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wasserwerk_Oberwald_Karlsruhe_2.jpg/400px-Wasserwerk_Oberwald_Karlsruhe_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wasserwerk_Oberwald_Karlsruhe_2.jpg/800px-Wasserwerk_Oberwald_Karlsruhe_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wasserwerk_Oberwald_Karlsruhe_2.jpg/1200px-Wasserwerk_Oberwald_Karlsruhe_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wasserwerk_Oberwald_Karlsruhe_2.jpg/1920px-Wasserwerk_Oberwald_Karlsruhe_2.jpg
+  Erlachsee-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erlachsee-4.jpg/400px-Erlachsee-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erlachsee-4.jpg/800px-Erlachsee-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erlachsee-4.jpg/1200px-Erlachsee-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Erlachsee-4.jpg/1920px-Erlachsee-4.jpg
 ---
 
 ## Overview

@@ -1,21 +1,43 @@
 ---
-title: "Beuchel"
+title: Beuchel
 date: 2026-01-23
 draft: false
-description: "island"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.538611111
 longitude: 13.3
 images:
-  - "/images-sites/beuchel/01-aca36697-800w.webp"
-  - "/images-sites/beuchel/02-7758d951-800w.webp"
-  - "/images-sites/beuchel/03-5cf7f59b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RO_Bistrita_Piata_Centrala_30.jpg/1200px-RO_Bistrita_Piata_Centrala_30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Johannes_Lapicida_house_in_Bistrita.JPG/1200px-Johannes_Lapicida_house_in_Bistrita.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Casa_lui_Ion_Zidaru.jpg/1200px-Casa_lui_Ion_Zidaru.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg/1200px-Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg
+image_srcset:
+  RO Bistrita Piata Centrala 30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RO_Bistrita_Piata_Centrala_30.jpg/400px-RO_Bistrita_Piata_Centrala_30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RO_Bistrita_Piata_Centrala_30.jpg/800px-RO_Bistrita_Piata_Centrala_30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RO_Bistrita_Piata_Centrala_30.jpg/1200px-RO_Bistrita_Piata_Centrala_30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RO_Bistrita_Piata_Centrala_30.jpg/1920px-RO_Bistrita_Piata_Centrala_30.jpg
+  Johannes Lapicida house in Bistrita.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Johannes_Lapicida_house_in_Bistrita.JPG/400px-Johannes_Lapicida_house_in_Bistrita.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Johannes_Lapicida_house_in_Bistrita.JPG/800px-Johannes_Lapicida_house_in_Bistrita.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Johannes_Lapicida_house_in_Bistrita.JPG/1200px-Johannes_Lapicida_house_in_Bistrita.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Johannes_Lapicida_house_in_Bistrita.JPG/1920px-Johannes_Lapicida_house_in_Bistrita.JPG
+  Casa lui Ion Zidaru.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Casa_lui_Ion_Zidaru.jpg/400px-Casa_lui_Ion_Zidaru.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Casa_lui_Ion_Zidaru.jpg/800px-Casa_lui_Ion_Zidaru.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Casa_lui_Ion_Zidaru.jpg/1200px-Casa_lui_Ion_Zidaru.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Casa_lui_Ion_Zidaru.jpg/1920px-Casa_lui_Ion_Zidaru.jpg
+  Bundesarchiv Bild 183-N0430-0306, Chemnitz, Architekt mit Plan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg/400px-Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg/800px-Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg/1200px-Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg/1920px-Bundesarchiv_Bild_183-N0430-0306,_Chemnitz,_Architekt_mit_Plan.jpg
 ---
 
 ## Overview

@@ -1,23 +1,44 @@
 ---
-title: "Dunum Church"
-site_name: "Dunum Church"
-slug: "dunum-church"
-region: "Lower Saxony"
-
-# Location
+title: Dunum Church
+site_name: Dunum Church
+slug: dunum-church
+region: Lower Saxony
 latitude: 53.5958
 longitude: 7.64586
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1266304"
-description: "The Dunum Church, a captivating example of Romanesque architecture, stands as a notable landmark in the tranquil region of Dunum, Germany. This church, ..."
+- cultural site
+wikidata_id: Q1266304
+description: The Dunum Church, a captivating example of Romanesque architecture, stands
+  as a notable landmark in the tranquil region of Dunum, Germany. This church, ...
 images:
-  - "/images-sites/dunum-church/01-db997674-1920w.webp"
-  - "/images-sites/dunum-church/02-dafdf84b-1920w.webp"
-  - "/images-sites/dunum-church/03-1cf01567-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/1200px-DunumKirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dunum_Kirche_Apsis.jpg/1200px-Dunum_Kirche_Apsis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hagioskop_(außen)_Kirche_in_Dunum.JPG/1200px-Hagioskop_(außen)_Kirche_in_Dunum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hagioskop_(innen)_Kirche_in_Dunum.JPG/1200px-Hagioskop_(innen)_Kirche_in_Dunum.JPG
+image_srcset:
+  DunumKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/400px-DunumKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/800px-DunumKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/1200px-DunumKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DunumKirche.jpg/1920px-DunumKirche.jpg
+  Dunum Kirche Apsis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dunum_Kirche_Apsis.jpg/400px-Dunum_Kirche_Apsis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dunum_Kirche_Apsis.jpg/800px-Dunum_Kirche_Apsis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dunum_Kirche_Apsis.jpg/1200px-Dunum_Kirche_Apsis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dunum_Kirche_Apsis.jpg/1920px-Dunum_Kirche_Apsis.jpg
+  Hagioskop (außen) Kirche in Dunum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hagioskop_(außen)_Kirche_in_Dunum.JPG/400px-Hagioskop_(außen)_Kirche_in_Dunum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hagioskop_(außen)_Kirche_in_Dunum.JPG/800px-Hagioskop_(außen)_Kirche_in_Dunum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hagioskop_(außen)_Kirche_in_Dunum.JPG/1200px-Hagioskop_(außen)_Kirche_in_Dunum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hagioskop_(außen)_Kirche_in_Dunum.JPG/1920px-Hagioskop_(außen)_Kirche_in_Dunum.JPG
+  Hagioskop (innen) Kirche in Dunum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hagioskop_(innen)_Kirche_in_Dunum.JPG/400px-Hagioskop_(innen)_Kirche_in_Dunum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hagioskop_(innen)_Kirche_in_Dunum.JPG/800px-Hagioskop_(innen)_Kirche_in_Dunum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hagioskop_(innen)_Kirche_in_Dunum.JPG/1200px-Hagioskop_(innen)_Kirche_in_Dunum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hagioskop_(innen)_Kirche_in_Dunum.JPG/1920px-Hagioskop_(innen)_Kirche_in_Dunum.JPG
 ---
 
 ## Overview

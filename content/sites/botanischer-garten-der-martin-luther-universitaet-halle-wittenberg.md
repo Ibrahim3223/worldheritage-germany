@@ -1,27 +1,25 @@
 ---
-title: "Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg"
+title: Botanischer Garten der Martin-Luther-Universität Halle-Wittenberg
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4889
 longitude: 11.9614
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-martin-luther-universitaet-halle-wittenberg/01-3cbb5dbd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg/1200px-HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg
+image_srcset:
+  HAL-Gartenträume Botanischer Garten Halle Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg/400px-HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg/800px-HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg/1200px-HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg/1920px-HAL-Gartenträume_Botanischer_Garten_Halle_Infotafel.jpg
 ---
 
 ## Overview

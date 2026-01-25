@@ -21,7 +21,7 @@ longitude: 8.391
 
 # Images
 images:
-  - "/images-sites/stadtpark-und-botanischer-garten-guetersloh/01-35219745-800w.webp"
+  - "/images/stadtpark-und-botanischer-garten-guetersloh/01-35219745-800w.webp"
 ---
 
 ## Overview

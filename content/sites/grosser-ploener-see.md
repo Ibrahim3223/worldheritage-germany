@@ -1,19 +1,49 @@
 ---
-title: "Großer Plöner See"
+title: Großer Plöner See
 date: 2026-01-23
 draft: false
-description: "lake"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 54.130277777
 longitude: 10.414166666
 images:
-  - "/images-sites/grosser-ploener-see/01-a0c8fc63-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg/1200px-Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Großer_Plöner_See_mit_Seeadlern.jpg/1200px-Großer_Plöner_See_mit_Seeadlern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Erixx_826_007_Plön_2024-05-05.jpg/1200px-Erixx_826_007_Plön_2024-05-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Plöner_Schloss.jpg/1200px-Plöner_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BosauBootssteg.jpg/1200px-BosauBootssteg.jpg
+image_srcset:
+  Großer Plöner See, Badestelle am Koppelsberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg/400px-Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg/800px-Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg/1200px-Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg/1920px-Großer_Plöner_See,_Badestelle_am_Koppelsberg.jpg
+  Großer Plöner See mit Seeadlern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Großer_Plöner_See_mit_Seeadlern.jpg/400px-Großer_Plöner_See_mit_Seeadlern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Großer_Plöner_See_mit_Seeadlern.jpg/800px-Großer_Plöner_See_mit_Seeadlern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Großer_Plöner_See_mit_Seeadlern.jpg/1200px-Großer_Plöner_See_mit_Seeadlern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Großer_Plöner_See_mit_Seeadlern.jpg/1920px-Großer_Plöner_See_mit_Seeadlern.jpg
+  Erixx 826 007 Plön 2024-05-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Erixx_826_007_Plön_2024-05-05.jpg/400px-Erixx_826_007_Plön_2024-05-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Erixx_826_007_Plön_2024-05-05.jpg/800px-Erixx_826_007_Plön_2024-05-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Erixx_826_007_Plön_2024-05-05.jpg/1200px-Erixx_826_007_Plön_2024-05-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Erixx_826_007_Plön_2024-05-05.jpg/1920px-Erixx_826_007_Plön_2024-05-05.jpg
+  Plöner Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Plöner_Schloss.jpg/400px-Plöner_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Plöner_Schloss.jpg/800px-Plöner_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Plöner_Schloss.jpg/1200px-Plöner_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Plöner_Schloss.jpg/1920px-Plöner_Schloss.jpg
+  BosauBootssteg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BosauBootssteg.jpg/400px-BosauBootssteg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BosauBootssteg.jpg/800px-BosauBootssteg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BosauBootssteg.jpg/1200px-BosauBootssteg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BosauBootssteg.jpg/1920px-BosauBootssteg.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.447367421
 longitude: 11.144819921
 images:
-  - "/images-sites/nuremberg-zoo/01-40ddda9a-800w.webp"
+  - "/images/nuremberg-zoo/01-40ddda9a-800w.webp"
 ---
 
 ## Overview

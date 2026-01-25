@@ -13,7 +13,7 @@ regions:
 latitude: 50.2258
 longitude: 8.62528
 images:
-  - "/images-sites/russian-chapel-bad-homburg/01-52482462-800w.webp"
+  - "/images/russian-chapel-bad-homburg/01-52482462-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 11.566666666
 
 # Images
 images:
-  - "/images-sites/maisels/01-14e54420-800w.webp"
+  - "/images/maisels/01-14e54420-800w.webp"
 ---
 
 ## Overview

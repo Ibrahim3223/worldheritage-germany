@@ -13,7 +13,7 @@ regions:
 latitude: 52.5194
 longitude: 13.3983
 images:
-  - "/images-sites/samian-hoplite/01-23fc2995-800w.webp"
+  - "/images/samian-hoplite/01-23fc2995-800w.webp"
 ---
 
 ## Overview

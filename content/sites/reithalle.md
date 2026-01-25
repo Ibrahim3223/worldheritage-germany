@@ -13,7 +13,7 @@ regions:
 latitude: 50.2582
 longitude: 10.969
 images:
-  - "/images-sites/reithalle/01-e171b314-800w.webp"
+  - "/images/reithalle/01-e171b314-800w.webp"
 ---
 
 ## Overview

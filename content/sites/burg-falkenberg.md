@@ -1,29 +1,49 @@
 ---
-title: "Burg Falkenberg"
+title: Burg Falkenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8593
 longitude: 12.2249
-
-# Images
 images:
-  - "/images-sites/burg-falkenberg/01-46e8e623-800w.webp"
-  - "/images-sites/burg-falkenberg/02-3f465cb6-800w.webp"
-  - "/images-sites/burg-falkenberg/03-fe4cd4b2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg/1200px-Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KdKB_Tirschenreuth_0044.png/1200px-KdKB_Tirschenreuth_0044.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Falkenburg05.jpg/1200px-Falkenburg05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Falkenberg02.jpg/1200px-Burg_Falkenberg02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/1200px-Falkenberg-Burg-2.jpg
+image_srcset:
+  Burg Falkenstein von der Ortsmitte gesehen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg/400px-Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg/800px-Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg/1200px-Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg/1920px-Burg_Falkenstein_von_der_Ortsmitte_gesehen.jpg
+  KdKB Tirschenreuth 0044.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KdKB_Tirschenreuth_0044.png/400px-KdKB_Tirschenreuth_0044.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KdKB_Tirschenreuth_0044.png/800px-KdKB_Tirschenreuth_0044.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KdKB_Tirschenreuth_0044.png/1200px-KdKB_Tirschenreuth_0044.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/KdKB_Tirschenreuth_0044.png/1920px-KdKB_Tirschenreuth_0044.png
+  Falkenburg05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Falkenburg05.jpg/400px-Falkenburg05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Falkenburg05.jpg/800px-Falkenburg05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Falkenburg05.jpg/1200px-Falkenburg05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Falkenburg05.jpg/1920px-Falkenburg05.jpg
+  Burg Falkenberg02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Falkenberg02.jpg/400px-Burg_Falkenberg02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Falkenberg02.jpg/800px-Burg_Falkenberg02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Falkenberg02.jpg/1200px-Burg_Falkenberg02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Burg_Falkenberg02.jpg/1920px-Burg_Falkenberg02.jpg
+  Falkenberg-Burg-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/400px-Falkenberg-Burg-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/800px-Falkenberg-Burg-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/1200px-Falkenberg-Burg-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Falkenberg-Burg-2.jpg/1920px-Falkenberg-Burg-2.jpg
 ---
 
 ## Overview

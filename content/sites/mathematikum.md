@@ -13,7 +13,7 @@ regions:
 latitude: 50.581193
 longitude: 8.665756
 images:
-  - "/images-sites/mathematikum/01-ffc7f80e-800w.webp"
+  - "/images/mathematikum/01-ffc7f80e-800w.webp"
 ---
 
 ## Overview

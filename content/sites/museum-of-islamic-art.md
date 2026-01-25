@@ -21,7 +21,7 @@ longitude: 13.3964
 
 # Images
 images:
-  - "/images-sites/museum-of-islamic-art/01-94a45543-800w.webp"
+  - "/images/museum-of-islamic-art/01-94a45543-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burg Löwenstein"
+title: Burg Löwenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7371
 longitude: 7.79069
 images:
-  - "/images-sites/burg-loewenstein/01-2ae6293f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burg_Löwenstein_01.jpg/1200px-Burg_Löwenstein_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Löwenstein_02.jpg/1200px-Burg_Löwenstein_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Löwenstein_03.jpg/1200px-Burg_Löwenstein_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgruine_Löwenstein.jpg/1200px-Burgruine_Löwenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lewenstein.JPG/1200px-Lewenstein.JPG
+image_srcset:
+  Burg Löwenstein 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burg_Löwenstein_01.jpg/400px-Burg_Löwenstein_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burg_Löwenstein_01.jpg/800px-Burg_Löwenstein_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burg_Löwenstein_01.jpg/1200px-Burg_Löwenstein_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Burg_Löwenstein_01.jpg/1920px-Burg_Löwenstein_01.jpg
+  Burg Löwenstein 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Löwenstein_02.jpg/400px-Burg_Löwenstein_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Löwenstein_02.jpg/800px-Burg_Löwenstein_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Löwenstein_02.jpg/1200px-Burg_Löwenstein_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Burg_Löwenstein_02.jpg/1920px-Burg_Löwenstein_02.jpg
+  Burg Löwenstein 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Löwenstein_03.jpg/400px-Burg_Löwenstein_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Löwenstein_03.jpg/800px-Burg_Löwenstein_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Löwenstein_03.jpg/1200px-Burg_Löwenstein_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Löwenstein_03.jpg/1920px-Burg_Löwenstein_03.jpg
+  Burgruine Löwenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgruine_Löwenstein.jpg/400px-Burgruine_Löwenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgruine_Löwenstein.jpg/800px-Burgruine_Löwenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgruine_Löwenstein.jpg/1200px-Burgruine_Löwenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgruine_Löwenstein.jpg/1920px-Burgruine_Löwenstein.jpg
+  Lewenstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lewenstein.JPG/400px-Lewenstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lewenstein.JPG/800px-Lewenstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lewenstein.JPG/1200px-Lewenstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lewenstein.JPG/1920px-Lewenstein.JPG
 ---
 
 ## Overview

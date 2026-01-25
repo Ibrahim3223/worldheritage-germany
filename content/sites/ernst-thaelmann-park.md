@@ -1,19 +1,49 @@
 ---
-title: "Ernst-Thälmann-Park"
+title: Ernst-Thälmann-Park
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.538056
 longitude: 13.433889
 images:
-  - "/images-sites/ernst-thaelmann-park/01-acd1c74b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg/1200px-Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg/1200px-19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg/1200px-Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ernst_Thaelmann_Berlin.JPEG/1200px-Ernst_Thaelmann_Berlin.JPEG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg/1200px-Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg
+image_srcset:
+  Outdoor Gym Ernst-Thälmann-Park Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg/400px-Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg/800px-Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg/1200px-Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg/1920px-Outdoor_Gym_Ernst-Thälmann-Park_Berlin.jpg
+  19860503210NR Berlin-Prenzlauer Berg Ernst-Thälmann-Park.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg/400px-19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg/800px-19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg/1200px-19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg/1920px-19860503210NR_Berlin-Prenzlauer_Berg_Ernst-Thälmann-Park.jpg
+  Berlin-Prenzlauer Berg - Ernst-Thälmann-Park 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg/400px-Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg/800px-Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg/1200px-Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg/1920px-Berlin-Prenzlauer_Berg_-_Ernst-Thälmann-Park_01.jpg
+  Ernst Thaelmann Berlin.JPEG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ernst_Thaelmann_Berlin.JPEG/400px-Ernst_Thaelmann_Berlin.JPEG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ernst_Thaelmann_Berlin.JPEG/800px-Ernst_Thaelmann_Berlin.JPEG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ernst_Thaelmann_Berlin.JPEG/1200px-Ernst_Thaelmann_Berlin.JPEG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ernst_Thaelmann_Berlin.JPEG/1920px-Ernst_Thaelmann_Berlin.JPEG
+  Bundesarchiv Bild 183-1985-0402-008, Berlin, Im Thälmannpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg/400px-Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg/800px-Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg/1200px-Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg/1920px-Bundesarchiv_Bild_183-1985-0402-008,_Berlin,_Im_Thälmannpark.jpg
 ---
 
 ## Overview

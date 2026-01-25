@@ -1,19 +1,49 @@
 ---
-title: "Hackesche Höfe"
+title: Hackesche Höfe
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.524167
 longitude: 13.402222
 images:
-  - "/images-sites/hackesche-hoefe/01-712f9791-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg/1200px-Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg/1200px-Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg/1200px-Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/1200px-Hackesche_Höfe_Berlin1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Near_Hackesche_Höfe-1_Berlin.jpg/1200px-Near_Hackesche_Höfe-1_Berlin.jpg
+image_srcset:
+  Berlin, Hackesche Höfe -- 2011 -- 2438.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg/400px-Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg/800px-Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg/1200px-Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg/1920px-Berlin,_Hackesche_Höfe_--_2011_--_2438.jpg
+  Berlin, Hackesche Höfe -- 2011 -- 2446.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg/400px-Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg/800px-Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg/1200px-Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg/1920px-Berlin,_Hackesche_Höfe_--_2011_--_2446.jpg
+  Berlin, Hackesche Höfe -- 2013 -- 4495.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg/400px-Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg/800px-Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg/1200px-Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg/1920px-Berlin,_Hackesche_Höfe_--_2013_--_4495.jpg
+  Hackesche Höfe Berlin1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/400px-Hackesche_Höfe_Berlin1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/800px-Hackesche_Höfe_Berlin1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/1200px-Hackesche_Höfe_Berlin1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hackesche_Höfe_Berlin1.JPG/1920px-Hackesche_Höfe_Berlin1.JPG
+  Near Hackesche Höfe-1 Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Near_Hackesche_Höfe-1_Berlin.jpg/400px-Near_Hackesche_Höfe-1_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Near_Hackesche_Höfe-1_Berlin.jpg/800px-Near_Hackesche_Höfe-1_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Near_Hackesche_Höfe-1_Berlin.jpg/1200px-Near_Hackesche_Höfe-1_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Near_Hackesche_Höfe-1_Berlin.jpg/1920px-Near_Hackesche_Höfe-1_Berlin.jpg
 ---
 
 ## Overview

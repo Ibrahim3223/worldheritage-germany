@@ -1,23 +1,50 @@
 ---
-title: "Church of Peace"
-site_name: "Church of Peace"
-slug: "church-of-peace"
-region: "Brandenburg"
-
-# Location
+title: Church of Peace
+site_name: Church of Peace
+slug: church-of-peace
+region: Brandenburg
 latitude: 52.400966
 longitude: 13.043411
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q819742"
-description: "The Church of Peace in Potsdam stands as a striking example of 19th-century architectural ingenuity. Founded in 1854, this church is not just a place of..."
+- cultural site
+wikidata_id: Q819742
+description: The Church of Peace in Potsdam stands as a striking example of 19th-century
+  architectural ingenuity. Founded in 1854, this church is not just a place of...
 images:
-  - "/images-sites/church-of-peace/01-68ca2604-1920w.webp"
-  - "/images-sites/church-of-peace/02-f1a55d0e-1920w.webp"
-  - "/images-sites/church-of-peace/03-f52d1413-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1200px-Friedenskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/1200px-Friedenskirche_November_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg/1200px-Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg/1200px-Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg/1200px-Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg
+image_srcset:
+  Friedenskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/400px-Friedenskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/800px-Friedenskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1200px-Friedenskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedenskirche.jpg/1920px-Friedenskirche.jpg
+  Friedenskirche November 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/400px-Friedenskirche_November_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/800px-Friedenskirche_November_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/1200px-Friedenskirche_November_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Friedenskirche_November_2013.jpg/1920px-Friedenskirche_November_2013.jpg
+  Bergkamen ev Friedenskirche IMGP8788 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg/400px-Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg/800px-Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg/1200px-Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg/1920px-Bergkamen_ev_Friedenskirche_IMGP8788_wp.jpg
+  Bergkamen ev Friedenskirche IMGP8806 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg/400px-Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg/800px-Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg/1200px-Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg/1920px-Bergkamen_ev_Friedenskirche_IMGP8806_wp.jpg
+  Bergkamen ev Friedenskirche IMGP8794 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg/400px-Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg/800px-Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg/1200px-Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg/1920px-Bergkamen_ev_Friedenskirche_IMGP8794_wp.jpg
 ---
 
 ## Overview

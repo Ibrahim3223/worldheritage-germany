@@ -13,7 +13,7 @@ regions:
 latitude: 50.04
 longitude: 8.234444444
 images:
-  - "/images-sites/schlosspark-biebrich/01-ad67da2f-800w.webp"
+  - "/images/schlosspark-biebrich/01-ad67da2f-800w.webp"
 ---
 
 ## Overview

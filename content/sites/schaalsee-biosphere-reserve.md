@@ -21,7 +21,7 @@ longitude: 10.9667
 
 # Images
 images:
-  - "/images-sites/schaalsee-biosphere-reserve/01-f853c599-800w.webp"
+  - "/images/schaalsee-biosphere-reserve/01-f853c599-800w.webp"
 ---
 
 ## Overview

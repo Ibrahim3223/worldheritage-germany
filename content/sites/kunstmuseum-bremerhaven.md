@@ -21,7 +21,7 @@ longitude: 8.58173
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-bremerhaven/01-7d880b3a-800w.webp"
+  - "/images/kunstmuseum-bremerhaven/01-7d880b3a-800w.webp"
 ---
 
 ## Overview

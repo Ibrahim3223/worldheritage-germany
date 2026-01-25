@@ -1,27 +1,49 @@
 ---
-title: "Black Forest Biosphere Reserve"
+title: Black Forest Biosphere Reserve
 date: 2026-01-23
 draft: false
-description: "biosphere reserve in Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Biosphere Reserve"
-
-# Taxonomies
+description: biosphere reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Biosphere Reserve
 categories:
-  - "Biosphere Reserve"
+- Biosphere Reserve
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.789166666
 longitude: 7.9575
-
-# Images
 images:
-  - "/images-sites/black-forest-biosphere-reserve/01-0f0d6f30-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Belchen_(15092163535).jpg/1200px-Belchen_(15092163535).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg/1200px-Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Toter_Mann,_Stollenbach.jpg/1200px-Toter_Mann,_Stollenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg/1200px-Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karte_Biosphärengebiet_Schwarzwald.png/1200px-Karte_Biosphärengebiet_Schwarzwald.png
+image_srcset:
+  Belchen (15092163535).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Belchen_(15092163535).jpg/400px-Belchen_(15092163535).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Belchen_(15092163535).jpg/800px-Belchen_(15092163535).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Belchen_(15092163535).jpg/1200px-Belchen_(15092163535).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Belchen_(15092163535).jpg/1920px-Belchen_(15092163535).jpg
+  Dachsberg (Südschwarzwald) Naturschutzgebiet Rüttewies-Scheibenrain Bild 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg/400px-Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg/800px-Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg/1200px-Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg/1920px-Dachsberg_(Südschwarzwald)_Naturschutzgebiet_Rüttewies-Scheibenrain_Bild_8.jpg
+  Toter Mann, Stollenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Toter_Mann,_Stollenbach.jpg/400px-Toter_Mann,_Stollenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Toter_Mann,_Stollenbach.jpg/800px-Toter_Mann,_Stollenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Toter_Mann,_Stollenbach.jpg/1200px-Toter_Mann,_Stollenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Toter_Mann,_Stollenbach.jpg/1920px-Toter_Mann,_Stollenbach.jpg
+  Südschwarzwald - Blick vom Herzogenhorn zum Belchen - Oktober 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg/400px-Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg/800px-Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg/1200px-Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg/1920px-Südschwarzwald_-_Blick_vom_Herzogenhorn_zum_Belchen_-_Oktober_2016.jpg
+  Karte Biosphärengebiet Schwarzwald.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karte_Biosphärengebiet_Schwarzwald.png/400px-Karte_Biosphärengebiet_Schwarzwald.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karte_Biosphärengebiet_Schwarzwald.png/800px-Karte_Biosphärengebiet_Schwarzwald.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karte_Biosphärengebiet_Schwarzwald.png/1200px-Karte_Biosphärengebiet_Schwarzwald.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karte_Biosphärengebiet_Schwarzwald.png/1920px-Karte_Biosphärengebiet_Schwarzwald.png
 ---
 
 ## Overview

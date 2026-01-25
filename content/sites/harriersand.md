@@ -1,20 +1,43 @@
 ---
-title: "Harriersand"
+title: Harriersand
 date: 2026-01-23
 draft: false
-description: "island of Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island of Germany
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 53.309555555
 longitude: 8.497444444
 images:
-  - "/images-sites/harriersand/02-ef232967-800w.webp"
-  - "/images-sites/harriersand/03-8f94142b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg/1200px-Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Weserinsel_Harriersand_bei_Brake_(49690767416).jpg/1200px-Weserinsel_Harriersand_bei_Brake_(49690767416).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Weserinsel_Harriersand_bei_Brake_(49690267833).jpg/1200px-Weserinsel_Harriersand_bei_Brake_(49690267833).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Acidum_(Bonn)_vor_Harriersand.jpg/1200px-Acidum_(Bonn)_vor_Harriersand.jpg
+image_srcset:
+  Fähre "Guntsiet" auf der Unterweser (2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg/400px-Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg/800px-Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg/1200px-Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg/1920px-Fähre_"Guntsiet"_auf_der_Unterweser_(2023).jpg
+  Weserinsel Harriersand bei Brake (49690767416).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Weserinsel_Harriersand_bei_Brake_(49690767416).jpg/400px-Weserinsel_Harriersand_bei_Brake_(49690767416).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Weserinsel_Harriersand_bei_Brake_(49690767416).jpg/800px-Weserinsel_Harriersand_bei_Brake_(49690767416).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Weserinsel_Harriersand_bei_Brake_(49690767416).jpg/1200px-Weserinsel_Harriersand_bei_Brake_(49690767416).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Weserinsel_Harriersand_bei_Brake_(49690767416).jpg/1920px-Weserinsel_Harriersand_bei_Brake_(49690767416).jpg
+  Weserinsel Harriersand bei Brake (49690267833).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Weserinsel_Harriersand_bei_Brake_(49690267833).jpg/400px-Weserinsel_Harriersand_bei_Brake_(49690267833).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Weserinsel_Harriersand_bei_Brake_(49690267833).jpg/800px-Weserinsel_Harriersand_bei_Brake_(49690267833).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Weserinsel_Harriersand_bei_Brake_(49690267833).jpg/1200px-Weserinsel_Harriersand_bei_Brake_(49690267833).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Weserinsel_Harriersand_bei_Brake_(49690267833).jpg/1920px-Weserinsel_Harriersand_bei_Brake_(49690267833).jpg
+  Acidum (Bonn) vor Harriersand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Acidum_(Bonn)_vor_Harriersand.jpg/400px-Acidum_(Bonn)_vor_Harriersand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Acidum_(Bonn)_vor_Harriersand.jpg/800px-Acidum_(Bonn)_vor_Harriersand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Acidum_(Bonn)_vor_Harriersand.jpg/1200px-Acidum_(Bonn)_vor_Harriersand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Acidum_(Bonn)_vor_Harriersand.jpg/1920px-Acidum_(Bonn)_vor_Harriersand.jpg
 ---
 
 ## Overview

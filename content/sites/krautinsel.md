@@ -13,9 +13,9 @@ regions:
 latitude: 47.8683
 longitude: 12.4164
 images:
-  - "/images-sites/krautinsel/01-43fae647-800w.webp"
-  - "/images-sites/krautinsel/02-52d87c1f-800w.webp"
-  - "/images-sites/krautinsel/03-bd6b9627-800w.webp"
+  - "/images/krautinsel/01-43fae647-800w.webp"
+  - "/images/krautinsel/02-52d87c1f-800w.webp"
+  - "/images/krautinsel/03-bd6b9627-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hercules monument, Kassel"
+title: Hercules monument, Kassel
 date: 2026-01-23
 draft: false
-description: "national heritage site"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: national heritage site
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3164
 longitude: 9.39278
 images:
-  - "/images-sites/hercules-monument-kassel/01-b0b52eec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg/1200px-Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/18-09-26-Kassel-RalfR-DJI_0369.jpg/1200px-18-09-26-Kassel-RalfR-DJI_0369.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG/1200px-Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/1200px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kassel_Hercules..jpg/1200px-Kassel_Hercules..jpg
+image_srcset:
+  Die Cascaden mit Wasser, RP-F-F13995.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg/400px-Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg/800px-Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg/1200px-Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg/1920px-Die_Cascaden_mit_Wasser,_RP-F-F13995.jpg
+  18-09-26-Kassel-RalfR-DJI 0369.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/18-09-26-Kassel-RalfR-DJI_0369.jpg/400px-18-09-26-Kassel-RalfR-DJI_0369.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/18-09-26-Kassel-RalfR-DJI_0369.jpg/800px-18-09-26-Kassel-RalfR-DJI_0369.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/18-09-26-Kassel-RalfR-DJI_0369.jpg/1200px-18-09-26-Kassel-RalfR-DJI_0369.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/18-09-26-Kassel-RalfR-DJI_0369.jpg/1920px-18-09-26-Kassel-RalfR-DJI_0369.jpg
+  Monumento a Hércules, Kassel, Alemania, 2013-10-19, DD 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG/400px-Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG/800px-Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG/1200px-Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG/1920px-Monumento_a_Hércules,_Kassel,_Alemania,_2013-10-19,_DD_01.JPG
+  00 3172 Kaskaden, Oktogon und Herkules im Bergpark Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/400px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/800px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/1200px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg/1920px-00_3172_Kaskaden,_Oktogon_und_Herkules_im_Bergpark_Kassel.jpg
+  Kassel Hercules..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kassel_Hercules..jpg/400px-Kassel_Hercules..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kassel_Hercules..jpg/800px-Kassel_Hercules..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kassel_Hercules..jpg/1200px-Kassel_Hercules..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kassel_Hercules..jpg/1920px-Kassel_Hercules..jpg
 ---
 
 ## Overview

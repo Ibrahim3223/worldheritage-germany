@@ -13,7 +13,7 @@ regions:
 latitude: 51.15
 longitude: 11.8126
 images:
-  - "/images-sites/nietzsche-haus/01-6fa7bd5f-800w.webp"
+  - "/images/nietzsche-haus/01-6fa7bd5f-800w.webp"
 ---
 
 ## Overview

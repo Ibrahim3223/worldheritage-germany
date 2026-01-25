@@ -13,7 +13,7 @@ regions:
 latitude: 51.513056
 longitude: 7.472222
 images:
-  - "/images-sites/museum-ostwall/01-8137f7b3-800w.webp"
+  - "/images/museum-ostwall/01-8137f7b3-800w.webp"
 ---
 
 ## Overview 

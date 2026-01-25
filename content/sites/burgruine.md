@@ -1,27 +1,49 @@
 ---
-title: "Burgruine"
+title: Burgruine
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-6-74-130-137 (0) in Ebern, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument D-6-74-130-137 (0) in Ebern, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1087
 longitude: 10.732
-
-# Images
 images:
-  - "/images-sites/burgruine/01-c17c92ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Aggstein_20211024.jpg/1200px-Ruine_Aggstein_20211024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/1200px-Ruine_Aggstein_20180527.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/1200px-Ruine_Aggstein_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg/1200px-Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgruine-Aggstein.jpg/1200px-Burgruine-Aggstein.jpg
+image_srcset:
+  Ruine Aggstein 20211024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Aggstein_20211024.jpg/400px-Ruine_Aggstein_20211024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Aggstein_20211024.jpg/800px-Ruine_Aggstein_20211024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Aggstein_20211024.jpg/1200px-Ruine_Aggstein_20211024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Aggstein_20211024.jpg/1920px-Ruine_Aggstein_20211024.jpg
+  Ruine Aggstein 20180527.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/400px-Ruine_Aggstein_20180527.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/800px-Ruine_Aggstein_20180527.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/1200px-Ruine_Aggstein_20180527.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruine_Aggstein_20180527.jpg/1920px-Ruine_Aggstein_20180527.jpg
+  Ruine Aggstein 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/400px-Ruine_Aggstein_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/800px-Ruine_Aggstein_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/1200px-Ruine_Aggstein_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruine_Aggstein_02.JPG/1920px-Ruine_Aggstein_02.JPG
+  Schönbühel-Aggsbach Ruine Aggstein-3492.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg/400px-Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg/800px-Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg/1200px-Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg/1920px-Schönbühel-Aggsbach_Ruine_Aggstein-3492.jpg
+  Burgruine-Aggstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgruine-Aggstein.jpg/400px-Burgruine-Aggstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgruine-Aggstein.jpg/800px-Burgruine-Aggstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgruine-Aggstein.jpg/1200px-Burgruine-Aggstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Burgruine-Aggstein.jpg/1920px-Burgruine-Aggstein.jpg
 ---
 
 ## Overview

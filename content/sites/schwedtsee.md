@@ -13,7 +13,7 @@ regions:
 latitude: 53.188611111
 longitude: 13.153611111
 images:
-  - "/images-sites/schwedtsee/01-ae1a17c4-800w.webp"
+  - "/images/schwedtsee/01-ae1a17c4-800w.webp"
 ---
 
 ## Overview

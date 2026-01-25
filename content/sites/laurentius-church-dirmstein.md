@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1808218"
 description: "In the heart of Dirmstein, Germany, the Laurentius Church rises to a height of 34 meters, captivating visitors with its striking baroque architecture. T..."
 images:
-  - "/images-sites/laurentius-church-dirmstein/01-d468aeb1-1920w.webp"
-  - "/images-sites/laurentius-church-dirmstein/02-310996c0-1920w.webp"
-  - "/images-sites/laurentius-church-dirmstein/03-cd97126c-1920w.webp"
+  - "/images/laurentius-church-dirmstein/01-d468aeb1-1920w.webp"
+  - "/images/laurentius-church-dirmstein/02-310996c0-1920w.webp"
+  - "/images/laurentius-church-dirmstein/03-cd97126c-1920w.webp"
 ---
 
 ## Overview

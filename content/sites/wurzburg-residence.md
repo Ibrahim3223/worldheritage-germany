@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q156316"
 description: "The Würzburg Residence, a stunning baroque palace in Würzburg, Germany, serves as a remarkable cultural heritage monument that captivates visitors with ..."
 images:
-  - "/images-sites/wurzburg-residence/01-16870364-1920w.webp"
-  - "/images-sites/wurzburg-residence/02-4a846307-1920w.webp"
-  - "/images-sites/wurzburg-residence/03-4c3a618e-1920w.webp"
+  - "/images/wurzburg-residence/01-16870364-1920w.webp"
+  - "/images/wurzburg-residence/02-4a846307-1920w.webp"
+  - "/images/wurzburg-residence/03-4c3a618e-1920w.webp"
 ---
 
 ## Overview

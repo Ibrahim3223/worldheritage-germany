@@ -13,7 +13,7 @@ regions:
 latitude: 51.302222222
 longitude: 9.493055555
 images:
-  - "/images-sites/karlsaue/01-34e9a13b-800w.webp"
+  - "/images/karlsaue/01-34e9a13b-800w.webp"
 ---
 
 ## Overview

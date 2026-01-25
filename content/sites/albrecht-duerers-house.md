@@ -1,27 +1,49 @@
 ---
-title: "Albrecht Dürer's House"
+title: Albrecht Dürer's House
 date: 2026-01-23
 draft: false
-description: "preserved artist's house and art museum"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: preserved artist's house and art museum
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4572
 longitude: 11.0739
-
-# Images
 images:
-  - "/images-sites/albrecht-duerers-house/01-c9b53cf6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg/1200px-Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nürnberg_Dürer-Haus_02.jpg/1200px-Nürnberg_Dürer-Haus_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nürnberg_Dürer-Haus_01.jpg/1200px-Nürnberg_Dürer-Haus_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1200px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nürnberg_Dürerhaus_5270.jpg/1200px-Nürnberg_Dürerhaus_5270.jpg
+image_srcset:
+  Nürnberg, Albrecht-Dürer-Straße 39-20160304-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg/400px-Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg/800px-Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg/1200px-Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg/1920px-Nürnberg,_Albrecht-Dürer-Straße_39-20160304-001.jpg
+  Nürnberg Dürer-Haus 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nürnberg_Dürer-Haus_02.jpg/400px-Nürnberg_Dürer-Haus_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nürnberg_Dürer-Haus_02.jpg/800px-Nürnberg_Dürer-Haus_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nürnberg_Dürer-Haus_02.jpg/1200px-Nürnberg_Dürer-Haus_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nürnberg_Dürer-Haus_02.jpg/1920px-Nürnberg_Dürer-Haus_02.jpg
+  Nürnberg Dürer-Haus 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nürnberg_Dürer-Haus_01.jpg/400px-Nürnberg_Dürer-Haus_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nürnberg_Dürer-Haus_01.jpg/800px-Nürnberg_Dürer-Haus_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nürnberg_Dürer-Haus_01.jpg/1200px-Nürnberg_Dürer-Haus_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nürnberg_Dürer-Haus_01.jpg/1920px-Nürnberg_Dürer-Haus_01.jpg
+  Albrecht-Dürer-Haus - Tiergärtnerplatz - Nuremberg, Germany - DSC02033.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/400px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/800px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1200px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg/1920px-Albrecht-Dürer-Haus_-_Tiergärtnerplatz_-_Nuremberg,_Germany_-_DSC02033.jpg
+  Nürnberg Dürerhaus 5270.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nürnberg_Dürerhaus_5270.jpg/400px-Nürnberg_Dürerhaus_5270.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nürnberg_Dürerhaus_5270.jpg/800px-Nürnberg_Dürerhaus_5270.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nürnberg_Dürerhaus_5270.jpg/1200px-Nürnberg_Dürerhaus_5270.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nürnberg_Dürerhaus_5270.jpg/1920px-Nürnberg_Dürerhaus_5270.jpg
 ---
 
 ## Overview

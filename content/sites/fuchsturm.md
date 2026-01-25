@@ -1,20 +1,49 @@
 ---
-title: "Fuchsturm"
+title: Fuchsturm
 date: 2026-01-24
 draft: false
-description: "tower in Jena, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Jena, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.92365
 longitude: 11.62152
 images:
-  - "/images-sites/fuchsturm/02-39bdd42b-800w.webp"
-  - "/images-sites/fuchsturm/03-8dd1dd4e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jena_Fuchsturm_1.jpg/1200px-Jena_Fuchsturm_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blick_auf_Ziegenhain.JPG/1200px-Blick_auf_Ziegenhain.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Gartenlaube_(1886)_b_461.jpg/1200px-Die_Gartenlaube_(1886)_b_461.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg/1200px-21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg/1200px-Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg
+image_srcset:
+  Jena Fuchsturm 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jena_Fuchsturm_1.jpg/400px-Jena_Fuchsturm_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jena_Fuchsturm_1.jpg/800px-Jena_Fuchsturm_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jena_Fuchsturm_1.jpg/1200px-Jena_Fuchsturm_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jena_Fuchsturm_1.jpg/1920px-Jena_Fuchsturm_1.jpg
+  Blick auf Ziegenhain.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blick_auf_Ziegenhain.JPG/400px-Blick_auf_Ziegenhain.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blick_auf_Ziegenhain.JPG/800px-Blick_auf_Ziegenhain.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blick_auf_Ziegenhain.JPG/1200px-Blick_auf_Ziegenhain.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blick_auf_Ziegenhain.JPG/1920px-Blick_auf_Ziegenhain.JPG
+  Die Gartenlaube (1886) b 461.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Gartenlaube_(1886)_b_461.jpg/400px-Die_Gartenlaube_(1886)_b_461.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Gartenlaube_(1886)_b_461.jpg/800px-Die_Gartenlaube_(1886)_b_461.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Gartenlaube_(1886)_b_461.jpg/1200px-Die_Gartenlaube_(1886)_b_461.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Gartenlaube_(1886)_b_461.jpg/1920px-Die_Gartenlaube_(1886)_b_461.jpg
+  21243-Jena-1919-Hausberg mit Fuchsturm-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg/400px-21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg/800px-21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg/1200px-21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg/1920px-21243-Jena-1919-Hausberg_mit_Fuchsturm-Brück_&_Sohn_Kunstverlag.jpg
+  Jena Fuchsturm 30 m Bergfried 1123 auf dem Hausberg Thüringen Foto 2008 Wolfgang Pehlemann IMG 2098.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg/400px-Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg/800px-Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg/1200px-Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg/1920px-Jena_Fuchsturm_30_m_Bergfried_1123_auf_dem_Hausberg_Thüringen_Foto_2008_Wolfgang_Pehlemann_IMG_2098.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.583055555
 longitude: 10.619166666
 images:
-  - "/images-sites/walkenried-abbey/01-eb692043-800w.webp"
-  - "/images-sites/walkenried-abbey/02-83870410-800w.webp"
-  - "/images-sites/walkenried-abbey/03-d904c06e-800w.webp"
+  - "/images/walkenried-abbey/01-eb692043-800w.webp"
+  - "/images/walkenried-abbey/02-83870410-800w.webp"
+  - "/images/walkenried-abbey/03-d904c06e-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Dankwarderode Castle"
+title: Dankwarderode Castle
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.2647
 longitude: 10.5242
-
-# Images
 images:
-  - "/images-sites/dankwarderode-castle/01-ebef4de6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Braunschweig_Burg_Dankwarderode_2.jpg/1200px-Braunschweig_Burg_Dankwarderode_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Burg_Dankwarderode_general_view.jpg/1200px-Braunschweig_Burg_Dankwarderode_general_view.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Braunschweig_Burg_Dankwarderode_1.jpg/1200px-Braunschweig_Burg_Dankwarderode_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/1200px-Braunschweig-burgplatz_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BS-Burg_Dankwarderode.Verbindungsbau.jpg/1200px-BS-Burg_Dankwarderode.Verbindungsbau.jpg
+image_srcset:
+  Braunschweig Burg Dankwarderode 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Braunschweig_Burg_Dankwarderode_2.jpg/400px-Braunschweig_Burg_Dankwarderode_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Braunschweig_Burg_Dankwarderode_2.jpg/800px-Braunschweig_Burg_Dankwarderode_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Braunschweig_Burg_Dankwarderode_2.jpg/1200px-Braunschweig_Burg_Dankwarderode_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Braunschweig_Burg_Dankwarderode_2.jpg/1920px-Braunschweig_Burg_Dankwarderode_2.jpg
+  Braunschweig Burg Dankwarderode general view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Burg_Dankwarderode_general_view.jpg/400px-Braunschweig_Burg_Dankwarderode_general_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Burg_Dankwarderode_general_view.jpg/800px-Braunschweig_Burg_Dankwarderode_general_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Burg_Dankwarderode_general_view.jpg/1200px-Braunschweig_Burg_Dankwarderode_general_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Braunschweig_Burg_Dankwarderode_general_view.jpg/1920px-Braunschweig_Burg_Dankwarderode_general_view.jpg
+  Braunschweig Burg Dankwarderode 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Braunschweig_Burg_Dankwarderode_1.jpg/400px-Braunschweig_Burg_Dankwarderode_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Braunschweig_Burg_Dankwarderode_1.jpg/800px-Braunschweig_Burg_Dankwarderode_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Braunschweig_Burg_Dankwarderode_1.jpg/1200px-Braunschweig_Burg_Dankwarderode_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Braunschweig_Burg_Dankwarderode_1.jpg/1920px-Braunschweig_Burg_Dankwarderode_1.jpg
+  Braunschweig-burgplatz 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/400px-Braunschweig-burgplatz_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/800px-Braunschweig-burgplatz_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/1200px-Braunschweig-burgplatz_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Braunschweig-burgplatz_2.jpg/1920px-Braunschweig-burgplatz_2.jpg
+  BS-Burg Dankwarderode.Verbindungsbau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BS-Burg_Dankwarderode.Verbindungsbau.jpg/400px-BS-Burg_Dankwarderode.Verbindungsbau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BS-Burg_Dankwarderode.Verbindungsbau.jpg/800px-BS-Burg_Dankwarderode.Verbindungsbau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BS-Burg_Dankwarderode.Verbindungsbau.jpg/1200px-BS-Burg_Dankwarderode.Verbindungsbau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BS-Burg_Dankwarderode.Verbindungsbau.jpg/1920px-BS-Burg_Dankwarderode.Verbindungsbau.jpg
 ---
 
 ## Overview

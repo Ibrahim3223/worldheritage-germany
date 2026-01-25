@@ -1,19 +1,43 @@
 ---
-title: "Christian Weise Library"
+title: Christian Weise Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8957
 longitude: 14.8104
 images:
-  - "/images-sites/christian-weise-library/01-8d86e100-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg/1200px-Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christian-Weise-Bibliothek,_Salzhaus.jpg/1200px-Christian-Weise-Bibliothek,_Salzhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/1200px-Christian-Weise-Bibliothek_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg/1200px-Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg
+image_srcset:
+  Christian-Weise-Bibliothek, Lisa-Tetzner-Str. 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg/400px-Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg/800px-Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg/1200px-Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg/1920px-Christian-Weise-Bibliothek,_Lisa-Tetzner-Str._11.jpg
+  Christian-Weise-Bibliothek, Salzhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christian-Weise-Bibliothek,_Salzhaus.jpg/400px-Christian-Weise-Bibliothek,_Salzhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christian-Weise-Bibliothek,_Salzhaus.jpg/800px-Christian-Weise-Bibliothek,_Salzhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christian-Weise-Bibliothek,_Salzhaus.jpg/1200px-Christian-Weise-Bibliothek,_Salzhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christian-Weise-Bibliothek,_Salzhaus.jpg/1920px-Christian-Weise-Bibliothek,_Salzhaus.jpg
+  Christian-Weise-Bibliothek 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/400px-Christian-Weise-Bibliothek_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/800px-Christian-Weise-Bibliothek_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/1200px-Christian-Weise-Bibliothek_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Christian-Weise-Bibliothek_1.jpg/1920px-Christian-Weise-Bibliothek_1.jpg
+  Bundesarchiv Bild 183-1989-0126-017, Zittau, Bibliothek, Handschriftensammlung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg/400px-Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg/800px-Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg/1200px-Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg/1920px-Bundesarchiv_Bild_183-1989-0126-017,_Zittau,_Bibliothek,_Handschriftensammlung.jpg
 ---
 
 ## Overview

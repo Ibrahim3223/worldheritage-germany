@@ -1,20 +1,49 @@
 ---
-title: "Hankensbüttel Otter Centre"
+title: Hankensbüttel Otter Centre
 date: 2026-01-24
 draft: false
-description: "zoo in Gifhorn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Gifhorn, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7314
 longitude: 10.62
 images:
-  - "/images-sites/hankensbuettel-otter-centre/02-0a419357-800w.webp"
-  - "/images-sites/hankensbuettel-otter-centre/03-49391d26-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Otterzentrum_09.jpg/1200px-Otterzentrum_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Otterzentrum_Eingang.jpg/1200px-Otterzentrum_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1200px-Otterzentrum_Hauptgebäude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Otter_füttern.jpg/1200px-Otter_füttern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otter_frei.jpg/1200px-Otter_frei.jpg
+image_srcset:
+  Otterzentrum 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Otterzentrum_09.jpg/400px-Otterzentrum_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Otterzentrum_09.jpg/800px-Otterzentrum_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Otterzentrum_09.jpg/1200px-Otterzentrum_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Otterzentrum_09.jpg/1920px-Otterzentrum_09.jpg
+  Otterzentrum Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Otterzentrum_Eingang.jpg/400px-Otterzentrum_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Otterzentrum_Eingang.jpg/800px-Otterzentrum_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Otterzentrum_Eingang.jpg/1200px-Otterzentrum_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Otterzentrum_Eingang.jpg/1920px-Otterzentrum_Eingang.jpg
+  Otterzentrum Hauptgebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/400px-Otterzentrum_Hauptgebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/800px-Otterzentrum_Hauptgebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1200px-Otterzentrum_Hauptgebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Otterzentrum_Hauptgebäude.jpg/1920px-Otterzentrum_Hauptgebäude.jpg
+  Otter füttern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Otter_füttern.jpg/400px-Otter_füttern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Otter_füttern.jpg/800px-Otter_füttern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Otter_füttern.jpg/1200px-Otter_füttern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Otter_füttern.jpg/1920px-Otter_füttern.jpg
+  Otter frei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otter_frei.jpg/400px-Otter_frei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otter_frei.jpg/800px-Otter_frei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otter_frei.jpg/1200px-Otter_frei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Otter_frei.jpg/1920px-Otter_frei.jpg
 ---
 
 ## Overview

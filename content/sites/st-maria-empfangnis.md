@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2320940"
 description: "In the heart of Düsseldorf, St. Mariä Empfängnis stands as a striking example of Gothic Revival architecture. This Catholic church, founded in 1894, cap..."
 images:
-  - "/images-sites/st-maria-empfangnis/01-67f4bfa6-1920w.webp"
-  - "/images-sites/st-maria-empfangnis/02-863e4c23-1920w.webp"
-  - "/images-sites/st-maria-empfangnis/03-bacae218-1920w.webp"
+  - "/images/st-maria-empfangnis/01-67f4bfa6-1920w.webp"
+  - "/images/st-maria-empfangnis/02-863e4c23-1920w.webp"
+  - "/images/st-maria-empfangnis/03-bacae218-1920w.webp"
 ---
 
 ## Overview

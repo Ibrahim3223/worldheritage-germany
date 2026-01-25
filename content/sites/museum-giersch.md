@@ -21,7 +21,7 @@ longitude: 8.6706
 
 # Images
 images:
-  - "/images-sites/museum-giersch/01-df614ddd-800w.webp"
+  - "/images/museum-giersch/01-df614ddd-800w.webp"
 ---
 
 ## Overview

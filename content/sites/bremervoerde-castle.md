@@ -1,27 +1,37 @@
 ---
-title: "Bremervörde Castle"
+title: Bremervörde Castle
 date: 2026-01-23
 draft: false
-description: "Local museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Local museum in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.4831
 longitude: 9.15139
-
-# Images
 images:
-  - "/images-sites/bremervoerde-castle/01-808da87b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bremervoerde-1653-Merian.jpg/1200px-Bremervoerde-1653-Merian.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Altes_Kreishaus_Vorderseite.jpg/1200px-Bremervörde,_Altes_Kreishaus_Vorderseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Beschießung_1657.jpg/1200px-Bremervörde,_Beschießung_1657.jpg
+image_srcset:
+  Bremervoerde-1653-Merian.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bremervoerde-1653-Merian.jpg/400px-Bremervoerde-1653-Merian.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bremervoerde-1653-Merian.jpg/800px-Bremervoerde-1653-Merian.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bremervoerde-1653-Merian.jpg/1200px-Bremervoerde-1653-Merian.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bremervoerde-1653-Merian.jpg/1920px-Bremervoerde-1653-Merian.jpg
+  Bremervörde, Altes Kreishaus Vorderseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Altes_Kreishaus_Vorderseite.jpg/400px-Bremervörde,_Altes_Kreishaus_Vorderseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Altes_Kreishaus_Vorderseite.jpg/800px-Bremervörde,_Altes_Kreishaus_Vorderseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Altes_Kreishaus_Vorderseite.jpg/1200px-Bremervörde,_Altes_Kreishaus_Vorderseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Altes_Kreishaus_Vorderseite.jpg/1920px-Bremervörde,_Altes_Kreishaus_Vorderseite.jpg
+  Bremervörde, Beschießung 1657.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Beschießung_1657.jpg/400px-Bremervörde,_Beschießung_1657.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Beschießung_1657.jpg/800px-Bremervörde,_Beschießung_1657.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Beschießung_1657.jpg/1200px-Bremervörde,_Beschießung_1657.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bremervörde,_Beschießung_1657.jpg/1920px-Bremervörde,_Beschießung_1657.jpg
 ---
 
 ## Overview

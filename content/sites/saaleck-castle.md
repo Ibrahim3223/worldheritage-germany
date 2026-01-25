@@ -21,8 +21,8 @@ longitude: 11.701389
 
 # Images
 images:
-  - "/images-sites/saaleck-castle/02-143bf7f3-800w.webp"
-  - "/images-sites/saaleck-castle/03-8b3d82c6-800w.webp"
+  - "/images/saaleck-castle/02-143bf7f3-800w.webp"
+  - "/images/saaleck-castle/03-8b3d82c6-800w.webp"
 ---
 
 ## Overview

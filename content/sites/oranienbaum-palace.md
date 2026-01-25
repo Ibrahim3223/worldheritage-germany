@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q473807"
 description: "Oranienbaum Palace, a striking example of baroque architecture, stands proudly in the region of Oranienbaum-Wörlitz in Saxony-Anhalt, Germany. This hist..."
 images:
-  - "/images-sites/oranienbaum-palace/01-cfbf2f71-1920w.webp"
-  - "/images-sites/oranienbaum-palace/02-8f58af89-1920w.webp"
-  - "/images-sites/oranienbaum-palace/03-5b259b25-1920w.webp"
+  - "/images/oranienbaum-palace/01-cfbf2f71-1920w.webp"
+  - "/images/oranienbaum-palace/02-8f58af89-1920w.webp"
+  - "/images/oranienbaum-palace/03-5b259b25-1920w.webp"
 ---
 
 ## Overview

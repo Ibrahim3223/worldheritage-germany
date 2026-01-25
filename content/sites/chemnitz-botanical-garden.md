@@ -1,29 +1,49 @@
 ---
-title: "Chemnitz Botanical Garden"
+title: Chemnitz Botanical Garden
 date: 2026-01-23
 draft: false
-description: "botanical garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8502675
 longitude: 12.8902626
-
-# Images
 images:
-  - "/images-sites/chemnitz-botanical-garden/01-1f91d31f-800w.webp"
-  - "/images-sites/chemnitz-botanical-garden/02-5cafc126-800w.webp"
-  - "/images-sites/chemnitz-botanical-garden/03-96ba3362-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chemnitz_botanischer_garten_nistkaesten.JPG/1200px-Chemnitz_botanischer_garten_nistkaesten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ernst_Haeckel_statue_(aka).jpg/1200px-Ernst_Haeckel_statue_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Saturnia_pyri_LC0236.jpg/1200px-Saturnia_pyri_LC0236.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chemnitz-Botanischer-Garten.jpg/1200px-Chemnitz-Botanischer-Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/1200px-Chemnitz-Botanischer-Garten2.jpg
+image_srcset:
+  Chemnitz botanischer garten nistkaesten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chemnitz_botanischer_garten_nistkaesten.JPG/400px-Chemnitz_botanischer_garten_nistkaesten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chemnitz_botanischer_garten_nistkaesten.JPG/800px-Chemnitz_botanischer_garten_nistkaesten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chemnitz_botanischer_garten_nistkaesten.JPG/1200px-Chemnitz_botanischer_garten_nistkaesten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Chemnitz_botanischer_garten_nistkaesten.JPG/1920px-Chemnitz_botanischer_garten_nistkaesten.JPG
+  Ernst Haeckel statue (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ernst_Haeckel_statue_(aka).jpg/400px-Ernst_Haeckel_statue_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ernst_Haeckel_statue_(aka).jpg/800px-Ernst_Haeckel_statue_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ernst_Haeckel_statue_(aka).jpg/1200px-Ernst_Haeckel_statue_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ernst_Haeckel_statue_(aka).jpg/1920px-Ernst_Haeckel_statue_(aka).jpg
+  Saturnia pyri LC0236.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Saturnia_pyri_LC0236.jpg/400px-Saturnia_pyri_LC0236.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Saturnia_pyri_LC0236.jpg/800px-Saturnia_pyri_LC0236.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Saturnia_pyri_LC0236.jpg/1200px-Saturnia_pyri_LC0236.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Saturnia_pyri_LC0236.jpg/1920px-Saturnia_pyri_LC0236.jpg
+  Chemnitz-Botanischer-Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chemnitz-Botanischer-Garten.jpg/400px-Chemnitz-Botanischer-Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chemnitz-Botanischer-Garten.jpg/800px-Chemnitz-Botanischer-Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chemnitz-Botanischer-Garten.jpg/1200px-Chemnitz-Botanischer-Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chemnitz-Botanischer-Garten.jpg/1920px-Chemnitz-Botanischer-Garten.jpg
+  Chemnitz-Botanischer-Garten2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/400px-Chemnitz-Botanischer-Garten2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/800px-Chemnitz-Botanischer-Garten2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/1200px-Chemnitz-Botanischer-Garten2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chemnitz-Botanischer-Garten2.jpg/1920px-Chemnitz-Botanischer-Garten2.jpg
 ---
 
 ## Overview

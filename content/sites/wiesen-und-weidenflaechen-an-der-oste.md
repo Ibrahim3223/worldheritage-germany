@@ -13,7 +13,7 @@ regions:
 latitude: 53.606666666
 longitude: 9.178055555
 images:
-  - "/images-sites/wiesen-und-weidenflaechen-an-der-oste/01-2cae71ce-800w.webp"
+  - "/images/wiesen-und-weidenflaechen-an-der-oste/01-2cae71ce-800w.webp"
 ---
 
 ## Overview

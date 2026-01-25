@@ -13,7 +13,7 @@ regions:
 latitude: 53.807
 longitude: 13.7561
 images:
-  - "/images-sites/schloss-auerose/01-ab13bd98-800w.webp"
+  - "/images/schloss-auerose/01-ab13bd98-800w.webp"
 ---
 
 ## Overview

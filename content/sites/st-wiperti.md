@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2323760"
 description: "In the heart of Quedlinburg, Germany, St. Wiperti stands as a remarkable example of Romanesque architecture, captivating visitors with its historical si..."
 images:
-  - "/images-sites/st-wiperti/01-654736a4-1920w.webp"
-  - "/images-sites/st-wiperti/02-f14c8dcd-1920w.webp"
-  - "/images-sites/st-wiperti/03-1652db51-1920w.webp"
+  - "/images/st-wiperti/01-654736a4-1920w.webp"
+  - "/images/st-wiperti/02-f14c8dcd-1920w.webp"
+  - "/images/st-wiperti/03-1652db51-1920w.webp"
 ---
 
 ## Overview

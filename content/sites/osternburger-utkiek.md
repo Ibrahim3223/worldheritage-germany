@@ -13,7 +13,7 @@ regions:
 latitude: 53.1192
 longitude: 8.22833
 images:
-  - "/images-sites/osternburger-utkiek/01-9562e3be-800w.webp"
+  - "/images/osternburger-utkiek/01-9562e3be-800w.webp"
 ---
 
 ## Overview

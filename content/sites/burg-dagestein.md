@@ -1,19 +1,49 @@
 ---
-title: "Burg Dagestein"
+title: Burg Dagestein
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.61343
 longitude: 11.80917
 images:
-  - "/images-sites/burg-dagestein/01-add0cf9b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Dagestein_(Vilseck)-4772.jpg/1200px-Burg_Dagestein_(Vilseck)-4772.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burg_Dagestein_(Vilseck)-4774.jpg/1200px-Burg_Dagestein_(Vilseck)-4774.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/VilseckBurgDagestein_16.JPG/1200px-VilseckBurgDagestein_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VilseckBurgDagestein_22.JPG/1200px-VilseckBurgDagestein_22.JPG
+image_srcset:
+  Burg Dagestein (Vilseck)-4772.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Dagestein_(Vilseck)-4772.jpg/400px-Burg_Dagestein_(Vilseck)-4772.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Dagestein_(Vilseck)-4772.jpg/800px-Burg_Dagestein_(Vilseck)-4772.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Dagestein_(Vilseck)-4772.jpg/1200px-Burg_Dagestein_(Vilseck)-4772.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Dagestein_(Vilseck)-4772.jpg/1920px-Burg_Dagestein_(Vilseck)-4772.jpg
+  Burg Dagestein (Vilseck)-4774.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burg_Dagestein_(Vilseck)-4774.jpg/400px-Burg_Dagestein_(Vilseck)-4774.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burg_Dagestein_(Vilseck)-4774.jpg/800px-Burg_Dagestein_(Vilseck)-4774.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burg_Dagestein_(Vilseck)-4774.jpg/1200px-Burg_Dagestein_(Vilseck)-4774.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burg_Dagestein_(Vilseck)-4774.jpg/1920px-Burg_Dagestein_(Vilseck)-4774.jpg
+  Aerial image of the Burg Dagestein (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg/400px-Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg/800px-Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Burg_Dagestein_(view_from_the_south).jpg
+  VilseckBurgDagestein 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/VilseckBurgDagestein_16.JPG/400px-VilseckBurgDagestein_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/VilseckBurgDagestein_16.JPG/800px-VilseckBurgDagestein_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/VilseckBurgDagestein_16.JPG/1200px-VilseckBurgDagestein_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/VilseckBurgDagestein_16.JPG/1920px-VilseckBurgDagestein_16.JPG
+  VilseckBurgDagestein 22.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VilseckBurgDagestein_22.JPG/400px-VilseckBurgDagestein_22.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VilseckBurgDagestein_22.JPG/800px-VilseckBurgDagestein_22.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VilseckBurgDagestein_22.JPG/1200px-VilseckBurgDagestein_22.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/VilseckBurgDagestein_22.JPG/1920px-VilseckBurgDagestein_22.JPG
 ---
 
 ## Overview

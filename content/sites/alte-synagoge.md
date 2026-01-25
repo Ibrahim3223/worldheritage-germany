@@ -1,19 +1,49 @@
 ---
-title: "Alte Synagoge"
+title: Alte Synagoge
 date: 2026-01-23
 draft: false
-description: "former synagogue in Heilbronn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: former synagogue in Heilbronn, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 49.14
 longitude: 9.22181
 images:
-  - "/images-sites/alte-synagoge/01-2e729097-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elberfeld_-_Alte_Synagoge_02_ies.jpg/1200px-Elberfeld_-_Alte_Synagoge_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/1200px-Alte_Synagoge_Essen_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wuppertal_Kleine_Klotzbahn_0007.jpg/1200px-Wuppertal_Kleine_Klotzbahn_0007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wuppertal_Neumarktstr_0027.jpg/1200px-Wuppertal_Neumarktstr_0027.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Willy-Brandt-Platz_2007_011.jpg/1200px-Wuppertal_Willy-Brandt-Platz_2007_011.jpg
+image_srcset:
+  Elberfeld - Alte Synagoge 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elberfeld_-_Alte_Synagoge_02_ies.jpg/400px-Elberfeld_-_Alte_Synagoge_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elberfeld_-_Alte_Synagoge_02_ies.jpg/800px-Elberfeld_-_Alte_Synagoge_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elberfeld_-_Alte_Synagoge_02_ies.jpg/1200px-Elberfeld_-_Alte_Synagoge_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elberfeld_-_Alte_Synagoge_02_ies.jpg/1920px-Elberfeld_-_Alte_Synagoge_02_ies.jpg
+  Alte Synagoge Essen 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/400px-Alte_Synagoge_Essen_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/800px-Alte_Synagoge_Essen_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/1200px-Alte_Synagoge_Essen_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Alte_Synagoge_Essen_2014.jpg/1920px-Alte_Synagoge_Essen_2014.jpg
+  Wuppertal Kleine Klotzbahn 0007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wuppertal_Kleine_Klotzbahn_0007.jpg/400px-Wuppertal_Kleine_Klotzbahn_0007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wuppertal_Kleine_Klotzbahn_0007.jpg/800px-Wuppertal_Kleine_Klotzbahn_0007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wuppertal_Kleine_Klotzbahn_0007.jpg/1200px-Wuppertal_Kleine_Klotzbahn_0007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wuppertal_Kleine_Klotzbahn_0007.jpg/1920px-Wuppertal_Kleine_Klotzbahn_0007.jpg
+  Wuppertal Neumarktstr 0027.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wuppertal_Neumarktstr_0027.jpg/400px-Wuppertal_Neumarktstr_0027.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wuppertal_Neumarktstr_0027.jpg/800px-Wuppertal_Neumarktstr_0027.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wuppertal_Neumarktstr_0027.jpg/1200px-Wuppertal_Neumarktstr_0027.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wuppertal_Neumarktstr_0027.jpg/1920px-Wuppertal_Neumarktstr_0027.jpg
+  Wuppertal Willy-Brandt-Platz 2007 011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Willy-Brandt-Platz_2007_011.jpg/400px-Wuppertal_Willy-Brandt-Platz_2007_011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Willy-Brandt-Platz_2007_011.jpg/800px-Wuppertal_Willy-Brandt-Platz_2007_011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Willy-Brandt-Platz_2007_011.jpg/1200px-Wuppertal_Willy-Brandt-Platz_2007_011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wuppertal_Willy-Brandt-Platz_2007_011.jpg/1920px-Wuppertal_Willy-Brandt-Platz_2007_011.jpg
 ---
 
 ## Overview

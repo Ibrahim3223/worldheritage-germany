@@ -21,7 +21,7 @@ longitude: 12.7914
 
 # Images
 images:
-  - "/images-sites/rochlitz-castle/01-4ebdc274-800w.webp"
+  - "/images/rochlitz-castle/01-4ebdc274-800w.webp"
 ---
 
 ## Overview

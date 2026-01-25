@@ -1,27 +1,49 @@
 ---
-title: "Arboretum Park Härle"
+title: Arboretum Park Härle
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7152
 longitude: 7.16911
-
-# Images
 images:
-  - "/images-sites/arboretum-park-haerle/01-4f3101d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arbo3.jpg/1200px-Arbo3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wildbie1.jpg/1200px-Wildbie1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arbo1.jpg/1200px-Arbo1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arbo6.jpg/1200px-Arbo6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn-Oberkassel_Park_Härle1.jpg/1200px-Bonn-Oberkassel_Park_Härle1.jpg
+image_srcset:
+  Arbo3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arbo3.jpg/400px-Arbo3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arbo3.jpg/800px-Arbo3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arbo3.jpg/1200px-Arbo3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Arbo3.jpg/1920px-Arbo3.jpg
+  Wildbie1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wildbie1.jpg/400px-Wildbie1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wildbie1.jpg/800px-Wildbie1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wildbie1.jpg/1200px-Wildbie1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Wildbie1.jpg/1920px-Wildbie1.jpg
+  Arbo1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arbo1.jpg/400px-Arbo1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arbo1.jpg/800px-Arbo1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arbo1.jpg/1200px-Arbo1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arbo1.jpg/1920px-Arbo1.jpg
+  Arbo6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arbo6.jpg/400px-Arbo6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arbo6.jpg/800px-Arbo6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arbo6.jpg/1200px-Arbo6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arbo6.jpg/1920px-Arbo6.jpg
+  Bonn-Oberkassel Park Härle1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn-Oberkassel_Park_Härle1.jpg/400px-Bonn-Oberkassel_Park_Härle1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn-Oberkassel_Park_Härle1.jpg/800px-Bonn-Oberkassel_Park_Härle1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn-Oberkassel_Park_Härle1.jpg/1200px-Bonn-Oberkassel_Park_Härle1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn-Oberkassel_Park_Härle1.jpg/1920px-Bonn-Oberkassel_Park_Härle1.jpg
 ---
 
 ## Overview

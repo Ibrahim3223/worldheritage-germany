@@ -1,24 +1,51 @@
 ---
-title: "Georgenkirche Waren"
-site_name: "Georgenkirche Waren"
-slug: "georgenkirche-waren"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Georgenkirche Waren
+site_name: Georgenkirche Waren
+slug: georgenkirche-waren
+region: Mecklenburg-Vorpommern
 latitude: 53.5135
 longitude: 12.686
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1508733"
-description: "Georgenkirche Waren stands as a prominent landmark in the town of Waren, located in Mecklenburg-Vorpommern, Germany. This church, constructed primarily ..."
+- church building
+- religious site
+wikidata_id: Q1508733
+description: Georgenkirche Waren stands as a prominent landmark in the town of Waren,
+  located in Mecklenburg-Vorpommern, Germany. This church, constructed primarily ...
 images:
-  - "/images-sites/georgenkirche-waren/01-ca797667-1920w.webp"
-  - "/images-sites/georgenkirche-waren/02-5f6fd456-1920w.webp"
-  - "/images-sites/georgenkirche-waren/03-e82d3887-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg/1200px-Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Waren_Kirchturmblick.jpg/1200px-Waren_Kirchturmblick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Waren_Portal_der_Georgenkirche.jpg/1200px-Waren_Portal_der_Georgenkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Waren_Mueritz_St_Georgen_03.jpg/1200px-Waren_Mueritz_St_Georgen_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/1200px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
+image_srcset:
+  Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg/400px-Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg/800px-Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg/1200px-Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg/1920px-Waren%20%28M%C3%BCritz%29%20St.%20Georgenkirche%202010.jpg
+  Waren Kirchturmblick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Waren_Kirchturmblick.jpg/400px-Waren_Kirchturmblick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Waren_Kirchturmblick.jpg/800px-Waren_Kirchturmblick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Waren_Kirchturmblick.jpg/1200px-Waren_Kirchturmblick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Waren_Kirchturmblick.jpg/1920px-Waren_Kirchturmblick.jpg
+  Waren Portal der Georgenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Waren_Portal_der_Georgenkirche.jpg/400px-Waren_Portal_der_Georgenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Waren_Portal_der_Georgenkirche.jpg/800px-Waren_Portal_der_Georgenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Waren_Portal_der_Georgenkirche.jpg/1200px-Waren_Portal_der_Georgenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Waren_Portal_der_Georgenkirche.jpg/1920px-Waren_Portal_der_Georgenkirche.jpg
+  Waren Mueritz St Georgen 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Waren_Mueritz_St_Georgen_03.jpg/400px-Waren_Mueritz_St_Georgen_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Waren_Mueritz_St_Georgen_03.jpg/800px-Waren_Mueritz_St_Georgen_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Waren_Mueritz_St_Georgen_03.jpg/1200px-Waren_Mueritz_St_Georgen_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Waren_Mueritz_St_Georgen_03.jpg/1920px-Waren_Mueritz_St_Georgen_03.jpg
+  Waren (Müritz) St. Georgenkirche 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/400px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/800px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/1200px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Waren_(Müritz)_St._Georgenkirche_2010.jpg/1920px-Waren_(Müritz)_St._Georgenkirche_2010.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Borkener Paradies"
+title: Borkener Paradies
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7214
 longitude: 7.24028
 images:
-  - "/images-sites/borkener-paradies/01-41661bff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1200px-Meppen_-_Borkener_Paradies_14_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg/1200px-Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Meppen_-_Borkener_Paradies_08_ies.jpg/1200px-Meppen_-_Borkener_Paradies_08_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20170610_Rivierduinen1_Borkener_paradies.jpg/1200px-20170610_Rivierduinen1_Borkener_paradies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Borkener_Paradies3.jpg/1200px-Borkener_Paradies3.jpg
+image_srcset:
+  Meppen - Borkener Paradies 14 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/400px-Meppen_-_Borkener_Paradies_14_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/800px-Meppen_-_Borkener_Paradies_14_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1200px-Meppen_-_Borkener_Paradies_14_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Meppen_-_Borkener_Paradies_14_ies.jpg/1920px-Meppen_-_Borkener_Paradies_14_ies.jpg
+  Meppen - Zum Paradies-Wehrstraße + Borkener Paradies 15 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg/400px-Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg/800px-Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg/1200px-Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg/1920px-Meppen_-_Zum_Paradies-Wehrstraße_+_Borkener_Paradies_15_ies.jpg
+  Meppen - Borkener Paradies 08 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Meppen_-_Borkener_Paradies_08_ies.jpg/400px-Meppen_-_Borkener_Paradies_08_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Meppen_-_Borkener_Paradies_08_ies.jpg/800px-Meppen_-_Borkener_Paradies_08_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Meppen_-_Borkener_Paradies_08_ies.jpg/1200px-Meppen_-_Borkener_Paradies_08_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Meppen_-_Borkener_Paradies_08_ies.jpg/1920px-Meppen_-_Borkener_Paradies_08_ies.jpg
+  20170610 Rivierduinen1 Borkener paradies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20170610_Rivierduinen1_Borkener_paradies.jpg/400px-20170610_Rivierduinen1_Borkener_paradies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20170610_Rivierduinen1_Borkener_paradies.jpg/800px-20170610_Rivierduinen1_Borkener_paradies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20170610_Rivierduinen1_Borkener_paradies.jpg/1200px-20170610_Rivierduinen1_Borkener_paradies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/20170610_Rivierduinen1_Borkener_paradies.jpg/1920px-20170610_Rivierduinen1_Borkener_paradies.jpg
+  Borkener Paradies3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Borkener_Paradies3.jpg/400px-Borkener_Paradies3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Borkener_Paradies3.jpg/800px-Borkener_Paradies3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Borkener_Paradies3.jpg/1200px-Borkener_Paradies3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Borkener_Paradies3.jpg/1920px-Borkener_Paradies3.jpg
 ---
 
 ## Overview

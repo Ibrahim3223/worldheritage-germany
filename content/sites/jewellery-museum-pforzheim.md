@@ -1,19 +1,49 @@
 ---
-title: "jewellery museum Pforzheim"
+title: jewellery museum Pforzheim
 date: 2026-01-23
 draft: false
-description: "German jewellery-museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: German jewellery-museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.8861
 longitude: 8.69755
 images:
-  - "/images-sites/jewellery-museum-pforzheim/01-a85b6ecd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schmuckmuseum_Pforzheim_Geschirr.jpg/1200px-Schmuckmuseum_Pforzheim_Geschirr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg/1200px-Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schmuckmuseum_Pforzheim_langobardisch.jpg/1200px-Schmuckmuseum_Pforzheim_langobardisch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1200px-Reuchlinhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Victor_Mayer_Medaillons_um_1900.jpg/1200px-Victor_Mayer_Medaillons_um_1900.jpg
+image_srcset:
+  Schmuckmuseum Pforzheim Geschirr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schmuckmuseum_Pforzheim_Geschirr.jpg/400px-Schmuckmuseum_Pforzheim_Geschirr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schmuckmuseum_Pforzheim_Geschirr.jpg/800px-Schmuckmuseum_Pforzheim_Geschirr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schmuckmuseum_Pforzheim_Geschirr.jpg/1200px-Schmuckmuseum_Pforzheim_Geschirr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Schmuckmuseum_Pforzheim_Geschirr.jpg/1920px-Schmuckmuseum_Pforzheim_Geschirr.jpg
+  Schmuckmuseum Pforzheim Ohrschmuckstücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg/400px-Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg/800px-Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg/1200px-Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg/1920px-Schmuckmuseum_Pforzheim_Ohrschmuckstücke.jpg
+  Schmuckmuseum Pforzheim langobardisch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schmuckmuseum_Pforzheim_langobardisch.jpg/400px-Schmuckmuseum_Pforzheim_langobardisch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schmuckmuseum_Pforzheim_langobardisch.jpg/800px-Schmuckmuseum_Pforzheim_langobardisch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schmuckmuseum_Pforzheim_langobardisch.jpg/1200px-Schmuckmuseum_Pforzheim_langobardisch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Schmuckmuseum_Pforzheim_langobardisch.jpg/1920px-Schmuckmuseum_Pforzheim_langobardisch.jpg
+  Reuchlinhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/400px-Reuchlinhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/800px-Reuchlinhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1200px-Reuchlinhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Reuchlinhaus.JPG/1920px-Reuchlinhaus.JPG
+  Victor Mayer Medaillons um 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Victor_Mayer_Medaillons_um_1900.jpg/400px-Victor_Mayer_Medaillons_um_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Victor_Mayer_Medaillons_um_1900.jpg/800px-Victor_Mayer_Medaillons_um_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Victor_Mayer_Medaillons_um_1900.jpg/1200px-Victor_Mayer_Medaillons_um_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Victor_Mayer_Medaillons_um_1900.jpg/1920px-Victor_Mayer_Medaillons_um_1900.jpg
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Church in Cramon"
-site_name: "Church in Cramon"
-slug: "church-in-cramon"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Cramon
+site_name: Church in Cramon
+slug: church-in-cramon
+region: Schleswig-Holstein
 latitude: 53.715
 longitude: 11.279
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244205"
-description: "The Church in Cramon, an intriguing example of Brick Gothic architecture, invites visitors to explore its storied past and architectural beauty. Situate..."
+- cultural site
+wikidata_id: Q1244205
+description: The Church in Cramon, an intriguing example of Brick Gothic architecture,
+  invites visitors to explore its storied past and architectural beauty. Situate...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cramon%20Kirche%202008-11-13%20010.jpg/1200px-Cramon%20Kirche%202008-11-13%20010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg/1200px-Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cramon_Kirche_2013-03-02.JPG/1200px-Cramon_Kirche_2013-03-02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cramon_Kirche_2013-03-02_2.JPG/1200px-Cramon_Kirche_2013-03-02_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/1200px-Cramon_Kirche_2008-11-13_010.jpg
+image_srcset:
+  Cramon%20Kirche%202008-11-13%20010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cramon%20Kirche%202008-11-13%20010.jpg/400px-Cramon%20Kirche%202008-11-13%20010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cramon%20Kirche%202008-11-13%20010.jpg/800px-Cramon%20Kirche%202008-11-13%20010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cramon%20Kirche%202008-11-13%20010.jpg/1200px-Cramon%20Kirche%202008-11-13%20010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cramon%20Kirche%202008-11-13%20010.jpg/1920px-Cramon%20Kirche%202008-11-13%20010.jpg
+  Dorfkirche Cramon mit Friedhof, Church in Cramon, Mecklenburg-Vorpommern, Germany, Church in Cramon.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg/400px-Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg/800px-Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg/1200px-Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg/1920px-Dorfkirche_Cramon_mit_Friedhof,_Church_in_Cramon,_Mecklenburg-Vorpommern,_Germany,_Church_in_Cramon.jpg
+  Cramon Kirche 2013-03-02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cramon_Kirche_2013-03-02.JPG/400px-Cramon_Kirche_2013-03-02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cramon_Kirche_2013-03-02.JPG/800px-Cramon_Kirche_2013-03-02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cramon_Kirche_2013-03-02.JPG/1200px-Cramon_Kirche_2013-03-02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cramon_Kirche_2013-03-02.JPG/1920px-Cramon_Kirche_2013-03-02.JPG
+  Cramon Kirche 2013-03-02 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cramon_Kirche_2013-03-02_2.JPG/400px-Cramon_Kirche_2013-03-02_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cramon_Kirche_2013-03-02_2.JPG/800px-Cramon_Kirche_2013-03-02_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cramon_Kirche_2013-03-02_2.JPG/1200px-Cramon_Kirche_2013-03-02_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cramon_Kirche_2013-03-02_2.JPG/1920px-Cramon_Kirche_2013-03-02_2.JPG
+  Cramon Kirche 2008-11-13 010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/400px-Cramon_Kirche_2008-11-13_010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/800px-Cramon_Kirche_2008-11-13_010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/1200px-Cramon_Kirche_2008-11-13_010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cramon_Kirche_2008-11-13_010.jpg/1920px-Cramon_Kirche_2008-11-13_010.jpg
 ---
 
 ## Overview

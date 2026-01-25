@@ -13,8 +13,8 @@ regions:
 latitude: 48.1376
 longitude: 11.5881
 images:
-  - "/images-sites/maxmonument/02-91732a99-800w.webp"
-  - "/images-sites/maxmonument/03-706b8382-800w.webp"
+  - "/images/maxmonument/02-91732a99-800w.webp"
+  - "/images/maxmonument/03-706b8382-800w.webp"
 ---
 
 ## Overview

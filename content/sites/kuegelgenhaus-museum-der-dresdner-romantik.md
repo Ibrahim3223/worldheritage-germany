@@ -13,7 +13,7 @@ regions:
 latitude: 51.06
 longitude: 13.7428
 images:
-  - "/images-sites/kuegelgenhaus-museum-der-dresdner-romantik/01-44fa80f2-800w.webp"
+  - "/images/kuegelgenhaus-museum-der-dresdner-romantik/01-44fa80f2-800w.webp"
 ---
 
 ## Overview

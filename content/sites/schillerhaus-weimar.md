@@ -13,8 +13,8 @@ regions:
 latitude: 50.9789
 longitude: 11.3278
 images:
-  - "/images-sites/schillerhaus-weimar/01-ab09ae7e-800w.webp"
-  - "/images-sites/schillerhaus-weimar/02-45e496eb-800w.webp"
+  - "/images/schillerhaus-weimar/01-ab09ae7e-800w.webp"
+  - "/images/schillerhaus-weimar/02-45e496eb-800w.webp"
 ---
 
 ## Overview

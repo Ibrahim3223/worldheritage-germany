@@ -13,9 +13,9 @@ regions:
 latitude: 50.5707
 longitude: 7.87056
 images:
-  - "/images-sites/woelferlinger-weiher/01-d5c626bd-800w.webp"
-  - "/images-sites/woelferlinger-weiher/02-32fedcd2-800w.webp"
-  - "/images-sites/woelferlinger-weiher/03-9d738ec4-800w.webp"
+  - "/images/woelferlinger-weiher/01-d5c626bd-800w.webp"
+  - "/images/woelferlinger-weiher/02-32fedcd2-800w.webp"
+  - "/images/woelferlinger-weiher/03-9d738ec4-800w.webp"
 ---
 
 ## Overview

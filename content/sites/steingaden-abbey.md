@@ -13,8 +13,8 @@ regions:
 latitude: 47.701112231
 longitude: 10.862450024
 images:
-  - "/images-sites/steingaden-abbey/02-2aeb5ccb-800w.webp"
-  - "/images-sites/steingaden-abbey/03-3373cf70-800w.webp"
+  - "/images/steingaden-abbey/02-2aeb5ccb-800w.webp"
+  - "/images/steingaden-abbey/03-3373cf70-800w.webp"
 ---
 
 ## Overview

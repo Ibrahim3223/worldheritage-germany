@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244352"
 description: "The Village Church of Hamberge is a remarkable example of Brick Gothic architecture, a style that flourished in northern Germany. Situated in the quaint..."
 images:
-  - "/images-sites/village-church-hamberge/01-fafde8cb-1920w.webp"
-  - "/images-sites/village-church-hamberge/02-a9adbead-1920w.webp"
-  - "/images-sites/village-church-hamberge/03-46fa4f5c-1920w.webp"
+  - "/images/village-church-hamberge/01-fafde8cb-1920w.webp"
+  - "/images/village-church-hamberge/02-a9adbead-1920w.webp"
+  - "/images/village-church-hamberge/03-46fa4f5c-1920w.webp"
 ---
 
 ## Overview

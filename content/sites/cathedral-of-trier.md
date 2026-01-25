@@ -1,23 +1,50 @@
 ---
-title: "Cathedral of Trier"
-site_name: "Cathedral of Trier"
-slug: "cathedral-of-trier"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Cathedral of Trier
+site_name: Cathedral of Trier
+slug: cathedral-of-trier
+region: Rhineland-Palatinate
 latitude: 49.756111111111
 longitude: 6.6430555555556
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q5920"
-description: "The Cathedral of Trier, a striking Roman-Catholic structure, has been a significant landmark since its founding in 1235. As you approach this monumental..."
+- cultural site
+wikidata_id: Q5920
+description: The Cathedral of Trier, a striking Roman-Catholic structure, has been
+  a significant landmark since its founding in 1235. As you approach this monumental...
 images:
-  - "/images-sites/cathedral-of-trier/01-9167e3fc-1920w.webp"
-  - "/images-sites/cathedral-of-trier/02-d4f1b785-1920w.webp"
-  - "/images-sites/cathedral-of-trier/03-c41962c8-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dom%20und%20Liebfrauen%20Trier.jpg/1200px-Dom%20und%20Liebfrauen%20Trier.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG/1200px-Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg/1200px-Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trier,_08-12-2023_(actm.)_18.jpg/1200px-Trier,_08-12-2023_(actm.)_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trier_Dom_Heiltumskammer_Wappen.jpg/1200px-Trier_Dom_Heiltumskammer_Wappen.jpg
+image_srcset:
+  Dom%20und%20Liebfrauen%20Trier.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dom%20und%20Liebfrauen%20Trier.jpg/400px-Dom%20und%20Liebfrauen%20Trier.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dom%20und%20Liebfrauen%20Trier.jpg/800px-Dom%20und%20Liebfrauen%20Trier.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dom%20und%20Liebfrauen%20Trier.jpg/1200px-Dom%20und%20Liebfrauen%20Trier.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dom%20und%20Liebfrauen%20Trier.jpg/1920px-Dom%20und%20Liebfrauen%20Trier.jpg
+  Trier, Dom - Grabaltar des Kurfürsten von Orsbeck.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG/400px-Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG/800px-Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG/1200px-Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG/1920px-Trier,_Dom_-_Grabaltar_des_Kurfürsten_von_Orsbeck.JPG
+  Zentralbibliothek Zürich - Marktbrunnen. Trier - Westseite Dom - 991011676589705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg/400px-Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg/800px-Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg/1200px-Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg/1920px-Zentralbibliothek_Zürich_-_Marktbrunnen._Trier_-_Westseite_Dom_-_991011676589705501.jpg
+  Trier, 08-12-2023 (actm.) 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trier,_08-12-2023_(actm.)_18.jpg/400px-Trier,_08-12-2023_(actm.)_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trier,_08-12-2023_(actm.)_18.jpg/800px-Trier,_08-12-2023_(actm.)_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trier,_08-12-2023_(actm.)_18.jpg/1200px-Trier,_08-12-2023_(actm.)_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trier,_08-12-2023_(actm.)_18.jpg/1920px-Trier,_08-12-2023_(actm.)_18.jpg
+  Trier Dom Heiltumskammer Wappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trier_Dom_Heiltumskammer_Wappen.jpg/400px-Trier_Dom_Heiltumskammer_Wappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trier_Dom_Heiltumskammer_Wappen.jpg/800px-Trier_Dom_Heiltumskammer_Wappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trier_Dom_Heiltumskammer_Wappen.jpg/1200px-Trier_Dom_Heiltumskammer_Wappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Trier_Dom_Heiltumskammer_Wappen.jpg/1920px-Trier_Dom_Heiltumskammer_Wappen.jpg
 ---
 
 ## Overview

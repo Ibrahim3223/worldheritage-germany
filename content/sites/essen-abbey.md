@@ -1,19 +1,43 @@
 ---
-title: "Essen Abbey"
+title: Essen Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.455833
 longitude: 7.013611
 images:
-  - "/images-sites/essen-abbey/01-fc4f8163-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Otton_Mathilde_croix.jpg/1200px-Otton_Mathilde_croix.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1200px-Essen_2011_66-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_Stift_Wappen.jpg/1200px-Essen_Stift_Wappen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münster_Essen_Kreuzgang_20060326.jpg/1200px-Münster_Essen_Kreuzgang_20060326.jpg
+image_srcset:
+  Otton Mathilde croix.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Otton_Mathilde_croix.jpg/400px-Otton_Mathilde_croix.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Otton_Mathilde_croix.jpg/800px-Otton_Mathilde_croix.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Otton_Mathilde_croix.jpg/1200px-Otton_Mathilde_croix.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Otton_Mathilde_croix.jpg/1920px-Otton_Mathilde_croix.jpg
+  Essen 2011 66-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/400px-Essen_2011_66-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/800px-Essen_2011_66-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1200px-Essen_2011_66-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Essen_2011_66-2.jpg/1920px-Essen_2011_66-2.jpg
+  Essen Stift Wappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_Stift_Wappen.jpg/400px-Essen_Stift_Wappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_Stift_Wappen.jpg/800px-Essen_Stift_Wappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_Stift_Wappen.jpg/1200px-Essen_Stift_Wappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_Stift_Wappen.jpg/1920px-Essen_Stift_Wappen.jpg
+  Münster Essen Kreuzgang 20060326.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münster_Essen_Kreuzgang_20060326.jpg/400px-Münster_Essen_Kreuzgang_20060326.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münster_Essen_Kreuzgang_20060326.jpg/800px-Münster_Essen_Kreuzgang_20060326.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münster_Essen_Kreuzgang_20060326.jpg/1200px-Münster_Essen_Kreuzgang_20060326.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Münster_Essen_Kreuzgang_20060326.jpg/1920px-Münster_Essen_Kreuzgang_20060326.jpg
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 7.272576
 
 # Images
 images:
-  - "/images-sites/ockenfels-castle/01-a934d526-800w.webp"
-  - "/images-sites/ockenfels-castle/02-68aa3295-800w.webp"
-  - "/images-sites/ockenfels-castle/03-e6c5c195-800w.webp"
+  - "/images/ockenfels-castle/01-a934d526-800w.webp"
+  - "/images/ockenfels-castle/02-68aa3295-800w.webp"
+  - "/images/ockenfels-castle/03-e6c5c195-800w.webp"
 ---
 
 ## Overview

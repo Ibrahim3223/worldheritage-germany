@@ -1,19 +1,49 @@
 ---
-title: "Burg Lohra"
+title: Burg Lohra
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4139
 longitude: 10.6303
 images:
-  - "/images-sites/burg-lohra/01-6bbe8153-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Lohra_-_panoramio_(1).jpg/1200px-Burg_Lohra_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Großlohra,_Germany_-_panoramio_(3).jpg/1200px-Großlohra,_Germany_-_panoramio_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großlohra,_Germany_-_panoramio_(7).jpg/1200px-Großlohra,_Germany_-_panoramio_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Lohra_Wasserturm-01.jpg/1200px-Burg_Lohra_Wasserturm-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1200px-Lohra_Ruine_Bergfried.JPG
+image_srcset:
+  Burg Lohra - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Lohra_-_panoramio_(1).jpg/400px-Burg_Lohra_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Lohra_-_panoramio_(1).jpg/800px-Burg_Lohra_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Lohra_-_panoramio_(1).jpg/1200px-Burg_Lohra_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Burg_Lohra_-_panoramio_(1).jpg/1920px-Burg_Lohra_-_panoramio_(1).jpg
+  Großlohra, Germany - panoramio (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Großlohra,_Germany_-_panoramio_(3).jpg/400px-Großlohra,_Germany_-_panoramio_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Großlohra,_Germany_-_panoramio_(3).jpg/800px-Großlohra,_Germany_-_panoramio_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Großlohra,_Germany_-_panoramio_(3).jpg/1200px-Großlohra,_Germany_-_panoramio_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Großlohra,_Germany_-_panoramio_(3).jpg/1920px-Großlohra,_Germany_-_panoramio_(3).jpg
+  Großlohra, Germany - panoramio (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großlohra,_Germany_-_panoramio_(7).jpg/400px-Großlohra,_Germany_-_panoramio_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großlohra,_Germany_-_panoramio_(7).jpg/800px-Großlohra,_Germany_-_panoramio_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großlohra,_Germany_-_panoramio_(7).jpg/1200px-Großlohra,_Germany_-_panoramio_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Großlohra,_Germany_-_panoramio_(7).jpg/1920px-Großlohra,_Germany_-_panoramio_(7).jpg
+  Burg Lohra Wasserturm-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Lohra_Wasserturm-01.jpg/400px-Burg_Lohra_Wasserturm-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Lohra_Wasserturm-01.jpg/800px-Burg_Lohra_Wasserturm-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Lohra_Wasserturm-01.jpg/1200px-Burg_Lohra_Wasserturm-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Lohra_Wasserturm-01.jpg/1920px-Burg_Lohra_Wasserturm-01.jpg
+  Lohra Ruine Bergfried.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/400px-Lohra_Ruine_Bergfried.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/800px-Lohra_Ruine_Bergfried.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1200px-Lohra_Ruine_Bergfried.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Lohra_Ruine_Bergfried.JPG/1920px-Lohra_Ruine_Bergfried.JPG
 ---
 
 ## Overview

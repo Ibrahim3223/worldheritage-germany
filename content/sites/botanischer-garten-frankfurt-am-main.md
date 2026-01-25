@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten Frankfurt am Main"
+title: Botanischer Garten Frankfurt am Main
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1272
 longitude: 8.65833
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-frankfurt-am-main/01-93a732d2-800w.webp"
-  - "/images-sites/botanischer-garten-frankfurt-am-main/02-cc37050d-800w.webp"
-  - "/images-sites/botanischer-garten-frankfurt-am-main/03-fd11d5da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG/1200px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG/1200px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG/1200px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/1200px-Botanischer-garten-ffm004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer-garten-ffm-plan001.jpg/1200px-Botanischer-garten-ffm-plan001.jpg
+image_srcset:
+  Botanischer Garten, Frankfurt am Main - DSC02413.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG/400px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG/800px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG/1200px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG/1920px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02413.JPG
+  Botanischer Garten, Frankfurt am Main - DSC02531.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG/400px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG/800px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG/1200px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG/1920px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02531.JPG
+  Botanischer Garten, Frankfurt am Main - DSC02670.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG/400px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG/800px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG/1200px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG/1920px-Botanischer_Garten,_Frankfurt_am_Main_-_DSC02670.JPG
+  Botanischer-garten-ffm004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/400px-Botanischer-garten-ffm004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/800px-Botanischer-garten-ffm004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/1200px-Botanischer-garten-ffm004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Botanischer-garten-ffm004.jpg/1920px-Botanischer-garten-ffm004.jpg
+  Botanischer-garten-ffm-plan001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer-garten-ffm-plan001.jpg/400px-Botanischer-garten-ffm-plan001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer-garten-ffm-plan001.jpg/800px-Botanischer-garten-ffm-plan001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer-garten-ffm-plan001.jpg/1200px-Botanischer-garten-ffm-plan001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Botanischer-garten-ffm-plan001.jpg/1920px-Botanischer-garten-ffm-plan001.jpg
 ---
 
 ## Overview

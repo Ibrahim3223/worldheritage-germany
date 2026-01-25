@@ -13,9 +13,9 @@ regions:
 latitude: 48.78
 longitude: 9.195
 images:
-  - "/images-sites/uhlandshoehe/01-e74e13c0-800w.webp"
-  - "/images-sites/uhlandshoehe/02-1baf3209-800w.webp"
-  - "/images-sites/uhlandshoehe/03-7919d51c-800w.webp"
+  - "/images/uhlandshoehe/01-e74e13c0-800w.webp"
+  - "/images/uhlandshoehe/02-1baf3209-800w.webp"
+  - "/images/uhlandshoehe/03-7919d51c-800w.webp"
 ---
 
 ## Overview

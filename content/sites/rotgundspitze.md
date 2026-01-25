@@ -13,7 +13,7 @@ regions:
 latitude: 47.2881
 longitude: 10.26576
 images:
-  - "/images-sites/rotgundspitze/01-6397803d-800w.webp"
+  - "/images/rotgundspitze/01-6397803d-800w.webp"
 ---
 
 ## Overview

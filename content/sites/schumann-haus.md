@@ -13,9 +13,9 @@ regions:
 latitude: 51.3405
 longitude: 12.3911
 images:
-  - "/images-sites/schumann-haus/01-5904d054-800w.webp"
-  - "/images-sites/schumann-haus/02-05445528-800w.webp"
-  - "/images-sites/schumann-haus/03-0e64951d-800w.webp"
+  - "/images/schumann-haus/01-5904d054-800w.webp"
+  - "/images/schumann-haus/02-05445528-800w.webp"
+  - "/images/schumann-haus/03-0e64951d-800w.webp"
 ---
 
 ## Overview

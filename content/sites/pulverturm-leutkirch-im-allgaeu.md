@@ -13,7 +13,7 @@ regions:
 latitude: 47.8256
 longitude: 10.0253
 images:
-  - "/images-sites/pulverturm-leutkirch-im-allgaeu/01-724f1970-800w.webp"
+  - "/images/pulverturm-leutkirch-im-allgaeu/01-724f1970-800w.webp"
 ---
 
 ## Overview

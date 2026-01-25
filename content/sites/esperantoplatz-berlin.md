@@ -1,21 +1,49 @@
 ---
-title: "Esperantoplatz, Berlin"
+title: Esperantoplatz, Berlin
 date: 2026-01-23
 draft: false
-description: "public square in Neukölln, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: public square in Neukölln, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.472893
 longitude: 13.452828
 images:
-  - "/images-sites/esperantoplatz-berlin/01-2af9f7de-800w.webp"
-  - "/images-sites/esperantoplatz-berlin/02-c13e7dad-800w.webp"
-  - "/images-sites/esperantoplatz-berlin/03-47809513-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Esperantoplatz.jpg/1200px-Esperantoplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Esperantoplatz.JPG/1200px-Esperantoplatz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Esperantoplatz,_3.jpeg/1200px-Berlin,_Esperantoplatz,_3.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg/1200px-Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg/1200px-Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg
+image_srcset:
+  Esperantoplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Esperantoplatz.jpg/400px-Esperantoplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Esperantoplatz.jpg/800px-Esperantoplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Esperantoplatz.jpg/1200px-Esperantoplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Esperantoplatz.jpg/1920px-Esperantoplatz.jpg
+  Esperantoplatz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Esperantoplatz.JPG/400px-Esperantoplatz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Esperantoplatz.JPG/800px-Esperantoplatz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Esperantoplatz.JPG/1200px-Esperantoplatz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Esperantoplatz.JPG/1920px-Esperantoplatz.JPG
+  Berlin, Esperantoplatz, 3.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Esperantoplatz,_3.jpeg/400px-Berlin,_Esperantoplatz,_3.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Esperantoplatz,_3.jpeg/800px-Berlin,_Esperantoplatz,_3.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Esperantoplatz,_3.jpeg/1200px-Berlin,_Esperantoplatz,_3.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berlin,_Esperantoplatz,_3.jpeg/1920px-Berlin,_Esperantoplatz,_3.jpeg
+  Berlino, Zamenhof-Kverko sur Esperanto-Placo, 2.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg/400px-Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg/800px-Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg/1200px-Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg/1920px-Berlino,_Zamenhof-Kverko_sur_Esperanto-Placo,_2.jpeg
+  Berlin, Zamenhof-Eiche, Tafel, 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg/400px-Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg/800px-Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg/1200px-Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg/1920px-Berlin,_Zamenhof-Eiche,_Tafel,_1.jpg
 ---
 
 ## Overview

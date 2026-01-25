@@ -1,19 +1,49 @@
 ---
-title: "Danevirke Museum"
+title: Danevirke Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.48316
 longitude: 9.49827
 images:
-  - "/images-sites/danevirke-museum/01-acce04c8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg/1200px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/1200px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg/1200px-Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Danevirkegarden.JPG/1200px-Danevirkegarden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NordfrislandsKorsflag2.jpg/1200px-NordfrislandsKorsflag2.jpg
+image_srcset:
+  Dannewerk - Ochsenweg - Ochsenweg - Danevirke Museum 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg/400px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg/800px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg/1200px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg/1920px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_04_ies.jpg
+  Dannewerk - Ochsenweg - Ochsenweg - Danevirke Museum 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/400px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/800px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/1200px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg/1920px-Dannewerk_-_Ochsenweg_-_Ochsenweg_-_Danevirke_Museum_05_ies.jpg
+  Danevirke Museum - peoples living in the region at the time of the building of the Danevirke .jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg/400px-Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg/800px-Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg/1200px-Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg/1920px-Danevirke_Museum_-_peoples_living_in_the_region_at_the_time_of_the_building_of_the_Danevirke_.jpg
+  Danevirkegarden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Danevirkegarden.JPG/400px-Danevirkegarden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Danevirkegarden.JPG/800px-Danevirkegarden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Danevirkegarden.JPG/1200px-Danevirkegarden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Danevirkegarden.JPG/1920px-Danevirkegarden.JPG
+  NordfrislandsKorsflag2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NordfrislandsKorsflag2.jpg/400px-NordfrislandsKorsflag2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NordfrislandsKorsflag2.jpg/800px-NordfrislandsKorsflag2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NordfrislandsKorsflag2.jpg/1200px-NordfrislandsKorsflag2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NordfrislandsKorsflag2.jpg/1920px-NordfrislandsKorsflag2.jpg
 ---
 
 ## Overview

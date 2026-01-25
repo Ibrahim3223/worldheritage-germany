@@ -1,21 +1,49 @@
 ---
-title: "Ballhaus Naunynstrasse"
+title: Ballhaus Naunynstrasse
 date: 2026-01-24
 draft: false
-description: "theatre in Kreuzberg, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Kreuzberg, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.502271
 longitude: 13.421489
 images:
-  - "/images-sites/ballhaus-naunynstrasse/01-66d9fee5-800w.webp"
-  - "/images-sites/ballhaus-naunynstrasse/02-86965ccb-800w.webp"
-  - "/images-sites/ballhaus-naunynstrasse/03-896bfa35-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG/1200px-Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Esther_Dischereit_(51887473929).jpg/1200px-Esther_Dischereit_(51887473929).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Awet_Tesfaiesus_(51887474204).jpg/1200px-Awet_Tesfaiesus_(51887474204).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1200px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Imran_Ayata_(51687482272).jpg/1200px-Imran_Ayata_(51687482272).jpg
+image_srcset:
+  Naunynstraße 27 (Berlin-Kreuzberg) Ballhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG/400px-Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG/800px-Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG/1200px-Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG/1920px-Naunynstraße_27_(Berlin-Kreuzberg)_Ballhaus.JPG
+  Esther Dischereit (51887473929).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Esther_Dischereit_(51887473929).jpg/400px-Esther_Dischereit_(51887473929).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Esther_Dischereit_(51887473929).jpg/800px-Esther_Dischereit_(51887473929).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Esther_Dischereit_(51887473929).jpg/1200px-Esther_Dischereit_(51887473929).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Esther_Dischereit_(51887473929).jpg/1920px-Esther_Dischereit_(51887473929).jpg
+  Awet Tesfaiesus (51887474204).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Awet_Tesfaiesus_(51887474204).jpg/400px-Awet_Tesfaiesus_(51887474204).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Awet_Tesfaiesus_(51887474204).jpg/800px-Awet_Tesfaiesus_(51887474204).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Awet_Tesfaiesus_(51887474204).jpg/1200px-Awet_Tesfaiesus_(51887474204).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Awet_Tesfaiesus_(51887474204).jpg/1920px-Awet_Tesfaiesus_(51887474204).jpg
+  Naunynstraße 27 (Berlin-Kreuzberg).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/400px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/800px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1200px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Naunynstraße_27_(Berlin-Kreuzberg).JPG/1920px-Naunynstraße_27_(Berlin-Kreuzberg).JPG
+  Imran Ayata (51687482272).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Imran_Ayata_(51687482272).jpg/400px-Imran_Ayata_(51687482272).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Imran_Ayata_(51687482272).jpg/800px-Imran_Ayata_(51687482272).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Imran_Ayata_(51687482272).jpg/1200px-Imran_Ayata_(51687482272).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Imran_Ayata_(51687482272).jpg/1920px-Imran_Ayata_(51687482272).jpg
 ---
 
 ## Overview

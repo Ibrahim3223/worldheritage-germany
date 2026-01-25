@@ -21,7 +21,7 @@ longitude: 7.425738888
 
 # Images
 images:
-  - "/images-sites/upstalsboom/01-15bc9713-800w.webp"
+  - "/images/upstalsboom/01-15bc9713-800w.webp"
 ---
 
 ## Overview

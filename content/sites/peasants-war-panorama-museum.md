@@ -21,7 +21,7 @@ longitude: 11.10333333
 
 # Images
 images:
-  - "/images-sites/peasants-war-panorama-museum/01-a92c9a9f-800w.webp"
+  - "/images/peasants-war-panorama-museum/01-a92c9a9f-800w.webp"
 ---
 
 ## Overview

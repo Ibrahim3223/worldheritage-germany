@@ -1,20 +1,45 @@
 ---
-title: "Christuskirche (Leer)"
-site_name: "Christuskirche (Leer)"
-slug: "christuskirche-leer"
-region: "Lower Saxony"
-
-# Location
+title: Christuskirche (Leer)
+site_name: Christuskirche (Leer)
+slug: christuskirche-leer
+region: Lower Saxony
 latitude: 53.2314
 longitude: 7.46642
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087353"
-description: "In the heart of Leer, Germany, stands Christuskirche, a striking example of Gothic Revival architecture that invites both reflection and admiration. Thi..."
+- church building
+- religious site
+wikidata_id: Q1087353
+description: In the heart of Leer, Germany, stands Christuskirche, a striking example
+  of Gothic Revival architecture that invites both reflection and admiration. Thi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1200px-ChurchLeerChristus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leer_Christuskirche_(1).JPG/1200px-Leer_Christuskirche_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leer_Christuskirche_(3).JPG/1200px-Leer_Christuskirche_(3).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leer_Christuskirche_(4).JPG/1200px-Leer_Christuskirche_(4).JPG
+image_srcset:
+  ChurchLeerChristus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/400px-ChurchLeerChristus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/800px-ChurchLeerChristus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1200px-ChurchLeerChristus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ChurchLeerChristus.JPG/1920px-ChurchLeerChristus.JPG
+  Leer Christuskirche (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leer_Christuskirche_(1).JPG/400px-Leer_Christuskirche_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leer_Christuskirche_(1).JPG/800px-Leer_Christuskirche_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leer_Christuskirche_(1).JPG/1200px-Leer_Christuskirche_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leer_Christuskirche_(1).JPG/1920px-Leer_Christuskirche_(1).JPG
+  Leer Christuskirche (3).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leer_Christuskirche_(3).JPG/400px-Leer_Christuskirche_(3).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leer_Christuskirche_(3).JPG/800px-Leer_Christuskirche_(3).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leer_Christuskirche_(3).JPG/1200px-Leer_Christuskirche_(3).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Leer_Christuskirche_(3).JPG/1920px-Leer_Christuskirche_(3).JPG
+  Leer Christuskirche (4).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leer_Christuskirche_(4).JPG/400px-Leer_Christuskirche_(4).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leer_Christuskirche_(4).JPG/800px-Leer_Christuskirche_(4).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leer_Christuskirche_(4).JPG/1200px-Leer_Christuskirche_(4).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leer_Christuskirche_(4).JPG/1920px-Leer_Christuskirche_(4).JPG
 ---
 
 ## Overview

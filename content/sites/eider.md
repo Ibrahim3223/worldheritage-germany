@@ -1,19 +1,49 @@
 ---
-title: "Eider"
+title: Eider
 date: 2026-01-23
 draft: false
-description: "river in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 54.138333333
 longitude: 10.127222222
 images:
-  - "/images-sites/eider/01-2cff4cfe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg/1200px-Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg/1200px-049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2019_Fleche_Wallonne_117a.jpg/1200px-2019_Fleche_Wallonne_117a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg/1200px-048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2021_WK_Vlaanderen_082_Eider_Merino.jpg/1200px-2021_WK_Vlaanderen_082_Eider_Merino.jpg
+image_srcset:
+  Somateria mollissima (male) on the dune, Heligoland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg/400px-Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg/800px-Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg/1200px-Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg/1920px-Somateria_mollissima_(male)_on_the_dune,_Heligoland.jpg
+  049 - KING EIDER (6-15-2016) barrow, alaska -06 (27577003883).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg/400px-049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg/800px-049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg/1200px-049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg/1920px-049_-_KING_EIDER_(6-15-2016)_barrow,_alaska_-06_(27577003883).jpg
+  2019 Fleche Wallonne 117a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2019_Fleche_Wallonne_117a.jpg/400px-2019_Fleche_Wallonne_117a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2019_Fleche_Wallonne_117a.jpg/800px-2019_Fleche_Wallonne_117a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2019_Fleche_Wallonne_117a.jpg/1200px-2019_Fleche_Wallonne_117a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2019_Fleche_Wallonne_117a.jpg/1920px-2019_Fleche_Wallonne_117a.jpg
+  048 - SPECTACLED EIDER (6-17-2016) barrow, alaska -05 (27890171860).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg/400px-048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg/800px-048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg/1200px-048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg/1920px-048_-_SPECTACLED_EIDER_(6-17-2016)_barrow,_alaska_-05_(27890171860).jpg
+  2021 WK Vlaanderen 082 Eider Merino.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2021_WK_Vlaanderen_082_Eider_Merino.jpg/400px-2021_WK_Vlaanderen_082_Eider_Merino.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2021_WK_Vlaanderen_082_Eider_Merino.jpg/800px-2021_WK_Vlaanderen_082_Eider_Merino.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2021_WK_Vlaanderen_082_Eider_Merino.jpg/1200px-2021_WK_Vlaanderen_082_Eider_Merino.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2021_WK_Vlaanderen_082_Eider_Merino.jpg/1920px-2021_WK_Vlaanderen_082_Eider_Merino.jpg
 ---
 
 ## Overview

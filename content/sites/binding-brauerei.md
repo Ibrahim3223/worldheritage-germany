@@ -1,29 +1,43 @@
 ---
-title: "Binding-Brauerei"
+title: Binding-Brauerei
 date: 2026-01-23
 draft: false
-description: "brewery in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.094685
 longitude: 8.691063
-
-# Images
 images:
-  - "/images-sites/binding-brauerei/01-30e0e537-800w.webp"
-  - "/images-sites/binding-brauerei/02-25102a28-800w.webp"
-  - "/images-sites/binding-brauerei/03-d1c6a1f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg/1200px-Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bielefeld_Dr._Oetker.jpg/1200px-Bielefeld_Dr._Oetker.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg/1200px-Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg/1200px-Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg
+image_srcset:
+  Bielefeld Dr. Oetker Welt Puddingwunder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg/400px-Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg/800px-Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg/1200px-Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg/1920px-Bielefeld_Dr._Oetker_Welt_Puddingwunder.jpg
+  Bielefeld Dr. Oetker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bielefeld_Dr._Oetker.jpg/400px-Bielefeld_Dr._Oetker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bielefeld_Dr._Oetker.jpg/800px-Bielefeld_Dr._Oetker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bielefeld_Dr._Oetker.jpg/1200px-Bielefeld_Dr._Oetker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bielefeld_Dr._Oetker.jpg/1920px-Bielefeld_Dr._Oetker.jpg
+  Binding-Brauerei AG - Binding Römer Pils.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg/400px-Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg/800px-Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg/1200px-Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg/1920px-Binding-Brauerei_AG_-_Binding_Römer_Pils.jpg
+  Elfriede Wendlandt - Dr. Oetkers Backpulver, 1903.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg/400px-Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg/800px-Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg/1200px-Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg/1920px-Elfriede_Wendlandt_-_Dr._Oetkers_Backpulver,_1903.jpg
 ---
 
 ## Overview

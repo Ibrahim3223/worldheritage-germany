@@ -13,9 +13,9 @@ regions:
 latitude: 50.7701
 longitude: 11.6278
 images:
-  - "/images-sites/neues-jagdschloss-hummelshain/01-142f2645-800w.webp"
-  - "/images-sites/neues-jagdschloss-hummelshain/02-e28fba86-800w.webp"
-  - "/images-sites/neues-jagdschloss-hummelshain/03-386b5a06-800w.webp"
+  - "/images/neues-jagdschloss-hummelshain/01-142f2645-800w.webp"
+  - "/images/neues-jagdschloss-hummelshain/02-e28fba86-800w.webp"
+  - "/images/neues-jagdschloss-hummelshain/03-386b5a06-800w.webp"
 ---
 
 ## Overview

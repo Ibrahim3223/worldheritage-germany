@@ -13,7 +13,7 @@ regions:
 latitude: 52.3041
 longitude: 13.6111
 images:
-  - "/images-sites/koenigs-wusterhausen-central-tower/03-f533882a-800w.webp"
+  - "/images/koenigs-wusterhausen-central-tower/03-f533882a-800w.webp"
 ---
 
 ## Overview

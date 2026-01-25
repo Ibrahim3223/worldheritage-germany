@@ -21,8 +21,8 @@ longitude: 9.24056
 
 # Images
 images:
-  - "/images-sites/tomb-of-zueschen/02-0c5dfa78-800w.webp"
-  - "/images-sites/tomb-of-zueschen/03-07a30090-800w.webp"
+  - "/images/tomb-of-zueschen/02-0c5dfa78-800w.webp"
+  - "/images/tomb-of-zueschen/03-07a30090-800w.webp"
 ---
 
 ## Overview

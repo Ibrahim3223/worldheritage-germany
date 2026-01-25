@@ -1,24 +1,27 @@
 ---
-title: "ChristophoruskircheSchierstein"
-site_name: "ChristophoruskircheSchierstein"
-slug: "christophoruskirche-schierstein"
-region: "Hesse"
-
-# Location
+title: ChristophoruskircheSchierstein
+site_name: ChristophoruskircheSchierstein
+slug: christophoruskirche-schierstein
+region: Hesse
 latitude: 50.0437
 longitude: 8.1955
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087120"
-description: "In the heart of Wiesbaden lies Christophoruskirche, a striking example of Baroque architecture that captures both the spirit of its time and the devotio..."
+- church building
+- religious site
+wikidata_id: Q1087120
+description: In the heart of Wiesbaden lies Christophoruskirche, a striking example
+  of Baroque architecture that captures both the spirit of its time and the devotio...
 images:
-  - "/images-sites/christophoruskirche-schierstein/01-bdffbb29-1920w.webp"
-  - "/images-sites/christophoruskirche-schierstein/02-d5f1c30f-1920w.webp"
-  - "/images-sites/christophoruskirche-schierstein/03-b22ba6a6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schierstein%20-%20Christophoruskirche.jpg/1200px-Schierstein%20-%20Christophoruskirche.jpg
+image_srcset:
+  Schierstein%20-%20Christophoruskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schierstein%20-%20Christophoruskirche.jpg/400px-Schierstein%20-%20Christophoruskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schierstein%20-%20Christophoruskirche.jpg/800px-Schierstein%20-%20Christophoruskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schierstein%20-%20Christophoruskirche.jpg/1200px-Schierstein%20-%20Christophoruskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Schierstein%20-%20Christophoruskirche.jpg/1920px-Schierstein%20-%20Christophoruskirche.jpg
 ---
 
 ## Overview

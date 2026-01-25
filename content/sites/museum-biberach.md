@@ -13,9 +13,9 @@ regions:
 latitude: 48.0979
 longitude: 9.79015
 images:
-  - "/images-sites/museum-biberach/01-059a07d5-800w.webp"
-  - "/images-sites/museum-biberach/02-c5389748-800w.webp"
-  - "/images-sites/museum-biberach/03-c92e3886-800w.webp"
+  - "/images/museum-biberach/01-059a07d5-800w.webp"
+  - "/images/museum-biberach/02-c5389748-800w.webp"
+  - "/images/museum-biberach/03-c92e3886-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Deichmühle"
+title: Deichmühle
 date: 2026-01-24
 draft: false
-description: "Windmühle in Norden in Ostfriesland, Niedersachsen, Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Windmill"
+description: Windmühle in Norden in Ostfriesland, Niedersachsen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Windmill
 categories:
-  - "Windmill"
+- Windmill
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5899
 longitude: 7.21434
 images:
-  - "/images-sites/deichmuehle/01-925f6dcc-800w.webp"
-  - "/images-sites/deichmuehle/02-a7efe197-800w.webp"
-  - "/images-sites/deichmuehle/03-507c34cd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Deichmühle_in_Norden_03.jpg/1200px-Die_Deichmühle_in_Norden_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deichmühle_in_Norden_(Ostfriesland,_2024).jpg/1200px-Deichmühle_in_Norden_(Ostfriesland,_2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Die_Deichmühle_in_Norden_06.jpg/1200px-Die_Deichmühle_in_Norden_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Windmuehlen_Norden.jpg/1200px-Windmuehlen_Norden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1200px-Windmuehlen_Norden-CN.jpg
+image_srcset:
+  Die Deichmühle in Norden 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Deichmühle_in_Norden_03.jpg/400px-Die_Deichmühle_in_Norden_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Deichmühle_in_Norden_03.jpg/800px-Die_Deichmühle_in_Norden_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Deichmühle_in_Norden_03.jpg/1200px-Die_Deichmühle_in_Norden_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Deichmühle_in_Norden_03.jpg/1920px-Die_Deichmühle_in_Norden_03.jpg
+  Deichmühle in Norden (Ostfriesland, 2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deichmühle_in_Norden_(Ostfriesland,_2024).jpg/400px-Deichmühle_in_Norden_(Ostfriesland,_2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deichmühle_in_Norden_(Ostfriesland,_2024).jpg/800px-Deichmühle_in_Norden_(Ostfriesland,_2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deichmühle_in_Norden_(Ostfriesland,_2024).jpg/1200px-Deichmühle_in_Norden_(Ostfriesland,_2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deichmühle_in_Norden_(Ostfriesland,_2024).jpg/1920px-Deichmühle_in_Norden_(Ostfriesland,_2024).jpg
+  Die Deichmühle in Norden 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Die_Deichmühle_in_Norden_06.jpg/400px-Die_Deichmühle_in_Norden_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Die_Deichmühle_in_Norden_06.jpg/800px-Die_Deichmühle_in_Norden_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Die_Deichmühle_in_Norden_06.jpg/1200px-Die_Deichmühle_in_Norden_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Die_Deichmühle_in_Norden_06.jpg/1920px-Die_Deichmühle_in_Norden_06.jpg
+  Windmuehlen Norden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Windmuehlen_Norden.jpg/400px-Windmuehlen_Norden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Windmuehlen_Norden.jpg/800px-Windmuehlen_Norden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Windmuehlen_Norden.jpg/1200px-Windmuehlen_Norden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Windmuehlen_Norden.jpg/1920px-Windmuehlen_Norden.jpg
+  Windmuehlen Norden-CN.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/400px-Windmuehlen_Norden-CN.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/800px-Windmuehlen_Norden-CN.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1200px-Windmuehlen_Norden-CN.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Windmuehlen_Norden-CN.jpg/1920px-Windmuehlen_Norden-CN.jpg
 ---
 
 ## Overview

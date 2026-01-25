@@ -1,21 +1,49 @@
 ---
-title: "Emden Central Station"
+title: Emden Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Emden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Emden, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.3689
 longitude: 7.19556
 images:
-  - "/images-sites/emden-central-station/01-9e7958a0-800w.webp"
-  - "/images-sites/emden-central-station/02-4bb3d123-800w.webp"
-  - "/images-sites/emden-central-station/03-f0356cfc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Emden_Hbf!_(2024).jpg/1200px-Emden_Hbf!_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/J38_379_Bf_Emden_Hbf.jpg/1200px-J38_379_Bf_Emden_Hbf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emden_Hbf_und_Busstation_(2023).jpg/1200px-Emden_Hbf_und_Busstation_(2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg/1200px-DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1200px-Hauptbahnhof_emden.jpg
+image_srcset:
+  Emden Hbf! (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Emden_Hbf!_(2024).jpg/400px-Emden_Hbf!_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Emden_Hbf!_(2024).jpg/800px-Emden_Hbf!_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Emden_Hbf!_(2024).jpg/1200px-Emden_Hbf!_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Emden_Hbf!_(2024).jpg/1920px-Emden_Hbf!_(2024).jpg
+  J38 379 Bf Emden Hbf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/J38_379_Bf_Emden_Hbf.jpg/400px-J38_379_Bf_Emden_Hbf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/J38_379_Bf_Emden_Hbf.jpg/800px-J38_379_Bf_Emden_Hbf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/J38_379_Bf_Emden_Hbf.jpg/1200px-J38_379_Bf_Emden_Hbf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/J38_379_Bf_Emden_Hbf.jpg/1920px-J38_379_Bf_Emden_Hbf.jpg
+  Emden Hbf und Busstation (2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emden_Hbf_und_Busstation_(2023).jpg/400px-Emden_Hbf_und_Busstation_(2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emden_Hbf_und_Busstation_(2023).jpg/800px-Emden_Hbf_und_Busstation_(2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emden_Hbf_und_Busstation_(2023).jpg/1200px-Emden_Hbf_und_Busstation_(2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emden_Hbf_und_Busstation_(2023).jpg/1920px-Emden_Hbf_und_Busstation_(2023).jpg
+  DB-ICs 2434 & 2206 in Emden Hbf (2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg/400px-DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg/800px-DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg/1200px-DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg/1920px-DB-ICs_2434_&_2206_in_Emden_Hbf_(2023).jpg
+  Hauptbahnhof emden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/400px-Hauptbahnhof_emden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/800px-Hauptbahnhof_emden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1200px-Hauptbahnhof_emden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hauptbahnhof_emden.jpg/1920px-Hauptbahnhof_emden.jpg
 ---
 
 ## Overview

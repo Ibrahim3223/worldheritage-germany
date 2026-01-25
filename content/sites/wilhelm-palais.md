@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q317394"
 description: "In the heart of Stuttgart-Mitte, the Wilhelm Palais stands as a striking example of neoclassical architecture, inviting visitors to explore its historic..."
 images:
-  - "/images-sites/wilhelm-palais/01-bfbc7787-1920w.webp"
-  - "/images-sites/wilhelm-palais/02-0a4a3690-1920w.webp"
-  - "/images-sites/wilhelm-palais/03-d319c6de-1920w.webp"
+  - "/images/wilhelm-palais/01-bfbc7787-1920w.webp"
+  - "/images/wilhelm-palais/02-0a4a3690-1920w.webp"
+  - "/images/wilhelm-palais/03-d319c6de-1920w.webp"
 ---
 
 ## Overview

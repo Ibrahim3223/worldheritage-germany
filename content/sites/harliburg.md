@@ -1,21 +1,49 @@
 ---
-title: "Harliburg"
+title: Harliburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.96
 longitude: 10.5719
 images:
-  - "/images-sites/harliburg/01-7d945db9-800w.webp"
-  - "/images-sites/harliburg/02-d4b53f1f-800w.webp"
-  - "/images-sites/harliburg/03-66c72374-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harliburg_Burggelände_uneben.jpg/1200px-Harliburg_Burggelände_uneben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harliburg_Wälle_und_Graben.jpg/1200px-Harliburg_Wälle_und_Graben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Harliburg_Burggraben.jpg/1200px-Harliburg_Burggraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg/1200px-Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Harliburg_Schuchhardt.jpg/1200px-Harliburg_Schuchhardt.jpg
+image_srcset:
+  Harliburg Burggelände uneben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harliburg_Burggelände_uneben.jpg/400px-Harliburg_Burggelände_uneben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harliburg_Burggelände_uneben.jpg/800px-Harliburg_Burggelände_uneben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harliburg_Burggelände_uneben.jpg/1200px-Harliburg_Burggelände_uneben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harliburg_Burggelände_uneben.jpg/1920px-Harliburg_Burggelände_uneben.jpg
+  Harliburg Wälle und Graben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harliburg_Wälle_und_Graben.jpg/400px-Harliburg_Wälle_und_Graben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harliburg_Wälle_und_Graben.jpg/800px-Harliburg_Wälle_und_Graben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harliburg_Wälle_und_Graben.jpg/1200px-Harliburg_Wälle_und_Graben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Harliburg_Wälle_und_Graben.jpg/1920px-Harliburg_Wälle_und_Graben.jpg
+  Harliburg Burggraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Harliburg_Burggraben.jpg/400px-Harliburg_Burggraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Harliburg_Burggraben.jpg/800px-Harliburg_Burggraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Harliburg_Burggraben.jpg/1200px-Harliburg_Burggraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Harliburg_Burggraben.jpg/1920px-Harliburg_Burggraben.jpg
+  Heinrich Rosla, Herlingsberga, ed. Johann Heinrich Meibom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg/400px-Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg/800px-Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg/1200px-Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg/1920px-Heinrich_Rosla,_Herlingsberga,_ed._Johann_Heinrich_Meibom.jpg
+  Harliburg Schuchhardt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Harliburg_Schuchhardt.jpg/400px-Harliburg_Schuchhardt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Harliburg_Schuchhardt.jpg/800px-Harliburg_Schuchhardt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Harliburg_Schuchhardt.jpg/1200px-Harliburg_Schuchhardt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Harliburg_Schuchhardt.jpg/1920px-Harliburg_Schuchhardt.jpg
 ---
 
 ## Overview

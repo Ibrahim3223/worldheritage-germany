@@ -13,7 +13,7 @@ regions:
 latitude: 52.52203
 longitude: 13.39399
 images:
-  - "/images-sites/muenzkabinett-berlin/01-96956939-800w.webp"
+  - "/images/muenzkabinett-berlin/01-96956939-800w.webp"
 ---
 
 ## Overview

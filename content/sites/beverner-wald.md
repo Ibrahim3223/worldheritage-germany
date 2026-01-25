@@ -1,19 +1,25 @@
 ---
-title: "Beverner Wald"
+title: Beverner Wald
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.4408
 longitude: 9.21111
 images:
-  - "/images-sites/beverner-wald/01-7966bf55-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Beverner_Wald.jpg/1200px-Naturschutzgebiet_Beverner_Wald.jpg
+image_srcset:
+  Naturschutzgebiet Beverner Wald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Beverner_Wald.jpg/400px-Naturschutzgebiet_Beverner_Wald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Beverner_Wald.jpg/800px-Naturschutzgebiet_Beverner_Wald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Beverner_Wald.jpg/1200px-Naturschutzgebiet_Beverner_Wald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Naturschutzgebiet_Beverner_Wald.jpg/1920px-Naturschutzgebiet_Beverner_Wald.jpg
 ---
 
 ## Overview

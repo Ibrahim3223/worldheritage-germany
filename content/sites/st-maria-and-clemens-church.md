@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q322935"
 description: "In the heart of Beuel, Germany, lies St Maria and Clemens Church, a striking example of Romanesque architecture that captures the essence of historical ..."
 images:
-  - "/images-sites/st-maria-and-clemens-church/01-2efc8093-1920w.webp"
-  - "/images-sites/st-maria-and-clemens-church/02-f1d5c99c-1920w.webp"
-  - "/images-sites/st-maria-and-clemens-church/03-2c1494fa-1920w.webp"
+  - "/images/st-maria-and-clemens-church/01-2efc8093-1920w.webp"
+  - "/images/st-maria-and-clemens-church/02-f1d5c99c-1920w.webp"
+  - "/images/st-maria-and-clemens-church/03-2c1494fa-1920w.webp"
 ---
 
 ## Overview

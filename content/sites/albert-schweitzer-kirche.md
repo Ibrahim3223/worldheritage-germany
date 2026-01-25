@@ -1,20 +1,51 @@
 ---
-title: "Albert-Schweitzer-Kirche"
-site_name: "Albert-Schweitzer-Kirche"
-slug: "albert-schweitzer-kirche"
-region: "Baden-Württemberg"
-
-# Location
+title: Albert-Schweitzer-Kirche
+site_name: Albert-Schweitzer-Kirche
+slug: albert-schweitzer-kirche
+region: Baden-Württemberg
 latitude: 48.5405
 longitude: 9.0457
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1414592"
-description: "The Albert-Schweitzer-Kirche, a modern Lutheran church, stands as a striking example of contemporary architecture in Tübingen, Germany. Built in 1986, t..."
+- church building
+- religious site
+wikidata_id: Q1414592
+description: The Albert-Schweitzer-Kirche, a modern Lutheran church, stands as a striking
+  example of contemporary architecture in Tübingen, Germany. Built in 1986, t...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/1200px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
+image_srcset:
+  T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/400px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/800px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/1200px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg/1920px-T%C3%BCbingen.%20Albert-Schweitzer-Kirche%20von%20S%C3%BCdosten%202007.jpg
+  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Schrägansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Schrägansicht.JPG
+  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Dach innen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Dach_innen.JPG
+  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Altarraum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Altarraum.JPG
+  Albert-Schweitzer-Kirche (Berlin-Reinickendorf) Front.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/400px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/800px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/1200px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG/1920px-Albert-Schweitzer-Kirche_(Berlin-Reinickendorf)_Front.JPG
 ---
 
 ## Overview

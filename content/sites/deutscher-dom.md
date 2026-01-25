@@ -1,24 +1,52 @@
 ---
-title: "Deutscher Dom"
-site_name: "Deutscher Dom"
-slug: "deutscher-dom"
-region: "Berlin"
-
-# Location
+title: Deutscher Dom
+site_name: Deutscher Dom
+slug: deutscher-dom
+region: Berlin
 latitude: 52.512755555556
 longitude: 13.392505555556
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cathedral"
-  - "religious site"
-wikidata_id: "Q315644"
-description: "In the heart of Bezirk Mitte, Germany, the Deutscher Dom stands as an intriguing landmark, captivating visitors with its baroque revival architecture. F..."
+- cathedral
+- religious site
+wikidata_id: Q315644
+description: In the heart of Bezirk Mitte, Germany, the Deutscher Dom stands as an
+  intriguing landmark, captivating visitors with its baroque revival architecture.
+  F...
 images:
-  - "/images-sites/deutscher-dom/01-711ef1b8-1920w.webp"
-  - "/images-sites/deutscher-dom/02-1dea4f57-1920w.webp"
-  - "/images-sites/deutscher-dom/03-3c364725-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg/1200px-Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Deutscher_Dom_Berlin_2024-05-19_01.jpg/1200px-Deutscher_Dom_Berlin_2024-05-19_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg/1200px-Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mitte_-_Deutscher_Dom_-_20190405164044.jpg/1200px-Mitte_-_Deutscher_Dom_-_20190405164044.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg/1200px-Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg
+image_srcset:
+  Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg/400px-Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg/800px-Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg/1200px-Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg/1920px-Berlin%2C%20Mitte%2C%20Gendarmenmarkt%2C%20Deutscher%20Dom%2002.jpg
+  Deutscher Dom Berlin 2024-05-19 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Deutscher_Dom_Berlin_2024-05-19_01.jpg/400px-Deutscher_Dom_Berlin_2024-05-19_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Deutscher_Dom_Berlin_2024-05-19_01.jpg/800px-Deutscher_Dom_Berlin_2024-05-19_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Deutscher_Dom_Berlin_2024-05-19_01.jpg/1200px-Deutscher_Dom_Berlin_2024-05-19_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Deutscher_Dom_Berlin_2024-05-19_01.jpg/1920px-Deutscher_Dom_Berlin_2024-05-19_01.jpg
+  Deutscher Dom (Berlin-Mitte).Blick von Westen.4.09065016.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg/400px-Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg/800px-Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg/1200px-Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg/1920px-Deutscher_Dom_(Berlin-Mitte).Blick_von_Westen.4.09065016.ajb.jpg
+  Mitte - Deutscher Dom - 20190405164044.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mitte_-_Deutscher_Dom_-_20190405164044.jpg/400px-Mitte_-_Deutscher_Dom_-_20190405164044.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mitte_-_Deutscher_Dom_-_20190405164044.jpg/800px-Mitte_-_Deutscher_Dom_-_20190405164044.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mitte_-_Deutscher_Dom_-_20190405164044.jpg/1200px-Mitte_-_Deutscher_Dom_-_20190405164044.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mitte_-_Deutscher_Dom_-_20190405164044.jpg/1920px-Mitte_-_Deutscher_Dom_-_20190405164044.jpg
+  Catedral Alemana, Berlín, Alemania, 2016-04-22, DD 13-15 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg/400px-Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg/800px-Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg/1200px-Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg/1920px-Catedral_Alemana,_Berlín,_Alemania,_2016-04-22,_DD_13-15_HDR.jpg
 ---
 
 ## Overview

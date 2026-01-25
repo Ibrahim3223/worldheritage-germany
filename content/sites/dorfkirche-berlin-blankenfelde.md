@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Berlin-Blankenfelde"
-site_name: "Dorfkirche Berlin-Blankenfelde"
-slug: "dorfkirche-berlin-blankenfelde"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Berlin-Blankenfelde
+site_name: Dorfkirche Berlin-Blankenfelde
+slug: dorfkirche-berlin-blankenfelde
+region: Berlin
 latitude: 52.6189
 longitude: 13.3897
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244157"
-description: "Dorfkirche Berlin-Blankenfelde, a striking example of Gothic architecture, stands as a significant landmark in the Pankow district of Germany. Founded i..."
+- church building
+- religious site
+wikidata_id: Q1244157
+description: Dorfkirche Berlin-Blankenfelde, a striking example of Gothic architecture,
+  stands as a significant landmark in the Pankow district of Germany. Founded i...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dorfkirche%20Blankenfelde%20UW%20001.jpg/1200px-Dorfkirche%20Blankenfelde%20UW%20001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg/1200px-Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dorfkirche_Blankenfelde_UW_001.jpg/1200px-Dorfkirche_Blankenfelde_UW_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Berlin-Blankenfelde,_Dorfkirche_(02).jpg/1200px-Berlin-Blankenfelde,_Dorfkirche_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berlin-Blankenfelde,_Dorfkirche_(05).jpg/1200px-Berlin-Blankenfelde,_Dorfkirche_(05).jpg
+image_srcset:
+  Dorfkirche%20Blankenfelde%20UW%20001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dorfkirche%20Blankenfelde%20UW%20001.jpg/400px-Dorfkirche%20Blankenfelde%20UW%20001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dorfkirche%20Blankenfelde%20UW%20001.jpg/800px-Dorfkirche%20Blankenfelde%20UW%20001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dorfkirche%20Blankenfelde%20UW%20001.jpg/1200px-Dorfkirche%20Blankenfelde%20UW%20001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dorfkirche%20Blankenfelde%20UW%20001.jpg/1920px-Dorfkirche%20Blankenfelde%20UW%20001.jpg
+  Evangelische Dorfkirche Berlin-Blankenfelde (Pankow), Hauptstraße Ecke Schildower Straße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg/400px-Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg/800px-Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg/1200px-Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg/1920px-Evangelische_Dorfkirche_Berlin-Blankenfelde_(Pankow),_Hauptstraße_Ecke_Schildower_Straße.jpg
+  Dorfkirche Blankenfelde UW 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dorfkirche_Blankenfelde_UW_001.jpg/400px-Dorfkirche_Blankenfelde_UW_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dorfkirche_Blankenfelde_UW_001.jpg/800px-Dorfkirche_Blankenfelde_UW_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dorfkirche_Blankenfelde_UW_001.jpg/1200px-Dorfkirche_Blankenfelde_UW_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dorfkirche_Blankenfelde_UW_001.jpg/1920px-Dorfkirche_Blankenfelde_UW_001.jpg
+  Berlin-Blankenfelde, Dorfkirche (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Berlin-Blankenfelde,_Dorfkirche_(02).jpg/400px-Berlin-Blankenfelde,_Dorfkirche_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Berlin-Blankenfelde,_Dorfkirche_(02).jpg/800px-Berlin-Blankenfelde,_Dorfkirche_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Berlin-Blankenfelde,_Dorfkirche_(02).jpg/1200px-Berlin-Blankenfelde,_Dorfkirche_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Berlin-Blankenfelde,_Dorfkirche_(02).jpg/1920px-Berlin-Blankenfelde,_Dorfkirche_(02).jpg
+  Berlin-Blankenfelde, Dorfkirche (05).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berlin-Blankenfelde,_Dorfkirche_(05).jpg/400px-Berlin-Blankenfelde,_Dorfkirche_(05).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berlin-Blankenfelde,_Dorfkirche_(05).jpg/800px-Berlin-Blankenfelde,_Dorfkirche_(05).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berlin-Blankenfelde,_Dorfkirche_(05).jpg/1200px-Berlin-Blankenfelde,_Dorfkirche_(05).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Berlin-Blankenfelde,_Dorfkirche_(05).jpg/1920px-Berlin-Blankenfelde,_Dorfkirche_(05).jpg
 ---
 
 ## Overview

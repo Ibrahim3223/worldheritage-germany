@@ -13,7 +13,7 @@ regions:
 latitude: 48.401
 longitude: 9.99008
 images:
-  - "/images-sites/museum-der-brotkultur/01-d72dafab-800w.webp"
+  - "/images/museum-der-brotkultur/01-d72dafab-800w.webp"
 ---
 
 ## Overview

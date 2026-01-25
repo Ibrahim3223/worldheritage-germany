@@ -1,19 +1,37 @@
 ---
-title: "Category:Der Gefesselte (Den Opfern der Gewalt)"
+title: Category:Der Gefesselte (Den Opfern der Gewalt)
 date: 2026-01-23
 draft: false
-description: ""
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: ''
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3094028
 longitude: 9.4910889
 images:
-  - "/images-sites/categoryder-gefesselte-den-opfern-der-gewalt/01-7b8b9333-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG/1200px-Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vadim_Sidur_Kassel.jpg/1200px-Vadim_Sidur_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Denkmal_in_Kassel_Innenstadt.jpg/1200px-Denkmal_in_Kassel_Innenstadt.jpg
+image_srcset:
+  Kassel - Den Opfern der Gewalt 2022-07-08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG/400px-Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG/800px-Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG/1200px-Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG/1920px-Kassel_-_Den_Opfern_der_Gewalt_2022-07-08.JPG
+  Vadim Sidur Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vadim_Sidur_Kassel.jpg/400px-Vadim_Sidur_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vadim_Sidur_Kassel.jpg/800px-Vadim_Sidur_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vadim_Sidur_Kassel.jpg/1200px-Vadim_Sidur_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vadim_Sidur_Kassel.jpg/1920px-Vadim_Sidur_Kassel.jpg
+  Denkmal in Kassel Innenstadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Denkmal_in_Kassel_Innenstadt.jpg/400px-Denkmal_in_Kassel_Innenstadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Denkmal_in_Kassel_Innenstadt.jpg/800px-Denkmal_in_Kassel_Innenstadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Denkmal_in_Kassel_Innenstadt.jpg/1200px-Denkmal_in_Kassel_Innenstadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Denkmal_in_Kassel_Innenstadt.jpg/1920px-Denkmal_in_Kassel_Innenstadt.jpg
 ---
 
 ## Overview

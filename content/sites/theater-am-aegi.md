@@ -13,7 +13,7 @@ regions:
 latitude: 52.3677
 longitude: 9.74319
 images:
-  - "/images-sites/theater-am-aegi/01-534e11d4-800w.webp"
+  - "/images/theater-am-aegi/01-534e11d4-800w.webp"
 ---
 
 ## Overview

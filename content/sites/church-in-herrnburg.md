@@ -1,20 +1,52 @@
 ---
-title: "Church in Herrnburg"
-site_name: "Church in Herrnburg"
-slug: "church-in-herrnburg"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Herrnburg
+site_name: Church in Herrnburg
+slug: church-in-herrnburg
+region: Schleswig-Holstein
 latitude: 53.8342
 longitude: 10.7654
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q1244366"
-description: "Imagine stepping into a serene space where the echoes of centuries past resonate with each footfall. The Church in Herrnburg, located in the Lüdersdorf ..."
+- castle
+- fortification
+wikidata_id: Q1244366
+description: Imagine stepping into a serene space where the echoes of centuries past
+  resonate with each footfall. The Church in Herrnburg, located in the Lüdersdorf
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dorfkirche%20Herrnburg01.jpg/1200px-Dorfkirche%20Herrnburg01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Info_Dorfkirche_Herrnburg.jpg/1200px-Info_Dorfkirche_Herrnburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/1200px-Dorfkirche_Herrnburg01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kirche_herrnburg_mit_zollhaus.jpg/1200px-Kirche_herrnburg_mit_zollhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrenburg_Dorfkirche_v_O.jpg/1200px-Herrenburg_Dorfkirche_v_O.jpg
+image_srcset:
+  Dorfkirche%20Herrnburg01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dorfkirche%20Herrnburg01.jpg/400px-Dorfkirche%20Herrnburg01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dorfkirche%20Herrnburg01.jpg/800px-Dorfkirche%20Herrnburg01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dorfkirche%20Herrnburg01.jpg/1200px-Dorfkirche%20Herrnburg01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dorfkirche%20Herrnburg01.jpg/1920px-Dorfkirche%20Herrnburg01.jpg
+  Info Dorfkirche Herrnburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Info_Dorfkirche_Herrnburg.jpg/400px-Info_Dorfkirche_Herrnburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Info_Dorfkirche_Herrnburg.jpg/800px-Info_Dorfkirche_Herrnburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Info_Dorfkirche_Herrnburg.jpg/1200px-Info_Dorfkirche_Herrnburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Info_Dorfkirche_Herrnburg.jpg/1920px-Info_Dorfkirche_Herrnburg.jpg
+  Dorfkirche Herrnburg01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/400px-Dorfkirche_Herrnburg01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/800px-Dorfkirche_Herrnburg01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/1200px-Dorfkirche_Herrnburg01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dorfkirche_Herrnburg01.jpg/1920px-Dorfkirche_Herrnburg01.jpg
+  Kirche herrnburg mit zollhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kirche_herrnburg_mit_zollhaus.jpg/400px-Kirche_herrnburg_mit_zollhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kirche_herrnburg_mit_zollhaus.jpg/800px-Kirche_herrnburg_mit_zollhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kirche_herrnburg_mit_zollhaus.jpg/1200px-Kirche_herrnburg_mit_zollhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kirche_herrnburg_mit_zollhaus.jpg/1920px-Kirche_herrnburg_mit_zollhaus.jpg
+  Herrenburg Dorfkirche v O.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrenburg_Dorfkirche_v_O.jpg/400px-Herrenburg_Dorfkirche_v_O.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrenburg_Dorfkirche_v_O.jpg/800px-Herrenburg_Dorfkirche_v_O.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrenburg_Dorfkirche_v_O.jpg/1200px-Herrenburg_Dorfkirche_v_O.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Herrenburg_Dorfkirche_v_O.jpg/1920px-Herrenburg_Dorfkirche_v_O.jpg
 ---
 
 ## Overview

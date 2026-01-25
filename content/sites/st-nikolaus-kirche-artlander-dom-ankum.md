@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q713599"
 description: "In the heart of Ankum, Germany, the St.-Nikolaus-Kirche, also known as the Artländer Dom, stands as a striking example of Romanesque Revival architectur..."
 images:
-  - "/images-sites/st-nikolaus-kirche-artlander-dom-ankum/01-e1a9f066-1920w.webp"
-  - "/images-sites/st-nikolaus-kirche-artlander-dom-ankum/02-049128ed-1920w.webp"
-  - "/images-sites/st-nikolaus-kirche-artlander-dom-ankum/03-5841890c-1920w.webp"
+  - "/images/st-nikolaus-kirche-artlander-dom-ankum/01-e1a9f066-1920w.webp"
+  - "/images/st-nikolaus-kirche-artlander-dom-ankum/02-049128ed-1920w.webp"
+  - "/images/st-nikolaus-kirche-artlander-dom-ankum/03-5841890c-1920w.webp"
 ---
 
 ## Overview

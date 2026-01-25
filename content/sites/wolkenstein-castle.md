@@ -21,8 +21,8 @@ longitude: 11.24
 
 # Images
 images:
-  - "/images-sites/wolkenstein-castle/02-c32cee0c-800w.webp"
-  - "/images-sites/wolkenstein-castle/03-442ecf30-800w.webp"
+  - "/images/wolkenstein-castle/02-c32cee0c-800w.webp"
+  - "/images/wolkenstein-castle/03-442ecf30-800w.webp"
 ---
 
 ## Overview

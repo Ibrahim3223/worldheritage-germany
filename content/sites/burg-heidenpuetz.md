@@ -1,27 +1,49 @@
 ---
-title: "Burg Heidenpütz"
+title: Burg Heidenpütz
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2948
 longitude: 7.80152
-
-# Images
 images:
-  - "/images-sites/burg-heidenpuetz/01-546b1b16-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heidenpütz_006.JPG/1200px-Heidenpütz_006.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/1200px-Heidenpütz_029.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heidenpütz_054.JPG/1200px-Heidenpütz_054.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidenpütz_057.JPG/1200px-Heidenpütz_057.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Heidenpütz_-_Dritter_Abschnittswall.png/1200px-Heidenpütz_-_Dritter_Abschnittswall.png
+image_srcset:
+  Heidenpütz 006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heidenpütz_006.JPG/400px-Heidenpütz_006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heidenpütz_006.JPG/800px-Heidenpütz_006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heidenpütz_006.JPG/1200px-Heidenpütz_006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Heidenpütz_006.JPG/1920px-Heidenpütz_006.JPG
+  Heidenpütz 029.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/400px-Heidenpütz_029.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/800px-Heidenpütz_029.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/1200px-Heidenpütz_029.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidenpütz_029.JPG/1920px-Heidenpütz_029.JPG
+  Heidenpütz 054.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heidenpütz_054.JPG/400px-Heidenpütz_054.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heidenpütz_054.JPG/800px-Heidenpütz_054.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heidenpütz_054.JPG/1200px-Heidenpütz_054.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Heidenpütz_054.JPG/1920px-Heidenpütz_054.JPG
+  Heidenpütz 057.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidenpütz_057.JPG/400px-Heidenpütz_057.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidenpütz_057.JPG/800px-Heidenpütz_057.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidenpütz_057.JPG/1200px-Heidenpütz_057.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidenpütz_057.JPG/1920px-Heidenpütz_057.JPG
+  Heidenpütz - Dritter Abschnittswall.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Heidenpütz_-_Dritter_Abschnittswall.png/400px-Heidenpütz_-_Dritter_Abschnittswall.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Heidenpütz_-_Dritter_Abschnittswall.png/800px-Heidenpütz_-_Dritter_Abschnittswall.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Heidenpütz_-_Dritter_Abschnittswall.png/1200px-Heidenpütz_-_Dritter_Abschnittswall.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Heidenpütz_-_Dritter_Abschnittswall.png/1920px-Heidenpütz_-_Dritter_Abschnittswall.png
 ---
 
 ## Overview

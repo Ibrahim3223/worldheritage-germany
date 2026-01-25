@@ -1,19 +1,49 @@
 ---
-title: "Bärenbrunnen (Berlin)"
+title: Bärenbrunnen (Berlin)
 date: 2026-01-23
 draft: false
-description: "fountain at the Werderscher Markt in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain at the Werderscher Markt in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 52.515605
 longitude: 13.398068
 images:
-  - "/images-sites/baerenbrunnen-berlin/01-eb208849-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20220805_Bärenbrunnen_Berlin-Mitte.jpg/1200px-20220805_Bärenbrunnen_Berlin-Mitte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lederer,_Hugo_1928_Bären-Brunnen.jpg/1200px-Lederer,_Hugo_1928_Bären-Brunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bärenbrunnen_(Berlin-Mitte)_01.jpg/1200px-Bärenbrunnen_(Berlin-Mitte)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bärenskulptur.JPG/1200px-Bärenskulptur.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bärenbrunnen_(Berlin-Mitte)_02.jpg/1200px-Bärenbrunnen_(Berlin-Mitte)_02.jpg
+image_srcset:
+  20220805 Bärenbrunnen Berlin-Mitte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20220805_Bärenbrunnen_Berlin-Mitte.jpg/400px-20220805_Bärenbrunnen_Berlin-Mitte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20220805_Bärenbrunnen_Berlin-Mitte.jpg/800px-20220805_Bärenbrunnen_Berlin-Mitte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20220805_Bärenbrunnen_Berlin-Mitte.jpg/1200px-20220805_Bärenbrunnen_Berlin-Mitte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/20220805_Bärenbrunnen_Berlin-Mitte.jpg/1920px-20220805_Bärenbrunnen_Berlin-Mitte.jpg
+  Lederer, Hugo 1928 Bären-Brunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lederer,_Hugo_1928_Bären-Brunnen.jpg/400px-Lederer,_Hugo_1928_Bären-Brunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lederer,_Hugo_1928_Bären-Brunnen.jpg/800px-Lederer,_Hugo_1928_Bären-Brunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lederer,_Hugo_1928_Bären-Brunnen.jpg/1200px-Lederer,_Hugo_1928_Bären-Brunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lederer,_Hugo_1928_Bären-Brunnen.jpg/1920px-Lederer,_Hugo_1928_Bären-Brunnen.jpg
+  Bärenbrunnen (Berlin-Mitte) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bärenbrunnen_(Berlin-Mitte)_01.jpg/400px-Bärenbrunnen_(Berlin-Mitte)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bärenbrunnen_(Berlin-Mitte)_01.jpg/800px-Bärenbrunnen_(Berlin-Mitte)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bärenbrunnen_(Berlin-Mitte)_01.jpg/1200px-Bärenbrunnen_(Berlin-Mitte)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bärenbrunnen_(Berlin-Mitte)_01.jpg/1920px-Bärenbrunnen_(Berlin-Mitte)_01.jpg
+  Bärenskulptur.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bärenskulptur.JPG/400px-Bärenskulptur.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bärenskulptur.JPG/800px-Bärenskulptur.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bärenskulptur.JPG/1200px-Bärenskulptur.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bärenskulptur.JPG/1920px-Bärenskulptur.JPG
+  Bärenbrunnen (Berlin-Mitte) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bärenbrunnen_(Berlin-Mitte)_02.jpg/400px-Bärenbrunnen_(Berlin-Mitte)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bärenbrunnen_(Berlin-Mitte)_02.jpg/800px-Bärenbrunnen_(Berlin-Mitte)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bärenbrunnen_(Berlin-Mitte)_02.jpg/1200px-Bärenbrunnen_(Berlin-Mitte)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bärenbrunnen_(Berlin-Mitte)_02.jpg/1920px-Bärenbrunnen_(Berlin-Mitte)_02.jpg
 ---
 
 ## Overview

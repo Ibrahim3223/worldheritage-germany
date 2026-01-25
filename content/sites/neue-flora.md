@@ -13,9 +13,9 @@ regions:
 latitude: 53.5625
 longitude: 9.95027778
 images:
-  - "/images-sites/neue-flora/01-f0563819-800w.webp"
-  - "/images-sites/neue-flora/02-8e25c17a-800w.webp"
-  - "/images-sites/neue-flora/03-c9c7d98a-800w.webp"
+  - "/images/neue-flora/01-f0563819-800w.webp"
+  - "/images/neue-flora/02-8e25c17a-800w.webp"
+  - "/images/neue-flora/03-c9c7d98a-800w.webp"
 ---
 
 ## Overview

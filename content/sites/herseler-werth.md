@@ -1,19 +1,49 @@
 ---
-title: "Herseler Werth"
+title: Herseler Werth
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bornheim, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bornheim, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7778
 longitude: 7.04438
 images:
-  - "/images-sites/herseler-werth/01-0b54880e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Herseler_Werth_-_001.jpg/1200px-Herseler_Werth_-_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rheidt_-_001.jpg/1200px-Rheidt_-_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hersel_Rhein-Herseler_Werth_(02).jpg/1200px-Hersel_Rhein-Herseler_Werth_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herseler_Werth.jpg/1200px-Herseler_Werth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Uedorf_Rhein.jpg/1200px-Uedorf_Rhein.jpg
+image_srcset:
+  Herseler Werth - 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Herseler_Werth_-_001.jpg/400px-Herseler_Werth_-_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Herseler_Werth_-_001.jpg/800px-Herseler_Werth_-_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Herseler_Werth_-_001.jpg/1200px-Herseler_Werth_-_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Herseler_Werth_-_001.jpg/1920px-Herseler_Werth_-_001.jpg
+  Rheidt - 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rheidt_-_001.jpg/400px-Rheidt_-_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rheidt_-_001.jpg/800px-Rheidt_-_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rheidt_-_001.jpg/1200px-Rheidt_-_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rheidt_-_001.jpg/1920px-Rheidt_-_001.jpg
+  Hersel Rhein-Herseler Werth (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hersel_Rhein-Herseler_Werth_(02).jpg/400px-Hersel_Rhein-Herseler_Werth_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hersel_Rhein-Herseler_Werth_(02).jpg/800px-Hersel_Rhein-Herseler_Werth_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hersel_Rhein-Herseler_Werth_(02).jpg/1200px-Hersel_Rhein-Herseler_Werth_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hersel_Rhein-Herseler_Werth_(02).jpg/1920px-Hersel_Rhein-Herseler_Werth_(02).jpg
+  Herseler Werth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herseler_Werth.jpg/400px-Herseler_Werth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herseler_Werth.jpg/800px-Herseler_Werth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herseler_Werth.jpg/1200px-Herseler_Werth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Herseler_Werth.jpg/1920px-Herseler_Werth.jpg
+  Uedorf Rhein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Uedorf_Rhein.jpg/400px-Uedorf_Rhein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Uedorf_Rhein.jpg/800px-Uedorf_Rhein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Uedorf_Rhein.jpg/1200px-Uedorf_Rhein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Uedorf_Rhein.jpg/1920px-Uedorf_Rhein.jpg
 ---
 
 ## Overview

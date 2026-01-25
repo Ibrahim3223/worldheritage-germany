@@ -13,9 +13,9 @@ regions:
 latitude: 47.98484129
 longitude: 7.91179776
 images:
-  - "/images-sites/st-annes-chapel-freiburg-im-breisgau/01-c7c920cf-800w.webp"
-  - "/images-sites/st-annes-chapel-freiburg-im-breisgau/02-156ba91f-800w.webp"
-  - "/images-sites/st-annes-chapel-freiburg-im-breisgau/03-45ec2c05-800w.webp"
+  - "/images/st-annes-chapel-freiburg-im-breisgau/01-c7c920cf-800w.webp"
+  - "/images/st-annes-chapel-freiburg-im-breisgau/02-156ba91f-800w.webp"
+  - "/images/st-annes-chapel-freiburg-im-breisgau/03-45ec2c05-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2073480"
 description: "In the coastal town of Zingst, Germany, a remarkable structure rises against the backdrop of the serene Mecklenburg-Vorpommern landscape: the Peter-Paul..."
 images:
-  - "/images-sites/peter-pauls-kirche-zingst/01-8b6b737a-1920w.webp"
-  - "/images-sites/peter-pauls-kirche-zingst/02-d669a1a4-1920w.webp"
-  - "/images-sites/peter-pauls-kirche-zingst/03-84c88c24-1920w.webp"
+  - "/images/peter-pauls-kirche-zingst/01-8b6b737a-1920w.webp"
+  - "/images/peter-pauls-kirche-zingst/02-d669a1a4-1920w.webp"
+  - "/images/peter-pauls-kirche-zingst/03-84c88c24-1920w.webp"
 ---
 
 ## Overview

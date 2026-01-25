@@ -13,7 +13,7 @@ regions:
 latitude: 52.5119
 longitude: 13.375
 images:
-  - "/images-sites/lessing-monument/01-65521449-800w.webp"
+  - "/images/lessing-monument/01-65521449-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.973862789
 longitude: 9.146452027
 images:
-  - "/images-sites/stiftsmuseum-der-stadt-aschaffenburg/01-16a0fc95-800w.webp"
+  - "/images/stiftsmuseum-der-stadt-aschaffenburg/01-16a0fc95-800w.webp"
 ---
 
 ## Overview

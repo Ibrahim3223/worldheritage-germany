@@ -1,27 +1,49 @@
 ---
-title: "Burg Steinegg (Neuhausen)"
+title: Burg Steinegg (Neuhausen)
 date: 2026-01-23
 draft: false
-description: "castle in Enzkreis, Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Enzkreis, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.8152
 longitude: 8.7874
-
-# Images
 images:
-  - "/images-sites/burg-steinegg-neuhausen/01-a1d18095-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinegg_Kruzifix_Burgfriedhof.jpg/1200px-Steinegg_Kruzifix_Burgfriedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20140905_Neuhausen-Steinegg_004.jpg/1200px-20140905_Neuhausen-Steinegg_004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/20140905_Neuhausen-Steinegg_003.JPG/1200px-20140905_Neuhausen-Steinegg_003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20140905_Neuhausen-Steinegg_013.JPG/1200px-20140905_Neuhausen-Steinegg_013.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20140905_Neuhausen-Steinegg_016.JPG/1200px-20140905_Neuhausen-Steinegg_016.JPG
+image_srcset:
+  Steinegg Kruzifix Burgfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinegg_Kruzifix_Burgfriedhof.jpg/400px-Steinegg_Kruzifix_Burgfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinegg_Kruzifix_Burgfriedhof.jpg/800px-Steinegg_Kruzifix_Burgfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinegg_Kruzifix_Burgfriedhof.jpg/1200px-Steinegg_Kruzifix_Burgfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Steinegg_Kruzifix_Burgfriedhof.jpg/1920px-Steinegg_Kruzifix_Burgfriedhof.jpg
+  20140905 Neuhausen-Steinegg 004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20140905_Neuhausen-Steinegg_004.jpg/400px-20140905_Neuhausen-Steinegg_004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20140905_Neuhausen-Steinegg_004.jpg/800px-20140905_Neuhausen-Steinegg_004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20140905_Neuhausen-Steinegg_004.jpg/1200px-20140905_Neuhausen-Steinegg_004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20140905_Neuhausen-Steinegg_004.jpg/1920px-20140905_Neuhausen-Steinegg_004.jpg
+  20140905 Neuhausen-Steinegg 003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/20140905_Neuhausen-Steinegg_003.JPG/400px-20140905_Neuhausen-Steinegg_003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/20140905_Neuhausen-Steinegg_003.JPG/800px-20140905_Neuhausen-Steinegg_003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/20140905_Neuhausen-Steinegg_003.JPG/1200px-20140905_Neuhausen-Steinegg_003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/20140905_Neuhausen-Steinegg_003.JPG/1920px-20140905_Neuhausen-Steinegg_003.JPG
+  20140905 Neuhausen-Steinegg 013.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20140905_Neuhausen-Steinegg_013.JPG/400px-20140905_Neuhausen-Steinegg_013.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20140905_Neuhausen-Steinegg_013.JPG/800px-20140905_Neuhausen-Steinegg_013.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20140905_Neuhausen-Steinegg_013.JPG/1200px-20140905_Neuhausen-Steinegg_013.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20140905_Neuhausen-Steinegg_013.JPG/1920px-20140905_Neuhausen-Steinegg_013.JPG
+  20140905 Neuhausen-Steinegg 016.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20140905_Neuhausen-Steinegg_016.JPG/400px-20140905_Neuhausen-Steinegg_016.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20140905_Neuhausen-Steinegg_016.JPG/800px-20140905_Neuhausen-Steinegg_016.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20140905_Neuhausen-Steinegg_016.JPG/1200px-20140905_Neuhausen-Steinegg_016.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20140905_Neuhausen-Steinegg_016.JPG/1920px-20140905_Neuhausen-Steinegg_016.JPG
 ---
 
 ## Overview 

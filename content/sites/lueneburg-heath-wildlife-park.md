@@ -13,7 +13,7 @@ regions:
 latitude: 53.2367
 longitude: 10.0443
 images:
-  - "/images-sites/lueneburg-heath-wildlife-park/01-d198dcdb-800w.webp"
+  - "/images/lueneburg-heath-wildlife-park/01-d198dcdb-800w.webp"
 ---
 
 ## Overview

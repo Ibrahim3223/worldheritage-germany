@@ -1,27 +1,49 @@
 ---
-title: "Altleiningen Castle"
+title: Altleiningen Castle
 date: 2026-01-23
 draft: false
-description: "castle in Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5116
 longitude: 8.08253
-
-# Images
 images:
-  - "/images-sites/altleiningen-castle/01-fb2152a4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Altleiningen_(19).jpg/1200px-Altleiningen_(19).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_image_of_the_Altleiningen_Castle.jpg/1200px-Aerial_image_of_the_Altleiningen_Castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Altleiningen_Jugendherberge.JPG/1200px-Burg_Altleiningen_Jugendherberge.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Altleiningen_04.JPG/1200px-Burg_Altleiningen_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Burg_Altleiningen_08.JPG/1200px-Burg_Altleiningen_08.JPG
+image_srcset:
+  Altleiningen (19).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Altleiningen_(19).jpg/400px-Altleiningen_(19).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Altleiningen_(19).jpg/800px-Altleiningen_(19).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Altleiningen_(19).jpg/1200px-Altleiningen_(19).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Altleiningen_(19).jpg/1920px-Altleiningen_(19).jpg
+  Aerial image of the Altleiningen Castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_image_of_the_Altleiningen_Castle.jpg/400px-Aerial_image_of_the_Altleiningen_Castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_image_of_the_Altleiningen_Castle.jpg/800px-Aerial_image_of_the_Altleiningen_Castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_image_of_the_Altleiningen_Castle.jpg/1200px-Aerial_image_of_the_Altleiningen_Castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aerial_image_of_the_Altleiningen_Castle.jpg/1920px-Aerial_image_of_the_Altleiningen_Castle.jpg
+  Burg Altleiningen Jugendherberge.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Altleiningen_Jugendherberge.JPG/400px-Burg_Altleiningen_Jugendherberge.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Altleiningen_Jugendherberge.JPG/800px-Burg_Altleiningen_Jugendherberge.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Altleiningen_Jugendherberge.JPG/1200px-Burg_Altleiningen_Jugendherberge.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Altleiningen_Jugendherberge.JPG/1920px-Burg_Altleiningen_Jugendherberge.JPG
+  Burg Altleiningen 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Altleiningen_04.JPG/400px-Burg_Altleiningen_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Altleiningen_04.JPG/800px-Burg_Altleiningen_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Altleiningen_04.JPG/1200px-Burg_Altleiningen_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Altleiningen_04.JPG/1920px-Burg_Altleiningen_04.JPG
+  Burg Altleiningen 08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Burg_Altleiningen_08.JPG/400px-Burg_Altleiningen_08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Burg_Altleiningen_08.JPG/800px-Burg_Altleiningen_08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Burg_Altleiningen_08.JPG/1200px-Burg_Altleiningen_08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Burg_Altleiningen_08.JPG/1920px-Burg_Altleiningen_08.JPG
 ---
 
 ## Overview

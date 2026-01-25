@@ -1,19 +1,49 @@
 ---
-title: "Carl-Maria-von-Weber-Museum"
+title: Carl-Maria-von-Weber-Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0168
 longitude: 13.8645
 images:
-  - "/images-sites/carl-maria-von-weber-museum/01-084e639d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carlmariavonwebermuseum_dresden1.jpg/1200px-Carlmariavonwebermuseum_dresden1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/1200px-Carlmariavonwebermuseum_dresden2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1200px-20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1200px-20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1200px-20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+image_srcset:
+  Carlmariavonwebermuseum dresden1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carlmariavonwebermuseum_dresden1.jpg/400px-Carlmariavonwebermuseum_dresden1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carlmariavonwebermuseum_dresden1.jpg/800px-Carlmariavonwebermuseum_dresden1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carlmariavonwebermuseum_dresden1.jpg/1200px-Carlmariavonwebermuseum_dresden1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carlmariavonwebermuseum_dresden1.jpg/1920px-Carlmariavonwebermuseum_dresden1.jpg
+  Carlmariavonwebermuseum dresden2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/400px-Carlmariavonwebermuseum_dresden2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/800px-Carlmariavonwebermuseum_dresden2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/1200px-Carlmariavonwebermuseum_dresden2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Carlmariavonwebermuseum_dresden2.jpg/1920px-Carlmariavonwebermuseum_dresden2.jpg
+  20121102080DR Dresden-Hosterwitz Carl-Maria-von-Weber Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/400px-20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/800px-20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1200px-20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1920px-20121102080DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+  20121102075DR Dresden-Hosterwitz Carl-Maria-von-Weber Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/400px-20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/800px-20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1200px-20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1920px-20121102075DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+  20121102070DR Dresden-Hosterwitz Carl-Maria-von-Weber Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/400px-20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/800px-20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1200px-20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg/1920px-20121102070DR_Dresden-Hosterwitz_Carl-Maria-von-Weber_Museum.jpg
 ---
 
 ## Overview

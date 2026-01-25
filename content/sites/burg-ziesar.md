@@ -1,27 +1,49 @@
 ---
-title: "Burg Ziesar"
+title: Burg Ziesar
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.2626
 longitude: 12.2868
-
-# Images
 images:
-  - "/images-sites/burg-ziesar/01-b26beb78-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ziesar5_DSC0836.JPG/1200px-Ziesar5_DSC0836.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Ziesar_Luftbild.jpg/1200px-Burg_Ziesar_Luftbild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Ziesar_im_Luftbild_2.jpg/1200px-Burg_Ziesar_im_Luftbild_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ziesar-Burgkapelle-1.jpg/1200px-Ziesar-Burgkapelle-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_ziesar_von_osten.JPG/1200px-Burg_ziesar_von_osten.JPG
+image_srcset:
+  Ziesar5 DSC0836.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ziesar5_DSC0836.JPG/400px-Ziesar5_DSC0836.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ziesar5_DSC0836.JPG/800px-Ziesar5_DSC0836.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ziesar5_DSC0836.JPG/1200px-Ziesar5_DSC0836.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ziesar5_DSC0836.JPG/1920px-Ziesar5_DSC0836.JPG
+  Burg Ziesar Luftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Ziesar_Luftbild.jpg/400px-Burg_Ziesar_Luftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Ziesar_Luftbild.jpg/800px-Burg_Ziesar_Luftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Ziesar_Luftbild.jpg/1200px-Burg_Ziesar_Luftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burg_Ziesar_Luftbild.jpg/1920px-Burg_Ziesar_Luftbild.jpg
+  Burg Ziesar im Luftbild 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Ziesar_im_Luftbild_2.jpg/400px-Burg_Ziesar_im_Luftbild_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Ziesar_im_Luftbild_2.jpg/800px-Burg_Ziesar_im_Luftbild_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Ziesar_im_Luftbild_2.jpg/1200px-Burg_Ziesar_im_Luftbild_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Ziesar_im_Luftbild_2.jpg/1920px-Burg_Ziesar_im_Luftbild_2.jpg
+  Ziesar-Burgkapelle-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ziesar-Burgkapelle-1.jpg/400px-Ziesar-Burgkapelle-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ziesar-Burgkapelle-1.jpg/800px-Ziesar-Burgkapelle-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ziesar-Burgkapelle-1.jpg/1200px-Ziesar-Burgkapelle-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ziesar-Burgkapelle-1.jpg/1920px-Ziesar-Burgkapelle-1.jpg
+  Burg ziesar von osten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_ziesar_von_osten.JPG/400px-Burg_ziesar_von_osten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_ziesar_von_osten.JPG/800px-Burg_ziesar_von_osten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_ziesar_von_osten.JPG/1200px-Burg_ziesar_von_osten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Burg_ziesar_von_osten.JPG/1920px-Burg_ziesar_von_osten.JPG
 ---
 
 ## Overview

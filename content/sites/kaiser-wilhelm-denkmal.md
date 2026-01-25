@@ -1,19 +1,49 @@
 ---
-title: "Kaiser-Wilhelm-Denkmal"
+title: Kaiser-Wilhelm-Denkmal
 date: 2026-01-23
 draft: false
-description: "monument in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2241
 longitude: 6.7818
 images:
-  - "/images-sites/kaiser-wilhelm-denkmal/01-bfc8af02-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg/1200px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg/1200px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg/1200px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_2065_Deutsches_Eck_-_Denkmal.jpg/1200px-00_2065_Deutsches_Eck_-_Denkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg/1200px-Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg
+image_srcset:
+  Kaiser-Wilhelm-I.-Denkmal Reutlingen 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg/400px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg/800px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg/1200px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg/1920px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_02.jpg
+  Kaiser-Wilhelm-I.-Denkmal Reutlingen 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg/400px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg/800px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg/1200px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg/1920px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_06.jpg
+  Kaiser-Wilhelm-I.-Denkmal Reutlingen 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg/400px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg/800px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg/1200px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg/1920px-Kaiser-Wilhelm-I.-Denkmal_Reutlingen_08.jpg
+  00 2065 Deutsches Eck - Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_2065_Deutsches_Eck_-_Denkmal.jpg/400px-00_2065_Deutsches_Eck_-_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_2065_Deutsches_Eck_-_Denkmal.jpg/800px-00_2065_Deutsches_Eck_-_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_2065_Deutsches_Eck_-_Denkmal.jpg/1200px-00_2065_Deutsches_Eck_-_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_2065_Deutsches_Eck_-_Denkmal.jpg/1920px-00_2065_Deutsches_Eck_-_Denkmal.jpg
+  Imhoffhaus auf einem Modell im Stadtmuseum Fembohaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg/400px-Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg/800px-Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg/1200px-Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg/1920px-Imhoffhaus_auf_einem_Modell_im_Stadtmuseum_Fembohaus.jpg
 ---
 
 ## Overview

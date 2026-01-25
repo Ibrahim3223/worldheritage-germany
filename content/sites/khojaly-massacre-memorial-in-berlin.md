@@ -13,9 +13,9 @@ regions:
 latitude: 52.4321
 longitude: 13.255
 images:
-  - "/images-sites/khojaly-massacre-memorial-in-berlin/01-00d12288-800w.webp"
-  - "/images-sites/khojaly-massacre-memorial-in-berlin/02-d236a6f4-800w.webp"
-  - "/images-sites/khojaly-massacre-memorial-in-berlin/03-34fae319-800w.webp"
+  - "/images/khojaly-massacre-memorial-in-berlin/01-00d12288-800w.webp"
+  - "/images/khojaly-massacre-memorial-in-berlin/02-d236a6f4-800w.webp"
+  - "/images/khojaly-massacre-memorial-in-berlin/03-34fae319-800w.webp"
 ---
 
 ## Overview

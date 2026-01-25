@@ -1,27 +1,43 @@
 ---
-title: "Burg Neipperg"
+title: Burg Neipperg
 date: 2026-01-23
 draft: false
-description: "castle in Brackenheim, Heilbronn district, Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Brackenheim, Heilbronn district, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.1045
 longitude: 9.05143
-
-# Images
 images:
-  - "/images-sites/burg-neipperg/01-212fa0f7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg/1200px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg/1200px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Neipperg_Wehrturm.jpg/1200px-Burg_Neipperg_Wehrturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Burgneipperg-wappensteine.jpg/1200px-Burgneipperg-wappensteine.jpg
+image_srcset:
+  Brackenheim - Neipperg - Burg - Ansicht von Süden im Herbst (RQCD9007).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg/400px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg/800px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg/1200px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg/1920px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_Süden_im_Herbst_(RQCD9007).jpg
+  Brackenheim - Neipperg - Burg - Ansicht von SW mit buntem Herbstlaub 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg/400px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg/800px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg/1200px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg/1920px-Brackenheim_-_Neipperg_-_Burg_-_Ansicht_von_SW_mit_buntem_Herbstlaub_1.jpg
+  Burg Neipperg Wehrturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Neipperg_Wehrturm.jpg/400px-Burg_Neipperg_Wehrturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Neipperg_Wehrturm.jpg/800px-Burg_Neipperg_Wehrturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Neipperg_Wehrturm.jpg/1200px-Burg_Neipperg_Wehrturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Neipperg_Wehrturm.jpg/1920px-Burg_Neipperg_Wehrturm.jpg
+  Burgneipperg-wappensteine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Burgneipperg-wappensteine.jpg/400px-Burgneipperg-wappensteine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Burgneipperg-wappensteine.jpg/800px-Burgneipperg-wappensteine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Burgneipperg-wappensteine.jpg/1200px-Burgneipperg-wappensteine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Burgneipperg-wappensteine.jpg/1920px-Burgneipperg-wappensteine.jpg
 ---
 
 ## Overview

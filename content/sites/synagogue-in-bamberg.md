@@ -13,7 +13,7 @@ regions:
 latitude: 49.89
 longitude: 10.8964
 images:
-  - "/images-sites/synagogue-in-bamberg/01-b9bc90c9-800w.webp"
+  - "/images/synagogue-in-bamberg/01-b9bc90c9-800w.webp"
 ---
 
 ## Overview

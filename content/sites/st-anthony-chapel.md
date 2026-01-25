@@ -13,7 +13,7 @@ regions:
 latitude: 50.728
 longitude: 6.18827
 images:
-  - "/images-sites/st-anthony-chapel/01-48b33ba9-800w.webp"
+  - "/images/st-anthony-chapel/01-48b33ba9-800w.webp"
 ---
 
 ## Overview

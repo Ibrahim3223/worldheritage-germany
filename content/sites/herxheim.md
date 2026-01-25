@@ -1,27 +1,49 @@
 ---
-title: "Herxheim"
+title: Herxheim
 date: 2026-01-23
 draft: false
-description: "located in the town"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: located in the town
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.146944
 longitude: 8.22
-
-# Images
 images:
-  - "/images-sites/herxheim/01-68253bc5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg/1200px-2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg/1200px-2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Buergerbrunnen-10.JPG/1200px-Buergerbrunnen-10.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Herxheimer-Museum-1.JPG/1200px-Herxheimer-Museum-1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg/1200px-Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg
+image_srcset:
+  2025-08-17 D500-0346 Achim-Lammerts Herxheim-St-Paulus-Stift-Gebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg/400px-2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg/800px-2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg/1200px-2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg/1920px-2025-08-17_D500-0346_Achim-Lammerts_Herxheim-St-Paulus-Stift-Gebäude.jpg
+  2025-08-17 D500-0347 Achim-Lammerts Herxheim-Jüdischer-Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg/400px-2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg/800px-2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg/1200px-2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg/1920px-2025-08-17_D500-0347_Achim-Lammerts_Herxheim-Jüdischer-Friedhof.jpg
+  Buergerbrunnen-10.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Buergerbrunnen-10.JPG/400px-Buergerbrunnen-10.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Buergerbrunnen-10.JPG/800px-Buergerbrunnen-10.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Buergerbrunnen-10.JPG/1200px-Buergerbrunnen-10.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Buergerbrunnen-10.JPG/1920px-Buergerbrunnen-10.JPG
+  Herxheimer-Museum-1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Herxheimer-Museum-1.JPG/400px-Herxheimer-Museum-1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Herxheimer-Museum-1.JPG/800px-Herxheimer-Museum-1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Herxheimer-Museum-1.JPG/1200px-Herxheimer-Museum-1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Herxheimer-Museum-1.JPG/1920px-Herxheimer-Museum-1.JPG
+  Herxheim am Berg Archeology Spitzaxt Perforated hammer 063.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg/400px-Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg/800px-Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg/1200px-Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg/1920px-Herxheim_am_Berg_Archeology_Spitzaxt_Perforated_hammer_063.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 52.3987
 longitude: 13.0654
 images:
-  - "/images-sites/koenigliches-schauspielhaus/02-f0175d88-800w.webp"
-  - "/images-sites/koenigliches-schauspielhaus/03-bfcefd20-800w.webp"
+  - "/images/koenigliches-schauspielhaus/02-f0175d88-800w.webp"
+  - "/images/koenigliches-schauspielhaus/03-bfcefd20-800w.webp"
 ---
 
 ## Overview

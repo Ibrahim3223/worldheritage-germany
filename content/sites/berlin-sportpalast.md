@@ -1,19 +1,49 @@
 ---
-title: "Berlin Sportpalast"
+title: Berlin Sportpalast
 date: 2026-01-23
 draft: false
-description: "former multi-purpose arena in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: former multi-purpose arena in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.494722222
 longitude: 13.359166666
 images:
-  - "/images-sites/berlin-sportpalast/01-27d1d1ba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1200px-F_13610.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Sportpalast_Postkarte_001.jpg/1200px-Berlin_Sportpalast_Postkarte_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Sportpalast_081613.jpg/1200px-Berlin_Sportpalast_081613.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sportpalast_speech,_18_February_1943,_colorized.png/1200px-Sportpalast_speech,_18_February_1943,_colorized.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG/1200px-Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG
+image_srcset:
+  F 13610.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/400px-F_13610.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/800px-F_13610.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1200px-F_13610.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/F_13610.jpg/1920px-F_13610.jpg
+  Berlin Sportpalast Postkarte 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Sportpalast_Postkarte_001.jpg/400px-Berlin_Sportpalast_Postkarte_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Sportpalast_Postkarte_001.jpg/800px-Berlin_Sportpalast_Postkarte_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Sportpalast_Postkarte_001.jpg/1200px-Berlin_Sportpalast_Postkarte_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Berlin_Sportpalast_Postkarte_001.jpg/1920px-Berlin_Sportpalast_Postkarte_001.jpg
+  Berlin Sportpalast 081613.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Sportpalast_081613.jpg/400px-Berlin_Sportpalast_081613.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Sportpalast_081613.jpg/800px-Berlin_Sportpalast_081613.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Sportpalast_081613.jpg/1200px-Berlin_Sportpalast_081613.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin_Sportpalast_081613.jpg/1920px-Berlin_Sportpalast_081613.jpg
+  Sportpalast speech, 18 February 1943, colorized.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sportpalast_speech,_18_February_1943,_colorized.png/400px-Sportpalast_speech,_18_February_1943,_colorized.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sportpalast_speech,_18_February_1943,_colorized.png/800px-Sportpalast_speech,_18_February_1943,_colorized.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sportpalast_speech,_18_February_1943,_colorized.png/1200px-Sportpalast_speech,_18_February_1943,_colorized.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sportpalast_speech,_18_February_1943,_colorized.png/1920px-Sportpalast_speech,_18_February_1943,_colorized.png
+  Gedenktafel Potsdamer Str 172 (Schöb) Sportpalast cropped.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG/400px-Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG/800px-Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG/1200px-Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG/1920px-Gedenktafel_Potsdamer_Str_172_(Schöb)_Sportpalast_cropped.JPG
 ---
 
 ## Overview

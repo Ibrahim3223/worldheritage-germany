@@ -1,24 +1,51 @@
 ---
-title: "Brüderkirche"
-site_name: "Brüderkirche"
-slug: "bruderkirche"
-region: "Saxony"
-
-# Location
+title: Brüderkirche
+site_name: Brüderkirche
+slug: bruderkirche
+region: Saxony
 latitude: 50.985271999999995
 longitude: 12.430168237091312
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q996759"
-description: "In the heart of Altenburg, Germany, stands the Brüderkirche, a striking example of Gothic Revival architecture. This church, with its intricate brickwor..."
+- church building
+- religious site
+wikidata_id: Q996759
+description: In the heart of Altenburg, Germany, stands the Brüderkirche, a striking
+  example of Gothic Revival architecture. This church, with its intricate brickwor...
 images:
-  - "/images-sites/bruderkirche/01-46b0d86f-1920w.webp"
-  - "/images-sites/bruderkirche/02-5b26c572-1920w.webp"
-  - "/images-sites/bruderkirche/03-04aaabd6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Altenburg%20Br%C3%BCderkirche.JPG/1200px-Altenburg%20Br%C3%BCderkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brüderkirche_Altenburg_2023_005.jpg/1200px-Brüderkirche_Altenburg_2023_005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1200px-Altenburg_Brüderkirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brüderkirche_Altenburg_2023_009.jpg/1200px-Brüderkirche_Altenburg_2023_009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Brüderkirche_Altenburg_2023_002.jpg/1200px-Brüderkirche_Altenburg_2023_002.jpg
+image_srcset:
+  Altenburg%20Br%C3%BCderkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Altenburg%20Br%C3%BCderkirche.JPG/400px-Altenburg%20Br%C3%BCderkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Altenburg%20Br%C3%BCderkirche.JPG/800px-Altenburg%20Br%C3%BCderkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Altenburg%20Br%C3%BCderkirche.JPG/1200px-Altenburg%20Br%C3%BCderkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Altenburg%20Br%C3%BCderkirche.JPG/1920px-Altenburg%20Br%C3%BCderkirche.JPG
+  Brüderkirche Altenburg 2023 005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brüderkirche_Altenburg_2023_005.jpg/400px-Brüderkirche_Altenburg_2023_005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brüderkirche_Altenburg_2023_005.jpg/800px-Brüderkirche_Altenburg_2023_005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brüderkirche_Altenburg_2023_005.jpg/1200px-Brüderkirche_Altenburg_2023_005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brüderkirche_Altenburg_2023_005.jpg/1920px-Brüderkirche_Altenburg_2023_005.jpg
+  Altenburg Brüderkirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/400px-Altenburg_Brüderkirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/800px-Altenburg_Brüderkirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1200px-Altenburg_Brüderkirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Altenburg_Brüderkirche.JPG/1920px-Altenburg_Brüderkirche.JPG
+  Brüderkirche Altenburg 2023 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brüderkirche_Altenburg_2023_009.jpg/400px-Brüderkirche_Altenburg_2023_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brüderkirche_Altenburg_2023_009.jpg/800px-Brüderkirche_Altenburg_2023_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brüderkirche_Altenburg_2023_009.jpg/1200px-Brüderkirche_Altenburg_2023_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brüderkirche_Altenburg_2023_009.jpg/1920px-Brüderkirche_Altenburg_2023_009.jpg
+  Brüderkirche Altenburg 2023 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Brüderkirche_Altenburg_2023_002.jpg/400px-Brüderkirche_Altenburg_2023_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Brüderkirche_Altenburg_2023_002.jpg/800px-Brüderkirche_Altenburg_2023_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Brüderkirche_Altenburg_2023_002.jpg/1200px-Brüderkirche_Altenburg_2023_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Brüderkirche_Altenburg_2023_002.jpg/1920px-Brüderkirche_Altenburg_2023_002.jpg
 ---
 
 ## Overview

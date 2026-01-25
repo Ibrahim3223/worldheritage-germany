@@ -1,19 +1,49 @@
 ---
-title: "Braunschweig Main Cemetery"
+title: Braunschweig Main Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Brunswick, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Brunswick, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2556
 longitude: 10.5565
 images:
-  - "/images-sites/braunschweig-main-cemetery/01-54395f43-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG/1200px-Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG/1200px-Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grabstätte_Paul_Trautmanns.JPG/1200px-Grabstätte_Paul_Trautmanns.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg/1200px-Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hauptfriedhof_Braunschweig.png/1200px-Hauptfriedhof_Braunschweig.png
+image_srcset:
+  Bockler Erich Grab Braunschweig-Hauptfriedhof Brunswyk (2014).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG/400px-Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG/800px-Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG/1200px-Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG/1920px-Bockler_Erich_Grab_Braunschweig-Hauptfriedhof_Brunswyk_(2014).JPG
+  Braunschweig Hauptfriedhof Kapelleneingang Sueden (Brunswyk 2014).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG/400px-Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG/800px-Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG/1200px-Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG/1920px-Braunschweig_Hauptfriedhof_Kapelleneingang_Sueden_(Brunswyk_2014).JPG
+  Grabstätte Paul Trautmanns.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grabstätte_Paul_Trautmanns.JPG/400px-Grabstätte_Paul_Trautmanns.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grabstätte_Paul_Trautmanns.JPG/800px-Grabstätte_Paul_Trautmanns.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grabstätte_Paul_Trautmanns.JPG/1200px-Grabstätte_Paul_Trautmanns.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grabstätte_Paul_Trautmanns.JPG/1920px-Grabstätte_Paul_Trautmanns.JPG
+  Ludwig Winter-Grabmal auf dem Hauptfriedhof Braunschweig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg/400px-Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg/800px-Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg/1200px-Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg/1920px-Ludwig_Winter-Grabmal_auf_dem_Hauptfriedhof_Braunschweig.jpg
+  Hauptfriedhof Braunschweig.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hauptfriedhof_Braunschweig.png/400px-Hauptfriedhof_Braunschweig.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hauptfriedhof_Braunschweig.png/800px-Hauptfriedhof_Braunschweig.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hauptfriedhof_Braunschweig.png/1200px-Hauptfriedhof_Braunschweig.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hauptfriedhof_Braunschweig.png/1920px-Hauptfriedhof_Braunschweig.png
 ---
 
 ## Overview

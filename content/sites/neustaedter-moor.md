@@ -13,7 +13,7 @@ regions:
 latitude: 52.565555555
 longitude: 8.656388888
 images:
-  - "/images-sites/neustaedter-moor/01-b66dfb24-800w.webp"
+  - "/images/neustaedter-moor/01-b66dfb24-800w.webp"
 ---
 
 ## Overview

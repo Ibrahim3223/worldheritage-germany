@@ -1,19 +1,49 @@
 ---
-title: "Einsteinhaus Caputh"
+title: Einsteinhaus Caputh
 date: 2026-01-23
 draft: false
-description: "from 1929 to 1932 house of Albert Einstein"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: from 1929 to 1932 house of Albert Einstein
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.35
 longitude: 13.0141
 images:
-  - "/images-sites/einsteinhaus-caputh/01-ffc04d12-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schwielowsee_4981.jpg/1200px-Schwielowsee_4981.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1200px-Albert_Einstein_home_Berlin_100.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Einsteinhaus_Caputh_2015_03.JPG/1200px-Einsteinhaus_Caputh_2015_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Einsteinhaus_Caputh_2015_05.JPG/1200px-Einsteinhaus_Caputh_2015_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einsteinhaus_vom_Wald_mit_Terasse.jpg/1200px-Einsteinhaus_vom_Wald_mit_Terasse.jpg
+image_srcset:
+  Schwielowsee 4981.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schwielowsee_4981.jpg/400px-Schwielowsee_4981.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schwielowsee_4981.jpg/800px-Schwielowsee_4981.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schwielowsee_4981.jpg/1200px-Schwielowsee_4981.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schwielowsee_4981.jpg/1920px-Schwielowsee_4981.jpg
+  Albert Einstein home Berlin 100.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/400px-Albert_Einstein_home_Berlin_100.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/800px-Albert_Einstein_home_Berlin_100.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1200px-Albert_Einstein_home_Berlin_100.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Albert_Einstein_home_Berlin_100.JPG/1920px-Albert_Einstein_home_Berlin_100.JPG
+  Einsteinhaus Caputh 2015 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Einsteinhaus_Caputh_2015_03.JPG/400px-Einsteinhaus_Caputh_2015_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Einsteinhaus_Caputh_2015_03.JPG/800px-Einsteinhaus_Caputh_2015_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Einsteinhaus_Caputh_2015_03.JPG/1200px-Einsteinhaus_Caputh_2015_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Einsteinhaus_Caputh_2015_03.JPG/1920px-Einsteinhaus_Caputh_2015_03.JPG
+  Einsteinhaus Caputh 2015 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Einsteinhaus_Caputh_2015_05.JPG/400px-Einsteinhaus_Caputh_2015_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Einsteinhaus_Caputh_2015_05.JPG/800px-Einsteinhaus_Caputh_2015_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Einsteinhaus_Caputh_2015_05.JPG/1200px-Einsteinhaus_Caputh_2015_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Einsteinhaus_Caputh_2015_05.JPG/1920px-Einsteinhaus_Caputh_2015_05.JPG
+  Einsteinhaus vom Wald mit Terasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einsteinhaus_vom_Wald_mit_Terasse.jpg/400px-Einsteinhaus_vom_Wald_mit_Terasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einsteinhaus_vom_Wald_mit_Terasse.jpg/800px-Einsteinhaus_vom_Wald_mit_Terasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einsteinhaus_vom_Wald_mit_Terasse.jpg/1200px-Einsteinhaus_vom_Wald_mit_Terasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Einsteinhaus_vom_Wald_mit_Terasse.jpg/1920px-Einsteinhaus_vom_Wald_mit_Terasse.jpg
 ---
 
 ## Overview

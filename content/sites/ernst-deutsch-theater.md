@@ -1,19 +1,49 @@
 ---
-title: "Ernst Deutsch Theater"
+title: Ernst Deutsch Theater
 date: 2026-01-23
 draft: false
-description: "theatre and former cinema in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: theatre and former cinema in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 53.56932222
 longitude: 10.026275
 images:
-  - "/images-sites/ernst-deutsch-theater/01-aa724482-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ernst_Deutsch_Theater_-_panoramio.jpg/1200px-Ernst_Deutsch_Theater_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG/1200px-Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG/1200px-Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1200px-ErnstDeutschTheatre01.SW.20040501.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LohmannVahldieck.jpg/1200px-LohmannVahldieck.jpg
+image_srcset:
+  Ernst Deutsch Theater - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ernst_Deutsch_Theater_-_panoramio.jpg/400px-Ernst_Deutsch_Theater_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ernst_Deutsch_Theater_-_panoramio.jpg/800px-Ernst_Deutsch_Theater_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ernst_Deutsch_Theater_-_panoramio.jpg/1200px-Ernst_Deutsch_Theater_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ernst_Deutsch_Theater_-_panoramio.jpg/1920px-Ernst_Deutsch_Theater_-_panoramio.jpg
+  Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG/400px-Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG/800px-Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG/1200px-Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG/1920px-Hamburg-mundsburg-ernst-deutsch-theater-dreieck-säule.JPG
+  Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG/400px-Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG/800px-Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG/1200px-Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG/1920px-Hamburg-mundsburg-ernst-deutsch-theater-mit-roter-säule.JPG
+  ErnstDeutschTheatre01.SW.20040501.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/400px-ErnstDeutschTheatre01.SW.20040501.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/800px-ErnstDeutschTheatre01.SW.20040501.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1200px-ErnstDeutschTheatre01.SW.20040501.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ErnstDeutschTheatre01.SW.20040501.JPG/1920px-ErnstDeutschTheatre01.SW.20040501.JPG
+  LohmannVahldieck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LohmannVahldieck.jpg/400px-LohmannVahldieck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LohmannVahldieck.jpg/800px-LohmannVahldieck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LohmannVahldieck.jpg/1200px-LohmannVahldieck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/LohmannVahldieck.jpg/1920px-LohmannVahldieck.jpg
 ---
 
 ## Overview

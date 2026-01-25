@@ -1,19 +1,25 @@
 ---
-title: "Auequelle"
+title: Auequelle
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0153
 longitude: 9.32056
 images:
-  - "/images-sites/auequelle/01-7809d283-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1200px-Auequelle_001.jpg
+image_srcset:
+  Auequelle 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/400px-Auequelle_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/800px-Auequelle_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1200px-Auequelle_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Auequelle_001.jpg/1920px-Auequelle_001.jpg
 ---
 
 ## Overview

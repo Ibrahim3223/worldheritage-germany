@@ -13,9 +13,9 @@ regions:
 latitude: 52.469555
 longitude: 8.532913
 images:
-  - "/images-sites/post-mill-oppenwehe/01-b4b569b3-800w.webp"
-  - "/images-sites/post-mill-oppenwehe/02-6071e945-800w.webp"
-  - "/images-sites/post-mill-oppenwehe/03-00521e34-800w.webp"
+  - "/images/post-mill-oppenwehe/01-b4b569b3-800w.webp"
+  - "/images/post-mill-oppenwehe/02-6071e945-800w.webp"
+  - "/images/post-mill-oppenwehe/03-00521e34-800w.webp"
 ---
 
 ## Overview

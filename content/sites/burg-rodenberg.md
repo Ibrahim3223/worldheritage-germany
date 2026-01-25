@@ -1,19 +1,49 @@
 ---
-title: "Burg Rodenberg"
+title: Burg Rodenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4345
 longitude: 7.80731
 images:
-  - "/images-sites/burg-rodenberg/01-6324a787-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Menden-Rodenberg1-Bubo.JPG/1200px-Menden-Rodenberg1-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Menden-Rodenberg2-Bubo.JPG/1200px-Menden-Rodenberg2-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Menden-Rodenberg3-Bubo.JPG/1200px-Menden-Rodenberg3-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Rodenberg_in_Menden_1.jpg/1200px-Burg_Rodenberg_in_Menden_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Rodenberg_in_Menden_4.jpg/1200px-Burg_Rodenberg_in_Menden_4.jpg
+image_srcset:
+  Menden-Rodenberg1-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Menden-Rodenberg1-Bubo.JPG/400px-Menden-Rodenberg1-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Menden-Rodenberg1-Bubo.JPG/800px-Menden-Rodenberg1-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Menden-Rodenberg1-Bubo.JPG/1200px-Menden-Rodenberg1-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Menden-Rodenberg1-Bubo.JPG/1920px-Menden-Rodenberg1-Bubo.JPG
+  Menden-Rodenberg2-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Menden-Rodenberg2-Bubo.JPG/400px-Menden-Rodenberg2-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Menden-Rodenberg2-Bubo.JPG/800px-Menden-Rodenberg2-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Menden-Rodenberg2-Bubo.JPG/1200px-Menden-Rodenberg2-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Menden-Rodenberg2-Bubo.JPG/1920px-Menden-Rodenberg2-Bubo.JPG
+  Menden-Rodenberg3-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Menden-Rodenberg3-Bubo.JPG/400px-Menden-Rodenberg3-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Menden-Rodenberg3-Bubo.JPG/800px-Menden-Rodenberg3-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Menden-Rodenberg3-Bubo.JPG/1200px-Menden-Rodenberg3-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Menden-Rodenberg3-Bubo.JPG/1920px-Menden-Rodenberg3-Bubo.JPG
+  Burg Rodenberg in Menden 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Rodenberg_in_Menden_1.jpg/400px-Burg_Rodenberg_in_Menden_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Rodenberg_in_Menden_1.jpg/800px-Burg_Rodenberg_in_Menden_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Rodenberg_in_Menden_1.jpg/1200px-Burg_Rodenberg_in_Menden_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Rodenberg_in_Menden_1.jpg/1920px-Burg_Rodenberg_in_Menden_1.jpg
+  Burg Rodenberg in Menden 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Rodenberg_in_Menden_4.jpg/400px-Burg_Rodenberg_in_Menden_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Rodenberg_in_Menden_4.jpg/800px-Burg_Rodenberg_in_Menden_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Rodenberg_in_Menden_4.jpg/1200px-Burg_Rodenberg_in_Menden_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Rodenberg_in_Menden_4.jpg/1920px-Burg_Rodenberg_in_Menden_4.jpg
 ---
 
 ## Overview

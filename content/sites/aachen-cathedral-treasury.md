@@ -1,27 +1,49 @@
 ---
-title: "Aachen Cathedral Treasury"
+title: Aachen Cathedral Treasury
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.775036111
 longitude: 6.082816666
-
-# Images
 images:
-  - "/images-sites/aachen-cathedral-treasury/01-fffc62e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg/1200px-Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/1200px-Aachen_BW_2016-07-09_16-46-40.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aachen,_Domschatz_20140822_066.jpg/1200px-Aachen,_Domschatz_20140822_066.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Information_zum_Dreikönigenleuchter.jpg/1200px-Information_zum_Dreikönigenleuchter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen_Cathedral_Treasury,_reliquaries.jpg/1200px-Aachen_Cathedral_Treasury,_reliquaries.jpg
+image_srcset:
+  Aachen, Domschatzkammer, Haupteingang -- 2022 -- 5109.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg/400px-Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg/800px-Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg/1200px-Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg/1920px-Aachen,_Domschatzkammer,_Haupteingang_--_2022_--_5109.jpg
+  Aachen BW 2016-07-09 16-46-40.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/400px-Aachen_BW_2016-07-09_16-46-40.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/800px-Aachen_BW_2016-07-09_16-46-40.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/1200px-Aachen_BW_2016-07-09_16-46-40.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aachen_BW_2016-07-09_16-46-40.jpg/1920px-Aachen_BW_2016-07-09_16-46-40.jpg
+  Aachen, Domschatz 20140822 066.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aachen,_Domschatz_20140822_066.jpg/400px-Aachen,_Domschatz_20140822_066.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aachen,_Domschatz_20140822_066.jpg/800px-Aachen,_Domschatz_20140822_066.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aachen,_Domschatz_20140822_066.jpg/1200px-Aachen,_Domschatz_20140822_066.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aachen,_Domschatz_20140822_066.jpg/1920px-Aachen,_Domschatz_20140822_066.jpg
+  Information zum Dreikönigenleuchter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Information_zum_Dreikönigenleuchter.jpg/400px-Information_zum_Dreikönigenleuchter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Information_zum_Dreikönigenleuchter.jpg/800px-Information_zum_Dreikönigenleuchter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Information_zum_Dreikönigenleuchter.jpg/1200px-Information_zum_Dreikönigenleuchter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Information_zum_Dreikönigenleuchter.jpg/1920px-Information_zum_Dreikönigenleuchter.jpg
+  Aachen Cathedral Treasury, reliquaries.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen_Cathedral_Treasury,_reliquaries.jpg/400px-Aachen_Cathedral_Treasury,_reliquaries.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen_Cathedral_Treasury,_reliquaries.jpg/800px-Aachen_Cathedral_Treasury,_reliquaries.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen_Cathedral_Treasury,_reliquaries.jpg/1200px-Aachen_Cathedral_Treasury,_reliquaries.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aachen_Cathedral_Treasury,_reliquaries.jpg/1920px-Aachen_Cathedral_Treasury,_reliquaries.jpg
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q49596"
 description: "In the heart of Weißenburg in Bayern, the church of St. Andreas rises dramatically against the skyline, its Gothic architecture a striking feature in th..."
 images:
-  - "/images-sites/st-andreas-weissenburg-in-bayern/01-4d9ce46b-1920w.webp"
-  - "/images-sites/st-andreas-weissenburg-in-bayern/02-1286afb9-1920w.webp"
-  - "/images-sites/st-andreas-weissenburg-in-bayern/03-7f0cb814-1920w.webp"
+  - "/images/st-andreas-weissenburg-in-bayern/01-4d9ce46b-1920w.webp"
+  - "/images/st-andreas-weissenburg-in-bayern/02-1286afb9-1920w.webp"
+  - "/images/st-andreas-weissenburg-in-bayern/03-7f0cb814-1920w.webp"
 ---
 
 ## Overview

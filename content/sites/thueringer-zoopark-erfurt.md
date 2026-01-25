@@ -13,9 +13,9 @@ regions:
 latitude: 51.0233
 longitude: 11.0278
 images:
-  - "/images-sites/thueringer-zoopark-erfurt/01-ca034245-800w.webp"
-  - "/images-sites/thueringer-zoopark-erfurt/02-a01a1d56-800w.webp"
-  - "/images-sites/thueringer-zoopark-erfurt/03-a0eed302-800w.webp"
+  - "/images/thueringer-zoopark-erfurt/01-ca034245-800w.webp"
+  - "/images/thueringer-zoopark-erfurt/02-a01a1d56-800w.webp"
+  - "/images/thueringer-zoopark-erfurt/03-a0eed302-800w.webp"
 ---
 
 ## Overview

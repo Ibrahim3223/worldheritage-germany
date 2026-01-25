@@ -1,20 +1,25 @@
 ---
-title: "Erdöl-Erdgas-Museum Twist"
+title: Erdöl-Erdgas-Museum Twist
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6473
 longitude: 7.09511
 images:
-  - "/images-sites/erdoel-erdgas-museum-twist/01-7c9163e2-800w.webp"
-  - "/images-sites/erdoel-erdgas-museum-twist/02-ecb0b812-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1200px-Erdölmuseum_Twist.jpg
+image_srcset:
+  Erdölmuseum Twist.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/400px-Erdölmuseum_Twist.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/800px-Erdölmuseum_Twist.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1200px-Erdölmuseum_Twist.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Erdölmuseum_Twist.jpg/1920px-Erdölmuseum_Twist.jpg
 ---
 
 ## Overview

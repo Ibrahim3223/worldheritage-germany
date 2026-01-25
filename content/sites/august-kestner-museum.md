@@ -1,27 +1,49 @@
 ---
-title: "August Kestner Museum"
+title: August Kestner Museum
 date: 2026-01-23
 draft: false
-description: "art and archaeological museum in Hanover, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art and archaeological museum in Hanover, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.368099436
 longitude: 9.736264865
-
-# Images
 images:
-  - "/images-sites/august-kestner-museum/01-787ae961-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/1200px-Museum_August_Kestner_-_Joy_of_Museums.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg/1200px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg/1200px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg/1200px-1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg/1200px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg
+image_srcset:
+  Museum August Kestner - Joy of Museums.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/400px-Museum_August_Kestner_-_Joy_of_Museums.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/800px-Museum_August_Kestner_-_Joy_of_Museums.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/1200px-Museum_August_Kestner_-_Joy_of_Museums.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Museum_August_Kestner_-_Joy_of_Museums.jpg/1920px-Museum_August_Kestner_-_Joy_of_Museums.jpg
+  2023-11-15 August Kestner Museum Wikipedia Hannover Vortrag Unsichtbare Frauen (137).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg/400px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg/800px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg/1200px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg/1920px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(137).jpg
+  2023-11-15 August Kestner Museum Wikipedia Hannover Vortrag Unsichtbare Frauen (158).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg/400px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg/800px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg/1200px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg/1920px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(158).jpg
+  1900 circa Fotografie Kestnermuseum in Hannover, gesehen von der Friedrichstr. (Friedrichswall) aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg/400px-1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg/800px-1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg/1200px-1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg/1920px-1900_circa_Fotografie_Kestnermuseum_in_Hannover,_gesehen_von_der_Friedrichstr._(Friedrichswall)_aus.jpg
+  2023-11-15 August Kestner Museum Wikipedia Hannover Vortrag Unsichtbare Frauen (185).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg/400px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg/800px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg/1200px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg/1920px-2023-11-15_August_Kestner_Museum_Wikipedia_Hannover_Vortrag_Unsichtbare_Frauen_(185).jpg
 ---
 
 ## Overview

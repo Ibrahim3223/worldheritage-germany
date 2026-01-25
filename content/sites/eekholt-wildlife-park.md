@@ -1,19 +1,49 @@
 ---
-title: "Eekholt Wildlife Park"
+title: Eekholt Wildlife Park
 date: 2026-01-24
 draft: false
-description: "zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 53.9492
 longitude: 10.0288
 images:
-  - "/images-sites/eekholt-wildlife-park/01-2adb0360-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wildpark_Eekholt_NIK_2398.JPG/1200px-Wildpark_Eekholt_NIK_2398.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/1200px-Wildpark_Eekholt_NIK_2400.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Une_vue_du_parc_à_Eekholt.jpg/1200px-Une_vue_du_parc_à_Eekholt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bimöhlen_Wildpark_Eekholt.jpg/1200px-Bimöhlen_Wildpark_Eekholt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bimöhlen_Wildpark_Eekholt_Eingang.jpg/1200px-Bimöhlen_Wildpark_Eekholt_Eingang.jpg
+image_srcset:
+  Wildpark Eekholt NIK 2398.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wildpark_Eekholt_NIK_2398.JPG/400px-Wildpark_Eekholt_NIK_2398.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wildpark_Eekholt_NIK_2398.JPG/800px-Wildpark_Eekholt_NIK_2398.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wildpark_Eekholt_NIK_2398.JPG/1200px-Wildpark_Eekholt_NIK_2398.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wildpark_Eekholt_NIK_2398.JPG/1920px-Wildpark_Eekholt_NIK_2398.JPG
+  Wildpark Eekholt NIK 2400.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/400px-Wildpark_Eekholt_NIK_2400.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/800px-Wildpark_Eekholt_NIK_2400.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/1200px-Wildpark_Eekholt_NIK_2400.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wildpark_Eekholt_NIK_2400.JPG/1920px-Wildpark_Eekholt_NIK_2400.JPG
+  Une vue du parc à Eekholt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Une_vue_du_parc_à_Eekholt.jpg/400px-Une_vue_du_parc_à_Eekholt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Une_vue_du_parc_à_Eekholt.jpg/800px-Une_vue_du_parc_à_Eekholt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Une_vue_du_parc_à_Eekholt.jpg/1200px-Une_vue_du_parc_à_Eekholt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Une_vue_du_parc_à_Eekholt.jpg/1920px-Une_vue_du_parc_à_Eekholt.jpg
+  Bimöhlen Wildpark Eekholt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bimöhlen_Wildpark_Eekholt.jpg/400px-Bimöhlen_Wildpark_Eekholt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bimöhlen_Wildpark_Eekholt.jpg/800px-Bimöhlen_Wildpark_Eekholt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bimöhlen_Wildpark_Eekholt.jpg/1200px-Bimöhlen_Wildpark_Eekholt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bimöhlen_Wildpark_Eekholt.jpg/1920px-Bimöhlen_Wildpark_Eekholt.jpg
+  Bimöhlen Wildpark Eekholt Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bimöhlen_Wildpark_Eekholt_Eingang.jpg/400px-Bimöhlen_Wildpark_Eekholt_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bimöhlen_Wildpark_Eekholt_Eingang.jpg/800px-Bimöhlen_Wildpark_Eekholt_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bimöhlen_Wildpark_Eekholt_Eingang.jpg/1200px-Bimöhlen_Wildpark_Eekholt_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bimöhlen_Wildpark_Eekholt_Eingang.jpg/1920px-Bimöhlen_Wildpark_Eekholt_Eingang.jpg
 ---
 
 ## Overview

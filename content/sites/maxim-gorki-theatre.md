@@ -13,7 +13,7 @@ regions:
 latitude: 52.5189
 longitude: 13.3951
 images:
-  - "/images-sites/maxim-gorki-theatre/01-38e0e29c-800w.webp"
+  - "/images/maxim-gorki-theatre/01-38e0e29c-800w.webp"
 ---
 
 ## Overview

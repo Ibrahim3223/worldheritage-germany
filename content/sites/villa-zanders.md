@@ -21,9 +21,9 @@ longitude: 7.13056
 
 # Images
 images:
-  - "/images-sites/villa-zanders/01-5ba291dc-800w.webp"
-  - "/images-sites/villa-zanders/02-40f1c08f-800w.webp"
-  - "/images-sites/villa-zanders/03-76583b74-800w.webp"
+  - "/images/villa-zanders/01-5ba291dc-800w.webp"
+  - "/images/villa-zanders/02-40f1c08f-800w.webp"
+  - "/images/villa-zanders/03-76583b74-800w.webp"
 ---
 
 ## Overview

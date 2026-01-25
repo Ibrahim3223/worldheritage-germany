@@ -1,21 +1,43 @@
 ---
-title: "Bock"
+title: Bock
 date: 2026-01-23
 draft: false
-description: "island in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in Germany
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.451
 longitude: 13.0487
 images:
-  - "/images-sites/bock/01-e1bfa868-800w.webp"
-  - "/images-sites/bock/02-602cc1c2-800w.webp"
-  - "/images-sites/bock/03-f75d7362-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bitburger_Winterbock_Bottle_Front.jpg/1200px-Bitburger_Winterbock_Bottle_Front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bock-bieren-van-Nederland-2010.jpg/1200px-Bock-bieren-van-Nederland-2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bokbier.jpg/1200px-Bokbier.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bock&Hinrichsen-1.jpg/1200px-Bock&Hinrichsen-1.jpg
+image_srcset:
+  Bitburger Winterbock Bottle Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bitburger_Winterbock_Bottle_Front.jpg/400px-Bitburger_Winterbock_Bottle_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bitburger_Winterbock_Bottle_Front.jpg/800px-Bitburger_Winterbock_Bottle_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bitburger_Winterbock_Bottle_Front.jpg/1200px-Bitburger_Winterbock_Bottle_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bitburger_Winterbock_Bottle_Front.jpg/1920px-Bitburger_Winterbock_Bottle_Front.jpg
+  Bock-bieren-van-Nederland-2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bock-bieren-van-Nederland-2010.jpg/400px-Bock-bieren-van-Nederland-2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bock-bieren-van-Nederland-2010.jpg/800px-Bock-bieren-van-Nederland-2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bock-bieren-van-Nederland-2010.jpg/1200px-Bock-bieren-van-Nederland-2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bock-bieren-van-Nederland-2010.jpg/1920px-Bock-bieren-van-Nederland-2010.jpg
+  Bokbier.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bokbier.jpg/400px-Bokbier.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bokbier.jpg/800px-Bokbier.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bokbier.jpg/1200px-Bokbier.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bokbier.jpg/1920px-Bokbier.jpg
+  Bock&Hinrichsen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bock&Hinrichsen-1.jpg/400px-Bock&Hinrichsen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bock&Hinrichsen-1.jpg/800px-Bock&Hinrichsen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bock&Hinrichsen-1.jpg/1200px-Bock&Hinrichsen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bock&Hinrichsen-1.jpg/1920px-Bock&Hinrichsen-1.jpg
 ---
 
 ## Overview

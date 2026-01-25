@@ -1,19 +1,49 @@
 ---
-title: "Hessisches Staatstheater Wiesbaden"
+title: Hessisches Staatstheater Wiesbaden
 date: 2026-01-23
 draft: false
-description: "theatre and opera house in Wiesbaden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre and opera house in Wiesbaden, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.0836
 longitude: 8.24583
 images:
-  - "/images-sites/hessisches-staatstheater-wiesbaden/01-bf050f4b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg/1200px-Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_BW_2017-04-24_17-55-11.jpg/1200px-Wiesbaden_BW_2017-04-24_17-55-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wiesbaden-Theater0138.jpg/1200px-Wiesbaden-Theater0138.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1200px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg/1200px-All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg
+image_srcset:
+  Wiesbaden Hessisches Staatstheater BW 2017-04-24 17-48-57.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg/400px-Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg/800px-Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg/1200px-Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg/1920px-Wiesbaden_Hessisches_Staatstheater_BW_2017-04-24_17-48-57.jpg
+  Wiesbaden BW 2017-04-24 17-55-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_BW_2017-04-24_17-55-11.jpg/400px-Wiesbaden_BW_2017-04-24_17-55-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_BW_2017-04-24_17-55-11.jpg/800px-Wiesbaden_BW_2017-04-24_17-55-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_BW_2017-04-24_17-55-11.jpg/1200px-Wiesbaden_BW_2017-04-24_17-55-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wiesbaden_BW_2017-04-24_17-55-11.jpg/1920px-Wiesbaden_BW_2017-04-24_17-55-11.jpg
+  Wiesbaden-Theater0138.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wiesbaden-Theater0138.jpg/400px-Wiesbaden-Theater0138.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wiesbaden-Theater0138.jpg/800px-Wiesbaden-Theater0138.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wiesbaden-Theater0138.jpg/1200px-Wiesbaden-Theater0138.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wiesbaden-Theater0138.jpg/1920px-Wiesbaden-Theater0138.jpg
+  Luftbild Wiesbaden Hessisches Staatstheater IMG 0130.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/400px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/800px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1200px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg/1920px-Luftbild_Wiesbaden_Hessisches_Staatstheater_IMG_0130.jpg
+  All heil Gruss aus Wiesbaden (AK 1169 Lautz & Isenbeck Darmstadt 1897).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg/400px-All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg/800px-All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg/1200px-All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg/1920px-All_heil_Gruss_aus_Wiesbaden_(AK_1169_Lautz_&_Isenbeck_Darmstadt_1897).jpg
 ---
 
 ## Overview

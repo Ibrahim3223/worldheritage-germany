@@ -21,7 +21,7 @@ longitude: 10.6185
 
 # Images
 images:
-  - "/images-sites/ostholstein-museum-eutin/01-b0c1a61c-800w.webp"
+  - "/images/ostholstein-museum-eutin/01-b0c1a61c-800w.webp"
 ---
 
 ## Overview

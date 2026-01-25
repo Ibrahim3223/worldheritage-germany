@@ -21,7 +21,7 @@ longitude: 7.68528
 
 # Images
 images:
-  - "/images-sites/lindenbrauerei/01-31f2047a-800w.webp"
+  - "/images/lindenbrauerei/01-31f2047a-800w.webp"
 ---
 
 ## Overview

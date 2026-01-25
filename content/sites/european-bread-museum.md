@@ -1,21 +1,49 @@
 ---
-title: "European Bread Museum"
+title: European Bread Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5689
 longitude: 10.0997
 images:
-  - "/images-sites/european-bread-museum/01-963f7444-800w.webp"
-  - "/images-sites/european-bread-museum/02-a626c916-800w.webp"
-  - "/images-sites/european-bread-museum/03-c8ad20cf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg/1200px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg/1200px-Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg/1200px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg/1200px-Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ebergötzen-Europäisches_Brotmuseum.JPG/1200px-Ebergötzen-Europäisches_Brotmuseum.JPG
+image_srcset:
+  Metasequoia glyptostroboides, Urweltmammutbaum, Ebergötzen 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg/400px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg/800px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg/1200px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg/1920px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_01.jpg
+  Ebergötzen, Übersichtsplan Brotmuseum am Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg/400px-Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg/800px-Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg/1200px-Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg/1920px-Ebergötzen,_Übersichtsplan_Brotmuseum_am_Eingang.jpg
+  Metasequoia glyptostroboides, Urweltmammutbaum, Ebergötzen 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg/400px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg/800px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg/1200px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg/1920px-Metasequoia_glyptostroboides,_Urweltmammutbaum,_Ebergötzen_02.jpg
+  Sandsteineinfriedung Göttinger Straße 7 zu Ebergötzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg/400px-Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg/800px-Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg/1200px-Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg/1920px-Sandsteineinfriedung_Göttinger_Straße_7_zu_Ebergötzen.jpg
+  Ebergötzen-Europäisches Brotmuseum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ebergötzen-Europäisches_Brotmuseum.JPG/400px-Ebergötzen-Europäisches_Brotmuseum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ebergötzen-Europäisches_Brotmuseum.JPG/800px-Ebergötzen-Europäisches_Brotmuseum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ebergötzen-Europäisches_Brotmuseum.JPG/1200px-Ebergötzen-Europäisches_Brotmuseum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ebergötzen-Europäisches_Brotmuseum.JPG/1920px-Ebergötzen-Europäisches_Brotmuseum.JPG
 ---
 
 ## Overview

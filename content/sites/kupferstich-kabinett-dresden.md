@@ -13,7 +13,7 @@ regions:
 latitude: 51.0527
 longitude: 13.7369
 images:
-  - "/images-sites/kupferstich-kabinett-dresden/01-f576b987-800w.webp"
+  - "/images/kupferstich-kabinett-dresden/01-f576b987-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.110278
 longitude: 8.682222
 images:
-  - "/images-sites/roemerberg/01-d2a0be7a-800w.webp"
+  - "/images/roemerberg/01-d2a0be7a-800w.webp"
 ---
 
 ## Overview

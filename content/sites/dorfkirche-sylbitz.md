@@ -1,24 +1,45 @@
 ---
-title: "Dorfkirche Sylbitz"
-site_name: "Dorfkirche Sylbitz"
-slug: "dorfkirche-sylbitz"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Sylbitz
+site_name: Dorfkirche Sylbitz
+slug: dorfkirche-sylbitz
+region: Brandenburg
 latitude: 51.5778
 longitude: 11.91
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1076598"
-description: "Dorfkirche Sylbitz is a striking example of Romanesque architecture, nestled in the serene landscape of Petersberg, Germany. This church building captur..."
+- church building
+- religious site
+wikidata_id: Q1076598
+description: Dorfkirche Sylbitz is a striking example of Romanesque architecture,
+  nestled in the serene landscape of Petersberg, Germany. This church building captur...
 images:
-  - "/images-sites/dorfkirche-sylbitz/01-46408f42-1920w.webp"
-  - "/images-sites/dorfkirche-sylbitz/02-ab659251-1920w.webp"
-  - "/images-sites/dorfkirche-sylbitz/03-0c8292d0-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/1200px-SylbitzKirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg/1200px-2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg/1200px-2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg/1200px-Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg
+image_srcset:
+  SylbitzKirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/400px-SylbitzKirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/800px-SylbitzKirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/1200px-SylbitzKirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SylbitzKirche.JPG/1920px-SylbitzKirche.JPG
+  2021-01 Sylbitz (02) Ev. Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg/400px-2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg/800px-2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg/1200px-2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg/1920px-2021-01_Sylbitz_(02)_Ev._Dorfkirche.jpg
+  2021-01 Sylbitz (03) Ev. Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg/400px-2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg/800px-2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg/1200px-2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg/1920px-2021-01_Sylbitz_(03)_Ev._Dorfkirche.jpg
+  Grab von Pfarrer Volkmann an der Kirche von Sylbitz 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg/400px-Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg/800px-Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg/1200px-Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg/1920px-Grab_von_Pfarrer_Volkmann_an_der_Kirche_von_Sylbitz_01.jpg
 ---
 
 ## Overview

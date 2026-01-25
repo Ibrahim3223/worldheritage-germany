@@ -1,27 +1,49 @@
 ---
-title: "Eifel Aqueduct"
+title: Eifel Aqueduct
 date: 2026-01-23
 draft: false
-description: "aqueduct in the Eifel region of the Roman Empire"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: aqueduct in the Eifel region of the Roman Empire
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.5127
 longitude: 6.6108
-
-# Images
 images:
-  - "/images-sites/eifel-aqueduct/01-e36f9c26-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg/1200px-Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/1200px-Mechernich-Vussem_Aquäduktbrücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karte_eifelwasserleitung.png/1200px-Karte_eifelwasserleitung.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eifelwasserleitung05.jpg/1200px-Eifelwasserleitung05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RömischerSchlammfang.jpg/1200px-RömischerSchlammfang.jpg
+image_srcset:
+  Teilstück der römischen Eifelwasserleitung, Bezirksregierung Köln-5465.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg/400px-Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg/800px-Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg/1200px-Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg/1920px-Teilstück_der_römischen_Eifelwasserleitung,_Bezirksregierung_Köln-5465.jpg
+  Mechernich-Vussem Aquäduktbrücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/400px-Mechernich-Vussem_Aquäduktbrücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/800px-Mechernich-Vussem_Aquäduktbrücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/1200px-Mechernich-Vussem_Aquäduktbrücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mechernich-Vussem_Aquäduktbrücke.jpg/1920px-Mechernich-Vussem_Aquäduktbrücke.jpg
+  Karte eifelwasserleitung.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karte_eifelwasserleitung.png/400px-Karte_eifelwasserleitung.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karte_eifelwasserleitung.png/800px-Karte_eifelwasserleitung.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karte_eifelwasserleitung.png/1200px-Karte_eifelwasserleitung.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Karte_eifelwasserleitung.png/1920px-Karte_eifelwasserleitung.png
+  Eifelwasserleitung05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eifelwasserleitung05.jpg/400px-Eifelwasserleitung05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eifelwasserleitung05.jpg/800px-Eifelwasserleitung05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eifelwasserleitung05.jpg/1200px-Eifelwasserleitung05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eifelwasserleitung05.jpg/1920px-Eifelwasserleitung05.jpg
+  RömischerSchlammfang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RömischerSchlammfang.jpg/400px-RömischerSchlammfang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RömischerSchlammfang.jpg/800px-RömischerSchlammfang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RömischerSchlammfang.jpg/1200px-RömischerSchlammfang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RömischerSchlammfang.jpg/1920px-RömischerSchlammfang.jpg
 ---
 
 ## Overview

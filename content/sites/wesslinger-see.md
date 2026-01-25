@@ -13,9 +13,9 @@ regions:
 latitude: 48.072777777
 longitude: 11.251111111
 images:
-  - "/images-sites/wesslinger-see/01-06f8df50-800w.webp"
-  - "/images-sites/wesslinger-see/02-4c256408-800w.webp"
-  - "/images-sites/wesslinger-see/03-6d061860-800w.webp"
+  - "/images/wesslinger-see/01-06f8df50-800w.webp"
+  - "/images/wesslinger-see/02-4c256408-800w.webp"
+  - "/images/wesslinger-see/03-6d061860-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hamburg State Opera"
+title: Hamburg State Opera
 date: 2026-01-23
 draft: false
-description: "opera building in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: opera building in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 53.556666666
 longitude: 9.988888888
 images:
-  - "/images-sites/hamburg-state-opera/01-21eda67a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg/1200px-Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/1200px-2025-03-31-Hamburgische-Staatsoper.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2022-09-20-Hamburgische-Staatsoper.jpg/1200px-2022-09-20-Hamburgische-Staatsoper.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hamburg_Staatsoper_außen_nachts_1.jpg/1200px-Hamburg_Staatsoper_außen_nachts_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Staatsoper.jpg/1200px-Hamburg_Staatsoper.jpg
+image_srcset:
+  Richard Wagner an Bernhard Pollini 1877-09-23.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg/400px-Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg/800px-Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg/1200px-Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg/1920px-Richard_Wagner_an_Bernhard_Pollini_1877-09-23.jpg
+  2025-03-31-Hamburgische-Staatsoper.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/400px-2025-03-31-Hamburgische-Staatsoper.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/800px-2025-03-31-Hamburgische-Staatsoper.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/1200px-2025-03-31-Hamburgische-Staatsoper.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2025-03-31-Hamburgische-Staatsoper.jpg/1920px-2025-03-31-Hamburgische-Staatsoper.jpg
+  2022-09-20-Hamburgische-Staatsoper.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2022-09-20-Hamburgische-Staatsoper.jpg/400px-2022-09-20-Hamburgische-Staatsoper.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2022-09-20-Hamburgische-Staatsoper.jpg/800px-2022-09-20-Hamburgische-Staatsoper.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2022-09-20-Hamburgische-Staatsoper.jpg/1200px-2022-09-20-Hamburgische-Staatsoper.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2022-09-20-Hamburgische-Staatsoper.jpg/1920px-2022-09-20-Hamburgische-Staatsoper.jpg
+  Hamburg Staatsoper außen nachts 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hamburg_Staatsoper_außen_nachts_1.jpg/400px-Hamburg_Staatsoper_außen_nachts_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hamburg_Staatsoper_außen_nachts_1.jpg/800px-Hamburg_Staatsoper_außen_nachts_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hamburg_Staatsoper_außen_nachts_1.jpg/1200px-Hamburg_Staatsoper_außen_nachts_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hamburg_Staatsoper_außen_nachts_1.jpg/1920px-Hamburg_Staatsoper_außen_nachts_1.jpg
+  Hamburg Staatsoper.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Staatsoper.jpg/400px-Hamburg_Staatsoper.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Staatsoper.jpg/800px-Hamburg_Staatsoper.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Staatsoper.jpg/1200px-Hamburg_Staatsoper.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hamburg_Staatsoper.jpg/1920px-Hamburg_Staatsoper.jpg
 ---
 
 ## Overview

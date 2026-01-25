@@ -13,8 +13,8 @@ regions:
 latitude: 48.126111111
 longitude: 8.2275
 images:
-  - "/images-sites/triberg-waterfalls/02-37556420-800w.webp"
-  - "/images-sites/triberg-waterfalls/03-ab106aeb-800w.webp"
+  - "/images/triberg-waterfalls/02-37556420-800w.webp"
+  - "/images/triberg-waterfalls/03-ab106aeb-800w.webp"
 ---
 
 ## Overview

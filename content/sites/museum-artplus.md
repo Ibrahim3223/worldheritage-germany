@@ -21,9 +21,9 @@ longitude: 8.50202778
 
 # Images
 images:
-  - "/images-sites/museum-artplus/01-6b792891-800w.webp"
-  - "/images-sites/museum-artplus/02-ee66867b-800w.webp"
-  - "/images-sites/museum-artplus/03-c0eaa9bb-800w.webp"
+  - "/images/museum-artplus/01-6b792891-800w.webp"
+  - "/images/museum-artplus/02-ee66867b-800w.webp"
+  - "/images/museum-artplus/03-c0eaa9bb-800w.webp"
 ---
 
 ## Overview

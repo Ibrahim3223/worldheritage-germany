@@ -1,24 +1,27 @@
 ---
-title: "ChristuskircheHamburg-Wandsbek"
-site_name: "ChristuskircheHamburg-Wandsbek"
-slug: "christuskirche-hamburg-wandsbek"
-region: "Hamburg"
-
-# Location
+title: ChristuskircheHamburg-Wandsbek
+site_name: ChristuskircheHamburg-Wandsbek
+slug: christuskirche-hamburg-wandsbek
+region: Hamburg
 latitude: 53.57266667
 longitude: 10.07122222
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087331"
-description: "In the heart of Hamburg-Wandsbek lies Christuskirche, a striking example of modern church architecture that captivates both the devout and the curious t..."
+- church building
+- religious site
+wikidata_id: Q1087331
+description: In the heart of Hamburg-Wandsbek lies Christuskirche, a striking example
+  of modern church architecture that captivates both the devout and the curious t...
 images:
-  - "/images-sites/christuskirche-hamburg-wandsbek/01-d9a830b9-1920w.webp"
-  - "/images-sites/christuskirche-hamburg-wandsbek/02-39c79d92-1920w.webp"
-  - "/images-sites/christuskirche-hamburg-wandsbek/03-89762c5c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/1200px-Hh-christusk-wandsb2.jpg
+image_srcset:
+  Hh-christusk-wandsb2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/400px-Hh-christusk-wandsb2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/800px-Hh-christusk-wandsb2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/1200px-Hh-christusk-wandsb2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hh-christusk-wandsb2.jpg/1920px-Hh-christusk-wandsb2.jpg
 ---
 
 ## Overview

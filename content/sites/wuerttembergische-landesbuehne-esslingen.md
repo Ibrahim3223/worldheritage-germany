@@ -13,7 +13,7 @@ regions:
 latitude: 48.7407
 longitude: 9.30906
 images:
-  - "/images-sites/wuerttembergische-landesbuehne-esslingen/01-38afb42a-800w.webp"
+  - "/images/wuerttembergische-landesbuehne-esslingen/01-38afb42a-800w.webp"
 ---
 
 ## Overview 

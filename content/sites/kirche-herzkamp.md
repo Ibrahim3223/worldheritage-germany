@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1380717"
 description: "In the heart of Sprockhövel, North Rhine-Westphalia, Germany, you’ll find Kirche Herzkamp, a striking example of Gothic Revival architecture. This churc..."
 images:
-  - "/images-sites/kirche-herzkamp/01-af66829c-1920w.webp"
-  - "/images-sites/kirche-herzkamp/02-2cb512ad-1920w.webp"
-  - "/images-sites/kirche-herzkamp/03-343331df-1920w.webp"
+  - "/images/kirche-herzkamp/01-af66829c-1920w.webp"
+  - "/images/kirche-herzkamp/02-2cb512ad-1920w.webp"
+  - "/images/kirche-herzkamp/03-343331df-1920w.webp"
 ---
 
 ## Overview

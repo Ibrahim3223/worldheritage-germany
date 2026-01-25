@@ -21,9 +21,9 @@ longitude: 11.682224562
 
 # Images
 images:
-  - "/images-sites/schloss-hexenagger/01-e25b7750-800w.webp"
-  - "/images-sites/schloss-hexenagger/02-697411d7-800w.webp"
-  - "/images-sites/schloss-hexenagger/03-250c38f2-800w.webp"
+  - "/images/schloss-hexenagger/01-e25b7750-800w.webp"
+  - "/images/schloss-hexenagger/02-697411d7-800w.webp"
+  - "/images/schloss-hexenagger/03-250c38f2-800w.webp"
 ---
 
 ## Overview

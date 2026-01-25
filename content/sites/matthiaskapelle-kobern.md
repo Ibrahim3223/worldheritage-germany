@@ -13,7 +13,7 @@ regions:
 latitude: 50.314039
 longitude: 7.454208
 images:
-  - "/images-sites/matthiaskapelle-kobern/01-f4077cec-800w.webp"
+  - "/images/matthiaskapelle-kobern/01-f4077cec-800w.webp"
 ---
 
 ## Overview

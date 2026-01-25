@@ -1,21 +1,49 @@
 ---
-title: "Dreisamtal"
+title: Dreisamtal
 date: 2026-01-24
 draft: false
-description: "valley in southern Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in southern Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 47.980555555
 longitude: 7.921666666
 images:
-  - "/images-sites/dreisamtal/01-fe6c1290-800w.webp"
-  - "/images-sites/dreisamtal/02-f6b659a7-800w.webp"
-  - "/images-sites/dreisamtal/03-ad8de15a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg/1200px-Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg/1200px-Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg/1200px-Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1200px-Dreisamtal_in_Freiburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grasende_Kühe_im_Dreisamtal.jpg/1200px-Grasende_Kühe_im_Dreisamtal.jpg
+image_srcset:
+  Blick vom Hirzberg in Freiburg Richtung Dreisamtal und Schwarzwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg/400px-Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg/800px-Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg/1200px-Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg/1920px-Blick_vom_Hirzberg_in_Freiburg_Richtung_Dreisamtal_und_Schwarzwald.jpg
+  Blick von der Höfener Hütte ins Dreisamtal 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg/400px-Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg/800px-Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg/1200px-Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg/1920px-Blick_von_der_Höfener_Hütte_ins_Dreisamtal_2.jpg
+  Blick vom Hinterwaldkopf ins Dreisamtal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg/400px-Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg/800px-Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg/1200px-Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg/1920px-Blick_vom_Hinterwaldkopf_ins_Dreisamtal.jpg
+  Dreisamtal in Freiburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/400px-Dreisamtal_in_Freiburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/800px-Dreisamtal_in_Freiburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1200px-Dreisamtal_in_Freiburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dreisamtal_in_Freiburg.jpg/1920px-Dreisamtal_in_Freiburg.jpg
+  Grasende Kühe im Dreisamtal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grasende_Kühe_im_Dreisamtal.jpg/400px-Grasende_Kühe_im_Dreisamtal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grasende_Kühe_im_Dreisamtal.jpg/800px-Grasende_Kühe_im_Dreisamtal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grasende_Kühe_im_Dreisamtal.jpg/1200px-Grasende_Kühe_im_Dreisamtal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Grasende_Kühe_im_Dreisamtal.jpg/1920px-Grasende_Kühe_im_Dreisamtal.jpg
 ---
 
 ## Overview

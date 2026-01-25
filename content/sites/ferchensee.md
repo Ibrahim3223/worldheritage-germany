@@ -1,19 +1,49 @@
 ---
-title: "Ferchensee"
+title: Ferchensee
 date: 2026-01-23
 draft: false
-description: "lake in Mittenwald, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mittenwald, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.439166666
 longitude: 11.214722222
 images:
-  - "/images-sites/ferchensee/01-eba289e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg/1200px-Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ferchensee,_summer_2021_02.jpg/1200px-Ferchensee,_summer_2021_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ferchensee,_summer_2021_05.jpg/1200px-Ferchensee,_summer_2021_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ferchensee,_summer_2021_06.jpg/1200px-Ferchensee,_summer_2021_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ferchensee_Lautersee_Mittenwald.jpg/1200px-Ferchensee_Lautersee_Mittenwald.jpg
+image_srcset:
+  Wettersteingrat über den zugefrorenen Ferchensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg/400px-Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg/800px-Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg/1200px-Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg/1920px-Wettersteingrat_über_den_zugefrorenen_Ferchensee.jpg
+  Ferchensee, summer 2021 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ferchensee,_summer_2021_02.jpg/400px-Ferchensee,_summer_2021_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ferchensee,_summer_2021_02.jpg/800px-Ferchensee,_summer_2021_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ferchensee,_summer_2021_02.jpg/1200px-Ferchensee,_summer_2021_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ferchensee,_summer_2021_02.jpg/1920px-Ferchensee,_summer_2021_02.jpg
+  Ferchensee, summer 2021 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ferchensee,_summer_2021_05.jpg/400px-Ferchensee,_summer_2021_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ferchensee,_summer_2021_05.jpg/800px-Ferchensee,_summer_2021_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ferchensee,_summer_2021_05.jpg/1200px-Ferchensee,_summer_2021_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ferchensee,_summer_2021_05.jpg/1920px-Ferchensee,_summer_2021_05.jpg
+  Ferchensee, summer 2021 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ferchensee,_summer_2021_06.jpg/400px-Ferchensee,_summer_2021_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ferchensee,_summer_2021_06.jpg/800px-Ferchensee,_summer_2021_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ferchensee,_summer_2021_06.jpg/1200px-Ferchensee,_summer_2021_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ferchensee,_summer_2021_06.jpg/1920px-Ferchensee,_summer_2021_06.jpg
+  Ferchensee Lautersee Mittenwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ferchensee_Lautersee_Mittenwald.jpg/400px-Ferchensee_Lautersee_Mittenwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ferchensee_Lautersee_Mittenwald.jpg/800px-Ferchensee_Lautersee_Mittenwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ferchensee_Lautersee_Mittenwald.jpg/1200px-Ferchensee_Lautersee_Mittenwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ferchensee_Lautersee_Mittenwald.jpg/1920px-Ferchensee_Lautersee_Mittenwald.jpg
 ---
 
 ## Overview

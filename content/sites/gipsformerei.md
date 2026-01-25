@@ -1,20 +1,49 @@
 ---
-title: "Gipsformerei"
+title: Gipsformerei
 date: 2026-01-23
 draft: false
-description: "Staatliche Museen’s Gipsformerei (Replica Workshop)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Staatliche Museen’s Gipsformerei (Replica Workshop)
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5192
 longitude: 13.2867
 images:
-  - "/images-sites/gipsformerei/02-490d58a8-800w.webp"
-  - "/images-sites/gipsformerei/03-6d2d93d5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_-_Gipsformerei.jpg/1200px-Berlin_-_Gipsformerei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gipsformerei_(1).JPG/1200px-Gipsformerei_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gipsformerei_(2).JPG/1200px-Gipsformerei_(2).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg/1200px-Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg/1200px-Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg
+image_srcset:
+  Berlin - Gipsformerei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_-_Gipsformerei.jpg/400px-Berlin_-_Gipsformerei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_-_Gipsformerei.jpg/800px-Berlin_-_Gipsformerei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_-_Gipsformerei.jpg/1200px-Berlin_-_Gipsformerei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Berlin_-_Gipsformerei.jpg/1920px-Berlin_-_Gipsformerei.jpg
+  Gipsformerei (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gipsformerei_(1).JPG/400px-Gipsformerei_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gipsformerei_(1).JPG/800px-Gipsformerei_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gipsformerei_(1).JPG/1200px-Gipsformerei_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gipsformerei_(1).JPG/1920px-Gipsformerei_(1).JPG
+  Gipsformerei (2).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gipsformerei_(2).JPG/400px-Gipsformerei_(2).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gipsformerei_(2).JPG/800px-Gipsformerei_(2).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gipsformerei_(2).JPG/1200px-Gipsformerei_(2).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gipsformerei_(2).JPG/1920px-Gipsformerei_(2).JPG
+  Gipsformerei Berlin Charlottenburg Aussen 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg/400px-Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg/800px-Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg/1200px-Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg/1920px-Gipsformerei_Berlin_Charlottenburg_Aussen_002.jpg
+  Gipsformerei Berlin Charlottenburg Ausstellungsraum 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg/400px-Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg/800px-Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg/1200px-Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg/1920px-Gipsformerei_Berlin_Charlottenburg_Ausstellungsraum_001.jpg
 ---
 
 ## Overview

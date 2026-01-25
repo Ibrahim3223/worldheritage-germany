@@ -1,19 +1,49 @@
 ---
-title: "Bersarinplatz"
+title: Bersarinplatz
 date: 2026-01-23
 draft: false
-description: "Town square in the Berlin district Friedrichshain, district Friedrichshain-Kreuzberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: Town square in the Berlin district Friedrichshain, district Friedrichshain-Kreuzberg
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5186
 longitude: 13.4531
 images:
-  - "/images-sites/bersarinplatz/01-f6696ebc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2019-05-09-Bersarinplatz-Fisheye.jpg/1200px-2019-05-09-Bersarinplatz-Fisheye.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2019-05-09-Bersarinplatz-Panorama.jpg/1200px-2019-05-09-Bersarinplatz-Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2019-05-09-Bersarinplatz-Rigaer-Str.jpg/1200px-2019-05-09-Bersarinplatz-Rigaer-Str.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019-05-09-Bersarinplatz-Petersburger-Str.jpg/1200px-2019-05-09-Bersarinplatz-Petersburger-Str.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bersarinplatz_06.JPG/1200px-Bersarinplatz_06.JPG
+image_srcset:
+  2019-05-09-Bersarinplatz-Fisheye.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2019-05-09-Bersarinplatz-Fisheye.jpg/400px-2019-05-09-Bersarinplatz-Fisheye.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2019-05-09-Bersarinplatz-Fisheye.jpg/800px-2019-05-09-Bersarinplatz-Fisheye.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2019-05-09-Bersarinplatz-Fisheye.jpg/1200px-2019-05-09-Bersarinplatz-Fisheye.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2019-05-09-Bersarinplatz-Fisheye.jpg/1920px-2019-05-09-Bersarinplatz-Fisheye.jpg
+  2019-05-09-Bersarinplatz-Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2019-05-09-Bersarinplatz-Panorama.jpg/400px-2019-05-09-Bersarinplatz-Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2019-05-09-Bersarinplatz-Panorama.jpg/800px-2019-05-09-Bersarinplatz-Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2019-05-09-Bersarinplatz-Panorama.jpg/1200px-2019-05-09-Bersarinplatz-Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2019-05-09-Bersarinplatz-Panorama.jpg/1920px-2019-05-09-Bersarinplatz-Panorama.jpg
+  2019-05-09-Bersarinplatz-Rigaer-Str.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2019-05-09-Bersarinplatz-Rigaer-Str.jpg/400px-2019-05-09-Bersarinplatz-Rigaer-Str.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2019-05-09-Bersarinplatz-Rigaer-Str.jpg/800px-2019-05-09-Bersarinplatz-Rigaer-Str.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2019-05-09-Bersarinplatz-Rigaer-Str.jpg/1200px-2019-05-09-Bersarinplatz-Rigaer-Str.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2019-05-09-Bersarinplatz-Rigaer-Str.jpg/1920px-2019-05-09-Bersarinplatz-Rigaer-Str.jpg
+  2019-05-09-Bersarinplatz-Petersburger-Str.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019-05-09-Bersarinplatz-Petersburger-Str.jpg/400px-2019-05-09-Bersarinplatz-Petersburger-Str.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019-05-09-Bersarinplatz-Petersburger-Str.jpg/800px-2019-05-09-Bersarinplatz-Petersburger-Str.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019-05-09-Bersarinplatz-Petersburger-Str.jpg/1200px-2019-05-09-Bersarinplatz-Petersburger-Str.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019-05-09-Bersarinplatz-Petersburger-Str.jpg/1920px-2019-05-09-Bersarinplatz-Petersburger-Str.jpg
+  Bersarinplatz 06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bersarinplatz_06.JPG/400px-Bersarinplatz_06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bersarinplatz_06.JPG/800px-Bersarinplatz_06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bersarinplatz_06.JPG/1200px-Bersarinplatz_06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bersarinplatz_06.JPG/1920px-Bersarinplatz_06.JPG
 ---
 
 ## Overview

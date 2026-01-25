@@ -13,7 +13,7 @@ regions:
 latitude: 47.5268369
 longitude: 10.4329279
 images:
-  - "/images-sites/oberjoch-pass/01-dd87d2e2-800w.webp"
+  - "/images/oberjoch-pass/01-dd87d2e2-800w.webp"
 ---
 
 ## Overview

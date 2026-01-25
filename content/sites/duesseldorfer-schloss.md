@@ -1,29 +1,43 @@
 ---
-title: "Düsseldorfer Schloss"
+title: Düsseldorfer Schloss
 date: 2026-01-23
 draft: false
-description: "German castle in Düsseldorf"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: German castle in Düsseldorf
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.2275
 longitude: 6.77111
-
-# Images
 images:
-  - "/images-sites/duesseldorfer-schloss/01-2a8aec9c-800w.webp"
-  - "/images-sites/duesseldorfer-schloss/02-503a2bab-800w.webp"
-  - "/images-sites/duesseldorfer-schloss/03-e04bbe86-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG/1200px-Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1200px-Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg/1200px-Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Duesseldorfer-Schloss-Ruine_1870.jpg/1200px-Duesseldorfer-Schloss-Ruine_1870.jpg
+image_srcset:
+  Düsseldorf, Residenzschloss im 17. Jahrhundert.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG/400px-Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG/800px-Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG/1200px-Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG/1920px-Düsseldorf,_Residenzschloss_im_17._Jahrhundert.PNG
+  Schlossturm in Duesseldorf-Altstadt, von Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/400px-Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/800px-Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1200px-Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg/1920px-Schlossturm_in_Duesseldorf-Altstadt,_von_Nordwesten.jpg
+  Düsseldorf, handkolorierter Kupferstich nach L.Janscha, 1798.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg/400px-Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg/800px-Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg/1200px-Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg/1920px-Düsseldorf,_handkolorierter_Kupferstich_nach_L.Janscha,_1798.jpg
+  Duesseldorfer-Schloss-Ruine 1870.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Duesseldorfer-Schloss-Ruine_1870.jpg/400px-Duesseldorfer-Schloss-Ruine_1870.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Duesseldorfer-Schloss-Ruine_1870.jpg/800px-Duesseldorfer-Schloss-Ruine_1870.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Duesseldorfer-Schloss-Ruine_1870.jpg/1200px-Duesseldorfer-Schloss-Ruine_1870.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Duesseldorfer-Schloss-Ruine_1870.jpg/1920px-Duesseldorfer-Schloss-Ruine_1870.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.5149213
 longitude: 13.5112267
 images:
-  - "/images-sites/the-socialists-memorial/01-64fa336f-800w.webp"
+  - "/images/the-socialists-memorial/01-64fa336f-800w.webp"
 ---
 
 ## Overview

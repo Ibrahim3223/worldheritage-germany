@@ -1,19 +1,50 @@
 ---
-title: "Church in Redefin"
-site_name: "Church in Redefin"
-slug: "church-in-redefin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Redefin
+site_name: Church in Redefin
+slug: church-in-redefin
+region: Mecklenburg-Vorpommern
 latitude: 53.3483
 longitude: 11.2008
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244640"
-description: "The Church in Redefin, a striking example of Gothic Revival architecture, stands as a prominent landmark in the region of Redefin, Germany. This church ..."
+- cultural site
+wikidata_id: Q1244640
+description: The Church in Redefin, a striking example of Gothic Revival architecture,
+  stands as a prominent landmark in the region of Redefin, Germany. This church ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Redefin%20church.jpg/1200px-Redefin%20church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1200px-Redefin_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Redefin_Kirche_2007-05-05_001.jpg/1200px-Redefin_Kirche_2007-05-05_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Redefin_Kirche_2007-05-05_006.jpg/1200px-Redefin_Kirche_2007-05-05_006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kirche_Redefin.jpg/1200px-Kirche_Redefin.jpg
+image_srcset:
+  Redefin%20church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Redefin%20church.jpg/400px-Redefin%20church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Redefin%20church.jpg/800px-Redefin%20church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Redefin%20church.jpg/1200px-Redefin%20church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Redefin%20church.jpg/1920px-Redefin%20church.jpg
+  Redefin church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/400px-Redefin_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/800px-Redefin_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1200px-Redefin_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Redefin_church.jpg/1920px-Redefin_church.jpg
+  Redefin Kirche 2007-05-05 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Redefin_Kirche_2007-05-05_001.jpg/400px-Redefin_Kirche_2007-05-05_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Redefin_Kirche_2007-05-05_001.jpg/800px-Redefin_Kirche_2007-05-05_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Redefin_Kirche_2007-05-05_001.jpg/1200px-Redefin_Kirche_2007-05-05_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Redefin_Kirche_2007-05-05_001.jpg/1920px-Redefin_Kirche_2007-05-05_001.jpg
+  Redefin Kirche 2007-05-05 006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Redefin_Kirche_2007-05-05_006.jpg/400px-Redefin_Kirche_2007-05-05_006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Redefin_Kirche_2007-05-05_006.jpg/800px-Redefin_Kirche_2007-05-05_006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Redefin_Kirche_2007-05-05_006.jpg/1200px-Redefin_Kirche_2007-05-05_006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Redefin_Kirche_2007-05-05_006.jpg/1920px-Redefin_Kirche_2007-05-05_006.jpg
+  Kirche Redefin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kirche_Redefin.jpg/400px-Kirche_Redefin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kirche_Redefin.jpg/800px-Kirche_Redefin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kirche_Redefin.jpg/1200px-Kirche_Redefin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kirche_Redefin.jpg/1920px-Kirche_Redefin.jpg
 ---
 
 ## Overview

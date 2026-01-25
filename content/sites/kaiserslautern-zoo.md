@@ -1,19 +1,49 @@
 ---
-title: "Kaiserslautern Zoo"
+title: Kaiserslautern Zoo
 date: 2026-01-24
 draft: false
-description: "German Zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: German Zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4661
 longitude: 7.68056
 images:
-  - "/images-sites/kaiserslautern-zoo/01-60a84b30-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ZOO-KL-Zebras.jpg/1200px-ZOO-KL-Zebras.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zoo-KL-Savannenlandschaft.jpg/1200px-Zoo-KL-Savannenlandschaft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ZOO-KL-Eingang.jpg/1200px-ZOO-KL-Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kaiserslautern_Zoo.jpg/1200px-Kaiserslautern_Zoo.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4._Affenhaus.jpg/1200px-4._Affenhaus.jpg
+image_srcset:
+  ZOO-KL-Zebras.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ZOO-KL-Zebras.jpg/400px-ZOO-KL-Zebras.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ZOO-KL-Zebras.jpg/800px-ZOO-KL-Zebras.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ZOO-KL-Zebras.jpg/1200px-ZOO-KL-Zebras.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ZOO-KL-Zebras.jpg/1920px-ZOO-KL-Zebras.jpg
+  Zoo-KL-Savannenlandschaft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zoo-KL-Savannenlandschaft.jpg/400px-Zoo-KL-Savannenlandschaft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zoo-KL-Savannenlandschaft.jpg/800px-Zoo-KL-Savannenlandschaft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zoo-KL-Savannenlandschaft.jpg/1200px-Zoo-KL-Savannenlandschaft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Zoo-KL-Savannenlandschaft.jpg/1920px-Zoo-KL-Savannenlandschaft.jpg
+  ZOO-KL-Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ZOO-KL-Eingang.jpg/400px-ZOO-KL-Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ZOO-KL-Eingang.jpg/800px-ZOO-KL-Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ZOO-KL-Eingang.jpg/1200px-ZOO-KL-Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ZOO-KL-Eingang.jpg/1920px-ZOO-KL-Eingang.jpg
+  Kaiserslautern Zoo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kaiserslautern_Zoo.jpg/400px-Kaiserslautern_Zoo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kaiserslautern_Zoo.jpg/800px-Kaiserslautern_Zoo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kaiserslautern_Zoo.jpg/1200px-Kaiserslautern_Zoo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kaiserslautern_Zoo.jpg/1920px-Kaiserslautern_Zoo.jpg
+  4. Affenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4._Affenhaus.jpg/400px-4._Affenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4._Affenhaus.jpg/800px-4._Affenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4._Affenhaus.jpg/1200px-4._Affenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4._Affenhaus.jpg/1920px-4._Affenhaus.jpg
 ---
 
 ## Overview

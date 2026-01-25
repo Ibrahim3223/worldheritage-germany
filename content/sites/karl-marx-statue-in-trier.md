@@ -13,7 +13,7 @@ regions:
 latitude: 49.759969444
 longitude: 6.642480555
 images:
-  - "/images-sites/karl-marx-statue-in-trier/01-c4c3698a-800w.webp"
+  - "/images/karl-marx-statue-in-trier/01-c4c3698a-800w.webp"
 ---
 
 ## Overview

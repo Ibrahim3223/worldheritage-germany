@@ -13,7 +13,7 @@ regions:
 latitude: 52.5203
 longitude: 13.4228
 images:
-  - "/images-sites/kino-international/01-879b0445-800w.webp"
+  - "/images/kino-international/01-879b0445-800w.webp"
 ---
 
 ## Overview

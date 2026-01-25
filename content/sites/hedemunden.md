@@ -1,28 +1,44 @@
 ---
-title: "Hedemunden"
+title: Hedemunden
 date: 2026-01-23
 draft: false
-description: "frührömische Befestigungsanlage an der Werra in Hedemünden, Hann. Münden, in Niedersachsen"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: frührömische Befestigungsanlage an der Werra in Hedemünden, Hann. Münden,
+  in Niedersachsen
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3956
 longitude: 9.74
-
-# Images
 images:
-  - "/images-sites/hedemunden/02-7419498b-800w.webp"
-  - "/images-sites/hedemunden/03-d9fb1528-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Krumberg-_Schutzhütte_-_panoramio.jpg/1200px-Krumberg-_Schutzhütte_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Werratal-Brücken.jpg/1200px-Werratal-Brücken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/WappenHedemuenden.jpg/1200px-WappenHedemuenden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedemuenden_003.jpg/1200px-Hedemuenden_003.jpg
+image_srcset:
+  Krumberg- Schutzhütte - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Krumberg-_Schutzhütte_-_panoramio.jpg/400px-Krumberg-_Schutzhütte_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Krumberg-_Schutzhütte_-_panoramio.jpg/800px-Krumberg-_Schutzhütte_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Krumberg-_Schutzhütte_-_panoramio.jpg/1200px-Krumberg-_Schutzhütte_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Krumberg-_Schutzhütte_-_panoramio.jpg/1920px-Krumberg-_Schutzhütte_-_panoramio.jpg
+  Werratal-Brücken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Werratal-Brücken.jpg/400px-Werratal-Brücken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Werratal-Brücken.jpg/800px-Werratal-Brücken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Werratal-Brücken.jpg/1200px-Werratal-Brücken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Werratal-Brücken.jpg/1920px-Werratal-Brücken.jpg
+  WappenHedemuenden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/WappenHedemuenden.jpg/400px-WappenHedemuenden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/WappenHedemuenden.jpg/800px-WappenHedemuenden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/WappenHedemuenden.jpg/1200px-WappenHedemuenden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/WappenHedemuenden.jpg/1920px-WappenHedemuenden.jpg
+  Hedemuenden 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedemuenden_003.jpg/400px-Hedemuenden_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedemuenden_003.jpg/800px-Hedemuenden_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedemuenden_003.jpg/1200px-Hedemuenden_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hedemuenden_003.jpg/1920px-Hedemuenden_003.jpg
 ---
 
 ## Overview

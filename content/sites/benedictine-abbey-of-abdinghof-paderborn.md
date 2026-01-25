@@ -13,7 +13,7 @@ regions:
 latitude: 51.71879
 longitude: 8.75316
 images:
-  - "/images-sites/benedictine-abbey-of-abdinghof-paderborn/01-b60a9faa-800w.webp"
+  - "/images/benedictine-abbey-of-abdinghof-paderborn/01-b60a9faa-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 6.93232
 
 # Images
 images:
-  - "/images-sites/weisshaus/01-e01f4ce6-800w.webp"
+  - "/images/weisshaus/01-e01f4ce6-800w.webp"
 ---
 
 ## Overview

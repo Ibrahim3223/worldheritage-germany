@@ -1,24 +1,51 @@
 ---
-title: "Gustav-Adolf-Kirche (Berlin-Charlottenburg)"
-site_name: "Gustav-Adolf-Kirche (Berlin-Charlottenburg)"
-slug: "gustav-adolf-kirche-berlin-charlottenburg"
-region: "Berlin"
-
-# Location
+title: Gustav-Adolf-Kirche (Berlin-Charlottenburg)
+site_name: Gustav-Adolf-Kirche (Berlin-Charlottenburg)
+slug: gustav-adolf-kirche-berlin-charlottenburg
+region: Berlin
 latitude: 52.5283
 longitude: 13.2989
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1555459"
-description: "In the heart of Berlin-Charlottenburg, the Gustav-Adolf-Kirche emerges as a striking example of modern architecture. This church, designed by Otto Bartn..."
+- church building
+- religious site
+wikidata_id: Q1555459
+description: In the heart of Berlin-Charlottenburg, the Gustav-Adolf-Kirche emerges
+  as a striking example of modern architecture. This church, designed by Otto Bartn...
 images:
-  - "/images-sites/gustav-adolf-kirche-berlin-charlottenburg/01-cd2dfbb4-1920w.webp"
-  - "/images-sites/gustav-adolf-kirche-berlin-charlottenburg/02-ed8c73e7-1920w.webp"
-  - "/images-sites/gustav-adolf-kirche-berlin-charlottenburg/03-b60c7507-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg/1200px-Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gustav-Adolf-Kirche_Bartning-Otto_04.jpg/1200px-Gustav-Adolf-Kirche_Bartning-Otto_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eingang_zur_Gustav-Adolf-Kirche.jpg/1200px-Eingang_zur_Gustav-Adolf-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1200px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg/1200px-Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg
+image_srcset:
+  Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg/400px-Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg/800px-Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg/1200px-Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg/1920px-Berlin-Charlottenburg%20Gustav-Adolf-Kirche2.jpg
+  Gustav-Adolf-Kirche Bartning-Otto 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gustav-Adolf-Kirche_Bartning-Otto_04.jpg/400px-Gustav-Adolf-Kirche_Bartning-Otto_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gustav-Adolf-Kirche_Bartning-Otto_04.jpg/800px-Gustav-Adolf-Kirche_Bartning-Otto_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gustav-Adolf-Kirche_Bartning-Otto_04.jpg/1200px-Gustav-Adolf-Kirche_Bartning-Otto_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gustav-Adolf-Kirche_Bartning-Otto_04.jpg/1920px-Gustav-Adolf-Kirche_Bartning-Otto_04.jpg
+  Eingang zur Gustav-Adolf-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eingang_zur_Gustav-Adolf-Kirche.jpg/400px-Eingang_zur_Gustav-Adolf-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eingang_zur_Gustav-Adolf-Kirche.jpg/800px-Eingang_zur_Gustav-Adolf-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eingang_zur_Gustav-Adolf-Kirche.jpg/1200px-Eingang_zur_Gustav-Adolf-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eingang_zur_Gustav-Adolf-Kirche.jpg/1920px-Eingang_zur_Gustav-Adolf-Kirche.jpg
+  Berlin-Charlottenburg Gustav-Adolf-Kirche2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/400px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/800px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1200px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg/1920px-Berlin-Charlottenburg_Gustav-Adolf-Kirche2.jpg
+  Berlin-Charlottenburg Gustav-Adolf-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg/400px-Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg/800px-Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg/1200px-Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg/1920px-Berlin-Charlottenburg_Gustav-Adolf-Kirche.jpg
 ---
 
 ## Overview

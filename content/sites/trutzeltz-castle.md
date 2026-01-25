@@ -21,9 +21,9 @@ longitude: 7.33633
 
 # Images
 images:
-  - "/images-sites/trutzeltz-castle/01-b12dfb3a-800w.webp"
-  - "/images-sites/trutzeltz-castle/02-70139873-800w.webp"
-  - "/images-sites/trutzeltz-castle/03-44029683-800w.webp"
+  - "/images/trutzeltz-castle/01-b12dfb3a-800w.webp"
+  - "/images/trutzeltz-castle/02-70139873-800w.webp"
+  - "/images/trutzeltz-castle/03-44029683-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2386656"
 description: "Tabor Church, a striking church building located in the Friedrichshain-Kreuzberg region of Berlin, Germany, stands as a notable example of early 20th-ce..."
 images:
-  - "/images-sites/tabor-church/01-17858763-1920w.webp"
-  - "/images-sites/tabor-church/02-e6dfcabd-1920w.webp"
-  - "/images-sites/tabor-church/03-705309b1-1920w.webp"
+  - "/images/tabor-church/01-17858763-1920w.webp"
+  - "/images/tabor-church/02-e6dfcabd-1920w.webp"
+  - "/images/tabor-church/03-705309b1-1920w.webp"
 ---
 
 ## Overview

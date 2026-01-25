@@ -1,19 +1,49 @@
 ---
-title: "Börneplatzsynagoge"
+title: Börneplatzsynagoge
 date: 2026-01-23
 draft: false
-description: "Synagoge in Frankfurt am Main"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: Synagoge in Frankfurt am Main
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1117
 longitude: 8.68944
 images:
-  - "/images-sites/boerneplatzsynagoge/02-e9eb49f3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg/1200px-Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif/1200px-Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg/1200px-Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/1200px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png/1200px-Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png
+image_srcset:
+  Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg/400px-Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg/800px-Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg/1200px-Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg/1920px-Boerneplatz-Gedenkstaette-2014-Ffm-339-342.jpg
+  Frankfurt Am Main-Boerneplatzsynagoge-Grundriss.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif/400px-Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif/800px-Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif/1200px-Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif/1920px-Frankfurt_Am_Main-Boerneplatzsynagoge-Grundriss.gif
+  Frankfurt am Main Synagogue; November Pogroms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg/400px-Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg/800px-Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg/1200px-Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg/1920px-Frankfurt_am_Main_Synagogue;_November_Pogroms.jpg
+  Frankfurt am Main Börneplatzsynagoge ca. 1890.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/400px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/800px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/1200px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg/1920px-Frankfurt_am_Main_Börneplatzsynagoge_ca._1890.jpg
+  Börnerplatz synagogue burning - Kristallnacht 1938-11-10.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png/400px-Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png/800px-Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png/1200px-Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png/1920px-Börnerplatz_synagogue_burning_-_Kristallnacht_1938-11-10.png
 ---
 
 ## Overview

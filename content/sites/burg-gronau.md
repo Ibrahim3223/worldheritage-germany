@@ -1,27 +1,49 @@
 ---
-title: "Burg Gronau"
+title: Burg Gronau
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4335
 longitude: 8.2756
-
-# Images
 images:
-  - "/images-sites/burg-gronau/01-9834bed0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gronau-Burg_02.jpg/1200px-Gronau-Burg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gronau-Burg_03.jpg/1200px-Gronau-Burg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Gronau_Grundrisse.jpg/1200px-Burg_Gronau_Grundrisse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Gronau_Gedenkstein.jpg/1200px-Burg_Gronau_Gedenkstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1200px-Gronau_Aufriss.jpg
+image_srcset:
+  Gronau-Burg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gronau-Burg_02.jpg/400px-Gronau-Burg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gronau-Burg_02.jpg/800px-Gronau-Burg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gronau-Burg_02.jpg/1200px-Gronau-Burg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gronau-Burg_02.jpg/1920px-Gronau-Burg_02.jpg
+  Gronau-Burg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gronau-Burg_03.jpg/400px-Gronau-Burg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gronau-Burg_03.jpg/800px-Gronau-Burg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gronau-Burg_03.jpg/1200px-Gronau-Burg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gronau-Burg_03.jpg/1920px-Gronau-Burg_03.jpg
+  Burg Gronau Grundrisse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Gronau_Grundrisse.jpg/400px-Burg_Gronau_Grundrisse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Gronau_Grundrisse.jpg/800px-Burg_Gronau_Grundrisse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Gronau_Grundrisse.jpg/1200px-Burg_Gronau_Grundrisse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Burg_Gronau_Grundrisse.jpg/1920px-Burg_Gronau_Grundrisse.jpg
+  Burg Gronau Gedenkstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Gronau_Gedenkstein.jpg/400px-Burg_Gronau_Gedenkstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Gronau_Gedenkstein.jpg/800px-Burg_Gronau_Gedenkstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Gronau_Gedenkstein.jpg/1200px-Burg_Gronau_Gedenkstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Burg_Gronau_Gedenkstein.jpg/1920px-Burg_Gronau_Gedenkstein.jpg
+  Gronau Aufriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/400px-Gronau_Aufriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/800px-Gronau_Aufriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1200px-Gronau_Aufriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gronau_Aufriss.jpg/1920px-Gronau_Aufriss.jpg
 ---
 
 ## Overview

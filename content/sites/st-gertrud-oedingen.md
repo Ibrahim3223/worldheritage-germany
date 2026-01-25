@@ -13,7 +13,7 @@ regions:
 latitude: 50.606214
 longitude: 7.157168
 images:
-  - "/images-sites/st-gertrud-oedingen/01-5cb73dd2-800w.webp"
+  - "/images/st-gertrud-oedingen/01-5cb73dd2-800w.webp"
 ---
 
 ## Overview

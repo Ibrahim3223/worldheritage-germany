@@ -13,7 +13,7 @@ regions:
 latitude: 49.755922
 longitude: 6.643994
 images:
-  - "/images-sites/treasury-of-the-cathedral-of-trier/01-f27e619f-800w.webp"
+  - "/images/treasury-of-the-cathedral-of-trier/01-f27e619f-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.63775
 longitude: 9.2085
 images:
-  - "/images-sites/quaet-faslem-house/01-80e9bf53-800w.webp"
+  - "/images/quaet-faslem-house/01-80e9bf53-800w.webp"
 ---
 
 ## Overview

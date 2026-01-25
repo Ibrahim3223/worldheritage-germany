@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1789978"
 description: "The Kronprinzenpalais, an architectural gem located in Stuttgart, is a striking representation of High Renaissance design. This palace, designed by Ludw..."
 images:
-  - "/images-sites/kronprinzenpalais/01-12f58034-1920w.webp"
-  - "/images-sites/kronprinzenpalais/02-25c823e9-1920w.webp"
-  - "/images-sites/kronprinzenpalais/03-70d7f708-1920w.webp"
+  - "/images/kronprinzenpalais/01-12f58034-1920w.webp"
+  - "/images/kronprinzenpalais/02-25c823e9-1920w.webp"
+  - "/images/kronprinzenpalais/03-70d7f708-1920w.webp"
 ---
 
 ## Overview

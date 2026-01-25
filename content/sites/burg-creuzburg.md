@@ -1,27 +1,49 @@
 ---
-title: "Burg Creuzburg"
+title: Burg Creuzburg
 date: 2026-01-23
 draft: false
-description: "castle in Creuzburg, Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Creuzburg, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.051111111
 longitude: 10.244444444
-
-# Images
 images:
-  - "/images-sites/burg-creuzburg/01-b69be130-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Creuzburg_Außenwand.jpg/1200px-Burg_Creuzburg_Außenwand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Creuzburg_Park.jpg/1200px-Burg_Creuzburg_Park.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Creuzburg_Linde.jpg/1200px-Burg_Creuzburg_Linde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creuzburg.jpg/1200px-Creuzburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Creuzburg_2022,_Herbst,_01.jpg/1200px-Burg_Creuzburg_2022,_Herbst,_01.jpg
+image_srcset:
+  Burg Creuzburg Außenwand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Creuzburg_Außenwand.jpg/400px-Burg_Creuzburg_Außenwand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Creuzburg_Außenwand.jpg/800px-Burg_Creuzburg_Außenwand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Creuzburg_Außenwand.jpg/1200px-Burg_Creuzburg_Außenwand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burg_Creuzburg_Außenwand.jpg/1920px-Burg_Creuzburg_Außenwand.jpg
+  Burg Creuzburg Park.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Creuzburg_Park.jpg/400px-Burg_Creuzburg_Park.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Creuzburg_Park.jpg/800px-Burg_Creuzburg_Park.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Creuzburg_Park.jpg/1200px-Burg_Creuzburg_Park.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Burg_Creuzburg_Park.jpg/1920px-Burg_Creuzburg_Park.jpg
+  Burg Creuzburg Linde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Creuzburg_Linde.jpg/400px-Burg_Creuzburg_Linde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Creuzburg_Linde.jpg/800px-Burg_Creuzburg_Linde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Creuzburg_Linde.jpg/1200px-Burg_Creuzburg_Linde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Creuzburg_Linde.jpg/1920px-Burg_Creuzburg_Linde.jpg
+  Creuzburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creuzburg.jpg/400px-Creuzburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creuzburg.jpg/800px-Creuzburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creuzburg.jpg/1200px-Creuzburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creuzburg.jpg/1920px-Creuzburg.jpg
+  Burg Creuzburg 2022, Herbst, 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Creuzburg_2022,_Herbst,_01.jpg/400px-Burg_Creuzburg_2022,_Herbst,_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Creuzburg_2022,_Herbst,_01.jpg/800px-Burg_Creuzburg_2022,_Herbst,_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Creuzburg_2022,_Herbst,_01.jpg/1200px-Burg_Creuzburg_2022,_Herbst,_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Creuzburg_2022,_Herbst,_01.jpg/1920px-Burg_Creuzburg_2022,_Herbst,_01.jpg
 ---
 
 ## Overview

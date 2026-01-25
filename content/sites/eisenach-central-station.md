@@ -1,21 +1,49 @@
 ---
-title: "Eisenach Central Station"
+title: Eisenach Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.97678
 longitude: 10.332013
 images:
-  - "/images-sites/eisenach-central-station/01-e94c0439-800w.webp"
-  - "/images-sites/eisenach-central-station/02-abff6109-800w.webp"
-  - "/images-sites/eisenach-central-station/03-011662d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg/1200px-Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/1200px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG/1200px-Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Architektur_ESA-HBf_Bild_48.jpg/1200px-Architektur_ESA-HBf_Bild_48.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eisenach_Station,_August_evening_1991_(2978127359).jpg/1200px-Eisenach_Station,_August_evening_1991_(2978127359).jpg
+image_srcset:
+  Thuringia Eisenach asv2020-07 img13 Railway station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg/400px-Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg/800px-Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg/1200px-Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg/1920px-Thuringia_Eisenach_asv2020-07_img13_Railway_station.jpg
+  Thuringia Eisenach asv2020-07 img32 Railway station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/400px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/800px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/1200px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg/1920px-Thuringia_Eisenach_asv2020-07_img32_Railway_station.jpg
+  Eisenach23 Bahnhofstraße Tor zur Stadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG/400px-Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG/800px-Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG/1200px-Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG/1920px-Eisenach23_Bahnhofstraße_Tor_zur_Stadt.JPG
+  Architektur ESA-HBf Bild 48.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Architektur_ESA-HBf_Bild_48.jpg/400px-Architektur_ESA-HBf_Bild_48.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Architektur_ESA-HBf_Bild_48.jpg/800px-Architektur_ESA-HBf_Bild_48.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Architektur_ESA-HBf_Bild_48.jpg/1200px-Architektur_ESA-HBf_Bild_48.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Architektur_ESA-HBf_Bild_48.jpg/1920px-Architektur_ESA-HBf_Bild_48.jpg
+  Eisenach Station, August evening 1991 (2978127359).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eisenach_Station,_August_evening_1991_(2978127359).jpg/400px-Eisenach_Station,_August_evening_1991_(2978127359).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eisenach_Station,_August_evening_1991_(2978127359).jpg/800px-Eisenach_Station,_August_evening_1991_(2978127359).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eisenach_Station,_August_evening_1991_(2978127359).jpg/1200px-Eisenach_Station,_August_evening_1991_(2978127359).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eisenach_Station,_August_evening_1991_(2978127359).jpg/1920px-Eisenach_Station,_August_evening_1991_(2978127359).jpg
 ---
 
 ## Overview

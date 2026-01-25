@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1252241"
 description: "In the heart of Altstadt-Süd, Germany, lies St. Gregorius im Elend, a remarkable church building that captures the attention of visitors with its distin..."
 images:
-  - "/images-sites/st-gregorius-im-elend/01-8e30ad1b-1920w.webp"
-  - "/images-sites/st-gregorius-im-elend/02-b57d6e59-1920w.webp"
-  - "/images-sites/st-gregorius-im-elend/03-17fc12c0-1920w.webp"
+  - "/images/st-gregorius-im-elend/01-8e30ad1b-1920w.webp"
+  - "/images/st-gregorius-im-elend/02-b57d6e59-1920w.webp"
+  - "/images/st-gregorius-im-elend/03-17fc12c0-1920w.webp"
 ---
 
 ## Overview

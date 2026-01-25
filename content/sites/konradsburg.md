@@ -13,9 +13,9 @@ regions:
 latitude: 51.714333333
 longitude: 11.347305555
 images:
-  - "/images-sites/konradsburg/01-d297839e-800w.webp"
-  - "/images-sites/konradsburg/02-6f0c54a1-800w.webp"
-  - "/images-sites/konradsburg/03-a1c00309-800w.webp"
+  - "/images/konradsburg/01-d297839e-800w.webp"
+  - "/images/konradsburg/02-6f0c54a1-800w.webp"
+  - "/images/konradsburg/03-a1c00309-800w.webp"
 ---
 
 ## Overview

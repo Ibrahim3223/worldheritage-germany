@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2322340"
 description: "In the heart of Heidelberg, Germany, a striking example of modern architecture stands proud: St. Paul, a church building that captivates visitors with i..."
 images:
-  - "/images-sites/st-paul/01-aa0f565f-1920w.webp"
-  - "/images-sites/st-paul/02-babfa873-1920w.webp"
-  - "/images-sites/st-paul/03-f1be57cf-1920w.webp"
+  - "/images/st-paul/01-aa0f565f-1920w.webp"
+  - "/images/st-paul/02-babfa873-1920w.webp"
+  - "/images/st-paul/03-f1be57cf-1920w.webp"
 ---
 
 ## Overview

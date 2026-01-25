@@ -1,19 +1,37 @@
 ---
-title: "Feuerbach House"
+title: Feuerbach House
 date: 2026-01-23
 draft: false
-description: "museum in Speyer, Rhineland-Palatinate, Germany (1971-)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: museum in Speyer, Rhineland-Palatinate, Germany (1971-)
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3146
 longitude: 8.43567
 images:
-  - "/images-sites/feuerbach-house/01-77bbcc95-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Brunnen_Allerheiligenstrasse.jpg/1200px-Brunnen_Allerheiligenstrasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg/1200px-Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Feuerbach_Dantebarke.jpg/1200px-Feuerbach_Dantebarke.jpg
+image_srcset:
+  Brunnen Allerheiligenstrasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Brunnen_Allerheiligenstrasse.jpg/400px-Brunnen_Allerheiligenstrasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Brunnen_Allerheiligenstrasse.jpg/800px-Brunnen_Allerheiligenstrasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Brunnen_Allerheiligenstrasse.jpg/1200px-Brunnen_Allerheiligenstrasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Brunnen_Allerheiligenstrasse.jpg/1920px-Brunnen_Allerheiligenstrasse.jpg
+  Anselm Feuerbach - Dante und Vergil in der Hölle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg/400px-Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg/800px-Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg/1200px-Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg/1920px-Anselm_Feuerbach_-_Dante_und_Vergil_in_der_Hölle.jpg
+  Feuerbach Dantebarke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Feuerbach_Dantebarke.jpg/400px-Feuerbach_Dantebarke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Feuerbach_Dantebarke.jpg/800px-Feuerbach_Dantebarke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Feuerbach_Dantebarke.jpg/1200px-Feuerbach_Dantebarke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Feuerbach_Dantebarke.jpg/1920px-Feuerbach_Dantebarke.jpg
 ---
 
 ## Overview

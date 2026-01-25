@@ -1,20 +1,52 @@
 ---
-title: "Elisabeth-Kirche (Halle)"
-site_name: "Elisabeth-Kirche (Halle)"
-slug: "elisabeth-kirche-halle"
-region: "Brandenburg"
-
-# Location
+title: Elisabeth-Kirche (Halle)
+site_name: Elisabeth-Kirche (Halle)
+slug: elisabeth-kirche-halle
+region: Brandenburg
 latitude: 51.4782
 longitude: 11.967
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1701701"
-description: "In the heart of Halle (Saale), Germany, stands the Elisabeth-Kirche, a striking example of Gothic Revival architecture that captures the imagination of ..."
+- church building
+- religious site
+wikidata_id: Q1701701
+description: In the heart of Halle (Saale), Germany, stands the Elisabeth-Kirche,
+  a striking example of Gothic Revival architecture that captures the imagination
+  of ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg/1200px-2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg/1200px-Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hochstraße_Halle.jpg/1200px-Hochstraße_Halle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg/1200px-Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1200px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
+image_srcset:
+  2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg/400px-2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg/800px-2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg/1200px-2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg/1920px-2008-01%20Halle%20%28Saale%29%2007%20Elisabeth-Kirche.jpg
+  Halle(Saale) Elisabethkirche asv2024-04 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg/400px-Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg/800px-Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg/1200px-Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg/1920px-Halle(Saale)_Elisabethkirche_asv2024-04_img1.jpg
+  Hochstraße Halle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hochstraße_Halle.jpg/400px-Hochstraße_Halle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hochstraße_Halle.jpg/800px-Hochstraße_Halle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hochstraße_Halle.jpg/1200px-Hochstraße_Halle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hochstraße_Halle.jpg/1920px-Hochstraße_Halle.jpg
+  Halle(Saale) Elisabethkirche asv2024-04 img2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg/400px-Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg/800px-Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg/1200px-Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg/1920px-Halle(Saale)_Elisabethkirche_asv2024-04_img2.jpg
+  2008-01 Halle (Saale) 07 Elisabeth-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/400px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/800px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1200px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg/1920px-2008-01_Halle_(Saale)_07_Elisabeth-Kirche.jpg
 ---
 
 ## Overview

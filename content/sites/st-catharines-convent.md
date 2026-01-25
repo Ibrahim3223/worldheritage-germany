@@ -13,8 +13,8 @@ regions:
 latitude: 48.3647
 longitude: 10.8972
 images:
-  - "/images-sites/st-catharines-convent/01-c82bcf67-800w.webp"
-  - "/images-sites/st-catharines-convent/02-a878babe-800w.webp"
+  - "/images/st-catharines-convent/01-c82bcf67-800w.webp"
+  - "/images/st-catharines-convent/02-a878babe-800w.webp"
 ---
 
 ## Overview

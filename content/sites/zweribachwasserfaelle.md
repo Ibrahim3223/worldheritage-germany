@@ -13,7 +13,7 @@ regions:
 latitude: 48.0431
 longitude: 8.09294
 images:
-  - "/images-sites/zweribachwasserfaelle/01-a22df72e-800w.webp"
+  - "/images/zweribachwasserfaelle/01-a22df72e-800w.webp"
 ---
 
 ## Overview

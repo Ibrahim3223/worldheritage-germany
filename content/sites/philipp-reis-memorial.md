@@ -13,8 +13,8 @@ regions:
 latitude: 50.117997041
 longitude: 8.680244236
 images:
-  - "/images-sites/philipp-reis-memorial/02-f4d2a48a-800w.webp"
-  - "/images-sites/philipp-reis-memorial/03-53ae154e-800w.webp"
+  - "/images/philipp-reis-memorial/02-f4d2a48a-800w.webp"
+  - "/images/philipp-reis-memorial/03-53ae154e-800w.webp"
 ---
 
 ## Overview

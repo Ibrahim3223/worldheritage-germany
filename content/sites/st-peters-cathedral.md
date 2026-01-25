@@ -13,9 +13,9 @@ regions:
 latitude: 52.277569
 longitude: 8.044722
 images:
-  - "/images-sites/st-peters-cathedral/01-741d5017-800w.webp"
-  - "/images-sites/st-peters-cathedral/02-be2a24a9-800w.webp"
-  - "/images-sites/st-peters-cathedral/03-96ddb821-800w.webp"
+  - "/images/st-peters-cathedral/01-741d5017-800w.webp"
+  - "/images/st-peters-cathedral/02-be2a24a9-800w.webp"
+  - "/images/st-peters-cathedral/03-96ddb821-800w.webp"
 ---
 
 ## Overview

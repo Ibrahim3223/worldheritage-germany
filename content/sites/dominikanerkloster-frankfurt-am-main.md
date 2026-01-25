@@ -1,19 +1,49 @@
 ---
-title: "Dominikanerkloster Frankfurt am Main"
+title: Dominikanerkloster Frankfurt am Main
 date: 2026-01-23
 draft: false
-description: "former Christian monastery in Frankfurt am Main"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Christian monastery in Frankfurt am Main
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1117
 longitude: 8.68778
 images:
-  - "/images-sites/dominikanerkloster-frankfurt-am-main/01-91447f59-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/J36_038_Dominikanski_samostan_Sv._Nikole.jpg/1200px-J36_038_Dominikanski_samostan_Sv._Nikole.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg/1200px-Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt-Judengasse-1628-MkII.gif/1200px-Frankfurt-Judengasse-1628-MkII.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg/1200px-Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Frankfurt_Judengasse_1628.jpg/1200px-Frankfurt_Judengasse_1628.jpg
+image_srcset:
+  J36 038 Dominikanski samostan Sv. Nikole.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/J36_038_Dominikanski_samostan_Sv._Nikole.jpg/400px-J36_038_Dominikanski_samostan_Sv._Nikole.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/J36_038_Dominikanski_samostan_Sv._Nikole.jpg/800px-J36_038_Dominikanski_samostan_Sv._Nikole.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/J36_038_Dominikanski_samostan_Sv._Nikole.jpg/1200px-J36_038_Dominikanski_samostan_Sv._Nikole.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/J36_038_Dominikanski_samostan_Sv._Nikole.jpg/1920px-J36_038_Dominikanski_samostan_Sv._Nikole.jpg
+  Frankfurt am Main, Heilig-Geist-Kirche -- 2015 -- 6721.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg/400px-Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg/800px-Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg/1200px-Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg/1920px-Frankfurt_am_Main,_Heilig-Geist-Kirche_--_2015_--_6721.jpg
+  Frankfurt-Judengasse-1628-MkII.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt-Judengasse-1628-MkII.gif/400px-Frankfurt-Judengasse-1628-MkII.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt-Judengasse-1628-MkII.gif/800px-Frankfurt-Judengasse-1628-MkII.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt-Judengasse-1628-MkII.gif/1200px-Frankfurt-Judengasse-1628-MkII.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt-Judengasse-1628-MkII.gif/1920px-Frankfurt-Judengasse-1628-MkII.gif
+  Frankfurt Am Main-Dominikanerkloster-Ansicht von der Kurt-Schumacher-Strasse-Gegenwart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg/400px-Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg/800px-Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg/1200px-Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg/1920px-Frankfurt_Am_Main-Dominikanerkloster-Ansicht_von_der_Kurt-Schumacher-Strasse-Gegenwart.jpg
+  Frankfurt Judengasse 1628.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Frankfurt_Judengasse_1628.jpg/400px-Frankfurt_Judengasse_1628.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Frankfurt_Judengasse_1628.jpg/800px-Frankfurt_Judengasse_1628.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Frankfurt_Judengasse_1628.jpg/1200px-Frankfurt_Judengasse_1628.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Frankfurt_Judengasse_1628.jpg/1920px-Frankfurt_Judengasse_1628.jpg
 ---
 
 ## Overview

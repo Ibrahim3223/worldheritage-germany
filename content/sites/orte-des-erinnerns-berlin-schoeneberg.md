@@ -13,7 +13,7 @@ regions:
 latitude: 52.4906
 longitude: 13.3417
 images:
-  - "/images-sites/orte-des-erinnerns-berlin-schoeneberg/01-74606cef-800w.webp"
+  - "/images/orte-des-erinnerns-berlin-schoeneberg/01-74606cef-800w.webp"
 ---
 
 ## Overview

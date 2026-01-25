@@ -13,7 +13,7 @@ regions:
 latitude: 51.7889
 longitude: 6.00778
 images:
-  - "/images-sites/katharinenhof-kranenburg/01-9bd07e58-800w.webp"
+  - "/images/katharinenhof-kranenburg/01-9bd07e58-800w.webp"
 ---
 
 ## Overview

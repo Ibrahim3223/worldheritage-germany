@@ -1,19 +1,51 @@
 ---
-title: "Church in Dennin"
-site_name: "Church in Dennin"
-slug: "church-in-dennin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Dennin
+site_name: Church in Dennin
+slug: church-in-dennin
+region: Mecklenburg-Vorpommern
 latitude: 53.7913
 longitude: 13.4792
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1663857"
-description: "In the quaint region of Spantekow, Germany, the Church in Dennin stands as an intriguing example of Brick Gothic architecture. This church, constructed ..."
+- cultural site
+wikidata_id: Q1663857
+description: In the quaint region of Spantekow, Germany, the Church in Dennin stands
+  as an intriguing example of Brick Gothic architecture. This church, constructed
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dennin%20Kirche%20S%C3%BCdost.JPG/1200px-Dennin%20Kirche%20S%C3%BCdost.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dennin_Kirche_Nordost.JPG/1200px-Dennin_Kirche_Nordost.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dennin_Kirche_Nordwest.JPG/1200px-Dennin_Kirche_Nordwest.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dennin_Kirche_Ostgiebel.JPG/1200px-Dennin_Kirche_Ostgiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1200px-Dennin_Kirche_Südost.JPG
+image_srcset:
+  Dennin%20Kirche%20S%C3%BCdost.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dennin%20Kirche%20S%C3%BCdost.JPG/400px-Dennin%20Kirche%20S%C3%BCdost.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dennin%20Kirche%20S%C3%BCdost.JPG/800px-Dennin%20Kirche%20S%C3%BCdost.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dennin%20Kirche%20S%C3%BCdost.JPG/1200px-Dennin%20Kirche%20S%C3%BCdost.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dennin%20Kirche%20S%C3%BCdost.JPG/1920px-Dennin%20Kirche%20S%C3%BCdost.JPG
+  Dennin Kirche Nordost.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dennin_Kirche_Nordost.JPG/400px-Dennin_Kirche_Nordost.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dennin_Kirche_Nordost.JPG/800px-Dennin_Kirche_Nordost.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dennin_Kirche_Nordost.JPG/1200px-Dennin_Kirche_Nordost.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dennin_Kirche_Nordost.JPG/1920px-Dennin_Kirche_Nordost.JPG
+  Dennin Kirche Nordwest.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dennin_Kirche_Nordwest.JPG/400px-Dennin_Kirche_Nordwest.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dennin_Kirche_Nordwest.JPG/800px-Dennin_Kirche_Nordwest.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dennin_Kirche_Nordwest.JPG/1200px-Dennin_Kirche_Nordwest.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dennin_Kirche_Nordwest.JPG/1920px-Dennin_Kirche_Nordwest.JPG
+  Dennin Kirche Ostgiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dennin_Kirche_Ostgiebel.JPG/400px-Dennin_Kirche_Ostgiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dennin_Kirche_Ostgiebel.JPG/800px-Dennin_Kirche_Ostgiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dennin_Kirche_Ostgiebel.JPG/1200px-Dennin_Kirche_Ostgiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dennin_Kirche_Ostgiebel.JPG/1920px-Dennin_Kirche_Ostgiebel.JPG
+  Dennin Kirche Südost.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/400px-Dennin_Kirche_Südost.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/800px-Dennin_Kirche_Südost.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1200px-Dennin_Kirche_Südost.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dennin_Kirche_Südost.JPG/1920px-Dennin_Kirche_Südost.JPG
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Goosemoor"
+title: Goosemoor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7161
 longitude: 9.90722
 images:
-  - "/images-sites/goosemoor/01-64aa6a8a-800w.webp"
-  - "/images-sites/goosemoor/02-64aa6a8a-800w.webp"
-  - "/images-sites/goosemoor/03-de6cfd6c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg/1200px-Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg/1200px-Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg/1200px-Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg/1200px-Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg/1200px-Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg
+image_srcset:
+  Obstacle course, Goosemoor - geograph.org.uk - 6533312.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg/400px-Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg/800px-Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg/1200px-Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg/1920px-Obstacle_course,_Goosemoor_-_geograph.org.uk_-_6533312.jpg
+  Timberyard on Goosemoor Lane, Erdington - geograph.org.uk - 2408471.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg/400px-Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg/800px-Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg/1200px-Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg/1920px-Timberyard_on_Goosemoor_Lane,_Erdington_-_geograph.org.uk_-_2408471.jpg
+  Up the lane towards Goosemoor - geograph.org.uk - 3511577.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg/400px-Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg/800px-Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg/1200px-Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg/1920px-Up_the_lane_towards_Goosemoor_-_geograph.org.uk_-_3511577.jpg
+  Lambs in the lane - geograph.org.uk - 455442.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg/400px-Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg/800px-Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg/1200px-Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg/1920px-Lambs_in_the_lane_-_geograph.org.uk_-_455442.jpg
+  Near Goosemoor - geograph.org.uk - 1370343.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg/400px-Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg/800px-Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg/1200px-Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg/1920px-Near_Goosemoor_-_geograph.org.uk_-_1370343.jpg
 ---
 
 ## Overview

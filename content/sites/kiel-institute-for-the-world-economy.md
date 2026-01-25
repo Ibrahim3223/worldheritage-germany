@@ -21,9 +21,9 @@ longitude: 10.156222222
 
 # Images
 images:
-  - "/images-sites/kiel-institute-for-the-world-economy/01-1d423aa7-800w.webp"
-  - "/images-sites/kiel-institute-for-the-world-economy/02-e3e11d6c-800w.webp"
-  - "/images-sites/kiel-institute-for-the-world-economy/03-c4a132df-800w.webp"
+  - "/images/kiel-institute-for-the-world-economy/01-1d423aa7-800w.webp"
+  - "/images/kiel-institute-for-the-world-economy/02-e3e11d6c-800w.webp"
+  - "/images/kiel-institute-for-the-world-economy/03-c4a132df-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.98717
 longitude: 12.43785
 images:
-  - "/images-sites/theater-altenburg/01-786689a2-800w.webp"
-  - "/images-sites/theater-altenburg/02-a4e20abb-800w.webp"
-  - "/images-sites/theater-altenburg/03-093b738b-800w.webp"
+  - "/images/theater-altenburg/01-786689a2-800w.webp"
+  - "/images/theater-altenburg/02-a4e20abb-800w.webp"
+  - "/images/theater-altenburg/03-093b738b-800w.webp"
 ---
 
 ## Overview

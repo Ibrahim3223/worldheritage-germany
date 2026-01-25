@@ -21,8 +21,8 @@ longitude: 13.7349
 
 # Images
 images:
-  - "/images-sites/semper-gallery/02-8ecce545-800w.webp"
-  - "/images-sites/semper-gallery/03-0abcd5c4-800w.webp"
+  - "/images/semper-gallery/02-8ecce545-800w.webp"
+  - "/images/semper-gallery/03-0abcd5c4-800w.webp"
 ---
 
 ## Overview

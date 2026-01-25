@@ -1,20 +1,39 @@
 ---
-title: "Dorfkirche Reesen"
-site_name: "Dorfkirche Reesen"
-slug: "dorfkirche-reesen"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Reesen
+site_name: Dorfkirche Reesen
+slug: dorfkirche-reesen
+region: Brandenburg
 latitude: 52.2842
 longitude: 11.9386
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244644"
-description: "In the heart of Burg, Saxony-Anhalt, lies the Dorfkirche Reesen, a church building that captivates visitors with its Romanesque architectural style. Thi..."
+- church building
+- religious site
+wikidata_id: Q1244644
+description: In the heart of Burg, Saxony-Anhalt, lies the Dorfkirche Reesen, a church
+  building that captivates visitors with its Romanesque architectural style. Thi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/1200px-Reesenkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche_Reesen_Westseite.jpg/1200px-Dorfkirche_Reesen_Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Reesen.jpg/1200px-Dorfkirche_Reesen.jpg
+image_srcset:
+  Reesenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/400px-Reesenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/800px-Reesenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/1200px-Reesenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Reesenkirche.jpg/1920px-Reesenkirche.jpg
+  Dorfkirche Reesen Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche_Reesen_Westseite.jpg/400px-Dorfkirche_Reesen_Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche_Reesen_Westseite.jpg/800px-Dorfkirche_Reesen_Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche_Reesen_Westseite.jpg/1200px-Dorfkirche_Reesen_Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dorfkirche_Reesen_Westseite.jpg/1920px-Dorfkirche_Reesen_Westseite.jpg
+  Dorfkirche Reesen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Reesen.jpg/400px-Dorfkirche_Reesen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Reesen.jpg/800px-Dorfkirche_Reesen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Reesen.jpg/1200px-Dorfkirche_Reesen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dorfkirche_Reesen.jpg/1920px-Dorfkirche_Reesen.jpg
 ---
 
 ## Overview

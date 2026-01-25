@@ -1,19 +1,49 @@
 ---
-title: "Brahms-Museum"
+title: Brahms-Museum
 date: 2026-01-23
 draft: false
-description: "museum on Johannes Brahms in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum on Johannes Brahms in Hamburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55123
 longitude: 9.976573
 images:
-  - "/images-sites/brahms-museum/01-75c5d1b7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brahms-Haus,_Mürzzuschlag_-_column.jpg/1200px-Brahms-Haus,_Mürzzuschlag_-_column.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MZ_Dietrichhausinnenhof.jpg/1200px-MZ_Dietrichhausinnenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Brahms-Haus,_Mürzzuschlag_01.jpg/1200px-Brahms-Haus,_Mürzzuschlag_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brahms-Haus,_Mürzzuschlag_02.jpg/1200px-Brahms-Haus,_Mürzzuschlag_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mürzzuschlag_-_Brahmshaus.JPG/1200px-Mürzzuschlag_-_Brahmshaus.JPG
+image_srcset:
+  Brahms-Haus, Mürzzuschlag - column.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brahms-Haus,_Mürzzuschlag_-_column.jpg/400px-Brahms-Haus,_Mürzzuschlag_-_column.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brahms-Haus,_Mürzzuschlag_-_column.jpg/800px-Brahms-Haus,_Mürzzuschlag_-_column.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brahms-Haus,_Mürzzuschlag_-_column.jpg/1200px-Brahms-Haus,_Mürzzuschlag_-_column.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brahms-Haus,_Mürzzuschlag_-_column.jpg/1920px-Brahms-Haus,_Mürzzuschlag_-_column.jpg
+  MZ Dietrichhausinnenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MZ_Dietrichhausinnenhof.jpg/400px-MZ_Dietrichhausinnenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MZ_Dietrichhausinnenhof.jpg/800px-MZ_Dietrichhausinnenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MZ_Dietrichhausinnenhof.jpg/1200px-MZ_Dietrichhausinnenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MZ_Dietrichhausinnenhof.jpg/1920px-MZ_Dietrichhausinnenhof.jpg
+  Brahms-Haus, Mürzzuschlag 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Brahms-Haus,_Mürzzuschlag_01.jpg/400px-Brahms-Haus,_Mürzzuschlag_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Brahms-Haus,_Mürzzuschlag_01.jpg/800px-Brahms-Haus,_Mürzzuschlag_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Brahms-Haus,_Mürzzuschlag_01.jpg/1200px-Brahms-Haus,_Mürzzuschlag_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Brahms-Haus,_Mürzzuschlag_01.jpg/1920px-Brahms-Haus,_Mürzzuschlag_01.jpg
+  Brahms-Haus, Mürzzuschlag 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brahms-Haus,_Mürzzuschlag_02.jpg/400px-Brahms-Haus,_Mürzzuschlag_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brahms-Haus,_Mürzzuschlag_02.jpg/800px-Brahms-Haus,_Mürzzuschlag_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brahms-Haus,_Mürzzuschlag_02.jpg/1200px-Brahms-Haus,_Mürzzuschlag_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brahms-Haus,_Mürzzuschlag_02.jpg/1920px-Brahms-Haus,_Mürzzuschlag_02.jpg
+  Mürzzuschlag - Brahmshaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mürzzuschlag_-_Brahmshaus.JPG/400px-Mürzzuschlag_-_Brahmshaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mürzzuschlag_-_Brahmshaus.JPG/800px-Mürzzuschlag_-_Brahmshaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mürzzuschlag_-_Brahmshaus.JPG/1200px-Mürzzuschlag_-_Brahmshaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mürzzuschlag_-_Brahmshaus.JPG/1920px-Mürzzuschlag_-_Brahmshaus.JPG
 ---
 
 ## Overview

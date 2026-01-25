@@ -1,27 +1,49 @@
 ---
-title: "Grünwald Castle"
+title: Grünwald Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.0431
 longitude: 11.5193
-
-# Images
 images:
-  - "/images-sites/gruenwald-castle/01-83a31514-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Gruenwald-8.jpg/1200px-Burg_Gruenwald-8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Gruenwald-13.jpg/1200px-Burg_Gruenwald-13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gruenwald-6.jpg/1200px-Burg_Gruenwald-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Gruenwald-10.jpg/1200px-Burg_Gruenwald-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1200px-Burg_Gruenwald.jpg
+image_srcset:
+  Burg Gruenwald-8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Gruenwald-8.jpg/400px-Burg_Gruenwald-8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Gruenwald-8.jpg/800px-Burg_Gruenwald-8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Gruenwald-8.jpg/1200px-Burg_Gruenwald-8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Burg_Gruenwald-8.jpg/1920px-Burg_Gruenwald-8.jpg
+  Burg Gruenwald-13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Gruenwald-13.jpg/400px-Burg_Gruenwald-13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Gruenwald-13.jpg/800px-Burg_Gruenwald-13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Gruenwald-13.jpg/1200px-Burg_Gruenwald-13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Gruenwald-13.jpg/1920px-Burg_Gruenwald-13.jpg
+  Burg Gruenwald-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gruenwald-6.jpg/400px-Burg_Gruenwald-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gruenwald-6.jpg/800px-Burg_Gruenwald-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gruenwald-6.jpg/1200px-Burg_Gruenwald-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gruenwald-6.jpg/1920px-Burg_Gruenwald-6.jpg
+  Burg Gruenwald-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Gruenwald-10.jpg/400px-Burg_Gruenwald-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Gruenwald-10.jpg/800px-Burg_Gruenwald-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Gruenwald-10.jpg/1200px-Burg_Gruenwald-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Burg_Gruenwald-10.jpg/1920px-Burg_Gruenwald-10.jpg
+  Burg Gruenwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/400px-Burg_Gruenwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/800px-Burg_Gruenwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1200px-Burg_Gruenwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Burg_Gruenwald.jpg/1920px-Burg_Gruenwald.jpg
 ---
 
 ## Overview

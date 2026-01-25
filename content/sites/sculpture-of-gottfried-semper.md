@@ -13,7 +13,7 @@ regions:
 latitude: 51.05270556
 longitude: 13.74396944
 images:
-  - "/images-sites/sculpture-of-gottfried-semper/01-fc35cda9-800w.webp"
+  - "/images/sculpture-of-gottfried-semper/01-fc35cda9-800w.webp"
 ---
 
 ## Overview

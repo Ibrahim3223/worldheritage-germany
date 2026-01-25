@@ -13,8 +13,8 @@ regions:
 latitude: 51.32737
 longitude: 12.3947
 images:
-  - "/images-sites/neuer-johannisfriedhof-leipzig/01-69e954aa-800w.webp"
-  - "/images-sites/neuer-johannisfriedhof-leipzig/03-688856ce-800w.webp"
+  - "/images/neuer-johannisfriedhof-leipzig/01-69e954aa-800w.webp"
+  - "/images/neuer-johannisfriedhof-leipzig/03-688856ce-800w.webp"
 ---
 
 ## Overview

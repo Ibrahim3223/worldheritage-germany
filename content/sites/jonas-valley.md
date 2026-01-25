@@ -1,19 +1,49 @@
 ---
-title: "Jonas Valley"
+title: Jonas Valley
 date: 2026-01-24
 draft: false
-description: "valley in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 50.823611111
 longitude: 10.925277777
 images:
-  - "/images-sites/jonas-valley/01-f52f9612-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JonastalHerbst.jpg/1200px-JonastalHerbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silberdisteln_04_2017.jpg/1200px-Silberdisteln_04_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg/1200px-Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG/1200px-Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG/1200px-Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG
+image_srcset:
+  JonastalHerbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JonastalHerbst.jpg/400px-JonastalHerbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JonastalHerbst.jpg/800px-JonastalHerbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JonastalHerbst.jpg/1200px-JonastalHerbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JonastalHerbst.jpg/1920px-JonastalHerbst.jpg
+  Silberdisteln 04 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silberdisteln_04_2017.jpg/400px-Silberdisteln_04_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silberdisteln_04_2017.jpg/800px-Silberdisteln_04_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silberdisteln_04_2017.jpg/1200px-Silberdisteln_04_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Silberdisteln_04_2017.jpg/1920px-Silberdisteln_04_2017.jpg
+  Talblick vom Aussichtspunkt Jungfernsprung ins Jonastal 04 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg/400px-Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg/800px-Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg/1200px-Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg/1920px-Talblick_vom_Aussichtspunkt_Jungfernsprung_ins_Jonastal_04_2017.jpg
+  Jonastal zwischen Crawinkel und Arnstadt 5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG/400px-Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG/800px-Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG/1200px-Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG/1920px-Jonastal_zwischen_Crawinkel_und_Arnstadt_5.JPG
+  Anfahrpunkt für Rettungsfahrzeuge IK5557 Gedenkstätte Espenfeld.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG/400px-Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG/800px-Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG/1200px-Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG/1920px-Anfahrpunkt_für_Rettungsfahrzeuge_IK5557_Gedenkstätte_Espenfeld.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.56391667
 longitude: 9.75146111
 images:
-  - "/images-sites/unterfeuer-wittenbergen/01-1648ec1e-800w.webp"
+  - "/images/unterfeuer-wittenbergen/01-1648ec1e-800w.webp"
 ---
 
 ## Overview

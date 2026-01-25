@@ -21,8 +21,8 @@ longitude: 8.80596
 
 # Images
 images:
-  - "/images-sites/paula-modersohn-becker-museum/02-9246ed72-800w.webp"
-  - "/images-sites/paula-modersohn-becker-museum/03-f0436a4d-800w.webp"
+  - "/images/paula-modersohn-becker-museum/02-9246ed72-800w.webp"
+  - "/images/paula-modersohn-becker-museum/03-f0436a4d-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.1306
 longitude: 11.5766
 images:
-  - "/images-sites/synagogue-on-reichenbachstrasse-in-munich/01-bddcb3ff-800w.webp"
+  - "/images/synagogue-on-reichenbachstrasse-in-munich/01-bddcb3ff-800w.webp"
 ---
 
 ## Overview

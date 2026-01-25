@@ -1,20 +1,49 @@
 ---
-title: "Designpanoptikum"
+title: Designpanoptikum
 date: 2026-01-23
 draft: false
-description: "surrealist museum of industrial objects in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: surrealist museum of industrial objects in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5282
 longitude: 13.3909
 images:
-  - "/images-sites/designpanoptikum/02-727e15f7-800w.webp"
-  - "/images-sites/designpanoptikum/03-2ea935dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/1200px-DesignPanoptikumBerlin-W-2871.jpg
+image_srcset:
+  2014-03-26 Designpanoptikum Berlin 01 anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG/400px-2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG/800px-2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG/1920px-2014-03-26_Designpanoptikum_Berlin_01_anagoria.JPG
+  2014-03-26 Designpanoptikum Berlin 25 anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG/400px-2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG/800px-2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG/1920px-2014-03-26_Designpanoptikum_Berlin_25_anagoria.JPG
+  2014-03-26 Designpanoptikum Berlin 28 anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG/400px-2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG/800px-2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG/1920px-2014-03-26_Designpanoptikum_Berlin_28_anagoria.JPG
+  2014-03-26 Designpanoptikum Berlin 34 anagoria.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG/400px-2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG/800px-2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG/1200px-2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG/1920px-2014-03-26_Designpanoptikum_Berlin_34_anagoria.JPG
+  DesignPanoptikumBerlin-W-2871.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/400px-DesignPanoptikumBerlin-W-2871.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/800px-DesignPanoptikumBerlin-W-2871.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/1200px-DesignPanoptikumBerlin-W-2871.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/DesignPanoptikumBerlin-W-2871.jpg/1920px-DesignPanoptikumBerlin-W-2871.jpg
 ---
 
 ## Overview

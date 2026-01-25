@@ -1,24 +1,45 @@
 ---
-title: "Cirkwehrumer Kirche"
-site_name: "Cirkwehrumer Kirche"
-slug: "cirkwehrumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Cirkwehrumer Kirche
+site_name: Cirkwehrumer Kirche
+slug: cirkwehrumer-kirche
+region: Lower Saxony
 latitude: 53.4374
 longitude: 7.17172
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1093047"
-description: "In the heart of Hinte, Germany, stands the Cirkwehrumer Kirche, an intriguing example of baroque architecture. This church, constructed from brick, not ..."
+- church building
+- religious site
+wikidata_id: Q1093047
+description: In the heart of Hinte, Germany, stands the Cirkwehrumer Kirche, an intriguing
+  example of baroque architecture. This church, constructed from brick, not ...
 images:
-  - "/images-sites/cirkwehrumer-kirche/01-1db23f7b-1920w.webp"
-  - "/images-sites/cirkwehrumer-kirche/02-7b356153-1920w.webp"
-  - "/images-sites/cirkwehrumer-kirche/03-6518c4e6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cirkwehrumer%20Kirche36.jpg/1200px-Cirkwehrumer%20Kirche36.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/1200px-Cirkwehrumer_Kirche36.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ChurchCirkwehrum.jpg/1200px-ChurchCirkwehrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cirkwehrum_Orgel.jpg/1200px-Cirkwehrum_Orgel.jpg
+image_srcset:
+  Cirkwehrumer%20Kirche36.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cirkwehrumer%20Kirche36.jpg/400px-Cirkwehrumer%20Kirche36.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cirkwehrumer%20Kirche36.jpg/800px-Cirkwehrumer%20Kirche36.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cirkwehrumer%20Kirche36.jpg/1200px-Cirkwehrumer%20Kirche36.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cirkwehrumer%20Kirche36.jpg/1920px-Cirkwehrumer%20Kirche36.jpg
+  Cirkwehrumer Kirche36.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/400px-Cirkwehrumer_Kirche36.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/800px-Cirkwehrumer_Kirche36.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/1200px-Cirkwehrumer_Kirche36.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cirkwehrumer_Kirche36.jpg/1920px-Cirkwehrumer_Kirche36.jpg
+  ChurchCirkwehrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ChurchCirkwehrum.jpg/400px-ChurchCirkwehrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ChurchCirkwehrum.jpg/800px-ChurchCirkwehrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ChurchCirkwehrum.jpg/1200px-ChurchCirkwehrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/ChurchCirkwehrum.jpg/1920px-ChurchCirkwehrum.jpg
+  Cirkwehrum Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cirkwehrum_Orgel.jpg/400px-Cirkwehrum_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cirkwehrum_Orgel.jpg/800px-Cirkwehrum_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cirkwehrum_Orgel.jpg/1200px-Cirkwehrum_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cirkwehrum_Orgel.jpg/1920px-Cirkwehrum_Orgel.jpg
 ---
 
 ## Overview

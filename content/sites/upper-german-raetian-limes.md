@@ -21,7 +21,7 @@ longitude: 9.1575
 
 # Images
 images:
-  - "/images-sites/upper-german-raetian-limes/01-3d541edd-800w.webp"
+  - "/images/upper-german-raetian-limes/01-3d541edd-800w.webp"
 ---
 
 ## Overview

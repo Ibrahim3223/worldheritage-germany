@@ -1,27 +1,49 @@
 ---
-title: "Burg Ardeck"
+title: Burg Ardeck
 date: 2026-01-23
 draft: false
-description: "castle in Rhein-Lahn-Kreis, Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rhein-Lahn-Kreis, Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.3543
 longitude: 8.0415
-
-# Images
 images:
-  - "/images-sites/burg-ardeck/01-fb8fa6fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Ardeck_Kreuzgewölbe_113.jpg/1200px-Burg_Ardeck_Kreuzgewölbe_113.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Ardeck_Pechnase_621.jpg/1200px-Burg_Ardeck_Pechnase_621.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg/1200px-Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg/1200px-Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Boarch_Ardeck.jpg/1200px-Boarch_Ardeck.jpg
+image_srcset:
+  Burg Ardeck Kreuzgewölbe 113.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Ardeck_Kreuzgewölbe_113.jpg/400px-Burg_Ardeck_Kreuzgewölbe_113.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Ardeck_Kreuzgewölbe_113.jpg/800px-Burg_Ardeck_Kreuzgewölbe_113.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Ardeck_Kreuzgewölbe_113.jpg/1200px-Burg_Ardeck_Kreuzgewölbe_113.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Burg_Ardeck_Kreuzgewölbe_113.jpg/1920px-Burg_Ardeck_Kreuzgewölbe_113.jpg
+  Burg Ardeck Pechnase 621.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Ardeck_Pechnase_621.jpg/400px-Burg_Ardeck_Pechnase_621.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Ardeck_Pechnase_621.jpg/800px-Burg_Ardeck_Pechnase_621.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Ardeck_Pechnase_621.jpg/1200px-Burg_Ardeck_Pechnase_621.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Ardeck_Pechnase_621.jpg/1920px-Burg_Ardeck_Pechnase_621.jpg
+  Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg/400px-Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg/800px-Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg/1200px-Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg/1920px-Burg-Ardeck-Holzheim-JR-G6-3692-2009-08-04.jpg
+  Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg/400px-Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg/800px-Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg/1200px-Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg/1920px-Burg-Ardeck-Holzheim-JR-G6-3717-2009-08-04.jpg
+  Boarch Ardeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Boarch_Ardeck.jpg/400px-Boarch_Ardeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Boarch_Ardeck.jpg/800px-Boarch_Ardeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Boarch_Ardeck.jpg/1200px-Boarch_Ardeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Boarch_Ardeck.jpg/1920px-Boarch_Ardeck.jpg
 ---
 
 ## Overview

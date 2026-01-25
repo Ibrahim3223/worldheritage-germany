@@ -13,8 +13,8 @@ regions:
 latitude: 52.5047
 longitude: 13.3365
 images:
-  - "/images-sites/weltkugelbrunnen/02-f6b3ca1a-800w.webp"
-  - "/images-sites/weltkugelbrunnen/03-b06c7553-800w.webp"
+  - "/images/weltkugelbrunnen/02-f6b3ca1a-800w.webp"
+  - "/images/weltkugelbrunnen/03-b06c7553-800w.webp"
 ---
 
 ## Overview

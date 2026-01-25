@@ -13,7 +13,7 @@ regions:
 latitude: 52.64009
 longitude: 13.28985
 images:
-  - "/images-sites/ludwig-lesser-park/01-fea16af3-800w.webp"
+  - "/images/ludwig-lesser-park/01-fea16af3-800w.webp"
 ---
 
 ## Overview

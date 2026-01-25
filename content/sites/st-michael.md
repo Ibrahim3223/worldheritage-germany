@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1666341"
 description: "St. Michael, a remarkable church building located in Krummin, Germany, captures the essence of Brick Gothic architecture. This striking structure stands..."
 images:
-  - "/images-sites/st-michael/01-3b50f20a-1920w.webp"
-  - "/images-sites/st-michael/01-820b49c1-1920w.webp"
-  - "/images-sites/st-michael/01-a2d83d41-1920w.webp"
+  - "/images/st-michael/01-3b50f20a-1920w.webp"
+  - "/images/st-michael/01-820b49c1-1920w.webp"
+  - "/images/st-michael/01-a2d83d41-1920w.webp"
 ---
 
 ## Overview

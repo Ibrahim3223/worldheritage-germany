@@ -13,7 +13,7 @@ regions:
 latitude: 51.3488
 longitude: 12.3712
 images:
-  - "/images-sites/kongresshalle-leipzig/01-2c3f48d9-800w.webp"
+  - "/images/kongresshalle-leipzig/01-2c3f48d9-800w.webp"
 ---
 
 ## Overview

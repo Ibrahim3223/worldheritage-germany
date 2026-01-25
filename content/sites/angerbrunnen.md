@@ -1,21 +1,49 @@
 ---
-title: "Angerbrunnen"
+title: Angerbrunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9743143
 longitude: 11.0309717
 images:
-  - "/images-sites/angerbrunnen/01-7718879d-800w.webp"
-  - "/images-sites/angerbrunnen/02-8aa9b45f-800w.webp"
-  - "/images-sites/angerbrunnen/03-d795e6e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Erfurt_Anger_nowa_fontanna.jpg/1200px-Erfurt_Anger_nowa_fontanna.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg/1200px-Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alter_Angerbrunnen...2H1A4229WI.jpg/1200px-Alter_Angerbrunnen...2H1A4229WI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erfurt_Anger06_Neuer_Angerbrunnen.jpg/1200px-Erfurt_Anger06_Neuer_Angerbrunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg/1200px-Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg
+image_srcset:
+  Erfurt Anger nowa fontanna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Erfurt_Anger_nowa_fontanna.jpg/400px-Erfurt_Anger_nowa_fontanna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Erfurt_Anger_nowa_fontanna.jpg/800px-Erfurt_Anger_nowa_fontanna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Erfurt_Anger_nowa_fontanna.jpg/1200px-Erfurt_Anger_nowa_fontanna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Erfurt_Anger_nowa_fontanna.jpg/1920px-Erfurt_Anger_nowa_fontanna.jpg
+  Anger (Erfurt), Neuer Angerbrunnen, im Hintergrund das Hauptpostamt - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg/400px-Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg/800px-Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg/1200px-Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg/1920px-Anger_(Erfurt),_Neuer_Angerbrunnen,_im_Hintergrund_das_Hauptpostamt_-_panoramio.jpg
+  Alter Angerbrunnen...2H1A4229WI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alter_Angerbrunnen...2H1A4229WI.jpg/400px-Alter_Angerbrunnen...2H1A4229WI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alter_Angerbrunnen...2H1A4229WI.jpg/800px-Alter_Angerbrunnen...2H1A4229WI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alter_Angerbrunnen...2H1A4229WI.jpg/1200px-Alter_Angerbrunnen...2H1A4229WI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Alter_Angerbrunnen...2H1A4229WI.jpg/1920px-Alter_Angerbrunnen...2H1A4229WI.jpg
+  Erfurt Anger06 Neuer Angerbrunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erfurt_Anger06_Neuer_Angerbrunnen.jpg/400px-Erfurt_Anger06_Neuer_Angerbrunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erfurt_Anger06_Neuer_Angerbrunnen.jpg/800px-Erfurt_Anger06_Neuer_Angerbrunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erfurt_Anger06_Neuer_Angerbrunnen.jpg/1200px-Erfurt_Anger06_Neuer_Angerbrunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erfurt_Anger06_Neuer_Angerbrunnen.jpg/1920px-Erfurt_Anger06_Neuer_Angerbrunnen.jpg
+  Erfurt Impressionen - Flickr - tm-md (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg/400px-Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg/800px-Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg/1200px-Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg/1920px-Erfurt_Impressionen_-_Flickr_-_tm-md_(5).jpg
 ---
 
 ## Overview

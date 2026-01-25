@@ -1,19 +1,49 @@
 ---
-title: "Jagdhaus Gabelbach"
+title: Jagdhaus Gabelbach
 date: 2026-01-23
 draft: false
-description: "Hunting lodge in Ilmenau, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Hunting lodge in Ilmenau, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6586
 longitude: 10.8842
 images:
-  - "/images-sites/jagdhaus-gabelbach/01-a7d04c4f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jagdhaus_Gabelbach_(Kurzinformation).jpg/1200px-Jagdhaus_Gabelbach_(Kurzinformation).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wegweiser_am_Jagdhaus_Gabelbach.jpg/1200px-Wegweiser_am_Jagdhaus_Gabelbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wegweiser_am_Jagdhaus_Gabelbach_1.jpg/1200px-Wegweiser_am_Jagdhaus_Gabelbach_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg/1200px-Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1200px-Jagdhaus_Gabelbach.JPG
+image_srcset:
+  Jagdhaus Gabelbach (Kurzinformation).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jagdhaus_Gabelbach_(Kurzinformation).jpg/400px-Jagdhaus_Gabelbach_(Kurzinformation).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jagdhaus_Gabelbach_(Kurzinformation).jpg/800px-Jagdhaus_Gabelbach_(Kurzinformation).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jagdhaus_Gabelbach_(Kurzinformation).jpg/1200px-Jagdhaus_Gabelbach_(Kurzinformation).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jagdhaus_Gabelbach_(Kurzinformation).jpg/1920px-Jagdhaus_Gabelbach_(Kurzinformation).jpg
+  Wegweiser am Jagdhaus Gabelbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wegweiser_am_Jagdhaus_Gabelbach.jpg/400px-Wegweiser_am_Jagdhaus_Gabelbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wegweiser_am_Jagdhaus_Gabelbach.jpg/800px-Wegweiser_am_Jagdhaus_Gabelbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wegweiser_am_Jagdhaus_Gabelbach.jpg/1200px-Wegweiser_am_Jagdhaus_Gabelbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Wegweiser_am_Jagdhaus_Gabelbach.jpg/1920px-Wegweiser_am_Jagdhaus_Gabelbach.jpg
+  Wegweiser am Jagdhaus Gabelbach 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wegweiser_am_Jagdhaus_Gabelbach_1.jpg/400px-Wegweiser_am_Jagdhaus_Gabelbach_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wegweiser_am_Jagdhaus_Gabelbach_1.jpg/800px-Wegweiser_am_Jagdhaus_Gabelbach_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wegweiser_am_Jagdhaus_Gabelbach_1.jpg/1200px-Wegweiser_am_Jagdhaus_Gabelbach_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wegweiser_am_Jagdhaus_Gabelbach_1.jpg/1920px-Wegweiser_am_Jagdhaus_Gabelbach_1.jpg
+  Goethewanderweg Ilmenau-Stützerbach, Baumbachdenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg/400px-Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg/800px-Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg/1200px-Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg/1920px-Goethewanderweg_Ilmenau-Stützerbach,_Baumbachdenkmal.jpg
+  Jagdhaus Gabelbach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/400px-Jagdhaus_Gabelbach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/800px-Jagdhaus_Gabelbach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1200px-Jagdhaus_Gabelbach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jagdhaus_Gabelbach.JPG/1920px-Jagdhaus_Gabelbach.JPG
 ---
 
 ## Overview

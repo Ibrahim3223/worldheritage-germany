@@ -13,7 +13,7 @@ regions:
 latitude: 51.6667
 longitude: 6.45
 images:
-  - "/images-sites/tricensimae/01-b998483e-800w.webp"
+  - "/images/tricensimae/01-b998483e-800w.webp"
 ---
 
 ## Overview

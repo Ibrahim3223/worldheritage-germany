@@ -21,7 +21,7 @@ longitude: 9.186738
 
 # Images
 images:
-  - "/images-sites/museum-im-kleihues-bau/01-8a268d99-800w.webp"
+  - "/images/museum-im-kleihues-bau/01-8a268d99-800w.webp"
 ---
 
 ## Overview

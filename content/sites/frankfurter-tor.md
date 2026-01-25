@@ -1,21 +1,49 @@
 ---
-title: "Frankfurter Tor"
+title: Frankfurter Tor
 date: 2026-01-23
 draft: false
-description: "square in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.515805555
 longitude: 13.454027777
 images:
-  - "/images-sites/frankfurter-tor/01-837c122e-800w.webp"
-  - "/images-sites/frankfurter-tor/02-7dc19117-800w.webp"
-  - "/images-sites/frankfurter-tor/03-7fda7d56-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Karl-Marx-Allee.jpg/1200px-Berlin_Karl-Marx-Allee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg/1200px-Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/1200px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KMA05.jpg/1200px-KMA05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ubahnhf_Frankfurtertor.JPG/1200px-Ubahnhf_Frankfurtertor.JPG
+image_srcset:
+  Berlin Karl-Marx-Allee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Karl-Marx-Allee.jpg/400px-Berlin_Karl-Marx-Allee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Karl-Marx-Allee.jpg/800px-Berlin_Karl-Marx-Allee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Karl-Marx-Allee.jpg/1200px-Berlin_Karl-Marx-Allee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Karl-Marx-Allee.jpg/1920px-Berlin_Karl-Marx-Allee.jpg
+  Frankfurter Tor (ex-Stalinallee) in Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg/400px-Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg/800px-Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg/1200px-Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg/1920px-Frankfurter_Tor_(ex-Stalinallee)_in_Berlin.jpg
+  Frankfurter Tor Westansicht Berlin April 2006 022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/400px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/800px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/1200px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg/1920px-Frankfurter_Tor_Westansicht_Berlin_April_2006_022.jpg
+  KMA05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KMA05.jpg/400px-KMA05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KMA05.jpg/800px-KMA05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KMA05.jpg/1200px-KMA05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/KMA05.jpg/1920px-KMA05.jpg
+  Ubahnhf Frankfurtertor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ubahnhf_Frankfurtertor.JPG/400px-Ubahnhf_Frankfurtertor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ubahnhf_Frankfurtertor.JPG/800px-Ubahnhf_Frankfurtertor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ubahnhf_Frankfurtertor.JPG/1200px-Ubahnhf_Frankfurtertor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ubahnhf_Frankfurtertor.JPG/1920px-Ubahnhf_Frankfurtertor.JPG
 ---
 
 ## Overview

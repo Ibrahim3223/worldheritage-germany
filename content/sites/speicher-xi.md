@@ -13,7 +13,7 @@ regions:
 latitude: 53.0973
 longitude: 8.76983
 images:
-  - "/images-sites/speicher-xi/01-80f68518-800w.webp"
+  - "/images/speicher-xi/01-80f68518-800w.webp"
 ---
 
 ## Overview

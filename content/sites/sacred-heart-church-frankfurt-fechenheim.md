@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1614961"
 description: "In the heart of Frankfurt am Main-Fechenheim, the Sacred Heart Church emerges as a striking example of Gothic Revival architecture, captivating visitors..."
 images:
-  - "/images-sites/sacred-heart-church-frankfurt-fechenheim/01-0c35a608-1920w.webp"
-  - "/images-sites/sacred-heart-church-frankfurt-fechenheim/02-c3bb558d-1920w.webp"
-  - "/images-sites/sacred-heart-church-frankfurt-fechenheim/03-dfee8758-1920w.webp"
+  - "/images/sacred-heart-church-frankfurt-fechenheim/01-0c35a608-1920w.webp"
+  - "/images/sacred-heart-church-frankfurt-fechenheim/02-c3bb558d-1920w.webp"
+  - "/images/sacred-heart-church-frankfurt-fechenheim/03-dfee8758-1920w.webp"
 ---
 
 ## Overview

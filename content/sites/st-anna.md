@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1760942"
 description: "In the heart of Hamm, Germany, lies St. Anna, a remarkable church building that captures both the eye and the spirit. This baroque architectural gem sta..."
 images:
-  - "/images-sites/st-anna/01-787b592e-1920w.webp"
-  - "/images-sites/st-anna/01-91f6ceef-1920w.webp"
-  - "/images-sites/st-anna/02-787b592e-1920w.webp"
+  - "/images/st-anna/01-787b592e-1920w.webp"
+  - "/images/st-anna/01-91f6ceef-1920w.webp"
+  - "/images/st-anna/02-787b592e-1920w.webp"
 ---
 
 ## Overview

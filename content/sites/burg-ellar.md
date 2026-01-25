@@ -1,19 +1,49 @@
 ---
-title: "Burg Ellar"
+title: Burg Ellar
 date: 2026-01-23
 draft: false
-description: "Burgruine in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Burgruine in Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5085
 longitude: 8.0936
 images:
-  - "/images-sites/burg-ellar/01-12403993-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Ellar-01.jpg/1200px-Burg_Ellar-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burg_Ellar-02-Eingang.jpg/1200px-Burg_Ellar-02-Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellar_Burg.jpg/1200px-Ellar_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Waldbrunn_WW_Ellar_Burg.jpg/1200px-Waldbrunn_WW_Ellar_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ellar-Lindlein.jpg/1200px-Ellar-Lindlein.jpg
+image_srcset:
+  Burg Ellar-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Ellar-01.jpg/400px-Burg_Ellar-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Ellar-01.jpg/800px-Burg_Ellar-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Ellar-01.jpg/1200px-Burg_Ellar-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Burg_Ellar-01.jpg/1920px-Burg_Ellar-01.jpg
+  Burg Ellar-02-Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burg_Ellar-02-Eingang.jpg/400px-Burg_Ellar-02-Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burg_Ellar-02-Eingang.jpg/800px-Burg_Ellar-02-Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burg_Ellar-02-Eingang.jpg/1200px-Burg_Ellar-02-Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burg_Ellar-02-Eingang.jpg/1920px-Burg_Ellar-02-Eingang.jpg
+  Ellar Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellar_Burg.jpg/400px-Ellar_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellar_Burg.jpg/800px-Ellar_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellar_Burg.jpg/1200px-Ellar_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ellar_Burg.jpg/1920px-Ellar_Burg.jpg
+  Waldbrunn WW Ellar Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Waldbrunn_WW_Ellar_Burg.jpg/400px-Waldbrunn_WW_Ellar_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Waldbrunn_WW_Ellar_Burg.jpg/800px-Waldbrunn_WW_Ellar_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Waldbrunn_WW_Ellar_Burg.jpg/1200px-Waldbrunn_WW_Ellar_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Waldbrunn_WW_Ellar_Burg.jpg/1920px-Waldbrunn_WW_Ellar_Burg.jpg
+  Ellar-Lindlein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ellar-Lindlein.jpg/400px-Ellar-Lindlein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ellar-Lindlein.jpg/800px-Ellar-Lindlein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ellar-Lindlein.jpg/1200px-Ellar-Lindlein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ellar-Lindlein.jpg/1920px-Ellar-Lindlein.jpg
 ---
 
 ## Overview

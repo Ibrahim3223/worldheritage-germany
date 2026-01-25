@@ -1,23 +1,50 @@
 ---
-title: "Ellingen Residence"
-site_name: "Ellingen Residence"
-slug: "ellingen-residence"
-region: "Bavaria"
-
-# Location
+title: Ellingen Residence
+site_name: Ellingen Residence
+slug: ellingen-residence
+region: Bavaria
 latitude: 49.0608
 longitude: 10.9656
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q638593"
-description: "The Ellingen Residence, a stunning example of Baroque architecture, invites visitors to explore its grandeur and historical significance. Located in the..."
+- cultural site
+wikidata_id: Q638593
+description: The Ellingen Residence, a stunning example of Baroque architecture, invites
+  visitors to explore its grandeur and historical significance. Located in the...
 images:
-  - "/images-sites/ellingen-residence/01-bd45f996-1920w.webp"
-  - "/images-sites/ellingen-residence/02-2b471a34-1920w.webp"
-  - "/images-sites/ellingen-residence/03-d8a1025e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial%20image%20of%20the%20Ellingen%20Residence.jpg/1200px-Aerial%20image%20of%20the%20Ellingen%20Residence.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Замок_Немецкого_ордена_в_Эллингене.jpg/1200px-Замок_Немецкого_ордена_в_Эллингене.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/1200px-Aerial_image_of_the_Ellingen_Residence.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ellingen_Schloss_Fronteingang_SK_0001.jpg/1200px-Ellingen_Schloss_Fronteingang_SK_0001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutschordensresidenz_Ellingen_1.jpg/1200px-Deutschordensresidenz_Ellingen_1.jpg
+image_srcset:
+  Aerial%20image%20of%20the%20Ellingen%20Residence.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial%20image%20of%20the%20Ellingen%20Residence.jpg/400px-Aerial%20image%20of%20the%20Ellingen%20Residence.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial%20image%20of%20the%20Ellingen%20Residence.jpg/800px-Aerial%20image%20of%20the%20Ellingen%20Residence.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial%20image%20of%20the%20Ellingen%20Residence.jpg/1200px-Aerial%20image%20of%20the%20Ellingen%20Residence.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aerial%20image%20of%20the%20Ellingen%20Residence.jpg/1920px-Aerial%20image%20of%20the%20Ellingen%20Residence.jpg
+  Замок Немецкого ордена в Эллингене.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Замок_Немецкого_ордена_в_Эллингене.jpg/400px-Замок_Немецкого_ордена_в_Эллингене.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Замок_Немецкого_ордена_в_Эллингене.jpg/800px-Замок_Немецкого_ордена_в_Эллингене.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Замок_Немецкого_ордена_в_Эллингене.jpg/1200px-Замок_Немецкого_ордена_в_Эллингене.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Замок_Немецкого_ордена_в_Эллингене.jpg/1920px-Замок_Немецкого_ордена_в_Эллингене.jpg
+  Aerial image of the Ellingen Residence.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/400px-Aerial_image_of_the_Ellingen_Residence.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/800px-Aerial_image_of_the_Ellingen_Residence.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/1200px-Aerial_image_of_the_Ellingen_Residence.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aerial_image_of_the_Ellingen_Residence.jpg/1920px-Aerial_image_of_the_Ellingen_Residence.jpg
+  Ellingen Schloss Fronteingang SK 0001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ellingen_Schloss_Fronteingang_SK_0001.jpg/400px-Ellingen_Schloss_Fronteingang_SK_0001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ellingen_Schloss_Fronteingang_SK_0001.jpg/800px-Ellingen_Schloss_Fronteingang_SK_0001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ellingen_Schloss_Fronteingang_SK_0001.jpg/1200px-Ellingen_Schloss_Fronteingang_SK_0001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ellingen_Schloss_Fronteingang_SK_0001.jpg/1920px-Ellingen_Schloss_Fronteingang_SK_0001.jpg
+  Deutschordensresidenz Ellingen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutschordensresidenz_Ellingen_1.jpg/400px-Deutschordensresidenz_Ellingen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutschordensresidenz_Ellingen_1.jpg/800px-Deutschordensresidenz_Ellingen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutschordensresidenz_Ellingen_1.jpg/1200px-Deutschordensresidenz_Ellingen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutschordensresidenz_Ellingen_1.jpg/1920px-Deutschordensresidenz_Ellingen_1.jpg
 ---
 
 ## Overview

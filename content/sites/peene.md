@@ -13,7 +13,7 @@ regions:
 latitude: 53.855555555
 longitude: 13.808333333
 images:
-  - "/images-sites/peene/01-a6ac0a06-800w.webp"
+  - "/images/peene/01-a6ac0a06-800w.webp"
 ---
 
 ## Overview

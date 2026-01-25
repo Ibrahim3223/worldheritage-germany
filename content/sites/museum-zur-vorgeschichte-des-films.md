@@ -13,7 +13,7 @@ regions:
 latitude: 51.4291
 longitude: 6.86818
 images:
-  - "/images-sites/museum-zur-vorgeschichte-des-films/01-b5d83a36-800w.webp"
+  - "/images/museum-zur-vorgeschichte-des-films/01-b5d83a36-800w.webp"
 ---
 
 ## Overview

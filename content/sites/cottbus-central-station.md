@@ -1,19 +1,49 @@
 ---
-title: "Cottbus central station"
+title: Cottbus central station
 date: 2026-01-23
 draft: false
-description: "railway station in Cottbus, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Cottbus, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7508
 longitude: 14.3264
 images:
-  - "/images-sites/cottbus-central-station/01-4b9e6998-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg/1200px-Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg/1200px-Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg/1200px-Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vossloh_650_108-0_(9443225938).jpg/1200px-Vossloh_650_108-0_(9443225938).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chociebuz_luzyce.jpg/1200px-Chociebuz_luzyce.jpg
+image_srcset:
+  Ludmilla deserves at Easter break too (47314323522).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg/400px-Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg/800px-Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg/1200px-Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg/1920px-Ludmilla_deserves_at_Easter_break_too_(47314323522).jpg
+  Flickr - IngolfBLN - Bahnhof Cottbus (73).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg/400px-Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg/800px-Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg/1200px-Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg/1920px-Flickr_-_IngolfBLN_-_Bahnhof_Cottbus_(73).jpg
+  Hauptbahnhof Cottbus Vorplatz Juni 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg/400px-Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg/800px-Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg/1200px-Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg/1920px-Hauptbahnhof_Cottbus_Vorplatz_Juni_2020.jpg
+  Vossloh 650 108-0 (9443225938).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vossloh_650_108-0_(9443225938).jpg/400px-Vossloh_650_108-0_(9443225938).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vossloh_650_108-0_(9443225938).jpg/800px-Vossloh_650_108-0_(9443225938).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vossloh_650_108-0_(9443225938).jpg/1200px-Vossloh_650_108-0_(9443225938).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vossloh_650_108-0_(9443225938).jpg/1920px-Vossloh_650_108-0_(9443225938).jpg
+  Chociebuz luzyce.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chociebuz_luzyce.jpg/400px-Chociebuz_luzyce.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chociebuz_luzyce.jpg/800px-Chociebuz_luzyce.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chociebuz_luzyce.jpg/1200px-Chociebuz_luzyce.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chociebuz_luzyce.jpg/1920px-Chociebuz_luzyce.jpg
 ---
 
 ## Overview

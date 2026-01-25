@@ -1,19 +1,31 @@
 ---
-title: "Feldberg Pass"
+title: Feldberg Pass
 date: 2026-01-23
 draft: false
-description: "mountain pass"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: mountain pass
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 47.85833333
 longitude: 8.05277778
 images:
-  - "/images-sites/feldberg-pass/01-c2642794-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feldbergpass_Tafel.JPG/1200px-Feldbergpass_Tafel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/1200px-Feldberg_3906.jpg
+image_srcset:
+  Feldbergpass Tafel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feldbergpass_Tafel.JPG/400px-Feldbergpass_Tafel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feldbergpass_Tafel.JPG/800px-Feldbergpass_Tafel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feldbergpass_Tafel.JPG/1200px-Feldbergpass_Tafel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feldbergpass_Tafel.JPG/1920px-Feldbergpass_Tafel.JPG
+  Feldberg 3906.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/400px-Feldberg_3906.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/800px-Feldberg_3906.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/1200px-Feldberg_3906.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Feldberg_3906.jpg/1920px-Feldberg_3906.jpg
 ---
 
 ## Overview

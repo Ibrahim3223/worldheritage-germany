@@ -1,20 +1,43 @@
 ---
-title: "Herrenalb Abbey"
+title: Herrenalb Abbey
 date: 2026-01-23
 draft: false
-description: "former abbey in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former abbey in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7962
 longitude: 8.4369
 images:
-  - "/images-sites/herrenalb-abbey/02-3d5fa742-800w.webp"
-  - "/images-sites/herrenalb-abbey/03-1dd6d65c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bad_Herrenalb_-_War_memorial.jpg/1200px-Bad_Herrenalb_-_War_memorial.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BaeckereiHalb.jpg/1200px-BaeckereiHalb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Klosterscheuer.jpg/1200px-Klosterscheuer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/KlosteranlBHalb.jpg/1200px-KlosteranlBHalb.jpg
+image_srcset:
+  Bad Herrenalb - War memorial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bad_Herrenalb_-_War_memorial.jpg/400px-Bad_Herrenalb_-_War_memorial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bad_Herrenalb_-_War_memorial.jpg/800px-Bad_Herrenalb_-_War_memorial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bad_Herrenalb_-_War_memorial.jpg/1200px-Bad_Herrenalb_-_War_memorial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bad_Herrenalb_-_War_memorial.jpg/1920px-Bad_Herrenalb_-_War_memorial.jpg
+  BaeckereiHalb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BaeckereiHalb.jpg/400px-BaeckereiHalb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BaeckereiHalb.jpg/800px-BaeckereiHalb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BaeckereiHalb.jpg/1200px-BaeckereiHalb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BaeckereiHalb.jpg/1920px-BaeckereiHalb.jpg
+  Klosterscheuer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Klosterscheuer.jpg/400px-Klosterscheuer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Klosterscheuer.jpg/800px-Klosterscheuer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Klosterscheuer.jpg/1200px-Klosterscheuer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Klosterscheuer.jpg/1920px-Klosterscheuer.jpg
+  KlosteranlBHalb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/KlosteranlBHalb.jpg/400px-KlosteranlBHalb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/KlosteranlBHalb.jpg/800px-KlosteranlBHalb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/KlosteranlBHalb.jpg/1200px-KlosteranlBHalb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/KlosteranlBHalb.jpg/1920px-KlosteranlBHalb.jpg
 ---
 
 ## Overview

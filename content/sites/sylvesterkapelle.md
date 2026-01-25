@@ -13,7 +13,7 @@ regions:
 latitude: 47.77333333
 longitude: 9.13388889
 images:
-  - "/images-sites/sylvesterkapelle/01-7328b70e-800w.webp"
+  - "/images/sylvesterkapelle/01-7328b70e-800w.webp"
 ---
 
 ## Overview

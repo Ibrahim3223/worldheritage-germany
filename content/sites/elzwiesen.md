@@ -1,19 +1,25 @@
 ---
-title: "Elzwiesen"
+title: Elzwiesen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 48.23833333
 longitude: 7.73388889
 images:
-  - "/images-sites/elzwiesen/01-f4227cce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elzwiesen_3.174.jpg/1200px-Elzwiesen_3.174.jpg
+image_srcset:
+  Elzwiesen 3.174.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elzwiesen_3.174.jpg/400px-Elzwiesen_3.174.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elzwiesen_3.174.jpg/800px-Elzwiesen_3.174.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elzwiesen_3.174.jpg/1200px-Elzwiesen_3.174.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Elzwiesen_3.174.jpg/1920px-Elzwiesen_3.174.jpg
 ---
 
 ## Overview

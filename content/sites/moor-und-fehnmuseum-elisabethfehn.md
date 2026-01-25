@@ -13,7 +13,7 @@ regions:
 latitude: 53.15
 longitude: 7.71
 images:
-  - "/images-sites/moor-und-fehnmuseum-elisabethfehn/01-7725c920-800w.webp"
+  - "/images/moor-und-fehnmuseum-elisabethfehn/01-7725c920-800w.webp"
 ---
 
 ## Overview

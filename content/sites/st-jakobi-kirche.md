@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2316172"
 description: "St.-Jakobi-Kirche is a remarkable example of Gothic Revival architecture located in Peine, Lower Saxony, Germany. This church building not only serves a..."
 images:
-  - "/images-sites/st-jakobi-kirche/01-8abbcfdd-1920w.webp"
-  - "/images-sites/st-jakobi-kirche/02-5da67701-1920w.webp"
-  - "/images-sites/st-jakobi-kirche/03-b712c91b-1920w.webp"
+  - "/images/st-jakobi-kirche/01-8abbcfdd-1920w.webp"
+  - "/images/st-jakobi-kirche/02-5da67701-1920w.webp"
+  - "/images/st-jakobi-kirche/03-b712c91b-1920w.webp"
 ---
 
 ## Overview

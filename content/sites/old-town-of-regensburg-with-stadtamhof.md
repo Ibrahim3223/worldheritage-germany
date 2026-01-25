@@ -13,7 +13,7 @@ regions:
 latitude: 49.017222222
 longitude: 12.096944444
 images:
-  - "/images-sites/old-town-of-regensburg-with-stadtamhof/01-30690e9b-800w.webp"
+  - "/images/old-town-of-regensburg-with-stadtamhof/01-30690e9b-800w.webp"
 ---
 
 ## Overview

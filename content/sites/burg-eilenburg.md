@@ -1,28 +1,49 @@
 ---
-title: "Burg Eilenburg"
+title: Burg Eilenburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4588
 longitude: 12.6232
-
-# Images
 images:
-  - "/images-sites/burg-eilenburg/02-3f4ee49d-800w.webp"
-  - "/images-sites/burg-eilenburg/03-38bc65ab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eilenburg_Burg_Gefängnis.jpg/1200px-Eilenburg_Burg_Gefängnis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg/1200px-Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg/1200px-20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1050-Eilenburg.jpg/1200px-1050-Eilenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg/1200px-Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg
+image_srcset:
+  Eilenburg Burg Gefängnis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eilenburg_Burg_Gefängnis.jpg/400px-Eilenburg_Burg_Gefängnis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eilenburg_Burg_Gefängnis.jpg/800px-Eilenburg_Burg_Gefängnis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eilenburg_Burg_Gefängnis.jpg/1200px-Eilenburg_Burg_Gefängnis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eilenburg_Burg_Gefängnis.jpg/1920px-Eilenburg_Burg_Gefängnis.jpg
+  Eilenburg Burg Gefaengnis Mauerturm Amtshaus Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg/400px-Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg/800px-Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg/1200px-Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg/1920px-Eilenburg_Burg_Gefaengnis_Mauerturm_Amtshaus_Nacht.jpg
+  20090425540DR Eilenburg Stadtansicht von der Eilenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg/400px-20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg/800px-20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg/1200px-20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg/1920px-20090425540DR_Eilenburg_Stadtansicht_von_der_Eilenburg.jpg
+  1050-Eilenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1050-Eilenburg.jpg/400px-1050-Eilenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1050-Eilenburg.jpg/800px-1050-Eilenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1050-Eilenburg.jpg/1200px-1050-Eilenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1050-Eilenburg.jpg/1920px-1050-Eilenburg.jpg
+  Fotothek df roe-neg 0006384 015 Blick auf den Burgberg mit dem Amtshaus und Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg/400px-Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg/800px-Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg/1200px-Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg/1920px-Fotothek_df_roe-neg_0006384_015_Blick_auf_den_Burgberg_mit_dem_Amtshaus_und_Burg.jpg
 ---
 
 ## Overview

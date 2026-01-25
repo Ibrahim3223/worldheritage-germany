@@ -13,7 +13,7 @@ regions:
 latitude: 50.647161
 longitude: 7.001167
 images:
-  - "/images-sites/schloss-lueftelberg/01-c916d2da-800w.webp"
+  - "/images/schloss-lueftelberg/01-c916d2da-800w.webp"
 ---
 
 ## Overview

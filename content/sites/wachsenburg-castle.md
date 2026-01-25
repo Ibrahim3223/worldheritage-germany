@@ -21,7 +21,7 @@ longitude: 10.8764
 
 # Images
 images:
-  - "/images-sites/wachsenburg-castle/01-f05d404e-800w.webp"
+  - "/images/wachsenburg-castle/01-f05d404e-800w.webp"
 ---
 
 ## Overview

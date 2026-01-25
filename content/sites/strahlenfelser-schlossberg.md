@@ -13,7 +13,7 @@ regions:
 latitude: 49.653248902
 longitude: 11.377220691
 images:
-  - "/images-sites/strahlenfelser-schlossberg/01-c8b9518a-800w.webp"
+  - "/images/strahlenfelser-schlossberg/01-c8b9518a-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.61189
 longitude: 10.09449
 images:
-  - "/images-sites/otto-haesler-museum/01-e3d7df6e-800w.webp"
+  - "/images/otto-haesler-museum/01-e3d7df6e-800w.webp"
 ---
 
 ## Overview

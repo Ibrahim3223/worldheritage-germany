@@ -13,7 +13,7 @@ regions:
 latitude: 47.84861111
 longitude: 8.98472222
 images:
-  - "/images-sites/nellenburg/01-96fac392-800w.webp"
+  - "/images/nellenburg/01-96fac392-800w.webp"
 ---
 
 ## Overview

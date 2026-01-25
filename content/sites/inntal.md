@@ -1,19 +1,49 @@
 ---
-title: "Inntal"
+title: Inntal
 date: 2026-01-24
 draft: false
-description: "valley in Switzerland, Austria and Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Switzerland, Austria and Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 47.28109
 longitude: 10.98633
 images:
-  - "/images-sites/inntal/01-12ec86c6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Inntal_und_Ritzaualm.jpg/1200px-Inntal_und_Ritzaualm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Inntal_und_Ritzaualm_02.jpg/1200px-Inntal_und_Ritzaualm_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ritzaualm.jpg/1200px-Ritzaualm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inntal.jpg/1200px-Inntal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B171_Blick_auf_A12.jpg/1200px-B171_Blick_auf_A12.jpg
+image_srcset:
+  Inntal und Ritzaualm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Inntal_und_Ritzaualm.jpg/400px-Inntal_und_Ritzaualm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Inntal_und_Ritzaualm.jpg/800px-Inntal_und_Ritzaualm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Inntal_und_Ritzaualm.jpg/1200px-Inntal_und_Ritzaualm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Inntal_und_Ritzaualm.jpg/1920px-Inntal_und_Ritzaualm.jpg
+  Inntal und Ritzaualm 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Inntal_und_Ritzaualm_02.jpg/400px-Inntal_und_Ritzaualm_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Inntal_und_Ritzaualm_02.jpg/800px-Inntal_und_Ritzaualm_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Inntal_und_Ritzaualm_02.jpg/1200px-Inntal_und_Ritzaualm_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Inntal_und_Ritzaualm_02.jpg/1920px-Inntal_und_Ritzaualm_02.jpg
+  Ritzaualm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ritzaualm.jpg/400px-Ritzaualm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ritzaualm.jpg/800px-Ritzaualm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ritzaualm.jpg/1200px-Ritzaualm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ritzaualm.jpg/1920px-Ritzaualm.jpg
+  Inntal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inntal.jpg/400px-Inntal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inntal.jpg/800px-Inntal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inntal.jpg/1200px-Inntal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Inntal.jpg/1920px-Inntal.jpg
+  B171 Blick auf A12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B171_Blick_auf_A12.jpg/400px-B171_Blick_auf_A12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B171_Blick_auf_A12.jpg/800px-B171_Blick_auf_A12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B171_Blick_auf_A12.jpg/1200px-B171_Blick_auf_A12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B171_Blick_auf_A12.jpg/1920px-B171_Blick_auf_A12.jpg
 ---
 
 ## Overview

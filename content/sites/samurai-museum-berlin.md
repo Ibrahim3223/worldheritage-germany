@@ -21,7 +21,7 @@ longitude: 13.395283
 
 # Images
 images:
-  - "/images-sites/samurai-museum-berlin/01-8f45a588-800w.webp"
+  - "/images/samurai-museum-berlin/01-8f45a588-800w.webp"
 ---
 
 ## Overview

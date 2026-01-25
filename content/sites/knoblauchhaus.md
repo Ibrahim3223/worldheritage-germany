@@ -13,7 +13,7 @@ regions:
 latitude: 52.516434
 longitude: 13.406988
 images:
-  - "/images-sites/knoblauchhaus/01-ddbab7fe-800w.webp"
+  - "/images/knoblauchhaus/01-ddbab7fe-800w.webp"
 ---
 
 ## Overview

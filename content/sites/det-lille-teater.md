@@ -1,19 +1,50 @@
 ---
-title: "Det lille Teater"
+title: Det lille Teater
 date: 2026-01-24
 draft: false
-description: "dänische Theaterbühne in Flensburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: dänische Theaterbühne in Flensburg
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 54.7899
 longitude: 9.43013
 images:
-  - "/images-sites/det-lille-teater/01-dae500ea-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/1200px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/1200px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/1200px-Det_lille_Teater_Gråsten_2023_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/1200px-Det_lille_Teater_Gråsten_2023_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/1200px-Det_lille_Teater_Gråsten_2023_3.jpg
+image_srcset:
+  ? Turmburg im Norderkuhgang (also sozusagen Norderkuh-Burg), dort wo sich Det lille
+    Teater befindet, gleich neben dem Burghof.JPG
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/400px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/800px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/1200px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG/1920px-Turmburg_im_Norderkuhgang_(also_sozusagen_Norderkuh-Burg),_dort_wo_sich_Det_lille_Teater_befindet,_gleich_neben_dem_Burghof.JPG
+  '"Det lille Theater" Mariegade 20 in Flensburg (2024).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/400px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/800px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/1200px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg/1920px-"Det_lille_Theater"_Mariegade_20_in_Flensburg_(2024).jpg
+  Det lille Teater Gråsten 2023 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/400px-Det_lille_Teater_Gråsten_2023_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/800px-Det_lille_Teater_Gråsten_2023_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/1200px-Det_lille_Teater_Gråsten_2023_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Det_lille_Teater_Gråsten_2023_1.jpg/1920px-Det_lille_Teater_Gråsten_2023_1.jpg
+  Det lille Teater Gråsten 2023 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/400px-Det_lille_Teater_Gråsten_2023_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/800px-Det_lille_Teater_Gråsten_2023_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/1200px-Det_lille_Teater_Gråsten_2023_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Det_lille_Teater_Gråsten_2023_2.jpg/1920px-Det_lille_Teater_Gråsten_2023_2.jpg
+  Det lille Teater Gråsten 2023 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/400px-Det_lille_Teater_Gråsten_2023_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/800px-Det_lille_Teater_Gråsten_2023_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/1200px-Det_lille_Teater_Gråsten_2023_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Det_lille_Teater_Gråsten_2023_3.jpg/1920px-Det_lille_Teater_Gråsten_2023_3.jpg
 ---
 
 ## Overview

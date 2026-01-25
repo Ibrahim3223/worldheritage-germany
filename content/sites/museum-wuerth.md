@@ -13,7 +13,7 @@ regions:
 latitude: 49.2586
 longitude: 9.67918
 images:
-  - "/images-sites/museum-wuerth/01-a5f3f118-800w.webp"
+  - "/images/museum-wuerth/01-a5f3f118-800w.webp"
 ---
 
 ## Overview

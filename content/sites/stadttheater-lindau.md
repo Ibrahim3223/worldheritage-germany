@@ -13,7 +13,7 @@ regions:
 latitude: 47.545859138
 longitude: 9.687001779
 images:
-  - "/images-sites/stadttheater-lindau/01-33033c5c-800w.webp"
+  - "/images/stadttheater-lindau/01-33033c5c-800w.webp"
 ---
 
 ## Overview

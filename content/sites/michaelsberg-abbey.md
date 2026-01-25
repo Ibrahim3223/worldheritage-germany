@@ -13,7 +13,7 @@ regions:
 latitude: 49.893611111
 longitude: 10.877222222
 images:
-  - "/images-sites/michaelsberg-abbey/01-fd049213-800w.webp"
+  - "/images/michaelsberg-abbey/01-fd049213-800w.webp"
 ---
 
 ## Overview

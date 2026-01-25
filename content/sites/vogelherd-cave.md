@@ -21,7 +21,7 @@ longitude: 10.1943
 
 # Images
 images:
-  - "/images-sites/vogelherd-cave/01-d9313185-800w.webp"
+  - "/images/vogelherd-cave/01-d9313185-800w.webp"
 ---
 
 ## Overview

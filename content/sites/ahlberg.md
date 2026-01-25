@@ -1,27 +1,37 @@
 ---
-title: "Ahlberg"
+title: Ahlberg
 date: 2026-01-23
 draft: false
-description: "mountain in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: mountain in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.452
 longitude: 9.50892
-
-# Images
 images:
-  - "/images-sites/ahlberg/01-2655f441-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ann-Christin_Ahlberg.jpg/1200px-Ann-Christin_Ahlberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ann-Christin_Ahlberg_01.JPG/1200px-Ann-Christin_Ahlberg_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alf_Ahlberg5_SPA.jpg/1200px-Alf_Ahlberg5_SPA.jpg
+image_srcset:
+  Ann-Christin Ahlberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ann-Christin_Ahlberg.jpg/400px-Ann-Christin_Ahlberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ann-Christin_Ahlberg.jpg/800px-Ann-Christin_Ahlberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ann-Christin_Ahlberg.jpg/1200px-Ann-Christin_Ahlberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ann-Christin_Ahlberg.jpg/1920px-Ann-Christin_Ahlberg.jpg
+  Ann-Christin Ahlberg 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ann-Christin_Ahlberg_01.JPG/400px-Ann-Christin_Ahlberg_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ann-Christin_Ahlberg_01.JPG/800px-Ann-Christin_Ahlberg_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ann-Christin_Ahlberg_01.JPG/1200px-Ann-Christin_Ahlberg_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ann-Christin_Ahlberg_01.JPG/1920px-Ann-Christin_Ahlberg_01.JPG
+  Alf Ahlberg5 SPA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alf_Ahlberg5_SPA.jpg/400px-Alf_Ahlberg5_SPA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alf_Ahlberg5_SPA.jpg/800px-Alf_Ahlberg5_SPA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alf_Ahlberg5_SPA.jpg/1200px-Alf_Ahlberg5_SPA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Alf_Ahlberg5_SPA.jpg/1920px-Alf_Ahlberg5_SPA.jpg
 ---
 
 ## Overview

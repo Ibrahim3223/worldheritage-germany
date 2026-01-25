@@ -1,21 +1,49 @@
 ---
-title: "Boissower See und Südteil des Neuenkirchener Sees"
+title: Boissower See und Südteil des Neuenkirchener Sees
 date: 2026-01-23
 draft: false
-description: "nature reserve in Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.567
 longitude: 10.9765
 images:
-  - "/images-sites/boissower-see-und-suedteil-des-neuenkirchener-sees/01-922ddb7d-800w.webp"
-  - "/images-sites/boissower-see-und-suedteil-des-neuenkirchener-sees/02-c69dd17d-800w.webp"
-  - "/images-sites/boissower-see-und-suedteil-des-neuenkirchener-sees/03-e462bf08-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1200px-Bach_vom_Boissower_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Naturbelassene_Wiesen.jpg/1200px-Naturbelassene_Wiesen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boissow_Naturdenkmal.jpg/1200px-Boissow_Naturdenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Baumauswuchs_(Hutewald).jpg/1200px-Baumauswuchs_(Hutewald).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boissower_See.jpg/1200px-Boissower_See.jpg
+image_srcset:
+  Bach vom Boissower See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/400px-Bach_vom_Boissower_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/800px-Bach_vom_Boissower_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1200px-Bach_vom_Boissower_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bach_vom_Boissower_See.jpg/1920px-Bach_vom_Boissower_See.jpg
+  Naturbelassene Wiesen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Naturbelassene_Wiesen.jpg/400px-Naturbelassene_Wiesen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Naturbelassene_Wiesen.jpg/800px-Naturbelassene_Wiesen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Naturbelassene_Wiesen.jpg/1200px-Naturbelassene_Wiesen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Naturbelassene_Wiesen.jpg/1920px-Naturbelassene_Wiesen.jpg
+  Boissow Naturdenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boissow_Naturdenkmal.jpg/400px-Boissow_Naturdenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boissow_Naturdenkmal.jpg/800px-Boissow_Naturdenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boissow_Naturdenkmal.jpg/1200px-Boissow_Naturdenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boissow_Naturdenkmal.jpg/1920px-Boissow_Naturdenkmal.jpg
+  Baumauswuchs (Hutewald).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Baumauswuchs_(Hutewald).jpg/400px-Baumauswuchs_(Hutewald).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Baumauswuchs_(Hutewald).jpg/800px-Baumauswuchs_(Hutewald).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Baumauswuchs_(Hutewald).jpg/1200px-Baumauswuchs_(Hutewald).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Baumauswuchs_(Hutewald).jpg/1920px-Baumauswuchs_(Hutewald).jpg
+  Boissower See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boissower_See.jpg/400px-Boissower_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boissower_See.jpg/800px-Boissower_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boissower_See.jpg/1200px-Boissower_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boissower_See.jpg/1920px-Boissower_See.jpg
 ---
 
 ## Overview

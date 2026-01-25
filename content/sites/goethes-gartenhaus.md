@@ -1,19 +1,49 @@
 ---
-title: "Goethes Gartenhaus"
+title: Goethes Gartenhaus
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9761
 longitude: 11.3369
 images:
-  - "/images-sites/goethes-gartenhaus/01-ced823b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Weimar,_Goethes_Gartenhaus_im_Herbst.jpg/1200px-Weimar,_Goethes_Gartenhaus_im_Herbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Goethes_Gartenhaus_Weimar_01.jpg/1200px-Goethes_Gartenhaus_Weimar_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Goethes_Gartenhaus_Weimar_03.jpg/1200px-Goethes_Gartenhaus_Weimar_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethes_Gartenhaus-0078.jpg/1200px-Goethes_Gartenhaus-0078.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/1200px-Weimar_Goethe_Gartenhaus.jpg
+image_srcset:
+  Weimar, Goethes Gartenhaus im Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Weimar,_Goethes_Gartenhaus_im_Herbst.jpg/400px-Weimar,_Goethes_Gartenhaus_im_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Weimar,_Goethes_Gartenhaus_im_Herbst.jpg/800px-Weimar,_Goethes_Gartenhaus_im_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Weimar,_Goethes_Gartenhaus_im_Herbst.jpg/1200px-Weimar,_Goethes_Gartenhaus_im_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Weimar,_Goethes_Gartenhaus_im_Herbst.jpg/1920px-Weimar,_Goethes_Gartenhaus_im_Herbst.jpg
+  Goethes Gartenhaus Weimar 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Goethes_Gartenhaus_Weimar_01.jpg/400px-Goethes_Gartenhaus_Weimar_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Goethes_Gartenhaus_Weimar_01.jpg/800px-Goethes_Gartenhaus_Weimar_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Goethes_Gartenhaus_Weimar_01.jpg/1200px-Goethes_Gartenhaus_Weimar_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Goethes_Gartenhaus_Weimar_01.jpg/1920px-Goethes_Gartenhaus_Weimar_01.jpg
+  Goethes Gartenhaus Weimar 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Goethes_Gartenhaus_Weimar_03.jpg/400px-Goethes_Gartenhaus_Weimar_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Goethes_Gartenhaus_Weimar_03.jpg/800px-Goethes_Gartenhaus_Weimar_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Goethes_Gartenhaus_Weimar_03.jpg/1200px-Goethes_Gartenhaus_Weimar_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Goethes_Gartenhaus_Weimar_03.jpg/1920px-Goethes_Gartenhaus_Weimar_03.jpg
+  Goethes Gartenhaus-0078.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethes_Gartenhaus-0078.jpg/400px-Goethes_Gartenhaus-0078.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethes_Gartenhaus-0078.jpg/800px-Goethes_Gartenhaus-0078.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethes_Gartenhaus-0078.jpg/1200px-Goethes_Gartenhaus-0078.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Goethes_Gartenhaus-0078.jpg/1920px-Goethes_Gartenhaus-0078.jpg
+  Weimar Goethe Gartenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/400px-Weimar_Goethe_Gartenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/800px-Weimar_Goethe_Gartenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/1200px-Weimar_Goethe_Gartenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Weimar_Goethe_Gartenhaus.jpg/1920px-Weimar_Goethe_Gartenhaus.jpg
 ---
 
 ## Overview

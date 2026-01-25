@@ -1,23 +1,50 @@
 ---
-title: "Evangelical Apostle Paul Church"
-site_name: "Evangelical Apostle Paul Church"
-slug: "evangelical-apostle-paul-church"
-region: "Berlin"
-
-# Location
+title: Evangelical Apostle Paul Church
+site_name: Evangelical Apostle Paul Church
+slug: evangelical-apostle-paul-church
+region: Berlin
 latitude: 52.4893
 longitude: 13.3527
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q619821"
-description: "Located in the heart of Berlin, the Evangelical Apostle Paul Church stands as a notable example of Gothic Revival architecture. Founded in 1892 by the a..."
+- cultural site
+wikidata_id: Q619821
+description: Located in the heart of Berlin, the Evangelical Apostle Paul Church stands
+  as a notable example of Gothic Revival architecture. Founded in 1892 by the a...
 images:
-  - "/images-sites/evangelical-apostle-paul-church/01-dbb0f396-1920w.webp"
-  - "/images-sites/evangelical-apostle-paul-church/02-fb26104e-1920w.webp"
-  - "/images-sites/evangelical-apostle-paul-church/03-cfb179e5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg/1200px-Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg/1200px-Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg/1200px-Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apostel-Paulus-Kirche,_Schöneberg.jpg/1200px-Apostel-Paulus-Kirche,_Schöneberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg/1200px-Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg
+image_srcset:
+  Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg/400px-Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg/800px-Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg/1200px-Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg/1920px-Berlin-Sch%C3%B6neberg%20Apostelpauluskirche%2003.10.2011%2016-10-55%20ShiftN.jpg
+  Apostel-Paulus-Kirche (Berlin) linkes Seitenschiff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg/400px-Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg/800px-Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg/1200px-Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg/1920px-Apostel-Paulus-Kirche_(Berlin)_linkes_Seitenschiff.jpg
+  Berlin Schoeneberg Akazienstrasse edit 11.04.2013 15-42-41.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg/400px-Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg/800px-Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg/1200px-Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg/1920px-Berlin_Schoeneberg_Akazienstrasse_edit_11.04.2013_15-42-41.jpg
+  Apostel-Paulus-Kirche, Schöneberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apostel-Paulus-Kirche,_Schöneberg.jpg/400px-Apostel-Paulus-Kirche,_Schöneberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apostel-Paulus-Kirche,_Schöneberg.jpg/800px-Apostel-Paulus-Kirche,_Schöneberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apostel-Paulus-Kirche,_Schöneberg.jpg/1200px-Apostel-Paulus-Kirche,_Schöneberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apostel-Paulus-Kirche,_Schöneberg.jpg/1920px-Apostel-Paulus-Kirche,_Schöneberg.jpg
+  Kurbis Ausstellung (Pumpkin Show) - geo.hlipp.de - 29190.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg/400px-Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg/800px-Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg/1200px-Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg/1920px-Kurbis_Ausstellung_(Pumpkin_Show)_-_geo.hlipp.de_-_29190.jpg
 ---
 
 ## Overview

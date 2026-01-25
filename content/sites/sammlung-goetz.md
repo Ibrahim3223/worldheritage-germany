@@ -21,7 +21,7 @@ longitude: 11.6231
 
 # Images
 images:
-  - "/images-sites/sammlung-goetz/01-d27324da-800w.webp"
+  - "/images/sammlung-goetz/01-d27324da-800w.webp"
 ---
 
 ## Overview

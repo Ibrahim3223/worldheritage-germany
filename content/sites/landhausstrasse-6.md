@@ -13,9 +13,9 @@ regions:
 latitude: 51.0508
 longitude: 13.7417
 images:
-  - "/images-sites/landhausstrasse-6/01-9939a550-800w.webp"
-  - "/images-sites/landhausstrasse-6/02-9a8a236c-800w.webp"
-  - "/images-sites/landhausstrasse-6/03-9ed95f32-800w.webp"
+  - "/images/landhausstrasse-6/01-9939a550-800w.webp"
+  - "/images/landhausstrasse-6/02-9a8a236c-800w.webp"
+  - "/images/landhausstrasse-6/03-9ed95f32-800w.webp"
 ---
 
 ## Overview

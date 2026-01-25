@@ -13,7 +13,7 @@ regions:
 latitude: 48.1509
 longitude: 8.63498
 images:
-  - "/images-sites/rottenmuenster-abbey/01-9b413919-800w.webp"
+  - "/images/rottenmuenster-abbey/01-9b413919-800w.webp"
 ---
 
 ## Overview

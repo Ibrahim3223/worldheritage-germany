@@ -13,9 +13,9 @@ regions:
 latitude: 48.339227777
 longitude: 10.917747222
 images:
-  - "/images-sites/stempflesee/01-e7b46bb0-800w.webp"
-  - "/images-sites/stempflesee/02-c960b498-800w.webp"
-  - "/images-sites/stempflesee/03-0a35b2fe-800w.webp"
+  - "/images/stempflesee/01-e7b46bb0-800w.webp"
+  - "/images/stempflesee/02-c960b498-800w.webp"
+  - "/images/stempflesee/03-0a35b2fe-800w.webp"
 ---
 
 ## Overview

@@ -1,28 +1,31 @@
 ---
-title: "Hertie Foundation"
+title: Hertie Foundation
 date: 2026-01-23
 draft: false
-description: "nonprofit organization in Frankfurt am Main, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: nonprofit organization in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.12344
 longitude: 8.663628
-
-# Images
 images:
-  - "/images-sites/hertie-foundation/01-e4ae8c3c-800w.webp"
-  - "/images-sites/hertie-foundation/02-5be3271c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HES_LOGO_V2_RGB.jpg/1200px-HES_LOGO_V2_RGB.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grundzertifikat_audit_familiengerechte_hs_Logo.svg/1200px-Grundzertifikat_audit_familiengerechte_hs_Logo.svg.png
+image_srcset:
+  HES LOGO V2 RGB.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HES_LOGO_V2_RGB.jpg/400px-HES_LOGO_V2_RGB.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HES_LOGO_V2_RGB.jpg/800px-HES_LOGO_V2_RGB.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HES_LOGO_V2_RGB.jpg/1200px-HES_LOGO_V2_RGB.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HES_LOGO_V2_RGB.jpg/1920px-HES_LOGO_V2_RGB.jpg
+  Grundzertifikat audit familiengerechte hs Logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grundzertifikat_audit_familiengerechte_hs_Logo.svg/400px-Grundzertifikat_audit_familiengerechte_hs_Logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grundzertifikat_audit_familiengerechte_hs_Logo.svg/800px-Grundzertifikat_audit_familiengerechte_hs_Logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grundzertifikat_audit_familiengerechte_hs_Logo.svg/1200px-Grundzertifikat_audit_familiengerechte_hs_Logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grundzertifikat_audit_familiengerechte_hs_Logo.svg/1920px-Grundzertifikat_audit_familiengerechte_hs_Logo.svg.png
 ---
 
 ## Overview

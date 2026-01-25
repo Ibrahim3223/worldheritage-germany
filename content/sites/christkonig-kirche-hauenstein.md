@@ -1,24 +1,51 @@
 ---
-title: "Christkönig-Kirche (Hauenstein)"
-site_name: "Christkönig-Kirche (Hauenstein)"
-slug: "christkonig-kirche-hauenstein"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Christkönig-Kirche (Hauenstein)
+site_name: Christkönig-Kirche (Hauenstein)
+slug: christkonig-kirche-hauenstein
+region: Rhineland-Palatinate
 latitude: 49.1928
 longitude: 7.84989
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1083912"
-description: "In the heart of Hauenstein, Germany, the Christkönig-Kirche stands as a significant church building that captures the attention of both locals and visit..."
+- church building
+- religious site
+wikidata_id: Q1083912
+description: In the heart of Hauenstein, Germany, the Christkönig-Kirche stands as
+  a significant church building that captures the attention of both locals and visit...
 images:
-  - "/images-sites/christkonig-kirche-hauenstein/01-8d6b8f0b-1920w.webp"
-  - "/images-sites/christkonig-kirche-hauenstein/02-5b339a91-1920w.webp"
-  - "/images-sites/christkonig-kirche-hauenstein/03-82ddb174-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG/1200px-Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg/1200px-Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
+image_srcset:
+  Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG/400px-Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG/800px-Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG/1200px-Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG/1920px-Hauenstein%20Katholische%20Pfarrkirche%20Christk%C3%B6nig%2002.JPG
+  Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg/400px-Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg/800px-Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg/1200px-Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg/1920px-Hauenstein-Christkoenig-Kirche-14-2019-gje.jpg
+  Hauenstein Katholische Pfarrkirche Christkönig 06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG/400px-Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG/800px-Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG/1920px-Hauenstein_Katholische_Pfarrkirche_Christkönig_06.JPG
+  Hauenstein Katholische Pfarrkirche Christkönig 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG/400px-Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG/800px-Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG/1920px-Hauenstein_Katholische_Pfarrkirche_Christkönig_01.JPG
+  Hauenstein Katholische Pfarrkirche Christkönig 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/400px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/800px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/1200px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG/1920px-Hauenstein_Katholische_Pfarrkirche_Christkönig_02.JPG
 ---
 
 ## Overview

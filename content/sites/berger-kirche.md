@@ -1,24 +1,52 @@
 ---
-title: "Berger Kirche"
-site_name: "Berger Kirche"
-slug: "berger-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Berger Kirche
+site_name: Berger Kirche
+slug: berger-kirche
+region: North Rhine-Westphalia
 latitude: 51.2244
 longitude: 6.77328
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q819573"
-description: "In the heart of Düsseldorf, the Berger Kirche stands as a remarkable example of Renaissance architecture, capturing the essence of its time since its es..."
+- church building
+- religious site
+wikidata_id: Q819573
+description: In the heart of Düsseldorf, the Berger Kirche stands as a remarkable
+  example of Renaissance architecture, capturing the essence of its time since its
+  es...
 images:
-  - "/images-sites/berger-kirche/01-9f77b4b5-1920w.webp"
-  - "/images-sites/berger-kirche/02-80748542-1920w.webp"
-  - "/images-sites/berger-kirche/03-56a24784-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg/1200px-Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bergerkirche_Niederbrechen_detail_03.jpg/1200px-Bergerkirche_Niederbrechen_detail_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Berger_Kirche_Front.jpg/1200px-Berger_Kirche_Front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berger_Kirche,_Mai_2020_III.jpg/1200px-Berger_Kirche,_Mai_2020_III.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berger_Kirche_Seite.jpg/1200px-Berger_Kirche_Seite.jpg
+image_srcset:
+  Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg/400px-Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg/800px-Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg/1200px-Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg/1920px-Berger%20Kirche%20in%20Duesseldorf-Altstadt%2C%20von%20Westen.jpg
+  Bergerkirche Niederbrechen detail 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bergerkirche_Niederbrechen_detail_03.jpg/400px-Bergerkirche_Niederbrechen_detail_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bergerkirche_Niederbrechen_detail_03.jpg/800px-Bergerkirche_Niederbrechen_detail_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bergerkirche_Niederbrechen_detail_03.jpg/1200px-Bergerkirche_Niederbrechen_detail_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bergerkirche_Niederbrechen_detail_03.jpg/1920px-Bergerkirche_Niederbrechen_detail_03.jpg
+  Berger Kirche Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Berger_Kirche_Front.jpg/400px-Berger_Kirche_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Berger_Kirche_Front.jpg/800px-Berger_Kirche_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Berger_Kirche_Front.jpg/1200px-Berger_Kirche_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Berger_Kirche_Front.jpg/1920px-Berger_Kirche_Front.jpg
+  Berger Kirche, Mai 2020 III.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berger_Kirche,_Mai_2020_III.jpg/400px-Berger_Kirche,_Mai_2020_III.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berger_Kirche,_Mai_2020_III.jpg/800px-Berger_Kirche,_Mai_2020_III.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berger_Kirche,_Mai_2020_III.jpg/1200px-Berger_Kirche,_Mai_2020_III.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Berger_Kirche,_Mai_2020_III.jpg/1920px-Berger_Kirche,_Mai_2020_III.jpg
+  Berger Kirche Seite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berger_Kirche_Seite.jpg/400px-Berger_Kirche_Seite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berger_Kirche_Seite.jpg/800px-Berger_Kirche_Seite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berger_Kirche_Seite.jpg/1200px-Berger_Kirche_Seite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Berger_Kirche_Seite.jpg/1920px-Berger_Kirche_Seite.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.54333333
 longitude: 13.42777778
 images:
-  - "/images-sites/zeiss-major-planetarium/01-43e419a8-800w.webp"
+  - "/images/zeiss-major-planetarium/01-43e419a8-800w.webp"
 ---
 
 ## Overview

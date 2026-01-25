@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q14532173"
 description: "The Melanchthonkirche, a striking Gothic Revival church building, is located in the heart of Spandau, Germany. Standing at an impressive height of 41 me..."
 images:
-  - "/images-sites/melanchthonkirche/01-1abc00d0-1920w.webp"
-  - "/images-sites/melanchthonkirche/02-b46cfad6-1920w.webp"
-  - "/images-sites/melanchthonkirche/03-656e2e31-1920w.webp"
+  - "/images/melanchthonkirche/01-1abc00d0-1920w.webp"
+  - "/images/melanchthonkirche/02-b46cfad6-1920w.webp"
+  - "/images/melanchthonkirche/03-656e2e31-1920w.webp"
 ---
 
 ## Overview

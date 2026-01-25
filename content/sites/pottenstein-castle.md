@@ -21,7 +21,7 @@ longitude: 11.4081
 
 # Images
 images:
-  - "/images-sites/pottenstein-castle/01-a460e3cd-800w.webp"
+  - "/images/pottenstein-castle/01-a460e3cd-800w.webp"
 ---
 
 ## Overview

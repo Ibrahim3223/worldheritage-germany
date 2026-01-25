@@ -1,19 +1,50 @@
 ---
-title: "Church in Heringsdorf"
-site_name: "Church in Heringsdorf"
-slug: "church-in-heringsdorf"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Heringsdorf
+site_name: Church in Heringsdorf
+slug: church-in-heringsdorf
+region: Mecklenburg-Vorpommern
 latitude: 53.9571
 longitude: 14.1626
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1742821"
-description: "In the quaint town of Heringsdorf, Germany, a remarkable architectural gem rises with its distinctive Gothic Revival style. The Church in Heringsdorf ca..."
+- cultural site
+wikidata_id: Q1742821
+description: In the quaint town of Heringsdorf, Germany, a remarkable architectural
+  gem rises with its distinctive Gothic Revival style. The Church in Heringsdorf ca...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Heringsdorf%20Kirche%20Westseite.jpg/1200px-Heringsdorf%20Kirche%20Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heringsdorf_(Usedom),_church.jpg/1200px-Heringsdorf_(Usedom),_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Heringsdorf_(Usedom),_Kirche_im_Walde.jpg/1200px-Heringsdorf_(Usedom),_Kirche_im_Walde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/1200px-Heringsdorf_Kirche_Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heringsdorf_(Usedom),_Kirche.jpg/1200px-Heringsdorf_(Usedom),_Kirche.jpg
+image_srcset:
+  Heringsdorf%20Kirche%20Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Heringsdorf%20Kirche%20Westseite.jpg/400px-Heringsdorf%20Kirche%20Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Heringsdorf%20Kirche%20Westseite.jpg/800px-Heringsdorf%20Kirche%20Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Heringsdorf%20Kirche%20Westseite.jpg/1200px-Heringsdorf%20Kirche%20Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Heringsdorf%20Kirche%20Westseite.jpg/1920px-Heringsdorf%20Kirche%20Westseite.jpg
+  Heringsdorf (Usedom), church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heringsdorf_(Usedom),_church.jpg/400px-Heringsdorf_(Usedom),_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heringsdorf_(Usedom),_church.jpg/800px-Heringsdorf_(Usedom),_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heringsdorf_(Usedom),_church.jpg/1200px-Heringsdorf_(Usedom),_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Heringsdorf_(Usedom),_church.jpg/1920px-Heringsdorf_(Usedom),_church.jpg
+  Heringsdorf (Usedom), Kirche im Walde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Heringsdorf_(Usedom),_Kirche_im_Walde.jpg/400px-Heringsdorf_(Usedom),_Kirche_im_Walde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Heringsdorf_(Usedom),_Kirche_im_Walde.jpg/800px-Heringsdorf_(Usedom),_Kirche_im_Walde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Heringsdorf_(Usedom),_Kirche_im_Walde.jpg/1200px-Heringsdorf_(Usedom),_Kirche_im_Walde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Heringsdorf_(Usedom),_Kirche_im_Walde.jpg/1920px-Heringsdorf_(Usedom),_Kirche_im_Walde.jpg
+  Heringsdorf Kirche Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/400px-Heringsdorf_Kirche_Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/800px-Heringsdorf_Kirche_Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/1200px-Heringsdorf_Kirche_Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Heringsdorf_Kirche_Westseite.jpg/1920px-Heringsdorf_Kirche_Westseite.jpg
+  Heringsdorf (Usedom), Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heringsdorf_(Usedom),_Kirche.jpg/400px-Heringsdorf_(Usedom),_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heringsdorf_(Usedom),_Kirche.jpg/800px-Heringsdorf_(Usedom),_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heringsdorf_(Usedom),_Kirche.jpg/1200px-Heringsdorf_(Usedom),_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Heringsdorf_(Usedom),_Kirche.jpg/1920px-Heringsdorf_(Usedom),_Kirche.jpg
 ---
 
 ## Overview

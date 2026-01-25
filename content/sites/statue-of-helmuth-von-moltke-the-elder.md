@@ -13,7 +13,7 @@ regions:
 latitude: 52.51544
 longitude: 13.35064
 images:
-  - "/images-sites/statue-of-helmuth-von-moltke-the-elder/01-6fd12529-800w.webp"
+  - "/images/statue-of-helmuth-von-moltke-the-elder/01-6fd12529-800w.webp"
 ---
 
 ## Overview

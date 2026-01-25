@@ -1,19 +1,51 @@
 ---
-title: "Church in Roggenstorf"
-site_name: "Church in Roggenstorf"
-slug: "church-in-roggenstorf"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Roggenstorf
+site_name: Church in Roggenstorf
+slug: church-in-roggenstorf
+region: Schleswig-Holstein
 latitude: 53.9137
 longitude: 11.0666
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244669"
-description: "In the heart of Roggenstorf, Germany, stands a remarkable church that invites visitors to explore its architectural beauty and serene atmosphere. This c..."
+- cultural site
+wikidata_id: Q1244669
+description: In the heart of Roggenstorf, Germany, stands a remarkable church that
+  invites visitors to explore its architectural beauty and serene atmosphere. This
+  c...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggenstorf%20Kirche%202012-03-15%20057.JPG/1200px-Roggenstorf%20Kirche%202012-03-15%20057.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Roggenstorf_Kirche_(01).JPG/1200px-Roggenstorf_Kirche_(01).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1200px-Roggenstorf_Kirche_2012-03-15_057.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roggenstorf_Kirche_2012-03-15_062.JPG/1200px-Roggenstorf_Kirche_2012-03-15_062.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG/1200px-Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG
+image_srcset:
+  Roggenstorf%20Kirche%202012-03-15%20057.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggenstorf%20Kirche%202012-03-15%20057.JPG/400px-Roggenstorf%20Kirche%202012-03-15%20057.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggenstorf%20Kirche%202012-03-15%20057.JPG/800px-Roggenstorf%20Kirche%202012-03-15%20057.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggenstorf%20Kirche%202012-03-15%20057.JPG/1200px-Roggenstorf%20Kirche%202012-03-15%20057.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Roggenstorf%20Kirche%202012-03-15%20057.JPG/1920px-Roggenstorf%20Kirche%202012-03-15%20057.JPG
+  Roggenstorf Kirche (01).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Roggenstorf_Kirche_(01).JPG/400px-Roggenstorf_Kirche_(01).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Roggenstorf_Kirche_(01).JPG/800px-Roggenstorf_Kirche_(01).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Roggenstorf_Kirche_(01).JPG/1200px-Roggenstorf_Kirche_(01).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Roggenstorf_Kirche_(01).JPG/1920px-Roggenstorf_Kirche_(01).JPG
+  Roggenstorf Kirche 2012-03-15 057.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/400px-Roggenstorf_Kirche_2012-03-15_057.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/800px-Roggenstorf_Kirche_2012-03-15_057.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1200px-Roggenstorf_Kirche_2012-03-15_057.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roggenstorf_Kirche_2012-03-15_057.JPG/1920px-Roggenstorf_Kirche_2012-03-15_057.JPG
+  Roggenstorf Kirche 2012-03-15 062.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roggenstorf_Kirche_2012-03-15_062.JPG/400px-Roggenstorf_Kirche_2012-03-15_062.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roggenstorf_Kirche_2012-03-15_062.JPG/800px-Roggenstorf_Kirche_2012-03-15_062.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roggenstorf_Kirche_2012-03-15_062.JPG/1200px-Roggenstorf_Kirche_2012-03-15_062.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Roggenstorf_Kirche_2012-03-15_062.JPG/1920px-Roggenstorf_Kirche_2012-03-15_062.JPG
+  Roggenstorf Kirche Stein Amalia Römer, geb. Bolten 2012-03-15 055.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG/400px-Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG/800px-Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG/1200px-Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG/1920px-Roggenstorf_Kirche_Stein_Amalia_Römer,_geb._Bolten_2012-03-15_055.JPG
 ---
 
 ## Overview

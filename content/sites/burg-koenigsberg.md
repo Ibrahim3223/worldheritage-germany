@@ -1,19 +1,49 @@
 ---
-title: "Burg Königsberg"
+title: Burg Königsberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6447
 longitude: 8.53554
 images:
-  - "/images-sites/burg-koenigsberg/01-064a103d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Königsberg_(Biebertal)_2.jpg/1200px-Burg_Königsberg_(Biebertal)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Königsberg_(Biebertal)_4.jpg/1200px-Burg_Königsberg_(Biebertal)_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Königsberg_(Biebertal)_5.jpg/1200px-Burg_Königsberg_(Biebertal)_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Königsberg_(Biebertal)_6.jpg/1200px-Burg_Königsberg_(Biebertal)_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/1200px-Burg_Königsberg_(Biebertal)_1.jpg
+image_srcset:
+  Burg Königsberg (Biebertal) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Königsberg_(Biebertal)_2.jpg/400px-Burg_Königsberg_(Biebertal)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Königsberg_(Biebertal)_2.jpg/800px-Burg_Königsberg_(Biebertal)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Königsberg_(Biebertal)_2.jpg/1200px-Burg_Königsberg_(Biebertal)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Königsberg_(Biebertal)_2.jpg/1920px-Burg_Königsberg_(Biebertal)_2.jpg
+  Burg Königsberg (Biebertal) 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Königsberg_(Biebertal)_4.jpg/400px-Burg_Königsberg_(Biebertal)_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Königsberg_(Biebertal)_4.jpg/800px-Burg_Königsberg_(Biebertal)_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Königsberg_(Biebertal)_4.jpg/1200px-Burg_Königsberg_(Biebertal)_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Burg_Königsberg_(Biebertal)_4.jpg/1920px-Burg_Königsberg_(Biebertal)_4.jpg
+  Burg Königsberg (Biebertal) 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Königsberg_(Biebertal)_5.jpg/400px-Burg_Königsberg_(Biebertal)_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Königsberg_(Biebertal)_5.jpg/800px-Burg_Königsberg_(Biebertal)_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Königsberg_(Biebertal)_5.jpg/1200px-Burg_Königsberg_(Biebertal)_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burg_Königsberg_(Biebertal)_5.jpg/1920px-Burg_Königsberg_(Biebertal)_5.jpg
+  Burg Königsberg (Biebertal) 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Königsberg_(Biebertal)_6.jpg/400px-Burg_Königsberg_(Biebertal)_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Königsberg_(Biebertal)_6.jpg/800px-Burg_Königsberg_(Biebertal)_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Königsberg_(Biebertal)_6.jpg/1200px-Burg_Königsberg_(Biebertal)_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burg_Königsberg_(Biebertal)_6.jpg/1920px-Burg_Königsberg_(Biebertal)_6.jpg
+  Burg Königsberg (Biebertal) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/400px-Burg_Königsberg_(Biebertal)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/800px-Burg_Königsberg_(Biebertal)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/1200px-Burg_Königsberg_(Biebertal)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Königsberg_(Biebertal)_1.jpg/1920px-Burg_Königsberg_(Biebertal)_1.jpg
 ---
 
 ## Overview

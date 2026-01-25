@@ -13,9 +13,9 @@ regions:
 latitude: 51.27473
 longitude: 9.439078
 images:
-  - "/images-sites/mevlana-moschee/01-d45414c8-800w.webp"
-  - "/images-sites/mevlana-moschee/02-c02e4114-800w.webp"
-  - "/images-sites/mevlana-moschee/03-0755d08b-800w.webp"
+  - "/images/mevlana-moschee/01-d45414c8-800w.webp"
+  - "/images/mevlana-moschee/02-c02e4114-800w.webp"
+  - "/images/mevlana-moschee/03-0755d08b-800w.webp"
 ---
 
 ## Overview

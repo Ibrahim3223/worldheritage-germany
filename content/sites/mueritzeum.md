@@ -13,7 +13,7 @@ regions:
 latitude: 53.514583333
 longitude: 12.683333333
 images:
-  - "/images-sites/mueritzeum/01-08c6a3f9-800w.webp"
+  - "/images/mueritzeum/01-08c6a3f9-800w.webp"
 ---
 
 ## Overview

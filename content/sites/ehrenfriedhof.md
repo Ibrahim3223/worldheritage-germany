@@ -1,19 +1,49 @@
 ---
-title: "Ehrenfriedhof"
+title: Ehrenfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Wilhelmshaven, Germany."
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Wilhelmshaven, Germany.
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.546388888
 longitude: 8.1025
 images:
-  - "/images-sites/ehrenfriedhof/01-69d4f176-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eerebegraafplaats_Bloemendaal_overzicht.jpg/1200px-Eerebegraafplaats_Bloemendaal_overzicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg/1200px-Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg/1200px-Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bloemendaal_-_erebegraafplaats.jpg/1200px-Bloemendaal_-_erebegraafplaats.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eerebegraafplaats_Overveen.TIF.jpg/1200px-Eerebegraafplaats_Overveen.TIF.jpg
+image_srcset:
+  Eerebegraafplaats Bloemendaal overzicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eerebegraafplaats_Bloemendaal_overzicht.jpg/400px-Eerebegraafplaats_Bloemendaal_overzicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eerebegraafplaats_Bloemendaal_overzicht.jpg/800px-Eerebegraafplaats_Bloemendaal_overzicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eerebegraafplaats_Bloemendaal_overzicht.jpg/1200px-Eerebegraafplaats_Bloemendaal_overzicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eerebegraafplaats_Bloemendaal_overzicht.jpg/1920px-Eerebegraafplaats_Bloemendaal_overzicht.jpg
+  Eerebegraafplaats Bloemendaal – Nederlandse vlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg/400px-Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg/800px-Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg/1200px-Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg/1920px-Eerebegraafplaats_Bloemendaal_–_Nederlandse_vlag.jpg
+  Eerebegraafplaats Bloemendaal overzichtsfoto.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg/400px-Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg/800px-Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg/1200px-Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg/1920px-Eerebegraafplaats_Bloemendaal_overzichtsfoto.jpg
+  Bloemendaal - erebegraafplaats.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bloemendaal_-_erebegraafplaats.jpg/400px-Bloemendaal_-_erebegraafplaats.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bloemendaal_-_erebegraafplaats.jpg/800px-Bloemendaal_-_erebegraafplaats.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bloemendaal_-_erebegraafplaats.jpg/1200px-Bloemendaal_-_erebegraafplaats.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bloemendaal_-_erebegraafplaats.jpg/1920px-Bloemendaal_-_erebegraafplaats.jpg
+  Eerebegraafplaats Overveen.TIF:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eerebegraafplaats_Overveen.TIF.jpg/400px-Eerebegraafplaats_Overveen.TIF.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eerebegraafplaats_Overveen.TIF.jpg/800px-Eerebegraafplaats_Overveen.TIF.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eerebegraafplaats_Overveen.TIF.jpg/1200px-Eerebegraafplaats_Overveen.TIF.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eerebegraafplaats_Overveen.TIF.jpg/1920px-Eerebegraafplaats_Overveen.TIF.jpg
 ---
 
 ## Overview

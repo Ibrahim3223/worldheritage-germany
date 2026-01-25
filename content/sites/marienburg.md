@@ -13,7 +13,7 @@ regions:
 latitude: 50.0434
 longitude: 7.13676
 images:
-  - "/images-sites/marienburg/01-c990af8b-800w.webp"
+  - "/images/marienburg/01-c990af8b-800w.webp"
 ---
 
 ## Overview

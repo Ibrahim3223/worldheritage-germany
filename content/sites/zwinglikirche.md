@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q244840"
 description: "Tucked away in the vibrant district of Friedrichshain-Kreuzberg, the Zwinglikirche emerges as a striking example of Gothic Revival architecture. Founded..."
 images:
-  - "/images-sites/zwinglikirche/01-f7188706-1920w.webp"
-  - "/images-sites/zwinglikirche/02-76d6318b-1920w.webp"
-  - "/images-sites/zwinglikirche/03-c3f3bd8c-1920w.webp"
+  - "/images/zwinglikirche/01-f7188706-1920w.webp"
+  - "/images/zwinglikirche/02-76d6318b-1920w.webp"
+  - "/images/zwinglikirche/03-c3f3bd8c-1920w.webp"
 ---
 
 ## Overview

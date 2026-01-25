@@ -1,27 +1,49 @@
 ---
-title: "Burg Tangermünde"
+title: Burg Tangermünde
 date: 2026-01-23
 draft: false
-description: "castle in Saxony-Anhalt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.5428
 longitude: 11.9775
-
-# Images
 images:
-  - "/images-sites/burg-tangermuende/01-3b189e59-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Neues_Schloss_Tangerhütte.jpg/1200px-Neues_Schloss_Tangerhütte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg/1200px-20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg/1200px-20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg/1200px-19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg
+image_srcset:
+  Neues Schloss Tangerhütte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Neues_Schloss_Tangerhütte.jpg/400px-Neues_Schloss_Tangerhütte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Neues_Schloss_Tangerhütte.jpg/800px-Neues_Schloss_Tangerhütte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Neues_Schloss_Tangerhütte.jpg/1200px-Neues_Schloss_Tangerhütte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Neues_Schloss_Tangerhütte.jpg/1920px-Neues_Schloss_Tangerhütte.jpg
+  Aerial image of Burg Tangermünde (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg/400px-Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg/800px-Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Burg_Tangermünde_(view_from_the_southeast).jpg
+  20030428160NR Tangermünde Blick über den Hafen zur Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg/400px-20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg/800px-20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg/1200px-20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg/1920px-20030428160NR_Tangermünde_Blick_über_den_Hafen_zur_Burg.jpg
+  20030429300NR Tangermünde Gefängnisturm der Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg/400px-20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg/800px-20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg/1200px-20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg/1920px-20030429300NR_Tangermünde_Gefängnisturm_der_Burg.jpg
+  19860718350AR Tangermünde Kaiser Karl IV.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg/400px-19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg/800px-19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg/1200px-19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg/1920px-19860718350AR_Tangermünde_Kaiser_Karl_IV.jpg
 ---
 
 ## Overview

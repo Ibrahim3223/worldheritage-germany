@@ -1,19 +1,49 @@
 ---
-title: "Fulda City Palace"
+title: Fulda City Palace
 date: 2026-01-23
 draft: false
-description: "national heritage site"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: national heritage site
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5539
 longitude: 9.67556
 images:
-  - "/images-sites/fulda-city-palace/01-00368062-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fulda_Stadtschloss-20250525-RM-150625.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150625.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fulda_Stadtschloss-20250525-RM-150533.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150533.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fulda_Stadtschloss-20250525-RM-150621.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150621.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fulda_Stadtschloss-20250525-RM-150907.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150907.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/1200px-Fuldaer_Stadtschloss.jpg
+image_srcset:
+  Fulda Stadtschloss-20250525-RM-150625.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fulda_Stadtschloss-20250525-RM-150625.jpg/400px-Fulda_Stadtschloss-20250525-RM-150625.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fulda_Stadtschloss-20250525-RM-150625.jpg/800px-Fulda_Stadtschloss-20250525-RM-150625.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fulda_Stadtschloss-20250525-RM-150625.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150625.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fulda_Stadtschloss-20250525-RM-150625.jpg/1920px-Fulda_Stadtschloss-20250525-RM-150625.jpg
+  Fulda Stadtschloss-20250525-RM-150533.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fulda_Stadtschloss-20250525-RM-150533.jpg/400px-Fulda_Stadtschloss-20250525-RM-150533.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fulda_Stadtschloss-20250525-RM-150533.jpg/800px-Fulda_Stadtschloss-20250525-RM-150533.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fulda_Stadtschloss-20250525-RM-150533.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150533.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fulda_Stadtschloss-20250525-RM-150533.jpg/1920px-Fulda_Stadtschloss-20250525-RM-150533.jpg
+  Fulda Stadtschloss-20250525-RM-150621.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fulda_Stadtschloss-20250525-RM-150621.jpg/400px-Fulda_Stadtschloss-20250525-RM-150621.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fulda_Stadtschloss-20250525-RM-150621.jpg/800px-Fulda_Stadtschloss-20250525-RM-150621.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fulda_Stadtschloss-20250525-RM-150621.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150621.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fulda_Stadtschloss-20250525-RM-150621.jpg/1920px-Fulda_Stadtschloss-20250525-RM-150621.jpg
+  Fulda Stadtschloss-20250525-RM-150907.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fulda_Stadtschloss-20250525-RM-150907.jpg/400px-Fulda_Stadtschloss-20250525-RM-150907.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fulda_Stadtschloss-20250525-RM-150907.jpg/800px-Fulda_Stadtschloss-20250525-RM-150907.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fulda_Stadtschloss-20250525-RM-150907.jpg/1200px-Fulda_Stadtschloss-20250525-RM-150907.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fulda_Stadtschloss-20250525-RM-150907.jpg/1920px-Fulda_Stadtschloss-20250525-RM-150907.jpg
+  Fuldaer Stadtschloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/400px-Fuldaer_Stadtschloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/800px-Fuldaer_Stadtschloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/1200px-Fuldaer_Stadtschloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fuldaer_Stadtschloss.jpg/1920px-Fuldaer_Stadtschloss.jpg
 ---
 
 ## Overview

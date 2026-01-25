@@ -1,27 +1,49 @@
 ---
-title: "Harburg Castle"
+title: Harburg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.785
 longitude: 10.687
-
-# Images
 images:
-  - "/images-sites/harburg-castle/01-6048750f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg/1200px-Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg/1200px-D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aerial_image_of_the_Harburg_Castle.jpg/1200px-Aerial_image_of_the_Harburg_Castle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/1200px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
+image_srcset:
+  Harburg in Schwaben, Burg Harburg, Saalbau, 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg/400px-Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg/800px-Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg/1200px-Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg/1920px-Harburg_in_Schwaben,_Burg_Harburg,_Saalbau,_001.jpg
+  Aerial image of the Harburg Castle (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Harburg_Castle_(view_from_the_southeast).jpg
+  D-7-79-155-1 Harburg Burg Unteres Tor Vorhof Landlug2 048.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg/400px-D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg/800px-D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg/1200px-D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg/1920px-D-7-79-155-1_Harburg_Burg_Unteres_Tor_Vorhof_Landlug2_048.jpg
+  Aerial image of the Harburg Castle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aerial_image_of_the_Harburg_Castle.jpg/400px-Aerial_image_of_the_Harburg_Castle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aerial_image_of_the_Harburg_Castle.jpg/800px-Aerial_image_of_the_Harburg_Castle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aerial_image_of_the_Harburg_Castle.jpg/1200px-Aerial_image_of_the_Harburg_Castle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aerial_image_of_the_Harburg_Castle.jpg/1920px-Aerial_image_of_the_Harburg_Castle.jpg
+  Harburg in Schwaben, Burg 20170826 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/400px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/800px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/1200px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harburg_in_Schwaben,_Burg_20170826_001.jpg/1920px-Harburg_in_Schwaben,_Burg_20170826_001.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 8.66917
 
 # Images
 images:
-  - "/images-sites/strahlenburg/01-1aeb741d-800w.webp"
+  - "/images/strahlenburg/01-1aeb741d-800w.webp"
 ---
 
 ## Overview

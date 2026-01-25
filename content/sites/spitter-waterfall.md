@@ -13,7 +13,7 @@ regions:
 latitude: 50.788256
 longitude: 10.54310247
 images:
-  - "/images-sites/spitter-waterfall/01-0bd1899b-800w.webp"
+  - "/images/spitter-waterfall/01-0bd1899b-800w.webp"
 ---
 
 ## Overview

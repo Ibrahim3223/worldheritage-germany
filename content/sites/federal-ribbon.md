@@ -1,19 +1,31 @@
 ---
-title: "Federal Ribbon"
+title: Federal Ribbon
 date: 2026-01-23
 draft: false
-description: "arrangement of buildings in the government district in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: arrangement of buildings in the government district in Berlin
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.52
 longitude: 13.3719
 images:
-  - "/images-sites/federal-ribbon/01-d18039be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Band_des_Bundes.JPG/1200px-Band_des_Bundes.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg/1200px-Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg
+image_srcset:
+  Band des Bundes.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Band_des_Bundes.JPG/400px-Band_des_Bundes.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Band_des_Bundes.JPG/800px-Band_des_Bundes.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Band_des_Bundes.JPG/1200px-Band_des_Bundes.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Band_des_Bundes.JPG/1920px-Band_des_Bundes.JPG
+  Berlin - Bundeskanzleramt Suedseite - Blickrichtung Paul-Loebe-Haus und Fernsehturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg/400px-Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg/800px-Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg/1200px-Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg/1920px-Berlin_-_Bundeskanzleramt_Suedseite_-_Blickrichtung_Paul-Loebe-Haus_und_Fernsehturm.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dahlem Cemetery"
+title: Dahlem Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Dahlem, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Dahlem, Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.458913888
 longitude: 13.286105555
 images:
-  - "/images-sites/dahlem-cemetery/01-0d1d2332-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG/1200px-Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg/1200px-Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/1200px-Friedhof_Dahlem_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grab_Friedhof_Dahlem.jpg/1200px-Grab_Friedhof_Dahlem.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grab_Egon_Endres.jpg/1200px-Grab_Egon_Endres.jpg
+image_srcset:
+  Konrad Haemmerling, Friedhof Dahlem - Mutter Erde fec.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG/400px-Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG/800px-Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG/1200px-Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG/1920px-Konrad_Haemmerling,_Friedhof_Dahlem_-_Mutter_Erde_fec.JPG
+  Phaland, Adalbert & Viktor Dahlem Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg/400px-Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg/800px-Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg/1200px-Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg/1920px-Phaland,_Adalbert_&_Viktor_Dahlem_Friedhof.jpg
+  Friedhof Dahlem Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/400px-Friedhof_Dahlem_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/800px-Friedhof_Dahlem_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/1200px-Friedhof_Dahlem_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Friedhof_Dahlem_Tor.jpg/1920px-Friedhof_Dahlem_Tor.jpg
+  Grab Friedhof Dahlem.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grab_Friedhof_Dahlem.jpg/400px-Grab_Friedhof_Dahlem.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grab_Friedhof_Dahlem.jpg/800px-Grab_Friedhof_Dahlem.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grab_Friedhof_Dahlem.jpg/1200px-Grab_Friedhof_Dahlem.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Grab_Friedhof_Dahlem.jpg/1920px-Grab_Friedhof_Dahlem.jpg
+  Grab Egon Endres.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grab_Egon_Endres.jpg/400px-Grab_Egon_Endres.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grab_Egon_Endres.jpg/800px-Grab_Egon_Endres.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grab_Egon_Endres.jpg/1200px-Grab_Egon_Endres.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Grab_Egon_Endres.jpg/1920px-Grab_Egon_Endres.jpg
 ---
 
 ## Overview

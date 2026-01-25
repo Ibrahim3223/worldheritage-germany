@@ -1,19 +1,44 @@
 ---
-title: "Jüdischer Friedhof Ladenburg"
+title: Jüdischer Friedhof Ladenburg
 date: 2026-01-23
 draft: false
-description: "building in Ladenburg, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: building in Ladenburg, Karlsruhe Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4774
 longitude: 8.60629
 images:
-  - "/images-sites/juedischer-friedhof-ladenburg/01-59e849d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/1200px-Ladenburg_-_jewish_cemetery_(entry).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg/1200px-Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg/1200px-Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ladenburg_-_jewish_cemetery_(from_west).jpg/1200px-Ladenburg_-_jewish_cemetery_(from_west).jpg
+image_srcset:
+  Ladenburg - jewish cemetery (entry).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/400px-Ladenburg_-_jewish_cemetery_(entry).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/800px-Ladenburg_-_jewish_cemetery_(entry).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/1200px-Ladenburg_-_jewish_cemetery_(entry).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ladenburg_-_jewish_cemetery_(entry).jpg/1920px-Ladenburg_-_jewish_cemetery_(entry).jpg
+  Ladenburg - jewish cemetery (Julius + Babette Kaufmann).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg/400px-Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg/800px-Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg/1200px-Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg/1920px-Ladenburg_-_jewish_cemetery_(Julius_+_Babette_Kaufmann).jpg
+  Ladenburg - jewish cemetery (Sigmund Selig).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg/400px-Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg/800px-Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg/1200px-Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg/1920px-Ladenburg_-_jewish_cemetery_(Sigmund_Selig).jpg
+  Ladenburg - jewish cemetery (from west).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ladenburg_-_jewish_cemetery_(from_west).jpg/400px-Ladenburg_-_jewish_cemetery_(from_west).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ladenburg_-_jewish_cemetery_(from_west).jpg/800px-Ladenburg_-_jewish_cemetery_(from_west).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ladenburg_-_jewish_cemetery_(from_west).jpg/1200px-Ladenburg_-_jewish_cemetery_(from_west).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ladenburg_-_jewish_cemetery_(from_west).jpg/1920px-Ladenburg_-_jewish_cemetery_(from_west).jpg
 ---
 
 ## Overview

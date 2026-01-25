@@ -1,28 +1,49 @@
 ---
-title: "Elmstein Castle"
+title: Elmstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.3522
 longitude: 7.93272
-
-# Images
 images:
-  - "/images-sites/elmstein-castle/02-a9a06f95-800w.webp"
-  - "/images-sites/elmstein-castle/03-1710d2ba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Elmstein_-_Burg_über_der_Stadt.jpg/1200px-Elmstein_-_Burg_über_der_Stadt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg/1200px-Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Elmstein_03.JPG/1200px-Burg_Elmstein_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Elmstein_04.JPG/1200px-Burg_Elmstein_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Elmstein.JPG/1200px-Elmstein.JPG
+image_srcset:
+  Elmstein - Burg über der Stadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Elmstein_-_Burg_über_der_Stadt.jpg/400px-Elmstein_-_Burg_über_der_Stadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Elmstein_-_Burg_über_der_Stadt.jpg/800px-Elmstein_-_Burg_über_der_Stadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Elmstein_-_Burg_über_der_Stadt.jpg/1200px-Elmstein_-_Burg_über_der_Stadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Elmstein_-_Burg_über_der_Stadt.jpg/1920px-Elmstein_-_Burg_über_der_Stadt.jpg
+  Elmstein Burgruine Elmstein (Denkmalzone) 002 2017 05 20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg/400px-Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg/800px-Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg/1200px-Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg/1920px-Elmstein_Burgruine_Elmstein_(Denkmalzone)_002_2017_05_20.jpg
+  Burg Elmstein 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Elmstein_03.JPG/400px-Burg_Elmstein_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Elmstein_03.JPG/800px-Burg_Elmstein_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Elmstein_03.JPG/1200px-Burg_Elmstein_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Elmstein_03.JPG/1920px-Burg_Elmstein_03.JPG
+  Burg Elmstein 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Elmstein_04.JPG/400px-Burg_Elmstein_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Elmstein_04.JPG/800px-Burg_Elmstein_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Elmstein_04.JPG/1200px-Burg_Elmstein_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Elmstein_04.JPG/1920px-Burg_Elmstein_04.JPG
+  Elmstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Elmstein.JPG/400px-Elmstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Elmstein.JPG/800px-Elmstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Elmstein.JPG/1200px-Elmstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Elmstein.JPG/1920px-Elmstein.JPG
 ---
 
 ## Overview

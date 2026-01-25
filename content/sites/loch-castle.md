@@ -21,7 +21,7 @@ longitude: 11.9289137
 
 # Images
 images:
-  - "/images-sites/loch-castle/01-c4909bf0-800w.webp"
+  - "/images/loch-castle/01-c4909bf0-800w.webp"
 ---
 
 ## Overview

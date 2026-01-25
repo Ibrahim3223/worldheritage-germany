@@ -13,7 +13,7 @@ regions:
 latitude: 47.30362
 longitude: 10.29545
 images:
-  - "/images-sites/trettachspitze/01-b2d3bbc3-800w.webp"
+  - "/images/trettachspitze/01-b2d3bbc3-800w.webp"
 ---
 
 ## Overview

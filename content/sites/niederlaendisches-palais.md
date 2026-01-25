@@ -13,7 +13,7 @@ regions:
 latitude: 52.516861111
 longitude: 13.392111111
 images:
-  - "/images-sites/niederlaendisches-palais/01-eddc0106-800w.webp"
+  - "/images/niederlaendisches-palais/01-eddc0106-800w.webp"
 ---
 
 ## Overview

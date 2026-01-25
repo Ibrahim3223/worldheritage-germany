@@ -1,23 +1,39 @@
 ---
-title: "Basilica of St. AnnAltötting"
-site_name: "Basilica of St. AnnAltötting"
-slug: "basilica-of-st-ann-altotting"
-region: "Bavaria"
-
-# Location
+title: Basilica of St. AnnAltötting
+site_name: Basilica of St. AnnAltötting
+slug: basilica-of-st-ann-altotting
+region: Bavaria
 latitude: 48.227886
 longitude: 12.673669
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q810109"
-description: "The Basilica of St. Ann in Altötting stands as a remarkable example of Baroque Revival architecture, a relatively modern structure established in 1910. ..."
+- cultural site
+wikidata_id: Q810109
+description: The Basilica of St. Ann in Altötting stands as a remarkable example of
+  Baroque Revival architecture, a relatively modern structure established in 1910.
+  ...
 images:
-  - "/images-sites/basilica-of-st-ann-altotting/01-e4cab4f3-1920w.webp"
-  - "/images-sites/basilica-of-st-ann-altotting/02-2dd8c193-1920w.webp"
-  - "/images-sites/basilica-of-st-ann-altotting/03-7526fc2a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AIMG%207666.jpg/1200px-AIMG%207666.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg/1200px-Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg/1200px-Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg
+image_srcset:
+  AIMG%207666.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AIMG%207666.jpg/400px-AIMG%207666.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AIMG%207666.jpg/800px-AIMG%207666.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AIMG%207666.jpg/1200px-AIMG%207666.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AIMG%207666.jpg/1920px-AIMG%207666.jpg
+  Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg/400px-Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg/800px-Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg/1200px-Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg/1920px-Basilika%20St.%20Anna%20in%20Alt%C3%B6tting.jpg
+  Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg/400px-Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg/800px-Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg/1200px-Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg/1920px-Basilika%20St.%20Anna%2C%20Kirche%20in%20Alt%C3%B6tting.jpg
 ---
 
 ## Overview

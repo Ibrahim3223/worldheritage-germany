@@ -13,7 +13,7 @@ regions:
 latitude: 47.7315
 longitude: 12.8885
 images:
-  - "/images-sites/kloster-sankt-zeno-reichenhall/01-87491c1e-800w.webp"
+  - "/images/kloster-sankt-zeno-reichenhall/01-87491c1e-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.6467
 longitude: 9.75861
 images:
-  - "/images-sites/os-bei-suederbrarup/01-05990472-800w.webp"
+  - "/images/os-bei-suederbrarup/01-05990472-800w.webp"
 ---
 
 ## Overview

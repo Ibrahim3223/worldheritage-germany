@@ -13,9 +13,9 @@ regions:
 latitude: 50.115
 longitude: 8.67972
 images:
-  - "/images-sites/palais-thurn-und-taxis/01-4d077abd-800w.webp"
-  - "/images-sites/palais-thurn-und-taxis/02-cd5d903f-800w.webp"
-  - "/images-sites/palais-thurn-und-taxis/03-8a5c7e69-800w.webp"
+  - "/images/palais-thurn-und-taxis/01-4d077abd-800w.webp"
+  - "/images/palais-thurn-und-taxis/02-cd5d903f-800w.webp"
+  - "/images/palais-thurn-und-taxis/03-8a5c7e69-800w.webp"
 ---
 
 ## Overview

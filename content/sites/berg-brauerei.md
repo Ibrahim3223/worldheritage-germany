@@ -1,27 +1,49 @@
 ---
-title: "Berg Brauerei"
+title: Berg Brauerei
 date: 2026-01-23
 draft: false
-description: "trademark"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: trademark
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.2625
 longitude: 9.735277777
-
-# Images
 images:
-  - "/images-sites/berg-brauerei/01-34078b15-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/1200px-Berg_Brauerei_Ehingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berg_Brauerei.jpg/1200px-Berg_Brauerei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berg_Brauerei_3.jpg/1200px-Berg_Brauerei_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berg_Brauerei_4.jpg/1200px-Berg_Brauerei_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Berg_Brauerei_6.jpg/1200px-Berg_Brauerei_6.jpg
+image_srcset:
+  Berg Brauerei Ehingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/400px-Berg_Brauerei_Ehingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/800px-Berg_Brauerei_Ehingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/1200px-Berg_Brauerei_Ehingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berg_Brauerei_Ehingen.jpg/1920px-Berg_Brauerei_Ehingen.jpg
+  Berg Brauerei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berg_Brauerei.jpg/400px-Berg_Brauerei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berg_Brauerei.jpg/800px-Berg_Brauerei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berg_Brauerei.jpg/1200px-Berg_Brauerei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Berg_Brauerei.jpg/1920px-Berg_Brauerei.jpg
+  Berg Brauerei 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berg_Brauerei_3.jpg/400px-Berg_Brauerei_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berg_Brauerei_3.jpg/800px-Berg_Brauerei_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berg_Brauerei_3.jpg/1200px-Berg_Brauerei_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Berg_Brauerei_3.jpg/1920px-Berg_Brauerei_3.jpg
+  Berg Brauerei 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berg_Brauerei_4.jpg/400px-Berg_Brauerei_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berg_Brauerei_4.jpg/800px-Berg_Brauerei_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berg_Brauerei_4.jpg/1200px-Berg_Brauerei_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Berg_Brauerei_4.jpg/1920px-Berg_Brauerei_4.jpg
+  Berg Brauerei 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Berg_Brauerei_6.jpg/400px-Berg_Brauerei_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Berg_Brauerei_6.jpg/800px-Berg_Brauerei_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Berg_Brauerei_6.jpg/1200px-Berg_Brauerei_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Berg_Brauerei_6.jpg/1920px-Berg_Brauerei_6.jpg
 ---
 
 ## Overview

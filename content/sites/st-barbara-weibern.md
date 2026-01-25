@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q435724"
 description: "In the quaint village of Weibern, Germany, St. Barbara Church stands as a striking example of Gothic Revival architecture, a style that emerged in the 1..."
 images:
-  - "/images-sites/st-barbara-weibern/01-27c42543-1920w.webp"
-  - "/images-sites/st-barbara-weibern/02-edd257d3-1920w.webp"
-  - "/images-sites/st-barbara-weibern/03-27d6a269-1920w.webp"
+  - "/images/st-barbara-weibern/01-27c42543-1920w.webp"
+  - "/images/st-barbara-weibern/02-edd257d3-1920w.webp"
+  - "/images/st-barbara-weibern/03-27d6a269-1920w.webp"
 ---
 
 ## Overview

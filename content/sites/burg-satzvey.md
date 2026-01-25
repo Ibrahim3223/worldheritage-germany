@@ -1,27 +1,49 @@
 ---
-title: "Burg Satzvey"
+title: Burg Satzvey
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6199
 longitude: 6.70651
-
-# Images
 images:
-  - "/images-sites/burg-satzvey/01-c0d74890-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg/1200px-Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg/1200px-Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Satzvey_Weihnachtsmarkt.jpg/1200px-Burg_Satzvey_Weihnachtsmarkt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/1200px-Burg_Satzvey_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2006-09_burg_satzvey_02.JPG/1200px-2006-09_burg_satzvey_02.JPG
+image_srcset:
+  Burg Satzvey, Gesamtanlage mit Wassergraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg/400px-Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg/800px-Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg/1200px-Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg/1920px-Burg_Satzvey,_Gesamtanlage_mit_Wassergraben.jpg
+  Aerial image of Burg Satzvey (view from the east).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg/400px-Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg/800px-Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg/1200px-Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg/1920px-Aerial_image_of_Burg_Satzvey_(view_from_the_east).jpg
+  Burg Satzvey Weihnachtsmarkt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Satzvey_Weihnachtsmarkt.jpg/400px-Burg_Satzvey_Weihnachtsmarkt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Satzvey_Weihnachtsmarkt.jpg/800px-Burg_Satzvey_Weihnachtsmarkt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Satzvey_Weihnachtsmarkt.jpg/1200px-Burg_Satzvey_Weihnachtsmarkt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Satzvey_Weihnachtsmarkt.jpg/1920px-Burg_Satzvey_Weihnachtsmarkt.jpg
+  Burg Satzvey HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/400px-Burg_Satzvey_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/800px-Burg_Satzvey_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/1200px-Burg_Satzvey_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Burg_Satzvey_HDR.jpg/1920px-Burg_Satzvey_HDR.jpg
+  2006-09 burg satzvey 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2006-09_burg_satzvey_02.JPG/400px-2006-09_burg_satzvey_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2006-09_burg_satzvey_02.JPG/800px-2006-09_burg_satzvey_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2006-09_burg_satzvey_02.JPG/1200px-2006-09_burg_satzvey_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2006-09_burg_satzvey_02.JPG/1920px-2006-09_burg_satzvey_02.JPG
 ---
 
 ## Overview

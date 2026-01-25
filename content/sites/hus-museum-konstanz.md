@@ -1,19 +1,49 @@
 ---
-title: "Hus-Museum Konstanz"
+title: Hus-Museum Konstanz
 date: 2026-01-23
 draft: false
-description: "Museum in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Museum in Deutschland
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.658928
 longitude: 9.170857
 images:
-  - "/images-sites/hus-museum-konstanz/01-98fe0c76-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1200px-Hus_Museum_am_Schnetztor_Konstanz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Konstanz_2012-09-08_Batch_(197).JPG/1200px-Konstanz_2012-09-08_Batch_(197).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hus-Haus_(Museum)_in_Konstanz.jpg/1200px-Hus-Haus_(Museum)_in_Konstanz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuchs_Husův_dům_Kostnice.jpg/1200px-Fuchs_Husův_dům_Kostnice.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Konstanz-Schnetztor01.jpg/1200px-Konstanz-Schnetztor01.jpg
+image_srcset:
+  Hus Museum am Schnetztor Konstanz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/400px-Hus_Museum_am_Schnetztor_Konstanz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/800px-Hus_Museum_am_Schnetztor_Konstanz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1200px-Hus_Museum_am_Schnetztor_Konstanz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hus_Museum_am_Schnetztor_Konstanz.jpg/1920px-Hus_Museum_am_Schnetztor_Konstanz.jpg
+  Konstanz 2012-09-08 Batch (197).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Konstanz_2012-09-08_Batch_(197).JPG/400px-Konstanz_2012-09-08_Batch_(197).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Konstanz_2012-09-08_Batch_(197).JPG/800px-Konstanz_2012-09-08_Batch_(197).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Konstanz_2012-09-08_Batch_(197).JPG/1200px-Konstanz_2012-09-08_Batch_(197).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Konstanz_2012-09-08_Batch_(197).JPG/1920px-Konstanz_2012-09-08_Batch_(197).JPG
+  Hus-Haus (Museum) in Konstanz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hus-Haus_(Museum)_in_Konstanz.jpg/400px-Hus-Haus_(Museum)_in_Konstanz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hus-Haus_(Museum)_in_Konstanz.jpg/800px-Hus-Haus_(Museum)_in_Konstanz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hus-Haus_(Museum)_in_Konstanz.jpg/1200px-Hus-Haus_(Museum)_in_Konstanz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hus-Haus_(Museum)_in_Konstanz.jpg/1920px-Hus-Haus_(Museum)_in_Konstanz.jpg
+  Fuchs Husův dům Kostnice.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuchs_Husův_dům_Kostnice.jpg/400px-Fuchs_Husův_dům_Kostnice.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuchs_Husův_dům_Kostnice.jpg/800px-Fuchs_Husův_dům_Kostnice.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuchs_Husův_dům_Kostnice.jpg/1200px-Fuchs_Husův_dům_Kostnice.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fuchs_Husův_dům_Kostnice.jpg/1920px-Fuchs_Husův_dům_Kostnice.jpg
+  Konstanz-Schnetztor01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Konstanz-Schnetztor01.jpg/400px-Konstanz-Schnetztor01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Konstanz-Schnetztor01.jpg/800px-Konstanz-Schnetztor01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Konstanz-Schnetztor01.jpg/1200px-Konstanz-Schnetztor01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Konstanz-Schnetztor01.jpg/1920px-Konstanz-Schnetztor01.jpg
 ---
 
 ## Overview

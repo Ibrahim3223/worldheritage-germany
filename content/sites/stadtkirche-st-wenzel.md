@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q670913"
 description: "In the heart of Naumburg, Germany, Stadtkirche St. Wenzel stands as a remarkable example of Gothic architecture, captivating visitors with its intricate..."
 images:
-  - "/images-sites/stadtkirche-st-wenzel/01-c82335b1-1920w.webp"
-  - "/images-sites/stadtkirche-st-wenzel/02-a8504d99-1920w.webp"
-  - "/images-sites/stadtkirche-st-wenzel/03-5305c60d-1920w.webp"
+  - "/images/stadtkirche-st-wenzel/01-c82335b1-1920w.webp"
+  - "/images/stadtkirche-st-wenzel/02-a8504d99-1920w.webp"
+  - "/images/stadtkirche-st-wenzel/03-5305c60d-1920w.webp"
 ---
 
 ## Overview

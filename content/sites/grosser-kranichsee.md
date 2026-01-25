@@ -1,19 +1,43 @@
 ---
-title: "Großer Kranichsee"
+title: Großer Kranichsee
 date: 2026-01-23
 draft: false
-description: "nature reserve in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4168
 longitude: 12.6007
 images:
-  - "/images-sites/grosser-kranichsee/01-593f47cf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG/1200px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karte_westliches_Erzgebirge_Vogtland.jpg/1200px-Karte_westliches_Erzgebirge_Vogtland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1200px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Naturschutzgebiet_Großer_Kranichsee.JPG/1200px-Naturschutzgebiet_Großer_Kranichsee.JPG
+image_srcset:
+  Naturschutzgebiet Großer Kranichsee in Sachsen...2H1A9091WI.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG/400px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG/800px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG/1200px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG/1920px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen...2H1A9091WI.JPG
+  Karte westliches Erzgebirge Vogtland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karte_westliches_Erzgebirge_Vogtland.jpg/400px-Karte_westliches_Erzgebirge_Vogtland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karte_westliches_Erzgebirge_Vogtland.jpg/800px-Karte_westliches_Erzgebirge_Vogtland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karte_westliches_Erzgebirge_Vogtland.jpg/1200px-Karte_westliches_Erzgebirge_Vogtland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Karte_westliches_Erzgebirge_Vogtland.jpg/1920px-Karte_westliches_Erzgebirge_Vogtland.jpg
+  Naturschutzgebiet Großer Kranichsee in Sachsen..2H1A9139WI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/400px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/800px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1200px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg/1920px-Naturschutzgebiet_Großer_Kranichsee_in_Sachsen..2H1A9139WI.jpg
+  Naturschutzgebiet Großer Kranichsee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Naturschutzgebiet_Großer_Kranichsee.JPG/400px-Naturschutzgebiet_Großer_Kranichsee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Naturschutzgebiet_Großer_Kranichsee.JPG/800px-Naturschutzgebiet_Großer_Kranichsee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Naturschutzgebiet_Großer_Kranichsee.JPG/1200px-Naturschutzgebiet_Großer_Kranichsee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Naturschutzgebiet_Großer_Kranichsee.JPG/1920px-Naturschutzgebiet_Großer_Kranichsee.JPG
 ---
 
 ## Overview

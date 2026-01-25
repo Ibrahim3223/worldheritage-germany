@@ -13,7 +13,7 @@ regions:
 latitude: 50.2803
 longitude: 8.8026
 images:
-  - "/images-sites/kloster-ilbenstadt/01-0005009b-800w.webp"
+  - "/images/kloster-ilbenstadt/01-0005009b-800w.webp"
 ---
 
 ## Overview

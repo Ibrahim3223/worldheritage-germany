@@ -13,7 +13,7 @@ regions:
 latitude: 53.706388888
 longitude: 14.258611111
 images:
-  - "/images-sites/riether-werder/01-7ff6b54f-800w.webp"
+  - "/images/riether-werder/01-7ff6b54f-800w.webp"
 ---
 
 ## Overview

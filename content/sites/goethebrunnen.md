@@ -1,20 +1,49 @@
 ---
-title: "Goethebrunnen"
+title: Goethebrunnen
 date: 2026-01-23
 draft: false
-description: "Bauwerk in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: Bauwerk in Deutschland
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6891971
 longitude: 10.9124472
 images:
-  - "/images-sites/goethebrunnen/01-51bb4cc9-800w.webp"
-  - "/images-sites/goethebrunnen/02-f110b9d0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_Ilmenau_11.jpg/1200px-Cemetery_Ilmenau_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Goethebrunnen_03.jpg/1200px-Goethebrunnen_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Goethebrunnen_05.jpg/1200px-Goethebrunnen_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fuerstenlager_Goethebrunnen_01.jpg/1200px-Fuerstenlager_Goethebrunnen_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg/1200px-Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg
+image_srcset:
+  Cemetery Ilmenau 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_Ilmenau_11.jpg/400px-Cemetery_Ilmenau_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_Ilmenau_11.jpg/800px-Cemetery_Ilmenau_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_Ilmenau_11.jpg/1200px-Cemetery_Ilmenau_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_Ilmenau_11.jpg/1920px-Cemetery_Ilmenau_11.jpg
+  Goethebrunnen 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Goethebrunnen_03.jpg/400px-Goethebrunnen_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Goethebrunnen_03.jpg/800px-Goethebrunnen_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Goethebrunnen_03.jpg/1200px-Goethebrunnen_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Goethebrunnen_03.jpg/1920px-Goethebrunnen_03.jpg
+  Goethebrunnen 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Goethebrunnen_05.jpg/400px-Goethebrunnen_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Goethebrunnen_05.jpg/800px-Goethebrunnen_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Goethebrunnen_05.jpg/1200px-Goethebrunnen_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Goethebrunnen_05.jpg/1920px-Goethebrunnen_05.jpg
+  Fuerstenlager Goethebrunnen 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fuerstenlager_Goethebrunnen_01.jpg/400px-Fuerstenlager_Goethebrunnen_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fuerstenlager_Goethebrunnen_01.jpg/800px-Fuerstenlager_Goethebrunnen_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fuerstenlager_Goethebrunnen_01.jpg/1200px-Fuerstenlager_Goethebrunnen_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fuerstenlager_Goethebrunnen_01.jpg/1920px-Fuerstenlager_Goethebrunnen_01.jpg
+  Fotothek df ps 0006152 Wohnhäuser ^ Museen ^ kulturhistorische Museen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg/400px-Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg/800px-Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg/1200px-Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg/1920px-Fotothek_df_ps_0006152_Wohnhäuser_^_Museen_^_kulturhistorische_Museen.jpg
 ---
 
 ## Overview

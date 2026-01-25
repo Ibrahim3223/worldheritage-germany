@@ -1,28 +1,49 @@
 ---
-title: "Botanischer Garten Karlsruhe"
+title: Botanischer Garten Karlsruhe
 date: 2026-01-23
 draft: false
-description: "municipal botanical garden located in Karlsruhe, Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: municipal botanical garden located in Karlsruhe, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.0131
 longitude: 8.40044
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-karlsruhe/02-fbaec649-800w.webp"
-  - "/images-sites/botanischer-garten-karlsruhe/03-dab08f19-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Torgebäude_01.jpg/1200px-Torgebäude_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Torgebäude_02.jpg/1200px-Torgebäude_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg/1200px-Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg/1200px-Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/1200px-Panorama_Botanischer_Garten_Karlsruhe.jpg
+image_srcset:
+  Torgebäude 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Torgebäude_01.jpg/400px-Torgebäude_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Torgebäude_01.jpg/800px-Torgebäude_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Torgebäude_01.jpg/1200px-Torgebäude_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Torgebäude_01.jpg/1920px-Torgebäude_01.jpg
+  Torgebäude 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Torgebäude_02.jpg/400px-Torgebäude_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Torgebäude_02.jpg/800px-Torgebäude_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Torgebäude_02.jpg/1200px-Torgebäude_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Torgebäude_02.jpg/1920px-Torgebäude_02.jpg
+  Carlsruhe, Der neue Wintergarten - LABW - Generallandesarchiv Karlsruhe S Thomas Kellner K 4, 19 -2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg/400px-Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg/800px-Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg/1200px-Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg/1920px-Carlsruhe,_Der_neue_Wintergarten_-_LABW_-_Generallandesarchiv_Karlsruhe_S_Thomas_Kellner_K_4,_19_-2.jpg
+  Botanischer Garten Karlsruhe mit Torhaus (2013).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg/400px-Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg/800px-Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg/1200px-Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg/1920px-Botanischer_Garten_Karlsruhe_mit_Torhaus_(2013).jpg
+  Panorama Botanischer Garten Karlsruhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/400px-Panorama_Botanischer_Garten_Karlsruhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/800px-Panorama_Botanischer_Garten_Karlsruhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/1200px-Panorama_Botanischer_Garten_Karlsruhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panorama_Botanischer_Garten_Karlsruhe.jpg/1920px-Panorama_Botanischer_Garten_Karlsruhe.jpg
 ---
 
 ## Overview

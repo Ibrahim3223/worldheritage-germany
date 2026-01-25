@@ -13,7 +13,7 @@ regions:
 latitude: 48.1431
 longitude: 11.574
 images:
-  - "/images-sites/memorial-to-the-victims-of-the-nazi-tyrann/01-13c7eac1-800w.webp"
+  - "/images/memorial-to-the-victims-of-the-nazi-tyrann/01-13c7eac1-800w.webp"
 ---
 
 ## Overview

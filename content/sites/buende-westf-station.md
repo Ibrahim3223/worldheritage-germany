@@ -1,21 +1,49 @@
 ---
-title: "Bünde (Westf) station"
+title: Bünde (Westf) station
 date: 2026-01-23
 draft: false
-description: "railway station in Bünde, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Bünde, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.202246
 longitude: 8.5743329
 images:
-  - "/images-sites/buende-westf-station/01-16036111-800w.webp"
-  - "/images-sites/buende-westf-station/02-f3147d50-800w.webp"
-  - "/images-sites/buende-westf-station/03-3e91698d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bahnhof_Bünde_2023-11_Foto_4.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bahnhof_Bünde_2023-11_Foto_7.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bahnhof_Bünde_2023-11_Foto_5.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bünde_(Westf.)_Train_Station_005.jpg/1200px-Bünde_(Westf.)_Train_Station_005.jpg
+image_srcset:
+  Bahnhof Bünde 2023-11 Foto 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bahnhof_Bünde_2023-11_Foto_4.jpg/400px-Bahnhof_Bünde_2023-11_Foto_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bahnhof_Bünde_2023-11_Foto_4.jpg/800px-Bahnhof_Bünde_2023-11_Foto_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bahnhof_Bünde_2023-11_Foto_4.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bahnhof_Bünde_2023-11_Foto_4.jpg/1920px-Bahnhof_Bünde_2023-11_Foto_4.jpg
+  Bahnhof Bünde 2023-11 Foto 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bahnhof_Bünde_2023-11_Foto_7.jpg/400px-Bahnhof_Bünde_2023-11_Foto_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bahnhof_Bünde_2023-11_Foto_7.jpg/800px-Bahnhof_Bünde_2023-11_Foto_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bahnhof_Bünde_2023-11_Foto_7.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bahnhof_Bünde_2023-11_Foto_7.jpg/1920px-Bahnhof_Bünde_2023-11_Foto_7.jpg
+  Bahnhof Bünde 2023-11 Foto 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/400px-Bahnhof_Bünde_2023-11_Foto_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/800px-Bahnhof_Bünde_2023-11_Foto_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bahnhof_Bünde_2023-11_Foto_8.jpg/1920px-Bahnhof_Bünde_2023-11_Foto_8.jpg
+  Bahnhof Bünde 2023-11 Foto 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bahnhof_Bünde_2023-11_Foto_5.jpg/400px-Bahnhof_Bünde_2023-11_Foto_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bahnhof_Bünde_2023-11_Foto_5.jpg/800px-Bahnhof_Bünde_2023-11_Foto_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bahnhof_Bünde_2023-11_Foto_5.jpg/1200px-Bahnhof_Bünde_2023-11_Foto_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bahnhof_Bünde_2023-11_Foto_5.jpg/1920px-Bahnhof_Bünde_2023-11_Foto_5.jpg
+  Bünde (Westf.) Train Station 005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bünde_(Westf.)_Train_Station_005.jpg/400px-Bünde_(Westf.)_Train_Station_005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bünde_(Westf.)_Train_Station_005.jpg/800px-Bünde_(Westf.)_Train_Station_005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bünde_(Westf.)_Train_Station_005.jpg/1200px-Bünde_(Westf.)_Train_Station_005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bünde_(Westf.)_Train_Station_005.jpg/1920px-Bünde_(Westf.)_Train_Station_005.jpg
 ---
 
 ## Overview

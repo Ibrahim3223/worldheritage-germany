@@ -21,9 +21,9 @@ longitude: 13.407166
 
 # Images
 images:
-  - "/images-sites/stiftung-stadtmuseum-berlin/01-cf0328df-800w.webp"
-  - "/images-sites/stiftung-stadtmuseum-berlin/02-62d19c9e-800w.webp"
-  - "/images-sites/stiftung-stadtmuseum-berlin/03-88068061-800w.webp"
+  - "/images/stiftung-stadtmuseum-berlin/01-cf0328df-800w.webp"
+  - "/images/stiftung-stadtmuseum-berlin/02-62d19c9e-800w.webp"
+  - "/images/stiftung-stadtmuseum-berlin/03-88068061-800w.webp"
 ---
 
 ## Overview

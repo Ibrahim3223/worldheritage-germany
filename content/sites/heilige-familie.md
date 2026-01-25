@@ -1,19 +1,50 @@
 ---
-title: "Heilige Familie"
-site_name: "Heilige Familie"
-slug: "heilige-familie"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Heilige Familie
+site_name: Heilige Familie
+slug: heilige-familie
+region: North Rhine-Westphalia
 latitude: 51.2643
 longitude: 6.76079
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1595055"
-description: "In the heart of Düsseldorf lies a striking example of modern architecture—the Heilige Familie church. This church, designed by the architect Hans Schwip..."
+- cultural site
+wikidata_id: Q1595055
+description: In the heart of Düsseldorf lies a striking example of modern architecture—the
+  Heilige Familie church. This church, designed by the architect Hans Schwip...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg/1200px-Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg/1200px-Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg/1200px-Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Polch_Relief_Ostergasse_15.jpg/1200px-Polch_Relief_Ostergasse_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heilige_Familie_1903.png/1200px-Heilige_Familie_1903.png
+image_srcset:
+  Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg/400px-Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg/800px-Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg/1200px-Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg/1920px-Heilige%20Familie%20in%20Duesseldorf-Stockum%2C%20von%20Osten.jpg
+  Statue of the Holy Family (St. Gabriel the Archangel Parish).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg/400px-Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg/800px-Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg/1200px-Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg/1920px-Statue_of_the_Holy_Family_(St._Gabriel_the_Archangel_Parish).jpg
+  Julius Frank Maria und Josef mit dem Jesusknaben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg/400px-Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg/800px-Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg/1200px-Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg/1920px-Julius_Frank_Maria_und_Josef_mit_dem_Jesusknaben.jpg
+  Polch Relief Ostergasse 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Polch_Relief_Ostergasse_15.jpg/400px-Polch_Relief_Ostergasse_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Polch_Relief_Ostergasse_15.jpg/800px-Polch_Relief_Ostergasse_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Polch_Relief_Ostergasse_15.jpg/1200px-Polch_Relief_Ostergasse_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Polch_Relief_Ostergasse_15.jpg/1920px-Polch_Relief_Ostergasse_15.jpg
+  Heilige Familie 1903.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heilige_Familie_1903.png/400px-Heilige_Familie_1903.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heilige_Familie_1903.png/800px-Heilige_Familie_1903.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heilige_Familie_1903.png/1200px-Heilige_Familie_1903.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Heilige_Familie_1903.png/1920px-Heilige_Familie_1903.png
 ---
 
 ## Overview

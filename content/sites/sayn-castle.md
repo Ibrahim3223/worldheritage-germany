@@ -21,7 +21,7 @@ longitude: 7.5793
 
 # Images
 images:
-  - "/images-sites/sayn-castle/01-47583f6b-800w.webp"
+  - "/images/sayn-castle/01-47583f6b-800w.webp"
 ---
 
 ## Overview

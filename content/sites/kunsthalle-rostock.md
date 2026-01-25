@@ -21,9 +21,9 @@ longitude: 12.0878
 
 # Images
 images:
-  - "/images-sites/kunsthalle-rostock/01-54fafbc4-800w.webp"
-  - "/images-sites/kunsthalle-rostock/02-dd8f2c3f-800w.webp"
-  - "/images-sites/kunsthalle-rostock/03-1827c362-800w.webp"
+  - "/images/kunsthalle-rostock/01-54fafbc4-800w.webp"
+  - "/images/kunsthalle-rostock/02-dd8f2c3f-800w.webp"
+  - "/images/kunsthalle-rostock/03-1827c362-800w.webp"
 ---
 
 ## Overview

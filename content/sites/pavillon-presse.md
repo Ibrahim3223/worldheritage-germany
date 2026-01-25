@@ -13,7 +13,7 @@ regions:
 latitude: 50.981529
 longitude: 11.326752
 images:
-  - "/images-sites/pavillon-presse/01-1c843131-800w.webp"
+  - "/images/pavillon-presse/01-1c843131-800w.webp"
 ---
 
 ## Overview

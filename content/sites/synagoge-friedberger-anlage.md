@@ -13,8 +13,8 @@ regions:
 latitude: 50.11478043
 longitude: 8.69550991
 images:
-  - "/images-sites/synagoge-friedberger-anlage/02-9a30b065-800w.webp"
-  - "/images-sites/synagoge-friedberger-anlage/03-de7ea5bc-800w.webp"
+  - "/images/synagoge-friedberger-anlage/02-9a30b065-800w.webp"
+  - "/images/synagoge-friedberger-anlage/03-de7ea5bc-800w.webp"
 ---
 
 ## Overview

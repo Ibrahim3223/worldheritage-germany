@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q151330"
 description: "Imagine a palace where the whispers of history mingle with the beauty of nature, where the serene landscape invites you to explore its meticulously craf..."
 images:
-  - "/images-sites/sanssouci-palace/01-a1b38e52-1920w.webp"
-  - "/images-sites/sanssouci-palace/02-8e934aab-1920w.webp"
-  - "/images-sites/sanssouci-palace/03-cf9a7711-1920w.webp"
+  - "/images/sanssouci-palace/01-a1b38e52-1920w.webp"
+  - "/images/sanssouci-palace/02-8e934aab-1920w.webp"
+  - "/images/sanssouci-palace/03-cf9a7711-1920w.webp"
 ---
 
 ## Overview

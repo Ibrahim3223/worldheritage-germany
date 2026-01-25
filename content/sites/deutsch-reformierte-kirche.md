@@ -1,20 +1,52 @@
 ---
-title: "Deutsch Reformierte Kirche"
-site_name: "Deutsch Reformierte Kirche"
-slug: "deutsch-reformierte-kirche"
-region: "Hesse"
-
-# Location
+title: Deutsch Reformierte Kirche
+site_name: Deutsch Reformierte Kirche
+slug: deutsch-reformierte-kirche
+region: Hesse
 latitude: 50.1109
 longitude: 8.67939
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1201918"
-description: "The Deutsch Reformierte Kirche, a striking example of Neoclassical architecture, invites visitors to explore its historical and cultural significance in..."
+- church building
+- religious site
+wikidata_id: Q1201918
+description: The Deutsch Reformierte Kirche, a striking example of Neoclassical architecture,
+  invites visitors to explore its historical and cultural significance in...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg/1200px-Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif/1200px-Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg/1200px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg/1200px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg/1200px-Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg
+image_srcset:
+  Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg/400px-Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg/800px-Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg/1200px-Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg/1920px-Frankfurt%20Am%20Main-Deutsch-Reformierte%20Kirche.jpg
+  Frankfurt Altstadt-Deutsch-Reformierte Kirche-Fassade.gif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif/400px-Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif/800px-Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif/1200px-Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif/1920px-Frankfurt_Altstadt-Deutsch-Reformierte_Kirche-Fassade.gif
+  ? Frankfurt Am Main-Virtuelles Altstadtmodell Frankfurt Am Main-Kornmarkt von Hoehe
+    der Kreuzung mit der Weissadler- und Grossen Sandgasse nach Sueden.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg/400px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg/800px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg/1200px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg/1920px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Kornmarkt_von_Hoehe_der_Kreuzung_mit_der_Weissadler-_und_Grossen_Sandgasse_nach_Sueden.jpg
+  Frankfurt Am Main-Virtuelles Altstadtmodell Frankfurt Am Main-Westseite des Kornmarkts nach Norden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg/400px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg/800px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg/1200px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg/1920px-Frankfurt_Am_Main-Virtuelles_Altstadtmodell_Frankfurt_Am_Main-Westseite_des_Kornmarkts_nach_Norden.jpg
+  Frankfurt Altstadt-Position-Deutsch-Reformierte Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg/400px-Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg/800px-Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg/1200px-Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg/1920px-Frankfurt_Altstadt-Position-Deutsch-Reformierte_Kirche.jpg
 ---
 
 ## Overview

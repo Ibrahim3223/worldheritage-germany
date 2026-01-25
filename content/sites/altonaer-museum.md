@@ -1,19 +1,49 @@
 ---
-title: "Altonaer Museum"
+title: Altonaer Museum
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hamburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54902
 longitude: 9.9347
 images:
-  - "/images-sites/altonaer-museum/01-4f8e8199-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg/1200px-Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altonaer_Museum_am_Platz_der_Republik.jpg/1200px-Altonaer_Museum_am_Platz_der_Republik.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altonaer_Museum_2014-02-10.jpg/1200px-Altonaer_Museum_2014-02-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1200px-Altonaer_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg/1200px-18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg
+image_srcset:
+  Werkstatt eines Schiffszimmerers im Altonaer Museum IMG 5128 edit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg/400px-Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg/800px-Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg/1200px-Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg/1920px-Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+  Altonaer Museum am Platz der Republik.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altonaer_Museum_am_Platz_der_Republik.jpg/400px-Altonaer_Museum_am_Platz_der_Republik.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altonaer_Museum_am_Platz_der_Republik.jpg/800px-Altonaer_Museum_am_Platz_der_Republik.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altonaer_Museum_am_Platz_der_Republik.jpg/1200px-Altonaer_Museum_am_Platz_der_Republik.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altonaer_Museum_am_Platz_der_Republik.jpg/1920px-Altonaer_Museum_am_Platz_der_Republik.jpg
+  Altonaer Museum 2014-02-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altonaer_Museum_2014-02-10.jpg/400px-Altonaer_Museum_2014-02-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altonaer_Museum_2014-02-10.jpg/800px-Altonaer_Museum_2014-02-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altonaer_Museum_2014-02-10.jpg/1200px-Altonaer_Museum_2014-02-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altonaer_Museum_2014-02-10.jpg/1920px-Altonaer_Museum_2014-02-10.jpg
+  Altonaer Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/400px-Altonaer_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/800px-Altonaer_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1200px-Altonaer_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Altonaer_Museum.jpg/1920px-Altonaer_Museum.jpg
+  18. Mitgliederversammlung Wikimedia Deutschland Blick auf den Saal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg/400px-18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg/800px-18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg/1200px-18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg/1920px-18._Mitgliederversammlung_Wikimedia_Deutschland_Blick_auf_den_Saal.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 9.04778
 
 # Images
 images:
-  - "/images-sites/kunsthalle-tuebingen/01-c5c039ac-800w.webp"
+  - "/images/kunsthalle-tuebingen/01-c5c039ac-800w.webp"
 ---
 
 ## Overview

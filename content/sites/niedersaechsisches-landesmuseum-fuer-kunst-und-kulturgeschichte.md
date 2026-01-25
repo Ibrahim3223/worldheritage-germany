@@ -13,7 +13,7 @@ regions:
 latitude: 53.1377
 longitude: 8.21638
 images:
-  - "/images-sites/niedersaechsisches-landesmuseum-fuer-kunst-und-kulturgeschichte/01-7db5cfa6-800w.webp"
+  - "/images/niedersaechsisches-landesmuseum-fuer-kunst-und-kulturgeschichte/01-7db5cfa6-800w.webp"
 ---
 
 ## Overview

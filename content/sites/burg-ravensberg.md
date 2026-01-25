@@ -1,27 +1,49 @@
 ---
-title: "Burg Ravensberg"
+title: Burg Ravensberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.0826
 longitude: 8.29717
-
-# Images
 images:
-  - "/images-sites/burg-ravensberg/01-102f8d67-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Ravensberg_NordWestAnsicht.JPG/1200px-Burg_Ravensberg_NordWestAnsicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ravensburg_Castle_from_below.jpg/1200px-Ravensburg_Castle_from_below.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Castle_out_buildings.jpg/1200px-Ravensburg_Castle_out_buildings.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg/1200px-Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg/1200px-Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg
+image_srcset:
+  Burg Ravensberg NordWestAnsicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Ravensberg_NordWestAnsicht.JPG/400px-Burg_Ravensberg_NordWestAnsicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Ravensberg_NordWestAnsicht.JPG/800px-Burg_Ravensberg_NordWestAnsicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Ravensberg_NordWestAnsicht.JPG/1200px-Burg_Ravensberg_NordWestAnsicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Ravensberg_NordWestAnsicht.JPG/1920px-Burg_Ravensberg_NordWestAnsicht.JPG
+  Ravensburg Castle from below.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ravensburg_Castle_from_below.jpg/400px-Ravensburg_Castle_from_below.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ravensburg_Castle_from_below.jpg/800px-Ravensburg_Castle_from_below.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ravensburg_Castle_from_below.jpg/1200px-Ravensburg_Castle_from_below.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ravensburg_Castle_from_below.jpg/1920px-Ravensburg_Castle_from_below.jpg
+  Ravensburg Castle out buildings.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Castle_out_buildings.jpg/400px-Ravensburg_Castle_out_buildings.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Castle_out_buildings.jpg/800px-Ravensburg_Castle_out_buildings.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Castle_out_buildings.jpg/1200px-Ravensburg_Castle_out_buildings.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ravensburg_Castle_out_buildings.jpg/1920px-Ravensburg_Castle_out_buildings.jpg
+  Borgholzhausen Ravensburg Blick Richtung Ort.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg/400px-Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg/800px-Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg/1200px-Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg/1920px-Borgholzhausen_Ravensburg_Blick_Richtung_Ort.jpg
+  Borgholzhausen Ravensburg Wehrturm und Forsthaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg/400px-Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg/800px-Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg/1200px-Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg/1920px-Borgholzhausen_Ravensburg_Wehrturm_und_Forsthaus.jpg
 ---
 
 ## Overview

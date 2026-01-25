@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q538370"
 description: "The Market Church of Our Dear Ladies, a striking example of Gothic architecture, rises majestically in Halle (Saale), Germany. Founded in 1554, this Lut..."
 images:
-  - "/images-sites/market-church-of-our-dear-ladies/01-733dacf2-1920w.webp"
-  - "/images-sites/market-church-of-our-dear-ladies/02-6922aca0-1920w.webp"
-  - "/images-sites/market-church-of-our-dear-ladies/03-3f06025c-1920w.webp"
+  - "/images/market-church-of-our-dear-ladies/01-733dacf2-1920w.webp"
+  - "/images/market-church-of-our-dear-ladies/02-6922aca0-1920w.webp"
+  - "/images/market-church-of-our-dear-ladies/03-3f06025c-1920w.webp"
 ---
 
 ## Overview

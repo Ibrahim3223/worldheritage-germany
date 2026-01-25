@@ -13,7 +13,7 @@ regions:
 latitude: 54.3305
 longitude: 13.4581
 images:
-  - "/images-sites/wreechener-see-nature-reserve/01-a5a73bd0-800w.webp"
+  - "/images/wreechener-see-nature-reserve/01-a5a73bd0-800w.webp"
 ---
 
 ## Overview

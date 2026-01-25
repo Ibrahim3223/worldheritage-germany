@@ -1,20 +1,51 @@
 ---
-title: "Gethsemanekirche"
-site_name: "Gethsemanekirche"
-slug: "gethsemanekirche"
-region: "Hesse"
-
-# Location
+title: Gethsemanekirche
+site_name: Gethsemanekirche
+slug: gethsemanekirche
+region: Hesse
 latitude: 50.1253
 longitude: 8.68667
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1519967"
-description: "In the heart of Frankfurt, Gethsemanekirche stands as a modern architectural marvel, inviting visitors to explore its unique design and the spiritual so..."
+- church building
+- religious site
+wikidata_id: Q1519967
+description: In the heart of Frankfurt, Gethsemanekirche stands as a modern architectural
+  marvel, inviting visitors to explore its unique design and the spiritual so...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gethsemanekirche%20Frankfurt%20am%20Main.jpg/1200px-Gethsemanekirche%20Frankfurt%20am%20Main.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg/1200px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg/1200px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gethsemanekirche_(Berlin)1.JPG/1200px-Gethsemanekirche_(Berlin)1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg/1200px-Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg
+image_srcset:
+  Gethsemanekirche%20Frankfurt%20am%20Main.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gethsemanekirche%20Frankfurt%20am%20Main.jpg/400px-Gethsemanekirche%20Frankfurt%20am%20Main.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gethsemanekirche%20Frankfurt%20am%20Main.jpg/800px-Gethsemanekirche%20Frankfurt%20am%20Main.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gethsemanekirche%20Frankfurt%20am%20Main.jpg/1200px-Gethsemanekirche%20Frankfurt%20am%20Main.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gethsemanekirche%20Frankfurt%20am%20Main.jpg/1920px-Gethsemanekirche%20Frankfurt%20am%20Main.jpg
+  Ambassador and Mrs. Emerson are given a tour at the Gethsemanekirche by Dieter Wendland (24868125673).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg/400px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg/800px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg/1200px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg/1920px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(24868125673).jpg
+  Ambassador and Mrs. Emerson are given a tour at the Gethsemanekirche by Dieter Wendland (25376382622).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg/400px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg/800px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg/1200px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg/1920px-Ambassador_and_Mrs._Emerson_are_given_a_tour_at_the_Gethsemanekirche_by_Dieter_Wendland_(25376382622).jpg
+  Gethsemanekirche (Berlin)1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gethsemanekirche_(Berlin)1.JPG/400px-Gethsemanekirche_(Berlin)1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gethsemanekirche_(Berlin)1.JPG/800px-Gethsemanekirche_(Berlin)1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gethsemanekirche_(Berlin)1.JPG/1200px-Gethsemanekirche_(Berlin)1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gethsemanekirche_(Berlin)1.JPG/1920px-Gethsemanekirche_(Berlin)1.JPG
+  Bundesarchiv Bild 183-1990-0314-015, Berlin, Prenzlauer Berg, Gethsemanekirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg/400px-Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg/800px-Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg/1200px-Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg/1920px-Bundesarchiv_Bild_183-1990-0314-015,_Berlin,_Prenzlauer_Berg,_Gethsemanekirche.jpg
 ---
 
 ## Overview

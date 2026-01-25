@@ -21,7 +21,7 @@ longitude: 12.9255
 
 # Images
 images:
-  - "/images-sites/mildenstein-castle/01-9dd3affc-800w.webp"
+  - "/images/mildenstein-castle/01-9dd3affc-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.4675
 longitude: 7.01306
 images:
-  - "/images-sites/zeche-victoria-mathias/01-15dd9f75-800w.webp"
-  - "/images-sites/zeche-victoria-mathias/01-d37ca908-800w.webp"
-  - "/images-sites/zeche-victoria-mathias/02-668ffe04-800w.webp"
+  - "/images/zeche-victoria-mathias/01-15dd9f75-800w.webp"
+  - "/images/zeche-victoria-mathias/01-d37ca908-800w.webp"
+  - "/images/zeche-victoria-mathias/02-668ffe04-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,43 @@
 ---
-title: "Adlerturm Dortmund"
+title: Adlerturm Dortmund
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5103
 longitude: 7.46935
 images:
-  - "/images-sites/adlerturm-dortmund/02-6dbe4d8f-800w.webp"
-  - "/images-sites/adlerturm-dortmund/03-56f00829-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg/1200px-DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NRW,_Dortmund_-_Adlerturm_01.jpg/1200px-NRW,_Dortmund_-_Adlerturm_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Adlerturm_Dortmund_IMGP1844_smial_wp.jpg/1200px-Adlerturm_Dortmund_IMGP1844_smial_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1200px-Museum-adlerturm.jpg
+image_srcset:
+  DO-Mittelalterlicher Laufradkran-Museum Adlerturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg/400px-DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg/800px-DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg/1200px-DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg/1920px-DO-Mittelalterlicher_Laufradkran-Museum_Adlerturm.jpg
+  NRW, Dortmund - Adlerturm 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NRW,_Dortmund_-_Adlerturm_01.jpg/400px-NRW,_Dortmund_-_Adlerturm_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NRW,_Dortmund_-_Adlerturm_01.jpg/800px-NRW,_Dortmund_-_Adlerturm_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NRW,_Dortmund_-_Adlerturm_01.jpg/1200px-NRW,_Dortmund_-_Adlerturm_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NRW,_Dortmund_-_Adlerturm_01.jpg/1920px-NRW,_Dortmund_-_Adlerturm_01.jpg
+  Adlerturm Dortmund IMGP1844 smial wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Adlerturm_Dortmund_IMGP1844_smial_wp.jpg/400px-Adlerturm_Dortmund_IMGP1844_smial_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Adlerturm_Dortmund_IMGP1844_smial_wp.jpg/800px-Adlerturm_Dortmund_IMGP1844_smial_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Adlerturm_Dortmund_IMGP1844_smial_wp.jpg/1200px-Adlerturm_Dortmund_IMGP1844_smial_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Adlerturm_Dortmund_IMGP1844_smial_wp.jpg/1920px-Adlerturm_Dortmund_IMGP1844_smial_wp.jpg
+  Museum-adlerturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/400px-Museum-adlerturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/800px-Museum-adlerturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1200px-Museum-adlerturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museum-adlerturm.jpg/1920px-Museum-adlerturm.jpg
 ---
 
 ## Overview

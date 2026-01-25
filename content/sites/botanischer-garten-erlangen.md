@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Erlangen"
+title: Botanischer Garten Erlangen
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5992
 longitude: 11.0067
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-erlangen/01-7b70a142-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eingang_zur_Neischl-Höhle.jpg/1200px-Eingang_zur_Neischl-Höhle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gewächshaus_Nebelwald.jpg/1200px-Gewächshaus_Nebelwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Erlangen-botanical-garden-entrance.jpg/1200px-Erlangen-botanical-garden-entrance.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1200px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hummel_auf_Schlehe_P1030704.JPG/1200px-Hummel_auf_Schlehe_P1030704.JPG
+image_srcset:
+  Eingang zur Neischl-Höhle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eingang_zur_Neischl-Höhle.jpg/400px-Eingang_zur_Neischl-Höhle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eingang_zur_Neischl-Höhle.jpg/800px-Eingang_zur_Neischl-Höhle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eingang_zur_Neischl-Höhle.jpg/1200px-Eingang_zur_Neischl-Höhle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eingang_zur_Neischl-Höhle.jpg/1920px-Eingang_zur_Neischl-Höhle.jpg
+  Gewächshaus Nebelwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gewächshaus_Nebelwald.jpg/400px-Gewächshaus_Nebelwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gewächshaus_Nebelwald.jpg/800px-Gewächshaus_Nebelwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gewächshaus_Nebelwald.jpg/1200px-Gewächshaus_Nebelwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gewächshaus_Nebelwald.jpg/1920px-Gewächshaus_Nebelwald.jpg
+  Erlangen-botanical-garden-entrance.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Erlangen-botanical-garden-entrance.jpg/400px-Erlangen-botanical-garden-entrance.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Erlangen-botanical-garden-entrance.jpg/800px-Erlangen-botanical-garden-entrance.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Erlangen-botanical-garden-entrance.jpg/1200px-Erlangen-botanical-garden-entrance.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Erlangen-botanical-garden-entrance.jpg/1920px-Erlangen-botanical-garden-entrance.jpg
+  Wikipedia 13. Fotoworkshop Botanischer Garten Erlangen 2013 by-RaBoe 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/400px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/800px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1200px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg/1920px-Wikipedia_13._Fotoworkshop_Botanischer_Garten_Erlangen_2013_by-RaBoe_012.jpg
+  Hummel auf Schlehe P1030704.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hummel_auf_Schlehe_P1030704.JPG/400px-Hummel_auf_Schlehe_P1030704.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hummel_auf_Schlehe_P1030704.JPG/800px-Hummel_auf_Schlehe_P1030704.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hummel_auf_Schlehe_P1030704.JPG/1200px-Hummel_auf_Schlehe_P1030704.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hummel_auf_Schlehe_P1030704.JPG/1920px-Hummel_auf_Schlehe_P1030704.JPG
 ---
 
 ## Overview

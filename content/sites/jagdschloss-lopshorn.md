@@ -1,19 +1,49 @@
 ---
-title: "Jagdschloss Lopshorn"
+title: Jagdschloss Lopshorn
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.9026
 longitude: 8.78784
 images:
-  - "/images-sites/jagdschloss-lopshorn/01-206c57b2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Menke_-_Lopshorn.jpg/1200px-Menke_-_Lopshorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jagdschloss_Lopshorn.jpg/1200px-Jagdschloss_Lopshorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lopshorn02.jpg/1200px-Lopshorn02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lopshorn01_2.jpg/1200px-Lopshorn01_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pecher_-_Lopshorn.jpg/1200px-Pecher_-_Lopshorn.jpg
+image_srcset:
+  Menke - Lopshorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Menke_-_Lopshorn.jpg/400px-Menke_-_Lopshorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Menke_-_Lopshorn.jpg/800px-Menke_-_Lopshorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Menke_-_Lopshorn.jpg/1200px-Menke_-_Lopshorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Menke_-_Lopshorn.jpg/1920px-Menke_-_Lopshorn.jpg
+  Jagdschloss Lopshorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jagdschloss_Lopshorn.jpg/400px-Jagdschloss_Lopshorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jagdschloss_Lopshorn.jpg/800px-Jagdschloss_Lopshorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jagdschloss_Lopshorn.jpg/1200px-Jagdschloss_Lopshorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Jagdschloss_Lopshorn.jpg/1920px-Jagdschloss_Lopshorn.jpg
+  Lopshorn02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lopshorn02.jpg/400px-Lopshorn02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lopshorn02.jpg/800px-Lopshorn02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lopshorn02.jpg/1200px-Lopshorn02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lopshorn02.jpg/1920px-Lopshorn02.jpg
+  Lopshorn01 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lopshorn01_2.jpg/400px-Lopshorn01_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lopshorn01_2.jpg/800px-Lopshorn01_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lopshorn01_2.jpg/1200px-Lopshorn01_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lopshorn01_2.jpg/1920px-Lopshorn01_2.jpg
+  Pecher - Lopshorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pecher_-_Lopshorn.jpg/400px-Pecher_-_Lopshorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pecher_-_Lopshorn.jpg/800px-Pecher_-_Lopshorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pecher_-_Lopshorn.jpg/1200px-Pecher_-_Lopshorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pecher_-_Lopshorn.jpg/1920px-Pecher_-_Lopshorn.jpg
 ---
 
 ## Overview

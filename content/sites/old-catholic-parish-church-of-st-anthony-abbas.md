@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q436421"
 description: "The Old Catholic parish church of St. Anthony Abbas stands as a striking example of Gothic Revival architecture in the region of Bedburg-Hau, Germany. T..."
 images:
-  - "/images-sites/old-catholic-parish-church-of-st-anthony-abbas/01-0e9c4799-1920w.webp"
-  - "/images-sites/old-catholic-parish-church-of-st-anthony-abbas/02-28d5e28a-1920w.webp"
-  - "/images-sites/old-catholic-parish-church-of-st-anthony-abbas/03-47803251-1920w.webp"
+  - "/images/old-catholic-parish-church-of-st-anthony-abbas/01-0e9c4799-1920w.webp"
+  - "/images/old-catholic-parish-church-of-st-anthony-abbas/02-28d5e28a-1920w.webp"
+  - "/images/old-catholic-parish-church-of-st-anthony-abbas/03-47803251-1920w.webp"
 ---
 
 ## Overview

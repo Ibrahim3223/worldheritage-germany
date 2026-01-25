@@ -13,7 +13,7 @@ regions:
 latitude: 52.49889
 longitude: 13.39167
 images:
-  - "/images-sites/mehringplatz/01-4c2158d6-800w.webp"
+  - "/images/mehringplatz/01-4c2158d6-800w.webp"
 ---
 
 ## Overview

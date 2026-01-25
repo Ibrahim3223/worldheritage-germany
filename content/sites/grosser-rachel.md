@@ -1,19 +1,49 @@
 ---
-title: "Großer Rachel"
+title: Großer Rachel
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.978333333
 longitude: 13.389444444
 images:
-  - "/images-sites/grosser-rachel/01-c547586c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg/1200px-Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg/1200px-Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Großer_Rachel,_Herbst_2009.JPG/1200px-Großer_Rachel,_Herbst_2009.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rundweg_Auerhahn_(5).JPG/1200px-Rundweg_Auerhahn_(5).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Das_Rachelkreuz,_2010.JPG/1200px-Das_Rachelkreuz,_2010.JPG
+image_srcset:
+  Bayerischer Wald Großer Rachel, Wald zwischen Gfäll und Rachelsee 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg/400px-Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg/800px-Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg/1200px-Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg/1920px-Bayerischer_Wald_Großer_Rachel,_Wald_zwischen_Gfäll_und_Rachelsee_3.jpg
+  Nationalpark Bayerischer Wald Bayern Blick vom Lusen in Richtung Großer Rachel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg/400px-Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg/800px-Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg/1200px-Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg/1920px-Nationalpark_Bayerischer_Wald_Bayern_Blick_vom_Lusen_in_Richtung_Großer_Rachel.jpg
+  Großer Rachel, Herbst 2009.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Großer_Rachel,_Herbst_2009.JPG/400px-Großer_Rachel,_Herbst_2009.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Großer_Rachel,_Herbst_2009.JPG/800px-Großer_Rachel,_Herbst_2009.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Großer_Rachel,_Herbst_2009.JPG/1200px-Großer_Rachel,_Herbst_2009.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Großer_Rachel,_Herbst_2009.JPG/1920px-Großer_Rachel,_Herbst_2009.JPG
+  Rundweg Auerhahn (5).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rundweg_Auerhahn_(5).JPG/400px-Rundweg_Auerhahn_(5).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rundweg_Auerhahn_(5).JPG/800px-Rundweg_Auerhahn_(5).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rundweg_Auerhahn_(5).JPG/1200px-Rundweg_Auerhahn_(5).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rundweg_Auerhahn_(5).JPG/1920px-Rundweg_Auerhahn_(5).JPG
+  Das Rachelkreuz, 2010.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Das_Rachelkreuz,_2010.JPG/400px-Das_Rachelkreuz,_2010.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Das_Rachelkreuz,_2010.JPG/800px-Das_Rachelkreuz,_2010.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Das_Rachelkreuz,_2010.JPG/1200px-Das_Rachelkreuz,_2010.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Das_Rachelkreuz,_2010.JPG/1920px-Das_Rachelkreuz,_2010.JPG
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 6.98125
 
 # Images
 images:
-  - "/images-sites/wittringen-castle/01-2704a8c0-800w.webp"
-  - "/images-sites/wittringen-castle/02-3b95feb7-800w.webp"
-  - "/images-sites/wittringen-castle/03-ba9b9eac-800w.webp"
+  - "/images/wittringen-castle/01-2704a8c0-800w.webp"
+  - "/images/wittringen-castle/02-3b95feb7-800w.webp"
+  - "/images/wittringen-castle/03-ba9b9eac-800w.webp"
 ---
 
 ## Overview

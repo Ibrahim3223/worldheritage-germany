@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Staaken"
-site_name: "Dorfkirche Staaken"
-slug: "dorfkirche-staaken"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Staaken
+site_name: Dorfkirche Staaken
+slug: dorfkirche-staaken
+region: Berlin
 latitude: 52.530664
 longitude: 13.139831
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244740"
-description: "Dorfkirche Staaken stands as a compelling representation of Gothic architecture in Spandau, Germany. This church, constructed from fieldstone, offers vi..."
+- church building
+- religious site
+wikidata_id: Q1244740
+description: Dorfkirche Staaken stands as a compelling representation of Gothic architecture
+  in Spandau, Germany. This church, constructed from fieldstone, offers vi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin%20Alt%20Staaken%20church.jpg/1200px-Berlin%20Alt%20Staaken%20church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dorfkirche_Alt-Staaken_(Berlin).jpg/1200px-Dorfkirche_Alt-Staaken_(Berlin).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_Alt_Staaken_church.jpg/1200px-Berlin_Alt_Staaken_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg/1200px-Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dorfkirche_Staaken_Nordwand.jpg/1200px-Dorfkirche_Staaken_Nordwand.jpg
+image_srcset:
+  Berlin%20Alt%20Staaken%20church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin%20Alt%20Staaken%20church.jpg/400px-Berlin%20Alt%20Staaken%20church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin%20Alt%20Staaken%20church.jpg/800px-Berlin%20Alt%20Staaken%20church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin%20Alt%20Staaken%20church.jpg/1200px-Berlin%20Alt%20Staaken%20church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Berlin%20Alt%20Staaken%20church.jpg/1920px-Berlin%20Alt%20Staaken%20church.jpg
+  Dorfkirche Alt-Staaken (Berlin).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dorfkirche_Alt-Staaken_(Berlin).jpg/400px-Dorfkirche_Alt-Staaken_(Berlin).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dorfkirche_Alt-Staaken_(Berlin).jpg/800px-Dorfkirche_Alt-Staaken_(Berlin).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dorfkirche_Alt-Staaken_(Berlin).jpg/1200px-Dorfkirche_Alt-Staaken_(Berlin).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dorfkirche_Alt-Staaken_(Berlin).jpg/1920px-Dorfkirche_Alt-Staaken_(Berlin).jpg
+  Berlin Alt Staaken church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_Alt_Staaken_church.jpg/400px-Berlin_Alt_Staaken_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_Alt_Staaken_church.jpg/800px-Berlin_Alt_Staaken_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_Alt_Staaken_church.jpg/1200px-Berlin_Alt_Staaken_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berlin_Alt_Staaken_church.jpg/1920px-Berlin_Alt_Staaken_church.jpg
+  Gedenktafel Hauptstr 11a (Staak) Staakener Gebeine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg/400px-Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg/800px-Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg/1200px-Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg/1920px-Gedenktafel_Hauptstr_11a_(Staak)_Staakener_Gebeine.jpg
+  Dorfkirche Staaken Nordwand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dorfkirche_Staaken_Nordwand.jpg/400px-Dorfkirche_Staaken_Nordwand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dorfkirche_Staaken_Nordwand.jpg/800px-Dorfkirche_Staaken_Nordwand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dorfkirche_Staaken_Nordwand.jpg/1200px-Dorfkirche_Staaken_Nordwand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dorfkirche_Staaken_Nordwand.jpg/1920px-Dorfkirche_Staaken_Nordwand.jpg
 ---
 
 ## Overview

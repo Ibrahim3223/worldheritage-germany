@@ -21,7 +21,7 @@ longitude: 13.3320739
 
 # Images
 images:
-  - "/images-sites/museum-of-photography/01-56624dff-800w.webp"
+  - "/images/museum-of-photography/01-56624dff-800w.webp"
 ---
 
 ## Overview

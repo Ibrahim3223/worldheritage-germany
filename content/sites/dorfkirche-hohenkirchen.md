@@ -1,24 +1,51 @@
 ---
-title: "Dorfkirche Hohenkirchen"
-site_name: "Dorfkirche Hohenkirchen"
-slug: "dorfkirche-hohenkirchen"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Hohenkirchen
+site_name: Dorfkirche Hohenkirchen
+slug: dorfkirche-hohenkirchen
+region: Mecklenburg-Vorpommern
 latitude: 53.9191
 longitude: 11.3046
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q16454"
-description: "In the heart of Hohenkirchen, a village in northern Germany, stands the Dorfkirche Hohenkirchen, an Evangelical Lutheran church that embodies the region..."
+- church building
+- religious site
+wikidata_id: Q16454
+description: In the heart of Hohenkirchen, a village in northern Germany, stands the
+  Dorfkirche Hohenkirchen, an Evangelical Lutheran church that embodies the region...
 images:
-  - "/images-sites/dorfkirche-hohenkirchen/01-5a1bf562-1920w.webp"
-  - "/images-sites/dorfkirche-hohenkirchen/02-93f6192e-1920w.webp"
-  - "/images-sites/dorfkirche-hohenkirchen/03-78a186aa-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hohenkirchen%20Kirche%20132.JPG/1200px-Hohenkirchen%20Kirche%20132.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hohenkirchen_Kirche_129.JPG/1200px-Hohenkirchen_Kirche_129.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/1200px-Hohenkirchen_Kirche_132.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hohenkirchen_Kirche_Predella_092.JPG/1200px-Hohenkirchen_Kirche_Predella_092.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_in_Hohenkirchen.JPG/1200px-Kirche_in_Hohenkirchen.JPG
+image_srcset:
+  Hohenkirchen%20Kirche%20132.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hohenkirchen%20Kirche%20132.JPG/400px-Hohenkirchen%20Kirche%20132.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hohenkirchen%20Kirche%20132.JPG/800px-Hohenkirchen%20Kirche%20132.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hohenkirchen%20Kirche%20132.JPG/1200px-Hohenkirchen%20Kirche%20132.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hohenkirchen%20Kirche%20132.JPG/1920px-Hohenkirchen%20Kirche%20132.JPG
+  Hohenkirchen Kirche 129.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hohenkirchen_Kirche_129.JPG/400px-Hohenkirchen_Kirche_129.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hohenkirchen_Kirche_129.JPG/800px-Hohenkirchen_Kirche_129.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hohenkirchen_Kirche_129.JPG/1200px-Hohenkirchen_Kirche_129.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hohenkirchen_Kirche_129.JPG/1920px-Hohenkirchen_Kirche_129.JPG
+  Hohenkirchen Kirche 132.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/400px-Hohenkirchen_Kirche_132.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/800px-Hohenkirchen_Kirche_132.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/1200px-Hohenkirchen_Kirche_132.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hohenkirchen_Kirche_132.JPG/1920px-Hohenkirchen_Kirche_132.JPG
+  Hohenkirchen Kirche Predella 092.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hohenkirchen_Kirche_Predella_092.JPG/400px-Hohenkirchen_Kirche_Predella_092.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hohenkirchen_Kirche_Predella_092.JPG/800px-Hohenkirchen_Kirche_Predella_092.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hohenkirchen_Kirche_Predella_092.JPG/1200px-Hohenkirchen_Kirche_Predella_092.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hohenkirchen_Kirche_Predella_092.JPG/1920px-Hohenkirchen_Kirche_Predella_092.JPG
+  Kirche in Hohenkirchen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_in_Hohenkirchen.JPG/400px-Kirche_in_Hohenkirchen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_in_Hohenkirchen.JPG/800px-Kirche_in_Hohenkirchen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_in_Hohenkirchen.JPG/1200px-Kirche_in_Hohenkirchen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kirche_in_Hohenkirchen.JPG/1920px-Kirche_in_Hohenkirchen.JPG
 ---
 
 ## Overview

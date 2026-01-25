@@ -1,24 +1,45 @@
 ---
-title: "Domkirche St. Marien"
-site_name: "Domkirche St. Marien"
-slug: "domkirche-st-marien"
-region: "Hamburg"
-
-# Location
+title: Domkirche St. Marien
+site_name: Domkirche St. Marien
+slug: domkirche-st-marien
+region: Hamburg
 latitude: 53.557656
 longitude: 10.013669
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q573491"
-description: "In the heart of Hamburg-Mitte, a remarkable structure rises majestically into the skyline: the Domkirche St. Marien. This parish church, built in 1893, ..."
+- church building
+- religious site
+wikidata_id: Q573491
+description: 'In the heart of Hamburg-Mitte, a remarkable structure rises majestically
+  into the skyline: the Domkirche St. Marien. This parish church, built in 1893, ...'
 images:
-  - "/images-sites/domkirche-st-marien/01-a41283dc-1920w.webp"
-  - "/images-sites/domkirche-st-marien/02-e1758bd8-1920w.webp"
-  - "/images-sites/domkirche-st-marien/03-d0dc5890-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dom%20St.%20Marien%20Hamburg.jpg/1200px-Dom%20St.%20Marien%20Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/1200px-Dom_St._Marien_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Marien_Kirche_-_panoramio_(1).jpg/1200px-St._Marien_Kirche_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/St._Marien-Dom,_Hamburg_(01).jpg/1200px-St._Marien-Dom,_Hamburg_(01).jpg
+image_srcset:
+  Dom%20St.%20Marien%20Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dom%20St.%20Marien%20Hamburg.jpg/400px-Dom%20St.%20Marien%20Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dom%20St.%20Marien%20Hamburg.jpg/800px-Dom%20St.%20Marien%20Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dom%20St.%20Marien%20Hamburg.jpg/1200px-Dom%20St.%20Marien%20Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dom%20St.%20Marien%20Hamburg.jpg/1920px-Dom%20St.%20Marien%20Hamburg.jpg
+  Dom St. Marien Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/400px-Dom_St._Marien_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/800px-Dom_St._Marien_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/1200px-Dom_St._Marien_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dom_St._Marien_Hamburg.jpg/1920px-Dom_St._Marien_Hamburg.jpg
+  St. Marien Kirche - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Marien_Kirche_-_panoramio_(1).jpg/400px-St._Marien_Kirche_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Marien_Kirche_-_panoramio_(1).jpg/800px-St._Marien_Kirche_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Marien_Kirche_-_panoramio_(1).jpg/1200px-St._Marien_Kirche_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/St._Marien_Kirche_-_panoramio_(1).jpg/1920px-St._Marien_Kirche_-_panoramio_(1).jpg
+  St. Marien-Dom, Hamburg (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/St._Marien-Dom,_Hamburg_(01).jpg/400px-St._Marien-Dom,_Hamburg_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/St._Marien-Dom,_Hamburg_(01).jpg/800px-St._Marien-Dom,_Hamburg_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/St._Marien-Dom,_Hamburg_(01).jpg/1200px-St._Marien-Dom,_Hamburg_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/St._Marien-Dom,_Hamburg_(01).jpg/1920px-St._Marien-Dom,_Hamburg_(01).jpg
 ---
 
 ## Overview

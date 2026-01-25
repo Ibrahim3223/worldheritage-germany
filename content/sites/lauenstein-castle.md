@@ -13,8 +13,8 @@ regions:
 latitude: 52.0764
 longitude: 9.54881
 images:
-  - "/images-sites/lauenstein-castle/02-51920e2e-800w.webp"
-  - "/images-sites/lauenstein-castle/03-b950563d-800w.webp"
+  - "/images/lauenstein-castle/02-51920e2e-800w.webp"
+  - "/images/lauenstein-castle/03-b950563d-800w.webp"
 ---
 
 ## Overview

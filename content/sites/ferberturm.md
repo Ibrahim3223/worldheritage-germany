@@ -1,19 +1,49 @@
 ---
-title: "Ferberturm"
+title: Ferberturm
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8725
 longitude: 12.0985
 images:
-  - "/images-sites/ferberturm/01-c794019b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ferberturm_Gera.jpg/1200px-Ferberturm_Gera.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gera_-_Ferberturm_2009_(aka).jpg/1200px-Gera_-_Ferberturm_2009_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ferberturm_Tor.png/1200px-Ferberturm_Tor.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/1200px-Gera_-_Ferberturm_04-09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gera_-_Ferberturm_und_Falkenweg.jpg/1200px-Gera_-_Ferberturm_und_Falkenweg.jpg
+image_srcset:
+  Ferberturm Gera.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ferberturm_Gera.jpg/400px-Ferberturm_Gera.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ferberturm_Gera.jpg/800px-Ferberturm_Gera.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ferberturm_Gera.jpg/1200px-Ferberturm_Gera.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ferberturm_Gera.jpg/1920px-Ferberturm_Gera.jpg
+  Gera - Ferberturm 2009 (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gera_-_Ferberturm_2009_(aka).jpg/400px-Gera_-_Ferberturm_2009_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gera_-_Ferberturm_2009_(aka).jpg/800px-Gera_-_Ferberturm_2009_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gera_-_Ferberturm_2009_(aka).jpg/1200px-Gera_-_Ferberturm_2009_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gera_-_Ferberturm_2009_(aka).jpg/1920px-Gera_-_Ferberturm_2009_(aka).jpg
+  Ferberturm Tor.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ferberturm_Tor.png/400px-Ferberturm_Tor.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ferberturm_Tor.png/800px-Ferberturm_Tor.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ferberturm_Tor.png/1200px-Ferberturm_Tor.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ferberturm_Tor.png/1920px-Ferberturm_Tor.png
+  Gera - Ferberturm 04-09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/400px-Gera_-_Ferberturm_04-09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/800px-Gera_-_Ferberturm_04-09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/1200px-Gera_-_Ferberturm_04-09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gera_-_Ferberturm_04-09.jpg/1920px-Gera_-_Ferberturm_04-09.jpg
+  Gera - Ferberturm und Falkenweg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gera_-_Ferberturm_und_Falkenweg.jpg/400px-Gera_-_Ferberturm_und_Falkenweg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gera_-_Ferberturm_und_Falkenweg.jpg/800px-Gera_-_Ferberturm_und_Falkenweg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gera_-_Ferberturm_und_Falkenweg.jpg/1200px-Gera_-_Ferberturm_und_Falkenweg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gera_-_Ferberturm_und_Falkenweg.jpg/1920px-Gera_-_Ferberturm_und_Falkenweg.jpg
 ---
 
 ## Overview

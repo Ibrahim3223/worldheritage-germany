@@ -1,21 +1,49 @@
 ---
-title: "Hauptfriedhof Mainz"
+title: Hauptfriedhof Mainz
 date: 2026-01-23
 draft: false
-description: "cemetery in Mainz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Mainz, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.995
 longitude: 8.25
 images:
-  - "/images-sites/hauptfriedhof-mainz/01-06829b53-800w.webp"
-  - "/images-sites/hauptfriedhof-mainz/02-b92142ef-800w.webp"
-  - "/images-sites/hauptfriedhof-mainz/03-5d8f9540-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grab_Schalck-Gerlach-Hillebrand.jpg/1200px-Grab_Schalck-Gerlach-Hillebrand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg/1200px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg/1200px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg/1200px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1200px-Krematorium_Mainz.jpg
+image_srcset:
+  Grab Schalck-Gerlach-Hillebrand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grab_Schalck-Gerlach-Hillebrand.jpg/400px-Grab_Schalck-Gerlach-Hillebrand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grab_Schalck-Gerlach-Hillebrand.jpg/800px-Grab_Schalck-Gerlach-Hillebrand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grab_Schalck-Gerlach-Hillebrand.jpg/1200px-Grab_Schalck-Gerlach-Hillebrand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grab_Schalck-Gerlach-Hillebrand.jpg/1920px-Grab_Schalck-Gerlach-Hillebrand.jpg
+  Deutschland - Mainz - Mainzer Hauptfriedhof Ehrenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg/400px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg/800px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg/1200px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg/1920px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Ehrenhof.jpg
+  Deutschland - Mainz - Mainzer Hauptfriedhof Französischer Garnisonsfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg/400px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg/800px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg/1200px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg/1920px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Französischer_Garnisonsfriedhof.jpg
+  Deutschland - Mainz - Mainzer Hauptfriedhof Löwendenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg/400px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg/800px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg/1200px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg/1920px-Deutschland_-_Mainz_-_Mainzer_Hauptfriedhof_Löwendenkmal.jpg
+  Krematorium Mainz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/400px-Krematorium_Mainz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/800px-Krematorium_Mainz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1200px-Krematorium_Mainz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Krematorium_Mainz.jpg/1920px-Krematorium_Mainz.jpg
 ---
 
 ## Overview

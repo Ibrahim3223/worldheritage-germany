@@ -13,7 +13,7 @@ regions:
 latitude: 53.57339
 longitude: 9.997
 images:
-  - "/images-sites/theater-im-zimmer/01-60b12d9a-800w.webp"
+  - "/images/theater-im-zimmer/01-60b12d9a-800w.webp"
 ---
 
 ## Overview

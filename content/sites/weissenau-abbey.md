@@ -13,7 +13,7 @@ regions:
 latitude: 47.763
 longitude: 9.596
 images:
-  - "/images-sites/weissenau-abbey/01-10e661e9-800w.webp"
+  - "/images/weissenau-abbey/01-10e661e9-800w.webp"
 ---
 
 ## Overview

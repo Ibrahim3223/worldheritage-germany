@@ -13,9 +13,9 @@ regions:
 latitude: 47.67638889
 longitude: 9.12777778
 images:
-  - "/images-sites/wollmatinger-ried-untersee-gnadensee/01-aa5f419e-800w.webp"
-  - "/images-sites/wollmatinger-ried-untersee-gnadensee/02-0db211c5-800w.webp"
-  - "/images-sites/wollmatinger-ried-untersee-gnadensee/03-5c2492d0-800w.webp"
+  - "/images/wollmatinger-ried-untersee-gnadensee/01-aa5f419e-800w.webp"
+  - "/images/wollmatinger-ried-untersee-gnadensee/02-0db211c5-800w.webp"
+  - "/images/wollmatinger-ried-untersee-gnadensee/03-5c2492d0-800w.webp"
 ---
 
 ## Overview

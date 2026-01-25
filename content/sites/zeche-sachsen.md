@@ -13,7 +13,7 @@ regions:
 latitude: 51.7065
 longitude: 7.82445
 images:
-  - "/images-sites/zeche-sachsen/01-0ea41169-800w.webp"
+  - "/images/zeche-sachsen/01-0ea41169-800w.webp"
 ---
 
 ## Overview

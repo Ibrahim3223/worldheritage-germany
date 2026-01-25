@@ -13,7 +13,7 @@ regions:
 latitude: 49.6792
 longitude: 9.00519
 images:
-  - "/images-sites/synagoge-michelstadt/01-74d5883b-800w.webp"
+  - "/images/synagoge-michelstadt/01-74d5883b-800w.webp"
 ---
 
 ## Overview

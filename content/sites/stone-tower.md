@@ -13,7 +13,7 @@ regions:
 latitude: 51.4969
 longitude: 7.4591
 images:
-  - "/images-sites/stone-tower/01-36c846d8-800w.webp"
+  - "/images/stone-tower/01-36c846d8-800w.webp"
 ---
 
 ## Overview

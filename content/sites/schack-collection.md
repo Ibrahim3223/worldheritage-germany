@@ -21,7 +21,7 @@ longitude: 11.5934
 
 # Images
 images:
-  - "/images-sites/schack-collection/01-88bcdaa7-800w.webp"
+  - "/images/schack-collection/01-88bcdaa7-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Lichtenberg railway station"
+title: Berlin-Lichtenberg railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5106
 longitude: 13.4964
 images:
-  - "/images-sites/berlin-lichtenberg-railway-station/01-70c2937b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg/1200px-Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg/1200px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg/1200px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2025-01-14_EU44-007_Berlin-Lichtenberg.jpg/1200px-2025-01-14_EU44-007_Berlin-Lichtenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/1200px-Rummelsburg_Bahnhof_Lichtenberg.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Lichtenberg (S07 0813).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg/400px-Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg/800px-Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg/1200px-Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg/1920px-Berlin_S-Bahn_Bhf_Lichtenberg_(S07_0813).jpg
+  Mural Niemand ist vergessen Eugeniu Botnari Eugeniu-Botnari-Platz Berlin-Lichtenberg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg/400px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg/800px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg/1200px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg/1920px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_03.jpg
+  Mural Niemand ist vergessen Eugeniu Botnari Eugeniu-Botnari-Platz Berlin-Lichtenberg 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg/400px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg/800px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg/1200px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg/1920px-Mural_Niemand_ist_vergessen_Eugeniu_Botnari_Eugeniu-Botnari-Platz_Berlin-Lichtenberg_12.jpg
+  2025-01-14 EU44-007 Berlin-Lichtenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2025-01-14_EU44-007_Berlin-Lichtenberg.jpg/400px-2025-01-14_EU44-007_Berlin-Lichtenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2025-01-14_EU44-007_Berlin-Lichtenberg.jpg/800px-2025-01-14_EU44-007_Berlin-Lichtenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2025-01-14_EU44-007_Berlin-Lichtenberg.jpg/1200px-2025-01-14_EU44-007_Berlin-Lichtenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2025-01-14_EU44-007_Berlin-Lichtenberg.jpg/1920px-2025-01-14_EU44-007_Berlin-Lichtenberg.jpg
+  Rummelsburg Bahnhof Lichtenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/400px-Rummelsburg_Bahnhof_Lichtenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/800px-Rummelsburg_Bahnhof_Lichtenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/1200px-Rummelsburg_Bahnhof_Lichtenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rummelsburg_Bahnhof_Lichtenberg.jpg/1920px-Rummelsburg_Bahnhof_Lichtenberg.jpg
 ---
 
 ## Overview

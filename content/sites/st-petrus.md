@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1256264"
 description: "St. Petrus is a church building located in Kabelsketal, Saxony-Anhalt, Germany. This Romanesque architectural gem serves as a testament to the enduring ..."
 images:
-  - "/images-sites/st-petrus/01-2eb8d6a4-1920w.webp"
-  - "/images-sites/st-petrus/02-ae009752-1920w.webp"
-  - "/images-sites/st-petrus/03-d302acf7-1920w.webp"
+  - "/images/st-petrus/01-2eb8d6a4-1920w.webp"
+  - "/images/st-petrus/02-ae009752-1920w.webp"
+  - "/images/st-petrus/03-d302acf7-1920w.webp"
 ---
 
 ## Overview

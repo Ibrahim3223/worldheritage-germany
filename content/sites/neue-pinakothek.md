@@ -21,9 +21,9 @@ longitude: 11.571114
 
 # Images
 images:
-  - "/images-sites/neue-pinakothek/01-eeff9927-800w.webp"
-  - "/images-sites/neue-pinakothek/02-0c777d36-800w.webp"
-  - "/images-sites/neue-pinakothek/03-3558f3f8-800w.webp"
+  - "/images/neue-pinakothek/01-eeff9927-800w.webp"
+  - "/images/neue-pinakothek/02-0c777d36-800w.webp"
+  - "/images/neue-pinakothek/03-3558f3f8-800w.webp"
 ---
 
 ## Overview

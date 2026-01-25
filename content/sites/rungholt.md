@@ -21,7 +21,7 @@ longitude: 8.716666666
 
 # Images
 images:
-  - "/images-sites/rungholt/01-1da5e8eb-800w.webp"
+  - "/images/rungholt/01-1da5e8eb-800w.webp"
 ---
 
 ## Overview

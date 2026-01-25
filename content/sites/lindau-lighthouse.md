@@ -13,7 +13,7 @@ regions:
 latitude: 47.542916666
 longitude: 9.683583333
 images:
-  - "/images-sites/lindau-lighthouse/01-f2c1b9f6-800w.webp"
+  - "/images/lindau-lighthouse/01-f2c1b9f6-800w.webp"
 ---
 
 ## Overview

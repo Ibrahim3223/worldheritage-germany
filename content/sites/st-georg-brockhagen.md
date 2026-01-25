@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1289413"
 description: "St. Georg in Brockhagen presents a striking example of Baroque architecture, a style that flourished in the 17th and 18th centuries, characterized by gr..."
 images:
-  - "/images-sites/st-georg-brockhagen/01-eb5f11ca-1920w.webp"
-  - "/images-sites/st-georg-brockhagen/02-011b9f18-1920w.webp"
-  - "/images-sites/st-georg-brockhagen/03-2ee3346a-1920w.webp"
+  - "/images/st-georg-brockhagen/01-eb5f11ca-1920w.webp"
+  - "/images/st-georg-brockhagen/02-011b9f18-1920w.webp"
+  - "/images/st-georg-brockhagen/03-2ee3346a-1920w.webp"
 ---
 
 ## Overview

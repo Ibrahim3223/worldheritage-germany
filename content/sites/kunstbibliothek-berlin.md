@@ -13,7 +13,7 @@ regions:
 latitude: 52.50861
 longitude: 13.36666
 images:
-  - "/images-sites/kunstbibliothek-berlin/01-91709202-800w.webp"
+  - "/images/kunstbibliothek-berlin/01-91709202-800w.webp"
 ---
 
 ## Overview

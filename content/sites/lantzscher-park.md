@@ -13,7 +13,7 @@ regions:
 latitude: 51.27194444
 longitude: 6.735
 images:
-  - "/images-sites/lantzscher-park/01-6c3307c4-800w.webp"
+  - "/images/lantzscher-park/01-6c3307c4-800w.webp"
 ---
 
 ## Overview

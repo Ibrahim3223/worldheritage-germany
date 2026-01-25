@@ -21,7 +21,7 @@ longitude: 7.212683
 
 # Images
 images:
-  - "/images-sites/staedtische-galerie-im-schlosspark-struenkede/01-40773ecd-800w.webp"
+  - "/images/staedtische-galerie-im-schlosspark-struenkede/01-40773ecd-800w.webp"
 ---
 
 ## Overview

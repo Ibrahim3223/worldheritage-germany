@@ -1,19 +1,49 @@
 ---
-title: "Bottmühle (Köln)"
+title: Bottmühle (Köln)
 date: 2026-01-24
 draft: false
-description: "Teil der mittelalterlichen Stadtmauer von Köln"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: Teil der mittelalterlichen Stadtmauer von Köln
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.922765
 longitude: 6.963189
 images:
-  - "/images-sites/bottmuehle-koeln/01-9e177cc3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG/1200px-Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG
+image_srcset:
+  Ubierring 33, 1, Neustadt-Süd, Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg/400px-Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg/800px-Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg/1920px-Ubierring_33,_1,_Neustadt-Süd,_Köln.jpg
+  Ubierring 33, 2, Neustadt-Süd, Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg/400px-Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg/800px-Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg/1920px-Ubierring_33,_2,_Neustadt-Süd,_Köln.jpg
+  Ubierring 35, 1, Neustadt-Süd, Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg/400px-Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg/800px-Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg/1920px-Ubierring_35,_1,_Neustadt-Süd,_Köln.jpg
+  Ubierring 35, 2, Neustadt-Süd, Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg/400px-Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg/800px-Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg/1200px-Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg/1920px-Ubierring_35,_2,_Neustadt-Süd,_Köln.jpg
+  Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG/400px-Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG/800px-Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG/1200px-Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG/1920px-Ubierring-Köln-Eckhaus-An-der-Bottmühle.JPG
 ---
 
 ## Overview

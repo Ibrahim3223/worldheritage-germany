@@ -1,19 +1,50 @@
 ---
-title: "Church in Pokrent"
-site_name: "Church in Pokrent"
-slug: "church-in-pokrent"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Pokrent
+site_name: Church in Pokrent
+slug: church-in-pokrent
+region: Schleswig-Holstein
 latitude: 53.6466
 longitude: 11.142
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244620"
-description: "The Church in Pokrent is a remarkable example of Brick Gothic architecture, standing proudly in the quaint village of Pokrent, located in Mecklenburg-Vo..."
+- cultural site
+wikidata_id: Q1244620
+description: The Church in Pokrent is a remarkable example of Brick Gothic architecture,
+  standing proudly in the quaint village of Pokrent, located in Mecklenburg-Vo...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pokrent%20Kirche%202009-01-05%20007.jpg/1200px-Pokrent%20Kirche%202009-01-05%20007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg/1200px-DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pokrent_Kirche_2009-01-05_002.jpg/1200px-Pokrent_Kirche_2009-01-05_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/1200px-Pokrent_Kirche_2009-01-05_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokrent_Kirchhof_2009-01-05_009.jpg/1200px-Pokrent_Kirchhof_2009-01-05_009.jpg
+image_srcset:
+  Pokrent%20Kirche%202009-01-05%20007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pokrent%20Kirche%202009-01-05%20007.jpg/400px-Pokrent%20Kirche%202009-01-05%20007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pokrent%20Kirche%202009-01-05%20007.jpg/800px-Pokrent%20Kirche%202009-01-05%20007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pokrent%20Kirche%202009-01-05%20007.jpg/1200px-Pokrent%20Kirche%202009-01-05%20007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pokrent%20Kirche%202009-01-05%20007.jpg/1920px-Pokrent%20Kirche%202009-01-05%20007.jpg
+  DEU Mecklenburg-Vorpommern Pokrent 240517 026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg/400px-DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg/800px-DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg/1200px-DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg/1920px-DEU_Mecklenburg-Vorpommern_Pokrent_240517_026.jpg
+  Pokrent Kirche 2009-01-05 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pokrent_Kirche_2009-01-05_002.jpg/400px-Pokrent_Kirche_2009-01-05_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pokrent_Kirche_2009-01-05_002.jpg/800px-Pokrent_Kirche_2009-01-05_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pokrent_Kirche_2009-01-05_002.jpg/1200px-Pokrent_Kirche_2009-01-05_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pokrent_Kirche_2009-01-05_002.jpg/1920px-Pokrent_Kirche_2009-01-05_002.jpg
+  Pokrent Kirche 2009-01-05 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/400px-Pokrent_Kirche_2009-01-05_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/800px-Pokrent_Kirche_2009-01-05_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/1200px-Pokrent_Kirche_2009-01-05_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pokrent_Kirche_2009-01-05_007.jpg/1920px-Pokrent_Kirche_2009-01-05_007.jpg
+  Pokrent Kirchhof 2009-01-05 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokrent_Kirchhof_2009-01-05_009.jpg/400px-Pokrent_Kirchhof_2009-01-05_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokrent_Kirchhof_2009-01-05_009.jpg/800px-Pokrent_Kirchhof_2009-01-05_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokrent_Kirchhof_2009-01-05_009.jpg/1200px-Pokrent_Kirchhof_2009-01-05_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Pokrent_Kirchhof_2009-01-05_009.jpg/1920px-Pokrent_Kirchhof_2009-01-05_009.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hermannplatz"
+title: Hermannplatz
 date: 2026-01-23
 draft: false
-description: "square in Berlin, links Kreuzberg and Neukölln"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin, links Kreuzberg and Neukölln
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4872
 longitude: 13.4247
 images:
-  - "/images-sites/hermannplatz/01-69dc9dae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg/1200px-Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/U8_Berlin_Hermannplatz_12-2017.jpg/1200px-U8_Berlin_Hermannplatz_12-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UBahnhof_Hermannplatz.JPG/1200px-UBahnhof_Hermannplatz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Berlin_Neukölln_Hermannplatz_2002.jpg/1200px-Berlin_Neukölln_Hermannplatz_2002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hermannplatz4_Berlin_Neukoelln.JPG/1200px-Hermannplatz4_Berlin_Neukoelln.JPG
+image_srcset:
+  Berlin Neukoelln Hermannplatz asv2021-03 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg/400px-Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg/800px-Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg/1200px-Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg/1920px-Berlin_Neukoelln_Hermannplatz_asv2021-03_img1.jpg
+  U8 Berlin Hermannplatz 12-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/U8_Berlin_Hermannplatz_12-2017.jpg/400px-U8_Berlin_Hermannplatz_12-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/U8_Berlin_Hermannplatz_12-2017.jpg/800px-U8_Berlin_Hermannplatz_12-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/U8_Berlin_Hermannplatz_12-2017.jpg/1200px-U8_Berlin_Hermannplatz_12-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/U8_Berlin_Hermannplatz_12-2017.jpg/1920px-U8_Berlin_Hermannplatz_12-2017.jpg
+  UBahnhof Hermannplatz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UBahnhof_Hermannplatz.JPG/400px-UBahnhof_Hermannplatz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UBahnhof_Hermannplatz.JPG/800px-UBahnhof_Hermannplatz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UBahnhof_Hermannplatz.JPG/1200px-UBahnhof_Hermannplatz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UBahnhof_Hermannplatz.JPG/1920px-UBahnhof_Hermannplatz.JPG
+  Berlin Neukölln Hermannplatz 2002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Berlin_Neukölln_Hermannplatz_2002.jpg/400px-Berlin_Neukölln_Hermannplatz_2002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Berlin_Neukölln_Hermannplatz_2002.jpg/800px-Berlin_Neukölln_Hermannplatz_2002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Berlin_Neukölln_Hermannplatz_2002.jpg/1200px-Berlin_Neukölln_Hermannplatz_2002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Berlin_Neukölln_Hermannplatz_2002.jpg/1920px-Berlin_Neukölln_Hermannplatz_2002.jpg
+  Hermannplatz4 Berlin Neukoelln.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hermannplatz4_Berlin_Neukoelln.JPG/400px-Hermannplatz4_Berlin_Neukoelln.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hermannplatz4_Berlin_Neukoelln.JPG/800px-Hermannplatz4_Berlin_Neukoelln.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hermannplatz4_Berlin_Neukoelln.JPG/1200px-Hermannplatz4_Berlin_Neukoelln.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hermannplatz4_Berlin_Neukoelln.JPG/1920px-Hermannplatz4_Berlin_Neukoelln.JPG
 ---
 
 ## Overview

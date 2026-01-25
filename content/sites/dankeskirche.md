@@ -1,20 +1,51 @@
 ---
-title: "Dankeskirche"
-site_name: "Dankeskirche"
-slug: "dankeskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Dankeskirche
+site_name: Dankeskirche
+slug: dankeskirche
+region: North Rhine-Westphalia
 latitude: 50.3647
 longitude: 8.7417
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1164243"
-description: "In the charming town of Bad Nauheim, Germany, the Dankeskirche stands as an emblem of architectural grace and historical significance. This Gothic Reviv..."
+- church building
+- religious site
+wikidata_id: Q1164243
+description: In the charming town of Bad Nauheim, Germany, the Dankeskirche stands
+  as an emblem of architectural grace and historical significance. This Gothic Reviv...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg/1200px-Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg
+image_srcset:
+  Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg/400px-Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg/800px-Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg/1200px-Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg/1920px-Bad%20Nauheim-Dankeskirche%20von%20Suedwesten-20140319.jpg
+  Düsseldorf-Benrath, Dankeskirche, Orgel (08).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg/400px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg/800px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg/1920px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(08).jpg
+  Düsseldorf-Benrath, Dankeskirche, Orgel (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg/400px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg/800px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg/1920px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(04).jpg
+  Düsseldorf-Benrath, Dankeskirche, Orgel (11).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg/400px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg/800px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg/1920px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(11).jpg
+  Düsseldorf-Benrath, Dankeskirche, Orgel (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg/400px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg/800px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg/1200px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg/1920px-Düsseldorf-Benrath,_Dankeskirche,_Orgel_(12).jpg
 ---
 
 ## Overview

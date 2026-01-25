@@ -1,20 +1,51 @@
 ---
-title: "BethanienkircheBerlin"
-site_name: "BethanienkircheBerlin"
-slug: "bethanienkirche-berlin"
-region: "Berlin"
-
-# Location
+title: BethanienkircheBerlin
+site_name: BethanienkircheBerlin
+slug: bethanienkirche-berlin
+region: Berlin
 latitude: 52.55277778
 longitude: 13.44916667
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q831182"
-description: "Located in the vibrant district of Pankow, Berlin, Bethanienkirche is a notable Lutheran church that has stood since its construction in 1902. Its Gothi..."
+- church building
+- religious site
+wikidata_id: Q831182
+description: Located in the vibrant district of Pankow, Berlin, Bethanienkirche is
+  a notable Lutheran church that has stood since its construction in 1902. Its Gothi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg/1200px-Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bethanienkircheberlin_-_1.jpeg/1200px-Bethanienkircheberlin_-_1.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bethanienkircheberlin_-_2.jpeg/1200px-Bethanienkircheberlin_-_2.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bethanienkircheberlin_-_3.jpeg/1200px-Bethanienkircheberlin_-_3.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bethanienkircheberlin_-_4.jpeg/1200px-Bethanienkircheberlin_-_4.jpeg
+image_srcset:
+  Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg/400px-Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg/800px-Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg/1200px-Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg/1920px-Berlin-Weissensee%20Bethanienturm%20from%20Pistoriusplatz.jpg
+  Bethanienkircheberlin - 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bethanienkircheberlin_-_1.jpeg/400px-Bethanienkircheberlin_-_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bethanienkircheberlin_-_1.jpeg/800px-Bethanienkircheberlin_-_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bethanienkircheberlin_-_1.jpeg/1200px-Bethanienkircheberlin_-_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bethanienkircheberlin_-_1.jpeg/1920px-Bethanienkircheberlin_-_1.jpeg
+  Bethanienkircheberlin - 2.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bethanienkircheberlin_-_2.jpeg/400px-Bethanienkircheberlin_-_2.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bethanienkircheberlin_-_2.jpeg/800px-Bethanienkircheberlin_-_2.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bethanienkircheberlin_-_2.jpeg/1200px-Bethanienkircheberlin_-_2.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bethanienkircheberlin_-_2.jpeg/1920px-Bethanienkircheberlin_-_2.jpeg
+  Bethanienkircheberlin - 3.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bethanienkircheberlin_-_3.jpeg/400px-Bethanienkircheberlin_-_3.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bethanienkircheberlin_-_3.jpeg/800px-Bethanienkircheberlin_-_3.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bethanienkircheberlin_-_3.jpeg/1200px-Bethanienkircheberlin_-_3.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bethanienkircheberlin_-_3.jpeg/1920px-Bethanienkircheberlin_-_3.jpeg
+  Bethanienkircheberlin - 4.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bethanienkircheberlin_-_4.jpeg/400px-Bethanienkircheberlin_-_4.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bethanienkircheberlin_-_4.jpeg/800px-Bethanienkircheberlin_-_4.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bethanienkircheberlin_-_4.jpeg/1200px-Bethanienkircheberlin_-_4.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bethanienkircheberlin_-_4.jpeg/1920px-Bethanienkircheberlin_-_4.jpeg
 ---
 
 ## Overview

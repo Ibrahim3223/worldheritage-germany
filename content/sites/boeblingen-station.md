@@ -1,19 +1,49 @@
 ---
-title: "Böblingen station"
+title: Böblingen station
 date: 2026-01-23
 draft: false
-description: "railway station in Böblingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Böblingen, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 48.6875
 longitude: 9.00472
 images:
-  - "/images-sites/boeblingen-station/01-0970d583-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bahnhof_Böblingen_at_night_02.jpg/1200px-Bahnhof_Böblingen_at_night_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bahnhof_Böblingen_(1).jpg/1200px-Bahnhof_Böblingen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/24.05.17_Böblingen_650.680_(34600999650).jpg/1200px-24.05.17_Böblingen_650.680_(34600999650).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BahnhofBoeblingen.JPG/1200px-BahnhofBoeblingen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Böblingen_Bahnhof_IMG_5987.JPG/1200px-Böblingen_Bahnhof_IMG_5987.JPG
+image_srcset:
+  Bahnhof Böblingen at night 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bahnhof_Böblingen_at_night_02.jpg/400px-Bahnhof_Böblingen_at_night_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bahnhof_Böblingen_at_night_02.jpg/800px-Bahnhof_Böblingen_at_night_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bahnhof_Böblingen_at_night_02.jpg/1200px-Bahnhof_Böblingen_at_night_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bahnhof_Böblingen_at_night_02.jpg/1920px-Bahnhof_Böblingen_at_night_02.jpg
+  Bahnhof Böblingen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bahnhof_Böblingen_(1).jpg/400px-Bahnhof_Böblingen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bahnhof_Böblingen_(1).jpg/800px-Bahnhof_Böblingen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bahnhof_Böblingen_(1).jpg/1200px-Bahnhof_Böblingen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bahnhof_Böblingen_(1).jpg/1920px-Bahnhof_Böblingen_(1).jpg
+  24.05.17 Böblingen 650.680 (34600999650).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/24.05.17_Böblingen_650.680_(34600999650).jpg/400px-24.05.17_Böblingen_650.680_(34600999650).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/24.05.17_Böblingen_650.680_(34600999650).jpg/800px-24.05.17_Böblingen_650.680_(34600999650).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/24.05.17_Böblingen_650.680_(34600999650).jpg/1200px-24.05.17_Böblingen_650.680_(34600999650).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/24.05.17_Böblingen_650.680_(34600999650).jpg/1920px-24.05.17_Böblingen_650.680_(34600999650).jpg
+  BahnhofBoeblingen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BahnhofBoeblingen.JPG/400px-BahnhofBoeblingen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BahnhofBoeblingen.JPG/800px-BahnhofBoeblingen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BahnhofBoeblingen.JPG/1200px-BahnhofBoeblingen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BahnhofBoeblingen.JPG/1920px-BahnhofBoeblingen.JPG
+  Böblingen Bahnhof IMG 5987.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Böblingen_Bahnhof_IMG_5987.JPG/400px-Böblingen_Bahnhof_IMG_5987.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Böblingen_Bahnhof_IMG_5987.JPG/800px-Böblingen_Bahnhof_IMG_5987.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Böblingen_Bahnhof_IMG_5987.JPG/1200px-Böblingen_Bahnhof_IMG_5987.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Böblingen_Bahnhof_IMG_5987.JPG/1920px-Böblingen_Bahnhof_IMG_5987.JPG
 ---
 
 ## Overview

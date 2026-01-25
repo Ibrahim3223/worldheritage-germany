@@ -13,9 +13,9 @@ regions:
 latitude: 53.205
 longitude: 12.891666666
 images:
-  - "/images-sites/labussee/01-b81e60c3-800w.webp"
-  - "/images-sites/labussee/02-a7457e93-800w.webp"
-  - "/images-sites/labussee/03-4b36c023-800w.webp"
+  - "/images/labussee/01-b81e60c3-800w.webp"
+  - "/images/labussee/02-a7457e93-800w.webp"
+  - "/images/labussee/03-4b36c023-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.4889
 longitude: 8.46212
 images:
-  - "/images-sites/reiss-engelhorn-museums/01-f6748799-800w.webp"
-  - "/images-sites/reiss-engelhorn-museums/02-298d693c-800w.webp"
-  - "/images-sites/reiss-engelhorn-museums/03-cf4b6da5-800w.webp"
+  - "/images/reiss-engelhorn-museums/01-f6748799-800w.webp"
+  - "/images/reiss-engelhorn-museums/02-298d693c-800w.webp"
+  - "/images/reiss-engelhorn-museums/03-cf4b6da5-800w.webp"
 ---
 
 ## Overview

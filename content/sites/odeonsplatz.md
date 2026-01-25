@@ -13,7 +13,7 @@ regions:
 latitude: 48.142222222
 longitude: 11.5775
 images:
-  - "/images-sites/odeonsplatz/01-72f15b0b-800w.webp"
+  - "/images/odeonsplatz/01-72f15b0b-800w.webp"
 ---
 
 ## Overview

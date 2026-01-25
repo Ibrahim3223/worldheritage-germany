@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2320813"
 description: "In the heart of Fröndenberg, Germany, the St. Marien Church stands as a striking example of Gothic Revival architecture. With its elegant lines and intr..."
 images:
-  - "/images-sites/st-marien-frondenberg/01-aa10d9ab-1920w.webp"
-  - "/images-sites/st-marien-frondenberg/02-8abbd810-1920w.webp"
-  - "/images-sites/st-marien-frondenberg/03-9f104b34-1920w.webp"
+  - "/images/st-marien-frondenberg/01-aa10d9ab-1920w.webp"
+  - "/images/st-marien-frondenberg/02-8abbd810-1920w.webp"
+  - "/images/st-marien-frondenberg/03-9f104b34-1920w.webp"
 ---
 
 ## Overview

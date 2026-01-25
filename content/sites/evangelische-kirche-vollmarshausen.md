@@ -1,20 +1,45 @@
 ---
-title: "Evangelische Kirche Vollmarshausen"
-site_name: "Evangelische Kirche Vollmarshausen"
-slug: "evangelische-kirche-vollmarshausen"
-region: "Hesse"
-
-# Location
+title: Evangelische Kirche Vollmarshausen
+site_name: Evangelische Kirche Vollmarshausen
+slug: evangelische-kirche-vollmarshausen
+region: Hesse
 latitude: 51.2622
 longitude: 9.56333
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380943"
-description: "Evangelische Kirche Vollmarshausen, a stunning church building located in the tranquil region of Vollmarshausen, Germany, invites visitors to explore it..."
+- church building
+- religious site
+wikidata_id: Q1380943
+description: Evangelische Kirche Vollmarshausen, a stunning church building located
+  in the tranquil region of Vollmarshausen, Germany, invites visitors to explore it...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/1200px-Evangelische-kirche-vollmarshausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1200px-Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1200px-Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1200px-Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+image_srcset:
+  Evangelische-kirche-vollmarshausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/400px-Evangelische-kirche-vollmarshausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/800px-Evangelische-kirche-vollmarshausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/1200px-Evangelische-kirche-vollmarshausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Evangelische-kirche-vollmarshausen.jpg/1920px-Evangelische-kirche-vollmarshausen.jpg
+  Kirche, Vollmarshäuser Straße 4, 1, Vollmarshausen, Lohfelden, Landkreis Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/400px-Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/800px-Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1200px-Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1920px-Kirche,_Vollmarshäuser_Straße_4,_1,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+  Kirche, Vollmarshäuser Straße 4, 4, Vollmarshausen, Lohfelden, Landkreis Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/400px-Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/800px-Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1200px-Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1920px-Kirche,_Vollmarshäuser_Straße_4,_4,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+  Kirche, Vollmarshäuser Straße 4, 6, Vollmarshausen, Lohfelden, Landkreis Kassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/400px-Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/800px-Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1200px-Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg/1920px-Kirche,_Vollmarshäuser_Straße_4,_6,_Vollmarshausen,_Lohfelden,_Landkreis_Kassel.jpg
 ---
 
 ## Overview

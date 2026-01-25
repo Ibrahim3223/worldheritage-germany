@@ -1,21 +1,49 @@
 ---
-title: "Haus Ludwig"
+title: Haus Ludwig
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3136
 longitude: 6.74891
 images:
-  - "/images-sites/haus-ludwig/01-0b7daf9a-800w.webp"
-  - "/images-sites/haus-ludwig/02-1209d279-800w.webp"
-  - "/images-sites/haus-ludwig/03-aeafd0f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albrecht-Bengel-Haus_Tübingen_02.jpg/1200px-Albrecht-Bengel-Haus_Tübingen_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wzwz_dachau_x17c_augsburger-23.jpg/1200px-Wzwz_dachau_x17c_augsburger-23.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg/1200px-Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/1200px-Saarlouis_Haus_Ludwig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Saarlouis_KaserneVI.jpg/1200px-Saarlouis_KaserneVI.jpg
+image_srcset:
+  Albrecht-Bengel-Haus Tübingen 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albrecht-Bengel-Haus_Tübingen_02.jpg/400px-Albrecht-Bengel-Haus_Tübingen_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albrecht-Bengel-Haus_Tübingen_02.jpg/800px-Albrecht-Bengel-Haus_Tübingen_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albrecht-Bengel-Haus_Tübingen_02.jpg/1200px-Albrecht-Bengel-Haus_Tübingen_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Albrecht-Bengel-Haus_Tübingen_02.jpg/1920px-Albrecht-Bengel-Haus_Tübingen_02.jpg
+  Wzwz dachau x17c augsburger-23.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wzwz_dachau_x17c_augsburger-23.jpg/400px-Wzwz_dachau_x17c_augsburger-23.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wzwz_dachau_x17c_augsburger-23.jpg/800px-Wzwz_dachau_x17c_augsburger-23.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wzwz_dachau_x17c_augsburger-23.jpg/1200px-Wzwz_dachau_x17c_augsburger-23.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wzwz_dachau_x17c_augsburger-23.jpg/1920px-Wzwz_dachau_x17c_augsburger-23.jpg
+  Halle (Saale), Haus Ludwig-Wucherer-Straße 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg/400px-Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg/800px-Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg/1200px-Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg/1920px-Halle_(Saale),_Haus_Ludwig-Wucherer-Straße_1.jpg
+  Saarlouis Haus Ludwig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/400px-Saarlouis_Haus_Ludwig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/800px-Saarlouis_Haus_Ludwig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/1200px-Saarlouis_Haus_Ludwig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saarlouis_Haus_Ludwig.jpg/1920px-Saarlouis_Haus_Ludwig.jpg
+  Saarlouis KaserneVI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Saarlouis_KaserneVI.jpg/400px-Saarlouis_KaserneVI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Saarlouis_KaserneVI.jpg/800px-Saarlouis_KaserneVI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Saarlouis_KaserneVI.jpg/1200px-Saarlouis_KaserneVI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Saarlouis_KaserneVI.jpg/1920px-Saarlouis_KaserneVI.jpg
 ---
 
 ## Overview

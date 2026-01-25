@@ -13,7 +13,7 @@ regions:
 latitude: 50.0595
 longitude: 7.76711
 images:
-  - "/images-sites/wernerkapelle-bacharach/01-1d572a85-800w.webp"
+  - "/images/wernerkapelle-bacharach/01-1d572a85-800w.webp"
 ---
 
 ## Overview

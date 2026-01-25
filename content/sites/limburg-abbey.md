@@ -13,7 +13,7 @@ regions:
 latitude: 49.4564
 longitude: 8.14639
 images:
-  - "/images-sites/limburg-abbey/01-94ca5b6c-800w.webp"
+  - "/images/limburg-abbey/01-94ca5b6c-800w.webp"
 ---
 
 ## Overview

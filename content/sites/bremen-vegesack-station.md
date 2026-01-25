@@ -1,19 +1,49 @@
 ---
-title: "Bremen-Vegesack station"
+title: Bremen-Vegesack station
 date: 2026-01-23
 draft: false
-description: "railway station in Vegesack, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: railway station in Vegesack, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1695
 longitude: 8.6291
 images:
-  - "/images-sites/bremen-vegesack-station/01-8caf9223-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bahnhof_Bremen-Vegesack_2005211129.jpg/1200px-Bahnhof_Bremen-Vegesack_2005211129.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bahnhof_Bremen-Vegesack_2111091300.jpg/1200px-Bahnhof_Bremen-Vegesack_2111091300.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg/1200px-NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg/1200px-NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg/1200px-NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg
+image_srcset:
+  Bahnhof Bremen-Vegesack 2005211129.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bahnhof_Bremen-Vegesack_2005211129.jpg/400px-Bahnhof_Bremen-Vegesack_2005211129.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bahnhof_Bremen-Vegesack_2005211129.jpg/800px-Bahnhof_Bremen-Vegesack_2005211129.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bahnhof_Bremen-Vegesack_2005211129.jpg/1200px-Bahnhof_Bremen-Vegesack_2005211129.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bahnhof_Bremen-Vegesack_2005211129.jpg/1920px-Bahnhof_Bremen-Vegesack_2005211129.jpg
+  Bahnhof Bremen-Vegesack 2111091300.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bahnhof_Bremen-Vegesack_2111091300.jpg/400px-Bahnhof_Bremen-Vegesack_2111091300.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bahnhof_Bremen-Vegesack_2111091300.jpg/800px-Bahnhof_Bremen-Vegesack_2111091300.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bahnhof_Bremen-Vegesack_2111091300.jpg/1200px-Bahnhof_Bremen-Vegesack_2111091300.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bahnhof_Bremen-Vegesack_2111091300.jpg/1920px-Bahnhof_Bremen-Vegesack_2111091300.jpg
+  NWB ET 440 212 Bremen-Vegesack 2111091304.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg/400px-NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg/800px-NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg/1200px-NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg/1920px-NWB_ET_440_212_Bremen-Vegesack_2111091304.jpg
+  NWB ET 440 212 Bremen-Vegesack 2111091305.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg/400px-NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg/800px-NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg/1200px-NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg/1920px-NWB_ET_440_212_Bremen-Vegesack_2111091305.jpg
+  NWB ET 440 217 Bremen-Vegesack 2111091302.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg/400px-NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg/800px-NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg/1200px-NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg/1920px-NWB_ET_440_217_Bremen-Vegesack_2111091302.jpg
 ---
 
 ## Overview

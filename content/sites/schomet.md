@@ -13,7 +13,7 @@ regions:
 latitude: 50.7239
 longitude: 6.22111
 images:
-  - "/images-sites/schomet/01-03d0b003-800w.webp"
+  - "/images/schomet/01-03d0b003-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1456554"
 description: "In the heart of Westoverledingen lies the Peter-und-Paul-Kirche, a striking example of Gothic architecture that has stood since its founding in 1500. Th..."
 images:
-  - "/images-sites/peter-und-paul-kirche/01-a9d7056a-1920w.webp"
-  - "/images-sites/peter-und-paul-kirche/02-7ef4fe4f-1920w.webp"
-  - "/images-sites/peter-und-paul-kirche/03-8eeb5968-1920w.webp"
+  - "/images/peter-und-paul-kirche/01-a9d7056a-1920w.webp"
+  - "/images/peter-und-paul-kirche/02-7ef4fe4f-1920w.webp"
+  - "/images/peter-und-paul-kirche/03-8eeb5968-1920w.webp"
 ---
 
 ## Overview

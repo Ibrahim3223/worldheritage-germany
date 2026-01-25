@@ -13,9 +13,9 @@ regions:
 latitude: 53.55083333
 longitude: 9.99305556
 images:
-  - "/images-sites/rathausmarkt/01-159d5949-800w.webp"
-  - "/images-sites/rathausmarkt/02-29710035-800w.webp"
-  - "/images-sites/rathausmarkt/03-b43a4cfe-800w.webp"
+  - "/images/rathausmarkt/01-159d5949-800w.webp"
+  - "/images/rathausmarkt/02-29710035-800w.webp"
+  - "/images/rathausmarkt/03-b43a4cfe-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.7514
 longitude: 9.26893
 images:
-  - "/images-sites/synagogue-in-alsfeld/02-37da88a4-800w.webp"
+  - "/images/synagogue-in-alsfeld/02-37da88a4-800w.webp"
 ---
 
 ## Overview

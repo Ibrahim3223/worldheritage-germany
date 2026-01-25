@@ -1,21 +1,49 @@
 ---
-title: "Alter Neckar"
+title: Alter Neckar
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7229
 longitude: 9.36647
 images:
-  - "/images-sites/alter-neckar/01-916ab003-800w.webp"
-  - "/images-sites/alter-neckar/02-fd5eef14-800w.webp"
-  - "/images-sites/alter-neckar/03-4a658278-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2021-04-24_Alter-Neckar-42.jpg/1200px-2021-04-24_Alter-Neckar-42.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1200px-Neckar_Altarm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alter_Neckar_Panorama.tif.jpg/1200px-Alter_Neckar_Panorama.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20190531_Svet3.jpg/1200px-20190531_Svet3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NSG_Alter_Neckar_IMG_4398_by_Vux.JPG/1200px-NSG_Alter_Neckar_IMG_4398_by_Vux.JPG
+image_srcset:
+  2021-04-24 Alter-Neckar-42.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2021-04-24_Alter-Neckar-42.jpg/400px-2021-04-24_Alter-Neckar-42.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2021-04-24_Alter-Neckar-42.jpg/800px-2021-04-24_Alter-Neckar-42.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2021-04-24_Alter-Neckar-42.jpg/1200px-2021-04-24_Alter-Neckar-42.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2021-04-24_Alter-Neckar-42.jpg/1920px-2021-04-24_Alter-Neckar-42.jpg
+  Neckar Altarm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/400px-Neckar_Altarm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/800px-Neckar_Altarm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1200px-Neckar_Altarm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neckar_Altarm.jpg/1920px-Neckar_Altarm.jpg
+  Alter Neckar Panorama.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alter_Neckar_Panorama.tif.jpg/400px-Alter_Neckar_Panorama.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alter_Neckar_Panorama.tif.jpg/800px-Alter_Neckar_Panorama.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alter_Neckar_Panorama.tif.jpg/1200px-Alter_Neckar_Panorama.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alter_Neckar_Panorama.tif.jpg/1920px-Alter_Neckar_Panorama.tif.jpg
+  20190531 Svet3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20190531_Svet3.jpg/400px-20190531_Svet3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20190531_Svet3.jpg/800px-20190531_Svet3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20190531_Svet3.jpg/1200px-20190531_Svet3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20190531_Svet3.jpg/1920px-20190531_Svet3.jpg
+  NSG Alter Neckar IMG 4398 by Vux.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NSG_Alter_Neckar_IMG_4398_by_Vux.JPG/400px-NSG_Alter_Neckar_IMG_4398_by_Vux.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NSG_Alter_Neckar_IMG_4398_by_Vux.JPG/800px-NSG_Alter_Neckar_IMG_4398_by_Vux.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NSG_Alter_Neckar_IMG_4398_by_Vux.JPG/1200px-NSG_Alter_Neckar_IMG_4398_by_Vux.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NSG_Alter_Neckar_IMG_4398_by_Vux.JPG/1920px-NSG_Alter_Neckar_IMG_4398_by_Vux.JPG
 ---
 
 ## Overview

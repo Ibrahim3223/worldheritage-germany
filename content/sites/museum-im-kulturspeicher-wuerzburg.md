@@ -21,9 +21,9 @@ longitude: 9.92236
 
 # Images
 images:
-  - "/images-sites/museum-im-kulturspeicher-wuerzburg/01-caa920ab-800w.webp"
-  - "/images-sites/museum-im-kulturspeicher-wuerzburg/02-c25089f1-800w.webp"
-  - "/images-sites/museum-im-kulturspeicher-wuerzburg/03-0578be3d-800w.webp"
+  - "/images/museum-im-kulturspeicher-wuerzburg/01-caa920ab-800w.webp"
+  - "/images/museum-im-kulturspeicher-wuerzburg/02-c25089f1-800w.webp"
+  - "/images/museum-im-kulturspeicher-wuerzburg/03-0578be3d-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Jonsdorfer Felsenstadt"
+title: Jonsdorfer Felsenstadt
 date: 2026-01-23
 draft: false
-description: "nature reserve in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8468
 longitude: 14.6837
 images:
-  - "/images-sites/jonsdorfer-felsenstadt/01-ee893331-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/D27_Jonsdorf_Felsenstadt.jpg/1200px-D27_Jonsdorf_Felsenstadt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JonsdorferFelsenstadt-1.jpg/1200px-JonsdorferFelsenstadt-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zittauer_Gebirge_-_panoramio_(1).jpg/1200px-Zittauer_Gebirge_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nonnen4.jpg/1200px-Nonnen4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg/1200px-Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg
+image_srcset:
+  D27 Jonsdorf Felsenstadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/D27_Jonsdorf_Felsenstadt.jpg/400px-D27_Jonsdorf_Felsenstadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/D27_Jonsdorf_Felsenstadt.jpg/800px-D27_Jonsdorf_Felsenstadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/D27_Jonsdorf_Felsenstadt.jpg/1200px-D27_Jonsdorf_Felsenstadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/D27_Jonsdorf_Felsenstadt.jpg/1920px-D27_Jonsdorf_Felsenstadt.jpg
+  JonsdorferFelsenstadt-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JonsdorferFelsenstadt-1.jpg/400px-JonsdorferFelsenstadt-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JonsdorferFelsenstadt-1.jpg/800px-JonsdorferFelsenstadt-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JonsdorferFelsenstadt-1.jpg/1200px-JonsdorferFelsenstadt-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/JonsdorferFelsenstadt-1.jpg/1920px-JonsdorferFelsenstadt-1.jpg
+  Zittauer Gebirge - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zittauer_Gebirge_-_panoramio_(1).jpg/400px-Zittauer_Gebirge_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zittauer_Gebirge_-_panoramio_(1).jpg/800px-Zittauer_Gebirge_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zittauer_Gebirge_-_panoramio_(1).jpg/1200px-Zittauer_Gebirge_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Zittauer_Gebirge_-_panoramio_(1).jpg/1920px-Zittauer_Gebirge_-_panoramio_(1).jpg
+  Nonnen4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nonnen4.jpg/400px-Nonnen4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nonnen4.jpg/800px-Nonnen4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nonnen4.jpg/1200px-Nonnen4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nonnen4.jpg/1920px-Nonnen4.jpg
+  Fotothek df rp-d 0690064 Jonsdorf. Oberreit, Sect. Zittau, 1844-46.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg/400px-Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg/800px-Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg/1200px-Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg/1920px-Fotothek_df_rp-d_0690064_Jonsdorf._Oberreit,_Sect._Zittau,_1844-46.jpg
 ---
 
 ## Overview

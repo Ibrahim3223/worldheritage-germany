@@ -1,21 +1,49 @@
 ---
-title: "Heligoland Düne Lighthouse"
+title: Heligoland Düne Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse on Heligoland Düne island, Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse on Heligoland Düne island, Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.182289
 longitude: 7.914062
 images:
-  - "/images-sites/heligoland-duene-lighthouse/01-1c037707-800w.webp"
-  - "/images-sites/heligoland-duene-lighthouse/02-d0a43118-800w.webp"
-  - "/images-sites/heligoland-duene-lighthouse/03-9b91318c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Leuchtturm_Helgoland_Düne.jpg/1200px-Leuchtturm_Helgoland_Düne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Helgoland_Duene_-_Flugzeug.jpg/1200px-Helgoland_Duene_-_Flugzeug.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Leuchtturm_Düne_29.07.2015.JPG/1200px-Leuchtturm_Düne_29.07.2015.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Helgoland_Leuchtturm_Duene.jpg/1200px-Helgoland_Leuchtturm_Duene.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Helgoland_Leuchtturm_Duene_2.jpg/1200px-Helgoland_Leuchtturm_Duene_2.jpg
+image_srcset:
+  Leuchtturm Helgoland Düne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Leuchtturm_Helgoland_Düne.jpg/400px-Leuchtturm_Helgoland_Düne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Leuchtturm_Helgoland_Düne.jpg/800px-Leuchtturm_Helgoland_Düne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Leuchtturm_Helgoland_Düne.jpg/1200px-Leuchtturm_Helgoland_Düne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Leuchtturm_Helgoland_Düne.jpg/1920px-Leuchtturm_Helgoland_Düne.jpg
+  Helgoland Duene - Flugzeug.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Helgoland_Duene_-_Flugzeug.jpg/400px-Helgoland_Duene_-_Flugzeug.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Helgoland_Duene_-_Flugzeug.jpg/800px-Helgoland_Duene_-_Flugzeug.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Helgoland_Duene_-_Flugzeug.jpg/1200px-Helgoland_Duene_-_Flugzeug.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Helgoland_Duene_-_Flugzeug.jpg/1920px-Helgoland_Duene_-_Flugzeug.jpg
+  Leuchtturm Düne 29.07.2015.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Leuchtturm_Düne_29.07.2015.JPG/400px-Leuchtturm_Düne_29.07.2015.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Leuchtturm_Düne_29.07.2015.JPG/800px-Leuchtturm_Düne_29.07.2015.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Leuchtturm_Düne_29.07.2015.JPG/1200px-Leuchtturm_Düne_29.07.2015.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Leuchtturm_Düne_29.07.2015.JPG/1920px-Leuchtturm_Düne_29.07.2015.JPG
+  Helgoland Leuchtturm Duene.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Helgoland_Leuchtturm_Duene.jpg/400px-Helgoland_Leuchtturm_Duene.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Helgoland_Leuchtturm_Duene.jpg/800px-Helgoland_Leuchtturm_Duene.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Helgoland_Leuchtturm_Duene.jpg/1200px-Helgoland_Leuchtturm_Duene.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Helgoland_Leuchtturm_Duene.jpg/1920px-Helgoland_Leuchtturm_Duene.jpg
+  Helgoland Leuchtturm Duene 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Helgoland_Leuchtturm_Duene_2.jpg/400px-Helgoland_Leuchtturm_Duene_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Helgoland_Leuchtturm_Duene_2.jpg/800px-Helgoland_Leuchtturm_Duene_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Helgoland_Leuchtturm_Duene_2.jpg/1200px-Helgoland_Leuchtturm_Duene_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Helgoland_Leuchtturm_Duene_2.jpg/1920px-Helgoland_Leuchtturm_Duene_2.jpg
 ---
 
 ## Overview

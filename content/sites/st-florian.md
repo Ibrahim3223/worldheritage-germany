@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2316062"
 description: "St. Florian, located in the Wittmund region of Germany, is a striking church building that captures the essence of Neoclassical architecture. Founded in..."
 images:
-  - "/images-sites/st-florian/01-4bf71d4d-1920w.webp"
-  - "/images-sites/st-florian/02-53346fa3-1920w.webp"
-  - "/images-sites/st-florian/03-e532e808-1920w.webp"
+  - "/images/st-florian/01-4bf71d4d-1920w.webp"
+  - "/images/st-florian/02-53346fa3-1920w.webp"
+  - "/images/st-florian/03-e532e808-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.67763
 longitude: 7.875367
 images:
-  - "/images-sites/ruine-burgholz/01-59fb6ce4-800w.webp"
+  - "/images/ruine-burgholz/01-59fb6ce4-800w.webp"
 ---
 
 ## Overview

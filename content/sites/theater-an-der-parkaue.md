@@ -13,7 +13,7 @@ regions:
 latitude: 52.5169
 longitude: 13.4772
 images:
-  - "/images-sites/theater-an-der-parkaue/01-4cb0ebc8-800w.webp"
+  - "/images/theater-an-der-parkaue/01-4cb0ebc8-800w.webp"
 ---
 
 ## Overview

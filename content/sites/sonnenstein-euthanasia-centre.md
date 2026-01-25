@@ -13,7 +13,7 @@ regions:
 latitude: 50.9615
 longitude: 13.9509
 images:
-  - "/images-sites/sonnenstein-euthanasia-centre/01-8e6fcb0c-800w.webp"
+  - "/images/sonnenstein-euthanasia-centre/01-8e6fcb0c-800w.webp"
 ---
 
 ## Overview

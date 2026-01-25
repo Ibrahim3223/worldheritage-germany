@@ -1,19 +1,43 @@
 ---
-title: "Burg Reichenstein (Westerwald)"
+title: Burg Reichenstein (Westerwald)
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6062
 longitude: 7.59608
 images:
-  - "/images-sites/burg-reichenstein-westerwald/01-56a1a2d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Reichenstein_2.JPG/1200px-Burg_Reichenstein_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg/1200px-Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg/1200px-Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Reichenstein,_Puderbach.jpg/1200px-Burgruine_Reichenstein,_Puderbach.jpg
+image_srcset:
+  Burg Reichenstein 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Reichenstein_2.JPG/400px-Burg_Reichenstein_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Reichenstein_2.JPG/800px-Burg_Reichenstein_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Reichenstein_2.JPG/1200px-Burg_Reichenstein_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Reichenstein_2.JPG/1920px-Burg_Reichenstein_2.JPG
+  Reichenstein Dorf u Ruine Strunkeich Richert.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg/400px-Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg/800px-Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg/1200px-Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg/1920px-Reichenstein_Dorf_u_Ruine_Strunkeich_Richert.jpg
+  Burg Reichenstein (Puderbach) Senkrechtaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg/400px-Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg/800px-Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg/1200px-Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg/1920px-Burg_Reichenstein_(Puderbach)_Senkrechtaufnahme.jpg
+  Burgruine Reichenstein, Puderbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Reichenstein,_Puderbach.jpg/400px-Burgruine_Reichenstein,_Puderbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Reichenstein,_Puderbach.jpg/800px-Burgruine_Reichenstein,_Puderbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Reichenstein,_Puderbach.jpg/1200px-Burgruine_Reichenstein,_Puderbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Reichenstein,_Puderbach.jpg/1920px-Burgruine_Reichenstein,_Puderbach.jpg
 ---
 
 ## Overview

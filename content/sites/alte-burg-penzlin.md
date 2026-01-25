@@ -1,27 +1,43 @@
 ---
-title: "Alte Burg Penzlin"
+title: Alte Burg Penzlin
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.5069
 longitude: 13.0889
-
-# Images
 images:
-  - "/images-sites/alte-burg-penzlin/01-26140b0e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg/1200px-20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg/1200px-20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg/1200px-20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19-08-10-Burg-Penzlin-RalfR.jpg/1200px-19-08-10-Burg-Penzlin-RalfR.jpg
+image_srcset:
+  20030708360DR Penzlin Alte Burg Penzlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg/400px-20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg/800px-20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg/1200px-20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg/1920px-20030708360DR_Penzlin_Alte_Burg_Penzlin.jpg
+  20030708380DR Penzlin Alte Burg Penzlin Hexenkeller.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg/400px-20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg/800px-20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg/1200px-20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg/1920px-20030708380DR_Penzlin_Alte_Burg_Penzlin_Hexenkeller.jpg
+  20030708350DR Penzlin Alte Burg Penzlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg/400px-20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg/800px-20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg/1200px-20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg/1920px-20030708350DR_Penzlin_Alte_Burg_Penzlin.jpg
+  19-08-10-Burg-Penzlin-RalfR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19-08-10-Burg-Penzlin-RalfR.jpg/400px-19-08-10-Burg-Penzlin-RalfR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19-08-10-Burg-Penzlin-RalfR.jpg/800px-19-08-10-Burg-Penzlin-RalfR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19-08-10-Burg-Penzlin-RalfR.jpg/1200px-19-08-10-Burg-Penzlin-RalfR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/19-08-10-Burg-Penzlin-RalfR.jpg/1920px-19-08-10-Burg-Penzlin-RalfR.jpg
 ---
 
 ## Overview

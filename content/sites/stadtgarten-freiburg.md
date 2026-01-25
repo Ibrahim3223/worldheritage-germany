@@ -13,7 +13,7 @@ regions:
 latitude: 47.997796
 longitude: 7.857407
 images:
-  - "/images-sites/stadtgarten-freiburg/01-5e0090ce-800w.webp"
+  - "/images/stadtgarten-freiburg/01-5e0090ce-800w.webp"
 ---
 
 ## Overview

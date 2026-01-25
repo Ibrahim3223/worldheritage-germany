@@ -13,7 +13,7 @@ regions:
 latitude: 48.2081
 longitude: 12.9291
 images:
-  - "/images-sites/salzach/01-cfc8b3d8-800w.webp"
+  - "/images/salzach/01-cfc8b3d8-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Botanical Garden Potsdam"
+title: Botanical Garden Potsdam
 date: 2026-01-23
 draft: false
-description: "part of University of Potsdam (Germany), situated in Sanssouci Park"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: part of University of Potsdam (Germany), situated in Sanssouci Park
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.4041
 longitude: 13.0252
-
-# Images
 images:
-  - "/images-sites/botanical-garden-potsdam/01-06c9c9ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potsdam,_Botanischer_Garten.jpg/1200px-Potsdam,_Botanischer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2025BotGartenPotsdam.jpg/1200px-2025BotGartenPotsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1200px-ParadiesgartenTeich_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG/1200px-BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG/1200px-BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG
+image_srcset:
+  Potsdam, Botanischer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potsdam,_Botanischer_Garten.jpg/400px-Potsdam,_Botanischer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potsdam,_Botanischer_Garten.jpg/800px-Potsdam,_Botanischer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potsdam,_Botanischer_Garten.jpg/1200px-Potsdam,_Botanischer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Potsdam,_Botanischer_Garten.jpg/1920px-Potsdam,_Botanischer_Garten.jpg
+  2025BotGartenPotsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2025BotGartenPotsdam.jpg/400px-2025BotGartenPotsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2025BotGartenPotsdam.jpg/800px-2025BotGartenPotsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2025BotGartenPotsdam.jpg/1200px-2025BotGartenPotsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2025BotGartenPotsdam.jpg/1920px-2025BotGartenPotsdam.jpg
+  ParadiesgartenTeich 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/400px-ParadiesgartenTeich_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/800px-ParadiesgartenTeich_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1200px-ParadiesgartenTeich_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ParadiesgartenTeich_2.JPG/1920px-ParadiesgartenTeich_2.JPG
+  BotanischerGartenPotsdam NordteilHeidegartenBrunnenhausWassertreppe0706.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG/400px-BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG/800px-BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG/1200px-BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG/1920px-BotanischerGartenPotsdam_NordteilHeidegartenBrunnenhausWassertreppe0706.JPG
+  BotanischerGartenPotsdam GewaechshaeuserEingang0706a.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG/400px-BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG/800px-BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG/1200px-BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG/1920px-BotanischerGartenPotsdam_GewaechshaeuserEingang0706a.JPG
 ---
 
 ## Overview

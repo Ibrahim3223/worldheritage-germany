@@ -1,27 +1,25 @@
 ---
-title: "Braak Bog Figures"
+title: Braak Bog Figures
 date: 2026-01-23
 draft: false
-description: "archaeological site in Schleswig-Holstein, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: archaeological site in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.1034
 longitude: 10.5931
-
-# Images
 images:
-  - "/images-sites/braak-bog-figures/01-853b8e32-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Braak_Bog_Figures.JPG/1200px-Braak_Bog_Figures.JPG
+image_srcset:
+  Braak Bog Figures.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Braak_Bog_Figures.JPG/400px-Braak_Bog_Figures.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Braak_Bog_Figures.JPG/800px-Braak_Bog_Figures.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Braak_Bog_Figures.JPG/1200px-Braak_Bog_Figures.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Braak_Bog_Figures.JPG/1920px-Braak_Bog_Figures.JPG
 ---
 
 ## Overview

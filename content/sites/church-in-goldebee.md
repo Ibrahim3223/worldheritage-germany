@@ -1,19 +1,44 @@
 ---
-title: "Church in Goldebee"
-site_name: "Church in Goldebee"
-slug: "church-in-goldebee"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Goldebee
+site_name: Church in Goldebee
+slug: church-in-goldebee
+region: Mecklenburg-Vorpommern
 latitude: 53.8986
 longitude: 11.6142
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244303"
-description: "The Church in Goldebee is a striking example of Brick Gothic architecture, standing as a testament to the skilled craftsmanship of its era. This church,..."
+- cultural site
+wikidata_id: Q1244303
+description: The Church in Goldebee is a striking example of Brick Gothic architecture,
+  standing as a testament to the skilled craftsmanship of its era. This church,...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goldebee%20Kirche%202008-11-13%20041.jpg/1200px-Goldebee%20Kirche%202008-11-13%20041.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Goldebee_Kirche_2008-11-13_038.jpg/1200px-Goldebee_Kirche_2008-11-13_038.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/1200px-Goldebee_Kirche_2008-11-13_041.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goldebee_Kirche_2008-11-13_042.jpg/1200px-Goldebee_Kirche_2008-11-13_042.jpg
+image_srcset:
+  Goldebee%20Kirche%202008-11-13%20041.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goldebee%20Kirche%202008-11-13%20041.jpg/400px-Goldebee%20Kirche%202008-11-13%20041.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goldebee%20Kirche%202008-11-13%20041.jpg/800px-Goldebee%20Kirche%202008-11-13%20041.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goldebee%20Kirche%202008-11-13%20041.jpg/1200px-Goldebee%20Kirche%202008-11-13%20041.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Goldebee%20Kirche%202008-11-13%20041.jpg/1920px-Goldebee%20Kirche%202008-11-13%20041.jpg
+  Goldebee Kirche 2008-11-13 038.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Goldebee_Kirche_2008-11-13_038.jpg/400px-Goldebee_Kirche_2008-11-13_038.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Goldebee_Kirche_2008-11-13_038.jpg/800px-Goldebee_Kirche_2008-11-13_038.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Goldebee_Kirche_2008-11-13_038.jpg/1200px-Goldebee_Kirche_2008-11-13_038.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Goldebee_Kirche_2008-11-13_038.jpg/1920px-Goldebee_Kirche_2008-11-13_038.jpg
+  Goldebee Kirche 2008-11-13 041.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/400px-Goldebee_Kirche_2008-11-13_041.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/800px-Goldebee_Kirche_2008-11-13_041.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/1200px-Goldebee_Kirche_2008-11-13_041.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Goldebee_Kirche_2008-11-13_041.jpg/1920px-Goldebee_Kirche_2008-11-13_041.jpg
+  Goldebee Kirche 2008-11-13 042.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goldebee_Kirche_2008-11-13_042.jpg/400px-Goldebee_Kirche_2008-11-13_042.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goldebee_Kirche_2008-11-13_042.jpg/800px-Goldebee_Kirche_2008-11-13_042.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goldebee_Kirche_2008-11-13_042.jpg/1200px-Goldebee_Kirche_2008-11-13_042.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Goldebee_Kirche_2008-11-13_042.jpg/1920px-Goldebee_Kirche_2008-11-13_042.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.72393056
 longitude: 9.93185556
 images:
-  - "/images-sites/observation-post-alpha/01-1de58d1d-800w.webp"
+  - "/images/observation-post-alpha/01-1de58d1d-800w.webp"
 ---
 
 ## Overview

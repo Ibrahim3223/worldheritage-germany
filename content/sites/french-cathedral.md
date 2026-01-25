@@ -1,23 +1,50 @@
 ---
-title: "French Cathedral"
-site_name: "French Cathedral"
-slug: "french-cathedral"
-region: "Berlin"
-
-# Location
+title: French Cathedral
+site_name: French Cathedral
+slug: french-cathedral
+region: Berlin
 latitude: 52.514444
 longitude: 13.392222
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q315694"
-description: "The French Cathedral, known as the Französischer Dom, stands as a striking example of neoclassical architecture in the heart of Berlin, Germany. This Pr..."
+- cultural site
+wikidata_id: Q315694
+description: The French Cathedral, known as the Französischer Dom, stands as a striking
+  example of neoclassical architecture in the heart of Berlin, Germany. This Pr...
 images:
-  - "/images-sites/french-cathedral/01-f0d76b64-1920w.webp"
-  - "/images-sites/french-cathedral/02-e43329a3-1920w.webp"
-  - "/images-sites/french-cathedral/03-faeb3341-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg/1200px-Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20240815_View_cupola_Berlin_Cathedral_08.jpg/1200px-20240815_View_cupola_Berlin_Cathedral_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg/1200px-Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1200px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg/1200px-Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg
+image_srcset:
+  Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg/400px-Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg/800px-Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg/1200px-Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg/1920px-Berlin%2C%20Franz%C3%B6sischer%20Dom%20--%202013%20--%204581.jpg
+  20240815 View cupola Berlin Cathedral 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20240815_View_cupola_Berlin_Cathedral_08.jpg/400px-20240815_View_cupola_Berlin_Cathedral_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20240815_View_cupola_Berlin_Cathedral_08.jpg/800px-20240815_View_cupola_Berlin_Cathedral_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20240815_View_cupola_Berlin_Cathedral_08.jpg/1200px-20240815_View_cupola_Berlin_Cathedral_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20240815_View_cupola_Berlin_Cathedral_08.jpg/1920px-20240815_View_cupola_Berlin_Cathedral_08.jpg
+  Catedral Francesa, Berlín, Alemania, 2016-04-22, DD 16-18 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg/400px-Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg/800px-Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg/1200px-Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg/1920px-Catedral_Francesa,_Berlín,_Alemania,_2016-04-22,_DD_16-18_HDR.jpg
+  Berlin, Französischer Dom -- 2013 -- 4581.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/400px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/800px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1200px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin,_Französischer_Dom_--_2013_--_4581.jpg/1920px-Berlin,_Französischer_Dom_--_2013_--_4581.jpg
+  Gendarmenmarkt (Plz d Akademie) 90 0058 P1190469.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg/400px-Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg/800px-Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg/1200px-Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg/1920px-Gendarmenmarkt_(Plz_d_Akademie)_90_0058_P1190469.jpg
 ---
 
 ## Overview

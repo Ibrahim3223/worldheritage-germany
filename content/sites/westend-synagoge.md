@@ -13,9 +13,9 @@ regions:
 latitude: 50.1211
 longitude: 8.66444
 images:
-  - "/images-sites/westend-synagoge/01-24e8be04-800w.webp"
-  - "/images-sites/westend-synagoge/02-2a421655-800w.webp"
-  - "/images-sites/westend-synagoge/03-75dcc5af-800w.webp"
+  - "/images/westend-synagoge/01-24e8be04-800w.webp"
+  - "/images/westend-synagoge/02-2a421655-800w.webp"
+  - "/images/westend-synagoge/03-75dcc5af-800w.webp"
 ---
 
 ## Overview

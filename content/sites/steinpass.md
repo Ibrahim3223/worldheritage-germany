@@ -13,7 +13,7 @@ regions:
 latitude: 47.6708
 longitude: 12.7569
 images:
-  - "/images-sites/steinpass/01-0545e876-800w.webp"
+  - "/images/steinpass/01-0545e876-800w.webp"
 ---
 
 ## Overview

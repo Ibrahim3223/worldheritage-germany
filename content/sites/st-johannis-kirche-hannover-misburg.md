@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2316240"
 description: "St.-Johannis-Kirche in Hannover-Misburg stands as a notable landmark within the vibrant community of Misburg-Anderten. This Lutheran church, constructed..."
 images:
-  - "/images-sites/st-johannis-kirche-hannover-misburg/01-f365bec8-1920w.webp"
-  - "/images-sites/st-johannis-kirche-hannover-misburg/02-7ca758d5-1920w.webp"
-  - "/images-sites/st-johannis-kirche-hannover-misburg/03-d03cf598-1920w.webp"
+  - "/images/st-johannis-kirche-hannover-misburg/01-f365bec8-1920w.webp"
+  - "/images/st-johannis-kirche-hannover-misburg/02-7ca758d5-1920w.webp"
+  - "/images/st-johannis-kirche-hannover-misburg/03-d03cf598-1920w.webp"
 ---
 
 ## Overview

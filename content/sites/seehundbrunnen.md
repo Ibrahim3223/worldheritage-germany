@@ -13,7 +13,7 @@ regions:
 latitude: 48.1656
 longitude: 11.579
 images:
-  - "/images-sites/seehundbrunnen/01-91b9e2f0-800w.webp"
+  - "/images/seehundbrunnen/01-91b9e2f0-800w.webp"
 ---
 
 ## Overview

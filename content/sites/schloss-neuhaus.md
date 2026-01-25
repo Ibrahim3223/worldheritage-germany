@@ -13,7 +13,7 @@ regions:
 latitude: 51.928
 longitude: 13.8923
 images:
-  - "/images-sites/schloss-neuhaus/01-b20326ff-800w.webp"
+  - "/images/schloss-neuhaus/01-b20326ff-800w.webp"
 ---
 
 ## Overview

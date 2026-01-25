@@ -13,7 +13,7 @@ regions:
 latitude: 54.1802
 longitude: 12.093
 images:
-  - "/images-sites/warnow/01-14bbaf8f-800w.webp"
+  - "/images/warnow/01-14bbaf8f-800w.webp"
 ---
 
 ## Overview

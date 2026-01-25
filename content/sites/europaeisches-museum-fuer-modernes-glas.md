@@ -1,19 +1,49 @@
 ---
-title: "Europäisches Museum für modernes Glas"
+title: Europäisches Museum für modernes Glas
 date: 2026-01-23
 draft: false
-description: "Museum in Rödental, Landkreis Coburg, Oberfranken, Bayern"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Museum in Rödental, Landkreis Coburg, Oberfranken, Bayern
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.295982
 longitude: 11.020505
 images:
-  - "/images-sites/europaeisches-museum-fuer-modernes-glas/01-de16ce39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg/1200px-Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_modernes_Glas.jpg/1200px-Europäisches_Museum_für_modernes_Glas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg/1200px-03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg/1200px-Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Europäisches_Museum_für_Modernes_Glas,_Logo.jpg/1200px-Europäisches_Museum_für_Modernes_Glas,_Logo.jpg
+image_srcset:
+  Europäisches Museum für Modernes Glas - Otto Waldrich Stiftung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg/400px-Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg/800px-Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg/1200px-Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg/1920px-Europäisches_Museum_für_Modernes_Glas_-_Otto_Waldrich_Stiftung.jpg
+  Europäisches Museum für modernes Glas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_modernes_Glas.jpg/400px-Europäisches_Museum_für_modernes_Glas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_modernes_Glas.jpg/800px-Europäisches_Museum_für_modernes_Glas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_modernes_Glas.jpg/1200px-Europäisches_Museum_für_modernes_Glas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Europäisches_Museum_für_modernes_Glas.jpg/1920px-Europäisches_Museum_für_modernes_Glas.jpg
+  03 Vera Liskova, Musik, 1977, KVC a.S.03204.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg/400px-03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg/800px-03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg/1200px-03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg/1920px-03_Vera_Liskova,_Musik,_1977,_KVC_a.S.03204.jpg
+  Europäisches Museum für Modernes Glas, Abendöffnung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg/400px-Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg/800px-Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg/1200px-Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg/1920px-Europäisches_Museum_für_Modernes_Glas,_Abendöffnung.jpg
+  Europäisches Museum für Modernes Glas, Logo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Europäisches_Museum_für_Modernes_Glas,_Logo.jpg/400px-Europäisches_Museum_für_Modernes_Glas,_Logo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Europäisches_Museum_für_Modernes_Glas,_Logo.jpg/800px-Europäisches_Museum_für_Modernes_Glas,_Logo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Europäisches_Museum_für_Modernes_Glas,_Logo.jpg/1200px-Europäisches_Museum_für_Modernes_Glas,_Logo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Europäisches_Museum_für_Modernes_Glas,_Logo.jpg/1920px-Europäisches_Museum_für_Modernes_Glas,_Logo.jpg
 ---
 
 ## Overview

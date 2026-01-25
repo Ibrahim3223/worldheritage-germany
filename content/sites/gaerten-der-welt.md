@@ -1,19 +1,49 @@
 ---
-title: "Gärten der Welt"
+title: Gärten der Welt
 date: 2026-01-23
 draft: false
-description: "park in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.539444444
 longitude: 13.576666666
 images:
-  - "/images-sites/gaerten-der-welt/01-39f07c4b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg/1200px-Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg/1200px-Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kienberg_B-Marzahn_06-2017_img14.jpg/1200px-Kienberg_B-Marzahn_06-2017_img14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/1200px-Erholungspark_Marzahn_2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg/1200px-U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg
+image_srcset:
+  Marzahn Gaerten der Welt 08-2015 img08 Chinese Garden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg/400px-Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg/800px-Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg/1200px-Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg/1920px-Marzahn_Gaerten_der_Welt_08-2015_img08_Chinese_Garden.jpg
+  Marzahn Gaerten der Welt 08-2015 img04 Japanese Garden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg/400px-Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg/800px-Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg/1200px-Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg/1920px-Marzahn_Gaerten_der_Welt_08-2015_img04_Japanese_Garden.jpg
+  Kienberg B-Marzahn 06-2017 img14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kienberg_B-Marzahn_06-2017_img14.jpg/400px-Kienberg_B-Marzahn_06-2017_img14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kienberg_B-Marzahn_06-2017_img14.jpg/800px-Kienberg_B-Marzahn_06-2017_img14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kienberg_B-Marzahn_06-2017_img14.jpg/1200px-Kienberg_B-Marzahn_06-2017_img14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kienberg_B-Marzahn_06-2017_img14.jpg/1920px-Kienberg_B-Marzahn_06-2017_img14.jpg
+  Erholungspark Marzahn 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/400px-Erholungspark_Marzahn_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/800px-Erholungspark_Marzahn_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/1200px-Erholungspark_Marzahn_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Erholungspark_Marzahn_2009.jpg/1920px-Erholungspark_Marzahn_2009.jpg
+  U-Bahnhof Kienberg (Gärten der Welt), Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg/400px-U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg/800px-U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg/1200px-U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg/1920px-U-Bahnhof_Kienberg_(Gärten_der_Welt),_Berlin.jpg
 ---
 
 ## Overview

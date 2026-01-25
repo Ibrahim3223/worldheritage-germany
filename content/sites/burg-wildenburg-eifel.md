@@ -1,27 +1,49 @@
 ---
-title: "Burg Wildenburg (Eifel)"
+title: Burg Wildenburg (Eifel)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.462
 longitude: 6.49409
-
-# Images
 images:
-  - "/images-sites/burg-wildenburg-eifel/01-6f8ced16-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildenburg_(Hellenthal)_80.jpg/1200px-Wildenburg_(Hellenthal)_80.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wildenburg_(Hellenthal)_01.jpg/1200px-Wildenburg_(Hellenthal)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wildenburg_(Hellenthal)_23.jpg/1200px-Wildenburg_(Hellenthal)_23.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wildenburg_(Hellenthal)_29.jpg/1200px-Wildenburg_(Hellenthal)_29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wildenburg_1997.jpg/1200px-Wildenburg_1997.jpg
+image_srcset:
+  Wildenburg (Hellenthal) 80.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildenburg_(Hellenthal)_80.jpg/400px-Wildenburg_(Hellenthal)_80.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildenburg_(Hellenthal)_80.jpg/800px-Wildenburg_(Hellenthal)_80.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildenburg_(Hellenthal)_80.jpg/1200px-Wildenburg_(Hellenthal)_80.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wildenburg_(Hellenthal)_80.jpg/1920px-Wildenburg_(Hellenthal)_80.jpg
+  Wildenburg (Hellenthal) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wildenburg_(Hellenthal)_01.jpg/400px-Wildenburg_(Hellenthal)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wildenburg_(Hellenthal)_01.jpg/800px-Wildenburg_(Hellenthal)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wildenburg_(Hellenthal)_01.jpg/1200px-Wildenburg_(Hellenthal)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wildenburg_(Hellenthal)_01.jpg/1920px-Wildenburg_(Hellenthal)_01.jpg
+  Wildenburg (Hellenthal) 23.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wildenburg_(Hellenthal)_23.jpg/400px-Wildenburg_(Hellenthal)_23.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wildenburg_(Hellenthal)_23.jpg/800px-Wildenburg_(Hellenthal)_23.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wildenburg_(Hellenthal)_23.jpg/1200px-Wildenburg_(Hellenthal)_23.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wildenburg_(Hellenthal)_23.jpg/1920px-Wildenburg_(Hellenthal)_23.jpg
+  Wildenburg (Hellenthal) 29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wildenburg_(Hellenthal)_29.jpg/400px-Wildenburg_(Hellenthal)_29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wildenburg_(Hellenthal)_29.jpg/800px-Wildenburg_(Hellenthal)_29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wildenburg_(Hellenthal)_29.jpg/1200px-Wildenburg_(Hellenthal)_29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wildenburg_(Hellenthal)_29.jpg/1920px-Wildenburg_(Hellenthal)_29.jpg
+  Wildenburg 1997.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wildenburg_1997.jpg/400px-Wildenburg_1997.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wildenburg_1997.jpg/800px-Wildenburg_1997.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wildenburg_1997.jpg/1200px-Wildenburg_1997.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wildenburg_1997.jpg/1920px-Wildenburg_1997.jpg
 ---
 
 ## Overview

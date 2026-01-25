@@ -1,19 +1,37 @@
 ---
-title: "Contra-Kreis-Theater"
+title: Contra-Kreis-Theater
 date: 2026-01-24
 draft: false
-description: "oldest privately owned theater in Bonn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: oldest privately owned theater in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7334
 longitude: 7.10119
 images:
-  - "/images-sites/contra-kreis-theater/01-cde36ded-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Contra-Kreis-Theater_Theatersaal.jpg/1200px-Contra-Kreis-Theater_Theatersaal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bonn_Contra-Kreis-Theater.jpg/1200px-Bonn_Contra-Kreis-Theater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1200px-Contra_kreis_theater_bonn_eingang_2008.jpg
+image_srcset:
+  Contra-Kreis-Theater Theatersaal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Contra-Kreis-Theater_Theatersaal.jpg/400px-Contra-Kreis-Theater_Theatersaal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Contra-Kreis-Theater_Theatersaal.jpg/800px-Contra-Kreis-Theater_Theatersaal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Contra-Kreis-Theater_Theatersaal.jpg/1200px-Contra-Kreis-Theater_Theatersaal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Contra-Kreis-Theater_Theatersaal.jpg/1920px-Contra-Kreis-Theater_Theatersaal.jpg
+  Bonn Contra-Kreis-Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bonn_Contra-Kreis-Theater.jpg/400px-Bonn_Contra-Kreis-Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bonn_Contra-Kreis-Theater.jpg/800px-Bonn_Contra-Kreis-Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bonn_Contra-Kreis-Theater.jpg/1200px-Bonn_Contra-Kreis-Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bonn_Contra-Kreis-Theater.jpg/1920px-Bonn_Contra-Kreis-Theater.jpg
+  Contra kreis theater bonn eingang 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/400px-Contra_kreis_theater_bonn_eingang_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/800px-Contra_kreis_theater_bonn_eingang_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1200px-Contra_kreis_theater_bonn_eingang_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Contra_kreis_theater_bonn_eingang_2008.jpg/1920px-Contra_kreis_theater_bonn_eingang_2008.jpg
 ---
 
 ## Overview

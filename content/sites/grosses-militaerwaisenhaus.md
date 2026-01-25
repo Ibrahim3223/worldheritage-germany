@@ -1,19 +1,49 @@
 ---
-title: "Großes Militärwaisenhaus"
+title: Großes Militärwaisenhaus
 date: 2026-01-23
 draft: false
-description: "building group in Potsdam, Germany, former a large military orphanage"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: building group in Potsdam, Germany, former a large military orphanage
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.396325
 longitude: 13.051589
 images:
-  - "/images-sites/grosses-militaerwaisenhaus/01-19a21eab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_Großes_Militärwaisenhaus-001.jpg/1200px-Potsdam_Großes_Militärwaisenhaus-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg/1200px-Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Potsdam_Großes_Militärwaisenhaus-002.jpg/1200px-Potsdam_Großes_Militärwaisenhaus-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg/1200px-WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1200px-Potsdam_Großes_Militärwaisenhaus.jpg
+image_srcset:
+  Potsdam Großes Militärwaisenhaus-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_Großes_Militärwaisenhaus-001.jpg/400px-Potsdam_Großes_Militärwaisenhaus-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_Großes_Militärwaisenhaus-001.jpg/800px-Potsdam_Großes_Militärwaisenhaus-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_Großes_Militärwaisenhaus-001.jpg/1200px-Potsdam_Großes_Militärwaisenhaus-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Potsdam_Großes_Militärwaisenhaus-001.jpg/1920px-Potsdam_Großes_Militärwaisenhaus-001.jpg
+  Potsdam Großes Militärwaisenhaus Kuppelblick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg/400px-Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg/800px-Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg/1200px-Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg/1920px-Potsdam_Großes_Militärwaisenhaus_Kuppelblick.jpg
+  Potsdam Großes Militärwaisenhaus-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Potsdam_Großes_Militärwaisenhaus-002.jpg/400px-Potsdam_Großes_Militärwaisenhaus-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Potsdam_Großes_Militärwaisenhaus-002.jpg/800px-Potsdam_Großes_Militärwaisenhaus-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Potsdam_Großes_Militärwaisenhaus-002.jpg/1200px-Potsdam_Großes_Militärwaisenhaus-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Potsdam_Großes_Militärwaisenhaus-002.jpg/1920px-Potsdam_Großes_Militärwaisenhaus-002.jpg
+  WikiCon 2025 Rahmenprogramm Stadtführung durch Plätze und Hinterhöfe in Potsdam (10) P1240038 2025-10-04 yj.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg/400px-WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg/800px-WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg/1200px-WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg/1920px-WikiCon_2025_Rahmenprogramm_Stadtführung_durch_Plätze_und_Hinterhöfe_in_Potsdam_(10)_P1240038_2025-10-04_yj.jpg
+  Potsdam Großes Militärwaisenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/400px-Potsdam_Großes_Militärwaisenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/800px-Potsdam_Großes_Militärwaisenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1200px-Potsdam_Großes_Militärwaisenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Potsdam_Großes_Militärwaisenhaus.jpg/1920px-Potsdam_Großes_Militärwaisenhaus.jpg
 ---
 
 ## Overview

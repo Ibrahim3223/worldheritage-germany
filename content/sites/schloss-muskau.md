@@ -21,7 +21,7 @@ longitude: 14.72320278
 
 # Images
 images:
-  - "/images-sites/schloss-muskau/01-9366d86c-800w.webp"
+  - "/images/schloss-muskau/01-9366d86c-800w.webp"
 ---
 
 ## Overview

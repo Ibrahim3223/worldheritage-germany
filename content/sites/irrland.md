@@ -1,19 +1,49 @@
 ---
-title: "Irrland"
+title: Irrland
 date: 2026-01-24
 draft: false
-description: "Freizeitpark"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: Freizeitpark
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 51.55555556
 longitude: 6.20472222
 images:
-  - "/images-sites/irrland/01-0c91b8a8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Irrland_Keveler_-_panoramio_(20).jpg/1200px-Irrland_Keveler_-_panoramio_(20).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrland_Keveler_-_panoramio_(3).jpg/1200px-Irrland_Keveler_-_panoramio_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Irrland_Keveler_-_panoramio_(7).jpg/1200px-Irrland_Keveler_-_panoramio_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg/1200px-Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg/1200px-Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg
+image_srcset:
+  Irrland Keveler - panoramio (20).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Irrland_Keveler_-_panoramio_(20).jpg/400px-Irrland_Keveler_-_panoramio_(20).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Irrland_Keveler_-_panoramio_(20).jpg/800px-Irrland_Keveler_-_panoramio_(20).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Irrland_Keveler_-_panoramio_(20).jpg/1200px-Irrland_Keveler_-_panoramio_(20).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Irrland_Keveler_-_panoramio_(20).jpg/1920px-Irrland_Keveler_-_panoramio_(20).jpg
+  Irrland Keveler - panoramio (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrland_Keveler_-_panoramio_(3).jpg/400px-Irrland_Keveler_-_panoramio_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrland_Keveler_-_panoramio_(3).jpg/800px-Irrland_Keveler_-_panoramio_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrland_Keveler_-_panoramio_(3).jpg/1200px-Irrland_Keveler_-_panoramio_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Irrland_Keveler_-_panoramio_(3).jpg/1920px-Irrland_Keveler_-_panoramio_(3).jpg
+  Irrland Keveler - panoramio (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Irrland_Keveler_-_panoramio_(7).jpg/400px-Irrland_Keveler_-_panoramio_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Irrland_Keveler_-_panoramio_(7).jpg/800px-Irrland_Keveler_-_panoramio_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Irrland_Keveler_-_panoramio_(7).jpg/1200px-Irrland_Keveler_-_panoramio_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Irrland_Keveler_-_panoramio_(7).jpg/1920px-Irrland_Keveler_-_panoramio_(7).jpg
+  Twisteden - Vierspänner am Kreisel - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg/400px-Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg/800px-Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg/1200px-Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg/1920px-Twisteden_-_Vierspänner_am_Kreisel_-_panoramio.jpg
+  Irrland Kevelaer-Twisteden - Haupteingang (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg/400px-Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg/800px-Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg/1200px-Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg/1920px-Irrland_Kevelaer-Twisteden_-_Haupteingang_(1).jpg
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Hochmeisterkirche"
-site_name: "Hochmeisterkirche"
-slug: "hochmeisterkirche"
-region: "Berlin"
-
-# Location
+title: Hochmeisterkirche
+site_name: Hochmeisterkirche
+slug: hochmeisterkirche
+region: Berlin
 latitude: 52.4947
 longitude: 13.3001
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1319889"
-description: "In the heart of Charlottenburg-Wilmersdorf, the Hochmeisterkirche stands as a remarkable example of early 20th-century architecture. Built in 1908, this..."
+- church building
+- religious site
+wikidata_id: Q1319889
+description: In the heart of Charlottenburg-Wilmersdorf, the Hochmeisterkirche stands
+  as a remarkable example of early 20th-century architecture. Built in 1908, this...
 images:
-  - "/images-sites/hochmeisterkirche/01-c4a689db-1920w.webp"
-  - "/images-sites/hochmeisterkirche/02-1d495a88-1920w.webp"
-  - "/images-sites/hochmeisterkirche/03-e6a68501-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg/1200px-Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1200px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Halensee_Hochmeisterkirche_Pavillon.jpg/1200px-Halensee_Hochmeisterkirche_Pavillon.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Halensee_Hochmeisterkirche_Pavillon-001.jpg/1200px-Halensee_Hochmeisterkirche_Pavillon-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG/1200px-Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG
+image_srcset:
+  Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg/400px-Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg/800px-Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg/1200px-Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg/1920px-Hochmeister-Kirche%20Berlin-Halensee%2007-2015.jpg
+  Hochmeister-Kirche Berlin-Halensee 07-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/400px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/800px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1200px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg/1920px-Hochmeister-Kirche_Berlin-Halensee_07-2015.jpg
+  Halensee Hochmeisterkirche Pavillon.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Halensee_Hochmeisterkirche_Pavillon.jpg/400px-Halensee_Hochmeisterkirche_Pavillon.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Halensee_Hochmeisterkirche_Pavillon.jpg/800px-Halensee_Hochmeisterkirche_Pavillon.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Halensee_Hochmeisterkirche_Pavillon.jpg/1200px-Halensee_Hochmeisterkirche_Pavillon.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Halensee_Hochmeisterkirche_Pavillon.jpg/1920px-Halensee_Hochmeisterkirche_Pavillon.jpg
+  Halensee Hochmeisterkirche Pavillon-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Halensee_Hochmeisterkirche_Pavillon-001.jpg/400px-Halensee_Hochmeisterkirche_Pavillon-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Halensee_Hochmeisterkirche_Pavillon-001.jpg/800px-Halensee_Hochmeisterkirche_Pavillon-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Halensee_Hochmeisterkirche_Pavillon-001.jpg/1200px-Halensee_Hochmeisterkirche_Pavillon-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Halensee_Hochmeisterkirche_Pavillon-001.jpg/1920px-Halensee_Hochmeisterkirche_Pavillon-001.jpg
+  Berlin, Hochmeisterkirche, Ansicht Chor (2008-11-28).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG/400px-Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG/800px-Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG/1200px-Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG/1920px-Berlin,_Hochmeisterkirche,_Ansicht_Chor_(2008-11-28).JPG
 ---
 
 ## Overview

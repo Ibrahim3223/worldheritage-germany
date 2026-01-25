@@ -1,24 +1,45 @@
 ---
-title: "Gandersumer Kirche"
-site_name: "Gandersumer Kirche"
-slug: "gandersumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Gandersumer Kirche
+site_name: Gandersumer Kirche
+slug: gandersumer-kirche
+region: Lower Saxony
 latitude: 53.323523
 longitude: 7.312125
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1493364"
-description: "Gandersumer Kirche, a notable church building located in the picturesque region of Moormerland, Germany, stands as a testament to Romanesque architectur..."
+- church building
+- religious site
+wikidata_id: Q1493364
+description: Gandersumer Kirche, a notable church building located in the picturesque
+  region of Moormerland, Germany, stands as a testament to Romanesque architectur...
 images:
-  - "/images-sites/gandersumer-kirche/01-e1d62637-1920w.webp"
-  - "/images-sites/gandersumer-kirche/02-ff0d6596-1920w.webp"
-  - "/images-sites/gandersumer-kirche/03-009f2242-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1200px-ChurchGandersum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gandersum,_Kirche_(01).jpg/1200px-Gandersum,_Kirche_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gandersum,_Kirche_(05).jpg/1200px-Gandersum,_Kirche_(05).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gandersum,_Kirche_(04).jpg/1200px-Gandersum,_Kirche_(04).jpg
+image_srcset:
+  ChurchGandersum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/400px-ChurchGandersum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/800px-ChurchGandersum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1200px-ChurchGandersum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ChurchGandersum.JPG/1920px-ChurchGandersum.JPG
+  Gandersum, Kirche (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gandersum,_Kirche_(01).jpg/400px-Gandersum,_Kirche_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gandersum,_Kirche_(01).jpg/800px-Gandersum,_Kirche_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gandersum,_Kirche_(01).jpg/1200px-Gandersum,_Kirche_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gandersum,_Kirche_(01).jpg/1920px-Gandersum,_Kirche_(01).jpg
+  Gandersum, Kirche (05).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gandersum,_Kirche_(05).jpg/400px-Gandersum,_Kirche_(05).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gandersum,_Kirche_(05).jpg/800px-Gandersum,_Kirche_(05).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gandersum,_Kirche_(05).jpg/1200px-Gandersum,_Kirche_(05).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gandersum,_Kirche_(05).jpg/1920px-Gandersum,_Kirche_(05).jpg
+  Gandersum, Kirche (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gandersum,_Kirche_(04).jpg/400px-Gandersum,_Kirche_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gandersum,_Kirche_(04).jpg/800px-Gandersum,_Kirche_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gandersum,_Kirche_(04).jpg/1200px-Gandersum,_Kirche_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gandersum,_Kirche_(04).jpg/1920px-Gandersum,_Kirche_(04).jpg
 ---
 
 ## Overview

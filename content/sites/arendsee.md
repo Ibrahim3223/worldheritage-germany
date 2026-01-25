@@ -1,19 +1,49 @@
 ---
-title: "Arendsee"
+title: Arendsee
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.8892
 longitude: 11.4742
 images:
-  - "/images-sites/arendsee/01-c2edbc45-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Badespaß_im_Arendsee.jpg/1200px-Badespaß_im_Arendsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Queen_Arendsee_am_Anleger.jpg/1200px-Queen_Arendsee_am_Anleger.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg/1200px-20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arendsee_Rathaus.jpg/1200px-Arendsee_Rathaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DE-ST_15-0-81-030_Arendsee_COA.png/1200px-DE-ST_15-0-81-030_Arendsee_COA.png
+image_srcset:
+  Badespaß im Arendsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Badespaß_im_Arendsee.jpg/400px-Badespaß_im_Arendsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Badespaß_im_Arendsee.jpg/800px-Badespaß_im_Arendsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Badespaß_im_Arendsee.jpg/1200px-Badespaß_im_Arendsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Badespaß_im_Arendsee.jpg/1920px-Badespaß_im_Arendsee.jpg
+  Queen Arendsee am Anleger.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Queen_Arendsee_am_Anleger.jpg/400px-Queen_Arendsee_am_Anleger.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Queen_Arendsee_am_Anleger.jpg/800px-Queen_Arendsee_am_Anleger.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Queen_Arendsee_am_Anleger.jpg/1200px-Queen_Arendsee_am_Anleger.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Queen_Arendsee_am_Anleger.jpg/1920px-Queen_Arendsee_am_Anleger.jpg
+  20030501680NR Arendsee (Altmark) Kloster Arendsee Schrank.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg/400px-20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg/800px-20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg/1200px-20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg/1920px-20030501680NR_Arendsee_(Altmark)_Kloster_Arendsee_Schrank.jpg
+  Arendsee Rathaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arendsee_Rathaus.jpg/400px-Arendsee_Rathaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arendsee_Rathaus.jpg/800px-Arendsee_Rathaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arendsee_Rathaus.jpg/1200px-Arendsee_Rathaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arendsee_Rathaus.jpg/1920px-Arendsee_Rathaus.jpg
+  DE-ST 15-0-81-030 Arendsee COA.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DE-ST_15-0-81-030_Arendsee_COA.png/400px-DE-ST_15-0-81-030_Arendsee_COA.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DE-ST_15-0-81-030_Arendsee_COA.png/800px-DE-ST_15-0-81-030_Arendsee_COA.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DE-ST_15-0-81-030_Arendsee_COA.png/1200px-DE-ST_15-0-81-030_Arendsee_COA.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DE-ST_15-0-81-030_Arendsee_COA.png/1920px-DE-ST_15-0-81-030_Arendsee_COA.png
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Borkum Großer Leuchtturm"
+title: Borkum Großer Leuchtturm
 date: 2026-01-23
 draft: false
-description: "lighthouse in Borkum, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Borkum, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.58879
 longitude: 6.6621
 images:
-  - "/images-sites/borkum-grosser-leuchtturm/01-ee77aee3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg/1200px-Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg/1200px-Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Neuer_Leuchtturm.jpg/1200px-Neuer_Leuchtturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/1200px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008_08_Borkum_-_Großer_Leuchtturm.jpg/1200px-2008_08_Borkum_-_Großer_Leuchtturm.jpg
+image_srcset:
+  Borkum, Neuer Leuchtturm -- 2020 -- 3163-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg/400px-Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg/800px-Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg/1200px-Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg/1920px-Borkum,_Neuer_Leuchtturm_--_2020_--_3163-7.jpg
+  Borkum, Neuer Leuchtturm -- 2020 -- 2678.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg/400px-Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg/800px-Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg/1200px-Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg/1920px-Borkum,_Neuer_Leuchtturm_--_2020_--_2678.jpg
+  Neuer Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Neuer_Leuchtturm.jpg/400px-Neuer_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Neuer_Leuchtturm.jpg/800px-Neuer_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Neuer_Leuchtturm.jpg/1200px-Neuer_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Neuer_Leuchtturm.jpg/1920px-Neuer_Leuchtturm.jpg
+  0 2008 05 Borkum - Großer Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/400px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/800px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/1200px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/0_2008_05_Borkum_-_Großer_Leuchtturm.jpg/1920px-0_2008_05_Borkum_-_Großer_Leuchtturm.jpg
+  2008 08 Borkum - Großer Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008_08_Borkum_-_Großer_Leuchtturm.jpg/400px-2008_08_Borkum_-_Großer_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008_08_Borkum_-_Großer_Leuchtturm.jpg/800px-2008_08_Borkum_-_Großer_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008_08_Borkum_-_Großer_Leuchtturm.jpg/1200px-2008_08_Borkum_-_Großer_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008_08_Borkum_-_Großer_Leuchtturm.jpg/1920px-2008_08_Borkum_-_Großer_Leuchtturm.jpg
 ---
 
 ## Overview

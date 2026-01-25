@@ -21,7 +21,7 @@ longitude: 9.1776
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-stuttgart/01-f8881073-800w.webp"
+  - "/images/kunstmuseum-stuttgart/01-f8881073-800w.webp"
 ---
 
 ## Overview

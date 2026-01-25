@@ -21,9 +21,9 @@ longitude: 11.728991666
 
 # Images
 images:
-  - "/images-sites/sichtungsgarten-weihenstephan/01-870f7930-800w.webp"
-  - "/images-sites/sichtungsgarten-weihenstephan/02-46685be4-800w.webp"
-  - "/images-sites/sichtungsgarten-weihenstephan/03-697b8677-800w.webp"
+  - "/images/sichtungsgarten-weihenstephan/01-870f7930-800w.webp"
+  - "/images/sichtungsgarten-weihenstephan/02-46685be4-800w.webp"
+  - "/images/sichtungsgarten-weihenstephan/03-697b8677-800w.webp"
 ---
 
 ## Overview

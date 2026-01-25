@@ -1,27 +1,49 @@
 ---
-title: "Castle Lemberg"
+title: Castle Lemberg
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.173888888
 longitude: 7.661388888
-
-# Images
 images:
-  - "/images-sites/castle-lemberg/01-9d77df39-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lemberg_0046.JPG/1200px-Lemberg_0046.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgschänke_Burg_Lemberg.JPG/1200px-Burgschänke_Burg_Lemberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hinweistafel_Burg_Lemberg.JPG/1200px-Hinweistafel_Burg_Lemberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hinweistafel_Burg_Lemberg1.JPG/1200px-Hinweistafel_Burg_Lemberg1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg/1200px-Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg
+image_srcset:
+  Lemberg 0046.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lemberg_0046.JPG/400px-Lemberg_0046.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lemberg_0046.JPG/800px-Lemberg_0046.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lemberg_0046.JPG/1200px-Lemberg_0046.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lemberg_0046.JPG/1920px-Lemberg_0046.JPG
+  Burgschänke Burg Lemberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgschänke_Burg_Lemberg.JPG/400px-Burgschänke_Burg_Lemberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgschänke_Burg_Lemberg.JPG/800px-Burgschänke_Burg_Lemberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgschänke_Burg_Lemberg.JPG/1200px-Burgschänke_Burg_Lemberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgschänke_Burg_Lemberg.JPG/1920px-Burgschänke_Burg_Lemberg.JPG
+  Hinweistafel Burg Lemberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hinweistafel_Burg_Lemberg.JPG/400px-Hinweistafel_Burg_Lemberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hinweistafel_Burg_Lemberg.JPG/800px-Hinweistafel_Burg_Lemberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hinweistafel_Burg_Lemberg.JPG/1200px-Hinweistafel_Burg_Lemberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hinweistafel_Burg_Lemberg.JPG/1920px-Hinweistafel_Burg_Lemberg.JPG
+  Hinweistafel Burg Lemberg1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hinweistafel_Burg_Lemberg1.JPG/400px-Hinweistafel_Burg_Lemberg1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hinweistafel_Burg_Lemberg1.JPG/800px-Hinweistafel_Burg_Lemberg1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hinweistafel_Burg_Lemberg1.JPG/1200px-Hinweistafel_Burg_Lemberg1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hinweistafel_Burg_Lemberg1.JPG/1920px-Hinweistafel_Burg_Lemberg1.JPG
+  Burgfest Lemberg - geo.hlipp.de - 27197.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg/400px-Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg/800px-Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg/1200px-Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg/1920px-Burgfest_Lemberg_-_geo.hlipp.de_-_27197.jpg
 ---
 
 ## Overview

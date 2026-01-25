@@ -1,19 +1,49 @@
 ---
-title: "Baalensee"
+title: Baalensee
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.181453
 longitude: 13.149605
 images:
-  - "/images-sites/baalensee/01-47f1dbb0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fürstenberg-Baalensee_mit_Kirchturm.JPG/1200px-Fürstenberg-Baalensee_mit_Kirchturm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg/1200px-2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2012-05-27_Baalensee_Fürstenberg_040.jpg/1200px-2012-05-27_Baalensee_Fürstenberg_040.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2012-05-27_Baalensee_mit_Badestelle_022.jpg/1200px-2012-05-27_Baalensee_mit_Badestelle_022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg/1200px-2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg
+image_srcset:
+  Fürstenberg-Baalensee mit Kirchturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fürstenberg-Baalensee_mit_Kirchturm.JPG/400px-Fürstenberg-Baalensee_mit_Kirchturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fürstenberg-Baalensee_mit_Kirchturm.JPG/800px-Fürstenberg-Baalensee_mit_Kirchturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fürstenberg-Baalensee_mit_Kirchturm.JPG/1200px-Fürstenberg-Baalensee_mit_Kirchturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fürstenberg-Baalensee_mit_Kirchturm.JPG/1920px-Fürstenberg-Baalensee_mit_Kirchturm.JPG
+  2012-05-08 Baalensee m Blick auf Fürstenberg 2995.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg/400px-2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg/800px-2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg/1200px-2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg/1920px-2012-05-08_Baalensee_m_Blick_auf_Fürstenberg_2995.jpg
+  2012-05-27 Baalensee Fürstenberg 040.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2012-05-27_Baalensee_Fürstenberg_040.jpg/400px-2012-05-27_Baalensee_Fürstenberg_040.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2012-05-27_Baalensee_Fürstenberg_040.jpg/800px-2012-05-27_Baalensee_Fürstenberg_040.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2012-05-27_Baalensee_Fürstenberg_040.jpg/1200px-2012-05-27_Baalensee_Fürstenberg_040.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2012-05-27_Baalensee_Fürstenberg_040.jpg/1920px-2012-05-27_Baalensee_Fürstenberg_040.jpg
+  2012-05-27 Baalensee mit Badestelle 022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2012-05-27_Baalensee_mit_Badestelle_022.jpg/400px-2012-05-27_Baalensee_mit_Badestelle_022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2012-05-27_Baalensee_mit_Badestelle_022.jpg/800px-2012-05-27_Baalensee_mit_Badestelle_022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2012-05-27_Baalensee_mit_Badestelle_022.jpg/1200px-2012-05-27_Baalensee_mit_Badestelle_022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2012-05-27_Baalensee_mit_Badestelle_022.jpg/1920px-2012-05-27_Baalensee_mit_Badestelle_022.jpg
+  2012-05-27 Baalensee mit Blick auf Fürstenberg 029.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg/400px-2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg/800px-2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg/1200px-2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg/1920px-2012-05-27_Baalensee_mit_Blick_auf_Fürstenberg_029.jpg
 ---
 
 ## Overview

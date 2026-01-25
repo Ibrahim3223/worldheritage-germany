@@ -1,20 +1,46 @@
 ---
-title: "Deutschordenskirche"
-site_name: "Deutschordenskirche"
-slug: "deutschordenskirche"
-region: "Hesse"
-
-# Location
+title: Deutschordenskirche
+site_name: Deutschordenskirche
+slug: deutschordenskirche
+region: Hesse
 latitude: 50.1064
 longitude: 8.68833
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1206439"
-description: "In the heart of Sachsenhausen, Germany, the Deutschordenskirche stands as a striking example of Baroque architecture. Its elegant design and historical ..."
+- church building
+- religious site
+wikidata_id: Q1206439
+description: In the heart of Sachsenhausen, Germany, the Deutschordenskirche stands
+  as a striking example of Baroque architecture. Its elegant design and historical
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1200px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg/1200px-Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Deutschordenskirche_Frankfurt_20150820.jpg/1200px-Deutschordenskirche_Frankfurt_20150820.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg/1200px-Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg
+image_srcset:
+  Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/400px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/800px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1200px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg/1920px-Deutschordenshaus-Frankfurt-2013-Ffm-Sachsenhausen-988.jpg
+  Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg/400px-Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg/800px-Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg/1200px-Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg/1920px-Frankfurt%20am%20Main%20-%20Deutschordenskirche%20%28Innenraum%29.jpg
+  Deutschordenskirche Frankfurt 20150820.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Deutschordenskirche_Frankfurt_20150820.jpg/400px-Deutschordenskirche_Frankfurt_20150820.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Deutschordenskirche_Frankfurt_20150820.jpg/800px-Deutschordenskirche_Frankfurt_20150820.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Deutschordenskirche_Frankfurt_20150820.jpg/1200px-Deutschordenskirche_Frankfurt_20150820.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Deutschordenskirche_Frankfurt_20150820.jpg/1920px-Deutschordenskirche_Frankfurt_20150820.jpg
+  Frankfurt am Main, Deutschordenskirche (Innenraum).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg/400px-Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg/800px-Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg/1200px-Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg/1920px-Frankfurt_am_Main,_Deutschordenskirche_(Innenraum).jpg
 ---
 
 ## Overview

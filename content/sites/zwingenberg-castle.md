@@ -21,9 +21,9 @@ longitude: 9.03333
 
 # Images
 images:
-  - "/images-sites/zwingenberg-castle/01-6b600678-800w.webp"
-  - "/images-sites/zwingenberg-castle/02-963ebfa6-800w.webp"
-  - "/images-sites/zwingenberg-castle/03-b8e08787-800w.webp"
+  - "/images/zwingenberg-castle/01-6b600678-800w.webp"
+  - "/images/zwingenberg-castle/02-963ebfa6-800w.webp"
+  - "/images/zwingenberg-castle/03-b8e08787-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burgrest Kastelberg, Ballrechten-Dottingen"
+title: Burgrest Kastelberg, Ballrechten-Dottingen
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.851
 longitude: 7.7049
 images:
-  - "/images-sites/burgrest-kastelberg-ballrechten-dottingen/01-7abc226e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burgrest_Kastelberg_03.JPG/1200px-Burgrest_Kastelberg_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burgrest_Kastelberg_04.JPG/1200px-Burgrest_Kastelberg_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgrest_Kastelberg_09.JPG/1200px-Burgrest_Kastelberg_09.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burgrest_Kastelberg_11.JPG/1200px-Burgrest_Kastelberg_11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgrest_Kastelberg_02.JPG/1200px-Burgrest_Kastelberg_02.JPG
+image_srcset:
+  Burgrest Kastelberg 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burgrest_Kastelberg_03.JPG/400px-Burgrest_Kastelberg_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burgrest_Kastelberg_03.JPG/800px-Burgrest_Kastelberg_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burgrest_Kastelberg_03.JPG/1200px-Burgrest_Kastelberg_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burgrest_Kastelberg_03.JPG/1920px-Burgrest_Kastelberg_03.JPG
+  Burgrest Kastelberg 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burgrest_Kastelberg_04.JPG/400px-Burgrest_Kastelberg_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burgrest_Kastelberg_04.JPG/800px-Burgrest_Kastelberg_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burgrest_Kastelberg_04.JPG/1200px-Burgrest_Kastelberg_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burgrest_Kastelberg_04.JPG/1920px-Burgrest_Kastelberg_04.JPG
+  Burgrest Kastelberg 09.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgrest_Kastelberg_09.JPG/400px-Burgrest_Kastelberg_09.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgrest_Kastelberg_09.JPG/800px-Burgrest_Kastelberg_09.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgrest_Kastelberg_09.JPG/1200px-Burgrest_Kastelberg_09.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burgrest_Kastelberg_09.JPG/1920px-Burgrest_Kastelberg_09.JPG
+  Burgrest Kastelberg 11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burgrest_Kastelberg_11.JPG/400px-Burgrest_Kastelberg_11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burgrest_Kastelberg_11.JPG/800px-Burgrest_Kastelberg_11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burgrest_Kastelberg_11.JPG/1200px-Burgrest_Kastelberg_11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Burgrest_Kastelberg_11.JPG/1920px-Burgrest_Kastelberg_11.JPG
+  Burgrest Kastelberg 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgrest_Kastelberg_02.JPG/400px-Burgrest_Kastelberg_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgrest_Kastelberg_02.JPG/800px-Burgrest_Kastelberg_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgrest_Kastelberg_02.JPG/1200px-Burgrest_Kastelberg_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burgrest_Kastelberg_02.JPG/1920px-Burgrest_Kastelberg_02.JPG
 ---
 
 ## Overview

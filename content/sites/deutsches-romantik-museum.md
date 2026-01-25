@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Romantik-Museum"
+title: Deutsches Romantik-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.110932
 longitude: 8.677505
 images:
-  - "/images-sites/deutsches-romantik-museum/01-2c952af7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg/1200px-Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Romantik_Museum,_Frankfurt,_3_Häuser.jpg/1200px-Romantik_Museum,_Frankfurt,_3_Häuser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg/1200px-Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Deutsches_Romantik-Museum_Frankfurt.jpg/1200px-Deutsches_Romantik-Museum_Frankfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Romantik_Museum,_Frankfurt,_view.jpg/1200px-Romantik_Museum,_Frankfurt,_view.jpg
+image_srcset:
+  Goethe House, Deutsches Romantik-Museum, Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg/400px-Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg/800px-Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg/1200px-Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg/1920px-Goethe_House,_Deutsches_Romantik-Museum,_Frankfurt.jpg
+  Romantik Museum, Frankfurt, 3 Häuser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Romantik_Museum,_Frankfurt,_3_Häuser.jpg/400px-Romantik_Museum,_Frankfurt,_3_Häuser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Romantik_Museum,_Frankfurt,_3_Häuser.jpg/800px-Romantik_Museum,_Frankfurt,_3_Häuser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Romantik_Museum,_Frankfurt,_3_Häuser.jpg/1200px-Romantik_Museum,_Frankfurt,_3_Häuser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Romantik_Museum,_Frankfurt,_3_Häuser.jpg/1920px-Romantik_Museum,_Frankfurt,_3_Häuser.jpg
+  Romantik Museum, Frankfurt, Himmelsleiter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg/400px-Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg/800px-Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg/1200px-Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg/1920px-Romantik_Museum,_Frankfurt,_Himmelsleiter.jpg
+  Deutsches Romantik-Museum Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Deutsches_Romantik-Museum_Frankfurt.jpg/400px-Deutsches_Romantik-Museum_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Deutsches_Romantik-Museum_Frankfurt.jpg/800px-Deutsches_Romantik-Museum_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Deutsches_Romantik-Museum_Frankfurt.jpg/1200px-Deutsches_Romantik-Museum_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Deutsches_Romantik-Museum_Frankfurt.jpg/1920px-Deutsches_Romantik-Museum_Frankfurt.jpg
+  Romantik Museum, Frankfurt, view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Romantik_Museum,_Frankfurt,_view.jpg/400px-Romantik_Museum,_Frankfurt,_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Romantik_Museum,_Frankfurt,_view.jpg/800px-Romantik_Museum,_Frankfurt,_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Romantik_Museum,_Frankfurt,_view.jpg/1200px-Romantik_Museum,_Frankfurt,_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Romantik_Museum,_Frankfurt,_view.jpg/1920px-Romantik_Museum,_Frankfurt,_view.jpg
 ---
 
 ## Overview

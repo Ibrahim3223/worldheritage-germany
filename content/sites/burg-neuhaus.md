@@ -1,19 +1,49 @@
 ---
-title: "Burg Neuhaus"
+title: Burg Neuhaus
 date: 2026-01-23
 draft: false
-description: "castle in Windischeschenbach, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Windischeschenbach, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7993
 longitude: 12.1631
 images:
-  - "/images-sites/burg-neuhaus/01-8a2110a5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG/1200px-St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg/1200px-Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Neuhaus_-_Sommerhaus.jpg/1200px-Neuhaus_-_Sommerhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg/1200px-Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg/1200px-Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg
+image_srcset:
+  St. Martin im Mühlkreis - Schloss Neuhaus (a).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG/400px-St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG/800px-St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG/1200px-St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG/1920px-St._Martin_im_Mühlkreis_-_Schloss_Neuhaus_(a).JPG
+  Neuhaus - Außeres Tor 2 Pförtnerhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg/400px-Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg/800px-Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg/1200px-Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg/1920px-Neuhaus_-_Außeres_Tor_2_Pförtnerhaus.jpg
+  Neuhaus - Sommerhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Neuhaus_-_Sommerhaus.jpg/400px-Neuhaus_-_Sommerhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Neuhaus_-_Sommerhaus.jpg/800px-Neuhaus_-_Sommerhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Neuhaus_-_Sommerhaus.jpg/1200px-Neuhaus_-_Sommerhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Neuhaus_-_Sommerhaus.jpg/1920px-Neuhaus_-_Sommerhaus.jpg
+  Neuhaus - Äußeres Tor 3b Allianzwappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg/400px-Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg/800px-Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg/1200px-Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg/1920px-Neuhaus_-_Äußeres_Tor_3b_Allianzwappen.jpg
+  Neuhaus - Äußeres Tor 3c Allianzwappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg/400px-Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg/800px-Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg/1200px-Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg/1920px-Neuhaus_-_Äußeres_Tor_3c_Allianzwappen.jpg
 ---
 
 ## Overview

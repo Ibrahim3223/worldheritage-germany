@@ -13,7 +13,7 @@ regions:
 latitude: 50.7725
 longitude: 6.08722
 images:
-  - "/images-sites/theater-aachen/01-37c3ced9-800w.webp"
+  - "/images/theater-aachen/01-37c3ced9-800w.webp"
 ---
 
 ## Overview

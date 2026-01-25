@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1624232"
 description: "Kreuzkirche is a striking example of modern architecture located in Wolfsburg, Germany. This church building stands out in the urban landscape, attracti..."
 images:
-  - "/images-sites/kreuzkirche/01-a80dea93-1920w.webp"
-  - "/images-sites/kreuzkirche/02-3271b3cb-1920w.webp"
-  - "/images-sites/kreuzkirche/03-78085ad9-1920w.webp"
+  - "/images/kreuzkirche/01-a80dea93-1920w.webp"
+  - "/images/kreuzkirche/02-3271b3cb-1920w.webp"
+  - "/images/kreuzkirche/03-78085ad9-1920w.webp"
 ---
 
 ## Overview

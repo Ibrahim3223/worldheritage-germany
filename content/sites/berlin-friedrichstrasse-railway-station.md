@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Friedrichstraße railway station"
+title: Berlin-Friedrichstraße railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.520277777
 longitude: 13.386944444
 images:
-  - "/images-sites/berlin-friedrichstrasse-railway-station/01-de643871-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg/1200px-20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg/1200px-20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Berlin_-_Bahnhof_Friedrichstraße1.jpg/1200px-Berlin_-_Bahnhof_Friedrichstraße1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg/1200px-Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Train_station_Berlin_Friedrichstrasse_3.jpg/1200px-Train_station_Berlin_Friedrichstrasse_3.jpg
+image_srcset:
+  20220806 Bahnhof Berlin Friedrichstraße 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg/400px-20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg/800px-20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg/1200px-20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg/1920px-20220806_Bahnhof_Berlin_Friedrichstraße_02.jpg
+  20240815 Bahnhof Berlin Friedrichstraße 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg/400px-20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg/800px-20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg/1200px-20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg/1920px-20240815_Bahnhof_Berlin_Friedrichstraße_02.jpg
+  Berlin - Bahnhof Friedrichstraße1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Berlin_-_Bahnhof_Friedrichstraße1.jpg/400px-Berlin_-_Bahnhof_Friedrichstraße1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Berlin_-_Bahnhof_Friedrichstraße1.jpg/800px-Berlin_-_Bahnhof_Friedrichstraße1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Berlin_-_Bahnhof_Friedrichstraße1.jpg/1200px-Berlin_-_Bahnhof_Friedrichstraße1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Berlin_-_Bahnhof_Friedrichstraße1.jpg/1920px-Berlin_-_Bahnhof_Friedrichstraße1.jpg
+  Friedrichstraße 147 & Bahnhof Friedrichstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg/400px-Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg/800px-Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg/1200px-Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg/1920px-Friedrichstraße_147_&_Bahnhof_Friedrichstraße.jpg
+  Train station Berlin Friedrichstrasse 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Train_station_Berlin_Friedrichstrasse_3.jpg/400px-Train_station_Berlin_Friedrichstrasse_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Train_station_Berlin_Friedrichstrasse_3.jpg/800px-Train_station_Berlin_Friedrichstrasse_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Train_station_Berlin_Friedrichstrasse_3.jpg/1200px-Train_station_Berlin_Friedrichstrasse_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Train_station_Berlin_Friedrichstrasse_3.jpg/1920px-Train_station_Berlin_Friedrichstrasse_3.jpg
 ---
 
 ## Overview

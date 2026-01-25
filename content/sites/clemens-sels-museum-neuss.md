@@ -1,29 +1,49 @@
 ---
-title: "Clemens Sels Museum Neuss"
+title: Clemens Sels Museum Neuss
 date: 2026-01-23
 draft: false
-description: "art and local museum in Neuss, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art and local museum in Neuss, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1943
 longitude: 6.69812
-
-# Images
 images:
-  - "/images-sites/clemens-sels-museum-neuss/01-486d54f2-800w.webp"
-  - "/images-sites/clemens-sels-museum-neuss/02-c5612c08-800w.webp"
-  - "/images-sites/clemens-sels-museum-neuss/03-31359954-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Deilmann_Clemens-Sels-Museum_Neuss.jpg/1200px-Deilmann_Clemens-Sels-Museum_Neuss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Neuss,_Clemens-Sels-Museum,_2008.JPG/1200px-Neuss,_Clemens-Sels-Museum,_2008.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1200px-Clemens-Sels-Museum_und_Obertor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg/1200px-Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Feld-Haus.jpg/1200px-Feld-Haus.jpg
+image_srcset:
+  Deilmann Clemens-Sels-Museum Neuss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Deilmann_Clemens-Sels-Museum_Neuss.jpg/400px-Deilmann_Clemens-Sels-Museum_Neuss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Deilmann_Clemens-Sels-Museum_Neuss.jpg/800px-Deilmann_Clemens-Sels-Museum_Neuss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Deilmann_Clemens-Sels-Museum_Neuss.jpg/1200px-Deilmann_Clemens-Sels-Museum_Neuss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Deilmann_Clemens-Sels-Museum_Neuss.jpg/1920px-Deilmann_Clemens-Sels-Museum_Neuss.jpg
+  Neuss, Clemens-Sels-Museum, 2008.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Neuss,_Clemens-Sels-Museum,_2008.JPG/400px-Neuss,_Clemens-Sels-Museum,_2008.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Neuss,_Clemens-Sels-Museum,_2008.JPG/800px-Neuss,_Clemens-Sels-Museum,_2008.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Neuss,_Clemens-Sels-Museum,_2008.JPG/1200px-Neuss,_Clemens-Sels-Museum,_2008.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Neuss,_Clemens-Sels-Museum,_2008.JPG/1920px-Neuss,_Clemens-Sels-Museum,_2008.JPG
+  Clemens-Sels-Museum und Obertor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/400px-Clemens-Sels-Museum_und_Obertor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/800px-Clemens-Sels-Museum_und_Obertor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1200px-Clemens-Sels-Museum_und_Obertor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Clemens-Sels-Museum_und_Obertor.jpg/1920px-Clemens-Sels-Museum_und_Obertor.jpg
+  Gesamtkunstwerk Das Virtuelle im Konkreten Rita Rohlfing Anscheinend.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg/400px-Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg/800px-Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg/1200px-Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg/1920px-Gesamtkunstwerk_Das_Virtuelle_im_Konkreten_Rita_Rohlfing_Anscheinend.jpg
+  Feld-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Feld-Haus.jpg/400px-Feld-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Feld-Haus.jpg/800px-Feld-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Feld-Haus.jpg/1200px-Feld-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Feld-Haus.jpg/1920px-Feld-Haus.jpg
 ---
 
 ## Overview

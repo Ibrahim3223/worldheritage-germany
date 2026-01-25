@@ -13,8 +13,8 @@ regions:
 latitude: 52.50817
 longitude: 13.31556
 images:
-  - "/images-sites/pestalozzistrasse-synagogue/02-5e6f4565-800w.webp"
-  - "/images-sites/pestalozzistrasse-synagogue/03-b2c71fc5-800w.webp"
+  - "/images/pestalozzistrasse-synagogue/02-5e6f4565-800w.webp"
+  - "/images/pestalozzistrasse-synagogue/03-b2c71fc5-800w.webp"
 ---
 
 ## Overview

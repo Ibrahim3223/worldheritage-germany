@@ -21,8 +21,8 @@ longitude: 13.2967
 
 # Images
 images:
-  - "/images-sites/scharf-gerstenberg-collection/02-18ff9294-800w.webp"
-  - "/images-sites/scharf-gerstenberg-collection/03-7579f25f-800w.webp"
+  - "/images/scharf-gerstenberg-collection/02-18ff9294-800w.webp"
+  - "/images/scharf-gerstenberg-collection/03-7579f25f-800w.webp"
 ---
 
 ## Overview

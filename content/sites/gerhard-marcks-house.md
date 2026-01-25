@@ -1,29 +1,49 @@
 ---
-title: "Gerhard Marcks House"
+title: Gerhard Marcks House
 date: 2026-01-23
 draft: false
-description: "art museum"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.0727
 longitude: 8.81462
-
-# Images
 images:
-  - "/images-sites/gerhard-marcks-house/01-95c08805-800w.webp"
-  - "/images-sites/gerhard-marcks-house/02-5c7624d2-800w.webp"
-  - "/images-sites/gerhard-marcks-house/03-c61b14ba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG/1200px-Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Infotafel_-_Gerhard-Marcks-Haus.jpg/1200px-Infotafel_-_Gerhard-Marcks-Haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg/1200px-Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1200px-Ostertorwache_Gerhard-Marcks-Haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ostertorwache_-_Bremen_-_1825.jpg/1200px-Ostertorwache_-_Bremen_-_1825.jpg
+image_srcset:
+  Bremen, das Gerhard Marcks Haus (Rückseite).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG/400px-Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG/800px-Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG/1200px-Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG/1920px-Bremen,_das_Gerhard_Marcks_Haus_(Rückseite).JPG
+  Infotafel - Gerhard-Marcks-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Infotafel_-_Gerhard-Marcks-Haus.jpg/400px-Infotafel_-_Gerhard-Marcks-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Infotafel_-_Gerhard-Marcks-Haus.jpg/800px-Infotafel_-_Gerhard-Marcks-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Infotafel_-_Gerhard-Marcks-Haus.jpg/1200px-Infotafel_-_Gerhard-Marcks-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Infotafel_-_Gerhard-Marcks-Haus.jpg/1920px-Infotafel_-_Gerhard-Marcks-Haus.jpg
+  Infotafel - Gerhard-Marcks-Haus (Lage).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg/400px-Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg/800px-Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg/1200px-Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg/1920px-Infotafel_-_Gerhard-Marcks-Haus_(Lage).jpg
+  Ostertorwache Gerhard-Marcks-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/400px-Ostertorwache_Gerhard-Marcks-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/800px-Ostertorwache_Gerhard-Marcks-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1200px-Ostertorwache_Gerhard-Marcks-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ostertorwache_Gerhard-Marcks-Haus.jpg/1920px-Ostertorwache_Gerhard-Marcks-Haus.jpg
+  Ostertorwache - Bremen - 1825.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ostertorwache_-_Bremen_-_1825.jpg/400px-Ostertorwache_-_Bremen_-_1825.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ostertorwache_-_Bremen_-_1825.jpg/800px-Ostertorwache_-_Bremen_-_1825.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ostertorwache_-_Bremen_-_1825.jpg/1200px-Ostertorwache_-_Bremen_-_1825.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ostertorwache_-_Bremen_-_1825.jpg/1920px-Ostertorwache_-_Bremen_-_1825.jpg
 ---
 
 ## Overview

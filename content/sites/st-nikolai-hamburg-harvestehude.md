@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1422053"
 description: "In the heart of Hamburgs Eimsbüttel district lies St. Nikolai, an architectural marvel that stands at a striking height of 89.4 meters. This church, des..."
 images:
-  - "/images-sites/st-nikolai-hamburg-harvestehude/01-37b2774f-1920w.webp"
-  - "/images-sites/st-nikolai-hamburg-harvestehude/02-4e9e77b2-1920w.webp"
-  - "/images-sites/st-nikolai-hamburg-harvestehude/03-24016fbb-1920w.webp"
+  - "/images/st-nikolai-hamburg-harvestehude/01-37b2774f-1920w.webp"
+  - "/images/st-nikolai-hamburg-harvestehude/02-4e9e77b2-1920w.webp"
+  - "/images/st-nikolai-hamburg-harvestehude/03-24016fbb-1920w.webp"
 ---
 
 ## Overview

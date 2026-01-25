@@ -1,19 +1,49 @@
 ---
-title: "Hennigsdorf station"
+title: Hennigsdorf station
 date: 2026-01-23
 draft: false
-description: "railway station in Hennigsdorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hennigsdorf, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.638
 longitude: 13.2057
 images:
-  - "/images-sites/hennigsdorf-station/01-7946bd2f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bahnhof_Hennigsdorf.JPG/1200px-Bahnhof_Hennigsdorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahnsteige_Hennigsdorf.JPG/1200px-Bahnsteige_Hennigsdorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg/1200px-Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hennigsdorf-alter-bahnhof.JPG/1200px-Hennigsdorf-alter-bahnhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG/1200px-Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG
+image_srcset:
+  Bahnhof Hennigsdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bahnhof_Hennigsdorf.JPG/400px-Bahnhof_Hennigsdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bahnhof_Hennigsdorf.JPG/800px-Bahnhof_Hennigsdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bahnhof_Hennigsdorf.JPG/1200px-Bahnhof_Hennigsdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bahnhof_Hennigsdorf.JPG/1920px-Bahnhof_Hennigsdorf.JPG
+  Bahnsteige Hennigsdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahnsteige_Hennigsdorf.JPG/400px-Bahnsteige_Hennigsdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahnsteige_Hennigsdorf.JPG/800px-Bahnsteige_Hennigsdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahnsteige_Hennigsdorf.JPG/1200px-Bahnsteige_Hennigsdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahnsteige_Hennigsdorf.JPG/1920px-Bahnsteige_Hennigsdorf.JPG
+  Clp 20150707 5055 Bf Hennigsdorf (b Berlin) Bstg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg/400px-Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg/800px-Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg/1200px-Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg/1920px-Clp_20150707_5055_Bf_Hennigsdorf_(b_Berlin)_Bstg.jpg
+  Hennigsdorf-alter-bahnhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hennigsdorf-alter-bahnhof.JPG/400px-Hennigsdorf-alter-bahnhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hennigsdorf-alter-bahnhof.JPG/800px-Hennigsdorf-alter-bahnhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hennigsdorf-alter-bahnhof.JPG/1200px-Hennigsdorf-alter-bahnhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hennigsdorf-alter-bahnhof.JPG/1920px-Hennigsdorf-alter-bahnhof.JPG
+  Bahnhof Hennigsdorf 06.06.2015 15-47-33.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG/400px-Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG/800px-Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG/1200px-Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG/1920px-Bahnhof_Hennigsdorf_06.06.2015_15-47-33.JPG
 ---
 
 ## Overview

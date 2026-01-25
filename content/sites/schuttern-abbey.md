@@ -13,8 +13,8 @@ regions:
 latitude: 48.381944
 longitude: 7.8525
 images:
-  - "/images-sites/schuttern-abbey/02-5cfc4087-800w.webp"
-  - "/images-sites/schuttern-abbey/03-d66c5b60-800w.webp"
+  - "/images/schuttern-abbey/02-5cfc4087-800w.webp"
+  - "/images/schuttern-abbey/03-d66c5b60-800w.webp"
 ---
 
 ## Overview

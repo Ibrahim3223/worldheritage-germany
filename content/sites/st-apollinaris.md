@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2317361"
 description: "In the heart of Düsseldorf-Oberbilk, you will find St. Apollinaris, a captivating church that reflects the architectural elegance of the Gothic Revival ..."
 images:
-  - "/images-sites/st-apollinaris/01-798f76c6-1920w.webp"
-  - "/images-sites/st-apollinaris/02-92d0fc1c-1920w.webp"
-  - "/images-sites/st-apollinaris/03-b773109c-1920w.webp"
+  - "/images/st-apollinaris/01-798f76c6-1920w.webp"
+  - "/images/st-apollinaris/02-92d0fc1c-1920w.webp"
+  - "/images/st-apollinaris/03-b773109c-1920w.webp"
 ---
 
 ## Overview

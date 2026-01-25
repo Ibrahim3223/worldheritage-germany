@@ -13,9 +13,9 @@ regions:
 latitude: 54.4671
 longitude: 9.50903
 images:
-  - "/images-sites/kograben/01-79477b99-800w.webp"
-  - "/images-sites/kograben/02-06bf85e9-800w.webp"
-  - "/images-sites/kograben/03-e598c88b-800w.webp"
+  - "/images/kograben/01-79477b99-800w.webp"
+  - "/images/kograben/02-06bf85e9-800w.webp"
+  - "/images/kograben/03-e598c88b-800w.webp"
 ---
 
 ## Overview

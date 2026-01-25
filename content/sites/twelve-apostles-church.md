@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q245159"
 description: "In the heart of Züssow, Germany, the Twelve-Apostles-Church emerges as a striking example of Gothic architecture. This church, constructed from fieldsto..."
 images:
-  - "/images-sites/twelve-apostles-church/01-acfdb738-1920w.webp"
-  - "/images-sites/twelve-apostles-church/02-4b2d219f-1920w.webp"
-  - "/images-sites/twelve-apostles-church/03-8121dec8-1920w.webp"
+  - "/images/twelve-apostles-church/01-acfdb738-1920w.webp"
+  - "/images/twelve-apostles-church/02-4b2d219f-1920w.webp"
+  - "/images/twelve-apostles-church/03-8121dec8-1920w.webp"
 ---
 
 ## Overview

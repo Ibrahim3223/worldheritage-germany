@@ -1,19 +1,49 @@
 ---
-title: "Ingolstadt Nord station"
+title: Ingolstadt Nord station
 date: 2026-01-23
 draft: false
-description: "railway station in Ingolstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Ingolstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 48.773086
 longitude: 11.433187
 images:
-  - "/images-sites/ingolstadt-nord-station/01-f024ed3b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ingoldstadt_nord_morning_(47831546311).jpg/1200px-Ingoldstadt_nord_morning_(47831546311).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg/1200px-Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg/1200px-Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG/1200px-Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1200px-Ingolstadt_Nord_MIN.jpg
+image_srcset:
+  Ingoldstadt nord morning (47831546311).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ingoldstadt_nord_morning_(47831546311).jpg/400px-Ingoldstadt_nord_morning_(47831546311).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ingoldstadt_nord_morning_(47831546311).jpg/800px-Ingoldstadt_nord_morning_(47831546311).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ingoldstadt_nord_morning_(47831546311).jpg/1200px-Ingoldstadt_nord_morning_(47831546311).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ingoldstadt_nord_morning_(47831546311).jpg/1920px-Ingoldstadt_nord_morning_(47831546311).jpg
+  Ingolstadt 27 Feb 2021 13 36 56 794000.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg/400px-Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg/800px-Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg/1200px-Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg/1920px-Ingolstadt_27_Feb_2021_13_36_56_794000.jpeg
+  Regional trains in Bavaria 27 Feb 2021 12 03 45 392000.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg/400px-Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg/800px-Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg/1200px-Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg/1920px-Regional_trains_in_Bavaria_27_Feb_2021_12_03_45_392000.jpeg
+  Neues Empfangsgebäude Nordbahnhof Ingolstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG/400px-Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG/800px-Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG/1200px-Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG/1920px-Neues_Empfangsgebäude_Nordbahnhof_Ingolstadt.JPG
+  Ingolstadt Nord MIN.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/400px-Ingolstadt_Nord_MIN.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/800px-Ingolstadt_Nord_MIN.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1200px-Ingolstadt_Nord_MIN.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ingolstadt_Nord_MIN.jpg/1920px-Ingolstadt_Nord_MIN.jpg
 ---
 
 ## Overview

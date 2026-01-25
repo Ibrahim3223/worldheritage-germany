@@ -13,7 +13,7 @@ regions:
 latitude: 47.736111111
 longitude: 8.926944444
 images:
-  - "/images-sites/radolfzeller-aachried/01-5adda68a-800w.webp"
+  - "/images/radolfzeller-aachried/01-5adda68a-800w.webp"
 ---
 
 ## Overview

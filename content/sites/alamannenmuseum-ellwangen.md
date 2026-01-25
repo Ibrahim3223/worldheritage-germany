@@ -1,19 +1,49 @@
 ---
-title: "Alamannenmuseum Ellwangen"
+title: Alamannenmuseum Ellwangen
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9641
 longitude: 10.1278
 images:
-  - "/images-sites/alamannenmuseum-ellwangen/01-64e57f2c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg/1200px-Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg/1200px-Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg/1200px-Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg/1200px-Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/1200px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
+image_srcset:
+  Alamannenmuseum Ellwangen - Innenansichten-8201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg/400px-Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg/800px-Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg/1200px-Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg/1920px-Alamannenmuseum_Ellwangen_-_Innenansichten-8201.jpg
+  Alamannenmuseum Ellwangen - Innenansichten-8237.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg/400px-Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg/800px-Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg/1200px-Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg/1920px-Alamannenmuseum_Ellwangen_-_Innenansichten-8237.jpg
+  Alamannenmuseum Ellwangen - Innenansichten-8248.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg/400px-Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg/800px-Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg/1200px-Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg/1920px-Alamannenmuseum_Ellwangen_-_Innenansichten-8248.jpg
+  Alamannenmuseum Ellwangen - 360°-Panorama-0010386.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg/400px-Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg/800px-Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg/1200px-Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg/1920px-Alamannenmuseum_Ellwangen_-_360°-Panorama-0010386.jpg
+  Alamannenmuseum Ellwangen - Aussenansicht-8166.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/400px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/800px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/1200px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg/1920px-Alamannenmuseum_Ellwangen_-_Aussenansicht-8166.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "German Emigration Center"
+title: German Emigration Center
 date: 2026-01-23
 draft: false
-description: "museum in Bremerhaven, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Bremerhaven, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5453
 longitude: 8.57417
 images:
-  - "/images-sites/german-emigration-center/01-29d9b7d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg/1200px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg/1200px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg/1200px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg/1200px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg/1200px-Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg
+image_srcset:
+  Bremerhaven, Bereisungsdampfer "Welle" -- 2024 -- 2216.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg/400px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg/800px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg/1200px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg/1920px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2216.jpg
+  Bremerhaven, Deutsches Auswandererhaus -- 2024 -- 2240.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg/400px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg/800px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg/1200px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg/1920px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2240.jpg
+  Bremerhaven, Bereisungsdampfer "Welle" -- 2024 -- 2212.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg/400px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg/800px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg/1200px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg/1920px-Bremerhaven,_Bereisungsdampfer_"Welle"_--_2024_--_2212.jpg
+  Bremerhaven, Deutsches Auswandererhaus -- 2024 -- 2241.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg/400px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg/800px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg/1200px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg/1920px-Bremerhaven,_Deutsches_Auswandererhaus_--_2024_--_2241.jpg
+  Deutsches Auswandererhaus Bremerhaven 09-2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg/400px-Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg/800px-Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg/1200px-Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg/1920px-Deutsches_Auswandererhaus_Bremerhaven_09-2008.jpg
 ---
 
 ## Overview

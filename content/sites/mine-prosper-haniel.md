@@ -13,7 +13,7 @@ regions:
 latitude: 51.5189
 longitude: 6.95972
 images:
-  - "/images-sites/mine-prosper-haniel/01-3a6317fd-800w.webp"
+  - "/images/mine-prosper-haniel/01-3a6317fd-800w.webp"
 ---
 
 ## Overview

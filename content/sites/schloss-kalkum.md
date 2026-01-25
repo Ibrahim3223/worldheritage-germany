@@ -21,7 +21,7 @@ longitude: 6.756944444
 
 # Images
 images:
-  - "/images-sites/schloss-kalkum/01-fdc75025-800w.webp"
+  - "/images/schloss-kalkum/01-fdc75025-800w.webp"
 ---
 
 ## Overview

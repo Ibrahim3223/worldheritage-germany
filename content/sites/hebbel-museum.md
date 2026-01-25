@@ -1,19 +1,49 @@
 ---
-title: "Hebbel-Museum"
+title: Hebbel-Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.2128
 longitude: 8.9239
 images:
-  - "/images-sites/hebbel-museum/01-40bb3e32-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hebbelmuseum_(Wesselburen)_jm21076.jpg/1200px-Hebbelmuseum_(Wesselburen)_jm21076.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Friedrich_Hebbel_-_Museum.jpg/1200px-Friedrich_Hebbel_-_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hebbel-Museum-Wesselburen.JPG/1200px-Hebbel-Museum-Wesselburen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hebbels_Schreibsekretär.JPG/1200px-Hebbels_Schreibsekretär.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/1200px-Hebbelmuseum_Eingang.JPG
+image_srcset:
+  Hebbelmuseum (Wesselburen) jm21076.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hebbelmuseum_(Wesselburen)_jm21076.jpg/400px-Hebbelmuseum_(Wesselburen)_jm21076.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hebbelmuseum_(Wesselburen)_jm21076.jpg/800px-Hebbelmuseum_(Wesselburen)_jm21076.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hebbelmuseum_(Wesselburen)_jm21076.jpg/1200px-Hebbelmuseum_(Wesselburen)_jm21076.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hebbelmuseum_(Wesselburen)_jm21076.jpg/1920px-Hebbelmuseum_(Wesselburen)_jm21076.jpg
+  Friedrich Hebbel - Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Friedrich_Hebbel_-_Museum.jpg/400px-Friedrich_Hebbel_-_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Friedrich_Hebbel_-_Museum.jpg/800px-Friedrich_Hebbel_-_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Friedrich_Hebbel_-_Museum.jpg/1200px-Friedrich_Hebbel_-_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Friedrich_Hebbel_-_Museum.jpg/1920px-Friedrich_Hebbel_-_Museum.jpg
+  Hebbel-Museum-Wesselburen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hebbel-Museum-Wesselburen.JPG/400px-Hebbel-Museum-Wesselburen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hebbel-Museum-Wesselburen.JPG/800px-Hebbel-Museum-Wesselburen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hebbel-Museum-Wesselburen.JPG/1200px-Hebbel-Museum-Wesselburen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Hebbel-Museum-Wesselburen.JPG/1920px-Hebbel-Museum-Wesselburen.JPG
+  Hebbels Schreibsekretär.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hebbels_Schreibsekretär.JPG/400px-Hebbels_Schreibsekretär.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hebbels_Schreibsekretär.JPG/800px-Hebbels_Schreibsekretär.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hebbels_Schreibsekretär.JPG/1200px-Hebbels_Schreibsekretär.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hebbels_Schreibsekretär.JPG/1920px-Hebbels_Schreibsekretär.JPG
+  Hebbelmuseum Eingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/400px-Hebbelmuseum_Eingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/800px-Hebbelmuseum_Eingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/1200px-Hebbelmuseum_Eingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hebbelmuseum_Eingang.JPG/1920px-Hebbelmuseum_Eingang.JPG
 ---
 
 ## Overview

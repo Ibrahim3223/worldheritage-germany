@@ -15,7 +15,7 @@ categories:
 wikidata_id: "Q2047230"
 description: "In the heart of Gunzenhausen, a city rich in history, stands Palais Zocha, an exquisite example of Baroque architecture. This palace, designed by the ar..."
 images:
-  - "/images-sites/palais-zocha/01-eec1c8a9-1920w.webp"
+  - "/images/palais-zocha/01-eec1c8a9-1920w.webp"
 ---
 
 ## Overview

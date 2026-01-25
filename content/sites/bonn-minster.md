@@ -1,23 +1,50 @@
 ---
-title: "Bonn Minster"
-site_name: "Bonn Minster"
-slug: "bonn-minster"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Bonn Minster
+site_name: Bonn Minster
+slug: bonn-minster
+region: North Rhine-Westphalia
 latitude: 50.733408
 longitude: 7.099789
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q686664"
-description: "Bonn Minster, a stunning example of Romanesque architecture, rises majestically in the heart of Bonn, Germany. At an impressive height of 86.6 meters, i..."
+- cultural site
+wikidata_id: Q686664
+description: Bonn Minster, a stunning example of Romanesque architecture, rises majestically
+  in the heart of Bonn, Germany. At an impressive height of 86.6 meters, i...
 images:
-  - "/images-sites/bonn-minster/01-2275debe-1920w.webp"
-  - "/images-sites/bonn-minster/02-10bfb608-1920w.webp"
-  - "/images-sites/bonn-minster/03-7df6b4ca-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bonner%20M%C3%BCnster.jpg/1200px-Bonner%20M%C3%BCnster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/1200px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/1200px-Bonner_Münster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg/1200px-Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Het_Münster_in_Bonn_(31479379615).jpg/1200px-Het_Münster_in_Bonn_(31479379615).jpg
+image_srcset:
+  Bonner%20M%C3%BCnster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bonner%20M%C3%BCnster.jpg/400px-Bonner%20M%C3%BCnster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bonner%20M%C3%BCnster.jpg/800px-Bonner%20M%C3%BCnster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bonner%20M%C3%BCnster.jpg/1200px-Bonner%20M%C3%BCnster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bonner%20M%C3%BCnster.jpg/1920px-Bonner%20M%C3%BCnster.jpg
+  Bonn, Beethoven-Denkmal -- 2020 -- 6513.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/400px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/800px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/1200px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg/1920px-Bonn,_Beethoven-Denkmal_--_2020_--_6513.jpg
+  Bonner Münster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/400px-Bonner_Münster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/800px-Bonner_Münster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/1200px-Bonner_Münster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonner_Münster.jpg/1920px-Bonner_Münster.jpg
+  Bonn-Zentrum Martinsplatz Münsterplatz Münster Luftaufnahme 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg/400px-Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg/800px-Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg/1200px-Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg/1920px-Bonn-Zentrum_Martinsplatz_Münsterplatz_Münster_Luftaufnahme_2015.jpg
+  Het Münster in Bonn (31479379615).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Het_Münster_in_Bonn_(31479379615).jpg/400px-Het_Münster_in_Bonn_(31479379615).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Het_Münster_in_Bonn_(31479379615).jpg/800px-Het_Münster_in_Bonn_(31479379615).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Het_Münster_in_Bonn_(31479379615).jpg/1200px-Het_Münster_in_Bonn_(31479379615).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Het_Münster_in_Bonn_(31479379615).jpg/1920px-Het_Münster_in_Bonn_(31479379615).jpg
 ---
 
 ## Overview

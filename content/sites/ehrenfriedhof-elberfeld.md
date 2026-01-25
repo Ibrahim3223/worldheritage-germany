@@ -1,21 +1,49 @@
 ---
-title: "Ehrenfriedhof Elberfeld"
+title: Ehrenfriedhof Elberfeld
 date: 2026-01-23
 draft: false
-description: "cemetery in Wuppertal, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Wuppertal, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2447
 longitude: 7.12389
 images:
-  - "/images-sites/ehrenfriedhof-elberfeld/01-685e9d64-800w.webp"
-  - "/images-sites/ehrenfriedhof-elberfeld/02-ba47e74e-800w.webp"
-  - "/images-sites/ehrenfriedhof-elberfeld/03-25604a6e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wuppertal_Königshöher_Weg_2014_001.JPG/1200px-Wuppertal_Königshöher_Weg_2014_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wuppertal_Königshöher_Weg_2014_027.JPG/1200px-Wuppertal_Königshöher_Weg_2014_027.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wuppertal_Königshöher_Weg_2014_037.JPG/1200px-Wuppertal_Königshöher_Weg_2014_037.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/1200px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehrengräberanlage_Hinweisschild.jpg/1200px-Ehrengräberanlage_Hinweisschild.jpg
+image_srcset:
+  Wuppertal Königshöher Weg 2014 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wuppertal_Königshöher_Weg_2014_001.JPG/400px-Wuppertal_Königshöher_Weg_2014_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wuppertal_Königshöher_Weg_2014_001.JPG/800px-Wuppertal_Königshöher_Weg_2014_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wuppertal_Königshöher_Weg_2014_001.JPG/1200px-Wuppertal_Königshöher_Weg_2014_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wuppertal_Königshöher_Weg_2014_001.JPG/1920px-Wuppertal_Königshöher_Weg_2014_001.JPG
+  Wuppertal Königshöher Weg 2014 027.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wuppertal_Königshöher_Weg_2014_027.JPG/400px-Wuppertal_Königshöher_Weg_2014_027.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wuppertal_Königshöher_Weg_2014_027.JPG/800px-Wuppertal_Königshöher_Weg_2014_027.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wuppertal_Königshöher_Weg_2014_027.JPG/1200px-Wuppertal_Königshöher_Weg_2014_027.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wuppertal_Königshöher_Weg_2014_027.JPG/1920px-Wuppertal_Königshöher_Weg_2014_027.JPG
+  Wuppertal Königshöher Weg 2014 037.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wuppertal_Königshöher_Weg_2014_037.JPG/400px-Wuppertal_Königshöher_Weg_2014_037.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wuppertal_Königshöher_Weg_2014_037.JPG/800px-Wuppertal_Königshöher_Weg_2014_037.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wuppertal_Königshöher_Weg_2014_037.JPG/1200px-Wuppertal_Königshöher_Weg_2014_037.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wuppertal_Königshöher_Weg_2014_037.JPG/1920px-Wuppertal_Königshöher_Weg_2014_037.JPG
+  Ehrenfriedhof Koenigshoehe Graeberfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/400px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/800px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/1200px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg/1920px-Ehrenfriedhof_Koenigshoehe_Graeberfeld.jpg
+  Ehrengräberanlage Hinweisschild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehrengräberanlage_Hinweisschild.jpg/400px-Ehrengräberanlage_Hinweisschild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehrengräberanlage_Hinweisschild.jpg/800px-Ehrengräberanlage_Hinweisschild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehrengräberanlage_Hinweisschild.jpg/1200px-Ehrengräberanlage_Hinweisschild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ehrengräberanlage_Hinweisschild.jpg/1920px-Ehrengräberanlage_Hinweisschild.jpg
 ---
 
 ## Overview

@@ -1,21 +1,43 @@
 ---
-title: "Iller"
+title: Iller
 date: 2026-01-23
 draft: false
-description: "right tributary of Danube in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: right tributary of Danube in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3814
 longitude: 9.973
 images:
-  - "/images-sites/iller/01-5df9e059-800w.webp"
-  - "/images-sites/iller/02-22ea5f4b-800w.webp"
-  - "/images-sites/iller/03-676fcbb1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20221018_Wasserkraftwerk_Illerstraße.jpg/1200px-20221018_Wasserkraftwerk_Illerstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg/1200px-20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Illertal-2008-12-29b.jpg/1200px-Illertal-2008-12-29b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lempe,_Bernhard_Volker_2012_Dissertation.png/1200px-Lempe,_Bernhard_Volker_2012_Dissertation.png
+image_srcset:
+  20221018 Wasserkraftwerk Illerstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20221018_Wasserkraftwerk_Illerstraße.jpg/400px-20221018_Wasserkraftwerk_Illerstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20221018_Wasserkraftwerk_Illerstraße.jpg/800px-20221018_Wasserkraftwerk_Illerstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20221018_Wasserkraftwerk_Illerstraße.jpg/1200px-20221018_Wasserkraftwerk_Illerstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/20221018_Wasserkraftwerk_Illerstraße.jpg/1920px-20221018_Wasserkraftwerk_Illerstraße.jpg
+  20221019 Baumwoll-Spinnerei und Weberei in Kempten Allgäu 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg/400px-20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg/800px-20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg/1200px-20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg/1920px-20221019_Baumwoll-Spinnerei_und_Weberei_in_Kempten_Allgäu_04.jpg
+  Illertal-2008-12-29b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Illertal-2008-12-29b.jpg/400px-Illertal-2008-12-29b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Illertal-2008-12-29b.jpg/800px-Illertal-2008-12-29b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Illertal-2008-12-29b.jpg/1200px-Illertal-2008-12-29b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Illertal-2008-12-29b.jpg/1920px-Illertal-2008-12-29b.jpg
+  Lempe, Bernhard Volker 2012 Dissertation.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lempe,_Bernhard_Volker_2012_Dissertation.png/400px-Lempe,_Bernhard_Volker_2012_Dissertation.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lempe,_Bernhard_Volker_2012_Dissertation.png/800px-Lempe,_Bernhard_Volker_2012_Dissertation.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lempe,_Bernhard_Volker_2012_Dissertation.png/1200px-Lempe,_Bernhard_Volker_2012_Dissertation.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lempe,_Bernhard_Volker_2012_Dissertation.png/1920px-Lempe,_Bernhard_Volker_2012_Dissertation.png
 ---
 
 ## Overview

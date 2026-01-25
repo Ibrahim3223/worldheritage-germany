@@ -1,19 +1,50 @@
 ---
-title: "Carwitzer See"
+title: Carwitzer See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.304444444
 longitude: 13.464722222
 images:
-  - "/images-sites/carwitzer-see/01-b025597a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bootshütten_am_Carwitzer_See.JPG/1200px-Bootshütten_am_Carwitzer_See.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/1200px-Zansen_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zansen_blick.jpg/1200px-Zansen_blick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carwitzer-See-14-02-2009-58.JPG/1200px-Carwitzer-See-14-02-2009-58.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg/1200px-Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg
+image_srcset:
+  Bootshütten am Carwitzer See.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bootshütten_am_Carwitzer_See.JPG/400px-Bootshütten_am_Carwitzer_See.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bootshütten_am_Carwitzer_See.JPG/800px-Bootshütten_am_Carwitzer_See.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bootshütten_am_Carwitzer_See.JPG/1200px-Bootshütten_am_Carwitzer_See.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bootshütten_am_Carwitzer_See.JPG/1920px-Bootshütten_am_Carwitzer_See.JPG
+  Zansen 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/400px-Zansen_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/800px-Zansen_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/1200px-Zansen_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Zansen_01.jpg/1920px-Zansen_01.jpg
+  Zansen blick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zansen_blick.jpg/400px-Zansen_blick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zansen_blick.jpg/800px-Zansen_blick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zansen_blick.jpg/1200px-Zansen_blick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Zansen_blick.jpg/1920px-Zansen_blick.jpg
+  Carwitzer-See-14-02-2009-58.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carwitzer-See-14-02-2009-58.JPG/400px-Carwitzer-See-14-02-2009-58.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carwitzer-See-14-02-2009-58.JPG/800px-Carwitzer-See-14-02-2009-58.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carwitzer-See-14-02-2009-58.JPG/1200px-Carwitzer-See-14-02-2009-58.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carwitzer-See-14-02-2009-58.JPG/1920px-Carwitzer-See-14-02-2009-58.JPG
+  Bundesarchiv Bild 183-L0816-0398, Blick auf den Carwitzer See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg/400px-Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg/800px-Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg/1200px-Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg/1920px-Bundesarchiv_Bild_183-L0816-0398,_Blick_auf_den_Carwitzer_See.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.145771
 longitude: 9.222593
 images:
-  - "/images-sites/theater-heilbronn/01-7e6c3fb2-800w.webp"
+  - "/images/theater-heilbronn/01-7e6c3fb2-800w.webp"
 ---
 
 ## Overview

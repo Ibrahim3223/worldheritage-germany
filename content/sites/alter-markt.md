@@ -1,19 +1,49 @@
 ---
-title: "Alter Markt"
+title: Alter Markt
 date: 2026-01-23
 draft: false
-description: "square in Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3958
 longitude: 13.0611
 images:
-  - "/images-sites/alter-markt/01-0c87ffe7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg/1200px-Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Salzburg_Wettersäule_Alter_Markt-8103-2.jpg/1200px-Salzburg_Wettersäule_Alter_Markt-8103-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alter_Markt_(Salzburg).jpg/1200px-Alter_Markt_(Salzburg).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg/1200px-Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg/1200px-Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg
+image_srcset:
+  Salzburg Florianibrunnen Alter Markt-8101-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg/400px-Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg/800px-Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg/1200px-Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg/1920px-Salzburg_Florianibrunnen_Alter_Markt-8101-2.jpg
+  Salzburg Wettersäule Alter Markt-8103-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Salzburg_Wettersäule_Alter_Markt-8103-2.jpg/400px-Salzburg_Wettersäule_Alter_Markt-8103-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Salzburg_Wettersäule_Alter_Markt-8103-2.jpg/800px-Salzburg_Wettersäule_Alter_Markt-8103-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Salzburg_Wettersäule_Alter_Markt-8103-2.jpg/1200px-Salzburg_Wettersäule_Alter_Markt-8103-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Salzburg_Wettersäule_Alter_Markt-8103-2.jpg/1920px-Salzburg_Wettersäule_Alter_Markt-8103-2.jpg
+  Alter Markt (Salzburg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alter_Markt_(Salzburg).jpg/400px-Alter_Markt_(Salzburg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alter_Markt_(Salzburg).jpg/800px-Alter_Markt_(Salzburg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alter_Markt_(Salzburg).jpg/1200px-Alter_Markt_(Salzburg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alter_Markt_(Salzburg).jpg/1920px-Alter_Markt_(Salzburg).jpg
+  Original Salzburger Mozartkugel Confiserie Josef Holzermayr 1950.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg/400px-Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg/800px-Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg/1200px-Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg/1920px-Original_Salzburger_Mozartkugel_Confiserie_Josef_Holzermayr_1950.jpg
+  Rudolf Baumann - Erfinder der Salzburger Mozartkugel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg/400px-Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg/800px-Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg/1200px-Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg/1920px-Rudolf_Baumann_-_Erfinder_der_Salzburger_Mozartkugel.jpg
 ---
 
 ## Overview

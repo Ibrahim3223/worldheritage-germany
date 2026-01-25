@@ -1,23 +1,50 @@
 ---
-title: "Church of St. Mary Magdalene"
-site_name: "Church of St. Mary Magdalene"
-slug: "church-of-st-mary-magdalene"
-region: "Lower Saxony"
-
-# Location
+title: Church of St. Mary Magdalene
+site_name: Church of St. Mary Magdalene
+slug: church-of-st-mary-magdalene
+region: Lower Saxony
 latitude: 53.3708
 longitude: 10.5533
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1895569"
-description: "The Church of St. Mary Magdalene in Lauenburg/Elbe, Germany, serves as a striking example of Brick Gothic architecture. This church, made of enduring br..."
+- cultural site
+wikidata_id: Q1895569
+description: The Church of St. Mary Magdalene in Lauenburg/Elbe, Germany, serves as
+  a striking example of Brick Gothic architecture. This church, made of enduring br...
 images:
-  - "/images-sites/church-of-st-mary-magdalene/01-b82b8f27-1920w.webp"
-  - "/images-sites/church-of-st-mary-magdalene/02-552c5633-1920w.webp"
-  - "/images-sites/church-of-st-mary-magdalene/03-d9f5356f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg/1200px-240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg/1200px-Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg/1200px-Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Virgen_del_Rosario,_Francisco_Pacheco.jpg/1200px-Virgen_del_Rosario,_Francisco_Pacheco.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg/1200px-Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg
+image_srcset:
+  240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg/400px-240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg/800px-240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg/1200px-240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg/1920px-240%202015%2007%2014%20Kirche%20St.%20Maria%20Magdalena.jpg
+  Altar de las Ánimas Benditas del Purgatorio, Iglesia de la Magdalena (Sevilla).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg/400px-Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg/800px-Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg/1200px-Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg/1920px-Altar_de_las_Ánimas_Benditas_del_Purgatorio,_Iglesia_de_la_Magdalena_(Sevilla).jpg
+  Virgen de la Clemencia, Iglesia de Santa María Magdalena (Sevilla).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg/400px-Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg/800px-Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg/1200px-Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg/1920px-Virgen_de_la_Clemencia,_Iglesia_de_Santa_María_Magdalena_(Sevilla).jpg
+  Virgen del Rosario, Francisco Pacheco.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Virgen_del_Rosario,_Francisco_Pacheco.jpg/400px-Virgen_del_Rosario,_Francisco_Pacheco.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Virgen_del_Rosario,_Francisco_Pacheco.jpg/800px-Virgen_del_Rosario,_Francisco_Pacheco.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Virgen_del_Rosario,_Francisco_Pacheco.jpg/1200px-Virgen_del_Rosario,_Francisco_Pacheco.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Virgen_del_Rosario,_Francisco_Pacheco.jpg/1920px-Virgen_del_Rosario,_Francisco_Pacheco.jpg
+  Church of St Mary Magdalene - Sparkford - geograph.org.uk - 424442.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg/400px-Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg/800px-Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg/1200px-Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg/1920px-Church_of_St_Mary_Magdalene_-_Sparkford_-_geograph.org.uk_-_424442.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hemp Museum"
+title: Hemp Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5167
 longitude: 13.4081
 images:
-  - "/images-sites/hemp-museum/01-282d8154-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg/1200px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg/1200px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg/1200px-Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg/1200px-Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hash_museum_amsterdam.JPG/1200px-Hash_museum_amsterdam.JPG
+image_srcset:
+  Hash , Marihuana and Hemp Museum, Amsterdam 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg/400px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg/800px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg/1200px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg/1920px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_03.jpg
+  Hash , Marihuana and Hemp Museum, Amsterdam 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg/400px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg/800px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg/1200px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg/1920px-Hash_,_Marihuana_and_Hemp_Museum,_Amsterdam_08.jpg
+  Hash, Marihuana and Hemp Museum, Amsterdam 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg/400px-Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg/800px-Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg/1200px-Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg/1920px-Hash,_Marihuana_and_Hemp_Museum,_Amsterdam_09.jpg
+  Hash, Marijuana and Hemp Museum , Amsterdam 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg/400px-Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg/800px-Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg/1200px-Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg/1920px-Hash,_Marijuana_and_Hemp_Museum_,_Amsterdam_09.jpg
+  Hash museum amsterdam.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hash_museum_amsterdam.JPG/400px-Hash_museum_amsterdam.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hash_museum_amsterdam.JPG/800px-Hash_museum_amsterdam.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hash_museum_amsterdam.JPG/1200px-Hash_museum_amsterdam.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hash_museum_amsterdam.JPG/1920px-Hash_museum_amsterdam.JPG
 ---
 
 ## Overview

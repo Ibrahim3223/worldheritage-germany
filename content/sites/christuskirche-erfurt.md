@@ -1,24 +1,51 @@
 ---
-title: "Christuskirche (Erfurt)"
-site_name: "Christuskirche (Erfurt)"
-slug: "christuskirche-erfurt"
-region: "Saxony-Anhalt"
-
-# Location
+title: Christuskirche (Erfurt)
+site_name: Christuskirche (Erfurt)
+slug: christuskirche-erfurt
+region: Saxony-Anhalt
 latitude: 50.9689
 longitude: 11.0133
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087302"
-description: "In the heart of Erfurt, Germany, stands Christuskirche, a striking example of Neoclassical architecture that has become a defining feature of the city’s..."
+- church building
+- religious site
+wikidata_id: Q1087302
+description: In the heart of Erfurt, Germany, stands Christuskirche, a striking example
+  of Neoclassical architecture that has become a defining feature of the city’s...
 images:
-  - "/images-sites/christuskirche-erfurt/01-b2fa76b2-1920w.webp"
-  - "/images-sites/christuskirche-erfurt/02-6e4a3937-1920w.webp"
-  - "/images-sites/christuskirche-erfurt/03-e6d6563a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Erfurt%20-%20Christuskirche.jpg/1200px-Erfurt%20-%20Christuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1200px-Erfurt_-_Christuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Erfurt_Christuskirche_01.jpg/1200px-Erfurt_Christuskirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erfurt_Christuskirche_03.jpg/1200px-Erfurt_Christuskirche_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erfurt_Christuskirche_05.jpg/1200px-Erfurt_Christuskirche_05.jpg
+image_srcset:
+  Erfurt%20-%20Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Erfurt%20-%20Christuskirche.jpg/400px-Erfurt%20-%20Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Erfurt%20-%20Christuskirche.jpg/800px-Erfurt%20-%20Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Erfurt%20-%20Christuskirche.jpg/1200px-Erfurt%20-%20Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Erfurt%20-%20Christuskirche.jpg/1920px-Erfurt%20-%20Christuskirche.jpg
+  Erfurt - Christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/400px-Erfurt_-_Christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/800px-Erfurt_-_Christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1200px-Erfurt_-_Christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erfurt_-_Christuskirche.jpg/1920px-Erfurt_-_Christuskirche.jpg
+  Erfurt Christuskirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Erfurt_Christuskirche_01.jpg/400px-Erfurt_Christuskirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Erfurt_Christuskirche_01.jpg/800px-Erfurt_Christuskirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Erfurt_Christuskirche_01.jpg/1200px-Erfurt_Christuskirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Erfurt_Christuskirche_01.jpg/1920px-Erfurt_Christuskirche_01.jpg
+  Erfurt Christuskirche 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erfurt_Christuskirche_03.jpg/400px-Erfurt_Christuskirche_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erfurt_Christuskirche_03.jpg/800px-Erfurt_Christuskirche_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erfurt_Christuskirche_03.jpg/1200px-Erfurt_Christuskirche_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Erfurt_Christuskirche_03.jpg/1920px-Erfurt_Christuskirche_03.jpg
+  Erfurt Christuskirche 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erfurt_Christuskirche_05.jpg/400px-Erfurt_Christuskirche_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erfurt_Christuskirche_05.jpg/800px-Erfurt_Christuskirche_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erfurt_Christuskirche_05.jpg/1200px-Erfurt_Christuskirche_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Erfurt_Christuskirche_05.jpg/1920px-Erfurt_Christuskirche_05.jpg
 ---
 
 ## Overview

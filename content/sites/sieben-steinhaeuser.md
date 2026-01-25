@@ -21,8 +21,8 @@ longitude: 9.7975
 
 # Images
 images:
-  - "/images-sites/sieben-steinhaeuser/02-ef83f36d-800w.webp"
-  - "/images-sites/sieben-steinhaeuser/03-ce96b04a-800w.webp"
+  - "/images/sieben-steinhaeuser/02-ef83f36d-800w.webp"
+  - "/images/sieben-steinhaeuser/03-ce96b04a-800w.webp"
 ---
 
 ## Overview

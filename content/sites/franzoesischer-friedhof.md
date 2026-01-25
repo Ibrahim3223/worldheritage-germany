@@ -1,19 +1,49 @@
 ---
-title: "Französischer Friedhof"
+title: Französischer Friedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Mitte, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Mitte, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5283
 longitude: 13.385
 images:
-  - "/images-sites/franzoesischer-friedhof/01-249f57fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Franzoesischer_Friedhof.jpg/1200px-Franzoesischer_Friedhof.jpg
+image_srcset:
+  Berlin Französischer Friedhof I Grab Franz Bendel 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg/400px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg/800px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg/1920px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_1.jpg
+  Berlin Französischer Friedhof I Grab Franz Bendel 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg/400px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg/800px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg/1920px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_2.jpg
+  Berlin Französischer Friedhof I Grab Franz Bendel 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg/400px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg/800px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg/1920px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_3.jpg
+  Berlin Französischer Friedhof I Grab Franz Bendel 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg/400px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg/800px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg/1200px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg/1920px-Berlin_Französischer_Friedhof_I_Grab_Franz_Bendel_5.jpg
+  Franzoesischer Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Franzoesischer_Friedhof.jpg/400px-Franzoesischer_Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Franzoesischer_Friedhof.jpg/800px-Franzoesischer_Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Franzoesischer_Friedhof.jpg/1200px-Franzoesischer_Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Franzoesischer_Friedhof.jpg/1920px-Franzoesischer_Friedhof.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.3746
 longitude: 7.59744
 images:
-  - "/images-sites/neuendorf-flche/01-c773f3d9-800w.webp"
+  - "/images/neuendorf-flche/01-c773f3d9-800w.webp"
 ---
 
 ## Overview

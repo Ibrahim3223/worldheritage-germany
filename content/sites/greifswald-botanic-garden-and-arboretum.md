@@ -1,27 +1,43 @@
 ---
-title: "Greifswald Botanic Garden and Arboretum"
+title: Greifswald Botanic Garden and Arboretum
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.091669444
 longitude: 13.406980555
-
-# Images
 images:
-  - "/images-sites/greifswald-botanic-garden-and-arboretum/01-756ef277-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Greifswald_Botanic_Garden_Plan.JPG/1200px-Greifswald_Botanic_Garden_Plan.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greifswald_Botanic_Garden_01.JPG/1200px-Greifswald_Botanic_Garden_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Greifswald_Botanic_Garden_02.JPG/1200px-Greifswald_Botanic_Garden_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heidegarten_Arboretum_0521_123101.jpg/1200px-Heidegarten_Arboretum_0521_123101.jpg
+image_srcset:
+  Greifswald Botanic Garden Plan.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Greifswald_Botanic_Garden_Plan.JPG/400px-Greifswald_Botanic_Garden_Plan.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Greifswald_Botanic_Garden_Plan.JPG/800px-Greifswald_Botanic_Garden_Plan.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Greifswald_Botanic_Garden_Plan.JPG/1200px-Greifswald_Botanic_Garden_Plan.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Greifswald_Botanic_Garden_Plan.JPG/1920px-Greifswald_Botanic_Garden_Plan.JPG
+  Greifswald Botanic Garden 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greifswald_Botanic_Garden_01.JPG/400px-Greifswald_Botanic_Garden_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greifswald_Botanic_Garden_01.JPG/800px-Greifswald_Botanic_Garden_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greifswald_Botanic_Garden_01.JPG/1200px-Greifswald_Botanic_Garden_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Greifswald_Botanic_Garden_01.JPG/1920px-Greifswald_Botanic_Garden_01.JPG
+  Greifswald Botanic Garden 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Greifswald_Botanic_Garden_02.JPG/400px-Greifswald_Botanic_Garden_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Greifswald_Botanic_Garden_02.JPG/800px-Greifswald_Botanic_Garden_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Greifswald_Botanic_Garden_02.JPG/1200px-Greifswald_Botanic_Garden_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Greifswald_Botanic_Garden_02.JPG/1920px-Greifswald_Botanic_Garden_02.JPG
+  Heidegarten Arboretum 0521 123101.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heidegarten_Arboretum_0521_123101.jpg/400px-Heidegarten_Arboretum_0521_123101.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heidegarten_Arboretum_0521_123101.jpg/800px-Heidegarten_Arboretum_0521_123101.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heidegarten_Arboretum_0521_123101.jpg/1200px-Heidegarten_Arboretum_0521_123101.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heidegarten_Arboretum_0521_123101.jpg/1920px-Heidegarten_Arboretum_0521_123101.jpg
 ---
 
 ## Overview

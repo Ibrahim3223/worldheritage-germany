@@ -13,7 +13,7 @@ regions:
 latitude: 50.01048186
 longitude: 11.993764635
 images:
-  - "/images-sites/landschaftsgarten/01-2a8313d6-800w.webp"
+  - "/images/landschaftsgarten/01-2a8313d6-800w.webp"
 ---
 
 ## Overview

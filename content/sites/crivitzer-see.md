@@ -1,20 +1,49 @@
 ---
-title: "Crivitzer See"
+title: Crivitzer See
 date: 2026-01-23
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.576944444
 longitude: 11.641666666
 images:
-  - "/images-sites/crivitzer-see/02-da52ab23-800w.webp"
-  - "/images-sites/crivitzer-see/03-26a1e20a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CrivitzerSee-2.jpg/1200px-CrivitzerSee-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Crivitzer_See_1.JPG/1200px-Crivitzer_See_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crivitzer_See_4.JPG/1200px-Crivitzer_See_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crivitzer_See_5.JPG/1200px-Crivitzer_See_5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Crivitzer_See_6.JPG/1200px-Crivitzer_See_6.JPG
+image_srcset:
+  CrivitzerSee-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CrivitzerSee-2.jpg/400px-CrivitzerSee-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CrivitzerSee-2.jpg/800px-CrivitzerSee-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CrivitzerSee-2.jpg/1200px-CrivitzerSee-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CrivitzerSee-2.jpg/1920px-CrivitzerSee-2.jpg
+  Crivitzer See 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Crivitzer_See_1.JPG/400px-Crivitzer_See_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Crivitzer_See_1.JPG/800px-Crivitzer_See_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Crivitzer_See_1.JPG/1200px-Crivitzer_See_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Crivitzer_See_1.JPG/1920px-Crivitzer_See_1.JPG
+  Crivitzer See 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crivitzer_See_4.JPG/400px-Crivitzer_See_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crivitzer_See_4.JPG/800px-Crivitzer_See_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crivitzer_See_4.JPG/1200px-Crivitzer_See_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crivitzer_See_4.JPG/1920px-Crivitzer_See_4.JPG
+  Crivitzer See 5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crivitzer_See_5.JPG/400px-Crivitzer_See_5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crivitzer_See_5.JPG/800px-Crivitzer_See_5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crivitzer_See_5.JPG/1200px-Crivitzer_See_5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crivitzer_See_5.JPG/1920px-Crivitzer_See_5.JPG
+  Crivitzer See 6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Crivitzer_See_6.JPG/400px-Crivitzer_See_6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Crivitzer_See_6.JPG/800px-Crivitzer_See_6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Crivitzer_See_6.JPG/1200px-Crivitzer_See_6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Crivitzer_See_6.JPG/1920px-Crivitzer_See_6.JPG
 ---
 
 ## Overview

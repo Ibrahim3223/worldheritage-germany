@@ -13,7 +13,7 @@ regions:
 latitude: 47.658754
 longitude: 9.177312
 images:
-  - "/images-sites/konstanz-station/01-d4642ccb-800w.webp"
+  - "/images/konstanz-station/01-d4642ccb-800w.webp"
 ---
 
 ## Overview

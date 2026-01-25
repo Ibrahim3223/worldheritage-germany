@@ -1,19 +1,50 @@
 ---
-title: "Bundesverfassungsgericht, Dienstsitz Schlossbezirk"
+title: Bundesverfassungsgericht, Dienstsitz Schlossbezirk
 date: 2026-01-23
 draft: false
-description: "building in Karlsruhe, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Courthouse"
+description: building in Karlsruhe, Karlsruhe Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Courthouse
 categories:
-  - "Courthouse"
+- Courthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0125
 longitude: 8.401669444
 images:
-  - "/images-sites/bundesverfassungsgericht-dienstsitz-schlossbezirk/01-0906e6ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg/1200px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg/1200px-Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg/1200px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg/1200px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg/1200px-Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg
+image_srcset:
+  Karlsruhe at night – Bundesverfassungsgericht Karlsruhe - 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg/400px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg/800px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg/1200px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg/1920px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_3.jpg
+  Gebäudekomplex des Bundesverfassungsgerichts (Baumgarten-Bau) - Bauteil III 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg/400px-Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg/800px-Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg/1200px-Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg/1920px-Gebäudekomplex_des_Bundesverfassungsgerichts_(Baumgarten-Bau)_-_Bauteil_III_2.jpg
+  Karlsruhe at night – Bundesverfassungsgericht Karlsruhe - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg/400px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg/800px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg/1200px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg/1920px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_1.jpg
+  Karlsruhe at night – Bundesverfassungsgericht Karlsruhe - 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg/400px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg/800px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg/1200px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg/1920px-Karlsruhe_at_night_–_Bundesverfassungsgericht_Karlsruhe_-_2.jpg
+  Bundesverfassungsgericht - geo.hlipp.de - 19358.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg/400px-Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg/800px-Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg/1200px-Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg/1920px-Bundesverfassungsgericht_-_geo.hlipp.de_-_19358.jpg
 ---
 
 ## Overview

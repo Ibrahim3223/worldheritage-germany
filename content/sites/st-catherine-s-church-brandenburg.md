@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1303552"
 description: "St. Catherines Church in Brandenburg an der Havel is a remarkable example of Brick Gothic architecture, with a history that dates back to its founding i..."
 images:
-  - "/images-sites/st-catherine-s-church-brandenburg/01-839a4914-1920w.webp"
-  - "/images-sites/st-catherine-s-church-brandenburg/02-71ac5956-1920w.webp"
-  - "/images-sites/st-catherine-s-church-brandenburg/03-b24064d1-1920w.webp"
+  - "/images/st-catherine-s-church-brandenburg/01-839a4914-1920w.webp"
+  - "/images/st-catherine-s-church-brandenburg/02-71ac5956-1920w.webp"
+  - "/images/st-catherine-s-church-brandenburg/03-b24064d1-1920w.webp"
 ---
 
 ## Overview

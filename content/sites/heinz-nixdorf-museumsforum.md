@@ -1,19 +1,49 @@
 ---
-title: "Heinz Nixdorf MuseumsForum"
+title: Heinz Nixdorf MuseumsForum
 date: 2026-01-23
 draft: false
-description: "Computer museum in Paderborn, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Computer museum in Paderborn, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7314
 longitude: 8.73564
 images:
-  - "/images-sites/heinz-nixdorf-museumsforum/01-1b8f650d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/1200px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heinz_Nixdorf_MuseumsForum.jpg/1200px-Heinz_Nixdorf_MuseumsForum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg/1200px-Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Norbert_Ryska_1998.jpg/1200px-Norbert_Ryska_1998.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Konrad_Zuse_und_Heinz_Nixdorf.JPG/1200px-Konrad_Zuse_und_Heinz_Nixdorf.JPG
+image_srcset:
+  Heinz Nixdorf MuseumsForum Paderborn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/400px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/800px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/1200px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heinz_Nixdorf_MuseumsForum_Paderborn.jpg/1920px-Heinz_Nixdorf_MuseumsForum_Paderborn.jpg
+  Heinz Nixdorf MuseumsForum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heinz_Nixdorf_MuseumsForum.jpg/400px-Heinz_Nixdorf_MuseumsForum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heinz_Nixdorf_MuseumsForum.jpg/800px-Heinz_Nixdorf_MuseumsForum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heinz_Nixdorf_MuseumsForum.jpg/1200px-Heinz_Nixdorf_MuseumsForum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Heinz_Nixdorf_MuseumsForum.jpg/1920px-Heinz_Nixdorf_MuseumsForum.jpg
+  Heinz Nixdorf Forum in Paderborn IMGP0062.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg/400px-Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg/800px-Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg/1200px-Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg/1920px-Heinz_Nixdorf_Forum_in_Paderborn_IMGP0062.jpg
+  Norbert Ryska 1998.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Norbert_Ryska_1998.jpg/400px-Norbert_Ryska_1998.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Norbert_Ryska_1998.jpg/800px-Norbert_Ryska_1998.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Norbert_Ryska_1998.jpg/1200px-Norbert_Ryska_1998.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Norbert_Ryska_1998.jpg/1920px-Norbert_Ryska_1998.jpg
+  Konrad Zuse und Heinz Nixdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Konrad_Zuse_und_Heinz_Nixdorf.JPG/400px-Konrad_Zuse_und_Heinz_Nixdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Konrad_Zuse_und_Heinz_Nixdorf.JPG/800px-Konrad_Zuse_und_Heinz_Nixdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Konrad_Zuse_und_Heinz_Nixdorf.JPG/1200px-Konrad_Zuse_und_Heinz_Nixdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Konrad_Zuse_und_Heinz_Nixdorf.JPG/1920px-Konrad_Zuse_und_Heinz_Nixdorf.JPG
 ---
 
 ## Overview

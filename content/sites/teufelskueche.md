@@ -13,7 +13,7 @@ regions:
 latitude: 47.91888889
 longitude: 7.76666667
 images:
-  - "/images-sites/teufelskueche/01-4d03e7a7-800w.webp"
+  - "/images/teufelskueche/01-4d03e7a7-800w.webp"
 ---
 
 ## Overview

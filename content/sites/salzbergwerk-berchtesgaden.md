@@ -13,8 +13,8 @@ regions:
 latitude: 47.638119733
 longitude: 13.017754043
 images:
-  - "/images-sites/salzbergwerk-berchtesgaden/01-72f82d23-800w.webp"
-  - "/images-sites/salzbergwerk-berchtesgaden/03-f846ba08-800w.webp"
+  - "/images/salzbergwerk-berchtesgaden/01-72f82d23-800w.webp"
+  - "/images/salzbergwerk-berchtesgaden/03-f846ba08-800w.webp"
 ---
 
 ## Overview

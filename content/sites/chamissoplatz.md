@@ -1,19 +1,49 @@
 ---
-title: "Chamissoplatz"
+title: Chamissoplatz
 date: 2026-01-23
 draft: false
-description: "square in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4883
 longitude: 13.3908
 images:
-  - "/images-sites/chamissoplatz/01-3eec8e8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kreuzberg_Chamissoplatz.jpg/1200px-Kreuzberg_Chamissoplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ökomarkt_Chamissoplatz_01.jpg/1200px-Ökomarkt_Chamissoplatz_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ökomarkt_Chamissoplatz_02.jpg/1200px-Ökomarkt_Chamissoplatz_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chamissoplatz_mit_Wasserpumpe_2024.jpg/1200px-Chamissoplatz_mit_Wasserpumpe_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1200px-Chamissoplatz.jpg
+image_srcset:
+  Kreuzberg Chamissoplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kreuzberg_Chamissoplatz.jpg/400px-Kreuzberg_Chamissoplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kreuzberg_Chamissoplatz.jpg/800px-Kreuzberg_Chamissoplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kreuzberg_Chamissoplatz.jpg/1200px-Kreuzberg_Chamissoplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kreuzberg_Chamissoplatz.jpg/1920px-Kreuzberg_Chamissoplatz.jpg
+  Ökomarkt Chamissoplatz 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ökomarkt_Chamissoplatz_01.jpg/400px-Ökomarkt_Chamissoplatz_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ökomarkt_Chamissoplatz_01.jpg/800px-Ökomarkt_Chamissoplatz_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ökomarkt_Chamissoplatz_01.jpg/1200px-Ökomarkt_Chamissoplatz_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ökomarkt_Chamissoplatz_01.jpg/1920px-Ökomarkt_Chamissoplatz_01.jpg
+  Ökomarkt Chamissoplatz 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ökomarkt_Chamissoplatz_02.jpg/400px-Ökomarkt_Chamissoplatz_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ökomarkt_Chamissoplatz_02.jpg/800px-Ökomarkt_Chamissoplatz_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ökomarkt_Chamissoplatz_02.jpg/1200px-Ökomarkt_Chamissoplatz_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ökomarkt_Chamissoplatz_02.jpg/1920px-Ökomarkt_Chamissoplatz_02.jpg
+  Chamissoplatz mit Wasserpumpe 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chamissoplatz_mit_Wasserpumpe_2024.jpg/400px-Chamissoplatz_mit_Wasserpumpe_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chamissoplatz_mit_Wasserpumpe_2024.jpg/800px-Chamissoplatz_mit_Wasserpumpe_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chamissoplatz_mit_Wasserpumpe_2024.jpg/1200px-Chamissoplatz_mit_Wasserpumpe_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chamissoplatz_mit_Wasserpumpe_2024.jpg/1920px-Chamissoplatz_mit_Wasserpumpe_2024.jpg
+  Chamissoplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/400px-Chamissoplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/800px-Chamissoplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1200px-Chamissoplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chamissoplatz.jpg/1920px-Chamissoplatz.jpg
 ---
 
 ## Overview

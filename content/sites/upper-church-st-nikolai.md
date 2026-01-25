@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1415897"
 description: "Upper Church St. Nikolai, located in the heart of Cottbus, Germany, is a striking example of Brick Gothic architecture that captivates visitors with its..."
 images:
-  - "/images-sites/upper-church-st-nikolai/01-ea0b8965-1920w.webp"
-  - "/images-sites/upper-church-st-nikolai/02-8cd1fec1-1920w.webp"
-  - "/images-sites/upper-church-st-nikolai/03-6025a017-1920w.webp"
+  - "/images/upper-church-st-nikolai/01-ea0b8965-1920w.webp"
+  - "/images/upper-church-st-nikolai/02-8cd1fec1-1920w.webp"
+  - "/images/upper-church-st-nikolai/03-6025a017-1920w.webp"
 ---
 
 ## Overview

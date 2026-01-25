@@ -13,7 +13,7 @@ regions:
 latitude: 49.74
 longitude: 9.91
 images:
-  - "/images-sites/naturwaldreservat-waldkugel/01-1a45652c-800w.webp"
+  - "/images/naturwaldreservat-waldkugel/01-1a45652c-800w.webp"
 ---
 
 ## Overview

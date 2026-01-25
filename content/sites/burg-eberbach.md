@@ -1,19 +1,49 @@
 ---
-title: "Burg Eberbach"
+title: Burg Eberbach
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4664
 longitude: 8.99972
 images:
-  - "/images-sites/burg-eberbach/01-707eeab1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg/1200px-Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg/1200px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg/1200px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg/1200px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eberbach-mittelburg-web.jpg/1200px-Eberbach-mittelburg-web.jpg
+image_srcset:
+  Eberbach - Burg Eberbach - Vorderburg - Ansicht von WNW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg/400px-Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg/800px-Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg/1200px-Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg/1920px-Eberbach_-_Burg_Eberbach_-_Vorderburg_-_Ansicht_von_WNW.jpg
+  Eberbach - Burg Eberbach - Mittelburg - Palas - Südfassade (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg/400px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg/800px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg/1200px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg/1920px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(1).jpg
+  Eberbach - Burg Eberbach - Mittelburg - Palas - Arkadenfenster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg/400px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg/800px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg/1200px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg/1920px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Arkadenfenster.jpg
+  Eberbach - Burg Eberbach - Mittelburg - Palas - Südfassade (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg/400px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg/800px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg/1200px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg/1920px-Eberbach_-_Burg_Eberbach_-_Mittelburg_-_Palas_-_Südfassade_(2).jpg
+  Eberbach-mittelburg-web.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eberbach-mittelburg-web.jpg/400px-Eberbach-mittelburg-web.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eberbach-mittelburg-web.jpg/800px-Eberbach-mittelburg-web.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eberbach-mittelburg-web.jpg/1200px-Eberbach-mittelburg-web.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Eberbach-mittelburg-web.jpg/1920px-Eberbach-mittelburg-web.jpg
 ---
 
 ## Overview

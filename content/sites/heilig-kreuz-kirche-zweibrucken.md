@@ -1,24 +1,51 @@
 ---
-title: "Heilig-Kreuz-Kirche (Zweibrücken)"
-site_name: "Heilig-Kreuz-Kirche (Zweibrücken)"
-slug: "heilig-kreuz-kirche-zweibrucken"
-region: "Saarland"
-
-# Location
+title: Heilig-Kreuz-Kirche (Zweibrücken)
+site_name: Heilig-Kreuz-Kirche (Zweibrücken)
+slug: heilig-kreuz-kirche-zweibrucken
+region: Saarland
 latitude: 49.25
 longitude: 7.36389
 regions:
-    - "Saarland"
-heritage_type: "cultural site"
+- Saarland
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1269718"
-description: "Heilig-Kreuz-Kirche in Zweibrücken is a striking example of Gothic Revival architecture, captivating visitors with its intricate designs and historical ..."
+- church building
+- religious site
+wikidata_id: Q1269718
+description: Heilig-Kreuz-Kirche in Zweibrücken is a striking example of Gothic Revival
+  architecture, captivating visitors with its intricate designs and historical ...
 images:
-  - "/images-sites/heilig-kreuz-kirche-zweibrucken/01-e9e3e3d8-1920w.webp"
-  - "/images-sites/heilig-kreuz-kirche-zweibrucken/02-f63f849b-1920w.webp"
-  - "/images-sites/heilig-kreuz-kirche-zweibrucken/03-37914a06-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG/1200px-Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zweibrücken_Heilig_Kreuz_05.JPG/1200px-Zweibrücken_Heilig_Kreuz_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1200px-Zweibrücken_Heilig_Kreuz_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG/1200px-Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG/1200px-Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG
+image_srcset:
+  Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG/400px-Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG/800px-Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG/1200px-Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG/1920px-Zweibr%C3%BCcken%20Heilig%20Kreuz%2001.JPG
+  Zweibrücken Heilig Kreuz 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zweibrücken_Heilig_Kreuz_05.JPG/400px-Zweibrücken_Heilig_Kreuz_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zweibrücken_Heilig_Kreuz_05.JPG/800px-Zweibrücken_Heilig_Kreuz_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zweibrücken_Heilig_Kreuz_05.JPG/1200px-Zweibrücken_Heilig_Kreuz_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zweibrücken_Heilig_Kreuz_05.JPG/1920px-Zweibrücken_Heilig_Kreuz_05.JPG
+  Zweibrücken Heilig Kreuz 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/400px-Zweibrücken_Heilig_Kreuz_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/800px-Zweibrücken_Heilig_Kreuz_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1200px-Zweibrücken_Heilig_Kreuz_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zweibrücken_Heilig_Kreuz_01.JPG/1920px-Zweibrücken_Heilig_Kreuz_01.JPG
+  Zweibrücken Heilig Kreuz-Kirche Seitenansicht 03 2012-06-11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG/400px-Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG/800px-Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG/1200px-Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG/1920px-Zweibrücken_Heilig_Kreuz-Kirche_Seitenansicht_03_2012-06-11.JPG
+  Zweibrücken Heilig Kreuz-Kirche Westfassade 01 2012-06-11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG/400px-Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG/800px-Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG/1200px-Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG/1920px-Zweibrücken_Heilig_Kreuz-Kirche_Westfassade_01_2012-06-11.JPG
 ---
 
 ## Overview

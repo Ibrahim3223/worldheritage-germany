@@ -13,7 +13,7 @@ regions:
 latitude: 52.576388888
 longitude: 13.383333333
 images:
-  - "/images-sites/volkspark-schoenholzer-heide/01-0a5e0529-800w.webp"
+  - "/images/volkspark-schoenholzer-heide/01-0a5e0529-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Barbarastollen underground archive"
+title: Barbarastollen underground archive
 date: 2026-01-23
 draft: false
-description: "archive in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: archive in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 47.92296667
 longitude: 7.93591667
 images:
-  - "/images-sites/barbarastollen-underground-archive/01-b188363d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg/1200px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg/1200px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg/1200px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barabarastollen_1.jpg/1200px-Barabarastollen_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barbarastollen_Eingang.jpg/1200px-Barbarastollen_Eingang.jpg
+image_srcset:
+  BKM Grütters besucht mit BBK Präsident Unger den Barbarastollen 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg/400px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg/800px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg/1200px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg/1920px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_04.jpg
+  BKM Grütters besucht mit BBK Präsident Unger den Barbarastollen 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg/400px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg/800px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg/1200px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg/1920px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_07.jpg
+  BKM Grütters besucht mit BBK Präsident Unger den Barbarastollen 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg/400px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg/800px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg/1200px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg/1920px-BKM_Grütters_besucht_mit_BBK_Präsident_Unger_den_Barbarastollen_09.jpg
+  Barabarastollen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barabarastollen_1.jpg/400px-Barabarastollen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barabarastollen_1.jpg/800px-Barabarastollen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barabarastollen_1.jpg/1200px-Barabarastollen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barabarastollen_1.jpg/1920px-Barabarastollen_1.jpg
+  Barbarastollen Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barbarastollen_Eingang.jpg/400px-Barbarastollen_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barbarastollen_Eingang.jpg/800px-Barbarastollen_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barbarastollen_Eingang.jpg/1200px-Barbarastollen_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barbarastollen_Eingang.jpg/1920px-Barbarastollen_Eingang.jpg
 ---
 
 ## Overview

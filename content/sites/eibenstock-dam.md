@@ -1,19 +1,49 @@
 ---
-title: "Eibenstock Dam"
+title: Eibenstock Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5233
 longitude: 12.5892
 images:
-  - "/images-sites/eibenstock-dam/01-66a3ced6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nebelstimmung.jpg/1200px-Nebelstimmung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Talsperre_Eibenstock_(MGK05088).jpg/1200px-Talsperre_Eibenstock_(MGK05088).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Talsperre_Eibenstock_Luftaufnahme.jpg/1200px-Talsperre_Eibenstock_Luftaufnahme.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1200px-Eibenstock_reservoir_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tseibenstock.jpg/1200px-Tseibenstock.jpg
+image_srcset:
+  Nebelstimmung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nebelstimmung.jpg/400px-Nebelstimmung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nebelstimmung.jpg/800px-Nebelstimmung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nebelstimmung.jpg/1200px-Nebelstimmung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nebelstimmung.jpg/1920px-Nebelstimmung.jpg
+  Talsperre Eibenstock (MGK05088).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Talsperre_Eibenstock_(MGK05088).jpg/400px-Talsperre_Eibenstock_(MGK05088).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Talsperre_Eibenstock_(MGK05088).jpg/800px-Talsperre_Eibenstock_(MGK05088).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Talsperre_Eibenstock_(MGK05088).jpg/1200px-Talsperre_Eibenstock_(MGK05088).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Talsperre_Eibenstock_(MGK05088).jpg/1920px-Talsperre_Eibenstock_(MGK05088).jpg
+  Talsperre Eibenstock Luftaufnahme.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Talsperre_Eibenstock_Luftaufnahme.jpg/400px-Talsperre_Eibenstock_Luftaufnahme.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Talsperre_Eibenstock_Luftaufnahme.jpg/800px-Talsperre_Eibenstock_Luftaufnahme.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Talsperre_Eibenstock_Luftaufnahme.jpg/1200px-Talsperre_Eibenstock_Luftaufnahme.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Talsperre_Eibenstock_Luftaufnahme.jpg/1920px-Talsperre_Eibenstock_Luftaufnahme.jpg
+  Eibenstock reservoir (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/400px-Eibenstock_reservoir_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/800px-Eibenstock_reservoir_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1200px-Eibenstock_reservoir_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eibenstock_reservoir_(aka).jpg/1920px-Eibenstock_reservoir_(aka).jpg
+  Tseibenstock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tseibenstock.jpg/400px-Tseibenstock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tseibenstock.jpg/800px-Tseibenstock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tseibenstock.jpg/1200px-Tseibenstock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tseibenstock.jpg/1920px-Tseibenstock.jpg
 ---
 
 ## Overview

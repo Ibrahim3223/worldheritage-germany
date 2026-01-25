@@ -13,7 +13,7 @@ regions:
 latitude: 49.629828
 longitude: 8.361256
 images:
-  - "/images-sites/siegfriedbrunnen/01-eac063a9-800w.webp"
+  - "/images/siegfriedbrunnen/01-eac063a9-800w.webp"
 ---
 
 ## Overview

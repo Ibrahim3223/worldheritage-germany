@@ -1,27 +1,49 @@
 ---
-title: "Holzheim Castle"
+title: Holzheim Castle
 date: 2026-01-23
 draft: false
-description: "castle in Langerwehe, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Langerwehe, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7983
 longitude: 6.32861
-
-# Images
 images:
-  - "/images-sites/holzheim-castle/01-40a8fa06-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/202012261459a_Burg_Holzheim.jpg/1200px-202012261459a_Burg_Holzheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/202012261455b_Burg_Holzheim.jpg/1200px-202012261455b_Burg_Holzheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/202012261444a_Burg_Holzheim.jpg/1200px-202012261444a_Burg_Holzheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/1200px-Burg_Holzheim_(3).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg/1200px-Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg
+image_srcset:
+  202012261459a Burg Holzheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/202012261459a_Burg_Holzheim.jpg/400px-202012261459a_Burg_Holzheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/202012261459a_Burg_Holzheim.jpg/800px-202012261459a_Burg_Holzheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/202012261459a_Burg_Holzheim.jpg/1200px-202012261459a_Burg_Holzheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/202012261459a_Burg_Holzheim.jpg/1920px-202012261459a_Burg_Holzheim.jpg
+  202012261455b Burg Holzheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/202012261455b_Burg_Holzheim.jpg/400px-202012261455b_Burg_Holzheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/202012261455b_Burg_Holzheim.jpg/800px-202012261455b_Burg_Holzheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/202012261455b_Burg_Holzheim.jpg/1200px-202012261455b_Burg_Holzheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/202012261455b_Burg_Holzheim.jpg/1920px-202012261455b_Burg_Holzheim.jpg
+  202012261444a Burg Holzheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/202012261444a_Burg_Holzheim.jpg/400px-202012261444a_Burg_Holzheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/202012261444a_Burg_Holzheim.jpg/800px-202012261444a_Burg_Holzheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/202012261444a_Burg_Holzheim.jpg/1200px-202012261444a_Burg_Holzheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/202012261444a_Burg_Holzheim.jpg/1920px-202012261444a_Burg_Holzheim.jpg
+  Burg Holzheim (3).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/400px-Burg_Holzheim_(3).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/800px-Burg_Holzheim_(3).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/1200px-Burg_Holzheim_(3).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Holzheim_(3).JPG/1920px-Burg_Holzheim_(3).JPG
+  Langerwehe-Heistern Denkmal-Nr. 28, Notberger Weg 1 (1181).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg/400px-Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg/800px-Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg/1200px-Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg/1920px-Langerwehe-Heistern_Denkmal-Nr._28,_Notberger_Weg_1_(1181).jpg
 ---
 
 ## Overview

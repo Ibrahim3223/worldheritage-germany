@@ -21,7 +21,7 @@ longitude: 9.3211
 
 # Images
 images:
-  - "/images-sites/niedensteiner-kopf/01-47c7c64d-800w.webp"
+  - "/images/niedensteiner-kopf/01-47c7c64d-800w.webp"
 ---
 
 ## Overview

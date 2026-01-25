@@ -13,7 +13,7 @@ regions:
 latitude: 51.4953
 longitude: 7.01194
 images:
-  - "/images-sites/zeche-carl/01-9fbeeb2b-800w.webp"
+  - "/images/zeche-carl/01-9fbeeb2b-800w.webp"
 ---
 
 ## Overview

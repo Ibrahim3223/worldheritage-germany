@@ -1,19 +1,49 @@
 ---
-title: "Burg Montclair"
+title: Burg Montclair
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4956
 longitude: 6.55778
 images:
-  - "/images-sites/burg-montclair/01-ac1d3b74-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190714Baumwipfelpfad_Saarschleife_02.jpg/1200px-20190714Baumwipfelpfad_Saarschleife_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg/1200px-ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg/1200px-Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/1200px-Montclair_neu.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BurgMontClair_aussen_pano.jpg/1200px-BurgMontClair_aussen_pano.jpg
+image_srcset:
+  20190714Baumwipfelpfad Saarschleife 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190714Baumwipfelpfad_Saarschleife_02.jpg/400px-20190714Baumwipfelpfad_Saarschleife_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190714Baumwipfelpfad_Saarschleife_02.jpg/800px-20190714Baumwipfelpfad_Saarschleife_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190714Baumwipfelpfad_Saarschleife_02.jpg/1200px-20190714Baumwipfelpfad_Saarschleife_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190714Baumwipfelpfad_Saarschleife_02.jpg/1920px-20190714Baumwipfelpfad_Saarschleife_02.jpg
+  ND-399-MZG-MET - Bergahorn in der Burg Montclair.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg/400px-ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg/800px-ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg/1200px-ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg/1920px-ND-399-MZG-MET_-_Bergahorn_in_der_Burg_Montclair.jpg
+  Burg Neu-Montclair aus der Vogelperspektive.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg/400px-Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg/800px-Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg/1200px-Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg/1920px-Burg_Neu-Montclair_aus_der_Vogelperspektive.jpg
+  Montclair neu.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/400px-Montclair_neu.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/800px-Montclair_neu.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/1200px-Montclair_neu.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Montclair_neu.jpg/1920px-Montclair_neu.jpg
+  BurgMontClair aussen pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BurgMontClair_aussen_pano.jpg/400px-BurgMontClair_aussen_pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BurgMontClair_aussen_pano.jpg/800px-BurgMontClair_aussen_pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BurgMontClair_aussen_pano.jpg/1200px-BurgMontClair_aussen_pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BurgMontClair_aussen_pano.jpg/1920px-BurgMontClair_aussen_pano.jpg
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Church in Demern"
-site_name: "Church in Demern"
-slug: "church-in-demern"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Demern
+site_name: Church in Demern
+slug: church-in-demern
+region: Schleswig-Holstein
 latitude: 53.7417
 longitude: 10.9857
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244226"
-description: "In the heart of Königsfeld, Germany, the Church in Demern stands as a remarkable example of Brick Gothic architecture. Its striking façade, crafted from..."
+- cultural site
+wikidata_id: Q1244226
+description: In the heart of Königsfeld, Germany, the Church in Demern stands as a
+  remarkable example of Brick Gothic architecture. Its striking façade, crafted from...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Demern%20Kirche%202009-01-02%20067.jpg/1200px-Demern%20Kirche%202009-01-02%20067.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg/1200px-Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Demern_Kirche_Orgeln_(2).jpg/1200px-Demern_Kirche_Orgeln_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg/1200px-Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1200px-Demern_Kirche_2009-01-02_067.jpg
+image_srcset:
+  Demern%20Kirche%202009-01-02%20067.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Demern%20Kirche%202009-01-02%20067.jpg/400px-Demern%20Kirche%202009-01-02%20067.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Demern%20Kirche%202009-01-02%20067.jpg/800px-Demern%20Kirche%202009-01-02%20067.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Demern%20Kirche%202009-01-02%20067.jpg/1200px-Demern%20Kirche%202009-01-02%20067.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Demern%20Kirche%202009-01-02%20067.jpg/1920px-Demern%20Kirche%202009-01-02%20067.jpg
+  Dorfkirche Demern Gefallenendenkmal (ehemals Deckstein vom Großsteingrab Demern) August 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg/400px-Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg/800px-Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg/1200px-Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg/1920px-Dorfkirche_Demern_Gefallenendenkmal_(ehemals_Deckstein_vom_Großsteingrab_Demern)_August_2021.jpg
+  Demern Kirche Orgeln (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Demern_Kirche_Orgeln_(2).jpg/400px-Demern_Kirche_Orgeln_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Demern_Kirche_Orgeln_(2).jpg/800px-Demern_Kirche_Orgeln_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Demern_Kirche_Orgeln_(2).jpg/1200px-Demern_Kirche_Orgeln_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Demern_Kirche_Orgeln_(2).jpg/1920px-Demern_Kirche_Orgeln_(2).jpg
+  Demern Gefallenendenkmal 1914-18 2009-01-02 068.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg/400px-Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg/800px-Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg/1200px-Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg/1920px-Demern_Gefallenendenkmal_1914-18_2009-01-02_068.jpg
+  Demern Kirche 2009-01-02 067.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/400px-Demern_Kirche_2009-01-02_067.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/800px-Demern_Kirche_2009-01-02_067.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1200px-Demern_Kirche_2009-01-02_067.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Demern_Kirche_2009-01-02_067.jpg/1920px-Demern_Kirche_2009-01-02_067.jpg
 ---
 
 ## Overview

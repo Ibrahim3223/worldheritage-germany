@@ -21,9 +21,9 @@ longitude: 9.186875
 
 # Images
 images:
-  - "/images-sites/neue-staatsgalerie/01-63f3327f-800w.webp"
-  - "/images-sites/neue-staatsgalerie/02-943f8570-800w.webp"
-  - "/images-sites/neue-staatsgalerie/03-930761ea-800w.webp"
+  - "/images/neue-staatsgalerie/01-63f3327f-800w.webp"
+  - "/images/neue-staatsgalerie/02-943f8570-800w.webp"
+  - "/images/neue-staatsgalerie/03-930761ea-800w.webp"
 ---
 
 ## Overview

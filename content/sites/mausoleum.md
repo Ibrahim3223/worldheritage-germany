@@ -13,7 +13,7 @@ regions:
 latitude: 53.148417
 longitude: 8.214833
 images:
-  - "/images-sites/mausoleum/01-2274bb31-800w.webp"
+  - "/images/mausoleum/01-2274bb31-800w.webp"
 ---
 
 ## Overview

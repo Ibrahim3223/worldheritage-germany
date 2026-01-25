@@ -21,9 +21,9 @@ longitude: 10.1434
 
 # Images
 images:
-  - "/images-sites/kiel-castle/01-b2ab88fd-800w.webp"
-  - "/images-sites/kiel-castle/02-9605691d-800w.webp"
-  - "/images-sites/kiel-castle/03-93dbe8b8-800w.webp"
+  - "/images/kiel-castle/01-b2ab88fd-800w.webp"
+  - "/images/kiel-castle/02-9605691d-800w.webp"
+  - "/images/kiel-castle/03-93dbe8b8-800w.webp"
 ---
 
 ## Overview

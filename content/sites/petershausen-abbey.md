@@ -13,7 +13,7 @@ regions:
 latitude: 47.668
 longitude: 9.1785
 images:
-  - "/images-sites/petershausen-abbey/01-0c452d1d-800w.webp"
+  - "/images/petershausen-abbey/01-0c452d1d-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.62143
 longitude: 8.83888
 images:
-  - "/images-sites/windmuehle-bad-bederkesa/01-f4e71555-800w.webp"
+  - "/images/windmuehle-bad-bederkesa/01-f4e71555-800w.webp"
 ---
 
 ## Overview

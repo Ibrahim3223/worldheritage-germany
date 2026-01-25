@@ -1,20 +1,52 @@
 ---
-title: "Friedenskirche Westerholt"
-site_name: "Friedenskirche Westerholt"
-slug: "friedenskirche-westerholt"
-region: "Lower Saxony"
-
-# Location
+title: Friedenskirche Westerholt
+site_name: Friedenskirche Westerholt
+slug: friedenskirche-westerholt
+region: Lower Saxony
 latitude: 53.5911
 longitude: 7.45819
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1607549"
-description: "Friedenskirche Westerholt, a remarkable church building in the heart of Germanys Westerholt region, offers visitors a unique glimpse into Romanesque arc..."
+- church building
+- religious site
+wikidata_id: Q1607549
+description: Friedenskirche Westerholt, a remarkable church building in the heart
+  of Germanys Westerholt region, offers visitors a unique glimpse into Romanesque
+  arc...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Friedenskirche%20Westerholt-msu-2021-210-4915.jpg/1200px-Friedenskirche%20Westerholt-msu-2021-210-4915.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Westerholt-msu-2021-210-4913.jpg/1200px-Friedenskirche_Westerholt-msu-2021-210-4913.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/1200px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grabstein-Westerholt--msu-2024-9259-.jpg/1200px-Grabstein-Westerholt--msu-2024-9259-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ChurchWesterholt.jpg/1200px-ChurchWesterholt.jpg
+image_srcset:
+  Friedenskirche%20Westerholt-msu-2021-210-4915.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Friedenskirche%20Westerholt-msu-2021-210-4915.jpg/400px-Friedenskirche%20Westerholt-msu-2021-210-4915.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Friedenskirche%20Westerholt-msu-2021-210-4915.jpg/800px-Friedenskirche%20Westerholt-msu-2021-210-4915.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Friedenskirche%20Westerholt-msu-2021-210-4915.jpg/1200px-Friedenskirche%20Westerholt-msu-2021-210-4915.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Friedenskirche%20Westerholt-msu-2021-210-4915.jpg/1920px-Friedenskirche%20Westerholt-msu-2021-210-4915.jpg
+  Friedenskirche Westerholt-msu-2021-210-4913.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Westerholt-msu-2021-210-4913.jpg/400px-Friedenskirche_Westerholt-msu-2021-210-4913.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Westerholt-msu-2021-210-4913.jpg/800px-Friedenskirche_Westerholt-msu-2021-210-4913.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Westerholt-msu-2021-210-4913.jpg/1200px-Friedenskirche_Westerholt-msu-2021-210-4913.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Friedenskirche_Westerholt-msu-2021-210-4913.jpg/1920px-Friedenskirche_Westerholt-msu-2021-210-4913.jpg
+  Friedenskirche Westerholt-msu-2021-210-4915.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/400px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/800px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/1200px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Friedenskirche_Westerholt-msu-2021-210-4915.jpg/1920px-Friedenskirche_Westerholt-msu-2021-210-4915.jpg
+  Grabstein-Westerholt--msu-2024-9259-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grabstein-Westerholt--msu-2024-9259-.jpg/400px-Grabstein-Westerholt--msu-2024-9259-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grabstein-Westerholt--msu-2024-9259-.jpg/800px-Grabstein-Westerholt--msu-2024-9259-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grabstein-Westerholt--msu-2024-9259-.jpg/1200px-Grabstein-Westerholt--msu-2024-9259-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Grabstein-Westerholt--msu-2024-9259-.jpg/1920px-Grabstein-Westerholt--msu-2024-9259-.jpg
+  ChurchWesterholt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ChurchWesterholt.jpg/400px-ChurchWesterholt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ChurchWesterholt.jpg/800px-ChurchWesterholt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ChurchWesterholt.jpg/1200px-ChurchWesterholt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ChurchWesterholt.jpg/1920px-ChurchWesterholt.jpg
 ---
 
 ## Overview

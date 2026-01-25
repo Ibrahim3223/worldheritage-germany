@@ -1,19 +1,49 @@
 ---
-title: "Gertrudenfriedhof"
+title: Gertrudenfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Oldenburg, Lower Saxony"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Oldenburg, Lower Saxony
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1484
 longitude: 8.21483
 images:
-  - "/images-sites/gertrudenfriedhof/01-da0ac3be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg/1200px-Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Familiengrabstätte_Deuter.jpg/1200px-Familiengrabstätte_Deuter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grabstätte_Emma_Ritter.jpg/1200px-Grabstätte_Emma_Ritter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/O_ewich_is_so_lanck.jpg/1200px-O_ewich_is_so_lanck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg/1200px-Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg
+image_srcset:
+  Grab Franz Anton Högl (Oldenburg, 2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg/400px-Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg/800px-Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg/1200px-Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg/1920px-Grab_Franz_Anton_Högl_(Oldenburg,_2025).jpg
+  Familiengrabstätte Deuter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Familiengrabstätte_Deuter.jpg/400px-Familiengrabstätte_Deuter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Familiengrabstätte_Deuter.jpg/800px-Familiengrabstätte_Deuter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Familiengrabstätte_Deuter.jpg/1200px-Familiengrabstätte_Deuter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Familiengrabstätte_Deuter.jpg/1920px-Familiengrabstätte_Deuter.jpg
+  Grabstätte Emma Ritter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grabstätte_Emma_Ritter.jpg/400px-Grabstätte_Emma_Ritter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grabstätte_Emma_Ritter.jpg/800px-Grabstätte_Emma_Ritter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grabstätte_Emma_Ritter.jpg/1200px-Grabstätte_Emma_Ritter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grabstätte_Emma_Ritter.jpg/1920px-Grabstätte_Emma_Ritter.jpg
+  O ewich is so lanck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/O_ewich_is_so_lanck.jpg/400px-O_ewich_is_so_lanck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/O_ewich_is_so_lanck.jpg/800px-O_ewich_is_so_lanck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/O_ewich_is_so_lanck.jpg/1200px-O_ewich_is_so_lanck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/O_ewich_is_so_lanck.jpg/1920px-O_ewich_is_so_lanck.jpg
+  Kapelle auf dem Gertrudenfriedhof Oldenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg/400px-Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg/800px-Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg/1200px-Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg/1920px-Kapelle_auf_dem_Gertrudenfriedhof_Oldenburg.jpg
 ---
 
 ## Overview

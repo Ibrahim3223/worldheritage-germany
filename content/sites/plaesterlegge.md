@@ -13,7 +13,7 @@ regions:
 latitude: 51.301111111
 longitude: 8.438888888
 images:
-  - "/images-sites/plaesterlegge/01-664b7a0e-800w.webp"
+  - "/images/plaesterlegge/01-664b7a0e-800w.webp"
 ---
 
 ## Overview

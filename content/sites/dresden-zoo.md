@@ -1,19 +1,49 @@
 ---
-title: "Dresden Zoo"
+title: Dresden Zoo
 date: 2026-01-24
 draft: false
-description: "zoo in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0369
 longitude: 13.7539
 images:
-  - "/images-sites/dresden-zoo/01-340871fa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Gartenlaube_(1868)_b_220.jpg/1200px-Die_Gartenlaube_(1868)_b_220.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/1200px-ZOO_Dresden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg/1200px-Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Die_Gartenlaube_(1860)_b_380.jpg/1200px-Die_Gartenlaube_(1860)_b_380.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Postal_zoo_bella_época_Dresde.jpg/1200px-Postal_zoo_bella_época_Dresde.jpg
+image_srcset:
+  Die Gartenlaube (1868) b 220.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Gartenlaube_(1868)_b_220.jpg/400px-Die_Gartenlaube_(1868)_b_220.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Gartenlaube_(1868)_b_220.jpg/800px-Die_Gartenlaube_(1868)_b_220.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Gartenlaube_(1868)_b_220.jpg/1200px-Die_Gartenlaube_(1868)_b_220.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Die_Gartenlaube_(1868)_b_220.jpg/1920px-Die_Gartenlaube_(1868)_b_220.jpg
+  ZOO Dresden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/400px-ZOO_Dresden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/800px-ZOO_Dresden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/1200px-ZOO_Dresden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ZOO_Dresden.JPG/1920px-ZOO_Dresden.JPG
+  Die Bauten von Dresden (1878) Illustrationsseite 189a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg/400px-Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg/800px-Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg/1200px-Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg/1920px-Die_Bauten_von_Dresden_(1878)_Illustrationsseite_189a.jpg
+  Die Gartenlaube (1860) b 380.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Die_Gartenlaube_(1860)_b_380.jpg/400px-Die_Gartenlaube_(1860)_b_380.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Die_Gartenlaube_(1860)_b_380.jpg/800px-Die_Gartenlaube_(1860)_b_380.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Die_Gartenlaube_(1860)_b_380.jpg/1200px-Die_Gartenlaube_(1860)_b_380.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Die_Gartenlaube_(1860)_b_380.jpg/1920px-Die_Gartenlaube_(1860)_b_380.jpg
+  Postal zoo bella época Dresde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Postal_zoo_bella_época_Dresde.jpg/400px-Postal_zoo_bella_época_Dresde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Postal_zoo_bella_época_Dresde.jpg/800px-Postal_zoo_bella_época_Dresde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Postal_zoo_bella_época_Dresde.jpg/1200px-Postal_zoo_bella_época_Dresde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Postal_zoo_bella_época_Dresde.jpg/1920px-Postal_zoo_bella_época_Dresde.jpg
 ---
 
 ## Overview

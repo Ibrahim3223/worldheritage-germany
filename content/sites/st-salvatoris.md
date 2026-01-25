@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2316721"
 description: "In the heart of Clausthal-Zellerfeld lies St Salvatoris, a church that represents a significant chapter in the architectural history of the region. Foun..."
 images:
-  - "/images-sites/st-salvatoris/01-85a12a52-1920w.webp"
-  - "/images-sites/st-salvatoris/02-c627b0a3-1920w.webp"
-  - "/images-sites/st-salvatoris/03-55c42ce6-1920w.webp"
+  - "/images/st-salvatoris/01-85a12a52-1920w.webp"
+  - "/images/st-salvatoris/02-c627b0a3-1920w.webp"
+  - "/images/st-salvatoris/03-55c42ce6-1920w.webp"
 ---
 
 ## Overview

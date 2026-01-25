@@ -13,7 +13,7 @@ regions:
 latitude: 52.5059
 longitude: 13.3291
 images:
-  - "/images-sites/theater-des-westens/01-08d9fcec-800w.webp"
+  - "/images/theater-des-westens/01-08d9fcec-800w.webp"
 ---
 
 ## Overview

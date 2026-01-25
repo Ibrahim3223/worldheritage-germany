@@ -1,29 +1,49 @@
 ---
-title: "Burg Wetter"
+title: Burg Wetter
 date: 2026-01-23
 draft: false
-description: "Burgruine in der Stadt Wetter (Ruhr), Nordrhein-Westfalen, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Burgruine in der Stadt Wetter (Ruhr), Nordrhein-Westfalen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3893
 longitude: 7.40028
-
-# Images
 images:
-  - "/images-sites/burg-wetter/01-d9fb0758-800w.webp"
-  - "/images-sites/burg-wetter/02-00b4da47-800w.webp"
-  - "/images-sites/burg-wetter/03-df7ac67f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg/1200px-Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg/1200px-NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alfred_Rethel_001.jpg/1200px-Alfred_Rethel_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wetter_an_der_Ruhr.jpeg/1200px-Wetter_an_der_Ruhr.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Freiheit_Burg_Wetter.jpg/1200px-Freiheit_Burg_Wetter.jpg
+image_srcset:
+  Wetter - Im Kirchspiel - Burg 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg/400px-Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg/800px-Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg/1200px-Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg/1920px-Wetter_-_Im_Kirchspiel_-_Burg_01_ies.jpg
+  NRW, Wetter (Ruhr) - Burg Wetter 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg/400px-NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg/800px-NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg/1200px-NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg/1920px-NRW,_Wetter_(Ruhr)_-_Burg_Wetter_02.jpg
+  Alfred Rethel 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alfred_Rethel_001.jpg/400px-Alfred_Rethel_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alfred_Rethel_001.jpg/800px-Alfred_Rethel_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alfred_Rethel_001.jpg/1200px-Alfred_Rethel_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alfred_Rethel_001.jpg/1920px-Alfred_Rethel_001.jpg
+  Wetter an der Ruhr.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wetter_an_der_Ruhr.jpeg/400px-Wetter_an_der_Ruhr.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wetter_an_der_Ruhr.jpeg/800px-Wetter_an_der_Ruhr.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wetter_an_der_Ruhr.jpeg/1200px-Wetter_an_der_Ruhr.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wetter_an_der_Ruhr.jpeg/1920px-Wetter_an_der_Ruhr.jpeg
+  Freiheit Burg Wetter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Freiheit_Burg_Wetter.jpg/400px-Freiheit_Burg_Wetter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Freiheit_Burg_Wetter.jpg/800px-Freiheit_Burg_Wetter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Freiheit_Burg_Wetter.jpg/1200px-Freiheit_Burg_Wetter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Freiheit_Burg_Wetter.jpg/1920px-Freiheit_Burg_Wetter.jpg
 ---
 
 ## Overview

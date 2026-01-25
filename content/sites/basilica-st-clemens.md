@@ -1,23 +1,51 @@
 ---
-title: "Basilica St. Clemens"
-site_name: "Basilica St. Clemens"
-slug: "basilica-st-clemens"
-region: "Lower Saxony"
-
-# Location
+title: Basilica St. Clemens
+site_name: Basilica St. Clemens
+slug: basilica-st-clemens
+region: Lower Saxony
 latitude: 52.37300115542373
 longitude: 9.726810382542999
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q810108"
-description: "In the heart of Hannover, Germany, the Basilica St. Clemens stands as a striking example of baroque architecture, inviting visitors to explore its rich ..."
+- cultural site
+wikidata_id: Q810108
+description: In the heart of Hannover, Germany, the Basilica St. Clemens stands as
+  a striking example of baroque architecture, inviting visitors to explore its rich
+  ...
 images:
-  - "/images-sites/basilica-st-clemens/01-c60833ba-1920w.webp"
-  - "/images-sites/basilica-st-clemens/02-dc499330-1920w.webp"
-  - "/images-sites/basilica-st-clemens/03-001901fd-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg/1200px-Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20230321_Basilika_Sankt_Clemens_Hannover_03.jpg/1200px-20230321_Basilika_Sankt_Clemens_Hannover_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg/1200px-Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230321_Basilika_Sankt_Clemens_Hannover_04.jpg/1200px-20230321_Basilika_Sankt_Clemens_Hannover_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basilika_St._Clemens_in_Hannover,_yKrypta.jpg/1200px-Basilika_St._Clemens_in_Hannover,_yKrypta.jpg
+image_srcset:
+  Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg/400px-Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg/800px-Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg/1200px-Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg/1920px-Basilica%20St%20Clemens%20Clemensstrasse%20Calenberger%20Neustadt%20Hannover%20Germany%2002.jpg
+  20230321 Basilika Sankt Clemens Hannover 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20230321_Basilika_Sankt_Clemens_Hannover_03.jpg/400px-20230321_Basilika_Sankt_Clemens_Hannover_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20230321_Basilika_Sankt_Clemens_Hannover_03.jpg/800px-20230321_Basilika_Sankt_Clemens_Hannover_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20230321_Basilika_Sankt_Clemens_Hannover_03.jpg/1200px-20230321_Basilika_Sankt_Clemens_Hannover_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20230321_Basilika_Sankt_Clemens_Hannover_03.jpg/1920px-20230321_Basilika_Sankt_Clemens_Hannover_03.jpg
+  Basilica St Clemens Clemensstrasse Calenberger Neustadt Hannover Germany 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg/400px-Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg/800px-Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg/1200px-Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg/1920px-Basilica_St_Clemens_Clemensstrasse_Calenberger_Neustadt_Hannover_Germany_02.jpg
+  20230321 Basilika Sankt Clemens Hannover 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230321_Basilika_Sankt_Clemens_Hannover_04.jpg/400px-20230321_Basilika_Sankt_Clemens_Hannover_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230321_Basilika_Sankt_Clemens_Hannover_04.jpg/800px-20230321_Basilika_Sankt_Clemens_Hannover_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230321_Basilika_Sankt_Clemens_Hannover_04.jpg/1200px-20230321_Basilika_Sankt_Clemens_Hannover_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/20230321_Basilika_Sankt_Clemens_Hannover_04.jpg/1920px-20230321_Basilika_Sankt_Clemens_Hannover_04.jpg
+  Basilika St. Clemens in Hannover, yKrypta.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basilika_St._Clemens_in_Hannover,_yKrypta.jpg/400px-Basilika_St._Clemens_in_Hannover,_yKrypta.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basilika_St._Clemens_in_Hannover,_yKrypta.jpg/800px-Basilika_St._Clemens_in_Hannover,_yKrypta.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basilika_St._Clemens_in_Hannover,_yKrypta.jpg/1200px-Basilika_St._Clemens_in_Hannover,_yKrypta.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Basilika_St._Clemens_in_Hannover,_yKrypta.jpg/1920px-Basilika_St._Clemens_in_Hannover,_yKrypta.jpg
 ---
 
 ## Overview

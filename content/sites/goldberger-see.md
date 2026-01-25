@@ -1,19 +1,49 @@
 ---
-title: "Goldberger See"
+title: Goldberger See
 date: 2026-01-23
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.611111111
 longitude: 12.125
 images:
-  - "/images-sites/goldberger-see/01-f7440fcd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1200px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG/1200px-Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG/1200px-Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goldberg_Goldberger_See_2008-03-26.jpg/1200px-Goldberg_Goldberger_See_2008-03-26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mildenitz_goldberger_see.jpg/1200px-Mildenitz_goldberger_see.jpg
+image_srcset:
+  Goldberg Goldberger See Badestrand 2012-03-23 511.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/400px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/800px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1200px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG/1920px-Goldberg_Goldberger_See_Badestrand_2012-03-23_511.JPG
+  Goldberg Goldberger See Badestrand 2011-05-24 020.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG/400px-Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG/800px-Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG/1200px-Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG/1920px-Goldberg_Goldberger_See_Badestrand_2011-05-24_020.JPG
+  Goldberg Goldberger See Badestrand Schild 2011-05-24 019.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG/400px-Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG/800px-Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG/1200px-Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG/1920px-Goldberg_Goldberger_See_Badestrand_Schild_2011-05-24_019.JPG
+  Goldberg Goldberger See 2008-03-26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goldberg_Goldberger_See_2008-03-26.jpg/400px-Goldberg_Goldberger_See_2008-03-26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goldberg_Goldberger_See_2008-03-26.jpg/800px-Goldberg_Goldberger_See_2008-03-26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goldberg_Goldberger_See_2008-03-26.jpg/1200px-Goldberg_Goldberger_See_2008-03-26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Goldberg_Goldberger_See_2008-03-26.jpg/1920px-Goldberg_Goldberger_See_2008-03-26.jpg
+  Mildenitz goldberger see.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mildenitz_goldberger_see.jpg/400px-Mildenitz_goldberger_see.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mildenitz_goldberger_see.jpg/800px-Mildenitz_goldberger_see.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mildenitz_goldberger_see.jpg/1200px-Mildenitz_goldberger_see.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mildenitz_goldberger_see.jpg/1920px-Mildenitz_goldberger_see.jpg
 ---
 
 ## Overview

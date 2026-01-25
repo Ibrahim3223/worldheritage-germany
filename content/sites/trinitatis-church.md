@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1315224"
 description: "Trinitatis Church, a notable Lutheran church located in the Charlottenburg-Wilmersdorf district of Berlin, Germany, offers visitors a glimpse into the a..."
 images:
-  - "/images-sites/trinitatis-church/01-0d3cb405-1920w.webp"
-  - "/images-sites/trinitatis-church/02-d3e9661b-1920w.webp"
-  - "/images-sites/trinitatis-church/03-a3472016-1920w.webp"
+  - "/images/trinitatis-church/01-0d3cb405-1920w.webp"
+  - "/images/trinitatis-church/02-d3e9661b-1920w.webp"
+  - "/images/trinitatis-church/03-a3472016-1920w.webp"
 ---
 
 ## Overview

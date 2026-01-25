@@ -13,7 +13,7 @@ regions:
 latitude: 52.5269
 longitude: 13.4111
 images:
-  - "/images-sites/rosa-luxemburg-platz/01-3bccf9d2-800w.webp"
+  - "/images/rosa-luxemburg-platz/01-3bccf9d2-800w.webp"
 ---
 
 ## Overview

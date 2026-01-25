@@ -13,8 +13,8 @@ regions:
 latitude: 52.434444444
 longitude: 13.130833333
 images:
-  - "/images-sites/pfaueninsel/02-dbc1f5e3-800w.webp"
-  - "/images-sites/pfaueninsel/03-d606adf4-800w.webp"
+  - "/images/pfaueninsel/02-dbc1f5e3-800w.webp"
+  - "/images/pfaueninsel/03-d606adf4-800w.webp"
 ---
 
 ## Overview

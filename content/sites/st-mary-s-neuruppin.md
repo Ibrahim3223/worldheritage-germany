@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2222278"
 description: "St. Marys Neuruppin stands as a notable example of Neoclassical architecture in the heart of Neuruppin, Germany. This church building invites visitors t..."
 images:
-  - "/images-sites/st-mary-s-neuruppin/01-bc9f4169-1920w.webp"
-  - "/images-sites/st-mary-s-neuruppin/02-71a04ce6-1920w.webp"
-  - "/images-sites/st-mary-s-neuruppin/03-4b0e5f0a-1920w.webp"
+  - "/images/st-mary-s-neuruppin/01-bc9f4169-1920w.webp"
+  - "/images/st-mary-s-neuruppin/02-71a04ce6-1920w.webp"
+  - "/images/st-mary-s-neuruppin/03-4b0e5f0a-1920w.webp"
 ---
 
 ## Overview

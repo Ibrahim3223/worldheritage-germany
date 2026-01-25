@@ -13,7 +13,7 @@ regions:
 latitude: 49.018333333
 longitude: 12.095833333
 images:
-  - "/images-sites/regensburg-synagogue/03-f1b36012-800w.webp"
+  - "/images/regensburg-synagogue/03-f1b36012-800w.webp"
 ---
 
 ## Overview

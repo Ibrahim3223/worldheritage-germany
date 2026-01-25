@@ -13,7 +13,7 @@ regions:
 latitude: 50.8631
 longitude: 12.2528
 images:
-  - "/images-sites/museum-burg-posterstein/01-e69841a9-800w.webp"
+  - "/images/museum-burg-posterstein/01-e69841a9-800w.webp"
 ---
 
 ## Overview

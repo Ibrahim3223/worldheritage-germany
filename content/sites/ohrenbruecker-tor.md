@@ -13,7 +13,7 @@ regions:
 latitude: 49.9591
 longitude: 8.05682
 images:
-  - "/images-sites/ohrenbruecker-tor/01-fbd03cce-800w.webp"
+  - "/images/ohrenbruecker-tor/01-fbd03cce-800w.webp"
 ---
 
 ## Overview

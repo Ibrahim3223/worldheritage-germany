@@ -13,7 +13,7 @@ regions:
 latitude: 50.9272
 longitude: 11.58
 images:
-  - "/images-sites/volkshaus-jena/01-b1e1947a-800w.webp"
+  - "/images/volkshaus-jena/01-b1e1947a-800w.webp"
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Deutsche Guggenheim"
+title: Deutsche Guggenheim
 date: 2026-01-23
 draft: false
-description: "art museum"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.5168
 longitude: 13.391
-
-# Images
 images:
-  - "/images-sites/deutsche-guggenheim/01-3bf302f7-800w.webp"
-  - "/images-sites/deutsche-guggenheim/02-64532ae4-800w.webp"
-  - "/images-sites/deutsche-guggenheim/03-a833f8c4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deutsche_Guggenheim_01.jpg/1200px-Deutsche_Guggenheim_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Deutsche_Guggenheim_02.jpg/1200px-Deutsche_Guggenheim_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Deutsche_Guggenheim_Berlin.jpg/1200px-Deutsche_Guggenheim_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg/1200px-Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg
+image_srcset:
+  Berlin, Mitte, Unter den Linden, Deutsche Guggenheim 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg/400px-Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg/800px-Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden,_Deutsche_Guggenheim_01.jpg
+  Deutsche Guggenheim 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deutsche_Guggenheim_01.jpg/400px-Deutsche_Guggenheim_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deutsche_Guggenheim_01.jpg/800px-Deutsche_Guggenheim_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deutsche_Guggenheim_01.jpg/1200px-Deutsche_Guggenheim_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deutsche_Guggenheim_01.jpg/1920px-Deutsche_Guggenheim_01.jpg
+  Deutsche Guggenheim 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Deutsche_Guggenheim_02.jpg/400px-Deutsche_Guggenheim_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Deutsche_Guggenheim_02.jpg/800px-Deutsche_Guggenheim_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Deutsche_Guggenheim_02.jpg/1200px-Deutsche_Guggenheim_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Deutsche_Guggenheim_02.jpg/1920px-Deutsche_Guggenheim_02.jpg
+  Deutsche Guggenheim Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Deutsche_Guggenheim_Berlin.jpg/400px-Deutsche_Guggenheim_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Deutsche_Guggenheim_Berlin.jpg/800px-Deutsche_Guggenheim_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Deutsche_Guggenheim_Berlin.jpg/1200px-Deutsche_Guggenheim_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Deutsche_Guggenheim_Berlin.jpg/1920px-Deutsche_Guggenheim_Berlin.jpg
+  Bundesarchiv Bild 183-84157-0001, Berlin, Friedrichstraße Ecke Unter den Linden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg/400px-Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg/800px-Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg/1200px-Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg/1920px-Bundesarchiv_Bild_183-84157-0001,_Berlin,_Friedrichstraße_Ecke_Unter_den_Linden.jpg
 ---
 
 ## Overview

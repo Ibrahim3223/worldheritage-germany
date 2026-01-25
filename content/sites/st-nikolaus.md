@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1263563"
 description: "St. Nikolaus, a striking example of baroque architecture, stands as a notable church building in the region of Blindheim, Germany. This impressive struc..."
 images:
-  - "/images-sites/st-nikolaus/01-407e8b28-1920w.webp"
-  - "/images-sites/st-nikolaus/02-b079f3e9-1920w.webp"
-  - "/images-sites/st-nikolaus/03-cc5df8c6-1920w.webp"
+  - "/images/st-nikolaus/01-407e8b28-1920w.webp"
+  - "/images/st-nikolaus/02-b079f3e9-1920w.webp"
+  - "/images/st-nikolaus/03-cc5df8c6-1920w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 47.446388888
 longitude: 11.411388888
 images:
-  - "/images-sites/vogelkarspitze/01-182ad10e-800w.webp"
-  - "/images-sites/vogelkarspitze/02-6757babc-800w.webp"
-  - "/images-sites/vogelkarspitze/03-de70a0f5-800w.webp"
+  - "/images/vogelkarspitze/01-182ad10e-800w.webp"
+  - "/images/vogelkarspitze/02-6757babc-800w.webp"
+  - "/images/vogelkarspitze/03-de70a0f5-800w.webp"
 ---
 
 ## Overview

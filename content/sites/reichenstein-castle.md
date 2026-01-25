@@ -21,7 +21,7 @@ longitude: 7.853544
 
 # Images
 images:
-  - "/images-sites/reichenstein-castle/01-02eabc25-800w.webp"
+  - "/images/reichenstein-castle/01-02eabc25-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.465
 longitude: 13.3283
 images:
-  - "/images-sites/walther-schreiber-platz/01-78bcd15c-800w.webp"
+  - "/images/walther-schreiber-platz/01-78bcd15c-800w.webp"
 ---
 
 ## Overview

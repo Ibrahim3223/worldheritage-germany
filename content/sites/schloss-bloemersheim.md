@@ -13,9 +13,9 @@ regions:
 latitude: 51.4425
 longitude: 6.515277777
 images:
-  - "/images-sites/schloss-bloemersheim/01-d022474b-800w.webp"
-  - "/images-sites/schloss-bloemersheim/02-7ca35320-800w.webp"
-  - "/images-sites/schloss-bloemersheim/03-58378528-800w.webp"
+  - "/images/schloss-bloemersheim/01-d022474b-800w.webp"
+  - "/images/schloss-bloemersheim/02-7ca35320-800w.webp"
+  - "/images/schloss-bloemersheim/03-58378528-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.1242
 longitude: 11.7053
 images:
-  - "/images-sites/riemer-park/01-efee4824-800w.webp"
+  - "/images/riemer-park/01-efee4824-800w.webp"
 ---
 
 ## Overview

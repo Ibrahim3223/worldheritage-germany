@@ -1,20 +1,49 @@
 ---
-title: "Hundekehlefenn"
+title: Hundekehlefenn
 date: 2026-01-23
 draft: false
-description: "nature reserve in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4772
 longitude: 13.2647
 images:
-  - "/images-sites/hundekehlefenn/02-73bbfa4e-800w.webp"
-  - "/images-sites/hundekehlefenn/03-08630f90-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hundekehlekanal,_Berlin_Grunewald_03.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hundekehlekanal,_Berlin_Grunewald_01.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hundekehlekanal,_Berlin_Grunewald_02.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hundekehlekanal,_Berlin_Grunewald_04.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_Hundekehlefenn_1.JPG/1200px-Berlin_Hundekehlefenn_1.JPG
+image_srcset:
+  Hundekehlekanal, Berlin Grunewald 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hundekehlekanal,_Berlin_Grunewald_03.jpg/400px-Hundekehlekanal,_Berlin_Grunewald_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hundekehlekanal,_Berlin_Grunewald_03.jpg/800px-Hundekehlekanal,_Berlin_Grunewald_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hundekehlekanal,_Berlin_Grunewald_03.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hundekehlekanal,_Berlin_Grunewald_03.jpg/1920px-Hundekehlekanal,_Berlin_Grunewald_03.jpg
+  Hundekehlekanal, Berlin Grunewald 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hundekehlekanal,_Berlin_Grunewald_01.jpg/400px-Hundekehlekanal,_Berlin_Grunewald_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hundekehlekanal,_Berlin_Grunewald_01.jpg/800px-Hundekehlekanal,_Berlin_Grunewald_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hundekehlekanal,_Berlin_Grunewald_01.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hundekehlekanal,_Berlin_Grunewald_01.jpg/1920px-Hundekehlekanal,_Berlin_Grunewald_01.jpg
+  Hundekehlekanal, Berlin Grunewald 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hundekehlekanal,_Berlin_Grunewald_02.jpg/400px-Hundekehlekanal,_Berlin_Grunewald_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hundekehlekanal,_Berlin_Grunewald_02.jpg/800px-Hundekehlekanal,_Berlin_Grunewald_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hundekehlekanal,_Berlin_Grunewald_02.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hundekehlekanal,_Berlin_Grunewald_02.jpg/1920px-Hundekehlekanal,_Berlin_Grunewald_02.jpg
+  Hundekehlekanal, Berlin Grunewald 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hundekehlekanal,_Berlin_Grunewald_04.jpg/400px-Hundekehlekanal,_Berlin_Grunewald_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hundekehlekanal,_Berlin_Grunewald_04.jpg/800px-Hundekehlekanal,_Berlin_Grunewald_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hundekehlekanal,_Berlin_Grunewald_04.jpg/1200px-Hundekehlekanal,_Berlin_Grunewald_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hundekehlekanal,_Berlin_Grunewald_04.jpg/1920px-Hundekehlekanal,_Berlin_Grunewald_04.jpg
+  Berlin Hundekehlefenn 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_Hundekehlefenn_1.JPG/400px-Berlin_Hundekehlefenn_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_Hundekehlefenn_1.JPG/800px-Berlin_Hundekehlefenn_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_Hundekehlefenn_1.JPG/1200px-Berlin_Hundekehlefenn_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Berlin_Hundekehlefenn_1.JPG/1920px-Berlin_Hundekehlefenn_1.JPG
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 11.183055555
 
 # Images
 images:
-  - "/images-sites/klosterbrauerei-andechs/01-5299b89f-800w.webp"
+  - "/images/klosterbrauerei-andechs/01-5299b89f-800w.webp"
 ---
 
 ## Overview

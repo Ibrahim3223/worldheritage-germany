@@ -1,20 +1,49 @@
 ---
-title: "Dornburg palaces"
+title: Dornburg palaces
 date: 2026-01-23
 draft: false
-description: "palace ensemble in Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: palace ensemble in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.005833333
 longitude: 11.667777777
 images:
-  - "/images-sites/dornburg-palaces/02-3f25722a-800w.webp"
-  - "/images-sites/dornburg-palaces/03-8f7645cd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg/1200px-19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg/1200px-19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20040506060DR_Dornburg_Renaissanceschloß.jpg/1200px-20040506060DR_Dornburg_Renaissanceschloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20040506070DR_Dornburg_Renaissanceschloß.jpg/1200px-20040506070DR_Dornburg_Renaissanceschloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg/1200px-20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg
+image_srcset:
+  19750527520UR Dornburg Renaissanceschloß Brunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg/400px-19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg/800px-19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg/1200px-19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg/1920px-19750527520UR_Dornburg_Renaissanceschloß_Brunnen.jpg
+  19750527530UR Dornburg Renaissanceschloß Portal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg/400px-19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg/800px-19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg/1200px-19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg/1920px-19750527530UR_Dornburg_Renaissanceschloß_Portal.jpg
+  20040506060DR Dornburg Renaissanceschloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20040506060DR_Dornburg_Renaissanceschloß.jpg/400px-20040506060DR_Dornburg_Renaissanceschloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20040506060DR_Dornburg_Renaissanceschloß.jpg/800px-20040506060DR_Dornburg_Renaissanceschloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20040506060DR_Dornburg_Renaissanceschloß.jpg/1200px-20040506060DR_Dornburg_Renaissanceschloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/20040506060DR_Dornburg_Renaissanceschloß.jpg/1920px-20040506060DR_Dornburg_Renaissanceschloß.jpg
+  20040506070DR Dornburg Renaissanceschloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20040506070DR_Dornburg_Renaissanceschloß.jpg/400px-20040506070DR_Dornburg_Renaissanceschloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20040506070DR_Dornburg_Renaissanceschloß.jpg/800px-20040506070DR_Dornburg_Renaissanceschloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20040506070DR_Dornburg_Renaissanceschloß.jpg/1200px-20040506070DR_Dornburg_Renaissanceschloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/20040506070DR_Dornburg_Renaissanceschloß.jpg/1920px-20040506070DR_Dornburg_Renaissanceschloß.jpg
+  20040506020DR Dornburg-Camburg 3 Dornburger Schlösser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg/400px-20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg/800px-20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg/1200px-20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg/1920px-20040506020DR_Dornburg-Camburg_3_Dornburger_Schlösser.jpg
 ---
 
 ## Overview

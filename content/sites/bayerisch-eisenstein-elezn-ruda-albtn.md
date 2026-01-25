@@ -1,21 +1,49 @@
 ---
-title: "Bayerisch Eisenstein / Železná Ruda-Alžbětín"
+title: Bayerisch Eisenstein / Železná Ruda-Alžbětín
 date: 2026-01-23
 draft: false
-description: "railway station on the border of Germany and Czechia"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station on the border of Germany and Czechia
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.121548
 longitude: 13.209295
 images:
-  - "/images-sites/bayerisch-eisenstein-elezn-ruda-albtn/01-4ad924ef-800w.webp"
-  - "/images-sites/bayerisch-eisenstein-elezn-ruda-albtn/02-0a2e07cb-800w.webp"
-  - "/images-sites/bayerisch-eisenstein-elezn-ruda-albtn/03-43f84e57-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg/1200px-00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00_2051_Bahnhof_Bayerisch_Eisenstein.jpg/1200px-00_2051_Bahnhof_Bayerisch_Eisenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Železná_ruda_-_railway_station.JPG/1200px-Železná_ruda_-_railway_station.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg/1200px-Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg/1200px-Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg
+image_srcset:
+  00 1055 Grenzbahnhof Bayerisch Eisenstein - Želenzná Ruda.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg/400px-00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg/800px-00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg/1200px-00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg/1920px-00_1055_Grenzbahnhof_Bayerisch_Eisenstein_-_Želenzná_Ruda.jpg
+  00 2051 Bahnhof Bayerisch Eisenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00_2051_Bahnhof_Bayerisch_Eisenstein.jpg/400px-00_2051_Bahnhof_Bayerisch_Eisenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00_2051_Bahnhof_Bayerisch_Eisenstein.jpg/800px-00_2051_Bahnhof_Bayerisch_Eisenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00_2051_Bahnhof_Bayerisch_Eisenstein.jpg/1200px-00_2051_Bahnhof_Bayerisch_Eisenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/00_2051_Bahnhof_Bayerisch_Eisenstein.jpg/1920px-00_2051_Bahnhof_Bayerisch_Eisenstein.jpg
+  Železná ruda - railway station.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Železná_ruda_-_railway_station.JPG/400px-Železná_ruda_-_railway_station.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Železná_ruda_-_railway_station.JPG/800px-Železná_ruda_-_railway_station.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Železná_ruda_-_railway_station.JPG/1200px-Železná_ruda_-_railway_station.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Železná_ruda_-_railway_station.JPG/1920px-Železná_ruda_-_railway_station.JPG
+  Bahnhof Bayerisch Eisenstein CZ 2012 06 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg/400px-Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg/800px-Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg/1200px-Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg/1920px-Bahnhof_Bayerisch_Eisenstein_CZ_2012_06_18.jpg
+  Bahnhof Bayerisch Eisenstein DE 2012 06 16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg/400px-Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg/800px-Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg/1200px-Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg/1920px-Bahnhof_Bayerisch_Eisenstein_DE_2012_06_16.jpg
 ---
 
 ## Overview

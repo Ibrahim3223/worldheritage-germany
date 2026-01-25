@@ -1,20 +1,49 @@
 ---
-title: "Heimgarten"
+title: Heimgarten
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6136
 longitude: 11.2819
 images:
-  - "/images-sites/heimgarten/02-39801a92-800w.webp"
-  - "/images-sites/heimgarten/03-b8a1297c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimgarten_to_munich.jpg/1200px-Heimgarten_to_munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heimgarten3.jpg/1200px-Heimgarten3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heimgarten2.jpg/1200px-Heimgarten2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/1200px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/1200px-Sonnenuntergang_am_Heimgarten.jpg
+image_srcset:
+  Heimgarten to munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimgarten_to_munich.jpg/400px-Heimgarten_to_munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimgarten_to_munich.jpg/800px-Heimgarten_to_munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimgarten_to_munich.jpg/1200px-Heimgarten_to_munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Heimgarten_to_munich.jpg/1920px-Heimgarten_to_munich.jpg
+  Heimgarten3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heimgarten3.jpg/400px-Heimgarten3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heimgarten3.jpg/800px-Heimgarten3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heimgarten3.jpg/1200px-Heimgarten3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heimgarten3.jpg/1920px-Heimgarten3.jpg
+  Heimgarten2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heimgarten2.jpg/400px-Heimgarten2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heimgarten2.jpg/800px-Heimgarten2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heimgarten2.jpg/1200px-Heimgarten2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Heimgarten2.jpg/1920px-Heimgarten2.jpg
+  Walchensee Heimgarten Fahrenbergkopf Herzogstand 2020-10-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/400px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/800px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/1200px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/1920px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+  Sonnenuntergang am Heimgarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/400px-Sonnenuntergang_am_Heimgarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/800px-Sonnenuntergang_am_Heimgarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/1200px-Sonnenuntergang_am_Heimgarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/1920px-Sonnenuntergang_am_Heimgarten.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Schwarzenfels"
+title: Burg Schwarzenfels
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.300299306
 longitude: 9.671865571
-
-# Images
 images:
-  - "/images-sites/burg-schwarzenfels/01-ec50339d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ruine_Schwarzenfels_(3).jpg/1200px-Ruine_Schwarzenfels_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruine_Schwarzenfels_(6).jpg/1200px-Ruine_Schwarzenfels_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Schwarzenfels_(7).jpg/1200px-Ruine_Schwarzenfels_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ruine_Schwarzenfels_(8).jpg/1200px-Ruine_Schwarzenfels_(8).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Schwarzenfels,_2.jpg/1200px-Burg_Schwarzenfels,_2.jpg
+image_srcset:
+  Ruine Schwarzenfels (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ruine_Schwarzenfels_(3).jpg/400px-Ruine_Schwarzenfels_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ruine_Schwarzenfels_(3).jpg/800px-Ruine_Schwarzenfels_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ruine_Schwarzenfels_(3).jpg/1200px-Ruine_Schwarzenfels_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ruine_Schwarzenfels_(3).jpg/1920px-Ruine_Schwarzenfels_(3).jpg
+  Ruine Schwarzenfels (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruine_Schwarzenfels_(6).jpg/400px-Ruine_Schwarzenfels_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruine_Schwarzenfels_(6).jpg/800px-Ruine_Schwarzenfels_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruine_Schwarzenfels_(6).jpg/1200px-Ruine_Schwarzenfels_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ruine_Schwarzenfels_(6).jpg/1920px-Ruine_Schwarzenfels_(6).jpg
+  Ruine Schwarzenfels (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Schwarzenfels_(7).jpg/400px-Ruine_Schwarzenfels_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Schwarzenfels_(7).jpg/800px-Ruine_Schwarzenfels_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Schwarzenfels_(7).jpg/1200px-Ruine_Schwarzenfels_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ruine_Schwarzenfels_(7).jpg/1920px-Ruine_Schwarzenfels_(7).jpg
+  Ruine Schwarzenfels (8).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ruine_Schwarzenfels_(8).jpg/400px-Ruine_Schwarzenfels_(8).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ruine_Schwarzenfels_(8).jpg/800px-Ruine_Schwarzenfels_(8).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ruine_Schwarzenfels_(8).jpg/1200px-Ruine_Schwarzenfels_(8).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ruine_Schwarzenfels_(8).jpg/1920px-Ruine_Schwarzenfels_(8).jpg
+  Burg Schwarzenfels, 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Schwarzenfels,_2.jpg/400px-Burg_Schwarzenfels,_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Schwarzenfels,_2.jpg/800px-Burg_Schwarzenfels,_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Schwarzenfels,_2.jpg/1200px-Burg_Schwarzenfels,_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Burg_Schwarzenfels,_2.jpg/1920px-Burg_Schwarzenfels,_2.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Brauweiler Abbey"
+title: Brauweiler Abbey
 date: 2026-01-23
 draft: false
-description: "former Benedictine monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Benedictine monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.961111
 longitude: 6.782778
 images:
-  - "/images-sites/brauweiler-abbey/01-93bd8bee-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg/1200px-Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg/1200px-Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg/1200px-Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Abtei_Brauweiler,_Prälaturhof-0075.jpg/1200px-Abtei_Brauweiler,_Prälaturhof-0075.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1200px-Abtei_Brauweiler_Aussenansicht.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Brauweiler - 991118700859705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg/400px-Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg/800px-Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg/1200px-Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg/1920px-Zentralbibliothek_Zürich_-_Brauweiler_-_991118700859705501.jpg
+  Zentralbibliothek Zürich - Abtei-Kirche zu Brauweiler bei Cöln - 991007902009705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg/400px-Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg/800px-Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg/1200px-Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg/1920px-Zentralbibliothek_Zürich_-_Abtei-Kirche_zu_Brauweiler_bei_Cöln_-_991007902009705501.jpg
+  Zentralbibliothek Zürich - Abtey Brauweiler - 991016187179705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg/400px-Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg/800px-Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg/1200px-Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg/1920px-Zentralbibliothek_Zürich_-_Abtey_Brauweiler_-_991016187179705501.jpg
+  Abtei Brauweiler, Prälaturhof-0075.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Abtei_Brauweiler,_Prälaturhof-0075.jpg/400px-Abtei_Brauweiler,_Prälaturhof-0075.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Abtei_Brauweiler,_Prälaturhof-0075.jpg/800px-Abtei_Brauweiler,_Prälaturhof-0075.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Abtei_Brauweiler,_Prälaturhof-0075.jpg/1200px-Abtei_Brauweiler,_Prälaturhof-0075.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Abtei_Brauweiler,_Prälaturhof-0075.jpg/1920px-Abtei_Brauweiler,_Prälaturhof-0075.jpg
+  Abtei Brauweiler Aussenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/400px-Abtei_Brauweiler_Aussenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/800px-Abtei_Brauweiler_Aussenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1200px-Abtei_Brauweiler_Aussenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abtei_Brauweiler_Aussenansicht.jpg/1920px-Abtei_Brauweiler_Aussenansicht.jpg
 ---
 
 ## Overview

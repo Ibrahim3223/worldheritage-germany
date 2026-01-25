@@ -1,23 +1,50 @@
 ---
-title: "Güstrow Cathedral"
-site_name: "Güstrow Cathedral"
-slug: "gustrow-cathedral"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Güstrow Cathedral
+site_name: Güstrow Cathedral
+slug: gustrow-cathedral
+region: Mecklenburg-Vorpommern
 latitude: 53.7909
 longitude: 12.1733
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1562136"
-description: "Imagine stepping into a sanctuary where the echoes of centuries past resonate through its brick walls. Güstrow Cathedral, located in the town of Güstrow..."
+- cultural site
+wikidata_id: Q1562136
+description: Imagine stepping into a sanctuary where the echoes of centuries past
+  resonate through its brick walls. Güstrow Cathedral, located in the town of Güstrow...
 images:
-  - "/images-sites/gustrow-cathedral/01-2df4b199-1920w.webp"
-  - "/images-sites/gustrow-cathedral/02-6fd8f88b-1920w.webp"
-  - "/images-sites/gustrow-cathedral/03-d4b21f65-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guestrow%20Dom.jpg/1200px-Guestrow%20Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/1200px-20230420_4470_Güstrower_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1200px-2019_Germany_Güstrow_Dom_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/1200px-Güstrow_Dom906c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1200px-Guestrow_Dom.jpg
+image_srcset:
+  Guestrow%20Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guestrow%20Dom.jpg/400px-Guestrow%20Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guestrow%20Dom.jpg/800px-Guestrow%20Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guestrow%20Dom.jpg/1200px-Guestrow%20Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Guestrow%20Dom.jpg/1920px-Guestrow%20Dom.jpg
+  20230420 4470 Güstrower Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/400px-20230420_4470_Güstrower_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/800px-20230420_4470_Güstrower_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/1200px-20230420_4470_Güstrower_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20230420_4470_Güstrower_Dom.jpg/1920px-20230420_4470_Güstrower_Dom.jpg
+  2019 Germany Güstrow Dom Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/400px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/800px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1200px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1920px-2019_Germany_Güstrow_Dom_Schloss.jpg
+  Güstrow Dom906c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/400px-Güstrow_Dom906c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/800px-Güstrow_Dom906c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/1200px-Güstrow_Dom906c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Güstrow_Dom906c.jpg/1920px-Güstrow_Dom906c.jpg
+  Guestrow Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/400px-Guestrow_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/800px-Guestrow_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1200px-Guestrow_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Guestrow_Dom.jpg/1920px-Guestrow_Dom.jpg
 ---
 
 ## Overview

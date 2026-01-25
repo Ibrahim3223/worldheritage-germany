@@ -21,7 +21,7 @@ longitude: 10.009444
 
 # Images
 images:
-  - "/images-sites/museum-of-art-and-crafts-hamburg/01-3c4efee3-800w.webp"
+  - "/images/museum-of-art-and-crafts-hamburg/01-3c4efee3-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.9961
 longitude: 7.8486
 images:
-  - "/images-sites/wallgraben-theater/01-96190097-800w.webp"
+  - "/images/wallgraben-theater/01-96190097-800w.webp"
 ---
 
 ## Overview

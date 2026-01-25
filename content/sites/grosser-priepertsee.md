@@ -1,19 +1,38 @@
 ---
-title: "Großer Priepertsee"
+title: Großer Priepertsee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.226283333
 longitude: 13.041630555
 images:
-  - "/images-sites/grosser-priepertsee/01-6e484431-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Priepert_Großer_Priepertsee_2010-04-07_179.jpg/1200px-Priepert_Großer_Priepertsee_2010-04-07_179.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Grosser_Priepertsee.JPG/1200px-2010_Grosser_Priepertsee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Havel-Gr-Priepertsee-11-IV-2007-307.jpg/1200px-Havel-Gr-Priepertsee-11-IV-2007-307.jpg
+image_srcset:
+  Priepert Großer Priepertsee 2010-04-07 179.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Priepert_Großer_Priepertsee_2010-04-07_179.jpg/400px-Priepert_Großer_Priepertsee_2010-04-07_179.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Priepert_Großer_Priepertsee_2010-04-07_179.jpg/800px-Priepert_Großer_Priepertsee_2010-04-07_179.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Priepert_Großer_Priepertsee_2010-04-07_179.jpg/1200px-Priepert_Großer_Priepertsee_2010-04-07_179.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Priepert_Großer_Priepertsee_2010-04-07_179.jpg/1920px-Priepert_Großer_Priepertsee_2010-04-07_179.jpg
+  2010 Grosser Priepertsee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Grosser_Priepertsee.JPG/400px-2010_Grosser_Priepertsee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Grosser_Priepertsee.JPG/800px-2010_Grosser_Priepertsee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Grosser_Priepertsee.JPG/1200px-2010_Grosser_Priepertsee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2010_Grosser_Priepertsee.JPG/1920px-2010_Grosser_Priepertsee.JPG
+  Havel-Gr-Priepertsee-11-IV-2007-307.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Havel-Gr-Priepertsee-11-IV-2007-307.jpg/400px-Havel-Gr-Priepertsee-11-IV-2007-307.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Havel-Gr-Priepertsee-11-IV-2007-307.jpg/800px-Havel-Gr-Priepertsee-11-IV-2007-307.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Havel-Gr-Priepertsee-11-IV-2007-307.jpg/1200px-Havel-Gr-Priepertsee-11-IV-2007-307.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Havel-Gr-Priepertsee-11-IV-2007-307.jpg/1920px-Havel-Gr-Priepertsee-11-IV-2007-307.jpg
 ---
 
 ## Overview

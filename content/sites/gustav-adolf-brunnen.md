@@ -1,19 +1,49 @@
 ---
-title: "Gustav-Adolf-Brunnen"
+title: Gustav-Adolf-Brunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.97675
 longitude: 11.02891
 images:
-  - "/images-sites/gustav-adolf-brunnen/01-e6433078-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gustavadolfbrunnen_erfurt1.JPG/1200px-Gustavadolfbrunnen_erfurt1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gustavadolfbrunnen_erfurt2.JPG/1200px-Gustavadolfbrunnen_erfurt2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erfurt_Gustav-Adolf-Brunnen_04.jpg/1200px-Erfurt_Gustav-Adolf-Brunnen_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg/1200px-Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gustav-Adolf-Brunnen_Erfurt.JPG/1200px-Gustav-Adolf-Brunnen_Erfurt.JPG
+image_srcset:
+  Gustavadolfbrunnen erfurt1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gustavadolfbrunnen_erfurt1.JPG/400px-Gustavadolfbrunnen_erfurt1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gustavadolfbrunnen_erfurt1.JPG/800px-Gustavadolfbrunnen_erfurt1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gustavadolfbrunnen_erfurt1.JPG/1200px-Gustavadolfbrunnen_erfurt1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gustavadolfbrunnen_erfurt1.JPG/1920px-Gustavadolfbrunnen_erfurt1.JPG
+  Gustavadolfbrunnen erfurt2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gustavadolfbrunnen_erfurt2.JPG/400px-Gustavadolfbrunnen_erfurt2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gustavadolfbrunnen_erfurt2.JPG/800px-Gustavadolfbrunnen_erfurt2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gustavadolfbrunnen_erfurt2.JPG/1200px-Gustavadolfbrunnen_erfurt2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Gustavadolfbrunnen_erfurt2.JPG/1920px-Gustavadolfbrunnen_erfurt2.JPG
+  Erfurt Gustav-Adolf-Brunnen 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erfurt_Gustav-Adolf-Brunnen_04.jpg/400px-Erfurt_Gustav-Adolf-Brunnen_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erfurt_Gustav-Adolf-Brunnen_04.jpg/800px-Erfurt_Gustav-Adolf-Brunnen_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erfurt_Gustav-Adolf-Brunnen_04.jpg/1200px-Erfurt_Gustav-Adolf-Brunnen_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erfurt_Gustav-Adolf-Brunnen_04.jpg/1920px-Erfurt_Gustav-Adolf-Brunnen_04.jpg
+  Erfurt Impressionen - Flickr - tm-md (140).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg/400px-Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg/800px-Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg/1200px-Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg/1920px-Erfurt_Impressionen_-_Flickr_-_tm-md_(140).jpg
+  Gustav-Adolf-Brunnen Erfurt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gustav-Adolf-Brunnen_Erfurt.JPG/400px-Gustav-Adolf-Brunnen_Erfurt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gustav-Adolf-Brunnen_Erfurt.JPG/800px-Gustav-Adolf-Brunnen_Erfurt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gustav-Adolf-Brunnen_Erfurt.JPG/1200px-Gustav-Adolf-Brunnen_Erfurt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gustav-Adolf-Brunnen_Erfurt.JPG/1920px-Gustav-Adolf-Brunnen_Erfurt.JPG
 ---
 
 ## Overview

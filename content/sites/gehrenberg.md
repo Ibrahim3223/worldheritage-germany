@@ -1,19 +1,50 @@
 ---
-title: "Gehrenberg"
+title: Gehrenberg
 date: 2026-01-23
 draft: false
-description: "mountain in the municipalities of Markdorf, Oberteuringen and Deggenhausertal in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the municipalities of Markdorf, Oberteuringen and Deggenhausertal
+  in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.741772
 longitude: 9.424293
 images:
-  - "/images-sites/gehrenberg/01-678f58b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gehrenberg_Wanderwegkarte_GuckinsLand.jpg/1200px-Gehrenberg_Wanderwegkarte_GuckinsLand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gehrenberg_7252.jpg/1200px-Gehrenberg_7252.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gehrenberg.JPG/1200px-Gehrenberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Auf_dem_Gehrenberg_6.jpg/1200px-Auf_dem_Gehrenberg_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gehrenberg_Panorama_4-Bearbeitet.jpg/1200px-Gehrenberg_Panorama_4-Bearbeitet.jpg
+image_srcset:
+  Gehrenberg Wanderwegkarte GuckinsLand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gehrenberg_Wanderwegkarte_GuckinsLand.jpg/400px-Gehrenberg_Wanderwegkarte_GuckinsLand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gehrenberg_Wanderwegkarte_GuckinsLand.jpg/800px-Gehrenberg_Wanderwegkarte_GuckinsLand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gehrenberg_Wanderwegkarte_GuckinsLand.jpg/1200px-Gehrenberg_Wanderwegkarte_GuckinsLand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Gehrenberg_Wanderwegkarte_GuckinsLand.jpg/1920px-Gehrenberg_Wanderwegkarte_GuckinsLand.jpg
+  Gehrenberg 7252.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gehrenberg_7252.jpg/400px-Gehrenberg_7252.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gehrenberg_7252.jpg/800px-Gehrenberg_7252.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gehrenberg_7252.jpg/1200px-Gehrenberg_7252.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gehrenberg_7252.jpg/1920px-Gehrenberg_7252.jpg
+  Gehrenberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gehrenberg.JPG/400px-Gehrenberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gehrenberg.JPG/800px-Gehrenberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gehrenberg.JPG/1200px-Gehrenberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gehrenberg.JPG/1920px-Gehrenberg.JPG
+  Auf dem Gehrenberg 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Auf_dem_Gehrenberg_6.jpg/400px-Auf_dem_Gehrenberg_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Auf_dem_Gehrenberg_6.jpg/800px-Auf_dem_Gehrenberg_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Auf_dem_Gehrenberg_6.jpg/1200px-Auf_dem_Gehrenberg_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Auf_dem_Gehrenberg_6.jpg/1920px-Auf_dem_Gehrenberg_6.jpg
+  Gehrenberg Panorama 4-Bearbeitet.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gehrenberg_Panorama_4-Bearbeitet.jpg/400px-Gehrenberg_Panorama_4-Bearbeitet.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gehrenberg_Panorama_4-Bearbeitet.jpg/800px-Gehrenberg_Panorama_4-Bearbeitet.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gehrenberg_Panorama_4-Bearbeitet.jpg/1200px-Gehrenberg_Panorama_4-Bearbeitet.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gehrenberg_Panorama_4-Bearbeitet.jpg/1920px-Gehrenberg_Panorama_4-Bearbeitet.jpg
 ---
 
 ## Overview

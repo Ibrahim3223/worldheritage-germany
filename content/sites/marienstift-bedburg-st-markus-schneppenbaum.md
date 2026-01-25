@@ -13,7 +13,7 @@ regions:
 latitude: 51.7631
 longitude: 6.18583
 images:
-  - "/images-sites/marienstift-bedburg-st-markus-schneppenbaum/01-eaf04908-800w.webp"
+  - "/images/marienstift-bedburg-st-markus-schneppenbaum/01-eaf04908-800w.webp"
 ---
 
 ## Overview

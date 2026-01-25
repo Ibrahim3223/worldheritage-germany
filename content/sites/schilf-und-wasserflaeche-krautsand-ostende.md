@@ -13,8 +13,8 @@ regions:
 latitude: 53.74222222
 longitude: 9.38805556
 images:
-  - "/images-sites/schilf-und-wasserflaeche-krautsand-ostende/01-c66d2104-800w.webp"
-  - "/images-sites/schilf-und-wasserflaeche-krautsand-ostende/02-f06e2909-800w.webp"
+  - "/images/schilf-und-wasserflaeche-krautsand-ostende/01-c66d2104-800w.webp"
+  - "/images/schilf-und-wasserflaeche-krautsand-ostende/02-f06e2909-800w.webp"
 ---
 
 ## Overview

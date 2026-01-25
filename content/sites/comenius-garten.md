@@ -1,19 +1,49 @@
 ---
-title: "Comenius-Garten"
+title: Comenius-Garten
 date: 2026-01-23
 draft: false
-description: "garden"
-region: "Germany"
-country: "Germany"
-heritage_type: "Garden"
+description: garden
+region: Germany
+country: Germany
+heritage_type: Garden
 categories:
-  - "Garden"
+- Garden
 regions:
-  - "Germany"
+- Germany
 latitude: 52.475063888
 longitude: 13.442877777
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Comenius-Garten1.JPG/1200px-Comenius-Garten1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Comenius-Garten2.JPG/1200px-Comenius-Garten2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Comenius-Garten3.JPG/1200px-Comenius-Garten3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comenius-Garten5.JPG/1200px-Comenius-Garten5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/1200px-Comenius-Garten7.JPG
+image_srcset:
+  Comenius-Garten1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Comenius-Garten1.JPG/400px-Comenius-Garten1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Comenius-Garten1.JPG/800px-Comenius-Garten1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Comenius-Garten1.JPG/1200px-Comenius-Garten1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Comenius-Garten1.JPG/1920px-Comenius-Garten1.JPG
+  Comenius-Garten2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Comenius-Garten2.JPG/400px-Comenius-Garten2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Comenius-Garten2.JPG/800px-Comenius-Garten2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Comenius-Garten2.JPG/1200px-Comenius-Garten2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Comenius-Garten2.JPG/1920px-Comenius-Garten2.JPG
+  Comenius-Garten3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Comenius-Garten3.JPG/400px-Comenius-Garten3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Comenius-Garten3.JPG/800px-Comenius-Garten3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Comenius-Garten3.JPG/1200px-Comenius-Garten3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Comenius-Garten3.JPG/1920px-Comenius-Garten3.JPG
+  Comenius-Garten5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comenius-Garten5.JPG/400px-Comenius-Garten5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comenius-Garten5.JPG/800px-Comenius-Garten5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comenius-Garten5.JPG/1200px-Comenius-Garten5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comenius-Garten5.JPG/1920px-Comenius-Garten5.JPG
+  Comenius-Garten7.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/400px-Comenius-Garten7.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/800px-Comenius-Garten7.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/1200px-Comenius-Garten7.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Comenius-Garten7.JPG/1920px-Comenius-Garten7.JPG
 ---
 
 ## Overview

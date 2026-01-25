@@ -13,9 +13,9 @@ regions:
 latitude: 49.697
 longitude: 6.52791
 images:
-  - "/images-sites/perfeist-bei-wasserliesch/01-8cffa9a9-800w.webp"
-  - "/images-sites/perfeist-bei-wasserliesch/02-6012b66f-800w.webp"
-  - "/images-sites/perfeist-bei-wasserliesch/03-703b62ed-800w.webp"
+  - "/images/perfeist-bei-wasserliesch/01-8cffa9a9-800w.webp"
+  - "/images/perfeist-bei-wasserliesch/02-6012b66f-800w.webp"
+  - "/images/perfeist-bei-wasserliesch/03-703b62ed-800w.webp"
 ---
 
 ## Overview

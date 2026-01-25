@@ -1,21 +1,49 @@
 ---
-title: "Dresden Panometer"
+title: Dresden Panometer
 date: 2026-01-23
 draft: false
-description: "attraction in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: attraction in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0256
 longitude: 13.7883
 images:
-  - "/images-sites/dresden-panometer/01-ee79ceac-800w.webp"
-  - "/images-sites/dresden-panometer/02-a1d9ee77-800w.webp"
-  - "/images-sites/dresden-panometer/03-6e0b2e8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Haltepunkt_Dresden_Reick.jpg/1200px-Haltepunkt_Dresden_Reick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gasanstalt_Dresden-Reick_04.JPG/1200px-Gasanstalt_Dresden-Reick_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/1200px-Dresden-Panometer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg/1200px-Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yadegar_Asisi_Panorama_ROM312_Dach.jpg/1200px-Yadegar_Asisi_Panorama_ROM312_Dach.jpg
+image_srcset:
+  Haltepunkt Dresden Reick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Haltepunkt_Dresden_Reick.jpg/400px-Haltepunkt_Dresden_Reick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Haltepunkt_Dresden_Reick.jpg/800px-Haltepunkt_Dresden_Reick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Haltepunkt_Dresden_Reick.jpg/1200px-Haltepunkt_Dresden_Reick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Haltepunkt_Dresden_Reick.jpg/1920px-Haltepunkt_Dresden_Reick.jpg
+  Gasanstalt Dresden-Reick 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gasanstalt_Dresden-Reick_04.JPG/400px-Gasanstalt_Dresden-Reick_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gasanstalt_Dresden-Reick_04.JPG/800px-Gasanstalt_Dresden-Reick_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gasanstalt_Dresden-Reick_04.JPG/1200px-Gasanstalt_Dresden-Reick_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gasanstalt_Dresden-Reick_04.JPG/1920px-Gasanstalt_Dresden-Reick_04.JPG
+  Dresden-Panometer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/400px-Dresden-Panometer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/800px-Dresden-Panometer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/1200px-Dresden-Panometer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/1920px-Dresden-Panometer.jpg
+  Yadegar Asisi Panorama DRESDEN BAROCK.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg/400px-Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg/800px-Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg/1200px-Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg/1920px-Yadegar_Asisi_Panorama_DRESDEN_BAROCK.jpg
+  Yadegar Asisi Panorama ROM312 Dach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yadegar_Asisi_Panorama_ROM312_Dach.jpg/400px-Yadegar_Asisi_Panorama_ROM312_Dach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yadegar_Asisi_Panorama_ROM312_Dach.jpg/800px-Yadegar_Asisi_Panorama_ROM312_Dach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yadegar_Asisi_Panorama_ROM312_Dach.jpg/1200px-Yadegar_Asisi_Panorama_ROM312_Dach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yadegar_Asisi_Panorama_ROM312_Dach.jpg/1920px-Yadegar_Asisi_Panorama_ROM312_Dach.jpg
 ---
 
 ## Overview

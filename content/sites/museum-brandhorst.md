@@ -21,7 +21,7 @@ longitude: 11.5742
 
 # Images
 images:
-  - "/images-sites/museum-brandhorst/01-58656d58-800w.webp"
+  - "/images/museum-brandhorst/01-58656d58-800w.webp"
 ---
 
 ## Overview

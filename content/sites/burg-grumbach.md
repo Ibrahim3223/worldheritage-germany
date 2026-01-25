@@ -1,28 +1,49 @@
 ---
-title: "Burg Grumbach"
+title: Burg Grumbach
 date: 2026-01-23
 draft: false
-description: "Castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.658
 longitude: 7.55597
-
-# Images
 images:
-  - "/images-sites/burg-grumbach/02-f357ff82-800w.webp"
-  - "/images-sites/burg-grumbach/03-f3508901-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schloßberg_Grumbach_bei_Lauterecken.jpg/1200px-Schloßberg_Grumbach_bei_Lauterecken.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg/1200px-Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ansicht_Grumbach.jpg/1200px-Ansicht_Grumbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1200px-Grumbach1627.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Die_gemeinde_grumbach_clip_image004.jpg/1200px-Die_gemeinde_grumbach_clip_image004.jpg
+image_srcset:
+  Schloßberg Grumbach bei Lauterecken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schloßberg_Grumbach_bei_Lauterecken.jpg/400px-Schloßberg_Grumbach_bei_Lauterecken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schloßberg_Grumbach_bei_Lauterecken.jpg/800px-Schloßberg_Grumbach_bei_Lauterecken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schloßberg_Grumbach_bei_Lauterecken.jpg/1200px-Schloßberg_Grumbach_bei_Lauterecken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Schloßberg_Grumbach_bei_Lauterecken.jpg/1920px-Schloßberg_Grumbach_bei_Lauterecken.jpg
+  Die evangelische Pfarrkirche in Grumbach - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg/400px-Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg/800px-Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg/1200px-Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg/1920px-Die_evangelische_Pfarrkirche_in_Grumbach_-_panoramio.jpg
+  Ansicht Grumbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ansicht_Grumbach.jpg/400px-Ansicht_Grumbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ansicht_Grumbach.jpg/800px-Ansicht_Grumbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ansicht_Grumbach.jpg/1200px-Ansicht_Grumbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ansicht_Grumbach.jpg/1920px-Ansicht_Grumbach.jpg
+  Grumbach1627.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/400px-Grumbach1627.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/800px-Grumbach1627.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1200px-Grumbach1627.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grumbach1627.jpeg/1920px-Grumbach1627.jpeg
+  Die gemeinde grumbach clip image004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Die_gemeinde_grumbach_clip_image004.jpg/400px-Die_gemeinde_grumbach_clip_image004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Die_gemeinde_grumbach_clip_image004.jpg/800px-Die_gemeinde_grumbach_clip_image004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Die_gemeinde_grumbach_clip_image004.jpg/1200px-Die_gemeinde_grumbach_clip_image004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Die_gemeinde_grumbach_clip_image004.jpg/1920px-Die_gemeinde_grumbach_clip_image004.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Franziskanerkloster Dingolfing"
+title: Franziskanerkloster Dingolfing
 date: 2026-01-23
 draft: false
-description: "human settlement"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.6231
 longitude: 12.4911
 images:
-  - "/images-sites/franziskanerkloster-dingolfing/01-0974d86a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Franziskanerkloster_Dingolfing_Grundriss.jpg/1200px-Franziskanerkloster_Dingolfing_Grundriss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FranziskanerklosterDingolfig-nach-Eberl.jpg/1200px-FranziskanerklosterDingolfig-nach-Eberl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg/1200px-Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dingolfing-Franziskaner.jpg/1200px-Dingolfing-Franziskaner.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Franziskanerkloster_Dingolfing_18_Jh.png/1200px-Franziskanerkloster_Dingolfing_18_Jh.png
+image_srcset:
+  Franziskanerkloster Dingolfing Grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Franziskanerkloster_Dingolfing_Grundriss.jpg/400px-Franziskanerkloster_Dingolfing_Grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Franziskanerkloster_Dingolfing_Grundriss.jpg/800px-Franziskanerkloster_Dingolfing_Grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Franziskanerkloster_Dingolfing_Grundriss.jpg/1200px-Franziskanerkloster_Dingolfing_Grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Franziskanerkloster_Dingolfing_Grundriss.jpg/1920px-Franziskanerkloster_Dingolfing_Grundriss.jpg
+  FranziskanerklosterDingolfig-nach-Eberl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FranziskanerklosterDingolfig-nach-Eberl.jpg/400px-FranziskanerklosterDingolfig-nach-Eberl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FranziskanerklosterDingolfig-nach-Eberl.jpg/800px-FranziskanerklosterDingolfig-nach-Eberl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FranziskanerklosterDingolfig-nach-Eberl.jpg/1200px-FranziskanerklosterDingolfig-nach-Eberl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FranziskanerklosterDingolfig-nach-Eberl.jpg/1920px-FranziskanerklosterDingolfig-nach-Eberl.jpg
+  Neues Franziskanerkloster Dingolfing Holzstich 1873.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg/400px-Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg/800px-Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg/1200px-Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg/1920px-Neues_Franziskanerkloster_Dingolfing_Holzstich_1873.jpg
+  Dingolfing-Franziskaner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dingolfing-Franziskaner.jpg/400px-Dingolfing-Franziskaner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dingolfing-Franziskaner.jpg/800px-Dingolfing-Franziskaner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dingolfing-Franziskaner.jpg/1200px-Dingolfing-Franziskaner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dingolfing-Franziskaner.jpg/1920px-Dingolfing-Franziskaner.jpg
+  Franziskanerkloster Dingolfing 18 Jh.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Franziskanerkloster_Dingolfing_18_Jh.png/400px-Franziskanerkloster_Dingolfing_18_Jh.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Franziskanerkloster_Dingolfing_18_Jh.png/800px-Franziskanerkloster_Dingolfing_18_Jh.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Franziskanerkloster_Dingolfing_18_Jh.png/1200px-Franziskanerkloster_Dingolfing_18_Jh.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Franziskanerkloster_Dingolfing_18_Jh.png/1920px-Franziskanerkloster_Dingolfing_18_Jh.png
 ---
 
 ## Overview

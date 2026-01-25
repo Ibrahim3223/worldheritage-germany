@@ -13,7 +13,7 @@ regions:
 latitude: 52.5432
 longitude: 13.3642
 images:
-  - "/images-sites/prime-time-theater/01-16d636c2-800w.webp"
+  - "/images/prime-time-theater/01-16d636c2-800w.webp"
 ---
 
 ## Overview

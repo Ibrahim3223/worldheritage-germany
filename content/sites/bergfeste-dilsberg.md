@@ -1,27 +1,49 @@
 ---
-title: "Bergfeste Dilsberg"
+title: Bergfeste Dilsberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.398611111
 longitude: 8.836944444
-
-# Images
 images:
-  - "/images-sites/bergfeste-dilsberg/01-1e6ecc09-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dilsberg,_Burg_Neckargemund_20230518_01.jpg/1200px-Dilsberg,_Burg_Neckargemund_20230518_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dilsberg,_Burg_Neckargemund_20230518_02.jpg/1200px-Dilsberg,_Burg_Neckargemund_20230518_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Dilsberg-Aussicht.jpg/1200px-Burg_Dilsberg-Aussicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg/1200px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg/1200px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg
+image_srcset:
+  Dilsberg, Burg Neckargemund 20230518 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dilsberg,_Burg_Neckargemund_20230518_01.jpg/400px-Dilsberg,_Burg_Neckargemund_20230518_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dilsberg,_Burg_Neckargemund_20230518_01.jpg/800px-Dilsberg,_Burg_Neckargemund_20230518_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dilsberg,_Burg_Neckargemund_20230518_01.jpg/1200px-Dilsberg,_Burg_Neckargemund_20230518_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dilsberg,_Burg_Neckargemund_20230518_01.jpg/1920px-Dilsberg,_Burg_Neckargemund_20230518_01.jpg
+  Dilsberg, Burg Neckargemund 20230518 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dilsberg,_Burg_Neckargemund_20230518_02.jpg/400px-Dilsberg,_Burg_Neckargemund_20230518_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dilsberg,_Burg_Neckargemund_20230518_02.jpg/800px-Dilsberg,_Burg_Neckargemund_20230518_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dilsberg,_Burg_Neckargemund_20230518_02.jpg/1200px-Dilsberg,_Burg_Neckargemund_20230518_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dilsberg,_Burg_Neckargemund_20230518_02.jpg/1920px-Dilsberg,_Burg_Neckargemund_20230518_02.jpg
+  Burg Dilsberg-Aussicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Dilsberg-Aussicht.jpg/400px-Burg_Dilsberg-Aussicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Dilsberg-Aussicht.jpg/800px-Burg_Dilsberg-Aussicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Dilsberg-Aussicht.jpg/1200px-Burg_Dilsberg-Aussicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Dilsberg-Aussicht.jpg/1920px-Burg_Dilsberg-Aussicht.jpg
+  Dilsberg fortress ruins, district Rhein-Neckar 05 courtyard and Neckar valley.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg/400px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg/800px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg/1200px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg/1920px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_05_courtyard_and_Neckar_valley.jpg
+  Dilsberg fortress ruins, district Rhein-Neckar 01 former garden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg/400px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg/800px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg/1200px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg/1920px-Dilsberg_fortress_ruins,_district_Rhein-Neckar_01_former_garden.jpg
 ---
 
 ## Overview

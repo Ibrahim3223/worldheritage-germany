@@ -13,7 +13,7 @@ regions:
 latitude: 49.9881
 longitude: 6.88569
 images:
-  - "/images-sites/wittlich-synagogue/01-f2df4c1e-800w.webp"
+  - "/images/wittlich-synagogue/01-f2df4c1e-800w.webp"
 ---
 
 ## Overview

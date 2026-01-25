@@ -1,20 +1,27 @@
 ---
-title: "Evangelische StadtkircheSchorndorf"
-site_name: "Evangelische StadtkircheSchorndorf"
-slug: "evangelische-stadtkirche-schorndorf"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische StadtkircheSchorndorf
+site_name: Evangelische StadtkircheSchorndorf
+slug: evangelische-stadtkirche-schorndorf
+region: Baden-Württemberg
 latitude: 48.805
 longitude: 9.52583
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1381142"
-description: "As you approach the Evangelische Stadtkirche in Schorndorf, the intricate details of its Gothic architecture immediately capture your attention. This ch..."
+- church building
+- religious site
+wikidata_id: Q1381142
+description: As you approach the Evangelische Stadtkirche in Schorndorf, the intricate
+  details of its Gothic architecture immediately capture your attention. This ch...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg/1200px-Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg
+image_srcset:
+  Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg/400px-Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg/800px-Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg/1200px-Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg/1920px-Schorndorf%20-%20Mondscheinbunnen%20vor%20der%20Kirche.jpg
 ---
 
 ## Overview

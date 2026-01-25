@@ -13,7 +13,7 @@ regions:
 latitude: 49.757
 longitude: 6.64201
 images:
-  - "/images-sites/turm-jerusalem/01-c214ef84-800w.webp"
+  - "/images/turm-jerusalem/01-c214ef84-800w.webp"
 ---
 
 ## Overview

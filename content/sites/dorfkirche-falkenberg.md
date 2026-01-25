@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Falkenberg"
-site_name: "Dorfkirche Falkenberg"
-slug: "dorfkirche-falkenberg"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Falkenberg
+site_name: Dorfkirche Falkenberg
+slug: dorfkirche-falkenberg
+region: Berlin
 latitude: 52.5706
 longitude: 13.5379
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244270"
-description: "Dorfkirche Falkenberg, a striking church building located in Lichtenberg, Germany, invites visitors to explore its historical and architectural signific..."
+- church building
+- religious site
+wikidata_id: Q1244270
+description: Dorfkirche Falkenberg, a striking church building located in Lichtenberg,
+  Germany, invites visitors to explore its historical and architectural signific...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG/1200px-Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg/1200px-Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_Falkenberg_Gedenktafel.jpeg/1200px-Kirche_Falkenberg_Gedenktafel.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg/1200px-Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FalkenbergKirche.jpg/1200px-FalkenbergKirche.jpg
+image_srcset:
+  Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG/400px-Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG/800px-Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG/1200px-Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG/1920px-Dorfkirchhof%20Berlin-Falkbg%20106-157.JPG
+  Friedhof Falkenberg Dorfstraße 39A Berlin 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg/400px-Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg/800px-Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg/1200px-Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg/1920px-Friedhof_Falkenberg_Dorfstraße_39A_Berlin_04.jpg
+  Kirche Falkenberg Gedenktafel.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_Falkenberg_Gedenktafel.jpeg/400px-Kirche_Falkenberg_Gedenktafel.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_Falkenberg_Gedenktafel.jpeg/800px-Kirche_Falkenberg_Gedenktafel.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_Falkenberg_Gedenktafel.jpeg/1200px-Kirche_Falkenberg_Gedenktafel.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche_Falkenberg_Gedenktafel.jpeg/1920px-Kirche_Falkenberg_Gedenktafel.jpeg
+  Gedenktafel Dorfstraße 39 A (Falkb) Kirche Falkenberg.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg/400px-Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg/800px-Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg/1200px-Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg/1920px-Gedenktafel_Dorfstraße_39_A_(Falkb)_Kirche_Falkenberg.jpeg
+  FalkenbergKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FalkenbergKirche.jpg/400px-FalkenbergKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FalkenbergKirche.jpg/800px-FalkenbergKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FalkenbergKirche.jpg/1200px-FalkenbergKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FalkenbergKirche.jpg/1920px-FalkenbergKirche.jpg
 ---
 
 ## Overview

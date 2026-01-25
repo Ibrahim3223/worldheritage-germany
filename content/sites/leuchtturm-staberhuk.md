@@ -13,7 +13,7 @@ regions:
 latitude: 54.4025
 longitude: 11.31083333
 images:
-  - "/images-sites/leuchtturm-staberhuk/01-b07f9475-800w.webp"
+  - "/images/leuchtturm-staberhuk/01-b07f9475-800w.webp"
 ---
 
 ## Overview

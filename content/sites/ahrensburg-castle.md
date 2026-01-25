@@ -1,27 +1,49 @@
 ---
-title: "Ahrensburg Castle"
+title: Ahrensburg Castle
 date: 2026-01-23
 draft: false
-description: "château in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: château in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.680131
 longitude: 10.240341
-
-# Images
 images:
-  - "/images-sites/ahrensburg-castle/01-93990ede-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ahrensburg,_Germany_-_panoramio_(22).jpg/1200px-Ahrensburg,_Germany_-_panoramio_(22).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schloss_Ahrensburg_Mai_2015.jpg/1200px-Schloss_Ahrensburg_Mai_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg_Mai_2015d.jpg/1200px-Schloss_Ahrensburg_Mai_2015d.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Ahrensburg,_Gartenfassade.JPG/1200px-Schloss_Ahrensburg,_Gartenfassade.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Ahrensburg_von_Südosten.JPG/1200px-Schloss_Ahrensburg_von_Südosten.JPG
+image_srcset:
+  Ahrensburg, Germany - panoramio (22).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ahrensburg,_Germany_-_panoramio_(22).jpg/400px-Ahrensburg,_Germany_-_panoramio_(22).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ahrensburg,_Germany_-_panoramio_(22).jpg/800px-Ahrensburg,_Germany_-_panoramio_(22).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ahrensburg,_Germany_-_panoramio_(22).jpg/1200px-Ahrensburg,_Germany_-_panoramio_(22).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ahrensburg,_Germany_-_panoramio_(22).jpg/1920px-Ahrensburg,_Germany_-_panoramio_(22).jpg
+  Schloss Ahrensburg Mai 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schloss_Ahrensburg_Mai_2015.jpg/400px-Schloss_Ahrensburg_Mai_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schloss_Ahrensburg_Mai_2015.jpg/800px-Schloss_Ahrensburg_Mai_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schloss_Ahrensburg_Mai_2015.jpg/1200px-Schloss_Ahrensburg_Mai_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schloss_Ahrensburg_Mai_2015.jpg/1920px-Schloss_Ahrensburg_Mai_2015.jpg
+  Schloss Ahrensburg Mai 2015d.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg_Mai_2015d.jpg/400px-Schloss_Ahrensburg_Mai_2015d.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg_Mai_2015d.jpg/800px-Schloss_Ahrensburg_Mai_2015d.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg_Mai_2015d.jpg/1200px-Schloss_Ahrensburg_Mai_2015d.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Schloss_Ahrensburg_Mai_2015d.jpg/1920px-Schloss_Ahrensburg_Mai_2015d.jpg
+  Schloss Ahrensburg, Gartenfassade.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Ahrensburg,_Gartenfassade.JPG/400px-Schloss_Ahrensburg,_Gartenfassade.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Ahrensburg,_Gartenfassade.JPG/800px-Schloss_Ahrensburg,_Gartenfassade.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Ahrensburg,_Gartenfassade.JPG/1200px-Schloss_Ahrensburg,_Gartenfassade.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Schloss_Ahrensburg,_Gartenfassade.JPG/1920px-Schloss_Ahrensburg,_Gartenfassade.JPG
+  Schloss Ahrensburg von Südosten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Ahrensburg_von_Südosten.JPG/400px-Schloss_Ahrensburg_von_Südosten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Ahrensburg_von_Südosten.JPG/800px-Schloss_Ahrensburg_von_Südosten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Ahrensburg_von_Südosten.JPG/1200px-Schloss_Ahrensburg_von_Südosten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Ahrensburg_von_Südosten.JPG/1920px-Schloss_Ahrensburg_von_Südosten.JPG
 ---
 
 ## Overview

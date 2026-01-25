@@ -13,7 +13,7 @@ regions:
 latitude: 51.8195
 longitude: 9.8601
 images:
-  - "/images-sites/ps-speicher/01-bfec2fba-800w.webp"
+  - "/images/ps-speicher/01-bfec2fba-800w.webp"
 ---
 
 ## Overview

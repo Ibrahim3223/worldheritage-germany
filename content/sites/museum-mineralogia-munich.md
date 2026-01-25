@@ -13,7 +13,7 @@ regions:
 latitude: 48.1478
 longitude: 11.5728
 images:
-  - "/images-sites/museum-mineralogia-munich/01-90ce2152-800w.webp"
+  - "/images/museum-mineralogia-munich/01-90ce2152-800w.webp"
 ---
 
 ## Overview

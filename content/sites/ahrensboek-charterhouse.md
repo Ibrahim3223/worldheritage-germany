@@ -1,27 +1,25 @@
 ---
-title: "Ahrensbök Charterhouse"
+title: Ahrensbök Charterhouse
 date: 2026-01-23
 draft: false
-description: "monastery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.0122
 longitude: 10.5717
-
-# Images
 images:
-  - "/images-sites/ahrensboek-charterhouse/01-b28b4b32-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG/1200px-Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG
+image_srcset:
+  Ahrensboek - Marienkirche Ahrensbök O.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG/400px-Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG/800px-Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG/1200px-Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG/1920px-Ahrensboek_-_Marienkirche_Ahrensbök_O.JPG
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q695891"
 description: "St. Elisabeths Church in Marburg, Germany, is a stunning example of Gothic architecture that captures the imagination of visitors with its grandeur and ..."
 images:
-  - "/images-sites/st-elisabeth-s-church/01-42dfdc26-1920w.webp"
-  - "/images-sites/st-elisabeth-s-church/02-ca785c64-1920w.webp"
-  - "/images-sites/st-elisabeth-s-church/03-4283b151-1920w.webp"
+  - "/images/st-elisabeth-s-church/01-42dfdc26-1920w.webp"
+  - "/images/st-elisabeth-s-church/02-ca785c64-1920w.webp"
+  - "/images/st-elisabeth-s-church/03-4283b151-1920w.webp"
 ---
 
 ## Overview

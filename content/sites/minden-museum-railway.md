@@ -13,7 +13,7 @@ regions:
 latitude: 52.3005
 longitude: 8.913
 images:
-  - "/images-sites/minden-museum-railway/01-515cb26e-800w.webp"
+  - "/images/minden-museum-railway/01-515cb26e-800w.webp"
 ---
 
 ## Overview

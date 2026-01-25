@@ -1,27 +1,49 @@
 ---
-title: "Ehreshoven Castle"
+title: Ehreshoven Castle
 date: 2026-01-23
 draft: false
-description: "German Castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: German Castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9741
 longitude: 7.34421
-
-# Images
 images:
-  - "/images-sites/ehreshoven-castle/01-9acdf030-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg/1200px-Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schloss_Ehreshoven_(Engelskirchen)_(4).jpg/1200px-Schloss_Ehreshoven_(Engelskirchen)_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lindlar_2011_025.jpg/1200px-Lindlar_2011_025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ehreshoven.jpg/1200px-Ehreshoven.jpg
+image_srcset:
+  Aerial image of the Ehreshoven Castle (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/400px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/800px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Ehreshoven_Castle_(view_from_the_south).jpg
+  Engelskirchen - Schloss Ehreshoven 22 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg/400px-Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg/800px-Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg/1200px-Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg/1920px-Engelskirchen_-_Schloss_Ehreshoven_22_ies.jpg
+  Schloss Ehreshoven (Engelskirchen) (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schloss_Ehreshoven_(Engelskirchen)_(4).jpg/400px-Schloss_Ehreshoven_(Engelskirchen)_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schloss_Ehreshoven_(Engelskirchen)_(4).jpg/800px-Schloss_Ehreshoven_(Engelskirchen)_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schloss_Ehreshoven_(Engelskirchen)_(4).jpg/1200px-Schloss_Ehreshoven_(Engelskirchen)_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Schloss_Ehreshoven_(Engelskirchen)_(4).jpg/1920px-Schloss_Ehreshoven_(Engelskirchen)_(4).jpg
+  Lindlar 2011 025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lindlar_2011_025.jpg/400px-Lindlar_2011_025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lindlar_2011_025.jpg/800px-Lindlar_2011_025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lindlar_2011_025.jpg/1200px-Lindlar_2011_025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lindlar_2011_025.jpg/1920px-Lindlar_2011_025.jpg
+  Ehreshoven.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ehreshoven.jpg/400px-Ehreshoven.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ehreshoven.jpg/800px-Ehreshoven.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ehreshoven.jpg/1200px-Ehreshoven.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ehreshoven.jpg/1920px-Ehreshoven.jpg
 ---
 
 ## Overview

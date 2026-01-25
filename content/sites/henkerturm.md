@@ -1,19 +1,49 @@
 ---
-title: "Henkerturm"
+title: Henkerturm
 date: 2026-01-24
 draft: false
-description: "tower in Nuremberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Nuremberg, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.45323907
 longitude: 11.073289792
 images:
-  - "/images-sites/henkerturm/01-e25b569d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg/1200px-D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg/1200px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg/1200px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Henkerturm_-_Brücke_01.jpg/1200px-Nürnberg_Henkerturm_-_Brücke_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nürnberg_Henkersteg_01.jpg/1200px-Nürnberg_Henkersteg_01.jpg
+image_srcset:
+  D-5-64-000-1956 Trödelmarkt 58, Henkersturm, Wehrgang über den nördlichen Pegnitzarm Nürnberg 20241020 0179.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg/400px-D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg/800px-D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg/1200px-D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg/1920px-D-5-64-000-1956_Trödelmarkt_58,_Henkersturm,_Wehrgang_über_den_nördlichen_Pegnitzarm_Nürnberg_20241020_0179.jpg
+  Nürnberg Henkerturm - Brücke - Wasserturm 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg/400px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg/800px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg/1200px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg/1920px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_01.jpg
+  Nürnberg Henkerturm - Brücke - Wasserturm 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg/400px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg/800px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg/1200px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg/1920px-Nürnberg_Henkerturm_-_Brücke_-_Wasserturm_02.jpg
+  Nürnberg Henkerturm - Brücke 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Henkerturm_-_Brücke_01.jpg/400px-Nürnberg_Henkerturm_-_Brücke_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Henkerturm_-_Brücke_01.jpg/800px-Nürnberg_Henkerturm_-_Brücke_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Henkerturm_-_Brücke_01.jpg/1200px-Nürnberg_Henkerturm_-_Brücke_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nürnberg_Henkerturm_-_Brücke_01.jpg/1920px-Nürnberg_Henkerturm_-_Brücke_01.jpg
+  Nürnberg Henkersteg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nürnberg_Henkersteg_01.jpg/400px-Nürnberg_Henkersteg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nürnberg_Henkersteg_01.jpg/800px-Nürnberg_Henkersteg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nürnberg_Henkersteg_01.jpg/1200px-Nürnberg_Henkersteg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nürnberg_Henkersteg_01.jpg/1920px-Nürnberg_Henkersteg_01.jpg
 ---
 
 ## Overview

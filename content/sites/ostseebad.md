@@ -21,9 +21,9 @@ longitude: 9.42986
 
 # Images
 images:
-  - "/images-sites/ostseebad/01-12367420-800w.webp"
-  - "/images-sites/ostseebad/02-4d1dc884-800w.webp"
-  - "/images-sites/ostseebad/03-8e9ac8ef-800w.webp"
+  - "/images/ostseebad/01-12367420-800w.webp"
+  - "/images/ostseebad/02-4d1dc884-800w.webp"
+  - "/images/ostseebad/03-8e9ac8ef-800w.webp"
 ---
 
 ## Overview

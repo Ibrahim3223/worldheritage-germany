@@ -13,7 +13,7 @@ regions:
 latitude: 50.737222222
 longitude: 6.243333333
 images:
-  - "/images-sites/schlangenberg/01-0b47920f-800w.webp"
+  - "/images/schlangenberg/01-0b47920f-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Frankfurt (Main) Stadion station"
+title: Frankfurt (Main) Stadion station
 date: 2026-01-23
 draft: false
-description: "railway station in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.068074474
 longitude: 8.633021773
 images:
-  - "/images-sites/frankfurt-main-stadion-station/01-dff32545-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahn-Station_Frankfurt_Stadion.jpg/1200px-S-Bahn-Station_Frankfurt_Stadion.jpg
+image_srcset:
+  202206 Bahnhof Frankfurt am Main Stadion 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg/400px-202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg/800px-202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg/1920px-202206_Bahnhof_Frankfurt_am_Main_Stadion_01.jpg
+  202206 Bahnhof Frankfurt am Main Stadion 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg/400px-202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg/800px-202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg/1920px-202206_Bahnhof_Frankfurt_am_Main_Stadion_04.jpg
+  202206 Bahnhof Frankfurt am Main Stadion 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg/400px-202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg/800px-202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg/1920px-202206_Bahnhof_Frankfurt_am_Main_Stadion_08.jpg
+  202206 Bahnhof Frankfurt am Main Stadion 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg/400px-202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg/800px-202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg/1200px-202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg/1920px-202206_Bahnhof_Frankfurt_am_Main_Stadion_10.jpg
+  S-Bahn-Station Frankfurt Stadion.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahn-Station_Frankfurt_Stadion.jpg/400px-S-Bahn-Station_Frankfurt_Stadion.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahn-Station_Frankfurt_Stadion.jpg/800px-S-Bahn-Station_Frankfurt_Stadion.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahn-Station_Frankfurt_Stadion.jpg/1200px-S-Bahn-Station_Frankfurt_Stadion.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/S-Bahn-Station_Frankfurt_Stadion.jpg/1920px-S-Bahn-Station_Frankfurt_Stadion.jpg
 ---
 
 ## Overview

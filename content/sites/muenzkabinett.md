@@ -13,7 +13,7 @@ regions:
 latitude: 51.0527
 longitude: 13.7369
 images:
-  - "/images-sites/muenzkabinett/01-8eab279d-800w.webp"
+  - "/images/muenzkabinett/01-8eab279d-800w.webp"
 ---
 
 ## Overview

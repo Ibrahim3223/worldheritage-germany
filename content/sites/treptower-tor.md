@@ -13,8 +13,8 @@ regions:
 latitude: 53.557
 longitude: 13.255
 images:
-  - "/images-sites/treptower-tor/02-60085f06-800w.webp"
-  - "/images-sites/treptower-tor/03-96df9f8e-800w.webp"
+  - "/images/treptower-tor/02-60085f06-800w.webp"
+  - "/images/treptower-tor/03-96df9f8e-800w.webp"
 ---
 
 ## Overview

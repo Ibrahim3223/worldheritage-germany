@@ -13,9 +13,9 @@ regions:
 latitude: 53.459305
 longitude: 10.214595
 images:
-  - "/images-sites/rieckhuus/01-2e4be577-800w.webp"
-  - "/images-sites/rieckhuus/02-3ad0371b-800w.webp"
-  - "/images-sites/rieckhuus/03-8096e087-800w.webp"
+  - "/images/rieckhuus/01-2e4be577-800w.webp"
+  - "/images/rieckhuus/02-3ad0371b-800w.webp"
+  - "/images/rieckhuus/03-8096e087-800w.webp"
 ---
 
 ## Overview

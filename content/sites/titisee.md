@@ -13,9 +13,9 @@ regions:
 latitude: 47.893333333
 longitude: 8.146111111
 images:
-  - "/images-sites/titisee/01-0eff37e1-800w.webp"
-  - "/images-sites/titisee/02-e88af730-800w.webp"
-  - "/images-sites/titisee/03-1c14736e-800w.webp"
+  - "/images/titisee/01-0eff37e1-800w.webp"
+  - "/images/titisee/02-e88af730-800w.webp"
+  - "/images/titisee/03-1c14736e-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Barbarossa Cave"
+title: Barbarossa Cave
 date: 2026-01-23
 draft: false
-description: "cave"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: cave
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.375555555
 longitude: 11.036388888
 images:
-  - "/images-sites/barbarossa-cave/01-2492e6fe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Barbarossahöhle_(80)_Dom.jpg/1200px-Barbarossahöhle_(80)_Dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbarossahöhle_(83)_Dom_mit_Treppe.jpg/1200px-Barbarossahöhle_(83)_Dom_mit_Treppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/1200px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barbarossahöhle_2020-06-01_12.jpg/1200px-Barbarossahöhle_2020-06-01_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Barbarossahoehle.jpg/1200px-Barbarossahoehle.jpg
+image_srcset:
+  Barbarossahöhle (80) Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Barbarossahöhle_(80)_Dom.jpg/400px-Barbarossahöhle_(80)_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Barbarossahöhle_(80)_Dom.jpg/800px-Barbarossahöhle_(80)_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Barbarossahöhle_(80)_Dom.jpg/1200px-Barbarossahöhle_(80)_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Barbarossahöhle_(80)_Dom.jpg/1920px-Barbarossahöhle_(80)_Dom.jpg
+  Barbarossahöhle (83) Dom mit Treppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbarossahöhle_(83)_Dom_mit_Treppe.jpg/400px-Barbarossahöhle_(83)_Dom_mit_Treppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbarossahöhle_(83)_Dom_mit_Treppe.jpg/800px-Barbarossahöhle_(83)_Dom_mit_Treppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbarossahöhle_(83)_Dom_mit_Treppe.jpg/1200px-Barbarossahöhle_(83)_Dom_mit_Treppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Barbarossahöhle_(83)_Dom_mit_Treppe.jpg/1920px-Barbarossahöhle_(83)_Dom_mit_Treppe.jpg
+  Spiegelung in Barbarossahöhle- Thüringen...IMG 6878WI.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/400px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/800px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/1200px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG/1920px-Spiegelung_in_Barbarossahöhle-_Thüringen...IMG_6878WI.JPG
+  Barbarossahöhle 2020-06-01 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barbarossahöhle_2020-06-01_12.jpg/400px-Barbarossahöhle_2020-06-01_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barbarossahöhle_2020-06-01_12.jpg/800px-Barbarossahöhle_2020-06-01_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barbarossahöhle_2020-06-01_12.jpg/1200px-Barbarossahöhle_2020-06-01_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Barbarossahöhle_2020-06-01_12.jpg/1920px-Barbarossahöhle_2020-06-01_12.jpg
+  Barbarossahoehle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Barbarossahoehle.jpg/400px-Barbarossahoehle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Barbarossahoehle.jpg/800px-Barbarossahoehle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Barbarossahoehle.jpg/1200px-Barbarossahoehle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Barbarossahoehle.jpg/1920px-Barbarossahoehle.jpg
 ---
 
 ## Overview

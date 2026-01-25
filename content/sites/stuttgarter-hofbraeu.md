@@ -21,7 +21,7 @@ longitude: 9.154
 
 # Images
 images:
-  - "/images-sites/stuttgarter-hofbraeu/01-652a9ba7-800w.webp"
+  - "/images/stuttgarter-hofbraeu/01-652a9ba7-800w.webp"
 ---
 
 ## Overview

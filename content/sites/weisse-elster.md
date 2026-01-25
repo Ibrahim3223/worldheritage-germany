@@ -13,7 +13,7 @@ regions:
 latitude: 50.200277777
 longitude: 12.272222222
 images:
-  - "/images-sites/weisse-elster/01-38712595-800w.webp"
+  - "/images/weisse-elster/01-38712595-800w.webp"
 ---
 
 ## Overview

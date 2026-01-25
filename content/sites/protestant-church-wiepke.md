@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q1244815"
 description: "In the heart of Gardelegen, a town steeped in history, lies the Protestant Church (Wiepke), a remarkable structure that embodies the regions architectur..."
 images:
-  - "/images-sites/protestant-church-wiepke/01-c9fcebfc-1920w.webp"
-  - "/images-sites/protestant-church-wiepke/02-5168ebfb-1920w.webp"
+  - "/images/protestant-church-wiepke/01-c9fcebfc-1920w.webp"
+  - "/images/protestant-church-wiepke/02-5168ebfb-1920w.webp"
 ---
 
 ## Overview

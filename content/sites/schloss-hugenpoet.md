@@ -21,7 +21,7 @@ longitude: 6.917222222
 
 # Images
 images:
-  - "/images-sites/schloss-hugenpoet/01-127c8450-800w.webp"
+  - "/images/schloss-hugenpoet/01-127c8450-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 11.45694
 
 # Images
 images:
-  - "/images-sites/menzing/01-f579f3dd-800w.webp"
+  - "/images/menzing/01-f579f3dd-800w.webp"
 ---
 
 ## Overview

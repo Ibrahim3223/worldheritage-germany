@@ -13,7 +13,7 @@ regions:
 latitude: 48.7778
 longitude: 9.19889
 images:
-  - "/images-sites/robert-bosch-haus/01-f91c5916-800w.webp"
+  - "/images/robert-bosch-haus/01-f91c5916-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1501827"
 description: "St. Nikomedes is a striking Gothic Revival church located in the scenic region of Steinfurt, Germany. This architectural gem stands as a representation ..."
 images:
-  - "/images-sites/st-nikomedes/01-c9e5bffe-1920w.webp"
-  - "/images-sites/st-nikomedes/02-66bc931e-1920w.webp"
-  - "/images-sites/st-nikomedes/03-b41b35ae-1920w.webp"
+  - "/images/st-nikomedes/01-c9e5bffe-1920w.webp"
+  - "/images/st-nikomedes/02-66bc931e-1920w.webp"
+  - "/images/st-nikomedes/03-b41b35ae-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Kahler Asten"
+title: Kahler Asten
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.179444444
 longitude: 8.488888888
 images:
-  - "/images-sites/kahler-asten/01-a852cf54-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kahler_Asten_(Ösenberg).jpg/1200px-Kahler_Asten_(Ösenberg).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kahler_Asten_Sauerland_Ost_072_pk.jpg/1200px-Kahler_Asten_Sauerland_Ost_072_pk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kahler_Asten_in_Winter..jpg/1200px-Kahler_Asten_in_Winter..jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kahler_Asten_2007_(1054349078).jpg/1200px-Kahler_Asten_2007_(1054349078).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sonnenuntergang_Kahler_Asten.jpg/1200px-Sonnenuntergang_Kahler_Asten.jpg
+image_srcset:
+  Kahler Asten (Ösenberg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kahler_Asten_(Ösenberg).jpg/400px-Kahler_Asten_(Ösenberg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kahler_Asten_(Ösenberg).jpg/800px-Kahler_Asten_(Ösenberg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kahler_Asten_(Ösenberg).jpg/1200px-Kahler_Asten_(Ösenberg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kahler_Asten_(Ösenberg).jpg/1920px-Kahler_Asten_(Ösenberg).jpg
+  Kahler Asten Sauerland Ost 072 pk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kahler_Asten_Sauerland_Ost_072_pk.jpg/400px-Kahler_Asten_Sauerland_Ost_072_pk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kahler_Asten_Sauerland_Ost_072_pk.jpg/800px-Kahler_Asten_Sauerland_Ost_072_pk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kahler_Asten_Sauerland_Ost_072_pk.jpg/1200px-Kahler_Asten_Sauerland_Ost_072_pk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kahler_Asten_Sauerland_Ost_072_pk.jpg/1920px-Kahler_Asten_Sauerland_Ost_072_pk.jpg
+  Kahler Asten in Winter..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kahler_Asten_in_Winter..jpg/400px-Kahler_Asten_in_Winter..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kahler_Asten_in_Winter..jpg/800px-Kahler_Asten_in_Winter..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kahler_Asten_in_Winter..jpg/1200px-Kahler_Asten_in_Winter..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kahler_Asten_in_Winter..jpg/1920px-Kahler_Asten_in_Winter..jpg
+  Kahler Asten 2007 (1054349078).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kahler_Asten_2007_(1054349078).jpg/400px-Kahler_Asten_2007_(1054349078).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kahler_Asten_2007_(1054349078).jpg/800px-Kahler_Asten_2007_(1054349078).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kahler_Asten_2007_(1054349078).jpg/1200px-Kahler_Asten_2007_(1054349078).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kahler_Asten_2007_(1054349078).jpg/1920px-Kahler_Asten_2007_(1054349078).jpg
+  Sonnenuntergang Kahler Asten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sonnenuntergang_Kahler_Asten.jpg/400px-Sonnenuntergang_Kahler_Asten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sonnenuntergang_Kahler_Asten.jpg/800px-Sonnenuntergang_Kahler_Asten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sonnenuntergang_Kahler_Asten.jpg/1200px-Sonnenuntergang_Kahler_Asten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sonnenuntergang_Kahler_Asten.jpg/1920px-Sonnenuntergang_Kahler_Asten.jpg
 ---
 
 ## Overview

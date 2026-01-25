@@ -13,8 +13,8 @@ regions:
 latitude: 48.6835
 longitude: 9.12829
 images:
-  - "/images-sites/maeulesmuehle/02-13009f41-800w.webp"
-  - "/images-sites/maeulesmuehle/03-9789f8db-800w.webp"
+  - "/images/maeulesmuehle/02-13009f41-800w.webp"
+  - "/images/maeulesmuehle/03-9789f8db-800w.webp"
 ---
 
 ## Overview

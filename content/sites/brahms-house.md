@@ -1,19 +1,49 @@
 ---
-title: "Brahms House"
+title: Brahms House
 date: 2026-01-23
 draft: false
-description: "museum over Johannes Brahms in Baden-Baden"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum over Johannes Brahms in Baden-Baden
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.744497
 longitude: 8.261013
 images:
-  - "/images-sites/brahms-house/01-25ee4fd3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BrahmshausVonUnten.jpg/1200px-BrahmshausVonUnten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/StatuetteBrahms.jpg/1200px-StatuetteBrahms.jpg
+image_srcset:
+  Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg/400px-Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg/800px-Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-32-Wohnzimmer-2017-gje.jpg
+  Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg/400px-Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg/800px-Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-36-Wohnzimmer-2017-gje.jpg
+  Baden-Baden-Brahmshaus-14-Maximilianstr 85-2017-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/400px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/800px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1200px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg/1920px-Baden-Baden-Brahmshaus-14-Maximilianstr_85-2017-gje.jpg
+  BrahmshausVonUnten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BrahmshausVonUnten.jpg/400px-BrahmshausVonUnten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BrahmshausVonUnten.jpg/800px-BrahmshausVonUnten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BrahmshausVonUnten.jpg/1200px-BrahmshausVonUnten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BrahmshausVonUnten.jpg/1920px-BrahmshausVonUnten.jpg
+  StatuetteBrahms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/StatuetteBrahms.jpg/400px-StatuetteBrahms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/StatuetteBrahms.jpg/800px-StatuetteBrahms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/StatuetteBrahms.jpg/1200px-StatuetteBrahms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/StatuetteBrahms.jpg/1920px-StatuetteBrahms.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Dithmarscher Landesmuseum"
+title: Dithmarscher Landesmuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.0913
 longitude: 9.07347
 images:
-  - "/images-sites/dithmarscher-landesmuseum/01-1d2ab923-800w.webp"
-  - "/images-sites/dithmarscher-landesmuseum/02-cbdba325-800w.webp"
-  - "/images-sites/dithmarscher-landesmuseum/03-25b8847b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg/1200px-Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg/1200px-Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1200px-Dithm_Landesmuseum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg/1200px-Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg/1200px-Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg
+image_srcset:
+  Schleswig-Holstein, Meldorf, Dithmarscher Landesmuseum NIK 1923 .jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg/400px-Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg/800px-Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg/1200px-Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg/1920px-Schleswig-Holstein,_Meldorf,_Dithmarscher_Landesmuseum_NIK_1923_.jpg
+  Haupteingang am Neubau des Dithmarscher Landesmuseums.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg/400px-Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg/800px-Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg/1200px-Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg/1920px-Haupteingang_am_Neubau_des_Dithmarscher_Landesmuseums.jpg
+  Dithm Landesmuseum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/400px-Dithm_Landesmuseum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/800px-Dithm_Landesmuseum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1200px-Dithm_Landesmuseum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dithm_Landesmuseum.JPG/1920px-Dithm_Landesmuseum.JPG
+  Verleihung des Kulturpreises 1976 an den Leiter des Freilichtmuseums Molfsee Prof. Alfred Kamphausen (Kiel 67.645).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg/400px-Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg/800px-Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg/1200px-Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg/1920px-Verleihung_des_Kulturpreises_1976_an_den_Leiter_des_Freilichtmuseums_Molfsee_Prof._Alfred_Kamphausen_(Kiel_67.645).jpg
+  Verleihung der Fritz-Schumacher-Medaille durch die F.V.S. Stiftung (Kiel 65.395).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg/400px-Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg/800px-Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg/1200px-Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg/1920px-Verleihung_der_Fritz-Schumacher-Medaille_durch_die_F.V.S._Stiftung_(Kiel_65.395).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.216197222
 longitude: 6.757708333
 images:
-  - "/images-sites/neuer-zollhof/01-7755fdf1-800w.webp"
+  - "/images/neuer-zollhof/01-7755fdf1-800w.webp"
 ---
 
 ## Overview

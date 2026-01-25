@@ -1,19 +1,43 @@
 ---
-title: "EU Business School"
+title: EU Business School
 date: 2026-01-24
 draft: false
-description: "Private european business school"
-region: "Germany"
-country: "Germany"
-heritage_type: "University"
+description: Private european business school
+region: Germany
+country: Germany
+heritage_type: University
 categories:
-  - "University"
+- University
 regions:
-  - "Germany"
+- Germany
 latitude: 46.205555555
 longitude: 6.136666666
 images:
-  - "/images-sites/eu-business-school/01-99a2b339-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EWA_OSNIECKA_TAMECKA_1.jpg/1200px-EWA_OSNIECKA_TAMECKA_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_business_School_Munich.jpg/1200px-EU_business_School_Munich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/European_University_Campus_Yvorne.jpg/1200px-European_University_Campus_Yvorne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_Montreaux.jpg/1200px-EU_Montreaux.jpg
+image_srcset:
+  EWA OSNIECKA TAMECKA 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EWA_OSNIECKA_TAMECKA_1.jpg/400px-EWA_OSNIECKA_TAMECKA_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EWA_OSNIECKA_TAMECKA_1.jpg/800px-EWA_OSNIECKA_TAMECKA_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EWA_OSNIECKA_TAMECKA_1.jpg/1200px-EWA_OSNIECKA_TAMECKA_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EWA_OSNIECKA_TAMECKA_1.jpg/1920px-EWA_OSNIECKA_TAMECKA_1.jpg
+  EU business School Munich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_business_School_Munich.jpg/400px-EU_business_School_Munich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_business_School_Munich.jpg/800px-EU_business_School_Munich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_business_School_Munich.jpg/1200px-EU_business_School_Munich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_business_School_Munich.jpg/1920px-EU_business_School_Munich.jpg
+  European University Campus Yvorne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/European_University_Campus_Yvorne.jpg/400px-European_University_Campus_Yvorne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/European_University_Campus_Yvorne.jpg/800px-European_University_Campus_Yvorne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/European_University_Campus_Yvorne.jpg/1200px-European_University_Campus_Yvorne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/European_University_Campus_Yvorne.jpg/1920px-European_University_Campus_Yvorne.jpg
+  EU Montreaux.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_Montreaux.jpg/400px-EU_Montreaux.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_Montreaux.jpg/800px-EU_Montreaux.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_Montreaux.jpg/1200px-EU_Montreaux.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/EU_Montreaux.jpg/1920px-EU_Montreaux.jpg
 ---
 
 ## Overview

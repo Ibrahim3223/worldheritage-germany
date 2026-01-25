@@ -1,19 +1,49 @@
 ---
-title: "Hödinger Tobel"
+title: Hödinger Tobel
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.789921
 longitude: 9.126463
 images:
-  - "/images-sites/hoedinger-tobel/01-f57a5e61-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hödinger_Tobel_(2025).jpg/1200px-Hödinger_Tobel_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg/1200px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg/1200px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hödinger_Tobel.jpg/1200px-Hödinger_Tobel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG/1200px-DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG
+image_srcset:
+  Hödinger Tobel (2025).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hödinger_Tobel_(2025).jpg/400px-Hödinger_Tobel_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hödinger_Tobel_(2025).jpg/800px-Hödinger_Tobel_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hödinger_Tobel_(2025).jpg/1200px-Hödinger_Tobel_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hödinger_Tobel_(2025).jpg/1920px-Hödinger_Tobel_(2025).jpg
+  DEU-BaWü-NSG-4.114 Kreis-FN Apr im-Hödinger-Tobel-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg/400px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg/800px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg/1200px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg/1920px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-07.jpg
+  DEU-BaWü-NSG-4.114 Kreis-FN Apr im-Hödinger-Tobel-08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg/400px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg/800px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg/1200px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg/1920px-DEU-BaWü-NSG-4.114_Kreis-FN_Apr_im-Hödinger-Tobel-08.jpg
+  Hödinger Tobel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hödinger_Tobel.jpg/400px-Hödinger_Tobel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hödinger_Tobel.jpg/800px-Hödinger_Tobel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hödinger_Tobel.jpg/1200px-Hödinger_Tobel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hödinger_Tobel.jpg/1920px-Hödinger_Tobel.jpg
+  DEU-BaWü-NSG-4.114 Kreis-FN Jul im-Hödinger-Tobel-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG/400px-DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG/800px-DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG/1200px-DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG/1920px-DEU-BaWü-NSG-4.114_Kreis-FN_Jul_im-Hödinger-Tobel-01.JPG
 ---
 
 ## Overview

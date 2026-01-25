@@ -13,7 +13,7 @@ regions:
 latitude: 53.6274
 longitude: 11.3928
 images:
-  - "/images-sites/sport-und-kongresshalle/01-cfeca6f2-800w.webp"
+  - "/images/sport-und-kongresshalle/01-cfeca6f2-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 48.021944444
 longitude: 11.861944444
 images:
-  - "/images-sites/stein-see/01-26a29ef9-800w.webp"
-  - "/images-sites/stein-see/02-0fcc7ab9-800w.webp"
-  - "/images-sites/stein-see/03-70a82ab7-800w.webp"
+  - "/images/stein-see/01-26a29ef9-800w.webp"
+  - "/images/stein-see/02-0fcc7ab9-800w.webp"
+  - "/images/stein-see/03-70a82ab7-800w.webp"
 ---
 
 ## Overview

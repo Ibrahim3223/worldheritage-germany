@@ -1,19 +1,49 @@
 ---
-title: "Ekhof-Theater"
+title: Ekhof-Theater
 date: 2026-01-24
 draft: false
-description: "theatre in Friedenstein Palace in Gotha, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Friedenstein Palace in Gotha, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9450035
 longitude: 10.7042192
 images:
-  - "/images-sites/ekhof-theater/01-cf59b639-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ekhof-Theater_Gotha_(3).jpg/1200px-Ekhof-Theater_Gotha_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ekhof-Theater_Gotha_(4).jpg/1200px-Ekhof-Theater_Gotha_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1200px-Ekhof-Theater_Zuschauerraum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bühne_des_Ekhof-Theaters.JPG/1200px-Bühne_des_Ekhof-Theaters.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg/1200px-Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg
+image_srcset:
+  Ekhof-Theater Gotha (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ekhof-Theater_Gotha_(3).jpg/400px-Ekhof-Theater_Gotha_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ekhof-Theater_Gotha_(3).jpg/800px-Ekhof-Theater_Gotha_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ekhof-Theater_Gotha_(3).jpg/1200px-Ekhof-Theater_Gotha_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ekhof-Theater_Gotha_(3).jpg/1920px-Ekhof-Theater_Gotha_(3).jpg
+  Ekhof-Theater Gotha (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ekhof-Theater_Gotha_(4).jpg/400px-Ekhof-Theater_Gotha_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ekhof-Theater_Gotha_(4).jpg/800px-Ekhof-Theater_Gotha_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ekhof-Theater_Gotha_(4).jpg/1200px-Ekhof-Theater_Gotha_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ekhof-Theater_Gotha_(4).jpg/1920px-Ekhof-Theater_Gotha_(4).jpg
+  Ekhof-Theater Zuschauerraum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/400px-Ekhof-Theater_Zuschauerraum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/800px-Ekhof-Theater_Zuschauerraum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1200px-Ekhof-Theater_Zuschauerraum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ekhof-Theater_Zuschauerraum.JPG/1920px-Ekhof-Theater_Zuschauerraum.JPG
+  Bühne des Ekhof-Theaters.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bühne_des_Ekhof-Theaters.JPG/400px-Bühne_des_Ekhof-Theaters.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bühne_des_Ekhof-Theaters.JPG/800px-Bühne_des_Ekhof-Theaters.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bühne_des_Ekhof-Theaters.JPG/1200px-Bühne_des_Ekhof-Theaters.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bühne_des_Ekhof-Theaters.JPG/1920px-Bühne_des_Ekhof-Theaters.JPG
+  Bundesarchiv Bild 183-H0110-0201-001, Gotha, Schloss Friedenstein, Ekhof-Theater, Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg/400px-Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg/800px-Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg/1200px-Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg/1920px-Bundesarchiv_Bild_183-H0110-0201-001,_Gotha,_Schloss_Friedenstein,_Ekhof-Theater,_Eingang.jpg
 ---
 
 ## Overview

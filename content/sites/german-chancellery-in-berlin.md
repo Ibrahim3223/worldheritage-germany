@@ -1,19 +1,49 @@
 ---
-title: "German Chancellery in Berlin"
+title: German Chancellery in Berlin
 date: 2026-01-23
 draft: false
-description: "building in Berlin in which the German chancellery resides"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: building in Berlin in which the German chancellery resides
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.52
 longitude: 13.3694
 images:
-  - "/images-sites/german-chancellery-in-berlin/01-6d87518c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg/1200px-2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1200px-07.08.21.Bundeskanzleramt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Besuch_im_Bundeskanzleramt_05.jpg/1200px-Besuch_im_Bundeskanzleramt_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Besuch_im_Bundeskanzleramt_06.jpg/1200px-Besuch_im_Bundeskanzleramt_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BundeskanzleramtLuftbild.jpg/1200px-BundeskanzleramtLuftbild.jpg
+image_srcset:
+  2015- German Federal Chancellery Complex (Bundeskanzleramt) ( Ank Kumar ).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg/400px-2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg/800px-2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg/1200px-2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg/1920px-2015-_German_Federal_Chancellery_Complex_(Bundeskanzleramt)_(_Ank_Kumar_).jpg
+  07.08.21.Bundeskanzleramt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/400px-07.08.21.Bundeskanzleramt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/800px-07.08.21.Bundeskanzleramt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1200px-07.08.21.Bundeskanzleramt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1920px-07.08.21.Bundeskanzleramt.jpg
+  Besuch im Bundeskanzleramt 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Besuch_im_Bundeskanzleramt_05.jpg/400px-Besuch_im_Bundeskanzleramt_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Besuch_im_Bundeskanzleramt_05.jpg/800px-Besuch_im_Bundeskanzleramt_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Besuch_im_Bundeskanzleramt_05.jpg/1200px-Besuch_im_Bundeskanzleramt_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Besuch_im_Bundeskanzleramt_05.jpg/1920px-Besuch_im_Bundeskanzleramt_05.jpg
+  Besuch im Bundeskanzleramt 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Besuch_im_Bundeskanzleramt_06.jpg/400px-Besuch_im_Bundeskanzleramt_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Besuch_im_Bundeskanzleramt_06.jpg/800px-Besuch_im_Bundeskanzleramt_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Besuch_im_Bundeskanzleramt_06.jpg/1200px-Besuch_im_Bundeskanzleramt_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Besuch_im_Bundeskanzleramt_06.jpg/1920px-Besuch_im_Bundeskanzleramt_06.jpg
+  BundeskanzleramtLuftbild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BundeskanzleramtLuftbild.jpg/400px-BundeskanzleramtLuftbild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BundeskanzleramtLuftbild.jpg/800px-BundeskanzleramtLuftbild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BundeskanzleramtLuftbild.jpg/1200px-BundeskanzleramtLuftbild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BundeskanzleramtLuftbild.jpg/1920px-BundeskanzleramtLuftbild.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.33
 longitude: 7.81
 images:
-  - "/images-sites/nassau-nature-park/01-ac2d7231-800w.webp"
+  - "/images/nassau-nature-park/01-ac2d7231-800w.webp"
 ---
 
 ## Overview

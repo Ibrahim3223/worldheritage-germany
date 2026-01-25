@@ -13,8 +13,8 @@ regions:
 latitude: 49.7353
 longitude: 7.1329
 images:
-  - "/images-sites/schwarzenbruch/01-39c3a820-800w.webp"
-  - "/images-sites/schwarzenbruch/01-f070148d-800w.webp"
+  - "/images/schwarzenbruch/01-39c3a820-800w.webp"
+  - "/images/schwarzenbruch/01-f070148d-800w.webp"
 ---
 
 ## Overview

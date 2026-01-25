@@ -13,7 +13,7 @@ regions:
 latitude: 53.771667
 longitude: 8.0925
 images:
-  - "/images-sites/leuchtturm-mellumplate/01-7949f259-800w.webp"
+  - "/images/leuchtturm-mellumplate/01-7949f259-800w.webp"
 ---
 
 ## Overview

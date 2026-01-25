@@ -1,19 +1,49 @@
 ---
-title: "Gedenkstätte Berliner Mauer"
+title: Gedenkstätte Berliner Mauer
 date: 2026-01-23
 draft: false
-description: "Berlin Wall Memorial (Gedenkstätte Berliner Mauer)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Berlin Wall Memorial (Gedenkstätte Berliner Mauer)
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.535
 longitude: 13.3897
 images:
-  - "/images-sites/gedenkstaette-berliner-mauer/01-9ff1f3b4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg/1200px-Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin,_Bernauer_Straße_--_2011_--_2524.jpg/1200px-Berlin,_Bernauer_Straße_--_2011_--_2524.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg/1200px-Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/1200px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/1200px-Gedenkstätte_Berliner_Mauer.jpg
+image_srcset:
+  Berlin, Gedenkstätte Bernauer Straße -- 2013 -- 4795-99.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg/400px-Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg/800px-Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg/1200px-Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg/1920px-Berlin,_Gedenkstätte_Bernauer_Straße_--_2013_--_4795-99.jpg
+  Berlin, Bernauer Straße -- 2011 -- 2524.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin,_Bernauer_Straße_--_2011_--_2524.jpg/400px-Berlin,_Bernauer_Straße_--_2011_--_2524.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin,_Bernauer_Straße_--_2011_--_2524.jpg/800px-Berlin,_Bernauer_Straße_--_2011_--_2524.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin,_Bernauer_Straße_--_2011_--_2524.jpg/1200px-Berlin,_Bernauer_Straße_--_2011_--_2524.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Berlin,_Bernauer_Straße_--_2011_--_2524.jpg/1920px-Berlin,_Bernauer_Straße_--_2011_--_2524.jpg
+  Besucherzentrum Gedenkstätte Berliner Mauer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg/400px-Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg/800px-Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg/1200px-Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg/1920px-Besucherzentrum_Gedenkstätte_Berliner_Mauer.jpg
+  Mémorial du mur de Berlin (6330924243).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/400px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/800px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/1200px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mémorial_du_mur_de_Berlin_(6330924243).jpg/1920px-Mémorial_du_mur_de_Berlin_(6330924243).jpg
+  Gedenkstätte Berliner Mauer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/400px-Gedenkstätte_Berliner_Mauer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/800px-Gedenkstätte_Berliner_Mauer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/1200px-Gedenkstätte_Berliner_Mauer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedenkstätte_Berliner_Mauer.jpg/1920px-Gedenkstätte_Berliner_Mauer.jpg
 ---
 
 ## Overview

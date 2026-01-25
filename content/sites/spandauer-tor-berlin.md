@@ -13,7 +13,7 @@ regions:
 latitude: 52.523056
 longitude: 13.403611
 images:
-  - "/images-sites/spandauer-tor-berlin/02-471d7f51-800w.webp"
+  - "/images/spandauer-tor-berlin/02-471d7f51-800w.webp"
 ---
 
 ## Overview

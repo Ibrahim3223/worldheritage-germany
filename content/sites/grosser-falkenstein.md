@@ -1,19 +1,49 @@
 ---
-title: "Großer Falkenstein"
+title: Großer Falkenstein
 date: 2026-01-23
 draft: false
-description: "mountain in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.084166666
 longitude: 13.28
 images:
-  - "/images-sites/grosser-falkenstein/01-69fec193-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berghang.jpg/1200px-Berghang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Felsklippe,_Großer_Falkenstein.jpg/1200px-Felsklippe,_Großer_Falkenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Großer_Falkenstein.JPG/1200px-Großer_Falkenstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Urwald_am_Zwiesler_Waldhaus.jpg/1200px-Urwald_am_Zwiesler_Waldhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grosser_Falkenstein.jpg/1200px-Grosser_Falkenstein.jpg
+image_srcset:
+  Berghang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berghang.jpg/400px-Berghang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berghang.jpg/800px-Berghang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berghang.jpg/1200px-Berghang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Berghang.jpg/1920px-Berghang.jpg
+  Felsklippe, Großer Falkenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Felsklippe,_Großer_Falkenstein.jpg/400px-Felsklippe,_Großer_Falkenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Felsklippe,_Großer_Falkenstein.jpg/800px-Felsklippe,_Großer_Falkenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Felsklippe,_Großer_Falkenstein.jpg/1200px-Felsklippe,_Großer_Falkenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Felsklippe,_Großer_Falkenstein.jpg/1920px-Felsklippe,_Großer_Falkenstein.jpg
+  Großer Falkenstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Großer_Falkenstein.JPG/400px-Großer_Falkenstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Großer_Falkenstein.JPG/800px-Großer_Falkenstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Großer_Falkenstein.JPG/1200px-Großer_Falkenstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Großer_Falkenstein.JPG/1920px-Großer_Falkenstein.JPG
+  Urwald am Zwiesler Waldhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Urwald_am_Zwiesler_Waldhaus.jpg/400px-Urwald_am_Zwiesler_Waldhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Urwald_am_Zwiesler_Waldhaus.jpg/800px-Urwald_am_Zwiesler_Waldhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Urwald_am_Zwiesler_Waldhaus.jpg/1200px-Urwald_am_Zwiesler_Waldhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Urwald_am_Zwiesler_Waldhaus.jpg/1920px-Urwald_am_Zwiesler_Waldhaus.jpg
+  Grosser Falkenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grosser_Falkenstein.jpg/400px-Grosser_Falkenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grosser_Falkenstein.jpg/800px-Grosser_Falkenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grosser_Falkenstein.jpg/1200px-Grosser_Falkenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Grosser_Falkenstein.jpg/1920px-Grosser_Falkenstein.jpg
 ---
 
 ## Overview

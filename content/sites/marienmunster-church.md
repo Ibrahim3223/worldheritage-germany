@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1254306"
 description: "In the heart of Bavaria, the Marienmünster church stands as a striking example of Late Baroque architecture, captivating visitors with its intricate det..."
 images:
-  - "/images-sites/marienmunster-church/01-f1dcad1b-1920w.webp"
-  - "/images-sites/marienmunster-church/02-8d139e37-1920w.webp"
-  - "/images-sites/marienmunster-church/03-953d4b56-1920w.webp"
+  - "/images/marienmunster-church/01-f1dcad1b-1920w.webp"
+  - "/images/marienmunster-church/02-8d139e37-1920w.webp"
+  - "/images/marienmunster-church/03-953d4b56-1920w.webp"
 ---
 
 ## Overview

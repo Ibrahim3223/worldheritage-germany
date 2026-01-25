@@ -1,21 +1,49 @@
 ---
-title: "Haseldorf manor"
+title: Haseldorf manor
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.632630555
 longitude: 9.597725
 images:
-  - "/images-sites/haseldorf-manor/01-cc5e0934-800w.webp"
-  - "/images-sites/haseldorf-manor/02-f342ae8f-800w.webp"
-  - "/images-sites/haseldorf-manor/03-b20d44b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haseldorf_Burggraben_01.JPG/1200px-Haseldorf_Burggraben_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Haseldorf_Herrenhaus_03.JPG/1200px-Haseldorf_Herrenhaus_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wappen_Schoenaich-Carolath-Schilden_01.jpg/1200px-Wappen_Schoenaich-Carolath-Schilden_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1200px-Haseldorf_Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Haseldorf_Marstall.jpg/1200px-Haseldorf_Marstall.jpg
+image_srcset:
+  Haseldorf Burggraben 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haseldorf_Burggraben_01.JPG/400px-Haseldorf_Burggraben_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haseldorf_Burggraben_01.JPG/800px-Haseldorf_Burggraben_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haseldorf_Burggraben_01.JPG/1200px-Haseldorf_Burggraben_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haseldorf_Burggraben_01.JPG/1920px-Haseldorf_Burggraben_01.JPG
+  Haseldorf Herrenhaus 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Haseldorf_Herrenhaus_03.JPG/400px-Haseldorf_Herrenhaus_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Haseldorf_Herrenhaus_03.JPG/800px-Haseldorf_Herrenhaus_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Haseldorf_Herrenhaus_03.JPG/1200px-Haseldorf_Herrenhaus_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Haseldorf_Herrenhaus_03.JPG/1920px-Haseldorf_Herrenhaus_03.JPG
+  Wappen Schoenaich-Carolath-Schilden 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wappen_Schoenaich-Carolath-Schilden_01.jpg/400px-Wappen_Schoenaich-Carolath-Schilden_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wappen_Schoenaich-Carolath-Schilden_01.jpg/800px-Wappen_Schoenaich-Carolath-Schilden_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wappen_Schoenaich-Carolath-Schilden_01.jpg/1200px-Wappen_Schoenaich-Carolath-Schilden_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wappen_Schoenaich-Carolath-Schilden_01.jpg/1920px-Wappen_Schoenaich-Carolath-Schilden_01.jpg
+  Haseldorf Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/400px-Haseldorf_Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/800px-Haseldorf_Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1200px-Haseldorf_Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Haseldorf_Herrenhaus.jpg/1920px-Haseldorf_Herrenhaus.jpg
+  Haseldorf Marstall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Haseldorf_Marstall.jpg/400px-Haseldorf_Marstall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Haseldorf_Marstall.jpg/800px-Haseldorf_Marstall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Haseldorf_Marstall.jpg/1200px-Haseldorf_Marstall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Haseldorf_Marstall.jpg/1920px-Haseldorf_Marstall.jpg
 ---
 
 ## Overview

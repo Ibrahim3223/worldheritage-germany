@@ -13,7 +13,7 @@ regions:
 latitude: 51.1375
 longitude: 14.990277777
 images:
-  - "/images-sites/weinberg/01-6c5b0bee-800w.webp"
+  - "/images/weinberg/01-6c5b0bee-800w.webp"
 ---
 
 ## Overview

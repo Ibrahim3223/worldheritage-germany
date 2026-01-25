@@ -1,19 +1,49 @@
 ---
-title: "Gymnasium Dresden-Plauen"
+title: Gymnasium Dresden-Plauen
 date: 2026-01-23
 draft: false
-description: "secondary school in Dresden, Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: secondary school in Dresden, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0271
 longitude: 13.705
 images:
-  - "/images-sites/gymnasium-dresden-plauen/01-2fb25e45-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg/1200px-Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg/1200px-2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2021-09-24_Gymnasium_Dresden-Plauen_80.jpg/1200px-2021-09-24_Gymnasium_Dresden-Plauen_80.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/1200px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg/1200px-20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg
+image_srcset:
+  Stiftungstafel an Treppensäule Gymnasium Plauen 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg/400px-Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg/800px-Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg/1200px-Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg/1920px-Stiftungstafel_an_Treppensäule_Gymnasium_Plauen_2021.jpg
+  2019-07-18 Renovation of Gymnasium Dresden-Plauen 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg/400px-2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg/800px-2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg/1200px-2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg/1920px-2019-07-18_Renovation_of_Gymnasium_Dresden-Plauen_21.jpg
+  2021-09-24 Gymnasium Dresden-Plauen 80.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2021-09-24_Gymnasium_Dresden-Plauen_80.jpg/400px-2021-09-24_Gymnasium_Dresden-Plauen_80.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2021-09-24_Gymnasium_Dresden-Plauen_80.jpg/800px-2021-09-24_Gymnasium_Dresden-Plauen_80.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2021-09-24_Gymnasium_Dresden-Plauen_80.jpg/1200px-2021-09-24_Gymnasium_Dresden-Plauen_80.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2021-09-24_Gymnasium_Dresden-Plauen_80.jpg/1920px-2021-09-24_Gymnasium_Dresden-Plauen_80.jpg
+  Gymnasium Dresden-Plauen Hauptgebäude.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/400px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/800px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/1200px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gymnasium_Dresden-Plauen_Hauptgebäude.JPG/1920px-Gymnasium_Dresden-Plauen_Hauptgebäude.JPG
+  20080427035DR Dresden Gymnasium Dresden-Plauen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg/400px-20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg/800px-20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg/1200px-20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg/1920px-20080427035DR_Dresden_Gymnasium_Dresden-Plauen.jpg
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 7.62635
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-pablo-picasso-muenster/01-25ab0ee4-800w.webp"
+  - "/images/kunstmuseum-pablo-picasso-muenster/01-25ab0ee4-800w.webp"
 ---
 
 ## Overview

@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q1244567"
 description: "In the heart of Nuthetal, Germany, the Village Church of Nudow stands as a serene testament to Lutheran faith and architectural grace. Founded in 1733, ..."
 images:
-  - "/images-sites/village-church-nudow/01-e789e4a0-1920w.webp"
-  - "/images-sites/village-church-nudow/03-e0569b69-1920w.webp"
+  - "/images/village-church-nudow/01-e789e4a0-1920w.webp"
+  - "/images/village-church-nudow/03-e0569b69-1920w.webp"
 ---
 
 ## Overview

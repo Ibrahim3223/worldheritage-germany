@@ -13,7 +13,7 @@ regions:
 latitude: 48.5103
 longitude: 9.04194
 images:
-  - "/images-sites/paul-horn-arena/01-939b3b98-800w.webp"
+  - "/images/paul-horn-arena/01-939b3b98-800w.webp"
 ---
 
 ## Overview

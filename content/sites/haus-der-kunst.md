@@ -1,27 +1,49 @@
 ---
-title: "Haus der Kunst"
+title: Haus der Kunst
 date: 2026-01-23
 draft: false
-description: "art museum in Munich, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.144114618
 longitude: 11.585938562
-
-# Images
 images:
-  - "/images-sites/haus-der-kunst/01-1703b9b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg/1200px-M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Haus_der_Kunst_Muenchen-6.jpg/1200px-Haus_der_Kunst_Muenchen-6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Haus_der_Kunst_Muenchen-12.jpg/1200px-Haus_der_Kunst_Muenchen-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/München_Haus_der_Kunst_2009.jpg/1200px-München_Haus_der_Kunst_2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1200px-Haus_der_Kunst_-_Munich_-_2013.jpg
+image_srcset:
+  M018F077 Kassettendecke im Portikus – Haus der Kunst – München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg/400px-M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg/800px-M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg/1200px-M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg/1920px-M018F077_Kassettendecke_im_Portikus_–_Haus_der_Kunst_–_München.jpg
+  Haus der Kunst Muenchen-6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Haus_der_Kunst_Muenchen-6.jpg/400px-Haus_der_Kunst_Muenchen-6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Haus_der_Kunst_Muenchen-6.jpg/800px-Haus_der_Kunst_Muenchen-6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Haus_der_Kunst_Muenchen-6.jpg/1200px-Haus_der_Kunst_Muenchen-6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Haus_der_Kunst_Muenchen-6.jpg/1920px-Haus_der_Kunst_Muenchen-6.jpg
+  Haus der Kunst Muenchen-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Haus_der_Kunst_Muenchen-12.jpg/400px-Haus_der_Kunst_Muenchen-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Haus_der_Kunst_Muenchen-12.jpg/800px-Haus_der_Kunst_Muenchen-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Haus_der_Kunst_Muenchen-12.jpg/1200px-Haus_der_Kunst_Muenchen-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Haus_der_Kunst_Muenchen-12.jpg/1920px-Haus_der_Kunst_Muenchen-12.jpg
+  München Haus der Kunst 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/München_Haus_der_Kunst_2009.jpg/400px-München_Haus_der_Kunst_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/München_Haus_der_Kunst_2009.jpg/800px-München_Haus_der_Kunst_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/München_Haus_der_Kunst_2009.jpg/1200px-München_Haus_der_Kunst_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/München_Haus_der_Kunst_2009.jpg/1920px-München_Haus_der_Kunst_2009.jpg
+  Haus der Kunst - Munich - 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/400px-Haus_der_Kunst_-_Munich_-_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/800px-Haus_der_Kunst_-_Munich_-_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1200px-Haus_der_Kunst_-_Munich_-_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_der_Kunst_-_Munich_-_2013.jpg/1920px-Haus_der_Kunst_-_Munich_-_2013.jpg
 ---
 
 ## Overview

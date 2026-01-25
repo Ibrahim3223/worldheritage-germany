@@ -13,7 +13,7 @@ regions:
 latitude: 49.6294
 longitude: 8.36703
 images:
-  - "/images-sites/nibelungen-museum-worms/03-fa90733f-800w.webp"
+  - "/images/nibelungen-museum-worms/03-fa90733f-800w.webp"
 ---
 
 ## Overview

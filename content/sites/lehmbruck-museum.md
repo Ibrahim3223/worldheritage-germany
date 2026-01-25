@@ -21,9 +21,9 @@ longitude: 6.766111
 
 # Images
 images:
-  - "/images-sites/lehmbruck-museum/01-839c36be-800w.webp"
-  - "/images-sites/lehmbruck-museum/02-4c873f36-800w.webp"
-  - "/images-sites/lehmbruck-museum/03-3644503c-800w.webp"
+  - "/images/lehmbruck-museum/01-839c36be-800w.webp"
+  - "/images/lehmbruck-museum/02-4c873f36-800w.webp"
+  - "/images/lehmbruck-museum/03-3644503c-800w.webp"
 ---
 
 ## Overview

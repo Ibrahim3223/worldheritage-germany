@@ -13,9 +13,9 @@ regions:
 latitude: 50.97952
 longitude: 11.03483
 images:
-  - "/images-sites/stadtmuseum-erfurt/01-4b075bd5-800w.webp"
-  - "/images-sites/stadtmuseum-erfurt/02-8de7025f-800w.webp"
-  - "/images-sites/stadtmuseum-erfurt/03-247b2b39-800w.webp"
+  - "/images/stadtmuseum-erfurt/01-4b075bd5-800w.webp"
+  - "/images/stadtmuseum-erfurt/02-8de7025f-800w.webp"
+  - "/images/stadtmuseum-erfurt/03-247b2b39-800w.webp"
 ---
 
 ## Overview

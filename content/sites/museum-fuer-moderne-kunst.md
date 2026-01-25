@@ -21,7 +21,7 @@ longitude: 8.685
 
 # Images
 images:
-  - "/images-sites/museum-fuer-moderne-kunst/01-dead6a2d-800w.webp"
+  - "/images/museum-fuer-moderne-kunst/01-dead6a2d-800w.webp"
 ---
 
 ## Overview

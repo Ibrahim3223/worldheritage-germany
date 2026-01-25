@@ -1,19 +1,50 @@
 ---
-title: "Church in Groß Brütz"
-site_name: "Church in Groß Brütz"
-slug: "church-in-gross-brutz"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Groß Brütz
+site_name: Church in Groß Brütz
+slug: church-in-gross-brutz
+region: Schleswig-Holstein
 latitude: 53.6502
 longitude: 11.2537
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244315"
-description: "The Church in Groß Brütz is an intriguing example of Brick Gothic architecture, standing as a historical landmark in the region of Brüsewitz, Germany. W..."
+- cultural site
+wikidata_id: Q1244315
+description: The Church in Groß Brütz is an intriguing example of Brick Gothic architecture,
+  standing as a historical landmark in the region of Brüsewitz, Germany. W...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg/1200px-Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Groß_Brütz_Kirche_2013-03-02.JPG/1200px-Groß_Brütz_Kirche_2013-03-02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Groß_Brütz_Kirche_2013-03-02_25.JPG/1200px-Groß_Brütz_Kirche_2013-03-02_25.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Groß_Brütz_Kirche_2013-03-02_64.JPG/1200px-Groß_Brütz_Kirche_2013-03-02_64.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1200px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
+image_srcset:
+  Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg/400px-Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg/800px-Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg/1200px-Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg/1920px-Gross%20Bruetz%20Kirche%202008-11-13%20005.jpg
+  Groß Brütz Kirche 2013-03-02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Groß_Brütz_Kirche_2013-03-02.JPG/400px-Groß_Brütz_Kirche_2013-03-02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Groß_Brütz_Kirche_2013-03-02.JPG/800px-Groß_Brütz_Kirche_2013-03-02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Groß_Brütz_Kirche_2013-03-02.JPG/1200px-Groß_Brütz_Kirche_2013-03-02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Groß_Brütz_Kirche_2013-03-02.JPG/1920px-Groß_Brütz_Kirche_2013-03-02.JPG
+  Groß Brütz Kirche 2013-03-02 25.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Groß_Brütz_Kirche_2013-03-02_25.JPG/400px-Groß_Brütz_Kirche_2013-03-02_25.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Groß_Brütz_Kirche_2013-03-02_25.JPG/800px-Groß_Brütz_Kirche_2013-03-02_25.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Groß_Brütz_Kirche_2013-03-02_25.JPG/1200px-Groß_Brütz_Kirche_2013-03-02_25.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Groß_Brütz_Kirche_2013-03-02_25.JPG/1920px-Groß_Brütz_Kirche_2013-03-02_25.JPG
+  Groß Brütz Kirche 2013-03-02 64.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Groß_Brütz_Kirche_2013-03-02_64.JPG/400px-Groß_Brütz_Kirche_2013-03-02_64.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Groß_Brütz_Kirche_2013-03-02_64.JPG/800px-Groß_Brütz_Kirche_2013-03-02_64.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Groß_Brütz_Kirche_2013-03-02_64.JPG/1200px-Groß_Brütz_Kirche_2013-03-02_64.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Groß_Brütz_Kirche_2013-03-02_64.JPG/1920px-Groß_Brütz_Kirche_2013-03-02_64.JPG
+  Gross Bruetz Kirche 2008-11-13 005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/400px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/800px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1200px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gross_Bruetz_Kirche_2008-11-13_005.jpg/1920px-Gross_Bruetz_Kirche_2008-11-13_005.jpg
 ---
 
 ## Overview

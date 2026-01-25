@@ -1,19 +1,49 @@
 ---
-title: "Brushmakers' Museum"
+title: Brushmakers' Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.2613
 longitude: 8.0088
 images:
-  - "/images-sites/brushmakers-museum/01-3b6677ae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ramberg-Ramburghalle-04-2019-gje.jpg/1200px-Ramberg-Ramburghalle-04-2019-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ramberg-Ramburghalle-02-2019-gje.jpg/1200px-Ramberg-Ramburghalle-02-2019-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg/1200px-Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1200px-Bürstenbindermuseum_Ramberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ramberger_Bürstenhändler.JPG/1200px-Ramberger_Bürstenhändler.JPG
+image_srcset:
+  Ramberg-Ramburghalle-04-2019-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ramberg-Ramburghalle-04-2019-gje.jpg/400px-Ramberg-Ramburghalle-04-2019-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ramberg-Ramburghalle-04-2019-gje.jpg/800px-Ramberg-Ramburghalle-04-2019-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ramberg-Ramburghalle-04-2019-gje.jpg/1200px-Ramberg-Ramburghalle-04-2019-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ramberg-Ramburghalle-04-2019-gje.jpg/1920px-Ramberg-Ramburghalle-04-2019-gje.jpg
+  Ramberg-Ramburghalle-02-2019-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ramberg-Ramburghalle-02-2019-gje.jpg/400px-Ramberg-Ramburghalle-02-2019-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ramberg-Ramburghalle-02-2019-gje.jpg/800px-Ramberg-Ramburghalle-02-2019-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ramberg-Ramburghalle-02-2019-gje.jpg/1200px-Ramberg-Ramburghalle-02-2019-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ramberg-Ramburghalle-02-2019-gje.jpg/1920px-Ramberg-Ramburghalle-02-2019-gje.jpg
+  Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg/400px-Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg/800px-Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg/1200px-Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg/1920px-Ramberg-Ramburghalle-10-Rueckseite-2019-gje.jpg
+  Bürstenbindermuseum Ramberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/400px-Bürstenbindermuseum_Ramberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/800px-Bürstenbindermuseum_Ramberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1200px-Bürstenbindermuseum_Ramberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bürstenbindermuseum_Ramberg.JPG/1920px-Bürstenbindermuseum_Ramberg.JPG
+  Ramberger Bürstenhändler.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ramberger_Bürstenhändler.JPG/400px-Ramberger_Bürstenhändler.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ramberger_Bürstenhändler.JPG/800px-Ramberger_Bürstenhändler.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ramberger_Bürstenhändler.JPG/1200px-Ramberger_Bürstenhändler.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ramberger_Bürstenhändler.JPG/1920px-Ramberger_Bürstenhändler.JPG
 ---
 
 ## Overview

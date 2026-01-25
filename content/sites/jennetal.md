@@ -1,19 +1,49 @@
 ---
-title: "Jennetal"
+title: Jennetal
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.96227778
 longitude: 7.78838889
 images:
-  - "/images-sites/jennetal/01-eab0dca5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sumser_Garten_jm8077.jpg/1200px-Sumser_Garten_jm8077.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg/1200px-Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ophrys_holoserica_74.jpg/1200px-Ophrys_holoserica_74.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Orchis_purpurea_47.jpg/1200px-Orchis_purpurea_47.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anacamptis_morio_52.jpg/1200px-Anacamptis_morio_52.jpg
+image_srcset:
+  Sumser Garten jm8077.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sumser_Garten_jm8077.jpg/400px-Sumser_Garten_jm8077.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sumser_Garten_jm8077.jpg/800px-Sumser_Garten_jm8077.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sumser_Garten_jm8077.jpg/1200px-Sumser_Garten_jm8077.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sumser_Garten_jm8077.jpg/1920px-Sumser_Garten_jm8077.jpg
+  Blick auf Ebringen-Oberdorf und das Naturschutzgebiet Jennetal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg/400px-Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg/800px-Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg/1200px-Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg/1920px-Blick_auf_Ebringen-Oberdorf_und_das_Naturschutzgebiet_Jennetal.jpg
+  Ophrys holoserica 74.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ophrys_holoserica_74.jpg/400px-Ophrys_holoserica_74.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ophrys_holoserica_74.jpg/800px-Ophrys_holoserica_74.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ophrys_holoserica_74.jpg/1200px-Ophrys_holoserica_74.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ophrys_holoserica_74.jpg/1920px-Ophrys_holoserica_74.jpg
+  Orchis purpurea 47.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Orchis_purpurea_47.jpg/400px-Orchis_purpurea_47.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Orchis_purpurea_47.jpg/800px-Orchis_purpurea_47.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Orchis_purpurea_47.jpg/1200px-Orchis_purpurea_47.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Orchis_purpurea_47.jpg/1920px-Orchis_purpurea_47.jpg
+  Anacamptis morio 52.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anacamptis_morio_52.jpg/400px-Anacamptis_morio_52.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anacamptis_morio_52.jpg/800px-Anacamptis_morio_52.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anacamptis_morio_52.jpg/1200px-Anacamptis_morio_52.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anacamptis_morio_52.jpg/1920px-Anacamptis_morio_52.jpg
 ---
 
 ## Overview

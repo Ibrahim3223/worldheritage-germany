@@ -1,19 +1,43 @@
 ---
-title: "Berlin City Library"
+title: Berlin City Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5156
 longitude: 13.4041
 images:
-  - "/images-sites/berlin-city-library/01-2309ef19-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/1200px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg/1200px-Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg/1200px-Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/1200px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+image_srcset:
+  Wir sind die ZLB (Berlin, 2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/400px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/800px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/1200px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/1920px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+  Berlin, Mitte, Breite Strasse, Ribbeck-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg/400px-Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg/800px-Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg/1200px-Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg/1920px-Berlin,_Mitte,_Breite_Strasse,_Ribbeck-Haus.jpg
+  Berlin, Mitte, Breite Strasse 32-34, Stadtbibliothek 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg/400px-Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg/800px-Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg/1200px-Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg/1920px-Berlin,_Mitte,_Breite_Strasse_32-34,_Stadtbibliothek_02.jpg
+  Bundesarchiv Bild 183-K0118-0301-001, Berlin, Stadtbibliothek, Lesesaal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/400px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/800px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/1200px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/1920px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.059444444
 longitude: 8.683333333
 images:
-  - "/images-sites/trischen/01-4867ca4c-800w.webp"
+  - "/images/trischen/01-4867ca4c-800w.webp"
 ---
 
 ## Overview

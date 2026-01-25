@@ -1,20 +1,51 @@
 ---
-title: "Heilig-Kreuz-Kirche (Kemnitz)"
-site_name: "Heilig-Kreuz-Kirche (Kemnitz)"
-slug: "heilig-kreuz-kirche-kemnitz"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Heilig-Kreuz-Kirche (Kemnitz)
+site_name: Heilig-Kreuz-Kirche (Kemnitz)
+slug: heilig-kreuz-kirche-kemnitz
+region: Mecklenburg-Vorpommern
 latitude: 54.0743
 longitude: 13.529
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1594957"
-description: "Heilig-Kreuz-Kirche, located in the tranquil region of Kemnitz, Germany, stands as a remarkable example of Brick Gothic architecture. This church, const..."
+- church building
+- religious site
+wikidata_id: Q1594957
+description: Heilig-Kreuz-Kirche, located in the tranquil region of Kemnitz, Germany,
+  stands as a remarkable example of Brick Gothic architecture. This church, const...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG/1200px-Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg/1200px-Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kirche_Kemnitz_Nordostansicht.jpg/1200px-Kirche_Kemnitz_Nordostansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1200px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kemnitz_Dorfkirche_June-2010_SL274481.JPG/1200px-Kemnitz_Dorfkirche_June-2010_SL274481.JPG
+image_srcset:
+  Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG/400px-Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG/800px-Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG/1200px-Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG/1920px-Kemnitz%20Dorfkirche%20August-2009%20SL273237.JPG
+  Kirche Kemnitz Friedhof mit Grabwangen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg/400px-Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg/800px-Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg/1200px-Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg/1920px-Kirche_Kemnitz_Friedhof_mit_Grabwangen.jpg
+  Kirche Kemnitz Nordostansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kirche_Kemnitz_Nordostansicht.jpg/400px-Kirche_Kemnitz_Nordostansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kirche_Kemnitz_Nordostansicht.jpg/800px-Kirche_Kemnitz_Nordostansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kirche_Kemnitz_Nordostansicht.jpg/1200px-Kirche_Kemnitz_Nordostansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kirche_Kemnitz_Nordostansicht.jpg/1920px-Kirche_Kemnitz_Nordostansicht.jpg
+  Kemnitz Dorfkirche August-2009 SL273237.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/400px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/800px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1200px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kemnitz_Dorfkirche_August-2009_SL273237.JPG/1920px-Kemnitz_Dorfkirche_August-2009_SL273237.JPG
+  Kemnitz Dorfkirche June-2010 SL274481.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kemnitz_Dorfkirche_June-2010_SL274481.JPG/400px-Kemnitz_Dorfkirche_June-2010_SL274481.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kemnitz_Dorfkirche_June-2010_SL274481.JPG/800px-Kemnitz_Dorfkirche_June-2010_SL274481.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kemnitz_Dorfkirche_June-2010_SL274481.JPG/1200px-Kemnitz_Dorfkirche_June-2010_SL274481.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kemnitz_Dorfkirche_June-2010_SL274481.JPG/1920px-Kemnitz_Dorfkirche_June-2010_SL274481.JPG
 ---
 
 ## Overview

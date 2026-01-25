@@ -13,7 +13,7 @@ regions:
 latitude: 47.87639999
 longitude: 8.00969982
 images:
-  - "/images-sites/zastler-loch/01-e114e8c7-800w.webp"
+  - "/images/zastler-loch/01-e114e8c7-800w.webp"
 ---
 
 ## Overview

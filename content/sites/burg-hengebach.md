@@ -1,27 +1,49 @@
 ---
-title: "Burg Hengebach"
+title: Burg Hengebach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6333
 longitude: 6.47944
-
-# Images
 images:
-  - "/images-sites/burg-hengebach/01-74aba1ab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2020-01-06-Burg_Hengebach_-8125.jpg/1200px-2020-01-06-Burg_Hengebach_-8125.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Hengebach_from_über_Rur_02.jpg/1200px-Burg_Hengebach_from_über_Rur_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Hengebach_from_über_Rur_05.jpg/1200px-Burg_Hengebach_from_über_Rur_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Hengebach_2014-12-27.jpg/1200px-Burg_Hengebach_2014-12-27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/1200px-Heimbach-Burg.jpg
+image_srcset:
+  2020-01-06-Burg Hengebach -8125.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2020-01-06-Burg_Hengebach_-8125.jpg/400px-2020-01-06-Burg_Hengebach_-8125.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2020-01-06-Burg_Hengebach_-8125.jpg/800px-2020-01-06-Burg_Hengebach_-8125.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2020-01-06-Burg_Hengebach_-8125.jpg/1200px-2020-01-06-Burg_Hengebach_-8125.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2020-01-06-Burg_Hengebach_-8125.jpg/1920px-2020-01-06-Burg_Hengebach_-8125.jpg
+  Burg Hengebach from über Rur 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Hengebach_from_über_Rur_02.jpg/400px-Burg_Hengebach_from_über_Rur_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Hengebach_from_über_Rur_02.jpg/800px-Burg_Hengebach_from_über_Rur_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Hengebach_from_über_Rur_02.jpg/1200px-Burg_Hengebach_from_über_Rur_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Burg_Hengebach_from_über_Rur_02.jpg/1920px-Burg_Hengebach_from_über_Rur_02.jpg
+  Burg Hengebach from über Rur 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Hengebach_from_über_Rur_05.jpg/400px-Burg_Hengebach_from_über_Rur_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Hengebach_from_über_Rur_05.jpg/800px-Burg_Hengebach_from_über_Rur_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Hengebach_from_über_Rur_05.jpg/1200px-Burg_Hengebach_from_über_Rur_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Hengebach_from_über_Rur_05.jpg/1920px-Burg_Hengebach_from_über_Rur_05.jpg
+  Burg Hengebach 2014-12-27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Hengebach_2014-12-27.jpg/400px-Burg_Hengebach_2014-12-27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Hengebach_2014-12-27.jpg/800px-Burg_Hengebach_2014-12-27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Hengebach_2014-12-27.jpg/1200px-Burg_Hengebach_2014-12-27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Burg_Hengebach_2014-12-27.jpg/1920px-Burg_Hengebach_2014-12-27.jpg
+  Heimbach-Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/400px-Heimbach-Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/800px-Heimbach-Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/1200px-Heimbach-Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Heimbach-Burg.jpg/1920px-Heimbach-Burg.jpg
 ---
 
 ## Overview

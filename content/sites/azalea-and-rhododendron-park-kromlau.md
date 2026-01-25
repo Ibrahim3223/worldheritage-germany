@@ -1,19 +1,49 @@
 ---
-title: "Azalea and Rhododendron Park Kromlau"
+title: Azalea and Rhododendron Park Kromlau
 date: 2026-01-23
 draft: false
-description: "Landscaped park"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: Landscaped park
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5356
 longitude: 14.6361
 images:
-  - "/images-sites/azalea-and-rhododendron-park-kromlau/01-951b8f09-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg/1200px-Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg/1200px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg/1200px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1200px-Rakotzbrücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg/1200px-20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg
+image_srcset:
+  Azaleen- und Rhododendronpark Kromlau, 20230812 0951 7505.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg/400px-Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg/800px-Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg/1200px-Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg/1920px-Azaleen-_und_Rhododendronpark_Kromlau,_20230812_0951_7505.jpg
+  2022-05-22 Azaleen- und Rhododendronpark Kromlau 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg/400px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg/800px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg/1200px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg/1920px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_04.jpg
+  2022-05-22 Azaleen- und Rhododendronpark Kromlau 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg/400px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg/800px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg/1200px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg/1920px-2022-05-22_Azaleen-_und_Rhododendronpark_Kromlau_05.jpg
+  Rakotzbrücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/400px-Rakotzbrücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/800px-Rakotzbrücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1200px-Rakotzbrücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rakotzbrücke.jpg/1920px-Rakotzbrücke.jpg
+  20010512500AR Kromlau (Gablenz-Kromlau) Landschaftspark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg/400px-20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg/800px-20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg/1200px-20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg/1920px-20010512500AR_Kromlau_(Gablenz-Kromlau)_Landschaftspark.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2064295"
 description: "St. Pauls Church, a remarkable example of Gothic architecture, stands proudly in Bad Kreuznach, Rhineland-Palatinate, Germany. This church, with its str..."
 images:
-  - "/images-sites/st-paul-s-church/01-920eb432-1920w.webp"
-  - "/images-sites/st-paul-s-church/02-c3b18046-1920w.webp"
-  - "/images-sites/st-paul-s-church/03-eee6309d-1920w.webp"
+  - "/images/st-paul-s-church/01-920eb432-1920w.webp"
+  - "/images/st-paul-s-church/02-c3b18046-1920w.webp"
+  - "/images/st-paul-s-church/03-eee6309d-1920w.webp"
 ---
 
 ## Overview

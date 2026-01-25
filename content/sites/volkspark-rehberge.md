@@ -13,7 +13,7 @@ regions:
 latitude: 52.550833333
 longitude: 13.330833333
 images:
-  - "/images-sites/volkspark-rehberge/01-78b71c39-800w.webp"
+  - "/images/volkspark-rehberge/01-78b71c39-800w.webp"
 ---
 
 ## Overview

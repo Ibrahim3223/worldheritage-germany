@@ -13,7 +13,7 @@ regions:
 latitude: 53.55471944
 longitude: 10.00732222
 images:
-  - "/images-sites/ohnsorg-theater/01-87e8cdda-800w.webp"
+  - "/images/ohnsorg-theater/01-87e8cdda-800w.webp"
 ---
 
 ## Overview

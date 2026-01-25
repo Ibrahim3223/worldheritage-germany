@@ -13,7 +13,7 @@ regions:
 latitude: 50.9028
 longitude: 10.7592
 images:
-  - "/images-sites/wasserschloss-guenthersleben/01-b19b22fd-800w.webp"
+  - "/images/wasserschloss-guenthersleben/01-b19b22fd-800w.webp"
 ---
 
 ## Overview

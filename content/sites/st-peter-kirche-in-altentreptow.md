@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2316660"
 description: "In the heart of Altentreptow, Germany, the St.-Peter-Kirche emerges as a striking example of Brick Gothic architecture. This church building, designed b..."
 images:
-  - "/images-sites/st-peter-kirche-in-altentreptow/01-1bff6701-1920w.webp"
-  - "/images-sites/st-peter-kirche-in-altentreptow/02-ab8d8728-1920w.webp"
-  - "/images-sites/st-peter-kirche-in-altentreptow/03-eac9cef4-1920w.webp"
+  - "/images/st-peter-kirche-in-altentreptow/01-1bff6701-1920w.webp"
+  - "/images/st-peter-kirche-in-altentreptow/02-ab8d8728-1920w.webp"
+  - "/images/st-peter-kirche-in-altentreptow/03-eac9cef4-1920w.webp"
 ---
 
 ## Overview

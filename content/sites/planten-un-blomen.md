@@ -13,7 +13,7 @@ regions:
 latitude: 53.561111111
 longitude: 9.983333333
 images:
-  - "/images-sites/planten-un-blomen/01-3cc3fd71-800w.webp"
+  - "/images/planten-un-blomen/01-3cc3fd71-800w.webp"
 ---
 
 ## Overview

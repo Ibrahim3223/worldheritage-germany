@@ -1,27 +1,49 @@
 ---
-title: "Burg Herrenzimmern"
+title: Burg Herrenzimmern
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.2239
 longitude: 8.58778
-
-# Images
 images:
-  - "/images-sites/burg-herrenzimmern/01-41a5d17a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg/1200px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg/1200px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/1200px-Ruine_Herrenzimmern4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlossruine_Herrenzimmern_c1830.jpg/1200px-Schlossruine_Herrenzimmern_c1830.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ruine_Herrenzimmern3.jpg/1200px-Ruine_Herrenzimmern3.jpg
+image_srcset:
+  Vorschlag für eine Informationstafel für die abgegangene Wasserburg Herrenzimmern (Niederstetten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg/400px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg/800px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg/1200px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg/1920px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten).jpg
+  Vorschlag für eine Informationstafel für die abgegangene Wasserburg Herrenzimmern (Niederstetten) (33115).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg/400px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg/800px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg/1200px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg/1920px-Vorschlag_für_eine_Informationstafel_für_die_abgegangene_Wasserburg_Herrenzimmern_(Niederstetten)_(33115).jpg
+  Ruine Herrenzimmern4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/400px-Ruine_Herrenzimmern4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/800px-Ruine_Herrenzimmern4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/1200px-Ruine_Herrenzimmern4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Herrenzimmern4.jpg/1920px-Ruine_Herrenzimmern4.jpg
+  Schlossruine Herrenzimmern c1830.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlossruine_Herrenzimmern_c1830.jpg/400px-Schlossruine_Herrenzimmern_c1830.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlossruine_Herrenzimmern_c1830.jpg/800px-Schlossruine_Herrenzimmern_c1830.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlossruine_Herrenzimmern_c1830.jpg/1200px-Schlossruine_Herrenzimmern_c1830.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Schlossruine_Herrenzimmern_c1830.jpg/1920px-Schlossruine_Herrenzimmern_c1830.jpg
+  Ruine Herrenzimmern3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ruine_Herrenzimmern3.jpg/400px-Ruine_Herrenzimmern3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ruine_Herrenzimmern3.jpg/800px-Ruine_Herrenzimmern3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ruine_Herrenzimmern3.jpg/1200px-Ruine_Herrenzimmern3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ruine_Herrenzimmern3.jpg/1920px-Ruine_Herrenzimmern3.jpg
 ---
 
 ## Overview

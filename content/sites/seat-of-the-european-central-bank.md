@@ -13,7 +13,7 @@ regions:
 latitude: 50.109438888
 longitude: 8.7025
 images:
-  - "/images-sites/seat-of-the-european-central-bank/01-6d296b44-800w.webp"
+  - "/images/seat-of-the-european-central-bank/01-6d296b44-800w.webp"
 ---
 
 ## Overview

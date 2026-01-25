@@ -21,7 +21,7 @@ longitude: 9.39778
 
 # Images
 images:
-  - "/images-sites/schloss-urach/01-b76a4f3e-800w.webp"
+  - "/images/schloss-urach/01-b76a4f3e-800w.webp"
 ---
 
 ## Overview

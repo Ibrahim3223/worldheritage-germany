@@ -1,19 +1,31 @@
 ---
-title: "Bockstein cave"
+title: Bockstein cave
 date: 2026-01-23
 draft: false
-description: "Höhle in der Schwäbischen Alb"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: Höhle in der Schwäbischen Alb
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 48.55424
 longitude: 10.15469
 images:
-  - "/images-sites/bockstein-cave/01-cfc9e3ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg/1200px-Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bocksteinhoehle_2016-05-08.jpg/1200px-Bocksteinhoehle_2016-05-08.jpg
+image_srcset:
+  Blick aus der Bocksteinhöhle ins Lonetal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg/400px-Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg/800px-Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg/1200px-Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg/1920px-Blick_aus_der_Bocksteinhöhle_ins_Lonetal.jpg
+  Bocksteinhoehle 2016-05-08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bocksteinhoehle_2016-05-08.jpg/400px-Bocksteinhoehle_2016-05-08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bocksteinhoehle_2016-05-08.jpg/800px-Bocksteinhoehle_2016-05-08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bocksteinhoehle_2016-05-08.jpg/1200px-Bocksteinhoehle_2016-05-08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bocksteinhoehle_2016-05-08.jpg/1920px-Bocksteinhoehle_2016-05-08.jpg
 ---
 
 ## Overview

@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q1244782"
 description: "Vietlübbe Church, a striking brick church building located in Dragun, Germany, stands as a noteworthy example of ecclesiastical architecture within the ..."
 images:
-  - "/images-sites/vietlubbe-church/01-4da87514-1920w.webp"
-  - "/images-sites/vietlubbe-church/02-384fd531-1920w.webp"
+  - "/images/vietlubbe-church/01-4da87514-1920w.webp"
+  - "/images/vietlubbe-church/02-384fd531-1920w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q472554"
 description: "St. Nikolai in Quedlinburg is an architectural gem that rises 72 meters into the sky, showcasing the elegance of Gothic architecture. This church buildi..."
 images:
-  - "/images-sites/st-nikolai/01-39c18a18-1920w.webp"
-  - "/images-sites/st-nikolai/02-0c573827-1920w.webp"
-  - "/images-sites/st-nikolai/03-80fb7e51-1920w.webp"
+  - "/images/st-nikolai/01-39c18a18-1920w.webp"
+  - "/images/st-nikolai/02-0c573827-1920w.webp"
+  - "/images/st-nikolai/03-80fb7e51-1920w.webp"
 ---
 
 ## Overview

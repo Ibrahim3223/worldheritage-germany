@@ -13,9 +13,9 @@ regions:
 latitude: 52.441666666
 longitude: 13.097777777
 images:
-  - "/images-sites/sacrower-see/01-fd7c6725-800w.webp"
-  - "/images-sites/sacrower-see/02-93da4f28-800w.webp"
-  - "/images-sites/sacrower-see/03-f53359b2-800w.webp"
+  - "/images/sacrower-see/01-fd7c6725-800w.webp"
+  - "/images/sacrower-see/02-93da4f28-800w.webp"
+  - "/images/sacrower-see/03-f53359b2-800w.webp"
 ---
 
 ## Overview

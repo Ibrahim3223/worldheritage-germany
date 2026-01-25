@@ -13,7 +13,7 @@ regions:
 latitude: 50.0252
 longitude: 7.06945
 images:
-  - "/images-sites/spingiersbach-monastery/01-ac349839-800w.webp"
+  - "/images/spingiersbach-monastery/01-ac349839-800w.webp"
 ---
 
 ## Overview

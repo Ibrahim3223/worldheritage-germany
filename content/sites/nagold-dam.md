@@ -13,7 +13,7 @@ regions:
 latitude: 48.5531
 longitude: 8.49361
 images:
-  - "/images-sites/nagold-dam/01-23259c0a-800w.webp"
+  - "/images/nagold-dam/01-23259c0a-800w.webp"
 ---
 
 ## Overview

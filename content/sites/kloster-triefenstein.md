@@ -13,9 +13,9 @@ regions:
 latitude: 49.807637776
 longitude: 9.598983751
 images:
-  - "/images-sites/kloster-triefenstein/01-7ff48044-800w.webp"
-  - "/images-sites/kloster-triefenstein/02-7f5a72ea-800w.webp"
-  - "/images-sites/kloster-triefenstein/03-8cb8bea4-800w.webp"
+  - "/images/kloster-triefenstein/01-7ff48044-800w.webp"
+  - "/images/kloster-triefenstein/02-7f5a72ea-800w.webp"
+  - "/images/kloster-triefenstein/03-8cb8bea4-800w.webp"
 ---
 
 ## Overview

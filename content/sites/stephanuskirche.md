@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q11722077"
 description: "Stephanuskirche, a striking example of modern architecture, is located in the Steglitz-Zehlendorf district of Germany. This church building not only ser..."
 images:
-  - "/images-sites/stephanuskirche/01-d2c8a28f-1920w.webp"
-  - "/images-sites/stephanuskirche/02-927a45f9-1920w.webp"
-  - "/images-sites/stephanuskirche/03-59476373-1920w.webp"
+  - "/images/stephanuskirche/01-d2c8a28f-1920w.webp"
+  - "/images/stephanuskirche/02-927a45f9-1920w.webp"
+  - "/images/stephanuskirche/03-59476373-1920w.webp"
 ---
 
 ## Overview

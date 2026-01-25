@@ -21,7 +21,7 @@ longitude: 8.67388
 
 # Images
 images:
-  - "/images-sites/staedel-museum/01-4f2b6751-800w.webp"
+  - "/images/staedel-museum/01-4f2b6751-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Georgenfelder Hochmoor"
+title: Georgenfelder Hochmoor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.729744444
 longitude: 13.746277777
 images:
-  - "/images-sites/georgenfelder-hochmoor/01-36b66d4d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20240501.Georgenfelder_Hochmoor.-145.jpg/1200px-20240501.Georgenfelder_Hochmoor.-145.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Georgenfelder_Hochmoor_2016.4.jpg/1200px-Georgenfelder_Hochmoor_2016.4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georgenfelder_Hochmoor.JPG/1200px-Georgenfelder_Hochmoor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zinnwald-Hochmoor-Eing.jpg/1200px-Zinnwald-Hochmoor-Eing.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg/1200px-Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg
+image_srcset:
+  20240501.Georgenfelder Hochmoor.-145.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20240501.Georgenfelder_Hochmoor.-145.jpg/400px-20240501.Georgenfelder_Hochmoor.-145.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20240501.Georgenfelder_Hochmoor.-145.jpg/800px-20240501.Georgenfelder_Hochmoor.-145.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20240501.Georgenfelder_Hochmoor.-145.jpg/1200px-20240501.Georgenfelder_Hochmoor.-145.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20240501.Georgenfelder_Hochmoor.-145.jpg/1920px-20240501.Georgenfelder_Hochmoor.-145.jpg
+  Georgenfelder Hochmoor 2016.4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Georgenfelder_Hochmoor_2016.4.jpg/400px-Georgenfelder_Hochmoor_2016.4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Georgenfelder_Hochmoor_2016.4.jpg/800px-Georgenfelder_Hochmoor_2016.4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Georgenfelder_Hochmoor_2016.4.jpg/1200px-Georgenfelder_Hochmoor_2016.4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Georgenfelder_Hochmoor_2016.4.jpg/1920px-Georgenfelder_Hochmoor_2016.4.jpg
+  Georgenfelder Hochmoor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georgenfelder_Hochmoor.JPG/400px-Georgenfelder_Hochmoor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georgenfelder_Hochmoor.JPG/800px-Georgenfelder_Hochmoor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georgenfelder_Hochmoor.JPG/1200px-Georgenfelder_Hochmoor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georgenfelder_Hochmoor.JPG/1920px-Georgenfelder_Hochmoor.JPG
+  Zinnwald-Hochmoor-Eing.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zinnwald-Hochmoor-Eing.jpg/400px-Zinnwald-Hochmoor-Eing.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zinnwald-Hochmoor-Eing.jpg/800px-Zinnwald-Hochmoor-Eing.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zinnwald-Hochmoor-Eing.jpg/1200px-Zinnwald-Hochmoor-Eing.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zinnwald-Hochmoor-Eing.jpg/1920px-Zinnwald-Hochmoor-Eing.jpg
+  Zinnwald, Erzgebirge, Eingang zum Naturschutzgebiet Hochmoor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg/400px-Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg/800px-Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg/1200px-Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg/1920px-Zinnwald,_Erzgebirge,_Eingang_zum_Naturschutzgebiet_Hochmoor.jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 53.1475
 longitude: 8.227778
 images:
-  - "/images-sites/weser-ems-halle/02-24401fc1-800w.webp"
-  - "/images-sites/weser-ems-halle/03-257ab64a-800w.webp"
+  - "/images/weser-ems-halle/02-24401fc1-800w.webp"
+  - "/images/weser-ems-halle/03-257ab64a-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.552751
 longitude: 9.672901
 images:
-  - "/images-sites/witches-tower/01-0286910b-800w.webp"
+  - "/images/witches-tower/01-0286910b-800w.webp"
 ---
 
 ## Overview

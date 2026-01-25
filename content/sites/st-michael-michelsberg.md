@@ -13,7 +13,7 @@ regions:
 latitude: 50.5126
 longitude: 6.82429
 images:
-  - "/images-sites/st-michael-michelsberg/01-976d8c7a-800w.webp"
+  - "/images/st-michael-michelsberg/01-976d8c7a-800w.webp"
 ---
 
 ## Overview

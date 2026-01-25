@@ -1,19 +1,25 @@
 ---
-title: "Barger Heide"
+title: Barger Heide
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5719
 longitude: 9.45333
 images:
-  - "/images-sites/barger-heide/02-2180a8af-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1200px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
+image_srcset:
+  Barger Heide (Stade 2007-07) - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/400px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/800px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1200px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Barger_Heide_(Stade_2007-07)_-_panoramio.jpg/1920px-Barger_Heide_(Stade_2007-07)_-_panoramio.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.5097
 longitude: 13.3869
 images:
-  - "/images-sites/museum-for-communication-berlin/01-40f2fa50-800w.webp"
+  - "/images/museum-for-communication-berlin/01-40f2fa50-800w.webp"
 ---
 
 ## Overview

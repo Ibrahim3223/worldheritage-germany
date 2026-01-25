@@ -21,9 +21,9 @@ longitude: 9.00942
 
 # Images
 images:
-  - "/images-sites/schloss-stocksberg/01-549facef-800w.webp"
-  - "/images-sites/schloss-stocksberg/02-373dadb5-800w.webp"
-  - "/images-sites/schloss-stocksberg/03-646fb603-800w.webp"
+  - "/images/schloss-stocksberg/01-549facef-800w.webp"
+  - "/images/schloss-stocksberg/02-373dadb5-800w.webp"
+  - "/images/schloss-stocksberg/03-646fb603-800w.webp"
 ---
 
 ## Overview

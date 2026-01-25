@@ -1,19 +1,49 @@
 ---
-title: "Friedhof Solln"
+title: Friedhof Solln
 date: 2026-01-23
 draft: false
-description: "cemetery in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0787
 longitude: 11.5178
 images:
-  - "/images-sites/friedhof-solln/01-22491bfa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Friedhof_Solln_3.jpg/1200px-Friedhof_Solln_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Solln_1.jpg/1200px-Friedhof_Solln_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg/1200px-Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Friedhof_Solln.jpg/1200px-Friedhof_Solln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Friedhof_Solln_Cemetery_Chapel.jpg/1200px-Friedhof_Solln_Cemetery_Chapel.jpg
+image_srcset:
+  Friedhof Solln 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Friedhof_Solln_3.jpg/400px-Friedhof_Solln_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Friedhof_Solln_3.jpg/800px-Friedhof_Solln_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Friedhof_Solln_3.jpg/1200px-Friedhof_Solln_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Friedhof_Solln_3.jpg/1920px-Friedhof_Solln_3.jpg
+  Friedhof Solln 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Solln_1.jpg/400px-Friedhof_Solln_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Solln_1.jpg/800px-Friedhof_Solln_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Solln_1.jpg/1200px-Friedhof_Solln_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Friedhof_Solln_1.jpg/1920px-Friedhof_Solln_1.jpg
+  Einzelgedenken Gefallene Friedhof Solln (München).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg/400px-Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg/800px-Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg/1200px-Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg/1920px-Einzelgedenken_Gefallene_Friedhof_Solln_(München).jpg
+  Friedhof Solln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Friedhof_Solln.jpg/400px-Friedhof_Solln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Friedhof_Solln.jpg/800px-Friedhof_Solln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Friedhof_Solln.jpg/1200px-Friedhof_Solln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Friedhof_Solln.jpg/1920px-Friedhof_Solln.jpg
+  Friedhof Solln Cemetery Chapel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Friedhof_Solln_Cemetery_Chapel.jpg/400px-Friedhof_Solln_Cemetery_Chapel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Friedhof_Solln_Cemetery_Chapel.jpg/800px-Friedhof_Solln_Cemetery_Chapel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Friedhof_Solln_Cemetery_Chapel.jpg/1200px-Friedhof_Solln_Cemetery_Chapel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Friedhof_Solln_Cemetery_Chapel.jpg/1920px-Friedhof_Solln_Cemetery_Chapel.jpg
 ---
 
 ## Overview

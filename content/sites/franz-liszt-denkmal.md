@@ -1,19 +1,49 @@
 ---
-title: "Franz-Liszt-Denkmal"
+title: Franz-Liszt-Denkmal
 date: 2026-01-23
 draft: false
-description: "monument in Weimar, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Weimar, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9744
 longitude: 11.3323
 images:
-  - "/images-sites/franz-liszt-denkmal/01-abd1768e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Liszt-Denkmal_Weimar.jpg/1200px-Liszt-Denkmal_Weimar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Liszt1_weimar.jpg/1200px-Liszt1_weimar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Liszt-Denkmal_Weimar-Park.JPG/1200px-Liszt-Denkmal_Weimar-Park.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/1200px-Lisztszobor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg/1200px-Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg
+image_srcset:
+  Liszt-Denkmal Weimar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Liszt-Denkmal_Weimar.jpg/400px-Liszt-Denkmal_Weimar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Liszt-Denkmal_Weimar.jpg/800px-Liszt-Denkmal_Weimar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Liszt-Denkmal_Weimar.jpg/1200px-Liszt-Denkmal_Weimar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Liszt-Denkmal_Weimar.jpg/1920px-Liszt-Denkmal_Weimar.jpg
+  Liszt1 weimar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Liszt1_weimar.jpg/400px-Liszt1_weimar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Liszt1_weimar.jpg/800px-Liszt1_weimar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Liszt1_weimar.jpg/1200px-Liszt1_weimar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Liszt1_weimar.jpg/1920px-Liszt1_weimar.jpg
+  Liszt-Denkmal Weimar-Park.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Liszt-Denkmal_Weimar-Park.JPG/400px-Liszt-Denkmal_Weimar-Park.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Liszt-Denkmal_Weimar-Park.JPG/800px-Liszt-Denkmal_Weimar-Park.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Liszt-Denkmal_Weimar-Park.JPG/1200px-Liszt-Denkmal_Weimar-Park.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Liszt-Denkmal_Weimar-Park.JPG/1920px-Liszt-Denkmal_Weimar-Park.JPG
+  Lisztszobor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/400px-Lisztszobor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/800px-Lisztszobor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/1200px-Lisztszobor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lisztszobor.jpg/1920px-Lisztszobor.jpg
+  Park an der Ilm - Liszt Denkmal - geo.hlipp.de - 40051.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg/400px-Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg/800px-Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg/1200px-Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg/1920px-Park_an_der_Ilm_-_Liszt_Denkmal_-_geo.hlipp.de_-_40051.jpg
 ---
 
 ## Overview

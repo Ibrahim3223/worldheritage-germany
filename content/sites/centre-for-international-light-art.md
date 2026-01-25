@@ -1,27 +1,49 @@
 ---
-title: "Centre for International Light Art"
+title: Centre for International Light Art
 date: 2026-01-23
 draft: false
-description: "museum in Unna, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Unna, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5347
 longitude: 7.68528
-
-# Images
 images:
-  - "/images-sites/centre-for-international-light-art/01-32cd8920-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg/1200px-Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lindenbrauerei_Unna_IMGP4302_wp.jpg/1200px-Lindenbrauerei_Unna_IMGP4302_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lindenbrauerei_Unna_IMGP4317_wp.jpg/1200px-Lindenbrauerei_Unna_IMGP4317_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg/1200px-Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grafenwalder_Radler.jpg/1200px-Grafenwalder_Radler.jpg
+image_srcset:
+  Unna, Zentrum für Internationale Lichtkunst foto11 2015-09-12 12.15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg/400px-Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg/800px-Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg/1200px-Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg/1920px-Unna,_Zentrum_für_Internationale_Lichtkunst_foto11_2015-09-12_12.15.jpg
+  Lindenbrauerei Unna IMGP4302 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lindenbrauerei_Unna_IMGP4302_wp.jpg/400px-Lindenbrauerei_Unna_IMGP4302_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lindenbrauerei_Unna_IMGP4302_wp.jpg/800px-Lindenbrauerei_Unna_IMGP4302_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lindenbrauerei_Unna_IMGP4302_wp.jpg/1200px-Lindenbrauerei_Unna_IMGP4302_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lindenbrauerei_Unna_IMGP4302_wp.jpg/1920px-Lindenbrauerei_Unna_IMGP4302_wp.jpg
+  Lindenbrauerei Unna IMGP4317 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lindenbrauerei_Unna_IMGP4317_wp.jpg/400px-Lindenbrauerei_Unna_IMGP4317_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lindenbrauerei_Unna_IMGP4317_wp.jpg/800px-Lindenbrauerei_Unna_IMGP4317_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lindenbrauerei_Unna_IMGP4317_wp.jpg/1200px-Lindenbrauerei_Unna_IMGP4317_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lindenbrauerei_Unna_IMGP4317_wp.jpg/1920px-Lindenbrauerei_Unna_IMGP4317_wp.jpg
+  Unna Lindenbrauerei Kamin Fibonacci IMGP3086.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg/400px-Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg/800px-Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg/1200px-Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg/1920px-Unna_Lindenbrauerei_Kamin_Fibonacci_IMGP3086.jpg
+  Grafenwalder Radler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grafenwalder_Radler.jpg/400px-Grafenwalder_Radler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grafenwalder_Radler.jpg/800px-Grafenwalder_Radler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grafenwalder_Radler.jpg/1200px-Grafenwalder_Radler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Grafenwalder_Radler.jpg/1920px-Grafenwalder_Radler.jpg
 ---
 
 ## Overview

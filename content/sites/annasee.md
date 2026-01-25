@@ -1,19 +1,49 @@
 ---
-title: "Annasee"
+title: Annasee
 date: 2026-01-23
 draft: false
-description: "Pond in Beilstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: Pond in Beilstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0625
 longitude: 9.334013888
 images:
-  - "/images-sites/annasee/01-044fbbaf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AnnaseeSuedwestufer_2011-04.jpg/1200px-AnnaseeSuedwestufer_2011-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annasee_2011-04.jpg/1200px-Annasee_2011-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Annasee_Sunrise.jpg/1200px-Annasee_Sunrise.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_971740_1824_Annasee_Beilstein.jpg/1200px-Landappbw_971740_1824_Annasee_Beilstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg/1200px-Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg
+image_srcset:
+  AnnaseeSuedwestufer 2011-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AnnaseeSuedwestufer_2011-04.jpg/400px-AnnaseeSuedwestufer_2011-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AnnaseeSuedwestufer_2011-04.jpg/800px-AnnaseeSuedwestufer_2011-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AnnaseeSuedwestufer_2011-04.jpg/1200px-AnnaseeSuedwestufer_2011-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/AnnaseeSuedwestufer_2011-04.jpg/1920px-AnnaseeSuedwestufer_2011-04.jpg
+  Annasee 2011-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annasee_2011-04.jpg/400px-Annasee_2011-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annasee_2011-04.jpg/800px-Annasee_2011-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annasee_2011-04.jpg/1200px-Annasee_2011-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Annasee_2011-04.jpg/1920px-Annasee_2011-04.jpg
+  Annasee Sunrise.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Annasee_Sunrise.jpg/400px-Annasee_Sunrise.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Annasee_Sunrise.jpg/800px-Annasee_Sunrise.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Annasee_Sunrise.jpg/1200px-Annasee_Sunrise.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Annasee_Sunrise.jpg/1920px-Annasee_Sunrise.jpg
+  Landappbw 971740 1824 Annasee Beilstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_971740_1824_Annasee_Beilstein.jpg/400px-Landappbw_971740_1824_Annasee_Beilstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_971740_1824_Annasee_Beilstein.jpg/800px-Landappbw_971740_1824_Annasee_Beilstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_971740_1824_Annasee_Beilstein.jpg/1200px-Landappbw_971740_1824_Annasee_Beilstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landappbw_971740_1824_Annasee_Beilstein.jpg/1920px-Landappbw_971740_1824_Annasee_Beilstein.jpg
+  Annasee bei Gagernberg - geo.hlipp.de - 1591.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg/400px-Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg/800px-Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg/1200px-Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg/1920px-Annasee_bei_Gagernberg_-_geo.hlipp.de_-_1591.jpg
 ---
 
 ## Overview

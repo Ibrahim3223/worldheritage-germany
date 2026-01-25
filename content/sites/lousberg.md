@@ -21,7 +21,7 @@ longitude: 6.07917
 
 # Images
 images:
-  - "/images-sites/lousberg/01-62733bd0-800w.webp"
+  - "/images/lousberg/01-62733bd0-800w.webp"
 ---
 
 ## Overview

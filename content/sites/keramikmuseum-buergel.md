@@ -13,7 +13,7 @@ regions:
 latitude: 50.942463
 longitude: 11.755186
 images:
-  - "/images-sites/keramikmuseum-buergel/01-b240341f-800w.webp"
+  - "/images/keramikmuseum-buergel/01-b240341f-800w.webp"
 ---
 
 ## Overview

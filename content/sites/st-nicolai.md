@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2321847"
 description: "In the heart of Lüneburg, Germany, the St. Nicolai church rises prominently, its brick Gothic architecture a striking feature of the city’s skyline. At ..."
 images:
-  - "/images-sites/st-nicolai/01-3599772d-1920w.webp"
-  - "/images-sites/st-nicolai/02-ee8da8a6-1920w.webp"
-  - "/images-sites/st-nicolai/03-b773853d-1920w.webp"
+  - "/images/st-nicolai/01-3599772d-1920w.webp"
+  - "/images/st-nicolai/02-ee8da8a6-1920w.webp"
+  - "/images/st-nicolai/03-b773853d-1920w.webp"
 ---
 
 ## Overview

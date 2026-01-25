@@ -1,21 +1,49 @@
 ---
-title: "Alte Kongresshalle"
+title: Alte Kongresshalle
 date: 2026-01-23
 draft: false
-description: "convention and multi-purpose hall in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: convention and multi-purpose hall in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1321
 longitude: 11.5444
 images:
-  - "/images-sites/alte-kongresshalle/01-839e7df9-800w.webp"
-  - "/images-sites/alte-kongresshalle/02-fba6dd3c-800w.webp"
-  - "/images-sites/alte-kongresshalle/03-a28c4f33-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alte_Kongresshalle_zum_Comicfestival_2017.jpg/1200px-Alte_Kongresshalle_zum_Comicfestival_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Biergarten_am_Bavariapark.jpg/1200px-Biergarten_am_Bavariapark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kongresshalle_zum_Comicfestival_2017.jpg/1200px-Kongresshalle_zum_Comicfestival_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG/1200px-Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1200px-Alte_Kongresshalle_Onlinestar2008.JPG
+image_srcset:
+  Alte Kongresshalle zum Comicfestival 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alte_Kongresshalle_zum_Comicfestival_2017.jpg/400px-Alte_Kongresshalle_zum_Comicfestival_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alte_Kongresshalle_zum_Comicfestival_2017.jpg/800px-Alte_Kongresshalle_zum_Comicfestival_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alte_Kongresshalle_zum_Comicfestival_2017.jpg/1200px-Alte_Kongresshalle_zum_Comicfestival_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alte_Kongresshalle_zum_Comicfestival_2017.jpg/1920px-Alte_Kongresshalle_zum_Comicfestival_2017.jpg
+  Biergarten am Bavariapark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Biergarten_am_Bavariapark.jpg/400px-Biergarten_am_Bavariapark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Biergarten_am_Bavariapark.jpg/800px-Biergarten_am_Bavariapark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Biergarten_am_Bavariapark.jpg/1200px-Biergarten_am_Bavariapark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Biergarten_am_Bavariapark.jpg/1920px-Biergarten_am_Bavariapark.jpg
+  Kongresshalle zum Comicfestival 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kongresshalle_zum_Comicfestival_2017.jpg/400px-Kongresshalle_zum_Comicfestival_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kongresshalle_zum_Comicfestival_2017.jpg/800px-Kongresshalle_zum_Comicfestival_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kongresshalle_zum_Comicfestival_2017.jpg/1200px-Kongresshalle_zum_Comicfestival_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kongresshalle_zum_Comicfestival_2017.jpg/1920px-Kongresshalle_zum_Comicfestival_2017.jpg
+  Alte Kongresshalle bei Nacht Schwanthalerhöhe Theresienhöhe Westend München.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG/400px-Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG/800px-Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG/1200px-Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG/1920px-Alte_Kongresshalle_bei_Nacht_Schwanthalerhöhe_Theresienhöhe_Westend_München.JPG
+  Alte Kongresshalle Onlinestar2008.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/400px-Alte_Kongresshalle_Onlinestar2008.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/800px-Alte_Kongresshalle_Onlinestar2008.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1200px-Alte_Kongresshalle_Onlinestar2008.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alte_Kongresshalle_Onlinestar2008.JPG/1920px-Alte_Kongresshalle_Onlinestar2008.JPG
 ---
 
 ## Overview

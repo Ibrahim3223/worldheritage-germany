@@ -1,19 +1,49 @@
 ---
-title: "Aachener Tierpark Euregiozoo"
+title: Aachener Tierpark Euregiozoo
 date: 2026-01-24
 draft: false
-description: "zoo in Aachen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Aachen, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 50.76311
 longitude: 6.1153
 images:
-  - "/images-sites/aachener-tierpark-euregiozoo/01-9b0039dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg/1200px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg/1200px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg/1200px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230406_Tierpark_Aken_Meertje_18.jpg/1200px-20230406_Tierpark_Aken_Meertje_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1200px-Tierpark-aachen-eingang.jpg
+image_srcset:
+  Aachener Tierpark Euregiozoo, Sculptures in Aachen, Willi Tannheimer; August 2025 in the Städteregion Aachen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg/400px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg/800px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg/1200px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg/1920px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_Willi_Tannheimer;_August_2025_in_the_Städteregion_Aachen.jpg
+  Aachener Tierpark Euregiozoo, Sculptures in Aachen, August 2025 in the Städteregion Aachen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg/400px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg/800px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg/1200px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg/1920px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen,_August_2025_in_the_Städteregion_Aachen.jpg
+  Aachener Tierpark Euregiozoo, Sculptures in Aachen; August 2025 in the Städteregion Aachen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg/400px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg/800px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg/1200px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg/1920px-Aachener_Tierpark_Euregiozoo,_Sculptures_in_Aachen;_August_2025_in_the_Städteregion_Aachen.jpg
+  20230406 Tierpark Aken Meertje 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230406_Tierpark_Aken_Meertje_18.jpg/400px-20230406_Tierpark_Aken_Meertje_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230406_Tierpark_Aken_Meertje_18.jpg/800px-20230406_Tierpark_Aken_Meertje_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230406_Tierpark_Aken_Meertje_18.jpg/1200px-20230406_Tierpark_Aken_Meertje_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230406_Tierpark_Aken_Meertje_18.jpg/1920px-20230406_Tierpark_Aken_Meertje_18.jpg
+  Tierpark-aachen-eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/400px-Tierpark-aachen-eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/800px-Tierpark-aachen-eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1200px-Tierpark-aachen-eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tierpark-aachen-eingang.jpg/1920px-Tierpark-aachen-eingang.jpg
 ---
 
 ## Overview

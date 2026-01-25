@@ -13,7 +13,7 @@ regions:
 latitude: 51.4569
 longitude: 6.82583
 images:
-  - "/images-sites/zeche-alstaden/01-0999b029-800w.webp"
+  - "/images/zeche-alstaden/01-0999b029-800w.webp"
 ---
 
 ## Overview

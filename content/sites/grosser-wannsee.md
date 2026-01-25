@@ -1,19 +1,49 @@
 ---
-title: "Großer Wannsee"
+title: Großer Wannsee
 date: 2026-01-23
 draft: false
-description: "lake near Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake near Berlin
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4275
 longitude: 13.173055555
 images:
-  - "/images-sites/grosser-wannsee/01-4bf2bcf4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg/1200px-Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg/1200px-Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wannsee_from_Wannseebrücke_2021-01-30_03.jpg/1200px-Wannsee_from_Wannseebrücke_2021-01-30_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grosser_Wannsee_Berlin.jpg/1200px-Grosser_Wannsee_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg/1200px-Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg
+image_srcset:
+  Pfaueninsel and Wannsee from Düppeler Forst with snow 2021-01-30 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg/400px-Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg/800px-Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg/1200px-Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg/1920px-Pfaueninsel_and_Wannsee_from_Düppeler_Forst_with_snow_2021-01-30_07.jpg
+  Wannsee from Düppeler Forst 2021-01-30 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg/400px-Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg/800px-Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg/1200px-Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg/1920px-Wannsee_from_Düppeler_Forst_2021-01-30_01.jpg
+  Wannsee from Wannseebrücke 2021-01-30 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wannsee_from_Wannseebrücke_2021-01-30_03.jpg/400px-Wannsee_from_Wannseebrücke_2021-01-30_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wannsee_from_Wannseebrücke_2021-01-30_03.jpg/800px-Wannsee_from_Wannseebrücke_2021-01-30_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wannsee_from_Wannseebrücke_2021-01-30_03.jpg/1200px-Wannsee_from_Wannseebrücke_2021-01-30_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wannsee_from_Wannseebrücke_2021-01-30_03.jpg/1920px-Wannsee_from_Wannseebrücke_2021-01-30_03.jpg
+  Grosser Wannsee Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grosser_Wannsee_Berlin.jpg/400px-Grosser_Wannsee_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grosser_Wannsee_Berlin.jpg/800px-Grosser_Wannsee_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grosser_Wannsee_Berlin.jpg/1200px-Grosser_Wannsee_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Grosser_Wannsee_Berlin.jpg/1920px-Grosser_Wannsee_Berlin.jpg
+  Le grand lac et sa station balnéaire (Wannsee, Berlin) (6336744671).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg/400px-Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg/800px-Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg/1200px-Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg/1920px-Le_grand_lac_et_sa_station_balnéaire_(Wannsee,_Berlin)_(6336744671).jpg
 ---
 
 ## Overview

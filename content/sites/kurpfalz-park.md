@@ -13,9 +13,9 @@ regions:
 latitude: 49.4134
 longitude: 8.1052
 images:
-  - "/images-sites/kurpfalz-park/01-378bbe3f-800w.webp"
-  - "/images-sites/kurpfalz-park/01-ef44a03e-800w.webp"
-  - "/images-sites/kurpfalz-park/02-378bbe3f-800w.webp"
+  - "/images/kurpfalz-park/01-378bbe3f-800w.webp"
+  - "/images/kurpfalz-park/01-ef44a03e-800w.webp"
+  - "/images/kurpfalz-park/02-378bbe3f-800w.webp"
 ---
 
 ## Overview

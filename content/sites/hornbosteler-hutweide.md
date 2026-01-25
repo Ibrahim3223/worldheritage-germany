@@ -1,19 +1,25 @@
 ---
-title: "Hornbosteler Hutweide"
+title: Hornbosteler Hutweide
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6864
 longitude: 9.85389
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1200px-Hutweide-Hornbostel.jpg
+image_srcset:
+  Hutweide-Hornbostel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/400px-Hutweide-Hornbostel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/800px-Hutweide-Hornbostel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1200px-Hutweide-Hornbostel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hutweide-Hornbostel.jpg/1920px-Hutweide-Hornbostel.jpg
 ---
 
 ## Overview

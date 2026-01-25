@@ -21,9 +21,9 @@ longitude: 8.60242
 
 # Images
 images:
-  - "/images-sites/schloss-holte/01-f4ae1971-800w.webp"
-  - "/images-sites/schloss-holte/02-57fb8a80-800w.webp"
-  - "/images-sites/schloss-holte/03-f8a00c92-800w.webp"
+  - "/images/schloss-holte/01-f4ae1971-800w.webp"
+  - "/images/schloss-holte/02-57fb8a80-800w.webp"
+  - "/images/schloss-holte/03-f8a00c92-800w.webp"
 ---
 
 ## Overview

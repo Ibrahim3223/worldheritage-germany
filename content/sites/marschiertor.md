@@ -13,9 +13,9 @@ regions:
 latitude: 50.76815
 longitude: 6.08693
 images:
-  - "/images-sites/marschiertor/01-fd287285-800w.webp"
-  - "/images-sites/marschiertor/02-f412b4cd-800w.webp"
-  - "/images-sites/marschiertor/03-97b62f59-800w.webp"
+  - "/images/marschiertor/01-fd287285-800w.webp"
+  - "/images/marschiertor/02-f412b4cd-800w.webp"
+  - "/images/marschiertor/03-97b62f59-800w.webp"
 ---
 
 ## Overview

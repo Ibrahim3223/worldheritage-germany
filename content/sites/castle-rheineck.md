@@ -1,27 +1,49 @@
 ---
-title: "Castle Rheineck"
+title: Castle Rheineck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4959
 longitude: 7.31299
-
-# Images
 images:
-  - "/images-sites/castle-rheineck/01-dac5b386-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bad_Breisig_Panorama.jpg/1200px-Bad_Breisig_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg/1200px-Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Evangelische_Kirche_Breisig_3.jpg/1200px-Evangelische_Kirche_Breisig_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Rheineck_Schloss_Arenfels.jpg/1200px-Burg_Rheineck_Schloss_Arenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Rheineck_Luftbild_03.jpg/1200px-Burg_Rheineck_Luftbild_03.jpg
+image_srcset:
+  Bad Breisig Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bad_Breisig_Panorama.jpg/400px-Bad_Breisig_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bad_Breisig_Panorama.jpg/800px-Bad_Breisig_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bad_Breisig_Panorama.jpg/1200px-Bad_Breisig_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bad_Breisig_Panorama.jpg/1920px-Bad_Breisig_Panorama.jpg
+  Bad Breisig Blick Oberbreisig Rheintal (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg/400px-Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg/800px-Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg/1200px-Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg/1920px-Bad_Breisig_Blick_Oberbreisig_Rheintal_(1).jpg
+  Evangelische Kirche Breisig 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Evangelische_Kirche_Breisig_3.jpg/400px-Evangelische_Kirche_Breisig_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Evangelische_Kirche_Breisig_3.jpg/800px-Evangelische_Kirche_Breisig_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Evangelische_Kirche_Breisig_3.jpg/1200px-Evangelische_Kirche_Breisig_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Evangelische_Kirche_Breisig_3.jpg/1920px-Evangelische_Kirche_Breisig_3.jpg
+  Burg Rheineck Schloss Arenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Rheineck_Schloss_Arenfels.jpg/400px-Burg_Rheineck_Schloss_Arenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Rheineck_Schloss_Arenfels.jpg/800px-Burg_Rheineck_Schloss_Arenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Rheineck_Schloss_Arenfels.jpg/1200px-Burg_Rheineck_Schloss_Arenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Rheineck_Schloss_Arenfels.jpg/1920px-Burg_Rheineck_Schloss_Arenfels.jpg
+  Burg Rheineck Luftbild 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Rheineck_Luftbild_03.jpg/400px-Burg_Rheineck_Luftbild_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Rheineck_Luftbild_03.jpg/800px-Burg_Rheineck_Luftbild_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Rheineck_Luftbild_03.jpg/1200px-Burg_Rheineck_Luftbild_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Burg_Rheineck_Luftbild_03.jpg/1920px-Burg_Rheineck_Luftbild_03.jpg
 ---
 
 ## Overview

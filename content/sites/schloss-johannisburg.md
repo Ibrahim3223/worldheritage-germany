@@ -13,7 +13,7 @@ regions:
 latitude: 49.9761
 longitude: 9.14167
 images:
-  - "/images-sites/schloss-johannisburg/01-a7932dd6-800w.webp"
+  - "/images/schloss-johannisburg/01-a7932dd6-800w.webp"
 ---
 
 ## Overview

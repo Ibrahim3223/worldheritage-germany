@@ -21,7 +21,7 @@ longitude: 7.45374
 
 # Images
 images:
-  - "/images-sites/oberburg-kobern/01-e929fd30-800w.webp"
+  - "/images/oberburg-kobern/01-e929fd30-800w.webp"
 ---
 
 ## Overview

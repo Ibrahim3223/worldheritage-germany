@@ -1,29 +1,49 @@
 ---
-title: "Castra of Osterburken"
+title: Castra of Osterburken
 date: 2026-01-23
 draft: false
-description: "Roman fort"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Roman fort
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.42753
 longitude: 9.42364
-
-# Images
 images:
-  - "/images-sites/castra-of-osterburken/01-76070c97-800w.webp"
-  - "/images-sites/castra-of-osterburken/02-2415d1cf-800w.webp"
-  - "/images-sites/castra-of-osterburken/03-7cb9e81b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg/1200px-Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg/1200px-Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg/1200px-Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg/1200px-Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg/1200px-200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg
+image_srcset:
+  Osterburken Kohortenkastell NE 265m290 20220326 1708.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg/400px-Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg/800px-Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg/1200px-Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg/1920px-Osterburken_Kohortenkastell_NE_265m290_20220326_1708.jpg
+  Kastell Osterburken (DerHexer) 2012-09-30 114.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg/400px-Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg/800px-Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg/1200px-Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg/1920px-Kastell_Osterburken_(DerHexer)_2012-09-30_114.jpg
+  Römermuseum Osterburken (DerHexer) 2012-09-30 163.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg/400px-Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg/800px-Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg/1200px-Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg/1920px-Römermuseum_Osterburken_(DerHexer)_2012-09-30_163.jpg
+  Osterburken Numeruskastell Osttor 255m30 20220326 1718.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg/400px-Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg/800px-Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg/1200px-Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg/1920px-Osterburken_Numeruskastell_Osttor_255m30_20220326_1718.jpg
+  200909161109MEZ Modell Osterburken, Römermuseum Osterburken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg/400px-200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg/800px-200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg/1200px-200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg/1920px-200909161109MEZ_Modell_Osterburken,_Römermuseum_Osterburken.jpg
 ---
 
 ## Overview

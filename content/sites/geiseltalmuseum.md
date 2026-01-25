@@ -1,19 +1,49 @@
 ---
-title: "Geiseltalmuseum"
+title: Geiseltalmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Halle (Saale), Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Halle (Saale), Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4844
 longitude: 11.9654
 images:
-  - "/images-sites/geiseltalmuseum/01-e393a612-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gastropoden-Schill-Geiseltal.jpg/1200px-Gastropoden-Schill-Geiseltal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Haplobunodon_posterior_skeleton_Geiseltal.jpg/1200px-Haplobunodon_posterior_skeleton_Geiseltal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pecopteris.jpg/1200px-Pecopteris.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leonhardtina_Geiseltal.jpg/1200px-Leonhardtina_Geiseltal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1200px-Geiseltalmuseum.JPG
+image_srcset:
+  Gastropoden-Schill-Geiseltal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gastropoden-Schill-Geiseltal.jpg/400px-Gastropoden-Schill-Geiseltal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gastropoden-Schill-Geiseltal.jpg/800px-Gastropoden-Schill-Geiseltal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gastropoden-Schill-Geiseltal.jpg/1200px-Gastropoden-Schill-Geiseltal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gastropoden-Schill-Geiseltal.jpg/1920px-Gastropoden-Schill-Geiseltal.jpg
+  Haplobunodon posterior skeleton Geiseltal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Haplobunodon_posterior_skeleton_Geiseltal.jpg/400px-Haplobunodon_posterior_skeleton_Geiseltal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Haplobunodon_posterior_skeleton_Geiseltal.jpg/800px-Haplobunodon_posterior_skeleton_Geiseltal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Haplobunodon_posterior_skeleton_Geiseltal.jpg/1200px-Haplobunodon_posterior_skeleton_Geiseltal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Haplobunodon_posterior_skeleton_Geiseltal.jpg/1920px-Haplobunodon_posterior_skeleton_Geiseltal.jpg
+  Pecopteris.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pecopteris.jpg/400px-Pecopteris.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pecopteris.jpg/800px-Pecopteris.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pecopteris.jpg/1200px-Pecopteris.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pecopteris.jpg/1920px-Pecopteris.jpg
+  Leonhardtina Geiseltal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leonhardtina_Geiseltal.jpg/400px-Leonhardtina_Geiseltal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leonhardtina_Geiseltal.jpg/800px-Leonhardtina_Geiseltal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leonhardtina_Geiseltal.jpg/1200px-Leonhardtina_Geiseltal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leonhardtina_Geiseltal.jpg/1920px-Leonhardtina_Geiseltal.jpg
+  Geiseltalmuseum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/400px-Geiseltalmuseum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/800px-Geiseltalmuseum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1200px-Geiseltalmuseum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Geiseltalmuseum.JPG/1920px-Geiseltalmuseum.JPG
 ---
 
 ## Overview

@@ -1,23 +1,51 @@
 ---
-title: "Deutschhaus Mainz"
-site_name: "Deutschhaus Mainz"
-slug: "deutschhaus-mainz"
-region: "Hesse"
-
-# Location
+title: Deutschhaus Mainz
+site_name: Deutschhaus Mainz
+slug: deutschhaus-mainz
+region: Hesse
 latitude: 50.00528
 longitude: 8.27167
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q530788"
-description: "In the heart of Mainz, Germany, stands the Deutschhaus, a remarkable historical building that draws visitors with its grand Baroque architecture and ric..."
+- cultural site
+wikidata_id: Q530788
+description: In the heart of Mainz, Germany, stands the Deutschhaus, a remarkable
+  historical building that draws visitors with its grand Baroque architecture and
+  ric...
 images:
-  - "/images-sites/deutschhaus-mainz/01-508bc6f8-1920w.webp"
-  - "/images-sites/deutschhaus-mainz/02-0c8b8fa1-1920w.webp"
-  - "/images-sites/deutschhaus-mainz/03-52bfa3a6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mainz%20Deutschhaus%20img01.jpg/1200px-Mainz%20Deutschhaus%20img01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20230314_Deutschhaus_Mainz_02.jpg/1200px-20230314_Deutschhaus_Mainz_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230314_Deutschhaus_Mainz_01.jpg/1200px-20230314_Deutschhaus_Mainz_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg/1200px-Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschhaus_Mainz.jpg/1200px-Deutschhaus_Mainz.jpg
+image_srcset:
+  Mainz%20Deutschhaus%20img01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mainz%20Deutschhaus%20img01.jpg/400px-Mainz%20Deutschhaus%20img01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mainz%20Deutschhaus%20img01.jpg/800px-Mainz%20Deutschhaus%20img01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mainz%20Deutschhaus%20img01.jpg/1200px-Mainz%20Deutschhaus%20img01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mainz%20Deutschhaus%20img01.jpg/1920px-Mainz%20Deutschhaus%20img01.jpg
+  20230314 Deutschhaus Mainz 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20230314_Deutschhaus_Mainz_02.jpg/400px-20230314_Deutschhaus_Mainz_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20230314_Deutschhaus_Mainz_02.jpg/800px-20230314_Deutschhaus_Mainz_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20230314_Deutschhaus_Mainz_02.jpg/1200px-20230314_Deutschhaus_Mainz_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20230314_Deutschhaus_Mainz_02.jpg/1920px-20230314_Deutschhaus_Mainz_02.jpg
+  20230314 Deutschhaus Mainz 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230314_Deutschhaus_Mainz_01.jpg/400px-20230314_Deutschhaus_Mainz_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230314_Deutschhaus_Mainz_01.jpg/800px-20230314_Deutschhaus_Mainz_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230314_Deutschhaus_Mainz_01.jpg/1200px-20230314_Deutschhaus_Mainz_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230314_Deutschhaus_Mainz_01.jpg/1920px-20230314_Deutschhaus_Mainz_01.jpg
+  Mainz Deutschhaus Landtag-RP 234+37-vzLR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg/400px-Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg/800px-Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg/1200px-Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg/1920px-Mainz_Deutschhaus_Landtag-RP_234+37-vzLR.jpg
+  Deutschhaus Mainz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschhaus_Mainz.jpg/400px-Deutschhaus_Mainz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschhaus_Mainz.jpg/800px-Deutschhaus_Mainz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschhaus_Mainz.jpg/1200px-Deutschhaus_Mainz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Deutschhaus_Mainz.jpg/1920px-Deutschhaus_Mainz.jpg
 ---
 
 ## Overview

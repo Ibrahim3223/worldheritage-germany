@@ -1,20 +1,51 @@
 ---
-title: "Johanneskirche (Bad Tölz)"
-site_name: "Johanneskirche (Bad Tölz)"
-slug: "johanneskirche-bad-tolz"
-region: "Bavaria"
-
-# Location
+title: Johanneskirche (Bad Tölz)
+site_name: Johanneskirche (Bad Tölz)
+slug: johanneskirche-bad-tolz
+region: Bavaria
 latitude: 47.7575
 longitude: 11.5487
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698819"
-description: "Johanneskirche, a striking church building located in Bad Tölz, Germany, embodies the grace of Romanesque Revival architecture. As you approach this sac..."
+- church building
+- religious site
+wikidata_id: Q1698819
+description: Johanneskirche, a striking church building located in Bad Tölz, Germany,
+  embodies the grace of Romanesque Revival architecture. As you approach this sac...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche%20Bad%20T%C3%B6lz.jpg/1200px-Johanneskirche%20Bad%20T%C3%B6lz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG/1200px-Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bad_Tölz_Johanneskirche.JPG/1200px-Bad_Tölz_Johanneskirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg/1200px-Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/1200px-Johanneskirche_Bad_Tölz.jpg
+image_srcset:
+  Johanneskirche%20Bad%20T%C3%B6lz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche%20Bad%20T%C3%B6lz.jpg/400px-Johanneskirche%20Bad%20T%C3%B6lz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche%20Bad%20T%C3%B6lz.jpg/800px-Johanneskirche%20Bad%20T%C3%B6lz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche%20Bad%20T%C3%B6lz.jpg/1200px-Johanneskirche%20Bad%20T%C3%B6lz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Johanneskirche%20Bad%20T%C3%B6lz.jpg/1920px-Johanneskirche%20Bad%20T%C3%B6lz.jpg
+  Front view of Johanneskirche in Bad Tölz, Bayern.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG/400px-Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG/800px-Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG/1200px-Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG/1920px-Front_view_of_Johanneskirche_in_Bad_Tölz,_Bayern.JPG
+  Bad Tölz Johanneskirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bad_Tölz_Johanneskirche.JPG/400px-Bad_Tölz_Johanneskirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bad_Tölz_Johanneskirche.JPG/800px-Bad_Tölz_Johanneskirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bad_Tölz_Johanneskirche.JPG/1200px-Bad_Tölz_Johanneskirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bad_Tölz_Johanneskirche.JPG/1920px-Bad_Tölz_Johanneskirche.JPG
+  Info ev. Johanneskirche - 2021-08-15 - 371a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg/400px-Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg/800px-Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg/1200px-Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg/1920px-Info_ev._Johanneskirche_-_2021-08-15_-_371a.jpg
+  Johanneskirche Bad Tölz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/400px-Johanneskirche_Bad_Tölz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/800px-Johanneskirche_Bad_Tölz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/1200px-Johanneskirche_Bad_Tölz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johanneskirche_Bad_Tölz.jpg/1920px-Johanneskirche_Bad_Tölz.jpg
 ---
 
 ## Overview

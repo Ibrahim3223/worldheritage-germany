@@ -1,29 +1,49 @@
 ---
-title: "Herzog Anton Ulrich Museum"
+title: Herzog Anton Ulrich Museum
 date: 2026-01-23
 draft: false
-description: "art museum in Braunschweig, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Braunschweig, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.26352
 longitude: 10.533116
-
-# Images
 images:
-  - "/images-sites/herzog-anton-ulrich-museum/01-06392974-800w.webp"
-  - "/images-sites/herzog-anton-ulrich-museum/02-bf3bdedb-800w.webp"
-  - "/images-sites/herzog-anton-ulrich-museum/03-9f341e4a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Braunschweig_Herzog_Anton_Ulrich-Museum.jpg/1200px-Braunschweig_Herzog_Anton_Ulrich-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg/1200px-20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herzog_Anton_Ulrich-Museum_BS.jpg/1200px-Herzog_Anton_Ulrich-Museum_BS.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/1200px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunschweig_Herzog-Anton-Ulrich-Museum.jpg/1200px-Braunschweig_Herzog-Anton-Ulrich-Museum.jpg
+image_srcset:
+  Braunschweig Herzog Anton Ulrich-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Braunschweig_Herzog_Anton_Ulrich-Museum.jpg/400px-Braunschweig_Herzog_Anton_Ulrich-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Braunschweig_Herzog_Anton_Ulrich-Museum.jpg/800px-Braunschweig_Herzog_Anton_Ulrich-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Braunschweig_Herzog_Anton_Ulrich-Museum.jpg/1200px-Braunschweig_Herzog_Anton_Ulrich-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Braunschweig_Herzog_Anton_Ulrich-Museum.jpg/1920px-Braunschweig_Herzog_Anton_Ulrich-Museum.jpg
+  20200322 HAUM Braunschweig DSC01628 PtrQs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg/400px-20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg/800px-20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg/1200px-20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg/1920px-20200322_HAUM_Braunschweig_DSC01628_PtrQs.jpg
+  Herzog Anton Ulrich-Museum BS.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herzog_Anton_Ulrich-Museum_BS.jpg/400px-Herzog_Anton_Ulrich-Museum_BS.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herzog_Anton_Ulrich-Museum_BS.jpg/800px-Herzog_Anton_Ulrich-Museum_BS.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herzog_Anton_Ulrich-Museum_BS.jpg/1200px-Herzog_Anton_Ulrich-Museum_BS.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Herzog_Anton_Ulrich-Museum_BS.jpg/1920px-Herzog_Anton_Ulrich-Museum_BS.jpg
+  Braunschweig Herzog Anton Ulrich-Museum (Herzog Anton Ulrich-Museum).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/400px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/800px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/1200px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg/1920px-Braunschweig_Herzog_Anton_Ulrich-Museum_(Herzog_Anton_Ulrich-Museum).jpg
+  Braunschweig Herzog-Anton-Ulrich-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunschweig_Herzog-Anton-Ulrich-Museum.jpg/400px-Braunschweig_Herzog-Anton-Ulrich-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunschweig_Herzog-Anton-Ulrich-Museum.jpg/800px-Braunschweig_Herzog-Anton-Ulrich-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunschweig_Herzog-Anton-Ulrich-Museum.jpg/1200px-Braunschweig_Herzog-Anton-Ulrich-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Braunschweig_Herzog-Anton-Ulrich-Museum.jpg/1920px-Braunschweig_Herzog-Anton-Ulrich-Museum.jpg
 ---
 
 ## Overview

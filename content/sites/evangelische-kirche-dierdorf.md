@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Kirche (Dierdorf)"
-site_name: "Evangelische Kirche (Dierdorf)"
-slug: "evangelische-kirche-dierdorf"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Kirche (Dierdorf)
+site_name: Evangelische Kirche (Dierdorf)
+slug: evangelische-kirche-dierdorf
+region: North Rhine-Westphalia
 latitude: 50.5464
 longitude: 7.65769
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380286"
-description: "The Evangelische Kirche in Dierdorf is a remarkable church building that encapsulates the spiritual and architectural heritage of this quaint German tow..."
+- church building
+- religious site
+wikidata_id: Q1380286
+description: The Evangelische Kirche in Dierdorf is a remarkable church building that
+  encapsulates the spiritual and architectural heritage of this quaint German tow...
 images:
-  - "/images-sites/evangelische-kirche-dierdorf/01-bf7ab1db-1920w.webp"
-  - "/images-sites/evangelische-kirche-dierdorf/02-1e5ac91f-1920w.webp"
-  - "/images-sites/evangelische-kirche-dierdorf/03-cc39b887-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/1200px-DierdorfEvangelischeKirche6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DierdorfEvangelischeKirche3.jpg/1200px-DierdorfEvangelischeKirche3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DierdorfEvangelischeKirche7.jpg/1200px-DierdorfEvangelischeKirche7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DierdorfEvangelischeKirche2.jpg/1200px-DierdorfEvangelischeKirche2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dierdorf_Evangelische_Kirche.jpg/1200px-Dierdorf_Evangelische_Kirche.jpg
+image_srcset:
+  DierdorfEvangelischeKirche6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/400px-DierdorfEvangelischeKirche6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/800px-DierdorfEvangelischeKirche6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/1200px-DierdorfEvangelischeKirche6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/DierdorfEvangelischeKirche6.jpg/1920px-DierdorfEvangelischeKirche6.jpg
+  DierdorfEvangelischeKirche3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DierdorfEvangelischeKirche3.jpg/400px-DierdorfEvangelischeKirche3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DierdorfEvangelischeKirche3.jpg/800px-DierdorfEvangelischeKirche3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DierdorfEvangelischeKirche3.jpg/1200px-DierdorfEvangelischeKirche3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DierdorfEvangelischeKirche3.jpg/1920px-DierdorfEvangelischeKirche3.jpg
+  DierdorfEvangelischeKirche7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DierdorfEvangelischeKirche7.jpg/400px-DierdorfEvangelischeKirche7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DierdorfEvangelischeKirche7.jpg/800px-DierdorfEvangelischeKirche7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DierdorfEvangelischeKirche7.jpg/1200px-DierdorfEvangelischeKirche7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DierdorfEvangelischeKirche7.jpg/1920px-DierdorfEvangelischeKirche7.jpg
+  DierdorfEvangelischeKirche2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DierdorfEvangelischeKirche2.jpg/400px-DierdorfEvangelischeKirche2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DierdorfEvangelischeKirche2.jpg/800px-DierdorfEvangelischeKirche2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DierdorfEvangelischeKirche2.jpg/1200px-DierdorfEvangelischeKirche2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/DierdorfEvangelischeKirche2.jpg/1920px-DierdorfEvangelischeKirche2.jpg
+  Dierdorf Evangelische Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dierdorf_Evangelische_Kirche.jpg/400px-Dierdorf_Evangelische_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dierdorf_Evangelische_Kirche.jpg/800px-Dierdorf_Evangelische_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dierdorf_Evangelische_Kirche.jpg/1200px-Dierdorf_Evangelische_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dierdorf_Evangelische_Kirche.jpg/1920px-Dierdorf_Evangelische_Kirche.jpg
 ---
 
 ## Overview

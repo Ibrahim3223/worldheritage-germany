@@ -13,7 +13,7 @@ regions:
 latitude: 51.54044444
 longitude: 10.73505556
 images:
-  - "/images-sites/kohnstein/02-86fae89c-800w.webp"
+  - "/images/kohnstein/02-86fae89c-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Glockengasse Synagogue"
+title: Glockengasse Synagogue
 date: 2026-01-23
 draft: false
-description: "synagogue in Cologne"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue in Cologne
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9382
 longitude: 6.9528
 images:
-  - "/images-sites/glockengasse-synagogue/02-bf1b6520-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg/1200px-Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Synagoge_Glockengasse.jpg/1200px-Synagoge_Glockengasse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Synagoge_Glockengasse.png/1200px-Synagoge_Glockengasse.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln-Synagoge-Glockengasse-Querschnitt.jpg/1200px-Köln-Synagoge-Glockengasse-Querschnitt.jpg
+image_srcset:
+  Koeln in Bildern, Tafel 51. Die Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg/400px-Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg/800px-Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg/1200px-Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg/1920px-Koeln_in_Bildern,_Tafel_51._Die_Synagoge.jpg
+  Synagoge Glockengasse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Synagoge_Glockengasse.jpg/400px-Synagoge_Glockengasse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Synagoge_Glockengasse.jpg/800px-Synagoge_Glockengasse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Synagoge_Glockengasse.jpg/1200px-Synagoge_Glockengasse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Synagoge_Glockengasse.jpg/1920px-Synagoge_Glockengasse.jpg
+  Synagoge Glockengasse.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Synagoge_Glockengasse.png/400px-Synagoge_Glockengasse.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Synagoge_Glockengasse.png/800px-Synagoge_Glockengasse.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Synagoge_Glockengasse.png/1200px-Synagoge_Glockengasse.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Synagoge_Glockengasse.png/1920px-Synagoge_Glockengasse.png
+  Köln-Synagoge-Glockengasse-Querschnitt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln-Synagoge-Glockengasse-Querschnitt.jpg/400px-Köln-Synagoge-Glockengasse-Querschnitt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln-Synagoge-Glockengasse-Querschnitt.jpg/800px-Köln-Synagoge-Glockengasse-Querschnitt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln-Synagoge-Glockengasse-Querschnitt.jpg/1200px-Köln-Synagoge-Glockengasse-Querschnitt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Köln-Synagoge-Glockengasse-Querschnitt.jpg/1920px-Köln-Synagoge-Glockengasse-Querschnitt.jpg
 ---
 
 ## Overview

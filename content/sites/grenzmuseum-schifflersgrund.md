@@ -1,19 +1,50 @@
 ---
-title: "Grenzmuseum Schifflersgrund"
+title: Grenzmuseum Schifflersgrund
 date: 2026-01-23
 draft: false
-description: "Schifflersgrund is a museum at the former inner German border. It is located in the municipality of Asbach-Sickenberg, Thuringia."
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Schifflersgrund is a museum at the former inner German border. It is
+  located in the municipality of Asbach-Sickenberg, Thuringia.
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2853
 longitude: 9.99361
 images:
-  - "/images-sites/grenzmuseum-schifflersgrund/01-a28037fe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Border_watchtower,_Border_Museum_Schifflersgrund.jpg/1200px-Border_watchtower,_Border_Museum_Schifflersgrund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg/1200px-Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg/1200px-Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg/1200px-Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1200px-Grenzmuseum_schifflersgrund.jpg
+image_srcset:
+  Border watchtower, Border Museum Schifflersgrund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Border_watchtower,_Border_Museum_Schifflersgrund.jpg/400px-Border_watchtower,_Border_Museum_Schifflersgrund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Border_watchtower,_Border_Museum_Schifflersgrund.jpg/800px-Border_watchtower,_Border_Museum_Schifflersgrund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Border_watchtower,_Border_Museum_Schifflersgrund.jpg/1200px-Border_watchtower,_Border_Museum_Schifflersgrund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Border_watchtower,_Border_Museum_Schifflersgrund.jpg/1920px-Border_watchtower,_Border_Museum_Schifflersgrund.jpg
+  Helicopter, Hubschrauber, Border Museum Schifflersgrund 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg/400px-Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg/800px-Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg/1200px-Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg/1920px-Helicopter,_Hubschrauber,_Border_Museum_Schifflersgrund_03.jpg
+  Truck of the National People's Army, Border Museum Schifflersgrund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg/400px-Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg/800px-Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg/1200px-Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg/1920px-Truck_of_the_National_People's_Army,_Border_Museum_Schifflersgrund.jpg
+  Helicopter Mil Mi-8, Kampfhubschrauber, Border Museum Schifflersgrund 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg/400px-Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg/800px-Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg/1200px-Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg/1920px-Helicopter_Mil_Mi-8,_Kampfhubschrauber,_Border_Museum_Schifflersgrund_06.jpg
+  Grenzmuseum schifflersgrund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/400px-Grenzmuseum_schifflersgrund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/800px-Grenzmuseum_schifflersgrund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1200px-Grenzmuseum_schifflersgrund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Grenzmuseum_schifflersgrund.jpg/1920px-Grenzmuseum_schifflersgrund.jpg
 ---
 
 ## Overview

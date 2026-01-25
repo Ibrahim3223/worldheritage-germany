@@ -13,7 +13,7 @@ regions:
 latitude: 51.843
 longitude: 12.2217
 images:
-  - "/images-sites/kurt-weill-centre/01-3dcda8fc-800w.webp"
+  - "/images/kurt-weill-centre/01-3dcda8fc-800w.webp"
 ---
 
 ## Overview

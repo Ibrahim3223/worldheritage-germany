@@ -13,7 +13,7 @@ regions:
 latitude: 53.5356
 longitude: 12.2587
 images:
-  - "/images-sites/manor-house-in-karow/01-2ca7fd6e-800w.webp"
+  - "/images/manor-house-in-karow/01-2ca7fd6e-800w.webp"
 ---
 
 ## Overview

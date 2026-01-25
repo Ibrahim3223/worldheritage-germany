@@ -13,7 +13,7 @@ regions:
 latitude: 47.8824501
 longitude: 11.52593994
 images:
-  - "/images-sites/mariae-heimsuchung/01-c0d93afb-800w.webp"
+  - "/images/mariae-heimsuchung/01-c0d93afb-800w.webp"
 ---
 
 ## Overview

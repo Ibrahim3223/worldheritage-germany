@@ -1,19 +1,49 @@
 ---
-title: "Grube Düppenweiler"
+title: Grube Düppenweiler
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4127
 longitude: 6.78303
 images:
-  - "/images-sites/grube-dueppenweiler/01-4aec2403-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20181003_Bergwerk_Düppenweiler_01.jpg/1200px-20181003_Bergwerk_Düppenweiler_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20181003_Bergwerk_Düppenweiler_02.jpg/1200px-20181003_Bergwerk_Düppenweiler_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kupferbergwerk_Düppenweiler_3.jpg/1200px-Kupferbergwerk_Düppenweiler_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kupferbergwerk_Düppenweiler_9.jpg/1200px-Kupferbergwerk_Düppenweiler_9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DüppenweilerBerkwerk.jpg/1200px-DüppenweilerBerkwerk.jpg
+image_srcset:
+  20181003 Bergwerk Düppenweiler 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20181003_Bergwerk_Düppenweiler_01.jpg/400px-20181003_Bergwerk_Düppenweiler_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20181003_Bergwerk_Düppenweiler_01.jpg/800px-20181003_Bergwerk_Düppenweiler_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20181003_Bergwerk_Düppenweiler_01.jpg/1200px-20181003_Bergwerk_Düppenweiler_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20181003_Bergwerk_Düppenweiler_01.jpg/1920px-20181003_Bergwerk_Düppenweiler_01.jpg
+  20181003 Bergwerk Düppenweiler 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20181003_Bergwerk_Düppenweiler_02.jpg/400px-20181003_Bergwerk_Düppenweiler_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20181003_Bergwerk_Düppenweiler_02.jpg/800px-20181003_Bergwerk_Düppenweiler_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20181003_Bergwerk_Düppenweiler_02.jpg/1200px-20181003_Bergwerk_Düppenweiler_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20181003_Bergwerk_Düppenweiler_02.jpg/1920px-20181003_Bergwerk_Düppenweiler_02.jpg
+  Kupferbergwerk Düppenweiler 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kupferbergwerk_Düppenweiler_3.jpg/400px-Kupferbergwerk_Düppenweiler_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kupferbergwerk_Düppenweiler_3.jpg/800px-Kupferbergwerk_Düppenweiler_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kupferbergwerk_Düppenweiler_3.jpg/1200px-Kupferbergwerk_Düppenweiler_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kupferbergwerk_Düppenweiler_3.jpg/1920px-Kupferbergwerk_Düppenweiler_3.jpg
+  Kupferbergwerk Düppenweiler 9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kupferbergwerk_Düppenweiler_9.jpg/400px-Kupferbergwerk_Düppenweiler_9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kupferbergwerk_Düppenweiler_9.jpg/800px-Kupferbergwerk_Düppenweiler_9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kupferbergwerk_Düppenweiler_9.jpg/1200px-Kupferbergwerk_Düppenweiler_9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kupferbergwerk_Düppenweiler_9.jpg/1920px-Kupferbergwerk_Düppenweiler_9.jpg
+  DüppenweilerBerkwerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DüppenweilerBerkwerk.jpg/400px-DüppenweilerBerkwerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DüppenweilerBerkwerk.jpg/800px-DüppenweilerBerkwerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DüppenweilerBerkwerk.jpg/1200px-DüppenweilerBerkwerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DüppenweilerBerkwerk.jpg/1920px-DüppenweilerBerkwerk.jpg
 ---
 
 ## Overview

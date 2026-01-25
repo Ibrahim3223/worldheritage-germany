@@ -13,7 +13,7 @@ regions:
 latitude: 54.327
 longitude: 10.1258
 images:
-  - "/images-sites/synagoge-goethestrasse/01-065e027a-800w.webp"
+  - "/images/synagoge-goethestrasse/01-065e027a-800w.webp"
 ---
 
 ## Overview

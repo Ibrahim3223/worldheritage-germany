@@ -1,27 +1,49 @@
 ---
-title: "Burg Wendelstein"
+title: Burg Wendelstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8303
 longitude: 10.0244
-
-# Images
 images:
-  - "/images-sites/burg-wendelstein/01-5bf9f9c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WendelsteinCastle-Vacha.jpg/1200px-WendelsteinCastle-Vacha.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vacha,_Burg_Wendelstein.jpg/1200px-Vacha,_Burg_Wendelstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wendelstein_vacha_innen.jpg/1200px-Wendelstein_vacha_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_Vacha_111.jpg/1200px-WAK_Vacha_111.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wendelstein_vacha_aussen.jpg/1200px-Wendelstein_vacha_aussen.jpg
+image_srcset:
+  WendelsteinCastle-Vacha.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WendelsteinCastle-Vacha.jpg/400px-WendelsteinCastle-Vacha.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WendelsteinCastle-Vacha.jpg/800px-WendelsteinCastle-Vacha.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WendelsteinCastle-Vacha.jpg/1200px-WendelsteinCastle-Vacha.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WendelsteinCastle-Vacha.jpg/1920px-WendelsteinCastle-Vacha.jpg
+  Vacha, Burg Wendelstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vacha,_Burg_Wendelstein.jpg/400px-Vacha,_Burg_Wendelstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vacha,_Burg_Wendelstein.jpg/800px-Vacha,_Burg_Wendelstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vacha,_Burg_Wendelstein.jpg/1200px-Vacha,_Burg_Wendelstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vacha,_Burg_Wendelstein.jpg/1920px-Vacha,_Burg_Wendelstein.jpg
+  Wendelstein vacha innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wendelstein_vacha_innen.jpg/400px-Wendelstein_vacha_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wendelstein_vacha_innen.jpg/800px-Wendelstein_vacha_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wendelstein_vacha_innen.jpg/1200px-Wendelstein_vacha_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wendelstein_vacha_innen.jpg/1920px-Wendelstein_vacha_innen.jpg
+  WAK Vacha 111.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_Vacha_111.jpg/400px-WAK_Vacha_111.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_Vacha_111.jpg/800px-WAK_Vacha_111.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_Vacha_111.jpg/1200px-WAK_Vacha_111.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_Vacha_111.jpg/1920px-WAK_Vacha_111.jpg
+  Wendelstein vacha aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wendelstein_vacha_aussen.jpg/400px-Wendelstein_vacha_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wendelstein_vacha_aussen.jpg/800px-Wendelstein_vacha_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wendelstein_vacha_aussen.jpg/1200px-Wendelstein_vacha_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wendelstein_vacha_aussen.jpg/1920px-Wendelstein_vacha_aussen.jpg
 ---
 
 ## Overview

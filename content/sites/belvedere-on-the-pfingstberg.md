@@ -1,36 +1,57 @@
 ---
-title: "Belvedere on the Pfingstberg"
-site_name: "Belvedere on the Pfingstberg"
+title: Belvedere on the Pfingstberg
+site_name: Belvedere on the Pfingstberg
 date: 2026-01-11
 draft: false
-wikidata_id: "Q454078"
-
-description: "Imagine standing atop a hill, where the air is crisp and the panorama unfolds beneath you like a grand painting. This is the experience awaiting you at ..."
-# Display fields (for templates)
-region: "Brandenburg"
-country: "Germany"
-heritage_type: "palace"
-
-# Taxonomies (Hugo plural format)
+wikidata_id: Q454078
+description: Imagine standing atop a hill, where the air is crisp and the panorama
+  unfolds beneath you like a grand painting. This is the experience awaiting you at
+  ...
+region: Brandenburg
+country: Germany
+heritage_type: palace
 categories:
-  - "palace"
-  - "royal residence"
+- palace
+- royal residence
 regions:
-    - "Brandenburg"
+- Brandenburg
 tags:
-  - "unesco"
-
-# Location
+- unesco
 latitude: 52.4187
 longitude: 13.059
-
-# Visit Information
-website: "https://www.pfingstberg.de"
-
-# Images
+website: https://www.pfingstberg.de
 images:
-  - "/images/belvedere-on-the-pfingstberg/wikimedia-1920w.webp"
-  - "/images/belvedere-on-the-pfingstberg/satellite-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg/1200px-Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg/1200px-Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg/1200px-2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_(28).jpg/1200px-Belvedere_-_panoramio_(28).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1200px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
+image_srcset:
+  Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg/400px-Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg/800px-Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg/1200px-Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg/1920px-Belvedere%20auf%20dem%20Pfingstberg%20in%20Potsdam%20Juli%202014.jpg
+  Wikimedia Conference 2015 photo by Pine - 45.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg/400px-Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg/800px-Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg/1200px-Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg/1920px-Wikimedia_Conference_2015_photo_by_Pine_-_45.jpg
+  2020-09-23 Potsdam 1DX 1690 by Stepro.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg/400px-2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg/800px-2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg/1200px-2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg/1920px-2020-09-23_Potsdam_1DX_1690_by_Stepro.jpg
+  Belvedere - panoramio (28).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_(28).jpg/400px-Belvedere_-_panoramio_(28).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_(28).jpg/800px-Belvedere_-_panoramio_(28).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_(28).jpg/1200px-Belvedere_-_panoramio_(28).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Belvedere_-_panoramio_(28).jpg/1920px-Belvedere_-_panoramio_(28).jpg
+  Belvedere auf dem Pfingstberg in Potsdam Juli 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/400px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/800px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1200px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1920px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg
 ---
 
 ## Overview

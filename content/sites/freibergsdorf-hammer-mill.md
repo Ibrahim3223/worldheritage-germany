@@ -1,19 +1,49 @@
 ---
-title: "Freibergsdorf Hammer Mill"
+title: Freibergsdorf Hammer Mill
 date: 2026-01-23
 draft: false
-description: "einziger erhaltener Eisenhammer im Freiberger Bergrevier"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: einziger erhaltener Eisenhammer im Freiberger Bergrevier
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9102
 longitude: 13.3269
 images:
-  - "/images-sites/freibergsdorf-hammer-mill/01-6a53f90f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG/1200px-Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Freibergsdorfer_Hammer_Schmiedegebäude.jpg/1200px-Freibergsdorfer_Hammer_Schmiedegebäude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1200px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Freibgdf_Hammer-Führung_Schmiede;06.JPG/1200px-Freibgdf_Hammer-Führung_Schmiede;06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Freibgdf_Hammer-Hammerteich.JPG/1200px-Freibgdf_Hammer-Hammerteich.JPG
+image_srcset:
+  Freibergsdorfer Hammer Hammerabstuetzung LvT.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG/400px-Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG/800px-Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG/1200px-Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG/1920px-Freibergsdorfer_Hammer_Hammerabstuetzung_LvT.JPG
+  Freibergsdorfer Hammer Schmiedegebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Freibergsdorfer_Hammer_Schmiedegebäude.jpg/400px-Freibergsdorfer_Hammer_Schmiedegebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Freibergsdorfer_Hammer_Schmiedegebäude.jpg/800px-Freibergsdorfer_Hammer_Schmiedegebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Freibergsdorfer_Hammer_Schmiedegebäude.jpg/1200px-Freibergsdorfer_Hammer_Schmiedegebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Freibergsdorfer_Hammer_Schmiedegebäude.jpg/1920px-Freibergsdorfer_Hammer_Schmiedegebäude.jpg
+  20181106320MDR Freiberg Freibergsdorfer Hammer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/400px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/800px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1200px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg/1920px-20181106320MDR_Freiberg_Freibergsdorfer_Hammer.jpg
+  Freibgdf Hammer-Führung Schmiede;06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Freibgdf_Hammer-Führung_Schmiede;06.JPG/400px-Freibgdf_Hammer-Führung_Schmiede;06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Freibgdf_Hammer-Führung_Schmiede;06.JPG/800px-Freibgdf_Hammer-Führung_Schmiede;06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Freibgdf_Hammer-Führung_Schmiede;06.JPG/1200px-Freibgdf_Hammer-Führung_Schmiede;06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Freibgdf_Hammer-Führung_Schmiede;06.JPG/1920px-Freibgdf_Hammer-Führung_Schmiede;06.JPG
+  Freibgdf Hammer-Hammerteich.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Freibgdf_Hammer-Hammerteich.JPG/400px-Freibgdf_Hammer-Hammerteich.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Freibgdf_Hammer-Hammerteich.JPG/800px-Freibgdf_Hammer-Hammerteich.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Freibgdf_Hammer-Hammerteich.JPG/1200px-Freibgdf_Hammer-Hammerteich.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Freibgdf_Hammer-Hammerteich.JPG/1920px-Freibgdf_Hammer-Hammerteich.JPG
 ---
 
 ## Overview

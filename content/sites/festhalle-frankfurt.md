@@ -1,19 +1,49 @@
 ---
-title: "Festhalle Frankfurt"
+title: Festhalle Frankfurt
 date: 2026-01-23
 draft: false
-description: "multi-purpose arena located in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose arena located in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.111667
 longitude: 8.650833
 images:
-  - "/images-sites/festhalle-frankfurt/01-019099c4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG/1200px-Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg/1200px-Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG/1200px-Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1200px-Festhalle-ffm005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Festhalle-Frankfurt-am-Main-2.jpg/1200px-Festhalle-Frankfurt-am-Main-2.jpg
+image_srcset:
+  Peter Gabriel Back To Front-Tour Linnea Olsson 29042014.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG/400px-Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG/800px-Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG/1200px-Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG/1920px-Peter_Gabriel_Back_To_Front-Tour_Linnea_Olsson_29042014.JPG
+  Peter Gabriel Back to Front-Tour 05 29042014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg/400px-Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg/800px-Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg/1200px-Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg/1920px-Peter_Gabriel_Back_to_Front-Tour_05_29042014.jpg
+  Peter Gabriel Back To Front-Tour Jennie Abrahamson 29042014.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG/400px-Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG/800px-Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG/1200px-Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG/1920px-Peter_Gabriel_Back_To_Front-Tour_Jennie_Abrahamson_29042014.JPG
+  Festhalle-ffm005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/400px-Festhalle-ffm005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/800px-Festhalle-ffm005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1200px-Festhalle-ffm005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festhalle-ffm005.jpg/1920px-Festhalle-ffm005.jpg
+  Festhalle-Frankfurt-am-Main-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Festhalle-Frankfurt-am-Main-2.jpg/400px-Festhalle-Frankfurt-am-Main-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Festhalle-Frankfurt-am-Main-2.jpg/800px-Festhalle-Frankfurt-am-Main-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Festhalle-Frankfurt-am-Main-2.jpg/1200px-Festhalle-Frankfurt-am-Main-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Festhalle-Frankfurt-am-Main-2.jpg/1920px-Festhalle-Frankfurt-am-Main-2.jpg
 ---
 
 ## Overview

@@ -21,9 +21,9 @@ longitude: 8.05381
 
 # Images
 images:
-  - "/images-sites/waldmannshausen-castle/01-774289dd-800w.webp"
-  - "/images-sites/waldmannshausen-castle/02-947666e4-800w.webp"
-  - "/images-sites/waldmannshausen-castle/03-2e83efb4-800w.webp"
+  - "/images/waldmannshausen-castle/01-774289dd-800w.webp"
+  - "/images/waldmannshausen-castle/02-947666e4-800w.webp"
+  - "/images/waldmannshausen-castle/03-2e83efb4-800w.webp"
 ---
 
 ## Overview

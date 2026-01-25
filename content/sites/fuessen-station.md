@@ -1,19 +1,43 @@
 ---
-title: "Füssen station"
+title: Füssen station
 date: 2026-01-23
 draft: false
-description: "railway station in Füssen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Füssen, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 47.5703
 longitude: 10.6978
 images:
-  - "/images-sites/fuessen-station/01-4c36cef5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fuessen_steam_engine_pre_1900.jpg/1200px-Fuessen_steam_engine_pre_1900.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bahnhof_Füssen.jpg/1200px-Bahnhof_Füssen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnstrecke_Biessenhofen–Füssen_20.JPG/1200px-Bahnstrecke_Biessenhofen–Füssen_20.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnstrecke_Biessenhofen–Füssen_23.JPG/1200px-Bahnstrecke_Biessenhofen–Füssen_23.JPG
+image_srcset:
+  Fuessen steam engine pre 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fuessen_steam_engine_pre_1900.jpg/400px-Fuessen_steam_engine_pre_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fuessen_steam_engine_pre_1900.jpg/800px-Fuessen_steam_engine_pre_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fuessen_steam_engine_pre_1900.jpg/1200px-Fuessen_steam_engine_pre_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fuessen_steam_engine_pre_1900.jpg/1920px-Fuessen_steam_engine_pre_1900.jpg
+  Bahnhof Füssen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bahnhof_Füssen.jpg/400px-Bahnhof_Füssen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bahnhof_Füssen.jpg/800px-Bahnhof_Füssen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bahnhof_Füssen.jpg/1200px-Bahnhof_Füssen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bahnhof_Füssen.jpg/1920px-Bahnhof_Füssen.jpg
+  Bahnstrecke Biessenhofen–Füssen 20.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnstrecke_Biessenhofen–Füssen_20.JPG/400px-Bahnstrecke_Biessenhofen–Füssen_20.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnstrecke_Biessenhofen–Füssen_20.JPG/800px-Bahnstrecke_Biessenhofen–Füssen_20.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnstrecke_Biessenhofen–Füssen_20.JPG/1200px-Bahnstrecke_Biessenhofen–Füssen_20.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bahnstrecke_Biessenhofen–Füssen_20.JPG/1920px-Bahnstrecke_Biessenhofen–Füssen_20.JPG
+  Bahnstrecke Biessenhofen–Füssen 23.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnstrecke_Biessenhofen–Füssen_23.JPG/400px-Bahnstrecke_Biessenhofen–Füssen_23.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnstrecke_Biessenhofen–Füssen_23.JPG/800px-Bahnstrecke_Biessenhofen–Füssen_23.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnstrecke_Biessenhofen–Füssen_23.JPG/1200px-Bahnstrecke_Biessenhofen–Füssen_23.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bahnstrecke_Biessenhofen–Füssen_23.JPG/1920px-Bahnstrecke_Biessenhofen–Füssen_23.JPG
 ---
 
 ## Overview

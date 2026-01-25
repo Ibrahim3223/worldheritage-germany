@@ -1,27 +1,49 @@
 ---
-title: "Castle Sponheim"
+title: Castle Sponheim
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8315
 longitude: 7.71472
-
-# Images
 images:
-  - "/images-sites/castle-sponheim/01-3815b8bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg/1200px-J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bergfried_Burg_Sponheim-04-Plattform.jpg/1200px-Bergfried_Burg_Sponheim-04-Plattform.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Burgruine_Sponheim_4211.jpg/1200px-Burgruine_Sponheim_4211.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG/1200px-Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg/1200px-Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg
+image_srcset:
+  J. C. Scheuren - Ruine der Burg Sponheim bei Kreuznach.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg/400px-J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg/800px-J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg/1200px-J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg/1920px-J._C._Scheuren_-_Ruine_der_Burg_Sponheim_bei_Kreuznach.jpeg
+  Bergfried Burg Sponheim-04-Plattform.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bergfried_Burg_Sponheim-04-Plattform.jpg/400px-Bergfried_Burg_Sponheim-04-Plattform.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bergfried_Burg_Sponheim-04-Plattform.jpg/800px-Bergfried_Burg_Sponheim-04-Plattform.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bergfried_Burg_Sponheim-04-Plattform.jpg/1200px-Bergfried_Burg_Sponheim-04-Plattform.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bergfried_Burg_Sponheim-04-Plattform.jpg/1920px-Bergfried_Burg_Sponheim-04-Plattform.jpg
+  Burgruine Sponheim 4211.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Burgruine_Sponheim_4211.jpg/400px-Burgruine_Sponheim_4211.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Burgruine_Sponheim_4211.jpg/800px-Burgruine_Sponheim_4211.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Burgruine_Sponheim_4211.jpg/1200px-Burgruine_Sponheim_4211.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Burgruine_Sponheim_4211.jpg/1920px-Burgruine_Sponheim_4211.jpg
+  Ruine der Burg Sponheim bei Kreuznach (inproved) JC Scheuren.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG/400px-Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG/800px-Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG/1200px-Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG/1920px-Ruine_der_Burg_Sponheim_bei_Kreuznach_(inproved)_JC_Scheuren.JPG
+  Wohnturm-Bergfried Burgsponheim Informationstafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg/400px-Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg/800px-Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg/1200px-Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg/1920px-Wohnturm-Bergfried_Burgsponheim_Informationstafel.jpg
 ---
 
 ## Overview

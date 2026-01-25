@@ -13,9 +13,9 @@ regions:
 latitude: 50.97503611
 longitude: 10.31991667
 images:
-  - "/images-sites/thueringer-museum-eisenach/01-c8fea7c4-800w.webp"
-  - "/images-sites/thueringer-museum-eisenach/02-2c56f6e0-800w.webp"
-  - "/images-sites/thueringer-museum-eisenach/03-99818c2b-800w.webp"
+  - "/images/thueringer-museum-eisenach/01-c8fea7c4-800w.webp"
+  - "/images/thueringer-museum-eisenach/02-2c56f6e0-800w.webp"
+  - "/images/thueringer-museum-eisenach/03-99818c2b-800w.webp"
 ---
 
 ## Overview

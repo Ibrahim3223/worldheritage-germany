@@ -21,7 +21,7 @@ longitude: 9.965833
 
 # Images
 images:
-  - "/images-sites/plesse-castle/01-dd61d113-800w.webp"
+  - "/images/plesse-castle/01-dd61d113-800w.webp"
 ---
 
 ## Overview

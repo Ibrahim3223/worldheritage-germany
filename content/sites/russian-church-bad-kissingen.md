@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q822667"
 description: "Imagine stepping into a place that evokes the serenity of Eastern Orthodoxy, where the architectural elegance of Byzantine Revival style stands out agai..."
 images:
-  - "/images-sites/russian-church-bad-kissingen/01-c0e9b39a-1920w.webp"
-  - "/images-sites/russian-church-bad-kissingen/02-8f0164ce-1920w.webp"
-  - "/images-sites/russian-church-bad-kissingen/03-05348c8c-1920w.webp"
+  - "/images/russian-church-bad-kissingen/01-c0e9b39a-1920w.webp"
+  - "/images/russian-church-bad-kissingen/02-8f0164ce-1920w.webp"
+  - "/images/russian-church-bad-kissingen/03-05348c8c-1920w.webp"
 ---
 
 ## Overview

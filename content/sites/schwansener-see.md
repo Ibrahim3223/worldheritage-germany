@@ -13,7 +13,7 @@ regions:
 latitude: 54.6081
 longitude: 10.0192
 images:
-  - "/images-sites/schwansener-see/01-a38ddbb2-800w.webp"
+  - "/images/schwansener-see/01-a38ddbb2-800w.webp"
 ---
 
 ## Overview

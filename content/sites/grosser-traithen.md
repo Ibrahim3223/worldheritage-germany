@@ -1,19 +1,49 @@
 ---
-title: "Großer Traithen"
+title: Großer Traithen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.647777777
 longitude: 12.039444444
 images:
-  - "/images-sites/grosser-traithen/01-b6408148-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grosser_Traithen_von_Regau_Oberaudorf-2.jpg/1200px-Grosser_Traithen_von_Regau_Oberaudorf-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg/1200px-Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Großer_traithen_sonnenuntergang.jpg/1200px-Großer_traithen_sonnenuntergang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Traithen_vom_Brünnstein_gesehen.jpg/1200px-Traithen_vom_Brünnstein_gesehen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG/1200px-Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG
+image_srcset:
+  Grosser Traithen von Regau Oberaudorf-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grosser_Traithen_von_Regau_Oberaudorf-2.jpg/400px-Grosser_Traithen_von_Regau_Oberaudorf-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grosser_Traithen_von_Regau_Oberaudorf-2.jpg/800px-Grosser_Traithen_von_Regau_Oberaudorf-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grosser_Traithen_von_Regau_Oberaudorf-2.jpg/1200px-Grosser_Traithen_von_Regau_Oberaudorf-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grosser_Traithen_von_Regau_Oberaudorf-2.jpg/1920px-Grosser_Traithen_von_Regau_Oberaudorf-2.jpg
+  Hechtsee Grosser Traithen Bruennstein Kufstein-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg/400px-Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg/800px-Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg/1200px-Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg/1920px-Hechtsee_Grosser_Traithen_Bruennstein_Kufstein-2.jpg
+  Großer traithen sonnenuntergang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Großer_traithen_sonnenuntergang.jpg/400px-Großer_traithen_sonnenuntergang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Großer_traithen_sonnenuntergang.jpg/800px-Großer_traithen_sonnenuntergang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Großer_traithen_sonnenuntergang.jpg/1200px-Großer_traithen_sonnenuntergang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Großer_traithen_sonnenuntergang.jpg/1920px-Großer_traithen_sonnenuntergang.jpg
+  Traithen vom Brünnstein gesehen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Traithen_vom_Brünnstein_gesehen.jpg/400px-Traithen_vom_Brünnstein_gesehen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Traithen_vom_Brünnstein_gesehen.jpg/800px-Traithen_vom_Brünnstein_gesehen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Traithen_vom_Brünnstein_gesehen.jpg/1200px-Traithen_vom_Brünnstein_gesehen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Traithen_vom_Brünnstein_gesehen.jpg/1920px-Traithen_vom_Brünnstein_gesehen.jpg
+  Sitzbank Kreuzbergalm Kloaschertal IMGP3410.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG/400px-Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG/800px-Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG/1200px-Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG/1920px-Sitzbank_Kreuzbergalm_Kloaschertal_IMGP3410.JPG
 ---
 
 ## Overview

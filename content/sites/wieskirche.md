@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1737916"
 description: "In the heart of Upper Bavaria lies a remarkable church that captures both the spirit of its time and the devotion of its community. Wieskirche, official..."
 images:
-  - "/images-sites/wieskirche/01-03103e75-1920w.webp"
-  - "/images-sites/wieskirche/02-d5c39091-1920w.webp"
-  - "/images-sites/wieskirche/03-35b5797f-1920w.webp"
+  - "/images/wieskirche/01-03103e75-1920w.webp"
+  - "/images/wieskirche/02-d5c39091-1920w.webp"
+  - "/images/wieskirche/03-35b5797f-1920w.webp"
 ---
 
 ## Overview

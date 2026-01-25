@@ -1,19 +1,49 @@
 ---
-title: "Hörnum Lighthouse"
+title: Hörnum Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 54.754078
 longitude: 8.292197
 images:
-  - "/images-sites/hoernum-lighthouse/01-fa220536-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hornum_8577.jpg/1200px-Hornum_8577.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hörnum_Odde_vom_Leuchtturm.jpg/1200px-Hörnum_Odde_vom_Leuchtturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leuchtturm_Sylt-Hörnum.jpg/1200px-Leuchtturm_Sylt-Hörnum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leuchtturm_Hörnum_1969.jpg/1200px-Leuchtturm_Hörnum_1969.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hörnum_Odde_vom_Leuchtturm_2011.jpg/1200px-Hörnum_Odde_vom_Leuchtturm_2011.jpg
+image_srcset:
+  Hornum 8577.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hornum_8577.jpg/400px-Hornum_8577.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hornum_8577.jpg/800px-Hornum_8577.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hornum_8577.jpg/1200px-Hornum_8577.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hornum_8577.jpg/1920px-Hornum_8577.jpg
+  Hörnum Odde vom Leuchtturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hörnum_Odde_vom_Leuchtturm.jpg/400px-Hörnum_Odde_vom_Leuchtturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hörnum_Odde_vom_Leuchtturm.jpg/800px-Hörnum_Odde_vom_Leuchtturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hörnum_Odde_vom_Leuchtturm.jpg/1200px-Hörnum_Odde_vom_Leuchtturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Hörnum_Odde_vom_Leuchtturm.jpg/1920px-Hörnum_Odde_vom_Leuchtturm.jpg
+  Leuchtturm Sylt-Hörnum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leuchtturm_Sylt-Hörnum.jpg/400px-Leuchtturm_Sylt-Hörnum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leuchtturm_Sylt-Hörnum.jpg/800px-Leuchtturm_Sylt-Hörnum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leuchtturm_Sylt-Hörnum.jpg/1200px-Leuchtturm_Sylt-Hörnum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Leuchtturm_Sylt-Hörnum.jpg/1920px-Leuchtturm_Sylt-Hörnum.jpg
+  Leuchtturm Hörnum 1969.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leuchtturm_Hörnum_1969.jpg/400px-Leuchtturm_Hörnum_1969.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leuchtturm_Hörnum_1969.jpg/800px-Leuchtturm_Hörnum_1969.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leuchtturm_Hörnum_1969.jpg/1200px-Leuchtturm_Hörnum_1969.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Leuchtturm_Hörnum_1969.jpg/1920px-Leuchtturm_Hörnum_1969.jpg
+  Hörnum Odde vom Leuchtturm 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hörnum_Odde_vom_Leuchtturm_2011.jpg/400px-Hörnum_Odde_vom_Leuchtturm_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hörnum_Odde_vom_Leuchtturm_2011.jpg/800px-Hörnum_Odde_vom_Leuchtturm_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hörnum_Odde_vom_Leuchtturm_2011.jpg/1200px-Hörnum_Odde_vom_Leuchtturm_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hörnum_Odde_vom_Leuchtturm_2011.jpg/1920px-Hörnum_Odde_vom_Leuchtturm_2011.jpg
 ---
 
 ## Overview

@@ -1,19 +1,44 @@
 ---
-title: "Huguenot Church (Erlangen)"
-site_name: "Huguenot Church (Erlangen)"
-slug: "huguenot-church-erlangen"
-region: "Bavaria"
-
-# Location
+title: Huguenot Church (Erlangen)
+site_name: Huguenot Church (Erlangen)
+slug: huguenot-church-erlangen
+region: Bavaria
 latitude: 49.5963
 longitude: 11.0035
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1634151"
-description: "In the heart of Erlangen, Germany, the Huguenot Church stands as a striking example of baroque architecture, reflecting the rich cultural heritage of Fr..."
+- cultural site
+wikidata_id: Q1634151
+description: In the heart of Erlangen, Germany, the Huguenot Church stands as a striking
+  example of baroque architecture, reflecting the rich cultural heritage of Fr...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1200px-Erlangen-Hugenotten-Kirche-front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/1200px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg/1200px-Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erlangen-Hugenotten-Kirche.jpg/1200px-Erlangen-Hugenotten-Kirche.jpg
+image_srcset:
+  Erlangen-Hugenotten-Kirche-front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/400px-Erlangen-Hugenotten-Kirche-front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/800px-Erlangen-Hugenotten-Kirche-front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1200px-Erlangen-Hugenotten-Kirche-front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erlangen-Hugenotten-Kirche-front.jpg/1920px-Erlangen-Hugenotten-Kirche-front.jpg
+  Erlangen Reformierte Pfarrkirche Luftbild-20230422-RM-164736.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/400px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/800px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/1200px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg/1920px-Erlangen_Reformierte_Pfarrkirche_Luftbild-20230422-RM-164736.jpg
+  Hugenottenkirche (Erlangen).Turm.fw13.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg/400px-Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg/800px-Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg/1200px-Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg/1920px-Hugenottenkirche_(Erlangen).Turm.fw13.ajb.jpg
+  Erlangen-Hugenotten-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erlangen-Hugenotten-Kirche.jpg/400px-Erlangen-Hugenotten-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erlangen-Hugenotten-Kirche.jpg/800px-Erlangen-Hugenotten-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erlangen-Hugenotten-Kirche.jpg/1200px-Erlangen-Hugenotten-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Erlangen-Hugenotten-Kirche.jpg/1920px-Erlangen-Hugenotten-Kirche.jpg
 ---
 
 ## Overview

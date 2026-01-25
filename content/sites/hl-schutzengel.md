@@ -1,19 +1,50 @@
 ---
-title: "Hl. Schutzengel"
-site_name: "Hl. Schutzengel"
-slug: "hl-schutzengel"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Hl. Schutzengel
+site_name: Hl. Schutzengel
+slug: hl-schutzengel
+region: North Rhine-Westphalia
 latitude: 51.464
 longitude: 7.04857
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1621411"
-description: "In the heart of Essen, Germany, the Hl. Schutzengel church stands as a remarkable example of modern ecclesiastical architecture. With its striking brick..."
+- cultural site
+wikidata_id: Q1621411
+description: In the heart of Essen, Germany, the Hl. Schutzengel church stands as
+  a remarkable example of modern ecclesiastical architecture. With its striking brick...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hl.%20Schutzengel%20Essen-Frillendorf.JPG/1200px-Hl.%20Schutzengel%20Essen-Frillendorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kirchplatz_1_Gaukönigshofen_20190712_001.jpg/1200px-Kirchplatz_1_Gaukönigshofen_20190712_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirchplatz_1_Gaukönigshofen_20190712_003.jpg/1200px-Kirchplatz_1_Gaukönigshofen_20190712_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kirchplatz_1_Gaukönigshofen_20190712_007.jpg/1200px-Kirchplatz_1_Gaukönigshofen_20190712_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Schutzengelkirche_Gaukönigshofen_Altar.jpg/1200px-Schutzengelkirche_Gaukönigshofen_Altar.jpg
+image_srcset:
+  Hl.%20Schutzengel%20Essen-Frillendorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hl.%20Schutzengel%20Essen-Frillendorf.JPG/400px-Hl.%20Schutzengel%20Essen-Frillendorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hl.%20Schutzengel%20Essen-Frillendorf.JPG/800px-Hl.%20Schutzengel%20Essen-Frillendorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hl.%20Schutzengel%20Essen-Frillendorf.JPG/1200px-Hl.%20Schutzengel%20Essen-Frillendorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hl.%20Schutzengel%20Essen-Frillendorf.JPG/1920px-Hl.%20Schutzengel%20Essen-Frillendorf.JPG
+  Kirchplatz 1 Gaukönigshofen 20190712 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kirchplatz_1_Gaukönigshofen_20190712_001.jpg/400px-Kirchplatz_1_Gaukönigshofen_20190712_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kirchplatz_1_Gaukönigshofen_20190712_001.jpg/800px-Kirchplatz_1_Gaukönigshofen_20190712_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kirchplatz_1_Gaukönigshofen_20190712_001.jpg/1200px-Kirchplatz_1_Gaukönigshofen_20190712_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kirchplatz_1_Gaukönigshofen_20190712_001.jpg/1920px-Kirchplatz_1_Gaukönigshofen_20190712_001.jpg
+  Kirchplatz 1 Gaukönigshofen 20190712 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirchplatz_1_Gaukönigshofen_20190712_003.jpg/400px-Kirchplatz_1_Gaukönigshofen_20190712_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirchplatz_1_Gaukönigshofen_20190712_003.jpg/800px-Kirchplatz_1_Gaukönigshofen_20190712_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirchplatz_1_Gaukönigshofen_20190712_003.jpg/1200px-Kirchplatz_1_Gaukönigshofen_20190712_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirchplatz_1_Gaukönigshofen_20190712_003.jpg/1920px-Kirchplatz_1_Gaukönigshofen_20190712_003.jpg
+  Kirchplatz 1 Gaukönigshofen 20190712 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kirchplatz_1_Gaukönigshofen_20190712_007.jpg/400px-Kirchplatz_1_Gaukönigshofen_20190712_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kirchplatz_1_Gaukönigshofen_20190712_007.jpg/800px-Kirchplatz_1_Gaukönigshofen_20190712_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kirchplatz_1_Gaukönigshofen_20190712_007.jpg/1200px-Kirchplatz_1_Gaukönigshofen_20190712_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kirchplatz_1_Gaukönigshofen_20190712_007.jpg/1920px-Kirchplatz_1_Gaukönigshofen_20190712_007.jpg
+  Schutzengelkirche Gaukönigshofen Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Schutzengelkirche_Gaukönigshofen_Altar.jpg/400px-Schutzengelkirche_Gaukönigshofen_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Schutzengelkirche_Gaukönigshofen_Altar.jpg/800px-Schutzengelkirche_Gaukönigshofen_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Schutzengelkirche_Gaukönigshofen_Altar.jpg/1200px-Schutzengelkirche_Gaukönigshofen_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Schutzengelkirche_Gaukönigshofen_Altar.jpg/1920px-Schutzengelkirche_Gaukönigshofen_Altar.jpg
 ---
 
 ## Overview

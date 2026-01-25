@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244166"
 description: "The Village Church Bralitz, a remarkable hall church located in Bad Freienwalde, Germany, stands as a significant example of Gothic Revival architecture..."
 images:
-  - "/images-sites/village-church-bralitz/01-cd3719da-1920w.webp"
-  - "/images-sites/village-church-bralitz/02-7f642178-1920w.webp"
-  - "/images-sites/village-church-bralitz/03-2d2b934c-1920w.webp"
+  - "/images/village-church-bralitz/01-cd3719da-1920w.webp"
+  - "/images/village-church-bralitz/02-7f642178-1920w.webp"
+  - "/images/village-church-bralitz/03-2d2b934c-1920w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,50 @@
 ---
-title: "Friedrich Clemens Gerke Tower"
+title: Friedrich Clemens Gerke Tower
 date: 2026-01-24
 draft: false
-description: "230 metre tall telecommunication tower of reinforced concrete in Cuxhaven in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: 230 metre tall telecommunication tower of reinforced concrete in Cuxhaven
+  in Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8563
 longitude: 8.67756
 images:
-  - "/images-sites/friedrich-clemens-gerke-tower/01-06f5d0f0-800w.webp"
-  - "/images-sites/friedrich-clemens-gerke-tower/02-eb30dc5d-800w.webp"
-  - "/images-sites/friedrich-clemens-gerke-tower/03-92ad945c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg/1200px-Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg/1200px-Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg/1200px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg/1200px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg/1200px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg
+image_srcset:
+  Friedrich-Clemens-Gerke-Toorn in Cuxhoben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg/400px-Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg/800px-Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg/1200px-Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg/1920px-Friedrich-Clemens-Gerke-Toorn_in_Cuxhoben.jpg
+  Cuxhaven St. Petri und Gehrketurm von Elbe 22.08.2011 13-52-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg/400px-Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg/800px-Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg/1200px-Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg/1920px-Cuxhaven_St._Petri_und_Gehrketurm_von_Elbe_22.08.2011_13-52-25.jpg
+  13-09-23-Fotoflug-Nordsee-RalfR-N3S 8948.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg/400px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg/800px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg/1200px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg/1920px-13-09-23-Fotoflug-Nordsee-RalfR-N3S_8948.jpg
+  Cuxhaven – Friedrich-Clemens-Gerke-Turm – 2005 by-RaBoe 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg/400px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg/800px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg/1200px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg/1920px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2005_by-RaBoe_01.jpg
+  Cuxhaven – Friedrich-Clemens-Gerke-Turm – 2004 by-RaBoe 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg/400px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg/800px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg/1200px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg/1920px-Cuxhaven_–_Friedrich-Clemens-Gerke-Turm_–_2004_by-RaBoe_01.jpg
 ---
 
 ## Overview

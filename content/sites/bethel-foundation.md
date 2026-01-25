@@ -1,29 +1,43 @@
 ---
-title: "Bethel Foundation"
+title: Bethel Foundation
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.013259
 longitude: 8.522945
-
-# Images
 images:
-  - "/images-sites/bethel-foundation/01-5d0f5371-800w.webp"
-  - "/images-sites/bethel-foundation/02-4a6a6ff1-800w.webp"
-  - "/images-sites/bethel-foundation/03-b06b2e09-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bielefeld-Bethel_Assapheum_2011.jpg/1200px-Bielefeld-Bethel_Assapheum_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bielefeld-Bethel_Sarepta_2011.jpg/1200px-Bielefeld-Bethel_Sarepta_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg/1200px-Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg/1200px-Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg
+image_srcset:
+  Bielefeld-Bethel Assapheum 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bielefeld-Bethel_Assapheum_2011.jpg/400px-Bielefeld-Bethel_Assapheum_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bielefeld-Bethel_Assapheum_2011.jpg/800px-Bielefeld-Bethel_Assapheum_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bielefeld-Bethel_Assapheum_2011.jpg/1200px-Bielefeld-Bethel_Assapheum_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bielefeld-Bethel_Assapheum_2011.jpg/1920px-Bielefeld-Bethel_Assapheum_2011.jpg
+  Bielefeld-Bethel Sarepta 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bielefeld-Bethel_Sarepta_2011.jpg/400px-Bielefeld-Bethel_Sarepta_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bielefeld-Bethel_Sarepta_2011.jpg/800px-Bielefeld-Bethel_Sarepta_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bielefeld-Bethel_Sarepta_2011.jpg/1200px-Bielefeld-Bethel_Sarepta_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bielefeld-Bethel_Sarepta_2011.jpg/1920px-Bielefeld-Bethel_Sarepta_2011.jpg
+  Bielefeld Denkmal Kantensiek 2 Pförtnerhäuschen Bethel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg/400px-Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg/800px-Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg/1200px-Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg/1920px-Bielefeld_Denkmal_Kantensiek_2_Pförtnerhäuschen_Bethel.jpg
+  Bundesarchiv Bild 183-R95855, Bethel, Generalsynode, Gustav Heinemann spricht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg/400px-Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg/800px-Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg/1200px-Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg/1920px-Bundesarchiv_Bild_183-R95855,_Bethel,_Generalsynode,_Gustav_Heinemann_spricht.jpg
 ---
 
 ## Overview

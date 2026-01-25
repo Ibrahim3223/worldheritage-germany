@@ -13,9 +13,9 @@ regions:
 latitude: 53.5359
 longitude: 8.57493
 images:
-  - "/images-sites/leuchtturm-geestemole-nord/01-3acf5ade-800w.webp"
-  - "/images-sites/leuchtturm-geestemole-nord/02-8c71ab8d-800w.webp"
-  - "/images-sites/leuchtturm-geestemole-nord/03-ba03bb56-800w.webp"
+  - "/images/leuchtturm-geestemole-nord/01-3acf5ade-800w.webp"
+  - "/images/leuchtturm-geestemole-nord/02-8c71ab8d-800w.webp"
+  - "/images/leuchtturm-geestemole-nord/03-ba03bb56-800w.webp"
 ---
 
 ## Overview

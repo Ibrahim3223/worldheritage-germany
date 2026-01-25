@@ -1,19 +1,49 @@
 ---
-title: "Berlin Jannowitzbrücke station"
+title: Berlin Jannowitzbrücke station
 date: 2026-01-23
 draft: false
-description: "Berlin S-Bahn and U-Bahn station"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: Berlin S-Bahn and U-Bahn station
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.514822222
 longitude: 13.41795
 images:
-  - "/images-sites/berlin-jannowitzbruecke-station/01-b6e7d5d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg/1200px-20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg/1200px-20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg/1200px-20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg/1200px-Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S-Bahn_Berlin_Jannowitzbruecke_platform.jpg/1200px-S-Bahn_Berlin_Jannowitzbruecke_platform.jpg
+image_srcset:
+  20220806 Bahnhof Berlin Jannowitzbrücke 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg/400px-20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg/800px-20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg/1200px-20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg/1920px-20220806_Bahnhof_Berlin_Jannowitzbrücke_01.jpg
+  20220806 Bahnhof Berlin Jannowitzbrücke 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg/400px-20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg/800px-20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg/1200px-20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg/1920px-20220806_Bahnhof_Berlin_Jannowitzbrücke_02.jpg
+  20220812 Bahnhof Berlin Jannowitzbrücke 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg/400px-20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg/800px-20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg/1200px-20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg/1920px-20220812_Bahnhof_Berlin_Jannowitzbrücke_03.jpg
+  Berlin - S-Bahnhof Jannowitzbruecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg/400px-Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg/800px-Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg/1200px-Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg/1920px-Berlin_-_S-Bahnhof_Jannowitzbruecke.jpg
+  S-Bahn Berlin Jannowitzbruecke platform.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S-Bahn_Berlin_Jannowitzbruecke_platform.jpg/400px-S-Bahn_Berlin_Jannowitzbruecke_platform.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S-Bahn_Berlin_Jannowitzbruecke_platform.jpg/800px-S-Bahn_Berlin_Jannowitzbruecke_platform.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S-Bahn_Berlin_Jannowitzbruecke_platform.jpg/1200px-S-Bahn_Berlin_Jannowitzbruecke_platform.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/S-Bahn_Berlin_Jannowitzbruecke_platform.jpg/1920px-S-Bahn_Berlin_Jannowitzbruecke_platform.jpg
 ---
 
 ## Overview

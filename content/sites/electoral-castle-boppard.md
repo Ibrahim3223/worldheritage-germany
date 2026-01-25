@@ -1,27 +1,49 @@
 ---
-title: "Electoral castle Boppard"
+title: Electoral castle Boppard
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2327
 longitude: 7.59365
-
-# Images
 images:
-  - "/images-sites/electoral-castle-boppard/01-9c534b83-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schlad_-_28_-_Burgplatz.jpg/1200px-Schlad_-_28_-_Burgplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg/1200px-Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boppard_im_Winter,_Kurfürstliche_Burg.jpg/1200px-Boppard_im_Winter,_Kurfürstliche_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg/1200px-Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/1200px-Alte_Burg_Boppard.jpg
+image_srcset:
+  Schlad - 28 - Burgplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schlad_-_28_-_Burgplatz.jpg/400px-Schlad_-_28_-_Burgplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schlad_-_28_-_Burgplatz.jpg/800px-Schlad_-_28_-_Burgplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schlad_-_28_-_Burgplatz.jpg/1200px-Schlad_-_28_-_Burgplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schlad_-_28_-_Burgplatz.jpg/1920px-Schlad_-_28_-_Burgplatz.jpg
+  Alte Kurfürstliche Burg Boppard, Bergfried 3. OG, Wappenzier des Kamins.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg/400px-Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg/800px-Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg/1200px-Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg/1920px-Alte_Kurfürstliche_Burg_Boppard,_Bergfried_3._OG,_Wappenzier_des_Kamins.jpg
+  Boppard im Winter, Kurfürstliche Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boppard_im_Winter,_Kurfürstliche_Burg.jpg/400px-Boppard_im_Winter,_Kurfürstliche_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boppard_im_Winter,_Kurfürstliche_Burg.jpg/800px-Boppard_im_Winter,_Kurfürstliche_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boppard_im_Winter,_Kurfürstliche_Burg.jpg/1200px-Boppard_im_Winter,_Kurfürstliche_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Boppard_im_Winter,_Kurfürstliche_Burg.jpg/1920px-Boppard_im_Winter,_Kurfürstliche_Burg.jpg
+  Alte Kurfürstliche Burg Boppard, an der Rheinallee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg/400px-Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg/800px-Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg/1200px-Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg/1920px-Alte_Kurfürstliche_Burg_Boppard,_an_der_Rheinallee.jpg
+  Alte Burg Boppard.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/400px-Alte_Burg_Boppard.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/800px-Alte_Burg_Boppard.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/1200px-Alte_Burg_Boppard.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Alte_Burg_Boppard.jpg/1920px-Alte_Burg_Boppard.jpg
 ---
 
 ## Overview

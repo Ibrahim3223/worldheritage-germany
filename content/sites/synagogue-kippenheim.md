@@ -13,7 +13,7 @@ regions:
 latitude: 48.2936
 longitude: 7.82515
 images:
-  - "/images-sites/synagogue-kippenheim/01-3ebcb0f1-800w.webp"
+  - "/images/synagogue-kippenheim/01-3ebcb0f1-800w.webp"
 ---
 
 ## Overview

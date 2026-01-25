@@ -13,7 +13,7 @@ regions:
 latitude: 50.1056
 longitude: 8.67889
 images:
-  - "/images-sites/museum-der-weltkulturen/01-d85a50a4-800w.webp"
+  - "/images/museum-der-weltkulturen/01-d85a50a4-800w.webp"
 ---
 
 ## Overview

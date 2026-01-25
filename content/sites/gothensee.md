@@ -1,19 +1,49 @@
 ---
-title: "Gothensee"
+title: Gothensee
 date: 2026-01-23
 draft: false
-description: "lake in Vorpommern-Greifswald District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Vorpommern-Greifswald District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.92739
 longitude: 14.118404
 images:
-  - "/images-sites/gothensee/01-b1bf4c33-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Thurbruch_Kückelsberg_Richtung_Zirchow.jpg/1200px-Thurbruch_Kückelsberg_Richtung_Zirchow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG/1200px-Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gothensee_Südteil_Dammreste.JPG/1200px-Gothensee_Südteil_Dammreste.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothensee_2016-09-01_p.jpg/1200px-Gothensee_2016-09-01_p.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gothensee_auf_Usedom.jpg/1200px-Gothensee_auf_Usedom.jpg
+image_srcset:
+  Thurbruch Kückelsberg Richtung Zirchow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Thurbruch_Kückelsberg_Richtung_Zirchow.jpg/400px-Thurbruch_Kückelsberg_Richtung_Zirchow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Thurbruch_Kückelsberg_Richtung_Zirchow.jpg/800px-Thurbruch_Kückelsberg_Richtung_Zirchow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Thurbruch_Kückelsberg_Richtung_Zirchow.jpg/1200px-Thurbruch_Kückelsberg_Richtung_Zirchow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Thurbruch_Kückelsberg_Richtung_Zirchow.jpg/1920px-Thurbruch_Kückelsberg_Richtung_Zirchow.jpg
+  Gothensee vom Aussichtspunkt Siebenseenblick.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG/400px-Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG/800px-Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG/1200px-Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG/1920px-Gothensee_vom_Aussichtspunkt_Siebenseenblick.JPG
+  Gothensee Südteil Dammreste.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gothensee_Südteil_Dammreste.JPG/400px-Gothensee_Südteil_Dammreste.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gothensee_Südteil_Dammreste.JPG/800px-Gothensee_Südteil_Dammreste.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gothensee_Südteil_Dammreste.JPG/1200px-Gothensee_Südteil_Dammreste.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gothensee_Südteil_Dammreste.JPG/1920px-Gothensee_Südteil_Dammreste.JPG
+  Gothensee 2016-09-01 p.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothensee_2016-09-01_p.jpg/400px-Gothensee_2016-09-01_p.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothensee_2016-09-01_p.jpg/800px-Gothensee_2016-09-01_p.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothensee_2016-09-01_p.jpg/1200px-Gothensee_2016-09-01_p.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gothensee_2016-09-01_p.jpg/1920px-Gothensee_2016-09-01_p.jpg
+  Gothensee auf Usedom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gothensee_auf_Usedom.jpg/400px-Gothensee_auf_Usedom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gothensee_auf_Usedom.jpg/800px-Gothensee_auf_Usedom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gothensee_auf_Usedom.jpg/1200px-Gothensee_auf_Usedom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gothensee_auf_Usedom.jpg/1920px-Gothensee_auf_Usedom.jpg
 ---
 
 ## Overview

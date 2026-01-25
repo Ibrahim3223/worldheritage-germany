@@ -1,29 +1,50 @@
 ---
-title: "Burg Reichenberg"
+title: Burg Reichenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1585
 longitude: 7.75997
-
-# Images
 images:
-  - "/images-sites/burg-reichenberg/01-f56da214-800w.webp"
-  - "/images-sites/burg-reichenberg/02-cba8f1ae-800w.webp"
-  - "/images-sites/burg-reichenberg/03-6e574510-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_reichenberg_03.jpg/1200px-Burg_reichenberg_03.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Ruine Reichenberg bei S. Goarshausen - 991149828129705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg/400px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg/800px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg/1920px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991149828129705501.jpg
+  ? Zentralbibliothek Zürich - Schlosskapelle Ruine Reichenberg b S. Goarshausen links,
+    Schlosskappelle nach Aussen rechts oben, Reichenberg links unten - 991149763069705501.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg/400px-Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg/800px-Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg/1200px-Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg/1920px-Zentralbibliothek_Zürich_-_Schlosskapelle_Ruine_Reichenberg_b_S._Goarshausen_links,_Schlosskappelle_nach_Aussen_rechts_oben,_Reichenberg_links_unten_-_991149763069705501.jpg
+  Zentralbibliothek Zürich - Ruine Reichenberg bei S. Goarshausen - 991097563169705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg/400px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg/800px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg/1920px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_bei_S._Goarshausen_-_991097563169705501.jpg
+  Zentralbibliothek Zürich - Ruine Reichenberg b S. Goarshausen - 991123999829705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg/400px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg/800px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg/1200px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg/1920px-Zentralbibliothek_Zürich_-_Ruine_Reichenberg_b_S._Goarshausen_-_991123999829705501.jpg
+  Burg reichenberg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_reichenberg_03.jpg/400px-Burg_reichenberg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_reichenberg_03.jpg/800px-Burg_reichenberg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_reichenberg_03.jpg/1200px-Burg_reichenberg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_reichenberg_03.jpg/1920px-Burg_reichenberg_03.jpg
 ---
 
 ## Overview

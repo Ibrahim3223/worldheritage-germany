@@ -21,7 +21,7 @@ longitude: 8.767
 
 # Images
 images:
-  - "/images-sites/marburg-castle/01-d0bf2def-800w.webp"
+  - "/images/marburg-castle/01-d0bf2def-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q316973"
 description: "Saint Giles Church, or Aegidienkirche, stands as a striking emblem of Lübecks rich historical tapestry. Founded in 1227, this architectural marvel captu..."
 images:
-  - "/images-sites/saint-giles-church-lubeck/01-693582c7-1920w.webp"
-  - "/images-sites/saint-giles-church-lubeck/02-aa9e1a7a-1920w.webp"
-  - "/images-sites/saint-giles-church-lubeck/03-143a8d85-1920w.webp"
+  - "/images/saint-giles-church-lubeck/01-693582c7-1920w.webp"
+  - "/images/saint-giles-church-lubeck/02-aa9e1a7a-1920w.webp"
+  - "/images/saint-giles-church-lubeck/03-143a8d85-1920w.webp"
 ---
 
 ## Overview

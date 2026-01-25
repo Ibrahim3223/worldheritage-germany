@@ -21,7 +21,7 @@ longitude: 7.3385
 
 # Images
 images:
-  - "/images-sites/maerkisches-museum/01-3238e70c-800w.webp"
+  - "/images/maerkisches-museum/01-3238e70c-800w.webp"
 ---
 
 ## Overview

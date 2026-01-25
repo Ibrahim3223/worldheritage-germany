@@ -13,7 +13,7 @@ regions:
 latitude: 50.425961
 longitude: 10.729943
 images:
-  - "/images-sites/rathaus-hildburghausen/01-bb26cebd-800w.webp"
+  - "/images/rathaus-hildburghausen/01-bb26cebd-800w.webp"
 ---
 
 ## Overview

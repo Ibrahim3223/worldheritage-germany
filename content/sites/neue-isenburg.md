@@ -21,7 +21,7 @@ longitude: 7.031111111
 
 # Images
 images:
-  - "/images-sites/neue-isenburg/01-35d3d8a9-800w.webp"
+  - "/images/neue-isenburg/01-35d3d8a9-800w.webp"
 ---
 
 ## Overview

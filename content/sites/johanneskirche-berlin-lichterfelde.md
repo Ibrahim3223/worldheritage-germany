@@ -1,20 +1,52 @@
 ---
-title: "Johanneskirche (Berlin-Lichterfelde)"
-site_name: "Johanneskirche (Berlin-Lichterfelde)"
-slug: "johanneskirche-berlin-lichterfelde"
-region: "Berlin"
-
-# Location
+title: Johanneskirche (Berlin-Lichterfelde)
+site_name: Johanneskirche (Berlin-Lichterfelde)
+slug: johanneskirche-berlin-lichterfelde
+region: Berlin
 latitude: 52.4368
 longitude: 13.2922
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698821"
-description: "In the heart of Steglitz-Zehlendorf lies the Johanneskirche, a church that reflects a unique blend of architectural beauty and historical significance. ..."
+- church building
+- religious site
+wikidata_id: Q1698821
+description: In the heart of Steglitz-Zehlendorf lies the Johanneskirche, a church
+  that reflects a unique blend of architectural beauty and historical significance.
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Johanneskirche%20%28Berlin-Lichterfelde%29.jpg/1200px-Johanneskirche%20%28Berlin-Lichterfelde%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lichterfelde_Ringstraße_Johanneskirche_2020.jpg/1200px-Lichterfelde_Ringstraße_Johanneskirche_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1200px-Johanneskirche_(Berlin-Lichterfelde).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg/1200px-Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg/1200px-Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg
+image_srcset:
+  Johanneskirche%20%28Berlin-Lichterfelde%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Johanneskirche%20%28Berlin-Lichterfelde%29.jpg/400px-Johanneskirche%20%28Berlin-Lichterfelde%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Johanneskirche%20%28Berlin-Lichterfelde%29.jpg/800px-Johanneskirche%20%28Berlin-Lichterfelde%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Johanneskirche%20%28Berlin-Lichterfelde%29.jpg/1200px-Johanneskirche%20%28Berlin-Lichterfelde%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Johanneskirche%20%28Berlin-Lichterfelde%29.jpg/1920px-Johanneskirche%20%28Berlin-Lichterfelde%29.jpg
+  Lichterfelde Ringstraße Johanneskirche 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lichterfelde_Ringstraße_Johanneskirche_2020.jpg/400px-Lichterfelde_Ringstraße_Johanneskirche_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lichterfelde_Ringstraße_Johanneskirche_2020.jpg/800px-Lichterfelde_Ringstraße_Johanneskirche_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lichterfelde_Ringstraße_Johanneskirche_2020.jpg/1200px-Lichterfelde_Ringstraße_Johanneskirche_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lichterfelde_Ringstraße_Johanneskirche_2020.jpg/1920px-Lichterfelde_Ringstraße_Johanneskirche_2020.jpg
+  Johanneskirche (Berlin-Lichterfelde).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/400px-Johanneskirche_(Berlin-Lichterfelde).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/800px-Johanneskirche_(Berlin-Lichterfelde).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1200px-Johanneskirche_(Berlin-Lichterfelde).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Johanneskirche_(Berlin-Lichterfelde).jpg/1920px-Johanneskirche_(Berlin-Lichterfelde).jpg
+  Orgel der Johanneskirche (Berlin-Lichterfelde) (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg/400px-Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg/800px-Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg/1200px-Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg/1920px-Orgel_der_Johanneskirche_(Berlin-Lichterfelde)_(cropped).jpg
+  Berlin-Lichterfelde - Johanneskirche (St John's Church) - geo.hlipp.de - 34166.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg/400px-Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg/800px-Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg/1200px-Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg/1920px-Berlin-Lichterfelde_-_Johanneskirche_(St_John's_Church)_-_geo.hlipp.de_-_34166.jpg
 ---
 
 ## Overview

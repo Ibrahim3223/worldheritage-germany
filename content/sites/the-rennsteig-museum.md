@@ -13,7 +13,7 @@ regions:
 latitude: 50.5826708
 longitude: 10.9340363
 images:
-  - "/images-sites/the-rennsteig-museum/01-919c59dc-800w.webp"
+  - "/images/the-rennsteig-museum/01-919c59dc-800w.webp"
 ---
 
 ## Overview

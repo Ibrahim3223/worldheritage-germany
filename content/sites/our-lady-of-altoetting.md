@@ -13,7 +13,7 @@ regions:
 latitude: 48.226272
 longitude: 12.676461
 images:
-  - "/images-sites/our-lady-of-altoetting/01-d7d431a6-800w.webp"
+  - "/images/our-lady-of-altoetting/01-d7d431a6-800w.webp"
 ---
 
 ## Overview

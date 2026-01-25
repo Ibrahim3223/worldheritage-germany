@@ -1,27 +1,49 @@
 ---
-title: "Hagen Open-air Museum"
+title: Hagen Open-air Museum
 date: 2026-01-23
 draft: false
-description: "open-air museum in Hagen, North Rhine-Westphalia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: open-air museum in Hagen, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.334722222
 longitude: 7.477222222
-
-# Images
 images:
-  - "/images-sites/hagen-open-air-museum/01-06a93dd7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Westfalenpferd-LWL-Museum-Hagen-2022.jpg/1200px-Westfalenpferd-LWL-Museum-Hagen-2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/1200px-Hagen_Freilichtmuseum_R01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hagen_Freilichtmuseum_R04.jpg/1200px-Hagen_Freilichtmuseum_R04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2023_Papierholländer.jpg/1200px-2023_Papierholländer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freilichtmuseum_Hagen-1.jpg/1200px-Freilichtmuseum_Hagen-1.jpg
+image_srcset:
+  Westfalenpferd-LWL-Museum-Hagen-2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Westfalenpferd-LWL-Museum-Hagen-2022.jpg/400px-Westfalenpferd-LWL-Museum-Hagen-2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Westfalenpferd-LWL-Museum-Hagen-2022.jpg/800px-Westfalenpferd-LWL-Museum-Hagen-2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Westfalenpferd-LWL-Museum-Hagen-2022.jpg/1200px-Westfalenpferd-LWL-Museum-Hagen-2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Westfalenpferd-LWL-Museum-Hagen-2022.jpg/1920px-Westfalenpferd-LWL-Museum-Hagen-2022.jpg
+  Hagen Freilichtmuseum R01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/400px-Hagen_Freilichtmuseum_R01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/800px-Hagen_Freilichtmuseum_R01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/1200px-Hagen_Freilichtmuseum_R01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hagen_Freilichtmuseum_R01.jpg/1920px-Hagen_Freilichtmuseum_R01.jpg
+  Hagen Freilichtmuseum R04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hagen_Freilichtmuseum_R04.jpg/400px-Hagen_Freilichtmuseum_R04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hagen_Freilichtmuseum_R04.jpg/800px-Hagen_Freilichtmuseum_R04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hagen_Freilichtmuseum_R04.jpg/1200px-Hagen_Freilichtmuseum_R04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hagen_Freilichtmuseum_R04.jpg/1920px-Hagen_Freilichtmuseum_R04.jpg
+  2023 Papierholländer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2023_Papierholländer.jpg/400px-2023_Papierholländer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2023_Papierholländer.jpg/800px-2023_Papierholländer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2023_Papierholländer.jpg/1200px-2023_Papierholländer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2023_Papierholländer.jpg/1920px-2023_Papierholländer.jpg
+  Freilichtmuseum Hagen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freilichtmuseum_Hagen-1.jpg/400px-Freilichtmuseum_Hagen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freilichtmuseum_Hagen-1.jpg/800px-Freilichtmuseum_Hagen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freilichtmuseum_Hagen-1.jpg/1200px-Freilichtmuseum_Hagen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freilichtmuseum_Hagen-1.jpg/1920px-Freilichtmuseum_Hagen-1.jpg
 ---
 
 ## Overview

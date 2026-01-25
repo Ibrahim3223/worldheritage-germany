@@ -1,19 +1,49 @@
 ---
-title: "Alter Flugplatz"
+title: Alter Flugplatz
 date: 2026-01-23
 draft: false
-description: "former American military airbase in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: former American military airbase in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1779
 longitude: 8.66018
 images:
-  - "/images-sites/alter-flugplatz/02-24bc1178-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grundschule_Karlsruhe.jpg/1200px-Grundschule_Karlsruhe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG/1200px-NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_12_26_Offenburg_Nordweststadt_01.jpg/1200px-2016_12_26_Offenburg_Nordweststadt_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Locator_map_Nordweststadt_in_Karlsruhe.svg/1200px-Locator_map_Nordweststadt_in_Karlsruhe.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg/1200px-Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg
+image_srcset:
+  Grundschule Karlsruhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grundschule_Karlsruhe.jpg/400px-Grundschule_Karlsruhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grundschule_Karlsruhe.jpg/800px-Grundschule_Karlsruhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grundschule_Karlsruhe.jpg/1200px-Grundschule_Karlsruhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grundschule_Karlsruhe.jpg/1920px-Grundschule_Karlsruhe.jpg
+  NSG Alter Flugplatz Karlsruhe (2014) 14.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG/400px-NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG/800px-NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG/1200px-NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG/1920px-NSG_Alter_Flugplatz_Karlsruhe_(2014)_14.JPG
+  2016 12 26 Offenburg Nordweststadt 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_12_26_Offenburg_Nordweststadt_01.jpg/400px-2016_12_26_Offenburg_Nordweststadt_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_12_26_Offenburg_Nordweststadt_01.jpg/800px-2016_12_26_Offenburg_Nordweststadt_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_12_26_Offenburg_Nordweststadt_01.jpg/1200px-2016_12_26_Offenburg_Nordweststadt_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2016_12_26_Offenburg_Nordweststadt_01.jpg/1920px-2016_12_26_Offenburg_Nordweststadt_01.jpg
+  Locator map Nordweststadt in Karlsruhe.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Locator_map_Nordweststadt_in_Karlsruhe.svg/400px-Locator_map_Nordweststadt_in_Karlsruhe.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Locator_map_Nordweststadt_in_Karlsruhe.svg/800px-Locator_map_Nordweststadt_in_Karlsruhe.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Locator_map_Nordweststadt_in_Karlsruhe.svg/1200px-Locator_map_Nordweststadt_in_Karlsruhe.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Locator_map_Nordweststadt_in_Karlsruhe.svg/1920px-Locator_map_Nordweststadt_in_Karlsruhe.svg.png
+  Friedhof Nordweststadt - geo.hlipp.de - 21658.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg/400px-Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg/800px-Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg/1200px-Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg/1920px-Friedhof_Nordweststadt_-_geo.hlipp.de_-_21658.jpg
 ---
 
 ## Overview

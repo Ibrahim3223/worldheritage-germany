@@ -13,7 +13,7 @@ regions:
 latitude: 51.9612
 longitude: 7.62778
 images:
-  - "/images-sites/townhouse-tower-in-muenster/01-d7450ee4-800w.webp"
+  - "/images/townhouse-tower-in-muenster/01-d7450ee4-800w.webp"
 ---
 
 ## Overview

@@ -21,8 +21,8 @@ longitude: 7.433333333
 
 # Images
 images:
-  - "/images-sites/schloss-monrepos/02-eeeee3dd-800w.webp"
-  - "/images-sites/schloss-monrepos/03-84c0b213-800w.webp"
+  - "/images/schloss-monrepos/02-eeeee3dd-800w.webp"
+  - "/images/schloss-monrepos/03-84c0b213-800w.webp"
 ---
 
 ## Overview

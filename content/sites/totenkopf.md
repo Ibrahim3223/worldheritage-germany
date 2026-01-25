@@ -13,9 +13,9 @@ regions:
 latitude: 48.0808
 longitude: 7.67056
 images:
-  - "/images-sites/totenkopf/01-83d1e611-800w.webp"
-  - "/images-sites/totenkopf/02-5d17c43a-800w.webp"
-  - "/images-sites/totenkopf/03-a5535964-800w.webp"
+  - "/images/totenkopf/01-83d1e611-800w.webp"
+  - "/images/totenkopf/02-5d17c43a-800w.webp"
+  - "/images/totenkopf/03-a5535964-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bieleboh"
+title: Bieleboh
 date: 2026-01-23
 draft: false
-description: "mountain in Upper Lusatia"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in Upper Lusatia
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.080833333
 longitude: 14.521388888
 images:
-  - "/images-sites/bieleboh/01-31c4c47c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussichtsturm_Bieleboh.jpg/1200px-Aussichtsturm_Bieleboh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1200px-Běłobóh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Běłobóh,_Čornobóh.jpg/1200px-Běłobóh,_Čornobóh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg/1200px-25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg/1200px-Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg
+image_srcset:
+  Aussichtsturm Bieleboh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussichtsturm_Bieleboh.jpg/400px-Aussichtsturm_Bieleboh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussichtsturm_Bieleboh.jpg/800px-Aussichtsturm_Bieleboh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussichtsturm_Bieleboh.jpg/1200px-Aussichtsturm_Bieleboh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aussichtsturm_Bieleboh.jpg/1920px-Aussichtsturm_Bieleboh.jpg
+  Běłobóh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/400px-Běłobóh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/800px-Běłobóh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1200px-Běłobóh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Běłobóh.jpg/1920px-Běłobóh.jpg
+  Běłobóh, Čornobóh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Běłobóh,_Čornobóh.jpg/400px-Běłobóh,_Čornobóh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Běłobóh,_Čornobóh.jpg/800px-Běłobóh,_Čornobóh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Běłobóh,_Čornobóh.jpg/1200px-Běłobóh,_Čornobóh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Běłobóh,_Čornobóh.jpg/1920px-Běłobóh,_Čornobóh.jpg
+  25832-Mönchsw. Berg-1932-Blick vom Mönchswalder Berg nach dem Bieleboh-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg/400px-25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg/800px-25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg/1200px-25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg/1920px-25832-Mönchsw._Berg-1932-Blick_vom_Mönchswalder_Berg_nach_dem_Bieleboh-Brück_&_Sohn_Kunstverlag.jpg
+  Fotothek df rp-b 0040049 Beiersdorf. Blick von der Hadermühle auf den Bieleboh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg/400px-Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg/800px-Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg/1200px-Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg/1920px-Fotothek_df_rp-b_0040049_Beiersdorf._Blick_von_der_Hadermühle_auf_den_Bieleboh.jpg
 ---
 
 ## Overview

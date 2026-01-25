@@ -13,7 +13,7 @@ regions:
 latitude: 49.3175
 longitude: 8.43227
 images:
-  - "/images-sites/old-gate/01-baeee44f-800w.webp"
+  - "/images/old-gate/01-baeee44f-800w.webp"
 ---
 
 ## Overview

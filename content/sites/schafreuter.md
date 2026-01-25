@@ -13,9 +13,9 @@ regions:
 latitude: 47.509166666
 longitude: 11.4875
 images:
-  - "/images-sites/schafreuter/01-c45586a8-800w.webp"
-  - "/images-sites/schafreuter/02-00864689-800w.webp"
-  - "/images-sites/schafreuter/03-178f7eae-800w.webp"
+  - "/images/schafreuter/01-c45586a8-800w.webp"
+  - "/images/schafreuter/02-00864689-800w.webp"
+  - "/images/schafreuter/03-178f7eae-800w.webp"
 ---
 
 ## Overview

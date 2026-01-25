@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q321485"
 description: "In the heart of Munich, a striking testament to Protestant architecture emerges: St. Lukas. This Evangelical Lutheran church, founded in 1893, captures ..."
 images:
-  - "/images-sites/st-lukas/01-d9e6e412-1920w.webp"
-  - "/images-sites/st-lukas/02-e58bc49f-1920w.webp"
-  - "/images-sites/st-lukas/03-8c717251-1920w.webp"
+  - "/images/st-lukas/01-d9e6e412-1920w.webp"
+  - "/images/st-lukas/02-e58bc49f-1920w.webp"
+  - "/images/st-lukas/03-8c717251-1920w.webp"
 ---
 
 ## Overview

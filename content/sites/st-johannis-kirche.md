@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2043567"
 description: "The St. Johannis-Kirche, located in the Hamburg-Neuengamme region of Germany, is a remarkable example of Gothic architecture that invites visitors to ex..."
 images:
-  - "/images-sites/st-johannis-kirche/01-2d84a38f-1920w.webp"
-  - "/images-sites/st-johannis-kirche/02-69139c67-1920w.webp"
-  - "/images-sites/st-johannis-kirche/03-c827d2a6-1920w.webp"
+  - "/images/st-johannis-kirche/01-2d84a38f-1920w.webp"
+  - "/images/st-johannis-kirche/02-69139c67-1920w.webp"
+  - "/images/st-johannis-kirche/03-c827d2a6-1920w.webp"
 ---
 
 ## Overview

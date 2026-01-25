@@ -1,19 +1,49 @@
 ---
-title: "Castle Rabenstein"
+title: Castle Rabenstein
 date: 2026-01-23
 draft: false
-description: "castle in Fläming, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Fläming, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.0324
 longitude: 12.5839
 images:
-  - "/images-sites/castle-rabenstein/01-1bbb839e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/1200px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ruine_Rabenstein_von_StMartin.jpg/1200px-Ruine_Rabenstein_von_StMartin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/1200px-Aerial_image_of_the_Castle_Rabenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg/1200px-Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg/1200px-20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg
+image_srcset:
+  Burg-Rabenstein-Ailsbachtal-P1290149.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/400px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/800px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/1200px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/1920px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+  Ruine Rabenstein von StMartin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ruine_Rabenstein_von_StMartin.jpg/400px-Ruine_Rabenstein_von_StMartin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ruine_Rabenstein_von_StMartin.jpg/800px-Ruine_Rabenstein_von_StMartin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ruine_Rabenstein_von_StMartin.jpg/1200px-Ruine_Rabenstein_von_StMartin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ruine_Rabenstein_von_StMartin.jpg/1920px-Ruine_Rabenstein_von_StMartin.jpg
+  Aerial image of the Castle Rabenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/400px-Aerial_image_of_the_Castle_Rabenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/800px-Aerial_image_of_the_Castle_Rabenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/1200px-Aerial_image_of_the_Castle_Rabenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/1920px-Aerial_image_of_the_Castle_Rabenstein.jpg
+  Sankt Paul Burgruine Rabenstein 10052008 28.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg/400px-Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg/800px-Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg/1200px-Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg/1920px-Sankt_Paul_Burgruine_Rabenstein_10052008_28.jpg
+  20030711240DR Raben (Fläming) Burg Rabenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg/400px-20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg/800px-20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg/1200px-20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg/1920px-20030711240DR_Raben_(Fläming)_Burg_Rabenstein.jpg
 ---
 
 ## Overview

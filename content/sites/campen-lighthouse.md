@@ -1,19 +1,49 @@
 ---
-title: "Campen Lighthouse"
+title: Campen Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.40574
 longitude: 7.01562
 images:
-  - "/images-sites/campen-lighthouse/01-92ded3ae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Campener_Leuchtturm,_2010-06_CN-04.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Campener_Leuchtturm,_2010-06_CN-01.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Campener_Leuchtturm,_2010-06_CN-03.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lighthouse_Campen.jpg/1200px-Lighthouse_Campen.jpg
+image_srcset:
+  Campener Leuchtturm, 2010-06 CN-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Campener_Leuchtturm,_2010-06_CN-04.jpg/400px-Campener_Leuchtturm,_2010-06_CN-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Campener_Leuchtturm,_2010-06_CN-04.jpg/800px-Campener_Leuchtturm,_2010-06_CN-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Campener_Leuchtturm,_2010-06_CN-04.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Campener_Leuchtturm,_2010-06_CN-04.jpg/1920px-Campener_Leuchtturm,_2010-06_CN-04.jpg
+  Campener Leuchtturm, 2010-06 CN-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/400px-Campener_Leuchtturm,_2010-06_CN-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/800px-Campener_Leuchtturm,_2010-06_CN-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Campener_Leuchtturm,_2010-06_CN-02.jpg/1920px-Campener_Leuchtturm,_2010-06_CN-02.jpg
+  Campener Leuchtturm, 2010-06 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Campener_Leuchtturm,_2010-06_CN-01.jpg/400px-Campener_Leuchtturm,_2010-06_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Campener_Leuchtturm,_2010-06_CN-01.jpg/800px-Campener_Leuchtturm,_2010-06_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Campener_Leuchtturm,_2010-06_CN-01.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Campener_Leuchtturm,_2010-06_CN-01.jpg/1920px-Campener_Leuchtturm,_2010-06_CN-01.jpg
+  Campener Leuchtturm, 2010-06 CN-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Campener_Leuchtturm,_2010-06_CN-03.jpg/400px-Campener_Leuchtturm,_2010-06_CN-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Campener_Leuchtturm,_2010-06_CN-03.jpg/800px-Campener_Leuchtturm,_2010-06_CN-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Campener_Leuchtturm,_2010-06_CN-03.jpg/1200px-Campener_Leuchtturm,_2010-06_CN-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Campener_Leuchtturm,_2010-06_CN-03.jpg/1920px-Campener_Leuchtturm,_2010-06_CN-03.jpg
+  Lighthouse Campen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lighthouse_Campen.jpg/400px-Lighthouse_Campen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lighthouse_Campen.jpg/800px-Lighthouse_Campen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lighthouse_Campen.jpg/1200px-Lighthouse_Campen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lighthouse_Campen.jpg/1920px-Lighthouse_Campen.jpg
 ---
 
 ## Overview

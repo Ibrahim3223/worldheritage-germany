@@ -13,7 +13,7 @@ regions:
 latitude: 47.867682421
 longitude: 12.010626814
 images:
-  - "/images-sites/schloss-prantseck/01-94e42d2e-800w.webp"
+  - "/images/schloss-prantseck/01-94e42d2e-800w.webp"
 ---
 
 ## Overview

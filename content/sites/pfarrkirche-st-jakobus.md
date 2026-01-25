@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2318939"
 description: "In the heart of Alfter, Germany, the Pfarrkirche St. Jakobus stands as a remarkable example of Romanesque architecture. This Roman Catholic church, desi..."
 images:
-  - "/images-sites/pfarrkirche-st-jakobus/01-e03c1cf2-1920w.webp"
-  - "/images-sites/pfarrkirche-st-jakobus/02-080512d7-1920w.webp"
-  - "/images-sites/pfarrkirche-st-jakobus/03-d4884fc4-1920w.webp"
+  - "/images/pfarrkirche-st-jakobus/01-e03c1cf2-1920w.webp"
+  - "/images/pfarrkirche-st-jakobus/02-080512d7-1920w.webp"
+  - "/images/pfarrkirche-st-jakobus/03-d4884fc4-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Crossen Palace"
+title: Crossen Palace
 date: 2026-01-23
 draft: false
-description: "château"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: château
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 50.97805556
 longitude: 11.97513889
 images:
-  - "/images-sites/crossen-palace/01-377f1a89-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/1200px-050708-CrossenSchloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Schloss_Crossen_Bergfried.JPG/1200px-Schloss_Crossen_Bergfried.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schloss_Crossen_Haupthaus.JPG/1200px-Schloss_Crossen_Haupthaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schloss_Crossen_Nebenbau.JPG/1200px-Schloss_Crossen_Nebenbau.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schloss_Crossen_Westbau.JPG/1200px-Schloss_Crossen_Westbau.JPG
+image_srcset:
+  050708-CrossenSchloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/400px-050708-CrossenSchloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/800px-050708-CrossenSchloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/1200px-050708-CrossenSchloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/050708-CrossenSchloß.jpg/1920px-050708-CrossenSchloß.jpg
+  Schloss Crossen Bergfried.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Schloss_Crossen_Bergfried.JPG/400px-Schloss_Crossen_Bergfried.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Schloss_Crossen_Bergfried.JPG/800px-Schloss_Crossen_Bergfried.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Schloss_Crossen_Bergfried.JPG/1200px-Schloss_Crossen_Bergfried.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Schloss_Crossen_Bergfried.JPG/1920px-Schloss_Crossen_Bergfried.JPG
+  Schloss Crossen Haupthaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schloss_Crossen_Haupthaus.JPG/400px-Schloss_Crossen_Haupthaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schloss_Crossen_Haupthaus.JPG/800px-Schloss_Crossen_Haupthaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schloss_Crossen_Haupthaus.JPG/1200px-Schloss_Crossen_Haupthaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Schloss_Crossen_Haupthaus.JPG/1920px-Schloss_Crossen_Haupthaus.JPG
+  Schloss Crossen Nebenbau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schloss_Crossen_Nebenbau.JPG/400px-Schloss_Crossen_Nebenbau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schloss_Crossen_Nebenbau.JPG/800px-Schloss_Crossen_Nebenbau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schloss_Crossen_Nebenbau.JPG/1200px-Schloss_Crossen_Nebenbau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Schloss_Crossen_Nebenbau.JPG/1920px-Schloss_Crossen_Nebenbau.JPG
+  Schloss Crossen Westbau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schloss_Crossen_Westbau.JPG/400px-Schloss_Crossen_Westbau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schloss_Crossen_Westbau.JPG/800px-Schloss_Crossen_Westbau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schloss_Crossen_Westbau.JPG/1200px-Schloss_Crossen_Westbau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Schloss_Crossen_Westbau.JPG/1920px-Schloss_Crossen_Westbau.JPG
 ---
 
 ## Overview

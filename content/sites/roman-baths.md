@@ -13,8 +13,8 @@ regions:
 latitude: 52.397778
 longitude: 13.028333
 images:
-  - "/images-sites/roman-baths/02-e77ae18f-800w.webp"
-  - "/images-sites/roman-baths/03-49b8ec90-800w.webp"
+  - "/images/roman-baths/02-e77ae18f-800w.webp"
+  - "/images/roman-baths/03-49b8ec90-800w.webp"
 ---
 
 ## Overview

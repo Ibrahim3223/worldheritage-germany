@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Dahlen"
-site_name: "Dorfkirche Dahlen"
-slug: "dorfkirche-dahlen"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Dahlen
+site_name: Dorfkirche Dahlen
+slug: dorfkirche-dahlen
+region: Brandenburg
 latitude: 52.5608
 longitude: 11.8252
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244210"
-description: "Dorfkirche Dahlen stands as a remarkable example of Romanesque architecture in the Stendal region of Germany. This church, constructed from fieldstone, ..."
+- church building
+- religious site
+wikidata_id: Q1244210
+description: Dorfkirche Dahlen stands as a remarkable example of Romanesque architecture
+  in the Stendal region of Germany. This church, constructed from fieldstone, ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlen%20Dorfkirche.jpg/1200px-Dahlen%20Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kirche_Gutshaus_Dahlen_Gräben.jpg/1200px-Kirche_Gutshaus_Dahlen_Gräben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dorfkirche_Dahlen_Glocke_Vorderseite.jpg/1200px-Dorfkirche_Dahlen_Glocke_Vorderseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dorfkirche_Dahlen_Südostansicht.jpg/1200px-Dorfkirche_Dahlen_Südostansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1200px-Dahlen_Dorfkirche.jpg
+image_srcset:
+  Dahlen%20Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlen%20Dorfkirche.jpg/400px-Dahlen%20Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlen%20Dorfkirche.jpg/800px-Dahlen%20Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlen%20Dorfkirche.jpg/1200px-Dahlen%20Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dahlen%20Dorfkirche.jpg/1920px-Dahlen%20Dorfkirche.jpg
+  Kirche Gutshaus Dahlen Gräben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kirche_Gutshaus_Dahlen_Gräben.jpg/400px-Kirche_Gutshaus_Dahlen_Gräben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kirche_Gutshaus_Dahlen_Gräben.jpg/800px-Kirche_Gutshaus_Dahlen_Gräben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kirche_Gutshaus_Dahlen_Gräben.jpg/1200px-Kirche_Gutshaus_Dahlen_Gräben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kirche_Gutshaus_Dahlen_Gräben.jpg/1920px-Kirche_Gutshaus_Dahlen_Gräben.jpg
+  Dorfkirche Dahlen Glocke Vorderseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dorfkirche_Dahlen_Glocke_Vorderseite.jpg/400px-Dorfkirche_Dahlen_Glocke_Vorderseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dorfkirche_Dahlen_Glocke_Vorderseite.jpg/800px-Dorfkirche_Dahlen_Glocke_Vorderseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dorfkirche_Dahlen_Glocke_Vorderseite.jpg/1200px-Dorfkirche_Dahlen_Glocke_Vorderseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Dorfkirche_Dahlen_Glocke_Vorderseite.jpg/1920px-Dorfkirche_Dahlen_Glocke_Vorderseite.jpg
+  Dorfkirche Dahlen Südostansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dorfkirche_Dahlen_Südostansicht.jpg/400px-Dorfkirche_Dahlen_Südostansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dorfkirche_Dahlen_Südostansicht.jpg/800px-Dorfkirche_Dahlen_Südostansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dorfkirche_Dahlen_Südostansicht.jpg/1200px-Dorfkirche_Dahlen_Südostansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dorfkirche_Dahlen_Südostansicht.jpg/1920px-Dorfkirche_Dahlen_Südostansicht.jpg
+  Dahlen Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/400px-Dahlen_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/800px-Dahlen_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1200px-Dahlen_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dahlen_Dorfkirche.jpg/1920px-Dahlen_Dorfkirche.jpg
 ---
 
 ## Overview

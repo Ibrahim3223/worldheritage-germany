@@ -1,27 +1,49 @@
 ---
-title: "Burg Sternberg"
+title: Burg Sternberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.0533
 longitude: 9.04911
-
-# Images
 images:
-  - "/images-sites/burg-sternberg/01-7d3fce2c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Extertal_-_Burg_Sternberg_-_4.jpg/1200px-Extertal_-_Burg_Sternberg_-_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg/1200px-Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Sternberg.jpg/1200px-Burg-Sternberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg/1200px-Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Sternberg_winter.jpg/1200px-Burg_Sternberg_winter.jpg
+image_srcset:
+  Extertal - Burg Sternberg - 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Extertal_-_Burg_Sternberg_-_4.jpg/400px-Extertal_-_Burg_Sternberg_-_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Extertal_-_Burg_Sternberg_-_4.jpg/800px-Extertal_-_Burg_Sternberg_-_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Extertal_-_Burg_Sternberg_-_4.jpg/1200px-Extertal_-_Burg_Sternberg_-_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Extertal_-_Burg_Sternberg_-_4.jpg/1920px-Extertal_-_Burg_Sternberg_-_4.jpg
+  Wernberg Terlach Sternberger Straße 17 Burgruine S-Ansicht 24022021 8728.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg/400px-Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg/800px-Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg/1200px-Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg/1920px-Wernberg_Terlach_Sternberger_Straße_17_Burgruine_S-Ansicht_24022021_8728.jpg
+  Burg-Sternberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Sternberg.jpg/400px-Burg-Sternberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Sternberg.jpg/800px-Burg-Sternberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Sternberg.jpg/1200px-Burg-Sternberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burg-Sternberg.jpg/1920px-Burg-Sternberg.jpg
+  Wernberg Sternberger Straße 17 Burgruine O-Ansicht 21012007 7140.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg/400px-Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg/800px-Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg/1200px-Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg/1920px-Wernberg_Sternberger_Straße_17_Burgruine_O-Ansicht_21012007_7140.jpg
+  Burg Sternberg winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Sternberg_winter.jpg/400px-Burg_Sternberg_winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Sternberg_winter.jpg/800px-Burg_Sternberg_winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Sternberg_winter.jpg/1200px-Burg_Sternberg_winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burg_Sternberg_winter.jpg/1920px-Burg_Sternberg_winter.jpg
 ---
 
 ## Overview

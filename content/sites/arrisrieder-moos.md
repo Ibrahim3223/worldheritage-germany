@@ -1,19 +1,49 @@
 ---
-title: "Arrisrieder Moos"
+title: Arrisrieder Moos
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.749438888
 longitude: 9.879169444
 images:
-  - "/images-sites/arrisrieder-moos/01-b9f0b17a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg/1200px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg/1200px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg/1200px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ein_Grasfrosch_im_Arrisrieder_Moos.jpg/1200px-Ein_Grasfrosch_im_Arrisrieder_Moos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1200px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
+image_srcset:
+  Baden-Wuerttemberg-Arrisrieder Moos-Dirk Becker-005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg/400px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg/800px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg/1200px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg/1920px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-005.jpg
+  Baden-Wuerttemberg-Arrisrieder Moos-Dirk Becker-006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg/400px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg/800px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg/1200px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg/1920px-Baden-Wuerttemberg-Arrisrieder_Moos-Dirk_Becker-006.jpg
+  NSG-BW-RV-4.161Arrisrieder Moos 04.05.12-2NL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg/400px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg/800px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg/1200px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg/1920px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-2NL.jpg
+  Ein Grasfrosch im Arrisrieder Moos.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ein_Grasfrosch_im_Arrisrieder_Moos.jpg/400px-Ein_Grasfrosch_im_Arrisrieder_Moos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ein_Grasfrosch_im_Arrisrieder_Moos.jpg/800px-Ein_Grasfrosch_im_Arrisrieder_Moos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ein_Grasfrosch_im_Arrisrieder_Moos.jpg/1200px-Ein_Grasfrosch_im_Arrisrieder_Moos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ein_Grasfrosch_im_Arrisrieder_Moos.jpg/1920px-Ein_Grasfrosch_im_Arrisrieder_Moos.jpg
+  NSG-BW-RV-4.161Arrisrieder Moos 04.05.12-1NL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/400px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/800px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1200px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg/1920px-NSG-BW-RV-4.161Arrisrieder_Moos_04.05.12-1NL.jpg
 ---
 
 ## Overview

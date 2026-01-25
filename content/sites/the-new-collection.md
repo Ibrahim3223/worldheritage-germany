@@ -13,7 +13,7 @@ regions:
 latitude: 48.146944
 longitude: 11.572222
 images:
-  - "/images-sites/the-new-collection/01-b931d0be-800w.webp"
+  - "/images/the-new-collection/01-b931d0be-800w.webp"
 ---
 
 ## Overview

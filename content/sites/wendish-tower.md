@@ -13,7 +13,7 @@ regions:
 latitude: 51.1819
 longitude: 14.4273
 images:
-  - "/images-sites/wendish-tower/01-bee1fa0c-800w.webp"
+  - "/images/wendish-tower/01-bee1fa0c-800w.webp"
 ---
 
 ## Overview

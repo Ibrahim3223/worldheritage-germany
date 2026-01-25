@@ -1,19 +1,50 @@
 ---
-title: "Bischofsturm"
+title: Bischofsturm
 date: 2026-01-23
 draft: false
-description: "foundation of a circular tower of the 12th Century in the historic city center of Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: foundation of a circular tower of the 12th Century in the historic city
+  center of Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55
 longitude: 9.9975
 images:
-  - "/images-sites/bischofsturm/01-b08d8212-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bischofsturm_brunnen.jpg/1200px-Bischofsturm_brunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1200px-Bischofsturm_wall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bischofsturm2023-3.jpg/1200px-Bischofsturm2023-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bischofsturm_2022.jpg/1200px-Bischofsturm_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bischofsturm_hamburg.JPG/1200px-Bischofsturm_hamburg.JPG
+image_srcset:
+  Bischofsturm brunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bischofsturm_brunnen.jpg/400px-Bischofsturm_brunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bischofsturm_brunnen.jpg/800px-Bischofsturm_brunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bischofsturm_brunnen.jpg/1200px-Bischofsturm_brunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bischofsturm_brunnen.jpg/1920px-Bischofsturm_brunnen.jpg
+  Bischofsturm wall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/400px-Bischofsturm_wall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/800px-Bischofsturm_wall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1200px-Bischofsturm_wall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bischofsturm_wall.jpg/1920px-Bischofsturm_wall.jpg
+  Bischofsturm2023-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bischofsturm2023-3.jpg/400px-Bischofsturm2023-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bischofsturm2023-3.jpg/800px-Bischofsturm2023-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bischofsturm2023-3.jpg/1200px-Bischofsturm2023-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bischofsturm2023-3.jpg/1920px-Bischofsturm2023-3.jpg
+  Bischofsturm 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bischofsturm_2022.jpg/400px-Bischofsturm_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bischofsturm_2022.jpg/800px-Bischofsturm_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bischofsturm_2022.jpg/1200px-Bischofsturm_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bischofsturm_2022.jpg/1920px-Bischofsturm_2022.jpg
+  Bischofsturm hamburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bischofsturm_hamburg.JPG/400px-Bischofsturm_hamburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bischofsturm_hamburg.JPG/800px-Bischofsturm_hamburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bischofsturm_hamburg.JPG/1200px-Bischofsturm_hamburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bischofsturm_hamburg.JPG/1920px-Bischofsturm_hamburg.JPG
 ---
 
 ## Overview

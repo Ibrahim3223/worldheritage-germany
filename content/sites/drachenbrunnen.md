@@ -1,19 +1,49 @@
 ---
-title: "Drachenbrunnen"
+title: Drachenbrunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Berlin-Kreuzberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Berlin-Kreuzberg
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 52.502863888
 longitude: 13.416155555
 images:
-  - "/images-sites/drachenbrunnen/01-ba3756e7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin,_Germany_(April_2016)_-_023.JPG/1200px-Berlin,_Germany_(April_2016)_-_023.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg/1200px-Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IBA-87-Berlin-108-Oranienplatz.jpg/1200px-IBA-87-Berlin-108-Oranienplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg/1200px-Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg/1200px-Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg
+image_srcset:
+  Berlin, Germany (April 2016) - 023.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin,_Germany_(April_2016)_-_023.JPG/400px-Berlin,_Germany_(April_2016)_-_023.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin,_Germany_(April_2016)_-_023.JPG/800px-Berlin,_Germany_(April_2016)_-_023.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin,_Germany_(April_2016)_-_023.JPG/1200px-Berlin,_Germany_(April_2016)_-_023.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Berlin,_Germany_(April_2016)_-_023.JPG/1920px-Berlin,_Germany_(April_2016)_-_023.JPG
+  Brunnen Oranienplatz (Kreuz) Drachenbrunnen&Wiegand Witting&1989.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg/400px-Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg/800px-Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg/1200px-Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg/1920px-Brunnen_Oranienplatz_(Kreuz)_Drachenbrunnen&Wiegand_Witting&1989.jpg
+  IBA-87-Berlin-108-Oranienplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IBA-87-Berlin-108-Oranienplatz.jpg/400px-IBA-87-Berlin-108-Oranienplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IBA-87-Berlin-108-Oranienplatz.jpg/800px-IBA-87-Berlin-108-Oranienplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IBA-87-Berlin-108-Oranienplatz.jpg/1200px-IBA-87-Berlin-108-Oranienplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IBA-87-Berlin-108-Oranienplatz.jpg/1920px-IBA-87-Berlin-108-Oranienplatz.jpg
+  Berlin-kreuzberg drachenbrunnen-oranienplatz 20050512 179.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg/400px-Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg/800px-Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg/1200px-Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg/1920px-Berlin-kreuzberg_drachenbrunnen-oranienplatz_20050512_179.jpg
+  Brunnen in Berlin-Kreuzberg, Drachenbrunnen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg/400px-Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg/800px-Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg/1200px-Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg/1920px-Brunnen_in_Berlin-Kreuzberg,_Drachenbrunnen_1.jpg
 ---
 
 ## Overview

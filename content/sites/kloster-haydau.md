@@ -13,7 +13,7 @@ regions:
 latitude: 51.0662
 longitude: 9.61783
 images:
-  - "/images-sites/kloster-haydau/01-a78dd7c1-800w.webp"
+  - "/images/kloster-haydau/01-a78dd7c1-800w.webp"
 ---
 
 ## Overview

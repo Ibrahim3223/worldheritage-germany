@@ -1,19 +1,49 @@
 ---
-title: "Gut Seestermühe"
+title: Gut Seestermühe
 date: 2026-01-23
 draft: false
-description: "building in Seesermühe, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Seesermühe, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.7074
 longitude: 9.56798
 images:
-  - "/images-sites/gut-seestermuehe/01-667d6418-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Seestermühe_Burggraben_01.JPG/1200px-Gut_Seestermühe_Burggraben_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gut_Seestermühe_Kanalstück_02.jpg/1200px-Gut_Seestermühe_Kanalstück_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gut_Seestermühe_Uhrenhaus_02.jpg/1200px-Gut_Seestermühe_Uhrenhaus_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Seestermühe_Gut.jpg/1200px-Seestermühe_Gut.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1200px-Seestermuehe_Gutshaus.jpg
+image_srcset:
+  Gut Seestermühe Burggraben 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Seestermühe_Burggraben_01.JPG/400px-Gut_Seestermühe_Burggraben_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Seestermühe_Burggraben_01.JPG/800px-Gut_Seestermühe_Burggraben_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Seestermühe_Burggraben_01.JPG/1200px-Gut_Seestermühe_Burggraben_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gut_Seestermühe_Burggraben_01.JPG/1920px-Gut_Seestermühe_Burggraben_01.JPG
+  Gut Seestermühe Kanalstück 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gut_Seestermühe_Kanalstück_02.jpg/400px-Gut_Seestermühe_Kanalstück_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gut_Seestermühe_Kanalstück_02.jpg/800px-Gut_Seestermühe_Kanalstück_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gut_Seestermühe_Kanalstück_02.jpg/1200px-Gut_Seestermühe_Kanalstück_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gut_Seestermühe_Kanalstück_02.jpg/1920px-Gut_Seestermühe_Kanalstück_02.jpg
+  Gut Seestermühe Uhrenhaus 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gut_Seestermühe_Uhrenhaus_02.jpg/400px-Gut_Seestermühe_Uhrenhaus_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gut_Seestermühe_Uhrenhaus_02.jpg/800px-Gut_Seestermühe_Uhrenhaus_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gut_Seestermühe_Uhrenhaus_02.jpg/1200px-Gut_Seestermühe_Uhrenhaus_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gut_Seestermühe_Uhrenhaus_02.jpg/1920px-Gut_Seestermühe_Uhrenhaus_02.jpg
+  Seestermühe Gut.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Seestermühe_Gut.jpg/400px-Seestermühe_Gut.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Seestermühe_Gut.jpg/800px-Seestermühe_Gut.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Seestermühe_Gut.jpg/1200px-Seestermühe_Gut.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Seestermühe_Gut.jpg/1920px-Seestermühe_Gut.jpg
+  Seestermuehe Gutshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/400px-Seestermuehe_Gutshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/800px-Seestermuehe_Gutshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1200px-Seestermuehe_Gutshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seestermuehe_Gutshaus.jpg/1920px-Seestermuehe_Gutshaus.jpg
 ---
 
 ## Overview

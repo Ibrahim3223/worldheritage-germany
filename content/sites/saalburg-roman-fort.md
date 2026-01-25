@@ -21,7 +21,7 @@ longitude: 8.56666
 
 # Images
 images:
-  - "/images-sites/saalburg-roman-fort/01-d6ed1cdd-800w.webp"
+  - "/images/saalburg-roman-fort/01-d6ed1cdd-800w.webp"
 ---
 
 ## Overview

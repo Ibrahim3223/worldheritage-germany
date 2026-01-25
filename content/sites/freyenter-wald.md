@@ -1,20 +1,25 @@
 ---
-title: "Freyenter Wald"
+title: Freyenter Wald
 date: 2026-01-23
 draft: false
-description: "nature reserve in Aachen, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Aachen, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.708055555
 longitude: 6.126388888
 images:
-  - "/images-sites/freyenter-wald/01-bca630f3-800w.webp"
-  - "/images-sites/freyenter-wald/02-2e5023b3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NSG_Freyenter_Wald.jpg/1200px-NSG_Freyenter_Wald.jpg
+image_srcset:
+  NSG Freyenter Wald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NSG_Freyenter_Wald.jpg/400px-NSG_Freyenter_Wald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NSG_Freyenter_Wald.jpg/800px-NSG_Freyenter_Wald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NSG_Freyenter_Wald.jpg/1200px-NSG_Freyenter_Wald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NSG_Freyenter_Wald.jpg/1920px-NSG_Freyenter_Wald.jpg
 ---
 
 ## Overview

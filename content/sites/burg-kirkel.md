@@ -1,28 +1,49 @@
 ---
-title: "Burg Kirkel"
+title: Burg Kirkel
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2831
 longitude: 7.24028
-
-# Images
 images:
-  - "/images-sites/burg-kirkel/02-804db74a-800w.webp"
-  - "/images-sites/burg-kirkel/03-83919c71-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180708_Burg_Kirkel_02.jpg/1200px-20180708_Burg_Kirkel_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210214_Burg_Kirkel.jpg/1200px-20210214_Burg_Kirkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Kirkel.jpg/1200px-Burg_Kirkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/KirkelBurgTreppe.jpg/1200px-KirkelBurgTreppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burgruine_von_Kirkel.jpg/1200px-Burgruine_von_Kirkel.jpg
+image_srcset:
+  20180708 Burg Kirkel 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180708_Burg_Kirkel_02.jpg/400px-20180708_Burg_Kirkel_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180708_Burg_Kirkel_02.jpg/800px-20180708_Burg_Kirkel_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180708_Burg_Kirkel_02.jpg/1200px-20180708_Burg_Kirkel_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20180708_Burg_Kirkel_02.jpg/1920px-20180708_Burg_Kirkel_02.jpg
+  20210214 Burg Kirkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210214_Burg_Kirkel.jpg/400px-20210214_Burg_Kirkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210214_Burg_Kirkel.jpg/800px-20210214_Burg_Kirkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210214_Burg_Kirkel.jpg/1200px-20210214_Burg_Kirkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210214_Burg_Kirkel.jpg/1920px-20210214_Burg_Kirkel.jpg
+  Burg Kirkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Kirkel.jpg/400px-Burg_Kirkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Kirkel.jpg/800px-Burg_Kirkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Kirkel.jpg/1200px-Burg_Kirkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Kirkel.jpg/1920px-Burg_Kirkel.jpg
+  KirkelBurgTreppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/KirkelBurgTreppe.jpg/400px-KirkelBurgTreppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/KirkelBurgTreppe.jpg/800px-KirkelBurgTreppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/KirkelBurgTreppe.jpg/1200px-KirkelBurgTreppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/KirkelBurgTreppe.jpg/1920px-KirkelBurgTreppe.jpg
+  Burgruine von Kirkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burgruine_von_Kirkel.jpg/400px-Burgruine_von_Kirkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burgruine_von_Kirkel.jpg/800px-Burgruine_von_Kirkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burgruine_von_Kirkel.jpg/1200px-Burgruine_von_Kirkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Burgruine_von_Kirkel.jpg/1920px-Burgruine_von_Kirkel.jpg
 ---
 
 ## Overview

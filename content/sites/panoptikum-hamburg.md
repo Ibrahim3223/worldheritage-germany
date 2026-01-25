@@ -13,9 +13,9 @@ regions:
 latitude: 53.54944444
 longitude: 9.9675
 images:
-  - "/images-sites/panoptikum-hamburg/01-47362e51-800w.webp"
-  - "/images-sites/panoptikum-hamburg/02-1787676b-800w.webp"
-  - "/images-sites/panoptikum-hamburg/03-bf9155b6-800w.webp"
+  - "/images/panoptikum-hamburg/01-47362e51-800w.webp"
+  - "/images/panoptikum-hamburg/02-1787676b-800w.webp"
+  - "/images/panoptikum-hamburg/03-bf9155b6-800w.webp"
 ---
 
 ## Overview

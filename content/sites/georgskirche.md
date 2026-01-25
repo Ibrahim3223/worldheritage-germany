@@ -1,24 +1,52 @@
 ---
-title: "Georgskirche"
-site_name: "Georgskirche"
-slug: "georgskirche"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Georgskirche
+site_name: Georgskirche
+slug: georgskirche
+region: Mecklenburg-Vorpommern
 latitude: 53.2787
 longitude: 11.5624
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1509534"
-description: "As you approach Georgskirche, the sight of its striking brick Gothic architecture commands attention. This church, located in Grabow, Germany, offers a ..."
+- church building
+- religious site
+wikidata_id: Q1509534
+description: As you approach Georgskirche, the sight of its striking brick Gothic
+  architecture commands attention. This church, located in Grabow, Germany, offers
+  a ...
 images:
-  - "/images-sites/georgskirche/01-b322c293-1920w.webp"
-  - "/images-sites/georgskirche/02-f8680c1c-1920w.webp"
-  - "/images-sites/georgskirche/03-d0658527-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grabow%20Kirche%202008-04-28%20136.jpg/1200px-Grabow%20Kirche%202008-04-28%20136.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg/1200px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg/1200px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georgskirche_(Zavelstein)_Turm_SO.jpg/1200px-Georgskirche_(Zavelstein)_Turm_SO.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schwieberdingen_Georgskirche_Turm.jpg/1200px-Schwieberdingen_Georgskirche_Turm.jpg
+image_srcset:
+  Grabow%20Kirche%202008-04-28%20136.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grabow%20Kirche%202008-04-28%20136.jpg/400px-Grabow%20Kirche%202008-04-28%20136.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grabow%20Kirche%202008-04-28%20136.jpg/800px-Grabow%20Kirche%202008-04-28%20136.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grabow%20Kirche%202008-04-28%20136.jpg/1200px-Grabow%20Kirche%202008-04-28%20136.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grabow%20Kirche%202008-04-28%20136.jpg/1920px-Grabow%20Kirche%202008-04-28%20136.jpg
+  Bad Teinach-Zavelstein - Zavelstein - Im Städtle + Georgskirche 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg/400px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg/800px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg/1200px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg/1920px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_+_Georgskirche_02_ies.jpg
+  Bad Teinach-Zavelstein - Zavelstein - Im Städtle - Georgskirche 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg/400px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg/800px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg/1200px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg/1920px-Bad_Teinach-Zavelstein_-_Zavelstein_-_Im_Städtle_-_Georgskirche_03_ies.jpg
+  Georgskirche (Zavelstein) Turm SO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georgskirche_(Zavelstein)_Turm_SO.jpg/400px-Georgskirche_(Zavelstein)_Turm_SO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georgskirche_(Zavelstein)_Turm_SO.jpg/800px-Georgskirche_(Zavelstein)_Turm_SO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georgskirche_(Zavelstein)_Turm_SO.jpg/1200px-Georgskirche_(Zavelstein)_Turm_SO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Georgskirche_(Zavelstein)_Turm_SO.jpg/1920px-Georgskirche_(Zavelstein)_Turm_SO.jpg
+  Schwieberdingen Georgskirche Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schwieberdingen_Georgskirche_Turm.jpg/400px-Schwieberdingen_Georgskirche_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schwieberdingen_Georgskirche_Turm.jpg/800px-Schwieberdingen_Georgskirche_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schwieberdingen_Georgskirche_Turm.jpg/1200px-Schwieberdingen_Georgskirche_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schwieberdingen_Georgskirche_Turm.jpg/1920px-Schwieberdingen_Georgskirche_Turm.jpg
 ---
 
 ## Overview

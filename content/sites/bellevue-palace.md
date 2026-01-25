@@ -1,23 +1,50 @@
 ---
-title: "Bellevue Palace"
-site_name: "Bellevue Palace"
-slug: "bellevue-palace"
-region: "Berlin"
-
-# Location
+title: Bellevue Palace
+site_name: Bellevue Palace
+slug: bellevue-palace
+region: Berlin
 latitude: 52.5175
 longitude: 13.353333333333
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q317091"
-description: "The Bellevue Palace, situated in the heart of Berlin, serves as the official residence of the President of the Federal Republic of Germany. Founded in 1..."
+- cultural site
+wikidata_id: Q317091
+description: The Bellevue Palace, situated in the heart of Berlin, serves as the official
+  residence of the President of the Federal Republic of Germany. Founded in 1...
 images:
-  - "/images-sites/bellevue-palace/01-c3a092df-1920w.webp"
-  - "/images-sites/bellevue-palace/02-4bfb04fa-1920w.webp"
-  - "/images-sites/bellevue-palace/03-dbc42f20-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg/1200px-0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlin%20-%20Schloss%20Bellevue2.jpg/1200px-Berlin%20-%20Schloss%20Bellevue2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg/1200px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg/1200px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hotel_Bellevue_Palace.jpg/1200px-Hotel_Bellevue_Palace.jpg
+image_srcset:
+  0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg/400px-0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg/800px-0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg/1200px-0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg/1920px-0%203494%20Berlin%20-%20Schloss%20Bellevue.jpg
+  Berlin%20-%20Schloss%20Bellevue2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlin%20-%20Schloss%20Bellevue2.jpg/400px-Berlin%20-%20Schloss%20Bellevue2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlin%20-%20Schloss%20Bellevue2.jpg/800px-Berlin%20-%20Schloss%20Bellevue2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlin%20-%20Schloss%20Bellevue2.jpg/1200px-Berlin%20-%20Schloss%20Bellevue2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berlin%20-%20Schloss%20Bellevue2.jpg/1920px-Berlin%20-%20Schloss%20Bellevue2.jpg
+  Hotel Bellevue Palace, Bern, Switzerland (Ank Kumar) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg/400px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg/800px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg/1200px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg/1920px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_01.jpg
+  Hotel Bellevue Palace, Bern, Switzerland (Ank Kumar) 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg/400px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg/800px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg/1200px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg/1920px-Hotel_Bellevue_Palace,_Bern,_Switzerland_(Ank_Kumar)_04.jpg
+  Hotel Bellevue Palace.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hotel_Bellevue_Palace.jpg/400px-Hotel_Bellevue_Palace.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hotel_Bellevue_Palace.jpg/800px-Hotel_Bellevue_Palace.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hotel_Bellevue_Palace.jpg/1200px-Hotel_Bellevue_Palace.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hotel_Bellevue_Palace.jpg/1920px-Hotel_Bellevue_Palace.jpg
 ---
 
 ## Overview

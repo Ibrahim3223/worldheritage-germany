@@ -13,7 +13,7 @@ regions:
 latitude: 48.781944444
 longitude: 9.268611111
 images:
-  - "/images-sites/wuerttemberg-mausoleum/01-25edce72-800w.webp"
+  - "/images/wuerttemberg-mausoleum/01-25edce72-800w.webp"
 ---
 
 ## Overview

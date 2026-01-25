@@ -1,19 +1,49 @@
 ---
-title: "Gustav Mahler Museum"
+title: Gustav Mahler Museum
 date: 2026-01-23
 draft: false
-description: "museum in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.551476
 longitude: 9.977276
 images:
-  - "/images-sites/gustav-mahler-museum/01-6e4c9af4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gustav_Mahler-Museum_-_1.JPG/1200px-Gustav_Mahler-Museum_-_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustav_Mahler-Museum_-_2.JPG/1200px-Gustav_Mahler-Museum_-_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav_Mahler-Museum_-_3.JPG/1200px-Gustav_Mahler-Museum_-_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustav_Mahler-Museum_-_4.JPG/1200px-Gustav_Mahler-Museum_-_4.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/1200px-Peterstraße_29_Hamburg_3.JPG
+image_srcset:
+  Gustav Mahler-Museum - 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gustav_Mahler-Museum_-_1.JPG/400px-Gustav_Mahler-Museum_-_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gustav_Mahler-Museum_-_1.JPG/800px-Gustav_Mahler-Museum_-_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gustav_Mahler-Museum_-_1.JPG/1200px-Gustav_Mahler-Museum_-_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gustav_Mahler-Museum_-_1.JPG/1920px-Gustav_Mahler-Museum_-_1.JPG
+  Gustav Mahler-Museum - 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustav_Mahler-Museum_-_2.JPG/400px-Gustav_Mahler-Museum_-_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustav_Mahler-Museum_-_2.JPG/800px-Gustav_Mahler-Museum_-_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustav_Mahler-Museum_-_2.JPG/1200px-Gustav_Mahler-Museum_-_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustav_Mahler-Museum_-_2.JPG/1920px-Gustav_Mahler-Museum_-_2.JPG
+  Gustav Mahler-Museum - 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav_Mahler-Museum_-_3.JPG/400px-Gustav_Mahler-Museum_-_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav_Mahler-Museum_-_3.JPG/800px-Gustav_Mahler-Museum_-_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav_Mahler-Museum_-_3.JPG/1200px-Gustav_Mahler-Museum_-_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav_Mahler-Museum_-_3.JPG/1920px-Gustav_Mahler-Museum_-_3.JPG
+  Gustav Mahler-Museum - 4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustav_Mahler-Museum_-_4.JPG/400px-Gustav_Mahler-Museum_-_4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustav_Mahler-Museum_-_4.JPG/800px-Gustav_Mahler-Museum_-_4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustav_Mahler-Museum_-_4.JPG/1200px-Gustav_Mahler-Museum_-_4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gustav_Mahler-Museum_-_4.JPG/1920px-Gustav_Mahler-Museum_-_4.JPG
+  Peterstraße 29 Hamburg 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/400px-Peterstraße_29_Hamburg_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/800px-Peterstraße_29_Hamburg_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/1200px-Peterstraße_29_Hamburg_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Peterstraße_29_Hamburg_3.JPG/1920px-Peterstraße_29_Hamburg_3.JPG
 ---
 
 ## Overview

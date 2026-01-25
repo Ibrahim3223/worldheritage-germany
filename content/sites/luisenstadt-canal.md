@@ -13,7 +13,7 @@ regions:
 latitude: 52.505833333
 longitude: 13.418611111
 images:
-  - "/images-sites/luisenstadt-canal/01-3a15373a-800w.webp"
+  - "/images/luisenstadt-canal/01-3a15373a-800w.webp"
 ---
 
 ## Overview

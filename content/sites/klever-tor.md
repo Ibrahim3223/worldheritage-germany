@@ -13,7 +13,7 @@ regions:
 latitude: 51.6628
 longitude: 6.44959
 images:
-  - "/images-sites/klever-tor/01-2c5f839c-800w.webp"
+  - "/images/klever-tor/01-2c5f839c-800w.webp"
 ---
 
 ## Overview

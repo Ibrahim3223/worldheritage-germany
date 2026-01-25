@@ -1,27 +1,49 @@
 ---
-title: "Burg Rode"
+title: Burg Rode
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8669
 longitude: 6.09
-
-# Images
 images:
-  - "/images-sites/burg-rode/01-4efd543b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg/1200px-Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Rode_Herzogenrath_2021.jpg/1200px-Burg_Rode_Herzogenrath_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BurgRode_pano7.jpg/1200px-BurgRode_pano7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BurgRode_pano6.jpg/1200px-BurgRode_pano6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BurgRode_von_Rolduc.jpg/1200px-BurgRode_von_Rolduc.jpg
+image_srcset:
+  Wurmtal mit Blick auf Burg Rode - Herzogenrath - Städteregion Aachen - Nordrhein-Westfalen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg/400px-Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg/800px-Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg/1200px-Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg/1920px-Wurmtal_mit_Blick_auf_Burg_Rode_-_Herzogenrath_-_Städteregion_Aachen_-_Nordrhein-Westfalen.jpg
+  Burg Rode Herzogenrath 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Rode_Herzogenrath_2021.jpg/400px-Burg_Rode_Herzogenrath_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Rode_Herzogenrath_2021.jpg/800px-Burg_Rode_Herzogenrath_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Rode_Herzogenrath_2021.jpg/1200px-Burg_Rode_Herzogenrath_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Rode_Herzogenrath_2021.jpg/1920px-Burg_Rode_Herzogenrath_2021.jpg
+  BurgRode pano7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BurgRode_pano7.jpg/400px-BurgRode_pano7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BurgRode_pano7.jpg/800px-BurgRode_pano7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BurgRode_pano7.jpg/1200px-BurgRode_pano7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BurgRode_pano7.jpg/1920px-BurgRode_pano7.jpg
+  BurgRode pano6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BurgRode_pano6.jpg/400px-BurgRode_pano6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BurgRode_pano6.jpg/800px-BurgRode_pano6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BurgRode_pano6.jpg/1200px-BurgRode_pano6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BurgRode_pano6.jpg/1920px-BurgRode_pano6.jpg
+  BurgRode von Rolduc.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BurgRode_von_Rolduc.jpg/400px-BurgRode_von_Rolduc.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BurgRode_von_Rolduc.jpg/800px-BurgRode_von_Rolduc.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BurgRode_von_Rolduc.jpg/1200px-BurgRode_von_Rolduc.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BurgRode_von_Rolduc.jpg/1920px-BurgRode_von_Rolduc.jpg
 ---
 
 ## Overview

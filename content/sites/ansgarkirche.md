@@ -1,24 +1,51 @@
 ---
-title: "Ansgarkirche"
-site_name: "Ansgarkirche"
-slug: "ansgarkirche"
-region: "Hamburg"
-
-# Location
+title: Ansgarkirche
+site_name: Ansgarkirche
+slug: ansgarkirche
+region: Hamburg
 latitude: 53.65238889
 longitude: 10.00838889
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q569748"
-description: "Ansgarkirche is a modern architectural gem located in Hamburg-Nord, Germany. Built in 1930, this church reflects the innovative spirit of its era while ..."
+- church building
+- religious site
+wikidata_id: Q569748
+description: Ansgarkirche is a modern architectural gem located in Hamburg-Nord, Germany.
+  Built in 1930, this church reflects the innovative spirit of its era while ...
 images:
-  - "/images-sites/ansgarkirche/01-21e8f1a0-1920w.webp"
-  - "/images-sites/ansgarkirche/02-0ff286a1-1920w.webp"
-  - "/images-sites/ansgarkirche/03-61dbb4a4-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ansgar%20r%C3%BCckseite.jpg/1200px-Ansgar%20r%C3%BCckseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ansgar_innenraum.jpg/1200px-Ansgar_innenraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/1200px-Ansgar_rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ansgarkirche_2023.jpg/1200px-Ansgarkirche_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ansgar-Kirche_(Hamburg-Langenhorn).jpg/1200px-Ansgar-Kirche_(Hamburg-Langenhorn).jpg
+image_srcset:
+  Ansgar%20r%C3%BCckseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ansgar%20r%C3%BCckseite.jpg/400px-Ansgar%20r%C3%BCckseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ansgar%20r%C3%BCckseite.jpg/800px-Ansgar%20r%C3%BCckseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ansgar%20r%C3%BCckseite.jpg/1200px-Ansgar%20r%C3%BCckseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ansgar%20r%C3%BCckseite.jpg/1920px-Ansgar%20r%C3%BCckseite.jpg
+  Ansgar innenraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ansgar_innenraum.jpg/400px-Ansgar_innenraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ansgar_innenraum.jpg/800px-Ansgar_innenraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ansgar_innenraum.jpg/1200px-Ansgar_innenraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ansgar_innenraum.jpg/1920px-Ansgar_innenraum.jpg
+  Ansgar rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/400px-Ansgar_rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/800px-Ansgar_rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/1200px-Ansgar_rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ansgar_rückseite.jpg/1920px-Ansgar_rückseite.jpg
+  Ansgarkirche 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ansgarkirche_2023.jpg/400px-Ansgarkirche_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ansgarkirche_2023.jpg/800px-Ansgarkirche_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ansgarkirche_2023.jpg/1200px-Ansgarkirche_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ansgarkirche_2023.jpg/1920px-Ansgarkirche_2023.jpg
+  Ansgar-Kirche (Hamburg-Langenhorn).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ansgar-Kirche_(Hamburg-Langenhorn).jpg/400px-Ansgar-Kirche_(Hamburg-Langenhorn).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ansgar-Kirche_(Hamburg-Langenhorn).jpg/800px-Ansgar-Kirche_(Hamburg-Langenhorn).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ansgar-Kirche_(Hamburg-Langenhorn).jpg/1200px-Ansgar-Kirche_(Hamburg-Langenhorn).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ansgar-Kirche_(Hamburg-Langenhorn).jpg/1920px-Ansgar-Kirche_(Hamburg-Langenhorn).jpg
 ---
 
 ## Overview

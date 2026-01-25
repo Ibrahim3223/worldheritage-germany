@@ -1,24 +1,46 @@
 ---
-title: "Blankeneser Kirche"
-site_name: "Blankeneser Kirche"
-slug: "blankeneser-kirche"
-region: "Hamburg"
-
-# Location
+title: Blankeneser Kirche
+site_name: Blankeneser Kirche
+slug: blankeneser-kirche
+region: Hamburg
 latitude: 53.56166667
 longitude: 9.81291667
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q881579"
-description: "In the vibrant district of Altona, Germany, Blankeneser Kirche stands as a striking example of Gothic Revival architecture, drawing visitors with its un..."
+- church building
+- religious site
+wikidata_id: Q881579
+description: In the vibrant district of Altona, Germany, Blankeneser Kirche stands
+  as a striking example of Gothic Revival architecture, drawing visitors with its
+  un...
 images:
-  - "/images-sites/blankeneser-kirche/01-c97e07b6-1920w.webp"
-  - "/images-sites/blankeneser-kirche/02-80a4362d-1920w.webp"
-  - "/images-sites/blankeneser-kirche/03-45e1daa6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1200px-Ensemble-Evangelische-Kirche-Blankenese.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg/1200px-Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg/1200px-Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bk_dachreiter.jpg/1200px-Bk_dachreiter.jpg
+image_srcset:
+  Ensemble-Evangelische-Kirche-Blankenese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/400px-Ensemble-Evangelische-Kirche-Blankenese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/800px-Ensemble-Evangelische-Kirche-Blankenese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1200px-Ensemble-Evangelische-Kirche-Blankenese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ensemble-Evangelische-Kirche-Blankenese.jpg/1920px-Ensemble-Evangelische-Kirche-Blankenese.jpg
+  Blankeneser Kirche (Hamburg-Blankenese).Turm.17399.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg/400px-Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg/800px-Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg/1200px-Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg/1920px-Blankeneser_Kirche_(Hamburg-Blankenese).Turm.17399.ajb.jpg
+  Blankeneser Kirche (Hamburg-Blankenese).Turmspitze.17399.ajb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg/400px-Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg/800px-Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg/1200px-Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg/1920px-Blankeneser_Kirche_(Hamburg-Blankenese).Turmspitze.17399.ajb.jpg
+  Bk dachreiter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bk_dachreiter.jpg/400px-Bk_dachreiter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bk_dachreiter.jpg/800px-Bk_dachreiter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bk_dachreiter.jpg/1200px-Bk_dachreiter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bk_dachreiter.jpg/1920px-Bk_dachreiter.jpg
 ---
 
 ## Overview

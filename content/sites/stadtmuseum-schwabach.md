@@ -13,7 +13,7 @@ regions:
 latitude: 49.336952
 longitude: 11.0183
 images:
-  - "/images-sites/stadtmuseum-schwabach/01-cbc38ff4-800w.webp"
+  - "/images/stadtmuseum-schwabach/01-cbc38ff4-800w.webp"
 ---
 
 ## Overview

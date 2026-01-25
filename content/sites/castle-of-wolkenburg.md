@@ -1,19 +1,49 @@
 ---
-title: "Castle of Wolkenburg"
+title: Castle of Wolkenburg
 date: 2026-01-23
 draft: false
-description: "château"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: château
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9023
 longitude: 12.6738
 images:
-  - "/images-sites/castle-of-wolkenburg/01-c9f4c877-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schloss_Wolkenburg_2021_(4).jpg/1200px-Schloss_Wolkenburg_2021_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schloss_Wolkenburg_2021_(6).jpg/1200px-Schloss_Wolkenburg_2021_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg/1200px-Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schloss_Wolkenburg,_Infotafel.jpg/1200px-Schloss_Wolkenburg,_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/1200px-Schloss_Wolkenburg_01.jpg
+image_srcset:
+  Schloss Wolkenburg 2021 (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schloss_Wolkenburg_2021_(4).jpg/400px-Schloss_Wolkenburg_2021_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schloss_Wolkenburg_2021_(4).jpg/800px-Schloss_Wolkenburg_2021_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schloss_Wolkenburg_2021_(4).jpg/1200px-Schloss_Wolkenburg_2021_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Schloss_Wolkenburg_2021_(4).jpg/1920px-Schloss_Wolkenburg_2021_(4).jpg
+  Schloss Wolkenburg 2021 (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schloss_Wolkenburg_2021_(6).jpg/400px-Schloss_Wolkenburg_2021_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schloss_Wolkenburg_2021_(6).jpg/800px-Schloss_Wolkenburg_2021_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schloss_Wolkenburg_2021_(6).jpg/1200px-Schloss_Wolkenburg_2021_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Schloss_Wolkenburg_2021_(6).jpg/1920px-Schloss_Wolkenburg_2021_(6).jpg
+  Familie von Einsiedel in der Herrschaft Wolkenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg/400px-Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg/800px-Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg/1200px-Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg/1920px-Familie_von_Einsiedel_in_der_Herrschaft_Wolkenburg.jpg
+  Schloss Wolkenburg, Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schloss_Wolkenburg,_Infotafel.jpg/400px-Schloss_Wolkenburg,_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schloss_Wolkenburg,_Infotafel.jpg/800px-Schloss_Wolkenburg,_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schloss_Wolkenburg,_Infotafel.jpg/1200px-Schloss_Wolkenburg,_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Schloss_Wolkenburg,_Infotafel.jpg/1920px-Schloss_Wolkenburg,_Infotafel.jpg
+  Schloss Wolkenburg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/400px-Schloss_Wolkenburg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/800px-Schloss_Wolkenburg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/1200px-Schloss_Wolkenburg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Schloss_Wolkenburg_01.jpg/1920px-Schloss_Wolkenburg_01.jpg
 ---
 
 ## Overview

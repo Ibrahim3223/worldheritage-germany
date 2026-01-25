@@ -21,7 +21,7 @@ longitude: 7.14658
 
 # Images
 images:
-  - "/images-sites/von-der-heydt-museum/01-6e2a215a-800w.webp"
+  - "/images/von-der-heydt-museum/01-6e2a215a-800w.webp"
 ---
 
 ## Overview

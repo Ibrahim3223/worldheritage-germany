@@ -13,7 +13,7 @@ regions:
 latitude: 51.5441
 longitude: 7.11094
 images:
-  - "/images-sites/zoom-erlebniswelt/01-a2fb58fe-800w.webp"
+  - "/images/zoom-erlebniswelt/01-a2fb58fe-800w.webp"
 ---
 
 ## Overview

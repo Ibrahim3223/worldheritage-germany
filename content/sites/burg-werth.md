@@ -1,27 +1,51 @@
 ---
-title: "Burg Werth"
+title: Burg Werth
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.819
 longitude: 6.51184
-
-# Images
 images:
-  - "/images-sites/burg-werth/03-c09cde35-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg/1200px-Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Peter_und_Paul_Burghuegel_Werth1.jpg/1200px-St_Peter_und_Paul_Burghuegel_Werth1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg/1200px-Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Werth_Westfalen_Grundriss_1740.jpg/1200px-Burg_Werth_Westfalen_Grundriss_1740.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Werth_Westfalen_1740.jpg/1200px-Burg_Werth_Westfalen_1740.jpg
+image_srcset:
+  ? Reproduktion aus Buch Dr. Ferdinand Wibel. Ausschnitt "Entwicklungsgeschichte
+    der Burg. Dritte Periode ca. 1200 bis ca. 1325. Fig. 118. Die Burg Werth - LABW
+    - Staatsarchiv Wertheim S-N 70 G 6301.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg/400px-Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg/800px-Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg/1200px-Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg/1920px-Reproduktion_aus_Buch_Dr._Ferdinand_Wibel._Ausschnitt_"Entwicklungsgeschichte_der_Burg._Dritte_Periode_ca._1200_bis_ca._1325._Fig._118._Die_Burg_Werth_-_LABW_-_Staatsarchiv_Wertheim_S-N_70_G_6301.jpg
+  St Peter und Paul Burghuegel Werth1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Peter_und_Paul_Burghuegel_Werth1.jpg/400px-St_Peter_und_Paul_Burghuegel_Werth1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Peter_und_Paul_Burghuegel_Werth1.jpg/800px-St_Peter_und_Paul_Burghuegel_Werth1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Peter_und_Paul_Burghuegel_Werth1.jpg/1200px-St_Peter_und_Paul_Burghuegel_Werth1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Peter_und_Paul_Burghuegel_Werth1.jpg/1920px-St_Peter_und_Paul_Burghuegel_Werth1.jpg
+  Ort Werth Westfalen Wasserkarte 16 Jhd.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg/400px-Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg/800px-Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg/1200px-Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg/1920px-Ort_Werth_Westfalen_Wasserkarte_16_Jhd.jpg
+  Burg Werth Westfalen Grundriss 1740.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Werth_Westfalen_Grundriss_1740.jpg/400px-Burg_Werth_Westfalen_Grundriss_1740.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Werth_Westfalen_Grundriss_1740.jpg/800px-Burg_Werth_Westfalen_Grundriss_1740.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Werth_Westfalen_Grundriss_1740.jpg/1200px-Burg_Werth_Westfalen_Grundriss_1740.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Werth_Westfalen_Grundriss_1740.jpg/1920px-Burg_Werth_Westfalen_Grundriss_1740.jpg
+  Burg Werth Westfalen 1740.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Werth_Westfalen_1740.jpg/400px-Burg_Werth_Westfalen_1740.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Werth_Westfalen_1740.jpg/800px-Burg_Werth_Westfalen_1740.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Werth_Westfalen_1740.jpg/1200px-Burg_Werth_Westfalen_1740.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burg_Werth_Westfalen_1740.jpg/1920px-Burg_Werth_Westfalen_1740.jpg
 ---
 
 ## Overview

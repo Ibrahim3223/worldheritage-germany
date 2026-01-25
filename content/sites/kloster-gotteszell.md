@@ -13,7 +13,7 @@ regions:
 latitude: 48.9638
 longitude: 12.9655
 images:
-  - "/images-sites/kloster-gotteszell/01-4a9da806-800w.webp"
+  - "/images/kloster-gotteszell/01-4a9da806-800w.webp"
 ---
 
 ## Overview

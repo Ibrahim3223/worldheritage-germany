@@ -13,7 +13,7 @@ regions:
 latitude: 48.482222222
 longitude: 9.367777777
 images:
-  - "/images-sites/uracher-wasserfall/01-d6561bf9-800w.webp"
+  - "/images/uracher-wasserfall/01-d6561bf9-800w.webp"
 ---
 
 ## Overview

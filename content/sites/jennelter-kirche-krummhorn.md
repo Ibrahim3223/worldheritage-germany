@@ -1,20 +1,52 @@
 ---
-title: "Jennelter Kirche (Krummhörn)"
-site_name: "Jennelter Kirche (Krummhörn)"
-slug: "jennelter-kirche-krummhorn"
-region: "Lower Saxony"
-
-# Location
+title: Jennelter Kirche (Krummhörn)
+site_name: Jennelter Kirche (Krummhörn)
+slug: jennelter-kirche-krummhorn
+region: Lower Saxony
 latitude: 53.4631
 longitude: 7.13219
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1686907"
-description: "In the quiet village of Jennelt, Germany, the Jennelter Kirche stands as a remarkable example of Romanesque architecture, offering visitors a glimpse in..."
+- church building
+- religious site
+wikidata_id: Q1686907
+description: In the quiet village of Jennelt, Germany, the Jennelter Kirche stands
+  as a remarkable example of Romanesque architecture, offering visitors a glimpse
+  in...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/1200px-ChurchJenneltRef.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Innenraum_Front7.jpg/1200px-Innenraum_Front7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Innenraum_Kirche_Jennelt18.jpg/1200px-Innenraum_Kirche_Jennelt18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Orgel_Jennelt0.jpg/1200px-Orgel_Jennelt0.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/4722710_Jennelt_Orgel.jpg/1200px-4722710_Jennelt_Orgel.jpg
+image_srcset:
+  ChurchJenneltRef.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/400px-ChurchJenneltRef.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/800px-ChurchJenneltRef.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/1200px-ChurchJenneltRef.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChurchJenneltRef.jpg/1920px-ChurchJenneltRef.jpg
+  Innenraum Front7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Innenraum_Front7.jpg/400px-Innenraum_Front7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Innenraum_Front7.jpg/800px-Innenraum_Front7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Innenraum_Front7.jpg/1200px-Innenraum_Front7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Innenraum_Front7.jpg/1920px-Innenraum_Front7.jpg
+  Innenraum Kirche Jennelt18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Innenraum_Kirche_Jennelt18.jpg/400px-Innenraum_Kirche_Jennelt18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Innenraum_Kirche_Jennelt18.jpg/800px-Innenraum_Kirche_Jennelt18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Innenraum_Kirche_Jennelt18.jpg/1200px-Innenraum_Kirche_Jennelt18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Innenraum_Kirche_Jennelt18.jpg/1920px-Innenraum_Kirche_Jennelt18.jpg
+  Orgel Jennelt0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Orgel_Jennelt0.jpg/400px-Orgel_Jennelt0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Orgel_Jennelt0.jpg/800px-Orgel_Jennelt0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Orgel_Jennelt0.jpg/1200px-Orgel_Jennelt0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Orgel_Jennelt0.jpg/1920px-Orgel_Jennelt0.jpg
+  4722710 Jennelt Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/4722710_Jennelt_Orgel.jpg/400px-4722710_Jennelt_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/4722710_Jennelt_Orgel.jpg/800px-4722710_Jennelt_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/4722710_Jennelt_Orgel.jpg/1200px-4722710_Jennelt_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/4722710_Jennelt_Orgel.jpg/1920px-4722710_Jennelt_Orgel.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "German Museum of Technology"
+title: German Museum of Technology
 date: 2026-01-23
 draft: false
-description: "museum in Berlin, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.498611111
 longitude: 13.3775
-
-# Images
 images:
-  - "/images-sites/german-museum-of-technology/01-ae3e7d88-800w.webp"
-  - "/images-sites/german-museum-of-technology/02-0eef0136-800w.webp"
-  - "/images-sites/german-museum-of-technology/03-24054c17-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg/1200px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg/1200px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/03_493_Bf_Bln_Ahb,_Quadriga.jpg/1200px-03_493_Bf_Bln_Ahb,_Quadriga.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1200px-Deutsches_Technikmuseum_Berlin-49410.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg/1200px-Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg
+image_srcset:
+  Deutsches Technikmuseum Berlin mit Rosinenbomber, Luftaufnahme-0029.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg/400px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg/800px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg/1200px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg/1920px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0029.jpg
+  Deutsches Technikmuseum Berlin mit Rosinenbomber, Luftaufnahme-0035.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg/400px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg/800px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg/1200px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg/1920px-Deutsches_Technikmuseum_Berlin_mit_Rosinenbomber,_Luftaufnahme-0035.jpg
+  03 493 Bf Bln Ahb, Quadriga.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/03_493_Bf_Bln_Ahb,_Quadriga.jpg/400px-03_493_Bf_Bln_Ahb,_Quadriga.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/03_493_Bf_Bln_Ahb,_Quadriga.jpg/800px-03_493_Bf_Bln_Ahb,_Quadriga.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/03_493_Bf_Bln_Ahb,_Quadriga.jpg/1200px-03_493_Bf_Bln_Ahb,_Quadriga.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/03_493_Bf_Bln_Ahb,_Quadriga.jpg/1920px-03_493_Bf_Bln_Ahb,_Quadriga.jpg
+  Deutsches Technikmuseum Berlin-49410.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/400px-Deutsches_Technikmuseum_Berlin-49410.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/800px-Deutsches_Technikmuseum_Berlin-49410.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1200px-Deutsches_Technikmuseum_Berlin-49410.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1920px-Deutsches_Technikmuseum_Berlin-49410.jpg
+  Deutsches Technikmuseum Berlin - Einfach für Dich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg/400px-Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg/800px-Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg/1200px-Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg/1920px-Deutsches_Technikmuseum_Berlin_-_Einfach_für_Dich.jpg
 ---
 
 ## Overview

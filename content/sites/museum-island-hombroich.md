@@ -21,9 +21,9 @@ longitude: 6.658745
 
 # Images
 images:
-  - "/images-sites/museum-island-hombroich/01-35d64095-800w.webp"
-  - "/images-sites/museum-island-hombroich/02-7d072dc5-800w.webp"
-  - "/images-sites/museum-island-hombroich/03-60e108f1-800w.webp"
+  - "/images/museum-island-hombroich/01-35d64095-800w.webp"
+  - "/images/museum-island-hombroich/02-7d072dc5-800w.webp"
+  - "/images/museum-island-hombroich/03-60e108f1-800w.webp"
 ---
 
 ## Overview

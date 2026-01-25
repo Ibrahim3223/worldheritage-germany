@@ -1,21 +1,49 @@
 ---
-title: "Hauptmarkt"
+title: Hauptmarkt
 date: 2026-01-23
 draft: false
-description: "public square in Trier, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: public square in Trier, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7567
 longitude: 6.64111
 images:
-  - "/images-sites/hauptmarkt/01-79ccf8e6-800w.webp"
-  - "/images-sites/hauptmarkt/02-2561bb0f-800w.webp"
-  - "/images-sites/hauptmarkt/03-7eea6c67-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20230107_Neues_Rathaus_Nuremberg_02.jpg/1200px-20230107_Neues_Rathaus_Nuremberg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20230107_Hauptmarkt_Nuremberg_HDR.jpg/1200px-20230107_Hauptmarkt_Nuremberg_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20230107_Frauenkirche_Nürnberg_04.jpg/1200px-20230107_Frauenkirche_Nürnberg_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20230107_Neues_Rathaus_Nuremberg_01.jpg/1200px-20230107_Neues_Rathaus_Nuremberg_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nuremberg_Aerial_Hauptmarkt.JPG/1200px-Nuremberg_Aerial_Hauptmarkt.JPG
+image_srcset:
+  20230107 Neues Rathaus Nuremberg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20230107_Neues_Rathaus_Nuremberg_02.jpg/400px-20230107_Neues_Rathaus_Nuremberg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20230107_Neues_Rathaus_Nuremberg_02.jpg/800px-20230107_Neues_Rathaus_Nuremberg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20230107_Neues_Rathaus_Nuremberg_02.jpg/1200px-20230107_Neues_Rathaus_Nuremberg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20230107_Neues_Rathaus_Nuremberg_02.jpg/1920px-20230107_Neues_Rathaus_Nuremberg_02.jpg
+  20230107 Hauptmarkt Nuremberg HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20230107_Hauptmarkt_Nuremberg_HDR.jpg/400px-20230107_Hauptmarkt_Nuremberg_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20230107_Hauptmarkt_Nuremberg_HDR.jpg/800px-20230107_Hauptmarkt_Nuremberg_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20230107_Hauptmarkt_Nuremberg_HDR.jpg/1200px-20230107_Hauptmarkt_Nuremberg_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20230107_Hauptmarkt_Nuremberg_HDR.jpg/1920px-20230107_Hauptmarkt_Nuremberg_HDR.jpg
+  20230107 Frauenkirche Nürnberg 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20230107_Frauenkirche_Nürnberg_04.jpg/400px-20230107_Frauenkirche_Nürnberg_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20230107_Frauenkirche_Nürnberg_04.jpg/800px-20230107_Frauenkirche_Nürnberg_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20230107_Frauenkirche_Nürnberg_04.jpg/1200px-20230107_Frauenkirche_Nürnberg_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/20230107_Frauenkirche_Nürnberg_04.jpg/1920px-20230107_Frauenkirche_Nürnberg_04.jpg
+  20230107 Neues Rathaus Nuremberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20230107_Neues_Rathaus_Nuremberg_01.jpg/400px-20230107_Neues_Rathaus_Nuremberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20230107_Neues_Rathaus_Nuremberg_01.jpg/800px-20230107_Neues_Rathaus_Nuremberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20230107_Neues_Rathaus_Nuremberg_01.jpg/1200px-20230107_Neues_Rathaus_Nuremberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20230107_Neues_Rathaus_Nuremberg_01.jpg/1920px-20230107_Neues_Rathaus_Nuremberg_01.jpg
+  Nuremberg Aerial Hauptmarkt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nuremberg_Aerial_Hauptmarkt.JPG/400px-Nuremberg_Aerial_Hauptmarkt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nuremberg_Aerial_Hauptmarkt.JPG/800px-Nuremberg_Aerial_Hauptmarkt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nuremberg_Aerial_Hauptmarkt.JPG/1200px-Nuremberg_Aerial_Hauptmarkt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nuremberg_Aerial_Hauptmarkt.JPG/1920px-Nuremberg_Aerial_Hauptmarkt.JPG
 ---
 
 ## Overview

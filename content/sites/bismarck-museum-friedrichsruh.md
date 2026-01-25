@@ -1,19 +1,49 @@
 ---
-title: "Bismarck-Museum Friedrichsruh"
+title: Bismarck-Museum Friedrichsruh
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.529008
 longitude: 10.340001
 images:
-  - "/images-sites/bismarck-museum-friedrichsruh/01-ece8bfad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg/1200px-Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1200px-BismarckMuseumFriedrichsruh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsruh-bismarck-museum-altes-landhaus.JPG/1200px-Friedrichsruh-bismarck-museum-altes-landhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SchlägerOvBMuseumFriedrichsruh_(2).jpg/1200px-SchlägerOvBMuseumFriedrichsruh_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Depesche.jpg/1200px-Depesche.jpg
+image_srcset:
+  Arbeitstisch und Stuhl von Otto Fürst von Bismarck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg/400px-Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg/800px-Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg/1200px-Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg/1920px-Arbeitstisch_und_Stuhl_von_Otto_Fürst_von_Bismarck.jpg
+  BismarckMuseumFriedrichsruh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/400px-BismarckMuseumFriedrichsruh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/800px-BismarckMuseumFriedrichsruh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1200px-BismarckMuseumFriedrichsruh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BismarckMuseumFriedrichsruh.jpg/1920px-BismarckMuseumFriedrichsruh.jpg
+  Friedrichsruh-bismarck-museum-altes-landhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsruh-bismarck-museum-altes-landhaus.JPG/400px-Friedrichsruh-bismarck-museum-altes-landhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsruh-bismarck-museum-altes-landhaus.JPG/800px-Friedrichsruh-bismarck-museum-altes-landhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsruh-bismarck-museum-altes-landhaus.JPG/1200px-Friedrichsruh-bismarck-museum-altes-landhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Friedrichsruh-bismarck-museum-altes-landhaus.JPG/1920px-Friedrichsruh-bismarck-museum-altes-landhaus.JPG
+  SchlägerOvBMuseumFriedrichsruh (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SchlägerOvBMuseumFriedrichsruh_(2).jpg/400px-SchlägerOvBMuseumFriedrichsruh_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SchlägerOvBMuseumFriedrichsruh_(2).jpg/800px-SchlägerOvBMuseumFriedrichsruh_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SchlägerOvBMuseumFriedrichsruh_(2).jpg/1200px-SchlägerOvBMuseumFriedrichsruh_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SchlägerOvBMuseumFriedrichsruh_(2).jpg/1920px-SchlägerOvBMuseumFriedrichsruh_(2).jpg
+  Depesche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Depesche.jpg/400px-Depesche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Depesche.jpg/800px-Depesche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Depesche.jpg/1200px-Depesche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Depesche.jpg/1920px-Depesche.jpg
 ---
 
 ## Overview

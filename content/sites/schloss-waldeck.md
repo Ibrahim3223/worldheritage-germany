@@ -21,7 +21,7 @@ longitude: 9.05576
 
 # Images
 images:
-  - "/images-sites/schloss-waldeck/01-bc93aa0b-800w.webp"
+  - "/images/schloss-waldeck/01-bc93aa0b-800w.webp"
 ---
 
 ## Overview

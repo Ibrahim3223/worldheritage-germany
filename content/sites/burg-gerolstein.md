@@ -1,27 +1,49 @@
 ---
-title: "Burg Gerolstein"
+title: Burg Gerolstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2204
 longitude: 6.66694
-
-# Images
 images:
-  - "/images-sites/burg-gerolstein/01-fa2b90fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gerolstein_89.jpg/1200px-Gerolstein_89.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1200px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Gerolstein_004x.jpg/1200px-Burg_Gerolstein_004x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Löwenburg_Gerolstein_Mauer_2012.jpg/1200px-Löwenburg_Gerolstein_Mauer_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Gerolstein_02.jpg/1200px-Burg_Gerolstein_02.jpg
+image_srcset:
+  Gerolstein 89.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gerolstein_89.jpg/400px-Gerolstein_89.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gerolstein_89.jpg/800px-Gerolstein_89.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gerolstein_89.jpg/1200px-Gerolstein_89.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gerolstein_89.jpg/1920px-Gerolstein_89.jpg
+  Löwenburg Gerolstein 2012 Schildmauer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/400px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/800px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1200px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Löwenburg_Gerolstein_2012_Schildmauer.jpg/1920px-Löwenburg_Gerolstein_2012_Schildmauer.jpg
+  Burg Gerolstein 004x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Gerolstein_004x.jpg/400px-Burg_Gerolstein_004x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Gerolstein_004x.jpg/800px-Burg_Gerolstein_004x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Gerolstein_004x.jpg/1200px-Burg_Gerolstein_004x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Burg_Gerolstein_004x.jpg/1920px-Burg_Gerolstein_004x.jpg
+  Löwenburg Gerolstein Mauer 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Löwenburg_Gerolstein_Mauer_2012.jpg/400px-Löwenburg_Gerolstein_Mauer_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Löwenburg_Gerolstein_Mauer_2012.jpg/800px-Löwenburg_Gerolstein_Mauer_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Löwenburg_Gerolstein_Mauer_2012.jpg/1200px-Löwenburg_Gerolstein_Mauer_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Löwenburg_Gerolstein_Mauer_2012.jpg/1920px-Löwenburg_Gerolstein_Mauer_2012.jpg
+  Burg Gerolstein 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Gerolstein_02.jpg/400px-Burg_Gerolstein_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Gerolstein_02.jpg/800px-Burg_Gerolstein_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Gerolstein_02.jpg/1200px-Burg_Gerolstein_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Burg_Gerolstein_02.jpg/1920px-Burg_Gerolstein_02.jpg
 ---
 
 ## Overview

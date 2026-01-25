@@ -1,20 +1,49 @@
 ---
-title: "Großer Garten"
+title: Großer Garten
 date: 2026-01-23
 draft: false
-description: "park in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0375
 longitude: 13.763055555
 images:
-  - "/images-sites/grosser-garten/02-6103d43f-800w.webp"
-  - "/images-sites/grosser-garten/03-fb8ce855-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg/1200px-01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg/1200px-Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg/1200px-20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/1200px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg/1200px-Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg
+image_srcset:
+  01219 Dresden, Großer Garten Weg 2023-06-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg/400px-01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg/800px-01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg/1200px-01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg/1920px-01219_Dresden,_Großer_Garten_Weg_2023-06-10.jpg
+  Luftbildaufnahme des Großen Gartens in Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg/400px-Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg/800px-Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg/1200px-Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg/1920px-Luftbildaufnahme_des_Großen_Gartens_in_Dresden.jpg
+  20090601040DR Dresden Großer Garten Baumgruppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg/400px-20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg/800px-20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg/1200px-20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg/1920px-20090601040DR_Dresden_Großer_Garten_Baumgruppe.jpg
+  Luftaufnahme Dresden 2019-10-31 2 (cropped) Großer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/400px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/800px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/1200px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg/1920px-Luftaufnahme_Dresden_2019-10-31_2_(cropped)_Großer_Garten.jpg
+  Ansicht des Großen Gartens , Kupferstich, um 1789.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg/400px-Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg/800px-Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg/1200px-Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg/1920px-Ansicht_des_Großen_Gartens_,_Kupferstich,_um_1789.jpg
 ---
 
 ## Overview

@@ -1,19 +1,31 @@
 ---
-title: "Baitul Huda Mosque"
+title: Baitul Huda Mosque
 date: 2026-01-23
 draft: false
-description: "mosque in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3328
 longitude: 8.51944
 images:
-  - "/images-sites/baitul-huda-mosque/01-a34ef659-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1200px-Baitul-Huda-Moschee_Usingen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Baitul-Huda-Moschee_Usingen_(cropped).JPG/1200px-Baitul-Huda-Moschee_Usingen_(cropped).JPG
+image_srcset:
+  Baitul-Huda-Moschee Usingen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/400px-Baitul-Huda-Moschee_Usingen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/800px-Baitul-Huda-Moschee_Usingen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1200px-Baitul-Huda-Moschee_Usingen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baitul-Huda-Moschee_Usingen.JPG/1920px-Baitul-Huda-Moschee_Usingen.JPG
+  Baitul-Huda-Moschee Usingen (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Baitul-Huda-Moschee_Usingen_(cropped).JPG/400px-Baitul-Huda-Moschee_Usingen_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Baitul-Huda-Moschee_Usingen_(cropped).JPG/800px-Baitul-Huda-Moschee_Usingen_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Baitul-Huda-Moschee_Usingen_(cropped).JPG/1200px-Baitul-Huda-Moschee_Usingen_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Baitul-Huda-Moschee_Usingen_(cropped).JPG/1920px-Baitul-Huda-Moschee_Usingen_(cropped).JPG
 ---
 
 ## Overview

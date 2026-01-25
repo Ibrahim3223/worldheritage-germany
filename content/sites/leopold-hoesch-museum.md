@@ -21,7 +21,7 @@ longitude: 6.47933
 
 # Images
 images:
-  - "/images-sites/leopold-hoesch-museum/01-726000fd-800w.webp"
+  - "/images/leopold-hoesch-museum/01-726000fd-800w.webp"
 ---
 
 ## Overview

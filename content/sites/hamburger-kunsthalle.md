@@ -1,27 +1,49 @@
 ---
-title: "Hamburger Kunsthalle"
+title: Hamburger Kunsthalle
 date: 2026-01-23
 draft: false
-description: "art museum in Hamburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.555
 longitude: 10.003055555
-
-# Images
 images:
-  - "/images-sites/hamburger-kunsthalle/01-3b5ba626-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aktion_Enfants_Terribles.JPG/1200px-Aktion_Enfants_Terribles.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg/1200px-Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hamburg_(27095609789).jpg/1200px-Hamburg_(27095609789).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1200px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hamburg.Kunsthalle.Kuppel.wmt.jpg/1200px-Hamburg.Kunsthalle.Kuppel.wmt.jpg
+image_srcset:
+  Aktion Enfants Terribles.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aktion_Enfants_Terribles.JPG/400px-Aktion_Enfants_Terribles.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aktion_Enfants_Terribles.JPG/800px-Aktion_Enfants_Terribles.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aktion_Enfants_Terribles.JPG/1200px-Aktion_Enfants_Terribles.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aktion_Enfants_Terribles.JPG/1920px-Aktion_Enfants_Terribles.JPG
+  Musée Kunsthalle à Schwäbisch Hall en Allamagne 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg/400px-Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg/800px-Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg/1200px-Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg/1920px-Musée_Kunsthalle_à_Schwäbisch_Hall_en_Allamagne_02.jpg
+  Hamburg (27095609789).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hamburg_(27095609789).jpg/400px-Hamburg_(27095609789).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hamburg_(27095609789).jpg/800px-Hamburg_(27095609789).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hamburg_(27095609789).jpg/1200px-Hamburg_(27095609789).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hamburg_(27095609789).jpg/1920px-Hamburg_(27095609789).jpg
+  Hamburger-kunsthalle-alter-treppenaufgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/400px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/800px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1200px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hamburger-kunsthalle-alter-treppenaufgang.jpg/1920px-Hamburger-kunsthalle-alter-treppenaufgang.jpg
+  Hamburg.Kunsthalle.Kuppel.wmt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hamburg.Kunsthalle.Kuppel.wmt.jpg/400px-Hamburg.Kunsthalle.Kuppel.wmt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hamburg.Kunsthalle.Kuppel.wmt.jpg/800px-Hamburg.Kunsthalle.Kuppel.wmt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hamburg.Kunsthalle.Kuppel.wmt.jpg/1200px-Hamburg.Kunsthalle.Kuppel.wmt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hamburg.Kunsthalle.Kuppel.wmt.jpg/1920px-Hamburg.Kunsthalle.Kuppel.wmt.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.63549
 longitude: 11.34331
 images:
-  - "/images-sites/saalfeld-fairy-grottoes/01-e7c097fe-800w.webp"
+  - "/images/saalfeld-fairy-grottoes/01-e7c097fe-800w.webp"
 ---
 
 ## Overview

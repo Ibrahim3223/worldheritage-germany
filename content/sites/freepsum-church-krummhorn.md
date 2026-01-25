@@ -1,19 +1,44 @@
 ---
-title: "Freepsum Church (Krummhörn)"
-site_name: "Freepsum Church (Krummhörn)"
-slug: "freepsum-church-krummhorn"
-region: "Lower Saxony"
-
-# Location
+title: Freepsum Church (Krummhörn)
+site_name: Freepsum Church (Krummhörn)
+slug: freepsum-church-krummhorn
+region: Lower Saxony
 latitude: 53.4174
 longitude: 7.13536
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1453606"
-description: "In the tranquil region of Krummhörn, Germany, Freepsum Church stands as a notable example of Romanesque architecture. With its sturdy brick construction..."
+- cultural site
+wikidata_id: Q1453606
+description: In the tranquil region of Krummhörn, Germany, Freepsum Church stands
+  as a notable example of Romanesque architecture. With its sturdy brick construction...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1200px-ChurchFreepsum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Freepsum_sonnenuhr.jpg/1200px-Freepsum_sonnenuhr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Freepsum_Orgel.jpg/1200px-Freepsum_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freepsum_fd_(3).JPG/1200px-Freepsum_fd_(3).JPG
+image_srcset:
+  ChurchFreepsum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/400px-ChurchFreepsum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/800px-ChurchFreepsum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1200px-ChurchFreepsum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ChurchFreepsum.jpg/1920px-ChurchFreepsum.jpg
+  Freepsum sonnenuhr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Freepsum_sonnenuhr.jpg/400px-Freepsum_sonnenuhr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Freepsum_sonnenuhr.jpg/800px-Freepsum_sonnenuhr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Freepsum_sonnenuhr.jpg/1200px-Freepsum_sonnenuhr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Freepsum_sonnenuhr.jpg/1920px-Freepsum_sonnenuhr.jpg
+  Freepsum Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Freepsum_Orgel.jpg/400px-Freepsum_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Freepsum_Orgel.jpg/800px-Freepsum_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Freepsum_Orgel.jpg/1200px-Freepsum_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Freepsum_Orgel.jpg/1920px-Freepsum_Orgel.jpg
+  Freepsum fd (3).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freepsum_fd_(3).JPG/400px-Freepsum_fd_(3).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freepsum_fd_(3).JPG/800px-Freepsum_fd_(3).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freepsum_fd_(3).JPG/1200px-Freepsum_fd_(3).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Freepsum_fd_(3).JPG/1920px-Freepsum_fd_(3).JPG
 ---
 
 ## Overview

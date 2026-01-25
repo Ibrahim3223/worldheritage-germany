@@ -13,7 +13,7 @@ regions:
 latitude: 51.0598
 longitude: 13.7561
 images:
-  - "/images-sites/rosengarten-dresden/01-2ac7358e-800w.webp"
+  - "/images/rosengarten-dresden/01-2ac7358e-800w.webp"
 ---
 
 ## Overview

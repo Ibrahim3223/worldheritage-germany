@@ -1,27 +1,49 @@
 ---
-title: "Herzoglich Bayerisches Brauhaus Tegernsee"
+title: Herzoglich Bayerisches Brauhaus Tegernsee
 date: 2026-01-23
 draft: false
-description: "bayerische Brauerei"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: bayerische Brauerei
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.708333333
 longitude: 11.756666666
-
-# Images
 images:
-  - "/images-sites/herzoglich-bayerisches-brauhaus-tegernsee/01-cc5f62c1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Herzogliches_Bräustüberl_Tegernsee_interior.jpg/1200px-Herzogliches_Bräustüberl_Tegernsee_interior.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg/1200px-Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg/1200px-Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg/1200px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg/1200px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg
+image_srcset:
+  Herzogliches Bräustüberl Tegernsee interior.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Herzogliches_Bräustüberl_Tegernsee_interior.jpg/400px-Herzogliches_Bräustüberl_Tegernsee_interior.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Herzogliches_Bräustüberl_Tegernsee_interior.jpg/800px-Herzogliches_Bräustüberl_Tegernsee_interior.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Herzogliches_Bräustüberl_Tegernsee_interior.jpg/1200px-Herzogliches_Bräustüberl_Tegernsee_interior.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Herzogliches_Bräustüberl_Tegernsee_interior.jpg/1920px-Herzogliches_Bräustüberl_Tegernsee_interior.jpg
+  Halensee Nestorstraße Die Kleine Weltlaterne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg/400px-Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg/800px-Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg/1200px-Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg/1920px-Halensee_Nestorstraße_Die_Kleine_Weltlaterne.jpg
+  Max I. Joseph (Herzoglich Bayerisches Brauhaus Tegernsee).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg/400px-Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg/800px-Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg/1200px-Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg/1920px-Max_I._Joseph_(Herzoglich_Bayerisches_Brauhaus_Tegernsee).jpg
+  Herzoglich Bayerisches Brauhaus Tegernsee - Tergernsee Spezial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg/400px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg/800px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg/1200px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg/1920px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial.jpg
+  Herzoglich Bayerisches Brauhaus Tegernsee - Tergernsee Spezial, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg/400px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg/800px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg/1200px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg/1920px-Herzoglich_Bayerisches_Brauhaus_Tegernsee_-_Tergernsee_Spezial,_2019.jpg
 ---
 
 ## Overview

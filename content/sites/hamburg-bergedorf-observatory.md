@@ -1,19 +1,49 @@
 ---
-title: "Hamburg-Bergedorf Observatory"
+title: Hamburg-Bergedorf Observatory
 date: 2026-01-23
 draft: false
-description: "astronomical observatory"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: astronomical observatory
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.48043889
 longitude: 10.24101667
 images:
-  - "/images-sites/hamburg-bergedorf-observatory/01-20f5fd3a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Main_building_at_Hamburg_Obsrevatory_02.jpg/1200px-Main_building_at_Hamburg_Obsrevatory_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG/1200px-Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg/1200px-Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bdstern_0.jpg/1200px-Bdstern_0.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/1200px-Bdstern_1.jpg
+image_srcset:
+  Main building at Hamburg Obsrevatory 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Main_building_at_Hamburg_Obsrevatory_02.jpg/400px-Main_building_at_Hamburg_Obsrevatory_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Main_building_at_Hamburg_Obsrevatory_02.jpg/800px-Main_building_at_Hamburg_Obsrevatory_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Main_building_at_Hamburg_Obsrevatory_02.jpg/1200px-Main_building_at_Hamburg_Obsrevatory_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Main_building_at_Hamburg_Obsrevatory_02.jpg/1920px-Main_building_at_Hamburg_Obsrevatory_02.jpg
+  Lippert-Teleskop, Sternwarte Bergedorf in Hamburg (3).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG/400px-Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG/800px-Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG/1200px-Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG/1920px-Lippert-Teleskop,_Sternwarte_Bergedorf_in_Hamburg_(3).JPG
+  Sternwarte Hamburg-Bergedorf - panoramio (2258).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg/400px-Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg/800px-Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg/1200px-Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg/1920px-Sternwarte_Hamburg-Bergedorf_-_panoramio_(2258).jpg
+  Bdstern 0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bdstern_0.jpg/400px-Bdstern_0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bdstern_0.jpg/800px-Bdstern_0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bdstern_0.jpg/1200px-Bdstern_0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bdstern_0.jpg/1920px-Bdstern_0.jpg
+  Bdstern 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/400px-Bdstern_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/800px-Bdstern_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/1200px-Bdstern_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bdstern_1.jpg/1920px-Bdstern_1.jpg
 ---
 
 ## Overview

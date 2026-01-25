@@ -1,19 +1,49 @@
 ---
-title: "Englischer Garten"
+title: Englischer Garten
 date: 2026-01-23
 draft: false
-description: "a large public park in the centre of Munich"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: a large public park in the centre of Munich
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.152777777
 longitude: 11.591944444
 images:
-  - "/images-sites/englischer-garten/01-9ac9d144-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Englischer_Garten_Winter_Muenchen-4.jpg/1200px-Englischer_Garten_Winter_Muenchen-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg/1200px-Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/November_2007,_Englischer_Garten_2.jpg/1200px-November_2007,_Englischer_Garten_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Englischer_Garten_from_Monopteros.JPG/1200px-Englischer_Garten_from_Monopteros.JPG
+image_srcset:
+  Aerial image of Englischer Garten in Munich (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/400px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/800px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Englischer_Garten_in_Munich_(view_from_the_southwest).jpg
+  Englischer Garten Winter Muenchen-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Englischer_Garten_Winter_Muenchen-4.jpg/400px-Englischer_Garten_Winter_Muenchen-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Englischer_Garten_Winter_Muenchen-4.jpg/800px-Englischer_Garten_Winter_Muenchen-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Englischer_Garten_Winter_Muenchen-4.jpg/1200px-Englischer_Garten_Winter_Muenchen-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Englischer_Garten_Winter_Muenchen-4.jpg/1920px-Englischer_Garten_Winter_Muenchen-4.jpg
+  Isarring Brücke über Eisbach Englischer Garten München Obdachloser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg/400px-Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg/800px-Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg/1200px-Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg/1920px-Isarring_Brücke_über_Eisbach_Englischer_Garten_München_Obdachloser.jpg
+  November 2007, Englischer Garten 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/November_2007,_Englischer_Garten_2.jpg/400px-November_2007,_Englischer_Garten_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/November_2007,_Englischer_Garten_2.jpg/800px-November_2007,_Englischer_Garten_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/November_2007,_Englischer_Garten_2.jpg/1200px-November_2007,_Englischer_Garten_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/November_2007,_Englischer_Garten_2.jpg/1920px-November_2007,_Englischer_Garten_2.jpg
+  Englischer Garten from Monopteros.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Englischer_Garten_from_Monopteros.JPG/400px-Englischer_Garten_from_Monopteros.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Englischer_Garten_from_Monopteros.JPG/800px-Englischer_Garten_from_Monopteros.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Englischer_Garten_from_Monopteros.JPG/1200px-Englischer_Garten_from_Monopteros.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Englischer_Garten_from_Monopteros.JPG/1920px-Englischer_Garten_from_Monopteros.JPG
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Beck's"
+title: Beck's
 date: 2026-01-23
 draft: false
-description: "German brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.076666666
 longitude: 8.7925
-
-# Images
 images:
-  - "/images-sites/becks/01-0aeda2be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beck's_Logistik_in_Bremen.jpg/1200px-Beck's_Logistik_in_Bremen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bremen-Becks_Brewery.jpg/1200px-Bremen-Becks_Brewery.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brauerei_Beck_&_Co._-_Beck's.jpg/1200px-Brauerei_Beck_&_Co._-_Beck's.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg/1200px-Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Becks211-gold.jpg/1200px-Becks211-gold.jpg
+image_srcset:
+  Beck's Logistik in Bremen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beck's_Logistik_in_Bremen.jpg/400px-Beck's_Logistik_in_Bremen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beck's_Logistik_in_Bremen.jpg/800px-Beck's_Logistik_in_Bremen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beck's_Logistik_in_Bremen.jpg/1200px-Beck's_Logistik_in_Bremen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beck's_Logistik_in_Bremen.jpg/1920px-Beck's_Logistik_in_Bremen.jpg
+  Bremen-Becks Brewery.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bremen-Becks_Brewery.jpg/400px-Bremen-Becks_Brewery.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bremen-Becks_Brewery.jpg/800px-Bremen-Becks_Brewery.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bremen-Becks_Brewery.jpg/1200px-Bremen-Becks_Brewery.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bremen-Becks_Brewery.jpg/1920px-Bremen-Becks_Brewery.jpg
+  Brauerei Beck & Co. - Beck's.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brauerei_Beck_&_Co._-_Beck's.jpg/400px-Brauerei_Beck_&_Co._-_Beck's.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brauerei_Beck_&_Co._-_Beck's.jpg/800px-Brauerei_Beck_&_Co._-_Beck's.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brauerei_Beck_&_Co._-_Beck's.jpg/1200px-Brauerei_Beck_&_Co._-_Beck's.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Brauerei_Beck_&_Co._-_Beck's.jpg/1920px-Brauerei_Beck_&_Co._-_Beck's.jpg
+  Anheuser-Busch InBv Deutschland - Beck's Gold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg/400px-Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg/800px-Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg/1200px-Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg/1920px-Anheuser-Busch_InBv_Deutschland_-_Beck's_Gold.jpg
+  Becks211-gold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Becks211-gold.jpg/400px-Becks211-gold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Becks211-gold.jpg/800px-Becks211-gold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Becks211-gold.jpg/1200px-Becks211-gold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Becks211-gold.jpg/1920px-Becks211-gold.jpg
 ---
 
 ## Overview

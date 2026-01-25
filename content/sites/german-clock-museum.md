@@ -1,19 +1,49 @@
 ---
-title: "German Clock Museum"
+title: German Clock Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0509
 longitude: 8.20785
 images:
-  - "/images-sites/german-clock-museum/02-85bf4c5a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/1_quarzuhr-pte-muenchen-um-1941-59656.jpg/1200px-1_quarzuhr-pte-muenchen-um-1941-59656.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lacquered_shield_cuckoo_clock,_ca._1860.jpeg/1200px-Lacquered_shield_cuckoo_clock,_ca._1860.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg/1200px-Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsches_Uhrenmuseum_2110_(cropped4).jpg/1200px-Deutsches_Uhrenmuseum_2110_(cropped4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/1200px-DU-Eingang.jpg
+image_srcset:
+  1 quarzuhr-pte-muenchen-um-1941-59656.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/1_quarzuhr-pte-muenchen-um-1941-59656.jpg/400px-1_quarzuhr-pte-muenchen-um-1941-59656.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/1_quarzuhr-pte-muenchen-um-1941-59656.jpg/800px-1_quarzuhr-pte-muenchen-um-1941-59656.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/1_quarzuhr-pte-muenchen-um-1941-59656.jpg/1200px-1_quarzuhr-pte-muenchen-um-1941-59656.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/1_quarzuhr-pte-muenchen-um-1941-59656.jpg/1920px-1_quarzuhr-pte-muenchen-um-1941-59656.jpg
+  Lacquered shield cuckoo clock, ca. 1860.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lacquered_shield_cuckoo_clock,_ca._1860.jpeg/400px-Lacquered_shield_cuckoo_clock,_ca._1860.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lacquered_shield_cuckoo_clock,_ca._1860.jpeg/800px-Lacquered_shield_cuckoo_clock,_ca._1860.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lacquered_shield_cuckoo_clock,_ca._1860.jpeg/1200px-Lacquered_shield_cuckoo_clock,_ca._1860.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lacquered_shield_cuckoo_clock,_ca._1860.jpeg/1920px-Lacquered_shield_cuckoo_clock,_ca._1860.jpeg
+  Rahmenuhr mit Blechschild "Kuckucksuhrenwerkstatt".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg/400px-Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg/800px-Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg/1200px-Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg/1920px-Rahmenuhr_mit_Blechschild_"Kuckucksuhrenwerkstatt".jpg
+  Deutsches Uhrenmuseum 2110 (cropped4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsches_Uhrenmuseum_2110_(cropped4).jpg/400px-Deutsches_Uhrenmuseum_2110_(cropped4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsches_Uhrenmuseum_2110_(cropped4).jpg/800px-Deutsches_Uhrenmuseum_2110_(cropped4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsches_Uhrenmuseum_2110_(cropped4).jpg/1200px-Deutsches_Uhrenmuseum_2110_(cropped4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deutsches_Uhrenmuseum_2110_(cropped4).jpg/1920px-Deutsches_Uhrenmuseum_2110_(cropped4).jpg
+  DU-Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/400px-DU-Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/800px-DU-Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/1200px-DU-Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DU-Eingang.jpg/1920px-DU-Eingang.jpg
 ---
 
 ## Overview

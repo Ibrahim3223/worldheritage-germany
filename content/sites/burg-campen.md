@@ -1,27 +1,49 @@
 ---
-title: "Burg Campen"
+title: Burg Campen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.3524
 longitude: 10.7093
-
-# Images
 images:
-  - "/images-sites/burg-campen/01-85939389-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Die_Burg_Campen_Nordflügel.jpg/1200px-Die_Burg_Campen_Nordflügel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Campen_(Merian).jpg/1200px-Campen_(Merian).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Campen_1740_Lagekarte.jpg/1200px-Burg_Campen_1740_Lagekarte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Campen_Fachwerk.jpg/1200px-Burg_Campen_Fachwerk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Campen_Hauptgebaeude.jpg/1200px-Burg_Campen_Hauptgebaeude.jpg
+image_srcset:
+  Die Burg Campen Nordflügel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Die_Burg_Campen_Nordflügel.jpg/400px-Die_Burg_Campen_Nordflügel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Die_Burg_Campen_Nordflügel.jpg/800px-Die_Burg_Campen_Nordflügel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Die_Burg_Campen_Nordflügel.jpg/1200px-Die_Burg_Campen_Nordflügel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Die_Burg_Campen_Nordflügel.jpg/1920px-Die_Burg_Campen_Nordflügel.jpg
+  Campen (Merian).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Campen_(Merian).jpg/400px-Campen_(Merian).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Campen_(Merian).jpg/800px-Campen_(Merian).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Campen_(Merian).jpg/1200px-Campen_(Merian).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Campen_(Merian).jpg/1920px-Campen_(Merian).jpg
+  Burg Campen 1740 Lagekarte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Campen_1740_Lagekarte.jpg/400px-Burg_Campen_1740_Lagekarte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Campen_1740_Lagekarte.jpg/800px-Burg_Campen_1740_Lagekarte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Campen_1740_Lagekarte.jpg/1200px-Burg_Campen_1740_Lagekarte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Campen_1740_Lagekarte.jpg/1920px-Burg_Campen_1740_Lagekarte.jpg
+  Burg Campen Fachwerk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Campen_Fachwerk.jpg/400px-Burg_Campen_Fachwerk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Campen_Fachwerk.jpg/800px-Burg_Campen_Fachwerk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Campen_Fachwerk.jpg/1200px-Burg_Campen_Fachwerk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Burg_Campen_Fachwerk.jpg/1920px-Burg_Campen_Fachwerk.jpg
+  Burg Campen Hauptgebaeude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Campen_Hauptgebaeude.jpg/400px-Burg_Campen_Hauptgebaeude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Campen_Hauptgebaeude.jpg/800px-Burg_Campen_Hauptgebaeude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Campen_Hauptgebaeude.jpg/1200px-Burg_Campen_Hauptgebaeude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Burg_Campen_Hauptgebaeude.jpg/1920px-Burg_Campen_Hauptgebaeude.jpg
 ---
 
 ## Overview

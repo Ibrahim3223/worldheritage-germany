@@ -13,7 +13,7 @@ regions:
 latitude: 51.8828
 longitude: 10.0319
 images:
-  - "/images-sites/kloster-brunshausen/01-d569065b-800w.webp"
+  - "/images/kloster-brunshausen/01-d569065b-800w.webp"
 ---
 
 ## Overview

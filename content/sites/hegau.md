@@ -1,19 +1,49 @@
 ---
-title: "Hegau"
+title: Hegau
 date: 2026-01-23
 draft: false
-description: "landscape in southern Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: landscape in southern Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.795
 longitude: 8.75
 images:
-  - "/images-sites/hegau/01-a745c7e2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blick_von_Hohenkrähen_nach_Nordwesten.jpg/1200px-Blick_von_Hohenkrähen_nach_Nordwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg/1200px-Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Duchtlingen_im_Hegau.jpg/1200px-Duchtlingen_im_Hegau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wolken_über_dem_Hegau.jpg/1200px-Wolken_über_dem_Hegau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hohenhewen.jpg/1200px-Hohenhewen.jpg
+image_srcset:
+  Blick von Hohenkrähen nach Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blick_von_Hohenkrähen_nach_Nordwesten.jpg/400px-Blick_von_Hohenkrähen_nach_Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blick_von_Hohenkrähen_nach_Nordwesten.jpg/800px-Blick_von_Hohenkrähen_nach_Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blick_von_Hohenkrähen_nach_Nordwesten.jpg/1200px-Blick_von_Hohenkrähen_nach_Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blick_von_Hohenkrähen_nach_Nordwesten.jpg/1920px-Blick_von_Hohenkrähen_nach_Nordwesten.jpg
+  Hegau - Hohenstoffeln, Mägdeberg, Hohenhewen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg/400px-Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg/800px-Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg/1200px-Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg/1920px-Hegau_-_Hohenstoffeln,_Mägdeberg,_Hohenhewen.jpg
+  Duchtlingen im Hegau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Duchtlingen_im_Hegau.jpg/400px-Duchtlingen_im_Hegau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Duchtlingen_im_Hegau.jpg/800px-Duchtlingen_im_Hegau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Duchtlingen_im_Hegau.jpg/1200px-Duchtlingen_im_Hegau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Duchtlingen_im_Hegau.jpg/1920px-Duchtlingen_im_Hegau.jpg
+  Wolken über dem Hegau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wolken_über_dem_Hegau.jpg/400px-Wolken_über_dem_Hegau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wolken_über_dem_Hegau.jpg/800px-Wolken_über_dem_Hegau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wolken_über_dem_Hegau.jpg/1200px-Wolken_über_dem_Hegau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Wolken_über_dem_Hegau.jpg/1920px-Wolken_über_dem_Hegau.jpg
+  Hohenhewen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hohenhewen.jpg/400px-Hohenhewen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hohenhewen.jpg/800px-Hohenhewen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hohenhewen.jpg/1200px-Hohenhewen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hohenhewen.jpg/1920px-Hohenhewen.jpg
 ---
 
 ## Overview

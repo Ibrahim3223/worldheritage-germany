@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244583"
 description: "In the serene landscapes of Brandenburg, Germany, the Village Church Papitz stands as a remarkable example of Late Gothic architecture. Founded in 1440,..."
 images:
-  - "/images-sites/village-church-papitz/01-a58f3fed-1920w.webp"
-  - "/images-sites/village-church-papitz/02-dadf86b9-1920w.webp"
-  - "/images-sites/village-church-papitz/03-34dcffc8-1920w.webp"
+  - "/images/village-church-papitz/01-a58f3fed-1920w.webp"
+  - "/images/village-church-papitz/02-dadf86b9-1920w.webp"
+  - "/images/village-church-papitz/03-34dcffc8-1920w.webp"
 ---
 
 ## Overview

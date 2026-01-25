@@ -1,27 +1,49 @@
 ---
-title: "Deutschherrn bridge"
+title: Deutschherrn bridge
 date: 2026-01-23
 draft: false
-description: "railway bridge in Frankfurt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Bridge"
-
-# Taxonomies
+description: railway bridge in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Bridge
 categories:
-  - "Bridge"
+- Bridge
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.109291644
 longitude: 8.70578779
-
-# Images
 images:
-  - "/images-sites/deutschherrn-bridge/01-c25f33d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/1200px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg/1200px-Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20230103_Deutschherrnbrücke.jpg/1200px-20230103_Deutschherrnbrücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg/1200px-Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutschherrnbrücke011.jpg/1200px-Deutschherrnbrücke011.jpg
+image_srcset:
+  Frankfurt Am Main-Deutschherrnbruecke-Ansicht von der Floesserbruecke-20100424.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/400px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/800px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/1200px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg/1920px-Frankfurt_Am_Main-Deutschherrnbruecke-Ansicht_von_der_Floesserbruecke-20100424.jpg
+  Osthafen, Frankfurt am Main (LRM 20220130 142543).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg/400px-Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg/800px-Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg/1200px-Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg/1920px-Osthafen,_Frankfurt_am_Main_(LRM_20220130_142543).jpg
+  20230103 Deutschherrnbrücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20230103_Deutschherrnbrücke.jpg/400px-20230103_Deutschherrnbrücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20230103_Deutschherrnbrücke.jpg/800px-20230103_Deutschherrnbrücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20230103_Deutschherrnbrücke.jpg/1200px-20230103_Deutschherrnbrücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20230103_Deutschherrnbrücke.jpg/1920px-20230103_Deutschherrnbrücke.jpg
+  Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg/400px-Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg/800px-Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg/1200px-Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg/1920px-Deutschherrnbruecke-mit-Klanginstallation-Sonic-Vista-2016-Klangkugeln-Ffm-216.jpg
+  Deutschherrnbrücke011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutschherrnbrücke011.jpg/400px-Deutschherrnbrücke011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutschherrnbrücke011.jpg/800px-Deutschherrnbrücke011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutschherrnbrücke011.jpg/1200px-Deutschherrnbrücke011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Deutschherrnbrücke011.jpg/1920px-Deutschherrnbrücke011.jpg
 ---
 
 ## Overview

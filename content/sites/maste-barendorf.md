@@ -13,7 +13,7 @@ regions:
 latitude: 51.4086
 longitude: 7.69333
 images:
-  - "/images-sites/maste-barendorf/01-e09e7d8d-800w.webp"
+  - "/images/maste-barendorf/01-e09e7d8d-800w.webp"
 ---
 
 ## Overview

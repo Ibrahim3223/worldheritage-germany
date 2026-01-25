@@ -13,7 +13,7 @@ regions:
 latitude: 53.423611111
 longitude: 9.005555555
 images:
-  - "/images-sites/franzhorn/01-78ede055-800w.webp"
+  - "/images/franzhorn/01-78ede055-800w.webp"
 ---
 
 ## Overview

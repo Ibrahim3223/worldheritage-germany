@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244714"
 description: "The Schmöckwitz village church, located in the picturesque region of Treptow-Köpenick, Germany, offers a glimpse into the Neoclassical architectural sty..."
 images:
-  - "/images-sites/schmockwitz-village-church/01-0eed6fd1-1920w.webp"
-  - "/images-sites/schmockwitz-village-church/02-3d922346-1920w.webp"
-  - "/images-sites/schmockwitz-village-church/03-9ea4ff94-1920w.webp"
+  - "/images/schmockwitz-village-church/01-0eed6fd1-1920w.webp"
+  - "/images/schmockwitz-village-church/02-3d922346-1920w.webp"
+  - "/images/schmockwitz-village-church/03-9ea4ff94-1920w.webp"
 ---
 
 ## Overview

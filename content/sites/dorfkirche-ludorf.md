@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Ludorf"
-site_name: "Dorfkirche Ludorf"
-slug: "dorfkirche-ludorf"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Ludorf
+site_name: Dorfkirche Ludorf
+slug: dorfkirche-ludorf
+region: Mecklenburg-Vorpommern
 latitude: 53.3803
 longitude: 12.6689
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244476"
-description: "Dorfkirche Ludorf, a striking example of Brick Gothic architecture, stands as a notable church building in the tranquil region of Ludorf, Germany. This ..."
+- church building
+- religious site
+wikidata_id: Q1244476
+description: Dorfkirche Ludorf, a striking example of Brick Gothic architecture, stands
+  as a notable church building in the tranquil region of Ludorf, Germany. This ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche%20Ludorf%202-2.jpg/1200px-Kirche%20Ludorf%202-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg/1200px-Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/1200px-Kirche_Ludorf_2-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/KircheLudorf2024SW.jpg/1200px-KircheLudorf2024SW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ludorf_Kirche.JPG/1200px-Ludorf_Kirche.JPG
+image_srcset:
+  Kirche%20Ludorf%202-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche%20Ludorf%202-2.jpg/400px-Kirche%20Ludorf%202-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche%20Ludorf%202-2.jpg/800px-Kirche%20Ludorf%202-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche%20Ludorf%202-2.jpg/1200px-Kirche%20Ludorf%202-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kirche%20Ludorf%202-2.jpg/1920px-Kirche%20Ludorf%202-2.jpg
+  Dorfkirche Ludorf 2024 Gedenktafel für Bertha von Schulze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg/400px-Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg/800px-Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg/1200px-Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg/1920px-Dorfkirche_Ludorf_2024_Gedenktafel_für_Bertha_von_Schulze.jpg
+  Kirche Ludorf 2-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/400px-Kirche_Ludorf_2-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/800px-Kirche_Ludorf_2-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/1200px-Kirche_Ludorf_2-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kirche_Ludorf_2-2.jpg/1920px-Kirche_Ludorf_2-2.jpg
+  KircheLudorf2024SW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/KircheLudorf2024SW.jpg/400px-KircheLudorf2024SW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/KircheLudorf2024SW.jpg/800px-KircheLudorf2024SW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/KircheLudorf2024SW.jpg/1200px-KircheLudorf2024SW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/KircheLudorf2024SW.jpg/1920px-KircheLudorf2024SW.jpg
+  Ludorf Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ludorf_Kirche.JPG/400px-Ludorf_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ludorf_Kirche.JPG/800px-Ludorf_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ludorf_Kirche.JPG/1200px-Ludorf_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ludorf_Kirche.JPG/1920px-Ludorf_Kirche.JPG
 ---
 
 ## Overview

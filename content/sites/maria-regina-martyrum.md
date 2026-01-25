@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1896259"
 description: "In the heart of Berlin, a striking example of modern architecture rises to meet the sky—Maria Regina Martyrum. This Catholic church, established in 1963..."
 images:
-  - "/images-sites/maria-regina-martyrum/01-e61c305c-1920w.webp"
-  - "/images-sites/maria-regina-martyrum/02-24c0e856-1920w.webp"
-  - "/images-sites/maria-regina-martyrum/03-a1a35a91-1920w.webp"
+  - "/images/maria-regina-martyrum/01-e61c305c-1920w.webp"
+  - "/images/maria-regina-martyrum/02-24c0e856-1920w.webp"
+  - "/images/maria-regina-martyrum/03-a1a35a91-1920w.webp"
 ---
 
 ## Overview

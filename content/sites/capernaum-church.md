@@ -1,23 +1,44 @@
 ---
-title: "Capernaum Church"
-site_name: "Capernaum Church"
-slug: "capernaum-church"
-region: "Bavaria"
-
-# Location
+title: Capernaum Church
+site_name: Capernaum Church
+slug: capernaum-church
+region: Bavaria
 latitude: 48.1975652550471
 longitude: 11.5349318305111
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q11722151"
-description: "Capernaum Church, located in the tranquil region of Munich, Germany, invites visitors to explore its modern architectural design and spiritual significa..."
+- cultural site
+wikidata_id: Q11722151
+description: Capernaum Church, located in the tranquil region of Munich, Germany,
+  invites visitors to explore its modern architectural design and spiritual significa...
 images:
-  - "/images-sites/capernaum-church/01-fbc78b38-1920w.webp"
-  - "/images-sites/capernaum-church/02-39683d59-1920w.webp"
-  - "/images-sites/capernaum-church/03-c22276f3-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kapernaumkirche-Muenchen-Lassallestr.jpg/1200px-Kapernaumkirche-Muenchen-Lassallestr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kapernaumkirche-Muenchen%20Innen.jpg/1200px-Kapernaumkirche-Muenchen%20Innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kapernaumkirche_23.02.2016_12-20-51.jpg/1200px-Kapernaumkirche_23.02.2016_12-20-51.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1200px-Kapernaumkirche_(Berlin).jpg
+image_srcset:
+  Kapernaumkirche-Muenchen-Lassallestr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kapernaumkirche-Muenchen-Lassallestr.jpg/400px-Kapernaumkirche-Muenchen-Lassallestr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kapernaumkirche-Muenchen-Lassallestr.jpg/800px-Kapernaumkirche-Muenchen-Lassallestr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kapernaumkirche-Muenchen-Lassallestr.jpg/1200px-Kapernaumkirche-Muenchen-Lassallestr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kapernaumkirche-Muenchen-Lassallestr.jpg/1920px-Kapernaumkirche-Muenchen-Lassallestr.jpg
+  Kapernaumkirche-Muenchen%20Innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kapernaumkirche-Muenchen%20Innen.jpg/400px-Kapernaumkirche-Muenchen%20Innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kapernaumkirche-Muenchen%20Innen.jpg/800px-Kapernaumkirche-Muenchen%20Innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kapernaumkirche-Muenchen%20Innen.jpg/1200px-Kapernaumkirche-Muenchen%20Innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kapernaumkirche-Muenchen%20Innen.jpg/1920px-Kapernaumkirche-Muenchen%20Innen.jpg
+  Kapernaumkirche 23.02.2016 12-20-51.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kapernaumkirche_23.02.2016_12-20-51.jpg/400px-Kapernaumkirche_23.02.2016_12-20-51.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kapernaumkirche_23.02.2016_12-20-51.jpg/800px-Kapernaumkirche_23.02.2016_12-20-51.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kapernaumkirche_23.02.2016_12-20-51.jpg/1200px-Kapernaumkirche_23.02.2016_12-20-51.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kapernaumkirche_23.02.2016_12-20-51.jpg/1920px-Kapernaumkirche_23.02.2016_12-20-51.jpg
+  Kapernaumkirche (Berlin).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/400px-Kapernaumkirche_(Berlin).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/800px-Kapernaumkirche_(Berlin).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1200px-Kapernaumkirche_(Berlin).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kapernaumkirche_(Berlin).jpg/1920px-Kapernaumkirche_(Berlin).jpg
 ---
 
 ## Overview

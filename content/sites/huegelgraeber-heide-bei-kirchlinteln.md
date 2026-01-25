@@ -1,21 +1,49 @@
 ---
-title: "Hügelgräber-Heide bei Kirchlinteln"
+title: Hügelgräber-Heide bei Kirchlinteln
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.9317
 longitude: 9.31639
 images:
-  - "/images-sites/huegelgraeber-heide-bei-kirchlinteln/01-862fb45e-800w.webp"
-  - "/images-sites/huegelgraeber-heide-bei-kirchlinteln/02-fd3932fc-800w.webp"
-  - "/images-sites/huegelgraeber-heide-bei-kirchlinteln/03-c1561fb6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hügelgräber-Heide.jpg/1200px-Hügelgräber-Heide.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hügelgräber-Heide_Herbst.jpg/1200px-Hügelgräber-Heide_Herbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Huegelgraeberheide01.jpg/1200px-Huegelgraeberheide01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Huegelgraeberheide02.jpg/1200px-Huegelgraeberheide02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Huegelgraeberheide_Rinnenstein01.jpg/1200px-Huegelgraeberheide_Rinnenstein01.jpg
+image_srcset:
+  Hügelgräber-Heide.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hügelgräber-Heide.jpg/400px-Hügelgräber-Heide.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hügelgräber-Heide.jpg/800px-Hügelgräber-Heide.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hügelgräber-Heide.jpg/1200px-Hügelgräber-Heide.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hügelgräber-Heide.jpg/1920px-Hügelgräber-Heide.jpg
+  Hügelgräber-Heide Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hügelgräber-Heide_Herbst.jpg/400px-Hügelgräber-Heide_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hügelgräber-Heide_Herbst.jpg/800px-Hügelgräber-Heide_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hügelgräber-Heide_Herbst.jpg/1200px-Hügelgräber-Heide_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hügelgräber-Heide_Herbst.jpg/1920px-Hügelgräber-Heide_Herbst.jpg
+  Huegelgraeberheide01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Huegelgraeberheide01.jpg/400px-Huegelgraeberheide01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Huegelgraeberheide01.jpg/800px-Huegelgraeberheide01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Huegelgraeberheide01.jpg/1200px-Huegelgraeberheide01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Huegelgraeberheide01.jpg/1920px-Huegelgraeberheide01.jpg
+  Huegelgraeberheide02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Huegelgraeberheide02.jpg/400px-Huegelgraeberheide02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Huegelgraeberheide02.jpg/800px-Huegelgraeberheide02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Huegelgraeberheide02.jpg/1200px-Huegelgraeberheide02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Huegelgraeberheide02.jpg/1920px-Huegelgraeberheide02.jpg
+  Huegelgraeberheide Rinnenstein01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Huegelgraeberheide_Rinnenstein01.jpg/400px-Huegelgraeberheide_Rinnenstein01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Huegelgraeberheide_Rinnenstein01.jpg/800px-Huegelgraeberheide_Rinnenstein01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Huegelgraeberheide_Rinnenstein01.jpg/1200px-Huegelgraeberheide_Rinnenstein01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Huegelgraeberheide_Rinnenstein01.jpg/1920px-Huegelgraeberheide_Rinnenstein01.jpg
 ---
 
 ## Overview

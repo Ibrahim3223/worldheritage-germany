@@ -13,7 +13,7 @@ regions:
 latitude: 52.5166435
 longitude: 13.398722
 images:
-  - "/images-sites/statue-of-christian-peter-wilhelm-beuth/01-08e8bc21-800w.webp"
+  - "/images/statue-of-christian-peter-wilhelm-beuth/01-08e8bc21-800w.webp"
 ---
 
 ## Overview

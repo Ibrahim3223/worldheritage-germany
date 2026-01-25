@@ -1,19 +1,49 @@
 ---
-title: "Aalen Central station"
+title: Aalen Central station
 date: 2026-01-23
 draft: false
-description: "railway station in Aalen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Aalen, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 48.840833333
 longitude: 10.096111111
 images:
-  - "/images-sites/aalen-central-station/01-b8f9959b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aalen_Hbf_2022.jpg/1200px-Aalen_Hbf_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schubart_Denkmal_in_Aalen.jpg/1200px-Schubart_Denkmal_in_Aalen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aalen_nach_1861.jpg/1200px-Aalen_nach_1861.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/1200px-Bahnhof_Aalen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ICE_Aalen.jpg/1200px-ICE_Aalen.jpg
+image_srcset:
+  Aalen Hbf 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aalen_Hbf_2022.jpg/400px-Aalen_Hbf_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aalen_Hbf_2022.jpg/800px-Aalen_Hbf_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aalen_Hbf_2022.jpg/1200px-Aalen_Hbf_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aalen_Hbf_2022.jpg/1920px-Aalen_Hbf_2022.jpg
+  Schubart Denkmal in Aalen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schubart_Denkmal_in_Aalen.jpg/400px-Schubart_Denkmal_in_Aalen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schubart_Denkmal_in_Aalen.jpg/800px-Schubart_Denkmal_in_Aalen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schubart_Denkmal_in_Aalen.jpg/1200px-Schubart_Denkmal_in_Aalen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Schubart_Denkmal_in_Aalen.jpg/1920px-Schubart_Denkmal_in_Aalen.jpg
+  Aalen nach 1861.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aalen_nach_1861.jpg/400px-Aalen_nach_1861.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aalen_nach_1861.jpg/800px-Aalen_nach_1861.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aalen_nach_1861.jpg/1200px-Aalen_nach_1861.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Aalen_nach_1861.jpg/1920px-Aalen_nach_1861.jpg
+  Bahnhof Aalen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/400px-Bahnhof_Aalen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/800px-Bahnhof_Aalen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/1200px-Bahnhof_Aalen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bahnhof_Aalen.jpg/1920px-Bahnhof_Aalen.jpg
+  ICE Aalen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ICE_Aalen.jpg/400px-ICE_Aalen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ICE_Aalen.jpg/800px-ICE_Aalen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ICE_Aalen.jpg/1200px-ICE_Aalen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ICE_Aalen.jpg/1920px-ICE_Aalen.jpg
 ---
 
 ## Overview

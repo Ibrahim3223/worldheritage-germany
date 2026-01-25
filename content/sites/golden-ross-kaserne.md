@@ -1,19 +1,49 @@
 ---
-title: "Golden-Ross-Kaserne"
+title: Golden-Ross-Kaserne
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.00385
 longitude: 8.26778
 images:
-  - "/images-sites/golden-ross-kaserne/01-7e59d305-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mainz_30.03.2013_-_panoramio_(53).jpg/1200px-Mainz_30.03.2013_-_panoramio_(53).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/1200px-55122-MombacherStr_56.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Max_Wronker_als_Dragoner_in_Mainz_1913.png/1200px-Max_Wronker_als_Dragoner_in_Mainz_1913.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1200px-BD-Landesmuseum-20130504-IMG_1609.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ffm_Bockenheim_Kas.jpg/1200px-Ffm_Bockenheim_Kas.jpg
+image_srcset:
+  Mainz 30.03.2013 - panoramio (53).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mainz_30.03.2013_-_panoramio_(53).jpg/400px-Mainz_30.03.2013_-_panoramio_(53).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mainz_30.03.2013_-_panoramio_(53).jpg/800px-Mainz_30.03.2013_-_panoramio_(53).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mainz_30.03.2013_-_panoramio_(53).jpg/1200px-Mainz_30.03.2013_-_panoramio_(53).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mainz_30.03.2013_-_panoramio_(53).jpg/1920px-Mainz_30.03.2013_-_panoramio_(53).jpg
+  55122-MombacherStr 56.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/400px-55122-MombacherStr_56.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/800px-55122-MombacherStr_56.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/1200px-55122-MombacherStr_56.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/55122-MombacherStr_56.jpg/1920px-55122-MombacherStr_56.jpg
+  Max Wronker als Dragoner in Mainz 1913.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Max_Wronker_als_Dragoner_in_Mainz_1913.png/400px-Max_Wronker_als_Dragoner_in_Mainz_1913.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Max_Wronker_als_Dragoner_in_Mainz_1913.png/800px-Max_Wronker_als_Dragoner_in_Mainz_1913.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Max_Wronker_als_Dragoner_in_Mainz_1913.png/1200px-Max_Wronker_als_Dragoner_in_Mainz_1913.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Max_Wronker_als_Dragoner_in_Mainz_1913.png/1920px-Max_Wronker_als_Dragoner_in_Mainz_1913.png
+  BD-Landesmuseum-20130504-IMG 1609.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/400px-BD-Landesmuseum-20130504-IMG_1609.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/800px-BD-Landesmuseum-20130504-IMG_1609.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1200px-BD-Landesmuseum-20130504-IMG_1609.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BD-Landesmuseum-20130504-IMG_1609.jpg/1920px-BD-Landesmuseum-20130504-IMG_1609.jpg
+  Ffm Bockenheim Kas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ffm_Bockenheim_Kas.jpg/400px-Ffm_Bockenheim_Kas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ffm_Bockenheim_Kas.jpg/800px-Ffm_Bockenheim_Kas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ffm_Bockenheim_Kas.jpg/1200px-Ffm_Bockenheim_Kas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ffm_Bockenheim_Kas.jpg/1920px-Ffm_Bockenheim_Kas.jpg
 ---
 
 ## Overview

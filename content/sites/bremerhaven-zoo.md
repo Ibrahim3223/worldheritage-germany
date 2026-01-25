@@ -1,19 +1,49 @@
 ---
-title: "Bremerhaven Zoo"
+title: Bremerhaven Zoo
 date: 2026-01-24
 draft: false
-description: "zoo in Bremerhaven, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Bremerhaven, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5447
 longitude: 8.57028
 images:
-  - "/images-sites/bremerhaven-zoo/01-aecde761-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg/1200px-Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg/1200px-Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg/1200px-Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2020_zoo_am_meer_bremerhaven1.jpg/1200px-2020_zoo_am_meer_bremerhaven1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/1200px-Bremerhaven-Zoo_am_Meer_01.jpg
+image_srcset:
+  Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg/400px-Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg/800px-Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg/1200px-Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg/1920px-Panorama-Zoo-am-Meer-Bremerhaven-2013.jpg
+  Bremerhaven, Schlepperpier -- 2024 -- 2330.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg/400px-Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg/800px-Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg/1200px-Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg/1920px-Bremerhaven,_Schlepperpier_--_2024_--_2330.jpg
+  Bremerhaven, Strandhalle und Zoo -- 2024 -- 2275.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg/400px-Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg/800px-Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg/1200px-Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg/1920px-Bremerhaven,_Strandhalle_und_Zoo_--_2024_--_2275.jpg
+  2020 zoo am meer bremerhaven1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2020_zoo_am_meer_bremerhaven1.jpg/400px-2020_zoo_am_meer_bremerhaven1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2020_zoo_am_meer_bremerhaven1.jpg/800px-2020_zoo_am_meer_bremerhaven1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2020_zoo_am_meer_bremerhaven1.jpg/1200px-2020_zoo_am_meer_bremerhaven1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2020_zoo_am_meer_bremerhaven1.jpg/1920px-2020_zoo_am_meer_bremerhaven1.jpg
+  Bremerhaven-Zoo am Meer 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/400px-Bremerhaven-Zoo_am_Meer_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/800px-Bremerhaven-Zoo_am_Meer_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/1200px-Bremerhaven-Zoo_am_Meer_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bremerhaven-Zoo_am_Meer_01.jpg/1920px-Bremerhaven-Zoo_am_Meer_01.jpg
 ---
 
 ## Overview

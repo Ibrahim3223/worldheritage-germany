@@ -13,7 +13,7 @@ regions:
 latitude: 51.051
 longitude: 13.7385
 images:
-  - "/images-sites/kulturpalast-dresden/01-6dd542eb-800w.webp"
+  - "/images/kulturpalast-dresden/01-6dd542eb-800w.webp"
 ---
 
 ## Overview

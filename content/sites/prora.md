@@ -13,7 +13,7 @@ regions:
 latitude: 54.4396
 longitude: 13.5667
 images:
-  - "/images-sites/prora/01-e8ee5e7a-800w.webp"
+  - "/images/prora/01-e8ee5e7a-800w.webp"
 ---
 
 ## Overview

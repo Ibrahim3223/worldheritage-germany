@@ -1,19 +1,49 @@
 ---
-title: "Denkmal"
+title: Denkmal
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-1-84-136-3 (0) in Ottobrunn, Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: cultural heritage monument D-1-84-136-3 (0) in Ottobrunn, Bavaria
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.05294793
 longitude: 11.66907945
 images:
-  - "/images-sites/denkmal/01-00895f8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg/1200px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kornkasten_beim_Breitner_Villanders_05.JPG/1200px-Kornkasten_beim_Breitner_Villanders_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg/1200px-Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Saint_John_church_in_Caselles_(8).jpg/1200px-Saint_John_church_in_Caselles_(8).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG/1200px-Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG
+image_srcset:
+  Fuente Wittelsbacher, Plaza Lenbach, Múnich, Alemania, 2017-07-07, DD 11-14 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg/400px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg/800px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg/1200px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg/1920px-Fuente_Wittelsbacher,_Plaza_Lenbach,_Múnich,_Alemania,_2017-07-07,_DD_11-14_HDR.jpg
+  Kornkasten beim Breitner Villanders 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kornkasten_beim_Breitner_Villanders_05.JPG/400px-Kornkasten_beim_Breitner_Villanders_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kornkasten_beim_Breitner_Villanders_05.JPG/800px-Kornkasten_beim_Breitner_Villanders_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kornkasten_beim_Breitner_Villanders_05.JPG/1200px-Kornkasten_beim_Breitner_Villanders_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kornkasten_beim_Breitner_Villanders_05.JPG/1920px-Kornkasten_beim_Breitner_Villanders_05.JPG
+  Чернігів Церква Михайла та Федора Весна 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg/400px-Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg/800px-Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg/1200px-Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg/1920px-Чернігів_Церква_Михайла_та_Федора_Весна_2016.jpg
+  Saint John church in Caselles (8).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Saint_John_church_in_Caselles_(8).jpg/400px-Saint_John_church_in_Caselles_(8).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Saint_John_church_in_Caselles_(8).jpg/800px-Saint_John_church_in_Caselles_(8).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Saint_John_church_in_Caselles_(8).jpg/1200px-Saint_John_church_in_Caselles_(8).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Saint_John_church_in_Caselles_(8).jpg/1920px-Saint_John_church_in_Caselles_(8).jpg
+  Berlin-Frohnau Frohnauer Straße 112 122 Friedhof Hermsdorf LDL 09046234.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG/400px-Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG/800px-Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG/1200px-Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG/1920px-Berlin-Frohnau_Frohnauer_Straße_112_122_Friedhof_Hermsdorf_LDL_09046234.JPG
 ---
 
 ## Overview

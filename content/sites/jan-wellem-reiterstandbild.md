@@ -1,19 +1,49 @@
 ---
-title: "Jan-Wellem-Reiterstandbild"
+title: Jan-Wellem-Reiterstandbild
 date: 2026-01-23
 draft: false
-description: "statue in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: statue in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2258
 longitude: 6.77202
 images:
-  - "/images-sites/jan-wellem-reiterstandbild/01-d5a90e1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg/1200px-Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DusseldorfGermany.jpg/1200px-DusseldorfGermany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg/1200px-Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg/1200px-Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/1200px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
+image_srcset:
+  Düsseldorf (DE), Jan-Wellem-Reiterdenkmal -- 2014 -- 2313.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg/400px-Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg/800px-Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg/1200px-Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg/1920px-Düsseldorf_(DE),_Jan-Wellem-Reiterdenkmal_--_2014_--_2313.jpg
+  DusseldorfGermany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DusseldorfGermany.jpg/400px-DusseldorfGermany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DusseldorfGermany.jpg/800px-DusseldorfGermany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DusseldorfGermany.jpg/1200px-DusseldorfGermany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DusseldorfGermany.jpg/1920px-DusseldorfGermany.jpg
+  Jan Wellem Reiterstandbild in Düsseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg/400px-Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg/800px-Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg/1200px-Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg/1920px-Jan_Wellem_Reiterstandbild_in_Düsseldorf.jpg
+  Die Kunstdenkmaler der Stadte und Kreise Gladbach und Krefeld (1896) (14784750722).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg/400px-Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg/800px-Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg/1200px-Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg/1920px-Die_Kunstdenkmaler_der_Stadte_und_Kreise_Gladbach_und_Krefeld_(1896)_(14784750722).jpg
+  Jan-Wellem-Reiterstandbild auf dem Marktplatz in Duesseldorf-Altstadt, von Suedosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/400px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/800px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/1200px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg/1920px-Jan-Wellem-Reiterstandbild_auf_dem_Marktplatz_in_Duesseldorf-Altstadt,_von_Suedosten.jpg
 ---
 
 ## Overview

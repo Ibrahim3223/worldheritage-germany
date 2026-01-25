@@ -1,27 +1,49 @@
 ---
-title: "Burg"
+title: Burg
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-61-000-1 (0) in Bamberg, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument D-4-61-000-1 (0) in Bamberg, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.880555555
 longitude: 10.868611111
-
-# Images
 images:
-  - "/images-sites/burg/01-91b51c16-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_(b.M.)_von_nordwest.jpg/1200px-Burg_(b.M.)_von_nordwest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_(b.M.)_von_nord_02.jpg/1200px-Burg_(b.M.)_von_nord_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_(b.M.)_von_nord_01.jpg/1200px-Burg_(b.M.)_von_nord_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg/1200px-Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg/1200px-Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg
+image_srcset:
+  Burg (b.M.) von nordwest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_(b.M.)_von_nordwest.jpg/400px-Burg_(b.M.)_von_nordwest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_(b.M.)_von_nordwest.jpg/800px-Burg_(b.M.)_von_nordwest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_(b.M.)_von_nordwest.jpg/1200px-Burg_(b.M.)_von_nordwest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Burg_(b.M.)_von_nordwest.jpg/1920px-Burg_(b.M.)_von_nordwest.jpg
+  Burg (b.M.) von nord 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_(b.M.)_von_nord_02.jpg/400px-Burg_(b.M.)_von_nord_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_(b.M.)_von_nord_02.jpg/800px-Burg_(b.M.)_von_nord_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_(b.M.)_von_nord_02.jpg/1200px-Burg_(b.M.)_von_nord_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_(b.M.)_von_nord_02.jpg/1920px-Burg_(b.M.)_von_nord_02.jpg
+  Burg (b.M.) von nord 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_(b.M.)_von_nord_01.jpg/400px-Burg_(b.M.)_von_nord_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_(b.M.)_von_nord_01.jpg/800px-Burg_(b.M.)_von_nord_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_(b.M.)_von_nord_01.jpg/1200px-Burg_(b.M.)_von_nord_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_(b.M.)_von_nord_01.jpg/1920px-Burg_(b.M.)_von_nord_01.jpg
+  Burg (b. Magdeburg), Sachsen-Anhalt - Kaiser-Wilhelmstraße, Kaserne und Offizierskasino (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg/400px-Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg/800px-Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg/1200px-Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg/1920px-Burg_(b._Magdeburg),_Sachsen-Anhalt_-_Kaiser-Wilhelmstraße,_Kaserne_und_Offizierskasino_(Zeno_Ansichtskarten).jpg
+  Breiter Weg und Oberkirche Unser Lieben Frauen - geo.hlipp.de - 4881.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg/400px-Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg/800px-Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg/1200px-Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg/1920px-Breiter_Weg_und_Oberkirche_Unser_Lieben_Frauen_-_geo.hlipp.de_-_4881.jpg
 ---
 
 ## Overview

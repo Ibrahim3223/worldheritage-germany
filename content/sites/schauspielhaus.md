@@ -13,7 +13,7 @@ regions:
 latitude: 50.9733
 longitude: 11.0249
 images:
-  - "/images-sites/schauspielhaus/01-fdb8e3de-800w.webp"
+  - "/images/schauspielhaus/01-fdb8e3de-800w.webp"
 ---
 
 ## Overview

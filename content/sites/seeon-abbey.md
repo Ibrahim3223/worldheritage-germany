@@ -13,7 +13,7 @@ regions:
 latitude: 47.974722222
 longitude: 12.448055555
 images:
-  - "/images-sites/seeon-abbey/01-79417d43-800w.webp"
+  - "/images/seeon-abbey/01-79417d43-800w.webp"
 ---
 
 ## Overview

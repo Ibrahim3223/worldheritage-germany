@@ -13,7 +13,7 @@ regions:
 latitude: 48.6211
 longitude: 10.2416
 images:
-  - "/images-sites/steiff-museum/01-b38c2cb0-800w.webp"
+  - "/images/steiff-museum/01-b38c2cb0-800w.webp"
 ---
 
 ## Overview

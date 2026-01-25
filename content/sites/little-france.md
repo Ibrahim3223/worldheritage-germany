@@ -21,9 +21,9 @@ longitude: 7.86278
 
 # Images
 images:
-  - "/images-sites/little-france/01-7779291b-800w.webp"
-  - "/images-sites/little-france/02-f22fc97e-800w.webp"
-  - "/images-sites/little-france/03-15f3d98b-800w.webp"
+  - "/images/little-france/01-7779291b-800w.webp"
+  - "/images/little-france/02-f22fc97e-800w.webp"
+  - "/images/little-france/03-15f3d98b-800w.webp"
 ---
 
 ## Overview

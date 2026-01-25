@@ -1,19 +1,49 @@
 ---
-title: "Hamburg-Bergedorf station"
+title: Hamburg-Bergedorf station
 date: 2026-01-23
 draft: false
-description: "railway station in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.48944444
 longitude: 10.20638889
 images:
-  - "/images-sites/hamburg-bergedorf-station/01-f0b94263-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg/1200px-Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg/1200px-Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Busbahnhof_bergedorf0911.jpg/1200px-Busbahnhof_bergedorf0911.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Citarobergedorfzobbeu.jpg/1200px-Citarobergedorfzobbeu.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/1200px-Bf_Bergedorf_2014.jpg
+image_srcset:
+  Hamburg -Bergedorf- 2014 by-RaBoe 039.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg/400px-Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg/800px-Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg/1200px-Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg/1920px-Hamburg_-Bergedorf-_2014_by-RaBoe_039.jpg
+  Hamburg -Bergedorf- 2014 by-RaBoe 043.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg/400px-Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg/800px-Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg/1200px-Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg/1920px-Hamburg_-Bergedorf-_2014_by-RaBoe_043.jpg
+  Busbahnhof bergedorf0911.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Busbahnhof_bergedorf0911.jpg/400px-Busbahnhof_bergedorf0911.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Busbahnhof_bergedorf0911.jpg/800px-Busbahnhof_bergedorf0911.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Busbahnhof_bergedorf0911.jpg/1200px-Busbahnhof_bergedorf0911.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Busbahnhof_bergedorf0911.jpg/1920px-Busbahnhof_bergedorf0911.jpg
+  Citarobergedorfzobbeu.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Citarobergedorfzobbeu.jpg/400px-Citarobergedorfzobbeu.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Citarobergedorfzobbeu.jpg/800px-Citarobergedorfzobbeu.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Citarobergedorfzobbeu.jpg/1200px-Citarobergedorfzobbeu.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Citarobergedorfzobbeu.jpg/1920px-Citarobergedorfzobbeu.jpg
+  Bf Bergedorf 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/400px-Bf_Bergedorf_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/800px-Bf_Bergedorf_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/1200px-Bf_Bergedorf_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bf_Bergedorf_2014.jpg/1920px-Bf_Bergedorf_2014.jpg
 ---
 
 ## Overview

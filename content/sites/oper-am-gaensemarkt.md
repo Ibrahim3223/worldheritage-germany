@@ -13,7 +13,7 @@ regions:
 latitude: 53.555
 longitude: 9.98833333
 images:
-  - "/images-sites/oper-am-gaensemarkt/02-429d286c-800w.webp"
+  - "/images/oper-am-gaensemarkt/02-429d286c-800w.webp"
 ---
 
 ## Overview

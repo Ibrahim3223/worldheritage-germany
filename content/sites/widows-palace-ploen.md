@@ -13,7 +13,7 @@ regions:
 latitude: 54.1581
 longitude: 10.4124
 images:
-  - "/images-sites/widows-palace-ploen/01-18842851-800w.webp"
+  - "/images/widows-palace-ploen/01-18842851-800w.webp"
 ---
 
 ## Overview

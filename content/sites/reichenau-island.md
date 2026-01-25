@@ -13,7 +13,7 @@ regions:
 latitude: 47.693055555
 longitude: 9.063055555
 images:
-  - "/images-sites/reichenau-island/01-2f054ef4-800w.webp"
+  - "/images/reichenau-island/01-2f054ef4-800w.webp"
 ---
 
 ## Overview

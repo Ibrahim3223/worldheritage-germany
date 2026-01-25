@@ -1,20 +1,45 @@
 ---
-title: "Heiligengeistkirche"
-site_name: "Heiligengeistkirche"
-slug: "heiligengeistkirche"
-region: "Hamburg"
-
-# Location
+title: Heiligengeistkirche
+site_name: Heiligengeistkirche
+slug: heiligengeistkirche
+region: Hamburg
 latitude: 53.58338889
 longitude: 10.04118333
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1595174"
-description: "Heiligengeistkirche, a Gothic Revival church located in the Hamburg-Nord region of Germany, stands as a remarkable example of architectural elegance and..."
+- church building
+- religious site
+wikidata_id: Q1595174
+description: Heiligengeistkirche, a Gothic Revival church located in the Hamburg-Nord
+  region of Germany, stands as a remarkable example of architectural elegance and...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/1200px-Hh-heiligengeistkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg/1200px-Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg/1200px-Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg/1200px-Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg
+image_srcset:
+  Hh-heiligengeistkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/400px-Hh-heiligengeistkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/800px-Hh-heiligengeistkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/1200px-Hh-heiligengeistkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hh-heiligengeistkirche.jpg/1920px-Hh-heiligengeistkirche.jpg
+  Klagenfurt Innere Stadt Heiligengeistplatz Heiligengeistkirche NO-Ansicht 03082017 0285.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg/400px-Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg/800px-Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg/1200px-Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg/1920px-Klagenfurt_Innere_Stadt_Heiligengeistplatz_Heiligengeistkirche_NO-Ansicht_03082017_0285.jpg
+  Klagenfurt Innere Stadt Landhauspark Kogelnikbrunnen mit Heiligengeistkirche 18102017 1594.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg/400px-Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg/800px-Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg/1200px-Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg/1920px-Klagenfurt_Innere_Stadt_Landhauspark_Kogelnikbrunnen_mit_Heiligengeistkirche_18102017_1594.jpg
+  Die ehemalige Kirche des Franziskanerklosters (Kiel 44.645).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg/400px-Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg/800px-Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg/1200px-Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg/1920px-Die_ehemalige_Kirche_des_Franziskanerklosters_(Kiel_44.645).jpg
 ---
 
 ## Overview

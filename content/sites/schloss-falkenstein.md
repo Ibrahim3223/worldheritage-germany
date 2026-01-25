@@ -21,8 +21,8 @@ longitude: 6.19439
 
 # Images
 images:
-  - "/images-sites/schloss-falkenstein/02-7fe401f7-800w.webp"
-  - "/images-sites/schloss-falkenstein/03-62bca44d-800w.webp"
+  - "/images/schloss-falkenstein/02-7fe401f7-800w.webp"
+  - "/images/schloss-falkenstein/03-62bca44d-800w.webp"
 ---
 
 ## Overview

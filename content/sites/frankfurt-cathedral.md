@@ -1,23 +1,50 @@
 ---
-title: "Frankfurt Cathedral"
-site_name: "Frankfurt Cathedral"
-slug: "frankfurt-cathedral"
-region: "Hesse"
-
-# Location
+title: Frankfurt Cathedral
+site_name: Frankfurt Cathedral
+slug: frankfurt-cathedral
+region: Hesse
 latitude: 50.110556
 longitude: 8.685
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q57341"
-description: "Standing tall in the heart of Frankfurt am Main, the Frankfurt Cathedral is a striking example of Gothic architecture. Founded in 1239, this church, kno..."
+- cultural site
+wikidata_id: Q57341
+description: Standing tall in the heart of Frankfurt am Main, the Frankfurt Cathedral
+  is a striking example of Gothic architecture. Founded in 1239, this church, kno...
 images:
-  - "/images-sites/frankfurt-cathedral/01-d8caa770-1920w.webp"
-  - "/images-sites/frankfurt-cathedral/02-672be8ac-1920w.webp"
-  - "/images-sites/frankfurt-cathedral/03-d2b3e353-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Frankfurter%20Dom%20Eiserner%20Steg.jpg/1200px-Frankfurter%20Dom%20Eiserner%20Steg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg/1200px-Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg/1200px-Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg/1200px-Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/1200px-Frankfurter_Dom_Eiserner_Steg.jpg
+image_srcset:
+  Frankfurter%20Dom%20Eiserner%20Steg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Frankfurter%20Dom%20Eiserner%20Steg.jpg/400px-Frankfurter%20Dom%20Eiserner%20Steg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Frankfurter%20Dom%20Eiserner%20Steg.jpg/800px-Frankfurter%20Dom%20Eiserner%20Steg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Frankfurter%20Dom%20Eiserner%20Steg.jpg/1200px-Frankfurter%20Dom%20Eiserner%20Steg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Frankfurter%20Dom%20Eiserner%20Steg.jpg/1920px-Frankfurter%20Dom%20Eiserner%20Steg.jpg
+  Kaiserdom Frankfurt am Main 2021-08-17 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg/400px-Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg/800px-Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg/1200px-Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg/1920px-Kaiserdom_Frankfurt_am_Main_2021-08-17_01.jpg
+  Kaiserdom Frankfurt am Main 2021-08-17 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg/400px-Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg/800px-Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg/1200px-Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg/1920px-Kaiserdom_Frankfurt_am_Main_2021-08-17_02.jpg
+  Frankfurt am Main - Kaiserdom St. Bartholomäus 20240805-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg/400px-Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg/800px-Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg/1200px-Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg/1920px-Frankfurt_am_Main_-_Kaiserdom_St._Bartholomäus_20240805-05.jpg
+  Frankfurter Dom Eiserner Steg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/400px-Frankfurter_Dom_Eiserner_Steg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/800px-Frankfurter_Dom_Eiserner_Steg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/1200px-Frankfurter_Dom_Eiserner_Steg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Frankfurter_Dom_Eiserner_Steg.jpg/1920px-Frankfurter_Dom_Eiserner_Steg.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.975
 longitude: 11.3311
 images:
-  - "/images-sites/parkhoehle-weimar/01-cb4a503f-800w.webp"
+  - "/images/parkhoehle-weimar/01-cb4a503f-800w.webp"
 ---
 
 ## Overview

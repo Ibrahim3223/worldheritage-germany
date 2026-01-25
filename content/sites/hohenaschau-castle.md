@@ -1,27 +1,53 @@
 ---
-title: "Hohenaschau Castle"
+title: Hohenaschau Castle
 date: 2026-01-23
 draft: false
-description: "palace in Bavaria, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: palace in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.765722222
 longitude: 12.322122222
-
-# Images
 images:
-  - "/images-sites/hohenaschau-castle/01-c74d7bd9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg/1200px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg/1200px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Hohenaschau.jpg/1200px-Schloss_Hohenaschau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg/1200px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schloss_Hohenaschau_Südwestansicht_1.jpg/1200px-Schloss_Hohenaschau_Südwestansicht_1.jpg
+image_srcset:
+  ? GER — BY – Oberbayern — Lkr. Rosenheim — Gemeinde Aschau im Chiemgau — Hohenaschau
+    - Schloss 1-5 (Schloss Hohenaschau Kanone und Mörser) Mattes Huawei P30 Pro 2021.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg/400px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg/800px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg/1200px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg/1920px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_Kanone_und_Mörser)_Mattes_Huawei_P30_Pro_2021.jpg
+  ? GER — BY – Oberbayern — Lkr. Rosenheim — Gemeinde Aschau im Chiemgau — Hohenaschau
+    — Schloss 1-5 (Schloss Hohenaschau Holztür mit kirchlichem Wappen) D-1-87-114-74
+    Mattes Huawei P30 Pro 2021.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg/400px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg/800px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg/1200px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg/1920px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_—_Schloss_1-5_(Schloss_Hohenaschau_Holztür_mit_kirchlichem_Wappen)_D-1-87-114-74_Mattes_Huawei_P30_Pro_2021.jpg
+  Schloss Hohenaschau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Hohenaschau.jpg/400px-Schloss_Hohenaschau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Hohenaschau.jpg/800px-Schloss_Hohenaschau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Hohenaschau.jpg/1200px-Schloss_Hohenaschau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Schloss_Hohenaschau.jpg/1920px-Schloss_Hohenaschau.jpg
+  ? GER — BY – Oberbayern — Lkr. Rosenheim — Gemeinde Aschau im Chiemgau — Hohenaschau
+    - Schloss 1-5 (Schloss Hohenaschau — elektr. Leuchter) Mattes 2021.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg/400px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg/800px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg/1200px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg/1920px-GER_—_BY_–_Oberbayern_—_Lkr._Rosenheim_—_Gemeinde_Aschau_im_Chiemgau_—_Hohenaschau_-_Schloss_1-5_(Schloss_Hohenaschau_—_elektr._Leuchter)_Mattes_2021.jpg
+  Schloss Hohenaschau Südwestansicht 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schloss_Hohenaschau_Südwestansicht_1.jpg/400px-Schloss_Hohenaschau_Südwestansicht_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schloss_Hohenaschau_Südwestansicht_1.jpg/800px-Schloss_Hohenaschau_Südwestansicht_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schloss_Hohenaschau_Südwestansicht_1.jpg/1200px-Schloss_Hohenaschau_Südwestansicht_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schloss_Hohenaschau_Südwestansicht_1.jpg/1920px-Schloss_Hohenaschau_Südwestansicht_1.jpg
 ---
 
 ## Overview

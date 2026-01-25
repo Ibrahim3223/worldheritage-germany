@@ -13,7 +13,7 @@ regions:
 latitude: 52.408961111
 longitude: 12.484377777
 images:
-  - "/images-sites/quenzsee/01-89732770-800w.webp"
+  - "/images/quenzsee/01-89732770-800w.webp"
 ---
 
 ## Overview

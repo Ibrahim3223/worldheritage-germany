@@ -1,19 +1,50 @@
 ---
-title: "Church in Löcknitz"
-site_name: "Church in Löcknitz"
-slug: "church-in-locknitz"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Löcknitz
+site_name: Church in Löcknitz
+slug: church-in-locknitz
+region: Mecklenburg-Vorpommern
 latitude: 53.4535
 longitude: 14.2083
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244486"
-description: "In the heart of Löcknitz, Germany, stands a remarkable example of Gothic Revival architecture: the Church in Löcknitz. This church, designed by architec..."
+- cultural site
+wikidata_id: Q1244486
+description: 'In the heart of Löcknitz, Germany, stands a remarkable example of Gothic
+  Revival architecture: the Church in Löcknitz. This church, designed by architec...'
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg/1200px-L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Löcknitz-Kirche-(Norden)-2013-11-25.JPG/1200px-Löcknitz-Kirche-(Norden)-2013-11-25.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG/1200px-Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Löcknitz-Kirche-(Südosten)-2013-11-25.JPG/1200px-Löcknitz-Kirche-(Südosten)-2013-11-25.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/1200px-Löcknitz-Kirche-26-03-2010_487b.jpg
+image_srcset:
+  L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg/400px-L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg/800px-L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg/1200px-L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg/1920px-L%C3%B6cknitz-Kirche-26-03-2010%20487b.jpg
+  Löcknitz-Kirche-(Norden)-2013-11-25.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Löcknitz-Kirche-(Norden)-2013-11-25.JPG/400px-Löcknitz-Kirche-(Norden)-2013-11-25.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Löcknitz-Kirche-(Norden)-2013-11-25.JPG/800px-Löcknitz-Kirche-(Norden)-2013-11-25.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Löcknitz-Kirche-(Norden)-2013-11-25.JPG/1200px-Löcknitz-Kirche-(Norden)-2013-11-25.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Löcknitz-Kirche-(Norden)-2013-11-25.JPG/1920px-Löcknitz-Kirche-(Norden)-2013-11-25.JPG
+  Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG/400px-Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG/800px-Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG/1200px-Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG/1920px-Löcknitz-Kirche-(Nordwesten)-2013-11-25.JPG
+  Löcknitz-Kirche-(Südosten)-2013-11-25.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Löcknitz-Kirche-(Südosten)-2013-11-25.JPG/400px-Löcknitz-Kirche-(Südosten)-2013-11-25.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Löcknitz-Kirche-(Südosten)-2013-11-25.JPG/800px-Löcknitz-Kirche-(Südosten)-2013-11-25.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Löcknitz-Kirche-(Südosten)-2013-11-25.JPG/1200px-Löcknitz-Kirche-(Südosten)-2013-11-25.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Löcknitz-Kirche-(Südosten)-2013-11-25.JPG/1920px-Löcknitz-Kirche-(Südosten)-2013-11-25.JPG
+  Löcknitz-Kirche-26-03-2010 487b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/400px-Löcknitz-Kirche-26-03-2010_487b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/800px-Löcknitz-Kirche-26-03-2010_487b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/1200px-Löcknitz-Kirche-26-03-2010_487b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Löcknitz-Kirche-26-03-2010_487b.jpg/1920px-Löcknitz-Kirche-26-03-2010_487b.jpg
 ---
 
 ## Overview

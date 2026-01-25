@@ -21,7 +21,7 @@ longitude: 8.12367
 
 # Images
 images:
-  - "/images-sites/schloss-hohenbuchau/01-7603e4a4-800w.webp"
+  - "/images/schloss-hohenbuchau/01-7603e4a4-800w.webp"
 ---
 
 ## Overview

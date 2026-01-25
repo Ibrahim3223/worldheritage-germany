@@ -1,28 +1,44 @@
 ---
-title: "Freiburg Castle"
+title: Freiburg Castle
 date: 2026-01-23
 draft: false
-description: "building in Freiburg im Breisgau, Freiburg Government Region, Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: building in Freiburg im Breisgau, Freiburg Government Region, Baden-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.993726
 longitude: 7.858187
-
-# Images
 images:
-  - "/images-sites/freiburg-castle/02-c50c9653-800w.webp"
-  - "/images-sites/freiburg-castle/03-b69c26b7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Freiburg_Bauten_b_037.jpg/1200px-Freiburg_Bauten_b_037.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg/1200px-July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg/1200px-August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiburg_Bauten_b_041.jpg/1200px-Freiburg_Bauten_b_041.jpg
+image_srcset:
+  Freiburg Bauten b 037.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Freiburg_Bauten_b_037.jpg/400px-Freiburg_Bauten_b_037.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Freiburg_Bauten_b_037.jpg/800px-Freiburg_Bauten_b_037.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Freiburg_Bauten_b_037.jpg/1200px-Freiburg_Bauten_b_037.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Freiburg_Bauten_b_037.jpg/1920px-Freiburg_Bauten_b_037.jpg
+  July Zoo Freiburg Mundenhof - Master Habitat Rhine Valley Photography 2012 - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg/400px-July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg/800px-July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg/1200px-July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg/1920px-July_Zoo_Freiburg_Mundenhof_-_Master_Habitat_Rhine_Valley_Photography_2012_-_panoramio.jpg
+  August 1989 - Fort Freiburg Place of execution - Magic Rhine Valley Photography - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg/400px-August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg/800px-August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg/1200px-August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg/1920px-August_1989_-_Fort_Freiburg_Place_of_execution_-_Magic_Rhine_Valley_Photography_-_panoramio.jpg
+  Freiburg Bauten b 041.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiburg_Bauten_b_041.jpg/400px-Freiburg_Bauten_b_041.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiburg_Bauten_b_041.jpg/800px-Freiburg_Bauten_b_041.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiburg_Bauten_b_041.jpg/1200px-Freiburg_Bauten_b_041.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiburg_Bauten_b_041.jpg/1920px-Freiburg_Bauten_b_041.jpg
 ---
 
 ## Overview

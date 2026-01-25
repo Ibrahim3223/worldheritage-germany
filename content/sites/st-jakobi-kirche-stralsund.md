@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q882586"
 description: "In the heart of Stralsund, a remarkable structure rises 68.1 meters into the sky, capturing the essence of Gothic architecture. The St.-Jakobi-Kirche, a..."
 images:
-  - "/images-sites/st-jakobi-kirche-stralsund/01-49240671-1920w.webp"
-  - "/images-sites/st-jakobi-kirche-stralsund/02-0cd1b34a-1920w.webp"
-  - "/images-sites/st-jakobi-kirche-stralsund/03-463ccaf1-1920w.webp"
+  - "/images/st-jakobi-kirche-stralsund/01-49240671-1920w.webp"
+  - "/images/st-jakobi-kirche-stralsund/02-0cd1b34a-1920w.webp"
+  - "/images/st-jakobi-kirche-stralsund/03-463ccaf1-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Edelsteinmuseum"
+title: Deutsches Edelsteinmuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7189
 longitude: 7.30444
 images:
-  - "/images-sites/deutsches-edelsteinmuseum/01-6b11439a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg/1200px-Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg/1200px-Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1200px-Deutsches_Edelsteinmuseum_IO.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg/1200px-Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG/1200px-Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG
+image_srcset:
+  Deutsches Edelsteinmuseum Idar-Oberstein bei Tageslicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg/400px-Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg/800px-Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg/1200px-Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg/1920px-Deutsches_Edelsteinmuseum_Idar-Oberstein_bei_Tageslicht.jpg
+  Idar-Oberstein, das Deutsche Edelsteinmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg/400px-Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg/800px-Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg/1200px-Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg/1920px-Idar-Oberstein,_das_Deutsche_Edelsteinmuseum.jpg
+  Deutsches Edelsteinmuseum IO.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/400px-Deutsches_Edelsteinmuseum_IO.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/800px-Deutsches_Edelsteinmuseum_IO.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1200px-Deutsches_Edelsteinmuseum_IO.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Deutsches_Edelsteinmuseum_IO.JPG/1920px-Deutsches_Edelsteinmuseum_IO.JPG
+  Hauptstraße 118, repräsentative Neurenaissance-Villa.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg/400px-Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg/800px-Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg/1200px-Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg/1920px-Hauptstraße_118,_repräsentative_Neurenaissance-Villa.jpg
+  Idar Oberstein Hauptstr 118 P1070286 c GS.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG/400px-Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG/800px-Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG/1200px-Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG/1920px-Idar_Oberstein_Hauptstr_118_P1070286_c_GS.JPG
 ---
 
 ## Overview

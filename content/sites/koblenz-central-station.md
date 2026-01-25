@@ -13,7 +13,7 @@ regions:
 latitude: 50.3506
 longitude: 7.58917
 images:
-  - "/images-sites/koblenz-central-station/01-861ca000-800w.webp"
+  - "/images/koblenz-central-station/01-861ca000-800w.webp"
 ---
 
 ## Overview

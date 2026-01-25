@@ -13,7 +13,7 @@ regions:
 latitude: 50.869166666
 longitude: 9.713611111
 images:
-  - "/images-sites/synagoge-bad-hersfeld/01-e030be7f-800w.webp"
+  - "/images/synagoge-bad-hersfeld/01-e030be7f-800w.webp"
 ---
 
 ## Overview

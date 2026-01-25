@@ -1,21 +1,49 @@
 ---
-title: "Dachau concentration camp memorial"
+title: Dachau concentration camp memorial
 date: 2026-01-23
 draft: false
-description: "heritage institution"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: heritage institution
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 48.2703
 longitude: 11.4681
 images:
-  - "/images-sites/dachau-concentration-camp-memorial/01-2bc16afc-800w.webp"
-  - "/images-sites/dachau-concentration-camp-memorial/02-b44f21c8-800w.webp"
-  - "/images-sites/dachau-concentration-camp-memorial/03-d22ce8b4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg/1200px-2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg/1200px-2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dachau-WM.jpg/1200px-Dachau-WM.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KZ_Dachau_Monument_Opfer.jpg/1200px-KZ_Dachau_Monument_Opfer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1200px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
+image_srcset:
+  2023-06-04 122046 Dachau KZ-Gedenkstätte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg/400px-2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg/800px-2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg/1200px-2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg/1920px-2023-06-04_122046_Dachau_KZ-Gedenkstätte.jpg
+  2023-06-04 131922 Dachau KZ-Gedenkstätte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg/400px-2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg/800px-2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg/1200px-2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg/1920px-2023-06-04_131922_Dachau_KZ-Gedenkstätte.jpg
+  Dachau-WM.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dachau-WM.jpg/400px-Dachau-WM.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dachau-WM.jpg/800px-Dachau-WM.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dachau-WM.jpg/1200px-Dachau-WM.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dachau-WM.jpg/1920px-Dachau-WM.jpg
+  KZ Dachau Monument Opfer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KZ_Dachau_Monument_Opfer.jpg/400px-KZ_Dachau_Monument_Opfer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KZ_Dachau_Monument_Opfer.jpg/800px-KZ_Dachau_Monument_Opfer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KZ_Dachau_Monument_Opfer.jpg/1200px-KZ_Dachau_Monument_Opfer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KZ_Dachau_Monument_Opfer.jpg/1920px-KZ_Dachau_Monument_Opfer.jpg
+  Arbeit Macht Frei (Work Sets You Free) - geo.hlipp.de - 22270.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/400px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/800px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1200px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg/1920px-Arbeit_Macht_Frei_(Work_Sets_You_Free)_-_geo.hlipp.de_-_22270.jpg
 ---
 
 ## Overview

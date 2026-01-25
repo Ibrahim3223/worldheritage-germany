@@ -1,19 +1,49 @@
 ---
-title: "Erika-Fuchs-Haus"
+title: Erika-Fuchs-Haus
 date: 2026-01-23
 draft: false
-description: "museum in Schwarzenbach an der Saale, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Schwarzenbach an der Saale, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.2224
 longitude: 11.93521
 images:
-  - "/images-sites/erika-fuchs-haus/01-cd117454-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg/1200px-Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schwarzenbach_Building_2014_xy_6.JPG/1200px-Schwarzenbach_Building_2014_xy_6.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Schwarzenbach_Zentrum_2019_xy3.jpg/1200px-Schwarzenbach_Zentrum_2019_xy3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1200px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schw_055.JPG/1200px-Schw_055.JPG
+image_srcset:
+  Dauerausstellung Erika-Fuchs-Haus DonaldDuck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg/400px-Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg/800px-Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg/1200px-Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg/1920px-Dauerausstellung_Erika-Fuchs-Haus_DonaldDuck.jpg
+  Schwarzenbach Building 2014 xy 6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schwarzenbach_Building_2014_xy_6.JPG/400px-Schwarzenbach_Building_2014_xy_6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schwarzenbach_Building_2014_xy_6.JPG/800px-Schwarzenbach_Building_2014_xy_6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schwarzenbach_Building_2014_xy_6.JPG/1200px-Schwarzenbach_Building_2014_xy_6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Schwarzenbach_Building_2014_xy_6.JPG/1920px-Schwarzenbach_Building_2014_xy_6.JPG
+  Schwarzenbach Zentrum 2019 xy3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Schwarzenbach_Zentrum_2019_xy3.jpg/400px-Schwarzenbach_Zentrum_2019_xy3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Schwarzenbach_Zentrum_2019_xy3.jpg/800px-Schwarzenbach_Zentrum_2019_xy3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Schwarzenbach_Zentrum_2019_xy3.jpg/1200px-Schwarzenbach_Zentrum_2019_xy3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Schwarzenbach_Zentrum_2019_xy3.jpg/1920px-Schwarzenbach_Zentrum_2019_xy3.jpg
+  Erika-Fuchs-Haus, Schwarzenbach an der Saale.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/400px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/800px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1200px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg/1920px-Erika-Fuchs-Haus,_Schwarzenbach_an_der_Saale.jpg
+  Schw 055.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schw_055.JPG/400px-Schw_055.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schw_055.JPG/800px-Schw_055.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schw_055.JPG/1200px-Schw_055.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schw_055.JPG/1920px-Schw_055.JPG
 ---
 
 ## Overview

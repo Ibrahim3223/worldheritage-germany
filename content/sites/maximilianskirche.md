@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q721727"
 description: "In the quaint region of Ellingen, Germany, the Maximilianskirche serves as a striking example of Rococo architecture, captivating visitors with its intr..."
 images:
-  - "/images-sites/maximilianskirche/01-7cb8a31b-1920w.webp"
-  - "/images-sites/maximilianskirche/02-c1743bfd-1920w.webp"
-  - "/images-sites/maximilianskirche/03-8bb4c3a3-1920w.webp"
+  - "/images/maximilianskirche/01-7cb8a31b-1920w.webp"
+  - "/images/maximilianskirche/02-c1743bfd-1920w.webp"
+  - "/images/maximilianskirche/03-8bb4c3a3-1920w.webp"
 ---
 
 ## Overview

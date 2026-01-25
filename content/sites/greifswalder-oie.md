@@ -1,19 +1,49 @@
 ---
-title: "Greifswalder Oie"
+title: Greifswalder Oie
 date: 2026-01-23
 draft: false
-description: "island in the Baltic Sea"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in the Baltic Sea
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.246944444
 longitude: 13.9175
 images:
-  - "/images-sites/greifswalder-oie/01-6639b533-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Greifswalder_Oie_coastline_03.jpg/1200px-Greifswalder_Oie_coastline_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greifswalder_Oie_coastline_01.jpg/1200px-Greifswalder_Oie_coastline_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Greifswalder_Oie_coastline_02.jpg/1200px-Greifswalder_Oie_coastline_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg/1200px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg/1200px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg
+image_srcset:
+  Greifswalder Oie coastline 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Greifswalder_Oie_coastline_03.jpg/400px-Greifswalder_Oie_coastline_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Greifswalder_Oie_coastline_03.jpg/800px-Greifswalder_Oie_coastline_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Greifswalder_Oie_coastline_03.jpg/1200px-Greifswalder_Oie_coastline_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Greifswalder_Oie_coastline_03.jpg/1920px-Greifswalder_Oie_coastline_03.jpg
+  Greifswalder Oie coastline 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greifswalder_Oie_coastline_01.jpg/400px-Greifswalder_Oie_coastline_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greifswalder_Oie_coastline_01.jpg/800px-Greifswalder_Oie_coastline_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greifswalder_Oie_coastline_01.jpg/1200px-Greifswalder_Oie_coastline_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Greifswalder_Oie_coastline_01.jpg/1920px-Greifswalder_Oie_coastline_01.jpg
+  Greifswalder Oie coastline 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Greifswalder_Oie_coastline_02.jpg/400px-Greifswalder_Oie_coastline_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Greifswalder_Oie_coastline_02.jpg/800px-Greifswalder_Oie_coastline_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Greifswalder_Oie_coastline_02.jpg/1200px-Greifswalder_Oie_coastline_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Greifswalder_Oie_coastline_02.jpg/1920px-Greifswalder_Oie_coastline_02.jpg
+  Greifswalder Oie aerial photograph 1992-09-18 HBdia03023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg/400px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg/800px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg/1200px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg/1920px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03023.jpg
+  Greifswalder Oie aerial photograph 1992-09-18 HBdia03024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg/400px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg/800px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg/1200px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg/1920px-Greifswalder_Oie_aerial_photograph_1992-09-18_HBdia03024.jpg
 ---
 
 ## Overview

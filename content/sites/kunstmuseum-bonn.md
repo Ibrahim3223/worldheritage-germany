@@ -21,7 +21,7 @@ longitude: 7.121028
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-bonn/01-7a1b1151-800w.webp"
+  - "/images/kunstmuseum-bonn/01-7a1b1151-800w.webp"
 ---
 
 ## Overview

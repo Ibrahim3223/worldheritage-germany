@@ -21,9 +21,9 @@ longitude: 7.205277777
 
 # Images
 images:
-  - "/images-sites/ringkopf/01-89e5ae0b-800w.webp"
-  - "/images-sites/ringkopf/02-edc7b8ad-800w.webp"
-  - "/images-sites/ringkopf/03-63dce7de-800w.webp"
+  - "/images/ringkopf/01-89e5ae0b-800w.webp"
+  - "/images/ringkopf/02-edc7b8ad-800w.webp"
+  - "/images/ringkopf/03-63dce7de-800w.webp"
 ---
 
 ## Overview

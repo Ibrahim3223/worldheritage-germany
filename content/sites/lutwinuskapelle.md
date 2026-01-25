@@ -13,7 +13,7 @@ regions:
 latitude: 49.50277
 longitude: 6.58822
 images:
-  - "/images-sites/lutwinuskapelle/01-9e6b3a04-800w.webp"
+  - "/images/lutwinuskapelle/01-9e6b3a04-800w.webp"
 ---
 
 ## Overview

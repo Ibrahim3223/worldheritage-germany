@@ -13,9 +13,9 @@ regions:
 latitude: 48.3617
 longitude: 9.992
 images:
-  - "/images-sites/wiblingen-abbey/01-33357ca2-800w.webp"
-  - "/images-sites/wiblingen-abbey/02-c8b1e75e-800w.webp"
-  - "/images-sites/wiblingen-abbey/03-a8cb99e9-800w.webp"
+  - "/images/wiblingen-abbey/01-33357ca2-800w.webp"
+  - "/images/wiblingen-abbey/02-c8b1e75e-800w.webp"
+  - "/images/wiblingen-abbey/03-a8cb99e9-800w.webp"
 ---
 
 ## Overview

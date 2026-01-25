@@ -1,19 +1,49 @@
 ---
-title: "Bornstedt Cemetery"
+title: Bornstedt Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4087
 longitude: 13.0288
 images:
-  - "/images-sites/bornstedt-cemetery/01-7bc94070-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg/1200px-Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Manger.JPG/1200px-Manger.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GraveKurtvonPlettenberg.jpg/1200px-GraveKurtvonPlettenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_Bernd_Hering.JPG/1200px-Grabstein_Bernd_Hering.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kayser-Eichberg_Carl_Potsdam.JPG/1200px-Kayser-Eichberg_Carl_Potsdam.JPG
+image_srcset:
+  Grabstein Freiherr Adolf von Sell (1885-1915).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg/400px-Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg/800px-Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg/1200px-Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg/1920px-Grabstein_Freiherr_Adolf_von_Sell_(1885-1915).jpg
+  Manger.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Manger.JPG/400px-Manger.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Manger.JPG/800px-Manger.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Manger.JPG/1200px-Manger.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Manger.JPG/1920px-Manger.JPG
+  GraveKurtvonPlettenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GraveKurtvonPlettenberg.jpg/400px-GraveKurtvonPlettenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GraveKurtvonPlettenberg.jpg/800px-GraveKurtvonPlettenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GraveKurtvonPlettenberg.jpg/1200px-GraveKurtvonPlettenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GraveKurtvonPlettenberg.jpg/1920px-GraveKurtvonPlettenberg.jpg
+  Grabstein Bernd Hering.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_Bernd_Hering.JPG/400px-Grabstein_Bernd_Hering.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_Bernd_Hering.JPG/800px-Grabstein_Bernd_Hering.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_Bernd_Hering.JPG/1200px-Grabstein_Bernd_Hering.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_Bernd_Hering.JPG/1920px-Grabstein_Bernd_Hering.JPG
+  Kayser-Eichberg Carl Potsdam.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kayser-Eichberg_Carl_Potsdam.JPG/400px-Kayser-Eichberg_Carl_Potsdam.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kayser-Eichberg_Carl_Potsdam.JPG/800px-Kayser-Eichberg_Carl_Potsdam.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kayser-Eichberg_Carl_Potsdam.JPG/1200px-Kayser-Eichberg_Carl_Potsdam.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kayser-Eichberg_Carl_Potsdam.JPG/1920px-Kayser-Eichberg_Carl_Potsdam.JPG
 ---
 
 ## Overview

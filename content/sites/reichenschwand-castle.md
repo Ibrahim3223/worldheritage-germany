@@ -13,7 +13,7 @@ regions:
 latitude: 49.5101
 longitude: 11.3766
 images:
-  - "/images-sites/reichenschwand-castle/01-18da7af3-800w.webp"
+  - "/images/reichenschwand-castle/01-18da7af3-800w.webp"
 ---
 
 ## Overview

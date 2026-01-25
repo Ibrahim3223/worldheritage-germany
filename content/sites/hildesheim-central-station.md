@@ -1,19 +1,49 @@
 ---
-title: "Hildesheim Central Station"
+title: Hildesheim Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Hildesheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Hildesheim, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1606
 longitude: 9.95389
 images:
-  - "/images-sites/hildesheim-central-station/01-47fe6816-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hildesheim_Hauptbahnhof_platforms.jpg/1200px-Hildesheim_Hauptbahnhof_platforms.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hildesheim_Hbf_nach_Osten.jpg/1200px-Hildesheim_Hbf_nach_Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HildesheimBahnhof.jpg/1200px-HildesheimBahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hildesheim_Hauptbahnhof.jpg/1200px-Hildesheim_Hauptbahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hildesheim_Hbf_2_2005.jpg/1200px-Hildesheim_Hbf_2_2005.jpg
+image_srcset:
+  Hildesheim Hauptbahnhof platforms.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hildesheim_Hauptbahnhof_platforms.jpg/400px-Hildesheim_Hauptbahnhof_platforms.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hildesheim_Hauptbahnhof_platforms.jpg/800px-Hildesheim_Hauptbahnhof_platforms.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hildesheim_Hauptbahnhof_platforms.jpg/1200px-Hildesheim_Hauptbahnhof_platforms.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hildesheim_Hauptbahnhof_platforms.jpg/1920px-Hildesheim_Hauptbahnhof_platforms.jpg
+  Hildesheim Hbf nach Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hildesheim_Hbf_nach_Osten.jpg/400px-Hildesheim_Hbf_nach_Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hildesheim_Hbf_nach_Osten.jpg/800px-Hildesheim_Hbf_nach_Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hildesheim_Hbf_nach_Osten.jpg/1200px-Hildesheim_Hbf_nach_Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hildesheim_Hbf_nach_Osten.jpg/1920px-Hildesheim_Hbf_nach_Osten.jpg
+  HildesheimBahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HildesheimBahnhof.jpg/400px-HildesheimBahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HildesheimBahnhof.jpg/800px-HildesheimBahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HildesheimBahnhof.jpg/1200px-HildesheimBahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HildesheimBahnhof.jpg/1920px-HildesheimBahnhof.jpg
+  Hildesheim Hauptbahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hildesheim_Hauptbahnhof.jpg/400px-Hildesheim_Hauptbahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hildesheim_Hauptbahnhof.jpg/800px-Hildesheim_Hauptbahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hildesheim_Hauptbahnhof.jpg/1200px-Hildesheim_Hauptbahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hildesheim_Hauptbahnhof.jpg/1920px-Hildesheim_Hauptbahnhof.jpg
+  Hildesheim Hbf 2 2005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hildesheim_Hbf_2_2005.jpg/400px-Hildesheim_Hbf_2_2005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hildesheim_Hbf_2_2005.jpg/800px-Hildesheim_Hbf_2_2005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hildesheim_Hbf_2_2005.jpg/1200px-Hildesheim_Hbf_2_2005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hildesheim_Hbf_2_2005.jpg/1920px-Hildesheim_Hbf_2_2005.jpg
 ---
 
 ## Overview

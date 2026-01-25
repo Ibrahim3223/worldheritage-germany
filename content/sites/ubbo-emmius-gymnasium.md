@@ -13,7 +13,7 @@ regions:
 latitude: 53.2323
 longitude: 7.45058
 images:
-  - "/images-sites/ubbo-emmius-gymnasium/01-c5ffb431-800w.webp"
+  - "/images/ubbo-emmius-gymnasium/01-c5ffb431-800w.webp"
 ---
 
 ## Overview

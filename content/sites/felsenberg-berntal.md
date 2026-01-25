@@ -1,19 +1,49 @@
 ---
-title: "Felsenberg-Berntal"
+title: Felsenberg-Berntal
 date: 2026-01-23
 draft: false
-description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Rheinland-Pfalz, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 49.5006
 longitude: 8.16651
 images:
-  - "/images-sites/felsenberg-berntal/01-c30dca73-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg/1200px-2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/1200px-2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/1200px-2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg/1200px-Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berntal.jpg/1200px-Berntal.jpg
+image_srcset:
+  2016.09.24.-07-Leistadt--Naturschutzgebiet Felsenberg-Berntal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg/400px-2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg/800px-2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg/1200px-2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg/1920px-2016.09.24.-07-Leistadt--Naturschutzgebiet_Felsenberg-Berntal.jpg
+  2016.09.24.-06-Felsenberg-Berntal Leistadt--Mauerfuchs-Weibchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/400px-2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/800px-2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/1200px-2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/1920px-2016.09.24.-06-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+  2016.09.24.-02-Felsenberg-Berntal Leistadt--Mauerfuchs-Weibchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/400px-2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/800px-2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/1200px-2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg/1920px-2016.09.24.-02-Felsenberg-Berntal_Leistadt--Mauerfuchs-Weibchen.jpg
+  Herxheim am Berg Felsenberg-Berntal Nature Reserve orchid 039.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg/400px-Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg/800px-Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg/1200px-Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg/1920px-Herxheim_am_Berg_Felsenberg-Berntal_Nature_Reserve_orchid_039.jpg
+  Berntal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berntal.jpg/400px-Berntal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berntal.jpg/800px-Berntal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berntal.jpg/1200px-Berntal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berntal.jpg/1920px-Berntal.jpg
 ---
 
 ## Overview

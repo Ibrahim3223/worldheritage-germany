@@ -13,7 +13,7 @@ regions:
 latitude: 52.5189
 longitude: 13.3956
 images:
-  - "/images-sites/palais-am-festungsgraben/01-75f120cf-800w.webp"
+  - "/images/palais-am-festungsgraben/01-75f120cf-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.0906
 longitude: 6.80722
 images:
-  - "/images-sites/maar-museum/01-bb6dbe0d-800w.webp"
+  - "/images/maar-museum/01-bb6dbe0d-800w.webp"
 ---
 
 ## Overview

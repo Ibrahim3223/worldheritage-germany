@@ -1,19 +1,49 @@
 ---
-title: "Hans-Sachs-Denkmal (Nürnberg)"
+title: Hans-Sachs-Denkmal (Nürnberg)
 date: 2026-01-23
 draft: false
-description: "Memorial in Nuremberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Memorial in Nuremberg
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4537
 longitude: 11.0801
 images:
-  - "/images-sites/hans-sachs-denkmal-nuernberg/01-7b9b8dc0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg/1200px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg/1200px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/1200px-Hans-Sachs-Denkmal_Nürnberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nürnberg_Hans-Sachs-Denkmal.jpg/1200px-Nürnberg_Hans-Sachs-Denkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg/1200px-Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg
+image_srcset:
+  D-5-64-000-716 Hans-Sachs-Platz, Hans-Sachs-Denkmal Nürnberg 20241020 0073.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg/400px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg/800px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg/1200px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg/1920px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0073.jpg
+  D-5-64-000-716 Hans-Sachs-Platz, Hans-Sachs-Denkmal Nürnberg 20241020 0072.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg/400px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg/800px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg/1200px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg/1920px-D-5-64-000-716_Hans-Sachs-Platz,_Hans-Sachs-Denkmal_Nürnberg_20241020_0072.jpg
+  Hans-Sachs-Denkmal Nürnberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/400px-Hans-Sachs-Denkmal_Nürnberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/800px-Hans-Sachs-Denkmal_Nürnberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/1200px-Hans-Sachs-Denkmal_Nürnberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hans-Sachs-Denkmal_Nürnberg.jpg/1920px-Hans-Sachs-Denkmal_Nürnberg.jpg
+  Nürnberg Hans-Sachs-Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nürnberg_Hans-Sachs-Denkmal.jpg/400px-Nürnberg_Hans-Sachs-Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nürnberg_Hans-Sachs-Denkmal.jpg/800px-Nürnberg_Hans-Sachs-Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nürnberg_Hans-Sachs-Denkmal.jpg/1200px-Nürnberg_Hans-Sachs-Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nürnberg_Hans-Sachs-Denkmal.jpg/1920px-Nürnberg_Hans-Sachs-Denkmal.jpg
+  Hans Sachs Denkmal Nürnberg DSCF2894.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg/400px-Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg/800px-Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg/1200px-Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg/1920px-Hans_Sachs_Denkmal_Nürnberg_DSCF2894.jpg
 ---
 
 ## Overview

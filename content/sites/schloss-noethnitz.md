@@ -13,7 +13,7 @@ regions:
 latitude: 51.0039
 longitude: 13.7304
 images:
-  - "/images-sites/schloss-noethnitz/01-52c9b77a-800w.webp"
+  - "/images/schloss-noethnitz/01-52c9b77a-800w.webp"
 ---
 
 ## Overview

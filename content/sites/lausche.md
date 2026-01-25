@@ -13,9 +13,9 @@ regions:
 latitude: 50.848888888
 longitude: 14.646944444
 images:
-  - "/images-sites/lausche/01-c1ef9a7e-800w.webp"
-  - "/images-sites/lausche/02-ae7dff19-800w.webp"
-  - "/images-sites/lausche/03-8460a477-800w.webp"
+  - "/images/lausche/01-c1ef9a7e-800w.webp"
+  - "/images/lausche/02-ae7dff19-800w.webp"
+  - "/images/lausche/03-8460a477-800w.webp"
 ---
 
 ## Overview

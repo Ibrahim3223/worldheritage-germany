@@ -13,7 +13,7 @@ regions:
 latitude: 52.515555555
 longitude: 13.510555555
 images:
-  - "/images-sites/zentralfriedhof-friedrichsfelde/01-8691e18a-800w.webp"
+  - "/images/zentralfriedhof-friedrichsfelde/01-8691e18a-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.4736
 longitude: 7.08444
 images:
-  - "/images-sites/zeche-bonifacius/01-b7567ab8-800w.webp"
-  - "/images-sites/zeche-bonifacius/02-eaea4311-800w.webp"
-  - "/images-sites/zeche-bonifacius/03-04650170-800w.webp"
+  - "/images/zeche-bonifacius/01-b7567ab8-800w.webp"
+  - "/images/zeche-bonifacius/02-eaea4311-800w.webp"
+  - "/images/zeche-bonifacius/03-04650170-800w.webp"
 ---
 
 ## Overview

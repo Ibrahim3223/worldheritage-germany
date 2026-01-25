@@ -21,7 +21,7 @@ longitude: 9.26867
 
 # Images
 images:
-  - "/images-sites/wirtemberg-castle/01-22dba66a-800w.webp"
+  - "/images/wirtemberg-castle/01-22dba66a-800w.webp"
 ---
 
 ## Overview

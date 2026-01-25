@@ -1,20 +1,52 @@
 ---
-title: "Evangelische Kirche Wintersweiler"
-site_name: "Evangelische Kirche Wintersweiler"
-slug: "evangelische-kirche-wintersweiler"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische Kirche Wintersweiler
+site_name: Evangelische Kirche Wintersweiler
+slug: evangelische-kirche-wintersweiler
+region: Baden-Württemberg
 latitude: 47.6744292
 longitude: 7.56813169
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380977"
-description: "The Evangelische Kirche Wintersweiler, a striking example of baroque architecture, invites visitors to explore its rich heritage in the quaint village o..."
+- church building
+- religious site
+wikidata_id: Q1380977
+description: The Evangelische Kirche Wintersweiler, a striking example of baroque
+  architecture, invites visitors to explore its rich heritage in the quaint village
+  o...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wintersweiler%20-%20Evangelische%20Kirche9.jpg/1200px-Wintersweiler%20-%20Evangelische%20Kirche9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wintersweiler_-_Evangelische_Kirche5.jpg/1200px-Wintersweiler_-_Evangelische_Kirche5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wintersweiler_-_Evangelische_Kirche7.jpg/1200px-Wintersweiler_-_Evangelische_Kirche7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wintersweiler_-_Evangelische_Kirche10.jpg/1200px-Wintersweiler_-_Evangelische_Kirche10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/1200px-Wintersweiler_-_Evangelische_Kirche9.jpg
+image_srcset:
+  Wintersweiler%20-%20Evangelische%20Kirche9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wintersweiler%20-%20Evangelische%20Kirche9.jpg/400px-Wintersweiler%20-%20Evangelische%20Kirche9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wintersweiler%20-%20Evangelische%20Kirche9.jpg/800px-Wintersweiler%20-%20Evangelische%20Kirche9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wintersweiler%20-%20Evangelische%20Kirche9.jpg/1200px-Wintersweiler%20-%20Evangelische%20Kirche9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wintersweiler%20-%20Evangelische%20Kirche9.jpg/1920px-Wintersweiler%20-%20Evangelische%20Kirche9.jpg
+  Wintersweiler - Evangelische Kirche5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wintersweiler_-_Evangelische_Kirche5.jpg/400px-Wintersweiler_-_Evangelische_Kirche5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wintersweiler_-_Evangelische_Kirche5.jpg/800px-Wintersweiler_-_Evangelische_Kirche5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wintersweiler_-_Evangelische_Kirche5.jpg/1200px-Wintersweiler_-_Evangelische_Kirche5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wintersweiler_-_Evangelische_Kirche5.jpg/1920px-Wintersweiler_-_Evangelische_Kirche5.jpg
+  Wintersweiler - Evangelische Kirche7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wintersweiler_-_Evangelische_Kirche7.jpg/400px-Wintersweiler_-_Evangelische_Kirche7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wintersweiler_-_Evangelische_Kirche7.jpg/800px-Wintersweiler_-_Evangelische_Kirche7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wintersweiler_-_Evangelische_Kirche7.jpg/1200px-Wintersweiler_-_Evangelische_Kirche7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wintersweiler_-_Evangelische_Kirche7.jpg/1920px-Wintersweiler_-_Evangelische_Kirche7.jpg
+  Wintersweiler - Evangelische Kirche10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wintersweiler_-_Evangelische_Kirche10.jpg/400px-Wintersweiler_-_Evangelische_Kirche10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wintersweiler_-_Evangelische_Kirche10.jpg/800px-Wintersweiler_-_Evangelische_Kirche10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wintersweiler_-_Evangelische_Kirche10.jpg/1200px-Wintersweiler_-_Evangelische_Kirche10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wintersweiler_-_Evangelische_Kirche10.jpg/1920px-Wintersweiler_-_Evangelische_Kirche10.jpg
+  Wintersweiler - Evangelische Kirche9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/400px-Wintersweiler_-_Evangelische_Kirche9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/800px-Wintersweiler_-_Evangelische_Kirche9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/1200px-Wintersweiler_-_Evangelische_Kirche9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Wintersweiler_-_Evangelische_Kirche9.jpg/1920px-Wintersweiler_-_Evangelische_Kirche9.jpg
 ---
 
 ## Overview

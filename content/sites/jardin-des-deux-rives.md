@@ -1,19 +1,50 @@
 ---
-title: "Jardin des Deux Rives"
+title: Jardin des Deux Rives
 date: 2026-01-23
 draft: false
-description: "park on the French and the German bank of the river Rhine; in Strasbourg (France) and Kehl (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park on the French and the German bank of the river Rhine; in Strasbourg
+  (France) and Kehl (Germany)
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5693
 longitude: 7.8029
 images:
-  - "/images-sites/jardin-des-deux-rives/01-2d567b1d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20180915Jardin_des_Deux_Rives_01.jpg/1200px-20180915Jardin_des_Deux_Rives_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Passerelle_des_Deux_Rives.JPG/1200px-Passerelle_des_Deux_Rives.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg/1200px-Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PasserelleMimram-J2R-RemiLEBLOND.jpg/1200px-PasserelleMimram-J2R-RemiLEBLOND.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg/1200px-Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg
+image_srcset:
+  20180915Jardin des Deux Rives 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20180915Jardin_des_Deux_Rives_01.jpg/400px-20180915Jardin_des_Deux_Rives_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20180915Jardin_des_Deux_Rives_01.jpg/800px-20180915Jardin_des_Deux_Rives_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20180915Jardin_des_Deux_Rives_01.jpg/1200px-20180915Jardin_des_Deux_Rives_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20180915Jardin_des_Deux_Rives_01.jpg/1920px-20180915Jardin_des_Deux_Rives_01.jpg
+  Passerelle des Deux Rives.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Passerelle_des_Deux_Rives.JPG/400px-Passerelle_des_Deux_Rives.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Passerelle_des_Deux_Rives.JPG/800px-Passerelle_des_Deux_Rives.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Passerelle_des_Deux_Rives.JPG/1200px-Passerelle_des_Deux_Rives.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Passerelle_des_Deux_Rives.JPG/1920px-Passerelle_des_Deux_Rives.JPG
+  Pancarte - Au fond du Jardin - Jardin des deux rives.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg/400px-Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg/800px-Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg/1200px-Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg/1920px-Pancarte_-_Au_fond_du_Jardin_-_Jardin_des_deux_rives.jpg
+  PasserelleMimram-J2R-RemiLEBLOND.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PasserelleMimram-J2R-RemiLEBLOND.jpg/400px-PasserelleMimram-J2R-RemiLEBLOND.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PasserelleMimram-J2R-RemiLEBLOND.jpg/800px-PasserelleMimram-J2R-RemiLEBLOND.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PasserelleMimram-J2R-RemiLEBLOND.jpg/1200px-PasserelleMimram-J2R-RemiLEBLOND.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PasserelleMimram-J2R-RemiLEBLOND.jpg/1920px-PasserelleMimram-J2R-RemiLEBLOND.jpg
+  Kehl et Strasbourg, 07-2025, du sommet de la tour en Sapin-blanc 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg/400px-Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg/800px-Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg/1200px-Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg/1920px-Kehl_et_Strasbourg,_07-2025,_du_sommet_de_la_tour_en_Sapin-blanc_02.jpg
 ---
 
 ## Overview

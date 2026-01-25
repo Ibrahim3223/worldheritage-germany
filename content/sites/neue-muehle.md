@@ -13,7 +13,7 @@ regions:
 latitude: 50.9767
 longitude: 11.03
 images:
-  - "/images-sites/neue-muehle/01-bcb440c0-800w.webp"
+  - "/images/neue-muehle/01-bcb440c0-800w.webp"
 ---
 
 ## Overview

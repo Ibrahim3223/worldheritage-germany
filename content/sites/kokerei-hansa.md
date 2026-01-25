@@ -13,9 +13,9 @@ regions:
 latitude: 51.5407
 longitude: 7.41221
 images:
-  - "/images-sites/kokerei-hansa/01-94734175-800w.webp"
-  - "/images-sites/kokerei-hansa/02-c22cc0f6-800w.webp"
-  - "/images-sites/kokerei-hansa/03-baedd4f5-800w.webp"
+  - "/images/kokerei-hansa/01-94734175-800w.webp"
+  - "/images/kokerei-hansa/02-c22cc0f6-800w.webp"
+  - "/images/kokerei-hansa/03-baedd4f5-800w.webp"
 ---
 
 ## Overview

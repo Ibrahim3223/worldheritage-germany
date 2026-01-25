@@ -1,20 +1,49 @@
 ---
-title: "Deutsches Zollmuseum"
+title: Deutsches Zollmuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54611111
 longitude: 9.99916667
 images:
-  - "/images-sites/deutsches-zollmuseum/02-0864ed75-800w.webp"
-  - "/images-sites/deutsches-zollmuseum/03-39f7afe0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_Barkassenfahrt_NIK_3313.jpg/1200px-Hamburg,_Barkassenfahrt_NIK_3313.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alter_Wandrahm_15a.jpg/1200px-Alter_Wandrahm_15a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg/1200px-Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zollmuseum_Erdgeschoss.jpg/1200px-Zollmuseum_Erdgeschoss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/1200px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
+image_srcset:
+  Hamburg, Barkassenfahrt NIK 3313.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_Barkassenfahrt_NIK_3313.jpg/400px-Hamburg,_Barkassenfahrt_NIK_3313.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_Barkassenfahrt_NIK_3313.jpg/800px-Hamburg,_Barkassenfahrt_NIK_3313.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_Barkassenfahrt_NIK_3313.jpg/1200px-Hamburg,_Barkassenfahrt_NIK_3313.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hamburg,_Barkassenfahrt_NIK_3313.jpg/1920px-Hamburg,_Barkassenfahrt_NIK_3313.jpg
+  Alter Wandrahm 15a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alter_Wandrahm_15a.jpg/400px-Alter_Wandrahm_15a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alter_Wandrahm_15a.jpg/800px-Alter_Wandrahm_15a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alter_Wandrahm_15a.jpg/1200px-Alter_Wandrahm_15a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alter_Wandrahm_15a.jpg/1920px-Alter_Wandrahm_15a.jpg
+  Hamburg-090613-0236-DSC 8333-Zollmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg/400px-Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg/800px-Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg/1200px-Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg/1920px-Hamburg-090613-0236-DSC_8333-Zollmuseum.jpg
+  Zollmuseum Erdgeschoss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zollmuseum_Erdgeschoss.jpg/400px-Zollmuseum_Erdgeschoss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zollmuseum_Erdgeschoss.jpg/800px-Zollmuseum_Erdgeschoss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zollmuseum_Erdgeschoss.jpg/1200px-Zollmuseum_Erdgeschoss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zollmuseum_Erdgeschoss.jpg/1920px-Zollmuseum_Erdgeschoss.jpg
+  Hamburg Zollmuseum Zollkreuzer 01 KMJ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/400px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/800px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/1200px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg/1920px-Hamburg_Zollmuseum_Zollkreuzer_01_KMJ.jpg
 ---
 
 ## Overview

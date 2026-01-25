@@ -1,21 +1,49 @@
 ---
-title: "Heiglkopf"
+title: Heiglkopf
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.733611111
 longitude: 11.506666666
 images:
-  - "/images-sites/heiglkopf/01-843ef2d0-800w.webp"
-  - "/images-sites/heiglkopf/02-2d24ee2c-800w.webp"
-  - "/images-sites/heiglkopf/03-e405ef50-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Heigelkopf,_summit.jpg/1200px-Heigelkopf,_summit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Heigelkopf_1.jpg/1200px-Heigelkopf_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Heigelkopf_2.jpg/1200px-Heigelkopf_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Heiglkopf.jpg/1200px-Heiglkopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heiglkopf.JPG/1200px-Heiglkopf.JPG
+image_srcset:
+  Heigelkopf, summit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Heigelkopf,_summit.jpg/400px-Heigelkopf,_summit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Heigelkopf,_summit.jpg/800px-Heigelkopf,_summit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Heigelkopf,_summit.jpg/1200px-Heigelkopf,_summit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Heigelkopf,_summit.jpg/1920px-Heigelkopf,_summit.jpg
+  Heigelkopf 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Heigelkopf_1.jpg/400px-Heigelkopf_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Heigelkopf_1.jpg/800px-Heigelkopf_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Heigelkopf_1.jpg/1200px-Heigelkopf_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Heigelkopf_1.jpg/1920px-Heigelkopf_1.jpg
+  Heigelkopf 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Heigelkopf_2.jpg/400px-Heigelkopf_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Heigelkopf_2.jpg/800px-Heigelkopf_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Heigelkopf_2.jpg/1200px-Heigelkopf_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Heigelkopf_2.jpg/1920px-Heigelkopf_2.jpg
+  Heiglkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Heiglkopf.jpg/400px-Heiglkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Heiglkopf.jpg/800px-Heiglkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Heiglkopf.jpg/1200px-Heiglkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Heiglkopf.jpg/1920px-Heiglkopf.jpg
+  Heiglkopf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heiglkopf.JPG/400px-Heiglkopf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heiglkopf.JPG/800px-Heiglkopf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heiglkopf.JPG/1200px-Heiglkopf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heiglkopf.JPG/1920px-Heiglkopf.JPG
 ---
 
 ## Overview

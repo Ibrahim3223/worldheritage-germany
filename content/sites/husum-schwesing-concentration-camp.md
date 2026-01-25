@@ -1,19 +1,50 @@
 ---
-title: "Husum-Schwesing concentration camp"
+title: Husum-Schwesing concentration camp
 date: 2026-01-23
 draft: false
-description: "former satellite camp of the Neuengamme concentration camp in Schwesig, Schleswig-Holstein (1944)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: former satellite camp of the Neuengamme concentration camp in Schwesig,
+  Schleswig-Holstein (1944)
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 54.51003
 longitude: 9.11779
 images:
-  - "/images-sites/husum-schwesing-concentration-camp/01-06b7176c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Schwesing_21.jpg/1200px-Schwesing_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg/1200px-KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg/1200px-KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg/1200px-KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/1200px-KZ_Husum-Schwesingen.jpg
+image_srcset:
+  Schwesing 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Schwesing_21.jpg/400px-Schwesing_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Schwesing_21.jpg/800px-Schwesing_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Schwesing_21.jpg/1200px-Schwesing_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Schwesing_21.jpg/1920px-Schwesing_21.jpg
+  KZ-Husum-Schwesing - Gedenkstaette-Tafel-zur-Geschichte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg/400px-KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg/800px-KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg/1200px-KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg/1920px-KZ-Husum-Schwesing_-_Gedenkstaette-Tafel-zur-Geschichte.jpg
+  KZ-Husum-Schwesing - Gedenkstaette-Gebaeude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg/400px-KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg/800px-KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg/1200px-KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg/1920px-KZ-Husum-Schwesing_-_Gedenkstaette-Gebaeude.jpg
+  KZ-Husum-Schwesing - Gedenkstaette-Informationstafel-Lo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg/400px-KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg/800px-KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg/1200px-KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg/1920px-KZ-Husum-Schwesing_-_Gedenkstaette-Informationstafel-Lo.jpg
+  KZ Husum-Schwesingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/400px-KZ_Husum-Schwesingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/800px-KZ_Husum-Schwesingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/1200px-KZ_Husum-Schwesingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/KZ_Husum-Schwesingen.jpg/1920px-KZ_Husum-Schwesingen.jpg
 ---
 
 ## Overview

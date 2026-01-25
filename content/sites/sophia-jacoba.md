@@ -13,8 +13,8 @@ regions:
 latitude: 51.05778
 longitude: 6.21472
 images:
-  - "/images-sites/sophia-jacoba/01-47390c79-800w.webp"
-  - "/images-sites/sophia-jacoba/02-72e082ad-800w.webp"
+  - "/images/sophia-jacoba/01-47390c79-800w.webp"
+  - "/images/sophia-jacoba/02-72e082ad-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 49.4122
 longitude: 8.71028
 images:
-  - "/images-sites/marktplatz/02-5998422b-800w.webp"
-  - "/images-sites/marktplatz/03-6d36d988-800w.webp"
+  - "/images/marktplatz/02-5998422b-800w.webp"
+  - "/images/marktplatz/03-6d36d988-800w.webp"
 ---
 
 ## Overview

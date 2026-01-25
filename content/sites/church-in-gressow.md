@@ -1,19 +1,50 @@
 ---
-title: "Church in Gressow"
-site_name: "Church in Gressow"
-slug: "church-in-gressow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Gressow
+site_name: Church in Gressow
+slug: church-in-gressow
+region: Mecklenburg-Vorpommern
 latitude: 53.864
 longitude: 11.3242
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244313"
-description: "Imagine standing before a remarkable structure that encapsulates centuries of history and architectural ingenuity. The Church in Gressow, located in the..."
+- cultural site
+wikidata_id: Q1244313
+description: Imagine standing before a remarkable structure that encapsulates centuries
+  of history and architectural ingenuity. The Church in Gressow, located in the...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gressow%20Dorfkirche%2001.jpg/1200px-Gressow%20Dorfkirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gressow_Dorfkirche_01.jpg/1200px-Gressow_Dorfkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/10034_Gressow_Spuren_d_Sakristei.JPG/1200px-10034_Gressow_Spuren_d_Sakristei.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/10037_Gressow_Kirchturm_v_NO.JPG/1200px-10037_Gressow_Kirchturm_v_NO.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gressow_Kirche_4.jpg/1200px-Gressow_Kirche_4.jpg
+image_srcset:
+  Gressow%20Dorfkirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gressow%20Dorfkirche%2001.jpg/400px-Gressow%20Dorfkirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gressow%20Dorfkirche%2001.jpg/800px-Gressow%20Dorfkirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gressow%20Dorfkirche%2001.jpg/1200px-Gressow%20Dorfkirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gressow%20Dorfkirche%2001.jpg/1920px-Gressow%20Dorfkirche%2001.jpg
+  Gressow Dorfkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gressow_Dorfkirche_01.jpg/400px-Gressow_Dorfkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gressow_Dorfkirche_01.jpg/800px-Gressow_Dorfkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gressow_Dorfkirche_01.jpg/1200px-Gressow_Dorfkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gressow_Dorfkirche_01.jpg/1920px-Gressow_Dorfkirche_01.jpg
+  10034 Gressow Spuren d Sakristei.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/10034_Gressow_Spuren_d_Sakristei.JPG/400px-10034_Gressow_Spuren_d_Sakristei.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/10034_Gressow_Spuren_d_Sakristei.JPG/800px-10034_Gressow_Spuren_d_Sakristei.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/10034_Gressow_Spuren_d_Sakristei.JPG/1200px-10034_Gressow_Spuren_d_Sakristei.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/10034_Gressow_Spuren_d_Sakristei.JPG/1920px-10034_Gressow_Spuren_d_Sakristei.JPG
+  10037 Gressow Kirchturm v NO.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/10037_Gressow_Kirchturm_v_NO.JPG/400px-10037_Gressow_Kirchturm_v_NO.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/10037_Gressow_Kirchturm_v_NO.JPG/800px-10037_Gressow_Kirchturm_v_NO.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/10037_Gressow_Kirchturm_v_NO.JPG/1200px-10037_Gressow_Kirchturm_v_NO.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/10037_Gressow_Kirchturm_v_NO.JPG/1920px-10037_Gressow_Kirchturm_v_NO.JPG
+  Gressow Kirche 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gressow_Kirche_4.jpg/400px-Gressow_Kirche_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gressow_Kirche_4.jpg/800px-Gressow_Kirche_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gressow_Kirche_4.jpg/1200px-Gressow_Kirche_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gressow_Kirche_4.jpg/1920px-Gressow_Kirche_4.jpg
 ---
 
 ## Overview

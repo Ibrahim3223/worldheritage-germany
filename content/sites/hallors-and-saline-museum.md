@@ -1,21 +1,49 @@
 ---
-title: "Hallors and Saline Museum"
+title: Hallors and Saline Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4822
 longitude: 11.9596
 images:
-  - "/images-sites/hallors-and-saline-museum/01-3c46a325-800w.webp"
-  - "/images-sites/hallors-and-saline-museum/02-e5f79fa8-800w.webp"
-  - "/images-sites/hallors-and-saline-museum/03-ae07d6e9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle_an_der_Saale,_Salinemuseum_02.JPG/1200px-Halle_an_der_Saale,_Salinemuseum_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_(Saale)_Saline_Kristallsaeulen_2.jpg/1200px-Halle_(Saale)_Saline_Kristallsaeulen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2006_06_Saline.jpg/1200px-2006_06_Saline.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SalineHalle.JPG/1200px-SalineHalle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SalineMuseum11.jpg/1200px-SalineMuseum11.jpg
+image_srcset:
+  Halle an der Saale, Salinemuseum 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle_an_der_Saale,_Salinemuseum_02.JPG/400px-Halle_an_der_Saale,_Salinemuseum_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle_an_der_Saale,_Salinemuseum_02.JPG/800px-Halle_an_der_Saale,_Salinemuseum_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle_an_der_Saale,_Salinemuseum_02.JPG/1200px-Halle_an_der_Saale,_Salinemuseum_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle_an_der_Saale,_Salinemuseum_02.JPG/1920px-Halle_an_der_Saale,_Salinemuseum_02.JPG
+  Halle (Saale) Saline Kristallsaeulen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_(Saale)_Saline_Kristallsaeulen_2.jpg/400px-Halle_(Saale)_Saline_Kristallsaeulen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_(Saale)_Saline_Kristallsaeulen_2.jpg/800px-Halle_(Saale)_Saline_Kristallsaeulen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_(Saale)_Saline_Kristallsaeulen_2.jpg/1200px-Halle_(Saale)_Saline_Kristallsaeulen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Halle_(Saale)_Saline_Kristallsaeulen_2.jpg/1920px-Halle_(Saale)_Saline_Kristallsaeulen_2.jpg
+  2006 06 Saline.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2006_06_Saline.jpg/400px-2006_06_Saline.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2006_06_Saline.jpg/800px-2006_06_Saline.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2006_06_Saline.jpg/1200px-2006_06_Saline.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2006_06_Saline.jpg/1920px-2006_06_Saline.jpg
+  SalineHalle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SalineHalle.JPG/400px-SalineHalle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SalineHalle.JPG/800px-SalineHalle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SalineHalle.JPG/1200px-SalineHalle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SalineHalle.JPG/1920px-SalineHalle.JPG
+  SalineMuseum11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SalineMuseum11.jpg/400px-SalineMuseum11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SalineMuseum11.jpg/800px-SalineMuseum11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SalineMuseum11.jpg/1200px-SalineMuseum11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SalineMuseum11.jpg/1920px-SalineMuseum11.jpg
 ---
 
 ## Overview

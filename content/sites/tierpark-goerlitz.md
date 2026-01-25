@@ -13,7 +13,7 @@ regions:
 latitude: 51.1421
 longitude: 14.9801
 images:
-  - "/images-sites/tierpark-goerlitz/01-45c11aeb-800w.webp"
+  - "/images/tierpark-goerlitz/01-45c11aeb-800w.webp"
 ---
 
 ## Overview

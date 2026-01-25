@@ -1,27 +1,43 @@
 ---
-title: "Hunnesrück Castle"
+title: Hunnesrück Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.8211
 longitude: 9.6825
-
-# Images
 images:
-  - "/images-sites/hunnesrueck-castle/01-d2419c7f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hunnesrück_gesamt.jpg/1200px-Hunnesrück_gesamt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hunnesrück_Amt_1833.png/1200px-Hunnesrück_Amt_1833.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/1200px-Hunnesrück_Berge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hunnesrück_Steine.jpg/1200px-Hunnesrück_Steine.jpg
+image_srcset:
+  Hunnesrück gesamt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hunnesrück_gesamt.jpg/400px-Hunnesrück_gesamt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hunnesrück_gesamt.jpg/800px-Hunnesrück_gesamt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hunnesrück_gesamt.jpg/1200px-Hunnesrück_gesamt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hunnesrück_gesamt.jpg/1920px-Hunnesrück_gesamt.jpg
+  Hunnesrück Amt 1833.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hunnesrück_Amt_1833.png/400px-Hunnesrück_Amt_1833.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hunnesrück_Amt_1833.png/800px-Hunnesrück_Amt_1833.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hunnesrück_Amt_1833.png/1200px-Hunnesrück_Amt_1833.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hunnesrück_Amt_1833.png/1920px-Hunnesrück_Amt_1833.png
+  Hunnesrück Berge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/400px-Hunnesrück_Berge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/800px-Hunnesrück_Berge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/1200px-Hunnesrück_Berge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hunnesrück_Berge.jpg/1920px-Hunnesrück_Berge.jpg
+  Hunnesrück Steine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hunnesrück_Steine.jpg/400px-Hunnesrück_Steine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hunnesrück_Steine.jpg/800px-Hunnesrück_Steine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hunnesrück_Steine.jpg/1200px-Hunnesrück_Steine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hunnesrück_Steine.jpg/1920px-Hunnesrück_Steine.jpg
 ---
 
 ## Overview

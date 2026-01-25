@@ -13,7 +13,7 @@ regions:
 latitude: 48.396943783
 longitude: 10.358853598
 images:
-  - "/images-sites/wettenhausen-abbey/01-7f24d993-800w.webp"
+  - "/images/wettenhausen-abbey/01-7f24d993-800w.webp"
 ---
 
 ## Overview

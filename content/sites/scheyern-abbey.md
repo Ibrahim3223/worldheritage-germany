@@ -21,7 +21,7 @@ longitude: 11.453130928
 
 # Images
 images:
-  - "/images-sites/scheyern-abbey/01-c4bf7dc2-800w.webp"
+  - "/images/scheyern-abbey/01-c4bf7dc2-800w.webp"
 ---
 
 ## Overview

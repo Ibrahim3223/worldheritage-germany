@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q630935"
 description: "Münchenlohra Abbey, a prominent church building located in the region of Großlohra, Germany, stands as a remarkable example of Romanesque architecture. ..."
 images:
-  - "/images-sites/munchenlohra-abbey/01-fa2645e1-1920w.webp"
-  - "/images-sites/munchenlohra-abbey/02-d9039b80-1920w.webp"
-  - "/images-sites/munchenlohra-abbey/03-4182ca41-1920w.webp"
+  - "/images/munchenlohra-abbey/01-fa2645e1-1920w.webp"
+  - "/images/munchenlohra-abbey/02-d9039b80-1920w.webp"
+  - "/images/munchenlohra-abbey/03-4182ca41-1920w.webp"
 ---
 
 ## Overview

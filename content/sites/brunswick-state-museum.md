@@ -1,19 +1,49 @@
 ---
-title: "Brunswick State Museum"
+title: Brunswick State Museum
 date: 2026-01-23
 draft: false
-description: "history museum in Braunschweig, Germany focused on regional history"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: history museum in Braunschweig, Germany focused on regional history
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2647
 longitude: 10.5231
 images:
-  - "/images-sites/brunswick-state-museum/01-953826e5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Braunschweig_Burgplatz_northern_side.jpg/1200px-Braunschweig_Burgplatz_northern_side.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG/1200px-Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg/1200px-Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/1200px-Braunschweig,_Landesmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweiger_Löwe_(Kopie)_1.jpg/1200px-Braunschweiger_Löwe_(Kopie)_1.jpg
+image_srcset:
+  Braunschweig Burgplatz northern side.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Braunschweig_Burgplatz_northern_side.jpg/400px-Braunschweig_Burgplatz_northern_side.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Braunschweig_Burgplatz_northern_side.jpg/800px-Braunschweig_Burgplatz_northern_side.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Braunschweig_Burgplatz_northern_side.jpg/1200px-Braunschweig_Burgplatz_northern_side.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Braunschweig_Burgplatz_northern_side.jpg/1920px-Braunschweig_Burgplatz_northern_side.jpg
+  Bronzesäule 2000 Jahre Christentum Braunschweig.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG/400px-Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG/800px-Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG/1200px-Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG/1920px-Bronzesäule_2000_Jahre_Christentum_Braunschweig.JPG
+  Braunschweig Braunschweigisches Landesmuseum (BLM).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg/400px-Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg/800px-Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg/1200px-Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg/1920px-Braunschweig_Braunschweigisches_Landesmuseum_(BLM).jpg
+  Braunschweig, Landesmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/400px-Braunschweig,_Landesmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/800px-Braunschweig,_Landesmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/1200px-Braunschweig,_Landesmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Braunschweig,_Landesmuseum.jpg/1920px-Braunschweig,_Landesmuseum.jpg
+  Braunschweiger Löwe (Kopie) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweiger_Löwe_(Kopie)_1.jpg/400px-Braunschweiger_Löwe_(Kopie)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweiger_Löwe_(Kopie)_1.jpg/800px-Braunschweiger_Löwe_(Kopie)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweiger_Löwe_(Kopie)_1.jpg/1200px-Braunschweiger_Löwe_(Kopie)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Braunschweiger_Löwe_(Kopie)_1.jpg/1920px-Braunschweiger_Löwe_(Kopie)_1.jpg
 ---
 
 ## Overview

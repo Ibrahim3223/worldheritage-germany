@@ -21,7 +21,7 @@ longitude: 8.773141
 
 # Images
 images:
-  - "/images-sites/marburger-kunstverein/01-df76182a-800w.webp"
+  - "/images/marburger-kunstverein/01-df76182a-800w.webp"
 ---
 
 ## Overview

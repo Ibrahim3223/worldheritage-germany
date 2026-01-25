@@ -1,19 +1,49 @@
 ---
-title: "Gerechtigkeitsbrunnen"
+title: Gerechtigkeitsbrunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1103
 longitude: 8.68222
 images:
-  - "/images-sites/gerechtigkeitsbrunnen/01-dbb62db1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg/1200px-Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/1722_Frankfurt_im_Coronajahr_2020.jpg/1200px-1722_Frankfurt_im_Coronajahr_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gerechtigkeitsbrunnen,_Bern.jpg/1200px-Gerechtigkeitsbrunnen,_Bern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fontaine_de_la_Justice.jpg/1200px-Fontaine_de_la_Justice.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg/1200px-Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg
+image_srcset:
+  Justitia, Gerechtigkeitsbrunnen in Bern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg/400px-Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg/800px-Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg/1200px-Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg/1920px-Justitia,_Gerechtigkeitsbrunnen_in_Bern.jpg
+  1722 Frankfurt im Coronajahr 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/1722_Frankfurt_im_Coronajahr_2020.jpg/400px-1722_Frankfurt_im_Coronajahr_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/1722_Frankfurt_im_Coronajahr_2020.jpg/800px-1722_Frankfurt_im_Coronajahr_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/1722_Frankfurt_im_Coronajahr_2020.jpg/1200px-1722_Frankfurt_im_Coronajahr_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/1722_Frankfurt_im_Coronajahr_2020.jpg/1920px-1722_Frankfurt_im_Coronajahr_2020.jpg
+  Gerechtigkeitsbrunnen, Bern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gerechtigkeitsbrunnen,_Bern.jpg/400px-Gerechtigkeitsbrunnen,_Bern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gerechtigkeitsbrunnen,_Bern.jpg/800px-Gerechtigkeitsbrunnen,_Bern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gerechtigkeitsbrunnen,_Bern.jpg/1200px-Gerechtigkeitsbrunnen,_Bern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gerechtigkeitsbrunnen,_Bern.jpg/1920px-Gerechtigkeitsbrunnen,_Bern.jpg
+  Fontaine de la Justice.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fontaine_de_la_Justice.jpg/400px-Fontaine_de_la_Justice.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fontaine_de_la_Justice.jpg/800px-Fontaine_de_la_Justice.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fontaine_de_la_Justice.jpg/1200px-Fontaine_de_la_Justice.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fontaine_de_la_Justice.jpg/1920px-Fontaine_de_la_Justice.jpg
+  Bern Gerechtigkeitsbrunnen Aug 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg/400px-Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg/800px-Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg/1200px-Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg/1920px-Bern_Gerechtigkeitsbrunnen_Aug_2011.jpg
 ---
 
 ## Overview

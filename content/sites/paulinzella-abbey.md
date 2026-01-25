@@ -13,7 +13,7 @@ regions:
 latitude: 50.7025
 longitude: 11.1044
 images:
-  - "/images-sites/paulinzella-abbey/01-7aed262b-800w.webp"
+  - "/images/paulinzella-abbey/01-7aed262b-800w.webp"
 ---
 
 ## Overview

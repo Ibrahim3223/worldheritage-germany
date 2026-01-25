@@ -1,27 +1,49 @@
 ---
-title: "Colonia Ulpia Traiana"
+title: Colonia Ulpia Traiana
 date: 2026-01-23
 draft: false
-description: "ancient Roman city"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: ancient Roman city
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.6667
 longitude: 6.45
-
-# Images
 images:
-  - "/images-sites/colonia-ulpia-traiana/01-65b332b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG/1200px-Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg/1200px-Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg/1200px-GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/1200px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg/1200px-Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg
+image_srcset:
+  Xanten - Replikat eines Weihaltars (1980-04-26 Sp).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG/400px-Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG/800px-Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG/1200px-Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG/1920px-Xanten_-_Replikat_eines_Weihaltars_(1980-04-26_Sp).JPG
+  Reconstructed Roman amphitheatre in the archeological park, Xanten 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg/400px-Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg/800px-Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg/1200px-Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg/1920px-Reconstructed_Roman_amphitheatre_in_the_archeological_park,_Xanten_04.jpg
+  GLAM on Tour - APX Xanten - Das Nordtor (08).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg/400px-GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg/800px-GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg/1200px-GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg/1920px-GLAM_on_Tour_-_APX_Xanten_-_Das_Nordtor_(08).jpg
+  Xanten, Archäologischer Park, Hafentempel, 2018-08 CN-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/400px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/800px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/1200px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg/1920px-Xanten,_Archäologischer_Park,_Hafentempel,_2018-08_CN-04.jpg
+  Harbor temple (1) (archaeological park Xanten, Germany, 2005-04-23).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg/400px-Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg/800px-Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg/1200px-Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg/1920px-Harbor_temple_(1)_(archaeological_park_Xanten,_Germany,_2005-04-23).jpg
 ---
 
 ## Overview

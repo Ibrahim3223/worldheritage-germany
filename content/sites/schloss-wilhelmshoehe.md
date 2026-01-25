@@ -21,9 +21,9 @@ longitude: 9.416111111
 
 # Images
 images:
-  - "/images-sites/schloss-wilhelmshoehe/01-35303e5e-800w.webp"
-  - "/images-sites/schloss-wilhelmshoehe/02-ae1008f7-800w.webp"
-  - "/images-sites/schloss-wilhelmshoehe/03-dffd7c2d-800w.webp"
+  - "/images/schloss-wilhelmshoehe/01-35303e5e-800w.webp"
+  - "/images/schloss-wilhelmshoehe/02-ae1008f7-800w.webp"
+  - "/images/schloss-wilhelmshoehe/03-dffd7c2d-800w.webp"
 ---
 
 ## Overview

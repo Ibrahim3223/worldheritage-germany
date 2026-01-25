@@ -1,29 +1,49 @@
 ---
-title: "Duisburg-Ruhrort Hafen"
+title: Duisburg-Ruhrort Hafen
 date: 2026-01-23
 draft: false
-description: "port"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: port
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4525
 longitude: 6.76
-
-# Images
 images:
-  - "/images-sites/duisburg-ruhrort-hafen/01-1d2b6696-800w.webp"
-  - "/images-sites/duisburg-ruhrort-hafen/02-791fdc20-800w.webp"
-  - "/images-sites/duisburg-ruhrort-hafen/03-aa74f95b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg/1200px-Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Duisburger_Hafen_001.jpg/1200px-Duisburger_Hafen_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Duisburger_Hafen_002.jpg/1200px-Duisburger_Hafen_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Duisburger_Hafen_003.jpg/1200px-Duisburger_Hafen_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duisburg_Ruhrorter_Häfen.jpg/1200px-Duisburg_Ruhrorter_Häfen.jpg
+image_srcset:
+  Hafen Duisburg-Ruhrort von Karl-Lehr-Brücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg/400px-Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg/800px-Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg/1200px-Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg/1920px-Hafen_Duisburg-Ruhrort_von_Karl-Lehr-Brücke.jpg
+  Duisburger Hafen 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Duisburger_Hafen_001.jpg/400px-Duisburger_Hafen_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Duisburger_Hafen_001.jpg/800px-Duisburger_Hafen_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Duisburger_Hafen_001.jpg/1200px-Duisburger_Hafen_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Duisburger_Hafen_001.jpg/1920px-Duisburger_Hafen_001.jpg
+  Duisburger Hafen 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Duisburger_Hafen_002.jpg/400px-Duisburger_Hafen_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Duisburger_Hafen_002.jpg/800px-Duisburger_Hafen_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Duisburger_Hafen_002.jpg/1200px-Duisburger_Hafen_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Duisburger_Hafen_002.jpg/1920px-Duisburger_Hafen_002.jpg
+  Duisburger Hafen 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Duisburger_Hafen_003.jpg/400px-Duisburger_Hafen_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Duisburger_Hafen_003.jpg/800px-Duisburger_Hafen_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Duisburger_Hafen_003.jpg/1200px-Duisburger_Hafen_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Duisburger_Hafen_003.jpg/1920px-Duisburger_Hafen_003.jpg
+  Duisburg Ruhrorter Häfen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duisburg_Ruhrorter_Häfen.jpg/400px-Duisburg_Ruhrorter_Häfen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duisburg_Ruhrorter_Häfen.jpg/800px-Duisburg_Ruhrorter_Häfen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duisburg_Ruhrorter_Häfen.jpg/1200px-Duisburg_Ruhrorter_Häfen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duisburg_Ruhrorter_Häfen.jpg/1920px-Duisburg_Ruhrorter_Häfen.jpg
 ---
 
 ## Overview

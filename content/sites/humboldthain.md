@@ -1,19 +1,49 @@
 ---
-title: "Humboldthain"
+title: Humboldthain
 date: 2026-01-23
 draft: false
-description: "park in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.547222222
 longitude: 13.386111111
 images:
-  - "/images-sites/humboldthain/01-e264d827-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_(46963745904).jpg/1200px-Berlin_(46963745904).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-07-05-Humboldthain-Pavillon.jpg/1200px-2025-07-05-Humboldthain-Pavillon.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mitten_im_Humboldthain.jpg/1200px-Mitten_im_Humboldthain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volkspark_Humboldthain_(5951332270).jpg/1200px-Volkspark_Humboldthain_(5951332270).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Humboldthöhe2.jpg/1200px-Humboldthöhe2.jpg
+image_srcset:
+  Berlin (46963745904).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_(46963745904).jpg/400px-Berlin_(46963745904).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_(46963745904).jpg/800px-Berlin_(46963745904).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_(46963745904).jpg/1200px-Berlin_(46963745904).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin_(46963745904).jpg/1920px-Berlin_(46963745904).jpg
+  2025-07-05-Humboldthain-Pavillon.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-07-05-Humboldthain-Pavillon.jpg/400px-2025-07-05-Humboldthain-Pavillon.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-07-05-Humboldthain-Pavillon.jpg/800px-2025-07-05-Humboldthain-Pavillon.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-07-05-Humboldthain-Pavillon.jpg/1200px-2025-07-05-Humboldthain-Pavillon.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2025-07-05-Humboldthain-Pavillon.jpg/1920px-2025-07-05-Humboldthain-Pavillon.jpg
+  Mitten im Humboldthain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mitten_im_Humboldthain.jpg/400px-Mitten_im_Humboldthain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mitten_im_Humboldthain.jpg/800px-Mitten_im_Humboldthain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mitten_im_Humboldthain.jpg/1200px-Mitten_im_Humboldthain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mitten_im_Humboldthain.jpg/1920px-Mitten_im_Humboldthain.jpg
+  Volkspark Humboldthain (5951332270).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volkspark_Humboldthain_(5951332270).jpg/400px-Volkspark_Humboldthain_(5951332270).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volkspark_Humboldthain_(5951332270).jpg/800px-Volkspark_Humboldthain_(5951332270).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volkspark_Humboldthain_(5951332270).jpg/1200px-Volkspark_Humboldthain_(5951332270).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volkspark_Humboldthain_(5951332270).jpg/1920px-Volkspark_Humboldthain_(5951332270).jpg
+  Humboldthöhe2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Humboldthöhe2.jpg/400px-Humboldthöhe2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Humboldthöhe2.jpg/800px-Humboldthöhe2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Humboldthöhe2.jpg/1200px-Humboldthöhe2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Humboldthöhe2.jpg/1920px-Humboldthöhe2.jpg
 ---
 
 ## Overview

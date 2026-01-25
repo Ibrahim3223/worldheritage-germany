@@ -1,27 +1,49 @@
 ---
-title: "Burg Eltville"
+title: Burg Eltville
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.02486111
 longitude: 8.12277778
-
-# Images
 images:
-  - "/images-sites/burg-eltville/01-895f19f0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg/1200px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg/1200px-Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kurfuerstliche_Burg_Eltville.jpg/1200px-Kurfuerstliche_Burg_Eltville.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg/1200px-Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg/1200px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg
+image_srcset:
+  Kurfürstliche Burg, Eltville, Southwest view 20150309 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg/400px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg/800px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg/1200px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg/1920px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150309_1.jpg
+  Kurfürstliche Burg Eltville, East view 20140901 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg/400px-Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg/800px-Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg/1200px-Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg/1920px-Kurfürstliche_Burg_Eltville,_East_view_20140901_1.jpg
+  Kurfuerstliche Burg Eltville.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kurfuerstliche_Burg_Eltville.jpg/400px-Kurfuerstliche_Burg_Eltville.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kurfuerstliche_Burg_Eltville.jpg/800px-Kurfuerstliche_Burg_Eltville.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kurfuerstliche_Burg_Eltville.jpg/1200px-Kurfuerstliche_Burg_Eltville.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kurfuerstliche_Burg_Eltville.jpg/1920px-Kurfuerstliche_Burg_Eltville.jpg
+  Kurfürstliche Burg, Eltville, West view 20150225 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg/400px-Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg/800px-Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg/1200px-Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg/1920px-Kurfürstliche_Burg,_Eltville,_West_view_20150225_1.jpg
+  Kurfürstliche Burg, Eltville, Southwest view 20150225 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg/400px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg/800px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg/1200px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg/1920px-Kurfürstliche_Burg,_Eltville,_Southwest_view_20150225_1.jpg
 ---
 
 ## Overview

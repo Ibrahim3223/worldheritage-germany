@@ -1,24 +1,51 @@
 ---
-title: "Johanniter-Kirche Groß Eichsen"
-site_name: "Johanniter-Kirche Groß Eichsen"
-slug: "johanniter-kirche-gross-eichsen"
-region: "Schleswig-Holstein"
-
-# Location
+title: Johanniter-Kirche Groß Eichsen
+site_name: Johanniter-Kirche Groß Eichsen
+slug: johanniter-kirche-gross-eichsen
+region: Schleswig-Holstein
 latitude: 53.7461
 longitude: 11.2604
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698982"
-description: "In the quaint region of Mühlen Eichsen, Germany, the Johanniter-Kirche Groß Eichsen stands as a striking example of Brick Gothic architecture. This chur..."
+- church building
+- religious site
+wikidata_id: Q1698982
+description: In the quaint region of Mühlen Eichsen, Germany, the Johanniter-Kirche
+  Groß Eichsen stands as a striking example of Brick Gothic architecture. This chur...
 images:
-  - "/images-sites/johanniter-kirche-gross-eichsen/01-0ed0b9ad-1920w.webp"
-  - "/images-sites/johanniter-kirche-gross-eichsen/02-81b9b30a-1920w.webp"
-  - "/images-sites/johanniter-kirche-gross-eichsen/03-26787b77-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG/1200px-Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Johanniter-Kirche_Groß_Eichsen017.JPG/1200px-Johanniter-Kirche_Groß_Eichsen017.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Groß_Eichsen_Johanniterkirche_Empore_(02).jpg/1200px-Groß_Eichsen_Johanniterkirche_Empore_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1200px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG/1200px-Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG
+image_srcset:
+  Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG/400px-Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG/800px-Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG/1200px-Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG/1920px-Gro%C3%9F%20Eichsen%20Kirche%202012-09-30%20153.JPG
+  Johanniter-Kirche Groß Eichsen017.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Johanniter-Kirche_Groß_Eichsen017.JPG/400px-Johanniter-Kirche_Groß_Eichsen017.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Johanniter-Kirche_Groß_Eichsen017.JPG/800px-Johanniter-Kirche_Groß_Eichsen017.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Johanniter-Kirche_Groß_Eichsen017.JPG/1200px-Johanniter-Kirche_Groß_Eichsen017.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Johanniter-Kirche_Groß_Eichsen017.JPG/1920px-Johanniter-Kirche_Groß_Eichsen017.JPG
+  Groß Eichsen Johanniterkirche Empore (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Groß_Eichsen_Johanniterkirche_Empore_(02).jpg/400px-Groß_Eichsen_Johanniterkirche_Empore_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Groß_Eichsen_Johanniterkirche_Empore_(02).jpg/800px-Groß_Eichsen_Johanniterkirche_Empore_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Groß_Eichsen_Johanniterkirche_Empore_(02).jpg/1200px-Groß_Eichsen_Johanniterkirche_Empore_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Groß_Eichsen_Johanniterkirche_Empore_(02).jpg/1920px-Groß_Eichsen_Johanniterkirche_Empore_(02).jpg
+  Groß Eichsen Kirche 2012-09-30 153.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/400px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/800px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1200px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Groß_Eichsen_Kirche_2012-09-30_153.JPG/1920px-Groß_Eichsen_Kirche_2012-09-30_153.JPG
+  Groß Eichsen Kirche Boden Kruzifix 2012-09-30 175.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG/400px-Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG/800px-Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG/1200px-Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG/1920px-Groß_Eichsen_Kirche_Boden_Kruzifix_2012-09-30_175.JPG
 ---
 
 ## Overview

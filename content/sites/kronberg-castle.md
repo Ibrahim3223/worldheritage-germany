@@ -21,7 +21,7 @@ longitude: 8.5066
 
 # Images
 images:
-  - "/images-sites/kronberg-castle/01-6689e7cf-800w.webp"
+  - "/images/kronberg-castle/01-6689e7cf-800w.webp"
 ---
 
 ## Overview

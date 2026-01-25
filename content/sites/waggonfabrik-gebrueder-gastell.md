@@ -13,7 +13,7 @@ regions:
 latitude: 50.0161
 longitude: 8.23417
 images:
-  - "/images-sites/waggonfabrik-gebrueder-gastell/01-632d8834-800w.webp"
+  - "/images/waggonfabrik-gebrueder-gastell/01-632d8834-800w.webp"
 ---
 
 ## Overview

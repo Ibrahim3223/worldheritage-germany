@@ -1,27 +1,49 @@
 ---
-title: "Bleibeskopf"
+title: Bleibeskopf
 date: 2026-01-23
 draft: false
-description: "mountain"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2525
 longitude: 8.534722222
-
-# Images
 images:
-  - "/images-sites/bleibeskopf/01-0e662d1c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bleibeskopf_2021-08-12_07.jpg/1200px-Bleibeskopf_2021-08-12_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bleibeskopf_2021-08-12_12.jpg/1200px-Bleibeskopf_2021-08-12_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bleibeskopf_2021-08-12_37.jpg/1200px-Bleibeskopf_2021-08-12_37.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bleibeskopf_2021-08-12_43.jpg/1200px-Bleibeskopf_2021-08-12_43.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bleibeskopf_76.JPG/1200px-Bleibeskopf_76.JPG
+image_srcset:
+  Bleibeskopf 2021-08-12 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bleibeskopf_2021-08-12_07.jpg/400px-Bleibeskopf_2021-08-12_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bleibeskopf_2021-08-12_07.jpg/800px-Bleibeskopf_2021-08-12_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bleibeskopf_2021-08-12_07.jpg/1200px-Bleibeskopf_2021-08-12_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bleibeskopf_2021-08-12_07.jpg/1920px-Bleibeskopf_2021-08-12_07.jpg
+  Bleibeskopf 2021-08-12 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bleibeskopf_2021-08-12_12.jpg/400px-Bleibeskopf_2021-08-12_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bleibeskopf_2021-08-12_12.jpg/800px-Bleibeskopf_2021-08-12_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bleibeskopf_2021-08-12_12.jpg/1200px-Bleibeskopf_2021-08-12_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bleibeskopf_2021-08-12_12.jpg/1920px-Bleibeskopf_2021-08-12_12.jpg
+  Bleibeskopf 2021-08-12 37.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bleibeskopf_2021-08-12_37.jpg/400px-Bleibeskopf_2021-08-12_37.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bleibeskopf_2021-08-12_37.jpg/800px-Bleibeskopf_2021-08-12_37.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bleibeskopf_2021-08-12_37.jpg/1200px-Bleibeskopf_2021-08-12_37.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bleibeskopf_2021-08-12_37.jpg/1920px-Bleibeskopf_2021-08-12_37.jpg
+  Bleibeskopf 2021-08-12 43.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bleibeskopf_2021-08-12_43.jpg/400px-Bleibeskopf_2021-08-12_43.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bleibeskopf_2021-08-12_43.jpg/800px-Bleibeskopf_2021-08-12_43.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bleibeskopf_2021-08-12_43.jpg/1200px-Bleibeskopf_2021-08-12_43.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bleibeskopf_2021-08-12_43.jpg/1920px-Bleibeskopf_2021-08-12_43.jpg
+  Bleibeskopf 76.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bleibeskopf_76.JPG/400px-Bleibeskopf_76.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bleibeskopf_76.JPG/800px-Bleibeskopf_76.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bleibeskopf_76.JPG/1200px-Bleibeskopf_76.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bleibeskopf_76.JPG/1920px-Bleibeskopf_76.JPG
 ---
 
 ## Overview

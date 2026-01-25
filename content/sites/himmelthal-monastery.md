@@ -1,19 +1,49 @@
 ---
-title: "Himmelthal Monastery"
+title: Himmelthal Monastery
 date: 2026-01-23
 draft: false
-description: "building in Elsenfeld, Lower Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Elsenfeld, Lower Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.822874418
 longitude: 9.219494806
 images:
-  - "/images-sites/himmelthal-monastery/01-375e28d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg/1200px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/1200px-Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg/1200px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/1200px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg/1200px-Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg
+image_srcset:
+  Klosterkirche St. Sebastian Ehemaliges Zisterziensernonnenkloster Heiligenthal Elsenfeld-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg/400px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg/800px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg/1200px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg/1920px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-4.jpg
+  Torhaus Ehemaliges Zisterziensernonnenkloster Heiligenthal Elsenfeld-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/400px-Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/800px-Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/1200px-Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/1920px-Torhaus_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+  Klosterkirche St. Sebastian Ehemaliges Zisterziensernonnenkloster Heiligenthal Elsenfeld-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg/400px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg/800px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg/1200px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg/1920px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-5.jpg
+  Klosterkirche St. Sebastian Ehemaliges Zisterziensernonnenkloster Heiligenthal Elsenfeld-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/400px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/800px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/1200px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg/1920px-Klosterkirche_St._Sebastian_Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-1.jpg
+  Ehemaliges Zisterziensernonnenkloster Heiligenthal Elsenfeld-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg/400px-Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg/800px-Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg/1200px-Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg/1920px-Ehemaliges_Zisterziensernonnenkloster_Heiligenthal_Elsenfeld-10.jpg
 ---
 
 ## Overview

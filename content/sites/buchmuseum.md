@@ -1,19 +1,50 @@
 ---
-title: "Buchmuseum"
+title: Buchmuseum
 date: 2026-01-23
 draft: false
-description: "rare book and manuscript exhibition of the Saxon State and University Library Dresden"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: rare book and manuscript exhibition of the Saxon State and University
+  Library Dresden
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0286
 longitude: 13.7369
 images:
-  - "/images-sites/buchmuseum/01-f7ebff57-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zimelienzimmer_5.jpg/1200px-Zimelienzimmer_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zimelienzimmer_6.jpg/1200px-Zimelienzimmer_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Buchmuseum_der_SLUB_Dresden_05.jpg/1200px-Buchmuseum_der_SLUB_Dresden_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1200px-Schatzkammer_(17929084262)_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Zimelienzimmer_11.jpg/1200px-Zimelienzimmer_11.jpg
+image_srcset:
+  Zimelienzimmer 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zimelienzimmer_5.jpg/400px-Zimelienzimmer_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zimelienzimmer_5.jpg/800px-Zimelienzimmer_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zimelienzimmer_5.jpg/1200px-Zimelienzimmer_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zimelienzimmer_5.jpg/1920px-Zimelienzimmer_5.jpg
+  Zimelienzimmer 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zimelienzimmer_6.jpg/400px-Zimelienzimmer_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zimelienzimmer_6.jpg/800px-Zimelienzimmer_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zimelienzimmer_6.jpg/1200px-Zimelienzimmer_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zimelienzimmer_6.jpg/1920px-Zimelienzimmer_6.jpg
+  Buchmuseum der SLUB Dresden 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Buchmuseum_der_SLUB_Dresden_05.jpg/400px-Buchmuseum_der_SLUB_Dresden_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Buchmuseum_der_SLUB_Dresden_05.jpg/800px-Buchmuseum_der_SLUB_Dresden_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Buchmuseum_der_SLUB_Dresden_05.jpg/1200px-Buchmuseum_der_SLUB_Dresden_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Buchmuseum_der_SLUB_Dresden_05.jpg/1920px-Buchmuseum_der_SLUB_Dresden_05.jpg
+  Schatzkammer (17929084262) (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/400px-Schatzkammer_(17929084262)_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/800px-Schatzkammer_(17929084262)_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1200px-Schatzkammer_(17929084262)_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schatzkammer_(17929084262)_(2).jpg/1920px-Schatzkammer_(17929084262)_(2).jpg
+  Zimelienzimmer 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Zimelienzimmer_11.jpg/400px-Zimelienzimmer_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Zimelienzimmer_11.jpg/800px-Zimelienzimmer_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Zimelienzimmer_11.jpg/1200px-Zimelienzimmer_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Zimelienzimmer_11.jpg/1920px-Zimelienzimmer_11.jpg
 ---
 
 ## Overview

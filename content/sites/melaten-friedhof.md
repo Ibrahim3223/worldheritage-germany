@@ -13,7 +13,7 @@ regions:
 latitude: 50.939443888
 longitude: 6.919166944
 images:
-  - "/images-sites/melaten-friedhof/01-c4cdb3f5-800w.webp"
+  - "/images/melaten-friedhof/01-c4cdb3f5-800w.webp"
 ---
 
 ## Overview

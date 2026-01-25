@@ -1,27 +1,43 @@
 ---
-title: "Ehrenburg"
+title: Ehrenburg
 date: 2026-01-23
 draft: false
-description: "castle in Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7793
 longitude: 10.8957
-
-# Images
 images:
-  - "/images-sites/ehrenburg/01-cf49f289-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ehrenbürg_Pano-20190929-RM-174659.jpg/1200px-Ehrenbürg_Pano-20190929-RM-174659.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilya_Ehrenburg_(1959).tif.jpg/1200px-Ilya_Ehrenburg_(1959).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atelier-rue-depart-marevna.jpg/1200px-Atelier-rue-depart-marevna.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ilya_Erenburg's_Black_book.jpg/1200px-Ilya_Erenburg's_Black_book.jpg
+image_srcset:
+  Ehrenbürg Pano-20190929-RM-174659.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ehrenbürg_Pano-20190929-RM-174659.jpg/400px-Ehrenbürg_Pano-20190929-RM-174659.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ehrenbürg_Pano-20190929-RM-174659.jpg/800px-Ehrenbürg_Pano-20190929-RM-174659.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ehrenbürg_Pano-20190929-RM-174659.jpg/1200px-Ehrenbürg_Pano-20190929-RM-174659.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ehrenbürg_Pano-20190929-RM-174659.jpg/1920px-Ehrenbürg_Pano-20190929-RM-174659.jpg
+  Ilya Ehrenburg (1959).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilya_Ehrenburg_(1959).tif.jpg/400px-Ilya_Ehrenburg_(1959).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilya_Ehrenburg_(1959).tif.jpg/800px-Ilya_Ehrenburg_(1959).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilya_Ehrenburg_(1959).tif.jpg/1200px-Ilya_Ehrenburg_(1959).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ilya_Ehrenburg_(1959).tif.jpg/1920px-Ilya_Ehrenburg_(1959).tif.jpg
+  Atelier-rue-depart-marevna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atelier-rue-depart-marevna.jpg/400px-Atelier-rue-depart-marevna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atelier-rue-depart-marevna.jpg/800px-Atelier-rue-depart-marevna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atelier-rue-depart-marevna.jpg/1200px-Atelier-rue-depart-marevna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atelier-rue-depart-marevna.jpg/1920px-Atelier-rue-depart-marevna.jpg
+  Ilya Erenburg's Black book.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ilya_Erenburg's_Black_book.jpg/400px-Ilya_Erenburg's_Black_book.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ilya_Erenburg's_Black_book.jpg/800px-Ilya_Erenburg's_Black_book.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ilya_Erenburg's_Black_book.jpg/1200px-Ilya_Erenburg's_Black_book.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ilya_Erenburg's_Black_book.jpg/1920px-Ilya_Erenburg's_Black_book.jpg
 ---
 
 ## Overview

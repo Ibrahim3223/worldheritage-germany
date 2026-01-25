@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1247627"
 description: "Sankt Peter Frankfurt is a remarkable church building located in the vibrant city of Frankfurt, Germany. This significant structure invites visitors to ..."
 images:
-  - "/images-sites/sankt-peter-frankfurt/01-075211f0-1920w.webp"
-  - "/images-sites/sankt-peter-frankfurt/02-8f7eb525-1920w.webp"
-  - "/images-sites/sankt-peter-frankfurt/03-5909ba6e-1920w.webp"
+  - "/images/sankt-peter-frankfurt/01-075211f0-1920w.webp"
+  - "/images/sankt-peter-frankfurt/02-8f7eb525-1920w.webp"
+  - "/images/sankt-peter-frankfurt/03-5909ba6e-1920w.webp"
 ---
 
 ## Overview

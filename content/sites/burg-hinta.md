@@ -1,27 +1,49 @@
 ---
-title: "Burg Hinta"
+title: Burg Hinta
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.4156
 longitude: 7.19472
-
-# Images
 images:
-  - "/images-sites/burg-hinta/01-bf874f17-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hinta-msu-9801.jpg/1200px-Burg-Hinta-msu-9801.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hinta-msu-7219-.jpg/1200px-Burg_Hinta-msu-7219-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/1200px-Burg_Hinta_(Hinte)_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burghinte2008msu.jpg/1200px-Burghinte2008msu.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg/1200px-06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg
+image_srcset:
+  Burg-Hinta-msu-9801.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hinta-msu-9801.jpg/400px-Burg-Hinta-msu-9801.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hinta-msu-9801.jpg/800px-Burg-Hinta-msu-9801.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hinta-msu-9801.jpg/1200px-Burg-Hinta-msu-9801.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hinta-msu-9801.jpg/1920px-Burg-Hinta-msu-9801.jpg
+  Burg Hinta-msu-7219-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hinta-msu-7219-.jpg/400px-Burg_Hinta-msu-7219-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hinta-msu-7219-.jpg/800px-Burg_Hinta-msu-7219-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hinta-msu-7219-.jpg/1200px-Burg_Hinta-msu-7219-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Burg_Hinta-msu-7219-.jpg/1920px-Burg_Hinta-msu-7219-.jpg
+  Burg Hinta (Hinte) 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/400px-Burg_Hinta_(Hinte)_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/800px-Burg_Hinta_(Hinte)_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/1200px-Burg_Hinta_(Hinte)_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Burg_Hinta_(Hinte)_01.JPG/1920px-Burg_Hinta_(Hinte)_01.JPG
+  Burghinte2008msu.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burghinte2008msu.jpg/400px-Burghinte2008msu.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burghinte2008msu.jpg/800px-Burghinte2008msu.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burghinte2008msu.jpg/1200px-Burghinte2008msu.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burghinte2008msu.jpg/1920px-Burghinte2008msu.jpg
+  06 Burg Hinte (bei Emden, Ostfriesland).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg/400px-06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg/800px-06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg/1200px-06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg/1920px-06_Burg_Hinte_(bei_Emden,_Ostfriesland).jpg
 ---
 
 ## Overview

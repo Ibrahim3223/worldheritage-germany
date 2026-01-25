@@ -13,7 +13,7 @@ regions:
 latitude: 51.0248
 longitude: 7.56283
 images:
-  - "/images-sites/schwalbe-arena/01-36acc773-800w.webp"
+  - "/images/schwalbe-arena/01-36acc773-800w.webp"
 ---
 
 ## Overview

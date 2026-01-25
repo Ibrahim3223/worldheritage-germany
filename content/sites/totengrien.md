@@ -13,7 +13,7 @@ regions:
 latitude: 47.654759
 longitude: 7.535957
 images:
-  - "/images-sites/totengrien/01-fa5b6974-800w.webp"
+  - "/images/totengrien/01-fa5b6974-800w.webp"
 ---
 
 ## Overview

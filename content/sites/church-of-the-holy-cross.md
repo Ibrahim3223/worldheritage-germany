@@ -1,23 +1,50 @@
 ---
-title: "Church of the Holy Cross"
-site_name: "Church of the Holy Cross"
-slug: "church-of-the-holy-cross"
-region: "Lower Saxony"
-
-# Location
+title: Church of the Holy Cross
+site_name: Church of the Holy Cross
+slug: church-of-the-holy-cross
+region: Lower Saxony
 latitude: 52.37339134615575
 longitude: 9.732595568950963
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1447206"
-description: "In the heart of Hanover, Germany, the Church of the Holy Cross stands as a striking example of Gothic architecture, inviting visitors to explore its int..."
+- cultural site
+wikidata_id: Q1447206
+description: In the heart of Hanover, Germany, the Church of the Holy Cross stands
+  as a striking example of Gothic architecture, inviting visitors to explore its int...
 images:
-  - "/images-sites/church-of-the-holy-cross/01-b170e80f-1920w.webp"
-  - "/images-sites/church-of-the-holy-cross/02-27b49a83-1920w.webp"
-  - "/images-sites/church-of-the-holy-cross/03-b2e8e984-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg/1200px-2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hannover%20Kreuzkirche.jpg/1200px-Hannover%20Kreuzkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg/1200px-31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg/1200px-31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Babcary_Church.jpg/1200px-Babcary_Church.jpg
+image_srcset:
+  2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg/400px-2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg/800px-2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg/1200px-2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg/1920px-2025-05-01%20Deutscher%20Evangelischer%20Kirchentag%20in%20Hannover%20f.jpg
+  Hannover%20Kreuzkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hannover%20Kreuzkirche.jpg/400px-Hannover%20Kreuzkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hannover%20Kreuzkirche.jpg/800px-Hannover%20Kreuzkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hannover%20Kreuzkirche.jpg/1200px-Hannover%20Kreuzkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hannover%20Kreuzkirche.jpg/1920px-Hannover%20Kreuzkirche.jpg
+  31-10-2020 Warszawa Kościół św. krzyża (8).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg/400px-31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg/800px-31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg/1200px-31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg/1920px-31-10-2020_Warszawa_Kościół_św._krzyża_(8).jpg
+  31-10-2020 Warszawa Kościół św. krzyża (0).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg/400px-31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg/800px-31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg/1200px-31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg/1920px-31-10-2020_Warszawa_Kościół_św._krzyża_(0).jpg
+  Babcary Church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Babcary_Church.jpg/400px-Babcary_Church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Babcary_Church.jpg/800px-Babcary_Church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Babcary_Church.jpg/1200px-Babcary_Church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Babcary_Church.jpg/1920px-Babcary_Church.jpg
 ---
 
 ## Overview

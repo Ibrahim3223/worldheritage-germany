@@ -13,9 +13,9 @@ regions:
 latitude: 52.5202
 longitude: 13.3976
 images:
-  - "/images-sites/neues-museum/01-214ebb16-800w.webp"
-  - "/images-sites/neues-museum/02-3a4c942c-800w.webp"
-  - "/images-sites/neues-museum/03-b7c024e3-800w.webp"
+  - "/images/neues-museum/01-214ebb16-800w.webp"
+  - "/images/neues-museum/02-3a4c942c-800w.webp"
+  - "/images/neues-museum/03-b7c024e3-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,50 @@
 ---
-title: "Burganlage"
+title: Burganlage
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-6-73-114-124 (0) in Bad Neustadt an der Saale, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument D-6-73-114-124 (0) in Bad Neustadt an der
+  Saale, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.320555555
 longitude: 10.23
-
-# Images
 images:
-  - "/images-sites/burganlage/01-0786de16-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG
+image_srcset:
+  Niedersachsen, Heeßel, Landschaftsschutzgebiet NIK 2716.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG/400px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG/800px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG/1920px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2716.JPG
+  Niedersachsen, Heeßel, Landschaftsschutzgebiet NIK 2717.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG/400px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG/800px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG/1920px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2717.JPG
+  Niedersachsen, Heeßel, Landschaftsschutzgebiet NIK 2718.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG/400px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG/800px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG/1920px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2718.JPG
+  Niedersachsen, Heeßel, Landschaftsschutzgebiet NIK 2720.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG/400px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG/800px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG/1920px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2720.JPG
+  Niedersachsen, Heeßel, Landschaftsschutzgebiet NIK 2726.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG/400px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG/800px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG/1200px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG/1920px-Niedersachsen,_Heeßel,_Landschaftsschutzgebiet_NIK_2726.JPG
 ---
 
 ## Overview

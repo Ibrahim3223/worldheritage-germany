@@ -13,7 +13,7 @@ regions:
 latitude: 47.99493
 longitude: 7.85315
 images:
-  - "/images-sites/museum-of-city-history-freiburg-im-breisgau/01-70a9a86f-800w.webp"
+  - "/images/museum-of-city-history-freiburg-im-breisgau/01-70a9a86f-800w.webp"
 ---
 
 ## Overview

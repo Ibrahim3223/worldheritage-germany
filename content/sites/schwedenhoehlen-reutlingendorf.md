@@ -13,9 +13,9 @@ regions:
 latitude: 48.1974
 longitude: 9.5708
 images:
-  - "/images-sites/schwedenhoehlen-reutlingendorf/01-0b0264d8-800w.webp"
-  - "/images-sites/schwedenhoehlen-reutlingendorf/02-672d35a9-800w.webp"
-  - "/images-sites/schwedenhoehlen-reutlingendorf/03-a1a5254d-800w.webp"
+  - "/images/schwedenhoehlen-reutlingendorf/01-0b0264d8-800w.webp"
+  - "/images/schwedenhoehlen-reutlingendorf/02-672d35a9-800w.webp"
+  - "/images/schwedenhoehlen-reutlingendorf/03-a1a5254d-800w.webp"
 ---
 
 ## Overview

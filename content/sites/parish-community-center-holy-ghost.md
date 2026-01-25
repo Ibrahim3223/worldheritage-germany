@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q11722210"
 description: "In the heart of Wolfsburg, Germany, the Parish Community Center Holy Ghost stands as a significant example of modern architecture. Designed by the renow..."
 images:
-  - "/images-sites/parish-community-center-holy-ghost/01-1171a36c-1920w.webp"
-  - "/images-sites/parish-community-center-holy-ghost/02-316c6b99-1920w.webp"
-  - "/images-sites/parish-community-center-holy-ghost/03-54763db1-1920w.webp"
+  - "/images/parish-community-center-holy-ghost/01-1171a36c-1920w.webp"
+  - "/images/parish-community-center-holy-ghost/02-316c6b99-1920w.webp"
+  - "/images/parish-community-center-holy-ghost/03-54763db1-1920w.webp"
 ---
 
 ## Overview

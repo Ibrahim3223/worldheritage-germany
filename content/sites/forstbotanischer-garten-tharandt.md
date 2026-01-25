@@ -1,27 +1,49 @@
 ---
-title: "Forstbotanischer Garten Tharandt"
+title: Forstbotanischer Garten Tharandt
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.984363
 longitude: 13.57819
-
-# Images
 images:
-  - "/images-sites/forstbotanischer-garten-tharandt/01-e36501d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forstbotanischer_Garten_Tharandt_25.jpg/1200px-Forstbotanischer_Garten_Tharandt_25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1200px-Arboretumtharandt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg/1200px-04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/1200px-13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/1200px-04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+image_srcset:
+  Forstbotanischer Garten Tharandt 25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forstbotanischer_Garten_Tharandt_25.jpg/400px-Forstbotanischer_Garten_Tharandt_25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forstbotanischer_Garten_Tharandt_25.jpg/800px-Forstbotanischer_Garten_Tharandt_25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forstbotanischer_Garten_Tharandt_25.jpg/1200px-Forstbotanischer_Garten_Tharandt_25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forstbotanischer_Garten_Tharandt_25.jpg/1920px-Forstbotanischer_Garten_Tharandt_25.jpg
+  Arboretumtharandt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/400px-Arboretumtharandt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/800px-Arboretumtharandt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1200px-Arboretumtharandt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Arboretumtharandt.jpg/1920px-Arboretumtharandt.jpg
+  04080-Tharandt-1903-Forstgarten, Forstbotanisches Museum-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg/400px-04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg/800px-04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg/1200px-04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg/1920px-04080-Tharandt-1903-Forstgarten,_Forstbotanisches_Museum-Brück_&_Sohn_Kunstverlag.jpg
+  13599-Tharandt-1911-Forstgarten-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/400px-13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/800px-13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/1200px-13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/1920px-13599-Tharandt-1911-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+  04089-Tharandt-1903-Forstgarten-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/400px-04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/800px-04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/1200px-04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg/1920px-04089-Tharandt-1903-Forstgarten-Brück_&_Sohn_Kunstverlag.jpg
 ---
 
 ## Overview

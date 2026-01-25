@@ -13,7 +13,7 @@ regions:
 latitude: 52.524722
 longitude: 13.394444
 images:
-  - "/images-sites/new-synagogue-berlin/02-0d82062f-800w.webp"
+  - "/images/new-synagogue-berlin/02-0d82062f-800w.webp"
 ---
 
 ## Overview

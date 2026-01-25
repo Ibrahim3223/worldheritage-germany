@@ -13,7 +13,7 @@ regions:
 latitude: 52.5019
 longitude: 13.3239
 images:
-  - "/images-sites/theater-am-kurfuerstendamm/01-73d663b6-800w.webp"
+  - "/images/theater-am-kurfuerstendamm/01-73d663b6-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Freiherr-vom-Stein-Turm"
+title: Freiherr-vom-Stein-Turm
 date: 2026-01-24
 draft: false
-description: "observation tower in Hagen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: observation tower in Hagen
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3906
 longitude: 7.42556
 images:
-  - "/images-sites/freiherr-vom-stein-turm/01-b3079f2d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Freiherr-vom-Stein-Turm-03-Turmkopf.jpg/1200px-Freiherr-vom-Stein-Turm-03-Turmkopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freiherr-vom-Stein-Turm-02.jpg/1200px-Freiherr-vom-Stein-Turm-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg/1200px-NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg/1200px-Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Freiherr-vom-Stein-Turm_(Hagen).jpg/1200px-Freiherr-vom-Stein-Turm_(Hagen).jpg
+image_srcset:
+  Freiherr-vom-Stein-Turm-03-Turmkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Freiherr-vom-Stein-Turm-03-Turmkopf.jpg/400px-Freiherr-vom-Stein-Turm-03-Turmkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Freiherr-vom-Stein-Turm-03-Turmkopf.jpg/800px-Freiherr-vom-Stein-Turm-03-Turmkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Freiherr-vom-Stein-Turm-03-Turmkopf.jpg/1200px-Freiherr-vom-Stein-Turm-03-Turmkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Freiherr-vom-Stein-Turm-03-Turmkopf.jpg/1920px-Freiherr-vom-Stein-Turm-03-Turmkopf.jpg
+  Freiherr-vom-Stein-Turm-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freiherr-vom-Stein-Turm-02.jpg/400px-Freiherr-vom-Stein-Turm-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freiherr-vom-Stein-Turm-02.jpg/800px-Freiherr-vom-Stein-Turm-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freiherr-vom-Stein-Turm-02.jpg/1200px-Freiherr-vom-Stein-Turm-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freiherr-vom-Stein-Turm-02.jpg/1920px-Freiherr-vom-Stein-Turm-02.jpg
+  NRW, Hagen, Kaisberg - Freiherr-vom-Stein-Turm 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg/400px-NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg/800px-NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg/1200px-NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg/1920px-NRW,_Hagen,_Kaisberg_-_Freiherr-vom-Stein-Turm_01.jpg
+  Freiherr-vom-Stein-Turm (Hagen) (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg/400px-Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg/800px-Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg/1200px-Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg/1920px-Freiherr-vom-Stein-Turm_(Hagen)_(5).jpg
+  Freiherr-vom-Stein-Turm (Hagen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Freiherr-vom-Stein-Turm_(Hagen).jpg/400px-Freiherr-vom-Stein-Turm_(Hagen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Freiherr-vom-Stein-Turm_(Hagen).jpg/800px-Freiherr-vom-Stein-Turm_(Hagen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Freiherr-vom-Stein-Turm_(Hagen).jpg/1200px-Freiherr-vom-Stein-Turm_(Hagen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Freiherr-vom-Stein-Turm_(Hagen).jpg/1920px-Freiherr-vom-Stein-Turm_(Hagen).jpg
 ---
 
 ## Overview

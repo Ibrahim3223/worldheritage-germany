@@ -13,7 +13,7 @@ regions:
 latitude: 53.694166666
 longitude: 12.634166666
 images:
-  - "/images-sites/lake-malchin/01-87d7890e-800w.webp"
+  - "/images/lake-malchin/01-87d7890e-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,43 @@
 ---
-title: "Invalidenhaus Berlin"
+title: Invalidenhaus Berlin
 date: 2026-01-23
 draft: false
-description: "Haus und spätere Invalidensiedlung in Berlin-Frohnau"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Haus und spätere Invalidensiedlung in Berlin-Frohnau
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.53
 longitude: 13.3731
-
-# Images
 images:
-  - "/images-sites/invalidenhaus-berlin/01-ba72a3f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Invalidensiedlung_Berlin_Straehleweg_51.jpg/1200px-Invalidensiedlung_Berlin_Straehleweg_51.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Inst1.jpg/1200px-Inst1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Inst2.jpg/1200px-Inst2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Invalidenhaus_1750.jpg/1200px-Invalidenhaus_1750.jpg
+image_srcset:
+  Invalidensiedlung Berlin Straehleweg 51.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Invalidensiedlung_Berlin_Straehleweg_51.jpg/400px-Invalidensiedlung_Berlin_Straehleweg_51.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Invalidensiedlung_Berlin_Straehleweg_51.jpg/800px-Invalidensiedlung_Berlin_Straehleweg_51.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Invalidensiedlung_Berlin_Straehleweg_51.jpg/1200px-Invalidensiedlung_Berlin_Straehleweg_51.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Invalidensiedlung_Berlin_Straehleweg_51.jpg/1920px-Invalidensiedlung_Berlin_Straehleweg_51.jpg
+  Inst1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Inst1.jpg/400px-Inst1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Inst1.jpg/800px-Inst1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Inst1.jpg/1200px-Inst1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Inst1.jpg/1920px-Inst1.jpg
+  Inst2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Inst2.jpg/400px-Inst2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Inst2.jpg/800px-Inst2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Inst2.jpg/1200px-Inst2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Inst2.jpg/1920px-Inst2.jpg
+  Invalidenhaus 1750.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Invalidenhaus_1750.jpg/400px-Invalidenhaus_1750.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Invalidenhaus_1750.jpg/800px-Invalidenhaus_1750.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Invalidenhaus_1750.jpg/1200px-Invalidenhaus_1750.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Invalidenhaus_1750.jpg/1920px-Invalidenhaus_1750.jpg
 ---
 
 ## Overview

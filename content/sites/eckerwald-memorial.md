@@ -1,21 +1,49 @@
 ---
-title: "Eckerwald Memorial"
+title: Eckerwald Memorial
 date: 2026-01-23
 draft: false
-description: "memorial"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1798
 longitude: 8.72057
 images:
-  - "/images-sites/eckerwald-memorial/01-4b50bc24-800w.webp"
-  - "/images-sites/eckerwald-memorial/02-f48e3bea-800w.webp"
-  - "/images-sites/eckerwald-memorial/03-5b12f345-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gedenkstaette_Eckerwald_3.JPG/1200px-Gedenkstaette_Eckerwald_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gedenkstaette_Eckerwald_2.JPG/1200px-Gedenkstaette_Eckerwald_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gedenkstaette_Eckerwald_1.JPG/1200px-Gedenkstaette_Eckerwald_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg/1200px-Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1200px-Gedenkstaette_Eckerwald.jpg
+image_srcset:
+  Gedenkstaette Eckerwald 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gedenkstaette_Eckerwald_3.JPG/400px-Gedenkstaette_Eckerwald_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gedenkstaette_Eckerwald_3.JPG/800px-Gedenkstaette_Eckerwald_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gedenkstaette_Eckerwald_3.JPG/1200px-Gedenkstaette_Eckerwald_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gedenkstaette_Eckerwald_3.JPG/1920px-Gedenkstaette_Eckerwald_3.JPG
+  Gedenkstaette Eckerwald 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gedenkstaette_Eckerwald_2.JPG/400px-Gedenkstaette_Eckerwald_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gedenkstaette_Eckerwald_2.JPG/800px-Gedenkstaette_Eckerwald_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gedenkstaette_Eckerwald_2.JPG/1200px-Gedenkstaette_Eckerwald_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gedenkstaette_Eckerwald_2.JPG/1920px-Gedenkstaette_Eckerwald_2.JPG
+  Gedenkstaette Eckerwald 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gedenkstaette_Eckerwald_1.JPG/400px-Gedenkstaette_Eckerwald_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gedenkstaette_Eckerwald_1.JPG/800px-Gedenkstaette_Eckerwald_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gedenkstaette_Eckerwald_1.JPG/1200px-Gedenkstaette_Eckerwald_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gedenkstaette_Eckerwald_1.JPG/1920px-Gedenkstaette_Eckerwald_1.JPG
+  Landappbw 987937 1824 Gedenkstätte Gedenkstätte Eckerwald Schömberg-Schörzingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg/400px-Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg/800px-Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg/1200px-Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg/1920px-Landappbw_987937_1824_Gedenkstätte_Gedenkstätte_Eckerwald_Schömberg-Schörzingen.jpg
+  Gedenkstaette Eckerwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/400px-Gedenkstaette_Eckerwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/800px-Gedenkstaette_Eckerwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1200px-Gedenkstaette_Eckerwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gedenkstaette_Eckerwald.jpg/1920px-Gedenkstaette_Eckerwald.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Equestrian statue of Friedrich Wilhelm I"
+title: Equestrian statue of Friedrich Wilhelm I
 date: 2026-01-23
 draft: false
-description: "statue in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: statue in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5205351
 longitude: 13.2957624
 images:
-  - "/images-sites/equestrian-statue-of-friedrich-wilhelm-i/01-6048a6b9-800w.webp"
-  - "/images-sites/equestrian-statue-of-friedrich-wilhelm-i/02-c07e7906-800w.webp"
-  - "/images-sites/equestrian-statue-of-friedrich-wilhelm-i/03-3ffd320f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Charlottenburg_Equestrian_statue_0742.jpg/1200px-Charlottenburg_Equestrian_statue_0742.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charlottenburg_Palace_01.jpg/1200px-Charlottenburg_Palace_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Großer_Kurfürst_Charlottenburg.jpg/1200px-Großer_Kurfürst_Charlottenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg/1200px-GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berlin_(5595857760).jpg/1200px-Berlin_(5595857760).jpg
+image_srcset:
+  Charlottenburg Equestrian statue 0742.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Charlottenburg_Equestrian_statue_0742.jpg/400px-Charlottenburg_Equestrian_statue_0742.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Charlottenburg_Equestrian_statue_0742.jpg/800px-Charlottenburg_Equestrian_statue_0742.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Charlottenburg_Equestrian_statue_0742.jpg/1200px-Charlottenburg_Equestrian_statue_0742.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Charlottenburg_Equestrian_statue_0742.jpg/1920px-Charlottenburg_Equestrian_statue_0742.jpg
+  Charlottenburg Palace 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charlottenburg_Palace_01.jpg/400px-Charlottenburg_Palace_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charlottenburg_Palace_01.jpg/800px-Charlottenburg_Palace_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charlottenburg_Palace_01.jpg/1200px-Charlottenburg_Palace_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charlottenburg_Palace_01.jpg/1920px-Charlottenburg_Palace_01.jpg
+  Großer Kurfürst Charlottenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Großer_Kurfürst_Charlottenburg.jpg/400px-Großer_Kurfürst_Charlottenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Großer_Kurfürst_Charlottenburg.jpg/800px-Großer_Kurfürst_Charlottenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Großer_Kurfürst_Charlottenburg.jpg/1200px-Großer_Kurfürst_Charlottenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Großer_Kurfürst_Charlottenburg.jpg/1920px-Großer_Kurfürst_Charlottenburg.jpg
+  GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg/400px-GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg/800px-GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg/1200px-GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg/1920px-GroszerKurfuerstVonBrandenburgReiterstandbildSchlueter01.jpg
+  Berlin (5595857760).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berlin_(5595857760).jpg/400px-Berlin_(5595857760).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berlin_(5595857760).jpg/800px-Berlin_(5595857760).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berlin_(5595857760).jpg/1200px-Berlin_(5595857760).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Berlin_(5595857760).jpg/1920px-Berlin_(5595857760).jpg
 ---
 
 ## Overview

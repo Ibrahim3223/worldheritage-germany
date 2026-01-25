@@ -21,7 +21,7 @@ longitude: 9.00069
 
 # Images
 images:
-  - "/images-sites/wildenstein-castle/01-eef7f893-800w.webp"
+  - "/images/wildenstein-castle/01-eef7f893-800w.webp"
 ---
 
 ## Overview

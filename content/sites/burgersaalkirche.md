@@ -1,24 +1,51 @@
 ---
-title: "Bürgersaalkirche"
-site_name: "Bürgersaalkirche"
-slug: "burgersaalkirche"
-region: "Bavaria"
-
-# Location
+title: Bürgersaalkirche
+site_name: Bürgersaalkirche
+slug: burgersaalkirche
+region: Bavaria
 latitude: 48.1390235989013
 longitude: 11.5682563989146
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q251948"
-description: "Located in the vibrant city of Munich, Germany, Bürgersaalkirche is a striking example of baroque architecture that captures both the eye and the spirit..."
+- church building
+- religious site
+wikidata_id: Q251948
+description: Located in the vibrant city of Munich, Germany, Bürgersaalkirche is a
+  striking example of baroque architecture that captures both the eye and the spirit...
 images:
-  - "/images-sites/burgersaalkirche/01-3e6d537e-1920w.webp"
-  - "/images-sites/burgersaalkirche/02-069e4bee-1920w.webp"
-  - "/images-sites/burgersaalkirche/03-f4e4aa11-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg/1200px-B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/1200px-Munich_Bürgersaal_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/1200px-Tap_in_Munich_Bürgersaal_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/1200px-Ostern2020_Bürgersaalkirche_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/1200px-Bürgersaalkirche-bjs0605-02.jpg
+image_srcset:
+  B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg/400px-B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg/800px-B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg/1200px-B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg/1920px-B%C3%BCrgersaalkirche%20M%C3%BCnchen%2C%20Au%C3%9Fenansicht.jpg
+  Munich Bürgersaal church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/400px-Munich_Bürgersaal_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/800px-Munich_Bürgersaal_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/1200px-Munich_Bürgersaal_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/1920px-Munich_Bürgersaal_church.jpg
+  Tap in Munich Bürgersaal church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/400px-Tap_in_Munich_Bürgersaal_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/800px-Tap_in_Munich_Bürgersaal_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/1200px-Tap_in_Munich_Bürgersaal_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/1920px-Tap_in_Munich_Bürgersaal_church.jpg
+  Ostern2020 Bürgersaalkirche München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/400px-Ostern2020_Bürgersaalkirche_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/800px-Ostern2020_Bürgersaalkirche_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/1200px-Ostern2020_Bürgersaalkirche_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/1920px-Ostern2020_Bürgersaalkirche_München.jpg
+  Bürgersaalkirche-bjs0605-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/400px-Bürgersaalkirche-bjs0605-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/800px-Bürgersaalkirche-bjs0605-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/1200px-Bürgersaalkirche-bjs0605-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/1920px-Bürgersaalkirche-bjs0605-02.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 50.2672
 longitude: 10.9544
 images:
-  - "/images-sites/schloss-hohenfels/01-def3580b-800w.webp"
-  - "/images-sites/schloss-hohenfels/02-3d63e586-800w.webp"
-  - "/images-sites/schloss-hohenfels/03-2fb9442d-800w.webp"
+  - "/images/schloss-hohenfels/01-def3580b-800w.webp"
+  - "/images/schloss-hohenfels/02-3d63e586-800w.webp"
+  - "/images/schloss-hohenfels/03-2fb9442d-800w.webp"
 ---
 
 ## Overview

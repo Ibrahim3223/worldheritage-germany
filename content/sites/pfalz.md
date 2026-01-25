@@ -13,7 +13,7 @@ regions:
 latitude: 49.720306
 longitude: 11.055565
 images:
-  - "/images-sites/pfalz/01-8326ef0b-800w.webp"
+  - "/images/pfalz/01-8326ef0b-800w.webp"
 ---
 
 ## Overview

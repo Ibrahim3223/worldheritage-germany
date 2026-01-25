@@ -13,7 +13,7 @@ regions:
 latitude: 50.1153
 longitude: 8.67139
 images:
-  - "/images-sites/opernplatz/01-9c2654aa-800w.webp"
+  - "/images/opernplatz/01-9c2654aa-800w.webp"
 ---
 
 ## Overview

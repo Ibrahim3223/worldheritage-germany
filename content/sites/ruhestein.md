@@ -13,9 +13,9 @@ regions:
 latitude: 48.5611
 longitude: 8.22139
 images:
-  - "/images-sites/ruhestein/01-980661a4-800w.webp"
-  - "/images-sites/ruhestein/02-7ecac27d-800w.webp"
-  - "/images-sites/ruhestein/03-15d4d815-800w.webp"
+  - "/images/ruhestein/01-980661a4-800w.webp"
+  - "/images/ruhestein/02-7ecac27d-800w.webp"
+  - "/images/ruhestein/03-15d4d815-800w.webp"
 ---
 
 ## Overview

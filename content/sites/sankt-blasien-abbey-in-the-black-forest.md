@@ -13,7 +13,7 @@ regions:
 latitude: 47.76
 longitude: 8.13
 images:
-  - "/images-sites/sankt-blasien-abbey-in-the-black-forest/02-6ebf84b6-800w.webp"
+  - "/images/sankt-blasien-abbey-in-the-black-forest/02-6ebf84b6-800w.webp"
 ---
 
 ## Overview

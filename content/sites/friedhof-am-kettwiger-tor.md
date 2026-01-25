@@ -1,20 +1,49 @@
 ---
-title: "Friedhof am Kettwiger Tor"
+title: Friedhof am Kettwiger Tor
 date: 2026-01-23
 draft: false
-description: "cemetery in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4501
 longitude: 7.01333
 images:
-  - "/images-sites/friedhof-am-kettwiger-tor/01-18e7e3a0-800w.webp"
-  - "/images-sites/friedhof-am-kettwiger-tor/03-d63b12b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Essen,_Ostfriedhof,_Pfarrer_Laar.JPG/1200px-Essen,_Ostfriedhof,_Pfarrer_Laar.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gedenksäule_Ostfriedhof_Essen.JPG/1200px-Gedenksäule_Ostfriedhof_Essen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Friedrich_Alfred_Krupp_Beerdigung.jpg/1200px-Friedrich_Alfred_Krupp_Beerdigung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg/1200px-Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen,_Kruppscher_Friedhof_1906.jpg/1200px-Essen,_Kruppscher_Friedhof_1906.jpg
+image_srcset:
+  Essen, Ostfriedhof, Pfarrer Laar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Essen,_Ostfriedhof,_Pfarrer_Laar.JPG/400px-Essen,_Ostfriedhof,_Pfarrer_Laar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Essen,_Ostfriedhof,_Pfarrer_Laar.JPG/800px-Essen,_Ostfriedhof,_Pfarrer_Laar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Essen,_Ostfriedhof,_Pfarrer_Laar.JPG/1200px-Essen,_Ostfriedhof,_Pfarrer_Laar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Essen,_Ostfriedhof,_Pfarrer_Laar.JPG/1920px-Essen,_Ostfriedhof,_Pfarrer_Laar.JPG
+  Gedenksäule Ostfriedhof Essen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gedenksäule_Ostfriedhof_Essen.JPG/400px-Gedenksäule_Ostfriedhof_Essen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gedenksäule_Ostfriedhof_Essen.JPG/800px-Gedenksäule_Ostfriedhof_Essen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gedenksäule_Ostfriedhof_Essen.JPG/1200px-Gedenksäule_Ostfriedhof_Essen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gedenksäule_Ostfriedhof_Essen.JPG/1920px-Gedenksäule_Ostfriedhof_Essen.JPG
+  Friedrich Alfred Krupp Beerdigung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Friedrich_Alfred_Krupp_Beerdigung.jpg/400px-Friedrich_Alfred_Krupp_Beerdigung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Friedrich_Alfred_Krupp_Beerdigung.jpg/800px-Friedrich_Alfred_Krupp_Beerdigung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Friedrich_Alfred_Krupp_Beerdigung.jpg/1200px-Friedrich_Alfred_Krupp_Beerdigung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Friedrich_Alfred_Krupp_Beerdigung.jpg/1920px-Friedrich_Alfred_Krupp_Beerdigung.jpg
+  Familienfriedhof Krupp am Kettwiger Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg/400px-Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg/800px-Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg/1200px-Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg/1920px-Familienfriedhof_Krupp_am_Kettwiger_Tor.jpg
+  Essen, Kruppscher Friedhof 1906.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen,_Kruppscher_Friedhof_1906.jpg/400px-Essen,_Kruppscher_Friedhof_1906.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen,_Kruppscher_Friedhof_1906.jpg/800px-Essen,_Kruppscher_Friedhof_1906.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen,_Kruppscher_Friedhof_1906.jpg/1200px-Essen,_Kruppscher_Friedhof_1906.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Essen,_Kruppscher_Friedhof_1906.jpg/1920px-Essen,_Kruppscher_Friedhof_1906.jpg
 ---
 
 ## Overview

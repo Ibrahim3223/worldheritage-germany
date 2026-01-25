@@ -13,7 +13,7 @@ regions:
 latitude: 51.3388
 longitude: 12.37144
 images:
-  - "/images-sites/old-bach-monument-leipzig/01-9b0f845e-800w.webp"
+  - "/images/old-bach-monument-leipzig/01-9b0f845e-800w.webp"
 ---
 
 ## Overview

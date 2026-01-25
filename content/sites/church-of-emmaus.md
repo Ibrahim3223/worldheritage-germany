@@ -1,23 +1,50 @@
 ---
-title: "Church of Emmaus"
-site_name: "Church of Emmaus"
-slug: "church-of-emmaus"
-region: "Berlin"
-
-# Location
+title: Church of Emmaus
+site_name: Church of Emmaus
+slug: church-of-emmaus
+region: Berlin
 latitude: 52.4998
 longitude: 13.431
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1338502"
-description: "The Church of Emmaus, located in Lausitzer Platz, Berlin-Kreuzberg, is a striking example of Romanesque Revival architecture that captures the spirit of..."
+- cultural site
+wikidata_id: Q1338502
+description: The Church of Emmaus, located in Lausitzer Platz, Berlin-Kreuzberg, is
+  a striking example of Romanesque Revival architecture that captures the spirit of...
 images:
-  - "/images-sites/church-of-emmaus/01-35da5ae7-1920w.webp"
-  - "/images-sites/church-of-emmaus/02-d110a09f-1920w.webp"
-  - "/images-sites/church-of-emmaus/03-616984ef-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg/1200px-Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/LausitzerPlatz_Hochbahn_2005-06-24.jpg/1200px-LausitzerPlatz_Hochbahn_2005-06-24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin-Kreuzberg,_Emmauskirche_(11).jpg/1200px-Berlin-Kreuzberg,_Emmauskirche_(11).jpg
+image_srcset:
+  Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg/400px-Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg/800px-Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg/1200px-Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg/1920px-Berlin-kreuzberg%20goerlitzer-park%2020051018%20187.jpg
+  Berlin-kreuzberg goerlitzer-park 20050923 527.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/400px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/800px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/1920px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+  Berlin-kreuzberg goerlitzer-park 20051018 187.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/400px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/800px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg/1920px-Berlin-kreuzberg_goerlitzer-park_20051018_187.jpg
+  LausitzerPlatz Hochbahn 2005-06-24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/LausitzerPlatz_Hochbahn_2005-06-24.jpg/400px-LausitzerPlatz_Hochbahn_2005-06-24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/LausitzerPlatz_Hochbahn_2005-06-24.jpg/800px-LausitzerPlatz_Hochbahn_2005-06-24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/LausitzerPlatz_Hochbahn_2005-06-24.jpg/1200px-LausitzerPlatz_Hochbahn_2005-06-24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/LausitzerPlatz_Hochbahn_2005-06-24.jpg/1920px-LausitzerPlatz_Hochbahn_2005-06-24.jpg
+  Berlin-Kreuzberg, Emmauskirche (11).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin-Kreuzberg,_Emmauskirche_(11).jpg/400px-Berlin-Kreuzberg,_Emmauskirche_(11).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin-Kreuzberg,_Emmauskirche_(11).jpg/800px-Berlin-Kreuzberg,_Emmauskirche_(11).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin-Kreuzberg,_Emmauskirche_(11).jpg/1200px-Berlin-Kreuzberg,_Emmauskirche_(11).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Berlin-Kreuzberg,_Emmauskirche_(11).jpg/1920px-Berlin-Kreuzberg,_Emmauskirche_(11).jpg
 ---
 
 ## Overview

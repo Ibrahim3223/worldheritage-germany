@@ -1,19 +1,50 @@
 ---
-title: "Glücksburg Castle"
+title: Glücksburg Castle
 date: 2026-01-23
 draft: false
-description: "château"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: château
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.831666666
 longitude: 9.543611111
 images:
-  - "/images-sites/gluecksburg-castle/01-bd16d49e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/1200px-Schloss_Gluecksburg_msu_2018_-7111.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg/1200px-Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Das_Schloss_Glücksburg_von_NNO_(2024).jpg/1200px-Das_Schloss_Glücksburg_von_NNO_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg/1200px-Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg/1200px-Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg
+image_srcset:
+  Schloss Gluecksburg msu 2018 -7111.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/400px-Schloss_Gluecksburg_msu_2018_-7111.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/800px-Schloss_Gluecksburg_msu_2018_-7111.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/1200px-Schloss_Gluecksburg_msu_2018_-7111.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schloss_Gluecksburg_msu_2018_-7111.jpg/1920px-Schloss_Gluecksburg_msu_2018_-7111.jpg
+  Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg/400px-Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg/800px-Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg/1200px-Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg/1920px-Schloss-Gluecksburg-msu-2023-0I9A-0153-0153-crop.jpg
+  Das Schloss Glücksburg von NNO (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Das_Schloss_Glücksburg_von_NNO_(2024).jpg/400px-Das_Schloss_Glücksburg_von_NNO_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Das_Schloss_Glücksburg_von_NNO_(2024).jpg/800px-Das_Schloss_Glücksburg_von_NNO_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Das_Schloss_Glücksburg_von_NNO_(2024).jpg/1200px-Das_Schloss_Glücksburg_von_NNO_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Das_Schloss_Glücksburg_von_NNO_(2024).jpg/1920px-Das_Schloss_Glücksburg_von_NNO_(2024).jpg
+  Kulturdenkmal Schloss Glücksburg 4.1g Wasserschloss NO-Ans Schleswig-Holstein Foto Wolfgang Pehlemann DSCN0197.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg/400px-Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg/800px-Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg/1200px-Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg/1920px-Kulturdenkmal_Schloss_Glücksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg
+  ? Luftbild Kulturdenkmal Schloss Glücksburg Wasserschloss Schleswig-Holstein - Foto
+    Wolfgang Pehlemann Steinberg IMG 6753.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg/400px-Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg/800px-Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg/1200px-Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg/1920px-Luftbild_Kulturdenkmal_Schloss_Glücksburg_Wasserschloss_Schleswig-Holstein_-_Foto_Wolfgang_Pehlemann_Steinberg_IMG_6753.jpg
 ---
 
 ## Overview

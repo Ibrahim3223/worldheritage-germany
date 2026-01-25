@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1257735"
 description: "Trinity Church in Worms, Germany, is a striking example of Baroque architecture that captivates visitors with its elegant lines and historical depth. Kn..."
 images:
-  - "/images-sites/trinity-church-worms/01-84caca83-1920w.webp"
-  - "/images-sites/trinity-church-worms/02-9660b3f5-1920w.webp"
-  - "/images-sites/trinity-church-worms/03-b75d2422-1920w.webp"
+  - "/images/trinity-church-worms/01-84caca83-1920w.webp"
+  - "/images/trinity-church-worms/02-9660b3f5-1920w.webp"
+  - "/images/trinity-church-worms/03-b75d2422-1920w.webp"
 ---
 
 ## Overview

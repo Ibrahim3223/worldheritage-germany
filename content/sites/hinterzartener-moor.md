@@ -1,19 +1,49 @@
 ---
-title: "Hinterzartener Moor"
+title: Hinterzartener Moor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.908333333
 longitude: 8.108333333
 images:
-  - "/images-sites/hinterzartener-moor/01-f343802b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hinterzartener_Moor_Bieberverbiss_02.jpg/1200px-Hinterzartener_Moor_Bieberverbiss_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hinterzartener_Moor_1130076.jpg/1200px-Hinterzartener_Moor_1130076.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hinterzartener_Moor_1130092.jpg/1200px-Hinterzartener_Moor_1130092.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hinterzartener_Moor_1130099.jpg/1200px-Hinterzartener_Moor_1130099.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hinterzartener_Moor_1130115.jpg/1200px-Hinterzartener_Moor_1130115.jpg
+image_srcset:
+  Hinterzartener Moor Bieberverbiss 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hinterzartener_Moor_Bieberverbiss_02.jpg/400px-Hinterzartener_Moor_Bieberverbiss_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hinterzartener_Moor_Bieberverbiss_02.jpg/800px-Hinterzartener_Moor_Bieberverbiss_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hinterzartener_Moor_Bieberverbiss_02.jpg/1200px-Hinterzartener_Moor_Bieberverbiss_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hinterzartener_Moor_Bieberverbiss_02.jpg/1920px-Hinterzartener_Moor_Bieberverbiss_02.jpg
+  Hinterzartener Moor 1130076.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hinterzartener_Moor_1130076.jpg/400px-Hinterzartener_Moor_1130076.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hinterzartener_Moor_1130076.jpg/800px-Hinterzartener_Moor_1130076.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hinterzartener_Moor_1130076.jpg/1200px-Hinterzartener_Moor_1130076.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hinterzartener_Moor_1130076.jpg/1920px-Hinterzartener_Moor_1130076.jpg
+  Hinterzartener Moor 1130092.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hinterzartener_Moor_1130092.jpg/400px-Hinterzartener_Moor_1130092.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hinterzartener_Moor_1130092.jpg/800px-Hinterzartener_Moor_1130092.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hinterzartener_Moor_1130092.jpg/1200px-Hinterzartener_Moor_1130092.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hinterzartener_Moor_1130092.jpg/1920px-Hinterzartener_Moor_1130092.jpg
+  Hinterzartener Moor 1130099.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hinterzartener_Moor_1130099.jpg/400px-Hinterzartener_Moor_1130099.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hinterzartener_Moor_1130099.jpg/800px-Hinterzartener_Moor_1130099.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hinterzartener_Moor_1130099.jpg/1200px-Hinterzartener_Moor_1130099.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hinterzartener_Moor_1130099.jpg/1920px-Hinterzartener_Moor_1130099.jpg
+  Hinterzartener Moor 1130115.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hinterzartener_Moor_1130115.jpg/400px-Hinterzartener_Moor_1130115.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hinterzartener_Moor_1130115.jpg/800px-Hinterzartener_Moor_1130115.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hinterzartener_Moor_1130115.jpg/1200px-Hinterzartener_Moor_1130115.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hinterzartener_Moor_1130115.jpg/1920px-Hinterzartener_Moor_1130115.jpg
 ---
 
 ## Overview

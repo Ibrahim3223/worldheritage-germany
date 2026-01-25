@@ -13,7 +13,7 @@ regions:
 latitude: 48.1403
 longitude: 11.5818
 images:
-  - "/images-sites/marstall/01-83be1b0a-800w.webp"
+  - "/images/marstall/01-83be1b0a-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Hochkalter"
+title: Hochkalter
 date: 2026-01-23
 draft: false
-description: "mountain in the alps"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the alps
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.569166666
 longitude: 12.865555555
 images:
-  - "/images-sites/hochkalter/01-7c49ee18-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hochkalter_(Ostansicht).jpg/1200px-Hochkalter_(Ostansicht).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/1200px-Hintersee-Hochkalter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hochkalter.jpg/1200px-Hochkalter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/1200px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/1200px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+image_srcset:
+  Hochkalter (Ostansicht).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hochkalter_(Ostansicht).jpg/400px-Hochkalter_(Ostansicht).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hochkalter_(Ostansicht).jpg/800px-Hochkalter_(Ostansicht).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hochkalter_(Ostansicht).jpg/1200px-Hochkalter_(Ostansicht).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hochkalter_(Ostansicht).jpg/1920px-Hochkalter_(Ostansicht).jpg
+  Hintersee-Hochkalter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/400px-Hintersee-Hochkalter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/800px-Hintersee-Hochkalter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/1200px-Hintersee-Hochkalter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/1920px-Hintersee-Hochkalter.jpg
+  Hochkalter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hochkalter.jpg/400px-Hochkalter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hochkalter.jpg/800px-Hochkalter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hochkalter.jpg/1200px-Hochkalter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hochkalter.jpg/1920px-Hochkalter.jpg
+  Blick in den Nationalpark Berchtesgaden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/400px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/800px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/1200px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Blick_in_den_Nationalpark_Berchtesgaden.jpg/1920px-Blick_in_den_Nationalpark_Berchtesgaden.jpg
+  Ramsau bei Berchtesgaden (DE), Milchstraße über Hochkalter & Hintersee -- 2024 -- 1018-50.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/400px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/800px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/1200px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/1920px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
 ---
 
 ## Overview

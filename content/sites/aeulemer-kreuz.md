@@ -1,19 +1,49 @@
 ---
-title: "Äulemer Kreuz"
+title: Äulemer Kreuz
 date: 2026-01-23
 draft: false
-description: "mountain pass"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: mountain pass
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 47.827107
 longitude: 8.088163
 images:
-  - "/images-sites/aeulemer-kreuz/01-5e5a3762-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Farnwitte.JPG/1200px-Farnwitte.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Loipenhaus_Äulemer_Kreuz_Loipe.JPG/1200px-Loipenhaus_Äulemer_Kreuz_Loipe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1200px-Äulemer_Kreuz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2007_0210Image0006_Äulemer_Kreuz.JPG/1200px-2007_0210Image0006_Äulemer_Kreuz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aeulemer.jpg/1200px-Aeulemer.jpg
+image_srcset:
+  Farnwitte.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Farnwitte.JPG/400px-Farnwitte.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Farnwitte.JPG/800px-Farnwitte.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Farnwitte.JPG/1200px-Farnwitte.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Farnwitte.JPG/1920px-Farnwitte.JPG
+  Loipenhaus Äulemer Kreuz Loipe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Loipenhaus_Äulemer_Kreuz_Loipe.JPG/400px-Loipenhaus_Äulemer_Kreuz_Loipe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Loipenhaus_Äulemer_Kreuz_Loipe.JPG/800px-Loipenhaus_Äulemer_Kreuz_Loipe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Loipenhaus_Äulemer_Kreuz_Loipe.JPG/1200px-Loipenhaus_Äulemer_Kreuz_Loipe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Loipenhaus_Äulemer_Kreuz_Loipe.JPG/1920px-Loipenhaus_Äulemer_Kreuz_Loipe.JPG
+  Äulemer Kreuz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/400px-Äulemer_Kreuz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/800px-Äulemer_Kreuz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1200px-Äulemer_Kreuz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Äulemer_Kreuz.JPG/1920px-Äulemer_Kreuz.JPG
+  2007 0210Image0006 Äulemer Kreuz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2007_0210Image0006_Äulemer_Kreuz.JPG/400px-2007_0210Image0006_Äulemer_Kreuz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2007_0210Image0006_Äulemer_Kreuz.JPG/800px-2007_0210Image0006_Äulemer_Kreuz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2007_0210Image0006_Äulemer_Kreuz.JPG/1200px-2007_0210Image0006_Äulemer_Kreuz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2007_0210Image0006_Äulemer_Kreuz.JPG/1920px-2007_0210Image0006_Äulemer_Kreuz.JPG
+  Aeulemer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aeulemer.jpg/400px-Aeulemer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aeulemer.jpg/800px-Aeulemer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aeulemer.jpg/1200px-Aeulemer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aeulemer.jpg/1920px-Aeulemer.jpg
 ---
 
 ## Overview

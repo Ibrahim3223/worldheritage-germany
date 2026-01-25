@@ -1,19 +1,49 @@
 ---
-title: "Caroline Pit"
+title: Caroline Pit
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1256
 longitude: 7.91911
 images:
-  - "/images-sites/caroline-pit/01-feccd35d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg/1200px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grube_Caroline_in_Sexau,_Zugang.jpg/1200px-Grube_Caroline_in_Sexau,_Zugang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg/1200px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg/1200px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grube_Caroline_in_Sexau,_Lageplan.jpg/1200px-Grube_Caroline_in_Sexau,_Lageplan.jpg
+image_srcset:
+  Grube Caroline in Sexau, 2014 errichtetes Pochwerk mit Wasserantrieb 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg/400px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg/800px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg/1200px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg/1920px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_2.jpg
+  Grube Caroline in Sexau, Zugang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grube_Caroline_in_Sexau,_Zugang.jpg/400px-Grube_Caroline_in_Sexau,_Zugang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grube_Caroline_in_Sexau,_Zugang.jpg/800px-Grube_Caroline_in_Sexau,_Zugang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grube_Caroline_in_Sexau,_Zugang.jpg/1200px-Grube_Caroline_in_Sexau,_Zugang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Grube_Caroline_in_Sexau,_Zugang.jpg/1920px-Grube_Caroline_in_Sexau,_Zugang.jpg
+  Grube Caroline in Sexau, 2014 errichtetes Pochwerk mit Wasserantrieb 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg/400px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg/800px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg/1200px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg/1920px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb_4.jpg
+  Grube Caroline in Sexau, 2014 errichtetes Pochwerk mit Wasserantrieb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg/400px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg/800px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg/1200px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg/1920px-Grube_Caroline_in_Sexau,_2014_errichtetes_Pochwerk_mit_Wasserantrieb.jpg
+  Grube Caroline in Sexau, Lageplan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grube_Caroline_in_Sexau,_Lageplan.jpg/400px-Grube_Caroline_in_Sexau,_Lageplan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grube_Caroline_in_Sexau,_Lageplan.jpg/800px-Grube_Caroline_in_Sexau,_Lageplan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grube_Caroline_in_Sexau,_Lageplan.jpg/1200px-Grube_Caroline_in_Sexau,_Lageplan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grube_Caroline_in_Sexau,_Lageplan.jpg/1920px-Grube_Caroline_in_Sexau,_Lageplan.jpg
 ---
 
 ## Overview

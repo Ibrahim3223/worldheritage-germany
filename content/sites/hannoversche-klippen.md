@@ -1,19 +1,49 @@
 ---
-title: "Hannoversche Klippen"
+title: Hannoversche Klippen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Beverungen, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Beverungen, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.65
 longitude: 9.43167
 images:
-  - "/images-sites/hannoversche-klippen/01-deba94d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg/1200px-Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Plan_Hannoversche_Klippen.png/1200px-Plan_Hannoversche_Klippen.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg/1200px-Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hannoversche_Klippen_2.jpg/1200px-Hannoversche_Klippen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Han_klippen_sollingbahn.jpg/1200px-Han_klippen_sollingbahn.jpg
+image_srcset:
+  Beverungen - 2017-04-27 - HX-023 Hannoversche Klippen (28).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg/400px-Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg/800px-Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg/1200px-Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg/1920px-Beverungen_-_2017-04-27_-_HX-023_Hannoversche_Klippen_(28).jpg
+  Plan Hannoversche Klippen.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Plan_Hannoversche_Klippen.png/400px-Plan_Hannoversche_Klippen.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Plan_Hannoversche_Klippen.png/800px-Plan_Hannoversche_Klippen.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Plan_Hannoversche_Klippen.png/1200px-Plan_Hannoversche_Klippen.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Plan_Hannoversche_Klippen.png/1920px-Plan_Hannoversche_Klippen.png
+  Hannoversche klippen kletterstelle im pfad von oben ds wv 04 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg/400px-Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg/800px-Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg/1200px-Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg/1920px-Hannoversche_klippen_kletterstelle_im_pfad_von_oben_ds_wv_04_2010.jpg
+  Hannoversche Klippen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hannoversche_Klippen_2.jpg/400px-Hannoversche_Klippen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hannoversche_Klippen_2.jpg/800px-Hannoversche_Klippen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hannoversche_Klippen_2.jpg/1200px-Hannoversche_Klippen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hannoversche_Klippen_2.jpg/1920px-Hannoversche_Klippen_2.jpg
+  Han klippen sollingbahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Han_klippen_sollingbahn.jpg/400px-Han_klippen_sollingbahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Han_klippen_sollingbahn.jpg/800px-Han_klippen_sollingbahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Han_klippen_sollingbahn.jpg/1200px-Han_klippen_sollingbahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Han_klippen_sollingbahn.jpg/1920px-Han_klippen_sollingbahn.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.55124
 longitude: 9.976869
 images:
-  - "/images-sites/komponistenquartier-hamburg/01-87e40927-800w.webp"
+  - "/images/komponistenquartier-hamburg/01-87e40927-800w.webp"
 ---
 
 ## Overview

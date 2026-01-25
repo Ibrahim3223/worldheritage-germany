@@ -13,9 +13,9 @@ regions:
 latitude: 52.5105
 longitude: 13.36877778
 images:
-  - "/images-sites/memorial-for-the-victims-of-national-socialist-euthanasia-killings/01-9f26a2b6-800w.webp"
-  - "/images-sites/memorial-for-the-victims-of-national-socialist-euthanasia-killings/02-699547d3-800w.webp"
-  - "/images-sites/memorial-for-the-victims-of-national-socialist-euthanasia-killings/03-77ecc7ed-800w.webp"
+  - "/images/memorial-for-the-victims-of-national-socialist-euthanasia-killings/01-9f26a2b6-800w.webp"
+  - "/images/memorial-for-the-victims-of-national-socialist-euthanasia-killings/02-699547d3-800w.webp"
+  - "/images/memorial-for-the-victims-of-national-socialist-euthanasia-killings/03-77ecc7ed-800w.webp"
 ---
 
 ## Overview

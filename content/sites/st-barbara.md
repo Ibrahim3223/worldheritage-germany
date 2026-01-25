@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1578024"
 description: "St. Barbara, a striking church building located in Dortmund, Germany, serves as a captivating testament to the Romanesque Revival architectural style. A..."
 images:
-  - "/images-sites/st-barbara/01-180ff8a4-1920w.webp"
-  - "/images-sites/st-barbara/02-e03b8d2c-1920w.webp"
-  - "/images-sites/st-barbara/03-a1d30690-1920w.webp"
+  - "/images/st-barbara/01-180ff8a4-1920w.webp"
+  - "/images/st-barbara/02-e03b8d2c-1920w.webp"
+  - "/images/st-barbara/03-a1d30690-1920w.webp"
 ---
 
 ## Overview

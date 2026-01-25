@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1895582"
 description: "In the vibrant district of Seckbach, the Maria Rosenkranz Church stands as a striking example of modernist architecture, captivating visitors with its u..."
 images:
-  - "/images-sites/maria-rosenkranz-church/01-c8c2c108-1920w.webp"
-  - "/images-sites/maria-rosenkranz-church/02-0bf1a3e6-1920w.webp"
-  - "/images-sites/maria-rosenkranz-church/03-9ee20569-1920w.webp"
+  - "/images/maria-rosenkranz-church/01-c8c2c108-1920w.webp"
+  - "/images/maria-rosenkranz-church/02-0bf1a3e6-1920w.webp"
+  - "/images/maria-rosenkranz-church/03-9ee20569-1920w.webp"
 ---
 
 ## Overview

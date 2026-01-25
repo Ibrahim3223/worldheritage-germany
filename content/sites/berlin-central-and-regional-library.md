@@ -1,27 +1,37 @@
 ---
-title: "Berlin Central and Regional Library"
+title: Berlin Central and Regional Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.496486
 longitude: 13.392397
-
-# Images
 images:
-  - "/images-sites/berlin-central-and-regional-library/01-071bd7f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/1200px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg/1200px-Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/1200px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+image_srcset:
+  Wir sind die ZLB (Berlin, 2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/400px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/800px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/1200px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wir_sind_die_ZLB_(Berlin,_2023).jpg/1920px-Wir_sind_die_ZLB_(Berlin,_2023).jpg
+  Bundesarchiv Bild 183-E1024-0301-003, Berlin, Stadtbibliothek, Fassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg/400px-Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg/800px-Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg/1200px-Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg/1920px-Bundesarchiv_Bild_183-E1024-0301-003,_Berlin,_Stadtbibliothek,_Fassade.jpg
+  Bundesarchiv Bild 183-K0118-0301-001, Berlin, Stadtbibliothek, Lesesaal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/400px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/800px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/1200px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg/1920px-Bundesarchiv_Bild_183-K0118-0301-001,_Berlin,_Stadtbibliothek,_Lesesaal.jpg
 ---
 
 ## Overview

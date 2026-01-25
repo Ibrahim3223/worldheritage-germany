@@ -13,9 +13,9 @@ regions:
 latitude: 53.61536
 longitude: 9.30167
 images:
-  - "/images-sites/wehbers-muehle/01-b109a9cf-800w.webp"
-  - "/images-sites/wehbers-muehle/02-e4c4c5bb-800w.webp"
-  - "/images-sites/wehbers-muehle/03-c006eae0-800w.webp"
+  - "/images/wehbers-muehle/01-b109a9cf-800w.webp"
+  - "/images/wehbers-muehle/02-e4c4c5bb-800w.webp"
+  - "/images/wehbers-muehle/03-c006eae0-800w.webp"
 ---
 
 ## Overview

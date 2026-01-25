@@ -1,27 +1,49 @@
 ---
-title: "Burg Nideggen"
+title: Burg Nideggen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.688511
 longitude: 6.476642
-
-# Images
 images:
-  - "/images-sites/burg-nideggen/01-e5caedbc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Nideggen_vom_Effels.jpg/1200px-Burg_Nideggen_vom_Effels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nideggen_von_Christinenley.jpg/1200px-Burg_Nideggen_von_Christinenley.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Nideggen_from_valley_05.jpg/1200px-Burg_Nideggen_from_valley_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Nideggen_from_valley_06.jpg/1200px-Burg_Nideggen_from_valley_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/1200px-Burg_Nideggen_007-.jpg
+image_srcset:
+  Burg Nideggen vom Effels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Nideggen_vom_Effels.jpg/400px-Burg_Nideggen_vom_Effels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Nideggen_vom_Effels.jpg/800px-Burg_Nideggen_vom_Effels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Nideggen_vom_Effels.jpg/1200px-Burg_Nideggen_vom_Effels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Burg_Nideggen_vom_Effels.jpg/1920px-Burg_Nideggen_vom_Effels.jpg
+  Burg Nideggen von Christinenley.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nideggen_von_Christinenley.jpg/400px-Burg_Nideggen_von_Christinenley.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nideggen_von_Christinenley.jpg/800px-Burg_Nideggen_von_Christinenley.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nideggen_von_Christinenley.jpg/1200px-Burg_Nideggen_von_Christinenley.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burg_Nideggen_von_Christinenley.jpg/1920px-Burg_Nideggen_von_Christinenley.jpg
+  Burg Nideggen from valley 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Nideggen_from_valley_05.jpg/400px-Burg_Nideggen_from_valley_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Nideggen_from_valley_05.jpg/800px-Burg_Nideggen_from_valley_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Nideggen_from_valley_05.jpg/1200px-Burg_Nideggen_from_valley_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Nideggen_from_valley_05.jpg/1920px-Burg_Nideggen_from_valley_05.jpg
+  Burg Nideggen from valley 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Nideggen_from_valley_06.jpg/400px-Burg_Nideggen_from_valley_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Nideggen_from_valley_06.jpg/800px-Burg_Nideggen_from_valley_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Nideggen_from_valley_06.jpg/1200px-Burg_Nideggen_from_valley_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Burg_Nideggen_from_valley_06.jpg/1920px-Burg_Nideggen_from_valley_06.jpg
+  Burg Nideggen 007-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/400px-Burg_Nideggen_007-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/800px-Burg_Nideggen_007-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/1200px-Burg_Nideggen_007-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Burg_Nideggen_007-.jpg/1920px-Burg_Nideggen_007-.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.754166944
 longitude: 6.228056111
 images:
-  - "/images-sites/moylaender-bruch/01-636f9420-800w.webp"
-  - "/images-sites/moylaender-bruch/02-e368d8fb-800w.webp"
-  - "/images-sites/moylaender-bruch/03-5f90ce29-800w.webp"
+  - "/images/moylaender-bruch/01-636f9420-800w.webp"
+  - "/images/moylaender-bruch/02-e368d8fb-800w.webp"
+  - "/images/moylaender-bruch/03-5f90ce29-800w.webp"
 ---
 
 ## Overview

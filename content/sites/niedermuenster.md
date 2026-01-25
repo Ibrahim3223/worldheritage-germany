@@ -13,7 +13,7 @@ regions:
 latitude: 49.019812031
 longitude: 12.10132453
 images:
-  - "/images-sites/niedermuenster/01-e2a4bce2-800w.webp"
+  - "/images/niedermuenster/01-e2a4bce2-800w.webp"
 ---
 
 ## Overview

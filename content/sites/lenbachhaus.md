@@ -21,7 +21,7 @@ longitude: 11.563611111
 
 # Images
 images:
-  - "/images-sites/lenbachhaus/01-dbf98f78-800w.webp"
+  - "/images/lenbachhaus/01-dbf98f78-800w.webp"
 ---
 
 ## Overview

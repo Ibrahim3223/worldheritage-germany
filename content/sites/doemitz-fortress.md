@@ -1,19 +1,49 @@
 ---
-title: "Dömitz Fortress"
+title: Dömitz Fortress
 date: 2026-01-23
 draft: false
-description: "was built between 1559 and 1565, to secure Mecklenburg's border"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: was built between 1559 and 1565, to secure Mecklenburg's border
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1424
 longitude: 11.2457
 images:
-  - "/images-sites/doemitz-fortress/01-5581b5f7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Festungsmauer_Dömitz.JPG/1200px-Festungsmauer_Dömitz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baudenkmal_Festung_Dömitz_IMG_8912.jpg/1200px-Baudenkmal_Festung_Dömitz_IMG_8912.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg/1200px-Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dömitz_(Merian).jpg/1200px-Dömitz_(Merian).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1200px-Dömitz_Festung_ReiKi.JPG
+image_srcset:
+  Festungsmauer Dömitz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Festungsmauer_Dömitz.JPG/400px-Festungsmauer_Dömitz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Festungsmauer_Dömitz.JPG/800px-Festungsmauer_Dömitz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Festungsmauer_Dömitz.JPG/1200px-Festungsmauer_Dömitz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Festungsmauer_Dömitz.JPG/1920px-Festungsmauer_Dömitz.JPG
+  Baudenkmal Festung Dömitz IMG 8912.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baudenkmal_Festung_Dömitz_IMG_8912.jpg/400px-Baudenkmal_Festung_Dömitz_IMG_8912.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baudenkmal_Festung_Dömitz_IMG_8912.jpg/800px-Baudenkmal_Festung_Dömitz_IMG_8912.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baudenkmal_Festung_Dömitz_IMG_8912.jpg/1200px-Baudenkmal_Festung_Dömitz_IMG_8912.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baudenkmal_Festung_Dömitz_IMG_8912.jpg/1920px-Baudenkmal_Festung_Dömitz_IMG_8912.jpg
+  Dömitz- Hauptgebäude mit Hof der Festung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg/400px-Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg/800px-Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg/1200px-Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg/1920px-Dömitz-_Hauptgebäude_mit_Hof_der_Festung.jpg
+  Dömitz (Merian).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dömitz_(Merian).jpg/400px-Dömitz_(Merian).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dömitz_(Merian).jpg/800px-Dömitz_(Merian).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dömitz_(Merian).jpg/1200px-Dömitz_(Merian).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dömitz_(Merian).jpg/1920px-Dömitz_(Merian).jpg
+  Dömitz Festung ReiKi.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/400px-Dömitz_Festung_ReiKi.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/800px-Dömitz_Festung_ReiKi.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1200px-Dömitz_Festung_ReiKi.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dömitz_Festung_ReiKi.JPG/1920px-Dömitz_Festung_ReiKi.JPG
 ---
 
 ## Overview

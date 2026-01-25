@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1752900"
 description: "St. Georg, a notable church building located in Neubrandenburg, Germany, is a striking example of Brick Gothic architecture. This historic site invites ..."
 images:
-  - "/images-sites/st-georg/01-4a121a25-1920w.webp"
-  - "/images-sites/st-georg/02-250e07b0-1920w.webp"
-  - "/images-sites/st-georg/03-81adc283-1920w.webp"
+  - "/images/st-georg/01-4a121a25-1920w.webp"
+  - "/images/st-georg/02-250e07b0-1920w.webp"
+  - "/images/st-georg/03-81adc283-1920w.webp"
 ---
 
 ## Overview

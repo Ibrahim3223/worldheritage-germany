@@ -1,24 +1,51 @@
 ---
-title: "Critzumer Kirche"
-site_name: "Critzumer Kirche"
-slug: "critzumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Critzumer Kirche
+site_name: Critzumer Kirche
+slug: critzumer-kirche
+region: Lower Saxony
 latitude: 53.2899
 longitude: 7.35806
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q348395"
-description: "Critzumer Kirche, a striking example of Gothic architecture, stands prominently in the Jemgum region of Germany. This church, built with brick, reflects..."
+- church building
+- religious site
+wikidata_id: Q348395
+description: Critzumer Kirche, a striking example of Gothic architecture, stands prominently
+  in the Jemgum region of Germany. This church, built with brick, reflects...
 images:
-  - "/images-sites/critzumer-kirche/01-5e5b9d63-1920w.webp"
-  - "/images-sites/critzumer-kirche/02-ac6baf79-1920w.webp"
-  - "/images-sites/critzumer-kirche/03-abba5b43-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Critzum%20kirche.jpg/1200px-Critzum%20kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirche_Critzum-msu-0358.jpg/1200px-Kirche_Critzum-msu-0358.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg/1200px-Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Critzum_Kirche_(05).jpg/1200px-Critzum_Kirche_(05).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/1200px-Critzum_kirche.jpg
+image_srcset:
+  Critzum%20kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Critzum%20kirche.jpg/400px-Critzum%20kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Critzum%20kirche.jpg/800px-Critzum%20kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Critzum%20kirche.jpg/1200px-Critzum%20kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Critzum%20kirche.jpg/1920px-Critzum%20kirche.jpg
+  Kirche Critzum-msu-0358.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirche_Critzum-msu-0358.jpg/400px-Kirche_Critzum-msu-0358.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirche_Critzum-msu-0358.jpg/800px-Kirche_Critzum-msu-0358.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirche_Critzum-msu-0358.jpg/1200px-Kirche_Critzum-msu-0358.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirche_Critzum-msu-0358.jpg/1920px-Kirche_Critzum-msu-0358.jpg
+  Jemgum Critzum - Critzumer Straße - Kirche + Glockenturm 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg/400px-Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg/800px-Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg/1200px-Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg/1920px-Jemgum_Critzum_-_Critzumer_Straße_-_Kirche_+_Glockenturm_01_ies.jpg
+  Critzum Kirche (05).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Critzum_Kirche_(05).jpg/400px-Critzum_Kirche_(05).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Critzum_Kirche_(05).jpg/800px-Critzum_Kirche_(05).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Critzum_Kirche_(05).jpg/1200px-Critzum_Kirche_(05).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Critzum_Kirche_(05).jpg/1920px-Critzum_Kirche_(05).jpg
+  Critzum kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/400px-Critzum_kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/800px-Critzum_kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/1200px-Critzum_kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Critzum_kirche.jpg/1920px-Critzum_kirche.jpg
 ---
 
 ## Overview

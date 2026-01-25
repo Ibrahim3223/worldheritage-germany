@@ -13,9 +13,9 @@ regions:
 latitude: 47.593888888
 longitude: 11.346111111
 images:
-  - "/images-sites/walchensee/01-b34d5766-800w.webp"
-  - "/images-sites/walchensee/02-b2e33704-800w.webp"
-  - "/images-sites/walchensee/03-1215763a-800w.webp"
+  - "/images/walchensee/01-b34d5766-800w.webp"
+  - "/images/walchensee/02-b2e33704-800w.webp"
+  - "/images/walchensee/03-1215763a-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Bühne der Kulturen"
+title: Bühne der Kulturen
 date: 2026-01-24
 draft: false
-description: "intercultural theatre in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: intercultural theatre in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9537
 longitude: 6.91504
 images:
-  - "/images-sites/buehne-der-kulturen/01-3e800512-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bdk.jpg/1200px-Bdk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg/1200px-"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg/1200px-'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1200px-Arkadaş_Theater,_Köln-5172.jpg
+image_srcset:
+  Bdk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bdk.jpg/400px-Bdk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bdk.jpg/800px-Bdk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bdk.jpg/1200px-Bdk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bdk.jpg/1920px-Bdk.jpg
+  '"Norway.today" in der Bühne der Kulturen in Köln.jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg/400px-"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg/800px-"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg/1200px-"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg/1920px-"Norway.today"_in_der_Bühne_der_Kulturen_in_Köln.jpg
+  '''Norway.today'' in der Bühne der Kulturen in Köln (1).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg/400px-'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg/800px-'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg/1200px-'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg/1920px-'Norway.today'_in_der_Bühne_der_Kulturen_in_Köln_(1).jpg
+  Arkadaş Theater, Köln-5172.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/400px-Arkadaş_Theater,_Köln-5172.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/800px-Arkadaş_Theater,_Köln-5172.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1200px-Arkadaş_Theater,_Köln-5172.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arkadaş_Theater,_Köln-5172.jpg/1920px-Arkadaş_Theater,_Köln-5172.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.078333333
 longitude: 13.773333333
 images:
-  - "/images-sites/sowjetischer-garnisonfriedhof/01-03f08145-800w.webp"
-  - "/images-sites/sowjetischer-garnisonfriedhof/02-ef348442-800w.webp"
-  - "/images-sites/sowjetischer-garnisonfriedhof/03-e4cb8d43-800w.webp"
+  - "/images/sowjetischer-garnisonfriedhof/01-03f08145-800w.webp"
+  - "/images/sowjetischer-garnisonfriedhof/02-ef348442-800w.webp"
+  - "/images/sowjetischer-garnisonfriedhof/03-e4cb8d43-800w.webp"
 ---
 
 ## Overview

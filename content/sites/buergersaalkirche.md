@@ -1,19 +1,49 @@
 ---
-title: "Bürgersaalkirche"
+title: Bürgersaalkirche
 date: 2026-01-23
 draft: false
-description: "church in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: church in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 48.139023598
 longitude: 11.568256398
 images:
-  - "/images-sites/buergersaalkirche/01-ee58b54b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg/1200px-München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/1200px-Munich_Bürgersaal_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/1200px-Tap_in_Munich_Bürgersaal_church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/1200px-Ostern2020_Bürgersaalkirche_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/1200px-Bürgersaalkirche-bjs0605-02.jpg
+image_srcset:
+  München Neuhauser Straße 14 Bürgersaalkirche BW 2017-03-16 18-36-56.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg/400px-München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg/800px-München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg/1200px-München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg/1920px-München_Neuhauser_Straße_14_Bürgersaalkirche_BW_2017-03-16_18-36-56.jpg
+  Munich Bürgersaal church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/400px-Munich_Bürgersaal_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/800px-Munich_Bürgersaal_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/1200px-Munich_Bürgersaal_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Munich_Bürgersaal_church.jpg/1920px-Munich_Bürgersaal_church.jpg
+  Tap in Munich Bürgersaal church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/400px-Tap_in_Munich_Bürgersaal_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/800px-Tap_in_Munich_Bürgersaal_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/1200px-Tap_in_Munich_Bürgersaal_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tap_in_Munich_Bürgersaal_church.jpg/1920px-Tap_in_Munich_Bürgersaal_church.jpg
+  Ostern2020 Bürgersaalkirche München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/400px-Ostern2020_Bürgersaalkirche_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/800px-Ostern2020_Bürgersaalkirche_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/1200px-Ostern2020_Bürgersaalkirche_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ostern2020_Bürgersaalkirche_München.jpg/1920px-Ostern2020_Bürgersaalkirche_München.jpg
+  Bürgersaalkirche-bjs0605-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/400px-Bürgersaalkirche-bjs0605-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/800px-Bürgersaalkirche-bjs0605-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/1200px-Bürgersaalkirche-bjs0605-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bürgersaalkirche-bjs0605-02.jpg/1920px-Bürgersaalkirche-bjs0605-02.jpg
 ---
 
 ## Overview

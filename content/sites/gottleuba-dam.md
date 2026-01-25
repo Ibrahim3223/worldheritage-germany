@@ -1,21 +1,49 @@
 ---
-title: "Gottleuba Dam"
+title: Gottleuba Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8344
 longitude: 13.9308
 images:
-  - "/images-sites/gottleuba-dam/01-d1791801-800w.webp"
-  - "/images-sites/gottleuba-dam/02-dc1e1074-800w.webp"
-  - "/images-sites/gottleuba-dam/03-74a56519-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20230921.Hohler_Stein.-013.2.jpg/1200px-20230921.Hohler_Stein.-013.2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20230921.Hohler_Stein.-013.3.jpg/1200px-20230921.Hohler_Stein.-013.3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/1200px-Hartmannsbach-retaining_wall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hartmannsbach-barrage.jpg/1200px-Hartmannsbach-barrage.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gottleuba-Staumauer_(Gottleuba_dam).jpg/1200px-Gottleuba-Staumauer_(Gottleuba_dam).jpg
+image_srcset:
+  20230921.Hohler Stein.-013.2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20230921.Hohler_Stein.-013.2.jpg/400px-20230921.Hohler_Stein.-013.2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20230921.Hohler_Stein.-013.2.jpg/800px-20230921.Hohler_Stein.-013.2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20230921.Hohler_Stein.-013.2.jpg/1200px-20230921.Hohler_Stein.-013.2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/20230921.Hohler_Stein.-013.2.jpg/1920px-20230921.Hohler_Stein.-013.2.jpg
+  20230921.Hohler Stein.-013.3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20230921.Hohler_Stein.-013.3.jpg/400px-20230921.Hohler_Stein.-013.3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20230921.Hohler_Stein.-013.3.jpg/800px-20230921.Hohler_Stein.-013.3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20230921.Hohler_Stein.-013.3.jpg/1200px-20230921.Hohler_Stein.-013.3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20230921.Hohler_Stein.-013.3.jpg/1920px-20230921.Hohler_Stein.-013.3.jpg
+  Hartmannsbach-retaining wall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/400px-Hartmannsbach-retaining_wall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/800px-Hartmannsbach-retaining_wall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/1200px-Hartmannsbach-retaining_wall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hartmannsbach-retaining_wall.jpg/1920px-Hartmannsbach-retaining_wall.jpg
+  Hartmannsbach-barrage.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hartmannsbach-barrage.jpg/400px-Hartmannsbach-barrage.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hartmannsbach-barrage.jpg/800px-Hartmannsbach-barrage.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hartmannsbach-barrage.jpg/1200px-Hartmannsbach-barrage.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hartmannsbach-barrage.jpg/1920px-Hartmannsbach-barrage.jpg
+  Gottleuba-Staumauer (Gottleuba dam).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gottleuba-Staumauer_(Gottleuba_dam).jpg/400px-Gottleuba-Staumauer_(Gottleuba_dam).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gottleuba-Staumauer_(Gottleuba_dam).jpg/800px-Gottleuba-Staumauer_(Gottleuba_dam).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gottleuba-Staumauer_(Gottleuba_dam).jpg/1200px-Gottleuba-Staumauer_(Gottleuba_dam).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gottleuba-Staumauer_(Gottleuba_dam).jpg/1920px-Gottleuba-Staumauer_(Gottleuba_dam).jpg
 ---
 
 ## Overview

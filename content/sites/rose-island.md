@@ -21,7 +21,7 @@ longitude: 11.308772468
 
 # Images
 images:
-  - "/images-sites/rose-island/01-bf5b136e-800w.webp"
+  - "/images/rose-island/01-bf5b136e-800w.webp"
 ---
 
 ## Overview

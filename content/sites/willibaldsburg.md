@@ -21,7 +21,7 @@ longitude: 11.169511111
 
 # Images
 images:
-  - "/images-sites/willibaldsburg/01-c9828847-800w.webp"
+  - "/images/willibaldsburg/01-c9828847-800w.webp"
 ---
 
 ## Overview

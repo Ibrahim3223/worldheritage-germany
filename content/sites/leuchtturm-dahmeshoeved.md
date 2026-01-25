@@ -13,7 +13,7 @@ regions:
 latitude: 54.201777
 longitude: 11.09024
 images:
-  - "/images-sites/leuchtturm-dahmeshoeved/01-1c0492d1-800w.webp"
+  - "/images/leuchtturm-dahmeshoeved/01-1c0492d1-800w.webp"
 ---
 
 ## Overview

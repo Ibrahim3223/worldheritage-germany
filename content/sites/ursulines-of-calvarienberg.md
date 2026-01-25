@@ -13,7 +13,7 @@ regions:
 latitude: 50.5352
 longitude: 7.0921
 images:
-  - "/images-sites/ursulines-of-calvarienberg/01-68ada706-800w.webp"
+  - "/images/ursulines-of-calvarienberg/01-68ada706-800w.webp"
 ---
 
 ## Overview

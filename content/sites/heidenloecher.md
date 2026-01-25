@@ -1,19 +1,49 @@
 ---
-title: "Heidenlöcher"
+title: Heidenlöcher
 date: 2026-01-23
 draft: false
-description: "castle in Rhineland-Palatine, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Rhineland-Palatine, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4157
 longitude: 8.16779
 images:
-  - "/images-sites/heidenloecher/01-1d569834-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20201010Heidenlöcher14.jpg/1200px-20201010Heidenlöcher14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/20201010Heidenlöcher15.jpg/1200px-20201010Heidenlöcher15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20201010Heidenlöcher18.jpg/1200px-20201010Heidenlöcher18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20201010Heidenlöcher20.jpg/1200px-20201010Heidenlöcher20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenloechertor.JPG/1200px-Heidenloechertor.JPG
+image_srcset:
+  20201010Heidenlöcher14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20201010Heidenlöcher14.jpg/400px-20201010Heidenlöcher14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20201010Heidenlöcher14.jpg/800px-20201010Heidenlöcher14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20201010Heidenlöcher14.jpg/1200px-20201010Heidenlöcher14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20201010Heidenlöcher14.jpg/1920px-20201010Heidenlöcher14.jpg
+  20201010Heidenlöcher15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/20201010Heidenlöcher15.jpg/400px-20201010Heidenlöcher15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/20201010Heidenlöcher15.jpg/800px-20201010Heidenlöcher15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/20201010Heidenlöcher15.jpg/1200px-20201010Heidenlöcher15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/20201010Heidenlöcher15.jpg/1920px-20201010Heidenlöcher15.jpg
+  20201010Heidenlöcher18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20201010Heidenlöcher18.jpg/400px-20201010Heidenlöcher18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20201010Heidenlöcher18.jpg/800px-20201010Heidenlöcher18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20201010Heidenlöcher18.jpg/1200px-20201010Heidenlöcher18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20201010Heidenlöcher18.jpg/1920px-20201010Heidenlöcher18.jpg
+  20201010Heidenlöcher20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20201010Heidenlöcher20.jpg/400px-20201010Heidenlöcher20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20201010Heidenlöcher20.jpg/800px-20201010Heidenlöcher20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20201010Heidenlöcher20.jpg/1200px-20201010Heidenlöcher20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/20201010Heidenlöcher20.jpg/1920px-20201010Heidenlöcher20.jpg
+  Heidenloechertor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenloechertor.JPG/400px-Heidenloechertor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenloechertor.JPG/800px-Heidenloechertor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenloechertor.JPG/1200px-Heidenloechertor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Heidenloechertor.JPG/1920px-Heidenloechertor.JPG
 ---
 
 ## Overview

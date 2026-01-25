@@ -13,7 +13,7 @@ regions:
 latitude: 51.8078
 longitude: 10.2425
 images:
-  - "/images-sites/uhrenmuseum-bad-grund/01-1e163b3b-800w.webp"
+  - "/images/uhrenmuseum-bad-grund/01-1e163b3b-800w.webp"
 ---
 
 ## Overview

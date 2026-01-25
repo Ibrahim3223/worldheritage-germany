@@ -1,27 +1,49 @@
 ---
-title: "German Cancer Aid"
+title: German Cancer Aid
 date: 2026-01-23
 draft: false
-description: "voluntary association"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: voluntary association
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.721348
 longitude: 7.112759
-
-# Images
 images:
-  - "/images-sites/german-cancer-aid/01-08216f3d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/1200px-2007-07_Halle_(Saale)_22.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/1200px-Deutsche_Krebshilfe_Silbermedaille.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/1200px-Hans-Peter_Krämer_5504a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/1200px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
+image_srcset:
+  2011-09-30 Bonn Deutsche Krebshilfe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/400px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/800px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1200px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-09-30_Bonn_Deutsche_Krebshilfe.jpg/1920px-2011-09-30_Bonn_Deutsche_Krebshilfe.jpg
+  2007-07 Halle (Saale) 22.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/400px-2007-07_Halle_(Saale)_22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/800px-2007-07_Halle_(Saale)_22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/1200px-2007-07_Halle_(Saale)_22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2007-07_Halle_(Saale)_22.jpg/1920px-2007-07_Halle_(Saale)_22.jpg
+  Deutsche Krebshilfe Silbermedaille.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/400px-Deutsche_Krebshilfe_Silbermedaille.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/800px-Deutsche_Krebshilfe_Silbermedaille.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/1200px-Deutsche_Krebshilfe_Silbermedaille.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Deutsche_Krebshilfe_Silbermedaille.jpg/1920px-Deutsche_Krebshilfe_Silbermedaille.jpg
+  Hans-Peter Krämer 5504a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/400px-Hans-Peter_Krämer_5504a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/800px-Hans-Peter_Krämer_5504a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/1200px-Hans-Peter_Krämer_5504a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hans-Peter_Krämer_5504a.jpg/1920px-Hans-Peter_Krämer_5504a.jpg
+  Bundesarchiv B 145 Bild-F045050-0021, Bonn, Konstituierung der Deutschen Krebshilfe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/400px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/800px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/1200px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg/1920px-Bundesarchiv_B_145_Bild-F045050-0021,_Bonn,_Konstituierung_der_Deutschen_Krebshilfe.jpg
 ---
 
 ## Overview

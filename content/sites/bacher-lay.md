@@ -1,21 +1,49 @@
 ---
-title: "Bacher Lay"
+title: Bacher Lay
 date: 2026-01-23
 draft: false
-description: "nature reserve in Rheinland-Pfalz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Rheinland-Pfalz, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6538
 longitude: 7.97653
 images:
-  - "/images-sites/bacher-lay/01-75d152f5-800w.webp"
-  - "/images-sites/bacher-lay/02-4a0d6c9f-800w.webp"
-  - "/images-sites/bacher-lay/03-d1bda706-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MK_7982_Bacher_Lay_Steinbruch.jpg/1200px-MK_7982_Bacher_Lay_Steinbruch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MK_8018_Bacher_Lay.jpg/1200px-MK_8018_Bacher_Lay.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelbachgrossneffe_049.jpg/1200px-Michelbachgrossneffe_049.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Michelbachgrossneffe_057.jpg/1200px-Michelbachgrossneffe_057.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1200px-Michelbachgrossneffe_064.jpg
+image_srcset:
+  MK 7982 Bacher Lay Steinbruch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MK_7982_Bacher_Lay_Steinbruch.jpg/400px-MK_7982_Bacher_Lay_Steinbruch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MK_7982_Bacher_Lay_Steinbruch.jpg/800px-MK_7982_Bacher_Lay_Steinbruch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MK_7982_Bacher_Lay_Steinbruch.jpg/1200px-MK_7982_Bacher_Lay_Steinbruch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MK_7982_Bacher_Lay_Steinbruch.jpg/1920px-MK_7982_Bacher_Lay_Steinbruch.jpg
+  MK 8018 Bacher Lay.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MK_8018_Bacher_Lay.jpg/400px-MK_8018_Bacher_Lay.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MK_8018_Bacher_Lay.jpg/800px-MK_8018_Bacher_Lay.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MK_8018_Bacher_Lay.jpg/1200px-MK_8018_Bacher_Lay.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MK_8018_Bacher_Lay.jpg/1920px-MK_8018_Bacher_Lay.jpg
+  Michelbachgrossneffe 049.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelbachgrossneffe_049.jpg/400px-Michelbachgrossneffe_049.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelbachgrossneffe_049.jpg/800px-Michelbachgrossneffe_049.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelbachgrossneffe_049.jpg/1200px-Michelbachgrossneffe_049.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelbachgrossneffe_049.jpg/1920px-Michelbachgrossneffe_049.jpg
+  Michelbachgrossneffe 057.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Michelbachgrossneffe_057.jpg/400px-Michelbachgrossneffe_057.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Michelbachgrossneffe_057.jpg/800px-Michelbachgrossneffe_057.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Michelbachgrossneffe_057.jpg/1200px-Michelbachgrossneffe_057.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Michelbachgrossneffe_057.jpg/1920px-Michelbachgrossneffe_057.jpg
+  Michelbachgrossneffe 064.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/400px-Michelbachgrossneffe_064.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/800px-Michelbachgrossneffe_064.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1200px-Michelbachgrossneffe_064.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Michelbachgrossneffe_064.jpg/1920px-Michelbachgrossneffe_064.jpg
 ---
 
 ## Overview

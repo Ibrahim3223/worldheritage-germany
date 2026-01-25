@@ -13,7 +13,7 @@ regions:
 latitude: 50.0411
 longitude: 8.25659
 images:
-  - "/images-sites/wiesbaden-ost-station/01-2ce2f1f3-800w.webp"
+  - "/images/wiesbaden-ost-station/01-2ce2f1f3-800w.webp"
 ---
 
 ## Overview

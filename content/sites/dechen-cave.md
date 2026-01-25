@@ -1,29 +1,49 @@
 ---
-title: "Dechen Cave"
+title: Dechen Cave
 date: 2026-01-23
 draft: false
-description: "show cave in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: show cave in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.365555555
 longitude: 7.644722222
-
-# Images
 images:
-  - "/images-sites/dechen-cave/01-c37b6ce4-800w.webp"
-  - "/images-sites/dechen-cave/02-118601e5-800w.webp"
-  - "/images-sites/dechen-cave/03-88fc9385-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Die_Gartenlaube_(1869)_b_140.jpg/1200px-Die_Gartenlaube_(1869)_b_140.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dechenhöhle-Plan.jpeg/1200px-Dechenhöhle-Plan.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1200px-Dechenhöhle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dechenhöhle-Orgelgrotte.jpeg/1200px-Dechenhöhle-Orgelgrotte.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Besucherzahlen_Dechenhöhle.PNG/1200px-Besucherzahlen_Dechenhöhle.PNG
+image_srcset:
+  Die Gartenlaube (1869) b 140.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Die_Gartenlaube_(1869)_b_140.jpg/400px-Die_Gartenlaube_(1869)_b_140.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Die_Gartenlaube_(1869)_b_140.jpg/800px-Die_Gartenlaube_(1869)_b_140.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Die_Gartenlaube_(1869)_b_140.jpg/1200px-Die_Gartenlaube_(1869)_b_140.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Die_Gartenlaube_(1869)_b_140.jpg/1920px-Die_Gartenlaube_(1869)_b_140.jpg
+  Dechenhöhle-Plan.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dechenhöhle-Plan.jpeg/400px-Dechenhöhle-Plan.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dechenhöhle-Plan.jpeg/800px-Dechenhöhle-Plan.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dechenhöhle-Plan.jpeg/1200px-Dechenhöhle-Plan.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dechenhöhle-Plan.jpeg/1920px-Dechenhöhle-Plan.jpeg
+  Dechenhöhle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/400px-Dechenhöhle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/800px-Dechenhöhle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1200px-Dechenhöhle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dechenhöhle.JPG/1920px-Dechenhöhle.JPG
+  Dechenhöhle-Orgelgrotte.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dechenhöhle-Orgelgrotte.jpeg/400px-Dechenhöhle-Orgelgrotte.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dechenhöhle-Orgelgrotte.jpeg/800px-Dechenhöhle-Orgelgrotte.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dechenhöhle-Orgelgrotte.jpeg/1200px-Dechenhöhle-Orgelgrotte.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dechenhöhle-Orgelgrotte.jpeg/1920px-Dechenhöhle-Orgelgrotte.jpeg
+  Besucherzahlen Dechenhöhle.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Besucherzahlen_Dechenhöhle.PNG/400px-Besucherzahlen_Dechenhöhle.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Besucherzahlen_Dechenhöhle.PNG/800px-Besucherzahlen_Dechenhöhle.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Besucherzahlen_Dechenhöhle.PNG/1200px-Besucherzahlen_Dechenhöhle.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Besucherzahlen_Dechenhöhle.PNG/1920px-Besucherzahlen_Dechenhöhle.PNG
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Erlöserkirche (Bad Honnef)"
-site_name: "Erlöserkirche (Bad Honnef)"
-slug: "erloserkirche-bad-honnef"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Erlöserkirche (Bad Honnef)
+site_name: Erlöserkirche (Bad Honnef)
+slug: erloserkirche-bad-honnef
+region: North Rhine-Westphalia
 latitude: 50.64597
 longitude: 7.222099
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355707"
-description: "Erlöserkirche, a striking church building in Bad Honnef, Germany, presents a captivating intersection of faith and architectural beauty. Its Romanesque ..."
+- church building
+- religious site
+wikidata_id: Q1355707
+description: Erlöserkirche, a striking church building in Bad Honnef, Germany, presents
+  a captivating intersection of faith and architectural beauty. Its Romanesque ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg/1200px-2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Erlöserkirche_Bad_Honnef.jpg/1200px-Erlöserkirche_Bad_Honnef.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/1200px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bad_Honnef,_Erlöserkirche_001x.jpg/1200px-Bad_Honnef,_Erlöserkirche_001x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Honnef_Kirche_2005-03-19.jpg/1200px-Bad_Honnef_Kirche_2005-03-19.jpg
+image_srcset:
+  2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg/400px-2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg/800px-2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg/1200px-2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg/1920px-2022-04-28%20Erl%C3%B6serkirche%2C%20Bad%20Honnef%20DSC00737.jpg
+  Erlöserkirche Bad Honnef.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Erlöserkirche_Bad_Honnef.jpg/400px-Erlöserkirche_Bad_Honnef.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Erlöserkirche_Bad_Honnef.jpg/800px-Erlöserkirche_Bad_Honnef.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Erlöserkirche_Bad_Honnef.jpg/1200px-Erlöserkirche_Bad_Honnef.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Erlöserkirche_Bad_Honnef.jpg/1920px-Erlöserkirche_Bad_Honnef.jpg
+  2022-04-28 Erlöserkirche, Bad Honnef DSC00737.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/400px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/800px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/1200px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg/1920px-2022-04-28_Erlöserkirche,_Bad_Honnef_DSC00737.jpg
+  Bad Honnef, Erlöserkirche 001x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bad_Honnef,_Erlöserkirche_001x.jpg/400px-Bad_Honnef,_Erlöserkirche_001x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bad_Honnef,_Erlöserkirche_001x.jpg/800px-Bad_Honnef,_Erlöserkirche_001x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bad_Honnef,_Erlöserkirche_001x.jpg/1200px-Bad_Honnef,_Erlöserkirche_001x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bad_Honnef,_Erlöserkirche_001x.jpg/1920px-Bad_Honnef,_Erlöserkirche_001x.jpg
+  Bad Honnef Kirche 2005-03-19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Honnef_Kirche_2005-03-19.jpg/400px-Bad_Honnef_Kirche_2005-03-19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Honnef_Kirche_2005-03-19.jpg/800px-Bad_Honnef_Kirche_2005-03-19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Honnef_Kirche_2005-03-19.jpg/1200px-Bad_Honnef_Kirche_2005-03-19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Honnef_Kirche_2005-03-19.jpg/1920px-Bad_Honnef_Kirche_2005-03-19.jpg
 ---
 
 ## Overview

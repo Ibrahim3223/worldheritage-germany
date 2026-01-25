@@ -1,19 +1,49 @@
 ---
-title: "Holzen Abbey"
+title: Holzen Abbey
 date: 2026-01-23
 draft: false
-description: "human settlement"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.6042
 longitude: 10.8145
 images:
-  - "/images-sites/holzen-abbey/01-6020ba65-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Holzen_021.jpg/1200px-Kloster_Holzen_021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kloster_Holzen_025.jpg/1200px-Kloster_Holzen_025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kloster_Holzen_050.jpg/1200px-Kloster_Holzen_050.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg/1200px-Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg
+image_srcset:
+  Kloster Holzen 021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Holzen_021.jpg/400px-Kloster_Holzen_021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Holzen_021.jpg/800px-Kloster_Holzen_021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Holzen_021.jpg/1200px-Kloster_Holzen_021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kloster_Holzen_021.jpg/1920px-Kloster_Holzen_021.jpg
+  Kloster Holzen 025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kloster_Holzen_025.jpg/400px-Kloster_Holzen_025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kloster_Holzen_025.jpg/800px-Kloster_Holzen_025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kloster_Holzen_025.jpg/1200px-Kloster_Holzen_025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kloster_Holzen_025.jpg/1920px-Kloster_Holzen_025.jpg
+  Kloster Holzen 050.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kloster_Holzen_050.jpg/400px-Kloster_Holzen_050.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kloster_Holzen_050.jpg/800px-Kloster_Holzen_050.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kloster_Holzen_050.jpg/1200px-Kloster_Holzen_050.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kloster_Holzen_050.jpg/1920px-Kloster_Holzen_050.jpg
+  Allmannshofen, A - Holzen - Kloster m Kirche v S 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg/400px-Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg/800px-Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg/1200px-Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg/1920px-Allmannshofen,_A_-_Holzen_-_Kloster_m_Kirche_v_S_02.jpg
+  Aerial image of Holzen Abbey (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Holzen_Abbey_(view_from_the_southeast).jpg
 ---
 
 ## Overview

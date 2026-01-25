@@ -13,7 +13,7 @@ regions:
 latitude: 49.98866
 longitude: 8.28648
 images:
-  - "/images-sites/kartause-mainz/01-563755a4-800w.webp"
+  - "/images/kartause-mainz/01-563755a4-800w.webp"
 ---
 
 ## Overview

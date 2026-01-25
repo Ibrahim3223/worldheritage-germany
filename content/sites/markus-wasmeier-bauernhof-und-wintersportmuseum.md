@@ -13,7 +13,7 @@ regions:
 latitude: 47.7075
 longitude: 11.8783
 images:
-  - "/images-sites/markus-wasmeier-bauernhof-und-wintersportmuseum/01-fa22c91b-800w.webp"
+  - "/images/markus-wasmeier-bauernhof-und-wintersportmuseum/01-fa22c91b-800w.webp"
 ---
 
 ## Overview

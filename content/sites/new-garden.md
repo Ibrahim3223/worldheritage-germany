@@ -13,7 +13,7 @@ regions:
 latitude: 52.415555555
 longitude: 13.069444444
 images:
-  - "/images-sites/new-garden/01-5d9fb627-800w.webp"
+  - "/images/new-garden/01-5d9fb627-800w.webp"
 ---
 
 ## Overview

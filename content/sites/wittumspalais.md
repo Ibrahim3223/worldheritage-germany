@@ -13,7 +13,7 @@ regions:
 latitude: 50.9797
 longitude: 11.3266
 images:
-  - "/images-sites/wittumspalais/02-f568b4a9-800w.webp"
+  - "/images/wittumspalais/02-f568b4a9-800w.webp"
 ---
 
 ## Overview

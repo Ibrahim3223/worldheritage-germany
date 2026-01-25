@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q220038"
 description: "In the heart of Würzburg, a striking example of Gothic architecture awaits discovery: the Marienkapelle, or Mary’s Chapel. This cultural heritage monume..."
 images:
-  - "/images-sites/marienkapelle-wurzburg/01-f1617ad1-1920w.webp"
-  - "/images-sites/marienkapelle-wurzburg/02-116eb581-1920w.webp"
-  - "/images-sites/marienkapelle-wurzburg/03-73685134-1920w.webp"
+  - "/images/marienkapelle-wurzburg/01-f1617ad1-1920w.webp"
+  - "/images/marienkapelle-wurzburg/02-116eb581-1920w.webp"
+  - "/images/marienkapelle-wurzburg/03-73685134-1920w.webp"
 ---
 
 ## Overview

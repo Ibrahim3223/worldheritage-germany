@@ -13,7 +13,7 @@ regions:
 latitude: 53.216992002
 longitude: 8.506275399
 images:
-  - "/images-sites/valentin-submarine-pens/01-ca713d71-800w.webp"
+  - "/images/valentin-submarine-pens/01-ca713d71-800w.webp"
 ---
 
 ## Overview

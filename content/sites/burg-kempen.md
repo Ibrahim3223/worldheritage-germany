@@ -1,29 +1,49 @@
 ---
-title: "Burg Kempen"
+title: Burg Kempen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3668
 longitude: 6.42142
-
-# Images
 images:
-  - "/images-sites/burg-kempen/01-2fbea6b9-800w.webp"
-  - "/images-sites/burg-kempen/02-e78a15b1-800w.webp"
-  - "/images-sites/burg-kempen/03-493df735-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kempen,_Burg_(2).jpg/1200px-Kempen,_Burg_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NRW,_Kempen,_Kurkolnische_Landesburg.jpg/1200px-NRW,_Kempen,_Kurkolnische_Landesburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Kempen_Doppelwappen.jpg/1200px-Burg_Kempen_Doppelwappen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Kempen_Westfluegel_01.jpg/1200px-Burg_Kempen_Westfluegel_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/1200px-Burg_Kempen_Suedansicht_01.jpg
+image_srcset:
+  Kempen, Burg (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kempen,_Burg_(2).jpg/400px-Kempen,_Burg_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kempen,_Burg_(2).jpg/800px-Kempen,_Burg_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kempen,_Burg_(2).jpg/1200px-Kempen,_Burg_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kempen,_Burg_(2).jpg/1920px-Kempen,_Burg_(2).jpg
+  NRW, Kempen, Kurkolnische Landesburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NRW,_Kempen,_Kurkolnische_Landesburg.jpg/400px-NRW,_Kempen,_Kurkolnische_Landesburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NRW,_Kempen,_Kurkolnische_Landesburg.jpg/800px-NRW,_Kempen,_Kurkolnische_Landesburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NRW,_Kempen,_Kurkolnische_Landesburg.jpg/1200px-NRW,_Kempen,_Kurkolnische_Landesburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NRW,_Kempen,_Kurkolnische_Landesburg.jpg/1920px-NRW,_Kempen,_Kurkolnische_Landesburg.jpg
+  Burg Kempen Doppelwappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Kempen_Doppelwappen.jpg/400px-Burg_Kempen_Doppelwappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Kempen_Doppelwappen.jpg/800px-Burg_Kempen_Doppelwappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Kempen_Doppelwappen.jpg/1200px-Burg_Kempen_Doppelwappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Kempen_Doppelwappen.jpg/1920px-Burg_Kempen_Doppelwappen.jpg
+  Burg Kempen Westfluegel 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Kempen_Westfluegel_01.jpg/400px-Burg_Kempen_Westfluegel_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Kempen_Westfluegel_01.jpg/800px-Burg_Kempen_Westfluegel_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Kempen_Westfluegel_01.jpg/1200px-Burg_Kempen_Westfluegel_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burg_Kempen_Westfluegel_01.jpg/1920px-Burg_Kempen_Westfluegel_01.jpg
+  Burg Kempen Suedansicht 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/400px-Burg_Kempen_Suedansicht_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/800px-Burg_Kempen_Suedansicht_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/1200px-Burg_Kempen_Suedansicht_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Kempen_Suedansicht_01.jpg/1920px-Burg_Kempen_Suedansicht_01.jpg
 ---
 
 ## Overview

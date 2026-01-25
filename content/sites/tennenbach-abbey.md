@@ -13,7 +13,7 @@ regions:
 latitude: 48.1449
 longitude: 7.8961
 images:
-  - "/images-sites/tennenbach-abbey/01-5b0c6a9a-800w.webp"
+  - "/images/tennenbach-abbey/01-5b0c6a9a-800w.webp"
 ---
 
 ## Overview

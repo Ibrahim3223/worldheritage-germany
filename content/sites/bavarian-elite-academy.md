@@ -1,27 +1,31 @@
 ---
-title: "Bavarian Elite-Academy"
+title: Bavarian Elite-Academy
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.1423
 longitude: 11.5929
-
-# Images
 images:
-  - "/images-sites/bavarian-elite-academy/01-073cd20c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg/1200px-Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1200px-Prinzregentenstraße_7_bjs200126-01.jpg
+image_srcset:
+  Sitz der Bayerischen EliteAkademie in der Prinzregentenstraße 7 in München.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg/400px-Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg/800px-Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg/1200px-Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg/1920px-Sitz_der_Bayerischen_EliteAkademie_in_der_Prinzregentenstraße_7_in_München.jpg
+  Prinzregentenstraße 7 bjs200126-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/400px-Prinzregentenstraße_7_bjs200126-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/800px-Prinzregentenstraße_7_bjs200126-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1200px-Prinzregentenstraße_7_bjs200126-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Prinzregentenstraße_7_bjs200126-01.jpg/1920px-Prinzregentenstraße_7_bjs200126-01.jpg
 ---
 
 ## Overview

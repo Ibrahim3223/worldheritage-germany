@@ -13,7 +13,7 @@ regions:
 latitude: 53.45522
 longitude: 9.98743
 images:
-  - "/images-sites/sammlung-falckenberg/01-01eac940-800w.webp"
+  - "/images/sammlung-falckenberg/01-01eac940-800w.webp"
 ---
 
 ## Overview

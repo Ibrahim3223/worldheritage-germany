@@ -1,19 +1,49 @@
 ---
-title: "Hunne zu Pferde"
+title: Hunne zu Pferde
 date: 2026-01-23
 draft: false
-description: "sculpture in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: sculpture in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.520287
 longitude: 13.398957
 images:
-  - "/images-sites/hunne-zu-pferde/01-88d40891-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hunne_zu_Pferde_01.jpg/1200px-Hunne_zu_Pferde_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hunne_zu_Pferde_02.jpg/1200px-Hunne_zu_Pferde_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hunne_zu_Pferde_03.jpg/1200px-Hunne_zu_Pferde_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/1200px-Berlin,_Germany_(April_2016)_-_091.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hunne_zu_Pferde-Kolonnadenhof.jpg/1200px-Hunne_zu_Pferde-Kolonnadenhof.jpg
+image_srcset:
+  Hunne zu Pferde 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hunne_zu_Pferde_01.jpg/400px-Hunne_zu_Pferde_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hunne_zu_Pferde_01.jpg/800px-Hunne_zu_Pferde_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hunne_zu_Pferde_01.jpg/1200px-Hunne_zu_Pferde_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hunne_zu_Pferde_01.jpg/1920px-Hunne_zu_Pferde_01.jpg
+  Hunne zu Pferde 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hunne_zu_Pferde_02.jpg/400px-Hunne_zu_Pferde_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hunne_zu_Pferde_02.jpg/800px-Hunne_zu_Pferde_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hunne_zu_Pferde_02.jpg/1200px-Hunne_zu_Pferde_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hunne_zu_Pferde_02.jpg/1920px-Hunne_zu_Pferde_02.jpg
+  Hunne zu Pferde 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hunne_zu_Pferde_03.jpg/400px-Hunne_zu_Pferde_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hunne_zu_Pferde_03.jpg/800px-Hunne_zu_Pferde_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hunne_zu_Pferde_03.jpg/1200px-Hunne_zu_Pferde_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hunne_zu_Pferde_03.jpg/1920px-Hunne_zu_Pferde_03.jpg
+  Berlin, Germany (April 2016) - 091.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/400px-Berlin,_Germany_(April_2016)_-_091.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/800px-Berlin,_Germany_(April_2016)_-_091.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/1200px-Berlin,_Germany_(April_2016)_-_091.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berlin,_Germany_(April_2016)_-_091.JPG/1920px-Berlin,_Germany_(April_2016)_-_091.JPG
+  Hunne zu Pferde-Kolonnadenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hunne_zu_Pferde-Kolonnadenhof.jpg/400px-Hunne_zu_Pferde-Kolonnadenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hunne_zu_Pferde-Kolonnadenhof.jpg/800px-Hunne_zu_Pferde-Kolonnadenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hunne_zu_Pferde-Kolonnadenhof.jpg/1200px-Hunne_zu_Pferde-Kolonnadenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hunne_zu_Pferde-Kolonnadenhof.jpg/1920px-Hunne_zu_Pferde-Kolonnadenhof.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.9596
 longitude: 8.1726
 images:
-  - "/images-sites/wiesen-am-layenhof-ober-olmer-wald/01-9be18a83-800w.webp"
-  - "/images-sites/wiesen-am-layenhof-ober-olmer-wald/02-e8664437-800w.webp"
-  - "/images-sites/wiesen-am-layenhof-ober-olmer-wald/03-6387a85e-800w.webp"
+  - "/images/wiesen-am-layenhof-ober-olmer-wald/01-9be18a83-800w.webp"
+  - "/images/wiesen-am-layenhof-ober-olmer-wald/02-e8664437-800w.webp"
+  - "/images/wiesen-am-layenhof-ober-olmer-wald/03-6387a85e-800w.webp"
 ---
 
 ## Overview

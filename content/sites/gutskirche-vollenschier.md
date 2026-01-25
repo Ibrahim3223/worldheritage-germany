@@ -1,24 +1,46 @@
 ---
-title: "Gutskirche Vollenschier"
-site_name: "Gutskirche Vollenschier"
-slug: "gutskirche-vollenschier"
-region: "Brandenburg"
-
-# Location
+title: Gutskirche Vollenschier
+site_name: Gutskirche Vollenschier
+slug: gutskirche-vollenschier
+region: Brandenburg
 latitude: 52.5341
 longitude: 11.6616
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1557314"
-description: "The Gutskirche Vollenschier, a notable Protestant church, stands as a significant remnant of the former Vollenschier estate in the Stendal district of W..."
+- church building
+- religious site
+wikidata_id: Q1557314
+description: The Gutskirche Vollenschier, a notable Protestant church, stands as a
+  significant remnant of the former Vollenschier estate in the Stendal district of
+  W...
 images:
-  - "/images-sites/gutskirche-vollenschier/01-76dc1875-1920w.webp"
-  - "/images-sites/gutskirche-vollenschier/02-fed6672a-1920w.webp"
-  - "/images-sites/gutskirche-vollenschier/03-2b645308-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutskirche%20Vollenschier2.JPG/1200px-Gutskirche%20Vollenschier2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1200px-Gutskirche_Vollenschier2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gutskirche_Vollenschier1.JPG/1200px-Gutskirche_Vollenschier1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gutskirche_Vollenschier_Tor.JPG/1200px-Gutskirche_Vollenschier_Tor.JPG
+image_srcset:
+  Gutskirche%20Vollenschier2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutskirche%20Vollenschier2.JPG/400px-Gutskirche%20Vollenschier2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutskirche%20Vollenschier2.JPG/800px-Gutskirche%20Vollenschier2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutskirche%20Vollenschier2.JPG/1200px-Gutskirche%20Vollenschier2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gutskirche%20Vollenschier2.JPG/1920px-Gutskirche%20Vollenschier2.JPG
+  Gutskirche Vollenschier2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/400px-Gutskirche_Vollenschier2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/800px-Gutskirche_Vollenschier2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1200px-Gutskirche_Vollenschier2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gutskirche_Vollenschier2.JPG/1920px-Gutskirche_Vollenschier2.JPG
+  Gutskirche Vollenschier1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gutskirche_Vollenschier1.JPG/400px-Gutskirche_Vollenschier1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gutskirche_Vollenschier1.JPG/800px-Gutskirche_Vollenschier1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gutskirche_Vollenschier1.JPG/1200px-Gutskirche_Vollenschier1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gutskirche_Vollenschier1.JPG/1920px-Gutskirche_Vollenschier1.JPG
+  Gutskirche Vollenschier Tor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gutskirche_Vollenschier_Tor.JPG/400px-Gutskirche_Vollenschier_Tor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gutskirche_Vollenschier_Tor.JPG/800px-Gutskirche_Vollenschier_Tor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gutskirche_Vollenschier_Tor.JPG/1200px-Gutskirche_Vollenschier_Tor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gutskirche_Vollenschier_Tor.JPG/1920px-Gutskirche_Vollenschier_Tor.JPG
 ---
 
 ## Overview

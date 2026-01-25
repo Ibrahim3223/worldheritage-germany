@@ -21,9 +21,9 @@ longitude: 10.6692
 
 # Images
 images:
-  - "/images-sites/stapelburg-castle/01-c7f1c6e7-800w.webp"
-  - "/images-sites/stapelburg-castle/02-985e37e2-800w.webp"
-  - "/images-sites/stapelburg-castle/03-3382de48-800w.webp"
+  - "/images/stapelburg-castle/01-c7f1c6e7-800w.webp"
+  - "/images/stapelburg-castle/02-985e37e2-800w.webp"
+  - "/images/stapelburg-castle/03-3382de48-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.5175
 longitude: 13.395556
 images:
-  - "/images-sites/neue-wache/01-724d07c0-800w.webp"
-  - "/images-sites/neue-wache/02-04bdd0eb-800w.webp"
-  - "/images-sites/neue-wache/03-e8a28c64-800w.webp"
+  - "/images/neue-wache/01-724d07c0-800w.webp"
+  - "/images/neue-wache/02-04bdd0eb-800w.webp"
+  - "/images/neue-wache/03-e8a28c64-800w.webp"
 ---
 
 ## Overview

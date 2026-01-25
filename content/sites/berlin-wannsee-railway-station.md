@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Wannsee railway station"
+title: Berlin-Wannsee railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Steglitz-Zehlendorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Steglitz-Zehlendorf, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4214
 longitude: 13.1792
 images:
-  - "/images-sites/berlin-wannsee-railway-station/01-513dc72b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/04_623_Bf_Bln-Wannsee.jpg/1200px-04_623_Bf_Bln-Wannsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/(20241214)_Czech_train_at_Berlin_Wannsee.jpg/1200px-(20241214)_Czech_train_at_Berlin_Wannsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg/1200px-Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berlin-Wannsee_station_1990_3.jpg/1200px-Berlin-Wannsee_station_1990_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bahnhof_Berlin-Wannsee_platform_2.jpg/1200px-Bahnhof_Berlin-Wannsee_platform_2.jpg
+image_srcset:
+  04 623 Bf Bln-Wannsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/04_623_Bf_Bln-Wannsee.jpg/400px-04_623_Bf_Bln-Wannsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/04_623_Bf_Bln-Wannsee.jpg/800px-04_623_Bf_Bln-Wannsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/04_623_Bf_Bln-Wannsee.jpg/1200px-04_623_Bf_Bln-Wannsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/04_623_Bf_Bln-Wannsee.jpg/1920px-04_623_Bf_Bln-Wannsee.jpg
+  (20241214) Czech train at Berlin Wannsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/(20241214)_Czech_train_at_Berlin_Wannsee.jpg/400px-(20241214)_Czech_train_at_Berlin_Wannsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/(20241214)_Czech_train_at_Berlin_Wannsee.jpg/800px-(20241214)_Czech_train_at_Berlin_Wannsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/(20241214)_Czech_train_at_Berlin_Wannsee.jpg/1200px-(20241214)_Czech_train_at_Berlin_Wannsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/(20241214)_Czech_train_at_Berlin_Wannsee.jpg/1920px-(20241214)_Czech_train_at_Berlin_Wannsee.jpg
+  Bahnhof Berlin-Wannsee Empfangsgebaeude 04-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg/400px-Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg/800px-Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg/1200px-Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg/1920px-Bahnhof_Berlin-Wannsee_Empfangsgebaeude_04-2015.jpg
+  Berlin-Wannsee station 1990 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berlin-Wannsee_station_1990_3.jpg/400px-Berlin-Wannsee_station_1990_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berlin-Wannsee_station_1990_3.jpg/800px-Berlin-Wannsee_station_1990_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berlin-Wannsee_station_1990_3.jpg/1200px-Berlin-Wannsee_station_1990_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Berlin-Wannsee_station_1990_3.jpg/1920px-Berlin-Wannsee_station_1990_3.jpg
+  Bahnhof Berlin-Wannsee platform 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bahnhof_Berlin-Wannsee_platform_2.jpg/400px-Bahnhof_Berlin-Wannsee_platform_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bahnhof_Berlin-Wannsee_platform_2.jpg/800px-Bahnhof_Berlin-Wannsee_platform_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bahnhof_Berlin-Wannsee_platform_2.jpg/1200px-Bahnhof_Berlin-Wannsee_platform_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bahnhof_Berlin-Wannsee_platform_2.jpg/1920px-Bahnhof_Berlin-Wannsee_platform_2.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Bismarckschule"
+title: Bismarckschule
 date: 2026-01-23
 draft: false
-description: "Gymnasium in Hanover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: Gymnasium in Hanover, Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3552
 longitude: 9.7469
 images:
-  - "/images-sites/bismarckschule/01-731af206-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1200px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Luftaufnahme_der_Bismarckschule_Hannover.jpg/1200px-Luftaufnahme_der_Bismarckschule_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bismarckschule_am_Maschsee_in_Hannover.JPG/1200px-Bismarckschule_am_Maschsee_in_Hannover.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg/1200px-2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bismarckschule_Hannover.jpg/1200px-Bismarckschule_Hannover.jpg
+image_srcset:
+  Bismarckschule An der Bismarckschule Suedstadt Hannover Germany 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/400px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/800px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1200px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg/1920px-Bismarckschule_An_der_Bismarckschule_Suedstadt_Hannover_Germany_02.jpg
+  Luftaufnahme der Bismarckschule Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Luftaufnahme_der_Bismarckschule_Hannover.jpg/400px-Luftaufnahme_der_Bismarckschule_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Luftaufnahme_der_Bismarckschule_Hannover.jpg/800px-Luftaufnahme_der_Bismarckschule_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Luftaufnahme_der_Bismarckschule_Hannover.jpg/1200px-Luftaufnahme_der_Bismarckschule_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Luftaufnahme_der_Bismarckschule_Hannover.jpg/1920px-Luftaufnahme_der_Bismarckschule_Hannover.jpg
+  Bismarckschule am Maschsee in Hannover.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bismarckschule_am_Maschsee_in_Hannover.JPG/400px-Bismarckschule_am_Maschsee_in_Hannover.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bismarckschule_am_Maschsee_in_Hannover.JPG/800px-Bismarckschule_am_Maschsee_in_Hannover.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bismarckschule_am_Maschsee_in_Hannover.JPG/1200px-Bismarckschule_am_Maschsee_in_Hannover.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bismarckschule_am_Maschsee_in_Hannover.JPG/1920px-Bismarckschule_am_Maschsee_in_Hannover.JPG
+  2022-04-29 Eulenfries an der Bismarckschule 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg/400px-2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg/800px-2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg/1200px-2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg/1920px-2022-04-29_Eulenfries_an_der_Bismarckschule_02.jpg
+  Bismarckschule Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bismarckschule_Hannover.jpg/400px-Bismarckschule_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bismarckschule_Hannover.jpg/800px-Bismarckschule_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bismarckschule_Hannover.jpg/1200px-Bismarckschule_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bismarckschule_Hannover.jpg/1920px-Bismarckschule_Hannover.jpg
 ---
 
 ## Overview

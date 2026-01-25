@@ -1,24 +1,45 @@
 ---
-title: "Dorfkirche Woltersdorf"
-site_name: "Dorfkirche Woltersdorf"
-slug: "dorfkirche-woltersdorf"
-region: "Brandenburg"
-
-# Location
+title: Dorfkirche Woltersdorf
+site_name: Dorfkirche Woltersdorf
+slug: dorfkirche-woltersdorf
+region: Brandenburg
 latitude: 52.1563
 longitude: 11.7727
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244833"
-description: "Dorfkirche Woltersdorf, a remarkable example of Romanesque architecture, captures the imagination of visitors with its timeless charm and historical sig..."
+- church building
+- religious site
+wikidata_id: Q1244833
+description: Dorfkirche Woltersdorf, a remarkable example of Romanesque architecture,
+  captures the imagination of visitors with its timeless charm and historical sig...
 images:
-  - "/images-sites/dorfkirche-woltersdorf/01-b9d2ec1c-1920w.webp"
-  - "/images-sites/dorfkirche-woltersdorf/02-0b39607c-1920w.webp"
-  - "/images-sites/dorfkirche-woltersdorf/03-53fc36a9-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1200px-WoltersdorfKirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg/1200px-Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Woltersdorf,_Kirche.jpg/1200px-Woltersdorf,_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Woltersdorf_(Biederitz),_die_Dorfkirche.jpg/1200px-Woltersdorf_(Biederitz),_die_Dorfkirche.jpg
+image_srcset:
+  WoltersdorfKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/400px-WoltersdorfKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/800px-WoltersdorfKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1200px-WoltersdorfKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WoltersdorfKirche.jpg/1920px-WoltersdorfKirche.jpg
+  Dorfkirche in Woltersdorf-Jerichower Land-Sachsen-Anhalt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg/400px-Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg/800px-Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg/1200px-Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg/1920px-Dorfkirche_in_Woltersdorf-Jerichower_Land-Sachsen-Anhalt.jpg
+  Woltersdorf, Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Woltersdorf,_Kirche.jpg/400px-Woltersdorf,_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Woltersdorf,_Kirche.jpg/800px-Woltersdorf,_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Woltersdorf,_Kirche.jpg/1200px-Woltersdorf,_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Woltersdorf,_Kirche.jpg/1920px-Woltersdorf,_Kirche.jpg
+  Woltersdorf (Biederitz), die Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Woltersdorf_(Biederitz),_die_Dorfkirche.jpg/400px-Woltersdorf_(Biederitz),_die_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Woltersdorf_(Biederitz),_die_Dorfkirche.jpg/800px-Woltersdorf_(Biederitz),_die_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Woltersdorf_(Biederitz),_die_Dorfkirche.jpg/1200px-Woltersdorf_(Biederitz),_die_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Woltersdorf_(Biederitz),_die_Dorfkirche.jpg/1920px-Woltersdorf_(Biederitz),_die_Dorfkirche.jpg
 ---
 
 ## Overview

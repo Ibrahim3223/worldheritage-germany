@@ -13,9 +13,9 @@ regions:
 latitude: 51.33432
 longitude: 12.39878
 images:
-  - "/images-sites/lene-voigt-park/01-5f302ba9-800w.webp"
-  - "/images-sites/lene-voigt-park/02-8e682079-800w.webp"
-  - "/images-sites/lene-voigt-park/03-715afd00-800w.webp"
+  - "/images/lene-voigt-park/01-5f302ba9-800w.webp"
+  - "/images/lene-voigt-park/02-8e682079-800w.webp"
+  - "/images/lene-voigt-park/03-715afd00-800w.webp"
 ---
 
 ## Overview

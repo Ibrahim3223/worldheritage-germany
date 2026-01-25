@@ -13,7 +13,7 @@ regions:
 latitude: 50.3641
 longitude: 7.61436
 images:
-  - "/images-sites/museum-of-koblenz/01-78246c25-800w.webp"
+  - "/images/museum-of-koblenz/01-78246c25-800w.webp"
 ---
 
 ## Overview

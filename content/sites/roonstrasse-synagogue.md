@@ -13,7 +13,7 @@ regions:
 latitude: 50.932125
 longitude: 6.936681
 images:
-  - "/images-sites/roonstrasse-synagogue/01-c690b719-800w.webp"
+  - "/images/roonstrasse-synagogue/01-c690b719-800w.webp"
 ---
 
 ## Overview

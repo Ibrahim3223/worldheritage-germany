@@ -13,7 +13,7 @@ regions:
 latitude: 48.5349
 longitude: 12.1522
 images:
-  - "/images-sites/palais-pettenkofer/01-bad4ea4b-800w.webp"
+  - "/images/palais-pettenkofer/01-bad4ea4b-800w.webp"
 ---
 
 ## Overview

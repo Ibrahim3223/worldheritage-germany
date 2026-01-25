@@ -1,19 +1,43 @@
 ---
-title: "Gut Roest"
+title: Gut Roest
 date: 2026-01-23
 draft: false
-description: "manor house"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6589
 longitude: 9.8945
 images:
-  - "/images-sites/gut-roest/01-0f6335de-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kappeln_Gut_Roest_7120.jpg/1200px-Kappeln_Gut_Roest_7120.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kappeln_Roest_7119.jpg/1200px-Kappeln_Roest_7119.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/1200px-Gut_Roest_Torhaus.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg/1200px-Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg
+image_srcset:
+  Kappeln Gut Roest 7120.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kappeln_Gut_Roest_7120.jpg/400px-Kappeln_Gut_Roest_7120.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kappeln_Gut_Roest_7120.jpg/800px-Kappeln_Gut_Roest_7120.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kappeln_Gut_Roest_7120.jpg/1200px-Kappeln_Gut_Roest_7120.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kappeln_Gut_Roest_7120.jpg/1920px-Kappeln_Gut_Roest_7120.jpg
+  Kappeln Roest 7119.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kappeln_Roest_7119.jpg/400px-Kappeln_Roest_7119.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kappeln_Roest_7119.jpg/800px-Kappeln_Roest_7119.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kappeln_Roest_7119.jpg/1200px-Kappeln_Roest_7119.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kappeln_Roest_7119.jpg/1920px-Kappeln_Roest_7119.jpg
+  Gut Roest Torhaus.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/400px-Gut_Roest_Torhaus.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/800px-Gut_Roest_Torhaus.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/1200px-Gut_Roest_Torhaus.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Gut_Roest_Torhaus.JPG/1920px-Gut_Roest_Torhaus.JPG
+  Røst gods i Sydslesvig-rest af granitdøbefont uden for hovedbygningen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg/400px-Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg/800px-Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg/1200px-Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg/1920px-Røst_gods_i_Sydslesvig-rest_af_granitdøbefont_uden_for_hovedbygningen.jpg
 ---
 
 ## Overview

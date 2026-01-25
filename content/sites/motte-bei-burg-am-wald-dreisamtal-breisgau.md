@@ -21,7 +21,7 @@ longitude: 7.9838
 
 # Images
 images:
-  - "/images-sites/motte-bei-burg-am-wald-dreisamtal-breisgau/01-f0b36403-800w.webp"
+  - "/images/motte-bei-burg-am-wald-dreisamtal-breisgau/01-f0b36403-800w.webp"
 ---
 
 ## Overview

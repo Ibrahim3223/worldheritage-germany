@@ -13,7 +13,7 @@ regions:
 latitude: 51.9365
 longitude: 8.87707
 images:
-  - "/images-sites/schloss-detmold/01-fe4c4334-800w.webp"
+  - "/images/schloss-detmold/01-fe4c4334-800w.webp"
 ---
 
 ## Overview

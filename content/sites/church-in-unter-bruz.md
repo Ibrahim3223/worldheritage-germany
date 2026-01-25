@@ -1,19 +1,38 @@
 ---
-title: "Church in Unter Brüz"
-site_name: "Church in Unter Brüz"
-slug: "church-in-unter-bruz"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Unter Brüz
+site_name: Church in Unter Brüz
+slug: church-in-unter-bruz
+region: Mecklenburg-Vorpommern
 latitude: 53.5428
 longitude: 12.0644
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244774"
-description: "The Church in Unter Brüz is a remarkable example of Brick Gothic architecture, capturing the essence of its era through its striking design and historic..."
+- cultural site
+wikidata_id: Q1244774
+description: The Church in Unter Brüz is a remarkable example of Brick Gothic architecture,
+  capturing the essence of its era through its striking design and historic...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2012%20Kirche%20Unter%20Bruetz%20Chor.JPG/1200px-2012%20Kirche%20Unter%20Bruetz%20Chor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg/1200px-Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg/1200px-Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg
+image_srcset:
+  2012%20Kirche%20Unter%20Bruetz%20Chor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2012%20Kirche%20Unter%20Bruetz%20Chor.JPG/400px-2012%20Kirche%20Unter%20Bruetz%20Chor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2012%20Kirche%20Unter%20Bruetz%20Chor.JPG/800px-2012%20Kirche%20Unter%20Bruetz%20Chor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2012%20Kirche%20Unter%20Bruetz%20Chor.JPG/1200px-2012%20Kirche%20Unter%20Bruetz%20Chor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2012%20Kirche%20Unter%20Bruetz%20Chor.JPG/1920px-2012%20Kirche%20Unter%20Bruetz%20Chor.JPG
+  Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg/400px-Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg/800px-Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg/1200px-Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg/1920px-Kirche%20Unter%20Bruetz%20Orgelempore%20%282012%29.jpg
+  Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg/400px-Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg/800px-Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg/1200px-Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg/1920px-Unter%20Bruez%2C%20Kirche%202008-03-26%20078.jpg
 ---
 
 ## Overview

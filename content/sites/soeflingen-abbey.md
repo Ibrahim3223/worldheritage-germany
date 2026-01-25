@@ -13,9 +13,9 @@ regions:
 latitude: 48.3977
 longitude: 9.95339
 images:
-  - "/images-sites/soeflingen-abbey/01-dc19af63-800w.webp"
-  - "/images-sites/soeflingen-abbey/02-df63ece9-800w.webp"
-  - "/images-sites/soeflingen-abbey/03-b06da093-800w.webp"
+  - "/images/soeflingen-abbey/01-dc19af63-800w.webp"
+  - "/images/soeflingen-abbey/02-df63ece9-800w.webp"
+  - "/images/soeflingen-abbey/03-b06da093-800w.webp"
 ---
 
 ## Overview

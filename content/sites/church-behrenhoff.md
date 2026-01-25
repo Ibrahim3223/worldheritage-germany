@@ -1,23 +1,44 @@
 ---
-title: "church Behrenhoff"
-site_name: "church Behrenhoff"
-slug: "church-behrenhoff"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: church Behrenhoff
+site_name: church Behrenhoff
+slug: church-behrenhoff
+region: Mecklenburg-Vorpommern
 latitude: 54.005
 longitude: 13.3893
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1541752"
-description: "Imagine stepping into a structure that speaks to centuries of architectural evolution and cultural significance. Church Behrenhoff, located in the tranq..."
+- cultural site
+wikidata_id: Q1541752
+description: Imagine stepping into a structure that speaks to centuries of architectural
+  evolution and cultural significance. Church Behrenhoff, located in the tranq...
 images:
-  - "/images-sites/church-behrenhoff/01-ec349b10-1920w.webp"
-  - "/images-sites/church-behrenhoff/02-c57bd0ca-1920w.webp"
-  - "/images-sites/church-behrenhoff/03-f5303dc6-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1200px-Behrenhoff-Kirche-SW-160316-076.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kirche_Behrenhoff_Chor_Nordansicht.jpg/1200px-Kirche_Behrenhoff_Chor_Nordansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Behrenhoff_20190227_01.jpg/1200px-Kirche_Behrenhoff_20190227_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirche_Behrenhoff_20190227_02.jpg/1200px-Kirche_Behrenhoff_20190227_02.jpg
+image_srcset:
+  Behrenhoff-Kirche-SW-160316-076.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/400px-Behrenhoff-Kirche-SW-160316-076.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/800px-Behrenhoff-Kirche-SW-160316-076.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1200px-Behrenhoff-Kirche-SW-160316-076.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Behrenhoff-Kirche-SW-160316-076.jpg/1920px-Behrenhoff-Kirche-SW-160316-076.jpg
+  Kirche Behrenhoff Chor Nordansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kirche_Behrenhoff_Chor_Nordansicht.jpg/400px-Kirche_Behrenhoff_Chor_Nordansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kirche_Behrenhoff_Chor_Nordansicht.jpg/800px-Kirche_Behrenhoff_Chor_Nordansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kirche_Behrenhoff_Chor_Nordansicht.jpg/1200px-Kirche_Behrenhoff_Chor_Nordansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kirche_Behrenhoff_Chor_Nordansicht.jpg/1920px-Kirche_Behrenhoff_Chor_Nordansicht.jpg
+  Kirche Behrenhoff 20190227 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Behrenhoff_20190227_01.jpg/400px-Kirche_Behrenhoff_20190227_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Behrenhoff_20190227_01.jpg/800px-Kirche_Behrenhoff_20190227_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Behrenhoff_20190227_01.jpg/1200px-Kirche_Behrenhoff_20190227_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kirche_Behrenhoff_20190227_01.jpg/1920px-Kirche_Behrenhoff_20190227_01.jpg
+  Kirche Behrenhoff 20190227 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirche_Behrenhoff_20190227_02.jpg/400px-Kirche_Behrenhoff_20190227_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirche_Behrenhoff_20190227_02.jpg/800px-Kirche_Behrenhoff_20190227_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirche_Behrenhoff_20190227_02.jpg/1200px-Kirche_Behrenhoff_20190227_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kirche_Behrenhoff_20190227_02.jpg/1920px-Kirche_Behrenhoff_20190227_02.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.631111111
 longitude: 12.2975
 images:
-  - "/images-sites/krakower-see/01-f2f4c4fb-800w.webp"
-  - "/images-sites/krakower-see/02-b26923f3-800w.webp"
-  - "/images-sites/krakower-see/03-7fe2ca22-800w.webp"
+  - "/images/krakower-see/01-f2f4c4fb-800w.webp"
+  - "/images/krakower-see/02-b26923f3-800w.webp"
+  - "/images/krakower-see/03-7fe2ca22-800w.webp"
 ---
 
 ## Overview

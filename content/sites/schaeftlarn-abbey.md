@@ -13,9 +13,9 @@ regions:
 latitude: 47.9786
 longitude: 11.4669
 images:
-  - "/images-sites/schaeftlarn-abbey/01-3cd031ba-800w.webp"
-  - "/images-sites/schaeftlarn-abbey/02-31fa0130-800w.webp"
-  - "/images-sites/schaeftlarn-abbey/03-42b39160-800w.webp"
+  - "/images/schaeftlarn-abbey/01-3cd031ba-800w.webp"
+  - "/images/schaeftlarn-abbey/02-31fa0130-800w.webp"
+  - "/images/schaeftlarn-abbey/03-42b39160-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2419733"
 description: "In the heart of Aachen, Germany, lies the Theresienkirche, a church that exemplifies the elegance of Baroque architecture. This church building not only..."
 images:
-  - "/images-sites/theresienkirche/01-a6bdb68e-1920w.webp"
-  - "/images-sites/theresienkirche/02-3d6de529-1920w.webp"
-  - "/images-sites/theresienkirche/03-cf0d6ccc-1920w.webp"
+  - "/images/theresienkirche/01-a6bdb68e-1920w.webp"
+  - "/images/theresienkirche/02-3d6de529-1920w.webp"
+  - "/images/theresienkirche/03-cf0d6ccc-1920w.webp"
 ---
 
 ## Overview

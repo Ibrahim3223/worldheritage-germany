@@ -1,26 +1,52 @@
 ---
-title: "Church of St. George"
-site_name: "Church of St. George"
-slug: "church-of-st-george"
-region: "Baden-Württemberg"
-
-# Location
+title: Church of St. George
+site_name: Church of St. George
+slug: church-of-st-george
+region: Baden-Württemberg
 latitude: 47.68916667
 longitude: 9.08222222
 regions:
-    - "Baden-Württemberg"
+- Baden-Württemberg
 tags:
-  - "unesco"
-
-heritage_type: "cultural site"
+- unesco
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q878986"
-description: "The Church of St. George, a historical marvel located on the island of Reichenau in Germany, invites visitors to explore its rich heritage and architect..."
+- cultural site
+wikidata_id: Q878986
+description: The Church of St. George, a historical marvel located on the island of
+  Reichenau in Germany, invites visitors to explore its rich heritage and architect...
 images:
-  - "/images-sites/church-of-st-george/01-8c2ec5be-1920w.webp"
-  - "/images-sites/church-of-st-george/02-1ff78bfc-1920w.webp"
-  - "/images-sites/church-of-st-george/03-20a0b7bf-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/1200px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche_St._Georg,_Insel_Reichenau.jpg/1200px-Kirche_St._Georg,_Insel_Reichenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg/1200px-Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg/1200px-Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dunster_church.jpg/1200px-Dunster_church.jpg
+image_srcset:
+  Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/400px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/800px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/1200px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg/1920px-Sankt-Georg-Reichenau-JR-T20-4463-2023-06-25.jpg
+  Kirche St. Georg, Insel Reichenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche_St._Georg,_Insel_Reichenau.jpg/400px-Kirche_St._Georg,_Insel_Reichenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche_St._Georg,_Insel_Reichenau.jpg/800px-Kirche_St._Georg,_Insel_Reichenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche_St._Georg,_Insel_Reichenau.jpg/1200px-Kirche_St._Georg,_Insel_Reichenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kirche_St._Georg,_Insel_Reichenau.jpg/1920px-Kirche_St._Georg,_Insel_Reichenau.jpg
+  Virgen de los Milagros, Iglesia de San Jorge (Palos de la Frontera).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg/400px-Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg/800px-Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg/1200px-Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg/1920px-Virgen_de_los_Milagros,_Iglesia_de_San_Jorge_(Palos_de_la_Frontera).jpg
+  Iglesia de San Jorge, Palos de la Frontera. Imposta.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg/400px-Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg/800px-Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg/1200px-Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg/1920px-Iglesia_de_San_Jorge,_Palos_de_la_Frontera._Imposta.jpg
+  Dunster church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dunster_church.jpg/400px-Dunster_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dunster_church.jpg/800px-Dunster_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dunster_church.jpg/1200px-Dunster_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dunster_church.jpg/1920px-Dunster_church.jpg
 ---
 
 ## Overview

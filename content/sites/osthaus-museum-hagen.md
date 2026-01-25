@@ -21,7 +21,7 @@ longitude: 7.473036111
 
 # Images
 images:
-  - "/images-sites/osthaus-museum-hagen/01-b1a578cd-800w.webp"
+  - "/images/osthaus-museum-hagen/01-b1a578cd-800w.webp"
 ---
 
 ## Overview

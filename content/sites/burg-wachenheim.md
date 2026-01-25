@@ -1,27 +1,49 @@
 ---
-title: "Burg Wachenheim"
+title: Burg Wachenheim
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.6372
 longitude: 8.16778
-
-# Images
 images:
-  - "/images-sites/burg-wachenheim/01-a35040ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg/1200px-Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turm_Wachtenburg.png/1200px-Turm_Wachtenburg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgruine_Wachtenburg_02.jpg/1200px-Burgruine_Wachtenburg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Wachenheim_001.JPG/1200px-Burg_Wachenheim_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Wachenheim_002.JPG/1200px-Burg_Wachenheim_002.JPG
+image_srcset:
+  Forst an der Weinstraße Ackerweg 002 2022 03 27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg/400px-Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg/800px-Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg/1200px-Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg/1920px-Forst_an_der_Weinstraße_Ackerweg_002_2022_03_27.jpg
+  Turm Wachtenburg.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turm_Wachtenburg.png/400px-Turm_Wachtenburg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turm_Wachtenburg.png/800px-Turm_Wachtenburg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turm_Wachtenburg.png/1200px-Turm_Wachtenburg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Turm_Wachtenburg.png/1920px-Turm_Wachtenburg.png
+  Burgruine Wachtenburg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgruine_Wachtenburg_02.jpg/400px-Burgruine_Wachtenburg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgruine_Wachtenburg_02.jpg/800px-Burgruine_Wachtenburg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgruine_Wachtenburg_02.jpg/1200px-Burgruine_Wachtenburg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burgruine_Wachtenburg_02.jpg/1920px-Burgruine_Wachtenburg_02.jpg
+  Burg Wachenheim 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Wachenheim_001.JPG/400px-Burg_Wachenheim_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Wachenheim_001.JPG/800px-Burg_Wachenheim_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Wachenheim_001.JPG/1200px-Burg_Wachenheim_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Wachenheim_001.JPG/1920px-Burg_Wachenheim_001.JPG
+  Burg Wachenheim 002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Wachenheim_002.JPG/400px-Burg_Wachenheim_002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Wachenheim_002.JPG/800px-Burg_Wachenheim_002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Wachenheim_002.JPG/1200px-Burg_Wachenheim_002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burg_Wachenheim_002.JPG/1920px-Burg_Wachenheim_002.JPG
 ---
 
 ## Overview

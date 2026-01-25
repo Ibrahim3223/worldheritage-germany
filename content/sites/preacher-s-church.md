@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2108283"
 description: "Preachers Church, a striking example of Gothic architecture, stands proudly in the Old Town of Erfurt, Germany. Founded in 1201, this Lutheran church is..."
 images:
-  - "/images-sites/preacher-s-church/01-258558ea-1920w.webp"
-  - "/images-sites/preacher-s-church/02-3a82b95a-1920w.webp"
-  - "/images-sites/preacher-s-church/03-3383dfa9-1920w.webp"
+  - "/images/preacher-s-church/01-258558ea-1920w.webp"
+  - "/images/preacher-s-church/02-3a82b95a-1920w.webp"
+  - "/images/preacher-s-church/03-3383dfa9-1920w.webp"
 ---
 
 ## Overview

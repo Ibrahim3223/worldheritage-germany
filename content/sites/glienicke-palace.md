@@ -1,36 +1,56 @@
 ---
-title: "Glienicke Palace"
-site_name: "Glienicke Palace"
+title: Glienicke Palace
+site_name: Glienicke Palace
 date: 2026-01-11
 draft: false
-wikidata_id: "Q301684"
-
-description: "Glienicke Palace, an elegant structure in the Steglitz-Zehlendorf region of Germany, invites visitors to explore its neoclassical charm and historical s..."
-# Display fields (for templates)
-region: "Brandenburg"
-country: "Germany"
-heritage_type: "palace"
-
-# Taxonomies (Hugo plural format)
+wikidata_id: Q301684
+description: Glienicke Palace, an elegant structure in the Steglitz-Zehlendorf region
+  of Germany, invites visitors to explore its neoclassical charm and historical s...
+region: Brandenburg
+country: Germany
+heritage_type: palace
 categories:
-  - "palace"
-  - "royal residence"
+- palace
+- royal residence
 regions:
-    - "Brandenburg"
+- Brandenburg
 tags:
-  - "unesco"
-
-# Location
+- unesco
 latitude: 52.4142
 longitude: 13.0953
-
-# Visit Information
-website: "https://www.spsg.de/en/palaces-gardens/object/glienicke-villa/"
-
-# Images
+website: https://www.spsg.de/en/palaces-gardens/object/glienicke-villa/
 images:
-  - "/images/glienicke-palace/wikimedia-1920w.webp"
-  - "/images/glienicke-palace/satellite-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schloss%20Glienicke%20S%C3%BCden.jpg/1200px-Schloss%20Glienicke%20S%C3%BCden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Klein-Glienicke_Laitiere_und_Schloss.jpg/1200px-Klein-Glienicke_Laitiere_und_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schloss_Glienicke_1.jpg/1200px-Schloss_Glienicke_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/1200px-Schloss_Glienicke_Süden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glienicke_Palace4.JPG/1200px-Glienicke_Palace4.JPG
+image_srcset:
+  Schloss%20Glienicke%20S%C3%BCden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schloss%20Glienicke%20S%C3%BCden.jpg/400px-Schloss%20Glienicke%20S%C3%BCden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schloss%20Glienicke%20S%C3%BCden.jpg/800px-Schloss%20Glienicke%20S%C3%BCden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schloss%20Glienicke%20S%C3%BCden.jpg/1200px-Schloss%20Glienicke%20S%C3%BCden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schloss%20Glienicke%20S%C3%BCden.jpg/1920px-Schloss%20Glienicke%20S%C3%BCden.jpg
+  Klein-Glienicke Laitiere und Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Klein-Glienicke_Laitiere_und_Schloss.jpg/400px-Klein-Glienicke_Laitiere_und_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Klein-Glienicke_Laitiere_und_Schloss.jpg/800px-Klein-Glienicke_Laitiere_und_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Klein-Glienicke_Laitiere_und_Schloss.jpg/1200px-Klein-Glienicke_Laitiere_und_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Klein-Glienicke_Laitiere_und_Schloss.jpg/1920px-Klein-Glienicke_Laitiere_und_Schloss.jpg
+  Schloss Glienicke 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schloss_Glienicke_1.jpg/400px-Schloss_Glienicke_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schloss_Glienicke_1.jpg/800px-Schloss_Glienicke_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schloss_Glienicke_1.jpg/1200px-Schloss_Glienicke_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schloss_Glienicke_1.jpg/1920px-Schloss_Glienicke_1.jpg
+  Schloss Glienicke Süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/400px-Schloss_Glienicke_Süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/800px-Schloss_Glienicke_Süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/1200px-Schloss_Glienicke_Süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schloss_Glienicke_Süden.jpg/1920px-Schloss_Glienicke_Süden.jpg
+  Glienicke Palace4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glienicke_Palace4.JPG/400px-Glienicke_Palace4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glienicke_Palace4.JPG/800px-Glienicke_Palace4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glienicke_Palace4.JPG/1200px-Glienicke_Palace4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Glienicke_Palace4.JPG/1920px-Glienicke_Palace4.JPG
 ---
 
 ## Overview

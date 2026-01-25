@@ -1,21 +1,49 @@
 ---
-title: "Herkulesbrunnen (Heidelberg)"
+title: Herkulesbrunnen (Heidelberg)
 date: 2026-01-23
 draft: false
-description: "fountain in Heidelberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.41216
 longitude: 8.71048
 images:
-  - "/images-sites/herkulesbrunnen-heidelberg/01-9dd5aded-800w.webp"
-  - "/images-sites/herkulesbrunnen-heidelberg/02-ebf3bcbe-800w.webp"
-  - "/images-sites/herkulesbrunnen-heidelberg/03-b6ddb3bf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20230315_Rathaus_Heidelberg.jpg/1200px-20230315_Rathaus_Heidelberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg/1200px-Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Herkulesbrunnen_Heidelberg_2020-08-28.jpg/1200px-Herkulesbrunnen_Heidelberg_2020-08-28.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Town_Square_of_Heidelberg.jpg/1200px-Town_Square_of_Heidelberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Herkulesstatue_und_Rathaus_Heidelberg.jpg/1200px-Herkulesstatue_und_Rathaus_Heidelberg.jpg
+image_srcset:
+  20230315 Rathaus Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20230315_Rathaus_Heidelberg.jpg/400px-20230315_Rathaus_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20230315_Rathaus_Heidelberg.jpg/800px-20230315_Rathaus_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20230315_Rathaus_Heidelberg.jpg/1200px-20230315_Rathaus_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/20230315_Rathaus_Heidelberg.jpg/1920px-20230315_Rathaus_Heidelberg.jpg
+  Herkulesbrunnen - Marktplatz - Heidelberg - Germany 2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg/400px-Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg/800px-Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg/1200px-Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg/1920px-Herkulesbrunnen_-_Marktplatz_-_Heidelberg_-_Germany_2017.jpg
+  Herkulesbrunnen Heidelberg 2020-08-28.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Herkulesbrunnen_Heidelberg_2020-08-28.jpg/400px-Herkulesbrunnen_Heidelberg_2020-08-28.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Herkulesbrunnen_Heidelberg_2020-08-28.jpg/800px-Herkulesbrunnen_Heidelberg_2020-08-28.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Herkulesbrunnen_Heidelberg_2020-08-28.jpg/1200px-Herkulesbrunnen_Heidelberg_2020-08-28.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Herkulesbrunnen_Heidelberg_2020-08-28.jpg/1920px-Herkulesbrunnen_Heidelberg_2020-08-28.jpg
+  Town Square of Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Town_Square_of_Heidelberg.jpg/400px-Town_Square_of_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Town_Square_of_Heidelberg.jpg/800px-Town_Square_of_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Town_Square_of_Heidelberg.jpg/1200px-Town_Square_of_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Town_Square_of_Heidelberg.jpg/1920px-Town_Square_of_Heidelberg.jpg
+  Herkulesstatue und Rathaus Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Herkulesstatue_und_Rathaus_Heidelberg.jpg/400px-Herkulesstatue_und_Rathaus_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Herkulesstatue_und_Rathaus_Heidelberg.jpg/800px-Herkulesstatue_und_Rathaus_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Herkulesstatue_und_Rathaus_Heidelberg.jpg/1200px-Herkulesstatue_und_Rathaus_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Herkulesstatue_und_Rathaus_Heidelberg.jpg/1920px-Herkulesstatue_und_Rathaus_Heidelberg.jpg
 ---
 
 ## Overview

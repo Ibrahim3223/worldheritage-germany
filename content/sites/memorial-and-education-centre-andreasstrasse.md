@@ -13,7 +13,7 @@ regions:
 latitude: 50.978611111
 longitude: 11.023333333
 images:
-  - "/images-sites/memorial-and-education-centre-andreasstrasse/01-9be37184-800w.webp"
+  - "/images/memorial-and-education-centre-andreasstrasse/01-9be37184-800w.webp"
 ---
 
 ## Overview

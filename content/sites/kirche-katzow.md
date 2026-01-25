@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2319471"
 description: "In the quaint village of Katzow, Germany, lies a remarkable church building that captures the essence of local heritage and architectural beauty: Kirche..."
 images:
-  - "/images-sites/kirche-katzow/01-290ea8e3-1920w.webp"
-  - "/images-sites/kirche-katzow/02-df364123-1920w.webp"
-  - "/images-sites/kirche-katzow/03-20bb92ff-1920w.webp"
+  - "/images/kirche-katzow/01-290ea8e3-1920w.webp"
+  - "/images/kirche-katzow/02-df364123-1920w.webp"
+  - "/images/kirche-katzow/03-20bb92ff-1920w.webp"
 ---
 
 ## Overview

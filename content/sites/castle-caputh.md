@@ -1,19 +1,49 @@
 ---
-title: "Castle Caputh"
+title: Castle Caputh
 date: 2026-01-23
 draft: false
-description: "castle in Caputh near Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle in Caputh near Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3491
 longitude: 13.0007
 images:
-  - "/images-sites/castle-caputh/01-41903be8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg/1200px-15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg/1200px-Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Caputh,_Schloss.jpg/1200px-Caputh,_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Caputh_Fliese_Tier_0017.jpg/1200px-Schloss_Caputh_Fliese_Tier_0017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Caputh_Fliese_Schiff_0066.jpg/1200px-Schloss_Caputh_Fliese_Schiff_0066.jpg
+image_srcset:
+  15-07-05-Schloß-Caputh-RalfR-N3S 1466-70.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg/400px-15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg/800px-15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg/1200px-15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg/1920px-15-07-05-Schloß-Caputh-RalfR-N3S_1466-70.jpg
+  Schloss Caputh, Vorgemach des Kurfürsten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg/400px-Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg/800px-Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg/1200px-Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg/1920px-Schloss_Caputh,_Vorgemach_des_Kurfürsten.jpg
+  Caputh, Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Caputh,_Schloss.jpg/400px-Caputh,_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Caputh,_Schloss.jpg/800px-Caputh,_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Caputh,_Schloss.jpg/1200px-Caputh,_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Caputh,_Schloss.jpg/1920px-Caputh,_Schloss.jpg
+  Schloss Caputh Fliese Tier 0017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Caputh_Fliese_Tier_0017.jpg/400px-Schloss_Caputh_Fliese_Tier_0017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Caputh_Fliese_Tier_0017.jpg/800px-Schloss_Caputh_Fliese_Tier_0017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Caputh_Fliese_Tier_0017.jpg/1200px-Schloss_Caputh_Fliese_Tier_0017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schloss_Caputh_Fliese_Tier_0017.jpg/1920px-Schloss_Caputh_Fliese_Tier_0017.jpg
+  Schloss Caputh Fliese Schiff 0066.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Caputh_Fliese_Schiff_0066.jpg/400px-Schloss_Caputh_Fliese_Schiff_0066.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Caputh_Fliese_Schiff_0066.jpg/800px-Schloss_Caputh_Fliese_Schiff_0066.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Caputh_Fliese_Schiff_0066.jpg/1200px-Schloss_Caputh_Fliese_Schiff_0066.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Schloss_Caputh_Fliese_Schiff_0066.jpg/1920px-Schloss_Caputh_Fliese_Schiff_0066.jpg
 ---
 
 ## Overview

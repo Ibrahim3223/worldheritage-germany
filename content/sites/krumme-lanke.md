@@ -13,7 +13,7 @@ regions:
 latitude: 52.45
 longitude: 13.2311
 images:
-  - "/images-sites/krumme-lanke/01-2e6c2d14-800w.webp"
+  - "/images/krumme-lanke/01-2e6c2d14-800w.webp"
 ---
 
 ## Overview

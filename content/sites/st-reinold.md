@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2322985"
 description: "In the heart of Düsseldorf-Vennhausen, a striking example of modern architecture emerges: St. Reinold, a Catholic church that has captivated visitors si..."
 images:
-  - "/images-sites/st-reinold/01-d88dbb2c-1920w.webp"
-  - "/images-sites/st-reinold/02-19ff7641-1920w.webp"
-  - "/images-sites/st-reinold/03-45fb1a2b-1920w.webp"
+  - "/images/st-reinold/01-d88dbb2c-1920w.webp"
+  - "/images/st-reinold/02-19ff7641-1920w.webp"
+  - "/images/st-reinold/03-45fb1a2b-1920w.webp"
 ---
 
 ## Overview

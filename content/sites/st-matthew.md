@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1260885"
 description: "In the heart of Leipzig, Germany, stands St. Matthew, a remarkable church building that captures the essence of Gothic architecture. Founded in 1494, th..."
 images:
-  - "/images-sites/st-matthew/01-0b8ce774-1920w.webp"
-  - "/images-sites/st-matthew/02-ce301222-1920w.webp"
-  - "/images-sites/st-matthew/03-34e1ff79-1920w.webp"
+  - "/images/st-matthew/01-0b8ce774-1920w.webp"
+  - "/images/st-matthew/02-ce301222-1920w.webp"
+  - "/images/st-matthew/03-34e1ff79-1920w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dreifaltigkeitskirchhof II"
+title: Dreifaltigkeitskirchhof II
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin-Kreuzberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin-Kreuzberg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4875
 longitude: 13.400166666
 images:
-  - "/images-sites/dreifaltigkeitskirchhof-ii/01-990bf59f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2016-09-02_Grab-August-Selberg.jpg/1200px-2016-09-02_Grab-August-Selberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg/1200px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg/1200px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2016-09-02_Grab-Amelie-Wolff.jpg/1200px-2016-09-02_Grab-Amelie-Wolff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1200px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
+image_srcset:
+  2016-09-02 Grab-August-Selberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2016-09-02_Grab-August-Selberg.jpg/400px-2016-09-02_Grab-August-Selberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2016-09-02_Grab-August-Selberg.jpg/800px-2016-09-02_Grab-August-Selberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2016-09-02_Grab-August-Selberg.jpg/1200px-2016-09-02_Grab-August-Selberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2016-09-02_Grab-August-Selberg.jpg/1920px-2016-09-02_Grab-August-Selberg.jpg
+  Dreifaltigkeitskirchhof II (Berlin-Kreuzberg) Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg/400px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg/800px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg/1200px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg/1920px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Kapelle.jpg
+  Dreifaltigkeitskirchhof II (Berlin-Kreuzberg) Totengräberhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg/400px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg/800px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg/1200px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg/1920px-Dreifaltigkeitskirchhof_II_(Berlin-Kreuzberg)_Totengräberhaus.jpg
+  2016-09-02 Grab-Amelie-Wolff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2016-09-02_Grab-Amelie-Wolff.jpg/400px-2016-09-02_Grab-Amelie-Wolff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2016-09-02_Grab-Amelie-Wolff.jpg/800px-2016-09-02_Grab-Amelie-Wolff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2016-09-02_Grab-Amelie-Wolff.jpg/1200px-2016-09-02_Grab-Amelie-Wolff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2016-09-02_Grab-Amelie-Wolff.jpg/1920px-2016-09-02_Grab-Amelie-Wolff.jpg
+  Dreifaltigkeitskirchhof-Kreuzberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/400px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/800px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1200px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dreifaltigkeitskirchhof-Kreuzberg.jpg/1920px-Dreifaltigkeitskirchhof-Kreuzberg.jpg
 ---
 
 ## Overview

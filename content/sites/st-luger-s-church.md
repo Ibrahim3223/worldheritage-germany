@@ -15,7 +15,7 @@ categories:
 wikidata_id: "Q391274"
 description: "St Lugers Church, a stunning example of Gothic Revival architecture, stands prominently in Billerbeck, North Rhine-Westphalia, Germany. This church, bui..."
 images:
-  - "/images-sites/st-luger-s-church/01-8d9cd396-1920w.webp"
+  - "/images/st-luger-s-church/01-8d9cd396-1920w.webp"
 ---
 
 ## Overview

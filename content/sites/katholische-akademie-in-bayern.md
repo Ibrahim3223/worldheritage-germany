@@ -21,7 +21,7 @@ longitude: 11.59138889
 
 # Images
 images:
-  - "/images-sites/katholische-akademie-in-bayern/01-25452657-800w.webp"
+  - "/images/katholische-akademie-in-bayern/01-25452657-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dänholm"
+title: Dänholm
 date: 2026-01-23
 draft: false
-description: "island in Strelasund on the German Baltic Sea coast"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in Strelasund on the German Baltic Sea coast
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.316666666
 longitude: 13.116666666
 images:
-  - "/images-sites/daenholm/01-f2d6cf5d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg/1200px-Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stralsund,_Dänholm_(2011-05-21)_2.JPG/1200px-Stralsund,_Dänholm_(2011-05-21)_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG/1200px-Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg/1200px-Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg/1200px-Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg
+image_srcset:
+  Panoramablick auf Rügen von Hafeninsel Stralsund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg/400px-Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg/800px-Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg/1200px-Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg/1920px-Panoramablick_auf_Rügen_von_Hafeninsel_Stralsund.jpg
+  Stralsund, Dänholm (2011-05-21) 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stralsund,_Dänholm_(2011-05-21)_2.JPG/400px-Stralsund,_Dänholm_(2011-05-21)_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stralsund,_Dänholm_(2011-05-21)_2.JPG/800px-Stralsund,_Dänholm_(2011-05-21)_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stralsund,_Dänholm_(2011-05-21)_2.JPG/1200px-Stralsund,_Dänholm_(2011-05-21)_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stralsund,_Dänholm_(2011-05-21)_2.JPG/1920px-Stralsund,_Dänholm_(2011-05-21)_2.JPG
+  Stralsund, Dänholm, Rügendammbrücke, Ziegelgrabenbrücke und neue Rügenbrücke über den Strelasund (2011-05-21).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG/400px-Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG/800px-Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG/1200px-Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG/1920px-Stralsund,_Dänholm,_Rügendammbrücke,_Ziegelgrabenbrücke_und_neue_Rügenbrücke_über_den_Strelasund_(2011-05-21).JPG
+  Fotothek df ps 0005350 Stadt ^ Stadtlandschaften ^ Häfen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg/400px-Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg/800px-Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg/1200px-Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg/1920px-Fotothek_df_ps_0005350_Stadt_^_Stadtlandschaften_^_Häfen.jpg
+  Bundesarchiv Bild 183-S83617, Insel Dänholm, Unterkünfte für Werftarbeiter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg/400px-Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg/800px-Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg/1200px-Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg/1920px-Bundesarchiv_Bild_183-S83617,_Insel_Dänholm,_Unterkünfte_für_Werftarbeiter.jpg
 ---
 
 ## Overview

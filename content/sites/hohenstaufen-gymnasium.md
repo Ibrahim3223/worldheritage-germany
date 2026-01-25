@@ -1,21 +1,49 @@
 ---
-title: "Hohenstaufen-Gymnasium"
+title: Hohenstaufen-Gymnasium
 date: 2026-01-23
 draft: false
-description: "bilingual grammar school in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: bilingual grammar school in Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 48.704544
 longitude: 9.667994
 images:
-  - "/images-sites/hohenstaufen-gymnasium/01-6e2d58c2-800w.webp"
-  - "/images-sites/hohenstaufen-gymnasium/02-660f7cdb-800w.webp"
-  - "/images-sites/hohenstaufen-gymnasium/03-9d1cd9c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/20220427_HoGy-Frühling_2022.jpg/1200px-20220427_HoGy-Frühling_2022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HoGy_Picture_2020.jpg/1200px-HoGy_Picture_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hogy_Seitenansicht.jpg/1200px-Hogy_Seitenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HoGy_Goeppingen.png/1200px-HoGy_Goeppingen.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg/1200px-Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg.png
+image_srcset:
+  20220427 HoGy-Frühling 2022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/20220427_HoGy-Frühling_2022.jpg/400px-20220427_HoGy-Frühling_2022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/20220427_HoGy-Frühling_2022.jpg/800px-20220427_HoGy-Frühling_2022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/20220427_HoGy-Frühling_2022.jpg/1200px-20220427_HoGy-Frühling_2022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/20220427_HoGy-Frühling_2022.jpg/1920px-20220427_HoGy-Frühling_2022.jpg
+  HoGy Picture 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HoGy_Picture_2020.jpg/400px-HoGy_Picture_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HoGy_Picture_2020.jpg/800px-HoGy_Picture_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HoGy_Picture_2020.jpg/1200px-HoGy_Picture_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HoGy_Picture_2020.jpg/1920px-HoGy_Picture_2020.jpg
+  Hogy Seitenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hogy_Seitenansicht.jpg/400px-Hogy_Seitenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hogy_Seitenansicht.jpg/800px-Hogy_Seitenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hogy_Seitenansicht.jpg/1200px-Hogy_Seitenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hogy_Seitenansicht.jpg/1920px-Hogy_Seitenansicht.jpg
+  HoGy Goeppingen.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HoGy_Goeppingen.png/400px-HoGy_Goeppingen.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HoGy_Goeppingen.png/800px-HoGy_Goeppingen.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HoGy_Goeppingen.png/1200px-HoGy_Goeppingen.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HoGy_Goeppingen.png/1920px-HoGy_Goeppingen.png
+  Entwicklung der Schülerzahlen HSG seit 1990.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg/400px-Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg/800px-Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg/1200px-Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg/1920px-Entwicklung_der_Schülerzahlen_HSG_seit_1990.svg.png
 ---
 
 ## Overview

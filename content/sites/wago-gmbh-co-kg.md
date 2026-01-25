@@ -13,7 +13,7 @@ regions:
 latitude: 52.29908
 longitude: 8.92253
 images:
-  - "/images-sites/wago-gmbh-co-kg/01-bdc60fb0-800w.webp"
+  - "/images/wago-gmbh-co-kg/01-bdc60fb0-800w.webp"
 ---
 
 ## Overview

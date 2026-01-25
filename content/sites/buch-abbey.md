@@ -1,21 +1,49 @@
 ---
-title: "Buch Abbey"
+title: Buch Abbey
 date: 2026-01-23
 draft: false
-description: "former Cistercian abbey near Leisnig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: former Cistercian abbey near Leisnig, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1522
 longitude: 12.9869
 images:
-  - "/images-sites/buch-abbey/01-58777508-800w.webp"
-  - "/images-sites/buch-abbey/02-94fdf73f-800w.webp"
-  - "/images-sites/buch-abbey/03-d75b00ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+image_srcset:
+  20050422178MDRV2 Klosterbuch (Leisnig) Kloster Buch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/400px-20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/800px-20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1920px-20050422178MDRV2_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+  20050422180DR Klosterbuch (Leisnig) Kloster Buch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/400px-20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/800px-20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1920px-20050422180DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+  20050422174DR Klosterbuch (Leisnig) Kloster Buch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/400px-20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/800px-20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1920px-20050422174DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+  20050422176DR Klosterbuch (Leisnig) Kloster Buch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/400px-20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/800px-20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1920px-20050422176DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+  20050422182DR Klosterbuch (Leisnig) Kloster Buch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/400px-20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/800px-20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1200px-20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg/1920px-20050422182DR_Klosterbuch_(Leisnig)_Kloster_Buch.jpg
 ---
 
 ## Overview

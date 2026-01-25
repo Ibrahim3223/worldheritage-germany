@@ -13,7 +13,7 @@ regions:
 latitude: 50.999277465
 longitude: 13.922079296
 images:
-  - "/images-sites/richard-wagner-staetten-graupa/01-47acd661-800w.webp"
+  - "/images/richard-wagner-staetten-graupa/01-47acd661-800w.webp"
 ---
 
 ## Overview

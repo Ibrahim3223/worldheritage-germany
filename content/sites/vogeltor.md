@@ -13,9 +13,9 @@ regions:
 latitude: 48.366193
 longitude: 10.90367
 images:
-  - "/images-sites/vogeltor/01-e6f9a77e-800w.webp"
-  - "/images-sites/vogeltor/02-8d88d0c9-800w.webp"
-  - "/images-sites/vogeltor/03-120e49ef-800w.webp"
+  - "/images/vogeltor/01-e6f9a77e-800w.webp"
+  - "/images/vogeltor/02-8d88d0c9-800w.webp"
+  - "/images/vogeltor/03-120e49ef-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Art museum Monastery of Our Lady Magdeburg"
+title: Art museum Monastery of Our Lady Magdeburg
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.12777
 longitude: 11.63702
 images:
-  - "/images-sites/art-museum-monastery-of-our-lady-magdeburg/01-e7cd0be8-800w.webp"
-  - "/images-sites/art-museum-monastery-of-our-lady-magdeburg/02-6c59064f-800w.webp"
-  - "/images-sites/art-museum-monastery-of-our-lady-magdeburg/03-a4a075f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg/1200px-Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg/1200px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg/1200px-Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg/1200px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG/1200px-Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG
+image_srcset:
+  Magdeburg Kunstmuseum Magdeburg Heilige 551.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg/400px-Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg/800px-Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg/1200px-Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg/1920px-Magdeburg_Kunstmuseum_Magdeburg_Heilige_551.jpg
+  Magdeburg, Kloster Unser Lieben Frauen, Johann Gottfried Schadow, Friedrich II von Preußen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg/400px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg/800px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg/1200px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg/1920px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_Johann_Gottfried_Schadow,_Friedrich_II_von_Preußen.jpg
+  Magdeburg Kunstmuseum Magdeburg Relief 553.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg/400px-Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg/800px-Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg/1200px-Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg/1920px-Magdeburg_Kunstmuseum_Magdeburg_Relief_553.jpg
+  Magdeburg, Kloster Unser Lieben Frauen, heiliger Sebastian-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg/400px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg/800px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg/1200px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg/1920px-Magdeburg,_Kloster_Unser_Lieben_Frauen,_heiliger_Sebastian-1.jpg
+  Kunstmuseum Kloster Unser Lieben Frauen Magdeburg 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG/400px-Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG/800px-Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG/1200px-Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG/1920px-Kunstmuseum_Kloster_Unser_Lieben_Frauen_Magdeburg_3.JPG
 ---
 
 ## Overview

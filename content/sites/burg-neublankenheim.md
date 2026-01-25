@@ -1,21 +1,43 @@
 ---
-title: "Burg Neublankenheim"
+title: Burg Neublankenheim
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.35739832
 longitude: 6.7740646
 images:
-  - "/images-sites/burg-neublankenheim/01-d7ff6a19-800w.webp"
-  - "/images-sites/burg-neublankenheim/02-aa4d13d4-800w.webp"
-  - "/images-sites/burg-neublankenheim/03-3ec54604-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg/1200px-2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-01-09-Burg_Neublankenheim-0226.jpg/1200px-2017-01-09-Burg_Neublankenheim-0226.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2017-01-09-Burg_Neublankenheim-0243.jpg/1200px-2017-01-09-Burg_Neublankenheim-0243.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1200px-Neublankenheim.JPG
+image_srcset:
+  2019-03-17 Kugelpanorama Burg Neublankenheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg/400px-2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg/800px-2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg/1200px-2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg/1920px-2019-03-17_Kugelpanorama_Burg_Neublankenheim.jpg
+  2017-01-09-Burg Neublankenheim-0226.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-01-09-Burg_Neublankenheim-0226.jpg/400px-2017-01-09-Burg_Neublankenheim-0226.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-01-09-Burg_Neublankenheim-0226.jpg/800px-2017-01-09-Burg_Neublankenheim-0226.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-01-09-Burg_Neublankenheim-0226.jpg/1200px-2017-01-09-Burg_Neublankenheim-0226.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-01-09-Burg_Neublankenheim-0226.jpg/1920px-2017-01-09-Burg_Neublankenheim-0226.jpg
+  2017-01-09-Burg Neublankenheim-0243.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2017-01-09-Burg_Neublankenheim-0243.jpg/400px-2017-01-09-Burg_Neublankenheim-0243.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2017-01-09-Burg_Neublankenheim-0243.jpg/800px-2017-01-09-Burg_Neublankenheim-0243.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2017-01-09-Burg_Neublankenheim-0243.jpg/1200px-2017-01-09-Burg_Neublankenheim-0243.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2017-01-09-Burg_Neublankenheim-0243.jpg/1920px-2017-01-09-Burg_Neublankenheim-0243.jpg
+  Neublankenheim.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/400px-Neublankenheim.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/800px-Neublankenheim.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1200px-Neublankenheim.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Neublankenheim.JPG/1920px-Neublankenheim.JPG
 ---
 
 ## Overview

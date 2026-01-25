@@ -1,24 +1,39 @@
 ---
-title: "Jonakirche"
-site_name: "Jonakirche"
-slug: "jonakirche"
-region: "Hesse"
-
-# Location
+title: Jonakirche
+site_name: Jonakirche
+slug: jonakirche
+region: Hesse
 latitude: 49.5607
 longitude: 8.47824
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1258480"
-description: "In the heart of Mannheim, Germany, stands Jonakirche, a striking example of modern architecture that invites reflection and reverence. This church build..."
+- church building
+- religious site
+wikidata_id: Q1258480
+description: In the heart of Mannheim, Germany, stands Jonakirche, a striking example
+  of modern architecture that invites reflection and reverence. This church build...
 images:
-  - "/images-sites/jonakirche/01-5e6931fb-1920w.webp"
-  - "/images-sites/jonakirche/02-d581ca53-1920w.webp"
-  - "/images-sites/jonakirche/03-31cbcb9a-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Essen-Heidhausen,_Jonakirche_(21).jpg/1200px-Essen-Heidhausen,_Jonakirche_(21).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg/1200px-Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mannheim-Blumenau-Jonakirche.jpg/1200px-Mannheim-Blumenau-Jonakirche.jpg
+image_srcset:
+  Essen-Heidhausen, Jonakirche (21).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Essen-Heidhausen,_Jonakirche_(21).jpg/400px-Essen-Heidhausen,_Jonakirche_(21).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Essen-Heidhausen,_Jonakirche_(21).jpg/800px-Essen-Heidhausen,_Jonakirche_(21).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Essen-Heidhausen,_Jonakirche_(21).jpg/1200px-Essen-Heidhausen,_Jonakirche_(21).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Essen-Heidhausen,_Jonakirche_(21).jpg/1920px-Essen-Heidhausen,_Jonakirche_(21).jpg
+  Landappbw 136637 1820 Blumenaukirche Mannheim-Blumenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg/400px-Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg/800px-Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg/1200px-Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg/1920px-Landappbw_136637_1820_Blumenaukirche_Mannheim-Blumenau.jpg
+  Mannheim-Blumenau-Jonakirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mannheim-Blumenau-Jonakirche.jpg/400px-Mannheim-Blumenau-Jonakirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mannheim-Blumenau-Jonakirche.jpg/800px-Mannheim-Blumenau-Jonakirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mannheim-Blumenau-Jonakirche.jpg/1200px-Mannheim-Blumenau-Jonakirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mannheim-Blumenau-Jonakirche.jpg/1920px-Mannheim-Blumenau-Jonakirche.jpg
 ---
 
 ## Overview

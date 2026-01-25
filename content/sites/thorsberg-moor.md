@@ -21,7 +21,7 @@ longitude: 9.77189
 
 # Images
 images:
-  - "/images-sites/thorsberg-moor/01-f8bd23ec-800w.webp"
+  - "/images/thorsberg-moor/01-f8bd23ec-800w.webp"
 ---
 
 ## Overview

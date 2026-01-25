@@ -13,7 +13,7 @@ regions:
 latitude: 52.52625
 longitude: 13.353777777
 images:
-  - "/images-sites/kriminalgericht-moabit/01-512f93df-800w.webp"
+  - "/images/kriminalgericht-moabit/01-512f93df-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 48.274835672
 longitude: 10.228273436
 images:
-  - "/images-sites/roggenburg-abbey/01-9d18021f-800w.webp"
-  - "/images-sites/roggenburg-abbey/02-096d7869-800w.webp"
-  - "/images-sites/roggenburg-abbey/03-52b98cee-800w.webp"
+  - "/images/roggenburg-abbey/01-9d18021f-800w.webp"
+  - "/images/roggenburg-abbey/02-096d7869-800w.webp"
+  - "/images/roggenburg-abbey/03-52b98cee-800w.webp"
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q704831"
 description: "Ludwigsburg Palace is a grand testament to the opulence of baroque architecture, serving as a former residence for the dukes and kings of Württemberg. B..."
 images:
-  - "/images-sites/ludwigsburg-palace/01-86211702-1920w.webp"
-  - "/images-sites/ludwigsburg-palace/02-9e3de810-1920w.webp"
-  - "/images-sites/ludwigsburg-palace/03-f8712471-1920w.webp"
+  - "/images/ludwigsburg-palace/01-86211702-1920w.webp"
+  - "/images/ludwigsburg-palace/02-9e3de810-1920w.webp"
+  - "/images/ludwigsburg-palace/03-f8712471-1920w.webp"
 ---
 
 ## Overview

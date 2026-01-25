@@ -21,7 +21,7 @@ longitude: 11.0759
 
 # Images
 images:
-  - "/images-sites/nuremberg-castle/01-0f04d318-800w.webp"
+  - "/images/nuremberg-castle/01-0f04d318-800w.webp"
 ---
 
 ## Overview

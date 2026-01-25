@@ -13,9 +13,9 @@ regions:
 latitude: 51.4564
 longitude: 7.01667
 images:
-  - "/images-sites/old-synagogue/01-c632e102-800w.webp"
-  - "/images-sites/old-synagogue/02-ec872ba4-800w.webp"
-  - "/images-sites/old-synagogue/03-bf12415d-800w.webp"
+  - "/images/old-synagogue/01-c632e102-800w.webp"
+  - "/images/old-synagogue/02-ec872ba4-800w.webp"
+  - "/images/old-synagogue/03-bf12415d-800w.webp"
 ---
 
 ## Overview

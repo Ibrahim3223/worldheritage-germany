@@ -13,9 +13,9 @@ regions:
 latitude: 53.624722222
 longitude: 10.061666666
 images:
-  - "/images-sites/ohlsdorf-cemetery/01-ec2cedaa-800w.webp"
-  - "/images-sites/ohlsdorf-cemetery/02-22d1d7a5-800w.webp"
-  - "/images-sites/ohlsdorf-cemetery/03-55a39507-800w.webp"
+  - "/images/ohlsdorf-cemetery/01-ec2cedaa-800w.webp"
+  - "/images/ohlsdorf-cemetery/02-22d1d7a5-800w.webp"
+  - "/images/ohlsdorf-cemetery/03-55a39507-800w.webp"
 ---
 
 ## Overview

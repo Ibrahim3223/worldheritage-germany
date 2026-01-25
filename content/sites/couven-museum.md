@@ -1,19 +1,49 @@
 ---
-title: "Couven-Museum"
+title: Couven-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Aachen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Aachen, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7757
 longitude: 6.08487
 images:
-  - "/images-sites/couven-museum/01-f269b246-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Couven_Museum_2022_01.jpg/1200px-Couven_Museum_2022_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aachen_BW_2016-07-09_17-08-51.jpg/1200px-Aachen_BW_2016-07-09_17-08-51.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg/1200px-Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Couvenmuseum_Aachen.jpg/1200px-Couvenmuseum_Aachen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1200px-Aachen_Couvenmuseum.jpg
+image_srcset:
+  Couven Museum 2022 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Couven_Museum_2022_01.jpg/400px-Couven_Museum_2022_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Couven_Museum_2022_01.jpg/800px-Couven_Museum_2022_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Couven_Museum_2022_01.jpg/1200px-Couven_Museum_2022_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Couven_Museum_2022_01.jpg/1920px-Couven_Museum_2022_01.jpg
+  Aachen BW 2016-07-09 17-08-51.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aachen_BW_2016-07-09_17-08-51.jpg/400px-Aachen_BW_2016-07-09_17-08-51.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aachen_BW_2016-07-09_17-08-51.jpg/800px-Aachen_BW_2016-07-09_17-08-51.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aachen_BW_2016-07-09_17-08-51.jpg/1200px-Aachen_BW_2016-07-09_17-08-51.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aachen_BW_2016-07-09_17-08-51.jpg/1920px-Aachen_BW_2016-07-09_17-08-51.jpg
+  Tür des Couven Museums mit den Initialen von Andreas Monheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg/400px-Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg/800px-Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg/1200px-Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg/1920px-Tür_des_Couven_Museums_mit_den_Initialen_von_Andreas_Monheim.jpg
+  Couvenmuseum Aachen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Couvenmuseum_Aachen.jpg/400px-Couvenmuseum_Aachen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Couvenmuseum_Aachen.jpg/800px-Couvenmuseum_Aachen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Couvenmuseum_Aachen.jpg/1200px-Couvenmuseum_Aachen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Couvenmuseum_Aachen.jpg/1920px-Couvenmuseum_Aachen.jpg
+  Aachen Couvenmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/400px-Aachen_Couvenmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/800px-Aachen_Couvenmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1200px-Aachen_Couvenmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Aachen_Couvenmuseum.jpg/1920px-Aachen_Couvenmuseum.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Gloria-Theater"
+title: Gloria-Theater
 date: 2026-01-24
 draft: false
-description: "theatre in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9375
 longitude: 6.9449
 images:
-  - "/images-sites/gloria-theater/01-9a1d8cec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tom_Misch,_Konzert_Köln.jpg/1200px-Tom_Misch,_Konzert_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/1200px-Gloria-Theater-Koeln-Aussenansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gloria-Theater,_Köln-8655.jpg/1200px-Gloria-Theater,_Köln-8655.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Gloria-Theater-Koeln.jpg/1200px-Logo_Gloria-Theater-Koeln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gloria-Theater-Koeln-Barbereich.jpg/1200px-Gloria-Theater-Koeln-Barbereich.jpg
+image_srcset:
+  Tom Misch, Konzert Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tom_Misch,_Konzert_Köln.jpg/400px-Tom_Misch,_Konzert_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tom_Misch,_Konzert_Köln.jpg/800px-Tom_Misch,_Konzert_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tom_Misch,_Konzert_Köln.jpg/1200px-Tom_Misch,_Konzert_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tom_Misch,_Konzert_Köln.jpg/1920px-Tom_Misch,_Konzert_Köln.jpg
+  Gloria-Theater-Koeln-Aussenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/400px-Gloria-Theater-Koeln-Aussenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/800px-Gloria-Theater-Koeln-Aussenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/1200px-Gloria-Theater-Koeln-Aussenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria-Theater-Koeln-Aussenansicht.jpg/1920px-Gloria-Theater-Koeln-Aussenansicht.jpg
+  Gloria-Theater, Köln-8655.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gloria-Theater,_Köln-8655.jpg/400px-Gloria-Theater,_Köln-8655.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gloria-Theater,_Köln-8655.jpg/800px-Gloria-Theater,_Köln-8655.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gloria-Theater,_Köln-8655.jpg/1200px-Gloria-Theater,_Köln-8655.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gloria-Theater,_Köln-8655.jpg/1920px-Gloria-Theater,_Köln-8655.jpg
+  Logo Gloria-Theater-Koeln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Gloria-Theater-Koeln.jpg/400px-Logo_Gloria-Theater-Koeln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Gloria-Theater-Koeln.jpg/800px-Logo_Gloria-Theater-Koeln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Gloria-Theater-Koeln.jpg/1200px-Logo_Gloria-Theater-Koeln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_Gloria-Theater-Koeln.jpg/1920px-Logo_Gloria-Theater-Koeln.jpg
+  Gloria-Theater-Koeln-Barbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gloria-Theater-Koeln-Barbereich.jpg/400px-Gloria-Theater-Koeln-Barbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gloria-Theater-Koeln-Barbereich.jpg/800px-Gloria-Theater-Koeln-Barbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gloria-Theater-Koeln-Barbereich.jpg/1200px-Gloria-Theater-Koeln-Barbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gloria-Theater-Koeln-Barbereich.jpg/1920px-Gloria-Theater-Koeln-Barbereich.jpg
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Kaiserpfalz Kaiserswerth"
+title: Kaiserpfalz Kaiserswerth
 date: 2026-01-23
 draft: false
-description: "Castle ruin in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle ruin in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.299555555
 longitude: 6.731388888
-
-# Images
 images:
-  - "/images-sites/kaiserpfalz-kaiserswerth/01-c08317d8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/1200px-Kaiserpfalz-Kaiserswerth-2020-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserpfalz-Kaiserswerth-2020-01.jpg/1200px-Kaiserpfalz-Kaiserswerth-2020-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg/1200px-NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PfalzKaiserswert08.jpg/1200px-PfalzKaiserswert08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Panopfalz-innen.jpg/1200px-Panopfalz-innen.jpg
+image_srcset:
+  Kaiserpfalz-Kaiserswerth-2020-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/400px-Kaiserpfalz-Kaiserswerth-2020-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/800px-Kaiserpfalz-Kaiserswerth-2020-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/1200px-Kaiserpfalz-Kaiserswerth-2020-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kaiserpfalz-Kaiserswerth-2020-02.jpg/1920px-Kaiserpfalz-Kaiserswerth-2020-02.jpg
+  Kaiserpfalz-Kaiserswerth-2020-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserpfalz-Kaiserswerth-2020-01.jpg/400px-Kaiserpfalz-Kaiserswerth-2020-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserpfalz-Kaiserswerth-2020-01.jpg/800px-Kaiserpfalz-Kaiserswerth-2020-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserpfalz-Kaiserswerth-2020-01.jpg/1200px-Kaiserpfalz-Kaiserswerth-2020-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kaiserpfalz-Kaiserswerth-2020-01.jpg/1920px-Kaiserpfalz-Kaiserswerth-2020-01.jpg
+  NRW, Düsseldorf - Kaiserpfalz Kaiserswerth 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg/400px-NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg/800px-NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg/1200px-NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg/1920px-NRW,_Düsseldorf_-_Kaiserpfalz_Kaiserswerth_01.jpg
+  PfalzKaiserswert08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PfalzKaiserswert08.jpg/400px-PfalzKaiserswert08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PfalzKaiserswert08.jpg/800px-PfalzKaiserswert08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PfalzKaiserswert08.jpg/1200px-PfalzKaiserswert08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PfalzKaiserswert08.jpg/1920px-PfalzKaiserswert08.jpg
+  Panopfalz-innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Panopfalz-innen.jpg/400px-Panopfalz-innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Panopfalz-innen.jpg/800px-Panopfalz-innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Panopfalz-innen.jpg/1200px-Panopfalz-innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Panopfalz-innen.jpg/1920px-Panopfalz-innen.jpg
 ---
 
 ## Overview

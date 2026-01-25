@@ -1,19 +1,49 @@
 ---
-title: "Blankenese Low Lighthouse"
+title: Blankenese Low Lighthouse
 date: 2026-01-23
 draft: false
-description: "lighthouse in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: lighthouse in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55769
 longitude: 9.79583
 images:
-  - "/images-sites/blankenese-low-lighthouse/01-58c08ed3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/1200px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg/1200px-Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BlankeneseUnterfeuer-06.jpg/1200px-BlankeneseUnterfeuer-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Detail_05.JPG/1200px-Detail_05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hamburg_015DSC_0175_(48944109712).jpg/1200px-Hamburg_015DSC_0175_(48944109712).jpg
+image_srcset:
+  Blankenese-Leuchtturm Unterfeuer (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/400px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/800px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/1200px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blankenese-Leuchtturm_Unterfeuer_(1).jpg/1920px-Blankenese-Leuchtturm_Unterfeuer_(1).jpg
+  Leuchtturm Unterfeuer Blankenese - Neubau - bei Hochwasser (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg/400px-Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg/800px-Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg/1200px-Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg/1920px-Leuchtturm_Unterfeuer_Blankenese_-_Neubau_-_bei_Hochwasser_(1).jpg
+  BlankeneseUnterfeuer-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BlankeneseUnterfeuer-06.jpg/400px-BlankeneseUnterfeuer-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BlankeneseUnterfeuer-06.jpg/800px-BlankeneseUnterfeuer-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BlankeneseUnterfeuer-06.jpg/1200px-BlankeneseUnterfeuer-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BlankeneseUnterfeuer-06.jpg/1920px-BlankeneseUnterfeuer-06.jpg
+  Detail 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Detail_05.JPG/400px-Detail_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Detail_05.JPG/800px-Detail_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Detail_05.JPG/1200px-Detail_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Detail_05.JPG/1920px-Detail_05.JPG
+  Hamburg 015DSC 0175 (48944109712).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hamburg_015DSC_0175_(48944109712).jpg/400px-Hamburg_015DSC_0175_(48944109712).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hamburg_015DSC_0175_(48944109712).jpg/800px-Hamburg_015DSC_0175_(48944109712).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hamburg_015DSC_0175_(48944109712).jpg/1200px-Hamburg_015DSC_0175_(48944109712).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hamburg_015DSC_0175_(48944109712).jpg/1920px-Hamburg_015DSC_0175_(48944109712).jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Fuchskaute"
+title: Fuchskaute
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6595
 longitude: 8.10262
 images:
-  - "/images-sites/fuchskaute/01-63869843-800w.webp"
-  - "/images-sites/fuchskaute/02-3b5d5222-800w.webp"
-  - "/images-sites/fuchskaute/03-3579a39b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Waldaubach.jpg/1200px-Waldaubach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fuchskaute_von_Westen_2.jpg/1200px-Fuchskaute_von_Westen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fuchskaute_von_Westen.jpg/1200px-Fuchskaute_von_Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2021-Fuchskaute-ks01.jpg/1200px-2021-Fuchskaute-ks01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fuchskaute.JPG/1200px-Fuchskaute.JPG
+image_srcset:
+  Waldaubach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Waldaubach.jpg/400px-Waldaubach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Waldaubach.jpg/800px-Waldaubach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Waldaubach.jpg/1200px-Waldaubach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Waldaubach.jpg/1920px-Waldaubach.jpg
+  Fuchskaute von Westen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fuchskaute_von_Westen_2.jpg/400px-Fuchskaute_von_Westen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fuchskaute_von_Westen_2.jpg/800px-Fuchskaute_von_Westen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fuchskaute_von_Westen_2.jpg/1200px-Fuchskaute_von_Westen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fuchskaute_von_Westen_2.jpg/1920px-Fuchskaute_von_Westen_2.jpg
+  Fuchskaute von Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fuchskaute_von_Westen.jpg/400px-Fuchskaute_von_Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fuchskaute_von_Westen.jpg/800px-Fuchskaute_von_Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fuchskaute_von_Westen.jpg/1200px-Fuchskaute_von_Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fuchskaute_von_Westen.jpg/1920px-Fuchskaute_von_Westen.jpg
+  2021-Fuchskaute-ks01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2021-Fuchskaute-ks01.jpg/400px-2021-Fuchskaute-ks01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2021-Fuchskaute-ks01.jpg/800px-2021-Fuchskaute-ks01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2021-Fuchskaute-ks01.jpg/1200px-2021-Fuchskaute-ks01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2021-Fuchskaute-ks01.jpg/1920px-2021-Fuchskaute-ks01.jpg
+  Fuchskaute.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fuchskaute.JPG/400px-Fuchskaute.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fuchskaute.JPG/800px-Fuchskaute.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fuchskaute.JPG/1200px-Fuchskaute.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fuchskaute.JPG/1920px-Fuchskaute.JPG
 ---
 
 ## Overview

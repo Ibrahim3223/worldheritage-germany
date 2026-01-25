@@ -1,19 +1,49 @@
 ---
-title: "Fugger und Welser Erlebnismuseum"
+title: Fugger und Welser Erlebnismuseum
 date: 2026-01-23
 draft: false
-description: "museum about the Dynasties of Fugger and Welser in Augsburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum about the Dynasties of Fugger and Welser in Augsburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.37410528
 longitude: 10.90032778
 images:
-  - "/images-sites/fugger-und-welser-erlebnismuseum/01-d802425c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg/1200px-Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg/1200px-Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2024_Fugger_und_Welser_Erlebnismuseum.jpg/1200px-2024_Fugger_und_Welser_Erlebnismuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fugger_und_Welser_Erlebnismuseum.jpg/1200px-Fugger_und_Welser_Erlebnismuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1200px-Fugger_und_Welser_lebensgroß.jpg
+image_srcset:
+  Fugger-und-Welser Erlebnismuseum Augsburg manilla 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg/400px-Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg/800px-Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg/1200px-Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg/1920px-Fugger-und-Welser_Erlebnismuseum_Augsburg_manilla_02.jpg
+  Fugger-und-Welser Erlebnismuseum Augsburg description of manillas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg/400px-Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg/800px-Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg/1200px-Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg/1920px-Fugger-und-Welser_Erlebnismuseum_Augsburg_description_of_manillas.jpg
+  2024 Fugger und Welser Erlebnismuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2024_Fugger_und_Welser_Erlebnismuseum.jpg/400px-2024_Fugger_und_Welser_Erlebnismuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2024_Fugger_und_Welser_Erlebnismuseum.jpg/800px-2024_Fugger_und_Welser_Erlebnismuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2024_Fugger_und_Welser_Erlebnismuseum.jpg/1200px-2024_Fugger_und_Welser_Erlebnismuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2024_Fugger_und_Welser_Erlebnismuseum.jpg/1920px-2024_Fugger_und_Welser_Erlebnismuseum.jpg
+  Fugger und Welser Erlebnismuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fugger_und_Welser_Erlebnismuseum.jpg/400px-Fugger_und_Welser_Erlebnismuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fugger_und_Welser_Erlebnismuseum.jpg/800px-Fugger_und_Welser_Erlebnismuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fugger_und_Welser_Erlebnismuseum.jpg/1200px-Fugger_und_Welser_Erlebnismuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fugger_und_Welser_Erlebnismuseum.jpg/1920px-Fugger_und_Welser_Erlebnismuseum.jpg
+  Fugger und Welser lebensgroß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/400px-Fugger_und_Welser_lebensgroß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/800px-Fugger_und_Welser_lebensgroß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1200px-Fugger_und_Welser_lebensgroß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fugger_und_Welser_lebensgroß.jpg/1920px-Fugger_und_Welser_lebensgroß.jpg
 ---
 
 ## Overview

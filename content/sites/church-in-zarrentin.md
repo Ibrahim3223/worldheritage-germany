@@ -1,23 +1,50 @@
 ---
-title: "Church in Zarrentin"
-site_name: "Church in Zarrentin"
-slug: "church-in-zarrentin"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Zarrentin
+site_name: Church in Zarrentin
+slug: church-in-zarrentin
+region: Schleswig-Holstein
 latitude: 53.5543
 longitude: 10.9177
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1631349"
-description: "The Church in Zarrentin, located in the picturesque region of Zarrentin am Schaalsee, is a striking example of Brick Gothic architecture that draws visi..."
+- cultural site
+wikidata_id: Q1631349
+description: The Church in Zarrentin, located in the picturesque region of Zarrentin
+  am Schaalsee, is a striking example of Brick Gothic architecture that draws visi...
 images:
-  - "/images-sites/church-in-zarrentin/01-93b6791f-1920w.webp"
-  - "/images-sites/church-in-zarrentin/02-a51f8ed0-1920w.webp"
-  - "/images-sites/church-in-zarrentin/03-ffbf74b5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg/1200px-2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg/1200px-2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1200px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg/1200px-Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zarrentin.JPG/1200px-Zarrentin.JPG
+image_srcset:
+  2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg/400px-2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg/800px-2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg/1200px-2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg/1920px-2021-06-14%20Zarrentin%20%2853%29-Kirche%20Zarrentin.jpg
+  2021-06-14 Zarrentin (34)-Kirche Zarrentin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg/400px-2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg/800px-2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg/1200px-2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg/1920px-2021-06-14_Zarrentin_(34)-Kirche_Zarrentin.jpg
+  2021-06-14 Zarrentin (53)-Kirche Zarrentin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/400px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/800px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1200px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg/1920px-2021-06-14_Zarrentin_(53)-Kirche_Zarrentin.jpg
+  Vorhalle Turm Klosterkirche (Zarrentin am Schalsee) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg/400px-Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg/800px-Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg/1200px-Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg/1920px-Vorhalle_Turm_Klosterkirche_(Zarrentin_am_Schalsee)_02.jpg
+  Zarrentin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zarrentin.JPG/400px-Zarrentin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zarrentin.JPG/800px-Zarrentin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zarrentin.JPG/1200px-Zarrentin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zarrentin.JPG/1920px-Zarrentin.JPG
 ---
 
 ## Overview

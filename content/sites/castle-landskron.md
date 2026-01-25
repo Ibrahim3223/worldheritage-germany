@@ -1,27 +1,49 @@
 ---
-title: "Castle Landskron"
+title: Castle Landskron
 date: 2026-01-23
 draft: false
-description: "castle in Oppenheim, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Oppenheim, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8551
 longitude: 8.35292
-
-# Images
 images:
-  - "/images-sites/castle-landskron/01-950260a9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/19.09.2020_Oppenheim_(47).jpg/1200px-19.09.2020_Oppenheim_(47).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/1200px-Oppenheim_Burg_Landskron.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg/1200px-Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Landskron_(Oppenheim)_06.JPG/1200px-Burg_Landskron_(Oppenheim)_06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oppenheim,_die_Burgruine_Landskron.jpg/1200px-Oppenheim,_die_Burgruine_Landskron.jpg
+image_srcset:
+  19.09.2020 Oppenheim (47).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/19.09.2020_Oppenheim_(47).jpg/400px-19.09.2020_Oppenheim_(47).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/19.09.2020_Oppenheim_(47).jpg/800px-19.09.2020_Oppenheim_(47).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/19.09.2020_Oppenheim_(47).jpg/1200px-19.09.2020_Oppenheim_(47).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/19.09.2020_Oppenheim_(47).jpg/1920px-19.09.2020_Oppenheim_(47).jpg
+  Oppenheim Burg Landskron.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/400px-Oppenheim_Burg_Landskron.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/800px-Oppenheim_Burg_Landskron.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/1200px-Oppenheim_Burg_Landskron.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oppenheim_Burg_Landskron.JPG/1920px-Oppenheim_Burg_Landskron.JPG
+  Oppenheim, Wein- und Obstbauschule, Ansichtskarte.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg/400px-Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg/800px-Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg/1200px-Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg/1920px-Oppenheim,_Wein-_und_Obstbauschule,_Ansichtskarte.tif.jpg
+  Burg Landskron (Oppenheim) 06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Landskron_(Oppenheim)_06.JPG/400px-Burg_Landskron_(Oppenheim)_06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Landskron_(Oppenheim)_06.JPG/800px-Burg_Landskron_(Oppenheim)_06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Landskron_(Oppenheim)_06.JPG/1200px-Burg_Landskron_(Oppenheim)_06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Landskron_(Oppenheim)_06.JPG/1920px-Burg_Landskron_(Oppenheim)_06.JPG
+  Oppenheim, die Burgruine Landskron.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oppenheim,_die_Burgruine_Landskron.jpg/400px-Oppenheim,_die_Burgruine_Landskron.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oppenheim,_die_Burgruine_Landskron.jpg/800px-Oppenheim,_die_Burgruine_Landskron.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oppenheim,_die_Burgruine_Landskron.jpg/1200px-Oppenheim,_die_Burgruine_Landskron.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Oppenheim,_die_Burgruine_Landskron.jpg/1920px-Oppenheim,_die_Burgruine_Landskron.jpg
 ---
 
 ## Overview

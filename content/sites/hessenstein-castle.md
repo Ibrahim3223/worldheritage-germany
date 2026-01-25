@@ -1,27 +1,49 @@
 ---
-title: "Hessenstein Castle"
+title: Hessenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.118945998
 longitude: 8.885074393
-
-# Images
 images:
-  - "/images-sites/hessenstein-castle/01-e6762e0d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Hessenstein_06_Hauptgebäude.jpg/1200px-Burg_Hessenstein_06_Hauptgebäude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BurgHessenstein2009.jpg/1200px-BurgHessenstein2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Hessenstein_26.JPG/1200px-Burg_Hessenstein_26.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luftbild_Jugendburg_Hessenstein.jpg/1200px-Luftbild_Jugendburg_Hessenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Hessenstein_20100624.jpg/1200px-Burg_Hessenstein_20100624.jpg
+image_srcset:
+  Burg Hessenstein 06 Hauptgebäude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Hessenstein_06_Hauptgebäude.jpg/400px-Burg_Hessenstein_06_Hauptgebäude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Hessenstein_06_Hauptgebäude.jpg/800px-Burg_Hessenstein_06_Hauptgebäude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Hessenstein_06_Hauptgebäude.jpg/1200px-Burg_Hessenstein_06_Hauptgebäude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Hessenstein_06_Hauptgebäude.jpg/1920px-Burg_Hessenstein_06_Hauptgebäude.jpg
+  BurgHessenstein2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BurgHessenstein2009.jpg/400px-BurgHessenstein2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BurgHessenstein2009.jpg/800px-BurgHessenstein2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BurgHessenstein2009.jpg/1200px-BurgHessenstein2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BurgHessenstein2009.jpg/1920px-BurgHessenstein2009.jpg
+  Burg Hessenstein 26.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Hessenstein_26.JPG/400px-Burg_Hessenstein_26.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Hessenstein_26.JPG/800px-Burg_Hessenstein_26.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Hessenstein_26.JPG/1200px-Burg_Hessenstein_26.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Hessenstein_26.JPG/1920px-Burg_Hessenstein_26.JPG
+  Luftbild Jugendburg Hessenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luftbild_Jugendburg_Hessenstein.jpg/400px-Luftbild_Jugendburg_Hessenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luftbild_Jugendburg_Hessenstein.jpg/800px-Luftbild_Jugendburg_Hessenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luftbild_Jugendburg_Hessenstein.jpg/1200px-Luftbild_Jugendburg_Hessenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luftbild_Jugendburg_Hessenstein.jpg/1920px-Luftbild_Jugendburg_Hessenstein.jpg
+  Burg Hessenstein 20100624.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Hessenstein_20100624.jpg/400px-Burg_Hessenstein_20100624.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Hessenstein_20100624.jpg/800px-Burg_Hessenstein_20100624.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Hessenstein_20100624.jpg/1200px-Burg_Hessenstein_20100624.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Hessenstein_20100624.jpg/1920px-Burg_Hessenstein_20100624.jpg
 ---
 
 ## Overview

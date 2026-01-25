@@ -1,19 +1,49 @@
 ---
-title: "Haus Weitmar"
+title: Haus Weitmar
 date: 2026-01-23
 draft: false
-description: "manor house in Weitmar, Bochum, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house in Weitmar, Bochum, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4478
 longitude: 7.18931
 images:
-  - "/images-sites/haus-weitmar/01-d8ee2f9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg/1200px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg/1200px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Weitmar_Front_-_panoramio.jpg/1200px-Haus_Weitmar_Front_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Haus_Weitmar_01.jpg/1200px-Haus_Weitmar_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg/1200px-Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg
+image_srcset:
+  Bochum - Hattinger Straße - Haus Weitmar 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg/400px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg/800px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg/1200px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg/1920px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_02_ies.jpg
+  Bochum - Hattinger Straße - Haus Weitmar 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg/400px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg/800px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg/1200px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg/1920px-Bochum_-_Hattinger_Straße_-_Haus_Weitmar_04_ies.jpg
+  Haus Weitmar Front - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Weitmar_Front_-_panoramio.jpg/400px-Haus_Weitmar_Front_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Weitmar_Front_-_panoramio.jpg/800px-Haus_Weitmar_Front_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Weitmar_Front_-_panoramio.jpg/1200px-Haus_Weitmar_Front_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Haus_Weitmar_Front_-_panoramio.jpg/1920px-Haus_Weitmar_Front_-_panoramio.jpg
+  Haus Weitmar 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Haus_Weitmar_01.jpg/400px-Haus_Weitmar_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Haus_Weitmar_01.jpg/800px-Haus_Weitmar_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Haus_Weitmar_01.jpg/1200px-Haus_Weitmar_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Haus_Weitmar_01.jpg/1920px-Haus_Weitmar_01.jpg
+  Haus Weitmar vor seiner Zerstoerung 1943.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg/400px-Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg/800px-Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg/1200px-Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg/1920px-Haus_Weitmar_vor_seiner_Zerstoerung_1943.jpg
 ---
 
 ## Overview

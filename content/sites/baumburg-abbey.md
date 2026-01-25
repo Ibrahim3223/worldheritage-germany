@@ -1,21 +1,49 @@
 ---
-title: "Baumburg Abbey"
+title: Baumburg Abbey
 date: 2026-01-23
 draft: false
-description: "building in Altenmarkt a. d. Alz, Traunstein county, Upper Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Altenmarkt a. d. Alz, Traunstein county, Upper Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.9981
 longitude: 12.5308
 images:
-  - "/images-sites/baumburg-abbey/01-d74ce310-800w.webp"
-  - "/images-sites/baumburg-abbey/02-8a777c0b-800w.webp"
-  - "/images-sites/baumburg-abbey/03-a233bd52-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg/1200px-Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG/1200px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG/1200px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ex-libris_Baumburg_05.jpg/1200px-Ex-libris_Baumburg_05.jpg
+image_srcset:
+  Historico-Topographica Descriptio. 2. Das Renntambt Burgkhausen 287.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg/400px-Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg/800px-Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg/1200px-Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg/1920px-Historico-Topographica_Descriptio._2._Das_Renntambt_Burgkhausen_287.jpg
+  GER — BY — Lkr. Traunstein — Altenmarkt a. d. Alz — Baumburg (Wirtschaftshof) 2020.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG/400px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG/800px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG/1200px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG/1920px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Wirtschaftshof)_2020.JPG
+  Aerial image of Baumburg Abbey (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg/400px-Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg/800px-Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Baumburg_Abbey_(view_from_the_southwest).jpg
+  GER — BY — Lkr. Traunstein — Altenmarkt a. d. Alz — Baumburg (Hauptportal der ehem. Klosteranlage) 2020.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG/400px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG/800px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG/1200px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG/1920px-GER_—_BY_—_Lkr._Traunstein_—_Altenmarkt_a._d._Alz_—_Baumburg_(Hauptportal_der_ehem._Klosteranlage)_2020.JPG
+  Ex-libris Baumburg 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ex-libris_Baumburg_05.jpg/400px-Ex-libris_Baumburg_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ex-libris_Baumburg_05.jpg/800px-Ex-libris_Baumburg_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ex-libris_Baumburg_05.jpg/1200px-Ex-libris_Baumburg_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ex-libris_Baumburg_05.jpg/1920px-Ex-libris_Baumburg_05.jpg
 ---
 
 ## Overview

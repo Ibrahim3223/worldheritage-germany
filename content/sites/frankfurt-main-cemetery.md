@@ -1,20 +1,49 @@
 ---
-title: "Frankfurt Main Cemetery"
+title: Frankfurt Main Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Frankfurt am Main, Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Frankfurt am Main, Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1361
 longitude: 8.68486
 images:
-  - "/images-sites/frankfurt-main-cemetery/02-1acd1a80-800w.webp"
-  - "/images-sites/frankfurt-main-cemetery/03-7d153bd7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2022Kriegsgraeber1WK.jpg/1200px-2022Kriegsgraeber1WK.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2022Hiob.jpg/1200px-2022Hiob.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GrabstelleEmilMangelsdorff.jpg/1200px-GrabstelleEmilMangelsdorff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2022AltesPortal.jpg/1200px-2022AltesPortal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg/1200px-Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg
+image_srcset:
+  2022Kriegsgraeber1WK.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2022Kriegsgraeber1WK.jpg/400px-2022Kriegsgraeber1WK.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2022Kriegsgraeber1WK.jpg/800px-2022Kriegsgraeber1WK.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2022Kriegsgraeber1WK.jpg/1200px-2022Kriegsgraeber1WK.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2022Kriegsgraeber1WK.jpg/1920px-2022Kriegsgraeber1WK.jpg
+  2022Hiob.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2022Hiob.jpg/400px-2022Hiob.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2022Hiob.jpg/800px-2022Hiob.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2022Hiob.jpg/1200px-2022Hiob.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2022Hiob.jpg/1920px-2022Hiob.jpg
+  GrabstelleEmilMangelsdorff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GrabstelleEmilMangelsdorff.jpg/400px-GrabstelleEmilMangelsdorff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GrabstelleEmilMangelsdorff.jpg/800px-GrabstelleEmilMangelsdorff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GrabstelleEmilMangelsdorff.jpg/1200px-GrabstelleEmilMangelsdorff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GrabstelleEmilMangelsdorff.jpg/1920px-GrabstelleEmilMangelsdorff.jpg
+  2022AltesPortal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2022AltesPortal.jpg/400px-2022AltesPortal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2022AltesPortal.jpg/800px-2022AltesPortal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2022AltesPortal.jpg/1200px-2022AltesPortal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2022AltesPortal.jpg/1920px-2022AltesPortal.jpg
+  Frankfurter Hauptfriedhof, Gewann 4, Mausoleum Gans - 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg/400px-Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg/800px-Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg/1200px-Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg/1920px-Frankfurter_Hauptfriedhof,_Gewann_4,_Mausoleum_Gans_-_007.jpg
 ---
 
 ## Overview

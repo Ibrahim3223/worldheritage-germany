@@ -13,7 +13,7 @@ regions:
 latitude: 52.416111111
 longitude: 13.633333333
 images:
-  - "/images-sites/mueggelberge/01-486edccf-800w.webp"
+  - "/images/mueggelberge/01-486edccf-800w.webp"
 ---
 
 ## Overview

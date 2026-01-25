@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Kirche Nietleben"
-site_name: "Evangelische Kirche Nietleben"
-slug: "evangelische-kirche-nietleben"
-region: "Brandenburg"
-
-# Location
+title: Evangelische Kirche Nietleben
+site_name: Evangelische Kirche Nietleben
+slug: evangelische-kirche-nietleben
+region: Brandenburg
 latitude: 51.4837
 longitude: 11.9014
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1256631"
-description: "In the heart of Halle (Saale), Germany, the Evangelische Kirche Nietleben stands as a remarkable example of Romanesque Revival architecture. This church..."
+- church building
+- religious site
+wikidata_id: Q1256631
+description: In the heart of Halle (Saale), Germany, the Evangelische Kirche Nietleben
+  stands as a remarkable example of Romanesque Revival architecture. This church...
 images:
-  - "/images-sites/evangelische-kirche-nietleben/01-57824b9f-1920w.webp"
-  - "/images-sites/evangelische-kirche-nietleben/02-c371c661-1920w.webp"
-  - "/images-sites/evangelische-kirche-nietleben/03-c32efc97-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kirche%20Nietleben.jpg/1200px-Kirche%20Nietleben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Nietleben,_Halle_(Saale).jpg/1200px-Kirche_Nietleben,_Halle_(Saale).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NietlebenKirche10.JPG/1200px-NietlebenKirche10.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NietlebenKirche.JPG/1200px-NietlebenKirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/1200px-Kirche_Nietleben.jpg
+image_srcset:
+  Kirche%20Nietleben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kirche%20Nietleben.jpg/400px-Kirche%20Nietleben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kirche%20Nietleben.jpg/800px-Kirche%20Nietleben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kirche%20Nietleben.jpg/1200px-Kirche%20Nietleben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kirche%20Nietleben.jpg/1920px-Kirche%20Nietleben.jpg
+  Kirche Nietleben, Halle (Saale).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Nietleben,_Halle_(Saale).jpg/400px-Kirche_Nietleben,_Halle_(Saale).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Nietleben,_Halle_(Saale).jpg/800px-Kirche_Nietleben,_Halle_(Saale).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Nietleben,_Halle_(Saale).jpg/1200px-Kirche_Nietleben,_Halle_(Saale).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Nietleben,_Halle_(Saale).jpg/1920px-Kirche_Nietleben,_Halle_(Saale).jpg
+  NietlebenKirche10.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NietlebenKirche10.JPG/400px-NietlebenKirche10.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NietlebenKirche10.JPG/800px-NietlebenKirche10.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NietlebenKirche10.JPG/1200px-NietlebenKirche10.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NietlebenKirche10.JPG/1920px-NietlebenKirche10.JPG
+  NietlebenKirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NietlebenKirche.JPG/400px-NietlebenKirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NietlebenKirche.JPG/800px-NietlebenKirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NietlebenKirche.JPG/1200px-NietlebenKirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NietlebenKirche.JPG/1920px-NietlebenKirche.JPG
+  Kirche Nietleben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/400px-Kirche_Nietleben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/800px-Kirche_Nietleben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/1200px-Kirche_Nietleben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kirche_Nietleben.jpg/1920px-Kirche_Nietleben.jpg
 ---
 
 ## Overview

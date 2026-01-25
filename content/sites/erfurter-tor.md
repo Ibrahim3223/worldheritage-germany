@@ -1,19 +1,49 @@
 ---
-title: "Erfurter Tor"
+title: Erfurter Tor
 date: 2026-01-23
 draft: false
-description: "Tor in Sömmerda, Landkreis Sömmerda, Thüringen"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: Tor in Sömmerda, Landkreis Sömmerda, Thüringen
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 51.15852
 longitude: 11.11782
 images:
-  - "/images-sites/erfurter-tor/01-b069843d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg/1200px-Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg/1200px-Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erfurter_Tor,_Infotafel.jpg/1200px-Erfurter_Tor,_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Erfurter_Tor_Sömmerda.JPG/1200px-Erfurter_Tor_Sömmerda.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mühlhausen_-_Erfurter_Tor.jpg/1200px-Mühlhausen_-_Erfurter_Tor.jpg
+image_srcset:
+  Erfurter Tor Kyffhäuser Bad Frankenhausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg/400px-Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg/800px-Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg/1200px-Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg/1920px-Erfurter_Tor_Kyffhäuser_Bad_Frankenhausen.jpg
+  Erfurter Tor kyffhäuserdenkmal 2020-06-01 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg/400px-Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg/800px-Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg/1200px-Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg/1920px-Erfurter_Tor_kyffhäuserdenkmal_2020-06-01_1.jpg
+  Erfurter Tor, Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erfurter_Tor,_Infotafel.jpg/400px-Erfurter_Tor,_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erfurter_Tor,_Infotafel.jpg/800px-Erfurter_Tor,_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erfurter_Tor,_Infotafel.jpg/1200px-Erfurter_Tor,_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Erfurter_Tor,_Infotafel.jpg/1920px-Erfurter_Tor,_Infotafel.jpg
+  Erfurter Tor Sömmerda.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Erfurter_Tor_Sömmerda.JPG/400px-Erfurter_Tor_Sömmerda.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Erfurter_Tor_Sömmerda.JPG/800px-Erfurter_Tor_Sömmerda.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Erfurter_Tor_Sömmerda.JPG/1200px-Erfurter_Tor_Sömmerda.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Erfurter_Tor_Sömmerda.JPG/1920px-Erfurter_Tor_Sömmerda.JPG
+  Mühlhausen - Erfurter Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mühlhausen_-_Erfurter_Tor.jpg/400px-Mühlhausen_-_Erfurter_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mühlhausen_-_Erfurter_Tor.jpg/800px-Mühlhausen_-_Erfurter_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mühlhausen_-_Erfurter_Tor.jpg/1200px-Mühlhausen_-_Erfurter_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mühlhausen_-_Erfurter_Tor.jpg/1920px-Mühlhausen_-_Erfurter_Tor.jpg
 ---
 
 ## Overview

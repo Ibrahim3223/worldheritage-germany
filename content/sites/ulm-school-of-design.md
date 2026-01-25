@@ -13,7 +13,7 @@ regions:
 latitude: 48.3806
 longitude: 9.95278
 images:
-  - "/images-sites/ulm-school-of-design/01-53de6f78-800w.webp"
+  - "/images/ulm-school-of-design/01-53de6f78-800w.webp"
 ---
 
 ## Overview

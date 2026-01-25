@@ -1,21 +1,49 @@
 ---
-title: "Christuskirche und Altes Pfarrhaus"
+title: Christuskirche und Altes Pfarrhaus
 date: 2026-01-23
 draft: false
-description: "building ensemble in Bremerhaven, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: building ensemble in Bremerhaven, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.535
 longitude: 8.59335
 images:
-  - "/images-sites/christuskirche-und-altes-pfarrhaus/01-13e34699-800w.webp"
-  - "/images-sites/christuskirche-und-altes-pfarrhaus/02-a678905d-800w.webp"
-  - "/images-sites/christuskirche-und-altes-pfarrhaus/03-d9ad98bd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Holzhafen_Bremerhaven_ohne_Wasser_1.jpg/1200px-Holzhafen_Bremerhaven_ohne_Wasser_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Holzhf_20240623.jpg/1200px-Holzhf_20240623.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG/1200px-Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/1200px-BHV_Christuskirche1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BHV_Christuskirche3.jpg/1200px-BHV_Christuskirche3.jpg
+image_srcset:
+  Holzhafen Bremerhaven ohne Wasser 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Holzhafen_Bremerhaven_ohne_Wasser_1.jpg/400px-Holzhafen_Bremerhaven_ohne_Wasser_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Holzhafen_Bremerhaven_ohne_Wasser_1.jpg/800px-Holzhafen_Bremerhaven_ohne_Wasser_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Holzhafen_Bremerhaven_ohne_Wasser_1.jpg/1200px-Holzhafen_Bremerhaven_ohne_Wasser_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Holzhafen_Bremerhaven_ohne_Wasser_1.jpg/1920px-Holzhafen_Bremerhaven_ohne_Wasser_1.jpg
+  Holzhf 20240623.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Holzhf_20240623.jpg/400px-Holzhf_20240623.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Holzhf_20240623.jpg/800px-Holzhf_20240623.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Holzhf_20240623.jpg/1200px-Holzhf_20240623.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Holzhf_20240623.jpg/1920px-Holzhf_20240623.jpg
+  Ehem. Gemeindezentrum (Christuskirche Geestemünde).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG/400px-Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG/800px-Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG/1200px-Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG/1920px-Ehem._Gemeindezentrum_(Christuskirche_Geestemünde).JPG
+  BHV Christuskirche1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/400px-BHV_Christuskirche1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/800px-BHV_Christuskirche1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/1200px-BHV_Christuskirche1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BHV_Christuskirche1.jpg/1920px-BHV_Christuskirche1.jpg
+  BHV Christuskirche3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BHV_Christuskirche3.jpg/400px-BHV_Christuskirche3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BHV_Christuskirche3.jpg/800px-BHV_Christuskirche3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BHV_Christuskirche3.jpg/1200px-BHV_Christuskirche3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BHV_Christuskirche3.jpg/1920px-BHV_Christuskirche3.jpg
 ---
 
 ## Overview

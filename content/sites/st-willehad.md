@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2323741"
 description: "In the heart of Wilhelmshaven, Germany, St. Willehad stands as a striking example of Gothic Revival architecture. This church, designed by architect Max..."
 images:
-  - "/images-sites/st-willehad/01-478d3975-1920w.webp"
-  - "/images-sites/st-willehad/02-a0efa1d3-1920w.webp"
-  - "/images-sites/st-willehad/03-89aa9f19-1920w.webp"
+  - "/images/st-willehad/01-478d3975-1920w.webp"
+  - "/images/st-willehad/02-a0efa1d3-1920w.webp"
+  - "/images/st-willehad/03-89aa9f19-1920w.webp"
 ---
 
 ## Overview

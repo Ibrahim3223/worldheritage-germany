@@ -1,19 +1,49 @@
 ---
-title: "Dominican Museum Rottweil"
+title: Dominican Museum Rottweil
 date: 2026-01-23
 draft: false
-description: "museum in Rottweil"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Rottweil
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.16927
 longitude: 8.62637
 images:
-  - "/images-sites/dominican-museum-rottweil/01-2794da58-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dominikanermuseum_Rottweil_08.JPG/1200px-Dominikanermuseum_Rottweil_08.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dominikanermuseum_Rottweil_19.JPG/1200px-Dominikanermuseum_Rottweil_19.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dominikanermuseum_Rottweil_21.JPG/1200px-Dominikanermuseum_Rottweil_21.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dominikanermuseum_Rottweil_23.JPG/1200px-Dominikanermuseum_Rottweil_23.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/1200px-Rottweil_Dominikanermuseum.jpg
+image_srcset:
+  Dominikanermuseum Rottweil 08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dominikanermuseum_Rottweil_08.JPG/400px-Dominikanermuseum_Rottweil_08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dominikanermuseum_Rottweil_08.JPG/800px-Dominikanermuseum_Rottweil_08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dominikanermuseum_Rottweil_08.JPG/1200px-Dominikanermuseum_Rottweil_08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dominikanermuseum_Rottweil_08.JPG/1920px-Dominikanermuseum_Rottweil_08.JPG
+  Dominikanermuseum Rottweil 19.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dominikanermuseum_Rottweil_19.JPG/400px-Dominikanermuseum_Rottweil_19.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dominikanermuseum_Rottweil_19.JPG/800px-Dominikanermuseum_Rottweil_19.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dominikanermuseum_Rottweil_19.JPG/1200px-Dominikanermuseum_Rottweil_19.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dominikanermuseum_Rottweil_19.JPG/1920px-Dominikanermuseum_Rottweil_19.JPG
+  Dominikanermuseum Rottweil 21.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dominikanermuseum_Rottweil_21.JPG/400px-Dominikanermuseum_Rottweil_21.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dominikanermuseum_Rottweil_21.JPG/800px-Dominikanermuseum_Rottweil_21.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dominikanermuseum_Rottweil_21.JPG/1200px-Dominikanermuseum_Rottweil_21.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dominikanermuseum_Rottweil_21.JPG/1920px-Dominikanermuseum_Rottweil_21.JPG
+  Dominikanermuseum Rottweil 23.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dominikanermuseum_Rottweil_23.JPG/400px-Dominikanermuseum_Rottweil_23.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dominikanermuseum_Rottweil_23.JPG/800px-Dominikanermuseum_Rottweil_23.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dominikanermuseum_Rottweil_23.JPG/1200px-Dominikanermuseum_Rottweil_23.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dominikanermuseum_Rottweil_23.JPG/1920px-Dominikanermuseum_Rottweil_23.JPG
+  Rottweil Dominikanermuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/400px-Rottweil_Dominikanermuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/800px-Rottweil_Dominikanermuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/1200px-Rottweil_Dominikanermuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Rottweil_Dominikanermuseum.jpg/1920px-Rottweil_Dominikanermuseum.jpg
 ---
 
 ## Overview

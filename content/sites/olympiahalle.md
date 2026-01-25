@@ -13,7 +13,7 @@ regions:
 latitude: 48.175
 longitude: 11.55
 images:
-  - "/images-sites/olympiahalle/01-a6c84b7d-800w.webp"
+  - "/images/olympiahalle/01-a6c84b7d-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "John-F.-Kennedy-Platz"
+title: John-F.-Kennedy-Platz
 date: 2026-01-23
 draft: false
-description: "square in Berlin-Schöneberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin-Schöneberg
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.485
 longitude: 13.344444444
 images:
-  - "/images-sites/john-f-kennedy-platz/01-aebe0ef8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rth_Schoeneberg_08_flea_market.jpg/1200px-Rth_Schoeneberg_08_flea_market.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg
+image_srcset:
+  Rth Schoeneberg 08 flea market.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rth_Schoeneberg_08_flea_market.jpg/400px-Rth_Schoeneberg_08_flea_market.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rth_Schoeneberg_08_flea_market.jpg/800px-Rth_Schoeneberg_08_flea_market.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rth_Schoeneberg_08_flea_market.jpg/1200px-Rth_Schoeneberg_08_flea_market.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rth_Schoeneberg_08_flea_market.jpg/1920px-Rth_Schoeneberg_08_flea_market.jpg
+  Wochenmarkt John-F.-Kennedy-Platz 2025 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg/400px-Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg/800px-Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg/1920px-Wochenmarkt_John-F.-Kennedy-Platz_2025_02.jpg
+  Wochenmarkt John-F.-Kennedy-Platz 2025 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg/400px-Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg/800px-Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg/1920px-Wochenmarkt_John-F.-Kennedy-Platz_2025_03.jpg
+  Wochenmarkt John-F.-Kennedy-Platz 2025 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg/400px-Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg/800px-Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg/1920px-Wochenmarkt_John-F.-Kennedy-Platz_2025_04.jpg
+  Wochenmarkt John-F.-Kennedy-Platz 2025 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg/400px-Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg/800px-Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg/1200px-Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg/1920px-Wochenmarkt_John-F.-Kennedy-Platz_2025_08.jpg
 ---
 
 ## Overview

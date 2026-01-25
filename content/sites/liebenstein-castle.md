@@ -21,7 +21,7 @@ longitude: 10.8527
 
 # Images
 images:
-  - "/images-sites/liebenstein-castle/01-fe49e87e-800w.webp"
+  - "/images/liebenstein-castle/01-fe49e87e-800w.webp"
 ---
 
 ## Overview

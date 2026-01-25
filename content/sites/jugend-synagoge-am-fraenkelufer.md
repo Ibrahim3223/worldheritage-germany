@@ -1,19 +1,49 @@
 ---
-title: "Jugend-Synagoge am Fraenkelufer"
+title: Jugend-Synagoge am Fraenkelufer
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4958
 longitude: 13.4169
 images:
-  - "/images-sites/jugend-synagoge-am-fraenkelufer/01-76c5f7ef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg/1200px-Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg/1200px-Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1200px-Orthodoxs_Synagoge_Fraenkelufer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg/1200px-Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg/1200px-Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg
+image_srcset:
+  Berlin, Kreuzberg, Fraenkelufer 10-16, Jugend-Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg/400px-Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg/800px-Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg/1200px-Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg/1920px-Berlin,_Kreuzberg,_Fraenkelufer_10-16,_Jugend-Synagoge.jpg
+  Gedenktafel Fraenkelufer 10 (Kreuz) Synagoge Kreuzberg2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg/400px-Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg/800px-Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg/1200px-Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg/1920px-Gedenktafel_Fraenkelufer_10_(Kreuz)_Synagoge_Kreuzberg2.jpg
+  Orthodoxs Synagoge Fraenkelufer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/400px-Orthodoxs_Synagoge_Fraenkelufer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/800px-Orthodoxs_Synagoge_Fraenkelufer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1200px-Orthodoxs_Synagoge_Fraenkelufer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Orthodoxs_Synagoge_Fraenkelufer.jpg/1920px-Orthodoxs_Synagoge_Fraenkelufer.jpg
+  Jüdische Synagoge Kotbusser Ufer um 1917.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg/400px-Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg/800px-Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg/1200px-Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg/1920px-Jüdische_Synagoge_Kotbusser_Ufer_um_1917.jpg
+  Bundesarchiv B 145 Bild-P047894, Berlin, Einweihung der Synagoge am Fraenkel-Ufer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg/400px-Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg/800px-Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg/1200px-Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg/1920px-Bundesarchiv_B_145_Bild-P047894,_Berlin,_Einweihung_der_Synagoge_am_Fraenkel-Ufer.jpg
 ---
 
 ## Overview

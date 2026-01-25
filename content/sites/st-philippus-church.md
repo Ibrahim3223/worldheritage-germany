@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1552836"
 description: "In the heart of Hannover, Germany, the St.-Philippus church stands as a striking example of modern architecture, inviting visitors to explore its unique..."
 images:
-  - "/images-sites/st-philippus-church/01-3c3b0a9d-1920w.webp"
-  - "/images-sites/st-philippus-church/02-5cc3928e-1920w.webp"
-  - "/images-sites/st-philippus-church/03-8ec35396-1920w.webp"
+  - "/images/st-philippus-church/01-3c3b0a9d-1920w.webp"
+  - "/images/st-philippus-church/02-5cc3928e-1920w.webp"
+  - "/images/st-philippus-church/03-8ec35396-1920w.webp"
 ---
 
 ## Overview

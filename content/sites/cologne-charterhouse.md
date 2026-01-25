@@ -1,19 +1,49 @@
 ---
-title: "Cologne Charterhouse"
+title: Cologne Charterhouse
 date: 2026-01-23
 draft: false
-description: "monastery in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9245
 longitude: 6.95563
 images:
-  - "/images-sites/cologne-charterhouse/01-660bf63e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_der_evangelischen_Kirche_Koeln.jpg/1200px-Haus_der_evangelischen_Kirche_Koeln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg/1200px-Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/1200px-Kartause_koeln_nordseite_2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg/1200px-Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg/1200px-Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg
+image_srcset:
+  Haus der evangelischen Kirche Koeln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_der_evangelischen_Kirche_Koeln.jpg/400px-Haus_der_evangelischen_Kirche_Koeln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_der_evangelischen_Kirche_Koeln.jpg/800px-Haus_der_evangelischen_Kirche_Koeln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_der_evangelischen_Kirche_Koeln.jpg/1200px-Haus_der_evangelischen_Kirche_Koeln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Haus_der_evangelischen_Kirche_Koeln.jpg/1920px-Haus_der_evangelischen_Kirche_Koeln.jpg
+  Stiftungsurkunde kartause koeln ohne siegel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg/400px-Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg/800px-Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg/1200px-Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg/1920px-Stiftungsurkunde_kartause_koeln_ohne_siegel.jpg
+  Kartause koeln nordseite 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/400px-Kartause_koeln_nordseite_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/800px-Kartause_koeln_nordseite_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/1200px-Kartause_koeln_nordseite_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kartause_koeln_nordseite_2009.jpg/1920px-Kartause_koeln_nordseite_2009.jpg
+  Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg/400px-Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg/800px-Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg/1200px-Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg/1920px-Ulrepforte-Köln-Weingärten-der-Kartäuser-1571.jpg
+  Peter blomevenna ausschnitt woensam christus am kreuz 1535.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg/400px-Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg/800px-Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg/1200px-Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg/1920px-Peter_blomevenna_ausschnitt_woensam_christus_am_kreuz_1535.jpg
 ---
 
 ## Overview

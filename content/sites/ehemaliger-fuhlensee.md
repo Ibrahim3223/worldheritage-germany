@@ -1,19 +1,49 @@
 ---
-title: "Ehemaliger Fuhlensee"
+title: Ehemaliger Fuhlensee
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1192
 longitude: 9.13417
 images:
-  - "/images-sites/ehemaliger-fuhlensee/01-79fcf749-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg/1200px-FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg/1200px-FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg/1200px-FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Naturschutzgebiet_Fuhlensee.JPG/1200px-Naturschutzgebiet_Fuhlensee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ehemaliger_Fuhlensee_um_1878.jpg/1200px-Ehemaliger_Fuhlensee_um_1878.jpg
+image_srcset:
+  FFH-Gebiet Ehemaliger Fuhlensee-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg/400px-FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg/800px-FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg/1200px-FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg/1920px-FFH-Gebiet_Ehemaliger_Fuhlensee-2.jpg
+  FFH-Gebiet Ehemaliger Fuhlensee-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg/400px-FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg/800px-FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg/1200px-FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg/1920px-FFH-Gebiet_Ehemaliger_Fuhlensee-4.jpg
+  FFH-Gebiet Ehemaliger Fuhlensee-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg/400px-FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg/800px-FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg/1200px-FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg/1920px-FFH-Gebiet_Ehemaliger_Fuhlensee-3.jpg
+  Naturschutzgebiet Fuhlensee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Naturschutzgebiet_Fuhlensee.JPG/400px-Naturschutzgebiet_Fuhlensee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Naturschutzgebiet_Fuhlensee.JPG/800px-Naturschutzgebiet_Fuhlensee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Naturschutzgebiet_Fuhlensee.JPG/1200px-Naturschutzgebiet_Fuhlensee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Naturschutzgebiet_Fuhlensee.JPG/1920px-Naturschutzgebiet_Fuhlensee.JPG
+  Ehemaliger Fuhlensee um 1878.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ehemaliger_Fuhlensee_um_1878.jpg/400px-Ehemaliger_Fuhlensee_um_1878.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ehemaliger_Fuhlensee_um_1878.jpg/800px-Ehemaliger_Fuhlensee_um_1878.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ehemaliger_Fuhlensee_um_1878.jpg/1200px-Ehemaliger_Fuhlensee_um_1878.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ehemaliger_Fuhlensee_um_1878.jpg/1920px-Ehemaliger_Fuhlensee_um_1878.jpg
 ---
 
 ## Overview

@@ -1,19 +1,51 @@
 ---
-title: "Duvenstedter Brook"
+title: Duvenstedter Brook
 date: 2026-01-23
 draft: false
-description: "nature reserve in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.7217
 longitude: 10.1667
 images:
-  - "/images-sites/duvenstedter-brook/01-17784e57-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg/1200px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg/1200px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook_Beim_Hexenstein.jpg/1200px-Duvenstedter_Brook_Beim_Hexenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Duvenstedter_brook_biotop.jpg/1200px-Duvenstedter_brook_biotop.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook..jpg/1200px-Duvenstedter_Brook..jpg
+image_srcset:
+  ? Hamburg, Naturschutzgebiet Duvenstedter Brook, Entwässerungsgraben, hinter den
+    Bäumen beginnt der Moorbereich, WDPA ID 4383.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg/400px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg/800px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg/1200px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg/1920px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Entwässerungsgraben,_hinter_den_Bäumen_beginnt_der_Moorbereich,_WDPA_ID_4383.jpg
+  ? Hamburg, Naturschutzgebiet Duvenstedter Brook, Moor und Birken-Moorwald, im Hintergrund
+    eine ausgetrocknete Moorschlenke, WDPA ID 4383.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg/400px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg/800px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg/1200px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg/1920px-Hamburg,_Naturschutzgebiet_Duvenstedter_Brook,_Moor_und_Birken-Moorwald,_im_Hintergrund_eine_ausgetrocknete_Moorschlenke,_WDPA_ID_4383.jpg
+  Duvenstedter Brook Beim Hexenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook_Beim_Hexenstein.jpg/400px-Duvenstedter_Brook_Beim_Hexenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook_Beim_Hexenstein.jpg/800px-Duvenstedter_Brook_Beim_Hexenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook_Beim_Hexenstein.jpg/1200px-Duvenstedter_Brook_Beim_Hexenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook_Beim_Hexenstein.jpg/1920px-Duvenstedter_Brook_Beim_Hexenstein.jpg
+  Duvenstedter brook biotop.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Duvenstedter_brook_biotop.jpg/400px-Duvenstedter_brook_biotop.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Duvenstedter_brook_biotop.jpg/800px-Duvenstedter_brook_biotop.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Duvenstedter_brook_biotop.jpg/1200px-Duvenstedter_brook_biotop.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Duvenstedter_brook_biotop.jpg/1920px-Duvenstedter_brook_biotop.jpg
+  Duvenstedter Brook..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook..jpg/400px-Duvenstedter_Brook..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook..jpg/800px-Duvenstedter_Brook..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook..jpg/1200px-Duvenstedter_Brook..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Duvenstedter_Brook..jpg/1920px-Duvenstedter_Brook..jpg
 ---
 
 ## Overview

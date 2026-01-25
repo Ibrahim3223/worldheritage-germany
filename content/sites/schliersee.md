@@ -13,9 +13,9 @@ regions:
 latitude: 47.722243055
 longitude: 11.862333888
 images:
-  - "/images-sites/schliersee/01-f04ae388-800w.webp"
-  - "/images-sites/schliersee/02-a966f2b2-800w.webp"
-  - "/images-sites/schliersee/03-93775cb0-800w.webp"
+  - "/images/schliersee/01-f04ae388-800w.webp"
+  - "/images/schliersee/02-a966f2b2-800w.webp"
+  - "/images/schliersee/03-93775cb0-800w.webp"
 ---
 
 ## Overview

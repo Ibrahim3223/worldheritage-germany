@@ -13,7 +13,7 @@ regions:
 latitude: 49.0159
 longitude: 12.0953
 images:
-  - "/images-sites/obermuenster/01-75c49e44-800w.webp"
+  - "/images/obermuenster/01-75c49e44-800w.webp"
 ---
 
 ## Overview

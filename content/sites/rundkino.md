@@ -13,8 +13,8 @@ regions:
 latitude: 51.0449
 longitude: 13.7369
 images:
-  - "/images-sites/rundkino/02-2c520cbb-800w.webp"
-  - "/images-sites/rundkino/03-8c917e70-800w.webp"
+  - "/images/rundkino/02-2c520cbb-800w.webp"
+  - "/images/rundkino/03-8c917e70-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 49.137
 longitude: 8.90663
 images:
-  - "/images-sites/new-synagogue/02-ff37b504-800w.webp"
-  - "/images-sites/new-synagogue/03-ab1ad081-800w.webp"
+  - "/images/new-synagogue/02-ff37b504-800w.webp"
+  - "/images/new-synagogue/03-ab1ad081-800w.webp"
 ---
 
 ## Overview

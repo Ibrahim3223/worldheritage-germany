@@ -21,7 +21,7 @@ longitude: 8.472694444
 
 # Images
 images:
-  - "/images-sites/waddensea-of-hamburg-biosphere-reserve/01-73d7b771-800w.webp"
+  - "/images/waddensea-of-hamburg-biosphere-reserve/01-73d7b771-800w.webp"
 ---
 
 ## Overview

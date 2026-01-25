@@ -13,7 +13,7 @@ regions:
 latitude: 49.964983782
 longitude: 10.201509933
 images:
-  - "/images-sites/kloster-heidenfeld/01-cbcfd01b-800w.webp"
+  - "/images/kloster-heidenfeld/01-cbcfd01b-800w.webp"
 ---
 
 ## Overview

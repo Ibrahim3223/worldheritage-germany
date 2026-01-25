@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Kirche Grävenwiesbach"
-site_name: "Evangelische Kirche Grävenwiesbach"
-slug: "evangelische-kirche-gravenwiesbach"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Kirche Grävenwiesbach
+site_name: Evangelische Kirche Grävenwiesbach
+slug: evangelische-kirche-gravenwiesbach
+region: North Rhine-Westphalia
 latitude: 50.3883
 longitude: 8.4575
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380721"
-description: "In the serene village of Grävenwiesbach, Germany, stands the Evangelische Kirche Grävenwiesbach, an architectural gem that captures the essence of neocl..."
+- church building
+- religious site
+wikidata_id: Q1380721
+description: In the serene village of Grävenwiesbach, Germany, stands the Evangelische
+  Kirche Grävenwiesbach, an architectural gem that captures the essence of neocl...
 images:
-  - "/images-sites/evangelische-kirche-gravenwiesbach/01-54efaea3-1920w.webp"
-  - "/images-sites/evangelische-kirche-gravenwiesbach/02-933a27eb-1920w.webp"
-  - "/images-sites/evangelische-kirche-gravenwiesbach/03-4da1a526-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Evang%20Kirche%20Graevenwiesbach.jpg/1200px-Evang%20Kirche%20Graevenwiesbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Evang_Kirche_Graevenwiesbach_innen.jpg/1200px-Evang_Kirche_Graevenwiesbach_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Evang_Kirche_Graevenwiesbach_von_Osten.jpg/1200px-Evang_Kirche_Graevenwiesbach_von_Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Orgelprospekt_Graevenwiesbach.jpg/1200px-Orgelprospekt_Graevenwiesbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1200px-Evang_Kirche_Graevenwiesbach.jpg
+image_srcset:
+  Evang%20Kirche%20Graevenwiesbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Evang%20Kirche%20Graevenwiesbach.jpg/400px-Evang%20Kirche%20Graevenwiesbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Evang%20Kirche%20Graevenwiesbach.jpg/800px-Evang%20Kirche%20Graevenwiesbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Evang%20Kirche%20Graevenwiesbach.jpg/1200px-Evang%20Kirche%20Graevenwiesbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Evang%20Kirche%20Graevenwiesbach.jpg/1920px-Evang%20Kirche%20Graevenwiesbach.jpg
+  Evang Kirche Graevenwiesbach innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Evang_Kirche_Graevenwiesbach_innen.jpg/400px-Evang_Kirche_Graevenwiesbach_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Evang_Kirche_Graevenwiesbach_innen.jpg/800px-Evang_Kirche_Graevenwiesbach_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Evang_Kirche_Graevenwiesbach_innen.jpg/1200px-Evang_Kirche_Graevenwiesbach_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Evang_Kirche_Graevenwiesbach_innen.jpg/1920px-Evang_Kirche_Graevenwiesbach_innen.jpg
+  Evang Kirche Graevenwiesbach von Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Evang_Kirche_Graevenwiesbach_von_Osten.jpg/400px-Evang_Kirche_Graevenwiesbach_von_Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Evang_Kirche_Graevenwiesbach_von_Osten.jpg/800px-Evang_Kirche_Graevenwiesbach_von_Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Evang_Kirche_Graevenwiesbach_von_Osten.jpg/1200px-Evang_Kirche_Graevenwiesbach_von_Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Evang_Kirche_Graevenwiesbach_von_Osten.jpg/1920px-Evang_Kirche_Graevenwiesbach_von_Osten.jpg
+  Orgelprospekt Graevenwiesbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Orgelprospekt_Graevenwiesbach.jpg/400px-Orgelprospekt_Graevenwiesbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Orgelprospekt_Graevenwiesbach.jpg/800px-Orgelprospekt_Graevenwiesbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Orgelprospekt_Graevenwiesbach.jpg/1200px-Orgelprospekt_Graevenwiesbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Orgelprospekt_Graevenwiesbach.jpg/1920px-Orgelprospekt_Graevenwiesbach.jpg
+  Evang Kirche Graevenwiesbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/400px-Evang_Kirche_Graevenwiesbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/800px-Evang_Kirche_Graevenwiesbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1200px-Evang_Kirche_Graevenwiesbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Evang_Kirche_Graevenwiesbach.jpg/1920px-Evang_Kirche_Graevenwiesbach.jpg
 ---
 
 ## Overview

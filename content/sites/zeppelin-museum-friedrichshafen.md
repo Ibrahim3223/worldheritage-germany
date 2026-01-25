@@ -13,9 +13,9 @@ regions:
 latitude: 47.65056
 longitude: 9.48303
 images:
-  - "/images-sites/zeppelin-museum-friedrichshafen/01-bfb4970d-800w.webp"
-  - "/images-sites/zeppelin-museum-friedrichshafen/02-1b38a0e5-800w.webp"
-  - "/images-sites/zeppelin-museum-friedrichshafen/03-31eee8a0-800w.webp"
+  - "/images/zeppelin-museum-friedrichshafen/01-bfb4970d-800w.webp"
+  - "/images/zeppelin-museum-friedrichshafen/02-1b38a0e5-800w.webp"
+  - "/images/zeppelin-museum-friedrichshafen/03-31eee8a0-800w.webp"
 ---
 
 ## Overview

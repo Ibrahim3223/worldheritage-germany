@@ -13,7 +13,7 @@ regions:
 latitude: 53.862777777
 longitude: 10.689166666
 images:
-  - "/images-sites/st-annes-museum-quarter/01-b635370a-800w.webp"
+  - "/images/st-annes-museum-quarter/01-b635370a-800w.webp"
 ---
 
 ## Overview

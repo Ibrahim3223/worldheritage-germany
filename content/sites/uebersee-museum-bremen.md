@@ -21,9 +21,9 @@ longitude: 8.81056
 
 # Images
 images:
-  - "/images-sites/uebersee-museum-bremen/01-c144a247-800w.webp"
-  - "/images-sites/uebersee-museum-bremen/02-7f606657-800w.webp"
-  - "/images-sites/uebersee-museum-bremen/03-8b85a894-800w.webp"
+  - "/images/uebersee-museum-bremen/01-c144a247-800w.webp"
+  - "/images/uebersee-museum-bremen/02-7f606657-800w.webp"
+  - "/images/uebersee-museum-bremen/03-8b85a894-800w.webp"
 ---
 
 ## Overview

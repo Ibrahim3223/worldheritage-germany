@@ -1,20 +1,49 @@
 ---
-title: "Berlin Frankfurter Allee station"
+title: Berlin Frankfurter Allee station
 date: 2026-01-23
 draft: false
-description: "Berlin train station for metro (U-Bahn) and S-Bahn"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: Berlin train station for metro (U-Bahn) and S-Bahn
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.514166666
 longitude: 13.474722222
 images:
-  - "/images-sites/berlin-frankfurter-allee-station/02-94a208da-800w.webp"
-  - "/images-sites/berlin-frankfurter-allee-station/03-3900338e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg/1200px-S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg
+image_srcset:
+  Berlin - S-Bahnhof Frankfurter Allee (14).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg/400px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg/800px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg/1920px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(14).jpg
+  Berlin - S-Bahnhof Frankfurter Allee (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg/400px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg/800px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg/1920px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(3).jpg
+  Berlin - S-Bahnhof Frankfurter Allee (31).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg/400px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg/800px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg/1920px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(31).jpg
+  Berlin - S-Bahnhof Frankfurter Allee (37).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg/400px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg/800px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg/1200px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg/1920px-Berlin_-_S-Bahnhof_Frankfurter_Allee_(37).jpg
+  S-Bahn Berlin Frankfurter Allee Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg/400px-S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg/800px-S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg/1200px-S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg/1920px-S-Bahn_Berlin_Frankfurter_Allee_Eingang.jpg
 ---
 
 ## Overview

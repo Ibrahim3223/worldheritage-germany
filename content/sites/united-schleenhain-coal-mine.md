@@ -13,8 +13,8 @@ regions:
 latitude: 51.1167
 longitude: 12.3833
 images:
-  - "/images-sites/united-schleenhain-coal-mine/02-f2f0a4a8-800w.webp"
-  - "/images-sites/united-schleenhain-coal-mine/03-c2ecc0d2-800w.webp"
+  - "/images/united-schleenhain-coal-mine/02-f2f0a4a8-800w.webp"
+  - "/images/united-schleenhain-coal-mine/03-c2ecc0d2-800w.webp"
 ---
 
 ## Overview

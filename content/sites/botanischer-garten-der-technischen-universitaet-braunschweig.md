@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten der Technischen Universität Braunschweig"
+title: Botanischer Garten der Technischen Universität Braunschweig
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.2708
 longitude: 10.5331
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-technischen-universitaet-braunschweig/01-6a13a613-800w.webp"
-  - "/images-sites/botanischer-garten-der-technischen-universitaet-braunschweig/02-5af123a9-800w.webp"
-  - "/images-sites/botanischer-garten-der-technischen-universitaet-braunschweig/03-96ecc57b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG/1200px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG/1200px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BS_bot_Garten_Wasserfall.JPG/1200px-BS_bot_Garten_Wasserfall.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BS_Botanisches_Institut.JPG/1200px-BS_Botanisches_Institut.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Botanischer_Garten_BS_-_Eingangsschild.jpg/1200px-Botanischer_Garten_BS_-_Eingangsschild.jpg
+image_srcset:
+  Botanischer Garten Braunschweig - Braunschweig, Germany - DSC04359.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG/400px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG/800px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG/1200px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG/1920px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04359.JPG
+  Botanischer Garten Braunschweig - Braunschweig, Germany - DSC04310.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG/400px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG/800px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG/1200px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG/1920px-Botanischer_Garten_Braunschweig_-_Braunschweig,_Germany_-_DSC04310.JPG
+  BS bot Garten Wasserfall.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BS_bot_Garten_Wasserfall.JPG/400px-BS_bot_Garten_Wasserfall.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BS_bot_Garten_Wasserfall.JPG/800px-BS_bot_Garten_Wasserfall.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BS_bot_Garten_Wasserfall.JPG/1200px-BS_bot_Garten_Wasserfall.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/BS_bot_Garten_Wasserfall.JPG/1920px-BS_bot_Garten_Wasserfall.JPG
+  BS Botanisches Institut.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BS_Botanisches_Institut.JPG/400px-BS_Botanisches_Institut.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BS_Botanisches_Institut.JPG/800px-BS_Botanisches_Institut.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BS_Botanisches_Institut.JPG/1200px-BS_Botanisches_Institut.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/BS_Botanisches_Institut.JPG/1920px-BS_Botanisches_Institut.JPG
+  Botanischer Garten BS - Eingangsschild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Botanischer_Garten_BS_-_Eingangsschild.jpg/400px-Botanischer_Garten_BS_-_Eingangsschild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Botanischer_Garten_BS_-_Eingangsschild.jpg/800px-Botanischer_Garten_BS_-_Eingangsschild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Botanischer_Garten_BS_-_Eingangsschild.jpg/1200px-Botanischer_Garten_BS_-_Eingangsschild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Botanischer_Garten_BS_-_Eingangsschild.jpg/1920px-Botanischer_Garten_BS_-_Eingangsschild.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Burg Neidenfels"
+title: Burg Neidenfels
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3917
 longitude: 8.0458
 images:
-  - "/images-sites/burg-neidenfels/01-6c8a7e0a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lichtenstein_Neidenfels_04.jpg/1200px-Lichtenstein_Neidenfels_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lichtenstein_Neidenfels_12.jpg/1200px-Lichtenstein_Neidenfels_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg/1200px-RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1200px-Neidenfels.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neidenfels_Treppenturm.jpg/1200px-Neidenfels_Treppenturm.jpg
+image_srcset:
+  Lichtenstein Neidenfels 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lichtenstein_Neidenfels_04.jpg/400px-Lichtenstein_Neidenfels_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lichtenstein_Neidenfels_04.jpg/800px-Lichtenstein_Neidenfels_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lichtenstein_Neidenfels_04.jpg/1200px-Lichtenstein_Neidenfels_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lichtenstein_Neidenfels_04.jpg/1920px-Lichtenstein_Neidenfels_04.jpg
+  Lichtenstein Neidenfels 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lichtenstein_Neidenfels_12.jpg/400px-Lichtenstein_Neidenfels_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lichtenstein_Neidenfels_12.jpg/800px-Lichtenstein_Neidenfels_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lichtenstein_Neidenfels_12.jpg/1200px-Lichtenstein_Neidenfels_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lichtenstein_Neidenfels_12.jpg/1920px-Lichtenstein_Neidenfels_12.jpg
+  RP Pfälzerwald Neidenfels Neidenfels 001 ji.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg/400px-RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg/800px-RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg/1200px-RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg/1920px-RP_Pfälzerwald_Neidenfels_Neidenfels_001_ji.jpg
+  Neidenfels.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/400px-Neidenfels.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/800px-Neidenfels.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1200px-Neidenfels.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Neidenfels.JPG/1920px-Neidenfels.JPG
+  Neidenfels Treppenturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neidenfels_Treppenturm.jpg/400px-Neidenfels_Treppenturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neidenfels_Treppenturm.jpg/800px-Neidenfels_Treppenturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neidenfels_Treppenturm.jpg/1200px-Neidenfels_Treppenturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Neidenfels_Treppenturm.jpg/1920px-Neidenfels_Treppenturm.jpg
 ---
 
 ## Overview

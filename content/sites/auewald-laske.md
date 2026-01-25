@@ -1,21 +1,49 @@
 ---
-title: "Auewald Laske"
+title: Auewald Laske
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3034
 longitude: 14.2304
 images:
-  - "/images-sites/auewald-laske/01-9e277ec8-800w.webp"
-  - "/images-sites/auewald-laske/02-2567ba8d-800w.webp"
-  - "/images-sites/auewald-laske/03-92d78d2b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lasker_Auenwald.jpg/1200px-Lasker_Auenwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lasker_Auenwald2.jpg/1200px-Lasker_Auenwald2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ralbitz-Rosenthal_Laske_Aerial.jpg/1200px-Ralbitz-Rosenthal_Laske_Aerial.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg/1200px-Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg/1200px-Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg
+image_srcset:
+  Lasker Auenwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lasker_Auenwald.jpg/400px-Lasker_Auenwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lasker_Auenwald.jpg/800px-Lasker_Auenwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lasker_Auenwald.jpg/1200px-Lasker_Auenwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lasker_Auenwald.jpg/1920px-Lasker_Auenwald.jpg
+  Lasker Auenwald2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lasker_Auenwald2.jpg/400px-Lasker_Auenwald2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lasker_Auenwald2.jpg/800px-Lasker_Auenwald2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lasker_Auenwald2.jpg/1200px-Lasker_Auenwald2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lasker_Auenwald2.jpg/1920px-Lasker_Auenwald2.jpg
+  Ralbitz-Rosenthal Laske Aerial.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ralbitz-Rosenthal_Laske_Aerial.jpg/400px-Ralbitz-Rosenthal_Laske_Aerial.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ralbitz-Rosenthal_Laske_Aerial.jpg/800px-Ralbitz-Rosenthal_Laske_Aerial.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ralbitz-Rosenthal_Laske_Aerial.jpg/1200px-Ralbitz-Rosenthal_Laske_Aerial.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ralbitz-Rosenthal_Laske_Aerial.jpg/1920px-Ralbitz-Rosenthal_Laske_Aerial.jpg
+  Łazk – swjaty křiž při dróze do Ralbic.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg/400px-Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg/800px-Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg/1200px-Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg/1920px-Łazk_–_swjaty_křiž_při_dróze_do_Ralbic.jpg
+  Łazk – modlerski stołp na kromje lěsa.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg/400px-Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg/800px-Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg/1200px-Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg/1920px-Łazk_–_modlerski_stołp_na_kromje_lěsa.jpg
 ---
 
 ## Overview

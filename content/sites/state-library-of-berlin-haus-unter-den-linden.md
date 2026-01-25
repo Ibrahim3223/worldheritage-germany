@@ -13,7 +13,7 @@ regions:
 latitude: 52.5178
 longitude: 13.3917
 images:
-  - "/images-sites/state-library-of-berlin-haus-unter-den-linden/01-6a55c59b-800w.webp"
+  - "/images/state-library-of-berlin-haus-unter-den-linden/01-6a55c59b-800w.webp"
 ---
 
 ## Overview

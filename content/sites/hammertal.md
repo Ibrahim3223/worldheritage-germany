@@ -1,19 +1,49 @@
 ---
-title: "Hammertal"
+title: Hammertal
 date: 2026-01-24
 draft: false
-description: "valley"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3892
 longitude: 7.26333
 images:
-  - "/images-sites/hammertal/01-048f9851-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hammertal_4_(2)_(Remscheid).jpg/1200px-Hammertal_4_(2)_(Remscheid).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg/1200px-Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg/1200px-STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lobach_bei_Hammertal_(3).jpg/1200px-Lobach_bei_Hammertal_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hammertal_3a_(Remscheid)_(1).jpg/1200px-Hammertal_3a_(Remscheid)_(1).jpg
+image_srcset:
+  Hammertal 4 (2) (Remscheid).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hammertal_4_(2)_(Remscheid).jpg/400px-Hammertal_4_(2)_(Remscheid).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hammertal_4_(2)_(Remscheid).jpg/800px-Hammertal_4_(2)_(Remscheid).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hammertal_4_(2)_(Remscheid).jpg/1200px-Hammertal_4_(2)_(Remscheid).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hammertal_4_(2)_(Remscheid).jpg/1920px-Hammertal_4_(2)_(Remscheid).jpg
+  Naturschutzgebiet Hammertal b. Hüttenhammer (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg/400px-Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg/800px-Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg/1200px-Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg/1920px-Naturschutzgebiet_Hammertal_b._Hüttenhammer_(1).jpg
+  STADTPARK - Frankenberger Kultur gGmbH Frankenberg Sa.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg/400px-STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg/800px-STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg/1200px-STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg/1920px-STADTPARK_-_Frankenberger_Kultur_gGmbH_Frankenberg_Sa.jpg
+  Lobach bei Hammertal (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lobach_bei_Hammertal_(3).jpg/400px-Lobach_bei_Hammertal_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lobach_bei_Hammertal_(3).jpg/800px-Lobach_bei_Hammertal_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lobach_bei_Hammertal_(3).jpg/1200px-Lobach_bei_Hammertal_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lobach_bei_Hammertal_(3).jpg/1920px-Lobach_bei_Hammertal_(3).jpg
+  Hammertal 3a (Remscheid) (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hammertal_3a_(Remscheid)_(1).jpg/400px-Hammertal_3a_(Remscheid)_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hammertal_3a_(Remscheid)_(1).jpg/800px-Hammertal_3a_(Remscheid)_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hammertal_3a_(Remscheid)_(1).jpg/1200px-Hammertal_3a_(Remscheid)_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hammertal_3a_(Remscheid)_(1).jpg/1920px-Hammertal_3a_(Remscheid)_(1).jpg
 ---
 
 ## Overview

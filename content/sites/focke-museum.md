@@ -1,21 +1,49 @@
 ---
-title: "Focke Museum"
+title: Focke Museum
 date: 2026-01-23
 draft: false
-description: "museum of history and the history of art for the city and state of Bremen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum of history and the history of art for the city and state of Bremen
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0925
 longitude: 8.86417
 images:
-  - "/images-sites/focke-museum/01-685fc3f9-800w.webp"
-  - "/images-sites/focke-museum/02-474a2816-800w.webp"
-  - "/images-sites/focke-museum/03-e14241f4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Türzieher_Bremen_1405.JPG/1200px-Türzieher_Bremen_1405.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FockeMuseum-08-1_retuschiert_dunkel.jpg/1200px-FockeMuseum-08-1_retuschiert_dunkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/FockeMuseum-10-1.jpg/1200px-FockeMuseum-10-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/1200px-FockeMuseum-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pfefferkorn_Bremen.png/1200px-Pfefferkorn_Bremen.png
+image_srcset:
+  Türzieher Bremen 1405.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Türzieher_Bremen_1405.JPG/400px-Türzieher_Bremen_1405.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Türzieher_Bremen_1405.JPG/800px-Türzieher_Bremen_1405.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Türzieher_Bremen_1405.JPG/1200px-Türzieher_Bremen_1405.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Türzieher_Bremen_1405.JPG/1920px-Türzieher_Bremen_1405.JPG
+  FockeMuseum-08-1 retuschiert dunkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FockeMuseum-08-1_retuschiert_dunkel.jpg/400px-FockeMuseum-08-1_retuschiert_dunkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FockeMuseum-08-1_retuschiert_dunkel.jpg/800px-FockeMuseum-08-1_retuschiert_dunkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FockeMuseum-08-1_retuschiert_dunkel.jpg/1200px-FockeMuseum-08-1_retuschiert_dunkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FockeMuseum-08-1_retuschiert_dunkel.jpg/1920px-FockeMuseum-08-1_retuschiert_dunkel.jpg
+  FockeMuseum-10-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/FockeMuseum-10-1.jpg/400px-FockeMuseum-10-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/FockeMuseum-10-1.jpg/800px-FockeMuseum-10-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/FockeMuseum-10-1.jpg/1200px-FockeMuseum-10-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/FockeMuseum-10-1.jpg/1920px-FockeMuseum-10-1.jpg
+  FockeMuseum-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/400px-FockeMuseum-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/800px-FockeMuseum-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/1200px-FockeMuseum-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FockeMuseum-01.jpg/1920px-FockeMuseum-01.jpg
+  Pfefferkorn Bremen.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pfefferkorn_Bremen.png/400px-Pfefferkorn_Bremen.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pfefferkorn_Bremen.png/800px-Pfefferkorn_Bremen.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pfefferkorn_Bremen.png/1200px-Pfefferkorn_Bremen.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pfefferkorn_Bremen.png/1920px-Pfefferkorn_Bremen.png
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Fichtelgebirge Museum"
+title: Fichtelgebirge Museum
 date: 2026-01-23
 draft: false
-description: "museum in Wunsiedel, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Wunsiedel, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.0389
 longitude: 12.0033
 images:
-  - "/images-sites/fichtelgebirge-museum/01-40139865-800w.webp"
-  - "/images-sites/fichtelgebirge-museum/02-1f0cbf8e-800w.webp"
-  - "/images-sites/fichtelgebirge-museum/03-d33c338a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wunsiedel,_Spitalhof_1-001.jpg/1200px-Wunsiedel,_Spitalhof_1-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wunsiedel,_Spitalhof_2-001.jpg/1200px-Wunsiedel,_Spitalhof_2-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg/1200px-Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Innenhof_FGM.jpg/1200px-Innenhof_FGM.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wohnzimmer_FGM.jpg/1200px-Wohnzimmer_FGM.jpg
+image_srcset:
+  Wunsiedel, Spitalhof 1-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wunsiedel,_Spitalhof_1-001.jpg/400px-Wunsiedel,_Spitalhof_1-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wunsiedel,_Spitalhof_1-001.jpg/800px-Wunsiedel,_Spitalhof_1-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wunsiedel,_Spitalhof_1-001.jpg/1200px-Wunsiedel,_Spitalhof_1-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wunsiedel,_Spitalhof_1-001.jpg/1920px-Wunsiedel,_Spitalhof_1-001.jpg
+  Wunsiedel, Spitalhof 2-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wunsiedel,_Spitalhof_2-001.jpg/400px-Wunsiedel,_Spitalhof_2-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wunsiedel,_Spitalhof_2-001.jpg/800px-Wunsiedel,_Spitalhof_2-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wunsiedel,_Spitalhof_2-001.jpg/1200px-Wunsiedel,_Spitalhof_2-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wunsiedel,_Spitalhof_2-001.jpg/1920px-Wunsiedel,_Spitalhof_2-001.jpg
+  Wunsiedel - Fichtelgebirgsmuseum - salon de coiffure.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg/400px-Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg/800px-Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg/1200px-Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg/1920px-Wunsiedel_-_Fichtelgebirgsmuseum_-_salon_de_coiffure.jpg
+  Innenhof FGM.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Innenhof_FGM.jpg/400px-Innenhof_FGM.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Innenhof_FGM.jpg/800px-Innenhof_FGM.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Innenhof_FGM.jpg/1200px-Innenhof_FGM.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Innenhof_FGM.jpg/1920px-Innenhof_FGM.jpg
+  Wohnzimmer FGM.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wohnzimmer_FGM.jpg/400px-Wohnzimmer_FGM.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wohnzimmer_FGM.jpg/800px-Wohnzimmer_FGM.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wohnzimmer_FGM.jpg/1200px-Wohnzimmer_FGM.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wohnzimmer_FGM.jpg/1920px-Wohnzimmer_FGM.jpg
 ---
 
 ## Overview

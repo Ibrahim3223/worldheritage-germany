@@ -21,7 +21,7 @@ longitude: 10.9197
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-walter/01-f9de0eb8-800w.webp"
+  - "/images/kunstmuseum-walter/01-f9de0eb8-800w.webp"
 ---
 
 ## Overview

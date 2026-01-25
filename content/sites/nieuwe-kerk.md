@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1979591"
 description: "In the heart of Emden, Germany, the Nieuwe Kerk stands as a remarkable example of baroque architecture, inviting visitors to explore its historical and ..."
 images:
-  - "/images-sites/nieuwe-kerk/01-3ffa8f6a-1920w.webp"
-  - "/images-sites/nieuwe-kerk/02-f34f1d7c-1920w.webp"
-  - "/images-sites/nieuwe-kerk/03-e5740ea3-1920w.webp"
+  - "/images/nieuwe-kerk/01-3ffa8f6a-1920w.webp"
+  - "/images/nieuwe-kerk/02-f34f1d7c-1920w.webp"
+  - "/images/nieuwe-kerk/03-e5740ea3-1920w.webp"
 ---
 
 ## Overview

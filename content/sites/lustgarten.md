@@ -13,7 +13,7 @@ regions:
 latitude: 52.518611111
 longitude: 13.399722222
 images:
-  - "/images-sites/lustgarten/01-c8cdffeb-800w.webp"
+  - "/images/lustgarten/01-c8cdffeb-800w.webp"
 ---
 
 ## Overview

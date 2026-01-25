@@ -1,24 +1,45 @@
 ---
-title: "Andreaskirche (Erfurt)"
-site_name: "Andreaskirche (Erfurt)"
-slug: "andreaskirche-erfurt"
-region: "Saxony-Anhalt"
-
-# Location
+title: Andreaskirche (Erfurt)
+site_name: Andreaskirche (Erfurt)
+slug: andreaskirche-erfurt
+region: Saxony-Anhalt
 latitude: 50.9804
 longitude: 11.0227
 regions:
-    - "Saxony-Anhalt"
-heritage_type: "cultural site"
+- Saxony-Anhalt
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q501528"
-description: "In the heart of Erfurt, the Andreaskirche stands as a remarkable example of Gothic architecture, capturing the attention of all who pass by. This church..."
+- church building
+- religious site
+wikidata_id: Q501528
+description: In the heart of Erfurt, the Andreaskirche stands as a remarkable example
+  of Gothic architecture, capturing the attention of all who pass by. This church...
 images:
-  - "/images-sites/andreaskirche-erfurt/01-f16b4833-1920w.webp"
-  - "/images-sites/andreaskirche-erfurt/02-16bd2cdc-1920w.webp"
-  - "/images-sites/andreaskirche-erfurt/03-a300f59c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1200px-Andreaskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erfurt,_Andreaskirche-002.jpg/1200px-Erfurt,_Andreaskirche-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portal_of_Andreaskirche,_Erfurt_01.jpg/1200px-Portal_of_Andreaskirche,_Erfurt_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portal_of_Andreaskirche,_Erfurt_02.jpg/1200px-Portal_of_Andreaskirche,_Erfurt_02.jpg
+image_srcset:
+  Andreaskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/400px-Andreaskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/800px-Andreaskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1200px-Andreaskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Andreaskirche.jpg/1920px-Andreaskirche.jpg
+  Erfurt, Andreaskirche-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erfurt,_Andreaskirche-002.jpg/400px-Erfurt,_Andreaskirche-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erfurt,_Andreaskirche-002.jpg/800px-Erfurt,_Andreaskirche-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erfurt,_Andreaskirche-002.jpg/1200px-Erfurt,_Andreaskirche-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Erfurt,_Andreaskirche-002.jpg/1920px-Erfurt,_Andreaskirche-002.jpg
+  Portal of Andreaskirche, Erfurt 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portal_of_Andreaskirche,_Erfurt_01.jpg/400px-Portal_of_Andreaskirche,_Erfurt_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portal_of_Andreaskirche,_Erfurt_01.jpg/800px-Portal_of_Andreaskirche,_Erfurt_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portal_of_Andreaskirche,_Erfurt_01.jpg/1200px-Portal_of_Andreaskirche,_Erfurt_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portal_of_Andreaskirche,_Erfurt_01.jpg/1920px-Portal_of_Andreaskirche,_Erfurt_01.jpg
+  Portal of Andreaskirche, Erfurt 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portal_of_Andreaskirche,_Erfurt_02.jpg/400px-Portal_of_Andreaskirche,_Erfurt_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portal_of_Andreaskirche,_Erfurt_02.jpg/800px-Portal_of_Andreaskirche,_Erfurt_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portal_of_Andreaskirche,_Erfurt_02.jpg/1200px-Portal_of_Andreaskirche,_Erfurt_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Portal_of_Andreaskirche,_Erfurt_02.jpg/1920px-Portal_of_Andreaskirche,_Erfurt_02.jpg
 ---
 
 ## Overview

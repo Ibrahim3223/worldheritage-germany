@@ -1,29 +1,49 @@
 ---
-title: "Hohle Fels"
+title: Hohle Fels
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.379166666
 longitude: 9.755555555
-
-# Images
 images:
-  - "/images-sites/hohle-fels/01-b4d327a9-800w.webp"
-  - "/images-sites/hohle-fels/02-6d5b6b0e-800w.webp"
-  - "/images-sites/hohle-fels/03-f7b397cd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Der_Hohle_Fels_im_Herbst.jpg/1200px-Der_Hohle_Fels_im_Herbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Menardi_Cocoon1.jpg/1200px-Meta_Menardi_Cocoon1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Meta_Menardi_Cocoon3.jpg/1200px-Meta_Menardi_Cocoon3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meta_Menardi_Cocoon2.jpg/1200px-Meta_Menardi_Cocoon2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hohler_Fels.jpg/1200px-Hohler_Fels.jpg
+image_srcset:
+  Der Hohle Fels im Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Der_Hohle_Fels_im_Herbst.jpg/400px-Der_Hohle_Fels_im_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Der_Hohle_Fels_im_Herbst.jpg/800px-Der_Hohle_Fels_im_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Der_Hohle_Fels_im_Herbst.jpg/1200px-Der_Hohle_Fels_im_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Der_Hohle_Fels_im_Herbst.jpg/1920px-Der_Hohle_Fels_im_Herbst.jpg
+  Meta Menardi Cocoon1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Menardi_Cocoon1.jpg/400px-Meta_Menardi_Cocoon1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Menardi_Cocoon1.jpg/800px-Meta_Menardi_Cocoon1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Menardi_Cocoon1.jpg/1200px-Meta_Menardi_Cocoon1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Menardi_Cocoon1.jpg/1920px-Meta_Menardi_Cocoon1.jpg
+  Meta Menardi Cocoon3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Meta_Menardi_Cocoon3.jpg/400px-Meta_Menardi_Cocoon3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Meta_Menardi_Cocoon3.jpg/800px-Meta_Menardi_Cocoon3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Meta_Menardi_Cocoon3.jpg/1200px-Meta_Menardi_Cocoon3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Meta_Menardi_Cocoon3.jpg/1920px-Meta_Menardi_Cocoon3.jpg
+  Meta Menardi Cocoon2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meta_Menardi_Cocoon2.jpg/400px-Meta_Menardi_Cocoon2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meta_Menardi_Cocoon2.jpg/800px-Meta_Menardi_Cocoon2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meta_Menardi_Cocoon2.jpg/1200px-Meta_Menardi_Cocoon2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meta_Menardi_Cocoon2.jpg/1920px-Meta_Menardi_Cocoon2.jpg
+  Hohler Fels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hohler_Fels.jpg/400px-Hohler_Fels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hohler_Fels.jpg/800px-Hohler_Fels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hohler_Fels.jpg/1200px-Hohler_Fels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hohler_Fels.jpg/1920px-Hohler_Fels.jpg
 ---
 
 ## Overview

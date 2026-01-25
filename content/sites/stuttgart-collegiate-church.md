@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q321819"
 description: "In the heart of Stuttgart, the Collegiate Church stands as a striking example of Gothic architecture, captivating visitors with its intricate details an..."
 images:
-  - "/images-sites/stuttgart-collegiate-church/01-60851ece-1920w.webp"
-  - "/images-sites/stuttgart-collegiate-church/02-c89b8bda-1920w.webp"
-  - "/images-sites/stuttgart-collegiate-church/03-944a4ffb-1920w.webp"
+  - "/images/stuttgart-collegiate-church/01-60851ece-1920w.webp"
+  - "/images/stuttgart-collegiate-church/02-c89b8bda-1920w.webp"
+  - "/images/stuttgart-collegiate-church/03-944a4ffb-1920w.webp"
 ---
 
 ## Overview

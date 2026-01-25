@@ -21,7 +21,7 @@ longitude: 14.2571
 
 # Images
 images:
-  - "/images-sites/neuer-wildenstein/01-fc987e1d-800w.webp"
+  - "/images/neuer-wildenstein/01-fc987e1d-800w.webp"
 ---
 
 ## Overview

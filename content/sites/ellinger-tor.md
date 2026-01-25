@@ -1,19 +1,49 @@
 ---
-title: "Ellinger Tor"
+title: Ellinger Tor
 date: 2026-01-23
 draft: false
-description: "city gate"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: city gate
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 49.032509196
 longitude: 10.971497436
 images:
-  - "/images-sites/ellinger-tor/01-a2b13bec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg,_Ellinger_Tor-006.jpg/1200px-Weißenburg,_Ellinger_Tor-006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Weißenburg,_Ellinger_Tor-008.jpg/1200px-Weißenburg,_Ellinger_Tor-008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/1200px-Ellingen_Tor.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/1200px-Weissenburg-003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg/1200px-Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg
+image_srcset:
+  Weißenburg, Ellinger Tor-006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg,_Ellinger_Tor-006.jpg/400px-Weißenburg,_Ellinger_Tor-006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg,_Ellinger_Tor-006.jpg/800px-Weißenburg,_Ellinger_Tor-006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg,_Ellinger_Tor-006.jpg/1200px-Weißenburg,_Ellinger_Tor-006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Weißenburg,_Ellinger_Tor-006.jpg/1920px-Weißenburg,_Ellinger_Tor-006.jpg
+  Weißenburg, Ellinger Tor-008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Weißenburg,_Ellinger_Tor-008.jpg/400px-Weißenburg,_Ellinger_Tor-008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Weißenburg,_Ellinger_Tor-008.jpg/800px-Weißenburg,_Ellinger_Tor-008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Weißenburg,_Ellinger_Tor-008.jpg/1200px-Weißenburg,_Ellinger_Tor-008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Weißenburg,_Ellinger_Tor-008.jpg/1920px-Weißenburg,_Ellinger_Tor-008.jpg
+  Ellingen Tor.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/400px-Ellingen_Tor.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/800px-Ellingen_Tor.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/1200px-Ellingen_Tor.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ellingen_Tor.JPG/1920px-Ellingen_Tor.JPG
+  Weissenburg-003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/400px-Weissenburg-003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/800px-Weissenburg-003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/1200px-Weissenburg-003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Weissenburg-003.JPG/1920px-Weissenburg-003.JPG
+  Weißenburg, Ellinger Tor, Arkaden, 1.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg/400px-Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg/800px-Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg/1200px-Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg/1920px-Weißenburg,_Ellinger_Tor,_Arkaden,_1.jpeg
 ---
 
 ## Overview

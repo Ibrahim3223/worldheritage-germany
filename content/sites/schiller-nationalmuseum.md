@@ -13,7 +13,7 @@ regions:
 latitude: 48.9356
 longitude: 9.25485
 images:
-  - "/images-sites/schiller-nationalmuseum/01-70bdc847-800w.webp"
+  - "/images/schiller-nationalmuseum/01-70bdc847-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.4529
 longitude: 13.5197
 images:
-  - "/images-sites/nazi-forced-labour-documentation-centre/01-8e3564fb-800w.webp"
-  - "/images-sites/nazi-forced-labour-documentation-centre/02-bda9038a-800w.webp"
-  - "/images-sites/nazi-forced-labour-documentation-centre/03-7d092a8b-800w.webp"
+  - "/images/nazi-forced-labour-documentation-centre/01-8e3564fb-800w.webp"
+  - "/images/nazi-forced-labour-documentation-centre/02-bda9038a-800w.webp"
+  - "/images/nazi-forced-labour-documentation-centre/03-7d092a8b-800w.webp"
 ---
 
 ## Overview

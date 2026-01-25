@@ -13,7 +13,7 @@ regions:
 latitude: 52.535381
 longitude: 13.418598
 images:
-  - "/images-sites/rykestrasse-synagogue/01-176a26a4-800w.webp"
+  - "/images/rykestrasse-synagogue/01-176a26a4-800w.webp"
 ---
 
 ## Overview

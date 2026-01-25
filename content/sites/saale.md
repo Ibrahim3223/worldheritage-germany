@@ -13,7 +13,7 @@ regions:
 latitude: 51.9547
 longitude: 11.9139
 images:
-  - "/images-sites/saale/01-9730acc8-800w.webp"
+  - "/images/saale/01-9730acc8-800w.webp"
 ---
 
 ## Overview

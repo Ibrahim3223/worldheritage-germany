@@ -1,19 +1,49 @@
 ---
-title: "Beuerberg Abbey"
+title: Beuerberg Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.828867587
 longitude: 11.412196353
 images:
-  - "/images-sites/beuerberg-abbey/01-27e352cb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg/1200px-Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg/1200px-Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg/1200px-Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg/1200px-Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Beuerberg_(Eurasburg)_Kloster_262.jpg/1200px-Beuerberg_(Eurasburg)_Kloster_262.jpg
+image_srcset:
+  Apotheke Kloster Beuerberg Eurasburg-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg/400px-Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg/800px-Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg/1200px-Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg/1920px-Apotheke_Kloster_Beuerberg_Eurasburg-2.jpg
+  Kloster Beuerberg Brunnen Eurasburg-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg/400px-Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg/800px-Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg/1200px-Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg/1920px-Kloster_Beuerberg_Brunnen_Eurasburg-3.jpg
+  Kloster Beuerberg Brunnen Eurasburg-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg/400px-Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg/800px-Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg/1200px-Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg/1920px-Kloster_Beuerberg_Brunnen_Eurasburg-4.jpg
+  Innenhof Kloster Beuerberg Eurasburg-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg/400px-Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg/800px-Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg/1200px-Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg/1920px-Innenhof_Kloster_Beuerberg_Eurasburg-5.jpg
+  Beuerberg (Eurasburg) Kloster 262.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Beuerberg_(Eurasburg)_Kloster_262.jpg/400px-Beuerberg_(Eurasburg)_Kloster_262.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Beuerberg_(Eurasburg)_Kloster_262.jpg/800px-Beuerberg_(Eurasburg)_Kloster_262.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Beuerberg_(Eurasburg)_Kloster_262.jpg/1200px-Beuerberg_(Eurasburg)_Kloster_262.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Beuerberg_(Eurasburg)_Kloster_262.jpg/1920px-Beuerberg_(Eurasburg)_Kloster_262.jpg
 ---
 
 ## Overview

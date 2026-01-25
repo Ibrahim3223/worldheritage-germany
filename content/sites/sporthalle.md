@@ -13,7 +13,7 @@ regions:
 latitude: 50.94595
 longitude: 6.979559
 images:
-  - "/images-sites/sporthalle/01-d33fa32f-800w.webp"
+  - "/images/sporthalle/01-d33fa32f-800w.webp"
 ---
 
 ## Overview

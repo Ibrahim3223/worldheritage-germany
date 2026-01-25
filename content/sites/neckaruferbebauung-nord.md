@@ -13,9 +13,9 @@ regions:
 latitude: 49.495
 longitude: 8.47611
 images:
-  - "/images-sites/neckaruferbebauung-nord/01-575303ed-800w.webp"
-  - "/images-sites/neckaruferbebauung-nord/02-8f29414f-800w.webp"
-  - "/images-sites/neckaruferbebauung-nord/03-5e5aaa6f-800w.webp"
+  - "/images/neckaruferbebauung-nord/01-575303ed-800w.webp"
+  - "/images/neckaruferbebauung-nord/02-8f29414f-800w.webp"
+  - "/images/neckaruferbebauung-nord/03-5e5aaa6f-800w.webp"
 ---
 
 ## Overview

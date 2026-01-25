@@ -21,7 +21,7 @@ longitude: 6.19361
 
 # Images
 images:
-  - "/images-sites/varnenum/01-a01ca7b4-800w.webp"
+  - "/images/varnenum/01-a01ca7b4-800w.webp"
 ---
 
 ## Overview

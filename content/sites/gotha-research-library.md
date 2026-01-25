@@ -1,19 +1,49 @@
 ---
-title: "Gotha Research Library"
+title: Gotha Research Library
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 50.94605
 longitude: 10.70485
 images:
-  - "/images-sites/gotha-research-library/01-d92b490d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/GLAM_Gotha_Forschungsbibliothek-6823.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6823.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/GLAM_Gotha_Forschungsbibliothek-6921.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6921.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GLAM_Gotha_Forschungsbibliothek-6937.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6937.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GLAM_Gotha_Forschungsbibliothek-6984.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6984.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GLAM_Gotha_Forschungsbibliothek-6820.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6820.jpg
+image_srcset:
+  GLAM Gotha Forschungsbibliothek-6823.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/GLAM_Gotha_Forschungsbibliothek-6823.jpg/400px-GLAM_Gotha_Forschungsbibliothek-6823.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/GLAM_Gotha_Forschungsbibliothek-6823.jpg/800px-GLAM_Gotha_Forschungsbibliothek-6823.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/GLAM_Gotha_Forschungsbibliothek-6823.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6823.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/GLAM_Gotha_Forschungsbibliothek-6823.jpg/1920px-GLAM_Gotha_Forschungsbibliothek-6823.jpg
+  GLAM Gotha Forschungsbibliothek-6921.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/GLAM_Gotha_Forschungsbibliothek-6921.jpg/400px-GLAM_Gotha_Forschungsbibliothek-6921.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/GLAM_Gotha_Forschungsbibliothek-6921.jpg/800px-GLAM_Gotha_Forschungsbibliothek-6921.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/GLAM_Gotha_Forschungsbibliothek-6921.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6921.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/GLAM_Gotha_Forschungsbibliothek-6921.jpg/1920px-GLAM_Gotha_Forschungsbibliothek-6921.jpg
+  GLAM Gotha Forschungsbibliothek-6937.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GLAM_Gotha_Forschungsbibliothek-6937.jpg/400px-GLAM_Gotha_Forschungsbibliothek-6937.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GLAM_Gotha_Forschungsbibliothek-6937.jpg/800px-GLAM_Gotha_Forschungsbibliothek-6937.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GLAM_Gotha_Forschungsbibliothek-6937.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6937.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GLAM_Gotha_Forschungsbibliothek-6937.jpg/1920px-GLAM_Gotha_Forschungsbibliothek-6937.jpg
+  GLAM Gotha Forschungsbibliothek-6984.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GLAM_Gotha_Forschungsbibliothek-6984.jpg/400px-GLAM_Gotha_Forschungsbibliothek-6984.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GLAM_Gotha_Forschungsbibliothek-6984.jpg/800px-GLAM_Gotha_Forschungsbibliothek-6984.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GLAM_Gotha_Forschungsbibliothek-6984.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6984.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/GLAM_Gotha_Forschungsbibliothek-6984.jpg/1920px-GLAM_Gotha_Forschungsbibliothek-6984.jpg
+  GLAM Gotha Forschungsbibliothek-6820.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GLAM_Gotha_Forschungsbibliothek-6820.jpg/400px-GLAM_Gotha_Forschungsbibliothek-6820.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GLAM_Gotha_Forschungsbibliothek-6820.jpg/800px-GLAM_Gotha_Forschungsbibliothek-6820.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GLAM_Gotha_Forschungsbibliothek-6820.jpg/1200px-GLAM_Gotha_Forschungsbibliothek-6820.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/GLAM_Gotha_Forschungsbibliothek-6820.jpg/1920px-GLAM_Gotha_Forschungsbibliothek-6820.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.8919
 longitude: 10.3175
 images:
-  - "/images-sites/traventhal-house/01-7685d015-800w.webp"
+  - "/images/traventhal-house/01-7685d015-800w.webp"
 ---
 
 ## Overview

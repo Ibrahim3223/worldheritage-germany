@@ -1,24 +1,45 @@
 ---
-title: "Barbara-Kirche"
-site_name: "Barbara-Kirche"
-slug: "barbara-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Barbara-Kirche
+site_name: Barbara-Kirche
+slug: barbara-kirche
+region: Lower Saxony
 latitude: 53.36872916666667
 longitude: 7.640070277777777
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q807321"
-description: "In the heart of Großefehn, Germany, the Barbara-Kirche stands as a remarkable example of Romanesque architecture, capturing the essence of historical cr..."
+- church building
+- religious site
+wikidata_id: Q807321
+description: In the heart of Großefehn, Germany, the Barbara-Kirche stands as a remarkable
+  example of Romanesque architecture, capturing the essence of historical cr...
 images:
-  - "/images-sites/barbara-kirche/01-868b540d-1920w.webp"
-  - "/images-sites/barbara-kirche/02-00b99a5a-1920w.webp"
-  - "/images-sites/barbara-kirche/03-9ef03360-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1200px-ChurchStrackholt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barbara-Kirche_(Strackholt)_aussen_4.jpg/1200px-Barbara-Kirche_(Strackholt)_aussen_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barbara-Kirche_(Strackholt)_aussen_6.jpg/1200px-Barbara-Kirche_(Strackholt)_aussen_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barbara-Kirche_(Strackholt)_innen_3.jpg/1200px-Barbara-Kirche_(Strackholt)_innen_3.jpg
+image_srcset:
+  ChurchStrackholt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/400px-ChurchStrackholt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/800px-ChurchStrackholt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1200px-ChurchStrackholt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ChurchStrackholt.JPG/1920px-ChurchStrackholt.JPG
+  Barbara-Kirche (Strackholt) aussen 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barbara-Kirche_(Strackholt)_aussen_4.jpg/400px-Barbara-Kirche_(Strackholt)_aussen_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barbara-Kirche_(Strackholt)_aussen_4.jpg/800px-Barbara-Kirche_(Strackholt)_aussen_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barbara-Kirche_(Strackholt)_aussen_4.jpg/1200px-Barbara-Kirche_(Strackholt)_aussen_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Barbara-Kirche_(Strackholt)_aussen_4.jpg/1920px-Barbara-Kirche_(Strackholt)_aussen_4.jpg
+  Barbara-Kirche (Strackholt) aussen 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barbara-Kirche_(Strackholt)_aussen_6.jpg/400px-Barbara-Kirche_(Strackholt)_aussen_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barbara-Kirche_(Strackholt)_aussen_6.jpg/800px-Barbara-Kirche_(Strackholt)_aussen_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barbara-Kirche_(Strackholt)_aussen_6.jpg/1200px-Barbara-Kirche_(Strackholt)_aussen_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barbara-Kirche_(Strackholt)_aussen_6.jpg/1920px-Barbara-Kirche_(Strackholt)_aussen_6.jpg
+  Barbara-Kirche (Strackholt) innen 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barbara-Kirche_(Strackholt)_innen_3.jpg/400px-Barbara-Kirche_(Strackholt)_innen_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barbara-Kirche_(Strackholt)_innen_3.jpg/800px-Barbara-Kirche_(Strackholt)_innen_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barbara-Kirche_(Strackholt)_innen_3.jpg/1200px-Barbara-Kirche_(Strackholt)_innen_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barbara-Kirche_(Strackholt)_innen_3.jpg/1920px-Barbara-Kirche_(Strackholt)_innen_3.jpg
 ---
 
 ## Overview

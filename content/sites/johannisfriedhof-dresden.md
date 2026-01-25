@@ -1,19 +1,49 @@
 ---
-title: "Johannisfriedhof, Dresden"
+title: Johannisfriedhof, Dresden
 date: 2026-01-23
 draft: false
-description: "cemetery in Dresden, Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Dresden, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0366
 longitude: 13.8133
 images:
-  - "/images-sites/johannisfriedhof-dresden/01-1e1129fb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/1200px-19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg/1200px-19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/1200px-19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Johannisfriedhof_dresden,_trauerhalle_-_d.jpg/1200px-Johannisfriedhof_dresden,_trauerhalle_-_d.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg/1200px-20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg
+image_srcset:
+  19880406226NR Dresden-Tolkewitz Johannisfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/400px-19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/800px-19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/1200px-19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/1920px-19880406226NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+  19880406250NR Dresden-Tolkewitz Johannisfriedhof Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg/400px-19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg/800px-19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg/1200px-19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg/1920px-19880406250NR_Dresden-Tolkewitz_Johannisfriedhof_Kapelle.jpg
+  19880406200NR Dresden-Tolkewitz Johannisfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/400px-19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/800px-19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/1200px-19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg/1920px-19880406200NR_Dresden-Tolkewitz_Johannisfriedhof.jpg
+  Johannisfriedhof dresden, trauerhalle - d.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Johannisfriedhof_dresden,_trauerhalle_-_d.jpg/400px-Johannisfriedhof_dresden,_trauerhalle_-_d.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Johannisfriedhof_dresden,_trauerhalle_-_d.jpg/800px-Johannisfriedhof_dresden,_trauerhalle_-_d.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Johannisfriedhof_dresden,_trauerhalle_-_d.jpg/1200px-Johannisfriedhof_dresden,_trauerhalle_-_d.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Johannisfriedhof_dresden,_trauerhalle_-_d.jpg/1920px-Johannisfriedhof_dresden,_trauerhalle_-_d.jpg
+  20060512030DR Dresden-Tolkewitz Johannisfriedhof Grab Liebscher+Noetzel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg/400px-20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg/800px-20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg/1200px-20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg/1920px-20060512030DR_Dresden-Tolkewitz_Johannisfriedhof_Grab_Liebscher+Noetzel.jpg
 ---
 
 ## Overview

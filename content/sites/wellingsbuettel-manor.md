@@ -13,7 +13,7 @@ regions:
 latitude: 53.6427
 longitude: 10.0716
 images:
-  - "/images-sites/wellingsbuettel-manor/01-f848e17c-800w.webp"
+  - "/images/wellingsbuettel-manor/01-f848e17c-800w.webp"
 ---
 
 ## Overview

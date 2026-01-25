@@ -1,19 +1,37 @@
 ---
-title: "Jewish-Medieval Heritage of Erfurt"
+title: Jewish-Medieval Heritage of Erfurt
 date: 2026-01-23
 draft: false
-description: "medieval Jewish buildings in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: medieval Jewish buildings in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.978644
 longitude: 11.029246
 images:
-  - "/images-sites/jewish-medieval-heritage-of-erfurt/01-28b5c6e9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg/1200px-Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/1200px-Erfurt_Alte_Synagoge_von_NW.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/1200px-Alte_Synagoge_Erfurt.JPG
+image_srcset:
+  Benediktsplatz 1, Steinernes Haus Erfurt 20200909 0115.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg/400px-Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg/800px-Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg/1200px-Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg/1920px-Benediktsplatz_1,_Steinernes_Haus_Erfurt_20200909_0115.jpg
+  Erfurt Alte Synagoge von NW.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/400px-Erfurt_Alte_Synagoge_von_NW.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/800px-Erfurt_Alte_Synagoge_von_NW.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/1200px-Erfurt_Alte_Synagoge_von_NW.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erfurt_Alte_Synagoge_von_NW.JPG/1920px-Erfurt_Alte_Synagoge_von_NW.JPG
+  Alte Synagoge Erfurt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/400px-Alte_Synagoge_Erfurt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/800px-Alte_Synagoge_Erfurt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/1200px-Alte_Synagoge_Erfurt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alte_Synagoge_Erfurt.JPG/1920px-Alte_Synagoge_Erfurt.JPG
 ---
 
 ## Overview

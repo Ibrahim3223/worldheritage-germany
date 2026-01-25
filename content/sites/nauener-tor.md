@@ -13,7 +13,7 @@ regions:
 latitude: 52.4035
 longitude: 13.0578
 images:
-  - "/images-sites/nauener-tor/01-4891d88b-800w.webp"
+  - "/images/nauener-tor/01-4891d88b-800w.webp"
 ---
 
 ## Overview

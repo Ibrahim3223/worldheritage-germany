@@ -1,27 +1,49 @@
 ---
-title: "Dairy in the New Garden"
+title: Dairy in the New Garden
 date: 2026-01-23
 draft: false
-description: "building in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: building in Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.4219
 longitude: 13.0697
-
-# Images
 images:
-  - "/images-sites/dairy-in-the-new-garden/01-61bba350-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meierei_im_Neuen_Garten_1.jpg/1200px-Meierei_im_Neuen_Garten_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meierei_im_Neuen_Garten_2.jpg/1200px-Meierei_im_Neuen_Garten_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Meierei_im_Neuen_Garten_4.jpg/1200px-Meierei_im_Neuen_Garten_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1200px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Meierei_im_Neuen_Garten_3.jpg/1200px-Meierei_im_Neuen_Garten_3.jpg
+image_srcset:
+  Meierei im Neuen Garten 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meierei_im_Neuen_Garten_1.jpg/400px-Meierei_im_Neuen_Garten_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meierei_im_Neuen_Garten_1.jpg/800px-Meierei_im_Neuen_Garten_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meierei_im_Neuen_Garten_1.jpg/1200px-Meierei_im_Neuen_Garten_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Meierei_im_Neuen_Garten_1.jpg/1920px-Meierei_im_Neuen_Garten_1.jpg
+  Meierei im Neuen Garten 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meierei_im_Neuen_Garten_2.jpg/400px-Meierei_im_Neuen_Garten_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meierei_im_Neuen_Garten_2.jpg/800px-Meierei_im_Neuen_Garten_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meierei_im_Neuen_Garten_2.jpg/1200px-Meierei_im_Neuen_Garten_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meierei_im_Neuen_Garten_2.jpg/1920px-Meierei_im_Neuen_Garten_2.jpg
+  Meierei im Neuen Garten 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Meierei_im_Neuen_Garten_4.jpg/400px-Meierei_im_Neuen_Garten_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Meierei_im_Neuen_Garten_4.jpg/800px-Meierei_im_Neuen_Garten_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Meierei_im_Neuen_Garten_4.jpg/1200px-Meierei_im_Neuen_Garten_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Meierei_im_Neuen_Garten_4.jpg/1920px-Meierei_im_Neuen_Garten_4.jpg
+  Alte Meierei 2 Neuer Garten Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/400px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/800px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1200px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alte_Meierei_2_Neuer_Garten_Potsdam.jpg/1920px-Alte_Meierei_2_Neuer_Garten_Potsdam.jpg
+  Meierei im Neuen Garten 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Meierei_im_Neuen_Garten_3.jpg/400px-Meierei_im_Neuen_Garten_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Meierei_im_Neuen_Garten_3.jpg/800px-Meierei_im_Neuen_Garten_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Meierei_im_Neuen_Garten_3.jpg/1200px-Meierei_im_Neuen_Garten_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Meierei_im_Neuen_Garten_3.jpg/1920px-Meierei_im_Neuen_Garten_3.jpg
 ---
 
 ## Overview

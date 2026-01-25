@@ -1,19 +1,49 @@
 ---
-title: "Harkort’sche Fabrik"
+title: Harkort’sche Fabrik
 date: 2026-01-23
 draft: false
-description: "factory"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: factory
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 51.344722222
 longitude: 7.408333333
 images:
-  - "/images-sites/harkortsche-fabrik/01-216e81da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hagen,_Harkort'sche_Fabrik_8.jpg/1200px-Hagen,_Harkort'sche_Fabrik_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blick_auf_die_Harkort'sche_Fabrik.JPG/1200px-Blick_auf_die_Harkort'sche_Fabrik.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1200px-Harkort’sche_Fabrik.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1859_Firmenschild_der_Harkortschen_Fabrik.jpg/1200px-1859_Firmenschild_der_Harkortschen_Fabrik.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Harkortsche_Fabrik_-_Schild.jpg/1200px-Harkortsche_Fabrik_-_Schild.jpg
+image_srcset:
+  Hagen, Harkort'sche Fabrik 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hagen,_Harkort'sche_Fabrik_8.jpg/400px-Hagen,_Harkort'sche_Fabrik_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hagen,_Harkort'sche_Fabrik_8.jpg/800px-Hagen,_Harkort'sche_Fabrik_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hagen,_Harkort'sche_Fabrik_8.jpg/1200px-Hagen,_Harkort'sche_Fabrik_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hagen,_Harkort'sche_Fabrik_8.jpg/1920px-Hagen,_Harkort'sche_Fabrik_8.jpg
+  Blick auf die Harkort'sche Fabrik.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blick_auf_die_Harkort'sche_Fabrik.JPG/400px-Blick_auf_die_Harkort'sche_Fabrik.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blick_auf_die_Harkort'sche_Fabrik.JPG/800px-Blick_auf_die_Harkort'sche_Fabrik.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blick_auf_die_Harkort'sche_Fabrik.JPG/1200px-Blick_auf_die_Harkort'sche_Fabrik.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blick_auf_die_Harkort'sche_Fabrik.JPG/1920px-Blick_auf_die_Harkort'sche_Fabrik.JPG
+  Harkort’sche Fabrik.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/400px-Harkort’sche_Fabrik.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/800px-Harkort’sche_Fabrik.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1200px-Harkort’sche_Fabrik.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Harkort’sche_Fabrik.jpg/1920px-Harkort’sche_Fabrik.jpg
+  1859 Firmenschild der Harkortschen Fabrik.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1859_Firmenschild_der_Harkortschen_Fabrik.jpg/400px-1859_Firmenschild_der_Harkortschen_Fabrik.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1859_Firmenschild_der_Harkortschen_Fabrik.jpg/800px-1859_Firmenschild_der_Harkortschen_Fabrik.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1859_Firmenschild_der_Harkortschen_Fabrik.jpg/1200px-1859_Firmenschild_der_Harkortschen_Fabrik.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/1859_Firmenschild_der_Harkortschen_Fabrik.jpg/1920px-1859_Firmenschild_der_Harkortschen_Fabrik.jpg
+  Harkortsche Fabrik - Schild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Harkortsche_Fabrik_-_Schild.jpg/400px-Harkortsche_Fabrik_-_Schild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Harkortsche_Fabrik_-_Schild.jpg/800px-Harkortsche_Fabrik_-_Schild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Harkortsche_Fabrik_-_Schild.jpg/1200px-Harkortsche_Fabrik_-_Schild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Harkortsche_Fabrik_-_Schild.jpg/1920px-Harkortsche_Fabrik_-_Schild.jpg
 ---
 
 ## Overview

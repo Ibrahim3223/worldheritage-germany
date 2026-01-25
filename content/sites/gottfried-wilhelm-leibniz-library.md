@@ -1,19 +1,54 @@
 ---
-title: "Gottfried Wilhelm Leibniz Library"
+title: Gottfried Wilhelm Leibniz Library
 date: 2026-01-23
 draft: false
-description: "State Library of Lower Saxony (Germany), located in Hanover"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: State Library of Lower Saxony (Germany), located in Hanover
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.36525
 longitude: 9.73115
 images:
-  - "/images-sites/gottfried-wilhelm-leibniz-library/01-a35309cb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/1200px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg
+image_srcset:
+  ? Gottfried Wilhelm Leibniz Bibliothek library Am Schuetzenplatz Waterloostrasse
+    Calenberger Neustadt Hannover Germany 01.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/400px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/800px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/1200px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg/1920px-Gottfried_Wilhelm_Leibniz_Bibliothek_library_Am_Schuetzenplatz_Waterloostrasse_Calenberger_Neustadt_Hannover_Germany_01.jpg
+  ? 1746 Wolf Poppers (Wolf Cohn aus Hildesheim) Hannoversche Esther-Rolle, Austellung
+    des deutschsprachigen Unikats in der Leibniz Bibliothek in Hannover (75938).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg/400px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg/800px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg/1920px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(75938).jpg
+  ? 1746 Wolf Poppers (Wolf Cohn aus Hildesheim) Hannoversche Esther-Rolle, Austellung
+    des deutschsprachigen Unikats in der Leibniz Bibliothek in Hannover (66072).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg/400px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg/800px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg/1920px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(66072).jpg
+  ? 1746 Wolf Poppers (Wolf Cohn aus Hildesheim) Hannoversche Esther-Rolle, Austellung
+    des deutschsprachigen Unikats in der Leibniz Bibliothek in Hannover (50478).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg/400px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg/800px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg/1920px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(50478).jpg
+  ? 1746 Wolf Poppers (Wolf Cohn aus Hildesheim) Hannoversche Esther-Rolle, Austellung
+    des deutschsprachigen Unikats in der Leibniz Bibliothek in Hannover (42410).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg/400px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg/800px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg/1200px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg/1920px-1746_Wolf_Poppers_(Wolf_Cohn_aus_Hildesheim)_Hannoversche_Esther-Rolle,_Austellung_des_deutschsprachigen_Unikats_in_der_Leibniz_Bibliothek_in_Hannover_(42410).jpg
 ---
 
 ## Overview

@@ -1,19 +1,32 @@
 ---
-title: "Bibliothek des Konservatismus"
+title: Bibliothek des Konservatismus
 date: 2026-01-23
 draft: false
-description: "specialized scientific library of right-wing non-fiction literature in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: specialized scientific library of right-wing non-fiction literature in
+  Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.50735
 longitude: 13.32781
 images:
-  - "/images-sites/bibliothek-des-konservatismus/01-14fa55e6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-02_Bibliothek_des_Konservatismus_1.jpg/1200px-2019-07-02_Bibliothek_des_Konservatismus_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG/1200px-Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG
+image_srcset:
+  2019-07-02 Bibliothek des Konservatismus 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-02_Bibliothek_des_Konservatismus_1.jpg/400px-2019-07-02_Bibliothek_des_Konservatismus_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-02_Bibliothek_des_Konservatismus_1.jpg/800px-2019-07-02_Bibliothek_des_Konservatismus_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-02_Bibliothek_des_Konservatismus_1.jpg/1200px-2019-07-02_Bibliothek_des_Konservatismus_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2019-07-02_Bibliothek_des_Konservatismus_1.jpg/1920px-2019-07-02_Bibliothek_des_Konservatismus_1.jpg
+  Norman Gutschow Bibliothek des Konservatismus Junge Freiheit Frankfurter Buchmesse 2018.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG/400px-Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG/800px-Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG/1200px-Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG/1920px-Norman_Gutschow_Bibliothek_des_Konservatismus_Junge_Freiheit_Frankfurter_Buchmesse_2018.JPG
 ---
 
 ## Overview 

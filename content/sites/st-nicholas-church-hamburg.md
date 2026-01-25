@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q425622"
 description: "In the heart of Hamburg’s Altstadt, St. Nicholas Church stands as a striking emblem of the city’s resilience and architectural grandeur. Known for its i..."
 images:
-  - "/images-sites/st-nicholas-church-hamburg/01-0dd90c53-1920w.webp"
-  - "/images-sites/st-nicholas-church-hamburg/02-eb22b807-1920w.webp"
-  - "/images-sites/st-nicholas-church-hamburg/03-632f1b45-1920w.webp"
+  - "/images/st-nicholas-church-hamburg/01-0dd90c53-1920w.webp"
+  - "/images/st-nicholas-church-hamburg/02-eb22b807-1920w.webp"
+  - "/images/st-nicholas-church-hamburg/03-632f1b45-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.2765
 longitude: 7.43486
 images:
-  - "/images-sites/rheine-station/01-1fe894ea-800w.webp"
+  - "/images/rheine-station/01-1fe894ea-800w.webp"
 ---
 
 ## Overview

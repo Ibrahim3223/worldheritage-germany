@@ -13,7 +13,7 @@ regions:
 latitude: 52.5056
 longitude: 13.3406
 images:
-  - "/images-sites/olof-palme-platz/01-2a1fea33-800w.webp"
+  - "/images/olof-palme-platz/01-2a1fea33-800w.webp"
 ---
 
 ## Overview

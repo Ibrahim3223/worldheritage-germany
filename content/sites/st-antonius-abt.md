@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1758810"
 description: "In the heart of Vreden, North Rhine-Westphalia, lies St. Antonius Abt, a church building that encapsulates the essence of Gothic Revival architecture. T..."
 images:
-  - "/images-sites/st-antonius-abt/01-0aedc8e2-1920w.webp"
-  - "/images-sites/st-antonius-abt/02-b1926f3e-1920w.webp"
-  - "/images-sites/st-antonius-abt/03-cebd023e-1920w.webp"
+  - "/images/st-antonius-abt/01-0aedc8e2-1920w.webp"
+  - "/images/st-antonius-abt/02-b1926f3e-1920w.webp"
+  - "/images/st-antonius-abt/03-cebd023e-1920w.webp"
 ---
 
 ## Overview

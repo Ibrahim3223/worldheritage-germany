@@ -1,19 +1,49 @@
 ---
-title: "Fohrenbühl"
+title: Fohrenbühl
 date: 2026-01-23
 draft: false
-description: "German mountain pass"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: German mountain pass
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 48.2355
 longitude: 8.2942
 images:
-  - "/images-sites/fohrenbuehl/01-4a6d143f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fohrenbühlturm.jpg/1200px-Fohrenbühlturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fohrenbühlturm_innen.jpg/1200px-Fohrenbühlturm_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedächtnishaus_Fohrenbühl.JPG/1200px-Gedächtnishaus_Fohrenbühl.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gedächtnisshaus_am_Mittelweg.jpg/1200px-Gedächtnisshaus_am_Mittelweg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fohrenbühl_Passhöhe.jpg/1200px-Fohrenbühl_Passhöhe.jpg
+image_srcset:
+  Fohrenbühlturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fohrenbühlturm.jpg/400px-Fohrenbühlturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fohrenbühlturm.jpg/800px-Fohrenbühlturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fohrenbühlturm.jpg/1200px-Fohrenbühlturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fohrenbühlturm.jpg/1920px-Fohrenbühlturm.jpg
+  Fohrenbühlturm innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fohrenbühlturm_innen.jpg/400px-Fohrenbühlturm_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fohrenbühlturm_innen.jpg/800px-Fohrenbühlturm_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fohrenbühlturm_innen.jpg/1200px-Fohrenbühlturm_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fohrenbühlturm_innen.jpg/1920px-Fohrenbühlturm_innen.jpg
+  Gedächtnishaus Fohrenbühl.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedächtnishaus_Fohrenbühl.JPG/400px-Gedächtnishaus_Fohrenbühl.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedächtnishaus_Fohrenbühl.JPG/800px-Gedächtnishaus_Fohrenbühl.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedächtnishaus_Fohrenbühl.JPG/1200px-Gedächtnishaus_Fohrenbühl.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gedächtnishaus_Fohrenbühl.JPG/1920px-Gedächtnishaus_Fohrenbühl.JPG
+  Gedächtnisshaus am Mittelweg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gedächtnisshaus_am_Mittelweg.jpg/400px-Gedächtnisshaus_am_Mittelweg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gedächtnisshaus_am_Mittelweg.jpg/800px-Gedächtnisshaus_am_Mittelweg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gedächtnisshaus_am_Mittelweg.jpg/1200px-Gedächtnisshaus_am_Mittelweg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gedächtnisshaus_am_Mittelweg.jpg/1920px-Gedächtnisshaus_am_Mittelweg.jpg
+  Fohrenbühl Passhöhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fohrenbühl_Passhöhe.jpg/400px-Fohrenbühl_Passhöhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fohrenbühl_Passhöhe.jpg/800px-Fohrenbühl_Passhöhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fohrenbühl_Passhöhe.jpg/1200px-Fohrenbühl_Passhöhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Fohrenbühl_Passhöhe.jpg/1920px-Fohrenbühl_Passhöhe.jpg
 ---
 
 ## Overview

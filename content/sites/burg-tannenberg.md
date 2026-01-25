@@ -1,27 +1,49 @@
 ---
-title: "Burg Tannenberg"
+title: Burg Tannenberg
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7565
 longitude: 8.65681
-
-# Images
 images:
-  - "/images-sites/burg-tannenberg/01-444b351c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Tannenberg_fm811845.jpg/1200px-Burg_Tannenberg_fm811845.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Tannenberg_fm811847.jpg/1200px-Burg_Tannenberg_fm811847.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Tannenberg_fm811844.jpg/1200px-Burg_Tannenberg_fm811844.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Tannenberg_fm811843.jpg/1200px-Burg_Tannenberg_fm811843.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tannenberg_west.jpg/1200px-Tannenberg_west.jpg
+image_srcset:
+  Burg Tannenberg fm811845.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Tannenberg_fm811845.jpg/400px-Burg_Tannenberg_fm811845.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Tannenberg_fm811845.jpg/800px-Burg_Tannenberg_fm811845.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Tannenberg_fm811845.jpg/1200px-Burg_Tannenberg_fm811845.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Tannenberg_fm811845.jpg/1920px-Burg_Tannenberg_fm811845.jpg
+  Burg Tannenberg fm811847.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Tannenberg_fm811847.jpg/400px-Burg_Tannenberg_fm811847.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Tannenberg_fm811847.jpg/800px-Burg_Tannenberg_fm811847.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Tannenberg_fm811847.jpg/1200px-Burg_Tannenberg_fm811847.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Burg_Tannenberg_fm811847.jpg/1920px-Burg_Tannenberg_fm811847.jpg
+  Burg Tannenberg fm811844.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Tannenberg_fm811844.jpg/400px-Burg_Tannenberg_fm811844.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Tannenberg_fm811844.jpg/800px-Burg_Tannenberg_fm811844.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Tannenberg_fm811844.jpg/1200px-Burg_Tannenberg_fm811844.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Burg_Tannenberg_fm811844.jpg/1920px-Burg_Tannenberg_fm811844.jpg
+  Burg Tannenberg fm811843.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Tannenberg_fm811843.jpg/400px-Burg_Tannenberg_fm811843.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Tannenberg_fm811843.jpg/800px-Burg_Tannenberg_fm811843.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Tannenberg_fm811843.jpg/1200px-Burg_Tannenberg_fm811843.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burg_Tannenberg_fm811843.jpg/1920px-Burg_Tannenberg_fm811843.jpg
+  Tannenberg west.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tannenberg_west.jpg/400px-Tannenberg_west.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tannenberg_west.jpg/800px-Tannenberg_west.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tannenberg_west.jpg/1200px-Tannenberg_west.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tannenberg_west.jpg/1920px-Tannenberg_west.jpg
 ---
 
 ## Overview

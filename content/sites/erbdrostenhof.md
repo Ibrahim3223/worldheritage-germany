@@ -1,23 +1,50 @@
 ---
-title: "Erbdrostenhof"
-site_name: "Erbdrostenhof"
-slug: "erbdrostenhof"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Erbdrostenhof
+site_name: Erbdrostenhof
+slug: erbdrostenhof
+region: North Rhine-Westphalia
 latitude: 51.9609
 longitude: 7.63222
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1348242"
-description: "In the heart of Münster-Mitte, the Erbdrostenhof stands as a striking example of baroque architecture, capturing the imagination of all who visit. Found..."
+- cultural site
+wikidata_id: Q1348242
+description: In the heart of Münster-Mitte, the Erbdrostenhof stands as a striking
+  example of baroque architecture, capturing the imagination of all who visit. Found...
 images:
-  - "/images-sites/erbdrostenhof/01-2158fbe3-1920w.webp"
-  - "/images-sites/erbdrostenhof/02-6457d446-1920w.webp"
-  - "/images-sites/erbdrostenhof/03-7a7a833e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg/1200px-M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg/1200px-Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg/1200px-Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Münster,_Erbdrostenhof_--_2020_--_6745.jpg/1200px-Münster,_Erbdrostenhof_--_2020_--_6745.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1200px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
+image_srcset:
+  M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg/400px-M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg/800px-M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg/1200px-M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg/1920px-M%C3%BCnster%2C%20Erbdrostenhof%20--%202020%20--%206740.jpg
+  Münster, Erbdrostenhof, Umzäunung, Figur -- 2022 -- 0278.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg/400px-Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg/800px-Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg/1200px-Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg/1920px-Münster,_Erbdrostenhof,_Umzäunung,_Figur_--_2022_--_0278.jpg
+  Münster, Erbdrostenhof, Ansicht aus der Ringoldsgasse -- 2023 -- 9184.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg/400px-Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg/800px-Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg/1200px-Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg/1920px-Münster,_Erbdrostenhof,_Ansicht_aus_der_Ringoldsgasse_--_2023_--_9184.jpg
+  Münster, Erbdrostenhof -- 2020 -- 6745.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Münster,_Erbdrostenhof_--_2020_--_6745.jpg/400px-Münster,_Erbdrostenhof_--_2020_--_6745.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Münster,_Erbdrostenhof_--_2020_--_6745.jpg/800px-Münster,_Erbdrostenhof_--_2020_--_6745.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Münster,_Erbdrostenhof_--_2020_--_6745.jpg/1200px-Münster,_Erbdrostenhof_--_2020_--_6745.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Münster,_Erbdrostenhof_--_2020_--_6745.jpg/1920px-Münster,_Erbdrostenhof_--_2020_--_6745.jpg
+  Münster, Erbdrostenhof -- 2020 -- 6740.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/400px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/800px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1200px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Münster,_Erbdrostenhof_--_2020_--_6740.jpg/1920px-Münster,_Erbdrostenhof_--_2020_--_6740.jpg
 ---
 
 ## Overview

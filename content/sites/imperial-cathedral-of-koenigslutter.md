@@ -1,19 +1,49 @@
 ---
-title: "Imperial cathedral of Königslutter"
+title: Imperial cathedral of Königslutter
 date: 2026-01-23
 draft: false
-description: "church in Königslutter, Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: church in Königslutter, Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.2447
 longitude: 10.8157
 images:
-  - "/images-sites/imperial-cathedral-of-koenigslutter/01-fec9f26a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2024-02-08_110402_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_110402_Königslutter_Kaiserdom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2024-02-08_110803_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_110803_Königslutter_Kaiserdom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2024-02-08_113001_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_113001_Königslutter_Kaiserdom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2024-02-08_113421_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_113421_Königslutter_Kaiserdom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/1200px-Kaiserdom_Königslutter.jpg
+image_srcset:
+  2024-02-08 110402 Königslutter Kaiserdom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2024-02-08_110402_Königslutter_Kaiserdom.jpg/400px-2024-02-08_110402_Königslutter_Kaiserdom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2024-02-08_110402_Königslutter_Kaiserdom.jpg/800px-2024-02-08_110402_Königslutter_Kaiserdom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2024-02-08_110402_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_110402_Königslutter_Kaiserdom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2024-02-08_110402_Königslutter_Kaiserdom.jpg/1920px-2024-02-08_110402_Königslutter_Kaiserdom.jpg
+  2024-02-08 110803 Königslutter Kaiserdom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2024-02-08_110803_Königslutter_Kaiserdom.jpg/400px-2024-02-08_110803_Königslutter_Kaiserdom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2024-02-08_110803_Königslutter_Kaiserdom.jpg/800px-2024-02-08_110803_Königslutter_Kaiserdom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2024-02-08_110803_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_110803_Königslutter_Kaiserdom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2024-02-08_110803_Königslutter_Kaiserdom.jpg/1920px-2024-02-08_110803_Königslutter_Kaiserdom.jpg
+  2024-02-08 113001 Königslutter Kaiserdom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2024-02-08_113001_Königslutter_Kaiserdom.jpg/400px-2024-02-08_113001_Königslutter_Kaiserdom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2024-02-08_113001_Königslutter_Kaiserdom.jpg/800px-2024-02-08_113001_Königslutter_Kaiserdom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2024-02-08_113001_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_113001_Königslutter_Kaiserdom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2024-02-08_113001_Königslutter_Kaiserdom.jpg/1920px-2024-02-08_113001_Königslutter_Kaiserdom.jpg
+  2024-02-08 113421 Königslutter Kaiserdom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2024-02-08_113421_Königslutter_Kaiserdom.jpg/400px-2024-02-08_113421_Königslutter_Kaiserdom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2024-02-08_113421_Königslutter_Kaiserdom.jpg/800px-2024-02-08_113421_Königslutter_Kaiserdom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2024-02-08_113421_Königslutter_Kaiserdom.jpg/1200px-2024-02-08_113421_Königslutter_Kaiserdom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2024-02-08_113421_Königslutter_Kaiserdom.jpg/1920px-2024-02-08_113421_Königslutter_Kaiserdom.jpg
+  Kaiserdom Königslutter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/400px-Kaiserdom_Königslutter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/800px-Kaiserdom_Königslutter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/1200px-Kaiserdom_Königslutter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kaiserdom_Königslutter.jpg/1920px-Kaiserdom_Königslutter.jpg
 ---
 
 ## Overview

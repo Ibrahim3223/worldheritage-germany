@@ -1,20 +1,51 @@
 ---
-title: "Hauptkirche Sonnborn"
-site_name: "Hauptkirche Sonnborn"
-slug: "hauptkirche-sonnborn"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Hauptkirche Sonnborn
+site_name: Hauptkirche Sonnborn
+slug: hauptkirche-sonnborn
+region: North Rhine-Westphalia
 latitude: 51.2391
 longitude: 7.1024
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1589505"
-description: "The Hauptkirche Sonnborn is a striking example of modern architecture located in Wuppertal, Germany. This church building stands as a focal point in the..."
+- church building
+- religious site
+wikidata_id: Q1589505
+description: The Hauptkirche Sonnborn is a striking example of modern architecture
+  located in Wuppertal, Germany. This church building stands as a focal point in the...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg/1200px-Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg/1200px-Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal-100522-13188-Hauptkirche.jpg/1200px-Wuppertal-100522-13188-Hauptkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wuppertal_Schwebebahn_16.JPG/1200px-Wuppertal_Schwebebahn_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/1200px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
+image_srcset:
+  Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg/400px-Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg/800px-Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg/1200px-Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg/1920px-Wuppertal%20-%20Hauptkirche%20Sonnborn%2010%20ies.jpg
+  Evangelische Hauptkirche Wuppertal-Sonnborn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg/400px-Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg/800px-Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg/1200px-Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg/1920px-Evangelische_Hauptkirche_Wuppertal-Sonnborn.jpg
+  Wuppertal-100522-13188-Hauptkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal-100522-13188-Hauptkirche.jpg/400px-Wuppertal-100522-13188-Hauptkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal-100522-13188-Hauptkirche.jpg/800px-Wuppertal-100522-13188-Hauptkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal-100522-13188-Hauptkirche.jpg/1200px-Wuppertal-100522-13188-Hauptkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Wuppertal-100522-13188-Hauptkirche.jpg/1920px-Wuppertal-100522-13188-Hauptkirche.jpg
+  Wuppertal Schwebebahn 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wuppertal_Schwebebahn_16.JPG/400px-Wuppertal_Schwebebahn_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wuppertal_Schwebebahn_16.JPG/800px-Wuppertal_Schwebebahn_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wuppertal_Schwebebahn_16.JPG/1200px-Wuppertal_Schwebebahn_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wuppertal_Schwebebahn_16.JPG/1920px-Wuppertal_Schwebebahn_16.JPG
+  Wuppertal - Hauptkirche Sonnborn 10 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/400px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/800px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/1200px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg/1920px-Wuppertal_-_Hauptkirche_Sonnborn_10_ies.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Friedrichshain-Kreuzberg Museum"
+title: Friedrichshain-Kreuzberg Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5006
 longitude: 13.4186
 images:
-  - "/images-sites/friedrichshain-kreuzberg-museum/01-ee40e476-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1200px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg
+image_srcset:
+  Bezirksmuseum Friedrichshain-Kreuzberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/400px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/800px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1200px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bezirksmuseum_Friedrichshain-Kreuzberg.JPG/1920px-Bezirksmuseum_Friedrichshain-Kreuzberg.JPG
+  Berlin, Kreuzberg, Oranienstraße 53–54, Varieté Triumph-Palast, Likörstube.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg/400px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg/800px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg/1920px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast,_Likörstube.jpg
+  Berlin, Kreuzberg, Oranienstraße 43–44 (sic!), Café Moritzplatz (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg/400px-Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg/800px-Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg/1920px-Berlin,_Kreuzberg,_Oranienstraße_43–44_(sic!),_Café_Moritzplatz_(2).jpg
+  Berlin, Kreuzberg, Oranienstraße 53–54, Café Moritzplatz (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg/400px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg/800px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg/1920px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Café_Moritzplatz_(2).jpg
+  Berlin, Kreuzberg, Oranienstraße 53–54, Varieté Triumph-Palast.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg/400px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg/800px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg/1200px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg/1920px-Berlin,_Kreuzberg,_Oranienstraße_53–54,_Varieté_Triumph-Palast.jpg
 ---
 
 ## Overview

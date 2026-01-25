@@ -1,19 +1,31 @@
 ---
-title: "Chemnitz Zoo"
+title: Chemnitz Zoo
 date: 2026-01-24
 draft: false
-description: "German zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: German zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8183
 longitude: 12.835
 images:
-  - "/images-sites/chemnitz-zoo/01-10e8a720-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unterrichtungstafel_A72_02082019_10.jpg/1200px-Unterrichtungstafel_A72_02082019_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TierparkChemnitzMalik.png/1200px-TierparkChemnitzMalik.png
+image_srcset:
+  Unterrichtungstafel A72 02082019 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unterrichtungstafel_A72_02082019_10.jpg/400px-Unterrichtungstafel_A72_02082019_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unterrichtungstafel_A72_02082019_10.jpg/800px-Unterrichtungstafel_A72_02082019_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unterrichtungstafel_A72_02082019_10.jpg/1200px-Unterrichtungstafel_A72_02082019_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unterrichtungstafel_A72_02082019_10.jpg/1920px-Unterrichtungstafel_A72_02082019_10.jpg
+  TierparkChemnitzMalik.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TierparkChemnitzMalik.png/400px-TierparkChemnitzMalik.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TierparkChemnitzMalik.png/800px-TierparkChemnitzMalik.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TierparkChemnitzMalik.png/1200px-TierparkChemnitzMalik.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TierparkChemnitzMalik.png/1920px-TierparkChemnitzMalik.png
 ---
 
 ## Overview

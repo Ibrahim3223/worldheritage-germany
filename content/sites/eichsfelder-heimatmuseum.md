@@ -1,21 +1,49 @@
 ---
-title: "Eichsfelder Heimatmuseum"
+title: Eichsfelder Heimatmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3778566
 longitude: 10.1363024
 images:
-  - "/images-sites/eichsfelder-heimatmuseum/01-04b11460-800w.webp"
-  - "/images-sites/eichsfelder-heimatmuseum/01-b47e556b-800w.webp"
-  - "/images-sites/eichsfelder-heimatmuseum/02-b47e556b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/21-08-23_Eichsfeldmuseum1.jpg/1200px-21-08-23_Eichsfeldmuseum1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hig_Marktinfo6.JPG/1200px-Hig_Marktinfo6.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schaukasten_Eic_Heimatmuseum.jpg/1200px-Schaukasten_Eic_Heimatmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eichsfeldmuseumflur.JPG/1200px-Eichsfeldmuseumflur.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eichsfeldmuseumvogel.JPG/1200px-Eichsfeldmuseumvogel.JPG
+image_srcset:
+  21-08-23 Eichsfeldmuseum1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/21-08-23_Eichsfeldmuseum1.jpg/400px-21-08-23_Eichsfeldmuseum1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/21-08-23_Eichsfeldmuseum1.jpg/800px-21-08-23_Eichsfeldmuseum1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/21-08-23_Eichsfeldmuseum1.jpg/1200px-21-08-23_Eichsfeldmuseum1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/21-08-23_Eichsfeldmuseum1.jpg/1920px-21-08-23_Eichsfeldmuseum1.jpg
+  Hig Marktinfo6.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hig_Marktinfo6.JPG/400px-Hig_Marktinfo6.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hig_Marktinfo6.JPG/800px-Hig_Marktinfo6.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hig_Marktinfo6.JPG/1200px-Hig_Marktinfo6.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hig_Marktinfo6.JPG/1920px-Hig_Marktinfo6.JPG
+  Schaukasten Eic Heimatmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schaukasten_Eic_Heimatmuseum.jpg/400px-Schaukasten_Eic_Heimatmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schaukasten_Eic_Heimatmuseum.jpg/800px-Schaukasten_Eic_Heimatmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schaukasten_Eic_Heimatmuseum.jpg/1200px-Schaukasten_Eic_Heimatmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Schaukasten_Eic_Heimatmuseum.jpg/1920px-Schaukasten_Eic_Heimatmuseum.jpg
+  Eichsfeldmuseumflur.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eichsfeldmuseumflur.JPG/400px-Eichsfeldmuseumflur.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eichsfeldmuseumflur.JPG/800px-Eichsfeldmuseumflur.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eichsfeldmuseumflur.JPG/1200px-Eichsfeldmuseumflur.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Eichsfeldmuseumflur.JPG/1920px-Eichsfeldmuseumflur.JPG
+  Eichsfeldmuseumvogel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eichsfeldmuseumvogel.JPG/400px-Eichsfeldmuseumvogel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eichsfeldmuseumvogel.JPG/800px-Eichsfeldmuseumvogel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eichsfeldmuseumvogel.JPG/1200px-Eichsfeldmuseumvogel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eichsfeldmuseumvogel.JPG/1920px-Eichsfeldmuseumvogel.JPG
 ---
 
 ## Overview

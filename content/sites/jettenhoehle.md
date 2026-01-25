@@ -1,19 +1,43 @@
 ---
-title: "Jettenhöhle"
+title: Jettenhöhle
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6842
 longitude: 10.2728
 images:
-  - "/images-sites/jettenhoehle/01-f46def96-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hainholz_Gipskarst_04.jpg/1200px-Hainholz_Gipskarst_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hainholz_Gipskarst_05.jpg/1200px-Hainholz_Gipskarst_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainholz_Jettenhöhle_Ausgang.jpg/1200px-Hainholz_Jettenhöhle_Ausgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hainholz_Jettenhöhle_Eingang.jpg/1200px-Hainholz_Jettenhöhle_Eingang.jpg
+image_srcset:
+  Hainholz Gipskarst 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hainholz_Gipskarst_04.jpg/400px-Hainholz_Gipskarst_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hainholz_Gipskarst_04.jpg/800px-Hainholz_Gipskarst_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hainholz_Gipskarst_04.jpg/1200px-Hainholz_Gipskarst_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hainholz_Gipskarst_04.jpg/1920px-Hainholz_Gipskarst_04.jpg
+  Hainholz Gipskarst 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hainholz_Gipskarst_05.jpg/400px-Hainholz_Gipskarst_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hainholz_Gipskarst_05.jpg/800px-Hainholz_Gipskarst_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hainholz_Gipskarst_05.jpg/1200px-Hainholz_Gipskarst_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hainholz_Gipskarst_05.jpg/1920px-Hainholz_Gipskarst_05.jpg
+  Hainholz Jettenhöhle Ausgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainholz_Jettenhöhle_Ausgang.jpg/400px-Hainholz_Jettenhöhle_Ausgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainholz_Jettenhöhle_Ausgang.jpg/800px-Hainholz_Jettenhöhle_Ausgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainholz_Jettenhöhle_Ausgang.jpg/1200px-Hainholz_Jettenhöhle_Ausgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Hainholz_Jettenhöhle_Ausgang.jpg/1920px-Hainholz_Jettenhöhle_Ausgang.jpg
+  Hainholz Jettenhöhle Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hainholz_Jettenhöhle_Eingang.jpg/400px-Hainholz_Jettenhöhle_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hainholz_Jettenhöhle_Eingang.jpg/800px-Hainholz_Jettenhöhle_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hainholz_Jettenhöhle_Eingang.jpg/1200px-Hainholz_Jettenhöhle_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hainholz_Jettenhöhle_Eingang.jpg/1920px-Hainholz_Jettenhöhle_Eingang.jpg
 ---
 
 ## Overview

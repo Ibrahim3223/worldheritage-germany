@@ -1,24 +1,39 @@
 ---
-title: "Auferstehungskirche"
-site_name: "Auferstehungskirche"
-slug: "auferstehungskirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Auferstehungskirche
+site_name: Auferstehungskirche
+slug: auferstehungskirche
+region: North Rhine-Westphalia
 latitude: 50.9485
 longitude: 7.00852
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q759624"
-description: "In the heart of Cologne-Buchforst lies the Auferstehungskirche, a striking example of modern architecture that stands as a symbol of Lutheran faith in t..."
+- church building
+- religious site
+wikidata_id: Q759624
+description: In the heart of Cologne-Buchforst lies the Auferstehungskirche, a striking
+  example of modern architecture that stands as a symbol of Lutheran faith in t...
 images:
-  - "/images-sites/auferstehungskirche/01-04e8da22-1920w.webp"
-  - "/images-sites/auferstehungskirche/02-570674c7-1920w.webp"
-  - "/images-sites/auferstehungskirche/03-3b08103e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Auferstehungskirche-buchforst-1.jpg/1200px-Auferstehungskirche-buchforst-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg/1200px-Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1200px-Auferstehungskirche_Döhren.jpg
+image_srcset:
+  Auferstehungskirche-buchforst-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Auferstehungskirche-buchforst-1.jpg/400px-Auferstehungskirche-buchforst-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Auferstehungskirche-buchforst-1.jpg/800px-Auferstehungskirche-buchforst-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Auferstehungskirche-buchforst-1.jpg/1200px-Auferstehungskirche-buchforst-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Auferstehungskirche-buchforst-1.jpg/1920px-Auferstehungskirche-buchforst-1.jpg
+  Auferstehungskirche - Helmstedter Straße 59 - Hannover-Döhren - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg/400px-Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg/800px-Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg/1200px-Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg/1920px-Auferstehungskirche_-_Helmstedter_Straße_59_-_Hannover-Döhren_-_panoramio.jpg
+  Auferstehungskirche Döhren.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/400px-Auferstehungskirche_Döhren.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/800px-Auferstehungskirche_Döhren.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1200px-Auferstehungskirche_Döhren.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Auferstehungskirche_Döhren.jpg/1920px-Auferstehungskirche_Döhren.jpg
 ---
 
 ## Overview

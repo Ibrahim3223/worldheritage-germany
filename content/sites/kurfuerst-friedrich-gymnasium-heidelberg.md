@@ -13,7 +13,7 @@ regions:
 latitude: 49.4113
 longitude: 8.69389
 images:
-  - "/images-sites/kurfuerst-friedrich-gymnasium-heidelberg/01-c4fa6478-800w.webp"
+  - "/images/kurfuerst-friedrich-gymnasium-heidelberg/01-c4fa6478-800w.webp"
 ---
 
 ## Overview

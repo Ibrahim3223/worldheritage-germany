@@ -13,9 +13,9 @@ regions:
 latitude: 48.135111111
 longitude: 11.572583333
 images:
-  - "/images-sites/munich-city-museum/01-5eb01cf4-800w.webp"
-  - "/images-sites/munich-city-museum/02-7661b482-800w.webp"
-  - "/images-sites/munich-city-museum/03-819b46df-800w.webp"
+  - "/images/munich-city-museum/01-5eb01cf4-800w.webp"
+  - "/images/munich-city-museum/02-7661b482-800w.webp"
+  - "/images/munich-city-museum/03-819b46df-800w.webp"
 ---
 
 ## Overview

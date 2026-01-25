@@ -13,7 +13,7 @@ regions:
 latitude: 50.5844
 longitude: 6.44806
 images:
-  - "/images-sites/ordensburg-vogelsang/01-68bc89a1-800w.webp"
+  - "/images/ordensburg-vogelsang/01-68bc89a1-800w.webp"
 ---
 
 ## Overview

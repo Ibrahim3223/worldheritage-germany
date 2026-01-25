@@ -1,21 +1,49 @@
 ---
-title: "Birkenkopf"
+title: Birkenkopf
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7653
 longitude: 9.13167
 images:
-  - "/images-sites/birkenkopf/01-185ffcb5-800w.webp"
-  - "/images-sites/birkenkopf/02-c8051c65-800w.webp"
-  - "/images-sites/birkenkopf/03-9f35f72c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stuttgart_-_Birkenkopf_-_1.jpg/1200px-Stuttgart_-_Birkenkopf_-_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg/1200px-20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg/1200px-Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG/1200px-Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Birkenkopf_1956.jpg/1200px-Birkenkopf_1956.jpg
+image_srcset:
+  Stuttgart - Birkenkopf - 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stuttgart_-_Birkenkopf_-_1.jpg/400px-Stuttgart_-_Birkenkopf_-_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stuttgart_-_Birkenkopf_-_1.jpg/800px-Stuttgart_-_Birkenkopf_-_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stuttgart_-_Birkenkopf_-_1.jpg/1200px-Stuttgart_-_Birkenkopf_-_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stuttgart_-_Birkenkopf_-_1.jpg/1920px-Stuttgart_-_Birkenkopf_-_1.jpg
+  20220705 Birkenkopf, Stuttgart - DJI 0123.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg/400px-20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg/800px-20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg/1200px-20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg/1920px-20220705_Birkenkopf,_Stuttgart_-_DJI_0123.jpg
+  Luftaufnahme vom Birkenkopf in Stuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg/400px-Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg/800px-Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg/1200px-Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg/1920px-Luftaufnahme_vom_Birkenkopf_in_Stuttgart.jpg
+  Blick auf die westlichen Höhenzüge Stuttgarts.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG/400px-Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG/800px-Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG/1200px-Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG/1920px-Blick_auf_die_westlichen_Höhenzüge_Stuttgarts.JPG
+  Birkenkopf 1956.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Birkenkopf_1956.jpg/400px-Birkenkopf_1956.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Birkenkopf_1956.jpg/800px-Birkenkopf_1956.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Birkenkopf_1956.jpg/1200px-Birkenkopf_1956.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Birkenkopf_1956.jpg/1920px-Birkenkopf_1956.jpg
 ---
 
 ## Overview

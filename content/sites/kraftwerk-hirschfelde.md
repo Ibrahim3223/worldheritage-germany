@@ -13,7 +13,7 @@ regions:
 latitude: 50.937456
 longitude: 14.891122
 images:
-  - "/images-sites/kraftwerk-hirschfelde/01-72afbbc1-800w.webp"
+  - "/images/kraftwerk-hirschfelde/01-72afbbc1-800w.webp"
 ---
 
 ## Overview

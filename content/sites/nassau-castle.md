@@ -21,7 +21,7 @@ longitude: 7.792222
 
 # Images
 images:
-  - "/images-sites/nassau-castle/01-14f3b587-800w.webp"
+  - "/images/nassau-castle/01-14f3b587-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.48187222
 longitude: 11.23874444
 images:
-  - "/images-sites/scharnitz-abbey/01-ec16256f-800w.webp"
+  - "/images/scharnitz-abbey/01-ec16256f-800w.webp"
 ---
 
 ## Overview

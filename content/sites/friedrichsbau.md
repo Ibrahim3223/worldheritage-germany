@@ -1,19 +1,49 @@
 ---
-title: "Friedrichsbau"
+title: Friedrichsbau
 date: 2026-01-24
 draft: false
-description: "office building and theatre in Stuttgart, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: office building and theatre in Stuttgart, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7806
 longitude: 9.17619
 images:
-  - "/images-sites/friedrichsbau/01-16d82d2f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HD_Courtyard_8_statues_bottom_middle_row.jpg/1200px-HD_Courtyard_8_statues_bottom_middle_row.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg/1200px-Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg/1200px-Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg/1200px-Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg/1200px-Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg
+image_srcset:
+  HD Courtyard 8 statues bottom middle row.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HD_Courtyard_8_statues_bottom_middle_row.jpg/400px-HD_Courtyard_8_statues_bottom_middle_row.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HD_Courtyard_8_statues_bottom_middle_row.jpg/800px-HD_Courtyard_8_statues_bottom_middle_row.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HD_Courtyard_8_statues_bottom_middle_row.jpg/1200px-HD_Courtyard_8_statues_bottom_middle_row.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HD_Courtyard_8_statues_bottom_middle_row.jpg/1920px-HD_Courtyard_8_statues_bottom_middle_row.jpg
+  Kino Kandelhof in Freiburg, links der Kinosaal von außen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg/400px-Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg/800px-Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg/1200px-Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg/1920px-Kino_Kandelhof_in_Freiburg,_links_der_Kinosaal_von_außen.jpg
+  Kino Kandelhof in Freiburg zur Schwulen Filmwoche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg/400px-Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg/800px-Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg/1200px-Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg/1920px-Kino_Kandelhof_in_Freiburg_zur_Schwulen_Filmwoche.jpg
+  Kino Kandelhof zur Schwulen Filmwoche in Freiburg und Restaurant Zum Kandelhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg/400px-Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg/800px-Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg/1200px-Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg/1920px-Kino_Kandelhof_zur_Schwulen_Filmwoche_in_Freiburg_und_Restaurant_Zum_Kandelhof.jpg
+  Altan Glockenturm Friedrichsbau Heidelberger Schloss von Louis Hoffmeister ca 1820.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg/400px-Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg/800px-Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg/1200px-Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg/1920px-Altan_Glockenturm_Friedrichsbau_Heidelberger_Schloss_von_Louis_Hoffmeister_ca_1820.jpg
 ---
 
 ## Overview

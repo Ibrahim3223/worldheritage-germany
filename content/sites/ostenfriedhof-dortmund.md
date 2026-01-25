@@ -13,9 +13,9 @@ regions:
 latitude: 51.5098
 longitude: 7.49253
 images:
-  - "/images-sites/ostenfriedhof-dortmund/01-2b98c0ae-800w.webp"
-  - "/images-sites/ostenfriedhof-dortmund/02-876b77ce-800w.webp"
-  - "/images-sites/ostenfriedhof-dortmund/03-7dae7a4b-800w.webp"
+  - "/images/ostenfriedhof-dortmund/01-2b98c0ae-800w.webp"
+  - "/images/ostenfriedhof-dortmund/02-876b77ce-800w.webp"
+  - "/images/ostenfriedhof-dortmund/03-7dae7a4b-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Feldsee"
+title: Feldsee
 date: 2026-01-23
 draft: false
-description: "lake in Breisgau-Hochschwarzwald district, Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Breisgau-Hochschwarzwald district, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.87027778
 longitude: 8.0325
 images:
-  - "/images-sites/feldsee/02-5d0e5c23-800w.webp"
-  - "/images-sites/feldsee/03-7d89c6cd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Feldsee_mit_Wasserfall.jpg/1200px-Feldsee_mit_Wasserfall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg/1200px-Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Feldsee2020.jpg/1200px-Feldsee2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feldsee_2009-11-28_from_N-E_to_S-W.JPG/1200px-Feldsee_2009-11-28_from_N-E_to_S-W.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg/1200px-Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg
+image_srcset:
+  Feldsee mit Wasserfall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Feldsee_mit_Wasserfall.jpg/400px-Feldsee_mit_Wasserfall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Feldsee_mit_Wasserfall.jpg/800px-Feldsee_mit_Wasserfall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Feldsee_mit_Wasserfall.jpg/1200px-Feldsee_mit_Wasserfall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Feldsee_mit_Wasserfall.jpg/1920px-Feldsee_mit_Wasserfall.jpg
+  Feldberg (Schwarzwald) - Naturschutzgebiet Feldberg (Black Forest) - Bild 7 Feldsee-Wasserfall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg/400px-Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg/800px-Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg/1200px-Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg/1920px-Feldberg_(Schwarzwald)_-_Naturschutzgebiet_Feldberg_(Black_Forest)_-_Bild_7_Feldsee-Wasserfall.jpg
+  Feldsee2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Feldsee2020.jpg/400px-Feldsee2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Feldsee2020.jpg/800px-Feldsee2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Feldsee2020.jpg/1200px-Feldsee2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Feldsee2020.jpg/1920px-Feldsee2020.jpg
+  Feldsee 2009-11-28 from N-E to S-W.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feldsee_2009-11-28_from_N-E_to_S-W.JPG/400px-Feldsee_2009-11-28_from_N-E_to_S-W.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feldsee_2009-11-28_from_N-E_to_S-W.JPG/800px-Feldsee_2009-11-28_from_N-E_to_S-W.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feldsee_2009-11-28_from_N-E_to_S-W.JPG/1200px-Feldsee_2009-11-28_from_N-E_to_S-W.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feldsee_2009-11-28_from_N-E_to_S-W.JPG/1920px-Feldsee_2009-11-28_from_N-E_to_S-W.JPG
+  Feldsee im Schwarzwald - geo.hlipp.de - 2608.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg/400px-Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg/800px-Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg/1200px-Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg/1920px-Feldsee_im_Schwarzwald_-_geo.hlipp.de_-_2608.jpg
 ---
 
 ## Overview

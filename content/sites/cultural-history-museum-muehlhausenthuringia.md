@@ -1,19 +1,38 @@
 ---
-title: "Cultural History Museum (Mühlhausen/Thuringia)"
+title: Cultural History Museum (Mühlhausen/Thuringia)
 date: 2026-01-23
 draft: false
-description: "museum in Mühlhausen/Thuringia, district capital of the Unstrut Hainich District in Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Mühlhausen/Thuringia, district capital of the Unstrut Hainich
+  District in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.206345008
 longitude: 10.457477505
 images:
-  - "/images-sites/cultural-history-museum-muehlhausenthuringia/01-5efb7ece-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1200px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mühlhausen,_Heimatmuseum_--_1980.jpg/1200px-Mühlhausen,_Heimatmuseum_--_1980.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Mühlhausen.JPG/1200px-Museum_Mühlhausen.JPG
+image_srcset:
+  Mühlhausen (Thüringen), Kristanplatz 7 20170720 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/400px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/800px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1200px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg/1920px-Mühlhausen_(Thüringen),_Kristanplatz_7_20170720_001.jpg
+  Mühlhausen, Heimatmuseum -- 1980.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mühlhausen,_Heimatmuseum_--_1980.jpg/400px-Mühlhausen,_Heimatmuseum_--_1980.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mühlhausen,_Heimatmuseum_--_1980.jpg/800px-Mühlhausen,_Heimatmuseum_--_1980.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mühlhausen,_Heimatmuseum_--_1980.jpg/1200px-Mühlhausen,_Heimatmuseum_--_1980.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mühlhausen,_Heimatmuseum_--_1980.jpg/1920px-Mühlhausen,_Heimatmuseum_--_1980.jpg
+  Museum Mühlhausen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Mühlhausen.JPG/400px-Museum_Mühlhausen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Mühlhausen.JPG/800px-Museum_Mühlhausen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Mühlhausen.JPG/1200px-Museum_Mühlhausen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Museum_Mühlhausen.JPG/1920px-Museum_Mühlhausen.JPG
 ---
 
 ## Overview

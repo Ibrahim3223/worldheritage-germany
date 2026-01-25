@@ -1,20 +1,49 @@
 ---
-title: "German Oil Museum"
+title: German Oil Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6603
 longitude: 9.83417
 images:
-  - "/images-sites/german-oil-museum/02-883474be-800w.webp"
-  - "/images-sites/german-oil-museum/03-464d55ea-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches-Erdölmuseum_7-2023.jpg/1200px-Deutsches-Erdölmuseum_7-2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erdölmuseum_Wietze_IMG_4007.jpg/1200px-Erdölmuseum_Wietze_IMG_4007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DEW_Wietze-Abteilung.jpg/1200px-DEW_Wietze-Abteilung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AWietze_Deutsches_Erdölmuseum_Kiosk.jpg/1200px-AWietze_Deutsches_Erdölmuseum_Kiosk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/1200px-Erdölmuseum_Eingang.jpg
+image_srcset:
+  Deutsches-Erdölmuseum 7-2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches-Erdölmuseum_7-2023.jpg/400px-Deutsches-Erdölmuseum_7-2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches-Erdölmuseum_7-2023.jpg/800px-Deutsches-Erdölmuseum_7-2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches-Erdölmuseum_7-2023.jpg/1200px-Deutsches-Erdölmuseum_7-2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Deutsches-Erdölmuseum_7-2023.jpg/1920px-Deutsches-Erdölmuseum_7-2023.jpg
+  Erdölmuseum Wietze IMG 4007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erdölmuseum_Wietze_IMG_4007.jpg/400px-Erdölmuseum_Wietze_IMG_4007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erdölmuseum_Wietze_IMG_4007.jpg/800px-Erdölmuseum_Wietze_IMG_4007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erdölmuseum_Wietze_IMG_4007.jpg/1200px-Erdölmuseum_Wietze_IMG_4007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erdölmuseum_Wietze_IMG_4007.jpg/1920px-Erdölmuseum_Wietze_IMG_4007.jpg
+  DEW Wietze-Abteilung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DEW_Wietze-Abteilung.jpg/400px-DEW_Wietze-Abteilung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DEW_Wietze-Abteilung.jpg/800px-DEW_Wietze-Abteilung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DEW_Wietze-Abteilung.jpg/1200px-DEW_Wietze-Abteilung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DEW_Wietze-Abteilung.jpg/1920px-DEW_Wietze-Abteilung.jpg
+  AWietze Deutsches Erdölmuseum Kiosk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AWietze_Deutsches_Erdölmuseum_Kiosk.jpg/400px-AWietze_Deutsches_Erdölmuseum_Kiosk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AWietze_Deutsches_Erdölmuseum_Kiosk.jpg/800px-AWietze_Deutsches_Erdölmuseum_Kiosk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AWietze_Deutsches_Erdölmuseum_Kiosk.jpg/1200px-AWietze_Deutsches_Erdölmuseum_Kiosk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/AWietze_Deutsches_Erdölmuseum_Kiosk.jpg/1920px-AWietze_Deutsches_Erdölmuseum_Kiosk.jpg
+  Erdölmuseum Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/400px-Erdölmuseum_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/800px-Erdölmuseum_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/1200px-Erdölmuseum_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Erdölmuseum_Eingang.jpg/1920px-Erdölmuseum_Eingang.jpg
 ---
 
 ## Overview

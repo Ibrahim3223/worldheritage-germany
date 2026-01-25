@@ -1,27 +1,49 @@
 ---
-title: "Gelsenkirchen Art Museum"
+title: Gelsenkirchen Art Museum
 date: 2026-01-23
 draft: false
-description: "Art museum in Gelsenkirchen, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: Art museum in Gelsenkirchen, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.577
 longitude: 7.05407
-
-# Images
 images:
-  - "/images-sites/gelsenkirchen-art-museum/01-c3671e46-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kunstmuseum_Gelsenkirchen.jpg/1200px-Kunstmuseum_Gelsenkirchen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1200px-Ge_Buer_Museum_Jörres.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ge_Buer_Museum_Kirschner.JPG/1200px-Ge_Buer_Museum_Kirschner.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ge_Buer_Museum_Schrader.JPG/1200px-Ge_Buer_Museum_Schrader.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eingang_Kunstmuseum_Gelsenkirchen.jpg/1200px-Eingang_Kunstmuseum_Gelsenkirchen.jpg
+image_srcset:
+  Kunstmuseum Gelsenkirchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kunstmuseum_Gelsenkirchen.jpg/400px-Kunstmuseum_Gelsenkirchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kunstmuseum_Gelsenkirchen.jpg/800px-Kunstmuseum_Gelsenkirchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kunstmuseum_Gelsenkirchen.jpg/1200px-Kunstmuseum_Gelsenkirchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kunstmuseum_Gelsenkirchen.jpg/1920px-Kunstmuseum_Gelsenkirchen.jpg
+  Ge Buer Museum Jörres.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/400px-Ge_Buer_Museum_Jörres.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/800px-Ge_Buer_Museum_Jörres.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1200px-Ge_Buer_Museum_Jörres.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ge_Buer_Museum_Jörres.JPG/1920px-Ge_Buer_Museum_Jörres.JPG
+  Ge Buer Museum Kirschner.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ge_Buer_Museum_Kirschner.JPG/400px-Ge_Buer_Museum_Kirschner.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ge_Buer_Museum_Kirschner.JPG/800px-Ge_Buer_Museum_Kirschner.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ge_Buer_Museum_Kirschner.JPG/1200px-Ge_Buer_Museum_Kirschner.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ge_Buer_Museum_Kirschner.JPG/1920px-Ge_Buer_Museum_Kirschner.JPG
+  Ge Buer Museum Schrader.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ge_Buer_Museum_Schrader.JPG/400px-Ge_Buer_Museum_Schrader.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ge_Buer_Museum_Schrader.JPG/800px-Ge_Buer_Museum_Schrader.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ge_Buer_Museum_Schrader.JPG/1200px-Ge_Buer_Museum_Schrader.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ge_Buer_Museum_Schrader.JPG/1920px-Ge_Buer_Museum_Schrader.JPG
+  Eingang Kunstmuseum Gelsenkirchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eingang_Kunstmuseum_Gelsenkirchen.jpg/400px-Eingang_Kunstmuseum_Gelsenkirchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eingang_Kunstmuseum_Gelsenkirchen.jpg/800px-Eingang_Kunstmuseum_Gelsenkirchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eingang_Kunstmuseum_Gelsenkirchen.jpg/1200px-Eingang_Kunstmuseum_Gelsenkirchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eingang_Kunstmuseum_Gelsenkirchen.jpg/1920px-Eingang_Kunstmuseum_Gelsenkirchen.jpg
 ---
 
 ## Overview

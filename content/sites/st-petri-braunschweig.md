@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1168226"
 description: "St. Petri in Braunschweig is not merely a church; it is a Gothic architectural marvel that has stood the test of time since its founding in 1200. As you..."
 images:
-  - "/images-sites/st-petri-braunschweig/01-793dec23-1920w.webp"
-  - "/images-sites/st-petri-braunschweig/02-d72e447c-1920w.webp"
-  - "/images-sites/st-petri-braunschweig/03-aea325d8-1920w.webp"
+  - "/images/st-petri-braunschweig/01-793dec23-1920w.webp"
+  - "/images/st-petri-braunschweig/02-d72e447c-1920w.webp"
+  - "/images/st-petri-braunschweig/03-aea325d8-1920w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,45 @@
 ---
-title: "Jakobuskirche (Tübingen)"
-site_name: "Jakobuskirche (Tübingen)"
-slug: "jakobuskirche-tubingen"
-region: "Baden-Württemberg"
-
-# Location
+title: Jakobuskirche (Tübingen)
+site_name: Jakobuskirche (Tübingen)
+slug: jakobuskirche-tubingen
+region: Baden-Württemberg
 latitude: 48.5214
 longitude: 9.05111
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1423771"
-description: "In the heart of Tübingen, Germany, stands Jakobuskirche, a striking example of Romanesque architecture that has served as a spiritual beacon for centuri..."
+- church building
+- religious site
+wikidata_id: Q1423771
+description: In the heart of Tübingen, Germany, stands Jakobuskirche, a striking example
+  of Romanesque architecture that has served as a spiritual beacon for centuri...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1200px-Jakobuskirche-tuebingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turm_der_Jakobuskirche_in_Tübingen_2019.jpg/1200px-Turm_der_Jakobuskirche_in_Tübingen_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg/1200px-Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg/1200px-Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg
+image_srcset:
+  Jakobuskirche-tuebingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/400px-Jakobuskirche-tuebingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/800px-Jakobuskirche-tuebingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1200px-Jakobuskirche-tuebingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jakobuskirche-tuebingen.jpg/1920px-Jakobuskirche-tuebingen.jpg
+  Turm der Jakobuskirche in Tübingen 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turm_der_Jakobuskirche_in_Tübingen_2019.jpg/400px-Turm_der_Jakobuskirche_in_Tübingen_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turm_der_Jakobuskirche_in_Tübingen_2019.jpg/800px-Turm_der_Jakobuskirche_in_Tübingen_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turm_der_Jakobuskirche_in_Tübingen_2019.jpg/1200px-Turm_der_Jakobuskirche_in_Tübingen_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turm_der_Jakobuskirche_in_Tübingen_2019.jpg/1920px-Turm_der_Jakobuskirche_in_Tübingen_2019.jpg
+  Jakobuskirche Tübingen Ansicht von Osten 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg/400px-Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg/800px-Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg/1200px-Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg/1920px-Jakobuskirche_Tübingen_Ansicht_von_Osten_2019.jpg
+  Tübingen Jakobuskirche BW 2015-04-27 16-15-54.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg/400px-Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg/800px-Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg/1200px-Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg/1920px-Tübingen_Jakobuskirche_BW_2015-04-27_16-15-54.jpg
 ---
 
 ## Overview

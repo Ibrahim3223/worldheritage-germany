@@ -21,7 +21,7 @@ longitude: 10.2875
 
 # Images
 images:
-  - "/images-sites/kloster/01-21e2c0ce-800w.webp"
+  - "/images/kloster/01-21e2c0ce-800w.webp"
 ---
 
 ## Overview

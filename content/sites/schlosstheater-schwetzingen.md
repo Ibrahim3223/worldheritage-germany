@@ -13,7 +13,7 @@ regions:
 latitude: 49.385277777
 longitude: 8.568611111
 images:
-  - "/images-sites/schlosstheater-schwetzingen/01-6c19b1c5-800w.webp"
+  - "/images/schlosstheater-schwetzingen/01-6c19b1c5-800w.webp"
 ---
 
 ## Overview

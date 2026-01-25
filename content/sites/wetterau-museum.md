@@ -13,7 +13,7 @@ regions:
 latitude: 50.336365092
 longitude: 8.755795737
 images:
-  - "/images-sites/wetterau-museum/01-e3fbc3d6-800w.webp"
+  - "/images/wetterau-museum/01-e3fbc3d6-800w.webp"
 ---
 
 ## Overview

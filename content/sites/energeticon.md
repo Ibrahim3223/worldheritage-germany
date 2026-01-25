@@ -1,19 +1,49 @@
 ---
-title: "Energeticon"
+title: Energeticon
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.875044
 longitude: 6.150391
 images:
-  - "/images-sites/energeticon/01-61dea5a5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ELNA_6_at_Energeticon,_2020.jpg/1200px-ELNA_6_at_Energeticon,_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grube_Anna,_Exponate,_außen_(3).jpg/1200px-Grube_Anna,_Exponate,_außen_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grube_Anna,_Exponate,_außen_(6).jpg/1200px-Grube_Anna,_Exponate,_außen_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/1200px-Grube_Anna,_Schmiede_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grube_Anna,_Exponate,_außen_(1).jpg/1200px-Grube_Anna,_Exponate,_außen_(1).jpg
+image_srcset:
+  ELNA 6 at Energeticon, 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ELNA_6_at_Energeticon,_2020.jpg/400px-ELNA_6_at_Energeticon,_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ELNA_6_at_Energeticon,_2020.jpg/800px-ELNA_6_at_Energeticon,_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ELNA_6_at_Energeticon,_2020.jpg/1200px-ELNA_6_at_Energeticon,_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ELNA_6_at_Energeticon,_2020.jpg/1920px-ELNA_6_at_Energeticon,_2020.jpg
+  Grube Anna, Exponate, außen (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grube_Anna,_Exponate,_außen_(3).jpg/400px-Grube_Anna,_Exponate,_außen_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grube_Anna,_Exponate,_außen_(3).jpg/800px-Grube_Anna,_Exponate,_außen_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grube_Anna,_Exponate,_außen_(3).jpg/1200px-Grube_Anna,_Exponate,_außen_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Grube_Anna,_Exponate,_außen_(3).jpg/1920px-Grube_Anna,_Exponate,_außen_(3).jpg
+  Grube Anna, Exponate, außen (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grube_Anna,_Exponate,_außen_(6).jpg/400px-Grube_Anna,_Exponate,_außen_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grube_Anna,_Exponate,_außen_(6).jpg/800px-Grube_Anna,_Exponate,_außen_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grube_Anna,_Exponate,_außen_(6).jpg/1200px-Grube_Anna,_Exponate,_außen_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grube_Anna,_Exponate,_außen_(6).jpg/1920px-Grube_Anna,_Exponate,_außen_(6).jpg
+  Grube Anna, Schmiede (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/400px-Grube_Anna,_Schmiede_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/800px-Grube_Anna,_Schmiede_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/1200px-Grube_Anna,_Schmiede_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grube_Anna,_Schmiede_(3).jpg/1920px-Grube_Anna,_Schmiede_(3).jpg
+  Grube Anna, Exponate, außen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grube_Anna,_Exponate,_außen_(1).jpg/400px-Grube_Anna,_Exponate,_außen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grube_Anna,_Exponate,_außen_(1).jpg/800px-Grube_Anna,_Exponate,_außen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grube_Anna,_Exponate,_außen_(1).jpg/1200px-Grube_Anna,_Exponate,_außen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Grube_Anna,_Exponate,_außen_(1).jpg/1920px-Grube_Anna,_Exponate,_außen_(1).jpg
 ---
 
 ## Overview

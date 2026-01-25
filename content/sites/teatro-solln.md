@@ -13,9 +13,9 @@ regions:
 latitude: 48.070932992
 longitude: 11.514669118
 images:
-  - "/images-sites/teatro-solln/01-bc7b050b-800w.webp"
-  - "/images-sites/teatro-solln/02-9a355f2d-800w.webp"
-  - "/images-sites/teatro-solln/03-3eb8da98-800w.webp"
+  - "/images/teatro-solln/01-bc7b050b-800w.webp"
+  - "/images/teatro-solln/02-9a355f2d-800w.webp"
+  - "/images/teatro-solln/03-3eb8da98-800w.webp"
 ---
 
 ## Overview

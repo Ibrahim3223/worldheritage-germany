@@ -13,9 +13,9 @@ regions:
 latitude: 53.55166667
 longitude: 9.43194444
 images:
-  - "/images-sites/steinbeck/01-58a57e7c-800w.webp"
-  - "/images-sites/steinbeck/02-ab97f12c-800w.webp"
-  - "/images-sites/steinbeck/03-4291a1dc-800w.webp"
+  - "/images/steinbeck/01-58a57e7c-800w.webp"
+  - "/images/steinbeck/02-ab97f12c-800w.webp"
+  - "/images/steinbeck/03-4291a1dc-800w.webp"
 ---
 
 ## Overview

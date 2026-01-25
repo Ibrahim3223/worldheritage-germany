@@ -13,7 +13,7 @@ regions:
 latitude: 51.565
 longitude: 10.164444444
 images:
-  - "/images-sites/seeburger-see/01-062be3af-800w.webp"
+  - "/images/seeburger-see/01-062be3af-800w.webp"
 ---
 
 ## Overview

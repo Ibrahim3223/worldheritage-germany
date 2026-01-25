@@ -1,24 +1,51 @@
 ---
-title: "Antoniuskirche"
-site_name: "Antoniuskirche"
-slug: "antoniuskirche"
-region: "Lower Saxony"
-
-# Location
+title: Antoniuskirche
+site_name: Antoniuskirche
+slug: antoniuskirche
+region: Lower Saxony
 latitude: 53.0818
 longitude: 9.99672
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q606982"
-description: "In the tranquil region of Bispingen, Germany, the Antoniuskirche stands as a remarkable example of Gothic Revival architecture. Constructed predominantl..."
+- church building
+- religious site
+wikidata_id: Q606982
+description: In the tranquil region of Bispingen, Germany, the Antoniuskirche stands
+  as a remarkable example of Gothic Revival architecture. Constructed predominantl...
 images:
-  - "/images-sites/antoniuskirche/01-0c181859-1920w.webp"
-  - "/images-sites/antoniuskirche/02-a10fec19-1920w.webp"
-  - "/images-sites/antoniuskirche/03-47b0625d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg/1200px-St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009-05-14-Antoniuskirche-Basel-01.jpg/1200px-2009-05-14-Antoniuskirche-Basel-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2009-05-14-Antoniuskirche-Basel-06.jpg/1200px-2009-05-14-Antoniuskirche-Basel-06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg/1200px-Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St-anton-basel-aussen.jpg/1200px-St-anton-basel-aussen.jpg
+image_srcset:
+  St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg/400px-St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg/800px-St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg/1200px-St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg/1920px-St.Antonius-Kirche%20in%20Bispingen%20IMG%200421.jpg
+  2009-05-14-Antoniuskirche-Basel-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009-05-14-Antoniuskirche-Basel-01.jpg/400px-2009-05-14-Antoniuskirche-Basel-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009-05-14-Antoniuskirche-Basel-01.jpg/800px-2009-05-14-Antoniuskirche-Basel-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009-05-14-Antoniuskirche-Basel-01.jpg/1200px-2009-05-14-Antoniuskirche-Basel-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2009-05-14-Antoniuskirche-Basel-01.jpg/1920px-2009-05-14-Antoniuskirche-Basel-01.jpg
+  2009-05-14-Antoniuskirche-Basel-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2009-05-14-Antoniuskirche-Basel-06.jpg/400px-2009-05-14-Antoniuskirche-Basel-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2009-05-14-Antoniuskirche-Basel-06.jpg/800px-2009-05-14-Antoniuskirche-Basel-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2009-05-14-Antoniuskirche-Basel-06.jpg/1200px-2009-05-14-Antoniuskirche-Basel-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2009-05-14-Antoniuskirche-Basel-06.jpg/1920px-2009-05-14-Antoniuskirche-Basel-06.jpg
+  Kirchenschiff der Katholische Kirche St. Antonius.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg/400px-Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg/800px-Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg/1200px-Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg/1920px-Kirchenschiff_der_Katholische_Kirche_St._Antonius.jpg
+  St-anton-basel-aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St-anton-basel-aussen.jpg/400px-St-anton-basel-aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St-anton-basel-aussen.jpg/800px-St-anton-basel-aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St-anton-basel-aussen.jpg/1200px-St-anton-basel-aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St-anton-basel-aussen.jpg/1920px-St-anton-basel-aussen.jpg
 ---
 
 ## Overview

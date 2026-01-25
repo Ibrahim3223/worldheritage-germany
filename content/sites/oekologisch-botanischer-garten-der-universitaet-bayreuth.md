@@ -21,9 +21,9 @@ longitude: 11.5854
 
 # Images
 images:
-  - "/images-sites/oekologisch-botanischer-garten-der-universitaet-bayreuth/01-65182003-800w.webp"
-  - "/images-sites/oekologisch-botanischer-garten-der-universitaet-bayreuth/02-be3539bc-800w.webp"
-  - "/images-sites/oekologisch-botanischer-garten-der-universitaet-bayreuth/03-0cb62df8-800w.webp"
+  - "/images/oekologisch-botanischer-garten-der-universitaet-bayreuth/01-65182003-800w.webp"
+  - "/images/oekologisch-botanischer-garten-der-universitaet-bayreuth/02-be3539bc-800w.webp"
+  - "/images/oekologisch-botanischer-garten-der-universitaet-bayreuth/03-0cb62df8-800w.webp"
 ---
 
 ## Overview

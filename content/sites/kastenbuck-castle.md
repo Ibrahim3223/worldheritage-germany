@@ -21,7 +21,7 @@ longitude: 7.844
 
 # Images
 images:
-  - "/images-sites/kastenbuck-castle/01-13797d96-800w.webp"
+  - "/images/kastenbuck-castle/01-13797d96-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.198611111
 longitude: 8.730555555
 images:
-  - "/images-sites/siematic/01-d195bca3-800w.webp"
+  - "/images/siematic/01-d195bca3-800w.webp"
 ---
 
 ## Overview

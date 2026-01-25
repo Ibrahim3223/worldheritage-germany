@@ -13,9 +13,9 @@ regions:
 latitude: 47.68333333
 longitude: 9.0
 images:
-  - "/images-sites/untersee/01-1b04e891-800w.webp"
-  - "/images-sites/untersee/02-6749850c-800w.webp"
-  - "/images-sites/untersee/03-e2129be5-800w.webp"
+  - "/images/untersee/01-1b04e891-800w.webp"
+  - "/images/untersee/02-6749850c-800w.webp"
+  - "/images/untersee/03-e2129be5-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,52 @@
 ---
-title: "Church in Gross Tessin"
-site_name: "Church in Gross Tessin"
-slug: "church-in-gross-tessin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Gross Tessin
+site_name: Church in Gross Tessin
+slug: church-in-gross-tessin
+region: Mecklenburg-Vorpommern
 latitude: 53.8968
 longitude: 11.787
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244336"
-description: "The Church in Gross Tessin stands as a captivating example of Brick Gothic architecture in the heart of Glasin, Germany. Its striking design and histori..."
+- cultural site
+wikidata_id: Q1244336
+description: The Church in Gross Tessin stands as a captivating example of Brick Gothic
+  architecture in the heart of Glasin, Germany. Its striking design and histori...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gross%20Tessin%20Kirche%203.jpg/1200px-Gross%20Tessin%20Kirche%203.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gross_Tessin_Kirche_2.jpg/1200px-Gross_Tessin_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1200px-Gross_Tessin_Kirche_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png
+image_srcset:
+  Gross%20Tessin%20Kirche%203.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gross%20Tessin%20Kirche%203.jpg/400px-Gross%20Tessin%20Kirche%203.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gross%20Tessin%20Kirche%203.jpg/800px-Gross%20Tessin%20Kirche%203.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gross%20Tessin%20Kirche%203.jpg/1200px-Gross%20Tessin%20Kirche%203.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gross%20Tessin%20Kirche%203.jpg/1920px-Gross%20Tessin%20Kirche%203.jpg
+  Gross Tessin Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gross_Tessin_Kirche_2.jpg/400px-Gross_Tessin_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gross_Tessin_Kirche_2.jpg/800px-Gross_Tessin_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gross_Tessin_Kirche_2.jpg/1200px-Gross_Tessin_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gross_Tessin_Kirche_2.jpg/1920px-Gross_Tessin_Kirche_2.jpg
+  Gross Tessin Kirche 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/400px-Gross_Tessin_Kirche_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/800px-Gross_Tessin_Kirche_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1200px-Gross_Tessin_Kirche_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gross_Tessin_Kirche_3.jpg/1920px-Gross_Tessin_Kirche_3.jpg
+  ? Die Amtsgerichtsbezirke Hagenow, Wittenburg, Boizenburg, Lübtheen, Dömitz, Grabow,
+    Ludwigslust, Neustadt, Crivitz, Brüel, Warin, Neubukow, Kröpelin und Doberan S.469.png
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png/400px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png/800px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png/1920px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.469.png
+  ? Die Amtsgerichtsbezirke Hagenow, Wittenburg, Boizenburg, Lübtheen, Dömitz, Grabow,
+    Ludwigslust, Neustadt, Crivitz, Brüel, Warin, Neubukow, Kröpelin und Doberan S.467.png
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png/400px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png/800px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png/1920px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.467.png
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "III. Städtischer Friedhof Stubenrauchstraße"
+title: III. Städtischer Friedhof Stubenrauchstraße
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.476388888
 longitude: 13.322777777
 images:
-  - "/images-sites/iii-staedtischer-friedhof-stubenrauchstrasse/01-f454449a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedhof_friedenau_2018-03-24_(16).jpg/1200px-Friedhof_friedenau_2018-03-24_(16).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marlene_dietrich_grab_2020-04-23.png/1200px-Marlene_dietrich_grab_2020-04-23.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Portal_Friedhof_Friedenau.jpg/1200px-Portal_Friedhof_Friedenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg/1200px-2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg/1200px-2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg
+image_srcset:
+  Friedhof friedenau 2018-03-24 (16).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedhof_friedenau_2018-03-24_(16).jpg/400px-Friedhof_friedenau_2018-03-24_(16).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedhof_friedenau_2018-03-24_(16).jpg/800px-Friedhof_friedenau_2018-03-24_(16).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedhof_friedenau_2018-03-24_(16).jpg/1200px-Friedhof_friedenau_2018-03-24_(16).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedhof_friedenau_2018-03-24_(16).jpg/1920px-Friedhof_friedenau_2018-03-24_(16).jpg
+  Marlene dietrich grab 2020-04-23.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marlene_dietrich_grab_2020-04-23.png/400px-Marlene_dietrich_grab_2020-04-23.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marlene_dietrich_grab_2020-04-23.png/800px-Marlene_dietrich_grab_2020-04-23.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marlene_dietrich_grab_2020-04-23.png/1200px-Marlene_dietrich_grab_2020-04-23.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marlene_dietrich_grab_2020-04-23.png/1920px-Marlene_dietrich_grab_2020-04-23.png
+  Portal Friedhof Friedenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Portal_Friedhof_Friedenau.jpg/400px-Portal_Friedhof_Friedenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Portal_Friedhof_Friedenau.jpg/800px-Portal_Friedhof_Friedenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Portal_Friedhof_Friedenau.jpg/1200px-Portal_Friedhof_Friedenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Portal_Friedhof_Friedenau.jpg/1920px-Portal_Friedhof_Friedenau.jpg
+  2006-07-24 Friedhof Schoeneberg III Urnenhalle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg/400px-2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg/800px-2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg/1200px-2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg/1920px-2006-07-24_Friedhof_Schoeneberg_III_Urnenhalle.jpg
+  2006-07-24 Friedhof Schoeneberg III Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg/400px-2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg/800px-2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg/1200px-2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg/1920px-2006-07-24_Friedhof_Schoeneberg_III_Kapelle.jpg
 ---
 
 ## Overview

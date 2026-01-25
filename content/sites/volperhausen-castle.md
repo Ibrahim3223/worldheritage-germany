@@ -13,7 +13,7 @@ regions:
 latitude: 50.832
 longitude: 7.70267
 images:
-  - "/images-sites/volperhausen-castle/01-e78260e3-800w.webp"
+  - "/images/volperhausen-castle/01-e78260e3-800w.webp"
 ---
 
 ## Overview

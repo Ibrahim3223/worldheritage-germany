@@ -21,7 +21,7 @@ longitude: 11.5636
 
 # Images
 images:
-  - "/images-sites/mathaeser/01-9bf4a7e1-800w.webp"
+  - "/images/mathaeser/01-9bf4a7e1-800w.webp"
 ---
 
 ## Overview

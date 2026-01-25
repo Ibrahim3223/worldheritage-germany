@@ -1,19 +1,50 @@
 ---
-title: "Grips-Theater"
+title: Grips-Theater
 date: 2026-01-23
 draft: false
-description: "theatre company and theatre (a former cinema) in Hansaviertel, Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: theatre company and theatre (a former cinema) in Hansaviertel, Berlin,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5188564
 longitude: 13.3417348
 images:
-  - "/images-sites/grips-theater/01-bb48d4e1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hansaviertel_Hansaplatz_Gripstheater-004.JPG/1200px-Hansaviertel_Hansaplatz_Gripstheater-004.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hansaviertel_Hansaplatz_Gripstheater-005.JPG/1200px-Hansaviertel_Hansaplatz_Gripstheater-005.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grips-theater.berlin-hansaplatz.JPG/1200px-Grips-theater.berlin-hansaplatz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/1200px-Grips-theater.berlin-hansaplatz.II.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hansaviertel_Hansaplatz_Gripstheater-006.JPG/1200px-Hansaviertel_Hansaplatz_Gripstheater-006.JPG
+image_srcset:
+  Hansaviertel Hansaplatz Gripstheater-004.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hansaviertel_Hansaplatz_Gripstheater-004.JPG/400px-Hansaviertel_Hansaplatz_Gripstheater-004.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hansaviertel_Hansaplatz_Gripstheater-004.JPG/800px-Hansaviertel_Hansaplatz_Gripstheater-004.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hansaviertel_Hansaplatz_Gripstheater-004.JPG/1200px-Hansaviertel_Hansaplatz_Gripstheater-004.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hansaviertel_Hansaplatz_Gripstheater-004.JPG/1920px-Hansaviertel_Hansaplatz_Gripstheater-004.JPG
+  Hansaviertel Hansaplatz Gripstheater-005.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hansaviertel_Hansaplatz_Gripstheater-005.JPG/400px-Hansaviertel_Hansaplatz_Gripstheater-005.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hansaviertel_Hansaplatz_Gripstheater-005.JPG/800px-Hansaviertel_Hansaplatz_Gripstheater-005.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hansaviertel_Hansaplatz_Gripstheater-005.JPG/1200px-Hansaviertel_Hansaplatz_Gripstheater-005.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hansaviertel_Hansaplatz_Gripstheater-005.JPG/1920px-Hansaviertel_Hansaplatz_Gripstheater-005.JPG
+  Grips-theater.berlin-hansaplatz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grips-theater.berlin-hansaplatz.JPG/400px-Grips-theater.berlin-hansaplatz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grips-theater.berlin-hansaplatz.JPG/800px-Grips-theater.berlin-hansaplatz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grips-theater.berlin-hansaplatz.JPG/1200px-Grips-theater.berlin-hansaplatz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Grips-theater.berlin-hansaplatz.JPG/1920px-Grips-theater.berlin-hansaplatz.JPG
+  Grips-theater.berlin-hansaplatz.II.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/400px-Grips-theater.berlin-hansaplatz.II.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/800px-Grips-theater.berlin-hansaplatz.II.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/1200px-Grips-theater.berlin-hansaplatz.II.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grips-theater.berlin-hansaplatz.II.JPG/1920px-Grips-theater.berlin-hansaplatz.II.JPG
+  Hansaviertel Hansaplatz Gripstheater-006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hansaviertel_Hansaplatz_Gripstheater-006.JPG/400px-Hansaviertel_Hansaplatz_Gripstheater-006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hansaviertel_Hansaplatz_Gripstheater-006.JPG/800px-Hansaviertel_Hansaplatz_Gripstheater-006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hansaviertel_Hansaplatz_Gripstheater-006.JPG/1200px-Hansaviertel_Hansaplatz_Gripstheater-006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hansaviertel_Hansaplatz_Gripstheater-006.JPG/1920px-Hansaviertel_Hansaplatz_Gripstheater-006.JPG
 ---
 
 ## Overview

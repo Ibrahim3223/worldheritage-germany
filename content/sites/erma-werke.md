@@ -1,21 +1,49 @@
 ---
-title: "Erma Werke"
+title: Erma Werke
 date: 2026-01-23
 draft: false
-description: "German arms manufacturing company"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: German arms manufacturing company
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 48.25908611
 longitude: 11.44938611
 images:
-  - "/images-sites/erma-werke/01-84bb2b00-800w.webp"
-  - "/images-sites/erma-werke/02-6a7953ed-800w.webp"
-  - "/images-sites/erma-werke/03-c4d9aead-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Erma_ESP_85_A.png/1200px-Erma_ESP_85_A.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Erma_.380_Luger,_Wikipedia.jpg/1200px-Erma_.380_Luger,_Wikipedia.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erma_EM1,_calibre_.22_LR.jpg/1200px-Erma_EM1,_calibre_.22_LR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erma_EM1_-_caliber_.22_LR.jpg/1200px-Erma_EM1_-_caliber_.22_LR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ermaegr66x001.png/1200px-Ermaegr66x001.png
+image_srcset:
+  Erma ESP 85 A.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Erma_ESP_85_A.png/400px-Erma_ESP_85_A.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Erma_ESP_85_A.png/800px-Erma_ESP_85_A.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Erma_ESP_85_A.png/1200px-Erma_ESP_85_A.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Erma_ESP_85_A.png/1920px-Erma_ESP_85_A.png
+  Erma .380 Luger, Wikipedia.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Erma_.380_Luger,_Wikipedia.jpg/400px-Erma_.380_Luger,_Wikipedia.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Erma_.380_Luger,_Wikipedia.jpg/800px-Erma_.380_Luger,_Wikipedia.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Erma_.380_Luger,_Wikipedia.jpg/1200px-Erma_.380_Luger,_Wikipedia.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Erma_.380_Luger,_Wikipedia.jpg/1920px-Erma_.380_Luger,_Wikipedia.jpg
+  Erma EM1, calibre .22 LR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erma_EM1,_calibre_.22_LR.jpg/400px-Erma_EM1,_calibre_.22_LR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erma_EM1,_calibre_.22_LR.jpg/800px-Erma_EM1,_calibre_.22_LR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erma_EM1,_calibre_.22_LR.jpg/1200px-Erma_EM1,_calibre_.22_LR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erma_EM1,_calibre_.22_LR.jpg/1920px-Erma_EM1,_calibre_.22_LR.jpg
+  Erma EM1 - caliber .22 LR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erma_EM1_-_caliber_.22_LR.jpg/400px-Erma_EM1_-_caliber_.22_LR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erma_EM1_-_caliber_.22_LR.jpg/800px-Erma_EM1_-_caliber_.22_LR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erma_EM1_-_caliber_.22_LR.jpg/1200px-Erma_EM1_-_caliber_.22_LR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Erma_EM1_-_caliber_.22_LR.jpg/1920px-Erma_EM1_-_caliber_.22_LR.jpg
+  Ermaegr66x001.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ermaegr66x001.png/400px-Ermaegr66x001.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ermaegr66x001.png/800px-Ermaegr66x001.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ermaegr66x001.png/1200px-Ermaegr66x001.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ermaegr66x001.png/1920px-Ermaegr66x001.png
 ---
 
 ## Overview

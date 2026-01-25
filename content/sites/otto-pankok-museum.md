@@ -13,7 +13,7 @@ regions:
 latitude: 51.71
 longitude: 6.69972
 images:
-  - "/images-sites/otto-pankok-museum/01-857a62af-800w.webp"
+  - "/images/otto-pankok-museum/01-857a62af-800w.webp"
 ---
 
 ## Overview

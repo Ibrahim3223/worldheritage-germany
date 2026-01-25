@@ -1,27 +1,31 @@
 ---
-title: "Feddersen Wierde"
+title: Feddersen Wierde
 date: 2026-01-23
 draft: false
-description: "archaeological site in Lower Saxony, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: archaeological site in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.6611
 longitude: 8.55
-
-# Images
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Feddersen_Wierde_Hofmodell.jpg/1200px-Feddersen_Wierde_Hofmodell.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feddersen_Wierde_1.jpg/1200px-Feddersen_Wierde_1.jpg
+image_srcset:
+  Feddersen Wierde Hofmodell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Feddersen_Wierde_Hofmodell.jpg/400px-Feddersen_Wierde_Hofmodell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Feddersen_Wierde_Hofmodell.jpg/800px-Feddersen_Wierde_Hofmodell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Feddersen_Wierde_Hofmodell.jpg/1200px-Feddersen_Wierde_Hofmodell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Feddersen_Wierde_Hofmodell.jpg/1920px-Feddersen_Wierde_Hofmodell.jpg
+  Feddersen Wierde 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feddersen_Wierde_1.jpg/400px-Feddersen_Wierde_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feddersen_Wierde_1.jpg/800px-Feddersen_Wierde_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feddersen_Wierde_1.jpg/1200px-Feddersen_Wierde_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Feddersen_Wierde_1.jpg/1920px-Feddersen_Wierde_1.jpg
 ---
 
 ## Overview

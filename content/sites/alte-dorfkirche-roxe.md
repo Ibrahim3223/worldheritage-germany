@@ -1,24 +1,45 @@
 ---
-title: "Alte Dorfkirche Röxe"
-site_name: "Alte Dorfkirche Röxe"
-slug: "alte-dorfkirche-roxe"
-region: "Brandenburg"
-
-# Location
+title: Alte Dorfkirche Röxe
+site_name: Alte Dorfkirche Röxe
+slug: alte-dorfkirche-roxe
+region: Brandenburg
 latitude: 52.5906
 longitude: 11.8381
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q435526"
-description: "The Alte Dorfkirche Röxe, a captivating example of Romanesque architecture, stands as a notable landmark in the Stendal region of Germany. This historic..."
+- church building
+- religious site
+wikidata_id: Q435526
+description: The Alte Dorfkirche Röxe, a captivating example of Romanesque architecture,
+  stands as a notable landmark in the Stendal region of Germany. This historic...
 images:
-  - "/images-sites/alte-dorfkirche-roxe/01-d47c48b7-1920w.webp"
-  - "/images-sites/alte-dorfkirche-roxe/02-727d1694-1920w.webp"
-  - "/images-sites/alte-dorfkirche-roxe/03-9aa4db72-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte%20Dorfkirche%20R%C3%B6xe.JPG/1200px-Alte%20Dorfkirche%20R%C3%B6xe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Alte_Dorfkirche_Röxe2.JPG/1200px-Alte_Dorfkirche_Röxe2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Dorfkirche_Röxe.JPG/1200px-Alte_Dorfkirche_Röxe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_Dorfkirche_Röxe3.JPG/1200px-Alte_Dorfkirche_Röxe3.JPG
+image_srcset:
+  Alte%20Dorfkirche%20R%C3%B6xe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte%20Dorfkirche%20R%C3%B6xe.JPG/400px-Alte%20Dorfkirche%20R%C3%B6xe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte%20Dorfkirche%20R%C3%B6xe.JPG/800px-Alte%20Dorfkirche%20R%C3%B6xe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte%20Dorfkirche%20R%C3%B6xe.JPG/1200px-Alte%20Dorfkirche%20R%C3%B6xe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alte%20Dorfkirche%20R%C3%B6xe.JPG/1920px-Alte%20Dorfkirche%20R%C3%B6xe.JPG
+  Alte Dorfkirche Röxe2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Alte_Dorfkirche_Röxe2.JPG/400px-Alte_Dorfkirche_Röxe2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Alte_Dorfkirche_Röxe2.JPG/800px-Alte_Dorfkirche_Röxe2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Alte_Dorfkirche_Röxe2.JPG/1200px-Alte_Dorfkirche_Röxe2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Alte_Dorfkirche_Röxe2.JPG/1920px-Alte_Dorfkirche_Röxe2.JPG
+  Alte Dorfkirche Röxe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Dorfkirche_Röxe.JPG/400px-Alte_Dorfkirche_Röxe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Dorfkirche_Röxe.JPG/800px-Alte_Dorfkirche_Röxe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Dorfkirche_Röxe.JPG/1200px-Alte_Dorfkirche_Röxe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alte_Dorfkirche_Röxe.JPG/1920px-Alte_Dorfkirche_Röxe.JPG
+  Alte Dorfkirche Röxe3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_Dorfkirche_Röxe3.JPG/400px-Alte_Dorfkirche_Röxe3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_Dorfkirche_Röxe3.JPG/800px-Alte_Dorfkirche_Röxe3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_Dorfkirche_Röxe3.JPG/1200px-Alte_Dorfkirche_Röxe3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_Dorfkirche_Röxe3.JPG/1920px-Alte_Dorfkirche_Röxe3.JPG
 ---
 
 ## Overview

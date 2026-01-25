@@ -13,7 +13,7 @@ regions:
 latitude: 50.940615548
 longitude: 6.950177092
 images:
-  - "/images-sites/ns-documentation-centre-of-the-city-of-cologne/01-06ed9510-800w.webp"
+  - "/images/ns-documentation-centre-of-the-city-of-cologne/01-06ed9510-800w.webp"
 ---
 
 ## Overview

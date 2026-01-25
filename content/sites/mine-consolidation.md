@@ -13,7 +13,7 @@ regions:
 latitude: 51.5306
 longitude: 7.11333
 images:
-  - "/images-sites/mine-consolidation/01-88c9340c-800w.webp"
+  - "/images/mine-consolidation/01-88c9340c-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.158056
 longitude: 11.503611
 images:
-  - "/images-sites/nymphenburg-palace/01-b7ca8531-800w.webp"
+  - "/images/nymphenburg-palace/01-b7ca8531-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 11.3155
 
 # Images
 images:
-  - "/images-sites/zwernitz-castle/01-f6813ddf-800w.webp"
+  - "/images/zwernitz-castle/01-f6813ddf-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Achen Pass"
+title: Achen Pass
 date: 2026-01-23
 draft: false
-description: "mountain pass in the Bavarian Alps in Bavaria near to the border to Tyrol"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: mountain pass in the Bavarian Alps in Bavaria near to the border to Tyrol
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 47.603333
 longitude: 11.635556
 images:
-  - "/images-sites/achen-pass/01-19b407d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Achenpass.jpg/1200px-Achenpass.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Achenpass-S.jpg/1200px-Achenpass-S.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Grenzübergang_Achenpass_2.jpg/1200px-Grenzübergang_Achenpass_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Border_crossing_between_AT_and_DE_at_Achenpass.jpg/1200px-Border_crossing_between_AT_and_DE_at_Achenpass.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Grenzübergang_Achenpass.jpg/1200px-Grenzübergang_Achenpass.jpg
+image_srcset:
+  Achenpass.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Achenpass.jpg/400px-Achenpass.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Achenpass.jpg/800px-Achenpass.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Achenpass.jpg/1200px-Achenpass.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Achenpass.jpg/1920px-Achenpass.jpg
+  Achenpass-S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Achenpass-S.jpg/400px-Achenpass-S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Achenpass-S.jpg/800px-Achenpass-S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Achenpass-S.jpg/1200px-Achenpass-S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Achenpass-S.jpg/1920px-Achenpass-S.jpg
+  Grenzübergang Achenpass 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Grenzübergang_Achenpass_2.jpg/400px-Grenzübergang_Achenpass_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Grenzübergang_Achenpass_2.jpg/800px-Grenzübergang_Achenpass_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Grenzübergang_Achenpass_2.jpg/1200px-Grenzübergang_Achenpass_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Grenzübergang_Achenpass_2.jpg/1920px-Grenzübergang_Achenpass_2.jpg
+  Border crossing between AT and DE at Achenpass.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Border_crossing_between_AT_and_DE_at_Achenpass.jpg/400px-Border_crossing_between_AT_and_DE_at_Achenpass.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Border_crossing_between_AT_and_DE_at_Achenpass.jpg/800px-Border_crossing_between_AT_and_DE_at_Achenpass.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Border_crossing_between_AT_and_DE_at_Achenpass.jpg/1200px-Border_crossing_between_AT_and_DE_at_Achenpass.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Border_crossing_between_AT_and_DE_at_Achenpass.jpg/1920px-Border_crossing_between_AT_and_DE_at_Achenpass.jpg
+  Grenzübergang Achenpass.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Grenzübergang_Achenpass.jpg/400px-Grenzübergang_Achenpass.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Grenzübergang_Achenpass.jpg/800px-Grenzübergang_Achenpass.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Grenzübergang_Achenpass.jpg/1200px-Grenzübergang_Achenpass.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Grenzübergang_Achenpass.jpg/1920px-Grenzübergang_Achenpass.jpg
 ---
 
 ## Overview

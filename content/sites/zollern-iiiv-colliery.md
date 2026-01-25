@@ -13,7 +13,7 @@ regions:
 latitude: 51.5178
 longitude: 7.33465
 images:
-  - "/images-sites/zollern-iiiv-colliery/01-e00d7d09-800w.webp"
+  - "/images/zollern-iiiv-colliery/01-e00d7d09-800w.webp"
 ---
 
 ## Overview

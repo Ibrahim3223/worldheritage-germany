@@ -13,7 +13,7 @@ regions:
 latitude: 52.5175
 longitude: 13.4347
 images:
-  - "/images-sites/statue-of-joseph-stalin/03-bfa0c5b9-800w.webp"
+  - "/images/statue-of-joseph-stalin/03-bfa0c5b9-800w.webp"
 ---
 
 ## Overview

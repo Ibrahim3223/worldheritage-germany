@@ -1,21 +1,49 @@
 ---
-title: "Bagger 1452"
+title: Bagger 1452
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.06758889
 longitude: 14.9579
 images:
-  - "/images-sites/bagger-1452/01-bf510a40-800w.webp"
-  - "/images-sites/bagger-1452/02-679889a7-800w.webp"
-  - "/images-sites/bagger-1452/03-41568bc6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg/1200px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg/1200px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Görlitz_-_Bagger_1452_14_ies.jpg/1200px-Görlitz_-_Bagger_1452_14_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1200px-Bagger_1452.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lok_bei_Bagger_1452_Hagenwerder.jpg/1200px-Lok_bei_Bagger_1452_Hagenwerder.jpg
+image_srcset:
+  Görlitz - Bagger 1452 - Raupe T 180 G 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg/400px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg/800px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg/1200px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg/1920px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_01_ies.jpg
+  Görlitz - Bagger 1452 - Raupe T 180 G 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg/400px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg/800px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg/1200px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg/1920px-Görlitz_-_Bagger_1452_-_Raupe_T_180_G_03_ies.jpg
+  Görlitz - Bagger 1452 14 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Görlitz_-_Bagger_1452_14_ies.jpg/400px-Görlitz_-_Bagger_1452_14_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Görlitz_-_Bagger_1452_14_ies.jpg/800px-Görlitz_-_Bagger_1452_14_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Görlitz_-_Bagger_1452_14_ies.jpg/1200px-Görlitz_-_Bagger_1452_14_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Görlitz_-_Bagger_1452_14_ies.jpg/1920px-Görlitz_-_Bagger_1452_14_ies.jpg
+  Bagger 1452.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/400px-Bagger_1452.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/800px-Bagger_1452.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1200px-Bagger_1452.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bagger_1452.jpg/1920px-Bagger_1452.jpg
+  Lok bei Bagger 1452 Hagenwerder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lok_bei_Bagger_1452_Hagenwerder.jpg/400px-Lok_bei_Bagger_1452_Hagenwerder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lok_bei_Bagger_1452_Hagenwerder.jpg/800px-Lok_bei_Bagger_1452_Hagenwerder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lok_bei_Bagger_1452_Hagenwerder.jpg/1200px-Lok_bei_Bagger_1452_Hagenwerder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lok_bei_Bagger_1452_Hagenwerder.jpg/1920px-Lok_bei_Bagger_1452_Hagenwerder.jpg
 ---
 
 ## Overview

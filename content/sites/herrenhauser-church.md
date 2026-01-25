@@ -1,23 +1,50 @@
 ---
-title: "Herrenhäuser Church"
-site_name: "Herrenhäuser Church"
-slug: "herrenhauser-church"
-region: "Lower Saxony"
-
-# Location
+title: Herrenhäuser Church
+site_name: Herrenhäuser Church
+slug: herrenhauser-church
+region: Lower Saxony
 latitude: 52.3933
 longitude: 9.68989
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1614113"
-description: "Herrenhäuser Church, located in the Herrenhausen-Stöcken region of Hannover, Germany, is a striking example of Gothic Revival architecture. This church ..."
+- cultural site
+wikidata_id: Q1614113
+description: Herrenhäuser Church, located in the Herrenhausen-Stöcken region of Hannover,
+  Germany, is a striking example of Gothic Revival architecture. This church ...
 images:
-  - "/images-sites/herrenhauser-church/01-38bd03b8-1920w.webp"
-  - "/images-sites/herrenhauser-church/02-d7c72022-1920w.webp"
-  - "/images-sites/herrenhauser-church/03-a10129c9-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg/1200px-Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg/1200px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg/1200px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1200px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/OrgelHerrenhausen.jpg/1200px-OrgelHerrenhausen.jpg
+image_srcset:
+  Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg/400px-Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg/800px-Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg/1200px-Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg/1920px-Kirche%20Herrenhausen%20%28Hannover%29%20IMG%208540.jpg
+  Hannover-Herrenhausen - Kirche - Innenansicht - Ostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg/400px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg/800px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg/1200px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg/1920px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Ostseite.jpg
+  Hannover-Herrenhausen - Kirche - Innenansicht - Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg/400px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg/800px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg/1200px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg/1920px-Hannover-Herrenhausen_-_Kirche_-_Innenansicht_-_Westseite.jpg
+  Kirche Herrenhausen (Hannover) IMG 8540.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/400px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/800px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1200px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg/1920px-Kirche_Herrenhausen_(Hannover)_IMG_8540.jpg
+  OrgelHerrenhausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/OrgelHerrenhausen.jpg/400px-OrgelHerrenhausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/OrgelHerrenhausen.jpg/800px-OrgelHerrenhausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/OrgelHerrenhausen.jpg/1200px-OrgelHerrenhausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/OrgelHerrenhausen.jpg/1920px-OrgelHerrenhausen.jpg
 ---
 
 ## Overview

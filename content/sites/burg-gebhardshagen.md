@@ -1,27 +1,43 @@
 ---
-title: "Burg Gebhardshagen"
+title: Burg Gebhardshagen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.1042
 longitude: 10.3587
-
-# Images
 images:
-  - "/images-sites/burg-gebhardshagen/01-186a47b1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg/1200px-Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg_Gebhardshagen_Front_mit_Tor.jpg/1200px-Burg_Gebhardshagen_Front_mit_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Gebhardshagen_Nordostseite.jpg/1200px-Burg_Gebhardshagen_Nordostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gebhartshagen_Burg_Merian.jpg/1200px-Gebhartshagen_Burg_Merian.jpg
+image_srcset:
+  Wasserburg Gebhardshagen 2012-02-07 13.14.39.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg/400px-Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg/800px-Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg/1200px-Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg/1920px-Wasserburg_Gebhardshagen_2012-02-07_13.14.39.jpg
+  Burg Gebhardshagen Front mit Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg_Gebhardshagen_Front_mit_Tor.jpg/400px-Burg_Gebhardshagen_Front_mit_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg_Gebhardshagen_Front_mit_Tor.jpg/800px-Burg_Gebhardshagen_Front_mit_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg_Gebhardshagen_Front_mit_Tor.jpg/1200px-Burg_Gebhardshagen_Front_mit_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burg_Gebhardshagen_Front_mit_Tor.jpg/1920px-Burg_Gebhardshagen_Front_mit_Tor.jpg
+  Burg Gebhardshagen Nordostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Gebhardshagen_Nordostseite.jpg/400px-Burg_Gebhardshagen_Nordostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Gebhardshagen_Nordostseite.jpg/800px-Burg_Gebhardshagen_Nordostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Gebhardshagen_Nordostseite.jpg/1200px-Burg_Gebhardshagen_Nordostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg_Gebhardshagen_Nordostseite.jpg/1920px-Burg_Gebhardshagen_Nordostseite.jpg
+  Gebhartshagen Burg Merian.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gebhartshagen_Burg_Merian.jpg/400px-Gebhartshagen_Burg_Merian.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gebhartshagen_Burg_Merian.jpg/800px-Gebhartshagen_Burg_Merian.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gebhartshagen_Burg_Merian.jpg/1200px-Gebhartshagen_Burg_Merian.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gebhartshagen_Burg_Merian.jpg/1920px-Gebhartshagen_Burg_Merian.jpg
 ---
 
 ## Overview

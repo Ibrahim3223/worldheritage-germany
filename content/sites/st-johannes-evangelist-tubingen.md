@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2319366"
 description: "In the heart of Tübingen, Germany, the St. Johannes Evangelist church stands as a remarkable example of Gothic Revival architecture. Built in 1875 under..."
 images:
-  - "/images-sites/st-johannes-evangelist-tubingen/01-6087fcdd-1920w.webp"
-  - "/images-sites/st-johannes-evangelist-tubingen/02-a5d05914-1920w.webp"
-  - "/images-sites/st-johannes-evangelist-tubingen/03-2e1fa38b-1920w.webp"
+  - "/images/st-johannes-evangelist-tubingen/01-6087fcdd-1920w.webp"
+  - "/images/st-johannes-evangelist-tubingen/02-a5d05914-1920w.webp"
+  - "/images/st-johannes-evangelist-tubingen/03-2e1fa38b-1920w.webp"
 ---
 
 ## Overview

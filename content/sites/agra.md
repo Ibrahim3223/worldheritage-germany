@@ -1,21 +1,49 @@
 ---
-title: "agra"
+title: agra
 date: 2026-01-23
 draft: false
-description: "event venue in Leipzig and Markkleeberg, Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: event venue in Leipzig and Markkleeberg, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2838
 longitude: 12.39
 images:
-  - "/images-sites/agra/01-ed7d7359-800w.webp"
-  - "/images-sites/agra/02-aaa8975c-800w.webp"
-  - "/images-sites/agra/03-8dbf7c2b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal,_Agra,_India.jpg/1200px-Taj_Mahal,_Agra,_India.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal,_Agra,_India_edit2.jpg/1200px-Taj_Mahal,_Agra,_India_edit2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal,_Agra,_India_edit3.jpg/1200px-Taj_Mahal,_Agra,_India_edit3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1200px-Taj_Mahal-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/1200px-Taj_Mahal_in_March_2004.jpg
+image_srcset:
+  Taj Mahal, Agra, India.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal,_Agra,_India.jpg/400px-Taj_Mahal,_Agra,_India.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal,_Agra,_India.jpg/800px-Taj_Mahal,_Agra,_India.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal,_Agra,_India.jpg/1200px-Taj_Mahal,_Agra,_India.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal,_Agra,_India.jpg/1920px-Taj_Mahal,_Agra,_India.jpg
+  Taj Mahal, Agra, India edit2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal,_Agra,_India_edit2.jpg/400px-Taj_Mahal,_Agra,_India_edit2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal,_Agra,_India_edit2.jpg/800px-Taj_Mahal,_Agra,_India_edit2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal,_Agra,_India_edit2.jpg/1200px-Taj_Mahal,_Agra,_India_edit2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Taj_Mahal,_Agra,_India_edit2.jpg/1920px-Taj_Mahal,_Agra,_India_edit2.jpg
+  Taj Mahal, Agra, India edit3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal,_Agra,_India_edit3.jpg/400px-Taj_Mahal,_Agra,_India_edit3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal,_Agra,_India_edit3.jpg/800px-Taj_Mahal,_Agra,_India_edit3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal,_Agra,_India_edit3.jpg/1200px-Taj_Mahal,_Agra,_India_edit3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal,_Agra,_India_edit3.jpg/1920px-Taj_Mahal,_Agra,_India_edit3.jpg
+  Taj Mahal-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/400px-Taj_Mahal-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/800px-Taj_Mahal-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1200px-Taj_Mahal-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taj_Mahal-11.jpg/1920px-Taj_Mahal-11.jpg
+  Taj Mahal in March 2004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/400px-Taj_Mahal_in_March_2004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/800px-Taj_Mahal_in_March_2004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/1200px-Taj_Mahal_in_March_2004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/1920px-Taj_Mahal_in_March_2004.jpg
 ---
 
 ## Overview

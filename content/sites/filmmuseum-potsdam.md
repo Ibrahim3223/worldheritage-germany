@@ -1,19 +1,49 @@
 ---
-title: "Filmmuseum Potsdam"
+title: Filmmuseum Potsdam
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3953
 longitude: 13.0581
 images:
-  - "/images-sites/filmmuseum-potsdam/01-0de8b1be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg/1200px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg/1200px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filmmuseum_Potsdam_1.jpg/1200px-Filmmuseum_Potsdam_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Filmmuseum_Potsdam_-_panoramio.jpg/1200px-Filmmuseum_Potsdam_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Potsdam_Filmmuseum_in_April_2014.jpg/1200px-Potsdam_Filmmuseum_in_April_2014.jpg
+image_srcset:
+  Filmmuseum, Nikolaikirche und Stadtschloss - Potsdam 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg/400px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg/800px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg/1200px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg/1920px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam_2.jpg
+  Filmmuseum, Nikolaikirche und Stadtschloss - Potsdam.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg/400px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg/800px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg/1200px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg/1920px-Filmmuseum,_Nikolaikirche_und_Stadtschloss_-_Potsdam.jpg
+  Filmmuseum Potsdam 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filmmuseum_Potsdam_1.jpg/400px-Filmmuseum_Potsdam_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filmmuseum_Potsdam_1.jpg/800px-Filmmuseum_Potsdam_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filmmuseum_Potsdam_1.jpg/1200px-Filmmuseum_Potsdam_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Filmmuseum_Potsdam_1.jpg/1920px-Filmmuseum_Potsdam_1.jpg
+  Filmmuseum Potsdam - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Filmmuseum_Potsdam_-_panoramio.jpg/400px-Filmmuseum_Potsdam_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Filmmuseum_Potsdam_-_panoramio.jpg/800px-Filmmuseum_Potsdam_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Filmmuseum_Potsdam_-_panoramio.jpg/1200px-Filmmuseum_Potsdam_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Filmmuseum_Potsdam_-_panoramio.jpg/1920px-Filmmuseum_Potsdam_-_panoramio.jpg
+  Potsdam Filmmuseum in April 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Potsdam_Filmmuseum_in_April_2014.jpg/400px-Potsdam_Filmmuseum_in_April_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Potsdam_Filmmuseum_in_April_2014.jpg/800px-Potsdam_Filmmuseum_in_April_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Potsdam_Filmmuseum_in_April_2014.jpg/1200px-Potsdam_Filmmuseum_in_April_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Potsdam_Filmmuseum_in_April_2014.jpg/1920px-Potsdam_Filmmuseum_in_April_2014.jpg
 ---
 
 ## Overview

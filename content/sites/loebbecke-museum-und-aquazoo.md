@@ -13,9 +13,9 @@ regions:
 latitude: 51.2564
 longitude: 6.74972
 images:
-  - "/images-sites/loebbecke-museum-und-aquazoo/01-3dbb83cd-800w.webp"
-  - "/images-sites/loebbecke-museum-und-aquazoo/02-2d01e59f-800w.webp"
-  - "/images-sites/loebbecke-museum-und-aquazoo/03-833e2e3f-800w.webp"
+  - "/images/loebbecke-museum-und-aquazoo/01-3dbb83cd-800w.webp"
+  - "/images/loebbecke-museum-und-aquazoo/02-2d01e59f-800w.webp"
+  - "/images/loebbecke-museum-und-aquazoo/03-833e2e3f-800w.webp"
 ---
 
 ## Overview

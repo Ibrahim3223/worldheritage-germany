@@ -13,7 +13,7 @@ regions:
 latitude: 49.4127
 longitude: 8.7082
 images:
-  - "/images-sites/president-friedrich-ebert-memorial/01-0387cfed-800w.webp"
+  - "/images/president-friedrich-ebert-memorial/01-0387cfed-800w.webp"
 ---
 
 ## Overview

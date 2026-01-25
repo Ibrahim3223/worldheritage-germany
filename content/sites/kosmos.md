@@ -13,7 +13,7 @@ regions:
 latitude: 52.5172
 longitude: 13.45
 images:
-  - "/images-sites/kosmos/01-6ed154b5-800w.webp"
+  - "/images/kosmos/01-6ed154b5-800w.webp"
 ---
 
 ## Overview

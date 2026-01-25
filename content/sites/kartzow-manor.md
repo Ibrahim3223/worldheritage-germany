@@ -13,7 +13,7 @@ regions:
 latitude: 52.4912
 longitude: 12.98002
 images:
-  - "/images-sites/kartzow-manor/01-1e7ff610-800w.webp"
+  - "/images/kartzow-manor/01-1e7ff610-800w.webp"
 ---
 
 ## Overview

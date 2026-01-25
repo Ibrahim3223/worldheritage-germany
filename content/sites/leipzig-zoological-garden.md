@@ -13,7 +13,7 @@ regions:
 latitude: 51.34842
 longitude: 12.3706
 images:
-  - "/images-sites/leipzig-zoological-garden/01-41cc34b5-800w.webp"
+  - "/images/leipzig-zoological-garden/01-41cc34b5-800w.webp"
 ---
 
 ## Overview

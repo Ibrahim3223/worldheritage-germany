@@ -21,7 +21,7 @@ longitude: 9.92762
 
 # Images
 images:
-  - "/images-sites/steuerwald-castle/01-625db62a-800w.webp"
+  - "/images/steuerwald-castle/01-625db62a-800w.webp"
 ---
 
 ## Overview

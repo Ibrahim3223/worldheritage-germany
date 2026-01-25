@@ -13,9 +13,9 @@ regions:
 latitude: 51.5453
 longitude: 9.53528
 images:
-  - "/images-sites/tierpark-sababurg/01-283bf917-800w.webp"
-  - "/images-sites/tierpark-sababurg/02-f171c73f-800w.webp"
-  - "/images-sites/tierpark-sababurg/03-50b782cd-800w.webp"
+  - "/images/tierpark-sababurg/01-283bf917-800w.webp"
+  - "/images/tierpark-sababurg/02-f171c73f-800w.webp"
+  - "/images/tierpark-sababurg/03-50b782cd-800w.webp"
 ---
 
 ## Overview

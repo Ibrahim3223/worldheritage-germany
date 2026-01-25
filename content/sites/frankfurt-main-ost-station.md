@@ -1,21 +1,49 @@
 ---
-title: "Frankfurt (Main) Ost station"
+title: Frankfurt (Main) Ost station
 date: 2026-01-23
 draft: false
-description: "railway halt in Frankfurt am Main, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway halt in Frankfurt am Main, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.112459
 longitude: 8.708381
 images:
-  - "/images-sites/frankfurt-main-ost-station/01-36a678fb-800w.webp"
-  - "/images-sites/frankfurt-main-ost-station/02-1767aabf-800w.webp"
-  - "/images-sites/frankfurt-main-ost-station/03-e53efa2e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg/1200px-A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ostbahnhof-innen-ffm017.jpg/1200px-Ostbahnhof-innen-ffm017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ostbahnhof-ffm001.jpg/1200px-Ostbahnhof-ffm001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ostbahnhof+u-bahn-ffm002.jpg/1200px-Ostbahnhof+u-bahn-ffm002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1200px-Ostbahnhof_frankfurt.jpg
+image_srcset:
+  A sign in Ostbahnhof railway station in Frankfurt am Main.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg/400px-A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg/800px-A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg/1200px-A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg/1920px-A_sign_in_Ostbahnhof_railway_station_in_Frankfurt_am_Main.jpg
+  Ostbahnhof-innen-ffm017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ostbahnhof-innen-ffm017.jpg/400px-Ostbahnhof-innen-ffm017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ostbahnhof-innen-ffm017.jpg/800px-Ostbahnhof-innen-ffm017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ostbahnhof-innen-ffm017.jpg/1200px-Ostbahnhof-innen-ffm017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ostbahnhof-innen-ffm017.jpg/1920px-Ostbahnhof-innen-ffm017.jpg
+  Ostbahnhof-ffm001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ostbahnhof-ffm001.jpg/400px-Ostbahnhof-ffm001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ostbahnhof-ffm001.jpg/800px-Ostbahnhof-ffm001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ostbahnhof-ffm001.jpg/1200px-Ostbahnhof-ffm001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ostbahnhof-ffm001.jpg/1920px-Ostbahnhof-ffm001.jpg
+  Ostbahnhof+u-bahn-ffm002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ostbahnhof+u-bahn-ffm002.jpg/400px-Ostbahnhof+u-bahn-ffm002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ostbahnhof+u-bahn-ffm002.jpg/800px-Ostbahnhof+u-bahn-ffm002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ostbahnhof+u-bahn-ffm002.jpg/1200px-Ostbahnhof+u-bahn-ffm002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ostbahnhof+u-bahn-ffm002.jpg/1920px-Ostbahnhof+u-bahn-ffm002.jpg
+  Ostbahnhof frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/400px-Ostbahnhof_frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/800px-Ostbahnhof_frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1200px-Ostbahnhof_frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ostbahnhof_frankfurt.jpg/1920px-Ostbahnhof_frankfurt.jpg
 ---
 
 ## Overview

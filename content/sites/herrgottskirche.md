@@ -1,20 +1,52 @@
 ---
-title: "Herrgottskirche"
-site_name: "Herrgottskirche"
-slug: "herrgottskirche"
-region: "Hesse"
-
-# Location
+title: Herrgottskirche
+site_name: Herrgottskirche
+slug: herrgottskirche
+region: Hesse
 latitude: 49.458236
 longitude: 10.031708
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1170495"
-description: "In the heart of Creglingen, Germany, Herrgottskirche stands as a remarkable testament to Gothic architecture. This church building not only serves as a ..."
+- church building
+- religious site
+wikidata_id: Q1170495
+description: In the heart of Creglingen, Germany, Herrgottskirche stands as a remarkable
+  testament to Gothic architecture. This church building not only serves as a ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/1200px-Creglingen%2C%20Herrgottskirche%20001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/1200px-Creglingen_Herrgottskirche_Hochaltar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/1200px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
+image_srcset:
+  Creglingen%2C%20Herrgottskirche%20001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/400px-Creglingen%2C%20Herrgottskirche%20001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/800px-Creglingen%2C%20Herrgottskirche%20001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/1200px-Creglingen%2C%20Herrgottskirche%20001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Creglingen%2C%20Herrgottskirche%20001.JPG/1920px-Creglingen%2C%20Herrgottskirche%20001.JPG
+  Creglingen Herrgottskirche Hochaltar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/400px-Creglingen_Herrgottskirche_Hochaltar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/800px-Creglingen_Herrgottskirche_Hochaltar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/1200px-Creglingen_Herrgottskirche_Hochaltar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Creglingen_Herrgottskirche_Hochaltar.jpg/1920px-Creglingen_Herrgottskirche_Hochaltar.jpg
+  ? 1505 bis 1508. In diesem Zeitraum schuf Tilman Riemenschneider den Marienaltar.
+    (Das obere Gesprenge mit der Krönung Mariens und der Auferstehung.) 05.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/400px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/800px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/1200px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg/1920px-1505_bis_1508._In_diesem_Zeitraum_schuf_Tilman_Riemenschneider_den_Marienaltar._(Das_obere_Gesprenge_mit_der_Krönung_Mariens_und_der_Auferstehung.)_05.jpg
+  Der Marienaltar Tilman Riemenschneiders in der Herrgottskirche Creglingen. 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/400px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/800px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg/1920px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._07.jpg
+  Der Marienaltar Tilman Riemenschneiders in der Herrgottskirche Creglingen. 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/400px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/800px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/1200px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg/1920px-Der_Marienaltar_Tilman_Riemenschneiders_in_der_Herrgottskirche_Creglingen._02.jpg
 ---
 
 ## Overview

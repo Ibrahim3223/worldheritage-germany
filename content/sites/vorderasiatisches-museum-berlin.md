@@ -13,9 +13,9 @@ regions:
 latitude: 52.52069444
 longitude: 13.39680556
 images:
-  - "/images-sites/vorderasiatisches-museum-berlin/01-b29b202a-800w.webp"
-  - "/images-sites/vorderasiatisches-museum-berlin/02-251819a0-800w.webp"
-  - "/images-sites/vorderasiatisches-museum-berlin/03-a67b8d5d-800w.webp"
+  - "/images/vorderasiatisches-museum-berlin/01-b29b202a-800w.webp"
+  - "/images/vorderasiatisches-museum-berlin/02-251819a0-800w.webp"
+  - "/images/vorderasiatisches-museum-berlin/03-a67b8d5d-800w.webp"
 ---
 
 ## Overview

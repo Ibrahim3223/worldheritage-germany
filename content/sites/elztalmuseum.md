@@ -1,19 +1,49 @@
 ---
-title: "Elztalmuseum"
+title: Elztalmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.09086
 longitude: 7.96279
 images:
-  - "/images-sites/elztalmuseum/01-849ccd76-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1200px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg/1200px-Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG/1200px-Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg/1200px-Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Landappbw_564338_1820_Kirche_Waldkirch.jpg/1200px-Landappbw_564338_1820_Kirche_Waldkirch.jpg
+image_srcset:
+  Propstei des Chorherrenstiftes St. Margaretha.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/400px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/800px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1200px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Propstei_des_Chorherrenstiftes_St._Margaretha.JPG/1920px-Propstei_des_Chorherrenstiftes_St._Margaretha.JPG
+  Besuch von Kaiser Wilhelm I. im Hotel St. Margarethen (Gemählde Wilhelm Dürrs des Älteren 1880).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg/400px-Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg/800px-Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg/1200px-Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg/1920px-Besuch_von_Kaiser_Wilhelm_I._im_Hotel_St._Margarethen_(Gemählde_Wilhelm_Dürrs_des_Älteren_1880).jpg
+  Propstei des Chorherrenstiftes St. Margaretha - Portal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG/400px-Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG/800px-Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG/1200px-Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG/1920px-Propstei_des_Chorherrenstiftes_St._Margaretha_-_Portal.JPG
+  Landappbw 564336 1819 Elztalmuseum Waldkirch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg/400px-Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg/800px-Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg/1200px-Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg/1920px-Landappbw_564336_1819_Elztalmuseum_Waldkirch.jpg
+  Landappbw 564338 1820 Kirche Waldkirch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Landappbw_564338_1820_Kirche_Waldkirch.jpg/400px-Landappbw_564338_1820_Kirche_Waldkirch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Landappbw_564338_1820_Kirche_Waldkirch.jpg/800px-Landappbw_564338_1820_Kirche_Waldkirch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Landappbw_564338_1820_Kirche_Waldkirch.jpg/1200px-Landappbw_564338_1820_Kirche_Waldkirch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Landappbw_564338_1820_Kirche_Waldkirch.jpg/1920px-Landappbw_564338_1820_Kirche_Waldkirch.jpg
 ---
 
 ## Overview

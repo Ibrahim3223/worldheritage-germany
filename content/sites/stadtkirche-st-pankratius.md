@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2327454"
 description: "Stadtkirche St. Pankratius stands as a striking example of Gothic Revival architecture, located in the heart of Warstein, North Rhine-Westphalia, German..."
 images:
-  - "/images-sites/stadtkirche-st-pankratius/01-a98fe981-1920w.webp"
-  - "/images-sites/stadtkirche-st-pankratius/02-40d3bd91-1920w.webp"
-  - "/images-sites/stadtkirche-st-pankratius/03-517c25d1-1920w.webp"
+  - "/images/stadtkirche-st-pankratius/01-a98fe981-1920w.webp"
+  - "/images/stadtkirche-st-pankratius/02-40d3bd91-1920w.webp"
+  - "/images/stadtkirche-st-pankratius/03-517c25d1-1920w.webp"
 ---
 
 ## Overview

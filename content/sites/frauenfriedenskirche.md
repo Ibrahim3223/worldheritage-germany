@@ -1,24 +1,52 @@
 ---
-title: "Frauenfriedenskirche"
-site_name: "Frauenfriedenskirche"
-slug: "frauenfriedenskirche"
-region: "Hesse"
-
-# Location
+title: Frauenfriedenskirche
+site_name: Frauenfriedenskirche
+slug: frauenfriedenskirche
+region: Hesse
 latitude: 50.1283
 longitude: 8.64556
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q876874"
-description: "In the heart of Frankfurt, the Frauenfriedenskirche stands as a modern sanctuary dedicated to peace and reflection. Constructed in 1929, this Catholic c..."
+- church building
+- religious site
+wikidata_id: Q876874
+description: In the heart of Frankfurt, the Frauenfriedenskirche stands as a modern
+  sanctuary dedicated to peace and reflection. Constructed in 1929, this Catholic
+  c...
 images:
-  - "/images-sites/frauenfriedenskirche/01-9ab073c1-1920w.webp"
-  - "/images-sites/frauenfriedenskirche/02-c2f10471-1920w.webp"
-  - "/images-sites/frauenfriedenskirche/03-840956cc-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frauenfriedenskirche%2C%20Frankfurt.jpg/1200px-Frauenfriedenskirche%2C%20Frankfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg/1200px-Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg/1200px-Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/1200px-Frauenfriedenskirche,_Frankfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portal_der_Frauenfriedenskirche,_Frankfurt.jpg/1200px-Portal_der_Frauenfriedenskirche,_Frankfurt.jpg
+image_srcset:
+  Frauenfriedenskirche%2C%20Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frauenfriedenskirche%2C%20Frankfurt.jpg/400px-Frauenfriedenskirche%2C%20Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frauenfriedenskirche%2C%20Frankfurt.jpg/800px-Frauenfriedenskirche%2C%20Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frauenfriedenskirche%2C%20Frankfurt.jpg/1200px-Frauenfriedenskirche%2C%20Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Frauenfriedenskirche%2C%20Frankfurt.jpg/1920px-Frauenfriedenskirche%2C%20Frankfurt.jpg
+  Straßenbahnhaltestelle Frauenfriedenskirche, 1, Bockenheim, Frankfurt am Main.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg/400px-Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg/800px-Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg/1200px-Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg/1920px-Straßenbahnhaltestelle_Frauenfriedenskirche,_1,_Bockenheim,_Frankfurt_am_Main.jpg
+  Straßenbahnhaltestelle Frauenfriedenskirche, 2, Bockenheim, Frankfurt am Main.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg/400px-Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg/800px-Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg/1200px-Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg/1920px-Straßenbahnhaltestelle_Frauenfriedenskirche,_2,_Bockenheim,_Frankfurt_am_Main.jpg
+  Frauenfriedenskirche, Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/400px-Frauenfriedenskirche,_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/800px-Frauenfriedenskirche,_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/1200px-Frauenfriedenskirche,_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Frauenfriedenskirche,_Frankfurt.jpg/1920px-Frauenfriedenskirche,_Frankfurt.jpg
+  Portal der Frauenfriedenskirche, Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portal_der_Frauenfriedenskirche,_Frankfurt.jpg/400px-Portal_der_Frauenfriedenskirche,_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portal_der_Frauenfriedenskirche,_Frankfurt.jpg/800px-Portal_der_Frauenfriedenskirche,_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portal_der_Frauenfriedenskirche,_Frankfurt.jpg/1200px-Portal_der_Frauenfriedenskirche,_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portal_der_Frauenfriedenskirche,_Frankfurt.jpg/1920px-Portal_der_Frauenfriedenskirche,_Frankfurt.jpg
 ---
 
 ## Overview

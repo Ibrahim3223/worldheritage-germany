@@ -1,19 +1,49 @@
 ---
-title: "Haus Schulenburg"
+title: Haus Schulenburg
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8671
 longitude: 12.0607
 images:
-  - "/images-sites/haus-schulenburg/01-d7577d31-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/1200px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/An_der_Eibe_7.JPG/1200px-An_der_Eibe_7.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haus_Schulenburg_-_Westfassade.jpg/1200px-Haus_Schulenburg_-_Westfassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Haus_Schulenburg_Gera_9.jpg/1200px-Haus_Schulenburg_Gera_9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/1200px-Haus_Schulenburg_1.jpg
+image_srcset:
+  Haus Schulenburg in Gera - Ansicht von der Straße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/400px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/800px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/1200px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/1920px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+  An der Eibe 7.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/An_der_Eibe_7.JPG/400px-An_der_Eibe_7.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/An_der_Eibe_7.JPG/800px-An_der_Eibe_7.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/An_der_Eibe_7.JPG/1200px-An_der_Eibe_7.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/An_der_Eibe_7.JPG/1920px-An_der_Eibe_7.JPG
+  Haus Schulenburg - Westfassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haus_Schulenburg_-_Westfassade.jpg/400px-Haus_Schulenburg_-_Westfassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haus_Schulenburg_-_Westfassade.jpg/800px-Haus_Schulenburg_-_Westfassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haus_Schulenburg_-_Westfassade.jpg/1200px-Haus_Schulenburg_-_Westfassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Haus_Schulenburg_-_Westfassade.jpg/1920px-Haus_Schulenburg_-_Westfassade.jpg
+  Haus Schulenburg Gera 9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Haus_Schulenburg_Gera_9.jpg/400px-Haus_Schulenburg_Gera_9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Haus_Schulenburg_Gera_9.jpg/800px-Haus_Schulenburg_Gera_9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Haus_Schulenburg_Gera_9.jpg/1200px-Haus_Schulenburg_Gera_9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Haus_Schulenburg_Gera_9.jpg/1920px-Haus_Schulenburg_Gera_9.jpg
+  Haus Schulenburg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/400px-Haus_Schulenburg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/800px-Haus_Schulenburg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/1200px-Haus_Schulenburg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Haus_Schulenburg_1.jpg/1920px-Haus_Schulenburg_1.jpg
 ---
 
 ## Overview

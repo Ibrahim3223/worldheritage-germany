@@ -21,7 +21,7 @@ longitude: 13.0727
 
 # Images
 images:
-  - "/images-sites/museum-fluxus/01-ea64ead7-800w.webp"
+  - "/images/museum-fluxus/01-ea64ead7-800w.webp"
 ---
 
 ## Overview

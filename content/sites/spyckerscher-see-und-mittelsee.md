@@ -13,7 +13,7 @@ regions:
 latitude: 54.558919444
 longitude: 13.490869444
 images:
-  - "/images-sites/spyckerscher-see-und-mittelsee/01-1f478471-800w.webp"
+  - "/images/spyckerscher-see-und-mittelsee/01-1f478471-800w.webp"
 ---
 
 ## Overview

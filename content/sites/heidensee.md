@@ -1,19 +1,49 @@
 ---
-title: "Heidensee"
+title: Heidensee
 date: 2026-01-23
 draft: false
-description: "lake in Schwerin, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Schwerin, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.6431949
 longitude: 11.4313883
 images:
-  - "/images-sites/heidensee/01-08b6ff0c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg/1200px-Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg/1200px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg/1200px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stangengraben.jpg/1200px-Stangengraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schwerin_Heidensee.png/1200px-Schwerin_Heidensee.png
+image_srcset:
+  Heidensee core area Darßer Urwald NLP Vorpommersche Boddenlandschaft 2023-06-07 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg/400px-Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg/800px-Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg/1200px-Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg/1920px-Heidensee_core_area_Darßer_Urwald_NLP_Vorpommersche_Boddenlandschaft_2023-06-07_01.jpg
+  Schwerin, Marina Nord am Heidensee, Bild 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg/400px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg/800px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg/1200px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg/1920px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_1.jpg
+  Schwerin, Marina Nord am Heidensee, Bild 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg/400px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg/800px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg/1200px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg/1920px-Schwerin,_Marina_Nord_am_Heidensee,_Bild_2.jpg
+  Stangengraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stangengraben.jpg/400px-Stangengraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stangengraben.jpg/800px-Stangengraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stangengraben.jpg/1200px-Stangengraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stangengraben.jpg/1920px-Stangengraben.jpg
+  Schwerin Heidensee.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schwerin_Heidensee.png/400px-Schwerin_Heidensee.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schwerin_Heidensee.png/800px-Schwerin_Heidensee.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schwerin_Heidensee.png/1200px-Schwerin_Heidensee.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Schwerin_Heidensee.png/1920px-Schwerin_Heidensee.png
 ---
 
 ## Overview

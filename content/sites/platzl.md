@@ -13,7 +13,7 @@ regions:
 latitude: 48.1381
 longitude: 11.58
 images:
-  - "/images-sites/platzl/01-a2a6964b-800w.webp"
+  - "/images/platzl/01-a2a6964b-800w.webp"
 ---
 
 ## Overview

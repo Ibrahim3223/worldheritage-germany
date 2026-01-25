@@ -1,19 +1,50 @@
 ---
-title: "Barmsee"
+title: Barmsee
 date: 2026-01-23
 draft: false
-description: "lake in Garmisch-Partenkirchen, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Garmisch-Partenkirchen, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.5
 longitude: 11.247222222
 images:
-  - "/images-sites/barmsee/01-27e76901-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg/1200px-Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_Barmsee.jpg/1200px-Am_Barmsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg/1200px-Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Mirror_River.jpg/1200px-The_Mirror_River.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025BarmseeBeiKruen.jpg/1200px-2025BarmseeBeiKruen.jpg
+image_srcset:
+  ? Winterlicher Barmsee - im Hintergrund die Nördliche Karwendelkette, im Landschaftsschutzgebiet
+    Landschaft südlich des Estergebirges.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg/400px-Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg/800px-Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg/1200px-Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg/1920px-Winterlicher_Barmsee_-_im_Hintergrund_die_Nördliche_Karwendelkette,_im_Landschaftsschutzgebiet_Landschaft_südlich_des_Estergebirges.jpg
+  Am Barmsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_Barmsee.jpg/400px-Am_Barmsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_Barmsee.jpg/800px-Am_Barmsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_Barmsee.jpg/1200px-Am_Barmsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Am_Barmsee.jpg/1920px-Am_Barmsee.jpg
+  Aerial image of Barmsee and Grubsee (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg/400px-Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg/800px-Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg/1200px-Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg/1920px-Aerial_image_of_Barmsee_and_Grubsee_(view_from_the_south).jpg
+  The Mirror River.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Mirror_River.jpg/400px-The_Mirror_River.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Mirror_River.jpg/800px-The_Mirror_River.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Mirror_River.jpg/1200px-The_Mirror_River.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The_Mirror_River.jpg/1920px-The_Mirror_River.jpg
+  2025BarmseeBeiKruen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025BarmseeBeiKruen.jpg/400px-2025BarmseeBeiKruen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025BarmseeBeiKruen.jpg/800px-2025BarmseeBeiKruen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025BarmseeBeiKruen.jpg/1200px-2025BarmseeBeiKruen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025BarmseeBeiKruen.jpg/1920px-2025BarmseeBeiKruen.jpg
 ---
 
 ## Overview

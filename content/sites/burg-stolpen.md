@@ -1,19 +1,49 @@
 ---
-title: "Burg Stolpen"
+title: Burg Stolpen
 date: 2026-01-23
 draft: false
-description: "Castle in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Castle in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0482058
 longitude: 14.0841762
 images:
-  - "/images-sites/burg-stolpen/01-f2dbde75-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PanoramaBurgStolpen.jpg/1200px-PanoramaBurgStolpen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg/1200px-30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/1200px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20030923500DR_Stolpen_Stadtpanorama.jpg/1200px-20030923500DR_Stolpen_Stadtpanorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stolpen_Blick_NW_(03)_2006-06-08.jpg/1200px-Stolpen_Blick_NW_(03)_2006-06-08.jpg
+image_srcset:
+  PanoramaBurgStolpen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PanoramaBurgStolpen.jpg/400px-PanoramaBurgStolpen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PanoramaBurgStolpen.jpg/800px-PanoramaBurgStolpen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PanoramaBurgStolpen.jpg/1200px-PanoramaBurgStolpen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/PanoramaBurgStolpen.jpg/1920px-PanoramaBurgStolpen.jpg
+  30933-Stolpen-1991-Burg mit Wappen-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg/400px-30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg/800px-30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg/1200px-30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg/1920px-30933-Stolpen-1991-Burg_mit_Wappen-Brück_&_Sohn_Kunstverlag.jpg
+  Schloss Stolpen (Saksen) Germany 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/400px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/800px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/1200px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Schloss_Stolpen_(Saksen)_Germany_16.JPG/1920px-Schloss_Stolpen_(Saksen)_Germany_16.JPG
+  20030923500DR Stolpen Stadtpanorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20030923500DR_Stolpen_Stadtpanorama.jpg/400px-20030923500DR_Stolpen_Stadtpanorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20030923500DR_Stolpen_Stadtpanorama.jpg/800px-20030923500DR_Stolpen_Stadtpanorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20030923500DR_Stolpen_Stadtpanorama.jpg/1200px-20030923500DR_Stolpen_Stadtpanorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20030923500DR_Stolpen_Stadtpanorama.jpg/1920px-20030923500DR_Stolpen_Stadtpanorama.jpg
+  Stolpen Blick NW (03) 2006-06-08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stolpen_Blick_NW_(03)_2006-06-08.jpg/400px-Stolpen_Blick_NW_(03)_2006-06-08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stolpen_Blick_NW_(03)_2006-06-08.jpg/800px-Stolpen_Blick_NW_(03)_2006-06-08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stolpen_Blick_NW_(03)_2006-06-08.jpg/1200px-Stolpen_Blick_NW_(03)_2006-06-08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Stolpen_Blick_NW_(03)_2006-06-08.jpg/1920px-Stolpen_Blick_NW_(03)_2006-06-08.jpg
 ---
 
 ## Overview

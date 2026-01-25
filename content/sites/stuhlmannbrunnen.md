@@ -13,7 +13,7 @@ regions:
 latitude: 53.5498496
 longitude: 9.9354829
 images:
-  - "/images-sites/stuhlmannbrunnen/01-2a09b46e-800w.webp"
+  - "/images/stuhlmannbrunnen/01-2a09b46e-800w.webp"
 ---
 
 ## Overview

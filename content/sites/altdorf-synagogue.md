@@ -1,19 +1,43 @@
 ---
-title: "Altdorf Synagogue"
+title: Altdorf Synagogue
 date: 2026-01-23
 draft: false
-description: "synagogue in Ettenheim, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue in Ettenheim, Germany
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 48.26566
 longitude: 7.81459
 images:
-  - "/images-sites/altdorf-synagogue/01-688d3832-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ehemalige_Synagoge_Altdorf_Rückseite.jpg/1200px-Ehemalige_Synagoge_Altdorf_Rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg/1200px-Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Altdorf_(Ettenheim)_2.jpg/1200px-Altdorf_(Ettenheim)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Altdorf,_Synagoge.jpg/1200px-Altdorf,_Synagoge.jpg
+image_srcset:
+  Ehemalige Synagoge Altdorf Rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ehemalige_Synagoge_Altdorf_Rückseite.jpg/400px-Ehemalige_Synagoge_Altdorf_Rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ehemalige_Synagoge_Altdorf_Rückseite.jpg/800px-Ehemalige_Synagoge_Altdorf_Rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ehemalige_Synagoge_Altdorf_Rückseite.jpg/1200px-Ehemalige_Synagoge_Altdorf_Rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ehemalige_Synagoge_Altdorf_Rückseite.jpg/1920px-Ehemalige_Synagoge_Altdorf_Rückseite.jpg
+  Ehemalige Synagoge Altdorf Vorderseite 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg/400px-Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg/800px-Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg/1200px-Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg/1920px-Ehemalige_Synagoge_Altdorf_Vorderseite_2020.jpg
+  Altdorf (Ettenheim) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Altdorf_(Ettenheim)_2.jpg/400px-Altdorf_(Ettenheim)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Altdorf_(Ettenheim)_2.jpg/800px-Altdorf_(Ettenheim)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Altdorf_(Ettenheim)_2.jpg/1200px-Altdorf_(Ettenheim)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Altdorf_(Ettenheim)_2.jpg/1920px-Altdorf_(Ettenheim)_2.jpg
+  Altdorf, Synagoge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Altdorf,_Synagoge.jpg/400px-Altdorf,_Synagoge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Altdorf,_Synagoge.jpg/800px-Altdorf,_Synagoge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Altdorf,_Synagoge.jpg/1200px-Altdorf,_Synagoge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Altdorf,_Synagoge.jpg/1920px-Altdorf,_Synagoge.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.3668
 longitude: 7.20692
 images:
-  - "/images-sites/ostfriesisches-landesmuseum-emden/01-cee18043-800w.webp"
+  - "/images/ostfriesisches-landesmuseum-emden/01-cee18043-800w.webp"
 ---
 
 ## Overview

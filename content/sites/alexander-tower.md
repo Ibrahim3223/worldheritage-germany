@@ -1,19 +1,43 @@
 ---
-title: "Alexander Tower"
+title: Alexander Tower
 date: 2026-01-24
 draft: false
-description: "former city tower in Mainz"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: former city tower in Mainz
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.99723
 longitude: 8.26253
 images:
-  - "/images-sites/alexander-tower/01-35062b42-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carl-Alexander_tower_ruhla_july_2023.jpg/1200px-Carl-Alexander_tower_ruhla_july_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg/1200px-Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carl-Alexander-Turm.jpg/1200px-Carl-Alexander-Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ringberg_ruhla_turm.jpg/1200px-Ringberg_ruhla_turm.jpg
+image_srcset:
+  Carl-Alexander tower ruhla july 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carl-Alexander_tower_ruhla_july_2023.jpg/400px-Carl-Alexander_tower_ruhla_july_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carl-Alexander_tower_ruhla_july_2023.jpg/800px-Carl-Alexander_tower_ruhla_july_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carl-Alexander_tower_ruhla_july_2023.jpg/1200px-Carl-Alexander_tower_ruhla_july_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carl-Alexander_tower_ruhla_july_2023.jpg/1920px-Carl-Alexander_tower_ruhla_july_2023.jpg
+  Construction of The Alexander Tower seen from Bishop's Landing (44731802414).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg/400px-Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg/800px-Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg/1200px-Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg/1920px-Construction_of_The_Alexander_Tower_seen_from_Bishop's_Landing_(44731802414).jpg
+  Carl-Alexander-Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carl-Alexander-Turm.jpg/400px-Carl-Alexander-Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carl-Alexander-Turm.jpg/800px-Carl-Alexander-Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carl-Alexander-Turm.jpg/1200px-Carl-Alexander-Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carl-Alexander-Turm.jpg/1920px-Carl-Alexander-Turm.jpg
+  Ringberg ruhla turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ringberg_ruhla_turm.jpg/400px-Ringberg_ruhla_turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ringberg_ruhla_turm.jpg/800px-Ringberg_ruhla_turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ringberg_ruhla_turm.jpg/1200px-Ringberg_ruhla_turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ringberg_ruhla_turm.jpg/1920px-Ringberg_ruhla_turm.jpg
 ---
 
 ## Overview

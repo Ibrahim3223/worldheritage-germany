@@ -13,7 +13,7 @@ regions:
 latitude: 51.1631
 longitude: 6.43971
 images:
-  - "/images-sites/rheydt-central-station/01-d293fdd8-800w.webp"
+  - "/images/rheydt-central-station/01-d293fdd8-800w.webp"
 ---
 
 ## Overview

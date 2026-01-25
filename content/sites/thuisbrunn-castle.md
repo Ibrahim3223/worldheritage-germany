@@ -21,7 +21,7 @@ longitude: 11.2475
 
 # Images
 images:
-  - "/images-sites/thuisbrunn-castle/01-43fd7b14-800w.webp"
+  - "/images/thuisbrunn-castle/01-43fd7b14-800w.webp"
 ---
 
 ## Overview

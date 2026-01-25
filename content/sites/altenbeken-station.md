@@ -1,19 +1,49 @@
 ---
-title: "Altenbeken station"
+title: Altenbeken station
 date: 2026-01-23
 draft: false
-description: "railway station in Altenbeken, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Altenbeken, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7664
 longitude: 8.94222
 images:
-  - "/images-sites/altenbeken-station/01-bcc1686b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Altenbeken_Bahnhof_asv2024-05_img1.jpg/1200px-Altenbeken_Bahnhof_asv2024-05_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Altenbeken_Bahnhof_asv2024-05_img2.jpg/1200px-Altenbeken_Bahnhof_asv2024-05_img2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altenbeken_railway_station_2.jpg/1200px-Altenbeken_railway_station_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altenbeken_railway_station_3.jpg/1200px-Altenbeken_railway_station_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1200px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
+image_srcset:
+  Altenbeken Bahnhof asv2024-05 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Altenbeken_Bahnhof_asv2024-05_img1.jpg/400px-Altenbeken_Bahnhof_asv2024-05_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Altenbeken_Bahnhof_asv2024-05_img1.jpg/800px-Altenbeken_Bahnhof_asv2024-05_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Altenbeken_Bahnhof_asv2024-05_img1.jpg/1200px-Altenbeken_Bahnhof_asv2024-05_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Altenbeken_Bahnhof_asv2024-05_img1.jpg/1920px-Altenbeken_Bahnhof_asv2024-05_img1.jpg
+  Altenbeken Bahnhof asv2024-05 img2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Altenbeken_Bahnhof_asv2024-05_img2.jpg/400px-Altenbeken_Bahnhof_asv2024-05_img2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Altenbeken_Bahnhof_asv2024-05_img2.jpg/800px-Altenbeken_Bahnhof_asv2024-05_img2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Altenbeken_Bahnhof_asv2024-05_img2.jpg/1200px-Altenbeken_Bahnhof_asv2024-05_img2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Altenbeken_Bahnhof_asv2024-05_img2.jpg/1920px-Altenbeken_Bahnhof_asv2024-05_img2.jpg
+  Altenbeken railway station 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altenbeken_railway_station_2.jpg/400px-Altenbeken_railway_station_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altenbeken_railway_station_2.jpg/800px-Altenbeken_railway_station_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altenbeken_railway_station_2.jpg/1200px-Altenbeken_railway_station_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Altenbeken_railway_station_2.jpg/1920px-Altenbeken_railway_station_2.jpg
+  Altenbeken railway station 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altenbeken_railway_station_3.jpg/400px-Altenbeken_railway_station_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altenbeken_railway_station_3.jpg/800px-Altenbeken_railway_station_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altenbeken_railway_station_3.jpg/1200px-Altenbeken_railway_station_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Altenbeken_railway_station_3.jpg/1920px-Altenbeken_railway_station_3.jpg
+  Altenbeken - 2017-03-11 - Bahnhof (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/400px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/800px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1200px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg/1920px-Altenbeken_-_2017-03-11_-_Bahnhof_(01).jpg
 ---
 
 ## Overview

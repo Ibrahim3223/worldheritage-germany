@@ -13,7 +13,7 @@ regions:
 latitude: 48.1411
 longitude: 11.5781
 images:
-  - "/images-sites/staatliche-muenzsammlung/01-11f37e5a-800w.webp"
+  - "/images/staatliche-muenzsammlung/01-11f37e5a-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Frankenturm"
+title: Frankenturm
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7569
 longitude: 6.63944
 images:
-  - "/images-sites/frankenturm/01-bcbb6f8a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg/1200px-Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg/1200px-Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg/1200px-Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5722867.Erwin_Quedenfeldt.jpg/1200px-5722867.Erwin_Quedenfeldt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg/1200px-Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg
+image_srcset:
+  Am Frankenturm, Köln, Blick Richtung Süden-0013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg/400px-Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg/800px-Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg/1200px-Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg/1920px-Am_Frankenturm,_Köln,_Blick_Richtung_Süden-0013.jpg
+  Wohn- und Geschäfthaus Am Frankenturm 5, Köln-9124.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg/400px-Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg/800px-Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg/1200px-Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg/1920px-Wohn-_und_Geschäfthaus_Am_Frankenturm_5,_Köln-9124.jpg
+  Am Frankenturm, Köln, view from Rheinpromenade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg/400px-Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg/800px-Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg/1200px-Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg/1920px-Am_Frankenturm,_Köln,_view_from_Rheinpromenade.jpg
+  5722867.Erwin Quedenfeldt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5722867.Erwin_Quedenfeldt.jpg/400px-5722867.Erwin_Quedenfeldt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5722867.Erwin_Quedenfeldt.jpg/800px-5722867.Erwin_Quedenfeldt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5722867.Erwin_Quedenfeldt.jpg/1200px-5722867.Erwin_Quedenfeldt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5722867.Erwin_Quedenfeldt.jpg/1920px-5722867.Erwin_Quedenfeldt.jpg
+  Cologne - panoramio - Maksym Kozlenko (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg/400px-Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg/800px-Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg/1200px-Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg/1920px-Cologne_-_panoramio_-_Maksym_Kozlenko_(1).jpg
 ---
 
 ## Overview

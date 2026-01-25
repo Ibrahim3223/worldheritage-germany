@@ -1,19 +1,49 @@
 ---
-title: "Inn"
+title: Inn
 date: 2026-01-23
 draft: false
-description: "river in Switzerland, Austria and Germany, a right tributary of the Danube"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Switzerland, Austria and Germany, a right tributary of the Danube
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 48.573611111
 longitude: 13.478055555
 images:
-  - "/images-sites/inn/01-1b1cef4e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg/1200px-Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg/1200px-Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg/1200px-Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Star_Inn.jpg/1200px-Star_Inn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gray's_inn_zz.JPG/1200px-Gray's_inn_zz.JPG
+image_srcset:
+  Zentralbibliothek Zürich - Gebäude - 991135139289705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg/400px-Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg/800px-Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg/1200px-Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg/1920px-Zentralbibliothek_Zürich_-_Gebäude_-_991135139289705501.jpg
+  Koettmannsdorf Landgasthof Ploeschenberg 07062011 777.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg/400px-Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg/800px-Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg/1200px-Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg/1920px-Koettmannsdorf_Landgasthof_Ploeschenberg_07062011_777.jpg
+  Zentralbibliothek Zürich - Rigi. Gasthaus Breitinger Staffel-Kulm - 991158964429705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg/400px-Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg/800px-Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg/1200px-Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg/1920px-Zentralbibliothek_Zürich_-_Rigi._Gasthaus_Breitinger_Staffel-Kulm_-_991158964429705501.jpg
+  Star Inn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Star_Inn.jpg/400px-Star_Inn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Star_Inn.jpg/800px-Star_Inn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Star_Inn.jpg/1200px-Star_Inn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Star_Inn.jpg/1920px-Star_Inn.jpg
+  Gray's inn zz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gray's_inn_zz.JPG/400px-Gray's_inn_zz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gray's_inn_zz.JPG/800px-Gray's_inn_zz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gray's_inn_zz.JPG/1200px-Gray's_inn_zz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gray's_inn_zz.JPG/1920px-Gray's_inn_zz.JPG
 ---
 
 ## Overview

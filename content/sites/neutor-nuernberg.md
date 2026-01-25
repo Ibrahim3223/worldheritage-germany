@@ -13,8 +13,8 @@ regions:
 latitude: 49.4564
 longitude: 11.0717
 images:
-  - "/images-sites/neutor-nuernberg/01-15267741-800w.webp"
-  - "/images-sites/neutor-nuernberg/01-e31fb878-800w.webp"
+  - "/images/neutor-nuernberg/01-15267741-800w.webp"
+  - "/images/neutor-nuernberg/01-e31fb878-800w.webp"
 ---
 
 ## Overview

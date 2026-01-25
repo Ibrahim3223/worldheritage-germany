@@ -13,7 +13,7 @@ regions:
 latitude: 48.574179507
 longitude: 13.465499831
 images:
-  - "/images-sites/st-stephans-cathedral-passau/01-74f9857b-800w.webp"
+  - "/images/st-stephans-cathedral-passau/01-74f9857b-800w.webp"
 ---
 
 ## Overview

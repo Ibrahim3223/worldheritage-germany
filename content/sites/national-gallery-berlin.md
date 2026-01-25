@@ -21,7 +21,7 @@ longitude: 13.39555556
 
 # Images
 images:
-  - "/images-sites/national-gallery-berlin/01-cfd8cff9-800w.webp"
+  - "/images/national-gallery-berlin/01-cfd8cff9-800w.webp"
 ---
 
 ## Overview

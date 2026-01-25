@@ -1,19 +1,49 @@
 ---
-title: "Athenebrunnen"
+title: Athenebrunnen
 date: 2026-01-23
 draft: false
-description: "Fountain in Stuttgart, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: Fountain in Stuttgart, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7695
 longitude: 9.16409
 images:
-  - "/images-sites/athenebrunnen/01-a53e0b05-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stuttgart_-_Athenebrunnen_im_Winter.jpg/1200px-Stuttgart_-_Athenebrunnen_im_Winter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1200px-Athenebrunnen-Stuttgart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athenebrunnen-Stuttgart_Pandora.jpg/1200px-Athenebrunnen-Stuttgart_Pandora.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Athenebrunnen-Stuttgart_Prometheus.jpg/1200px-Athenebrunnen-Stuttgart_Prometheus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg/1200px-Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg
+image_srcset:
+  Stuttgart - Athenebrunnen im Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stuttgart_-_Athenebrunnen_im_Winter.jpg/400px-Stuttgart_-_Athenebrunnen_im_Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stuttgart_-_Athenebrunnen_im_Winter.jpg/800px-Stuttgart_-_Athenebrunnen_im_Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stuttgart_-_Athenebrunnen_im_Winter.jpg/1200px-Stuttgart_-_Athenebrunnen_im_Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stuttgart_-_Athenebrunnen_im_Winter.jpg/1920px-Stuttgart_-_Athenebrunnen_im_Winter.jpg
+  Athenebrunnen-Stuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/400px-Athenebrunnen-Stuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/800px-Athenebrunnen-Stuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1200px-Athenebrunnen-Stuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Athenebrunnen-Stuttgart.jpg/1920px-Athenebrunnen-Stuttgart.jpg
+  Athenebrunnen-Stuttgart Pandora.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athenebrunnen-Stuttgart_Pandora.jpg/400px-Athenebrunnen-Stuttgart_Pandora.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athenebrunnen-Stuttgart_Pandora.jpg/800px-Athenebrunnen-Stuttgart_Pandora.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athenebrunnen-Stuttgart_Pandora.jpg/1200px-Athenebrunnen-Stuttgart_Pandora.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athenebrunnen-Stuttgart_Pandora.jpg/1920px-Athenebrunnen-Stuttgart_Pandora.jpg
+  Athenebrunnen-Stuttgart Prometheus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Athenebrunnen-Stuttgart_Prometheus.jpg/400px-Athenebrunnen-Stuttgart_Prometheus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Athenebrunnen-Stuttgart_Prometheus.jpg/800px-Athenebrunnen-Stuttgart_Prometheus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Athenebrunnen-Stuttgart_Prometheus.jpg/1200px-Athenebrunnen-Stuttgart_Prometheus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Athenebrunnen-Stuttgart_Prometheus.jpg/1920px-Athenebrunnen-Stuttgart_Prometheus.jpg
+  Pallas-Athene-Brunnen von Karl Donndorf auf der Karlshöhe in Stuttgart (1911).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg/400px-Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg/800px-Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg/1200px-Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg/1920px-Pallas-Athene-Brunnen_von_Karl_Donndorf_auf_der_Karlshöhe_in_Stuttgart_(1911).jpg
 ---
 
 ## Overview

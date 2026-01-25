@@ -13,8 +13,8 @@ regions:
 latitude: 49.7937
 longitude: 9.93257
 images:
-  - "/images-sites/schoenbornkapelle/02-f3a0e848-800w.webp"
-  - "/images-sites/schoenbornkapelle/03-f894ef37-800w.webp"
+  - "/images/schoenbornkapelle/02-f3a0e848-800w.webp"
+  - "/images/schoenbornkapelle/03-f894ef37-800w.webp"
 ---
 
 ## Overview

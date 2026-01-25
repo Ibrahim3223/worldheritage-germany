@@ -21,7 +21,7 @@ longitude: 14.640453
 
 # Images
 images:
-  - "/images-sites/rakotzbruecke/01-951b8f09-800w.webp"
+  - "/images/rakotzbruecke/01-951b8f09-800w.webp"
 ---
 
 ## Overview

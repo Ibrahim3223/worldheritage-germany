@@ -1,20 +1,49 @@
 ---
-title: "Burg Bensberg"
+title: Burg Bensberg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9648
 longitude: 7.16314
 images:
-  - "/images-sites/burg-bensberg/02-1ed126a2-800w.webp"
-  - "/images-sites/burg-bensberg/03-7172a8dd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg/1200px-Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg/1200px-Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/5946647.Erwin_Quedenfeldt.jpg/1200px-5946647.Erwin_Quedenfeldt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Bensberg_(4).jpg/1200px-Burg_Bensberg_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bensberg_Rathaus2.jpg/1200px-Bensberg_Rathaus2.jpg
+image_srcset:
+  Bensberg Germany Rathaus-und-altes-Schloss-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg/400px-Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg/800px-Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg/1200px-Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg/1920px-Bensberg_Germany_Rathaus-und-altes-Schloss-01.jpg
+  Altes Schloss Bensberg and City Hall, June 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg/400px-Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg/800px-Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg/1200px-Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg/1920px-Altes_Schloss_Bensberg_and_City_Hall,_June_2021.jpg
+  5946647.Erwin Quedenfeldt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/5946647.Erwin_Quedenfeldt.jpg/400px-5946647.Erwin_Quedenfeldt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/5946647.Erwin_Quedenfeldt.jpg/800px-5946647.Erwin_Quedenfeldt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/5946647.Erwin_Quedenfeldt.jpg/1200px-5946647.Erwin_Quedenfeldt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/5946647.Erwin_Quedenfeldt.jpg/1920px-5946647.Erwin_Quedenfeldt.jpg
+  Burg Bensberg (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Bensberg_(4).jpg/400px-Burg_Bensberg_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Bensberg_(4).jpg/800px-Burg_Bensberg_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Bensberg_(4).jpg/1200px-Burg_Bensberg_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Burg_Bensberg_(4).jpg/1920px-Burg_Bensberg_(4).jpg
+  Bensberg Rathaus2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bensberg_Rathaus2.jpg/400px-Bensberg_Rathaus2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bensberg_Rathaus2.jpg/800px-Bensberg_Rathaus2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bensberg_Rathaus2.jpg/1200px-Bensberg_Rathaus2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bensberg_Rathaus2.jpg/1920px-Bensberg_Rathaus2.jpg
 ---
 
 ## Overview

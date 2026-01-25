@@ -1,19 +1,49 @@
 ---
-title: "Burg Neu-Tannegg"
+title: Burg Neu-Tannegg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.840416666
 longitude: 8.356388888
 images:
-  - "/images-sites/burg-neu-tannegg/01-9073e2d4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg/1200px-Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burgruine_Neu-Tannegg_2024-009.jpg/1200px-Burgruine_Neu-Tannegg_2024-009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgruine_Neu-Tannegg_2024-019.jpg/1200px-Burgruine_Neu-Tannegg_2024-019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgruine_Neu-Tannegg_2024-020.jpg/1200px-Burgruine_Neu-Tannegg_2024-020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burgruine_Neu-Tannegg_2024-015.jpg/1200px-Burgruine_Neu-Tannegg_2024-015.jpg
+image_srcset:
+  Burgruine Neu-Tannegg - Bonndorf im Schwarzwald Bild 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg/400px-Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg/800px-Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg/1200px-Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg/1920px-Burgruine_Neu-Tannegg_-_Bonndorf_im_Schwarzwald_Bild_2.jpg
+  Burgruine Neu-Tannegg 2024-009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burgruine_Neu-Tannegg_2024-009.jpg/400px-Burgruine_Neu-Tannegg_2024-009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burgruine_Neu-Tannegg_2024-009.jpg/800px-Burgruine_Neu-Tannegg_2024-009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burgruine_Neu-Tannegg_2024-009.jpg/1200px-Burgruine_Neu-Tannegg_2024-009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Burgruine_Neu-Tannegg_2024-009.jpg/1920px-Burgruine_Neu-Tannegg_2024-009.jpg
+  Burgruine Neu-Tannegg 2024-019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgruine_Neu-Tannegg_2024-019.jpg/400px-Burgruine_Neu-Tannegg_2024-019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgruine_Neu-Tannegg_2024-019.jpg/800px-Burgruine_Neu-Tannegg_2024-019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgruine_Neu-Tannegg_2024-019.jpg/1200px-Burgruine_Neu-Tannegg_2024-019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burgruine_Neu-Tannegg_2024-019.jpg/1920px-Burgruine_Neu-Tannegg_2024-019.jpg
+  Burgruine Neu-Tannegg 2024-020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgruine_Neu-Tannegg_2024-020.jpg/400px-Burgruine_Neu-Tannegg_2024-020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgruine_Neu-Tannegg_2024-020.jpg/800px-Burgruine_Neu-Tannegg_2024-020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgruine_Neu-Tannegg_2024-020.jpg/1200px-Burgruine_Neu-Tannegg_2024-020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Burgruine_Neu-Tannegg_2024-020.jpg/1920px-Burgruine_Neu-Tannegg_2024-020.jpg
+  Burgruine Neu-Tannegg 2024-015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burgruine_Neu-Tannegg_2024-015.jpg/400px-Burgruine_Neu-Tannegg_2024-015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burgruine_Neu-Tannegg_2024-015.jpg/800px-Burgruine_Neu-Tannegg_2024-015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burgruine_Neu-Tannegg_2024-015.jpg/1200px-Burgruine_Neu-Tannegg_2024-015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burgruine_Neu-Tannegg_2024-015.jpg/1920px-Burgruine_Neu-Tannegg_2024-015.jpg
 ---
 
 ## Overview

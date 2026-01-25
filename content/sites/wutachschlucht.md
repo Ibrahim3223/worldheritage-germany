@@ -13,7 +13,7 @@ regions:
 latitude: 47.85274
 longitude: 8.43342
 images:
-  - "/images-sites/wutachschlucht/01-30f06a35-800w.webp"
+  - "/images/wutachschlucht/01-30f06a35-800w.webp"
 ---
 
 ## Overview

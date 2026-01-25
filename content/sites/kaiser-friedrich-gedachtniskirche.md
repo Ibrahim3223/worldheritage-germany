@@ -1,24 +1,51 @@
 ---
-title: "Kaiser-Friedrich-Gedächtniskirche"
-site_name: "Kaiser-Friedrich-Gedächtniskirche"
-slug: "kaiser-friedrich-gedachtniskirche"
-region: "Berlin"
-
-# Location
+title: Kaiser-Friedrich-Gedächtniskirche
+site_name: Kaiser-Friedrich-Gedächtniskirche
+slug: kaiser-friedrich-gedachtniskirche
+region: Berlin
 latitude: 52.51532
 longitude: 13.34258
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q658985"
-description: "In the heart of Berlin, you’ll find the Kaiser-Friedrich-Gedächtniskirche, a striking German Protestant church that stands as a modern testament to fait..."
+- church building
+- religious site
+wikidata_id: Q658985
+description: In the heart of Berlin, you’ll find the Kaiser-Friedrich-Gedächtniskirche,
+  a striking German Protestant church that stands as a modern testament to fait...
 images:
-  - "/images-sites/kaiser-friedrich-gedachtniskirche/01-64e7fd5c-1920w.webp"
-  - "/images-sites/kaiser-friedrich-gedachtniskirche/02-f65bf8aa-1920w.webp"
-  - "/images-sites/kaiser-friedrich-gedachtniskirche/03-fbbb24ea-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg/1200px-Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_Hansaviertel_Kirche.jpg/1200px-Berlin_Hansaviertel_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1200px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg/1200px-Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg/1200px-Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg
+image_srcset:
+  Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg/400px-Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg/800px-Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg/1200px-Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg/1920px-Kaiser-Friedrich-Ged%C3%A4chtniskirche%20im%20Hansaviertel.jpg
+  Berlin Hansaviertel Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_Hansaviertel_Kirche.jpg/400px-Berlin_Hansaviertel_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_Hansaviertel_Kirche.jpg/800px-Berlin_Hansaviertel_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_Hansaviertel_Kirche.jpg/1200px-Berlin_Hansaviertel_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Berlin_Hansaviertel_Kirche.jpg/1920px-Berlin_Hansaviertel_Kirche.jpg
+  Kaiser-Friedrich-Gedächtniskirche im Hansaviertel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/400px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/800px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1200px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg/1920px-Kaiser-Friedrich-Gedächtniskirche_im_Hansaviertel.jpg
+  Hansaviertel Kaiser-Friedrich-Gedächtniskirche 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg/400px-Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg/800px-Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg/1200px-Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg/1920px-Hansaviertel_Kaiser-Friedrich-Gedächtniskirche_2011.jpg
+  Berlin-Hansaviertel, Kaiser-Friedrich-Gedächtniskirche, Orgel (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg/400px-Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg/800px-Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg/1200px-Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg/1920px-Berlin-Hansaviertel,_Kaiser-Friedrich-Gedächtniskirche,_Orgel_(1).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.5197
 longitude: 6.83667
 images:
-  - "/images-sites/zeche-sterkrade/01-795f0fae-800w.webp"
+  - "/images/zeche-sterkrade/01-795f0fae-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.2208
 longitude: 7.31583
 images:
-  - "/images-sites/wuelfing-museum/01-87567208-800w.webp"
+  - "/images/wuelfing-museum/01-87567208-800w.webp"
 ---
 
 ## Overview

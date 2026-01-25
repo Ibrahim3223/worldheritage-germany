@@ -13,7 +13,7 @@ regions:
 latitude: 53.7486
 longitude: 13.1897
 images:
-  - "/images-sites/schloss-gueltz/01-fb9e7a07-800w.webp"
+  - "/images/schloss-gueltz/01-fb9e7a07-800w.webp"
 ---
 
 ## Overview

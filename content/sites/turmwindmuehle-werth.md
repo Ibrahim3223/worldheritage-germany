@@ -13,7 +13,7 @@ regions:
 latitude: 51.818889
 longitude: 6.507778
 images:
-  - "/images-sites/turmwindmuehle-werth/01-04caa0b4-800w.webp"
+  - "/images/turmwindmuehle-werth/01-04caa0b4-800w.webp"
 ---
 
 ## Overview

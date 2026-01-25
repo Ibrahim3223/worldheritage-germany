@@ -1,19 +1,49 @@
 ---
-title: "Altenstein"
+title: Altenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.835130555
 longitude: 10.349211111
 images:
-  - "/images-sites/altenstein/01-0b7165c8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Altenstein_Burg-20200106-RM-152208.jpg/1200px-Altenstein_Burg-20200106-RM-152208.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Altenstein_Burgkapelle_-20200106-RM-151335.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-151335.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg/1200px-Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+image_srcset:
+  Altenstein Burg-20200106-RM-152208.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Altenstein_Burg-20200106-RM-152208.jpg/400px-Altenstein_Burg-20200106-RM-152208.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Altenstein_Burg-20200106-RM-152208.jpg/800px-Altenstein_Burg-20200106-RM-152208.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Altenstein_Burg-20200106-RM-152208.jpg/1200px-Altenstein_Burg-20200106-RM-152208.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Altenstein_Burg-20200106-RM-152208.jpg/1920px-Altenstein_Burg-20200106-RM-152208.jpg
+  Altenstein Burgkapelle -20200106-RM-161824.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/400px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/800px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Altenstein_Burgkapelle_-20200106-RM-161824.jpg/1920px-Altenstein_Burgkapelle_-20200106-RM-161824.jpg
+  Altenstein Burgkapelle -20200106-RM-151335.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Altenstein_Burgkapelle_-20200106-RM-151335.jpg/400px-Altenstein_Burgkapelle_-20200106-RM-151335.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Altenstein_Burgkapelle_-20200106-RM-151335.jpg/800px-Altenstein_Burgkapelle_-20200106-RM-151335.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Altenstein_Burgkapelle_-20200106-RM-151335.jpg/1200px-Altenstein_Burgkapelle_-20200106-RM-151335.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Altenstein_Burgkapelle_-20200106-RM-151335.jpg/1920px-Altenstein_Burgkapelle_-20200106-RM-151335.jpg
+  Bronze-Skulptur "Mann am Schreibtisch" im Börner-Viertel, Bernd Altenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg/400px-Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg/800px-Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg/1200px-Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg/1920px-Bronze-Skulptur_"Mann_am_Schreibtisch"_im_Börner-Viertel,_Bernd_Altenstein.jpg
+  20041001100DR Altenstein (Bad Liebenstein) Schloß Altenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/400px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/800px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1200px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg/1920px-20041001100DR_Altenstein_(Bad_Liebenstein)_Schloß_Altenstein.jpg
 ---
 
 ## Overview

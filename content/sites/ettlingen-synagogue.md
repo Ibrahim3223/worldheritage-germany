@@ -1,19 +1,43 @@
 ---
-title: "Ettlingen Synagogue"
+title: Ettlingen Synagogue
 date: 2026-01-23
 draft: false
-description: "German synagogue"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: German synagogue
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 48.9415
 longitude: 8.41294
 images:
-  - "/images-sites/ettlingen-synagogue/01-31fe6261-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/1200px-Ettlingen_Synagoge988.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synagogue_Ettlingen_Architect_drawing_1888-2.jpg/1200px-Synagogue_Ettlingen_Architect_drawing_1888-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg/1200px-Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Synagogue_Ettlingen_Architect_drawing_1888.jpg/1200px-Synagogue_Ettlingen_Architect_drawing_1888.jpg
+image_srcset:
+  Ettlingen Synagoge988.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/400px-Ettlingen_Synagoge988.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/800px-Ettlingen_Synagoge988.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/1200px-Ettlingen_Synagoge988.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ettlingen_Synagoge988.JPG/1920px-Ettlingen_Synagoge988.JPG
+  Synagogue Ettlingen Architect drawing 1888-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synagogue_Ettlingen_Architect_drawing_1888-2.jpg/400px-Synagogue_Ettlingen_Architect_drawing_1888-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synagogue_Ettlingen_Architect_drawing_1888-2.jpg/800px-Synagogue_Ettlingen_Architect_drawing_1888-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synagogue_Ettlingen_Architect_drawing_1888-2.jpg/1200px-Synagogue_Ettlingen_Architect_drawing_1888-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Synagogue_Ettlingen_Architect_drawing_1888-2.jpg/1920px-Synagogue_Ettlingen_Architect_drawing_1888-2.jpg
+  Synagogue Ettlingen- Fragment of Torah scroll, burned during Kristal Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg/400px-Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg/800px-Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg/1200px-Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg/1920px-Synagogue_Ettlingen-_Fragment_of_Torah_scroll,_burned_during_Kristal_Nacht.jpg
+  Synagogue Ettlingen Architect drawing 1888.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Synagogue_Ettlingen_Architect_drawing_1888.jpg/400px-Synagogue_Ettlingen_Architect_drawing_1888.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Synagogue_Ettlingen_Architect_drawing_1888.jpg/800px-Synagogue_Ettlingen_Architect_drawing_1888.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Synagogue_Ettlingen_Architect_drawing_1888.jpg/1200px-Synagogue_Ettlingen_Architect_drawing_1888.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Synagogue_Ettlingen_Architect_drawing_1888.jpg/1920px-Synagogue_Ettlingen_Architect_drawing_1888.jpg
 ---
 
 ## Overview

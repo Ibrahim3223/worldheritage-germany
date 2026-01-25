@@ -1,19 +1,49 @@
 ---
-title: "Jahn-Denkmal"
+title: Jahn-Denkmal
 date: 2026-01-23
 draft: false
-description: "monument in Wuppertal, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Wuppertal, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.23116
 longitude: 7.069733
 images:
-  - "/images-sites/jahn-denkmal/01-92649567-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wuppertal_Kaiserwagen_2018_452.jpg/1200px-Wuppertal_Kaiserwagen_2018_452.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg/1200px-Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jahn-Denkmal_Wuppertal_Stationsgarten.jpg/1200px-Jahn-Denkmal_Wuppertal_Stationsgarten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jahn-Denkmal_Wuppertal-Vohwinkel.jpg/1200px-Jahn-Denkmal_Wuppertal-Vohwinkel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jahn-Denkmal_Wuppertal.jpg/1200px-Jahn-Denkmal_Wuppertal.jpg
+image_srcset:
+  Wuppertal Kaiserwagen 2018 452.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wuppertal_Kaiserwagen_2018_452.jpg/400px-Wuppertal_Kaiserwagen_2018_452.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wuppertal_Kaiserwagen_2018_452.jpg/800px-Wuppertal_Kaiserwagen_2018_452.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wuppertal_Kaiserwagen_2018_452.jpg/1200px-Wuppertal_Kaiserwagen_2018_452.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Wuppertal_Kaiserwagen_2018_452.jpg/1920px-Wuppertal_Kaiserwagen_2018_452.jpg
+  Jahn-Denkmal Frisch Fromm Fröhlich Frei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg/400px-Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg/800px-Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg/1200px-Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg/1920px-Jahn-Denkmal_Frisch_Fromm_Fröhlich_Frei.jpg
+  Jahn-Denkmal Wuppertal Stationsgarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jahn-Denkmal_Wuppertal_Stationsgarten.jpg/400px-Jahn-Denkmal_Wuppertal_Stationsgarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jahn-Denkmal_Wuppertal_Stationsgarten.jpg/800px-Jahn-Denkmal_Wuppertal_Stationsgarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jahn-Denkmal_Wuppertal_Stationsgarten.jpg/1200px-Jahn-Denkmal_Wuppertal_Stationsgarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jahn-Denkmal_Wuppertal_Stationsgarten.jpg/1920px-Jahn-Denkmal_Wuppertal_Stationsgarten.jpg
+  Jahn-Denkmal Wuppertal-Vohwinkel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jahn-Denkmal_Wuppertal-Vohwinkel.jpg/400px-Jahn-Denkmal_Wuppertal-Vohwinkel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jahn-Denkmal_Wuppertal-Vohwinkel.jpg/800px-Jahn-Denkmal_Wuppertal-Vohwinkel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jahn-Denkmal_Wuppertal-Vohwinkel.jpg/1200px-Jahn-Denkmal_Wuppertal-Vohwinkel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jahn-Denkmal_Wuppertal-Vohwinkel.jpg/1920px-Jahn-Denkmal_Wuppertal-Vohwinkel.jpg
+  Jahn-Denkmal Wuppertal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jahn-Denkmal_Wuppertal.jpg/400px-Jahn-Denkmal_Wuppertal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jahn-Denkmal_Wuppertal.jpg/800px-Jahn-Denkmal_Wuppertal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jahn-Denkmal_Wuppertal.jpg/1200px-Jahn-Denkmal_Wuppertal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jahn-Denkmal_Wuppertal.jpg/1920px-Jahn-Denkmal_Wuppertal.jpg
 ---
 
 ## Overview

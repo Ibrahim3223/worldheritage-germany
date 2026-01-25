@@ -13,8 +13,8 @@ regions:
 latitude: 52.8605
 longitude: 9.59659
 images:
-  - "/images-sites/walsrode-abbey/01-80d88f4c-800w.webp"
-  - "/images-sites/walsrode-abbey/03-5d1434b2-800w.webp"
+  - "/images/walsrode-abbey/01-80d88f4c-800w.webp"
+  - "/images/walsrode-abbey/03-5d1434b2-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.005
 longitude: 12.771111111
 images:
-  - "/images-sites/wechselburg-priory/01-23ce782a-800w.webp"
-  - "/images-sites/wechselburg-priory/02-7eea710b-800w.webp"
-  - "/images-sites/wechselburg-priory/03-e94a2072-800w.webp"
+  - "/images/wechselburg-priory/01-23ce782a-800w.webp"
+  - "/images/wechselburg-priory/02-7eea710b-800w.webp"
+  - "/images/wechselburg-priory/03-e94a2072-800w.webp"
 ---
 
 ## Overview

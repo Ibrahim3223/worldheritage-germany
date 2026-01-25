@@ -1,28 +1,43 @@
 ---
-title: "Akademie Schloss Solitude"
+title: Akademie Schloss Solitude
 date: 2026-01-23
 draft: false
-description: "Foundation in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Foundation in Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.7868861
 longitude: 9.0792596
-
-# Images
 images:
-  - "/images-sites/akademie-schloss-solitude/02-c9e0847d-800w.webp"
-  - "/images-sites/akademie-schloss-solitude/03-1316f493-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Studio23_view.jpg/1200px-Studio23_view.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hirschgang_Solitude.jpg/1200px-Hirschgang_Solitude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg/1200px-Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg/1200px-Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg
+image_srcset:
+  Studio23 view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Studio23_view.jpg/400px-Studio23_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Studio23_view.jpg/800px-Studio23_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Studio23_view.jpg/1200px-Studio23_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Studio23_view.jpg/1920px-Studio23_view.jpg
+  Hirschgang Solitude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hirschgang_Solitude.jpg/400px-Hirschgang_Solitude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hirschgang_Solitude.jpg/800px-Hirschgang_Solitude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hirschgang_Solitude.jpg/1200px-Hirschgang_Solitude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hirschgang_Solitude.jpg/1920px-Hirschgang_Solitude.jpg
+  Стипендія в Akademie Schloss Solitude, Stuttgart, Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg/400px-Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg/800px-Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg/1200px-Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg/1920px-Стипендія_в_Akademie_Schloss_Solitude,_Stuttgart,_Germany.jpg
+  Muses&Musées-1993-ed-Akademie Schloss Solitude-124p..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg/400px-Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg/800px-Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg/1200px-Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg/1920px-Muses&Musées-1993-ed-Akademie_Schloss_Solitude-124p..jpg
 ---
 
 ## Overview

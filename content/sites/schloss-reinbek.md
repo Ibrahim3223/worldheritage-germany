@@ -21,7 +21,7 @@ longitude: 10.2539
 
 # Images
 images:
-  - "/images-sites/schloss-reinbek/01-e0a6f196-800w.webp"
+  - "/images/schloss-reinbek/01-e0a6f196-800w.webp"
 ---
 
 ## Overview

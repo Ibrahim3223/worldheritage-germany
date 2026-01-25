@@ -1,19 +1,49 @@
 ---
-title: "Haus Ruhr"
+title: Haus Ruhr
 date: 2026-01-23
 draft: false
-description: "Gebäudeensemble in Schwerte, Nordrhein-Westfalen, Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Gebäudeensemble in Schwerte, Nordrhein-Westfalen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4206
 longitude: 7.54667
 images:
-  - "/images-sites/haus-ruhr/01-9dfb580f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senden,_Haus_Ruhr_--_2015_--_5199.jpg/1200px-Senden,_Haus_Ruhr_--_2015_--_5199.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg/1200px-Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senden,_Haus_Ruhr_--_2014_--_9259.jpg/1200px-Senden,_Haus_Ruhr_--_2014_--_9259.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Senden,_Haus_Ruhr_--_2015_--_5198.jpg/1200px-Senden,_Haus_Ruhr_--_2015_--_5198.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Senden,_Haus_Ruhr_--_2014_--_9264.jpg/1200px-Senden,_Haus_Ruhr_--_2014_--_9264.jpg
+image_srcset:
+  Senden, Haus Ruhr -- 2015 -- 5199.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senden,_Haus_Ruhr_--_2015_--_5199.jpg/400px-Senden,_Haus_Ruhr_--_2015_--_5199.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senden,_Haus_Ruhr_--_2015_--_5199.jpg/800px-Senden,_Haus_Ruhr_--_2015_--_5199.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senden,_Haus_Ruhr_--_2015_--_5199.jpg/1200px-Senden,_Haus_Ruhr_--_2015_--_5199.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Senden,_Haus_Ruhr_--_2015_--_5199.jpg/1920px-Senden,_Haus_Ruhr_--_2015_--_5199.jpg
+  Senden, Gärtnerei (nahe Haus Ruhr) -- 2014 -- 9255.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg/400px-Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg/800px-Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg/1200px-Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg/1920px-Senden,_Gärtnerei_(nahe_Haus_Ruhr)_--_2014_--_9255.jpg
+  Senden, Haus Ruhr -- 2014 -- 9259.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senden,_Haus_Ruhr_--_2014_--_9259.jpg/400px-Senden,_Haus_Ruhr_--_2014_--_9259.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senden,_Haus_Ruhr_--_2014_--_9259.jpg/800px-Senden,_Haus_Ruhr_--_2014_--_9259.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senden,_Haus_Ruhr_--_2014_--_9259.jpg/1200px-Senden,_Haus_Ruhr_--_2014_--_9259.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senden,_Haus_Ruhr_--_2014_--_9259.jpg/1920px-Senden,_Haus_Ruhr_--_2014_--_9259.jpg
+  Senden, Haus Ruhr -- 2015 -- 5198.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Senden,_Haus_Ruhr_--_2015_--_5198.jpg/400px-Senden,_Haus_Ruhr_--_2015_--_5198.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Senden,_Haus_Ruhr_--_2015_--_5198.jpg/800px-Senden,_Haus_Ruhr_--_2015_--_5198.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Senden,_Haus_Ruhr_--_2015_--_5198.jpg/1200px-Senden,_Haus_Ruhr_--_2015_--_5198.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Senden,_Haus_Ruhr_--_2015_--_5198.jpg/1920px-Senden,_Haus_Ruhr_--_2015_--_5198.jpg
+  Senden, Haus Ruhr -- 2014 -- 9264.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Senden,_Haus_Ruhr_--_2014_--_9264.jpg/400px-Senden,_Haus_Ruhr_--_2014_--_9264.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Senden,_Haus_Ruhr_--_2014_--_9264.jpg/800px-Senden,_Haus_Ruhr_--_2014_--_9264.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Senden,_Haus_Ruhr_--_2014_--_9264.jpg/1200px-Senden,_Haus_Ruhr_--_2014_--_9264.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Senden,_Haus_Ruhr_--_2014_--_9264.jpg/1920px-Senden,_Haus_Ruhr_--_2014_--_9264.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.3375
 longitude: 13.872222222
 images:
-  - "/images-sites/koenigsbruecker-heide-wilderness/01-cf691c49-800w.webp"
+  - "/images/koenigsbruecker-heide-wilderness/01-cf691c49-800w.webp"
 ---
 
 ## Overview

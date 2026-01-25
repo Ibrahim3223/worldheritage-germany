@@ -1,24 +1,51 @@
 ---
-title: "Friedenskirche Frankfurt (Oder)"
-site_name: "Friedenskirche Frankfurt (Oder)"
-slug: "friedenskirche-frankfurt-oder"
-region: "Brandenburg"
-
-# Location
+title: Friedenskirche Frankfurt (Oder)
+site_name: Friedenskirche Frankfurt (Oder)
+slug: friedenskirche-frankfurt-oder
+region: Brandenburg
 latitude: 52.3486
 longitude: 14.5522
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1456784"
-description: "In the heart of Brandenburg, Germany, the Friedenskirche Frankfurt (Oder) presents a striking figure against the backdrop of the surrounding landscape. ..."
+- church building
+- religious site
+wikidata_id: Q1456784
+description: In the heart of Brandenburg, Germany, the Friedenskirche Frankfurt (Oder)
+  presents a striking figure against the backdrop of the surrounding landscape. ...
 images:
-  - "/images-sites/friedenskirche-frankfurt-oder/01-3957e274-1920w.webp"
-  - "/images-sites/friedenskirche-frankfurt-oder/02-1c334eb9-1920w.webp"
-  - "/images-sites/friedenskirche-frankfurt-oder/03-e3a78f1c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg/1200px-FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1200px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frankfurt_Oder_Slubice_2013-02_18.JPG/1200px-Frankfurt_Oder_Slubice_2013-02_18.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG/1200px-Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Die_Gartenlaube_(1896)_b_0324_a_2.jpg/1200px-Die_Gartenlaube_(1896)_b_0324_a_2.jpg
+image_srcset:
+  FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg/400px-FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg/800px-FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg/1200px-FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg/1920px-FrankfurtOder%20asv2022-07%20img10%20Friedenskirche.jpg
+  FrankfurtOder asv2022-07 img10 Friedenskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/400px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/800px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1200px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg/1920px-FrankfurtOder_asv2022-07_img10_Friedenskirche.jpg
+  Frankfurt Oder Slubice 2013-02 18.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frankfurt_Oder_Slubice_2013-02_18.JPG/400px-Frankfurt_Oder_Slubice_2013-02_18.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frankfurt_Oder_Slubice_2013-02_18.JPG/800px-Frankfurt_Oder_Slubice_2013-02_18.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frankfurt_Oder_Slubice_2013-02_18.JPG/1200px-Frankfurt_Oder_Slubice_2013-02_18.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frankfurt_Oder_Slubice_2013-02_18.JPG/1920px-Frankfurt_Oder_Slubice_2013-02_18.JPG
+  Kościół Pokoju (Friedenskirche) we Frankfurcie nad Odrą.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG/400px-Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG/800px-Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG/1200px-Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG/1920px-Kościół_Pokoju_(Friedenskirche)_we_Frankfurcie_nad_Odrą.JPG
+  Die Gartenlaube (1896) b 0324 a 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Die_Gartenlaube_(1896)_b_0324_a_2.jpg/400px-Die_Gartenlaube_(1896)_b_0324_a_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Die_Gartenlaube_(1896)_b_0324_a_2.jpg/800px-Die_Gartenlaube_(1896)_b_0324_a_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Die_Gartenlaube_(1896)_b_0324_a_2.jpg/1200px-Die_Gartenlaube_(1896)_b_0324_a_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Die_Gartenlaube_(1896)_b_0324_a_2.jpg/1920px-Die_Gartenlaube_(1896)_b_0324_a_2.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.7988
 longitude: 9.70317
 images:
-  - "/images-sites/kloster-lorch/01-56ae78fc-800w.webp"
+  - "/images/kloster-lorch/01-56ae78fc-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Pfaffendorf"
-site_name: "Dorfkirche Pfaffendorf"
-slug: "dorfkirche-pfaffendorf"
-region: "Bavaria"
-
-# Location
+title: Dorfkirche Pfaffendorf
+site_name: Dorfkirche Pfaffendorf
+slug: dorfkirche-pfaffendorf
+region: Bavaria
 latitude: 50.1705
 longitude: 10.7183
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244608"
-description: "Dorfkirche Pfaffendorf, a remarkable church building located in the serene region of Maroldsweisach, Germany, captivates visitors with its architectural..."
+- church building
+- religious site
+wikidata_id: Q1244608
+description: Dorfkirche Pfaffendorf, a remarkable church building located in the serene
+  region of Maroldsweisach, Germany, captivates visitors with its architectural...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1200px-Pfaffendorf-Kath-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dorfkirche_Pfaffendorf_2018_S.jpg/1200px-Dorfkirche_Pfaffendorf_2018_S.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dorfkirche_Pfaffendorf_2018_Infotafel.jpg/1200px-Dorfkirche_Pfaffendorf_2018_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Pfaffendorf_2018_Westportal.jpg/1200px-Dorfkirche_Pfaffendorf_2018_Westportal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PfaffendorfKircheS.jpg/1200px-PfaffendorfKircheS.jpg
+image_srcset:
+  Pfaffendorf-Kath-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/400px-Pfaffendorf-Kath-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/800px-Pfaffendorf-Kath-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1200px-Pfaffendorf-Kath-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pfaffendorf-Kath-Kirche.jpg/1920px-Pfaffendorf-Kath-Kirche.jpg
+  Dorfkirche Pfaffendorf 2018 S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dorfkirche_Pfaffendorf_2018_S.jpg/400px-Dorfkirche_Pfaffendorf_2018_S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dorfkirche_Pfaffendorf_2018_S.jpg/800px-Dorfkirche_Pfaffendorf_2018_S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dorfkirche_Pfaffendorf_2018_S.jpg/1200px-Dorfkirche_Pfaffendorf_2018_S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dorfkirche_Pfaffendorf_2018_S.jpg/1920px-Dorfkirche_Pfaffendorf_2018_S.jpg
+  Dorfkirche Pfaffendorf 2018 Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dorfkirche_Pfaffendorf_2018_Infotafel.jpg/400px-Dorfkirche_Pfaffendorf_2018_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dorfkirche_Pfaffendorf_2018_Infotafel.jpg/800px-Dorfkirche_Pfaffendorf_2018_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dorfkirche_Pfaffendorf_2018_Infotafel.jpg/1200px-Dorfkirche_Pfaffendorf_2018_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dorfkirche_Pfaffendorf_2018_Infotafel.jpg/1920px-Dorfkirche_Pfaffendorf_2018_Infotafel.jpg
+  Dorfkirche Pfaffendorf 2018 Westportal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Pfaffendorf_2018_Westportal.jpg/400px-Dorfkirche_Pfaffendorf_2018_Westportal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Pfaffendorf_2018_Westportal.jpg/800px-Dorfkirche_Pfaffendorf_2018_Westportal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Pfaffendorf_2018_Westportal.jpg/1200px-Dorfkirche_Pfaffendorf_2018_Westportal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorfkirche_Pfaffendorf_2018_Westportal.jpg/1920px-Dorfkirche_Pfaffendorf_2018_Westportal.jpg
+  PfaffendorfKircheS.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PfaffendorfKircheS.jpg/400px-PfaffendorfKircheS.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PfaffendorfKircheS.jpg/800px-PfaffendorfKircheS.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PfaffendorfKircheS.jpg/1200px-PfaffendorfKircheS.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PfaffendorfKircheS.jpg/1920px-PfaffendorfKircheS.jpg
 ---
 
 ## Overview

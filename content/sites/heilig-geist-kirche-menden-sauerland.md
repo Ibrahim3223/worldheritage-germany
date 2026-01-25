@@ -1,20 +1,45 @@
 ---
-title: "Heilig-Geist-Kirche (Menden (Sauerland))"
-site_name: "Heilig-Geist-Kirche (Menden (Sauerland))"
-slug: "heilig-geist-kirche-menden-sauerland"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Heilig-Geist-Kirche (Menden (Sauerland))
+site_name: Heilig-Geist-Kirche (Menden (Sauerland))
+slug: heilig-geist-kirche-menden-sauerland
+region: North Rhine-Westphalia
 latitude: 51.4365
 longitude: 7.79202
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1467423"
-description: "In the heart of Menden (Sauerland), a striking example of Gothic Revival architecture awaits your discovery: the Heilig-Geist-Kirche. This church, desig..."
+- church building
+- religious site
+wikidata_id: Q1467423
+description: 'In the heart of Menden (Sauerland), a striking example of Gothic Revival
+  architecture awaits your discovery: the Heilig-Geist-Kirche. This church, desig...'
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Menden-HeiligGeistKirche2-Asio.JPG/1200px-Menden-HeiligGeistKirche2-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Menden-HeiligGeistKirche6-Asio.jpg/1200px-Menden-HeiligGeistKirche6-Asio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menden-HeiligGeistKirche1-Asio.JPG/1200px-Menden-HeiligGeistKirche1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Menden-HeiligGeistKirche5-Asio.JPG/1200px-Menden-HeiligGeistKirche5-Asio.JPG
+image_srcset:
+  Menden-HeiligGeistKirche2-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Menden-HeiligGeistKirche2-Asio.JPG/400px-Menden-HeiligGeistKirche2-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Menden-HeiligGeistKirche2-Asio.JPG/800px-Menden-HeiligGeistKirche2-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Menden-HeiligGeistKirche2-Asio.JPG/1200px-Menden-HeiligGeistKirche2-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Menden-HeiligGeistKirche2-Asio.JPG/1920px-Menden-HeiligGeistKirche2-Asio.JPG
+  Menden-HeiligGeistKirche6-Asio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Menden-HeiligGeistKirche6-Asio.jpg/400px-Menden-HeiligGeistKirche6-Asio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Menden-HeiligGeistKirche6-Asio.jpg/800px-Menden-HeiligGeistKirche6-Asio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Menden-HeiligGeistKirche6-Asio.jpg/1200px-Menden-HeiligGeistKirche6-Asio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Menden-HeiligGeistKirche6-Asio.jpg/1920px-Menden-HeiligGeistKirche6-Asio.jpg
+  Menden-HeiligGeistKirche1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menden-HeiligGeistKirche1-Asio.JPG/400px-Menden-HeiligGeistKirche1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menden-HeiligGeistKirche1-Asio.JPG/800px-Menden-HeiligGeistKirche1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menden-HeiligGeistKirche1-Asio.JPG/1200px-Menden-HeiligGeistKirche1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Menden-HeiligGeistKirche1-Asio.JPG/1920px-Menden-HeiligGeistKirche1-Asio.JPG
+  Menden-HeiligGeistKirche5-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Menden-HeiligGeistKirche5-Asio.JPG/400px-Menden-HeiligGeistKirche5-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Menden-HeiligGeistKirche5-Asio.JPG/800px-Menden-HeiligGeistKirche5-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Menden-HeiligGeistKirche5-Asio.JPG/1200px-Menden-HeiligGeistKirche5-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Menden-HeiligGeistKirche5-Asio.JPG/1920px-Menden-HeiligGeistKirche5-Asio.JPG
 ---
 
 ## Overview

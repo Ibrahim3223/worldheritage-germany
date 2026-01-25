@@ -13,9 +13,9 @@ regions:
 latitude: 50.8611
 longitude: 11.7228
 images:
-  - "/images-sites/kloster-roda/01-6f0e518f-800w.webp"
-  - "/images-sites/kloster-roda/02-a79ef0af-800w.webp"
-  - "/images-sites/kloster-roda/03-5fbbb772-800w.webp"
+  - "/images/kloster-roda/01-6f0e518f-800w.webp"
+  - "/images/kloster-roda/02-a79ef0af-800w.webp"
+  - "/images/kloster-roda/03-5fbbb772-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.1427
 longitude: 11.5717
 images:
-  - "/images-sites/nornenbrunnen/01-0cdd3e39-800w.webp"
+  - "/images/nornenbrunnen/01-0cdd3e39-800w.webp"
 ---
 
 ## Overview

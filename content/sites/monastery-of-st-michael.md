@@ -13,7 +13,7 @@ regions:
 latitude: 49.4258
 longitude: 8.70611
 images:
-  - "/images-sites/monastery-of-st-michael/01-0db7315b-800w.webp"
+  - "/images/monastery-of-st-michael/01-0db7315b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.24305556
 longitude: 6.77861111
 images:
-  - "/images-sites/new-synagogue-duesseldorf/01-0c93685e-800w.webp"
+  - "/images/new-synagogue-duesseldorf/01-0c93685e-800w.webp"
 ---
 
 ## Overview

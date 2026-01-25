@@ -1,19 +1,49 @@
 ---
-title: "Galenbecker See"
+title: Galenbecker See
 date: 2026-01-23
 draft: false
-description: "lake in Galenbeck, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Galenbeck, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.621944444
 longitude: 13.732777777
 images:
-  - "/images-sites/galenbecker-see/01-e250edba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Galenbecker_See.JPG/1200px-Galenbecker_See.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG/1200px-Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg/1200px-Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ueberlauf_weißer_graben_galenbecker_see.jpg/1200px-Ueberlauf_weißer_graben_galenbecker_see.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Galenbeckersee.jpg/1200px-Galenbeckersee.jpg
+image_srcset:
+  Galenbecker See.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Galenbecker_See.JPG/400px-Galenbecker_See.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Galenbecker_See.JPG/800px-Galenbecker_See.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Galenbecker_See.JPG/1200px-Galenbecker_See.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Galenbecker_See.JPG/1920px-Galenbecker_See.JPG
+  Die ersten von hunderten Kranichen nehmen ihre Schlafplätze im Flachwasser des Galenbecker Sees ein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG/400px-Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG/800px-Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG/1200px-Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG/1920px-Die_ersten_von_hunderten_Kranichen_nehmen_ihre_Schlafplätze_im_Flachwasser_des_Galenbecker_Sees_ein.JPG
+  Blick vom weißen graben auf den galenbecker see2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg/400px-Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg/800px-Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg/1200px-Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg/1920px-Blick_vom_weißen_graben_auf_den_galenbecker_see2.jpg
+  Ueberlauf weißer graben galenbecker see.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ueberlauf_weißer_graben_galenbecker_see.jpg/400px-Ueberlauf_weißer_graben_galenbecker_see.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ueberlauf_weißer_graben_galenbecker_see.jpg/800px-Ueberlauf_weißer_graben_galenbecker_see.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ueberlauf_weißer_graben_galenbecker_see.jpg/1200px-Ueberlauf_weißer_graben_galenbecker_see.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ueberlauf_weißer_graben_galenbecker_see.jpg/1920px-Ueberlauf_weißer_graben_galenbecker_see.jpg
+  Galenbeckersee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Galenbeckersee.jpg/400px-Galenbeckersee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Galenbeckersee.jpg/800px-Galenbeckersee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Galenbeckersee.jpg/1200px-Galenbeckersee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Galenbeckersee.jpg/1920px-Galenbeckersee.jpg
 ---
 
 ## Overview

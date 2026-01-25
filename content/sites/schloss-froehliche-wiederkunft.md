@@ -21,7 +21,7 @@ longitude: 11.7102
 
 # Images
 images:
-  - "/images-sites/schloss-froehliche-wiederkunft/01-5d08d3f2-800w.webp"
+  - "/images/schloss-froehliche-wiederkunft/01-5d08d3f2-800w.webp"
 ---
 
 ## Overview

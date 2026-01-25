@@ -16,8 +16,8 @@ categories:
 wikidata_id: "Q1901094"
 description: "In the heart of Clausthal-Zellerfeld, Germany, lies the Marktkirche zum Heiligen Geist, a striking example of baroque architecture that draws both the f..."
 images:
-  - "/images-sites/marktkirche-zum-heiligen-geist/02-a1fc0152-1920w.webp"
-  - "/images-sites/marktkirche-zum-heiligen-geist/03-1eae3f04-1920w.webp"
+  - "/images/marktkirche-zum-heiligen-geist/02-a1fc0152-1920w.webp"
+  - "/images/marktkirche-zum-heiligen-geist/03-1eae3f04-1920w.webp"
 ---
 
 ## Overview

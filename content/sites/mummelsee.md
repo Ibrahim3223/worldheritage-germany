@@ -13,7 +13,7 @@ regions:
 latitude: 48.598055555
 longitude: 8.200833333
 images:
-  - "/images-sites/mummelsee/01-3ad2d1d4-800w.webp"
+  - "/images/mummelsee/01-3ad2d1d4-800w.webp"
 ---
 
 ## Overview

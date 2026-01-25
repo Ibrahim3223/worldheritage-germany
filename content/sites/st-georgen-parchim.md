@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1411591"
 description: "St. Georgen in Parchim stands as a remarkable example of Brick Gothic architecture, capturing the essence of medieval craftsmanship in its elegant struc..."
 images:
-  - "/images-sites/st-georgen-parchim/01-756eb5a3-1920w.webp"
-  - "/images-sites/st-georgen-parchim/02-949548d0-1920w.webp"
-  - "/images-sites/st-georgen-parchim/03-e3a2c97a-1920w.webp"
+  - "/images/st-georgen-parchim/01-756eb5a3-1920w.webp"
+  - "/images/st-georgen-parchim/02-949548d0-1920w.webp"
+  - "/images/st-georgen-parchim/03-e3a2c97a-1920w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.059505
 longitude: 13.718198
 images:
-  - "/images-sites/palace-bruehl-marcolini/01-e886b071-800w.webp"
-  - "/images-sites/palace-bruehl-marcolini/02-0b4cdf68-800w.webp"
-  - "/images-sites/palace-bruehl-marcolini/03-7e157ceb-800w.webp"
+  - "/images/palace-bruehl-marcolini/01-e886b071-800w.webp"
+  - "/images/palace-bruehl-marcolini/02-0b4cdf68-800w.webp"
+  - "/images/palace-bruehl-marcolini/03-7e157ceb-800w.webp"
 ---
 
 ## Overview

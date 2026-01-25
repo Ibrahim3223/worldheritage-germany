@@ -13,8 +13,8 @@ regions:
 latitude: 51.1155
 longitude: 13.55709
 images:
-  - "/images-sites/schloss-gauernitz/02-6d4e8a78-800w.webp"
-  - "/images-sites/schloss-gauernitz/03-00c3e7da-800w.webp"
+  - "/images/schloss-gauernitz/02-6d4e8a78-800w.webp"
+  - "/images/schloss-gauernitz/03-00c3e7da-800w.webp"
 ---
 
 ## Overview

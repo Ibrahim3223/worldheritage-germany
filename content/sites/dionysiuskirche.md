@@ -1,20 +1,51 @@
 ---
-title: "Dionysiuskirche"
-site_name: "Dionysiuskirche"
-slug: "dionysiuskirche"
-region: "Bremen"
-
-# Location
+title: Dionysiuskirche
+site_name: Dionysiuskirche
+slug: dionysiuskirche
+region: Bremen
 latitude: 53.5011
 longitude: 8.60248
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1227027"
-description: "Dionysiuskirche, a church building located in Wulsdorf, Germany, captivates with its Romanesque architecture and rich history. As you approach this site..."
+- church building
+- religious site
+wikidata_id: Q1227027
+description: Dionysiuskirche, a church building located in Wulsdorf, Germany, captivates
+  with its Romanesque architecture and rich history. As you approach this site...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dionysiuskirche%20bremerhaven%20hg.jpg/1200px-Dionysiuskirche%20bremerhaven%20hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bhv_lange83_dionysius_hg.jpg/1200px-Bhv_lange83_dionysius_hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dionysiuskirche_Bremerhaven-Lehe.jpg/1200px-Dionysiuskirche_Bremerhaven-Lehe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catharina_Bohlen_(Stele_in_Lehe)-01.JPG/1200px-Catharina_Bohlen_(Stele_in_Lehe)-01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg/1200px-Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg
+image_srcset:
+  Dionysiuskirche%20bremerhaven%20hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dionysiuskirche%20bremerhaven%20hg.jpg/400px-Dionysiuskirche%20bremerhaven%20hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dionysiuskirche%20bremerhaven%20hg.jpg/800px-Dionysiuskirche%20bremerhaven%20hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dionysiuskirche%20bremerhaven%20hg.jpg/1200px-Dionysiuskirche%20bremerhaven%20hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Dionysiuskirche%20bremerhaven%20hg.jpg/1920px-Dionysiuskirche%20bremerhaven%20hg.jpg
+  Bhv lange83 dionysius hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bhv_lange83_dionysius_hg.jpg/400px-Bhv_lange83_dionysius_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bhv_lange83_dionysius_hg.jpg/800px-Bhv_lange83_dionysius_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bhv_lange83_dionysius_hg.jpg/1200px-Bhv_lange83_dionysius_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bhv_lange83_dionysius_hg.jpg/1920px-Bhv_lange83_dionysius_hg.jpg
+  Dionysiuskirche Bremerhaven-Lehe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dionysiuskirche_Bremerhaven-Lehe.jpg/400px-Dionysiuskirche_Bremerhaven-Lehe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dionysiuskirche_Bremerhaven-Lehe.jpg/800px-Dionysiuskirche_Bremerhaven-Lehe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dionysiuskirche_Bremerhaven-Lehe.jpg/1200px-Dionysiuskirche_Bremerhaven-Lehe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dionysiuskirche_Bremerhaven-Lehe.jpg/1920px-Dionysiuskirche_Bremerhaven-Lehe.jpg
+  Catharina Bohlen (Stele in Lehe)-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catharina_Bohlen_(Stele_in_Lehe)-01.JPG/400px-Catharina_Bohlen_(Stele_in_Lehe)-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catharina_Bohlen_(Stele_in_Lehe)-01.JPG/800px-Catharina_Bohlen_(Stele_in_Lehe)-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catharina_Bohlen_(Stele_in_Lehe)-01.JPG/1200px-Catharina_Bohlen_(Stele_in_Lehe)-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catharina_Bohlen_(Stele_in_Lehe)-01.JPG/1920px-Catharina_Bohlen_(Stele_in_Lehe)-01.JPG
+  Kirche in Lehe - George Ernest Papendiek - 1817.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg/400px-Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg/800px-Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg/1200px-Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg/1920px-Kirche_in_Lehe_-_George_Ernest_Papendiek_-_1817.jpg
 ---
 
 ## Overview

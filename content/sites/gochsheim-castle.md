@@ -1,19 +1,49 @@
 ---
-title: "Gochsheim Castle"
+title: Gochsheim Castle
 date: 2026-01-23
 draft: false
-description: "sad irons"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: sad irons
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1036
 longitude: 8.74635
 images:
-  - "/images-sites/gochsheim-castle/01-b38e0401-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/1200px-Gochsheim-schloss-2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg/1200px-Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gochsheim-schloss-gesamt.jpg/1200px-Gochsheim-schloss-gesamt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gochsheim-schloss.jpg/1200px-Gochsheim-schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/KraichtalGochsheimSchloss.jpg/1200px-KraichtalGochsheimSchloss.jpg
+image_srcset:
+  Gochsheim-schloss-2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/400px-Gochsheim-schloss-2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/800px-Gochsheim-schloss-2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/1200px-Gochsheim-schloss-2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gochsheim-schloss-2011.jpg/1920px-Gochsheim-schloss-2011.jpg
+  Landappbw 760846 1818 Schloß Gochsheim (heute Verwaltungsgebäude) Gochsheim im Zabergäu.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg/400px-Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg/800px-Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg/1200px-Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg/1920px-Landappbw_760846_1818_Schloß_Gochsheim_(heute_Verwaltungsgebäude)_Gochsheim_im_Zabergäu.jpg
+  Gochsheim-schloss-gesamt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gochsheim-schloss-gesamt.jpg/400px-Gochsheim-schloss-gesamt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gochsheim-schloss-gesamt.jpg/800px-Gochsheim-schloss-gesamt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gochsheim-schloss-gesamt.jpg/1200px-Gochsheim-schloss-gesamt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gochsheim-schloss-gesamt.jpg/1920px-Gochsheim-schloss-gesamt.jpg
+  Gochsheim-schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gochsheim-schloss.jpg/400px-Gochsheim-schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gochsheim-schloss.jpg/800px-Gochsheim-schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gochsheim-schloss.jpg/1200px-Gochsheim-schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gochsheim-schloss.jpg/1920px-Gochsheim-schloss.jpg
+  KraichtalGochsheimSchloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/KraichtalGochsheimSchloss.jpg/400px-KraichtalGochsheimSchloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/KraichtalGochsheimSchloss.jpg/800px-KraichtalGochsheimSchloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/KraichtalGochsheimSchloss.jpg/1200px-KraichtalGochsheimSchloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/KraichtalGochsheimSchloss.jpg/1920px-KraichtalGochsheimSchloss.jpg
 ---
 
 ## Overview

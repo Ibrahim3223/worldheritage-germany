@@ -13,7 +13,7 @@ regions:
 latitude: 50.502777777
 longitude: 6.405833333
 images:
-  - "/images-sites/oleftalsperre/01-4ecf000f-800w.webp"
+  - "/images/oleftalsperre/01-4ecf000f-800w.webp"
 ---
 
 ## Overview

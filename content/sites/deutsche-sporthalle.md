@@ -1,19 +1,49 @@
 ---
-title: "Deutsche Sporthalle"
+title: Deutsche Sporthalle
 date: 2026-01-23
 draft: false
-description: "architectural structure in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: architectural structure in Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5183
 longitude: 13.43484
 images:
-  - "/images-sites/deutsche-sporthalle/03-2872ca8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/1200px-Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg/1200px-Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/1200px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg/1200px-Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/1200px-Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+image_srcset:
+  Bundesarchiv Bild 183-27170-0003, Berlin, Karl-Marx-Allee, "Deutsche Sporthalle".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/400px-Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/800px-Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/1200px-Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/1920px-Bundesarchiv_Bild_183-27170-0003,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+  Bundesarchiv Bild 183-16643-0002, Berlin, Stalinallee, Sporthalle, Eingang, Nacht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg/400px-Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg/800px-Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg/1200px-Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg/1920px-Bundesarchiv_Bild_183-16643-0002,_Berlin,_Stalinallee,_Sporthalle,_Eingang,_Nacht.jpg
+  Bundesarchiv Bild 183-11700-0002, Berlin, Karl-Marx-Allee, "Deutsche Sporthalle" gesäubert.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/400px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/800px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/1200px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg/1920px-Bundesarchiv_Bild_183-11700-0002,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle"_gesäubert.jpg
+  Fotothek df roe-neg 0006319 021 Deutsche Sporthalle in Berlin (damalige Stalinallee).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg/400px-Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg/800px-Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg/1200px-Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg/1920px-Fotothek_df_roe-neg_0006319_021_Deutsche_Sporthalle_in_Berlin_(damalige_Stalinallee).jpg
+  Bundesarchiv Bild 183-11700-0001, Berlin, Karl-Marx-Allee, "Deutsche Sporthalle".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/400px-Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/800px-Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/1200px-Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg/1920px-Bundesarchiv_Bild_183-11700-0001,_Berlin,_Karl-Marx-Allee,_"Deutsche_Sporthalle".jpg
 ---
 
 ## Overview

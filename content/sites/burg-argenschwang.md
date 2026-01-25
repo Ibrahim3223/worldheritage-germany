@@ -1,19 +1,49 @@
 ---
-title: "Burg Argenschwang"
+title: Burg Argenschwang
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8808
 longitude: 7.70056
 images:
-  - "/images-sites/burg-argenschwang/01-fa7047aa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg/1200px-Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Argenschwang_Torhaus_4679.jpg/1200px-Burg_Argenschwang_Torhaus_4679.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Argenschwang01.jpg/1200px-Burg_Argenschwang01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Argenschwang02.jpg/1200px-Burg_Argenschwang02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Argenschwang_-_Torhaus.jpg/1200px-Burg_Argenschwang_-_Torhaus.jpg
+image_srcset:
+  Argenschwang - Burgruine Rosenburg - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg/400px-Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg/800px-Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg/1200px-Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg/1920px-Argenschwang_-_Burgruine_Rosenburg_-_panoramio.jpg
+  Burg Argenschwang Torhaus 4679.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Argenschwang_Torhaus_4679.jpg/400px-Burg_Argenschwang_Torhaus_4679.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Argenschwang_Torhaus_4679.jpg/800px-Burg_Argenschwang_Torhaus_4679.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Argenschwang_Torhaus_4679.jpg/1200px-Burg_Argenschwang_Torhaus_4679.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Argenschwang_Torhaus_4679.jpg/1920px-Burg_Argenschwang_Torhaus_4679.jpg
+  Burg Argenschwang01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Argenschwang01.jpg/400px-Burg_Argenschwang01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Argenschwang01.jpg/800px-Burg_Argenschwang01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Argenschwang01.jpg/1200px-Burg_Argenschwang01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Burg_Argenschwang01.jpg/1920px-Burg_Argenschwang01.jpg
+  Burg Argenschwang02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Argenschwang02.jpg/400px-Burg_Argenschwang02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Argenschwang02.jpg/800px-Burg_Argenschwang02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Argenschwang02.jpg/1200px-Burg_Argenschwang02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Burg_Argenschwang02.jpg/1920px-Burg_Argenschwang02.jpg
+  Burg Argenschwang - Torhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Argenschwang_-_Torhaus.jpg/400px-Burg_Argenschwang_-_Torhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Argenschwang_-_Torhaus.jpg/800px-Burg_Argenschwang_-_Torhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Argenschwang_-_Torhaus.jpg/1200px-Burg_Argenschwang_-_Torhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burg_Argenschwang_-_Torhaus.jpg/1920px-Burg_Argenschwang_-_Torhaus.jpg
 ---
 
 ## Overview

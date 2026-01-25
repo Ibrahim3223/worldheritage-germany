@@ -13,8 +13,8 @@ regions:
 latitude: 53.5561
 longitude: 13.2658
 images:
-  - "/images-sites/neues-tor/02-188746e0-800w.webp"
-  - "/images-sites/neues-tor/03-9d401e3e-800w.webp"
+  - "/images/neues-tor/02-188746e0-800w.webp"
+  - "/images/neues-tor/03-9d401e3e-800w.webp"
 ---
 
 ## Overview

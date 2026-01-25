@@ -1,19 +1,49 @@
 ---
-title: "Großer Feldberg"
+title: Großer Feldberg
 date: 2026-01-23
 draft: false
-description: "highest mountain in the Taunus mountains, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: highest mountain in the Taunus mountains, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 50.2325
 longitude: 8.458888888
 images:
-  - "/images-sites/grosser-feldberg/01-f02c52d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Großer_Feldberg_von_Norden_2019.jpg/1200px-Großer_Feldberg_von_Norden_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Großer_Feldberg_2020-03-23_36.jpg/1200px-Großer_Feldberg_2020-03-23_36.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Großer_Feldberg_2020-03-23_45.jpg/1200px-Großer_Feldberg_2020-03-23_45.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Großer_Feldberg_2020-03-23_52.jpg/1200px-Großer_Feldberg_2020-03-23_52.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg/1200px-Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg
+image_srcset:
+  Großer Feldberg von Norden 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Großer_Feldberg_von_Norden_2019.jpg/400px-Großer_Feldberg_von_Norden_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Großer_Feldberg_von_Norden_2019.jpg/800px-Großer_Feldberg_von_Norden_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Großer_Feldberg_von_Norden_2019.jpg/1200px-Großer_Feldberg_von_Norden_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Großer_Feldberg_von_Norden_2019.jpg/1920px-Großer_Feldberg_von_Norden_2019.jpg
+  Großer Feldberg 2020-03-23 36.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Großer_Feldberg_2020-03-23_36.jpg/400px-Großer_Feldberg_2020-03-23_36.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Großer_Feldberg_2020-03-23_36.jpg/800px-Großer_Feldberg_2020-03-23_36.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Großer_Feldberg_2020-03-23_36.jpg/1200px-Großer_Feldberg_2020-03-23_36.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Großer_Feldberg_2020-03-23_36.jpg/1920px-Großer_Feldberg_2020-03-23_36.jpg
+  Großer Feldberg 2020-03-23 45.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Großer_Feldberg_2020-03-23_45.jpg/400px-Großer_Feldberg_2020-03-23_45.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Großer_Feldberg_2020-03-23_45.jpg/800px-Großer_Feldberg_2020-03-23_45.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Großer_Feldberg_2020-03-23_45.jpg/1200px-Großer_Feldberg_2020-03-23_45.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Großer_Feldberg_2020-03-23_45.jpg/1920px-Großer_Feldberg_2020-03-23_45.jpg
+  Großer Feldberg 2020-03-23 52.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Großer_Feldberg_2020-03-23_52.jpg/400px-Großer_Feldberg_2020-03-23_52.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Großer_Feldberg_2020-03-23_52.jpg/800px-Großer_Feldberg_2020-03-23_52.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Großer_Feldberg_2020-03-23_52.jpg/1200px-Großer_Feldberg_2020-03-23_52.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Großer_Feldberg_2020-03-23_52.jpg/1920px-Großer_Feldberg_2020-03-23_52.jpg
+  Top of Großer Feldberg with snow 2021-04-06 34.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg/400px-Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg/800px-Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg/1200px-Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg/1920px-Top_of_Großer_Feldberg_with_snow_2021-04-06_34.jpg
 ---
 
 ## Overview

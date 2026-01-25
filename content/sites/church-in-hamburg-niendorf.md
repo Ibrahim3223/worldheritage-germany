@@ -1,24 +1,51 @@
 ---
-title: "Church in Hamburg-Niendorf"
-site_name: "Church in Hamburg-Niendorf"
-slug: "church-in-hamburg-niendorf"
-region: "Hamburg"
-
-# Location
+title: Church in Hamburg-Niendorf
+site_name: Church in Hamburg-Niendorf
+slug: church-in-hamburg-niendorf
+region: Hamburg
 latitude: 53.61722222
 longitude: 9.94916667
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q1515851"
-description: "In the heart of Hamburg, the Church in Hamburg-Niendorf stands as a striking example of baroque architecture, constructed from the quintessential local ..."
+- castle
+- fortification
+wikidata_id: Q1515851
+description: In the heart of Hamburg, the Church in Hamburg-Niendorf stands as a striking
+  example of baroque architecture, constructed from the quintessential local ...
 images:
-  - "/images-sites/church-in-hamburg-niendorf/01-9a1a3180-1920w.webp"
-  - "/images-sites/church-in-hamburg-niendorf/02-a07a07df-1920w.webp"
-  - "/images-sites/church-in-hamburg-niendorf/03-86023328-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Niendoerp%20-%20Marktkark.jpg/1200px-Niendoerp%20-%20Marktkark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Niendorfer_Marktkirche_Orgel.jpg/1200px-Niendorfer_Marktkirche_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Niendorfer_Kirche_und_Alter_Friedhof_2.jpg/1200px-Niendorfer_Kirche_und_Alter_Friedhof_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/1200px-Niendoerp_-_Marktkark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Niendorfer_Marktkirche_Innenraum.jpg/1200px-Niendorfer_Marktkirche_Innenraum.jpg
+image_srcset:
+  Niendoerp%20-%20Marktkark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Niendoerp%20-%20Marktkark.jpg/400px-Niendoerp%20-%20Marktkark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Niendoerp%20-%20Marktkark.jpg/800px-Niendoerp%20-%20Marktkark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Niendoerp%20-%20Marktkark.jpg/1200px-Niendoerp%20-%20Marktkark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Niendoerp%20-%20Marktkark.jpg/1920px-Niendoerp%20-%20Marktkark.jpg
+  Niendorfer Marktkirche Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Niendorfer_Marktkirche_Orgel.jpg/400px-Niendorfer_Marktkirche_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Niendorfer_Marktkirche_Orgel.jpg/800px-Niendorfer_Marktkirche_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Niendorfer_Marktkirche_Orgel.jpg/1200px-Niendorfer_Marktkirche_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Niendorfer_Marktkirche_Orgel.jpg/1920px-Niendorfer_Marktkirche_Orgel.jpg
+  Niendorfer Kirche und Alter Friedhof 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Niendorfer_Kirche_und_Alter_Friedhof_2.jpg/400px-Niendorfer_Kirche_und_Alter_Friedhof_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Niendorfer_Kirche_und_Alter_Friedhof_2.jpg/800px-Niendorfer_Kirche_und_Alter_Friedhof_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Niendorfer_Kirche_und_Alter_Friedhof_2.jpg/1200px-Niendorfer_Kirche_und_Alter_Friedhof_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Niendorfer_Kirche_und_Alter_Friedhof_2.jpg/1920px-Niendorfer_Kirche_und_Alter_Friedhof_2.jpg
+  Niendoerp - Marktkark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/400px-Niendoerp_-_Marktkark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/800px-Niendoerp_-_Marktkark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/1200px-Niendoerp_-_Marktkark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Niendoerp_-_Marktkark.jpg/1920px-Niendoerp_-_Marktkark.jpg
+  Niendorfer Marktkirche Innenraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Niendorfer_Marktkirche_Innenraum.jpg/400px-Niendorfer_Marktkirche_Innenraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Niendorfer_Marktkirche_Innenraum.jpg/800px-Niendorfer_Marktkirche_Innenraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Niendorfer_Marktkirche_Innenraum.jpg/1200px-Niendorfer_Marktkirche_Innenraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Niendorfer_Marktkirche_Innenraum.jpg/1920px-Niendorfer_Marktkirche_Innenraum.jpg
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1601210"
 description: "The Pfingstbergkirche, a striking example of brutalist architecture, commands attention in Mannheim, Germany. Its design, crafted by the architect Carlf..."
 images:
-  - "/images-sites/pfingstbergkirche/01-7afa577e-1920w.webp"
-  - "/images-sites/pfingstbergkirche/02-137a2c67-1920w.webp"
-  - "/images-sites/pfingstbergkirche/03-811eb8c4-1920w.webp"
+  - "/images/pfingstbergkirche/01-7afa577e-1920w.webp"
+  - "/images/pfingstbergkirche/02-137a2c67-1920w.webp"
+  - "/images/pfingstbergkirche/03-811eb8c4-1920w.webp"
 ---
 
 ## Overview

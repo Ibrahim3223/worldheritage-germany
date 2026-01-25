@@ -13,7 +13,7 @@ regions:
 latitude: 52.0667
 longitude: 14.2
 images:
-  - "/images-sites/schwielochsee/01-4e492fdb-800w.webp"
+  - "/images/schwielochsee/01-4e492fdb-800w.webp"
 ---
 
 ## Overview

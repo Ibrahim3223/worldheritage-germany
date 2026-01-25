@@ -1,19 +1,50 @@
 ---
-title: "Church Kleinwusterwitz"
-site_name: "Church Kleinwusterwitz"
-slug: "church-kleinwusterwitz"
-region: "Brandenburg"
-
-# Location
+title: Church Kleinwusterwitz
+site_name: Church Kleinwusterwitz
+slug: church-kleinwusterwitz
+region: Brandenburg
 latitude: 52.4571
 longitude: 12.2465
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244429"
-description: "Church Kleinwusterwitz stands as a prominent example of Gothic Revival architecture in the Jerichow region of Germany. This church, constructed of brick..."
+- cultural site
+wikidata_id: Q1244429
+description: Church Kleinwusterwitz stands as a prominent example of Gothic Revival
+  architecture in the Jerichow region of Germany. This church, constructed of brick...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg/1200px-Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Kleinwusterwitz_Westansicht_2013.jpg/1200px-Kirche_Kleinwusterwitz_Westansicht_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/1200px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg/1200px-Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kleinwusterwitz_2003_Ostansicht.JPG/1200px-Kleinwusterwitz_2003_Ostansicht.JPG
+image_srcset:
+  Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg/400px-Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg/800px-Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg/1200px-Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg/1920px-Schinkelkirche%20Kleinwusterwitz%202013%20Ostansicht1.jpg
+  Kirche Kleinwusterwitz Westansicht 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Kleinwusterwitz_Westansicht_2013.jpg/400px-Kirche_Kleinwusterwitz_Westansicht_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Kleinwusterwitz_Westansicht_2013.jpg/800px-Kirche_Kleinwusterwitz_Westansicht_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Kleinwusterwitz_Westansicht_2013.jpg/1200px-Kirche_Kleinwusterwitz_Westansicht_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kirche_Kleinwusterwitz_Westansicht_2013.jpg/1920px-Kirche_Kleinwusterwitz_Westansicht_2013.jpg
+  Schinkelkirche Kleinwusterwitz 2013 Ostansicht1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/400px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/800px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/1200px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg/1920px-Schinkelkirche_Kleinwusterwitz_2013_Ostansicht1.jpg
+  Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg/400px-Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg/800px-Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg/1200px-Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg/1920px-Jerichow-Kleinwusterwitz-Dorfkirche-II.jpg
+  Kleinwusterwitz 2003 Ostansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kleinwusterwitz_2003_Ostansicht.JPG/400px-Kleinwusterwitz_2003_Ostansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kleinwusterwitz_2003_Ostansicht.JPG/800px-Kleinwusterwitz_2003_Ostansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kleinwusterwitz_2003_Ostansicht.JPG/1200px-Kleinwusterwitz_2003_Ostansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kleinwusterwitz_2003_Ostansicht.JPG/1920px-Kleinwusterwitz_2003_Ostansicht.JPG
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1409789"
 description: "In the coastal town of Husum, Germany, you’ll find the Little Church upon the Sea, a remarkable church building that exemplifies the unique Brick Gothic..."
 images:
-  - "/images-sites/little-church-upon-the-sea/01-958e1de9-1920w.webp"
-  - "/images-sites/little-church-upon-the-sea/02-cf7033a7-1920w.webp"
-  - "/images-sites/little-church-upon-the-sea/03-32e65314-1920w.webp"
+  - "/images/little-church-upon-the-sea/01-958e1de9-1920w.webp"
+  - "/images/little-church-upon-the-sea/02-cf7033a7-1920w.webp"
+  - "/images/little-church-upon-the-sea/03-32e65314-1920w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,45 @@
 ---
-title: "Christuskirche Unna-Königsborn"
-site_name: "Christuskirche Unna-Königsborn"
-slug: "christuskirche-unna-konigsborn"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Christuskirche Unna-Königsborn
+site_name: Christuskirche Unna-Königsborn
+slug: christuskirche-unna-konigsborn
+region: North Rhine-Westphalia
 latitude: 51.5503
 longitude: 7.6832
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380148"
-description: "In the heart of Unna, Germany, the Christuskirche Unna-Königsborn stands as a remarkable example of Romanesque Revival architecture. This church, design..."
+- church building
+- religious site
+wikidata_id: Q1380148
+description: In the heart of Unna, Germany, the Christuskirche Unna-Königsborn stands
+  as a remarkable example of Romanesque Revival architecture. This church, design...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1200px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg/1200px-Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Koenigsborn_Christuskirche_IMGP2011_wp.jpg/1200px-Koenigsborn_Christuskirche_IMGP2011_wp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Koenigsborn_christuskirche.jpg/1200px-Koenigsborn_christuskirche.jpg
+image_srcset:
+  Unna-Koenigsborn-Christuskirche1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/400px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/800px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1200px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Unna-Koenigsborn-Christuskirche1-Asio.JPG/1920px-Unna-Koenigsborn-Christuskirche1-Asio.JPG
+  Koenigsborn Windpumpe Tafel IMGP1993 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg/400px-Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg/800px-Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg/1200px-Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg/1920px-Koenigsborn_Windpumpe_Tafel_IMGP1993_wp.jpg
+  Koenigsborn Christuskirche IMGP2011 wp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Koenigsborn_Christuskirche_IMGP2011_wp.jpg/400px-Koenigsborn_Christuskirche_IMGP2011_wp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Koenigsborn_Christuskirche_IMGP2011_wp.jpg/800px-Koenigsborn_Christuskirche_IMGP2011_wp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Koenigsborn_Christuskirche_IMGP2011_wp.jpg/1200px-Koenigsborn_Christuskirche_IMGP2011_wp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Koenigsborn_Christuskirche_IMGP2011_wp.jpg/1920px-Koenigsborn_Christuskirche_IMGP2011_wp.jpg
+  Koenigsborn christuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Koenigsborn_christuskirche.jpg/400px-Koenigsborn_christuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Koenigsborn_christuskirche.jpg/800px-Koenigsborn_christuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Koenigsborn_christuskirche.jpg/1200px-Koenigsborn_christuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Koenigsborn_christuskirche.jpg/1920px-Koenigsborn_christuskirche.jpg
 ---
 
 ## Overview

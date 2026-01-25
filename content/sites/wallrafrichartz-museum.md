@@ -21,7 +21,7 @@ longitude: 6.958611
 
 # Images
 images:
-  - "/images-sites/wallrafrichartz-museum/01-d173abfb-800w.webp"
+  - "/images/wallrafrichartz-museum/01-d173abfb-800w.webp"
 ---
 
 ## Overview

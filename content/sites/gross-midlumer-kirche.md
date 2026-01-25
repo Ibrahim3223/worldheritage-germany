@@ -1,20 +1,52 @@
 ---
-title: "Groß Midlumer Kirche"
-site_name: "Groß Midlumer Kirche"
-slug: "gross-midlumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Groß Midlumer Kirche
+site_name: Groß Midlumer Kirche
+slug: gross-midlumer-kirche
+region: Lower Saxony
 latitude: 53.410216
 longitude: 7.158247
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1547942"
-description: "Imagine stepping into a space where centuries of faith and community converge. The Groß Midlumer Kirche, a striking Gothic church located in the quaint ..."
+- church building
+- religious site
+wikidata_id: Q1547942
+description: Imagine stepping into a space where centuries of faith and community
+  converge. The Groß Midlumer Kirche, a striking Gothic church located in the quaint
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gro%C3%9F%20Midlum%20Westseite.jpg/1200px-Gro%C3%9F%20Midlum%20Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Groß_Midlum_Kirche.jpg/1200px-Groß_Midlum_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Groß_Midlum_Orgel_(1).jpg/1200px-Groß_Midlum_Orgel_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1200px-Groß_Midlum_Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Groß_Midlumer_Kirche.jpg/1200px-Groß_Midlumer_Kirche.jpg
+image_srcset:
+  Gro%C3%9F%20Midlum%20Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gro%C3%9F%20Midlum%20Westseite.jpg/400px-Gro%C3%9F%20Midlum%20Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gro%C3%9F%20Midlum%20Westseite.jpg/800px-Gro%C3%9F%20Midlum%20Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gro%C3%9F%20Midlum%20Westseite.jpg/1200px-Gro%C3%9F%20Midlum%20Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gro%C3%9F%20Midlum%20Westseite.jpg/1920px-Gro%C3%9F%20Midlum%20Westseite.jpg
+  Groß Midlum Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Groß_Midlum_Kirche.jpg/400px-Groß_Midlum_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Groß_Midlum_Kirche.jpg/800px-Groß_Midlum_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Groß_Midlum_Kirche.jpg/1200px-Groß_Midlum_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Groß_Midlum_Kirche.jpg/1920px-Groß_Midlum_Kirche.jpg
+  Groß Midlum Orgel (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Groß_Midlum_Orgel_(1).jpg/400px-Groß_Midlum_Orgel_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Groß_Midlum_Orgel_(1).jpg/800px-Groß_Midlum_Orgel_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Groß_Midlum_Orgel_(1).jpg/1200px-Groß_Midlum_Orgel_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Groß_Midlum_Orgel_(1).jpg/1920px-Groß_Midlum_Orgel_(1).jpg
+  Groß Midlum Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/400px-Groß_Midlum_Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/800px-Groß_Midlum_Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1200px-Groß_Midlum_Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Groß_Midlum_Westseite.jpg/1920px-Groß_Midlum_Westseite.jpg
+  Groß Midlumer Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Groß_Midlumer_Kirche.jpg/400px-Groß_Midlumer_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Groß_Midlumer_Kirche.jpg/800px-Groß_Midlumer_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Groß_Midlumer_Kirche.jpg/1200px-Groß_Midlumer_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Groß_Midlumer_Kirche.jpg/1920px-Groß_Midlumer_Kirche.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.507
 longitude: 13.372
 images:
-  - "/images-sites/theater-at-potsdamer-platz/01-02b431ae-800w.webp"
+  - "/images/theater-at-potsdamer-platz/01-02b431ae-800w.webp"
 ---
 
 ## Overview

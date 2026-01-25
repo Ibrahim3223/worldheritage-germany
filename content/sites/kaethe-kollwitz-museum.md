@@ -1,19 +1,49 @@
 ---
-title: "Käthe Kollwitz Museum"
+title: Käthe Kollwitz Museum
 date: 2026-01-23
 draft: false
-description: "museum in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Berlin
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.520555555
 longitude: 13.291944444
 images:
-  - "/images-sites/kaethe-kollwitz-museum/01-519322fa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1200px-Käthe-Kollwitz-Museum_Köln.jpg
+image_srcset:
+  Kollwitz neu sehen, Käthe Kollwitz Museum Köln-6983.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg/400px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg/800px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg/1920px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6983.jpg
+  Kollwitz neu sehen, Käthe Kollwitz Museum Köln-7031.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg/400px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg/800px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg/1920px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7031.jpg
+  Kollwitz neu sehen, Käthe Kollwitz Museum Köln-7011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg/400px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg/800px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg/1920px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-7011.jpg
+  Kollwitz neu sehen, Käthe Kollwitz Museum Köln-6991.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg/400px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg/800px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg/1200px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg/1920px-Kollwitz_neu_sehen,_Käthe_Kollwitz_Museum_Köln-6991.jpg
+  Käthe-Kollwitz-Museum Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/400px-Käthe-Kollwitz-Museum_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/800px-Käthe-Kollwitz-Museum_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1200px-Käthe-Kollwitz-Museum_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Käthe-Kollwitz-Museum_Köln.jpg/1920px-Käthe-Kollwitz-Museum_Köln.jpg
 ---
 
 ## Overview

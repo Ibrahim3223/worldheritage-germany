@@ -1,19 +1,43 @@
 ---
-title: "Burg Odenbach"
+title: Burg Odenbach
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.6831
 longitude: 7.65006
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Odenbach_3.jpg/1200px-Odenbach_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odenbach_2.jpg/1200px-Odenbach_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Odenbach_1.jpg/1200px-Odenbach_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Odenbach_bdm_pfalz.jpg/1200px-Odenbach_bdm_pfalz.jpg
+image_srcset:
+  Odenbach 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Odenbach_3.jpg/400px-Odenbach_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Odenbach_3.jpg/800px-Odenbach_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Odenbach_3.jpg/1200px-Odenbach_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Odenbach_3.jpg/1920px-Odenbach_3.jpg
+  Odenbach 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odenbach_2.jpg/400px-Odenbach_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odenbach_2.jpg/800px-Odenbach_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odenbach_2.jpg/1200px-Odenbach_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Odenbach_2.jpg/1920px-Odenbach_2.jpg
+  Odenbach 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Odenbach_1.jpg/400px-Odenbach_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Odenbach_1.jpg/800px-Odenbach_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Odenbach_1.jpg/1200px-Odenbach_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Odenbach_1.jpg/1920px-Odenbach_1.jpg
+  Odenbach bdm pfalz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Odenbach_bdm_pfalz.jpg/400px-Odenbach_bdm_pfalz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Odenbach_bdm_pfalz.jpg/800px-Odenbach_bdm_pfalz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Odenbach_bdm_pfalz.jpg/1200px-Odenbach_bdm_pfalz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Odenbach_bdm_pfalz.jpg/1920px-Odenbach_bdm_pfalz.jpg
 ---
 
 ## Overview

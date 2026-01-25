@@ -1,28 +1,43 @@
 ---
-title: "Burg Großfurra"
+title: Burg Großfurra
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.393541953
 longitude: 10.798633683
-
-# Images
 images:
-  - "/images-sites/burg-grossfurra/02-676b5300-800w.webp"
-  - "/images-sites/burg-grossfurra/03-63ab59d4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GroßfurraBurg1.JPG/1200px-GroßfurraBurg1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/GroßfurraBurg3.JPG/1200px-GroßfurraBurg3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GroßfurraBurg2.JPG/1200px-GroßfurraBurg2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GroßfurraBurg4.JPG/1200px-GroßfurraBurg4.JPG
+image_srcset:
+  GroßfurraBurg1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GroßfurraBurg1.JPG/400px-GroßfurraBurg1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GroßfurraBurg1.JPG/800px-GroßfurraBurg1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GroßfurraBurg1.JPG/1200px-GroßfurraBurg1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GroßfurraBurg1.JPG/1920px-GroßfurraBurg1.JPG
+  GroßfurraBurg3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/GroßfurraBurg3.JPG/400px-GroßfurraBurg3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/GroßfurraBurg3.JPG/800px-GroßfurraBurg3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/GroßfurraBurg3.JPG/1200px-GroßfurraBurg3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/GroßfurraBurg3.JPG/1920px-GroßfurraBurg3.JPG
+  GroßfurraBurg2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GroßfurraBurg2.JPG/400px-GroßfurraBurg2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GroßfurraBurg2.JPG/800px-GroßfurraBurg2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GroßfurraBurg2.JPG/1200px-GroßfurraBurg2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GroßfurraBurg2.JPG/1920px-GroßfurraBurg2.JPG
+  GroßfurraBurg4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GroßfurraBurg4.JPG/400px-GroßfurraBurg4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GroßfurraBurg4.JPG/800px-GroßfurraBurg4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GroßfurraBurg4.JPG/1200px-GroßfurraBurg4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/GroßfurraBurg4.JPG/1920px-GroßfurraBurg4.JPG
 ---
 
 ## Overview

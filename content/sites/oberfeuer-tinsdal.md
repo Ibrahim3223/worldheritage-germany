@@ -13,7 +13,7 @@ regions:
 latitude: 53.56611111
 longitude: 9.74
 images:
-  - "/images-sites/oberfeuer-tinsdal/01-25da6364-800w.webp"
+  - "/images/oberfeuer-tinsdal/01-25da6364-800w.webp"
 ---
 
 ## Overview

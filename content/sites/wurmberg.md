@@ -13,7 +13,7 @@ regions:
 latitude: 51.7566
 longitude: 10.6183
 images:
-  - "/images-sites/wurmberg/01-881c47a3-800w.webp"
+  - "/images/wurmberg/01-881c47a3-800w.webp"
 ---
 
 ## Overview

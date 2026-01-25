@@ -13,9 +13,9 @@ regions:
 latitude: 51.196666666
 longitude: 5.981666666
 images:
-  - "/images-sites/rur/01-8e369da3-800w.webp"
-  - "/images-sites/rur/02-559aef76-800w.webp"
-  - "/images-sites/rur/03-9a2064a2-800w.webp"
+  - "/images/rur/01-8e369da3-800w.webp"
+  - "/images/rur/02-559aef76-800w.webp"
+  - "/images/rur/03-9a2064a2-800w.webp"
 ---
 
 ## Overview

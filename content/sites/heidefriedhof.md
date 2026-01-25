@@ -1,19 +1,49 @@
 ---
-title: "Heidefriedhof"
+title: Heidefriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1036
 longitude: 13.7085
 images:
-  - "/images-sites/heidefriedhof/01-c58a4541-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG/1200px-Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg/1200px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heidefriedhof_Rondell_Detail.jpg/1200px-Heidefriedhof_Rondell_Detail.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1200px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rudolf_Friedrichs_Grab.jpg/1200px-Rudolf_Friedrichs_Grab.jpg
+image_srcset:
+  Heidefriedhof Dresden Urnengräber Ehrenhain Paul Schwarze.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG/400px-Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG/800px-Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG/1200px-Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG/1920px-Heidefriedhof_Dresden_Urnengräber_Ehrenhain_Paul_Schwarze.JPG
+  Dresden Heidefriedhof Urnengemeinschaftsgräber (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg/400px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg/800px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg/1200px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg/1920px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber_(2).jpg
+  Heidefriedhof Rondell Detail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heidefriedhof_Rondell_Detail.jpg/400px-Heidefriedhof_Rondell_Detail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heidefriedhof_Rondell_Detail.jpg/800px-Heidefriedhof_Rondell_Detail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heidefriedhof_Rondell_Detail.jpg/1200px-Heidefriedhof_Rondell_Detail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heidefriedhof_Rondell_Detail.jpg/1920px-Heidefriedhof_Rondell_Detail.jpg
+  Dresden Heidefriedhof Urnengemeinschaftsgräber.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/400px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/800px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1200px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg/1920px-Dresden_Heidefriedhof_Urnengemeinschaftsgräber.jpg
+  Rudolf Friedrichs Grab.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rudolf_Friedrichs_Grab.jpg/400px-Rudolf_Friedrichs_Grab.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rudolf_Friedrichs_Grab.jpg/800px-Rudolf_Friedrichs_Grab.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rudolf_Friedrichs_Grab.jpg/1200px-Rudolf_Friedrichs_Grab.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rudolf_Friedrichs_Grab.jpg/1920px-Rudolf_Friedrichs_Grab.jpg
 ---
 
 ## Overview

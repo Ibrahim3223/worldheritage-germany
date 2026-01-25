@@ -13,8 +13,8 @@ regions:
 latitude: 53.10816
 longitude: 8.85387
 images:
-  - "/images-sites/state-and-university-library-bremen/01-d614412a-800w.webp"
-  - "/images-sites/state-and-university-library-bremen/03-8b23c133-800w.webp"
+  - "/images/state-and-university-library-bremen/01-d614412a-800w.webp"
+  - "/images/state-and-university-library-bremen/03-8b23c133-800w.webp"
 ---
 
 ## Overview

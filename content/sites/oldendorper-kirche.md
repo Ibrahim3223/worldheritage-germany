@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2018758"
 description: "As you approach the Oldendorper Kirche, a striking example of Gothic architecture, its brick façade rises against the backdrop of the serene landscape o..."
 images:
-  - "/images-sites/oldendorper-kirche/01-7ec158e2-1920w.webp"
-  - "/images-sites/oldendorper-kirche/02-27f2fce3-1920w.webp"
-  - "/images-sites/oldendorper-kirche/03-ad6f8f39-1920w.webp"
+  - "/images/oldendorper-kirche/01-7ec158e2-1920w.webp"
+  - "/images/oldendorper-kirche/02-27f2fce3-1920w.webp"
+  - "/images/oldendorper-kirche/03-ad6f8f39-1920w.webp"
 ---
 
 ## Overview

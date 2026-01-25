@@ -1,19 +1,49 @@
 ---
-title: "Festhalle Ilmenau"
+title: Festhalle Ilmenau
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall in Ilmenau, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall in Ilmenau, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.681834
 longitude: 10.903003
 images:
-  - "/images-sites/festhalle-ilmenau/01-351395b3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festhalle_(Ilmenau)_5.jpg/1200px-Festhalle_(Ilmenau)_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Festhalle_(Ilmenau)_7.jpg/1200px-Festhalle_(Ilmenau)_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_6.jpg/1200px-Festhalle_(Ilmenau)_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_1.jpg/1200px-Festhalle_(Ilmenau)_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Festhalle_Ilmenau_2019.jpg/1200px-Festhalle_Ilmenau_2019.jpg
+image_srcset:
+  Festhalle (Ilmenau) 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festhalle_(Ilmenau)_5.jpg/400px-Festhalle_(Ilmenau)_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festhalle_(Ilmenau)_5.jpg/800px-Festhalle_(Ilmenau)_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festhalle_(Ilmenau)_5.jpg/1200px-Festhalle_(Ilmenau)_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Festhalle_(Ilmenau)_5.jpg/1920px-Festhalle_(Ilmenau)_5.jpg
+  Festhalle (Ilmenau) 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Festhalle_(Ilmenau)_7.jpg/400px-Festhalle_(Ilmenau)_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Festhalle_(Ilmenau)_7.jpg/800px-Festhalle_(Ilmenau)_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Festhalle_(Ilmenau)_7.jpg/1200px-Festhalle_(Ilmenau)_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Festhalle_(Ilmenau)_7.jpg/1920px-Festhalle_(Ilmenau)_7.jpg
+  Festhalle (Ilmenau) 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_6.jpg/400px-Festhalle_(Ilmenau)_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_6.jpg/800px-Festhalle_(Ilmenau)_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_6.jpg/1200px-Festhalle_(Ilmenau)_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_6.jpg/1920px-Festhalle_(Ilmenau)_6.jpg
+  Festhalle (Ilmenau) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_1.jpg/400px-Festhalle_(Ilmenau)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_1.jpg/800px-Festhalle_(Ilmenau)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_1.jpg/1200px-Festhalle_(Ilmenau)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Festhalle_(Ilmenau)_1.jpg/1920px-Festhalle_(Ilmenau)_1.jpg
+  Festhalle Ilmenau 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Festhalle_Ilmenau_2019.jpg/400px-Festhalle_Ilmenau_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Festhalle_Ilmenau_2019.jpg/800px-Festhalle_Ilmenau_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Festhalle_Ilmenau_2019.jpg/1200px-Festhalle_Ilmenau_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Festhalle_Ilmenau_2019.jpg/1920px-Festhalle_Ilmenau_2019.jpg
 ---
 
 ## Overview

@@ -1,27 +1,44 @@
 ---
-title: "Inzlingen Castle"
+title: Inzlingen Castle
 date: 2026-01-23
 draft: false
-description: "moated castle Inzlingen"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: moated castle Inzlingen
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.58666667
 longitude: 7.69694444
-
-# Images
 images:
-  - "/images-sites/inzlingen-castle/01-56e79c46-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg/1200px-Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aerial_view_-_Inzlinger_Wasserschloss4.jpg/1200px-Aerial_view_-_Inzlinger_Wasserschloss4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg/1200px-Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Inzlinger_Wasserschloss_Sommer.jpg/1200px-Inzlinger_Wasserschloss_Sommer.jpg
+image_srcset:
+  Inzlingen - Inzlinger Wasserschloss - Gesamtansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg/400px-Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg/800px-Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg/1200px-Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg/1920px-Inzlingen_-_Inzlinger_Wasserschloss_-_Gesamtansicht.jpg
+  Aerial view - Inzlinger Wasserschloss4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aerial_view_-_Inzlinger_Wasserschloss4.jpg/400px-Aerial_view_-_Inzlinger_Wasserschloss4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aerial_view_-_Inzlinger_Wasserschloss4.jpg/800px-Aerial_view_-_Inzlinger_Wasserschloss4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aerial_view_-_Inzlinger_Wasserschloss4.jpg/1200px-Aerial_view_-_Inzlinger_Wasserschloss4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aerial_view_-_Inzlinger_Wasserschloss4.jpg/1920px-Aerial_view_-_Inzlinger_Wasserschloss4.jpg
+  ? Zentralbibliothek Zürich - Es ist nichts so klein gesponnen es kompt an die Sonnen
+    Intzlingen in Schweitz - 991105554829705501.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg/400px-Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg/800px-Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg/1200px-Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg/1920px-Zentralbibliothek_Zürich_-_Es_ist_nichts_so_klein_gesponnen_es_kompt_an_die_Sonnen_Intzlingen_in_Schweitz_-_991105554829705501.jpg
+  Inzlinger Wasserschloss Sommer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Inzlinger_Wasserschloss_Sommer.jpg/400px-Inzlinger_Wasserschloss_Sommer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Inzlinger_Wasserschloss_Sommer.jpg/800px-Inzlinger_Wasserschloss_Sommer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Inzlinger_Wasserschloss_Sommer.jpg/1200px-Inzlinger_Wasserschloss_Sommer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Inzlinger_Wasserschloss_Sommer.jpg/1920px-Inzlinger_Wasserschloss_Sommer.jpg
 ---
 
 ## Overview

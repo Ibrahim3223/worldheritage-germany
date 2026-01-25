@@ -21,7 +21,7 @@ longitude: 7.29847
 
 # Images
 images:
-  - "/images-sites/treis-castle/01-007aa603-800w.webp"
+  - "/images/treis-castle/01-007aa603-800w.webp"
 ---
 
 ## Overview

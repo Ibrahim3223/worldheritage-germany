@@ -13,7 +13,7 @@ regions:
 latitude: 47.682222222
 longitude: 12.695833333
 images:
-  - "/images-sites/sonntagshorn/01-d74728de-800w.webp"
+  - "/images/sonntagshorn/01-d74728de-800w.webp"
 ---
 
 ## Overview

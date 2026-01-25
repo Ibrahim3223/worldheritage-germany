@@ -21,7 +21,7 @@ longitude: 7.621666666
 
 # Images
 images:
-  - "/images-sites/pinkus-mueller/01-d331179b-800w.webp"
+  - "/images/pinkus-mueller/01-d331179b-800w.webp"
 ---
 
 ## Overview

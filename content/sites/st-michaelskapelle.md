@@ -13,9 +13,9 @@ regions:
 latitude: 48.0008
 longitude: 7.85698
 images:
-  - "/images-sites/st-michaelskapelle/01-75d529dd-800w.webp"
-  - "/images-sites/st-michaelskapelle/02-d9d97968-800w.webp"
-  - "/images-sites/st-michaelskapelle/03-629c9bfa-800w.webp"
+  - "/images/st-michaelskapelle/01-75d529dd-800w.webp"
+  - "/images/st-michaelskapelle/02-d9d97968-800w.webp"
+  - "/images/st-michaelskapelle/03-629c9bfa-800w.webp"
 ---
 
 ## Overview

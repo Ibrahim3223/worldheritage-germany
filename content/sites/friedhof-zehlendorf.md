@@ -1,19 +1,49 @@
 ---
-title: "Friedhof Zehlendorf"
+title: Friedhof Zehlendorf
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin-Zehlendorf"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin-Zehlendorf
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.439202777
 longitude: 13.25435
 images:
-  - "/images-sites/friedhof-zehlendorf/01-7d8c9d73-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Friedhof_zehlendorf_2018-03-24_(7).jpg/1200px-Friedhof_zehlendorf_2018-03-24_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grabstätte_Hans_Bucka.jpg/1200px-Grabstätte_Hans_Bucka.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg/1200px-2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-08-31_Grab-Hans-Reif.jpg/1200px-2016-08-31_Grab-Hans-Reif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christus-Piedboeuf-Mutter_Erde_fec.jpg/1200px-Christus-Piedboeuf-Mutter_Erde_fec.jpg
+image_srcset:
+  Friedhof zehlendorf 2018-03-24 (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Friedhof_zehlendorf_2018-03-24_(7).jpg/400px-Friedhof_zehlendorf_2018-03-24_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Friedhof_zehlendorf_2018-03-24_(7).jpg/800px-Friedhof_zehlendorf_2018-03-24_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Friedhof_zehlendorf_2018-03-24_(7).jpg/1200px-Friedhof_zehlendorf_2018-03-24_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Friedhof_zehlendorf_2018-03-24_(7).jpg/1920px-Friedhof_zehlendorf_2018-03-24_(7).jpg
+  Grabstätte Hans Bucka.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grabstätte_Hans_Bucka.jpg/400px-Grabstätte_Hans_Bucka.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grabstätte_Hans_Bucka.jpg/800px-Grabstätte_Hans_Bucka.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grabstätte_Hans_Bucka.jpg/1200px-Grabstätte_Hans_Bucka.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grabstätte_Hans_Bucka.jpg/1920px-Grabstätte_Hans_Bucka.jpg
+  2016-08-31 Kapelle-Friedhof-Zehlendorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg/400px-2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg/800px-2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg/1200px-2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg/1920px-2016-08-31_Kapelle-Friedhof-Zehlendorf.jpg
+  2016-08-31 Grab-Hans-Reif.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-08-31_Grab-Hans-Reif.jpg/400px-2016-08-31_Grab-Hans-Reif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-08-31_Grab-Hans-Reif.jpg/800px-2016-08-31_Grab-Hans-Reif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-08-31_Grab-Hans-Reif.jpg/1200px-2016-08-31_Grab-Hans-Reif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-08-31_Grab-Hans-Reif.jpg/1920px-2016-08-31_Grab-Hans-Reif.jpg
+  Christus-Piedboeuf-Mutter Erde fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christus-Piedboeuf-Mutter_Erde_fec.jpg/400px-Christus-Piedboeuf-Mutter_Erde_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christus-Piedboeuf-Mutter_Erde_fec.jpg/800px-Christus-Piedboeuf-Mutter_Erde_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christus-Piedboeuf-Mutter_Erde_fec.jpg/1200px-Christus-Piedboeuf-Mutter_Erde_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christus-Piedboeuf-Mutter_Erde_fec.jpg/1920px-Christus-Piedboeuf-Mutter_Erde_fec.jpg
 ---
 
 ## Overview

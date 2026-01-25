@@ -1,19 +1,49 @@
 ---
-title: "Großer Tiergarten"
+title: Großer Tiergarten
 date: 2026-01-23
 draft: false
-description: "park in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.516666666
 longitude: 13.366666666
 images:
-  - "/images-sites/grosser-tiergarten/01-e0385c21-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/1200px-Bln_Tiergtn8.jpg
+image_srcset:
+  Watering in Großer Tiergarten Berlin 2021-06-29 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg/400px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg/800px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg/1920px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_07.jpg
+  Watering in Großer Tiergarten Berlin 2021-06-29 27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg/400px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg/800px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg/1920px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_27.jpg
+  Watering in Großer Tiergarten Berlin 2021-06-29 50.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg/400px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg/800px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg/1920px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_50.jpg
+  Watering in Großer Tiergarten Berlin 2021-06-29 60.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg/400px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg/800px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg/1200px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg/1920px-Watering_in_Großer_Tiergarten_Berlin_2021-06-29_60.jpg
+  Bln Tiergtn8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/400px-Bln_Tiergtn8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/800px-Bln_Tiergtn8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/1200px-Bln_Tiergtn8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bln_Tiergtn8.jpg/1920px-Bln_Tiergtn8.jpg
 ---
 
 ## Overview

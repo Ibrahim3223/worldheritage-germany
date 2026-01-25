@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1788329"
 description: "In the heart of Bonn, Germany, the Kreuzkirche stands as a prominent example of Gothic Revival architecture, drawing the eyes of passersby with its intr..."
 images:
-  - "/images-sites/kreuzkirche-bonn/01-02ba80ae-1920w.webp"
-  - "/images-sites/kreuzkirche-bonn/02-0928bb15-1920w.webp"
-  - "/images-sites/kreuzkirche-bonn/03-aeaa196e-1920w.webp"
+  - "/images/kreuzkirche-bonn/01-02ba80ae-1920w.webp"
+  - "/images/kreuzkirche-bonn/02-0928bb15-1920w.webp"
+  - "/images/kreuzkirche-bonn/03-aeaa196e-1920w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Dithmarscher Privatbrauerei"
+title: Dithmarscher Privatbrauerei
 date: 2026-01-23
 draft: false
-description: "trademark"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: trademark
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.95433
 longitude: 9.01284
-
-# Images
 images:
-  - "/images-sites/dithmarscher-privatbrauerei/01-ff6044a4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Marne_brauerei_hintz.jpg/1200px-Marne_brauerei_hintz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg
+image_srcset:
+  Marne brauerei hintz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Marne_brauerei_hintz.jpg/400px-Marne_brauerei_hintz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Marne_brauerei_hintz.jpg/800px-Marne_brauerei_hintz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Marne_brauerei_hintz.jpg/1200px-Marne_brauerei_hintz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Marne_brauerei_hintz.jpg/1920px-Marne_brauerei_hintz.jpg
+  Privatbrauerei Karl Hintz - Dithmarscher Naturtrüb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg/400px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg/800px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg/1920px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Naturtrüb.jpg
+  Privatbrauerei Karl Hintz - Dithmarscher Maibock.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg/400px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg/800px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg/1920px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Maibock.jpg
+  Privatbrauerei Karl Hintz - Dithmarscher Dunkel, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/400px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/800px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg/1920px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Dunkel,_2019.jpg
+  Privatbrauerei Karl Hintz - Dithmarscher Urtyp, 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg/400px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg/800px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg/1200px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg/1920px-Privatbrauerei_Karl_Hintz_-_Dithmarscher_Urtyp,_2019.jpg
 ---
 
 ## Overview

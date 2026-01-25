@@ -1,23 +1,50 @@
 ---
-title: "Evangelical Church"
-site_name: "Evangelical Church"
-slug: "evangelical-church"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelical Church
+site_name: Evangelical Church
+slug: evangelical-church
+region: Baden-Württemberg
 latitude: 49.2153
 longitude: 8.91687
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1344099"
-description: "The Evangelical Church, located in the suburb of Reihen in Sinsheim, Germany, serves as a striking example of Classicism in ecclesiastical architecture...."
+- cultural site
+wikidata_id: Q1344099
+description: The Evangelical Church, located in the suburb of Reihen in Sinsheim,
+  Germany, serves as a striking example of Classicism in ecclesiastical architecture....
 images:
-  - "/images-sites/evangelical-church/01-845341ca-1920w.webp"
-  - "/images-sites/evangelical-church/02-2f60685a-1920w.webp"
-  - "/images-sites/evangelical-church/03-e1777633-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Reihen-evkirche.jpg/1200px-Reihen-evkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1200px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg/1200px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg/1200px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg/1200px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg
+image_srcset:
+  Reihen-evkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Reihen-evkirche.jpg/400px-Reihen-evkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Reihen-evkirche.jpg/800px-Reihen-evkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Reihen-evkirche.jpg/1200px-Reihen-evkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Reihen-evkirche.jpg/1920px-Reihen-evkirche.jpg
+  Kirche Niederlehme im Licht der Abendsonne 07-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/400px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/800px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1200px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg/1920px-Kirche_Niederlehme_im_Licht_der_Abendsonne_07-21.jpg
+  Pňov-Předhradí, Českobratrský evangelický sbor 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg/400px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg/800px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg/1200px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg/1920px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_02.jpg
+  Pňov-Předhradí, Českobratrský evangelický sbor 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg/400px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg/800px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg/1200px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg/1920px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_03.jpg
+  Pňov-Předhradí, Českobratrský evangelický sbor 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg/400px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg/800px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg/1200px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg/1920px-Pňov-Předhradí,_Českobratrský_evangelický_sbor_01.jpg
 ---
 
 ## Overview

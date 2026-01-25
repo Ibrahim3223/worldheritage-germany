@@ -13,9 +13,9 @@ regions:
 latitude: 53.086369
 longitude: 8.936181
 images:
-  - "/images-sites/oberneulander-muehle/01-0d24ab6f-800w.webp"
-  - "/images-sites/oberneulander-muehle/02-b285a4d7-800w.webp"
-  - "/images-sites/oberneulander-muehle/03-3d89b1ba-800w.webp"
+  - "/images/oberneulander-muehle/01-0d24ab6f-800w.webp"
+  - "/images/oberneulander-muehle/02-b285a4d7-800w.webp"
+  - "/images/oberneulander-muehle/03-3d89b1ba-800w.webp"
 ---
 
 ## Overview

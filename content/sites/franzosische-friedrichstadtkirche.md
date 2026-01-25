@@ -1,20 +1,51 @@
 ---
-title: "Französische Friedrichstadtkirche"
-site_name: "Französische Friedrichstadtkirche"
-slug: "franzosische-friedrichstadtkirche"
-region: "Berlin"
-
-# Location
+title: Französische Friedrichstadtkirche
+site_name: Französische Friedrichstadtkirche
+slug: franzosische-friedrichstadtkirche
+region: Berlin
 latitude: 52.5144
 longitude: 13.3919
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1450554"
-description: "In the heart of Berlin, a striking example of baroque architecture awaits visitors—Französische Friedrichstadtkirche. This church, rooted in Continental..."
+- church building
+- religious site
+wikidata_id: Q1450554
+description: In the heart of Berlin, a striking example of baroque architecture awaits
+  visitors—Französische Friedrichstadtkirche. This church, rooted in Continental...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG/1200px-Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Französischer_Dom_9083.jpg/1200px-Französischer_Dom_9083.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/20220811_Französische_Friedrichstadtkirche_01.jpg/1200px-20220811_Französische_Friedrichstadtkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1200px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg/1200px-Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg
+image_srcset:
+  Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG/400px-Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG/800px-Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG/1200px-Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG/1920px-Franz%C3%B6sische%20Friedrichstadtkirche%20-%20Berlin%20-%20Gendarmenmarkt.JPG
+  Französischer Dom 9083.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Französischer_Dom_9083.jpg/400px-Französischer_Dom_9083.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Französischer_Dom_9083.jpg/800px-Französischer_Dom_9083.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Französischer_Dom_9083.jpg/1200px-Französischer_Dom_9083.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Französischer_Dom_9083.jpg/1920px-Französischer_Dom_9083.jpg
+  20220811 Französische Friedrichstadtkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/20220811_Französische_Friedrichstadtkirche_01.jpg/400px-20220811_Französische_Friedrichstadtkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/20220811_Französische_Friedrichstadtkirche_01.jpg/800px-20220811_Französische_Friedrichstadtkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/20220811_Französische_Friedrichstadtkirche_01.jpg/1200px-20220811_Französische_Friedrichstadtkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/20220811_Französische_Friedrichstadtkirche_01.jpg/1920px-20220811_Französische_Friedrichstadtkirche_01.jpg
+  Französische Friedrichstadtkirche - Berlin - Gendarmenmarkt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/400px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/800px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1200px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG/1920px-Französische_Friedrichstadtkirche_-_Berlin_-_Gendarmenmarkt.JPG
+  Gedenktafel Gendarmenmarkt (Mitte) Französischer Dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg/400px-Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg/800px-Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg/1200px-Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg/1920px-Gedenktafel_Gendarmenmarkt_(Mitte)_Französischer_Dom.jpg
 ---
 
 ## Overview

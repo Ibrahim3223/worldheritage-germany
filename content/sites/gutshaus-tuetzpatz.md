@@ -1,21 +1,49 @@
 ---
-title: "Gutshaus Tützpatz"
+title: Gutshaus Tützpatz
 date: 2026-01-23
 draft: false
-description: "Herrenhaus in Tützpatz im Landkreis Mecklenburgische Seenplatte in Mecklenburg-Vorpommern"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus in Tützpatz im Landkreis Mecklenburgische Seenplatte in Mecklenburg-Vorpommern
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.7223
 longitude: 13.1417
 images:
-  - "/images-sites/gutshaus-tuetzpatz/01-94ec9c96-800w.webp"
-  - "/images-sites/gutshaus-tuetzpatz/02-1ade1c58-800w.webp"
-  - "/images-sites/gutshaus-tuetzpatz/03-f2851261-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tützpatz-Hofseite-111106-050.JPG/1200px-Tützpatz-Hofseite-111106-050.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20040626050DR_Tützpatz_Rittergut_Schloß.jpg/1200px-20040626050DR_Tützpatz_Rittergut_Schloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tuetzpatz_Gutshaus_Ostseite.jpg/1200px-Tuetzpatz_Gutshaus_Ostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20040626090DR_Tützpatz_Rittergut_Schloß.jpg/1200px-20040626090DR_Tützpatz_Rittergut_Schloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tuetzpatz-schloss.jpg/1200px-Tuetzpatz-schloss.jpg
+image_srcset:
+  Tützpatz-Hofseite-111106-050.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tützpatz-Hofseite-111106-050.JPG/400px-Tützpatz-Hofseite-111106-050.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tützpatz-Hofseite-111106-050.JPG/800px-Tützpatz-Hofseite-111106-050.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tützpatz-Hofseite-111106-050.JPG/1200px-Tützpatz-Hofseite-111106-050.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tützpatz-Hofseite-111106-050.JPG/1920px-Tützpatz-Hofseite-111106-050.JPG
+  20040626050DR Tützpatz Rittergut Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20040626050DR_Tützpatz_Rittergut_Schloß.jpg/400px-20040626050DR_Tützpatz_Rittergut_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20040626050DR_Tützpatz_Rittergut_Schloß.jpg/800px-20040626050DR_Tützpatz_Rittergut_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20040626050DR_Tützpatz_Rittergut_Schloß.jpg/1200px-20040626050DR_Tützpatz_Rittergut_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20040626050DR_Tützpatz_Rittergut_Schloß.jpg/1920px-20040626050DR_Tützpatz_Rittergut_Schloß.jpg
+  Tuetzpatz Gutshaus Ostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tuetzpatz_Gutshaus_Ostseite.jpg/400px-Tuetzpatz_Gutshaus_Ostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tuetzpatz_Gutshaus_Ostseite.jpg/800px-Tuetzpatz_Gutshaus_Ostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tuetzpatz_Gutshaus_Ostseite.jpg/1200px-Tuetzpatz_Gutshaus_Ostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tuetzpatz_Gutshaus_Ostseite.jpg/1920px-Tuetzpatz_Gutshaus_Ostseite.jpg
+  20040626090DR Tützpatz Rittergut Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20040626090DR_Tützpatz_Rittergut_Schloß.jpg/400px-20040626090DR_Tützpatz_Rittergut_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20040626090DR_Tützpatz_Rittergut_Schloß.jpg/800px-20040626090DR_Tützpatz_Rittergut_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20040626090DR_Tützpatz_Rittergut_Schloß.jpg/1200px-20040626090DR_Tützpatz_Rittergut_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/20040626090DR_Tützpatz_Rittergut_Schloß.jpg/1920px-20040626090DR_Tützpatz_Rittergut_Schloß.jpg
+  Tuetzpatz-schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tuetzpatz-schloss.jpg/400px-Tuetzpatz-schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tuetzpatz-schloss.jpg/800px-Tuetzpatz-schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tuetzpatz-schloss.jpg/1200px-Tuetzpatz-schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tuetzpatz-schloss.jpg/1920px-Tuetzpatz-schloss.jpg
 ---
 
 ## Overview

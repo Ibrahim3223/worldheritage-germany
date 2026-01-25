@@ -1,27 +1,49 @@
 ---
-title: "Alter Botanischer Garten Tübingen"
+title: Alter Botanischer Garten Tübingen
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.5234
 longitude: 9.0571
-
-# Images
 images:
-  - "/images-sites/alter-botanischer-garten-tuebingen/01-a2686a4e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alter-botanischer-garten-1.jpg/1200px-Alter-botanischer-garten-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alter-botanischer-garten-5.jpg/1200px-Alter-botanischer-garten-5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alter-botanischer-garten-7.jpg/1200px-Alter-botanischer-garten-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/1200px-Tübingen_Alter_Botanischer_Garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg/1200px-Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg
+image_srcset:
+  Alter-botanischer-garten-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alter-botanischer-garten-1.jpg/400px-Alter-botanischer-garten-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alter-botanischer-garten-1.jpg/800px-Alter-botanischer-garten-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alter-botanischer-garten-1.jpg/1200px-Alter-botanischer-garten-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alter-botanischer-garten-1.jpg/1920px-Alter-botanischer-garten-1.jpg
+  Alter-botanischer-garten-5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alter-botanischer-garten-5.jpg/400px-Alter-botanischer-garten-5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alter-botanischer-garten-5.jpg/800px-Alter-botanischer-garten-5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alter-botanischer-garten-5.jpg/1200px-Alter-botanischer-garten-5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alter-botanischer-garten-5.jpg/1920px-Alter-botanischer-garten-5.jpg
+  Alter-botanischer-garten-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alter-botanischer-garten-7.jpg/400px-Alter-botanischer-garten-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alter-botanischer-garten-7.jpg/800px-Alter-botanischer-garten-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alter-botanischer-garten-7.jpg/1200px-Alter-botanischer-garten-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alter-botanischer-garten-7.jpg/1920px-Alter-botanischer-garten-7.jpg
+  Tübingen Alter Botanischer Garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/400px-Tübingen_Alter_Botanischer_Garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/800px-Tübingen_Alter_Botanischer_Garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/1200px-Tübingen_Alter_Botanischer_Garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tübingen_Alter_Botanischer_Garten.jpg/1920px-Tübingen_Alter_Botanischer_Garten.jpg
+  Adam Gatternicht - Der Botanische Garten in Tübingen - um 1855.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg/400px-Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg/800px-Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg/1200px-Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg/1920px-Adam_Gatternicht_-_Der_Botanische_Garten_in_Tübingen_-_um_1855.jpg
 ---
 
 ## Overview

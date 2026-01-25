@@ -1,27 +1,49 @@
 ---
-title: "Anhalt Castle"
+title: Anhalt Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.6692
 longitude: 11.1927
-
-# Images
 images:
-  - "/images-sites/anhalt-castle/01-46eb2dfa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg/1200px-Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burgruine_Anhalt_(Harzgerode)_52.jpg/1200px-Burgruine_Anhalt_(Harzgerode)_52.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rester_einer_Burg_-_panoramio.jpg/1200px-Rester_einer_Burg_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Anhalt.jpg/1200px-Burg_Anhalt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bergfried_anhalt.jpg/1200px-Bergfried_anhalt.jpg
+image_srcset:
+  Burgruine Anhalt (Harzgerode) 15 Palas.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg/400px-Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg/800px-Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg/1200px-Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg/1920px-Burgruine_Anhalt_(Harzgerode)_15_Palas.jpg
+  Burgruine Anhalt (Harzgerode) 52.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burgruine_Anhalt_(Harzgerode)_52.jpg/400px-Burgruine_Anhalt_(Harzgerode)_52.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burgruine_Anhalt_(Harzgerode)_52.jpg/800px-Burgruine_Anhalt_(Harzgerode)_52.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burgruine_Anhalt_(Harzgerode)_52.jpg/1200px-Burgruine_Anhalt_(Harzgerode)_52.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Burgruine_Anhalt_(Harzgerode)_52.jpg/1920px-Burgruine_Anhalt_(Harzgerode)_52.jpg
+  Rester einer Burg - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rester_einer_Burg_-_panoramio.jpg/400px-Rester_einer_Burg_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rester_einer_Burg_-_panoramio.jpg/800px-Rester_einer_Burg_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rester_einer_Burg_-_panoramio.jpg/1200px-Rester_einer_Burg_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rester_einer_Burg_-_panoramio.jpg/1920px-Rester_einer_Burg_-_panoramio.jpg
+  Burg Anhalt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Anhalt.jpg/400px-Burg_Anhalt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Anhalt.jpg/800px-Burg_Anhalt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Anhalt.jpg/1200px-Burg_Anhalt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Burg_Anhalt.jpg/1920px-Burg_Anhalt.jpg
+  Bergfried anhalt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bergfried_anhalt.jpg/400px-Bergfried_anhalt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bergfried_anhalt.jpg/800px-Bergfried_anhalt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bergfried_anhalt.jpg/1200px-Bergfried_anhalt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bergfried_anhalt.jpg/1920px-Bergfried_anhalt.jpg
 ---
 
 ## Overview

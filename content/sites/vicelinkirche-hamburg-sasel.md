@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2521891"
 description: "In the heart of Hamburg’s Wandsbek district lies the Vicelinkirche, a striking church building that captures the essence of modern architecture. This un..."
 images:
-  - "/images-sites/vicelinkirche-hamburg-sasel/01-d4ad13c0-1920w.webp"
-  - "/images-sites/vicelinkirche-hamburg-sasel/02-f22de189-1920w.webp"
-  - "/images-sites/vicelinkirche-hamburg-sasel/03-ac471b58-1920w.webp"
+  - "/images/vicelinkirche-hamburg-sasel/01-d4ad13c0-1920w.webp"
+  - "/images/vicelinkirche-hamburg-sasel/02-f22de189-1920w.webp"
+  - "/images/vicelinkirche-hamburg-sasel/03-ac471b58-1920w.webp"
 ---
 
 ## Overview

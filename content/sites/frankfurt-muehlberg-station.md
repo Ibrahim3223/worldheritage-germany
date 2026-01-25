@@ -1,21 +1,33 @@
 ---
-title: "Frankfurt Mühlberg station"
+title: Frankfurt Mühlberg station
 date: 2026-01-23
 draft: false
-description: "railway station in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1017
 longitude: 8.70028
 images:
-  - "/images-sites/frankfurt-muehlberg-station/01-3460406b-800w.webp"
-  - "/images-sites/frankfurt-muehlberg-station/02-c1a620a3-800w.webp"
-  - "/images-sites/frankfurt-muehlberg-station/03-ef814630-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg/1200px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG/1200px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG
+image_srcset:
+  ? Frankfurt am Main- Bahnhof Frankfurt (Main) Mühlberg- auf Bahnsteig zu Gleis 1-
+    Richtung Frankfurt (Main) Hauptbahnhof (S-Bahn Rhein-Main 420 784-1) 16.6.2012.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg/400px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg/800px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg/1200px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg/1920px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_(S-Bahn_Rhein-Main_420_784-1)_16.6.2012.jpg
+  ? Frankfurt am Main- Bahnhof Frankfurt (Main) Mühlberg- auf Bahnsteig zu Gleis 1-
+    Richtung Frankfurt (Main) Hauptbahnhof 16.6.2012.JPG
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG/400px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG/800px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG/1200px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG/1920px-Frankfurt_am_Main-_Bahnhof_Frankfurt_(Main)_Mühlberg-_auf_Bahnsteig_zu_Gleis_1-_Richtung_Frankfurt_(Main)_Hauptbahnhof_16.6.2012.JPG
 ---
 
 ## Overview

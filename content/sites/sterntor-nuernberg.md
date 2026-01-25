@@ -13,7 +13,7 @@ regions:
 latitude: 49.447
 longitude: 11.0779
 images:
-  - "/images-sites/sterntor-nuernberg/01-4772fb18-800w.webp"
+  - "/images/sterntor-nuernberg/01-4772fb18-800w.webp"
 ---
 
 ## Overview

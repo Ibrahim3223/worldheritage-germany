@@ -1,19 +1,49 @@
 ---
-title: "All Saints Waterfalls"
+title: All Saints Waterfalls
 date: 2026-01-24
 draft: false
-description: "German waterfalls"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: German waterfalls
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5303
 longitude: 8.18896
 images:
-  - "/images-sites/all-saints-waterfalls/01-287bd434-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Allerheiligen-Wasserfälle_04.jpg/1200px-Allerheiligen-Wasserfälle_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Allerheiligen-Wasserfälle_05.jpg/1200px-Allerheiligen-Wasserfälle_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allerheiligen-Wasserfälle_08.jpg/1200px-Allerheiligen-Wasserfälle_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/1200px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/All_Saints_Waterfalls.jpg/1200px-All_Saints_Waterfalls.jpg
+image_srcset:
+  Allerheiligen-Wasserfälle 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Allerheiligen-Wasserfälle_04.jpg/400px-Allerheiligen-Wasserfälle_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Allerheiligen-Wasserfälle_04.jpg/800px-Allerheiligen-Wasserfälle_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Allerheiligen-Wasserfälle_04.jpg/1200px-Allerheiligen-Wasserfälle_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Allerheiligen-Wasserfälle_04.jpg/1920px-Allerheiligen-Wasserfälle_04.jpg
+  Allerheiligen-Wasserfälle 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Allerheiligen-Wasserfälle_05.jpg/400px-Allerheiligen-Wasserfälle_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Allerheiligen-Wasserfälle_05.jpg/800px-Allerheiligen-Wasserfälle_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Allerheiligen-Wasserfälle_05.jpg/1200px-Allerheiligen-Wasserfälle_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Allerheiligen-Wasserfälle_05.jpg/1920px-Allerheiligen-Wasserfälle_05.jpg
+  Allerheiligen-Wasserfälle 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allerheiligen-Wasserfälle_08.jpg/400px-Allerheiligen-Wasserfälle_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allerheiligen-Wasserfälle_08.jpg/800px-Allerheiligen-Wasserfälle_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allerheiligen-Wasserfälle_08.jpg/1200px-Allerheiligen-Wasserfälle_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allerheiligen-Wasserfälle_08.jpg/1920px-Allerheiligen-Wasserfälle_08.jpg
+  Allerheiligen-Wasserfaelle IMG 3010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/400px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/800px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/1200px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Allerheiligen-Wasserfaelle_IMG_3010.jpg/1920px-Allerheiligen-Wasserfaelle_IMG_3010.jpg
+  All Saints Waterfalls.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/All_Saints_Waterfalls.jpg/400px-All_Saints_Waterfalls.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/All_Saints_Waterfalls.jpg/800px-All_Saints_Waterfalls.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/All_Saints_Waterfalls.jpg/1200px-All_Saints_Waterfalls.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/All_Saints_Waterfalls.jpg/1920px-All_Saints_Waterfalls.jpg
 ---
 
 ## Overview

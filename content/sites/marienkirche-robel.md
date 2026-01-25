@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1445448"
 description: "The Marienkirche Röbel, a striking example of Brick Gothic architecture, stands prominently in the town of Röbel, Germany. This church, constructed from..."
 images:
-  - "/images-sites/marienkirche-robel/01-1c58546f-1920w.webp"
-  - "/images-sites/marienkirche-robel/02-e50df49e-1920w.webp"
-  - "/images-sites/marienkirche-robel/03-9d8c6606-1920w.webp"
+  - "/images/marienkirche-robel/01-1c58546f-1920w.webp"
+  - "/images/marienkirche-robel/02-e50df49e-1920w.webp"
+  - "/images/marienkirche-robel/03-9d8c6606-1920w.webp"
 ---
 
 ## Overview

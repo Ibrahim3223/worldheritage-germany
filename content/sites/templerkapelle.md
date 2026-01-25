@@ -13,7 +13,7 @@ regions:
 latitude: 51.5758
 longitude: 11.8275
 images:
-  - "/images-sites/templerkapelle/01-04c8e1b4-800w.webp"
+  - "/images/templerkapelle/01-04c8e1b4-800w.webp"
 ---
 
 ## Overview

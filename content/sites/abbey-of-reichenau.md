@@ -1,19 +1,49 @@
 ---
-title: "Abbey of Reichenau"
+title: Abbey of Reichenau
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.698738888
 longitude: 9.062080555
 images:
-  - "/images-sites/abbey-of-reichenau/01-8984b261-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Walahfrid-Strabo-Weg_-_panoramio.jpg/1200px-Walahfrid-Strabo-Weg_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/1200px-Kloster_Reichenau_(Foto_Hilarmont).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DE_Reichenau_0710_167_(17225490392).jpg/1200px-DE_Reichenau_0710_167_(17225490392).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DE_Reichenau_0710_210_(17019800657).jpg/1200px-DE_Reichenau_0710_210_(17019800657).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DE_Reichenau_0710_281_(17201257886).jpg/1200px-DE_Reichenau_0710_281_(17201257886).jpg
+image_srcset:
+  Walahfrid-Strabo-Weg - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Walahfrid-Strabo-Weg_-_panoramio.jpg/400px-Walahfrid-Strabo-Weg_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Walahfrid-Strabo-Weg_-_panoramio.jpg/800px-Walahfrid-Strabo-Weg_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Walahfrid-Strabo-Weg_-_panoramio.jpg/1200px-Walahfrid-Strabo-Weg_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Walahfrid-Strabo-Weg_-_panoramio.jpg/1920px-Walahfrid-Strabo-Weg_-_panoramio.jpg
+  Kloster Reichenau (Foto Hilarmont).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/400px-Kloster_Reichenau_(Foto_Hilarmont).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/800px-Kloster_Reichenau_(Foto_Hilarmont).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/1200px-Kloster_Reichenau_(Foto_Hilarmont).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kloster_Reichenau_(Foto_Hilarmont).jpg/1920px-Kloster_Reichenau_(Foto_Hilarmont).jpg
+  DE Reichenau 0710 167 (17225490392).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DE_Reichenau_0710_167_(17225490392).jpg/400px-DE_Reichenau_0710_167_(17225490392).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DE_Reichenau_0710_167_(17225490392).jpg/800px-DE_Reichenau_0710_167_(17225490392).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DE_Reichenau_0710_167_(17225490392).jpg/1200px-DE_Reichenau_0710_167_(17225490392).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DE_Reichenau_0710_167_(17225490392).jpg/1920px-DE_Reichenau_0710_167_(17225490392).jpg
+  DE Reichenau 0710 210 (17019800657).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DE_Reichenau_0710_210_(17019800657).jpg/400px-DE_Reichenau_0710_210_(17019800657).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DE_Reichenau_0710_210_(17019800657).jpg/800px-DE_Reichenau_0710_210_(17019800657).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DE_Reichenau_0710_210_(17019800657).jpg/1200px-DE_Reichenau_0710_210_(17019800657).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DE_Reichenau_0710_210_(17019800657).jpg/1920px-DE_Reichenau_0710_210_(17019800657).jpg
+  DE Reichenau 0710 281 (17201257886).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DE_Reichenau_0710_281_(17201257886).jpg/400px-DE_Reichenau_0710_281_(17201257886).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DE_Reichenau_0710_281_(17201257886).jpg/800px-DE_Reichenau_0710_281_(17201257886).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DE_Reichenau_0710_281_(17201257886).jpg/1200px-DE_Reichenau_0710_281_(17201257886).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DE_Reichenau_0710_281_(17201257886).jpg/1920px-DE_Reichenau_0710_281_(17201257886).jpg
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Church in Tessin"
-site_name: "Church in Tessin"
-slug: "church-in-tessin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Tessin
+site_name: Church in Tessin
+slug: church-in-tessin
+region: Mecklenburg-Vorpommern
 latitude: 54.0281
 longitude: 12.4683
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q2327476"
-description: "The Church in Tessin, a captivating example of Brick Gothic architecture, stands as a notable landmark in the region of Tessin, Germany. Its constructio..."
+- cultural site
+wikidata_id: Q2327476
+description: The Church in Tessin, a captivating example of Brick Gothic architecture,
+  stands as a notable landmark in the region of Tessin, Germany. Its constructio...
 images:
-  - "/images-sites/church-in-tessin/01-a8efa3b7-1920w.webp"
-  - "/images-sites/church-in-tessin/02-4a52fa41-1920w.webp"
-  - "/images-sites/church-in-tessin/03-269e0293-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tessin%20Kirche%201.jpg/1200px-Tessin%20Kirche%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tessin_St_Johannes_07.jpg/1200px-Tessin_St_Johannes_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg/1200px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1200px-Tessin_Kirche_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg/1200px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg
+image_srcset:
+  Tessin%20Kirche%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tessin%20Kirche%201.jpg/400px-Tessin%20Kirche%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tessin%20Kirche%201.jpg/800px-Tessin%20Kirche%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tessin%20Kirche%201.jpg/1200px-Tessin%20Kirche%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tessin%20Kirche%201.jpg/1920px-Tessin%20Kirche%201.jpg
+  Tessin St Johannes 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tessin_St_Johannes_07.jpg/400px-Tessin_St_Johannes_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tessin_St_Johannes_07.jpg/800px-Tessin_St_Johannes_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tessin_St_Johannes_07.jpg/1200px-Tessin_St_Johannes_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tessin_St_Johannes_07.jpg/1920px-Tessin_St_Johannes_07.jpg
+  2014 Tessin in Mecklenburg-Vorpommern St. Johanneskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg/400px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg/800px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg/1200px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg/1920px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche.jpg
+  Tessin Kirche 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/400px-Tessin_Kirche_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/800px-Tessin_Kirche_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1200px-Tessin_Kirche_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tessin_Kirche_1.jpg/1920px-Tessin_Kirche_1.jpg
+  2014 Tessin in Mecklenburg-Vorpommern St. Johanneskirche (bottom-left).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg/400px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg/800px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg/1200px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg/1920px-2014_Tessin_in_Mecklenburg-Vorpommern_St._Johanneskirche_(bottom-left).jpg
 ---
 
 ## Overview

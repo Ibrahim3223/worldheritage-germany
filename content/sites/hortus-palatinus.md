@@ -1,21 +1,49 @@
 ---
-title: "Hortus Palatinus"
+title: Hortus Palatinus
 date: 2026-01-23
 draft: false
-description: "Castle garden in Heidelberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Garden"
+description: Castle garden in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Garden
 categories:
-  - "Garden"
+- Garden
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4107
 longitude: 8.71876
 images:
-  - "/images-sites/hortus-palatinus/01-d4be7c8c-800w.webp"
-  - "/images-sites/hortus-palatinus/02-35765704-800w.webp"
-  - "/images-sites/hortus-palatinus/03-b0a9db13-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20170821Alopochen_aegyptiaca.jpg/1200px-20170821Alopochen_aegyptiaca.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hortus_Palatinus_11b.jpg/1200px-Hortus_Palatinus_11b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Musengaul_Hortus_Palatinus_2.jpg/1200px-Musengaul_Hortus_Palatinus_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terassen_Hortus_Palatinus_02b.jpg/1200px-Terassen_Hortus_Palatinus_02b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/1200px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
+image_srcset:
+  20170821Alopochen aegyptiaca.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20170821Alopochen_aegyptiaca.jpg/400px-20170821Alopochen_aegyptiaca.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20170821Alopochen_aegyptiaca.jpg/800px-20170821Alopochen_aegyptiaca.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20170821Alopochen_aegyptiaca.jpg/1200px-20170821Alopochen_aegyptiaca.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/20170821Alopochen_aegyptiaca.jpg/1920px-20170821Alopochen_aegyptiaca.jpg
+  Hortus Palatinus 11b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hortus_Palatinus_11b.jpg/400px-Hortus_Palatinus_11b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hortus_Palatinus_11b.jpg/800px-Hortus_Palatinus_11b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hortus_Palatinus_11b.jpg/1200px-Hortus_Palatinus_11b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hortus_Palatinus_11b.jpg/1920px-Hortus_Palatinus_11b.jpg
+  Musengaul Hortus Palatinus 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Musengaul_Hortus_Palatinus_2.jpg/400px-Musengaul_Hortus_Palatinus_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Musengaul_Hortus_Palatinus_2.jpg/800px-Musengaul_Hortus_Palatinus_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Musengaul_Hortus_Palatinus_2.jpg/1200px-Musengaul_Hortus_Palatinus_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Musengaul_Hortus_Palatinus_2.jpg/1920px-Musengaul_Hortus_Palatinus_2.jpg
+  Terassen Hortus Palatinus 02b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terassen_Hortus_Palatinus_02b.jpg/400px-Terassen_Hortus_Palatinus_02b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terassen_Hortus_Palatinus_02b.jpg/800px-Terassen_Hortus_Palatinus_02b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terassen_Hortus_Palatinus_02b.jpg/1200px-Terassen_Hortus_Palatinus_02b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terassen_Hortus_Palatinus_02b.jpg/1920px-Terassen_Hortus_Palatinus_02b.jpg
+  Hortus Palatinus und Heidelberger Schloss von Jacques Fouquiere.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/400px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/800px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/1200px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg/1920px-Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg
 ---
 
 ## Overview

@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1649884"
 description: "St. Matthäikirche, located in Lübeck, Germany, stands as a striking example of Gothic Revival architecture. Built in 1899, this church captures the eye ..."
 images:
-  - "/images-sites/st-matthaikirche/01-1f1f8a22-1920w.webp"
-  - "/images-sites/st-matthaikirche/02-47cd2c46-1920w.webp"
-  - "/images-sites/st-matthaikirche/03-1c2f7ebd-1920w.webp"
+  - "/images/st-matthaikirche/01-1f1f8a22-1920w.webp"
+  - "/images/st-matthaikirche/02-47cd2c46-1920w.webp"
+  - "/images/st-matthaikirche/03-1c2f7ebd-1920w.webp"
 ---
 
 ## Overview

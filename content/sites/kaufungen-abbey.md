@@ -13,9 +13,9 @@ regions:
 latitude: 51.2801
 longitude: 9.6343
 images:
-  - "/images-sites/kaufungen-abbey/01-0e6cadc1-800w.webp"
-  - "/images-sites/kaufungen-abbey/02-a30b796d-800w.webp"
-  - "/images-sites/kaufungen-abbey/03-f754c581-800w.webp"
+  - "/images/kaufungen-abbey/01-0e6cadc1-800w.webp"
+  - "/images/kaufungen-abbey/02-a30b796d-800w.webp"
+  - "/images/kaufungen-abbey/03-f754c581-800w.webp"
 ---
 
 ## Overview

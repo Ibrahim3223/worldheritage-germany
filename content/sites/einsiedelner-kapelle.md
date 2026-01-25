@@ -1,21 +1,49 @@
 ---
-title: "Einsiedelner Kapelle"
+title: Einsiedelner Kapelle
 date: 2026-01-23
 draft: false
-description: "chapel in Rastatt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: chapel in Rastatt, Germany
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 48.8565
 longitude: 8.20713
 images:
-  - "/images-sites/einsiedelner-kapelle/01-c68a0b96-800w.webp"
-  - "/images-sites/einsiedelner-kapelle/02-4a4f6a95-800w.webp"
-  - "/images-sites/einsiedelner-kapelle/03-32f1a972-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg/1200px-Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg/1200px-Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg/1200px-Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg/1200px-Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/1200px-Einsiedlerkapelle.jpg
+image_srcset:
+  Rastatt-Kapelle Maria Einsiedeln-04-2016-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg/400px-Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg/800px-Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg/1200px-Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg/1920px-Rastatt-Kapelle_Maria_Einsiedeln-04-2016-gje.jpg
+  Rastatt, Einsiedelner Kapelle, watertoren, Pagodenburg,en de schoorsteen van de brouwerij IMG 1981 2022-05-20 13.51.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg/400px-Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg/800px-Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg/1200px-Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg/1920px-Rastatt,_Einsiedelner_Kapelle,_watertoren,_Pagodenburg,en_de_schoorsteen_van_de_brouwerij_IMG_1981_2022-05-20_13.51.jpg
+  Rastatt-Kapelle Maria Einsiedeln-34-2021-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg/400px-Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg/800px-Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg/1200px-Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg/1920px-Rastatt-Kapelle_Maria_Einsiedeln-34-2021-gje.jpg
+  Rastatt-Kapelle Maria Einsiedeln-38-2021-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg/400px-Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg/800px-Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg/1200px-Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg/1920px-Rastatt-Kapelle_Maria_Einsiedeln-38-2021-gje.jpg
+  Einsiedlerkapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/400px-Einsiedlerkapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/800px-Einsiedlerkapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/1200px-Einsiedlerkapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Einsiedlerkapelle.jpg/1920px-Einsiedlerkapelle.jpg
 ---
 
 ## Overview

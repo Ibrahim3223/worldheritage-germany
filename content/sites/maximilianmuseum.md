@@ -13,7 +13,7 @@ regions:
 latitude: 48.3678
 longitude: 10.8967
 images:
-  - "/images-sites/maximilianmuseum/01-fa563303-800w.webp"
+  - "/images/maximilianmuseum/01-fa563303-800w.webp"
 ---
 
 ## Overview

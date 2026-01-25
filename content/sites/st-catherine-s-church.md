@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1736086"
 description: "St. Catherines Church, a striking example of Gothic architecture, stands in the heart of Oppenheim, Germany. Founded in 1201, this Protestant church emb..."
 images:
-  - "/images-sites/st-catherine-s-church/01-92805efc-1920w.webp"
-  - "/images-sites/st-catherine-s-church/02-be325c10-1920w.webp"
-  - "/images-sites/st-catherine-s-church/03-eb86a460-1920w.webp"
+  - "/images/st-catherine-s-church/01-92805efc-1920w.webp"
+  - "/images/st-catherine-s-church/02-be325c10-1920w.webp"
+  - "/images/st-catherine-s-church/03-eb86a460-1920w.webp"
 ---
 
 ## Overview

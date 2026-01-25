@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1615061"
 description: "St. Lukes Church in Dresden, Germany, is a striking example of Renaissance Revival architecture, built in the early 20th century. As you approach this b..."
 images:
-  - "/images-sites/st-luke-s-church/01-aa84ee18-1920w.webp"
-  - "/images-sites/st-luke-s-church/02-36e94d46-1920w.webp"
-  - "/images-sites/st-luke-s-church/03-d983d3b3-1920w.webp"
+  - "/images/st-luke-s-church/01-aa84ee18-1920w.webp"
+  - "/images/st-luke-s-church/02-36e94d46-1920w.webp"
+  - "/images/st-luke-s-church/03-d983d3b3-1920w.webp"
 ---
 
 ## Overview

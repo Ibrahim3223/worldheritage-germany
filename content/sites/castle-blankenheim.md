@@ -1,29 +1,50 @@
 ---
-title: "Castle Blankenheim"
+title: Castle Blankenheim
 date: 2026-01-23
 draft: false
-description: "Castle above the town of Blankenheim in the Eifel. Built around 1115 by Gerhard I."
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle above the town of Blankenheim in the Eifel. Built around 1115
+  by Gerhard I.
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4378
 longitude: 6.65166
-
-# Images
 images:
-  - "/images-sites/castle-blankenheim/01-ea95a950-800w.webp"
-  - "/images-sites/castle-blankenheim/02-ce59c57e-800w.webp"
-  - "/images-sites/castle-blankenheim/03-52a0e060-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blankenheim_Castle_03.jpg/1200px-Blankenheim_Castle_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blankenheim_Castle_01.jpg/1200px-Blankenheim_Castle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Johannesstrasse_in_Blankenheim.jpg/1200px-Johannesstrasse_in_Blankenheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Blankenheim_002x.jpg/1200px-Burg_Blankenheim_002x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BurgBlankenheimCropped.jpg/1200px-BurgBlankenheimCropped.jpg
+image_srcset:
+  Blankenheim Castle 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blankenheim_Castle_03.jpg/400px-Blankenheim_Castle_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blankenheim_Castle_03.jpg/800px-Blankenheim_Castle_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blankenheim_Castle_03.jpg/1200px-Blankenheim_Castle_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Blankenheim_Castle_03.jpg/1920px-Blankenheim_Castle_03.jpg
+  Blankenheim Castle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blankenheim_Castle_01.jpg/400px-Blankenheim_Castle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blankenheim_Castle_01.jpg/800px-Blankenheim_Castle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blankenheim_Castle_01.jpg/1200px-Blankenheim_Castle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blankenheim_Castle_01.jpg/1920px-Blankenheim_Castle_01.jpg
+  Johannesstrasse in Blankenheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Johannesstrasse_in_Blankenheim.jpg/400px-Johannesstrasse_in_Blankenheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Johannesstrasse_in_Blankenheim.jpg/800px-Johannesstrasse_in_Blankenheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Johannesstrasse_in_Blankenheim.jpg/1200px-Johannesstrasse_in_Blankenheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Johannesstrasse_in_Blankenheim.jpg/1920px-Johannesstrasse_in_Blankenheim.jpg
+  Burg Blankenheim 002x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Blankenheim_002x.jpg/400px-Burg_Blankenheim_002x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Blankenheim_002x.jpg/800px-Burg_Blankenheim_002x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Blankenheim_002x.jpg/1200px-Burg_Blankenheim_002x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Blankenheim_002x.jpg/1920px-Burg_Blankenheim_002x.jpg
+  BurgBlankenheimCropped.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BurgBlankenheimCropped.jpg/400px-BurgBlankenheimCropped.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BurgBlankenheimCropped.jpg/800px-BurgBlankenheimCropped.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BurgBlankenheimCropped.jpg/1200px-BurgBlankenheimCropped.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BurgBlankenheimCropped.jpg/1920px-BurgBlankenheimCropped.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.9716
 longitude: 11.3181
 images:
-  - "/images-sites/nietzsche-archive/01-ad10e51d-800w.webp"
+  - "/images/nietzsche-archive/01-ad10e51d-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,43 @@
 ---
-title: "Clara-Zetkin-Park"
+title: Clara-Zetkin-Park
 date: 2026-01-23
 draft: false
-description: "park in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Leipzig
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 51.33067
 longitude: 12.35564
 images:
-  - "/images-sites/clara-zetkin-park/01-5cd89ead-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg/1200px-Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg/1200px-Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/(20211027)_Leipzig_Park.jpg/1200px-(20211027)_Leipzig_Park.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/L-ClarapW1.JPG/1200px-L-ClarapW1.JPG
+image_srcset:
+  Leipzig - Clara-Zetkin-Park ost 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg/400px-Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg/800px-Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg/1200px-Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg/1920px-Leipzig_-_Clara-Zetkin-Park_ost_01_ies.jpg
+  Leipzig - Clara-Zetkin-Park west 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg/400px-Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg/800px-Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg/1200px-Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg/1920px-Leipzig_-_Clara-Zetkin-Park_west_05_ies.jpg
+  (20211027) Leipzig Park.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/(20211027)_Leipzig_Park.jpg/400px-(20211027)_Leipzig_Park.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/(20211027)_Leipzig_Park.jpg/800px-(20211027)_Leipzig_Park.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/(20211027)_Leipzig_Park.jpg/1200px-(20211027)_Leipzig_Park.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/(20211027)_Leipzig_Park.jpg/1920px-(20211027)_Leipzig_Park.jpg
+  L-ClarapW1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/L-ClarapW1.JPG/400px-L-ClarapW1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/L-ClarapW1.JPG/800px-L-ClarapW1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/L-ClarapW1.JPG/1200px-L-ClarapW1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/L-ClarapW1.JPG/1920px-L-ClarapW1.JPG
 ---
 
 ## Overview

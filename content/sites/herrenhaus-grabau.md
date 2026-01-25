@@ -1,19 +1,31 @@
 ---
-title: "Herrenhaus Grabau"
+title: Herrenhaus Grabau
 date: 2026-01-23
 draft: false
-description: "house in Grabau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: house in Grabau, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8055
 longitude: 10.27
 images:
-  - "/images-sites/herrenhaus-grabau/01-5e08e8aa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hintereingang_des_Herrenhaus_Grabau.jpg/1200px-Hintereingang_des_Herrenhaus_Grabau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg/1200px-Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg
+image_srcset:
+  Hintereingang des Herrenhaus Grabau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hintereingang_des_Herrenhaus_Grabau.jpg/400px-Hintereingang_des_Herrenhaus_Grabau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hintereingang_des_Herrenhaus_Grabau.jpg/800px-Hintereingang_des_Herrenhaus_Grabau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hintereingang_des_Herrenhaus_Grabau.jpg/1200px-Hintereingang_des_Herrenhaus_Grabau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hintereingang_des_Herrenhaus_Grabau.jpg/1920px-Hintereingang_des_Herrenhaus_Grabau.jpg
+  Grabau Kreis Stormarn Herrenhaus 2009-03-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg/400px-Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg/800px-Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg/1200px-Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg/1920px-Grabau_Kreis_Stormarn_Herrenhaus_2009-03-11.jpg
 ---
 
 ## Overview

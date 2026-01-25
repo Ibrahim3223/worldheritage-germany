@@ -13,7 +13,7 @@ regions:
 latitude: 50.1092
 longitude: 8.67389
 images:
-  - "/images-sites/willy-brandt-platz/01-278256ee-800w.webp"
+  - "/images/willy-brandt-platz/01-278256ee-800w.webp"
 ---
 
 ## Overview

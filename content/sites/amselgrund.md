@@ -1,19 +1,49 @@
 ---
-title: "Amselgrund"
+title: Amselgrund
 date: 2026-01-24
 draft: false
-description: "valley"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 50.93333
 longitude: 12.86667
 images:
-  - "/images-sites/amselgrund/01-32b1a006-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg/1200px-Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amselgrund_bei_Rathen_08.JPG/1200px-Amselgrund_bei_Rathen_08.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Amselgrund_(1).jpg/1200px-Amselgrund_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amselgrund_bei_Rathen_36.JPG/1200px-Amselgrund_bei_Rathen_36.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1200px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
+image_srcset:
+  Rathen und Elbsandsteingebirge asv2022-08 img31.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg/400px-Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg/800px-Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg/1200px-Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg/1920px-Rathen_und_Elbsandsteingebirge_asv2022-08_img31.jpg
+  Amselgrund bei Rathen 08.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amselgrund_bei_Rathen_08.JPG/400px-Amselgrund_bei_Rathen_08.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amselgrund_bei_Rathen_08.JPG/800px-Amselgrund_bei_Rathen_08.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amselgrund_bei_Rathen_08.JPG/1200px-Amselgrund_bei_Rathen_08.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Amselgrund_bei_Rathen_08.JPG/1920px-Amselgrund_bei_Rathen_08.JPG
+  Amselgrund (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Amselgrund_(1).jpg/400px-Amselgrund_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Amselgrund_(1).jpg/800px-Amselgrund_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Amselgrund_(1).jpg/1200px-Amselgrund_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Amselgrund_(1).jpg/1920px-Amselgrund_(1).jpg
+  Amselgrund bei Rathen 36.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amselgrund_bei_Rathen_36.JPG/400px-Amselgrund_bei_Rathen_36.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amselgrund_bei_Rathen_36.JPG/800px-Amselgrund_bei_Rathen_36.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amselgrund_bei_Rathen_36.JPG/1200px-Amselgrund_bei_Rathen_36.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amselgrund_bei_Rathen_36.JPG/1920px-Amselgrund_bei_Rathen_36.JPG
+  Bastei - Amselgrund mit Amselsee, Lokomotive und dem Talwächter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/400px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/800px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1200px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg/1920px-Bastei_-_Amselgrund_mit_Amselsee,_Lokomotive_und_dem_Talwächter.jpg
 ---
 
 ## Overview

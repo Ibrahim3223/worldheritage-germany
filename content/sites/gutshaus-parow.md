@@ -1,19 +1,49 @@
 ---
-title: "Gutshaus Parow"
+title: Gutshaus Parow
 date: 2026-01-23
 draft: false
-description: "Gutshaus in Mecklenburg-Vorpommern"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Gutshaus in Mecklenburg-Vorpommern
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 54.3532
 longitude: 13.069
 images:
-  - "/images-sites/gutshaus-parow/01-34eb4f16-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Parow_Gutshaus_2011.jpg/1200px-Parow_Gutshaus_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gutshaus_Parow_(2017).jpg/1200px-Gutshaus_Parow_(2017).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parowgutshaus.jpg/1200px-Parowgutshaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parow,_Gutshaus_(2008-04-27).JPG/1200px-Parow,_Gutshaus_(2008-04-27).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG/1200px-Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG
+image_srcset:
+  Parow Gutshaus 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Parow_Gutshaus_2011.jpg/400px-Parow_Gutshaus_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Parow_Gutshaus_2011.jpg/800px-Parow_Gutshaus_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Parow_Gutshaus_2011.jpg/1200px-Parow_Gutshaus_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Parow_Gutshaus_2011.jpg/1920px-Parow_Gutshaus_2011.jpg
+  Gutshaus Parow (2017).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gutshaus_Parow_(2017).jpg/400px-Gutshaus_Parow_(2017).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gutshaus_Parow_(2017).jpg/800px-Gutshaus_Parow_(2017).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gutshaus_Parow_(2017).jpg/1200px-Gutshaus_Parow_(2017).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Gutshaus_Parow_(2017).jpg/1920px-Gutshaus_Parow_(2017).jpg
+  Parowgutshaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parowgutshaus.jpg/400px-Parowgutshaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parowgutshaus.jpg/800px-Parowgutshaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parowgutshaus.jpg/1200px-Parowgutshaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parowgutshaus.jpg/1920px-Parowgutshaus.jpg
+  Parow, Gutshaus (2008-04-27).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parow,_Gutshaus_(2008-04-27).JPG/400px-Parow,_Gutshaus_(2008-04-27).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parow,_Gutshaus_(2008-04-27).JPG/800px-Parow,_Gutshaus_(2008-04-27).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parow,_Gutshaus_(2008-04-27).JPG/1200px-Parow,_Gutshaus_(2008-04-27).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parow,_Gutshaus_(2008-04-27).JPG/1920px-Parow,_Gutshaus_(2008-04-27).JPG
+  Parow, Gutshaus, Gedenkplatte C.F.von Langen (2007-10-09).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG/400px-Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG/800px-Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG/1200px-Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG/1920px-Parow,_Gutshaus,_Gedenkplatte_C.F.von_Langen_(2007-10-09).JPG
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q877491"
 description: "In the heart of Ingolstadt, Germany, lies Liebfrauenmünster, a striking parish church that captivates visitors with its Gothic architecture and rich his..."
 images:
-  - "/images-sites/liebfrauenmunster/01-6155fe6c-1920w.webp"
-  - "/images-sites/liebfrauenmunster/02-d9d447af-1920w.webp"
-  - "/images-sites/liebfrauenmunster/03-7a942d5d-1920w.webp"
+  - "/images/liebfrauenmunster/01-6155fe6c-1920w.webp"
+  - "/images/liebfrauenmunster/02-d9d447af-1920w.webp"
+  - "/images/liebfrauenmunster/03-7a942d5d-1920w.webp"
 ---
 
 ## Overview

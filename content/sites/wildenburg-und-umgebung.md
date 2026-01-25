@@ -13,7 +13,7 @@ regions:
 latitude: 49.7775
 longitude: 7.26083
 images:
-  - "/images-sites/wildenburg-und-umgebung/01-5814b73f-800w.webp"
+  - "/images/wildenburg-und-umgebung/01-5814b73f-800w.webp"
 ---
 
 ## Overview

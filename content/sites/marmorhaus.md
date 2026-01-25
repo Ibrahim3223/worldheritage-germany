@@ -13,7 +13,7 @@ regions:
 latitude: 52.5042
 longitude: 13.3344
 images:
-  - "/images-sites/marmorhaus/01-74401846-800w.webp"
+  - "/images/marmorhaus/01-74401846-800w.webp"
 ---
 
 ## Overview

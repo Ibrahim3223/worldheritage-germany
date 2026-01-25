@@ -1,21 +1,49 @@
 ---
-title: "Elde"
+title: Elde
 date: 2026-01-23
 draft: false
-description: "river in northern Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in northern Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 53.35896
 longitude: 12.37477
 images:
-  - "/images-sites/elde/01-8fd06229-800w.webp"
-  - "/images-sites/elde/02-515c2f90-800w.webp"
-  - "/images-sites/elde/03-d0ec92b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bobzin,_Elde_(2024-07-14).jpg/1200px-Bobzin,_Elde_(2024-07-14).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/A24-Elde-Brücke_2020_ESE.jpg/1200px-A24-Elde-Brücke_2020_ESE.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg/1200px-Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karte_Elde.png/1200px-Karte_Elde.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plau_lift_bridge.jpg/1200px-Plau_lift_bridge.jpg
+image_srcset:
+  Bobzin, Elde (2024-07-14).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bobzin,_Elde_(2024-07-14).jpg/400px-Bobzin,_Elde_(2024-07-14).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bobzin,_Elde_(2024-07-14).jpg/800px-Bobzin,_Elde_(2024-07-14).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bobzin,_Elde_(2024-07-14).jpg/1200px-Bobzin,_Elde_(2024-07-14).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bobzin,_Elde_(2024-07-14).jpg/1920px-Bobzin,_Elde_(2024-07-14).jpg
+  A24-Elde-Brücke 2020 ESE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/A24-Elde-Brücke_2020_ESE.jpg/400px-A24-Elde-Brücke_2020_ESE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/A24-Elde-Brücke_2020_ESE.jpg/800px-A24-Elde-Brücke_2020_ESE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/A24-Elde-Brücke_2020_ESE.jpg/1200px-A24-Elde-Brücke_2020_ESE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/A24-Elde-Brücke_2020_ESE.jpg/1920px-A24-Elde-Brücke_2020_ESE.jpg
+  Wredenhagen Elde Wehr Brücke 2010-04-07 045.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg/400px-Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg/800px-Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg/1200px-Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg/1920px-Wredenhagen_Elde_Wehr_Brücke_2010-04-07_045.jpg
+  Karte Elde.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karte_Elde.png/400px-Karte_Elde.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karte_Elde.png/800px-Karte_Elde.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karte_Elde.png/1200px-Karte_Elde.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karte_Elde.png/1920px-Karte_Elde.png
+  Plau lift bridge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plau_lift_bridge.jpg/400px-Plau_lift_bridge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plau_lift_bridge.jpg/800px-Plau_lift_bridge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plau_lift_bridge.jpg/1200px-Plau_lift_bridge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plau_lift_bridge.jpg/1920px-Plau_lift_bridge.jpg
 ---
 
 ## Overview

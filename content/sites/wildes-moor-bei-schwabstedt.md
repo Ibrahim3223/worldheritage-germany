@@ -13,7 +13,7 @@ regions:
 latitude: 54.4158
 longitude: 9.25
 images:
-  - "/images-sites/wildes-moor-bei-schwabstedt/01-2ba61a75-800w.webp"
+  - "/images/wildes-moor-bei-schwabstedt/01-2ba61a75-800w.webp"
 ---
 
 ## Overview

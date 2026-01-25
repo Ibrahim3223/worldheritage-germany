@@ -1,27 +1,49 @@
 ---
-title: "Gößweinstein Castle"
+title: Gößweinstein Castle
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-74-129-10 (0) in Gößweinstein, Bavaria"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: cultural heritage monument D-4-74-129-10 (0) in Gößweinstein, Bavaria
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.770394444
 longitude: 11.334430555
-
-# Images
 images:
-  - "/images-sites/goessweinstein-castle/01-5a2f5e89-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/1200px-Burg_Gößweinstein,_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg/1200px-Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg/1200px-Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/00_3344_Gößweinstein_-_Burg.jpg/1200px-00_3344_Gößweinstein_-_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg/1200px-00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg
+image_srcset:
+  Burg Gößweinstein, 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/400px-Burg_Gößweinstein,_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/800px-Burg_Gößweinstein,_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/1200px-Burg_Gößweinstein,_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Burg_Gößweinstein,_2.jpg/1920px-Burg_Gößweinstein,_2.jpg
+  Gößweinstein Burg Luftbild-20220717-RM-173408.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg/400px-Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg/800px-Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg/1200px-Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg/1920px-Gößweinstein_Burg_Luftbild-20220717-RM-173408.jpg
+  Gößweinstein Luftbild Basilika und Burg-20220717-RM-170110.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg/400px-Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg/800px-Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg/1200px-Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg/1920px-Gößweinstein_Luftbild_Basilika_und_Burg-20220717-RM-170110.jpg
+  00 3344 Gößweinstein - Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/00_3344_Gößweinstein_-_Burg.jpg/400px-00_3344_Gößweinstein_-_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/00_3344_Gößweinstein_-_Burg.jpg/800px-00_3344_Gößweinstein_-_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/00_3344_Gößweinstein_-_Burg.jpg/1200px-00_3344_Gößweinstein_-_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/00_3344_Gößweinstein_-_Burg.jpg/1920px-00_3344_Gößweinstein_-_Burg.jpg
+  00 3305 Gößweinstein (Oberfranken) - Burg Gößweinstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg/400px-00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg/800px-00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg/1200px-00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg/1920px-00_3305_Gößweinstein_(Oberfranken)_-_Burg_Gößweinstein.jpg
 ---
 
 ## Overview

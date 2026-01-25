@@ -21,7 +21,7 @@ longitude: 13.1789
 
 # Images
 images:
-  - "/images-sites/strandbad-wannsee/01-fc35739f-800w.webp"
+  - "/images/strandbad-wannsee/01-fc35739f-800w.webp"
 ---
 
 ## Overview

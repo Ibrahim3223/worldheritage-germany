@@ -21,7 +21,7 @@ longitude: 7.62444
 
 # Images
 images:
-  - "/images-sites/westphalian-state-museum-of-art-and-cultural-history/01-74ef9fbd-800w.webp"
+  - "/images/westphalian-state-museum-of-art-and-cultural-history/01-74ef9fbd-800w.webp"
 ---
 
 ## Overview

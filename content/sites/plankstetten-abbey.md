@@ -13,7 +13,7 @@ regions:
 latitude: 49.069077026
 longitude: 11.454051032
 images:
-  - "/images-sites/plankstetten-abbey/01-097614ec-800w.webp"
+  - "/images/plankstetten-abbey/01-097614ec-800w.webp"
 ---
 
 ## Overview

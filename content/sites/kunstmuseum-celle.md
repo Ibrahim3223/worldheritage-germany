@@ -21,7 +21,7 @@ longitude: 10.0794
 
 # Images
 images:
-  - "/images-sites/kunstmuseum-celle/01-523ed459-800w.webp"
+  - "/images/kunstmuseum-celle/01-523ed459-800w.webp"
 ---
 
 ## Overview

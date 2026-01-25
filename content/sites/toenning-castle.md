@@ -21,7 +21,7 @@ longitude: 8.941777777
 
 # Images
 images:
-  - "/images-sites/toenning-castle/01-8a61f0f4-800w.webp"
+  - "/images/toenning-castle/01-8a61f0f4-800w.webp"
 ---
 
 ## Overview

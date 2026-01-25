@@ -1,19 +1,49 @@
 ---
-title: "Bottsand"
+title: Bottsand
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.42472
 longitude: 10.28423
 images:
-  - "/images-sites/bottsand/01-c79554f8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NSG_Bottsand_SH-msu-1147.jpg/1200px-NSG_Bottsand_SH-msu-1147.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1200px-Bottsand_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SRBBottsand.JPG/1200px-SRBBottsand.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Luftaufnahme_Stein_(Kiel_49.250).jpg/1200px-Luftaufnahme_Stein_(Kiel_49.250).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Srb_bottsand.jpg/1200px-Srb_bottsand.jpg
+image_srcset:
+  NSG Bottsand SH-msu-1147.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NSG_Bottsand_SH-msu-1147.jpg/400px-NSG_Bottsand_SH-msu-1147.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NSG_Bottsand_SH-msu-1147.jpg/800px-NSG_Bottsand_SH-msu-1147.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NSG_Bottsand_SH-msu-1147.jpg/1200px-NSG_Bottsand_SH-msu-1147.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NSG_Bottsand_SH-msu-1147.jpg/1920px-NSG_Bottsand_SH-msu-1147.jpg
+  Bottsand 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/400px-Bottsand_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/800px-Bottsand_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1200px-Bottsand_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bottsand_03.JPG/1920px-Bottsand_03.JPG
+  SRBBottsand.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SRBBottsand.JPG/400px-SRBBottsand.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SRBBottsand.JPG/800px-SRBBottsand.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SRBBottsand.JPG/1200px-SRBBottsand.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SRBBottsand.JPG/1920px-SRBBottsand.JPG
+  Luftaufnahme Stein (Kiel 49.250).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Luftaufnahme_Stein_(Kiel_49.250).jpg/400px-Luftaufnahme_Stein_(Kiel_49.250).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Luftaufnahme_Stein_(Kiel_49.250).jpg/800px-Luftaufnahme_Stein_(Kiel_49.250).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Luftaufnahme_Stein_(Kiel_49.250).jpg/1200px-Luftaufnahme_Stein_(Kiel_49.250).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Luftaufnahme_Stein_(Kiel_49.250).jpg/1920px-Luftaufnahme_Stein_(Kiel_49.250).jpg
+  Srb bottsand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Srb_bottsand.jpg/400px-Srb_bottsand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Srb_bottsand.jpg/800px-Srb_bottsand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Srb_bottsand.jpg/1200px-Srb_bottsand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Srb_bottsand.jpg/1920px-Srb_bottsand.jpg
 ---
 
 ## Overview

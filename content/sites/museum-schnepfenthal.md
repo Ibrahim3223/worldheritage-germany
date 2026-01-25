@@ -13,7 +13,7 @@ regions:
 latitude: 50.8841
 longitude: 10.5738
 images:
-  - "/images-sites/museum-schnepfenthal/01-30f34c64-800w.webp"
+  - "/images/museum-schnepfenthal/01-30f34c64-800w.webp"
 ---
 
 ## Overview

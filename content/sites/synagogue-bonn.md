@@ -13,7 +13,7 @@ regions:
 latitude: 50.725087
 longitude: 7.112987
 images:
-  - "/images-sites/synagogue-bonn/01-11ff09da-800w.webp"
+  - "/images/synagogue-bonn/01-11ff09da-800w.webp"
 ---
 
 ## Overview

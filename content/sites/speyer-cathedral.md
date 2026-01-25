@@ -13,7 +13,7 @@ regions:
 latitude: 49.317222
 longitude: 8.4425
 images:
-  - "/images-sites/speyer-cathedral/01-125dbee1-800w.webp"
+  - "/images/speyer-cathedral/01-125dbee1-800w.webp"
 ---
 
 ## Overview

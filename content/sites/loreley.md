@@ -13,7 +13,7 @@ regions:
 latitude: 50.139444444
 longitude: 7.728888888
 images:
-  - "/images-sites/loreley/01-6f134240-800w.webp"
+  - "/images/loreley/01-6f134240-800w.webp"
 ---
 
 ## Overview

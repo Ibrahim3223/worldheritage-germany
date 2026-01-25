@@ -1,19 +1,43 @@
 ---
-title: "EWS Arena"
+title: EWS Arena
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.710833
 longitude: 9.648056
 images:
-  - "/images-sites/ews-arena/01-1e2887c5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/EWS_Arena_Goeppingen.jpg/1200px-EWS_Arena_Goeppingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG/1200px-Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/1200px-EWS-Arena.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rnic-2.jpg/1200px-Rnic-2.jpg
+image_srcset:
+  EWS Arena Goeppingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/EWS_Arena_Goeppingen.jpg/400px-EWS_Arena_Goeppingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/EWS_Arena_Goeppingen.jpg/800px-EWS_Arena_Goeppingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/EWS_Arena_Goeppingen.jpg/1200px-EWS_Arena_Goeppingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/EWS_Arena_Goeppingen.jpg/1920px-EWS_Arena_Goeppingen.jpg
+  Einlaufzeremonie Frisch Auf Goeppingen - TV Großwallstadt 2011-05-15.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG/400px-Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG/800px-Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG/1200px-Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG/1920px-Einlaufzeremonie_Frisch_Auf_Goeppingen_-_TV_Großwallstadt_2011-05-15.JPG
+  EWS-Arena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/400px-EWS-Arena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/800px-EWS-Arena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/1200px-EWS-Arena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/EWS-Arena.jpg/1920px-EWS-Arena.jpg
+  Rnic-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rnic-2.jpg/400px-Rnic-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rnic-2.jpg/800px-Rnic-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rnic-2.jpg/1200px-Rnic-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rnic-2.jpg/1920px-Rnic-2.jpg
 ---
 
 ## Overview

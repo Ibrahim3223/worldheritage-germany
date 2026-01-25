@@ -1,29 +1,49 @@
 ---
-title: "Hoheneck Castle"
+title: Hoheneck Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5212747
 longitude: 10.5062507
-
-# Images
 images:
-  - "/images-sites/hoheneck-castle/01-879a99f1-800w.webp"
-  - "/images-sites/hoheneck-castle/02-5d7f3160-800w.webp"
-  - "/images-sites/hoheneck-castle/03-ba2878cb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2009-11-01-burg-hoheneck-by-RalfR-12.jpg/1200px-2009-11-01-burg-hoheneck-by-RalfR-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2009-11-01-burg-hoheneck-by-RalfR-20.jpg/1200px-2009-11-01-burg-hoheneck-by-RalfR-20.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Hoheneck_MP1.jpg/1200px-Burg_Hoheneck_MP1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg/1200px-Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1200px-Burg_Hoheneck_Aerial_view.jpg
+image_srcset:
+  2009-11-01-burg-hoheneck-by-RalfR-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2009-11-01-burg-hoheneck-by-RalfR-12.jpg/400px-2009-11-01-burg-hoheneck-by-RalfR-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2009-11-01-burg-hoheneck-by-RalfR-12.jpg/800px-2009-11-01-burg-hoheneck-by-RalfR-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2009-11-01-burg-hoheneck-by-RalfR-12.jpg/1200px-2009-11-01-burg-hoheneck-by-RalfR-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2009-11-01-burg-hoheneck-by-RalfR-12.jpg/1920px-2009-11-01-burg-hoheneck-by-RalfR-12.jpg
+  2009-11-01-burg-hoheneck-by-RalfR-20.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2009-11-01-burg-hoheneck-by-RalfR-20.jpg/400px-2009-11-01-burg-hoheneck-by-RalfR-20.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2009-11-01-burg-hoheneck-by-RalfR-20.jpg/800px-2009-11-01-burg-hoheneck-by-RalfR-20.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2009-11-01-burg-hoheneck-by-RalfR-20.jpg/1200px-2009-11-01-burg-hoheneck-by-RalfR-20.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2009-11-01-burg-hoheneck-by-RalfR-20.jpg/1920px-2009-11-01-burg-hoheneck-by-RalfR-20.jpg
+  Burg Hoheneck MP1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Hoheneck_MP1.jpg/400px-Burg_Hoheneck_MP1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Hoheneck_MP1.jpg/800px-Burg_Hoheneck_MP1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Hoheneck_MP1.jpg/1200px-Burg_Hoheneck_MP1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Hoheneck_MP1.jpg/1920px-Burg_Hoheneck_MP1.jpg
+  Weinberg-Ipsheim-BurgHoheneck SK 0001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg/400px-Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg/800px-Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg/1200px-Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg/1920px-Weinberg-Ipsheim-BurgHoheneck_SK_0001.jpg
+  Burg Hoheneck Aerial view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/400px-Burg_Hoheneck_Aerial_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/800px-Burg_Hoheneck_Aerial_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1200px-Burg_Hoheneck_Aerial_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Hoheneck_Aerial_view.jpg/1920px-Burg_Hoheneck_Aerial_view.jpg
 ---
 
 ## Overview

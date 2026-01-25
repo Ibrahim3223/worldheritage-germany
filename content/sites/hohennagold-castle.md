@@ -1,27 +1,49 @@
 ---
-title: "Hohennagold Castle"
+title: Hohennagold Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.5533
 longitude: 8.71667
-
-# Images
 images:
-  - "/images-sites/hohennagold-castle/01-0962943a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg/1200px-Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg/1200px-Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Hohennagold.jpg/1200px-Burg_Hohennagold.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1200px-Hohennagold.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nagolt.jpg/1200px-Nagolt.jpg
+image_srcset:
+  Nagold - Schlossberg - Hohennagold 08 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg/400px-Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg/800px-Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg/1200px-Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg/1920px-Nagold_-_Schlossberg_-_Hohennagold_08_ies.jpg
+  Nagold - Schlossberg - Hohennagold 09 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg/400px-Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg/800px-Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg/1200px-Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg/1920px-Nagold_-_Schlossberg_-_Hohennagold_09_ies.jpg
+  Burg Hohennagold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Hohennagold.jpg/400px-Burg_Hohennagold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Hohennagold.jpg/800px-Burg_Hohennagold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Hohennagold.jpg/1200px-Burg_Hohennagold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burg_Hohennagold.jpg/1920px-Burg_Hohennagold.jpg
+  Hohennagold.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/400px-Hohennagold.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/800px-Hohennagold.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1200px-Hohennagold.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohennagold.jpg/1920px-Hohennagold.jpg
+  Nagolt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nagolt.jpg/400px-Nagolt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nagolt.jpg/800px-Nagolt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nagolt.jpg/1200px-Nagolt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nagolt.jpg/1920px-Nagolt.jpg
 ---
 
 ## Overview

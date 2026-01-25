@@ -13,7 +13,7 @@ regions:
 latitude: 50.5256
 longitude: 6.25639
 images:
-  - "/images-sites/perlenbach-fuhrtsbachtal-talsystem/01-1ff40000-800w.webp"
+  - "/images/perlenbach-fuhrtsbachtal-talsystem/01-1ff40000-800w.webp"
 ---
 
 ## Overview

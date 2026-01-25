@@ -1,27 +1,37 @@
 ---
-title: "Hoepfner Brewery"
+title: Hoepfner Brewery
 date: 2026-01-23
 draft: false
-description: "brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.01227
 longitude: 8.42765
-
-# Images
 images:
-  - "/images-sites/hoepfner-brewery/01-c5ba5189-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brasserie_Hoepfner.JPG/1200px-Brasserie_Hoepfner.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brewery_Hoepfner.-.Building_1.jpg/1200px-Brewery_Hoepfner.-.Building_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brewery_Hoepfner.-.Building_2.jpg/1200px-Brewery_Hoepfner.-.Building_2.jpg
+image_srcset:
+  Brasserie Hoepfner.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brasserie_Hoepfner.JPG/400px-Brasserie_Hoepfner.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brasserie_Hoepfner.JPG/800px-Brasserie_Hoepfner.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brasserie_Hoepfner.JPG/1200px-Brasserie_Hoepfner.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Brasserie_Hoepfner.JPG/1920px-Brasserie_Hoepfner.JPG
+  Brewery Hoepfner.-.Building 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brewery_Hoepfner.-.Building_1.jpg/400px-Brewery_Hoepfner.-.Building_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brewery_Hoepfner.-.Building_1.jpg/800px-Brewery_Hoepfner.-.Building_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brewery_Hoepfner.-.Building_1.jpg/1200px-Brewery_Hoepfner.-.Building_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brewery_Hoepfner.-.Building_1.jpg/1920px-Brewery_Hoepfner.-.Building_1.jpg
+  Brewery Hoepfner.-.Building 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brewery_Hoepfner.-.Building_2.jpg/400px-Brewery_Hoepfner.-.Building_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brewery_Hoepfner.-.Building_2.jpg/800px-Brewery_Hoepfner.-.Building_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brewery_Hoepfner.-.Building_2.jpg/1200px-Brewery_Hoepfner.-.Building_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Brewery_Hoepfner.-.Building_2.jpg/1920px-Brewery_Hoepfner.-.Building_2.jpg
 ---
 
 ## Overview

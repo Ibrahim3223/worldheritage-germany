@@ -1,19 +1,49 @@
 ---
-title: "Haus am Checkpoint Charlie"
+title: Haus am Checkpoint Charlie
 date: 2026-01-23
 draft: false
-description: "building in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5069
 longitude: 13.3907
 images:
-  - "/images-sites/haus-am-checkpoint-charlie/01-529fa5f4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haus_am_Checkpoint_Charlie,_2024_(02).jpg/1200px-Haus_am_Checkpoint_Charlie,_2024_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Musée_du_Mur_à_Berlin_(4).jpg/1200px-Musée_du_Mur_à_Berlin_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Musée_du_Mur_à_Berlin_(6).jpg/1200px-Musée_du_Mur_à_Berlin_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Musée_du_Mur_à_Berlin_(8).jpg/1200px-Musée_du_Mur_à_Berlin_(8).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg/1200px-Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg
+image_srcset:
+  Haus am Checkpoint Charlie, 2024 (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haus_am_Checkpoint_Charlie,_2024_(02).jpg/400px-Haus_am_Checkpoint_Charlie,_2024_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haus_am_Checkpoint_Charlie,_2024_(02).jpg/800px-Haus_am_Checkpoint_Charlie,_2024_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haus_am_Checkpoint_Charlie,_2024_(02).jpg/1200px-Haus_am_Checkpoint_Charlie,_2024_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haus_am_Checkpoint_Charlie,_2024_(02).jpg/1920px-Haus_am_Checkpoint_Charlie,_2024_(02).jpg
+  Musée du Mur à Berlin (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Musée_du_Mur_à_Berlin_(4).jpg/400px-Musée_du_Mur_à_Berlin_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Musée_du_Mur_à_Berlin_(4).jpg/800px-Musée_du_Mur_à_Berlin_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Musée_du_Mur_à_Berlin_(4).jpg/1200px-Musée_du_Mur_à_Berlin_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Musée_du_Mur_à_Berlin_(4).jpg/1920px-Musée_du_Mur_à_Berlin_(4).jpg
+  Musée du Mur à Berlin (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Musée_du_Mur_à_Berlin_(6).jpg/400px-Musée_du_Mur_à_Berlin_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Musée_du_Mur_à_Berlin_(6).jpg/800px-Musée_du_Mur_à_Berlin_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Musée_du_Mur_à_Berlin_(6).jpg/1200px-Musée_du_Mur_à_Berlin_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Musée_du_Mur_à_Berlin_(6).jpg/1920px-Musée_du_Mur_à_Berlin_(6).jpg
+  Musée du Mur à Berlin (8).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Musée_du_Mur_à_Berlin_(8).jpg/400px-Musée_du_Mur_à_Berlin_(8).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Musée_du_Mur_à_Berlin_(8).jpg/800px-Musée_du_Mur_à_Berlin_(8).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Musée_du_Mur_à_Berlin_(8).jpg/1200px-Musée_du_Mur_à_Berlin_(8).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Musée_du_Mur_à_Berlin_(8).jpg/1920px-Musée_du_Mur_à_Berlin_(8).jpg
+  Berlin-Mauermuseum am Checkpoint Charlie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg/400px-Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg/800px-Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg/1200px-Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg/1920px-Berlin-Mauermuseum_am_Checkpoint_Charlie.jpg
 ---
 
 ## Overview

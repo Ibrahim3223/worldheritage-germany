@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q826562"
 description: "In the heart of Worms, Germany, stands a remarkable example of Gothic architecture: the Liebfrauenkirche, or Church of Our Lady. This church, designed b..."
 images:
-  - "/images-sites/liebfrauenkirche-worms/01-22eb9d72-1920w.webp"
-  - "/images-sites/liebfrauenkirche-worms/02-028c0432-1920w.webp"
-  - "/images-sites/liebfrauenkirche-worms/03-78e3f7c4-1920w.webp"
+  - "/images/liebfrauenkirche-worms/01-22eb9d72-1920w.webp"
+  - "/images/liebfrauenkirche-worms/02-028c0432-1920w.webp"
+  - "/images/liebfrauenkirche-worms/03-78e3f7c4-1920w.webp"
 ---
 
 ## Overview

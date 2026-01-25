@@ -13,7 +13,7 @@ regions:
 latitude: 47.756111111
 longitude: 12.366666666
 images:
-  - "/images-sites/kampenwand/01-8e92cdb0-800w.webp"
+  - "/images/kampenwand/01-8e92cdb0-800w.webp"
 ---
 
 ## Overview

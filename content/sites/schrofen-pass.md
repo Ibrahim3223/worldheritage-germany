@@ -13,8 +13,8 @@ regions:
 latitude: 47.2762288
 longitude: 10.2019419
 images:
-  - "/images-sites/schrofen-pass/02-96bdfc45-800w.webp"
-  - "/images-sites/schrofen-pass/03-332853e3-800w.webp"
+  - "/images/schrofen-pass/02-96bdfc45-800w.webp"
+  - "/images/schrofen-pass/03-332853e3-800w.webp"
 ---
 
 ## Overview

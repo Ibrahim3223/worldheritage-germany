@@ -1,21 +1,49 @@
 ---
-title: "Fremersberg Tower"
+title: Fremersberg Tower
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7528
 longitude: 8.20234
 images:
-  - "/images-sites/fremersberg-tower/01-5622ec6d-800w.webp"
-  - "/images-sites/fremersberg-tower/02-92350ec1-800w.webp"
-  - "/images-sites/fremersberg-tower/03-5e96f7f3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden-Baden-Fremersbergturm-14-2018-gje.jpg/1200px-Baden-Baden-Fremersbergturm-14-2018-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fremersbergturm-02-Eingang.jpg/1200px-Fremersbergturm-02-Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Baden-Baden-Fremersbergturm-10-2017-gje.jpg/1200px-Baden-Baden-Fremersbergturm-10-2017-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sender_Fremersberg_(Baden-Baden).png/1200px-Sender_Fremersberg_(Baden-Baden).png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fremersbergturm_im_Sommer_(fcm).jpg/1200px-Fremersbergturm_im_Sommer_(fcm).jpg
+image_srcset:
+  Baden-Baden-Fremersbergturm-14-2018-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden-Baden-Fremersbergturm-14-2018-gje.jpg/400px-Baden-Baden-Fremersbergturm-14-2018-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden-Baden-Fremersbergturm-14-2018-gje.jpg/800px-Baden-Baden-Fremersbergturm-14-2018-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden-Baden-Fremersbergturm-14-2018-gje.jpg/1200px-Baden-Baden-Fremersbergturm-14-2018-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden-Baden-Fremersbergturm-14-2018-gje.jpg/1920px-Baden-Baden-Fremersbergturm-14-2018-gje.jpg
+  Fremersbergturm-02-Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fremersbergturm-02-Eingang.jpg/400px-Fremersbergturm-02-Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fremersbergturm-02-Eingang.jpg/800px-Fremersbergturm-02-Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fremersbergturm-02-Eingang.jpg/1200px-Fremersbergturm-02-Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fremersbergturm-02-Eingang.jpg/1920px-Fremersbergturm-02-Eingang.jpg
+  Baden-Baden-Fremersbergturm-10-2017-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Baden-Baden-Fremersbergturm-10-2017-gje.jpg/400px-Baden-Baden-Fremersbergturm-10-2017-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Baden-Baden-Fremersbergturm-10-2017-gje.jpg/800px-Baden-Baden-Fremersbergturm-10-2017-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Baden-Baden-Fremersbergturm-10-2017-gje.jpg/1200px-Baden-Baden-Fremersbergturm-10-2017-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Baden-Baden-Fremersbergturm-10-2017-gje.jpg/1920px-Baden-Baden-Fremersbergturm-10-2017-gje.jpg
+  Sender Fremersberg (Baden-Baden).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sender_Fremersberg_(Baden-Baden).png/400px-Sender_Fremersberg_(Baden-Baden).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sender_Fremersberg_(Baden-Baden).png/800px-Sender_Fremersberg_(Baden-Baden).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sender_Fremersberg_(Baden-Baden).png/1200px-Sender_Fremersberg_(Baden-Baden).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sender_Fremersberg_(Baden-Baden).png/1920px-Sender_Fremersberg_(Baden-Baden).png
+  Fremersbergturm im Sommer (fcm).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fremersbergturm_im_Sommer_(fcm).jpg/400px-Fremersbergturm_im_Sommer_(fcm).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fremersbergturm_im_Sommer_(fcm).jpg/800px-Fremersbergturm_im_Sommer_(fcm).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fremersbergturm_im_Sommer_(fcm).jpg/1200px-Fremersbergturm_im_Sommer_(fcm).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fremersbergturm_im_Sommer_(fcm).jpg/1920px-Fremersbergturm_im_Sommer_(fcm).jpg
 ---
 
 ## Overview

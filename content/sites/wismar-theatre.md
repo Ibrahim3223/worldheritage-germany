@@ -13,9 +13,9 @@ regions:
 latitude: 53.8892
 longitude: 11.4453
 images:
-  - "/images-sites/wismar-theatre/01-de1ee764-800w.webp"
-  - "/images-sites/wismar-theatre/02-c4bc36df-800w.webp"
-  - "/images-sites/wismar-theatre/03-95a7b8ea-800w.webp"
+  - "/images/wismar-theatre/01-de1ee764-800w.webp"
+  - "/images/wismar-theatre/02-c4bc36df-800w.webp"
+  - "/images/wismar-theatre/03-95a7b8ea-800w.webp"
 ---
 
 ## Overview

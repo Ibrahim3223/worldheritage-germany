@@ -13,7 +13,7 @@ regions:
 latitude: 47.85
 longitude: 11.856111111
 images:
-  - "/images-sites/seehamer-see/01-29d2868e-800w.webp"
+  - "/images/seehamer-see/01-29d2868e-800w.webp"
 ---
 
 ## Overview

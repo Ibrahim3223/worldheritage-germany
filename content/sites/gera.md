@@ -1,19 +1,49 @@
 ---
-title: "Gera"
+title: Gera
 date: 2026-01-23
 draft: false
-description: "museum ship in Bremerhaven, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum ship in Bremerhaven, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.521896
 longitude: 8.585174
 images:
-  - "/images-sites/gera/01-49a4a352-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/1200px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simsonbrunnen_Gera.jpg/1200px-Simsonbrunnen_Gera.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sorge_Gera_03.jpg/1200px-Sorge_Gera_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_über_Gera.jpg/1200px-Blick_vom_Rathausturm_über_Gera.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bevölkerungspyramide_Gera_2011.png/1200px-Bevölkerungspyramide_Gera_2011.png
+image_srcset:
+  Haus Schulenburg in Gera - Ansicht von der Straße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/400px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/800px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/1200px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg/1920px-Haus_Schulenburg_in_Gera_-_Ansicht_von_der_Straße.jpg
+  Simsonbrunnen Gera.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simsonbrunnen_Gera.jpg/400px-Simsonbrunnen_Gera.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simsonbrunnen_Gera.jpg/800px-Simsonbrunnen_Gera.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simsonbrunnen_Gera.jpg/1200px-Simsonbrunnen_Gera.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Simsonbrunnen_Gera.jpg/1920px-Simsonbrunnen_Gera.jpg
+  Sorge Gera 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sorge_Gera_03.jpg/400px-Sorge_Gera_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sorge_Gera_03.jpg/800px-Sorge_Gera_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sorge_Gera_03.jpg/1200px-Sorge_Gera_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sorge_Gera_03.jpg/1920px-Sorge_Gera_03.jpg
+  Blick vom Rathausturm über Gera.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_über_Gera.jpg/400px-Blick_vom_Rathausturm_über_Gera.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_über_Gera.jpg/800px-Blick_vom_Rathausturm_über_Gera.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_über_Gera.jpg/1200px-Blick_vom_Rathausturm_über_Gera.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blick_vom_Rathausturm_über_Gera.jpg/1920px-Blick_vom_Rathausturm_über_Gera.jpg
+  Bevölkerungspyramide Gera 2011.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bevölkerungspyramide_Gera_2011.png/400px-Bevölkerungspyramide_Gera_2011.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bevölkerungspyramide_Gera_2011.png/800px-Bevölkerungspyramide_Gera_2011.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bevölkerungspyramide_Gera_2011.png/1200px-Bevölkerungspyramide_Gera_2011.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bevölkerungspyramide_Gera_2011.png/1920px-Bevölkerungspyramide_Gera_2011.png
 ---
 
 ## Overview

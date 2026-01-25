@@ -1,19 +1,49 @@
 ---
-title: "Friedhof Heerstraße"
+title: Friedhof Heerstraße
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin-Westend, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin-Westend, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.514
 longitude: 13.251
 images:
-  - "/images-sites/friedhof-heerstrasse/01-1376a506-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png/1200px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WestendTrakehnerAllee.jpg/1200px-WestendTrakehnerAllee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG/1200px-Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png/1200px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/1200px-Friedhof_Heerstrasse_Berlin,_1.jpg
+image_srcset:
+  Grabstein marcus-behmer friedhof-heerstr 8-c-54-ew 2023-08-20.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png/400px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png/800px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png/1200px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png/1920px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-ew_2023-08-20.png
+  WestendTrakehnerAllee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WestendTrakehnerAllee.jpg/400px-WestendTrakehnerAllee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WestendTrakehnerAllee.jpg/800px-WestendTrakehnerAllee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WestendTrakehnerAllee.jpg/1200px-WestendTrakehnerAllee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/WestendTrakehnerAllee.jpg/1920px-WestendTrakehnerAllee.jpg
+  Berlin Prenzlauer Berg Greifswalder Straße 10 (09050091).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG/400px-Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG/800px-Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG/1200px-Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG/1920px-Berlin_Prenzlauer_Berg_Greifswalder_Straße_10_(09050091).JPG
+  Grabstein marcus-behmer friedhof-heerstr 8-c-54-EW m ehrentafel 2023-08-20.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png/400px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png/800px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png/1200px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png/1920px-Grabstein_marcus-behmer_friedhof-heerstr_8-c-54-EW_m_ehrentafel_2023-08-20.png
+  Friedhof Heerstrasse Berlin, 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/400px-Friedhof_Heerstrasse_Berlin,_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/800px-Friedhof_Heerstrasse_Berlin,_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/1200px-Friedhof_Heerstrasse_Berlin,_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Friedhof_Heerstrasse_Berlin,_1.jpg/1920px-Friedhof_Heerstrasse_Berlin,_1.jpg
 ---
 
 ## Overview

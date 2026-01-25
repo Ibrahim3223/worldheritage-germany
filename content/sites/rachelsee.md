@@ -13,7 +13,7 @@ regions:
 latitude: 48.975277777
 longitude: 13.401944444
 images:
-  - "/images-sites/rachelsee/01-69021cf3-800w.webp"
+  - "/images/rachelsee/01-69021cf3-800w.webp"
 ---
 
 ## Overview

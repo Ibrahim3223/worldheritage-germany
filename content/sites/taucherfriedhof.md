@@ -13,7 +13,7 @@ regions:
 latitude: 51.182859
 longitude: 14.437992
 images:
-  - "/images-sites/taucherfriedhof/01-ab562ac3-800w.webp"
+  - "/images/taucherfriedhof/01-ab562ac3-800w.webp"
 ---
 
 ## Overview

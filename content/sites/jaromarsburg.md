@@ -1,27 +1,49 @@
 ---
-title: "Jaromarsburg"
+title: Jaromarsburg
 date: 2026-01-23
 draft: false
-description: "ancient cult location"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ancient cult location
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.6766
 longitude: 13.4369
-
-# Images
 images:
-  - "/images-sites/jaromarsburg/01-1332dcb9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg/1200px-20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/1200px-20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1200px-Arkona-1860-Knoche-Fock.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/1200px-20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arkona_artistic_reconstruction.jpg/1200px-Arkona_artistic_reconstruction.jpg
+image_srcset:
+  20020607580AR Kap Arkona Jaromarsburg Gott Svantevit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg/400px-20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg/800px-20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg/1200px-20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg/1920px-20020607580AR_Kap_Arkona_Jaromarsburg_Gott_Svantevit.jpg
+  20020607600AR Kap Arkona Peilturm Kriegsmarine + Jaromarsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/400px-20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/800px-20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/1200px-20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/1920px-20020607600AR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+  Arkona-1860-Knoche-Fock.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/400px-Arkona-1860-Knoche-Fock.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/800px-Arkona-1860-Knoche-Fock.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1200px-Arkona-1860-Knoche-Fock.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Arkona-1860-Knoche-Fock.png/1920px-Arkona-1860-Knoche-Fock.png
+  20020607540NR Kap Arkona Peilturm Kriegsmarine + Jaromarsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/400px-20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/800px-20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/1200px-20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg/1920px-20020607540NR_Kap_Arkona_Peilturm_Kriegsmarine_+_Jaromarsburg.jpg
+  Arkona artistic reconstruction.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arkona_artistic_reconstruction.jpg/400px-Arkona_artistic_reconstruction.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arkona_artistic_reconstruction.jpg/800px-Arkona_artistic_reconstruction.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arkona_artistic_reconstruction.jpg/1200px-Arkona_artistic_reconstruction.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arkona_artistic_reconstruction.jpg/1920px-Arkona_artistic_reconstruction.jpg
 ---
 
 ## Overview

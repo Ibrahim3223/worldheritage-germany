@@ -21,7 +21,7 @@ longitude: 11.963333
 
 # Images
 images:
-  - "/images-sites/moritzburg/01-2c27eaae-800w.webp"
+  - "/images/moritzburg/01-2c27eaae-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.8752
 longitude: 10.4285
 images:
-  - "/images-sites/stollburg/01-567f0ce6-800w.webp"
-  - "/images-sites/stollburg/02-b9b6a8d9-800w.webp"
-  - "/images-sites/stollburg/03-855999a8-800w.webp"
+  - "/images/stollburg/01-567f0ce6-800w.webp"
+  - "/images/stollburg/02-b9b6a8d9-800w.webp"
+  - "/images/stollburg/03-855999a8-800w.webp"
 ---
 
 ## Overview

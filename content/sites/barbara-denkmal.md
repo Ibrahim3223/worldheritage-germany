@@ -1,19 +1,49 @@
 ---
-title: "Barbara-Denkmal"
+title: Barbara-Denkmal
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3541
 longitude: 7.59806
 images:
-  - "/images-sites/barbara-denkmal/01-341007d5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Barbara-Denkmal_09_Koblenz_2015.jpg/1200px-Barbara-Denkmal_09_Koblenz_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg/1200px-Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG/1200px-Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg/1200px-Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg/1200px-Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg
+image_srcset:
+  Barbara-Denkmal 09 Koblenz 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Barbara-Denkmal_09_Koblenz_2015.jpg/400px-Barbara-Denkmal_09_Koblenz_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Barbara-Denkmal_09_Koblenz_2015.jpg/800px-Barbara-Denkmal_09_Koblenz_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Barbara-Denkmal_09_Koblenz_2015.jpg/1200px-Barbara-Denkmal_09_Koblenz_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Barbara-Denkmal_09_Koblenz_2015.jpg/1920px-Barbara-Denkmal_09_Koblenz_2015.jpg
+  Einweihung 01 Barbara-Denkmal Koblenz 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg/400px-Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg/800px-Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg/1200px-Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg/1920px-Einweihung_01_Barbara-Denkmal_Koblenz_2015.jpg
+  Barbara-Denkmal, Koblenz (2022-07-12 Sp).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG/400px-Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG/800px-Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG/1200px-Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG/1920px-Barbara-Denkmal,_Koblenz_(2022-07-12_Sp).JPG
+  Baustelle 01 Barbara-Denkmal Koblenz 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg/400px-Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg/800px-Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg/1200px-Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg/1920px-Baustelle_01_Barbara-Denkmal_Koblenz_2014.jpg
+  Baustelle 04 Barbara-Denkmal Koblenz 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg/400px-Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg/800px-Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg/1200px-Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg/1920px-Baustelle_04_Barbara-Denkmal_Koblenz_2014.jpg
 ---
 
 ## Overview

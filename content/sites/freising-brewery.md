@@ -1,29 +1,38 @@
 ---
-title: "Freising Brewery"
+title: Freising Brewery
 date: 2026-01-23
 draft: false
-description: "brewery in Freising (Upper Bavaria, Germany). Castle-like brewery built according to plans by Theodor Ganzenmüller and the Rank brothers, 1912, richly"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Freising (Upper Bavaria, Germany). Castle-like brewery built
+  according to plans by Theodor Ganzenmüller and the Rank brothers, 1912, richly
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.406082635
 longitude: 11.746963404
-
-# Images
 images:
-  - "/images-sites/freising-brewery/01-162fb30c-800w.webp"
-  - "/images-sites/freising-brewery/02-528bc2e5-800w.webp"
-  - "/images-sites/freising-brewery/03-e2424138-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Barthelmarkt_Bier_Graf_Toerring.jpg/1200px-Barthelmarkt_Bier_Graf_Toerring.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg/1200px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg/1200px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg
+image_srcset:
+  Barthelmarkt Bier Graf Toerring.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Barthelmarkt_Bier_Graf_Toerring.jpg/400px-Barthelmarkt_Bier_Graf_Toerring.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Barthelmarkt_Bier_Graf_Toerring.jpg/800px-Barthelmarkt_Bier_Graf_Toerring.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Barthelmarkt_Bier_Graf_Toerring.jpg/1200px-Barthelmarkt_Bier_Graf_Toerring.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Barthelmarkt_Bier_Graf_Toerring.jpg/1920px-Barthelmarkt_Bier_Graf_Toerring.jpg
+  Gräfliches Hofbrauhaus Freising - Dirndl Bräu - Ois Easy.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg/400px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg/800px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg/1200px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg/1920px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Ois_Easy.jpg
+  Gräfliches Hofbrauhaus Freising - Dirndl Bräu - Schürzenjäger.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg/400px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg/800px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg/1200px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg/1920px-Gräfliches_Hofbrauhaus_Freising_-_Dirndl_Bräu_-_Schürzenjäger.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Archäologisches Freilichtmuseum Funkenburg"
+title: Archäologisches Freilichtmuseum Funkenburg
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2389
 longitude: 10.9181
 images:
-  - "/images-sites/archaeologisches-freilichtmuseum-funkenburg/01-2f2ffdc0-800w.webp"
-  - "/images-sites/archaeologisches-freilichtmuseum-funkenburg/02-5a74c408-800w.webp"
-  - "/images-sites/archaeologisches-freilichtmuseum-funkenburg/03-751b1849-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1200px-Funkenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Westgreußen_Funkenburg_07.jpg/1200px-Westgreußen_Funkenburg_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Freilichtmuseum_Funkenburg.jpg/1200px-Archäologisches_Freilichtmuseum_Funkenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KYF_Funkenburg_-04.jpg/1200px-KYF_Funkenburg_-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KYF_Funkenburg_-14.jpg/1200px-KYF_Funkenburg_-14.jpg
+image_srcset:
+  Funkenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/400px-Funkenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/800px-Funkenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1200px-Funkenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Funkenburg.jpg/1920px-Funkenburg.jpg
+  Westgreußen Funkenburg 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Westgreußen_Funkenburg_07.jpg/400px-Westgreußen_Funkenburg_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Westgreußen_Funkenburg_07.jpg/800px-Westgreußen_Funkenburg_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Westgreußen_Funkenburg_07.jpg/1200px-Westgreußen_Funkenburg_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Westgreußen_Funkenburg_07.jpg/1920px-Westgreußen_Funkenburg_07.jpg
+  Archäologisches Freilichtmuseum Funkenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Freilichtmuseum_Funkenburg.jpg/400px-Archäologisches_Freilichtmuseum_Funkenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Freilichtmuseum_Funkenburg.jpg/800px-Archäologisches_Freilichtmuseum_Funkenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Freilichtmuseum_Funkenburg.jpg/1200px-Archäologisches_Freilichtmuseum_Funkenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Archäologisches_Freilichtmuseum_Funkenburg.jpg/1920px-Archäologisches_Freilichtmuseum_Funkenburg.jpg
+  KYF Funkenburg -04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KYF_Funkenburg_-04.jpg/400px-KYF_Funkenburg_-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KYF_Funkenburg_-04.jpg/800px-KYF_Funkenburg_-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KYF_Funkenburg_-04.jpg/1200px-KYF_Funkenburg_-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KYF_Funkenburg_-04.jpg/1920px-KYF_Funkenburg_-04.jpg
+  KYF Funkenburg -14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KYF_Funkenburg_-14.jpg/400px-KYF_Funkenburg_-14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KYF_Funkenburg_-14.jpg/800px-KYF_Funkenburg_-14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KYF_Funkenburg_-14.jpg/1200px-KYF_Funkenburg_-14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KYF_Funkenburg_-14.jpg/1920px-KYF_Funkenburg_-14.jpg
 ---
 
 ## Overview

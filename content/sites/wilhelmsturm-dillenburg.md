@@ -13,7 +13,7 @@ regions:
 latitude: 50.73828928
 longitude: 8.285429171
 images:
-  - "/images-sites/wilhelmsturm-dillenburg/01-ea2fc8dc-800w.webp"
+  - "/images/wilhelmsturm-dillenburg/01-ea2fc8dc-800w.webp"
 ---
 
 ## Overview

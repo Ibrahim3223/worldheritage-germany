@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1910575"
 description: "In the heart of Berlin-Steglitz, the Matthew Church stands as a striking example of Gothic Revival architecture, inviting visitors to explore its rich h..."
 images:
-  - "/images-sites/matthew-church-berlin-steglitz/01-66ac3f7d-1920w.webp"
-  - "/images-sites/matthew-church-berlin-steglitz/02-6f2e54e9-1920w.webp"
-  - "/images-sites/matthew-church-berlin-steglitz/03-79c945c0-1920w.webp"
+  - "/images/matthew-church-berlin-steglitz/01-66ac3f7d-1920w.webp"
+  - "/images/matthew-church-berlin-steglitz/02-6f2e54e9-1920w.webp"
+  - "/images/matthew-church-berlin-steglitz/03-79c945c0-1920w.webp"
 ---
 
 ## Overview

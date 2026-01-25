@@ -21,7 +21,7 @@ longitude: 7.64321
 
 # Images
 images:
-  - "/images-sites/stickhausen-castle/01-99590527-800w.webp"
+  - "/images/stickhausen-castle/01-99590527-800w.webp"
 ---
 
 ## Overview

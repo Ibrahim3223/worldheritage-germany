@@ -13,9 +13,9 @@ regions:
 latitude: 51.15878116
 longitude: 14.98987913
 images:
-  - "/images-sites/nikolaizwinger/01-6e435cb4-800w.webp"
-  - "/images-sites/nikolaizwinger/02-82cf645a-800w.webp"
-  - "/images-sites/nikolaizwinger/03-b81ecc27-800w.webp"
+  - "/images/nikolaizwinger/01-6e435cb4-800w.webp"
+  - "/images/nikolaizwinger/02-82cf645a-800w.webp"
+  - "/images/nikolaizwinger/03-b81ecc27-800w.webp"
 ---
 
 ## Overview

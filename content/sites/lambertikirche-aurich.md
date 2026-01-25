@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1801417"
 description: "Lambertikirche Aurich is a striking example of Neoclassical architecture, prominently situated in the heart of Aurich, Germany. This church building is ..."
 images:
-  - "/images-sites/lambertikirche-aurich/01-763ae4c2-1920w.webp"
-  - "/images-sites/lambertikirche-aurich/02-7d613e03-1920w.webp"
-  - "/images-sites/lambertikirche-aurich/03-8a640506-1920w.webp"
+  - "/images/lambertikirche-aurich/01-763ae4c2-1920w.webp"
+  - "/images/lambertikirche-aurich/02-7d613e03-1920w.webp"
+  - "/images/lambertikirche-aurich/03-8a640506-1920w.webp"
 ---
 
 ## Overview

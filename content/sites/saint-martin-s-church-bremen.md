@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1262213"
 description: "In the heart of Bremen, Saint Martins Church stands as an enduring symbol of the citys rich architectural heritage. This remarkable church, constructed ..."
 images:
-  - "/images-sites/saint-martin-s-church-bremen/01-e0f141e4-1920w.webp"
-  - "/images-sites/saint-martin-s-church-bremen/02-4cfedf3c-1920w.webp"
-  - "/images-sites/saint-martin-s-church-bremen/03-7794d920-1920w.webp"
+  - "/images/saint-martin-s-church-bremen/01-e0f141e4-1920w.webp"
+  - "/images/saint-martin-s-church-bremen/02-4cfedf3c-1920w.webp"
+  - "/images/saint-martin-s-church-bremen/03-7794d920-1920w.webp"
 ---
 
 ## Overview

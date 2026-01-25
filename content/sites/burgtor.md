@@ -1,20 +1,49 @@
 ---
-title: "Burgtor"
+title: Burgtor
 date: 2026-01-23
 draft: false
-description: "city gate"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: city gate
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 53.874
 longitude: 10.6911
 images:
-  - "/images-sites/burgtor/02-8dd1c12b-800w.webp"
-  - "/images-sites/burgtor/03-39863705-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oberschloss_Kranichfeld_–_Eingang.jpg/1200px-Oberschloss_Kranichfeld_–_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg/1200px-Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg/1200px-Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lübeck,_Burgtor_--_2017_--_0390.jpg/1200px-Lübeck,_Burgtor_--_2017_--_0390.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modell_äußeres_Burgtor_Lübeck.jpg/1200px-Modell_äußeres_Burgtor_Lübeck.jpg
+image_srcset:
+  Oberschloss Kranichfeld – Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oberschloss_Kranichfeld_–_Eingang.jpg/400px-Oberschloss_Kranichfeld_–_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oberschloss_Kranichfeld_–_Eingang.jpg/800px-Oberschloss_Kranichfeld_–_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oberschloss_Kranichfeld_–_Eingang.jpg/1200px-Oberschloss_Kranichfeld_–_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oberschloss_Kranichfeld_–_Eingang.jpg/1920px-Oberschloss_Kranichfeld_–_Eingang.jpg
+  Zentralbibliothek Zürich - Burgthor z. Lübeck - 991023925949705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg/400px-Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg/800px-Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg/1200px-Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg/1920px-Zentralbibliothek_Zürich_-_Burgthor_z._Lübeck_-_991023925949705501.jpg
+  Lübeck, An der Untertrave, Ufer -- 2017 -- 0272.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg/400px-Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg/800px-Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg/1200px-Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg/1920px-Lübeck,_An_der_Untertrave,_Ufer_--_2017_--_0272.jpg
+  Lübeck, Burgtor -- 2017 -- 0390.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lübeck,_Burgtor_--_2017_--_0390.jpg/400px-Lübeck,_Burgtor_--_2017_--_0390.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lübeck,_Burgtor_--_2017_--_0390.jpg/800px-Lübeck,_Burgtor_--_2017_--_0390.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lübeck,_Burgtor_--_2017_--_0390.jpg/1200px-Lübeck,_Burgtor_--_2017_--_0390.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lübeck,_Burgtor_--_2017_--_0390.jpg/1920px-Lübeck,_Burgtor_--_2017_--_0390.jpg
+  Modell äußeres Burgtor Lübeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modell_äußeres_Burgtor_Lübeck.jpg/400px-Modell_äußeres_Burgtor_Lübeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modell_äußeres_Burgtor_Lübeck.jpg/800px-Modell_äußeres_Burgtor_Lübeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modell_äußeres_Burgtor_Lübeck.jpg/1200px-Modell_äußeres_Burgtor_Lübeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Modell_äußeres_Burgtor_Lübeck.jpg/1920px-Modell_äußeres_Burgtor_Lübeck.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.5046
 longitude: 7.16509
 images:
-  - "/images-sites/zeche-hannover/01-888f864a-800w.webp"
-  - "/images-sites/zeche-hannover/02-6e8d83d0-800w.webp"
-  - "/images-sites/zeche-hannover/03-59912bb1-800w.webp"
+  - "/images/zeche-hannover/01-888f864a-800w.webp"
+  - "/images/zeche-hannover/02-6e8d83d0-800w.webp"
+  - "/images/zeche-hannover/03-59912bb1-800w.webp"
 ---
 
 ## Overview

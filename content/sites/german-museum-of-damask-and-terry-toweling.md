@@ -1,19 +1,49 @@
 ---
-title: "German Museum of damask and terry toweling"
+title: German Museum of damask and terry toweling
 date: 2026-01-23
 draft: false
-description: "museum in Großschönau"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Großschönau
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.899547
 longitude: 14.661028
 images:
-  - "/images-sites/german-museum-of-damask-and-terry-toweling/01-e4b9248a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1200px-Großschönau_Schenaustraße_3_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Großschönau_-_Buildings_49.jpg/1200px-Großschönau_-_Buildings_49.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Damast-Museum_Großschönau_(08).jpg/1200px-Damast-Museum_Großschönau_(08).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg/1200px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg/1200px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg
+image_srcset:
+  Großschönau Schenaustraße 3 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/400px-Großschönau_Schenaustraße_3_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/800px-Großschönau_Schenaustraße_3_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1200px-Großschönau_Schenaustraße_3_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Großschönau_Schenaustraße_3_2.jpg/1920px-Großschönau_Schenaustraße_3_2.jpg
+  Großschönau - Buildings 49.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Großschönau_-_Buildings_49.jpg/400px-Großschönau_-_Buildings_49.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Großschönau_-_Buildings_49.jpg/800px-Großschönau_-_Buildings_49.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Großschönau_-_Buildings_49.jpg/1200px-Großschönau_-_Buildings_49.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Großschönau_-_Buildings_49.jpg/1920px-Großschönau_-_Buildings_49.jpg
+  Damast-Museum Großschönau (08).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Damast-Museum_Großschönau_(08).jpg/400px-Damast-Museum_Großschönau_(08).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Damast-Museum_Großschönau_(08).jpg/800px-Damast-Museum_Großschönau_(08).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Damast-Museum_Großschönau_(08).jpg/1200px-Damast-Museum_Großschönau_(08).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Damast-Museum_Großschönau_(08).jpg/1920px-Damast-Museum_Großschönau_(08).jpg
+  Großschönau - muzeum damaškové a smyčkové tkaniny 7764.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg/400px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg/800px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg/1200px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg/1920px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7764.jpg
+  Großschönau - muzeum damaškové a smyčkové tkaniny 7831.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg/400px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg/800px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg/1200px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg/1920px-Großschönau_-_muzeum_damaškové_a_smyčkové_tkaniny_7831.jpg
 ---
 
 ## Overview

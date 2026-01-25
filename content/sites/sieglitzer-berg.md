@@ -13,7 +13,7 @@ regions:
 latitude: 51.8666
 longitude: 12.3214
 images:
-  - "/images-sites/sieglitzer-berg/01-3b182ebe-800w.webp"
+  - "/images/sieglitzer-berg/01-3b182ebe-800w.webp"
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Athanasiuskirche"
-site_name: "Athanasiuskirche"
-slug: "athanasiuskirche"
-region: "Lower Saxony"
-
-# Location
+title: Athanasiuskirche
+site_name: Athanasiuskirche
+slug: athanasiuskirche
+region: Lower Saxony
 latitude: 52.3577
 longitude: 9.75366
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q754874"
-description: "Athanasiuskirche, a modern Lutheran church located in the Südstadt-Bult region of Germany, stands out not only for its architectural design but also for..."
+- church building
+- religious site
+wikidata_id: Q754874
+description: Athanasiuskirche, a modern Lutheran church located in the Südstadt-Bult
+  region of Germany, stands out not only for its architectural design but also for...
 images:
-  - "/images-sites/athanasiuskirche/01-e3ee7613-1920w.webp"
-  - "/images-sites/athanasiuskirche/02-7d34ea3b-1920w.webp"
-  - "/images-sites/athanasiuskirche/03-7986f140-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Athanasiuskirche%20Hannover.jpg/1200px-Athanasiuskirche%20Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Athanasiuskirche_(Hannover)_IMG_1995.jpg/1200px-Athanasiuskirche_(Hannover)_IMG_1995.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Athanasiuskirche_(Hannover)_IMG_2003.jpg/1200px-Athanasiuskirche_(Hannover)_IMG_2003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Athanasiuskirche_(Hannover)_IMG_2004.jpg/1200px-Athanasiuskirche_(Hannover)_IMG_2004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/1200px-Athanasiuskirche_Hannover.jpg
+image_srcset:
+  Athanasiuskirche%20Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Athanasiuskirche%20Hannover.jpg/400px-Athanasiuskirche%20Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Athanasiuskirche%20Hannover.jpg/800px-Athanasiuskirche%20Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Athanasiuskirche%20Hannover.jpg/1200px-Athanasiuskirche%20Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Athanasiuskirche%20Hannover.jpg/1920px-Athanasiuskirche%20Hannover.jpg
+  Athanasiuskirche (Hannover) IMG 1995.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Athanasiuskirche_(Hannover)_IMG_1995.jpg/400px-Athanasiuskirche_(Hannover)_IMG_1995.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Athanasiuskirche_(Hannover)_IMG_1995.jpg/800px-Athanasiuskirche_(Hannover)_IMG_1995.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Athanasiuskirche_(Hannover)_IMG_1995.jpg/1200px-Athanasiuskirche_(Hannover)_IMG_1995.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Athanasiuskirche_(Hannover)_IMG_1995.jpg/1920px-Athanasiuskirche_(Hannover)_IMG_1995.jpg
+  Athanasiuskirche (Hannover) IMG 2003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Athanasiuskirche_(Hannover)_IMG_2003.jpg/400px-Athanasiuskirche_(Hannover)_IMG_2003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Athanasiuskirche_(Hannover)_IMG_2003.jpg/800px-Athanasiuskirche_(Hannover)_IMG_2003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Athanasiuskirche_(Hannover)_IMG_2003.jpg/1200px-Athanasiuskirche_(Hannover)_IMG_2003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Athanasiuskirche_(Hannover)_IMG_2003.jpg/1920px-Athanasiuskirche_(Hannover)_IMG_2003.jpg
+  Athanasiuskirche (Hannover) IMG 2004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Athanasiuskirche_(Hannover)_IMG_2004.jpg/400px-Athanasiuskirche_(Hannover)_IMG_2004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Athanasiuskirche_(Hannover)_IMG_2004.jpg/800px-Athanasiuskirche_(Hannover)_IMG_2004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Athanasiuskirche_(Hannover)_IMG_2004.jpg/1200px-Athanasiuskirche_(Hannover)_IMG_2004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Athanasiuskirche_(Hannover)_IMG_2004.jpg/1920px-Athanasiuskirche_(Hannover)_IMG_2004.jpg
+  Athanasiuskirche Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/400px-Athanasiuskirche_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/800px-Athanasiuskirche_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/1200px-Athanasiuskirche_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Athanasiuskirche_Hannover.jpg/1920px-Athanasiuskirche_Hannover.jpg
 ---
 
 ## Overview

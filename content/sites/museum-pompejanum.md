@@ -13,9 +13,9 @@ regions:
 latitude: 49.9775
 longitude: 9.13639
 images:
-  - "/images-sites/museum-pompejanum/01-910e2fbf-800w.webp"
-  - "/images-sites/museum-pompejanum/02-72be6cb2-800w.webp"
-  - "/images-sites/museum-pompejanum/03-6f7f9863-800w.webp"
+  - "/images/museum-pompejanum/01-910e2fbf-800w.webp"
+  - "/images/museum-pompejanum/02-72be6cb2-800w.webp"
+  - "/images/museum-pompejanum/03-6f7f9863-800w.webp"
 ---
 
 ## Overview

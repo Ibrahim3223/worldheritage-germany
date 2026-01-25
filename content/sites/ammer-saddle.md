@@ -1,19 +1,37 @@
 ---
-title: "Ammer Saddle"
+title: Ammer Saddle
 date: 2026-01-23
 draft: false
-description: "mountain pass"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: mountain pass
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 47.537778
 longitude: 10.889722
 images:
-  - "/images-sites/ammer-saddle/01-0a7c3b05-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1200px-20090919_Hiking_the_Hochplatte_(82).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ammersattel.jpg/1200px-Ammersattel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG/1200px-Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG
+image_srcset:
+  20090919 Hiking the Hochplatte (82).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/400px-20090919_Hiking_the_Hochplatte_(82).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/800px-20090919_Hiking_the_Hochplatte_(82).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1200px-20090919_Hiking_the_Hochplatte_(82).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20090919_Hiking_the_Hochplatte_(82).JPG/1920px-20090919_Hiking_the_Hochplatte_(82).JPG
+  Ammersattel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ammersattel.jpg/400px-Ammersattel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ammersattel.jpg/800px-Ammersattel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ammersattel.jpg/1200px-Ammersattel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ammersattel.jpg/1920px-Ammersattel.jpg
+  Reutte - Plansee Ri Ammerwald - Torsäulenbach, Winter.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG/400px-Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG/800px-Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG/1200px-Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG/1920px-Reutte_-_Plansee_Ri_Ammerwald_-_Torsäulenbach,_Winter.JPG
 ---
 
 ## Overview

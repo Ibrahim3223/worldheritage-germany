@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1776416"
 description: "In the heart of Cottbus, Brandenburg, the Klosterkirche stands as a historical church building that dates back to 1400. This brick Gothic structure not ..."
 images:
-  - "/images-sites/klosterkirche/01-4f8d1b0d-1920w.webp"
-  - "/images-sites/klosterkirche/02-9e1ef18a-1920w.webp"
-  - "/images-sites/klosterkirche/03-2407a8e0-1920w.webp"
+  - "/images/klosterkirche/01-4f8d1b0d-1920w.webp"
+  - "/images/klosterkirche/02-9e1ef18a-1920w.webp"
+  - "/images/klosterkirche/03-2407a8e0-1920w.webp"
 ---
 
 ## Overview

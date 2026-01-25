@@ -1,19 +1,49 @@
 ---
-title: "Alter Friedhof Gießen"
+title: Alter Friedhof Gießen
 date: 2026-01-23
 draft: false
-description: "cemetery in Giessen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: cemetery in Giessen, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5831
 longitude: 8.68538
 images:
-  - "/images-sites/alter-friedhof-giessen/01-494a6db3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gießen_Alter_Friedhof_(02).jpg/1200px-Gießen_Alter_Friedhof_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg/1200px-Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Friedhof_Gießen_Kapelle_01.JPG/1200px-Alter_Friedhof_Gießen_Kapelle_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alter_Friedhof_Gießen_Kapelle_03.JPG/1200px-Alter_Friedhof_Gießen_Kapelle_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg/1200px-Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg
+image_srcset:
+  Gießen Alter Friedhof (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gießen_Alter_Friedhof_(02).jpg/400px-Gießen_Alter_Friedhof_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gießen_Alter_Friedhof_(02).jpg/800px-Gießen_Alter_Friedhof_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gießen_Alter_Friedhof_(02).jpg/1200px-Gießen_Alter_Friedhof_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gießen_Alter_Friedhof_(02).jpg/1920px-Gießen_Alter_Friedhof_(02).jpg
+  Gießen Kapelle Alter Friedhof Innen (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg/400px-Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg/800px-Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg/1200px-Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg/1920px-Gießen_Kapelle_Alter_Friedhof_Innen_(5).jpg
+  Alter Friedhof Gießen Kapelle 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Friedhof_Gießen_Kapelle_01.JPG/400px-Alter_Friedhof_Gießen_Kapelle_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Friedhof_Gießen_Kapelle_01.JPG/800px-Alter_Friedhof_Gießen_Kapelle_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Friedhof_Gießen_Kapelle_01.JPG/1200px-Alter_Friedhof_Gießen_Kapelle_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alter_Friedhof_Gießen_Kapelle_01.JPG/1920px-Alter_Friedhof_Gießen_Kapelle_01.JPG
+  Alter Friedhof Gießen Kapelle 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alter_Friedhof_Gießen_Kapelle_03.JPG/400px-Alter_Friedhof_Gießen_Kapelle_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alter_Friedhof_Gießen_Kapelle_03.JPG/800px-Alter_Friedhof_Gießen_Kapelle_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alter_Friedhof_Gießen_Kapelle_03.JPG/1200px-Alter_Friedhof_Gießen_Kapelle_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alter_Friedhof_Gießen_Kapelle_03.JPG/1920px-Alter_Friedhof_Gießen_Kapelle_03.JPG
+  Alter Friedhof Gießen, Friedhofskapelle von Süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg/400px-Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg/800px-Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg/1200px-Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg/1920px-Alter_Friedhof_Gießen,_Friedhofskapelle_von_Süden.jpg
 ---
 
 ## Overview

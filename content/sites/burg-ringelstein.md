@@ -1,27 +1,49 @@
 ---
-title: "Burg Ringelstein"
+title: Burg Ringelstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5023
 longitude: 8.57347
-
-# Images
 images:
-  - "/images-sites/burg-ringelstein/01-472cc888-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harth_-_Burg_Ringelstein_-_01.jpg/1200px-Harth_-_Burg_Ringelstein_-_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Harth_-_Burg_Ringelstein_-_02.jpg/1200px-Harth_-_Burg_Ringelstein_-_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Harth_-_Burg_Ringelstein_-_05.jpg/1200px-Harth_-_Burg_Ringelstein_-_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harth_-_Burg_Ringelstein_-_06.jpg/1200px-Harth_-_Burg_Ringelstein_-_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ringelstein1.JPG/1200px-Ringelstein1.JPG
+image_srcset:
+  Harth - Burg Ringelstein - 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harth_-_Burg_Ringelstein_-_01.jpg/400px-Harth_-_Burg_Ringelstein_-_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harth_-_Burg_Ringelstein_-_01.jpg/800px-Harth_-_Burg_Ringelstein_-_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harth_-_Burg_Ringelstein_-_01.jpg/1200px-Harth_-_Burg_Ringelstein_-_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harth_-_Burg_Ringelstein_-_01.jpg/1920px-Harth_-_Burg_Ringelstein_-_01.jpg
+  Harth - Burg Ringelstein - 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Harth_-_Burg_Ringelstein_-_02.jpg/400px-Harth_-_Burg_Ringelstein_-_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Harth_-_Burg_Ringelstein_-_02.jpg/800px-Harth_-_Burg_Ringelstein_-_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Harth_-_Burg_Ringelstein_-_02.jpg/1200px-Harth_-_Burg_Ringelstein_-_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Harth_-_Burg_Ringelstein_-_02.jpg/1920px-Harth_-_Burg_Ringelstein_-_02.jpg
+  Harth - Burg Ringelstein - 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Harth_-_Burg_Ringelstein_-_05.jpg/400px-Harth_-_Burg_Ringelstein_-_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Harth_-_Burg_Ringelstein_-_05.jpg/800px-Harth_-_Burg_Ringelstein_-_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Harth_-_Burg_Ringelstein_-_05.jpg/1200px-Harth_-_Burg_Ringelstein_-_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Harth_-_Burg_Ringelstein_-_05.jpg/1920px-Harth_-_Burg_Ringelstein_-_05.jpg
+  Harth - Burg Ringelstein - 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harth_-_Burg_Ringelstein_-_06.jpg/400px-Harth_-_Burg_Ringelstein_-_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harth_-_Burg_Ringelstein_-_06.jpg/800px-Harth_-_Burg_Ringelstein_-_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harth_-_Burg_Ringelstein_-_06.jpg/1200px-Harth_-_Burg_Ringelstein_-_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harth_-_Burg_Ringelstein_-_06.jpg/1920px-Harth_-_Burg_Ringelstein_-_06.jpg
+  Ringelstein1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ringelstein1.JPG/400px-Ringelstein1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ringelstein1.JPG/800px-Ringelstein1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ringelstein1.JPG/1200px-Ringelstein1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ringelstein1.JPG/1920px-Ringelstein1.JPG
 ---
 
 ## Overview

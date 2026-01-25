@@ -13,7 +13,7 @@ regions:
 latitude: 54.45
 longitude: 14.35
 images:
-  - "/images-sites/pommersche-bucht/01-208f6369-800w.webp"
+  - "/images/pommersche-bucht/01-208f6369-800w.webp"
 ---
 
 ## Overview

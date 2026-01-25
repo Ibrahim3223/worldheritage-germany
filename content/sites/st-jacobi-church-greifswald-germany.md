@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q672676"
 description: "In the heart of Greifswald, Germany, the St. Jacobi Church stands as a remarkable example of Brick Gothic architecture, capturing the imagination of vis..."
 images:
-  - "/images-sites/st-jacobi-church-greifswald-germany/01-58e72c5a-1920w.webp"
-  - "/images-sites/st-jacobi-church-greifswald-germany/02-c92c87b5-1920w.webp"
-  - "/images-sites/st-jacobi-church-greifswald-germany/03-6f0ddfc3-1920w.webp"
+  - "/images/st-jacobi-church-greifswald-germany/01-58e72c5a-1920w.webp"
+  - "/images/st-jacobi-church-greifswald-germany/02-c92c87b5-1920w.webp"
+  - "/images/st-jacobi-church-greifswald-germany/03-6f0ddfc3-1920w.webp"
 ---
 
 ## Overview

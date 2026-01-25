@@ -1,20 +1,51 @@
 ---
-title: "Church in Dorf Mecklenburg"
-site_name: "Church in Dorf Mecklenburg"
-slug: "church-in-dorf-mecklenburg"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Dorf Mecklenburg
+site_name: Church in Dorf Mecklenburg
+slug: church-in-dorf-mecklenburg
+region: Mecklenburg-Vorpommern
 latitude: 53.8416
 longitude: 11.4693
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q1244235"
-description: "The Church in Dorf Mecklenburg is a striking example of Brick Gothic architecture, set in the tranquil surroundings of its namesake village. This church..."
+- castle
+- fortification
+wikidata_id: Q1244235
+description: The Church in Dorf Mecklenburg is a striking example of Brick Gothic
+  architecture, set in the tranquil surroundings of its namesake village. This church...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kirche%20Dorf%20Mecklenburg.jpg/1200px-Kirche%20Dorf%20Mecklenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg/1200px-Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg/1200px-Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DorfkircheDorfMecklenburgEmpore_2020-05.jpg/1200px-DorfkircheDorfMecklenburgEmpore_2020-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1200px-Kirche_Dorf_Mecklenburg.jpg
+image_srcset:
+  Kirche%20Dorf%20Mecklenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kirche%20Dorf%20Mecklenburg.jpg/400px-Kirche%20Dorf%20Mecklenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kirche%20Dorf%20Mecklenburg.jpg/800px-Kirche%20Dorf%20Mecklenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kirche%20Dorf%20Mecklenburg.jpg/1200px-Kirche%20Dorf%20Mecklenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kirche%20Dorf%20Mecklenburg.jpg/1920px-Kirche%20Dorf%20Mecklenburg.jpg
+  Dorf Mecklenburg Kirche während der Sanierung 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg/400px-Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg/800px-Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg/1200px-Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg/1920px-Dorf_Mecklenburg_Kirche_während_der_Sanierung_2014.jpg
+  Dorf Mecklenburg Kirche Triumphkreuzgruppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg/400px-Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg/800px-Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg/1200px-Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg/1920px-Dorf_Mecklenburg_Kirche_Triumphkreuzgruppe.jpg
+  DorfkircheDorfMecklenburgEmpore 2020-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DorfkircheDorfMecklenburgEmpore_2020-05.jpg/400px-DorfkircheDorfMecklenburgEmpore_2020-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DorfkircheDorfMecklenburgEmpore_2020-05.jpg/800px-DorfkircheDorfMecklenburgEmpore_2020-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DorfkircheDorfMecklenburgEmpore_2020-05.jpg/1200px-DorfkircheDorfMecklenburgEmpore_2020-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DorfkircheDorfMecklenburgEmpore_2020-05.jpg/1920px-DorfkircheDorfMecklenburgEmpore_2020-05.jpg
+  Kirche Dorf Mecklenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/400px-Kirche_Dorf_Mecklenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/800px-Kirche_Dorf_Mecklenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1200px-Kirche_Dorf_Mecklenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kirche_Dorf_Mecklenburg.jpg/1920px-Kirche_Dorf_Mecklenburg.jpg
 ---
 
 ## Overview

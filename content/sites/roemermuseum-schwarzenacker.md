@@ -13,7 +13,7 @@ regions:
 latitude: 49.2828
 longitude: 7.31663
 images:
-  - "/images-sites/roemermuseum-schwarzenacker/01-d0de5037-800w.webp"
+  - "/images/roemermuseum-schwarzenacker/01-d0de5037-800w.webp"
 ---
 
 ## Overview

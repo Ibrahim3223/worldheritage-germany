@@ -13,9 +13,9 @@ regions:
 latitude: 51.0547
 longitude: 13.7725
 images:
-  - "/images-sites/trinitatis-cemetery/01-e72c5fbb-800w.webp"
-  - "/images-sites/trinitatis-cemetery/02-b177f8c0-800w.webp"
-  - "/images-sites/trinitatis-cemetery/03-2769134b-800w.webp"
+  - "/images/trinitatis-cemetery/01-e72c5fbb-800w.webp"
+  - "/images/trinitatis-cemetery/02-b177f8c0-800w.webp"
+  - "/images/trinitatis-cemetery/03-2769134b-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Emil-Schumacher-Museum"
+title: Emil-Schumacher-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.355641
 longitude: 7.473533
-
-# Images
 images:
-  - "/images-sites/emil-schumacher-museum/01-8852144e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Emil-Schumacher-Museum_Treppenaufgang.jpg/1200px-Emil-Schumacher-Museum_Treppenaufgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/1200px-Kunstquartier_Hagen840.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hagen,_Museumsquartier_Skulptur_Keil.jpg/1200px-Hagen,_Museumsquartier_Skulptur_Keil.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg/1200px-Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ausstellung_Hanns_Friedrichs_1.jpg/1200px-Ausstellung_Hanns_Friedrichs_1.jpg
+image_srcset:
+  Emil-Schumacher-Museum Treppenaufgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Emil-Schumacher-Museum_Treppenaufgang.jpg/400px-Emil-Schumacher-Museum_Treppenaufgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Emil-Schumacher-Museum_Treppenaufgang.jpg/800px-Emil-Schumacher-Museum_Treppenaufgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Emil-Schumacher-Museum_Treppenaufgang.jpg/1200px-Emil-Schumacher-Museum_Treppenaufgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Emil-Schumacher-Museum_Treppenaufgang.jpg/1920px-Emil-Schumacher-Museum_Treppenaufgang.jpg
+  Kunstquartier Hagen840.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/400px-Kunstquartier_Hagen840.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/800px-Kunstquartier_Hagen840.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/1200px-Kunstquartier_Hagen840.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kunstquartier_Hagen840.jpg/1920px-Kunstquartier_Hagen840.jpg
+  Hagen, Museumsquartier Skulptur Keil.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hagen,_Museumsquartier_Skulptur_Keil.jpg/400px-Hagen,_Museumsquartier_Skulptur_Keil.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hagen,_Museumsquartier_Skulptur_Keil.jpg/800px-Hagen,_Museumsquartier_Skulptur_Keil.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hagen,_Museumsquartier_Skulptur_Keil.jpg/1200px-Hagen,_Museumsquartier_Skulptur_Keil.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hagen,_Museumsquartier_Skulptur_Keil.jpg/1920px-Hagen,_Museumsquartier_Skulptur_Keil.jpg
+  Eingangshalle Osthaus Museum, Schumacher Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg/400px-Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg/800px-Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg/1200px-Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg/1920px-Eingangshalle_Osthaus_Museum,_Schumacher_Museum.jpg
+  Ausstellung Hanns Friedrichs 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ausstellung_Hanns_Friedrichs_1.jpg/400px-Ausstellung_Hanns_Friedrichs_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ausstellung_Hanns_Friedrichs_1.jpg/800px-Ausstellung_Hanns_Friedrichs_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ausstellung_Hanns_Friedrichs_1.jpg/1200px-Ausstellung_Hanns_Friedrichs_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ausstellung_Hanns_Friedrichs_1.jpg/1920px-Ausstellung_Hanns_Friedrichs_1.jpg
 ---
 
 ## Overview

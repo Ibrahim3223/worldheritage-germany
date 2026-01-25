@@ -13,9 +13,9 @@ regions:
 latitude: 53.59638889
 longitude: 9.93777778
 images:
-  - "/images-sites/tierpark-hagenbeck/01-621ae0c7-800w.webp"
-  - "/images-sites/tierpark-hagenbeck/02-c96f9400-800w.webp"
-  - "/images-sites/tierpark-hagenbeck/03-1b9ecbb8-800w.webp"
+  - "/images/tierpark-hagenbeck/01-621ae0c7-800w.webp"
+  - "/images/tierpark-hagenbeck/02-c96f9400-800w.webp"
+  - "/images/tierpark-hagenbeck/03-1b9ecbb8-800w.webp"
 ---
 
 ## Overview

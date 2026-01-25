@@ -1,19 +1,49 @@
 ---
-title: "Berlin Warschauer Straße station"
+title: Berlin Warschauer Straße station
 date: 2026-01-23
 draft: false
-description: "S-Bahn station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: S-Bahn station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.506416666
 longitude: 13.450955555
 images:
-  - "/images-sites/berlin-warschauer-strasse-station/01-f64344b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg/1200px-Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1200px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/U_s-warschauer-str_fussbruecke_2023-09-03.png/1200px-U_s-warschauer-str_fussbruecke_2023-09-03.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg/1200px-Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Warschauer_S_Bahnhof_-_panoramio.jpg/1200px-Warschauer_S_Bahnhof_-_panoramio.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Warschauer Straße (S07 1044).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg/400px-Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg/800px-Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg/1200px-Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg/1920px-Berlin_S-Bahn_Bhf_Warschauer_Straße_(S07_1044).jpg
+  S-Warschauer neue Fußgängerbrücke-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/400px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/800px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1200px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Warschauer_neue_Fußgängerbrücke-3.jpg/1920px-S-Warschauer_neue_Fußgängerbrücke-3.jpg
+  U s-warschauer-str fussbruecke 2023-09-03.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/U_s-warschauer-str_fussbruecke_2023-09-03.png/400px-U_s-warschauer-str_fussbruecke_2023-09-03.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/U_s-warschauer-str_fussbruecke_2023-09-03.png/800px-U_s-warschauer-str_fussbruecke_2023-09-03.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/U_s-warschauer-str_fussbruecke_2023-09-03.png/1200px-U_s-warschauer-str_fussbruecke_2023-09-03.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/U_s-warschauer-str_fussbruecke_2023-09-03.png/1920px-U_s-warschauer-str_fussbruecke_2023-09-03.png
+  Sonnenuntergang von der Brücke am Bahnhof Warschauer Straße 2022-06-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg/400px-Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg/800px-Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg/1200px-Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg/1920px-Sonnenuntergang_von_der_Brücke_am_Bahnhof_Warschauer_Straße_2022-06-02.jpg
+  Warschauer S Bahnhof - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Warschauer_S_Bahnhof_-_panoramio.jpg/400px-Warschauer_S_Bahnhof_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Warschauer_S_Bahnhof_-_panoramio.jpg/800px-Warschauer_S_Bahnhof_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Warschauer_S_Bahnhof_-_panoramio.jpg/1200px-Warschauer_S_Bahnhof_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Warschauer_S_Bahnhof_-_panoramio.jpg/1920px-Warschauer_S_Bahnhof_-_panoramio.jpg
 ---
 
 ## Overview

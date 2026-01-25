@@ -1,20 +1,49 @@
 ---
-title: "Burg Möckmühl"
+title: Burg Möckmühl
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3247
 longitude: 9.36056
 images:
-  - "/images-sites/burg-moeckmuehl/02-cbf8e1ee-800w.webp"
-  - "/images-sites/burg-moeckmuehl/03-1e3599ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg/1200px-Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/1200px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Moeckmuehl_01.JPG/1200px-Burg_Moeckmuehl_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landappbw_266128_1818_Möckmühl.jpg/1200px-Landappbw_266128_1818_Möckmühl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Moeckmuehl-burg2008.jpg/1200px-Moeckmuehl-burg2008.jpg
+image_srcset:
+  Möckmühl - Altstadt - Blick vom Turm der Stadtkirche auf Hang und Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg/400px-Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg/800px-Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg/1200px-Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg/1920px-Möckmühl_-_Altstadt_-_Blick_vom_Turm_der_Stadtkirche_auf_Hang_und_Burg.jpg
+  Landappbw 296006 1817 Blick auf Möckmühl aus südöstlicher Richtung. Möckmühl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/400px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/800px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/1200px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg/1920px-Landappbw_296006_1817_Blick_auf_Möckmühl_aus_südöstlicher_Richtung._Möckmühl.jpg
+  Burg Moeckmuehl 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Moeckmuehl_01.JPG/400px-Burg_Moeckmuehl_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Moeckmuehl_01.JPG/800px-Burg_Moeckmuehl_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Moeckmuehl_01.JPG/1200px-Burg_Moeckmuehl_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Burg_Moeckmuehl_01.JPG/1920px-Burg_Moeckmuehl_01.JPG
+  Landappbw 266128 1818 Möckmühl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landappbw_266128_1818_Möckmühl.jpg/400px-Landappbw_266128_1818_Möckmühl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landappbw_266128_1818_Möckmühl.jpg/800px-Landappbw_266128_1818_Möckmühl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landappbw_266128_1818_Möckmühl.jpg/1200px-Landappbw_266128_1818_Möckmühl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landappbw_266128_1818_Möckmühl.jpg/1920px-Landappbw_266128_1818_Möckmühl.jpg
+  Moeckmuehl-burg2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Moeckmuehl-burg2008.jpg/400px-Moeckmuehl-burg2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Moeckmuehl-burg2008.jpg/800px-Moeckmuehl-burg2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Moeckmuehl-burg2008.jpg/1200px-Moeckmuehl-burg2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Moeckmuehl-burg2008.jpg/1920px-Moeckmuehl-burg2008.jpg
 ---
 
 ## Overview

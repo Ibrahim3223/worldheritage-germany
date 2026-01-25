@@ -1,21 +1,43 @@
 ---
-title: "Alpine Museum"
+title: Alpine Museum
 date: 2026-01-23
 draft: false
-description: "museum in Munich"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Munich
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.13519722
 longitude: 11.58902222
 images:
-  - "/images-sites/alpine-museum/01-5034f479-800w.webp"
-  - "/images-sites/alpine-museum/02-20d7e322-800w.webp"
-  - "/images-sites/alpine-museum/03-c58f23ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alpines_Museum_München_Ausstellung_07.jpg/1200px-Alpines_Museum_München_Ausstellung_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Slovenian_Alpine_Museum,_Mojstrana.jpg/1200px-Slovenian_Alpine_Museum,_Mojstrana.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alpines_Museum_und_PH_Bern_(2022).jpg/1200px-Alpines_Museum_und_PH_Bern_(2022).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schweizerisches_Alpines_Museum.jpg/1200px-Schweizerisches_Alpines_Museum.jpg
+image_srcset:
+  Alpines Museum München Ausstellung 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alpines_Museum_München_Ausstellung_07.jpg/400px-Alpines_Museum_München_Ausstellung_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alpines_Museum_München_Ausstellung_07.jpg/800px-Alpines_Museum_München_Ausstellung_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alpines_Museum_München_Ausstellung_07.jpg/1200px-Alpines_Museum_München_Ausstellung_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alpines_Museum_München_Ausstellung_07.jpg/1920px-Alpines_Museum_München_Ausstellung_07.jpg
+  Slovenian Alpine Museum, Mojstrana.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Slovenian_Alpine_Museum,_Mojstrana.jpg/400px-Slovenian_Alpine_Museum,_Mojstrana.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Slovenian_Alpine_Museum,_Mojstrana.jpg/800px-Slovenian_Alpine_Museum,_Mojstrana.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Slovenian_Alpine_Museum,_Mojstrana.jpg/1200px-Slovenian_Alpine_Museum,_Mojstrana.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Slovenian_Alpine_Museum,_Mojstrana.jpg/1920px-Slovenian_Alpine_Museum,_Mojstrana.jpg
+  Alpines Museum und PH Bern (2022).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alpines_Museum_und_PH_Bern_(2022).jpg/400px-Alpines_Museum_und_PH_Bern_(2022).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alpines_Museum_und_PH_Bern_(2022).jpg/800px-Alpines_Museum_und_PH_Bern_(2022).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alpines_Museum_und_PH_Bern_(2022).jpg/1200px-Alpines_Museum_und_PH_Bern_(2022).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alpines_Museum_und_PH_Bern_(2022).jpg/1920px-Alpines_Museum_und_PH_Bern_(2022).jpg
+  Schweizerisches Alpines Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schweizerisches_Alpines_Museum.jpg/400px-Schweizerisches_Alpines_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schweizerisches_Alpines_Museum.jpg/800px-Schweizerisches_Alpines_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schweizerisches_Alpines_Museum.jpg/1200px-Schweizerisches_Alpines_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schweizerisches_Alpines_Museum.jpg/1920px-Schweizerisches_Alpines_Museum.jpg
 ---
 
 ## Overview

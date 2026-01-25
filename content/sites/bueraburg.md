@@ -1,27 +1,43 @@
 ---
-title: "Büraburg"
+title: Büraburg
 date: 2026-01-23
 draft: false
-description: "castle ruin"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: castle ruin
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.120555555
 longitude: 9.236388888
-
-# Images
 images:
-  - "/images-sites/bueraburg/01-997e8768-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Büraberg_Kreuzweg_Altar.jpg/1200px-Büraberg_Kreuzweg_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Büraburg_Kirche_Altar.jpg/1200px-Büraburg_Kirche_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Medieval_Zoomorphic_Hinge_(FindID_732854).jpg/1200px-Medieval_Zoomorphic_Hinge_(FindID_732854).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1200px-135_3570_Büraburg.jpg
+image_srcset:
+  Büraberg Kreuzweg Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Büraberg_Kreuzweg_Altar.jpg/400px-Büraberg_Kreuzweg_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Büraberg_Kreuzweg_Altar.jpg/800px-Büraberg_Kreuzweg_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Büraberg_Kreuzweg_Altar.jpg/1200px-Büraberg_Kreuzweg_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Büraberg_Kreuzweg_Altar.jpg/1920px-Büraberg_Kreuzweg_Altar.jpg
+  Büraburg Kirche Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Büraburg_Kirche_Altar.jpg/400px-Büraburg_Kirche_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Büraburg_Kirche_Altar.jpg/800px-Büraburg_Kirche_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Büraburg_Kirche_Altar.jpg/1200px-Büraburg_Kirche_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Büraburg_Kirche_Altar.jpg/1920px-Büraburg_Kirche_Altar.jpg
+  Medieval Zoomorphic Hinge (FindID 732854).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Medieval_Zoomorphic_Hinge_(FindID_732854).jpg/400px-Medieval_Zoomorphic_Hinge_(FindID_732854).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Medieval_Zoomorphic_Hinge_(FindID_732854).jpg/800px-Medieval_Zoomorphic_Hinge_(FindID_732854).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Medieval_Zoomorphic_Hinge_(FindID_732854).jpg/1200px-Medieval_Zoomorphic_Hinge_(FindID_732854).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Medieval_Zoomorphic_Hinge_(FindID_732854).jpg/1920px-Medieval_Zoomorphic_Hinge_(FindID_732854).jpg
+  135 3570 Büraburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/400px-135_3570_Büraburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/800px-135_3570_Büraburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1200px-135_3570_Büraburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/135_3570_Büraburg.jpg/1920px-135_3570_Büraburg.jpg
 ---
 
 ## Overview

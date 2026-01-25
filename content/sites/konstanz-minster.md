@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q427812"
 description: "Konstanz Minster, a remarkable Roman Catholic church, serves as a key historical and architectural landmark in Constance, Germany. Founded in 1001, this..."
 images:
-  - "/images-sites/konstanz-minster/01-6045c63f-1920w.webp"
-  - "/images-sites/konstanz-minster/02-26a6c919-1920w.webp"
-  - "/images-sites/konstanz-minster/03-85fb0c69-1920w.webp"
+  - "/images/konstanz-minster/01-6045c63f-1920w.webp"
+  - "/images/konstanz-minster/02-26a6c919-1920w.webp"
+  - "/images/konstanz-minster/03-85fb0c69-1920w.webp"
 ---
 
 ## Overview

@@ -21,8 +21,8 @@ longitude: 10.48
 
 # Images
 images:
-  - "/images-sites/thueringer-wald-biosphere-reserve/01-3831aa10-800w.webp"
-  - "/images-sites/thueringer-wald-biosphere-reserve/02-3cb573b3-800w.webp"
+  - "/images/thueringer-wald-biosphere-reserve/01-3831aa10-800w.webp"
+  - "/images/thueringer-wald-biosphere-reserve/02-3cb573b3-800w.webp"
 ---
 
 ## Overview

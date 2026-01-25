@@ -1,27 +1,49 @@
 ---
-title: "Burg Eversberg"
+title: Burg Eversberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3617
 longitude: 8.33417
-
-# Images
 images:
-  - "/images-sites/burg-eversberg/01-9096ed5d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Eversberg-01.jpg/1200px-Burg_Eversberg-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/1200px-Eversberg_(Meschede_-_Germany)_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bergfried_Eversberg.jpg/1200px-Bergfried_Eversberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eversberg1740.JPG/1200px-Eversberg1740.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Eversberg.jpg/1200px-Burgruine_Eversberg.jpg
+image_srcset:
+  Burg Eversberg-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Eversberg-01.jpg/400px-Burg_Eversberg-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Eversberg-01.jpg/800px-Burg_Eversberg-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Eversberg-01.jpg/1200px-Burg_Eversberg-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Burg_Eversberg-01.jpg/1920px-Burg_Eversberg-01.jpg
+  Eversberg (Meschede - Germany) (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/400px-Eversberg_(Meschede_-_Germany)_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/800px-Eversberg_(Meschede_-_Germany)_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/1200px-Eversberg_(Meschede_-_Germany)_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Eversberg_(Meschede_-_Germany)_(7).jpg/1920px-Eversberg_(Meschede_-_Germany)_(7).jpg
+  Bergfried Eversberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bergfried_Eversberg.jpg/400px-Bergfried_Eversberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bergfried_Eversberg.jpg/800px-Bergfried_Eversberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bergfried_Eversberg.jpg/1200px-Bergfried_Eversberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bergfried_Eversberg.jpg/1920px-Bergfried_Eversberg.jpg
+  Eversberg1740.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eversberg1740.JPG/400px-Eversberg1740.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eversberg1740.JPG/800px-Eversberg1740.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eversberg1740.JPG/1200px-Eversberg1740.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eversberg1740.JPG/1920px-Eversberg1740.JPG
+  Burgruine Eversberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Eversberg.jpg/400px-Burgruine_Eversberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Eversberg.jpg/800px-Burgruine_Eversberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Eversberg.jpg/1200px-Burgruine_Eversberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Burgruine_Eversberg.jpg/1920px-Burgruine_Eversberg.jpg
 ---
 
 ## Overview

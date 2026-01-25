@@ -13,7 +13,7 @@ regions:
 latitude: 47.99361111
 longitude: 7.84888889
 images:
-  - "/images-sites/martinstor/01-2a1fd081-800w.webp"
+  - "/images/martinstor/01-2a1fd081-800w.webp"
 ---
 
 ## Overview

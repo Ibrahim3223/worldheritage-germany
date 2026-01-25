@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1698933"
 description: "St. Johns Church, a striking example of baroque architecture, is located in the Frankfurt-Bornheim district of Germany. Founded in 1779, this Lutheran c..."
 images:
-  - "/images-sites/st-john-s-church/01-710544a1-1920w.webp"
-  - "/images-sites/st-john-s-church/02-23766794-1920w.webp"
-  - "/images-sites/st-john-s-church/03-c6e18243-1920w.webp"
+  - "/images/st-john-s-church/01-710544a1-1920w.webp"
+  - "/images/st-john-s-church/02-23766794-1920w.webp"
+  - "/images/st-john-s-church/03-c6e18243-1920w.webp"
 ---
 
 ## Overview

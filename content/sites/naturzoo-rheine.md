@@ -13,7 +13,7 @@ regions:
 latitude: 52.297
 longitude: 7.42239
 images:
-  - "/images-sites/naturzoo-rheine/01-92e45399-800w.webp"
+  - "/images/naturzoo-rheine/01-92e45399-800w.webp"
 ---
 
 ## Overview

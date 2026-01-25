@@ -13,7 +13,7 @@ regions:
 latitude: 53.8554113
 longitude: 13.6917945
 images:
-  - "/images-sites/steintor-anklam/01-b70a4832-800w.webp"
+  - "/images/steintor-anklam/01-b70a4832-800w.webp"
 ---
 
 ## Overview

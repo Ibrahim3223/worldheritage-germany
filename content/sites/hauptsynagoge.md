@@ -1,20 +1,49 @@
 ---
-title: "Hauptsynagoge"
+title: Hauptsynagoge
 date: 2026-01-23
 draft: false
-description: "in Frankfurt"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: in Frankfurt
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 50.1136
 longitude: 8.68778
 images:
-  - "/images-sites/hauptsynagoge/01-cf82e7cd-800w.webp"
-  - "/images-sites/hauptsynagoge/02-7ca8a47a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rabbi_Cossmann_Werner_-1854-1918.jpg/1200px-Rabbi_Cossmann_Werner_-1854-1918.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Hauptsynagoge_München_WBZ_1888.jpg/1200px-Alte_Hauptsynagoge_München_WBZ_1888.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hauptsynagoge_1_6.jpg/1200px-Hauptsynagoge_1_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg/1200px-Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg/1200px-Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg
+image_srcset:
+  Rabbi Cossmann Werner -1854-1918.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rabbi_Cossmann_Werner_-1854-1918.jpg/400px-Rabbi_Cossmann_Werner_-1854-1918.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rabbi_Cossmann_Werner_-1854-1918.jpg/800px-Rabbi_Cossmann_Werner_-1854-1918.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rabbi_Cossmann_Werner_-1854-1918.jpg/1200px-Rabbi_Cossmann_Werner_-1854-1918.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rabbi_Cossmann_Werner_-1854-1918.jpg/1920px-Rabbi_Cossmann_Werner_-1854-1918.jpg
+  Alte Hauptsynagoge München WBZ 1888.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Hauptsynagoge_München_WBZ_1888.jpg/400px-Alte_Hauptsynagoge_München_WBZ_1888.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Hauptsynagoge_München_WBZ_1888.jpg/800px-Alte_Hauptsynagoge_München_WBZ_1888.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Hauptsynagoge_München_WBZ_1888.jpg/1200px-Alte_Hauptsynagoge_München_WBZ_1888.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Alte_Hauptsynagoge_München_WBZ_1888.jpg/1920px-Alte_Hauptsynagoge_München_WBZ_1888.jpg
+  Hauptsynagoge 1 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hauptsynagoge_1_6.jpg/400px-Hauptsynagoge_1_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hauptsynagoge_1_6.jpg/800px-Hauptsynagoge_1_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hauptsynagoge_1_6.jpg/1200px-Hauptsynagoge_1_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hauptsynagoge_1_6.jpg/1920px-Hauptsynagoge_1_6.jpg
+  Synagoge Herzog-Max-Strasse Lenbachplatz 1889.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg/400px-Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg/800px-Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg/1200px-Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg/1920px-Synagoge_Herzog-Max-Strasse_Lenbachplatz_1889.jpg
+  Plan Bergerr pour la grande synagogue de Munich - 1880.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg/400px-Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg/800px-Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg/1200px-Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg/1920px-Plan_Bergerr_pour_la_grande_synagogue_de_Munich_-_1880.jpg
 ---
 
 ## Overview

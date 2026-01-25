@@ -1,19 +1,49 @@
 ---
-title: "Bach memorial Arnstadt"
+title: Bach memorial Arnstadt
 date: 2026-01-23
 draft: false
-description: "monument in Arnstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Arnstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8336453
 longitude: 10.9455261
 images:
-  - "/images-sites/bach-memorial-arnstadt/01-0d3835a2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/J23_893_Bachdenkmal.jpg/1200px-J23_893_Bachdenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/J23_891_Bachdenkmal.jpg/1200px-J23_891_Bachdenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnstadt_Bachdenkmal_detail.jpg/1200px-Arnstadt_Bachdenkmal_detail.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARN-Bachdenkmal-2.jpg/1200px-ARN-Bachdenkmal-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bachdenkmal_Arnstadt.JPG/1200px-Bachdenkmal_Arnstadt.JPG
+image_srcset:
+  J23 893 Bachdenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/J23_893_Bachdenkmal.jpg/400px-J23_893_Bachdenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/J23_893_Bachdenkmal.jpg/800px-J23_893_Bachdenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/J23_893_Bachdenkmal.jpg/1200px-J23_893_Bachdenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/J23_893_Bachdenkmal.jpg/1920px-J23_893_Bachdenkmal.jpg
+  J23 891 Bachdenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/J23_891_Bachdenkmal.jpg/400px-J23_891_Bachdenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/J23_891_Bachdenkmal.jpg/800px-J23_891_Bachdenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/J23_891_Bachdenkmal.jpg/1200px-J23_891_Bachdenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/J23_891_Bachdenkmal.jpg/1920px-J23_891_Bachdenkmal.jpg
+  Arnstadt Bachdenkmal detail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnstadt_Bachdenkmal_detail.jpg/400px-Arnstadt_Bachdenkmal_detail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnstadt_Bachdenkmal_detail.jpg/800px-Arnstadt_Bachdenkmal_detail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnstadt_Bachdenkmal_detail.jpg/1200px-Arnstadt_Bachdenkmal_detail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Arnstadt_Bachdenkmal_detail.jpg/1920px-Arnstadt_Bachdenkmal_detail.jpg
+  ARN-Bachdenkmal-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARN-Bachdenkmal-2.jpg/400px-ARN-Bachdenkmal-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARN-Bachdenkmal-2.jpg/800px-ARN-Bachdenkmal-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARN-Bachdenkmal-2.jpg/1200px-ARN-Bachdenkmal-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARN-Bachdenkmal-2.jpg/1920px-ARN-Bachdenkmal-2.jpg
+  Bachdenkmal Arnstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bachdenkmal_Arnstadt.JPG/400px-Bachdenkmal_Arnstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bachdenkmal_Arnstadt.JPG/800px-Bachdenkmal_Arnstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bachdenkmal_Arnstadt.JPG/1200px-Bachdenkmal_Arnstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bachdenkmal_Arnstadt.JPG/1920px-Bachdenkmal_Arnstadt.JPG
 ---
 
 ## Overview

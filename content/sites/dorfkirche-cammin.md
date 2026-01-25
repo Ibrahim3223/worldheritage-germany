@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Cammin"
-site_name: "Dorfkirche Cammin"
-slug: "dorfkirche-cammin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Cammin
+site_name: Dorfkirche Cammin
+slug: dorfkirche-cammin
+region: Mecklenburg-Vorpommern
 latitude: 53.9898
 longitude: 12.3558
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244201"
-description: "In the heart of Cammin, Germany, the Dorfkirche Cammin stands as a striking example of Gothic architecture, constructed from fieldstone. This church bui..."
+- church building
+- religious site
+wikidata_id: Q1244201
+description: In the heart of Cammin, Germany, the Dorfkirche Cammin stands as a striking
+  example of Gothic architecture, constructed from fieldstone. This church bui...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirche%20in%20Cammin.JPG/1200px-Kirche%20in%20Cammin.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cammin_(bei_Rostock),_Dorfkirche_(4).jpg/1200px-Cammin_(bei_Rostock),_Dorfkirche_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg/1200px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg/1200px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/1200px-Kirche_in_Cammin.JPG
+image_srcset:
+  Kirche%20in%20Cammin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirche%20in%20Cammin.JPG/400px-Kirche%20in%20Cammin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirche%20in%20Cammin.JPG/800px-Kirche%20in%20Cammin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirche%20in%20Cammin.JPG/1200px-Kirche%20in%20Cammin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kirche%20in%20Cammin.JPG/1920px-Kirche%20in%20Cammin.JPG
+  Cammin (bei Rostock), Dorfkirche (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cammin_(bei_Rostock),_Dorfkirche_(4).jpg/400px-Cammin_(bei_Rostock),_Dorfkirche_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cammin_(bei_Rostock),_Dorfkirche_(4).jpg/800px-Cammin_(bei_Rostock),_Dorfkirche_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cammin_(bei_Rostock),_Dorfkirche_(4).jpg/1200px-Cammin_(bei_Rostock),_Dorfkirche_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cammin_(bei_Rostock),_Dorfkirche_(4).jpg/1920px-Cammin_(bei_Rostock),_Dorfkirche_(4).jpg
+  Cammin (bei Rostock), Dorfkirche, Orgel (23).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg/400px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg/800px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg/1200px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg/1920px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(23).jpg
+  Cammin (bei Rostock), Dorfkirche, Orgel (22).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg/400px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg/800px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg/1200px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg/1920px-Cammin_(bei_Rostock),_Dorfkirche,_Orgel_(22).jpg
+  Kirche in Cammin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/400px-Kirche_in_Cammin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/800px-Kirche_in_Cammin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/1200px-Kirche_in_Cammin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kirche_in_Cammin.JPG/1920px-Kirche_in_Cammin.JPG
 ---
 
 ## Overview

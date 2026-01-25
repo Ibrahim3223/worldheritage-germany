@@ -13,9 +13,9 @@ regions:
 latitude: 51.86388889
 longitude: 10.28972222
 images:
-  - "/images-sites/maassener-gaipel/01-3400b4e3-800w.webp"
-  - "/images-sites/maassener-gaipel/02-8fdb79f2-800w.webp"
-  - "/images-sites/maassener-gaipel/03-40737698-800w.webp"
+  - "/images/maassener-gaipel/01-3400b4e3-800w.webp"
+  - "/images/maassener-gaipel/02-8fdb79f2-800w.webp"
+  - "/images/maassener-gaipel/03-40737698-800w.webp"
 ---
 
 ## Overview

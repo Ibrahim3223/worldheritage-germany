@@ -21,9 +21,9 @@ longitude: 7.63314
 
 # Images
 images:
-  - "/images-sites/sterrenberg-castle/01-6f065446-800w.webp"
-  - "/images-sites/sterrenberg-castle/02-27ac1269-800w.webp"
-  - "/images-sites/sterrenberg-castle/03-56f79607-800w.webp"
+  - "/images/sterrenberg-castle/01-6f065446-800w.webp"
+  - "/images/sterrenberg-castle/02-27ac1269-800w.webp"
+  - "/images/sterrenberg-castle/03-56f79607-800w.webp"
 ---
 
 ## Overview

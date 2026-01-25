@@ -1,21 +1,49 @@
 ---
-title: "Fragrance Museum"
+title: Fragrance Museum
 date: 2026-01-23
 draft: false
-description: "museum in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.93774
 longitude: 6.95792
 images:
-  - "/images-sites/fragrance-museum/01-ac4d608f-800w.webp"
-  - "/images-sites/fragrance-museum/02-96ca7915-800w.webp"
-  - "/images-sites/fragrance-museum/03-edf504ee-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Shop_windows_Farina-Haus,_Cologne,_2014.jpg/1200px-Shop_windows_Farina-Haus,_Cologne,_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg/1200px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg/1200px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oita_Fragrance_Museum.jpg/1200px-Oita_Fragrance_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/1200px-Farina-Haus_Köln_(4213-15).jpg
+image_srcset:
+  Shop windows Farina-Haus, Cologne, 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Shop_windows_Farina-Haus,_Cologne,_2014.jpg/400px-Shop_windows_Farina-Haus,_Cologne,_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Shop_windows_Farina-Haus,_Cologne,_2014.jpg/800px-Shop_windows_Farina-Haus,_Cologne,_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Shop_windows_Farina-Haus,_Cologne,_2014.jpg/1200px-Shop_windows_Farina-Haus,_Cologne,_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Shop_windows_Farina-Haus,_Cologne,_2014.jpg/1920px-Shop_windows_Farina-Haus,_Cologne,_2014.jpg
+  Farina House, Cologne, Germany (Ank Kumar, Infosys Limited) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg/400px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg/800px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg/1200px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg/1920px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg
+  Farina House, Cologne, Germany (Ank Kumar, Infosys Limited) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg/400px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg/800px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg/1200px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg/1920px-Farina_House,_Cologne,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg
+  Oita Fragrance Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oita_Fragrance_Museum.jpg/400px-Oita_Fragrance_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oita_Fragrance_Museum.jpg/800px-Oita_Fragrance_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oita_Fragrance_Museum.jpg/1200px-Oita_Fragrance_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Oita_Fragrance_Museum.jpg/1920px-Oita_Fragrance_Museum.jpg
+  Farina-Haus Köln (4213-15).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/400px-Farina-Haus_Köln_(4213-15).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/800px-Farina-Haus_Köln_(4213-15).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/1200px-Farina-Haus_Köln_(4213-15).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Farina-Haus_Köln_(4213-15).jpg/1920px-Farina-Haus_Köln_(4213-15).jpg
 ---
 
 ## Overview

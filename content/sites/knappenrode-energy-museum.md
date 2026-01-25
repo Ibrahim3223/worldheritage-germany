@@ -13,7 +13,7 @@ regions:
 latitude: 51.3975
 longitude: 14.3292
 images:
-  - "/images-sites/knappenrode-energy-museum/01-edeea63f-800w.webp"
+  - "/images/knappenrode-energy-museum/01-edeea63f-800w.webp"
 ---
 
 ## Overview

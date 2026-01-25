@@ -13,9 +13,9 @@ regions:
 latitude: 51.9663
 longitude: 7.64653
 images:
-  - "/images-sites/villa-ten-hompel/01-8b73d7bf-800w.webp"
-  - "/images-sites/villa-ten-hompel/02-045499eb-800w.webp"
-  - "/images-sites/villa-ten-hompel/03-73294e87-800w.webp"
+  - "/images/villa-ten-hompel/01-8b73d7bf-800w.webp"
+  - "/images/villa-ten-hompel/02-045499eb-800w.webp"
+  - "/images/villa-ten-hompel/03-73294e87-800w.webp"
 ---
 
 ## Overview

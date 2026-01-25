@@ -1,24 +1,52 @@
 ---
-title: "Evangelische Universitätskirche Münster"
-site_name: "Evangelische Universitätskirche Münster"
-slug: "evangelische-universitatskirche-munster"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Universitätskirche Münster
+site_name: Evangelische Universitätskirche Münster
+slug: evangelische-universitatskirche-munster
+region: North Rhine-Westphalia
 latitude: 51.965555555556
 longitude: 7.6233333333333
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q2012971"
-description: "In the heart of Münsters Altstadt, the Evangelische Universitätskirche Münster stands as a striking example of Baroque architecture, inviting visitors t..."
+- church building
+- religious site
+wikidata_id: Q2012971
+description: In the heart of Münsters Altstadt, the Evangelische Universitätskirche
+  Münster stands as a striking example of Baroque architecture, inviting visitors
+  t...
 images:
-  - "/images-sites/evangelische-universitatskirche-munster/01-7850e879-1920w.webp"
-  - "/images-sites/evangelische-universitatskirche-munster/02-f6a4b452-1920w.webp"
-  - "/images-sites/evangelische-universitatskirche-munster/03-524faff4-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg/1200px-NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg/1200px-Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Münster,_Observantenkirche_--_2021_--_9112.jpg/1200px-Münster,_Observantenkirche_--_2021_--_9112.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Münster,_Observantenkirche_--_2014_--_6891.jpg/1200px-Münster,_Observantenkirche_--_2014_--_6891.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg/1200px-NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg
+image_srcset:
+  NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg/400px-NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg/800px-NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg/1200px-NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg/1920px-NRW%2C%20Munster%2C%20Altstadt%20-%20Evangelische%20Universitatskirche%2001.jpg
+  Münster, Evangelische Universitätskirche -- 2019 -- 3972.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg/400px-Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg/800px-Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg/1200px-Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg/1920px-Münster,_Evangelische_Universitätskirche_--_2019_--_3972.jpg
+  Münster, Observantenkirche -- 2021 -- 9112.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Münster,_Observantenkirche_--_2021_--_9112.jpg/400px-Münster,_Observantenkirche_--_2021_--_9112.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Münster,_Observantenkirche_--_2021_--_9112.jpg/800px-Münster,_Observantenkirche_--_2021_--_9112.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Münster,_Observantenkirche_--_2021_--_9112.jpg/1200px-Münster,_Observantenkirche_--_2021_--_9112.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Münster,_Observantenkirche_--_2021_--_9112.jpg/1920px-Münster,_Observantenkirche_--_2021_--_9112.jpg
+  Münster, Observantenkirche -- 2014 -- 6891.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Münster,_Observantenkirche_--_2014_--_6891.jpg/400px-Münster,_Observantenkirche_--_2014_--_6891.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Münster,_Observantenkirche_--_2014_--_6891.jpg/800px-Münster,_Observantenkirche_--_2014_--_6891.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Münster,_Observantenkirche_--_2014_--_6891.jpg/1200px-Münster,_Observantenkirche_--_2014_--_6891.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Münster,_Observantenkirche_--_2014_--_6891.jpg/1920px-Münster,_Observantenkirche_--_2014_--_6891.jpg
+  NRW, Munster, Altstadt - Evangelische Universitatskirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg/400px-NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg/800px-NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg/1200px-NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg/1920px-NRW,_Munster,_Altstadt_-_Evangelische_Universitatskirche_01.jpg
 ---
 
 ## Overview

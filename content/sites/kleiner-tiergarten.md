@@ -13,7 +13,7 @@ regions:
 latitude: 52.525555555
 longitude: 13.346111111
 images:
-  - "/images-sites/kleiner-tiergarten/01-4653801a-800w.webp"
+  - "/images/kleiner-tiergarten/01-4653801a-800w.webp"
 ---
 
 ## Overview

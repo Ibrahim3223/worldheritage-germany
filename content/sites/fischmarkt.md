@@ -1,19 +1,49 @@
 ---
-title: "Fischmarkt"
+title: Fischmarkt
 date: 2026-01-23
 draft: false
-description: "square in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9778
 longitude: 11.0289
 images:
-  - "/images-sites/fischmarkt/01-cf286d79-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Macaroni-Restaurant_in_Aachen_(CherryX).jpg/1200px-Macaroni-Restaurant_in_Aachen_(CherryX).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aachen_(51824786768).jpg/1200px-Aachen_(51824786768).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blick_auf_Fischmarkt_Erfurt.jpg/1200px-Blick_auf_Fischmarkt_Erfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aachen,_Fischmarkt_20140822_090.jpg/1200px-Aachen,_Fischmarkt_20140822_090.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aachen,_Hausecke_--_2016_--_2733.jpg/1200px-Aachen,_Hausecke_--_2016_--_2733.jpg
+image_srcset:
+  Macaroni-Restaurant in Aachen (CherryX).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Macaroni-Restaurant_in_Aachen_(CherryX).jpg/400px-Macaroni-Restaurant_in_Aachen_(CherryX).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Macaroni-Restaurant_in_Aachen_(CherryX).jpg/800px-Macaroni-Restaurant_in_Aachen_(CherryX).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Macaroni-Restaurant_in_Aachen_(CherryX).jpg/1200px-Macaroni-Restaurant_in_Aachen_(CherryX).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Macaroni-Restaurant_in_Aachen_(CherryX).jpg/1920px-Macaroni-Restaurant_in_Aachen_(CherryX).jpg
+  Aachen (51824786768).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aachen_(51824786768).jpg/400px-Aachen_(51824786768).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aachen_(51824786768).jpg/800px-Aachen_(51824786768).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aachen_(51824786768).jpg/1200px-Aachen_(51824786768).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aachen_(51824786768).jpg/1920px-Aachen_(51824786768).jpg
+  Blick auf Fischmarkt Erfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blick_auf_Fischmarkt_Erfurt.jpg/400px-Blick_auf_Fischmarkt_Erfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blick_auf_Fischmarkt_Erfurt.jpg/800px-Blick_auf_Fischmarkt_Erfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blick_auf_Fischmarkt_Erfurt.jpg/1200px-Blick_auf_Fischmarkt_Erfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Blick_auf_Fischmarkt_Erfurt.jpg/1920px-Blick_auf_Fischmarkt_Erfurt.jpg
+  Aachen, Fischmarkt 20140822 090.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aachen,_Fischmarkt_20140822_090.jpg/400px-Aachen,_Fischmarkt_20140822_090.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aachen,_Fischmarkt_20140822_090.jpg/800px-Aachen,_Fischmarkt_20140822_090.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aachen,_Fischmarkt_20140822_090.jpg/1200px-Aachen,_Fischmarkt_20140822_090.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aachen,_Fischmarkt_20140822_090.jpg/1920px-Aachen,_Fischmarkt_20140822_090.jpg
+  Aachen, Hausecke -- 2016 -- 2733.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aachen,_Hausecke_--_2016_--_2733.jpg/400px-Aachen,_Hausecke_--_2016_--_2733.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aachen,_Hausecke_--_2016_--_2733.jpg/800px-Aachen,_Hausecke_--_2016_--_2733.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aachen,_Hausecke_--_2016_--_2733.jpg/1200px-Aachen,_Hausecke_--_2016_--_2733.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aachen,_Hausecke_--_2016_--_2733.jpg/1920px-Aachen,_Hausecke_--_2016_--_2733.jpg
 ---
 
 ## Overview

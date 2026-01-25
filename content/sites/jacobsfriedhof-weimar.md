@@ -1,19 +1,49 @@
 ---
-title: "Jacobsfriedhof Weimar"
+title: Jacobsfriedhof Weimar
 date: 2026-01-23
 draft: false
-description: "cemetery in Weimar, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Weimar, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.983333333
 longitude: 11.327777777
 images:
-  - "/images-sites/jacobsfriedhof-weimar/01-d584bc73-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG/1200px-Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/WE-Jakobskirchhof-07.jpg/1200px-WE-Jakobskirchhof-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Portal_Jakobskirchhof_(bearbeitet).jpg/1200px-Portal_Jakobskirchhof_(bearbeitet).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WE-Jakobskirchhof-Tafel1.jpg/1200px-WE-Jakobskirchhof-Tafel1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg/1200px-Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg
+image_srcset:
+  Am Jacobskirchhof 2, Jacobsfriedhof, Gedenktafel Cranachgrab, Weimar.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG/400px-Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG/800px-Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG/1200px-Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG/1920px-Am_Jacobskirchhof_2,_Jacobsfriedhof,_Gedenktafel_Cranachgrab,_Weimar.JPG
+  WE-Jakobskirchhof-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/WE-Jakobskirchhof-07.jpg/400px-WE-Jakobskirchhof-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/WE-Jakobskirchhof-07.jpg/800px-WE-Jakobskirchhof-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/WE-Jakobskirchhof-07.jpg/1200px-WE-Jakobskirchhof-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/WE-Jakobskirchhof-07.jpg/1920px-WE-Jakobskirchhof-07.jpg
+  Portal Jakobskirchhof (bearbeitet).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Portal_Jakobskirchhof_(bearbeitet).jpg/400px-Portal_Jakobskirchhof_(bearbeitet).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Portal_Jakobskirchhof_(bearbeitet).jpg/800px-Portal_Jakobskirchhof_(bearbeitet).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Portal_Jakobskirchhof_(bearbeitet).jpg/1200px-Portal_Jakobskirchhof_(bearbeitet).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Portal_Jakobskirchhof_(bearbeitet).jpg/1920px-Portal_Jakobskirchhof_(bearbeitet).jpg
+  WE-Jakobskirchhof-Tafel1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WE-Jakobskirchhof-Tafel1.jpg/400px-WE-Jakobskirchhof-Tafel1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WE-Jakobskirchhof-Tafel1.jpg/800px-WE-Jakobskirchhof-Tafel1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WE-Jakobskirchhof-Tafel1.jpg/1200px-WE-Jakobskirchhof-Tafel1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/WE-Jakobskirchhof-Tafel1.jpg/1920px-WE-Jakobskirchhof-Tafel1.jpg
+  Lucas Cranach d. A. (Lucas Cranach the Elder) - geo.hlipp.de - 40041.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg/400px-Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg/800px-Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg/1200px-Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg/1920px-Lucas_Cranach_d._A._(Lucas_Cranach_the_Elder)_-_geo.hlipp.de_-_40041.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 47.478333333
 longitude: 11.081388888
 images:
-  - "/images-sites/riessersee/01-8c638565-800w.webp"
-  - "/images-sites/riessersee/02-0c997b64-800w.webp"
-  - "/images-sites/riessersee/03-2d8222f9-800w.webp"
+  - "/images/riessersee/01-8c638565-800w.webp"
+  - "/images/riessersee/02-0c997b64-800w.webp"
+  - "/images/riessersee/03-2d8222f9-800w.webp"
 ---
 
 ## Overview

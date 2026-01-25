@@ -1,27 +1,49 @@
 ---
-title: "Falkenstein"
+title: Falkenstein
 date: 2026-01-23
 draft: false
-description: "mountain of Saxon Switzerland, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: mountain of Saxon Switzerland, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.9183
 longitude: 14.2011
-
-# Images
 images:
-  - "/images-sites/falkenstein/01-9b563ef5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg/1200px-Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falkenstein_Oberpfalz.jpg/1200px-Falkenstein_Oberpfalz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19860809300NR_Falkenstein_Vogtland_Schloß.jpg/1200px-19860809300NR_Falkenstein_Vogtland_Schloß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Falkenstein_Vogtland_2009_(aka).jpg/1200px-Falkenstein_Vogtland_2009_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Falkenstein_fortikaĵo_5.jpg/1200px-Falkenstein_fortikaĵo_5.jpg
+image_srcset:
+  Kellergasse Oagossn in Falkenstein, Weinviertel-0876.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg/400px-Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg/800px-Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg/1200px-Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg/1920px-Kellergasse_Oagossn_in_Falkenstein,_Weinviertel-0876.jpg
+  Falkenstein Oberpfalz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falkenstein_Oberpfalz.jpg/400px-Falkenstein_Oberpfalz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falkenstein_Oberpfalz.jpg/800px-Falkenstein_Oberpfalz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falkenstein_Oberpfalz.jpg/1200px-Falkenstein_Oberpfalz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falkenstein_Oberpfalz.jpg/1920px-Falkenstein_Oberpfalz.jpg
+  19860809300NR Falkenstein Vogtland Schloß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19860809300NR_Falkenstein_Vogtland_Schloß.jpg/400px-19860809300NR_Falkenstein_Vogtland_Schloß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19860809300NR_Falkenstein_Vogtland_Schloß.jpg/800px-19860809300NR_Falkenstein_Vogtland_Schloß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19860809300NR_Falkenstein_Vogtland_Schloß.jpg/1200px-19860809300NR_Falkenstein_Vogtland_Schloß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/19860809300NR_Falkenstein_Vogtland_Schloß.jpg/1920px-19860809300NR_Falkenstein_Vogtland_Schloß.jpg
+  Falkenstein Vogtland 2009 (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Falkenstein_Vogtland_2009_(aka).jpg/400px-Falkenstein_Vogtland_2009_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Falkenstein_Vogtland_2009_(aka).jpg/800px-Falkenstein_Vogtland_2009_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Falkenstein_Vogtland_2009_(aka).jpg/1200px-Falkenstein_Vogtland_2009_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Falkenstein_Vogtland_2009_(aka).jpg/1920px-Falkenstein_Vogtland_2009_(aka).jpg
+  Falkenstein fortikaĵo 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Falkenstein_fortikaĵo_5.jpg/400px-Falkenstein_fortikaĵo_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Falkenstein_fortikaĵo_5.jpg/800px-Falkenstein_fortikaĵo_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Falkenstein_fortikaĵo_5.jpg/1200px-Falkenstein_fortikaĵo_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Falkenstein_fortikaĵo_5.jpg/1920px-Falkenstein_fortikaĵo_5.jpg
 ---
 
 ## Overview

@@ -1,27 +1,50 @@
 ---
-title: "Bärenschlössle"
+title: Bärenschlössle
 date: 2026-01-23
 draft: false
-description: "building in Stuttgart, Stuttgart Government Region, Bade-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: building in Stuttgart, Stuttgart Government Region, Bade-Württemberg,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.76086
 longitude: 9.0914
-
-# Images
 images:
-  - "/images-sites/baerenschloessle/01-0ddd204a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bärenschlössle_am_Bärensee.jpg/1200px-Bärenschlössle_am_Bärensee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bärenschlössle_im_Schnee_(1).jpg/1200px-Bärenschlössle_im_Schnee_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg/1200px-NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg/1200px-NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg/1200px-NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg
+image_srcset:
+  Bärenschlössle am Bärensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bärenschlössle_am_Bärensee.jpg/400px-Bärenschlössle_am_Bärensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bärenschlössle_am_Bärensee.jpg/800px-Bärenschlössle_am_Bärensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bärenschlössle_am_Bärensee.jpg/1200px-Bärenschlössle_am_Bärensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bärenschlössle_am_Bärensee.jpg/1920px-Bärenschlössle_am_Bärensee.jpg
+  Bärenschlössle im Schnee (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bärenschlössle_im_Schnee_(1).jpg/400px-Bärenschlössle_im_Schnee_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bärenschlössle_im_Schnee_(1).jpg/800px-Bärenschlössle_im_Schnee_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bärenschlössle_im_Schnee_(1).jpg/1200px-Bärenschlössle_im_Schnee_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bärenschlössle_im_Schnee_(1).jpg/1920px-Bärenschlössle_im_Schnee_(1).jpg
+  NSG Rotwildpark Stuttgart 2014 10 Bärenschlössle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg/400px-NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg/800px-NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg/1200px-NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg/1920px-NSG_Rotwildpark_Stuttgart_2014_10_Bärenschlössle.jpg
+  NSG Rotwildpark Stuttgart 2014 13 Bärenschlössle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg/400px-NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg/800px-NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg/1200px-NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg/1920px-NSG_Rotwildpark_Stuttgart_2014_13_Bärenschlössle.jpg
+  NSG Rotwildpark Stuttgart 2014 14 Bärenschlössle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg/400px-NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg/800px-NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg/1200px-NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg/1920px-NSG_Rotwildpark_Stuttgart_2014_14_Bärenschlössle.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Burg Windecken"
+title: Burg Windecken
 date: 2026-01-23
 draft: false
-description: "mittelalterliche Burg in Hessen, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: mittelalterliche Burg in Hessen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2237
 longitude: 8.88054
-
-# Images
 images:
-  - "/images-sites/burg-windecken/01-5cb4dda0-800w.webp"
-  - "/images-sites/burg-windecken/02-3eb96dff-800w.webp"
-  - "/images-sites/burg-windecken/03-407f2b9d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burgtor_Windecken.jpg/1200px-Burgtor_Windecken.jpg
+image_srcset:
+  Windecken, Schlossbergstraße Burg Wonnecken Nidderau 20220925 0061.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg/400px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg/800px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg/1920px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0061.jpg
+  Windecken, Schlossbergstraße Burg Wonnecken Nidderau 20220925 0067.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg/400px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg/800px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg/1920px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0067.jpg
+  Windecken, Schlossbergstraße Burg Wonnecken Nidderau 20220925 0064.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg/400px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg/800px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg/1920px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0064.jpg
+  Windecken, Schlossbergstraße Burg Wonnecken Nidderau 20220925 0063.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg/400px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg/800px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg/1200px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg/1920px-Windecken,_Schlossbergstraße_Burg_Wonnecken_Nidderau_20220925_0063.jpg
+  Burgtor Windecken.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burgtor_Windecken.jpg/400px-Burgtor_Windecken.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burgtor_Windecken.jpg/800px-Burgtor_Windecken.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burgtor_Windecken.jpg/1200px-Burgtor_Windecken.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Burgtor_Windecken.jpg/1920px-Burgtor_Windecken.jpg
 ---
 
 ## Overview

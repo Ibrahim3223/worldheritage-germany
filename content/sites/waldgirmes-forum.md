@@ -21,7 +21,7 @@ longitude: 8.54111
 
 # Images
 images:
-  - "/images-sites/waldgirmes-forum/01-67cb8d73-800w.webp"
+  - "/images/waldgirmes-forum/01-67cb8d73-800w.webp"
 ---
 
 ## Overview

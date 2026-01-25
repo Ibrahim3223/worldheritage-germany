@@ -13,7 +13,7 @@ regions:
 latitude: 51.648888888
 longitude: 6.578055555
 images:
-  - "/images-sites/wesel-transmitter/01-74678a85-800w.webp"
+  - "/images/wesel-transmitter/01-74678a85-800w.webp"
 ---
 
 ## Overview

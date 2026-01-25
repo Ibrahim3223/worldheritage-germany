@@ -1,19 +1,50 @@
 ---
-title: "Berliner Theater"
+title: Berliner Theater
 date: 2026-01-24
 draft: false
-description: "former theater in Charlottenstrasse in Kreuzberg, Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: former theater in Charlottenstrasse in Kreuzberg, Berlin
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5
 longitude: 13.4
 images:
-  - "/images-sites/berliner-theater/01-1decb7c0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg/1200px-Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg/1200px-Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berliner_Theater_Charlottenstraße.jpg/1200px-Berliner_Theater_Charlottenstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg/1200px-Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/1200px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
+image_srcset:
+  Theater am Nollendorfplatz in Berlin W und Berliner Theater in Berlin SW, Charlottenstraße 90-92, Bestuhlungen 1914.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg/400px-Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg/800px-Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg/1200px-Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg/1920px-Theater_am_Nollendorfplatz_in_Berlin_W_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1914.jpg
+  ? Königliches Schauspielhaus Berlin W (Nollendorfplatz) und Berliner Theater in
+    Berlin SW, Charlottenstraße 90-92, Bestuhlungen 1912.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg/400px-Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg/800px-Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg/1200px-Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg/1920px-Königliches_Schauspielhaus_Berlin_W_(Nollendorfplatz)_und_Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlungen_1912.jpg
+  Berliner Theater Charlottenstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berliner_Theater_Charlottenstraße.jpg/400px-Berliner_Theater_Charlottenstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berliner_Theater_Charlottenstraße.jpg/800px-Berliner_Theater_Charlottenstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berliner_Theater_Charlottenstraße.jpg/1200px-Berliner_Theater_Charlottenstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berliner_Theater_Charlottenstraße.jpg/1920px-Berliner_Theater_Charlottenstraße.jpg
+  Richard Skowronnek - Waterkant (BerlLeben 1904-03 AZander & SLabisch).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg/400px-Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg/800px-Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg/1200px-Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg/1920px-Richard_Skowronnek_-_Waterkant_(BerlLeben_1904-03_AZander_&_SLabisch).jpg
+  Berliner Theater in Berlin SW, Charlottenstraße 90-92, Bestuhlung 1912.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/400px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/800px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/1200px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg/1920px-Berliner_Theater_in_Berlin_SW,_Charlottenstraße_90-92,_Bestuhlung_1912.jpg
 ---
 
 ## Overview

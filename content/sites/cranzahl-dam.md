@@ -1,19 +1,49 @@
 ---
-title: "Cranzahl Dam"
+title: Cranzahl Dam
 date: 2026-01-23
 draft: false
-description: "dam in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: dam in Germany
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5039
 longitude: 13.0036
 images:
-  - "/images-sites/cranzahl-dam/01-754f2dac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Talsperre-Cranzahl_RX0020-0021.jpg/1200px-Talsperre-Cranzahl_RX0020-0021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/I10_718_Talsperre_Cranzahl.jpg/1200px-I10_718_Talsperre_Cranzahl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/I10_719_Talsperre_Cranzahl.jpg/1200px-I10_719_Talsperre_Cranzahl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berg_Bärenstein.JPG/1200px-Berg_Bärenstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HPIM7792.jpg/1200px-HPIM7792.jpg
+image_srcset:
+  Talsperre-Cranzahl RX0020-0021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Talsperre-Cranzahl_RX0020-0021.jpg/400px-Talsperre-Cranzahl_RX0020-0021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Talsperre-Cranzahl_RX0020-0021.jpg/800px-Talsperre-Cranzahl_RX0020-0021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Talsperre-Cranzahl_RX0020-0021.jpg/1200px-Talsperre-Cranzahl_RX0020-0021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Talsperre-Cranzahl_RX0020-0021.jpg/1920px-Talsperre-Cranzahl_RX0020-0021.jpg
+  I10 718 Talsperre Cranzahl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/I10_718_Talsperre_Cranzahl.jpg/400px-I10_718_Talsperre_Cranzahl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/I10_718_Talsperre_Cranzahl.jpg/800px-I10_718_Talsperre_Cranzahl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/I10_718_Talsperre_Cranzahl.jpg/1200px-I10_718_Talsperre_Cranzahl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/I10_718_Talsperre_Cranzahl.jpg/1920px-I10_718_Talsperre_Cranzahl.jpg
+  I10 719 Talsperre Cranzahl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/I10_719_Talsperre_Cranzahl.jpg/400px-I10_719_Talsperre_Cranzahl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/I10_719_Talsperre_Cranzahl.jpg/800px-I10_719_Talsperre_Cranzahl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/I10_719_Talsperre_Cranzahl.jpg/1200px-I10_719_Talsperre_Cranzahl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/I10_719_Talsperre_Cranzahl.jpg/1920px-I10_719_Talsperre_Cranzahl.jpg
+  Berg Bärenstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berg_Bärenstein.JPG/400px-Berg_Bärenstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berg_Bärenstein.JPG/800px-Berg_Bärenstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berg_Bärenstein.JPG/1200px-Berg_Bärenstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Berg_Bärenstein.JPG/1920px-Berg_Bärenstein.JPG
+  HPIM7792.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HPIM7792.jpg/400px-HPIM7792.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HPIM7792.jpg/800px-HPIM7792.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HPIM7792.jpg/1200px-HPIM7792.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/HPIM7792.jpg/1920px-HPIM7792.jpg
 ---
 
 ## Overview

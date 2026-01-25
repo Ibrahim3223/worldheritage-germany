@@ -13,7 +13,7 @@ regions:
 latitude: 52.2293
 longitude: 11.0087
 images:
-  - "/images-sites/university-of-helmstedt/01-54ac65e2-800w.webp"
+  - "/images/university-of-helmstedt/01-54ac65e2-800w.webp"
 ---
 
 ## Overview

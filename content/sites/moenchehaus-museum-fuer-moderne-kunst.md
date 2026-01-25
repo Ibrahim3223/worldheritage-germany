@@ -21,7 +21,7 @@ longitude: 10.4243
 
 # Images
 images:
-  - "/images-sites/moenchehaus-museum-fuer-moderne-kunst/01-357bb328-800w.webp"
+  - "/images/moenchehaus-museum-fuer-moderne-kunst/01-357bb328-800w.webp"
 ---
 
 ## Overview

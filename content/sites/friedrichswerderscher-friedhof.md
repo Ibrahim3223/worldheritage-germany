@@ -1,19 +1,49 @@
 ---
-title: "Friedrichswerderscher Friedhof"
+title: Friedrichswerderscher Friedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.486388888
 longitude: 13.403888888
 images:
-  - "/images-sites/friedrichswerderscher-friedhof/01-b32c3ddb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/1200px-2009-04-09_Berlin_652.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg/1200px-Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2016-09-01_Grab-Hermann-Weigand.jpg/1200px-2016-09-01_Grab-Hermann-Weigand.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BergmannFriedhof1.jpg/1200px-BergmannFriedhof1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/BergmannFriedhof9.jpg/1200px-BergmannFriedhof9.jpg
+image_srcset:
+  2009-04-09 Berlin 652.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/400px-2009-04-09_Berlin_652.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/800px-2009-04-09_Berlin_652.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/1200px-2009-04-09_Berlin_652.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2009-04-09_Berlin_652.jpg/1920px-2009-04-09_Berlin_652.jpg
+  Kunheim Hugo und Erich Grab in Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg/400px-Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg/800px-Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg/1200px-Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg/1920px-Kunheim_Hugo_und_Erich_Grab_in_Berlin.jpg
+  2016-09-01 Grab-Hermann-Weigand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2016-09-01_Grab-Hermann-Weigand.jpg/400px-2016-09-01_Grab-Hermann-Weigand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2016-09-01_Grab-Hermann-Weigand.jpg/800px-2016-09-01_Grab-Hermann-Weigand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2016-09-01_Grab-Hermann-Weigand.jpg/1200px-2016-09-01_Grab-Hermann-Weigand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2016-09-01_Grab-Hermann-Weigand.jpg/1920px-2016-09-01_Grab-Hermann-Weigand.jpg
+  BergmannFriedhof1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BergmannFriedhof1.jpg/400px-BergmannFriedhof1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BergmannFriedhof1.jpg/800px-BergmannFriedhof1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BergmannFriedhof1.jpg/1200px-BergmannFriedhof1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BergmannFriedhof1.jpg/1920px-BergmannFriedhof1.jpg
+  BergmannFriedhof9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/BergmannFriedhof9.jpg/400px-BergmannFriedhof9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/BergmannFriedhof9.jpg/800px-BergmannFriedhof9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/BergmannFriedhof9.jpg/1200px-BergmannFriedhof9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/BergmannFriedhof9.jpg/1920px-BergmannFriedhof9.jpg
 ---
 
 ## Overview

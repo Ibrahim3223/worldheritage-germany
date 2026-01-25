@@ -13,7 +13,7 @@ regions:
 latitude: 51.2269
 longitude: 6.95056
 images:
-  - "/images-sites/neanderthal-museum/01-b6111748-800w.webp"
+  - "/images/neanderthal-museum/01-b6111748-800w.webp"
 ---
 
 ## Overview

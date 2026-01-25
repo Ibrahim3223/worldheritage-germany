@@ -13,7 +13,7 @@ regions:
 latitude: 50.1422
 longitude: 7.16694
 images:
-  - "/images-sites/reichsburg-cochem/01-48836042-800w.webp"
+  - "/images/reichsburg-cochem/01-48836042-800w.webp"
 ---
 
 ## Overview

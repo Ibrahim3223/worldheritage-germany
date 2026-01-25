@@ -1,21 +1,49 @@
 ---
-title: "Alter Nordfriedhof"
+title: Alter Nordfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Munich"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Munich
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1537
 longitude: 11.5702
 images:
-  - "/images-sites/alter-nordfriedhof/01-937c30e1-800w.webp"
-  - "/images-sites/alter-nordfriedhof/02-3f83d28c-800w.webp"
-  - "/images-sites/alter-nordfriedhof/03-365112af-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20230129_Munich_Alter_Nordfriedhof_03.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20230129_Munich_Alter_Nordfriedhof_07.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20230129_Munich_Alter_Nordfriedhof_01.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20230129_Munich_Alter_Nordfriedhof_06.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1200px-München_Alter_Nordfriedhof_Arkaden.jpg
+image_srcset:
+  20230129 Munich Alter Nordfriedhof 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20230129_Munich_Alter_Nordfriedhof_03.jpg/400px-20230129_Munich_Alter_Nordfriedhof_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20230129_Munich_Alter_Nordfriedhof_03.jpg/800px-20230129_Munich_Alter_Nordfriedhof_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20230129_Munich_Alter_Nordfriedhof_03.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20230129_Munich_Alter_Nordfriedhof_03.jpg/1920px-20230129_Munich_Alter_Nordfriedhof_03.jpg
+  20230129 Munich Alter Nordfriedhof 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20230129_Munich_Alter_Nordfriedhof_07.jpg/400px-20230129_Munich_Alter_Nordfriedhof_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20230129_Munich_Alter_Nordfriedhof_07.jpg/800px-20230129_Munich_Alter_Nordfriedhof_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20230129_Munich_Alter_Nordfriedhof_07.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20230129_Munich_Alter_Nordfriedhof_07.jpg/1920px-20230129_Munich_Alter_Nordfriedhof_07.jpg
+  20230129 Munich Alter Nordfriedhof 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20230129_Munich_Alter_Nordfriedhof_01.jpg/400px-20230129_Munich_Alter_Nordfriedhof_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20230129_Munich_Alter_Nordfriedhof_01.jpg/800px-20230129_Munich_Alter_Nordfriedhof_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20230129_Munich_Alter_Nordfriedhof_01.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20230129_Munich_Alter_Nordfriedhof_01.jpg/1920px-20230129_Munich_Alter_Nordfriedhof_01.jpg
+  20230129 Munich Alter Nordfriedhof 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20230129_Munich_Alter_Nordfriedhof_06.jpg/400px-20230129_Munich_Alter_Nordfriedhof_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20230129_Munich_Alter_Nordfriedhof_06.jpg/800px-20230129_Munich_Alter_Nordfriedhof_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20230129_Munich_Alter_Nordfriedhof_06.jpg/1200px-20230129_Munich_Alter_Nordfriedhof_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/20230129_Munich_Alter_Nordfriedhof_06.jpg/1920px-20230129_Munich_Alter_Nordfriedhof_06.jpg
+  München Alter Nordfriedhof Arkaden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/400px-München_Alter_Nordfriedhof_Arkaden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/800px-München_Alter_Nordfriedhof_Arkaden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1200px-München_Alter_Nordfriedhof_Arkaden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/München_Alter_Nordfriedhof_Arkaden.jpg/1920px-München_Alter_Nordfriedhof_Arkaden.jpg
 ---
 
 ## Overview

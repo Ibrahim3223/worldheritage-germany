@@ -1,27 +1,49 @@
 ---
-title: "Castle Zelem"
+title: Castle Zelem
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.8183
 longitude: 6.03139
-
-# Images
 images:
-  - "/images-sites/castle-zelem/01-270a438f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Zelem_Mehr_PM22-01.jpg/1200px-Burg_Zelem_Mehr_PM22-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Zelem_Mehr_PM22-02.jpg/1200px-Burg_Zelem_Mehr_PM22-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Zelem_Mehr_PM22-03.jpg/1200px-Burg_Zelem_Mehr_PM22-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Zelem_Mehr_PM22-04.jpg/1200px-Burg_Zelem_Mehr_PM22-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Zelem_Vorderansicht.jpg/1200px-Burg_Zelem_Vorderansicht.jpg
+image_srcset:
+  Burg Zelem Mehr PM22-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Zelem_Mehr_PM22-01.jpg/400px-Burg_Zelem_Mehr_PM22-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Zelem_Mehr_PM22-01.jpg/800px-Burg_Zelem_Mehr_PM22-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Zelem_Mehr_PM22-01.jpg/1200px-Burg_Zelem_Mehr_PM22-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Burg_Zelem_Mehr_PM22-01.jpg/1920px-Burg_Zelem_Mehr_PM22-01.jpg
+  Burg Zelem Mehr PM22-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Zelem_Mehr_PM22-02.jpg/400px-Burg_Zelem_Mehr_PM22-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Zelem_Mehr_PM22-02.jpg/800px-Burg_Zelem_Mehr_PM22-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Zelem_Mehr_PM22-02.jpg/1200px-Burg_Zelem_Mehr_PM22-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Zelem_Mehr_PM22-02.jpg/1920px-Burg_Zelem_Mehr_PM22-02.jpg
+  Burg Zelem Mehr PM22-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Zelem_Mehr_PM22-03.jpg/400px-Burg_Zelem_Mehr_PM22-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Zelem_Mehr_PM22-03.jpg/800px-Burg_Zelem_Mehr_PM22-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Zelem_Mehr_PM22-03.jpg/1200px-Burg_Zelem_Mehr_PM22-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Burg_Zelem_Mehr_PM22-03.jpg/1920px-Burg_Zelem_Mehr_PM22-03.jpg
+  Burg Zelem Mehr PM22-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Zelem_Mehr_PM22-04.jpg/400px-Burg_Zelem_Mehr_PM22-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Zelem_Mehr_PM22-04.jpg/800px-Burg_Zelem_Mehr_PM22-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Zelem_Mehr_PM22-04.jpg/1200px-Burg_Zelem_Mehr_PM22-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg_Zelem_Mehr_PM22-04.jpg/1920px-Burg_Zelem_Mehr_PM22-04.jpg
+  Burg Zelem Vorderansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Zelem_Vorderansicht.jpg/400px-Burg_Zelem_Vorderansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Zelem_Vorderansicht.jpg/800px-Burg_Zelem_Vorderansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Zelem_Vorderansicht.jpg/1200px-Burg_Zelem_Vorderansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Burg_Zelem_Vorderansicht.jpg/1920px-Burg_Zelem_Vorderansicht.jpg
 ---
 
 ## Overview

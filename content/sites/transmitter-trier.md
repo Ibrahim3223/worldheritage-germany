@@ -13,7 +13,7 @@ regions:
 latitude: 49.770208333
 longitude: 6.657744444
 images:
-  - "/images-sites/transmitter-trier/01-936bd811-800w.webp"
+  - "/images/transmitter-trier/01-936bd811-800w.webp"
 ---
 
 ## Overview

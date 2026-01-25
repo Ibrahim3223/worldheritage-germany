@@ -1,23 +1,50 @@
 ---
-title: "Jesuit Church"
-site_name: "Jesuit Church"
-slug: "jesuit-church"
-region: "Hesse"
-
-# Location
+title: Jesuit Church
+site_name: Jesuit Church
+slug: jesuit-church
+region: Hesse
 latitude: 49.486
 longitude: 8.461
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q538329"
-description: "The Jesuit Church in Mannheim, Germany, is a striking example of Baroque architecture, reflecting the grandeur and artistry of its time. Constructed in ..."
+- cultural site
+wikidata_id: Q538329
+description: The Jesuit Church in Mannheim, Germany, is a striking example of Baroque
+  architecture, reflecting the grandeur and artistry of its time. Constructed in ...
 images:
-  - "/images-sites/jesuit-church/01-2c157783-1920w.webp"
-  - "/images-sites/jesuit-church/02-9c6e4e61-1920w.webp"
-  - "/images-sites/jesuit-church/03-e80cc8ed-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg/1200px-Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lviv_Ezuiti_3.jpg/1200px-Lviv_Ezuiti_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lviv_0057.jpg/1200px-Lviv_0057.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg/1200px-Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Гарнізонний_храм_святих_апостолів_3.jpg/1200px-Гарнізонний_храм_святих_апостолів_3.jpg
+image_srcset:
+  Wien, Stephansdom, Blick vom Südturm -- 2018 -- 3271-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg/400px-Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg/800px-Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg/1200px-Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg/1920px-Wien,_Stephansdom,_Blick_vom_Südturm_--_2018_--_3271-3.jpg
+  Lviv Ezuiti 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lviv_Ezuiti_3.jpg/400px-Lviv_Ezuiti_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lviv_Ezuiti_3.jpg/800px-Lviv_Ezuiti_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lviv_Ezuiti_3.jpg/1200px-Lviv_Ezuiti_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lviv_Ezuiti_3.jpg/1920px-Lviv_Ezuiti_3.jpg
+  Lviv 0057.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lviv_0057.jpg/400px-Lviv_0057.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lviv_0057.jpg/800px-Lviv_0057.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lviv_0057.jpg/1200px-Lviv_0057.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lviv_0057.jpg/1920px-Lviv_0057.jpg
+  Гарнізонний храм свв. апп. Петра і Павла.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg/400px-Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg/800px-Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg/1200px-Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg/1920px-Гарнізонний_храм_свв._апп._Петра_і_Павла.jpg
+  Гарнізонний храм святих апостолів 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Гарнізонний_храм_святих_апостолів_3.jpg/400px-Гарнізонний_храм_святих_апостолів_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Гарнізонний_храм_святих_апостолів_3.jpg/800px-Гарнізонний_храм_святих_апостолів_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Гарнізонний_храм_святих_апостолів_3.jpg/1200px-Гарнізонний_храм_святих_апостолів_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Гарнізонний_храм_святих_апостолів_3.jpg/1920px-Гарнізонний_храм_святих_апостолів_3.jpg
 ---
 
 ## Overview

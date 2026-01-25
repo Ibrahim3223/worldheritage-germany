@@ -1,19 +1,49 @@
 ---
-title: "Bode Gorge"
+title: Bode Gorge
 date: 2026-01-24
 draft: false
-description: "valley in Harz District, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Harz District, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 51.735555555
 longitude: 11.009722222
 images:
-  - "/images-sites/bode-gorge/01-f26f6ec1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bodetal_Harz_Bode_Gorge.jpg/1200px-Bodetal_Harz_Bode_Gorge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1200px-Bodetal_vom_Hexentanzplatz_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg/1200px-20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg/1200px-20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg/1200px-20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg
+image_srcset:
+  Bodetal Harz Bode Gorge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bodetal_Harz_Bode_Gorge.jpg/400px-Bodetal_Harz_Bode_Gorge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bodetal_Harz_Bode_Gorge.jpg/800px-Bodetal_Harz_Bode_Gorge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bodetal_Harz_Bode_Gorge.jpg/1200px-Bodetal_Harz_Bode_Gorge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bodetal_Harz_Bode_Gorge.jpg/1920px-Bodetal_Harz_Bode_Gorge.jpg
+  Bodetal vom Hexentanzplatz aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/400px-Bodetal_vom_Hexentanzplatz_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/800px-Bodetal_vom_Hexentanzplatz_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1200px-Bodetal_vom_Hexentanzplatz_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bodetal_vom_Hexentanzplatz_aus.jpg/1920px-Bodetal_vom_Hexentanzplatz_aus.jpg
+  20240509 xl 1334-Telefelsbrücke (Bode) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg/400px-20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg/800px-20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg/1200px-20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg/1920px-20240509_xl_1334-Telefelsbrücke_(Bode)_2.jpg
+  20240509 xl 1334-Telefelsbrücke (Bode) 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg/400px-20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg/800px-20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg/1200px-20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg/1920px-20240509_xl_1334-Telefelsbrücke_(Bode)_3.jpg
+  20240509 xl 1334-Telefelsbrücke (Bode) 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg/400px-20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg/800px-20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg/1200px-20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg/1920px-20240509_xl_1334-Telefelsbrücke_(Bode)_4.jpg
 ---
 
 ## Overview

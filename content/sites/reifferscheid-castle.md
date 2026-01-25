@@ -13,8 +13,8 @@ regions:
 latitude: 50.4768
 longitude: 6.46639
 images:
-  - "/images-sites/reifferscheid-castle/01-5fe4a19c-800w.webp"
-  - "/images-sites/reifferscheid-castle/03-6bdaac4f-800w.webp"
+  - "/images/reifferscheid-castle/01-5fe4a19c-800w.webp"
+  - "/images/reifferscheid-castle/03-6bdaac4f-800w.webp"
 ---
 
 ## Overview

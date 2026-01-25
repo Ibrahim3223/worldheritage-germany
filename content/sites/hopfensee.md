@@ -1,19 +1,49 @@
 ---
-title: "Hopfensee"
+title: Hopfensee
 date: 2026-01-23
 draft: false
-description: "lake in Ostallgäu, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ostallgäu, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.600833333
 longitude: 10.671111111
 images:
-  - "/images-sites/hopfensee/01-ae592c7a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hopfensee_01.jpg/1200px-Hopfensee_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Allgaeuer_Alpen_Panorama_1.jpg/1200px-Allgaeuer_Alpen_Panorama_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230831_xl_1341-Blick_über_den_Hopfensee.jpg/1200px-20230831_xl_1341-Blick_über_den_Hopfensee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hopfen_am_See_Uferstraße_001_1994_10_15.jpg/1200px-Hopfen_am_See_Uferstraße_001_1994_10_15.jpg
+image_srcset:
+  Hopfensee 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hopfensee_01.jpg/400px-Hopfensee_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hopfensee_01.jpg/800px-Hopfensee_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hopfensee_01.jpg/1200px-Hopfensee_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hopfensee_01.jpg/1920px-Hopfensee_01.jpg
+  Allgaeuer Alpen Panorama 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Allgaeuer_Alpen_Panorama_1.jpg/400px-Allgaeuer_Alpen_Panorama_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Allgaeuer_Alpen_Panorama_1.jpg/800px-Allgaeuer_Alpen_Panorama_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Allgaeuer_Alpen_Panorama_1.jpg/1200px-Allgaeuer_Alpen_Panorama_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Allgaeuer_Alpen_Panorama_1.jpg/1920px-Allgaeuer_Alpen_Panorama_1.jpg
+  20230831 xl 1341-Blick über den Hopfensee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230831_xl_1341-Blick_über_den_Hopfensee.jpg/400px-20230831_xl_1341-Blick_über_den_Hopfensee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230831_xl_1341-Blick_über_den_Hopfensee.jpg/800px-20230831_xl_1341-Blick_über_den_Hopfensee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230831_xl_1341-Blick_über_den_Hopfensee.jpg/1200px-20230831_xl_1341-Blick_über_den_Hopfensee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/20230831_xl_1341-Blick_über_den_Hopfensee.jpg/1920px-20230831_xl_1341-Blick_über_den_Hopfensee.jpg
+  Aerial image of the Hopfensee (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg/400px-Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg/800px-Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Hopfensee_(view_from_the_south).jpg
+  Hopfen am See Uferstraße 001 1994 10 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hopfen_am_See_Uferstraße_001_1994_10_15.jpg/400px-Hopfen_am_See_Uferstraße_001_1994_10_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hopfen_am_See_Uferstraße_001_1994_10_15.jpg/800px-Hopfen_am_See_Uferstraße_001_1994_10_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hopfen_am_See_Uferstraße_001_1994_10_15.jpg/1200px-Hopfen_am_See_Uferstraße_001_1994_10_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hopfen_am_See_Uferstraße_001_1994_10_15.jpg/1920px-Hopfen_am_See_Uferstraße_001_1994_10_15.jpg
 ---
 
 ## Overview

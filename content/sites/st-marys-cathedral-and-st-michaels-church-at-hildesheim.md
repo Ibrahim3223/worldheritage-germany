@@ -13,7 +13,7 @@ regions:
 latitude: 52.15278
 longitude: 9.94389
 images:
-  - "/images-sites/st-marys-cathedral-and-st-michaels-church-at-hildesheim/01-34cb5bd4-800w.webp"
+  - "/images/st-marys-cathedral-and-st-michaels-church-at-hildesheim/01-34cb5bd4-800w.webp"
 ---
 
 ## Overview

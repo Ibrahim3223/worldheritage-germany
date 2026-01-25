@@ -13,7 +13,7 @@ regions:
 latitude: 54.369248
 longitude: 10.153896
 images:
-  - "/images-sites/leuchtturm-kiel-holtenau/01-2453158d-800w.webp"
+  - "/images/leuchtturm-kiel-holtenau/01-2453158d-800w.webp"
 ---
 
 ## Overview

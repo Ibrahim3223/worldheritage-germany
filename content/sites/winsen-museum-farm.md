@@ -13,8 +13,8 @@ regions:
 latitude: 52.6803
 longitude: 9.92056
 images:
-  - "/images-sites/winsen-museum-farm/02-b45116e3-800w.webp"
-  - "/images-sites/winsen-museum-farm/03-90fdea39-800w.webp"
+  - "/images/winsen-museum-farm/02-b45116e3-800w.webp"
+  - "/images/winsen-museum-farm/03-90fdea39-800w.webp"
 ---
 
 ## Overview

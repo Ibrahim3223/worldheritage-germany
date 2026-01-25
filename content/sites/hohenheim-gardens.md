@@ -1,19 +1,49 @@
 ---
-title: "Hohenheim Gardens"
+title: Hohenheim Gardens
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7118
 longitude: 9.2113
 images:
-  - "/images-sites/hohenheim-gardens/01-da2863b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HohenheimGardens-pjt2.jpg/1200px-HohenheimGardens-pjt2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg/1200px-Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg/1200px-Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg/1200px-Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lavendellabyrinth_(Hohenheimer_Gärten).jpg/1200px-Lavendellabyrinth_(Hohenheimer_Gärten).jpg
+image_srcset:
+  HohenheimGardens-pjt2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HohenheimGardens-pjt2.jpg/400px-HohenheimGardens-pjt2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HohenheimGardens-pjt2.jpg/800px-HohenheimGardens-pjt2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HohenheimGardens-pjt2.jpg/1200px-HohenheimGardens-pjt2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/HohenheimGardens-pjt2.jpg/1920px-HohenheimGardens-pjt2.jpg
+  Die drei Geschwister - Stier (Edgar Haldenwang).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg/400px-Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg/800px-Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg/1200px-Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg/1920px-Die_drei_Geschwister_-_Stier_(Edgar_Haldenwang).jpg
+  Lavendellabyrinth, Beschreibung (Hohenheimer Gärten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg/400px-Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg/800px-Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg/1200px-Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg/1920px-Lavendellabyrinth,_Beschreibung_(Hohenheimer_Gärten).jpg
+  Die drei Geschwister - Text zu den Skulpturen von Edgar Haldenwang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg/400px-Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg/800px-Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg/1200px-Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg/1920px-Die_drei_Geschwister_-_Text_zu_den_Skulpturen_von_Edgar_Haldenwang.jpg
+  Lavendellabyrinth (Hohenheimer Gärten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lavendellabyrinth_(Hohenheimer_Gärten).jpg/400px-Lavendellabyrinth_(Hohenheimer_Gärten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lavendellabyrinth_(Hohenheimer_Gärten).jpg/800px-Lavendellabyrinth_(Hohenheimer_Gärten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lavendellabyrinth_(Hohenheimer_Gärten).jpg/1200px-Lavendellabyrinth_(Hohenheimer_Gärten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lavendellabyrinth_(Hohenheimer_Gärten).jpg/1920px-Lavendellabyrinth_(Hohenheimer_Gärten).jpg
 ---
 
 ## Overview

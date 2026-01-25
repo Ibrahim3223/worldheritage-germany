@@ -1,19 +1,49 @@
 ---
-title: "Detmolder Sommertheater"
+title: Detmolder Sommertheater
 date: 2026-01-24
 draft: false
-description: "theatre in Detmold, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Detmold, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.9289
 longitude: 8.87331
 images:
-  - "/images-sites/detmolder-sommertheater/01-f4eb74ef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1286395_Britten_-_Albert_Herring.jpg/1200px-P1286395_Britten_-_Albert_Herring.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Detmold_-_490_-_Allee_24.jpg/1200px-Detmold_-_490_-_Allee_24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1200px-Sommertheater01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Detmolder_Sommertheater_(4)-ba.JPG/1200px-Detmolder_Sommertheater_(4)-ba.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Detmolder_Sommertheater_(2)-ba.JPG/1200px-Detmolder_Sommertheater_(2)-ba.JPG
+image_srcset:
+  P1286395 Britten - Albert Herring.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1286395_Britten_-_Albert_Herring.jpg/400px-P1286395_Britten_-_Albert_Herring.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1286395_Britten_-_Albert_Herring.jpg/800px-P1286395_Britten_-_Albert_Herring.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1286395_Britten_-_Albert_Herring.jpg/1200px-P1286395_Britten_-_Albert_Herring.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/P1286395_Britten_-_Albert_Herring.jpg/1920px-P1286395_Britten_-_Albert_Herring.jpg
+  Detmold - 490 - Allee 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Detmold_-_490_-_Allee_24.jpg/400px-Detmold_-_490_-_Allee_24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Detmold_-_490_-_Allee_24.jpg/800px-Detmold_-_490_-_Allee_24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Detmold_-_490_-_Allee_24.jpg/1200px-Detmold_-_490_-_Allee_24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Detmold_-_490_-_Allee_24.jpg/1920px-Detmold_-_490_-_Allee_24.jpg
+  Sommertheater01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/400px-Sommertheater01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/800px-Sommertheater01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1200px-Sommertheater01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sommertheater01.jpg/1920px-Sommertheater01.jpg
+  Detmolder Sommertheater (4)-ba.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Detmolder_Sommertheater_(4)-ba.JPG/400px-Detmolder_Sommertheater_(4)-ba.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Detmolder_Sommertheater_(4)-ba.JPG/800px-Detmolder_Sommertheater_(4)-ba.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Detmolder_Sommertheater_(4)-ba.JPG/1200px-Detmolder_Sommertheater_(4)-ba.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Detmolder_Sommertheater_(4)-ba.JPG/1920px-Detmolder_Sommertheater_(4)-ba.JPG
+  Detmolder Sommertheater (2)-ba.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Detmolder_Sommertheater_(2)-ba.JPG/400px-Detmolder_Sommertheater_(2)-ba.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Detmolder_Sommertheater_(2)-ba.JPG/800px-Detmolder_Sommertheater_(2)-ba.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Detmolder_Sommertheater_(2)-ba.JPG/1200px-Detmolder_Sommertheater_(2)-ba.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Detmolder_Sommertheater_(2)-ba.JPG/1920px-Detmolder_Sommertheater_(2)-ba.JPG
 ---
 
 ## Overview

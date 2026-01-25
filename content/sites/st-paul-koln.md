@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1259172"
 description: "In the heart of Neustadt-Süd, Germany, the church building of St. Paul stands as a striking example of Gothic Revival architecture. This architectural s..."
 images:
-  - "/images-sites/st-paul-koln/01-28ce3044-1920w.webp"
-  - "/images-sites/st-paul-koln/02-4fe77edc-1920w.webp"
-  - "/images-sites/st-paul-koln/03-17328448-1920w.webp"
+  - "/images/st-paul-koln/01-28ce3044-1920w.webp"
+  - "/images/st-paul-koln/02-4fe77edc-1920w.webp"
+  - "/images/st-paul-koln/03-17328448-1920w.webp"
 ---
 
 ## Overview

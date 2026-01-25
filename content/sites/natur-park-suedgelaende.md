@@ -13,7 +13,7 @@ regions:
 latitude: 52.459736111
 longitude: 13.358002777
 images:
-  - "/images-sites/natur-park-suedgelaende/01-eae3949e-800w.webp"
+  - "/images/natur-park-suedgelaende/01-eae3949e-800w.webp"
 ---
 
 ## Overview

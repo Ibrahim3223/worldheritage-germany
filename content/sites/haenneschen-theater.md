@@ -1,19 +1,49 @@
 ---
-title: "Hänneschen-Theater"
+title: Hänneschen-Theater
 date: 2026-01-24
 draft: false
-description: "puppet theater in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: puppet theater in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9369
 longitude: 6.96167
 images:
-  - "/images-sites/haenneschen-theater/01-7d468603-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/1200px-Hänneschen-Theater,_Eingang-6661.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hänneschen_Theater_2016_07.jpg/1200px-Hänneschen_Theater_2016_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hänneschen_und_Röschen.jpg/1200px-Hänneschen_und_Röschen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Köln_-_017_Hänneschen_Theater.jpg/1200px-Köln_-_017_Hänneschen_Theater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Willy_Millowitsch_Denkmal.jpg/1200px-Willy_Millowitsch_Denkmal.jpg
+image_srcset:
+  Hänneschen-Theater, Eingang-6661.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/400px-Hänneschen-Theater,_Eingang-6661.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/800px-Hänneschen-Theater,_Eingang-6661.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/1200px-Hänneschen-Theater,_Eingang-6661.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hänneschen-Theater,_Eingang-6661.jpg/1920px-Hänneschen-Theater,_Eingang-6661.jpg
+  Hänneschen Theater 2016 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hänneschen_Theater_2016_07.jpg/400px-Hänneschen_Theater_2016_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hänneschen_Theater_2016_07.jpg/800px-Hänneschen_Theater_2016_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hänneschen_Theater_2016_07.jpg/1200px-Hänneschen_Theater_2016_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hänneschen_Theater_2016_07.jpg/1920px-Hänneschen_Theater_2016_07.jpg
+  Hänneschen und Röschen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hänneschen_und_Röschen.jpg/400px-Hänneschen_und_Röschen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hänneschen_und_Röschen.jpg/800px-Hänneschen_und_Röschen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hänneschen_und_Röschen.jpg/1200px-Hänneschen_und_Röschen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hänneschen_und_Röschen.jpg/1920px-Hänneschen_und_Röschen.jpg
+  Köln - 017 Hänneschen Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Köln_-_017_Hänneschen_Theater.jpg/400px-Köln_-_017_Hänneschen_Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Köln_-_017_Hänneschen_Theater.jpg/800px-Köln_-_017_Hänneschen_Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Köln_-_017_Hänneschen_Theater.jpg/1200px-Köln_-_017_Hänneschen_Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Köln_-_017_Hänneschen_Theater.jpg/1920px-Köln_-_017_Hänneschen_Theater.jpg
+  Willy Millowitsch Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Willy_Millowitsch_Denkmal.jpg/400px-Willy_Millowitsch_Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Willy_Millowitsch_Denkmal.jpg/800px-Willy_Millowitsch_Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Willy_Millowitsch_Denkmal.jpg/1200px-Willy_Millowitsch_Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Willy_Millowitsch_Denkmal.jpg/1920px-Willy_Millowitsch_Denkmal.jpg
 ---
 
 ## Overview

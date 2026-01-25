@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2136804"
 description: "Nestled in the quaint town of Bunde, Germany, the Martinskirche captivates visitors with its striking Gothic architecture and rich historical significan..."
 images:
-  - "/images-sites/martinskirche/01-38b59513-1920w.webp"
-  - "/images-sites/martinskirche/02-f7ce5fe8-1920w.webp"
-  - "/images-sites/martinskirche/03-b57bf97f-1920w.webp"
+  - "/images/martinskirche/01-38b59513-1920w.webp"
+  - "/images/martinskirche/02-f7ce5fe8-1920w.webp"
+  - "/images/martinskirche/03-b57bf97f-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.19056
 longitude: 13.86056
 images:
-  - "/images-sites/oberuckersee/01-99d12a50-800w.webp"
+  - "/images/oberuckersee/01-99d12a50-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 13.3948
 
 # Images
 images:
-  - "/images-sites/kw-institute-for-contemporary-art/01-6e47fa89-800w.webp"
+  - "/images/kw-institute-for-contemporary-art/01-6e47fa89-800w.webp"
 ---
 
 ## Overview

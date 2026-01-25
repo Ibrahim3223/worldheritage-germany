@@ -1,27 +1,49 @@
 ---
-title: "Augustusburg Hunting Lodge"
+title: Augustusburg Hunting Lodge
 date: 2026-01-23
 draft: false
-description: "castle in Augustusburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Augustusburg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8132
 longitude: 13.0992
-
-# Images
 images:
-  - "/images-sites/augustusburg-hunting-lodge/01-e1312a5c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Augustusburg_Südseite.jpg/1200px-Schloss_Augustusburg_Südseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Augustusburg_aus_der_Luft_-_panoramio.jpg/1200px-Augustusburg_aus_der_Luft_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Suedtor_augustusburg.jpg/1200px-Suedtor_augustusburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Torflügel_Schloss_Augustusburg_2.jpg/1200px-Torflügel_Schloss_Augustusburg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg/1200px-25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg
+image_srcset:
+  Schloss Augustusburg Südseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Augustusburg_Südseite.jpg/400px-Schloss_Augustusburg_Südseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Augustusburg_Südseite.jpg/800px-Schloss_Augustusburg_Südseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Augustusburg_Südseite.jpg/1200px-Schloss_Augustusburg_Südseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Schloss_Augustusburg_Südseite.jpg/1920px-Schloss_Augustusburg_Südseite.jpg
+  Augustusburg aus der Luft - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Augustusburg_aus_der_Luft_-_panoramio.jpg/400px-Augustusburg_aus_der_Luft_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Augustusburg_aus_der_Luft_-_panoramio.jpg/800px-Augustusburg_aus_der_Luft_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Augustusburg_aus_der_Luft_-_panoramio.jpg/1200px-Augustusburg_aus_der_Luft_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Augustusburg_aus_der_Luft_-_panoramio.jpg/1920px-Augustusburg_aus_der_Luft_-_panoramio.jpg
+  Suedtor augustusburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Suedtor_augustusburg.jpg/400px-Suedtor_augustusburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Suedtor_augustusburg.jpg/800px-Suedtor_augustusburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Suedtor_augustusburg.jpg/1200px-Suedtor_augustusburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Suedtor_augustusburg.jpg/1920px-Suedtor_augustusburg.jpg
+  Torflügel Schloss Augustusburg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Torflügel_Schloss_Augustusburg_2.jpg/400px-Torflügel_Schloss_Augustusburg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Torflügel_Schloss_Augustusburg_2.jpg/800px-Torflügel_Schloss_Augustusburg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Torflügel_Schloss_Augustusburg_2.jpg/1200px-Torflügel_Schloss_Augustusburg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Torflügel_Schloss_Augustusburg_2.jpg/1920px-Torflügel_Schloss_Augustusburg_2.jpg
+  25132-Augustusburg-1930-Blick auf Augustusburg-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg/400px-25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg/800px-25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg/1200px-25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg/1920px-25132-Augustusburg-1930-Blick_auf_Augustusburg-Brück_&_Sohn_Kunstverlag.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.345
 longitude: 14.5547
 images:
-  - "/images-sites/museum-junge-kunst/01-4bc6c7a7-800w.webp"
+  - "/images/museum-junge-kunst/01-4bc6c7a7-800w.webp"
 ---
 
 ## Overview

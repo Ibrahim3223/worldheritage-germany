@@ -13,9 +13,9 @@ regions:
 latitude: 51.2169
 longitude: 6.77403
 images:
-  - "/images-sites/vater-rhein-und-seine-toechter/01-bb6b4494-800w.webp"
-  - "/images-sites/vater-rhein-und-seine-toechter/02-413f0be9-800w.webp"
-  - "/images-sites/vater-rhein-und-seine-toechter/03-2655c1f7-800w.webp"
+  - "/images/vater-rhein-und-seine-toechter/01-bb6b4494-800w.webp"
+  - "/images/vater-rhein-und-seine-toechter/02-413f0be9-800w.webp"
+  - "/images/vater-rhein-und-seine-toechter/03-2655c1f7-800w.webp"
 ---
 
 ## Overview

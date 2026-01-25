@@ -1,19 +1,49 @@
 ---
-title: "Boxhagener Platz"
+title: Boxhagener Platz
 date: 2026-01-23
 draft: false
-description: "public square in Friedrichshain-Kreuzberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: public square in Friedrichshain-Kreuzberg, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5108
 longitude: 13.4597
 images:
-  - "/images-sites/boxhagener-platz/01-9528b568-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png/1200px-Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/City_Carré_Berlin_am_Ostbahnhof.jpg/1200px-City_Carré_Berlin_am_Ostbahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg/1200px-Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg/1200px-Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oberbaumbrücke_mit_U-Bahn.jpg/1200px-Oberbaumbrücke_mit_U-Bahn.jpg
+image_srcset:
+  Oskreuz baustelle markgrafendamm ecke hauptstr 2023-09-03.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png/400px-Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png/800px-Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png/1200px-Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png/1920px-Oskreuz_baustelle_markgrafendamm_ecke_hauptstr_2023-09-03.png
+  City Carré Berlin am Ostbahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/City_Carré_Berlin_am_Ostbahnhof.jpg/400px-City_Carré_Berlin_am_Ostbahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/City_Carré_Berlin_am_Ostbahnhof.jpg/800px-City_Carré_Berlin_am_Ostbahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/City_Carré_Berlin_am_Ostbahnhof.jpg/1200px-City_Carré_Berlin_am_Ostbahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/City_Carré_Berlin_am_Ostbahnhof.jpg/1920px-City_Carré_Berlin_am_Ostbahnhof.jpg
+  Hotel ibis Berlin Ostbahnhof, Spree, Berlin-Friedrichshain.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg/400px-Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg/800px-Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg/1200px-Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg/1920px-Hotel_ibis_Berlin_Ostbahnhof,_Spree,_Berlin-Friedrichshain.jpg
+  Aerial Friedrichshain, Frankfurter Allee, Karl-Marx-Allee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg/400px-Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg/800px-Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg/1200px-Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg/1920px-Aerial_Friedrichshain,_Frankfurter_Allee,_Karl-Marx-Allee.jpg
+  Oberbaumbrücke mit U-Bahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oberbaumbrücke_mit_U-Bahn.jpg/400px-Oberbaumbrücke_mit_U-Bahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oberbaumbrücke_mit_U-Bahn.jpg/800px-Oberbaumbrücke_mit_U-Bahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oberbaumbrücke_mit_U-Bahn.jpg/1200px-Oberbaumbrücke_mit_U-Bahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oberbaumbrücke_mit_U-Bahn.jpg/1920px-Oberbaumbrücke_mit_U-Bahn.jpg
 ---
 
 ## Overview

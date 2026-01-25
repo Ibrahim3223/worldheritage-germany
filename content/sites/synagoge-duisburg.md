@@ -13,7 +13,7 @@ regions:
 latitude: 51.4383
 longitude: 6.76583
 images:
-  - "/images-sites/synagoge-duisburg/01-88f9763b-800w.webp"
+  - "/images/synagoge-duisburg/01-88f9763b-800w.webp"
 ---
 
 ## Overview

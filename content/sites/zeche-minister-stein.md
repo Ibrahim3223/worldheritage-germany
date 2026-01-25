@@ -13,7 +13,7 @@ regions:
 latitude: 51.5467
 longitude: 7.46417
 images:
-  - "/images-sites/zeche-minister-stein/01-0f3f947c-800w.webp"
+  - "/images/zeche-minister-stein/01-0f3f947c-800w.webp"
 ---
 
 ## Overview

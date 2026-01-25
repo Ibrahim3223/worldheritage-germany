@@ -1,19 +1,49 @@
 ---
-title: "Bebra railway station"
+title: Bebra railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Bebra, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Bebra, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9692
 longitude: 9.7979
 images:
-  - "/images-sites/bebra-railway-station/01-0963bdcb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bebra_station_2023_8.jpg/1200px-Bebra_station_2023_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bahnhof_Bebra.jpg/1200px-Bahnhof_Bebra.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/AK_Bebra,_versch._Motive_(1915).jpg/1200px-AK_Bebra,_versch._Motive_(1915).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/01_0528_Bebra(8125118211).jpg/1200px-01_0528_Bebra(8125118211).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/18_314_1984_in_Bebra.jpg/1200px-18_314_1984_in_Bebra.jpg
+image_srcset:
+  Bebra station 2023 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bebra_station_2023_8.jpg/400px-Bebra_station_2023_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bebra_station_2023_8.jpg/800px-Bebra_station_2023_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bebra_station_2023_8.jpg/1200px-Bebra_station_2023_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bebra_station_2023_8.jpg/1920px-Bebra_station_2023_8.jpg
+  Bahnhof Bebra.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bahnhof_Bebra.jpg/400px-Bahnhof_Bebra.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bahnhof_Bebra.jpg/800px-Bahnhof_Bebra.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bahnhof_Bebra.jpg/1200px-Bahnhof_Bebra.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bahnhof_Bebra.jpg/1920px-Bahnhof_Bebra.jpg
+  AK Bebra, versch. Motive (1915).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/AK_Bebra,_versch._Motive_(1915).jpg/400px-AK_Bebra,_versch._Motive_(1915).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/AK_Bebra,_versch._Motive_(1915).jpg/800px-AK_Bebra,_versch._Motive_(1915).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/AK_Bebra,_versch._Motive_(1915).jpg/1200px-AK_Bebra,_versch._Motive_(1915).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/AK_Bebra,_versch._Motive_(1915).jpg/1920px-AK_Bebra,_versch._Motive_(1915).jpg
+  01 0528 Bebra(8125118211).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/01_0528_Bebra(8125118211).jpg/400px-01_0528_Bebra(8125118211).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/01_0528_Bebra(8125118211).jpg/800px-01_0528_Bebra(8125118211).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/01_0528_Bebra(8125118211).jpg/1200px-01_0528_Bebra(8125118211).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/01_0528_Bebra(8125118211).jpg/1920px-01_0528_Bebra(8125118211).jpg
+  18 314 1984 in Bebra.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/18_314_1984_in_Bebra.jpg/400px-18_314_1984_in_Bebra.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/18_314_1984_in_Bebra.jpg/800px-18_314_1984_in_Bebra.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/18_314_1984_in_Bebra.jpg/1200px-18_314_1984_in_Bebra.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/18_314_1984_in_Bebra.jpg/1920px-18_314_1984_in_Bebra.jpg
 ---
 
 ## Overview

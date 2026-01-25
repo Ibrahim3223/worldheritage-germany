@@ -13,7 +13,7 @@ regions:
 latitude: 51.7976
 longitude: 9.90345
 images:
-  - "/images-sites/salzderhelden-saltworks/01-1d98e4da-800w.webp"
+  - "/images/salzderhelden-saltworks/01-1d98e4da-800w.webp"
 ---
 
 ## Overview

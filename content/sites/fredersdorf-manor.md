@@ -1,21 +1,49 @@
 ---
-title: "Fredersdorf Manor"
+title: Fredersdorf Manor
 date: 2026-01-23
 draft: false
-description: "Herrenhaus in Bad Belzig, Landkreis Potsdam-Mittelmark, Brandenburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus in Bad Belzig, Landkreis Potsdam-Mittelmark, Brandenburg
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 52.188638
 longitude: 12.63947
 images:
-  - "/images-sites/fredersdorf-manor/01-d24df324-800w.webp"
-  - "/images-sites/fredersdorf-manor/02-373252f7-800w.webp"
-  - "/images-sites/fredersdorf-manor/03-92dd939a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rittergut_Fredersdorf_Sammlung_Duncker.jpg/1200px-Rittergut_Fredersdorf_Sammlung_Duncker.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fredersdorf_Herrenhaus2.JPG/1200px-Fredersdorf_Herrenhaus2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fredersdorf_Herrenhaus3.JPG/1200px-Fredersdorf_Herrenhaus3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fredersdorf_Herrenhaus5.JPG/1200px-Fredersdorf_Herrenhaus5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fredersdorf_Herrenhaus4.JPG/1200px-Fredersdorf_Herrenhaus4.JPG
+image_srcset:
+  Rittergut Fredersdorf Sammlung Duncker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rittergut_Fredersdorf_Sammlung_Duncker.jpg/400px-Rittergut_Fredersdorf_Sammlung_Duncker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rittergut_Fredersdorf_Sammlung_Duncker.jpg/800px-Rittergut_Fredersdorf_Sammlung_Duncker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rittergut_Fredersdorf_Sammlung_Duncker.jpg/1200px-Rittergut_Fredersdorf_Sammlung_Duncker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rittergut_Fredersdorf_Sammlung_Duncker.jpg/1920px-Rittergut_Fredersdorf_Sammlung_Duncker.jpg
+  Fredersdorf Herrenhaus2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fredersdorf_Herrenhaus2.JPG/400px-Fredersdorf_Herrenhaus2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fredersdorf_Herrenhaus2.JPG/800px-Fredersdorf_Herrenhaus2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fredersdorf_Herrenhaus2.JPG/1200px-Fredersdorf_Herrenhaus2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fredersdorf_Herrenhaus2.JPG/1920px-Fredersdorf_Herrenhaus2.JPG
+  Fredersdorf Herrenhaus3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fredersdorf_Herrenhaus3.JPG/400px-Fredersdorf_Herrenhaus3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fredersdorf_Herrenhaus3.JPG/800px-Fredersdorf_Herrenhaus3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fredersdorf_Herrenhaus3.JPG/1200px-Fredersdorf_Herrenhaus3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fredersdorf_Herrenhaus3.JPG/1920px-Fredersdorf_Herrenhaus3.JPG
+  Fredersdorf Herrenhaus5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fredersdorf_Herrenhaus5.JPG/400px-Fredersdorf_Herrenhaus5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fredersdorf_Herrenhaus5.JPG/800px-Fredersdorf_Herrenhaus5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fredersdorf_Herrenhaus5.JPG/1200px-Fredersdorf_Herrenhaus5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fredersdorf_Herrenhaus5.JPG/1920px-Fredersdorf_Herrenhaus5.JPG
+  Fredersdorf Herrenhaus4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fredersdorf_Herrenhaus4.JPG/400px-Fredersdorf_Herrenhaus4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fredersdorf_Herrenhaus4.JPG/800px-Fredersdorf_Herrenhaus4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fredersdorf_Herrenhaus4.JPG/1200px-Fredersdorf_Herrenhaus4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fredersdorf_Herrenhaus4.JPG/1920px-Fredersdorf_Herrenhaus4.JPG
 ---
 
 ## Overview

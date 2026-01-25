@@ -13,9 +13,9 @@ regions:
 latitude: 53.481342
 longitude: 8.181597
 images:
-  - "/images-sites/leuchtturm-arngast/01-07ad6333-800w.webp"
-  - "/images-sites/leuchtturm-arngast/02-2a8c5c8e-800w.webp"
-  - "/images-sites/leuchtturm-arngast/03-42fe4024-800w.webp"
+  - "/images/leuchtturm-arngast/01-07ad6333-800w.webp"
+  - "/images/leuchtturm-arngast/02-2a8c5c8e-800w.webp"
+  - "/images/leuchtturm-arngast/03-42fe4024-800w.webp"
 ---
 
 ## Overview

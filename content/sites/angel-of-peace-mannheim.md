@@ -1,21 +1,50 @@
 ---
-title: "Angel of Peace (Mannheim)"
+title: Angel of Peace (Mannheim)
 date: 2026-01-23
 draft: false
-description: "memorial for the victims of Nazi Germany and the Second World War with a bronze sculpture by Gerhard Marcks (1951-1952)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: memorial for the victims of Nazi Germany and the Second World War with
+  a bronze sculpture by Gerhard Marcks (1951-1952)
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 49.489972222
 longitude: 8.462138888
 images:
-  - "/images-sites/angel-of-peace-mannheim/01-d6b4636c-800w.webp"
-  - "/images-sites/angel-of-peace-mannheim/02-c2e668bf-800w.webp"
-  - "/images-sites/angel-of-peace-mannheim/03-375b57ca-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/FriedensEngelMA.jpg/1200px-FriedensEngelMA.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Friedensengel_Mannheim_04.JPG/1200px-Friedensengel_Mannheim_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Friedensengel_E6.jpg/1200px-Friedensengel_E6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedensengel_in_Mannheim.jpg/1200px-Friedensengel_in_Mannheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg/1200px-Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg
+image_srcset:
+  FriedensEngelMA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/FriedensEngelMA.jpg/400px-FriedensEngelMA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/FriedensEngelMA.jpg/800px-FriedensEngelMA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/FriedensEngelMA.jpg/1200px-FriedensEngelMA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/FriedensEngelMA.jpg/1920px-FriedensEngelMA.jpg
+  Friedensengel Mannheim 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Friedensengel_Mannheim_04.JPG/400px-Friedensengel_Mannheim_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Friedensengel_Mannheim_04.JPG/800px-Friedensengel_Mannheim_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Friedensengel_Mannheim_04.JPG/1200px-Friedensengel_Mannheim_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Friedensengel_Mannheim_04.JPG/1920px-Friedensengel_Mannheim_04.JPG
+  Friedensengel E6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Friedensengel_E6.jpg/400px-Friedensengel_E6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Friedensengel_E6.jpg/800px-Friedensengel_E6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Friedensengel_E6.jpg/1200px-Friedensengel_E6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Friedensengel_E6.jpg/1920px-Friedensengel_E6.jpg
+  Friedensengel in Mannheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedensengel_in_Mannheim.jpg/400px-Friedensengel_in_Mannheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedensengel_in_Mannheim.jpg/800px-Friedensengel_in_Mannheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedensengel_in_Mannheim.jpg/1200px-Friedensengel_in_Mannheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Friedensengel_in_Mannheim.jpg/1920px-Friedensengel_in_Mannheim.jpg
+  Konrad Adenauer eröffnet Friedensengel E6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg/400px-Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg/800px-Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg/1200px-Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg/1920px-Konrad_Adenauer_eröffnet_Friedensengel_E6.jpg
 ---
 
 ## Overview

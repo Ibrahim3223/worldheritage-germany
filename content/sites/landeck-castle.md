@@ -21,7 +21,7 @@ longitude: 8.0063
 
 # Images
 images:
-  - "/images-sites/landeck-castle/01-8a7e477d-800w.webp"
+  - "/images/landeck-castle/01-8a7e477d-800w.webp"
 ---
 
 ## Overview

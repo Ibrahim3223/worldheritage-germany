@@ -1,27 +1,25 @@
 ---
-title: "Grodziec Gord"
+title: Grodziec Gord
 date: 2026-01-23
 draft: false
-description: "gord"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: gord
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.3142
 longitude: 13.3472
-
-# Images
 images:
-  - "/images-sites/grodziec-gord/01-048a4593-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg/1200px-Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg
+image_srcset:
+  Rügen. Garzer Burgwall, aus, Baltische Studien, 24. Jg., Stettin 1872.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg/400px-Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg/800px-Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg/1200px-Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg/1920px-Rügen._Garzer_Burgwall,_aus,_Baltische_Studien,_24._Jg.,_Stettin_1872.jpg
 ---
 
 ## Overview

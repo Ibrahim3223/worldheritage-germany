@@ -1,21 +1,37 @@
 ---
-title: "Bilal-Moschee (Aachen)"
+title: Bilal-Moschee (Aachen)
 date: 2026-01-23
 draft: false
-description: "Moschee in Aachen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: Moschee in Aachen
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7797
 longitude: 6.07139
 images:
-  - "/images-sites/bilal-moschee-aachen/01-a1668d24-800w.webp"
-  - "/images-sites/bilal-moschee-aachen/02-5e393639-800w.webp"
-  - "/images-sites/bilal-moschee-aachen/03-e6ab0c7b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1200px-Bilal-Moschee,_Aachen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen_Bilal-Moschee.jpg/1200px-Aachen_Bilal-Moschee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bilal_Moschee_-_panoramio.jpg/1200px-Bilal_Moschee_-_panoramio.jpg
+image_srcset:
+  Bilal-Moschee, Aachen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/400px-Bilal-Moschee,_Aachen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/800px-Bilal-Moschee,_Aachen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1200px-Bilal-Moschee,_Aachen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bilal-Moschee,_Aachen.jpg/1920px-Bilal-Moschee,_Aachen.jpg
+  Aachen Bilal-Moschee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen_Bilal-Moschee.jpg/400px-Aachen_Bilal-Moschee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen_Bilal-Moschee.jpg/800px-Aachen_Bilal-Moschee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen_Bilal-Moschee.jpg/1200px-Aachen_Bilal-Moschee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen_Bilal-Moschee.jpg/1920px-Aachen_Bilal-Moschee.jpg
+  Bilal Moschee - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bilal_Moschee_-_panoramio.jpg/400px-Bilal_Moschee_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bilal_Moschee_-_panoramio.jpg/800px-Bilal_Moschee_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bilal_Moschee_-_panoramio.jpg/1200px-Bilal_Moschee_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bilal_Moschee_-_panoramio.jpg/1920px-Bilal_Moschee_-_panoramio.jpg
 ---
 
 ## Overview

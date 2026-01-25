@@ -13,7 +13,7 @@ regions:
 latitude: 53.5434
 longitude: 8.5744
 images:
-  - "/images-sites/klimahaus-bremerhaven/01-ffe2687e-800w.webp"
+  - "/images/klimahaus-bremerhaven/01-ffe2687e-800w.webp"
 ---
 
 ## Overview

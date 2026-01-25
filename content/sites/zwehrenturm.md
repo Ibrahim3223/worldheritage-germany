@@ -13,7 +13,7 @@ regions:
 latitude: 51.3137
 longitude: 9.49839
 images:
-  - "/images-sites/zwehrenturm/01-632e2dd8-800w.webp"
+  - "/images/zwehrenturm/01-632e2dd8-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.149326805
 longitude: 9.9441505
 images:
-  - "/images-sites/roemer-und-pelizaeus-museum/01-e0bc54c2-800w.webp"
-  - "/images-sites/roemer-und-pelizaeus-museum/02-597c05d6-800w.webp"
-  - "/images-sites/roemer-und-pelizaeus-museum/03-0b503cb4-800w.webp"
+  - "/images/roemer-und-pelizaeus-museum/01-e0bc54c2-800w.webp"
+  - "/images/roemer-und-pelizaeus-museum/02-597c05d6-800w.webp"
+  - "/images/roemer-und-pelizaeus-museum/03-0b503cb4-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.49961
 longitude: 6.24479
 images:
-  - "/images-sites/steprather-muehle/01-0755738a-800w.webp"
+  - "/images/steprather-muehle/01-0755738a-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.34152
 longitude: 12.37
 images:
-  - "/images-sites/gedenkstaette-museum-in-der-runden-ecke/01-2d5017d5-800w.webp"
+  - "/images/gedenkstaette-museum-in-der-runden-ecke/01-2d5017d5-800w.webp"
 ---
 
 ## Overview

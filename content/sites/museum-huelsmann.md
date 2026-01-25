@@ -13,7 +13,7 @@ regions:
 latitude: 52.022390162
 longitude: 8.545709711
 images:
-  - "/images-sites/museum-huelsmann/01-4dbe451d-800w.webp"
+  - "/images/museum-huelsmann/01-4dbe451d-800w.webp"
 ---
 
 ## Overview

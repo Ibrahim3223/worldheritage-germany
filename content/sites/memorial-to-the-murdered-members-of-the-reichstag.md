@@ -13,7 +13,7 @@ regions:
 latitude: 52.5179
 longitude: 13.3746
 images:
-  - "/images-sites/memorial-to-the-murdered-members-of-the-reichstag/01-123dd22f-800w.webp"
+  - "/images/memorial-to-the-murdered-members-of-the-reichstag/01-123dd22f-800w.webp"
 ---
 
 ## Overview

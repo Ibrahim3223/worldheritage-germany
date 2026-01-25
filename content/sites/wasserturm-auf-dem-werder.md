@@ -13,7 +13,7 @@ regions:
 latitude: 53.0683
 longitude: 8.81028
 images:
-  - "/images-sites/wasserturm-auf-dem-werder/01-d9ee15fb-800w.webp"
+  - "/images/wasserturm-auf-dem-werder/01-d9ee15fb-800w.webp"
 ---
 
 ## Overview

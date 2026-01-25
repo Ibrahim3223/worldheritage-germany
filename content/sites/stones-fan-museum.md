@@ -13,9 +13,9 @@ regions:
 latitude: 52.968016
 longitude: 11.154526
 images:
-  - "/images-sites/stones-fan-museum/01-d20e44e1-800w.webp"
-  - "/images-sites/stones-fan-museum/02-10eb00ab-800w.webp"
-  - "/images-sites/stones-fan-museum/03-0d4e641f-800w.webp"
+  - "/images/stones-fan-museum/01-d20e44e1-800w.webp"
+  - "/images/stones-fan-museum/02-10eb00ab-800w.webp"
+  - "/images/stones-fan-museum/03-0d4e641f-800w.webp"
 ---
 
 ## Overview

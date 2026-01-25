@@ -1,19 +1,43 @@
 ---
-title: "Goethe-Theater"
+title: Goethe-Theater
 date: 2026-01-24
 draft: false
-description: "theatre in Bad Lauchstädt, Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Bad Lauchstädt, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3883
 longitude: 11.8639
 images:
-  - "/images-sites/goethe-theater/01-5f89f42b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Lauchstädt,_Goethetheater-002.jpg/1200px-Bad_Lauchstädt,_Goethetheater-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bad_Lauchstädt_Goethetheater_1.jpg/1200px-Bad_Lauchstädt_Goethetheater_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg/1200px-19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg/1200px-19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg
+image_srcset:
+  Bad Lauchstädt, Goethetheater-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Lauchstädt,_Goethetheater-002.jpg/400px-Bad_Lauchstädt,_Goethetheater-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Lauchstädt,_Goethetheater-002.jpg/800px-Bad_Lauchstädt,_Goethetheater-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Lauchstädt,_Goethetheater-002.jpg/1200px-Bad_Lauchstädt,_Goethetheater-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bad_Lauchstädt,_Goethetheater-002.jpg/1920px-Bad_Lauchstädt,_Goethetheater-002.jpg
+  Bad Lauchstädt Goethetheater 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bad_Lauchstädt_Goethetheater_1.jpg/400px-Bad_Lauchstädt_Goethetheater_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bad_Lauchstädt_Goethetheater_1.jpg/800px-Bad_Lauchstädt_Goethetheater_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bad_Lauchstädt_Goethetheater_1.jpg/1200px-Bad_Lauchstädt_Goethetheater_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bad_Lauchstädt_Goethetheater_1.jpg/1920px-Bad_Lauchstädt_Goethetheater_1.jpg
+  19720427250NR Bad Lauchstädt Goethe-Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg/400px-19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg/800px-19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg/1200px-19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg/1920px-19720427250NR_Bad_Lauchstädt_Goethe-Theater.jpg
+  19720427240NR Bad Lauchstädt Goethe-Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg/400px-19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg/800px-19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg/1200px-19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg/1920px-19720427240NR_Bad_Lauchstädt_Goethe-Theater.jpg
 ---
 
 ## Overview

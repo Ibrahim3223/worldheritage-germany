@@ -13,9 +13,9 @@ regions:
 latitude: 54.0917
 longitude: 9.945
 images:
-  - "/images-sites/tierpark-neumuenster/01-d00e96de-800w.webp"
-  - "/images-sites/tierpark-neumuenster/02-fee9346d-800w.webp"
-  - "/images-sites/tierpark-neumuenster/03-f284db57-800w.webp"
+  - "/images/tierpark-neumuenster/01-d00e96de-800w.webp"
+  - "/images/tierpark-neumuenster/02-fee9346d-800w.webp"
+  - "/images/tierpark-neumuenster/03-f284db57-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.51444444
 longitude: 13.4875
 images:
-  - "/images-sites/stasi-museum/01-dd529f68-800w.webp"
+  - "/images/stasi-museum/01-dd529f68-800w.webp"
 ---
 
 ## Overview

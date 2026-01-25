@@ -1,19 +1,49 @@
 ---
-title: "Historical Cemetery, Weimar"
+title: Historical Cemetery, Weimar
 date: 2026-01-23
 draft: false
-description: "cemetery in Weimar, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Weimar, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9725
 longitude: 11.3256
 images:
-  - "/images-sites/historical-cemetery-weimar/01-81e40665-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg/1200px-Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weimar,_Historischer_Friedhof_im_Herbst.jpg/1200px-Weimar,_Historischer_Friedhof_im_Herbst.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg/1200px-Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weimar,_Grabstätte_Vulpius.jpg/1200px-Weimar,_Grabstätte_Vulpius.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Historischer_Friedhof_Weimar_-_Gräber.jpg/1200px-Historischer_Friedhof_Weimar_-_Gräber.jpg
+image_srcset:
+  Weimar, Historischer Friedhof, Grabstätte der Juwelierfamilie Müller.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg/400px-Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg/800px-Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg/1200px-Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg/1920px-Weimar,_Historischer_Friedhof,_Grabstätte_der_Juwelierfamilie_Müller.jpg
+  Weimar, Historischer Friedhof im Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weimar,_Historischer_Friedhof_im_Herbst.jpg/400px-Weimar,_Historischer_Friedhof_im_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weimar,_Historischer_Friedhof_im_Herbst.jpg/800px-Weimar,_Historischer_Friedhof_im_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weimar,_Historischer_Friedhof_im_Herbst.jpg/1200px-Weimar,_Historischer_Friedhof_im_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Weimar,_Historischer_Friedhof_im_Herbst.jpg/1920px-Weimar,_Historischer_Friedhof_im_Herbst.jpg
+  Weimar, Historischer Friedhof, Marmormausoleum der Eheleute Rudolf und Lina Grosch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg/400px-Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg/800px-Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg/1200px-Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg/1920px-Weimar,_Historischer_Friedhof,_Marmormausoleum_der_Eheleute_Rudolf_und_Lina_Grosch.jpg
+  Weimar, Grabstätte Vulpius.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weimar,_Grabstätte_Vulpius.jpg/400px-Weimar,_Grabstätte_Vulpius.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weimar,_Grabstätte_Vulpius.jpg/800px-Weimar,_Grabstätte_Vulpius.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weimar,_Grabstätte_Vulpius.jpg/1200px-Weimar,_Grabstätte_Vulpius.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Weimar,_Grabstätte_Vulpius.jpg/1920px-Weimar,_Grabstätte_Vulpius.jpg
+  Historischer Friedhof Weimar - Gräber.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Historischer_Friedhof_Weimar_-_Gräber.jpg/400px-Historischer_Friedhof_Weimar_-_Gräber.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Historischer_Friedhof_Weimar_-_Gräber.jpg/800px-Historischer_Friedhof_Weimar_-_Gräber.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Historischer_Friedhof_Weimar_-_Gräber.jpg/1200px-Historischer_Friedhof_Weimar_-_Gräber.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Historischer_Friedhof_Weimar_-_Gräber.jpg/1920px-Historischer_Friedhof_Weimar_-_Gräber.jpg
 ---
 
 ## Overview

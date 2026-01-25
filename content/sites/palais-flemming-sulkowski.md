@@ -13,7 +13,7 @@ regions:
 latitude: 51.0501
 longitude: 13.743
 images:
-  - "/images-sites/palais-flemming-sulkowski/01-a761a18e-800w.webp"
+  - "/images/palais-flemming-sulkowski/01-a761a18e-800w.webp"
 ---
 
 ## Overview

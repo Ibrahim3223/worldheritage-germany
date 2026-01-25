@@ -1,21 +1,49 @@
 ---
-title: "Hoher Göll"
+title: Hoher Göll
 date: 2026-01-23
 draft: false
-description: "mountain in the Berchtesgaden Alps at the border Salzburg / Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Berchtesgaden Alps at the border Salzburg / Bavaria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.594166666
 longitude: 13.066944444
 images:
-  - "/images-sites/hoher-goell/01-ec6b6b34-800w.webp"
-  - "/images-sites/hoher-goell/02-5c0d0feb-800w.webp"
-  - "/images-sites/hoher-goell/03-b57ea499-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg/1200px-Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoher_Göll_-_Gipfelkreuz.jpg/1200px-Hoher_Göll_-_Gipfelkreuz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/1200px-Göllspiegelung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Göll_(Westseite).jpg/1200px-Göll_(Westseite).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HoherGoell.jpg/1200px-HoherGoell.jpg
+image_srcset:
+  Blick vom Hoher Göll in westliche Richtung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg/400px-Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg/800px-Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg/1200px-Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg/1920px-Blick_vom_Hoher_Göll_in_westliche_Richtung.jpg
+  Hoher Göll - Gipfelkreuz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoher_Göll_-_Gipfelkreuz.jpg/400px-Hoher_Göll_-_Gipfelkreuz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoher_Göll_-_Gipfelkreuz.jpg/800px-Hoher_Göll_-_Gipfelkreuz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoher_Göll_-_Gipfelkreuz.jpg/1200px-Hoher_Göll_-_Gipfelkreuz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoher_Göll_-_Gipfelkreuz.jpg/1920px-Hoher_Göll_-_Gipfelkreuz.jpg
+  Göllspiegelung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/400px-Göllspiegelung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/800px-Göllspiegelung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/1200px-Göllspiegelung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/1920px-Göllspiegelung.jpg
+  Göll (Westseite).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Göll_(Westseite).jpg/400px-Göll_(Westseite).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Göll_(Westseite).jpg/800px-Göll_(Westseite).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Göll_(Westseite).jpg/1200px-Göll_(Westseite).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Göll_(Westseite).jpg/1920px-Göll_(Westseite).jpg
+  HoherGoell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HoherGoell.jpg/400px-HoherGoell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HoherGoell.jpg/800px-HoherGoell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HoherGoell.jpg/1200px-HoherGoell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HoherGoell.jpg/1920px-HoherGoell.jpg
 ---
 
 ## Overview

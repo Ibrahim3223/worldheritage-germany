@@ -1,27 +1,49 @@
 ---
-title: "Arboretum Main-Taunus"
+title: Arboretum Main-Taunus
 date: 2026-01-23
 draft: false
-description: "botanical garden in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.1356
 longitude: 8.54972
-
-# Images
 images:
-  - "/images-sites/arboretum-main-taunus/01-660d52ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arboretum_Main-Taunus_-_003.jpg/1200px-Arboretum_Main-Taunus_-_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cedrela_sinensis_001.jpg/1200px-Cedrela_sinensis_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1200px-HainbucheArboretumMTK.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hainbuche_Arboretum_MTK_20160505_131712.jpg/1200px-Hainbuche_Arboretum_MTK_20160505_131712.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arboretum_Main_Taunus.jpg/1200px-Arboretum_Main_Taunus.jpg
+image_srcset:
+  Arboretum Main-Taunus - 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arboretum_Main-Taunus_-_003.jpg/400px-Arboretum_Main-Taunus_-_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arboretum_Main-Taunus_-_003.jpg/800px-Arboretum_Main-Taunus_-_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arboretum_Main-Taunus_-_003.jpg/1200px-Arboretum_Main-Taunus_-_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arboretum_Main-Taunus_-_003.jpg/1920px-Arboretum_Main-Taunus_-_003.jpg
+  Cedrela sinensis 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cedrela_sinensis_001.jpg/400px-Cedrela_sinensis_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cedrela_sinensis_001.jpg/800px-Cedrela_sinensis_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cedrela_sinensis_001.jpg/1200px-Cedrela_sinensis_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cedrela_sinensis_001.jpg/1920px-Cedrela_sinensis_001.jpg
+  HainbucheArboretumMTK.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/400px-HainbucheArboretumMTK.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/800px-HainbucheArboretumMTK.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1200px-HainbucheArboretumMTK.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HainbucheArboretumMTK.jpg/1920px-HainbucheArboretumMTK.jpg
+  Hainbuche Arboretum MTK 20160505 131712.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hainbuche_Arboretum_MTK_20160505_131712.jpg/400px-Hainbuche_Arboretum_MTK_20160505_131712.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hainbuche_Arboretum_MTK_20160505_131712.jpg/800px-Hainbuche_Arboretum_MTK_20160505_131712.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hainbuche_Arboretum_MTK_20160505_131712.jpg/1200px-Hainbuche_Arboretum_MTK_20160505_131712.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hainbuche_Arboretum_MTK_20160505_131712.jpg/1920px-Hainbuche_Arboretum_MTK_20160505_131712.jpg
+  Arboretum Main Taunus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arboretum_Main_Taunus.jpg/400px-Arboretum_Main_Taunus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arboretum_Main_Taunus.jpg/800px-Arboretum_Main_Taunus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arboretum_Main_Taunus.jpg/1200px-Arboretum_Main_Taunus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arboretum_Main_Taunus.jpg/1920px-Arboretum_Main_Taunus.jpg
 ---
 
 ## Overview

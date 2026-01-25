@@ -13,9 +13,9 @@ regions:
 latitude: 54.156666666
 longitude: 10.645833333
 images:
-  - "/images-sites/sibbersdorfer-see/01-89decfe0-800w.webp"
-  - "/images-sites/sibbersdorfer-see/02-b432f1a5-800w.webp"
-  - "/images-sites/sibbersdorfer-see/03-60c39da0-800w.webp"
+  - "/images/sibbersdorfer-see/01-89decfe0-800w.webp"
+  - "/images/sibbersdorfer-see/02-b432f1a5-800w.webp"
+  - "/images/sibbersdorfer-see/03-60c39da0-800w.webp"
 ---
 
 ## Overview

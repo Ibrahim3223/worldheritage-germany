@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2327446"
 description: "In the heart of Itzehoe, Germany, stands St. Laurentii, a church building that embodies the elegance of baroque architecture. This striking edifice not ..."
 images:
-  - "/images-sites/st-laurentii-itzehoe/01-384ba0ae-1920w.webp"
-  - "/images-sites/st-laurentii-itzehoe/02-d83bd80a-1920w.webp"
-  - "/images-sites/st-laurentii-itzehoe/03-4800fad8-1920w.webp"
+  - "/images/st-laurentii-itzehoe/01-384ba0ae-1920w.webp"
+  - "/images/st-laurentii-itzehoe/02-d83bd80a-1920w.webp"
+  - "/images/st-laurentii-itzehoe/03-4800fad8-1920w.webp"
 ---
 
 ## Overview

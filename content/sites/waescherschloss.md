@@ -13,9 +13,9 @@ regions:
 latitude: 48.7671
 longitude: 9.70583
 images:
-  - "/images-sites/waescherschloss/01-38003cdb-800w.webp"
-  - "/images-sites/waescherschloss/02-afd896f0-800w.webp"
-  - "/images-sites/waescherschloss/03-a4bbf6b8-800w.webp"
+  - "/images/waescherschloss/01-38003cdb-800w.webp"
+  - "/images/waescherschloss/02-afd896f0-800w.webp"
+  - "/images/waescherschloss/03-a4bbf6b8-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 9.5
 
 # Images
 images:
-  - "/images-sites/limes-germanicus/01-3edd3465-800w.webp"
+  - "/images/limes-germanicus/01-3edd3465-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.4203
 longitude: 13.3667
 images:
-  - "/images-sites/marienfelde-refugee-transit-camp/01-85ce5b3e-800w.webp"
+  - "/images/marienfelde-refugee-transit-camp/01-85ce5b3e-800w.webp"
 ---
 
 ## Overview

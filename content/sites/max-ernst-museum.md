@@ -13,7 +13,7 @@ regions:
 latitude: 50.8302
 longitude: 6.90992
 images:
-  - "/images-sites/max-ernst-museum/01-8cddadaf-800w.webp"
+  - "/images/max-ernst-museum/01-8cddadaf-800w.webp"
 ---
 
 ## Overview

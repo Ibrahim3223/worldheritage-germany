@@ -13,8 +13,8 @@ regions:
 latitude: 54.087448
 longitude: 12.133785
 images:
-  - "/images-sites/zoological-collection-rostock/01-bf37ae0d-800w.webp"
-  - "/images-sites/zoological-collection-rostock/03-682b7ef7-800w.webp"
+  - "/images/zoological-collection-rostock/01-bf37ae0d-800w.webp"
+  - "/images/zoological-collection-rostock/03-682b7ef7-800w.webp"
 ---
 
 ## Overview

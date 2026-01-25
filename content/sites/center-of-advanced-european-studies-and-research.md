@@ -1,27 +1,49 @@
 ---
-title: "Center of Advanced European Studies and Research"
+title: Center of Advanced European Studies and Research
 date: 2026-01-23
 draft: false
-description: "Research institution"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: Research institution
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.703888888
 longitude: 7.151111111
-
-# Images
 images:
-  - "/images-sites/center-of-advanced-european-studies-and-research/01-de3de659-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg/1200px-2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg/1200px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg/1200px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1200px-Bonn-Forschungszentrum_Caesar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bonn_caesar.jpg/1200px-Bonn_caesar.jpg
+image_srcset:
+  2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg/400px-2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg/800px-2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg/1200px-2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg/1920px-2020-03-15-bonn-ludwig-erhard-allee-2-ferne-naehe-01.jpg
+  2014-07-02 Forschungszentrum caesar, Ludwig-Erhard-Allee 2, Bonn-Hochkreuz IMG 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg/400px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg/800px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg/1200px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg/1920px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2014.jpg
+  2014-07-02 Forschungszentrum caesar, Ludwig-Erhard-Allee 2, Bonn-Hochkreuz IMG 2109.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg/400px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg/800px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg/1200px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg/1920px-2014-07-02_Forschungszentrum_caesar,_Ludwig-Erhard-Allee_2,_Bonn-Hochkreuz_IMG_2109.jpg
+  Bonn-Forschungszentrum Caesar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/400px-Bonn-Forschungszentrum_Caesar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/800px-Bonn-Forschungszentrum_Caesar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1200px-Bonn-Forschungszentrum_Caesar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bonn-Forschungszentrum_Caesar.jpg/1920px-Bonn-Forschungszentrum_Caesar.jpg
+  Bonn caesar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bonn_caesar.jpg/400px-Bonn_caesar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bonn_caesar.jpg/800px-Bonn_caesar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bonn_caesar.jpg/1200px-Bonn_caesar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bonn_caesar.jpg/1920px-Bonn_caesar.jpg
 ---
 
 ## Overview

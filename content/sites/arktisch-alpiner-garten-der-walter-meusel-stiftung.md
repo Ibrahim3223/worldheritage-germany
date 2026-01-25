@@ -1,27 +1,49 @@
 ---
-title: "Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung"
+title: Arktisch-Alpiner-Garten der Walter-Meusel-Stiftung
 date: 2026-01-23
 draft: false
-description: "botanical garden in Chemnitz, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Chemnitz, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8876
 longitude: 12.9399
-
-# Images
 images:
-  - "/images-sites/arktisch-alpiner-garten-der-walter-meusel-stiftung/01-0d05ed81-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1200px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg/1200px-1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1024_1._Mai_2014-0911.jpg/1200px-1024_1._Mai_2014-0911.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg/1200px-1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg/1200px-1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg
+image_srcset:
+  Ranunculus glacialis Kilpisjarvi 2012-07a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/400px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/800px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1200px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg/1920px-Ranunculus_glacialis_Kilpisjarvi_2012-07a.jpg
+  1024 Arktisch-alpiner Garten Chemnitz-0987.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg/400px-1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg/800px-1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg/1200px-1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg/1920px-1024_Arktisch-alpiner_Garten_Chemnitz-0987.jpg
+  1024 1. Mai 2014-0911.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1024_1._Mai_2014-0911.jpg/400px-1024_1._Mai_2014-0911.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1024_1._Mai_2014-0911.jpg/800px-1024_1._Mai_2014-0911.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1024_1._Mai_2014-0911.jpg/1200px-1024_1._Mai_2014-0911.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1024_1._Mai_2014-0911.jpg/1920px-1024_1._Mai_2014-0911.jpg
+  1024 Arktisch-alpiner Garten Chemnitz - - --0972.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg/400px-1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg/800px-1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg/1200px-1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg/1920px-1024_Arktisch-alpiner_Garten_Chemnitz_-_-_--0972.jpg
+  1024 Arktisch-alpiner Garten Chemnitz-0887.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg/400px-1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg/800px-1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg/1200px-1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg/1920px-1024_Arktisch-alpiner_Garten_Chemnitz-0887.jpg
 ---
 
 ## Overview

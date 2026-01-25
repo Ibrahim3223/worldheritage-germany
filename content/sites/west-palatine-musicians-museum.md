@@ -13,9 +13,9 @@ regions:
 latitude: 49.4716
 longitude: 7.5843
 images:
-  - "/images-sites/west-palatine-musicians-museum/01-c8cd34fd-800w.webp"
-  - "/images-sites/west-palatine-musicians-museum/02-5de5ee6b-800w.webp"
-  - "/images-sites/west-palatine-musicians-museum/03-ed928612-800w.webp"
+  - "/images/west-palatine-musicians-museum/01-c8cd34fd-800w.webp"
+  - "/images/west-palatine-musicians-museum/02-5de5ee6b-800w.webp"
+  - "/images/west-palatine-musicians-museum/03-ed928612-800w.webp"
 ---
 
 ## Overview

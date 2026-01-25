@@ -1,19 +1,49 @@
 ---
-title: "Ehekarussell"
+title: Ehekarussell
 date: 2026-01-23
 draft: false
-description: "fountain (Nuremberg, Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain (Nuremberg, Germany)
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4506
 longitude: 11.071
 images:
-  - "/images-sites/ehekarussell/01-0b3f0c52-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1200px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/1200px-Ehekarussel01.jpg
+image_srcset:
+  Carrusel del matrimonio, Núremberg, Alemania, 2013-03-16, DD 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/400px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/800px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg/1920px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_04.jpg
+  Carrusel del matrimonio, Núremberg, Alemania, 2013-03-16, DD 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/400px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/800px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg/1920px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_03.jpg
+  Carrusel del matrimonio, Núremberg, Alemania, 2013-03-16, DD 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/400px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/800px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/1200px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg/1920px-Carrusel_del_matrimonio,_Núremberg,_Alemania,_2013-03-16,_DD_09.jpg
+  00 2852 Hans Sachs-Brunnen in Nürnberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/400px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/800px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1200px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg/1920px-00_2852_Hans_Sachs-Brunnen_in_Nürnberg.jpg
+  Ehekarussel01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/400px-Ehekarussel01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/800px-Ehekarussel01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/1200px-Ehekarussel01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ehekarussel01.jpg/1920px-Ehekarussel01.jpg
 ---
 
 ## Overview

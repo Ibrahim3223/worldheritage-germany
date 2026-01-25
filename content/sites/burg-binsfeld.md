@@ -1,27 +1,49 @@
 ---
-title: "Burg Binsfeld"
+title: Burg Binsfeld
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.791388888
 longitude: 6.544444444
-
-# Images
 images:
-  - "/images-sites/burg-binsfeld/01-264bc341-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg/1200px-Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Südansicht_4.jpg/1200px-Burg_Südansicht_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dueren_2008_Binsfeld_2.jpg/1200px-Dueren_2008_Binsfeld_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dueren_2008_Binsfeld_8.jpg/1200px-Dueren_2008_Binsfeld_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Innenhof.jpg/1200px-Burg_Innenhof.jpg
+image_srcset:
+  Nörvenich-Binsfeld Denkmal-Nr. 1, Frauwüllesheimer Str. K 44 (1493).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg/400px-Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg/800px-Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg/1200px-Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg/1920px-Nörvenich-Binsfeld_Denkmal-Nr._1,_Frauwüllesheimer_Str._K_44_(1493).jpg
+  Burg Südansicht 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Südansicht_4.jpg/400px-Burg_Südansicht_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Südansicht_4.jpg/800px-Burg_Südansicht_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Südansicht_4.jpg/1200px-Burg_Südansicht_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Burg_Südansicht_4.jpg/1920px-Burg_Südansicht_4.jpg
+  Dueren 2008 Binsfeld 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dueren_2008_Binsfeld_2.jpg/400px-Dueren_2008_Binsfeld_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dueren_2008_Binsfeld_2.jpg/800px-Dueren_2008_Binsfeld_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dueren_2008_Binsfeld_2.jpg/1200px-Dueren_2008_Binsfeld_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dueren_2008_Binsfeld_2.jpg/1920px-Dueren_2008_Binsfeld_2.jpg
+  Dueren 2008 Binsfeld 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dueren_2008_Binsfeld_8.jpg/400px-Dueren_2008_Binsfeld_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dueren_2008_Binsfeld_8.jpg/800px-Dueren_2008_Binsfeld_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dueren_2008_Binsfeld_8.jpg/1200px-Dueren_2008_Binsfeld_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dueren_2008_Binsfeld_8.jpg/1920px-Dueren_2008_Binsfeld_8.jpg
+  Burg Innenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Innenhof.jpg/400px-Burg_Innenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Innenhof.jpg/800px-Burg_Innenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Innenhof.jpg/1200px-Burg_Innenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Burg_Innenhof.jpg/1920px-Burg_Innenhof.jpg
 ---
 
 ## Overview

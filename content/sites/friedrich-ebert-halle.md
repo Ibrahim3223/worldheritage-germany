@@ -1,20 +1,49 @@
 ---
-title: "Friedrich-Ebert-Halle"
+title: Friedrich-Ebert-Halle
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall in Ludwigshafen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall in Ludwigshafen, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4914
 longitude: 8.41291
 images:
-  - "/images-sites/friedrich-ebert-halle/02-91a13049-800w.webp"
-  - "/images-sites/friedrich-ebert-halle/03-a6ffc3d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg/1200px-Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friedrich-Ebert-Halle_Hamburg.jpg/1200px-Friedrich-Ebert-Halle_Hamburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ludwigshafen_Friesenheim_Eberthalle2.jpg/1200px-Ludwigshafen_Friesenheim_Eberthalle2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eberthalle_im_Ebertpark_-_panoramio.jpg/1200px-Eberthalle_im_Ebertpark_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/1200px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
+image_srcset:
+  Friedrich-Ebert-Halle LU Eingangsbereich.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg/400px-Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg/800px-Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg/1200px-Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg/1920px-Friedrich-Ebert-Halle_LU_Eingangsbereich.jpg
+  Friedrich-Ebert-Halle Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friedrich-Ebert-Halle_Hamburg.jpg/400px-Friedrich-Ebert-Halle_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friedrich-Ebert-Halle_Hamburg.jpg/800px-Friedrich-Ebert-Halle_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friedrich-Ebert-Halle_Hamburg.jpg/1200px-Friedrich-Ebert-Halle_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Friedrich-Ebert-Halle_Hamburg.jpg/1920px-Friedrich-Ebert-Halle_Hamburg.jpg
+  Ludwigshafen Friesenheim Eberthalle2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ludwigshafen_Friesenheim_Eberthalle2.jpg/400px-Ludwigshafen_Friesenheim_Eberthalle2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ludwigshafen_Friesenheim_Eberthalle2.jpg/800px-Ludwigshafen_Friesenheim_Eberthalle2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ludwigshafen_Friesenheim_Eberthalle2.jpg/1200px-Ludwigshafen_Friesenheim_Eberthalle2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ludwigshafen_Friesenheim_Eberthalle2.jpg/1920px-Ludwigshafen_Friesenheim_Eberthalle2.jpg
+  Eberthalle im Ebertpark - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eberthalle_im_Ebertpark_-_panoramio.jpg/400px-Eberthalle_im_Ebertpark_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eberthalle_im_Ebertpark_-_panoramio.jpg/800px-Eberthalle_im_Ebertpark_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eberthalle_im_Ebertpark_-_panoramio.jpg/1200px-Eberthalle_im_Ebertpark_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eberthalle_im_Ebertpark_-_panoramio.jpg/1920px-Eberthalle_im_Ebertpark_-_panoramio.jpg
+  Ludwigshafen Friesenheim Eberthalle3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/400px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/800px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/1200px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ludwigshafen_Friesenheim_Eberthalle3.jpg/1920px-Ludwigshafen_Friesenheim_Eberthalle3.jpg
 ---
 
 ## Overview

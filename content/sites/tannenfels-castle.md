@@ -21,7 +21,7 @@ longitude: 7.935
 
 # Images
 images:
-  - "/images-sites/tannenfels-castle/01-f46d1830-800w.webp"
+  - "/images/tannenfels-castle/01-f46d1830-800w.webp"
 ---
 
 ## Overview

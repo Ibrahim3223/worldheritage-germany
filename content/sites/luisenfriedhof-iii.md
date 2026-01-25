@@ -13,9 +13,9 @@ regions:
 latitude: 52.524741666
 longitude: 13.277119444
 images:
-  - "/images-sites/luisenfriedhof-iii/01-29e1cd8f-800w.webp"
-  - "/images-sites/luisenfriedhof-iii/02-1f409167-800w.webp"
-  - "/images-sites/luisenfriedhof-iii/03-f6244a6c-800w.webp"
+  - "/images/luisenfriedhof-iii/01-29e1cd8f-800w.webp"
+  - "/images/luisenfriedhof-iii/02-1f409167-800w.webp"
+  - "/images/luisenfriedhof-iii/03-f6244a6c-800w.webp"
 ---
 
 ## Overview

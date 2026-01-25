@@ -1,24 +1,51 @@
 ---
-title: "Christus-König-Kirche"
-site_name: "Christus-König-Kirche"
-slug: "christus-konig-kirche"
-region: "Baden-Württemberg"
-
-# Location
+title: Christus-König-Kirche
+site_name: Christus-König-Kirche
+slug: christus-konig-kirche
+region: Baden-Württemberg
 latitude: 49.0778
 longitude: 9.07422
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087174"
-description: "In the heart of Brackenheim, a town in the Heilbronn district of Baden-Württemberg, Germany, lies the Christus-König-Kirche, a striking example of moder..."
+- church building
+- religious site
+wikidata_id: Q1087174
+description: In the heart of Brackenheim, a town in the Heilbronn district of Baden-Württemberg,
+  Germany, lies the Christus-König-Kirche, a striking example of moder...
 images:
-  - "/images-sites/christus-konig-kirche/01-88d201f0-1920w.webp"
-  - "/images-sites/christus-konig-kirche/02-2caeceef-1920w.webp"
-  - "/images-sites/christus-konig-kirche/03-d1817745-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg/1200px-Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Christkönigskirche_Oeffingen_Turm.jpg/1200px-Christkönigskirche_Oeffingen_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Christkönigskirche_Oeffingen_1.jpg/1200px-Christkönigskirche_Oeffingen_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Christkönigskirche_Oeffingen_Eckturm.jpg/1200px-Christkönigskirche_Oeffingen_Eckturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg/1200px-Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg
+image_srcset:
+  Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg/400px-Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg/800px-Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg/1200px-Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg/1920px-Brackenheim%20Christus-Koenig-Kirche%2020120920%201.jpg
+  Christkönigskirche Oeffingen Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Christkönigskirche_Oeffingen_Turm.jpg/400px-Christkönigskirche_Oeffingen_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Christkönigskirche_Oeffingen_Turm.jpg/800px-Christkönigskirche_Oeffingen_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Christkönigskirche_Oeffingen_Turm.jpg/1200px-Christkönigskirche_Oeffingen_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Christkönigskirche_Oeffingen_Turm.jpg/1920px-Christkönigskirche_Oeffingen_Turm.jpg
+  Christkönigskirche Oeffingen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Christkönigskirche_Oeffingen_1.jpg/400px-Christkönigskirche_Oeffingen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Christkönigskirche_Oeffingen_1.jpg/800px-Christkönigskirche_Oeffingen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Christkönigskirche_Oeffingen_1.jpg/1200px-Christkönigskirche_Oeffingen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Christkönigskirche_Oeffingen_1.jpg/1920px-Christkönigskirche_Oeffingen_1.jpg
+  Christkönigskirche Oeffingen Eckturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Christkönigskirche_Oeffingen_Eckturm.jpg/400px-Christkönigskirche_Oeffingen_Eckturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Christkönigskirche_Oeffingen_Eckturm.jpg/800px-Christkönigskirche_Oeffingen_Eckturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Christkönigskirche_Oeffingen_Eckturm.jpg/1200px-Christkönigskirche_Oeffingen_Eckturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Christkönigskirche_Oeffingen_Eckturm.jpg/1920px-Christkönigskirche_Oeffingen_Eckturm.jpg
+  Oeffingen christkoenig ansichtturm800x1066 rothmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg/400px-Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg/800px-Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg/1200px-Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg/1920px-Oeffingen_christkoenig_ansichtturm800x1066_rothmund.jpg
 ---
 
 ## Overview

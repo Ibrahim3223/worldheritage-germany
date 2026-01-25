@@ -21,7 +21,7 @@ longitude: 6.6685
 
 # Images
 images:
-  - "/images-sites/roman-aqueduct-vussem/01-e36f9c26-800w.webp"
+  - "/images/roman-aqueduct-vussem/01-e36f9c26-800w.webp"
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Burg Mägdeberg"
+title: Burg Mägdeberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.80527778
 longitude: 8.7975
-
-# Images
 images:
-  - "/images-sites/burg-maegdeberg/01-c7cddf68-800w.webp"
-  - "/images-sites/burg-maegdeberg/02-6640ad5c-800w.webp"
-  - "/images-sites/burg-maegdeberg/03-ee056276-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mägdeburg_von_Südosten.jpg/1200px-Mägdeburg_von_Südosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mägdeburg_und_Hohenkrähen.jpg/1200px-Mägdeburg_und_Hohenkrähen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1200px-Ruine_Maegdeberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ruine_Maegdeberg_Kapelle.JPG/1200px-Ruine_Maegdeberg_Kapelle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Maegdeberg_Hegau.jpg/1200px-Maegdeberg_Hegau.jpg
+image_srcset:
+  Mägdeburg von Südosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mägdeburg_von_Südosten.jpg/400px-Mägdeburg_von_Südosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mägdeburg_von_Südosten.jpg/800px-Mägdeburg_von_Südosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mägdeburg_von_Südosten.jpg/1200px-Mägdeburg_von_Südosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mägdeburg_von_Südosten.jpg/1920px-Mägdeburg_von_Südosten.jpg
+  Mägdeburg und Hohenkrähen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mägdeburg_und_Hohenkrähen.jpg/400px-Mägdeburg_und_Hohenkrähen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mägdeburg_und_Hohenkrähen.jpg/800px-Mägdeburg_und_Hohenkrähen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mägdeburg_und_Hohenkrähen.jpg/1200px-Mägdeburg_und_Hohenkrähen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mägdeburg_und_Hohenkrähen.jpg/1920px-Mägdeburg_und_Hohenkrähen.jpg
+  Ruine Maegdeberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/400px-Ruine_Maegdeberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/800px-Ruine_Maegdeberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1200px-Ruine_Maegdeberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ruine_Maegdeberg.JPG/1920px-Ruine_Maegdeberg.JPG
+  Ruine Maegdeberg Kapelle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ruine_Maegdeberg_Kapelle.JPG/400px-Ruine_Maegdeberg_Kapelle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ruine_Maegdeberg_Kapelle.JPG/800px-Ruine_Maegdeberg_Kapelle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ruine_Maegdeberg_Kapelle.JPG/1200px-Ruine_Maegdeberg_Kapelle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ruine_Maegdeberg_Kapelle.JPG/1920px-Ruine_Maegdeberg_Kapelle.JPG
+  Maegdeberg Hegau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Maegdeberg_Hegau.jpg/400px-Maegdeberg_Hegau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Maegdeberg_Hegau.jpg/800px-Maegdeberg_Hegau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Maegdeberg_Hegau.jpg/1200px-Maegdeberg_Hegau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Maegdeberg_Hegau.jpg/1920px-Maegdeberg_Hegau.jpg
 ---
 
 ## Overview

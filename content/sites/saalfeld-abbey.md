@@ -13,7 +13,7 @@ regions:
 latitude: 50.6524
 longitude: 11.3585
 images:
-  - "/images-sites/saalfeld-abbey/01-0a201da7-800w.webp"
+  - "/images/saalfeld-abbey/01-0a201da7-800w.webp"
 ---
 
 ## Overview

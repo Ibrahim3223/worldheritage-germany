@@ -13,7 +13,7 @@ regions:
 latitude: 51.8364
 longitude: 12.2089
 images:
-  - "/images-sites/technikmuseum-dessau/01-37225f8a-800w.webp"
+  - "/images/technikmuseum-dessau/01-37225f8a-800w.webp"
 ---
 
 ## Overview

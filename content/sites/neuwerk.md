@@ -13,7 +13,7 @@ regions:
 latitude: 53.921325
 longitude: 8.498353
 images:
-  - "/images-sites/neuwerk/01-d79abb97-800w.webp"
+  - "/images/neuwerk/01-d79abb97-800w.webp"
 ---
 
 ## Overview

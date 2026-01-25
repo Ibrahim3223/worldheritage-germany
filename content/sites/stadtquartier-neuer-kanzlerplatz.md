@@ -13,7 +13,7 @@ regions:
 latitude: 50.718444444
 longitude: 7.115055555
 images:
-  - "/images-sites/stadtquartier-neuer-kanzlerplatz/01-8f079a85-800w.webp"
+  - "/images/stadtquartier-neuer-kanzlerplatz/01-8f079a85-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Grüneck"
+title: Burg Grüneck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.770457
 longitude: 7.6717
-
-# Images
 images:
-  - "/images-sites/burg-grueneck/01-f62fa6b3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grüneck_Winter_2015a.jpg/1200px-Grüneck_Winter_2015a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Grüneck_1.jpg/1200px-Burg_Grüneck_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Grüneck_2.jpg/1200px-Burg_Grüneck_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grüneck_3.jpg/1200px-Grüneck_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1200px-Grüneck_4.jpg
+image_srcset:
+  Grüneck Winter 2015a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grüneck_Winter_2015a.jpg/400px-Grüneck_Winter_2015a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grüneck_Winter_2015a.jpg/800px-Grüneck_Winter_2015a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grüneck_Winter_2015a.jpg/1200px-Grüneck_Winter_2015a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Grüneck_Winter_2015a.jpg/1920px-Grüneck_Winter_2015a.jpg
+  Burg Grüneck 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Grüneck_1.jpg/400px-Burg_Grüneck_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Grüneck_1.jpg/800px-Burg_Grüneck_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Grüneck_1.jpg/1200px-Burg_Grüneck_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burg_Grüneck_1.jpg/1920px-Burg_Grüneck_1.jpg
+  Burg Grüneck 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Grüneck_2.jpg/400px-Burg_Grüneck_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Grüneck_2.jpg/800px-Burg_Grüneck_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Grüneck_2.jpg/1200px-Burg_Grüneck_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Grüneck_2.jpg/1920px-Burg_Grüneck_2.jpg
+  Grüneck 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grüneck_3.jpg/400px-Grüneck_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grüneck_3.jpg/800px-Grüneck_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grüneck_3.jpg/1200px-Grüneck_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Grüneck_3.jpg/1920px-Grüneck_3.jpg
+  Grüneck 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/400px-Grüneck_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/800px-Grüneck_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1200px-Grüneck_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grüneck_4.jpg/1920px-Grüneck_4.jpg
 ---
 
 ## Overview

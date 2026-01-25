@@ -1,19 +1,51 @@
 ---
-title: "Church in Hohen Viecheln"
-site_name: "Church in Hohen Viecheln"
-slug: "church-in-hohen-viecheln"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Hohen Viecheln
+site_name: Church in Hohen Viecheln
+slug: church-in-hohen-viecheln
+region: Mecklenburg-Vorpommern
 latitude: 53.7845
 longitude: 11.5133
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244369"
-description: "In the quaint setting of Hohen Viecheln, Germany, stands a remarkable example of Brick Gothic architecture—the Church in Hohen Viecheln. This church, co..."
+- cultural site
+wikidata_id: Q1244369
+description: In the quaint setting of Hohen Viecheln, Germany, stands a remarkable
+  example of Brick Gothic architecture—the Church in Hohen Viecheln. This church,
+  co...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohen%20Viecheln%20Kirche%202008-11-13p.jpg/1200px-Hohen%20Viecheln%20Kirche%202008-11-13p.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KIrche_Hohen_Viecheln_06_2016_02.jpg/1200px-KIrche_Hohen_Viecheln_06_2016_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KIrche_Hohen_Viecheln_06_2016_17.jpg/1200px-KIrche_Hohen_Viecheln_06_2016_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1200px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hohen_Viecheln_Kirche_2008-11-13_031.jpg/1200px-Hohen_Viecheln_Kirche_2008-11-13_031.jpg
+image_srcset:
+  Hohen%20Viecheln%20Kirche%202008-11-13p.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohen%20Viecheln%20Kirche%202008-11-13p.jpg/400px-Hohen%20Viecheln%20Kirche%202008-11-13p.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohen%20Viecheln%20Kirche%202008-11-13p.jpg/800px-Hohen%20Viecheln%20Kirche%202008-11-13p.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohen%20Viecheln%20Kirche%202008-11-13p.jpg/1200px-Hohen%20Viecheln%20Kirche%202008-11-13p.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hohen%20Viecheln%20Kirche%202008-11-13p.jpg/1920px-Hohen%20Viecheln%20Kirche%202008-11-13p.jpg
+  KIrche Hohen Viecheln 06 2016 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KIrche_Hohen_Viecheln_06_2016_02.jpg/400px-KIrche_Hohen_Viecheln_06_2016_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KIrche_Hohen_Viecheln_06_2016_02.jpg/800px-KIrche_Hohen_Viecheln_06_2016_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KIrche_Hohen_Viecheln_06_2016_02.jpg/1200px-KIrche_Hohen_Viecheln_06_2016_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/KIrche_Hohen_Viecheln_06_2016_02.jpg/1920px-KIrche_Hohen_Viecheln_06_2016_02.jpg
+  KIrche Hohen Viecheln 06 2016 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KIrche_Hohen_Viecheln_06_2016_17.jpg/400px-KIrche_Hohen_Viecheln_06_2016_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KIrche_Hohen_Viecheln_06_2016_17.jpg/800px-KIrche_Hohen_Viecheln_06_2016_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KIrche_Hohen_Viecheln_06_2016_17.jpg/1200px-KIrche_Hohen_Viecheln_06_2016_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/KIrche_Hohen_Viecheln_06_2016_17.jpg/1920px-KIrche_Hohen_Viecheln_06_2016_17.jpg
+  Hohen Viecheln Kirche 2008-11-13p.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/400px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/800px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1200px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hohen_Viecheln_Kirche_2008-11-13p.jpg/1920px-Hohen_Viecheln_Kirche_2008-11-13p.jpg
+  Hohen Viecheln Kirche 2008-11-13 031.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hohen_Viecheln_Kirche_2008-11-13_031.jpg/400px-Hohen_Viecheln_Kirche_2008-11-13_031.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hohen_Viecheln_Kirche_2008-11-13_031.jpg/800px-Hohen_Viecheln_Kirche_2008-11-13_031.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hohen_Viecheln_Kirche_2008-11-13_031.jpg/1200px-Hohen_Viecheln_Kirche_2008-11-13_031.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hohen_Viecheln_Kirche_2008-11-13_031.jpg/1920px-Hohen_Viecheln_Kirche_2008-11-13_031.jpg
 ---
 
 ## Overview

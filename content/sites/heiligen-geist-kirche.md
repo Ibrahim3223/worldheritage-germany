@@ -1,24 +1,45 @@
 ---
-title: "Heiligen-Geist-Kirche"
-site_name: "Heiligen-Geist-Kirche"
-slug: "heiligen-geist-kirche"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Heiligen-Geist-Kirche
+site_name: Heiligen-Geist-Kirche
+slug: heiligen-geist-kirche
+region: Mecklenburg-Vorpommern
 latitude: 53.8919
 longitude: 11.4614
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1595126"
-description: "In the heart of Wismar, Germany, the Heiligen-Geist-Kirche stands as a prominent example of Brick Gothic architecture, a style that flourished in Northe..."
+- church building
+- religious site
+wikidata_id: Q1595126
+description: In the heart of Wismar, Germany, the Heiligen-Geist-Kirche stands as
+  a prominent example of Brick Gothic architecture, a style that flourished in Northe...
 images:
-  - "/images-sites/heiligen-geist-kirche/01-9b3574db-1920w.webp"
-  - "/images-sites/heiligen-geist-kirche/02-7e9f9e0f-1920w.webp"
-  - "/images-sites/heiligen-geist-kirche/03-dab93153-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1200px-Wismar-HeiligenGeistKirche1-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy_Spirit_church_in_Wismar_(1).jpg/1200px-Holy_Spirit_church_in_Wismar_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg/1200px-Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RK_0401_04341_Wismar_HeiligenGeistKirche.jpg/1200px-RK_0401_04341_Wismar_HeiligenGeistKirche.jpg
+image_srcset:
+  Wismar-HeiligenGeistKirche1-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/400px-Wismar-HeiligenGeistKirche1-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/800px-Wismar-HeiligenGeistKirche1-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1200px-Wismar-HeiligenGeistKirche1-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wismar-HeiligenGeistKirche1-Bubo.JPG/1920px-Wismar-HeiligenGeistKirche1-Bubo.JPG
+  Holy Spirit church in Wismar (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy_Spirit_church_in_Wismar_(1).jpg/400px-Holy_Spirit_church_in_Wismar_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy_Spirit_church_in_Wismar_(1).jpg/800px-Holy_Spirit_church_in_Wismar_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy_Spirit_church_in_Wismar_(1).jpg/1200px-Holy_Spirit_church_in_Wismar_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy_Spirit_church_in_Wismar_(1).jpg/1920px-Holy_Spirit_church_in_Wismar_(1).jpg
+  Rendsburg Gerhardsbrunnen auf dem Schlossplatz 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg/400px-Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg/800px-Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg/1200px-Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg/1920px-Rendsburg_Gerhardsbrunnen_auf_dem_Schlossplatz_2.jpg
+  RK 0401 04341 Wismar HeiligenGeistKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RK_0401_04341_Wismar_HeiligenGeistKirche.jpg/400px-RK_0401_04341_Wismar_HeiligenGeistKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RK_0401_04341_Wismar_HeiligenGeistKirche.jpg/800px-RK_0401_04341_Wismar_HeiligenGeistKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RK_0401_04341_Wismar_HeiligenGeistKirche.jpg/1200px-RK_0401_04341_Wismar_HeiligenGeistKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RK_0401_04341_Wismar_HeiligenGeistKirche.jpg/1920px-RK_0401_04341_Wismar_HeiligenGeistKirche.jpg
 ---
 
 ## Overview

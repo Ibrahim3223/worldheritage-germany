@@ -13,7 +13,7 @@ regions:
 latitude: 51.226
 longitude: 6.77794
 images:
-  - "/images-sites/koenigliches-gymnasium-alleestrasse-32/01-39b158a2-800w.webp"
+  - "/images/koenigliches-gymnasium-alleestrasse-32/01-39b158a2-800w.webp"
 ---
 
 ## Overview

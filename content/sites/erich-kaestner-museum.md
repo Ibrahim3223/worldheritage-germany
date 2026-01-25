@@ -1,20 +1,49 @@
 ---
-title: "Erich Kästner Museum"
+title: Erich Kästner Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0638
 longitude: 13.7457
 images:
-  - "/images-sites/erich-kaestner-museum/01-ea04de89-800w.webp"
-  - "/images-sites/erich-kaestner-museum/03-0a48bb40-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg/1200px-StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonstraße_1_Dresden_Kdm.JPG/1200px-Antonstraße_1_Dresden_Kdm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg/1200px-Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/1200px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg/1200px-180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg
+image_srcset:
+  StVO non-compliant traffic stop signs in Dresden Albertplatz - Erich Kästner Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg/400px-StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg/800px-StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg/1200px-StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg/1920px-StVO_non-compliant_traffic_stop_signs_in_Dresden_Albertplatz_-_Erich_Kästner_Museum.jpg
+  Antonstraße 1 Dresden Kdm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonstraße_1_Dresden_Kdm.JPG/400px-Antonstraße_1_Dresden_Kdm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonstraße_1_Dresden_Kdm.JPG/800px-Antonstraße_1_Dresden_Kdm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonstraße_1_Dresden_Kdm.JPG/1200px-Antonstraße_1_Dresden_Kdm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antonstraße_1_Dresden_Kdm.JPG/1920px-Antonstraße_1_Dresden_Kdm.JPG
+  Erich Kästner Gedenkstätte Albertplatz Dresden 9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg/400px-Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg/800px-Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg/1200px-Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg/1920px-Erich_Kästner_Gedenkstätte_Albertplatz_Dresden_9.jpg
+  EKM open-13 Säulen Foto Ruairí O'Brien.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/400px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/800px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/1200px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg/1920px-EKM_open-13_Säulen_Foto_Ruairí_O'Brien.tif.jpg
+  180804 dresden-kaestnerhaus-plastik-auf-mauer 2-640x480.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg/400px-180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg/800px-180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg/1200px-180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg/1920px-180804_dresden-kaestnerhaus-plastik-auf-mauer_2-640x480.jpg
 ---
 
 ## Overview

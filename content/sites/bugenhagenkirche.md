@@ -1,24 +1,51 @@
 ---
-title: "Bugenhagenkirche"
-site_name: "Bugenhagenkirche"
-slug: "bugenhagenkirche"
-region: "Lower Saxony"
-
-# Location
+title: Bugenhagenkirche
+site_name: Bugenhagenkirche
+slug: bugenhagenkirche
+region: Lower Saxony
 latitude: 52.3544
 longitude: 9.76457
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1002410"
-description: "In the heart of Hannover, Germany, the Bugenhagenkirche stands as a striking example of modern architecture and Lutheran faith. Completed in 1960, this ..."
+- church building
+- religious site
+wikidata_id: Q1002410
+description: In the heart of Hannover, Germany, the Bugenhagenkirche stands as a striking
+  example of modern architecture and Lutheran faith. Completed in 1960, this ...
 images:
-  - "/images-sites/bugenhagenkirche/01-d90d1372-1920w.webp"
-  - "/images-sites/bugenhagenkirche/02-495c5231-1920w.webp"
-  - "/images-sites/bugenhagenkirche/03-ac19f953-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg/1200px-Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg/1200px-20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg/1200px-20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg/1200px-20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg/1200px-20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg
+image_srcset:
+  Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg/400px-Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg/800px-Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg/1200px-Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg/1920px-Bugenhagenkirche%20Saarstrasse%20Suedstadt%20Hannover%20Germany.jpg
+  20040630650DR Wieck (Greifswald) Bugenhagenkirche zur Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg/400px-20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg/800px-20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg/1200px-20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg/1920px-20040630650DR_Wieck_(Greifswald)_Bugenhagenkirche_zur_Orgel.jpg
+  20040630600DR Wieck (Greifswald) Bugenhagenkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg/400px-20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg/800px-20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg/1200px-20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg/1920px-20040630600DR_Wieck_(Greifswald)_Bugenhagenkirche.jpg
+  20040630620DR Wieck (Greifswald) Bugenhagenkirche zum Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg/400px-20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg/800px-20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg/1200px-20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg/1920px-20040630620DR_Wieck_(Greifswald)_Bugenhagenkirche_zum_Altar.jpg
+  20040630630DR Wieck (Greifswald) Bugenhagenkirche Flügelaltar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg/400px-20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg/800px-20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg/1200px-20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg/1920px-20040630630DR_Wieck_(Greifswald)_Bugenhagenkirche_Flügelaltar.jpg
 ---
 
 ## Overview

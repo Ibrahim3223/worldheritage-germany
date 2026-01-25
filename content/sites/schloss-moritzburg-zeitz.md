@@ -21,7 +21,7 @@ longitude: 12.126805555
 
 # Images
 images:
-  - "/images-sites/schloss-moritzburg-zeitz/01-66d51845-800w.webp"
+  - "/images/schloss-moritzburg-zeitz/01-66d51845-800w.webp"
 ---
 
 ## Overview

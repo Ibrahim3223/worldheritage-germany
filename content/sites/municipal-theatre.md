@@ -13,8 +13,8 @@ regions:
 latitude: 54.0853
 longitude: 12.1417
 images:
-  - "/images-sites/municipal-theatre/02-bdf4b9af-800w.webp"
-  - "/images-sites/municipal-theatre/03-e4027eeb-800w.webp"
+  - "/images/municipal-theatre/02-bdf4b9af-800w.webp"
+  - "/images/municipal-theatre/03-e4027eeb-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Gruson-Gewächshäuser"
+title: Gruson-Gewächshäuser
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.1138
 longitude: 11.6316
-
-# Images
 images:
-  - "/images-sites/gruson-gewaechshaeuser/01-55f641de-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gruson-Gewächshäuser_48122.jpg/1200px-Gruson-Gewächshäuser_48122.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gruson-Gewächshäuser_48264.jpg/1200px-Gruson-Gewächshäuser_48264.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gruson-Gewächshäuser_48265.jpg/1200px-Gruson-Gewächshäuser_48265.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gruson-Gewächshäuser_48172.jpg/1200px-Gruson-Gewächshäuser_48172.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1200px-Gruson-Gewächshäuser_Außen.JPG
+image_srcset:
+  Gruson-Gewächshäuser 48122.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gruson-Gewächshäuser_48122.jpg/400px-Gruson-Gewächshäuser_48122.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gruson-Gewächshäuser_48122.jpg/800px-Gruson-Gewächshäuser_48122.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gruson-Gewächshäuser_48122.jpg/1200px-Gruson-Gewächshäuser_48122.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gruson-Gewächshäuser_48122.jpg/1920px-Gruson-Gewächshäuser_48122.jpg
+  Gruson-Gewächshäuser 48264.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gruson-Gewächshäuser_48264.jpg/400px-Gruson-Gewächshäuser_48264.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gruson-Gewächshäuser_48264.jpg/800px-Gruson-Gewächshäuser_48264.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gruson-Gewächshäuser_48264.jpg/1200px-Gruson-Gewächshäuser_48264.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gruson-Gewächshäuser_48264.jpg/1920px-Gruson-Gewächshäuser_48264.jpg
+  Gruson-Gewächshäuser 48265.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gruson-Gewächshäuser_48265.jpg/400px-Gruson-Gewächshäuser_48265.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gruson-Gewächshäuser_48265.jpg/800px-Gruson-Gewächshäuser_48265.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gruson-Gewächshäuser_48265.jpg/1200px-Gruson-Gewächshäuser_48265.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gruson-Gewächshäuser_48265.jpg/1920px-Gruson-Gewächshäuser_48265.jpg
+  Gruson-Gewächshäuser 48172.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gruson-Gewächshäuser_48172.jpg/400px-Gruson-Gewächshäuser_48172.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gruson-Gewächshäuser_48172.jpg/800px-Gruson-Gewächshäuser_48172.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gruson-Gewächshäuser_48172.jpg/1200px-Gruson-Gewächshäuser_48172.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gruson-Gewächshäuser_48172.jpg/1920px-Gruson-Gewächshäuser_48172.jpg
+  Gruson-Gewächshäuser Außen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/400px-Gruson-Gewächshäuser_Außen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/800px-Gruson-Gewächshäuser_Außen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1200px-Gruson-Gewächshäuser_Außen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gruson-Gewächshäuser_Außen.JPG/1920px-Gruson-Gewächshäuser_Außen.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.165556111
 longitude: 13.743333055
 images:
-  - "/images-sites/peenemuender-haken-struck-und-ruden-gebietsteil-a/01-bbc361f3-800w.webp"
+  - "/images/peenemuender-haken-struck-und-ruden-gebietsteil-a/01-bbc361f3-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.9476
 longitude: 7.58725
 images:
-  - "/images-sites/westphalian-horse-museum/01-bd8d0d58-800w.webp"
+  - "/images/westphalian-horse-museum/01-bd8d0d58-800w.webp"
 ---
 
 ## Overview

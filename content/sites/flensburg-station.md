@@ -1,19 +1,49 @@
 ---
-title: "Flensburg station"
+title: Flensburg station
 date: 2026-01-23
 draft: false
-description: "railway station in Flensburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Flensburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 54.774663
 longitude: 9.436781
 images:
-  - "/images-sites/flensburg-station/01-d0e17b70-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Flensburg_2018_02.jpg/1200px-Bahnhof_Flensburg_2018_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhof_Flensburg_2018_13.jpg/1200px-Bahnhof_Flensburg_2018_13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bahnhof_Flensburg_2018_18.jpg/1200px-Bahnhof_Flensburg_2018_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bahnhof_Flensburg_2018_21.jpg/1200px-Bahnhof_Flensburg_2018_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bahnhof_Flensburg_2018_26.jpg/1200px-Bahnhof_Flensburg_2018_26.jpg
+image_srcset:
+  Bahnhof Flensburg 2018 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Flensburg_2018_02.jpg/400px-Bahnhof_Flensburg_2018_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Flensburg_2018_02.jpg/800px-Bahnhof_Flensburg_2018_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Flensburg_2018_02.jpg/1200px-Bahnhof_Flensburg_2018_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bahnhof_Flensburg_2018_02.jpg/1920px-Bahnhof_Flensburg_2018_02.jpg
+  Bahnhof Flensburg 2018 13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhof_Flensburg_2018_13.jpg/400px-Bahnhof_Flensburg_2018_13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhof_Flensburg_2018_13.jpg/800px-Bahnhof_Flensburg_2018_13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhof_Flensburg_2018_13.jpg/1200px-Bahnhof_Flensburg_2018_13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bahnhof_Flensburg_2018_13.jpg/1920px-Bahnhof_Flensburg_2018_13.jpg
+  Bahnhof Flensburg 2018 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bahnhof_Flensburg_2018_18.jpg/400px-Bahnhof_Flensburg_2018_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bahnhof_Flensburg_2018_18.jpg/800px-Bahnhof_Flensburg_2018_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bahnhof_Flensburg_2018_18.jpg/1200px-Bahnhof_Flensburg_2018_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bahnhof_Flensburg_2018_18.jpg/1920px-Bahnhof_Flensburg_2018_18.jpg
+  Bahnhof Flensburg 2018 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bahnhof_Flensburg_2018_21.jpg/400px-Bahnhof_Flensburg_2018_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bahnhof_Flensburg_2018_21.jpg/800px-Bahnhof_Flensburg_2018_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bahnhof_Flensburg_2018_21.jpg/1200px-Bahnhof_Flensburg_2018_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bahnhof_Flensburg_2018_21.jpg/1920px-Bahnhof_Flensburg_2018_21.jpg
+  Bahnhof Flensburg 2018 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bahnhof_Flensburg_2018_26.jpg/400px-Bahnhof_Flensburg_2018_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bahnhof_Flensburg_2018_26.jpg/800px-Bahnhof_Flensburg_2018_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bahnhof_Flensburg_2018_26.jpg/1200px-Bahnhof_Flensburg_2018_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bahnhof_Flensburg_2018_26.jpg/1920px-Bahnhof_Flensburg_2018_26.jpg
 ---
 
 ## Overview

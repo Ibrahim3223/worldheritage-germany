@@ -13,7 +13,7 @@ regions:
 latitude: 51.2272
 longitude: 6.77556
 images:
-  - "/images-sites/kommoedchen/01-df8408f4-800w.webp"
+  - "/images/kommoedchen/01-df8408f4-800w.webp"
 ---
 
 ## Overview

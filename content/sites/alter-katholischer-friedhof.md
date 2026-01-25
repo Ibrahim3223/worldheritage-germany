@@ -1,19 +1,49 @@
 ---
-title: "Alter Katholischer Friedhof"
+title: Alter Katholischer Friedhof
 date: 2026-01-23
 draft: false
-description: "heritage cemetery in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: heritage cemetery in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0603
 longitude: 13.7193
 images:
-  - "/images-sites/alter-katholischer-friedhof/01-524f2450-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gedenktafel_Dorothea_Tieck_Dresden.JPG/1200px-Gedenktafel_Dorothea_Tieck_Dresden.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DD-Grabmal-Eduard-Merzinger.jpg/1200px-DD-Grabmal-Eduard-Merzinger.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DD-AKF-Grabmal-Huberty.jpg/1200px-DD-AKF-Grabmal-Huberty.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1200px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Franz_Seydelmann_Grab_Dresden.jpg/1200px-Franz_Seydelmann_Grab_Dresden.jpg
+image_srcset:
+  Gedenktafel Dorothea Tieck Dresden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gedenktafel_Dorothea_Tieck_Dresden.JPG/400px-Gedenktafel_Dorothea_Tieck_Dresden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gedenktafel_Dorothea_Tieck_Dresden.JPG/800px-Gedenktafel_Dorothea_Tieck_Dresden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gedenktafel_Dorothea_Tieck_Dresden.JPG/1200px-Gedenktafel_Dorothea_Tieck_Dresden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gedenktafel_Dorothea_Tieck_Dresden.JPG/1920px-Gedenktafel_Dorothea_Tieck_Dresden.JPG
+  DD-Grabmal-Eduard-Merzinger.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DD-Grabmal-Eduard-Merzinger.jpg/400px-DD-Grabmal-Eduard-Merzinger.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DD-Grabmal-Eduard-Merzinger.jpg/800px-DD-Grabmal-Eduard-Merzinger.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DD-Grabmal-Eduard-Merzinger.jpg/1200px-DD-Grabmal-Eduard-Merzinger.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/DD-Grabmal-Eduard-Merzinger.jpg/1920px-DD-Grabmal-Eduard-Merzinger.jpg
+  DD-AKF-Grabmal-Huberty.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DD-AKF-Grabmal-Huberty.jpg/400px-DD-AKF-Grabmal-Huberty.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DD-AKF-Grabmal-Huberty.jpg/800px-DD-AKF-Grabmal-Huberty.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DD-AKF-Grabmal-Huberty.jpg/1200px-DD-AKF-Grabmal-Huberty.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DD-AKF-Grabmal-Huberty.jpg/1920px-DD-AKF-Grabmal-Huberty.jpg
+  Kapelle 1 Alter Katholischer Friedhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/400px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/800px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1200px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kapelle_1_Alter_Katholischer_Friedhof.JPG/1920px-Kapelle_1_Alter_Katholischer_Friedhof.JPG
+  Franz Seydelmann Grab Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Franz_Seydelmann_Grab_Dresden.jpg/400px-Franz_Seydelmann_Grab_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Franz_Seydelmann_Grab_Dresden.jpg/800px-Franz_Seydelmann_Grab_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Franz_Seydelmann_Grab_Dresden.jpg/1200px-Franz_Seydelmann_Grab_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Franz_Seydelmann_Grab_Dresden.jpg/1920px-Franz_Seydelmann_Grab_Dresden.jpg
 ---
 
 ## Overview

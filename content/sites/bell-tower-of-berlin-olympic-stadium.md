@@ -1,19 +1,49 @@
 ---
-title: "Bell Tower of Berlin Olympic Stadium"
+title: Bell Tower of Berlin Olympic Stadium
 date: 2026-01-24
 draft: false
-description: "tower"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5139
 longitude: 13.2317
 images:
-  - "/images-sites/bell-tower-of-berlin-olympic-stadium/01-a4faa82b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1200px-Olympia_Glockenturm_B-Westend_07-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/200806_Berlin_418.JPG/1200px-200806_Berlin_418.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg/1200px-Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg/1200px-Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BerlinOlympiastadion1985.jpg/1200px-BerlinOlympiastadion1985.jpg
+image_srcset:
+  Olympia Glockenturm B-Westend 07-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/400px-Olympia_Glockenturm_B-Westend_07-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/800px-Olympia_Glockenturm_B-Westend_07-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1200px-Olympia_Glockenturm_B-Westend_07-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Olympia_Glockenturm_B-Westend_07-2017.jpg/1920px-Olympia_Glockenturm_B-Westend_07-2017.jpg
+  200806 Berlin 418.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/200806_Berlin_418.JPG/400px-200806_Berlin_418.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/200806_Berlin_418.JPG/800px-200806_Berlin_418.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/200806_Berlin_418.JPG/1200px-200806_Berlin_418.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/200806_Berlin_418.JPG/1920px-200806_Berlin_418.JPG
+  Berlin Jun 2012 064 (Amateurstadion Berlin).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg/400px-Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg/800px-Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg/1200px-Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg/1920px-Berlin_Jun_2012_064_(Amateurstadion_Berlin).jpg
+  Glockenturm Carillon im Großen Tiergarten in Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg/400px-Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg/800px-Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg/1200px-Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg/1920px-Glockenturm_Carillon_im_Großen_Tiergarten_in_Berlin.jpg
+  BerlinOlympiastadion1985.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BerlinOlympiastadion1985.jpg/400px-BerlinOlympiastadion1985.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BerlinOlympiastadion1985.jpg/800px-BerlinOlympiastadion1985.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BerlinOlympiastadion1985.jpg/1200px-BerlinOlympiastadion1985.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BerlinOlympiastadion1985.jpg/1920px-BerlinOlympiastadion1985.jpg
 ---
 
 ## Overview

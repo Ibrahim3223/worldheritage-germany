@@ -1,27 +1,49 @@
 ---
-title: "Gilde Brewery"
+title: Gilde Brewery
 date: 2026-01-23
 draft: false
-description: "brewery from Hanover, Germany dating to 1526"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery from Hanover, Germany dating to 1526
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.354444444
 longitude: 9.754444444
-
-# Images
 images:
-  - "/images-sites/gilde-brewery/01-2a826bcf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-01-21_Gilde_Brauerei_Hannover.jpg/1200px-2024-01-21_Gilde_Brauerei_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2023-07-06_Gilde_Brauerei_Hannover_2.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2023-07-06_Gilde_Brauerei_Hannover_3.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2023-07-06_Gilde_Brauerei_Hannover.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-07-06_Gilde_Brauerei_Hannover_4.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover_4.jpg
+image_srcset:
+  2024-01-21 Gilde Brauerei Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-01-21_Gilde_Brauerei_Hannover.jpg/400px-2024-01-21_Gilde_Brauerei_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-01-21_Gilde_Brauerei_Hannover.jpg/800px-2024-01-21_Gilde_Brauerei_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-01-21_Gilde_Brauerei_Hannover.jpg/1200px-2024-01-21_Gilde_Brauerei_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2024-01-21_Gilde_Brauerei_Hannover.jpg/1920px-2024-01-21_Gilde_Brauerei_Hannover.jpg
+  2023-07-06 Gilde Brauerei Hannover 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2023-07-06_Gilde_Brauerei_Hannover_2.jpg/400px-2023-07-06_Gilde_Brauerei_Hannover_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2023-07-06_Gilde_Brauerei_Hannover_2.jpg/800px-2023-07-06_Gilde_Brauerei_Hannover_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2023-07-06_Gilde_Brauerei_Hannover_2.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2023-07-06_Gilde_Brauerei_Hannover_2.jpg/1920px-2023-07-06_Gilde_Brauerei_Hannover_2.jpg
+  2023-07-06 Gilde Brauerei Hannover 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2023-07-06_Gilde_Brauerei_Hannover_3.jpg/400px-2023-07-06_Gilde_Brauerei_Hannover_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2023-07-06_Gilde_Brauerei_Hannover_3.jpg/800px-2023-07-06_Gilde_Brauerei_Hannover_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2023-07-06_Gilde_Brauerei_Hannover_3.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2023-07-06_Gilde_Brauerei_Hannover_3.jpg/1920px-2023-07-06_Gilde_Brauerei_Hannover_3.jpg
+  2023-07-06 Gilde Brauerei Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2023-07-06_Gilde_Brauerei_Hannover.jpg/400px-2023-07-06_Gilde_Brauerei_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2023-07-06_Gilde_Brauerei_Hannover.jpg/800px-2023-07-06_Gilde_Brauerei_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2023-07-06_Gilde_Brauerei_Hannover.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2023-07-06_Gilde_Brauerei_Hannover.jpg/1920px-2023-07-06_Gilde_Brauerei_Hannover.jpg
+  2023-07-06 Gilde Brauerei Hannover 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-07-06_Gilde_Brauerei_Hannover_4.jpg/400px-2023-07-06_Gilde_Brauerei_Hannover_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-07-06_Gilde_Brauerei_Hannover_4.jpg/800px-2023-07-06_Gilde_Brauerei_Hannover_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-07-06_Gilde_Brauerei_Hannover_4.jpg/1200px-2023-07-06_Gilde_Brauerei_Hannover_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2023-07-06_Gilde_Brauerei_Hannover_4.jpg/1920px-2023-07-06_Gilde_Brauerei_Hannover_4.jpg
 ---
 
 ## Overview

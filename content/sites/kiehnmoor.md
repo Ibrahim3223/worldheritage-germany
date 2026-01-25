@@ -13,7 +13,7 @@ regions:
 latitude: 52.9314
 longitude: 10.2458
 images:
-  - "/images-sites/kiehnmoor/01-1f39f718-800w.webp"
+  - "/images/kiehnmoor/01-1f39f718-800w.webp"
 ---
 
 ## Overview

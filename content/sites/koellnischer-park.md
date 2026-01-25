@@ -13,7 +13,7 @@ regions:
 latitude: 52.5131
 longitude: 13.4147
 images:
-  - "/images-sites/koellnischer-park/01-3f6a1077-800w.webp"
+  - "/images/koellnischer-park/01-3f6a1077-800w.webp"
 ---
 
 ## Overview

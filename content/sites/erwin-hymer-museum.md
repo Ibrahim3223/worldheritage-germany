@@ -1,19 +1,49 @@
 ---
-title: "Erwin Hymer Museum"
+title: Erwin Hymer Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.937316
 longitude: 9.760461
 images:
-  - "/images-sites/erwin-hymer-museum/01-b0c8696b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg/1200px-1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG/1200px-1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg/1200px-Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg/1200px-Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/1200px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
+image_srcset:
+  1951 Opel Rekord P1 mit 1967 Fahti Luxus 600 Bild 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg/400px-1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg/800px-1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg/1200px-1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg/1920px-1951_Opel_Rekord_P1_mit_1967_Fahti_Luxus_600_Bild_1.jpg
+  1972 FIAT 500 mit 1964 Laika 500 Bild 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG/400px-1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG/800px-1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG/1200px-1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG/1920px-1972_FIAT_500_mit_1964_Laika_500_Bild_2.JPG
+  Landappbw 534703 4871 Erwin Hymer Museum Bad Waldsee Bad Waldsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg/400px-Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg/800px-Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg/1200px-Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg/1920px-Landappbw_534703_4871_Erwin_Hymer_Museum_Bad_Waldsee_Bad_Waldsee.jpg
+  Musée Erwin Hymer Museum vue du ciel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg/400px-Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg/800px-Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg/1200px-Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg/1920px-Musée_Erwin_Hymer_Museum_vue_du_ciel.jpg
+  Erwin-Hymer-Museum 2012 by-RaBoe 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/400px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/800px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/1200px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg/1920px-Erwin-Hymer-Museum_2012_by-RaBoe_2.jpg
 ---
 
 ## Overview

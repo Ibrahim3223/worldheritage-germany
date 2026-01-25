@@ -13,7 +13,7 @@ regions:
 latitude: 49.38194444
 longitude: 8.67694444
 images:
-  - "/images-sites/waggonfabrik-fuchs/01-2177d762-800w.webp"
+  - "/images/waggonfabrik-fuchs/01-2177d762-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Burg Dinslaken"
+title: Burg Dinslaken
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.5627
 longitude: 6.73146
-
-# Images
 images:
-  - "/images-sites/burg-dinslaken/01-6a2f2b76-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg
+image_srcset:
+  Dinslaken, Burg Dinslaken, 2011-05 CN-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg/400px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg/800px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg/1920px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-02.jpg
+  Dinslaken, Burg Dinslaken, 2011-05 CN-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg/400px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg/800px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg/1920px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-05.jpg
+  Dinslaken, Burg Dinslaken, 2011-05 CN-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg/400px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg/800px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg/1920px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-04.jpg
+  Dinslaken, Burg Dinslaken, 2011-05 CN-01 retouched.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg/400px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg/800px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg/1920px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-01_retouched.jpg
+  Dinslaken, Burg Dinslaken, 2011-05 CN-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg/400px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg/800px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg/1200px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg/1920px-Dinslaken,_Burg_Dinslaken,_2011-05_CN-03.jpg
 ---
 
 ## Overview

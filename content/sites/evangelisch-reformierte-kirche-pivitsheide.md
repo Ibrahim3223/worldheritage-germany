@@ -1,23 +1,33 @@
 ---
-title: "Evangelisch-reformierte Kirche Pivitsheide"
-site_name: "Evangelisch-reformierte Kirche Pivitsheide"
-slug: "evangelisch-reformierte-kirche-pivitsheide"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelisch-reformierte Kirche Pivitsheide
+site_name: Evangelisch-reformierte Kirche Pivitsheide
+slug: evangelisch-reformierte-kirche-pivitsheide
+region: North Rhine-Westphalia
 latitude: 51.9451
 longitude: 8.79039
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380093"
-description: "In the heart of Detmold, Germany, the Evangelisch-reformierte Kirche Pivitsheide presents an intriguing blend of modern architectural design and spiritu..."
+- church building
+- religious site
+wikidata_id: Q1380093
+description: In the heart of Detmold, Germany, the Evangelisch-reformierte Kirche
+  Pivitsheide presents an intriguing blend of modern architectural design and spiritu...
 images:
-  - "/images-sites/evangelisch-reformierte-kirche-pivitsheide/01-c7a732d1-1920w.webp"
-  - "/images-sites/evangelisch-reformierte-kirche-pivitsheide/02-e4ad11f9-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg/1200px-Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1200px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
+image_srcset:
+  Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg/400px-Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg/800px-Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg/1200px-Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg/1920px-Detmold%20-%20Ev.%20Kirche%20Pivitsheide%20VL.jpg
+  Detmold - Ev. Kirche Pivitsheide VL.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/400px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/800px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1200px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg/1920px-Detmold_-_Ev._Kirche_Pivitsheide_VL.jpg
 ---
 
 ## Overview

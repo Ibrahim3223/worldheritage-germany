@@ -1,24 +1,51 @@
 ---
-title: "Berger Kirche (Stuttgart-Berg)"
-site_name: "Berger Kirche (Stuttgart-Berg)"
-slug: "berger-kirche-stuttgart-berg"
-region: "Baden-Württemberg"
-
-# Location
+title: Berger Kirche (Stuttgart-Berg)
+site_name: Berger Kirche (Stuttgart-Berg)
+slug: berger-kirche-stuttgart-berg
+region: Baden-Württemberg
 latitude: 48.7967
 longitude: 9.21056
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q819576"
-description: "In the heart of Stuttgart-Ost lies the Berger Kirche, a striking church building that captures the essence of Gothic Revival architecture. Constructed f..."
+- church building
+- religious site
+wikidata_id: Q819576
+description: In the heart of Stuttgart-Ost lies the Berger Kirche, a striking church
+  building that captures the essence of Gothic Revival architecture. Constructed f...
 images:
-  - "/images-sites/berger-kirche-stuttgart-berg/01-a5627aa7-1920w.webp"
-  - "/images-sites/berger-kirche-stuttgart-berg/02-ffd81846-1920w.webp"
-  - "/images-sites/berger-kirche-stuttgart-berg/03-d6940bed-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berger%20Kirche%20Westansicht.jpg/1200px-Berger%20Kirche%20Westansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bergk_am_Necker_Kupferstich_Merian.jpg/1200px-Bergk_am_Necker_Kupferstich_Merian.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Richtstätten_in_Stuttgart,_007.jpg/1200px-Richtstätten_in_Stuttgart,_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg/1200px-Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg/1200px-Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg
+image_srcset:
+  Berger%20Kirche%20Westansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berger%20Kirche%20Westansicht.jpg/400px-Berger%20Kirche%20Westansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berger%20Kirche%20Westansicht.jpg/800px-Berger%20Kirche%20Westansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berger%20Kirche%20Westansicht.jpg/1200px-Berger%20Kirche%20Westansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berger%20Kirche%20Westansicht.jpg/1920px-Berger%20Kirche%20Westansicht.jpg
+  Bergk am Necker Kupferstich Merian.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bergk_am_Necker_Kupferstich_Merian.jpg/400px-Bergk_am_Necker_Kupferstich_Merian.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bergk_am_Necker_Kupferstich_Merian.jpg/800px-Bergk_am_Necker_Kupferstich_Merian.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bergk_am_Necker_Kupferstich_Merian.jpg/1200px-Bergk_am_Necker_Kupferstich_Merian.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bergk_am_Necker_Kupferstich_Merian.jpg/1920px-Bergk_am_Necker_Kupferstich_Merian.jpg
+  Richtstätten in Stuttgart, 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Richtstätten_in_Stuttgart,_007.jpg/400px-Richtstätten_in_Stuttgart,_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Richtstätten_in_Stuttgart,_007.jpg/800px-Richtstätten_in_Stuttgart,_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Richtstätten_in_Stuttgart,_007.jpg/1200px-Richtstätten_in_Stuttgart,_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Richtstätten_in_Stuttgart,_007.jpg/1920px-Richtstätten_in_Stuttgart,_007.jpg
+  Johann Friedrich Ebner, Stuttgart-Berg mit Berger Kirche und Burg Wirtemberg, vor 1820.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg/400px-Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg/800px-Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg/1200px-Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg/1920px-Johann_Friedrich_Ebner,_Stuttgart-Berg_mit_Berger_Kirche_und_Burg_Wirtemberg,_vor_1820.jpg
+  Carl Beisbarth, Alte Berger Kirche, 1853.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg/400px-Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg/800px-Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg/1200px-Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg/1920px-Carl_Beisbarth,_Alte_Berger_Kirche,_1853.jpg
 ---
 
 ## Overview

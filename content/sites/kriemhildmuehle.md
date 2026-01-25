@@ -13,7 +13,7 @@ regions:
 latitude: 51.663611
 longitude: 6.450556
 images:
-  - "/images-sites/kriemhildmuehle/01-222c8065-800w.webp"
+  - "/images/kriemhildmuehle/01-222c8065-800w.webp"
 ---
 
 ## Overview

@@ -1,24 +1,51 @@
 ---
-title: "Große Kirche"
-site_name: "Große Kirche"
-slug: "grosse-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Große Kirche
+site_name: Große Kirche
+slug: grosse-kirche
+region: Lower Saxony
 latitude: 53.228592
 longitude: 7.449092
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1548233"
-description: "In the heart of Lower Saxony, Germany, you will find the Große Kirche, a striking example of baroque architecture that captures the essence of historica..."
+- church building
+- religious site
+wikidata_id: Q1548233
+description: In the heart of Lower Saxony, Germany, you will find the Große Kirche,
+  a striking example of baroque architecture that captures the essence of historica...
 images:
-  - "/images-sites/grosse-kirche/01-0044c1d1-1920w.webp"
-  - "/images-sites/grosse-kirche/02-a5640a87-1920w.webp"
-  - "/images-sites/grosse-kirche/03-56a9935c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LeerChurch.jpg/1200px-LeerChurch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schepken_Christi.jpg/1200px-Schepken_Christi.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emden_Grosse_Kirche_2015.jpg/1200px-Emden_Grosse_Kirche_2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/1200px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emden,_Große_Kirche,_2010-06_CN-01.jpg/1200px-Emden,_Große_Kirche,_2010-06_CN-01.jpg
+image_srcset:
+  LeerChurch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LeerChurch.jpg/400px-LeerChurch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LeerChurch.jpg/800px-LeerChurch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LeerChurch.jpg/1200px-LeerChurch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LeerChurch.jpg/1920px-LeerChurch.jpg
+  Schepken Christi.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schepken_Christi.jpg/400px-Schepken_Christi.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schepken_Christi.jpg/800px-Schepken_Christi.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schepken_Christi.jpg/1200px-Schepken_Christi.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schepken_Christi.jpg/1920px-Schepken_Christi.jpg
+  Emden Grosse Kirche 2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emden_Grosse_Kirche_2015.jpg/400px-Emden_Grosse_Kirche_2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emden_Grosse_Kirche_2015.jpg/800px-Emden_Grosse_Kirche_2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emden_Grosse_Kirche_2015.jpg/1200px-Emden_Grosse_Kirche_2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emden_Grosse_Kirche_2015.jpg/1920px-Emden_Grosse_Kirche_2015.jpg
+  Emden, Große Kirche, 2010-06 CN-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/400px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/800px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/1200px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emden,_Große_Kirche,_2010-06_CN-02.jpg/1920px-Emden,_Große_Kirche,_2010-06_CN-02.jpg
+  Emden, Große Kirche, 2010-06 CN-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emden,_Große_Kirche,_2010-06_CN-01.jpg/400px-Emden,_Große_Kirche,_2010-06_CN-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emden,_Große_Kirche,_2010-06_CN-01.jpg/800px-Emden,_Große_Kirche,_2010-06_CN-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emden,_Große_Kirche,_2010-06_CN-01.jpg/1200px-Emden,_Große_Kirche,_2010-06_CN-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emden,_Große_Kirche,_2010-06_CN-01.jpg/1920px-Emden,_Große_Kirche,_2010-06_CN-01.jpg
 ---
 
 ## Overview

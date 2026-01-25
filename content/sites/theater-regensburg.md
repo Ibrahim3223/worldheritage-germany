@@ -13,7 +13,7 @@ regions:
 latitude: 49.0192
 longitude: 12.0897
 images:
-  - "/images-sites/theater-regensburg/01-d67308a0-800w.webp"
+  - "/images/theater-regensburg/01-d67308a0-800w.webp"
 ---
 
 ## Overview

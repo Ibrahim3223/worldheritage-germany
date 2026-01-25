@@ -13,9 +13,9 @@ regions:
 latitude: 53.57366944
 longitude: 9.85578056
 images:
-  - "/images-sites/lise-meitner-gymnasium/01-de7369e7-800w.webp"
-  - "/images-sites/lise-meitner-gymnasium/02-d6c471a4-800w.webp"
-  - "/images-sites/lise-meitner-gymnasium/03-209bcd8b-800w.webp"
+  - "/images/lise-meitner-gymnasium/01-de7369e7-800w.webp"
+  - "/images/lise-meitner-gymnasium/02-d6c471a4-800w.webp"
+  - "/images/lise-meitner-gymnasium/03-209bcd8b-800w.webp"
 ---
 
 ## Overview

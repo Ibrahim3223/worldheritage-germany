@@ -1,19 +1,50 @@
 ---
-title: "Habichtsburg"
+title: Habichtsburg
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5866
 longitude: 10.3924
 images:
-  - "/images-sites/habichtsburg/01-621970a0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg/1200px-Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg/1200px-Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg/1200px-Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg/1200px-Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg/1200px-Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Prospect vom Schloss Habspurg bey Brugg - 991008460079705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg/400px-Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg/800px-Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg/1200px-Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg/1920px-Zentralbibliothek_Zürich_-_Prospect_vom_Schloss_Habspurg_bey_Brugg_-_991008460079705501.jpg
+  ? Zentralbibliothek Zürich - Prospect des alten Schlosses Hapsburg im Canton Bern
+    nach der Natur gezeichnet - 991051658509705501.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg/400px-Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg/800px-Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg/1200px-Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg/1920px-Zentralbibliothek_Zürich_-_Prospect_des_alten_Schlosses_Hapsburg_im_Canton_Bern_nach_der_Natur_gezeichnet_-_991051658509705501.jpg
+  Zentralbibliothek Zürich - Habspurg - 991110311999705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg/400px-Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg/800px-Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg/1200px-Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg/1920px-Zentralbibliothek_Zürich_-_Habspurg_-_991110311999705501.jpg
+  Zentralbibliothek Zürich - Gute waar find leicht einen Kauffmann Habspurg im Ergaw - 991121346849705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg/400px-Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg/800px-Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg/1200px-Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg/1920px-Zentralbibliothek_Zürich_-_Gute_waar_find_leicht_einen_Kauffmann_Habspurg_im_Ergaw_-_991121346849705501.jpg
+  Zentralbibliothek Zürich - Habspurg - 991020215999705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg/400px-Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg/800px-Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg/1200px-Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg/1920px-Zentralbibliothek_Zürich_-_Habspurg_-_991020215999705501.jpg
 ---
 
 ## Overview

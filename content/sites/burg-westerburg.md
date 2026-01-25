@@ -1,27 +1,49 @@
 ---
-title: "Burg Westerburg"
+title: Burg Westerburg
 date: 2026-01-23
 draft: false
-description: "castle in Huy, Saxony-Anhalt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Huy, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.0142
 longitude: 10.8661
-
-# Images
 images:
-  - "/images-sites/burg-westerburg/01-320fb119-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Westerburg,_Innenhof.jpg/1200px-Westerburg,_Innenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Huy_Westerburg_-_panoramio_(2).jpg/1200px-Huy_Westerburg_-_panoramio_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Huy_Westerburg_-_panoramio_(1).jpg/1200px-Huy_Westerburg_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wasserschloss_Westerburg_Luftbild_2006.jpg/1200px-Wasserschloss_Westerburg_Luftbild_2006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserschloss_Westerburg_Kastell.jpg/1200px-Wasserschloss_Westerburg_Kastell.jpg
+image_srcset:
+  Westerburg, Innenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Westerburg,_Innenhof.jpg/400px-Westerburg,_Innenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Westerburg,_Innenhof.jpg/800px-Westerburg,_Innenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Westerburg,_Innenhof.jpg/1200px-Westerburg,_Innenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Westerburg,_Innenhof.jpg/1920px-Westerburg,_Innenhof.jpg
+  Huy Westerburg - panoramio (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Huy_Westerburg_-_panoramio_(2).jpg/400px-Huy_Westerburg_-_panoramio_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Huy_Westerburg_-_panoramio_(2).jpg/800px-Huy_Westerburg_-_panoramio_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Huy_Westerburg_-_panoramio_(2).jpg/1200px-Huy_Westerburg_-_panoramio_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Huy_Westerburg_-_panoramio_(2).jpg/1920px-Huy_Westerburg_-_panoramio_(2).jpg
+  Huy Westerburg - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Huy_Westerburg_-_panoramio_(1).jpg/400px-Huy_Westerburg_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Huy_Westerburg_-_panoramio_(1).jpg/800px-Huy_Westerburg_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Huy_Westerburg_-_panoramio_(1).jpg/1200px-Huy_Westerburg_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Huy_Westerburg_-_panoramio_(1).jpg/1920px-Huy_Westerburg_-_panoramio_(1).jpg
+  Wasserschloss Westerburg Luftbild 2006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wasserschloss_Westerburg_Luftbild_2006.jpg/400px-Wasserschloss_Westerburg_Luftbild_2006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wasserschloss_Westerburg_Luftbild_2006.jpg/800px-Wasserschloss_Westerburg_Luftbild_2006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wasserschloss_Westerburg_Luftbild_2006.jpg/1200px-Wasserschloss_Westerburg_Luftbild_2006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wasserschloss_Westerburg_Luftbild_2006.jpg/1920px-Wasserschloss_Westerburg_Luftbild_2006.jpg
+  Wasserschloss Westerburg Kastell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserschloss_Westerburg_Kastell.jpg/400px-Wasserschloss_Westerburg_Kastell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserschloss_Westerburg_Kastell.jpg/800px-Wasserschloss_Westerburg_Kastell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserschloss_Westerburg_Kastell.jpg/1200px-Wasserschloss_Westerburg_Kastell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserschloss_Westerburg_Kastell.jpg/1920px-Wasserschloss_Westerburg_Kastell.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.110277777
 longitude: 11.220833333
 images:
-  - "/images-sites/wildmoos/01-ac9849b2-800w.webp"
+  - "/images/wildmoos/01-ac9849b2-800w.webp"
 ---
 
 ## Overview

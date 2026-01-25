@@ -13,7 +13,7 @@ regions:
 latitude: 48.1666
 longitude: 12.3275
 images:
-  - "/images-sites/kloster-au-am-inn/01-9469f5f8-800w.webp"
+  - "/images/kloster-au-am-inn/01-9469f5f8-800w.webp"
 ---
 
 ## Overview

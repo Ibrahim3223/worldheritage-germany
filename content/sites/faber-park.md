@@ -1,19 +1,49 @@
 ---
-title: "Faber Park"
+title: Faber Park
 date: 2026-01-23
 draft: false
-description: "Park-like forest in Nuremberg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: Park-like forest in Nuremberg
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.413769618
 longitude: 11.025893268
 images:
-  - "/images-sites/faber-park/01-c065162a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg/1200px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg/1200px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg/1200px-D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Faber_skateboard_park_jeh.JPG/1200px-Faber_skateboard_park_jeh.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-07-10_Faberpark.jpg/1200px-2009-07-10_Faberpark.jpg
+image_srcset:
+  D-5-64-000-1600 Faberpark, Mausoleum Nürnberg 20241124 0001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg/400px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg/800px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg/1200px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg/1920px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0001.jpg
+  D-5-64-000-1600 Faberpark, Mausoleum Nürnberg 20241124 0006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg/400px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg/800px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg/1200px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg/1920px-D-5-64-000-1600_Faberpark,_Mausoleum_Nürnberg_20241124_0006.jpg
+  D-5-64-000-1600 Faberpark, See Nürnberg 20241124 0002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg/400px-D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg/800px-D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg/1200px-D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg/1920px-D-5-64-000-1600_Faberpark,_See_Nürnberg_20241124_0002.jpg
+  Faber skateboard park jeh.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Faber_skateboard_park_jeh.JPG/400px-Faber_skateboard_park_jeh.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Faber_skateboard_park_jeh.JPG/800px-Faber_skateboard_park_jeh.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Faber_skateboard_park_jeh.JPG/1200px-Faber_skateboard_park_jeh.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Faber_skateboard_park_jeh.JPG/1920px-Faber_skateboard_park_jeh.JPG
+  2009-07-10 Faberpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-07-10_Faberpark.jpg/400px-2009-07-10_Faberpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-07-10_Faberpark.jpg/800px-2009-07-10_Faberpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-07-10_Faberpark.jpg/1200px-2009-07-10_Faberpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2009-07-10_Faberpark.jpg/1920px-2009-07-10_Faberpark.jpg
 ---
 
 ## Overview

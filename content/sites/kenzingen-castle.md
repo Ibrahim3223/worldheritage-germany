@@ -21,7 +21,7 @@ longitude: 7.77155
 
 # Images
 images:
-  - "/images-sites/kenzingen-castle/01-1e9ce2ac-800w.webp"
+  - "/images/kenzingen-castle/01-1e9ce2ac-800w.webp"
 ---
 
 ## Overview

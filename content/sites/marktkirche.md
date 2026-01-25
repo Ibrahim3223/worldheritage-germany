@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1901080"
 description: "In the heart of Paderborn, Germany, stands Marktkirche, a church building that captures the essence of baroque architecture. Its striking façade and int..."
 images:
-  - "/images-sites/marktkirche/01-3417fd0a-1920w.webp"
-  - "/images-sites/marktkirche/02-30e37c0b-1920w.webp"
-  - "/images-sites/marktkirche/03-c0a2fb3b-1920w.webp"
+  - "/images/marktkirche/01-3417fd0a-1920w.webp"
+  - "/images/marktkirche/02-30e37c0b-1920w.webp"
+  - "/images/marktkirche/03-c0a2fb3b-1920w.webp"
 ---
 
 ## Overview

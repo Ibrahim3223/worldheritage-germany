@@ -13,7 +13,7 @@ regions:
 latitude: 54.49972222
 longitude: 10.27361111
 images:
-  - "/images-sites/leuchtturm-kiel/01-2598b946-800w.webp"
+  - "/images/leuchtturm-kiel/01-2598b946-800w.webp"
 ---
 
 ## Overview

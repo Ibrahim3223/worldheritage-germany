@@ -13,7 +13,7 @@ regions:
 latitude: 50.6103
 longitude: 10.6894
 images:
-  - "/images-sites/waffenmuseum-suhl/01-b1a7b11f-800w.webp"
+  - "/images/waffenmuseum-suhl/01-b1a7b11f-800w.webp"
 ---
 
 ## Overview

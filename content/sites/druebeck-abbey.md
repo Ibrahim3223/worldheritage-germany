@@ -1,19 +1,49 @@
 ---
-title: "Drübeck Abbey"
+title: Drübeck Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.855833333
 longitude: 10.714722222
 images:
-  - "/images-sites/druebeck-abbey/01-8385bae1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/1200px-Kloster_Drübeck_2009.jpg
+image_srcset:
+  Drübeck, Ilsenburg, Baudenkmal, ID-09403217 001, Klosterkirche St. Vitus, Kloster Drübeck, Bild 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg/400px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg/800px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg/1920px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-09403217_001,_Klosterkirche_St._Vitus,_Kloster_Drübeck,_Bild_17.jpg
+  Drübeck, Ilsenburg, Baudenkmal, ID-094 03217 001, Klosterkirche Drübeck, Bild 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg/400px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg/800px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg/1920px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_05.jpg
+  Drübeck, Ilsenburg, Baudenkmal, ID-094 03217 001, Klosterkirche Drübeck, Bild 18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg/400px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg/800px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg/1920px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_18.jpg
+  Drübeck, Ilsenburg, Baudenkmal, ID-094 03217 001, Klosterkirche Drübeck, Bild 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg/400px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg/800px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg/1200px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg/1920px-Drübeck,_Ilsenburg,_Baudenkmal,_ID-094_03217_001,_Klosterkirche_Drübeck,_Bild_08.jpg
+  Kloster Drübeck 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/400px-Kloster_Drübeck_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/800px-Kloster_Drübeck_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/1200px-Kloster_Drübeck_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kloster_Drübeck_2009.jpg/1920px-Kloster_Drübeck_2009.jpg
 ---
 
 ## Overview

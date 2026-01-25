@@ -13,7 +13,7 @@ regions:
 latitude: 50.2528
 longitude: 10.9656
 images:
-  - "/images-sites/rose-garden/01-41a58a3b-800w.webp"
+  - "/images/rose-garden/01-41a58a3b-800w.webp"
 ---
 
 ## Overview

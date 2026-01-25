@@ -13,9 +13,9 @@ regions:
 latitude: 52.517222
 longitude: 13.376111
 images:
-  - "/images-sites/memorial-to-the-sinti-and-roma-victims-of-national-socialism/01-03bb80f4-800w.webp"
-  - "/images-sites/memorial-to-the-sinti-and-roma-victims-of-national-socialism/02-869fcc95-800w.webp"
-  - "/images-sites/memorial-to-the-sinti-and-roma-victims-of-national-socialism/03-cb73eaa3-800w.webp"
+  - "/images/memorial-to-the-sinti-and-roma-victims-of-national-socialism/01-03bb80f4-800w.webp"
+  - "/images/memorial-to-the-sinti-and-roma-victims-of-national-socialism/02-869fcc95-800w.webp"
+  - "/images/memorial-to-the-sinti-and-roma-victims-of-national-socialism/03-cb73eaa3-800w.webp"
 ---
 
 ## Overview

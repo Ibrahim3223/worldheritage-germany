@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1489049"
 description: "In the heart of Dessau-Roßlau, Saxony-Anhalt, lies the Pötnitzer Kirche, a church building that encapsulates centuries of architectural evolution and sp..."
 images:
-  - "/images-sites/potnitzer-kirche-dessau-mildensee/01-0a3fce9e-1920w.webp"
-  - "/images-sites/potnitzer-kirche-dessau-mildensee/02-7f7419ba-1920w.webp"
-  - "/images-sites/potnitzer-kirche-dessau-mildensee/03-18243f14-1920w.webp"
+  - "/images/potnitzer-kirche-dessau-mildensee/01-0a3fce9e-1920w.webp"
+  - "/images/potnitzer-kirche-dessau-mildensee/02-7f7419ba-1920w.webp"
+  - "/images/potnitzer-kirche-dessau-mildensee/03-18243f14-1920w.webp"
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Heidecksburg"
+title: Heidecksburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.723
 longitude: 11.339
-
-# Images
 images:
-  - "/images-sites/heidecksburg/01-9e97bb0e-800w.webp"
-  - "/images-sites/heidecksburg/02-04a328cc-800w.webp"
-  - "/images-sites/heidecksburg/03-954d9743-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg/1200px-Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hinweis-Schild_Museum_Heidecksburg.jpg/1200px-Hinweis-Schild_Museum_Heidecksburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lichtschirm_Heidecksburg_2.jpg/1200px-Lichtschirm_Heidecksburg_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parkettboden_Heidecksburg_4.jpg/1200px-Parkettboden_Heidecksburg_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/1200px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
+image_srcset:
+  Gedenkstein Georg Christian Füchsel vor der Heidecksburg am 4. Januar 2025 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg/400px-Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg/800px-Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg/1200px-Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg/1920px-Gedenkstein_Georg_Christian_Füchsel_vor_der_Heidecksburg_am_4._Januar_2025_2.jpg
+  Hinweis-Schild Museum Heidecksburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hinweis-Schild_Museum_Heidecksburg.jpg/400px-Hinweis-Schild_Museum_Heidecksburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hinweis-Schild_Museum_Heidecksburg.jpg/800px-Hinweis-Schild_Museum_Heidecksburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hinweis-Schild_Museum_Heidecksburg.jpg/1200px-Hinweis-Schild_Museum_Heidecksburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hinweis-Schild_Museum_Heidecksburg.jpg/1920px-Hinweis-Schild_Museum_Heidecksburg.jpg
+  Lichtschirm Heidecksburg 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lichtschirm_Heidecksburg_2.jpg/400px-Lichtschirm_Heidecksburg_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lichtschirm_Heidecksburg_2.jpg/800px-Lichtschirm_Heidecksburg_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lichtschirm_Heidecksburg_2.jpg/1200px-Lichtschirm_Heidecksburg_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lichtschirm_Heidecksburg_2.jpg/1920px-Lichtschirm_Heidecksburg_2.jpg
+  Parkettboden Heidecksburg 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parkettboden_Heidecksburg_4.jpg/400px-Parkettboden_Heidecksburg_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parkettboden_Heidecksburg_4.jpg/800px-Parkettboden_Heidecksburg_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parkettboden_Heidecksburg_4.jpg/1200px-Parkettboden_Heidecksburg_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Parkettboden_Heidecksburg_4.jpg/1920px-Parkettboden_Heidecksburg_4.jpg
+  Residenzschloss Heidecksburg Rudolstadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/400px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/800px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/1200px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Residenzschloss_Heidecksburg_Rudolstadt.jpg/1920px-Residenzschloss_Heidecksburg_Rudolstadt.jpg
 ---
 
 ## Overview

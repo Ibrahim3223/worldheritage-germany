@@ -1,23 +1,26 @@
 ---
-title: "Church of St Augustine of CanterburyWiesbaden"
-site_name: "Church of St Augustine of CanterburyWiesbaden"
-slug: "church-of-st-augustine-of-canterbury-wiesbaden"
-region: "Hesse"
-
-# Location
+title: Church of St Augustine of CanterburyWiesbaden
+site_name: Church of St Augustine of CanterburyWiesbaden
+slug: church-of-st-augustine-of-canterbury-wiesbaden
+region: Hesse
 latitude: 50.08003055555555
 longitude: 8.246033333333333
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1341217"
-description: "In the heart of Wiesbaden, a city renowned for its elegant architecture and rich history, lies the Church of St Augustine of Canterbury. Founded in 1864..."
+- cultural site
+wikidata_id: Q1341217
+description: In the heart of Wiesbaden, a city renowned for its elegant architecture
+  and rich history, lies the Church of St Augustine of Canterbury. Founded in 1864...
 images:
-  - "/images-sites/church-of-st-augustine-of-canterbury-wiesbaden/01-70477e70-1920w.webp"
-  - "/images-sites/church-of-st-augustine-of-canterbury-wiesbaden/02-610750bb-1920w.webp"
-  - "/images-sites/church-of-st-augustine-of-canterbury-wiesbaden/03-087f9c96-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1200px-AnglikanischeKircheWiesbaden.jpg
+image_srcset:
+  AnglikanischeKircheWiesbaden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/400px-AnglikanischeKircheWiesbaden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/800px-AnglikanischeKircheWiesbaden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1200px-AnglikanischeKircheWiesbaden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/AnglikanischeKircheWiesbaden.jpg/1920px-AnglikanischeKircheWiesbaden.jpg
 ---
 
 ## Overview

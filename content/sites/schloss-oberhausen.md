@@ -21,7 +21,7 @@ longitude: 6.860333333
 
 # Images
 images:
-  - "/images-sites/schloss-oberhausen/01-9514b1d9-800w.webp"
+  - "/images/schloss-oberhausen/01-9514b1d9-800w.webp"
 ---
 
 ## Overview

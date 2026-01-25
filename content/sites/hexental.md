@@ -1,21 +1,49 @@
 ---
-title: "Hexental"
+title: Hexental
 date: 2026-01-24
 draft: false
-description: "valley"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 47.937736111
 longitude: 7.809905555
 images:
-  - "/images-sites/hexental/01-11873380-800w.webp"
-  - "/images-sites/hexental/01-25306a4d-800w.webp"
-  - "/images-sites/hexental/02-a3f9a961-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg/1200px-Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg/1200px-Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GAEDE_Feldzug_um_Freiburg_Skizze_IV.png/1200px-GAEDE_Feldzug_um_Freiburg_Skizze_IV.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg/1200px-Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg/1200px-Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg
+image_srcset:
+  Gedenktafel der Gefallenen im zweiten Weltkrieg in der Saalenbergkapelle in Sölden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg/400px-Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg/800px-Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg/1200px-Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg/1920px-Gedenktafel_der_Gefallenen_im_zweiten_Weltkrieg_in_der_Saalenbergkapelle_in_Sölden.jpg
+  Panoramatafel bei der Saalenbergkapelle in Sölden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg/400px-Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg/800px-Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg/1200px-Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg/1920px-Panoramatafel_bei_der_Saalenbergkapelle_in_Sölden.jpg
+  GAEDE Feldzug um Freiburg Skizze IV.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GAEDE_Feldzug_um_Freiburg_Skizze_IV.png/400px-GAEDE_Feldzug_um_Freiburg_Skizze_IV.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GAEDE_Feldzug_um_Freiburg_Skizze_IV.png/800px-GAEDE_Feldzug_um_Freiburg_Skizze_IV.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GAEDE_Feldzug_um_Freiburg_Skizze_IV.png/1200px-GAEDE_Feldzug_um_Freiburg_Skizze_IV.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GAEDE_Feldzug_um_Freiburg_Skizze_IV.png/1920px-GAEDE_Feldzug_um_Freiburg_Skizze_IV.png
+  Hexental Südmündung Ölberg-Schönberg Massif 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg/400px-Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg/800px-Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg/1200px-Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg/1920px-Hexental_Südmündung_Ölberg-Schönberg_Massif_1.jpg
+  Blick über die Saalenbergkapelle in Sölden zum Kohlernkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg/400px-Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg/800px-Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg/1200px-Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg/1920px-Blick_über_die_Saalenbergkapelle_in_Sölden_zum_Kohlernkopf.jpg
 ---
 
 ## Overview

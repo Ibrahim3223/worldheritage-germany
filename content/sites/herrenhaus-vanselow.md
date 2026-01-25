@@ -1,19 +1,50 @@
 ---
-title: "Herrenhaus Vanselow"
+title: Herrenhaus Vanselow
 date: 2026-01-23
 draft: false
-description: "Herrenhaus im Ortsteil Vanselow der Gemeinde Siedenbrünzow, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus im Ortsteil Vanselow der Gemeinde Siedenbrünzow, Landkreis
+  Mecklenburgische Seenplatte, Mecklenburg-Vorpommern
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8786
 longitude: 13.1682
 images:
-  - "/images-sites/herrenhaus-vanselow/01-d35dc4da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1200px-Vanselow_DM_Herrenhaus_Front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vanselow_DM_Herrenhaus_West_Sued.jpg/1200px-Vanselow_DM_Herrenhaus_West_Sued.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg/1200px-20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vanselow_DM_Herrenhaus_Wappen.jpg/1200px-Vanselow_DM_Herrenhaus_Wappen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg/1200px-20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg
+image_srcset:
+  Vanselow DM Herrenhaus Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/400px-Vanselow_DM_Herrenhaus_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/800px-Vanselow_DM_Herrenhaus_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1200px-Vanselow_DM_Herrenhaus_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vanselow_DM_Herrenhaus_Front.jpg/1920px-Vanselow_DM_Herrenhaus_Front.jpg
+  Vanselow DM Herrenhaus West Sued.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vanselow_DM_Herrenhaus_West_Sued.jpg/400px-Vanselow_DM_Herrenhaus_West_Sued.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vanselow_DM_Herrenhaus_West_Sued.jpg/800px-Vanselow_DM_Herrenhaus_West_Sued.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vanselow_DM_Herrenhaus_West_Sued.jpg/1200px-Vanselow_DM_Herrenhaus_West_Sued.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vanselow_DM_Herrenhaus_West_Sued.jpg/1920px-Vanselow_DM_Herrenhaus_West_Sued.jpg
+  20040628220DR Vanselow (Siedenbrünzow) Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg/400px-20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg/800px-20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg/1200px-20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg/1920px-20040628220DR_Vanselow_(Siedenbrünzow)_Herrenhaus.jpg
+  Vanselow DM Herrenhaus Wappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vanselow_DM_Herrenhaus_Wappen.jpg/400px-Vanselow_DM_Herrenhaus_Wappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vanselow_DM_Herrenhaus_Wappen.jpg/800px-Vanselow_DM_Herrenhaus_Wappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vanselow_DM_Herrenhaus_Wappen.jpg/1200px-Vanselow_DM_Herrenhaus_Wappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vanselow_DM_Herrenhaus_Wappen.jpg/1920px-Vanselow_DM_Herrenhaus_Wappen.jpg
+  20040628210DR Vanselow (Siedenbrünzow) Herrenhaus Wappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg/400px-20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg/800px-20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg/1200px-20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg/1920px-20040628210DR_Vanselow_(Siedenbrünzow)_Herrenhaus_Wappen.jpg
 ---
 
 ## Overview

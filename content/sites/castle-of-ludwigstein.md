@@ -1,28 +1,49 @@
 ---
-title: "Castle of Ludwigstein"
+title: Castle of Ludwigstein
 date: 2026-01-23
 draft: false
-description: "castle in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.321612127
 longitude: 9.909176573
-
-# Images
 images:
-  - "/images-sites/castle-of-ludwigstein/02-636b5200-800w.webp"
-  - "/images-sites/castle-of-ludwigstein/03-9dd87dbb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg/1200px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg/1200px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg/1200px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg/1200px-View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ludwigstein.jpg/1200px-Ludwigstein.jpg
+image_srcset:
+  Castle Ludwigstein in Werleshausen (Witzenhausen) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg/400px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg/800px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg/1200px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg/1920px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_01.jpg
+  Castle Ludwigstein in Werleshausen (Witzenhausen) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg/400px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg/800px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg/1200px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg/1920px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_02.jpg
+  Castle Ludwigstein in Werleshausen (Witzenhausen) 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg/400px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg/800px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg/1200px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg/1920px-Castle_Ludwigstein_in_Werleshausen_(Witzenhausen)_04.jpg
+  View from castle Ludwigstein in Werleshausen (Witzenhausen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg/400px-View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg/800px-View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg/1200px-View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg/1920px-View_from_castle_Ludwigstein_in_Werleshausen_(Witzenhausen).jpg
+  Ludwigstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ludwigstein.jpg/400px-Ludwigstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ludwigstein.jpg/800px-Ludwigstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ludwigstein.jpg/1200px-Ludwigstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ludwigstein.jpg/1920px-Ludwigstein.jpg
 ---
 
 ## Overview

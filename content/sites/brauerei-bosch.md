@@ -1,29 +1,49 @@
 ---
-title: "Brauerei Bosch"
+title: Brauerei Bosch
 date: 2026-01-23
 draft: false
-description: "brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.927930555
 longitude: 8.409161111
-
-# Images
 images:
-  - "/images-sites/brauerei-bosch/01-b3bfcfdd-800w.webp"
-  - "/images-sites/brauerei-bosch/01-cdbc877f-800w.webp"
-  - "/images-sites/brauerei-bosch/02-cdbc877f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/BierBosch-wer.jpg/1200px-BierBosch-wer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bosch-1.jpg/1200px-Bosch-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Glas-wiki.jpg/1200px-Glas-wiki.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bosch_Logo.jpg/1200px-Bosch_Logo.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Propeller_Imperial_Stout.jpg/1200px-Propeller_Imperial_Stout.jpg
+image_srcset:
+  BierBosch-wer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/BierBosch-wer.jpg/400px-BierBosch-wer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/BierBosch-wer.jpg/800px-BierBosch-wer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/BierBosch-wer.jpg/1200px-BierBosch-wer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/BierBosch-wer.jpg/1920px-BierBosch-wer.jpg
+  Bosch-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bosch-1.jpg/400px-Bosch-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bosch-1.jpg/800px-Bosch-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bosch-1.jpg/1200px-Bosch-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bosch-1.jpg/1920px-Bosch-1.jpg
+  Glas-wiki.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Glas-wiki.jpg/400px-Glas-wiki.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Glas-wiki.jpg/800px-Glas-wiki.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Glas-wiki.jpg/1200px-Glas-wiki.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Glas-wiki.jpg/1920px-Glas-wiki.jpg
+  Bosch Logo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bosch_Logo.jpg/400px-Bosch_Logo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bosch_Logo.jpg/800px-Bosch_Logo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bosch_Logo.jpg/1200px-Bosch_Logo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bosch_Logo.jpg/1920px-Bosch_Logo.jpg
+  Propeller Imperial Stout.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Propeller_Imperial_Stout.jpg/400px-Propeller_Imperial_Stout.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Propeller_Imperial_Stout.jpg/800px-Propeller_Imperial_Stout.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Propeller_Imperial_Stout.jpg/1200px-Propeller_Imperial_Stout.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Propeller_Imperial_Stout.jpg/1920px-Propeller_Imperial_Stout.jpg
 ---
 
 ## Overview

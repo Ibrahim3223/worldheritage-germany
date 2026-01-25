@@ -13,8 +13,8 @@ regions:
 latitude: 48.8552
 longitude: 8.19806
 images:
-  - "/images-sites/synagogue-of-rastatt/02-64ddc24a-800w.webp"
-  - "/images-sites/synagogue-of-rastatt/03-3e784ccb-800w.webp"
+  - "/images/synagogue-of-rastatt/02-64ddc24a-800w.webp"
+  - "/images/synagogue-of-rastatt/03-3e784ccb-800w.webp"
 ---
 
 ## Overview

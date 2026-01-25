@@ -13,9 +13,9 @@ regions:
 latitude: 51.0461
 longitude: 13.8219
 images:
-  - "/images-sites/loschwitz-cemetery/01-98ae70f8-800w.webp"
-  - "/images-sites/loschwitz-cemetery/02-8ea0ccea-800w.webp"
-  - "/images-sites/loschwitz-cemetery/03-cd32c84a-800w.webp"
+  - "/images/loschwitz-cemetery/01-98ae70f8-800w.webp"
+  - "/images/loschwitz-cemetery/02-8ea0ccea-800w.webp"
+  - "/images/loschwitz-cemetery/03-cd32c84a-800w.webp"
 ---
 
 ## Overview

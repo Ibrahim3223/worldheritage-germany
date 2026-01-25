@@ -1,27 +1,49 @@
 ---
-title: "Berggruen Museum"
+title: Berggruen Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.5192
 longitude: 13.2953
-
-# Images
 images:
-  - "/images-sites/berggruen-museum/01-2e4fe832-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Berggruen,_interior,_Berlini_(39493819444).jpg/1200px-Museum_Berggruen,_interior,_Berlini_(39493819444).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stülerbau_Sammlung_Berggruen.jpg/1200px-Stülerbau_Sammlung_Berggruen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Viktors_Arājs_-_Museo_Berggruen.jpg/1200px-Viktors_Arājs_-_Museo_Berggruen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1200px-Berlin2008-MuseumBerggruen1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin2008-MuseumBerggruen2.JPG/1200px-Berlin2008-MuseumBerggruen2.JPG
+image_srcset:
+  Museum Berggruen, interior, Berlini (39493819444).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Berggruen,_interior,_Berlini_(39493819444).jpg/400px-Museum_Berggruen,_interior,_Berlini_(39493819444).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Berggruen,_interior,_Berlini_(39493819444).jpg/800px-Museum_Berggruen,_interior,_Berlini_(39493819444).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Berggruen,_interior,_Berlini_(39493819444).jpg/1200px-Museum_Berggruen,_interior,_Berlini_(39493819444).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Museum_Berggruen,_interior,_Berlini_(39493819444).jpg/1920px-Museum_Berggruen,_interior,_Berlini_(39493819444).jpg
+  Stülerbau Sammlung Berggruen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stülerbau_Sammlung_Berggruen.jpg/400px-Stülerbau_Sammlung_Berggruen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stülerbau_Sammlung_Berggruen.jpg/800px-Stülerbau_Sammlung_Berggruen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stülerbau_Sammlung_Berggruen.jpg/1200px-Stülerbau_Sammlung_Berggruen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stülerbau_Sammlung_Berggruen.jpg/1920px-Stülerbau_Sammlung_Berggruen.jpg
+  Viktors Arājs - Museo Berggruen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Viktors_Arājs_-_Museo_Berggruen.jpg/400px-Viktors_Arājs_-_Museo_Berggruen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Viktors_Arājs_-_Museo_Berggruen.jpg/800px-Viktors_Arājs_-_Museo_Berggruen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Viktors_Arājs_-_Museo_Berggruen.jpg/1200px-Viktors_Arājs_-_Museo_Berggruen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Viktors_Arājs_-_Museo_Berggruen.jpg/1920px-Viktors_Arājs_-_Museo_Berggruen.jpg
+  Berlin2008-MuseumBerggruen1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/400px-Berlin2008-MuseumBerggruen1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/800px-Berlin2008-MuseumBerggruen1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1200px-Berlin2008-MuseumBerggruen1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Berlin2008-MuseumBerggruen1.JPG/1920px-Berlin2008-MuseumBerggruen1.JPG
+  Berlin2008-MuseumBerggruen2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin2008-MuseumBerggruen2.JPG/400px-Berlin2008-MuseumBerggruen2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin2008-MuseumBerggruen2.JPG/800px-Berlin2008-MuseumBerggruen2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin2008-MuseumBerggruen2.JPG/1200px-Berlin2008-MuseumBerggruen2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin2008-MuseumBerggruen2.JPG/1920px-Berlin2008-MuseumBerggruen2.JPG
 ---
 
 ## Overview

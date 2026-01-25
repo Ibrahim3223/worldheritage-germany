@@ -1,19 +1,49 @@
 ---
-title: "Altomünster Abbey"
+title: Altomünster Abbey
 date: 2026-01-23
 draft: false
-description: "monastery in Altomünster, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery in Altomünster, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3886
 longitude: 11.2565
 images:
-  - "/images-sites/altomuenster-abbey/01-7c9fe5a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg/1200px-Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brigittenkloster_Altomuenster.jpg/1200px-Brigittenkloster_Altomuenster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altomünster_St._Alto_und_St._Brigitta_30.JPG/1200px-Altomünster_St._Alto_und_St._Brigitta_30.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wgt_Stifterbüchlein_21v.jpg/1200px-Wgt_Stifterbüchlein_21v.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saint_Catherine_of_Sweden.JPG/1200px-Saint_Catherine_of_Sweden.JPG
+image_srcset:
+  Kloster Altomünster (St. Alto-Kirche, Alto-Quelle und Klosterladen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg/400px-Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg/800px-Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg/1200px-Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg/1920px-Kloster_Altomünster_(St._Alto-Kirche,_Alto-Quelle_und_Klosterladen).jpg
+  Brigittenkloster Altomuenster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brigittenkloster_Altomuenster.jpg/400px-Brigittenkloster_Altomuenster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brigittenkloster_Altomuenster.jpg/800px-Brigittenkloster_Altomuenster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brigittenkloster_Altomuenster.jpg/1200px-Brigittenkloster_Altomuenster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Brigittenkloster_Altomuenster.jpg/1920px-Brigittenkloster_Altomuenster.jpg
+  Altomünster St. Alto und St. Brigitta 30.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altomünster_St._Alto_und_St._Brigitta_30.JPG/400px-Altomünster_St._Alto_und_St._Brigitta_30.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altomünster_St._Alto_und_St._Brigitta_30.JPG/800px-Altomünster_St._Alto_und_St._Brigitta_30.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altomünster_St._Alto_und_St._Brigitta_30.JPG/1200px-Altomünster_St._Alto_und_St._Brigitta_30.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Altomünster_St._Alto_und_St._Brigitta_30.JPG/1920px-Altomünster_St._Alto_und_St._Brigitta_30.JPG
+  Wgt Stifterbüchlein 21v.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wgt_Stifterbüchlein_21v.jpg/400px-Wgt_Stifterbüchlein_21v.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wgt_Stifterbüchlein_21v.jpg/800px-Wgt_Stifterbüchlein_21v.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wgt_Stifterbüchlein_21v.jpg/1200px-Wgt_Stifterbüchlein_21v.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wgt_Stifterbüchlein_21v.jpg/1920px-Wgt_Stifterbüchlein_21v.jpg
+  Saint Catherine of Sweden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saint_Catherine_of_Sweden.JPG/400px-Saint_Catherine_of_Sweden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saint_Catherine_of_Sweden.JPG/800px-Saint_Catherine_of_Sweden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saint_Catherine_of_Sweden.JPG/1200px-Saint_Catherine_of_Sweden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saint_Catherine_of_Sweden.JPG/1920px-Saint_Catherine_of_Sweden.JPG
 ---
 
 ## Overview

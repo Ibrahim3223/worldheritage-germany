@@ -1,19 +1,49 @@
 ---
-title: "Gut Gelting"
+title: Gut Gelting
 date: 2026-01-23
 draft: false
-description: "Herrenhaus in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus in Deutschland
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.7502
 longitude: 9.9048
 images:
-  - "/images-sites/gut-gelting/01-29f371da-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Torhaus_Gut_Gelting.jpg/1200px-Torhaus_Gut_Gelting.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1200px-Geltinger-wasserschloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Schloss_Gelting.jpg/1200px-Schloss_Gelting.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torhaus-Gelting.jpg/1200px-Torhaus-Gelting.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png/1200px-Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png
+image_srcset:
+  Torhaus Gut Gelting.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Torhaus_Gut_Gelting.jpg/400px-Torhaus_Gut_Gelting.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Torhaus_Gut_Gelting.jpg/800px-Torhaus_Gut_Gelting.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Torhaus_Gut_Gelting.jpg/1200px-Torhaus_Gut_Gelting.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Torhaus_Gut_Gelting.jpg/1920px-Torhaus_Gut_Gelting.jpg
+  Geltinger-wasserschloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/400px-Geltinger-wasserschloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/800px-Geltinger-wasserschloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1200px-Geltinger-wasserschloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Geltinger-wasserschloss.jpg/1920px-Geltinger-wasserschloss.jpg
+  Schloss Gelting.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Schloss_Gelting.jpg/400px-Schloss_Gelting.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Schloss_Gelting.jpg/800px-Schloss_Gelting.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Schloss_Gelting.jpg/1200px-Schloss_Gelting.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Schloss_Gelting.jpg/1920px-Schloss_Gelting.jpg
+  Torhaus-Gelting.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torhaus-Gelting.jpg/400px-Torhaus-Gelting.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torhaus-Gelting.jpg/800px-Torhaus-Gelting.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torhaus-Gelting.jpg/1200px-Torhaus-Gelting.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torhaus-Gelting.jpg/1920px-Torhaus-Gelting.jpg
+  Gelting slot i Sydslesvig - granitdøbefont eller vievandskar i parken.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png/400px-Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png/800px-Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png/1200px-Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png/1920px-Gelting_slot_i_Sydslesvig_-_granitdøbefont_eller_vievandskar_i_parken.png
 ---
 
 ## Overview

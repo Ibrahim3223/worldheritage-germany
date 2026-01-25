@@ -13,9 +13,9 @@ regions:
 latitude: 51.365061553
 longitude: 11.290677316
 images:
-  - "/images-sites/town-hall-artern/01-1b9b5b53-800w.webp"
-  - "/images-sites/town-hall-artern/02-eeb40fc0-800w.webp"
-  - "/images-sites/town-hall-artern/03-74bd3027-800w.webp"
+  - "/images/town-hall-artern/01-1b9b5b53-800w.webp"
+  - "/images/town-hall-artern/02-eeb40fc0-800w.webp"
+  - "/images/town-hall-artern/03-74bd3027-800w.webp"
 ---
 
 ## Overview

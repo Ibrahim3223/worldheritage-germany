@@ -13,9 +13,9 @@ regions:
 latitude: 48.1386
 longitude: 11.5696
 images:
-  - "/images-sites/richard-strauss-brunnen/01-39e020dd-800w.webp"
-  - "/images-sites/richard-strauss-brunnen/02-65839e0f-800w.webp"
-  - "/images-sites/richard-strauss-brunnen/03-a1fac731-800w.webp"
+  - "/images/richard-strauss-brunnen/01-39e020dd-800w.webp"
+  - "/images/richard-strauss-brunnen/02-65839e0f-800w.webp"
+  - "/images/richard-strauss-brunnen/03-a1fac731-800w.webp"
 ---
 
 ## Overview

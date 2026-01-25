@@ -13,7 +13,7 @@ regions:
 latitude: 50.9501
 longitude: 11.3481
 images:
-  - "/images-sites/sowjetischer-friedhof-in-belvedere/01-557b43a3-800w.webp"
+  - "/images/sowjetischer-friedhof-in-belvedere/01-557b43a3-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,51 @@
 ---
-title: "Church in Massow"
-site_name: "Church in Massow"
-slug: "church-in-massow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Massow
+site_name: Church in Massow
+slug: church-in-massow
+region: Mecklenburg-Vorpommern
 latitude: 53.3172
 longitude: 12.4271
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244518"
-description: "In the quaint region of Massow, Germany, the Church in Massow stands as a notable example of Romanesque Revival architecture. This church, constructed p..."
+- cultural site
+wikidata_id: Q1244518
+description: In the quaint region of Massow, Germany, the Church in Massow stands
+  as a notable example of Romanesque Revival architecture. This church, constructed
+  p...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Massow%20Kirche%202009-08-31%20007.jpg/1200px-Massow%20Kirche%202009-08-31%20007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/1200px-Massow_Kirche_2009-08-31_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Massow_Kirche_2009-08-31_005.jpg/1200px-Massow_Kirche_2009-08-31_005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Massow_Kirche_2009-08-31_004.jpg/1200px-Massow_Kirche_2009-08-31_004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Massow_Soldatengrab_2009-08-31_008.jpg/1200px-Massow_Soldatengrab_2009-08-31_008.jpg
+image_srcset:
+  Massow%20Kirche%202009-08-31%20007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Massow%20Kirche%202009-08-31%20007.jpg/400px-Massow%20Kirche%202009-08-31%20007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Massow%20Kirche%202009-08-31%20007.jpg/800px-Massow%20Kirche%202009-08-31%20007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Massow%20Kirche%202009-08-31%20007.jpg/1200px-Massow%20Kirche%202009-08-31%20007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Massow%20Kirche%202009-08-31%20007.jpg/1920px-Massow%20Kirche%202009-08-31%20007.jpg
+  Massow Kirche 2009-08-31 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/400px-Massow_Kirche_2009-08-31_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/800px-Massow_Kirche_2009-08-31_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/1200px-Massow_Kirche_2009-08-31_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Massow_Kirche_2009-08-31_007.jpg/1920px-Massow_Kirche_2009-08-31_007.jpg
+  Massow Kirche 2009-08-31 005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Massow_Kirche_2009-08-31_005.jpg/400px-Massow_Kirche_2009-08-31_005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Massow_Kirche_2009-08-31_005.jpg/800px-Massow_Kirche_2009-08-31_005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Massow_Kirche_2009-08-31_005.jpg/1200px-Massow_Kirche_2009-08-31_005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Massow_Kirche_2009-08-31_005.jpg/1920px-Massow_Kirche_2009-08-31_005.jpg
+  Massow Kirche 2009-08-31 004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Massow_Kirche_2009-08-31_004.jpg/400px-Massow_Kirche_2009-08-31_004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Massow_Kirche_2009-08-31_004.jpg/800px-Massow_Kirche_2009-08-31_004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Massow_Kirche_2009-08-31_004.jpg/1200px-Massow_Kirche_2009-08-31_004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Massow_Kirche_2009-08-31_004.jpg/1920px-Massow_Kirche_2009-08-31_004.jpg
+  Massow Soldatengrab 2009-08-31 008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Massow_Soldatengrab_2009-08-31_008.jpg/400px-Massow_Soldatengrab_2009-08-31_008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Massow_Soldatengrab_2009-08-31_008.jpg/800px-Massow_Soldatengrab_2009-08-31_008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Massow_Soldatengrab_2009-08-31_008.jpg/1200px-Massow_Soldatengrab_2009-08-31_008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Massow_Soldatengrab_2009-08-31_008.jpg/1920px-Massow_Soldatengrab_2009-08-31_008.jpg
 ---
 
 ## Overview

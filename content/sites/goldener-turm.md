@@ -1,19 +1,49 @@
 ---
-title: "Goldener Turm"
+title: Goldener Turm
 date: 2026-01-24
 draft: false
-description: "tower in Regensburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Regensburg, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.019244227
 longitude: 12.095259704
 images:
-  - "/images-sites/goldener-turm/01-d3516ccf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Regensburg-GoldenerTurm-1-Asio.JPG/1200px-Regensburg-GoldenerTurm-1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG/1200px-Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1200px-Goldener_Turm_(Regensburg).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/100_1889.JPG/1200px-100_1889.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/D-R-Regensburg22.JPG/1200px-D-R-Regensburg22.JPG
+image_srcset:
+  Regensburg-GoldenerTurm-1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Regensburg-GoldenerTurm-1-Asio.JPG/400px-Regensburg-GoldenerTurm-1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Regensburg-GoldenerTurm-1-Asio.JPG/800px-Regensburg-GoldenerTurm-1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Regensburg-GoldenerTurm-1-Asio.JPG/1200px-Regensburg-GoldenerTurm-1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Regensburg-GoldenerTurm-1-Asio.JPG/1920px-Regensburg-GoldenerTurm-1-Asio.JPG
+  Wahlenstraße 16 - Regensburg (Goldener Turm).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG/400px-Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG/800px-Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG/1200px-Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG/1920px-Wahlenstraße_16_-_Regensburg_(Goldener_Turm).JPG
+  Goldener Turm (Regensburg).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/400px-Goldener_Turm_(Regensburg).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/800px-Goldener_Turm_(Regensburg).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1200px-Goldener_Turm_(Regensburg).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goldener_Turm_(Regensburg).jpg/1920px-Goldener_Turm_(Regensburg).jpg
+  100 1889.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/100_1889.JPG/400px-100_1889.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/100_1889.JPG/800px-100_1889.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/100_1889.JPG/1200px-100_1889.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/100_1889.JPG/1920px-100_1889.JPG
+  D-R-Regensburg22.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/D-R-Regensburg22.JPG/400px-D-R-Regensburg22.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/D-R-Regensburg22.JPG/800px-D-R-Regensburg22.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/D-R-Regensburg22.JPG/1200px-D-R-Regensburg22.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/D-R-Regensburg22.JPG/1920px-D-R-Regensburg22.JPG
 ---
 
 ## Overview 

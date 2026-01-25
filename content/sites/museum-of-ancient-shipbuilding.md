@@ -13,7 +13,7 @@ regions:
 latitude: 49.9941
 longitude: 8.28042
 images:
-  - "/images-sites/museum-of-ancient-shipbuilding/01-f5e279b3-800w.webp"
+  - "/images/museum-of-ancient-shipbuilding/01-f5e279b3-800w.webp"
 ---
 
 ## Overview

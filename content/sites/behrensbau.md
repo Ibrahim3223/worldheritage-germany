@@ -1,19 +1,49 @@
 ---
-title: "Behrensbau"
+title: Behrensbau
 date: 2026-01-23
 draft: false
-description: "building in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: building in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 52.456246
 longitude: 13.53064
 images:
-  - "/images-sites/behrensbau/01-bfe894b0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Peter-Behrens-Bau.jpg/1200px-Peter-Behrens-Bau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg/1200px-Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Behrensbau.jpg/1200px-Behrensbau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserturm_AEG_Kabelwerk_Oberspree.jpg/1200px-Wasserturm_AEG_Kabelwerk_Oberspree.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg/1200px-Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg
+image_srcset:
+  Peter-Behrens-Bau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Peter-Behrens-Bau.jpg/400px-Peter-Behrens-Bau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Peter-Behrens-Bau.jpg/800px-Peter-Behrens-Bau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Peter-Behrens-Bau.jpg/1200px-Peter-Behrens-Bau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Peter-Behrens-Bau.jpg/1920px-Peter-Behrens-Bau.jpg
+  Wilhelminenhofstr B-Oberschoeneweide 08-2017 img5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg/400px-Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg/800px-Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg/1200px-Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg/1920px-Wilhelminenhofstr_B-Oberschoeneweide_08-2017_img5.jpg
+  Behrensbau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Behrensbau.jpg/400px-Behrensbau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Behrensbau.jpg/800px-Behrensbau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Behrensbau.jpg/1200px-Behrensbau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Behrensbau.jpg/1920px-Behrensbau.jpg
+  Wasserturm AEG Kabelwerk Oberspree.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserturm_AEG_Kabelwerk_Oberspree.jpg/400px-Wasserturm_AEG_Kabelwerk_Oberspree.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserturm_AEG_Kabelwerk_Oberspree.jpg/800px-Wasserturm_AEG_Kabelwerk_Oberspree.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserturm_AEG_Kabelwerk_Oberspree.jpg/1200px-Wasserturm_AEG_Kabelwerk_Oberspree.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Wasserturm_AEG_Kabelwerk_Oberspree.jpg/1920px-Wasserturm_AEG_Kabelwerk_Oberspree.jpg
+  Bundesarchiv Bild 183-P1020-0324, Berlin, Werk für Fernsehelektronik, Kulturhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg/400px-Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg/800px-Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg/1200px-Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg/1920px-Bundesarchiv_Bild_183-P1020-0324,_Berlin,_Werk_für_Fernsehelektronik,_Kulturhaus.jpg
 ---
 
 ## Overview

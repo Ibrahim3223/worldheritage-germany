@@ -1,29 +1,49 @@
 ---
-title: "Burg Wilenstein"
+title: Burg Wilenstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.3541
 longitude: 7.75319
-
-# Images
 images:
-  - "/images-sites/burg-wilenstein/01-29fc17da-800w.webp"
-  - "/images-sites/burg-wilenstein/02-d479a3a0-800w.webp"
-  - "/images-sites/burg-wilenstein/03-287c1488-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wilenstein.JPG/1200px-Wilenstein.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schildmauer_eingang1.jpg/1200px-Schildmauer_eingang1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schildmauer_Rettungsweg.jpg/1200px-Schildmauer_Rettungsweg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schildmauer_rettung_2.jpg/1200px-Schildmauer_rettung_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Floersheim_innen.jpg/1200px-Floersheim_innen.jpg
+image_srcset:
+  Wilenstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wilenstein.JPG/400px-Wilenstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wilenstein.JPG/800px-Wilenstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wilenstein.JPG/1200px-Wilenstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wilenstein.JPG/1920px-Wilenstein.JPG
+  Schildmauer eingang1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schildmauer_eingang1.jpg/400px-Schildmauer_eingang1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schildmauer_eingang1.jpg/800px-Schildmauer_eingang1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schildmauer_eingang1.jpg/1200px-Schildmauer_eingang1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Schildmauer_eingang1.jpg/1920px-Schildmauer_eingang1.jpg
+  Schildmauer Rettungsweg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schildmauer_Rettungsweg.jpg/400px-Schildmauer_Rettungsweg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schildmauer_Rettungsweg.jpg/800px-Schildmauer_Rettungsweg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schildmauer_Rettungsweg.jpg/1200px-Schildmauer_Rettungsweg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schildmauer_Rettungsweg.jpg/1920px-Schildmauer_Rettungsweg.jpg
+  Schildmauer rettung 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schildmauer_rettung_2.jpg/400px-Schildmauer_rettung_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schildmauer_rettung_2.jpg/800px-Schildmauer_rettung_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schildmauer_rettung_2.jpg/1200px-Schildmauer_rettung_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Schildmauer_rettung_2.jpg/1920px-Schildmauer_rettung_2.jpg
+  Floersheim innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Floersheim_innen.jpg/400px-Floersheim_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Floersheim_innen.jpg/800px-Floersheim_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Floersheim_innen.jpg/1200px-Floersheim_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Floersheim_innen.jpg/1920px-Floersheim_innen.jpg
 ---
 
 ## Overview

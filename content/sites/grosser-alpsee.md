@@ -1,19 +1,49 @@
 ---
-title: "Großer Alpsee"
+title: Großer Alpsee
 date: 2026-01-23
 draft: false
-description: "lake in the municipality of Immenstadt im Allgäu, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in the municipality of Immenstadt im Allgäu, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.572222222
 longitude: 10.175
 images:
-  - "/images-sites/grosser-alpsee/01-be36ad06-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Panorama.jpg/1200px-Alpsee_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png/1200px-Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg/1200px-Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alpsee_-_panoramio_(9).jpg/1200px-Alpsee_-_panoramio_(9).jpg
+image_srcset:
+  Aerial image of Großer Alpsee (view from the northeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/400px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/800px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+  Alpsee Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Panorama.jpg/400px-Alpsee_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Panorama.jpg/800px-Alpsee_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Panorama.jpg/1200px-Alpsee_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Panorama.jpg/1920px-Alpsee_Panorama.jpg
+  Vorschlag Taktbus ZentralesOberallgaeuImmenstadt.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png/400px-Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png/800px-Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png/1200px-Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png/1920px-Vorschlag_Taktbus_ZentralesOberallgaeuImmenstadt.png
+  Immenstädter Horn and Gschwender Horn as seen from Großer Alpsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg/400px-Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg/800px-Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg/1200px-Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg/1920px-Immenstädter_Horn_and_Gschwender_Horn_as_seen_from_Großer_Alpsee.jpg
+  Alpsee - panoramio (9).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alpsee_-_panoramio_(9).jpg/400px-Alpsee_-_panoramio_(9).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alpsee_-_panoramio_(9).jpg/800px-Alpsee_-_panoramio_(9).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alpsee_-_panoramio_(9).jpg/1200px-Alpsee_-_panoramio_(9).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alpsee_-_panoramio_(9).jpg/1920px-Alpsee_-_panoramio_(9).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.0856
 longitude: 8.69639
 images:
-  - "/images-sites/noor-mosque/01-436a8c43-800w.webp"
+  - "/images/noor-mosque/01-436a8c43-800w.webp"
 ---
 
 ## Overview

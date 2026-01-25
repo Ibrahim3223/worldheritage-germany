@@ -13,7 +13,7 @@ regions:
 latitude: 52.519166666
 longitude: 13.387777777
 images:
-  - "/images-sites/wintergarten/01-35397bf3-800w.webp"
+  - "/images/wintergarten/01-35397bf3-800w.webp"
 ---
 
 ## Overview

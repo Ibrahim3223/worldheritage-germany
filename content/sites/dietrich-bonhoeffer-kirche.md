@@ -1,24 +1,51 @@
 ---
-title: "Dietrich-Bonhoeffer-Kirche"
-site_name: "Dietrich-Bonhoeffer-Kirche"
-slug: "dietrich-bonhoeffer-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Dietrich-Bonhoeffer-Kirche
+site_name: Dietrich-Bonhoeffer-Kirche
+slug: dietrich-bonhoeffer-kirche
+region: North Rhine-Westphalia
 latitude: 51.1447
 longitude: 6.8901
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1223624"
-description: "In the heart of Düsseldorf-Garath, the Dietrich-Bonhoeffer-Kirche stands as a striking example of modern architecture, built in 1962. This Lutheran chur..."
+- church building
+- religious site
+wikidata_id: Q1223624
+description: In the heart of Düsseldorf-Garath, the Dietrich-Bonhoeffer-Kirche stands
+  as a striking example of modern architecture, built in 1962. This Lutheran chur...
 images:
-  - "/images-sites/dietrich-bonhoeffer-kirche/01-1285225b-1920w.webp"
-  - "/images-sites/dietrich-bonhoeffer-kirche/02-63b0fb32-1920w.webp"
-  - "/images-sites/dietrich-bonhoeffer-kirche/03-b596b4e3-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg/1200px-Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG/1200px-Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg/1200px-Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dietrich-Bonhoefer-Church_D-Garath.jpg/1200px-Dietrich-Bonhoefer-Church_D-Garath.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1200px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
+image_srcset:
+  Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg/400px-Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg/800px-Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg/1200px-Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg/1920px-Dietrich-Bonhoeffer-Kirche%20in%20Duesseldorf-Garath%2C%20von%20Sueden.jpg
+  Niederursel, Dietrich Bonhöfer-Gemeinde, Seite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG/400px-Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG/800px-Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG/1200px-Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG/1920px-Niederursel,_Dietrich_Bonhöfer-Gemeinde,_Seite.JPG
+  Evang.-luth. Dietrich-Bonhoeffer-Kirche - Hannover-Roderbruch Roderbruchmarkt - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg/400px-Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg/800px-Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg/1200px-Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg/1920px-Evang.-luth._Dietrich-Bonhoeffer-Kirche_-_Hannover-Roderbruch_Roderbruchmarkt_-_panoramio.jpg
+  Dietrich-Bonhoefer-Church D-Garath.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dietrich-Bonhoefer-Church_D-Garath.jpg/400px-Dietrich-Bonhoefer-Church_D-Garath.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dietrich-Bonhoefer-Church_D-Garath.jpg/800px-Dietrich-Bonhoefer-Church_D-Garath.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dietrich-Bonhoefer-Church_D-Garath.jpg/1200px-Dietrich-Bonhoefer-Church_D-Garath.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dietrich-Bonhoefer-Church_D-Garath.jpg/1920px-Dietrich-Bonhoefer-Church_D-Garath.jpg
+  Dietrich-Bonhoeffer-Kirche in Duesseldorf-Garath, von Sueden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/400px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/800px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1200px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg/1920px-Dietrich-Bonhoeffer-Kirche_in_Duesseldorf-Garath,_von_Sueden.jpg
 ---
 
 ## Overview

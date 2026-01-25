@@ -1,19 +1,49 @@
 ---
-title: "Glindower Alpen"
+title: Glindower Alpen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.35
 longitude: 12.916666666
 images:
-  - "/images-sites/glindower-alpen/01-96a2d2aa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg/1200px-Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg/1200px-Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg/1200px-Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg/1200px-Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Glindower_Alpen_05.JPG/1200px-Glindower_Alpen_05.JPG
+image_srcset:
+  Forest in NSG Glindower Alpen 2022-05-25 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg/400px-Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg/800px-Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg/1200px-Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg/1920px-Forest_in_NSG_Glindower_Alpen_2022-05-25_21.jpg
+  Forest in NSG Glindower Alpen 2022-05-25 33.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg/400px-Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg/800px-Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg/1200px-Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg/1920px-Forest_in_NSG_Glindower_Alpen_2022-05-25_33.jpg
+  Forest in NSG Glindower Alpen 2022-05-25 81.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg/400px-Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg/800px-Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg/1200px-Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg/1920px-Forest_in_NSG_Glindower_Alpen_2022-05-25_81.jpg
+  Urwald im Naturschutzgebiet Glindower Alpen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg/400px-Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg/800px-Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg/1200px-Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg/1920px-Urwald_im_Naturschutzgebiet_Glindower_Alpen.jpg
+  Glindower Alpen 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Glindower_Alpen_05.JPG/400px-Glindower_Alpen_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Glindower_Alpen_05.JPG/800px-Glindower_Alpen_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Glindower_Alpen_05.JPG/1200px-Glindower_Alpen_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Glindower_Alpen_05.JPG/1920px-Glindower_Alpen_05.JPG
 ---
 
 ## Overview

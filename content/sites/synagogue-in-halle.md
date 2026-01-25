@@ -13,8 +13,8 @@ regions:
 latitude: 51.4933
 longitude: 11.9803
 images:
-  - "/images-sites/synagogue-in-halle/02-651a04b3-800w.webp"
-  - "/images-sites/synagogue-in-halle/03-60863a77-800w.webp"
+  - "/images/synagogue-in-halle/02-651a04b3-800w.webp"
+  - "/images/synagogue-in-halle/03-60863a77-800w.webp"
 ---
 
 ## Overview

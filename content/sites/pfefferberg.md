@@ -13,8 +13,8 @@ regions:
 latitude: 52.5317
 longitude: 13.4115
 images:
-  - "/images-sites/pfefferberg/02-192d36b0-800w.webp"
-  - "/images-sites/pfefferberg/03-771ef31b-800w.webp"
+  - "/images/pfefferberg/02-192d36b0-800w.webp"
+  - "/images/pfefferberg/03-771ef31b-800w.webp"
 ---
 
 ## Overview

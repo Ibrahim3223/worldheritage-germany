@@ -1,19 +1,49 @@
 ---
-title: "Albert Mooren fountain"
+title: Albert Mooren fountain
 date: 2026-01-23
 draft: false
-description: "fountain in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1995
 longitude: 6.79013
 images:
-  - "/images-sites/albert-mooren-fountain/01-849494c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg/1200px-Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg/1200px-Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Albert-Mooren-Brunnen_3.jpg/1200px-Albert-Mooren-Brunnen_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albert-Mooren-Brunnen_2.jpg/1200px-Albert-Mooren-Brunnen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1200px-Albert-Mooren-Brunnen_5.jpg
+image_srcset:
+  Albert-Mooren-Brunnen in Duesseldorf-Bilk, von Nordosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg/400px-Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg/800px-Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg/1200px-Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg/1920px-Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Nordosten.jpg
+  Tafel am Albert-Mooren-Brunnen in Duesseldorf-Bilk, von Suedosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg/400px-Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg/800px-Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg/1200px-Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg/1920px-Tafel_am_Albert-Mooren-Brunnen_in_Duesseldorf-Bilk,_von_Suedosten.jpg
+  Albert-Mooren-Brunnen 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Albert-Mooren-Brunnen_3.jpg/400px-Albert-Mooren-Brunnen_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Albert-Mooren-Brunnen_3.jpg/800px-Albert-Mooren-Brunnen_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Albert-Mooren-Brunnen_3.jpg/1200px-Albert-Mooren-Brunnen_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Albert-Mooren-Brunnen_3.jpg/1920px-Albert-Mooren-Brunnen_3.jpg
+  Albert-Mooren-Brunnen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albert-Mooren-Brunnen_2.jpg/400px-Albert-Mooren-Brunnen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albert-Mooren-Brunnen_2.jpg/800px-Albert-Mooren-Brunnen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albert-Mooren-Brunnen_2.jpg/1200px-Albert-Mooren-Brunnen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Albert-Mooren-Brunnen_2.jpg/1920px-Albert-Mooren-Brunnen_2.jpg
+  Albert-Mooren-Brunnen 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/400px-Albert-Mooren-Brunnen_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/800px-Albert-Mooren-Brunnen_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1200px-Albert-Mooren-Brunnen_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albert-Mooren-Brunnen_5.jpg/1920px-Albert-Mooren-Brunnen_5.jpg
 ---
 
 ## Overview

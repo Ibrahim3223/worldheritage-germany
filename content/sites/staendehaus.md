@@ -21,9 +21,9 @@ longitude: 6.773972
 
 # Images
 images:
-  - "/images-sites/staendehaus/01-ccebac3e-800w.webp"
-  - "/images-sites/staendehaus/02-6383237e-800w.webp"
-  - "/images-sites/staendehaus/03-862bcdba-800w.webp"
+  - "/images/staendehaus/01-ccebac3e-800w.webp"
+  - "/images/staendehaus/02-6383237e-800w.webp"
+  - "/images/staendehaus/03-862bcdba-800w.webp"
 ---
 
 ## Overview

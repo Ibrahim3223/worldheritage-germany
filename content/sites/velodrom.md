@@ -13,9 +13,9 @@ regions:
 latitude: 49.01992
 longitude: 12.08744
 images:
-  - "/images-sites/velodrom/01-464779c8-800w.webp"
-  - "/images-sites/velodrom/02-74998433-800w.webp"
-  - "/images-sites/velodrom/03-b3423a2c-800w.webp"
+  - "/images/velodrom/01-464779c8-800w.webp"
+  - "/images/velodrom/02-74998433-800w.webp"
+  - "/images/velodrom/03-b3423a2c-800w.webp"
 ---
 
 ## Overview

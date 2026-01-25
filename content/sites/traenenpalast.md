@@ -13,7 +13,7 @@ regions:
 latitude: 52.5208
 longitude: 13.3869
 images:
-  - "/images-sites/traenenpalast/01-12d9e036-800w.webp"
+  - "/images/traenenpalast/01-12d9e036-800w.webp"
 ---
 
 ## Overview

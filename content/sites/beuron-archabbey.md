@@ -1,19 +1,49 @@
 ---
-title: "Beuron Archabbey"
+title: Beuron Archabbey
 date: 2026-01-23
 draft: false
-description: "abbey in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.050722222
 longitude: 8.969333333
 images:
-  - "/images-sites/beuron-archabbey/01-35694389-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Knopfmacherfelsen_im_Donautal.jpg/1200px-Knopfmacherfelsen_im_Donautal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg/1200px-Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Beuron_2009_Blick_von_Nordwesten.jpg/1200px-Kloster_Beuron_2009_Blick_von_Nordwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beuron_Ansicht.jpg/1200px-Beuron_Ansicht.jpg
+image_srcset:
+  Knopfmacherfelsen im Donautal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Knopfmacherfelsen_im_Donautal.jpg/400px-Knopfmacherfelsen_im_Donautal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Knopfmacherfelsen_im_Donautal.jpg/800px-Knopfmacherfelsen_im_Donautal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Knopfmacherfelsen_im_Donautal.jpg/1200px-Knopfmacherfelsen_im_Donautal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Knopfmacherfelsen_im_Donautal.jpg/1920px-Knopfmacherfelsen_im_Donautal.jpg
+  Wallfahrtsandenken Gnadenbild zu Beuron.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg/400px-Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg/800px-Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg/1200px-Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg/1920px-Wallfahrtsandenken_Gnadenbild_zu_Beuron.jpg
+  Aerial image of the Beuron Archabbey (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Beuron_Archabbey_(view_from_the_southeast).jpg
+  Kloster Beuron 2009 Blick von Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Beuron_2009_Blick_von_Nordwesten.jpg/400px-Kloster_Beuron_2009_Blick_von_Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Beuron_2009_Blick_von_Nordwesten.jpg/800px-Kloster_Beuron_2009_Blick_von_Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Beuron_2009_Blick_von_Nordwesten.jpg/1200px-Kloster_Beuron_2009_Blick_von_Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kloster_Beuron_2009_Blick_von_Nordwesten.jpg/1920px-Kloster_Beuron_2009_Blick_von_Nordwesten.jpg
+  Beuron Ansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beuron_Ansicht.jpg/400px-Beuron_Ansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beuron_Ansicht.jpg/800px-Beuron_Ansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beuron_Ansicht.jpg/1200px-Beuron_Ansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beuron_Ansicht.jpg/1920px-Beuron_Ansicht.jpg
 ---
 
 ## Overview

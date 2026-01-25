@@ -13,7 +13,7 @@ regions:
 latitude: 50.062393085
 longitude: 11.593427814
 images:
-  - "/images-sites/kloster-himmelkron/03-293f2951-800w.webp"
+  - "/images/kloster-himmelkron/03-293f2951-800w.webp"
 ---
 
 ## Overview

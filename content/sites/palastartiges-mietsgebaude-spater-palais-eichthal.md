@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q41180392"
 description: "The Palastartiges Mietsgebäude, later known as Palais Eichthal, stands as a remarkable example of neoclassical architecture in Munich. Completed in 1825..."
 images:
-  - "/images-sites/palastartiges-mietsgebaude-spater-palais-eichthal/01-0ce61eaf-1920w.webp"
-  - "/images-sites/palastartiges-mietsgebaude-spater-palais-eichthal/02-a3aab446-1920w.webp"
+  - "/images/palastartiges-mietsgebaude-spater-palais-eichthal/01-0ce61eaf-1920w.webp"
+  - "/images/palastartiges-mietsgebaude-spater-palais-eichthal/02-a3aab446-1920w.webp"
 ---
 
 ## Overview

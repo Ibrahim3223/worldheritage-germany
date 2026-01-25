@@ -13,7 +13,7 @@ regions:
 latitude: 47.911111111
 longitude: 7.899444444
 images:
-  - "/images-sites/schauinsland/01-2e6e4867-800w.webp"
+  - "/images/schauinsland/01-2e6e4867-800w.webp"
 ---
 
 ## Overview

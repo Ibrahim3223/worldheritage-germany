@@ -1,19 +1,49 @@
 ---
-title: "Friesenkapelle Wenningstedt"
+title: Friesenkapelle Wenningstedt
 date: 2026-01-23
 draft: false
-description: "Chuch building in Schleswig-Holstein state, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: Chuch building in Schleswig-Holstein state, Germany
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 54.93975
 longitude: 8.328722
 images:
-  - "/images-sites/friesenkapelle-wenningstedt/01-fa7d6963-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Springerin_2293.jpg/1200px-Die_Springerin_2293.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg/1200px-20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg/1200px-20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Friesenkappelle_Wenningstedt.jpg/1200px-Friesenkappelle_Wenningstedt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wenningstedt_church.jpg/1200px-Wenningstedt_church.jpg
+image_srcset:
+  Die Springerin 2293.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Springerin_2293.jpg/400px-Die_Springerin_2293.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Springerin_2293.jpg/800px-Die_Springerin_2293.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Springerin_2293.jpg/1200px-Die_Springerin_2293.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Springerin_2293.jpg/1920px-Die_Springerin_2293.jpg
+  20231019 xl 1439-Friesenkapelle Wenningstedt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg/400px-20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg/800px-20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg/1200px-20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg/1920px-20231019_xl_1439-Friesenkapelle_Wenningstedt.jpg
+  20231019 xl 1439-Friesenkapelle Wenningstedt 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg/400px-20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg/800px-20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg/1200px-20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg/1920px-20231019_xl_1439-Friesenkapelle_Wenningstedt_2.jpg
+  Friesenkappelle Wenningstedt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Friesenkappelle_Wenningstedt.jpg/400px-Friesenkappelle_Wenningstedt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Friesenkappelle_Wenningstedt.jpg/800px-Friesenkappelle_Wenningstedt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Friesenkappelle_Wenningstedt.jpg/1200px-Friesenkappelle_Wenningstedt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Friesenkappelle_Wenningstedt.jpg/1920px-Friesenkappelle_Wenningstedt.jpg
+  Wenningstedt church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wenningstedt_church.jpg/400px-Wenningstedt_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wenningstedt_church.jpg/800px-Wenningstedt_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wenningstedt_church.jpg/1200px-Wenningstedt_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Wenningstedt_church.jpg/1920px-Wenningstedt_church.jpg
 ---
 
 ## Overview

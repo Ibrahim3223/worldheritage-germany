@@ -13,7 +13,7 @@ regions:
 latitude: 50.7606
 longitude: 6.20383
 images:
-  - "/images-sites/tatternsteine-mit-talaue/03-01c9175c-800w.webp"
+  - "/images/tatternsteine-mit-talaue/03-01c9175c-800w.webp"
 ---
 
 ## Overview

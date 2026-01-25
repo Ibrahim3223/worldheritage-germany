@@ -13,7 +13,7 @@ regions:
 latitude: 52.5111
 longitude: 13.3713
 images:
-  - "/images-sites/kemperplatz/01-7f1ae8c8-800w.webp"
+  - "/images/kemperplatz/01-7f1ae8c8-800w.webp"
 ---
 
 ## Overview

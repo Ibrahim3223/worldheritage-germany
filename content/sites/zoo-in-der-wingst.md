@@ -13,9 +13,9 @@ regions:
 latitude: 53.742944444
 longitude: 9.081444444
 images:
-  - "/images-sites/zoo-in-der-wingst/01-918bc7b3-800w.webp"
-  - "/images-sites/zoo-in-der-wingst/02-05eca546-800w.webp"
-  - "/images-sites/zoo-in-der-wingst/03-a9f4bc44-800w.webp"
+  - "/images/zoo-in-der-wingst/01-918bc7b3-800w.webp"
+  - "/images/zoo-in-der-wingst/02-05eca546-800w.webp"
+  - "/images/zoo-in-der-wingst/03-a9f4bc44-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.75444444
 longitude: 9.02222222
 images:
-  - "/images-sites/mindelsee/01-2ab981ed-800w.webp"
+  - "/images/mindelsee/01-2ab981ed-800w.webp"
 ---
 
 ## Overview

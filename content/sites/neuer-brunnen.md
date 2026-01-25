@@ -13,7 +13,7 @@ regions:
 latitude: 50.0021
 longitude: 8.266
 images:
-  - "/images-sites/neuer-brunnen/01-47bbddc4-800w.webp"
+  - "/images/neuer-brunnen/01-47bbddc4-800w.webp"
 ---
 
 ## Overview

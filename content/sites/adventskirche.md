@@ -1,24 +1,52 @@
 ---
-title: "Adventskirche"
-site_name: "Adventskirche"
-slug: "adventskirche"
-region: "Hamburg"
-
-# Location
+title: Adventskirche
+site_name: Adventskirche
+slug: adventskirche
+region: Hamburg
 latitude: 53.6315
 longitude: 9.91383333
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q379865"
-description: "In the heart of Eimsbüttel, Germany, lies the Adventskirche, a striking example of modern architectural design. This church stands out not only for its ..."
+- church building
+- religious site
+wikidata_id: Q379865
+description: In the heart of Eimsbüttel, Germany, lies the Adventskirche, a striking
+  example of modern architectural design. This church stands out not only for its
+  ...
 images:
-  - "/images-sites/adventskirche/01-aa29819b-1920w.webp"
-  - "/images-sites/adventskirche/02-6fc3fad4-1920w.webp"
-  - "/images-sites/adventskirche/03-096c8952-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg/1200px-Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adventkirche_München_Neuaubing_6339.jpg/1200px-Adventkirche_München_Neuaubing_6339.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adventskirche_Kassel_1.jpg/1200px-Adventskirche_Kassel_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adventskirche_Kassel_Ornament_Ostseite.jpg/1200px-Adventskirche_Kassel_Ornament_Ostseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Droeschede-Adventskirche1-Bubo.JPG/1200px-Droeschede-Adventskirche1-Bubo.JPG
+image_srcset:
+  Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg/400px-Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg/800px-Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg/1200px-Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg/1920px-Adventskirche%20Hamburg-Schnelsen%2C%20Westseite.jpg
+  Adventkirche München Neuaubing 6339.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adventkirche_München_Neuaubing_6339.jpg/400px-Adventkirche_München_Neuaubing_6339.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adventkirche_München_Neuaubing_6339.jpg/800px-Adventkirche_München_Neuaubing_6339.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adventkirche_München_Neuaubing_6339.jpg/1200px-Adventkirche_München_Neuaubing_6339.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adventkirche_München_Neuaubing_6339.jpg/1920px-Adventkirche_München_Neuaubing_6339.jpg
+  Adventskirche Kassel 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adventskirche_Kassel_1.jpg/400px-Adventskirche_Kassel_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adventskirche_Kassel_1.jpg/800px-Adventskirche_Kassel_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adventskirche_Kassel_1.jpg/1200px-Adventskirche_Kassel_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Adventskirche_Kassel_1.jpg/1920px-Adventskirche_Kassel_1.jpg
+  Adventskirche Kassel Ornament Ostseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adventskirche_Kassel_Ornament_Ostseite.jpg/400px-Adventskirche_Kassel_Ornament_Ostseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adventskirche_Kassel_Ornament_Ostseite.jpg/800px-Adventskirche_Kassel_Ornament_Ostseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adventskirche_Kassel_Ornament_Ostseite.jpg/1200px-Adventskirche_Kassel_Ornament_Ostseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adventskirche_Kassel_Ornament_Ostseite.jpg/1920px-Adventskirche_Kassel_Ornament_Ostseite.jpg
+  Droeschede-Adventskirche1-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Droeschede-Adventskirche1-Bubo.JPG/400px-Droeschede-Adventskirche1-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Droeschede-Adventskirche1-Bubo.JPG/800px-Droeschede-Adventskirche1-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Droeschede-Adventskirche1-Bubo.JPG/1200px-Droeschede-Adventskirche1-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Droeschede-Adventskirche1-Bubo.JPG/1920px-Droeschede-Adventskirche1-Bubo.JPG
 ---
 
 ## Overview

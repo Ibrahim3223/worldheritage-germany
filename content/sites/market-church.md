@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q895585"
 description: "In the heart of Hanover, Germany, the Market Church (Marktkirche) stands as a striking example of Brick Gothic architecture. Its impressive façade and h..."
 images:
-  - "/images-sites/market-church/01-393feca2-1920w.webp"
-  - "/images-sites/market-church/02-3455e118-1920w.webp"
-  - "/images-sites/market-church/03-c5639787-1920w.webp"
+  - "/images/market-church/01-393feca2-1920w.webp"
+  - "/images/market-church/02-3455e118-1920w.webp"
+  - "/images/market-church/03-c5639787-1920w.webp"
 ---
 
 ## Overview

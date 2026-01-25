@@ -13,7 +13,7 @@ regions:
 latitude: 50.6693
 longitude: 11.5562
 images:
-  - "/images-sites/schloss-brandenstein/01-eeb7df49-800w.webp"
+  - "/images/schloss-brandenstein/01-eeb7df49-800w.webp"
 ---
 
 ## Overview

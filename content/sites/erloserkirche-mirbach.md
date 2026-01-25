@@ -1,20 +1,51 @@
 ---
-title: "Erlöserkirche (Mirbach)"
-site_name: "Erlöserkirche (Mirbach)"
-slug: "erloserkirche-mirbach"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Erlöserkirche (Mirbach)
+site_name: Erlöserkirche (Mirbach)
+slug: erloserkirche-mirbach
+region: North Rhine-Westphalia
 latitude: 50.3558
 longitude: 6.67834
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355763"
-description: "The Erlöserkirche, or Church of the Redeemer, located in Wiesbaum, Germany, serves as a remarkable example of Romanesque Revival architecture. This chur..."
+- church building
+- religious site
+wikidata_id: Q1355763
+description: The Erlöserkirche, or Church of the Redeemer, located in Wiesbaum, Germany,
+  serves as a remarkable example of Romanesque Revival architecture. This chur...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg/1200px-Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/1200px-1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/1200px-1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erlöserkirche_Mirbach.JPG/1200px-Erlöserkirche_Mirbach.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1200px-Erlöserkapelle_Mirbach-Eifel.jpg
+image_srcset:
+  Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg/400px-Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg/800px-Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg/1200px-Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg/1920px-Erl%C3%B6serkapelle%20Mirbach-Eifel.jpg
+  1.4 Wiesbaum (Eifel); Erlöserkapelle Mirbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/400px-1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/800px-1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/1200px-1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/1920px-1.4_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+  1.6 Wiesbaum (Eifel); Erlöserkapelle Mirbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/400px-1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/800px-1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/1200px-1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg/1920px-1.6_Wiesbaum_(Eifel);_Erlöserkapelle_Mirbach.jpg
+  Erlöserkirche Mirbach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erlöserkirche_Mirbach.JPG/400px-Erlöserkirche_Mirbach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erlöserkirche_Mirbach.JPG/800px-Erlöserkirche_Mirbach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erlöserkirche_Mirbach.JPG/1200px-Erlöserkirche_Mirbach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erlöserkirche_Mirbach.JPG/1920px-Erlöserkirche_Mirbach.JPG
+  Erlöserkapelle Mirbach-Eifel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/400px-Erlöserkapelle_Mirbach-Eifel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/800px-Erlöserkapelle_Mirbach-Eifel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1200px-Erlöserkapelle_Mirbach-Eifel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Erlöserkapelle_Mirbach-Eifel.jpg/1920px-Erlöserkapelle_Mirbach-Eifel.jpg
 ---
 
 ## Overview

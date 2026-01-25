@@ -1,27 +1,49 @@
 ---
-title: "Galerie für Zeitgenössische Kunst"
+title: Galerie für Zeitgenössische Kunst
 date: 2026-01-23
 draft: false
-description: "Gallery for contemporary art in Leipzig, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: Gallery for contemporary art in Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3339
 longitude: 12.3653
-
-# Images
 images:
-  - "/images-sites/galerie-fuer-zeitgenoessische-kunst/01-614b830e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/1200px-Leipzig_GfZK_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/01_Labyrinth.jpg/1200px-01_Labyrinth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/03_Labyrinth.jpg/1200px-03_Labyrinth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gfzk_Übersichtsplan.jpg/1200px-Gfzk_Übersichtsplan.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Galerie_für_Zeitgenössische_Kunst.jpg/1200px-Galerie_für_Zeitgenössische_Kunst.jpg
+image_srcset:
+  Leipzig GfZK 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/400px-Leipzig_GfZK_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/800px-Leipzig_GfZK_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/1200px-Leipzig_GfZK_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leipzig_GfZK_1.jpg/1920px-Leipzig_GfZK_1.jpg
+  01 Labyrinth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/01_Labyrinth.jpg/400px-01_Labyrinth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/01_Labyrinth.jpg/800px-01_Labyrinth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/01_Labyrinth.jpg/1200px-01_Labyrinth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/01_Labyrinth.jpg/1920px-01_Labyrinth.jpg
+  03 Labyrinth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/03_Labyrinth.jpg/400px-03_Labyrinth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/03_Labyrinth.jpg/800px-03_Labyrinth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/03_Labyrinth.jpg/1200px-03_Labyrinth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/03_Labyrinth.jpg/1920px-03_Labyrinth.jpg
+  Gfzk Übersichtsplan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gfzk_Übersichtsplan.jpg/400px-Gfzk_Übersichtsplan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gfzk_Übersichtsplan.jpg/800px-Gfzk_Übersichtsplan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gfzk_Übersichtsplan.jpg/1200px-Gfzk_Übersichtsplan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gfzk_Übersichtsplan.jpg/1920px-Gfzk_Übersichtsplan.jpg
+  Galerie für Zeitgenössische Kunst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Galerie_für_Zeitgenössische_Kunst.jpg/400px-Galerie_für_Zeitgenössische_Kunst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Galerie_für_Zeitgenössische_Kunst.jpg/800px-Galerie_für_Zeitgenössische_Kunst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Galerie_für_Zeitgenössische_Kunst.jpg/1200px-Galerie_für_Zeitgenössische_Kunst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Galerie_für_Zeitgenössische_Kunst.jpg/1920px-Galerie_für_Zeitgenössische_Kunst.jpg
 ---
 
 ## Overview

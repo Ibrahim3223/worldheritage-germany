@@ -13,7 +13,7 @@ regions:
 latitude: 49.2028
 longitude: 8.11083
 images:
-  - "/images-sites/zoo-landau/01-674d44cf-800w.webp"
+  - "/images/zoo-landau/01-674d44cf-800w.webp"
 ---
 
 ## Overview

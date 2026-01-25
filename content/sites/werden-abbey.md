@@ -13,7 +13,7 @@ regions:
 latitude: 51.38806
 longitude: 7.00472
 images:
-  - "/images-sites/werden-abbey/01-e519bf04-800w.webp"
+  - "/images/werden-abbey/01-e519bf04-800w.webp"
 ---
 
 ## Overview

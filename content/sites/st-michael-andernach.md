@@ -13,7 +13,7 @@ regions:
 latitude: 50.4323
 longitude: 7.40675
 images:
-  - "/images-sites/st-michael-andernach/01-0d0cc6aa-800w.webp"
+  - "/images/st-michael-andernach/01-0d0cc6aa-800w.webp"
 ---
 
 ## Overview

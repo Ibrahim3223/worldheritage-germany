@@ -13,7 +13,7 @@ regions:
 latitude: 52.073102777
 longitude: 6.718436111
 images:
-  - "/images-sites/krosewicker-grenzwald/01-63c3e596-800w.webp"
+  - "/images/krosewicker-grenzwald/01-63c3e596-800w.webp"
 ---
 
 ## Overview

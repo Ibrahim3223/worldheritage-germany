@@ -1,19 +1,49 @@
 ---
-title: "Emilianus-Stollen"
+title: Emilianus-Stollen
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3302
 longitude: 6.6798
 images:
-  - "/images-sites/emilianus-stollen/01-409376f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Emilianusstollen1.jpg/1200px-Emilianusstollen1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emilianusstollen.jpg/1200px-Emilianusstollen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emilianusstollen_Zugang.jpg/1200px-Emilianusstollen_Zugang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/EmilianusStollenInschrift1.jpg/1200px-EmilianusStollenInschrift1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Inschrift_Emiliani.jpg/1200px-Inschrift_Emiliani.jpg
+image_srcset:
+  Emilianusstollen1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Emilianusstollen1.jpg/400px-Emilianusstollen1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Emilianusstollen1.jpg/800px-Emilianusstollen1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Emilianusstollen1.jpg/1200px-Emilianusstollen1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Emilianusstollen1.jpg/1920px-Emilianusstollen1.jpg
+  Emilianusstollen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emilianusstollen.jpg/400px-Emilianusstollen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emilianusstollen.jpg/800px-Emilianusstollen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emilianusstollen.jpg/1200px-Emilianusstollen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Emilianusstollen.jpg/1920px-Emilianusstollen.jpg
+  Emilianusstollen Zugang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emilianusstollen_Zugang.jpg/400px-Emilianusstollen_Zugang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emilianusstollen_Zugang.jpg/800px-Emilianusstollen_Zugang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emilianusstollen_Zugang.jpg/1200px-Emilianusstollen_Zugang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emilianusstollen_Zugang.jpg/1920px-Emilianusstollen_Zugang.jpg
+  EmilianusStollenInschrift1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/EmilianusStollenInschrift1.jpg/400px-EmilianusStollenInschrift1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/EmilianusStollenInschrift1.jpg/800px-EmilianusStollenInschrift1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/EmilianusStollenInschrift1.jpg/1200px-EmilianusStollenInschrift1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/EmilianusStollenInschrift1.jpg/1920px-EmilianusStollenInschrift1.jpg
+  Inschrift Emiliani.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Inschrift_Emiliani.jpg/400px-Inschrift_Emiliani.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Inschrift_Emiliani.jpg/800px-Inschrift_Emiliani.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Inschrift_Emiliani.jpg/1200px-Inschrift_Emiliani.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Inschrift_Emiliani.jpg/1920px-Inschrift_Emiliani.jpg
 ---
 
 ## Overview

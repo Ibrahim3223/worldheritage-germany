@@ -1,27 +1,49 @@
 ---
-title: "Bischofstein Castle"
+title: Bischofstein Castle
 date: 2026-01-23
 draft: false
-description: "castle in Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2136
 longitude: 7.38389
-
-# Images
 images:
-  - "/images-sites/bischofstein-castle/01-dbd88cc7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skály,_okres_Náchod_-_zámek.JPG/1200px-Skály,_okres_Náchod_-_zámek.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zámek_Bischofstein,_Skály_01.JPG/1200px-Zámek_Bischofstein,_Skály_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zámek_Bischofstein,_Skály_03.JPG/1200px-Zámek_Bischofstein,_Skály_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Zámek_Bischofstein,_Skály_04.JPG/1200px-Zámek_Bischofstein,_Skály_04.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zámek_Bischofstein,_Skály_05.JPG/1200px-Zámek_Bischofstein,_Skály_05.JPG
+image_srcset:
+  Skály, okres Náchod - zámek.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skály,_okres_Náchod_-_zámek.JPG/400px-Skály,_okres_Náchod_-_zámek.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skály,_okres_Náchod_-_zámek.JPG/800px-Skály,_okres_Náchod_-_zámek.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skály,_okres_Náchod_-_zámek.JPG/1200px-Skály,_okres_Náchod_-_zámek.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skály,_okres_Náchod_-_zámek.JPG/1920px-Skály,_okres_Náchod_-_zámek.JPG
+  Zámek Bischofstein, Skály 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zámek_Bischofstein,_Skály_01.JPG/400px-Zámek_Bischofstein,_Skály_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zámek_Bischofstein,_Skály_01.JPG/800px-Zámek_Bischofstein,_Skály_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zámek_Bischofstein,_Skály_01.JPG/1200px-Zámek_Bischofstein,_Skály_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Zámek_Bischofstein,_Skály_01.JPG/1920px-Zámek_Bischofstein,_Skály_01.JPG
+  Zámek Bischofstein, Skály 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zámek_Bischofstein,_Skály_03.JPG/400px-Zámek_Bischofstein,_Skály_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zámek_Bischofstein,_Skály_03.JPG/800px-Zámek_Bischofstein,_Skály_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zámek_Bischofstein,_Skály_03.JPG/1200px-Zámek_Bischofstein,_Skály_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zámek_Bischofstein,_Skály_03.JPG/1920px-Zámek_Bischofstein,_Skály_03.JPG
+  Zámek Bischofstein, Skály 04.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Zámek_Bischofstein,_Skály_04.JPG/400px-Zámek_Bischofstein,_Skály_04.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Zámek_Bischofstein,_Skály_04.JPG/800px-Zámek_Bischofstein,_Skály_04.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Zámek_Bischofstein,_Skály_04.JPG/1200px-Zámek_Bischofstein,_Skály_04.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Zámek_Bischofstein,_Skály_04.JPG/1920px-Zámek_Bischofstein,_Skály_04.JPG
+  Zámek Bischofstein, Skály 05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zámek_Bischofstein,_Skály_05.JPG/400px-Zámek_Bischofstein,_Skály_05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zámek_Bischofstein,_Skály_05.JPG/800px-Zámek_Bischofstein,_Skály_05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zámek_Bischofstein,_Skály_05.JPG/1200px-Zámek_Bischofstein,_Skály_05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zámek_Bischofstein,_Skály_05.JPG/1920px-Zámek_Bischofstein,_Skály_05.JPG
 ---
 
 ## Overview

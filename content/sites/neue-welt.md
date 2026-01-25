@@ -13,7 +13,7 @@ regions:
 latitude: 52.486452
 longitude: 13.42147
 images:
-  - "/images-sites/neue-welt/01-e0dacc85-800w.webp"
+  - "/images/neue-welt/01-e0dacc85-800w.webp"
 ---
 
 ## Overview

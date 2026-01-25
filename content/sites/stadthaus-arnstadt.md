@@ -13,9 +13,9 @@ regions:
 latitude: 50.83263016
 longitude: 10.94499969
 images:
-  - "/images-sites/stadthaus-arnstadt/01-1515b6ae-800w.webp"
-  - "/images-sites/stadthaus-arnstadt/02-fd42fbfc-800w.webp"
-  - "/images-sites/stadthaus-arnstadt/03-aecc6e07-800w.webp"
+  - "/images/stadthaus-arnstadt/01-1515b6ae-800w.webp"
+  - "/images/stadthaus-arnstadt/02-fd42fbfc-800w.webp"
+  - "/images/stadthaus-arnstadt/03-aecc6e07-800w.webp"
 ---
 
 ## Overview

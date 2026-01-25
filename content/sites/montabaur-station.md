@@ -13,9 +13,9 @@ regions:
 latitude: 50.4447
 longitude: 7.82528
 images:
-  - "/images-sites/montabaur-station/01-a3440da5-800w.webp"
-  - "/images-sites/montabaur-station/02-9213489f-800w.webp"
-  - "/images-sites/montabaur-station/03-cdf79274-800w.webp"
+  - "/images/montabaur-station/01-a3440da5-800w.webp"
+  - "/images/montabaur-station/02-9213489f-800w.webp"
+  - "/images/montabaur-station/03-cdf79274-800w.webp"
 ---
 
 ## Overview

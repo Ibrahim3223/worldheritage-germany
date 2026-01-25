@@ -13,8 +13,8 @@ regions:
 latitude: 47.6460136
 longitude: 7.9182819
 images:
-  - "/images-sites/wehra-dam/02-867db1c8-800w.webp"
-  - "/images-sites/wehra-dam/03-b154913c-800w.webp"
+  - "/images/wehra-dam/02-867db1c8-800w.webp"
+  - "/images/wehra-dam/03-b154913c-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.3281
 longitude: 9.5047
 images:
-  - "/images-sites/schoental-abbey/01-d96d2d01-800w.webp"
+  - "/images/schoental-abbey/01-d96d2d01-800w.webp"
 ---
 
 ## Overview

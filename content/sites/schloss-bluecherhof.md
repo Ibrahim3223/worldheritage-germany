@@ -13,7 +13,7 @@ regions:
 latitude: 53.6166
 longitude: 12.5202
 images:
-  - "/images-sites/schloss-bluecherhof/01-0cfd20f4-800w.webp"
+  - "/images/schloss-bluecherhof/01-0cfd20f4-800w.webp"
 ---
 
 ## Overview

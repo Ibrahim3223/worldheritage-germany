@@ -1,19 +1,33 @@
 ---
-title: "Blersum Church"
-site_name: "Blersum Church"
-slug: "blersum-church"
-region: "Lower Saxony"
-
-# Location
+title: Blersum Church
+site_name: Blersum Church
+slug: blersum-church
+region: Lower Saxony
 latitude: 53.5988
 longitude: 7.74164
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q883871"
-description: "Blersum Church stands as a striking example of Romanesque architecture in the Wittmund region of Germany. This church, constructed from durable brick, d..."
+- cultural site
+wikidata_id: Q883871
+description: Blersum Church stands as a striking example of Romanesque architecture
+  in the Wittmund region of Germany. This church, constructed from durable brick,
+  d...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/1200px-ChurchBlersum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4722009_Blersum_Orgel.jpg/1200px-4722009_Blersum_Orgel.jpg
+image_srcset:
+  ChurchBlersum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/400px-ChurchBlersum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/800px-ChurchBlersum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/1200px-ChurchBlersum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ChurchBlersum.jpg/1920px-ChurchBlersum.jpg
+  4722009 Blersum Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4722009_Blersum_Orgel.jpg/400px-4722009_Blersum_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4722009_Blersum_Orgel.jpg/800px-4722009_Blersum_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4722009_Blersum_Orgel.jpg/1200px-4722009_Blersum_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4722009_Blersum_Orgel.jpg/1920px-4722009_Blersum_Orgel.jpg
 ---
 
 ## Overview

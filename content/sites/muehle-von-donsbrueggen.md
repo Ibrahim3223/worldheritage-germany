@@ -13,7 +13,7 @@ regions:
 latitude: 51.80535
 longitude: 6.087689
 images:
-  - "/images-sites/muehle-von-donsbrueggen/01-2308cc1b-800w.webp"
+  - "/images/muehle-von-donsbrueggen/01-2308cc1b-800w.webp"
 ---
 
 ## Overview

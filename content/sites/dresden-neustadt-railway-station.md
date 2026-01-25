@@ -1,19 +1,49 @@
 ---
-title: "Dresden-Neustadt railway station"
+title: Dresden-Neustadt railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Dresden, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Dresden, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 51.065555555
 longitude: 13.740833333
 images:
-  - "/images-sites/dresden-neustadt-railway-station/01-5d619dff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BahnhofDresdenNeustadtFassade(2009).jpg/1200px-BahnhofDresdenNeustadtFassade(2009).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20080812020DR_Dresden_Neustädter_Bahnhof.jpg/1200px-20080812020DR_Dresden_Neustädter_Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20080813115DR_Dresden_Neustädter_Bahnhof.jpg/1200px-20080813115DR_Dresden_Neustädter_Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20080812015DR_Dresden_Neustädter_Bahnhof.jpg/1200px-20080812015DR_Dresden_Neustädter_Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg/1200px-20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg
+image_srcset:
+  BahnhofDresdenNeustadtFassade(2009).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BahnhofDresdenNeustadtFassade(2009).jpg/400px-BahnhofDresdenNeustadtFassade(2009).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BahnhofDresdenNeustadtFassade(2009).jpg/800px-BahnhofDresdenNeustadtFassade(2009).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BahnhofDresdenNeustadtFassade(2009).jpg/1200px-BahnhofDresdenNeustadtFassade(2009).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BahnhofDresdenNeustadtFassade(2009).jpg/1920px-BahnhofDresdenNeustadtFassade(2009).jpg
+  20080812020DR Dresden Neustädter Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20080812020DR_Dresden_Neustädter_Bahnhof.jpg/400px-20080812020DR_Dresden_Neustädter_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20080812020DR_Dresden_Neustädter_Bahnhof.jpg/800px-20080812020DR_Dresden_Neustädter_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20080812020DR_Dresden_Neustädter_Bahnhof.jpg/1200px-20080812020DR_Dresden_Neustädter_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/20080812020DR_Dresden_Neustädter_Bahnhof.jpg/1920px-20080812020DR_Dresden_Neustädter_Bahnhof.jpg
+  20080813115DR Dresden Neustädter Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20080813115DR_Dresden_Neustädter_Bahnhof.jpg/400px-20080813115DR_Dresden_Neustädter_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20080813115DR_Dresden_Neustädter_Bahnhof.jpg/800px-20080813115DR_Dresden_Neustädter_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20080813115DR_Dresden_Neustädter_Bahnhof.jpg/1200px-20080813115DR_Dresden_Neustädter_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20080813115DR_Dresden_Neustädter_Bahnhof.jpg/1920px-20080813115DR_Dresden_Neustädter_Bahnhof.jpg
+  20080812015DR Dresden Neustädter Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20080812015DR_Dresden_Neustädter_Bahnhof.jpg/400px-20080812015DR_Dresden_Neustädter_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20080812015DR_Dresden_Neustädter_Bahnhof.jpg/800px-20080812015DR_Dresden_Neustädter_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20080812015DR_Dresden_Neustädter_Bahnhof.jpg/1200px-20080812015DR_Dresden_Neustädter_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20080812015DR_Dresden_Neustädter_Bahnhof.jpg/1920px-20080812015DR_Dresden_Neustädter_Bahnhof.jpg
+  20080813120DR Dresden Reichsbahnamt Hansastraße 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg/400px-20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg/800px-20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg/1200px-20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg/1920px-20080813120DR_Dresden_Reichsbahnamt_Hansastraße_4.jpg
 ---
 
 ## Overview

@@ -1,24 +1,33 @@
 ---
-title: "Church of the RedeemerBad Homburg"
-site_name: "Church of the RedeemerBad Homburg"
-slug: "church-of-the-redeemer-bad-homburg"
-region: "Hesse"
-
-# Location
+title: Church of the RedeemerBad Homburg
+site_name: Church of the RedeemerBad Homburg
+slug: church-of-the-redeemer-bad-homburg
+region: Hesse
 latitude: 50.226462203654
 longitude: 8.6115912206596
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "castle"
-  - "fortification"
-wikidata_id: "Q630576"
-description: "The Church of the Redeemer in Bad Homburg is not just a house of worship; it stands as a remarkable example of Romanesque Revival architecture in German..."
+- castle
+- fortification
+wikidata_id: Q630576
+description: The Church of the Redeemer in Bad Homburg is not just a house of worship;
+  it stands as a remarkable example of Romanesque Revival architecture in German...
 images:
-  - "/images-sites/church-of-the-redeemer-bad-homburg/01-2c7466d5-1920w.webp"
-  - "/images-sites/church-of-the-redeemer-bad-homburg/02-08c0c586-1920w.webp"
-  - "/images-sites/church-of-the-redeemer-bad-homburg/03-f959ec0f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bad-homburg-erloeserkirche-038.jpg/1200px-Bad-homburg-erloeserkirche-038.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg/1200px-Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg
+image_srcset:
+  Bad-homburg-erloeserkirche-038.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bad-homburg-erloeserkirche-038.jpg/400px-Bad-homburg-erloeserkirche-038.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bad-homburg-erloeserkirche-038.jpg/800px-Bad-homburg-erloeserkirche-038.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bad-homburg-erloeserkirche-038.jpg/1200px-Bad-homburg-erloeserkirche-038.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bad-homburg-erloeserkirche-038.jpg/1920px-Bad-homburg-erloeserkirche-038.jpg
+  Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg/400px-Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg/800px-Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg/1200px-Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg/1920px-Bad%20Homburg%20-%20Erl%C3%B6serkirche%20-%20Apsis%20%283124%29.jpg
 ---
 
 ## Overview

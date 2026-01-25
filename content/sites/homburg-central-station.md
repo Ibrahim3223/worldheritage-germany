@@ -1,20 +1,49 @@
 ---
-title: "Homburg Central Station"
+title: Homburg Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Homburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Homburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3278
 longitude: 7.33694
 images:
-  - "/images-sites/homburg-central-station/02-56fd81bc-800w.webp"
-  - "/images-sites/homburg-central-station/03-c7561915-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Homburg_Saar_Hauptbahnhof_2012-05-03.jpg/1200px-Homburg_Saar_Hauptbahnhof_2012-05-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vlexx_8442_643_Homburg_202008032005.jpg/1200px-Vlexx_8442_643_Homburg_202008032005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20120530Bahnhof_Homburg1.jpg/1200px-20120530Bahnhof_Homburg1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Homburg_Hbf_Panorama.jpg/1200px-Homburg_Hbf_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nahverkehr_hbf_hbg.jpg/1200px-Nahverkehr_hbf_hbg.jpg
+image_srcset:
+  Homburg Saar Hauptbahnhof 2012-05-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Homburg_Saar_Hauptbahnhof_2012-05-03.jpg/400px-Homburg_Saar_Hauptbahnhof_2012-05-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Homburg_Saar_Hauptbahnhof_2012-05-03.jpg/800px-Homburg_Saar_Hauptbahnhof_2012-05-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Homburg_Saar_Hauptbahnhof_2012-05-03.jpg/1200px-Homburg_Saar_Hauptbahnhof_2012-05-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Homburg_Saar_Hauptbahnhof_2012-05-03.jpg/1920px-Homburg_Saar_Hauptbahnhof_2012-05-03.jpg
+  Vlexx 8442 643 Homburg 202008032005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vlexx_8442_643_Homburg_202008032005.jpg/400px-Vlexx_8442_643_Homburg_202008032005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vlexx_8442_643_Homburg_202008032005.jpg/800px-Vlexx_8442_643_Homburg_202008032005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vlexx_8442_643_Homburg_202008032005.jpg/1200px-Vlexx_8442_643_Homburg_202008032005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vlexx_8442_643_Homburg_202008032005.jpg/1920px-Vlexx_8442_643_Homburg_202008032005.jpg
+  20120530Bahnhof Homburg1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20120530Bahnhof_Homburg1.jpg/400px-20120530Bahnhof_Homburg1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20120530Bahnhof_Homburg1.jpg/800px-20120530Bahnhof_Homburg1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20120530Bahnhof_Homburg1.jpg/1200px-20120530Bahnhof_Homburg1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/20120530Bahnhof_Homburg1.jpg/1920px-20120530Bahnhof_Homburg1.jpg
+  Homburg Hbf Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Homburg_Hbf_Panorama.jpg/400px-Homburg_Hbf_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Homburg_Hbf_Panorama.jpg/800px-Homburg_Hbf_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Homburg_Hbf_Panorama.jpg/1200px-Homburg_Hbf_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Homburg_Hbf_Panorama.jpg/1920px-Homburg_Hbf_Panorama.jpg
+  Nahverkehr hbf hbg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nahverkehr_hbf_hbg.jpg/400px-Nahverkehr_hbf_hbg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nahverkehr_hbf_hbg.jpg/800px-Nahverkehr_hbf_hbg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nahverkehr_hbf_hbg.jpg/1200px-Nahverkehr_hbf_hbg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nahverkehr_hbf_hbg.jpg/1920px-Nahverkehr_hbf_hbg.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.134833333
 longitude: 11.572833333
 images:
-  - "/images-sites/munich-film-museum/01-10b91bd7-800w.webp"
+  - "/images/munich-film-museum/01-10b91bd7-800w.webp"
 ---
 
 ## Overview

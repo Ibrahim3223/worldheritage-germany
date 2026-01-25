@@ -1,19 +1,49 @@
 ---
-title: "Kaiserpfalzen in Paderborn"
+title: Kaiserpfalzen in Paderborn
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7194
 longitude: 8.75528
 images:
-  - "/images-sites/kaiserpfalzen-in-paderborn/01-adf4d450-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Paderborn_Kaiserpfalz_asv2024-05_img3.jpg/1200px-Paderborn_Kaiserpfalz_asv2024-05_img3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/1200px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg/1200px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg/1200px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Paderborn_Museum_in_der_Kaiserpfalz.jpg/1200px-Paderborn_Museum_in_der_Kaiserpfalz.jpg
+image_srcset:
+  Paderborn Kaiserpfalz asv2024-05 img3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Paderborn_Kaiserpfalz_asv2024-05_img3.jpg/400px-Paderborn_Kaiserpfalz_asv2024-05_img3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Paderborn_Kaiserpfalz_asv2024-05_img3.jpg/800px-Paderborn_Kaiserpfalz_asv2024-05_img3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Paderborn_Kaiserpfalz_asv2024-05_img3.jpg/1200px-Paderborn_Kaiserpfalz_asv2024-05_img3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Paderborn_Kaiserpfalz_asv2024-05_img3.jpg/1920px-Paderborn_Kaiserpfalz_asv2024-05_img3.jpg
+  Paderborn Kaiserpfalz asv2024-05 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/400px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/800px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/1200px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Paderborn_Kaiserpfalz_asv2024-05_img1.jpg/1920px-Paderborn_Kaiserpfalz_asv2024-05_img1.jpg
+  Paderborn - 2022-05-04 - Kaiserpfalz, Dom (DSC 6247).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg/400px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg/800px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg/1200px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg/1920px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6247).jpg
+  Paderborn - 2022-05-04 - Kaiserpfalz, Dom (DSC 6245).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg/400px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg/800px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg/1200px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg/1920px-Paderborn_-_2022-05-04_-_Kaiserpfalz,_Dom_(DSC_6245).jpg
+  Paderborn Museum in der Kaiserpfalz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Paderborn_Museum_in_der_Kaiserpfalz.jpg/400px-Paderborn_Museum_in_der_Kaiserpfalz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Paderborn_Museum_in_der_Kaiserpfalz.jpg/800px-Paderborn_Museum_in_der_Kaiserpfalz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Paderborn_Museum_in_der_Kaiserpfalz.jpg/1200px-Paderborn_Museum_in_der_Kaiserpfalz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Paderborn_Museum_in_der_Kaiserpfalz.jpg/1920px-Paderborn_Museum_in_der_Kaiserpfalz.jpg
 ---
 
 ## Overview

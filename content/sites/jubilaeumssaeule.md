@@ -1,19 +1,49 @@
 ---
-title: "Jubiläumssäule"
+title: Jubiläumssäule
 date: 2026-01-23
 draft: false
-description: "Monument at the Schloßplatz in Stuttgart"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Monument at the Schloßplatz in Stuttgart
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.77853
 longitude: 9.17993
 images:
-  - "/images-sites/jubilaeumssaeule/01-d27e4493-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20220818_Jubiläumssäule_Stuttgart_01.jpg/1200px-20220818_Jubiläumssäule_Stuttgart_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg/1200px-Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/1200px-Stuttgart_Jubiläumssäule.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jubiläumssäule,_25th_September_2021.jpg/1200px-Jubiläumssäule,_25th_September_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg/1200px-Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg
+image_srcset:
+  20220818 Jubiläumssäule Stuttgart 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20220818_Jubiläumssäule_Stuttgart_01.jpg/400px-20220818_Jubiläumssäule_Stuttgart_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20220818_Jubiläumssäule_Stuttgart_01.jpg/800px-20220818_Jubiläumssäule_Stuttgart_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20220818_Jubiläumssäule_Stuttgart_01.jpg/1200px-20220818_Jubiläumssäule_Stuttgart_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/20220818_Jubiläumssäule_Stuttgart_01.jpg/1920px-20220818_Jubiläumssäule_Stuttgart_01.jpg
+  Jubiläumssäule auf dem Schlossplatz, Stuttgart.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg/400px-Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg/800px-Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg/1200px-Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg/1920px-Jubiläumssäule_auf_dem_Schlossplatz,_Stuttgart.jpg
+  Stuttgart Jubiläumssäule.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/400px-Stuttgart_Jubiläumssäule.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/800px-Stuttgart_Jubiläumssäule.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/1200px-Stuttgart_Jubiläumssäule.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuttgart_Jubiläumssäule.jpg/1920px-Stuttgart_Jubiläumssäule.jpg
+  Jubiläumssäule, 25th September 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jubiläumssäule,_25th_September_2021.jpg/400px-Jubiläumssäule,_25th_September_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jubiläumssäule,_25th_September_2021.jpg/800px-Jubiläumssäule,_25th_September_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jubiläumssäule,_25th_September_2021.jpg/1200px-Jubiläumssäule,_25th_September_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jubiläumssäule,_25th_September_2021.jpg/1920px-Jubiläumssäule,_25th_September_2021.jpg
+  Neues Schloss Schlossplatzspringbrunnen Jubiläumssäule Schlossplatz Stuttgart 2015 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg/400px-Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg/800px-Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg/1200px-Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg/1920px-Neues_Schloss_Schlossplatzspringbrunnen_Jubiläumssäule_Schlossplatz_Stuttgart_2015_02.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Friedhof II der Sophiengemeinde Berlin"
+title: Friedhof II der Sophiengemeinde Berlin
 date: 2026-01-23
 draft: false
-description: "cemetery in Mitte, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Mitte, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5339
 longitude: 13.3917
 images:
-  - "/images-sites/friedhof-ii-der-sophiengemeinde-berlin/01-eaa7bb10-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg/1200px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg/1200px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2009-10-05_Grab-Carl-Bechstein_Tondo.jpg/1200px-2009-10-05_Grab-Carl-Bechstein_Tondo.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sophienfriedhof_II_Eingang.jpg/1200px-Sophienfriedhof_II_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg/1200px-Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg
+image_srcset:
+  Friedhof II der Sophiengemeinde Berlin Grabmäler 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg/400px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg/800px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg/1200px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg/1920px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_1.jpg
+  Friedhof II der Sophiengemeinde Berlin Grabmäler 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg/400px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg/800px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg/1200px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg/1920px-Friedhof_II_der_Sophiengemeinde_Berlin_Grabmäler_2.jpg
+  2009-10-05 Grab-Carl-Bechstein Tondo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2009-10-05_Grab-Carl-Bechstein_Tondo.jpg/400px-2009-10-05_Grab-Carl-Bechstein_Tondo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2009-10-05_Grab-Carl-Bechstein_Tondo.jpg/800px-2009-10-05_Grab-Carl-Bechstein_Tondo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2009-10-05_Grab-Carl-Bechstein_Tondo.jpg/1200px-2009-10-05_Grab-Carl-Bechstein_Tondo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2009-10-05_Grab-Carl-Bechstein_Tondo.jpg/1920px-2009-10-05_Grab-Carl-Bechstein_Tondo.jpg
+  Sophienfriedhof II Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sophienfriedhof_II_Eingang.jpg/400px-Sophienfriedhof_II_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sophienfriedhof_II_Eingang.jpg/800px-Sophienfriedhof_II_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sophienfriedhof_II_Eingang.jpg/1200px-Sophienfriedhof_II_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sophienfriedhof_II_Eingang.jpg/1920px-Sophienfriedhof_II_Eingang.jpg
+  Sophien-Friedhof-II Grabstätte Wilhelm-Friedrich-Ernst-Bach 0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg/400px-Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg/800px-Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg/1200px-Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg/1920px-Sophien-Friedhof-II_Grabstätte_Wilhelm-Friedrich-Ernst-Bach_0.jpg
 ---
 
 ## Overview

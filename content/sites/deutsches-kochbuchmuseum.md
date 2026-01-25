@@ -1,19 +1,37 @@
 ---
-title: "Deutsches Kochbuchmuseum"
+title: Deutsches Kochbuchmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.49222
 longitude: 7.48028
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1200px-Davidis_Holle_1904.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kochbuchmuseum_westfalenpark_2010_aussen.jpg/1200px-Kochbuchmuseum_westfalenpark_2010_aussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kochbuchmuseum_westfalenpark_2010_innen.jpg/1200px-Kochbuchmuseum_westfalenpark_2010_innen.jpg
+image_srcset:
+  Davidis Holle 1904.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/400px-Davidis_Holle_1904.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/800px-Davidis_Holle_1904.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1200px-Davidis_Holle_1904.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Davidis_Holle_1904.jpg/1920px-Davidis_Holle_1904.jpg
+  Kochbuchmuseum westfalenpark 2010 aussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kochbuchmuseum_westfalenpark_2010_aussen.jpg/400px-Kochbuchmuseum_westfalenpark_2010_aussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kochbuchmuseum_westfalenpark_2010_aussen.jpg/800px-Kochbuchmuseum_westfalenpark_2010_aussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kochbuchmuseum_westfalenpark_2010_aussen.jpg/1200px-Kochbuchmuseum_westfalenpark_2010_aussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kochbuchmuseum_westfalenpark_2010_aussen.jpg/1920px-Kochbuchmuseum_westfalenpark_2010_aussen.jpg
+  Kochbuchmuseum westfalenpark 2010 innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kochbuchmuseum_westfalenpark_2010_innen.jpg/400px-Kochbuchmuseum_westfalenpark_2010_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kochbuchmuseum_westfalenpark_2010_innen.jpg/800px-Kochbuchmuseum_westfalenpark_2010_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kochbuchmuseum_westfalenpark_2010_innen.jpg/1200px-Kochbuchmuseum_westfalenpark_2010_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kochbuchmuseum_westfalenpark_2010_innen.jpg/1920px-Kochbuchmuseum_westfalenpark_2010_innen.jpg
 ---
 
 ## Overview

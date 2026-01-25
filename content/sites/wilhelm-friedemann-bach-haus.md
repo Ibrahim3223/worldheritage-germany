@@ -13,7 +13,7 @@ regions:
 latitude: 51.483
 longitude: 11.965
 images:
-  - "/images-sites/wilhelm-friedemann-bach-haus/01-0596f223-800w.webp"
+  - "/images/wilhelm-friedemann-bach-haus/01-0596f223-800w.webp"
 ---
 
 ## Overview

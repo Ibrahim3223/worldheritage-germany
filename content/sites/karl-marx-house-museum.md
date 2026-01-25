@@ -13,7 +13,7 @@ regions:
 latitude: 49.753889
 longitude: 6.635556
 images:
-  - "/images-sites/karl-marx-house-museum/01-3a8fb4b1-800w.webp"
+  - "/images/karl-marx-house-museum/01-3a8fb4b1-800w.webp"
 ---
 
 ## Overview

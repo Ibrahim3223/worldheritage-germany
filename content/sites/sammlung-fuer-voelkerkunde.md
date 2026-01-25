@@ -13,7 +13,7 @@ regions:
 latitude: 51.535
 longitude: 9.94083
 images:
-  - "/images-sites/sammlung-fuer-voelkerkunde/01-85fd9798-800w.webp"
+  - "/images/sammlung-fuer-voelkerkunde/01-85fd9798-800w.webp"
 ---
 
 ## Overview

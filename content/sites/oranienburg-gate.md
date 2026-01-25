@@ -13,7 +13,7 @@ regions:
 latitude: 52.5271
 longitude: 13.3871
 images:
-  - "/images-sites/oranienburg-gate/01-526bb8d6-800w.webp"
+  - "/images/oranienburg-gate/01-526bb8d6-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.8975
 longitude: 12.8075
 images:
-  - "/images-sites/ruppiner-see/01-41304221-800w.webp"
+  - "/images/ruppiner-see/01-41304221-800w.webp"
 ---
 
 ## Overview

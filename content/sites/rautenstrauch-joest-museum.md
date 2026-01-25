@@ -13,7 +13,7 @@ regions:
 latitude: 50.93464
 longitude: 6.95053
 images:
-  - "/images-sites/rautenstrauch-joest-museum/01-bbc92efd-800w.webp"
+  - "/images/rautenstrauch-joest-museum/01-bbc92efd-800w.webp"
 ---
 
 ## Overview

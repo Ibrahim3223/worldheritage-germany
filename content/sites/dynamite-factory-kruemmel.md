@@ -1,19 +1,37 @@
 ---
-title: "Dynamite factory Krümmel"
+title: Dynamite factory Krümmel
 date: 2026-01-23
 draft: false
-description: "historische Sprengstofffabrik bei Geesthacht"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: historische Sprengstofffabrik bei Geesthacht
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 53.408668
 longitude: 10.417303
 images:
-  - "/images-sites/dynamite-factory-kruemmel/01-32dc0e70-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG/1200px-Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1200px-Dynamitfabrik_kruemmel_verwaltung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dynamitfabrik_kruemmel_wasserturm_02.jpg/1200px-Dynamitfabrik_kruemmel_wasserturm_02.jpg
+image_srcset:
+  Lagerhalle der Dynamitfabrik auf dem GKSS Gelände.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG/400px-Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG/800px-Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG/1200px-Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG/1920px-Lagerhalle_der_Dynamitfabrik_auf_dem_GKSS_Gelände.JPG
+  Dynamitfabrik kruemmel verwaltung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/400px-Dynamitfabrik_kruemmel_verwaltung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/800px-Dynamitfabrik_kruemmel_verwaltung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1200px-Dynamitfabrik_kruemmel_verwaltung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dynamitfabrik_kruemmel_verwaltung.jpg/1920px-Dynamitfabrik_kruemmel_verwaltung.jpg
+  Dynamitfabrik kruemmel wasserturm 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dynamitfabrik_kruemmel_wasserturm_02.jpg/400px-Dynamitfabrik_kruemmel_wasserturm_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dynamitfabrik_kruemmel_wasserturm_02.jpg/800px-Dynamitfabrik_kruemmel_wasserturm_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dynamitfabrik_kruemmel_wasserturm_02.jpg/1200px-Dynamitfabrik_kruemmel_wasserturm_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dynamitfabrik_kruemmel_wasserturm_02.jpg/1920px-Dynamitfabrik_kruemmel_wasserturm_02.jpg
 ---
 
 ## Overview

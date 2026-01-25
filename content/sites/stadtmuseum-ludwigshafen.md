@@ -13,7 +13,7 @@ regions:
 latitude: 49.4856
 longitude: 8.44314
 images:
-  - "/images-sites/stadtmuseum-ludwigshafen/01-60985892-800w.webp"
+  - "/images/stadtmuseum-ludwigshafen/01-60985892-800w.webp"
 ---
 
 ## Overview

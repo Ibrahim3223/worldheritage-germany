@@ -13,7 +13,7 @@ regions:
 latitude: 48.1923
 longitude: 11.6191
 images:
-  - "/images-sites/metropol-theater/01-4d35d4c5-800w.webp"
+  - "/images/metropol-theater/01-4d35d4c5-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Fischberg Castle"
+title: Fischberg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6556
 longitude: 10.1189
 images:
-  - "/images-sites/fischberg-castle/01-c9d0959c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WAK_Klings_15.jpg/1200px-WAK_Klings_15.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WAK_BURG_FISCHBERG01.jpg/1200px-WAK_BURG_FISCHBERG01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WAK_BURG_FISCHBERG02.jpg/1200px-WAK_BURG_FISCHBERG02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/WAK_BURG_FISCHBERG05.jpg/1200px-WAK_BURG_FISCHBERG05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_BURG_FISCHBERG06.jpg/1200px-WAK_BURG_FISCHBERG06.jpg
+image_srcset:
+  WAK Klings 15.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WAK_Klings_15.jpg/400px-WAK_Klings_15.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WAK_Klings_15.jpg/800px-WAK_Klings_15.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WAK_Klings_15.jpg/1200px-WAK_Klings_15.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WAK_Klings_15.jpg/1920px-WAK_Klings_15.jpg
+  WAK BURG FISCHBERG01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WAK_BURG_FISCHBERG01.jpg/400px-WAK_BURG_FISCHBERG01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WAK_BURG_FISCHBERG01.jpg/800px-WAK_BURG_FISCHBERG01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WAK_BURG_FISCHBERG01.jpg/1200px-WAK_BURG_FISCHBERG01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WAK_BURG_FISCHBERG01.jpg/1920px-WAK_BURG_FISCHBERG01.jpg
+  WAK BURG FISCHBERG02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WAK_BURG_FISCHBERG02.jpg/400px-WAK_BURG_FISCHBERG02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WAK_BURG_FISCHBERG02.jpg/800px-WAK_BURG_FISCHBERG02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WAK_BURG_FISCHBERG02.jpg/1200px-WAK_BURG_FISCHBERG02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/WAK_BURG_FISCHBERG02.jpg/1920px-WAK_BURG_FISCHBERG02.jpg
+  WAK BURG FISCHBERG05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/WAK_BURG_FISCHBERG05.jpg/400px-WAK_BURG_FISCHBERG05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/WAK_BURG_FISCHBERG05.jpg/800px-WAK_BURG_FISCHBERG05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/WAK_BURG_FISCHBERG05.jpg/1200px-WAK_BURG_FISCHBERG05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/WAK_BURG_FISCHBERG05.jpg/1920px-WAK_BURG_FISCHBERG05.jpg
+  WAK BURG FISCHBERG06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_BURG_FISCHBERG06.jpg/400px-WAK_BURG_FISCHBERG06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_BURG_FISCHBERG06.jpg/800px-WAK_BURG_FISCHBERG06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_BURG_FISCHBERG06.jpg/1200px-WAK_BURG_FISCHBERG06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WAK_BURG_FISCHBERG06.jpg/1920px-WAK_BURG_FISCHBERG06.jpg
 ---
 
 ## Overview

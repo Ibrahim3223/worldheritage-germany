@@ -1,23 +1,50 @@
 ---
-title: "Christ King"
-site_name: "Christ King"
-slug: "christ-king"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Christ King
+site_name: Christ King
+slug: christ-king
+region: North Rhine-Westphalia
 latitude: 51.2391
 longitude: 6.73783
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1087200"
-description: "In the heart of Oberkassel, a district in Düsseldorf, Germany, stands Christ King, a church building that reflects the unique architectural style of its..."
+- cultural site
+wikidata_id: Q1087200
+description: In the heart of Oberkassel, a district in Düsseldorf, Germany, stands
+  Christ King, a church building that reflects the unique architectural style of its...
 images:
-  - "/images-sites/christ-king/01-b2f4cb7d-1920w.webp"
-  - "/images-sites/christ-king/02-48ff2ddf-1920w.webp"
-  - "/images-sites/christ-king/03-e9d7977d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG/1200px-Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cristo_de_la_Romero_Vargas,_Puebla_02.jpg/1200px-Cristo_de_la_Romero_Vargas,_Puebla_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frieden_002_2014_03_17.jpg/1200px-Frieden_002_2014_03_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg/1200px-St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hubert_van_Eyck_023.jpg/1200px-Hubert_van_Eyck_023.jpg
+image_srcset:
+  Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG/400px-Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG/800px-Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG/1200px-Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG/1920px-Ukrainisch%20Katholische%20Kirche%20D%C3%BCsseldorf-Niederkassel.JPG
+  Cristo de la Romero Vargas, Puebla 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cristo_de_la_Romero_Vargas,_Puebla_02.jpg/400px-Cristo_de_la_Romero_Vargas,_Puebla_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cristo_de_la_Romero_Vargas,_Puebla_02.jpg/800px-Cristo_de_la_Romero_Vargas,_Puebla_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cristo_de_la_Romero_Vargas,_Puebla_02.jpg/1200px-Cristo_de_la_Romero_Vargas,_Puebla_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cristo_de_la_Romero_Vargas,_Puebla_02.jpg/1920px-Cristo_de_la_Romero_Vargas,_Puebla_02.jpg
+  Frieden 002 2014 03 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frieden_002_2014_03_17.jpg/400px-Frieden_002_2014_03_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frieden_002_2014_03_17.jpg/800px-Frieden_002_2014_03_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frieden_002_2014_03_17.jpg/1200px-Frieden_002_2014_03_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Frieden_002_2014_03_17.jpg/1920px-Frieden_002_2014_03_17.jpg
+  St. Peter und Paul (Bardenberg) 06 Christkönig-Denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg/400px-St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg/800px-St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg/1200px-St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg/1920px-St._Peter_und_Paul_(Bardenberg)_06_Christkönig-Denkmal.jpg
+  Hubert van Eyck 023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hubert_van_Eyck_023.jpg/400px-Hubert_van_Eyck_023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hubert_van_Eyck_023.jpg/800px-Hubert_van_Eyck_023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hubert_van_Eyck_023.jpg/1200px-Hubert_van_Eyck_023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hubert_van_Eyck_023.jpg/1920px-Hubert_van_Eyck_023.jpg
 ---
 
 ## Overview

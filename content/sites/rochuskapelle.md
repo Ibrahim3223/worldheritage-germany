@@ -13,7 +13,7 @@ regions:
 latitude: 49.9665
 longitude: 7.9262
 images:
-  - "/images-sites/rochuskapelle/01-9a3b78b1-800w.webp"
+  - "/images/rochuskapelle/01-9a3b78b1-800w.webp"
 ---
 
 ## Overview

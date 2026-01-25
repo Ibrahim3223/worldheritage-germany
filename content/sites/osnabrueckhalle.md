@@ -13,7 +13,7 @@ regions:
 latitude: 52.2715
 longitude: 8.04185
 images:
-  - "/images-sites/osnabrueckhalle/01-b878f32a-800w.webp"
+  - "/images/osnabrueckhalle/01-b878f32a-800w.webp"
 ---
 
 ## Overview

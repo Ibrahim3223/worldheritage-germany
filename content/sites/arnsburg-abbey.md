@@ -1,20 +1,49 @@
 ---
-title: "Arnsburg Abbey"
+title: Arnsburg Abbey
 date: 2026-01-23
 draft: false
-description: "Historic structure in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Historic structure in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4937
 longitude: 8.79212
 images:
-  - "/images-sites/arnsburg-abbey/02-1d8da0b6-800w.webp"
-  - "/images-sites/arnsburg-abbey/03-306f5040-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arnsburg_Abbey_(23).jpg/1200px-Arnsburg_Abbey_(23).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arnsburg_Abbey_(24).jpg/1200px-Arnsburg_Abbey_(24).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arnsburg_Abbey_(2).jpg/1200px-Arnsburg_Abbey_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Abbey_(1).jpg/1200px-Arnsburg_Abbey_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Kirche.JPG/1200px-Arnsburg_Kirche.JPG
+image_srcset:
+  Arnsburg Abbey (23).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arnsburg_Abbey_(23).jpg/400px-Arnsburg_Abbey_(23).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arnsburg_Abbey_(23).jpg/800px-Arnsburg_Abbey_(23).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arnsburg_Abbey_(23).jpg/1200px-Arnsburg_Abbey_(23).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Arnsburg_Abbey_(23).jpg/1920px-Arnsburg_Abbey_(23).jpg
+  Arnsburg Abbey (24).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arnsburg_Abbey_(24).jpg/400px-Arnsburg_Abbey_(24).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arnsburg_Abbey_(24).jpg/800px-Arnsburg_Abbey_(24).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arnsburg_Abbey_(24).jpg/1200px-Arnsburg_Abbey_(24).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arnsburg_Abbey_(24).jpg/1920px-Arnsburg_Abbey_(24).jpg
+  Arnsburg Abbey (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arnsburg_Abbey_(2).jpg/400px-Arnsburg_Abbey_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arnsburg_Abbey_(2).jpg/800px-Arnsburg_Abbey_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arnsburg_Abbey_(2).jpg/1200px-Arnsburg_Abbey_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Arnsburg_Abbey_(2).jpg/1920px-Arnsburg_Abbey_(2).jpg
+  Arnsburg Abbey (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Abbey_(1).jpg/400px-Arnsburg_Abbey_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Abbey_(1).jpg/800px-Arnsburg_Abbey_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Abbey_(1).jpg/1200px-Arnsburg_Abbey_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Abbey_(1).jpg/1920px-Arnsburg_Abbey_(1).jpg
+  Arnsburg Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Kirche.JPG/400px-Arnsburg_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Kirche.JPG/800px-Arnsburg_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Kirche.JPG/1200px-Arnsburg_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Arnsburg_Kirche.JPG/1920px-Arnsburg_Kirche.JPG
 ---
 
 ## Overview

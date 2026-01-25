@@ -13,7 +13,7 @@ regions:
 latitude: 54.305555555
 longitude: 10.445277777
 images:
-  - "/images-sites/selenter-see/01-ed2a8ea0-800w.webp"
+  - "/images/selenter-see/01-ed2a8ea0-800w.webp"
 ---
 
 ## Overview

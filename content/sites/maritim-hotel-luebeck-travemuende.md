@@ -13,7 +13,7 @@ regions:
 latitude: 53.961666666
 longitude: 10.881944444
 images:
-  - "/images-sites/maritim-hotel-luebeck-travemuende/01-c867a199-800w.webp"
+  - "/images/maritim-hotel-luebeck-travemuende/01-c867a199-800w.webp"
 ---
 
 ## Overview

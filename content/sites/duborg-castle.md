@@ -1,27 +1,49 @@
 ---
-title: "Duborg Castle"
+title: Duborg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Flensburg, Schleswig"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Flensburg, Schleswig
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 54.7931
 longitude: 9.42528
-
-# Images
 images:
-  - "/images-sites/duborg-castle/01-bd68c0a3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG/1200px-Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duburg-Relief_Flensburg.jpg/1200px-Duburg-Relief_Flensburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1200px-Flensburg_Braun-Hogenberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duborgomkring1700.png/1200px-Duborgomkring1700.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG/1200px-Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG
+image_srcset:
+  Gedenktafel mit Relief an der Schloss-Duburg-Schule.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG/400px-Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG/800px-Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG/1200px-Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG/1920px-Gedenktafel_mit_Relief_an_der_Schloss-Duburg-Schule.JPG
+  Duburg-Relief Flensburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duburg-Relief_Flensburg.jpg/400px-Duburg-Relief_Flensburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duburg-Relief_Flensburg.jpg/800px-Duburg-Relief_Flensburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duburg-Relief_Flensburg.jpg/1200px-Duburg-Relief_Flensburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Duburg-Relief_Flensburg.jpg/1920px-Duburg-Relief_Flensburg.jpg
+  Flensburg Braun-Hogenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/400px-Flensburg_Braun-Hogenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/800px-Flensburg_Braun-Hogenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1200px-Flensburg_Braun-Hogenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flensburg_Braun-Hogenberg.jpg/1920px-Flensburg_Braun-Hogenberg.jpg
+  Duborgomkring1700.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duborgomkring1700.png/400px-Duborgomkring1700.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duborgomkring1700.png/800px-Duborgomkring1700.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duborgomkring1700.png/1200px-Duborgomkring1700.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Duborgomkring1700.png/1920px-Duborgomkring1700.png
+  Der wesentiche Teil der Duburg auf dem Beyerschen Epitaph in St. Marien (Flensburg) von 1591.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG/400px-Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG/800px-Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG/1200px-Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG/1920px-Der_wesentiche_Teil_der_Duburg_auf_dem_Beyerschen_Epitaph_in_St._Marien_(Flensburg)_von_1591.JPG
 ---
 
 ## Overview

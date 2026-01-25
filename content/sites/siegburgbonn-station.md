@@ -13,7 +13,7 @@ regions:
 latitude: 50.7938
 longitude: 7.2025
 images:
-  - "/images-sites/siegburgbonn-station/01-31d1e40d-800w.webp"
+  - "/images/siegburgbonn-station/01-31d1e40d-800w.webp"
 ---
 
 ## Overview

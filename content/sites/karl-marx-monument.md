@@ -13,8 +13,8 @@ regions:
 latitude: 52.3498
 longitude: 14.5492
 images:
-  - "/images-sites/karl-marx-monument/02-1ccdbad1-800w.webp"
-  - "/images-sites/karl-marx-monument/03-6c2a6d60-800w.webp"
+  - "/images/karl-marx-monument/02-1ccdbad1-800w.webp"
+  - "/images/karl-marx-monument/03-6c2a6d60-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.140806
 longitude: 11.579146
 images:
-  - "/images-sites/wittelsbacherbrunnen-muenchner-residenz/01-dff576c3-800w.webp"
+  - "/images/wittelsbacherbrunnen-muenchner-residenz/01-dff576c3-800w.webp"
 ---
 
 ## Overview

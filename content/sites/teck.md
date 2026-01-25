@@ -21,9 +21,9 @@ longitude: 9.47056
 
 # Images
 images:
-  - "/images-sites/teck/01-968aac26-800w.webp"
-  - "/images-sites/teck/02-5c612f3d-800w.webp"
-  - "/images-sites/teck/03-7fabc186-800w.webp"
+  - "/images/teck/01-968aac26-800w.webp"
+  - "/images/teck/02-5c612f3d-800w.webp"
+  - "/images/teck/03-7fabc186-800w.webp"
 ---
 
 ## Overview

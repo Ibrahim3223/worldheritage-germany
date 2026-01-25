@@ -1,21 +1,49 @@
 ---
-title: "Hadamar Euthanasia Centre"
+title: Hadamar Euthanasia Centre
 date: 2026-01-23
 draft: false
-description: "Nazi extermination centre in Hesse, Germany (1941-1945)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Nazi extermination centre in Hesse, Germany (1941-1945)
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4508
 longitude: 8.04178
 images:
-  - "/images-sites/hadamar-euthanasia-centre/01-9f7d7998-800w.webp"
-  - "/images-sites/hadamar-euthanasia-centre/02-e8fc6271-800w.webp"
-  - "/images-sites/hadamar-euthanasia-centre/03-68c22f1b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hadamar_außenansicht_gebäude.JPG/1200px-Hadamar_außenansicht_gebäude.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1200px-Hadamar_012.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hadamar,_Euthanasiecentrum_Hadamar.jpg/1200px-Hadamar,_Euthanasiecentrum_Hadamar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg/1200px-Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hadamar_Gedenkstätte_Schuppen.JPG/1200px-Hadamar_Gedenkstätte_Schuppen.JPG
+image_srcset:
+  Hadamar außenansicht gebäude.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hadamar_außenansicht_gebäude.JPG/400px-Hadamar_außenansicht_gebäude.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hadamar_außenansicht_gebäude.JPG/800px-Hadamar_außenansicht_gebäude.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hadamar_außenansicht_gebäude.JPG/1200px-Hadamar_außenansicht_gebäude.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hadamar_außenansicht_gebäude.JPG/1920px-Hadamar_außenansicht_gebäude.JPG
+  Hadamar 012.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/400px-Hadamar_012.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/800px-Hadamar_012.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1200px-Hadamar_012.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/1920px-Hadamar_012.JPG
+  Hadamar, Euthanasiecentrum Hadamar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hadamar,_Euthanasiecentrum_Hadamar.jpg/400px-Hadamar,_Euthanasiecentrum_Hadamar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hadamar,_Euthanasiecentrum_Hadamar.jpg/800px-Hadamar,_Euthanasiecentrum_Hadamar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hadamar,_Euthanasiecentrum_Hadamar.jpg/1200px-Hadamar,_Euthanasiecentrum_Hadamar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hadamar,_Euthanasiecentrum_Hadamar.jpg/1920px-Hadamar,_Euthanasiecentrum_Hadamar.jpg
+  Hadamar, Euthanasiecentrum Hadamar, bussen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg/400px-Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg/800px-Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg/1200px-Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg/1920px-Hadamar,_Euthanasiecentrum_Hadamar,_bussen.jpg
+  Hadamar Gedenkstätte Schuppen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hadamar_Gedenkstätte_Schuppen.JPG/400px-Hadamar_Gedenkstätte_Schuppen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hadamar_Gedenkstätte_Schuppen.JPG/800px-Hadamar_Gedenkstätte_Schuppen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hadamar_Gedenkstätte_Schuppen.JPG/1200px-Hadamar_Gedenkstätte_Schuppen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hadamar_Gedenkstätte_Schuppen.JPG/1920px-Hadamar_Gedenkstätte_Schuppen.JPG
 ---
 
 ## Overview

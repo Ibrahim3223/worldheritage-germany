@@ -1,27 +1,49 @@
 ---
-title: "Burg Holtzbrinck"
+title: Burg Holtzbrinck
 date: 2026-01-23
 draft: false
-description: "castle in Altena, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Altena, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.2955
 longitude: 7.67379
-
-# Images
 images:
-  - "/images-sites/burg-holtzbrinck/01-ae24763c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1200px-Burg_Holtzbrinck_02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Altena_-_Burg_Holtzbrink_02_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Altena_-_Burg_Holtzbrink_09_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_09_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Altena_-_Burg_Holtzbrink_18_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_18_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Altena_-_Burg_Holtzbrink_07_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_07_ies.jpg
+image_srcset:
+  Burg Holtzbrinck 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/400px-Burg_Holtzbrinck_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/800px-Burg_Holtzbrinck_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1200px-Burg_Holtzbrinck_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Burg_Holtzbrinck_02.JPG/1920px-Burg_Holtzbrinck_02.JPG
+  Altena - Burg Holtzbrink 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Altena_-_Burg_Holtzbrink_02_ies.jpg/400px-Altena_-_Burg_Holtzbrink_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Altena_-_Burg_Holtzbrink_02_ies.jpg/800px-Altena_-_Burg_Holtzbrink_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Altena_-_Burg_Holtzbrink_02_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Altena_-_Burg_Holtzbrink_02_ies.jpg/1920px-Altena_-_Burg_Holtzbrink_02_ies.jpg
+  Altena - Burg Holtzbrink 09 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Altena_-_Burg_Holtzbrink_09_ies.jpg/400px-Altena_-_Burg_Holtzbrink_09_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Altena_-_Burg_Holtzbrink_09_ies.jpg/800px-Altena_-_Burg_Holtzbrink_09_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Altena_-_Burg_Holtzbrink_09_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_09_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Altena_-_Burg_Holtzbrink_09_ies.jpg/1920px-Altena_-_Burg_Holtzbrink_09_ies.jpg
+  Altena - Burg Holtzbrink 18 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Altena_-_Burg_Holtzbrink_18_ies.jpg/400px-Altena_-_Burg_Holtzbrink_18_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Altena_-_Burg_Holtzbrink_18_ies.jpg/800px-Altena_-_Burg_Holtzbrink_18_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Altena_-_Burg_Holtzbrink_18_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_18_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Altena_-_Burg_Holtzbrink_18_ies.jpg/1920px-Altena_-_Burg_Holtzbrink_18_ies.jpg
+  Altena - Burg Holtzbrink 07 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Altena_-_Burg_Holtzbrink_07_ies.jpg/400px-Altena_-_Burg_Holtzbrink_07_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Altena_-_Burg_Holtzbrink_07_ies.jpg/800px-Altena_-_Burg_Holtzbrink_07_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Altena_-_Burg_Holtzbrink_07_ies.jpg/1200px-Altena_-_Burg_Holtzbrink_07_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Altena_-_Burg_Holtzbrink_07_ies.jpg/1920px-Altena_-_Burg_Holtzbrink_07_ies.jpg
 ---
 
 ## Overview

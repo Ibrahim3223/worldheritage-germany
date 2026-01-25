@@ -1,19 +1,49 @@
 ---
-title: "Großer Daumen"
+title: Großer Daumen
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.44155
 longitude: 10.37557
 images:
-  - "/images-sites/grosser-daumen/01-f7b44394-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/1200px-20250809_100506_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/20250809_100511_HDR.jpg/1200px-20250809_100511_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20250809_112026_HDR.jpg/1200px-20250809_112026_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Im_Schänzle02.JPG/1200px-Im_Schänzle02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer-Daumen.jpg/1200px-Großer-Daumen.jpg
+image_srcset:
+  20250809 100506 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/400px-20250809_100506_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/800px-20250809_100506_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/1200px-20250809_100506_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/1920px-20250809_100506_HDR.jpg
+  20250809 100511 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/20250809_100511_HDR.jpg/400px-20250809_100511_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/20250809_100511_HDR.jpg/800px-20250809_100511_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/20250809_100511_HDR.jpg/1200px-20250809_100511_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/20250809_100511_HDR.jpg/1920px-20250809_100511_HDR.jpg
+  20250809 112026 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20250809_112026_HDR.jpg/400px-20250809_112026_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20250809_112026_HDR.jpg/800px-20250809_112026_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20250809_112026_HDR.jpg/1200px-20250809_112026_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/20250809_112026_HDR.jpg/1920px-20250809_112026_HDR.jpg
+  Im Schänzle02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Im_Schänzle02.JPG/400px-Im_Schänzle02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Im_Schänzle02.JPG/800px-Im_Schänzle02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Im_Schänzle02.JPG/1200px-Im_Schänzle02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Im_Schänzle02.JPG/1920px-Im_Schänzle02.JPG
+  Großer-Daumen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer-Daumen.jpg/400px-Großer-Daumen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer-Daumen.jpg/800px-Großer-Daumen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer-Daumen.jpg/1200px-Großer-Daumen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Großer-Daumen.jpg/1920px-Großer-Daumen.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 48.137222222
 longitude: 11.575277777
 images:
-  - "/images-sites/marienplatz/01-2dd057b0-800w.webp"
-  - "/images-sites/marienplatz/02-6a1b1000-800w.webp"
-  - "/images-sites/marienplatz/03-8b62f72e-800w.webp"
+  - "/images/marienplatz/01-2dd057b0-800w.webp"
+  - "/images/marienplatz/02-6a1b1000-800w.webp"
+  - "/images/marienplatz/03-8b62f72e-800w.webp"
 ---
 
 ## Overview

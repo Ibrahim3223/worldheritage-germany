@@ -13,7 +13,7 @@ regions:
 latitude: 48.175200935
 longitude: 11.602942471
 images:
-  - "/images-sites/nordfriedhof/01-fab1332f-800w.webp"
+  - "/images/nordfriedhof/01-fab1332f-800w.webp"
 ---
 
 ## Overview

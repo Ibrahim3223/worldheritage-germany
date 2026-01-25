@@ -1,22 +1,50 @@
 ---
-title: "Electoral Palace"
-site_name: "Electoral Palace"
-slug: "electoral-palace"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Electoral Palace
+site_name: Electoral Palace
+slug: electoral-palace
+region: Rhineland-Palatinate
 latitude: 49.7531
 longitude: 6.64361
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q316766"
-description: "Tucked away in the heart of Trier, Germany, the Electoral Palace stands as a magnificent example of Renaissance architecture. The palaces elegant façade..."
+- cultural site
+wikidata_id: Q316766
+description: Tucked away in the heart of Trier, Germany, the Electoral Palace stands
+  as a magnificent example of Renaissance architecture. The palaces elegant façade...
 images:
-  - "/images-sites/electoral-palace/01-a6475485-1920w.webp"
-  - "/images-sites/electoral-palace/03-825c6292-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kurf%C3%BCrstliches%20Palais.jpg/1200px-Kurf%C3%BCrstliches%20Palais.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/1200px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/War_Agency.jpg/1200px-War_Agency.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CICR_V-P-HIST-03554-15.JPG/1200px-CICR_V-P-HIST-03554-15.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vorplatz_Schloss_Koblenz.jpg/1200px-Vorplatz_Schloss_Koblenz.jpg
+image_srcset:
+  Kurf%C3%BCrstliches%20Palais.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kurf%C3%BCrstliches%20Palais.jpg/400px-Kurf%C3%BCrstliches%20Palais.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kurf%C3%BCrstliches%20Palais.jpg/800px-Kurf%C3%BCrstliches%20Palais.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kurf%C3%BCrstliches%20Palais.jpg/1200px-Kurf%C3%BCrstliches%20Palais.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kurf%C3%BCrstliches%20Palais.jpg/1920px-Kurf%C3%BCrstliches%20Palais.jpg
+  Koblenz, Kurfürstliches Schloss, vor 1903.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/400px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/800px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/1200px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg/1920px-Koblenz,_Kurfürstliches_Schloss,_vor_1903.jpg
+  War Agency.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/War_Agency.jpg/400px-War_Agency.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/War_Agency.jpg/800px-War_Agency.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/War_Agency.jpg/1200px-War_Agency.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/War_Agency.jpg/1920px-War_Agency.jpg
+  CICR V-P-HIST-03554-15.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CICR_V-P-HIST-03554-15.JPG/400px-CICR_V-P-HIST-03554-15.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CICR_V-P-HIST-03554-15.JPG/800px-CICR_V-P-HIST-03554-15.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CICR_V-P-HIST-03554-15.JPG/1200px-CICR_V-P-HIST-03554-15.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CICR_V-P-HIST-03554-15.JPG/1920px-CICR_V-P-HIST-03554-15.JPG
+  Vorplatz Schloss Koblenz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vorplatz_Schloss_Koblenz.jpg/400px-Vorplatz_Schloss_Koblenz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vorplatz_Schloss_Koblenz.jpg/800px-Vorplatz_Schloss_Koblenz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vorplatz_Schloss_Koblenz.jpg/1200px-Vorplatz_Schloss_Koblenz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vorplatz_Schloss_Koblenz.jpg/1920px-Vorplatz_Schloss_Koblenz.jpg
 ---
 
 ## Overview

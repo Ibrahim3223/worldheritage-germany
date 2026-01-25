@@ -1,19 +1,50 @@
 ---
-title: "Altes Stadttheater Eichstätt"
+title: Altes Stadttheater Eichstätt
 date: 2026-01-24
 draft: false
-description: "culture centre and cinema in Eichstätt, Germany, in the former municipal theatre"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: culture centre and cinema in Eichstätt, Germany, in the former municipal
+  theatre
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 48.891016
 longitude: 11.184002
 images:
-  - "/images-sites/altes-stadttheater-eichstaett/01-8660fc7e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eichstätt,_Residenzplatz_17-20160816-001.jpg/1200px-Eichstätt,_Residenzplatz_17-20160816-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/1200px-Residenzplatz_17_Eichstaett-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg/1200px-Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Residenzplatz_17_Eichstätt_-Wappen.jpg/1200px-Residenzplatz_17_Eichstätt_-Wappen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg/1200px-Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg
+image_srcset:
+  Eichstätt, Residenzplatz 17-20160816-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eichstätt,_Residenzplatz_17-20160816-001.jpg/400px-Eichstätt,_Residenzplatz_17-20160816-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eichstätt,_Residenzplatz_17-20160816-001.jpg/800px-Eichstätt,_Residenzplatz_17-20160816-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eichstätt,_Residenzplatz_17-20160816-001.jpg/1200px-Eichstätt,_Residenzplatz_17-20160816-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eichstätt,_Residenzplatz_17-20160816-001.jpg/1920px-Eichstätt,_Residenzplatz_17-20160816-001.jpg
+  Residenzplatz 17 Eichstaett-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/400px-Residenzplatz_17_Eichstaett-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/800px-Residenzplatz_17_Eichstaett-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/1200px-Residenzplatz_17_Eichstaett-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Residenzplatz_17_Eichstaett-1.jpg/1920px-Residenzplatz_17_Eichstaett-1.jpg
+  Huttenstadel Eichstätt nördliche Giebelseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg/400px-Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg/800px-Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg/1200px-Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg/1920px-Huttenstadel_Eichstätt_nördliche_Giebelseite.jpg
+  Residenzplatz 17 Eichstätt -Wappen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Residenzplatz_17_Eichstätt_-Wappen.jpg/400px-Residenzplatz_17_Eichstätt_-Wappen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Residenzplatz_17_Eichstätt_-Wappen.jpg/800px-Residenzplatz_17_Eichstätt_-Wappen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Residenzplatz_17_Eichstätt_-Wappen.jpg/1200px-Residenzplatz_17_Eichstätt_-Wappen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Residenzplatz_17_Eichstätt_-Wappen.jpg/1920px-Residenzplatz_17_Eichstätt_-Wappen.jpg
+  Wappen des Bischofs Moritz von Hutten am Huttenstadel in Eichstätt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg/400px-Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg/800px-Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg/1200px-Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg/1920px-Wappen_des_Bischofs_Moritz_von_Hutten_am_Huttenstadel_in_Eichstätt.jpg
 ---
 
 ## Overview

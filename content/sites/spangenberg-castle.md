@@ -21,7 +21,7 @@ longitude: 8.01599
 
 # Images
 images:
-  - "/images-sites/spangenberg-castle/01-52845cbc-800w.webp"
+  - "/images/spangenberg-castle/01-52845cbc-800w.webp"
 ---
 
 ## Overview

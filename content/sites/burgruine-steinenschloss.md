@@ -1,27 +1,49 @@
 ---
-title: "Burgruine Steinenschloss"
+title: Burgruine Steinenschloss
 date: 2026-01-23
 draft: false
-description: "ruined castle in Rhineland-Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ruined castle in Rhineland-Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.265608333
 longitude: 7.605416666
-
-# Images
 images:
-  - "/images-sites/burgruine-steinenschloss/01-6f16ac2c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steinenschloss-10-Wehrturm-2017-gje.jpg/1200px-Steinenschloss-10-Wehrturm-2017-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg/1200px-Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Steinenschloss_Mauerreste.jpg/1200px-Steinenschloss_Mauerreste.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Steinenschloss_Oberburg.jpg/1200px-Steinenschloss_Oberburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1200px-Steinenschloss_mauer.jpg
+image_srcset:
+  Steinenschloss-10-Wehrturm-2017-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steinenschloss-10-Wehrturm-2017-gje.jpg/400px-Steinenschloss-10-Wehrturm-2017-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steinenschloss-10-Wehrturm-2017-gje.jpg/800px-Steinenschloss-10-Wehrturm-2017-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steinenschloss-10-Wehrturm-2017-gje.jpg/1200px-Steinenschloss-10-Wehrturm-2017-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steinenschloss-10-Wehrturm-2017-gje.jpg/1920px-Steinenschloss-10-Wehrturm-2017-gje.jpg
+  Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg/400px-Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg/800px-Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg/1200px-Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg/1920px-Steinenschloss-34-Mauer-Wehrturm-2017-gje.jpg
+  Steinenschloss Mauerreste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Steinenschloss_Mauerreste.jpg/400px-Steinenschloss_Mauerreste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Steinenschloss_Mauerreste.jpg/800px-Steinenschloss_Mauerreste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Steinenschloss_Mauerreste.jpg/1200px-Steinenschloss_Mauerreste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Steinenschloss_Mauerreste.jpg/1920px-Steinenschloss_Mauerreste.jpg
+  Steinenschloss Oberburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Steinenschloss_Oberburg.jpg/400px-Steinenschloss_Oberburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Steinenschloss_Oberburg.jpg/800px-Steinenschloss_Oberburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Steinenschloss_Oberburg.jpg/1200px-Steinenschloss_Oberburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Steinenschloss_Oberburg.jpg/1920px-Steinenschloss_Oberburg.jpg
+  Steinenschloss mauer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/400px-Steinenschloss_mauer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/800px-Steinenschloss_mauer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1200px-Steinenschloss_mauer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Steinenschloss_mauer.jpg/1920px-Steinenschloss_mauer.jpg
 ---
 
 ## Overview

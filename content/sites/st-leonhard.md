@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1151086"
 description: "St. Leonhard, a Gothic Roman-Catholic church located in Frankfurt am Main, Germany, serves as a striking example of medieval architecture. This church i..."
 images:
-  - "/images-sites/st-leonhard/01-4c04ee0f-1920w.webp"
-  - "/images-sites/st-leonhard/02-05687df5-1920w.webp"
-  - "/images-sites/st-leonhard/03-547853f2-1920w.webp"
+  - "/images/st-leonhard/01-4c04ee0f-1920w.webp"
+  - "/images/st-leonhard/02-05687df5-1920w.webp"
+  - "/images/st-leonhard/03-547853f2-1920w.webp"
 ---
 
 ## Overview

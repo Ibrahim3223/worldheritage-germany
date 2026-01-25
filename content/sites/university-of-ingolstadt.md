@@ -13,7 +13,7 @@ regions:
 latitude: 49.273888888
 longitude: 11.706666666
 images:
-  - "/images-sites/university-of-ingolstadt/01-53c883c3-800w.webp"
+  - "/images/university-of-ingolstadt/01-53c883c3-800w.webp"
 ---
 
 ## Overview

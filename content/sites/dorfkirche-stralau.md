@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Stralau"
-site_name: "Dorfkirche Stralau"
-slug: "dorfkirche-stralau"
-region: "Berlin"
-
-# Location
+title: Dorfkirche Stralau
+site_name: Dorfkirche Stralau
+slug: dorfkirche-stralau
+region: Berlin
 latitude: 52.4911
 longitude: 13.4792
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244746"
-description: "Dorfkirche Stralau is a striking church building located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany. This notable structure,..."
+- church building
+- religious site
+wikidata_id: Q1244746
+description: Dorfkirche Stralau is a striking church building located in the vibrant
+  district of Friedrichshain-Kreuzberg in Berlin, Germany. This notable structure,...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Stralauer%20Dorfkirche.jpg/1200px-Stralauer%20Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg/1200px-Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1200px-Stralauer_Dorfkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stralau,_Dorfkirche,_Orgel_(2).jpg/1200px-Stralau,_Dorfkirche,_Orgel_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stralau,_Dorfkirche,_Orgel_(1).jpg/1200px-Stralau,_Dorfkirche,_Orgel_(1).jpg
+image_srcset:
+  Stralauer%20Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Stralauer%20Dorfkirche.jpg/400px-Stralauer%20Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Stralauer%20Dorfkirche.jpg/800px-Stralauer%20Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Stralauer%20Dorfkirche.jpg/1200px-Stralauer%20Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Stralauer%20Dorfkirche.jpg/1920px-Stralauer%20Dorfkirche.jpg
+  Dorfkirche Stralau, Berlin-Friedrichshain, 160213, ako (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg/400px-Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg/800px-Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg/1200px-Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg/1920px-Dorfkirche_Stralau,_Berlin-Friedrichshain,_160213,_ako_(2).jpg
+  Stralauer Dorfkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/400px-Stralauer_Dorfkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/800px-Stralauer_Dorfkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1200px-Stralauer_Dorfkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Stralauer_Dorfkirche.jpg/1920px-Stralauer_Dorfkirche.jpg
+  Stralau, Dorfkirche, Orgel (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stralau,_Dorfkirche,_Orgel_(2).jpg/400px-Stralau,_Dorfkirche,_Orgel_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stralau,_Dorfkirche,_Orgel_(2).jpg/800px-Stralau,_Dorfkirche,_Orgel_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stralau,_Dorfkirche,_Orgel_(2).jpg/1200px-Stralau,_Dorfkirche,_Orgel_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stralau,_Dorfkirche,_Orgel_(2).jpg/1920px-Stralau,_Dorfkirche,_Orgel_(2).jpg
+  Stralau, Dorfkirche, Orgel (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stralau,_Dorfkirche,_Orgel_(1).jpg/400px-Stralau,_Dorfkirche,_Orgel_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stralau,_Dorfkirche,_Orgel_(1).jpg/800px-Stralau,_Dorfkirche,_Orgel_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stralau,_Dorfkirche,_Orgel_(1).jpg/1200px-Stralau,_Dorfkirche,_Orgel_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Stralau,_Dorfkirche,_Orgel_(1).jpg/1920px-Stralau,_Dorfkirche,_Orgel_(1).jpg
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 47.546666666
 longitude: 9.6875
 images:
-  - "/images-sites/lindau-abbey/02-7ef9984e-800w.webp"
-  - "/images-sites/lindau-abbey/03-e1e2e2a0-800w.webp"
+  - "/images/lindau-abbey/02-7ef9984e-800w.webp"
+  - "/images/lindau-abbey/03-e1e2e2a0-800w.webp"
 ---
 
 ## Overview

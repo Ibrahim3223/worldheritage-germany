@@ -1,19 +1,25 @@
 ---
-title: "Bibliotheca Bipontina"
+title: Bibliotheca Bipontina
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 49.2495
 longitude: 7.36659
 images:
-  - "/images-sites/bibliotheca-bipontina/01-64c9fcd3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1200px-Bibliotheca_Bipontina.jpg
+image_srcset:
+  Bibliotheca Bipontina.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/400px-Bibliotheca_Bipontina.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/800px-Bibliotheca_Bipontina.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1200px-Bibliotheca_Bipontina.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bibliotheca_Bipontina.jpg/1920px-Bibliotheca_Bipontina.jpg
 ---
 
 ## Overview

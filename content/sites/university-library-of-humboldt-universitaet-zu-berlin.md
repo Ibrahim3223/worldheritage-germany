@@ -13,7 +13,7 @@ regions:
 latitude: 52.5183
 longitude: 13.3867
 images:
-  - "/images-sites/university-library-of-humboldt-universitaet-zu-berlin/01-bee04b16-800w.webp"
+  - "/images/university-library-of-humboldt-universitaet-zu-berlin/01-bee04b16-800w.webp"
 ---
 
 ## Overview

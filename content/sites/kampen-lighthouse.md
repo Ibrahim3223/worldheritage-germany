@@ -13,9 +13,9 @@ regions:
 latitude: 54.9461
 longitude: 8.34083
 images:
-  - "/images-sites/kampen-lighthouse/01-e07196e4-800w.webp"
-  - "/images-sites/kampen-lighthouse/02-3bbcc60c-800w.webp"
-  - "/images-sites/kampen-lighthouse/03-e505f70a-800w.webp"
+  - "/images/kampen-lighthouse/01-e07196e4-800w.webp"
+  - "/images/kampen-lighthouse/02-3bbcc60c-800w.webp"
+  - "/images/kampen-lighthouse/03-e505f70a-800w.webp"
 ---
 
 ## Overview

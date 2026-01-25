@@ -1,19 +1,49 @@
 ---
-title: "Feldberg"
+title: Feldberg
 date: 2026-01-23
 draft: false
-description: "highest mountain in the Black Forest, Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: highest mountain in the Black Forest, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.8738905
 longitude: 8.0039064
 images:
-  - "/images-sites/feldberg/01-d37b9ae9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Feldberg_vom_Schauinsland.jpg/1200px-Feldberg_vom_Schauinsland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feldberg_vom_Herzogenhorn.jpg/1200px-Feldberg_vom_Herzogenhorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg/1200px-Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/1200px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Feldberg_altglashuetten_ortskern.jpg/1200px-Feldberg_altglashuetten_ortskern.jpg
+image_srcset:
+  Feldberg vom Schauinsland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Feldberg_vom_Schauinsland.jpg/400px-Feldberg_vom_Schauinsland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Feldberg_vom_Schauinsland.jpg/800px-Feldberg_vom_Schauinsland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Feldberg_vom_Schauinsland.jpg/1200px-Feldberg_vom_Schauinsland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Feldberg_vom_Schauinsland.jpg/1920px-Feldberg_vom_Schauinsland.jpg
+  Feldberg vom Herzogenhorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feldberg_vom_Herzogenhorn.jpg/400px-Feldberg_vom_Herzogenhorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feldberg_vom_Herzogenhorn.jpg/800px-Feldberg_vom_Herzogenhorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feldberg_vom_Herzogenhorn.jpg/1200px-Feldberg_vom_Herzogenhorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feldberg_vom_Herzogenhorn.jpg/1920px-Feldberg_vom_Herzogenhorn.jpg
+  Fledberg mit Bismarckdenkmal und Feldbergturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg/400px-Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg/800px-Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg/1200px-Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg/1920px-Fledberg_mit_Bismarckdenkmal_und_Feldbergturm.jpg
+  Feldberg (Mecklenburg) Kirche 2011-03-07 340.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/400px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/800px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/1200px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG/1920px-Feldberg_(Mecklenburg)_Kirche_2011-03-07_340.JPG
+  Feldberg altglashuetten ortskern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Feldberg_altglashuetten_ortskern.jpg/400px-Feldberg_altglashuetten_ortskern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Feldberg_altglashuetten_ortskern.jpg/800px-Feldberg_altglashuetten_ortskern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Feldberg_altglashuetten_ortskern.jpg/1200px-Feldberg_altglashuetten_ortskern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Feldberg_altglashuetten_ortskern.jpg/1920px-Feldberg_altglashuetten_ortskern.jpg
 ---
 
 ## Overview

@@ -1,20 +1,25 @@
 ---
-title: "Groß Upahler See"
+title: Groß Upahler See
 date: 2026-01-23
 draft: false
-description: "lake in Rostock District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Rostock District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.716666666
 longitude: 12.05
 images:
-  - "/images-sites/gross-upahler-see/01-46f2473d-800w.webp"
-  - "/images-sites/gross-upahler-see/02-48b87f4e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gross-Upahler-See-08-06-2008-21.jpg/1200px-Gross-Upahler-See-08-06-2008-21.jpg
+image_srcset:
+  Gross-Upahler-See-08-06-2008-21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gross-Upahler-See-08-06-2008-21.jpg/400px-Gross-Upahler-See-08-06-2008-21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gross-Upahler-See-08-06-2008-21.jpg/800px-Gross-Upahler-See-08-06-2008-21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gross-Upahler-See-08-06-2008-21.jpg/1200px-Gross-Upahler-See-08-06-2008-21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gross-Upahler-See-08-06-2008-21.jpg/1920px-Gross-Upahler-See-08-06-2008-21.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.693862
 longitude: 11.593965
 images:
-  - "/images-sites/rathaus-poessneck/01-8281bc49-800w.webp"
+  - "/images/rathaus-poessneck/01-8281bc49-800w.webp"
 ---
 
 ## Overview

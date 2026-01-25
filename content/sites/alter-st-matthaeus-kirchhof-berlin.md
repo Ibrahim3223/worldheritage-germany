@@ -1,19 +1,49 @@
 ---
-title: "Alter St.-Matthäus-Kirchhof Berlin"
+title: Alter St.-Matthäus-Kirchhof Berlin
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.490277777
 longitude: 13.366944444
 images:
-  - "/images-sites/alter-st-matthaeus-kirchhof-berlin/01-e8257915-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png/1200px-Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png/1200px-Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png/1200px-Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg/1200px-Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg/1200px-Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg
+image_srcset:
+  Alt-st-matthaeus-kirchhf rote-insel s-bahn 2024-01-21.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png/400px-Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png/800px-Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png/1200px-Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png/1920px-Alt-st-matthaeus-kirchhf_rote-insel_s-bahn_2024-01-21.png
+  Cafe finovo tisch-stuehle-sonnenschirm 2024-01-21.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png/400px-Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png/800px-Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png/1200px-Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png/1920px-Cafe_finovo_tisch-stuehle-sonnenschirm_2024-01-21.png
+  Ovo grab alt-st-mats-kirchh m gesamt 2024-01-21.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png/400px-Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png/800px-Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png/1200px-Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png/1920px-Ovo_grab_alt-st-mats-kirchh_m_gesamt_2024-01-21.png
+  Alter St Matthaeus Kirchhof Berlin 7b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg/400px-Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg/800px-Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg/1200px-Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg/1920px-Alter_St_Matthaeus_Kirchhof_Berlin_7b.jpg
+  Alter St Matthaeus Kirchhof Berlin 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg/400px-Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg/800px-Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg/1200px-Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg/1920px-Alter_St_Matthaeus_Kirchhof_Berlin_1.jpg
 ---
 
 ## Overview

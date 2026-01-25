@@ -13,7 +13,7 @@ regions:
 latitude: 49.4708
 longitude: 8.60811
 images:
-  - "/images-sites/lobdengau-museum/01-45d6d4a1-800w.webp"
+  - "/images/lobdengau-museum/01-45d6d4a1-800w.webp"
 ---
 
 ## Overview

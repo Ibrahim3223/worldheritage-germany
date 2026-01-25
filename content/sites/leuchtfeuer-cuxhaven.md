@@ -13,7 +13,7 @@ regions:
 latitude: 53.87277778
 longitude: 8.70944444
 images:
-  - "/images-sites/leuchtfeuer-cuxhaven/01-9be376ad-800w.webp"
+  - "/images/leuchtfeuer-cuxhaven/01-9be376ad-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.9221
 longitude: 13.0645
 images:
-  - "/images-sites/peenetal-von-salem-bis-jarmen/01-06d926f2-800w.webp"
-  - "/images-sites/peenetal-von-salem-bis-jarmen/02-5efc366a-800w.webp"
-  - "/images-sites/peenetal-von-salem-bis-jarmen/03-f399940b-800w.webp"
+  - "/images/peenetal-von-salem-bis-jarmen/01-06d926f2-800w.webp"
+  - "/images/peenetal-von-salem-bis-jarmen/02-5efc366a-800w.webp"
+  - "/images/peenetal-von-salem-bis-jarmen/03-f399940b-800w.webp"
 ---
 
 ## Overview

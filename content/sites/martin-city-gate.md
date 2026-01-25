@@ -13,8 +13,8 @@ regions:
 latitude: 50.1426
 longitude: 7.16817
 images:
-  - "/images-sites/martin-city-gate/02-6789fc9c-800w.webp"
-  - "/images-sites/martin-city-gate/03-69084992-800w.webp"
+  - "/images/martin-city-gate/02-6789fc9c-800w.webp"
+  - "/images/martin-city-gate/03-69084992-800w.webp"
 ---
 
 ## Overview

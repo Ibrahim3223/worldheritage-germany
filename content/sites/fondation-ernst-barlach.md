@@ -1,27 +1,49 @@
 ---
-title: "Fondation Ernst Barlach"
+title: Fondation Ernst Barlach
 date: 2026-01-23
 draft: false
-description: "German foundation in Güstrow"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: German foundation in Güstrow
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.77471
 longitude: 12.21059
-
-# Images
 images:
-  - "/images-sites/fondation-ernst-barlach/01-dbb4f0cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1200px-Ernst-Barlach-Stiftung_Güstrow.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Barlach_Daeubler.JPG/1200px-Barlach_Daeubler.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Barlach_Durieux.JPG/1200px-Barlach_Durieux.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Barlach_Kestenberg.JPG/1200px-Barlach_Kestenberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg/1200px-Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg
+image_srcset:
+  Ernst-Barlach-Stiftung Güstrow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/400px-Ernst-Barlach-Stiftung_Güstrow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/800px-Ernst-Barlach-Stiftung_Güstrow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1200px-Ernst-Barlach-Stiftung_Güstrow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ernst-Barlach-Stiftung_Güstrow.jpg/1920px-Ernst-Barlach-Stiftung_Güstrow.jpg
+  Barlach Daeubler.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Barlach_Daeubler.JPG/400px-Barlach_Daeubler.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Barlach_Daeubler.JPG/800px-Barlach_Daeubler.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Barlach_Daeubler.JPG/1200px-Barlach_Daeubler.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Barlach_Daeubler.JPG/1920px-Barlach_Daeubler.JPG
+  Barlach Durieux.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Barlach_Durieux.JPG/400px-Barlach_Durieux.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Barlach_Durieux.JPG/800px-Barlach_Durieux.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Barlach_Durieux.JPG/1200px-Barlach_Durieux.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Barlach_Durieux.JPG/1920px-Barlach_Durieux.JPG
+  Barlach Kestenberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Barlach_Kestenberg.JPG/400px-Barlach_Kestenberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Barlach_Kestenberg.JPG/800px-Barlach_Kestenberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Barlach_Kestenberg.JPG/1200px-Barlach_Kestenberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Barlach_Kestenberg.JPG/1920px-Barlach_Kestenberg.JPG
+  Barlach, Ernst - Junger Wanderer im Wind.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg/400px-Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg/800px-Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg/1200px-Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg/1920px-Barlach,_Ernst_-_Junger_Wanderer_im_Wind.jpg
 ---
 
 ## Overview

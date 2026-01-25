@@ -1,21 +1,49 @@
 ---
-title: "Großes Moor bei Becklingen"
+title: Großes Moor bei Becklingen
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.86833333
 longitude: 9.95555556
 images:
-  - "/images-sites/grosses-moor-bei-becklingen/01-ea56541d-800w.webp"
-  - "/images-sites/grosses-moor-bei-becklingen/02-393b1cbe-800w.webp"
-  - "/images-sites/grosses-moor-bei-becklingen/03-f27efa78-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG/1200px-Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Becklg_Moor_Staugraben_Scheidenwollgras.JPG/1200px-Becklg_Moor_Staugraben_Scheidenwollgras.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MoorflWiedervern.jpg/1200px-MoorflWiedervern.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1200px-BecklgMoorFläche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Großes_Moor_L_of_tk_fm_Becklingen_2.jpg/1200px-Großes_Moor_L_of_tk_fm_Becklingen_2.jpg
+image_srcset:
+  Moosbeere (Vaccinium oxycoccos) Becklinger Moor@20150801 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG/400px-Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG/800px-Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG/1200px-Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG/1920px-Moosbeere_(Vaccinium_oxycoccos)_Becklinger_Moor@20150801_03.JPG
+  Becklg Moor Staugraben Scheidenwollgras.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Becklg_Moor_Staugraben_Scheidenwollgras.JPG/400px-Becklg_Moor_Staugraben_Scheidenwollgras.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Becklg_Moor_Staugraben_Scheidenwollgras.JPG/800px-Becklg_Moor_Staugraben_Scheidenwollgras.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Becklg_Moor_Staugraben_Scheidenwollgras.JPG/1200px-Becklg_Moor_Staugraben_Scheidenwollgras.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Becklg_Moor_Staugraben_Scheidenwollgras.JPG/1920px-Becklg_Moor_Staugraben_Scheidenwollgras.JPG
+  MoorflWiedervern.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MoorflWiedervern.jpg/400px-MoorflWiedervern.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MoorflWiedervern.jpg/800px-MoorflWiedervern.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MoorflWiedervern.jpg/1200px-MoorflWiedervern.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/MoorflWiedervern.jpg/1920px-MoorflWiedervern.jpg
+  BecklgMoorFläche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/400px-BecklgMoorFläche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/800px-BecklgMoorFläche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1200px-BecklgMoorFläche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BecklgMoorFläche.jpg/1920px-BecklgMoorFläche.jpg
+  Großes Moor L of tk fm Becklingen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Großes_Moor_L_of_tk_fm_Becklingen_2.jpg/400px-Großes_Moor_L_of_tk_fm_Becklingen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Großes_Moor_L_of_tk_fm_Becklingen_2.jpg/800px-Großes_Moor_L_of_tk_fm_Becklingen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Großes_Moor_L_of_tk_fm_Becklingen_2.jpg/1200px-Großes_Moor_L_of_tk_fm_Becklingen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Großes_Moor_L_of_tk_fm_Becklingen_2.jpg/1920px-Großes_Moor_L_of_tk_fm_Becklingen_2.jpg
 ---
 
 ## Overview

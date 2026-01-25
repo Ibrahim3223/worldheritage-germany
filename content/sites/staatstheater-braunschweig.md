@@ -13,7 +13,7 @@ regions:
 latitude: 52.2658
 longitude: 10.5317
 images:
-  - "/images-sites/staatstheater-braunschweig/01-e1aef3af-800w.webp"
+  - "/images/staatstheater-braunschweig/01-e1aef3af-800w.webp"
 ---
 
 ## Overview

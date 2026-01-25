@@ -1,19 +1,49 @@
 ---
-title: "Geschwister-Scholl-Haus"
+title: Geschwister-Scholl-Haus
 date: 2026-01-23
 draft: false
-description: "school building in Leipzig, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: school building in Leipzig, Germany
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3401
 longitude: 12.3794
 images:
-  - "/images-sites/geschwister-scholl-haus/01-1d782d03-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Geschwister-Scholl-Haus_in_Leipzig_(2).jpg/1200px-Geschwister-Scholl-Haus_in_Leipzig_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg/1200px-Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geschwister-Scholl-Haus_in_Leipzig_(1).jpg/1200px-Geschwister-Scholl-Haus_in_Leipzig_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leipzig_BW_2012-09-10_18-20-39.jpg/1200px-Leipzig_BW_2012-09-10_18-20-39.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Geschwister-Scholl-Haus,_Leipzig_2014.jpg/1200px-Geschwister-Scholl-Haus,_Leipzig_2014.jpg
+image_srcset:
+  Geschwister-Scholl-Haus in Leipzig (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Geschwister-Scholl-Haus_in_Leipzig_(2).jpg/400px-Geschwister-Scholl-Haus_in_Leipzig_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Geschwister-Scholl-Haus_in_Leipzig_(2).jpg/800px-Geschwister-Scholl-Haus_in_Leipzig_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Geschwister-Scholl-Haus_in_Leipzig_(2).jpg/1200px-Geschwister-Scholl-Haus_in_Leipzig_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Geschwister-Scholl-Haus_in_Leipzig_(2).jpg/1920px-Geschwister-Scholl-Haus_in_Leipzig_(2).jpg
+  Leipzig Ritterstraße lub 2025-03-22 img03 Geschwister-Scholl-Haus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg/400px-Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg/800px-Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg/1200px-Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg/1920px-Leipzig_Ritterstraße_lub_2025-03-22_img03_Geschwister-Scholl-Haus.jpg
+  Geschwister-Scholl-Haus in Leipzig (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geschwister-Scholl-Haus_in_Leipzig_(1).jpg/400px-Geschwister-Scholl-Haus_in_Leipzig_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geschwister-Scholl-Haus_in_Leipzig_(1).jpg/800px-Geschwister-Scholl-Haus_in_Leipzig_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geschwister-Scholl-Haus_in_Leipzig_(1).jpg/1200px-Geschwister-Scholl-Haus_in_Leipzig_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Geschwister-Scholl-Haus_in_Leipzig_(1).jpg/1920px-Geschwister-Scholl-Haus_in_Leipzig_(1).jpg
+  Leipzig BW 2012-09-10 18-20-39.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leipzig_BW_2012-09-10_18-20-39.jpg/400px-Leipzig_BW_2012-09-10_18-20-39.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leipzig_BW_2012-09-10_18-20-39.jpg/800px-Leipzig_BW_2012-09-10_18-20-39.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leipzig_BW_2012-09-10_18-20-39.jpg/1200px-Leipzig_BW_2012-09-10_18-20-39.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Leipzig_BW_2012-09-10_18-20-39.jpg/1920px-Leipzig_BW_2012-09-10_18-20-39.jpg
+  Geschwister-Scholl-Haus, Leipzig 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Geschwister-Scholl-Haus,_Leipzig_2014.jpg/400px-Geschwister-Scholl-Haus,_Leipzig_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Geschwister-Scholl-Haus,_Leipzig_2014.jpg/800px-Geschwister-Scholl-Haus,_Leipzig_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Geschwister-Scholl-Haus,_Leipzig_2014.jpg/1200px-Geschwister-Scholl-Haus,_Leipzig_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Geschwister-Scholl-Haus,_Leipzig_2014.jpg/1920px-Geschwister-Scholl-Haus,_Leipzig_2014.jpg
 ---
 
 ## Overview

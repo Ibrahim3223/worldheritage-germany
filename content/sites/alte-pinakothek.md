@@ -1,28 +1,49 @@
 ---
-title: "Alte Pinakothek"
+title: Alte Pinakothek
 date: 2026-01-23
 draft: false
-description: "art museum in Munich, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.148291
 longitude: 11.569985
-
-# Images
 images:
-  - "/images-sites/alte-pinakothek/02-76fce17a-800w.webp"
-  - "/images-sites/alte-pinakothek/03-ac83a144-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/1200px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MUC_AltePinakothekA.jpg/1200px-MUC_AltePinakothekA.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Uwe_Stilla_2016.jpg/1200px-Uwe_Stilla_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alte_Pinakothek-Sign_building.JPG/1200px-Alte_Pinakothek-Sign_building.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1200px-Alte_Pinakothek.JPG
+image_srcset:
+  Madonna of the Carnation - Leonardo da Vinci.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/400px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/800px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/1200px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg/1920px-Madonna_of_the_Carnation_-_Leonardo_da_Vinci.jpg
+  MUC AltePinakothekA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MUC_AltePinakothekA.jpg/400px-MUC_AltePinakothekA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MUC_AltePinakothekA.jpg/800px-MUC_AltePinakothekA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MUC_AltePinakothekA.jpg/1200px-MUC_AltePinakothekA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MUC_AltePinakothekA.jpg/1920px-MUC_AltePinakothekA.jpg
+  Uwe Stilla 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Uwe_Stilla_2016.jpg/400px-Uwe_Stilla_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Uwe_Stilla_2016.jpg/800px-Uwe_Stilla_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Uwe_Stilla_2016.jpg/1200px-Uwe_Stilla_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Uwe_Stilla_2016.jpg/1920px-Uwe_Stilla_2016.jpg
+  Alte Pinakothek-Sign building.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alte_Pinakothek-Sign_building.JPG/400px-Alte_Pinakothek-Sign_building.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alte_Pinakothek-Sign_building.JPG/800px-Alte_Pinakothek-Sign_building.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alte_Pinakothek-Sign_building.JPG/1200px-Alte_Pinakothek-Sign_building.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alte_Pinakothek-Sign_building.JPG/1920px-Alte_Pinakothek-Sign_building.JPG
+  Alte Pinakothek.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/400px-Alte_Pinakothek.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/800px-Alte_Pinakothek.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1200px-Alte_Pinakothek.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Alte_Pinakothek.JPG/1920px-Alte_Pinakothek.JPG
 ---
 
 ## Overview

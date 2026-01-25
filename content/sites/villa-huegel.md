@@ -13,9 +13,9 @@ regions:
 latitude: 51.4069
 longitude: 7.0083
 images:
-  - "/images-sites/villa-huegel/01-a5fc7313-800w.webp"
-  - "/images-sites/villa-huegel/02-8ff69041-800w.webp"
-  - "/images-sites/villa-huegel/03-66604947-800w.webp"
+  - "/images/villa-huegel/01-a5fc7313-800w.webp"
+  - "/images/villa-huegel/02-8ff69041-800w.webp"
+  - "/images/villa-huegel/03-66604947-800w.webp"
 ---
 
 ## Overview

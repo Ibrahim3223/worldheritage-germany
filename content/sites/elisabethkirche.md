@@ -1,24 +1,51 @@
 ---
-title: "Elisabethkirche"
-site_name: "Elisabethkirche"
-slug: "elisabethkirche"
-region: "Berlin"
-
-# Location
+title: Elisabethkirche
+site_name: Elisabethkirche
+slug: elisabethkirche
+region: Berlin
 latitude: 52.532992
 longitude: 13.397161
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q321105"
-description: "In the heart of Berlin lies Elisabethkirche, a striking example of Neoclassical architecture that reflects the citys rich history and cultural evolution..."
+- church building
+- religious site
+wikidata_id: Q321105
+description: In the heart of Berlin lies Elisabethkirche, a striking example of Neoclassical
+  architecture that reflects the citys rich history and cultural evolution...
 images:
-  - "/images-sites/elisabethkirche/01-c30e0f70-1920w.webp"
-  - "/images-sites/elisabethkirche/02-9b483d14-1920w.webp"
-  - "/images-sites/elisabethkirche/03-4edcfa9d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin%20Elisabethkirche%202008.jpg/1200px-Berlin%20Elisabethkirche%202008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marburg,_Elisabethstraße_3-20161104-003.jpg/1200px-Marburg,_Elisabethstraße_3-20161104-003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1200px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg/1200px-Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elisabethkirche_(Marburg)_Türme_aus_SW.jpg/1200px-Elisabethkirche_(Marburg)_Türme_aus_SW.jpg
+image_srcset:
+  Berlin%20Elisabethkirche%202008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin%20Elisabethkirche%202008.jpg/400px-Berlin%20Elisabethkirche%202008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin%20Elisabethkirche%202008.jpg/800px-Berlin%20Elisabethkirche%202008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin%20Elisabethkirche%202008.jpg/1200px-Berlin%20Elisabethkirche%202008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Berlin%20Elisabethkirche%202008.jpg/1920px-Berlin%20Elisabethkirche%202008.jpg
+  Marburg, Elisabethstraße 3-20161104-003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marburg,_Elisabethstraße_3-20161104-003.jpg/400px-Marburg,_Elisabethstraße_3-20161104-003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marburg,_Elisabethstraße_3-20161104-003.jpg/800px-Marburg,_Elisabethstraße_3-20161104-003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marburg,_Elisabethstraße_3-20161104-003.jpg/1200px-Marburg,_Elisabethstraße_3-20161104-003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Marburg,_Elisabethstraße_3-20161104-003.jpg/1920px-Marburg,_Elisabethstraße_3-20161104-003.jpg
+  Marburg asv2022-02 img25 Elisabethkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/400px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/800px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1200px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Marburg_asv2022-02_img25_Elisabethkirche.jpg/1920px-Marburg_asv2022-02_img25_Elisabethkirche.jpg
+  Turm der Elisabethkirche und Franziskuskapelle Marburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg/400px-Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg/800px-Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg/1200px-Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg/1920px-Turm_der_Elisabethkirche_und_Franziskuskapelle_Marburg.jpg
+  Elisabethkirche (Marburg) Türme aus SW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elisabethkirche_(Marburg)_Türme_aus_SW.jpg/400px-Elisabethkirche_(Marburg)_Türme_aus_SW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elisabethkirche_(Marburg)_Türme_aus_SW.jpg/800px-Elisabethkirche_(Marburg)_Türme_aus_SW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elisabethkirche_(Marburg)_Türme_aus_SW.jpg/1200px-Elisabethkirche_(Marburg)_Türme_aus_SW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Elisabethkirche_(Marburg)_Türme_aus_SW.jpg/1920px-Elisabethkirche_(Marburg)_Türme_aus_SW.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.047
 longitude: 9.23297
 images:
-  - "/images-sites/klosterberg-spessart/01-7a1f5556-800w.webp"
+  - "/images/klosterberg-spessart/01-7a1f5556-800w.webp"
 ---
 
 ## Overview

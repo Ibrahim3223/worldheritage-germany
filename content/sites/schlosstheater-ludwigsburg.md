@@ -13,7 +13,7 @@ regions:
 latitude: 48.90022
 longitude: 9.19694
 images:
-  - "/images-sites/schlosstheater-ludwigsburg/01-eb043069-800w.webp"
+  - "/images/schlosstheater-ludwigsburg/01-eb043069-800w.webp"
 ---
 
 ## Overview

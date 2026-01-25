@@ -1,21 +1,37 @@
 ---
-title: "Gut Güldenstein"
+title: Gut Güldenstein
 date: 2026-01-23
 draft: false
-description: "manor house near Harmsdorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: manor house near Harmsdorf, Germany
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.2189
 longitude: 10.8358
 images:
-  - "/images-sites/gut-gueldenstein/01-c1e5014e-800w.webp"
-  - "/images-sites/gut-gueldenstein/02-4b5aa6ea-800w.webp"
-  - "/images-sites/gut-gueldenstein/03-e213dda1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg/1200px-Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg/1200px-Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Güldenstein_Torhaus,_Mai_2012.jpg/1200px-Güldenstein_Torhaus,_Mai_2012.jpg
+image_srcset:
+  Aerial image of Gut Güldenstein (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg/400px-Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg/800px-Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg/1200px-Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg/1920px-Aerial_image_of_Gut_Güldenstein_(view_from_the_south).jpg
+  Grüner Gas Schaltschrank Gut Güldenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg/400px-Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg/800px-Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg/1200px-Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg/1920px-Grüner_Gas_Schaltschrank_Gut_Güldenstein.jpg
+  Güldenstein Torhaus, Mai 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Güldenstein_Torhaus,_Mai_2012.jpg/400px-Güldenstein_Torhaus,_Mai_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Güldenstein_Torhaus,_Mai_2012.jpg/800px-Güldenstein_Torhaus,_Mai_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Güldenstein_Torhaus,_Mai_2012.jpg/1200px-Güldenstein_Torhaus,_Mai_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Güldenstein_Torhaus,_Mai_2012.jpg/1920px-Güldenstein_Torhaus,_Mai_2012.jpg
 ---
 
 ## Overview

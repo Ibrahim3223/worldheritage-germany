@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1607806"
 description: "In the heart of Hamburg-Nord, you will find St. Peter, a modern church building that stands as a striking example of contemporary architecture. Complete..."
 images:
-  - "/images-sites/st-peter-hamburg-gross-borstel/01-d818f185-1920w.webp"
-  - "/images-sites/st-peter-hamburg-gross-borstel/02-ea363000-1920w.webp"
-  - "/images-sites/st-peter-hamburg-gross-borstel/03-390685ad-1920w.webp"
+  - "/images/st-peter-hamburg-gross-borstel/01-d818f185-1920w.webp"
+  - "/images/st-peter-hamburg-gross-borstel/02-ea363000-1920w.webp"
+  - "/images/st-peter-hamburg-gross-borstel/03-390685ad-1920w.webp"
 ---
 
 ## Overview

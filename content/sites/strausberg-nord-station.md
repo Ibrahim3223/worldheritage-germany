@@ -13,7 +13,7 @@ regions:
 latitude: 52.5902
 longitude: 13.9084
 images:
-  - "/images-sites/strausberg-nord-station/01-2d800c7a-800w.webp"
+  - "/images/strausberg-nord-station/01-2d800c7a-800w.webp"
 ---
 
 ## Overview

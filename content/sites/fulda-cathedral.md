@@ -1,23 +1,44 @@
 ---
-title: "Fulda Cathedral"
-site_name: "Fulda Cathedral"
-slug: "fulda-cathedral"
-region: "Hesse"
-
-# Location
+title: Fulda Cathedral
+site_name: Fulda Cathedral
+slug: fulda-cathedral
+region: Hesse
 latitude: 50.553992
 longitude: 9.672008
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q314517"
-description: "Fulda Cathedral, a striking example of Baroque architecture, is located in the heart of Fulda, Germany. This magnificent structure, built in 1704, serve..."
+- cultural site
+wikidata_id: Q314517
+description: Fulda Cathedral, a striking example of Baroque architecture, is located
+  in the heart of Fulda, Germany. This magnificent structure, built in 1704, serve...
 images:
-  - "/images-sites/fulda-cathedral/01-a51c919f-1920w.webp"
-  - "/images-sites/fulda-cathedral/02-3b024957-1920w.webp"
-  - "/images-sites/fulda-cathedral/03-1939d251-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1200px-Fulda-Dom-10-2019-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fulda_Dom-20250523-RM-150207.jpg/1200px-Fulda_Dom-20250523-RM-150207.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/1200px-Kathedrale_Fulda-6385.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG/1200px-Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG
+image_srcset:
+  Fulda-Dom-10-2019-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/400px-Fulda-Dom-10-2019-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/800px-Fulda-Dom-10-2019-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1200px-Fulda-Dom-10-2019-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda-Dom-10-2019-gje.jpg/1920px-Fulda-Dom-10-2019-gje.jpg
+  Fulda Dom-20250523-RM-150207.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fulda_Dom-20250523-RM-150207.jpg/400px-Fulda_Dom-20250523-RM-150207.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fulda_Dom-20250523-RM-150207.jpg/800px-Fulda_Dom-20250523-RM-150207.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fulda_Dom-20250523-RM-150207.jpg/1200px-Fulda_Dom-20250523-RM-150207.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fulda_Dom-20250523-RM-150207.jpg/1920px-Fulda_Dom-20250523-RM-150207.jpg
+  Kathedrale Fulda-6385.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/400px-Kathedrale_Fulda-6385.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/800px-Kathedrale_Fulda-6385.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/1200px-Kathedrale_Fulda-6385.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kathedrale_Fulda-6385.jpg/1920px-Kathedrale_Fulda-6385.jpg
+  Fuldaer Dom - .Ansicht vom Süden.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG/400px-Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG/800px-Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG/1200px-Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG/1920px-Fuldaer_Dom_-_.Ansicht_vom_Süden.JPG
 ---
 
 ## Overview

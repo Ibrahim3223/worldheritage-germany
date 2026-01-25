@@ -21,7 +21,7 @@ longitude: 7.45291
 
 # Images
 images:
-  - "/images-sites/thurant-castle/01-ae25729c-800w.webp"
+  - "/images/thurant-castle/01-ae25729c-800w.webp"
 ---
 
 ## Overview

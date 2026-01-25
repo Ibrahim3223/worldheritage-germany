@@ -1,24 +1,52 @@
 ---
-title: "Evangelische Kirche Alt-Lietzow"
-site_name: "Evangelische Kirche Alt-Lietzow"
-slug: "evangelische-kirche-alt-lietzow"
-region: "Berlin"
-
-# Location
+title: Evangelische Kirche Alt-Lietzow
+site_name: Evangelische Kirche Alt-Lietzow
+slug: evangelische-kirche-alt-lietzow
+region: Berlin
 latitude: 52.5181
 longitude: 13.313
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380460"
-description: "In the bustling heart of Berlin, the Evangelische Kirche Alt-Lietzow stands as a striking representation of Baroque Revival architecture. This church, f..."
+- church building
+- religious site
+wikidata_id: Q1380460
+description: In the bustling heart of Berlin, the Evangelische Kirche Alt-Lietzow
+  stands as a striking representation of Baroque Revival architecture. This church,
+  f...
 images:
-  - "/images-sites/evangelische-kirche-alt-lietzow/01-6fd82b9e-1920w.webp"
-  - "/images-sites/evangelische-kirche-alt-lietzow/02-9d52da96-1920w.webp"
-  - "/images-sites/evangelische-kirche-alt-lietzow/03-03fc1409-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorfkirche%20Lietzow%2001.jpg/1200px-Dorfkirche%20Lietzow%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg/1200px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg/1200px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg/1200px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorfkirche_Lietzow_01.jpg/1200px-Dorfkirche_Lietzow_01.jpg
+image_srcset:
+  Dorfkirche%20Lietzow%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorfkirche%20Lietzow%2001.jpg/400px-Dorfkirche%20Lietzow%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorfkirche%20Lietzow%2001.jpg/800px-Dorfkirche%20Lietzow%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorfkirche%20Lietzow%2001.jpg/1200px-Dorfkirche%20Lietzow%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorfkirche%20Lietzow%2001.jpg/1920px-Dorfkirche%20Lietzow%2001.jpg
+  Berlin-Charlottenburg, Kirche Alt-Lietzow (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg/400px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg/800px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg/1200px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg/1920px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(01).jpg
+  Berlin-Charlottenburg, Kirche Alt-Lietzow (05).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg/400px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg/800px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg/1200px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg/1920px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(05).jpg
+  Berlin-Charlottenburg, Kirche Alt-Lietzow (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg/400px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg/800px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg/1200px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg/1920px-Berlin-Charlottenburg,_Kirche_Alt-Lietzow_(06).jpg
+  Dorfkirche Lietzow 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorfkirche_Lietzow_01.jpg/400px-Dorfkirche_Lietzow_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorfkirche_Lietzow_01.jpg/800px-Dorfkirche_Lietzow_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorfkirche_Lietzow_01.jpg/1200px-Dorfkirche_Lietzow_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dorfkirche_Lietzow_01.jpg/1920px-Dorfkirche_Lietzow_01.jpg
 ---
 
 ## Overview

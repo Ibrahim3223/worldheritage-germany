@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q674472"
 description: "St. Michaelis Church, also known as Michel, is one of Hamburgs most iconic landmarks, standing tall at 132.14 meters in height. This Lutheran church, fo..."
 images:
-  - "/images-sites/st-michaelis-church-hamburg/01-e032c299-1920w.webp"
-  - "/images-sites/st-michaelis-church-hamburg/02-c2ed2c9e-1920w.webp"
-  - "/images-sites/st-michaelis-church-hamburg/03-4d55de60-1920w.webp"
+  - "/images/st-michaelis-church-hamburg/01-e032c299-1920w.webp"
+  - "/images/st-michaelis-church-hamburg/02-c2ed2c9e-1920w.webp"
+  - "/images/st-michaelis-church-hamburg/03-4d55de60-1920w.webp"
 ---
 
 ## Overview

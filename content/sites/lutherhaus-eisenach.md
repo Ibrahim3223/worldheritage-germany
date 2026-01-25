@@ -13,7 +13,7 @@ regions:
 latitude: 50.9731
 longitude: 10.3203
 images:
-  - "/images-sites/lutherhaus-eisenach/01-4857bcb6-800w.webp"
+  - "/images/lutherhaus-eisenach/01-4857bcb6-800w.webp"
 ---
 
 ## Overview

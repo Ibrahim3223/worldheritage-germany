@@ -1,19 +1,49 @@
 ---
-title: "Gartenschau Kaiserslautern"
+title: Gartenschau Kaiserslautern
 date: 2026-01-23
 draft: false
-description: "park in Kaiserslautern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Kaiserslautern, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4493
 longitude: 7.74847
 images:
-  - "/images-sites/gartenschau-kaiserslautern/01-c399c4b2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg/1200px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg/1200px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg/1200px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gartenschau_Kaiserslautern_Dino.jpg/1200px-Gartenschau_Kaiserslautern_Dino.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaiserslautern_Gartenschau_Tulpomania2.jpg/1200px-Kaiserslautern_Gartenschau_Tulpomania2.jpg
+image_srcset:
+  City of Kaiserslautern hosts Kaiserslautern Summer Social (7882793).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg/400px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg/800px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg/1200px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg/1920px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882793).jpg
+  City of Kaiserslautern hosts Kaiserslautern Summer Social (7882795).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg/400px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg/800px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg/1200px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg/1920px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882795).jpg
+  City of Kaiserslautern hosts Kaiserslautern Summer Social (7882792).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg/400px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg/800px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg/1200px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg/1920px-City_of_Kaiserslautern_hosts_Kaiserslautern_Summer_Social_(7882792).jpg
+  Gartenschau Kaiserslautern Dino.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gartenschau_Kaiserslautern_Dino.jpg/400px-Gartenschau_Kaiserslautern_Dino.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gartenschau_Kaiserslautern_Dino.jpg/800px-Gartenschau_Kaiserslautern_Dino.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gartenschau_Kaiserslautern_Dino.jpg/1200px-Gartenschau_Kaiserslautern_Dino.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gartenschau_Kaiserslautern_Dino.jpg/1920px-Gartenschau_Kaiserslautern_Dino.jpg
+  Kaiserslautern Gartenschau Tulpomania2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaiserslautern_Gartenschau_Tulpomania2.jpg/400px-Kaiserslautern_Gartenschau_Tulpomania2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaiserslautern_Gartenschau_Tulpomania2.jpg/800px-Kaiserslautern_Gartenschau_Tulpomania2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaiserslautern_Gartenschau_Tulpomania2.jpg/1200px-Kaiserslautern_Gartenschau_Tulpomania2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kaiserslautern_Gartenschau_Tulpomania2.jpg/1920px-Kaiserslautern_Gartenschau_Tulpomania2.jpg
 ---
 
 ## Overview

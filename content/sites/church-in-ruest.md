@@ -1,19 +1,50 @@
 ---
-title: "Church in Ruest"
-site_name: "Church in Ruest"
-slug: "church-in-ruest"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Ruest
+site_name: Church in Ruest
+slug: church-in-ruest
+region: Mecklenburg-Vorpommern
 latitude: 53.615
 longitude: 11.9442
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244679"
-description: "The Church in Ruest stands as a remarkable example of Gothic architecture in the heart of Mestlin, Germany. This church, constructed of fieldstone, capt..."
+- cultural site
+wikidata_id: Q1244679
+description: The Church in Ruest stands as a remarkable example of Gothic architecture
+  in the heart of Mestlin, Germany. This church, constructed of fieldstone, capt...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruest%20Kirche%202011-04-20%20329.JPG/1200px-Ruest%20Kirche%202011-04-20%20329.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruest_Kirche_2012-06-01_455.JPG/1200px-Ruest_Kirche_2012-06-01_455.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fachwerkturm_der_Ruester_Kirche.jpg/1200px-Fachwerkturm_der_Ruester_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Ruest_Turm_1.jpg/1200px-Kirche_Ruest_Turm_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ruester_Kirchendach_(Nordseite).jpg/1200px-Ruester_Kirchendach_(Nordseite).jpg
+image_srcset:
+  Ruest%20Kirche%202011-04-20%20329.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruest%20Kirche%202011-04-20%20329.JPG/400px-Ruest%20Kirche%202011-04-20%20329.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruest%20Kirche%202011-04-20%20329.JPG/800px-Ruest%20Kirche%202011-04-20%20329.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruest%20Kirche%202011-04-20%20329.JPG/1200px-Ruest%20Kirche%202011-04-20%20329.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ruest%20Kirche%202011-04-20%20329.JPG/1920px-Ruest%20Kirche%202011-04-20%20329.JPG
+  Ruest Kirche 2012-06-01 455.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruest_Kirche_2012-06-01_455.JPG/400px-Ruest_Kirche_2012-06-01_455.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruest_Kirche_2012-06-01_455.JPG/800px-Ruest_Kirche_2012-06-01_455.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruest_Kirche_2012-06-01_455.JPG/1200px-Ruest_Kirche_2012-06-01_455.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ruest_Kirche_2012-06-01_455.JPG/1920px-Ruest_Kirche_2012-06-01_455.JPG
+  Fachwerkturm der Ruester Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fachwerkturm_der_Ruester_Kirche.jpg/400px-Fachwerkturm_der_Ruester_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fachwerkturm_der_Ruester_Kirche.jpg/800px-Fachwerkturm_der_Ruester_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fachwerkturm_der_Ruester_Kirche.jpg/1200px-Fachwerkturm_der_Ruester_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fachwerkturm_der_Ruester_Kirche.jpg/1920px-Fachwerkturm_der_Ruester_Kirche.jpg
+  Kirche Ruest Turm 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Ruest_Turm_1.jpg/400px-Kirche_Ruest_Turm_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Ruest_Turm_1.jpg/800px-Kirche_Ruest_Turm_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Ruest_Turm_1.jpg/1200px-Kirche_Ruest_Turm_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kirche_Ruest_Turm_1.jpg/1920px-Kirche_Ruest_Turm_1.jpg
+  Ruester Kirchendach (Nordseite).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ruester_Kirchendach_(Nordseite).jpg/400px-Ruester_Kirchendach_(Nordseite).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ruester_Kirchendach_(Nordseite).jpg/800px-Ruester_Kirchendach_(Nordseite).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ruester_Kirchendach_(Nordseite).jpg/1200px-Ruester_Kirchendach_(Nordseite).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ruester_Kirchendach_(Nordseite).jpg/1920px-Ruester_Kirchendach_(Nordseite).jpg
 ---
 
 ## Overview

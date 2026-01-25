@@ -13,7 +13,7 @@ regions:
 latitude: 54.68076389
 longitude: 8.56631944
 images:
-  - "/images-sites/olhoern-lighthouse/01-3979e005-800w.webp"
+  - "/images/olhoern-lighthouse/01-3979e005-800w.webp"
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Castle Linn"
+title: Castle Linn
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3331
 longitude: 6.63444
-
-# Images
 images:
-  - "/images-sites/castle-linn/01-1eeaf83f-800w.webp"
-  - "/images-sites/castle-linn/02-6509b21c-800w.webp"
-  - "/images-sites/castle-linn/03-1803db5a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapelle_Burg_Linn,_Krefeld.jpg/1200px-Kapelle_Burg_Linn,_Krefeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2023_02_15_Burg_Linn.jpg/1200px-2023_02_15_Burg_Linn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg/1200px-2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jagdschlösschen_um_1900.jpg/1200px-Jagdschlösschen_um_1900.jpg
+image_srcset:
+  Aerial image of Burg Linn (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/400px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/800px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Burg_Linn_(view_from_the_southwest).jpg
+  Kapelle Burg Linn, Krefeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapelle_Burg_Linn,_Krefeld.jpg/400px-Kapelle_Burg_Linn,_Krefeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapelle_Burg_Linn,_Krefeld.jpg/800px-Kapelle_Burg_Linn,_Krefeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapelle_Burg_Linn,_Krefeld.jpg/1200px-Kapelle_Burg_Linn,_Krefeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapelle_Burg_Linn,_Krefeld.jpg/1920px-Kapelle_Burg_Linn,_Krefeld.jpg
+  2023 02 15 Burg Linn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2023_02_15_Burg_Linn.jpg/400px-2023_02_15_Burg_Linn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2023_02_15_Burg_Linn.jpg/800px-2023_02_15_Burg_Linn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2023_02_15_Burg_Linn.jpg/1200px-2023_02_15_Burg_Linn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2023_02_15_Burg_Linn.jpg/1920px-2023_02_15_Burg_Linn.jpg
+  2020-06-20 Burg Linn, Krefeld (NRW).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg/400px-2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg/800px-2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg/1200px-2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg/1920px-2020-06-20_Burg_Linn,_Krefeld_(NRW).jpg
+  Jagdschlösschen um 1900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jagdschlösschen_um_1900.jpg/400px-Jagdschlösschen_um_1900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jagdschlösschen_um_1900.jpg/800px-Jagdschlösschen_um_1900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jagdschlösschen_um_1900.jpg/1200px-Jagdschlösschen_um_1900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jagdschlösschen_um_1900.jpg/1920px-Jagdschlösschen_um_1900.jpg
 ---
 
 ## Overview

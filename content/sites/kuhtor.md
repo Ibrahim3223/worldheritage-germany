@@ -13,7 +13,7 @@ regions:
 latitude: 54.0867
 longitude: 12.1436
 images:
-  - "/images-sites/kuhtor/01-ff5fac0b-800w.webp"
+  - "/images/kuhtor/01-ff5fac0b-800w.webp"
 ---
 
 ## Overview

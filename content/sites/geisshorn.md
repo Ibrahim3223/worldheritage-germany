@@ -1,19 +1,50 @@
 ---
-title: "Geißhorn"
+title: Geißhorn
 date: 2026-01-23
 draft: false
-description: "mountain of Allgäu Alps at border of Vorarlberg, Austria, and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of Allgäu Alps at border of Vorarlberg, Austria, and Bavaria,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.287777777
 longitude: 10.175277777
 images:
-  - "/images-sites/geisshorn/01-a964f777-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20250831_142901_HDR.jpg/1200px-20250831_142901_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20250831_144231_HDR.jpg/1200px-20250831_144231_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20250831_144759_HDR.jpg/1200px-20250831_144759_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geisshorn_vom_Gemstelkoblach.JPG/1200px-Geisshorn_vom_Gemstelkoblach.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aletsch_fg04.jpg/1200px-Aletsch_fg04.jpg
+image_srcset:
+  20250831 142901 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20250831_142901_HDR.jpg/400px-20250831_142901_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20250831_142901_HDR.jpg/800px-20250831_142901_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20250831_142901_HDR.jpg/1200px-20250831_142901_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/20250831_142901_HDR.jpg/1920px-20250831_142901_HDR.jpg
+  20250831 144231 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20250831_144231_HDR.jpg/400px-20250831_144231_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20250831_144231_HDR.jpg/800px-20250831_144231_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20250831_144231_HDR.jpg/1200px-20250831_144231_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20250831_144231_HDR.jpg/1920px-20250831_144231_HDR.jpg
+  20250831 144759 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20250831_144759_HDR.jpg/400px-20250831_144759_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20250831_144759_HDR.jpg/800px-20250831_144759_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20250831_144759_HDR.jpg/1200px-20250831_144759_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20250831_144759_HDR.jpg/1920px-20250831_144759_HDR.jpg
+  Geisshorn vom Gemstelkoblach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geisshorn_vom_Gemstelkoblach.JPG/400px-Geisshorn_vom_Gemstelkoblach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geisshorn_vom_Gemstelkoblach.JPG/800px-Geisshorn_vom_Gemstelkoblach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geisshorn_vom_Gemstelkoblach.JPG/1200px-Geisshorn_vom_Gemstelkoblach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Geisshorn_vom_Gemstelkoblach.JPG/1920px-Geisshorn_vom_Gemstelkoblach.JPG
+  Aletsch fg04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aletsch_fg04.jpg/400px-Aletsch_fg04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aletsch_fg04.jpg/800px-Aletsch_fg04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aletsch_fg04.jpg/1200px-Aletsch_fg04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aletsch_fg04.jpg/1920px-Aletsch_fg04.jpg
 ---
 
 ## Overview

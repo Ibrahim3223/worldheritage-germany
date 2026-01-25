@@ -1,21 +1,49 @@
 ---
-title: "Albert-Schweitzer-Gymnasium Ruhla"
+title: Albert-Schweitzer-Gymnasium Ruhla
 date: 2026-01-23
 draft: false
-description: "Gymnasium in Ruhla im Wartburgkreis in Thüringen"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: Gymnasium in Ruhla im Wartburgkreis in Thüringen
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 50.891957
 longitude: 10.364557
 images:
-  - "/images-sites/albert-schweitzer-gymnasium-ruhla/01-bff604b1-800w.webp"
-  - "/images-sites/albert-schweitzer-gymnasium-ruhla/02-f4516252-800w.webp"
-  - "/images-sites/albert-schweitzer-gymnasium-ruhla/03-e7886af5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WAK_Ruhla_Gymnasium_-_Bild5.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_Ruhla_Gymnasium_-_Bild7.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WAK_Ruhla_Gymnasium_-_Bild8.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WAK_Ruhla_Gymnasium_-_Bild1.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/WAK_Ruhla_Gymnasium_-_Bild2.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild2.jpg
+image_srcset:
+  WAK Ruhla Gymnasium - Bild5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WAK_Ruhla_Gymnasium_-_Bild5.jpg/400px-WAK_Ruhla_Gymnasium_-_Bild5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WAK_Ruhla_Gymnasium_-_Bild5.jpg/800px-WAK_Ruhla_Gymnasium_-_Bild5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WAK_Ruhla_Gymnasium_-_Bild5.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WAK_Ruhla_Gymnasium_-_Bild5.jpg/1920px-WAK_Ruhla_Gymnasium_-_Bild5.jpg
+  WAK Ruhla Gymnasium - Bild7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_Ruhla_Gymnasium_-_Bild7.jpg/400px-WAK_Ruhla_Gymnasium_-_Bild7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_Ruhla_Gymnasium_-_Bild7.jpg/800px-WAK_Ruhla_Gymnasium_-_Bild7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_Ruhla_Gymnasium_-_Bild7.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WAK_Ruhla_Gymnasium_-_Bild7.jpg/1920px-WAK_Ruhla_Gymnasium_-_Bild7.jpg
+  WAK Ruhla Gymnasium - Bild8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WAK_Ruhla_Gymnasium_-_Bild8.jpg/400px-WAK_Ruhla_Gymnasium_-_Bild8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WAK_Ruhla_Gymnasium_-_Bild8.jpg/800px-WAK_Ruhla_Gymnasium_-_Bild8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WAK_Ruhla_Gymnasium_-_Bild8.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WAK_Ruhla_Gymnasium_-_Bild8.jpg/1920px-WAK_Ruhla_Gymnasium_-_Bild8.jpg
+  WAK Ruhla Gymnasium - Bild1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WAK_Ruhla_Gymnasium_-_Bild1.jpg/400px-WAK_Ruhla_Gymnasium_-_Bild1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WAK_Ruhla_Gymnasium_-_Bild1.jpg/800px-WAK_Ruhla_Gymnasium_-_Bild1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WAK_Ruhla_Gymnasium_-_Bild1.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WAK_Ruhla_Gymnasium_-_Bild1.jpg/1920px-WAK_Ruhla_Gymnasium_-_Bild1.jpg
+  WAK Ruhla Gymnasium - Bild2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/WAK_Ruhla_Gymnasium_-_Bild2.jpg/400px-WAK_Ruhla_Gymnasium_-_Bild2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/WAK_Ruhla_Gymnasium_-_Bild2.jpg/800px-WAK_Ruhla_Gymnasium_-_Bild2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/WAK_Ruhla_Gymnasium_-_Bild2.jpg/1200px-WAK_Ruhla_Gymnasium_-_Bild2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/WAK_Ruhla_Gymnasium_-_Bild2.jpg/1920px-WAK_Ruhla_Gymnasium_-_Bild2.jpg
 ---
 
 ## Overview

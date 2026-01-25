@@ -1,19 +1,49 @@
 ---
-title: "Heggbach Abbey"
+title: Heggbach Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1497
 longitude: 9.89583
 images:
-  - "/images-sites/heggbach-abbey/01-4288453d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heggbach_02.jpg/1200px-Heggbach_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Heggbach_Fachwerkhaus_01.jpg/1200px-Heggbach_Fachwerkhaus_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heggbach_08.jpg/1200px-Heggbach_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maistrauß_c1770_MfK_Wgt.jpg/1200px-Maistrauß_c1770_MfK_Wgt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/1200px-Heggbach_Abbey_main_gate_02.JPG
+image_srcset:
+  Heggbach 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heggbach_02.jpg/400px-Heggbach_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heggbach_02.jpg/800px-Heggbach_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heggbach_02.jpg/1200px-Heggbach_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heggbach_02.jpg/1920px-Heggbach_02.jpg
+  Heggbach Fachwerkhaus 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Heggbach_Fachwerkhaus_01.jpg/400px-Heggbach_Fachwerkhaus_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Heggbach_Fachwerkhaus_01.jpg/800px-Heggbach_Fachwerkhaus_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Heggbach_Fachwerkhaus_01.jpg/1200px-Heggbach_Fachwerkhaus_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Heggbach_Fachwerkhaus_01.jpg/1920px-Heggbach_Fachwerkhaus_01.jpg
+  Heggbach 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heggbach_08.jpg/400px-Heggbach_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heggbach_08.jpg/800px-Heggbach_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heggbach_08.jpg/1200px-Heggbach_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Heggbach_08.jpg/1920px-Heggbach_08.jpg
+  Maistrauß c1770 MfK Wgt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maistrauß_c1770_MfK_Wgt.jpg/400px-Maistrauß_c1770_MfK_Wgt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maistrauß_c1770_MfK_Wgt.jpg/800px-Maistrauß_c1770_MfK_Wgt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maistrauß_c1770_MfK_Wgt.jpg/1200px-Maistrauß_c1770_MfK_Wgt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maistrauß_c1770_MfK_Wgt.jpg/1920px-Maistrauß_c1770_MfK_Wgt.jpg
+  Heggbach Abbey main gate 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/400px-Heggbach_Abbey_main_gate_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/800px-Heggbach_Abbey_main_gate_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/1200px-Heggbach_Abbey_main_gate_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heggbach_Abbey_main_gate_02.JPG/1920px-Heggbach_Abbey_main_gate_02.JPG
 ---
 
 ## Overview

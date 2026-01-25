@@ -13,7 +13,7 @@ regions:
 latitude: 47.601
 longitude: 11.8611
 images:
-  - "/images-sites/schinder/01-226ea026-800w.webp"
+  - "/images/schinder/01-226ea026-800w.webp"
 ---
 
 ## Overview

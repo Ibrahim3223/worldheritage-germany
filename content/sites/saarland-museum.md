@@ -13,9 +13,9 @@ regions:
 latitude: 49.2308
 longitude: 6.99992
 images:
-  - "/images-sites/saarland-museum/01-022b0fd9-800w.webp"
-  - "/images-sites/saarland-museum/02-c5f06446-800w.webp"
-  - "/images-sites/saarland-museum/03-c3b1cf63-800w.webp"
+  - "/images/saarland-museum/01-022b0fd9-800w.webp"
+  - "/images/saarland-museum/02-c5f06446-800w.webp"
+  - "/images/saarland-museum/03-c3b1cf63-800w.webp"
 ---
 
 ## Overview

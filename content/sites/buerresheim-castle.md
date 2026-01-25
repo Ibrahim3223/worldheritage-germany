@@ -1,19 +1,49 @@
 ---
-title: "Bürresheim Castle"
+title: Bürresheim Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.3528
 longitude: 7.17971
 images:
-  - "/images-sites/buerresheim-castle/01-6c1f3ab5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg/1200px-Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG/1200px-Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buerresheim_Schloss_SE_295_P1050696_20200717.jpg/1200px-Buerresheim_Schloss_SE_295_P1050696_20200717.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg/1200px-Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1200px-Buerresheim_1.jpg
+image_srcset:
+  Schloss Bürresheim mit Barockgarten (2012-06-24 Sp).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg/400px-Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg/800px-Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg/1200px-Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg/1920px-Schloss_Bürresheim_mit_Barockgarten_(2012-06-24_Sp).jpg
+  Schloss Bürresheim - Portal Amtshaus (2012-06-24).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG/400px-Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG/800px-Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG/1200px-Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG/1920px-Schloss_Bürresheim_-_Portal_Amtshaus_(2012-06-24).JPG
+  Buerresheim Schloss SE 295 P1050696 20200717.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buerresheim_Schloss_SE_295_P1050696_20200717.jpg/400px-Buerresheim_Schloss_SE_295_P1050696_20200717.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buerresheim_Schloss_SE_295_P1050696_20200717.jpg/800px-Buerresheim_Schloss_SE_295_P1050696_20200717.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buerresheim_Schloss_SE_295_P1050696_20200717.jpg/1200px-Buerresheim_Schloss_SE_295_P1050696_20200717.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Buerresheim_Schloss_SE_295_P1050696_20200717.jpg/1920px-Buerresheim_Schloss_SE_295_P1050696_20200717.jpg
+  Schloss Bürresheim - Innenhof (2012-06-24 Sp).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg/400px-Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg/800px-Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg/1200px-Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg/1920px-Schloss_Bürresheim_-_Innenhof_(2012-06-24_Sp).jpg
+  Buerresheim 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/400px-Buerresheim_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/800px-Buerresheim_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1200px-Buerresheim_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buerresheim_1.jpg/1920px-Buerresheim_1.jpg
 ---
 
 ## Overview

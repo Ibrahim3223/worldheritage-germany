@@ -1,19 +1,43 @@
 ---
-title: "Brombachmoor"
+title: Brombachmoor
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1309
 longitude: 10.8448
 images:
-  - "/images-sites/brombachmoor/01-dcf9590b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brombachmündung.jpg/1200px-Brombachmündung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brombachmoor-Übersicht.jpg/1200px-Brombachmoor-Übersicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brombachmoor(Kernzone).jpg/1200px-Brombachmoor(Kernzone).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brombachmoor_und_Hühnermühle.jpg/1200px-Brombachmoor_und_Hühnermühle.jpg
+image_srcset:
+  Brombachmündung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brombachmündung.jpg/400px-Brombachmündung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brombachmündung.jpg/800px-Brombachmündung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brombachmündung.jpg/1200px-Brombachmündung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brombachmündung.jpg/1920px-Brombachmündung.jpg
+  Brombachmoor-Übersicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brombachmoor-Übersicht.jpg/400px-Brombachmoor-Übersicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brombachmoor-Übersicht.jpg/800px-Brombachmoor-Übersicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brombachmoor-Übersicht.jpg/1200px-Brombachmoor-Übersicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Brombachmoor-Übersicht.jpg/1920px-Brombachmoor-Übersicht.jpg
+  Brombachmoor(Kernzone).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brombachmoor(Kernzone).jpg/400px-Brombachmoor(Kernzone).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brombachmoor(Kernzone).jpg/800px-Brombachmoor(Kernzone).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brombachmoor(Kernzone).jpg/1200px-Brombachmoor(Kernzone).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brombachmoor(Kernzone).jpg/1920px-Brombachmoor(Kernzone).jpg
+  Brombachmoor und Hühnermühle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brombachmoor_und_Hühnermühle.jpg/400px-Brombachmoor_und_Hühnermühle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brombachmoor_und_Hühnermühle.jpg/800px-Brombachmoor_und_Hühnermühle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brombachmoor_und_Hühnermühle.jpg/1200px-Brombachmoor_und_Hühnermühle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brombachmoor_und_Hühnermühle.jpg/1920px-Brombachmoor_und_Hühnermühle.jpg
 ---
 
 ## Overview

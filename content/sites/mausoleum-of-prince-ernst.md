@@ -13,7 +13,7 @@ regions:
 latitude: 52.323333333
 longitude: 9.207222222
 images:
-  - "/images-sites/mausoleum-of-prince-ernst/01-029fe7c3-800w.webp"
+  - "/images/mausoleum-of-prince-ernst/01-029fe7c3-800w.webp"
 ---
 
 ## Overview

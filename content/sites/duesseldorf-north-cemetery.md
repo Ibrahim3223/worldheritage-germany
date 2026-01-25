@@ -1,19 +1,49 @@
 ---
-title: "Düsseldorf North Cemetery"
+title: Düsseldorf North Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.258
 longitude: 6.772
 images:
-  - "/images-sites/duesseldorf-north-cemetery/01-17d194ec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg/1200px-Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg/1200px-Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg/1200px-Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/D-Nordfriedhof-05.jpg/1200px-D-Nordfriedhof-05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg/1200px-Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg
+image_srcset:
+  Nordfriedhof cemetery 3 Dusseldorf Germany Oct 3 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg/400px-Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg/800px-Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg/1200px-Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg/1920px-Nordfriedhof_cemetery_3_Dusseldorf_Germany_Oct_3_2023.jpg
+  Nordfriedhof cemetary 1 Dusseldorf Germany Oct 3 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg/400px-Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg/800px-Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg/1200px-Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg/1920px-Nordfriedhof_cemetary_1_Dusseldorf_Germany_Oct_3_2023.jpg
+  Nordfriedhof cemetery 2 Dusseldorf Germany Oct 3 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg/400px-Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg/800px-Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg/1200px-Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg/1920px-Nordfriedhof_cemetery_2_Dusseldorf_Germany_Oct_3_2023.jpg
+  D-Nordfriedhof-05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/D-Nordfriedhof-05.jpg/400px-D-Nordfriedhof-05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/D-Nordfriedhof-05.jpg/800px-D-Nordfriedhof-05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/D-Nordfriedhof-05.jpg/1200px-D-Nordfriedhof-05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/D-Nordfriedhof-05.jpg/1920px-D-Nordfriedhof-05.jpg
+  Grab Rosemarie Nitribitts im Nordfriedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg/400px-Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg/800px-Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg/1200px-Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg/1920px-Grab_Rosemarie_Nitribitts_im_Nordfriedhof.jpg
 ---
 
 ## Overview

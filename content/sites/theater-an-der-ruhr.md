@@ -13,7 +13,7 @@ regions:
 latitude: 51.43875
 longitude: 6.823
 images:
-  - "/images-sites/theater-an-der-ruhr/01-f2ccfee9-800w.webp"
+  - "/images/theater-an-der-ruhr/01-f2ccfee9-800w.webp"
 ---
 
 ## Overview

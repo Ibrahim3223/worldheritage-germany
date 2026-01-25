@@ -1,19 +1,49 @@
 ---
-title: "Höglwörther See"
+title: Höglwörther See
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.765833333
 longitude: 12.842777777
 images:
-  - "/images-sites/hoeglwoerther-see/01-c07042cd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Höglwörther_See_mit_Kloster.jpg/1200px-Höglwörther_See_mit_Kloster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/1200px-Höglwörth04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hecht_Hoeglwoerther_See.jpg/1200px-Hecht_Hoeglwoerther_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Höglwörther_See.jpg/1200px-Höglwörther_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schild_Höglwörther_See.jpg/1200px-Schild_Höglwörther_See.jpg
+image_srcset:
+  Höglwörther See mit Kloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Höglwörther_See_mit_Kloster.jpg/400px-Höglwörther_See_mit_Kloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Höglwörther_See_mit_Kloster.jpg/800px-Höglwörther_See_mit_Kloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Höglwörther_See_mit_Kloster.jpg/1200px-Höglwörther_See_mit_Kloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Höglwörther_See_mit_Kloster.jpg/1920px-Höglwörther_See_mit_Kloster.jpg
+  Höglwörth04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/400px-Höglwörth04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/800px-Höglwörth04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/1200px-Höglwörth04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/1920px-Höglwörth04.jpg
+  Hecht Hoeglwoerther See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hecht_Hoeglwoerther_See.jpg/400px-Hecht_Hoeglwoerther_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hecht_Hoeglwoerther_See.jpg/800px-Hecht_Hoeglwoerther_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hecht_Hoeglwoerther_See.jpg/1200px-Hecht_Hoeglwoerther_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hecht_Hoeglwoerther_See.jpg/1920px-Hecht_Hoeglwoerther_See.jpg
+  Höglwörther See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Höglwörther_See.jpg/400px-Höglwörther_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Höglwörther_See.jpg/800px-Höglwörther_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Höglwörther_See.jpg/1200px-Höglwörther_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Höglwörther_See.jpg/1920px-Höglwörther_See.jpg
+  Schild Höglwörther See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schild_Höglwörther_See.jpg/400px-Schild_Höglwörther_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schild_Höglwörther_See.jpg/800px-Schild_Höglwörther_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schild_Höglwörther_See.jpg/1200px-Schild_Höglwörther_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Schild_Höglwörther_See.jpg/1920px-Schild_Höglwörther_See.jpg
 ---
 
 ## Overview

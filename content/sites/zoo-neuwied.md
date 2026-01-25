@@ -13,7 +13,7 @@ regions:
 latitude: 50.4531
 longitude: 7.5625
 images:
-  - "/images-sites/zoo-neuwied/01-2c509ac6-800w.webp"
+  - "/images/zoo-neuwied/01-2c509ac6-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 51.911392
 longitude: 8.395486
 images:
-  - "/images-sites/miele-museum/02-caf82ab7-800w.webp"
-  - "/images-sites/miele-museum/03-bde0bcd5-800w.webp"
+  - "/images/miele-museum/02-caf82ab7-800w.webp"
+  - "/images/miele-museum/03-bde0bcd5-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Columbiadamm Cemetery"
+title: Columbiadamm Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Berlin
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.481388888
 longitude: 13.409444444
 images:
-  - "/images-sites/columbiadamm-cemetery/01-d0bb655f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Friedhof_Columbiadamm_-_panoramio_(3).jpg/1200px-Friedhof_Columbiadamm_-_panoramio_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg/1200px-Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg/1200px-Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg/1200px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg/1200px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg
+image_srcset:
+  Friedhof Columbiadamm - panoramio (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Friedhof_Columbiadamm_-_panoramio_(3).jpg/400px-Friedhof_Columbiadamm_-_panoramio_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Friedhof_Columbiadamm_-_panoramio_(3).jpg/800px-Friedhof_Columbiadamm_-_panoramio_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Friedhof_Columbiadamm_-_panoramio_(3).jpg/1200px-Friedhof_Columbiadamm_-_panoramio_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Friedhof_Columbiadamm_-_panoramio_(3).jpg/1920px-Friedhof_Columbiadamm_-_panoramio_(3).jpg
+  Friedhof Columbiadamm - Franzosen Grab 1870-71.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg/400px-Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg/800px-Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg/1200px-Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg/1920px-Friedhof_Columbiadamm_-_Franzosen_Grab_1870-71.jpg
+  Kurt Kluge - KAGGR1 - Friedhof Columbiadamm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg/400px-Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg/800px-Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg/1200px-Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg/1920px-Kurt_Kluge_-_KAGGR1_-_Friedhof_Columbiadamm.jpg
+  Friedhof Columbiadamm (Neuer Garnisonsfriedhof), Berlin-Neukölln, Bild 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg/400px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg/800px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg/1200px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg/1920px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_4.jpg
+  Friedhof Columbiadamm (Neuer Garnisonsfriedhof), Berlin-Neukölln, Bild 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg/400px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg/800px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg/1200px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg/1920px-Friedhof_Columbiadamm_(Neuer_Garnisonsfriedhof),_Berlin-Neukölln,_Bild_7.jpg
 ---
 
 ## Overview

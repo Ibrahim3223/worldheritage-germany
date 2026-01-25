@@ -1,21 +1,49 @@
 ---
-title: "German Film Museum"
+title: German Film Museum
 date: 2026-01-23
 draft: false
-description: "museum in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: museum in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 50.105
 longitude: 8.677777777
 images:
-  - "/images-sites/german-film-museum/01-c7785855-800w.webp"
-  - "/images-sites/german-film-museum/02-a6c71f37-800w.webp"
-  - "/images-sites/german-film-museum/03-d69c51ab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bambi-_and_other_Awards.jpg/1200px-Bambi-_and_other_Awards.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Filmmuseum_Frankfurt.jpg/1200px-Deutsches_Filmmuseum_Frankfurt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg/1200px-Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Das-Deutsche-Filmmuseum.jpg/1200px-Das-Deutsche-Filmmuseum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martina_Gedeck_Frankfurt.jpg/1200px-Martina_Gedeck_Frankfurt.jpg
+image_srcset:
+  Bambi- and other Awards.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bambi-_and_other_Awards.jpg/400px-Bambi-_and_other_Awards.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bambi-_and_other_Awards.jpg/800px-Bambi-_and_other_Awards.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bambi-_and_other_Awards.jpg/1200px-Bambi-_and_other_Awards.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bambi-_and_other_Awards.jpg/1920px-Bambi-_and_other_Awards.jpg
+  Deutsches Filmmuseum Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Filmmuseum_Frankfurt.jpg/400px-Deutsches_Filmmuseum_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Filmmuseum_Frankfurt.jpg/800px-Deutsches_Filmmuseum_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Filmmuseum_Frankfurt.jpg/1200px-Deutsches_Filmmuseum_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Deutsches_Filmmuseum_Frankfurt.jpg/1920px-Deutsches_Filmmuseum_Frankfurt.jpg
+  Deutsches Filmmuseum, Frankfurt (LRM 20241228 160249).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg/400px-Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg/800px-Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg/1200px-Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg/1920px-Deutsches_Filmmuseum,_Frankfurt_(LRM_20241228_160249).jpg
+  Das-Deutsche-Filmmuseum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Das-Deutsche-Filmmuseum.jpg/400px-Das-Deutsche-Filmmuseum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Das-Deutsche-Filmmuseum.jpg/800px-Das-Deutsche-Filmmuseum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Das-Deutsche-Filmmuseum.jpg/1200px-Das-Deutsche-Filmmuseum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Das-Deutsche-Filmmuseum.jpg/1920px-Das-Deutsche-Filmmuseum.jpg
+  Martina Gedeck Frankfurt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martina_Gedeck_Frankfurt.jpg/400px-Martina_Gedeck_Frankfurt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martina_Gedeck_Frankfurt.jpg/800px-Martina_Gedeck_Frankfurt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martina_Gedeck_Frankfurt.jpg/1200px-Martina_Gedeck_Frankfurt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Martina_Gedeck_Frankfurt.jpg/1920px-Martina_Gedeck_Frankfurt.jpg
 ---
 
 ## Overview

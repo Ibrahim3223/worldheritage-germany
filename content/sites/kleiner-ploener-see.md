@@ -13,7 +13,7 @@ regions:
 latitude: 54.160277777
 longitude: 10.391111111
 images:
-  - "/images-sites/kleiner-ploener-see/01-b6e03286-800w.webp"
+  - "/images/kleiner-ploener-see/01-b6e03286-800w.webp"
 ---
 
 ## Overview

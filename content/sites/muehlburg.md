@@ -13,7 +13,7 @@ regions:
 latitude: 50.8689
 longitude: 10.8322
 images:
-  - "/images-sites/muehlburg/01-935bcf99-800w.webp"
+  - "/images/muehlburg/01-935bcf99-800w.webp"
 ---
 
 ## Overview

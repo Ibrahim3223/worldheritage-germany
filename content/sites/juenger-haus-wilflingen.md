@@ -1,21 +1,49 @@
 ---
-title: "Jünger-Haus Wilflingen"
+title: Jünger-Haus Wilflingen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1375
 longitude: 9.35631
 images:
-  - "/images-sites/juenger-haus-wilflingen/01-8873d28d-800w.webp"
-  - "/images-sites/juenger-haus-wilflingen/02-4f6dad8d-800w.webp"
-  - "/images-sites/juenger-haus-wilflingen/03-165ce8d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ernst_Jünger_4.jpg/1200px-Ernst_Jünger_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ernst_Jünger_5.jpg/1200px-Ernst_Jünger_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wilflingen_5.jpg/1200px-Wilflingen_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jünger-Haus_Wilflingen.jpg/1200px-Jünger-Haus_Wilflingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1200px-Maison_ernst_jünger_wilflingen.jpg
+image_srcset:
+  Ernst Jünger 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ernst_Jünger_4.jpg/400px-Ernst_Jünger_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ernst_Jünger_4.jpg/800px-Ernst_Jünger_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ernst_Jünger_4.jpg/1200px-Ernst_Jünger_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ernst_Jünger_4.jpg/1920px-Ernst_Jünger_4.jpg
+  Ernst Jünger 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ernst_Jünger_5.jpg/400px-Ernst_Jünger_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ernst_Jünger_5.jpg/800px-Ernst_Jünger_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ernst_Jünger_5.jpg/1200px-Ernst_Jünger_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ernst_Jünger_5.jpg/1920px-Ernst_Jünger_5.jpg
+  Wilflingen 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wilflingen_5.jpg/400px-Wilflingen_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wilflingen_5.jpg/800px-Wilflingen_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wilflingen_5.jpg/1200px-Wilflingen_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wilflingen_5.jpg/1920px-Wilflingen_5.jpg
+  Jünger-Haus Wilflingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jünger-Haus_Wilflingen.jpg/400px-Jünger-Haus_Wilflingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jünger-Haus_Wilflingen.jpg/800px-Jünger-Haus_Wilflingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jünger-Haus_Wilflingen.jpg/1200px-Jünger-Haus_Wilflingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jünger-Haus_Wilflingen.jpg/1920px-Jünger-Haus_Wilflingen.jpg
+  Maison ernst jünger wilflingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/400px-Maison_ernst_jünger_wilflingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/800px-Maison_ernst_jünger_wilflingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1200px-Maison_ernst_jünger_wilflingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Maison_ernst_jünger_wilflingen.jpg/1920px-Maison_ernst_jünger_wilflingen.jpg
 ---
 
 ## Overview

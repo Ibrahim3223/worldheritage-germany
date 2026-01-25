@@ -21,7 +21,7 @@ longitude: 9.57875
 
 # Images
 images:
-  - "/images-sites/schloss-neuenstein/01-1ff3820c-800w.webp"
+  - "/images/schloss-neuenstein/01-1ff3820c-800w.webp"
 ---
 
 ## Overview

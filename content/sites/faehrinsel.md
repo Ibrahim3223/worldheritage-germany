@@ -1,19 +1,43 @@
 ---
-title: "Fährinsel"
+title: Fährinsel
 date: 2026-01-23
 draft: false
-description: "island"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.54388889
 longitude: 13.12083333
 images:
-  - "/images-sites/faehrinsel/01-7c29c772-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG/1200px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG/1200px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG/1200px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fahrinsel_(3932576066).jpg/1200px-Fahrinsel_(3932576066).jpg
+image_srcset:
+  Hiddensee, Hassenort, Fährinsel und Seehof auf Rügen (2011-05-21) 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG/400px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG/800px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG/1200px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG/1920px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_2.JPG
+  Hiddensee, Hassenort, Fährinsel und Seehof auf Rügen (2011-05-21) 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG/400px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG/800px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG/1200px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG/1920px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21)_3.JPG
+  Hiddensee, Hassenort, Fährinsel und Seehof auf Rügen (2011-05-21).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG/400px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG/800px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG/1200px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG/1920px-Hiddensee,_Hassenort,_Fährinsel_und_Seehof_auf_Rügen_(2011-05-21).JPG
+  Fahrinsel (3932576066).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fahrinsel_(3932576066).jpg/400px-Fahrinsel_(3932576066).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fahrinsel_(3932576066).jpg/800px-Fahrinsel_(3932576066).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fahrinsel_(3932576066).jpg/1200px-Fahrinsel_(3932576066).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fahrinsel_(3932576066).jpg/1920px-Fahrinsel_(3932576066).jpg
 ---
 
 ## Overview

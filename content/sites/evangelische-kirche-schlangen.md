@@ -1,20 +1,51 @@
 ---
-title: "Evangelische Kirche Schlangen"
-site_name: "Evangelische Kirche Schlangen"
-slug: "evangelische-kirche-schlangen"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Evangelische Kirche Schlangen
+site_name: Evangelische Kirche Schlangen
+slug: evangelische-kirche-schlangen
+region: North Rhine-Westphalia
 latitude: 51.8083
 longitude: 8.84499
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380895"
-description: "In the serene region of Schlangen, North Rhine-Westphalia, Germany, lies the Evangelische Kirche Schlangen, a church building that reflects the distinct..."
+- church building
+- religious site
+wikidata_id: Q1380895
+description: In the serene region of Schlangen, North Rhine-Westphalia, Germany, lies
+  the Evangelische Kirche Schlangen, a church building that reflects the distinct...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche%20Schlangen.jpg/1200px-Kirche%20Schlangen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg/1200px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg/1200px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/1200px-Kirche_Schlangen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schlangen_ev.-ref.Kirche.jpg/1200px-Schlangen_ev.-ref.Kirche.jpg
+image_srcset:
+  Kirche%20Schlangen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche%20Schlangen.jpg/400px-Kirche%20Schlangen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche%20Schlangen.jpg/800px-Kirche%20Schlangen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche%20Schlangen.jpg/1200px-Kirche%20Schlangen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirche%20Schlangen.jpg/1920px-Kirche%20Schlangen.jpg
+  Schlangen - 07 - Evangelische Kirche Schlangen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg/400px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg/800px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg/1200px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg/1920px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(1).jpg
+  Schlangen - 07 - Evangelische Kirche Schlangen (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg/400px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg/800px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg/1200px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg/1920px-Schlangen_-_07_-_Evangelische_Kirche_Schlangen_(2).jpg
+  Kirche Schlangen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/400px-Kirche_Schlangen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/800px-Kirche_Schlangen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/1200px-Kirche_Schlangen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirche_Schlangen.jpg/1920px-Kirche_Schlangen.jpg
+  Schlangen ev.-ref.Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schlangen_ev.-ref.Kirche.jpg/400px-Schlangen_ev.-ref.Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schlangen_ev.-ref.Kirche.jpg/800px-Schlangen_ev.-ref.Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schlangen_ev.-ref.Kirche.jpg/1200px-Schlangen_ev.-ref.Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schlangen_ev.-ref.Kirche.jpg/1920px-Schlangen_ev.-ref.Kirche.jpg
 ---
 
 ## Overview

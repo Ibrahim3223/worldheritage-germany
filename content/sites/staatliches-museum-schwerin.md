@@ -21,7 +21,7 @@ longitude: 11.4183
 
 # Images
 images:
-  - "/images-sites/staatliches-museum-schwerin/01-9bcdfa15-800w.webp"
+  - "/images/staatliches-museum-schwerin/01-9bcdfa15-800w.webp"
 ---
 
 ## Overview

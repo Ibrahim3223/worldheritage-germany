@@ -13,7 +13,7 @@ regions:
 latitude: 52.5066
 longitude: 13.3818
 images:
-  - "/images-sites/martin-gropius-bau/01-28462fef-800w.webp"
+  - "/images/martin-gropius-bau/01-28462fef-800w.webp"
 ---
 
 ## Overview

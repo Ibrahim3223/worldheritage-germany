@@ -1,19 +1,50 @@
 ---
-title: "Frauenbergkapelle"
-site_name: "Frauenbergkapelle"
-slug: "frauenbergkapelle"
-region: "Bavaria"
-
-# Location
+title: Frauenbergkapelle
+site_name: Frauenbergkapelle
+slug: frauenbergkapelle
+region: Bavaria
 latitude: 48.886097
 longitude: 11.17894
 regions:
-    - "Bavaria"
-heritage_type: "cultural site"
+- Bavaria
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1451604"
-description: "The Frauenbergkapelle, a striking example of Baroque architecture, invites visitors to explore its spiritual and historical significance in Germany. Sit..."
+- cultural site
+wikidata_id: Q1451604
+description: The Frauenbergkapelle, a striking example of Baroque architecture, invites
+  visitors to explore its spiritual and historical significance in Germany. Sit...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg/1200px-Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg/1200px-Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg/1200px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg/1200px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg/1200px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg
+image_srcset:
+  Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg/400px-Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg/800px-Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg/1200px-Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg/1920px-Eichst%C3%A4tt%20-%20Frauenbergkapelle.jpg
+  Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg/400px-Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg/800px-Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg/1200px-Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg/1920px-Frauenbergkapelle%20Eichst%C3%A4tt%20-1.jpg
+  Frauenberg Chapel, Weltenburg Abbey, Germany, 20250501 0843 8249.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg/400px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg/800px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg/1200px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg/1920px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0843_8249.jpg
+  Frauenberg Chapel, Weltenburg Abbey, Germany, 20250501 0846 8254.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg/400px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg/800px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg/1200px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg/1920px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0846_8254.jpg
+  Frauenberg Chapel, Weltenburg Abbey, Germany, 20250501 0847 8256.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg/400px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg/800px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg/1200px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg/1920px-Frauenberg_Chapel,_Weltenburg_Abbey,_Germany,_20250501_0847_8256.jpg
 ---
 
 ## Overview

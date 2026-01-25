@@ -1,19 +1,49 @@
 ---
-title: "Aiplspitz"
+title: Aiplspitz
 date: 2026-01-23
 draft: false
-description: "mountain in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.673611111
 longitude: 11.924444444
 images:
-  - "/images-sites/aiplspitz/01-b3c05f8d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg/1200px-Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg/1200px-Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayrischzell_geitau_wendelsteinbahn.jpg/1200px-Bayrischzell_geitau_wendelsteinbahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aiplspitz_mit_Wendelstein-1.jpg/1200px-Aiplspitz_mit_Wendelstein-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aiplspitz_DxO.jpg/1200px-Aiplspitz_DxO.jpg
+image_srcset:
+  Pflanze (?) - Jägerkamp - Aiplspitz (9800275285).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg/400px-Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg/800px-Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg/1200px-Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg/1920px-Pflanze_(?)_-_Jägerkamp_-_Aiplspitz_(9800275285).jpg
+  Bayrischzell-Wendelstein hike 11 04 40 656000.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg/400px-Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg/800px-Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg/1200px-Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg/1920px-Bayrischzell-Wendelstein_hike_11_04_40_656000.jpeg
+  Bayrischzell geitau wendelsteinbahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayrischzell_geitau_wendelsteinbahn.jpg/400px-Bayrischzell_geitau_wendelsteinbahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayrischzell_geitau_wendelsteinbahn.jpg/800px-Bayrischzell_geitau_wendelsteinbahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayrischzell_geitau_wendelsteinbahn.jpg/1200px-Bayrischzell_geitau_wendelsteinbahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayrischzell_geitau_wendelsteinbahn.jpg/1920px-Bayrischzell_geitau_wendelsteinbahn.jpg
+  Aiplspitz mit Wendelstein-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aiplspitz_mit_Wendelstein-1.jpg/400px-Aiplspitz_mit_Wendelstein-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aiplspitz_mit_Wendelstein-1.jpg/800px-Aiplspitz_mit_Wendelstein-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aiplspitz_mit_Wendelstein-1.jpg/1200px-Aiplspitz_mit_Wendelstein-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Aiplspitz_mit_Wendelstein-1.jpg/1920px-Aiplspitz_mit_Wendelstein-1.jpg
+  Aiplspitz DxO.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aiplspitz_DxO.jpg/400px-Aiplspitz_DxO.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aiplspitz_DxO.jpg/800px-Aiplspitz_DxO.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aiplspitz_DxO.jpg/1200px-Aiplspitz_DxO.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aiplspitz_DxO.jpg/1920px-Aiplspitz_DxO.jpg
 ---
 
 ## Overview

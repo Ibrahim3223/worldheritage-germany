@@ -1,21 +1,49 @@
 ---
-title: "Dansk Centralbibliotek for Sydslesvig"
+title: Dansk Centralbibliotek for Sydslesvig
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 54.792
 longitude: 9.43108
 images:
-  - "/images-sites/dansk-centralbibliotek-for-sydslesvig/01-549d95a2-800w.webp"
-  - "/images-sites/dansk-centralbibliotek-for-sydslesvig/02-db2cfe9c-800w.webp"
-  - "/images-sites/dansk-centralbibliotek-for-sydslesvig/03-7de7885b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SlesvigBibliotek.jpg/1200px-SlesvigBibliotek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg/1200px-Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1200px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg/1200px-Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/201607_Husum_bibliotek.jpg/1200px-201607_Husum_bibliotek.jpg
+image_srcset:
+  SlesvigBibliotek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SlesvigBibliotek.jpg/400px-SlesvigBibliotek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SlesvigBibliotek.jpg/800px-SlesvigBibliotek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SlesvigBibliotek.jpg/1200px-SlesvigBibliotek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/SlesvigBibliotek.jpg/1920px-SlesvigBibliotek.jpg
+  Hängende Schuhe in der Norderstraße bei der Dänischen Bibliothek, Bild 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg/400px-Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg/800px-Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg/1200px-Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg/1920px-Hängende_Schuhe_in_der_Norderstraße_bei_der_Dänischen_Bibliothek,_Bild_02.jpg
+  Dänische Zentralbibliothek für Südschleswig, Bild 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/400px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/800px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1200px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG/1920px-Dänische_Zentralbibliothek_für_Südschleswig,_Bild_03.JPG
+  Bogbussen fra Dansk Centralbibliotek Sydslesvig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg/400px-Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg/800px-Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg/1200px-Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg/1920px-Bogbussen_fra_Dansk_Centralbibliotek_Sydslesvig.jpg
+  201607 Husum bibliotek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/201607_Husum_bibliotek.jpg/400px-201607_Husum_bibliotek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/201607_Husum_bibliotek.jpg/800px-201607_Husum_bibliotek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/201607_Husum_bibliotek.jpg/1200px-201607_Husum_bibliotek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/201607_Husum_bibliotek.jpg/1920px-201607_Husum_bibliotek.jpg
 ---
 
 ## Overview

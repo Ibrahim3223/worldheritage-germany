@@ -21,7 +21,7 @@ longitude: 11.0622
 
 # Images
 images:
-  - "/images-sites/runneburg/01-a47b8fef-800w.webp"
+  - "/images/runneburg/01-a47b8fef-800w.webp"
 ---
 
 ## Overview

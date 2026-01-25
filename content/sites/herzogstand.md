@@ -1,21 +1,49 @@
 ---
-title: "Herzogstand"
+title: Herzogstand
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.613666666
 longitude: 11.307666666
 images:
-  - "/images-sites/herzogstand/01-0dee86f3-800w.webp"
-  - "/images-sites/herzogstand/02-1215763a-800w.webp"
-  - "/images-sites/herzogstand/03-c7091643-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HerzogstandPano1.jpg/1200px-HerzogstandPano1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HerzogstandPano2.jpg/1200px-HerzogstandPano2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/1200px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Audi_Alpentour_2013_(11169053303).jpg/1200px-Audi_Alpentour_2013_(11169053303).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/1200px-Sonnenuntergang_am_Heimgarten.jpg
+image_srcset:
+  HerzogstandPano1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HerzogstandPano1.jpg/400px-HerzogstandPano1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HerzogstandPano1.jpg/800px-HerzogstandPano1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HerzogstandPano1.jpg/1200px-HerzogstandPano1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HerzogstandPano1.jpg/1920px-HerzogstandPano1.jpg
+  HerzogstandPano2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HerzogstandPano2.jpg/400px-HerzogstandPano2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HerzogstandPano2.jpg/800px-HerzogstandPano2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HerzogstandPano2.jpg/1200px-HerzogstandPano2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/HerzogstandPano2.jpg/1920px-HerzogstandPano2.jpg
+  Walchensee Heimgarten Fahrenbergkopf Herzogstand 2020-10-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/400px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/800px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/1200px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg/1920px-Walchensee_Heimgarten_Fahrenbergkopf_Herzogstand_2020-10-25.jpg
+  Audi Alpentour 2013 (11169053303).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Audi_Alpentour_2013_(11169053303).jpg/400px-Audi_Alpentour_2013_(11169053303).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Audi_Alpentour_2013_(11169053303).jpg/800px-Audi_Alpentour_2013_(11169053303).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Audi_Alpentour_2013_(11169053303).jpg/1200px-Audi_Alpentour_2013_(11169053303).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Audi_Alpentour_2013_(11169053303).jpg/1920px-Audi_Alpentour_2013_(11169053303).jpg
+  Sonnenuntergang am Heimgarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/400px-Sonnenuntergang_am_Heimgarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/800px-Sonnenuntergang_am_Heimgarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/1200px-Sonnenuntergang_am_Heimgarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sonnenuntergang_am_Heimgarten.jpg/1920px-Sonnenuntergang_am_Heimgarten.jpg
 ---
 
 ## Overview

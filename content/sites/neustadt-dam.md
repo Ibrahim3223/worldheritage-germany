@@ -13,7 +13,7 @@ regions:
 latitude: 51.58055556
 longitude: 10.86722222
 images:
-  - "/images-sites/neustadt-dam/01-530d0f64-800w.webp"
+  - "/images/neustadt-dam/01-530d0f64-800w.webp"
 ---
 
 ## Overview

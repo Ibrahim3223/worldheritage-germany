@@ -1,27 +1,49 @@
 ---
-title: "Burg Lüdinghausen"
+title: Burg Lüdinghausen
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.7717
 longitude: 7.43972
-
-# Images
 images:
-  - "/images-sites/burg-luedinghausen/01-7ba97b79-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg
+image_srcset:
+  Lüdinghausen, Burg Lüdinghausen -- 2016 -- 3572.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg/400px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg/800px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg/1920px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3572.jpg
+  Lüdinghausen, Burg Lüdinghausen -- 2016 -- 3558.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg/400px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg/800px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg/1920px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3558.jpg
+  Lüdinghausen, Burg Lüdinghausen -- 2016 -- 3593.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg/400px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg/800px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg/1920px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3593.jpg
+  Lüdinghausen, Burg Lüdinghausen -- 2016 -- 3592.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg/400px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg/800px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg/1920px-Lüdinghausen,_Burg_Lüdinghausen_--_2016_--_3592.jpg
+  Lüdinghausen, Burg Lüdinghausen -- 2014 -- 5500-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg/400px-Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg/800px-Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg/1200px-Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg/1920px-Lüdinghausen,_Burg_Lüdinghausen_--_2014_--_5500-2.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Ilsenburg Abbey"
+title: Ilsenburg Abbey
 date: 2026-01-23
 draft: false
-description: "former abbey of the Benedictine Order in Ilsenburg, Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former abbey of the Benedictine Order in Ilsenburg, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.859722222
 longitude: 10.678611111
 images:
-  - "/images-sites/ilsenburg-abbey/01-a8f99047-800w.webp"
-  - "/images-sites/ilsenburg-abbey/02-90cce26b-800w.webp"
-  - "/images-sites/ilsenburg-abbey/03-50e15588-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kloster_Ilsenburg,_Harz.jpg/1200px-Kloster_Ilsenburg,_Harz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KlosterIlsenburg-2019-msu-4553.jpg/1200px-KlosterIlsenburg-2019-msu-4553.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kloster_Ilsenburg_von_WNW.jpg/1200px-Kloster_Ilsenburg_von_WNW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Ilsenburg_Gästehaus_von_SSW.jpg/1200px-Kloster_Ilsenburg_Gästehaus_von_SSW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IlsenburgKloster.jpg/1200px-IlsenburgKloster.jpg
+image_srcset:
+  Kloster Ilsenburg, Harz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kloster_Ilsenburg,_Harz.jpg/400px-Kloster_Ilsenburg,_Harz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kloster_Ilsenburg,_Harz.jpg/800px-Kloster_Ilsenburg,_Harz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kloster_Ilsenburg,_Harz.jpg/1200px-Kloster_Ilsenburg,_Harz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kloster_Ilsenburg,_Harz.jpg/1920px-Kloster_Ilsenburg,_Harz.jpg
+  KlosterIlsenburg-2019-msu-4553.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KlosterIlsenburg-2019-msu-4553.jpg/400px-KlosterIlsenburg-2019-msu-4553.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KlosterIlsenburg-2019-msu-4553.jpg/800px-KlosterIlsenburg-2019-msu-4553.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KlosterIlsenburg-2019-msu-4553.jpg/1200px-KlosterIlsenburg-2019-msu-4553.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KlosterIlsenburg-2019-msu-4553.jpg/1920px-KlosterIlsenburg-2019-msu-4553.jpg
+  Kloster Ilsenburg von WNW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kloster_Ilsenburg_von_WNW.jpg/400px-Kloster_Ilsenburg_von_WNW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kloster_Ilsenburg_von_WNW.jpg/800px-Kloster_Ilsenburg_von_WNW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kloster_Ilsenburg_von_WNW.jpg/1200px-Kloster_Ilsenburg_von_WNW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kloster_Ilsenburg_von_WNW.jpg/1920px-Kloster_Ilsenburg_von_WNW.jpg
+  Kloster Ilsenburg Gästehaus von SSW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Ilsenburg_Gästehaus_von_SSW.jpg/400px-Kloster_Ilsenburg_Gästehaus_von_SSW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Ilsenburg_Gästehaus_von_SSW.jpg/800px-Kloster_Ilsenburg_Gästehaus_von_SSW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Ilsenburg_Gästehaus_von_SSW.jpg/1200px-Kloster_Ilsenburg_Gästehaus_von_SSW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kloster_Ilsenburg_Gästehaus_von_SSW.jpg/1920px-Kloster_Ilsenburg_Gästehaus_von_SSW.jpg
+  IlsenburgKloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IlsenburgKloster.jpg/400px-IlsenburgKloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IlsenburgKloster.jpg/800px-IlsenburgKloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IlsenburgKloster.jpg/1200px-IlsenburgKloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IlsenburgKloster.jpg/1920px-IlsenburgKloster.jpg
 ---
 
 ## Overview

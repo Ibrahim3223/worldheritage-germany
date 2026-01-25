@@ -1,21 +1,49 @@
 ---
-title: "Bad Mergentheim Wildlife Park"
+title: Bad Mergentheim Wildlife Park
 date: 2026-01-24
 draft: false
-description: "German zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: German zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4683
 longitude: 9.79694
 images:
-  - "/images-sites/bad-mergentheim-wildlife-park/01-8e37737d-800w.webp"
-  - "/images-sites/bad-mergentheim-wildlife-park/02-744cbf0a-800w.webp"
-  - "/images-sites/bad-mergentheim-wildlife-park/03-d7a80c59-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg/1200px-2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg/1200px-2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg/1200px-2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg/1200px-2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1200px-Wildparkeingang_MGH.jpg
+image_srcset:
+  2023-08-25 Elche - Alces alces in Wildpark Bad Mergentheim 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg/400px-2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg/800px-2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg/1200px-2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg/1920px-2023-08-25_Elche_-_Alces_alces_in_Wildpark_Bad_Mergentheim_02.jpg
+  2023-08-25 Enten in der Wasserstelle des Wildschweingeheges im Wildpark Bad Mergentheim 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg/400px-2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg/800px-2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg/1200px-2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg/1920px-2023-08-25_Enten_in_der_Wasserstelle_des_Wildschweingeheges_im_Wildpark_Bad_Mergentheim_11.jpg
+  2023-08-25 Geiergehege im Wildpark Bad Mergentheim 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg/400px-2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg/800px-2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg/1200px-2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg/1920px-2023-08-25_Geiergehege_im_Wildpark_Bad_Mergentheim_01.jpg
+  2025-09-07 Wildkatzen im Wildpark Bad Mergentheim (50378).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg/400px-2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg/800px-2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg/1200px-2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg/1920px-2025-09-07_Wildkatzen_im_Wildpark_Bad_Mergentheim_(50378).jpg
+  Wildparkeingang MGH.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/400px-Wildparkeingang_MGH.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/800px-Wildparkeingang_MGH.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1200px-Wildparkeingang_MGH.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wildparkeingang_MGH.jpg/1920px-Wildparkeingang_MGH.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.4468
 longitude: 7.7692
 images:
-  - "/images-sites/pfalztheater/01-45d4ffe6-800w.webp"
-  - "/images-sites/pfalztheater/02-fc2937ef-800w.webp"
-  - "/images-sites/pfalztheater/03-f536fb05-800w.webp"
+  - "/images/pfalztheater/01-45d4ffe6-800w.webp"
+  - "/images/pfalztheater/02-fc2937ef-800w.webp"
+  - "/images/pfalztheater/03-f536fb05-800w.webp"
 ---
 
 ## Overview

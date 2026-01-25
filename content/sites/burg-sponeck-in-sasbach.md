@@ -1,29 +1,49 @@
 ---
-title: "Burg Sponeck in Sasbach"
+title: Burg Sponeck in Sasbach
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.1141
 longitude: 7.5839
-
-# Images
 images:
-  - "/images-sites/burg-sponeck-in-sasbach/01-1df26902-800w.webp"
-  - "/images-sites/burg-sponeck-in-sasbach/02-55c94efb-800w.webp"
-  - "/images-sites/burg-sponeck-in-sasbach/03-e27ccf5e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg/1200px-ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kaiserstuhl_2012_133.jpg/1200px-Kaiserstuhl_2012_133.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_134.jpg/1200px-Kaiserstuhl_2012_134.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_135.jpg/1200px-Kaiserstuhl_2012_135.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_Laurent-Atthalin-Tour_de_Sponech.jpg/1200px-Louis_Laurent-Atthalin-Tour_de_Sponech.jpg
+image_srcset:
+  ETH-BIB-Kaiserstuhlgebirge, Burg Sponeck von Norden-Dia 247-05821.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg/400px-ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg/800px-ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg/1200px-ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg/1920px-ETH-BIB-Kaiserstuhlgebirge,_Burg_Sponeck_von_Norden-Dia_247-05821.tif.jpg
+  Kaiserstuhl 2012 133.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kaiserstuhl_2012_133.jpg/400px-Kaiserstuhl_2012_133.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kaiserstuhl_2012_133.jpg/800px-Kaiserstuhl_2012_133.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kaiserstuhl_2012_133.jpg/1200px-Kaiserstuhl_2012_133.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kaiserstuhl_2012_133.jpg/1920px-Kaiserstuhl_2012_133.jpg
+  Kaiserstuhl 2012 134.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_134.jpg/400px-Kaiserstuhl_2012_134.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_134.jpg/800px-Kaiserstuhl_2012_134.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_134.jpg/1200px-Kaiserstuhl_2012_134.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_134.jpg/1920px-Kaiserstuhl_2012_134.jpg
+  Kaiserstuhl 2012 135.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_135.jpg/400px-Kaiserstuhl_2012_135.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_135.jpg/800px-Kaiserstuhl_2012_135.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_135.jpg/1200px-Kaiserstuhl_2012_135.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kaiserstuhl_2012_135.jpg/1920px-Kaiserstuhl_2012_135.jpg
+  Louis Laurent-Atthalin-Tour de Sponech.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_Laurent-Atthalin-Tour_de_Sponech.jpg/400px-Louis_Laurent-Atthalin-Tour_de_Sponech.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_Laurent-Atthalin-Tour_de_Sponech.jpg/800px-Louis_Laurent-Atthalin-Tour_de_Sponech.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_Laurent-Atthalin-Tour_de_Sponech.jpg/1200px-Louis_Laurent-Atthalin-Tour_de_Sponech.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_Laurent-Atthalin-Tour_de_Sponech.jpg/1920px-Louis_Laurent-Atthalin-Tour_de_Sponech.jpg
 ---
 
 ## Overview

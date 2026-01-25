@@ -1,21 +1,50 @@
 ---
-title: "Hygieia-Fountain"
+title: Hygieia-Fountain
 date: 2026-01-23
 draft: false
-description: "Fountain by Joseph von Kramerinside the Court of Hamburg townhall"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: Fountain by Joseph von Kramerinside the Court of Hamburg townhall
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 53.550258
 longitude: 9.991934
 images:
-  - "/images-sites/hygieia-fountain/01-d52e5355-800w.webp"
-  - "/images-sites/hygieia-fountain/02-00c2ab9f-800w.webp"
-  - "/images-sites/hygieia-fountain/03-335d0c00-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG/1200px-St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ВМА,_сад_парадного_двора02.jpg/1200px-ВМА,_сад_парадного_двора02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Здание_штаба_Военно-медицинской_академии2.jpg/1200px-Здание_штаба_Военно-медицинской_академии2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HH_Hygieia-Brunnen.jpg/1200px-HH_Hygieia-Brunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Фонтан_«Гигиея».jpg/1200px-Фонтан_«Гигиея».jpg
+image_srcset:
+  ? St. Petersburg. Imperial Academy of Medical and Surgical (Military Medical). The
+    main building and the statue-fountain "Hygieia".JPG
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG/400px-St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG/800px-St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG/1200px-St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG/1920px-St._Petersburg._Imperial_Academy_of_Medical_and_Surgical_(Military_Medical)._The_main_building_and_the_statue-fountain_"Hygieia".JPG
+  ВМА, сад парадного двора02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ВМА,_сад_парадного_двора02.jpg/400px-ВМА,_сад_парадного_двора02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ВМА,_сад_парадного_двора02.jpg/800px-ВМА,_сад_парадного_двора02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ВМА,_сад_парадного_двора02.jpg/1200px-ВМА,_сад_парадного_двора02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ВМА,_сад_парадного_двора02.jpg/1920px-ВМА,_сад_парадного_двора02.jpg
+  Здание штаба Военно-медицинской академии2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Здание_штаба_Военно-медицинской_академии2.jpg/400px-Здание_штаба_Военно-медицинской_академии2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Здание_штаба_Военно-медицинской_академии2.jpg/800px-Здание_штаба_Военно-медицинской_академии2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Здание_штаба_Военно-медицинской_академии2.jpg/1200px-Здание_штаба_Военно-медицинской_академии2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Здание_штаба_Военно-медицинской_академии2.jpg/1920px-Здание_штаба_Военно-медицинской_академии2.jpg
+  HH Hygieia-Brunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HH_Hygieia-Brunnen.jpg/400px-HH_Hygieia-Brunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HH_Hygieia-Brunnen.jpg/800px-HH_Hygieia-Brunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HH_Hygieia-Brunnen.jpg/1200px-HH_Hygieia-Brunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HH_Hygieia-Brunnen.jpg/1920px-HH_Hygieia-Brunnen.jpg
+  Фонтан «Гигиея».jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Фонтан_«Гигиея».jpg/400px-Фонтан_«Гигиея».jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Фонтан_«Гигиея».jpg/800px-Фонтан_«Гигиея».jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Фонтан_«Гигиея».jpg/1200px-Фонтан_«Гигиея».jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Фонтан_«Гигиея».jpg/1920px-Фонтан_«Гигиея».jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.259790143
 longitude: 10.967147311
 images:
-  - "/images-sites/landestheater-coburg/01-451a9261-800w.webp"
+  - "/images/landestheater-coburg/01-451a9261-800w.webp"
 ---
 
 ## Overview

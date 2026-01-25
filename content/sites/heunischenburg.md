@@ -1,27 +1,49 @@
 ---
-title: "Heunischenburg"
+title: Heunischenburg
 date: 2026-01-23
 draft: false
-description: "Stone fortification"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: Stone fortification
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2426
 longitude: 11.2654
-
-# Images
 images:
-  - "/images-sites/heunischenburg/01-ad8d3b22-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Heunischenburg.jpg/1200px-Heunischenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg/1200px-Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Heunischenburg_oben_b.jpg/1200px-Heunischenburg_oben_b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heunischenburg_vorne_b.jpg/1200px-Heunischenburg_vorne_b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Heunischenburg_1.jpg/1200px-Heunischenburg_1.jpg
+image_srcset:
+  Heunischenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Heunischenburg.jpg/400px-Heunischenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Heunischenburg.jpg/800px-Heunischenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Heunischenburg.jpg/1200px-Heunischenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Heunischenburg.jpg/1920px-Heunischenburg.jpg
+  Heunischenburg bei Kronach-Ofr. - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg/400px-Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg/800px-Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg/1200px-Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg/1920px-Heunischenburg_bei_Kronach-Ofr._-_panoramio.jpg
+  Heunischenburg oben b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Heunischenburg_oben_b.jpg/400px-Heunischenburg_oben_b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Heunischenburg_oben_b.jpg/800px-Heunischenburg_oben_b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Heunischenburg_oben_b.jpg/1200px-Heunischenburg_oben_b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Heunischenburg_oben_b.jpg/1920px-Heunischenburg_oben_b.jpg
+  Heunischenburg vorne b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heunischenburg_vorne_b.jpg/400px-Heunischenburg_vorne_b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heunischenburg_vorne_b.jpg/800px-Heunischenburg_vorne_b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heunischenburg_vorne_b.jpg/1200px-Heunischenburg_vorne_b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Heunischenburg_vorne_b.jpg/1920px-Heunischenburg_vorne_b.jpg
+  Heunischenburg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Heunischenburg_1.jpg/400px-Heunischenburg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Heunischenburg_1.jpg/800px-Heunischenburg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Heunischenburg_1.jpg/1200px-Heunischenburg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Heunischenburg_1.jpg/1920px-Heunischenburg_1.jpg
 ---
 
 ## Overview

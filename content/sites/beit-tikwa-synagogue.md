@@ -1,21 +1,37 @@
 ---
-title: "Beit Tikwa synagogue"
+title: Beit Tikwa synagogue
 date: 2026-01-23
 draft: false
-description: "synagogue in Bielefeld"
-region: "Germany"
-country: "Germany"
-heritage_type: "Synagogue"
+description: synagogue in Bielefeld
+region: Germany
+country: Germany
+heritage_type: Synagogue
 categories:
-  - "Synagogue"
+- Synagogue
 regions:
-  - "Germany"
+- Germany
 latitude: 52.0085
 longitude: 8.54339
 images:
-  - "/images-sites/beit-tikwa-synagogue/01-861baad7-800w.webp"
-  - "/images-sites/beit-tikwa-synagogue/02-3a9ae341-800w.webp"
-  - "/images-sites/beit-tikwa-synagogue/03-d735c36d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paul-Gerhardt-Kirche.JPG/1200px-Paul-Gerhardt-Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1200px-Synagoge_Bielefeld.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mozartstr_bi_stadtbahn.jpg/1200px-Mozartstr_bi_stadtbahn.jpg
+image_srcset:
+  Paul-Gerhardt-Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paul-Gerhardt-Kirche.JPG/400px-Paul-Gerhardt-Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paul-Gerhardt-Kirche.JPG/800px-Paul-Gerhardt-Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paul-Gerhardt-Kirche.JPG/1200px-Paul-Gerhardt-Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Paul-Gerhardt-Kirche.JPG/1920px-Paul-Gerhardt-Kirche.JPG
+  Synagoge Bielefeld.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/400px-Synagoge_Bielefeld.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/800px-Synagoge_Bielefeld.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1200px-Synagoge_Bielefeld.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Synagoge_Bielefeld.JPG/1920px-Synagoge_Bielefeld.JPG
+  Mozartstr bi stadtbahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mozartstr_bi_stadtbahn.jpg/400px-Mozartstr_bi_stadtbahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mozartstr_bi_stadtbahn.jpg/800px-Mozartstr_bi_stadtbahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mozartstr_bi_stadtbahn.jpg/1200px-Mozartstr_bi_stadtbahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mozartstr_bi_stadtbahn.jpg/1920px-Mozartstr_bi_stadtbahn.jpg
 ---
 
 ## Overview

@@ -21,8 +21,8 @@ longitude: 10.9625
 
 # Images
 images:
-  - "/images-sites/weissenburg-roman-fort/01-1ae46a1e-800w.webp"
-  - "/images-sites/weissenburg-roman-fort/03-f633df42-800w.webp"
+  - "/images/weissenburg-roman-fort/01-1ae46a1e-800w.webp"
+  - "/images/weissenburg-roman-fort/03-f633df42-800w.webp"
 ---
 
 ## Overview

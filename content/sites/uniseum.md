@@ -13,7 +13,7 @@ regions:
 latitude: 47.995345
 longitude: 7.84863
 images:
-  - "/images-sites/uniseum/01-5ce92258-800w.webp"
+  - "/images/uniseum/01-5ce92258-800w.webp"
 ---
 
 ## Overview

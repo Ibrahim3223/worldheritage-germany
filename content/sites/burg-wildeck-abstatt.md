@@ -1,27 +1,49 @@
 ---
-title: "Burg Wildeck, Abstatt"
+title: Burg Wildeck, Abstatt
 date: 2026-01-23
 draft: false
-description: "castle in Abstatt, Baden-Württemberg, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Abstatt, Baden-Württemberg, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.0694
 longitude: 9.32038
-
-# Images
 images:
-  - "/images-sites/burg-wildeck-abstatt/01-97b859c7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Wildeck,_DE_74232_Abstatt.jpg/1200px-Burg_Wildeck,_DE_74232_Abstatt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WildeckImNebel.jpg/1200px-WildeckImNebel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg/1200px-Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Abstatt_Burg_Wildeck_01_20061126.jpg/1200px-Abstatt_Burg_Wildeck_01_20061126.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Wildeck_Abstatt_2010.jpg/1200px-Burg_Wildeck_Abstatt_2010.jpg
+image_srcset:
+  Burg Wildeck, DE 74232 Abstatt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Wildeck,_DE_74232_Abstatt.jpg/400px-Burg_Wildeck,_DE_74232_Abstatt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Wildeck,_DE_74232_Abstatt.jpg/800px-Burg_Wildeck,_DE_74232_Abstatt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Wildeck,_DE_74232_Abstatt.jpg/1200px-Burg_Wildeck,_DE_74232_Abstatt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Wildeck,_DE_74232_Abstatt.jpg/1920px-Burg_Wildeck,_DE_74232_Abstatt.jpg
+  WildeckImNebel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WildeckImNebel.jpg/400px-WildeckImNebel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WildeckImNebel.jpg/800px-WildeckImNebel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WildeckImNebel.jpg/1200px-WildeckImNebel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WildeckImNebel.jpg/1920px-WildeckImNebel.jpg
+  Burg Wildeck - Abstatt und oberes Schozachtal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg/400px-Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg/800px-Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg/1200px-Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg/1920px-Burg_Wildeck_-_Abstatt_und_oberes_Schozachtal.jpg
+  Abstatt Burg Wildeck 01 20061126.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Abstatt_Burg_Wildeck_01_20061126.jpg/400px-Abstatt_Burg_Wildeck_01_20061126.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Abstatt_Burg_Wildeck_01_20061126.jpg/800px-Abstatt_Burg_Wildeck_01_20061126.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Abstatt_Burg_Wildeck_01_20061126.jpg/1200px-Abstatt_Burg_Wildeck_01_20061126.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Abstatt_Burg_Wildeck_01_20061126.jpg/1920px-Abstatt_Burg_Wildeck_01_20061126.jpg
+  Burg Wildeck Abstatt 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Wildeck_Abstatt_2010.jpg/400px-Burg_Wildeck_Abstatt_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Wildeck_Abstatt_2010.jpg/800px-Burg_Wildeck_Abstatt_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Wildeck_Abstatt_2010.jpg/1200px-Burg_Wildeck_Abstatt_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Wildeck_Abstatt_2010.jpg/1920px-Burg_Wildeck_Abstatt_2010.jpg
 ---
 
 ## Overview

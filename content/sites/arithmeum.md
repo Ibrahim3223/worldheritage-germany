@@ -1,19 +1,49 @@
 ---
-title: "Arithmeum"
+title: Arithmeum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Science Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Science Museum
 categories:
-  - "Science Museum"
+- Science Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7306
 longitude: 7.10492
 images:
-  - "/images-sites/arithmeum/01-d92270c5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arithmeum_(Bonn)_jm01671.jpg/1200px-Arithmeum_(Bonn)_jm01671.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg/1200px-Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/1200px-Arithmeum_von_Norden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arithmeum_von_Osten.jpg/1200px-Arithmeum_von_Osten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmeum_Bonn.jpg/1200px-Arithmeum_Bonn.jpg
+image_srcset:
+  Arithmeum (Bonn) jm01671.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arithmeum_(Bonn)_jm01671.jpg/400px-Arithmeum_(Bonn)_jm01671.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arithmeum_(Bonn)_jm01671.jpg/800px-Arithmeum_(Bonn)_jm01671.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arithmeum_(Bonn)_jm01671.jpg/1200px-Arithmeum_(Bonn)_jm01671.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Arithmeum_(Bonn)_jm01671.jpg/1920px-Arithmeum_(Bonn)_jm01671.jpg
+  Bonn, Lennéstraße, Nordström, Sekvens.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg/400px-Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg/800px-Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg/1200px-Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg/1920px-Bonn,_Lennéstraße,_Nordström,_Sekvens.jpg
+  Arithmeum von Norden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/400px-Arithmeum_von_Norden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/800px-Arithmeum_von_Norden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/1200px-Arithmeum_von_Norden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Arithmeum_von_Norden.jpg/1920px-Arithmeum_von_Norden.jpg
+  Arithmeum von Osten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arithmeum_von_Osten.jpg/400px-Arithmeum_von_Osten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arithmeum_von_Osten.jpg/800px-Arithmeum_von_Osten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arithmeum_von_Osten.jpg/1200px-Arithmeum_von_Osten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arithmeum_von_Osten.jpg/1920px-Arithmeum_von_Osten.jpg
+  Arithmeum Bonn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmeum_Bonn.jpg/400px-Arithmeum_Bonn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmeum_Bonn.jpg/800px-Arithmeum_Bonn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmeum_Bonn.jpg/1200px-Arithmeum_Bonn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmeum_Bonn.jpg/1920px-Arithmeum_Bonn.jpg
 ---
 
 ## Overview

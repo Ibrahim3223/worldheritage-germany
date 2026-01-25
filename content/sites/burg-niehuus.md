@@ -1,19 +1,49 @@
 ---
-title: "Burg Niehuus"
+title: Burg Niehuus
 date: 2026-01-23
 draft: false
-description: "Burg in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Roman Villa"
+description: Burg in Deutschland
+region: Germany
+country: Germany
+heritage_type: Roman Villa
 categories:
-  - "Roman Villa"
+- Roman Villa
 regions:
-  - "Germany"
+- Germany
 latitude: 54.8288
 longitude: 9.3766
 images:
-  - "/images-sites/burg-niehuus/01-228c9862-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG/1200px-Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NiehuusBurgBlickZurFoerde.jpg/1200px-NiehuusBurgBlickZurFoerde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NiehuusBurgUebersichtMitGraben.jpg/1200px-NiehuusBurgUebersichtMitGraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg/1200px-FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg/1200px-FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg
+image_srcset:
+  Nahe der Holzbrücke, zum Schloßberg wo die Turmburg stand geblickt, Bild 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG/400px-Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG/800px-Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG/1200px-Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG/1920px-Nahe_der_Holzbrücke,_zum_Schloßberg_wo_die_Turmburg_stand_geblickt,_Bild_01.JPG
+  NiehuusBurgBlickZurFoerde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NiehuusBurgBlickZurFoerde.jpg/400px-NiehuusBurgBlickZurFoerde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NiehuusBurgBlickZurFoerde.jpg/800px-NiehuusBurgBlickZurFoerde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NiehuusBurgBlickZurFoerde.jpg/1200px-NiehuusBurgBlickZurFoerde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NiehuusBurgBlickZurFoerde.jpg/1920px-NiehuusBurgBlickZurFoerde.jpg
+  NiehuusBurgUebersichtMitGraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NiehuusBurgUebersichtMitGraben.jpg/400px-NiehuusBurgUebersichtMitGraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NiehuusBurgUebersichtMitGraben.jpg/800px-NiehuusBurgUebersichtMitGraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NiehuusBurgUebersichtMitGraben.jpg/1200px-NiehuusBurgUebersichtMitGraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NiehuusBurgUebersichtMitGraben.jpg/1920px-NiehuusBurgUebersichtMitGraben.jpg
+  FFH-Gebiet Niehuuser Tunneltal 03 (5 von 22).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg/400px-FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg/800px-FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg/1200px-FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg/1920px-FFH-Gebiet_Niehuuser_Tunneltal_03_(5_von_22).jpg
+  FFH-Gebiet Niehuuser Tunneltal 03 (6 von 22).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg/400px-FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg/800px-FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg/1200px-FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg/1920px-FFH-Gebiet_Niehuuser_Tunneltal_03_(6_von_22).jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.7658
 longitude: 6.23442
 images:
-  - "/images-sites/kupfermeisterfriedhof/01-ea4d3bb8-800w.webp"
+  - "/images/kupfermeisterfriedhof/01-ea4d3bb8-800w.webp"
 ---
 
 ## Overview

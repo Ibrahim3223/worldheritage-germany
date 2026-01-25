@@ -1,20 +1,45 @@
 ---
-title: "Ehrlichsche Gestiftskirche"
-site_name: "Ehrlichsche Gestiftskirche"
-slug: "ehrlichsche-gestiftskirche"
-region: "Saxony"
-
-# Location
+title: Ehrlichsche Gestiftskirche
+site_name: Ehrlichsche Gestiftskirche
+slug: ehrlichsche-gestiftskirche
+region: Saxony
 latitude: 51.0467
 longitude: 13.7548
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1300905"
-description: "In the heart of Dresden, a city renowned for its architectural beauty and rich history, lies the Ehrlichsche Gestiftskirche. This former church building..."
+- church building
+- religious site
+wikidata_id: Q1300905
+description: In the heart of Dresden, a city renowned for its architectural beauty
+  and rich history, lies the Ehrlichsche Gestiftskirche. This former church building...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg/1200px-Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg/1200px-Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg/1200px-12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eingang_Nazarethkirche_Dresden.jpg/1200px-Eingang_Nazarethkirche_Dresden.jpg
+image_srcset:
+  Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg/400px-Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg/800px-Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg/1200px-Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg/1920px-Fuente%20de%20St%C3%BCbel%20y%20colegiata%20bella%20%C3%A9poca%20dresde.jpg
+  Globus Album von Dresden und Sächsische Schweiz 36.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg/400px-Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg/800px-Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg/1200px-Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg/1920px-Globus_Album_von_Dresden_und_Sächsische_Schweiz_36.jpg
+  12679-Dresden-1911-Ausstellungspalast und Stübelbrunnen-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg/400px-12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg/800px-12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg/1200px-12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg/1920px-12679-Dresden-1911-Ausstellungspalast_und_Stübelbrunnen-Brück_&_Sohn_Kunstverlag.jpg
+  Eingang Nazarethkirche Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eingang_Nazarethkirche_Dresden.jpg/400px-Eingang_Nazarethkirche_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eingang_Nazarethkirche_Dresden.jpg/800px-Eingang_Nazarethkirche_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eingang_Nazarethkirche_Dresden.jpg/1200px-Eingang_Nazarethkirche_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eingang_Nazarethkirche_Dresden.jpg/1920px-Eingang_Nazarethkirche_Dresden.jpg
 ---
 
 ## Overview

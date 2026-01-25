@@ -1,19 +1,50 @@
 ---
-title: "Church in Friedrichshagen"
-site_name: "Church in Friedrichshagen"
-slug: "church-in-friedrichshagen"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Friedrichshagen
+site_name: Church in Friedrichshagen
+slug: church-in-friedrichshagen
+region: Schleswig-Holstein
 latitude: 53.8232
 longitude: 11.2818
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244285"
-description: "In the quaint region of Plüschow, Germany, the Church in Friedrichshagen stands as a remarkable example of Brick Gothic architecture. This church, const..."
+- cultural site
+wikidata_id: Q1244285
+description: In the quaint region of Plüschow, Germany, the Church in Friedrichshagen
+  stands as a remarkable example of Brick Gothic architecture. This church, const...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedrichshagen%20Kirche%201.jpg/1200px-Friedrichshagen%20Kirche%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Friedrichshagen_Upahl_Orgel_(02).jpg/1200px-Friedrichshagen_Upahl_Orgel_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/1200px-Friedrichshagen_Kirche_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Friedrichshagen_Kirche_2.jpg/1200px-Friedrichshagen_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichshagen_Kirche_7.jpg/1200px-Friedrichshagen_Kirche_7.jpg
+image_srcset:
+  Friedrichshagen%20Kirche%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedrichshagen%20Kirche%201.jpg/400px-Friedrichshagen%20Kirche%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedrichshagen%20Kirche%201.jpg/800px-Friedrichshagen%20Kirche%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedrichshagen%20Kirche%201.jpg/1200px-Friedrichshagen%20Kirche%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Friedrichshagen%20Kirche%201.jpg/1920px-Friedrichshagen%20Kirche%201.jpg
+  Friedrichshagen Upahl Orgel (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Friedrichshagen_Upahl_Orgel_(02).jpg/400px-Friedrichshagen_Upahl_Orgel_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Friedrichshagen_Upahl_Orgel_(02).jpg/800px-Friedrichshagen_Upahl_Orgel_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Friedrichshagen_Upahl_Orgel_(02).jpg/1200px-Friedrichshagen_Upahl_Orgel_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Friedrichshagen_Upahl_Orgel_(02).jpg/1920px-Friedrichshagen_Upahl_Orgel_(02).jpg
+  Friedrichshagen Kirche 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/400px-Friedrichshagen_Kirche_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/800px-Friedrichshagen_Kirche_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/1200px-Friedrichshagen_Kirche_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Friedrichshagen_Kirche_1.jpg/1920px-Friedrichshagen_Kirche_1.jpg
+  Friedrichshagen Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Friedrichshagen_Kirche_2.jpg/400px-Friedrichshagen_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Friedrichshagen_Kirche_2.jpg/800px-Friedrichshagen_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Friedrichshagen_Kirche_2.jpg/1200px-Friedrichshagen_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Friedrichshagen_Kirche_2.jpg/1920px-Friedrichshagen_Kirche_2.jpg
+  Friedrichshagen Kirche 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichshagen_Kirche_7.jpg/400px-Friedrichshagen_Kirche_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichshagen_Kirche_7.jpg/800px-Friedrichshagen_Kirche_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichshagen_Kirche_7.jpg/1200px-Friedrichshagen_Kirche_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Friedrichshagen_Kirche_7.jpg/1920px-Friedrichshagen_Kirche_7.jpg
 ---
 
 ## Overview

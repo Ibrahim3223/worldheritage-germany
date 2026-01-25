@@ -13,8 +13,8 @@ regions:
 latitude: 52.433333333
 longitude: 13.65
 images:
-  - "/images-sites/mueggelsee/02-9ceacd6c-800w.webp"
-  - "/images-sites/mueggelsee/03-5ed0c944-800w.webp"
+  - "/images/mueggelsee/02-9ceacd6c-800w.webp"
+  - "/images/mueggelsee/03-5ed0c944-800w.webp"
 ---
 
 ## Overview

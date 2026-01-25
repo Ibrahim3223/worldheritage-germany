@@ -1,20 +1,25 @@
 ---
-title: "Das verfluchte Jungfernloch"
+title: Das verfluchte Jungfernloch
 date: 2026-01-23
 draft: false
-description: "cave"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 50.960913888
 longitude: 10.309466666
 images:
-  - "/images-sites/das-verfluchte-jungfernloch/01-ae70c1b6-800w.webp"
-  - "/images-sites/das-verfluchte-jungfernloch/02-a4f109e5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ESA_CAVE.JPG/1200px-ESA_CAVE.JPG
+image_srcset:
+  ESA CAVE.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ESA_CAVE.JPG/400px-ESA_CAVE.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ESA_CAVE.JPG/800px-ESA_CAVE.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ESA_CAVE.JPG/1200px-ESA_CAVE.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ESA_CAVE.JPG/1920px-ESA_CAVE.JPG
 ---
 
 ## Overview

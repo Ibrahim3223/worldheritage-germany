@@ -1,19 +1,43 @@
 ---
-title: "Burg Alt-Urach"
+title: Burg Alt-Urach
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 47.87611111
 longitude: 8.19444444
 images:
-  - "/images-sites/burg-alt-urach/01-652192f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Alt-Urach_4181.jpg/1200px-Burg_Alt-Urach_4181.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Alt-Urach_4199.JPG/1200px-Burg_Alt-Urach_4199.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg_Alt-Urach_Infotafel.jpg/1200px-Burg_Alt-Urach_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Alt-Urach_Grundriss.png/1200px-Burg_Alt-Urach_Grundriss.png
+image_srcset:
+  Burg Alt-Urach 4181.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Alt-Urach_4181.jpg/400px-Burg_Alt-Urach_4181.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Alt-Urach_4181.jpg/800px-Burg_Alt-Urach_4181.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Alt-Urach_4181.jpg/1200px-Burg_Alt-Urach_4181.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Alt-Urach_4181.jpg/1920px-Burg_Alt-Urach_4181.jpg
+  Burg Alt-Urach 4199.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Alt-Urach_4199.JPG/400px-Burg_Alt-Urach_4199.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Alt-Urach_4199.JPG/800px-Burg_Alt-Urach_4199.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Alt-Urach_4199.JPG/1200px-Burg_Alt-Urach_4199.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Burg_Alt-Urach_4199.JPG/1920px-Burg_Alt-Urach_4199.JPG
+  Burg Alt-Urach Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg_Alt-Urach_Infotafel.jpg/400px-Burg_Alt-Urach_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg_Alt-Urach_Infotafel.jpg/800px-Burg_Alt-Urach_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg_Alt-Urach_Infotafel.jpg/1200px-Burg_Alt-Urach_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Burg_Alt-Urach_Infotafel.jpg/1920px-Burg_Alt-Urach_Infotafel.jpg
+  Burg Alt-Urach Grundriss.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Alt-Urach_Grundriss.png/400px-Burg_Alt-Urach_Grundriss.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Alt-Urach_Grundriss.png/800px-Burg_Alt-Urach_Grundriss.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Alt-Urach_Grundriss.png/1200px-Burg_Alt-Urach_Grundriss.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Alt-Urach_Grundriss.png/1920px-Burg_Alt-Urach_Grundriss.png
 ---
 
 ## Overview

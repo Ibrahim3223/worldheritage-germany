@@ -21,8 +21,8 @@ longitude: 9.18604
 
 # Images
 images:
-  - "/images-sites/talheim-death-pit/02-ba683d57-800w.webp"
-  - "/images-sites/talheim-death-pit/03-bc1c4eda-800w.webp"
+  - "/images/talheim-death-pit/02-ba683d57-800w.webp"
+  - "/images/talheim-death-pit/03-bc1c4eda-800w.webp"
 ---
 
 ## Overview

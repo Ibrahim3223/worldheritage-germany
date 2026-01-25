@@ -1,19 +1,49 @@
 ---
-title: "Hirsau Abbey"
+title: Hirsau Abbey
 date: 2026-01-23
 draft: false
-description: "former Benedictine abbey in Calw"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Benedictine abbey in Calw
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7378
 longitude: 8.7321
 images:
-  - "/images-sites/hirsau-abbey/01-c89a8031-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jagdschloss,_Kloster_Hirsau.jpg/1200px-Jagdschloss,_Kloster_Hirsau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20230414_Kloster_Hirsau_0317-8.jpg/1200px-20230414_Kloster_Hirsau_0317-8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hirsau_kloster_5.jpg/1200px-Hirsau_kloster_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlosterHirsau-Klosterkirche-4.jpg/1200px-KlosterHirsau-Klosterkirche-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/1200px-Kloster_Hirsau_2010.jpg
+image_srcset:
+  Jagdschloss, Kloster Hirsau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jagdschloss,_Kloster_Hirsau.jpg/400px-Jagdschloss,_Kloster_Hirsau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jagdschloss,_Kloster_Hirsau.jpg/800px-Jagdschloss,_Kloster_Hirsau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jagdschloss,_Kloster_Hirsau.jpg/1200px-Jagdschloss,_Kloster_Hirsau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jagdschloss,_Kloster_Hirsau.jpg/1920px-Jagdschloss,_Kloster_Hirsau.jpg
+  20230414 Kloster Hirsau 0317-8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20230414_Kloster_Hirsau_0317-8.jpg/400px-20230414_Kloster_Hirsau_0317-8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20230414_Kloster_Hirsau_0317-8.jpg/800px-20230414_Kloster_Hirsau_0317-8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20230414_Kloster_Hirsau_0317-8.jpg/1200px-20230414_Kloster_Hirsau_0317-8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20230414_Kloster_Hirsau_0317-8.jpg/1920px-20230414_Kloster_Hirsau_0317-8.jpg
+  Hirsau kloster 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hirsau_kloster_5.jpg/400px-Hirsau_kloster_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hirsau_kloster_5.jpg/800px-Hirsau_kloster_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hirsau_kloster_5.jpg/1200px-Hirsau_kloster_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hirsau_kloster_5.jpg/1920px-Hirsau_kloster_5.jpg
+  KlosterHirsau-Klosterkirche-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlosterHirsau-Klosterkirche-4.jpg/400px-KlosterHirsau-Klosterkirche-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlosterHirsau-Klosterkirche-4.jpg/800px-KlosterHirsau-Klosterkirche-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlosterHirsau-Klosterkirche-4.jpg/1200px-KlosterHirsau-Klosterkirche-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KlosterHirsau-Klosterkirche-4.jpg/1920px-KlosterHirsau-Klosterkirche-4.jpg
+  Kloster Hirsau 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/400px-Kloster_Hirsau_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/800px-Kloster_Hirsau_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/1200px-Kloster_Hirsau_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kloster_Hirsau_2010.jpg/1920px-Kloster_Hirsau_2010.jpg
 ---
 
 ## Overview

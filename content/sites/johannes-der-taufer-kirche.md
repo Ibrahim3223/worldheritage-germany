@@ -1,20 +1,52 @@
 ---
-title: "Johannes-der-Täufer-Kirche"
-site_name: "Johannes-der-Täufer-Kirche"
-slug: "johannes-der-taufer-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Johannes-der-Täufer-Kirche
+site_name: Johannes-der-Täufer-Kirche
+slug: johannes-der-taufer-kirche
+region: North Rhine-Westphalia
 latitude: 52.1392
 longitude: 8.14486
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1697132"
-description: "In the heart of Hilter, Germany, the Johannes-der-Täufer-Kirche stands as a significant emblem of Gothic Revival architecture. This church not only serv..."
+- church building
+- religious site
+wikidata_id: Q1697132
+description: In the heart of Hilter, Germany, the Johannes-der-Täufer-Kirche stands
+  as a significant emblem of Gothic Revival architecture. This church not only serv...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG/1200px-Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Johannes-der-Täufer-Kirche_Wettbergen_1.jpg/1200px-Johannes-der-Täufer-Kirche_Wettbergen_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johannes-der-Täufer-Kirche_Wettbergen_2.jpg/1200px-Johannes-der-Täufer-Kirche_Wettbergen_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg/1200px-1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hannover_Wettbergen_Kirche.JPG/1200px-Hannover_Wettbergen_Kirche.JPG
+image_srcset:
+  Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG/400px-Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG/800px-Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG/1200px-Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG/1920px-Hilter%2C%20kerk%20foto2%202007-07-15%2014.03.JPG
+  Johannes-der-Täufer-Kirche Wettbergen 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Johannes-der-Täufer-Kirche_Wettbergen_1.jpg/400px-Johannes-der-Täufer-Kirche_Wettbergen_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Johannes-der-Täufer-Kirche_Wettbergen_1.jpg/800px-Johannes-der-Täufer-Kirche_Wettbergen_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Johannes-der-Täufer-Kirche_Wettbergen_1.jpg/1200px-Johannes-der-Täufer-Kirche_Wettbergen_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Johannes-der-Täufer-Kirche_Wettbergen_1.jpg/1920px-Johannes-der-Täufer-Kirche_Wettbergen_1.jpg
+  Johannes-der-Täufer-Kirche Wettbergen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johannes-der-Täufer-Kirche_Wettbergen_2.jpg/400px-Johannes-der-Täufer-Kirche_Wettbergen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johannes-der-Täufer-Kirche_Wettbergen_2.jpg/800px-Johannes-der-Täufer-Kirche_Wettbergen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johannes-der-Täufer-Kirche_Wettbergen_2.jpg/1200px-Johannes-der-Täufer-Kirche_Wettbergen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Johannes-der-Täufer-Kirche_Wettbergen_2.jpg/1920px-Johannes-der-Täufer-Kirche_Wettbergen_2.jpg
+  ? 1761 circa Gruft Johannes der Täufer-Kirche Hannover- Wettbergen Sarg 3 Johann
+    Friedrich von Hansing Inschrift Fußhaupt.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg/400px-1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg/800px-1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg/1200px-1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg/1920px-1761_circa_Gruft_Johannes_der_Täufer-Kirche_Hannover-_Wettbergen_Sarg_3_Johann_Friedrich_von_Hansing_Inschrift_Fußhaupt.jpg
+  Hannover Wettbergen Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hannover_Wettbergen_Kirche.JPG/400px-Hannover_Wettbergen_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hannover_Wettbergen_Kirche.JPG/800px-Hannover_Wettbergen_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hannover_Wettbergen_Kirche.JPG/1200px-Hannover_Wettbergen_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hannover_Wettbergen_Kirche.JPG/1920px-Hannover_Wettbergen_Kirche.JPG
 ---
 
 ## Overview

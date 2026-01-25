@@ -1,21 +1,49 @@
 ---
-title: "Berlin-Spandau railway station"
+title: Berlin-Spandau railway station
 date: 2026-01-23
 draft: false
-description: "railway station situated in the Spandau district of Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station situated in the Spandau district of Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5347
 longitude: 13.1958
 images:
-  - "/images-sites/berlin-spandau-railway-station/01-36e712b5-800w.webp"
-  - "/images-sites/berlin-spandau-railway-station/02-576e9099-800w.webp"
-  - "/images-sites/berlin-spandau-railway-station/03-5ac9e14a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg/1200px-Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Birds_at_overhead_line_in_Berlin-Spandau.jpg/1200px-Birds_at_overhead_line_in_Berlin-Spandau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/1200px-2013-08_View_from_Rathaus_Spandau_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg/1200px-Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Spandau.jpg/1200px-Bahnhof_Spandau.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Spandau (S03 0010).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg/400px-Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg/800px-Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg/1200px-Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg/1920px-Berlin_S-Bahn_Bhf_Spandau_(S03_0010).jpg
+  Birds at overhead line in Berlin-Spandau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Birds_at_overhead_line_in_Berlin-Spandau.jpg/400px-Birds_at_overhead_line_in_Berlin-Spandau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Birds_at_overhead_line_in_Berlin-Spandau.jpg/800px-Birds_at_overhead_line_in_Berlin-Spandau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Birds_at_overhead_line_in_Berlin-Spandau.jpg/1200px-Birds_at_overhead_line_in_Berlin-Spandau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Birds_at_overhead_line_in_Berlin-Spandau.jpg/1920px-Birds_at_overhead_line_in_Berlin-Spandau.jpg
+  2013-08 View from Rathaus Spandau 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/400px-2013-08_View_from_Rathaus_Spandau_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/800px-2013-08_View_from_Rathaus_Spandau_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/1200px-2013-08_View_from_Rathaus_Spandau_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2013-08_View_from_Rathaus_Spandau_08.jpg/1920px-2013-08_View_from_Rathaus_Spandau_08.jpg
+  Bahnhof Berlin-Spandau, Gleis 3 (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg/400px-Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg/800px-Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg/1200px-Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg/1920px-Bahnhof_Berlin-Spandau,_Gleis_3_(2024).jpg
+  Bahnhof Spandau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Spandau.jpg/400px-Bahnhof_Spandau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Spandau.jpg/800px-Bahnhof_Spandau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Spandau.jpg/1200px-Bahnhof_Spandau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bahnhof_Spandau.jpg/1920px-Bahnhof_Spandau.jpg
 ---
 
 ## Overview

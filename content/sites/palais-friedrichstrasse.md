@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q130432401"
 description: "In the heart of Wiesbaden, Germany, the Palais Friedrichstraße stands as a distinguished palace and event venue, steeped in history and elegance. Establ..."
 images:
-  - "/images-sites/palais-friedrichstrasse/01-ca0da909-1920w.webp"
-  - "/images-sites/palais-friedrichstrasse/02-1e8cb95c-1920w.webp"
-  - "/images-sites/palais-friedrichstrasse/03-988d1d46-1920w.webp"
+  - "/images/palais-friedrichstrasse/01-ca0da909-1920w.webp"
+  - "/images/palais-friedrichstrasse/02-1e8cb95c-1920w.webp"
+  - "/images/palais-friedrichstrasse/03-988d1d46-1920w.webp"
 ---
 
 ## Overview

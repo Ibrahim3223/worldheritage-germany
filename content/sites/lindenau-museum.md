@@ -21,7 +21,7 @@ longitude: 12.4449
 
 # Images
 images:
-  - "/images-sites/lindenau-museum/01-c35fc729-800w.webp"
+  - "/images/lindenau-museum/01-c35fc729-800w.webp"
 ---
 
 ## Overview

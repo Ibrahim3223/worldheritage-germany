@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten der Universität Regensburg"
+title: Botanischer Garten der Universität Regensburg
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.9932
 longitude: 12.0915
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-universitaet-regensburg/01-fb62c257-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uni_Regensburg_-_panoramio.jpg/1200px-Uni_Regensburg_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uni_Regensburg_-_panoramio_(5).jpg/1200px-Uni_Regensburg_-_panoramio_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Uni_Regensburg_-_panoramio_(7).jpg/1200px-Uni_Regensburg_-_panoramio_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Uni_Regensburg_-_panoramio_(2).jpg/1200px-Uni_Regensburg_-_panoramio_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Uni-r_Botanischer_Garten_3.jpg/1200px-Uni-r_Botanischer_Garten_3.jpg
+image_srcset:
+  Uni Regensburg - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uni_Regensburg_-_panoramio.jpg/400px-Uni_Regensburg_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uni_Regensburg_-_panoramio.jpg/800px-Uni_Regensburg_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uni_Regensburg_-_panoramio.jpg/1200px-Uni_Regensburg_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Uni_Regensburg_-_panoramio.jpg/1920px-Uni_Regensburg_-_panoramio.jpg
+  Uni Regensburg - panoramio (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uni_Regensburg_-_panoramio_(5).jpg/400px-Uni_Regensburg_-_panoramio_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uni_Regensburg_-_panoramio_(5).jpg/800px-Uni_Regensburg_-_panoramio_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uni_Regensburg_-_panoramio_(5).jpg/1200px-Uni_Regensburg_-_panoramio_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Uni_Regensburg_-_panoramio_(5).jpg/1920px-Uni_Regensburg_-_panoramio_(5).jpg
+  Uni Regensburg - panoramio (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Uni_Regensburg_-_panoramio_(7).jpg/400px-Uni_Regensburg_-_panoramio_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Uni_Regensburg_-_panoramio_(7).jpg/800px-Uni_Regensburg_-_panoramio_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Uni_Regensburg_-_panoramio_(7).jpg/1200px-Uni_Regensburg_-_panoramio_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Uni_Regensburg_-_panoramio_(7).jpg/1920px-Uni_Regensburg_-_panoramio_(7).jpg
+  Uni Regensburg - panoramio (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Uni_Regensburg_-_panoramio_(2).jpg/400px-Uni_Regensburg_-_panoramio_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Uni_Regensburg_-_panoramio_(2).jpg/800px-Uni_Regensburg_-_panoramio_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Uni_Regensburg_-_panoramio_(2).jpg/1200px-Uni_Regensburg_-_panoramio_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Uni_Regensburg_-_panoramio_(2).jpg/1920px-Uni_Regensburg_-_panoramio_(2).jpg
+  Uni-r Botanischer Garten 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Uni-r_Botanischer_Garten_3.jpg/400px-Uni-r_Botanischer_Garten_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Uni-r_Botanischer_Garten_3.jpg/800px-Uni-r_Botanischer_Garten_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Uni-r_Botanischer_Garten_3.jpg/1200px-Uni-r_Botanischer_Garten_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Uni-r_Botanischer_Garten_3.jpg/1920px-Uni-r_Botanischer_Garten_3.jpg
 ---
 
 ## Overview

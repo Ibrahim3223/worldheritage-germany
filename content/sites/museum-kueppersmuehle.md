@@ -21,9 +21,9 @@ longitude: 6.775
 
 # Images
 images:
-  - "/images-sites/museum-kueppersmuehle/01-47abe116-800w.webp"
-  - "/images-sites/museum-kueppersmuehle/02-2d868d8f-800w.webp"
-  - "/images-sites/museum-kueppersmuehle/03-08fa2168-800w.webp"
+  - "/images/museum-kueppersmuehle/01-47abe116-800w.webp"
+  - "/images/museum-kueppersmuehle/02-2d868d8f-800w.webp"
+  - "/images/museum-kueppersmuehle/03-08fa2168-800w.webp"
 ---
 
 ## Overview

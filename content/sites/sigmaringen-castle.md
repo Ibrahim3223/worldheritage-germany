@@ -21,7 +21,7 @@ longitude: 9.216944444
 
 # Images
 images:
-  - "/images-sites/sigmaringen-castle/01-e43722ac-800w.webp"
+  - "/images/sigmaringen-castle/01-e43722ac-800w.webp"
 ---
 
 ## Overview

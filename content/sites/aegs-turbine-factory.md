@@ -1,19 +1,49 @@
 ---
-title: "AEG’s Turbine factory"
+title: AEG’s Turbine factory
 date: 2026-01-23
 draft: false
-description: "factory in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: factory in Berlin
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 52.530019975
 longitude: 13.322750361
 images:
-  - "/images-sites/aegs-turbine-factory/01-898f2cd3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AEG-Turbinenhalle-3.jpg/1200px-AEG-Turbinenhalle-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Detail-AEG-Turbinenhalle-2.jpg/1200px-Detail-AEG-Turbinenhalle-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG/1200px-Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1200px-AEG_Turbinenhalle_Fassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_AEG_Turbinenfabrik.jpg/1200px-Berlin_AEG_Turbinenfabrik.jpg
+image_srcset:
+  AEG-Turbinenhalle-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AEG-Turbinenhalle-3.jpg/400px-AEG-Turbinenhalle-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AEG-Turbinenhalle-3.jpg/800px-AEG-Turbinenhalle-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AEG-Turbinenhalle-3.jpg/1200px-AEG-Turbinenhalle-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AEG-Turbinenhalle-3.jpg/1920px-AEG-Turbinenhalle-3.jpg
+  Detail-AEG-Turbinenhalle-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Detail-AEG-Turbinenhalle-2.jpg/400px-Detail-AEG-Turbinenhalle-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Detail-AEG-Turbinenhalle-2.jpg/800px-Detail-AEG-Turbinenhalle-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Detail-AEG-Turbinenhalle-2.jpg/1200px-Detail-AEG-Turbinenhalle-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Detail-AEG-Turbinenhalle-2.jpg/1920px-Detail-AEG-Turbinenhalle-2.jpg
+  Huttenstraße 12-16 Anbau A (Berlin-Moabit).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG/400px-Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG/800px-Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG/1200px-Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG/1920px-Huttenstraße_12-16_Anbau_A_(Berlin-Moabit).JPG
+  AEG Turbinenhalle Fassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/400px-AEG_Turbinenhalle_Fassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/800px-AEG_Turbinenhalle_Fassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1200px-AEG_Turbinenhalle_Fassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AEG_Turbinenhalle_Fassade.jpg/1920px-AEG_Turbinenhalle_Fassade.jpg
+  Berlin AEG Turbinenfabrik.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_AEG_Turbinenfabrik.jpg/400px-Berlin_AEG_Turbinenfabrik.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_AEG_Turbinenfabrik.jpg/800px-Berlin_AEG_Turbinenfabrik.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_AEG_Turbinenfabrik.jpg/1200px-Berlin_AEG_Turbinenfabrik.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Berlin_AEG_Turbinenfabrik.jpg/1920px-Berlin_AEG_Turbinenfabrik.jpg
 ---
 
 ## Overview

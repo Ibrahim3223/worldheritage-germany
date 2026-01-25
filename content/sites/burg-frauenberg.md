@@ -1,27 +1,49 @@
 ---
-title: "Burg Frauenberg"
+title: Burg Frauenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.79323889
 longitude: 9.03746667
-
-# Images
 images:
-  - "/images-sites/burg-frauenberg/01-782f13d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg/1200px-Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg/1200px-Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg/1200px-BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frauenberg_bei_Bodmann_Corradi-Kurz.jpg/1200px-Frauenberg_bei_Bodmann_Corradi-Kurz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruine_Bodman_07.jpg/1200px-Ruine_Bodman_07.jpg
+image_srcset:
+  Bodman-Ludwigshafen Burg Frauenberg 067.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg/400px-Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg/800px-Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg/1200px-Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg/1920px-Bodman-Ludwigshafen_Burg_Frauenberg_067.jpg
+  Bodman-Ludwigshafen Burg Frauenberg 068.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg/400px-Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg/800px-Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg/1200px-Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg/1920px-Bodman-Ludwigshafen_Burg_Frauenberg_068.jpg
+  BL - Bodman - Burg Frauenberg 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg/400px-BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg/800px-BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg/1200px-BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg/1920px-BL_-_Bodman_-_Burg_Frauenberg_03_ies.jpg
+  Frauenberg bei Bodmann Corradi-Kurz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frauenberg_bei_Bodmann_Corradi-Kurz.jpg/400px-Frauenberg_bei_Bodmann_Corradi-Kurz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frauenberg_bei_Bodmann_Corradi-Kurz.jpg/800px-Frauenberg_bei_Bodmann_Corradi-Kurz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frauenberg_bei_Bodmann_Corradi-Kurz.jpg/1200px-Frauenberg_bei_Bodmann_Corradi-Kurz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Frauenberg_bei_Bodmann_Corradi-Kurz.jpg/1920px-Frauenberg_bei_Bodmann_Corradi-Kurz.jpg
+  Ruine Bodman 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruine_Bodman_07.jpg/400px-Ruine_Bodman_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruine_Bodman_07.jpg/800px-Ruine_Bodman_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruine_Bodman_07.jpg/1200px-Ruine_Bodman_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ruine_Bodman_07.jpg/1920px-Ruine_Bodman_07.jpg
 ---
 
 ## Overview

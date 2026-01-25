@@ -1,21 +1,49 @@
 ---
-title: "Gletscherkessel Präg"
+title: Gletscherkessel Präg
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 47.77861111
 longitude: 7.96888889
 images:
-  - "/images-sites/gletscherkessel-praeg/01-38f10659-800w.webp"
-  - "/images-sites/gletscherkessel-praeg/02-90b137b7-800w.webp"
-  - "/images-sites/gletscherkessel-praeg/03-a6a05def-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg/1200px-Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/-i---i-_(50699541072).jpg/1200px--i---i-_(50699541072).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/-i---i-_(50699542377).jpg/1200px--i---i-_(50699542377).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Präger_Gletscherkessel.jpg/1200px-Präger_Gletscherkessel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gletscherkessel_Präg0002.JPG/1200px-Gletscherkessel_Präg0002.JPG
+image_srcset:
+  Naturschutzgebiet Gletscherkessel Präg Bild 8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg/400px-Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg/800px-Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg/1200px-Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg/1920px-Naturschutzgebiet_Gletscherkessel_Präg_Bild_8.jpg
+  -i---i- (50699541072).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/-i---i-_(50699541072).jpg/400px--i---i-_(50699541072).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/-i---i-_(50699541072).jpg/800px--i---i-_(50699541072).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/-i---i-_(50699541072).jpg/1200px--i---i-_(50699541072).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/-i---i-_(50699541072).jpg/1920px--i---i-_(50699541072).jpg
+  -i---i- (50699542377).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/-i---i-_(50699542377).jpg/400px--i---i-_(50699542377).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/-i---i-_(50699542377).jpg/800px--i---i-_(50699542377).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/-i---i-_(50699542377).jpg/1200px--i---i-_(50699542377).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/-i---i-_(50699542377).jpg/1920px--i---i-_(50699542377).jpg
+  Präger Gletscherkessel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Präger_Gletscherkessel.jpg/400px-Präger_Gletscherkessel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Präger_Gletscherkessel.jpg/800px-Präger_Gletscherkessel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Präger_Gletscherkessel.jpg/1200px-Präger_Gletscherkessel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Präger_Gletscherkessel.jpg/1920px-Präger_Gletscherkessel.jpg
+  Gletscherkessel Präg0002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gletscherkessel_Präg0002.JPG/400px-Gletscherkessel_Präg0002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gletscherkessel_Präg0002.JPG/800px-Gletscherkessel_Präg0002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gletscherkessel_Präg0002.JPG/1200px-Gletscherkessel_Präg0002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gletscherkessel_Präg0002.JPG/1920px-Gletscherkessel_Präg0002.JPG
 ---
 
 ## Overview

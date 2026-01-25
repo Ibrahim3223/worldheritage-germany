@@ -1,19 +1,31 @@
 ---
-title: "Frederick's University of Bützow"
+title: Frederick's University of Bützow
 date: 2026-01-24
 draft: false
-description: "former university in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "University"
+description: former university in Germany
+region: Germany
+country: Germany
+heritage_type: University
 categories:
-  - "University"
+- University
 regions:
-  - "Germany"
+- Germany
 latitude: 53.847128
 longitude: 11.97661
 images:
-  - "/images-sites/fredericks-university-of-buetzow/01-b56c7577-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/1200px-Bützow_Schloss_2014-08-21_26-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buetzow_Schloss_2009-03-04_015.jpg/1200px-Buetzow_Schloss_2009-03-04_015.jpg
+image_srcset:
+  Bützow Schloss 2014-08-21 26-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/400px-Bützow_Schloss_2014-08-21_26-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/800px-Bützow_Schloss_2014-08-21_26-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/1200px-Bützow_Schloss_2014-08-21_26-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bützow_Schloss_2014-08-21_26-2.jpg/1920px-Bützow_Schloss_2014-08-21_26-2.jpg
+  Buetzow Schloss 2009-03-04 015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buetzow_Schloss_2009-03-04_015.jpg/400px-Buetzow_Schloss_2009-03-04_015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buetzow_Schloss_2009-03-04_015.jpg/800px-Buetzow_Schloss_2009-03-04_015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buetzow_Schloss_2009-03-04_015.jpg/1200px-Buetzow_Schloss_2009-03-04_015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buetzow_Schloss_2009-03-04_015.jpg/1920px-Buetzow_Schloss_2009-03-04_015.jpg
 ---
 
 ## Overview

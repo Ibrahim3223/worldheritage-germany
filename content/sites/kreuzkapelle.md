@@ -13,7 +13,7 @@ regions:
 latitude: 50.3075
 longitude: 8.2862
 images:
-  - "/images-sites/kreuzkapelle/01-02c5a811-800w.webp"
+  - "/images/kreuzkapelle/01-02c5a811-800w.webp"
 ---
 
 ## Overview

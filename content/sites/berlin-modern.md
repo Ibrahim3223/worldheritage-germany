@@ -1,21 +1,49 @@
 ---
-title: "berlin modern"
+title: berlin modern
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.50808
 longitude: 13.3685
 images:
-  - "/images-sites/berlin-modern/01-6283b60b-800w.webp"
-  - "/images-sites/berlin-modern/02-bb2f5885-800w.webp"
-  - "/images-sites/berlin-modern/03-52134be8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg/1200px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1200px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg/1200px-Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg/1200px-Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg/1200px-Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg
+image_srcset:
+  Neue Nationalgalerie und Baugrube Museum des 20. Jahrhunderts Berlin-1790.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg/400px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg/800px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg/1200px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg/1920px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1790.jpg
+  Neue Nationalgalerie und Baugrube Museum des 20. Jahrhunderts Berlin-1798.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/400px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/800px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1200px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg/1920px-Neue_Nationalgalerie_und_Baugrube_Museum_des_20._Jahrhunderts_Berlin-1798.jpg
+  Neue Nationalgalerie zur Art Week 2023 Baugrube Museum des 20. Jahrhunderts.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg/400px-Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg/800px-Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg/1200px-Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg/1920px-Neue_Nationalgalerie_zur_Art_Week_2023_Baugrube_Museum_des_20._Jahrhunderts.jpg
+  Tiergarten Baustelle Museum des 20. Jahrhunderts Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg/400px-Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg/800px-Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg/1200px-Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg/1920px-Tiergarten_Baustelle_Museum_des_20._Jahrhunderts_Berlin.jpg
+  Baustelle des Museums "berlin modern" mit St.-Matthäus-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg/400px-Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg/800px-Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg/1200px-Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg/1920px-Baustelle_des_Museums_"berlin_modern"_mit_St.-Matthäus-Kirche.jpg
 ---
 
 ## Overview

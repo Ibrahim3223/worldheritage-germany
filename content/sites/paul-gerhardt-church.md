@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2058515"
 description: "In the heart of Berlin-Schöneberg lies the Paul Gerhardt Church, an embodiment of modern architectural design and spiritual significance. This Protestan..."
 images:
-  - "/images-sites/paul-gerhardt-church/01-70c85afb-1920w.webp"
-  - "/images-sites/paul-gerhardt-church/02-6d2de9b7-1920w.webp"
-  - "/images-sites/paul-gerhardt-church/03-9dede457-1920w.webp"
+  - "/images/paul-gerhardt-church/01-70c85afb-1920w.webp"
+  - "/images/paul-gerhardt-church/02-6d2de9b7-1920w.webp"
+  - "/images/paul-gerhardt-church/03-9dede457-1920w.webp"
 ---
 
 ## Overview

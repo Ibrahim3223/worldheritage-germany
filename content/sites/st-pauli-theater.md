@@ -13,7 +13,7 @@ regions:
 latitude: 53.54906
 longitude: 9.96297
 images:
-  - "/images-sites/st-pauli-theater/01-ba8055df-800w.webp"
+  - "/images/st-pauli-theater/01-ba8055df-800w.webp"
 ---
 
 ## Overview

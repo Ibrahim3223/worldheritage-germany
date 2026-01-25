@@ -13,9 +13,9 @@ regions:
 latitude: 52.377935046
 longitude: 9.732054643
 images:
-  - "/images-sites/nikolai-chapel/01-de8684cd-800w.webp"
-  - "/images-sites/nikolai-chapel/02-46815306-800w.webp"
-  - "/images-sites/nikolai-chapel/03-14e4f5f2-800w.webp"
+  - "/images/nikolai-chapel/01-de8684cd-800w.webp"
+  - "/images/nikolai-chapel/02-46815306-800w.webp"
+  - "/images/nikolai-chapel/03-14e4f5f2-800w.webp"
 ---
 
 ## Overview

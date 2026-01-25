@@ -21,8 +21,8 @@ longitude: 7.25056
 
 # Images
 images:
-  - "/images-sites/loewenburg/02-824cfbd4-800w.webp"
-  - "/images-sites/loewenburg/03-55ef21cd-800w.webp"
+  - "/images/loewenburg/02-824cfbd4-800w.webp"
+  - "/images/loewenburg/03-55ef21cd-800w.webp"
 ---
 
 ## Overview

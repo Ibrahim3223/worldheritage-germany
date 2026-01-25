@@ -1,19 +1,44 @@
 ---
-title: "Großer Pälitzsee"
+title: Großer Pälitzsee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.185876122
 longitude: 12.970390319
 images:
-  - "/images-sites/grosser-paelitzsee/01-1cd37d64-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hausboottour_(293)_Pälitzsee_(21195098369).jpg/1200px-Hausboottour_(293)_Pälitzsee_(21195098369).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hausboottour_(294)_Pälitzsee_(21194260258).jpg/1200px-Hausboottour_(294)_Pälitzsee_(21194260258).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hausboottour_(295)_Pälitzsee_(21371408392).jpg/1200px-Hausboottour_(295)_Pälitzsee_(21371408392).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GrosserPaelitzsee.jpg/1200px-GrosserPaelitzsee.jpg
+image_srcset:
+  Hausboottour (293) Pälitzsee (21195098369).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hausboottour_(293)_Pälitzsee_(21195098369).jpg/400px-Hausboottour_(293)_Pälitzsee_(21195098369).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hausboottour_(293)_Pälitzsee_(21195098369).jpg/800px-Hausboottour_(293)_Pälitzsee_(21195098369).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hausboottour_(293)_Pälitzsee_(21195098369).jpg/1200px-Hausboottour_(293)_Pälitzsee_(21195098369).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hausboottour_(293)_Pälitzsee_(21195098369).jpg/1920px-Hausboottour_(293)_Pälitzsee_(21195098369).jpg
+  Hausboottour (294) Pälitzsee (21194260258).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hausboottour_(294)_Pälitzsee_(21194260258).jpg/400px-Hausboottour_(294)_Pälitzsee_(21194260258).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hausboottour_(294)_Pälitzsee_(21194260258).jpg/800px-Hausboottour_(294)_Pälitzsee_(21194260258).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hausboottour_(294)_Pälitzsee_(21194260258).jpg/1200px-Hausboottour_(294)_Pälitzsee_(21194260258).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hausboottour_(294)_Pälitzsee_(21194260258).jpg/1920px-Hausboottour_(294)_Pälitzsee_(21194260258).jpg
+  Hausboottour (295) Pälitzsee (21371408392).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hausboottour_(295)_Pälitzsee_(21371408392).jpg/400px-Hausboottour_(295)_Pälitzsee_(21371408392).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hausboottour_(295)_Pälitzsee_(21371408392).jpg/800px-Hausboottour_(295)_Pälitzsee_(21371408392).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hausboottour_(295)_Pälitzsee_(21371408392).jpg/1200px-Hausboottour_(295)_Pälitzsee_(21371408392).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hausboottour_(295)_Pälitzsee_(21371408392).jpg/1920px-Hausboottour_(295)_Pälitzsee_(21371408392).jpg
+  GrosserPaelitzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GrosserPaelitzsee.jpg/400px-GrosserPaelitzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GrosserPaelitzsee.jpg/800px-GrosserPaelitzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GrosserPaelitzsee.jpg/1200px-GrosserPaelitzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/GrosserPaelitzsee.jpg/1920px-GrosserPaelitzsee.jpg
 ---
 
 ## Overview

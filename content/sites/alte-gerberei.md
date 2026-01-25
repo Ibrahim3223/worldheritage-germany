@@ -1,19 +1,49 @@
 ---
-title: "Alte Gerberei"
+title: Alte Gerberei
 date: 2026-01-23
 draft: false
-description: "Museum and Technical Monument in Ohrdruf, Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Museum and Technical Monument in Ohrdruf, Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8297
 longitude: 10.7344
 images:
-  - "/images-sites/alte-gerberei/01-58ab21f6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gerbergasse_12,_Olbernhau_Rückseite.jpg/1200px-Gerbergasse_12,_Olbernhau_Rückseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gerbergasse_12,_Olbernhau_Front.jpg/1200px-Gerbergasse_12,_Olbernhau_Front.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alte_Gerberei_01.jpg/1200px-Alte_Gerberei_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg/1200px-Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BZ-Uferweg01-Brücke.jpg/1200px-BZ-Uferweg01-Brücke.jpg
+image_srcset:
+  Gerbergasse 12, Olbernhau Rückseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gerbergasse_12,_Olbernhau_Rückseite.jpg/400px-Gerbergasse_12,_Olbernhau_Rückseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gerbergasse_12,_Olbernhau_Rückseite.jpg/800px-Gerbergasse_12,_Olbernhau_Rückseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gerbergasse_12,_Olbernhau_Rückseite.jpg/1200px-Gerbergasse_12,_Olbernhau_Rückseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gerbergasse_12,_Olbernhau_Rückseite.jpg/1920px-Gerbergasse_12,_Olbernhau_Rückseite.jpg
+  Gerbergasse 12, Olbernhau Front.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gerbergasse_12,_Olbernhau_Front.jpg/400px-Gerbergasse_12,_Olbernhau_Front.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gerbergasse_12,_Olbernhau_Front.jpg/800px-Gerbergasse_12,_Olbernhau_Front.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gerbergasse_12,_Olbernhau_Front.jpg/1200px-Gerbergasse_12,_Olbernhau_Front.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gerbergasse_12,_Olbernhau_Front.jpg/1920px-Gerbergasse_12,_Olbernhau_Front.jpg
+  Alte Gerberei 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alte_Gerberei_01.jpg/400px-Alte_Gerberei_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alte_Gerberei_01.jpg/800px-Alte_Gerberei_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alte_Gerberei_01.jpg/1200px-Alte_Gerberei_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alte_Gerberei_01.jpg/1920px-Alte_Gerberei_01.jpg
+  Gerbergasse 12, Olbernhau Sonnenuhr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg/400px-Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg/800px-Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg/1200px-Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg/1920px-Gerbergasse_12,_Olbernhau_Sonnenuhr.jpg
+  BZ-Uferweg01-Brücke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BZ-Uferweg01-Brücke.jpg/400px-BZ-Uferweg01-Brücke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BZ-Uferweg01-Brücke.jpg/800px-BZ-Uferweg01-Brücke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BZ-Uferweg01-Brücke.jpg/1200px-BZ-Uferweg01-Brücke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BZ-Uferweg01-Brücke.jpg/1920px-BZ-Uferweg01-Brücke.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.650555555
 longitude: 11.955
 images:
-  - "/images-sites/soinsee/01-57354fd0-800w.webp"
+  - "/images/soinsee/01-57354fd0-800w.webp"
 ---
 
 ## Overview

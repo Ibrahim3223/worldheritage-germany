@@ -1,19 +1,49 @@
 ---
-title: "Brickyard Lage"
+title: Brickyard Lage
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.025
 longitude: 8.77861111
 images:
-  - "/images-sites/brickyard-lage/01-de0d942b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1200px-Ziegelei_Lage_Ansicht.jpg
+image_srcset:
+  2018-07-15 Ziegelei Lage (Lippe) 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg/400px-2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg/800px-2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg/1920px-2018-07-15_Ziegelei_Lage_(Lippe)_04.jpg
+  2018-07-15 Ziegelei Lage (Lippe) 34.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg/400px-2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg/800px-2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg/1920px-2018-07-15_Ziegelei_Lage_(Lippe)_34.jpg
+  2018-07-15 Ziegelei Lage (Lippe) 60.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg/400px-2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg/800px-2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg/1920px-2018-07-15_Ziegelei_Lage_(Lippe)_60.jpg
+  2018-07-15 Ziegelei Lage (Lippe) 27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg/400px-2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg/800px-2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg/1200px-2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg/1920px-2018-07-15_Ziegelei_Lage_(Lippe)_27.jpg
+  Ziegelei Lage Ansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/400px-Ziegelei_Lage_Ansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/800px-Ziegelei_Lage_Ansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1200px-Ziegelei_Lage_Ansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ziegelei_Lage_Ansicht.jpg/1920px-Ziegelei_Lage_Ansicht.jpg
 ---
 
 ## Overview

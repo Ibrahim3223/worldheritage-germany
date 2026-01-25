@@ -13,7 +13,7 @@ regions:
 latitude: 50.7953
 longitude: 10.4175
 images:
-  - "/images-sites/trusetaler-wasserfall/01-dc7ee9cc-800w.webp"
+  - "/images/trusetaler-wasserfall/01-dc7ee9cc-800w.webp"
 ---
 
 ## Overview

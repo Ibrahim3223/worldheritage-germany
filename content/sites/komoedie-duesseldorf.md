@@ -13,7 +13,7 @@ regions:
 latitude: 51.2228
 longitude: 6.78333
 images:
-  - "/images-sites/komoedie-duesseldorf/01-efc2a193-800w.webp"
+  - "/images/komoedie-duesseldorf/01-efc2a193-800w.webp"
 ---
 
 ## Overview

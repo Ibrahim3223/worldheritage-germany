@@ -13,7 +13,7 @@ regions:
 latitude: 48.64386
 longitude: 9.311838
 images:
-  - "/images-sites/sammlung-domnick-nuertingen/01-b21c6def-800w.webp"
+  - "/images/sammlung-domnick-nuertingen/01-b21c6def-800w.webp"
 ---
 
 ## Overview

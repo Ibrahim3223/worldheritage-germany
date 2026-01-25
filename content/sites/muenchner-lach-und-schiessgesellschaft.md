@@ -13,9 +13,9 @@ regions:
 latitude: 48.1619
 longitude: 11.5908
 images:
-  - "/images-sites/muenchner-lach-und-schiessgesellschaft/01-17107f5c-800w.webp"
-  - "/images-sites/muenchner-lach-und-schiessgesellschaft/01-b9f7a711-800w.webp"
-  - "/images-sites/muenchner-lach-und-schiessgesellschaft/02-b9f7a711-800w.webp"
+  - "/images/muenchner-lach-und-schiessgesellschaft/01-17107f5c-800w.webp"
+  - "/images/muenchner-lach-und-schiessgesellschaft/01-b9f7a711-800w.webp"
+  - "/images/muenchner-lach-und-schiessgesellschaft/02-b9f7a711-800w.webp"
 ---
 
 ## Overview

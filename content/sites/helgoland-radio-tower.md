@@ -1,19 +1,49 @@
 ---
-title: "Helgoland radio tower"
+title: Helgoland radio tower
 date: 2026-01-24
 draft: false
-description: "transmission tower in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: transmission tower in Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 54.180408
 longitude: 7.883275
 images:
-  - "/images-sites/helgoland-radio-tower/01-7cb7537f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Helgoland_jm22346.jpg/1200px-Helgoland_jm22346.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helgoland_June_2009_20090628_062.JPG/1200px-Helgoland_June_2009_20090628_062.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Funkmast_Helgoland.JPG/1200px-Funkmast_Helgoland.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richtfunkturm_Helgoland.JPG/1200px-Richtfunkturm_Helgoland.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sender_Helgoland.png/1200px-Sender_Helgoland.png
+image_srcset:
+  Helgoland jm22346.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Helgoland_jm22346.jpg/400px-Helgoland_jm22346.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Helgoland_jm22346.jpg/800px-Helgoland_jm22346.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Helgoland_jm22346.jpg/1200px-Helgoland_jm22346.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Helgoland_jm22346.jpg/1920px-Helgoland_jm22346.jpg
+  Helgoland June 2009 20090628 062.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helgoland_June_2009_20090628_062.JPG/400px-Helgoland_June_2009_20090628_062.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helgoland_June_2009_20090628_062.JPG/800px-Helgoland_June_2009_20090628_062.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helgoland_June_2009_20090628_062.JPG/1200px-Helgoland_June_2009_20090628_062.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helgoland_June_2009_20090628_062.JPG/1920px-Helgoland_June_2009_20090628_062.JPG
+  Funkmast Helgoland.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Funkmast_Helgoland.JPG/400px-Funkmast_Helgoland.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Funkmast_Helgoland.JPG/800px-Funkmast_Helgoland.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Funkmast_Helgoland.JPG/1200px-Funkmast_Helgoland.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Funkmast_Helgoland.JPG/1920px-Funkmast_Helgoland.JPG
+  Richtfunkturm Helgoland.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richtfunkturm_Helgoland.JPG/400px-Richtfunkturm_Helgoland.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richtfunkturm_Helgoland.JPG/800px-Richtfunkturm_Helgoland.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richtfunkturm_Helgoland.JPG/1200px-Richtfunkturm_Helgoland.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Richtfunkturm_Helgoland.JPG/1920px-Richtfunkturm_Helgoland.JPG
+  Sender Helgoland.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sender_Helgoland.png/400px-Sender_Helgoland.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sender_Helgoland.png/800px-Sender_Helgoland.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sender_Helgoland.png/1200px-Sender_Helgoland.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sender_Helgoland.png/1920px-Sender_Helgoland.png
 ---
 
 ## Overview

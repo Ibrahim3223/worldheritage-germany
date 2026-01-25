@@ -1,19 +1,49 @@
 ---
-title: "Heinsener Klippen"
+title: Heinsener Klippen
 date: 2026-01-23
 draft: false
-description: "former nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: former nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.88947
 longitude: 9.45488
 images:
-  - "/images-sites/heinsener-klippen/01-a1c77e1f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Forstweg_durch_die_Heinsener_Klippen.jpg/1200px-Forstweg_durch_die_Heinsener_Klippen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1200px-Heinsener_Klippen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bergzug_der_Heinsener_Klippen.jpg/1200px-Bergzug_der_Heinsener_Klippen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg/1200px-Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg/1200px-Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg
+image_srcset:
+  Forstweg durch die Heinsener Klippen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Forstweg_durch_die_Heinsener_Klippen.jpg/400px-Forstweg_durch_die_Heinsener_Klippen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Forstweg_durch_die_Heinsener_Klippen.jpg/800px-Forstweg_durch_die_Heinsener_Klippen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Forstweg_durch_die_Heinsener_Klippen.jpg/1200px-Forstweg_durch_die_Heinsener_Klippen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Forstweg_durch_die_Heinsener_Klippen.jpg/1920px-Forstweg_durch_die_Heinsener_Klippen.jpg
+  Heinsener Klippen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/400px-Heinsener_Klippen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/800px-Heinsener_Klippen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1200px-Heinsener_Klippen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heinsener_Klippen.jpg/1920px-Heinsener_Klippen.jpg
+  Bergzug der Heinsener Klippen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bergzug_der_Heinsener_Klippen.jpg/400px-Bergzug_der_Heinsener_Klippen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bergzug_der_Heinsener_Klippen.jpg/800px-Bergzug_der_Heinsener_Klippen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bergzug_der_Heinsener_Klippen.jpg/1200px-Bergzug_der_Heinsener_Klippen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bergzug_der_Heinsener_Klippen.jpg/1920px-Bergzug_der_Heinsener_Klippen.jpg
+  Bergzug Heinsener Klippen, Weser und Campingplatz Weserbergland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg/400px-Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg/800px-Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg/1200px-Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg/1920px-Bergzug_Heinsener_Klippen,_Weser_und_Campingplatz_Weserbergland.jpg
+  Camping Weserbergland tent, Daf en ligfiets (29544001002).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg/400px-Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg/800px-Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg/1200px-Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg/1920px-Camping_Weserbergland_tent,_Daf_en_ligfiets_(29544001002).jpg
 ---
 
 ## Overview

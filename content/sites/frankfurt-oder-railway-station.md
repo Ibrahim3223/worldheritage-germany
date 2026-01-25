@@ -1,19 +1,49 @@
 ---
-title: "Frankfurt (Oder) railway station"
+title: Frankfurt (Oder) railway station
 date: 2026-01-23
 draft: false
-description: "train station in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: train station in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3368
 longitude: 14.5471
 images:
-  - "/images-sites/frankfurt-oder-railway-station/01-f2ac612b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg/1200px-Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Frankfurt_(Oder)_Hbf_2023_4.jpg/1200px-Frankfurt_(Oder)_Hbf_2023_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Frankfurt_(Oder)_Hbf_2023_5.jpg/1200px-Frankfurt_(Oder)_Hbf_2023_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg/1200px-Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BfFrankfurtVorplatz.jpg/1200px-BfFrankfurtVorplatz.jpg
+image_srcset:
+  Frankfurt (Oder) asv2022-08 img1 Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg/400px-Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg/800px-Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg/1200px-Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg/1920px-Frankfurt_(Oder)_asv2022-08_img1_Bahnhof.jpg
+  Frankfurt (Oder) Hbf 2023 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Frankfurt_(Oder)_Hbf_2023_4.jpg/400px-Frankfurt_(Oder)_Hbf_2023_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Frankfurt_(Oder)_Hbf_2023_4.jpg/800px-Frankfurt_(Oder)_Hbf_2023_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Frankfurt_(Oder)_Hbf_2023_4.jpg/1200px-Frankfurt_(Oder)_Hbf_2023_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Frankfurt_(Oder)_Hbf_2023_4.jpg/1920px-Frankfurt_(Oder)_Hbf_2023_4.jpg
+  Frankfurt (Oder) Hbf 2023 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Frankfurt_(Oder)_Hbf_2023_5.jpg/400px-Frankfurt_(Oder)_Hbf_2023_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Frankfurt_(Oder)_Hbf_2023_5.jpg/800px-Frankfurt_(Oder)_Hbf_2023_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Frankfurt_(Oder)_Hbf_2023_5.jpg/1200px-Frankfurt_(Oder)_Hbf_2023_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Frankfurt_(Oder)_Hbf_2023_5.jpg/1920px-Frankfurt_(Oder)_Hbf_2023_5.jpg
+  Bahnhof Frankfurt ( Oder ) - panoramio - André Fischer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg/400px-Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg/800px-Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg/1200px-Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg/1920px-Bahnhof_Frankfurt_(_Oder_)_-_panoramio_-_André_Fischer.jpg
+  BfFrankfurtVorplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BfFrankfurtVorplatz.jpg/400px-BfFrankfurtVorplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BfFrankfurtVorplatz.jpg/800px-BfFrankfurtVorplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BfFrankfurtVorplatz.jpg/1200px-BfFrankfurtVorplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/BfFrankfurtVorplatz.jpg/1920px-BfFrankfurtVorplatz.jpg
 ---
 
 ## Overview

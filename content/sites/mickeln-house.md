@@ -13,9 +13,9 @@ regions:
 latitude: 51.1661
 longitude: 6.80708
 images:
-  - "/images-sites/mickeln-house/01-fddea877-800w.webp"
-  - "/images-sites/mickeln-house/02-b1ae604b-800w.webp"
-  - "/images-sites/mickeln-house/03-7fd7d85a-800w.webp"
+  - "/images/mickeln-house/01-fddea877-800w.webp"
+  - "/images/mickeln-house/02-b1ae604b-800w.webp"
+  - "/images/mickeln-house/03-7fd7d85a-800w.webp"
 ---
 
 ## Overview

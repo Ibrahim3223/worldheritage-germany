@@ -13,7 +13,7 @@ regions:
 latitude: 50.4271236
 longitude: 10.7294922
 images:
-  - "/images-sites/stadtmuseum-hildburghausen/01-623ee023-800w.webp"
+  - "/images/stadtmuseum-hildburghausen/01-623ee023-800w.webp"
 ---
 
 ## Overview

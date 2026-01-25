@@ -1,19 +1,52 @@
 ---
-title: "Deister Gate"
+title: Deister Gate
 date: 2026-01-23
 draft: false
-description: "gap between the Deister and Kleiner Deister hill ridges in Hanover Region, Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: gap between the Deister and Kleiner Deister hill ridges in Hanover Region,
+  Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1998
 longitude: 9.528
 images:
-  - "/images-sites/deister-gate/01-ad3f8ae8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haller,_1,_Springe,_Region_Hannover.jpg/1200px-Haller,_1,_Springe,_Region_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg/1200px-1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg/1200px-Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg/1200px-Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deisterpforte_vom_Katzberg.jpg/1200px-Deisterpforte_vom_Katzberg.jpg
+image_srcset:
+  Haller, 1, Springe, Region Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haller,_1,_Springe,_Region_Hannover.jpg/400px-Haller,_1,_Springe,_Region_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haller,_1,_Springe,_Region_Hannover.jpg/800px-Haller,_1,_Springe,_Region_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haller,_1,_Springe,_Region_Hannover.jpg/1200px-Haller,_1,_Springe,_Region_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haller,_1,_Springe,_Region_Hannover.jpg/1920px-Haller,_1,_Springe,_Region_Hannover.jpg
+  ? 1998 vom Heimatbund Eldagsen gestiftete Stele zur Erinnerung an 8 wüste Dörfer,
+    Tafel Übersichtskarte Alter Neuer Gehlenbach Haller Subeeke Wöhlbach Everdagser
+    Beeke.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg/400px-1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg/800px-1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg/1200px-1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg/1920px-1998_vom_Heimatbund_Eldagsen_gestiftete_Stele_zur_Erinnerung_an_8_wüste_Dörfer,_Tafel_Übersichtskarte_Alter_Neuer_Gehlenbach_Haller_Subeeke_Wöhlbach_Everdagser_Beeke.jpg
+  Blick vom Norden über den Hallerburger Steinbruch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg/400px-Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg/800px-Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg/1200px-Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg/1920px-Blick_vom_Norden_über_den_Hallerburger_Steinbruch.jpg
+  Water mill Rosenmühle in Lower Saxony, Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg/400px-Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg/800px-Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg/1200px-Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg/1920px-Water_mill_Rosenmühle_in_Lower_Saxony,_Germany.jpg
+  Deisterpforte vom Katzberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deisterpforte_vom_Katzberg.jpg/400px-Deisterpforte_vom_Katzberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deisterpforte_vom_Katzberg.jpg/800px-Deisterpforte_vom_Katzberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deisterpforte_vom_Katzberg.jpg/1200px-Deisterpforte_vom_Katzberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Deisterpforte_vom_Katzberg.jpg/1920px-Deisterpforte_vom_Katzberg.jpg
 ---
 
 ## Overview

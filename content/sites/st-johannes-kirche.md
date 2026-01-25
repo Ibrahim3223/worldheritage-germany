@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1736355"
 description: "St.-Johannes-Kirche is a remarkable brick Gothic church located in the quaint village of Rambin, Germany. The striking architecture and historical signi..."
 images:
-  - "/images-sites/st-johannes-kirche/01-0fc6bd15-1920w.webp"
-  - "/images-sites/st-johannes-kirche/02-11e6dccf-1920w.webp"
-  - "/images-sites/st-johannes-kirche/03-70258d7a-1920w.webp"
+  - "/images/st-johannes-kirche/01-0fc6bd15-1920w.webp"
+  - "/images/st-johannes-kirche/02-11e6dccf-1920w.webp"
+  - "/images/st-johannes-kirche/03-70258d7a-1920w.webp"
 ---
 
 ## Overview

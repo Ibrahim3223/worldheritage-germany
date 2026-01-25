@@ -13,7 +13,7 @@ regions:
 latitude: 50.005361111
 longitude: 8.270527777
 images:
-  - "/images-sites/the-big-jupiter-column/03-f8a9fd7b-800w.webp"
+  - "/images/the-big-jupiter-column/03-f8a9fd7b-800w.webp"
 ---
 
 ## Overview

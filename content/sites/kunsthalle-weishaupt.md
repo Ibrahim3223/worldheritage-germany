@@ -21,9 +21,9 @@ longitude: 9.99492
 
 # Images
 images:
-  - "/images-sites/kunsthalle-weishaupt/01-752c6265-800w.webp"
-  - "/images-sites/kunsthalle-weishaupt/02-2147ad12-800w.webp"
-  - "/images-sites/kunsthalle-weishaupt/03-6bbc2d51-800w.webp"
+  - "/images/kunsthalle-weishaupt/01-752c6265-800w.webp"
+  - "/images/kunsthalle-weishaupt/02-2147ad12-800w.webp"
+  - "/images/kunsthalle-weishaupt/03-6bbc2d51-800w.webp"
 ---
 
 ## Overview

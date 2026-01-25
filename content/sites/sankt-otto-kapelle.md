@@ -13,7 +13,7 @@ regions:
 latitude: 47.604
 longitude: 12.18
 images:
-  - "/images-sites/sankt-otto-kapelle/01-deae5553-800w.webp"
+  - "/images/sankt-otto-kapelle/01-deae5553-800w.webp"
 ---
 
 ## Overview

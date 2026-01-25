@@ -1,20 +1,51 @@
 ---
-title: "Dankes-Kirche"
-site_name: "Dankes-Kirche"
-slug: "dankes-kirche"
-region: "Berlin"
-
-# Location
+title: Dankes-Kirche
+site_name: Dankes-Kirche
+slug: dankes-kirche
+region: Berlin
 latitude: 52.5412
 longitude: 13.3696
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1164248"
-description: "In the heart of Bezirk Mitte, Germany, stands the Dankes-Kirche, a modern architectural marvel that invites contemplation and admiration. This church, c..."
+- church building
+- religious site
+wikidata_id: Q1164248
+description: In the heart of Bezirk Mitte, Germany, stands the Dankes-Kirche, a modern
+  architectural marvel that invites contemplation and admiration. This church, c...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dankeskirche%20Berlin-Wedding.jpg/1200px-Dankeskirche%20Berlin-Wedding.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wartmannstetten_Kirche1.jpg/1200px-Wartmannstetten_Kirche1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wartmannstetten_Orgel.jpg/1200px-Wartmannstetten_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wartmannstetten_Orgel_Spieltisch.jpg/1200px-Wartmannstetten_Orgel_Spieltisch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wartmannstetten_Kirche2_(cropped).jpg/1200px-Wartmannstetten_Kirche2_(cropped).jpg
+image_srcset:
+  Dankeskirche%20Berlin-Wedding.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dankeskirche%20Berlin-Wedding.jpg/400px-Dankeskirche%20Berlin-Wedding.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dankeskirche%20Berlin-Wedding.jpg/800px-Dankeskirche%20Berlin-Wedding.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dankeskirche%20Berlin-Wedding.jpg/1200px-Dankeskirche%20Berlin-Wedding.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dankeskirche%20Berlin-Wedding.jpg/1920px-Dankeskirche%20Berlin-Wedding.jpg
+  Wartmannstetten Kirche1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wartmannstetten_Kirche1.jpg/400px-Wartmannstetten_Kirche1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wartmannstetten_Kirche1.jpg/800px-Wartmannstetten_Kirche1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wartmannstetten_Kirche1.jpg/1200px-Wartmannstetten_Kirche1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wartmannstetten_Kirche1.jpg/1920px-Wartmannstetten_Kirche1.jpg
+  Wartmannstetten Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wartmannstetten_Orgel.jpg/400px-Wartmannstetten_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wartmannstetten_Orgel.jpg/800px-Wartmannstetten_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wartmannstetten_Orgel.jpg/1200px-Wartmannstetten_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wartmannstetten_Orgel.jpg/1920px-Wartmannstetten_Orgel.jpg
+  Wartmannstetten Orgel Spieltisch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wartmannstetten_Orgel_Spieltisch.jpg/400px-Wartmannstetten_Orgel_Spieltisch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wartmannstetten_Orgel_Spieltisch.jpg/800px-Wartmannstetten_Orgel_Spieltisch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wartmannstetten_Orgel_Spieltisch.jpg/1200px-Wartmannstetten_Orgel_Spieltisch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wartmannstetten_Orgel_Spieltisch.jpg/1920px-Wartmannstetten_Orgel_Spieltisch.jpg
+  Wartmannstetten Kirche2 (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wartmannstetten_Kirche2_(cropped).jpg/400px-Wartmannstetten_Kirche2_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wartmannstetten_Kirche2_(cropped).jpg/800px-Wartmannstetten_Kirche2_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wartmannstetten_Kirche2_(cropped).jpg/1200px-Wartmannstetten_Kirche2_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Wartmannstetten_Kirche2_(cropped).jpg/1920px-Wartmannstetten_Kirche2_(cropped).jpg
 ---
 
 ## Overview

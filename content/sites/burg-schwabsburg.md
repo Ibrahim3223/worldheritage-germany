@@ -1,27 +1,49 @@
 ---
-title: "Burg Schwabsburg"
+title: Burg Schwabsburg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8639
 longitude: 8.31167
-
-# Images
 images:
-  - "/images-sites/burg-schwabsburg/01-373c64f4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/RWI_4481_Schwabsburg.jpg/1200px-RWI_4481_Schwabsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG/1200px-Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bergfried_Burg_Schwabsburg_Nordostansicht.JPG/1200px-Bergfried_Burg_Schwabsburg_Nordostansicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg/1200px-RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg/1200px-RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg
+image_srcset:
+  RWI 4481 Schwabsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/RWI_4481_Schwabsburg.jpg/400px-RWI_4481_Schwabsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/RWI_4481_Schwabsburg.jpg/800px-RWI_4481_Schwabsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/RWI_4481_Schwabsburg.jpg/1200px-RWI_4481_Schwabsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/RWI_4481_Schwabsburg.jpg/1920px-RWI_4481_Schwabsburg.jpg
+  Bergfried Burg Schwabsburg Nordecke mit Eingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG/400px-Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG/800px-Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG/1200px-Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG/1920px-Bergfried_Burg_Schwabsburg_Nordecke_mit_Eingang.JPG
+  Bergfried Burg Schwabsburg Nordostansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bergfried_Burg_Schwabsburg_Nordostansicht.JPG/400px-Bergfried_Burg_Schwabsburg_Nordostansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bergfried_Burg_Schwabsburg_Nordostansicht.JPG/800px-Bergfried_Burg_Schwabsburg_Nordostansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bergfried_Burg_Schwabsburg_Nordostansicht.JPG/1200px-Bergfried_Burg_Schwabsburg_Nordostansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bergfried_Burg_Schwabsburg_Nordostansicht.JPG/1920px-Bergfried_Burg_Schwabsburg_Nordostansicht.JPG
+  RP Rheinhessen Schwabsburg Schwabsburg 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg/400px-RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg/800px-RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg/1200px-RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg/1920px-RP_Rheinhessen_Schwabsburg_Schwabsburg_001.jpg
+  RP Rheinhessen Schwabsburg Schwabsburg 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg/400px-RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg/800px-RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg/1200px-RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg/1920px-RP_Rheinhessen_Schwabsburg_Schwabsburg_007.jpg
 ---
 
 ## Overview

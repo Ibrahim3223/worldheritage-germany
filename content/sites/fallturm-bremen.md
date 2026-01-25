@@ -1,20 +1,43 @@
 ---
-title: "Fallturm Bremen"
+title: Fallturm Bremen
 date: 2026-01-24
 draft: false
-description: "drop tower at the University of Bremen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: drop tower at the University of Bremen
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 53.11
 longitude: 8.85806
 images:
-  - "/images-sites/fallturm-bremen/02-66895391-800w.webp"
-  - "/images-sites/fallturm-bremen/03-5507bbac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fallturm_Steuerraum_Whiteboard.jpg/1200px-Fallturm_Steuerraum_Whiteboard.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg/1200px-Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg/1200px-Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fallturm_Bremen_-_2011.jpg/1200px-Fallturm_Bremen_-_2011.jpg
+image_srcset:
+  Fallturm Steuerraum Whiteboard.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fallturm_Steuerraum_Whiteboard.jpg/400px-Fallturm_Steuerraum_Whiteboard.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fallturm_Steuerraum_Whiteboard.jpg/800px-Fallturm_Steuerraum_Whiteboard.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fallturm_Steuerraum_Whiteboard.jpg/1200px-Fallturm_Steuerraum_Whiteboard.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fallturm_Steuerraum_Whiteboard.jpg/1920px-Fallturm_Steuerraum_Whiteboard.jpg
+  Fallturm Bremen (2016) - ZARM-Institutsgebäude Ecke Am Fallturm (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg/400px-Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg/800px-Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg/1200px-Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg/1920px-Fallturm_Bremen_(2016)_-_ZARM-Institutsgebäude_Ecke_Am_Fallturm_(02).jpg
+  Bremen Neoplan N4021 bus nr. 4553 at the University Space research centre,ZARM. - Flickr - sludgegulper.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg/400px-Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg/800px-Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg/1200px-Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg/1920px-Bremen_Neoplan_N4021_bus_nr._4553_at_the_University_Space_research_centre,ZARM._-_Flickr_-_sludgegulper.jpg
+  Fallturm Bremen - 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fallturm_Bremen_-_2011.jpg/400px-Fallturm_Bremen_-_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fallturm_Bremen_-_2011.jpg/800px-Fallturm_Bremen_-_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fallturm_Bremen_-_2011.jpg/1200px-Fallturm_Bremen_-_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fallturm_Bremen_-_2011.jpg/1920px-Fallturm_Bremen_-_2011.jpg
 ---
 
 ## Overview

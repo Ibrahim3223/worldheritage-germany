@@ -13,9 +13,9 @@ regions:
 latitude: 49.43732
 longitude: 11.10474
 images:
-  - "/images-sites/meistersingerhalle/01-44d59511-800w.webp"
-  - "/images-sites/meistersingerhalle/02-aeb237e8-800w.webp"
-  - "/images-sites/meistersingerhalle/03-f8b99030-800w.webp"
+  - "/images/meistersingerhalle/01-44d59511-800w.webp"
+  - "/images/meistersingerhalle/02-aeb237e8-800w.webp"
+  - "/images/meistersingerhalle/03-f8b99030-800w.webp"
 ---
 
 ## Overview

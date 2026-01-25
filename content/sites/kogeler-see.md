@@ -13,8 +13,8 @@ regions:
 latitude: 53.411619444
 longitude: 12.409766666
 images:
-  - "/images-sites/kogeler-see/02-6a789c44-800w.webp"
-  - "/images-sites/kogeler-see/03-7ff5b73c-800w.webp"
+  - "/images/kogeler-see/02-6a789c44-800w.webp"
+  - "/images/kogeler-see/03-7ff5b73c-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Fernsehturm Heidelberg"
+title: Fernsehturm Heidelberg
 date: 2026-01-24
 draft: false
-description: "tower in Heidelberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4038
 longitude: 8.72841
 images:
-  - "/images-sites/fernsehturm-heidelberg/02-1ccf5f49-800w.webp"
-  - "/images-sites/fernsehturm-heidelberg/03-ace281e5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sendetuerme_Heidelberg_07032014.JPG/1200px-Sendetuerme_Heidelberg_07032014.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidelberg_Fernsehturm.JPG/1200px-Heidelberg_Fernsehturm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turm_SWR_Sender_Heidelberg.JPG/1200px-Turm_SWR_Sender_Heidelberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm4_Koenigstuhl.jpg/1200px-Turm4_Koenigstuhl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Turm_2_Koenigstuhl_Heidelberg.jpg/1200px-Turm_2_Koenigstuhl_Heidelberg.jpg
+image_srcset:
+  Sendetuerme Heidelberg 07032014.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sendetuerme_Heidelberg_07032014.JPG/400px-Sendetuerme_Heidelberg_07032014.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sendetuerme_Heidelberg_07032014.JPG/800px-Sendetuerme_Heidelberg_07032014.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sendetuerme_Heidelberg_07032014.JPG/1200px-Sendetuerme_Heidelberg_07032014.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sendetuerme_Heidelberg_07032014.JPG/1920px-Sendetuerme_Heidelberg_07032014.JPG
+  Heidelberg Fernsehturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidelberg_Fernsehturm.JPG/400px-Heidelberg_Fernsehturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidelberg_Fernsehturm.JPG/800px-Heidelberg_Fernsehturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidelberg_Fernsehturm.JPG/1200px-Heidelberg_Fernsehturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heidelberg_Fernsehturm.JPG/1920px-Heidelberg_Fernsehturm.JPG
+  Turm SWR Sender Heidelberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turm_SWR_Sender_Heidelberg.JPG/400px-Turm_SWR_Sender_Heidelberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turm_SWR_Sender_Heidelberg.JPG/800px-Turm_SWR_Sender_Heidelberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turm_SWR_Sender_Heidelberg.JPG/1200px-Turm_SWR_Sender_Heidelberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Turm_SWR_Sender_Heidelberg.JPG/1920px-Turm_SWR_Sender_Heidelberg.JPG
+  Turm4 Koenigstuhl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm4_Koenigstuhl.jpg/400px-Turm4_Koenigstuhl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm4_Koenigstuhl.jpg/800px-Turm4_Koenigstuhl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm4_Koenigstuhl.jpg/1200px-Turm4_Koenigstuhl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Turm4_Koenigstuhl.jpg/1920px-Turm4_Koenigstuhl.jpg
+  Turm 2 Koenigstuhl Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Turm_2_Koenigstuhl_Heidelberg.jpg/400px-Turm_2_Koenigstuhl_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Turm_2_Koenigstuhl_Heidelberg.jpg/800px-Turm_2_Koenigstuhl_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Turm_2_Koenigstuhl_Heidelberg.jpg/1200px-Turm_2_Koenigstuhl_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Turm_2_Koenigstuhl_Heidelberg.jpg/1920px-Turm_2_Koenigstuhl_Heidelberg.jpg
 ---
 
 ## Overview

@@ -1,27 +1,43 @@
 ---
-title: "Bärenquell-Brauerei"
+title: Bärenquell-Brauerei
 date: 2026-01-23
 draft: false
-description: "trademark"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: trademark
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.46
 longitude: 13.5065
-
-# Images
 images:
-  - "/images-sites/baerenquell-brauerei/01-310c84b4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Baerenquell-Brauerei_Schoeneweide_12-2017.jpg/1200px-Baerenquell-Brauerei_Schoeneweide_12-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg/1200px-Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BQuell_01.jpg/1200px-BQuell_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BQuell_02.jpg/1200px-BQuell_02.jpg
+image_srcset:
+  Baerenquell-Brauerei Schoeneweide 12-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Baerenquell-Brauerei_Schoeneweide_12-2017.jpg/400px-Baerenquell-Brauerei_Schoeneweide_12-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Baerenquell-Brauerei_Schoeneweide_12-2017.jpg/800px-Baerenquell-Brauerei_Schoeneweide_12-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Baerenquell-Brauerei_Schoeneweide_12-2017.jpg/1200px-Baerenquell-Brauerei_Schoeneweide_12-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Baerenquell-Brauerei_Schoeneweide_12-2017.jpg/1920px-Baerenquell-Brauerei_Schoeneweide_12-2017.jpg
+  Schnellerstr B-Niederschoeneweide 08-2017 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg/400px-Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg/800px-Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg/1200px-Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg/1920px-Schnellerstr_B-Niederschoeneweide_08-2017_img1.jpg
+  BQuell 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BQuell_01.jpg/400px-BQuell_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BQuell_01.jpg/800px-BQuell_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BQuell_01.jpg/1200px-BQuell_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BQuell_01.jpg/1920px-BQuell_01.jpg
+  BQuell 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BQuell_02.jpg/400px-BQuell_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BQuell_02.jpg/800px-BQuell_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BQuell_02.jpg/1200px-BQuell_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BQuell_02.jpg/1920px-BQuell_02.jpg
 ---
 
 ## Overview

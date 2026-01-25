@@ -1,19 +1,43 @@
 ---
-title: "Friedrichstadt-Palast"
+title: Friedrichstadt-Palast
 date: 2026-01-23
 draft: false
-description: "revue theatre in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: revue theatre in Berlin
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.52393
 longitude: 13.3881
 images:
-  - "/images-sites/friedrichstadt-palast/01-21499672-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Berlin_-_Friedrichstadt_Palast3.jpg/1200px-Berlin_-_Friedrichstadt_Palast3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg/1200px-Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Friedrichstadtpalast.jpg/1200px-Friedrichstadtpalast.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/1200px-Friedrichstadtpalast-BLN.jpg
+image_srcset:
+  Berlin - Friedrichstadt Palast3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Berlin_-_Friedrichstadt_Palast3.jpg/400px-Berlin_-_Friedrichstadt_Palast3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Berlin_-_Friedrichstadt_Palast3.jpg/800px-Berlin_-_Friedrichstadt_Palast3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Berlin_-_Friedrichstadt_Palast3.jpg/1200px-Berlin_-_Friedrichstadt_Palast3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Berlin_-_Friedrichstadt_Palast3.jpg/1920px-Berlin_-_Friedrichstadt_Palast3.jpg
+  Friedrichstadt-Palast im Februar 2022 während der Berlinale C.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg/400px-Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg/800px-Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg/1200px-Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg/1920px-Friedrichstadt-Palast_im_Februar_2022_während_der_Berlinale_C.jpg
+  Friedrichstadtpalast.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Friedrichstadtpalast.jpg/400px-Friedrichstadtpalast.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Friedrichstadtpalast.jpg/800px-Friedrichstadtpalast.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Friedrichstadtpalast.jpg/1200px-Friedrichstadtpalast.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Friedrichstadtpalast.jpg/1920px-Friedrichstadtpalast.jpg
+  Friedrichstadtpalast-BLN.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/400px-Friedrichstadtpalast-BLN.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/800px-Friedrichstadtpalast-BLN.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/1200px-Friedrichstadtpalast-BLN.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Friedrichstadtpalast-BLN.jpg/1920px-Friedrichstadtpalast-BLN.jpg
 ---
 
 ## Overview

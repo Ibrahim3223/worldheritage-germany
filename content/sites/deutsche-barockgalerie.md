@@ -1,28 +1,49 @@
 ---
-title: "Deutsche Barockgalerie"
+title: Deutsche Barockgalerie
 date: 2026-01-23
 draft: false
-description: "art museum housed in the Schaezlerpalais in Augsburg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum housed in the Schaezlerpalais in Augsburg, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.365
 longitude: 10.8992
-
-# Images
 images:
-  - "/images-sites/deutsche-barockgalerie/02-d7a13e71-800w.webp"
-  - "/images-sites/deutsche-barockgalerie/03-b927b4af-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dt._Barockgalerie,_Schreibsekretär.jpg/1200px-Dt._Barockgalerie,_Schreibsekretär.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/1200px-Augsburg-Schaezlerpalais.jpg
+image_srcset:
+  Augsburg Schaezlerpalais Mattes 2013-05-05 (51).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG/400px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG/800px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG/1920px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(51).JPG
+  Augsburg Schaezlerpalais Mattes 2013-05-05 (6).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG/400px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG/800px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG/1920px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(6).JPG
+  Augsburg Schaezlerpalais Mattes 2013-05-05 (61).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG/400px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG/800px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG/1200px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG/1920px-Augsburg_Schaezlerpalais_Mattes_2013-05-05_(61).JPG
+  Dt. Barockgalerie, Schreibsekretär.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dt._Barockgalerie,_Schreibsekretär.jpg/400px-Dt._Barockgalerie,_Schreibsekretär.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dt._Barockgalerie,_Schreibsekretär.jpg/800px-Dt._Barockgalerie,_Schreibsekretär.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dt._Barockgalerie,_Schreibsekretär.jpg/1200px-Dt._Barockgalerie,_Schreibsekretär.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dt._Barockgalerie,_Schreibsekretär.jpg/1920px-Dt._Barockgalerie,_Schreibsekretär.jpg
+  Augsburg-Schaezlerpalais.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/400px-Augsburg-Schaezlerpalais.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/800px-Augsburg-Schaezlerpalais.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/1200px-Augsburg-Schaezlerpalais.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Augsburg-Schaezlerpalais.jpg/1920px-Augsburg-Schaezlerpalais.jpg
 ---
 
 ## Overview

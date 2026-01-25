@@ -13,7 +13,7 @@ regions:
 latitude: 53.849444444
 longitude: 11.702777777
 images:
-  - "/images-sites/neuklostersee/01-e03cc83c-800w.webp"
+  - "/images/neuklostersee/01-e03cc83c-800w.webp"
 ---
 
 ## Overview

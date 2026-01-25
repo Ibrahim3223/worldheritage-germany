@@ -13,7 +13,7 @@ regions:
 latitude: 52.374410811
 longitude: 9.738757942
 images:
-  - "/images-sites/kroepcke/01-37d4f0b9-800w.webp"
+  - "/images/kroepcke/01-37d4f0b9-800w.webp"
 ---
 
 ## Overview

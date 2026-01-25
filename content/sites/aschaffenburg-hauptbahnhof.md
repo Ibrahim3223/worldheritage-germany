@@ -1,19 +1,44 @@
 ---
-title: "Aschaffenburg Hauptbahnhof"
+title: Aschaffenburg Hauptbahnhof
 date: 2026-01-23
 draft: false
-description: "railway station in the urban district of Aschaffenburg, Lower Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in the urban district of Aschaffenburg, Lower Franconia,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.980527777
 longitude: 9.143861111
 images:
-  - "/images-sites/aschaffenburg-hauptbahnhof/01-a1b4a88b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AB_Ludwigstraße_Bahnhof.jpg/1200px-AB_Ludwigstraße_Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20070110bahnhofaschaffenburg.jpg/1200px-20070110bahnhofaschaffenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aschaffenburg_mainstation_032007.jpg/1200px-Aschaffenburg_mainstation_032007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DB_111_RtLgr_Snow.jpg/1200px-DB_111_RtLgr_Snow.jpg
+image_srcset:
+  AB Ludwigstraße Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AB_Ludwigstraße_Bahnhof.jpg/400px-AB_Ludwigstraße_Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AB_Ludwigstraße_Bahnhof.jpg/800px-AB_Ludwigstraße_Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AB_Ludwigstraße_Bahnhof.jpg/1200px-AB_Ludwigstraße_Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AB_Ludwigstraße_Bahnhof.jpg/1920px-AB_Ludwigstraße_Bahnhof.jpg
+  20070110bahnhofaschaffenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20070110bahnhofaschaffenburg.jpg/400px-20070110bahnhofaschaffenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20070110bahnhofaschaffenburg.jpg/800px-20070110bahnhofaschaffenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20070110bahnhofaschaffenburg.jpg/1200px-20070110bahnhofaschaffenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20070110bahnhofaschaffenburg.jpg/1920px-20070110bahnhofaschaffenburg.jpg
+  Aschaffenburg mainstation 032007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aschaffenburg_mainstation_032007.jpg/400px-Aschaffenburg_mainstation_032007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aschaffenburg_mainstation_032007.jpg/800px-Aschaffenburg_mainstation_032007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aschaffenburg_mainstation_032007.jpg/1200px-Aschaffenburg_mainstation_032007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aschaffenburg_mainstation_032007.jpg/1920px-Aschaffenburg_mainstation_032007.jpg
+  DB 111 RtLgr Snow.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DB_111_RtLgr_Snow.jpg/400px-DB_111_RtLgr_Snow.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DB_111_RtLgr_Snow.jpg/800px-DB_111_RtLgr_Snow.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DB_111_RtLgr_Snow.jpg/1200px-DB_111_RtLgr_Snow.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/DB_111_RtLgr_Snow.jpg/1920px-DB_111_RtLgr_Snow.jpg
 ---
 
 ## Overview

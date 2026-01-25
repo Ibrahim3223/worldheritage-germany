@@ -13,7 +13,7 @@ regions:
 latitude: 53.9703
 longitude: 13.6122
 images:
-  - "/images-sites/schloss-karlsburg/01-f4f57ed5-800w.webp"
+  - "/images/schloss-karlsburg/01-f4f57ed5-800w.webp"
 ---
 
 ## Overview

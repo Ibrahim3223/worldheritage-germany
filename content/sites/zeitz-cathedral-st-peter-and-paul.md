@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q187151"
 description: "Zeitz Cathedral St. Peter and Paul, founded in 1100, is a remarkable example of Gothic architecture nestled within the historical landscape of Zeitz in ..."
 images:
-  - "/images-sites/zeitz-cathedral-st-peter-and-paul/01-47098307-1920w.webp"
-  - "/images-sites/zeitz-cathedral-st-peter-and-paul/02-1e5704f5-1920w.webp"
-  - "/images-sites/zeitz-cathedral-st-peter-and-paul/03-ea6936c0-1920w.webp"
+  - "/images/zeitz-cathedral-st-peter-and-paul/01-47098307-1920w.webp"
+  - "/images/zeitz-cathedral-st-peter-and-paul/02-1e5704f5-1920w.webp"
+  - "/images/zeitz-cathedral-st-peter-and-paul/03-ea6936c0-1920w.webp"
 ---
 
 ## Overview

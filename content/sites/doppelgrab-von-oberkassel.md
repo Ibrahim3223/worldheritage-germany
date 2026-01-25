@@ -1,27 +1,43 @@
 ---
-title: "Doppelgrab von Oberkassel"
+title: Doppelgrab von Oberkassel
 date: 2026-01-23
 draft: false
-description: "archaeological site in Bonn, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: archaeological site in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7144
 longitude: 7.17464
-
-# Images
 images:
-  - "/images-sites/doppelgrab-von-oberkassel/01-05409197-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paar_von_Oberkassel.jpg/1200px-Paar_von_Oberkassel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Doppelgrab_von_Oberkassel_skeletons.jpg/1200px-Doppelgrab_von_Oberkassel_skeletons.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oberkku1.jpg/1200px-Oberkku1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ob9.jpg/1200px-Ob9.jpg
+image_srcset:
+  Paar von Oberkassel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paar_von_Oberkassel.jpg/400px-Paar_von_Oberkassel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paar_von_Oberkassel.jpg/800px-Paar_von_Oberkassel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paar_von_Oberkassel.jpg/1200px-Paar_von_Oberkassel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Paar_von_Oberkassel.jpg/1920px-Paar_von_Oberkassel.jpg
+  Doppelgrab von Oberkassel skeletons.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Doppelgrab_von_Oberkassel_skeletons.jpg/400px-Doppelgrab_von_Oberkassel_skeletons.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Doppelgrab_von_Oberkassel_skeletons.jpg/800px-Doppelgrab_von_Oberkassel_skeletons.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Doppelgrab_von_Oberkassel_skeletons.jpg/1200px-Doppelgrab_von_Oberkassel_skeletons.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Doppelgrab_von_Oberkassel_skeletons.jpg/1920px-Doppelgrab_von_Oberkassel_skeletons.jpg
+  Oberkku1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oberkku1.jpg/400px-Oberkku1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oberkku1.jpg/800px-Oberkku1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oberkku1.jpg/1200px-Oberkku1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oberkku1.jpg/1920px-Oberkku1.jpg
+  Ob9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ob9.jpg/400px-Ob9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ob9.jpg/800px-Ob9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ob9.jpg/1200px-Ob9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ob9.jpg/1920px-Ob9.jpg
 ---
 
 ## Overview

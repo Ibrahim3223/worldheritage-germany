@@ -13,7 +13,7 @@ regions:
 latitude: 50.0061
 longitude: 8.26972
 images:
-  - "/images-sites/roemisch-germanisches-zentralmuseum/03-695ec143-800w.webp"
+  - "/images/roemisch-germanisches-zentralmuseum/03-695ec143-800w.webp"
 ---
 
 ## Overview

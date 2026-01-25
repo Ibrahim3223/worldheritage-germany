@@ -1,21 +1,49 @@
 ---
-title: "Elbauenpark"
+title: Elbauenpark
 date: 2026-01-23
 draft: false
-description: "Family and leisure park in Magdeburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: Family and leisure park in Magdeburg, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.1349
 longitude: 11.669
 images:
-  - "/images-sites/elbauenpark/01-5a07f726-800w.webp"
-  - "/images-sites/elbauenpark/02-bdd3e7fe-800w.webp"
-  - "/images-sites/elbauenpark/03-904ec503-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg/1200px-Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elbauenpark.jpg/1200px-Elbauenpark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elbauenpark-Nautilus.jpg/1200px-Elbauenpark-Nautilus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elbauenpark-Panoramabahn.jpg/1200px-Elbauenpark-Panoramabahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elbauenpark-Irrgarten.jpg/1200px-Elbauenpark-Irrgarten.jpg
+image_srcset:
+  Magdeburg, Elbauenpark, Schmetterlingshaus, Arum-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg/400px-Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg/800px-Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg/1200px-Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg/1920px-Magdeburg,_Elbauenpark,_Schmetterlingshaus,_Arum-1.jpg
+  Elbauenpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elbauenpark.jpg/400px-Elbauenpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elbauenpark.jpg/800px-Elbauenpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elbauenpark.jpg/1200px-Elbauenpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Elbauenpark.jpg/1920px-Elbauenpark.jpg
+  Elbauenpark-Nautilus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elbauenpark-Nautilus.jpg/400px-Elbauenpark-Nautilus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elbauenpark-Nautilus.jpg/800px-Elbauenpark-Nautilus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elbauenpark-Nautilus.jpg/1200px-Elbauenpark-Nautilus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Elbauenpark-Nautilus.jpg/1920px-Elbauenpark-Nautilus.jpg
+  Elbauenpark-Panoramabahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elbauenpark-Panoramabahn.jpg/400px-Elbauenpark-Panoramabahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elbauenpark-Panoramabahn.jpg/800px-Elbauenpark-Panoramabahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elbauenpark-Panoramabahn.jpg/1200px-Elbauenpark-Panoramabahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elbauenpark-Panoramabahn.jpg/1920px-Elbauenpark-Panoramabahn.jpg
+  Elbauenpark-Irrgarten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elbauenpark-Irrgarten.jpg/400px-Elbauenpark-Irrgarten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elbauenpark-Irrgarten.jpg/800px-Elbauenpark-Irrgarten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elbauenpark-Irrgarten.jpg/1200px-Elbauenpark-Irrgarten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Elbauenpark-Irrgarten.jpg/1920px-Elbauenpark-Irrgarten.jpg
 ---
 
 ## Overview

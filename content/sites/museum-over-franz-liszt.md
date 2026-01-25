@@ -13,7 +13,7 @@ regions:
 latitude: 50.9748
 longitude: 11.33
 images:
-  - "/images-sites/museum-over-franz-liszt/01-55dae149-800w.webp"
+  - "/images/museum-over-franz-liszt/01-55dae149-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Fürstenberg Castle"
+title: Fürstenberg Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.8907
 longitude: 8.5601
-
-# Images
 images:
-  - "/images-sites/fuerstenberg-castle/01-eb3c30ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fuerstenberg_Museum.jpg/1200px-Fuerstenberg_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FuerstenbergSchlossTreppenhaus.jpg/1200px-FuerstenbergSchlossTreppenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FuerstenbergLogo1747.jpg/1200px-FuerstenbergLogo1747.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Schloss_Fürstenberg_von_der_Weser_aus.jpg/1200px-Schloss_Fürstenberg_von_der_Weser_aus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchlossFürstenberg1.jpg/1200px-SchlossFürstenberg1.jpg
+image_srcset:
+  Fuerstenberg Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fuerstenberg_Museum.jpg/400px-Fuerstenberg_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fuerstenberg_Museum.jpg/800px-Fuerstenberg_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fuerstenberg_Museum.jpg/1200px-Fuerstenberg_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fuerstenberg_Museum.jpg/1920px-Fuerstenberg_Museum.jpg
+  FuerstenbergSchlossTreppenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FuerstenbergSchlossTreppenhaus.jpg/400px-FuerstenbergSchlossTreppenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FuerstenbergSchlossTreppenhaus.jpg/800px-FuerstenbergSchlossTreppenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FuerstenbergSchlossTreppenhaus.jpg/1200px-FuerstenbergSchlossTreppenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FuerstenbergSchlossTreppenhaus.jpg/1920px-FuerstenbergSchlossTreppenhaus.jpg
+  FuerstenbergLogo1747.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FuerstenbergLogo1747.jpg/400px-FuerstenbergLogo1747.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FuerstenbergLogo1747.jpg/800px-FuerstenbergLogo1747.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FuerstenbergLogo1747.jpg/1200px-FuerstenbergLogo1747.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/FuerstenbergLogo1747.jpg/1920px-FuerstenbergLogo1747.jpg
+  Schloss Fürstenberg von der Weser aus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Schloss_Fürstenberg_von_der_Weser_aus.jpg/400px-Schloss_Fürstenberg_von_der_Weser_aus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Schloss_Fürstenberg_von_der_Weser_aus.jpg/800px-Schloss_Fürstenberg_von_der_Weser_aus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Schloss_Fürstenberg_von_der_Weser_aus.jpg/1200px-Schloss_Fürstenberg_von_der_Weser_aus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Schloss_Fürstenberg_von_der_Weser_aus.jpg/1920px-Schloss_Fürstenberg_von_der_Weser_aus.jpg
+  SchlossFürstenberg1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchlossFürstenberg1.jpg/400px-SchlossFürstenberg1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchlossFürstenberg1.jpg/800px-SchlossFürstenberg1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchlossFürstenberg1.jpg/1200px-SchlossFürstenberg1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SchlossFürstenberg1.jpg/1920px-SchlossFürstenberg1.jpg
 ---
 
 ## Overview

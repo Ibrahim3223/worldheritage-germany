@@ -13,7 +13,7 @@ regions:
 latitude: 53.573193
 longitude: 10.07203
 images:
-  - "/images-sites/schimmelmann-mausoleum/01-0ae2e207-800w.webp"
+  - "/images/schimmelmann-mausoleum/01-0ae2e207-800w.webp"
 ---
 
 ## Overview

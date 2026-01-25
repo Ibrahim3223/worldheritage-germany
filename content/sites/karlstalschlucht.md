@@ -13,7 +13,7 @@ regions:
 latitude: 49.3497
 longitude: 7.75742
 images:
-  - "/images-sites/karlstalschlucht/01-386310a6-800w.webp"
+  - "/images/karlstalschlucht/01-386310a6-800w.webp"
 ---
 
 ## Overview

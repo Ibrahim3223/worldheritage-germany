@@ -1,24 +1,46 @@
 ---
-title: "Bethlehemkirche Hannover"
-site_name: "Bethlehemkirche Hannover"
-slug: "bethlehemkirche-hannover"
-region: "Lower Saxony"
-
-# Location
+title: Bethlehemkirche Hannover
+site_name: Bethlehemkirche Hannover
+slug: bethlehemkirche-hannover
+region: Lower Saxony
 latitude: 52.3725
 longitude: 9.70203
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q831347"
-description: "In the heart of Hannover, the Bethlehemkirche stands as an emblem of faith and architectural beauty. This Lutheran church, with its striking Romanesque ..."
+- church building
+- religious site
+wikidata_id: Q831347
+description: In the heart of Hannover, the Bethlehemkirche stands as an emblem of
+  faith and architectural beauty. This Lutheran church, with its striking Romanesque
+  ...
 images:
-  - "/images-sites/bethlehemkirche-hannover/01-5e958f31-1920w.webp"
-  - "/images-sites/bethlehemkirche-hannover/02-69b73963-1920w.webp"
-  - "/images-sites/bethlehemkirche-hannover/03-c4b6aec2-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1200px-Bethlehemkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG/1200px-Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG/1200px-Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg/1200px-2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg
+image_srcset:
+  Bethlehemkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/400px-Bethlehemkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/800px-Bethlehemkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1200px-Bethlehemkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bethlehemkirche.jpg/1920px-Bethlehemkirche.jpg
+  Hannover-Linden - Bethlehemkirche - Eingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG/400px-Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG/800px-Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG/1200px-Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG/1920px-Hannover-Linden_-_Bethlehemkirche_-_Eingang.JPG
+  Hannover-Linden - Bethlehemkirche - innen - Fensterrosette.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG/400px-Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG/800px-Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG/1200px-Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG/1920px-Hannover-Linden_-_Bethlehemkirche_-_innen_-_Fensterrosette.JPG
+  2014-02-16 09.59.36 - 2014-02-16 09.59.50 betlehemkirche panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg/400px-2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg/800px-2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg/1200px-2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg/1920px-2014-02-16_09.59.36_-_2014-02-16_09.59.50_betlehemkirche_panorama.jpg
 ---
 
 ## Overview

@@ -1,19 +1,51 @@
 ---
-title: "Fortuna mine"
+title: Fortuna mine
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 50.57465
 longitude: 8.42317
 images:
-  - "/images-sites/fortuna-mine/01-056cb17d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg/1200px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg/1200px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg/1200px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg/1200px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg/1200px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg
+image_srcset:
+  Pfingstmontag 2019 im Feld- und Grubenbahnmuseum Fortuna, Diesellok 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg/400px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg/800px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg/1200px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg/1920px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Diesellok_02.jpg
+  Pfingstmontag 2019 im Feld- und Grubenbahnmuseum Fortuna, Lok 10, O&K MD 1, N° 7551 von 1937.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg/400px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg/800px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg/1200px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg/1920px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_10,_O&K_MD_1,_N°_7551_von_1937.jpg
+  Pfingstmontag 2019 im Feld- und Grubenbahnmuseum Fortuna, Lok 26, LKM V 10C, N° 250 316 von 1963 (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg/400px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg/800px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg/1200px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg/1920px-Pfingstmontag_2019_im_Feld-_und_Grubenbahnmuseum_Fortuna,_Lok_26,_LKM_V_10C,_N°_250_316_von_1963_(02).jpg
+  ? Feld- und Grubenbahnmuseum Fortuna, Solms-Oberbiel (Light Railway and Colliery
+    Railway museum Fortuna, Solms-Oberbiel) - geo.hlipp.de - 17540.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg/400px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg/800px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg/1200px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg/1920px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17540.jpg
+  ? Feld- und Grubenbahnmuseum Fortuna, Solms-Oberbiel (Light Railway and Colliery
+    Railway museum Fortuna, Solms-Oberbiel) - geo.hlipp.de - 17564.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg/400px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg/800px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg/1200px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg/1920px-Feld-_und_Grubenbahnmuseum_Fortuna,_Solms-Oberbiel_(Light_Railway_and_Colliery_Railway_museum_Fortuna,_Solms-Oberbiel)_-_geo.hlipp.de_-_17564.jpg
 ---
 
 ## Overview

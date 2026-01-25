@@ -1,24 +1,51 @@
 ---
-title: "Alte Kirche (Stuttgart-Heumaden)"
-site_name: "Alte Kirche (Stuttgart-Heumaden)"
-slug: "alte-kirche-stuttgart-heumaden"
-region: "Baden-Württemberg"
-
-# Location
+title: Alte Kirche (Stuttgart-Heumaden)
+site_name: Alte Kirche (Stuttgart-Heumaden)
+slug: alte-kirche-stuttgart-heumaden
+region: Baden-Württemberg
 latitude: 48.7453
 longitude: 9.23833
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q435733"
-description: "In the heart of Stuttgart, the Alte Kirche stands as a remarkable example of Gothic architecture, offering a glimpse into the spiritual and architectura..."
+- church building
+- religious site
+wikidata_id: Q435733
+description: In the heart of Stuttgart, the Alte Kirche stands as a remarkable example
+  of Gothic architecture, offering a glimpse into the spiritual and architectura...
 images:
-  - "/images-sites/alte-kirche-stuttgart-heumaden/01-607b62a3-1920w.webp"
-  - "/images-sites/alte-kirche-stuttgart-heumaden/02-8c2cccec-1920w.webp"
-  - "/images-sites/alte-kirche-stuttgart-heumaden/03-cdf27242-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg/1200px-Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg/1200px-Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG/1200px-Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stuttgart-Heumaden_2011-by-RaBoe_05.jpg/1200px-Stuttgart-Heumaden_2011-by-RaBoe_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stuttgart-Heumaden_2011-by-RaBoe_00.jpg/1200px-Stuttgart-Heumaden_2011-by-RaBoe_00.jpg
+image_srcset:
+  Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg/400px-Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg/800px-Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg/1200px-Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg/1920px-Alte%20evangelische%20Kirche%20Stuttgart%20Heumaden%202015%2001.jpg
+  Alte evangelische Kirche Stuttgart Heumaden 2015 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg/400px-Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg/800px-Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg/1200px-Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg/1920px-Alte_evangelische_Kirche_Stuttgart_Heumaden_2015_01.jpg
+  Stuttgart-Heumaden Alte Evang. Kirche 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG/400px-Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG/800px-Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG/1200px-Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG/1920px-Stuttgart-Heumaden_Alte_Evang._Kirche_3.JPG
+  Stuttgart-Heumaden 2011-by-RaBoe 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stuttgart-Heumaden_2011-by-RaBoe_05.jpg/400px-Stuttgart-Heumaden_2011-by-RaBoe_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stuttgart-Heumaden_2011-by-RaBoe_05.jpg/800px-Stuttgart-Heumaden_2011-by-RaBoe_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stuttgart-Heumaden_2011-by-RaBoe_05.jpg/1200px-Stuttgart-Heumaden_2011-by-RaBoe_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stuttgart-Heumaden_2011-by-RaBoe_05.jpg/1920px-Stuttgart-Heumaden_2011-by-RaBoe_05.jpg
+  Stuttgart-Heumaden 2011-by-RaBoe 00.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stuttgart-Heumaden_2011-by-RaBoe_00.jpg/400px-Stuttgart-Heumaden_2011-by-RaBoe_00.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stuttgart-Heumaden_2011-by-RaBoe_00.jpg/800px-Stuttgart-Heumaden_2011-by-RaBoe_00.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stuttgart-Heumaden_2011-by-RaBoe_00.jpg/1200px-Stuttgart-Heumaden_2011-by-RaBoe_00.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stuttgart-Heumaden_2011-by-RaBoe_00.jpg/1920px-Stuttgart-Heumaden_2011-by-RaBoe_00.jpg
 ---
 
 ## Overview

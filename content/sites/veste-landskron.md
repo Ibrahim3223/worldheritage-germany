@@ -21,7 +21,7 @@ longitude: 13.3792
 
 # Images
 images:
-  - "/images-sites/veste-landskron/01-a245f0fe-800w.webp"
+  - "/images/veste-landskron/01-a245f0fe-800w.webp"
 ---
 
 ## Overview

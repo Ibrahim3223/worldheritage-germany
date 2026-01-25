@@ -13,7 +13,7 @@ regions:
 latitude: 52.51785
 longitude: 13.39374
 images:
-  - "/images-sites/statue-of-hermann-von-helmholtz/01-f5c1955a-800w.webp"
+  - "/images/statue-of-hermann-von-helmholtz/01-f5c1955a-800w.webp"
 ---
 
 ## Overview

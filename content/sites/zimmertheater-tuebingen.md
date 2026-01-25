@@ -13,7 +13,7 @@ regions:
 latitude: 48.519575
 longitude: 9.056487
 images:
-  - "/images-sites/zimmertheater-tuebingen/01-f4ec6b4c-800w.webp"
+  - "/images/zimmertheater-tuebingen/01-f4ec6b4c-800w.webp"
 ---
 
 ## Overview

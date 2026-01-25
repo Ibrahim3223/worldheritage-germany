@@ -13,9 +13,9 @@ regions:
 latitude: 50.8701
 longitude: 11.5507
 images:
-  - "/images-sites/leutratal-und-cospoth/01-31998cad-800w.webp"
-  - "/images-sites/leutratal-und-cospoth/02-24239d16-800w.webp"
-  - "/images-sites/leutratal-und-cospoth/03-eb16e8a9-800w.webp"
+  - "/images/leutratal-und-cospoth/01-31998cad-800w.webp"
+  - "/images/leutratal-und-cospoth/02-24239d16-800w.webp"
+  - "/images/leutratal-und-cospoth/03-eb16e8a9-800w.webp"
 ---
 
 ## Overview

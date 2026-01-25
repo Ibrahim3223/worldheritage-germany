@@ -1,19 +1,49 @@
 ---
-title: "German Mining Museum"
+title: German Mining Museum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4892
 longitude: 7.21722
 images:
-  - "/images-sites/german-mining-museum/01-866235ba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg/1200px-Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bergbaumuseum_Sommer_2013.jpg/1200px-Bergbaumuseum_Sommer_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/1200px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg/1200px-Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/D_Bergbaumuseum_BO_Kaueninstallation.JPG/1200px-D_Bergbaumuseum_BO_Kaueninstallation.JPG
+image_srcset:
+  Hydraulic mining shields, Deutsches Bergbau-Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg/400px-Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg/800px-Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg/1200px-Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg/1920px-Hydraulic_mining_shields,_Deutsches_Bergbau-Museum.jpg
+  Bergbaumuseum Sommer 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bergbaumuseum_Sommer_2013.jpg/400px-Bergbaumuseum_Sommer_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bergbaumuseum_Sommer_2013.jpg/800px-Bergbaumuseum_Sommer_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bergbaumuseum_Sommer_2013.jpg/1200px-Bergbaumuseum_Sommer_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bergbaumuseum_Sommer_2013.jpg/1920px-Bergbaumuseum_Sommer_2013.jpg
+  Deutsches Bergbau-Museum Bochum (2008).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/400px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/800px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/1200px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Deutsches_Bergbau-Museum_Bochum_(2008).jpg/1920px-Deutsches_Bergbau-Museum_Bochum_(2008).jpg
+  Bergbaumuseum Bochum Ausstellung Doppelbock auf Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg/400px-Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg/800px-Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg/1200px-Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg/1920px-Bergbaumuseum_Bochum_Ausstellung_Doppelbock_auf_Museum.jpg
+  D Bergbaumuseum BO Kaueninstallation.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/D_Bergbaumuseum_BO_Kaueninstallation.JPG/400px-D_Bergbaumuseum_BO_Kaueninstallation.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/D_Bergbaumuseum_BO_Kaueninstallation.JPG/800px-D_Bergbaumuseum_BO_Kaueninstallation.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/D_Bergbaumuseum_BO_Kaueninstallation.JPG/1200px-D_Bergbaumuseum_BO_Kaueninstallation.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/D_Bergbaumuseum_BO_Kaueninstallation.JPG/1920px-D_Bergbaumuseum_BO_Kaueninstallation.JPG
 ---
 
 ## Overview

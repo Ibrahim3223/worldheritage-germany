@@ -21,9 +21,9 @@ longitude: 8.7448
 
 # Images
 images:
-  - "/images-sites/vilbel-castle/01-ee47e550-800w.webp"
-  - "/images-sites/vilbel-castle/02-620969a1-800w.webp"
-  - "/images-sites/vilbel-castle/03-04b7ac6f-800w.webp"
+  - "/images/vilbel-castle/01-ee47e550-800w.webp"
+  - "/images/vilbel-castle/02-620969a1-800w.webp"
+  - "/images/vilbel-castle/03-04b7ac6f-800w.webp"
 ---
 
 ## Overview

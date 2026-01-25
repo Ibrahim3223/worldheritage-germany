@@ -1,27 +1,49 @@
 ---
-title: "Idstein Castle"
+title: Idstein Castle
 date: 2026-01-23
 draft: false
-description: "castle in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.2219
 longitude: 8.26861
-
-# Images
 images:
-  - "/images-sites/idstein-castle/01-7ba146bf-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Idstein_renesanca_parko_1.jpg/1200px-Idstein_renesanca_parko_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Idstein_renesanca_parko_2.jpg/1200px-Idstein_renesanca_parko_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Idstein_renesanca_parko_6.jpg/1200px-Idstein_renesanca_parko_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg-Idstein-JR-E-2642-2018-08-19.jpg/1200px-Burg-Idstein-JR-E-2642-2018-08-19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IdsteinBurgHexenturm.jpg/1200px-IdsteinBurgHexenturm.jpg
+image_srcset:
+  Idstein renesanca parko 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Idstein_renesanca_parko_1.jpg/400px-Idstein_renesanca_parko_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Idstein_renesanca_parko_1.jpg/800px-Idstein_renesanca_parko_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Idstein_renesanca_parko_1.jpg/1200px-Idstein_renesanca_parko_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Idstein_renesanca_parko_1.jpg/1920px-Idstein_renesanca_parko_1.jpg
+  Idstein renesanca parko 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Idstein_renesanca_parko_2.jpg/400px-Idstein_renesanca_parko_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Idstein_renesanca_parko_2.jpg/800px-Idstein_renesanca_parko_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Idstein_renesanca_parko_2.jpg/1200px-Idstein_renesanca_parko_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Idstein_renesanca_parko_2.jpg/1920px-Idstein_renesanca_parko_2.jpg
+  Idstein renesanca parko 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Idstein_renesanca_parko_6.jpg/400px-Idstein_renesanca_parko_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Idstein_renesanca_parko_6.jpg/800px-Idstein_renesanca_parko_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Idstein_renesanca_parko_6.jpg/1200px-Idstein_renesanca_parko_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Idstein_renesanca_parko_6.jpg/1920px-Idstein_renesanca_parko_6.jpg
+  Burg-Idstein-JR-E-2642-2018-08-19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg-Idstein-JR-E-2642-2018-08-19.jpg/400px-Burg-Idstein-JR-E-2642-2018-08-19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg-Idstein-JR-E-2642-2018-08-19.jpg/800px-Burg-Idstein-JR-E-2642-2018-08-19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg-Idstein-JR-E-2642-2018-08-19.jpg/1200px-Burg-Idstein-JR-E-2642-2018-08-19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Burg-Idstein-JR-E-2642-2018-08-19.jpg/1920px-Burg-Idstein-JR-E-2642-2018-08-19.jpg
+  IdsteinBurgHexenturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IdsteinBurgHexenturm.jpg/400px-IdsteinBurgHexenturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IdsteinBurgHexenturm.jpg/800px-IdsteinBurgHexenturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IdsteinBurgHexenturm.jpg/1200px-IdsteinBurgHexenturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/IdsteinBurgHexenturm.jpg/1920px-IdsteinBurgHexenturm.jpg
 ---
 
 ## Overview

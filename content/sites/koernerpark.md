@@ -13,7 +13,7 @@ regions:
 latitude: 52.471944444
 longitude: 13.437777777
 images:
-  - "/images-sites/koernerpark/01-482b91b2-800w.webp"
+  - "/images/koernerpark/01-482b91b2-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.8033
 longitude: 9.16639
 images:
-  - "/images-sites/wiedesee/01-ed14b636-800w.webp"
+  - "/images/wiedesee/01-ed14b636-800w.webp"
 ---
 
 ## Overview

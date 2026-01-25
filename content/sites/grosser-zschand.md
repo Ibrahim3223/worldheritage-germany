@@ -1,19 +1,49 @@
 ---
-title: "Großer Zschand"
+title: Großer Zschand
 date: 2026-01-24
 draft: false
-description: "valley in Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 50.90866
 longitude: 14.29885
 images:
-  - "/images-sites/grosser-zschand/01-7ddd6bd9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg/1200px-Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg/1200px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg/1200px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg/1200px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grosser_zschand_nord_teil.jpg/1200px-Grosser_zschand_nord_teil.jpg
+image_srcset:
+  Nationalpark Sächsische Schweiz Bärenfangwände lub 2024-09-21 img05 Aussicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg/400px-Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg/800px-Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg/1200px-Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg/1920px-Nationalpark_Sächsische_Schweiz_Bärenfangwände_lub_2024-09-21_img05_Aussicht.jpg
+  Nationalpark Sächsische Schweiz Großer Zschand lub 2024-07-22 img01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg/400px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg/800px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg/1200px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg/1920px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img01.jpg
+  Nationalpark Sächsische Schweiz Großer Zschand lub 2024-07-22 img02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg/400px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg/800px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg/1200px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg/1920px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img02.jpg
+  Nationalpark Sächsische Schweiz Großer Zschand lub 2024-07-22 img04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg/400px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg/800px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg/1200px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg/1920px-Nationalpark_Sächsische_Schweiz_Großer_Zschand_lub_2024-07-22_img04.jpg
+  Grosser zschand nord teil.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grosser_zschand_nord_teil.jpg/400px-Grosser_zschand_nord_teil.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grosser_zschand_nord_teil.jpg/800px-Grosser_zschand_nord_teil.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grosser_zschand_nord_teil.jpg/1200px-Grosser_zschand_nord_teil.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grosser_zschand_nord_teil.jpg/1920px-Grosser_zschand_nord_teil.jpg
 ---
 
 ## Overview

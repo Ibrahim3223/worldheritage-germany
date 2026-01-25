@@ -1,21 +1,49 @@
 ---
-title: "Abbey of Saint Peter in the Black Forest"
+title: Abbey of Saint Peter in the Black Forest
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.0166
 longitude: 8.0325
 images:
-  - "/images-sites/abbey-of-saint-peter-in-the-black-forest/01-f157f2d3-800w.webp"
-  - "/images-sites/abbey-of-saint-peter-in-the-black-forest/02-88f7a806-800w.webp"
-  - "/images-sites/abbey-of-saint-peter-in-the-black-forest/03-94214345-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/0062_Kloster_St._Peter_im_Schwarzwald.jpg/1200px-0062_Kloster_St._Peter_im_Schwarzwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Klosterkirche_St._Peter_Fassade.jpg/1200px-Klosterkirche_St._Peter_Fassade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kloster_St._Peter_auf_dem_Schwarzwald.jpg/1200px-Kloster_St._Peter_auf_dem_Schwarzwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/0068_Kloster_St._Peter_im_Schwarzwald.jpg/1200px-0068_Kloster_St._Peter_im_Schwarzwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/1200px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
+image_srcset:
+  0062 Kloster St. Peter im Schwarzwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/0062_Kloster_St._Peter_im_Schwarzwald.jpg/400px-0062_Kloster_St._Peter_im_Schwarzwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/0062_Kloster_St._Peter_im_Schwarzwald.jpg/800px-0062_Kloster_St._Peter_im_Schwarzwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/0062_Kloster_St._Peter_im_Schwarzwald.jpg/1200px-0062_Kloster_St._Peter_im_Schwarzwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/0062_Kloster_St._Peter_im_Schwarzwald.jpg/1920px-0062_Kloster_St._Peter_im_Schwarzwald.jpg
+  Klosterkirche St. Peter Fassade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Klosterkirche_St._Peter_Fassade.jpg/400px-Klosterkirche_St._Peter_Fassade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Klosterkirche_St._Peter_Fassade.jpg/800px-Klosterkirche_St._Peter_Fassade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Klosterkirche_St._Peter_Fassade.jpg/1200px-Klosterkirche_St._Peter_Fassade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Klosterkirche_St._Peter_Fassade.jpg/1920px-Klosterkirche_St._Peter_Fassade.jpg
+  Kloster St. Peter auf dem Schwarzwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kloster_St._Peter_auf_dem_Schwarzwald.jpg/400px-Kloster_St._Peter_auf_dem_Schwarzwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kloster_St._Peter_auf_dem_Schwarzwald.jpg/800px-Kloster_St._Peter_auf_dem_Schwarzwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kloster_St._Peter_auf_dem_Schwarzwald.jpg/1200px-Kloster_St._Peter_auf_dem_Schwarzwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kloster_St._Peter_auf_dem_Schwarzwald.jpg/1920px-Kloster_St._Peter_auf_dem_Schwarzwald.jpg
+  0068 Kloster St. Peter im Schwarzwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/0068_Kloster_St._Peter_im_Schwarzwald.jpg/400px-0068_Kloster_St._Peter_im_Schwarzwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/0068_Kloster_St._Peter_im_Schwarzwald.jpg/800px-0068_Kloster_St._Peter_im_Schwarzwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/0068_Kloster_St._Peter_im_Schwarzwald.jpg/1200px-0068_Kloster_St._Peter_im_Schwarzwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/0068_Kloster_St._Peter_im_Schwarzwald.jpg/1920px-0068_Kloster_St._Peter_im_Schwarzwald.jpg
+  Sankt-Peter-Klosterkirche-2005-08-28.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/400px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/800px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/1200px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sankt-Peter-Klosterkirche-2005-08-28.jpg/1920px-Sankt-Peter-Klosterkirche-2005-08-28.jpg
 ---
 
 ## Overview

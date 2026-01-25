@@ -13,8 +13,8 @@ regions:
 latitude: 51.601944444
 longitude: 10.789722222
 images:
-  - "/images-sites/rabensteiner-stollen/01-ca43554a-800w.webp"
-  - "/images-sites/rabensteiner-stollen/03-595521f2-800w.webp"
+  - "/images/rabensteiner-stollen/01-ca43554a-800w.webp"
+  - "/images/rabensteiner-stollen/03-595521f2-800w.webp"
 ---
 
 ## Overview

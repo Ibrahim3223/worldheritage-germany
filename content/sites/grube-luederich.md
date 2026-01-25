@@ -1,19 +1,43 @@
 ---
-title: "Grube Lüderich"
+title: Grube Lüderich
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9379
 longitude: 7.21691
 images:
-  - "/images-sites/grube-luederich/01-57813817-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg/1200px-Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aufbereitung_Lüderich_1897.jpg/1200px-Aufbereitung_Lüderich_1897.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Abortkübel.1.jpg/1200px-Abortkübel.1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaschacht.JPG/1200px-Franziskaschacht.JPG
+image_srcset:
+  Untereschbach Germany The-last-trolley-of-ore-from-Lüderich-mine-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg/400px-Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg/800px-Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg/1200px-Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg/1920px-Untereschbach_Germany_The-last-trolley-of-ore-from-Lüderich-mine-01.jpg
+  Aufbereitung Lüderich 1897.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aufbereitung_Lüderich_1897.jpg/400px-Aufbereitung_Lüderich_1897.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aufbereitung_Lüderich_1897.jpg/800px-Aufbereitung_Lüderich_1897.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aufbereitung_Lüderich_1897.jpg/1200px-Aufbereitung_Lüderich_1897.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aufbereitung_Lüderich_1897.jpg/1920px-Aufbereitung_Lüderich_1897.jpg
+  Abortkübel.1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Abortkübel.1.jpg/400px-Abortkübel.1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Abortkübel.1.jpg/800px-Abortkübel.1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Abortkübel.1.jpg/1200px-Abortkübel.1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Abortkübel.1.jpg/1920px-Abortkübel.1.jpg
+  Franziskaschacht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaschacht.JPG/400px-Franziskaschacht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaschacht.JPG/800px-Franziskaschacht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaschacht.JPG/1200px-Franziskaschacht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Franziskaschacht.JPG/1920px-Franziskaschacht.JPG
 ---
 
 ## Overview

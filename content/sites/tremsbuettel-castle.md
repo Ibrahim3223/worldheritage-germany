@@ -13,7 +13,7 @@ regions:
 latitude: 53.7437
 longitude: 10.313
 images:
-  - "/images-sites/tremsbuettel-castle/01-7749ae88-800w.webp"
+  - "/images/tremsbuettel-castle/01-7749ae88-800w.webp"
 ---
 
 ## Overview

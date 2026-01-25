@@ -1,19 +1,49 @@
 ---
-title: "Alte Elbe Kathewitz"
+title: Alte Elbe Kathewitz
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.514
 longitude: 13.0909
 images:
-  - "/images-sites/alte-elbe-kathewitz/01-888ac778-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brombeere_2.jpg/1200px-Brombeere_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alte_Elbe-Kathewitz1.JPG/1200px-Alte_Elbe-Kathewitz1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Alte_Elbe-Kathewitz2.JPG/1200px-Alte_Elbe-Kathewitz2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Alte_Elbe_Kathewitz_(1).jpg/1200px-NSG_Alte_Elbe_Kathewitz_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NSG_Alte_Elbe_Kathewitz_(9).jpg/1200px-NSG_Alte_Elbe_Kathewitz_(9).jpg
+image_srcset:
+  Brombeere 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brombeere_2.jpg/400px-Brombeere_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brombeere_2.jpg/800px-Brombeere_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brombeere_2.jpg/1200px-Brombeere_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Brombeere_2.jpg/1920px-Brombeere_2.jpg
+  Alte Elbe-Kathewitz1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alte_Elbe-Kathewitz1.JPG/400px-Alte_Elbe-Kathewitz1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alte_Elbe-Kathewitz1.JPG/800px-Alte_Elbe-Kathewitz1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alte_Elbe-Kathewitz1.JPG/1200px-Alte_Elbe-Kathewitz1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alte_Elbe-Kathewitz1.JPG/1920px-Alte_Elbe-Kathewitz1.JPG
+  Alte Elbe-Kathewitz2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Alte_Elbe-Kathewitz2.JPG/400px-Alte_Elbe-Kathewitz2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Alte_Elbe-Kathewitz2.JPG/800px-Alte_Elbe-Kathewitz2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Alte_Elbe-Kathewitz2.JPG/1200px-Alte_Elbe-Kathewitz2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Alte_Elbe-Kathewitz2.JPG/1920px-Alte_Elbe-Kathewitz2.JPG
+  NSG Alte Elbe Kathewitz (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Alte_Elbe_Kathewitz_(1).jpg/400px-NSG_Alte_Elbe_Kathewitz_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Alte_Elbe_Kathewitz_(1).jpg/800px-NSG_Alte_Elbe_Kathewitz_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Alte_Elbe_Kathewitz_(1).jpg/1200px-NSG_Alte_Elbe_Kathewitz_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NSG_Alte_Elbe_Kathewitz_(1).jpg/1920px-NSG_Alte_Elbe_Kathewitz_(1).jpg
+  NSG Alte Elbe Kathewitz (9).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NSG_Alte_Elbe_Kathewitz_(9).jpg/400px-NSG_Alte_Elbe_Kathewitz_(9).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NSG_Alte_Elbe_Kathewitz_(9).jpg/800px-NSG_Alte_Elbe_Kathewitz_(9).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NSG_Alte_Elbe_Kathewitz_(9).jpg/1200px-NSG_Alte_Elbe_Kathewitz_(9).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NSG_Alte_Elbe_Kathewitz_(9).jpg/1920px-NSG_Alte_Elbe_Kathewitz_(9).jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 48.14795
 longitude: 11.57654
 images:
-  - "/images-sites/max-planck-digital-library/01-431b6a20-800w.webp"
-  - "/images-sites/max-planck-digital-library/02-ae7d52da-800w.webp"
-  - "/images-sites/max-planck-digital-library/03-afc7f82f-800w.webp"
+  - "/images/max-planck-digital-library/01-431b6a20-800w.webp"
+  - "/images/max-planck-digital-library/02-ae7d52da-800w.webp"
+  - "/images/max-planck-digital-library/03-afc7f82f-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 6.821588
 
 # Images
 images:
-  - "/images-sites/kult-westmuensterland/01-1e18ed9b-800w.webp"
+  - "/images/kult-westmuensterland/01-1e18ed9b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.001388888
 longitude: 8.383611111
 images:
-  - "/images-sites/zkm-center-for-art-and-media-karlsruhe/01-ac50ab4b-800w.webp"
+  - "/images/zkm-center-for-art-and-media-karlsruhe/01-ac50ab4b-800w.webp"
 ---
 
 ## Overview

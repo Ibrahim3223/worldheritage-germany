@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q69816161"
 description: "In the heart of Rastede, Germany, stands the Palais Rastede, a remarkable example of historicist architecture founded in 1789. This palace, designed by ..."
 images:
-  - "/images-sites/palais-rastede/01-dd3fc2a1-1920w.webp"
-  - "/images-sites/palais-rastede/02-2e536d8a-1920w.webp"
-  - "/images-sites/palais-rastede/03-f00f3b25-1920w.webp"
+  - "/images/palais-rastede/01-dd3fc2a1-1920w.webp"
+  - "/images/palais-rastede/02-2e536d8a-1920w.webp"
+  - "/images/palais-rastede/03-f00f3b25-1920w.webp"
 ---
 
 ## Overview

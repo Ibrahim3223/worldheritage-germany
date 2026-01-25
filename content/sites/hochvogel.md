@@ -1,19 +1,50 @@
 ---
-title: "Hochvogel"
+title: Hochvogel
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps at the border of Tyrol, Austria, and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps at the border of Tyrol, Austria, and Bavaria,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.3803625
 longitude: 10.4367656
 images:
-  - "/images-sites/hochvogel/01-8b85644c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MK58111_Hochvogel.jpg/1200px-MK58111_Hochvogel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg/1200px-20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg/1200px-Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/1200px-20250809_100506_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hochvogel.jpg/1200px-Hochvogel.jpg
+image_srcset:
+  MK58111 Hochvogel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MK58111_Hochvogel.jpg/400px-MK58111_Hochvogel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MK58111_Hochvogel.jpg/800px-MK58111_Hochvogel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MK58111_Hochvogel.jpg/1200px-MK58111_Hochvogel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/MK58111_Hochvogel.jpg/1920px-MK58111_Hochvogel.jpg
+  20241031 TannheimerTal GamskopfZu Hochvogel DSC00760 3 PtrQs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg/400px-20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg/800px-20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg/1200px-20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg/1920px-20241031_TannheimerTal_GamskopfZu_Hochvogel_DSC00760_3_PtrQs.jpg
+  Hochvogel gesehen vom Ornach bei Oberjoch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg/400px-Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg/800px-Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg/1200px-Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg/1920px-Hochvogel_gesehen_vom_Ornach_bei_Oberjoch.jpg
+  20250809 100506 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/400px-20250809_100506_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/800px-20250809_100506_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/1200px-20250809_100506_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20250809_100506_HDR.jpg/1920px-20250809_100506_HDR.jpg
+  Hochvogel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hochvogel.jpg/400px-Hochvogel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hochvogel.jpg/800px-Hochvogel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hochvogel.jpg/1200px-Hochvogel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hochvogel.jpg/1920px-Hochvogel.jpg
 ---
 
 ## Overview

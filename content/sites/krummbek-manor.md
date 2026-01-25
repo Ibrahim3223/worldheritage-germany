@@ -13,7 +13,7 @@ regions:
 latitude: 53.7508
 longitude: 10.3942
 images:
-  - "/images-sites/krummbek-manor/03-9f3ca6cd-800w.webp"
+  - "/images/krummbek-manor/03-9f3ca6cd-800w.webp"
 ---
 
 ## Overview

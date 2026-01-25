@@ -13,7 +13,7 @@ regions:
 latitude: 52.5217
 longitude: 13.3861
 images:
-  - "/images-sites/theater-am-schiffbauerdamm/01-8b67f367-800w.webp"
+  - "/images/theater-am-schiffbauerdamm/01-8b67f367-800w.webp"
 ---
 
 ## Overview

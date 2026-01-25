@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q880442"
 description: "The Sankt-Sebastian-Kirche stands as a remarkable example of Romanesque architecture in Magdeburg, Saxony-Anhalt, Germany. Founded in 1015, this cathedr..."
 images:
-  - "/images-sites/sankt-sebastian-kirche/01-779893c3-1920w.webp"
-  - "/images-sites/sankt-sebastian-kirche/02-5263a9c2-1920w.webp"
-  - "/images-sites/sankt-sebastian-kirche/03-eb0d71bc-1920w.webp"
+  - "/images/sankt-sebastian-kirche/01-779893c3-1920w.webp"
+  - "/images/sankt-sebastian-kirche/02-5263a9c2-1920w.webp"
+  - "/images/sankt-sebastian-kirche/03-eb0d71bc-1920w.webp"
 ---
 
 ## Overview

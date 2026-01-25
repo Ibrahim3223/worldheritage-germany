@@ -13,7 +13,7 @@ regions:
 latitude: 50.3701
 longitude: 9.9801
 images:
-  - "/images-sites/kreuzberg/01-aa4217b2-800w.webp"
+  - "/images/kreuzberg/01-aa4217b2-800w.webp"
 ---
 
 ## Overview 

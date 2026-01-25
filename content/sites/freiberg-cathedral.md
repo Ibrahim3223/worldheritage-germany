@@ -1,23 +1,50 @@
 ---
-title: "Freiberg Cathedral"
-site_name: "Freiberg Cathedral"
-slug: "freiberg-cathedral"
-region: "Saxony"
-
-# Location
+title: Freiberg Cathedral
+site_name: Freiberg Cathedral
+slug: freiberg-cathedral
+region: Saxony
 latitude: 50.920277777778
 longitude: 13.343333333333
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q592392"
-description: "Freiberg Cathedral, a striking example of Gothic architecture, has stood as a significant landmark in Freiberg since its founding in 1225. This Lutheran..."
+- cultural site
+wikidata_id: Q592392
+description: Freiberg Cathedral, a striking example of Gothic architecture, has stood
+  as a significant landmark in Freiberg since its founding in 1225. This Lutheran...
 images:
-  - "/images-sites/freiberg-cathedral/01-558e3b71-1920w.webp"
-  - "/images-sites/freiberg-cathedral/02-ce05b807-1920w.webp"
-  - "/images-sites/freiberg-cathedral/03-44da5370-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fg080509%2010dom.jpg/1200px-Fg080509%2010dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freiberger_Dom_-_Panorama_(06).jpg/1200px-Freiberger_Dom_-_Panorama_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1200px-Fg080509_10dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiberg_dom.jpg/1200px-Freiberg_dom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg/1200px-Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg
+image_srcset:
+  Fg080509%2010dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fg080509%2010dom.jpg/400px-Fg080509%2010dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fg080509%2010dom.jpg/800px-Fg080509%2010dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fg080509%2010dom.jpg/1200px-Fg080509%2010dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fg080509%2010dom.jpg/1920px-Fg080509%2010dom.jpg
+  Freiberger Dom - Panorama (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freiberger_Dom_-_Panorama_(06).jpg/400px-Freiberger_Dom_-_Panorama_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freiberger_Dom_-_Panorama_(06).jpg/800px-Freiberger_Dom_-_Panorama_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freiberger_Dom_-_Panorama_(06).jpg/1200px-Freiberger_Dom_-_Panorama_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Freiberger_Dom_-_Panorama_(06).jpg/1920px-Freiberger_Dom_-_Panorama_(06).jpg
+  Fg080509 10dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/400px-Fg080509_10dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/800px-Fg080509_10dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1200px-Fg080509_10dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fg080509_10dom.jpg/1920px-Fg080509_10dom.jpg
+  Freiberg dom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiberg_dom.jpg/400px-Freiberg_dom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiberg_dom.jpg/800px-Freiberg_dom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiberg_dom.jpg/1200px-Freiberg_dom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Freiberg_dom.jpg/1920px-Freiberg_dom.jpg
+  Freiberg i. Sa., Sachsen - Dom und Museum (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg/400px-Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg/800px-Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg/1200px-Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg/1920px-Freiberg_i._Sa.,_Sachsen_-_Dom_und_Museum_(Zeno_Ansichtskarten).jpg
 ---
 
 ## Overview

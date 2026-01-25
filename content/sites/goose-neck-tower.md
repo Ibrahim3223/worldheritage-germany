@@ -1,21 +1,49 @@
 ---
-title: "Goose Neck Tower"
+title: Goose Neck Tower
 date: 2026-01-24
 draft: false
-description: "concrete radio tower in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: concrete radio tower in Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 50.397308
 longitude: 7.20437
 images:
-  - "/images-sites/goose-neck-tower/01-2403e941-800w.webp"
-  - "/images-sites/goose-neck-tower/02-88df9486-800w.webp"
-  - "/images-sites/goose-neck-tower/03-5e57e735-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gänsehalsturm-01.jpg/1200px-Gänsehalsturm-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gänsehalsturm-02-Zugang.jpg/1200px-Gänsehalsturm-02-Zugang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gänsehalsturm-03-Tafel.jpg/1200px-Gänsehalsturm-03-Tafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Waldseepfad_Rieden_Gänsehals.jpg/1200px-Waldseepfad_Rieden_Gänsehals.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Waldseepfad_Rieden_Gänsehalsturm.jpg/1200px-Waldseepfad_Rieden_Gänsehalsturm.jpg
+image_srcset:
+  Gänsehalsturm-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gänsehalsturm-01.jpg/400px-Gänsehalsturm-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gänsehalsturm-01.jpg/800px-Gänsehalsturm-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gänsehalsturm-01.jpg/1200px-Gänsehalsturm-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gänsehalsturm-01.jpg/1920px-Gänsehalsturm-01.jpg
+  Gänsehalsturm-02-Zugang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gänsehalsturm-02-Zugang.jpg/400px-Gänsehalsturm-02-Zugang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gänsehalsturm-02-Zugang.jpg/800px-Gänsehalsturm-02-Zugang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gänsehalsturm-02-Zugang.jpg/1200px-Gänsehalsturm-02-Zugang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gänsehalsturm-02-Zugang.jpg/1920px-Gänsehalsturm-02-Zugang.jpg
+  Gänsehalsturm-03-Tafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gänsehalsturm-03-Tafel.jpg/400px-Gänsehalsturm-03-Tafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gänsehalsturm-03-Tafel.jpg/800px-Gänsehalsturm-03-Tafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gänsehalsturm-03-Tafel.jpg/1200px-Gänsehalsturm-03-Tafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gänsehalsturm-03-Tafel.jpg/1920px-Gänsehalsturm-03-Tafel.jpg
+  Waldseepfad Rieden Gänsehals.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Waldseepfad_Rieden_Gänsehals.jpg/400px-Waldseepfad_Rieden_Gänsehals.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Waldseepfad_Rieden_Gänsehals.jpg/800px-Waldseepfad_Rieden_Gänsehals.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Waldseepfad_Rieden_Gänsehals.jpg/1200px-Waldseepfad_Rieden_Gänsehals.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Waldseepfad_Rieden_Gänsehals.jpg/1920px-Waldseepfad_Rieden_Gänsehals.jpg
+  Waldseepfad Rieden Gänsehalsturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Waldseepfad_Rieden_Gänsehalsturm.jpg/400px-Waldseepfad_Rieden_Gänsehalsturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Waldseepfad_Rieden_Gänsehalsturm.jpg/800px-Waldseepfad_Rieden_Gänsehalsturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Waldseepfad_Rieden_Gänsehalsturm.jpg/1200px-Waldseepfad_Rieden_Gänsehalsturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Waldseepfad_Rieden_Gänsehalsturm.jpg/1920px-Waldseepfad_Rieden_Gänsehalsturm.jpg
 ---
 
 ## Overview

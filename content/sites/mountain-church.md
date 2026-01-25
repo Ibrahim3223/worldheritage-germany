@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q819898"
 description: "In the heart of Wiesbaden, Germany, the Mountain Church stands as a striking example of Gothic Revival architecture. The church, built under the design ..."
 images:
-  - "/images-sites/mountain-church/01-1b31af7b-1920w.webp"
-  - "/images-sites/mountain-church/02-1840dcc0-1920w.webp"
-  - "/images-sites/mountain-church/03-10783e7f-1920w.webp"
+  - "/images/mountain-church/01-1b31af7b-1920w.webp"
+  - "/images/mountain-church/02-1840dcc0-1920w.webp"
+  - "/images/mountain-church/03-10783e7f-1920w.webp"
 ---
 
 ## Overview

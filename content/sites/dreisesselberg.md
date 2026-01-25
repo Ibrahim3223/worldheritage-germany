@@ -1,19 +1,49 @@
 ---
-title: "Dreisesselberg"
+title: Dreisesselberg
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.78472222
 longitude: 13.8025
 images:
-  - "/images-sites/dreisesselberg/01-13a0418d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/"Dreisesselberg".jpg/1200px-"Dreisesselberg".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dreisessel-Haus_und_Dreisesselberg.jpg/1200px-Dreisessel-Haus_und_Dreisesselberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dreisessel-Hochwald.jpg/1200px-Dreisessel-Hochwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NSG_Hochwald.jpg/1200px-NSG_Hochwald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AK_-_Dreisessel_-_um_1906.jpg/1200px-AK_-_Dreisessel_-_um_1906.jpg
+image_srcset:
+  '"Dreisesselberg".jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/"Dreisesselberg".jpg/400px-"Dreisesselberg".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/"Dreisesselberg".jpg/800px-"Dreisesselberg".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/"Dreisesselberg".jpg/1200px-"Dreisesselberg".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/"Dreisesselberg".jpg/1920px-"Dreisesselberg".jpg
+  Dreisessel-Haus und Dreisesselberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dreisessel-Haus_und_Dreisesselberg.jpg/400px-Dreisessel-Haus_und_Dreisesselberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dreisessel-Haus_und_Dreisesselberg.jpg/800px-Dreisessel-Haus_und_Dreisesselberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dreisessel-Haus_und_Dreisesselberg.jpg/1200px-Dreisessel-Haus_und_Dreisesselberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dreisessel-Haus_und_Dreisesselberg.jpg/1920px-Dreisessel-Haus_und_Dreisesselberg.jpg
+  Dreisessel-Hochwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dreisessel-Hochwald.jpg/400px-Dreisessel-Hochwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dreisessel-Hochwald.jpg/800px-Dreisessel-Hochwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dreisessel-Hochwald.jpg/1200px-Dreisessel-Hochwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dreisessel-Hochwald.jpg/1920px-Dreisessel-Hochwald.jpg
+  NSG Hochwald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NSG_Hochwald.jpg/400px-NSG_Hochwald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NSG_Hochwald.jpg/800px-NSG_Hochwald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NSG_Hochwald.jpg/1200px-NSG_Hochwald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NSG_Hochwald.jpg/1920px-NSG_Hochwald.jpg
+  AK - Dreisessel - um 1906.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AK_-_Dreisessel_-_um_1906.jpg/400px-AK_-_Dreisessel_-_um_1906.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AK_-_Dreisessel_-_um_1906.jpg/800px-AK_-_Dreisessel_-_um_1906.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AK_-_Dreisessel_-_um_1906.jpg/1200px-AK_-_Dreisessel_-_um_1906.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/AK_-_Dreisessel_-_um_1906.jpg/1920px-AK_-_Dreisessel_-_um_1906.jpg
 ---
 
 ## Overview

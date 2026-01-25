@@ -1,19 +1,50 @@
 ---
-title: "Antique Temple"
+title: Antique Temple
 date: 2026-01-23
 draft: false
-description: "mausoleum in Sanssouci, Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mausoleum"
+description: mausoleum in Sanssouci, Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Mausoleum
 categories:
-  - "Mausoleum"
+- Mausoleum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.40222
 longitude: 13.01889
 images:
-  - "/images-sites/antique-temple/01-cac388c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg/1200px-Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg/1200px-Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Potsdam_antikentempel.jpg/1200px-Potsdam_antikentempel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg/1200px-Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Auguste_victoria_axb02.jpg/1200px-Auguste_victoria_axb02.jpg
+image_srcset:
+  Beisetzung der Kaiserin Leichenzug Preußen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg/400px-Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg/800px-Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg/1200px-Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg/1920px-Beisetzung_der_Kaiserin_Leichenzug_Preußen.jpg
+  ? Potsdam - Sanssouci, Alemanha, Meados do Sec. XX, Castelo de Sanssouci, Musoleu
+    da Imperatiz Augusta Vitória dos tempos antigos, Arquivo de Villa Maria.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg/400px-Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg/800px-Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg/1200px-Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg/1920px-Potsdam_-_Sanssouci,_Alemanha,_Meados_do_Sec._XX,_Castelo_de_Sanssouci,_Musoleu_da_Imperatiz_Augusta_Vitória_dos_tempos_antigos,_Arquivo_de_Villa_Maria.jpg
+  Potsdam antikentempel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Potsdam_antikentempel.jpg/400px-Potsdam_antikentempel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Potsdam_antikentempel.jpg/800px-Potsdam_antikentempel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Potsdam_antikentempel.jpg/1200px-Potsdam_antikentempel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Potsdam_antikentempel.jpg/1920px-Potsdam_antikentempel.jpg
+  Bundesarchiv Bild 170-515, Potsdam, Sanssouci, Antikentempel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg/400px-Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg/800px-Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg/1200px-Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg/1920px-Bundesarchiv_Bild_170-515,_Potsdam,_Sanssouci,_Antikentempel.jpg
+  Auguste victoria axb02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Auguste_victoria_axb02.jpg/400px-Auguste_victoria_axb02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Auguste_victoria_axb02.jpg/800px-Auguste_victoria_axb02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Auguste_victoria_axb02.jpg/1200px-Auguste_victoria_axb02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Auguste_victoria_axb02.jpg/1920px-Auguste_victoria_axb02.jpg
 ---
 
 ## Overview

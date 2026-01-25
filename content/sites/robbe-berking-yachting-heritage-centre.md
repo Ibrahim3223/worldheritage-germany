@@ -13,7 +13,7 @@ regions:
 latitude: 54.80012
 longitude: 9.43798
 images:
-  - "/images-sites/robbe-berking-yachting-heritage-centre/01-e33ef1cc-800w.webp"
+  - "/images/robbe-berking-yachting-heritage-centre/01-e33ef1cc-800w.webp"
 ---
 
 ## Overview

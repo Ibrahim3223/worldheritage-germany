@@ -13,9 +13,9 @@ regions:
 latitude: 53.5925
 longitude: 10.155
 images:
-  - "/images-sites/rahlstedt-cemetery/01-c32f4225-800w.webp"
-  - "/images-sites/rahlstedt-cemetery/02-b03104c9-800w.webp"
-  - "/images-sites/rahlstedt-cemetery/03-2eb03000-800w.webp"
+  - "/images/rahlstedt-cemetery/01-c32f4225-800w.webp"
+  - "/images/rahlstedt-cemetery/02-b03104c9-800w.webp"
+  - "/images/rahlstedt-cemetery/03-2eb03000-800w.webp"
 ---
 
 ## Overview

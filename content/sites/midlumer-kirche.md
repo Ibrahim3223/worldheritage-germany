@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1932007"
 description: "The Midlumer Kirche, located in the quaint village of Midlum within the municipality of Jemgum in East Frisia, Germany, is a remarkable example of Roman..."
 images:
-  - "/images-sites/midlumer-kirche/01-3b0294e6-1920w.webp"
-  - "/images-sites/midlumer-kirche/02-ace8bf75-1920w.webp"
-  - "/images-sites/midlumer-kirche/03-838e349f-1920w.webp"
+  - "/images/midlumer-kirche/01-3b0294e6-1920w.webp"
+  - "/images/midlumer-kirche/02-ace8bf75-1920w.webp"
+  - "/images/midlumer-kirche/03-838e349f-1920w.webp"
 ---
 
 ## Overview

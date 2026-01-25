@@ -13,7 +13,7 @@ regions:
 latitude: 51.3411
 longitude: 6.60083
 images:
-  - "/images-sites/krefelder-zoo/01-3b82729f-800w.webp"
+  - "/images/krefelder-zoo/01-3b82729f-800w.webp"
 ---
 
 ## Overview

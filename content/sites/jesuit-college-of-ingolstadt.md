@@ -1,19 +1,44 @@
 ---
-title: "Jesuit College of Ingolstadt"
+title: Jesuit College of Ingolstadt
 date: 2026-01-23
 draft: false
-description: "jesuit school in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: jesuit school in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7653
 longitude: 11.4208
 images:
-  - "/images-sites/jesuit-college-of-ingolstadt/01-eaa0032a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg/1200px-Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jesuitenkolleg_Ingolstadt.JPG/1200px-Jesuitenkolleg_Ingolstadt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/1200px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg/1200px-Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg
+image_srcset:
+  Historico-Topographica Descriptio. 1. Das Renntambt München 325.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg/400px-Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg/800px-Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg/1200px-Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg/1920px-Historico-Topographica_Descriptio._1._Das_Renntambt_München_325.jpg
+  Jesuitenkolleg Ingolstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jesuitenkolleg_Ingolstadt.JPG/400px-Jesuitenkolleg_Ingolstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jesuitenkolleg_Ingolstadt.JPG/800px-Jesuitenkolleg_Ingolstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jesuitenkolleg_Ingolstadt.JPG/1200px-Jesuitenkolleg_Ingolstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jesuitenkolleg_Ingolstadt.JPG/1920px-Jesuitenkolleg_Ingolstadt.JPG
+  ? GER — BY — Oberbayern — Ingolstadt — Auf der Schanz 45 — EG (Stadtmuseum · unbek.
+    · Jesuitenkolleg · um 1700) Mattes 2022-02-26.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/400px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/800px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/1200px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg/1920px-GER_—_BY_—_Oberbayern_—_Ingolstadt_—_Auf_der_Schanz_45_—_EG_(Stadtmuseum_·_unbek._·_Jesuitenkolleg_·_um_1700)_Mattes_2022-02-26.jpg
+  Jesuitenkolleg Ingolstadt Bericht zum Schwedenschimmel 1632.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg/400px-Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg/800px-Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg/1200px-Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg/1920px-Jesuitenkolleg_Ingolstadt_Bericht_zum_Schwedenschimmel_1632.jpg
 ---
 
 ## Overview

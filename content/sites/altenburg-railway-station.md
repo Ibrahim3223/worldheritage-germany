@@ -1,19 +1,49 @@
 ---
-title: "Altenburg railway station"
+title: Altenburg railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Altenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Altenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.996751
 longitude: 12.444035
 images:
-  - "/images-sites/altenburg-railway-station/01-afcd3477-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1200px-Altenburg_-_train_station_2009_(aka).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg/1200px-2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/I12_517_PAG-Kasten_10010.jpg/1200px-I12_517_PAG-Kasten_10010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/I12_518_Bf_Altenburg,_Einfsig_O.jpg/1200px-I12_518_Bf_Altenburg,_Einfsig_O.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/I12_519_Bf_Altenburg,_Einfsig_O.jpg/1200px-I12_519_Bf_Altenburg,_Einfsig_O.jpg
+image_srcset:
+  Altenburg - train station 2009 (aka).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/400px-Altenburg_-_train_station_2009_(aka).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/800px-Altenburg_-_train_station_2009_(aka).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1200px-Altenburg_-_train_station_2009_(aka).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altenburg_-_train_station_2009_(aka).jpg/1920px-Altenburg_-_train_station_2009_(aka).jpg
+  2018-08-25 1728-CBC-Citylink-in-Altenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg/400px-2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg/800px-2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg/1200px-2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg/1920px-2018-08-25_1728-CBC-Citylink-in-Altenburg.jpg
+  I12 517 PAG-Kasten 10010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/I12_517_PAG-Kasten_10010.jpg/400px-I12_517_PAG-Kasten_10010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/I12_517_PAG-Kasten_10010.jpg/800px-I12_517_PAG-Kasten_10010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/I12_517_PAG-Kasten_10010.jpg/1200px-I12_517_PAG-Kasten_10010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/I12_517_PAG-Kasten_10010.jpg/1920px-I12_517_PAG-Kasten_10010.jpg
+  I12 518 Bf Altenburg, Einfsig O.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/I12_518_Bf_Altenburg,_Einfsig_O.jpg/400px-I12_518_Bf_Altenburg,_Einfsig_O.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/I12_518_Bf_Altenburg,_Einfsig_O.jpg/800px-I12_518_Bf_Altenburg,_Einfsig_O.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/I12_518_Bf_Altenburg,_Einfsig_O.jpg/1200px-I12_518_Bf_Altenburg,_Einfsig_O.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/I12_518_Bf_Altenburg,_Einfsig_O.jpg/1920px-I12_518_Bf_Altenburg,_Einfsig_O.jpg
+  I12 519 Bf Altenburg, Einfsig O.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/I12_519_Bf_Altenburg,_Einfsig_O.jpg/400px-I12_519_Bf_Altenburg,_Einfsig_O.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/I12_519_Bf_Altenburg,_Einfsig_O.jpg/800px-I12_519_Bf_Altenburg,_Einfsig_O.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/I12_519_Bf_Altenburg,_Einfsig_O.jpg/1200px-I12_519_Bf_Altenburg,_Einfsig_O.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/I12_519_Bf_Altenburg,_Einfsig_O.jpg/1920px-I12_519_Bf_Altenburg,_Einfsig_O.jpg
 ---
 
 ## Overview

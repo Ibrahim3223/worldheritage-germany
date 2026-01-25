@@ -21,7 +21,7 @@ longitude: 8.85139
 
 # Images
 images:
-  - "/images-sites/zollernschloss/01-66fcc8ff-800w.webp"
+  - "/images/zollernschloss/01-66fcc8ff-800w.webp"
 ---
 
 ## Overview

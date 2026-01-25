@@ -13,7 +13,7 @@ regions:
 latitude: 50.0122
 longitude: 8.2626
 images:
-  - "/images-sites/kunsthalle-mainz/01-570875ac-800w.webp"
+  - "/images/kunsthalle-mainz/01-570875ac-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Exotenwald Weinheim"
+title: Exotenwald Weinheim
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.5408
 longitude: 8.675
-
-# Images
 images:
-  - "/images-sites/exotenwald-weinheim/01-16321b01-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Exotenwald_Weinheim_01.jpg/1200px-Exotenwald_Weinheim_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wasserbecken_Exotenwald_Weinheim.jpg/1200px-Wasserbecken_Exotenwald_Weinheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Weihertalbrunnen.jpg/1200px-Weihertalbrunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exotenwald_Weinheim_02.jpg/1200px-Exotenwald_Weinheim_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Exotenwald_Weinheim_06.jpg/1200px-Exotenwald_Weinheim_06.jpg
+image_srcset:
+  Exotenwald Weinheim 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Exotenwald_Weinheim_01.jpg/400px-Exotenwald_Weinheim_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Exotenwald_Weinheim_01.jpg/800px-Exotenwald_Weinheim_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Exotenwald_Weinheim_01.jpg/1200px-Exotenwald_Weinheim_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Exotenwald_Weinheim_01.jpg/1920px-Exotenwald_Weinheim_01.jpg
+  Wasserbecken Exotenwald Weinheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wasserbecken_Exotenwald_Weinheim.jpg/400px-Wasserbecken_Exotenwald_Weinheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wasserbecken_Exotenwald_Weinheim.jpg/800px-Wasserbecken_Exotenwald_Weinheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wasserbecken_Exotenwald_Weinheim.jpg/1200px-Wasserbecken_Exotenwald_Weinheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wasserbecken_Exotenwald_Weinheim.jpg/1920px-Wasserbecken_Exotenwald_Weinheim.jpg
+  Weihertalbrunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Weihertalbrunnen.jpg/400px-Weihertalbrunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Weihertalbrunnen.jpg/800px-Weihertalbrunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Weihertalbrunnen.jpg/1200px-Weihertalbrunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Weihertalbrunnen.jpg/1920px-Weihertalbrunnen.jpg
+  Exotenwald Weinheim 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exotenwald_Weinheim_02.jpg/400px-Exotenwald_Weinheim_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exotenwald_Weinheim_02.jpg/800px-Exotenwald_Weinheim_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exotenwald_Weinheim_02.jpg/1200px-Exotenwald_Weinheim_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exotenwald_Weinheim_02.jpg/1920px-Exotenwald_Weinheim_02.jpg
+  Exotenwald Weinheim 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Exotenwald_Weinheim_06.jpg/400px-Exotenwald_Weinheim_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Exotenwald_Weinheim_06.jpg/800px-Exotenwald_Weinheim_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Exotenwald_Weinheim_06.jpg/1200px-Exotenwald_Weinheim_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Exotenwald_Weinheim_06.jpg/1920px-Exotenwald_Weinheim_06.jpg
 ---
 
 ## Overview

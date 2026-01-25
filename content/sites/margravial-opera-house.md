@@ -13,7 +13,7 @@ regions:
 latitude: 49.944344697
 longitude: 11.57866362
 images:
-  - "/images-sites/margravial-opera-house/01-c2f4397f-800w.webp"
+  - "/images/margravial-opera-house/01-c2f4397f-800w.webp"
 ---
 
 ## Overview

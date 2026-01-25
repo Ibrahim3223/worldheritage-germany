@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q707357"
 description: "In the heart of Nuremberg, Germany, the St. Lawrence Church, or Lorenzkirche, captivates visitors with its towering presence and intricate Gothic archit..."
 images:
-  - "/images-sites/st-lawrence/01-64e564a0-1920w.webp"
-  - "/images-sites/st-lawrence/02-762ea221-1920w.webp"
-  - "/images-sites/st-lawrence/03-87d163b6-1920w.webp"
+  - "/images/st-lawrence/01-64e564a0-1920w.webp"
+  - "/images/st-lawrence/02-762ea221-1920w.webp"
+  - "/images/st-lawrence/03-87d163b6-1920w.webp"
 ---
 
 ## Overview

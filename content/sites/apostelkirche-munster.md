@@ -1,24 +1,51 @@
 ---
-title: "Apostelkirche (Münster)"
-site_name: "Apostelkirche (Münster)"
-slug: "apostelkirche-munster"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Apostelkirche (Münster)
+site_name: Apostelkirche (Münster)
+slug: apostelkirche-munster
+region: North Rhine-Westphalia
 latitude: 51.964611
 longitude: 7.627722
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q619917"
-description: "The Apostelkirche in Münster, Germany, is a remarkable example of Gothic architecture that has stood since its founding in 1201. This Protestant church,..."
+- church building
+- religious site
+wikidata_id: Q619917
+description: The Apostelkirche in Münster, Germany, is a remarkable example of Gothic
+  architecture that has stood since its founding in 1201. This Protestant church,...
 images:
-  - "/images-sites/apostelkirche-munster/01-1a9aaaae-1920w.webp"
-  - "/images-sites/apostelkirche-munster/02-116f4846-1920w.webp"
-  - "/images-sites/apostelkirche-munster/03-d41009db-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg/1200px-Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Münster,_Apostelkirche_--_2019_--_3973.jpg/1200px-Münster,_Apostelkirche_--_2019_--_3973.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster,_Apostelkirche_--_2018_--_3635.jpg/1200px-Münster,_Apostelkirche_--_2018_--_3635.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Münster,_Apostelkirche_--_2014_--_6881.jpg/1200px-Münster,_Apostelkirche_--_2014_--_6881.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1200px-Apostelkirche_-_Münster_-_001_-_church.jpg
+image_srcset:
+  Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg/400px-Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg/800px-Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg/1200px-Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg/1920px-Apostelkirche%20-%20M%C3%BCnster%20-%20001%20-%20church.jpg
+  Münster, Apostelkirche -- 2019 -- 3973.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Münster,_Apostelkirche_--_2019_--_3973.jpg/400px-Münster,_Apostelkirche_--_2019_--_3973.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Münster,_Apostelkirche_--_2019_--_3973.jpg/800px-Münster,_Apostelkirche_--_2019_--_3973.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Münster,_Apostelkirche_--_2019_--_3973.jpg/1200px-Münster,_Apostelkirche_--_2019_--_3973.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Münster,_Apostelkirche_--_2019_--_3973.jpg/1920px-Münster,_Apostelkirche_--_2019_--_3973.jpg
+  Münster, Apostelkirche -- 2018 -- 3635.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster,_Apostelkirche_--_2018_--_3635.jpg/400px-Münster,_Apostelkirche_--_2018_--_3635.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster,_Apostelkirche_--_2018_--_3635.jpg/800px-Münster,_Apostelkirche_--_2018_--_3635.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster,_Apostelkirche_--_2018_--_3635.jpg/1200px-Münster,_Apostelkirche_--_2018_--_3635.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Münster,_Apostelkirche_--_2018_--_3635.jpg/1920px-Münster,_Apostelkirche_--_2018_--_3635.jpg
+  Münster, Apostelkirche -- 2014 -- 6881.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Münster,_Apostelkirche_--_2014_--_6881.jpg/400px-Münster,_Apostelkirche_--_2014_--_6881.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Münster,_Apostelkirche_--_2014_--_6881.jpg/800px-Münster,_Apostelkirche_--_2014_--_6881.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Münster,_Apostelkirche_--_2014_--_6881.jpg/1200px-Münster,_Apostelkirche_--_2014_--_6881.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Münster,_Apostelkirche_--_2014_--_6881.jpg/1920px-Münster,_Apostelkirche_--_2014_--_6881.jpg
+  Apostelkirche - Münster - 001 - church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/400px-Apostelkirche_-_Münster_-_001_-_church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/800px-Apostelkirche_-_Münster_-_001_-_church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1200px-Apostelkirche_-_Münster_-_001_-_church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostelkirche_-_Münster_-_001_-_church.jpg/1920px-Apostelkirche_-_Münster_-_001_-_church.jpg
 ---
 
 ## Overview

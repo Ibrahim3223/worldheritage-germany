@@ -21,7 +21,7 @@ longitude: 11.855
 
 # Images
 images:
-  - "/images-sites/waldsteinburg/01-608e6f7c-800w.webp"
+  - "/images/waldsteinburg/01-608e6f7c-800w.webp"
 ---
 
 ## Overview

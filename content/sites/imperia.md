@@ -1,19 +1,49 @@
 ---
-title: "Imperia"
+title: Imperia
 date: 2026-01-23
 draft: false
-description: "Statue by Peter Lenk in the harbour of Konstanz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: Statue by Peter Lenk in the harbour of Konstanz, Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 47.660752
 longitude: 9.181108
 images:
-  - "/images-sites/imperia/01-51e8c1f1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Galleria_ex_FS_Torre_Prarola.jpg/1200px-Galleria_ex_FS_Torre_Prarola.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imperia_Torre_Prarola.jpg/1200px-Imperia_Torre_Prarola.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Imperia_ex_linea_FS_via_Trento.jpg/1200px-Imperia_ex_linea_FS_via_Trento.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Imperia_località_Prino-Poggi.jpg/1200px-Imperia_località_Prino-Poggi.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Imperia_Porto_Maurizio_BMK.jpg/1200px-Imperia_Porto_Maurizio_BMK.jpg
+image_srcset:
+  Galleria ex FS Torre Prarola.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Galleria_ex_FS_Torre_Prarola.jpg/400px-Galleria_ex_FS_Torre_Prarola.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Galleria_ex_FS_Torre_Prarola.jpg/800px-Galleria_ex_FS_Torre_Prarola.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Galleria_ex_FS_Torre_Prarola.jpg/1200px-Galleria_ex_FS_Torre_Prarola.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Galleria_ex_FS_Torre_Prarola.jpg/1920px-Galleria_ex_FS_Torre_Prarola.jpg
+  Imperia Torre Prarola.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imperia_Torre_Prarola.jpg/400px-Imperia_Torre_Prarola.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imperia_Torre_Prarola.jpg/800px-Imperia_Torre_Prarola.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imperia_Torre_Prarola.jpg/1200px-Imperia_Torre_Prarola.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Imperia_Torre_Prarola.jpg/1920px-Imperia_Torre_Prarola.jpg
+  Imperia ex linea FS via Trento.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Imperia_ex_linea_FS_via_Trento.jpg/400px-Imperia_ex_linea_FS_via_Trento.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Imperia_ex_linea_FS_via_Trento.jpg/800px-Imperia_ex_linea_FS_via_Trento.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Imperia_ex_linea_FS_via_Trento.jpg/1200px-Imperia_ex_linea_FS_via_Trento.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Imperia_ex_linea_FS_via_Trento.jpg/1920px-Imperia_ex_linea_FS_via_Trento.jpg
+  Imperia località Prino-Poggi.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Imperia_località_Prino-Poggi.jpg/400px-Imperia_località_Prino-Poggi.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Imperia_località_Prino-Poggi.jpg/800px-Imperia_località_Prino-Poggi.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Imperia_località_Prino-Poggi.jpg/1200px-Imperia_località_Prino-Poggi.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Imperia_località_Prino-Poggi.jpg/1920px-Imperia_località_Prino-Poggi.jpg
+  Imperia Porto Maurizio BMK.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Imperia_Porto_Maurizio_BMK.jpg/400px-Imperia_Porto_Maurizio_BMK.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Imperia_Porto_Maurizio_BMK.jpg/800px-Imperia_Porto_Maurizio_BMK.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Imperia_Porto_Maurizio_BMK.jpg/1200px-Imperia_Porto_Maurizio_BMK.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Imperia_Porto_Maurizio_BMK.jpg/1920px-Imperia_Porto_Maurizio_BMK.jpg
 ---
 
 ## Overview

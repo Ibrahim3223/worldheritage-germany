@@ -1,21 +1,49 @@
 ---
-title: "Haus der Musik"
+title: Haus der Musik
 date: 2026-01-23
 draft: false
-description: "museum in Stuttgart, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Stuttgart, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.805664
 longitude: 9.213006
 images:
-  - "/images-sites/haus-der-musik/01-25c27b2f-800w.webp"
-  - "/images-sites/haus-der-musik/02-706185b5-800w.webp"
-  - "/images-sites/haus-der-musik/03-8b4d376f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Annagasse_Haus_der_Musik.jpg/1200px-Annagasse_Haus_der_Musik.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Haus_der_Musik_(4).jpg/1200px-Haus_der_Musik_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annagasse_17.JPG/1200px-Annagasse_17.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HDM_Außenansicht_hoch.JPG/1200px-HDM_Außenansicht_hoch.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haus-Der-Musik-Wien.jpg/1200px-Haus-Der-Musik-Wien.jpg
+image_srcset:
+  Annagasse Haus der Musik.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Annagasse_Haus_der_Musik.jpg/400px-Annagasse_Haus_der_Musik.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Annagasse_Haus_der_Musik.jpg/800px-Annagasse_Haus_der_Musik.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Annagasse_Haus_der_Musik.jpg/1200px-Annagasse_Haus_der_Musik.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Annagasse_Haus_der_Musik.jpg/1920px-Annagasse_Haus_der_Musik.jpg
+  Haus der Musik (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Haus_der_Musik_(4).jpg/400px-Haus_der_Musik_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Haus_der_Musik_(4).jpg/800px-Haus_der_Musik_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Haus_der_Musik_(4).jpg/1200px-Haus_der_Musik_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Haus_der_Musik_(4).jpg/1920px-Haus_der_Musik_(4).jpg
+  Annagasse 17.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annagasse_17.JPG/400px-Annagasse_17.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annagasse_17.JPG/800px-Annagasse_17.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annagasse_17.JPG/1200px-Annagasse_17.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annagasse_17.JPG/1920px-Annagasse_17.JPG
+  HDM Außenansicht hoch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HDM_Außenansicht_hoch.JPG/400px-HDM_Außenansicht_hoch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HDM_Außenansicht_hoch.JPG/800px-HDM_Außenansicht_hoch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HDM_Außenansicht_hoch.JPG/1200px-HDM_Außenansicht_hoch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HDM_Außenansicht_hoch.JPG/1920px-HDM_Außenansicht_hoch.JPG
+  Haus-Der-Musik-Wien.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haus-Der-Musik-Wien.jpg/400px-Haus-Der-Musik-Wien.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haus-Der-Musik-Wien.jpg/800px-Haus-Der-Musik-Wien.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haus-Der-Musik-Wien.jpg/1200px-Haus-Der-Musik-Wien.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Haus-Der-Musik-Wien.jpg/1920px-Haus-Der-Musik-Wien.jpg
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Church in Lübsee"
-site_name: "Church in Lübsee"
-slug: "church-in-lubsee"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Lübsee
+site_name: Church in Lübsee
+slug: church-in-lubsee
+region: Schleswig-Holstein
 latitude: 53.833
 longitude: 11.0246
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244488"
-description: "In the serene region of Menzendorf, Germany, the Church in Lübsee stands as a remarkable example of Brick Gothic architecture, captivating visitors with..."
+- cultural site
+wikidata_id: Q1244488
+description: In the serene region of Menzendorf, Germany, the Church in Lübsee stands
+  as a remarkable example of Brick Gothic architecture, captivating visitors with...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luebsee%20Kirche%202009-01-02%20061.jpg/1200px-Luebsee%20Kirche%202009-01-02%20061.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lübsee_GÜ_Kirche_2009-09-08_008.jpg/1200px-Lübsee_GÜ_Kirche_2009-09-08_008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg/1200px-Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png
+image_srcset:
+  Luebsee%20Kirche%202009-01-02%20061.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luebsee%20Kirche%202009-01-02%20061.jpg/400px-Luebsee%20Kirche%202009-01-02%20061.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luebsee%20Kirche%202009-01-02%20061.jpg/800px-Luebsee%20Kirche%202009-01-02%20061.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luebsee%20Kirche%202009-01-02%20061.jpg/1200px-Luebsee%20Kirche%202009-01-02%20061.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Luebsee%20Kirche%202009-01-02%20061.jpg/1920px-Luebsee%20Kirche%202009-01-02%20061.jpg
+  Lübsee GÜ Kirche 2009-09-08 008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lübsee_GÜ_Kirche_2009-09-08_008.jpg/400px-Lübsee_GÜ_Kirche_2009-09-08_008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lübsee_GÜ_Kirche_2009-09-08_008.jpg/800px-Lübsee_GÜ_Kirche_2009-09-08_008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lübsee_GÜ_Kirche_2009-09-08_008.jpg/1200px-Lübsee_GÜ_Kirche_2009-09-08_008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lübsee_GÜ_Kirche_2009-09-08_008.jpg/1920px-Lübsee_GÜ_Kirche_2009-09-08_008.jpg
+  Lübsee GÜ Kirche Eingang 2009-09-08 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg/400px-Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg/800px-Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg/1200px-Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg/1920px-Lübsee_GÜ_Kirche_Eingang_2009-09-08_007.jpg
+  Die Amtsgerichtsbezirke Schwaan, Bützow, Sternberg, Güstrow, Krakow, Goldberg, Parchim, Lübz und Plau S.333.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png/400px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png/800px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png/1920px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.333.png
+  Die Amtsgerichtsbezirke Schwaan, Bützow, Sternberg, Güstrow, Krakow, Goldberg, Parchim, Lübz und Plau S.332.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png/400px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png/800px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png/1920px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.332.png
 ---
 
 ## Overview

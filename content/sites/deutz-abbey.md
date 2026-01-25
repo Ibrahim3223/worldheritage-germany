@@ -1,19 +1,49 @@
 ---
-title: "Deutz Abbey"
+title: Deutz Abbey
 date: 2026-01-23
 draft: false
-description: "former monastery in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former monastery in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.938061111
 longitude: 6.9697
 images:
-  - "/images-sites/deutz-abbey/01-5f39798c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1200px-Alt-Heribert_Koeln-Deutz.jpg
+image_srcset:
+  Köln, Klosterkirche -Alt St. Heribert- -- 2014 -- 1805.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg/400px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg/800px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg/1920px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1805.jpg
+  Köln, Klosterkirche -Alt St. Heribert- -- 2014 -- 1861.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg/400px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg/800px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg/1920px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1861.jpg
+  Köln, Klosterkirche -Alt St. Heribert- -- 2014 -- 1862.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg/400px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg/800px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg/1920px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1862.jpg
+  Köln, Klosterkirche -Alt St. Heribert- -- 2014 -- 1806.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg/400px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg/800px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg/1200px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg/1920px-Köln,_Klosterkirche_-Alt_St._Heribert-_--_2014_--_1806.jpg
+  Alt-Heribert Koeln-Deutz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/400px-Alt-Heribert_Koeln-Deutz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/800px-Alt-Heribert_Koeln-Deutz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1200px-Alt-Heribert_Koeln-Deutz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Alt-Heribert_Koeln-Deutz.jpg/1920px-Alt-Heribert_Koeln-Deutz.jpg
 ---
 
 ## Overview

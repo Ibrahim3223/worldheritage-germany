@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Gera"
+title: Botanischer Garten Gera
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8758
 longitude: 12.0878
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-gera/01-4d2e90fa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Gera_12.jpg/1200px-Botanischer_Garten_Gera_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Botanischer_Garten_Gera_16.jpg/1200px-Botanischer_Garten_Gera_16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Botanischer_Garten_Gera_3.jpg/1200px-Botanischer_Garten_Gera_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1200px-Botanischer_Garten_Gera_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Botanischer_Garten_Gera_7.jpg/1200px-Botanischer_Garten_Gera_7.jpg
+image_srcset:
+  Botanischer Garten Gera 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Gera_12.jpg/400px-Botanischer_Garten_Gera_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Gera_12.jpg/800px-Botanischer_Garten_Gera_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Gera_12.jpg/1200px-Botanischer_Garten_Gera_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Botanischer_Garten_Gera_12.jpg/1920px-Botanischer_Garten_Gera_12.jpg
+  Botanischer Garten Gera 16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Botanischer_Garten_Gera_16.jpg/400px-Botanischer_Garten_Gera_16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Botanischer_Garten_Gera_16.jpg/800px-Botanischer_Garten_Gera_16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Botanischer_Garten_Gera_16.jpg/1200px-Botanischer_Garten_Gera_16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Botanischer_Garten_Gera_16.jpg/1920px-Botanischer_Garten_Gera_16.jpg
+  Botanischer Garten Gera 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Botanischer_Garten_Gera_3.jpg/400px-Botanischer_Garten_Gera_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Botanischer_Garten_Gera_3.jpg/800px-Botanischer_Garten_Gera_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Botanischer_Garten_Gera_3.jpg/1200px-Botanischer_Garten_Gera_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Botanischer_Garten_Gera_3.jpg/1920px-Botanischer_Garten_Gera_3.jpg
+  Botanischer Garten Gera 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/400px-Botanischer_Garten_Gera_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/800px-Botanischer_Garten_Gera_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1200px-Botanischer_Garten_Gera_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Botanischer_Garten_Gera_5.jpg/1920px-Botanischer_Garten_Gera_5.jpg
+  Botanischer Garten Gera 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Botanischer_Garten_Gera_7.jpg/400px-Botanischer_Garten_Gera_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Botanischer_Garten_Gera_7.jpg/800px-Botanischer_Garten_Gera_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Botanischer_Garten_Gera_7.jpg/1200px-Botanischer_Garten_Gera_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Botanischer_Garten_Gera_7.jpg/1920px-Botanischer_Garten_Gera_7.jpg
 ---
 
 ## Overview

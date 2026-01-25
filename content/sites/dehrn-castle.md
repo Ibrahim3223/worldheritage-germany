@@ -1,21 +1,49 @@
 ---
-title: "Dehrn Castle"
+title: Dehrn Castle
 date: 2026-01-23
 draft: false
-description: "castle complex in Dehrn in the Limburg-Weilburg district in Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle complex in Dehrn in the Limburg-Weilburg district in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4172
 longitude: 8.09167
 images:
-  - "/images-sites/dehrn-castle/01-5d21b09a-800w.webp"
-  - "/images-sites/dehrn-castle/02-4e6697d9-800w.webp"
-  - "/images-sites/dehrn-castle/03-66426f15-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Runkel,_Dehrn,_Schloss_20161128-002.jpg/1200px-Runkel,_Dehrn,_Schloss_20161128-002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Runkel,_Dehrn,_Schloss_20161128-004.jpg/1200px-Runkel,_Dehrn,_Schloss_20161128-004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Dehrn_2016.jpg/1200px-Burg_Dehrn_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luthmer_III-128-Schloss_Dehrn.jpg/1200px-Luthmer_III-128-Schloss_Dehrn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dehrn_-_Burg.jpg/1200px-Dehrn_-_Burg.jpg
+image_srcset:
+  Runkel, Dehrn, Schloss 20161128-002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Runkel,_Dehrn,_Schloss_20161128-002.jpg/400px-Runkel,_Dehrn,_Schloss_20161128-002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Runkel,_Dehrn,_Schloss_20161128-002.jpg/800px-Runkel,_Dehrn,_Schloss_20161128-002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Runkel,_Dehrn,_Schloss_20161128-002.jpg/1200px-Runkel,_Dehrn,_Schloss_20161128-002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Runkel,_Dehrn,_Schloss_20161128-002.jpg/1920px-Runkel,_Dehrn,_Schloss_20161128-002.jpg
+  Runkel, Dehrn, Schloss 20161128-004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Runkel,_Dehrn,_Schloss_20161128-004.jpg/400px-Runkel,_Dehrn,_Schloss_20161128-004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Runkel,_Dehrn,_Schloss_20161128-004.jpg/800px-Runkel,_Dehrn,_Schloss_20161128-004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Runkel,_Dehrn,_Schloss_20161128-004.jpg/1200px-Runkel,_Dehrn,_Schloss_20161128-004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Runkel,_Dehrn,_Schloss_20161128-004.jpg/1920px-Runkel,_Dehrn,_Schloss_20161128-004.jpg
+  Burg Dehrn 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Dehrn_2016.jpg/400px-Burg_Dehrn_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Dehrn_2016.jpg/800px-Burg_Dehrn_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Dehrn_2016.jpg/1200px-Burg_Dehrn_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Burg_Dehrn_2016.jpg/1920px-Burg_Dehrn_2016.jpg
+  Luthmer III-128-Schloss Dehrn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luthmer_III-128-Schloss_Dehrn.jpg/400px-Luthmer_III-128-Schloss_Dehrn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luthmer_III-128-Schloss_Dehrn.jpg/800px-Luthmer_III-128-Schloss_Dehrn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luthmer_III-128-Schloss_Dehrn.jpg/1200px-Luthmer_III-128-Schloss_Dehrn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Luthmer_III-128-Schloss_Dehrn.jpg/1920px-Luthmer_III-128-Schloss_Dehrn.jpg
+  Dehrn - Burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dehrn_-_Burg.jpg/400px-Dehrn_-_Burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dehrn_-_Burg.jpg/800px-Dehrn_-_Burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dehrn_-_Burg.jpg/1200px-Dehrn_-_Burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Dehrn_-_Burg.jpg/1920px-Dehrn_-_Burg.jpg
 ---
 
 ## Overview

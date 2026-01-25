@@ -13,7 +13,7 @@ regions:
 latitude: 49.77903
 longitude: 9.95142
 images:
-  - "/images-sites/lerchenhain-2-5-wuerzburg/01-e93b03e4-800w.webp"
+  - "/images/lerchenhain-2-5-wuerzburg/01-e93b03e4-800w.webp"
 ---
 
 ## Overview

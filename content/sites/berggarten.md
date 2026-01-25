@@ -1,27 +1,49 @@
 ---
-title: "Berggarten"
+title: Berggarten
 date: 2026-01-23
 draft: false
-description: "botanical garden in Hannover, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.3941
 longitude: 9.69876
-
-# Images
 images:
-  - "/images-sites/berggarten/01-3a8af69b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1200px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Herbstmandala-auf-Steintisch.JPG/1200px-Herbstmandala-auf-Steintisch.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cleistocactus_strausii_(Heese)_Backeb.jpg/1200px-Cleistocactus_strausii_(Heese)_Backeb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cannaceae_Canna_L._Golden_Gate.JPG/1200px-Cannaceae_Canna_L._Golden_Gate.JPG
+image_srcset:
+  Aerial image of Berggarten (view from the northeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/400px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/800px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_image_of_Berggarten_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Berggarten_(view_from_the_northeast).jpg
+  Aerial image of the Herrenhausen Gardens.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/400px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/800px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1200px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_image_of_the_Herrenhausen_Gardens.jpg/1920px-Aerial_image_of_the_Herrenhausen_Gardens.jpg
+  Herbstmandala-auf-Steintisch.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Herbstmandala-auf-Steintisch.JPG/400px-Herbstmandala-auf-Steintisch.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Herbstmandala-auf-Steintisch.JPG/800px-Herbstmandala-auf-Steintisch.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Herbstmandala-auf-Steintisch.JPG/1200px-Herbstmandala-auf-Steintisch.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Herbstmandala-auf-Steintisch.JPG/1920px-Herbstmandala-auf-Steintisch.JPG
+  Cleistocactus strausii (Heese) Backeb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cleistocactus_strausii_(Heese)_Backeb.jpg/400px-Cleistocactus_strausii_(Heese)_Backeb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cleistocactus_strausii_(Heese)_Backeb.jpg/800px-Cleistocactus_strausii_(Heese)_Backeb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cleistocactus_strausii_(Heese)_Backeb.jpg/1200px-Cleistocactus_strausii_(Heese)_Backeb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cleistocactus_strausii_(Heese)_Backeb.jpg/1920px-Cleistocactus_strausii_(Heese)_Backeb.jpg
+  Cannaceae Canna L. Golden Gate.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cannaceae_Canna_L._Golden_Gate.JPG/400px-Cannaceae_Canna_L._Golden_Gate.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cannaceae_Canna_L._Golden_Gate.JPG/800px-Cannaceae_Canna_L._Golden_Gate.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cannaceae_Canna_L._Golden_Gate.JPG/1200px-Cannaceae_Canna_L._Golden_Gate.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cannaceae_Canna_L._Golden_Gate.JPG/1920px-Cannaceae_Canna_L._Golden_Gate.JPG
 ---
 
 ## Overview

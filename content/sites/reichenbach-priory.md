@@ -13,7 +13,7 @@ regions:
 latitude: 48.5256
 longitude: 8.40139
 images:
-  - "/images-sites/reichenbach-priory/01-755b38ab-800w.webp"
+  - "/images/reichenbach-priory/01-755b38ab-800w.webp"
 ---
 
 ## Overview

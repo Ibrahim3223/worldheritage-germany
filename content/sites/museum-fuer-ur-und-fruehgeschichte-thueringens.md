@@ -13,9 +13,9 @@ regions:
 latitude: 50.975494444
 longitude: 11.326041666
 images:
-  - "/images-sites/museum-fuer-ur-und-fruehgeschichte-thueringens/01-c639d678-800w.webp"
-  - "/images-sites/museum-fuer-ur-und-fruehgeschichte-thueringens/02-568f1421-800w.webp"
-  - "/images-sites/museum-fuer-ur-und-fruehgeschichte-thueringens/03-70f410f0-800w.webp"
+  - "/images/museum-fuer-ur-und-fruehgeschichte-thueringens/01-c639d678-800w.webp"
+  - "/images/museum-fuer-ur-und-fruehgeschichte-thueringens/02-568f1421-800w.webp"
+  - "/images/museum-fuer-ur-und-fruehgeschichte-thueringens/03-70f410f0-800w.webp"
 ---
 
 ## Overview

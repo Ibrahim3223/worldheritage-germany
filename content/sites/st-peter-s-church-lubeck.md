@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q896458"
 description: "St. Peters Church in Lübeck, Germany, is not just a place of worship; it is an architectural marvel that captures the essence of the citys rich heritage..."
 images:
-  - "/images-sites/st-peter-s-church-lubeck/01-6a72b7fc-1920w.webp"
-  - "/images-sites/st-peter-s-church-lubeck/02-cd744fc4-1920w.webp"
-  - "/images-sites/st-peter-s-church-lubeck/03-a7e988a0-1920w.webp"
+  - "/images/st-peter-s-church-lubeck/01-6a72b7fc-1920w.webp"
+  - "/images/st-peter-s-church-lubeck/02-cd744fc4-1920w.webp"
+  - "/images/st-peter-s-church-lubeck/03-a7e988a0-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.330116
 longitude: 12.381133
 images:
-  - "/images-sites/leipzig-bayerischer-bahnhof/01-f5734390-800w.webp"
+  - "/images/leipzig-bayerischer-bahnhof/01-f5734390-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 54.8567
 longitude: 8.92167
 images:
-  - "/images-sites/suederberge/01-2673200c-800w.webp"
-  - "/images-sites/suederberge/02-7c8d6854-800w.webp"
-  - "/images-sites/suederberge/03-eef9ea83-800w.webp"
+  - "/images/suederberge/01-2673200c-800w.webp"
+  - "/images/suederberge/02-7c8d6854-800w.webp"
+  - "/images/suederberge/03-eef9ea83-800w.webp"
 ---
 
 ## Overview

@@ -1,23 +1,51 @@
 ---
-title: "Church of Our Lady"
-site_name: "Church of Our Lady"
-slug: "church-of-our-lady"
-region: "Thuringia"
-
-# Location
+title: Church of Our Lady
+site_name: Church of Our Lady
+slug: church-of-our-lady
+region: Thuringia
 latitude: 50.8333
 longitude: 10.9417
 regions:
-    - "Thuringia"
-heritage_type: "cultural site"
+- Thuringia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1823914"
-description: "In the heart of Arnstadt, Thuringia, Germany, the Church of Our Lady emerges as a striking example of Gothic architecture. With its intricate design and..."
+- cultural site
+wikidata_id: Q1823914
+description: In the heart of Arnstadt, Thuringia, Germany, the Church of Our Lady
+  emerges as a striking example of Gothic architecture. With its intricate design
+  and...
 images:
-  - "/images-sites/church-of-our-lady/01-bd7e997a-1920w.webp"
-  - "/images-sites/church-of-our-lady/02-1b3739b4-1920w.webp"
-  - "/images-sites/church-of-our-lady/03-a29a809c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg/1200px-Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Liebfrauenkirche%20Arnstadt.JPG/1200px-Liebfrauenkirche%20Arnstadt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg/1200px-Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg/1200px-Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg/1200px-The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg
+image_srcset:
+  Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg/400px-Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg/800px-Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg/1200px-Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg/1920px-Arnstadt%20Liebfrauenkirche%20Nordportal%201900.jpg
+  Liebfrauenkirche%20Arnstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Liebfrauenkirche%20Arnstadt.JPG/400px-Liebfrauenkirche%20Arnstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Liebfrauenkirche%20Arnstadt.JPG/800px-Liebfrauenkirche%20Arnstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Liebfrauenkirche%20Arnstadt.JPG/1200px-Liebfrauenkirche%20Arnstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Liebfrauenkirche%20Arnstadt.JPG/1920px-Liebfrauenkirche%20Arnstadt.JPG
+  Dijon Notre-Dame-de-Dijon Innen Langhaus Ost 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg/400px-Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg/800px-Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg/1200px-Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg/1920px-Dijon_Notre-Dame-de-Dijon_Innen_Langhaus_Ost_2.jpg
+  Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg/400px-Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg/800px-Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg/1200px-Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg/1920px-Arcachon-EgliseNDdesPasses-duMoulleau-byRundvald.jpg
+  The organ at Our Lady, Warnford - geograph.org.uk - 1582297.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg/400px-The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg/800px-The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg/1200px-The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg/1920px-The_organ_at_Our_Lady,_Warnford_-_geograph.org.uk_-_1582297.jpg
 ---
 
 ## Overview

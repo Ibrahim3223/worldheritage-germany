@@ -1,19 +1,49 @@
 ---
-title: "Höllental"
+title: Höllental
 date: 2026-01-24
 draft: false
-description: "valley in Garmisch-Partenkirchen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Garmisch-Partenkirchen, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 47.441
 longitude: 11.0339
 images:
-  - "/images-sites/hoellental/01-23e2087c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg/1200px-Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg/1200px-Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Höllentalstraße-B27_6995.JPG/1200px-Höllentalstraße-B27_6995.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Höllentalstraße-B27_7004.JPG/1200px-Höllentalstraße-B27_7004.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Payerbach_7006.JPG/1200px-Payerbach_7006.JPG
+image_srcset:
+  Riffelwandspitzen und Höllental von der Zugspitze 2002-07-09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg/400px-Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg/800px-Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg/1200px-Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg/1920px-Riffelwandspitzen_und_Höllental_von_der_Zugspitze_2002-07-09.jpg
+  Sonnenaufgang im Höllental (Frankenwald) 191220-0135-HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg/400px-Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg/800px-Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg/1200px-Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg/1920px-Sonnenaufgang_im_Höllental_(Frankenwald)_191220-0135-HDR.jpg
+  Höllentalstraße-B27 6995.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Höllentalstraße-B27_6995.JPG/400px-Höllentalstraße-B27_6995.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Höllentalstraße-B27_6995.JPG/800px-Höllentalstraße-B27_6995.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Höllentalstraße-B27_6995.JPG/1200px-Höllentalstraße-B27_6995.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Höllentalstraße-B27_6995.JPG/1920px-Höllentalstraße-B27_6995.JPG
+  Höllentalstraße-B27 7004.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Höllentalstraße-B27_7004.JPG/400px-Höllentalstraße-B27_7004.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Höllentalstraße-B27_7004.JPG/800px-Höllentalstraße-B27_7004.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Höllentalstraße-B27_7004.JPG/1200px-Höllentalstraße-B27_7004.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Höllentalstraße-B27_7004.JPG/1920px-Höllentalstraße-B27_7004.JPG
+  Payerbach 7006.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Payerbach_7006.JPG/400px-Payerbach_7006.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Payerbach_7006.JPG/800px-Payerbach_7006.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Payerbach_7006.JPG/1200px-Payerbach_7006.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Payerbach_7006.JPG/1920px-Payerbach_7006.JPG
 ---
 
 ## Overview

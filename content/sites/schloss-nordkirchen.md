@@ -16,7 +16,7 @@ categories:
 wikidata_id: "Q677420"
 description: "In the heart of North Rhine-Westphalia lies Schloss Nordkirchen, an architectural masterpiece that captures the imagination of visitors. Constructed in ..."
 images:
-  - "/images-sites/schloss-nordkirchen/01-70977688-1920w.webp"
+  - "/images/schloss-nordkirchen/01-70977688-1920w.webp"
 ---
 
 ## Overview

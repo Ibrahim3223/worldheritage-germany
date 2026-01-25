@@ -13,7 +13,7 @@ regions:
 latitude: 51.68728
 longitude: 7.76384
 images:
-  - "/images-sites/radbod-coal-mine/03-e77ad511-800w.webp"
+  - "/images/radbod-coal-mine/03-e77ad511-800w.webp"
 ---
 
 ## Overview

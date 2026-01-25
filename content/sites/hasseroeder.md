@@ -1,27 +1,49 @@
 ---
-title: "Hasseröder"
+title: Hasseröder
 date: 2026-01-23
 draft: false
-description: "German brewery, founded 1872, now owned by Anheuser-Busch InBev"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German brewery, founded 1872, now owned by Anheuser-Busch InBev
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.844444444
 longitude: 10.754444444
-
-# Images
 images:
-  - "/images-sites/hasseroeder/02-5b371d1c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg/1200px-Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rosberg_Calibra_3.JPG/1200px-Rosberg_Calibra_3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HasseroederBrauerei.jpg/1200px-HasseroederBrauerei.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hasseröder_Brauerei_-_Premium_Pils.jpg/1200px-Hasseröder_Brauerei_-_Premium_Pils.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hasseroder.jpg/1200px-Hasseroder.jpg
+image_srcset:
+  Gartenbahn Frohnau, Brauerei Hasseröder (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg/400px-Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg/800px-Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg/1200px-Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg/1920px-Gartenbahn_Frohnau,_Brauerei_Hasseröder_(1).jpg
+  Rosberg Calibra 3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rosberg_Calibra_3.JPG/400px-Rosberg_Calibra_3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rosberg_Calibra_3.JPG/800px-Rosberg_Calibra_3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rosberg_Calibra_3.JPG/1200px-Rosberg_Calibra_3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Rosberg_Calibra_3.JPG/1920px-Rosberg_Calibra_3.JPG
+  HasseroederBrauerei.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HasseroederBrauerei.jpg/400px-HasseroederBrauerei.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HasseroederBrauerei.jpg/800px-HasseroederBrauerei.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HasseroederBrauerei.jpg/1200px-HasseroederBrauerei.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HasseroederBrauerei.jpg/1920px-HasseroederBrauerei.jpg
+  Hasseröder Brauerei - Premium Pils.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hasseröder_Brauerei_-_Premium_Pils.jpg/400px-Hasseröder_Brauerei_-_Premium_Pils.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hasseröder_Brauerei_-_Premium_Pils.jpg/800px-Hasseröder_Brauerei_-_Premium_Pils.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hasseröder_Brauerei_-_Premium_Pils.jpg/1200px-Hasseröder_Brauerei_-_Premium_Pils.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hasseröder_Brauerei_-_Premium_Pils.jpg/1920px-Hasseröder_Brauerei_-_Premium_Pils.jpg
+  Hasseroder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hasseroder.jpg/400px-Hasseroder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hasseroder.jpg/800px-Hasseroder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hasseroder.jpg/1200px-Hasseroder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hasseroder.jpg/1920px-Hasseroder.jpg
 ---
 
 ## Overview

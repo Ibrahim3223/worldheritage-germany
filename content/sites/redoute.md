@@ -13,7 +13,7 @@ regions:
 latitude: 50.681544
 longitude: 7.153062
 images:
-  - "/images-sites/redoute/01-fb5107aa-800w.webp"
+  - "/images/redoute/01-fb5107aa-800w.webp"
 ---
 
 ## Overview

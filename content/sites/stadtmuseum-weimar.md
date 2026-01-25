@@ -13,7 +13,7 @@ regions:
 latitude: 50.982946
 longitude: 11.325558
 images:
-  - "/images-sites/stadtmuseum-weimar/01-f31a26d5-800w.webp"
+  - "/images/stadtmuseum-weimar/01-f31a26d5-800w.webp"
 ---
 
 ## Overview

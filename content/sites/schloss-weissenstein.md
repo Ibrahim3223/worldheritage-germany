@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q179062"
 description: "Schloss Weißenstein, located in the picturesque village of Pommersfelden, Bavaria, is a remarkable baroque palace that stands as a cultural heritage mon..."
 images:
-  - "/images-sites/schloss-weissenstein/01-8b108098-1920w.webp"
-  - "/images-sites/schloss-weissenstein/02-ae9e5485-1920w.webp"
-  - "/images-sites/schloss-weissenstein/03-c467fa9b-1920w.webp"
+  - "/images/schloss-weissenstein/01-8b108098-1920w.webp"
+  - "/images/schloss-weissenstein/02-ae9e5485-1920w.webp"
+  - "/images/schloss-weissenstein/03-c467fa9b-1920w.webp"
 ---
 
 ## Overview

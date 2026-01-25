@@ -1,21 +1,49 @@
 ---
-title: "Gröditzer Skala"
+title: Gröditzer Skala
 date: 2026-01-23
 draft: false
-description: "nature reserve in Sachsen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Sachsen, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2065
 longitude: 14.6372
 images:
-  - "/images-sites/groeditzer-skala/01-9e9997de-800w.webp"
-  - "/images-sites/groeditzer-skala/02-081ec585-800w.webp"
-  - "/images-sites/groeditzer-skala/03-15173c8f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Löbauer_Wasser_an_der_Gröditzer_Skala.jpg/1200px-Löbauer_Wasser_an_der_Gröditzer_Skala.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Viadukt_Löbauer_Wasser.jpg/1200px-Viadukt_Löbauer_Wasser.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hrodźišćanska_skala_2.JPG/1200px-Hrodźišćanska_skala_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg/1200px-Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg/1200px-Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg
+image_srcset:
+  Löbauer Wasser an der Gröditzer Skala.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Löbauer_Wasser_an_der_Gröditzer_Skala.jpg/400px-Löbauer_Wasser_an_der_Gröditzer_Skala.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Löbauer_Wasser_an_der_Gröditzer_Skala.jpg/800px-Löbauer_Wasser_an_der_Gröditzer_Skala.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Löbauer_Wasser_an_der_Gröditzer_Skala.jpg/1200px-Löbauer_Wasser_an_der_Gröditzer_Skala.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Löbauer_Wasser_an_der_Gröditzer_Skala.jpg/1920px-Löbauer_Wasser_an_der_Gröditzer_Skala.jpg
+  Viadukt Löbauer Wasser.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Viadukt_Löbauer_Wasser.jpg/400px-Viadukt_Löbauer_Wasser.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Viadukt_Löbauer_Wasser.jpg/800px-Viadukt_Löbauer_Wasser.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Viadukt_Löbauer_Wasser.jpg/1200px-Viadukt_Löbauer_Wasser.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Viadukt_Löbauer_Wasser.jpg/1920px-Viadukt_Löbauer_Wasser.jpg
+  Hrodźišćanska skala 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hrodźišćanska_skala_2.JPG/400px-Hrodźišćanska_skala_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hrodźišćanska_skala_2.JPG/800px-Hrodźišćanska_skala_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hrodźišćanska_skala_2.JPG/1200px-Hrodźišćanska_skala_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hrodźišćanska_skala_2.JPG/1920px-Hrodźišćanska_skala_2.JPG
+  Fotothek df rp-c 0630039 Weißenberg-Gröditz. Oberreit, Sect. Weißenberg, 1840.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg/400px-Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg/800px-Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg/1200px-Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg/1920px-Fotothek_df_rp-c_0630039_Weißenberg-Gröditz._Oberreit,_Sect._Weißenberg,_1840.jpg
+  Fotothek df rp-a 0340028 Weißenberg-Gröditz. Ortsansicht, nach Zeichnung von 1775.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg/400px-Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg/800px-Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg/1200px-Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg/1920px-Fotothek_df_rp-a_0340028_Weißenberg-Gröditz._Ortsansicht,_nach_Zeichnung_von_1775.jpg
 ---
 
 ## Overview

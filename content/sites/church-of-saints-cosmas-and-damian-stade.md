@@ -1,23 +1,26 @@
 ---
-title: "Church of Saints Cosmas and DamianStade"
-site_name: "Church of Saints Cosmas and DamianStade"
-slug: "church-of-saints-cosmas-and-damian-stade"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church of Saints Cosmas and DamianStade
+site_name: Church of Saints Cosmas and DamianStade
+slug: church-of-saints-cosmas-and-damian-stade
+region: Schleswig-Holstein
 latitude: 53.601836
 longitude: 9.476392
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1719200"
-description: "The Church of Saints Cosmas and Damian in Stade is a remarkable example of Brick Gothic architecture, built in 1659. This church stands as a significant..."
+- cultural site
+wikidata_id: Q1719200
+description: The Church of Saints Cosmas and Damian in Stade is a remarkable example
+  of Brick Gothic architecture, built in 1659. This church stands as a significant...
 images:
-  - "/images-sites/church-of-saints-cosmas-and-damian-stade/01-5cbd3591-1920w.webp"
-  - "/images-sites/church-of-saints-cosmas-and-damian-stade/02-13265e48-1920w.webp"
-  - "/images-sites/church-of-saints-cosmas-and-damian-stade/03-d60c139f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1200px-StadeStCosmaeDamiani.jpg
+image_srcset:
+  StadeStCosmaeDamiani.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/400px-StadeStCosmaeDamiani.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/800px-StadeStCosmaeDamiani.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1200px-StadeStCosmaeDamiani.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/StadeStCosmaeDamiani.jpg/1920px-StadeStCosmaeDamiani.jpg
 ---
 
 ## Overview

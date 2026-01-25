@@ -13,9 +13,9 @@ regions:
 latitude: 53.6017
 longitude: 14.5897
 images:
-  - "/images-sites/oder/01-fe354050-800w.webp"
-  - "/images-sites/oder/02-bceef7ff-800w.webp"
-  - "/images-sites/oder/03-9de280d9-800w.webp"
+  - "/images/oder/01-fe354050-800w.webp"
+  - "/images/oder/02-bceef7ff-800w.webp"
+  - "/images/oder/03-9de280d9-800w.webp"
 ---
 
 ## Overview

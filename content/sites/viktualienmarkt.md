@@ -13,7 +13,7 @@ regions:
 latitude: 48.1353
 longitude: 11.5761
 images:
-  - "/images-sites/viktualienmarkt/01-7e798ff5-800w.webp"
+  - "/images/viktualienmarkt/01-7e798ff5-800w.webp"
 ---
 
 ## Overview

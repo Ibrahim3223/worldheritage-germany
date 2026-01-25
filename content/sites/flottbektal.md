@@ -1,21 +1,49 @@
 ---
-title: "Flottbektal"
+title: Flottbektal
 date: 2026-01-23
 draft: false
-description: "nature reserve in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5494
 longitude: 9.86917
 images:
-  - "/images-sites/flottbektal/01-9814bb4b-800w.webp"
-  - "/images-sites/flottbektal/02-3497be6a-800w.webp"
-  - "/images-sites/flottbektal/03-e40518d2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/1200px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1200px-Flottbektal_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vlottbeekdaal_-_Schild.jpg/1200px-Vlottbeekdaal_-_Schild.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MFG_1531-Flottbektal.JPG/1200px-MFG_1531-Flottbektal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2017.0402_Jenisch-Park_umzu_(2)af.jpg/1200px-2017.0402_Jenisch-Park_umzu_(2)af.jpg
+image_srcset:
+  Hamburg, Naturschutzgebiet Flottbektal, Graureiher und Teichhuhn, WDPA ID 81677.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/400px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/800px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/1200px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg/1920px-Hamburg,_Naturschutzgebiet_Flottbektal,_Graureiher_und_Teichhuhn,_WDPA_ID_81677.jpg
+  Flottbektal (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/400px-Flottbektal_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/800px-Flottbektal_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1200px-Flottbektal_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flottbektal_(2).jpg/1920px-Flottbektal_(2).jpg
+  Vlottbeekdaal - Schild.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vlottbeekdaal_-_Schild.jpg/400px-Vlottbeekdaal_-_Schild.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vlottbeekdaal_-_Schild.jpg/800px-Vlottbeekdaal_-_Schild.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vlottbeekdaal_-_Schild.jpg/1200px-Vlottbeekdaal_-_Schild.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vlottbeekdaal_-_Schild.jpg/1920px-Vlottbeekdaal_-_Schild.jpg
+  MFG 1531-Flottbektal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MFG_1531-Flottbektal.JPG/400px-MFG_1531-Flottbektal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MFG_1531-Flottbektal.JPG/800px-MFG_1531-Flottbektal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MFG_1531-Flottbektal.JPG/1200px-MFG_1531-Flottbektal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MFG_1531-Flottbektal.JPG/1920px-MFG_1531-Flottbektal.JPG
+  2017.0402 Jenisch-Park umzu (2)af.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2017.0402_Jenisch-Park_umzu_(2)af.jpg/400px-2017.0402_Jenisch-Park_umzu_(2)af.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2017.0402_Jenisch-Park_umzu_(2)af.jpg/800px-2017.0402_Jenisch-Park_umzu_(2)af.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2017.0402_Jenisch-Park_umzu_(2)af.jpg/1200px-2017.0402_Jenisch-Park_umzu_(2)af.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2017.0402_Jenisch-Park_umzu_(2)af.jpg/1920px-2017.0402_Jenisch-Park_umzu_(2)af.jpg
 ---
 
 ## Overview

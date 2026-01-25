@@ -13,7 +13,7 @@ regions:
 latitude: 48.8054
 longitude: 9.20948
 images:
-  - "/images-sites/wilhelma-theater/01-2dde6467-800w.webp"
+  - "/images/wilhelma-theater/01-2dde6467-800w.webp"
 ---
 
 ## Overview

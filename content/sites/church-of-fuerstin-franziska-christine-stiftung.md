@@ -1,27 +1,49 @@
 ---
-title: "Church of Fürstin-Franziska-Christine-Stiftung"
+title: Church of Fürstin-Franziska-Christine-Stiftung
 date: 2026-01-23
 draft: false
-description: "foundation"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: foundation
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4503
 longitude: 7.07278
-
-# Images
 images:
-  - "/images-sites/church-of-fuerstin-franziska-christine-stiftung/01-7db193ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/1200px-Fürstin-Franziska-Christine-Stiftung_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fürstin-Franziska-Christine-Stiftung_01.JPG/1200px-Fürstin-Franziska-Christine-Stiftung_01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg/1200px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg/1200px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg/1200px-Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg
+image_srcset:
+  Fürstin-Franziska-Christine-Stiftung 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/400px-Fürstin-Franziska-Christine-Stiftung_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/800px-Fürstin-Franziska-Christine-Stiftung_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/1200px-Fürstin-Franziska-Christine-Stiftung_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fürstin-Franziska-Christine-Stiftung_03.jpg/1920px-Fürstin-Franziska-Christine-Stiftung_03.jpg
+  Fürstin-Franziska-Christine-Stiftung 01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fürstin-Franziska-Christine-Stiftung_01.JPG/400px-Fürstin-Franziska-Christine-Stiftung_01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fürstin-Franziska-Christine-Stiftung_01.JPG/800px-Fürstin-Franziska-Christine-Stiftung_01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fürstin-Franziska-Christine-Stiftung_01.JPG/1200px-Fürstin-Franziska-Christine-Stiftung_01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fürstin-Franziska-Christine-Stiftung_01.JPG/1920px-Fürstin-Franziska-Christine-Stiftung_01.JPG
+  Januarius Zick Fürstin-Franziska-Christine-Stiftung Essen 30.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg/400px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg/800px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg/1200px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg/1920px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_30.jpg
+  Januarius Zick Fürstin-Franziska-Christine-Stiftung Essen 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg/400px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg/800px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg/1200px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg/1920px-Januarius_Zick_Fürstin-Franziska-Christine-Stiftung_Essen_10.jpg
+  Essen Fürstin-Franziska-Christiane-Stiftung 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg/400px-Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg/800px-Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg/1200px-Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg/1920px-Essen_Fürstin-Franziska-Christiane-Stiftung_2.jpg
 ---
 
 ## Overview

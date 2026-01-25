@@ -1,19 +1,49 @@
 ---
-title: "Friedhof am Perlacher Forst"
+title: Friedhof am Perlacher Forst
 date: 2026-01-23
 draft: false
-description: "cemetery in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.098623154
 longitude: 11.596560336
 images:
-  - "/images-sites/friedhof-am-perlacher-forst/01-50a202cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg/1200px-Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedhof_am_Perlacher_Forst_Muenchen-19.jpg/1200px-Friedhof_am_Perlacher_Forst_Muenchen-19.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Friedhof_am_Perlacher_Forst_Muenchen-11.jpg/1200px-Friedhof_am_Perlacher_Forst_Muenchen-11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg/1200px-Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg
+image_srcset:
+  Skulptur im Friedhof am Perlacher Forst Muenchen-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg/400px-Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg/800px-Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg/1200px-Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg/1920px-Skulptur_im_Friedhof_am_Perlacher_Forst_Muenchen-7.jpg
+  Friedhof am Perlacher Forst Muenchen-19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedhof_am_Perlacher_Forst_Muenchen-19.jpg/400px-Friedhof_am_Perlacher_Forst_Muenchen-19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedhof_am_Perlacher_Forst_Muenchen-19.jpg/800px-Friedhof_am_Perlacher_Forst_Muenchen-19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedhof_am_Perlacher_Forst_Muenchen-19.jpg/1200px-Friedhof_am_Perlacher_Forst_Muenchen-19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Friedhof_am_Perlacher_Forst_Muenchen-19.jpg/1920px-Friedhof_am_Perlacher_Forst_Muenchen-19.jpg
+  Friedhof am Perlacher Forst Muenchen-11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Friedhof_am_Perlacher_Forst_Muenchen-11.jpg/400px-Friedhof_am_Perlacher_Forst_Muenchen-11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Friedhof_am_Perlacher_Forst_Muenchen-11.jpg/800px-Friedhof_am_Perlacher_Forst_Muenchen-11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Friedhof_am_Perlacher_Forst_Muenchen-11.jpg/1200px-Friedhof_am_Perlacher_Forst_Muenchen-11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Friedhof_am_Perlacher_Forst_Muenchen-11.jpg/1920px-Friedhof_am_Perlacher_Forst_Muenchen-11.jpg
+  Verwaltungsgebaeude Friedhof am Perlacher Forst Muenchen-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg/400px-Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg/800px-Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg/1200px-Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg/1920px-Verwaltungsgebaeude_Friedhof_am_Perlacher_Forst_Muenchen-1.jpg
+  Aerial image of Friedhof am Perlacher Forst (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg/400px-Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg/800px-Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Friedhof_am_Perlacher_Forst_(view_from_the_southeast).jpg
 ---
 
 ## Overview

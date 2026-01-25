@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1523026"
 description: "Stiftskirche, a captivating church building located in Landau in der Pfalz, Germany, showcases the elegance of Gothic architecture. This architectural s..."
 images:
-  - "/images-sites/stiftskirche/01-69c531a3-1920w.webp"
-  - "/images-sites/stiftskirche/02-cab41ae5-1920w.webp"
-  - "/images-sites/stiftskirche/02-d7bfe232-1920w.webp"
+  - "/images/stiftskirche/01-69c531a3-1920w.webp"
+  - "/images/stiftskirche/02-cab41ae5-1920w.webp"
+  - "/images/stiftskirche/02-d7bfe232-1920w.webp"
 ---
 
 ## Overview

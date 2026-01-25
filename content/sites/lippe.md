@@ -13,7 +13,7 @@ regions:
 latitude: 51.781388888
 longitude: 8.8225
 images:
-  - "/images-sites/lippe/01-3a2e6195-800w.webp"
+  - "/images/lippe/01-3a2e6195-800w.webp"
 ---
 
 ## Overview

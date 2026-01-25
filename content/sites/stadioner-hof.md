@@ -13,9 +13,9 @@ regions:
 latitude: 50.0009
 longitude: 8.2648
 images:
-  - "/images-sites/stadioner-hof/01-26384054-800w.webp"
-  - "/images-sites/stadioner-hof/02-49a02819-800w.webp"
-  - "/images-sites/stadioner-hof/03-befd7f48-800w.webp"
+  - "/images/stadioner-hof/01-26384054-800w.webp"
+  - "/images/stadioner-hof/02-49a02819-800w.webp"
+  - "/images/stadioner-hof/03-befd7f48-800w.webp"
 ---
 
 ## Overview

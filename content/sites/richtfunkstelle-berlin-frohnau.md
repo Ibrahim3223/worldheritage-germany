@@ -13,7 +13,7 @@ regions:
 latitude: 52.653055555
 longitude: 13.295555555
 images:
-  - "/images-sites/richtfunkstelle-berlin-frohnau/01-42845744-800w.webp"
+  - "/images/richtfunkstelle-berlin-frohnau/01-42845744-800w.webp"
 ---
 
 ## Overview

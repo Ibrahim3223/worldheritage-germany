@@ -13,7 +13,7 @@ regions:
 latitude: 51.34252
 longitude: 12.37042
 images:
-  - "/images-sites/richard-wagner-denkmal/01-0062f914-800w.webp"
+  - "/images/richard-wagner-denkmal/01-0062f914-800w.webp"
 ---
 
 ## Overview

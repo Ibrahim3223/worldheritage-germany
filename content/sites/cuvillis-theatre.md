@@ -1,19 +1,49 @@
 ---
-title: "Cuvilliés Theatre"
+title: Cuvilliés Theatre
 date: 2026-01-23
 draft: false
-description: "opera house and theatre in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: opera house and theatre in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1409
 longitude: 11.58002
 images:
-  - "/images-sites/cuvillis-theatre/01-f7af81b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cuvilliés-Theater_in_Münchner_Residenz.jpg/1200px-Cuvilliés-Theater_in_Münchner_Residenz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg/1200px-Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg/1200px-Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/1200px-München_Residenztheater.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg/1200px-FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg
+image_srcset:
+  Cuvilliés-Theater in Münchner Residenz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cuvilliés-Theater_in_Münchner_Residenz.jpg/400px-Cuvilliés-Theater_in_Münchner_Residenz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cuvilliés-Theater_in_Münchner_Residenz.jpg/800px-Cuvilliés-Theater_in_Münchner_Residenz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cuvilliés-Theater_in_Münchner_Residenz.jpg/1200px-Cuvilliés-Theater_in_Münchner_Residenz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cuvilliés-Theater_in_Münchner_Residenz.jpg/1920px-Cuvilliés-Theater_in_Münchner_Residenz.jpg
+  Skylight of the Cuvilliés Theater in Münchner Residenz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg/400px-Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg/800px-Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg/1200px-Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg/1920px-Skylight_of_the_Cuvilliés_Theater_in_Münchner_Residenz.jpg
+  Cuvilliés-Theater in Münchner Residenz Kurfürstenloge 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg/400px-Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg/800px-Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg/1200px-Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg/1920px-Cuvilliés-Theater_in_Münchner_Residenz_Kurfürstenloge_2.jpg
+  München Residenztheater.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/400px-München_Residenztheater.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/800px-München_Residenztheater.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/1200px-München_Residenztheater.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/München_Residenztheater.JPG/1920px-München_Residenztheater.JPG
+  FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg/400px-FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg/800px-FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg/1200px-FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg/1920px-FM-2019-1-7-1--Niggl-Radloff-B-Anette-Kolb-ONLINE.jpg
 ---
 
 ## Overview

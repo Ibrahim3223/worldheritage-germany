@@ -1,27 +1,49 @@
 ---
-title: "Burg Prunn"
+title: Burg Prunn
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.950277777
 longitude: 11.739583333
-
-# Images
 images:
-  - "/images-sites/burg-prunn/01-007ae343-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Burg_Prunn.jpg/1200px-2020_Burg_Prunn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2020_Burg_Prunn_2.jpg/1200px-2020_Burg_Prunn_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Prunn_(Riedenburg)_01.jpg/1200px-Burg_Prunn_(Riedenburg)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Prunn_(Riedenburg)_03.jpg/1200px-Burg_Prunn_(Riedenburg)_03.jpg
+image_srcset:
+  2020 Burg Prunn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Burg_Prunn.jpg/400px-2020_Burg_Prunn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Burg_Prunn.jpg/800px-2020_Burg_Prunn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Burg_Prunn.jpg/1200px-2020_Burg_Prunn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2020_Burg_Prunn.jpg/1920px-2020_Burg_Prunn.jpg
+  2020 Burg Prunn 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2020_Burg_Prunn_2.jpg/400px-2020_Burg_Prunn_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2020_Burg_Prunn_2.jpg/800px-2020_Burg_Prunn_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2020_Burg_Prunn_2.jpg/1200px-2020_Burg_Prunn_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2020_Burg_Prunn_2.jpg/1920px-2020_Burg_Prunn_2.jpg
+  Burg Prunn (Riedenburg) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Prunn_(Riedenburg)_01.jpg/400px-Burg_Prunn_(Riedenburg)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Prunn_(Riedenburg)_01.jpg/800px-Burg_Prunn_(Riedenburg)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Prunn_(Riedenburg)_01.jpg/1200px-Burg_Prunn_(Riedenburg)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Burg_Prunn_(Riedenburg)_01.jpg/1920px-Burg_Prunn_(Riedenburg)_01.jpg
+  Aerial image of Burg Prunn (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg/400px-Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg/800px-Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Burg_Prunn_(view_from_the_southeast).jpg
+  Burg Prunn (Riedenburg) 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Prunn_(Riedenburg)_03.jpg/400px-Burg_Prunn_(Riedenburg)_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Prunn_(Riedenburg)_03.jpg/800px-Burg_Prunn_(Riedenburg)_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Prunn_(Riedenburg)_03.jpg/1200px-Burg_Prunn_(Riedenburg)_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Burg_Prunn_(Riedenburg)_03.jpg/1920px-Burg_Prunn_(Riedenburg)_03.jpg
 ---
 
 ## Overview

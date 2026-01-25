@@ -21,7 +21,7 @@ longitude: 12.5467
 
 # Images
 images:
-  - "/images-sites/kranich-museum/01-2a5a7582-800w.webp"
+  - "/images/kranich-museum/01-2a5a7582-800w.webp"
 ---
 
 ## Overview

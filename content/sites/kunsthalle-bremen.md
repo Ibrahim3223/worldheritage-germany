@@ -21,7 +21,7 @@ longitude: 8.813611
 
 # Images
 images:
-  - "/images-sites/kunsthalle-bremen/01-c1f929af-800w.webp"
+  - "/images/kunsthalle-bremen/01-c1f929af-800w.webp"
 ---
 
 ## Overview

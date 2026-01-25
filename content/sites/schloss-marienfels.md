@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q315002"
 description: "Schloss Marienfels is a striking palace located in the picturesque region of Remagen, Germany. This Gothic Revival structure, designed by the architect ..."
 images:
-  - "/images-sites/schloss-marienfels/01-7d73649e-1920w.webp"
-  - "/images-sites/schloss-marienfels/02-a12fd175-1920w.webp"
-  - "/images-sites/schloss-marienfels/03-9013daf9-1920w.webp"
+  - "/images/schloss-marienfels/01-7d73649e-1920w.webp"
+  - "/images/schloss-marienfels/02-a12fd175-1920w.webp"
+  - "/images/schloss-marienfels/03-9013daf9-1920w.webp"
 ---
 
 ## Overview

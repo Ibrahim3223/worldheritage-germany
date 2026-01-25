@@ -13,7 +13,7 @@ regions:
 latitude: 50.981156
 longitude: 11.03016615
 images:
-  - "/images-sites/st-augustines-monastery/01-15362211-800w.webp"
+  - "/images/st-augustines-monastery/01-15362211-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.0448
 longitude: 7.64661
 images:
-  - "/images-sites/synagogue-ihringen/01-3aa4cfdf-800w.webp"
+  - "/images/synagogue-ihringen/01-3aa4cfdf-800w.webp"
 ---
 
 ## Overview

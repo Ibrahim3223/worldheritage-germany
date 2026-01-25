@@ -13,7 +13,7 @@ regions:
 latitude: 49.8075
 longitude: 6.71177
 images:
-  - "/images-sites/kenner-flur/01-efbd1cb0-800w.webp"
+  - "/images/kenner-flur/01-efbd1cb0-800w.webp"
 ---
 
 ## Overview

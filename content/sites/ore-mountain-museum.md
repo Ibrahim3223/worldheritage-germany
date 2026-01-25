@@ -13,9 +13,9 @@ regions:
 latitude: 50.5784
 longitude: 13.0043
 images:
-  - "/images-sites/ore-mountain-museum/01-db4e4cf7-800w.webp"
-  - "/images-sites/ore-mountain-museum/02-98f881cc-800w.webp"
-  - "/images-sites/ore-mountain-museum/03-03e1fdb0-800w.webp"
+  - "/images/ore-mountain-museum/01-db4e4cf7-800w.webp"
+  - "/images/ore-mountain-museum/02-98f881cc-800w.webp"
+  - "/images/ore-mountain-museum/03-03e1fdb0-800w.webp"
 ---
 
 ## Overview

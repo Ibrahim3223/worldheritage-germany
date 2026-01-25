@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244560"
 description: "In the quaint village of Neu Zauche, you’ll find a striking Lutheran church that has stood as a significant landmark since its inception in 1860. The vi..."
 images:
-  - "/images-sites/village-church-neu-zauche/01-f9381e4e-1920w.webp"
-  - "/images-sites/village-church-neu-zauche/02-7ee18272-1920w.webp"
-  - "/images-sites/village-church-neu-zauche/03-814d3579-1920w.webp"
+  - "/images/village-church-neu-zauche/01-f9381e4e-1920w.webp"
+  - "/images/village-church-neu-zauche/02-7ee18272-1920w.webp"
+  - "/images/village-church-neu-zauche/03-814d3579-1920w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Gut Farve"
+title: Gut Farve
 date: 2026-01-23
 draft: false
-description: "building in Wangels (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Wangels (Germany)
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.2853
 longitude: 10.7938
 images:
-  - "/images-sites/gut-farve/01-955080a8-800w.webp"
-  - "/images-sites/gut-farve/02-12ec9ad3-800w.webp"
-  - "/images-sites/gut-farve/03-d2c3e309-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gut_Farve_2012a.jpg/1200px-Gut_Farve_2012a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Farve_maj_2012a_03.jpg/1200px-Farve_maj_2012a_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gut_Farve_2012.jpg/1200px-Gut_Farve_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Farve_maj_2012a_01.jpg/1200px-Farve_maj_2012a_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1200px-Gut-Farve.jpg
+image_srcset:
+  Gut Farve 2012a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gut_Farve_2012a.jpg/400px-Gut_Farve_2012a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gut_Farve_2012a.jpg/800px-Gut_Farve_2012a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gut_Farve_2012a.jpg/1200px-Gut_Farve_2012a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gut_Farve_2012a.jpg/1920px-Gut_Farve_2012a.jpg
+  Farve maj 2012a 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Farve_maj_2012a_03.jpg/400px-Farve_maj_2012a_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Farve_maj_2012a_03.jpg/800px-Farve_maj_2012a_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Farve_maj_2012a_03.jpg/1200px-Farve_maj_2012a_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Farve_maj_2012a_03.jpg/1920px-Farve_maj_2012a_03.jpg
+  Gut Farve 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gut_Farve_2012.jpg/400px-Gut_Farve_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gut_Farve_2012.jpg/800px-Gut_Farve_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gut_Farve_2012.jpg/1200px-Gut_Farve_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gut_Farve_2012.jpg/1920px-Gut_Farve_2012.jpg
+  Farve maj 2012a 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Farve_maj_2012a_01.jpg/400px-Farve_maj_2012a_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Farve_maj_2012a_01.jpg/800px-Farve_maj_2012a_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Farve_maj_2012a_01.jpg/1200px-Farve_maj_2012a_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Farve_maj_2012a_01.jpg/1920px-Farve_maj_2012a_01.jpg
+  Gut-Farve.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/400px-Gut-Farve.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/800px-Gut-Farve.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1200px-Gut-Farve.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gut-Farve.jpg/1920px-Gut-Farve.jpg
 ---
 
 ## Overview

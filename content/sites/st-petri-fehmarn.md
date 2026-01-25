@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1147430"
 description: "St. Petri on the island of Fehmarn is more than just a church; it is a monument steeped in the traditions of Lutheranism and a remarkable example of Bri..."
 images:
-  - "/images-sites/st-petri-fehmarn/01-52cba8bb-1920w.webp"
-  - "/images-sites/st-petri-fehmarn/02-a2f64a89-1920w.webp"
-  - "/images-sites/st-petri-fehmarn/03-b717786a-1920w.webp"
+  - "/images/st-petri-fehmarn/01-52cba8bb-1920w.webp"
+  - "/images/st-petri-fehmarn/02-a2f64a89-1920w.webp"
+  - "/images/st-petri-fehmarn/03-b717786a-1920w.webp"
 ---
 
 ## Overview

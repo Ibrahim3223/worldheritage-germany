@@ -21,7 +21,7 @@ longitude: 8.52611
 
 # Images
 images:
-  - "/images-sites/kunsthalle-bielefeld/01-5a6bc44c-800w.webp"
+  - "/images/kunsthalle-bielefeld/01-5a6bc44c-800w.webp"
 ---
 
 ## Overview

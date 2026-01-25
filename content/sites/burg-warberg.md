@@ -1,28 +1,49 @@
 ---
-title: "Burg Warberg"
+title: Burg Warberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.1834
 longitude: 10.9166
-
-# Images
 images:
-  - "/images-sites/burg-warberg/02-cf2c45bf-800w.webp"
-  - "/images-sites/burg-warberg/03-cd7475ee-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Warberg_2022CF_03.jpg/1200px-Burg_Warberg_2022CF_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Warberg_2022CF_05.jpg/1200px-Burg_Warberg_2022CF_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Warberg_at_Night.jpg/1200px-Burg_Warberg_at_Night.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Warberg.jpg/1200px-Burg_Warberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burghof_Warberg.jpg/1200px-Burghof_Warberg.jpg
+image_srcset:
+  Burg Warberg 2022CF 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Warberg_2022CF_03.jpg/400px-Burg_Warberg_2022CF_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Warberg_2022CF_03.jpg/800px-Burg_Warberg_2022CF_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Warberg_2022CF_03.jpg/1200px-Burg_Warberg_2022CF_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Warberg_2022CF_03.jpg/1920px-Burg_Warberg_2022CF_03.jpg
+  Burg Warberg 2022CF 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Warberg_2022CF_05.jpg/400px-Burg_Warberg_2022CF_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Warberg_2022CF_05.jpg/800px-Burg_Warberg_2022CF_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Warberg_2022CF_05.jpg/1200px-Burg_Warberg_2022CF_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Burg_Warberg_2022CF_05.jpg/1920px-Burg_Warberg_2022CF_05.jpg
+  Burg Warberg at Night.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Warberg_at_Night.jpg/400px-Burg_Warberg_at_Night.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Warberg_at_Night.jpg/800px-Burg_Warberg_at_Night.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Warberg_at_Night.jpg/1200px-Burg_Warberg_at_Night.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Burg_Warberg_at_Night.jpg/1920px-Burg_Warberg_at_Night.jpg
+  Burg Warberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Warberg.jpg/400px-Burg_Warberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Warberg.jpg/800px-Burg_Warberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Warberg.jpg/1200px-Burg_Warberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Burg_Warberg.jpg/1920px-Burg_Warberg.jpg
+  Burghof Warberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burghof_Warberg.jpg/400px-Burghof_Warberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burghof_Warberg.jpg/800px-Burghof_Warberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burghof_Warberg.jpg/1200px-Burghof_Warberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Burghof_Warberg.jpg/1920px-Burghof_Warberg.jpg
 ---
 
 ## Overview

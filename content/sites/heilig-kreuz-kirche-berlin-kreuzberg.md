@@ -1,24 +1,51 @@
 ---
-title: "Heilig-Kreuz-Kirche (Berlin-Kreuzberg)"
-site_name: "Heilig-Kreuz-Kirche (Berlin-Kreuzberg)"
-slug: "heilig-kreuz-kirche-berlin-kreuzberg"
-region: "Berlin"
-
-# Location
+title: Heilig-Kreuz-Kirche (Berlin-Kreuzberg)
+site_name: Heilig-Kreuz-Kirche (Berlin-Kreuzberg)
+slug: heilig-kreuz-kirche-berlin-kreuzberg
+region: Berlin
 latitude: 52.496336
 longitude: 13.395986
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1594935"
-description: "In the heart of Berlins vibrant Kreuzberg district lies the Heilig-Kreuz-Kirche, a striking example of Gothic Revival architecture. Founded in 1888, thi..."
+- church building
+- religious site
+wikidata_id: Q1594935
+description: In the heart of Berlins vibrant Kreuzberg district lies the Heilig-Kreuz-Kirche,
+  a striking example of Gothic Revival architecture. Founded in 1888, thi...
 images:
-  - "/images-sites/heilig-kreuz-kirche-berlin-kreuzberg/01-275a813b-1920w.webp"
-  - "/images-sites/heilig-kreuz-kirche-berlin-kreuzberg/02-343bd468-1920w.webp"
-  - "/images-sites/heilig-kreuz-kirche-berlin-kreuzberg/03-4a2ea534-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg/1200px-HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg/1200px-Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Landwehrkanal_in_B-Kreuzberg_07-2014.jpg/1200px-Landwehrkanal_in_B-Kreuzberg_07-2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg/1200px-Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1200px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
+image_srcset:
+  HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg/400px-HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg/800px-HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg/1200px-HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg/1920px-HeiligKreuzKirche%20B-Kreuzberg%2007-2015.jpg
+  Passionskirche aka Heilig-Kreuz-Kirche 0296.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg/400px-Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg/800px-Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg/1200px-Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg/1920px-Passionskirche_aka_Heilig-Kreuz-Kirche_0296.jpg
+  Landwehrkanal in B-Kreuzberg 07-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Landwehrkanal_in_B-Kreuzberg_07-2014.jpg/400px-Landwehrkanal_in_B-Kreuzberg_07-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Landwehrkanal_in_B-Kreuzberg_07-2014.jpg/800px-Landwehrkanal_in_B-Kreuzberg_07-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Landwehrkanal_in_B-Kreuzberg_07-2014.jpg/1200px-Landwehrkanal_in_B-Kreuzberg_07-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Landwehrkanal_in_B-Kreuzberg_07-2014.jpg/1920px-Landwehrkanal_in_B-Kreuzberg_07-2014.jpg
+  Heilig-Kreuz-Kirche, Berlin-Kreuzberg, Blick von der Johanniterstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg/400px-Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg/800px-Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg/1200px-Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg/1920px-Heilig-Kreuz-Kirche,_Berlin-Kreuzberg,_Blick_von_der_Johanniterstraße.jpg
+  HeiligKreuzKirche B-Kreuzberg 07-2015.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/400px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/800px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1200px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg/1920px-HeiligKreuzKirche_B-Kreuzberg_07-2015.jpg
 ---
 
 ## Overview

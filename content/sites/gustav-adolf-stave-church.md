@@ -1,23 +1,38 @@
 ---
-title: "Gustav Adolf Stave Church"
-site_name: "Gustav Adolf Stave Church"
-slug: "gustav-adolf-stave-church"
-region: "Lower Saxony"
-
-# Location
+title: Gustav Adolf Stave Church
+site_name: Gustav Adolf Stave Church
+slug: gustav-adolf-stave-church
+region: Lower Saxony
 latitude: 51.8571
 longitude: 10.340458
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q317159"
-description: "In the heart of Germanys Goslar region, the Gustav Adolf Stave Church presents a striking example of modern ecclesiastical architecture, blending tradit..."
+- cultural site
+wikidata_id: Q317159
+description: In the heart of Germanys Goslar region, the Gustav Adolf Stave Church
+  presents a striking example of modern ecclesiastical architecture, blending tradit...
 images:
-  - "/images-sites/gustav-adolf-stave-church/01-d144f5ed-1920w.webp"
-  - "/images-sites/gustav-adolf-stave-church/02-10062807-1920w.webp"
-  - "/images-sites/gustav-adolf-stave-church/03-22448959-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HahnenkleeStabkircheSued2.jpg/1200px-HahnenkleeStabkircheSued2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HahnenkleeStabkircheSuedwest.jpg/1200px-HahnenkleeStabkircheSuedwest.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hahnenklee_Stabkirche_2.jpg/1200px-Hahnenklee_Stabkirche_2.jpg
+image_srcset:
+  HahnenkleeStabkircheSued2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HahnenkleeStabkircheSued2.jpg/400px-HahnenkleeStabkircheSued2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HahnenkleeStabkircheSued2.jpg/800px-HahnenkleeStabkircheSued2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HahnenkleeStabkircheSued2.jpg/1200px-HahnenkleeStabkircheSued2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/HahnenkleeStabkircheSued2.jpg/1920px-HahnenkleeStabkircheSued2.jpg
+  HahnenkleeStabkircheSuedwest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HahnenkleeStabkircheSuedwest.jpg/400px-HahnenkleeStabkircheSuedwest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HahnenkleeStabkircheSuedwest.jpg/800px-HahnenkleeStabkircheSuedwest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HahnenkleeStabkircheSuedwest.jpg/1200px-HahnenkleeStabkircheSuedwest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/HahnenkleeStabkircheSuedwest.jpg/1920px-HahnenkleeStabkircheSuedwest.jpg
+  Hahnenklee Stabkirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hahnenklee_Stabkirche_2.jpg/400px-Hahnenklee_Stabkirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hahnenklee_Stabkirche_2.jpg/800px-Hahnenklee_Stabkirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hahnenklee_Stabkirche_2.jpg/1200px-Hahnenklee_Stabkirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hahnenklee_Stabkirche_2.jpg/1920px-Hahnenklee_Stabkirche_2.jpg
 ---
 
 ## Overview

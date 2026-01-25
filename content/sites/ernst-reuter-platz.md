@@ -1,19 +1,49 @@
 ---
-title: "Ernst-Reuter-Platz"
+title: Ernst-Reuter-Platz
 date: 2026-01-23
 draft: false
-description: "square in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Berlin
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.512638888
 longitude: 13.321888888
 images:
-  - "/images-sites/ernst-reuter-platz/01-b2bda329-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ernst-Reuter-Platz_0572.jpg/1200px-Ernst-Reuter-Platz_0572.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ernst-Reuter-Platz_in_june_2019.jpg/1200px-Ernst-Reuter-Platz_in_june_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg/1200px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg/1200px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernst-Reuter-Platz_von_Oben.jpg/1200px-Ernst-Reuter-Platz_von_Oben.jpg
+image_srcset:
+  Ernst-Reuter-Platz 0572.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ernst-Reuter-Platz_0572.jpg/400px-Ernst-Reuter-Platz_0572.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ernst-Reuter-Platz_0572.jpg/800px-Ernst-Reuter-Platz_0572.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ernst-Reuter-Platz_0572.jpg/1200px-Ernst-Reuter-Platz_0572.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ernst-Reuter-Platz_0572.jpg/1920px-Ernst-Reuter-Platz_0572.jpg
+  Ernst-Reuter-Platz in june 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ernst-Reuter-Platz_in_june_2019.jpg/400px-Ernst-Reuter-Platz_in_june_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ernst-Reuter-Platz_in_june_2019.jpg/800px-Ernst-Reuter-Platz_in_june_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ernst-Reuter-Platz_in_june_2019.jpg/1200px-Ernst-Reuter-Platz_in_june_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ernst-Reuter-Platz_in_june_2019.jpg/1920px-Ernst-Reuter-Platz_in_june_2019.jpg
+  Charlottenburg Ernst-Reuter-Platz bauhaus reuse-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg/400px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg/800px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg/1200px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg/1920px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse-001.jpg
+  Charlottenburg Ernst-Reuter-Platz bauhaus reuse.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg/400px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg/800px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg/1200px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg/1920px-Charlottenburg_Ernst-Reuter-Platz_bauhaus_reuse.jpg
+  Ernst-Reuter-Platz von Oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernst-Reuter-Platz_von_Oben.jpg/400px-Ernst-Reuter-Platz_von_Oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernst-Reuter-Platz_von_Oben.jpg/800px-Ernst-Reuter-Platz_von_Oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernst-Reuter-Platz_von_Oben.jpg/1200px-Ernst-Reuter-Platz_von_Oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernst-Reuter-Platz_von_Oben.jpg/1920px-Ernst-Reuter-Platz_von_Oben.jpg
 ---
 
 ## Overview

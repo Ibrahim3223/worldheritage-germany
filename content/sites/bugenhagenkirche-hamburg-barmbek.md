@@ -1,24 +1,27 @@
 ---
-title: "BugenhagenkircheHamburg-Barmbek"
-site_name: "BugenhagenkircheHamburg-Barmbek"
-slug: "bugenhagenkirche-hamburg-barmbek"
-region: "Hamburg"
-
-# Location
+title: BugenhagenkircheHamburg-Barmbek
+site_name: BugenhagenkircheHamburg-Barmbek
+slug: bugenhagenkirche-hamburg-barmbek
+region: Hamburg
 latitude: 53.581556
 longitude: 10.03199
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1002408"
-description: "The Bugenhagenkirche in Hamburg-Barmbek is a striking example of modern architecture, blending functionality with aesthetic simplicity. This church, loc..."
+- church building
+- religious site
+wikidata_id: Q1002408
+description: The Bugenhagenkirche in Hamburg-Barmbek is a striking example of modern
+  architecture, blending functionality with aesthetic simplicity. This church, loc...
 images:
-  - "/images-sites/bugenhagenkirche-hamburg-barmbek/01-52aa820a-1920w.webp"
-  - "/images-sites/bugenhagenkirche-hamburg-barmbek/02-c20a2cf4-1920w.webp"
-  - "/images-sites/bugenhagenkirche-hamburg-barmbek/03-7fb6313e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bugenhagenkirche%20Hamburg-Barmbek.jpg/1200px-Bugenhagenkirche%20Hamburg-Barmbek.jpg
+image_srcset:
+  Bugenhagenkirche%20Hamburg-Barmbek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bugenhagenkirche%20Hamburg-Barmbek.jpg/400px-Bugenhagenkirche%20Hamburg-Barmbek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bugenhagenkirche%20Hamburg-Barmbek.jpg/800px-Bugenhagenkirche%20Hamburg-Barmbek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bugenhagenkirche%20Hamburg-Barmbek.jpg/1200px-Bugenhagenkirche%20Hamburg-Barmbek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bugenhagenkirche%20Hamburg-Barmbek.jpg/1920px-Bugenhagenkirche%20Hamburg-Barmbek.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.4464
 longitude: 11.0751
 images:
-  - "/images-sites/staatstheater-nuernberg/01-692d09ff-800w.webp"
+  - "/images/staatstheater-nuernberg/01-692d09ff-800w.webp"
 ---
 
 ## Overview

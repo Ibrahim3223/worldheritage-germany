@@ -13,8 +13,8 @@ regions:
 latitude: 53.0875
 longitude: 8.815278
 images:
-  - "/images-sites/oevb-arena/01-340b8aa7-800w.webp"
-  - "/images-sites/oevb-arena/02-18a95b07-800w.webp"
+  - "/images/oevb-arena/01-340b8aa7-800w.webp"
+  - "/images/oevb-arena/02-18a95b07-800w.webp"
 ---
 
 ## Overview

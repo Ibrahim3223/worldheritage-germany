@@ -1,21 +1,49 @@
 ---
-title: "Bernau bei Berlin station"
+title: Bernau bei Berlin station
 date: 2026-01-23
 draft: false
-description: "railway station in Bernau bei Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Bernau bei Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6763
 longitude: 13.5931
 images:
-  - "/images-sites/bernau-bei-berlin-station/01-894fefe4-800w.webp"
-  - "/images-sites/bernau-bei-berlin-station/02-e9f3dddf-800w.webp"
-  - "/images-sites/bernau-bei-berlin-station/03-d3644cf5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EC_378_in_Bernau_station.jpg/1200px-EC_378_in_Bernau_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EC_378_in_Bernau_station_with_restaurant_car.jpg/1200px-EC_378_in_Bernau_station_with_restaurant_car.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Bahn_S9_arriving_in_Bernau_station.jpg/1200px-S-Bahn_S9_arriving_in_Bernau_station.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bernau_bei_Berlin_2018_by-RaBoe_006.jpg/1200px-Bernau_bei_Berlin_2018_by-RaBoe_006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bahnhof_Bernau_(2009).jpg/1200px-Bahnhof_Bernau_(2009).jpg
+image_srcset:
+  EC 378 in Bernau station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EC_378_in_Bernau_station.jpg/400px-EC_378_in_Bernau_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EC_378_in_Bernau_station.jpg/800px-EC_378_in_Bernau_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EC_378_in_Bernau_station.jpg/1200px-EC_378_in_Bernau_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/EC_378_in_Bernau_station.jpg/1920px-EC_378_in_Bernau_station.jpg
+  EC 378 in Bernau station with restaurant car.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EC_378_in_Bernau_station_with_restaurant_car.jpg/400px-EC_378_in_Bernau_station_with_restaurant_car.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EC_378_in_Bernau_station_with_restaurant_car.jpg/800px-EC_378_in_Bernau_station_with_restaurant_car.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EC_378_in_Bernau_station_with_restaurant_car.jpg/1200px-EC_378_in_Bernau_station_with_restaurant_car.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EC_378_in_Bernau_station_with_restaurant_car.jpg/1920px-EC_378_in_Bernau_station_with_restaurant_car.jpg
+  S-Bahn S9 arriving in Bernau station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Bahn_S9_arriving_in_Bernau_station.jpg/400px-S-Bahn_S9_arriving_in_Bernau_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Bahn_S9_arriving_in_Bernau_station.jpg/800px-S-Bahn_S9_arriving_in_Bernau_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Bahn_S9_arriving_in_Bernau_station.jpg/1200px-S-Bahn_S9_arriving_in_Bernau_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S-Bahn_S9_arriving_in_Bernau_station.jpg/1920px-S-Bahn_S9_arriving_in_Bernau_station.jpg
+  Bernau bei Berlin 2018 by-RaBoe 006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bernau_bei_Berlin_2018_by-RaBoe_006.jpg/400px-Bernau_bei_Berlin_2018_by-RaBoe_006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bernau_bei_Berlin_2018_by-RaBoe_006.jpg/800px-Bernau_bei_Berlin_2018_by-RaBoe_006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bernau_bei_Berlin_2018_by-RaBoe_006.jpg/1200px-Bernau_bei_Berlin_2018_by-RaBoe_006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bernau_bei_Berlin_2018_by-RaBoe_006.jpg/1920px-Bernau_bei_Berlin_2018_by-RaBoe_006.jpg
+  Bahnhof Bernau (2009).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bahnhof_Bernau_(2009).jpg/400px-Bahnhof_Bernau_(2009).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bahnhof_Bernau_(2009).jpg/800px-Bahnhof_Bernau_(2009).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bahnhof_Bernau_(2009).jpg/1200px-Bahnhof_Bernau_(2009).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bahnhof_Bernau_(2009).jpg/1920px-Bahnhof_Bernau_(2009).jpg
 ---
 
 ## Overview

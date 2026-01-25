@@ -1,19 +1,43 @@
 ---
-title: "Heilig-Geist-Kapelle"
+title: Heilig-Geist-Kapelle
 date: 2026-01-23
 draft: false
-description: "church building in Angermünde"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: church building in Angermünde
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0158
 longitude: 14.0002
 images:
-  - "/images-sites/heilig-geist-kapelle/01-09bce325-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Augsburg,_Heilig-Geist-Kapelle_01.jpg/1200px-Augsburg,_Heilig-Geist-Kapelle_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Augsburg,_Heilig-Geist-Kapelle_02.jpg/1200px-Augsburg,_Heilig-Geist-Kapelle_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg/1200px-Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spitalgasse_17_Augsburg.JPG/1200px-Spitalgasse_17_Augsburg.JPG
+image_srcset:
+  Augsburg, Heilig-Geist-Kapelle 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Augsburg,_Heilig-Geist-Kapelle_01.jpg/400px-Augsburg,_Heilig-Geist-Kapelle_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Augsburg,_Heilig-Geist-Kapelle_01.jpg/800px-Augsburg,_Heilig-Geist-Kapelle_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Augsburg,_Heilig-Geist-Kapelle_01.jpg/1200px-Augsburg,_Heilig-Geist-Kapelle_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Augsburg,_Heilig-Geist-Kapelle_01.jpg/1920px-Augsburg,_Heilig-Geist-Kapelle_01.jpg
+  Augsburg, Heilig-Geist-Kapelle 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Augsburg,_Heilig-Geist-Kapelle_02.jpg/400px-Augsburg,_Heilig-Geist-Kapelle_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Augsburg,_Heilig-Geist-Kapelle_02.jpg/800px-Augsburg,_Heilig-Geist-Kapelle_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Augsburg,_Heilig-Geist-Kapelle_02.jpg/1200px-Augsburg,_Heilig-Geist-Kapelle_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Augsburg,_Heilig-Geist-Kapelle_02.jpg/1920px-Augsburg,_Heilig-Geist-Kapelle_02.jpg
+  Augsburg Giebeltürmchen der Heilig-Geist-Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg/400px-Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg/800px-Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg/1200px-Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg/1920px-Augsburg_Giebeltürmchen_der_Heilig-Geist-Kapelle.jpg
+  Spitalgasse 17 Augsburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spitalgasse_17_Augsburg.JPG/400px-Spitalgasse_17_Augsburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spitalgasse_17_Augsburg.JPG/800px-Spitalgasse_17_Augsburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spitalgasse_17_Augsburg.JPG/1200px-Spitalgasse_17_Augsburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Spitalgasse_17_Augsburg.JPG/1920px-Spitalgasse_17_Augsburg.JPG
 ---
 
 ## Overview

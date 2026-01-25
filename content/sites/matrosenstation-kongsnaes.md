@@ -13,7 +13,7 @@ regions:
 latitude: 52.4153
 longitude: 13.0842
 images:
-  - "/images-sites/matrosenstation-kongsnaes/01-b2e60475-800w.webp"
+  - "/images/matrosenstation-kongsnaes/01-b2e60475-800w.webp"
 ---
 
 ## Overview

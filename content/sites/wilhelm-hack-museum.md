@@ -13,7 +13,7 @@ regions:
 latitude: 49.4801
 longitude: 8.44407
 images:
-  - "/images-sites/wilhelm-hack-museum/01-a9aed562-800w.webp"
+  - "/images/wilhelm-hack-museum/01-a9aed562-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.806
 longitude: 12.1508
 images:
-  - "/images-sites/schloss-mosigkau/01-368741dc-800w.webp"
-  - "/images-sites/schloss-mosigkau/02-81e70da3-800w.webp"
-  - "/images-sites/schloss-mosigkau/03-fd79b0c8-800w.webp"
+  - "/images/schloss-mosigkau/01-368741dc-800w.webp"
+  - "/images/schloss-mosigkau/02-81e70da3-800w.webp"
+  - "/images/schloss-mosigkau/03-fd79b0c8-800w.webp"
 ---
 
 ## Overview

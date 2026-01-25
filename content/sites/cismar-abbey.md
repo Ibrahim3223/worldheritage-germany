@@ -1,19 +1,49 @@
 ---
-title: "Cismar Abbey"
+title: Cismar Abbey
 date: 2026-01-23
 draft: false
-description: "former abbey in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: former abbey in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 54.19
 longitude: 10.985833333
 images:
-  - "/images-sites/cismar-abbey/01-f8b5e3c5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chor_der_Klosterkirche_Cismar.jpg/1200px-Chor_der_Klosterkirche_Cismar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Westfassade_der_Klosterkirche_Cismar.jpg/1200px-Westfassade_der_Klosterkirche_Cismar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kloster_Cismar_02.tif.jpg/1200px-Kloster_Cismar_02.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/1200px-Kloster_Cismar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LSG_Klostergelände_Cismar.jpg/1200px-LSG_Klostergelände_Cismar.jpg
+image_srcset:
+  Chor der Klosterkirche Cismar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chor_der_Klosterkirche_Cismar.jpg/400px-Chor_der_Klosterkirche_Cismar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chor_der_Klosterkirche_Cismar.jpg/800px-Chor_der_Klosterkirche_Cismar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chor_der_Klosterkirche_Cismar.jpg/1200px-Chor_der_Klosterkirche_Cismar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chor_der_Klosterkirche_Cismar.jpg/1920px-Chor_der_Klosterkirche_Cismar.jpg
+  Westfassade der Klosterkirche Cismar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Westfassade_der_Klosterkirche_Cismar.jpg/400px-Westfassade_der_Klosterkirche_Cismar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Westfassade_der_Klosterkirche_Cismar.jpg/800px-Westfassade_der_Klosterkirche_Cismar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Westfassade_der_Klosterkirche_Cismar.jpg/1200px-Westfassade_der_Klosterkirche_Cismar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Westfassade_der_Klosterkirche_Cismar.jpg/1920px-Westfassade_der_Klosterkirche_Cismar.jpg
+  Kloster Cismar 02.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kloster_Cismar_02.tif.jpg/400px-Kloster_Cismar_02.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kloster_Cismar_02.tif.jpg/800px-Kloster_Cismar_02.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kloster_Cismar_02.tif.jpg/1200px-Kloster_Cismar_02.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kloster_Cismar_02.tif.jpg/1920px-Kloster_Cismar_02.tif.jpg
+  Kloster Cismar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/400px-Kloster_Cismar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/800px-Kloster_Cismar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/1200px-Kloster_Cismar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kloster_Cismar.jpg/1920px-Kloster_Cismar.jpg
+  LSG Klostergelände Cismar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LSG_Klostergelände_Cismar.jpg/400px-LSG_Klostergelände_Cismar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LSG_Klostergelände_Cismar.jpg/800px-LSG_Klostergelände_Cismar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LSG_Klostergelände_Cismar.jpg/1200px-LSG_Klostergelände_Cismar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/LSG_Klostergelände_Cismar.jpg/1920px-LSG_Klostergelände_Cismar.jpg
 ---
 
 ## Overview

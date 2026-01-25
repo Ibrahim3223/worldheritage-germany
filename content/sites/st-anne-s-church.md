@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q896131"
 description: "St. Annes Church stands as a historical landmark in the town of Annaberg-Buchholz, Saxony, Germany, drawing visitors with its Gothic architectural elega..."
 images:
-  - "/images-sites/st-anne-s-church/01-4832a9b0-1920w.webp"
-  - "/images-sites/st-anne-s-church/02-68a969d7-1920w.webp"
-  - "/images-sites/st-anne-s-church/03-c6999e25-1920w.webp"
+  - "/images/st-anne-s-church/01-4832a9b0-1920w.webp"
+  - "/images/st-anne-s-church/02-68a969d7-1920w.webp"
+  - "/images/st-anne-s-church/03-c6999e25-1920w.webp"
 ---
 
 ## Overview

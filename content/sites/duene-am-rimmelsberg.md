@@ -1,19 +1,49 @@
 ---
-title: "Düne am Rimmelsberg"
+title: Düne am Rimmelsberg
 date: 2026-01-23
 draft: false
-description: "nature reserve in Schleswig-Holstein, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Schleswig-Holstein, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 54.6223
 longitude: 9.2734
 images:
-  - "/images-sites/duene-am-rimmelsberg/01-b2ed16a6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg
+image_srcset:
+  Schleswig-Holstein, Jörl, Naturschutzgebiet Düne am Rimmelsberg NIK 1862.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1862.jpg
+  Schleswig-Holstein, Jörl, Naturschutzgebiet Düne am Rimmelsberg NIK 1871.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1871.jpg
+  Schleswig-Holstein, Jörl, Naturschutzgebiet Düne am Rimmelsberg NIK 1874.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1874.jpg
+  Schleswig-Holstein, Jörl, Naturschutzgebiet Düne am Rimmelsberg NIK 1876.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1876.jpg
+  Schleswig-Holstein, Jörl, Naturschutzgebiet Düne am Rimmelsberg NIK 1894.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg/400px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg/800px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg/1200px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg/1920px-Schleswig-Holstein,_Jörl,_Naturschutzgebiet_Düne_am_Rimmelsberg_NIK_1894.jpg
 ---
 
 ## Overview

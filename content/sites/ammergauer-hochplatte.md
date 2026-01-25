@@ -1,19 +1,49 @@
 ---
-title: "Ammergauer Hochplatte"
+title: Ammergauer Hochplatte
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.5531
 longitude: 10.8433
 images:
-  - "/images-sites/ammergauer-hochplatte/01-62f931be-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090919_Hiking_the_Hochplatte_(51).JPG/1200px-20090919_Hiking_the_Hochplatte_(51).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hochplatte_Ostansicht.JPG/1200px-Hochplatte_Ostansicht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AmmgAlpen_Gams_2012.jpg/1200px-AmmgAlpen_Gams_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/AmmgAlpen_HochplatteWasserfall_2012.jpg/1200px-AmmgAlpen_HochplatteWasserfall_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ammergauer_Hochplatte2_HQ.jpg/1200px-Ammergauer_Hochplatte2_HQ.jpg
+image_srcset:
+  20090919 Hiking the Hochplatte (51).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090919_Hiking_the_Hochplatte_(51).JPG/400px-20090919_Hiking_the_Hochplatte_(51).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090919_Hiking_the_Hochplatte_(51).JPG/800px-20090919_Hiking_the_Hochplatte_(51).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090919_Hiking_the_Hochplatte_(51).JPG/1200px-20090919_Hiking_the_Hochplatte_(51).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20090919_Hiking_the_Hochplatte_(51).JPG/1920px-20090919_Hiking_the_Hochplatte_(51).JPG
+  Hochplatte Ostansicht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hochplatte_Ostansicht.JPG/400px-Hochplatte_Ostansicht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hochplatte_Ostansicht.JPG/800px-Hochplatte_Ostansicht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hochplatte_Ostansicht.JPG/1200px-Hochplatte_Ostansicht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hochplatte_Ostansicht.JPG/1920px-Hochplatte_Ostansicht.JPG
+  AmmgAlpen Gams 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AmmgAlpen_Gams_2012.jpg/400px-AmmgAlpen_Gams_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AmmgAlpen_Gams_2012.jpg/800px-AmmgAlpen_Gams_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AmmgAlpen_Gams_2012.jpg/1200px-AmmgAlpen_Gams_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AmmgAlpen_Gams_2012.jpg/1920px-AmmgAlpen_Gams_2012.jpg
+  AmmgAlpen HochplatteWasserfall 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/AmmgAlpen_HochplatteWasserfall_2012.jpg/400px-AmmgAlpen_HochplatteWasserfall_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/AmmgAlpen_HochplatteWasserfall_2012.jpg/800px-AmmgAlpen_HochplatteWasserfall_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/AmmgAlpen_HochplatteWasserfall_2012.jpg/1200px-AmmgAlpen_HochplatteWasserfall_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/AmmgAlpen_HochplatteWasserfall_2012.jpg/1920px-AmmgAlpen_HochplatteWasserfall_2012.jpg
+  Ammergauer Hochplatte2 HQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ammergauer_Hochplatte2_HQ.jpg/400px-Ammergauer_Hochplatte2_HQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ammergauer_Hochplatte2_HQ.jpg/800px-Ammergauer_Hochplatte2_HQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ammergauer_Hochplatte2_HQ.jpg/1200px-Ammergauer_Hochplatte2_HQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ammergauer_Hochplatte2_HQ.jpg/1920px-Ammergauer_Hochplatte2_HQ.jpg
 ---
 
 ## Overview

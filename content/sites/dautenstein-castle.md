@@ -1,19 +1,49 @@
 ---
-title: "Dautenstein Castle"
+title: Dautenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.3067
 longitude: 7.93833
 images:
-  - "/images-sites/dautenstein-castle/01-eb5cbaf1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/01_Dautenstein_Castle.JPG/1200px-01_Dautenstein_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/02_Dautenstein_Castle.JPG/1200px-02_Dautenstein_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/03_Dautenstein_Castle.JPG/1200px-03_Dautenstein_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/04_Dautenstein_Castle.JPG/1200px-04_Dautenstein_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/05_Dautenstein_Castle.JPG/1200px-05_Dautenstein_Castle.JPG
+image_srcset:
+  01 Dautenstein Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/01_Dautenstein_Castle.JPG/400px-01_Dautenstein_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/01_Dautenstein_Castle.JPG/800px-01_Dautenstein_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/01_Dautenstein_Castle.JPG/1200px-01_Dautenstein_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/01_Dautenstein_Castle.JPG/1920px-01_Dautenstein_Castle.JPG
+  02 Dautenstein Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/02_Dautenstein_Castle.JPG/400px-02_Dautenstein_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/02_Dautenstein_Castle.JPG/800px-02_Dautenstein_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/02_Dautenstein_Castle.JPG/1200px-02_Dautenstein_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/02_Dautenstein_Castle.JPG/1920px-02_Dautenstein_Castle.JPG
+  03 Dautenstein Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/03_Dautenstein_Castle.JPG/400px-03_Dautenstein_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/03_Dautenstein_Castle.JPG/800px-03_Dautenstein_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/03_Dautenstein_Castle.JPG/1200px-03_Dautenstein_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/03_Dautenstein_Castle.JPG/1920px-03_Dautenstein_Castle.JPG
+  04 Dautenstein Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/04_Dautenstein_Castle.JPG/400px-04_Dautenstein_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/04_Dautenstein_Castle.JPG/800px-04_Dautenstein_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/04_Dautenstein_Castle.JPG/1200px-04_Dautenstein_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/04_Dautenstein_Castle.JPG/1920px-04_Dautenstein_Castle.JPG
+  05 Dautenstein Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/05_Dautenstein_Castle.JPG/400px-05_Dautenstein_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/05_Dautenstein_Castle.JPG/800px-05_Dautenstein_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/05_Dautenstein_Castle.JPG/1200px-05_Dautenstein_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/05_Dautenstein_Castle.JPG/1920px-05_Dautenstein_Castle.JPG
 ---
 
 ## Overview

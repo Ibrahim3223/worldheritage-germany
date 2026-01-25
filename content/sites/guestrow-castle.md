@@ -1,19 +1,49 @@
 ---
-title: "Güstrow Castle"
+title: Güstrow Castle
 date: 2026-01-23
 draft: false
-description: "castle in Güstrow, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: castle in Güstrow, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.79084
 longitude: 12.17706
 images:
-  - "/images-sites/guestrow-castle/01-c0739d51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1200px-2019_Germany_Güstrow_Dom_Schloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Güstrow.JPG/1200px-Schloss_Güstrow.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg/1200px-19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schloss_Güstrow_2014.jpg/1200px-Schloss_Güstrow_2014.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/1200px-GüstrowSchloss&Park.JPG
+image_srcset:
+  2019 Germany Güstrow Dom Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/400px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/800px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1200px-2019_Germany_Güstrow_Dom_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2019_Germany_Güstrow_Dom_Schloss.jpg/1920px-2019_Germany_Güstrow_Dom_Schloss.jpg
+  Schloss Güstrow.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Güstrow.JPG/400px-Schloss_Güstrow.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Güstrow.JPG/800px-Schloss_Güstrow.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Güstrow.JPG/1200px-Schloss_Güstrow.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Schloss_Güstrow.JPG/1920px-Schloss_Güstrow.JPG
+  19870915050NR Güstrow Schloß Hof Südflügel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg/400px-19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg/800px-19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg/1200px-19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg/1920px-19870915050NR_Güstrow_Schloß_Hof_Südflügel.jpg
+  Schloss Güstrow 2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schloss_Güstrow_2014.jpg/400px-Schloss_Güstrow_2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schloss_Güstrow_2014.jpg/800px-Schloss_Güstrow_2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schloss_Güstrow_2014.jpg/1200px-Schloss_Güstrow_2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schloss_Güstrow_2014.jpg/1920px-Schloss_Güstrow_2014.jpg
+  GüstrowSchloss&Park.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/400px-GüstrowSchloss&Park.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/800px-GüstrowSchloss&Park.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/1200px-GüstrowSchloss&Park.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GüstrowSchloss&Park.JPG/1920px-GüstrowSchloss&Park.JPG
 ---
 
 ## Overview

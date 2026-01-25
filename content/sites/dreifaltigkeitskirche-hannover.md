@@ -1,24 +1,52 @@
 ---
-title: "Dreifaltigkeitskirche (Hannover)"
-site_name: "Dreifaltigkeitskirche (Hannover)"
-slug: "dreifaltigkeitskirche-hannover"
-region: "Lower Saxony"
-
-# Location
+title: Dreifaltigkeitskirche (Hannover)
+site_name: Dreifaltigkeitskirche (Hannover)
+slug: dreifaltigkeitskirche-hannover
+region: Lower Saxony
 latitude: 52.3819
 longitude: 9.75306
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1257681"
-description: "The Dreifaltigkeitskirche, located in the heart of Hannover, Germany, is a striking example of Gothic Revival architecture, completed in 1880. As you ap..."
+- church building
+- religious site
+wikidata_id: Q1257681
+description: The Dreifaltigkeitskirche, located in the heart of Hannover, Germany,
+  is a striking example of Gothic Revival architecture, completed in 1880. As you
+  ap...
 images:
-  - "/images-sites/dreifaltigkeitskirche-hannover/01-6101ceac-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-hannover/02-afacbdac-1920w.webp"
-  - "/images-sites/dreifaltigkeitskirche-hannover/03-e885c7d0-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dreifaltigkeitskirche%20frontal.jpg/1200px-Dreifaltigkeitskirche%20frontal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg/1200px-Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg/1200px-Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bödekerstrasse_Hannover_Kirche.jpg/1200px-Bödekerstrasse_Hannover_Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/1200px-Dreifaltigkeitskirche_frontal.jpg
+image_srcset:
+  Dreifaltigkeitskirche%20frontal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dreifaltigkeitskirche%20frontal.jpg/400px-Dreifaltigkeitskirche%20frontal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dreifaltigkeitskirche%20frontal.jpg/800px-Dreifaltigkeitskirche%20frontal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dreifaltigkeitskirche%20frontal.jpg/1200px-Dreifaltigkeitskirche%20frontal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Dreifaltigkeitskirche%20frontal.jpg/1920px-Dreifaltigkeitskirche%20frontal.jpg
+  Bushaltestelle Dreifaltigkeitskirche, 3, Oststadt, Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg/400px-Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg/800px-Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg/1200px-Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg/1920px-Bushaltestelle_Dreifaltigkeitskirche,_3,_Oststadt,_Hannover.jpg
+  Seiteneingang der Dreifaltigkeitskirche (Hannover).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg/400px-Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg/800px-Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg/1200px-Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg/1920px-Seiteneingang_der_Dreifaltigkeitskirche_(Hannover).jpg
+  Bödekerstrasse Hannover Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bödekerstrasse_Hannover_Kirche.jpg/400px-Bödekerstrasse_Hannover_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bödekerstrasse_Hannover_Kirche.jpg/800px-Bödekerstrasse_Hannover_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bödekerstrasse_Hannover_Kirche.jpg/1200px-Bödekerstrasse_Hannover_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bödekerstrasse_Hannover_Kirche.jpg/1920px-Bödekerstrasse_Hannover_Kirche.jpg
+  Dreifaltigkeitskirche frontal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/400px-Dreifaltigkeitskirche_frontal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/800px-Dreifaltigkeitskirche_frontal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/1200px-Dreifaltigkeitskirche_frontal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dreifaltigkeitskirche_frontal.jpg/1920px-Dreifaltigkeitskirche_frontal.jpg
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Hanover Zoo"
+title: Hanover Zoo
 date: 2026-01-24
 draft: false
-description: "zoo in Hanover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Hanover, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 52.380537
 longitude: 9.771062
 images:
-  - "/images-sites/hanover-zoo/02-1b9e68b1-800w.webp"
-  - "/images-sites/hanover-zoo/03-313e0a6a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg/1200px-Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg/1200px-ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg/1200px-Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hannover_Zoo.svg/1200px-Hannover_Zoo.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zoo_Hannover_Eingang_ausen.jpg/1200px-Zoo_Hannover_Eingang_ausen.jpg
+image_srcset:
+  Signpost to the COVID-19 Test Center in Hannover Zoo.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg/400px-Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg/800px-Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg/1200px-Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg/1920px-Signpost_to_the_COVID-19_Test_Center_in_Hannover_Zoo.jpg
+  ZOO Hannover - Reopening During the COVID-19 Pandemic.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg/400px-ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg/800px-ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg/1200px-ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg/1920px-ZOO_Hannover_-_Reopening_During_the_COVID-19_Pandemic.jpg
+  Zoo Hannover - rules of the playground use during the COVID-19 pandemic.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg/400px-Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg/800px-Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg/1200px-Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg/1920px-Zoo_Hannover_-_rules_of_the_playground_use_during_the_COVID-19_pandemic.jpg
+  Hannover Zoo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hannover_Zoo.svg/400px-Hannover_Zoo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hannover_Zoo.svg/800px-Hannover_Zoo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hannover_Zoo.svg/1200px-Hannover_Zoo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hannover_Zoo.svg/1920px-Hannover_Zoo.svg.png
+  Zoo Hannover Eingang ausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zoo_Hannover_Eingang_ausen.jpg/400px-Zoo_Hannover_Eingang_ausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zoo_Hannover_Eingang_ausen.jpg/800px-Zoo_Hannover_Eingang_ausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zoo_Hannover_Eingang_ausen.jpg/1200px-Zoo_Hannover_Eingang_ausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zoo_Hannover_Eingang_ausen.jpg/1920px-Zoo_Hannover_Eingang_ausen.jpg
 ---
 
 ## Overview

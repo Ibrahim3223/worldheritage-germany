@@ -13,7 +13,7 @@ regions:
 latitude: 47.664508055
 longitude: 11.885416944
 images:
-  - "/images-sites/spitzingsee/01-5f95c090-800w.webp"
+  - "/images/spitzingsee/01-5f95c090-800w.webp"
 ---
 
 ## Overview

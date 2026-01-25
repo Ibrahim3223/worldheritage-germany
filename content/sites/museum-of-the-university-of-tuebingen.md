@@ -13,7 +13,7 @@ regions:
 latitude: 48.51949
 longitude: 9.05079
 images:
-  - "/images-sites/museum-of-the-university-of-tuebingen/01-2f6f0cb9-800w.webp"
+  - "/images/museum-of-the-university-of-tuebingen/01-2f6f0cb9-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.4109249
 longitude: 8.715819
 images:
-  - "/images-sites/the-german-pharmacy-museum/01-a101a0bd-800w.webp"
+  - "/images/the-german-pharmacy-museum/01-a101a0bd-800w.webp"
 ---
 
 ## Overview

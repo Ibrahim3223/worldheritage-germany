@@ -1,19 +1,49 @@
 ---
-title: "Bavarian Forest Museum Village"
+title: Bavarian Forest Museum Village
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.739524053
 longitude: 13.35171792
 images:
-  - "/images-sites/bavarian-forest-museum-village/01-8df51137-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg/1200px-Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg/1200px-Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tittling_Museumsdorf_-_Blaudruck_2.jpg/1200px-Tittling_Museumsdorf_-_Blaudruck_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tittling_Museumsdorf_-_Granitbrunnen.jpg/1200px-Tittling_Museumsdorf_-_Granitbrunnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tittling-Museumsdorf-3.jpg/1200px-Tittling-Museumsdorf-3.jpg
+image_srcset:
+  Rothaumühle 1 Museumsdorf Nr. 2 - Kegelbahn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg/400px-Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg/800px-Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg/1200px-Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg/1920px-Rothaumühle_1_Museumsdorf_Nr._2_-_Kegelbahn.jpg
+  Tittling - Im Museumsdorf Bayerischer Wald 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg/400px-Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg/800px-Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg/1200px-Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg/1920px-Tittling_-_Im_Museumsdorf_Bayerischer_Wald_02.jpg
+  Tittling Museumsdorf - Blaudruck 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tittling_Museumsdorf_-_Blaudruck_2.jpg/400px-Tittling_Museumsdorf_-_Blaudruck_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tittling_Museumsdorf_-_Blaudruck_2.jpg/800px-Tittling_Museumsdorf_-_Blaudruck_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tittling_Museumsdorf_-_Blaudruck_2.jpg/1200px-Tittling_Museumsdorf_-_Blaudruck_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tittling_Museumsdorf_-_Blaudruck_2.jpg/1920px-Tittling_Museumsdorf_-_Blaudruck_2.jpg
+  Tittling Museumsdorf - Granitbrunnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tittling_Museumsdorf_-_Granitbrunnen.jpg/400px-Tittling_Museumsdorf_-_Granitbrunnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tittling_Museumsdorf_-_Granitbrunnen.jpg/800px-Tittling_Museumsdorf_-_Granitbrunnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tittling_Museumsdorf_-_Granitbrunnen.jpg/1200px-Tittling_Museumsdorf_-_Granitbrunnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tittling_Museumsdorf_-_Granitbrunnen.jpg/1920px-Tittling_Museumsdorf_-_Granitbrunnen.jpg
+  Tittling-Museumsdorf-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tittling-Museumsdorf-3.jpg/400px-Tittling-Museumsdorf-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tittling-Museumsdorf-3.jpg/800px-Tittling-Museumsdorf-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tittling-Museumsdorf-3.jpg/1200px-Tittling-Museumsdorf-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tittling-Museumsdorf-3.jpg/1920px-Tittling-Museumsdorf-3.jpg
 ---
 
 ## Overview

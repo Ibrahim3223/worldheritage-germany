@@ -1,20 +1,49 @@
 ---
-title: "Geusenfriedhof"
+title: Geusenfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.925416666
 longitude: 6.926916666
 images:
-  - "/images-sites/geusenfriedhof/02-afe0a5f2-800w.webp"
-  - "/images-sites/geusenfriedhof/03-ddceaea6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Geusenfriedhof-pano.jpg/1200px-Geusenfriedhof-pano.jpg
+image_srcset:
+  Jeremiahaus-Altar Geusenfriedhof Koeln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg/400px-Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg/800px-Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg/1920px-Jeremiahaus-Altar_Geusenfriedhof_Koeln.jpg
+  Jeremiahaus-Altar Geusenfriedhof Koeln Tauf-Ecke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg/400px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg/800px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg/1920px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke.jpg
+  Jeremiahaus-Altar Geusenfriedhof Koeln Tauf-Ecke mit Bronze-Fisch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg/400px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg/800px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg/1920px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Tauf-Ecke_mit_Bronze-Fisch.jpg
+  Jeremiahaus-Altar Geusenfriedhof Koeln Taufbecken-Deckel Rueckansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg/400px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg/800px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg/1200px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg/1920px-Jeremiahaus-Altar_Geusenfriedhof_Koeln_Taufbecken-Deckel_Rueckansicht.jpg
+  Geusenfriedhof-pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Geusenfriedhof-pano.jpg/400px-Geusenfriedhof-pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Geusenfriedhof-pano.jpg/800px-Geusenfriedhof-pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Geusenfriedhof-pano.jpg/1200px-Geusenfriedhof-pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Geusenfriedhof-pano.jpg/1920px-Geusenfriedhof-pano.jpg
 ---
 
 ## Overview

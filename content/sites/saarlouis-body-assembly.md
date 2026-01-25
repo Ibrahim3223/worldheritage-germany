@@ -13,8 +13,8 @@ regions:
 latitude: 49.34722222
 longitude: 6.76472222
 images:
-  - "/images-sites/saarlouis-body-assembly/01-56a7e3c2-800w.webp"
-  - "/images-sites/saarlouis-body-assembly/02-7d6dc4a8-800w.webp"
+  - "/images/saarlouis-body-assembly/01-56a7e3c2-800w.webp"
+  - "/images/saarlouis-body-assembly/02-7d6dc4a8-800w.webp"
 ---
 
 ## Overview

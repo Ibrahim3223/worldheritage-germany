@@ -1,19 +1,50 @@
 ---
-title: "geographical center of Europe"
+title: geographical center of Europe
 date: 2026-01-23
 draft: false
-description: "memorial and geographical midpoint of Europe in Tillenberg near Bad Neualbenreuth and Stará Voda"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial and geographical midpoint of Europe in Tillenberg near Bad Neualbenreuth
+  and Stará Voda
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 49.96202
 longitude: 12.49068
 images:
-  - "/images-sites/geographical-center-of-europe/01-2f087694-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kouřim_v_okrese_Kolín_(08).jpg/1200px-Kouřim_v_okrese_Kolín_(08).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Geografischer_Mittelpunkt_der_Europäischen_Union.jpg/1200px-Geografischer_Mittelpunkt_der_Europäischen_Union.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg/1200px-Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg/1200px-Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg/1200px-Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg
+image_srcset:
+  Kouřim v okrese Kolín (08).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kouřim_v_okrese_Kolín_(08).jpg/400px-Kouřim_v_okrese_Kolín_(08).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kouřim_v_okrese_Kolín_(08).jpg/800px-Kouřim_v_okrese_Kolín_(08).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kouřim_v_okrese_Kolín_(08).jpg/1200px-Kouřim_v_okrese_Kolín_(08).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kouřim_v_okrese_Kolín_(08).jpg/1920px-Kouřim_v_okrese_Kolín_(08).jpg
+  Geografischer Mittelpunkt der Europäischen Union.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Geografischer_Mittelpunkt_der_Europäischen_Union.jpg/400px-Geografischer_Mittelpunkt_der_Europäischen_Union.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Geografischer_Mittelpunkt_der_Europäischen_Union.jpg/800px-Geografischer_Mittelpunkt_der_Europäischen_Union.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Geografischer_Mittelpunkt_der_Europäischen_Union.jpg/1200px-Geografischer_Mittelpunkt_der_Europäischen_Union.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Geografischer_Mittelpunkt_der_Europäischen_Union.jpg/1920px-Geografischer_Mittelpunkt_der_Europäischen_Union.jpg
+  Geografischer Mittelpunkt der Europäischen Union 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg/400px-Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg/800px-Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg/1200px-Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg/1920px-Geografischer_Mittelpunkt_der_Europäischen_Union_2.jpg
+  Geografischer Mittelpunkt der Europäischen Union 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg/400px-Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg/800px-Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg/1200px-Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg/1920px-Geografischer_Mittelpunkt_der_Europäischen_Union_3.jpg
+  Pomník středu Evropy na Mírovém náměstí v Kouřimi (Q66565964) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg/400px-Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg/800px-Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg/1200px-Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg/1920px-Pomník_středu_Evropy_na_Mírovém_náměstí_v_Kouřimi_(Q66565964)_01.jpg
 ---
 
 ## Overview

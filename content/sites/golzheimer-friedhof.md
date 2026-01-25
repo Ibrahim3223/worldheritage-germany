@@ -1,19 +1,49 @@
 ---
-title: "Golzheimer Friedhof"
+title: Golzheimer Friedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Düsseldorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Düsseldorf, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2398
 longitude: 6.77363
 images:
-  - "/images-sites/golzheimer-friedhof/01-d33e9750-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stele_Golzheimer_Friedhof_Düsseldorf.jpg/1200px-Stele_Golzheimer_Friedhof_Düsseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg/1200px-Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg/1200px-Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg/1200px-Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg/1200px-Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg
+image_srcset:
+  Stele Golzheimer Friedhof Düsseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stele_Golzheimer_Friedhof_Düsseldorf.jpg/400px-Stele_Golzheimer_Friedhof_Düsseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stele_Golzheimer_Friedhof_Düsseldorf.jpg/800px-Stele_Golzheimer_Friedhof_Düsseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stele_Golzheimer_Friedhof_Düsseldorf.jpg/1200px-Stele_Golzheimer_Friedhof_Düsseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Stele_Golzheimer_Friedhof_Düsseldorf.jpg/1920px-Stele_Golzheimer_Friedhof_Düsseldorf.jpg
+  Grabmale Golzheimer Friedhof Düsseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg/400px-Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg/800px-Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg/1200px-Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg/1920px-Grabmale_Golzheimer_Friedhof_Düsseldorf.jpg
+  Grabmal Golzheimer Friedhof Düsseldorf 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg/400px-Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg/800px-Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg/1200px-Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg/1920px-Grabmal_Golzheimer_Friedhof_Düsseldorf_1.jpg
+  Grabmal Golzheimer Friedhof Düsseldorf 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg/400px-Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg/800px-Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg/1200px-Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg/1920px-Grabmal_Golzheimer_Friedhof_Düsseldorf_3.jpg
+  Grabmal Golzheimer Friedhof Düsseldorf 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg/400px-Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg/800px-Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg/1200px-Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg/1920px-Grabmal_Golzheimer_Friedhof_Düsseldorf_2.jpg
 ---
 
 ## Overview

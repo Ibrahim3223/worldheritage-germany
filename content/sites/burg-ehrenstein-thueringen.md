@@ -1,19 +1,49 @@
 ---
-title: "Burg Ehrenstein (Thüringen)"
+title: Burg Ehrenstein (Thüringen)
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7544
 longitude: 11.1772
 images:
-  - "/images-sites/burg-ehrenstein-thueringen/01-196de39d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ehrenstein-Löhring.JPG/1200px-Ehrenstein-Löhring.JPG
+image_srcset:
+  19850707320NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707320NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  19850707306NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707306NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  19850707311NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707311NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  19850707325NR Ehrenstein (Ilmtal) Burgruine Ehrenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/400px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/800px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1200px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg/1920px-19850707325NR_Ehrenstein_(Ilmtal)_Burgruine_Ehrenstein.jpg
+  Ehrenstein-Löhring.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ehrenstein-Löhring.JPG/400px-Ehrenstein-Löhring.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ehrenstein-Löhring.JPG/800px-Ehrenstein-Löhring.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ehrenstein-Löhring.JPG/1200px-Ehrenstein-Löhring.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ehrenstein-Löhring.JPG/1920px-Ehrenstein-Löhring.JPG
 ---
 
 ## Overview

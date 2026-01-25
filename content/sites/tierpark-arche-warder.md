@@ -13,7 +13,7 @@ regions:
 latitude: 54.21527778
 longitude: 9.90777778
 images:
-  - "/images-sites/tierpark-arche-warder/01-269b77a5-800w.webp"
+  - "/images/tierpark-arche-warder/01-269b77a5-800w.webp"
 ---
 
 ## Overview

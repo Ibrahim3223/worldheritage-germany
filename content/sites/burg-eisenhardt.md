@@ -1,27 +1,49 @@
 ---
-title: "Burg Eisenhardt"
+title: Burg Eisenhardt
 date: 2026-01-23
 draft: false
-description: "castle in Bad Belzig, Brandenburg state, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Bad Belzig, Brandenburg state, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.137777777
 longitude: 12.584722222
-
-# Images
 images:
-  - "/images-sites/burg-eisenhardt/01-3d784306-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg/1200px-Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg/1200px-Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bad_Belzig_asv2022-07_img26_aerial_view.jpg/1200px-Bad_Belzig_asv2022-07_img26_aerial_view.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_eisenhardt_torhaus_und_burgfried.JPG/1200px-Burg_eisenhardt_torhaus_und_burgfried.JPG
+image_srcset:
+  Bad Belzig asv2022-07 img14 Burg Eisenhardt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg/400px-Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg/800px-Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg/1200px-Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg/1920px-Bad_Belzig_asv2022-07_img14_Burg_Eisenhardt.jpg
+  Bad Belzig asv2022-07 img13 Burg Eisenhardt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg/400px-Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg/800px-Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg/1200px-Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg/1920px-Bad_Belzig_asv2022-07_img13_Burg_Eisenhardt.jpg
+  Bad Belzig asv2022-07 img26 aerial view.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bad_Belzig_asv2022-07_img26_aerial_view.jpg/400px-Bad_Belzig_asv2022-07_img26_aerial_view.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bad_Belzig_asv2022-07_img26_aerial_view.jpg/800px-Bad_Belzig_asv2022-07_img26_aerial_view.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bad_Belzig_asv2022-07_img26_aerial_view.jpg/1200px-Bad_Belzig_asv2022-07_img26_aerial_view.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bad_Belzig_asv2022-07_img26_aerial_view.jpg/1920px-Bad_Belzig_asv2022-07_img26_aerial_view.jpg
+  Aerial image of Burg Eisenhardt (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg/400px-Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg/800px-Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Burg_Eisenhardt_(view_from_the_southeast).jpg
+  Burg eisenhardt torhaus und burgfried.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_eisenhardt_torhaus_und_burgfried.JPG/400px-Burg_eisenhardt_torhaus_und_burgfried.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_eisenhardt_torhaus_und_burgfried.JPG/800px-Burg_eisenhardt_torhaus_und_burgfried.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_eisenhardt_torhaus_und_burgfried.JPG/1200px-Burg_eisenhardt_torhaus_und_burgfried.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Burg_eisenhardt_torhaus_und_burgfried.JPG/1920px-Burg_eisenhardt_torhaus_und_burgfried.JPG
 ---
 
 ## Overview

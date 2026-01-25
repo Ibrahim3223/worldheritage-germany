@@ -13,7 +13,7 @@ regions:
 latitude: 50.717361111
 longitude: 12.496111111
 images:
-  - "/images-sites/robert-schumann-house/01-a9b37aef-800w.webp"
+  - "/images/robert-schumann-house/01-a9b37aef-800w.webp"
 ---
 
 ## Overview

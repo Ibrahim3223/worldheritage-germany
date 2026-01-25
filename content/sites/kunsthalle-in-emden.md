@@ -21,7 +21,7 @@ longitude: 7.20317
 
 # Images
 images:
-  - "/images-sites/kunsthalle-in-emden/01-e9f68df7-800w.webp"
+  - "/images/kunsthalle-in-emden/01-e9f68df7-800w.webp"
 ---
 
 ## Overview

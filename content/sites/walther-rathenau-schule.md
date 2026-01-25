@@ -13,9 +13,9 @@ regions:
 latitude: 52.491493251
 longitude: 13.281589641
 images:
-  - "/images-sites/walther-rathenau-schule/01-ef593c7f-800w.webp"
-  - "/images-sites/walther-rathenau-schule/02-a26c20b1-800w.webp"
-  - "/images-sites/walther-rathenau-schule/03-916b5555-800w.webp"
+  - "/images/walther-rathenau-schule/01-ef593c7f-800w.webp"
+  - "/images/walther-rathenau-schule/02-a26c20b1-800w.webp"
+  - "/images/walther-rathenau-schule/03-916b5555-800w.webp"
 ---
 
 ## Overview

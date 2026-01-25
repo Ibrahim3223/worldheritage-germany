@@ -1,20 +1,49 @@
 ---
-title: "Hohler Stein"
+title: Hohler Stein
 date: 2026-01-23
 draft: false
-description: "cave"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4364
 longitude: 8.40278
 images:
-  - "/images-sites/hohler-stein/02-ea961109-800w.webp"
-  - "/images-sites/hohler-stein/03-920de31c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Veledahöhle_Tropfsteine.jpg/1200px-Veledahöhle_Tropfsteine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1200px-Hohler_Stein_Eingangsportal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hohler-stein-tropfsteine.jpg/1200px-Hohler-stein-tropfsteine.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hohler-stein.jpg/1200px-Hohler-stein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hohler-stein-innen.jpg/1200px-Hohler-stein-innen.jpg
+image_srcset:
+  Veledahöhle Tropfsteine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Veledahöhle_Tropfsteine.jpg/400px-Veledahöhle_Tropfsteine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Veledahöhle_Tropfsteine.jpg/800px-Veledahöhle_Tropfsteine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Veledahöhle_Tropfsteine.jpg/1200px-Veledahöhle_Tropfsteine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Veledahöhle_Tropfsteine.jpg/1920px-Veledahöhle_Tropfsteine.jpg
+  Hohler Stein Eingangsportal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/400px-Hohler_Stein_Eingangsportal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/800px-Hohler_Stein_Eingangsportal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1200px-Hohler_Stein_Eingangsportal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hohler_Stein_Eingangsportal.jpg/1920px-Hohler_Stein_Eingangsportal.jpg
+  Hohler-stein-tropfsteine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hohler-stein-tropfsteine.jpg/400px-Hohler-stein-tropfsteine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hohler-stein-tropfsteine.jpg/800px-Hohler-stein-tropfsteine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hohler-stein-tropfsteine.jpg/1200px-Hohler-stein-tropfsteine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Hohler-stein-tropfsteine.jpg/1920px-Hohler-stein-tropfsteine.jpg
+  Hohler-stein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hohler-stein.jpg/400px-Hohler-stein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hohler-stein.jpg/800px-Hohler-stein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hohler-stein.jpg/1200px-Hohler-stein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hohler-stein.jpg/1920px-Hohler-stein.jpg
+  Hohler-stein-innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hohler-stein-innen.jpg/400px-Hohler-stein-innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hohler-stein-innen.jpg/800px-Hohler-stein-innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hohler-stein-innen.jpg/1200px-Hohler-stein-innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hohler-stein-innen.jpg/1920px-Hohler-stein-innen.jpg
 ---
 
 ## Overview

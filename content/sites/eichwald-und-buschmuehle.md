@@ -1,19 +1,49 @@
 ---
-title: "Eichwald und Buschmühle"
+title: Eichwald und Buschmühle
 date: 2026-01-23
 draft: false
-description: "former nature reserve in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: former nature reserve in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.305833333
 longitude: 14.574444444
 images:
-  - "/images-sites/eichwald-und-buschmuehle/01-871005f0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg/1200px-FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg/1200px-NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg/1200px-NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steile_Wand_Lossow_2.jpg/1200px-Steile_Wand_Lossow_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichwald_und_Buschmühle_–_Info-Tafel.jpg/1200px-Eichwald_und_Buschmühle_–_Info-Tafel.jpg
+image_srcset:
+  FrankfurtOder asv2022-07 img31 Oder at the railway bridge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg/400px-FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg/800px-FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg/1200px-FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg/1920px-FrankfurtOder_asv2022-07_img31_Oder_at_the_railway_bridge.jpg
+  NSG Eichwald und Buschmühle Hartholzaue mit Flutrinne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg/400px-NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg/800px-NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg/1200px-NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg/1920px-NSG_Eichwald_und_Buschmühle_Hartholzaue_mit_Flutrinne.jpg
+  NSG Eichwald und Buschmühle Frankfurt (Oder) 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg/400px-NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg/800px-NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg/1200px-NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg/1920px-NSG_Eichwald_und_Buschmühle_Frankfurt_(Oder)_1.jpg
+  Steile Wand Lossow 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steile_Wand_Lossow_2.jpg/400px-Steile_Wand_Lossow_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steile_Wand_Lossow_2.jpg/800px-Steile_Wand_Lossow_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steile_Wand_Lossow_2.jpg/1200px-Steile_Wand_Lossow_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steile_Wand_Lossow_2.jpg/1920px-Steile_Wand_Lossow_2.jpg
+  Eichwald und Buschmühle – Info-Tafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichwald_und_Buschmühle_–_Info-Tafel.jpg/400px-Eichwald_und_Buschmühle_–_Info-Tafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichwald_und_Buschmühle_–_Info-Tafel.jpg/800px-Eichwald_und_Buschmühle_–_Info-Tafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichwald_und_Buschmühle_–_Info-Tafel.jpg/1200px-Eichwald_und_Buschmühle_–_Info-Tafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eichwald_und_Buschmühle_–_Info-Tafel.jpg/1920px-Eichwald_und_Buschmühle_–_Info-Tafel.jpg
 ---
 
 ## Overview

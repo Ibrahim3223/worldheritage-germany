@@ -21,7 +21,7 @@ longitude: 7.73858
 
 # Images
 images:
-  - "/images-sites/stahlberg-castle/01-206b340c-800w.webp"
+  - "/images/stahlberg-castle/01-206b340c-800w.webp"
 ---
 
 ## Overview

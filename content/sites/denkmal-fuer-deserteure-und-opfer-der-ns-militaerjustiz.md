@@ -1,19 +1,49 @@
 ---
-title: "Denkmal für Deserteure und Opfer der NS-Militärjustiz"
+title: Denkmal für Deserteure und Opfer der NS-Militärjustiz
 date: 2026-01-23
 draft: false
-description: "artwork in public space by Ruedi Baur in Köln, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: artwork in public space by Ruedi Baur in Köln, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 50.941052
 longitude: 6.950593
 images:
-  - "/images-sites/denkmal-fuer-deserteure-und-opfer-der-ns-militaerjustiz/01-2899bb6c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Deserteur_denkmal_koeln_03.jpg/1200px-Deserteur_denkmal_koeln_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deserteur_denkmal_koeln_01.jpg/1200px-Deserteur_denkmal_koeln_01.jpg
+image_srcset:
+  Denkmal für Deserteure und Opfer der NS-Militärjustiz Köln - Ansicht unten (6240-42).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg/400px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg/800px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg/1920px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6240-42).jpg
+  Denkmal für Deserteure und Opfer der NS-Militärjustiz Köln - Ansicht unten (6234-36).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg/400px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg/800px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg/1920px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Ansicht_unten_(6234-36).jpg
+  Denkmal für Deserteure und Opfer der NS-Militärjustiz Köln - Seitenansicht (6225-27).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/400px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/800px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/1200px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg/1920px-Denkmal_für_Deserteure_und_Opfer_der_NS-Militärjustiz_Köln_-_Seitenansicht_(6225-27).jpg
+  Deserteur denkmal koeln 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Deserteur_denkmal_koeln_03.jpg/400px-Deserteur_denkmal_koeln_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Deserteur_denkmal_koeln_03.jpg/800px-Deserteur_denkmal_koeln_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Deserteur_denkmal_koeln_03.jpg/1200px-Deserteur_denkmal_koeln_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Deserteur_denkmal_koeln_03.jpg/1920px-Deserteur_denkmal_koeln_03.jpg
+  Deserteur denkmal koeln 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deserteur_denkmal_koeln_01.jpg/400px-Deserteur_denkmal_koeln_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deserteur_denkmal_koeln_01.jpg/800px-Deserteur_denkmal_koeln_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deserteur_denkmal_koeln_01.jpg/1200px-Deserteur_denkmal_koeln_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deserteur_denkmal_koeln_01.jpg/1920px-Deserteur_denkmal_koeln_01.jpg
 ---
 
 ## Overview

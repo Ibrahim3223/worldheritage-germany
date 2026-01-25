@@ -1,19 +1,49 @@
 ---
-title: "Hintersee (Ramsauer Ache)"
+title: Hintersee (Ramsauer Ache)
 date: 2026-01-23
 draft: false
-description: "lake in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.6067
 longitude: 12.8539
 images:
-  - "/images-sites/hintersee-ramsauer-ache/01-4d0bff2c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/1200px-Hintersee-Hochkalter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/1200px-Göllspiegelung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hintersee_und_Hochkaltergruppe.jpg/1200px-Hintersee_und_Hochkaltergruppe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/1200px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Felsinseln_im_Hintersee.jpg/1200px-Felsinseln_im_Hintersee.jpg
+image_srcset:
+  Hintersee-Hochkalter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/400px-Hintersee-Hochkalter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/800px-Hintersee-Hochkalter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/1200px-Hintersee-Hochkalter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hintersee-Hochkalter.jpg/1920px-Hintersee-Hochkalter.jpg
+  Göllspiegelung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/400px-Göllspiegelung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/800px-Göllspiegelung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/1200px-Göllspiegelung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Göllspiegelung.jpg/1920px-Göllspiegelung.jpg
+  Hintersee und Hochkaltergruppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hintersee_und_Hochkaltergruppe.jpg/400px-Hintersee_und_Hochkaltergruppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hintersee_und_Hochkaltergruppe.jpg/800px-Hintersee_und_Hochkaltergruppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hintersee_und_Hochkaltergruppe.jpg/1200px-Hintersee_und_Hochkaltergruppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hintersee_und_Hochkaltergruppe.jpg/1920px-Hintersee_und_Hochkaltergruppe.jpg
+  Ramsau bei Berchtesgaden (DE), Milchstraße über Hochkalter & Hintersee -- 2024 -- 1018-50.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/400px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/800px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/1200px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg/1920px-Ramsau_bei_Berchtesgaden_(DE),_Milchstraße_über_Hochkalter_&_Hintersee_--_2024_--_1018-50.jpg
+  Felsinseln im Hintersee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Felsinseln_im_Hintersee.jpg/400px-Felsinseln_im_Hintersee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Felsinseln_im_Hintersee.jpg/800px-Felsinseln_im_Hintersee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Felsinseln_im_Hintersee.jpg/1200px-Felsinseln_im_Hintersee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Felsinseln_im_Hintersee.jpg/1920px-Felsinseln_im_Hintersee.jpg
 ---
 
 ## Overview

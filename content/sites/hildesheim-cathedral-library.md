@@ -1,21 +1,43 @@
 ---
-title: "Hildesheim cathedral library"
+title: Hildesheim cathedral library
 date: 2026-01-23
 draft: false
-description: "Library of the Bishopric of Hildesheim (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: Library of the Bishopric of Hildesheim (Germany)
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.15
 longitude: 9.9475
 images:
-  - "/images-sites/hildesheim-cathedral-library/01-3d463fb2-800w.webp"
-  - "/images-sites/hildesheim-cathedral-library/02-42ffd2a4-800w.webp"
-  - "/images-sites/hildesheim-cathedral-library/03-0cd8f01c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Handschrift_Hildesheimer_Dombibliothek.jpg/1200px-Handschrift_Hildesheimer_Dombibliothek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1200px-Hildesheim_Dombibliothek_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hildesheim_Dombibliothek.jpg/1200px-Hildesheim_Dombibliothek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Psalm_136_Initial_S.jpg/1200px-Psalm_136_Initial_S.jpg
+image_srcset:
+  Handschrift Hildesheimer Dombibliothek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Handschrift_Hildesheimer_Dombibliothek.jpg/400px-Handschrift_Hildesheimer_Dombibliothek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Handschrift_Hildesheimer_Dombibliothek.jpg/800px-Handschrift_Hildesheimer_Dombibliothek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Handschrift_Hildesheimer_Dombibliothek.jpg/1200px-Handschrift_Hildesheimer_Dombibliothek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Handschrift_Hildesheimer_Dombibliothek.jpg/1920px-Handschrift_Hildesheimer_Dombibliothek.jpg
+  Hildesheim Dombibliothek 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/400px-Hildesheim_Dombibliothek_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/800px-Hildesheim_Dombibliothek_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1200px-Hildesheim_Dombibliothek_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hildesheim_Dombibliothek_02.jpg/1920px-Hildesheim_Dombibliothek_02.jpg
+  Hildesheim Dombibliothek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hildesheim_Dombibliothek.jpg/400px-Hildesheim_Dombibliothek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hildesheim_Dombibliothek.jpg/800px-Hildesheim_Dombibliothek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hildesheim_Dombibliothek.jpg/1200px-Hildesheim_Dombibliothek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hildesheim_Dombibliothek.jpg/1920px-Hildesheim_Dombibliothek.jpg
+  Psalm 136 Initial S.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Psalm_136_Initial_S.jpg/400px-Psalm_136_Initial_S.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Psalm_136_Initial_S.jpg/800px-Psalm_136_Initial_S.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Psalm_136_Initial_S.jpg/1200px-Psalm_136_Initial_S.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Psalm_136_Initial_S.jpg/1920px-Psalm_136_Initial_S.jpg
 ---
 
 ## Overview

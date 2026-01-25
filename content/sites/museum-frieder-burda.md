@@ -21,7 +21,7 @@ longitude: 8.23803
 
 # Images
 images:
-  - "/images-sites/museum-frieder-burda/01-02c9c044-800w.webp"
+  - "/images/museum-frieder-burda/01-02c9c044-800w.webp"
 ---
 
 ## Overview

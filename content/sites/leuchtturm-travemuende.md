@@ -13,9 +13,9 @@ regions:
 latitude: 53.9605
 longitude: 10.8794
 images:
-  - "/images-sites/leuchtturm-travemuende/01-ac1ff9b4-800w.webp"
-  - "/images-sites/leuchtturm-travemuende/02-14576997-800w.webp"
-  - "/images-sites/leuchtturm-travemuende/03-977e5895-800w.webp"
+  - "/images/leuchtturm-travemuende/01-ac1ff9b4-800w.webp"
+  - "/images/leuchtturm-travemuende/02-14576997-800w.webp"
+  - "/images/leuchtturm-travemuende/03-977e5895-800w.webp"
 ---
 
 ## Overview

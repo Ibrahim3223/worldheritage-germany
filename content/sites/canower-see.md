@@ -1,19 +1,50 @@
 ---
-title: "Canower See"
+title: Canower See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.197497222
 longitude: 12.912025
 images:
-  - "/images-sites/canower-see/01-998f79c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Canower_See_by_a._froese_01.jpg/1200px-Canower_See_by_a._froese_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Canower_See_-_panoramio_(1).jpg/1200px-Canower_See_-_panoramio_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016-03-27_Canower_See_Badestelle_148.jpg/1200px-2016-03-27_Canower_See_Badestelle_148.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2016-03-27_Canower_See_von_der_Badestelle_150.jpg/1200px-2016-03-27_Canower_See_von_der_Badestelle_150.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2016-03-27_Canower_See_073.jpg/1200px-2016-03-27_Canower_See_073.jpg
+image_srcset:
+  Canower See by a. froese 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Canower_See_by_a._froese_01.jpg/400px-Canower_See_by_a._froese_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Canower_See_by_a._froese_01.jpg/800px-Canower_See_by_a._froese_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Canower_See_by_a._froese_01.jpg/1200px-Canower_See_by_a._froese_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Canower_See_by_a._froese_01.jpg/1920px-Canower_See_by_a._froese_01.jpg
+  Canower See - panoramio (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Canower_See_-_panoramio_(1).jpg/400px-Canower_See_-_panoramio_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Canower_See_-_panoramio_(1).jpg/800px-Canower_See_-_panoramio_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Canower_See_-_panoramio_(1).jpg/1200px-Canower_See_-_panoramio_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Canower_See_-_panoramio_(1).jpg/1920px-Canower_See_-_panoramio_(1).jpg
+  2016-03-27 Canower See Badestelle 148.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016-03-27_Canower_See_Badestelle_148.jpg/400px-2016-03-27_Canower_See_Badestelle_148.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016-03-27_Canower_See_Badestelle_148.jpg/800px-2016-03-27_Canower_See_Badestelle_148.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016-03-27_Canower_See_Badestelle_148.jpg/1200px-2016-03-27_Canower_See_Badestelle_148.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2016-03-27_Canower_See_Badestelle_148.jpg/1920px-2016-03-27_Canower_See_Badestelle_148.jpg
+  2016-03-27 Canower See von der Badestelle 150.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2016-03-27_Canower_See_von_der_Badestelle_150.jpg/400px-2016-03-27_Canower_See_von_der_Badestelle_150.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2016-03-27_Canower_See_von_der_Badestelle_150.jpg/800px-2016-03-27_Canower_See_von_der_Badestelle_150.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2016-03-27_Canower_See_von_der_Badestelle_150.jpg/1200px-2016-03-27_Canower_See_von_der_Badestelle_150.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2016-03-27_Canower_See_von_der_Badestelle_150.jpg/1920px-2016-03-27_Canower_See_von_der_Badestelle_150.jpg
+  2016-03-27 Canower See 073.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2016-03-27_Canower_See_073.jpg/400px-2016-03-27_Canower_See_073.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2016-03-27_Canower_See_073.jpg/800px-2016-03-27_Canower_See_073.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2016-03-27_Canower_See_073.jpg/1200px-2016-03-27_Canower_See_073.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2016-03-27_Canower_See_073.jpg/1920px-2016-03-27_Canower_See_073.jpg
 ---
 
 ## Overview

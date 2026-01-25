@@ -1,19 +1,49 @@
 ---
-title: "Festspielhaus Hellerau"
+title: Festspielhaus Hellerau
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1137
 longitude: 13.7531
 images:
-  - "/images-sites/festspielhaus-hellerau/01-a6d9c94e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Residents_Bob.jpg/1200px-Residents_Bob.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Festspielhaus_Hellerau,_central_hall_at_daylight.jpg/1200px-Festspielhaus_Hellerau,_central_hall_at_daylight.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festspielhaus_Hellerau_02.jpg/1200px-Festspielhaus_Hellerau_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg/1200px-14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1200px-Festspielhaus_Hellerau_1913.png
+image_srcset:
+  Residents Bob.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Residents_Bob.jpg/400px-Residents_Bob.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Residents_Bob.jpg/800px-Residents_Bob.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Residents_Bob.jpg/1200px-Residents_Bob.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Residents_Bob.jpg/1920px-Residents_Bob.jpg
+  Festspielhaus Hellerau, central hall at daylight.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Festspielhaus_Hellerau,_central_hall_at_daylight.jpg/400px-Festspielhaus_Hellerau,_central_hall_at_daylight.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Festspielhaus_Hellerau,_central_hall_at_daylight.jpg/800px-Festspielhaus_Hellerau,_central_hall_at_daylight.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Festspielhaus_Hellerau,_central_hall_at_daylight.jpg/1200px-Festspielhaus_Hellerau,_central_hall_at_daylight.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Festspielhaus_Hellerau,_central_hall_at_daylight.jpg/1920px-Festspielhaus_Hellerau,_central_hall_at_daylight.jpg
+  Festspielhaus Hellerau 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festspielhaus_Hellerau_02.jpg/400px-Festspielhaus_Hellerau_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festspielhaus_Hellerau_02.jpg/800px-Festspielhaus_Hellerau_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festspielhaus_Hellerau_02.jpg/1200px-Festspielhaus_Hellerau_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Festspielhaus_Hellerau_02.jpg/1920px-Festspielhaus_Hellerau_02.jpg
+  14535-Hellerau-1912-Dalcroze - Schule-Brück & Sohn Kunstverlag.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg/400px-14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg/800px-14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg/1200px-14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg/1920px-14535-Hellerau-1912-Dalcroze_-_Schule-Brück_&_Sohn_Kunstverlag.jpg
+  Festspielhaus Hellerau 1913.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/400px-Festspielhaus_Hellerau_1913.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/800px-Festspielhaus_Hellerau_1913.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1200px-Festspielhaus_Hellerau_1913.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Festspielhaus_Hellerau_1913.png/1920px-Festspielhaus_Hellerau_1913.png
 ---
 
 ## Overview

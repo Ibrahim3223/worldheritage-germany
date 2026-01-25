@@ -1,27 +1,49 @@
 ---
-title: "Gollenfels"
+title: Gollenfels
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9446
 longitude: 7.7686
-
-# Images
 images:
-  - "/images-sites/gollenfels/01-0832934c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gollenfels_Tower1.jpg/1200px-Gollenfels_Tower1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gollenfels_halsgraben.jpg/1200px-Gollenfels_halsgraben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1200px-Gollenfels_main_building.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg/1200px-Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg/1200px-Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg
+image_srcset:
+  Gollenfels Tower1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gollenfels_Tower1.jpg/400px-Gollenfels_Tower1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gollenfels_Tower1.jpg/800px-Gollenfels_Tower1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gollenfels_Tower1.jpg/1200px-Gollenfels_Tower1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gollenfels_Tower1.jpg/1920px-Gollenfels_Tower1.jpg
+  Gollenfels halsgraben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gollenfels_halsgraben.jpg/400px-Gollenfels_halsgraben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gollenfels_halsgraben.jpg/800px-Gollenfels_halsgraben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gollenfels_halsgraben.jpg/1200px-Gollenfels_halsgraben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gollenfels_halsgraben.jpg/1920px-Gollenfels_halsgraben.jpg
+  Gollenfels main building.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/400px-Gollenfels_main_building.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/800px-Gollenfels_main_building.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1200px-Gollenfels_main_building.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gollenfels_main_building.jpg/1920px-Gollenfels_main_building.jpg
+  Stromberg (Hunsrück), Gerbereistr. nach W, darüber Burg Gollenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg/400px-Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg/800px-Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg/1200px-Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg/1920px-Stromberg_(Hunsrück),_Gerbereistr._nach_W,_darüber_Burg_Gollenfels.jpg
+  Stromberg (Hunsrück), Rathausstr. 6 + 8, rechts oben Burg Gollenfels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg/400px-Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg/800px-Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg/1200px-Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg/1920px-Stromberg_(Hunsrück),_Rathausstr._6_+_8,_rechts_oben_Burg_Gollenfels.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 54.2194
 longitude: 10.4367
 images:
-  - "/images-sites/vogelfreistaette-lebrader-teich/01-0b3a97c1-800w.webp"
+  - "/images/vogelfreistaette-lebrader-teich/01-0b3a97c1-800w.webp"
 ---
 
 ## Overview

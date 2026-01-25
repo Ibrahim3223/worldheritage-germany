@@ -1,19 +1,49 @@
 ---
-title: "Bismarck Monument"
+title: Bismarck Monument
 date: 2026-01-23
 draft: false
-description: "Bismarck monument in Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: Bismarck monument in Hamburg
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54869
 longitude: 9.97205
 images:
-  - "/images-sites/bismarck-monument/01-9a9096ca-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/1200px-Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/1200px-Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DÜ_BD_Bismarckdenkmal.jpg/1200px-DÜ_BD_Bismarckdenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Bismarck-Denkmal_01_KMJ.jpg/1200px-Hamburg_Bismarck-Denkmal_01_KMJ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/19080218_posen_bismarck_denkmal.jpg/1200px-19080218_posen_bismarck_denkmal.jpg
+image_srcset:
+  Bismarck-Denkmal in Norden (Ostfriesland, 2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/400px-Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/800px-Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/1200px-Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/1920px-Bismarck-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+  Bismarck auf dem Sockel -Denkmal in Norden (Ostfriesland, 2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/400px-Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/800px-Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/1200px-Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg/1920px-Bismarck_auf_dem_Sockel_-Denkmal_in_Norden_(Ostfriesland,_2024).jpg
+  DÜ BD Bismarckdenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DÜ_BD_Bismarckdenkmal.jpg/400px-DÜ_BD_Bismarckdenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DÜ_BD_Bismarckdenkmal.jpg/800px-DÜ_BD_Bismarckdenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DÜ_BD_Bismarckdenkmal.jpg/1200px-DÜ_BD_Bismarckdenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/DÜ_BD_Bismarckdenkmal.jpg/1920px-DÜ_BD_Bismarckdenkmal.jpg
+  Hamburg Bismarck-Denkmal 01 KMJ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Bismarck-Denkmal_01_KMJ.jpg/400px-Hamburg_Bismarck-Denkmal_01_KMJ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Bismarck-Denkmal_01_KMJ.jpg/800px-Hamburg_Bismarck-Denkmal_01_KMJ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Bismarck-Denkmal_01_KMJ.jpg/1200px-Hamburg_Bismarck-Denkmal_01_KMJ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hamburg_Bismarck-Denkmal_01_KMJ.jpg/1920px-Hamburg_Bismarck-Denkmal_01_KMJ.jpg
+  19080218 posen bismarck denkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/19080218_posen_bismarck_denkmal.jpg/400px-19080218_posen_bismarck_denkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/19080218_posen_bismarck_denkmal.jpg/800px-19080218_posen_bismarck_denkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/19080218_posen_bismarck_denkmal.jpg/1200px-19080218_posen_bismarck_denkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/19080218_posen_bismarck_denkmal.jpg/1920px-19080218_posen_bismarck_denkmal.jpg
 ---
 
 ## Overview

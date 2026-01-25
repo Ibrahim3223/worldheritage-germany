@@ -1,19 +1,49 @@
 ---
-title: "Jahrtausendturm"
+title: Jahrtausendturm
 date: 2026-01-23
 draft: false
-description: "tower in Magdeburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: tower in Magdeburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.138777777
 longitude: 11.666416666
 images:
-  - "/images-sites/jahrtausendturm/03-ab8abafb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JahrtausendturmMagdeburg.jpg/1200px-JahrtausendturmMagdeburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jahrtausendturm_im_Elbauenpark.jpg/1200px-Jahrtausendturm_im_Elbauenpark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg/1200px-Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg/1200px-Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1200px-Jahrtausendturm.jpg
+image_srcset:
+  JahrtausendturmMagdeburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JahrtausendturmMagdeburg.jpg/400px-JahrtausendturmMagdeburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JahrtausendturmMagdeburg.jpg/800px-JahrtausendturmMagdeburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JahrtausendturmMagdeburg.jpg/1200px-JahrtausendturmMagdeburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/JahrtausendturmMagdeburg.jpg/1920px-JahrtausendturmMagdeburg.jpg
+  Jahrtausendturm im Elbauenpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jahrtausendturm_im_Elbauenpark.jpg/400px-Jahrtausendturm_im_Elbauenpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jahrtausendturm_im_Elbauenpark.jpg/800px-Jahrtausendturm_im_Elbauenpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jahrtausendturm_im_Elbauenpark.jpg/1200px-Jahrtausendturm_im_Elbauenpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jahrtausendturm_im_Elbauenpark.jpg/1920px-Jahrtausendturm_im_Elbauenpark.jpg
+  Magdeburg, Elbauenpark, große Wiese, Blick zum Jahrtausendturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg/400px-Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg/800px-Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg/1200px-Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg/1920px-Magdeburg,_Elbauenpark,_große_Wiese,_Blick_zum_Jahrtausendturm.jpg
+  Magdeburger Jahrtausendturm bei Sonnenuntergang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg/400px-Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg/800px-Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg/1200px-Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg/1920px-Magdeburger_Jahrtausendturm_bei_Sonnenuntergang.jpg
+  Jahrtausendturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/400px-Jahrtausendturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/800px-Jahrtausendturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1200px-Jahrtausendturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jahrtausendturm.jpg/1920px-Jahrtausendturm.jpg
 ---
 
 ## Overview

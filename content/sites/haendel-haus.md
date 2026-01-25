@@ -1,19 +1,50 @@
 ---
-title: "Händel-Haus"
+title: Händel-Haus
 date: 2026-01-23
 draft: false
-description: "music museum in Halle (Saale), Germany, at the birthplace of George Frederic Handel"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: music museum in Halle (Saale), Germany, at the birthplace of George Frederic
+  Handel
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4842
 longitude: 11.9669
 images:
-  - "/images-sites/haendel-haus/01-0e0d39bc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2014_04_Händelhaus.jpg/1200px-2014_04_Händelhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Händelhaus_Halle_03.jpg/1200px-Händelhaus_Halle_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg/1200px-Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1200px-Händelhaus_-_ILN_1859-07-18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg/1200px-Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg
+image_srcset:
+  2014 04 Händelhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2014_04_Händelhaus.jpg/400px-2014_04_Händelhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2014_04_Händelhaus.jpg/800px-2014_04_Händelhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2014_04_Händelhaus.jpg/1200px-2014_04_Händelhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2014_04_Händelhaus.jpg/1920px-2014_04_Händelhaus.jpg
+  Händelhaus Halle 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Händelhaus_Halle_03.jpg/400px-Händelhaus_Halle_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Händelhaus_Halle_03.jpg/800px-Händelhaus_Halle_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Händelhaus_Halle_03.jpg/1200px-Händelhaus_Halle_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Händelhaus_Halle_03.jpg/1920px-Händelhaus_Halle_03.jpg
+  Halle (Saale), Halloren Schokoladenmuseum, Händelhaus aus Schokolade.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg/400px-Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg/800px-Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg/1200px-Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg/1920px-Halle_(Saale),_Halloren_Schokoladenmuseum,_Händelhaus_aus_Schokolade.jpg
+  Händelhaus - ILN 1859-07-18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/400px-Händelhaus_-_ILN_1859-07-18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/800px-Händelhaus_-_ILN_1859-07-18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1200px-Händelhaus_-_ILN_1859-07-18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Händelhaus_-_ILN_1859-07-18.jpg/1920px-Händelhaus_-_ILN_1859-07-18.jpg
+  Unterrichtungstafel-A14 Händelhaus Halle Full.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg/400px-Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg/800px-Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg/1200px-Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg/1920px-Unterrichtungstafel-A14_Händelhaus_Halle_Full.jpg
 ---
 
 ## Overview

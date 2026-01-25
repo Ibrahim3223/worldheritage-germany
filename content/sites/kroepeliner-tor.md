@@ -13,7 +13,7 @@ regions:
 latitude: 54.0885
 longitude: 12.1289
 images:
-  - "/images-sites/kroepeliner-tor/01-a305b75a-800w.webp"
+  - "/images/kroepeliner-tor/01-a305b75a-800w.webp"
 ---
 
 ## Overview

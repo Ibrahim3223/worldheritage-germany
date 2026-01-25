@@ -21,7 +21,7 @@ longitude: 11.599343596
 
 # Images
 images:
-  - "/images-sites/villa-stuck/01-40814d09-800w.webp"
+  - "/images/villa-stuck/01-40814d09-800w.webp"
 ---
 
 ## Overview

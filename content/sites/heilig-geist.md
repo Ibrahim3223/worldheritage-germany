@@ -1,23 +1,50 @@
 ---
-title: "Heilig Geist"
-site_name: "Heilig Geist"
-slug: "heilig-geist"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Heilig Geist
+site_name: Heilig Geist
+slug: heilig-geist
+region: North Rhine-Westphalia
 latitude: 52.0324
 longitude: 8.90347
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1122419"
-description: "In the heart of Lemgo, Germany, the Heilig Geist church stands as a remarkable example of modern architecture. This unique structure offers visitors not..."
+- cultural site
+wikidata_id: Q1122419
+description: In the heart of Lemgo, Germany, the Heilig Geist church stands as a remarkable
+  example of modern architecture. This unique structure offers visitors not...
 images:
-  - "/images-sites/heilig-geist/01-e29bf8ab-1920w.webp"
-  - "/images-sites/heilig-geist/02-989cf7fa-1920w.webp"
-  - "/images-sites/heilig-geist/03-7172a8ea-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lemgo%20-%20Heilig%20Geist%20%283%29.jpg/1200px-Lemgo%20-%20Heilig%20Geist%20%283%29.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/1200px-Nürnberg_Heilig-Geist-Spital_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg/1200px-St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg/1200px-St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg/1200px-St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg
+image_srcset:
+  Lemgo%20-%20Heilig%20Geist%20%283%29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lemgo%20-%20Heilig%20Geist%20%283%29.jpg/400px-Lemgo%20-%20Heilig%20Geist%20%283%29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lemgo%20-%20Heilig%20Geist%20%283%29.jpg/800px-Lemgo%20-%20Heilig%20Geist%20%283%29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lemgo%20-%20Heilig%20Geist%20%283%29.jpg/1200px-Lemgo%20-%20Heilig%20Geist%20%283%29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lemgo%20-%20Heilig%20Geist%20%283%29.jpg/1920px-Lemgo%20-%20Heilig%20Geist%20%283%29.jpg
+  Nürnberg Heilig-Geist-Spital 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/400px-Nürnberg_Heilig-Geist-Spital_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/800px-Nürnberg_Heilig-Geist-Spital_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/1200px-Nürnberg_Heilig-Geist-Spital_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nürnberg_Heilig-Geist-Spital_01.jpg/1920px-Nürnberg_Heilig-Geist-Spital_01.jpg
+  St. Anna Kirche Neumarkt Oberpfalz 22.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg/400px-St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg/800px-St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg/1200px-St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg/1920px-St._Anna_Kirche_Neumarkt_Oberpfalz_22.jpg
+  St. Anna Kirche Neumarkt Oberpfalz 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg/400px-St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg/800px-St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg/1200px-St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg/1920px-St._Anna_Kirche_Neumarkt_Oberpfalz_02.jpg
+  St. Anna Kirche Neumarkt Oberpfalz 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg/400px-St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg/800px-St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg/1200px-St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg/1920px-St._Anna_Kirche_Neumarkt_Oberpfalz_06.jpg
 ---
 
 ## Overview

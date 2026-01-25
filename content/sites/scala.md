@@ -13,7 +13,7 @@ regions:
 latitude: 52.4981
 longitude: 13.3451
 images:
-  - "/images-sites/scala/01-357862f0-800w.webp"
+  - "/images/scala/01-357862f0-800w.webp"
 ---
 
 ## Overview

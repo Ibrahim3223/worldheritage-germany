@@ -1,19 +1,49 @@
 ---
-title: "Bebenhausen Abbey"
+title: Bebenhausen Abbey
 date: 2026-01-23
 draft: false
-description: "former Cistercian abbey in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Cistercian abbey in Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.56137
 longitude: 9.06072
 images:
-  - "/images-sites/bebenhausen-abbey/01-3b78eb59-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg/1200px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg/1200px-Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg/1200px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg/1200px-Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1200px-Bebenhausen_Klosterkirche_von_außen.jpg
+image_srcset:
+  Zentralbibliothek Zürich - Kloster Bebenhausen - 991062725549705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg/400px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg/800px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg/1200px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg/1920px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen_-_991062725549705501.jpg
+  Zentralbibliothek Zürich - Kapitelsaal im Kloster Bebenhausen - 991145988829705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg/400px-Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg/800px-Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg/1200px-Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg/1920px-Zentralbibliothek_Zürich_-_Kapitelsaal_im_Kloster_Bebenhausen_-_991145988829705501.jpg
+  Zentralbibliothek Zürich - Kloster Bebenhausen. Sommer-Refectorium - 991104965519705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg/400px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg/800px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg/1200px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg/1920px-Zentralbibliothek_Zürich_-_Kloster_Bebenhausen._Sommer-Refectorium_-_991104965519705501.jpg
+  Zentralbibliothek Zürich - Geisselkammer im Kloster Bebenhausen - 991008229499705501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg/400px-Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg/800px-Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg/1200px-Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg/1920px-Zentralbibliothek_Zürich_-_Geisselkammer_im_Kloster_Bebenhausen_-_991008229499705501.jpg
+  Bebenhausen Klosterkirche von außen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/400px-Bebenhausen_Klosterkirche_von_außen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/800px-Bebenhausen_Klosterkirche_von_außen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1200px-Bebenhausen_Klosterkirche_von_außen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bebenhausen_Klosterkirche_von_außen.jpg/1920px-Bebenhausen_Klosterkirche_von_außen.jpg
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 51.8642
 longitude: 12.6525
 images:
-  - "/images-sites/lutherhaus-wittenberg/01-248a0ba1-800w.webp"
-  - "/images-sites/lutherhaus-wittenberg/02-29df197c-800w.webp"
-  - "/images-sites/lutherhaus-wittenberg/03-9ae01659-800w.webp"
+  - "/images/lutherhaus-wittenberg/01-248a0ba1-800w.webp"
+  - "/images/lutherhaus-wittenberg/02-29df197c-800w.webp"
+  - "/images/lutherhaus-wittenberg/03-9ae01659-800w.webp"
 ---
 
 ## Overview

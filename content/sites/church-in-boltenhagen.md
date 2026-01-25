@@ -1,19 +1,51 @@
 ---
-title: "Church in Boltenhagen"
-site_name: "Church in Boltenhagen"
-slug: "church-in-boltenhagen"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Boltenhagen
+site_name: Church in Boltenhagen
+slug: church-in-boltenhagen
+region: Schleswig-Holstein
 latitude: 53.9885
 longitude: 11.2012
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1381008"
-description: "As you stand before the Church in Boltenhagen, the intricate details of its Gothic Revival architecture might capture your imagination. This church, bui..."
+- cultural site
+wikidata_id: Q1381008
+description: As you stand before the Church in Boltenhagen, the intricate details
+  of its Gothic Revival architecture might capture your imagination. This church,
+  bui...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Boltenhagen%20Kirche%202009-01-02%20028.jpg/1200px-Boltenhagen%20Kirche%202009-01-02%20028.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boltenhagen_Kirche_2009-01-02_022.jpg/1200px-Boltenhagen_Kirche_2009-01-02_022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg/1200px-Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1200px-Boltenhagen_Kirche_2009-01-02_028.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_Boltenhagen.jpg/1200px-Kirche_Boltenhagen.jpg
+image_srcset:
+  Boltenhagen%20Kirche%202009-01-02%20028.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Boltenhagen%20Kirche%202009-01-02%20028.jpg/400px-Boltenhagen%20Kirche%202009-01-02%20028.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Boltenhagen%20Kirche%202009-01-02%20028.jpg/800px-Boltenhagen%20Kirche%202009-01-02%20028.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Boltenhagen%20Kirche%202009-01-02%20028.jpg/1200px-Boltenhagen%20Kirche%202009-01-02%20028.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Boltenhagen%20Kirche%202009-01-02%20028.jpg/1920px-Boltenhagen%20Kirche%202009-01-02%20028.jpg
+  Boltenhagen Kirche 2009-01-02 022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boltenhagen_Kirche_2009-01-02_022.jpg/400px-Boltenhagen_Kirche_2009-01-02_022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boltenhagen_Kirche_2009-01-02_022.jpg/800px-Boltenhagen_Kirche_2009-01-02_022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boltenhagen_Kirche_2009-01-02_022.jpg/1200px-Boltenhagen_Kirche_2009-01-02_022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Boltenhagen_Kirche_2009-01-02_022.jpg/1920px-Boltenhagen_Kirche_2009-01-02_022.jpg
+  Boltenhagen Kirche Empore Orgel 2009-01-02 026.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg/400px-Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg/800px-Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg/1200px-Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg/1920px-Boltenhagen_Kirche_Empore_Orgel_2009-01-02_026.jpg
+  Boltenhagen Kirche 2009-01-02 028.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/400px-Boltenhagen_Kirche_2009-01-02_028.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/800px-Boltenhagen_Kirche_2009-01-02_028.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1200px-Boltenhagen_Kirche_2009-01-02_028.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Boltenhagen_Kirche_2009-01-02_028.jpg/1920px-Boltenhagen_Kirche_2009-01-02_028.jpg
+  Kirche Boltenhagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_Boltenhagen.jpg/400px-Kirche_Boltenhagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_Boltenhagen.jpg/800px-Kirche_Boltenhagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_Boltenhagen.jpg/1200px-Kirche_Boltenhagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_Boltenhagen.jpg/1920px-Kirche_Boltenhagen.jpg
 ---
 
 ## Overview

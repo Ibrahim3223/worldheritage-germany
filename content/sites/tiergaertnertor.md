@@ -13,7 +13,7 @@ regions:
 latitude: 49.4575
 longitude: 11.0743
 images:
-  - "/images-sites/tiergaertnertor/01-93be91c2-800w.webp"
+  - "/images/tiergaertnertor/01-93be91c2-800w.webp"
 ---
 
 ## Overview

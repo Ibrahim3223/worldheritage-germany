@@ -1,19 +1,31 @@
 ---
-title: "Herrenhaus Tellow"
+title: Herrenhaus Tellow
 date: 2026-01-23
 draft: false
-description: "Herrenhaus in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: Herrenhaus in Deutschland
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 53.84675
 longitude: 12.51358
 images:
-  - "/images-sites/herrenhaus-tellow/01-d47b8fdd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1200px-Tellow_Thuenen_manor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tellow_Thuenen_Pogge.jpg/1200px-Tellow_Thuenen_Pogge.jpg
+image_srcset:
+  Tellow Thuenen manor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/400px-Tellow_Thuenen_manor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/800px-Tellow_Thuenen_manor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1200px-Tellow_Thuenen_manor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tellow_Thuenen_manor.jpg/1920px-Tellow_Thuenen_manor.jpg
+  Tellow Thuenen Pogge.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tellow_Thuenen_Pogge.jpg/400px-Tellow_Thuenen_Pogge.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tellow_Thuenen_Pogge.jpg/800px-Tellow_Thuenen_Pogge.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tellow_Thuenen_Pogge.jpg/1200px-Tellow_Thuenen_Pogge.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tellow_Thuenen_Pogge.jpg/1920px-Tellow_Thuenen_Pogge.jpg
 ---
 
 ## Overview

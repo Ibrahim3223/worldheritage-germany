@@ -1,20 +1,51 @@
 ---
-title: "Evangelische Christuskirche Walsdorf"
-site_name: "Evangelische Christuskirche Walsdorf"
-slug: "evangelische-christuskirche-walsdorf"
-region: "Hesse"
-
-# Location
+title: Evangelische Christuskirche Walsdorf
+site_name: Evangelische Christuskirche Walsdorf
+slug: evangelische-christuskirche-walsdorf
+region: Hesse
 latitude: 50.27294444444444
 longitude: 8.279
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380154"
-description: "Tucked away in Walsdorf, Germany, the Evangelische Christuskirche presents an intriguing glimpse into Gothic architecture, inviting visitors to explore ..."
+- church building
+- religious site
+wikidata_id: Q1380154
+description: Tucked away in Walsdorf, Germany, the Evangelische Christuskirche presents
+  an intriguing glimpse into Gothic architecture, inviting visitors to explore ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kirche%20Walsdorf.JPG/1200px-Kirche%20Walsdorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg/1200px-Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1200px-Kirche_Walsdorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kirche_Walsdorf_-_Orgel_und_Decke.JPG/1200px-Kirche_Walsdorf_-_Orgel_und_Decke.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg/1200px-Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg
+image_srcset:
+  Kirche%20Walsdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kirche%20Walsdorf.JPG/400px-Kirche%20Walsdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kirche%20Walsdorf.JPG/800px-Kirche%20Walsdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kirche%20Walsdorf.JPG/1200px-Kirche%20Walsdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kirche%20Walsdorf.JPG/1920px-Kirche%20Walsdorf.JPG
+  Idstein-Walsdorf, evangelische Christuskirche Dm14011 IMG 1836 2024-05-28 13.21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg/400px-Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg/800px-Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg/1200px-Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg/1920px-Idstein-Walsdorf,_evangelische_Christuskirche_Dm14011_IMG_1836_2024-05-28_13.21.jpg
+  Kirche Walsdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/400px-Kirche_Walsdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/800px-Kirche_Walsdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1200px-Kirche_Walsdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kirche_Walsdorf.JPG/1920px-Kirche_Walsdorf.JPG
+  Kirche Walsdorf - Orgel und Decke.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kirche_Walsdorf_-_Orgel_und_Decke.JPG/400px-Kirche_Walsdorf_-_Orgel_und_Decke.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kirche_Walsdorf_-_Orgel_und_Decke.JPG/800px-Kirche_Walsdorf_-_Orgel_und_Decke.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kirche_Walsdorf_-_Orgel_und_Decke.JPG/1200px-Kirche_Walsdorf_-_Orgel_und_Decke.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kirche_Walsdorf_-_Orgel_und_Decke.JPG/1920px-Kirche_Walsdorf_-_Orgel_und_Decke.JPG
+  Eingang zur Evangelischen Christuskirche in Walsdorf bei Idstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg/400px-Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg/800px-Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg/1200px-Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg/1920px-Eingang_zur_Evangelischen_Christuskirche_in_Walsdorf_bei_Idstein.jpg
 ---
 
 ## Overview

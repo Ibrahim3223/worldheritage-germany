@@ -13,7 +13,7 @@ regions:
 latitude: 51.9464
 longitude: 7.59167
 images:
-  - "/images-sites/muenster-zoo/01-5b2679b4-800w.webp"
+  - "/images/muenster-zoo/01-5b2679b4-800w.webp"
 ---
 
 ## Overview

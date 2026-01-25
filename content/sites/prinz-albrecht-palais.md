@@ -13,7 +13,7 @@ regions:
 latitude: 52.5061
 longitude: 13.3856
 images:
-  - "/images-sites/prinz-albrecht-palais/01-6266d84b-800w.webp"
+  - "/images/prinz-albrecht-palais/01-6266d84b-800w.webp"
 ---
 
 ## Overview

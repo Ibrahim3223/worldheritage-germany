@@ -13,7 +13,7 @@ regions:
 latitude: 48.248611111
 longitude: 11.568333333
 images:
-  - "/images-sites/schleissheim-palace-complex/01-e67b718b-800w.webp"
+  - "/images/schleissheim-palace-complex/01-e67b718b-800w.webp"
 ---
 
 ## Overview

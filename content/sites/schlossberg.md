@@ -13,7 +13,7 @@ regions:
 latitude: 47.99416667
 longitude: 7.85944444
 images:
-  - "/images-sites/schlossberg/01-6607b867-800w.webp"
+  - "/images/schlossberg/01-6607b867-800w.webp"
 ---
 
 ## Overview

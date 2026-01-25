@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2266083"
 description: "In the heart of Berlin-Reinickendorf lies Segenskirche, a church building that captivates with its Gothic Revival architecture. This striking structure ..."
 images:
-  - "/images-sites/segenskirche-berlin-reinickendorf/01-0bff9045-1920w.webp"
-  - "/images-sites/segenskirche-berlin-reinickendorf/02-8a679800-1920w.webp"
-  - "/images-sites/segenskirche-berlin-reinickendorf/03-f58fbb61-1920w.webp"
+  - "/images/segenskirche-berlin-reinickendorf/01-0bff9045-1920w.webp"
+  - "/images/segenskirche-berlin-reinickendorf/02-8a679800-1920w.webp"
+  - "/images/segenskirche-berlin-reinickendorf/03-f58fbb61-1920w.webp"
 ---
 
 ## Overview

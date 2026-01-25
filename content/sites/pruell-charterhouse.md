@@ -13,9 +13,9 @@ regions:
 latitude: 49.000420296
 longitude: 12.087332489
 images:
-  - "/images-sites/pruell-charterhouse/01-0f45a1bc-800w.webp"
-  - "/images-sites/pruell-charterhouse/02-e78d2a04-800w.webp"
-  - "/images-sites/pruell-charterhouse/03-f8af9185-800w.webp"
+  - "/images/pruell-charterhouse/01-0f45a1bc-800w.webp"
+  - "/images/pruell-charterhouse/02-e78d2a04-800w.webp"
+  - "/images/pruell-charterhouse/03-f8af9185-800w.webp"
 ---
 
 ## Overview

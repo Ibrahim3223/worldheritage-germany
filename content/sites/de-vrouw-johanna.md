@@ -1,19 +1,49 @@
 ---
-title: "De Vrouw Johanna"
+title: De Vrouw Johanna
 date: 2026-01-24
 draft: false
-description: "windmill"
-region: "Germany"
-country: "Germany"
-heritage_type: "Windmill"
+description: windmill
+region: Germany
+country: Germany
+heritage_type: Windmill
 categories:
-  - "Windmill"
+- Windmill
 regions:
-  - "Germany"
+- Germany
 latitude: 53.37238415
 longitude: 7.21333981
 images:
-  - "/images-sites/de-vrouw-johanna/01-fdbc2bc7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J38_491_Emden,_De_Vrouw_Johanna.jpg/1200px-J38_491_Emden,_De_Vrouw_Johanna.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg/1200px-"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baujahr_Johannamühle.JPG/1200px-Baujahr_Johannamühle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannamühle_03.JPG/1200px-Johannamühle_03.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1200px-Muehle_Vrouw_Johanna_Emden.jpg
+image_srcset:
+  J38 491 Emden, De Vrouw Johanna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J38_491_Emden,_De_Vrouw_Johanna.jpg/400px-J38_491_Emden,_De_Vrouw_Johanna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J38_491_Emden,_De_Vrouw_Johanna.jpg/800px-J38_491_Emden,_De_Vrouw_Johanna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J38_491_Emden,_De_Vrouw_Johanna.jpg/1200px-J38_491_Emden,_De_Vrouw_Johanna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/J38_491_Emden,_De_Vrouw_Johanna.jpg/1920px-J38_491_Emden,_De_Vrouw_Johanna.jpg
+  '"De Vrouw Johanna", Windmühle in Emden (2025).jpg':
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg/400px-"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg/800px-"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg/1200px-"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg/1920px-"De_Vrouw_Johanna",_Windmühle_in_Emden_(2025).jpg
+  Baujahr Johannamühle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baujahr_Johannamühle.JPG/400px-Baujahr_Johannamühle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baujahr_Johannamühle.JPG/800px-Baujahr_Johannamühle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baujahr_Johannamühle.JPG/1200px-Baujahr_Johannamühle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Baujahr_Johannamühle.JPG/1920px-Baujahr_Johannamühle.JPG
+  Johannamühle 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannamühle_03.JPG/400px-Johannamühle_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannamühle_03.JPG/800px-Johannamühle_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannamühle_03.JPG/1200px-Johannamühle_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Johannamühle_03.JPG/1920px-Johannamühle_03.JPG
+  Muehle Vrouw Johanna Emden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/400px-Muehle_Vrouw_Johanna_Emden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/800px-Muehle_Vrouw_Johanna_Emden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1200px-Muehle_Vrouw_Johanna_Emden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Muehle_Vrouw_Johanna_Emden.jpg/1920px-Muehle_Vrouw_Johanna_Emden.jpg
 ---
 
 ## Overview

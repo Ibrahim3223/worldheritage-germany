@@ -13,8 +13,8 @@ regions:
 latitude: 51.34805
 longitude: 12.3716
 images:
-  - "/images-sites/memorial-to-jewish-citizens/02-acf43960-800w.webp"
-  - "/images-sites/memorial-to-jewish-citizens/03-b94143de-800w.webp"
+  - "/images/memorial-to-jewish-citizens/02-acf43960-800w.webp"
+  - "/images/memorial-to-jewish-citizens/03-b94143de-800w.webp"
 ---
 
 ## Overview

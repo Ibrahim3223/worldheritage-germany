@@ -13,8 +13,8 @@ regions:
 latitude: 52.5117
 longitude: 13.384
 images:
-  - "/images-sites/wilhelmplatz/01-6605c3b2-800w.webp"
-  - "/images-sites/wilhelmplatz/02-1db7a3fd-800w.webp"
+  - "/images/wilhelmplatz/01-6605c3b2-800w.webp"
+  - "/images/wilhelmplatz/02-1db7a3fd-800w.webp"
 ---
 
 ## Overview

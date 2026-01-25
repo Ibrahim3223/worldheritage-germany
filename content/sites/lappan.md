@@ -13,7 +13,7 @@ regions:
 latitude: 53.1431
 longitude: 8.21333
 images:
-  - "/images-sites/lappan/01-a6c57acc-800w.webp"
+  - "/images/lappan/01-a6c57acc-800w.webp"
 ---
 
 ## Overview

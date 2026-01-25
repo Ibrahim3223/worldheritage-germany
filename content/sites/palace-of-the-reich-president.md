@@ -13,7 +13,7 @@ regions:
 latitude: 52.514
 longitude: 13.3815
 images:
-  - "/images-sites/palace-of-the-reich-president/01-a9321989-800w.webp"
+  - "/images/palace-of-the-reich-president/01-a9321989-800w.webp"
 ---
 
 ## Overview

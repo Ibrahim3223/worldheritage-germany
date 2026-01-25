@@ -13,7 +13,7 @@ regions:
 latitude: 50.077777777
 longitude: 8.2375
 images:
-  - "/images-sites/university-and-state-library-rheinmain/01-bc0fce4f-800w.webp"
+  - "/images/university-and-state-library-rheinmain/01-bc0fce4f-800w.webp"
 ---
 
 ## Overview

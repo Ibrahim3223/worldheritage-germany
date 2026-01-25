@@ -1,19 +1,49 @@
 ---
-title: "Geigelstein"
+title: Geigelstein
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.707852777
 longitude: 12.334472222
 images:
-  - "/images-sites/geigelstein/01-b8f803c9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Panorama_Geigelstein_360°.jpg/1200px-Panorama_Geigelstein_360°.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pano_Geigelstein.jpg/1200px-Pano_Geigelstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geigelstein_vom_Hocheck_Oberaudorf-2.jpg/1200px-Geigelstein_vom_Hocheck_Oberaudorf-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geigelstein_von_Sueden-2.jpg/1200px-Geigelstein_von_Sueden-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Geigelstein.jpg/1200px-Geigelstein.jpg
+image_srcset:
+  Panorama Geigelstein 360°.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Panorama_Geigelstein_360°.jpg/400px-Panorama_Geigelstein_360°.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Panorama_Geigelstein_360°.jpg/800px-Panorama_Geigelstein_360°.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Panorama_Geigelstein_360°.jpg/1200px-Panorama_Geigelstein_360°.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Panorama_Geigelstein_360°.jpg/1920px-Panorama_Geigelstein_360°.jpg
+  Pano Geigelstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pano_Geigelstein.jpg/400px-Pano_Geigelstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pano_Geigelstein.jpg/800px-Pano_Geigelstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pano_Geigelstein.jpg/1200px-Pano_Geigelstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pano_Geigelstein.jpg/1920px-Pano_Geigelstein.jpg
+  Geigelstein vom Hocheck Oberaudorf-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geigelstein_vom_Hocheck_Oberaudorf-2.jpg/400px-Geigelstein_vom_Hocheck_Oberaudorf-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geigelstein_vom_Hocheck_Oberaudorf-2.jpg/800px-Geigelstein_vom_Hocheck_Oberaudorf-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geigelstein_vom_Hocheck_Oberaudorf-2.jpg/1200px-Geigelstein_vom_Hocheck_Oberaudorf-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Geigelstein_vom_Hocheck_Oberaudorf-2.jpg/1920px-Geigelstein_vom_Hocheck_Oberaudorf-2.jpg
+  Geigelstein von Sueden-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geigelstein_von_Sueden-2.jpg/400px-Geigelstein_von_Sueden-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geigelstein_von_Sueden-2.jpg/800px-Geigelstein_von_Sueden-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geigelstein_von_Sueden-2.jpg/1200px-Geigelstein_von_Sueden-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Geigelstein_von_Sueden-2.jpg/1920px-Geigelstein_von_Sueden-2.jpg
+  Geigelstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Geigelstein.jpg/400px-Geigelstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Geigelstein.jpg/800px-Geigelstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Geigelstein.jpg/1200px-Geigelstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Geigelstein.jpg/1920px-Geigelstein.jpg
 ---
 
 ## Overview

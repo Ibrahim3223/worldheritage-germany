@@ -1,19 +1,49 @@
 ---
-title: "Fürstliche Bibliothek Corvey"
+title: Fürstliche Bibliothek Corvey
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 51.7791
 longitude: 9.40981
 images:
-  - "/images-sites/fuerstliche-bibliothek-corvey/01-1d9a1807-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Höxter_Germany_Corvey-Abbey-01-0.jpg/1200px-Höxter_Germany_Corvey-Abbey-01-0.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Höxter_Germany_Corvey-Abbey-01.jpg/1200px-Höxter_Germany_Corvey-Abbey-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Corvey_-_2017-09-23_-_Bibliothek_(13).jpg/1200px-Corvey_-_2017-09-23_-_Bibliothek_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1200px-Fürstliche_Bibliothek_Corvey.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg/1200px-Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg
+image_srcset:
+  Höxter Germany Corvey-Abbey-01-0.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Höxter_Germany_Corvey-Abbey-01-0.jpg/400px-Höxter_Germany_Corvey-Abbey-01-0.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Höxter_Germany_Corvey-Abbey-01-0.jpg/800px-Höxter_Germany_Corvey-Abbey-01-0.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Höxter_Germany_Corvey-Abbey-01-0.jpg/1200px-Höxter_Germany_Corvey-Abbey-01-0.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Höxter_Germany_Corvey-Abbey-01-0.jpg/1920px-Höxter_Germany_Corvey-Abbey-01-0.jpg
+  Höxter Germany Corvey-Abbey-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Höxter_Germany_Corvey-Abbey-01.jpg/400px-Höxter_Germany_Corvey-Abbey-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Höxter_Germany_Corvey-Abbey-01.jpg/800px-Höxter_Germany_Corvey-Abbey-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Höxter_Germany_Corvey-Abbey-01.jpg/1200px-Höxter_Germany_Corvey-Abbey-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Höxter_Germany_Corvey-Abbey-01.jpg/1920px-Höxter_Germany_Corvey-Abbey-01.jpg
+  Corvey - 2017-09-23 - Bibliothek (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Corvey_-_2017-09-23_-_Bibliothek_(13).jpg/400px-Corvey_-_2017-09-23_-_Bibliothek_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Corvey_-_2017-09-23_-_Bibliothek_(13).jpg/800px-Corvey_-_2017-09-23_-_Bibliothek_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Corvey_-_2017-09-23_-_Bibliothek_(13).jpg/1200px-Corvey_-_2017-09-23_-_Bibliothek_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Corvey_-_2017-09-23_-_Bibliothek_(13).jpg/1920px-Corvey_-_2017-09-23_-_Bibliothek_(13).jpg
+  Fürstliche Bibliothek Corvey.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/400px-Fürstliche_Bibliothek_Corvey.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/800px-Fürstliche_Bibliothek_Corvey.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1200px-Fürstliche_Bibliothek_Corvey.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Fürstliche_Bibliothek_Corvey.JPG/1920px-Fürstliche_Bibliothek_Corvey.JPG
+  Corvey Fuerstliche Bibliothek Lesetisch 80 P1050624 20200712.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg/400px-Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg/800px-Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg/1200px-Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg/1920px-Corvey_Fuerstliche_Bibliothek_Lesetisch_80_P1050624_20200712.jpg
 ---
 
 ## Overview

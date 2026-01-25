@@ -21,9 +21,9 @@ longitude: 10.2286
 
 # Images
 images:
-  - "/images-sites/weltwald-harz/01-4b7d8989-800w.webp"
-  - "/images-sites/weltwald-harz/02-af9a16a8-800w.webp"
-  - "/images-sites/weltwald-harz/03-70dde4f3-800w.webp"
+  - "/images/weltwald-harz/01-4b7d8989-800w.webp"
+  - "/images/weltwald-harz/02-af9a16a8-800w.webp"
+  - "/images/weltwald-harz/03-70dde4f3-800w.webp"
 ---
 
 ## Overview

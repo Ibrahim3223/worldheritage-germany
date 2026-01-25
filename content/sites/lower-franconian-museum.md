@@ -13,7 +13,7 @@ regions:
 latitude: 49.7897
 longitude: 9.92139
 images:
-  - "/images-sites/lower-franconian-museum/01-88c17be5-800w.webp"
+  - "/images/lower-franconian-museum/01-88c17be5-800w.webp"
 ---
 
 ## Overview

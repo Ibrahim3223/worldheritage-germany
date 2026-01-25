@@ -21,8 +21,8 @@ longitude: 10.7794
 
 # Images
 images:
-  - "/images-sites/lichtenstein-castle/02-bcfebd06-800w.webp"
-  - "/images-sites/lichtenstein-castle/03-6e251620-800w.webp"
+  - "/images/lichtenstein-castle/02-bcfebd06-800w.webp"
+  - "/images/lichtenstein-castle/03-6e251620-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Dümmer See"
+title: Dümmer See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.581388888
 longitude: 11.202777777
 images:
-  - "/images-sites/duemmer-see/01-8abe264b-800w.webp"
-  - "/images-sites/duemmer-see/02-23c25920-800w.webp"
-  - "/images-sites/duemmer-see/03-c94d0228-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/1200px-Dümmer_See-006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/1200px-Duemmer_See-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dümmersee.jpg/1200px-Dümmersee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duemmersee_Insel.jpg/1200px-Duemmersee_Insel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lake_Dümmer_(68771047).jpeg/1200px-Lake_Dümmer_(68771047).jpeg
+image_srcset:
+  Dümmer See-006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/400px-Dümmer_See-006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/800px-Dümmer_See-006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/1200px-Dümmer_See-006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/1920px-Dümmer_See-006.jpg
+  Duemmer See-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/400px-Duemmer_See-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/800px-Duemmer_See-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/1200px-Duemmer_See-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/1920px-Duemmer_See-001.jpg
+  Dümmersee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dümmersee.jpg/400px-Dümmersee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dümmersee.jpg/800px-Dümmersee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dümmersee.jpg/1200px-Dümmersee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dümmersee.jpg/1920px-Dümmersee.jpg
+  Duemmersee Insel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duemmersee_Insel.jpg/400px-Duemmersee_Insel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duemmersee_Insel.jpg/800px-Duemmersee_Insel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duemmersee_Insel.jpg/1200px-Duemmersee_Insel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duemmersee_Insel.jpg/1920px-Duemmersee_Insel.jpg
+  Lake Dümmer (68771047).jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lake_Dümmer_(68771047).jpeg/400px-Lake_Dümmer_(68771047).jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lake_Dümmer_(68771047).jpeg/800px-Lake_Dümmer_(68771047).jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lake_Dümmer_(68771047).jpeg/1200px-Lake_Dümmer_(68771047).jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lake_Dümmer_(68771047).jpeg/1920px-Lake_Dümmer_(68771047).jpeg
 ---
 
 ## Overview

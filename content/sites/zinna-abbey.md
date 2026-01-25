@@ -13,7 +13,7 @@ regions:
 latitude: 52.0225
 longitude: 13.1039
 images:
-  - "/images-sites/zinna-abbey/01-73bdf31e-800w.webp"
+  - "/images/zinna-abbey/01-73bdf31e-800w.webp"
 ---
 
 ## Overview

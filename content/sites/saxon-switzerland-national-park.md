@@ -13,7 +13,7 @@ regions:
 latitude: 50.9142
 longitude: 14.2784
 images:
-  - "/images-sites/saxon-switzerland-national-park/01-5d6f54cf-800w.webp"
+  - "/images/saxon-switzerland-national-park/01-5d6f54cf-800w.webp"
 ---
 
 ## Overview

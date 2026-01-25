@@ -13,7 +13,7 @@ regions:
 latitude: 47.77611111
 longitude: 9.27722222
 images:
-  - "/images-sites/salem-abbey/01-a043f9d5-800w.webp"
+  - "/images/salem-abbey/01-a043f9d5-800w.webp"
 ---
 
 ## Overview

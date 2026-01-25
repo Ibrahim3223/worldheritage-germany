@@ -21,7 +21,7 @@ longitude: 7.80972
 
 # Images
 images:
-  - "/images-sites/tecklenburg/01-c2f8b53c-800w.webp"
+  - "/images/tecklenburg/01-c2f8b53c-800w.webp"
 ---
 
 ## Overview

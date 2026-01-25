@@ -1,19 +1,43 @@
 ---
-title: "Holzknechtmuseum Ruhpolding"
+title: Holzknechtmuseum Ruhpolding
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.7241
 longitude: 12.6585
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ruhpolding-woodcutter_museum.jpg/1200px-Ruhpolding-woodcutter_museum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kolbendruckpumpe.jpg/1200px-Kolbendruckpumpe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/1200px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg/1200px-Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg
+image_srcset:
+  Ruhpolding-woodcutter museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ruhpolding-woodcutter_museum.jpg/400px-Ruhpolding-woodcutter_museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ruhpolding-woodcutter_museum.jpg/800px-Ruhpolding-woodcutter_museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ruhpolding-woodcutter_museum.jpg/1200px-Ruhpolding-woodcutter_museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ruhpolding-woodcutter_museum.jpg/1920px-Ruhpolding-woodcutter_museum.jpg
+  Kolbendruckpumpe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kolbendruckpumpe.jpg/400px-Kolbendruckpumpe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kolbendruckpumpe.jpg/800px-Kolbendruckpumpe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kolbendruckpumpe.jpg/1200px-Kolbendruckpumpe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kolbendruckpumpe.jpg/1920px-Kolbendruckpumpe.jpg
+  Holzknechtmuseum Laubau - Transportschlitten - geo-en.hlipp.de - 13307.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/400px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/800px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/1200px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg/1920px-Holzknechtmuseum_Laubau_-_Transportschlitten_-_geo-en.hlipp.de_-_13307.jpg
+  Holzknechtmuseum Laubau - Wasserrad - geo-en.hlipp.de - 13308.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg/400px-Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg/800px-Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg/1200px-Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg/1920px-Holzknechtmuseum_Laubau_-_Wasserrad_-_geo-en.hlipp.de_-_13308.jpg
 ---
 
 ## Overview

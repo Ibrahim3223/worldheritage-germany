@@ -21,7 +21,7 @@ longitude: 12.918092039
 
 # Images
 images:
-  - "/images-sites/metten-abbey/01-1b630025-800w.webp"
+  - "/images/metten-abbey/01-1b630025-800w.webp"
 ---
 
 ## Overview

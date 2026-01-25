@@ -13,7 +13,7 @@ regions:
 latitude: 47.3518385
 longitude: 10.3611496
 images:
-  - "/images-sites/seichereck/01-cc1c5b5f-800w.webp"
+  - "/images/seichereck/01-cc1c5b5f-800w.webp"
 ---
 
 ## Overview

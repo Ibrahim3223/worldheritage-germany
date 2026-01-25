@@ -1,21 +1,49 @@
 ---
-title: "Hauptfriedhof Koblenz"
+title: Hauptfriedhof Koblenz
 date: 2026-01-23
 draft: false
-description: "cemetery in Koblenz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Koblenz, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.351444444
 longitude: 7.575697222
 images:
-  - "/images-sites/hauptfriedhof-koblenz/01-fd4f77f5-800w.webp"
-  - "/images-sites/hauptfriedhof-koblenz/02-14822c93-800w.webp"
-  - "/images-sites/hauptfriedhof-koblenz/03-08b57ba6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg/1200px-Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Familiengrab_Bode.jpg/1200px-Familiengrab_Bode.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ko_Raitz.jpg/1200px-Ko_Raitz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuz_Hauptfriedhof_Koblenz.jpg/1200px-Kreuz_Hauptfriedhof_Koblenz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mammutbaum_Koblenzer_Friedhof.JPG/1200px-Mammutbaum_Koblenzer_Friedhof.JPG
+image_srcset:
+  Grabstätte der Koblenzer Jesuiten (Hauptfriedhof Koblenz).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg/400px-Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg/800px-Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg/1200px-Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg/1920px-Grabstätte_der_Koblenzer_Jesuiten_(Hauptfriedhof_Koblenz).jpg
+  Familiengrab Bode.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Familiengrab_Bode.jpg/400px-Familiengrab_Bode.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Familiengrab_Bode.jpg/800px-Familiengrab_Bode.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Familiengrab_Bode.jpg/1200px-Familiengrab_Bode.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Familiengrab_Bode.jpg/1920px-Familiengrab_Bode.jpg
+  Ko Raitz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ko_Raitz.jpg/400px-Ko_Raitz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ko_Raitz.jpg/800px-Ko_Raitz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ko_Raitz.jpg/1200px-Ko_Raitz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ko_Raitz.jpg/1920px-Ko_Raitz.jpg
+  Kreuz Hauptfriedhof Koblenz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuz_Hauptfriedhof_Koblenz.jpg/400px-Kreuz_Hauptfriedhof_Koblenz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuz_Hauptfriedhof_Koblenz.jpg/800px-Kreuz_Hauptfriedhof_Koblenz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuz_Hauptfriedhof_Koblenz.jpg/1200px-Kreuz_Hauptfriedhof_Koblenz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kreuz_Hauptfriedhof_Koblenz.jpg/1920px-Kreuz_Hauptfriedhof_Koblenz.jpg
+  Mammutbaum Koblenzer Friedhof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mammutbaum_Koblenzer_Friedhof.JPG/400px-Mammutbaum_Koblenzer_Friedhof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mammutbaum_Koblenzer_Friedhof.JPG/800px-Mammutbaum_Koblenzer_Friedhof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mammutbaum_Koblenzer_Friedhof.JPG/1200px-Mammutbaum_Koblenzer_Friedhof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mammutbaum_Koblenzer_Friedhof.JPG/1920px-Mammutbaum_Koblenzer_Friedhof.JPG
 ---
 
 ## Overview

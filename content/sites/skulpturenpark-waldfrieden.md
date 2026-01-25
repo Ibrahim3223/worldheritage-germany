@@ -13,7 +13,7 @@ regions:
 latitude: 51.2528
 longitude: 7.16861
 images:
-  - "/images-sites/skulpturenpark-waldfrieden/01-0b320db1-800w.webp"
+  - "/images/skulpturenpark-waldfrieden/01-0b320db1-800w.webp"
 ---
 
 ## Overview

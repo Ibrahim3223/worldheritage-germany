@@ -1,23 +1,50 @@
 ---
-title: "Golgatha church"
-site_name: "Golgatha church"
-slug: "golgatha-church"
-region: "Berlin"
-
-# Location
+title: Golgatha church
+site_name: Golgatha church
+slug: golgatha-church
+region: Berlin
 latitude: 52.529049
 longitude: 13.390713
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q11722061"
-description: "In the heart of Berlin lies the Golgatha church, an edifice that captures the essence of Gothic Revival architecture amidst the urban landscape. This ch..."
+- cultural site
+wikidata_id: Q11722061
+description: In the heart of Berlin lies the Golgatha church, an edifice that captures
+  the essence of Gothic Revival architecture amidst the urban landscape. This ch...
 images:
-  - "/images-sites/golgatha-church/01-e8321c14-1920w.webp"
-  - "/images-sites/golgatha-church/02-25d45bee-1920w.webp"
-  - "/images-sites/golgatha-church/03-5231d4bc-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg/1200px-Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin_Borsigstrasse_Golgathakirche.jpg/1200px-Berlin_Borsigstrasse_Golgathakirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg/1200px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/1200px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg/1200px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg
+image_srcset:
+  Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg/400px-Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg/800px-Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg/1200px-Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg/1920px-Berlin%2C%20Mitte%2C%20Borsigstrasse%206%2C%20Golgatha-Kirche.jpg
+  Berlin Borsigstrasse Golgathakirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin_Borsigstrasse_Golgathakirche.jpg/400px-Berlin_Borsigstrasse_Golgathakirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin_Borsigstrasse_Golgathakirche.jpg/800px-Berlin_Borsigstrasse_Golgathakirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin_Borsigstrasse_Golgathakirche.jpg/1200px-Berlin_Borsigstrasse_Golgathakirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Berlin_Borsigstrasse_Golgathakirche.jpg/1920px-Berlin_Borsigstrasse_Golgathakirche.jpg
+  Berlin-Mitte, Golgatha-Kirche, Orgel (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg/400px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg/800px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg/1200px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg/1920px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(01).jpg
+  Berlin, Mitte, Borsigstrasse 6, Golgatha-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/400px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/800px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/1200px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg/1920px-Berlin,_Mitte,_Borsigstrasse_6,_Golgatha-Kirche.jpg
+  Berlin-Mitte, Golgatha-Kirche, Orgel (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg/400px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg/800px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg/1200px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg/1920px-Berlin-Mitte,_Golgatha-Kirche,_Orgel_(02).jpg
 ---
 
 ## Overview

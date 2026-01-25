@@ -13,9 +13,9 @@ regions:
 latitude: 49.40277778
 longitude: 7.28611111
 images:
-  - "/images-sites/nordfeld-consolidated-coal-mine/01-6fd9cf48-800w.webp"
-  - "/images-sites/nordfeld-consolidated-coal-mine/02-cf973379-800w.webp"
-  - "/images-sites/nordfeld-consolidated-coal-mine/03-527cbd65-800w.webp"
+  - "/images/nordfeld-consolidated-coal-mine/01-6fd9cf48-800w.webp"
+  - "/images/nordfeld-consolidated-coal-mine/02-cf973379-800w.webp"
+  - "/images/nordfeld-consolidated-coal-mine/03-527cbd65-800w.webp"
 ---
 
 ## Overview

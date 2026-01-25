@@ -13,7 +13,7 @@ regions:
 latitude: 51.309
 longitude: 6.17226
 images:
-  - "/images-sites/sequoiafarm-kaldenkirchen/01-ec19effb-800w.webp"
+  - "/images/sequoiafarm-kaldenkirchen/01-ec19effb-800w.webp"
 ---
 
 ## Overview

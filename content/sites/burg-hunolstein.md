@@ -1,28 +1,43 @@
 ---
-title: "Burg Hunolstein"
+title: Burg Hunolstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.7987
 longitude: 7.04475
-
-# Images
 images:
-  - "/images-sites/burg-hunolstein/02-9dbf7043-800w.webp"
-  - "/images-sites/burg-hunolstein/03-c1bceeec-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg/1200px-Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg/1200px-Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg/1200px-Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hunolstein01.jpg/1200px-Burg-Hunolstein01.jpg
+image_srcset:
+  Hunolstein (Morbach), Burg und Ferienhaus "Alte Burgscheune".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg/400px-Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg/800px-Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg/1200px-Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg/1920px-Hunolstein_(Morbach),_Burg_und_Ferienhaus_"Alte_Burgscheune".jpg
+  Hunolstein (Morbach), die Burg, Bild 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg/400px-Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg/800px-Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg/1200px-Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg/1920px-Hunolstein_(Morbach),_die_Burg,_Bild_1.jpg
+  Hunolstein (Morbach), die Burg, Bild 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg/400px-Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg/800px-Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg/1200px-Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg/1920px-Hunolstein_(Morbach),_die_Burg,_Bild_4.jpg
+  Burg-Hunolstein01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hunolstein01.jpg/400px-Burg-Hunolstein01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hunolstein01.jpg/800px-Burg-Hunolstein01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hunolstein01.jpg/1200px-Burg-Hunolstein01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Burg-Hunolstein01.jpg/1920px-Burg-Hunolstein01.jpg
 ---
 
 ## Overview

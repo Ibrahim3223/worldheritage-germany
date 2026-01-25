@@ -13,7 +13,7 @@ regions:
 latitude: 47.8189
 longitude: 11.6181
 images:
-  - "/images-sites/kirchsee/01-32cbfa6b-800w.webp"
+  - "/images/kirchsee/01-32cbfa6b-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.0043
 longitude: 13.8196
 images:
-  - "/images-sites/kamera-werkstaetten/01-d765cf6c-800w.webp"
+  - "/images/kamera-werkstaetten/01-d765cf6c-800w.webp"
 ---
 
 ## Overview

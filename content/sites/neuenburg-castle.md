@@ -13,7 +13,7 @@ regions:
 latitude: 51.2085
 longitude: 11.7755
 images:
-  - "/images-sites/neuenburg-castle/01-ee940e67-800w.webp"
+  - "/images/neuenburg-castle/01-ee940e67-800w.webp"
 ---
 
 ## Overview

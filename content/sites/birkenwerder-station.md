@@ -1,19 +1,49 @@
 ---
-title: "Birkenwerder station"
+title: Birkenwerder station
 date: 2026-01-23
 draft: false
-description: "railway station in Birkenwerder, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Birkenwerder, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6885
 longitude: 13.2888
 images:
-  - "/images-sites/birkenwerder-station/01-95c02017-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg/1200px-Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Birkenwerder_(22499791815).jpg/1200px-Bahnhof_Birkenwerder_(22499791815).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg/1200px-Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BfBirkenwerderOverview.jpg/1200px-BfBirkenwerderOverview.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Birkenwerder_910811.jpg/1200px-Birkenwerder_910811.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Birkenwerder (S08 0014).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg/400px-Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg/800px-Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg/1200px-Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg/1920px-Berlin_S-Bahn_Bhf_Birkenwerder_(S08_0014).jpg
+  Bahnhof Birkenwerder (22499791815).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Birkenwerder_(22499791815).jpg/400px-Bahnhof_Birkenwerder_(22499791815).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Birkenwerder_(22499791815).jpg/800px-Bahnhof_Birkenwerder_(22499791815).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Birkenwerder_(22499791815).jpg/1200px-Bahnhof_Birkenwerder_(22499791815).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bahnhof_Birkenwerder_(22499791815).jpg/1920px-Bahnhof_Birkenwerder_(22499791815).jpg
+  Berlin S-Bahn Bhf Birkenwerder (S01 0063).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg/400px-Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg/800px-Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg/1200px-Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg/1920px-Berlin_S-Bahn_Bhf_Birkenwerder_(S01_0063).jpg
+  BfBirkenwerderOverview.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BfBirkenwerderOverview.jpg/400px-BfBirkenwerderOverview.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BfBirkenwerderOverview.jpg/800px-BfBirkenwerderOverview.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BfBirkenwerderOverview.jpg/1200px-BfBirkenwerderOverview.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BfBirkenwerderOverview.jpg/1920px-BfBirkenwerderOverview.jpg
+  Birkenwerder 910811.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Birkenwerder_910811.jpg/400px-Birkenwerder_910811.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Birkenwerder_910811.jpg/800px-Birkenwerder_910811.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Birkenwerder_910811.jpg/1200px-Birkenwerder_910811.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Birkenwerder_910811.jpg/1920px-Birkenwerder_910811.jpg
 ---
 
 ## Overview

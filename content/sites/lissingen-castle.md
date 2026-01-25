@@ -21,7 +21,7 @@ longitude: 6.63978
 
 # Images
 images:
-  - "/images-sites/lissingen-castle/01-b3ea7930-800w.webp"
+  - "/images/lissingen-castle/01-b3ea7930-800w.webp"
 ---
 
 ## Overview

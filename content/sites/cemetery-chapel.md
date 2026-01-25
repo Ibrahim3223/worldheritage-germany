@@ -1,20 +1,43 @@
 ---
-title: "Cemetery chapel"
+title: Cemetery chapel
 date: 2026-01-23
 draft: false
-description: "chapel in Affing, Swabia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: chapel in Affing, Swabia, Germany
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4538
 longitude: 10.9848
 images:
-  - "/images-sites/cemetery-chapel/02-52a54391-800w.webp"
-  - "/images-sites/cemetery-chapel/03-7e0b3a93-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg/1200px-2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg/1200px-Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oak_Hill_Cemetery_Chapel,_DC.jpg/1200px-Oak_Hill_Cemetery_Chapel,_DC.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/0901_Kaplica_Gotycka_Police_ZPL.JPG/1200px-0901_Kaplica_Gotycka_Police_ZPL.JPG
+image_srcset:
+  2024 Kapliczka Matki Bożej w Jaszkowej Górnej (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg/400px-2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg/800px-2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg/1200px-2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg/1920px-2024_Kapliczka_Matki_Bożej_w_Jaszkowej_Górnej_(1).jpg
+  Kaplica grobowa rodziny Potockich P1680784 Peczera.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg/400px-Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg/800px-Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg/1200px-Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg/1920px-Kaplica_grobowa_rodziny_Potockich_P1680784_Peczera.jpg
+  Oak Hill Cemetery Chapel, DC.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oak_Hill_Cemetery_Chapel,_DC.jpg/400px-Oak_Hill_Cemetery_Chapel,_DC.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oak_Hill_Cemetery_Chapel,_DC.jpg/800px-Oak_Hill_Cemetery_Chapel,_DC.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oak_Hill_Cemetery_Chapel,_DC.jpg/1200px-Oak_Hill_Cemetery_Chapel,_DC.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oak_Hill_Cemetery_Chapel,_DC.jpg/1920px-Oak_Hill_Cemetery_Chapel,_DC.jpg
+  0901 Kaplica Gotycka Police ZPL.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/0901_Kaplica_Gotycka_Police_ZPL.JPG/400px-0901_Kaplica_Gotycka_Police_ZPL.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/0901_Kaplica_Gotycka_Police_ZPL.JPG/800px-0901_Kaplica_Gotycka_Police_ZPL.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/0901_Kaplica_Gotycka_Police_ZPL.JPG/1200px-0901_Kaplica_Gotycka_Police_ZPL.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/0901_Kaplica_Gotycka_Police_ZPL.JPG/1920px-0901_Kaplica_Gotycka_Police_ZPL.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 49.9438899
 longitude: 11.5746336
 images:
-  - "/images-sites/kunstmuseum-bayreuth/01-b0ebca69-800w.webp"
-  - "/images-sites/kunstmuseum-bayreuth/02-035504b1-800w.webp"
-  - "/images-sites/kunstmuseum-bayreuth/03-dbab8b3f-800w.webp"
+  - "/images/kunstmuseum-bayreuth/01-b0ebca69-800w.webp"
+  - "/images/kunstmuseum-bayreuth/02-035504b1-800w.webp"
+  - "/images/kunstmuseum-bayreuth/03-dbab8b3f-800w.webp"
 ---
 
 ## Overview

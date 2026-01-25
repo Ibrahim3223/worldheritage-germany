@@ -13,7 +13,7 @@ regions:
 latitude: 47.5575
 longitude: 10.719722222
 images:
-  - "/images-sites/schwansee/01-7990f513-800w.webp"
+  - "/images/schwansee/01-7990f513-800w.webp"
 ---
 
 ## Overview

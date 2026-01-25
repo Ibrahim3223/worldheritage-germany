@@ -13,7 +13,7 @@ regions:
 latitude: 50.060388888
 longitude: 8.268055555
 images:
-  - "/images-sites/south-cemetery-wiesbaden/01-37da733e-800w.webp"
+  - "/images/south-cemetery-wiesbaden/01-37da733e-800w.webp"
 ---
 
 ## Overview

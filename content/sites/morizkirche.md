@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q879697"
 description: "Morizkirche, a stunning example of Gothic architecture, stands as a significant cultural heritage monument in Coburg, Bavaria. This Protestant church, d..."
 images:
-  - "/images-sites/morizkirche/01-2c7b5424-1920w.webp"
-  - "/images-sites/morizkirche/02-7b555fa0-1920w.webp"
-  - "/images-sites/morizkirche/03-57ef2853-1920w.webp"
+  - "/images/morizkirche/01-2c7b5424-1920w.webp"
+  - "/images/morizkirche/02-7b555fa0-1920w.webp"
+  - "/images/morizkirche/03-57ef2853-1920w.webp"
 ---
 
 ## Overview

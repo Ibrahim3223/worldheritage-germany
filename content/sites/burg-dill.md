@@ -1,19 +1,49 @@
 ---
-title: "Burg Dill"
+title: Burg Dill
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.916
 longitude: 7.34532
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Dill_07.jpg/1200px-Burg_Dill_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill_05.jpg/1200px-Burg_Dill_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Dill_03.jpg/1200px-Burg_Dill_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dill02.jpg/1200px-Dill02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill.jpg/1200px-Burg_Dill.jpg
+image_srcset:
+  Burg Dill 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Dill_07.jpg/400px-Burg_Dill_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Dill_07.jpg/800px-Burg_Dill_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Dill_07.jpg/1200px-Burg_Dill_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Burg_Dill_07.jpg/1920px-Burg_Dill_07.jpg
+  Burg Dill 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill_05.jpg/400px-Burg_Dill_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill_05.jpg/800px-Burg_Dill_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill_05.jpg/1200px-Burg_Dill_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill_05.jpg/1920px-Burg_Dill_05.jpg
+  Burg Dill 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Dill_03.jpg/400px-Burg_Dill_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Dill_03.jpg/800px-Burg_Dill_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Dill_03.jpg/1200px-Burg_Dill_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Burg_Dill_03.jpg/1920px-Burg_Dill_03.jpg
+  Dill02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dill02.jpg/400px-Dill02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dill02.jpg/800px-Dill02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dill02.jpg/1200px-Dill02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dill02.jpg/1920px-Dill02.jpg
+  Burg Dill.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill.jpg/400px-Burg_Dill.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill.jpg/800px-Burg_Dill.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill.jpg/1200px-Burg_Dill.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Dill.jpg/1920px-Burg_Dill.jpg
 ---
 
 ## Overview

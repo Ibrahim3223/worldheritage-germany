@@ -13,7 +13,7 @@ regions:
 latitude: 52.5134
 longitude: 13.3889
 images:
-  - "/images-sites/russisches-haus/01-86bf4421-800w.webp"
+  - "/images/russisches-haus/01-86bf4421-800w.webp"
 ---
 
 ## Overview

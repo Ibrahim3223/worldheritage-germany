@@ -1,19 +1,49 @@
 ---
-title: "Dobrilugk Abbey"
+title: Dobrilugk Abbey
 date: 2026-01-23
 draft: false
-description: "building in Lower Lusatia, Lands of the Bohemian Crown, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Lower Lusatia, Lands of the Bohemian Crown, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.6111
 longitude: 13.5454
 images:
-  - "/images-sites/dobrilugk-abbey/01-72251cda-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg/1200px-Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg/1200px-20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg/1200px-20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg/1200px-20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg/1200px-20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg
+image_srcset:
+  Doberlug-Kirchhain May2015 img5 Klosterkirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg/400px-Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg/800px-Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg/1200px-Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg/1920px-Doberlug-Kirchhain_May2015_img5_Klosterkirche.jpg
+  20150424425DR Doberlug-Kirchhain Klosterkirche Dobrilugk.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg/400px-20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg/800px-20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg/1200px-20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg/1920px-20150424425DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk.jpg
+  20150424460DR Doberlug-Kirchhain Klosterkirche Dobrilugk Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg/400px-20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg/800px-20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg/1200px-20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg/1920px-20150424460DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Altar.jpg
+  20150424440DR Doberlug-Kirchhain Klosterkirche Dobrilugk Kanzel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg/400px-20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg/800px-20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg/1200px-20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg/1920px-20150424440DR_Doberlug-Kirchhain_Klosterkirche_Dobrilugk_Kanzel.jpg
+  20150424560DR Doberlug-Kirchhain Kloster Dobrilugk Skulptur.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg/400px-20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg/800px-20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg/1200px-20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg/1920px-20150424560DR_Doberlug-Kirchhain_Kloster_Dobrilugk_Skulptur.jpg
 ---
 
 ## Overview

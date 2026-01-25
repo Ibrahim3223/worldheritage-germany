@@ -13,7 +13,7 @@ regions:
 latitude: 50.936388888
 longitude: 6.936944444
 images:
-  - "/images-sites/volkstheater-millowitsch/01-f057bf6c-800w.webp"
+  - "/images/volkstheater-millowitsch/01-f057bf6c-800w.webp"
 ---
 
 ## Overview

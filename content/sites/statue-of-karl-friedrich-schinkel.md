@@ -13,9 +13,9 @@ regions:
 latitude: 52.5165571
 longitude: 13.3986389
 images:
-  - "/images-sites/statue-of-karl-friedrich-schinkel/01-ff8c2905-800w.webp"
-  - "/images-sites/statue-of-karl-friedrich-schinkel/02-2d8aff09-800w.webp"
-  - "/images-sites/statue-of-karl-friedrich-schinkel/03-1acee795-800w.webp"
+  - "/images/statue-of-karl-friedrich-schinkel/01-ff8c2905-800w.webp"
+  - "/images/statue-of-karl-friedrich-schinkel/02-2d8aff09-800w.webp"
+  - "/images/statue-of-karl-friedrich-schinkel/03-1acee795-800w.webp"
 ---
 
 ## Overview

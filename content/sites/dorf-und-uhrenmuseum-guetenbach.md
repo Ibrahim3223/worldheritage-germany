@@ -1,21 +1,37 @@
 ---
-title: "Dorf- und Uhrenmuseum Gütenbach"
+title: Dorf- und Uhrenmuseum Gütenbach
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.047097703
 longitude: 8.139697286
 images:
-  - "/images-sites/dorf-und-uhrenmuseum-guetenbach/01-9e671882-800w.webp"
-  - "/images-sites/dorf-und-uhrenmuseum-guetenbach/02-71361d22-800w.webp"
-  - "/images-sites/dorf-und-uhrenmuseum-guetenbach/03-9e671882-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg/1200px-Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg/1200px-Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2006-AHS-D-Gueth-_009crop-lathe.JPG/1200px-2006-AHS-D-Gueth-_009crop-lathe.JPG
+image_srcset:
+  Altes Schulhaus mit Museum, im Hintergrund die katholische Kirche St. Katharina in Gütenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg/400px-Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg/800px-Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg/1200px-Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg/1920px-Altes_Schulhaus_mit_Museum,_im_Hintergrund_die_katholische_Kirche_St._Katharina_in_Gütenbach.jpg
+  Altes Schulhaus mit dem Dorf- und Uhrenmuseum in Gütenbach.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg/400px-Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg/800px-Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg/1200px-Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg/1920px-Altes_Schulhaus_mit_dem_Dorf-_und_Uhrenmuseum_in_Gütenbach.jpg
+  2006-AHS-D-Gueth- 009crop-lathe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2006-AHS-D-Gueth-_009crop-lathe.JPG/400px-2006-AHS-D-Gueth-_009crop-lathe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2006-AHS-D-Gueth-_009crop-lathe.JPG/800px-2006-AHS-D-Gueth-_009crop-lathe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2006-AHS-D-Gueth-_009crop-lathe.JPG/1200px-2006-AHS-D-Gueth-_009crop-lathe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2006-AHS-D-Gueth-_009crop-lathe.JPG/1920px-2006-AHS-D-Gueth-_009crop-lathe.JPG
 ---
 
 ## Overview

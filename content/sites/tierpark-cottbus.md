@@ -13,8 +13,8 @@ regions:
 latitude: 51.7444
 longitude: 14.3531
 images:
-  - "/images-sites/tierpark-cottbus/02-1780edf7-800w.webp"
-  - "/images-sites/tierpark-cottbus/03-fe96b13b-800w.webp"
+  - "/images/tierpark-cottbus/02-1780edf7-800w.webp"
+  - "/images/tierpark-cottbus/03-fe96b13b-800w.webp"
 ---
 
 ## Overview

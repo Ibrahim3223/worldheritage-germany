@@ -13,7 +13,7 @@ regions:
 latitude: 50.968
 longitude: 10.3196
 images:
-  - "/images-sites/reuterhaus-eisenach/01-28791524-800w.webp"
+  - "/images/reuterhaus-eisenach/01-28791524-800w.webp"
 ---
 
 ## Overview

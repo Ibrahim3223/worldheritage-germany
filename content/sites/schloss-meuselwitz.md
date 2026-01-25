@@ -13,8 +13,8 @@ regions:
 latitude: 51.045989
 longitude: 12.296193
 images:
-  - "/images-sites/schloss-meuselwitz/02-45dc311c-800w.webp"
-  - "/images-sites/schloss-meuselwitz/03-1d10f7ec-800w.webp"
+  - "/images/schloss-meuselwitz/02-45dc311c-800w.webp"
+  - "/images/schloss-meuselwitz/03-1d10f7ec-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.536666666
 longitude: 13.462222222
 images:
-  - "/images-sites/volkspark-prenzlauer-berg/01-62b194e2-800w.webp"
+  - "/images/volkspark-prenzlauer-berg/01-62b194e2-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Bilstein Castle (Lennestadt)"
+title: Bilstein Castle (Lennestadt)
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.0962
 longitude: 8.01931
-
-# Images
 images:
-  - "/images-sites/bilstein-castle-lennestadt/01-f112d153-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg/1200px-Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG/1200px-Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Bilstein.jpg/1200px-Burg_Bilstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Bilstein_Frosch.jpg/1200px-Burg_Bilstein_Frosch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lennestadt_Burg_Bilstein_FFSW-0826.jpg/1200px-Lennestadt_Burg_Bilstein_FFSW-0826.jpg
+image_srcset:
+  Yard with visitors at Burg Bilstein Youth Hostel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg/400px-Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg/800px-Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg/1200px-Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg/1920px-Yard_with_visitors_at_Burg_Bilstein_Youth_Hostel.jpg
+  Burg Bilstein vom Turm der Hohen Bracht.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG/400px-Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG/800px-Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG/1200px-Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG/1920px-Burg_Bilstein_vom_Turm_der_Hohen_Bracht.JPG
+  Burg Bilstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Bilstein.jpg/400px-Burg_Bilstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Bilstein.jpg/800px-Burg_Bilstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Bilstein.jpg/1200px-Burg_Bilstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Burg_Bilstein.jpg/1920px-Burg_Bilstein.jpg
+  Burg Bilstein Frosch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Bilstein_Frosch.jpg/400px-Burg_Bilstein_Frosch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Bilstein_Frosch.jpg/800px-Burg_Bilstein_Frosch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Bilstein_Frosch.jpg/1200px-Burg_Bilstein_Frosch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burg_Bilstein_Frosch.jpg/1920px-Burg_Bilstein_Frosch.jpg
+  Lennestadt Burg Bilstein FFSW-0826.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lennestadt_Burg_Bilstein_FFSW-0826.jpg/400px-Lennestadt_Burg_Bilstein_FFSW-0826.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lennestadt_Burg_Bilstein_FFSW-0826.jpg/800px-Lennestadt_Burg_Bilstein_FFSW-0826.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lennestadt_Burg_Bilstein_FFSW-0826.jpg/1200px-Lennestadt_Burg_Bilstein_FFSW-0826.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lennestadt_Burg_Bilstein_FFSW-0826.jpg/1920px-Lennestadt_Burg_Bilstein_FFSW-0826.jpg
 ---
 
 ## Overview

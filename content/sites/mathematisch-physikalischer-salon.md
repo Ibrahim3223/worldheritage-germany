@@ -13,7 +13,7 @@ regions:
 latitude: 51.0532
 longitude: 13.7328
 images:
-  - "/images-sites/mathematisch-physikalischer-salon/01-f455059c-800w.webp"
+  - "/images/mathematisch-physikalischer-salon/01-f455059c-800w.webp"
 ---
 
 ## Overview

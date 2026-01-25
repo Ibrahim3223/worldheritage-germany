@@ -13,7 +13,7 @@ regions:
 latitude: 49.7938
 longitude: 9.93158
 images:
-  - "/images-sites/kollegiatstift-neumuenster-wuerzburg/01-aecdae9b-800w.webp"
+  - "/images/kollegiatstift-neumuenster-wuerzburg/01-aecdae9b-800w.webp"
 ---
 
 ## Overview

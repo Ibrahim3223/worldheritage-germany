@@ -1,19 +1,49 @@
 ---
-title: "Geierswalder See"
+title: Geierswalder See
 date: 2026-01-23
 draft: false
-description: "lake in Senftenberg, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Senftenberg, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 51.5
 longitude: 14.1
 images:
-  - "/images-sites/geierswalder-see/01-3db93291-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geierswalder_See_2022-06-25_1.jpg/1200px-Geierswalder_See_2022-06-25_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Geierswalder_See_2023-07-08_1.jpg/1200px-Geierswalder_See_2023-07-08_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geierswalder_See_2023-07-08_3.jpg/1200px-Geierswalder_See_2023-07-08_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1200px-Geierswaldersee.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geierswalder_See_2023-07-08_7.jpg/1200px-Geierswalder_See_2023-07-08_7.jpg
+image_srcset:
+  Geierswalder See 2022-06-25 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geierswalder_See_2022-06-25_1.jpg/400px-Geierswalder_See_2022-06-25_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geierswalder_See_2022-06-25_1.jpg/800px-Geierswalder_See_2022-06-25_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geierswalder_See_2022-06-25_1.jpg/1200px-Geierswalder_See_2022-06-25_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Geierswalder_See_2022-06-25_1.jpg/1920px-Geierswalder_See_2022-06-25_1.jpg
+  Geierswalder See 2023-07-08 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Geierswalder_See_2023-07-08_1.jpg/400px-Geierswalder_See_2023-07-08_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Geierswalder_See_2023-07-08_1.jpg/800px-Geierswalder_See_2023-07-08_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Geierswalder_See_2023-07-08_1.jpg/1200px-Geierswalder_See_2023-07-08_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Geierswalder_See_2023-07-08_1.jpg/1920px-Geierswalder_See_2023-07-08_1.jpg
+  Geierswalder See 2023-07-08 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geierswalder_See_2023-07-08_3.jpg/400px-Geierswalder_See_2023-07-08_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geierswalder_See_2023-07-08_3.jpg/800px-Geierswalder_See_2023-07-08_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geierswalder_See_2023-07-08_3.jpg/1200px-Geierswalder_See_2023-07-08_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geierswalder_See_2023-07-08_3.jpg/1920px-Geierswalder_See_2023-07-08_3.jpg
+  Geierswaldersee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/400px-Geierswaldersee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/800px-Geierswaldersee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1200px-Geierswaldersee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Geierswaldersee.JPG/1920px-Geierswaldersee.JPG
+  Geierswalder See 2023-07-08 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geierswalder_See_2023-07-08_7.jpg/400px-Geierswalder_See_2023-07-08_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geierswalder_See_2023-07-08_7.jpg/800px-Geierswalder_See_2023-07-08_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geierswalder_See_2023-07-08_7.jpg/1200px-Geierswalder_See_2023-07-08_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geierswalder_See_2023-07-08_7.jpg/1920px-Geierswalder_See_2023-07-08_7.jpg
 ---
 
 ## Overview

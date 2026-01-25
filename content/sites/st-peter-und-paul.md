@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1609658"
 description: "In the heart of Weimar, Germany, lies St. Peter und Paul, a church that dates back to 1201. This Gothic architectural masterpiece captivates visitors no..."
 images:
-  - "/images-sites/st-peter-und-paul/01-9541c5fe-1920w.webp"
-  - "/images-sites/st-peter-und-paul/02-6aa4fc32-1920w.webp"
-  - "/images-sites/st-peter-und-paul/03-d7ba64bc-1920w.webp"
+  - "/images/st-peter-und-paul/01-9541c5fe-1920w.webp"
+  - "/images/st-peter-und-paul/02-6aa4fc32-1920w.webp"
+  - "/images/st-peter-und-paul/03-d7ba64bc-1920w.webp"
 ---
 
 ## Overview

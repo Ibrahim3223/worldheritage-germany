@@ -1,19 +1,49 @@
 ---
-title: "Bärwalder See"
+title: Bärwalder See
 date: 2026-01-23
 draft: false
-description: "lake"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 51.366666666
 longitude: 14.533333333
 images:
-  - "/images-sites/baerwalder-see/01-cbac09f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bärwalder_See_Boxberg.jpg/1200px-Bärwalder_See_Boxberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uhyst-BärwalderSee-3.jpg/1200px-Uhyst-BärwalderSee-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bjerwałdski_jězor.jpg/1200px-Bjerwałdski_jězor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/1200px-Kraftwerk_Boxberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Uhyst-BärwalderSee-1.jpg/1200px-Uhyst-BärwalderSee-1.jpg
+image_srcset:
+  Bärwalder See Boxberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bärwalder_See_Boxberg.jpg/400px-Bärwalder_See_Boxberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bärwalder_See_Boxberg.jpg/800px-Bärwalder_See_Boxberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bärwalder_See_Boxberg.jpg/1200px-Bärwalder_See_Boxberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bärwalder_See_Boxberg.jpg/1920px-Bärwalder_See_Boxberg.jpg
+  Uhyst-BärwalderSee-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uhyst-BärwalderSee-3.jpg/400px-Uhyst-BärwalderSee-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uhyst-BärwalderSee-3.jpg/800px-Uhyst-BärwalderSee-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uhyst-BärwalderSee-3.jpg/1200px-Uhyst-BärwalderSee-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uhyst-BärwalderSee-3.jpg/1920px-Uhyst-BärwalderSee-3.jpg
+  Bjerwałdski jězor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bjerwałdski_jězor.jpg/400px-Bjerwałdski_jězor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bjerwałdski_jězor.jpg/800px-Bjerwałdski_jězor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bjerwałdski_jězor.jpg/1200px-Bjerwałdski_jězor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bjerwałdski_jězor.jpg/1920px-Bjerwałdski_jězor.jpg
+  Kraftwerk Boxberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/400px-Kraftwerk_Boxberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/800px-Kraftwerk_Boxberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/1200px-Kraftwerk_Boxberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kraftwerk_Boxberg.JPG/1920px-Kraftwerk_Boxberg.JPG
+  Uhyst-BärwalderSee-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Uhyst-BärwalderSee-1.jpg/400px-Uhyst-BärwalderSee-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Uhyst-BärwalderSee-1.jpg/800px-Uhyst-BärwalderSee-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Uhyst-BärwalderSee-1.jpg/1200px-Uhyst-BärwalderSee-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Uhyst-BärwalderSee-1.jpg/1920px-Uhyst-BärwalderSee-1.jpg
 ---
 
 ## Overview

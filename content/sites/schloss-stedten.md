@@ -13,7 +13,7 @@ regions:
 latitude: 50.92738342
 longitude: 10.98424721
 images:
-  - "/images-sites/schloss-stedten/01-f30da01f-800w.webp"
+  - "/images/schloss-stedten/01-f30da01f-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 54.9
 longitude: 8.333333333
 images:
-  - "/images-sites/sylt/01-1cbf01eb-800w.webp"
-  - "/images-sites/sylt/02-60fec124-800w.webp"
-  - "/images-sites/sylt/03-5c1c37d8-800w.webp"
+  - "/images/sylt/01-1cbf01eb-800w.webp"
+  - "/images/sylt/02-60fec124-800w.webp"
+  - "/images/sylt/03-5c1c37d8-800w.webp"
 ---
 
 ## Overview

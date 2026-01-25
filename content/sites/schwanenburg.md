@@ -21,8 +21,8 @@ longitude: 6.139089
 
 # Images
 images:
-  - "/images-sites/schwanenburg/02-b2b9df19-800w.webp"
-  - "/images-sites/schwanenburg/03-22d5d568-800w.webp"
+  - "/images/schwanenburg/02-b2b9df19-800w.webp"
+  - "/images/schwanenburg/03-22d5d568-800w.webp"
 ---
 
 ## Overview

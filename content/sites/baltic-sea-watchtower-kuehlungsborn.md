@@ -1,19 +1,49 @@
 ---
-title: "Baltic Sea watchtower, Kühlungsborn"
+title: Baltic Sea watchtower, Kühlungsborn
 date: 2026-01-24
 draft: false
-description: "watchtower in the village of Kühlungsborn, Mecklenburg-Western Pomerania"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: watchtower in the village of Kühlungsborn, Mecklenburg-Western Pomerania
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1541
 longitude: 11.7591
 images:
-  - "/images-sites/baltic-sea-watchtower-kuehlungsborn/01-44e24a90-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/See-Grenzbeobachtungsturm_Kühlungsborn.jpg/1200px-See-Grenzbeobachtungsturm_Kühlungsborn.jpg
+image_srcset:
+  Kühlungsborn, Ostsee-Grenzturm-Museum, Grenzturm -- 2024 -- 4828.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg/400px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg/800px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg/1920px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4828.jpg
+  Kühlungsborn, Ostsee-Grenzturm-Museum, Grenzturm -- 2024 -- 4826.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg/400px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg/800px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg/1920px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_4826.jpg
+  Kühlungsborn, Ostsee-Grenzturm-Museum, Grenzturm -- 2024 -- 2069.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg/400px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg/800px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg/1920px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2069.jpg
+  Kühlungsborn, Ostsee-Grenzturm-Museum, Grenzturm -- 2024 -- 2071.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg/400px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg/800px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg/1200px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg/1920px-Kühlungsborn,_Ostsee-Grenzturm-Museum,_Grenzturm_--_2024_--_2071.jpg
+  See-Grenzbeobachtungsturm Kühlungsborn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/See-Grenzbeobachtungsturm_Kühlungsborn.jpg/400px-See-Grenzbeobachtungsturm_Kühlungsborn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/See-Grenzbeobachtungsturm_Kühlungsborn.jpg/800px-See-Grenzbeobachtungsturm_Kühlungsborn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/See-Grenzbeobachtungsturm_Kühlungsborn.jpg/1200px-See-Grenzbeobachtungsturm_Kühlungsborn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/See-Grenzbeobachtungsturm_Kühlungsborn.jpg/1920px-See-Grenzbeobachtungsturm_Kühlungsborn.jpg
 ---
 
 ## Overview

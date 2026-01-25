@@ -1,20 +1,49 @@
 ---
-title: "Hermes tower"
+title: Hermes tower
 date: 2026-01-24
 draft: false
-description: "tower in Hannover, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: tower in Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.321111
 longitude: 9.802778
 images:
-  - "/images-sites/hermes-tower/02-2b2a149c-800w.webp"
-  - "/images-sites/hermes-tower/03-202772ed-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg/1200px-Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Federated_Tower,_2023-12-20,_01.jpg/1200px-Federated_Tower,_2023-12-20,_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Federated_Tower,_Pittsburgh,_2024-05-28.jpg/1200px-Federated_Tower,_Pittsburgh,_2024-05-28.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Federated_Tower,_2023-12-20,_02.jpg/1200px-Federated_Tower,_2023-12-20,_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FederatedTowerPgh.JPG/1200px-FederatedTowerPgh.JPG
+image_srcset:
+  Federated Tower, Pittsburgh, 2024-05-28-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg/400px-Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg/800px-Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg/1200px-Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg/1920px-Federated_Tower,_Pittsburgh,_2024-05-28-1.jpg
+  Federated Tower, 2023-12-20, 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Federated_Tower,_2023-12-20,_01.jpg/400px-Federated_Tower,_2023-12-20,_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Federated_Tower,_2023-12-20,_01.jpg/800px-Federated_Tower,_2023-12-20,_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Federated_Tower,_2023-12-20,_01.jpg/1200px-Federated_Tower,_2023-12-20,_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Federated_Tower,_2023-12-20,_01.jpg/1920px-Federated_Tower,_2023-12-20,_01.jpg
+  Federated Tower, Pittsburgh, 2024-05-28.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Federated_Tower,_Pittsburgh,_2024-05-28.jpg/400px-Federated_Tower,_Pittsburgh,_2024-05-28.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Federated_Tower,_Pittsburgh,_2024-05-28.jpg/800px-Federated_Tower,_Pittsburgh,_2024-05-28.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Federated_Tower,_Pittsburgh,_2024-05-28.jpg/1200px-Federated_Tower,_Pittsburgh,_2024-05-28.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Federated_Tower,_Pittsburgh,_2024-05-28.jpg/1920px-Federated_Tower,_Pittsburgh,_2024-05-28.jpg
+  Federated Tower, 2023-12-20, 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Federated_Tower,_2023-12-20,_02.jpg/400px-Federated_Tower,_2023-12-20,_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Federated_Tower,_2023-12-20,_02.jpg/800px-Federated_Tower,_2023-12-20,_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Federated_Tower,_2023-12-20,_02.jpg/1200px-Federated_Tower,_2023-12-20,_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Federated_Tower,_2023-12-20,_02.jpg/1920px-Federated_Tower,_2023-12-20,_02.jpg
+  FederatedTowerPgh.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FederatedTowerPgh.JPG/400px-FederatedTowerPgh.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FederatedTowerPgh.JPG/800px-FederatedTowerPgh.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FederatedTowerPgh.JPG/1200px-FederatedTowerPgh.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FederatedTowerPgh.JPG/1920px-FederatedTowerPgh.JPG
 ---
 
 ## Overview

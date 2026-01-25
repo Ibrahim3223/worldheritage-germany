@@ -1,21 +1,49 @@
 ---
-title: "Gertelbach-Wasserfälle"
+title: Gertelbach-Wasserfälle
 date: 2026-01-24
 draft: false
-description: "Waterfall in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Waterfall"
+description: Waterfall in Germany
+region: Germany
+country: Germany
+heritage_type: Waterfall
 categories:
-  - "Waterfall"
+- Waterfall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.66245
 longitude: 8.21474
 images:
-  - "/images-sites/gertelbach-wasserfaelle/01-a4b8682d-800w.webp"
-  - "/images-sites/gertelbach-wasserfaelle/02-4ea07869-800w.webp"
-  - "/images-sites/gertelbach-wasserfaelle/03-1b7555a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg/1200px-Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gertelbachfälle_im_Bühlertal.jpg/1200px-Gertelbachfälle_im_Bühlertal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gertelbach-40-Wasserfaelle-2021-gje.jpg/1200px-Gertelbach-40-Wasserfaelle-2021-gje.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1200px-Gertelbach-Wasserfälle_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg/1200px-Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg
+image_srcset:
+  Bühlertal - Gertelbacher Wasserfälle 2018 Bild 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg/400px-Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg/800px-Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg/1200px-Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg/1920px-Bühlertal_-_Gertelbacher_Wasserfälle_2018_Bild_3.jpg
+  Gertelbachfälle im Bühlertal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gertelbachfälle_im_Bühlertal.jpg/400px-Gertelbachfälle_im_Bühlertal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gertelbachfälle_im_Bühlertal.jpg/800px-Gertelbachfälle_im_Bühlertal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gertelbachfälle_im_Bühlertal.jpg/1200px-Gertelbachfälle_im_Bühlertal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gertelbachfälle_im_Bühlertal.jpg/1920px-Gertelbachfälle_im_Bühlertal.jpg
+  Gertelbach-40-Wasserfaelle-2021-gje.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gertelbach-40-Wasserfaelle-2021-gje.jpg/400px-Gertelbach-40-Wasserfaelle-2021-gje.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gertelbach-40-Wasserfaelle-2021-gje.jpg/800px-Gertelbach-40-Wasserfaelle-2021-gje.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gertelbach-40-Wasserfaelle-2021-gje.jpg/1200px-Gertelbach-40-Wasserfaelle-2021-gje.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gertelbach-40-Wasserfaelle-2021-gje.jpg/1920px-Gertelbach-40-Wasserfaelle-2021-gje.jpg
+  Gertelbach-Wasserfälle (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/400px-Gertelbach-Wasserfälle_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/800px-Gertelbach-Wasserfälle_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1200px-Gertelbach-Wasserfälle_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gertelbach-Wasserfälle_(1).JPG/1920px-Gertelbach-Wasserfälle_(1).JPG
+  Gertelbachfälle Bühlertal, Schwarzwald, black forest, forêt noire - panoramio (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg/400px-Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg/800px-Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg/1200px-Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg/1920px-Gertelbachfälle_Bühlertal,_Schwarzwald,_black_forest,_forêt_noire_-_panoramio_(3).jpg
 ---
 
 ## Overview

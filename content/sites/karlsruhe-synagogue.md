@@ -13,7 +13,7 @@ regions:
 latitude: 49.0097
 longitude: 8.40849
 images:
-  - "/images-sites/karlsruhe-synagogue/01-09fabf44-800w.webp"
+  - "/images/karlsruhe-synagogue/01-09fabf44-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.1392
 longitude: 11.5658
 images:
-  - "/images-sites/stachus/01-d75eb6bf-800w.webp"
+  - "/images/stachus/01-d75eb6bf-800w.webp"
 ---
 
 ## Overview

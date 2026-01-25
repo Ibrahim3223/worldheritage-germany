@@ -1,19 +1,49 @@
 ---
-title: "Hohes Brett"
+title: Hohes Brett
 date: 2026-01-23
 draft: false
-description: "mountain in the Berchtesgadener Alps at the border Salzburg / Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Berchtesgadener Alps at the border Salzburg / Bavaria
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.584166666
 longitude: 13.048888888
 images:
-  - "/images-sites/hohes-brett/01-2b2d7a3a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hohes_Brett_vom_Jenner.jpg/1200px-Hohes_Brett_vom_Jenner.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg/1200px-Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hohes_Brett_Berchtesgadener_Alpen.jpg/1200px-Hohes_Brett_Berchtesgadener_Alpen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg/1200px-Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hohes_Brett_SW_55_IMG_20240514_1410.jpg/1200px-Hohes_Brett_SW_55_IMG_20240514_1410.jpg
+image_srcset:
+  Hohes Brett vom Jenner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hohes_Brett_vom_Jenner.jpg/400px-Hohes_Brett_vom_Jenner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hohes_Brett_vom_Jenner.jpg/800px-Hohes_Brett_vom_Jenner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hohes_Brett_vom_Jenner.jpg/1200px-Hohes_Brett_vom_Jenner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hohes_Brett_vom_Jenner.jpg/1920px-Hohes_Brett_vom_Jenner.jpg
+  Schneibstein Blick Hohes Brett, Berchtesgadener Alpen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg/400px-Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg/800px-Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg/1200px-Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg/1920px-Schneibstein_Blick_Hohes_Brett,_Berchtesgadener_Alpen.jpg
+  Hohes Brett Berchtesgadener Alpen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hohes_Brett_Berchtesgadener_Alpen.jpg/400px-Hohes_Brett_Berchtesgadener_Alpen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hohes_Brett_Berchtesgadener_Alpen.jpg/800px-Hohes_Brett_Berchtesgadener_Alpen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hohes_Brett_Berchtesgadener_Alpen.jpg/1200px-Hohes_Brett_Berchtesgadener_Alpen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hohes_Brett_Berchtesgadener_Alpen.jpg/1920px-Hohes_Brett_Berchtesgadener_Alpen.jpg
+  Carl-von-Stahl-Haus, 1736 m, 2014-10-13.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg/400px-Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg/800px-Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg/1200px-Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg/1920px-Carl-von-Stahl-Haus,_1736_m,_2014-10-13.jpg
+  Hohes Brett SW 55 IMG 20240514 1410.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hohes_Brett_SW_55_IMG_20240514_1410.jpg/400px-Hohes_Brett_SW_55_IMG_20240514_1410.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hohes_Brett_SW_55_IMG_20240514_1410.jpg/800px-Hohes_Brett_SW_55_IMG_20240514_1410.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hohes_Brett_SW_55_IMG_20240514_1410.jpg/1200px-Hohes_Brett_SW_55_IMG_20240514_1410.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hohes_Brett_SW_55_IMG_20240514_1410.jpg/1920px-Hohes_Brett_SW_55_IMG_20240514_1410.jpg
 ---
 
 ## Overview

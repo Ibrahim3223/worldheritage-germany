@@ -13,7 +13,7 @@ regions:
 latitude: 52.2579
 longitude: 9.03477
 images:
-  - "/images-sites/mausoleum-bueckeburg/01-fe1ba841-800w.webp"
+  - "/images/mausoleum-bueckeburg/01-fe1ba841-800w.webp"
 ---
 
 ## Overview

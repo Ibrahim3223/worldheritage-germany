@@ -1,19 +1,49 @@
 ---
-title: "Burg Odenkirchen"
+title: Burg Odenkirchen
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1167
 longitude: 6.45
 images:
-  - "/images-sites/burg-odenkirchen/01-afd6cfae-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgturm_Odenkirchen_(1).jpg/1200px-Burgturm_Odenkirchen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burgturm_Odenkirchen_(3).jpg/1200px-Burgturm_Odenkirchen_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burgturm.JPG/1200px-Burgturm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_odenkirchen.JPG/1200px-Burg_odenkirchen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pk_burg_odenkirchen.jpg/1200px-Pk_burg_odenkirchen.jpg
+image_srcset:
+  Burgturm Odenkirchen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgturm_Odenkirchen_(1).jpg/400px-Burgturm_Odenkirchen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgturm_Odenkirchen_(1).jpg/800px-Burgturm_Odenkirchen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgturm_Odenkirchen_(1).jpg/1200px-Burgturm_Odenkirchen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Burgturm_Odenkirchen_(1).jpg/1920px-Burgturm_Odenkirchen_(1).jpg
+  Burgturm Odenkirchen (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burgturm_Odenkirchen_(3).jpg/400px-Burgturm_Odenkirchen_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burgturm_Odenkirchen_(3).jpg/800px-Burgturm_Odenkirchen_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burgturm_Odenkirchen_(3).jpg/1200px-Burgturm_Odenkirchen_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Burgturm_Odenkirchen_(3).jpg/1920px-Burgturm_Odenkirchen_(3).jpg
+  Burgturm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burgturm.JPG/400px-Burgturm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burgturm.JPG/800px-Burgturm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burgturm.JPG/1200px-Burgturm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Burgturm.JPG/1920px-Burgturm.JPG
+  Burg odenkirchen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_odenkirchen.JPG/400px-Burg_odenkirchen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_odenkirchen.JPG/800px-Burg_odenkirchen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_odenkirchen.JPG/1200px-Burg_odenkirchen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_odenkirchen.JPG/1920px-Burg_odenkirchen.JPG
+  Pk burg odenkirchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pk_burg_odenkirchen.jpg/400px-Pk_burg_odenkirchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pk_burg_odenkirchen.jpg/800px-Pk_burg_odenkirchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pk_burg_odenkirchen.jpg/1200px-Pk_burg_odenkirchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pk_burg_odenkirchen.jpg/1920px-Pk_burg_odenkirchen.jpg
 ---
 
 ## Overview

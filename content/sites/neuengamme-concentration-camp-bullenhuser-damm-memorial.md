@@ -13,9 +13,9 @@ regions:
 latitude: 53.542089
 longitude: 10.04775
 images:
-  - "/images-sites/neuengamme-concentration-camp-bullenhuser-damm-memorial/01-533aa506-800w.webp"
-  - "/images-sites/neuengamme-concentration-camp-bullenhuser-damm-memorial/02-4b000d03-800w.webp"
-  - "/images-sites/neuengamme-concentration-camp-bullenhuser-damm-memorial/03-ef07bc12-800w.webp"
+  - "/images/neuengamme-concentration-camp-bullenhuser-damm-memorial/01-533aa506-800w.webp"
+  - "/images/neuengamme-concentration-camp-bullenhuser-damm-memorial/02-4b000d03-800w.webp"
+  - "/images/neuengamme-concentration-camp-bullenhuser-damm-memorial/03-ef07bc12-800w.webp"
 ---
 
 ## Overview

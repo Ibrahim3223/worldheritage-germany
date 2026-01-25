@@ -1,21 +1,49 @@
 ---
-title: "Deutschlandmuseum"
+title: Deutschlandmuseum
 date: 2026-01-23
 draft: false
-description: "German museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: German museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.508788
 longitude: 13.378434
 images:
-  - "/images-sites/deutschlandmuseum/01-684ff83c-800w.webp"
-  - "/images-sites/deutschlandmuseum/02-ece20f89-800w.webp"
-  - "/images-sites/deutschlandmuseum/03-4f7edc24-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg/1200px-DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DM_09-Nationalsozialismus2_rgb.jpg/1200px-DM_09-Nationalsozialismus2_rgb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DM_05-Aufklaerung_rgb.jpg/1200px-DM_05-Aufklaerung_rgb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DM_11-Zwei_Staaten_rgb.jpg/1200px-DM_11-Zwei_Staaten_rgb.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg/1200px-Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg
+image_srcset:
+  DM 12-Wiedervereinigtes Deutschland3 rgb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg/400px-DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg/800px-DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg/1200px-DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg/1920px-DM_12-Wiedervereinigtes_Deutschland3_rgb.jpg
+  DM 09-Nationalsozialismus2 rgb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DM_09-Nationalsozialismus2_rgb.jpg/400px-DM_09-Nationalsozialismus2_rgb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DM_09-Nationalsozialismus2_rgb.jpg/800px-DM_09-Nationalsozialismus2_rgb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DM_09-Nationalsozialismus2_rgb.jpg/1200px-DM_09-Nationalsozialismus2_rgb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/DM_09-Nationalsozialismus2_rgb.jpg/1920px-DM_09-Nationalsozialismus2_rgb.jpg
+  DM 05-Aufklaerung rgb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DM_05-Aufklaerung_rgb.jpg/400px-DM_05-Aufklaerung_rgb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DM_05-Aufklaerung_rgb.jpg/800px-DM_05-Aufklaerung_rgb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DM_05-Aufklaerung_rgb.jpg/1200px-DM_05-Aufklaerung_rgb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DM_05-Aufklaerung_rgb.jpg/1920px-DM_05-Aufklaerung_rgb.jpg
+  DM 11-Zwei Staaten rgb.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DM_11-Zwei_Staaten_rgb.jpg/400px-DM_11-Zwei_Staaten_rgb.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DM_11-Zwei_Staaten_rgb.jpg/800px-DM_11-Zwei_Staaten_rgb.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DM_11-Zwei_Staaten_rgb.jpg/1200px-DM_11-Zwei_Staaten_rgb.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DM_11-Zwei_Staaten_rgb.jpg/1920px-DM_11-Zwei_Staaten_rgb.jpg
+  Deutschland Museum w Berlinie - stała ekspozycja.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg/400px-Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg/800px-Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg/1200px-Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg/1920px-Deutschland_Museum_w_Berlinie_-_stała_ekspozycja.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.9786
 longitude: 11.0293
 images:
-  - "/images-sites/old-synagogue-erfurt/01-1290d249-800w.webp"
+  - "/images/old-synagogue-erfurt/01-1290d249-800w.webp"
 ---
 
 ## Overview

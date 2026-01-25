@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q436054"
 description: "In the heart of Frankfurts Altstadt, the Old St. Nicholas Church stands as a striking example of Gothic architecture, a silent witness to the citys vibr..."
 images:
-  - "/images-sites/old-st-nicholas-church/01-544545a4-1920w.webp"
-  - "/images-sites/old-st-nicholas-church/02-a7c4414b-1920w.webp"
-  - "/images-sites/old-st-nicholas-church/03-13dd1412-1920w.webp"
+  - "/images/old-st-nicholas-church/01-544545a4-1920w.webp"
+  - "/images/old-st-nicholas-church/02-a7c4414b-1920w.webp"
+  - "/images/old-st-nicholas-church/03-13dd1412-1920w.webp"
 ---
 
 ## Overview

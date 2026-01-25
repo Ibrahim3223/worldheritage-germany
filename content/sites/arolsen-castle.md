@@ -1,27 +1,49 @@
 ---
-title: "Arolsen Castle"
+title: Arolsen Castle
 date: 2026-01-23
 draft: false
-description: "museum in Bad Arolsen, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: museum in Bad Arolsen, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3808
 longitude: 9.02194
-
-# Images
 images:
-  - "/images-sites/arolsen-castle/01-718147c8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Residenzschloss_Arolsen_011.jpg/1200px-Residenzschloss_Arolsen_011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bad_Arolsen,_Residenzschloss.jpg/1200px-Bad_Arolsen,_Residenzschloss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schloss_Arolsen.JPG/1200px-Schloss_Arolsen.JPG
+image_srcset:
+  Residenzschloss Arolsen 011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Residenzschloss_Arolsen_011.jpg/400px-Residenzschloss_Arolsen_011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Residenzschloss_Arolsen_011.jpg/800px-Residenzschloss_Arolsen_011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Residenzschloss_Arolsen_011.jpg/1200px-Residenzschloss_Arolsen_011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Residenzschloss_Arolsen_011.jpg/1920px-Residenzschloss_Arolsen_011.jpg
+  Aerial image of Arolsen Castle (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg/400px-Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg/800px-Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg/1920px-Aerial_image_of_Arolsen_Castle_(view_from_the_south).jpg
+  Aerial image of the Arolsen Castle (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg/400px-Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg/800px-Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Arolsen_Castle_(view_from_the_south).jpg
+  Bad Arolsen, Residenzschloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bad_Arolsen,_Residenzschloss.jpg/400px-Bad_Arolsen,_Residenzschloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bad_Arolsen,_Residenzschloss.jpg/800px-Bad_Arolsen,_Residenzschloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bad_Arolsen,_Residenzschloss.jpg/1200px-Bad_Arolsen,_Residenzschloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bad_Arolsen,_Residenzschloss.jpg/1920px-Bad_Arolsen,_Residenzschloss.jpg
+  Schloss Arolsen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schloss_Arolsen.JPG/400px-Schloss_Arolsen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schloss_Arolsen.JPG/800px-Schloss_Arolsen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schloss_Arolsen.JPG/1200px-Schloss_Arolsen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schloss_Arolsen.JPG/1920px-Schloss_Arolsen.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 47.4497
 longitude: 11.3386
 images:
-  - "/images-sites/woerner/01-cdb3783b-800w.webp"
-  - "/images-sites/woerner/02-19c33b49-800w.webp"
-  - "/images-sites/woerner/03-39f2429e-800w.webp"
+  - "/images/woerner/01-cdb3783b-800w.webp"
+  - "/images/woerner/02-19c33b49-800w.webp"
+  - "/images/woerner/03-39f2429e-800w.webp"
 ---
 
 ## Overview

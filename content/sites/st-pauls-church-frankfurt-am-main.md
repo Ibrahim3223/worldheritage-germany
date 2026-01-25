@@ -13,7 +13,7 @@ regions:
 latitude: 50.111111111
 longitude: 8.680833333
 images:
-  - "/images-sites/st-pauls-church-frankfurt-am-main/01-8faf74e0-800w.webp"
+  - "/images/st-pauls-church-frankfurt-am-main/01-8faf74e0-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 10.42
 
 # Images
 images:
-  - "/images-sites/sperberhai-dyke/01-331aafc6-800w.webp"
+  - "/images/sperberhai-dyke/01-331aafc6-800w.webp"
 ---
 
 ## Overview

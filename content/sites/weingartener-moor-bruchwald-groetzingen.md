@@ -13,9 +13,9 @@ regions:
 latitude: 49.0398
 longitude: 8.5131
 images:
-  - "/images-sites/weingartener-moor-bruchwald-groetzingen/01-0ca49e7e-800w.webp"
-  - "/images-sites/weingartener-moor-bruchwald-groetzingen/02-4cd4c379-800w.webp"
-  - "/images-sites/weingartener-moor-bruchwald-groetzingen/03-8602977b-800w.webp"
+  - "/images/weingartener-moor-bruchwald-groetzingen/01-0ca49e7e-800w.webp"
+  - "/images/weingartener-moor-bruchwald-groetzingen/02-4cd4c379-800w.webp"
+  - "/images/weingartener-moor-bruchwald-groetzingen/03-8602977b-800w.webp"
 ---
 
 ## Overview

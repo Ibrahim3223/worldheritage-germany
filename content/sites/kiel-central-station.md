@@ -13,9 +13,9 @@ regions:
 latitude: 54.3148
 longitude: 10.1318
 images:
-  - "/images-sites/kiel-central-station/01-36c3d782-800w.webp"
-  - "/images-sites/kiel-central-station/02-919c9522-800w.webp"
-  - "/images-sites/kiel-central-station/03-7d20d63d-800w.webp"
+  - "/images/kiel-central-station/01-36c3d782-800w.webp"
+  - "/images/kiel-central-station/02-919c9522-800w.webp"
+  - "/images/kiel-central-station/03-7d20d63d-800w.webp"
 ---
 
 ## Overview

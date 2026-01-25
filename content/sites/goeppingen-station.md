@@ -1,20 +1,49 @@
 ---
-title: "Göppingen station"
+title: Göppingen station
 date: 2026-01-23
 draft: false
-description: "railway station in Göppingen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Göppingen, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 48.700288888
 longitude: 9.652280555
 images:
-  - "/images-sites/goeppingen-station/02-74465a40-800w.webp"
-  - "/images-sites/goeppingen-station/03-62753823-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210616_Bahnhof_Göppingen.jpg/1200px-20210616_Bahnhof_Göppingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof_Göppingen_Ostkopf_März_2024.jpg/1200px-Bahnhof_Göppingen_Ostkopf_März_2024.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moschee_in_Göppingen.jpg/1200px-Moschee_in_Göppingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg/1200px-König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bahnhof_Goeppingen.jpg/1200px-Bahnhof_Goeppingen.jpg
+image_srcset:
+  20210616 Bahnhof Göppingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210616_Bahnhof_Göppingen.jpg/400px-20210616_Bahnhof_Göppingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210616_Bahnhof_Göppingen.jpg/800px-20210616_Bahnhof_Göppingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210616_Bahnhof_Göppingen.jpg/1200px-20210616_Bahnhof_Göppingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20210616_Bahnhof_Göppingen.jpg/1920px-20210616_Bahnhof_Göppingen.jpg
+  Bahnhof Göppingen Ostkopf März 2024.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof_Göppingen_Ostkopf_März_2024.jpg/400px-Bahnhof_Göppingen_Ostkopf_März_2024.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof_Göppingen_Ostkopf_März_2024.jpg/800px-Bahnhof_Göppingen_Ostkopf_März_2024.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof_Göppingen_Ostkopf_März_2024.jpg/1200px-Bahnhof_Göppingen_Ostkopf_März_2024.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bahnhof_Göppingen_Ostkopf_März_2024.jpg/1920px-Bahnhof_Göppingen_Ostkopf_März_2024.jpg
+  Moschee in Göppingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moschee_in_Göppingen.jpg/400px-Moschee_in_Göppingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moschee_in_Göppingen.jpg/800px-Moschee_in_Göppingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moschee_in_Göppingen.jpg/1200px-Moschee_in_Göppingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Moschee_in_Göppingen.jpg/1920px-Moschee_in_Göppingen.jpg
+  König-Ludwig-Lok bei Märklin Modellbautage Göppingen 05 Mai 2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg/400px-König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg/800px-König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg/1200px-König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg/1920px-König-Ludwig-Lok_bei_Märklin_Modellbautage_Göppingen_05_Mai_2001.jpg
+  Bahnhof Goeppingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bahnhof_Goeppingen.jpg/400px-Bahnhof_Goeppingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bahnhof_Goeppingen.jpg/800px-Bahnhof_Goeppingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bahnhof_Goeppingen.jpg/1200px-Bahnhof_Goeppingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bahnhof_Goeppingen.jpg/1920px-Bahnhof_Goeppingen.jpg
 ---
 
 ## Overview

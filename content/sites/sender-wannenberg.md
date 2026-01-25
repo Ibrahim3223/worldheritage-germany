@@ -13,9 +13,9 @@ regions:
 latitude: 47.602564
 longitude: 8.407228
 images:
-  - "/images-sites/sender-wannenberg/01-9309343c-800w.webp"
-  - "/images-sites/sender-wannenberg/02-e67d2f11-800w.webp"
-  - "/images-sites/sender-wannenberg/03-95478e45-800w.webp"
+  - "/images/sender-wannenberg/01-9309343c-800w.webp"
+  - "/images/sender-wannenberg/02-e67d2f11-800w.webp"
+  - "/images/sender-wannenberg/03-95478e45-800w.webp"
 ---
 
 ## Overview

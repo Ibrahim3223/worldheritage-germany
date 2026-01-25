@@ -1,27 +1,49 @@
 ---
-title: "Botanischer Garten Wuppertal"
+title: Botanischer Garten Wuppertal
 date: 2026-01-23
 draft: false
-description: "botanical garden in Wuppertal, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden in Wuppertal, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.26027778
 longitude: 7.16055556
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-wuppertal/01-ed9c71ab-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wuppertal_Elisenhöhe_2018_044.jpg/1200px-Wuppertal_Elisenhöhe_2018_044.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Hardt_2012_153.JPG/1200px-Wuppertal_Hardt_2012_153.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1200px-Wuppertal_Hardt_0142.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wuppertal_Hardt_2013_211.JPG/1200px-Wuppertal_Hardt_2013_211.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wuppertal_Hardt_004.jpg/1200px-Wuppertal_Hardt_004.jpg
+image_srcset:
+  Wuppertal Elisenhöhe 2018 044.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wuppertal_Elisenhöhe_2018_044.jpg/400px-Wuppertal_Elisenhöhe_2018_044.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wuppertal_Elisenhöhe_2018_044.jpg/800px-Wuppertal_Elisenhöhe_2018_044.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wuppertal_Elisenhöhe_2018_044.jpg/1200px-Wuppertal_Elisenhöhe_2018_044.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wuppertal_Elisenhöhe_2018_044.jpg/1920px-Wuppertal_Elisenhöhe_2018_044.jpg
+  Wuppertal Hardt 2012 153.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Hardt_2012_153.JPG/400px-Wuppertal_Hardt_2012_153.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Hardt_2012_153.JPG/800px-Wuppertal_Hardt_2012_153.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Hardt_2012_153.JPG/1200px-Wuppertal_Hardt_2012_153.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wuppertal_Hardt_2012_153.JPG/1920px-Wuppertal_Hardt_2012_153.JPG
+  Wuppertal Hardt 0142.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/400px-Wuppertal_Hardt_0142.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/800px-Wuppertal_Hardt_0142.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1200px-Wuppertal_Hardt_0142.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Hardt_0142.jpg/1920px-Wuppertal_Hardt_0142.jpg
+  Wuppertal Hardt 2013 211.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wuppertal_Hardt_2013_211.JPG/400px-Wuppertal_Hardt_2013_211.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wuppertal_Hardt_2013_211.JPG/800px-Wuppertal_Hardt_2013_211.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wuppertal_Hardt_2013_211.JPG/1200px-Wuppertal_Hardt_2013_211.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wuppertal_Hardt_2013_211.JPG/1920px-Wuppertal_Hardt_2013_211.JPG
+  Wuppertal Hardt 004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wuppertal_Hardt_004.jpg/400px-Wuppertal_Hardt_004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wuppertal_Hardt_004.jpg/800px-Wuppertal_Hardt_004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wuppertal_Hardt_004.jpg/1200px-Wuppertal_Hardt_004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wuppertal_Hardt_004.jpg/1920px-Wuppertal_Hardt_004.jpg
 ---
 
 ## Overview

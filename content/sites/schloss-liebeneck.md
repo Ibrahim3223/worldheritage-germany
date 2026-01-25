@@ -21,9 +21,9 @@ longitude: 7.619
 
 # Images
 images:
-  - "/images-sites/schloss-liebeneck/01-0e2a23bc-800w.webp"
-  - "/images-sites/schloss-liebeneck/02-c5eb7514-800w.webp"
-  - "/images-sites/schloss-liebeneck/03-e6ca9ba8-800w.webp"
+  - "/images/schloss-liebeneck/01-0e2a23bc-800w.webp"
+  - "/images/schloss-liebeneck/02-c5eb7514-800w.webp"
+  - "/images/schloss-liebeneck/03-e6ca9ba8-800w.webp"
 ---
 
 ## Overview

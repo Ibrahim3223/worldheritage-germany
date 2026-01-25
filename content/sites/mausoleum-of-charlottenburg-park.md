@@ -13,7 +13,7 @@ regions:
 latitude: 52.5242
 longitude: 13.2918
 images:
-  - "/images-sites/mausoleum-of-charlottenburg-park/01-a00154f4-800w.webp"
+  - "/images/mausoleum-of-charlottenburg-park/01-a00154f4-800w.webp"
 ---
 
 ## Overview

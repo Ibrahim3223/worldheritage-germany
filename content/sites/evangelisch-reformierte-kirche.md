@@ -1,24 +1,52 @@
 ---
-title: "Evangelisch-reformierte Kirche"
-site_name: "Evangelisch-reformierte Kirche"
-slug: "evangelisch-reformierte-kirche"
-region: "Bremen"
-
-# Location
+title: Evangelisch-reformierte Kirche
+site_name: Evangelisch-reformierte Kirche
+slug: evangelisch-reformierte-kirche
+region: Bremen
 latitude: 53.1825
 longitude: 8.58333
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380077"
-description: "The Evangelisch-reformierte Kirche, located in the Blumenthal region of Germany, is a striking example of Gothic Revival architecture that captures the ..."
+- church building
+- religious site
+wikidata_id: Q1380077
+description: The Evangelisch-reformierte Kirche, located in the Blumenthal region
+  of Germany, is a striking example of Gothic Revival architecture that captures the
+  ...
 images:
-  - "/images-sites/evangelisch-reformierte-kirche/01-2a134ee3-1920w.webp"
-  - "/images-sites/evangelisch-reformierte-kirche/02-1b0effec-1920w.webp"
-  - "/images-sites/evangelisch-reformierte-kirche/03-288adc5f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg/1200px-Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LE_Brake_Kirche_09.JPG/1200px-LE_Brake_Kirche_09.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kerk_Uelsen.jpg/1200px-Kerk_Uelsen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kerk-Uelsen2.jpg/1200px-Kerk-Uelsen2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Uelsen.jpg/1200px-Uelsen.jpg
+image_srcset:
+  Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg/400px-Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg/800px-Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg/1200px-Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg/1920px-Bremen-Blumenthal%20evang-reformierte-Kirche%2001.jpg
+  LE Brake Kirche 09.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LE_Brake_Kirche_09.JPG/400px-LE_Brake_Kirche_09.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LE_Brake_Kirche_09.JPG/800px-LE_Brake_Kirche_09.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LE_Brake_Kirche_09.JPG/1200px-LE_Brake_Kirche_09.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LE_Brake_Kirche_09.JPG/1920px-LE_Brake_Kirche_09.JPG
+  Kerk Uelsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kerk_Uelsen.jpg/400px-Kerk_Uelsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kerk_Uelsen.jpg/800px-Kerk_Uelsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kerk_Uelsen.jpg/1200px-Kerk_Uelsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kerk_Uelsen.jpg/1920px-Kerk_Uelsen.jpg
+  Kerk-Uelsen2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kerk-Uelsen2.jpg/400px-Kerk-Uelsen2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kerk-Uelsen2.jpg/800px-Kerk-Uelsen2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kerk-Uelsen2.jpg/1200px-Kerk-Uelsen2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kerk-Uelsen2.jpg/1920px-Kerk-Uelsen2.jpg
+  Uelsen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Uelsen.jpg/400px-Uelsen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Uelsen.jpg/800px-Uelsen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Uelsen.jpg/1200px-Uelsen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Uelsen.jpg/1920px-Uelsen.jpg
 ---
 
 ## Overview

@@ -1,28 +1,49 @@
 ---
-title: "Barkenhoff"
+title: Barkenhoff
 date: 2026-01-23
 draft: false
-description: "art museum in Worpswede"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Worpswede
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 53.215666
 longitude: 8.931745
-
-# Images
 images:
-  - "/images-sites/barkenhoff/02-8df34f83-800w.webp"
-  - "/images-sites/barkenhoff/03-410274d9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG/1200px-Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AW_2023_Barkenhoff_Worpswede_03.jpg/1200px-AW_2023_Barkenhoff_Worpswede_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AW_2023_Barkenhoff_Worpswede_01.jpg/1200px-AW_2023_Barkenhoff_Worpswede_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/1200px-Worpswede_Barkenhoff.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Heinrich_Vogeler_Barkenhoff_1910.jpg/1200px-Heinrich_Vogeler_Barkenhoff_1910.jpg
+image_srcset:
+  Vogler Heinrich@Blaue Stunde-Barkenhoff.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG/400px-Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG/800px-Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG/1200px-Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG/1920px-Vogler_Heinrich@Blaue_Stunde-Barkenhoff.JPG
+  AW 2023 Barkenhoff Worpswede 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AW_2023_Barkenhoff_Worpswede_03.jpg/400px-AW_2023_Barkenhoff_Worpswede_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AW_2023_Barkenhoff_Worpswede_03.jpg/800px-AW_2023_Barkenhoff_Worpswede_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AW_2023_Barkenhoff_Worpswede_03.jpg/1200px-AW_2023_Barkenhoff_Worpswede_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AW_2023_Barkenhoff_Worpswede_03.jpg/1920px-AW_2023_Barkenhoff_Worpswede_03.jpg
+  AW 2023 Barkenhoff Worpswede 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AW_2023_Barkenhoff_Worpswede_01.jpg/400px-AW_2023_Barkenhoff_Worpswede_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AW_2023_Barkenhoff_Worpswede_01.jpg/800px-AW_2023_Barkenhoff_Worpswede_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AW_2023_Barkenhoff_Worpswede_01.jpg/1200px-AW_2023_Barkenhoff_Worpswede_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/AW_2023_Barkenhoff_Worpswede_01.jpg/1920px-AW_2023_Barkenhoff_Worpswede_01.jpg
+  Worpswede Barkenhoff.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/400px-Worpswede_Barkenhoff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/800px-Worpswede_Barkenhoff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/1200px-Worpswede_Barkenhoff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Worpswede_Barkenhoff.jpg/1920px-Worpswede_Barkenhoff.jpg
+  Heinrich Vogeler Barkenhoff 1910.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Heinrich_Vogeler_Barkenhoff_1910.jpg/400px-Heinrich_Vogeler_Barkenhoff_1910.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Heinrich_Vogeler_Barkenhoff_1910.jpg/800px-Heinrich_Vogeler_Barkenhoff_1910.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Heinrich_Vogeler_Barkenhoff_1910.jpg/1200px-Heinrich_Vogeler_Barkenhoff_1910.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Heinrich_Vogeler_Barkenhoff_1910.jpg/1920px-Heinrich_Vogeler_Barkenhoff_1910.jpg
 ---
 
 ## Overview

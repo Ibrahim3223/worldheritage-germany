@@ -13,9 +13,9 @@ regions:
 latitude: 52.5258
 longitude: 13.4119
 images:
-  - "/images-sites/kino-babylon/01-4b18f9b8-800w.webp"
-  - "/images-sites/kino-babylon/02-f72178a6-800w.webp"
-  - "/images-sites/kino-babylon/03-b4d1b0ae-800w.webp"
+  - "/images/kino-babylon/01-4b18f9b8-800w.webp"
+  - "/images/kino-babylon/02-f72178a6-800w.webp"
+  - "/images/kino-babylon/03-b4d1b0ae-800w.webp"
 ---
 
 ## Overview

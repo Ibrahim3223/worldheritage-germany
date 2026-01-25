@@ -1,27 +1,49 @@
 ---
-title: "Bonn Botanical Garden"
+title: Bonn Botanical Garden
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.7247
 longitude: 7.09167
-
-# Images
 images:
-  - "/images-sites/bonn-botanical-garden/01-38b0058b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/1200px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poppelsdorfer_Schloss_seen_from_the_East.jpg/1200px-Poppelsdorfer_Schloss_seen_from_the_East.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Poppelsdorfer_Schloss_Gartenseite.jpg/1200px-Poppelsdorfer_Schloss_Gartenseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg/1200px-Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Botgartenbonn19.jpg/1200px-Botgartenbonn19.jpg
+image_srcset:
+  2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/400px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/800px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/1200px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg/1920px-2018-06-18-bonn-meckenheimer-allee-169-botanischer-garten-04.jpg
+  Poppelsdorfer Schloss seen from the East.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poppelsdorfer_Schloss_seen_from_the_East.jpg/400px-Poppelsdorfer_Schloss_seen_from_the_East.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poppelsdorfer_Schloss_seen_from_the_East.jpg/800px-Poppelsdorfer_Schloss_seen_from_the_East.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poppelsdorfer_Schloss_seen_from_the_East.jpg/1200px-Poppelsdorfer_Schloss_seen_from_the_East.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poppelsdorfer_Schloss_seen_from_the_East.jpg/1920px-Poppelsdorfer_Schloss_seen_from_the_East.jpg
+  Poppelsdorfer Schloss Gartenseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Poppelsdorfer_Schloss_Gartenseite.jpg/400px-Poppelsdorfer_Schloss_Gartenseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Poppelsdorfer_Schloss_Gartenseite.jpg/800px-Poppelsdorfer_Schloss_Gartenseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Poppelsdorfer_Schloss_Gartenseite.jpg/1200px-Poppelsdorfer_Schloss_Gartenseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Poppelsdorfer_Schloss_Gartenseite.jpg/1920px-Poppelsdorfer_Schloss_Gartenseite.jpg
+  Amorphophallus titanum with 3 flowers - Botanischer Garten Bonn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg/400px-Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg/800px-Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg/1200px-Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg/1920px-Amorphophallus_titanum_with_3_flowers_-_Botanischer_Garten_Bonn.jpg
+  Botgartenbonn19.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Botgartenbonn19.jpg/400px-Botgartenbonn19.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Botgartenbonn19.jpg/800px-Botgartenbonn19.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Botgartenbonn19.jpg/1200px-Botgartenbonn19.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Botgartenbonn19.jpg/1920px-Botgartenbonn19.jpg
 ---
 
 ## Overview

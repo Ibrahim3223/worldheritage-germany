@@ -13,7 +13,7 @@ regions:
 latitude: 49.940945102
 longitude: 11.582061647
 images:
-  - "/images-sites/wahnfried/01-62720ecd-800w.webp"
+  - "/images/wahnfried/01-62720ecd-800w.webp"
 ---
 
 ## Overview

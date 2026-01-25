@@ -1,19 +1,49 @@
 ---
-title: "Burg Alvensleben"
+title: Burg Alvensleben
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.24076
 longitude: 11.33096
 images:
-  - "/images-sites/burg-alvensleben/01-7ddf6936-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg/1200px-Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg/1200px-Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Alvensleben_(02).jpg/1200px-Burg_Alvensleben_(02).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Burg_Alvensleben_(01).jpg/1200px-Burg_Alvensleben_(01).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Veltheimsburg_Postkarte.jpg/1200px-Veltheimsburg_Postkarte.jpg
+image_srcset:
+  Bebertal, Schloss Veltheimsburg, Bild 7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg/400px-Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg/800px-Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg/1200px-Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg/1920px-Bebertal,_Schloss_Veltheimsburg,_Bild_7.jpg
+  Bebertal Hohe Börde Veltheimsburg Innenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg/400px-Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg/800px-Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg/1200px-Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg/1920px-Bebertal_Hohe_Börde_Veltheimsburg_Innenhof.jpg
+  Burg Alvensleben (02).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Alvensleben_(02).jpg/400px-Burg_Alvensleben_(02).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Alvensleben_(02).jpg/800px-Burg_Alvensleben_(02).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Alvensleben_(02).jpg/1200px-Burg_Alvensleben_(02).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Burg_Alvensleben_(02).jpg/1920px-Burg_Alvensleben_(02).jpg
+  Burg Alvensleben (01).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Burg_Alvensleben_(01).jpg/400px-Burg_Alvensleben_(01).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Burg_Alvensleben_(01).jpg/800px-Burg_Alvensleben_(01).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Burg_Alvensleben_(01).jpg/1200px-Burg_Alvensleben_(01).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Burg_Alvensleben_(01).jpg/1920px-Burg_Alvensleben_(01).jpg
+  Veltheimsburg Postkarte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Veltheimsburg_Postkarte.jpg/400px-Veltheimsburg_Postkarte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Veltheimsburg_Postkarte.jpg/800px-Veltheimsburg_Postkarte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Veltheimsburg_Postkarte.jpg/1200px-Veltheimsburg_Postkarte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Veltheimsburg_Postkarte.jpg/1920px-Veltheimsburg_Postkarte.jpg
 ---
 
 ## Overview

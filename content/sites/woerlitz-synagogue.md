@@ -13,7 +13,7 @@ regions:
 latitude: 51.84552778
 longitude: 12.42416667
 images:
-  - "/images-sites/woerlitz-synagogue/01-31572ad6-800w.webp"
+  - "/images/woerlitz-synagogue/01-31572ad6-800w.webp"
 ---
 
 ## Overview

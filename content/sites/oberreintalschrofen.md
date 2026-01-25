@@ -13,7 +13,7 @@ regions:
 latitude: 47.395555555
 longitude: 11.103888888
 images:
-  - "/images-sites/oberreintalschrofen/01-2f60bdf9-800w.webp"
+  - "/images/oberreintalschrofen/01-2f60bdf9-800w.webp"
 ---
 
 ## Overview

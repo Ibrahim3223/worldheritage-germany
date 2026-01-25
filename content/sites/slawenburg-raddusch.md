@@ -21,7 +21,7 @@ longitude: 14.0304
 
 # Images
 images:
-  - "/images-sites/slawenburg-raddusch/01-43a319ad-800w.webp"
+  - "/images/slawenburg-raddusch/01-43a319ad-800w.webp"
 ---
 
 ## Overview

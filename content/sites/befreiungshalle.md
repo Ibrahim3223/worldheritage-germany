@@ -1,21 +1,49 @@
 ---
-title: "Befreiungshalle"
+title: Befreiungshalle
 date: 2026-01-23
 draft: false
-description: "architectural heritage monument"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: architectural heritage monument
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.918333333
 longitude: 11.860555555
 images:
-  - "/images-sites/befreiungshalle/01-58bb0d63-800w.webp"
-  - "/images-sites/befreiungshalle/02-e671ea9f-800w.webp"
-  - "/images-sites/befreiungshalle/03-11e660a1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Befreiungshalle_Kelheim_Panorama.jpg/1200px-Befreiungshalle_Kelheim_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg/1200px-Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1200px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WLM22_Befreiungshalle_4.jpg/1200px-WLM22_Befreiungshalle_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/20200514_befreiungshalle_geschlossen.jpg/1200px-20200514_befreiungshalle_geschlossen.jpg
+image_srcset:
+  Befreiungshalle Kelheim Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Befreiungshalle_Kelheim_Panorama.jpg/400px-Befreiungshalle_Kelheim_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Befreiungshalle_Kelheim_Panorama.jpg/800px-Befreiungshalle_Kelheim_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Befreiungshalle_Kelheim_Panorama.jpg/1200px-Befreiungshalle_Kelheim_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Befreiungshalle_Kelheim_Panorama.jpg/1920px-Befreiungshalle_Kelheim_Panorama.jpg
+  Blick auf die Befreiungshalle vom Donaudurchbruch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg/400px-Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg/800px-Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg/1200px-Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg/1920px-Blick_auf_die_Befreiungshalle_vom_Donaudurchbruch.jpg
+  Befreiungshalle Hall of Liberation Kelheim.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/400px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/800px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1200px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Befreiungshalle_Hall_of_Liberation_Kelheim.jpg/1920px-Befreiungshalle_Hall_of_Liberation_Kelheim.jpg
+  WLM22 Befreiungshalle 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WLM22_Befreiungshalle_4.jpg/400px-WLM22_Befreiungshalle_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WLM22_Befreiungshalle_4.jpg/800px-WLM22_Befreiungshalle_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WLM22_Befreiungshalle_4.jpg/1200px-WLM22_Befreiungshalle_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WLM22_Befreiungshalle_4.jpg/1920px-WLM22_Befreiungshalle_4.jpg
+  20200514 befreiungshalle geschlossen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/20200514_befreiungshalle_geschlossen.jpg/400px-20200514_befreiungshalle_geschlossen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/20200514_befreiungshalle_geschlossen.jpg/800px-20200514_befreiungshalle_geschlossen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/20200514_befreiungshalle_geschlossen.jpg/1200px-20200514_befreiungshalle_geschlossen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/20200514_befreiungshalle_geschlossen.jpg/1920px-20200514_befreiungshalle_geschlossen.jpg
 ---
 
 ## Overview

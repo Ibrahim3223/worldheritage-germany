@@ -13,7 +13,7 @@ regions:
 latitude: 54.3734
 longitude: 10.1025
 images:
-  - "/images-sites/knoop-manor/01-668181f2-800w.webp"
+  - "/images/knoop-manor/01-668181f2-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.1
 longitude: 8.87417
 images:
-  - "/images-sites/ravensburg/01-dc7b9779-800w.webp"
+  - "/images/ravensburg/01-dc7b9779-800w.webp"
 ---
 
 ## Overview

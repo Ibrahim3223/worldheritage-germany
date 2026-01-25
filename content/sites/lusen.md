@@ -13,7 +13,7 @@ regions:
 latitude: 48.939166666
 longitude: 13.506944444
 images:
-  - "/images-sites/lusen/01-34e0d930-800w.webp"
+  - "/images/lusen/01-34e0d930-800w.webp"
 ---
 
 ## Overview

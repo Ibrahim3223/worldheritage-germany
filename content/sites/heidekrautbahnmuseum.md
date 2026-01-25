@@ -1,21 +1,49 @@
 ---
-title: "Heidekrautbahnmuseum"
+title: Heidekrautbahnmuseum
 date: 2026-01-23
 draft: false
-description: "museum in Basdorf, Wandlitz, Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Basdorf, Wandlitz, Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.7129
 longitude: 13.43293
 images:
-  - "/images-sites/heidekrautbahnmuseum/01-402f7df3-800w.webp"
-  - "/images-sites/heidekrautbahnmuseum/02-2b0cdbb1-800w.webp"
-  - "/images-sites/heidekrautbahnmuseum/03-3456a662-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dampflok_131_2017-10-22_ama_fec_(4).JPG/1200px-Dampflok_131_2017-10-22_ama_fec_(4).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG/1200px-Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG/1200px-Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1200px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VT_95_Berlin_Wittenau.jpg/1200px-VT_95_Berlin_Wittenau.jpg
+image_srcset:
+  Dampflok 131 2017-10-22 ama fec (4).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dampflok_131_2017-10-22_ama_fec_(4).JPG/400px-Dampflok_131_2017-10-22_ama_fec_(4).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dampflok_131_2017-10-22_ama_fec_(4).JPG/800px-Dampflok_131_2017-10-22_ama_fec_(4).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dampflok_131_2017-10-22_ama_fec_(4).JPG/1200px-Dampflok_131_2017-10-22_ama_fec_(4).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dampflok_131_2017-10-22_ama_fec_(4).JPG/1920px-Dampflok_131_2017-10-22_ama_fec_(4).JPG
+  Museum in Basdorf 2017-10-22 ama fec (17).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG/400px-Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG/800px-Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG/1200px-Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG/1920px-Museum_in_Basdorf_2017-10-22_ama_fec_(17).JPG
+  Museumsexponate in Basdorf 2017-10-22 ama fec (34).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG/400px-Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG/800px-Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG/1200px-Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG/1920px-Museumsexponate_in_Basdorf_2017-10-22_ama_fec_(34).JPG
+  Museum in Basdorf 2017-10-22 ama fec (29).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/400px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/800px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1200px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG/1920px-Museum_in_Basdorf_2017-10-22_ama_fec_(29).JPG
+  VT 95 Berlin Wittenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VT_95_Berlin_Wittenau.jpg/400px-VT_95_Berlin_Wittenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VT_95_Berlin_Wittenau.jpg/800px-VT_95_Berlin_Wittenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VT_95_Berlin_Wittenau.jpg/1200px-VT_95_Berlin_Wittenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/VT_95_Berlin_Wittenau.jpg/1920px-VT_95_Berlin_Wittenau.jpg
 ---
 
 ## Overview

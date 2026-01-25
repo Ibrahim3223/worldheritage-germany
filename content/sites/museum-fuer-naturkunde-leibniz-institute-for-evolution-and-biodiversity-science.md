@@ -13,7 +13,7 @@ regions:
 latitude: 52.5302
 longitude: 13.3792
 images:
-  - "/images-sites/museum-fuer-naturkunde-leibniz-institute-for-evolution-and-biodiversity-science/01-99dbe6da-800w.webp"
+  - "/images/museum-fuer-naturkunde-leibniz-institute-for-evolution-and-biodiversity-science/01-99dbe6da-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Frauenstein Castle"
+title: Frauenstein Castle
 date: 2026-01-23
 draft: false
-description: "castle ruin in Saxony, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin in Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.804
 longitude: 13.5394
-
-# Images
 images:
-  - "/images-sites/frauenstein-castle/01-e5e2a982-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg/1200px-Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Frauenstein_Mining_-_Burgschänke.jpg/1200px-Burg_Frauenstein_Mining_-_Burgschänke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Frauenstein_Mining_-_Herrenhaus.jpg/1200px-Burg_Frauenstein_Mining_-_Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Frauenstein_Mining_-Herrenhaus.jpg/1200px-Burg_Frauenstein_Mining_-Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Frauenstein_Mining_-_Freilichtbühne.jpg/1200px-Burg_Frauenstein_Mining_-_Freilichtbühne.jpg
+image_srcset:
+  Frauenstein Schloss Frauenstein Ost-Ansicht 15082019 6966.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg/400px-Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg/800px-Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg/1200px-Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg/1920px-Frauenstein_Schloss_Frauenstein_Ost-Ansicht_15082019_6966.jpg
+  Burg Frauenstein Mining - Burgschänke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Frauenstein_Mining_-_Burgschänke.jpg/400px-Burg_Frauenstein_Mining_-_Burgschänke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Frauenstein_Mining_-_Burgschänke.jpg/800px-Burg_Frauenstein_Mining_-_Burgschänke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Frauenstein_Mining_-_Burgschänke.jpg/1200px-Burg_Frauenstein_Mining_-_Burgschänke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Frauenstein_Mining_-_Burgschänke.jpg/1920px-Burg_Frauenstein_Mining_-_Burgschänke.jpg
+  Burg Frauenstein Mining - Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Frauenstein_Mining_-_Herrenhaus.jpg/400px-Burg_Frauenstein_Mining_-_Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Frauenstein_Mining_-_Herrenhaus.jpg/800px-Burg_Frauenstein_Mining_-_Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Frauenstein_Mining_-_Herrenhaus.jpg/1200px-Burg_Frauenstein_Mining_-_Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burg_Frauenstein_Mining_-_Herrenhaus.jpg/1920px-Burg_Frauenstein_Mining_-_Herrenhaus.jpg
+  Burg Frauenstein Mining -Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Frauenstein_Mining_-Herrenhaus.jpg/400px-Burg_Frauenstein_Mining_-Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Frauenstein_Mining_-Herrenhaus.jpg/800px-Burg_Frauenstein_Mining_-Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Frauenstein_Mining_-Herrenhaus.jpg/1200px-Burg_Frauenstein_Mining_-Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Burg_Frauenstein_Mining_-Herrenhaus.jpg/1920px-Burg_Frauenstein_Mining_-Herrenhaus.jpg
+  Burg Frauenstein Mining - Freilichtbühne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Frauenstein_Mining_-_Freilichtbühne.jpg/400px-Burg_Frauenstein_Mining_-_Freilichtbühne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Frauenstein_Mining_-_Freilichtbühne.jpg/800px-Burg_Frauenstein_Mining_-_Freilichtbühne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Frauenstein_Mining_-_Freilichtbühne.jpg/1200px-Burg_Frauenstein_Mining_-_Freilichtbühne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Burg_Frauenstein_Mining_-_Freilichtbühne.jpg/1920px-Burg_Frauenstein_Mining_-_Freilichtbühne.jpg
 ---
 
 ## Overview

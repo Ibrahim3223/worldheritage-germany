@@ -1,19 +1,49 @@
 ---
-title: "Amorbach Abbey"
+title: Amorbach Abbey
 date: 2026-01-23
 draft: false
-description: "former Benedictine monastery in Amorbach, Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: former Benedictine monastery in Amorbach, Bavaria
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.643387806
 longitude: 9.219725939
 images:
-  - "/images-sites/amorbach-abbey/01-bbb03286-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Amorbach-abteikirche.jpg/1200px-Amorbach-abteikirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/1200px-Aerial_image_of_the_Amorbach_Abbey.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Thangelstedt-Kirche-1.JPG/1200px-Thangelstedt-Kirche-1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg/1200px-KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amorbach_Klosterkirche_Fassade_1.jpg/1200px-Amorbach_Klosterkirche_Fassade_1.jpg
+image_srcset:
+  Amorbach-abteikirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Amorbach-abteikirche.jpg/400px-Amorbach-abteikirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Amorbach-abteikirche.jpg/800px-Amorbach-abteikirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Amorbach-abteikirche.jpg/1200px-Amorbach-abteikirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Amorbach-abteikirche.jpg/1920px-Amorbach-abteikirche.jpg
+  Aerial image of the Amorbach Abbey.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/400px-Aerial_image_of_the_Amorbach_Abbey.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/800px-Aerial_image_of_the_Amorbach_Abbey.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/1200px-Aerial_image_of_the_Amorbach_Abbey.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aerial_image_of_the_Amorbach_Abbey.jpg/1920px-Aerial_image_of_the_Amorbach_Abbey.jpg
+  Thangelstedt-Kirche-1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Thangelstedt-Kirche-1.JPG/400px-Thangelstedt-Kirche-1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Thangelstedt-Kirche-1.JPG/800px-Thangelstedt-Kirche-1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Thangelstedt-Kirche-1.JPG/1200px-Thangelstedt-Kirche-1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Thangelstedt-Kirche-1.JPG/1920px-Thangelstedt-Kirche-1.JPG
+  KIoster Amorbach GruenerSaal Nebenraum IMG 20141116 1548.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg/400px-KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg/800px-KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg/1200px-KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg/1920px-KIoster_Amorbach_GruenerSaal_Nebenraum_IMG_20141116_1548.jpg
+  Amorbach Klosterkirche Fassade 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amorbach_Klosterkirche_Fassade_1.jpg/400px-Amorbach_Klosterkirche_Fassade_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amorbach_Klosterkirche_Fassade_1.jpg/800px-Amorbach_Klosterkirche_Fassade_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amorbach_Klosterkirche_Fassade_1.jpg/1200px-Amorbach_Klosterkirche_Fassade_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amorbach_Klosterkirche_Fassade_1.jpg/1920px-Amorbach_Klosterkirche_Fassade_1.jpg
 ---
 
 ## Overview

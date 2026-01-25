@@ -1,24 +1,51 @@
 ---
-title: "Erlöserkirche (Hanover)"
-site_name: "Erlöserkirche (Hanover)"
-slug: "erloserkirche-hanover"
-region: "Lower Saxony"
-
-# Location
+title: Erlöserkirche (Hanover)
+site_name: Erlöserkirche (Hanover)
+slug: erloserkirche-hanover
+region: Lower Saxony
 latitude: 52.3618
 longitude: 9.72005
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1355747"
-description: "Erlöserkirche, a striking Lutheran church located in Hanover, Germany, invites visitors to explore its rich architectural beauty and historical signific..."
+- church building
+- religious site
+wikidata_id: Q1355747
+description: Erlöserkirche, a striking Lutheran church located in Hanover, Germany,
+  invites visitors to explore its rich architectural beauty and historical signific...
 images:
-  - "/images-sites/erloserkirche-hanover/01-c786cd98-1920w.webp"
-  - "/images-sites/erloserkirche-hanover/02-8a1ee646-1920w.webp"
-  - "/images-sites/erloserkirche-hanover/03-d27f8b8f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg/1200px-Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/1200px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg/1200px-Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erlöserkirche_Hannover.jpg/1200px-Erlöserkirche_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg/1200px-Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg
+image_srcset:
+  Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg/400px-Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg/800px-Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg/1200px-Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg/1920px-Erloeserkirche%20church%20Allerweg%20Linden-Sued%20Hannover%20Germany.jpg
+  Erloeserkirche church Allerweg Linden-Sued Hannover Germany.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/400px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/800px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/1200px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg/1920px-Erloeserkirche_church_Allerweg_Linden-Sued_Hannover_Germany.jpg
+  Hannover-Linden Erloeser Kirche Orgel Prospekt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg/400px-Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg/800px-Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg/1200px-Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg/1920px-Hannover-Linden_Erloeser_Kirche_Orgel_Prospekt.jpg
+  Erlöserkirche Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erlöserkirche_Hannover.jpg/400px-Erlöserkirche_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erlöserkirche_Hannover.jpg/800px-Erlöserkirche_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erlöserkirche_Hannover.jpg/1200px-Erlöserkirche_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Erlöserkirche_Hannover.jpg/1920px-Erlöserkirche_Hannover.jpg
+  Hannover-Linden Erloeser Kirche Orgel Console.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg/400px-Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg/800px-Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg/1200px-Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg/1920px-Hannover-Linden_Erloeser_Kirche_Orgel_Console.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Dümmer"
+title: Dümmer
 date: 2026-01-23
 draft: false
-description: "lake in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5
 longitude: 8.35
 images:
-  - "/images-sites/duemmer/01-a3341124-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/1200px-Dümmer_See-006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/1200px-Duemmer_See-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Duemmerluft.jpg/1200px-Duemmerluft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dümmer_Südufer.JPG/1200px-Dümmer_Südufer.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parum_Kirche_2009-01-05_029.jpg/1200px-Parum_Kirche_2009-01-05_029.jpg
+image_srcset:
+  Dümmer See-006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/400px-Dümmer_See-006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/800px-Dümmer_See-006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/1200px-Dümmer_See-006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dümmer_See-006.jpg/1920px-Dümmer_See-006.jpg
+  Duemmer See-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/400px-Duemmer_See-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/800px-Duemmer_See-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/1200px-Duemmer_See-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Duemmer_See-001.jpg/1920px-Duemmer_See-001.jpg
+  Duemmerluft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Duemmerluft.jpg/400px-Duemmerluft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Duemmerluft.jpg/800px-Duemmerluft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Duemmerluft.jpg/1200px-Duemmerluft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Duemmerluft.jpg/1920px-Duemmerluft.jpg
+  Dümmer Südufer.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dümmer_Südufer.JPG/400px-Dümmer_Südufer.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dümmer_Südufer.JPG/800px-Dümmer_Südufer.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dümmer_Südufer.JPG/1200px-Dümmer_Südufer.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dümmer_Südufer.JPG/1920px-Dümmer_Südufer.JPG
+  Parum Kirche 2009-01-05 029.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parum_Kirche_2009-01-05_029.jpg/400px-Parum_Kirche_2009-01-05_029.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parum_Kirche_2009-01-05_029.jpg/800px-Parum_Kirche_2009-01-05_029.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parum_Kirche_2009-01-05_029.jpg/1200px-Parum_Kirche_2009-01-05_029.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parum_Kirche_2009-01-05_029.jpg/1920px-Parum_Kirche_2009-01-05_029.jpg
 ---
 
 ## Overview

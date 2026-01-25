@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten Rombergpark"
+title: Botanischer Garten Rombergpark
 date: 2026-01-23
 draft: false
-description: "Park in North Rhine-Westphalia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: Park in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.4807
 longitude: 7.4684
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-rombergpark/01-fd4cdc26-800w.webp"
-  - "/images-sites/botanischer-garten-rombergpark/02-7c7c4d89-800w.webp"
-  - "/images-sites/botanischer-garten-rombergpark/03-7e321655-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rombergpark_Herbst_Panorama_04.jpg/1200px-Rombergpark_Herbst_Panorama_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rombergpark_Herbst_Panorama_02.jpg/1200px-Rombergpark_Herbst_Panorama_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rombergpark_Herbst_Panorama_03.jpg/1200px-Rombergpark_Herbst_Panorama_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg/1200px-Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg/1200px-Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg
+image_srcset:
+  Rombergpark Herbst Panorama 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rombergpark_Herbst_Panorama_04.jpg/400px-Rombergpark_Herbst_Panorama_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rombergpark_Herbst_Panorama_04.jpg/800px-Rombergpark_Herbst_Panorama_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rombergpark_Herbst_Panorama_04.jpg/1200px-Rombergpark_Herbst_Panorama_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rombergpark_Herbst_Panorama_04.jpg/1920px-Rombergpark_Herbst_Panorama_04.jpg
+  Rombergpark Herbst Panorama 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rombergpark_Herbst_Panorama_02.jpg/400px-Rombergpark_Herbst_Panorama_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rombergpark_Herbst_Panorama_02.jpg/800px-Rombergpark_Herbst_Panorama_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rombergpark_Herbst_Panorama_02.jpg/1200px-Rombergpark_Herbst_Panorama_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rombergpark_Herbst_Panorama_02.jpg/1920px-Rombergpark_Herbst_Panorama_02.jpg
+  Rombergpark Herbst Panorama 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rombergpark_Herbst_Panorama_03.jpg/400px-Rombergpark_Herbst_Panorama_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rombergpark_Herbst_Panorama_03.jpg/800px-Rombergpark_Herbst_Panorama_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rombergpark_Herbst_Panorama_03.jpg/1200px-Rombergpark_Herbst_Panorama_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rombergpark_Herbst_Panorama_03.jpg/1920px-Rombergpark_Herbst_Panorama_03.jpg
+  Dortmund - Rombergpark - Rhododendronwald 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg/400px-Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg/800px-Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg/1200px-Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg/1920px-Dortmund_-_Rombergpark_-_Rhododendronwald_01_ies.jpg
+  Dortmund Kaki-Baum Botanischer Garten Rombergpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg/400px-Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg/800px-Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg/1200px-Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg/1920px-Dortmund_Kaki-Baum_Botanischer_Garten_Rombergpark.jpg
 ---
 
 ## Overview

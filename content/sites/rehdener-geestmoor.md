@@ -13,7 +13,7 @@ regions:
 latitude: 52.5722
 longitude: 8.50278
 images:
-  - "/images-sites/rehdener-geestmoor/01-50574ce4-800w.webp"
+  - "/images/rehdener-geestmoor/01-50574ce4-800w.webp"
 ---
 
 ## Overview

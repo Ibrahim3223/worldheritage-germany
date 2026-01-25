@@ -1,19 +1,31 @@
 ---
-title: "Artland-Arena"
+title: Artland-Arena
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6775
 longitude: 7.965
 images:
-  - "/images-sites/artland-arena/01-2b75f748-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1200px-Artland_Arena_Quakenbrück_(2008).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/O2worldALBA.jpg/1200px-O2worldALBA.jpg
+image_srcset:
+  Artland Arena Quakenbrück (2008).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/400px-Artland_Arena_Quakenbrück_(2008).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/800px-Artland_Arena_Quakenbrück_(2008).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1200px-Artland_Arena_Quakenbrück_(2008).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Artland_Arena_Quakenbrück_(2008).jpg/1920px-Artland_Arena_Quakenbrück_(2008).jpg
+  O2worldALBA.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/O2worldALBA.jpg/400px-O2worldALBA.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/O2worldALBA.jpg/800px-O2worldALBA.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/O2worldALBA.jpg/1200px-O2worldALBA.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/O2worldALBA.jpg/1920px-O2worldALBA.jpg
 ---
 
 ## Overview

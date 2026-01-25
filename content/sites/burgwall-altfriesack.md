@@ -1,19 +1,31 @@
 ---
-title: "Burgwall Altfriesack"
+title: Burgwall Altfriesack
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 52.844722222
 longitude: 12.891944444
 images:
-  - "/images-sites/burgwall-altfriesack/01-7ea90631-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgwallAltfriesack.jpg/1200px-BurgwallAltfriesack.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burgwallaltfriesack1.jpg/1200px-Burgwallaltfriesack1.jpg
+image_srcset:
+  BurgwallAltfriesack.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgwallAltfriesack.jpg/400px-BurgwallAltfriesack.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgwallAltfriesack.jpg/800px-BurgwallAltfriesack.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgwallAltfriesack.jpg/1200px-BurgwallAltfriesack.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BurgwallAltfriesack.jpg/1920px-BurgwallAltfriesack.jpg
+  Burgwallaltfriesack1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burgwallaltfriesack1.jpg/400px-Burgwallaltfriesack1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burgwallaltfriesack1.jpg/800px-Burgwallaltfriesack1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burgwallaltfriesack1.jpg/1200px-Burgwallaltfriesack1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Burgwallaltfriesack1.jpg/1920px-Burgwallaltfriesack1.jpg
 ---
 
 ## Overview

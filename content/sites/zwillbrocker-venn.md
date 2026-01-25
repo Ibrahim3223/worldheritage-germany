@@ -13,7 +13,7 @@ regions:
 latitude: 52.0453
 longitude: 6.7
 images:
-  - "/images-sites/zwillbrocker-venn/01-ce038c91-800w.webp"
+  - "/images/zwillbrocker-venn/01-ce038c91-800w.webp"
 ---
 
 ## Overview

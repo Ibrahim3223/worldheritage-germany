@@ -1,19 +1,49 @@
 ---
-title: "Großer Peetscher See"
+title: Großer Peetscher See
 date: 2026-01-23
 draft: false
-description: "lake in Dreetz, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Dreetz, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.806388888
 longitude: 11.970833333
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Peetscher_See_Ostufer2.jpg/1200px-Peetscher_See_Ostufer2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Peetscher_See_Infotafel.jpg/1200px-NSG_Peetscher_See_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fischerei_Peetscher_See.jpg/1200px-Fischerei_Peetscher_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NSG_Peetscher_See_Infotafel2.jpg/1200px-NSG_Peetscher_See_Infotafel2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fischerei_Peetscher_See2.jpg/1200px-Fischerei_Peetscher_See2.jpg
+image_srcset:
+  Peetscher See Ostufer2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Peetscher_See_Ostufer2.jpg/400px-Peetscher_See_Ostufer2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Peetscher_See_Ostufer2.jpg/800px-Peetscher_See_Ostufer2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Peetscher_See_Ostufer2.jpg/1200px-Peetscher_See_Ostufer2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Peetscher_See_Ostufer2.jpg/1920px-Peetscher_See_Ostufer2.jpg
+  NSG Peetscher See Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Peetscher_See_Infotafel.jpg/400px-NSG_Peetscher_See_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Peetscher_See_Infotafel.jpg/800px-NSG_Peetscher_See_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Peetscher_See_Infotafel.jpg/1200px-NSG_Peetscher_See_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/NSG_Peetscher_See_Infotafel.jpg/1920px-NSG_Peetscher_See_Infotafel.jpg
+  Fischerei Peetscher See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fischerei_Peetscher_See.jpg/400px-Fischerei_Peetscher_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fischerei_Peetscher_See.jpg/800px-Fischerei_Peetscher_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fischerei_Peetscher_See.jpg/1200px-Fischerei_Peetscher_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fischerei_Peetscher_See.jpg/1920px-Fischerei_Peetscher_See.jpg
+  NSG Peetscher See Infotafel2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NSG_Peetscher_See_Infotafel2.jpg/400px-NSG_Peetscher_See_Infotafel2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NSG_Peetscher_See_Infotafel2.jpg/800px-NSG_Peetscher_See_Infotafel2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NSG_Peetscher_See_Infotafel2.jpg/1200px-NSG_Peetscher_See_Infotafel2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/NSG_Peetscher_See_Infotafel2.jpg/1920px-NSG_Peetscher_See_Infotafel2.jpg
+  Fischerei Peetscher See2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fischerei_Peetscher_See2.jpg/400px-Fischerei_Peetscher_See2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fischerei_Peetscher_See2.jpg/800px-Fischerei_Peetscher_See2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fischerei_Peetscher_See2.jpg/1200px-Fischerei_Peetscher_See2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fischerei_Peetscher_See2.jpg/1920px-Fischerei_Peetscher_See2.jpg
 ---
 
 ## Overview

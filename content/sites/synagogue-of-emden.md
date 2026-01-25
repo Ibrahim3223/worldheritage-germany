@@ -13,7 +13,7 @@ regions:
 latitude: 53.3692
 longitude: 7.21167
 images:
-  - "/images-sites/synagogue-of-emden/01-0668c159-800w.webp"
+  - "/images/synagogue-of-emden/01-0668c159-800w.webp"
 ---
 
 ## Overview

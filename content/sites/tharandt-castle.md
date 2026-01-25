@@ -21,7 +21,7 @@ longitude: 13.5806
 
 # Images
 images:
-  - "/images-sites/tharandt-castle/01-c5bc78e4-800w.webp"
+  - "/images/tharandt-castle/01-c5bc78e4-800w.webp"
 ---
 
 ## Overview

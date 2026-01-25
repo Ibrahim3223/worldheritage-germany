@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1287428"
 description: "St. Katharinen, a striking example of baroque architecture, stands in the heart of Halle (Saale), Germany. This church building captures the essence of ..."
 images:
-  - "/images-sites/st-katharinen/01-33a960de-1920w.webp"
-  - "/images-sites/st-katharinen/02-81d42956-1920w.webp"
-  - "/images-sites/st-katharinen/03-ddd24f0a-1920w.webp"
+  - "/images/st-katharinen/01-33a960de-1920w.webp"
+  - "/images/st-katharinen/02-81d42956-1920w.webp"
+  - "/images/st-katharinen/03-ddd24f0a-1920w.webp"
 ---
 
 ## Overview

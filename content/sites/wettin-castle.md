@@ -21,7 +21,7 @@ longitude: 11.8106
 
 # Images
 images:
-  - "/images-sites/wettin-castle/01-46f78418-800w.webp"
+  - "/images/wettin-castle/01-46f78418-800w.webp"
 ---
 
 ## Overview

@@ -1,23 +1,44 @@
 ---
-title: "Dresden Castle"
-site_name: "Dresden Castle"
-slug: "dresden-castle"
-region: "Saxony"
-
-# Location
+title: Dresden Castle
+site_name: Dresden Castle
+slug: dresden-castle
+region: Saxony
 latitude: 51.05278055555556
 longitude: 13.736938888888888
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q167314"
-description: "Dresden Castle, an iconic palace located in the heart of Dresden, Germany, stands as a remarkable example of Renaissance Revival architecture. This hist..."
+- cultural site
+wikidata_id: Q167314
+description: Dresden Castle, an iconic palace located in the heart of Dresden, Germany,
+  stands as a remarkable example of Renaissance Revival architecture. This hist...
 images:
-  - "/images-sites/dresden-castle/01-91daf8cf-1920w.webp"
-  - "/images-sites/dresden-castle/02-83a96efc-1920w.webp"
-  - "/images-sites/dresden-castle/03-71d3a60b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1200px-DD-Schloss-gp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/1200px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden_Residenzschloss_3.jpg/1200px-Dresden_Residenzschloss_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg/1200px-00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg
+image_srcset:
+  DD-Schloss-gp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/400px-DD-Schloss-gp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/800px-DD-Schloss-gp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1200px-DD-Schloss-gp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1920px-DD-Schloss-gp.jpg
+  Dresden, Rüstkammer, Hofdegen (Dezember 2023).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/400px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/800px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/1200px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg/1920px-Dresden,_Rüstkammer,_Hofdegen_(Dezember_2023).jpg
+  Dresden Residenzschloss 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden_Residenzschloss_3.jpg/400px-Dresden_Residenzschloss_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden_Residenzschloss_3.jpg/800px-Dresden_Residenzschloss_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden_Residenzschloss_3.jpg/1200px-Dresden_Residenzschloss_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dresden_Residenzschloss_3.jpg/1920px-Dresden_Residenzschloss_3.jpg
+  00 228 Dresden - Residenzschloss Hausmannsturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg/400px-00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg/800px-00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg/1200px-00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg/1920px-00_228_Dresden_-_Residenzschloss_Hausmannsturm.jpg
 ---
 
 ## Overview

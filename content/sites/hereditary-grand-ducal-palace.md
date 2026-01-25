@@ -1,23 +1,50 @@
 ---
-title: "Hereditary Grand Ducal Palace"
-site_name: "Hereditary Grand Ducal Palace"
-slug: "hereditary-grand-ducal-palace"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Hereditary Grand Ducal Palace
+site_name: Hereditary Grand Ducal Palace
+slug: hereditary-grand-ducal-palace
+region: Rhineland-Palatinate
 latitude: 49.006111111111
 longitude: 8.3963888888889
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1348348"
-description: "The Hereditary Grand Ducal Palace in Karlsruhe, Germany, stands as a captivating example of baroque revival architecture. Built in 1891, this remarkable..."
+- cultural site
+wikidata_id: Q1348348
+description: The Hereditary Grand Ducal Palace in Karlsruhe, Germany, stands as a
+  captivating example of baroque revival architecture. Built in 1891, this remarkable...
 images:
-  - "/images-sites/hereditary-grand-ducal-palace/01-bc64519b-1920w.webp"
-  - "/images-sites/hereditary-grand-ducal-palace/02-273c848b-1920w.webp"
-  - "/images-sites/hereditary-grand-ducal-palace/03-87fec722-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg/1200px-Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1200px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg/1200px-Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg/1200px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BGH_-_Palais_2.JPG/1200px-BGH_-_Palais_2.JPG
+image_srcset:
+  Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg/400px-Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg/800px-Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg/1200px-Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg/1920px-Bundesgerichtshof%2C%20Erbgro%C3%9Fherzogliches%20Palais%20Karlsruhe%202014-03-12%20IMGP6688.jpg
+  Bundesgerichtshof, Erbgroßherzogliches Palais Karlsruhe 2014-03-12 IMGP6688.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/400px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/800px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1200px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg/1920px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6688.jpg
+  Erbgroßherzogliches Palais Karlsruhe 2014-03-12 IMGP6696.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg/400px-Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg/800px-Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg/1200px-Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg/1920px-Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6696.jpg
+  Bundesgerichtshof, Erbgroßherzogliches Palais Karlsruhe 2014-03-12 IMGP6677-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg/400px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg/800px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg/1200px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg/1920px-Bundesgerichtshof,_Erbgroßherzogliches_Palais_Karlsruhe_2014-03-12_IMGP6677-1.jpg
+  BGH - Palais 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BGH_-_Palais_2.JPG/400px-BGH_-_Palais_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BGH_-_Palais_2.JPG/800px-BGH_-_Palais_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BGH_-_Palais_2.JPG/1200px-BGH_-_Palais_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BGH_-_Palais_2.JPG/1920px-BGH_-_Palais_2.JPG
 ---
 
 ## Overview

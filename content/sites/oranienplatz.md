@@ -13,7 +13,7 @@ regions:
 latitude: 52.5022
 longitude: 13.4158
 images:
-  - "/images-sites/oranienplatz/01-1d9b54fa-800w.webp"
+  - "/images/oranienplatz/01-1d9b54fa-800w.webp"
 ---
 
 ## Overview

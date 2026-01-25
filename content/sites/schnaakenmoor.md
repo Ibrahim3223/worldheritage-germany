@@ -13,9 +13,9 @@ regions:
 latitude: 53.600833333
 longitude: 9.760555555
 images:
-  - "/images-sites/schnaakenmoor/01-4126be4c-800w.webp"
-  - "/images-sites/schnaakenmoor/02-2d48064c-800w.webp"
-  - "/images-sites/schnaakenmoor/03-c5425843-800w.webp"
+  - "/images/schnaakenmoor/01-4126be4c-800w.webp"
+  - "/images/schnaakenmoor/02-2d48064c-800w.webp"
+  - "/images/schnaakenmoor/03-c5425843-800w.webp"
 ---
 
 ## Overview

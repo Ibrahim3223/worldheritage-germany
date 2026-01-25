@@ -1,21 +1,49 @@
 ---
-title: "Herzenbergkapelle"
+title: Herzenbergkapelle
 date: 2026-01-23
 draft: false
-description: "national heritage site"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: national heritage site
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4518
 longitude: 8.04926
 images:
-  - "/images-sites/herzenbergkapelle/01-ead7197f-800w.webp"
-  - "/images-sites/herzenbergkapelle/02-62bfad1e-800w.webp"
-  - "/images-sites/herzenbergkapelle/03-6556da96-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1200px-Hadamar,_Herzenbergkapel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hadamar_Herzenberg_Eingang.JPG/1200px-Hadamar_Herzenberg_Eingang.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hadamar_Herzenberg_aussen.JPG/1200px-Hadamar_Herzenberg_aussen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hadamar_Herzenberg_Brunnen1.JPG/1200px-Hadamar_Herzenberg_Brunnen1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_auf_dem_Herzenberg.jpg/1200px-Kapelle_auf_dem_Herzenberg.jpg
+image_srcset:
+  Hadamar, Herzenbergkapel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/400px-Hadamar,_Herzenbergkapel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/800px-Hadamar,_Herzenbergkapel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1200px-Hadamar,_Herzenbergkapel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hadamar,_Herzenbergkapel.jpg/1920px-Hadamar,_Herzenbergkapel.jpg
+  Hadamar Herzenberg Eingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hadamar_Herzenberg_Eingang.JPG/400px-Hadamar_Herzenberg_Eingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hadamar_Herzenberg_Eingang.JPG/800px-Hadamar_Herzenberg_Eingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hadamar_Herzenberg_Eingang.JPG/1200px-Hadamar_Herzenberg_Eingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hadamar_Herzenberg_Eingang.JPG/1920px-Hadamar_Herzenberg_Eingang.JPG
+  Hadamar Herzenberg aussen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hadamar_Herzenberg_aussen.JPG/400px-Hadamar_Herzenberg_aussen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hadamar_Herzenberg_aussen.JPG/800px-Hadamar_Herzenberg_aussen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hadamar_Herzenberg_aussen.JPG/1200px-Hadamar_Herzenberg_aussen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hadamar_Herzenberg_aussen.JPG/1920px-Hadamar_Herzenberg_aussen.JPG
+  Hadamar Herzenberg Brunnen1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hadamar_Herzenberg_Brunnen1.JPG/400px-Hadamar_Herzenberg_Brunnen1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hadamar_Herzenberg_Brunnen1.JPG/800px-Hadamar_Herzenberg_Brunnen1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hadamar_Herzenberg_Brunnen1.JPG/1200px-Hadamar_Herzenberg_Brunnen1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hadamar_Herzenberg_Brunnen1.JPG/1920px-Hadamar_Herzenberg_Brunnen1.JPG
+  Kapelle auf dem Herzenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_auf_dem_Herzenberg.jpg/400px-Kapelle_auf_dem_Herzenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_auf_dem_Herzenberg.jpg/800px-Kapelle_auf_dem_Herzenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_auf_dem_Herzenberg.jpg/1200px-Kapelle_auf_dem_Herzenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kapelle_auf_dem_Herzenberg.jpg/1920px-Kapelle_auf_dem_Herzenberg.jpg
 ---
 
 ## Overview

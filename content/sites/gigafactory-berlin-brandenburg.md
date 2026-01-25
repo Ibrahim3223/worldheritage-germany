@@ -1,21 +1,49 @@
 ---
-title: "Gigafactory Berlin-Brandenburg"
+title: Gigafactory Berlin-Brandenburg
 date: 2026-01-23
 draft: false
-description: "Factory in Grünheide, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: Factory in Grünheide, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 52.395
 longitude: 13.79
 images:
-  - "/images-sites/gigafactory-berlin-brandenburg/01-97cc424c-800w.webp"
-  - "/images-sites/gigafactory-berlin-brandenburg/02-04f7f515-800w.webp"
-  - "/images-sites/gigafactory-berlin-brandenburg/03-4d6ccbb1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20-10-04-Tesla-Fangschleuse-RalfR.jpg/1200px-20-10-04-Tesla-Fangschleuse-RalfR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg/1200px-20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tesla_Gigafactory_4_DJI_20230728123435.JPG/1200px-Tesla_Gigafactory_4_DJI_20230728123435.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tesla_Gigafactory_4_DJI_20230728124439.JPG/1200px-Tesla_Gigafactory_4_DJI_20230728124439.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gigafactory_4,_Apr_20,_Grunheide.jpg/1200px-Gigafactory_4,_Apr_20,_Grunheide.jpg
+image_srcset:
+  20-10-04-Tesla-Fangschleuse-RalfR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20-10-04-Tesla-Fangschleuse-RalfR.jpg/400px-20-10-04-Tesla-Fangschleuse-RalfR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20-10-04-Tesla-Fangschleuse-RalfR.jpg/800px-20-10-04-Tesla-Fangschleuse-RalfR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20-10-04-Tesla-Fangschleuse-RalfR.jpg/1200px-20-10-04-Tesla-Fangschleuse-RalfR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/20-10-04-Tesla-Fangschleuse-RalfR.jpg/1920px-20-10-04-Tesla-Fangschleuse-RalfR.jpg
+  ? 20200705 xl 113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg/400px-20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg/800px-20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg/1200px-20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg/1920px-20200705_xl_113551-suedliche-zufahrt-zum-baustellengelaende-der-tesla-gigafactory-berlin-brandenburg-tesla-strasse-juli-2020.jpg
+  Tesla Gigafactory 4 DJI 20230728123435.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tesla_Gigafactory_4_DJI_20230728123435.JPG/400px-Tesla_Gigafactory_4_DJI_20230728123435.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tesla_Gigafactory_4_DJI_20230728123435.JPG/800px-Tesla_Gigafactory_4_DJI_20230728123435.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tesla_Gigafactory_4_DJI_20230728123435.JPG/1200px-Tesla_Gigafactory_4_DJI_20230728123435.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tesla_Gigafactory_4_DJI_20230728123435.JPG/1920px-Tesla_Gigafactory_4_DJI_20230728123435.JPG
+  Tesla Gigafactory 4 DJI 20230728124439.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tesla_Gigafactory_4_DJI_20230728124439.JPG/400px-Tesla_Gigafactory_4_DJI_20230728124439.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tesla_Gigafactory_4_DJI_20230728124439.JPG/800px-Tesla_Gigafactory_4_DJI_20230728124439.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tesla_Gigafactory_4_DJI_20230728124439.JPG/1200px-Tesla_Gigafactory_4_DJI_20230728124439.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tesla_Gigafactory_4_DJI_20230728124439.JPG/1920px-Tesla_Gigafactory_4_DJI_20230728124439.JPG
+  Gigafactory 4, Apr 20, Grunheide.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gigafactory_4,_Apr_20,_Grunheide.jpg/400px-Gigafactory_4,_Apr_20,_Grunheide.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gigafactory_4,_Apr_20,_Grunheide.jpg/800px-Gigafactory_4,_Apr_20,_Grunheide.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gigafactory_4,_Apr_20,_Grunheide.jpg/1200px-Gigafactory_4,_Apr_20,_Grunheide.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gigafactory_4,_Apr_20,_Grunheide.jpg/1920px-Gigafactory_4,_Apr_20,_Grunheide.jpg
 ---
 
 ## Overview

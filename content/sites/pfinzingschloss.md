@@ -13,7 +13,7 @@ regions:
 latitude: 49.375174708
 longitude: 11.211690564
 images:
-  - "/images-sites/pfinzingschloss/01-87ac8156-800w.webp"
+  - "/images/pfinzingschloss/01-87ac8156-800w.webp"
 ---
 
 ## Overview

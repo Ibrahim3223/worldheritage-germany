@@ -13,7 +13,7 @@ regions:
 latitude: 54.3945
 longitude: 13.5911
 images:
-  - "/images-sites/schmachter-see-und-fangerien/01-e83b5d03-800w.webp"
+  - "/images/schmachter-see-und-fangerien/01-e83b5d03-800w.webp"
 ---
 
 ## Overview

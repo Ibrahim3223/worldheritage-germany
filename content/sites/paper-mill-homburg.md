@@ -13,7 +13,7 @@ regions:
 latitude: 49.793823
 longitude: 9.626223
 images:
-  - "/images-sites/paper-mill-homburg/01-bc283e8b-800w.webp"
+  - "/images/paper-mill-homburg/01-bc283e8b-800w.webp"
 ---
 
 ## Overview

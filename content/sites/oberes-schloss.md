@@ -13,9 +13,9 @@ regions:
 latitude: 50.8757
 longitude: 8.03
 images:
-  - "/images-sites/oberes-schloss/01-7f1400d7-800w.webp"
-  - "/images-sites/oberes-schloss/02-7074827f-800w.webp"
-  - "/images-sites/oberes-schloss/03-c9aafb66-800w.webp"
+  - "/images/oberes-schloss/01-7f1400d7-800w.webp"
+  - "/images/oberes-schloss/02-7074827f-800w.webp"
+  - "/images/oberes-schloss/03-c9aafb66-800w.webp"
 ---
 
 ## Overview

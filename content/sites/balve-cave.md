@@ -1,29 +1,49 @@
 ---
-title: "Balve Cave"
+title: Balve Cave
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.339
 longitude: 7.872
-
-# Images
 images:
-  - "/images-sites/balve-cave/01-39652068-800w.webp"
-  - "/images-sites/balve-cave/02-516448cb-800w.webp"
-  - "/images-sites/balve-cave/03-80234fc4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Balve_Balver_Höhle_FFSN-6201.jpg/1200px-Balve_Balver_Höhle_FFSN-6201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Balve-BalverHoehle1-Asio.JPG/1200px-Balve-BalverHoehle1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Balve_höhle.jpg/1200px-Balve_höhle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balver_hoehle.jpg/1200px-Balver_hoehle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Balver_hoehle1.jpg/1200px-Balver_hoehle1.jpg
+image_srcset:
+  Balve Balver Höhle FFSN-6201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Balve_Balver_Höhle_FFSN-6201.jpg/400px-Balve_Balver_Höhle_FFSN-6201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Balve_Balver_Höhle_FFSN-6201.jpg/800px-Balve_Balver_Höhle_FFSN-6201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Balve_Balver_Höhle_FFSN-6201.jpg/1200px-Balve_Balver_Höhle_FFSN-6201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Balve_Balver_Höhle_FFSN-6201.jpg/1920px-Balve_Balver_Höhle_FFSN-6201.jpg
+  Balve-BalverHoehle1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Balve-BalverHoehle1-Asio.JPG/400px-Balve-BalverHoehle1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Balve-BalverHoehle1-Asio.JPG/800px-Balve-BalverHoehle1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Balve-BalverHoehle1-Asio.JPG/1200px-Balve-BalverHoehle1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Balve-BalverHoehle1-Asio.JPG/1920px-Balve-BalverHoehle1-Asio.JPG
+  Balve höhle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Balve_höhle.jpg/400px-Balve_höhle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Balve_höhle.jpg/800px-Balve_höhle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Balve_höhle.jpg/1200px-Balve_höhle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Balve_höhle.jpg/1920px-Balve_höhle.jpg
+  Balver hoehle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balver_hoehle.jpg/400px-Balver_hoehle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balver_hoehle.jpg/800px-Balver_hoehle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balver_hoehle.jpg/1200px-Balver_hoehle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balver_hoehle.jpg/1920px-Balver_hoehle.jpg
+  Balver hoehle1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Balver_hoehle1.jpg/400px-Balver_hoehle1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Balver_hoehle1.jpg/800px-Balver_hoehle1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Balver_hoehle1.jpg/1200px-Balver_hoehle1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Balver_hoehle1.jpg/1920px-Balver_hoehle1.jpg
 ---
 
 ## Overview

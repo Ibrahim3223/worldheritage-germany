@@ -13,7 +13,7 @@ regions:
 latitude: 52.7662
 longitude: 13.2624
 images:
-  - "/images-sites/sachsenhausen-concentration-camp/01-34c9fbb6-800w.webp"
+  - "/images/sachsenhausen-concentration-camp/01-34c9fbb6-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.569722
 longitude: 9.240556
 images:
-  - "/images-sites/orgelmuseum-borgentreich/01-fdea86ca-800w.webp"
+  - "/images/orgelmuseum-borgentreich/01-fdea86ca-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "All Saints' Abbey"
+title: All Saints' Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5373
 longitude: 8.19413
 images:
-  - "/images-sites/all-saints-abbey/01-1b202298-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kloster_Allerheiligen_-_Oppenau_05.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kloster_Allerheiligen_-_Oppenau_03.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kloster_Allerheiligen_-_Oppenau_02.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Allerheiligen_-_Oppenau_06.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Allerheiligen_Klosterruine.jpg/1200px-Allerheiligen_Klosterruine.jpg
+image_srcset:
+  Kloster Allerheiligen - Oppenau 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kloster_Allerheiligen_-_Oppenau_05.jpg/400px-Kloster_Allerheiligen_-_Oppenau_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kloster_Allerheiligen_-_Oppenau_05.jpg/800px-Kloster_Allerheiligen_-_Oppenau_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kloster_Allerheiligen_-_Oppenau_05.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kloster_Allerheiligen_-_Oppenau_05.jpg/1920px-Kloster_Allerheiligen_-_Oppenau_05.jpg
+  Kloster Allerheiligen - Oppenau 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kloster_Allerheiligen_-_Oppenau_03.jpg/400px-Kloster_Allerheiligen_-_Oppenau_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kloster_Allerheiligen_-_Oppenau_03.jpg/800px-Kloster_Allerheiligen_-_Oppenau_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kloster_Allerheiligen_-_Oppenau_03.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kloster_Allerheiligen_-_Oppenau_03.jpg/1920px-Kloster_Allerheiligen_-_Oppenau_03.jpg
+  Kloster Allerheiligen - Oppenau 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kloster_Allerheiligen_-_Oppenau_02.jpg/400px-Kloster_Allerheiligen_-_Oppenau_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kloster_Allerheiligen_-_Oppenau_02.jpg/800px-Kloster_Allerheiligen_-_Oppenau_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kloster_Allerheiligen_-_Oppenau_02.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kloster_Allerheiligen_-_Oppenau_02.jpg/1920px-Kloster_Allerheiligen_-_Oppenau_02.jpg
+  Kloster Allerheiligen - Oppenau 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Allerheiligen_-_Oppenau_06.jpg/400px-Kloster_Allerheiligen_-_Oppenau_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Allerheiligen_-_Oppenau_06.jpg/800px-Kloster_Allerheiligen_-_Oppenau_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Allerheiligen_-_Oppenau_06.jpg/1200px-Kloster_Allerheiligen_-_Oppenau_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kloster_Allerheiligen_-_Oppenau_06.jpg/1920px-Kloster_Allerheiligen_-_Oppenau_06.jpg
+  Allerheiligen Klosterruine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Allerheiligen_Klosterruine.jpg/400px-Allerheiligen_Klosterruine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Allerheiligen_Klosterruine.jpg/800px-Allerheiligen_Klosterruine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Allerheiligen_Klosterruine.jpg/1200px-Allerheiligen_Klosterruine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Allerheiligen_Klosterruine.jpg/1920px-Allerheiligen_Klosterruine.jpg
 ---
 
 ## Overview

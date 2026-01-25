@@ -21,8 +21,8 @@ longitude: 11.288640385
 
 # Images
 images:
-  - "/images-sites/kemenate/02-d1b993d8-800w.webp"
-  - "/images-sites/kemenate/03-027b0339-800w.webp"
+  - "/images/kemenate/02-d1b993d8-800w.webp"
+  - "/images/kemenate/03-027b0339-800w.webp"
 ---
 
 ## Overview

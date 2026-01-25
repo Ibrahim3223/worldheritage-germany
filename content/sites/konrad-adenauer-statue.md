@@ -13,7 +13,7 @@ regions:
 latitude: 52.5004448
 longitude: 13.307244
 images:
-  - "/images-sites/konrad-adenauer-statue/01-eb5ff677-800w.webp"
+  - "/images/konrad-adenauer-statue/01-eb5ff677-800w.webp"
 ---
 
 ## Overview

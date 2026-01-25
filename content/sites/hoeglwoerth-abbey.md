@@ -1,19 +1,49 @@
 ---
-title: "Höglwörth Abbey"
+title: Höglwörth Abbey
 date: 2026-01-23
 draft: false
-description: "building in Anger, Bavaria,Upper Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: building in Anger, Bavaria,Upper Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 47.815
 longitude: 12.8453
 images:
-  - "/images-sites/hoeglwoerth-abbey/01-ee83b13f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/1200px-Höglwörth04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Höglwörth.jpg/1200px-Höglwörth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Höglwörth01.jpg/1200px-Höglwörth01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Höglwörth_Orgel.jpg/1200px-Höglwörth_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Höglwörth_Stiftskirche_Empore.jpg/1200px-Höglwörth_Stiftskirche_Empore.jpg
+image_srcset:
+  Höglwörth04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/400px-Höglwörth04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/800px-Höglwörth04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/1200px-Höglwörth04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Höglwörth04.jpg/1920px-Höglwörth04.jpg
+  Höglwörth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Höglwörth.jpg/400px-Höglwörth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Höglwörth.jpg/800px-Höglwörth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Höglwörth.jpg/1200px-Höglwörth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Höglwörth.jpg/1920px-Höglwörth.jpg
+  Höglwörth01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Höglwörth01.jpg/400px-Höglwörth01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Höglwörth01.jpg/800px-Höglwörth01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Höglwörth01.jpg/1200px-Höglwörth01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Höglwörth01.jpg/1920px-Höglwörth01.jpg
+  Höglwörth Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Höglwörth_Orgel.jpg/400px-Höglwörth_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Höglwörth_Orgel.jpg/800px-Höglwörth_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Höglwörth_Orgel.jpg/1200px-Höglwörth_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Höglwörth_Orgel.jpg/1920px-Höglwörth_Orgel.jpg
+  Höglwörth Stiftskirche Empore.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Höglwörth_Stiftskirche_Empore.jpg/400px-Höglwörth_Stiftskirche_Empore.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Höglwörth_Stiftskirche_Empore.jpg/800px-Höglwörth_Stiftskirche_Empore.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Höglwörth_Stiftskirche_Empore.jpg/1200px-Höglwörth_Stiftskirche_Empore.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Höglwörth_Stiftskirche_Empore.jpg/1920px-Höglwörth_Stiftskirche_Empore.jpg
 ---
 
 ## Overview

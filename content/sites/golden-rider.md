@@ -1,19 +1,49 @@
 ---
-title: "Golden Rider"
+title: Golden Rider
 date: 2026-01-23
 draft: false
-description: "equestrian statue in Dresden"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: equestrian statue in Dresden
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.058114
 longitude: 13.741347
 images:
-  - "/images-sites/golden-rider/01-8b36abb3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_Germany_Golden-Rider-02.jpg/1200px-Dresden_Germany_Golden-Rider-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dresden_Germany_Golden-Rider-01.jpg/1200px-Dresden_Germany_Golden-Rider-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dresden_Germany_Golden-Rider-03.jpg/1200px-Dresden_Germany_Golden-Rider-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/1200px-Dresden_Germany_Golden-Rider-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1200px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
+image_srcset:
+  Dresden Germany Golden-Rider-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_Germany_Golden-Rider-02.jpg/400px-Dresden_Germany_Golden-Rider-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_Germany_Golden-Rider-02.jpg/800px-Dresden_Germany_Golden-Rider-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_Germany_Golden-Rider-02.jpg/1200px-Dresden_Germany_Golden-Rider-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dresden_Germany_Golden-Rider-02.jpg/1920px-Dresden_Germany_Golden-Rider-02.jpg
+  Dresden Germany Golden-Rider-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dresden_Germany_Golden-Rider-01.jpg/400px-Dresden_Germany_Golden-Rider-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dresden_Germany_Golden-Rider-01.jpg/800px-Dresden_Germany_Golden-Rider-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dresden_Germany_Golden-Rider-01.jpg/1200px-Dresden_Germany_Golden-Rider-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dresden_Germany_Golden-Rider-01.jpg/1920px-Dresden_Germany_Golden-Rider-01.jpg
+  Dresden Germany Golden-Rider-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dresden_Germany_Golden-Rider-03.jpg/400px-Dresden_Germany_Golden-Rider-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dresden_Germany_Golden-Rider-03.jpg/800px-Dresden_Germany_Golden-Rider-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dresden_Germany_Golden-Rider-03.jpg/1200px-Dresden_Germany_Golden-Rider-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dresden_Germany_Golden-Rider-03.jpg/1920px-Dresden_Germany_Golden-Rider-03.jpg
+  Dresden Germany Golden-Rider-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/400px-Dresden_Germany_Golden-Rider-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/800px-Dresden_Germany_Golden-Rider-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/1200px-Dresden_Germany_Golden-Rider-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dresden_Germany_Golden-Rider-04.jpg/1920px-Dresden_Germany_Golden-Rider-04.jpg
+  00 294 Dresden - Reiterstandbild August der Starke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/400px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/800px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1200px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg/1920px-00_294_Dresden_-_Reiterstandbild_August_der_Starke.jpg
 ---
 
 ## Overview

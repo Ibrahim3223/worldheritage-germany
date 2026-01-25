@@ -1,27 +1,49 @@
 ---
-title: "Burg Wernerseck"
+title: Burg Wernerseck
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.3724
 longitude: 7.37808
-
-# Images
 images:
-  - "/images-sites/burg-wernerseck/01-1ea36c51-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ruine_Wernerseck,_Torseite.jpg/1200px-Ruine_Wernerseck,_Torseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Wernerseck_024x.jpg/1200px-Burg_Wernerseck_024x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Wernerseck_033x.jpg/1200px-Burg_Wernerseck_033x.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg/1200px-Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Wernerseck2.jpg/1200px-Burg_Wernerseck2.jpg
+image_srcset:
+  Ruine Wernerseck, Torseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ruine_Wernerseck,_Torseite.jpg/400px-Ruine_Wernerseck,_Torseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ruine_Wernerseck,_Torseite.jpg/800px-Ruine_Wernerseck,_Torseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ruine_Wernerseck,_Torseite.jpg/1200px-Ruine_Wernerseck,_Torseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ruine_Wernerseck,_Torseite.jpg/1920px-Ruine_Wernerseck,_Torseite.jpg
+  Burg Wernerseck 024x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Wernerseck_024x.jpg/400px-Burg_Wernerseck_024x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Wernerseck_024x.jpg/800px-Burg_Wernerseck_024x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Wernerseck_024x.jpg/1200px-Burg_Wernerseck_024x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Burg_Wernerseck_024x.jpg/1920px-Burg_Wernerseck_024x.jpg
+  Burg Wernerseck 033x.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Wernerseck_033x.jpg/400px-Burg_Wernerseck_033x.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Wernerseck_033x.jpg/800px-Burg_Wernerseck_033x.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Wernerseck_033x.jpg/1200px-Burg_Wernerseck_033x.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Burg_Wernerseck_033x.jpg/1920px-Burg_Wernerseck_033x.jpg
+  Burgruine Wernerseck (aus Richtung Nettetal).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg/400px-Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg/800px-Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg/1200px-Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg/1920px-Burgruine_Wernerseck_(aus_Richtung_Nettetal).jpg
+  Burg Wernerseck2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Wernerseck2.jpg/400px-Burg_Wernerseck2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Wernerseck2.jpg/800px-Burg_Wernerseck2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Wernerseck2.jpg/1200px-Burg_Wernerseck2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Burg_Wernerseck2.jpg/1920px-Burg_Wernerseck2.jpg
 ---
 
 ## Overview

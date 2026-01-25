@@ -1,27 +1,49 @@
 ---
-title: "Burg Castle"
+title: Burg Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Solingen, NRW, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Solingen, NRW, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.137608333
 longitude: 7.152777777
-
-# Images
 images:
-  []
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Niesten_Burgstall-20210629-RM-172042.jpg/1200px-Niesten_Burgstall-20210629-RM-172042.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tretzendorf_Burgstall-20200530-RM-170714.jpg/1200px-Tretzendorf_Burgstall-20200530-RM-170714.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nankendorf_Burgstall-20210725-RM-170055.jpg/1200px-Nankendorf_Burgstall-20210725-RM-170055.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ketterburg_Burggraben_02.jpg/1200px-Ketterburg_Burggraben_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burgstall_Gretenstein,_Graben_4924.png/1200px-Burgstall_Gretenstein,_Graben_4924.png
+image_srcset:
+  Niesten Burgstall-20210629-RM-172042.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Niesten_Burgstall-20210629-RM-172042.jpg/400px-Niesten_Burgstall-20210629-RM-172042.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Niesten_Burgstall-20210629-RM-172042.jpg/800px-Niesten_Burgstall-20210629-RM-172042.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Niesten_Burgstall-20210629-RM-172042.jpg/1200px-Niesten_Burgstall-20210629-RM-172042.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Niesten_Burgstall-20210629-RM-172042.jpg/1920px-Niesten_Burgstall-20210629-RM-172042.jpg
+  Tretzendorf Burgstall-20200530-RM-170714.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tretzendorf_Burgstall-20200530-RM-170714.jpg/400px-Tretzendorf_Burgstall-20200530-RM-170714.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tretzendorf_Burgstall-20200530-RM-170714.jpg/800px-Tretzendorf_Burgstall-20200530-RM-170714.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tretzendorf_Burgstall-20200530-RM-170714.jpg/1200px-Tretzendorf_Burgstall-20200530-RM-170714.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tretzendorf_Burgstall-20200530-RM-170714.jpg/1920px-Tretzendorf_Burgstall-20200530-RM-170714.jpg
+  Nankendorf Burgstall-20210725-RM-170055.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nankendorf_Burgstall-20210725-RM-170055.jpg/400px-Nankendorf_Burgstall-20210725-RM-170055.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nankendorf_Burgstall-20210725-RM-170055.jpg/800px-Nankendorf_Burgstall-20210725-RM-170055.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nankendorf_Burgstall-20210725-RM-170055.jpg/1200px-Nankendorf_Burgstall-20210725-RM-170055.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nankendorf_Burgstall-20210725-RM-170055.jpg/1920px-Nankendorf_Burgstall-20210725-RM-170055.jpg
+  Ketterburg Burggraben 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ketterburg_Burggraben_02.jpg/400px-Ketterburg_Burggraben_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ketterburg_Burggraben_02.jpg/800px-Ketterburg_Burggraben_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ketterburg_Burggraben_02.jpg/1200px-Ketterburg_Burggraben_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ketterburg_Burggraben_02.jpg/1920px-Ketterburg_Burggraben_02.jpg
+  Burgstall Gretenstein, Graben 4924.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burgstall_Gretenstein,_Graben_4924.png/400px-Burgstall_Gretenstein,_Graben_4924.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burgstall_Gretenstein,_Graben_4924.png/800px-Burgstall_Gretenstein,_Graben_4924.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burgstall_Gretenstein,_Graben_4924.png/1200px-Burgstall_Gretenstein,_Graben_4924.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Burgstall_Gretenstein,_Graben_4924.png/1920px-Burgstall_Gretenstein,_Graben_4924.png
 ---
 
 ## Overview

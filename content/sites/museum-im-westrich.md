@@ -13,7 +13,7 @@ regions:
 latitude: 49.447508
 longitude: 7.556477
 images:
-  - "/images-sites/museum-im-westrich/01-84018dbe-800w.webp"
+  - "/images/museum-im-westrich/01-84018dbe-800w.webp"
 ---
 
 ## Overview

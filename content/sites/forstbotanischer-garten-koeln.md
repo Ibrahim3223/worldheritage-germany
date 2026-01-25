@@ -1,27 +1,49 @@
 ---
-title: "Forstbotanischer Garten Köln"
+title: Forstbotanischer Garten Köln
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.885
 longitude: 6.97944
-
-# Images
 images:
-  - "/images-sites/forstbotanischer-garten-koeln/01-776cfdf5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Forstbotanischergarten_(14189414667).jpg/1200px-Forstbotanischergarten_(14189414667).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1200px-Forstbot_garten_koeln-1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pfau_im_Forstbotanischen_Garten_Köln.jpg/1200px-Pfau_im_Forstbotanischen_Garten_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Magnolia_kobus,Forstbot._Garten,_Köln.jpg/1200px-Magnolia_kobus,Forstbot._Garten,_Köln.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg/1200px-Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg
+image_srcset:
+  Forstbotanischergarten (14189414667).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Forstbotanischergarten_(14189414667).jpg/400px-Forstbotanischergarten_(14189414667).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Forstbotanischergarten_(14189414667).jpg/800px-Forstbotanischergarten_(14189414667).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Forstbotanischergarten_(14189414667).jpg/1200px-Forstbotanischergarten_(14189414667).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Forstbotanischergarten_(14189414667).jpg/1920px-Forstbotanischergarten_(14189414667).jpg
+  Forstbot garten koeln-1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/400px-Forstbot_garten_koeln-1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/800px-Forstbot_garten_koeln-1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1200px-Forstbot_garten_koeln-1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Forstbot_garten_koeln-1.JPG/1920px-Forstbot_garten_koeln-1.JPG
+  Pfau im Forstbotanischen Garten Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pfau_im_Forstbotanischen_Garten_Köln.jpg/400px-Pfau_im_Forstbotanischen_Garten_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pfau_im_Forstbotanischen_Garten_Köln.jpg/800px-Pfau_im_Forstbotanischen_Garten_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pfau_im_Forstbotanischen_Garten_Köln.jpg/1200px-Pfau_im_Forstbotanischen_Garten_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pfau_im_Forstbotanischen_Garten_Köln.jpg/1920px-Pfau_im_Forstbotanischen_Garten_Köln.jpg
+  Magnolia kobus,Forstbot. Garten, Köln.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Magnolia_kobus,Forstbot._Garten,_Köln.jpg/400px-Magnolia_kobus,Forstbot._Garten,_Köln.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Magnolia_kobus,Forstbot._Garten,_Köln.jpg/800px-Magnolia_kobus,Forstbot._Garten,_Köln.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Magnolia_kobus,Forstbot._Garten,_Köln.jpg/1200px-Magnolia_kobus,Forstbot._Garten,_Köln.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Magnolia_kobus,Forstbot._Garten,_Köln.jpg/1920px-Magnolia_kobus,Forstbot._Garten,_Köln.jpg
+  Forstbotanischer Garten Rodenkirchen 823 Gh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg/400px-Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg/800px-Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg/1200px-Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg/1920px-Forstbotanischer_Garten_Rodenkirchen_823_Gh.jpg
 ---
 
 ## Overview

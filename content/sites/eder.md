@@ -1,19 +1,49 @@
 ---
-title: "Eder"
+title: Eder
 date: 2026-01-23
 draft: false
-description: "nature reserve in Bad Berleburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Bad Berleburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.022065
 longitude: 8.420731111
 images:
-  - "/images-sites/eder/01-948fa367-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Edermündung_schräg_von_oben.jpg/1200px-Edermündung_schräg_von_oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edermündung_senkrecht_von_oben.jpg/1200px-Edermündung_senkrecht_von_oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Edermündung_von_oben.jpg/1200px-Edermündung_von_oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Radweg_Eder_Felsberg.JPG/1200px-Radweg_Eder_Felsberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png/1200px-Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png
+image_srcset:
+  Edermündung schräg von oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Edermündung_schräg_von_oben.jpg/400px-Edermündung_schräg_von_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Edermündung_schräg_von_oben.jpg/800px-Edermündung_schräg_von_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Edermündung_schräg_von_oben.jpg/1200px-Edermündung_schräg_von_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Edermündung_schräg_von_oben.jpg/1920px-Edermündung_schräg_von_oben.jpg
+  Edermündung senkrecht von oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edermündung_senkrecht_von_oben.jpg/400px-Edermündung_senkrecht_von_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edermündung_senkrecht_von_oben.jpg/800px-Edermündung_senkrecht_von_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edermündung_senkrecht_von_oben.jpg/1200px-Edermündung_senkrecht_von_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edermündung_senkrecht_von_oben.jpg/1920px-Edermündung_senkrecht_von_oben.jpg
+  Edermündung von oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Edermündung_von_oben.jpg/400px-Edermündung_von_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Edermündung_von_oben.jpg/800px-Edermündung_von_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Edermündung_von_oben.jpg/1200px-Edermündung_von_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Edermündung_von_oben.jpg/1920px-Edermündung_von_oben.jpg
+  Radweg Eder Felsberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Radweg_Eder_Felsberg.JPG/400px-Radweg_Eder_Felsberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Radweg_Eder_Felsberg.JPG/800px-Radweg_Eder_Felsberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Radweg_Eder_Felsberg.JPG/1200px-Radweg_Eder_Felsberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Radweg_Eder_Felsberg.JPG/1920px-Radweg_Eder_Felsberg.JPG
+  Anna Ederova na Štavnici a na Sovinci (cca 1600).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png/400px-Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png/800px-Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png/1200px-Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png/1920px-Anna_Ederova_na_Štavnici_a_na_Sovinci_(cca_1600).png
 ---
 
 ## Overview

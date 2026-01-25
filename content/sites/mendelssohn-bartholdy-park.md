@@ -13,9 +13,9 @@ regions:
 latitude: 52.5029
 longitude: 13.3766
 images:
-  - "/images-sites/mendelssohn-bartholdy-park/01-e3a91786-800w.webp"
-  - "/images-sites/mendelssohn-bartholdy-park/02-ac86dd17-800w.webp"
-  - "/images-sites/mendelssohn-bartholdy-park/03-68deeb1a-800w.webp"
+  - "/images/mendelssohn-bartholdy-park/01-e3a91786-800w.webp"
+  - "/images/mendelssohn-bartholdy-park/02-ac86dd17-800w.webp"
+  - "/images/mendelssohn-bartholdy-park/03-68deeb1a-800w.webp"
 ---
 
 ## Overview

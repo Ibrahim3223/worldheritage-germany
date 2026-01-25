@@ -21,7 +21,7 @@ longitude: 12.0642
 
 # Images
 images:
-  - "/images-sites/otto-dix-haus/01-9d2fe31a-800w.webp"
+  - "/images/otto-dix-haus/01-9d2fe31a-800w.webp"
 ---
 
 ## Overview

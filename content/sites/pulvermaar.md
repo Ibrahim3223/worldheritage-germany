@@ -13,9 +13,9 @@ regions:
 latitude: 50.1311
 longitude: 6.92611
 images:
-  - "/images-sites/pulvermaar/01-990bd295-800w.webp"
-  - "/images-sites/pulvermaar/02-3ead903b-800w.webp"
-  - "/images-sites/pulvermaar/03-7a67f8ec-800w.webp"
+  - "/images/pulvermaar/01-990bd295-800w.webp"
+  - "/images/pulvermaar/02-3ead903b-800w.webp"
+  - "/images/pulvermaar/03-7a67f8ec-800w.webp"
 ---
 
 ## Overview

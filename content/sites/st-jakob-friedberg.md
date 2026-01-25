@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2318882"
 description: "St. Jakob in Friedberg is an architectural marvel that rises 75 meters into the Bavarian sky, showcasing the beauty of Romanesque Revival architecture. ..."
 images:
-  - "/images-sites/st-jakob-friedberg/01-c4e4fdcf-1920w.webp"
-  - "/images-sites/st-jakob-friedberg/02-a1aea93a-1920w.webp"
-  - "/images-sites/st-jakob-friedberg/03-fceca450-1920w.webp"
+  - "/images/st-jakob-friedberg/01-c4e4fdcf-1920w.webp"
+  - "/images/st-jakob-friedberg/02-a1aea93a-1920w.webp"
+  - "/images/st-jakob-friedberg/03-fceca450-1920w.webp"
 ---
 
 ## Overview

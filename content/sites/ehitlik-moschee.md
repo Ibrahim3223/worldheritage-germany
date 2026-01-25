@@ -1,20 +1,49 @@
 ---
-title: "Şehitlik-Moschee"
+title: Şehitlik-Moschee
 date: 2026-01-23
 draft: false
-description: "mosque in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: mosque in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 52.48138889
 longitude: 13.40972222
 images:
-  - "/images-sites/ehitlik-moschee/02-43a049e4-800w.webp"
-  - "/images-sites/ehitlik-moschee/03-4baf02c6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turk_Sehitlik_Camii_12.jpg/1200px-Turk_Sehitlik_Camii_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Şehitlik_mosque_Berlin_by_ZUFAr.jpg/1200px-Şehitlik_mosque_Berlin_by_ZUFAr.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sehitlik-Moschee_in_Berlin,_2012.jpg/1200px-Sehitlik-Moschee_in_Berlin,_2012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin_-_Şehitlik_Moschee_-_5.jpg/1200px-Berlin_-_Şehitlik_Moschee_-_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1200px-Sehitlik1_Moschee_Berlin.JPG
+image_srcset:
+  Turk Sehitlik Camii 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turk_Sehitlik_Camii_12.jpg/400px-Turk_Sehitlik_Camii_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turk_Sehitlik_Camii_12.jpg/800px-Turk_Sehitlik_Camii_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turk_Sehitlik_Camii_12.jpg/1200px-Turk_Sehitlik_Camii_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turk_Sehitlik_Camii_12.jpg/1920px-Turk_Sehitlik_Camii_12.jpg
+  Şehitlik mosque Berlin by ZUFAr.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Şehitlik_mosque_Berlin_by_ZUFAr.jpg/400px-Şehitlik_mosque_Berlin_by_ZUFAr.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Şehitlik_mosque_Berlin_by_ZUFAr.jpg/800px-Şehitlik_mosque_Berlin_by_ZUFAr.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Şehitlik_mosque_Berlin_by_ZUFAr.jpg/1200px-Şehitlik_mosque_Berlin_by_ZUFAr.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Şehitlik_mosque_Berlin_by_ZUFAr.jpg/1920px-Şehitlik_mosque_Berlin_by_ZUFAr.jpg
+  Sehitlik-Moschee in Berlin, 2012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sehitlik-Moschee_in_Berlin,_2012.jpg/400px-Sehitlik-Moschee_in_Berlin,_2012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sehitlik-Moschee_in_Berlin,_2012.jpg/800px-Sehitlik-Moschee_in_Berlin,_2012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sehitlik-Moschee_in_Berlin,_2012.jpg/1200px-Sehitlik-Moschee_in_Berlin,_2012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sehitlik-Moschee_in_Berlin,_2012.jpg/1920px-Sehitlik-Moschee_in_Berlin,_2012.jpg
+  Berlin - Şehitlik Moschee - 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin_-_Şehitlik_Moschee_-_5.jpg/400px-Berlin_-_Şehitlik_Moschee_-_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin_-_Şehitlik_Moschee_-_5.jpg/800px-Berlin_-_Şehitlik_Moschee_-_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin_-_Şehitlik_Moschee_-_5.jpg/1200px-Berlin_-_Şehitlik_Moschee_-_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Berlin_-_Şehitlik_Moschee_-_5.jpg/1920px-Berlin_-_Şehitlik_Moschee_-_5.jpg
+  Sehitlik1 Moschee Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/400px-Sehitlik1_Moschee_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/800px-Sehitlik1_Moschee_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1200px-Sehitlik1_Moschee_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sehitlik1_Moschee_Berlin.JPG/1920px-Sehitlik1_Moschee_Berlin.JPG
 ---
 
 ## Overview

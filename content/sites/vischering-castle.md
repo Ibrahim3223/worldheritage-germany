@@ -21,7 +21,7 @@ longitude: 7.44306
 
 # Images
 images:
-  - "/images-sites/vischering-castle/01-d1be4776-800w.webp"
+  - "/images/vischering-castle/01-d1be4776-800w.webp"
 ---
 
 ## Overview

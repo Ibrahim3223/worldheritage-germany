@@ -13,7 +13,7 @@ regions:
 latitude: 47.666338888
 longitude: 11.795775
 images:
-  - "/images-sites/wallberg/01-89c9c7dc-800w.webp"
+  - "/images/wallberg/01-89c9c7dc-800w.webp"
 ---
 
 ## Overview

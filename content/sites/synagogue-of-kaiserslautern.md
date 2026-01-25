@@ -13,7 +13,7 @@ regions:
 latitude: 49.4444
 longitude: 7.77448
 images:
-  - "/images-sites/synagogue-of-kaiserslautern/01-e3f1a1c9-800w.webp"
+  - "/images/synagogue-of-kaiserslautern/01-e3f1a1c9-800w.webp"
 ---
 
 ## Overview

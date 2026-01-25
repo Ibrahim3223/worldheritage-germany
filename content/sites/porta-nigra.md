@@ -13,7 +13,7 @@ regions:
 latitude: 49.759722222
 longitude: 6.643888888
 images:
-  - "/images-sites/porta-nigra/01-efd8d6ae-800w.webp"
+  - "/images/porta-nigra/01-efd8d6ae-800w.webp"
 ---
 
 ## Overview

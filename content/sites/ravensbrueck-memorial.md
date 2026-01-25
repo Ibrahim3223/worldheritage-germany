@@ -13,8 +13,8 @@ regions:
 latitude: 53.189594
 longitude: 13.164355
 images:
-  - "/images-sites/ravensbrueck-memorial/02-858036ca-800w.webp"
-  - "/images-sites/ravensbrueck-memorial/03-93c0a3f4-800w.webp"
+  - "/images/ravensbrueck-memorial/02-858036ca-800w.webp"
+  - "/images/ravensbrueck-memorial/03-93c0a3f4-800w.webp"
 ---
 
 ## Overview

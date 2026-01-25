@@ -13,7 +13,7 @@ regions:
 latitude: 48.695881
 longitude: 8.138329
 images:
-  - "/images-sites/synagoge-buehl/01-af3b1d58-800w.webp"
+  - "/images/synagoge-buehl/01-af3b1d58-800w.webp"
 ---
 
 ## Overview

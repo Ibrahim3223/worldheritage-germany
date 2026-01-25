@@ -1,27 +1,49 @@
 ---
-title: "Burg Kipfenberg"
+title: Burg Kipfenberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.948972222
 longitude: 11.396833333
-
-# Images
 images:
-  - "/images-sites/burg-kipfenberg/01-edb6f23f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grösdorf_West.jpg/1200px-Grösdorf_West.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg/1200px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg/1200px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg/1200px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1200px-Burg_Kipfenberg_im_Herbst.jpg
+image_srcset:
+  Grösdorf West.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grösdorf_West.jpg/400px-Grösdorf_West.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grösdorf_West.jpg/800px-Grösdorf_West.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grösdorf_West.jpg/1200px-Grösdorf_West.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grösdorf_West.jpg/1920px-Grösdorf_West.jpg
+  Burg Kipfenberg seen from the windows of the Römer und Bajuwaren Museum, April 2024 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg/400px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg/800px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg/1200px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg/1920px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_01.jpg
+  Burg Kipfenberg seen from the windows of the Römer und Bajuwaren Museum, April 2024 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg/400px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg/800px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg/1200px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg/1920px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_02.jpg
+  Burg Kipfenberg seen from the windows of the Römer und Bajuwaren Museum, April 2024 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg/400px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg/800px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg/1200px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg/1920px-Burg_Kipfenberg_seen_from_the_windows_of_the_Römer_und_Bajuwaren_Museum,_April_2024_03.jpg
+  Burg Kipfenberg im Herbst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/400px-Burg_Kipfenberg_im_Herbst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/800px-Burg_Kipfenberg_im_Herbst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1200px-Burg_Kipfenberg_im_Herbst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Burg_Kipfenberg_im_Herbst.jpg/1920px-Burg_Kipfenberg_im_Herbst.jpg
 ---
 
 ## Overview

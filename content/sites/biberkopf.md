@@ -1,19 +1,50 @@
 ---
-title: "Biberkopf"
+title: Biberkopf
 date: 2026-01-23
 draft: false
-description: "mountain in the Allgäu Alps at the border of Tyrol, Austria and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in the Allgäu Alps at the border of Tyrol, Austria and Bavaria,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.270527777
 longitude: 10.232361111
 images:
-  - "/images-sites/biberkopf/01-9c0c3dbb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Koblat_Pass_with_view_towards_Biberkopf.jpg/1200px-Koblat_Pass_with_view_towards_Biberkopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20250831_113414_HDR.jpg/1200px-20250831_113414_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20250906_140302_HDR.jpg/1200px-20250906_140302_HDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biberkopf1.jpg/1200px-Biberkopf1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oberlech2.JPG/1200px-Oberlech2.JPG
+image_srcset:
+  Koblat Pass with view towards Biberkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Koblat_Pass_with_view_towards_Biberkopf.jpg/400px-Koblat_Pass_with_view_towards_Biberkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Koblat_Pass_with_view_towards_Biberkopf.jpg/800px-Koblat_Pass_with_view_towards_Biberkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Koblat_Pass_with_view_towards_Biberkopf.jpg/1200px-Koblat_Pass_with_view_towards_Biberkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Koblat_Pass_with_view_towards_Biberkopf.jpg/1920px-Koblat_Pass_with_view_towards_Biberkopf.jpg
+  20250831 113414 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20250831_113414_HDR.jpg/400px-20250831_113414_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20250831_113414_HDR.jpg/800px-20250831_113414_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20250831_113414_HDR.jpg/1200px-20250831_113414_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/20250831_113414_HDR.jpg/1920px-20250831_113414_HDR.jpg
+  20250906 140302 HDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20250906_140302_HDR.jpg/400px-20250906_140302_HDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20250906_140302_HDR.jpg/800px-20250906_140302_HDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20250906_140302_HDR.jpg/1200px-20250906_140302_HDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20250906_140302_HDR.jpg/1920px-20250906_140302_HDR.jpg
+  Biberkopf1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biberkopf1.jpg/400px-Biberkopf1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biberkopf1.jpg/800px-Biberkopf1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biberkopf1.jpg/1200px-Biberkopf1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biberkopf1.jpg/1920px-Biberkopf1.jpg
+  Oberlech2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oberlech2.JPG/400px-Oberlech2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oberlech2.JPG/800px-Oberlech2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oberlech2.JPG/1200px-Oberlech2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oberlech2.JPG/1920px-Oberlech2.JPG
 ---
 
 ## Overview

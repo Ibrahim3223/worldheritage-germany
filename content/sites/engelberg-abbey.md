@@ -1,21 +1,49 @@
 ---
-title: "Engelberg Abbey"
+title: Engelberg Abbey
 date: 2026-01-23
 draft: false
-description: "human settlement"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.7239
 longitude: 9.23194
 images:
-  - "/images-sites/engelberg-abbey/01-37352ecb-800w.webp"
-  - "/images-sites/engelberg-abbey/02-0eabeb72-800w.webp"
-  - "/images-sites/engelberg-abbey/03-58d455f5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg/1200px-.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/.00_1970_Kloster_Engelberg_-_Hahnen.jpg/1200px-.00_1970_Kloster_Engelberg_-_Hahnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00_0595_Engelberg_mit_Klosteranlage.jpg/1200px-00_0595_Engelberg_mit_Klosteranlage.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg/1200px-00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EngelbergKloster01.jpg/1200px-EngelbergKloster01.jpg
+image_srcset:
+  .0 0329 Klosterkirche Engelberg (Schweiz), Altarraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg/400px-.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg/800px-.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg/1200px-.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg/1920px-.0_0329_Klosterkirche_Engelberg_(Schweiz),_Altarraum.jpg
+  .00 1970 Kloster Engelberg - Hahnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/.00_1970_Kloster_Engelberg_-_Hahnen.jpg/400px-.00_1970_Kloster_Engelberg_-_Hahnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/.00_1970_Kloster_Engelberg_-_Hahnen.jpg/800px-.00_1970_Kloster_Engelberg_-_Hahnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/.00_1970_Kloster_Engelberg_-_Hahnen.jpg/1200px-.00_1970_Kloster_Engelberg_-_Hahnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/.00_1970_Kloster_Engelberg_-_Hahnen.jpg/1920px-.00_1970_Kloster_Engelberg_-_Hahnen.jpg
+  00 0595 Engelberg mit Klosteranlage.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00_0595_Engelberg_mit_Klosteranlage.jpg/400px-00_0595_Engelberg_mit_Klosteranlage.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00_0595_Engelberg_mit_Klosteranlage.jpg/800px-00_0595_Engelberg_mit_Klosteranlage.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00_0595_Engelberg_mit_Klosteranlage.jpg/1200px-00_0595_Engelberg_mit_Klosteranlage.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00_0595_Engelberg_mit_Klosteranlage.jpg/1920px-00_0595_Engelberg_mit_Klosteranlage.jpg
+  00 0595 Kloster Engelberg - Kanton Obwalden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg/400px-00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg/800px-00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg/1200px-00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg/1920px-00_0595_Kloster_Engelberg_-_Kanton_Obwalden.jpg
+  EngelbergKloster01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EngelbergKloster01.jpg/400px-EngelbergKloster01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EngelbergKloster01.jpg/800px-EngelbergKloster01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EngelbergKloster01.jpg/1200px-EngelbergKloster01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EngelbergKloster01.jpg/1920px-EngelbergKloster01.jpg
 ---
 
 ## Overview

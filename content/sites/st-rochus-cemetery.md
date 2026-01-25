@@ -13,7 +13,7 @@ regions:
 latitude: 49.4475
 longitude: 11.060277777
 images:
-  - "/images-sites/st-rochus-cemetery/01-f4005940-800w.webp"
+  - "/images/st-rochus-cemetery/01-f4005940-800w.webp"
 ---
 
 ## Overview

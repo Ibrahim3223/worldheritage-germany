@@ -13,7 +13,7 @@ regions:
 latitude: 50.477
 longitude: 11.1595
 images:
-  - "/images-sites/museum-fuer-glaskunst-lauscha/01-282f7fa5-800w.webp"
+  - "/images/museum-fuer-glaskunst-lauscha/01-282f7fa5-800w.webp"
 ---
 
 ## Overview

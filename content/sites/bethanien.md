@@ -1,19 +1,49 @@
 ---
-title: "Bethanien"
+title: Bethanien
 date: 2026-01-23
 draft: false
-description: "former hospital now used as s cultural center in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "History Museum"
+description: former hospital now used as s cultural center in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: History Museum
 categories:
-  - "History Museum"
+- History Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5039
 longitude: 13.4244
 images:
-  - "/images-sites/bethanien/01-2b482b7a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg/1200px-Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bethanien,_Marianneplatz_2.jpg/1200px-Bethanien,_Marianneplatz_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1200px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bethanien_kreuzberg_maifest2012_02.jpg/1200px-Bethanien_kreuzberg_maifest2012_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lentia_Lutheran_Church,_Bethanie.jpg/1200px-Lentia_Lutheran_Church,_Bethanie.jpg
+image_srcset:
+  Berlin Mariannenplatz Bethanien asv2021-11 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg/400px-Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg/800px-Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg/1200px-Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg/1920px-Berlin_Mariannenplatz_Bethanien_asv2021-11_img1.jpg
+  Bethanien, Marianneplatz 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bethanien,_Marianneplatz_2.jpg/400px-Bethanien,_Marianneplatz_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bethanien,_Marianneplatz_2.jpg/800px-Bethanien,_Marianneplatz_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bethanien,_Marianneplatz_2.jpg/1200px-Bethanien,_Marianneplatz_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bethanien,_Marianneplatz_2.jpg/1920px-Bethanien,_Marianneplatz_2.jpg
+  Berlin, Kreuzberg, Mariannenplatz 1-3, Bethanien 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/400px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/800px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1200px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg/1920px-Berlin,_Kreuzberg,_Mariannenplatz_1-3,_Bethanien_02.jpg
+  Bethanien kreuzberg maifest2012 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bethanien_kreuzberg_maifest2012_02.jpg/400px-Bethanien_kreuzberg_maifest2012_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bethanien_kreuzberg_maifest2012_02.jpg/800px-Bethanien_kreuzberg_maifest2012_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bethanien_kreuzberg_maifest2012_02.jpg/1200px-Bethanien_kreuzberg_maifest2012_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bethanien_kreuzberg_maifest2012_02.jpg/1920px-Bethanien_kreuzberg_maifest2012_02.jpg
+  Lentia Lutheran Church, Bethanie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lentia_Lutheran_Church,_Bethanie.jpg/400px-Lentia_Lutheran_Church,_Bethanie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lentia_Lutheran_Church,_Bethanie.jpg/800px-Lentia_Lutheran_Church,_Bethanie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lentia_Lutheran_Church,_Bethanie.jpg/1200px-Lentia_Lutheran_Church,_Bethanie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lentia_Lutheran_Church,_Bethanie.jpg/1920px-Lentia_Lutheran_Church,_Bethanie.jpg
 ---
 
 ## Overview

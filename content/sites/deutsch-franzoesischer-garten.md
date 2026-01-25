@@ -1,19 +1,49 @@
 ---
-title: "Deutsch-Französischer Garten"
+title: Deutsch-Französischer Garten
 date: 2026-01-23
 draft: false
-description: "park in Saarbrücken, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Saarbrücken, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 49.2251
 longitude: 6.96314
 images:
-  - "/images-sites/deutsch-franzoesischer-garten/01-8cfc6e7d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210425_Apis_mellifera_01.jpg/1200px-20210425_Apis_mellifera_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Duck_Deformed_Beak.jpg/1200px-Duck_Deformed_Beak.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20210425_Apis_mellifera_02.jpg/1200px-20210425_Apis_mellifera_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/DFG_Park_1.JPG/1200px-DFG_Park_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DFG_Zug_1.JPG/1200px-DFG_Zug_1.JPG
+image_srcset:
+  20210425 Apis mellifera 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210425_Apis_mellifera_01.jpg/400px-20210425_Apis_mellifera_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210425_Apis_mellifera_01.jpg/800px-20210425_Apis_mellifera_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210425_Apis_mellifera_01.jpg/1200px-20210425_Apis_mellifera_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20210425_Apis_mellifera_01.jpg/1920px-20210425_Apis_mellifera_01.jpg
+  Duck Deformed Beak.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Duck_Deformed_Beak.jpg/400px-Duck_Deformed_Beak.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Duck_Deformed_Beak.jpg/800px-Duck_Deformed_Beak.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Duck_Deformed_Beak.jpg/1200px-Duck_Deformed_Beak.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Duck_Deformed_Beak.jpg/1920px-Duck_Deformed_Beak.jpg
+  20210425 Apis mellifera 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20210425_Apis_mellifera_02.jpg/400px-20210425_Apis_mellifera_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20210425_Apis_mellifera_02.jpg/800px-20210425_Apis_mellifera_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20210425_Apis_mellifera_02.jpg/1200px-20210425_Apis_mellifera_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/20210425_Apis_mellifera_02.jpg/1920px-20210425_Apis_mellifera_02.jpg
+  DFG Park 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/DFG_Park_1.JPG/400px-DFG_Park_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/DFG_Park_1.JPG/800px-DFG_Park_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/DFG_Park_1.JPG/1200px-DFG_Park_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/DFG_Park_1.JPG/1920px-DFG_Park_1.JPG
+  DFG Zug 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DFG_Zug_1.JPG/400px-DFG_Zug_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DFG_Zug_1.JPG/800px-DFG_Zug_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DFG_Zug_1.JPG/1200px-DFG_Zug_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/DFG_Zug_1.JPG/1920px-DFG_Zug_1.JPG
 ---
 
 ## Overview

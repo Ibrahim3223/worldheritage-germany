@@ -13,7 +13,7 @@ regions:
 latitude: 54.186505555
 longitude: 7.873233333
 images:
-  - "/images-sites/lummenfelsen-der-insel-helgoland/01-f2a4345e-800w.webp"
+  - "/images/lummenfelsen-der-insel-helgoland/01-f2a4345e-800w.webp"
 ---
 
 ## Overview

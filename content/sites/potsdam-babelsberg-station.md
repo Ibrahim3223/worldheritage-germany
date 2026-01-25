@@ -13,9 +13,9 @@ regions:
 latitude: 52.3914
 longitude: 13.0928
 images:
-  - "/images-sites/potsdam-babelsberg-station/01-e704fd21-800w.webp"
-  - "/images-sites/potsdam-babelsberg-station/02-35c136bb-800w.webp"
-  - "/images-sites/potsdam-babelsberg-station/03-a2d580e0-800w.webp"
+  - "/images/potsdam-babelsberg-station/01-e704fd21-800w.webp"
+  - "/images/potsdam-babelsberg-station/02-35c136bb-800w.webp"
+  - "/images/potsdam-babelsberg-station/03-a2d580e0-800w.webp"
 ---
 
 ## Overview

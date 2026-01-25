@@ -13,7 +13,7 @@ regions:
 latitude: 52.5197
 longitude: 13.4104
 images:
-  - "/images-sites/rathauspassagen/01-52f84d43-800w.webp"
+  - "/images/rathauspassagen/01-52f84d43-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1910590"
 description: "St. Matthäus, located in the historic city of Nuremberg, is a striking example of modern church architecture that captivates both the eye and the spirit..."
 images:
-  - "/images-sites/st-matthaus-grossreuth-hinter-der-veste/01-f44b4932-1920w.webp"
-  - "/images-sites/st-matthaus-grossreuth-hinter-der-veste/02-c0664fa3-1920w.webp"
-  - "/images-sites/st-matthaus-grossreuth-hinter-der-veste/03-54a2dd95-1920w.webp"
+  - "/images/st-matthaus-grossreuth-hinter-der-veste/01-f44b4932-1920w.webp"
+  - "/images/st-matthaus-grossreuth-hinter-der-veste/02-c0664fa3-1920w.webp"
+  - "/images/st-matthaus-grossreuth-hinter-der-veste/03-54a2dd95-1920w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.722777777
 longitude: 9.594166666
 images:
-  - "/images-sites/leine/01-70965ce3-800w.webp"
+  - "/images/leine/01-70965ce3-800w.webp"
 ---
 
 ## Overview

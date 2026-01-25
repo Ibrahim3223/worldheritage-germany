@@ -1,20 +1,27 @@
 ---
-title: "Johannes-von-Nepomuk-KapelleNordkirchen"
-site_name: "Johannes-von-Nepomuk-KapelleNordkirchen"
-slug: "johannes-von-nepomuk-kapelle-nordkirchen"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Johannes-von-Nepomuk-KapelleNordkirchen
+site_name: Johannes-von-Nepomuk-KapelleNordkirchen
+slug: johannes-von-nepomuk-kapelle-nordkirchen
+region: North Rhine-Westphalia
 latitude: 51.7369
 longitude: 7.52805
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1697139"
-description: "The Johannes-von-Nepomuk-Kapelle in Nordkirchen stands as a striking example of baroque architecture in Germany, inviting visitors to explore its histor..."
+- church building
+- religious site
+wikidata_id: Q1697139
+description: The Johannes-von-Nepomuk-Kapelle in Nordkirchen stands as a striking
+  example of baroque architecture in Germany, inviting visitors to explore its histor...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1200px-Nordkirchen-Kapelle-0003.JPG
+image_srcset:
+  Nordkirchen-Kapelle-0003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/400px-Nordkirchen-Kapelle-0003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/800px-Nordkirchen-Kapelle-0003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1200px-Nordkirchen-Kapelle-0003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nordkirchen-Kapelle-0003.JPG/1920px-Nordkirchen-Kapelle-0003.JPG
 ---
 
 ## Overview

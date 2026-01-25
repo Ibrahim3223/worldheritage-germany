@@ -13,7 +13,7 @@ regions:
 latitude: 52.495833333
 longitude: 13.341944444
 images:
-  - "/images-sites/viktoria-luise-platz/01-ae317fbe-800w.webp"
+  - "/images/viktoria-luise-platz/01-ae317fbe-800w.webp"
 ---
 
 ## Overview

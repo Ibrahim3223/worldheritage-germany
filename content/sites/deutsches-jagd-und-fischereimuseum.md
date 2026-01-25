@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Jagd- und Fischereimuseum"
+title: Deutsches Jagd- und Fischereimuseum
 date: 2026-01-23
 draft: false
-description: "museum in Munich, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Munich, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1384
 longitude: 11.5711
 images:
-  - "/images-sites/deutsches-jagd-und-fischereimuseum/01-4f4bfc02-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg/1200px-Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG/1200px-Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jagd-_und_Transportschlitten.JPG/1200px-Jagd-_und_Transportschlitten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/1200px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Deutsches_Jagd-_und_Fischereimuseum-Logo.png/1200px-Deutsches_Jagd-_und_Fischereimuseum-Logo.png
+image_srcset:
+  Deutsches Jagd- und Fischereimuseum München - DSC08679.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg/400px-Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg/800px-Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg/1200px-Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg/1920px-Deutsches_Jagd-_und_Fischereimuseum_München_-_DSC08679.jpg
+  Megaloceros giganteus, Jagd- und Fischereimuseum in München.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG/400px-Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG/800px-Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG/1200px-Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG/1920px-Megaloceros_giganteus,_Jagd-_und_Fischereimuseum_in_München.JPG
+  Jagd- und Transportschlitten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jagd-_und_Transportschlitten.JPG/400px-Jagd-_und_Transportschlitten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jagd-_und_Transportschlitten.JPG/800px-Jagd-_und_Transportschlitten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jagd-_und_Transportschlitten.JPG/1200px-Jagd-_und_Transportschlitten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jagd-_und_Transportschlitten.JPG/1920px-Jagd-_und_Transportschlitten.JPG
+  Jagd- und Fischereimuseum in München, Jagdwaffen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/400px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/800px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/1200px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG/1920px-Jagd-_und_Fischereimuseum_in_München,_Jagdwaffen.JPG
+  Deutsches Jagd- und Fischereimuseum-Logo.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Deutsches_Jagd-_und_Fischereimuseum-Logo.png/400px-Deutsches_Jagd-_und_Fischereimuseum-Logo.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Deutsches_Jagd-_und_Fischereimuseum-Logo.png/800px-Deutsches_Jagd-_und_Fischereimuseum-Logo.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Deutsches_Jagd-_und_Fischereimuseum-Logo.png/1200px-Deutsches_Jagd-_und_Fischereimuseum-Logo.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Deutsches_Jagd-_und_Fischereimuseum-Logo.png/1920px-Deutsches_Jagd-_und_Fischereimuseum-Logo.png
 ---
 
 ## Overview

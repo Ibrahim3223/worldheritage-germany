@@ -13,7 +13,7 @@ regions:
 latitude: 51.3092
 longitude: 12.4125
 images:
-  - "/images-sites/leipzig-south-cemetery/01-8fde73ad-800w.webp"
+  - "/images/leipzig-south-cemetery/01-8fde73ad-800w.webp"
 ---
 
 ## Overview

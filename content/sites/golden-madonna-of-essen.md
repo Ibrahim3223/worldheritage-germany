@@ -1,19 +1,50 @@
 ---
-title: "Golden Madonna of Essen"
+title: Golden Madonna of Essen
 date: 2026-01-23
 draft: false
-description: "sculpture of the Virgin Mary and the infant Jesus in Essen Cathedral, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Statue"
+description: sculpture of the Virgin Mary and the infant Jesus in Essen Cathedral,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Statue
 categories:
-  - "Statue"
+- Statue
 regions:
-  - "Germany"
+- Germany
 latitude: 51.45583333
 longitude: 7.01361111
 images:
-  - "/images-sites/golden-madonna-of-essen/01-c9abb7eb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/1200px-Goldene-Madonna-Essen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Golden_Madonna.jpg/1200px-Golden_Madonna.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Essen_muenster_goldene_madonna-5_derivative_bg.jpg/1200px-Essen_muenster_goldene_madonna-5_derivative_bg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg/1200px-Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldene_madonna-2.jpg/1200px-Goldene_madonna-2.jpg
+image_srcset:
+  Goldene-Madonna-Essen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/400px-Goldene-Madonna-Essen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/800px-Goldene-Madonna-Essen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/1200px-Goldene-Madonna-Essen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Goldene-Madonna-Essen.jpg/1920px-Goldene-Madonna-Essen.jpg
+  Golden Madonna.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Golden_Madonna.jpg/400px-Golden_Madonna.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Golden_Madonna.jpg/800px-Golden_Madonna.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Golden_Madonna.jpg/1200px-Golden_Madonna.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Golden_Madonna.jpg/1920px-Golden_Madonna.jpg
+  Essen muenster goldene madonna-5 derivative bg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Essen_muenster_goldene_madonna-5_derivative_bg.jpg/400px-Essen_muenster_goldene_madonna-5_derivative_bg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Essen_muenster_goldene_madonna-5_derivative_bg.jpg/800px-Essen_muenster_goldene_madonna-5_derivative_bg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Essen_muenster_goldene_madonna-5_derivative_bg.jpg/1200px-Essen_muenster_goldene_madonna-5_derivative_bg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Essen_muenster_goldene_madonna-5_derivative_bg.jpg/1920px-Essen_muenster_goldene_madonna-5_derivative_bg.jpg
+  Essen muenster goldene madonna-5 derivative bg as.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg/400px-Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg/800px-Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg/1200px-Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg/1920px-Essen_muenster_goldene_madonna-5_derivative_bg_as.jpg
+  Goldene madonna-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldene_madonna-2.jpg/400px-Goldene_madonna-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldene_madonna-2.jpg/800px-Goldene_madonna-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldene_madonna-2.jpg/1200px-Goldene_madonna-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldene_madonna-2.jpg/1920px-Goldene_madonna-2.jpg
 ---
 
 ## Overview

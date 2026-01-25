@@ -13,7 +13,7 @@ regions:
 latitude: 47.686388888
 longitude: 12.892222222
 images:
-  - "/images-sites/karkopf/01-f266dd09-800w.webp"
+  - "/images/karkopf/01-f266dd09-800w.webp"
 ---
 
 ## Overview

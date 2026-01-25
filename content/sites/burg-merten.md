@@ -1,19 +1,49 @@
 ---
-title: "Burg Merten"
+title: Burg Merten
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.7657
 longitude: 7.39527
 images:
-  - "/images-sites/burg-merten/01-e3d93b8b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_Merten.jpg/1200px-Burg_Merten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/1200px-Burg_Merten-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Merten_-_Union_Gestüt.jpg/1200px-Merten_-_Union_Gestüt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg/1200px-Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Merten1.jpg/1200px-Burg_Merten1.jpg
+image_srcset:
+  Burg Merten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_Merten.jpg/400px-Burg_Merten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_Merten.jpg/800px-Burg_Merten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_Merten.jpg/1200px-Burg_Merten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Burg_Merten.jpg/1920px-Burg_Merten.jpg
+  Burg Merten-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/400px-Burg_Merten-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/800px-Burg_Merten-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/1200px-Burg_Merten-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burg_Merten-.jpg/1920px-Burg_Merten-.jpg
+  Merten - Union Gestüt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Merten_-_Union_Gestüt.jpg/400px-Merten_-_Union_Gestüt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Merten_-_Union_Gestüt.jpg/800px-Merten_-_Union_Gestüt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Merten_-_Union_Gestüt.jpg/1200px-Merten_-_Union_Gestüt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Merten_-_Union_Gestüt.jpg/1920px-Merten_-_Union_Gestüt.jpg
+  Merten an der Sieg mit dem Union - Gestüt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg/400px-Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg/800px-Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg/1200px-Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg/1920px-Merten_an_der_Sieg_mit_dem_Union_-_Gestüt.jpg
+  Burg Merten1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Merten1.jpg/400px-Burg_Merten1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Merten1.jpg/800px-Burg_Merten1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Merten1.jpg/1200px-Burg_Merten1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Burg_Merten1.jpg/1920px-Burg_Merten1.jpg
 ---
 
 ## Overview

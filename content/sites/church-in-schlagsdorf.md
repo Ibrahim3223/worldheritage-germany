@@ -1,19 +1,44 @@
 ---
-title: "Church in Schlagsdorf"
-site_name: "Church in Schlagsdorf"
-slug: "church-in-schlagsdorf"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Schlagsdorf
+site_name: Church in Schlagsdorf
+slug: church-in-schlagsdorf
+region: Schleswig-Holstein
 latitude: 53.7303
 longitude: 10.8234
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244696"
-description: "In the tranquil village of Schlagsdorf, Germany, a notable structure rises: the Church in Schlagsdorf. This church, built primarily from brick, reflects..."
+- cultural site
+wikidata_id: Q1244696
+description: 'In the tranquil village of Schlagsdorf, Germany, a notable structure
+  rises: the Church in Schlagsdorf. This church, built primarily from brick, reflects...'
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1200px-Schlagsdorfkirche01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BellSchlagsdorf24.JPG/1200px-BellSchlagsdorf24.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SäuleSchlagsdorf.JPG/1200px-SäuleSchlagsdorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TürKanzeltreppeSchlagsdorf.JPG/1200px-TürKanzeltreppeSchlagsdorf.JPG
+image_srcset:
+  Schlagsdorfkirche01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/400px-Schlagsdorfkirche01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/800px-Schlagsdorfkirche01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1200px-Schlagsdorfkirche01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schlagsdorfkirche01.jpg/1920px-Schlagsdorfkirche01.jpg
+  BellSchlagsdorf24.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BellSchlagsdorf24.JPG/400px-BellSchlagsdorf24.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BellSchlagsdorf24.JPG/800px-BellSchlagsdorf24.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BellSchlagsdorf24.JPG/1200px-BellSchlagsdorf24.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BellSchlagsdorf24.JPG/1920px-BellSchlagsdorf24.JPG
+  SäuleSchlagsdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SäuleSchlagsdorf.JPG/400px-SäuleSchlagsdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SäuleSchlagsdorf.JPG/800px-SäuleSchlagsdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SäuleSchlagsdorf.JPG/1200px-SäuleSchlagsdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SäuleSchlagsdorf.JPG/1920px-SäuleSchlagsdorf.JPG
+  TürKanzeltreppeSchlagsdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TürKanzeltreppeSchlagsdorf.JPG/400px-TürKanzeltreppeSchlagsdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TürKanzeltreppeSchlagsdorf.JPG/800px-TürKanzeltreppeSchlagsdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TürKanzeltreppeSchlagsdorf.JPG/1200px-TürKanzeltreppeSchlagsdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TürKanzeltreppeSchlagsdorf.JPG/1920px-TürKanzeltreppeSchlagsdorf.JPG
 ---
 
 ## Overview

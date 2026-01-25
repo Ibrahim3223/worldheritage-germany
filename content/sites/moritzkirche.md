@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1948167"
 description: "In the heart of Halle (Saale), Germany, the Moritzkirche stands as a striking example of late-Gothic architecture. Built in 1557, this church captures t..."
 images:
-  - "/images-sites/moritzkirche/01-21ae528f-1920w.webp"
-  - "/images-sites/moritzkirche/02-4ea01a04-1920w.webp"
-  - "/images-sites/moritzkirche/03-a21f25c6-1920w.webp"
+  - "/images/moritzkirche/01-21ae528f-1920w.webp"
+  - "/images/moritzkirche/02-4ea01a04-1920w.webp"
+  - "/images/moritzkirche/03-a21f25c6-1920w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Japanisches Kulturinstitut"
+title: Japanisches Kulturinstitut
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cultural Center"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Cultural Center
 categories:
-  - "Cultural Center"
+- Cultural Center
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9352
 longitude: 6.92554
 images:
-  - "/images-sites/japanisches-kulturinstitut/01-954aa654-800w.webp"
-  - "/images-sites/japanisches-kulturinstitut/03-bd3bee19-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg/1200px-Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1200px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazutoki-umezu-Joe-Trump_270911.jpg/1200px-Kazutoki-umezu-Joe-Trump_270911.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Japanisches_Kulturinstitut_Publikationen.jpg/1200px-Japanisches_Kulturinstitut_Publikationen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Japanisches_Kulturinstitut_Bühnenkünste.jpg/1200px-Japanisches_Kulturinstitut_Bühnenkünste.jpg
+image_srcset:
+  Japanisches Kulturinstitut und Ostasiatisches Museum, Köln - Luftbild-0658.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg/400px-Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg/800px-Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg/1200px-Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg/1920px-Japanisches_Kulturinstitut_und_Ostasiatisches_Museum,_Köln_-_Luftbild-0658.jpg
+  Japanisches Kulturinstitut Köln (0486-88).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/400px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/800px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1200px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanisches_Kulturinstitut_Köln_(0486-88).jpg/1920px-Japanisches_Kulturinstitut_Köln_(0486-88).jpg
+  Kazutoki-umezu-Joe-Trump 270911.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazutoki-umezu-Joe-Trump_270911.jpg/400px-Kazutoki-umezu-Joe-Trump_270911.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazutoki-umezu-Joe-Trump_270911.jpg/800px-Kazutoki-umezu-Joe-Trump_270911.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazutoki-umezu-Joe-Trump_270911.jpg/1200px-Kazutoki-umezu-Joe-Trump_270911.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kazutoki-umezu-Joe-Trump_270911.jpg/1920px-Kazutoki-umezu-Joe-Trump_270911.jpg
+  Japanisches Kulturinstitut Publikationen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Japanisches_Kulturinstitut_Publikationen.jpg/400px-Japanisches_Kulturinstitut_Publikationen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Japanisches_Kulturinstitut_Publikationen.jpg/800px-Japanisches_Kulturinstitut_Publikationen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Japanisches_Kulturinstitut_Publikationen.jpg/1200px-Japanisches_Kulturinstitut_Publikationen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Japanisches_Kulturinstitut_Publikationen.jpg/1920px-Japanisches_Kulturinstitut_Publikationen.jpg
+  Japanisches Kulturinstitut Bühnenkünste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Japanisches_Kulturinstitut_Bühnenkünste.jpg/400px-Japanisches_Kulturinstitut_Bühnenkünste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Japanisches_Kulturinstitut_Bühnenkünste.jpg/800px-Japanisches_Kulturinstitut_Bühnenkünste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Japanisches_Kulturinstitut_Bühnenkünste.jpg/1200px-Japanisches_Kulturinstitut_Bühnenkünste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Japanisches_Kulturinstitut_Bühnenkünste.jpg/1920px-Japanisches_Kulturinstitut_Bühnenkünste.jpg
 ---
 
 ## Overview

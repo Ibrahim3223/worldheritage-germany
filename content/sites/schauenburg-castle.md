@@ -21,7 +21,7 @@ longitude: 8.0945
 
 # Images
 images:
-  - "/images-sites/schauenburg-castle/01-0279192c-800w.webp"
+  - "/images/schauenburg-castle/01-0279192c-800w.webp"
 ---
 
 ## Overview

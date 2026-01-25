@@ -21,7 +21,7 @@ longitude: 8.15589
 
 # Images
 images:
-  - "/images-sites/runkel-castle/01-0a1cbfae-800w.webp"
+  - "/images/runkel-castle/01-0a1cbfae-800w.webp"
 ---
 
 ## Overview

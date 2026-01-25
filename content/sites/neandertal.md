@@ -13,7 +13,7 @@ regions:
 latitude: 51.226666666
 longitude: 6.951111111
 images:
-  - "/images-sites/neandertal/01-ca63af29-800w.webp"
+  - "/images/neandertal/01-ca63af29-800w.webp"
 ---
 
 ## Overview

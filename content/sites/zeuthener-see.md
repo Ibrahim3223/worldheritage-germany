@@ -13,7 +13,7 @@ regions:
 latitude: 52.356388888
 longitude: 13.638611111
 images:
-  - "/images-sites/zeuthener-see/01-11f6c8a8-800w.webp"
+  - "/images/zeuthener-see/01-11f6c8a8-800w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Herzberg Castle"
+title: Herzberg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.6558
 longitude: 10.3311
-
-# Images
 images:
-  - "/images-sites/herzberg-castle/01-07c7a1ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schloss_Herzberg_Mai_2021.jpg/1200px-Schloss_Herzberg_Mai_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Herzberg_am_Harz_zamek.jpg/1200px-Herzberg_am_Harz_zamek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg/1200px-Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Derharz00hoff_orig_0233.png/1200px-Derharz00hoff_orig_0233.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Herzberg_Schloss_unten.jpg/1200px-Herzberg_Schloss_unten.jpg
+image_srcset:
+  Schloss Herzberg Mai 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schloss_Herzberg_Mai_2021.jpg/400px-Schloss_Herzberg_Mai_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schloss_Herzberg_Mai_2021.jpg/800px-Schloss_Herzberg_Mai_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schloss_Herzberg_Mai_2021.jpg/1200px-Schloss_Herzberg_Mai_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Schloss_Herzberg_Mai_2021.jpg/1920px-Schloss_Herzberg_Mai_2021.jpg
+  Herzberg am Harz zamek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Herzberg_am_Harz_zamek.jpg/400px-Herzberg_am_Harz_zamek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Herzberg_am_Harz_zamek.jpg/800px-Herzberg_am_Harz_zamek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Herzberg_am_Harz_zamek.jpg/1200px-Herzberg_am_Harz_zamek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Herzberg_am_Harz_zamek.jpg/1920px-Herzberg_am_Harz_zamek.jpg
+  Schloss Herzberg, Herzberg am Harz von Osten 2009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg/400px-Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg/800px-Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg/1200px-Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg/1920px-Schloss_Herzberg,_Herzberg_am_Harz_von_Osten_2009.jpg
+  Derharz00hoff orig 0233.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Derharz00hoff_orig_0233.png/400px-Derharz00hoff_orig_0233.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Derharz00hoff_orig_0233.png/800px-Derharz00hoff_orig_0233.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Derharz00hoff_orig_0233.png/1200px-Derharz00hoff_orig_0233.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Derharz00hoff_orig_0233.png/1920px-Derharz00hoff_orig_0233.png
+  Herzberg Schloss unten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Herzberg_Schloss_unten.jpg/400px-Herzberg_Schloss_unten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Herzberg_Schloss_unten.jpg/800px-Herzberg_Schloss_unten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Herzberg_Schloss_unten.jpg/1200px-Herzberg_Schloss_unten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Herzberg_Schloss_unten.jpg/1920px-Herzberg_Schloss_unten.jpg
 ---
 
 ## Overview

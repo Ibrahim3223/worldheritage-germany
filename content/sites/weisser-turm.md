@@ -13,9 +13,9 @@ regions:
 latitude: 49.4504
 longitude: 11.0707
 images:
-  - "/images-sites/weisser-turm/01-709cfb6c-800w.webp"
-  - "/images-sites/weisser-turm/02-365ff5c9-800w.webp"
-  - "/images-sites/weisser-turm/03-2bc0d5b6-800w.webp"
+  - "/images/weisser-turm/01-709cfb6c-800w.webp"
+  - "/images/weisser-turm/02-365ff5c9-800w.webp"
+  - "/images/weisser-turm/03-2bc0d5b6-800w.webp"
 ---
 
 ## Overview

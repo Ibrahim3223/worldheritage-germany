@@ -1,19 +1,49 @@
 ---
-title: "GRASSI Museum of Applied Arts Leipzig"
+title: GRASSI Museum of Applied Arts Leipzig
 date: 2026-01-23
 draft: false
-description: "museum of decorative arts in Leipzig, Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum of decorative arts in Leipzig, Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3369
 longitude: 12.3885
 images:
-  - "/images-sites/grassi-museum-of-applied-arts-leipzig/01-984b543f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ausstellung_Grassimuseum_Leipzig_1.JPG/1200px-Ausstellung_Grassimuseum_Leipzig_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg/1200px-Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kleinpötzschauer_Altar.jpg/1200px-Kleinpötzschauer_Altar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG/1200px-Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simurgh_Vortex_(draft).jpg/1200px-Simurgh_Vortex_(draft).jpg
+image_srcset:
+  Ausstellung Grassimuseum Leipzig 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ausstellung_Grassimuseum_Leipzig_1.JPG/400px-Ausstellung_Grassimuseum_Leipzig_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ausstellung_Grassimuseum_Leipzig_1.JPG/800px-Ausstellung_Grassimuseum_Leipzig_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ausstellung_Grassimuseum_Leipzig_1.JPG/1200px-Ausstellung_Grassimuseum_Leipzig_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ausstellung_Grassimuseum_Leipzig_1.JPG/1920px-Ausstellung_Grassimuseum_Leipzig_1.JPG
+  Ständige Ausstellung "Jugendstil bis Gegenwart", Design-Klassiker.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg/400px-Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg/800px-Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg/1200px-Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg/1920px-Ständige_Ausstellung_"Jugendstil_bis_Gegenwart",_Design-Klassiker.jpg
+  Kleinpötzschauer Altar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kleinpötzschauer_Altar.jpg/400px-Kleinpötzschauer_Altar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kleinpötzschauer_Altar.jpg/800px-Kleinpötzschauer_Altar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kleinpötzschauer_Altar.jpg/1200px-Kleinpötzschauer_Altar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kleinpötzschauer_Altar.jpg/1920px-Kleinpötzschauer_Altar.jpg
+  Jakob naumann, altare kleinpötzaschauer, 1508-1509 ca..JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG/400px-Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG/800px-Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG/1200px-Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG/1920px-Jakob_naumann,_altare_kleinpötzaschauer,_1508-1509_ca..JPG
+  Simurgh Vortex (draft).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simurgh_Vortex_(draft).jpg/400px-Simurgh_Vortex_(draft).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simurgh_Vortex_(draft).jpg/800px-Simurgh_Vortex_(draft).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simurgh_Vortex_(draft).jpg/1200px-Simurgh_Vortex_(draft).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Simurgh_Vortex_(draft).jpg/1920px-Simurgh_Vortex_(draft).jpg
 ---
 
 ## Overview

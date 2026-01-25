@@ -1,19 +1,49 @@
 ---
-title: "Alte Röder bei Prieschka"
+title: Alte Röder bei Prieschka
 date: 2026-01-23
 draft: false
-description: "nature reserve in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4833
 longitude: 13.4333
 images:
-  - "/images-sites/alte-roeder-bei-prieschka/01-602d3be0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alte_Röder_Apr_13_05b.jpg/1200px-Alte_Röder_Apr_13_05b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Röder_Apr_13_09a.jpg/1200px-Alte_Röder_Apr_13_09a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alte_Röder_Apr_13_06d.jpg/1200px-Alte_Röder_Apr_13_06d.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Röder_Apr_13_19ba_2.jpg/1200px-Alte_Röder_Apr_13_19ba_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alte_Röder_Apr_13_01g.jpg/1200px-Alte_Röder_Apr_13_01g.jpg
+image_srcset:
+  Alte Röder Apr 13 05b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alte_Röder_Apr_13_05b.jpg/400px-Alte_Röder_Apr_13_05b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alte_Röder_Apr_13_05b.jpg/800px-Alte_Röder_Apr_13_05b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alte_Röder_Apr_13_05b.jpg/1200px-Alte_Röder_Apr_13_05b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alte_Röder_Apr_13_05b.jpg/1920px-Alte_Röder_Apr_13_05b.jpg
+  Alte Röder Apr 13 09a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Röder_Apr_13_09a.jpg/400px-Alte_Röder_Apr_13_09a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Röder_Apr_13_09a.jpg/800px-Alte_Röder_Apr_13_09a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Röder_Apr_13_09a.jpg/1200px-Alte_Röder_Apr_13_09a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Alte_Röder_Apr_13_09a.jpg/1920px-Alte_Röder_Apr_13_09a.jpg
+  Alte Röder Apr 13 06d.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alte_Röder_Apr_13_06d.jpg/400px-Alte_Röder_Apr_13_06d.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alte_Röder_Apr_13_06d.jpg/800px-Alte_Röder_Apr_13_06d.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alte_Röder_Apr_13_06d.jpg/1200px-Alte_Röder_Apr_13_06d.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Alte_Röder_Apr_13_06d.jpg/1920px-Alte_Röder_Apr_13_06d.jpg
+  Alte Röder Apr 13 19ba 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Röder_Apr_13_19ba_2.jpg/400px-Alte_Röder_Apr_13_19ba_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Röder_Apr_13_19ba_2.jpg/800px-Alte_Röder_Apr_13_19ba_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Röder_Apr_13_19ba_2.jpg/1200px-Alte_Röder_Apr_13_19ba_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Röder_Apr_13_19ba_2.jpg/1920px-Alte_Röder_Apr_13_19ba_2.jpg
+  Alte Röder Apr 13 01g.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alte_Röder_Apr_13_01g.jpg/400px-Alte_Röder_Apr_13_01g.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alte_Röder_Apr_13_01g.jpg/800px-Alte_Röder_Apr_13_01g.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alte_Röder_Apr_13_01g.jpg/1200px-Alte_Röder_Apr_13_01g.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alte_Röder_Apr_13_01g.jpg/1920px-Alte_Röder_Apr_13_01g.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.131111111
 longitude: 11.575555555
 images:
-  - "/images-sites/staatstheater-am-gaertnerplatz/01-fba9a919-800w.webp"
+  - "/images/staatstheater-am-gaertnerplatz/01-fba9a919-800w.webp"
 ---
 
 ## Overview

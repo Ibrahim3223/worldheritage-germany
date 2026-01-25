@@ -1,19 +1,49 @@
 ---
-title: "Hirschfeld Wildlife Park"
+title: Hirschfeld Wildlife Park
 date: 2026-01-24
 draft: false
-description: "zoo"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6278
 longitude: 12.4403
 images:
-  - "/images-sites/hirschfeld-wildlife-park/01-d771d543-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg/1200px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg/1200px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tierpark_Hirschfeld,_Bärenskulptur.jpg/1200px-Tierpark_Hirschfeld,_Bärenskulptur.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tierpark_Hirschfeld,_Eingang.jpg/1200px-Tierpark_Hirschfeld,_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tierpark_Hirschfeld_2.JPG/1200px-Tierpark_Hirschfeld_2.JPG
+image_srcset:
+  Historische Umzäunung des Wildgeheges Hirschfeld, Infotafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg/400px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg/800px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg/1200px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg/1920px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld,_Infotafel.jpg
+  Historische Umzäunung des Wildgeheges Hirschfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg/400px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg/800px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg/1200px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg/1920px-Historische_Umzäunung_des_Wildgeheges_Hirschfeld.jpg
+  Tierpark Hirschfeld, Bärenskulptur.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tierpark_Hirschfeld,_Bärenskulptur.jpg/400px-Tierpark_Hirschfeld,_Bärenskulptur.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tierpark_Hirschfeld,_Bärenskulptur.jpg/800px-Tierpark_Hirschfeld,_Bärenskulptur.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tierpark_Hirschfeld,_Bärenskulptur.jpg/1200px-Tierpark_Hirschfeld,_Bärenskulptur.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tierpark_Hirschfeld,_Bärenskulptur.jpg/1920px-Tierpark_Hirschfeld,_Bärenskulptur.jpg
+  Tierpark Hirschfeld, Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tierpark_Hirschfeld,_Eingang.jpg/400px-Tierpark_Hirschfeld,_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tierpark_Hirschfeld,_Eingang.jpg/800px-Tierpark_Hirschfeld,_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tierpark_Hirschfeld,_Eingang.jpg/1200px-Tierpark_Hirschfeld,_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tierpark_Hirschfeld,_Eingang.jpg/1920px-Tierpark_Hirschfeld,_Eingang.jpg
+  Tierpark Hirschfeld 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tierpark_Hirschfeld_2.JPG/400px-Tierpark_Hirschfeld_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tierpark_Hirschfeld_2.JPG/800px-Tierpark_Hirschfeld_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tierpark_Hirschfeld_2.JPG/1200px-Tierpark_Hirschfeld_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tierpark_Hirschfeld_2.JPG/1920px-Tierpark_Hirschfeld_2.JPG
 ---
 
 ## Overview

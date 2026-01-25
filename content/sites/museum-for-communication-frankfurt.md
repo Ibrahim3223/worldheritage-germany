@@ -21,7 +21,7 @@ longitude: 8.675871
 
 # Images
 images:
-  - "/images-sites/museum-for-communication-frankfurt/01-4f12b962-800w.webp"
+  - "/images/museum-for-communication-frankfurt/01-4f12b962-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Eschenheimer Turm"
+title: Eschenheimer Turm
 date: 2026-01-23
 draft: false
-description: "landmark of Frankfurt"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Gate"
+description: landmark of Frankfurt
+region: Germany
+country: Germany
+heritage_type: City Gate
 categories:
-  - "City Gate"
+- City Gate
 regions:
-  - "Germany"
+- Germany
 latitude: 50.116944444
 longitude: 8.679722222
 images:
-  - "/images-sites/eschenheimer-turm/01-8cf9e9fb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/1200px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230103_Eschenheimer_Turm.jpg/1200px-20230103_Eschenheimer_Turm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg/1200px-1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg/1200px-Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Frankfurt_-_Eschenheimer_Turm.jpg/1200px-Frankfurt_-_Eschenheimer_Turm.jpg
+image_srcset:
+  Eschenheimer Turm in the evening sun from north west.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/400px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/800px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/1200px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg/1920px-Eschenheimer_Turm_in_the_evening_sun_from_north_west.jpg
+  20230103 Eschenheimer Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230103_Eschenheimer_Turm.jpg/400px-20230103_Eschenheimer_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230103_Eschenheimer_Turm.jpg/800px-20230103_Eschenheimer_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230103_Eschenheimer_Turm.jpg/1200px-20230103_Eschenheimer_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20230103_Eschenheimer_Turm.jpg/1920px-20230103_Eschenheimer_Turm.jpg
+  1915-08-14, La Esfera, Ciudades alemanas, Eschenheimer Turm, de Frankfort.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg/400px-1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg/800px-1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg/1200px-1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg/1920px-1915-08-14,_La_Esfera,_Ciudades_alemanas,_Eschenheimer_Turm,_de_Frankfort.jpg
+  Innenstadt, Frankfurt, Germany - panoramio (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg/400px-Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg/800px-Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg/1200px-Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg/1920px-Innenstadt,_Frankfurt,_Germany_-_panoramio_(5).jpg
+  Frankfurt - Eschenheimer Turm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Frankfurt_-_Eschenheimer_Turm.jpg/400px-Frankfurt_-_Eschenheimer_Turm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Frankfurt_-_Eschenheimer_Turm.jpg/800px-Frankfurt_-_Eschenheimer_Turm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Frankfurt_-_Eschenheimer_Turm.jpg/1200px-Frankfurt_-_Eschenheimer_Turm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Frankfurt_-_Eschenheimer_Turm.jpg/1920px-Frankfurt_-_Eschenheimer_Turm.jpg
 ---
 
 ## Overview

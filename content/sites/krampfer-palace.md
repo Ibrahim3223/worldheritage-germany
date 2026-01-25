@@ -13,7 +13,7 @@ regions:
 latitude: 53.060386
 longitude: 12.016703
 images:
-  - "/images-sites/krampfer-palace/01-3a760dbf-800w.webp"
+  - "/images/krampfer-palace/01-3a760dbf-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Augsburg Protestant Cemetery"
+title: Augsburg Protestant Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.354
 longitude: 10.9003
 images:
-  - "/images-sites/augsburg-protestant-cemetery/01-dc4592d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg/1200px-Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg/1200px-Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orgel_Protestantischer_Friedhof_Augsburg.jpg/1200px-Orgel_Protestantischer_Friedhof_Augsburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Orgel_Protestantischer_Friedhof_Augsburg2.jpg/1200px-Orgel_Protestantischer_Friedhof_Augsburg2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/1200px-Ev._Friedh.Augsb.JPG
+image_srcset:
+  Augsburg, Eingangstor des Protestantischen Friedhofs, 3.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg/400px-Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg/800px-Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg/1200px-Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg/1920px-Augsburg,_Eingangstor_des_Protestantischen_Friedhofs,_3.jpeg
+  Innenansicht Kirche Protestantischer Friedhof Augsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg/400px-Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg/800px-Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg/1200px-Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg/1920px-Innenansicht_Kirche_Protestantischer_Friedhof_Augsburg.jpg
+  Orgel Protestantischer Friedhof Augsburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orgel_Protestantischer_Friedhof_Augsburg.jpg/400px-Orgel_Protestantischer_Friedhof_Augsburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orgel_Protestantischer_Friedhof_Augsburg.jpg/800px-Orgel_Protestantischer_Friedhof_Augsburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orgel_Protestantischer_Friedhof_Augsburg.jpg/1200px-Orgel_Protestantischer_Friedhof_Augsburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orgel_Protestantischer_Friedhof_Augsburg.jpg/1920px-Orgel_Protestantischer_Friedhof_Augsburg.jpg
+  Orgel Protestantischer Friedhof Augsburg2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Orgel_Protestantischer_Friedhof_Augsburg2.jpg/400px-Orgel_Protestantischer_Friedhof_Augsburg2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Orgel_Protestantischer_Friedhof_Augsburg2.jpg/800px-Orgel_Protestantischer_Friedhof_Augsburg2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Orgel_Protestantischer_Friedhof_Augsburg2.jpg/1200px-Orgel_Protestantischer_Friedhof_Augsburg2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Orgel_Protestantischer_Friedhof_Augsburg2.jpg/1920px-Orgel_Protestantischer_Friedhof_Augsburg2.jpg
+  Ev. Friedh.Augsb.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/400px-Ev._Friedh.Augsb.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/800px-Ev._Friedh.Augsb.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/1200px-Ev._Friedh.Augsb.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ev._Friedh.Augsb.JPG/1920px-Ev._Friedh.Augsb.JPG
 ---
 
 ## Overview

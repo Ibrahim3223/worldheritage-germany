@@ -21,7 +21,7 @@ longitude: 6.453888888
 
 # Images
 images:
-  - "/images-sites/lower-german-limes/01-1c98a562-800w.webp"
+  - "/images/lower-german-limes/01-1c98a562-800w.webp"
 ---
 
 ## Overview

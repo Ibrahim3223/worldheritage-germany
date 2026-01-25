@@ -1,23 +1,50 @@
 ---
-title: "Dresden Cathedral"
-site_name: "Dresden Cathedral"
-slug: "dresden-cathedral"
-region: "Saxony"
-
-# Location
+title: Dresden Cathedral
+site_name: Dresden Cathedral
+slug: dresden-cathedral
+region: Saxony
 latitude: 51.05349
 longitude: 13.73735
 regions:
-    - "Saxony"
-heritage_type: "cultural site"
+- Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q666935"
-description: "Dresden Cathedral, known for its striking baroque architecture, stands as a prominent landmark in the heart of Dresden, Germany. This Catholic cathedral..."
+- cultural site
+wikidata_id: Q666935
+description: Dresden Cathedral, known for its striking baroque architecture, stands
+  as a prominent landmark in the heart of Dresden, Germany. This Catholic cathedral...
 images:
-  - "/images-sites/dresden-cathedral/01-7141ab6d-1920w.webp"
-  - "/images-sites/dresden-cathedral/02-c3b816dd-1920w.webp"
-  - "/images-sites/dresden-cathedral/03-8b928bdf-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden%20Hoki.JPG/1200px-Dresden%20Hoki.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hofkirche_in_Dresden.jpg/1200px-Hofkirche_in_Dresden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg/1200px-Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Germany_Katholisch-Hofkirche-01.jpg/1200px-Dresden_Germany_Katholisch-Hofkirche-01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1200px-Dresden_photochrom2.jpg
+image_srcset:
+  Dresden%20Hoki.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden%20Hoki.JPG/400px-Dresden%20Hoki.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden%20Hoki.JPG/800px-Dresden%20Hoki.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden%20Hoki.JPG/1200px-Dresden%20Hoki.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden%20Hoki.JPG/1920px-Dresden%20Hoki.JPG
+  Hofkirche in Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hofkirche_in_Dresden.jpg/400px-Hofkirche_in_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hofkirche_in_Dresden.jpg/800px-Hofkirche_in_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hofkirche_in_Dresden.jpg/1200px-Hofkirche_in_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hofkirche_in_Dresden.jpg/1920px-Hofkirche_in_Dresden.jpg
+  Dresden, Katholische Hofkirche -- 2023 -- 9410.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg/400px-Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg/800px-Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg/1200px-Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg/1920px-Dresden,_Katholische_Hofkirche_--_2023_--_9410.jpg
+  Dresden Germany Katholisch-Hofkirche-01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Germany_Katholisch-Hofkirche-01.jpg/400px-Dresden_Germany_Katholisch-Hofkirche-01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Germany_Katholisch-Hofkirche-01.jpg/800px-Dresden_Germany_Katholisch-Hofkirche-01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Germany_Katholisch-Hofkirche-01.jpg/1200px-Dresden_Germany_Katholisch-Hofkirche-01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dresden_Germany_Katholisch-Hofkirche-01.jpg/1920px-Dresden_Germany_Katholisch-Hofkirche-01.jpg
+  Dresden photochrom2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/400px-Dresden_photochrom2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/800px-Dresden_photochrom2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1200px-Dresden_photochrom2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dresden_photochrom2.jpg/1920px-Dresden_photochrom2.jpg
 ---
 
 ## Overview

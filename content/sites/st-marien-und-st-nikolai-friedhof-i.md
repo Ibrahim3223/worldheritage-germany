@@ -13,7 +13,7 @@ regions:
 latitude: 52.527611111
 longitude: 13.417613888
 images:
-  - "/images-sites/st-marien-und-st-nikolai-friedhof-i/01-f383a538-800w.webp"
+  - "/images/st-marien-und-st-nikolai-friedhof-i/01-f383a538-800w.webp"
 ---
 
 ## Overview

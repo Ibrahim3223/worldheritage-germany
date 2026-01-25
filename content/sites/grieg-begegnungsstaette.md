@@ -1,19 +1,49 @@
 ---
-title: "Grieg-Begegnungsstätte"
+title: Grieg-Begegnungsstätte
 date: 2026-01-23
 draft: false
-description: "museum and meeting point of Grieg in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum and meeting point of Grieg in Leipzig
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.335134
 longitude: 12.386167
 images:
-  - "/images-sites/grieg-begegnungsstaette/01-bbad8955-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Max_Abraham_Memorial_Plaque.jpg/1200px-Max_Abraham_Memorial_Plaque.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1200px-Grieg-Begegnungsstätte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grieg_im_Garten_der_Begegnungsstätte.jpg/1200px-Grieg_im_Garten_der_Begegnungsstätte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Edition_Peters.jpg/1200px-Edition_Peters.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Grieg_plaque_Edition_Peters.jpg/1200px-Grieg_plaque_Edition_Peters.jpg
+image_srcset:
+  Max Abraham Memorial Plaque.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Max_Abraham_Memorial_Plaque.jpg/400px-Max_Abraham_Memorial_Plaque.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Max_Abraham_Memorial_Plaque.jpg/800px-Max_Abraham_Memorial_Plaque.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Max_Abraham_Memorial_Plaque.jpg/1200px-Max_Abraham_Memorial_Plaque.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Max_Abraham_Memorial_Plaque.jpg/1920px-Max_Abraham_Memorial_Plaque.jpg
+  Grieg-Begegnungsstätte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/400px-Grieg-Begegnungsstätte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/800px-Grieg-Begegnungsstätte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1200px-Grieg-Begegnungsstätte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grieg-Begegnungsstätte.jpg/1920px-Grieg-Begegnungsstätte.jpg
+  Grieg im Garten der Begegnungsstätte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grieg_im_Garten_der_Begegnungsstätte.jpg/400px-Grieg_im_Garten_der_Begegnungsstätte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grieg_im_Garten_der_Begegnungsstätte.jpg/800px-Grieg_im_Garten_der_Begegnungsstätte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grieg_im_Garten_der_Begegnungsstätte.jpg/1200px-Grieg_im_Garten_der_Begegnungsstätte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grieg_im_Garten_der_Begegnungsstätte.jpg/1920px-Grieg_im_Garten_der_Begegnungsstätte.jpg
+  Edition Peters.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Edition_Peters.jpg/400px-Edition_Peters.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Edition_Peters.jpg/800px-Edition_Peters.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Edition_Peters.jpg/1200px-Edition_Peters.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Edition_Peters.jpg/1920px-Edition_Peters.jpg
+  Grieg plaque Edition Peters.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Grieg_plaque_Edition_Peters.jpg/400px-Grieg_plaque_Edition_Peters.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Grieg_plaque_Edition_Peters.jpg/800px-Grieg_plaque_Edition_Peters.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Grieg_plaque_Edition_Peters.jpg/1200px-Grieg_plaque_Edition_Peters.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Grieg_plaque_Edition_Peters.jpg/1920px-Grieg_plaque_Edition_Peters.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.465833333
 longitude: 12.3075
 images:
-  - "/images-sites/plauer-see/01-e89e8d27-800w.webp"
+  - "/images/plauer-see/01-e89e8d27-800w.webp"
 ---
 
 ## Overview

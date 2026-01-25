@@ -1,21 +1,49 @@
 ---
-title: "Augustusplatz"
+title: Augustusplatz
 date: 2026-01-23
 draft: false
-description: "square in Leipzig"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: square in Leipzig
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3392
 longitude: 12.3808
 images:
-  - "/images-sites/augustusplatz/01-2b7f7f98-800w.webp"
-  - "/images-sites/augustusplatz/02-349e284f-800w.webp"
-  - "/images-sites/augustusplatz/03-7a828dfb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20200912_Krochhochhaus_01.jpg/1200px-20200912_Krochhochhaus_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leipzig_Augustusplatz.jpg/1200px-Leipzig_Augustusplatz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg/1200px-20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg/1200px-20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Panoràmma_de_Leipzig.jpg/1200px-Panoràmma_de_Leipzig.jpg
+image_srcset:
+  20200912 Krochhochhaus 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20200912_Krochhochhaus_01.jpg/400px-20200912_Krochhochhaus_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20200912_Krochhochhaus_01.jpg/800px-20200912_Krochhochhaus_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20200912_Krochhochhaus_01.jpg/1200px-20200912_Krochhochhaus_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20200912_Krochhochhaus_01.jpg/1920px-20200912_Krochhochhaus_01.jpg
+  Leipzig Augustusplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leipzig_Augustusplatz.jpg/400px-Leipzig_Augustusplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leipzig_Augustusplatz.jpg/800px-Leipzig_Augustusplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leipzig_Augustusplatz.jpg/1200px-Leipzig_Augustusplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Leipzig_Augustusplatz.jpg/1920px-Leipzig_Augustusplatz.jpg
+  20090908075MDR Leipzig Gewandhaus Uni-Hochhaus und Paulinum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg/400px-20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg/800px-20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg/1200px-20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg/1920px-20090908075MDR_Leipzig_Gewandhaus_Uni-Hochhaus_und_Paulinum.jpg
+  20090908070DR Leipzig Uni-Hochhaus und Paulinum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg/400px-20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg/800px-20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg/1200px-20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg/1920px-20090908070DR_Leipzig_Uni-Hochhaus_und_Paulinum.jpg
+  Panoràmma de Leipzig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Panoràmma_de_Leipzig.jpg/400px-Panoràmma_de_Leipzig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Panoràmma_de_Leipzig.jpg/800px-Panoràmma_de_Leipzig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Panoràmma_de_Leipzig.jpg/1200px-Panoràmma_de_Leipzig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Panoràmma_de_Leipzig.jpg/1920px-Panoràmma_de_Leipzig.jpg
 ---
 
 ## Overview

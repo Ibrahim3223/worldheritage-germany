@@ -1,19 +1,50 @@
 ---
-title: "Drewitzer See"
+title: Drewitzer See
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.541944444
 longitude: 12.363333333
 images:
-  - "/images-sites/drewitzer-see/01-e9cae739-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drewitzer_See.jpg/1200px-Drewitzer_See.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drewitzer_See-2.jpg/1200px-Drewitzer_See-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Drewitzsee_1.jpg/1200px-Drewitzsee_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg/1200px-Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1200px-Alt-Schweriner-See-09-07-2008-012a.jpg
+image_srcset:
+  Drewitzer See.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drewitzer_See.jpg/400px-Drewitzer_See.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drewitzer_See.jpg/800px-Drewitzer_See.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drewitzer_See.jpg/1200px-Drewitzer_See.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drewitzer_See.jpg/1920px-Drewitzer_See.jpg
+  Drewitzer See-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drewitzer_See-2.jpg/400px-Drewitzer_See-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drewitzer_See-2.jpg/800px-Drewitzer_See-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drewitzer_See-2.jpg/1200px-Drewitzer_See-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Drewitzer_See-2.jpg/1920px-Drewitzer_See-2.jpg
+  Drewitzsee 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Drewitzsee_1.jpg/400px-Drewitzsee_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Drewitzsee_1.jpg/800px-Drewitzsee_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Drewitzsee_1.jpg/1200px-Drewitzsee_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Drewitzsee_1.jpg/1920px-Drewitzsee_1.jpg
+  Nebelstimmung im Naturschutzgebiet „Drewitzer See mit Lübowsee und Dreiersee“.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg/400px-Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg/800px-Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg/1200px-Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg/1920px-Nebelstimmung_im_Naturschutzgebiet_„Drewitzer_See_mit_Lübowsee_und_Dreiersee“.jpg
+  Alt-Schweriner-See-09-07-2008-012a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/400px-Alt-Schweriner-See-09-07-2008-012a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/800px-Alt-Schweriner-See-09-07-2008-012a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1200px-Alt-Schweriner-See-09-07-2008-012a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Alt-Schweriner-See-09-07-2008-012a.jpg/1920px-Alt-Schweriner-See-09-07-2008-012a.jpg
 ---
 
 ## Overview

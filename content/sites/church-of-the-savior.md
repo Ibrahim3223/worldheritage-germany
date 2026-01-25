@@ -1,23 +1,50 @@
 ---
-title: "Church of the Savior"
-site_name: "Church of the Savior"
-slug: "church-of-the-savior"
-region: "Berlin"
-
-# Location
+title: Church of the Savior
+site_name: Church of the Savior
+slug: church-of-the-savior
+region: Berlin
 latitude: 52.526133
 longitude: 13.339986
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1594750"
-description: "In the heart of Berlin-Moabit, the Church of the Savior stands as a notable example of Gothic Revival architecture, drawing visitors with its intricate ..."
+- cultural site
+wikidata_id: Q1594750
+description: In the heart of Berlin-Moabit, the Church of the Savior stands as a notable
+  example of Gothic Revival architecture, drawing visitors with its intricate ...
 images:
-  - "/images-sites/church-of-the-savior/01-4e2c0b65-1920w.webp"
-  - "/images-sites/church-of-the-savior/02-ba870c50-1920w.webp"
-  - "/images-sites/church-of-the-savior/03-7429cde5-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg/1200px-Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/1200px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/1200px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Matskhvarishi_church_of_the_Saviour_2.jpg/1200px-Matskhvarishi_church_of_the_Saviour_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matskhvarishi_church_of_the_Saviour.jpg/1200px-Matskhvarishi_church_of_the_Saviour.jpg
+image_srcset:
+  Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg/400px-Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg/800px-Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg/1200px-Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg/1920px-Berlin%20Heilandskirche%20Moabit%20asv2021-03.jpg
+  Erlöserkirche in Aserbaidschan Baku.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/400px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/800px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/1200px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Erlöserkirche_in_Aserbaidschan_Baku.jpg/1920px-Erlöserkirche_in_Aserbaidschan_Baku.jpg
+  Hülfensberg Erlöserkirche St. Salvator innen 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/400px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/800px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/1200px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg/1920px-Hülfensberg_Erlöserkirche_St._Salvator_innen_04.jpg
+  Matskhvarishi church of the Saviour 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Matskhvarishi_church_of_the_Saviour_2.jpg/400px-Matskhvarishi_church_of_the_Saviour_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Matskhvarishi_church_of_the_Saviour_2.jpg/800px-Matskhvarishi_church_of_the_Saviour_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Matskhvarishi_church_of_the_Saviour_2.jpg/1200px-Matskhvarishi_church_of_the_Saviour_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Matskhvarishi_church_of_the_Saviour_2.jpg/1920px-Matskhvarishi_church_of_the_Saviour_2.jpg
+  Matskhvarishi church of the Saviour.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matskhvarishi_church_of_the_Saviour.jpg/400px-Matskhvarishi_church_of_the_Saviour.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matskhvarishi_church_of_the_Saviour.jpg/800px-Matskhvarishi_church_of_the_Saviour.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matskhvarishi_church_of_the_Saviour.jpg/1200px-Matskhvarishi_church_of_the_Saviour.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matskhvarishi_church_of_the_Saviour.jpg/1920px-Matskhvarishi_church_of_the_Saviour.jpg
 ---
 
 ## Overview

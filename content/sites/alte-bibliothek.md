@@ -1,19 +1,49 @@
 ---
-title: "Alte Bibliothek"
+title: Alte Bibliothek
 date: 2026-01-23
 draft: false
-description: "library building in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library building in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5164
 longitude: 13.3933
 images:
-  - "/images-sites/alte-bibliothek/01-a9c992b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/1200px-Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg/1200px-Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg/1200px-Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG/1200px-Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1200px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
+image_srcset:
+  Alte Bibliothek Bebelplatz Berlin-Mitte at night 2021-01-17 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/400px-Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/800px-Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/1200px-Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg/1920px-Alte_Bibliothek_Bebelplatz_Berlin-Mitte_at_night_2021-01-17_02.jpg
+  Alte Bibliothek, Bebelplatz, Berlin-Mitte, 150926, ako.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg/400px-Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg/800px-Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg/1200px-Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg/1920px-Alte_Bibliothek,_Bebelplatz,_Berlin-Mitte,_150926,_ako.jpg
+  Öffentlicher Bücherschrank in der alten Bibliothek.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg/400px-Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg/800px-Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg/1200px-Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg/1920px-Öffentlicher_Bücherschrank_in_der_alten_Bibliothek.jpg
+  Berlin-Mitte, Humboldt University, the Faculty of Law.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG/400px-Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG/800px-Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG/1200px-Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG/1920px-Berlin-Mitte,_Humboldt_University,_the_Faculty_of_Law.JPG
+  Berlin-Mitte Bebelplatz1 05-2014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/400px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/800px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1200px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Berlin-Mitte_Bebelplatz1_05-2014.jpg/1920px-Berlin-Mitte_Bebelplatz1_05-2014.jpg
 ---
 
 ## Overview

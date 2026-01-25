@@ -1,19 +1,49 @@
 ---
-title: "Alteburg"
+title: Alteburg
 date: 2026-01-23
 draft: false
-description: "hillfort in Essen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Roman Villa"
+description: hillfort in Essen, Germany
+region: Germany
+country: Germany
+heritage_type: Roman Villa
 categories:
-  - "Roman Villa"
+- Roman Villa
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3756
 longitude: 6.99722
 images:
-  - "/images-sites/alteburg/01-25248592-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alteburg_-_Seesbach.JPG/1200px-Alteburg_-_Seesbach.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_-_Alteburg_05_ies.jpg/1200px-Essen_-_Alteburg_05_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alteburg_Essen_Geländemodell.jpg/1200px-Alteburg_Essen_Geländemodell.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss-gemundenalteburp.jpg/1200px-Schloss-gemundenalteburp.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alteburginfoswrp.jpg/1200px-Alteburginfoswrp.jpg
+image_srcset:
+  Alteburg - Seesbach.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alteburg_-_Seesbach.JPG/400px-Alteburg_-_Seesbach.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alteburg_-_Seesbach.JPG/800px-Alteburg_-_Seesbach.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alteburg_-_Seesbach.JPG/1200px-Alteburg_-_Seesbach.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alteburg_-_Seesbach.JPG/1920px-Alteburg_-_Seesbach.JPG
+  Essen - Alteburg 05 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_-_Alteburg_05_ies.jpg/400px-Essen_-_Alteburg_05_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_-_Alteburg_05_ies.jpg/800px-Essen_-_Alteburg_05_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_-_Alteburg_05_ies.jpg/1200px-Essen_-_Alteburg_05_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Essen_-_Alteburg_05_ies.jpg/1920px-Essen_-_Alteburg_05_ies.jpg
+  Alteburg Essen Geländemodell.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alteburg_Essen_Geländemodell.jpg/400px-Alteburg_Essen_Geländemodell.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alteburg_Essen_Geländemodell.jpg/800px-Alteburg_Essen_Geländemodell.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alteburg_Essen_Geländemodell.jpg/1200px-Alteburg_Essen_Geländemodell.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alteburg_Essen_Geländemodell.jpg/1920px-Alteburg_Essen_Geländemodell.jpg
+  Schloss-gemundenalteburp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss-gemundenalteburp.jpg/400px-Schloss-gemundenalteburp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss-gemundenalteburp.jpg/800px-Schloss-gemundenalteburp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss-gemundenalteburp.jpg/1200px-Schloss-gemundenalteburp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schloss-gemundenalteburp.jpg/1920px-Schloss-gemundenalteburp.jpg
+  Alteburginfoswrp.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alteburginfoswrp.jpg/400px-Alteburginfoswrp.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alteburginfoswrp.jpg/800px-Alteburginfoswrp.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alteburginfoswrp.jpg/1200px-Alteburginfoswrp.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alteburginfoswrp.jpg/1920px-Alteburginfoswrp.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2320964"
 description: "In the serene town of Bad Honnef, Germany, St. Mariä Heimsuchung stands as a notable church building that reflects the communitys religious heritage. Co..."
 images:
-  - "/images-sites/st-maria-heimsuchung-rhondorf/01-bcad4d59-1920w.webp"
-  - "/images-sites/st-maria-heimsuchung-rhondorf/02-ac42e452-1920w.webp"
-  - "/images-sites/st-maria-heimsuchung-rhondorf/03-4d8a89ca-1920w.webp"
+  - "/images/st-maria-heimsuchung-rhondorf/01-bcad4d59-1920w.webp"
+  - "/images/st-maria-heimsuchung-rhondorf/02-ac42e452-1920w.webp"
+  - "/images/st-maria-heimsuchung-rhondorf/03-4d8a89ca-1920w.webp"
 ---
 
 ## Overview

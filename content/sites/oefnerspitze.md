@@ -13,7 +13,7 @@ regions:
 latitude: 47.3175062
 longitude: 10.3487798
 images:
-  - "/images-sites/oefnerspitze/01-32807957-800w.webp"
+  - "/images/oefnerspitze/01-32807957-800w.webp"
 ---
 
 ## Overview

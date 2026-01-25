@@ -13,7 +13,7 @@ regions:
 latitude: 49.8239
 longitude: 8.4491
 images:
-  - "/images-sites/kuehkopf-knoblochsaue/01-5f110ce7-800w.webp"
+  - "/images/kuehkopf-knoblochsaue/01-5f110ce7-800w.webp"
 ---
 
 ## Overview

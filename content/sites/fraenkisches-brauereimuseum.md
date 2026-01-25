@@ -1,21 +1,49 @@
 ---
-title: "Fränkisches Brauereimuseum"
+title: Fränkisches Brauereimuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8933
 longitude: 10.8758
 images:
-  - "/images-sites/fraenkisches-brauereimuseum/01-86252659-800w.webp"
-  - "/images-sites/fraenkisches-brauereimuseum/02-9fa6831b-800w.webp"
-  - "/images-sites/fraenkisches-brauereimuseum/03-b3ef3a02-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/1200px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg
+image_srcset:
+  Fränkisches brauereimuseum Bamberg - 3.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/400px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/800px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/1200px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fränkisches_brauereimuseum_Bamberg_-_3.jpeg/1920px-Fränkisches_brauereimuseum_Bamberg_-_3.jpeg
+  Bamberg Fränkisches Brauereimuseum-20210805-RM-130509.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg/400px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg/800px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg/1920px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-130509.jpg
+  Bamberg Fränkisches Brauereimuseum-20210805-RM-124334.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg/400px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg/800px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg/1920px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124334.jpg
+  Bamberg Fränkisches Brauereimuseum-20210805-RM-123850.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg/400px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg/800px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg/1920px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-123850.jpg
+  Bamberg Fränkisches Brauereimuseum-20210805-RM-124407.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg/400px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg/800px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg/1200px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg/1920px-Bamberg_Fränkisches_Brauereimuseum-20210805-RM-124407.jpg
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "French Garden"
+title: French Garden
 date: 2026-01-23
 draft: false
-description: "park in Celle, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Celle, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6208
 longitude: 10.0829
 images:
-  - "/images-sites/french-garden/01-077c7d70-800w.webp"
-  - "/images-sites/french-garden/02-a01c16ec-800w.webp"
-  - "/images-sites/french-garden/03-9587df07-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Obernsees_Barockgarten_-20210808-RM-163611.jpg/1200px-Obernsees_Barockgarten_-20210808-RM-163611.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg/1200px-Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg/1200px-Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jardin_botanique_d’Évreux_007.jpg/1200px-Jardin_botanique_d’Évreux_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/046VerGard.jpg/1200px-046VerGard.jpg
+image_srcset:
+  Obernsees Barockgarten -20210808-RM-163611.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Obernsees_Barockgarten_-20210808-RM-163611.jpg/400px-Obernsees_Barockgarten_-20210808-RM-163611.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Obernsees_Barockgarten_-20210808-RM-163611.jpg/800px-Obernsees_Barockgarten_-20210808-RM-163611.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Obernsees_Barockgarten_-20210808-RM-163611.jpg/1200px-Obernsees_Barockgarten_-20210808-RM-163611.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Obernsees_Barockgarten_-20210808-RM-163611.jpg/1920px-Obernsees_Barockgarten_-20210808-RM-163611.jpg
+  Pommersfelden Schloss Weissenstein-20210801-RM-170320.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg/400px-Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg/800px-Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg/1200px-Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg/1920px-Pommersfelden_Schloss_Weissenstein-20210801-RM-170320.jpg
+  Ludwigsburg Schlossgarten-20140327-RM-160231.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg/400px-Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg/800px-Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg/1200px-Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg/1920px-Ludwigsburg_Schlossgarten-20140327-RM-160231.jpg
+  Jardin botanique d’Évreux 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jardin_botanique_d’Évreux_007.jpg/400px-Jardin_botanique_d’Évreux_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jardin_botanique_d’Évreux_007.jpg/800px-Jardin_botanique_d’Évreux_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jardin_botanique_d’Évreux_007.jpg/1200px-Jardin_botanique_d’Évreux_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jardin_botanique_d’Évreux_007.jpg/1920px-Jardin_botanique_d’Évreux_007.jpg
+  046VerGard.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/046VerGard.jpg/400px-046VerGard.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/046VerGard.jpg/800px-046VerGard.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/046VerGard.jpg/1200px-046VerGard.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/046VerGard.jpg/1920px-046VerGard.jpg
 ---
 
 ## Overview

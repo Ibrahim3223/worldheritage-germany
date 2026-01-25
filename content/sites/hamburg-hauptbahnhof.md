@@ -1,19 +1,49 @@
 ---
-title: "Hamburg Hauptbahnhof"
+title: Hamburg Hauptbahnhof
 date: 2026-01-23
 draft: false
-description: "main railway station for the German city of Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: main railway station for the German city of Hamburg
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.552778
 longitude: 10.006389
 images:
-  - "/images-sites/hamburg-hauptbahnhof/01-732615f9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2013-06-08_Highflyer_HP_L4729.JPG/1200px-2013-06-08_Highflyer_HP_L4729.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2013-06-08_Highflyer_HP_L4733.JPG/1200px-2013-06-08_Highflyer_HP_L4733.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/1200px-Hamburg_Hauptbahnhof_2009_319.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg/1200px-Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_Hbf_1906.jpg/1200px-Hamburg_Hbf_1906.jpg
+image_srcset:
+  2013-06-08 Highflyer HP L4729.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2013-06-08_Highflyer_HP_L4729.JPG/400px-2013-06-08_Highflyer_HP_L4729.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2013-06-08_Highflyer_HP_L4729.JPG/800px-2013-06-08_Highflyer_HP_L4729.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2013-06-08_Highflyer_HP_L4729.JPG/1200px-2013-06-08_Highflyer_HP_L4729.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2013-06-08_Highflyer_HP_L4729.JPG/1920px-2013-06-08_Highflyer_HP_L4729.JPG
+  2013-06-08 Highflyer HP L4733.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2013-06-08_Highflyer_HP_L4733.JPG/400px-2013-06-08_Highflyer_HP_L4733.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2013-06-08_Highflyer_HP_L4733.JPG/800px-2013-06-08_Highflyer_HP_L4733.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2013-06-08_Highflyer_HP_L4733.JPG/1200px-2013-06-08_Highflyer_HP_L4733.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2013-06-08_Highflyer_HP_L4733.JPG/1920px-2013-06-08_Highflyer_HP_L4733.JPG
+  Hamburg Hauptbahnhof 2009 319.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/400px-Hamburg_Hauptbahnhof_2009_319.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/800px-Hamburg_Hauptbahnhof_2009_319.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/1200px-Hamburg_Hauptbahnhof_2009_319.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamburg_Hauptbahnhof_2009_319.JPG/1920px-Hamburg_Hauptbahnhof_2009_319.JPG
+  Hauptbahnhof, Hamburg (LRM 20191130 154653).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg/400px-Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg/800px-Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg/1200px-Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg/1920px-Hauptbahnhof,_Hamburg_(LRM_20191130_154653).jpg
+  Hamburg Hbf 1906.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_Hbf_1906.jpg/400px-Hamburg_Hbf_1906.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_Hbf_1906.jpg/800px-Hamburg_Hbf_1906.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_Hbf_1906.jpg/1200px-Hamburg_Hbf_1906.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamburg_Hbf_1906.jpg/1920px-Hamburg_Hbf_1906.jpg
 ---
 
 ## Overview

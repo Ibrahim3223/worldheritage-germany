@@ -13,7 +13,7 @@ regions:
 latitude: 54.79553
 longitude: 9.43017
 images:
-  - "/images-sites/nordertor/01-bb1c511b-800w.webp"
+  - "/images/nordertor/01-bb1c511b-800w.webp"
 ---
 
 ## Overview

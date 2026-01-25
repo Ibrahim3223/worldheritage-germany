@@ -1,19 +1,50 @@
 ---
-title: "Church in Bartow"
-site_name: "Church in Bartow"
-slug: "church-in-bartow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Bartow
+site_name: Church in Bartow
+slug: church-in-bartow
+region: Mecklenburg-Vorpommern
 latitude: 53.8163
 longitude: 13.3458
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1680595"
-description: "In the heart of Bartow, Germany, lies a church building that embodies the unique architectural style of Brick Gothic. This intriguing structure, constru..."
+- cultural site
+wikidata_id: Q1680595
+description: In the heart of Bartow, Germany, lies a church building that embodies
+  the unique architectural style of Brick Gothic. This intriguing structure, constru...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartow%20Vorpommern%20Ostgiebel.JPG/1200px-Bartow%20Vorpommern%20Ostgiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bartow_Vorpommern_Kirchturm.jpg/1200px-Bartow_Vorpommern_Kirchturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG/1200px-Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1200px-Bartow_Vorpommern_Ostgiebel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bartow_Vorpommern_Kirche_Wetterfahne.JPG/1200px-Bartow_Vorpommern_Kirche_Wetterfahne.JPG
+image_srcset:
+  Bartow%20Vorpommern%20Ostgiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartow%20Vorpommern%20Ostgiebel.JPG/400px-Bartow%20Vorpommern%20Ostgiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartow%20Vorpommern%20Ostgiebel.JPG/800px-Bartow%20Vorpommern%20Ostgiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartow%20Vorpommern%20Ostgiebel.JPG/1200px-Bartow%20Vorpommern%20Ostgiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartow%20Vorpommern%20Ostgiebel.JPG/1920px-Bartow%20Vorpommern%20Ostgiebel.JPG
+  Bartow Vorpommern Kirchturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bartow_Vorpommern_Kirchturm.jpg/400px-Bartow_Vorpommern_Kirchturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bartow_Vorpommern_Kirchturm.jpg/800px-Bartow_Vorpommern_Kirchturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bartow_Vorpommern_Kirchturm.jpg/1200px-Bartow_Vorpommern_Kirchturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bartow_Vorpommern_Kirchturm.jpg/1920px-Bartow_Vorpommern_Kirchturm.jpg
+  Bartow Vorpommern Kirche Denkmal Mauer.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG/400px-Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG/800px-Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG/1200px-Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG/1920px-Bartow_Vorpommern_Kirche_Denkmal_Mauer.JPG
+  Bartow Vorpommern Ostgiebel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/400px-Bartow_Vorpommern_Ostgiebel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/800px-Bartow_Vorpommern_Ostgiebel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1200px-Bartow_Vorpommern_Ostgiebel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bartow_Vorpommern_Ostgiebel.JPG/1920px-Bartow_Vorpommern_Ostgiebel.JPG
+  Bartow Vorpommern Kirche Wetterfahne.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bartow_Vorpommern_Kirche_Wetterfahne.JPG/400px-Bartow_Vorpommern_Kirche_Wetterfahne.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bartow_Vorpommern_Kirche_Wetterfahne.JPG/800px-Bartow_Vorpommern_Kirche_Wetterfahne.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bartow_Vorpommern_Kirche_Wetterfahne.JPG/1200px-Bartow_Vorpommern_Kirche_Wetterfahne.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bartow_Vorpommern_Kirche_Wetterfahne.JPG/1920px-Bartow_Vorpommern_Kirche_Wetterfahne.JPG
 ---
 
 ## Overview

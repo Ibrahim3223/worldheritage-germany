@@ -21,7 +21,7 @@ longitude: 8.01333
 
 # Images
 images:
-  - "/images-sites/new-bolanden-castle/01-d308e60f-800w.webp"
+  - "/images/new-bolanden-castle/01-d308e60f-800w.webp"
 ---
 
 ## Overview

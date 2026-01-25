@@ -13,7 +13,7 @@ regions:
 latitude: 48.4853
 longitude: 8.33328
 images:
-  - "/images-sites/sankenbach-waterfalls/01-d46c6f66-800w.webp"
+  - "/images/sankenbach-waterfalls/01-d46c6f66-800w.webp"
 ---
 
 ## Overview

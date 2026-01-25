@@ -1,21 +1,49 @@
 ---
-title: "Berger memorial"
+title: Berger memorial
 date: 2026-01-23
 draft: false
-description: "observation tower in Witten"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: observation tower in Witten
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.425833333
 longitude: 7.351666666
 images:
-  - "/images-sites/berger-memorial/01-3a3410d4-800w.webp"
-  - "/images-sites/berger-memorial/02-a1054931-800w.webp"
-  - "/images-sites/berger-memorial/03-3c3631ff-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BergerDenkmal2.jpg/1200px-BergerDenkmal2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BergerInschrift2.jpg/1200px-BergerInschrift2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Witten-Hohenstein-IMG_0864.JPG/1200px-Witten-Hohenstein-IMG_0864.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten-Hohenstein-IMG_0868.JPG/1200px-Witten-Hohenstein-IMG_0868.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Witten_Grottenburg.jpg/1200px-Witten_Grottenburg.jpg
+image_srcset:
+  BergerDenkmal2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BergerDenkmal2.jpg/400px-BergerDenkmal2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BergerDenkmal2.jpg/800px-BergerDenkmal2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BergerDenkmal2.jpg/1200px-BergerDenkmal2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BergerDenkmal2.jpg/1920px-BergerDenkmal2.jpg
+  BergerInschrift2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BergerInschrift2.jpg/400px-BergerInschrift2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BergerInschrift2.jpg/800px-BergerInschrift2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BergerInschrift2.jpg/1200px-BergerInschrift2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BergerInschrift2.jpg/1920px-BergerInschrift2.jpg
+  Witten-Hohenstein-IMG 0864.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Witten-Hohenstein-IMG_0864.JPG/400px-Witten-Hohenstein-IMG_0864.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Witten-Hohenstein-IMG_0864.JPG/800px-Witten-Hohenstein-IMG_0864.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Witten-Hohenstein-IMG_0864.JPG/1200px-Witten-Hohenstein-IMG_0864.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Witten-Hohenstein-IMG_0864.JPG/1920px-Witten-Hohenstein-IMG_0864.JPG
+  Witten-Hohenstein-IMG 0868.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten-Hohenstein-IMG_0868.JPG/400px-Witten-Hohenstein-IMG_0868.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten-Hohenstein-IMG_0868.JPG/800px-Witten-Hohenstein-IMG_0868.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten-Hohenstein-IMG_0868.JPG/1200px-Witten-Hohenstein-IMG_0868.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Witten-Hohenstein-IMG_0868.JPG/1920px-Witten-Hohenstein-IMG_0868.JPG
+  Witten Grottenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Witten_Grottenburg.jpg/400px-Witten_Grottenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Witten_Grottenburg.jpg/800px-Witten_Grottenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Witten_Grottenburg.jpg/1200px-Witten_Grottenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Witten_Grottenburg.jpg/1920px-Witten_Grottenburg.jpg
 ---
 
 ## Overview

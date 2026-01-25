@@ -13,7 +13,7 @@ regions:
 latitude: 49.7717
 longitude: 6.66389
 images:
-  - "/images-sites/swt-arena/01-029972db-800w.webp"
+  - "/images/swt-arena/01-029972db-800w.webp"
 ---
 
 ## Overview

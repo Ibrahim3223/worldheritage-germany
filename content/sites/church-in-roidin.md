@@ -1,19 +1,50 @@
 ---
-title: "Church in Roidin"
-site_name: "Church in Roidin"
-slug: "church-in-roidin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Roidin
+site_name: Church in Roidin
+slug: church-in-roidin
+region: Mecklenburg-Vorpommern
 latitude: 53.8508
 longitude: 13.1731
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1633417"
-description: "In the heart of Utzedel, Germany, the Church in Roidin stands as a striking example of Gothic Revival architecture, showcasing the enduring beauty and c..."
+- cultural site
+wikidata_id: Q1633417
+description: In the heart of Utzedel, Germany, the Church in Roidin stands as a striking
+  example of Gothic Revival architecture, showcasing the enduring beauty and c...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roidin%20Kirche%20Nordost.JPG/1200px-Roidin%20Kirche%20Nordost.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/1200px-Roidin_Kirche_Nordost.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Roidin_Kirche_Südseite.JPG/1200px-Roidin_Kirche_Südseite.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Roidin_Kirche_Glockenstuhl.JPG/1200px-Roidin_Kirche_Glockenstuhl.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Roidin_Kirche_Ostseite.JPG/1200px-Roidin_Kirche_Ostseite.JPG
+image_srcset:
+  Roidin%20Kirche%20Nordost.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roidin%20Kirche%20Nordost.JPG/400px-Roidin%20Kirche%20Nordost.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roidin%20Kirche%20Nordost.JPG/800px-Roidin%20Kirche%20Nordost.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roidin%20Kirche%20Nordost.JPG/1200px-Roidin%20Kirche%20Nordost.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roidin%20Kirche%20Nordost.JPG/1920px-Roidin%20Kirche%20Nordost.JPG
+  Roidin Kirche Nordost.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/400px-Roidin_Kirche_Nordost.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/800px-Roidin_Kirche_Nordost.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/1200px-Roidin_Kirche_Nordost.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Roidin_Kirche_Nordost.JPG/1920px-Roidin_Kirche_Nordost.JPG
+  Roidin Kirche Südseite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Roidin_Kirche_Südseite.JPG/400px-Roidin_Kirche_Südseite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Roidin_Kirche_Südseite.JPG/800px-Roidin_Kirche_Südseite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Roidin_Kirche_Südseite.JPG/1200px-Roidin_Kirche_Südseite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Roidin_Kirche_Südseite.JPG/1920px-Roidin_Kirche_Südseite.JPG
+  Roidin Kirche Glockenstuhl.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Roidin_Kirche_Glockenstuhl.JPG/400px-Roidin_Kirche_Glockenstuhl.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Roidin_Kirche_Glockenstuhl.JPG/800px-Roidin_Kirche_Glockenstuhl.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Roidin_Kirche_Glockenstuhl.JPG/1200px-Roidin_Kirche_Glockenstuhl.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Roidin_Kirche_Glockenstuhl.JPG/1920px-Roidin_Kirche_Glockenstuhl.JPG
+  Roidin Kirche Ostseite.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Roidin_Kirche_Ostseite.JPG/400px-Roidin_Kirche_Ostseite.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Roidin_Kirche_Ostseite.JPG/800px-Roidin_Kirche_Ostseite.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Roidin_Kirche_Ostseite.JPG/1200px-Roidin_Kirche_Ostseite.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Roidin_Kirche_Ostseite.JPG/1920px-Roidin_Kirche_Ostseite.JPG
 ---
 
 ## Overview

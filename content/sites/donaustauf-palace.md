@@ -1,19 +1,49 @@
 ---
-title: "Donaustauf Palace"
+title: Donaustauf Palace
 date: 2026-01-23
 draft: false
-description: "former palace destroyed 1880"
-region: "Germany"
-country: "Germany"
-heritage_type: "Palace"
+description: former palace destroyed 1880
+region: Germany
+country: Germany
+heritage_type: Palace
 categories:
-  - "Palace"
+- Palace
 regions:
-  - "Germany"
+- Germany
 latitude: 49.03001
 longitude: 12.21187
 images:
-  - "/images-sites/donaustauf-palace/01-4000b57a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss_Donaustauf_Zeittafel.jpg/1200px-Schloss_Donaustauf_Zeittafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg/1200px-Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1200px-Donaustauf_in_19th_century.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png/1200px-Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Donaustauf_mit_Walhalla_und_Schloss.jpg/1200px-Donaustauf_mit_Walhalla_und_Schloss.jpg
+image_srcset:
+  Schloss Donaustauf Zeittafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss_Donaustauf_Zeittafel.jpg/400px-Schloss_Donaustauf_Zeittafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss_Donaustauf_Zeittafel.jpg/800px-Schloss_Donaustauf_Zeittafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss_Donaustauf_Zeittafel.jpg/1200px-Schloss_Donaustauf_Zeittafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Schloss_Donaustauf_Zeittafel.jpg/1920px-Schloss_Donaustauf_Zeittafel.jpg
+  Schloss Donaustauf Rekonstruktion und Plan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg/400px-Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg/800px-Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg/1200px-Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg/1920px-Schloss_Donaustauf_Rekonstruktion_und_Plan.jpg
+  Donaustauf in 19th century.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/400px-Donaustauf_in_19th_century.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/800px-Donaustauf_in_19th_century.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1200px-Donaustauf_in_19th_century.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Donaustauf_in_19th_century.jpg/1920px-Donaustauf_in_19th_century.jpg
+  Donaustauf Plan for neogothical redesign of the palace facade by Ludwig Voltz - 1846.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png/400px-Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png/800px-Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png/1200px-Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png/1920px-Donaustauf_Plan_for_neogothical_redesign_of_the_palace_facade_by_Ludwig_Voltz_-_1846.png
+  Donaustauf mit Walhalla und Schloss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Donaustauf_mit_Walhalla_und_Schloss.jpg/400px-Donaustauf_mit_Walhalla_und_Schloss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Donaustauf_mit_Walhalla_und_Schloss.jpg/800px-Donaustauf_mit_Walhalla_und_Schloss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Donaustauf_mit_Walhalla_und_Schloss.jpg/1200px-Donaustauf_mit_Walhalla_und_Schloss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Donaustauf_mit_Walhalla_und_Schloss.jpg/1920px-Donaustauf_mit_Walhalla_und_Schloss.jpg
 ---
 
 ## Overview

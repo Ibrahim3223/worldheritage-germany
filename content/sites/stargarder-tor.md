@@ -13,7 +13,7 @@ regions:
 latitude: 53.5541
 longitude: 13.2612
 images:
-  - "/images-sites/stargarder-tor/01-753fa4bc-800w.webp"
+  - "/images/stargarder-tor/01-753fa4bc-800w.webp"
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Am Wall Windmill"
+title: Am Wall Windmill
 date: 2026-01-24
 draft: false
-description: "German windmill"
-region: "Germany"
-country: "Germany"
-heritage_type: "Windmill"
+description: German windmill
+region: Germany
+country: Germany
+heritage_type: Windmill
 categories:
-  - "Windmill"
+- Windmill
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0801
 longitude: 8.80682
 images:
-  - "/images-sites/am-wall-windmill/01-0cbd5b47-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühle_am_Wall_in_3D.jpg/1200px-Mühle_am_Wall_in_3D.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HB_2016-0607_photo01_Wall_windmill.jpg/1200px-HB_2016-0607_photo01_Wall_windmill.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bremen_October_2012-9.jpg/1200px-Bremen_October_2012-9.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremen_October_2012-10.jpg/1200px-Bremen_October_2012-10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/1200px-00_1474_Hansestadt_Bremen.jpg
+image_srcset:
+  Mühle am Wall in 3D.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühle_am_Wall_in_3D.jpg/400px-Mühle_am_Wall_in_3D.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühle_am_Wall_in_3D.jpg/800px-Mühle_am_Wall_in_3D.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühle_am_Wall_in_3D.jpg/1200px-Mühle_am_Wall_in_3D.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Mühle_am_Wall_in_3D.jpg/1920px-Mühle_am_Wall_in_3D.jpg
+  HB 2016-0607 photo01 Wall windmill.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HB_2016-0607_photo01_Wall_windmill.jpg/400px-HB_2016-0607_photo01_Wall_windmill.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HB_2016-0607_photo01_Wall_windmill.jpg/800px-HB_2016-0607_photo01_Wall_windmill.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HB_2016-0607_photo01_Wall_windmill.jpg/1200px-HB_2016-0607_photo01_Wall_windmill.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/HB_2016-0607_photo01_Wall_windmill.jpg/1920px-HB_2016-0607_photo01_Wall_windmill.jpg
+  Bremen October 2012-9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bremen_October_2012-9.jpg/400px-Bremen_October_2012-9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bremen_October_2012-9.jpg/800px-Bremen_October_2012-9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bremen_October_2012-9.jpg/1200px-Bremen_October_2012-9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bremen_October_2012-9.jpg/1920px-Bremen_October_2012-9.jpg
+  Bremen October 2012-10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremen_October_2012-10.jpg/400px-Bremen_October_2012-10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremen_October_2012-10.jpg/800px-Bremen_October_2012-10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremen_October_2012-10.jpg/1200px-Bremen_October_2012-10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bremen_October_2012-10.jpg/1920px-Bremen_October_2012-10.jpg
+  00 1474 Hansestadt Bremen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/400px-00_1474_Hansestadt_Bremen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/800px-00_1474_Hansestadt_Bremen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/1200px-00_1474_Hansestadt_Bremen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/00_1474_Hansestadt_Bremen.jpg/1920px-00_1474_Hansestadt_Bremen.jpg
 ---
 
 ## Overview

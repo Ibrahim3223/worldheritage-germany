@@ -1,27 +1,49 @@
 ---
-title: "Burg Volmarstein"
+title: Burg Volmarstein
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3743
 longitude: 7.38264
-
-# Images
 images:
-  - "/images-sites/burg-volmarstein/01-8a562b5e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ruine_Volmarstein_(2).jpg/1200px-Ruine_Volmarstein_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aufstieg_zur_Burgruine_Volmarstein.jpg/1200px-Aufstieg_zur_Burgruine_Volmarstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ruine_Volmarstein_(6).jpg/1200px-Ruine_Volmarstein_(6).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruine_Volmarstein.jpg/1200px-Ruine_Volmarstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BurgruineVolmarstein.jpg/1200px-BurgruineVolmarstein.jpg
+image_srcset:
+  Ruine Volmarstein (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ruine_Volmarstein_(2).jpg/400px-Ruine_Volmarstein_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ruine_Volmarstein_(2).jpg/800px-Ruine_Volmarstein_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ruine_Volmarstein_(2).jpg/1200px-Ruine_Volmarstein_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ruine_Volmarstein_(2).jpg/1920px-Ruine_Volmarstein_(2).jpg
+  Aufstieg zur Burgruine Volmarstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aufstieg_zur_Burgruine_Volmarstein.jpg/400px-Aufstieg_zur_Burgruine_Volmarstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aufstieg_zur_Burgruine_Volmarstein.jpg/800px-Aufstieg_zur_Burgruine_Volmarstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aufstieg_zur_Burgruine_Volmarstein.jpg/1200px-Aufstieg_zur_Burgruine_Volmarstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Aufstieg_zur_Burgruine_Volmarstein.jpg/1920px-Aufstieg_zur_Burgruine_Volmarstein.jpg
+  Ruine Volmarstein (6).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ruine_Volmarstein_(6).jpg/400px-Ruine_Volmarstein_(6).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ruine_Volmarstein_(6).jpg/800px-Ruine_Volmarstein_(6).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ruine_Volmarstein_(6).jpg/1200px-Ruine_Volmarstein_(6).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ruine_Volmarstein_(6).jpg/1920px-Ruine_Volmarstein_(6).jpg
+  Ruine Volmarstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruine_Volmarstein.jpg/400px-Ruine_Volmarstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruine_Volmarstein.jpg/800px-Ruine_Volmarstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruine_Volmarstein.jpg/1200px-Ruine_Volmarstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruine_Volmarstein.jpg/1920px-Ruine_Volmarstein.jpg
+  BurgruineVolmarstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BurgruineVolmarstein.jpg/400px-BurgruineVolmarstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BurgruineVolmarstein.jpg/800px-BurgruineVolmarstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BurgruineVolmarstein.jpg/1200px-BurgruineVolmarstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BurgruineVolmarstein.jpg/1920px-BurgruineVolmarstein.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Glocken-StadtMuseum (Apolda, Germany)"
+title: Glocken-StadtMuseum (Apolda, Germany)
 date: 2026-01-23
 draft: false
-description: "museum in Apolda, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Apolda, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0269
 longitude: 11.5192
 images:
-  - "/images-sites/glocken-stadtmuseum-apolda-germany/01-242644c1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Glockenmuseum_Apolda_01.jpg/1200px-Glockenmuseum_Apolda_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Glockenmuseum_Apolda_09.jpg/1200px-Glockenmuseum_Apolda_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Glockenmuseum_Apolda_02.jpg/1200px-Glockenmuseum_Apolda_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1200px-Apolda_Glockenmuseum02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Glockenmuseum_Apolda_06.jpg/1200px-Glockenmuseum_Apolda_06.jpg
+image_srcset:
+  Glockenmuseum Apolda 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Glockenmuseum_Apolda_01.jpg/400px-Glockenmuseum_Apolda_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Glockenmuseum_Apolda_01.jpg/800px-Glockenmuseum_Apolda_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Glockenmuseum_Apolda_01.jpg/1200px-Glockenmuseum_Apolda_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Glockenmuseum_Apolda_01.jpg/1920px-Glockenmuseum_Apolda_01.jpg
+  Glockenmuseum Apolda 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Glockenmuseum_Apolda_09.jpg/400px-Glockenmuseum_Apolda_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Glockenmuseum_Apolda_09.jpg/800px-Glockenmuseum_Apolda_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Glockenmuseum_Apolda_09.jpg/1200px-Glockenmuseum_Apolda_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Glockenmuseum_Apolda_09.jpg/1920px-Glockenmuseum_Apolda_09.jpg
+  Glockenmuseum Apolda 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Glockenmuseum_Apolda_02.jpg/400px-Glockenmuseum_Apolda_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Glockenmuseum_Apolda_02.jpg/800px-Glockenmuseum_Apolda_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Glockenmuseum_Apolda_02.jpg/1200px-Glockenmuseum_Apolda_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Glockenmuseum_Apolda_02.jpg/1920px-Glockenmuseum_Apolda_02.jpg
+  Apolda Glockenmuseum02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/400px-Apolda_Glockenmuseum02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/800px-Apolda_Glockenmuseum02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1200px-Apolda_Glockenmuseum02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Apolda_Glockenmuseum02.jpg/1920px-Apolda_Glockenmuseum02.jpg
+  Glockenmuseum Apolda 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Glockenmuseum_Apolda_06.jpg/400px-Glockenmuseum_Apolda_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Glockenmuseum_Apolda_06.jpg/800px-Glockenmuseum_Apolda_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Glockenmuseum_Apolda_06.jpg/1200px-Glockenmuseum_Apolda_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Glockenmuseum_Apolda_06.jpg/1920px-Glockenmuseum_Apolda_06.jpg
 ---
 
 ## Overview

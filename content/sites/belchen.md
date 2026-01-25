@@ -1,20 +1,49 @@
 ---
-title: "Belchen"
+title: Belchen
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.8225
 longitude: 7.83361111
 images:
-  - "/images-sites/belchen/01-07716071-800w.webp"
-  - "/images-sites/belchen/03-9be5166a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg/1200px-Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Belchen_Boundary_Stone.jpg/1200px-Belchen_Boundary_Stone.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Belchen_1.JPG/1200px-Belchen_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Belchen_vom_Münstertal_3.jpg/1200px-Belchen_vom_Münstertal_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Belche-vum-Minschtertal.jpg/1200px-Belche-vum-Minschtertal.jpg
+image_srcset:
+  Kleines Wiesental - Neuenweg - Blick auf den Belchen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg/400px-Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg/800px-Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg/1200px-Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg/1920px-Kleines_Wiesental_-_Neuenweg_-_Blick_auf_den_Belchen.jpg
+  Belchen Boundary Stone.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Belchen_Boundary_Stone.jpg/400px-Belchen_Boundary_Stone.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Belchen_Boundary_Stone.jpg/800px-Belchen_Boundary_Stone.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Belchen_Boundary_Stone.jpg/1200px-Belchen_Boundary_Stone.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Belchen_Boundary_Stone.jpg/1920px-Belchen_Boundary_Stone.jpg
+  Belchen 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Belchen_1.JPG/400px-Belchen_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Belchen_1.JPG/800px-Belchen_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Belchen_1.JPG/1200px-Belchen_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Belchen_1.JPG/1920px-Belchen_1.JPG
+  Belchen vom Münstertal 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Belchen_vom_Münstertal_3.jpg/400px-Belchen_vom_Münstertal_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Belchen_vom_Münstertal_3.jpg/800px-Belchen_vom_Münstertal_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Belchen_vom_Münstertal_3.jpg/1200px-Belchen_vom_Münstertal_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Belchen_vom_Münstertal_3.jpg/1920px-Belchen_vom_Münstertal_3.jpg
+  Belche-vum-Minschtertal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Belche-vum-Minschtertal.jpg/400px-Belche-vum-Minschtertal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Belche-vum-Minschtertal.jpg/800px-Belche-vum-Minschtertal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Belche-vum-Minschtertal.jpg/1200px-Belche-vum-Minschtertal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Belche-vum-Minschtertal.jpg/1920px-Belche-vum-Minschtertal.jpg
 ---
 
 ## Overview

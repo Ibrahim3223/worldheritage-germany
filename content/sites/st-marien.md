@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1507585"
 description: "St. Marien stands as a significant church building in Parchim, Germany, characterized by its striking Brick Gothic architectural style. This remarkable ..."
 images:
-  - "/images-sites/st-marien/01-9e404a97-1920w.webp"
-  - "/images-sites/st-marien/02-a9b264ce-1920w.webp"
-  - "/images-sites/st-marien/03-3dffd024-1920w.webp"
+  - "/images/st-marien/01-9e404a97-1920w.webp"
+  - "/images/st-marien/02-a9b264ce-1920w.webp"
+  - "/images/st-marien/03-3dffd024-1920w.webp"
 ---
 
 ## Overview

@@ -1,27 +1,49 @@
 ---
-title: "Isenburg"
+title: Isenburg
 date: 2026-01-23
 draft: false
-description: "Burgruine in Hattingen-Niederbonsfeld, Nordrhein-Westfalen, Deutschland"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Burgruine in Hattingen-Niederbonsfeld, Nordrhein-Westfalen, Deutschland
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.3875
 longitude: 7.15222
-
-# Images
 images:
-  - "/images-sites/isenburg/01-3034e249-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg/1200px-Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg/1200px-Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hattingen_-_Leinpfad-Isenberg_01_ies.jpg/1200px-Hattingen_-_Leinpfad-Isenberg_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OelbunkerNI.jpg/1200px-OelbunkerNI.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg/1200px-Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg
+image_srcset:
+  Neu-Isenburg aus der Luftaus Richtung Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg/400px-Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg/800px-Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg/1200px-Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg/1920px-Neu-Isenburg_aus_der_Luftaus_Richtung_Westen.jpg
+  Grab Viktor Salvator von Isenburg-Büdingen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg/400px-Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg/800px-Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg/1200px-Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg/1920px-Grab_Viktor_Salvator_von_Isenburg-Büdingen.jpg
+  Hattingen - Leinpfad-Isenberg 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hattingen_-_Leinpfad-Isenberg_01_ies.jpg/400px-Hattingen_-_Leinpfad-Isenberg_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hattingen_-_Leinpfad-Isenberg_01_ies.jpg/800px-Hattingen_-_Leinpfad-Isenberg_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hattingen_-_Leinpfad-Isenberg_01_ies.jpg/1200px-Hattingen_-_Leinpfad-Isenberg_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hattingen_-_Leinpfad-Isenberg_01_ies.jpg/1920px-Hattingen_-_Leinpfad-Isenberg_01_ies.jpg
+  OelbunkerNI.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OelbunkerNI.jpg/400px-OelbunkerNI.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OelbunkerNI.jpg/800px-OelbunkerNI.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OelbunkerNI.jpg/1200px-OelbunkerNI.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/OelbunkerNI.jpg/1920px-OelbunkerNI.jpg
+  Aerial photo of Neu-Isenburg suburban neighborhood.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg/400px-Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg/800px-Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg/1200px-Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg/1920px-Aerial_photo_of_Neu-Isenburg_suburban_neighborhood.jpg
 ---
 
 ## Overview

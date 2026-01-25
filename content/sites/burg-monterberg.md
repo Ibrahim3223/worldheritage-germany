@@ -1,28 +1,43 @@
 ---
-title: "Burg Monterberg"
+title: Burg Monterberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.7214
 longitude: 6.30472
-
-# Images
 images:
-  - "/images-sites/burg-monterberg/02-626e3951-800w.webp"
-  - "/images-sites/burg-monterberg/03-3142a5c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Monterberg_2018_008.jpg/1200px-Monterberg_2018_008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Monterberg_2018_009.jpg/1200px-Monterberg_2018_009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monterberg_2018_016.jpg/1200px-Monterberg_2018_016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monterberg_2018_017.jpg/1200px-Monterberg_2018_017.jpg
+image_srcset:
+  Monterberg 2018 008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Monterberg_2018_008.jpg/400px-Monterberg_2018_008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Monterberg_2018_008.jpg/800px-Monterberg_2018_008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Monterberg_2018_008.jpg/1200px-Monterberg_2018_008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Monterberg_2018_008.jpg/1920px-Monterberg_2018_008.jpg
+  Monterberg 2018 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Monterberg_2018_009.jpg/400px-Monterberg_2018_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Monterberg_2018_009.jpg/800px-Monterberg_2018_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Monterberg_2018_009.jpg/1200px-Monterberg_2018_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Monterberg_2018_009.jpg/1920px-Monterberg_2018_009.jpg
+  Monterberg 2018 016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monterberg_2018_016.jpg/400px-Monterberg_2018_016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monterberg_2018_016.jpg/800px-Monterberg_2018_016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monterberg_2018_016.jpg/1200px-Monterberg_2018_016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monterberg_2018_016.jpg/1920px-Monterberg_2018_016.jpg
+  Monterberg 2018 017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monterberg_2018_017.jpg/400px-Monterberg_2018_017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monterberg_2018_017.jpg/800px-Monterberg_2018_017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monterberg_2018_017.jpg/1200px-Monterberg_2018_017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monterberg_2018_017.jpg/1920px-Monterberg_2018_017.jpg
 ---
 
 ## Overview

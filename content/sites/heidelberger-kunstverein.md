@@ -1,27 +1,43 @@
 ---
-title: "Heidelberger Kunstverein"
+title: Heidelberger Kunstverein
 date: 2026-01-23
 draft: false
-description: "voluntary association"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: voluntary association
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.41141667
 longitude: 8.70288889
-
-# Images
 images:
-  - "/images-sites/heidelberger-kunstverein/01-67253ea1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keining-Streifenbilder.jpg/1200px-Keining-Streifenbilder.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg/1200px-Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg/1200px-Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1200px-Kunstverein_Heidelberg.jpg
+image_srcset:
+  Keining-Streifenbilder.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keining-Streifenbilder.jpg/400px-Keining-Streifenbilder.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keining-Streifenbilder.jpg/800px-Keining-Streifenbilder.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keining-Streifenbilder.jpg/1200px-Keining-Streifenbilder.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keining-Streifenbilder.jpg/1920px-Keining-Streifenbilder.jpg
+  Schrein für einen Stein (1985, Michael Bacht).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg/400px-Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg/800px-Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg/1200px-Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg/1920px-Schrein_für_einen_Stein_(1985,_Michael_Bacht).jpg
+  Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg/400px-Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg/800px-Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg/1200px-Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg/1920px-Annotation-on-mountain-heidelberger-kunstverein-artistic-intervention-ruediger-john.jpg
+  Kunstverein Heidelberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/400px-Kunstverein_Heidelberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/800px-Kunstverein_Heidelberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1200px-Kunstverein_Heidelberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kunstverein_Heidelberg.jpg/1920px-Kunstverein_Heidelberg.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 53.6604
 longitude: 7.71936
 images:
-  - "/images-sites/werdumer-muehle/01-225ab6e6-800w.webp"
+  - "/images/werdumer-muehle/01-225ab6e6-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 11.1348
 
 # Images
 images:
-  - "/images-sites/wiesenthau-castle/01-3d9b02d8-800w.webp"
+  - "/images/wiesenthau-castle/01-3d9b02d8-800w.webp"
 ---
 
 ## Overview

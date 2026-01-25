@@ -1,21 +1,49 @@
 ---
-title: "Friedhof Wannsee, Lindenstraße"
+title: Friedhof Wannsee, Lindenstraße
 date: 2026-01-23
 draft: false
-description: "cemetery in Steglitz-Zehlendorf, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Steglitz-Zehlendorf, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.425227777
 longitude: 13.153872222
 images:
-  - "/images-sites/friedhof-wannsee-lindenstrasse/01-6475f3de-800w.webp"
-  - "/images-sites/friedhof-wannsee-lindenstrasse/02-d0583193-800w.webp"
-  - "/images-sites/friedhof-wannsee-lindenstrasse/03-caffea85-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg/1200px-Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_von_Martin_Rehmer,_Berlin.jpg/1200px-Grabstein_von_Martin_Rehmer,_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grabstätte_Werner_Haberditzl.jpg/1200px-Grabstätte_Werner_Haberditzl.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg/1200px-Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wannsee_II_-_Mutter_Erde_fec.jpg/1200px-Wannsee_II_-_Mutter_Erde_fec.jpg
+image_srcset:
+  Grabstätte Lindenstr 1 (Zehld) Max Richter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg/400px-Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg/800px-Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg/1200px-Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg/1920px-Grabstätte_Lindenstr_1_(Zehld)_Max_Richter.jpg
+  Grabstein von Martin Rehmer, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_von_Martin_Rehmer,_Berlin.jpg/400px-Grabstein_von_Martin_Rehmer,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_von_Martin_Rehmer,_Berlin.jpg/800px-Grabstein_von_Martin_Rehmer,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_von_Martin_Rehmer,_Berlin.jpg/1200px-Grabstein_von_Martin_Rehmer,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Grabstein_von_Martin_Rehmer,_Berlin.jpg/1920px-Grabstein_von_Martin_Rehmer,_Berlin.jpg
+  Grabstätte Werner Haberditzl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grabstätte_Werner_Haberditzl.jpg/400px-Grabstätte_Werner_Haberditzl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grabstätte_Werner_Haberditzl.jpg/800px-Grabstätte_Werner_Haberditzl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grabstätte_Werner_Haberditzl.jpg/1200px-Grabstätte_Werner_Haberditzl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Grabstätte_Werner_Haberditzl.jpg/1920px-Grabstätte_Werner_Haberditzl.jpg
+  Adele Paasch-Paul Straßmann-Mutter Erde fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg/400px-Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg/800px-Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg/1200px-Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg/1920px-Adele_Paasch-Paul_Straßmann-Mutter_Erde_fec.jpg
+  Wannsee II - Mutter Erde fec.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wannsee_II_-_Mutter_Erde_fec.jpg/400px-Wannsee_II_-_Mutter_Erde_fec.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wannsee_II_-_Mutter_Erde_fec.jpg/800px-Wannsee_II_-_Mutter_Erde_fec.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wannsee_II_-_Mutter_Erde_fec.jpg/1200px-Wannsee_II_-_Mutter_Erde_fec.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wannsee_II_-_Mutter_Erde_fec.jpg/1920px-Wannsee_II_-_Mutter_Erde_fec.jpg
 ---
 
 ## Overview

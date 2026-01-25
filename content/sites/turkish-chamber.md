@@ -13,8 +13,8 @@ regions:
 latitude: 51.05289
 longitude: 13.73635
 images:
-  - "/images-sites/turkish-chamber/02-a350fe00-800w.webp"
-  - "/images-sites/turkish-chamber/03-5185f1c7-800w.webp"
+  - "/images/turkish-chamber/02-a350fe00-800w.webp"
+  - "/images/turkish-chamber/03-5185f1c7-800w.webp"
 ---
 
 ## Overview

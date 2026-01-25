@@ -1,23 +1,50 @@
 ---
-title: "Basilica of SS. Peter and Alexander"
-site_name: "Basilica of SS. Peter and Alexander"
-slug: "basilica-of-ss-peter-and-alexander"
-region: "Hesse"
-
-# Location
+title: Basilica of SS. Peter and Alexander
+site_name: Basilica of SS. Peter and Alexander
+slug: basilica-of-ss-peter-and-alexander
+region: Hesse
 latitude: 49.973664
 longitude: 9.146439
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1028759"
-description: "The Basilica of SS. Peter and Alexander in Aschaffenburg is a remarkable testament to Romanesque architecture, a style that evokes both strength and gra..."
+- cultural site
+wikidata_id: Q1028759
+description: The Basilica of SS. Peter and Alexander in Aschaffenburg is a remarkable
+  testament to Romanesque architecture, a style that evokes both strength and gra...
 images:
-  - "/images-sites/basilica-of-ss-peter-and-alexander/01-0c07441e-1920w.webp"
-  - "/images-sites/basilica-of-ss-peter-and-alexander/02-f98beaa1-1920w.webp"
-  - "/images-sites/basilica-of-ss-peter-and-alexander/03-e73cf70d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg/1200px-Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg/1200px-Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/1200px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg/1200px-Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg/1200px-Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg
+image_srcset:
+  Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg/400px-Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg/800px-Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg/1200px-Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg/1920px-Stiftskirche%20Sankt%20Peter%20und%20Alexander%20Aschaffenburg.jpg
+  Aschaffenburg, die Sankt Peter und Alexander Kirche DmD-6-61-000-293 poging1 foto6 2016-08-08 19.11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg/400px-Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg/800px-Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg/1200px-Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg/1920px-Aschaffenburg,_die_Sankt_Peter_und_Alexander_Kirche_DmD-6-61-000-293_poging1_foto6_2016-08-08_19.11.jpg
+  Stiftskirche Sankt Peter und Alexander Aschaffenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/400px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/800px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/1200px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg/1920px-Stiftskirche_Sankt_Peter_und_Alexander_Aschaffenburg.jpg
+  Aschaffenburg Stiftskirche Fresko Detail IMG 20240309 1331.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg/400px-Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg/800px-Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg/1200px-Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg/1920px-Aschaffenburg_Stiftskirche_Fresko_Detail_IMG_20240309_1331.jpg
+  Grundriss Stiftskirche St. Peter und Alexander Aschaffenburg, Blätter für Architektur und Kunsthandw 1889-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg/400px-Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg/800px-Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg/1200px-Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg/1920px-Grundriss_Stiftskirche_St._Peter_und_Alexander_Aschaffenburg,_Blätter_für_Architektur_und_Kunsthandw_1889-02.jpg
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 49.79997134
 longitude: 9.930741957
 images:
-  - "/images-sites/universitaetsgebaeude/01-62254f51-800w.webp"
+  - "/images/universitaetsgebaeude/01-62254f51-800w.webp"
 ---
 
 ## Overview

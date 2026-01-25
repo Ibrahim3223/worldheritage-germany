@@ -1,19 +1,49 @@
 ---
-title: "Heiliges Grab Görlitz"
+title: Heiliges Grab Görlitz
 date: 2026-01-23
 draft: false
-description: "church"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: church
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 51.15924
 longitude: 14.98269
 images:
-  - "/images-sites/heiliges-grab-goerlitz/01-7f9ca6e2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg/1200px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg/1200px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg/1200px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg/1200px-Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Görlitz-Heiliggrab-Kirche.JPG/1200px-Görlitz-Heiliggrab-Kirche.JPG
+image_srcset:
+  Görlitz - Heilige-Grab-Straße - Heiliges Grab - Heilig-Kreuz-Kapelle 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg/400px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg/800px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg/1200px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg/1920px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_02_ies.jpg
+  Görlitz - Heilige-Grab-Straße - Heiliges Grab - Heilig-Kreuz-Kapelle 03 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg/400px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg/800px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg/1200px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg/1920px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_03_ies.jpg
+  Görlitz - Heilige-Grab-Straße - Heiliges Grab - Heilig-Kreuz-Kapelle 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg/400px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg/800px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg/1200px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg/1920px-Görlitz_-_Heilige-Grab-Straße_-_Heiliges_Grab_-_Heilig-Kreuz-Kapelle_04_ies.jpg
+  Görlitz Heiliges Grab Heilig-Kreuz-Kapelle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg/400px-Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg/800px-Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg/1200px-Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg/1920px-Görlitz_Heiliges_Grab_Heilig-Kreuz-Kapelle.jpg
+  Görlitz-Heiliggrab-Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Görlitz-Heiliggrab-Kirche.JPG/400px-Görlitz-Heiliggrab-Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Görlitz-Heiliggrab-Kirche.JPG/800px-Görlitz-Heiliggrab-Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Görlitz-Heiliggrab-Kirche.JPG/1200px-Görlitz-Heiliggrab-Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Görlitz-Heiliggrab-Kirche.JPG/1920px-Görlitz-Heiliggrab-Kirche.JPG
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Baumann's Cave"
+title: Baumann's Cave
 date: 2026-01-23
 draft: false
-description: "cave in Rübeland, Oberharz am Brocken, Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: cave in Rübeland, Oberharz am Brocken, Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.755
 longitude: 10.843333333
 images:
-  - "/images-sites/baumanns-cave/01-71cd0efb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/1200px-Baumannshoehle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg/1200px-Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Derharz00hoff_orig_0339.png/1200px-Derharz00hoff_orig_0339.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg/1200px-1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baumannshöhle_(Rübeland)_P1090388.jpg/1200px-Baumannshöhle_(Rübeland)_P1090388.jpg
+image_srcset:
+  Baumannshoehle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/400px-Baumannshoehle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/800px-Baumannshoehle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/1200px-Baumannshoehle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Baumannshoehle.jpg/1920px-Baumannshoehle.jpg
+  Baumannsgrot in Harz, RP-P-2019-3059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg/400px-Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg/800px-Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg/1200px-Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg/1920px-Baumannsgrot_in_Harz,_RP-P-2019-3059.jpg
+  Derharz00hoff orig 0339.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Derharz00hoff_orig_0339.png/400px-Derharz00hoff_orig_0339.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Derharz00hoff_orig_0339.png/800px-Derharz00hoff_orig_0339.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Derharz00hoff_orig_0339.png/1200px-Derharz00hoff_orig_0339.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Derharz00hoff_orig_0339.png/1920px-Derharz00hoff_orig_0339.png
+  ? 1820 circa Christoph Gottfried Wiederhold, (Verlag in Göttingen), Baumannshöhle
+    am Harz, kolorierter Kupferstich, Blattausschnitt.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg/400px-1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg/800px-1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg/1200px-1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg/1920px-1820_circa_Christoph_Gottfried_Wiederhold,_(Verlag_in_Göttingen),_Baumannshöhle_am_Harz,_kolorierter_Kupferstich,_Blattausschnitt.jpg
+  Baumannshöhle (Rübeland) P1090388.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baumannshöhle_(Rübeland)_P1090388.jpg/400px-Baumannshöhle_(Rübeland)_P1090388.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baumannshöhle_(Rübeland)_P1090388.jpg/800px-Baumannshöhle_(Rübeland)_P1090388.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baumannshöhle_(Rübeland)_P1090388.jpg/1200px-Baumannshöhle_(Rübeland)_P1090388.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Baumannshöhle_(Rübeland)_P1090388.jpg/1920px-Baumannshöhle_(Rübeland)_P1090388.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "August-Macke-Haus"
+title: August-Macke-Haus
 date: 2026-01-23
 draft: false
-description: "art museum in Bonn, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Bonn, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.73745
 longitude: 7.086314
-
-# Images
 images:
-  - "/images-sites/august-macke-haus/01-68ba455f-800w.webp"
-  - "/images-sites/august-macke-haus/02-edf3f05f-800w.webp"
-  - "/images-sites/august-macke-haus/03-0945d5af-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg/1200px-August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/1200px-August-Macke-Haus_Bonn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/August_Macke_018.jpg/1200px-August_Macke_018.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/August_Macke_Haus_im_Garten_1913-14.jpg/1200px-August_Macke_Haus_im_Garten_1913-14.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marie_von_Malachowski-Nauen_Lilien.jpg/1200px-Marie_von_Malachowski-Nauen_Lilien.jpg
+image_srcset:
+  August Macke, Elisabeth Macke Studienkopf, 1910, gerahmt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg/400px-August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg/800px-August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg/1200px-August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg/1920px-August_Macke,_Elisabeth_Macke_Studienkopf,_1910,_gerahmt.jpg
+  August-Macke-Haus Bonn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/400px-August-Macke-Haus_Bonn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/800px-August-Macke-Haus_Bonn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/1200px-August-Macke-Haus_Bonn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/August-Macke-Haus_Bonn.jpg/1920px-August-Macke-Haus_Bonn.jpg
+  August Macke 018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/August_Macke_018.jpg/400px-August_Macke_018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/August_Macke_018.jpg/800px-August_Macke_018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/August_Macke_018.jpg/1200px-August_Macke_018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/August_Macke_018.jpg/1920px-August_Macke_018.jpg
+  August Macke Haus im Garten 1913-14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/August_Macke_Haus_im_Garten_1913-14.jpg/400px-August_Macke_Haus_im_Garten_1913-14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/August_Macke_Haus_im_Garten_1913-14.jpg/800px-August_Macke_Haus_im_Garten_1913-14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/August_Macke_Haus_im_Garten_1913-14.jpg/1200px-August_Macke_Haus_im_Garten_1913-14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/August_Macke_Haus_im_Garten_1913-14.jpg/1920px-August_Macke_Haus_im_Garten_1913-14.jpg
+  Marie von Malachowski-Nauen Lilien.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marie_von_Malachowski-Nauen_Lilien.jpg/400px-Marie_von_Malachowski-Nauen_Lilien.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marie_von_Malachowski-Nauen_Lilien.jpg/800px-Marie_von_Malachowski-Nauen_Lilien.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marie_von_Malachowski-Nauen_Lilien.jpg/1200px-Marie_von_Malachowski-Nauen_Lilien.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marie_von_Malachowski-Nauen_Lilien.jpg/1920px-Marie_von_Malachowski-Nauen_Lilien.jpg
 ---
 
 ## Overview

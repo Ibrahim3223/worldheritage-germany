@@ -13,7 +13,7 @@ regions:
 latitude: 51.351944444
 longitude: 6.221111111
 images:
-  - "/images-sites/venloer-heide/01-657773a8-800w.webp"
+  - "/images/venloer-heide/01-657773a8-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 47.843482
 longitude: 7.939199
 images:
-  - "/images-sites/todtnau-waterfall/01-6d975fad-800w.webp"
+  - "/images/todtnau-waterfall/01-6d975fad-800w.webp"
 ---
 
 ## Overview

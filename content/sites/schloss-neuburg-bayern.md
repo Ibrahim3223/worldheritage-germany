@@ -21,7 +21,7 @@ longitude: 11.180861111
 
 # Images
 images:
-  - "/images-sites/schloss-neuburg-bayern/01-b2612135-800w.webp"
+  - "/images/schloss-neuburg-bayern/01-b2612135-800w.webp"
 ---
 
 ## Overview

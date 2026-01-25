@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q564957"
 description: "Limburg Cathedral, a stunning example of Gothic architecture, stands proudly in Limburg an der Lahn, Germany. This Roman Catholic cathedral, founded in ..."
 images:
-  - "/images-sites/limburg-cathedral/01-b6293465-1920w.webp"
-  - "/images-sites/limburg-cathedral/02-fab6e0a9-1920w.webp"
-  - "/images-sites/limburg-cathedral/03-6e32e01c-1920w.webp"
+  - "/images/limburg-cathedral/01-b6293465-1920w.webp"
+  - "/images/limburg-cathedral/02-fab6e0a9-1920w.webp"
+  - "/images/limburg-cathedral/03-6e32e01c-1920w.webp"
 ---
 
 ## Overview

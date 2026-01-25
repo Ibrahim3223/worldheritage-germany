@@ -1,19 +1,49 @@
 ---
-title: "Großer Arbersee"
+title: Großer Arbersee
 date: 2026-01-23
 draft: false
-description: "lake in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 49.098611111
 longitude: 13.155
 images:
-  - "/images-sites/grosser-arbersee/01-16019586-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ufer,_Großer_Arbersee.jpg/1200px-Ufer,_Großer_Arbersee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Großer_Arbersee,_Bayerischer_Wald.jpg/1200px-Großer_Arbersee,_Bayerischer_Wald.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schwimmendes_Verlandungsmoor.jpg/1200px-Schwimmendes_Verlandungsmoor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seepflanzen.jpg/1200px-Seepflanzen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grosser_Arbersee.jpg/1200px-Grosser_Arbersee.jpg
+image_srcset:
+  Ufer, Großer Arbersee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ufer,_Großer_Arbersee.jpg/400px-Ufer,_Großer_Arbersee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ufer,_Großer_Arbersee.jpg/800px-Ufer,_Großer_Arbersee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ufer,_Großer_Arbersee.jpg/1200px-Ufer,_Großer_Arbersee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ufer,_Großer_Arbersee.jpg/1920px-Ufer,_Großer_Arbersee.jpg
+  Großer Arbersee, Bayerischer Wald.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Großer_Arbersee,_Bayerischer_Wald.jpg/400px-Großer_Arbersee,_Bayerischer_Wald.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Großer_Arbersee,_Bayerischer_Wald.jpg/800px-Großer_Arbersee,_Bayerischer_Wald.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Großer_Arbersee,_Bayerischer_Wald.jpg/1200px-Großer_Arbersee,_Bayerischer_Wald.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Großer_Arbersee,_Bayerischer_Wald.jpg/1920px-Großer_Arbersee,_Bayerischer_Wald.jpg
+  Schwimmendes Verlandungsmoor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schwimmendes_Verlandungsmoor.jpg/400px-Schwimmendes_Verlandungsmoor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schwimmendes_Verlandungsmoor.jpg/800px-Schwimmendes_Verlandungsmoor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schwimmendes_Verlandungsmoor.jpg/1200px-Schwimmendes_Verlandungsmoor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Schwimmendes_Verlandungsmoor.jpg/1920px-Schwimmendes_Verlandungsmoor.jpg
+  Seepflanzen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seepflanzen.jpg/400px-Seepflanzen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seepflanzen.jpg/800px-Seepflanzen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seepflanzen.jpg/1200px-Seepflanzen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seepflanzen.jpg/1920px-Seepflanzen.jpg
+  Grosser Arbersee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grosser_Arbersee.jpg/400px-Grosser_Arbersee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grosser_Arbersee.jpg/800px-Grosser_Arbersee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grosser_Arbersee.jpg/1200px-Grosser_Arbersee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Grosser_Arbersee.jpg/1920px-Grosser_Arbersee.jpg
 ---
 
 ## Overview

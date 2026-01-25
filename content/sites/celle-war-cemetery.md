@@ -1,19 +1,49 @@
 ---
-title: "Celle War Cemetery"
+title: Celle War Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Celle, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Celle, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6382
 longitude: 10.0828
 images:
-  - "/images-sites/celle-war-cemetery/01-1f1a5ed9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Celle_Britischer_Kriegsgräberfriedhof_3667.jpg/1200px-Celle_Britischer_Kriegsgräberfriedhof_3667.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Celle_War_Cemetery_(3).JPG/1200px-Celle_War_Cemetery_(3).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Celle_War_Cemetery_(4).JPG/1200px-Celle_War_Cemetery_(4).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Celle_Britischer_Kriegsgräberfriedhof_3666.jpg/1200px-Celle_Britischer_Kriegsgräberfriedhof_3666.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Celle_War_Cemetery_(3)_(cropped).JPG/1200px-Celle_War_Cemetery_(3)_(cropped).JPG
+image_srcset:
+  Celle Britischer Kriegsgräberfriedhof 3667.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Celle_Britischer_Kriegsgräberfriedhof_3667.jpg/400px-Celle_Britischer_Kriegsgräberfriedhof_3667.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Celle_Britischer_Kriegsgräberfriedhof_3667.jpg/800px-Celle_Britischer_Kriegsgräberfriedhof_3667.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Celle_Britischer_Kriegsgräberfriedhof_3667.jpg/1200px-Celle_Britischer_Kriegsgräberfriedhof_3667.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Celle_Britischer_Kriegsgräberfriedhof_3667.jpg/1920px-Celle_Britischer_Kriegsgräberfriedhof_3667.jpg
+  Celle War Cemetery (3).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Celle_War_Cemetery_(3).JPG/400px-Celle_War_Cemetery_(3).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Celle_War_Cemetery_(3).JPG/800px-Celle_War_Cemetery_(3).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Celle_War_Cemetery_(3).JPG/1200px-Celle_War_Cemetery_(3).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Celle_War_Cemetery_(3).JPG/1920px-Celle_War_Cemetery_(3).JPG
+  Celle War Cemetery (4).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Celle_War_Cemetery_(4).JPG/400px-Celle_War_Cemetery_(4).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Celle_War_Cemetery_(4).JPG/800px-Celle_War_Cemetery_(4).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Celle_War_Cemetery_(4).JPG/1200px-Celle_War_Cemetery_(4).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Celle_War_Cemetery_(4).JPG/1920px-Celle_War_Cemetery_(4).JPG
+  Celle Britischer Kriegsgräberfriedhof 3666.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Celle_Britischer_Kriegsgräberfriedhof_3666.jpg/400px-Celle_Britischer_Kriegsgräberfriedhof_3666.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Celle_Britischer_Kriegsgräberfriedhof_3666.jpg/800px-Celle_Britischer_Kriegsgräberfriedhof_3666.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Celle_Britischer_Kriegsgräberfriedhof_3666.jpg/1200px-Celle_Britischer_Kriegsgräberfriedhof_3666.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Celle_Britischer_Kriegsgräberfriedhof_3666.jpg/1920px-Celle_Britischer_Kriegsgräberfriedhof_3666.jpg
+  Celle War Cemetery (3) (cropped).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Celle_War_Cemetery_(3)_(cropped).JPG/400px-Celle_War_Cemetery_(3)_(cropped).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Celle_War_Cemetery_(3)_(cropped).JPG/800px-Celle_War_Cemetery_(3)_(cropped).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Celle_War_Cemetery_(3)_(cropped).JPG/1200px-Celle_War_Cemetery_(3)_(cropped).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Celle_War_Cemetery_(3)_(cropped).JPG/1920px-Celle_War_Cemetery_(3)_(cropped).JPG
 ---
 
 ## Overview

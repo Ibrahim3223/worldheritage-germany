@@ -1,19 +1,49 @@
 ---
-title: "Belvedere Schöne Höhe"
+title: Belvedere Schöne Höhe
 date: 2026-01-23
 draft: false
-description: "Palast in Deutschland"
-region: "Germany"
-country: "Germany"
-heritage_type: "Palace"
+description: Palast in Deutschland
+region: Germany
+country: Germany
+heritage_type: Palace
 categories:
-  - "Palace"
+- Palace
 regions:
-  - "Germany"
+- Germany
 latitude: 51.028719
 longitude: 13.982676
 images:
-  - "/images-sites/belvedere-schoene-hoehe/01-0f94410a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1200px-Belvedere_Schöne_Höhe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Belvedere-Decke.jpg/1200px-Belvedere-Decke.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elbersdorf-Belvedere-3.jpg/1200px-Elbersdorf-Belvedere-3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/1200px-20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/1200px-20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+image_srcset:
+  Belvedere Schöne Höhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/400px-Belvedere_Schöne_Höhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/800px-Belvedere_Schöne_Höhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1200px-Belvedere_Schöne_Höhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Belvedere_Schöne_Höhe.jpg/1920px-Belvedere_Schöne_Höhe.jpg
+  Belvedere-Decke.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Belvedere-Decke.jpg/400px-Belvedere-Decke.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Belvedere-Decke.jpg/800px-Belvedere-Decke.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Belvedere-Decke.jpg/1200px-Belvedere-Decke.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Belvedere-Decke.jpg/1920px-Belvedere-Decke.jpg
+  Elbersdorf-Belvedere-3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elbersdorf-Belvedere-3.jpg/400px-Elbersdorf-Belvedere-3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elbersdorf-Belvedere-3.jpg/800px-Elbersdorf-Belvedere-3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elbersdorf-Belvedere-3.jpg/1200px-Elbersdorf-Belvedere-3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elbersdorf-Belvedere-3.jpg/1920px-Elbersdorf-Belvedere-3.jpg
+  20080324035MDR Elbersdorf (Dürrröhrsdorf-Dittersbach) Schöne Höhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/400px-20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/800px-20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/1200px-20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/1920px-20080324035MDR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+  20030925600DR Elbersdorf (Dürrröhrsdorf-Dittersbach) Schöne Höhe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/400px-20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/800px-20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/1200px-20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg/1920px-20030925600DR_Elbersdorf_(Dürrröhrsdorf-Dittersbach)_Schöne_Höhe.jpg
 ---
 
 ## Overview

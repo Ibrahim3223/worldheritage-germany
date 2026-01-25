@@ -13,7 +13,7 @@ regions:
 latitude: 50.973089
 longitude: 11.325432
 images:
-  - "/images-sites/monument-to-the-march-dead/01-e221e078-800w.webp"
+  - "/images/monument-to-the-march-dead/01-e221e078-800w.webp"
 ---
 
 ## Overview

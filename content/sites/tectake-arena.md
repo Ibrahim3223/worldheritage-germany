@@ -13,7 +13,7 @@ regions:
 latitude: 49.7738
 longitude: 9.94083
 images:
-  - "/images-sites/tectake-arena/01-7d37fb1b-800w.webp"
+  - "/images/tectake-arena/01-7d37fb1b-800w.webp"
 ---
 
 ## Overview

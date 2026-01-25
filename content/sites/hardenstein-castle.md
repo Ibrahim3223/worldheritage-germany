@@ -1,27 +1,49 @@
 ---
-title: "Hardenstein Castle"
+title: Hardenstein Castle
 date: 2026-01-23
 draft: false
-description: "ruined castle in North Rhine-Westphalia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ruined castle in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.421
 longitude: 7.301
-
-# Images
 images:
-  - "/images-sites/hardenstein-castle/01-d8b9ac91-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/1200px-RuineHardenstein5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Witten_-_Burg_Hardenstein_02_ies.jpg/1200px-Witten_-_Burg_Hardenstein_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witten_-_Burg_Hardenstein_10_ies.jpg/1200px-Witten_-_Burg_Hardenstein_10_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Witten_-_Burg_Hardenstein_13_ies.jpg/1200px-Witten_-_Burg_Hardenstein_13_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Hardenstein.jpg/1200px-Burgruine_Hardenstein.jpg
+image_srcset:
+  RuineHardenstein5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/400px-RuineHardenstein5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/800px-RuineHardenstein5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/1200px-RuineHardenstein5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RuineHardenstein5.jpg/1920px-RuineHardenstein5.jpg
+  Witten - Burg Hardenstein 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Witten_-_Burg_Hardenstein_02_ies.jpg/400px-Witten_-_Burg_Hardenstein_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Witten_-_Burg_Hardenstein_02_ies.jpg/800px-Witten_-_Burg_Hardenstein_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Witten_-_Burg_Hardenstein_02_ies.jpg/1200px-Witten_-_Burg_Hardenstein_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Witten_-_Burg_Hardenstein_02_ies.jpg/1920px-Witten_-_Burg_Hardenstein_02_ies.jpg
+  Witten - Burg Hardenstein 10 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witten_-_Burg_Hardenstein_10_ies.jpg/400px-Witten_-_Burg_Hardenstein_10_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witten_-_Burg_Hardenstein_10_ies.jpg/800px-Witten_-_Burg_Hardenstein_10_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witten_-_Burg_Hardenstein_10_ies.jpg/1200px-Witten_-_Burg_Hardenstein_10_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witten_-_Burg_Hardenstein_10_ies.jpg/1920px-Witten_-_Burg_Hardenstein_10_ies.jpg
+  Witten - Burg Hardenstein 13 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Witten_-_Burg_Hardenstein_13_ies.jpg/400px-Witten_-_Burg_Hardenstein_13_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Witten_-_Burg_Hardenstein_13_ies.jpg/800px-Witten_-_Burg_Hardenstein_13_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Witten_-_Burg_Hardenstein_13_ies.jpg/1200px-Witten_-_Burg_Hardenstein_13_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Witten_-_Burg_Hardenstein_13_ies.jpg/1920px-Witten_-_Burg_Hardenstein_13_ies.jpg
+  Burgruine Hardenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Hardenstein.jpg/400px-Burgruine_Hardenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Hardenstein.jpg/800px-Burgruine_Hardenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Hardenstein.jpg/1200px-Burgruine_Hardenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Burgruine_Hardenstein.jpg/1920px-Burgruine_Hardenstein.jpg
 ---
 
 ## Overview

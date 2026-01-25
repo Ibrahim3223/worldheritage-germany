@@ -1,21 +1,50 @@
 ---
-title: "Dreyse-Denkmal Sömmerda"
+title: Dreyse-Denkmal Sömmerda
 date: 2026-01-23
 draft: false
-description: "weitgehend zertörtes Denkmal für den Erfinder des Zündnadelgewehres in Sömmerda, Thüringen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: weitgehend zertörtes Denkmal für den Erfinder des Zündnadelgewehres in
+  Sömmerda, Thüringen
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1618
 longitude: 11.1174
 images:
-  - "/images-sites/dreyse-denkmal-soemmerda/01-c95588d7-800w.webp"
-  - "/images-sites/dreyse-denkmal-soemmerda/02-027b65a3-800w.webp"
-  - "/images-sites/dreyse-denkmal-soemmerda/03-22aca67b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG/1200px-Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sömmerda_Dreyse-Denkmal_(1).jpg/1200px-Sömmerda_Dreyse-Denkmal_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Soemmerda-dreyse02.jpg/1200px-Soemmerda-dreyse02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg/1200px-Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg/1200px-Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg
+image_srcset:
+  Dreyse-Denkmal Sömmerda (Replik) 2018-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG/400px-Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG/800px-Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG/1200px-Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG/1920px-Dreyse-Denkmal_Sömmerda_(Replik)_2018-01.JPG
+  Sömmerda Dreyse-Denkmal (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sömmerda_Dreyse-Denkmal_(1).jpg/400px-Sömmerda_Dreyse-Denkmal_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sömmerda_Dreyse-Denkmal_(1).jpg/800px-Sömmerda_Dreyse-Denkmal_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sömmerda_Dreyse-Denkmal_(1).jpg/1200px-Sömmerda_Dreyse-Denkmal_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sömmerda_Dreyse-Denkmal_(1).jpg/1920px-Sömmerda_Dreyse-Denkmal_(1).jpg
+  Soemmerda-dreyse02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Soemmerda-dreyse02.jpg/400px-Soemmerda-dreyse02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Soemmerda-dreyse02.jpg/800px-Soemmerda-dreyse02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Soemmerda-dreyse02.jpg/1200px-Soemmerda-dreyse02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Soemmerda-dreyse02.jpg/1920px-Soemmerda-dreyse02.jpg
+  Sömmerda Dreysedenkmal Sockel 2017 (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg/400px-Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg/800px-Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg/1200px-Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg/1920px-Sömmerda_Dreysedenkmal_Sockel_2017_(2).jpg
+  Sömmerda Dreysedenkmal Modell 1909 (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg/400px-Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg/800px-Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg/1200px-Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg/1920px-Sömmerda_Dreysedenkmal_Modell_1909_(1).jpg
 ---
 
 ## Overview

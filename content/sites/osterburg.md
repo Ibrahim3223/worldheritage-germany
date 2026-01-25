@@ -21,9 +21,9 @@ longitude: 12.0568
 
 # Images
 images:
-  - "/images-sites/osterburg/01-0b81ce49-800w.webp"
-  - "/images-sites/osterburg/02-63ed8750-800w.webp"
-  - "/images-sites/osterburg/03-37520235-800w.webp"
+  - "/images/osterburg/01-0b81ce49-800w.webp"
+  - "/images/osterburg/02-63ed8750-800w.webp"
+  - "/images/osterburg/03-37520235-800w.webp"
 ---
 
 ## Overview

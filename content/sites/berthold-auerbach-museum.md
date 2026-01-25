@@ -1,21 +1,43 @@
 ---
-title: "Berthold-Auerbach-Museum"
+title: Berthold-Auerbach-Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4371
 longitude: 8.70363
 images:
-  - "/images-sites/berthold-auerbach-museum/01-27c16b89-800w.webp"
-  - "/images-sites/berthold-auerbach-museum/02-559ad31d-800w.webp"
-  - "/images-sites/berthold-auerbach-museum/03-aada1261-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Auerbach_Gedenktafel.JPG/1200px-Auerbach_Gedenktafel.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1200px-Auerbach_Museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Auerbach_Museum_Vitrine.JPG/1200px-Auerbach_Museum_Vitrine.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Berthold_Auerbach_c.1850.jpg/1200px-Berthold_Auerbach_c.1850.jpg
+image_srcset:
+  Auerbach Gedenktafel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Auerbach_Gedenktafel.JPG/400px-Auerbach_Gedenktafel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Auerbach_Gedenktafel.JPG/800px-Auerbach_Gedenktafel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Auerbach_Gedenktafel.JPG/1200px-Auerbach_Gedenktafel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Auerbach_Gedenktafel.JPG/1920px-Auerbach_Gedenktafel.JPG
+  Auerbach Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/400px-Auerbach_Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/800px-Auerbach_Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1200px-Auerbach_Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Auerbach_Museum.JPG/1920px-Auerbach_Museum.JPG
+  Auerbach Museum Vitrine.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Auerbach_Museum_Vitrine.JPG/400px-Auerbach_Museum_Vitrine.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Auerbach_Museum_Vitrine.JPG/800px-Auerbach_Museum_Vitrine.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Auerbach_Museum_Vitrine.JPG/1200px-Auerbach_Museum_Vitrine.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Auerbach_Museum_Vitrine.JPG/1920px-Auerbach_Museum_Vitrine.JPG
+  Berthold Auerbach c.1850.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Berthold_Auerbach_c.1850.jpg/400px-Berthold_Auerbach_c.1850.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Berthold_Auerbach_c.1850.jpg/800px-Berthold_Auerbach_c.1850.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Berthold_Auerbach_c.1850.jpg/1200px-Berthold_Auerbach_c.1850.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Berthold_Auerbach_c.1850.jpg/1920px-Berthold_Auerbach_c.1850.jpg
 ---
 
 ## Overview

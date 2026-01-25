@@ -13,7 +13,7 @@ regions:
 latitude: 48.1032
 longitude: 7.7768
 images:
-  - "/images-sites/nimburg-castle/01-327a96d5-800w.webp"
+  - "/images/nimburg-castle/01-327a96d5-800w.webp"
 ---
 
 ## Overview

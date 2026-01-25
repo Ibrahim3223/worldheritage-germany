@@ -1,27 +1,49 @@
 ---
-title: "Burg Kalden"
+title: Burg Kalden
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.8238
 longitude: 10.2001
-
-# Images
 images:
-  - "/images-sites/burg-kalden/01-7e7b3c99-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Kalden.jpg/1200px-Ruine_Kalden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Kalden_im_Allgäu,_2010.jpg/1200px-Burg_Kalden_im_Allgäu,_2010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Kalden_Schiessscharte3.JPG/1200px-Burg_Kalden_Schiessscharte3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruine_Kalden_-_panoramio.jpg/1200px-Ruine_Kalden_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burgruine_Neukalden.jpg/1200px-Burgruine_Neukalden.jpg
+image_srcset:
+  Ruine Kalden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Kalden.jpg/400px-Ruine_Kalden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Kalden.jpg/800px-Ruine_Kalden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Kalden.jpg/1200px-Ruine_Kalden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ruine_Kalden.jpg/1920px-Ruine_Kalden.jpg
+  Burg Kalden im Allgäu, 2010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Kalden_im_Allgäu,_2010.jpg/400px-Burg_Kalden_im_Allgäu,_2010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Kalden_im_Allgäu,_2010.jpg/800px-Burg_Kalden_im_Allgäu,_2010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Kalden_im_Allgäu,_2010.jpg/1200px-Burg_Kalden_im_Allgäu,_2010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Kalden_im_Allgäu,_2010.jpg/1920px-Burg_Kalden_im_Allgäu,_2010.jpg
+  Burg Kalden Schiessscharte3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Kalden_Schiessscharte3.JPG/400px-Burg_Kalden_Schiessscharte3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Kalden_Schiessscharte3.JPG/800px-Burg_Kalden_Schiessscharte3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Kalden_Schiessscharte3.JPG/1200px-Burg_Kalden_Schiessscharte3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burg_Kalden_Schiessscharte3.JPG/1920px-Burg_Kalden_Schiessscharte3.JPG
+  Ruine Kalden - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruine_Kalden_-_panoramio.jpg/400px-Ruine_Kalden_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruine_Kalden_-_panoramio.jpg/800px-Ruine_Kalden_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruine_Kalden_-_panoramio.jpg/1200px-Ruine_Kalden_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ruine_Kalden_-_panoramio.jpg/1920px-Ruine_Kalden_-_panoramio.jpg
+  Burgruine Neukalden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burgruine_Neukalden.jpg/400px-Burgruine_Neukalden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burgruine_Neukalden.jpg/800px-Burgruine_Neukalden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burgruine_Neukalden.jpg/1200px-Burgruine_Neukalden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Burgruine_Neukalden.jpg/1920px-Burgruine_Neukalden.jpg
 ---
 
 ## Overview

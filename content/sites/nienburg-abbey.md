@@ -13,7 +13,7 @@ regions:
 latitude: 51.836511111
 longitude: 11.771758333
 images:
-  - "/images-sites/nienburg-abbey/01-da98c484-800w.webp"
+  - "/images/nienburg-abbey/01-da98c484-800w.webp"
 ---
 
 ## Overview

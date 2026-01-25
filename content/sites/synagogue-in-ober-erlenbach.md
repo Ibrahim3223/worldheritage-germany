@@ -13,7 +13,7 @@ regions:
 latitude: 50.22608
 longitude: 8.680361
 images:
-  - "/images-sites/synagogue-in-ober-erlenbach/01-90f2f83f-800w.webp"
+  - "/images/synagogue-in-ober-erlenbach/01-90f2f83f-800w.webp"
 ---
 
 ## Overview

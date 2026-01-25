@@ -1,21 +1,49 @@
 ---
-title: "Blücher memorial"
+title: Blücher memorial
 date: 2026-01-23
 draft: false
-description: "monument in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: monument in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.51657
 longitude: 13.39575
 images:
-  - "/images-sites/bluecher-memorial/01-03ab099b-800w.webp"
-  - "/images-sites/bluecher-memorial/02-8f808400-800w.webp"
-  - "/images-sites/bluecher-memorial/03-a6edca0d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg/1200px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg/1200px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blücher-Denkmal_Berlin.jpg/1200px-Blücher-Denkmal_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blücher-Denkmal_Bebelplatz_1961.jpg/1200px-Blücher-Denkmal_Bebelplatz_1961.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg/1200px-Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg
+image_srcset:
+  Gebhard Leberecht von Blücher – Statue, socle – “An mein Volk”.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg/400px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg/800px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg/1200px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg/1920px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“An_mein_Volk”.jpg
+  Gebhard Leberecht von Blücher – Statue, socle – “Return of the Quadriga”.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg/400px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg/800px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg/1200px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg/1920px-Gebhard_Leberecht_von_Blücher_–_Statue,_socle_–_“Return_of_the_Quadriga”.jpg
+  Blücher-Denkmal Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blücher-Denkmal_Berlin.jpg/400px-Blücher-Denkmal_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blücher-Denkmal_Berlin.jpg/800px-Blücher-Denkmal_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blücher-Denkmal_Berlin.jpg/1200px-Blücher-Denkmal_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blücher-Denkmal_Berlin.jpg/1920px-Blücher-Denkmal_Berlin.jpg
+  Blücher-Denkmal Bebelplatz 1961.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blücher-Denkmal_Bebelplatz_1961.jpg/400px-Blücher-Denkmal_Bebelplatz_1961.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blücher-Denkmal_Bebelplatz_1961.jpg/800px-Blücher-Denkmal_Bebelplatz_1961.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blücher-Denkmal_Bebelplatz_1961.jpg/1200px-Blücher-Denkmal_Bebelplatz_1961.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blücher-Denkmal_Bebelplatz_1961.jpg/1920px-Blücher-Denkmal_Bebelplatz_1961.jpg
+  Rudolph Hertzog Agenda 1914 S. 025 (Verkaufsstand am Blücherdenkmal).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg/400px-Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg/800px-Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg/1200px-Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg/1920px-Rudolph_Hertzog_Agenda_1914_S._025_(Verkaufsstand_am_Blücherdenkmal).jpg
 ---
 
 ## Overview

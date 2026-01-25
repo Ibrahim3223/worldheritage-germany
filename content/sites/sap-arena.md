@@ -13,7 +13,7 @@ regions:
 latitude: 49.464115
 longitude: 8.517956
 images:
-  - "/images-sites/sap-arena/01-bbc54954-800w.webp"
+  - "/images/sap-arena/01-bbc54954-800w.webp"
 ---
 
 ## Overview

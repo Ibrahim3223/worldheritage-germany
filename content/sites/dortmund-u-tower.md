@@ -1,27 +1,49 @@
 ---
-title: "Dortmund U-Tower"
+title: Dortmund U-Tower
 date: 2026-01-23
 draft: false
-description: "cultural center in Dortmund, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: cultural center in Dortmund, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.515
 longitude: 7.45362
-
-# Images
 images:
-  - "/images-sites/dortmund-u-tower/01-6ca5780f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Union-Brauerei_Dortmund.jpg/1200px-Union-Brauerei_Dortmund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg/1200px-Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dortmund-U-100616-14242-Foyer2.jpg/1200px-Dortmund-U-100616-14242-Foyer2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dortmund-101018-18722-Harenberg-cor.jpg/1200px-Dortmund-101018-18722-Harenberg-cor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg/1200px-Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg
+image_srcset:
+  Union-Brauerei Dortmund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Union-Brauerei_Dortmund.jpg/400px-Union-Brauerei_Dortmund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Union-Brauerei_Dortmund.jpg/800px-Union-Brauerei_Dortmund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Union-Brauerei_Dortmund.jpg/1200px-Union-Brauerei_Dortmund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Union-Brauerei_Dortmund.jpg/1920px-Union-Brauerei_Dortmund.jpg
+  Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg/400px-Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg/800px-Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg/1200px-Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg/1920px-Dortmund-101018-18754-U-Ostfassade-Spiegelung.jpg
+  Dortmund-U-100616-14242-Foyer2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dortmund-U-100616-14242-Foyer2.jpg/400px-Dortmund-U-100616-14242-Foyer2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dortmund-U-100616-14242-Foyer2.jpg/800px-Dortmund-U-100616-14242-Foyer2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dortmund-U-100616-14242-Foyer2.jpg/1200px-Dortmund-U-100616-14242-Foyer2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Dortmund-U-100616-14242-Foyer2.jpg/1920px-Dortmund-U-100616-14242-Foyer2.jpg
+  Dortmund-101018-18722-Harenberg-cor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dortmund-101018-18722-Harenberg-cor.jpg/400px-Dortmund-101018-18722-Harenberg-cor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dortmund-101018-18722-Harenberg-cor.jpg/800px-Dortmund-101018-18722-Harenberg-cor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dortmund-101018-18722-Harenberg-cor.jpg/1200px-Dortmund-101018-18722-Harenberg-cor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dortmund-101018-18722-Harenberg-cor.jpg/1920px-Dortmund-101018-18722-Harenberg-cor.jpg
+  Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg/400px-Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg/800px-Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg/1200px-Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg/1920px-Dortmund-101018-18826-U-Baustelle-Bagger-cor-Bild-8000.jpg
 ---
 
 ## Overview

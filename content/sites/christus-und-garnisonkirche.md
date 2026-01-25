@@ -1,24 +1,51 @@
 ---
-title: "Christus- und Garnisonkirche"
-site_name: "Christus- und Garnisonkirche"
-slug: "christus-und-garnisonkirche"
-region: "Schleswig-Holstein"
-
-# Location
+title: Christus- und Garnisonkirche
+site_name: Christus- und Garnisonkirche
+slug: christus-und-garnisonkirche
+region: Schleswig-Holstein
 latitude: 53.5175
 longitude: 8.12106
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1087195"
-description: "In the heart of Wilhelmshaven, Germany, stands the Christus- und Garnisonkirche, a striking example of Gothic Revival architecture. This church not only..."
+- church building
+- religious site
+wikidata_id: Q1087195
+description: In the heart of Wilhelmshaven, Germany, stands the Christus- und Garnisonkirche,
+  a striking example of Gothic Revival architecture. This church not only...
 images:
-  - "/images-sites/christus-und-garnisonkirche/01-a942c69b-1920w.webp"
-  - "/images-sites/christus-und-garnisonkirche/02-4a349963-1920w.webp"
-  - "/images-sites/christus-und-garnisonkirche/03-d5e6ef8c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg/1200px-Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg/1200px-WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1200px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg/1200px-Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg/1200px-Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg
+image_srcset:
+  Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg/400px-Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg/800px-Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg/1200px-Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg/1920px-Christus-%20und%20Garnisonkirche%2C%20Wilhelmshaven.jpg
+  WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg/400px-WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg/800px-WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg/1200px-WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg/1920px-WHV%20-%20DenkmalWilhelmI003%20von%20hinten.jpg
+  WHV - DenkmalWilhelmI003 von hinten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/400px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/800px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1200px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WHV_-_DenkmalWilhelmI003_von_hinten.jpg/1920px-WHV_-_DenkmalWilhelmI003_von_hinten.jpg
+  Christus- und Garnisonkirche Wilhelmshaven 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg/400px-Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg/800px-Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg/1200px-Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg/1920px-Christus-_und_Garnisonkirche_Wilhelmshaven_03.jpg
+  Christus- und Garnisonkirche, Wilhelmshaven.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg/400px-Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg/800px-Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg/1200px-Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg/1920px-Christus-_und_Garnisonkirche,_Wilhelmshaven.jpg
 ---
 
 ## Overview

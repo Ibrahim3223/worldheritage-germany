@@ -1,27 +1,49 @@
 ---
-title: "Bodfeld"
+title: Bodfeld
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.788888888
 longitude: 10.838611111
-
-# Images
 images:
-  - "/images-sites/bodfeld/01-e8e632d7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pfalz_Bodfeld.jpg/1200px-Pfalz_Bodfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg/1200px-Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wegweiser_in_Königshütte_(KÖN_KO30).jpg/1200px-Wegweiser_in_Königshütte_(KÖN_KO30).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KUIA_II.13..jpg/1200px-KUIA_II.13..jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Heinrich_III._(HRR)_Miniatur.jpg/1200px-Heinrich_III._(HRR)_Miniatur.jpg
+image_srcset:
+  Pfalz Bodfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pfalz_Bodfeld.jpg/400px-Pfalz_Bodfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pfalz_Bodfeld.jpg/800px-Pfalz_Bodfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pfalz_Bodfeld.jpg/1200px-Pfalz_Bodfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pfalz_Bodfeld.jpg/1920px-Pfalz_Bodfeld.jpg
+  Wegweiser in Königshütte (Elbingerode 6,0 km).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg/400px-Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg/800px-Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg/1200px-Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg/1920px-Wegweiser_in_Königshütte_(Elbingerode_6,0_km).jpg
+  Wegweiser in Königshütte (KÖN KO30).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wegweiser_in_Königshütte_(KÖN_KO30).jpg/400px-Wegweiser_in_Königshütte_(KÖN_KO30).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wegweiser_in_Königshütte_(KÖN_KO30).jpg/800px-Wegweiser_in_Königshütte_(KÖN_KO30).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wegweiser_in_Königshütte_(KÖN_KO30).jpg/1200px-Wegweiser_in_Königshütte_(KÖN_KO30).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wegweiser_in_Königshütte_(KÖN_KO30).jpg/1920px-Wegweiser_in_Königshütte_(KÖN_KO30).jpg
+  KUIA II.13..jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KUIA_II.13..jpg/400px-KUIA_II.13..jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KUIA_II.13..jpg/800px-KUIA_II.13..jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KUIA_II.13..jpg/1200px-KUIA_II.13..jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/KUIA_II.13..jpg/1920px-KUIA_II.13..jpg
+  Heinrich III. (HRR) Miniatur.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Heinrich_III._(HRR)_Miniatur.jpg/400px-Heinrich_III._(HRR)_Miniatur.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Heinrich_III._(HRR)_Miniatur.jpg/800px-Heinrich_III._(HRR)_Miniatur.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Heinrich_III._(HRR)_Miniatur.jpg/1200px-Heinrich_III._(HRR)_Miniatur.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Heinrich_III._(HRR)_Miniatur.jpg/1920px-Heinrich_III._(HRR)_Miniatur.jpg
 ---
 
 ## Overview

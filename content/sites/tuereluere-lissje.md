@@ -13,7 +13,7 @@ regions:
 latitude: 50.7746206
 longitude: 6.0813266
 images:
-  - "/images-sites/tuereluere-lissje/01-16a88009-800w.webp"
+  - "/images/tuereluere-lissje/01-16a88009-800w.webp"
 ---
 
 ## Overview

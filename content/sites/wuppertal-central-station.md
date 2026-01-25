@@ -13,9 +13,9 @@ regions:
 latitude: 51.254722222
 longitude: 7.15
 images:
-  - "/images-sites/wuppertal-central-station/01-38545ba5-800w.webp"
-  - "/images-sites/wuppertal-central-station/02-e0784280-800w.webp"
-  - "/images-sites/wuppertal-central-station/03-4fa840fc-800w.webp"
+  - "/images/wuppertal-central-station/01-38545ba5-800w.webp"
+  - "/images/wuppertal-central-station/02-e0784280-800w.webp"
+  - "/images/wuppertal-central-station/03-4fa840fc-800w.webp"
 ---
 
 ## Overview

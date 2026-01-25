@@ -1,21 +1,49 @@
 ---
-title: "Deutsches Museum"
+title: Deutsches Museum
 date: 2026-01-23
 draft: false
-description: "museum of science and technology in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Science Museum"
+description: museum of science and technology in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Science Museum
 categories:
-  - "Science Museum"
+- Science Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.13
 longitude: 11.583333333
 images:
-  - "/images-sites/deutsches-museum/01-ee703637-800w.webp"
-  - "/images-sites/deutsches-museum/02-3d9d3ec8-800w.webp"
-  - "/images-sites/deutsches-museum/03-99558cd5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/20230410_Deutsches_Museum_02.jpg/1200px-20230410_Deutsches_Museum_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1200px-Deutsches_Museum_Portrait_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg/1200px-Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BMW_801TJ.jpg/1200px-BMW_801TJ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BMW_132_engine_SDASM.jpg/1200px-BMW_132_engine_SDASM.jpg
+image_srcset:
+  20230410 Deutsches Museum 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/20230410_Deutsches_Museum_02.jpg/400px-20230410_Deutsches_Museum_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/20230410_Deutsches_Museum_02.jpg/800px-20230410_Deutsches_Museum_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/20230410_Deutsches_Museum_02.jpg/1200px-20230410_Deutsches_Museum_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/20230410_Deutsches_Museum_02.jpg/1920px-20230410_Deutsches_Museum_02.jpg
+  Deutsches Museum Portrait 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/400px-Deutsches_Museum_Portrait_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/800px-Deutsches_Museum_Portrait_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1200px-Deutsches_Museum_Portrait_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deutsches_Museum_Portrait_4.jpg/1920px-Deutsches_Museum_Portrait_4.jpg
+  Deutsches Museum Oct 2020 23 47 38 308000.jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg/400px-Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg/800px-Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg/1200px-Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg/1920px-Deutsches_Museum_Oct_2020_23_47_38_308000.jpeg
+  BMW 801TJ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BMW_801TJ.jpg/400px-BMW_801TJ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BMW_801TJ.jpg/800px-BMW_801TJ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BMW_801TJ.jpg/1200px-BMW_801TJ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BMW_801TJ.jpg/1920px-BMW_801TJ.jpg
+  BMW 132 engine SDASM.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BMW_132_engine_SDASM.jpg/400px-BMW_132_engine_SDASM.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BMW_132_engine_SDASM.jpg/800px-BMW_132_engine_SDASM.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BMW_132_engine_SDASM.jpg/1200px-BMW_132_engine_SDASM.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BMW_132_engine_SDASM.jpg/1920px-BMW_132_engine_SDASM.jpg
 ---
 
 ## Overview

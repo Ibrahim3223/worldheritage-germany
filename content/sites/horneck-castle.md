@@ -1,27 +1,50 @@
 ---
-title: "Horneck Castle"
+title: Horneck Castle
 date: 2026-01-23
 draft: false
-description: "human settlement"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: human settlement
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.2867
 longitude: 9.156
-
-# Images
 images:
-  - "/images-sites/horneck-castle/01-1335c4c3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Castle_Horneck_YHA_in_2019.jpg/1200px-Castle_Horneck_YHA_in_2019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Castle_Horneck_Youth_Hostel_(8099502371).jpg/1200px-Castle_Horneck_Youth_Hostel_(8099502371).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg/1200px-Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gundelsheim-horneck2008.jpg/1200px-Gundelsheim-horneck2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg/1200px-Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg
+image_srcset:
+  Castle Horneck YHA in 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Castle_Horneck_YHA_in_2019.jpg/400px-Castle_Horneck_YHA_in_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Castle_Horneck_YHA_in_2019.jpg/800px-Castle_Horneck_YHA_in_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Castle_Horneck_YHA_in_2019.jpg/1200px-Castle_Horneck_YHA_in_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Castle_Horneck_YHA_in_2019.jpg/1920px-Castle_Horneck_YHA_in_2019.jpg
+  Castle Horneck Youth Hostel (8099502371).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Castle_Horneck_Youth_Hostel_(8099502371).jpg/400px-Castle_Horneck_Youth_Hostel_(8099502371).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Castle_Horneck_Youth_Hostel_(8099502371).jpg/800px-Castle_Horneck_Youth_Hostel_(8099502371).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Castle_Horneck_Youth_Hostel_(8099502371).jpg/1200px-Castle_Horneck_Youth_Hostel_(8099502371).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Castle_Horneck_Youth_Hostel_(8099502371).jpg/1920px-Castle_Horneck_Youth_Hostel_(8099502371).jpg
+  ? Castle Horneck. Our accommodation for the -weekend -yha -penzance -castlehorneck
+    -Cornwall -westonsupermare -hildesheim -youthexchange (25442132894).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg/400px-Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg/800px-Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg/1200px-Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg/1920px-Castle_Horneck._Our_accommodation_for_the_-weekend_-yha_-penzance_-castlehorneck_-Cornwall_-westonsupermare_-hildesheim_-youthexchange_(25442132894).jpg
+  Gundelsheim-horneck2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gundelsheim-horneck2008.jpg/400px-Gundelsheim-horneck2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gundelsheim-horneck2008.jpg/800px-Gundelsheim-horneck2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gundelsheim-horneck2008.jpg/1200px-Gundelsheim-horneck2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gundelsheim-horneck2008.jpg/1920px-Gundelsheim-horneck2008.jpg
+  Penzance Youth Hostel - geograph.org.uk - 912864.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg/400px-Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg/800px-Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg/1200px-Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg/1920px-Penzance_Youth_Hostel_-_geograph.org.uk_-_912864.jpg
 ---
 
 ## Overview

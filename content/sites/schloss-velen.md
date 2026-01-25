@@ -13,7 +13,7 @@ regions:
 latitude: 51.8933
 longitude: 6.98361
 images:
-  - "/images-sites/schloss-velen/01-fac3b639-800w.webp"
+  - "/images/schloss-velen/01-fac3b639-800w.webp"
 ---
 
 ## Overview

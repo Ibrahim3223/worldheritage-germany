@@ -1,19 +1,49 @@
 ---
-title: "Darmstadt Central Station"
+title: Darmstadt Central Station
 date: 2026-01-23
 draft: false
-description: "railway station in Darmstadt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Darmstadt, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8725
 longitude: 8.62889
 images:
-  - "/images-sites/darmstadt-central-station/01-d3c11d9a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg/1200px-Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darmstadt_Bahnhof-2.JPG/1200px-Darmstadt_Bahnhof-2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_2006_74.jpg/1200px-Darmstadt_2006_74.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Darmstadt_2006_77.jpg/1200px-Darmstadt_2006_77.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Darmstadt_Bahnhof_2004-11-23e.JPG/1200px-Darmstadt_Bahnhof_2004-11-23e.JPG
+image_srcset:
+  Platz der Deutschen Einheit, 2, Darmstadt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg/400px-Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg/800px-Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg/1200px-Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg/1920px-Platz_der_Deutschen_Einheit,_2,_Darmstadt.jpg
+  Darmstadt Bahnhof-2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darmstadt_Bahnhof-2.JPG/400px-Darmstadt_Bahnhof-2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darmstadt_Bahnhof-2.JPG/800px-Darmstadt_Bahnhof-2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darmstadt_Bahnhof-2.JPG/1200px-Darmstadt_Bahnhof-2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darmstadt_Bahnhof-2.JPG/1920px-Darmstadt_Bahnhof-2.JPG
+  Darmstadt 2006 74.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_2006_74.jpg/400px-Darmstadt_2006_74.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_2006_74.jpg/800px-Darmstadt_2006_74.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_2006_74.jpg/1200px-Darmstadt_2006_74.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Darmstadt_2006_74.jpg/1920px-Darmstadt_2006_74.jpg
+  Darmstadt 2006 77.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Darmstadt_2006_77.jpg/400px-Darmstadt_2006_77.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Darmstadt_2006_77.jpg/800px-Darmstadt_2006_77.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Darmstadt_2006_77.jpg/1200px-Darmstadt_2006_77.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Darmstadt_2006_77.jpg/1920px-Darmstadt_2006_77.jpg
+  Darmstadt Bahnhof 2004-11-23e.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Darmstadt_Bahnhof_2004-11-23e.JPG/400px-Darmstadt_Bahnhof_2004-11-23e.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Darmstadt_Bahnhof_2004-11-23e.JPG/800px-Darmstadt_Bahnhof_2004-11-23e.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Darmstadt_Bahnhof_2004-11-23e.JPG/1200px-Darmstadt_Bahnhof_2004-11-23e.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Darmstadt_Bahnhof_2004-11-23e.JPG/1920px-Darmstadt_Bahnhof_2004-11-23e.JPG
 ---
 
 ## Overview

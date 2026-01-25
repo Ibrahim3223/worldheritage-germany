@@ -1,24 +1,51 @@
 ---
-title: "Gustav-Adolf-Kirche (Meppen)"
-site_name: "Gustav-Adolf-Kirche (Meppen)"
-slug: "gustav-adolf-kirche-meppen"
-region: "Lower Saxony"
-
-# Location
+title: Gustav-Adolf-Kirche (Meppen)
+site_name: Gustav-Adolf-Kirche (Meppen)
+slug: gustav-adolf-kirche-meppen
+region: Lower Saxony
 latitude: 52.695938
 longitude: 7.295618
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q15062266"
-description: "In the heart of Meppen, the Gustav-Adolf-Kirche stands as a significant landmark, its Gothic Revival architecture drawing the eye of every passerby. Thi..."
+- church building
+- religious site
+wikidata_id: Q15062266
+description: In the heart of Meppen, the Gustav-Adolf-Kirche stands as a significant
+  landmark, its Gothic Revival architecture drawing the eye of every passerby. Thi...
 images:
-  - "/images-sites/gustav-adolf-kirche-meppen/01-fbb506d9-1920w.webp"
-  - "/images-sites/gustav-adolf-kirche-meppen/02-3abc6415-1920w.webp"
-  - "/images-sites/gustav-adolf-kirche-meppen/03-a2a9de29-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav-Adolf-Kirche%20Meppen.jpg/1200px-Gustav-Adolf-Kirche%20Meppen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg/1200px-Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg/1200px-Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg/1200px-Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1200px-Gustav-Adolf-Kirche_Meppen.jpg
+image_srcset:
+  Gustav-Adolf-Kirche%20Meppen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav-Adolf-Kirche%20Meppen.jpg/400px-Gustav-Adolf-Kirche%20Meppen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav-Adolf-Kirche%20Meppen.jpg/800px-Gustav-Adolf-Kirche%20Meppen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav-Adolf-Kirche%20Meppen.jpg/1200px-Gustav-Adolf-Kirche%20Meppen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gustav-Adolf-Kirche%20Meppen.jpg/1920px-Gustav-Adolf-Kirche%20Meppen.jpg
+  Gustav-Adolf-Kirche Meppen Ansicht 1858.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg/400px-Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg/800px-Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg/1200px-Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg/1920px-Gustav-Adolf-Kirche_Meppen_Ansicht_1858.jpg
+  Gustav-Adolf-Kirche Meppen Tauffenster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg/400px-Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg/800px-Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg/1200px-Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg/1920px-Gustav-Adolf-Kirche_Meppen_Tauffenster.jpg
+  Gustav-Adolf-Kirche Meppen Fenster 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg/400px-Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg/800px-Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg/1200px-Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg/1920px-Gustav-Adolf-Kirche_Meppen_Fenster_03.jpg
+  Gustav-Adolf-Kirche Meppen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/400px-Gustav-Adolf-Kirche_Meppen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/800px-Gustav-Adolf-Kirche_Meppen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1200px-Gustav-Adolf-Kirche_Meppen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gustav-Adolf-Kirche_Meppen.jpg/1920px-Gustav-Adolf-Kirche_Meppen.jpg
 ---
 
 ## Overview

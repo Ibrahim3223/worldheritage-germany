@@ -13,9 +13,9 @@ regions:
 latitude: 50.9694
 longitude: 14.0736
 images:
-  - "/images-sites/schwedenloecher/01-619c16f5-800w.webp"
-  - "/images-sites/schwedenloecher/02-069a9a37-800w.webp"
-  - "/images-sites/schwedenloecher/03-c9f57e8a-800w.webp"
+  - "/images/schwedenloecher/01-619c16f5-800w.webp"
+  - "/images/schwedenloecher/02-069a9a37-800w.webp"
+  - "/images/schwedenloecher/03-c9f57e8a-800w.webp"
 ---
 
 ## Overview

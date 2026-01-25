@@ -1,19 +1,49 @@
 ---
-title: "Eberstadt Stalactite Cave"
+title: Eberstadt Stalactite Cave
 date: 2026-01-23
 draft: false
-description: "cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4811
 longitude: 9.34833
 images:
-  - "/images-sites/eberstadt-stalactite-cave/01-a7515683-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Eberstadt162006.jpg/1200px-Eberstadt162006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1200px-Eberstadt262006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tropfstein-"Lamellen".JPG/1200px-Tropfstein-"Lamellen".JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg/1200px-Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eberstadter_Tropfsteinhöhle_Sinterwand.jpg/1200px-Eberstadter_Tropfsteinhöhle_Sinterwand.jpg
+image_srcset:
+  Eberstadt162006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Eberstadt162006.jpg/400px-Eberstadt162006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Eberstadt162006.jpg/800px-Eberstadt162006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Eberstadt162006.jpg/1200px-Eberstadt162006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Eberstadt162006.jpg/1920px-Eberstadt162006.jpg
+  Eberstadt262006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/400px-Eberstadt262006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/800px-Eberstadt262006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1200px-Eberstadt262006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eberstadt262006.jpg/1920px-Eberstadt262006.jpg
+  Tropfstein-"Lamellen".JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tropfstein-"Lamellen".JPG/400px-Tropfstein-"Lamellen".JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tropfstein-"Lamellen".JPG/800px-Tropfstein-"Lamellen".JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tropfstein-"Lamellen".JPG/1200px-Tropfstein-"Lamellen".JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tropfstein-"Lamellen".JPG/1920px-Tropfstein-"Lamellen".JPG
+  Eberstadter Tropfsteinhöhle, Sinterfahnen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg/400px-Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg/800px-Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg/1200px-Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg/1920px-Eberstadter_Tropfsteinhöhle,_Sinterfahnen.jpg
+  Eberstadter Tropfsteinhöhle Sinterwand.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eberstadter_Tropfsteinhöhle_Sinterwand.jpg/400px-Eberstadter_Tropfsteinhöhle_Sinterwand.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eberstadter_Tropfsteinhöhle_Sinterwand.jpg/800px-Eberstadter_Tropfsteinhöhle_Sinterwand.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eberstadter_Tropfsteinhöhle_Sinterwand.jpg/1200px-Eberstadter_Tropfsteinhöhle_Sinterwand.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Eberstadter_Tropfsteinhöhle_Sinterwand.jpg/1920px-Eberstadter_Tropfsteinhöhle_Sinterwand.jpg
 ---
 
 ## Overview

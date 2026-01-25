@@ -1,20 +1,43 @@
 ---
-title: "Carl von Ossietzky"
+title: Carl von Ossietzky
 date: 2026-01-23
 draft: false
-description: "memorial in Berlin-Pankow, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: memorial in Berlin-Pankow, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 52.573333333
 longitude: 13.408055555
 images:
-  - "/images-sites/carl-von-ossietzky/01-da9712d3-800w.webp"
-  - "/images-sites/carl-von-ossietzky/03-647493ef-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UniOLWechloy.JPG/1200px-UniOLWechloy.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg/1200px-Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg/1200px-Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg/1200px-Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg
+image_srcset:
+  UniOLWechloy.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UniOLWechloy.JPG/400px-UniOLWechloy.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UniOLWechloy.JPG/800px-UniOLWechloy.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UniOLWechloy.JPG/1200px-UniOLWechloy.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/UniOLWechloy.JPG/1920px-UniOLWechloy.JPG
+  Bundesarchiv Bild 183-93516-0010, Carl von Ossietzky.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg/400px-Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg/800px-Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg/1200px-Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg/1920px-Bundesarchiv_Bild_183-93516-0010,_Carl_von_Ossietzky.jpg
+  Bundesarchiv Bild 183-B0527-0001-861, Carl von Ossietzky vor der Strafanstalt Berlin-Tegel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg/400px-Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg/800px-Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg/1200px-Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg/1920px-Bundesarchiv_Bild_183-B0527-0001-861,_Carl_von_Ossietzky_vor_der_Strafanstalt_Berlin-Tegel.jpg
+  Bundesarchiv Bild 183-R70579, Carl von Ossietzky im KZ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg/400px-Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg/800px-Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg/1200px-Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg/1920px-Bundesarchiv_Bild_183-R70579,_Carl_von_Ossietzky_im_KZ.jpg
 ---
 
 ## Overview

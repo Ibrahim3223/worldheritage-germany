@@ -1,27 +1,49 @@
 ---
-title: "Castle Kastellaun"
+title: Castle Kastellaun
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.0708
 longitude: 7.43833
-
-# Images
 images:
-  - "/images-sites/castle-kastellaun/01-47404d49-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PalasBurgKastellaun.jpg/1200px-PalasBurgKastellaun.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kastellaun_-_Burganlagen_-_panoramio.jpg/1200px-Kastellaun_-_Burganlagen_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Kastellaun-Südturm-02.jpg/1200px-Burg_Kastellaun-Südturm-02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kastellaun6.jpg/1200px-Kastellaun6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kastellaun_Burg01.jpg/1200px-Kastellaun_Burg01.jpg
+image_srcset:
+  PalasBurgKastellaun.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PalasBurgKastellaun.jpg/400px-PalasBurgKastellaun.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PalasBurgKastellaun.jpg/800px-PalasBurgKastellaun.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PalasBurgKastellaun.jpg/1200px-PalasBurgKastellaun.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PalasBurgKastellaun.jpg/1920px-PalasBurgKastellaun.jpg
+  Kastellaun - Burganlagen - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kastellaun_-_Burganlagen_-_panoramio.jpg/400px-Kastellaun_-_Burganlagen_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kastellaun_-_Burganlagen_-_panoramio.jpg/800px-Kastellaun_-_Burganlagen_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kastellaun_-_Burganlagen_-_panoramio.jpg/1200px-Kastellaun_-_Burganlagen_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kastellaun_-_Burganlagen_-_panoramio.jpg/1920px-Kastellaun_-_Burganlagen_-_panoramio.jpg
+  Burg Kastellaun-Südturm-02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Kastellaun-Südturm-02.jpg/400px-Burg_Kastellaun-Südturm-02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Kastellaun-Südturm-02.jpg/800px-Burg_Kastellaun-Südturm-02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Kastellaun-Südturm-02.jpg/1200px-Burg_Kastellaun-Südturm-02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Burg_Kastellaun-Südturm-02.jpg/1920px-Burg_Kastellaun-Südturm-02.jpg
+  Kastellaun6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kastellaun6.jpg/400px-Kastellaun6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kastellaun6.jpg/800px-Kastellaun6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kastellaun6.jpg/1200px-Kastellaun6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kastellaun6.jpg/1920px-Kastellaun6.jpg
+  Kastellaun Burg01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kastellaun_Burg01.jpg/400px-Kastellaun_Burg01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kastellaun_Burg01.jpg/800px-Kastellaun_Burg01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kastellaun_Burg01.jpg/1200px-Kastellaun_Burg01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kastellaun_Burg01.jpg/1920px-Kastellaun_Burg01.jpg
 ---
 
 ## Overview

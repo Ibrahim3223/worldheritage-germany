@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q720789"
 description: "In the heart of Ingolstadt, Germany, Sankt Maria de Victoria stands as a remarkable example of Baroque architecture. Founded in 1732, this church not on..."
 images:
-  - "/images-sites/sankt-maria-de-victoria-ingolstadt/01-c3af5160-1920w.webp"
-  - "/images-sites/sankt-maria-de-victoria-ingolstadt/02-2883658d-1920w.webp"
-  - "/images-sites/sankt-maria-de-victoria-ingolstadt/03-c8eee46f-1920w.webp"
+  - "/images/sankt-maria-de-victoria-ingolstadt/01-c3af5160-1920w.webp"
+  - "/images/sankt-maria-de-victoria-ingolstadt/02-2883658d-1920w.webp"
+  - "/images/sankt-maria-de-victoria-ingolstadt/03-c8eee46f-1920w.webp"
 ---
 
 ## Overview

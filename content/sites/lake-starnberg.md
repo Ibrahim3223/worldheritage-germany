@@ -13,7 +13,7 @@ regions:
 latitude: 47.903888888
 longitude: 11.307222222
 images:
-  - "/images-sites/lake-starnberg/01-85fb95e2-800w.webp"
+  - "/images/lake-starnberg/01-85fb95e2-800w.webp"
 ---
 
 ## Overview

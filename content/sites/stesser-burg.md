@@ -13,7 +13,7 @@ regions:
 latitude: 51.3462
 longitude: 8.21515
 images:
-  - "/images-sites/stesser-burg/01-db8f45df-800w.webp"
+  - "/images/stesser-burg/01-db8f45df-800w.webp"
 ---
 
 ## Overview

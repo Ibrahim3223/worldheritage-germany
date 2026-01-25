@@ -13,9 +13,9 @@ regions:
 latitude: 49.4557
 longitude: 11.0804
 images:
-  - "/images-sites/martin-behaim-denkmal-nuremberg/01-8a40e4ce-800w.webp"
-  - "/images-sites/martin-behaim-denkmal-nuremberg/02-3e546fe9-800w.webp"
-  - "/images-sites/martin-behaim-denkmal-nuremberg/03-b73a79bd-800w.webp"
+  - "/images/martin-behaim-denkmal-nuremberg/01-8a40e4ce-800w.webp"
+  - "/images/martin-behaim-denkmal-nuremberg/02-3e546fe9-800w.webp"
+  - "/images/martin-behaim-denkmal-nuremberg/03-b73a79bd-800w.webp"
 ---
 
 ## Overview

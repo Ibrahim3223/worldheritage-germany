@@ -1,19 +1,49 @@
 ---
-title: "Denklingen Castle"
+title: Denklingen Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9153
 longitude: 7.65517
 images:
-  - "/images-sites/denklingen-castle/01-5e7a8147-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg
+image_srcset:
+  Reichshof Denklingen - Hauptstraße - Burg + Pavillon 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg/400px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg/800px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg/1920px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_+_Pavillon_01_ies.jpg
+  Reichshof Denklingen - Hauptstraße - Burg 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg/400px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg/800px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg/1920px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_01_ies.jpg
+  Reichshof Denklingen - Hauptstraße - Burg 02 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg/400px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg/800px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg/1920px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_02_ies.jpg
+  Reichshof Denklingen - Hauptstraße - Burg 04 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg/400px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg/800px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg/1920px-Reichshof_Denklingen_-_Hauptstraße_-_Burg_04_ies.jpg
+  Reichshof Denklingen - Hauptstraße - Burgplatz + Burg 01 ies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg/400px-Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg/800px-Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg/1200px-Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg/1920px-Reichshof_Denklingen_-_Hauptstraße_-_Burgplatz_+_Burg_01_ies.jpg
 ---
 
 ## Overview

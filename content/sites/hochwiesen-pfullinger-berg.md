@@ -1,19 +1,49 @@
 ---
-title: "Hochwiesen-Pfullinger Berg"
+title: Hochwiesen-Pfullinger Berg
 date: 2026-01-23
 draft: false
-description: "nature reserve in Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 48.433333333
 longitude: 9.1825
 images:
-  - "/images-sites/hochwiesen-pfullinger-berg/01-a49bcf81-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hochwiesen_Pfullinger_Berg.jpg/1200px-Hochwiesen_Pfullinger_Berg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg/1200px-20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Küchenschelle_Pfullinger_Hochwiesen.jpg/1200px-Küchenschelle_Pfullinger_Hochwiesen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/NSG_Hochwiesen-Pfullinger_Berg.jpg/1200px-NSG_Hochwiesen-Pfullinger_Berg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skabiosenschwärmer_01_W.jpg/1200px-Skabiosenschwärmer_01_W.jpg
+image_srcset:
+  Hochwiesen Pfullinger Berg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hochwiesen_Pfullinger_Berg.jpg/400px-Hochwiesen_Pfullinger_Berg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hochwiesen_Pfullinger_Berg.jpg/800px-Hochwiesen_Pfullinger_Berg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hochwiesen_Pfullinger_Berg.jpg/1200px-Hochwiesen_Pfullinger_Berg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hochwiesen_Pfullinger_Berg.jpg/1920px-Hochwiesen_Pfullinger_Berg.jpg
+  20210110 Hochwiesen-Pfullinger Berg im Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg/400px-20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg/800px-20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg/1200px-20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg/1920px-20210110_Hochwiesen-Pfullinger_Berg_im_Winter.jpg
+  Küchenschelle Pfullinger Hochwiesen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Küchenschelle_Pfullinger_Hochwiesen.jpg/400px-Küchenschelle_Pfullinger_Hochwiesen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Küchenschelle_Pfullinger_Hochwiesen.jpg/800px-Küchenschelle_Pfullinger_Hochwiesen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Küchenschelle_Pfullinger_Hochwiesen.jpg/1200px-Küchenschelle_Pfullinger_Hochwiesen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Küchenschelle_Pfullinger_Hochwiesen.jpg/1920px-Küchenschelle_Pfullinger_Hochwiesen.jpg
+  NSG Hochwiesen-Pfullinger Berg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/NSG_Hochwiesen-Pfullinger_Berg.jpg/400px-NSG_Hochwiesen-Pfullinger_Berg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/NSG_Hochwiesen-Pfullinger_Berg.jpg/800px-NSG_Hochwiesen-Pfullinger_Berg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/NSG_Hochwiesen-Pfullinger_Berg.jpg/1200px-NSG_Hochwiesen-Pfullinger_Berg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/NSG_Hochwiesen-Pfullinger_Berg.jpg/1920px-NSG_Hochwiesen-Pfullinger_Berg.jpg
+  Skabiosenschwärmer 01 W.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skabiosenschwärmer_01_W.jpg/400px-Skabiosenschwärmer_01_W.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skabiosenschwärmer_01_W.jpg/800px-Skabiosenschwärmer_01_W.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skabiosenschwärmer_01_W.jpg/1200px-Skabiosenschwärmer_01_W.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Skabiosenschwärmer_01_W.jpg/1920px-Skabiosenschwärmer_01_W.jpg
 ---
 
 ## Overview

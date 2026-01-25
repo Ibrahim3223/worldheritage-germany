@@ -13,7 +13,7 @@ regions:
 latitude: 52.5012
 longitude: 13.4417
 images:
-  - "/images-sites/schlesisches-tor/01-7e755a4c-800w.webp"
+  - "/images/schlesisches-tor/01-7e755a4c-800w.webp"
 ---
 
 ## Overview

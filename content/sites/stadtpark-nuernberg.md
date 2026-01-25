@@ -13,7 +13,7 @@ regions:
 latitude: 49.465
 longitude: 11.0925
 images:
-  - "/images-sites/stadtpark-nuernberg/01-5e696876-800w.webp"
+  - "/images/stadtpark-nuernberg/01-5e696876-800w.webp"
 ---
 
 ## Overview

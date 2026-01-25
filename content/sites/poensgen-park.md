@@ -13,9 +13,9 @@ regions:
 latitude: 51.3056
 longitude: 6.85
 images:
-  - "/images-sites/poensgen-park/01-4dbbdf47-800w.webp"
-  - "/images-sites/poensgen-park/02-ebea083d-800w.webp"
-  - "/images-sites/poensgen-park/03-6e0a2331-800w.webp"
+  - "/images/poensgen-park/01-4dbbdf47-800w.webp"
+  - "/images/poensgen-park/02-ebea083d-800w.webp"
+  - "/images/poensgen-park/03-6e0a2331-800w.webp"
 ---
 
 ## Overview

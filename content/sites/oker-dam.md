@@ -13,7 +13,7 @@ regions:
 latitude: 51.851163
 longitude: 10.4579072
 images:
-  - "/images-sites/oker-dam/01-c450b8c7-800w.webp"
+  - "/images/oker-dam/01-c450b8c7-800w.webp"
 ---
 
 ## Overview

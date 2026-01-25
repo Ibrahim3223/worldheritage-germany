@@ -21,7 +21,7 @@ longitude: 11.0811
 
 # Images
 images:
-  - "/images-sites/lauenburg-castle/01-1b88b067-800w.webp"
+  - "/images/lauenburg-castle/01-1b88b067-800w.webp"
 ---
 
 ## Overview

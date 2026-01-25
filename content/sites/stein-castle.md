@@ -21,9 +21,9 @@ longitude: 12.6617
 
 # Images
 images:
-  - "/images-sites/stein-castle/01-89c9287a-800w.webp"
-  - "/images-sites/stein-castle/02-1003bbe3-800w.webp"
-  - "/images-sites/stein-castle/03-286a3fee-800w.webp"
+  - "/images/stein-castle/01-89c9287a-800w.webp"
+  - "/images/stein-castle/02-1003bbe3-800w.webp"
+  - "/images/stein-castle/03-286a3fee-800w.webp"
 ---
 
 ## Overview

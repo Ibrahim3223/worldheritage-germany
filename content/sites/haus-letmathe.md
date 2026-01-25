@@ -1,20 +1,49 @@
 ---
-title: "Haus Letmathe"
+title: Haus Letmathe
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.3661
 longitude: 7.60833
 images:
-  - "/images-sites/haus-letmathe/01-8a770113-800w.webp"
-  - "/images-sites/haus-letmathe/02-800db98a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iserlohn-Letmathe-Friedensstele-1-Asio.JPG/1200px-Iserlohn-Letmathe-Friedensstele-1-Asio.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Letmathe-HausLetmathe2-Bubo.JPG/1200px-Letmathe-HausLetmathe2-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Letmathe-HausLetmathe3-Bubo.JPG/1200px-Letmathe-HausLetmathe3-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1200px-Letmathe-HausLetmathe1-Bubo.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Letmathe-Brabeck1-Bubo.JPG/1200px-Letmathe-Brabeck1-Bubo.JPG
+image_srcset:
+  Iserlohn-Letmathe-Friedensstele-1-Asio.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iserlohn-Letmathe-Friedensstele-1-Asio.JPG/400px-Iserlohn-Letmathe-Friedensstele-1-Asio.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iserlohn-Letmathe-Friedensstele-1-Asio.JPG/800px-Iserlohn-Letmathe-Friedensstele-1-Asio.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iserlohn-Letmathe-Friedensstele-1-Asio.JPG/1200px-Iserlohn-Letmathe-Friedensstele-1-Asio.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iserlohn-Letmathe-Friedensstele-1-Asio.JPG/1920px-Iserlohn-Letmathe-Friedensstele-1-Asio.JPG
+  Letmathe-HausLetmathe2-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Letmathe-HausLetmathe2-Bubo.JPG/400px-Letmathe-HausLetmathe2-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Letmathe-HausLetmathe2-Bubo.JPG/800px-Letmathe-HausLetmathe2-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Letmathe-HausLetmathe2-Bubo.JPG/1200px-Letmathe-HausLetmathe2-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Letmathe-HausLetmathe2-Bubo.JPG/1920px-Letmathe-HausLetmathe2-Bubo.JPG
+  Letmathe-HausLetmathe3-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Letmathe-HausLetmathe3-Bubo.JPG/400px-Letmathe-HausLetmathe3-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Letmathe-HausLetmathe3-Bubo.JPG/800px-Letmathe-HausLetmathe3-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Letmathe-HausLetmathe3-Bubo.JPG/1200px-Letmathe-HausLetmathe3-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Letmathe-HausLetmathe3-Bubo.JPG/1920px-Letmathe-HausLetmathe3-Bubo.JPG
+  Letmathe-HausLetmathe1-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/400px-Letmathe-HausLetmathe1-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/800px-Letmathe-HausLetmathe1-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1200px-Letmathe-HausLetmathe1-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Letmathe-HausLetmathe1-Bubo.JPG/1920px-Letmathe-HausLetmathe1-Bubo.JPG
+  Letmathe-Brabeck1-Bubo.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Letmathe-Brabeck1-Bubo.JPG/400px-Letmathe-Brabeck1-Bubo.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Letmathe-Brabeck1-Bubo.JPG/800px-Letmathe-Brabeck1-Bubo.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Letmathe-Brabeck1-Bubo.JPG/1200px-Letmathe-Brabeck1-Bubo.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Letmathe-Brabeck1-Bubo.JPG/1920px-Letmathe-Brabeck1-Bubo.JPG
 ---
 
 ## Overview

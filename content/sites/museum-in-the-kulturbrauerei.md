@@ -13,9 +13,9 @@ regions:
 latitude: 52.540368
 longitude: 13.413992
 images:
-  - "/images-sites/museum-in-the-kulturbrauerei/01-89dd15a2-800w.webp"
-  - "/images-sites/museum-in-the-kulturbrauerei/02-6a83bf4b-800w.webp"
-  - "/images-sites/museum-in-the-kulturbrauerei/03-40b14a49-800w.webp"
+  - "/images/museum-in-the-kulturbrauerei/01-89dd15a2-800w.webp"
+  - "/images/museum-in-the-kulturbrauerei/02-6a83bf4b-800w.webp"
+  - "/images/museum-in-the-kulturbrauerei/03-40b14a49-800w.webp"
 ---
 
 ## Overview

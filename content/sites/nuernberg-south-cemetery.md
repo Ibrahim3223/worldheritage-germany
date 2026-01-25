@@ -13,9 +13,9 @@ regions:
 latitude: 49.409930212
 longitude: 11.088760972
 images:
-  - "/images-sites/nuernberg-south-cemetery/01-d9ad1486-800w.webp"
-  - "/images-sites/nuernberg-south-cemetery/02-bd8b98c7-800w.webp"
-  - "/images-sites/nuernberg-south-cemetery/03-1b611eff-800w.webp"
+  - "/images/nuernberg-south-cemetery/01-d9ad1486-800w.webp"
+  - "/images/nuernberg-south-cemetery/02-bd8b98c7-800w.webp"
+  - "/images/nuernberg-south-cemetery/03-1b611eff-800w.webp"
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Altmühl"
+title: Altmühl
 date: 2026-01-23
 draft: false
-description: "river in Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: river in Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 49.430833333
 longitude: 10.305833333
 images:
-  - "/images-sites/altmuehl/01-04f5f535-800w.webp"
-  - "/images-sites/altmuehl/02-6c877176-800w.webp"
-  - "/images-sites/altmuehl/03-908e3c0a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Altmühl_in_Pappenheim_04.jpg/1200px-Altmühl_in_Pappenheim_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pano_Pappenheim_Altmuehltahlblick.jpg/1200px-Pano_Pappenheim_Altmuehltahlblick.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg/1200px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg/1200px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1200px-Panorama_altmuehltal6.jpg
+image_srcset:
+  Altmühl in Pappenheim 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Altmühl_in_Pappenheim_04.jpg/400px-Altmühl_in_Pappenheim_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Altmühl_in_Pappenheim_04.jpg/800px-Altmühl_in_Pappenheim_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Altmühl_in_Pappenheim_04.jpg/1200px-Altmühl_in_Pappenheim_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Altmühl_in_Pappenheim_04.jpg/1920px-Altmühl_in_Pappenheim_04.jpg
+  Pano Pappenheim Altmuehltahlblick.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pano_Pappenheim_Altmuehltahlblick.jpg/400px-Pano_Pappenheim_Altmuehltahlblick.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pano_Pappenheim_Altmuehltahlblick.jpg/800px-Pano_Pappenheim_Altmuehltahlblick.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pano_Pappenheim_Altmuehltahlblick.jpg/1200px-Pano_Pappenheim_Altmuehltahlblick.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pano_Pappenheim_Altmuehltahlblick.jpg/1920px-Pano_Pappenheim_Altmuehltahlblick.jpg
+  Altmühl at the Hammermühle (Mörnsheim), Landkreis Eichstätt, Bavaria, October 2022 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg/400px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg/800px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg/1200px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg/1920px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_12.jpg
+  Altmühl at the Hammermühle (Mörnsheim), Landkreis Eichstätt, Bavaria, October 2022 17.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg/400px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg/800px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg/1200px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg/1920px-Altmühl_at_the_Hammermühle_(Mörnsheim),_Landkreis_Eichstätt,_Bavaria,_October_2022_17.jpg
+  Panorama altmuehltal6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/400px-Panorama_altmuehltal6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/800px-Panorama_altmuehltal6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1200px-Panorama_altmuehltal6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panorama_altmuehltal6.jpg/1920px-Panorama_altmuehltal6.jpg
 ---
 
 ## Overview

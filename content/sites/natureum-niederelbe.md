@@ -13,9 +13,9 @@ regions:
 latitude: 53.8228
 longitude: 9.03519
 images:
-  - "/images-sites/natureum-niederelbe/01-9e222cd1-800w.webp"
-  - "/images-sites/natureum-niederelbe/02-41abb8d3-800w.webp"
-  - "/images-sites/natureum-niederelbe/03-311e40bc-800w.webp"
+  - "/images/natureum-niederelbe/01-9e222cd1-800w.webp"
+  - "/images/natureum-niederelbe/02-41abb8d3-800w.webp"
+  - "/images/natureum-niederelbe/03-311e40bc-800w.webp"
 ---
 
 ## Overview

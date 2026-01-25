@@ -21,8 +21,8 @@ longitude: 10.6894
 
 # Images
 images:
-  - "/images-sites/willy-brandt-house/02-995b1f2a-800w.webp"
-  - "/images-sites/willy-brandt-house/03-3b156f86-800w.webp"
+  - "/images/willy-brandt-house/02-995b1f2a-800w.webp"
+  - "/images/willy-brandt-house/03-3b156f86-800w.webp"
 ---
 
 ## Overview

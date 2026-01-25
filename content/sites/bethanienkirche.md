@@ -1,24 +1,51 @@
 ---
-title: "Bethanienkirche"
-site_name: "Bethanienkirche"
-slug: "bethanienkirche"
-region: "Brandenburg"
-
-# Location
+title: Bethanienkirche
+site_name: Bethanienkirche
+slug: bethanienkirche
+region: Brandenburg
 latitude: 51.3211
 longitude: 12.347
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q831184"
-description: "Bethanienkirche, a notable church building in the Schleußig region of Germany, presents a compelling fusion of modern architecture and spiritual sanctua..."
+- church building
+- religious site
+wikidata_id: Q831184
+description: Bethanienkirche, a notable church building in the Schleußig region of
+  Germany, presents a compelling fusion of modern architecture and spiritual sanctua...
 images:
-  - "/images-sites/bethanienkirche/01-8c22a75b-1920w.webp"
-  - "/images-sites/bethanienkirche/02-85847b62-1920w.webp"
-  - "/images-sites/bethanienkirche/03-f5705a7e-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg/1200px-Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bethanienkirche_von_Osten.JPG/1200px-Bethanienkirche_von_Osten.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SchleußigBethanien.JPG/1200px-SchleußigBethanien.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/1200px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bethanienkirche-Leipzig-Sep-2008-hs.jpg/1200px-Bethanienkirche-Leipzig-Sep-2008-hs.jpg
+image_srcset:
+  Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg/400px-Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg/800px-Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg/1200px-Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg/1920px-Bethanienkirche%20Leipzig%20Schleu%C3%9Fig%20Sep2008.jpg
+  Bethanienkirche von Osten.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bethanienkirche_von_Osten.JPG/400px-Bethanienkirche_von_Osten.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bethanienkirche_von_Osten.JPG/800px-Bethanienkirche_von_Osten.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bethanienkirche_von_Osten.JPG/1200px-Bethanienkirche_von_Osten.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bethanienkirche_von_Osten.JPG/1920px-Bethanienkirche_von_Osten.JPG
+  SchleußigBethanien.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SchleußigBethanien.JPG/400px-SchleußigBethanien.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SchleußigBethanien.JPG/800px-SchleußigBethanien.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SchleußigBethanien.JPG/1200px-SchleußigBethanien.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SchleußigBethanien.JPG/1920px-SchleußigBethanien.JPG
+  Bethanienkirche Leipzig Schleußig Sep2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/400px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/800px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/1200px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg/1920px-Bethanienkirche_Leipzig_Schleußig_Sep2008.jpg
+  Bethanienkirche-Leipzig-Sep-2008-hs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bethanienkirche-Leipzig-Sep-2008-hs.jpg/400px-Bethanienkirche-Leipzig-Sep-2008-hs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bethanienkirche-Leipzig-Sep-2008-hs.jpg/800px-Bethanienkirche-Leipzig-Sep-2008-hs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bethanienkirche-Leipzig-Sep-2008-hs.jpg/1200px-Bethanienkirche-Leipzig-Sep-2008-hs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bethanienkirche-Leipzig-Sep-2008-hs.jpg/1920px-Bethanienkirche-Leipzig-Sep-2008-hs.jpg
 ---
 
 ## Overview

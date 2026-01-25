@@ -13,7 +13,7 @@ regions:
 latitude: 49.78448
 longitude: 7.278
 images:
-  - "/images-sites/moerschieder-borr/01-d807ec76-800w.webp"
+  - "/images/moerschieder-borr/01-d807ec76-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 48.7772
 longitude: 9.18506
 images:
-  - "/images-sites/wuerttembergische-landesbibliothek/01-75cfbe94-800w.webp"
+  - "/images/wuerttembergische-landesbibliothek/01-75cfbe94-800w.webp"
 ---
 
 ## Overview

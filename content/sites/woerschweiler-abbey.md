@@ -13,9 +13,9 @@ regions:
 latitude: 49.28422
 longitude: 7.30737
 images:
-  - "/images-sites/woerschweiler-abbey/01-ceb3873e-800w.webp"
-  - "/images-sites/woerschweiler-abbey/02-00c58573-800w.webp"
-  - "/images-sites/woerschweiler-abbey/03-37705970-800w.webp"
+  - "/images/woerschweiler-abbey/01-ceb3873e-800w.webp"
+  - "/images/woerschweiler-abbey/02-00c58573-800w.webp"
+  - "/images/woerschweiler-abbey/03-37705970-800w.webp"
 ---
 
 ## Overview

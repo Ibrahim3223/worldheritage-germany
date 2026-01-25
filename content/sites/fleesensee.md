@@ -1,21 +1,50 @@
 ---
-title: "Fleesensee"
+title: Fleesensee
 date: 2026-01-23
 draft: false
-description: "lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Mecklenburgische Seenplatte District, Mecklenburg-Vorpommern,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.502222222
 longitude: 12.475277777
 images:
-  - "/images-sites/fleesensee/01-a10b28d3-800w.webp"
-  - "/images-sites/fleesensee/02-bc6ad404-800w.webp"
-  - "/images-sites/fleesensee/03-67742123-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hausboottour_(165)_Fleesensee_(20985584701).jpg/1200px-Hausboottour_(165)_Fleesensee_(20985584701).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hausboottour_(043)_Fleesensee_(20410598160).jpg/1200px-Hausboottour_(043)_Fleesensee_(20410598160).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fleesensee_mit_Feldern_im_Vordergrund.jpg/1200px-Fleesensee_mit_Feldern_im_Vordergrund.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Location_Fleesensee.PNG/1200px-Location_Fleesensee.PNG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fleesensee.JPG/1200px-Fleesensee.JPG
+image_srcset:
+  Hausboottour (165) Fleesensee (20985584701).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hausboottour_(165)_Fleesensee_(20985584701).jpg/400px-Hausboottour_(165)_Fleesensee_(20985584701).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hausboottour_(165)_Fleesensee_(20985584701).jpg/800px-Hausboottour_(165)_Fleesensee_(20985584701).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hausboottour_(165)_Fleesensee_(20985584701).jpg/1200px-Hausboottour_(165)_Fleesensee_(20985584701).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hausboottour_(165)_Fleesensee_(20985584701).jpg/1920px-Hausboottour_(165)_Fleesensee_(20985584701).jpg
+  Hausboottour (043) Fleesensee (20410598160).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hausboottour_(043)_Fleesensee_(20410598160).jpg/400px-Hausboottour_(043)_Fleesensee_(20410598160).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hausboottour_(043)_Fleesensee_(20410598160).jpg/800px-Hausboottour_(043)_Fleesensee_(20410598160).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hausboottour_(043)_Fleesensee_(20410598160).jpg/1200px-Hausboottour_(043)_Fleesensee_(20410598160).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hausboottour_(043)_Fleesensee_(20410598160).jpg/1920px-Hausboottour_(043)_Fleesensee_(20410598160).jpg
+  Fleesensee mit Feldern im Vordergrund.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fleesensee_mit_Feldern_im_Vordergrund.jpg/400px-Fleesensee_mit_Feldern_im_Vordergrund.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fleesensee_mit_Feldern_im_Vordergrund.jpg/800px-Fleesensee_mit_Feldern_im_Vordergrund.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fleesensee_mit_Feldern_im_Vordergrund.jpg/1200px-Fleesensee_mit_Feldern_im_Vordergrund.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fleesensee_mit_Feldern_im_Vordergrund.jpg/1920px-Fleesensee_mit_Feldern_im_Vordergrund.jpg
+  Location Fleesensee.PNG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Location_Fleesensee.PNG/400px-Location_Fleesensee.PNG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Location_Fleesensee.PNG/800px-Location_Fleesensee.PNG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Location_Fleesensee.PNG/1200px-Location_Fleesensee.PNG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Location_Fleesensee.PNG/1920px-Location_Fleesensee.PNG
+  Fleesensee.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fleesensee.JPG/400px-Fleesensee.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fleesensee.JPG/800px-Fleesensee.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fleesensee.JPG/1200px-Fleesensee.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fleesensee.JPG/1920px-Fleesensee.JPG
 ---
 
 ## Overview

@@ -1,21 +1,49 @@
 ---
-title: "Grafschaft Abbey"
+title: Grafschaft Abbey
 date: 2026-01-23
 draft: false
-description: "abbey"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: abbey
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 51.1444
 longitude: 8.3241
 images:
-  - "/images-sites/grafschaft-abbey/01-03e3981b-800w.webp"
-  - "/images-sites/grafschaft-abbey/02-c59b2755-800w.webp"
-  - "/images-sites/grafschaft-abbey/03-a621df17-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/1200px-Kloster_Grafschaft_2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Kloster_Grafschaft.jpg/1200px-Museum_Kloster_Grafschaft.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kloster_Grafschaft_(3)_2008.jpg/1200px-Kloster_Grafschaft_(3)_2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kloster_Grafschaft_Zugang_Friedhof.jpg/1200px-Kloster_Grafschaft_Zugang_Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_grafschaft.jpg/1200px-Kloster_grafschaft.jpg
+image_srcset:
+  Kloster Grafschaft 2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/400px-Kloster_Grafschaft_2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/800px-Kloster_Grafschaft_2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/1200px-Kloster_Grafschaft_2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kloster_Grafschaft_2011.jpg/1920px-Kloster_Grafschaft_2011.jpg
+  Museum Kloster Grafschaft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Kloster_Grafschaft.jpg/400px-Museum_Kloster_Grafschaft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Kloster_Grafschaft.jpg/800px-Museum_Kloster_Grafschaft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Kloster_Grafschaft.jpg/1200px-Museum_Kloster_Grafschaft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Museum_Kloster_Grafschaft.jpg/1920px-Museum_Kloster_Grafschaft.jpg
+  Kloster Grafschaft (3) 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kloster_Grafschaft_(3)_2008.jpg/400px-Kloster_Grafschaft_(3)_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kloster_Grafschaft_(3)_2008.jpg/800px-Kloster_Grafschaft_(3)_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kloster_Grafschaft_(3)_2008.jpg/1200px-Kloster_Grafschaft_(3)_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kloster_Grafschaft_(3)_2008.jpg/1920px-Kloster_Grafschaft_(3)_2008.jpg
+  Kloster Grafschaft Zugang Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kloster_Grafschaft_Zugang_Friedhof.jpg/400px-Kloster_Grafschaft_Zugang_Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kloster_Grafschaft_Zugang_Friedhof.jpg/800px-Kloster_Grafschaft_Zugang_Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kloster_Grafschaft_Zugang_Friedhof.jpg/1200px-Kloster_Grafschaft_Zugang_Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kloster_Grafschaft_Zugang_Friedhof.jpg/1920px-Kloster_Grafschaft_Zugang_Friedhof.jpg
+  Kloster grafschaft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_grafschaft.jpg/400px-Kloster_grafschaft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_grafschaft.jpg/800px-Kloster_grafschaft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_grafschaft.jpg/1200px-Kloster_grafschaft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kloster_grafschaft.jpg/1920px-Kloster_grafschaft.jpg
 ---
 
 ## Overview

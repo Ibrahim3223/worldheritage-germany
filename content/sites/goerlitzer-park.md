@@ -1,21 +1,49 @@
 ---
-title: "Görlitzer Park"
+title: Görlitzer Park
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.496419444
 longitude: 13.437797222
 images:
-  - "/images-sites/goerlitzer-park/01-c932ccb3-800w.webp"
-  - "/images-sites/goerlitzer-park/02-6a281fa6-800w.webp"
-  - "/images-sites/goerlitzer-park/03-d21bc40e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Görlitzer_Park,_Berlin.jpg/1200px-Görlitzer_Park,_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2021-02-12-Goerlitzer-Park.jpg/1200px-2021-02-12-Goerlitzer-Park.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg/1200px-Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg/1200px-Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg
+image_srcset:
+  Görlitzer Park, Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Görlitzer_Park,_Berlin.jpg/400px-Görlitzer_Park,_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Görlitzer_Park,_Berlin.jpg/800px-Görlitzer_Park,_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Görlitzer_Park,_Berlin.jpg/1200px-Görlitzer_Park,_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Görlitzer_Park,_Berlin.jpg/1920px-Görlitzer_Park,_Berlin.jpg
+  2021-02-12-Goerlitzer-Park.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2021-02-12-Goerlitzer-Park.jpg/400px-2021-02-12-Goerlitzer-Park.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2021-02-12-Goerlitzer-Park.jpg/800px-2021-02-12-Goerlitzer-Park.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2021-02-12-Goerlitzer-Park.jpg/1200px-2021-02-12-Goerlitzer-Park.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2021-02-12-Goerlitzer-Park.jpg/1920px-2021-02-12-Goerlitzer-Park.jpg
+  Berlin-kreuzberg goerlitzer-park 20050923 527.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/400px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/800px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/1200px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg/1920px-Berlin-kreuzberg_goerlitzer-park_20050923_527.jpg
+  Vogelperspektive - Görlitzer Park in Berlin-Kreuzberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg/400px-Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg/800px-Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg/1200px-Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg/1920px-Vogelperspektive_-_Görlitzer_Park_in_Berlin-Kreuzberg.jpg
+  Berlin, Görlitzer Park - panoramio - Uli Herrmann.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg/400px-Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg/800px-Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg/1200px-Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg/1920px-Berlin,_Görlitzer_Park_-_panoramio_-_Uli_Herrmann.jpg
 ---
 
 ## Overview

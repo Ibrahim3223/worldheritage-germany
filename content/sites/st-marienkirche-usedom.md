@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2316474"
 description: "St. Marienkirche, a remarkable church building located in Usedom, Germany, is a captivating example of Brick Gothic architecture. This structure stands ..."
 images:
-  - "/images-sites/st-marienkirche-usedom/01-3667f9a3-1920w.webp"
-  - "/images-sites/st-marienkirche-usedom/02-658c23c9-1920w.webp"
-  - "/images-sites/st-marienkirche-usedom/03-e70c0674-1920w.webp"
+  - "/images/st-marienkirche-usedom/01-3667f9a3-1920w.webp"
+  - "/images/st-marienkirche-usedom/02-658c23c9-1920w.webp"
+  - "/images/st-marienkirche-usedom/03-e70c0674-1920w.webp"
 ---
 
 ## Overview

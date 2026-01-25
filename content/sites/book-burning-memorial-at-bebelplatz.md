@@ -1,19 +1,49 @@
 ---
-title: "book burning memorial at Bebelplatz"
+title: book burning memorial at Bebelplatz
 date: 2026-01-23
 draft: false
-description: "memorial at the Bebelplatz in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: memorial at the Bebelplatz in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5165158
 longitude: 13.3939369
 images:
-  - "/images-sites/book-burning-memorial-at-bebelplatz/01-d1dc1ff8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg/1200px-Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/200806_Berlin_104.JPG/1200px-200806_Berlin_104.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bebelplatz_at_night.jpg/1200px-Bebelplatz_at_night.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/1200px-Denkmal_der_Buecherverbrennung.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bebelplatz_Night_of_Shame_Monument.jpg/1200px-Bebelplatz_Night_of_Shame_Monument.jpg
+image_srcset:
+  Memorial de los libros quemados en Bebelplatz, Berlín 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg/400px-Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg/800px-Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg/1200px-Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg/1920px-Memorial_de_los_libros_quemados_en_Bebelplatz,_Berlín_02.jpg
+  200806 Berlin 104.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/200806_Berlin_104.JPG/400px-200806_Berlin_104.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/200806_Berlin_104.JPG/800px-200806_Berlin_104.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/200806_Berlin_104.JPG/1200px-200806_Berlin_104.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/200806_Berlin_104.JPG/1920px-200806_Berlin_104.JPG
+  Bebelplatz at night.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bebelplatz_at_night.jpg/400px-Bebelplatz_at_night.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bebelplatz_at_night.jpg/800px-Bebelplatz_at_night.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bebelplatz_at_night.jpg/1200px-Bebelplatz_at_night.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bebelplatz_at_night.jpg/1920px-Bebelplatz_at_night.jpg
+  Denkmal der Buecherverbrennung.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/400px-Denkmal_der_Buecherverbrennung.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/800px-Denkmal_der_Buecherverbrennung.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/1200px-Denkmal_der_Buecherverbrennung.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denkmal_der_Buecherverbrennung.jpg/1920px-Denkmal_der_Buecherverbrennung.jpg
+  Bebelplatz Night of Shame Monument.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bebelplatz_Night_of_Shame_Monument.jpg/400px-Bebelplatz_Night_of_Shame_Monument.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bebelplatz_Night_of_Shame_Monument.jpg/800px-Bebelplatz_Night_of_Shame_Monument.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bebelplatz_Night_of_Shame_Monument.jpg/1200px-Bebelplatz_Night_of_Shame_Monument.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bebelplatz_Night_of_Shame_Monument.jpg/1920px-Bebelplatz_Night_of_Shame_Monument.jpg
 ---
 
 ## Overview

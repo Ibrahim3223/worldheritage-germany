@@ -13,7 +13,7 @@ regions:
 latitude: 50.8008
 longitude: 6.47944
 images:
-  - "/images-sites/papiermuseum-dueren/01-659c6f41-800w.webp"
+  - "/images/papiermuseum-dueren/01-659c6f41-800w.webp"
 ---
 
 ## Overview

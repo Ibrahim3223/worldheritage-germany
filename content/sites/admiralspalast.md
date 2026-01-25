@@ -1,21 +1,49 @@
 ---
-title: "Admiralspalast"
+title: Admiralspalast
 date: 2026-01-23
 draft: false
-description: "theatre and event venue in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: theatre and event venue in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5208
 longitude: 13.3886
 images:
-  - "/images-sites/admiralspalast/01-388fb6f1-800w.webp"
-  - "/images-sites/admiralspalast/02-9733e54a-800w.webp"
-  - "/images-sites/admiralspalast/03-cfb85602-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin_Admiralspalast_asv2023-10_img1.jpg/1200px-Berlin_Admiralspalast_asv2023-10_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Berlin_Admiralspalast_asv2023-10_img3.jpg/1200px-Berlin_Admiralspalast_asv2023-10_img3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/(20250217)_Berlin_06.jpg/1200px-(20250217)_Berlin_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin-Mitte,_the_Admiralspalast.JPG/1200px-Berlin-Mitte,_the_Admiralspalast.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg/1200px-Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg
+image_srcset:
+  Berlin Admiralspalast asv2023-10 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin_Admiralspalast_asv2023-10_img1.jpg/400px-Berlin_Admiralspalast_asv2023-10_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin_Admiralspalast_asv2023-10_img1.jpg/800px-Berlin_Admiralspalast_asv2023-10_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin_Admiralspalast_asv2023-10_img1.jpg/1200px-Berlin_Admiralspalast_asv2023-10_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Berlin_Admiralspalast_asv2023-10_img1.jpg/1920px-Berlin_Admiralspalast_asv2023-10_img1.jpg
+  Berlin Admiralspalast asv2023-10 img3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Berlin_Admiralspalast_asv2023-10_img3.jpg/400px-Berlin_Admiralspalast_asv2023-10_img3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Berlin_Admiralspalast_asv2023-10_img3.jpg/800px-Berlin_Admiralspalast_asv2023-10_img3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Berlin_Admiralspalast_asv2023-10_img3.jpg/1200px-Berlin_Admiralspalast_asv2023-10_img3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Berlin_Admiralspalast_asv2023-10_img3.jpg/1920px-Berlin_Admiralspalast_asv2023-10_img3.jpg
+  (20250217) Berlin 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/(20250217)_Berlin_06.jpg/400px-(20250217)_Berlin_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/(20250217)_Berlin_06.jpg/800px-(20250217)_Berlin_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/(20250217)_Berlin_06.jpg/1200px-(20250217)_Berlin_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/(20250217)_Berlin_06.jpg/1920px-(20250217)_Berlin_06.jpg
+  Berlin-Mitte, the Admiralspalast.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin-Mitte,_the_Admiralspalast.JPG/400px-Berlin-Mitte,_the_Admiralspalast.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin-Mitte,_the_Admiralspalast.JPG/800px-Berlin-Mitte,_the_Admiralspalast.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin-Mitte,_the_Admiralspalast.JPG/1200px-Berlin-Mitte,_the_Admiralspalast.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin-Mitte,_the_Admiralspalast.JPG/1920px-Berlin-Mitte,_the_Admiralspalast.JPG
+  Berlin, Mitte, Friedrichstrasse 101-102, Admiralspalast 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg/400px-Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg/800px-Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg/1200px-Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg/1920px-Berlin,_Mitte,_Friedrichstrasse_101-102,_Admiralspalast_01.jpg
 ---
 
 ## Overview

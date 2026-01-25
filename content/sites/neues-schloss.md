@@ -21,9 +21,9 @@ longitude: 9.27222222
 
 # Images
 images:
-  - "/images-sites/neues-schloss/01-8f094795-800w.webp"
-  - "/images-sites/neues-schloss/02-5ee58f14-800w.webp"
-  - "/images-sites/neues-schloss/03-4e33a5e9-800w.webp"
+  - "/images/neues-schloss/01-8f094795-800w.webp"
+  - "/images/neues-schloss/02-5ee58f14-800w.webp"
+  - "/images/neues-schloss/03-4e33a5e9-800w.webp"
 ---
 
 ## Overview

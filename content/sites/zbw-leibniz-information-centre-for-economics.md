@@ -21,9 +21,9 @@ longitude: 10.156111
 
 # Images
 images:
-  - "/images-sites/zbw-leibniz-information-centre-for-economics/01-e83d6718-800w.webp"
-  - "/images-sites/zbw-leibniz-information-centre-for-economics/02-b0fc08b8-800w.webp"
-  - "/images-sites/zbw-leibniz-information-centre-for-economics/03-f2d755c4-800w.webp"
+  - "/images/zbw-leibniz-information-centre-for-economics/01-e83d6718-800w.webp"
+  - "/images/zbw-leibniz-information-centre-for-economics/02-b0fc08b8-800w.webp"
+  - "/images/zbw-leibniz-information-centre-for-economics/03-f2d755c4-800w.webp"
 ---
 
 ## Overview

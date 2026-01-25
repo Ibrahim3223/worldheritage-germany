@@ -21,7 +21,7 @@ longitude: 9.95276
 
 # Images
 images:
-  - "/images-sites/karlsburg/01-b5f4b0c3-800w.webp"
+  - "/images/karlsburg/01-b5f4b0c3-800w.webp"
 ---
 
 ## Overview

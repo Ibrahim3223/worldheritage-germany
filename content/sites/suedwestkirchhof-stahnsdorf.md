@@ -13,7 +13,7 @@ regions:
 latitude: 52.3889
 longitude: 13.1806
 images:
-  - "/images-sites/suedwestkirchhof-stahnsdorf/01-19509786-800w.webp"
+  - "/images/suedwestkirchhof-stahnsdorf/01-19509786-800w.webp"
 ---
 
 ## Overview

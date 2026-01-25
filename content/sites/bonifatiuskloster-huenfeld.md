@@ -1,19 +1,31 @@
 ---
-title: "Bonifatiuskloster (Hünfeld)"
+title: Bonifatiuskloster (Hünfeld)
 date: 2026-01-23
 draft: false
-description: "Kloster der Oblatenmissionare im hessischen Hünfeld"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Kloster der Oblatenmissionare im hessischen Hünfeld
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6743
 longitude: 9.7691
 images:
-  - "/images-sites/bonifatiuskloster-huenfeld/01-4def99e8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BonifatiusklosterHuenfeld.jpg/1200px-BonifatiusklosterHuenfeld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bonifatiuskloster_Hünfeld_-_27.12.05.JPG/1200px-Bonifatiuskloster_Hünfeld_-_27.12.05.JPG
+image_srcset:
+  BonifatiusklosterHuenfeld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BonifatiusklosterHuenfeld.jpg/400px-BonifatiusklosterHuenfeld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BonifatiusklosterHuenfeld.jpg/800px-BonifatiusklosterHuenfeld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BonifatiusklosterHuenfeld.jpg/1200px-BonifatiusklosterHuenfeld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BonifatiusklosterHuenfeld.jpg/1920px-BonifatiusklosterHuenfeld.jpg
+  Bonifatiuskloster Hünfeld - 27.12.05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bonifatiuskloster_Hünfeld_-_27.12.05.JPG/400px-Bonifatiuskloster_Hünfeld_-_27.12.05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bonifatiuskloster_Hünfeld_-_27.12.05.JPG/800px-Bonifatiuskloster_Hünfeld_-_27.12.05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bonifatiuskloster_Hünfeld_-_27.12.05.JPG/1200px-Bonifatiuskloster_Hünfeld_-_27.12.05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bonifatiuskloster_Hünfeld_-_27.12.05.JPG/1920px-Bonifatiuskloster_Hünfeld_-_27.12.05.JPG
 ---
 
 ## Overview

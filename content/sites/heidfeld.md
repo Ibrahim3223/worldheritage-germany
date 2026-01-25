@@ -1,21 +1,49 @@
 ---
-title: "Heidfeld"
+title: Heidfeld
 date: 2026-01-23
 draft: false
-description: "nature reserve in Lower Saxony, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Lower Saxony, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3594
 longitude: 7.25
 images:
-  - "/images-sites/heidfeld/01-c501dad5-800w.webp"
-  - "/images-sites/heidfeld/02-75ef4345-800w.webp"
-  - "/images-sites/heidfeld/03-d790cf4b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nick_Heidfeld_2008.jpg/1200px-Nick_Heidfeld_2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg/1200px-Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick_Heidfeld_2008_(cropped).jpg/1200px-Nick_Heidfeld_2008_(cropped).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/1200px-Podium_2007_Canada.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nick_Heidfeld_2014_WEC_Fuji.jpg/1200px-Nick_Heidfeld_2014_WEC_Fuji.jpg
+image_srcset:
+  Nick Heidfeld 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nick_Heidfeld_2008.jpg/400px-Nick_Heidfeld_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nick_Heidfeld_2008.jpg/800px-Nick_Heidfeld_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nick_Heidfeld_2008.jpg/1200px-Nick_Heidfeld_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nick_Heidfeld_2008.jpg/1920px-Nick_Heidfeld_2008.jpg
+  Nick Heidfeld Goodwood Festival of Speed 2019 (48242681251).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg/400px-Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg/800px-Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg/1200px-Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg/1920px-Nick_Heidfeld_Goodwood_Festival_of_Speed_2019_(48242681251).jpg
+  Nick Heidfeld 2008 (cropped).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick_Heidfeld_2008_(cropped).jpg/400px-Nick_Heidfeld_2008_(cropped).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick_Heidfeld_2008_(cropped).jpg/800px-Nick_Heidfeld_2008_(cropped).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick_Heidfeld_2008_(cropped).jpg/1200px-Nick_Heidfeld_2008_(cropped).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nick_Heidfeld_2008_(cropped).jpg/1920px-Nick_Heidfeld_2008_(cropped).jpg
+  Podium 2007 Canada.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/400px-Podium_2007_Canada.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/800px-Podium_2007_Canada.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/1200px-Podium_2007_Canada.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Podium_2007_Canada.jpg/1920px-Podium_2007_Canada.jpg
+  Nick Heidfeld 2014 WEC Fuji.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nick_Heidfeld_2014_WEC_Fuji.jpg/400px-Nick_Heidfeld_2014_WEC_Fuji.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nick_Heidfeld_2014_WEC_Fuji.jpg/800px-Nick_Heidfeld_2014_WEC_Fuji.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nick_Heidfeld_2014_WEC_Fuji.jpg/1200px-Nick_Heidfeld_2014_WEC_Fuji.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nick_Heidfeld_2014_WEC_Fuji.jpg/1920px-Nick_Heidfeld_2014_WEC_Fuji.jpg
 ---
 
 ## Overview

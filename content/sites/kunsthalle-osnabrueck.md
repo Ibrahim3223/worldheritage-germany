@@ -13,7 +13,7 @@ regions:
 latitude: 52.2789
 longitude: 8.03956
 images:
-  - "/images-sites/kunsthalle-osnabrueck/01-55f9f709-800w.webp"
+  - "/images/kunsthalle-osnabrueck/01-55f9f709-800w.webp"
 ---
 
 ## Overview

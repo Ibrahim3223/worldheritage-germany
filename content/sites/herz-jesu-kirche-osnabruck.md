@@ -1,24 +1,27 @@
 ---
-title: "Herz-Jesu-KircheOsnabrück"
-site_name: "Herz-Jesu-KircheOsnabrück"
-slug: "herz-jesu-kirche-osnabruck"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Herz-Jesu-KircheOsnabrück
+site_name: Herz-Jesu-KircheOsnabrück
+slug: herz-jesu-kirche-osnabruck
+region: North Rhine-Westphalia
 latitude: 52.2765
 longitude: 8.04889
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1288033"
-description: "In the heart of Osnabrück, Germany, the Herz-Jesu-Kirche stands as a striking example of Gothic Revival architecture. This church, designed by the archi..."
+- church building
+- religious site
+wikidata_id: Q1288033
+description: In the heart of Osnabrück, Germany, the Herz-Jesu-Kirche stands as a
+  striking example of Gothic Revival architecture. This church, designed by the archi...
 images:
-  - "/images-sites/herz-jesu-kirche-osnabruck/01-73fb579f-1920w.webp"
-  - "/images-sites/herz-jesu-kirche-osnabruck/02-1a135ae5-1920w.webp"
-  - "/images-sites/herz-jesu-kirche-osnabruck/03-227aedf8-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg/1200px-Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg
+image_srcset:
+  Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg/400px-Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg/800px-Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg/1200px-Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg/1920px-Osnabr%C3%BCck%20Herz-Jesu-Kirche%20NW.jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Günter Grass House"
+title: Günter Grass House
 date: 2026-01-23
 draft: false
-description: "building in Lübeck devoted to Günter Grass"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building in Lübeck devoted to Günter Grass
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.8694
 longitude: 10.69
 images:
-  - "/images-sites/guenter-grass-house/01-3f9392aa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GünterGrassHausLübeck.jpg/1200px-GünterGrassHausLübeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ESML_Lübecker_Literaturtreffen_2013.jpg/1200px-ESML_Lübecker_Literaturtreffen_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ESML_Lübecker_Literaturtreffen_2013_2.jpg/1200px-ESML_Lübecker_Literaturtreffen_2013_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1200px-Guenter-Grass-Haus_Luebeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/GGH_Skulpturengarten_2016.jpg/1200px-GGH_Skulpturengarten_2016.jpg
+image_srcset:
+  GünterGrassHausLübeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GünterGrassHausLübeck.jpg/400px-GünterGrassHausLübeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GünterGrassHausLübeck.jpg/800px-GünterGrassHausLübeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GünterGrassHausLübeck.jpg/1200px-GünterGrassHausLübeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GünterGrassHausLübeck.jpg/1920px-GünterGrassHausLübeck.jpg
+  ESML Lübecker Literaturtreffen 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ESML_Lübecker_Literaturtreffen_2013.jpg/400px-ESML_Lübecker_Literaturtreffen_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ESML_Lübecker_Literaturtreffen_2013.jpg/800px-ESML_Lübecker_Literaturtreffen_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ESML_Lübecker_Literaturtreffen_2013.jpg/1200px-ESML_Lübecker_Literaturtreffen_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ESML_Lübecker_Literaturtreffen_2013.jpg/1920px-ESML_Lübecker_Literaturtreffen_2013.jpg
+  ESML Lübecker Literaturtreffen 2013 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ESML_Lübecker_Literaturtreffen_2013_2.jpg/400px-ESML_Lübecker_Literaturtreffen_2013_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ESML_Lübecker_Literaturtreffen_2013_2.jpg/800px-ESML_Lübecker_Literaturtreffen_2013_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ESML_Lübecker_Literaturtreffen_2013_2.jpg/1200px-ESML_Lübecker_Literaturtreffen_2013_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ESML_Lübecker_Literaturtreffen_2013_2.jpg/1920px-ESML_Lübecker_Literaturtreffen_2013_2.jpg
+  Guenter-Grass-Haus Luebeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/400px-Guenter-Grass-Haus_Luebeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/800px-Guenter-Grass-Haus_Luebeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1200px-Guenter-Grass-Haus_Luebeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Guenter-Grass-Haus_Luebeck.jpg/1920px-Guenter-Grass-Haus_Luebeck.jpg
+  GGH Skulpturengarten 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/GGH_Skulpturengarten_2016.jpg/400px-GGH_Skulpturengarten_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/GGH_Skulpturengarten_2016.jpg/800px-GGH_Skulpturengarten_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/GGH_Skulpturengarten_2016.jpg/1200px-GGH_Skulpturengarten_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/GGH_Skulpturengarten_2016.jpg/1920px-GGH_Skulpturengarten_2016.jpg
 ---
 
 ## Overview

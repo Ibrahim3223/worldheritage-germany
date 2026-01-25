@@ -1,19 +1,43 @@
 ---
-title: "Grundschule Parkschule Ehringsdorf"
+title: Grundschule Parkschule Ehringsdorf
 date: 2026-01-23
 draft: false
-description: "Schulgebäude im Weimarer Ortsteil Ehringsdorf"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: Schulgebäude im Weimarer Ortsteil Ehringsdorf
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 50.96022
 longitude: 11.34522
 images:
-  - "/images-sites/grundschule-parkschule-ehringsdorf/01-515bb9e9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grundschule_Parkschule_Ehringsdorf.jpg/1200px-Grundschule_Parkschule_Ehringsdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Grundschule_Parkschule_Ehringsdorf_1.jpg/1200px-Grundschule_Parkschule_Ehringsdorf_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grundschule_Parkschule_Ehringsdorf_2.jpg/1200px-Grundschule_Parkschule_Ehringsdorf_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grundschule_Parkschule_Ehringsdorf_3.jpg/1200px-Grundschule_Parkschule_Ehringsdorf_3.jpg
+image_srcset:
+  Grundschule Parkschule Ehringsdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grundschule_Parkschule_Ehringsdorf.jpg/400px-Grundschule_Parkschule_Ehringsdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grundschule_Parkschule_Ehringsdorf.jpg/800px-Grundschule_Parkschule_Ehringsdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grundschule_Parkschule_Ehringsdorf.jpg/1200px-Grundschule_Parkschule_Ehringsdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Grundschule_Parkschule_Ehringsdorf.jpg/1920px-Grundschule_Parkschule_Ehringsdorf.jpg
+  Grundschule Parkschule Ehringsdorf 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Grundschule_Parkschule_Ehringsdorf_1.jpg/400px-Grundschule_Parkschule_Ehringsdorf_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Grundschule_Parkschule_Ehringsdorf_1.jpg/800px-Grundschule_Parkschule_Ehringsdorf_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Grundschule_Parkschule_Ehringsdorf_1.jpg/1200px-Grundschule_Parkschule_Ehringsdorf_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Grundschule_Parkschule_Ehringsdorf_1.jpg/1920px-Grundschule_Parkschule_Ehringsdorf_1.jpg
+  Grundschule Parkschule Ehringsdorf 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grundschule_Parkschule_Ehringsdorf_2.jpg/400px-Grundschule_Parkschule_Ehringsdorf_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grundschule_Parkschule_Ehringsdorf_2.jpg/800px-Grundschule_Parkschule_Ehringsdorf_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grundschule_Parkschule_Ehringsdorf_2.jpg/1200px-Grundschule_Parkschule_Ehringsdorf_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grundschule_Parkschule_Ehringsdorf_2.jpg/1920px-Grundschule_Parkschule_Ehringsdorf_2.jpg
+  Grundschule Parkschule Ehringsdorf 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grundschule_Parkschule_Ehringsdorf_3.jpg/400px-Grundschule_Parkschule_Ehringsdorf_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grundschule_Parkschule_Ehringsdorf_3.jpg/800px-Grundschule_Parkschule_Ehringsdorf_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grundschule_Parkschule_Ehringsdorf_3.jpg/1200px-Grundschule_Parkschule_Ehringsdorf_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grundschule_Parkschule_Ehringsdorf_3.jpg/1920px-Grundschule_Parkschule_Ehringsdorf_3.jpg
 ---
 
 ## Overview

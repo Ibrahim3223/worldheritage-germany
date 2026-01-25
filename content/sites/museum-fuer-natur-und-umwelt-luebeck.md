@@ -13,9 +13,9 @@ regions:
 latitude: 53.860277777
 longitude: 10.685555555
 images:
-  - "/images-sites/museum-fuer-natur-und-umwelt-luebeck/01-bbaff82f-800w.webp"
-  - "/images-sites/museum-fuer-natur-und-umwelt-luebeck/02-1ccf4006-800w.webp"
-  - "/images-sites/museum-fuer-natur-und-umwelt-luebeck/03-92acf4b3-800w.webp"
+  - "/images/museum-fuer-natur-und-umwelt-luebeck/01-bbaff82f-800w.webp"
+  - "/images/museum-fuer-natur-und-umwelt-luebeck/02-1ccf4006-800w.webp"
+  - "/images/museum-fuer-natur-und-umwelt-luebeck/03-92acf4b3-800w.webp"
 ---
 
 ## Overview

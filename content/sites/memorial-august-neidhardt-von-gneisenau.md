@@ -13,7 +13,7 @@ regions:
 latitude: 52.516586513
 longitude: 13.395583557
 images:
-  - "/images-sites/memorial-august-neidhardt-von-gneisenau/01-9b41a038-800w.webp"
+  - "/images/memorial-august-neidhardt-von-gneisenau/01-9b41a038-800w.webp"
 ---
 
 ## Overview

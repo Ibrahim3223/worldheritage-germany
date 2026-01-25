@@ -13,7 +13,7 @@ regions:
 latitude: 50.9382513
 longitude: 6.9610303
 images:
-  - "/images-sites/schmitz-saeule/01-9e291bfd-800w.webp"
+  - "/images/schmitz-saeule/01-9e291bfd-800w.webp"
 ---
 
 ## Overview

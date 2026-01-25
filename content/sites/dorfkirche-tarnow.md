@@ -1,20 +1,51 @@
 ---
-title: "Dorfkirche Tarnow"
-site_name: "Dorfkirche Tarnow"
-slug: "dorfkirche-tarnow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Tarnow
+site_name: Dorfkirche Tarnow
+slug: dorfkirche-tarnow
+region: Mecklenburg-Vorpommern
 latitude: 53.7781
 longitude: 12.0178
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244752"
-description: "Dorfkirche Tarnow is a remarkable church building located in the heart of Tarnow, Germany. This structure is a fine example of Brick Gothic architecture..."
+- church building
+- religious site
+wikidata_id: Q1244752
+description: Dorfkirche Tarnow is a remarkable church building located in the heart
+  of Tarnow, Germany. This structure is a fine example of Brick Gothic architecture...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tarnow%2C%20Kirche.jpg/1200px-Tarnow%2C%20Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tarnow_Kirche_lub_2025-02-14_img01.jpg/1200px-Tarnow_Kirche_lub_2025-02-14_img01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tarnow_Kirche_lub_2025-02-14_img02.jpg/1200px-Tarnow_Kirche_lub_2025-02-14_img02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg/1200px-Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1200px-Tarnow,_Kirche.jpg
+image_srcset:
+  Tarnow%2C%20Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tarnow%2C%20Kirche.jpg/400px-Tarnow%2C%20Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tarnow%2C%20Kirche.jpg/800px-Tarnow%2C%20Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tarnow%2C%20Kirche.jpg/1200px-Tarnow%2C%20Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tarnow%2C%20Kirche.jpg/1920px-Tarnow%2C%20Kirche.jpg
+  Tarnow Kirche lub 2025-02-14 img01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tarnow_Kirche_lub_2025-02-14_img01.jpg/400px-Tarnow_Kirche_lub_2025-02-14_img01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tarnow_Kirche_lub_2025-02-14_img01.jpg/800px-Tarnow_Kirche_lub_2025-02-14_img01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tarnow_Kirche_lub_2025-02-14_img01.jpg/1200px-Tarnow_Kirche_lub_2025-02-14_img01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tarnow_Kirche_lub_2025-02-14_img01.jpg/1920px-Tarnow_Kirche_lub_2025-02-14_img01.jpg
+  Tarnow Kirche lub 2025-02-14 img02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tarnow_Kirche_lub_2025-02-14_img02.jpg/400px-Tarnow_Kirche_lub_2025-02-14_img02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tarnow_Kirche_lub_2025-02-14_img02.jpg/800px-Tarnow_Kirche_lub_2025-02-14_img02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tarnow_Kirche_lub_2025-02-14_img02.jpg/1200px-Tarnow_Kirche_lub_2025-02-14_img02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tarnow_Kirche_lub_2025-02-14_img02.jpg/1920px-Tarnow_Kirche_lub_2025-02-14_img02.jpg
+  Tarnow Kirche lub 2025-02-14 img03 Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg/400px-Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg/800px-Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg/1200px-Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg/1920px-Tarnow_Kirche_lub_2025-02-14_img03_Eingang.jpg
+  Tarnow, Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/400px-Tarnow,_Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/800px-Tarnow,_Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1200px-Tarnow,_Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tarnow,_Kirche.jpg/1920px-Tarnow,_Kirche.jpg
 ---
 
 ## Overview

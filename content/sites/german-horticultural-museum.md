@@ -1,19 +1,49 @@
 ---
-title: "German horticultural museum"
+title: German horticultural museum
 date: 2026-01-23
 draft: false
-description: "gardening museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: gardening museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9675
 longitude: 11.0075
 images:
-  - "/images-sites/german-horticultural-museum/01-4d3fa2fe-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg/1200px-Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg/1200px-Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Defensionskaserne_3.jpg/1200px-Defensionskaserne_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1200px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Defensionskaserne.jpg/1200px-Defensionskaserne.jpg
+image_srcset:
+  Zitadelle Cyriaksburg Erfurt 20200904 130.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg/400px-Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg/800px-Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg/1200px-Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg/1920px-Zitadelle_Cyriaksburg_Erfurt_20200904_130.jpg
+  Egapark Erfurt Gartenbaumuseum (2021b).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg/400px-Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg/800px-Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg/1200px-Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg/1920px-Egapark_Erfurt_Gartenbaumuseum_(2021b).jpg
+  Defensionskaserne 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Defensionskaserne_3.jpg/400px-Defensionskaserne_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Defensionskaserne_3.jpg/800px-Defensionskaserne_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Defensionskaserne_3.jpg/1200px-Defensionskaserne_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Defensionskaserne_3.jpg/1920px-Defensionskaserne_3.jpg
+  Waidmühle, Cyriaksburg, Erfurt, Deutschland.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/400px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/800px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1200px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg/1920px-Waidmühle,_Cyriaksburg,_Erfurt,_Deutschland.jpg
+  Defensionskaserne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Defensionskaserne.jpg/400px-Defensionskaserne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Defensionskaserne.jpg/800px-Defensionskaserne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Defensionskaserne.jpg/1200px-Defensionskaserne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Defensionskaserne.jpg/1920px-Defensionskaserne.jpg
 ---
 
 ## Overview

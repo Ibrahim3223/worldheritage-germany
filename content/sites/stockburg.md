@@ -21,7 +21,7 @@ longitude: 7.71714
 
 # Images
 images:
-  - "/images-sites/stockburg/01-8060c6bf-800w.webp"
+  - "/images/stockburg/01-8060c6bf-800w.webp"
 ---
 
 ## Overview

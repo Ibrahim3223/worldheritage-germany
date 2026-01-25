@@ -1,19 +1,49 @@
 ---
-title: "Johannisfriedhof"
+title: Johannisfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Jena, Stadtkreis Jena, Thüringen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Jena, Stadtkreis Jena, Thüringen, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.93119
 longitude: 11.5824
 images:
-  - "/images-sites/johannisfriedhof/01-6ebc7f97-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg/1200px-D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg/1200px-D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg/1200px-D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg/1200px-D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_Nürnberg.jpg/1200px-Johannisfriedhof_in_Nürnberg.jpg
+image_srcset:
+  D-5-64-000-922 Johannisstraße 57, Kalvarienberg Nürnberg 20241027 0091.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg/400px-D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg/800px-D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg/1200px-D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg/1920px-D-5-64-000-922_Johannisstraße_57,_Kalvarienberg_Nürnberg_20241027_0091.jpg
+  D-5-64-000-922 St. Johannisfriedhof, Friedhofskirche St. Johannis Nürnberg 20241020 0101.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg/400px-D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg/800px-D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg/1200px-D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg/1920px-D-5-64-000-922_St._Johannisfriedhof,_Friedhofskirche_St._Johannis_Nürnberg_20241020_0101.jpg
+  D-5-64-000-922 Johannisstraße 57, Johannisfriedhof von Osten Nürnberg 20241027 0076.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg/400px-D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg/800px-D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg/1200px-D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg/1920px-D-5-64-000-922_Johannisstraße_57,_Johannisfriedhof_von_Osten_Nürnberg_20241027_0076.jpg
+  D-5-64-000-922 St. Johannisfriedhof Nürnberg 20241020 0117.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg/400px-D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg/800px-D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg/1200px-D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg/1920px-D-5-64-000-922_St._Johannisfriedhof_Nürnberg_20241020_0117.jpg
+  Johannisfriedhof in Nürnberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_Nürnberg.jpg/400px-Johannisfriedhof_in_Nürnberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_Nürnberg.jpg/800px-Johannisfriedhof_in_Nürnberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_Nürnberg.jpg/1200px-Johannisfriedhof_in_Nürnberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Johannisfriedhof_in_Nürnberg.jpg/1920px-Johannisfriedhof_in_Nürnberg.jpg
 ---
 
 ## Overview

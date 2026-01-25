@@ -13,7 +13,7 @@ regions:
 latitude: 52.515332396
 longitude: 13.349165571
 images:
-  - "/images-sites/statue-of-albrecht-von-roon/01-5a8c9d61-800w.webp"
+  - "/images/statue-of-albrecht-von-roon/01-5a8c9d61-800w.webp"
 ---
 
 ## Overview

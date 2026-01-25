@@ -13,7 +13,7 @@ regions:
 latitude: 52.500278
 longitude: 13.5325
 images:
-  - "/images-sites/tierpark-berlin/01-2c7b4bec-800w.webp"
+  - "/images/tierpark-berlin/01-2c7b4bec-800w.webp"
 ---
 
 ## Overview

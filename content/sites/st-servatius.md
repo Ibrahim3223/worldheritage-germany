@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2323148"
 description: "St. Servatius is a striking example of Gothic Revival architecture located in Bornheim, Germany. This church, with its elegant brick facade and distinct..."
 images:
-  - "/images-sites/st-servatius/01-ca3769e7-1920w.webp"
-  - "/images-sites/st-servatius/02-35995d86-1920w.webp"
-  - "/images-sites/st-servatius/03-cdd50130-1920w.webp"
+  - "/images/st-servatius/01-ca3769e7-1920w.webp"
+  - "/images/st-servatius/02-35995d86-1920w.webp"
+  - "/images/st-servatius/03-cdd50130-1920w.webp"
 ---
 
 ## Overview

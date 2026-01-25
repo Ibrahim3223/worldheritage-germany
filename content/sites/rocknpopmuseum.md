@@ -13,7 +13,7 @@ regions:
 latitude: 52.21393
 longitude: 7.02585
 images:
-  - "/images-sites/rocknpopmuseum/01-0033bdb0-800w.webp"
+  - "/images/rocknpopmuseum/01-0033bdb0-800w.webp"
 ---
 
 ## Overview

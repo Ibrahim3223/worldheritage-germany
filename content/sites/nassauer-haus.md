@@ -13,7 +13,7 @@ regions:
 latitude: 49.4511
 longitude: 11.0777
 images:
-  - "/images-sites/nassauer-haus/01-541005a1-800w.webp"
+  - "/images/nassauer-haus/01-541005a1-800w.webp"
 ---
 
 ## Overview

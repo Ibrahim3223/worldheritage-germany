@@ -13,7 +13,7 @@ regions:
 latitude: 52.8222
 longitude: 13.7822
 images:
-  - "/images-sites/zoologischer-garten-eberswalde/01-6491aab3-800w.webp"
+  - "/images/zoologischer-garten-eberswalde/01-6491aab3-800w.webp"
 ---
 
 ## Overview

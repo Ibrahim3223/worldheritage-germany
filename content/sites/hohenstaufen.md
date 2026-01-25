@@ -1,19 +1,43 @@
 ---
-title: "Hohenstaufen"
+title: Hohenstaufen
 date: 2026-01-23
 draft: false
-description: "mountain in Göppingen District, Baden-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain in Göppingen District, Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7427848
 longitude: 9.7167663
 images:
-  - "/images-sites/hohenstaufen/01-61c40eb6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg/1200px-Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Relief_Staufer_GD.jpg/1200px-Relief_Staufer_GD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/1200px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Or_three_leopards_sable.svg/1200px-Or_three_leopards_sable.svg.png
+image_srcset:
+  Statue de Frédéric II de Hohenstaufen, façade du Palais Royal de Naples.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg/400px-Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg/800px-Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg/1200px-Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg/1920px-Statue_de_Frédéric_II_de_Hohenstaufen,_façade_du_Palais_Royal_de_Naples.jpg
+  Relief Staufer GD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Relief_Staufer_GD.jpg/400px-Relief_Staufer_GD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Relief_Staufer_GD.jpg/800px-Relief_Staufer_GD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Relief_Staufer_GD.jpg/1200px-Relief_Staufer_GD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Relief_Staufer_GD.jpg/1920px-Relief_Staufer_GD.jpg
+  Friedrich-barbarossa-und-soehne-welfenchronik 1-1000x1540.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/400px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/800px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/1200px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg/1920px-Friedrich-barbarossa-und-soehne-welfenchronik_1-1000x1540.jpg
+  Or three leopards sable.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Or_three_leopards_sable.svg/400px-Or_three_leopards_sable.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Or_three_leopards_sable.svg/800px-Or_three_leopards_sable.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Or_three_leopards_sable.svg/1200px-Or_three_leopards_sable.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Or_three_leopards_sable.svg/1920px-Or_three_leopards_sable.svg.png
 ---
 
 ## Overview

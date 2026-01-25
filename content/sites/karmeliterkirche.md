@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q3585896"
 description: "Located in the heart of Mainzs Altstadt, Karmeliterkirche is a striking example of Gothic architecture that beckons history enthusiasts and architecture..."
 images:
-  - "/images-sites/karmeliterkirche/01-ac18a70f-1920w.webp"
-  - "/images-sites/karmeliterkirche/02-2d0e33dd-1920w.webp"
-  - "/images-sites/karmeliterkirche/03-00f4d684-1920w.webp"
+  - "/images/karmeliterkirche/01-ac18a70f-1920w.webp"
+  - "/images/karmeliterkirche/02-2d0e33dd-1920w.webp"
+  - "/images/karmeliterkirche/03-00f4d684-1920w.webp"
 ---
 
 ## Overview

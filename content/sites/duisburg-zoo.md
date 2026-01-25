@@ -1,19 +1,49 @@
 ---
-title: "Duisburg Zoo"
+title: Duisburg Zoo
 date: 2026-01-24
 draft: false
-description: "zoo in Duisburg, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Duisburg, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 51.4353
 longitude: 6.80528
 images:
-  - "/images-sites/duisburg-zoo/01-c303734e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg/1200px-Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koala_in_Zoo_Duisburg.jpg/1200px-Koala_in_Zoo_Duisburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Siberian_Tiger_(30329536892).jpg/1200px-Siberian_Tiger_(30329536892).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfau_imponierend.jpg/1200px-Pfau_imponierend.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1200px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
+image_srcset:
+  Giraffa camelopardalis in Duisburg Zoo sticking out tongue.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg/400px-Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg/800px-Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg/1200px-Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg/1920px-Giraffa_camelopardalis_in_Duisburg_Zoo_sticking_out_tongue.jpg
+  Koala in Zoo Duisburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koala_in_Zoo_Duisburg.jpg/400px-Koala_in_Zoo_Duisburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koala_in_Zoo_Duisburg.jpg/800px-Koala_in_Zoo_Duisburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koala_in_Zoo_Duisburg.jpg/1200px-Koala_in_Zoo_Duisburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Koala_in_Zoo_Duisburg.jpg/1920px-Koala_in_Zoo_Duisburg.jpg
+  Siberian Tiger (30329536892).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Siberian_Tiger_(30329536892).jpg/400px-Siberian_Tiger_(30329536892).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Siberian_Tiger_(30329536892).jpg/800px-Siberian_Tiger_(30329536892).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Siberian_Tiger_(30329536892).jpg/1200px-Siberian_Tiger_(30329536892).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Siberian_Tiger_(30329536892).jpg/1920px-Siberian_Tiger_(30329536892).jpg
+  Pfau imponierend.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfau_imponierend.jpg/400px-Pfau_imponierend.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfau_imponierend.jpg/800px-Pfau_imponierend.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfau_imponierend.jpg/1200px-Pfau_imponierend.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfau_imponierend.jpg/1920px-Pfau_imponierend.jpg
+  Netzgiraffen - Reticulated giraffe - Giraffa camelopardalis reticulata.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/400px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/800px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1200px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg/1920px-Netzgiraffen_-_Reticulated_giraffe_-_Giraffa_camelopardalis_reticulata.jpg
 ---
 
 ## Overview

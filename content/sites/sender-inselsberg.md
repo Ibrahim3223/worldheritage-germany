@@ -13,7 +13,7 @@ regions:
 latitude: 50.8515
 longitude: 10.4654
 images:
-  - "/images-sites/sender-inselsberg/01-4643952f-800w.webp"
+  - "/images/sender-inselsberg/01-4643952f-800w.webp"
 ---
 
 ## Overview

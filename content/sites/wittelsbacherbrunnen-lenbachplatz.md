@@ -13,9 +13,9 @@ regions:
 latitude: 48.1411
 longitude: 11.5692
 images:
-  - "/images-sites/wittelsbacherbrunnen-lenbachplatz/01-b309fe3d-800w.webp"
-  - "/images-sites/wittelsbacherbrunnen-lenbachplatz/02-6704b519-800w.webp"
-  - "/images-sites/wittelsbacherbrunnen-lenbachplatz/03-3312712d-800w.webp"
+  - "/images/wittelsbacherbrunnen-lenbachplatz/01-b309fe3d-800w.webp"
+  - "/images/wittelsbacherbrunnen-lenbachplatz/02-6704b519-800w.webp"
+  - "/images/wittelsbacherbrunnen-lenbachplatz/03-3312712d-800w.webp"
 ---
 
 ## Overview

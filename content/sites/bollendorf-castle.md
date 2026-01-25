@@ -1,27 +1,49 @@
 ---
-title: "Bollendorf Castle"
+title: Bollendorf Castle
 date: 2026-01-23
 draft: false
-description: "castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.8494
 longitude: 6.36778
-
-# Images
 images:
-  - "/images-sites/bollendorf-castle/01-16d92cf2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Bollendorf_21.jpg/1200px-Burg_Bollendorf_21.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Bollendorf_12.jpg/1200px-Burg_Bollendorf_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Bollendorf_24.jpg/1200px-Burg_Bollendorf_24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bollendorf_burg.jpg/1200px-Bollendorf_burg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BurgBollendorfW.jpg/1200px-BurgBollendorfW.jpg
+image_srcset:
+  Burg Bollendorf 21.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Bollendorf_21.jpg/400px-Burg_Bollendorf_21.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Bollendorf_21.jpg/800px-Burg_Bollendorf_21.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Bollendorf_21.jpg/1200px-Burg_Bollendorf_21.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burg_Bollendorf_21.jpg/1920px-Burg_Bollendorf_21.jpg
+  Burg Bollendorf 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Bollendorf_12.jpg/400px-Burg_Bollendorf_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Bollendorf_12.jpg/800px-Burg_Bollendorf_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Bollendorf_12.jpg/1200px-Burg_Bollendorf_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Burg_Bollendorf_12.jpg/1920px-Burg_Bollendorf_12.jpg
+  Burg Bollendorf 24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Bollendorf_24.jpg/400px-Burg_Bollendorf_24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Bollendorf_24.jpg/800px-Burg_Bollendorf_24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Bollendorf_24.jpg/1200px-Burg_Bollendorf_24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Burg_Bollendorf_24.jpg/1920px-Burg_Bollendorf_24.jpg
+  Bollendorf burg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bollendorf_burg.jpg/400px-Bollendorf_burg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bollendorf_burg.jpg/800px-Bollendorf_burg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bollendorf_burg.jpg/1200px-Bollendorf_burg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bollendorf_burg.jpg/1920px-Bollendorf_burg.jpg
+  BurgBollendorfW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BurgBollendorfW.jpg/400px-BurgBollendorfW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BurgBollendorfW.jpg/800px-BurgBollendorfW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BurgBollendorfW.jpg/1200px-BurgBollendorfW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BurgBollendorfW.jpg/1920px-BurgBollendorfW.jpg
 ---
 
 ## Overview

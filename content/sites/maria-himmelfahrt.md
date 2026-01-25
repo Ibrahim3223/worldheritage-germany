@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1899696"
 description: "In the heart of Talheim, a small village within the Stuttgart Government Region of Baden-Württemberg, stands the Mariä Himmelfahrt church. This architec..."
 images:
-  - "/images-sites/maria-himmelfahrt/01-e6f62852-1920w.webp"
-  - "/images-sites/maria-himmelfahrt/02-f23c3222-1920w.webp"
-  - "/images-sites/maria-himmelfahrt/03-da848890-1920w.webp"
+  - "/images/maria-himmelfahrt/01-e6f62852-1920w.webp"
+  - "/images/maria-himmelfahrt/02-f23c3222-1920w.webp"
+  - "/images/maria-himmelfahrt/03-da848890-1920w.webp"
 ---
 
 ## Overview

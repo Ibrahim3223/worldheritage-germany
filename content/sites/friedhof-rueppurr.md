@@ -1,19 +1,49 @@
 ---
-title: "Friedhof Rüppurr"
+title: Friedhof Rüppurr
 date: 2026-01-23
 draft: false
-description: "cemetery in Rüppurr, Karlsruhe Government Region, Bade-Württemberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Rüppurr, Karlsruhe Government Region, Bade-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 48.97075
 longitude: 8.4005
 images:
-  - "/images-sites/friedhof-rueppurr/01-73127dd3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cemetery_Karlsruhe_Rüppurr_1.jpg/1200px-Cemetery_Karlsruhe_Rüppurr_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cemetery_Karlsruhe_Rüppurr_2.jpg/1200px-Cemetery_Karlsruhe_Rüppurr_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evangelische_Auferstehungskirche_-_Westseite.jpg/1200px-Evangelische_Auferstehungskirche_-_Westseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grab_von_Juliane_Plambeck.jpg/1200px-Grab_von_Juliane_Plambeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Groh_Werner.jpg/1200px-Groh_Werner.jpg
+image_srcset:
+  Cemetery Karlsruhe Rüppurr 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cemetery_Karlsruhe_Rüppurr_1.jpg/400px-Cemetery_Karlsruhe_Rüppurr_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cemetery_Karlsruhe_Rüppurr_1.jpg/800px-Cemetery_Karlsruhe_Rüppurr_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cemetery_Karlsruhe_Rüppurr_1.jpg/1200px-Cemetery_Karlsruhe_Rüppurr_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cemetery_Karlsruhe_Rüppurr_1.jpg/1920px-Cemetery_Karlsruhe_Rüppurr_1.jpg
+  Cemetery Karlsruhe Rüppurr 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cemetery_Karlsruhe_Rüppurr_2.jpg/400px-Cemetery_Karlsruhe_Rüppurr_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cemetery_Karlsruhe_Rüppurr_2.jpg/800px-Cemetery_Karlsruhe_Rüppurr_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cemetery_Karlsruhe_Rüppurr_2.jpg/1200px-Cemetery_Karlsruhe_Rüppurr_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cemetery_Karlsruhe_Rüppurr_2.jpg/1920px-Cemetery_Karlsruhe_Rüppurr_2.jpg
+  Evangelische Auferstehungskirche - Westseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evangelische_Auferstehungskirche_-_Westseite.jpg/400px-Evangelische_Auferstehungskirche_-_Westseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evangelische_Auferstehungskirche_-_Westseite.jpg/800px-Evangelische_Auferstehungskirche_-_Westseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evangelische_Auferstehungskirche_-_Westseite.jpg/1200px-Evangelische_Auferstehungskirche_-_Westseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evangelische_Auferstehungskirche_-_Westseite.jpg/1920px-Evangelische_Auferstehungskirche_-_Westseite.jpg
+  Grab von Juliane Plambeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grab_von_Juliane_Plambeck.jpg/400px-Grab_von_Juliane_Plambeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grab_von_Juliane_Plambeck.jpg/800px-Grab_von_Juliane_Plambeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grab_von_Juliane_Plambeck.jpg/1200px-Grab_von_Juliane_Plambeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grab_von_Juliane_Plambeck.jpg/1920px-Grab_von_Juliane_Plambeck.jpg
+  Groh Werner.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Groh_Werner.jpg/400px-Groh_Werner.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Groh_Werner.jpg/800px-Groh_Werner.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Groh_Werner.jpg/1200px-Groh_Werner.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Groh_Werner.jpg/1920px-Groh_Werner.jpg
 ---
 
 ## Overview

@@ -1,29 +1,49 @@
 ---
-title: "Japanese-German Center Berlin"
+title: Japanese-German Center Berlin
 date: 2026-01-23
 draft: false
-description: "science foundation in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: science foundation in Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.4505
 longitude: 13.2717
-
-# Images
 images:
-  - "/images-sites/japanese-german-center-berlin/01-42d82104-800w.webp"
-  - "/images-sites/japanese-german-center-berlin/02-04ac41ec-800w.webp"
-  - "/images-sites/japanese-german-center-berlin/03-c80d2341-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg/1200px-Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg/1200px-Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg/1200px-Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sanukitophon_003.jpg/1200px-Sanukitophon_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg/1200px-Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg
+image_srcset:
+  Japanisch-Deutsches Zentrum Berlin Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg/400px-Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg/800px-Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg/1200px-Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg/1920px-Japanisch-Deutsches_Zentrum_Berlin_Eingang.jpg
+  Japanisch-Deutsches Zentrum Berlin Origami.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg/400px-Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg/800px-Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg/1200px-Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg/1920px-Japanisch-Deutsches_Zentrum_Berlin_Origami.jpg
+  Japanisch-Deutsches Zentrum Berlin Zugang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg/400px-Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg/800px-Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg/1200px-Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg/1920px-Japanisch-Deutsches_Zentrum_Berlin_Zugang.jpg
+  Sanukitophon 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sanukitophon_003.jpg/400px-Sanukitophon_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sanukitophon_003.jpg/800px-Sanukitophon_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sanukitophon_003.jpg/1200px-Sanukitophon_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sanukitophon_003.jpg/1920px-Sanukitophon_003.jpg
+  Gedenktafel Saargemünder Str 2 (Dahlem) Japanisch Deutsches Zentrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg/400px-Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg/800px-Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg/1200px-Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg/1920px-Gedenktafel_Saargemünder_Str_2_(Dahlem)_Japanisch_Deutsches_Zentrum.jpg
 ---
 
 ## Overview

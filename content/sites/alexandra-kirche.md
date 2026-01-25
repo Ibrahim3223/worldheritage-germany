@@ -1,24 +1,39 @@
 ---
-title: "Alexandra-Kirche"
-site_name: "Alexandra-Kirche"
-slug: "alexandra-kirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Alexandra-Kirche
+site_name: Alexandra-Kirche
+slug: alexandra-kirche
+region: North Rhine-Westphalia
 latitude: 50.33025
 longitude: 7.7221055555556
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q3586108"
-description: "The Alexandra-Kirche, a striking example of Byzantine architecture, stands proudly in the heart of Bad Ems, a charming town in Rhineland-Palatinate, Ger..."
+- church building
+- religious site
+wikidata_id: Q3586108
+description: The Alexandra-Kirche, a striking example of Byzantine architecture, stands
+  proudly in the heart of Bad Ems, a charming town in Rhineland-Palatinate, Ger...
 images:
-  - "/images-sites/alexandra-kirche/01-d6e96d62-1920w.webp"
-  - "/images-sites/alexandra-kirche/02-c36ec12c-1920w.webp"
-  - "/images-sites/alexandra-kirche/03-3e5d69fe-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg/1200px-00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg/1200px-00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg/1200px-Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg
+image_srcset:
+  00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg/400px-00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg/800px-00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg/1200px-00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg/1920px-00%201231%20Bad%20Ems%20-%20St.%20Alexandra%20Kirche%20und%20Schloss%20Balmoral.jpg
+  00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg/400px-00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg/800px-00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg/1200px-00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg/1920px-00%206034%20St.%20Alexandra-Kirche%20-%20Bad%20Ems.jpg
+  Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg/400px-Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg/800px-Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg/1200px-Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg/1920px-Bad%20Ems%20-%20Kerk%20van%20de%20Hl.%20Alexandra.jpg
 ---
 
 ## Overview

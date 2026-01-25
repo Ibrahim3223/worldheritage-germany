@@ -1,19 +1,50 @@
 ---
-title: "Barmbek station"
+title: Barmbek station
 date: 2026-01-23
 draft: false
-description: "railway station in Barmbek-Nord, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Barmbek-Nord, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 53.586944
 longitude: 10.044722
 images:
-  - "/images-sites/barmbek-station/01-1197ca54-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Massaquoi-Passage.jpg/1200px-Massaquoi-Passage.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg/1200px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg/1200px-Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg/1200px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barmbek_railway_station.jpg/1200px-Barmbek_railway_station.jpg
+image_srcset:
+  Massaquoi-Passage.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Massaquoi-Passage.jpg/400px-Massaquoi-Passage.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Massaquoi-Passage.jpg/800px-Massaquoi-Passage.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Massaquoi-Passage.jpg/1200px-Massaquoi-Passage.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Massaquoi-Passage.jpg/1920px-Massaquoi-Passage.jpg
+  Barmbek-Nord, Hamburg, Germany - panoramio (58).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg/400px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg/800px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg/1200px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg/1920px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(58).jpg
+  ? Betriebslokomotive auf dem Kreisverkehr Fuhlsbütteler Straße Ecke Wiesendamm am
+    Bahnhof Barmbek in Hamburg-Barmbek-Nord.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg/400px-Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg/800px-Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg/1200px-Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg/1920px-Betriebslokomotive_auf_dem_Kreisverkehr_Fuhlsbütteler_Straße_Ecke_Wiesendamm_am_Bahnhof_Barmbek_in_Hamburg-Barmbek-Nord.jpg
+  Barmbek-Nord, Hamburg, Germany - panoramio (46).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg/400px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg/800px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg/1200px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg/1920px-Barmbek-Nord,_Hamburg,_Germany_-_panoramio_(46).jpg
+  Barmbek railway station.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barmbek_railway_station.jpg/400px-Barmbek_railway_station.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barmbek_railway_station.jpg/800px-Barmbek_railway_station.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barmbek_railway_station.jpg/1200px-Barmbek_railway_station.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Barmbek_railway_station.jpg/1920px-Barmbek_railway_station.jpg
 ---
 
 ## Overview

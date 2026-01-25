@@ -13,7 +13,7 @@ regions:
 latitude: 49.6336
 longitude: 8.36634
 images:
-  - "/images-sites/worms-synagogue/01-3c28ac4d-800w.webp"
+  - "/images/worms-synagogue/01-3c28ac4d-800w.webp"
 ---
 
 ## Overview

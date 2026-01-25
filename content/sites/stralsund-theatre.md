@@ -13,7 +13,7 @@ regions:
 latitude: 54.3175
 longitude: 13.088333333
 images:
-  - "/images-sites/stralsund-theatre/01-ae03de0a-800w.webp"
+  - "/images/stralsund-theatre/01-ae03de0a-800w.webp"
 ---
 
 ## Overview

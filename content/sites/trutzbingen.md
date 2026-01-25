@@ -13,7 +13,7 @@ regions:
 latitude: 49.9539
 longitude: 7.89406
 images:
-  - "/images-sites/trutzbingen/01-317907e8-800w.webp"
+  - "/images/trutzbingen/01-317907e8-800w.webp"
 ---
 
 ## Overview

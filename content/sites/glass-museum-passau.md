@@ -1,19 +1,49 @@
 ---
-title: "Glass Museum, Passau"
+title: Glass Museum, Passau
 date: 2026-01-23
 draft: false
-description: "Glass museum in Passau, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: Glass museum in Passau, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 48.5753
 longitude: 13.4686
 images:
-  - "/images-sites/glass-museum-passau/01-15bf97fa-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glass_Museum_(Pa),_Collections_(52209832854).jpg/1200px-Glass_Museum_(Pa),_Collections_(52209832854).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Passau_Glasmuseum_-_Buquoy.jpg/1200px-Passau_Glasmuseum_-_Buquoy.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Passau_Glass_Museum_top_floor.jpg/1200px-Passau_Glass_Museum_top_floor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schrottgasse_Passau.jpg/1200px-Schrottgasse_Passau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1200px-Glasmuseum_Passau.JPG
+image_srcset:
+  Glass Museum (Pa), Collections (52209832854).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glass_Museum_(Pa),_Collections_(52209832854).jpg/400px-Glass_Museum_(Pa),_Collections_(52209832854).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glass_Museum_(Pa),_Collections_(52209832854).jpg/800px-Glass_Museum_(Pa),_Collections_(52209832854).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glass_Museum_(Pa),_Collections_(52209832854).jpg/1200px-Glass_Museum_(Pa),_Collections_(52209832854).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glass_Museum_(Pa),_Collections_(52209832854).jpg/1920px-Glass_Museum_(Pa),_Collections_(52209832854).jpg
+  Passau Glasmuseum - Buquoy.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Passau_Glasmuseum_-_Buquoy.jpg/400px-Passau_Glasmuseum_-_Buquoy.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Passau_Glasmuseum_-_Buquoy.jpg/800px-Passau_Glasmuseum_-_Buquoy.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Passau_Glasmuseum_-_Buquoy.jpg/1200px-Passau_Glasmuseum_-_Buquoy.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Passau_Glasmuseum_-_Buquoy.jpg/1920px-Passau_Glasmuseum_-_Buquoy.jpg
+  Passau Glass Museum top floor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Passau_Glass_Museum_top_floor.jpg/400px-Passau_Glass_Museum_top_floor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Passau_Glass_Museum_top_floor.jpg/800px-Passau_Glass_Museum_top_floor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Passau_Glass_Museum_top_floor.jpg/1200px-Passau_Glass_Museum_top_floor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Passau_Glass_Museum_top_floor.jpg/1920px-Passau_Glass_Museum_top_floor.jpg
+  Schrottgasse Passau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schrottgasse_Passau.jpg/400px-Schrottgasse_Passau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schrottgasse_Passau.jpg/800px-Schrottgasse_Passau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schrottgasse_Passau.jpg/1200px-Schrottgasse_Passau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Schrottgasse_Passau.jpg/1920px-Schrottgasse_Passau.jpg
+  Glasmuseum Passau.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/400px-Glasmuseum_Passau.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/800px-Glasmuseum_Passau.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1200px-Glasmuseum_Passau.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Glasmuseum_Passau.JPG/1920px-Glasmuseum_Passau.JPG
 ---
 
 ## Overview

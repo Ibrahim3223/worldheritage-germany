@@ -13,7 +13,7 @@ regions:
 latitude: 53.61611111
 longitude: 9.94972222
 images:
-  - "/images-sites/old-niendorf-cemetery/01-8e5276b6-800w.webp"
+  - "/images/old-niendorf-cemetery/01-8e5276b6-800w.webp"
 ---
 
 ## Overview

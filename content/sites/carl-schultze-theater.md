@@ -1,20 +1,31 @@
 ---
-title: "Carl-Schultze-Theater"
+title: Carl-Schultze-Theater
 date: 2026-01-24
 draft: false
-description: "former theatre in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: former theatre in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 53.54969
 longitude: 9.9592
 images:
-  - "/images-sites/carl-schultze-theater/01-f4807695-800w.webp"
-  - "/images-sites/carl-schultze-theater/02-c6e71026-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg/1200px-Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lotte_Mende_(Allers).jpg/1200px-Lotte_Mende_(Allers).jpg
+image_srcset:
+  Der Micado Carl-Schultze-Theater Gastspiel in Mannheim Plakat.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg/400px-Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg/800px-Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg/1200px-Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg/1920px-Der_Micado_Carl-Schultze-Theater_Gastspiel_in_Mannheim_Plakat.jpg
+  Lotte Mende (Allers).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lotte_Mende_(Allers).jpg/400px-Lotte_Mende_(Allers).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lotte_Mende_(Allers).jpg/800px-Lotte_Mende_(Allers).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lotte_Mende_(Allers).jpg/1200px-Lotte_Mende_(Allers).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lotte_Mende_(Allers).jpg/1920px-Lotte_Mende_(Allers).jpg
 ---
 
 ## Overview

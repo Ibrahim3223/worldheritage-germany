@@ -13,7 +13,7 @@ regions:
 latitude: 50.7269
 longitude: 7.13445
 images:
-  - "/images-sites/metropolitankathedrale-hagia-trias-bonn-limperich/01-73659798-800w.webp"
+  - "/images/metropolitankathedrale-hagia-trias-bonn-limperich/01-73659798-800w.webp"
 ---
 
 ## Overview

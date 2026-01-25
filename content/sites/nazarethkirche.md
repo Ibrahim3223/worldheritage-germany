@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1646641"
 description: "Nazarethkirche, a striking example of Romanesque Revival architecture, rises prominently in the Südstadt-Bult region of Hannover, Germany. This church b..."
 images:
-  - "/images-sites/nazarethkirche/01-056fcc9b-1920w.webp"
-  - "/images-sites/nazarethkirche/02-aaeca989-1920w.webp"
-  - "/images-sites/nazarethkirche/03-4323481f-1920w.webp"
+  - "/images/nazarethkirche/01-056fcc9b-1920w.webp"
+  - "/images/nazarethkirche/02-aaeca989-1920w.webp"
+  - "/images/nazarethkirche/03-4323481f-1920w.webp"
 ---
 
 ## Overview

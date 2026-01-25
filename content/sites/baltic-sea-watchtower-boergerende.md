@@ -1,19 +1,49 @@
 ---
-title: "Baltic Sea watchtower, Börgerende"
+title: Baltic Sea watchtower, Börgerende
 date: 2026-01-24
 draft: false
-description: "in the village of Börgerende, Mecklenburg-Western Pomerania"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: in the village of Börgerende, Mecklenburg-Western Pomerania
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 54.1501
 longitude: 11.8854
 images:
-  - "/images-sites/baltic-sea-watchtower-boergerende/01-5f7c98dc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Grenzturm_Boergerende_Aug_2020.jpg/1200px-Grenzturm_Boergerende_Aug_2020.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG/1200px-Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG/1200px-Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostseegrenzturm_in_Börgerende_2.jpg/1200px-Ostseegrenzturm_in_Börgerende_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Beobachtungsturm_BT11_Börgerende.jpg/1200px-Beobachtungsturm_BT11_Börgerende.jpg
+image_srcset:
+  Grenzturm Boergerende Aug 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Grenzturm_Boergerende_Aug_2020.jpg/400px-Grenzturm_Boergerende_Aug_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Grenzturm_Boergerende_Aug_2020.jpg/800px-Grenzturm_Boergerende_Aug_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Grenzturm_Boergerende_Aug_2020.jpg/1200px-Grenzturm_Boergerende_Aug_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Grenzturm_Boergerende_Aug_2020.jpg/1920px-Grenzturm_Boergerende_Aug_2020.jpg
+  Börgerende See-Grenzbeobachtungsturm BT 11 2014-09-15 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG/400px-Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG/800px-Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG/1200px-Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG/1920px-Börgerende_See-Grenzbeobachtungsturm_BT_11_2014-09-15_2.JPG
+  Börgerende See-Grenzbeobachtungsturm 2013-07-22.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG/400px-Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG/800px-Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG/1200px-Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG/1920px-Börgerende_See-Grenzbeobachtungsturm_2013-07-22.JPG
+  Ostseegrenzturm in Börgerende 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostseegrenzturm_in_Börgerende_2.jpg/400px-Ostseegrenzturm_in_Börgerende_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostseegrenzturm_in_Börgerende_2.jpg/800px-Ostseegrenzturm_in_Börgerende_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostseegrenzturm_in_Börgerende_2.jpg/1200px-Ostseegrenzturm_in_Börgerende_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ostseegrenzturm_in_Börgerende_2.jpg/1920px-Ostseegrenzturm_in_Börgerende_2.jpg
+  Beobachtungsturm BT11 Börgerende.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Beobachtungsturm_BT11_Börgerende.jpg/400px-Beobachtungsturm_BT11_Börgerende.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Beobachtungsturm_BT11_Börgerende.jpg/800px-Beobachtungsturm_BT11_Börgerende.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Beobachtungsturm_BT11_Börgerende.jpg/1200px-Beobachtungsturm_BT11_Börgerende.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Beobachtungsturm_BT11_Börgerende.jpg/1920px-Beobachtungsturm_BT11_Börgerende.jpg
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Bergkapelle"
-site_name: "Bergkapelle"
-slug: "bergkapelle"
-region: "Saarland"
-
-# Location
+title: Bergkapelle
+site_name: Bergkapelle
+slug: bergkapelle
+region: Saarland
 latitude: 49.3647
 longitude: 7.03667
 regions:
-    - "Saarland"
-heritage_type: "cultural site"
+- Saarland
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q819873"
-description: "In the tranquil region of Illingen, Germany, the Bergkapelle stands as a remarkable example of Gothic Revival architecture. This church building, design..."
+- cultural site
+wikidata_id: Q819873
+description: In the tranquil region of Illingen, Germany, the Bergkapelle stands as
+  a remarkable example of Gothic Revival architecture. This church building, design...
 images:
-  - "/images-sites/bergkapelle/01-68e233c4-1920w.webp"
-  - "/images-sites/bergkapelle/02-386c7206-1920w.webp"
-  - "/images-sites/bergkapelle/03-3898a3db-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/1200px-IllingenBergkapelleSeite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg/1200px-Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VF_Vertreibung_aus_dem_Paradies.jpg/1200px-VF_Vertreibung_aus_dem_Paradies.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/VF_Vögel_des_Himmels.jpg/1200px-VF_Vögel_des_Himmels.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bergkapelle_Jungfrau_der_Armen_-_2023.jpg/1200px-Bergkapelle_Jungfrau_der_Armen_-_2023.jpg
+image_srcset:
+  IllingenBergkapelleSeite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/400px-IllingenBergkapelleSeite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/800px-IllingenBergkapelleSeite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/1200px-IllingenBergkapelleSeite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IllingenBergkapelleSeite.jpg/1920px-IllingenBergkapelleSeite.jpg
+  Gekreuzigtentorso an der Bergkapelle Jungfrau der Armen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg/400px-Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg/800px-Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg/1200px-Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg/1920px-Gekreuzigtentorso_an_der_Bergkapelle_Jungfrau_der_Armen.jpg
+  VF Vertreibung aus dem Paradies.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VF_Vertreibung_aus_dem_Paradies.jpg/400px-VF_Vertreibung_aus_dem_Paradies.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VF_Vertreibung_aus_dem_Paradies.jpg/800px-VF_Vertreibung_aus_dem_Paradies.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VF_Vertreibung_aus_dem_Paradies.jpg/1200px-VF_Vertreibung_aus_dem_Paradies.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VF_Vertreibung_aus_dem_Paradies.jpg/1920px-VF_Vertreibung_aus_dem_Paradies.jpg
+  VF Vögel des Himmels.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/VF_Vögel_des_Himmels.jpg/400px-VF_Vögel_des_Himmels.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/VF_Vögel_des_Himmels.jpg/800px-VF_Vögel_des_Himmels.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/VF_Vögel_des_Himmels.jpg/1200px-VF_Vögel_des_Himmels.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/VF_Vögel_des_Himmels.jpg/1920px-VF_Vögel_des_Himmels.jpg
+  Bergkapelle Jungfrau der Armen - 2023.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bergkapelle_Jungfrau_der_Armen_-_2023.jpg/400px-Bergkapelle_Jungfrau_der_Armen_-_2023.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bergkapelle_Jungfrau_der_Armen_-_2023.jpg/800px-Bergkapelle_Jungfrau_der_Armen_-_2023.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bergkapelle_Jungfrau_der_Armen_-_2023.jpg/1200px-Bergkapelle_Jungfrau_der_Armen_-_2023.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bergkapelle_Jungfrau_der_Armen_-_2023.jpg/1920px-Bergkapelle_Jungfrau_der_Armen_-_2023.jpg
 ---
 
 ## Overview

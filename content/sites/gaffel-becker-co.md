@@ -1,29 +1,43 @@
 ---
-title: "Gaffel Becker & Co"
+title: Gaffel Becker & Co
 date: 2026-01-23
 draft: false
-description: "brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.946388888
 longitude: 6.956388888
-
-# Images
 images:
-  - "/images-sites/gaffel-becker-co/01-a730e46f-800w.webp"
-  - "/images-sites/gaffel-becker-co/02-f959dfae-800w.webp"
-  - "/images-sites/gaffel-becker-co/03-5e001615-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg/1200px-Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg/1200px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Privatbrauerei_Gaffel_Becker_&_Co_logo.svg/1200px-Privatbrauerei_Gaffel_Becker_&_Co_logo.svg.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg/1200px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg
+image_srcset:
+  Gaffel Koelsch und 1396 Premium Lager-high.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg/400px-Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg/800px-Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg/1200px-Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg/1920px-Gaffel_Koelsch_und_1396_Premium_Lager-high.jpg
+  Privatbrauerei Gaffel - Gaffel Kölsch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg/400px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg/800px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg/1200px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg/1920px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch.jpg
+  Privatbrauerei Gaffel Becker & Co logo.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Privatbrauerei_Gaffel_Becker_&_Co_logo.svg/400px-Privatbrauerei_Gaffel_Becker_&_Co_logo.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Privatbrauerei_Gaffel_Becker_&_Co_logo.svg/800px-Privatbrauerei_Gaffel_Becker_&_Co_logo.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Privatbrauerei_Gaffel_Becker_&_Co_logo.svg/1200px-Privatbrauerei_Gaffel_Becker_&_Co_logo.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Privatbrauerei_Gaffel_Becker_&_Co_logo.svg/1920px-Privatbrauerei_Gaffel_Becker_&_Co_logo.svg.png
+  Privatbrauerei Gaffel - Gaffel Kölsch 2020.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg/400px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg/800px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg/1200px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg/1920px-Privatbrauerei_Gaffel_-_Gaffel_Kölsch_2020.jpg
 ---
 
 ## Overview

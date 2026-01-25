@@ -1,20 +1,51 @@
 ---
-title: "Garnisonkirche"
-site_name: "Garnisonkirche"
-slug: "garnisonkirche"
-region: "Lower Saxony"
-
-# Location
+title: Garnisonkirche
+site_name: Garnisonkirche
+slug: garnisonkirche
+region: Lower Saxony
 latitude: 52.3723
 longitude: 9.72383
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1494389"
-description: "In the heart of Hannover, Germany, the Garnisonkirche stands as a striking example of Romanesque Revival architecture. This former church building is no..."
+- church building
+- religious site
+wikidata_id: Q1494389
+description: In the heart of Hannover, Germany, the Garnisonkirche stands as a striking
+  example of Romanesque Revival architecture. This former church building is no...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg/1200px-Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg/1200px-Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg/1200px-Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg/1200px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg/1200px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg
+image_srcset:
+  Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg/400px-Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg/800px-Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg/1200px-Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg/1920px-Karl%20F.%20Wunder%20PC%200354%20Hannover%2C%20Garnisonkirche.%20Ansichtsseite.jpg
+  Erinnerungsraum neben der Garnisonkirche in Potsdam 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg/400px-Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg/800px-Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg/1200px-Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg/1920px-Erinnerungsraum_neben_der_Garnisonkirche_in_Potsdam_01.jpg
+  Nachgebildete Wetterfahne der Potsdamer Garnisonkirche 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg/400px-Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg/800px-Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg/1200px-Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg/1920px-Nachgebildete_Wetterfahne_der_Potsdamer_Garnisonkirche_01.jpg
+  Garnisonkirche Potsdam Grundsteinlegung 2005 (06).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg/400px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg/800px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg/1200px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg/1920px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(06).jpg
+  Garnisonkirche Potsdam Grundsteinlegung 2005 (14).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg/400px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg/800px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg/1200px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg/1920px-Garnisonkirche_Potsdam_Grundsteinlegung_2005_(14).jpg
 ---
 
 ## Overview

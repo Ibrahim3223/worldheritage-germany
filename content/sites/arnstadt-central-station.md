@@ -1,19 +1,49 @@
 ---
-title: "Arnstadt central station"
+title: Arnstadt central station
 date: 2026-01-23
 draft: false
-description: "railway station in Thuringia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8417
 longitude: 10.9483
 images:
-  - "/images-sites/arnstadt-central-station/01-0f56d625-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20051001.BW-Arnstadt-BR_91_6580.jpg/1200px-20051001.BW-Arnstadt-BR_91_6580.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20051001.BW-Arnstadt-Schneepflug_(2).jpg/1200px-20051001.BW-Arnstadt-Schneepflug_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ArnstadtHbfvomBahnhofsvorplatz.JPG/1200px-ArnstadtHbfvomBahnhofsvorplatz.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Central_railway_station_Arnstadt.JPG/1200px-Central_railway_station_Arnstadt.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1200px-Bf_Arnstadt.JPG
+image_srcset:
+  20051001.BW-Arnstadt-BR 91 6580.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20051001.BW-Arnstadt-BR_91_6580.jpg/400px-20051001.BW-Arnstadt-BR_91_6580.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20051001.BW-Arnstadt-BR_91_6580.jpg/800px-20051001.BW-Arnstadt-BR_91_6580.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20051001.BW-Arnstadt-BR_91_6580.jpg/1200px-20051001.BW-Arnstadt-BR_91_6580.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/20051001.BW-Arnstadt-BR_91_6580.jpg/1920px-20051001.BW-Arnstadt-BR_91_6580.jpg
+  20051001.BW-Arnstadt-Schneepflug (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20051001.BW-Arnstadt-Schneepflug_(2).jpg/400px-20051001.BW-Arnstadt-Schneepflug_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20051001.BW-Arnstadt-Schneepflug_(2).jpg/800px-20051001.BW-Arnstadt-Schneepflug_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20051001.BW-Arnstadt-Schneepflug_(2).jpg/1200px-20051001.BW-Arnstadt-Schneepflug_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20051001.BW-Arnstadt-Schneepflug_(2).jpg/1920px-20051001.BW-Arnstadt-Schneepflug_(2).jpg
+  ArnstadtHbfvomBahnhofsvorplatz.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ArnstadtHbfvomBahnhofsvorplatz.JPG/400px-ArnstadtHbfvomBahnhofsvorplatz.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ArnstadtHbfvomBahnhofsvorplatz.JPG/800px-ArnstadtHbfvomBahnhofsvorplatz.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ArnstadtHbfvomBahnhofsvorplatz.JPG/1200px-ArnstadtHbfvomBahnhofsvorplatz.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ArnstadtHbfvomBahnhofsvorplatz.JPG/1920px-ArnstadtHbfvomBahnhofsvorplatz.JPG
+  Central railway station Arnstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Central_railway_station_Arnstadt.JPG/400px-Central_railway_station_Arnstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Central_railway_station_Arnstadt.JPG/800px-Central_railway_station_Arnstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Central_railway_station_Arnstadt.JPG/1200px-Central_railway_station_Arnstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Central_railway_station_Arnstadt.JPG/1920px-Central_railway_station_Arnstadt.JPG
+  Bf Arnstadt.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/400px-Bf_Arnstadt.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/800px-Bf_Arnstadt.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1200px-Bf_Arnstadt.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bf_Arnstadt.JPG/1920px-Bf_Arnstadt.JPG
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 51.2673
 longitude: 7.19315
 images:
-  - "/images-sites/opernhaus-wuppertal/01-cdb992b0-800w.webp"
+  - "/images/opernhaus-wuppertal/01-cdb992b0-800w.webp"
 ---
 
 ## Overview

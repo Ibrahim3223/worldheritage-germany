@@ -13,8 +13,8 @@ regions:
 latitude: 53.5319
 longitude: 8.10694
 images:
-  - "/images-sites/sibetsburg/02-7eb0a6c5-800w.webp"
-  - "/images-sites/sibetsburg/03-6dd5fcca-800w.webp"
+  - "/images/sibetsburg/02-7eb0a6c5-800w.webp"
+  - "/images/sibetsburg/03-6dd5fcca-800w.webp"
 ---
 
 ## Overview

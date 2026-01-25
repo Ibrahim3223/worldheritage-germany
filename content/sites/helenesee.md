@@ -1,19 +1,49 @@
 ---
-title: "Helenesee"
+title: Helenesee
 date: 2026-01-23
 draft: false
-description: "lake in Brandenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Brandenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 52.271111111
 longitude: 14.4875
 images:
-  - "/images-sites/helenesee/01-925c5225-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Helenesee_2024_001.jpg/1200px-Helenesee_2024_001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Helenesee_2014_005.JPG/1200px-Helenesee_2014_005.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helenesee_2024_002.jpg/1200px-Helenesee_2024_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/1200px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg/1200px-Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg
+image_srcset:
+  Helenesee 2024 001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Helenesee_2024_001.jpg/400px-Helenesee_2024_001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Helenesee_2024_001.jpg/800px-Helenesee_2024_001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Helenesee_2024_001.jpg/1200px-Helenesee_2024_001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Helenesee_2024_001.jpg/1920px-Helenesee_2024_001.jpg
+  Helenesee 2014 005.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Helenesee_2014_005.JPG/400px-Helenesee_2014_005.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Helenesee_2014_005.JPG/800px-Helenesee_2014_005.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Helenesee_2014_005.JPG/1200px-Helenesee_2014_005.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Helenesee_2014_005.JPG/1920px-Helenesee_2014_005.JPG
+  Helenesee 2024 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helenesee_2024_002.jpg/400px-Helenesee_2024_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helenesee_2024_002.jpg/800px-Helenesee_2024_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helenesee_2024_002.jpg/1200px-Helenesee_2024_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helenesee_2024_002.jpg/1920px-Helenesee_2024_002.jpg
+  20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/400px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/800px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/1200px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg/1920px-20-04-23-Fotoflug-Ostbrandenburg-RalfR-DSCF6661.jpg
+  Frankfurt (Oder) - Helenesee - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg/400px-Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg/800px-Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg/1200px-Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg/1920px-Frankfurt_(Oder)_-_Helenesee_-_panoramio.jpg
 ---
 
 ## Overview

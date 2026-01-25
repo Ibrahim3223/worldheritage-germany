@@ -13,7 +13,7 @@ regions:
 latitude: 47.6908
 longitude: 11.1608
 images:
-  - "/images-sites/staffelsee/01-05b6698d-800w.webp"
+  - "/images/staffelsee/01-05b6698d-800w.webp"
 ---
 
 ## Overview

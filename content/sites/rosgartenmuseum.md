@@ -13,9 +13,9 @@ regions:
 latitude: 47.6599
 longitude: 9.17479
 images:
-  - "/images-sites/rosgartenmuseum/01-3c00ac94-800w.webp"
-  - "/images-sites/rosgartenmuseum/02-5d21cb7d-800w.webp"
-  - "/images-sites/rosgartenmuseum/03-c60c8420-800w.webp"
+  - "/images/rosgartenmuseum/01-3c00ac94-800w.webp"
+  - "/images/rosgartenmuseum/02-5d21cb7d-800w.webp"
+  - "/images/rosgartenmuseum/03-c60c8420-800w.webp"
 ---
 
 ## Overview

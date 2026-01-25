@@ -1,20 +1,49 @@
 ---
-title: "Bergwerk Ensdorf"
+title: Bergwerk Ensdorf
 date: 2026-01-23
 draft: false
-description: "mine in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mine"
+description: mine in Germany
+region: Germany
+country: Germany
+heritage_type: Mine
 categories:
-  - "Mine"
+- Mine
 regions:
-  - "Germany"
+- Germany
 latitude: 49.31916667
 longitude: 6.77666667
 images:
-  - "/images-sites/bergwerk-ensdorf/01-a61d87e5-800w.webp"
-  - "/images-sites/bergwerk-ensdorf/02-1dd0709e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bergehalde_Ensdorf.JPG/1200px-Bergehalde_Ensdorf.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schachtanlage_Duhamel_5.jpg/1200px-Schachtanlage_Duhamel_5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schachtanlage_Duhamel_3.jpg/1200px-Schachtanlage_Duhamel_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schachtanlage_Duhamel_4.jpg/1200px-Schachtanlage_Duhamel_4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nordschacht_Horst_Bauer_fotocommunity.jpg/1200px-Nordschacht_Horst_Bauer_fotocommunity.jpg
+image_srcset:
+  Bergehalde Ensdorf.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bergehalde_Ensdorf.JPG/400px-Bergehalde_Ensdorf.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bergehalde_Ensdorf.JPG/800px-Bergehalde_Ensdorf.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bergehalde_Ensdorf.JPG/1200px-Bergehalde_Ensdorf.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bergehalde_Ensdorf.JPG/1920px-Bergehalde_Ensdorf.JPG
+  Schachtanlage Duhamel 5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schachtanlage_Duhamel_5.jpg/400px-Schachtanlage_Duhamel_5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schachtanlage_Duhamel_5.jpg/800px-Schachtanlage_Duhamel_5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schachtanlage_Duhamel_5.jpg/1200px-Schachtanlage_Duhamel_5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Schachtanlage_Duhamel_5.jpg/1920px-Schachtanlage_Duhamel_5.jpg
+  Schachtanlage Duhamel 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schachtanlage_Duhamel_3.jpg/400px-Schachtanlage_Duhamel_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schachtanlage_Duhamel_3.jpg/800px-Schachtanlage_Duhamel_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schachtanlage_Duhamel_3.jpg/1200px-Schachtanlage_Duhamel_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schachtanlage_Duhamel_3.jpg/1920px-Schachtanlage_Duhamel_3.jpg
+  Schachtanlage Duhamel 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schachtanlage_Duhamel_4.jpg/400px-Schachtanlage_Duhamel_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schachtanlage_Duhamel_4.jpg/800px-Schachtanlage_Duhamel_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schachtanlage_Duhamel_4.jpg/1200px-Schachtanlage_Duhamel_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schachtanlage_Duhamel_4.jpg/1920px-Schachtanlage_Duhamel_4.jpg
+  Nordschacht Horst Bauer fotocommunity.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nordschacht_Horst_Bauer_fotocommunity.jpg/400px-Nordschacht_Horst_Bauer_fotocommunity.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nordschacht_Horst_Bauer_fotocommunity.jpg/800px-Nordschacht_Horst_Bauer_fotocommunity.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nordschacht_Horst_Bauer_fotocommunity.jpg/1200px-Nordschacht_Horst_Bauer_fotocommunity.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nordschacht_Horst_Bauer_fotocommunity.jpg/1920px-Nordschacht_Horst_Bauer_fotocommunity.jpg
 ---
 
 ## Overview

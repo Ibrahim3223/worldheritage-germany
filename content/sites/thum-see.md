@@ -13,7 +13,7 @@ regions:
 latitude: 47.719166666
 longitude: 12.825555555
 images:
-  - "/images-sites/thum-see/01-5fefed6e-800w.webp"
+  - "/images/thum-see/01-5fefed6e-800w.webp"
 ---
 
 ## Overview

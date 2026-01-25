@@ -1,19 +1,50 @@
 ---
-title: "Court Library Aschaffenburg"
+title: Court Library Aschaffenburg
 date: 2026-01-23
 draft: false
-description: "library in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Library"
+description: library in Germany
+region: Germany
+country: Germany
+heritage_type: Library
 categories:
-  - "Library"
+- Library
 regions:
-  - "Germany"
+- Germany
 latitude: 49.9761
 longitude: 9.14111
 images:
-  - "/images-sites/court-library-aschaffenburg/01-8ca68601-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/PokalHeiltum1500.jpg/1200px-PokalHeiltum1500.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hallesches_Heiltum_5618.JPG/1200px-Hallesches_Heiltum_5618.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hallesches_Heiltum_5673.JPG/1200px-Hallesches_Heiltum_5673.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1200px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg/1200px-Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg
+image_srcset:
+  PokalHeiltum1500.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/PokalHeiltum1500.jpg/400px-PokalHeiltum1500.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/PokalHeiltum1500.jpg/800px-PokalHeiltum1500.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/PokalHeiltum1500.jpg/1200px-PokalHeiltum1500.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/PokalHeiltum1500.jpg/1920px-PokalHeiltum1500.jpg
+  Hallesches Heiltum 5618.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hallesches_Heiltum_5618.JPG/400px-Hallesches_Heiltum_5618.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hallesches_Heiltum_5618.JPG/800px-Hallesches_Heiltum_5618.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hallesches_Heiltum_5618.JPG/1200px-Hallesches_Heiltum_5618.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hallesches_Heiltum_5618.JPG/1920px-Hallesches_Heiltum_5618.JPG
+  Hallesches Heiltum 5673.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hallesches_Heiltum_5673.JPG/400px-Hallesches_Heiltum_5673.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hallesches_Heiltum_5673.JPG/800px-Hallesches_Heiltum_5673.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hallesches_Heiltum_5673.JPG/1200px-Hallesches_Heiltum_5673.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hallesches_Heiltum_5673.JPG/1920px-Hallesches_Heiltum_5673.JPG
+  Aschaffenburg-Schloss-Johannisburg Panorama Innenhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/400px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/800px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1200px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg/1920px-Aschaffenburg-Schloss-Johannisburg_Panorama_Innenhof.jpg
+  ? Missale Hallense of Albrecht of Brandenburg (1524) - Aschaffenburg Hofbibliothek
+    Ms10 f193v (Corpus Christi Procession).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg/400px-Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg/800px-Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg/1200px-Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg/1920px-Missale_Hallense_of_Albrecht_of_Brandenburg_(1524)_-_Aschaffenburg_Hofbibliothek_Ms10_f193v_(Corpus_Christi_Procession).jpg
 ---
 
 ## Overview

@@ -1,19 +1,49 @@
 ---
-title: "Ehrenfriedhof für Gefallene der Roten Armee"
+title: Ehrenfriedhof für Gefallene der Roten Armee
 date: 2026-01-23
 draft: false
-description: "cemetery in Bernau bei Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Bernau bei Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.6801
 longitude: 13.5849
 images:
-  - "/images-sites/ehrenfriedhof-fuer-gefallene-der-roten-armee/01-c42f46bc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg
+image_srcset:
+  Sowjetischer Ehrenfriedhof in Lindenberg (Ahrensfelde) – Denkmal 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg/400px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg/800px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg/1920px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Denkmal_01.jpg
+  Sowjetischer Ehrenfriedhof in Lindenberg (Ahrensfelde) – Eingang, Detail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg/400px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg/800px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg/1920px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang,_Detail.jpg
+  Sowjetischer Ehrenfriedhof in Lindenberg (Ahrensfelde) – Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg/400px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg/800px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg/1920px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Eingang.jpg
+  Sowjetischer Ehrenfriedhof in Lindenberg (Ahrensfelde) – Grabstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg/400px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg/800px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg/1920px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_Grabstein.jpg
+  Sowjetischer Ehrenfriedhof in Lindenberg (Ahrensfelde) – mehrere Grabsteine.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg/400px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg/800px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg/1200px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg/1920px-Sowjetischer_Ehrenfriedhof_in_Lindenberg_(Ahrensfelde)_–_mehrere_Grabsteine.jpg
 ---
 
 ## Overview

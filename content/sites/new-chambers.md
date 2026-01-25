@@ -13,9 +13,9 @@ regions:
 latitude: 52.4036
 longitude: 13.0356
 images:
-  - "/images-sites/new-chambers/01-9f4b8c2b-800w.webp"
-  - "/images-sites/new-chambers/02-1b089e5d-800w.webp"
-  - "/images-sites/new-chambers/03-edac3a95-800w.webp"
+  - "/images/new-chambers/01-9f4b8c2b-800w.webp"
+  - "/images/new-chambers/02-1b089e5d-800w.webp"
+  - "/images/new-chambers/03-edac3a95-800w.webp"
 ---
 
 ## Overview

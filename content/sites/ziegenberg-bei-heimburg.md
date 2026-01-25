@@ -13,7 +13,7 @@ regions:
 latitude: 51.82883333
 longitude: 10.88866667
 images:
-  - "/images-sites/ziegenberg-bei-heimburg/01-7458915d-800w.webp"
+  - "/images/ziegenberg-bei-heimburg/01-7458915d-800w.webp"
 ---
 
 ## Overview

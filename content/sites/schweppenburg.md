@@ -13,7 +13,7 @@ regions:
 latitude: 50.4672
 longitude: 7.30833
 images:
-  - "/images-sites/schweppenburg/01-b03ef3c3-800w.webp"
+  - "/images/schweppenburg/01-b03ef3c3-800w.webp"
 ---
 
 ## Overview

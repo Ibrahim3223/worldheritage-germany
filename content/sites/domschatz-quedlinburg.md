@@ -1,19 +1,49 @@
 ---
-title: "Domschatz Quedlinburg"
+title: Domschatz Quedlinburg
 date: 2026-01-23
 draft: false
-description: "building in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: building in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.78575
 longitude: 11.137
 images:
-  - "/images-sites/domschatz-quedlinburg/01-66897973-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg/1200px-Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg/1200px-Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg/1200px-Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quedlinburger_Wappenkasten_von_1209.jpg/1200px-Quedlinburger_Wappenkasten_von_1209.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1200px-Heinrichskamm_Domschatz_Quedlinburg.jpg
+image_srcset:
+  Interior of Collegiate Church of Quedlinburg 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg/400px-Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg/800px-Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg/1200px-Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg/1920px-Interior_of_Collegiate_Church_of_Quedlinburg_02.jpg
+  Quedlinburger Wappenkasten von 1209, Vorderansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg/400px-Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg/800px-Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg/1200px-Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg/1920px-Quedlinburger_Wappenkasten_von_1209,_Vorderansicht.jpg
+  Interior of Collegiate Church of Quedlinburg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg/400px-Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg/800px-Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg/1200px-Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg/1920px-Interior_of_Collegiate_Church_of_Quedlinburg_03.jpg
+  Quedlinburger Wappenkasten von 1209.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quedlinburger_Wappenkasten_von_1209.jpg/400px-Quedlinburger_Wappenkasten_von_1209.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quedlinburger_Wappenkasten_von_1209.jpg/800px-Quedlinburger_Wappenkasten_von_1209.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quedlinburger_Wappenkasten_von_1209.jpg/1200px-Quedlinburger_Wappenkasten_von_1209.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Quedlinburger_Wappenkasten_von_1209.jpg/1920px-Quedlinburger_Wappenkasten_von_1209.jpg
+  Heinrichskamm Domschatz Quedlinburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/400px-Heinrichskamm_Domschatz_Quedlinburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/800px-Heinrichskamm_Domschatz_Quedlinburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1200px-Heinrichskamm_Domschatz_Quedlinburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heinrichskamm_Domschatz_Quedlinburg.jpg/1920px-Heinrichskamm_Domschatz_Quedlinburg.jpg
 ---
 
 ## Overview

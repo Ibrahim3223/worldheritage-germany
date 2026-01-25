@@ -1,21 +1,49 @@
 ---
-title: "Aasee"
+title: Aasee
 date: 2026-01-23
 draft: false
-description: "lake in Bocholt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Bocholt, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 51.8297
 longitude: 6.63556
 images:
-  - "/images-sites/aasee/01-e62ccc62-800w.webp"
-  - "/images-sites/aasee/02-e7a3620b-800w.webp"
-  - "/images-sites/aasee/03-36f9ab76-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg/1200px-Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg/1200px-Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Münster,_Aasee,_Treppe_--_2021_--_9794.jpg/1200px-Münster,_Aasee,_Treppe_--_2021_--_9794.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Münster,_Torminbrücke_--_2015_--_7447.jpg/1200px-Münster,_Torminbrücke_--_2015_--_7447.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Münster,_Aasee_--_2015_--_7485.jpg/1200px-Münster,_Aasee_--_2015_--_7485.jpg
+image_srcset:
+  Münster, Aasee, Restaurants -- 2019 -- 3464-8.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg/400px-Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg/800px-Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg/1200px-Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg/1920px-Münster,_Aasee,_Restaurants_--_2019_--_3464-8.jpg
+  Münster, Aasee-Rondell, Gedenkplatte "Theodor Kiefer" -- 2023 -- 6512.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg/400px-Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg/800px-Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg/1200px-Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg/1920px-Münster,_Aasee-Rondell,_Gedenkplatte_"Theodor_Kiefer"_--_2023_--_6512.jpg
+  Münster, Aasee, Treppe -- 2021 -- 9794.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Münster,_Aasee,_Treppe_--_2021_--_9794.jpg/400px-Münster,_Aasee,_Treppe_--_2021_--_9794.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Münster,_Aasee,_Treppe_--_2021_--_9794.jpg/800px-Münster,_Aasee,_Treppe_--_2021_--_9794.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Münster,_Aasee,_Treppe_--_2021_--_9794.jpg/1200px-Münster,_Aasee,_Treppe_--_2021_--_9794.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Münster,_Aasee,_Treppe_--_2021_--_9794.jpg/1920px-Münster,_Aasee,_Treppe_--_2021_--_9794.jpg
+  Münster, Torminbrücke -- 2015 -- 7447.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Münster,_Torminbrücke_--_2015_--_7447.jpg/400px-Münster,_Torminbrücke_--_2015_--_7447.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Münster,_Torminbrücke_--_2015_--_7447.jpg/800px-Münster,_Torminbrücke_--_2015_--_7447.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Münster,_Torminbrücke_--_2015_--_7447.jpg/1200px-Münster,_Torminbrücke_--_2015_--_7447.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Münster,_Torminbrücke_--_2015_--_7447.jpg/1920px-Münster,_Torminbrücke_--_2015_--_7447.jpg
+  Münster, Aasee -- 2015 -- 7485.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Münster,_Aasee_--_2015_--_7485.jpg/400px-Münster,_Aasee_--_2015_--_7485.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Münster,_Aasee_--_2015_--_7485.jpg/800px-Münster,_Aasee_--_2015_--_7485.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Münster,_Aasee_--_2015_--_7485.jpg/1200px-Münster,_Aasee_--_2015_--_7485.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Münster,_Aasee_--_2015_--_7485.jpg/1920px-Münster,_Aasee_--_2015_--_7485.jpg
 ---
 
 ## Overview

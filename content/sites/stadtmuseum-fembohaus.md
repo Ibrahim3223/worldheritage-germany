@@ -13,7 +13,7 @@ regions:
 latitude: 49.456549168
 longitude: 11.077170977
 images:
-  - "/images-sites/stadtmuseum-fembohaus/01-8890a687-800w.webp"
+  - "/images/stadtmuseum-fembohaus/01-8890a687-800w.webp"
 ---
 
 ## Overview

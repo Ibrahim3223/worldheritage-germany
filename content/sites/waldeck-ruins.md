@@ -21,9 +21,9 @@ longitude: 8.7375
 
 # Images
 images:
-  - "/images-sites/waldeck-ruins/01-fa9166c5-800w.webp"
-  - "/images-sites/waldeck-ruins/02-21029559-800w.webp"
-  - "/images-sites/waldeck-ruins/03-36d87e6a-800w.webp"
+  - "/images/waldeck-ruins/01-fa9166c5-800w.webp"
+  - "/images/waldeck-ruins/02-21029559-800w.webp"
+  - "/images/waldeck-ruins/03-36d87e6a-800w.webp"
 ---
 
 ## Overview

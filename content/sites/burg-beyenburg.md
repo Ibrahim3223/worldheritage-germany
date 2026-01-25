@@ -1,27 +1,49 @@
 ---
-title: "Burg Beyenburg"
+title: Burg Beyenburg
 date: 2026-01-23
 draft: false
-description: "ehemalige Burganlage an der Wupper"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: ehemalige Burganlage an der Wupper
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.2494
 longitude: 7.29806
-
-# Images
 images:
-  - "/images-sites/burg-beyenburg/01-393909c0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1200px-Ennepetal_Schemmstr_0009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ennepetal_Schemmstr_0010.jpg/1200px-Ennepetal_Schemmstr_0010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ennepetal_Schemmstr_0017.jpg/1200px-Ennepetal_Schemmstr_0017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BurgBeyenburg.jpg/1200px-BurgBeyenburg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Burg2Beyenburg.jpg/1200px-Burg2Beyenburg.jpg
+image_srcset:
+  Ennepetal Schemmstr 0009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/400px-Ennepetal_Schemmstr_0009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/800px-Ennepetal_Schemmstr_0009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1200px-Ennepetal_Schemmstr_0009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ennepetal_Schemmstr_0009.jpg/1920px-Ennepetal_Schemmstr_0009.jpg
+  Ennepetal Schemmstr 0010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ennepetal_Schemmstr_0010.jpg/400px-Ennepetal_Schemmstr_0010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ennepetal_Schemmstr_0010.jpg/800px-Ennepetal_Schemmstr_0010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ennepetal_Schemmstr_0010.jpg/1200px-Ennepetal_Schemmstr_0010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ennepetal_Schemmstr_0010.jpg/1920px-Ennepetal_Schemmstr_0010.jpg
+  Ennepetal Schemmstr 0017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ennepetal_Schemmstr_0017.jpg/400px-Ennepetal_Schemmstr_0017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ennepetal_Schemmstr_0017.jpg/800px-Ennepetal_Schemmstr_0017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ennepetal_Schemmstr_0017.jpg/1200px-Ennepetal_Schemmstr_0017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ennepetal_Schemmstr_0017.jpg/1920px-Ennepetal_Schemmstr_0017.jpg
+  BurgBeyenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BurgBeyenburg.jpg/400px-BurgBeyenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BurgBeyenburg.jpg/800px-BurgBeyenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BurgBeyenburg.jpg/1200px-BurgBeyenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BurgBeyenburg.jpg/1920px-BurgBeyenburg.jpg
+  Burg2Beyenburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Burg2Beyenburg.jpg/400px-Burg2Beyenburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Burg2Beyenburg.jpg/800px-Burg2Beyenburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Burg2Beyenburg.jpg/1200px-Burg2Beyenburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Burg2Beyenburg.jpg/1920px-Burg2Beyenburg.jpg
 ---
 
 ## Overview

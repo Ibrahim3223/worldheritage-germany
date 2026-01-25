@@ -1,27 +1,49 @@
 ---
-title: "Altena Castle"
+title: Altena Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Altena, North Rhine-Westphalia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Altena, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.29994
 longitude: 7.67513
-
-# Images
 images:
-  - "/images-sites/altena-castle/01-e14d4da7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg/1200px-Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Altena_aufgenommen_vom_Rundweg.jpg/1200px-Burg_Altena_aufgenommen_vom_Rundweg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Altena_Panorama.jpg/1200px-Burg_Altena_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg/1200px-Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ritter_im_Burghof_beim_Mittelalterfest.jpg/1200px-Ritter_im_Burghof_beim_Mittelalterfest.jpg
+image_srcset:
+  Drohnenaufnahme der beleuchteten Burg - "GlanzLicht".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg/400px-Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg/800px-Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg/1200px-Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg/1920px-Drohnenaufnahme_der_beleuchteten_Burg_-_"GlanzLicht".jpg
+  Burg Altena aufgenommen vom Rundweg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Altena_aufgenommen_vom_Rundweg.jpg/400px-Burg_Altena_aufgenommen_vom_Rundweg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Altena_aufgenommen_vom_Rundweg.jpg/800px-Burg_Altena_aufgenommen_vom_Rundweg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Altena_aufgenommen_vom_Rundweg.jpg/1200px-Burg_Altena_aufgenommen_vom_Rundweg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Burg_Altena_aufgenommen_vom_Rundweg.jpg/1920px-Burg_Altena_aufgenommen_vom_Rundweg.jpg
+  Burg Altena Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Altena_Panorama.jpg/400px-Burg_Altena_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Altena_Panorama.jpg/800px-Burg_Altena_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Altena_Panorama.jpg/1200px-Burg_Altena_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Burg_Altena_Panorama.jpg/1920px-Burg_Altena_Panorama.jpg
+  Aerial image of the Altena Castle (view from the east).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg/400px-Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg/800px-Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg/1200px-Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg/1920px-Aerial_image_of_the_Altena_Castle_(view_from_the_east).jpg
+  Ritter im Burghof beim Mittelalterfest.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ritter_im_Burghof_beim_Mittelalterfest.jpg/400px-Ritter_im_Burghof_beim_Mittelalterfest.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ritter_im_Burghof_beim_Mittelalterfest.jpg/800px-Ritter_im_Burghof_beim_Mittelalterfest.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ritter_im_Burghof_beim_Mittelalterfest.jpg/1200px-Ritter_im_Burghof_beim_Mittelalterfest.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ritter_im_Burghof_beim_Mittelalterfest.jpg/1920px-Ritter_im_Burghof_beim_Mittelalterfest.jpg
 ---
 
 ## Overview

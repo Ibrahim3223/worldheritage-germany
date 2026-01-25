@@ -1,19 +1,49 @@
 ---
-title: "Domsheide"
+title: Domsheide
 date: 2026-01-23
 draft: false
-description: "major square in the city of Bremen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: major square in the city of Bremen, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0746
 longitude: 8.80917
 images:
-  - "/images-sites/domsheide/01-3a43d6c2-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg/1200px-Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg/1200px-Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg/1200px-Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BremenDomsheide-1.jpg/1200px-BremenDomsheide-1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Verkehrs-Turm_Domsheide_Bremen.jpg/1200px-Verkehrs-Turm_Domsheide_Bremen.jpg
+image_srcset:
+  Domsheide mit Landgericht Bremen und Postamt 1 (2024).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg/400px-Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg/800px-Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg/1200px-Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg/1920px-Domsheide_mit_Landgericht_Bremen_und_Postamt_1_(2024).jpg
+  Straßenbahn Bremen 2 3120 Domsheide 2003071003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg/400px-Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg/800px-Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg/1200px-Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg/1920px-Straßenbahn_Bremen_2_3120_Domsheide_2003071003.jpg
+  Straßenbahn Bremen 4 3013 Domsheide 2003071003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg/400px-Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg/800px-Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg/1200px-Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg/1920px-Straßenbahn_Bremen_4_3013_Domsheide_2003071003.jpg
+  BremenDomsheide-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BremenDomsheide-1.jpg/400px-BremenDomsheide-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BremenDomsheide-1.jpg/800px-BremenDomsheide-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BremenDomsheide-1.jpg/1200px-BremenDomsheide-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/BremenDomsheide-1.jpg/1920px-BremenDomsheide-1.jpg
+  Verkehrs-Turm Domsheide Bremen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Verkehrs-Turm_Domsheide_Bremen.jpg/400px-Verkehrs-Turm_Domsheide_Bremen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Verkehrs-Turm_Domsheide_Bremen.jpg/800px-Verkehrs-Turm_Domsheide_Bremen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Verkehrs-Turm_Domsheide_Bremen.jpg/1200px-Verkehrs-Turm_Domsheide_Bremen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Verkehrs-Turm_Domsheide_Bremen.jpg/1920px-Verkehrs-Turm_Domsheide_Bremen.jpg
 ---
 
 ## Overview

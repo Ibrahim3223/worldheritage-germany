@@ -13,7 +13,7 @@ regions:
 latitude: 52.5564
 longitude: 13.3525
 images:
-  - "/images-sites/schillerpark/01-b5882222-800w.webp"
+  - "/images/schillerpark/01-b5882222-800w.webp"
 ---
 
 ## Overview

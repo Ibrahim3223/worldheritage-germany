@@ -1,27 +1,49 @@
 ---
-title: "Hausberg"
+title: Hausberg
 date: 2026-01-23
 draft: false
-description: "mountain in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Archaeological Site"
-
-# Taxonomies
+description: mountain in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Archaeological Site
 categories:
-  - "Archaeological Site"
+- Archaeological Site
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4114
 longitude: 8.61537
-
-# Images
 images:
-  - "/images-sites/hausberg/01-316513cc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hausberg_(Taunus)-Panorama_2016.jpg/1200px-Hausberg_(Taunus)-Panorama_2016.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg/1200px-Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arild_hausberg.jpg/1200px-Arild_hausberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Am_Hausberg.jpg/1200px-Am_Hausberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Innsbruck_panorama_west.JPG/1200px-Innsbruck_panorama_west.JPG
+image_srcset:
+  Hausberg (Taunus)-Panorama 2016.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hausberg_(Taunus)-Panorama_2016.jpg/400px-Hausberg_(Taunus)-Panorama_2016.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hausberg_(Taunus)-Panorama_2016.jpg/800px-Hausberg_(Taunus)-Panorama_2016.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hausberg_(Taunus)-Panorama_2016.jpg/1200px-Hausberg_(Taunus)-Panorama_2016.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hausberg_(Taunus)-Panorama_2016.jpg/1920px-Hausberg_(Taunus)-Panorama_2016.jpg
+  Nationalpark Sächsische Schweiz Alter Wildenstein lub 2024-09-21 img08 Aussicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg/400px-Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg/800px-Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg/1200px-Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg/1920px-Nationalpark_Sächsische_Schweiz_Alter_Wildenstein_lub_2024-09-21_img08_Aussicht.jpg
+  Arild hausberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arild_hausberg.jpg/400px-Arild_hausberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arild_hausberg.jpg/800px-Arild_hausberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arild_hausberg.jpg/1200px-Arild_hausberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arild_hausberg.jpg/1920px-Arild_hausberg.jpg
+  Am Hausberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Am_Hausberg.jpg/400px-Am_Hausberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Am_Hausberg.jpg/800px-Am_Hausberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Am_Hausberg.jpg/1200px-Am_Hausberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Am_Hausberg.jpg/1920px-Am_Hausberg.jpg
+  Innsbruck panorama west.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Innsbruck_panorama_west.JPG/400px-Innsbruck_panorama_west.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Innsbruck_panorama_west.JPG/800px-Innsbruck_panorama_west.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Innsbruck_panorama_west.JPG/1200px-Innsbruck_panorama_west.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Innsbruck_panorama_west.JPG/1920px-Innsbruck_panorama_west.JPG
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Jochspitz"
+title: Jochspitz
 date: 2026-01-23
 draft: false
-description: "mountain of the Allgäu Alps at the border of Tyrol, Austria, and Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain of the Allgäu Alps at the border of Tyrol, Austria, and Bavaria,
+  Germany
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.35429
 longitude: 10.38352
 images:
-  - "/images-sites/jochspitz/01-ace5d0a7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ISS022-E-5440_-_View_of_Italy.jpg/1200px-ISS022-E-5440_-_View_of_Italy.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1200px-Aelpelesattel_vom_Kegelkopf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oybachtal.JPG/1200px-Oybachtal.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jochspitze.jpg/1200px-Jochspitze.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jochspitze_Gipfel.jpg/1200px-Jochspitze_Gipfel.jpg
+image_srcset:
+  ISS022-E-5440 - View of Italy.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ISS022-E-5440_-_View_of_Italy.jpg/400px-ISS022-E-5440_-_View_of_Italy.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ISS022-E-5440_-_View_of_Italy.jpg/800px-ISS022-E-5440_-_View_of_Italy.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ISS022-E-5440_-_View_of_Italy.jpg/1200px-ISS022-E-5440_-_View_of_Italy.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ISS022-E-5440_-_View_of_Italy.jpg/1920px-ISS022-E-5440_-_View_of_Italy.jpg
+  Aelpelesattel vom Kegelkopf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/400px-Aelpelesattel_vom_Kegelkopf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/800px-Aelpelesattel_vom_Kegelkopf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1200px-Aelpelesattel_vom_Kegelkopf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aelpelesattel_vom_Kegelkopf.jpg/1920px-Aelpelesattel_vom_Kegelkopf.jpg
+  Oybachtal.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oybachtal.JPG/400px-Oybachtal.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oybachtal.JPG/800px-Oybachtal.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oybachtal.JPG/1200px-Oybachtal.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oybachtal.JPG/1920px-Oybachtal.JPG
+  Jochspitze.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jochspitze.jpg/400px-Jochspitze.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jochspitze.jpg/800px-Jochspitze.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jochspitze.jpg/1200px-Jochspitze.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jochspitze.jpg/1920px-Jochspitze.jpg
+  Jochspitze Gipfel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jochspitze_Gipfel.jpg/400px-Jochspitze_Gipfel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jochspitze_Gipfel.jpg/800px-Jochspitze_Gipfel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jochspitze_Gipfel.jpg/1200px-Jochspitze_Gipfel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jochspitze_Gipfel.jpg/1920px-Jochspitze_Gipfel.jpg
 ---
 
 ## Overview

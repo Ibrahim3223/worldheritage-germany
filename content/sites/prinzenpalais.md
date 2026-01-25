@@ -13,7 +13,7 @@ regions:
 latitude: 53.13638889
 longitude: 8.21777778
 images:
-  - "/images-sites/prinzenpalais/01-0bd1c72e-800w.webp"
+  - "/images/prinzenpalais/01-0bd1c72e-800w.webp"
 ---
 
 ## Overview

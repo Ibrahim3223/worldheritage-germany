@@ -1,23 +1,50 @@
 ---
-title: "City Palace"
-site_name: "City Palace"
-slug: "city-palace"
-region: "Brandenburg"
-
-# Location
+title: City Palace
+site_name: City Palace
+slug: city-palace
+region: Brandenburg
 latitude: 52.394722
 longitude: 13.060556
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q527260"
-description: "The City Palace in Potsdam, Germany, stands as a remarkable example of Frederician Rococo architecture and serves as a pivotal historical landmark. Foun..."
+- cultural site
+wikidata_id: Q527260
+description: The City Palace in Potsdam, Germany, stands as a remarkable example of
+  Frederician Rococo architecture and serves as a pivotal historical landmark. Foun...
 images:
-  - "/images-sites/city-palace/01-017ddaae-1920w.webp"
-  - "/images-sites/city-palace/02-d3ceb2f6-1920w.webp"
-  - "/images-sites/city-palace/03-10d17f7c-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam%20Stadtschloss%2007-2017.jpg/1200px-Potsdam%20Stadtschloss%2007-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg/1200px-Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/1200px-Jaipur_03-2016_20_City_Palace_complex.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/1200px-Jaipur_03-2016_22_City_Palace_complex.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/1200px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+image_srcset:
+  Potsdam%20Stadtschloss%2007-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam%20Stadtschloss%2007-2017.jpg/400px-Potsdam%20Stadtschloss%2007-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam%20Stadtschloss%2007-2017.jpg/800px-Potsdam%20Stadtschloss%2007-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam%20Stadtschloss%2007-2017.jpg/1200px-Potsdam%20Stadtschloss%2007-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potsdam%20Stadtschloss%2007-2017.jpg/1920px-Potsdam%20Stadtschloss%2007-2017.jpg
+  Portal, Pitam Niwas Chowk, City Palace, Jaipur, 20191218 1000 9059.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg/400px-Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg/800px-Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg/1200px-Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg/1920px-Portal,_Pitam_Niwas_Chowk,_City_Palace,_Jaipur,_20191218_1000_9059.jpg
+  Jaipur 03-2016 20 City Palace complex.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/400px-Jaipur_03-2016_20_City_Palace_complex.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/800px-Jaipur_03-2016_20_City_Palace_complex.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/1200px-Jaipur_03-2016_20_City_Palace_complex.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaipur_03-2016_20_City_Palace_complex.jpg/1920px-Jaipur_03-2016_20_City_Palace_complex.jpg
+  Jaipur 03-2016 22 City Palace complex.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/400px-Jaipur_03-2016_22_City_Palace_complex.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/800px-Jaipur_03-2016_22_City_Palace_complex.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/1200px-Jaipur_03-2016_22_City_Palace_complex.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jaipur_03-2016_22_City_Palace_complex.jpg/1920px-Jaipur_03-2016_22_City_Palace_complex.jpg
+  Fulda, Schlossgarten, 2019-10 CN-06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/400px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/800px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/1200px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Fulda,_Schlossgarten,_2019-10_CN-06.jpg/1920px-Fulda,_Schlossgarten,_2019-10_CN-06.jpg
 ---
 
 ## Overview

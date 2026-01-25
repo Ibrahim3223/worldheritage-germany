@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1722808"
 description: "St. Maria Meeresstern in Borkum is not just a church; it’s a symbol of faith and community on Germanys North Sea coast. This Gothic Revival church, desi..."
 images:
-  - "/images-sites/st-maria-meeresstern-borkum/01-36bb378e-1920w.webp"
-  - "/images-sites/st-maria-meeresstern-borkum/02-a538baef-1920w.webp"
-  - "/images-sites/st-maria-meeresstern-borkum/03-3a910a80-1920w.webp"
+  - "/images/st-maria-meeresstern-borkum/01-36bb378e-1920w.webp"
+  - "/images/st-maria-meeresstern-borkum/02-a538baef-1920w.webp"
+  - "/images/st-maria-meeresstern-borkum/03-3a910a80-1920w.webp"
 ---
 
 ## Overview

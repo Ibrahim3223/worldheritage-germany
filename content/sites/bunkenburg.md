@@ -1,27 +1,49 @@
 ---
-title: "Bunkenburg"
+title: Bunkenburg
 date: 2026-01-23
 draft: false
-description: "castle in Lower Saxony"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Lower Saxony
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.7615
 longitude: 9.55867
-
-# Images
 images:
-  - "/images-sites/bunkenburg/01-22814416-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brunkenburg_oben.jpg/1200px-Brunkenburg_oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1200px-Brunkenburg_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brauhaus_Ahlden.jpg/1200px-Brauhaus_Ahlden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ahlden_1782.jpg/1200px-Ahlden_1782.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brunkenburg_1747.jpg/1200px-Brunkenburg_1747.jpg
+image_srcset:
+  Brunkenburg oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brunkenburg_oben.jpg/400px-Brunkenburg_oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brunkenburg_oben.jpg/800px-Brunkenburg_oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brunkenburg_oben.jpg/1200px-Brunkenburg_oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Brunkenburg_oben.jpg/1920px-Brunkenburg_oben.jpg
+  Brunkenburg Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/400px-Brunkenburg_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/800px-Brunkenburg_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1200px-Brunkenburg_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brunkenburg_Panorama.jpg/1920px-Brunkenburg_Panorama.jpg
+  Brauhaus Ahlden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brauhaus_Ahlden.jpg/400px-Brauhaus_Ahlden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brauhaus_Ahlden.jpg/800px-Brauhaus_Ahlden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brauhaus_Ahlden.jpg/1200px-Brauhaus_Ahlden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brauhaus_Ahlden.jpg/1920px-Brauhaus_Ahlden.jpg
+  Ahlden 1782.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ahlden_1782.jpg/400px-Ahlden_1782.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ahlden_1782.jpg/800px-Ahlden_1782.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ahlden_1782.jpg/1200px-Ahlden_1782.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ahlden_1782.jpg/1920px-Ahlden_1782.jpg
+  Brunkenburg 1747.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brunkenburg_1747.jpg/400px-Brunkenburg_1747.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brunkenburg_1747.jpg/800px-Brunkenburg_1747.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brunkenburg_1747.jpg/1200px-Brunkenburg_1747.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Brunkenburg_1747.jpg/1920px-Brunkenburg_1747.jpg
 ---
 
 ## Overview

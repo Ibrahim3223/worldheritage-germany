@@ -1,23 +1,50 @@
 ---
-title: "Halle Cathedral"
-site_name: "Halle Cathedral"
-slug: "halle-cathedral"
-region: "Brandenburg"
-
-# Location
+title: Halle Cathedral
+site_name: Halle Cathedral
+slug: halle-cathedral
+region: Brandenburg
 latitude: 51.4842
 longitude: 11.9644
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1571657"
-description: "Halle Cathedral, an impressive church building situated in Halle (Saale), Saxony-Anhalt, Germany, invites visitors to explore its Gothic architectural b..."
+- cultural site
+wikidata_id: Q1571657
+description: Halle Cathedral, an impressive church building situated in Halle (Saale),
+  Saxony-Anhalt, Germany, invites visitors to explore its Gothic architectural b...
 images:
-  - "/images-sites/halle-cathedral/01-5fd95d8d-1920w.webp"
-  - "/images-sites/halle-cathedral/02-4234191a-1920w.webp"
-  - "/images-sites/halle-cathedral/03-3d472c33-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg/1200px-Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg/1200px-Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hallescher_Dom_und_Neue_Residenz_von_oben.png/1200px-Hallescher_Dom_und_Neue_Residenz_von_oben.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dom_zu_Halle.jpg/1200px-Dom_zu_Halle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2011-07_Halle_06.jpg/1200px-2011-07_Halle_06.jpg
+image_srcset:
+  Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg/400px-Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg/800px-Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg/1200px-Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg/1920px-Halle%28Saale%29%20Hallescher%20Dom%20asv2024-04%20img1.jpg
+  Halle(Saale) Hallescher Dom asv2024-04 img1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg/400px-Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg/800px-Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg/1200px-Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg/1920px-Halle(Saale)_Hallescher_Dom_asv2024-04_img1.jpg
+  Hallescher Dom und Neue Residenz von oben.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hallescher_Dom_und_Neue_Residenz_von_oben.png/400px-Hallescher_Dom_und_Neue_Residenz_von_oben.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hallescher_Dom_und_Neue_Residenz_von_oben.png/800px-Hallescher_Dom_und_Neue_Residenz_von_oben.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hallescher_Dom_und_Neue_Residenz_von_oben.png/1200px-Hallescher_Dom_und_Neue_Residenz_von_oben.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hallescher_Dom_und_Neue_Residenz_von_oben.png/1920px-Hallescher_Dom_und_Neue_Residenz_von_oben.png
+  Dom zu Halle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dom_zu_Halle.jpg/400px-Dom_zu_Halle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dom_zu_Halle.jpg/800px-Dom_zu_Halle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dom_zu_Halle.jpg/1200px-Dom_zu_Halle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Dom_zu_Halle.jpg/1920px-Dom_zu_Halle.jpg
+  2011-07 Halle 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2011-07_Halle_06.jpg/400px-2011-07_Halle_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2011-07_Halle_06.jpg/800px-2011-07_Halle_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2011-07_Halle_06.jpg/1200px-2011-07_Halle_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2011-07_Halle_06.jpg/1920px-2011-07_Halle_06.jpg
 ---
 
 ## Overview

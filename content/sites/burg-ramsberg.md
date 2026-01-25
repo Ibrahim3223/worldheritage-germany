@@ -1,19 +1,49 @@
 ---
-title: "Burg Ramsberg"
+title: Burg Ramsberg
 date: 2026-01-23
 draft: false
-description: "castle in Donzdorf"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle in Donzdorf
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 48.694
 longitude: 9.78678
 images:
-  - "/images-sites/burg-ramsberg/01-ca2cd6a9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg/1200px-Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grossschoenach-Ramsberg_castle-01ASD.jpg/1200px-Grossschoenach-Ramsberg_castle-01ASD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grossschoenach-Ramsberg_castle-02ASD.jpg/1200px-Grossschoenach-Ramsberg_castle-02ASD.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herdwangen-5439.jpg/1200px-Herdwangen-5439.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg/1200px-Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg
+image_srcset:
+  Grossschoenach-Ramsberg-Tobelhof-Grotto of Our Lady of Lourdes-01ASD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg/400px-Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg/800px-Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg/1200px-Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg/1920px-Grossschoenach-Ramsberg-Tobelhof-Grotto_of_Our_Lady_of_Lourdes-01ASD.jpg
+  Grossschoenach-Ramsberg castle-01ASD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grossschoenach-Ramsberg_castle-01ASD.jpg/400px-Grossschoenach-Ramsberg_castle-01ASD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grossschoenach-Ramsberg_castle-01ASD.jpg/800px-Grossschoenach-Ramsberg_castle-01ASD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grossschoenach-Ramsberg_castle-01ASD.jpg/1200px-Grossschoenach-Ramsberg_castle-01ASD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Grossschoenach-Ramsberg_castle-01ASD.jpg/1920px-Grossschoenach-Ramsberg_castle-01ASD.jpg
+  Grossschoenach-Ramsberg castle-02ASD.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grossschoenach-Ramsberg_castle-02ASD.jpg/400px-Grossschoenach-Ramsberg_castle-02ASD.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grossschoenach-Ramsberg_castle-02ASD.jpg/800px-Grossschoenach-Ramsberg_castle-02ASD.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grossschoenach-Ramsberg_castle-02ASD.jpg/1200px-Grossschoenach-Ramsberg_castle-02ASD.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grossschoenach-Ramsberg_castle-02ASD.jpg/1920px-Grossschoenach-Ramsberg_castle-02ASD.jpg
+  Herdwangen-5439.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herdwangen-5439.jpg/400px-Herdwangen-5439.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herdwangen-5439.jpg/800px-Herdwangen-5439.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herdwangen-5439.jpg/1200px-Herdwangen-5439.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Herdwangen-5439.jpg/1920px-Herdwangen-5439.jpg
+  Landappbw 1004781 1818 Burg Ramsberg Heiligenberg-Hattenweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg/400px-Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg/800px-Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg/1200px-Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg/1920px-Landappbw_1004781_1818_Burg_Ramsberg_Heiligenberg-Hattenweiler.jpg
 ---
 
 ## Overview

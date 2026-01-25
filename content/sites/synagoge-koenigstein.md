@@ -13,8 +13,8 @@ regions:
 latitude: 50.180941
 longitude: 8.46648
 images:
-  - "/images-sites/synagoge-koenigstein/02-87a05f1a-800w.webp"
-  - "/images-sites/synagoge-koenigstein/03-2f4ccc20-800w.webp"
+  - "/images/synagoge-koenigstein/02-87a05f1a-800w.webp"
+  - "/images/synagoge-koenigstein/03-2f4ccc20-800w.webp"
 ---
 
 ## Overview

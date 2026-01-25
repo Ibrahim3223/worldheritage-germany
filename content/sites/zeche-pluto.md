@@ -13,7 +13,7 @@ regions:
 latitude: 51.5325
 longitude: 7.14261
 images:
-  - "/images-sites/zeche-pluto/01-c6f7fd26-800w.webp"
+  - "/images/zeche-pluto/01-c6f7fd26-800w.webp"
 ---
 
 ## Overview

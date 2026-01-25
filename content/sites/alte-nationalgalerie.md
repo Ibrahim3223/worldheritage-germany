@@ -1,27 +1,49 @@
 ---
-title: "Alte Nationalgalerie"
+title: Alte Nationalgalerie
 date: 2026-01-23
 draft: false
-description: "art museum in Berlin, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: art museum in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.52081
 longitude: 13.398353
-
-# Images
 images:
-  - "/images-sites/alte-nationalgalerie/01-cfd8cff9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berliner_Dom,_170409,_ako_(2).jpg/1200px-Berliner_Dom,_170409,_ako_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Alte_Nationalgalerie_abends_(Zuschnitt).jpg/1200px-Alte_Nationalgalerie_abends_(Zuschnitt).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1200px-AlteNationalgalerie_1a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Berliner_Dom_und_Alte_Nationalgalerie.jpg/1200px-Berliner_Dom_und_Alte_Nationalgalerie.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg/1200px-Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg
+image_srcset:
+  Berliner Dom, 170409, ako (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berliner_Dom,_170409,_ako_(2).jpg/400px-Berliner_Dom,_170409,_ako_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berliner_Dom,_170409,_ako_(2).jpg/800px-Berliner_Dom,_170409,_ako_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berliner_Dom,_170409,_ako_(2).jpg/1200px-Berliner_Dom,_170409,_ako_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Berliner_Dom,_170409,_ako_(2).jpg/1920px-Berliner_Dom,_170409,_ako_(2).jpg
+  Alte Nationalgalerie abends (Zuschnitt).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Alte_Nationalgalerie_abends_(Zuschnitt).jpg/400px-Alte_Nationalgalerie_abends_(Zuschnitt).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Alte_Nationalgalerie_abends_(Zuschnitt).jpg/800px-Alte_Nationalgalerie_abends_(Zuschnitt).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Alte_Nationalgalerie_abends_(Zuschnitt).jpg/1200px-Alte_Nationalgalerie_abends_(Zuschnitt).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Alte_Nationalgalerie_abends_(Zuschnitt).jpg/1920px-Alte_Nationalgalerie_abends_(Zuschnitt).jpg
+  AlteNationalgalerie 1a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/400px-AlteNationalgalerie_1a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/800px-AlteNationalgalerie_1a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1200px-AlteNationalgalerie_1a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/AlteNationalgalerie_1a.jpg/1920px-AlteNationalgalerie_1a.jpg
+  Berliner Dom und Alte Nationalgalerie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Berliner_Dom_und_Alte_Nationalgalerie.jpg/400px-Berliner_Dom_und_Alte_Nationalgalerie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Berliner_Dom_und_Alte_Nationalgalerie.jpg/800px-Berliner_Dom_und_Alte_Nationalgalerie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Berliner_Dom_und_Alte_Nationalgalerie.jpg/1200px-Berliner_Dom_und_Alte_Nationalgalerie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Berliner_Dom_und_Alte_Nationalgalerie.jpg/1920px-Berliner_Dom_und_Alte_Nationalgalerie.jpg
+  Europe 2022 MRD Alte Nationalgalerie.tiff:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg/400px-Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg/800px-Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg/1200px-Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg/1920px-Europe_2022_MRD_Alte_Nationalgalerie.tiff.jpg
 ---
 
 ## Overview

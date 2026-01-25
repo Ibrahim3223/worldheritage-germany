@@ -1,19 +1,49 @@
 ---
-title: "Heidelberg Zoo"
+title: Heidelberg Zoo
 date: 2026-01-24
 draft: false
-description: "zoo in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Zoo"
+description: zoo in Germany
+region: Germany
+country: Germany
+heritage_type: Zoo
 categories:
-  - "Zoo"
+- Zoo
 regions:
-  - "Germany"
+- Germany
 latitude: 49.4153
 longitude: 8.66083
 images:
-  - "/images-sites/heidelberg-zoo/01-e44bfe19-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/HD_Asiatischer_Elefant.jpg/1200px-HD_Asiatischer_Elefant.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HD_Panda_1.jpg/1200px-HD_Panda_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Staub_004_2024_08_09.jpg/1200px-Staub_004_2024_08_09.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HD_Zoo_Ubersicht_2025-04.jpg/1200px-HD_Zoo_Ubersicht_2025-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/1200px-Heidelberg_Tiergarten_Haupteingang.JPG
+image_srcset:
+  HD Asiatischer Elefant.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/HD_Asiatischer_Elefant.jpg/400px-HD_Asiatischer_Elefant.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/HD_Asiatischer_Elefant.jpg/800px-HD_Asiatischer_Elefant.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/HD_Asiatischer_Elefant.jpg/1200px-HD_Asiatischer_Elefant.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/HD_Asiatischer_Elefant.jpg/1920px-HD_Asiatischer_Elefant.jpg
+  HD Panda 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HD_Panda_1.jpg/400px-HD_Panda_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HD_Panda_1.jpg/800px-HD_Panda_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HD_Panda_1.jpg/1200px-HD_Panda_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/HD_Panda_1.jpg/1920px-HD_Panda_1.jpg
+  Staub 004 2024 08 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Staub_004_2024_08_09.jpg/400px-Staub_004_2024_08_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Staub_004_2024_08_09.jpg/800px-Staub_004_2024_08_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Staub_004_2024_08_09.jpg/1200px-Staub_004_2024_08_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Staub_004_2024_08_09.jpg/1920px-Staub_004_2024_08_09.jpg
+  HD Zoo Ubersicht 2025-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HD_Zoo_Ubersicht_2025-04.jpg/400px-HD_Zoo_Ubersicht_2025-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HD_Zoo_Ubersicht_2025-04.jpg/800px-HD_Zoo_Ubersicht_2025-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HD_Zoo_Ubersicht_2025-04.jpg/1200px-HD_Zoo_Ubersicht_2025-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HD_Zoo_Ubersicht_2025-04.jpg/1920px-HD_Zoo_Ubersicht_2025-04.jpg
+  Heidelberg Tiergarten Haupteingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/400px-Heidelberg_Tiergarten_Haupteingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/800px-Heidelberg_Tiergarten_Haupteingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/1200px-Heidelberg_Tiergarten_Haupteingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Heidelberg_Tiergarten_Haupteingang.JPG/1920px-Heidelberg_Tiergarten_Haupteingang.JPG
 ---
 
 ## Overview

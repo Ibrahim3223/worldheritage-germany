@@ -13,7 +13,7 @@ regions:
 latitude: 52.6487
 longitude: 13.5136
 images:
-  - "/images-sites/roentgental-station/01-79f5d090-800w.webp"
+  - "/images/roentgental-station/01-79f5d090-800w.webp"
 ---
 
 ## Overview

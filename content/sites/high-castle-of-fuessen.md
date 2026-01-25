@@ -1,27 +1,49 @@
 ---
-title: "High Castle of Füssen"
+title: High Castle of Füssen
 date: 2026-01-23
 draft: false
-description: "castle in Füssen, Swabia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Füssen, Swabia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.567103821
 longitude: 10.698051145
-
-# Images
 images:
-  - "/images-sites/high-castle-of-fuessen/01-922a8780-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/1200px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg/1200px-Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hohes_Schloss_Fuessen_2.jpg/1200px-Hohes_Schloss_Fuessen_2.jpg
+image_srcset:
+  Aerial image of the High Castle of Füssen (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_High_Castle_of_Füssen_(view_from_the_southwest).jpg
+  Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/400px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/800px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/1200px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg/1920px-Hohes-Schloss-Fuessen-JR-E-5578-2021-07-04.jpg
+  Aerial image of the High Castle and Saint Mang Abbey Füssen (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_High_Castle_and_Saint_Mang_Abbey_Füssen_(view_from_the_southwest).jpg
+  Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg/400px-Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg/800px-Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg/1200px-Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg/1920px-Hohes-Schloss-Fuessen-JR-E-5528-2021-07-04.jpg
+  Hohes Schloss Fuessen 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hohes_Schloss_Fuessen_2.jpg/400px-Hohes_Schloss_Fuessen_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hohes_Schloss_Fuessen_2.jpg/800px-Hohes_Schloss_Fuessen_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hohes_Schloss_Fuessen_2.jpg/1200px-Hohes_Schloss_Fuessen_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hohes_Schloss_Fuessen_2.jpg/1920px-Hohes_Schloss_Fuessen_2.jpg
 ---
 
 ## Overview

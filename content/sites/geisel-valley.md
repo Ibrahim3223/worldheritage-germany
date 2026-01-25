@@ -1,21 +1,49 @@
 ---
-title: "Geisel Valley"
+title: Geisel Valley
 date: 2026-01-24
 draft: false
-description: "valley in Saxony-Anhalt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 51.307777777
 longitude: 11.869166666
 images:
-  - "/images-sites/geisel-valley/01-99e079f6-800w.webp"
-  - "/images-sites/geisel-valley/02-bacf27ec-800w.webp"
-  - "/images-sites/geisel-valley/03-5712df83-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg/1200px-Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Am_Geiseltalsee.jpg/1200px-Am_Geiseltalsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schlenze-Saale.JPG/1200px-Schlenze-Saale.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Höhlenlöwe_Geiseltal.png/1200px-Höhlenlöwe_Geiseltal.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Germany_Saxony-Anhalt_adm_location_map.svg/1200px-Germany_Saxony-Anhalt_adm_location_map.svg.png
+image_srcset:
+  Neumark-Nord InterglazialbeckenNN1 Jahresschichtung Teil 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg/400px-Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg/800px-Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg/1200px-Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg/1920px-Neumark-Nord_InterglazialbeckenNN1_Jahresschichtung_Teil_12.jpg
+  Am Geiseltalsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Am_Geiseltalsee.jpg/400px-Am_Geiseltalsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Am_Geiseltalsee.jpg/800px-Am_Geiseltalsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Am_Geiseltalsee.jpg/1200px-Am_Geiseltalsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Am_Geiseltalsee.jpg/1920px-Am_Geiseltalsee.jpg
+  Schlenze-Saale.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schlenze-Saale.JPG/400px-Schlenze-Saale.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schlenze-Saale.JPG/800px-Schlenze-Saale.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schlenze-Saale.JPG/1200px-Schlenze-Saale.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Schlenze-Saale.JPG/1920px-Schlenze-Saale.JPG
+  Höhlenlöwe Geiseltal.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Höhlenlöwe_Geiseltal.png/400px-Höhlenlöwe_Geiseltal.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Höhlenlöwe_Geiseltal.png/800px-Höhlenlöwe_Geiseltal.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Höhlenlöwe_Geiseltal.png/1200px-Höhlenlöwe_Geiseltal.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Höhlenlöwe_Geiseltal.png/1920px-Höhlenlöwe_Geiseltal.png
+  Germany Saxony-Anhalt adm location map.svg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Germany_Saxony-Anhalt_adm_location_map.svg/400px-Germany_Saxony-Anhalt_adm_location_map.svg.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Germany_Saxony-Anhalt_adm_location_map.svg/800px-Germany_Saxony-Anhalt_adm_location_map.svg.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Germany_Saxony-Anhalt_adm_location_map.svg/1200px-Germany_Saxony-Anhalt_adm_location_map.svg.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Germany_Saxony-Anhalt_adm_location_map.svg/1920px-Germany_Saxony-Anhalt_adm_location_map.svg.png
 ---
 
 ## Overview

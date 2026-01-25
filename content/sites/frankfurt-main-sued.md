@@ -1,19 +1,49 @@
 ---
-title: "Frankfurt (Main) Süd"
+title: Frankfurt (Main) Süd
 date: 2026-01-23
 draft: false
-description: "railway halt in Frankfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway halt in Frankfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 50.099204
 longitude: 8.686163
 images:
-  - "/images-sites/frankfurt-main-sued/01-4f56afb1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg/1200px-Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhofsschild_Frankfurt_Süd_1908111057.jpg/1200px-Bahnhofsschild_Frankfurt_Süd_1908111057.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bahnhofsschild_Frankfurt_Süd_1908111054.jpg/1200px-Bahnhofsschild_Frankfurt_Süd_1908111054.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/1200px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suedbahnhof-ffm001a.jpg/1200px-Suedbahnhof-ffm001a.jpg
+image_srcset:
+  Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg/400px-Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg/800px-Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg/1200px-Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg/1920px-Frankfurt-sued-bahnhof-u-bahn-tunnel-a-strecke-shunting-crossover.jpg
+  Bahnhofsschild Frankfurt Süd 1908111057.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhofsschild_Frankfurt_Süd_1908111057.jpg/400px-Bahnhofsschild_Frankfurt_Süd_1908111057.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhofsschild_Frankfurt_Süd_1908111057.jpg/800px-Bahnhofsschild_Frankfurt_Süd_1908111057.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhofsschild_Frankfurt_Süd_1908111057.jpg/1200px-Bahnhofsschild_Frankfurt_Süd_1908111057.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bahnhofsschild_Frankfurt_Süd_1908111057.jpg/1920px-Bahnhofsschild_Frankfurt_Süd_1908111057.jpg
+  Bahnhofsschild Frankfurt Süd 1908111054.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bahnhofsschild_Frankfurt_Süd_1908111054.jpg/400px-Bahnhofsschild_Frankfurt_Süd_1908111054.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bahnhofsschild_Frankfurt_Süd_1908111054.jpg/800px-Bahnhofsschild_Frankfurt_Süd_1908111054.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bahnhofsschild_Frankfurt_Süd_1908111054.jpg/1200px-Bahnhofsschild_Frankfurt_Süd_1908111054.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bahnhofsschild_Frankfurt_Süd_1908111054.jpg/1920px-Bahnhofsschild_Frankfurt_Süd_1908111054.jpg
+  Suedbahnhof Ffm Bahnhofsgebaeude.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/400px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/800px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/1200px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg/1920px-Suedbahnhof_Ffm_Bahnhofsgebaeude.jpg
+  Suedbahnhof-ffm001a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suedbahnhof-ffm001a.jpg/400px-Suedbahnhof-ffm001a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suedbahnhof-ffm001a.jpg/800px-Suedbahnhof-ffm001a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suedbahnhof-ffm001a.jpg/1200px-Suedbahnhof-ffm001a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suedbahnhof-ffm001a.jpg/1920px-Suedbahnhof-ffm001a.jpg
 ---
 
 ## Overview

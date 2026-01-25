@@ -21,9 +21,9 @@ longitude: 10.743694444
 
 # Images
 images:
-  - "/images-sites/privatbrauerei-wittingen/01-85022358-800w.webp"
-  - "/images-sites/privatbrauerei-wittingen/02-0bf33eda-800w.webp"
-  - "/images-sites/privatbrauerei-wittingen/03-b32fd041-800w.webp"
+  - "/images/privatbrauerei-wittingen/01-85022358-800w.webp"
+  - "/images/privatbrauerei-wittingen/02-0bf33eda-800w.webp"
+  - "/images/privatbrauerei-wittingen/03-b32fd041-800w.webp"
 ---
 
 ## Overview

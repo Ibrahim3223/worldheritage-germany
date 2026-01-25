@@ -1,21 +1,49 @@
 ---
-title: "Hofgarten (München)"
+title: Hofgarten (München)
 date: 2026-01-23
 draft: false
-description: "park in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 48.142777777
 longitude: 11.58
 images:
-  - "/images-sites/hofgarten-muenchen/01-52a890ab-800w.webp"
-  - "/images-sites/hofgarten-muenchen/02-eae5e498-800w.webp"
-  - "/images-sites/hofgarten-muenchen/03-c499f463-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg/1200px-Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20210102_Theatinerkirche_Munich_01.jpg/1200px-20210102_Theatinerkirche_Munich_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_image_of_Munich_Residenz.jpg/1200px-Aerial_image_of_Munich_Residenz.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/München_Hofgartentempel.jpg/1200px-München_Hofgartentempel.jpg
+image_srcset:
+  Hofgarten, Múnich, Alemania, 2023-12-03, DD 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg/400px-Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg/800px-Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg/1200px-Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg/1920px-Hofgarten,_Múnich,_Alemania,_2023-12-03,_DD_07.jpg
+  20210102 Theatinerkirche Munich 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20210102_Theatinerkirche_Munich_01.jpg/400px-20210102_Theatinerkirche_Munich_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20210102_Theatinerkirche_Munich_01.jpg/800px-20210102_Theatinerkirche_Munich_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20210102_Theatinerkirche_Munich_01.jpg/1200px-20210102_Theatinerkirche_Munich_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20210102_Theatinerkirche_Munich_01.jpg/1920px-20210102_Theatinerkirche_Munich_01.jpg
+  Aerial image of the Hofgarten München (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg/400px-Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg/800px-Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg/1200px-Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg/1920px-Aerial_image_of_the_Hofgarten_München_(view_from_the_southeast).jpg
+  Aerial image of Munich Residenz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_image_of_Munich_Residenz.jpg/400px-Aerial_image_of_Munich_Residenz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_image_of_Munich_Residenz.jpg/800px-Aerial_image_of_Munich_Residenz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_image_of_Munich_Residenz.jpg/1200px-Aerial_image_of_Munich_Residenz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aerial_image_of_Munich_Residenz.jpg/1920px-Aerial_image_of_Munich_Residenz.jpg
+  München Hofgartentempel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/München_Hofgartentempel.jpg/400px-München_Hofgartentempel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/München_Hofgartentempel.jpg/800px-München_Hofgartentempel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/München_Hofgartentempel.jpg/1200px-München_Hofgartentempel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/München_Hofgartentempel.jpg/1920px-München_Hofgartentempel.jpg
 ---
 
 ## Overview

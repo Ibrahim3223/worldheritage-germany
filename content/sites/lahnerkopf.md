@@ -13,7 +13,7 @@ regions:
 latitude: 47.429166666
 longitude: 10.463333333
 images:
-  - "/images-sites/lahnerkopf/01-ca6e9c99-800w.webp"
+  - "/images/lahnerkopf/01-ca6e9c99-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.495
 longitude: 13.3547
 images:
-  - "/images-sites/winterfeldtplatz/01-c9b0d5ac-800w.webp"
+  - "/images/winterfeldtplatz/01-c9b0d5ac-800w.webp"
 ---
 
 ## Overview

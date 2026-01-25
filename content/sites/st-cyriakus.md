@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1572980"
 description: "St. Cyriakus is a remarkable church building located in the region of Kerpen, Germany. This structure, known for its baroque architectural style, captiv..."
 images:
-  - "/images-sites/st-cyriakus/01-377102b7-1920w.webp"
-  - "/images-sites/st-cyriakus/02-8e458ff1-1920w.webp"
-  - "/images-sites/st-cyriakus/03-e07f67d1-1920w.webp"
+  - "/images/st-cyriakus/01-377102b7-1920w.webp"
+  - "/images/st-cyriakus/02-8e458ff1-1920w.webp"
+  - "/images/st-cyriakus/03-e07f67d1-1920w.webp"
 ---
 
 ## Overview

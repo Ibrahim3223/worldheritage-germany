@@ -1,24 +1,51 @@
 ---
-title: "Gedächtniskirche"
-site_name: "Gedächtniskirche"
-slug: "gedachtniskirche"
-region: "Rhineland-Palatinate"
-
-# Location
+title: Gedächtniskirche
+site_name: Gedächtniskirche
+slug: gedachtniskirche
+region: Rhineland-Palatinate
 latitude: 49.314842
 longitude: 8.430036
 regions:
-    - "Rhineland-Palatinate"
-heritage_type: "cultural site"
+- Rhineland-Palatinate
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q463991"
-description: "In the heart of Speyer, Germany, the Gedächtniskirche stands as a striking example of Gothic Revival architecture. Founded in 1914, this Protestant chur..."
+- church building
+- religious site
+wikidata_id: Q463991
+description: In the heart of Speyer, Germany, the Gedächtniskirche stands as a striking
+  example of Gothic Revival architecture. Founded in 1914, this Protestant chur...
 images:
-  - "/images-sites/gedachtniskirche/01-c1e01b57-1920w.webp"
-  - "/images-sites/gedachtniskirche/02-0a45ec2b-1920w.webp"
-  - "/images-sites/gedachtniskirche/03-ddea5274-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Speyer%20Ged%C3%A4chtniskirche%2002.JPG/1200px-Speyer%20Ged%C3%A4chtniskirche%2002.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg/1200px-Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg/1200px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg/1200px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/1200px-Gedächtniskirche1.JPG
+image_srcset:
+  Speyer%20Ged%C3%A4chtniskirche%2002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Speyer%20Ged%C3%A4chtniskirche%2002.JPG/400px-Speyer%20Ged%C3%A4chtniskirche%2002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Speyer%20Ged%C3%A4chtniskirche%2002.JPG/800px-Speyer%20Ged%C3%A4chtniskirche%2002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Speyer%20Ged%C3%A4chtniskirche%2002.JPG/1200px-Speyer%20Ged%C3%A4chtniskirche%2002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Speyer%20Ged%C3%A4chtniskirche%2002.JPG/1920px-Speyer%20Ged%C3%A4chtniskirche%2002.JPG
+  Gedächtniskirche, Berlin-Charlottenburg, Egon Eiermann, 1959-63, Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg/400px-Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg/800px-Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg/1200px-Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg/1920px-Gedächtniskirche,_Berlin-Charlottenburg,_Egon_Eiermann,_1959-63,_Eingang.jpg
+  Kaiser-Wilhelm-Gedächtniskirche 2023-05-06 08.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg/400px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg/800px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg/1200px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg/1920px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_08.jpg
+  Kaiser-Wilhelm-Gedächtniskirche 2023-05-06 10.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg/400px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg/800px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg/1200px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg/1920px-Kaiser-Wilhelm-Gedächtniskirche_2023-05-06_10.jpg
+  Gedächtniskirche1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/400px-Gedächtniskirche1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/800px-Gedächtniskirche1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/1200px-Gedächtniskirche1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gedächtniskirche1.JPG/1920px-Gedächtniskirche1.JPG
 ---
 
 ## Overview

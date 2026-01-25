@@ -1,29 +1,50 @@
 ---
-title: "Calenberg Castle"
+title: Calenberg Castle
 date: 2026-01-23
 draft: false
-description: "castle in Schulenburg, Region Hannover, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Schulenburg, Region Hannover, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 52.1964
 longitude: 9.79639
-
-# Images
 images:
-  - "/images-sites/calenberg-castle/01-7c28f77c-800w.webp"
-  - "/images-sites/calenberg-castle/02-3d8cdf28-800w.webp"
-  - "/images-sites/calenberg-castle/03-3b8d1e52-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg/1200px-2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/1200px-Calenberg_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Calenberg_5.JPG/1200px-Calenberg_5.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg/1200px-Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wallanlagen_von_Alt_Calenberg.jpg/1200px-Wallanlagen_von_Alt_Calenberg.jpg
+image_srcset:
+  ? 2016-09-12 Feste Calenberg, öffentliche Infotafel zur heutigen Situation des Ortes
+    in Schulenburg, Panoramafreiheit im Sinne von Commos.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg/400px-2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg/800px-2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg/1200px-2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg/1920px-2016-09-12_Feste_Calenberg,_öffentliche_Infotafel_zur_heutigen_Situation_des_Ortes_in_Schulenburg,_Panoramafreiheit_im_Sinne_von_Commos.jpg
+  Calenberg 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/400px-Calenberg_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/800px-Calenberg_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/1200px-Calenberg_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Calenberg_1.JPG/1920px-Calenberg_1.JPG
+  Calenberg 5.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Calenberg_5.JPG/400px-Calenberg_5.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Calenberg_5.JPG/800px-Calenberg_5.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Calenberg_5.JPG/1200px-Calenberg_5.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Calenberg_5.JPG/1920px-Calenberg_5.JPG
+  Schloss und Ampt Calenberg by Caspar Merian 1654.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg/400px-Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg/800px-Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg/1200px-Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg/1920px-Schloss_und_Ampt_Calenberg_by_Caspar_Merian_1654.jpg
+  Wallanlagen von Alt Calenberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wallanlagen_von_Alt_Calenberg.jpg/400px-Wallanlagen_von_Alt_Calenberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wallanlagen_von_Alt_Calenberg.jpg/800px-Wallanlagen_von_Alt_Calenberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wallanlagen_von_Alt_Calenberg.jpg/1200px-Wallanlagen_von_Alt_Calenberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wallanlagen_von_Alt_Calenberg.jpg/1920px-Wallanlagen_von_Alt_Calenberg.jpg
 ---
 
 ## Overview

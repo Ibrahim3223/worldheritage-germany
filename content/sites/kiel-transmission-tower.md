@@ -13,7 +13,7 @@ regions:
 latitude: 54.300555555
 longitude: 10.118333333
 images:
-  - "/images-sites/kiel-transmission-tower/01-d84e43bc-800w.webp"
+  - "/images/kiel-transmission-tower/01-d84e43bc-800w.webp"
 ---
 
 ## Overview

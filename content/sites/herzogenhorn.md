@@ -1,19 +1,49 @@
 ---
-title: "Herzogenhorn"
+title: Herzogenhorn
 date: 2026-01-23
 draft: false
-description: "mountain"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mountain"
+description: mountain
+region: Germany
+country: Germany
+heritage_type: Mountain
 categories:
-  - "Mountain"
+- Mountain
 regions:
-  - "Germany"
+- Germany
 latitude: 47.835
 longitude: 8.019444444
 images:
-  - "/images-sites/herzogenhorn/01-bbfd7509-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fernsicht_vom_Herzogenhorn.jpg/1200px-Fernsicht_vom_Herzogenhorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Herzogenhorn_von_Südosten.jpg/1200px-Herzogenhorn_von_Südosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg/1200px-Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gipfelkreuz_Herzogenhorn_P1205628.jpg/1200px-Gipfelkreuz_Herzogenhorn_P1205628.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Blick_aufs_Herzogenhorn_010706.JPG/1200px-Blick_aufs_Herzogenhorn_010706.JPG
+image_srcset:
+  Fernsicht vom Herzogenhorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fernsicht_vom_Herzogenhorn.jpg/400px-Fernsicht_vom_Herzogenhorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fernsicht_vom_Herzogenhorn.jpg/800px-Fernsicht_vom_Herzogenhorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fernsicht_vom_Herzogenhorn.jpg/1200px-Fernsicht_vom_Herzogenhorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fernsicht_vom_Herzogenhorn.jpg/1920px-Fernsicht_vom_Herzogenhorn.jpg
+  Herzogenhorn von Südosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Herzogenhorn_von_Südosten.jpg/400px-Herzogenhorn_von_Südosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Herzogenhorn_von_Südosten.jpg/800px-Herzogenhorn_von_Südosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Herzogenhorn_von_Südosten.jpg/1200px-Herzogenhorn_von_Südosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Herzogenhorn_von_Südosten.jpg/1920px-Herzogenhorn_von_Südosten.jpg
+  Blick vom Kleinen Spießhorn zum Herzogenhorn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg/400px-Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg/800px-Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg/1200px-Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg/1920px-Blick_vom_Kleinen_Spießhorn_zum_Herzogenhorn.jpg
+  Gipfelkreuz Herzogenhorn P1205628.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gipfelkreuz_Herzogenhorn_P1205628.jpg/400px-Gipfelkreuz_Herzogenhorn_P1205628.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gipfelkreuz_Herzogenhorn_P1205628.jpg/800px-Gipfelkreuz_Herzogenhorn_P1205628.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gipfelkreuz_Herzogenhorn_P1205628.jpg/1200px-Gipfelkreuz_Herzogenhorn_P1205628.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gipfelkreuz_Herzogenhorn_P1205628.jpg/1920px-Gipfelkreuz_Herzogenhorn_P1205628.jpg
+  Blick aufs Herzogenhorn 010706.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Blick_aufs_Herzogenhorn_010706.JPG/400px-Blick_aufs_Herzogenhorn_010706.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Blick_aufs_Herzogenhorn_010706.JPG/800px-Blick_aufs_Herzogenhorn_010706.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Blick_aufs_Herzogenhorn_010706.JPG/1200px-Blick_aufs_Herzogenhorn_010706.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Blick_aufs_Herzogenhorn_010706.JPG/1920px-Blick_aufs_Herzogenhorn_010706.JPG
 ---
 
 ## Overview

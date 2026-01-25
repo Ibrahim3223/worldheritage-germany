@@ -13,7 +13,7 @@ regions:
 latitude: 47.6119
 longitude: 12.0197
 images:
-  - "/images-sites/ursprung-pass/01-ac12a1de-800w.webp"
+  - "/images/ursprung-pass/01-ac12a1de-800w.webp"
 ---
 
 ## Overview

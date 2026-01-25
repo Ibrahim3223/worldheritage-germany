@@ -1,19 +1,49 @@
 ---
-title: "Goslarer Museum"
+title: Goslarer Museum
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.904589
 longitude: 10.429566
 images:
-  - "/images-sites/goslarer-museum/01-3371fcf3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goslar_Goslarer_Museum_from_the_north.jpg/1200px-Goslar_Goslarer_Museum_from_the_north.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Goslar_Goslarer_Museum_from_the_river.jpg/1200px-Goslar_Goslarer_Museum_from_the_river.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Goslar_Königstraße.jpg/1200px-Goslar_Königstraße.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/1200px-Goslarer_Museum_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goslar,_Germany_-_panoramio_(9).jpg/1200px-Goslar,_Germany_-_panoramio_(9).jpg
+image_srcset:
+  Goslar Goslarer Museum from the north.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goslar_Goslarer_Museum_from_the_north.jpg/400px-Goslar_Goslarer_Museum_from_the_north.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goslar_Goslarer_Museum_from_the_north.jpg/800px-Goslar_Goslarer_Museum_from_the_north.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goslar_Goslarer_Museum_from_the_north.jpg/1200px-Goslar_Goslarer_Museum_from_the_north.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goslar_Goslarer_Museum_from_the_north.jpg/1920px-Goslar_Goslarer_Museum_from_the_north.jpg
+  Goslar Goslarer Museum from the river.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Goslar_Goslarer_Museum_from_the_river.jpg/400px-Goslar_Goslarer_Museum_from_the_river.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Goslar_Goslarer_Museum_from_the_river.jpg/800px-Goslar_Goslarer_Museum_from_the_river.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Goslar_Goslarer_Museum_from_the_river.jpg/1200px-Goslar_Goslarer_Museum_from_the_river.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Goslar_Goslarer_Museum_from_the_river.jpg/1920px-Goslar_Goslarer_Museum_from_the_river.jpg
+  Goslar Königstraße.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Goslar_Königstraße.jpg/400px-Goslar_Königstraße.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Goslar_Königstraße.jpg/800px-Goslar_Königstraße.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Goslar_Königstraße.jpg/1200px-Goslar_Königstraße.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Goslar_Königstraße.jpg/1920px-Goslar_Königstraße.jpg
+  Goslarer Museum 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/400px-Goslarer_Museum_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/800px-Goslarer_Museum_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/1200px-Goslarer_Museum_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Goslarer_Museum_03.jpg/1920px-Goslarer_Museum_03.jpg
+  Goslar, Germany - panoramio (9).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goslar,_Germany_-_panoramio_(9).jpg/400px-Goslar,_Germany_-_panoramio_(9).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goslar,_Germany_-_panoramio_(9).jpg/800px-Goslar,_Germany_-_panoramio_(9).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goslar,_Germany_-_panoramio_(9).jpg/1200px-Goslar,_Germany_-_panoramio_(9).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Goslar,_Germany_-_panoramio_(9).jpg/1920px-Goslar,_Germany_-_panoramio_(9).jpg
 ---
 
 ## Overview

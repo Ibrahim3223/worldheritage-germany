@@ -13,7 +13,7 @@ regions:
 latitude: 49.40977
 longitude: 8.688748
 images:
-  - "/images-sites/sammlung-prinzhorn/01-8d5a17b2-800w.webp"
+  - "/images/sammlung-prinzhorn/01-8d5a17b2-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.488888888
 longitude: 13.380555555
 images:
-  - "/images-sites/viktoriapark/01-3bd276be-800w.webp"
-  - "/images-sites/viktoriapark/02-ac535157-800w.webp"
-  - "/images-sites/viktoriapark/03-558f987e-800w.webp"
+  - "/images/viktoriapark/01-3bd276be-800w.webp"
+  - "/images/viktoriapark/02-ac535157-800w.webp"
+  - "/images/viktoriapark/03-558f987e-800w.webp"
 ---
 
 ## Overview

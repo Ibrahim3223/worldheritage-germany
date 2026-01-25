@@ -1,21 +1,49 @@
 ---
-title: "Flohburg"
+title: Flohburg
 date: 2026-01-23
 draft: false
-description: "museum in Nordhausen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Nordhausen, Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.50466156
 longitude: 10.79213905
 images:
-  - "/images-sites/flohburg/01-84854919-800w.webp"
-  - "/images-sites/flohburg/02-171e5f0c-800w.webp"
-  - "/images-sites/flohburg/03-cdabea09-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nordhausen,_Barfüßerstraße_6_20170510_003.jpg/1200px-Nordhausen,_Barfüßerstraße_6_20170510_003.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg/1200px-Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1200px-NDH-Flohburg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schnapsdrossel_(Museum_Nordhausen).jpg/1200px-Schnapsdrossel_(Museum_Nordhausen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flohburg.jpg/1200px-Flohburg.jpg
+image_srcset:
+  Nordhausen, Barfüßerstraße 6 20170510 003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nordhausen,_Barfüßerstraße_6_20170510_003.jpg/400px-Nordhausen,_Barfüßerstraße_6_20170510_003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nordhausen,_Barfüßerstraße_6_20170510_003.jpg/800px-Nordhausen,_Barfüßerstraße_6_20170510_003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nordhausen,_Barfüßerstraße_6_20170510_003.jpg/1200px-Nordhausen,_Barfüßerstraße_6_20170510_003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nordhausen,_Barfüßerstraße_6_20170510_003.jpg/1920px-Nordhausen,_Barfüßerstraße_6_20170510_003.jpg
+  Naturschutzgebiet Mittleres Innerstetal mit Kanstein - Derneburg - Alte Mühle (12).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg/400px-Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg/800px-Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg/1200px-Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg/1920px-Naturschutzgebiet_Mittleres_Innerstetal_mit_Kanstein_-_Derneburg_-_Alte_Mühle_(12).jpg
+  NDH-Flohburg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/400px-NDH-Flohburg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/800px-NDH-Flohburg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1200px-NDH-Flohburg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NDH-Flohburg.JPG/1920px-NDH-Flohburg.JPG
+  Schnapsdrossel (Museum Nordhausen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schnapsdrossel_(Museum_Nordhausen).jpg/400px-Schnapsdrossel_(Museum_Nordhausen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schnapsdrossel_(Museum_Nordhausen).jpg/800px-Schnapsdrossel_(Museum_Nordhausen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schnapsdrossel_(Museum_Nordhausen).jpg/1200px-Schnapsdrossel_(Museum_Nordhausen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Schnapsdrossel_(Museum_Nordhausen).jpg/1920px-Schnapsdrossel_(Museum_Nordhausen).jpg
+  Flohburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flohburg.jpg/400px-Flohburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flohburg.jpg/800px-Flohburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flohburg.jpg/1200px-Flohburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flohburg.jpg/1920px-Flohburg.jpg
 ---
 
 ## Overview

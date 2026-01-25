@@ -1,29 +1,49 @@
 ---
-title: "Burg Rabenstein"
+title: Burg Rabenstein
 date: 2026-01-23
 draft: false
-description: "castle in Chemnitz, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Chemnitz, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.8331
 longitude: 12.8182
-
-# Images
 images:
-  - "/images-sites/burg-rabenstein/01-adc2f0b8-800w.webp"
-  - "/images-sites/burg-rabenstein/02-9edbe216-800w.webp"
-  - "/images-sites/burg-rabenstein/03-78c78151-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Rabenstein-20210213-RM-155509.jpg/1200px-Burg_Rabenstein-20210213-RM-155509.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/1200px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg-Rabenstein_2021-02-28_05.jpg/1200px-Burg-Rabenstein_2021-02-28_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg-Rabenstein_2021-02-28_06.jpg/1200px-Burg-Rabenstein_2021-02-28_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/1200px-Aerial_image_of_the_Castle_Rabenstein.jpg
+image_srcset:
+  Burg Rabenstein-20210213-RM-155509.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Rabenstein-20210213-RM-155509.jpg/400px-Burg_Rabenstein-20210213-RM-155509.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Rabenstein-20210213-RM-155509.jpg/800px-Burg_Rabenstein-20210213-RM-155509.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Rabenstein-20210213-RM-155509.jpg/1200px-Burg_Rabenstein-20210213-RM-155509.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Burg_Rabenstein-20210213-RM-155509.jpg/1920px-Burg_Rabenstein-20210213-RM-155509.jpg
+  Burg-Rabenstein-Ailsbachtal-P1290149.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/400px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/800px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/1200px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Burg-Rabenstein-Ailsbachtal-P1290149.jpg/1920px-Burg-Rabenstein-Ailsbachtal-P1290149.jpg
+  Burg-Rabenstein 2021-02-28 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg-Rabenstein_2021-02-28_05.jpg/400px-Burg-Rabenstein_2021-02-28_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg-Rabenstein_2021-02-28_05.jpg/800px-Burg-Rabenstein_2021-02-28_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg-Rabenstein_2021-02-28_05.jpg/1200px-Burg-Rabenstein_2021-02-28_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Burg-Rabenstein_2021-02-28_05.jpg/1920px-Burg-Rabenstein_2021-02-28_05.jpg
+  Burg-Rabenstein 2021-02-28 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg-Rabenstein_2021-02-28_06.jpg/400px-Burg-Rabenstein_2021-02-28_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg-Rabenstein_2021-02-28_06.jpg/800px-Burg-Rabenstein_2021-02-28_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg-Rabenstein_2021-02-28_06.jpg/1200px-Burg-Rabenstein_2021-02-28_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg-Rabenstein_2021-02-28_06.jpg/1920px-Burg-Rabenstein_2021-02-28_06.jpg
+  Aerial image of the Castle Rabenstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/400px-Aerial_image_of_the_Castle_Rabenstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/800px-Aerial_image_of_the_Castle_Rabenstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/1200px-Aerial_image_of_the_Castle_Rabenstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_image_of_the_Castle_Rabenstein.jpg/1920px-Aerial_image_of_the_Castle_Rabenstein.jpg
 ---
 
 ## Overview

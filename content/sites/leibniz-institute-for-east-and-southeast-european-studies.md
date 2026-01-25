@@ -21,7 +21,7 @@ longitude: 12.102857
 
 # Images
 images:
-  - "/images-sites/leibniz-institute-for-east-and-southeast-european-studies/01-becb195d-800w.webp"
+  - "/images/leibniz-institute-for-east-and-southeast-european-studies/01-becb195d-800w.webp"
 ---
 
 ## Overview

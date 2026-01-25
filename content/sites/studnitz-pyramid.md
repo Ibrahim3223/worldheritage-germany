@@ -13,7 +13,7 @@ regions:
 latitude: 50.9453
 longitude: 10.7008
 images:
-  - "/images-sites/studnitz-pyramid/01-3145ebf3-800w.webp"
+  - "/images/studnitz-pyramid/01-3145ebf3-800w.webp"
 ---
 
 ## Overview

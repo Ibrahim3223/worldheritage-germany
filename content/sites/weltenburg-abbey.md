@@ -21,7 +21,7 @@ longitude: 11.820388888
 
 # Images
 images:
-  - "/images-sites/weltenburg-abbey/01-a6361b24-800w.webp"
+  - "/images/weltenburg-abbey/01-a6361b24-800w.webp"
 ---
 
 ## Overview

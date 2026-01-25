@@ -1,23 +1,50 @@
 ---
-title: "Church of Reconciliation"
-site_name: "Church of Reconciliation"
-slug: "church-of-reconciliation"
-region: "Brandenburg"
-
-# Location
+title: Church of Reconciliation
+site_name: Church of Reconciliation
+slug: church-of-reconciliation
+region: Brandenburg
 latitude: 51.3719
 longitude: 12.3686
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q2518493"
-description: "The Church of Reconciliation in Leipzig, Germany, stands as a remarkable example of modern architecture, reflecting the evolving spiritual needs of its ..."
+- cultural site
+wikidata_id: Q2518493
+description: The Church of Reconciliation in Leipzig, Germany, stands as a remarkable
+  example of modern architecture, reflecting the evolving spiritual needs of its ...
 images:
-  - "/images-sites/church-of-reconciliation/01-8da1d8b5-1920w.webp"
-  - "/images-sites/church-of-reconciliation/02-976950b4-1920w.webp"
-  - "/images-sites/church-of-reconciliation/03-ed03abb2-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Versoehnungskirche%20Leipzig-Gohlis%202006.jpg/1200px-Versoehnungskirche%20Leipzig-Gohlis%202006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Versoehnungskirche%20Leipzig%20Gohlis.jpg/1200px-Versoehnungskirche%20Leipzig%20Gohlis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg/1200px-Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/POL_WIeszczęta_Kościół_Pojednania_2.JPG/1200px-POL_WIeszczęta_Kościół_Pojednania_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wieszczęta,_droga_i_kościół.jpg/1200px-Wieszczęta,_droga_i_kościół.jpg
+image_srcset:
+  Versoehnungskirche%20Leipzig-Gohlis%202006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Versoehnungskirche%20Leipzig-Gohlis%202006.jpg/400px-Versoehnungskirche%20Leipzig-Gohlis%202006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Versoehnungskirche%20Leipzig-Gohlis%202006.jpg/800px-Versoehnungskirche%20Leipzig-Gohlis%202006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Versoehnungskirche%20Leipzig-Gohlis%202006.jpg/1200px-Versoehnungskirche%20Leipzig-Gohlis%202006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Versoehnungskirche%20Leipzig-Gohlis%202006.jpg/1920px-Versoehnungskirche%20Leipzig-Gohlis%202006.jpg
+  Versoehnungskirche%20Leipzig%20Gohlis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Versoehnungskirche%20Leipzig%20Gohlis.jpg/400px-Versoehnungskirche%20Leipzig%20Gohlis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Versoehnungskirche%20Leipzig%20Gohlis.jpg/800px-Versoehnungskirche%20Leipzig%20Gohlis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Versoehnungskirche%20Leipzig%20Gohlis.jpg/1200px-Versoehnungskirche%20Leipzig%20Gohlis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Versoehnungskirche%20Leipzig%20Gohlis.jpg/1920px-Versoehnungskirche%20Leipzig%20Gohlis.jpg
+  Iglesia Metodista La Reconciliación (Estación Central).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg/400px-Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg/800px-Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg/1200px-Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg/1920px-Iglesia_Metodista_La_Reconciliación_(Estación_Central).jpg
+  POL WIeszczęta Kościół Pojednania 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/POL_WIeszczęta_Kościół_Pojednania_2.JPG/400px-POL_WIeszczęta_Kościół_Pojednania_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/POL_WIeszczęta_Kościół_Pojednania_2.JPG/800px-POL_WIeszczęta_Kościół_Pojednania_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/POL_WIeszczęta_Kościół_Pojednania_2.JPG/1200px-POL_WIeszczęta_Kościół_Pojednania_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/POL_WIeszczęta_Kościół_Pojednania_2.JPG/1920px-POL_WIeszczęta_Kościół_Pojednania_2.JPG
+  Wieszczęta, droga i kościół.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wieszczęta,_droga_i_kościół.jpg/400px-Wieszczęta,_droga_i_kościół.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wieszczęta,_droga_i_kościół.jpg/800px-Wieszczęta,_droga_i_kościół.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wieszczęta,_droga_i_kościół.jpg/1200px-Wieszczęta,_droga_i_kościół.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wieszczęta,_droga_i_kościół.jpg/1920px-Wieszczęta,_droga_i_kościół.jpg
 ---
 
 ## Overview

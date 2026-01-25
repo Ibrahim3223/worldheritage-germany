@@ -1,19 +1,50 @@
 ---
-title: "Bürgerturm"
+title: Bürgerturm
 date: 2026-01-24
 draft: false
-description: "house in Freising (Germany). Former watchtower of the medieval town fortification, then prison and poorhouse, four-storey with single-axis fenestratio"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: house in Freising (Germany). Former watchtower of the medieval town fortification,
+  then prison and poorhouse, four-storey with single-axis fenestratio
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 48.4028
 longitude: 11.7465
 images:
-  - "/images-sites/buergerturm/01-cb1c61e8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bürgerturm_(Freising)_2.jpg/1200px-Bürgerturm_(Freising)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bürgerturm_Freising_Eingang.jpg/1200px-Bürgerturm_Freising_Eingang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bürgerturm_Freising_2.jpg/1200px-Bürgerturm_Freising_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bürgerturm_freising_(merian).png/1200px-Bürgerturm_freising_(merian).png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/1200px-Bürgerturm_Freising.JPG
+image_srcset:
+  Bürgerturm (Freising) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bürgerturm_(Freising)_2.jpg/400px-Bürgerturm_(Freising)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bürgerturm_(Freising)_2.jpg/800px-Bürgerturm_(Freising)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bürgerturm_(Freising)_2.jpg/1200px-Bürgerturm_(Freising)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bürgerturm_(Freising)_2.jpg/1920px-Bürgerturm_(Freising)_2.jpg
+  Bürgerturm Freising Eingang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bürgerturm_Freising_Eingang.jpg/400px-Bürgerturm_Freising_Eingang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bürgerturm_Freising_Eingang.jpg/800px-Bürgerturm_Freising_Eingang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bürgerturm_Freising_Eingang.jpg/1200px-Bürgerturm_Freising_Eingang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bürgerturm_Freising_Eingang.jpg/1920px-Bürgerturm_Freising_Eingang.jpg
+  Bürgerturm Freising 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bürgerturm_Freising_2.jpg/400px-Bürgerturm_Freising_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bürgerturm_Freising_2.jpg/800px-Bürgerturm_Freising_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bürgerturm_Freising_2.jpg/1200px-Bürgerturm_Freising_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bürgerturm_Freising_2.jpg/1920px-Bürgerturm_Freising_2.jpg
+  Bürgerturm freising (merian).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bürgerturm_freising_(merian).png/400px-Bürgerturm_freising_(merian).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bürgerturm_freising_(merian).png/800px-Bürgerturm_freising_(merian).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bürgerturm_freising_(merian).png/1200px-Bürgerturm_freising_(merian).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bürgerturm_freising_(merian).png/1920px-Bürgerturm_freising_(merian).png
+  Bürgerturm Freising.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/400px-Bürgerturm_Freising.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/800px-Bürgerturm_Freising.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/1200px-Bürgerturm_Freising.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bürgerturm_Freising.JPG/1920px-Bürgerturm_Freising.JPG
 ---
 
 ## Overview

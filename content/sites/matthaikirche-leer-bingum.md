@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q568427"
 description: "Matthäikirche in Leer-Bingum is a captivating church building that invites visitors to explore its rich historical and architectural significance. This ..."
 images:
-  - "/images-sites/matthaikirche-leer-bingum/01-239fbb46-1920w.webp"
-  - "/images-sites/matthaikirche-leer-bingum/02-58ae7d71-1920w.webp"
-  - "/images-sites/matthaikirche-leer-bingum/03-4886468b-1920w.webp"
+  - "/images/matthaikirche-leer-bingum/01-239fbb46-1920w.webp"
+  - "/images/matthaikirche-leer-bingum/02-58ae7d71-1920w.webp"
+  - "/images/matthaikirche-leer-bingum/03-4886468b-1920w.webp"
 ---
 
 ## Overview

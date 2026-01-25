@@ -1,24 +1,46 @@
 ---
-title: "Bartholomäuskirche Ilsfeld"
-site_name: "Bartholomäuskirche Ilsfeld"
-slug: "bartholomauskirche-ilsfeld"
-region: "Baden-Württemberg"
-
-# Location
+title: Bartholomäuskirche Ilsfeld
+site_name: Bartholomäuskirche Ilsfeld
+slug: bartholomauskirche-ilsfeld
+region: Baden-Württemberg
 latitude: 49.0554
 longitude: 9.24535
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q809401"
-description: "In the heart of Ilsfeld, a quaint village in the Heilbronn district of Baden-Württemberg, Germany, stands the Bartholomäuskirche, a striking example of ..."
+- church building
+- religious site
+wikidata_id: Q809401
+description: In the heart of Ilsfeld, a quaint village in the Heilbronn district of
+  Baden-Württemberg, Germany, stands the Bartholomäuskirche, a striking example of
+  ...
 images:
-  - "/images-sites/bartholomauskirche-ilsfeld/01-dfa9cde7-1920w.webp"
-  - "/images-sites/bartholomauskirche-ilsfeld/02-9b10a81f-1920w.webp"
-  - "/images-sites/bartholomauskirche-ilsfeld/03-fd12575f-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1200px-IlsfeldBartholomaeuskirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bartholomäuskirche_Ilsfeld_0133.jpg/1200px-Bartholomäuskirche_Ilsfeld_0133.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirchstrasse3Ilsfeld2024_1.jpg/1200px-Kirchstrasse3Ilsfeld2024_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BartholomäuskircheIlsfeld2023_9.jpg/1200px-BartholomäuskircheIlsfeld2023_9.jpg
+image_srcset:
+  IlsfeldBartholomaeuskirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/400px-IlsfeldBartholomaeuskirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/800px-IlsfeldBartholomaeuskirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1200px-IlsfeldBartholomaeuskirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/IlsfeldBartholomaeuskirche.jpg/1920px-IlsfeldBartholomaeuskirche.jpg
+  Bartholomäuskirche Ilsfeld 0133.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bartholomäuskirche_Ilsfeld_0133.jpg/400px-Bartholomäuskirche_Ilsfeld_0133.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bartholomäuskirche_Ilsfeld_0133.jpg/800px-Bartholomäuskirche_Ilsfeld_0133.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bartholomäuskirche_Ilsfeld_0133.jpg/1200px-Bartholomäuskirche_Ilsfeld_0133.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bartholomäuskirche_Ilsfeld_0133.jpg/1920px-Bartholomäuskirche_Ilsfeld_0133.jpg
+  Kirchstrasse3Ilsfeld2024 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirchstrasse3Ilsfeld2024_1.jpg/400px-Kirchstrasse3Ilsfeld2024_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirchstrasse3Ilsfeld2024_1.jpg/800px-Kirchstrasse3Ilsfeld2024_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirchstrasse3Ilsfeld2024_1.jpg/1200px-Kirchstrasse3Ilsfeld2024_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirchstrasse3Ilsfeld2024_1.jpg/1920px-Kirchstrasse3Ilsfeld2024_1.jpg
+  BartholomäuskircheIlsfeld2023 9.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BartholomäuskircheIlsfeld2023_9.jpg/400px-BartholomäuskircheIlsfeld2023_9.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BartholomäuskircheIlsfeld2023_9.jpg/800px-BartholomäuskircheIlsfeld2023_9.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BartholomäuskircheIlsfeld2023_9.jpg/1200px-BartholomäuskircheIlsfeld2023_9.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BartholomäuskircheIlsfeld2023_9.jpg/1920px-BartholomäuskircheIlsfeld2023_9.jpg
 ---
 
 ## Overview

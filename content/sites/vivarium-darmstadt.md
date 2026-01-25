@@ -13,7 +13,7 @@ regions:
 latitude: 49.8664
 longitude: 8.68278
 images:
-  - "/images-sites/vivarium-darmstadt/01-b2c091eb-800w.webp"
+  - "/images/vivarium-darmstadt/01-b2c091eb-800w.webp"
 ---
 
 ## Overview

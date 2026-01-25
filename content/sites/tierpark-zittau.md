@@ -13,9 +13,9 @@ regions:
 latitude: 50.9014
 longitude: 14.8325
 images:
-  - "/images-sites/tierpark-zittau/01-f3cceb86-800w.webp"
-  - "/images-sites/tierpark-zittau/02-cb60052f-800w.webp"
-  - "/images-sites/tierpark-zittau/03-b7673e15-800w.webp"
+  - "/images/tierpark-zittau/01-f3cceb86-800w.webp"
+  - "/images/tierpark-zittau/02-cb60052f-800w.webp"
+  - "/images/tierpark-zittau/03-b7673e15-800w.webp"
 ---
 
 ## Overview

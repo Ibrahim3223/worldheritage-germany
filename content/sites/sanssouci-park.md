@@ -13,7 +13,7 @@ regions:
 latitude: 52.402
 longitude: 13.0336
 images:
-  - "/images-sites/sanssouci-park/01-42d7584c-800w.webp"
+  - "/images/sanssouci-park/01-42d7584c-800w.webp"
 ---
 
 ## Overview

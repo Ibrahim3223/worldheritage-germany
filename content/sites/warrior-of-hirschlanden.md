@@ -13,7 +13,7 @@ regions:
 latitude: 48.833055555
 longitude: 9.011111111
 images:
-  - "/images-sites/warrior-of-hirschlanden/01-32117300-800w.webp"
+  - "/images/warrior-of-hirschlanden/01-32117300-800w.webp"
 ---
 
 ## Overview

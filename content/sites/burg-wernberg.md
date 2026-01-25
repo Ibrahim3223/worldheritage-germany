@@ -1,29 +1,49 @@
 ---
-title: "Burg Wernberg"
+title: Burg Wernberg
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.539187634
 longitude: 12.165876368
-
-# Images
 images:
-  - "/images-sites/burg-wernberg/01-34e68a08-800w.webp"
-  - "/images-sites/burg-wernberg/02-db4dd2b9-800w.webp"
-  - "/images-sites/burg-wernberg/03-547f2170-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Wernberg_-_SAD_007.jpg/1200px-Burg_Wernberg_-_SAD_007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Wernberg_-_SAD_012.jpg/1200px-Burg_Wernberg_-_SAD_012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Wernberg_-_SAD_019.jpg/1200px-Burg_Wernberg_-_SAD_019.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Wernberg_2011_01.jpg/1200px-Burg_Wernberg_2011_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg
+image_srcset:
+  Burg Wernberg - SAD 007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Wernberg_-_SAD_007.jpg/400px-Burg_Wernberg_-_SAD_007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Wernberg_-_SAD_007.jpg/800px-Burg_Wernberg_-_SAD_007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Wernberg_-_SAD_007.jpg/1200px-Burg_Wernberg_-_SAD_007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Burg_Wernberg_-_SAD_007.jpg/1920px-Burg_Wernberg_-_SAD_007.jpg
+  Burg Wernberg - SAD 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Wernberg_-_SAD_012.jpg/400px-Burg_Wernberg_-_SAD_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Wernberg_-_SAD_012.jpg/800px-Burg_Wernberg_-_SAD_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Wernberg_-_SAD_012.jpg/1200px-Burg_Wernberg_-_SAD_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Burg_Wernberg_-_SAD_012.jpg/1920px-Burg_Wernberg_-_SAD_012.jpg
+  Burg Wernberg - SAD 019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Wernberg_-_SAD_019.jpg/400px-Burg_Wernberg_-_SAD_019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Wernberg_-_SAD_019.jpg/800px-Burg_Wernberg_-_SAD_019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Wernberg_-_SAD_019.jpg/1200px-Burg_Wernberg_-_SAD_019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burg_Wernberg_-_SAD_019.jpg/1920px-Burg_Wernberg_-_SAD_019.jpg
+  Burg Wernberg 2011 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Wernberg_2011_01.jpg/400px-Burg_Wernberg_2011_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Wernberg_2011_01.jpg/800px-Burg_Wernberg_2011_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Wernberg_2011_01.jpg/1200px-Burg_Wernberg_2011_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Burg_Wernberg_2011_01.jpg/1920px-Burg_Wernberg_2011_01.jpg
+  Aerial image of the Burg Wernberg (view from the south).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg/400px-Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg/800px-Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg/1200px-Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg/1920px-Aerial_image_of_the_Burg_Wernberg_(view_from_the_south).jpg
 ---
 
 ## Overview

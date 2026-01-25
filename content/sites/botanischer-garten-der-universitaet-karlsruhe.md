@@ -1,29 +1,49 @@
 ---
-title: "Botanischer Garten der Universität Karlsruhe"
+title: Botanischer Garten der Universität Karlsruhe
 date: 2026-01-23
 draft: false
-description: "garden in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: garden in Germany
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.0129
 longitude: 8.4191
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-universitaet-karlsruhe/01-6250041d-800w.webp"
-  - "/images-sites/botanischer-garten-der-universitaet-karlsruhe/02-9ba01e98-800w.webp"
-  - "/images-sites/botanischer-garten-der-universitaet-karlsruhe/03-8c6d4ca1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Achillea_nobilis_001.JPG/1200px-Achillea_nobilis_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Allium_cepa_viviparum_003.JPG/1200px-Allium_cepa_viviparum_003.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camellia_japonica_002.JPG/1200px-Camellia_japonica_002.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Achillea_clypeolata_001.JPG/1200px-Achillea_clypeolata_001.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cylindropuntia_imbricata_02.JPG/1200px-Cylindropuntia_imbricata_02.JPG
+image_srcset:
+  Achillea nobilis 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Achillea_nobilis_001.JPG/400px-Achillea_nobilis_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Achillea_nobilis_001.JPG/800px-Achillea_nobilis_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Achillea_nobilis_001.JPG/1200px-Achillea_nobilis_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Achillea_nobilis_001.JPG/1920px-Achillea_nobilis_001.JPG
+  Allium cepa viviparum 003.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Allium_cepa_viviparum_003.JPG/400px-Allium_cepa_viviparum_003.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Allium_cepa_viviparum_003.JPG/800px-Allium_cepa_viviparum_003.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Allium_cepa_viviparum_003.JPG/1200px-Allium_cepa_viviparum_003.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Allium_cepa_viviparum_003.JPG/1920px-Allium_cepa_viviparum_003.JPG
+  Camellia japonica 002.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camellia_japonica_002.JPG/400px-Camellia_japonica_002.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camellia_japonica_002.JPG/800px-Camellia_japonica_002.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camellia_japonica_002.JPG/1200px-Camellia_japonica_002.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camellia_japonica_002.JPG/1920px-Camellia_japonica_002.JPG
+  Achillea clypeolata 001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Achillea_clypeolata_001.JPG/400px-Achillea_clypeolata_001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Achillea_clypeolata_001.JPG/800px-Achillea_clypeolata_001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Achillea_clypeolata_001.JPG/1200px-Achillea_clypeolata_001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Achillea_clypeolata_001.JPG/1920px-Achillea_clypeolata_001.JPG
+  Cylindropuntia imbricata 02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cylindropuntia_imbricata_02.JPG/400px-Cylindropuntia_imbricata_02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cylindropuntia_imbricata_02.JPG/800px-Cylindropuntia_imbricata_02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cylindropuntia_imbricata_02.JPG/1200px-Cylindropuntia_imbricata_02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cylindropuntia_imbricata_02.JPG/1920px-Cylindropuntia_imbricata_02.JPG
 ---
 
 ## Overview

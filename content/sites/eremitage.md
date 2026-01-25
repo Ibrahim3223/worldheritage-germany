@@ -1,21 +1,49 @@
 ---
-title: "Eremitage"
+title: Eremitage
 date: 2026-01-23
 draft: false
-description: "cultural heritage monument D-4-62-000-392 (0) in Bayreuth, Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: cultural heritage monument D-4-62-000-392 (0) in Bayreuth, Bavaria
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 49.948946898
 longitude: 11.624869274
 images:
-  - "/images-sites/eremitage/01-dbb7861b-800w.webp"
-  - "/images-sites/eremitage/02-f8220293-800w.webp"
-  - "/images-sites/eremitage/03-047ef9e3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/1200px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Hermitage_Palace.jpg/1200px-The_Hermitage_Palace.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eremitageslottet_set_fra_syd-vest_i_januar.jpg/1200px-Eremitageslottet_set_fra_syd-vest_i_januar.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eremitageslottet_set_fra_vest_ved_solopgang.jpg/1200px-Eremitageslottet_set_fra_vest_ved_solopgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eremitageslottet,_1901-1922_(b).jpg/1200px-Eremitageslottet,_1901-1922_(b).jpg
+image_srcset:
+  Aerial image of the Eremitage Bayreuth.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/400px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/800px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/1200px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Aerial_image_of_the_Eremitage_Bayreuth.jpg/1920px-Aerial_image_of_the_Eremitage_Bayreuth.jpg
+  The Hermitage Palace.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Hermitage_Palace.jpg/400px-The_Hermitage_Palace.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Hermitage_Palace.jpg/800px-The_Hermitage_Palace.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Hermitage_Palace.jpg/1200px-The_Hermitage_Palace.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Hermitage_Palace.jpg/1920px-The_Hermitage_Palace.jpg
+  Eremitageslottet set fra syd-vest i januar.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eremitageslottet_set_fra_syd-vest_i_januar.jpg/400px-Eremitageslottet_set_fra_syd-vest_i_januar.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eremitageslottet_set_fra_syd-vest_i_januar.jpg/800px-Eremitageslottet_set_fra_syd-vest_i_januar.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eremitageslottet_set_fra_syd-vest_i_januar.jpg/1200px-Eremitageslottet_set_fra_syd-vest_i_januar.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Eremitageslottet_set_fra_syd-vest_i_januar.jpg/1920px-Eremitageslottet_set_fra_syd-vest_i_januar.jpg
+  Eremitageslottet set fra vest ved solopgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eremitageslottet_set_fra_vest_ved_solopgang.jpg/400px-Eremitageslottet_set_fra_vest_ved_solopgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eremitageslottet_set_fra_vest_ved_solopgang.jpg/800px-Eremitageslottet_set_fra_vest_ved_solopgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eremitageslottet_set_fra_vest_ved_solopgang.jpg/1200px-Eremitageslottet_set_fra_vest_ved_solopgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eremitageslottet_set_fra_vest_ved_solopgang.jpg/1920px-Eremitageslottet_set_fra_vest_ved_solopgang.jpg
+  Eremitageslottet, 1901-1922 (b).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eremitageslottet,_1901-1922_(b).jpg/400px-Eremitageslottet,_1901-1922_(b).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eremitageslottet,_1901-1922_(b).jpg/800px-Eremitageslottet,_1901-1922_(b).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eremitageslottet,_1901-1922_(b).jpg/1200px-Eremitageslottet,_1901-1922_(b).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eremitageslottet,_1901-1922_(b).jpg/1920px-Eremitageslottet,_1901-1922_(b).jpg
 ---
 
 ## Overview

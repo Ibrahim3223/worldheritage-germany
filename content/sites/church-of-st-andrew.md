@@ -1,23 +1,50 @@
 ---
-title: "Church of St. Andrew"
-site_name: "Church of St. Andrew"
-slug: "church-of-st-andrew"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Church of St. Andrew
+site_name: Church of St. Andrew
+slug: church-of-st-andrew
+region: North Rhine-Westphalia
 latitude: 51.2275
 longitude: 6.775278
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q501527"
-description: "In the heart of Düsseldorf, the Church of St. Andrew stands as a striking example of Baroque architecture, captivating visitors with its historical sign..."
+- cultural site
+wikidata_id: Q501527
+description: In the heart of Düsseldorf, the Church of St. Andrew stands as a striking
+  example of Baroque architecture, captivating visitors with its historical sign...
 images:
-  - "/images-sites/church-of-st-andrew/01-674a057c-1920w.webp"
-  - "/images-sites/church-of-st-andrew/02-8fe12518-1920w.webp"
-  - "/images-sites/church-of-st-andrew/03-416f852d-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg/1200px-Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg/1200px-D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dowlish_Wake_church_and_hall.jpg/1200px-Dowlish_Wake_church_and_hall.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg/1200px-Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dowlish_Wake_Church.jpg/1200px-Dowlish_Wake_Church.jpg
+image_srcset:
+  Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg/400px-Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg/800px-Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg/1200px-Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg/1920px-Andreaskirche%20in%20Duesseldorf-Altstadt%2C%20von%20Nordosten.jpg
+  D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg/400px-D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg/800px-D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg/1200px-D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg/1920px-D%C3%BCsseldorf%20St%20Andreas%20v%20O.jpg
+  Dowlish Wake church and hall.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dowlish_Wake_church_and_hall.jpg/400px-Dowlish_Wake_church_and_hall.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dowlish_Wake_church_and_hall.jpg/800px-Dowlish_Wake_church_and_hall.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dowlish_Wake_church_and_hall.jpg/1200px-Dowlish_Wake_church_and_hall.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dowlish_Wake_church_and_hall.jpg/1920px-Dowlish_Wake_church_and_hall.jpg
+  Retablo de la Asunción, Iglesia de San Andrés (Córdoba).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg/400px-Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg/800px-Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg/1200px-Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg/1920px-Retablo_de_la_Asunción,_Iglesia_de_San_Andrés_(Córdoba).jpg
+  Dowlish Wake Church.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dowlish_Wake_Church.jpg/400px-Dowlish_Wake_Church.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dowlish_Wake_Church.jpg/800px-Dowlish_Wake_Church.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dowlish_Wake_Church.jpg/1200px-Dowlish_Wake_Church.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dowlish_Wake_Church.jpg/1920px-Dowlish_Wake_Church.jpg
 ---
 
 ## Overview

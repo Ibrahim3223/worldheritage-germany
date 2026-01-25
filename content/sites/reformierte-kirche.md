@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1750256"
 description: "In the heart of Leer, Germany, the Reformierte Kirche stands as a remarkable example of Romanesque architecture, drawing visitors with its historical si..."
 images:
-  - "/images-sites/reformierte-kirche/01-f9ffe522-1920w.webp"
-  - "/images-sites/reformierte-kirche/02-d2775e0f-1920w.webp"
-  - "/images-sites/reformierte-kirche/03-19711de7-1920w.webp"
+  - "/images/reformierte-kirche/01-f9ffe522-1920w.webp"
+  - "/images/reformierte-kirche/02-d2775e0f-1920w.webp"
+  - "/images/reformierte-kirche/03-19711de7-1920w.webp"
 ---
 
 ## Overview

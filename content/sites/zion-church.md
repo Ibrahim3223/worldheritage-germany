@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q205391"
 description: "Zion Church, a prominent church building in Berlin, stands as a striking example of Romanesque Revival architecture. Its location in the Bezirk Mitte re..."
 images:
-  - "/images-sites/zion-church/01-3193c148-1920w.webp"
-  - "/images-sites/zion-church/02-e13cac0b-1920w.webp"
-  - "/images-sites/zion-church/03-ffdadf86-1920w.webp"
+  - "/images/zion-church/01-3193c148-1920w.webp"
+  - "/images/zion-church/02-e13cac0b-1920w.webp"
+  - "/images/zion-church/03-ffdadf86-1920w.webp"
 ---
 
 ## Overview

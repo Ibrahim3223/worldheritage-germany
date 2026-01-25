@@ -1,27 +1,49 @@
 ---
-title: "Gleiberg Castle"
+title: Gleiberg Castle
 date: 2026-01-23
 draft: false
-description: "castle ruins in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruins in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.615
 longitude: 8.63472
-
-# Images
 images:
-  - "/images-sites/gleiberg-castle/01-acd7a0ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg/1200px-Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg_Gleiberg_von_Nordwesten.jpg/1200px-Burg_Gleiberg_von_Nordwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Gleiberg_von_Süden.jpg/1200px-Burg_Gleiberg_von_Süden.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/1200px-Burg.Gleiberg.06.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gleiberg_von_Westen.jpg/1200px-Gleiberg_von_Westen.jpg
+image_srcset:
+  Burg Gleiberg - Merenberger Bau und Bergfried.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg/400px-Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg/800px-Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg/1200px-Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg/1920px-Burg_Gleiberg_-_Merenberger_Bau_und_Bergfried.jpg
+  Burg Gleiberg von Nordwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg_Gleiberg_von_Nordwesten.jpg/400px-Burg_Gleiberg_von_Nordwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg_Gleiberg_von_Nordwesten.jpg/800px-Burg_Gleiberg_von_Nordwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg_Gleiberg_von_Nordwesten.jpg/1200px-Burg_Gleiberg_von_Nordwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Burg_Gleiberg_von_Nordwesten.jpg/1920px-Burg_Gleiberg_von_Nordwesten.jpg
+  Burg Gleiberg von Süden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Gleiberg_von_Süden.jpg/400px-Burg_Gleiberg_von_Süden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Gleiberg_von_Süden.jpg/800px-Burg_Gleiberg_von_Süden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Gleiberg_von_Süden.jpg/1200px-Burg_Gleiberg_von_Süden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Burg_Gleiberg_von_Süden.jpg/1920px-Burg_Gleiberg_von_Süden.jpg
+  Burg.Gleiberg.06.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/400px-Burg.Gleiberg.06.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/800px-Burg.Gleiberg.06.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/1200px-Burg.Gleiberg.06.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg.Gleiberg.06.JPG/1920px-Burg.Gleiberg.06.JPG
+  Gleiberg von Westen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gleiberg_von_Westen.jpg/400px-Gleiberg_von_Westen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gleiberg_von_Westen.jpg/800px-Gleiberg_von_Westen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gleiberg_von_Westen.jpg/1200px-Gleiberg_von_Westen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gleiberg_von_Westen.jpg/1920px-Gleiberg_von_Westen.jpg
 ---
 
 ## Overview

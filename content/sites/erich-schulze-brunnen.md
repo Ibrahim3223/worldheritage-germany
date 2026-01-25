@@ -1,21 +1,49 @@
 ---
-title: "Erich-Schulze-Brunnen"
+title: Erich-Schulze-Brunnen
 date: 2026-01-23
 draft: false
-description: "fountain in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Fountain"
+description: fountain in Germany
+region: Germany
+country: Germany
+heritage_type: Fountain
 categories:
-  - "Fountain"
+- Fountain
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1308
 longitude: 11.5922
 images:
-  - "/images-sites/erich-schulze-brunnen/01-76c5f6fd-800w.webp"
-  - "/images-sites/erich-schulze-brunnen/02-51bc9e0e-800w.webp"
-  - "/images-sites/erich-schulze-brunnen/03-77c1a5ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Georg-Elser-Bodenplatte_im_Gasteig.jpg/1200px-Georg-Elser-Bodenplatte_im_Gasteig.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Erich-Schulze-Brunnen_Muenchen_Hupe.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_Hupe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Erich-Schulze-Brunnen_Muenchen_2.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Georg_Elser_Bodendenkmal.jpg/1200px-Georg_Elser_Bodendenkmal.jpg
+image_srcset:
+  Georg-Elser-Bodenplatte im Gasteig.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Georg-Elser-Bodenplatte_im_Gasteig.jpg/400px-Georg-Elser-Bodenplatte_im_Gasteig.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Georg-Elser-Bodenplatte_im_Gasteig.jpg/800px-Georg-Elser-Bodenplatte_im_Gasteig.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Georg-Elser-Bodenplatte_im_Gasteig.jpg/1200px-Georg-Elser-Bodenplatte_im_Gasteig.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Georg-Elser-Bodenplatte_im_Gasteig.jpg/1920px-Georg-Elser-Bodenplatte_im_Gasteig.jpg
+  Erich-Schulze-Brunnen Muenchen Hupe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Erich-Schulze-Brunnen_Muenchen_Hupe.JPG/400px-Erich-Schulze-Brunnen_Muenchen_Hupe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Erich-Schulze-Brunnen_Muenchen_Hupe.JPG/800px-Erich-Schulze-Brunnen_Muenchen_Hupe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Erich-Schulze-Brunnen_Muenchen_Hupe.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_Hupe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Erich-Schulze-Brunnen_Muenchen_Hupe.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_Hupe.JPG
+  Erich-Schulze-Brunnen Muenchen 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/400px-Erich-Schulze-Brunnen_Muenchen_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/800px-Erich-Schulze-Brunnen_Muenchen_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Erich-Schulze-Brunnen_Muenchen_1.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_1.JPG
+  Erich-Schulze-Brunnen Muenchen 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Erich-Schulze-Brunnen_Muenchen_2.JPG/400px-Erich-Schulze-Brunnen_Muenchen_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Erich-Schulze-Brunnen_Muenchen_2.JPG/800px-Erich-Schulze-Brunnen_Muenchen_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Erich-Schulze-Brunnen_Muenchen_2.JPG/1200px-Erich-Schulze-Brunnen_Muenchen_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Erich-Schulze-Brunnen_Muenchen_2.JPG/1920px-Erich-Schulze-Brunnen_Muenchen_2.JPG
+  Georg Elser Bodendenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Georg_Elser_Bodendenkmal.jpg/400px-Georg_Elser_Bodendenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Georg_Elser_Bodendenkmal.jpg/800px-Georg_Elser_Bodendenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Georg_Elser_Bodendenkmal.jpg/1200px-Georg_Elser_Bodendenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Georg_Elser_Bodendenkmal.jpg/1920px-Georg_Elser_Bodendenkmal.jpg
 ---
 
 ## Overview

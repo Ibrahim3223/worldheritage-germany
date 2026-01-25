@@ -1,19 +1,43 @@
 ---
-title: "Domschule Schleswig"
+title: Domschule Schleswig
 date: 2026-01-23
 draft: false
-description: "Gymnasium in Schleswig"
-region: "Germany"
-country: "Germany"
-heritage_type: "School Building"
+description: Gymnasium in Schleswig
+region: Germany
+country: Germany
+heritage_type: School Building
 categories:
-  - "School Building"
+- School Building
 regions:
-  - "Germany"
+- Germany
 latitude: 54.5142
 longitude: 9.55713
 images:
-  - "/images-sites/domschule-schleswig/01-c35cfbc5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schleswig_Koenigstrasse_37.jpg/1200px-Schleswig_Koenigstrasse_37.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schleswig_am_30.6.2013_26.jpg/1200px-Schleswig_am_30.6.2013_26.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schleswig_am_30.6.2013_27.jpg/1200px-Schleswig_am_30.6.2013_27.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schleswig_am_30.6.2013_29.jpg/1200px-Schleswig_am_30.6.2013_29.jpg
+image_srcset:
+  Schleswig Koenigstrasse 37.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schleswig_Koenigstrasse_37.jpg/400px-Schleswig_Koenigstrasse_37.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schleswig_Koenigstrasse_37.jpg/800px-Schleswig_Koenigstrasse_37.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schleswig_Koenigstrasse_37.jpg/1200px-Schleswig_Koenigstrasse_37.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Schleswig_Koenigstrasse_37.jpg/1920px-Schleswig_Koenigstrasse_37.jpg
+  Schleswig am 30.6.2013 26.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schleswig_am_30.6.2013_26.jpg/400px-Schleswig_am_30.6.2013_26.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schleswig_am_30.6.2013_26.jpg/800px-Schleswig_am_30.6.2013_26.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schleswig_am_30.6.2013_26.jpg/1200px-Schleswig_am_30.6.2013_26.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Schleswig_am_30.6.2013_26.jpg/1920px-Schleswig_am_30.6.2013_26.jpg
+  Schleswig am 30.6.2013 27.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schleswig_am_30.6.2013_27.jpg/400px-Schleswig_am_30.6.2013_27.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schleswig_am_30.6.2013_27.jpg/800px-Schleswig_am_30.6.2013_27.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schleswig_am_30.6.2013_27.jpg/1200px-Schleswig_am_30.6.2013_27.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schleswig_am_30.6.2013_27.jpg/1920px-Schleswig_am_30.6.2013_27.jpg
+  Schleswig am 30.6.2013 29.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schleswig_am_30.6.2013_29.jpg/400px-Schleswig_am_30.6.2013_29.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schleswig_am_30.6.2013_29.jpg/800px-Schleswig_am_30.6.2013_29.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schleswig_am_30.6.2013_29.jpg/1200px-Schleswig_am_30.6.2013_29.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Schleswig_am_30.6.2013_29.jpg/1920px-Schleswig_am_30.6.2013_29.jpg
 ---
 
 ## Overview

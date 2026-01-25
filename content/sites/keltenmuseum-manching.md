@@ -13,7 +13,7 @@ regions:
 latitude: 48.713
 longitude: 11.4933
 images:
-  - "/images-sites/keltenmuseum-manching/01-93b85440-800w.webp"
+  - "/images/keltenmuseum-manching/01-93b85440-800w.webp"
 ---
 
 ## Overview

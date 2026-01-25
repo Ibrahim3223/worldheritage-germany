@@ -1,19 +1,49 @@
 ---
-title: "Heiligkreuzkapelle (Trier, Germany)"
+title: Heiligkreuzkapelle (Trier, Germany)
 date: 2026-01-23
 draft: false
-description: "church"
-region: "Germany"
-country: "Germany"
-heritage_type: "Chapel"
+description: church
+region: Germany
+country: Germany
+heritage_type: Chapel
 categories:
-  - "Chapel"
+- Chapel
 regions:
-  - "Germany"
+- Germany
 latitude: 49.741664
 longitude: 6.640969
 images:
-  - "/images-sites/heiligkreuzkapelle-trier-germany/01-6b19abe5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Trier_heiligkreuzkapelle_wegekreuz(2).jpg/1200px-Trier_heiligkreuzkapelle_wegekreuz(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trier_heiligkreuzkapelle_wegekreuz(1).jpg/1200px-Trier_heiligkreuzkapelle_wegekreuz(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kapelle_Heiligkreuz_Trier_01.jpg/1200px-Kapelle_Heiligkreuz_Trier_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kapelle_Heiligkreuz_Trier_07.jpg/1200px-Kapelle_Heiligkreuz_Trier_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kapelle_Heiligkreuz_in_Trier_14.jpg/1200px-Kapelle_Heiligkreuz_in_Trier_14.jpg
+image_srcset:
+  Trier heiligkreuzkapelle wegekreuz(2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Trier_heiligkreuzkapelle_wegekreuz(2).jpg/400px-Trier_heiligkreuzkapelle_wegekreuz(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Trier_heiligkreuzkapelle_wegekreuz(2).jpg/800px-Trier_heiligkreuzkapelle_wegekreuz(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Trier_heiligkreuzkapelle_wegekreuz(2).jpg/1200px-Trier_heiligkreuzkapelle_wegekreuz(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Trier_heiligkreuzkapelle_wegekreuz(2).jpg/1920px-Trier_heiligkreuzkapelle_wegekreuz(2).jpg
+  Trier heiligkreuzkapelle wegekreuz(1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trier_heiligkreuzkapelle_wegekreuz(1).jpg/400px-Trier_heiligkreuzkapelle_wegekreuz(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trier_heiligkreuzkapelle_wegekreuz(1).jpg/800px-Trier_heiligkreuzkapelle_wegekreuz(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trier_heiligkreuzkapelle_wegekreuz(1).jpg/1200px-Trier_heiligkreuzkapelle_wegekreuz(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trier_heiligkreuzkapelle_wegekreuz(1).jpg/1920px-Trier_heiligkreuzkapelle_wegekreuz(1).jpg
+  Kapelle Heiligkreuz Trier 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kapelle_Heiligkreuz_Trier_01.jpg/400px-Kapelle_Heiligkreuz_Trier_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kapelle_Heiligkreuz_Trier_01.jpg/800px-Kapelle_Heiligkreuz_Trier_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kapelle_Heiligkreuz_Trier_01.jpg/1200px-Kapelle_Heiligkreuz_Trier_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kapelle_Heiligkreuz_Trier_01.jpg/1920px-Kapelle_Heiligkreuz_Trier_01.jpg
+  Kapelle Heiligkreuz Trier 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kapelle_Heiligkreuz_Trier_07.jpg/400px-Kapelle_Heiligkreuz_Trier_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kapelle_Heiligkreuz_Trier_07.jpg/800px-Kapelle_Heiligkreuz_Trier_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kapelle_Heiligkreuz_Trier_07.jpg/1200px-Kapelle_Heiligkreuz_Trier_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kapelle_Heiligkreuz_Trier_07.jpg/1920px-Kapelle_Heiligkreuz_Trier_07.jpg
+  Kapelle Heiligkreuz in Trier 14.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kapelle_Heiligkreuz_in_Trier_14.jpg/400px-Kapelle_Heiligkreuz_in_Trier_14.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kapelle_Heiligkreuz_in_Trier_14.jpg/800px-Kapelle_Heiligkreuz_in_Trier_14.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kapelle_Heiligkreuz_in_Trier_14.jpg/1200px-Kapelle_Heiligkreuz_in_Trier_14.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kapelle_Heiligkreuz_in_Trier_14.jpg/1920px-Kapelle_Heiligkreuz_in_Trier_14.jpg
 ---
 
 ## Overview

@@ -1,20 +1,51 @@
 ---
-title: "Horner Kirche"
-site_name: "Horner Kirche"
-slug: "horner-kirche"
-region: "Bremen"
-
-# Location
+title: Horner Kirche
+site_name: Horner Kirche
+slug: horner-kirche
+region: Bremen
 latitude: 53.0967
 longitude: 8.86906
 regions:
-    - "Bremen"
-heritage_type: "cultural site"
+- Bremen
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1628446"
-description: "In the heart of Bremen, Germany, you will find the Horner Kirche, a captivating example of Neoclassical architecture. This church stands as a significan..."
+- church building
+- religious site
+wikidata_id: Q1628446
+description: In the heart of Bremen, Germany, you will find the Horner Kirche, a captivating
+  example of Neoclassical architecture. This church stands as a significan...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Horner%20Kirche%20mit%20Linde%20jh.jpg/1200px-Horner%20Kirche%20mit%20Linde%20jh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orgel_Horner-Kirche.jpg/1200px-Orgel_Horner-Kirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/1200px-Horner_Kirche_mit_Linde_jh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Horner_Kirche_-_Apsisnische_jh.jpg/1200px-Horner_Kirche_-_Apsisnische_jh.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horner_Kirche_-_Bremen_-_2008.jpg/1200px-Horner_Kirche_-_Bremen_-_2008.jpg
+image_srcset:
+  Horner%20Kirche%20mit%20Linde%20jh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Horner%20Kirche%20mit%20Linde%20jh.jpg/400px-Horner%20Kirche%20mit%20Linde%20jh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Horner%20Kirche%20mit%20Linde%20jh.jpg/800px-Horner%20Kirche%20mit%20Linde%20jh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Horner%20Kirche%20mit%20Linde%20jh.jpg/1200px-Horner%20Kirche%20mit%20Linde%20jh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Horner%20Kirche%20mit%20Linde%20jh.jpg/1920px-Horner%20Kirche%20mit%20Linde%20jh.jpg
+  Orgel Horner-Kirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orgel_Horner-Kirche.jpg/400px-Orgel_Horner-Kirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orgel_Horner-Kirche.jpg/800px-Orgel_Horner-Kirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orgel_Horner-Kirche.jpg/1200px-Orgel_Horner-Kirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orgel_Horner-Kirche.jpg/1920px-Orgel_Horner-Kirche.jpg
+  Horner Kirche mit Linde jh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/400px-Horner_Kirche_mit_Linde_jh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/800px-Horner_Kirche_mit_Linde_jh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/1200px-Horner_Kirche_mit_Linde_jh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Horner_Kirche_mit_Linde_jh.jpg/1920px-Horner_Kirche_mit_Linde_jh.jpg
+  Horner Kirche - Apsisnische jh.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Horner_Kirche_-_Apsisnische_jh.jpg/400px-Horner_Kirche_-_Apsisnische_jh.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Horner_Kirche_-_Apsisnische_jh.jpg/800px-Horner_Kirche_-_Apsisnische_jh.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Horner_Kirche_-_Apsisnische_jh.jpg/1200px-Horner_Kirche_-_Apsisnische_jh.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Horner_Kirche_-_Apsisnische_jh.jpg/1920px-Horner_Kirche_-_Apsisnische_jh.jpg
+  Horner Kirche - Bremen - 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horner_Kirche_-_Bremen_-_2008.jpg/400px-Horner_Kirche_-_Bremen_-_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horner_Kirche_-_Bremen_-_2008.jpg/800px-Horner_Kirche_-_Bremen_-_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horner_Kirche_-_Bremen_-_2008.jpg/1200px-Horner_Kirche_-_Bremen_-_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Horner_Kirche_-_Bremen_-_2008.jpg/1920px-Horner_Kirche_-_Bremen_-_2008.jpg
 ---
 
 ## Overview

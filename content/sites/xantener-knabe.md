@@ -13,7 +13,7 @@ regions:
 latitude: 51.675
 longitude: 6.45915
 images:
-  - "/images-sites/xantener-knabe/01-2a4a59f8-800w.webp"
+  - "/images/xantener-knabe/01-2a4a59f8-800w.webp"
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 52.75
 longitude: 13.516666666
 images:
-  - "/images-sites/liepnitzsee/01-7e7334f0-800w.webp"
-  - "/images-sites/liepnitzsee/02-70e214ed-800w.webp"
-  - "/images-sites/liepnitzsee/03-01b72336-800w.webp"
+  - "/images/liepnitzsee/01-7e7334f0-800w.webp"
+  - "/images/liepnitzsee/02-70e214ed-800w.webp"
+  - "/images/liepnitzsee/03-01b72336-800w.webp"
 ---
 
 ## Overview

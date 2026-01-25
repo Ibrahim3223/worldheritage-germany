@@ -13,9 +13,9 @@ regions:
 latitude: 50.1179
 longitude: 8.6699
 images:
-  - "/images-sites/rothschild-park/01-f8d239e7-800w.webp"
-  - "/images-sites/rothschild-park/02-5afdb615-800w.webp"
-  - "/images-sites/rothschild-park/03-99d79fe0-800w.webp"
+  - "/images/rothschild-park/01-f8d239e7-800w.webp"
+  - "/images/rothschild-park/02-5afdb615-800w.webp"
+  - "/images/rothschild-park/03-99d79fe0-800w.webp"
 ---
 
 ## Overview

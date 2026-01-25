@@ -1,19 +1,50 @@
 ---
-title: "Baumburger Turm"
+title: Baumburger Turm
 date: 2026-01-24
 draft: false
-description: "siebengeschossiger Turm mit Laube und reichem Dekor, frühgotische Hauskapelle, drittes Viertel 13. Jahrhundert, Anbau viergeschossiges und traufständi"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: siebengeschossiger Turm mit Laube und reichem Dekor, frühgotische Hauskapelle,
+  drittes Viertel 13. Jahrhundert, Anbau viergeschossiges und traufständi
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 49.01994
 longitude: 12.09604
 images:
-  - "/images-sites/baumburger-turm/01-fc4bbd99-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg/1200px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg/1200px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Regensburg_242.jpg/1200px-Regensburg_242.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DampfnudelbaeckereiRegensburg_0047.jpg/1200px-DampfnudelbaeckereiRegensburg_0047.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg/1200px-Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg
+image_srcset:
+  Baumburger Turm Regensburg Watmarkt 4 D-3-62-000-1314 02.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg/400px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg/800px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg/1200px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg/1920px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_02.tif.jpg
+  Baumburger Turm Regensburg Watmarkt 4 D-3-62-000-1314 04.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg/400px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg/800px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg/1200px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg/1920px-Baumburger_Turm_Regensburg_Watmarkt_4_D-3-62-000-1314_04.tif.jpg
+  Regensburg 242.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Regensburg_242.jpg/400px-Regensburg_242.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Regensburg_242.jpg/800px-Regensburg_242.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Regensburg_242.jpg/1200px-Regensburg_242.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Regensburg_242.jpg/1920px-Regensburg_242.jpg
+  DampfnudelbaeckereiRegensburg 0047.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DampfnudelbaeckereiRegensburg_0047.jpg/400px-DampfnudelbaeckereiRegensburg_0047.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DampfnudelbaeckereiRegensburg_0047.jpg/800px-DampfnudelbaeckereiRegensburg_0047.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DampfnudelbaeckereiRegensburg_0047.jpg/1200px-DampfnudelbaeckereiRegensburg_0047.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DampfnudelbaeckereiRegensburg_0047.jpg/1920px-DampfnudelbaeckereiRegensburg_0047.jpg
+  Watmarkt 4 Baumburger Turm Regensburg-1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg/400px-Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg/800px-Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg/1200px-Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg/1920px-Watmarkt_4_Baumburger_Turm_Regensburg-1.jpg
 ---
 
 ## Overview

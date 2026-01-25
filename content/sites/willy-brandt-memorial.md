@@ -13,7 +13,7 @@ regions:
 latitude: 49.4483
 longitude: 11.0865
 images:
-  - "/images-sites/willy-brandt-memorial/01-a4d2e509-800w.webp"
+  - "/images/willy-brandt-memorial/01-a4d2e509-800w.webp"
 ---
 
 ## Overview

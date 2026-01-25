@@ -1,21 +1,49 @@
 ---
-title: "Aerodynamic Park"
+title: Aerodynamic Park
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4319
 longitude: 13.5289
 images:
-  - "/images-sites/aerodynamic-park/01-ff8a1566-800w.webp"
-  - "/images-sites/aerodynamic-park/02-97654da7-800w.webp"
-  - "/images-sites/aerodynamic-park/03-14d48544-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg/1200px-Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerodynamischer_Park_Berlin-Adlershof.JPG/1200px-Aerodynamischer_Park_Berlin-Adlershof.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/1200px-Aerodynamic_park_Berlin_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg/1200px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg/1200px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg
+image_srcset:
+  Trudelturm Berlin Adlershof 2023-07-29 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg/400px-Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg/800px-Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg/1200px-Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg/1920px-Trudelturm_Berlin_Adlershof_2023-07-29_6.jpg
+  Aerodynamischer Park Berlin-Adlershof.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerodynamischer_Park_Berlin-Adlershof.JPG/400px-Aerodynamischer_Park_Berlin-Adlershof.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerodynamischer_Park_Berlin-Adlershof.JPG/800px-Aerodynamischer_Park_Berlin-Adlershof.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerodynamischer_Park_Berlin-Adlershof.JPG/1200px-Aerodynamischer_Park_Berlin-Adlershof.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Aerodynamischer_Park_Berlin-Adlershof.JPG/1920px-Aerodynamischer_Park_Berlin-Adlershof.JPG
+  Aerodynamic park Berlin 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/400px-Aerodynamic_park_Berlin_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/800px-Aerodynamic_park_Berlin_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/1200px-Aerodynamic_park_Berlin_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerodynamic_park_Berlin_1.JPG/1920px-Aerodynamic_park_Berlin_1.JPG
+  Aerodynamischer Park, Berlin-Adlershof, Bild 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg/400px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg/800px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg/1200px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg/1920px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_3.jpg
+  Aerodynamischer Park, Berlin-Adlershof, Bild 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg/400px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg/800px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg/1200px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg/1920px-Aerodynamischer_Park,_Berlin-Adlershof,_Bild_1.jpg
 ---
 
 ## Overview

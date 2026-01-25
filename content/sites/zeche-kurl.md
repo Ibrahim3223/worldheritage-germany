@@ -13,7 +13,7 @@ regions:
 latitude: 51.5586
 longitude: 7.59139
 images:
-  - "/images-sites/zeche-kurl/01-895407a3-800w.webp"
+  - "/images/zeche-kurl/01-895407a3-800w.webp"
 ---
 
 ## Overview

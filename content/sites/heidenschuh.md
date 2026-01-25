@@ -1,20 +1,49 @@
 ---
-title: "Heidenschuh"
+title: Heidenschuh
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.1557
 longitude: 7.9991
 images:
-  - "/images-sites/heidenschuh/02-88b6ce09-800w.webp"
-  - "/images-sites/heidenschuh/03-ede538b1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20230222_Durchgang_von_innen.jpg/1200px-20230222_Durchgang_von_innen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230222_Mauer_Durchgang.jpg/1200px-20230222_Mauer_Durchgang.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20230222_Mauerreste.jpg/1200px-20230222_Mauerreste.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20230222_Info_Tafel.jpg/1200px-20230222_Info_Tafel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Heidenschuh_Plan.jpg/1200px-Heidenschuh_Plan.jpg
+image_srcset:
+  20230222 Durchgang von innen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20230222_Durchgang_von_innen.jpg/400px-20230222_Durchgang_von_innen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20230222_Durchgang_von_innen.jpg/800px-20230222_Durchgang_von_innen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20230222_Durchgang_von_innen.jpg/1200px-20230222_Durchgang_von_innen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/20230222_Durchgang_von_innen.jpg/1920px-20230222_Durchgang_von_innen.jpg
+  20230222 Mauer Durchgang.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230222_Mauer_Durchgang.jpg/400px-20230222_Mauer_Durchgang.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230222_Mauer_Durchgang.jpg/800px-20230222_Mauer_Durchgang.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230222_Mauer_Durchgang.jpg/1200px-20230222_Mauer_Durchgang.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230222_Mauer_Durchgang.jpg/1920px-20230222_Mauer_Durchgang.jpg
+  20230222 Mauerreste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20230222_Mauerreste.jpg/400px-20230222_Mauerreste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20230222_Mauerreste.jpg/800px-20230222_Mauerreste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20230222_Mauerreste.jpg/1200px-20230222_Mauerreste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20230222_Mauerreste.jpg/1920px-20230222_Mauerreste.jpg
+  20230222 Info Tafel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20230222_Info_Tafel.jpg/400px-20230222_Info_Tafel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20230222_Info_Tafel.jpg/800px-20230222_Info_Tafel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20230222_Info_Tafel.jpg/1200px-20230222_Info_Tafel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20230222_Info_Tafel.jpg/1920px-20230222_Info_Tafel.jpg
+  Heidenschuh Plan.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Heidenschuh_Plan.jpg/400px-Heidenschuh_Plan.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Heidenschuh_Plan.jpg/800px-Heidenschuh_Plan.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Heidenschuh_Plan.jpg/1200px-Heidenschuh_Plan.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Heidenschuh_Plan.jpg/1920px-Heidenschuh_Plan.jpg
 ---
 
 ## Overview

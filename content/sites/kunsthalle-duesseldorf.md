@@ -13,7 +13,7 @@ regions:
 latitude: 51.2276
 longitude: 6.77594
 images:
-  - "/images-sites/kunsthalle-duesseldorf/01-cdb67ac0-800w.webp"
+  - "/images/kunsthalle-duesseldorf/01-cdb67ac0-800w.webp"
 ---
 
 ## Overview

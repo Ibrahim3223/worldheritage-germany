@@ -13,7 +13,7 @@ regions:
 latitude: 54.475
 longitude: 9.806388888
 images:
-  - "/images-sites/windebyer-noor/01-4c8f921d-800w.webp"
+  - "/images/windebyer-noor/01-4c8f921d-800w.webp"
 ---
 
 ## Overview

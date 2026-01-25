@@ -13,7 +13,7 @@ regions:
 latitude: 48.13967222
 longitude: 11.69854167
 images:
-  - "/images-sites/wm-brunnen/01-3ebc94d3-800w.webp"
+  - "/images/wm-brunnen/01-3ebc94d3-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,52 @@
 ---
-title: "Erphokirche"
-site_name: "Erphokirche"
-slug: "erphokirche"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Erphokirche
+site_name: Erphokirche
+slug: erphokirche
+region: North Rhine-Westphalia
 latitude: 51.9677
 longitude: 7.64806
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1361448"
-description: "Erphokirche, located in Münster-Mitte, Germany, is a church building that stands as a significant landmark in the region. Founded in 1928 and designed b..."
+- church building
+- religious site
+wikidata_id: Q1361448
+description: Erphokirche, located in Münster-Mitte, Germany, is a church building
+  that stands as a significant landmark in the region. Founded in 1928 and designed
+  b...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M%C3%BCnster%20Erphokirche%201.jpg/1200px-M%C3%BCnster%20Erphokirche%201.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg/1200px-Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster_Erphokirche_2.jpg/1200px-Münster_Erphokirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erphokirche_(Münster).jpg/1200px-Erphokirche_(Münster).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1200px-Münster_Erphokirche_1.jpg
+image_srcset:
+  M%C3%BCnster%20Erphokirche%201.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M%C3%BCnster%20Erphokirche%201.jpg/400px-M%C3%BCnster%20Erphokirche%201.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M%C3%BCnster%20Erphokirche%201.jpg/800px-M%C3%BCnster%20Erphokirche%201.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M%C3%BCnster%20Erphokirche%201.jpg/1200px-M%C3%BCnster%20Erphokirche%201.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M%C3%BCnster%20Erphokirche%201.jpg/1920px-M%C3%BCnster%20Erphokirche%201.jpg
+  Ostmarkstraße 20 Erphokirche A IMG 3175.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg/400px-Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg/800px-Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg/1200px-Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg/1920px-Ostmarkstraße_20_Erphokirche_A_IMG_3175.jpg
+  Münster Erphokirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster_Erphokirche_2.jpg/400px-Münster_Erphokirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster_Erphokirche_2.jpg/800px-Münster_Erphokirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster_Erphokirche_2.jpg/1200px-Münster_Erphokirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Münster_Erphokirche_2.jpg/1920px-Münster_Erphokirche_2.jpg
+  Erphokirche (Münster).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erphokirche_(Münster).jpg/400px-Erphokirche_(Münster).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erphokirche_(Münster).jpg/800px-Erphokirche_(Münster).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erphokirche_(Münster).jpg/1200px-Erphokirche_(Münster).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Erphokirche_(Münster).jpg/1920px-Erphokirche_(Münster).jpg
+  Münster Erphokirche 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/400px-Münster_Erphokirche_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/800px-Münster_Erphokirche_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1200px-Münster_Erphokirche_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Münster_Erphokirche_1.jpg/1920px-Münster_Erphokirche_1.jpg
 ---
 
 ## Overview

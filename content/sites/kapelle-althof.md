@@ -13,9 +13,9 @@ regions:
 latitude: 54.0868
 longitude: 11.9317
 images:
-  - "/images-sites/kapelle-althof/01-7249e1d9-800w.webp"
-  - "/images-sites/kapelle-althof/02-e6be6c83-800w.webp"
-  - "/images-sites/kapelle-althof/03-bea7904a-800w.webp"
+  - "/images/kapelle-althof/01-7249e1d9-800w.webp"
+  - "/images/kapelle-althof/02-e6be6c83-800w.webp"
+  - "/images/kapelle-althof/03-bea7904a-800w.webp"
 ---
 
 ## Overview

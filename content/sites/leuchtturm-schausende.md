@@ -13,7 +13,7 @@ regions:
 latitude: 54.8617
 longitude: 9.57341
 images:
-  - "/images-sites/leuchtturm-schausende/01-b09de594-800w.webp"
+  - "/images/leuchtturm-schausende/01-b09de594-800w.webp"
 ---
 
 ## Overview

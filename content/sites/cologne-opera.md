@@ -1,19 +1,43 @@
 ---
-title: "Cologne Opera"
+title: Cologne Opera
 date: 2026-01-23
 draft: false
-description: "building in North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: building in North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.938055555
 longitude: 6.951666666
 images:
-  - "/images-sites/cologne-opera/01-cea80646-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cologne_Opera_2023_c.jpg/1200px-Cologne_Opera_2023_c.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Opera_2023_b.jpg/1200px-Cologne_Opera_2023_b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cologne_Opera_2023_a.jpg/1200px-Cologne_Opera_2023_a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/1200px-Oper_Köln_(4202-04).jpg
+image_srcset:
+  Cologne Opera 2023 c.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cologne_Opera_2023_c.jpg/400px-Cologne_Opera_2023_c.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cologne_Opera_2023_c.jpg/800px-Cologne_Opera_2023_c.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cologne_Opera_2023_c.jpg/1200px-Cologne_Opera_2023_c.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cologne_Opera_2023_c.jpg/1920px-Cologne_Opera_2023_c.jpg
+  Cologne Opera 2023 b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Opera_2023_b.jpg/400px-Cologne_Opera_2023_b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Opera_2023_b.jpg/800px-Cologne_Opera_2023_b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Opera_2023_b.jpg/1200px-Cologne_Opera_2023_b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cologne_Opera_2023_b.jpg/1920px-Cologne_Opera_2023_b.jpg
+  Cologne Opera 2023 a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cologne_Opera_2023_a.jpg/400px-Cologne_Opera_2023_a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cologne_Opera_2023_a.jpg/800px-Cologne_Opera_2023_a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cologne_Opera_2023_a.jpg/1200px-Cologne_Opera_2023_a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cologne_Opera_2023_a.jpg/1920px-Cologne_Opera_2023_a.jpg
+  Oper Köln (4202-04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/400px-Oper_Köln_(4202-04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/800px-Oper_Köln_(4202-04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/1200px-Oper_Köln_(4202-04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oper_Köln_(4202-04).jpg/1920px-Oper_Köln_(4202-04).jpg
 ---
 
 ## Overview

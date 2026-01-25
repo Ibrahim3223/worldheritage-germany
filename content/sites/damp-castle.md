@@ -1,21 +1,49 @@
 ---
-title: "Damp Castle"
+title: Damp Castle
 date: 2026-01-23
 draft: false
-description: "building in Damp (Germany)"
-region: "Germany"
-country: "Germany"
-heritage_type: "Manor House"
+description: building in Damp (Germany)
+region: Germany
+country: Germany
+heritage_type: Manor House
 categories:
-  - "Manor House"
+- Manor House
 regions:
-  - "Germany"
+- Germany
 latitude: 54.576316
 longitude: 9.984566
 images:
-  - "/images-sites/damp-castle/01-ac79fa8a-800w.webp"
-  - "/images-sites/damp-castle/02-cf5e085c-800w.webp"
-  - "/images-sites/damp-castle/03-e9461b3c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gut_Damp-2019-msu-9106.jpg/1200px-Gut_Damp-2019-msu-9106.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Damp_Gut_Damp_Herrenhaus.jpg/1200px-Damp_Gut_Damp_Herrenhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damp_Gut_Damp_Stalltor.jpg/1200px-Damp_Gut_Damp_Stalltor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Damp_Gut_Damp_Herrenhaus02.jpg/1200px-Damp_Gut_Damp_Herrenhaus02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Damp_Mai_2004.jpg/1200px-Schloss_Damp_Mai_2004.jpg
+image_srcset:
+  Gut Damp-2019-msu-9106.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gut_Damp-2019-msu-9106.jpg/400px-Gut_Damp-2019-msu-9106.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gut_Damp-2019-msu-9106.jpg/800px-Gut_Damp-2019-msu-9106.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gut_Damp-2019-msu-9106.jpg/1200px-Gut_Damp-2019-msu-9106.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gut_Damp-2019-msu-9106.jpg/1920px-Gut_Damp-2019-msu-9106.jpg
+  Damp Gut Damp Herrenhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Damp_Gut_Damp_Herrenhaus.jpg/400px-Damp_Gut_Damp_Herrenhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Damp_Gut_Damp_Herrenhaus.jpg/800px-Damp_Gut_Damp_Herrenhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Damp_Gut_Damp_Herrenhaus.jpg/1200px-Damp_Gut_Damp_Herrenhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Damp_Gut_Damp_Herrenhaus.jpg/1920px-Damp_Gut_Damp_Herrenhaus.jpg
+  Damp Gut Damp Stalltor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damp_Gut_Damp_Stalltor.jpg/400px-Damp_Gut_Damp_Stalltor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damp_Gut_Damp_Stalltor.jpg/800px-Damp_Gut_Damp_Stalltor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damp_Gut_Damp_Stalltor.jpg/1200px-Damp_Gut_Damp_Stalltor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damp_Gut_Damp_Stalltor.jpg/1920px-Damp_Gut_Damp_Stalltor.jpg
+  Damp Gut Damp Herrenhaus02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Damp_Gut_Damp_Herrenhaus02.jpg/400px-Damp_Gut_Damp_Herrenhaus02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Damp_Gut_Damp_Herrenhaus02.jpg/800px-Damp_Gut_Damp_Herrenhaus02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Damp_Gut_Damp_Herrenhaus02.jpg/1200px-Damp_Gut_Damp_Herrenhaus02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Damp_Gut_Damp_Herrenhaus02.jpg/1920px-Damp_Gut_Damp_Herrenhaus02.jpg
+  Schloss Damp Mai 2004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Damp_Mai_2004.jpg/400px-Schloss_Damp_Mai_2004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Damp_Mai_2004.jpg/800px-Schloss_Damp_Mai_2004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Damp_Mai_2004.jpg/1200px-Schloss_Damp_Mai_2004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Schloss_Damp_Mai_2004.jpg/1920px-Schloss_Damp_Mai_2004.jpg
 ---
 
 ## Overview

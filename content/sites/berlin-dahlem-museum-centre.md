@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Dahlem Museum Centre"
+title: Berlin-Dahlem Museum Centre
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.456111
 longitude: 13.292222
 images:
-  - "/images-sites/berlin-dahlem-museum-centre/01-c60dc4a5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arminallee_23-27_Berlin-Dahlem.JPG/1200px-Arminallee_23-27_Berlin-Dahlem.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fabeckstraße_14-18_Berlin-Dahlem.JPG/1200px-Fabeckstraße_14-18_Berlin-Dahlem.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lansstraße_8-12_Berlin-Dahlem.JPG/1200px-Lansstraße_8-12_Berlin-Dahlem.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/1200px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg/1200px-Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg
+image_srcset:
+  Arminallee 23-27 Berlin-Dahlem.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arminallee_23-27_Berlin-Dahlem.JPG/400px-Arminallee_23-27_Berlin-Dahlem.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arminallee_23-27_Berlin-Dahlem.JPG/800px-Arminallee_23-27_Berlin-Dahlem.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arminallee_23-27_Berlin-Dahlem.JPG/1200px-Arminallee_23-27_Berlin-Dahlem.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arminallee_23-27_Berlin-Dahlem.JPG/1920px-Arminallee_23-27_Berlin-Dahlem.JPG
+  Fabeckstraße 14-18 Berlin-Dahlem.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fabeckstraße_14-18_Berlin-Dahlem.JPG/400px-Fabeckstraße_14-18_Berlin-Dahlem.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fabeckstraße_14-18_Berlin-Dahlem.JPG/800px-Fabeckstraße_14-18_Berlin-Dahlem.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fabeckstraße_14-18_Berlin-Dahlem.JPG/1200px-Fabeckstraße_14-18_Berlin-Dahlem.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fabeckstraße_14-18_Berlin-Dahlem.JPG/1920px-Fabeckstraße_14-18_Berlin-Dahlem.JPG
+  Lansstraße 8-12 Berlin-Dahlem.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lansstraße_8-12_Berlin-Dahlem.JPG/400px-Lansstraße_8-12_Berlin-Dahlem.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lansstraße_8-12_Berlin-Dahlem.JPG/800px-Lansstraße_8-12_Berlin-Dahlem.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lansstraße_8-12_Berlin-Dahlem.JPG/1200px-Lansstraße_8-12_Berlin-Dahlem.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lansstraße_8-12_Berlin-Dahlem.JPG/1920px-Lansstraße_8-12_Berlin-Dahlem.JPG
+  Museen Dahlem Berlin Mai 2006 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/400px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/800px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/1200px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Museen_Dahlem_Berlin_Mai_2006_002.jpg/1920px-Museen_Dahlem_Berlin_Mai_2006_002.jpg
+  Figurine féminine (Musée africain de Dahlem Berlin) (3041251407).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg/400px-Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg/800px-Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg/1200px-Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg/1920px-Figurine_féminine_(Musée_africain_de_Dahlem_Berlin)_(3041251407).jpg
 ---
 
 ## Overview

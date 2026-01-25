@@ -13,7 +13,7 @@ regions:
 latitude: 47.39483
 longitude: 10.37171
 images:
-  - "/images-sites/lachenkopf/01-0b58917e-800w.webp"
+  - "/images/lachenkopf/01-0b58917e-800w.webp"
 ---
 
 ## Overview

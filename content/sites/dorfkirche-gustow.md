@@ -1,20 +1,33 @@
 ---
-title: "Dorfkirche Gustow"
-site_name: "Dorfkirche Gustow"
-slug: "dorfkirche-gustow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Dorfkirche Gustow
+site_name: Dorfkirche Gustow
+slug: dorfkirche-gustow
+region: Mecklenburg-Vorpommern
 latitude: 54.3018
 longitude: 13.2135
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1244343"
-description: "Dorfkirche Gustow, a remarkable example of Brick Gothic architecture, stands as an enduring testament to the rich cultural heritage of Germany. This chu..."
+- church building
+- religious site
+wikidata_id: Q1244343
+description: Dorfkirche Gustow, a remarkable example of Brick Gothic architecture,
+  stands as an enduring testament to the rich cultural heritage of Germany. This chu...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gustow%20kirche%20imgp7751.jpg/1200px-Gustow%20kirche%20imgp7751.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1200px-Gustow_kirche_imgp7751.jpg
+image_srcset:
+  Gustow%20kirche%20imgp7751.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gustow%20kirche%20imgp7751.jpg/400px-Gustow%20kirche%20imgp7751.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gustow%20kirche%20imgp7751.jpg/800px-Gustow%20kirche%20imgp7751.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gustow%20kirche%20imgp7751.jpg/1200px-Gustow%20kirche%20imgp7751.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gustow%20kirche%20imgp7751.jpg/1920px-Gustow%20kirche%20imgp7751.jpg
+  Gustow kirche imgp7751.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/400px-Gustow_kirche_imgp7751.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/800px-Gustow_kirche_imgp7751.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1200px-Gustow_kirche_imgp7751.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustow_kirche_imgp7751.jpg/1920px-Gustow_kirche_imgp7751.jpg
 ---
 
 ## Overview

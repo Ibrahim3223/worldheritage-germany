@@ -21,7 +21,7 @@ longitude: 7.765833333
 
 # Images
 images:
-  - "/images-sites/pfalzgrafenstein-castle/01-873afb05-800w.webp"
+  - "/images/pfalzgrafenstein-castle/01-873afb05-800w.webp"
 ---
 
 ## Overview

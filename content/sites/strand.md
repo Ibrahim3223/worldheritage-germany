@@ -13,7 +13,7 @@ regions:
 latitude: 54.53333333
 longitude: 8.78333333
 images:
-  - "/images-sites/strand/01-4fcfeb52-800w.webp"
+  - "/images/strand/01-4fcfeb52-800w.webp"
 ---
 
 ## Overview

@@ -1,20 +1,49 @@
 ---
-title: "Heinrich-von-Kleist-Park"
+title: Heinrich-von-Kleist-Park
 date: 2026-01-23
 draft: false
-description: "park in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.492222222
 longitude: 13.358611111
 images:
-  - "/images-sites/heinrich-von-kleist-park/02-6d491801-800w.webp"
-  - "/images-sites/heinrich-von-kleist-park/03-b9625785-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/141019_Berlin_Kammergericht.jpg/1200px-141019_Berlin_Kammergericht.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/141019_Kammergericht_Berlin.jpg/1200px-141019_Kammergericht_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_Königskolonnaden_Kleistpark.jpg/1200px-Berlin_Königskolonnaden_Kleistpark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg/1200px-Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kleistpark4_Berlin.JPG/1200px-Kleistpark4_Berlin.JPG
+image_srcset:
+  141019 Berlin Kammergericht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/141019_Berlin_Kammergericht.jpg/400px-141019_Berlin_Kammergericht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/141019_Berlin_Kammergericht.jpg/800px-141019_Berlin_Kammergericht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/141019_Berlin_Kammergericht.jpg/1200px-141019_Berlin_Kammergericht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/141019_Berlin_Kammergericht.jpg/1920px-141019_Berlin_Kammergericht.jpg
+  141019 Kammergericht Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/141019_Kammergericht_Berlin.jpg/400px-141019_Kammergericht_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/141019_Kammergericht_Berlin.jpg/800px-141019_Kammergericht_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/141019_Kammergericht_Berlin.jpg/1200px-141019_Kammergericht_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/141019_Kammergericht_Berlin.jpg/1920px-141019_Kammergericht_Berlin.jpg
+  Berlin Königskolonnaden Kleistpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_Königskolonnaden_Kleistpark.jpg/400px-Berlin_Königskolonnaden_Kleistpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_Königskolonnaden_Kleistpark.jpg/800px-Berlin_Königskolonnaden_Kleistpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_Königskolonnaden_Kleistpark.jpg/1200px-Berlin_Königskolonnaden_Kleistpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_Königskolonnaden_Kleistpark.jpg/1920px-Berlin_Königskolonnaden_Kleistpark.jpg
+  Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg/400px-Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg/800px-Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg/1200px-Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg/1920px-Naturdenkmal.7-15B.Stieleiche.Heinrich-von-Kleist-Park.Berlin.jpg
+  Kleistpark4 Berlin.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kleistpark4_Berlin.JPG/400px-Kleistpark4_Berlin.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kleistpark4_Berlin.JPG/800px-Kleistpark4_Berlin.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kleistpark4_Berlin.JPG/1200px-Kleistpark4_Berlin.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kleistpark4_Berlin.JPG/1920px-Kleistpark4_Berlin.JPG
 ---
 
 ## Overview

@@ -13,9 +13,9 @@ regions:
 latitude: 53.970856
 longitude: 11.162078
 images:
-  - "/images-sites/kluetzer-hollaendermuehle/01-9637d67a-800w.webp"
-  - "/images-sites/kluetzer-hollaendermuehle/02-d694a19e-800w.webp"
-  - "/images-sites/kluetzer-hollaendermuehle/03-e53a86d9-800w.webp"
+  - "/images/kluetzer-hollaendermuehle/01-9637d67a-800w.webp"
+  - "/images/kluetzer-hollaendermuehle/02-d694a19e-800w.webp"
+  - "/images/kluetzer-hollaendermuehle/03-e53a86d9-800w.webp"
 ---
 
 ## Overview

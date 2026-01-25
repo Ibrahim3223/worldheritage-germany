@@ -1,21 +1,49 @@
 ---
-title: "Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Geschichte"
+title: Erinnerungsstätte für die Freiheitsbewegungen in der deutschen Geschichte
 date: 2026-01-23
 draft: false
-description: "museum for the German Revolution of 1848/1849 and the GDR Revolution"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: museum for the German Revolution of 1848/1849 and the GDR Revolution
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 48.8586
 longitude: 8.20444
 images:
-  - "/images-sites/erinnerungsstaette-fuer-die-freiheitsbewegungen-in-der-deutschen-geschichte/01-ad54fc54-800w.webp"
-  - "/images-sites/erinnerungsstaette-fuer-die-freiheitsbewegungen-in-der-deutschen-geschichte/02-f74bb402-800w.webp"
-  - "/images-sites/erinnerungsstaette-fuer-die-freiheitsbewegungen-in-der-deutschen-geschichte/03-7e25cfe9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2014-11_Erinnerungsstätte_a02.JPG/1200px-2014-11_Erinnerungsstätte_a02.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/1200px-2014-11_Erinnerungsstätte_a05.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2014-11_Erinnerungsstätte_c07.JPG/1200px-2014-11_Erinnerungsstätte_c07.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2014-11_Erinnerungsstätte_c09.JPG/1200px-2014-11_Erinnerungsstätte_c09.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2014-11_Erinnerungsstätte_b01.JPG/1200px-2014-11_Erinnerungsstätte_b01.JPG
+image_srcset:
+  2014-11 Erinnerungsstätte a02.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2014-11_Erinnerungsstätte_a02.JPG/400px-2014-11_Erinnerungsstätte_a02.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2014-11_Erinnerungsstätte_a02.JPG/800px-2014-11_Erinnerungsstätte_a02.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2014-11_Erinnerungsstätte_a02.JPG/1200px-2014-11_Erinnerungsstätte_a02.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2014-11_Erinnerungsstätte_a02.JPG/1920px-2014-11_Erinnerungsstätte_a02.JPG
+  2014-11 Erinnerungsstätte a05.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/400px-2014-11_Erinnerungsstätte_a05.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/800px-2014-11_Erinnerungsstätte_a05.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/1200px-2014-11_Erinnerungsstätte_a05.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2014-11_Erinnerungsstätte_a05.JPG/1920px-2014-11_Erinnerungsstätte_a05.JPG
+  2014-11 Erinnerungsstätte c07.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2014-11_Erinnerungsstätte_c07.JPG/400px-2014-11_Erinnerungsstätte_c07.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2014-11_Erinnerungsstätte_c07.JPG/800px-2014-11_Erinnerungsstätte_c07.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2014-11_Erinnerungsstätte_c07.JPG/1200px-2014-11_Erinnerungsstätte_c07.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2014-11_Erinnerungsstätte_c07.JPG/1920px-2014-11_Erinnerungsstätte_c07.JPG
+  2014-11 Erinnerungsstätte c09.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2014-11_Erinnerungsstätte_c09.JPG/400px-2014-11_Erinnerungsstätte_c09.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2014-11_Erinnerungsstätte_c09.JPG/800px-2014-11_Erinnerungsstätte_c09.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2014-11_Erinnerungsstätte_c09.JPG/1200px-2014-11_Erinnerungsstätte_c09.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2014-11_Erinnerungsstätte_c09.JPG/1920px-2014-11_Erinnerungsstätte_c09.JPG
+  2014-11 Erinnerungsstätte b01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2014-11_Erinnerungsstätte_b01.JPG/400px-2014-11_Erinnerungsstätte_b01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2014-11_Erinnerungsstätte_b01.JPG/800px-2014-11_Erinnerungsstätte_b01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2014-11_Erinnerungsstätte_b01.JPG/1200px-2014-11_Erinnerungsstätte_b01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2014-11_Erinnerungsstätte_b01.JPG/1920px-2014-11_Erinnerungsstätte_b01.JPG
 ---
 
 ## Overview

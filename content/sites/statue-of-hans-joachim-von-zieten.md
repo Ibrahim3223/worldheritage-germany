@@ -13,7 +13,7 @@ regions:
 latitude: 52.5116625
 longitude: 13.3843921
 images:
-  - "/images-sites/statue-of-hans-joachim-von-zieten/01-e032512d-800w.webp"
+  - "/images/statue-of-hans-joachim-von-zieten/01-e032512d-800w.webp"
 ---
 
 ## Overview

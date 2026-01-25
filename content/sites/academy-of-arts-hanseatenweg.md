@@ -1,19 +1,49 @@
 ---
-title: "Academy of Arts (Hanseatenweg)"
+title: Academy of Arts (Hanseatenweg)
 date: 2026-01-24
 draft: false
-description: "ensemble of buildings in Berlin-Hansaviertel, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: ensemble of buildings in Berlin-Hansaviertel, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5179
 longitude: 13.3461
 images:
-  - "/images-sites/academy-of-arts-hanseatenweg/01-2c906d17-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1200px-Akademie_der_Künste.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Adk_garten.jpg/1200px-Adk_garten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AdK_Berlin_Hanseatenweg,_1.jpg/1200px-AdK_Berlin_Hanseatenweg,_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg/1200px-Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kunstacacemie_Dresden.jpg/1200px-Kunstacacemie_Dresden.jpg
+image_srcset:
+  Akademie der Künste.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/400px-Akademie_der_Künste.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/800px-Akademie_der_Künste.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1200px-Akademie_der_Künste.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Akademie_der_Künste.jpg/1920px-Akademie_der_Künste.jpg
+  Adk garten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Adk_garten.jpg/400px-Adk_garten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Adk_garten.jpg/800px-Adk_garten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Adk_garten.jpg/1200px-Adk_garten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Adk_garten.jpg/1920px-Adk_garten.jpg
+  AdK Berlin Hanseatenweg, 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AdK_Berlin_Hanseatenweg,_1.jpg/400px-AdK_Berlin_Hanseatenweg,_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AdK_Berlin_Hanseatenweg,_1.jpg/800px-AdK_Berlin_Hanseatenweg,_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AdK_Berlin_Hanseatenweg,_1.jpg/1200px-AdK_Berlin_Hanseatenweg,_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AdK_Berlin_Hanseatenweg,_1.jpg/1920px-AdK_Berlin_Hanseatenweg,_1.jpg
+  Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg/400px-Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg/800px-Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg/1200px-Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg/1920px-Akademie-der-Kuenste-Hanseatenweg-Berlin-Hansaviertel-08-2017a.jpg
+  Kunstacacemie Dresden.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kunstacacemie_Dresden.jpg/400px-Kunstacacemie_Dresden.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kunstacacemie_Dresden.jpg/800px-Kunstacacemie_Dresden.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kunstacacemie_Dresden.jpg/1200px-Kunstacacemie_Dresden.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kunstacacemie_Dresden.jpg/1920px-Kunstacacemie_Dresden.jpg
 ---
 
 ## Overview

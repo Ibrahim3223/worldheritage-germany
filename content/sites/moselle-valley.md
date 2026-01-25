@@ -13,7 +13,7 @@ regions:
 latitude: 50.4
 longitude: 7.6
 images:
-  - "/images-sites/moselle-valley/03-0f453e42-800w.webp"
+  - "/images/moselle-valley/03-0f453e42-800w.webp"
 ---
 
 ## Overview

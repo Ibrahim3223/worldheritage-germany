@@ -1,19 +1,49 @@
 ---
-title: "Hetter-Millinger Bruch"
+title: Hetter-Millinger Bruch
 date: 2026-01-23
 draft: false
-description: "nature reserve in Kreis Kleve, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Kreis Kleve, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.845843507
 longitude: 6.339380459
 images:
-  - "/images-sites/hetter-millinger-bruch/01-80b96cdb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Millinger_Bruch_PM180610_02.jpg/1200px-Millinger_Bruch_PM180610_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg
+image_srcset:
+  Millinger Bruch PM180610 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Millinger_Bruch_PM180610_02.jpg/400px-Millinger_Bruch_PM180610_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Millinger_Bruch_PM180610_02.jpg/800px-Millinger_Bruch_PM180610_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Millinger_Bruch_PM180610_02.jpg/1200px-Millinger_Bruch_PM180610_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Millinger_Bruch_PM180610_02.jpg/1920px-Millinger_Bruch_PM180610_02.jpg
+  Naturschutzgebiet Hetter-Millinger Bruch PM180510 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg/400px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg/800px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg/1920px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM180510_01.jpg
+  Naturschutzgebiet Hetter-Millinger Bruch PM20-12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg/400px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg/800px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg/1920px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-12.jpg
+  Naturschutzgebiet Hetter-Millinger Bruch PM20-18.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg/400px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg/800px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg/1920px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM20-18.jpg
+  Naturschutzgebiet Hetter-Millinger Bruch PM18-03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg/400px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg/800px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg/1200px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg/1920px-Naturschutzgebiet_Hetter-Millinger_Bruch_PM18-03.jpg
 ---
 
 ## Overview

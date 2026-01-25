@@ -1,20 +1,51 @@
 ---
-title: "Cäcilien- und Margarethenkirche"
-site_name: "Cäcilien- und Margarethenkirche"
-slug: "cacilien-und-margarethenkirche"
-region: "Lower Saxony"
-
-# Location
+title: Cäcilien- und Margarethenkirche
+site_name: Cäcilien- und Margarethenkirche
+slug: cacilien-und-margarethenkirche
+region: Lower Saxony
 latitude: 53.5293
 longitude: 7.78332
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1149972"
-description: "In the quaint region of Wittmund, Germany, Cäcilien- und Margarethenkirche stands as a striking example of Gothic architecture. This church, built prima..."
+- church building
+- religious site
+wikidata_id: Q1149972
+description: In the quaint region of Wittmund, Germany, Cäcilien- und Margarethenkirche
+  stands as a striking example of Gothic architecture. This church, built prima...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kirche%20Leerhafe%20%28Nordseite%29.JPG/1200px-Kirche%20Leerhafe%20%28Nordseite%29.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ChurchLeerhafe.JPG/1200px-ChurchLeerhafe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kirche_Leerhafe.JPG/1200px-Kirche_Leerhafe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1200px-Kirche_Leerhafe_(Nordseite).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kirche_Leerhafe_von_Westen.JPG/1200px-Kirche_Leerhafe_von_Westen.JPG
+image_srcset:
+  Kirche%20Leerhafe%20%28Nordseite%29.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kirche%20Leerhafe%20%28Nordseite%29.JPG/400px-Kirche%20Leerhafe%20%28Nordseite%29.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kirche%20Leerhafe%20%28Nordseite%29.JPG/800px-Kirche%20Leerhafe%20%28Nordseite%29.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kirche%20Leerhafe%20%28Nordseite%29.JPG/1200px-Kirche%20Leerhafe%20%28Nordseite%29.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kirche%20Leerhafe%20%28Nordseite%29.JPG/1920px-Kirche%20Leerhafe%20%28Nordseite%29.JPG
+  ChurchLeerhafe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ChurchLeerhafe.JPG/400px-ChurchLeerhafe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ChurchLeerhafe.JPG/800px-ChurchLeerhafe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ChurchLeerhafe.JPG/1200px-ChurchLeerhafe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ChurchLeerhafe.JPG/1920px-ChurchLeerhafe.JPG
+  Kirche Leerhafe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kirche_Leerhafe.JPG/400px-Kirche_Leerhafe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kirche_Leerhafe.JPG/800px-Kirche_Leerhafe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kirche_Leerhafe.JPG/1200px-Kirche_Leerhafe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kirche_Leerhafe.JPG/1920px-Kirche_Leerhafe.JPG
+  Kirche Leerhafe (Nordseite).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/400px-Kirche_Leerhafe_(Nordseite).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/800px-Kirche_Leerhafe_(Nordseite).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1200px-Kirche_Leerhafe_(Nordseite).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kirche_Leerhafe_(Nordseite).JPG/1920px-Kirche_Leerhafe_(Nordseite).JPG
+  Kirche Leerhafe von Westen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kirche_Leerhafe_von_Westen.JPG/400px-Kirche_Leerhafe_von_Westen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kirche_Leerhafe_von_Westen.JPG/800px-Kirche_Leerhafe_von_Westen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kirche_Leerhafe_von_Westen.JPG/1200px-Kirche_Leerhafe_von_Westen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kirche_Leerhafe_von_Westen.JPG/1920px-Kirche_Leerhafe_von_Westen.JPG
 ---
 
 ## Overview

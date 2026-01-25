@@ -13,7 +13,7 @@ regions:
 latitude: 50.720233
 longitude: 7.117361
 images:
-  - "/images-sites/palais-schaumburg/01-7d92e022-800w.webp"
+  - "/images/palais-schaumburg/01-7d92e022-800w.webp"
 ---
 
 ## Overview

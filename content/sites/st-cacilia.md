@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1728662"
 description: "St. Cäcilia, an evocative church building located in Harsum, Lower Saxony, Germany, invites visitors to explore its rich architectural heritage and the ..."
 images:
-  - "/images-sites/st-cacilia/01-eb4f850f-1920w.webp"
-  - "/images-sites/st-cacilia/02-51ba5d5c-1920w.webp"
-  - "/images-sites/st-cacilia/03-16f43c98-1920w.webp"
+  - "/images/st-cacilia/01-eb4f850f-1920w.webp"
+  - "/images/st-cacilia/02-51ba5d5c-1920w.webp"
+  - "/images/st-cacilia/03-16f43c98-1920w.webp"
 ---
 
 ## Overview

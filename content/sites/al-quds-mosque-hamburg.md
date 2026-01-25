@@ -1,19 +1,43 @@
 ---
-title: "Al-Quds Mosque Hamburg"
+title: Al-Quds Mosque Hamburg
 date: 2026-01-23
 draft: false
-description: "former mosque in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: former mosque in Germany
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55694444
 longitude: 10.01944444
 images:
-  - "/images-sites/al-quds-mosque-hamburg/03-efb5a04d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Quds-kalender.jpg/1200px-Quds-kalender.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/1200px-Quds-panorama.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamburg_relief_location_map.png/1200px-Hamburg_relief_location_map.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Quds-einzelbild.JPG/1200px-Quds-einzelbild.JPG
+image_srcset:
+  Quds-kalender.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Quds-kalender.jpg/400px-Quds-kalender.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Quds-kalender.jpg/800px-Quds-kalender.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Quds-kalender.jpg/1200px-Quds-kalender.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Quds-kalender.jpg/1920px-Quds-kalender.jpg
+  Quds-panorama.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/400px-Quds-panorama.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/800px-Quds-panorama.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/1200px-Quds-panorama.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quds-panorama.JPG/1920px-Quds-panorama.JPG
+  Hamburg relief location map.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamburg_relief_location_map.png/400px-Hamburg_relief_location_map.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamburg_relief_location_map.png/800px-Hamburg_relief_location_map.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamburg_relief_location_map.png/1200px-Hamburg_relief_location_map.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Hamburg_relief_location_map.png/1920px-Hamburg_relief_location_map.png
+  Quds-einzelbild.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Quds-einzelbild.JPG/400px-Quds-einzelbild.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Quds-einzelbild.JPG/800px-Quds-einzelbild.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Quds-einzelbild.JPG/1200px-Quds-einzelbild.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Quds-einzelbild.JPG/1920px-Quds-einzelbild.JPG
 ---
 
 ## Overview

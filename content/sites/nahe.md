@@ -13,7 +13,7 @@ regions:
 latitude: 49.97
 longitude: 7.8886
 images:
-  - "/images-sites/nahe/01-149f8ada-800w.webp"
+  - "/images/nahe/01-149f8ada-800w.webp"
 ---
 
 ## Overview

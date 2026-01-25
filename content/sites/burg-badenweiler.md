@@ -1,27 +1,49 @@
 ---
-title: "Burg Badenweiler"
+title: Burg Badenweiler
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.8025
 longitude: 7.6682
-
-# Images
 images:
-  - "/images-sites/burg-badenweiler/01-c5934b79-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/1200px-Burgruine_(Badenweiler)_jm26095.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Badenweiler_Burg_Baden_100.jpg/1200px-Badenweiler_Burg_Baden_100.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/1200px-00_0526_Burg_Baden_-_Badenweiler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/1200px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/00_2071_Badenweiler_-_Kurhaus.jpg/1200px-00_2071_Badenweiler_-_Kurhaus.jpg
+image_srcset:
+  Burgruine (Badenweiler) jm26095.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/400px-Burgruine_(Badenweiler)_jm26095.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/800px-Burgruine_(Badenweiler)_jm26095.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/1200px-Burgruine_(Badenweiler)_jm26095.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Burgruine_(Badenweiler)_jm26095.jpg/1920px-Burgruine_(Badenweiler)_jm26095.jpg
+  Badenweiler Burg Baden 100.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Badenweiler_Burg_Baden_100.jpg/400px-Badenweiler_Burg_Baden_100.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Badenweiler_Burg_Baden_100.jpg/800px-Badenweiler_Burg_Baden_100.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Badenweiler_Burg_Baden_100.jpg/1200px-Badenweiler_Burg_Baden_100.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Badenweiler_Burg_Baden_100.jpg/1920px-Badenweiler_Burg_Baden_100.jpg
+  00 0526 Burg Baden - Badenweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/400px-00_0526_Burg_Baden_-_Badenweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/800px-00_0526_Burg_Baden_-_Badenweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/1200px-00_0526_Burg_Baden_-_Badenweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/00_0526_Burg_Baden_-_Badenweiler.jpg/1920px-00_0526_Burg_Baden_-_Badenweiler.jpg
+  00 0411 Kurort Badenweiler - Burg Badenweiler.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/400px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/800px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/1200px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg/1920px-00_0411_Kurort_Badenweiler_-_Burg_Badenweiler.jpg
+  00 2071 Badenweiler - Kurhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/00_2071_Badenweiler_-_Kurhaus.jpg/400px-00_2071_Badenweiler_-_Kurhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/00_2071_Badenweiler_-_Kurhaus.jpg/800px-00_2071_Badenweiler_-_Kurhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/00_2071_Badenweiler_-_Kurhaus.jpg/1200px-00_2071_Badenweiler_-_Kurhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/00_2071_Badenweiler_-_Kurhaus.jpg/1920px-00_2071_Badenweiler_-_Kurhaus.jpg
 ---
 
 ## Overview

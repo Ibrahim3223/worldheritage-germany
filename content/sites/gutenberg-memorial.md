@@ -1,19 +1,49 @@
 ---
-title: "Gutenberg memorial"
+title: Gutenberg memorial
 date: 2026-01-23
 draft: false
-description: "Memorial in Mainz, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: Memorial in Mainz, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 49.9988
 longitude: 8.27162
 images:
-  - "/images-sites/gutenberg-memorial/01-17729c27-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg/1200px-Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg/1200px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG/1200px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mainz,_das_Gutenbergdenkmal.jpg/1200px-Mainz,_das_Gutenbergdenkmal.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gutenbergdenkmal_Hannover.jpg/1200px-Gutenbergdenkmal_Hannover.jpg
+image_srcset:
+  Frankfurt am Main, Gutenberg-Denkmal -- 2015 -- 6751.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg/400px-Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg/800px-Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg/1200px-Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg/1920px-Frankfurt_am_Main,_Gutenberg-Denkmal_--_2015_--_6751.jpg
+  Mainz Gutenbergdenkmal BW 2012-08-18 17-20-23.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg/400px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg/800px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg/1200px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg/1920px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-20-23.jpg
+  Mainz Gutenbergdenkmal BW 2012-08-18 17-22-22.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG/400px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG/800px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG/1200px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG/1920px-Mainz_Gutenbergdenkmal_BW_2012-08-18_17-22-22.JPG
+  Mainz, das Gutenbergdenkmal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mainz,_das_Gutenbergdenkmal.jpg/400px-Mainz,_das_Gutenbergdenkmal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mainz,_das_Gutenbergdenkmal.jpg/800px-Mainz,_das_Gutenbergdenkmal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mainz,_das_Gutenbergdenkmal.jpg/1200px-Mainz,_das_Gutenbergdenkmal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mainz,_das_Gutenbergdenkmal.jpg/1920px-Mainz,_das_Gutenbergdenkmal.jpg
+  Gutenbergdenkmal Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gutenbergdenkmal_Hannover.jpg/400px-Gutenbergdenkmal_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gutenbergdenkmal_Hannover.jpg/800px-Gutenbergdenkmal_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gutenbergdenkmal_Hannover.jpg/1200px-Gutenbergdenkmal_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gutenbergdenkmal_Hannover.jpg/1920px-Gutenbergdenkmal_Hannover.jpg
 ---
 
 ## Overview

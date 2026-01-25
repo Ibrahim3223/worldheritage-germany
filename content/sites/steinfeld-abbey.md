@@ -13,7 +13,7 @@ regions:
 latitude: 50.5025
 longitude: 6.56389
 images:
-  - "/images-sites/steinfeld-abbey/01-bce8e3ba-800w.webp"
+  - "/images/steinfeld-abbey/01-bce8e3ba-800w.webp"
 ---
 
 ## Overview

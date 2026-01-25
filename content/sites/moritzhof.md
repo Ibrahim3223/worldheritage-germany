@@ -13,7 +13,7 @@ regions:
 latitude: 50.981058
 longitude: 11.025452
 images:
-  - "/images-sites/moritzhof/01-de69e3c2-800w.webp"
+  - "/images/moritzhof/01-de69e3c2-800w.webp"
 ---
 
 ## Overview

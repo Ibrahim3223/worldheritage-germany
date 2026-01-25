@@ -13,7 +13,7 @@ regions:
 latitude: 52.4989
 longitude: 13.3527
 images:
-  - "/images-sites/metropol/01-9911418d-800w.webp"
+  - "/images/metropol/01-9911418d-800w.webp"
 ---
 
 ## Overview

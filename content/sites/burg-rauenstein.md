@@ -1,19 +1,49 @@
 ---
-title: "Burg Rauenstein"
+title: Burg Rauenstein
 date: 2026-01-23
 draft: false
-description: "castle ruin in Rauenstein, Thüringen"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle ruin in Rauenstein, Thüringen
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.4201
 longitude: 11.055
 images:
-  - "/images-sites/burg-rauenstein/01-9a8a73f6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rauenstein19092011_(34).jpg/1200px-Rauenstein19092011_(34).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rauenstein19092011_(45).jpg/1200px-Rauenstein19092011_(45).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rauenstein19092011_(50).jpg/1200px-Rauenstein19092011_(50).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rauenstein_pano.jpg/1200px-Rauenstein_pano.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rauenstein-001.JPG/1200px-Rauenstein-001.JPG
+image_srcset:
+  Rauenstein19092011 (34).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rauenstein19092011_(34).jpg/400px-Rauenstein19092011_(34).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rauenstein19092011_(34).jpg/800px-Rauenstein19092011_(34).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rauenstein19092011_(34).jpg/1200px-Rauenstein19092011_(34).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rauenstein19092011_(34).jpg/1920px-Rauenstein19092011_(34).jpg
+  Rauenstein19092011 (45).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rauenstein19092011_(45).jpg/400px-Rauenstein19092011_(45).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rauenstein19092011_(45).jpg/800px-Rauenstein19092011_(45).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rauenstein19092011_(45).jpg/1200px-Rauenstein19092011_(45).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rauenstein19092011_(45).jpg/1920px-Rauenstein19092011_(45).jpg
+  Rauenstein19092011 (50).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rauenstein19092011_(50).jpg/400px-Rauenstein19092011_(50).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rauenstein19092011_(50).jpg/800px-Rauenstein19092011_(50).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rauenstein19092011_(50).jpg/1200px-Rauenstein19092011_(50).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rauenstein19092011_(50).jpg/1920px-Rauenstein19092011_(50).jpg
+  Rauenstein pano.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rauenstein_pano.jpg/400px-Rauenstein_pano.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rauenstein_pano.jpg/800px-Rauenstein_pano.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rauenstein_pano.jpg/1200px-Rauenstein_pano.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rauenstein_pano.jpg/1920px-Rauenstein_pano.jpg
+  Rauenstein-001.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rauenstein-001.JPG/400px-Rauenstein-001.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rauenstein-001.JPG/800px-Rauenstein-001.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rauenstein-001.JPG/1200px-Rauenstein-001.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rauenstein-001.JPG/1920px-Rauenstein-001.JPG
 ---
 
 ## Overview

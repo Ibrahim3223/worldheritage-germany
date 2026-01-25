@@ -13,7 +13,7 @@ regions:
 latitude: 53.79416667
 longitude: 9.10805556
 images:
-  - "/images-sites/schnook-aussendeichsflaechen-bei-geversdorf/01-9f5503f5-800w.webp"
+  - "/images/schnook-aussendeichsflaechen-bei-geversdorf/01-9f5503f5-800w.webp"
 ---
 
 ## Overview

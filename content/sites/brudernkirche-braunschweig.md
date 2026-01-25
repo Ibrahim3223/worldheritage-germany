@@ -1,20 +1,51 @@
 ---
-title: "Brüdernkirche Braunschweig"
-site_name: "Brüdernkirche Braunschweig"
-slug: "brudernkirche-braunschweig"
-region: "Lower Saxony"
-
-# Location
+title: Brüdernkirche Braunschweig
+site_name: Brüdernkirche Braunschweig
+slug: brudernkirche-braunschweig
+region: Lower Saxony
 latitude: 52.26555
 longitude: 10.518497
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q996780"
-description: "In the heart of Brunswick, Germany, stands the Brüdernkirche Braunschweig, a striking example of Gothic architecture that has captured the attention of ..."
+- church building
+- religious site
+wikidata_id: Q996780
+description: In the heart of Brunswick, Germany, stands the Brüdernkirche Braunschweig,
+  a striking example of Gothic architecture that has captured the attention of ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bruedernkirche%2002%201a.jpg/1200px-Bruedernkirche%2002%201a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg/1200px-20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/St._Ulrici_in_Braunschweig_(15).JPG/1200px-St._Ulrici_in_Braunschweig_(15).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG/1200px-Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/1200px-Bruedernkirche_02_1a.jpg
+image_srcset:
+  Bruedernkirche%2002%201a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bruedernkirche%2002%201a.jpg/400px-Bruedernkirche%2002%201a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bruedernkirche%2002%201a.jpg/800px-Bruedernkirche%2002%201a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bruedernkirche%2002%201a.jpg/1200px-Bruedernkirche%2002%201a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bruedernkirche%2002%201a.jpg/1920px-Bruedernkirche%2002%201a.jpg
+  20201219 Braunschweig StUlrici BruedernKirche Westportal DSC05083 PtrQs.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg/400px-20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg/800px-20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg/1200px-20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg/1920px-20201219_Braunschweig_StUlrici_BruedernKirche_Westportal_DSC05083_PtrQs.jpg
+  St. Ulrici in Braunschweig (15).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/St._Ulrici_in_Braunschweig_(15).JPG/400px-St._Ulrici_in_Braunschweig_(15).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/St._Ulrici_in_Braunschweig_(15).JPG/800px-St._Ulrici_in_Braunschweig_(15).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/St._Ulrici_in_Braunschweig_(15).JPG/1200px-St._Ulrici_in_Braunschweig_(15).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/St._Ulrici_in_Braunschweig_(15).JPG/1920px-St._Ulrici_in_Braunschweig_(15).JPG
+  Braunschweig Brunswick St Ulrici von Westen (2006).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG/400px-Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG/800px-Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG/1200px-Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG/1920px-Braunschweig_Brunswick_St_Ulrici_von_Westen_(2006).JPG
+  Bruedernkirche 02 1a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/400px-Bruedernkirche_02_1a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/800px-Bruedernkirche_02_1a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/1200px-Bruedernkirche_02_1a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bruedernkirche_02_1a.jpg/1920px-Bruedernkirche_02_1a.jpg
 ---
 
 ## Overview

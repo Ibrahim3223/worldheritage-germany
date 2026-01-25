@@ -1,19 +1,49 @@
 ---
-title: "Dobbertiner See"
+title: Dobbertiner See
 date: 2026-01-23
 draft: false
-description: "lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ludwigslust-Parchim District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.613888888
 longitude: 12.068888888
 images:
-  - "/images-sites/dobbertiner-see/01-5c3a6884-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg/1200px-Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG/1200px-Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg/1200px-Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dobbertiner_See_2008.jpg/1200px-Dobbertiner_See_2008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1200px-Dobbertiner_See_und_Kloster.jpg
+image_srcset:
+  Dobbertiner See Kloster 7 September 2020 SJ Eda IMG 4749 a.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg/400px-Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg/800px-Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg/1200px-Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg/1920px-Dobbertiner_See_Kloster_7_September_2020_SJ_Eda_IMG_4749_a.jpg
+  Dobbertiner See Waldweg SJ Eda 5 Mai 2022 IMG 7026.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG/400px-Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG/800px-Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG/1200px-Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG/1920px-Dobbertiner_See_Waldweg_SJ_Eda_5_Mai_2022_IMG_7026.JPG
+  Dobbertin Mildenitz SJ Eda 20220502 163306.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg/400px-Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg/800px-Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg/1200px-Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg/1920px-Dobbertin_Mildenitz_SJ_Eda_20220502_163306.jpg
+  Dobbertiner See 2008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dobbertiner_See_2008.jpg/400px-Dobbertiner_See_2008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dobbertiner_See_2008.jpg/800px-Dobbertiner_See_2008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dobbertiner_See_2008.jpg/1200px-Dobbertiner_See_2008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dobbertiner_See_2008.jpg/1920px-Dobbertiner_See_2008.jpg
+  Dobbertiner See und Kloster.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/400px-Dobbertiner_See_und_Kloster.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/800px-Dobbertiner_See_und_Kloster.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1200px-Dobbertiner_See_und_Kloster.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dobbertiner_See_und_Kloster.jpg/1920px-Dobbertiner_See_und_Kloster.jpg
 ---
 
 ## Overview

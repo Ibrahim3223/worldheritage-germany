@@ -21,8 +21,8 @@ longitude: 11.9262
 
 # Images
 images:
-  - "/images-sites/middle-elbe-biosphere-reserve/02-c3c21985-800w.webp"
-  - "/images-sites/middle-elbe-biosphere-reserve/03-8b20055b-800w.webp"
+  - "/images/middle-elbe-biosphere-reserve/02-c3c21985-800w.webp"
+  - "/images/middle-elbe-biosphere-reserve/03-8b20055b-800w.webp"
 ---
 
 ## Overview

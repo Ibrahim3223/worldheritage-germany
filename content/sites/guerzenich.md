@@ -1,19 +1,49 @@
 ---
-title: "Gürzenich"
+title: Gürzenich
 date: 2026-01-23
 draft: false
-description: "architectural structure in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: architectural structure in Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 50.936672
 longitude: 6.958461
 images:
-  - "/images-sites/guerzenich/01-a3322ac5-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg/1200px-Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg/1200px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg/1200px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg/1200px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG/1200px-8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG
+image_srcset:
+  Preisverleihung Konrad-Adenauer-Preis 2012 an Petra Roth-9516.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg/400px-Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg/800px-Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg/1200px-Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg/1920px-Preisverleihung_Konrad-Adenauer-Preis_2012_an_Petra_Roth-9516.jpg
+  Verleihung Konrad-Adenauer-Preis der Stadt Köln 2015 an Vitali Klitschko-7616.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg/400px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg/800px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg/1200px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg/1920px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7616.jpg
+  Verleihung Konrad-Adenauer-Preis der Stadt Köln 2015 an Vitali Klitschko-7617.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg/400px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg/800px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg/1200px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg/1920px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2015_an_Vitali_Klitschko-7617.jpg
+  Verleihung Konrad-Adenauer-Preis der Stadt Köln 2017 an Liverpool-3676.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg/400px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg/800px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg/1200px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg/1920px-Verleihung_Konrad-Adenauer-Preis_der_Stadt_Köln_2017_an_Liverpool-3676.jpg
+  8th symphony of Mahler, Kölner Philharmonie, 27-6-2009.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG/400px-8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG/800px-8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG/1200px-8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG/1920px-8th_symphony_of_Mahler,_Kölner_Philharmonie,_27-6-2009.JPG
 ---
 
 ## Overview

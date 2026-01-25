@@ -13,8 +13,8 @@ regions:
 latitude: 54.465833333
 longitude: 13.205833333
 images:
-  - "/images-sites/maehrens/02-a31d87e4-800w.webp"
-  - "/images-sites/maehrens/03-0708fbd4-800w.webp"
+  - "/images/maehrens/02-a31d87e4-800w.webp"
+  - "/images/maehrens/03-0708fbd4-800w.webp"
 ---
 
 ## Overview

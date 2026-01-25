@@ -1,28 +1,49 @@
 ---
-title: "Botanischer Garten der Universität Heidelberg"
+title: Botanischer Garten der Universität Heidelberg
 date: 2026-01-23
 draft: false
-description: "botanical garden"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Botanical Garden"
-
-# Taxonomies
+description: botanical garden
+region: Germany
+country: Germany
+heritage_type: Botanical Garden
 categories:
-  - "Botanical Garden"
+- Botanical Garden
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.4148
 longitude: 8.66778
-
-# Images
 images:
-  - "/images-sites/botanischer-garten-der-universitaet-heidelberg/02-e3825e72-800w.webp"
-  - "/images-sites/botanischer-garten-der-universitaet-heidelberg/03-e82747d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg/1200px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg/1200px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Botanischer_Garten_(134989501).jpeg/1200px-Botanischer_Garten_(134989501).jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Botanischer_Garten_Heidelberg_(134989497).jpeg/1200px-Botanischer_Garten_Heidelberg_(134989497).jpeg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1200px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
+image_srcset:
+  Botanischer Garten - Heidelberg, Germany - DSC00877.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg/400px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg/800px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg/1200px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg/1920px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00877.jpg
+  Botanischer Garten - Heidelberg, Germany - DSC00898.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg/400px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg/800px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg/1200px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg/1920px-Botanischer_Garten_-_Heidelberg,_Germany_-_DSC00898.jpg
+  Botanischer Garten (134989501).jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Botanischer_Garten_(134989501).jpeg/400px-Botanischer_Garten_(134989501).jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Botanischer_Garten_(134989501).jpeg/800px-Botanischer_Garten_(134989501).jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Botanischer_Garten_(134989501).jpeg/1200px-Botanischer_Garten_(134989501).jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Botanischer_Garten_(134989501).jpeg/1920px-Botanischer_Garten_(134989501).jpeg
+  Botanischer Garten Heidelberg (134989497).jpeg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Botanischer_Garten_Heidelberg_(134989497).jpeg/400px-Botanischer_Garten_Heidelberg_(134989497).jpeg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Botanischer_Garten_Heidelberg_(134989497).jpeg/800px-Botanischer_Garten_Heidelberg_(134989497).jpeg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Botanischer_Garten_Heidelberg_(134989497).jpeg/1200px-Botanischer_Garten_Heidelberg_(134989497).jpeg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Botanischer_Garten_Heidelberg_(134989497).jpeg/1920px-Botanischer_Garten_Heidelberg_(134989497).jpeg
+  Botanischer Garten Heidelberg - Bromelienschauhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/400px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/800px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1200px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg/1920px-Botanischer_Garten_Heidelberg_-_Bromelienschauhaus.jpg
 ---
 
 ## Overview

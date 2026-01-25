@@ -13,7 +13,7 @@ regions:
 latitude: 51.2553
 longitude: 7.15666
 images:
-  - "/images-sites/schauspielhaus-wuppertal/01-f0736f2b-800w.webp"
+  - "/images/schauspielhaus-wuppertal/01-f0736f2b-800w.webp"
 ---
 
 ## Overview

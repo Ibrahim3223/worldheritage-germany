@@ -1,27 +1,49 @@
 ---
-title: "Giessen Old Castle"
+title: Giessen Old Castle
 date: 2026-01-23
 draft: false
-description: "Castle in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: Castle in Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.587
 longitude: 8.6769
-
-# Images
 images:
-  - "/images-sites/giessen-old-castle/01-8e39f0d6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Altes_Schloss_in_Giessen_(3).jpg/1200px-Altes_Schloss_in_Giessen_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Altes_Schloss_in_Giessen_(5).jpg/1200px-Altes_Schloss_in_Giessen_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Altes_Schloss_in_Giessen_(7).jpg/1200px-Altes_Schloss_in_Giessen_(7).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Schloss_in_Giessen_(10).jpg/1200px-Altes_Schloss_in_Giessen_(10).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/1200px-Gießen_Altes_Schloss_20070519.jpg
+image_srcset:
+  Altes Schloss in Giessen (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Altes_Schloss_in_Giessen_(3).jpg/400px-Altes_Schloss_in_Giessen_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Altes_Schloss_in_Giessen_(3).jpg/800px-Altes_Schloss_in_Giessen_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Altes_Schloss_in_Giessen_(3).jpg/1200px-Altes_Schloss_in_Giessen_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Altes_Schloss_in_Giessen_(3).jpg/1920px-Altes_Schloss_in_Giessen_(3).jpg
+  Altes Schloss in Giessen (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Altes_Schloss_in_Giessen_(5).jpg/400px-Altes_Schloss_in_Giessen_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Altes_Schloss_in_Giessen_(5).jpg/800px-Altes_Schloss_in_Giessen_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Altes_Schloss_in_Giessen_(5).jpg/1200px-Altes_Schloss_in_Giessen_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Altes_Schloss_in_Giessen_(5).jpg/1920px-Altes_Schloss_in_Giessen_(5).jpg
+  Altes Schloss in Giessen (7).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Altes_Schloss_in_Giessen_(7).jpg/400px-Altes_Schloss_in_Giessen_(7).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Altes_Schloss_in_Giessen_(7).jpg/800px-Altes_Schloss_in_Giessen_(7).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Altes_Schloss_in_Giessen_(7).jpg/1200px-Altes_Schloss_in_Giessen_(7).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Altes_Schloss_in_Giessen_(7).jpg/1920px-Altes_Schloss_in_Giessen_(7).jpg
+  Altes Schloss in Giessen (10).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Schloss_in_Giessen_(10).jpg/400px-Altes_Schloss_in_Giessen_(10).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Schloss_in_Giessen_(10).jpg/800px-Altes_Schloss_in_Giessen_(10).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Schloss_in_Giessen_(10).jpg/1200px-Altes_Schloss_in_Giessen_(10).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Altes_Schloss_in_Giessen_(10).jpg/1920px-Altes_Schloss_in_Giessen_(10).jpg
+  Gießen Altes Schloss 20070519.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/400px-Gießen_Altes_Schloss_20070519.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/800px-Gießen_Altes_Schloss_20070519.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/1200px-Gießen_Altes_Schloss_20070519.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gießen_Altes_Schloss_20070519.jpg/1920px-Gießen_Altes_Schloss_20070519.jpg
 ---
 
 ## Overview

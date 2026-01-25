@@ -13,9 +13,9 @@ regions:
 latitude: 51.7598
 longitude: 14.3345
 images:
-  - "/images-sites/wendisches-museum/01-e9ff9754-800w.webp"
-  - "/images-sites/wendisches-museum/02-cc019dba-800w.webp"
-  - "/images-sites/wendisches-museum/03-5f8bba4b-800w.webp"
+  - "/images/wendisches-museum/01-e9ff9754-800w.webp"
+  - "/images/wendisches-museum/02-cc019dba-800w.webp"
+  - "/images/wendisches-museum/03-5f8bba4b-800w.webp"
 ---
 
 ## Overview

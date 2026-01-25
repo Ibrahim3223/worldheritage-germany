@@ -13,7 +13,7 @@ regions:
 latitude: 53.1664
 longitude: 7.30944
 images:
-  - "/images-sites/puettenbollen/01-ec241264-800w.webp"
+  - "/images/puettenbollen/01-ec241264-800w.webp"
 ---
 
 ## Overview

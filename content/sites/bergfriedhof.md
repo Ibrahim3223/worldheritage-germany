@@ -1,21 +1,49 @@
 ---
-title: "Bergfriedhof"
+title: Bergfriedhof
 date: 2026-01-23
 draft: false
-description: "cemetery in Heidelberg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3972
 longitude: 8.69028
 images:
-  - "/images-sites/bergfriedhof/01-67f3f8b7-800w.webp"
-  - "/images-sites/bergfriedhof/02-79f68560-800w.webp"
-  - "/images-sites/bergfriedhof/03-a2ccf16d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MaxWolf_Grab_2.jpg/1200px-MaxWolf_Grab_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg/1200px-20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/20230513_Bergfriedhof,_Stuttgart_-_4168.jpg/1200px-20230513_Bergfriedhof,_Stuttgart_-_4168.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/20230513_Bergfriedhof,_Stuttgart_-_4166.jpg/1200px-20230513_Bergfriedhof,_Stuttgart_-_4166.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bergfriedhof_Haupteingang.JPG/1200px-Bergfriedhof_Haupteingang.JPG
+image_srcset:
+  MaxWolf Grab 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MaxWolf_Grab_2.jpg/400px-MaxWolf_Grab_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MaxWolf_Grab_2.jpg/800px-MaxWolf_Grab_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MaxWolf_Grab_2.jpg/1200px-MaxWolf_Grab_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MaxWolf_Grab_2.jpg/1920px-MaxWolf_Grab_2.jpg
+  20230513 Portal Bergfriedhof, Stuttgart - 4164.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg/400px-20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg/800px-20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg/1200px-20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg/1920px-20230513_Portal_Bergfriedhof,_Stuttgart_-_4164.jpg
+  20230513 Bergfriedhof, Stuttgart - 4168.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/20230513_Bergfriedhof,_Stuttgart_-_4168.jpg/400px-20230513_Bergfriedhof,_Stuttgart_-_4168.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/20230513_Bergfriedhof,_Stuttgart_-_4168.jpg/800px-20230513_Bergfriedhof,_Stuttgart_-_4168.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/20230513_Bergfriedhof,_Stuttgart_-_4168.jpg/1200px-20230513_Bergfriedhof,_Stuttgart_-_4168.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/20230513_Bergfriedhof,_Stuttgart_-_4168.jpg/1920px-20230513_Bergfriedhof,_Stuttgart_-_4168.jpg
+  20230513 Bergfriedhof, Stuttgart - 4166.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/20230513_Bergfriedhof,_Stuttgart_-_4166.jpg/400px-20230513_Bergfriedhof,_Stuttgart_-_4166.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/20230513_Bergfriedhof,_Stuttgart_-_4166.jpg/800px-20230513_Bergfriedhof,_Stuttgart_-_4166.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/20230513_Bergfriedhof,_Stuttgart_-_4166.jpg/1200px-20230513_Bergfriedhof,_Stuttgart_-_4166.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/20230513_Bergfriedhof,_Stuttgart_-_4166.jpg/1920px-20230513_Bergfriedhof,_Stuttgart_-_4166.jpg
+  Bergfriedhof Haupteingang.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bergfriedhof_Haupteingang.JPG/400px-Bergfriedhof_Haupteingang.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bergfriedhof_Haupteingang.JPG/800px-Bergfriedhof_Haupteingang.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bergfriedhof_Haupteingang.JPG/1200px-Bergfriedhof_Haupteingang.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bergfriedhof_Haupteingang.JPG/1920px-Bergfriedhof_Haupteingang.JPG
 ---
 
 ## Overview

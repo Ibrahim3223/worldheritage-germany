@@ -13,7 +13,7 @@ regions:
 latitude: 48.763443039
 longitude: 11.424610671
 images:
-  - "/images-sites/pfeifturm/01-66ddd626-800w.webp"
+  - "/images/pfeifturm/01-66ddd626-800w.webp"
 ---
 
 ## Overview

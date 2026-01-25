@@ -13,9 +13,9 @@ regions:
 latitude: 49.1457
 longitude: 9.22319
 images:
-  - "/images-sites/stadttheater-heilbronn/01-7e6c3fb2-800w.webp"
-  - "/images-sites/stadttheater-heilbronn/01-d2da9517-800w.webp"
-  - "/images-sites/stadttheater-heilbronn/02-7e6c3fb2-800w.webp"
+  - "/images/stadttheater-heilbronn/01-7e6c3fb2-800w.webp"
+  - "/images/stadttheater-heilbronn/01-d2da9517-800w.webp"
+  - "/images/stadttheater-heilbronn/02-7e6c3fb2-800w.webp"
 ---
 
 ## Overview

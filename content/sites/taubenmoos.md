@@ -13,7 +13,7 @@ regions:
 latitude: 47.774661111
 longitude: 8.030538888
 images:
-  - "/images-sites/taubenmoos/01-982bbf24-800w.webp"
+  - "/images/taubenmoos/01-982bbf24-800w.webp"
 ---
 
 ## Overview

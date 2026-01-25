@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q2327389"
 description: "In the heart of Goldberg, Germany, the Stadtkirche Goldberg serves as a striking example of Brick Gothic architecture. This church building, constructed..."
 images:
-  - "/images-sites/stadtkirche-goldberg/01-8fa8d80d-1920w.webp"
-  - "/images-sites/stadtkirche-goldberg/02-6f145883-1920w.webp"
-  - "/images-sites/stadtkirche-goldberg/03-2cb23fe7-1920w.webp"
+  - "/images/stadtkirche-goldberg/01-8fa8d80d-1920w.webp"
+  - "/images/stadtkirche-goldberg/02-6f145883-1920w.webp"
+  - "/images/stadtkirche-goldberg/03-2cb23fe7-1920w.webp"
 ---
 
 ## Overview

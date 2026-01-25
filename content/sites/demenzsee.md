@@ -1,19 +1,49 @@
 ---
-title: "Demenzsee"
+title: Demenzsee
 date: 2026-01-23
 draft: false
-description: "lake in Vorpommern-Greifswald District, Mecklenburg-Vorpommern, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Vorpommern-Greifswald District, Mecklenburg-Vorpommern, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 53.550555555
 longitude: 13.800555555
 images:
-  - "/images-sites/demenzsee/01-a0eef9ce-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Demenzsee.jpg/1200px-Demenzsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Demenzsee-12-11-2009-032.jpg/1200px-Demenzsee-12-11-2009-032.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Demenzsee-12-11-2009-034.jpg/1200px-Demenzsee-12-11-2009-034.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Demenzsee-12-11-2009-038.jpg/1200px-Demenzsee-12-11-2009-038.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Demenzsee-12-11-2009-040.jpg/1200px-Demenzsee-12-11-2009-040.jpg
+image_srcset:
+  Demenzsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Demenzsee.jpg/400px-Demenzsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Demenzsee.jpg/800px-Demenzsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Demenzsee.jpg/1200px-Demenzsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Demenzsee.jpg/1920px-Demenzsee.jpg
+  Demenzsee-12-11-2009-032.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Demenzsee-12-11-2009-032.jpg/400px-Demenzsee-12-11-2009-032.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Demenzsee-12-11-2009-032.jpg/800px-Demenzsee-12-11-2009-032.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Demenzsee-12-11-2009-032.jpg/1200px-Demenzsee-12-11-2009-032.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Demenzsee-12-11-2009-032.jpg/1920px-Demenzsee-12-11-2009-032.jpg
+  Demenzsee-12-11-2009-034.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Demenzsee-12-11-2009-034.jpg/400px-Demenzsee-12-11-2009-034.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Demenzsee-12-11-2009-034.jpg/800px-Demenzsee-12-11-2009-034.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Demenzsee-12-11-2009-034.jpg/1200px-Demenzsee-12-11-2009-034.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Demenzsee-12-11-2009-034.jpg/1920px-Demenzsee-12-11-2009-034.jpg
+  Demenzsee-12-11-2009-038.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Demenzsee-12-11-2009-038.jpg/400px-Demenzsee-12-11-2009-038.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Demenzsee-12-11-2009-038.jpg/800px-Demenzsee-12-11-2009-038.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Demenzsee-12-11-2009-038.jpg/1200px-Demenzsee-12-11-2009-038.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Demenzsee-12-11-2009-038.jpg/1920px-Demenzsee-12-11-2009-038.jpg
+  Demenzsee-12-11-2009-040.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Demenzsee-12-11-2009-040.jpg/400px-Demenzsee-12-11-2009-040.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Demenzsee-12-11-2009-040.jpg/800px-Demenzsee-12-11-2009-040.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Demenzsee-12-11-2009-040.jpg/1200px-Demenzsee-12-11-2009-040.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Demenzsee-12-11-2009-040.jpg/1920px-Demenzsee-12-11-2009-040.jpg
 ---
 
 ## Overview

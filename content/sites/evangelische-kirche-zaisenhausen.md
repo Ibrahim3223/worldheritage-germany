@@ -1,24 +1,51 @@
 ---
-title: "Evangelische Kirche (Zaisenhausen)"
-site_name: "Evangelische Kirche (Zaisenhausen)"
-slug: "evangelische-kirche-zaisenhausen"
-region: "Baden-Württemberg"
-
-# Location
+title: Evangelische Kirche (Zaisenhausen)
+site_name: Evangelische Kirche (Zaisenhausen)
+slug: evangelische-kirche-zaisenhausen
+region: Baden-Württemberg
 latitude: 49.1071
 longitude: 8.81735
 regions:
-    - "Baden-Württemberg"
-heritage_type: "cultural site"
+- Baden-Württemberg
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1380427"
-description: "The Evangelische Kirche in Zaisenhausen is a noteworthy example of Romanesque Revival architecture, showcasing the rich cultural tapestry of Germanys re..."
+- church building
+- religious site
+wikidata_id: Q1380427
+description: The Evangelische Kirche in Zaisenhausen is a noteworthy example of Romanesque
+  Revival architecture, showcasing the rich cultural tapestry of Germanys re...
 images:
-  - "/images-sites/evangelische-kirche-zaisenhausen/01-702b2885-1920w.webp"
-  - "/images-sites/evangelische-kirche-zaisenhausen/02-4f2b3f2a-1920w.webp"
-  - "/images-sites/evangelische-kirche-zaisenhausen/03-52512661-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zaisenhausen%20Evangelische%20Kirche%20215.JPG/1200px-Zaisenhausen%20Evangelische%20Kirche%20215.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kruzifix_evang_Kirche_Zaisenhausen.jpg/1200px-Kruzifix_evang_Kirche_Zaisenhausen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/1200px-Zaisenhausen_Evangelische_Kirche_215.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zaisenhausen_Evangelische_Kirche_214.JPG/1200px-Zaisenhausen_Evangelische_Kirche_214.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Liebfrauenkirche_im_Winter.jpg/1200px-Liebfrauenkirche_im_Winter.jpg
+image_srcset:
+  Zaisenhausen%20Evangelische%20Kirche%20215.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zaisenhausen%20Evangelische%20Kirche%20215.JPG/400px-Zaisenhausen%20Evangelische%20Kirche%20215.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zaisenhausen%20Evangelische%20Kirche%20215.JPG/800px-Zaisenhausen%20Evangelische%20Kirche%20215.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zaisenhausen%20Evangelische%20Kirche%20215.JPG/1200px-Zaisenhausen%20Evangelische%20Kirche%20215.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zaisenhausen%20Evangelische%20Kirche%20215.JPG/1920px-Zaisenhausen%20Evangelische%20Kirche%20215.JPG
+  Kruzifix evang Kirche Zaisenhausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kruzifix_evang_Kirche_Zaisenhausen.jpg/400px-Kruzifix_evang_Kirche_Zaisenhausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kruzifix_evang_Kirche_Zaisenhausen.jpg/800px-Kruzifix_evang_Kirche_Zaisenhausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kruzifix_evang_Kirche_Zaisenhausen.jpg/1200px-Kruzifix_evang_Kirche_Zaisenhausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kruzifix_evang_Kirche_Zaisenhausen.jpg/1920px-Kruzifix_evang_Kirche_Zaisenhausen.jpg
+  Zaisenhausen Evangelische Kirche 215.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/400px-Zaisenhausen_Evangelische_Kirche_215.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/800px-Zaisenhausen_Evangelische_Kirche_215.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/1200px-Zaisenhausen_Evangelische_Kirche_215.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Zaisenhausen_Evangelische_Kirche_215.JPG/1920px-Zaisenhausen_Evangelische_Kirche_215.JPG
+  Zaisenhausen Evangelische Kirche 214.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zaisenhausen_Evangelische_Kirche_214.JPG/400px-Zaisenhausen_Evangelische_Kirche_214.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zaisenhausen_Evangelische_Kirche_214.JPG/800px-Zaisenhausen_Evangelische_Kirche_214.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zaisenhausen_Evangelische_Kirche_214.JPG/1200px-Zaisenhausen_Evangelische_Kirche_214.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Zaisenhausen_Evangelische_Kirche_214.JPG/1920px-Zaisenhausen_Evangelische_Kirche_214.JPG
+  Liebfrauenkirche im Winter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Liebfrauenkirche_im_Winter.jpg/400px-Liebfrauenkirche_im_Winter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Liebfrauenkirche_im_Winter.jpg/800px-Liebfrauenkirche_im_Winter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Liebfrauenkirche_im_Winter.jpg/1200px-Liebfrauenkirche_im_Winter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Liebfrauenkirche_im_Winter.jpg/1920px-Liebfrauenkirche_im_Winter.jpg
 ---
 
 ## Overview

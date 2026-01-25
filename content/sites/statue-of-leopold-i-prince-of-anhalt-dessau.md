@@ -13,7 +13,7 @@ regions:
 latitude: 52.5115231
 longitude: 13.3836847
 images:
-  - "/images-sites/statue-of-leopold-i-prince-of-anhalt-dessau/01-28765c08-800w.webp"
+  - "/images/statue-of-leopold-i-prince-of-anhalt-dessau/01-28765c08-800w.webp"
 ---
 
 ## Overview

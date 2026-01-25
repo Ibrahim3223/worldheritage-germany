@@ -1,27 +1,49 @@
 ---
-title: "Burg Schönburg"
+title: Burg Schönburg
 date: 2026-01-23
 draft: false
-description: "castle ruin in Saxony-Anhalt, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle ruin in Saxony-Anhalt, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.1606
 longitude: 11.8685
-
-# Images
 images:
-  - "/images-sites/burg-schoenburg/01-4c963ff7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schönburg._Insektenhotel.jpg/1200px-Schönburg._Insektenhotel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg/1200px-Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg/1200px-Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg/1200px-Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schönburg2.jpg/1200px-Schönburg2.jpg
+image_srcset:
+  Schönburg. Insektenhotel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schönburg._Insektenhotel.jpg/400px-Schönburg._Insektenhotel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schönburg._Insektenhotel.jpg/800px-Schönburg._Insektenhotel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schönburg._Insektenhotel.jpg/1200px-Schönburg._Insektenhotel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Schönburg._Insektenhotel.jpg/1920px-Schönburg._Insektenhotel.jpg
+  Schönburg-Saale Burg-Südmauer 20220720 152754.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg/400px-Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg/800px-Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg/1200px-Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg/1920px-Schönburg-Saale_Burg-Südmauer_20220720_152754.jpg
+  Naumburg (Saale), Sachsen-Anhalt - Schönburg (2) (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg/400px-Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg/800px-Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg/1200px-Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg/1920px-Naumburg_(Saale),_Sachsen-Anhalt_-_Schönburg_(2)_(Zeno_Ansichtskarten).jpg
+  Schönburg (Kr. Naumburg), Sachsen-Anhalt - Burgruine (2) (Zeno Ansichtskarten).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg/400px-Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg/800px-Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg/1200px-Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg/1920px-Schönburg_(Kr._Naumburg),_Sachsen-Anhalt_-_Burgruine_(2)_(Zeno_Ansichtskarten).jpg
+  Schönburg2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schönburg2.jpg/400px-Schönburg2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schönburg2.jpg/800px-Schönburg2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schönburg2.jpg/1200px-Schönburg2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schönburg2.jpg/1920px-Schönburg2.jpg
 ---
 
 ## Overview

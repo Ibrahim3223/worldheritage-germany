@@ -21,7 +21,7 @@ longitude: 14.32
 
 # Images
 images:
-  - "/images-sites/oberlausitzer-heide-und-teichlandschaft-biosphere-reserve/01-a95e7293-800w.webp"
+  - "/images/oberlausitzer-heide-und-teichlandschaft-biosphere-reserve/01-a95e7293-800w.webp"
 ---
 
 ## Overview

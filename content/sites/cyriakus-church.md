@@ -1,23 +1,50 @@
 ---
-title: "Cyriakus church"
-site_name: "Cyriakus church"
-slug: "cyriakus-church"
-region: "Lower Saxony"
-
-# Location
+title: Cyriakus church
+site_name: Cyriakus church
+slug: cyriakus-church
+region: Lower Saxony
 latitude: 52.2448
 longitude: 10.4903
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1148513"
-description: "Cyriakus Church, an iconic modern architectural masterpiece, sits prominently in Brunswick, Germany. This unique structure invites visitors to explore a..."
+- cultural site
+wikidata_id: Q1148513
+description: Cyriakus Church, an iconic modern architectural masterpiece, sits prominently
+  in Brunswick, Germany. This unique structure invites visitors to explore a...
 images:
-  - "/images-sites/cyriakus-church/01-fb8169c4-1920w.webp"
-  - "/images-sites/cyriakus-church/02-aae1e28b-1920w.webp"
-  - "/images-sites/cyriakus-church/03-aa66034b-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Braunschweig%20Cyriakuskirche%202015-4.jpg/1200px-Braunschweig%20Cyriakuskirche%202015-4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/St._Cyriakus_(Neuss_-_Grimlinghausen).jpg/1200px-St._Cyriakus_(Neuss_-_Grimlinghausen).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grimlinghausen_St_Cyriakus1.JPG/1200px-Grimlinghausen_St_Cyriakus1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grimlinghausen_St_Cyriakus3.JPG/1200px-Grimlinghausen_St_Cyriakus3.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grimlinghausen_St_Cyriakus4.JPG/1200px-Grimlinghausen_St_Cyriakus4.JPG
+image_srcset:
+  Braunschweig%20Cyriakuskirche%202015-4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Braunschweig%20Cyriakuskirche%202015-4.jpg/400px-Braunschweig%20Cyriakuskirche%202015-4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Braunschweig%20Cyriakuskirche%202015-4.jpg/800px-Braunschweig%20Cyriakuskirche%202015-4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Braunschweig%20Cyriakuskirche%202015-4.jpg/1200px-Braunschweig%20Cyriakuskirche%202015-4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Braunschweig%20Cyriakuskirche%202015-4.jpg/1920px-Braunschweig%20Cyriakuskirche%202015-4.jpg
+  St. Cyriakus (Neuss - Grimlinghausen).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/St._Cyriakus_(Neuss_-_Grimlinghausen).jpg/400px-St._Cyriakus_(Neuss_-_Grimlinghausen).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/St._Cyriakus_(Neuss_-_Grimlinghausen).jpg/800px-St._Cyriakus_(Neuss_-_Grimlinghausen).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/St._Cyriakus_(Neuss_-_Grimlinghausen).jpg/1200px-St._Cyriakus_(Neuss_-_Grimlinghausen).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/St._Cyriakus_(Neuss_-_Grimlinghausen).jpg/1920px-St._Cyriakus_(Neuss_-_Grimlinghausen).jpg
+  Grimlinghausen St Cyriakus1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grimlinghausen_St_Cyriakus1.JPG/400px-Grimlinghausen_St_Cyriakus1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grimlinghausen_St_Cyriakus1.JPG/800px-Grimlinghausen_St_Cyriakus1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grimlinghausen_St_Cyriakus1.JPG/1200px-Grimlinghausen_St_Cyriakus1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grimlinghausen_St_Cyriakus1.JPG/1920px-Grimlinghausen_St_Cyriakus1.JPG
+  Grimlinghausen St Cyriakus3.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grimlinghausen_St_Cyriakus3.JPG/400px-Grimlinghausen_St_Cyriakus3.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grimlinghausen_St_Cyriakus3.JPG/800px-Grimlinghausen_St_Cyriakus3.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grimlinghausen_St_Cyriakus3.JPG/1200px-Grimlinghausen_St_Cyriakus3.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Grimlinghausen_St_Cyriakus3.JPG/1920px-Grimlinghausen_St_Cyriakus3.JPG
+  Grimlinghausen St Cyriakus4.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grimlinghausen_St_Cyriakus4.JPG/400px-Grimlinghausen_St_Cyriakus4.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grimlinghausen_St_Cyriakus4.JPG/800px-Grimlinghausen_St_Cyriakus4.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grimlinghausen_St_Cyriakus4.JPG/1200px-Grimlinghausen_St_Cyriakus4.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Grimlinghausen_St_Cyriakus4.JPG/1920px-Grimlinghausen_St_Cyriakus4.JPG
 ---
 
 ## Overview

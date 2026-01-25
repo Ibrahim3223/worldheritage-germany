@@ -13,7 +13,7 @@ regions:
 latitude: 51.403
 longitude: 6.88164
 images:
-  - "/images-sites/kloster-saarn/01-ce9abc03-800w.webp"
+  - "/images/kloster-saarn/01-ce9abc03-800w.webp"
 ---
 
 ## Overview

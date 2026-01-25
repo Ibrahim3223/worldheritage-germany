@@ -1,27 +1,49 @@
 ---
-title: "Castle Bibra"
+title: Castle Bibra
 date: 2026-01-23
 draft: false
-description: "castle in Thuringia, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Thuringia, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.469722
 longitude: 10.44
-
-# Images
 images:
-  - "/images-sites/castle-bibra/01-b05ce8b9-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bibra_Burg-20080806-RM-112708.jpg/1200px-Bibra_Burg-20080806-RM-112708.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibra_Burg-20080806-RM-112836.jpg/1200px-Bibra_Burg-20080806-RM-112836.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bibra_Burg-20080806-RM-113348.jpg/1200px-Bibra_Burg-20080806-RM-113348.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bibra_Burg-20080806-RM-113656.jpg/1200px-Bibra_Burg-20080806-RM-113656.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bibra_Burg-20080806-RM-114639.jpg/1200px-Bibra_Burg-20080806-RM-114639.jpg
+image_srcset:
+  Bibra Burg-20080806-RM-112708.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bibra_Burg-20080806-RM-112708.jpg/400px-Bibra_Burg-20080806-RM-112708.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bibra_Burg-20080806-RM-112708.jpg/800px-Bibra_Burg-20080806-RM-112708.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bibra_Burg-20080806-RM-112708.jpg/1200px-Bibra_Burg-20080806-RM-112708.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bibra_Burg-20080806-RM-112708.jpg/1920px-Bibra_Burg-20080806-RM-112708.jpg
+  Bibra Burg-20080806-RM-112836.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibra_Burg-20080806-RM-112836.jpg/400px-Bibra_Burg-20080806-RM-112836.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibra_Burg-20080806-RM-112836.jpg/800px-Bibra_Burg-20080806-RM-112836.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibra_Burg-20080806-RM-112836.jpg/1200px-Bibra_Burg-20080806-RM-112836.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bibra_Burg-20080806-RM-112836.jpg/1920px-Bibra_Burg-20080806-RM-112836.jpg
+  Bibra Burg-20080806-RM-113348.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bibra_Burg-20080806-RM-113348.jpg/400px-Bibra_Burg-20080806-RM-113348.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bibra_Burg-20080806-RM-113348.jpg/800px-Bibra_Burg-20080806-RM-113348.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bibra_Burg-20080806-RM-113348.jpg/1200px-Bibra_Burg-20080806-RM-113348.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Bibra_Burg-20080806-RM-113348.jpg/1920px-Bibra_Burg-20080806-RM-113348.jpg
+  Bibra Burg-20080806-RM-113656.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bibra_Burg-20080806-RM-113656.jpg/400px-Bibra_Burg-20080806-RM-113656.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bibra_Burg-20080806-RM-113656.jpg/800px-Bibra_Burg-20080806-RM-113656.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bibra_Burg-20080806-RM-113656.jpg/1200px-Bibra_Burg-20080806-RM-113656.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bibra_Burg-20080806-RM-113656.jpg/1920px-Bibra_Burg-20080806-RM-113656.jpg
+  Bibra Burg-20080806-RM-114639.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bibra_Burg-20080806-RM-114639.jpg/400px-Bibra_Burg-20080806-RM-114639.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bibra_Burg-20080806-RM-114639.jpg/800px-Bibra_Burg-20080806-RM-114639.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bibra_Burg-20080806-RM-114639.jpg/1200px-Bibra_Burg-20080806-RM-114639.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bibra_Burg-20080806-RM-114639.jpg/1920px-Bibra_Burg-20080806-RM-114639.jpg
 ---
 
 ## Overview

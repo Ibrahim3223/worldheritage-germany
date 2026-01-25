@@ -13,7 +13,7 @@ regions:
 latitude: 53.54333333
 longitude: 9.99194444
 images:
-  - "/images-sites/speicherstadt/01-707c1756-800w.webp"
+  - "/images/speicherstadt/01-707c1756-800w.webp"
 ---
 
 ## Overview

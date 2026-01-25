@@ -1,21 +1,49 @@
 ---
-title: "Joynext Arena"
+title: Joynext Arena
 date: 2026-01-23
 draft: false
-description: "multi-purpose hall in the Dresden district of Friedrichstadt"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: multi-purpose hall in the Dresden district of Friedrichstadt
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 51.0625
 longitude: 13.722194
 images:
-  - "/images-sites/joynext-arena/01-8407baa2-800w.webp"
-  - "/images-sites/joynext-arena/02-ae7867ab-800w.webp"
-  - "/images-sites/joynext-arena/03-099fb523-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sportforum_Dresden_109.jpg/1200px-Sportforum_Dresden_109.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sportforum_Dresden_119.jpg/1200px-Sportforum_Dresden_119.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sportforum_Dresden_124.jpg/1200px-Sportforum_Dresden_124.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sportforum_Dresden_125.jpg/1200px-Sportforum_Dresden_125.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1200px-EnergieVerbund_Arena.jpg
+image_srcset:
+  Sportforum Dresden 109.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sportforum_Dresden_109.jpg/400px-Sportforum_Dresden_109.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sportforum_Dresden_109.jpg/800px-Sportforum_Dresden_109.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sportforum_Dresden_109.jpg/1200px-Sportforum_Dresden_109.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sportforum_Dresden_109.jpg/1920px-Sportforum_Dresden_109.jpg
+  Sportforum Dresden 119.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sportforum_Dresden_119.jpg/400px-Sportforum_Dresden_119.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sportforum_Dresden_119.jpg/800px-Sportforum_Dresden_119.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sportforum_Dresden_119.jpg/1200px-Sportforum_Dresden_119.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sportforum_Dresden_119.jpg/1920px-Sportforum_Dresden_119.jpg
+  Sportforum Dresden 124.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sportforum_Dresden_124.jpg/400px-Sportforum_Dresden_124.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sportforum_Dresden_124.jpg/800px-Sportforum_Dresden_124.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sportforum_Dresden_124.jpg/1200px-Sportforum_Dresden_124.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sportforum_Dresden_124.jpg/1920px-Sportforum_Dresden_124.jpg
+  Sportforum Dresden 125.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sportforum_Dresden_125.jpg/400px-Sportforum_Dresden_125.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sportforum_Dresden_125.jpg/800px-Sportforum_Dresden_125.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sportforum_Dresden_125.jpg/1200px-Sportforum_Dresden_125.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sportforum_Dresden_125.jpg/1920px-Sportforum_Dresden_125.jpg
+  EnergieVerbund Arena.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/400px-EnergieVerbund_Arena.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/800px-EnergieVerbund_Arena.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1200px-EnergieVerbund_Arena.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/EnergieVerbund_Arena.jpg/1920px-EnergieVerbund_Arena.jpg
 ---
 
 ## Overview

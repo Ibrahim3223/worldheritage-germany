@@ -1,29 +1,49 @@
 ---
-title: "Brauerei Kaiserdom"
+title: Brauerei Kaiserdom
 date: 2026-01-23
 draft: false
-description: "brewery in Bamberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: brewery in Bamberg, Germany
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.904166666
 longitude: 10.852222222
-
-# Images
 images:
-  - "/images-sites/brauerei-kaiserdom/01-1257a9bd-800w.webp"
-  - "/images-sites/brauerei-kaiserdom/02-9afe32c6-800w.webp"
-  - "/images-sites/brauerei-kaiserdom/03-b19f19ad-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg/1200px-Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg/1200px-Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg/1200px-Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/1200px-Brauereigasthof_Kaiserdom.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaustadt-01.JPG/1200px-Gaustadt-01.JPG
+image_srcset:
+  Bamberg Gaustadt Friedhofskapelle HRS-20230929-RM-153927.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg/400px-Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg/800px-Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg/1200px-Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg/1920px-Bamberg_Gaustadt_Friedhofskapelle_HRS-20230929-RM-153927.jpg
+  Bamberg-Gaustadt Kühsee-20170501-RM-100308.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg/400px-Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg/800px-Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg/1200px-Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg/1920px-Bamberg-Gaustadt_Kühsee-20170501-RM-100308.jpg
+  Bamberg Gaustadt Friedhof-20230929-RM-155400.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg/400px-Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg/800px-Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg/1200px-Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg/1920px-Bamberg_Gaustadt_Friedhof-20230929-RM-155400.jpg
+  Brauereigasthof Kaiserdom.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/400px-Brauereigasthof_Kaiserdom.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/800px-Brauereigasthof_Kaiserdom.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/1200px-Brauereigasthof_Kaiserdom.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brauereigasthof_Kaiserdom.jpg/1920px-Brauereigasthof_Kaiserdom.jpg
+  Gaustadt-01.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaustadt-01.JPG/400px-Gaustadt-01.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaustadt-01.JPG/800px-Gaustadt-01.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaustadt-01.JPG/1200px-Gaustadt-01.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gaustadt-01.JPG/1920px-Gaustadt-01.JPG
 ---
 
 ## Overview

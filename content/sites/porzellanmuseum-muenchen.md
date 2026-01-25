@@ -13,9 +13,9 @@ regions:
 latitude: 48.1558
 longitude: 11.5056
 images:
-  - "/images-sites/porzellanmuseum-muenchen/01-78d8d4d5-800w.webp"
-  - "/images-sites/porzellanmuseum-muenchen/02-4f5affa2-800w.webp"
-  - "/images-sites/porzellanmuseum-muenchen/03-4b7f82b6-800w.webp"
+  - "/images/porzellanmuseum-muenchen/01-78d8d4d5-800w.webp"
+  - "/images/porzellanmuseum-muenchen/02-4f5affa2-800w.webp"
+  - "/images/porzellanmuseum-muenchen/03-4b7f82b6-800w.webp"
 ---
 
 ## Overview

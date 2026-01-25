@@ -1,19 +1,50 @@
 ---
-title: "Church in Eickelberg"
-site_name: "Church in Eickelberg"
-slug: "church-in-eickelberg"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Eickelberg
+site_name: Church in Eickelberg
+slug: church-in-eickelberg
+region: Mecklenburg-Vorpommern
 latitude: 53.7745
 longitude: 11.8173
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244253"
-description: "In the heart of Warnow, Germany, the Church in Eickelberg stands as a notable example of Brick Gothic architecture. Its striking brick façade and histor..."
+- cultural site
+wikidata_id: Q1244253
+description: In the heart of Warnow, Germany, the Church in Eickelberg stands as a
+  notable example of Brick Gothic architecture. Its striking brick façade and histor...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eickelberg%20Kirche%202009-07-16%20005.jpg/1200px-Eickelberg%20Kirche%202009-07-16%20005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1200px-Eickelberg_Kirche_2009-07-16_005.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eickelberg_Kirche_2009-07-16_009.jpg/1200px-Eickelberg_Kirche_2009-07-16_009.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png
+image_srcset:
+  Eickelberg%20Kirche%202009-07-16%20005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eickelberg%20Kirche%202009-07-16%20005.jpg/400px-Eickelberg%20Kirche%202009-07-16%20005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eickelberg%20Kirche%202009-07-16%20005.jpg/800px-Eickelberg%20Kirche%202009-07-16%20005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eickelberg%20Kirche%202009-07-16%20005.jpg/1200px-Eickelberg%20Kirche%202009-07-16%20005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Eickelberg%20Kirche%202009-07-16%20005.jpg/1920px-Eickelberg%20Kirche%202009-07-16%20005.jpg
+  Eickelberg Kirche 2009-07-16 005.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/400px-Eickelberg_Kirche_2009-07-16_005.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/800px-Eickelberg_Kirche_2009-07-16_005.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1200px-Eickelberg_Kirche_2009-07-16_005.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Eickelberg_Kirche_2009-07-16_005.jpg/1920px-Eickelberg_Kirche_2009-07-16_005.jpg
+  Eickelberg Kirche 2009-07-16 009.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eickelberg_Kirche_2009-07-16_009.jpg/400px-Eickelberg_Kirche_2009-07-16_009.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eickelberg_Kirche_2009-07-16_009.jpg/800px-Eickelberg_Kirche_2009-07-16_009.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eickelberg_Kirche_2009-07-16_009.jpg/1200px-Eickelberg_Kirche_2009-07-16_009.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Eickelberg_Kirche_2009-07-16_009.jpg/1920px-Eickelberg_Kirche_2009-07-16_009.jpg
+  Die Amtsgerichtsbezirke Schwaan, Bützow, Sternberg, Güstrow, Krakow, Goldberg, Parchim, Lübz und Plau S.148.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png/400px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png/800px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png/1920px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.148.png
+  Die Amtsgerichtsbezirke Schwaan, Bützow, Sternberg, Güstrow, Krakow, Goldberg, Parchim, Lübz und Plau S.149.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png/400px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png/800px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png/1200px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png/1920px-Die_Amtsgerichtsbezirke_Schwaan,_Bützow,_Sternberg,_Güstrow,_Krakow,_Goldberg,_Parchim,_Lübz_und_Plau_S.149.png
 ---
 
 ## Overview

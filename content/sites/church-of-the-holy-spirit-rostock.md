@@ -1,19 +1,50 @@
 ---
-title: "Church of the Holy Spirit (Rostock)"
-site_name: "Church of the Holy Spirit (Rostock)"
-slug: "church-of-the-holy-spirit-rostock"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church of the Holy Spirit (Rostock)
+site_name: Church of the Holy Spirit (Rostock)
+slug: church-of-the-holy-spirit-rostock
+region: Mecklenburg-Vorpommern
 latitude: 54.0886
 longitude: 12.1167
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1595116"
-description: "The Church of the Holy Spirit in Rostock captivates visitors with its striking Gothic Revival architecture and spiritual significance within the Evangel..."
+- cultural site
+wikidata_id: Q1595116
+description: The Church of the Holy Spirit in Rostock captivates visitors with its
+  striking Gothic Revival architecture and spiritual significance within the Evangel...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg/1200px-Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/1200px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg/1200px-Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rostock_HeiGeiKi_Orgel.jpg/1200px-Rostock_HeiGeiKi_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HeiligenGeistKirche.jpg/1200px-HeiligenGeistKirche.jpg
+image_srcset:
+  Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg/400px-Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg/800px-Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg/1200px-Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg/1920px-Rostock%20asv2018-05%20img57%20HolySpiritChurch.jpg
+  Rostock asv2018-05 img57 HolySpiritChurch.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/400px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/800px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/1200px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rostock_asv2018-05_img57_HolySpiritChurch.jpg/1920px-Rostock_asv2018-05_img57_HolySpiritChurch.jpg
+  Bells in Heiligen-Geist-Kirche (Rostock).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg/400px-Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg/800px-Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg/1200px-Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg/1920px-Bells_in_Heiligen-Geist-Kirche_(Rostock).jpg
+  Rostock HeiGeiKi Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rostock_HeiGeiKi_Orgel.jpg/400px-Rostock_HeiGeiKi_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rostock_HeiGeiKi_Orgel.jpg/800px-Rostock_HeiGeiKi_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rostock_HeiGeiKi_Orgel.jpg/1200px-Rostock_HeiGeiKi_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rostock_HeiGeiKi_Orgel.jpg/1920px-Rostock_HeiGeiKi_Orgel.jpg
+  HeiligenGeistKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HeiligenGeistKirche.jpg/400px-HeiligenGeistKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HeiligenGeistKirche.jpg/800px-HeiligenGeistKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HeiligenGeistKirche.jpg/1200px-HeiligenGeistKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HeiligenGeistKirche.jpg/1920px-HeiligenGeistKirche.jpg
 ---
 
 ## Overview

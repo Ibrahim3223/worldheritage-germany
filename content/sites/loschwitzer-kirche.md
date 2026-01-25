@@ -16,9 +16,9 @@ categories:
 wikidata_id: "Q1870615"
 description: "In the heart of Dresden, Germany, lies Loschwitzer Kirche, a church building that showcases the grandeur of baroque architecture. Built in 1708, this Lu..."
 images:
-  - "/images-sites/loschwitzer-kirche/01-de3e13df-1920w.webp"
-  - "/images-sites/loschwitzer-kirche/02-aaf52c16-1920w.webp"
-  - "/images-sites/loschwitzer-kirche/03-48266543-1920w.webp"
+  - "/images/loschwitzer-kirche/01-de3e13df-1920w.webp"
+  - "/images/loschwitzer-kirche/02-aaf52c16-1920w.webp"
+  - "/images/loschwitzer-kirche/03-48266543-1920w.webp"
 ---
 
 ## Overview

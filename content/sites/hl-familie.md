@@ -1,19 +1,50 @@
 ---
-title: "Hl. Familie"
-site_name: "Hl. Familie"
-slug: "hl-familie"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Hl. Familie
+site_name: Hl. Familie
+slug: hl-familie
+region: North Rhine-Westphalia
 latitude: 51.3958
 longitude: 8.13654
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1621400"
-description: "In the heart of Arnsberg, Germany, lies the Hl. Familie, a church building that captures the essence of Gothic Revival architecture. This stunning struc..."
+- cultural site
+wikidata_id: Q1621400
+description: In the heart of Arnsberg, Germany, lies the Hl. Familie, a church building
+  that captures the essence of Gothic Revival architecture. This stunning struc...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kirche%20oeventrop.JPG/1200px-Kirche%20oeventrop.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirche_zur_Heiligen_Familie.JPG/1200px-Kirche_zur_Heiligen_Familie.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Innenraumperspektive.JPG/1200px-Innenraumperspektive.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirche_Hl_Familie_Kapfenberg.JPG/1200px-Kirche_Hl_Familie_Kapfenberg.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG/1200px-Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG
+image_srcset:
+  Kirche%20oeventrop.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kirche%20oeventrop.JPG/400px-Kirche%20oeventrop.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kirche%20oeventrop.JPG/800px-Kirche%20oeventrop.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kirche%20oeventrop.JPG/1200px-Kirche%20oeventrop.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kirche%20oeventrop.JPG/1920px-Kirche%20oeventrop.JPG
+  Kirche zur Heiligen Familie.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirche_zur_Heiligen_Familie.JPG/400px-Kirche_zur_Heiligen_Familie.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirche_zur_Heiligen_Familie.JPG/800px-Kirche_zur_Heiligen_Familie.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirche_zur_Heiligen_Familie.JPG/1200px-Kirche_zur_Heiligen_Familie.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kirche_zur_Heiligen_Familie.JPG/1920px-Kirche_zur_Heiligen_Familie.JPG
+  Innenraumperspektive.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Innenraumperspektive.JPG/400px-Innenraumperspektive.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Innenraumperspektive.JPG/800px-Innenraumperspektive.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Innenraumperspektive.JPG/1200px-Innenraumperspektive.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Innenraumperspektive.JPG/1920px-Innenraumperspektive.JPG
+  Kirche Hl Familie Kapfenberg.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirche_Hl_Familie_Kapfenberg.JPG/400px-Kirche_Hl_Familie_Kapfenberg.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirche_Hl_Familie_Kapfenberg.JPG/800px-Kirche_Hl_Familie_Kapfenberg.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirche_Hl_Familie_Kapfenberg.JPG/1200px-Kirche_Hl_Familie_Kapfenberg.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirche_Hl_Familie_Kapfenberg.JPG/1920px-Kirche_Hl_Familie_Kapfenberg.JPG
+  Pfarrzentrum mit Nebengebäuden PK Hl. Familie Walfersam.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG/400px-Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG/800px-Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG/1200px-Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG/1920px-Pfarrzentrum_mit_Nebengebäuden_PK_Hl._Familie_Walfersam.JPG
 ---
 
 ## Overview

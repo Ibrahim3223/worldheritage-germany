@@ -1,20 +1,33 @@
 ---
-title: "Jarßumer Kirche"
-site_name: "Jarßumer Kirche"
-slug: "jarssumer-kirche"
-region: "Lower Saxony"
-
-# Location
+title: Jarßumer Kirche
+site_name: Jarßumer Kirche
+slug: jarssumer-kirche
+region: Lower Saxony
 latitude: 53.336075
 longitude: 7.249587
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1683729"
-description: "In the heart of Emden, Germany, the Jarßumer Kirche emerges as a striking example of baroque architecture, a style characterized by its grandeur and int..."
+- church building
+- religious site
+wikidata_id: Q1683729
+description: In the heart of Emden, Germany, the Jarßumer Kirche emerges as a striking
+  example of baroque architecture, a style characterized by its grandeur and int...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchJar%C3%9Fum.JPG/1200px-ChurchJar%C3%9Fum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1200px-ChurchJarßum.JPG
+image_srcset:
+  ChurchJar%C3%9Fum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchJar%C3%9Fum.JPG/400px-ChurchJar%C3%9Fum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchJar%C3%9Fum.JPG/800px-ChurchJar%C3%9Fum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchJar%C3%9Fum.JPG/1200px-ChurchJar%C3%9Fum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChurchJar%C3%9Fum.JPG/1920px-ChurchJar%C3%9Fum.JPG
+  ChurchJarßum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/400px-ChurchJarßum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/800px-ChurchJarßum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1200px-ChurchJarßum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ChurchJarßum.JPG/1920px-ChurchJarßum.JPG
 ---
 
 ## Overview

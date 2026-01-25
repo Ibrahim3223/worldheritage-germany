@@ -1,21 +1,49 @@
 ---
-title: "Borderlandmuseum Eichsfeld"
+title: Borderlandmuseum Eichsfeld
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.48166
 longitude: 10.2631
 images:
-  - "/images-sites/borderlandmuseum-eichsfeld/01-78e57c44-800w.webp"
-  - "/images-sites/borderlandmuseum-eichsfeld/02-39d12126-800w.webp"
-  - "/images-sites/borderlandmuseum-eichsfeld/03-3cd8e0d1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg/1200px-Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg/1200px-Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg/1200px-Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1200px-Grenzlandmuseum_Teistungen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg/1200px-Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg
+image_srcset:
+  Borderlandmuseum Eichsfeld, military vehicles GDR.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg/400px-Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg/800px-Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg/1200px-Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg/1920px-Borderlandmuseum_Eichsfeld,_military_vehicles_GDR.jpg
+  Command Centre Pferdeberg, Eichsfeld, BT 4x4 Watchtower 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg/400px-Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg/800px-Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg/1200px-Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg/1920px-Command_Centre_Pferdeberg,_Eichsfeld,_BT_4x4_Watchtower_02.jpg
+  Borderlandmuseum Eichsfeld, helicopter + observation tower.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg/400px-Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg/800px-Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg/1200px-Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg/1920px-Borderlandmuseum_Eichsfeld,_helicopter_+_observation_tower.jpg
+  Grenzlandmuseum Teistungen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/400px-Grenzlandmuseum_Teistungen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/800px-Grenzlandmuseum_Teistungen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1200px-Grenzlandmuseum_Teistungen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grenzlandmuseum_Teistungen.jpg/1920px-Grenzlandmuseum_Teistungen.jpg
+  Borderlandmuseum Eichsfeld, preserved section of the former inner German border.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg/400px-Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg/800px-Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg/1200px-Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg/1920px-Borderlandmuseum_Eichsfeld,_preserved_section_of_the_former_inner_German_border.jpg
 ---
 
 ## Overview

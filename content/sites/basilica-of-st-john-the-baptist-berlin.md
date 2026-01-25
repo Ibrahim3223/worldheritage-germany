@@ -1,23 +1,26 @@
 ---
-title: "Basilica of St. John the BaptistBerlin"
-site_name: "Basilica of St. John the BaptistBerlin"
-slug: "basilica-of-st-john-the-baptist-berlin"
-region: "Berlin"
-
-# Location
+title: Basilica of St. John the BaptistBerlin
+site_name: Basilica of St. John the BaptistBerlin
+slug: basilica-of-st-john-the-baptist-berlin
+region: Berlin
 latitude: 52.487542
 longitude: 13.408631
 regions:
-    - "Berlin"
-heritage_type: "cultural site"
+- Berlin
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q877416"
-description: "In the bustling heart of Neukölln, the Basilica of St. John the Baptist stands as a striking example of Romanesque Revival architecture, capturing the a..."
+- cultural site
+wikidata_id: Q877416
+description: In the bustling heart of Neukölln, the Basilica of St. John the Baptist
+  stands as a striking example of Romanesque Revival architecture, capturing the a...
 images:
-  - "/images-sites/basilica-of-st-john-the-baptist-berlin/01-0193c886-1920w.webp"
-  - "/images-sites/basilica-of-st-john-the-baptist-berlin/02-c6f1cad2-1920w.webp"
-  - "/images-sites/basilica-of-st-john-the-baptist-berlin/03-41847c23-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg/1200px-Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg
+image_srcset:
+  Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg/400px-Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg/800px-Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg/1200px-Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg/1920px-Berlin%2C%20Neukoelln%2C%20Lilienthalstrasse%2C%20Johannes-Basilika.jpg
 ---
 
 ## Overview

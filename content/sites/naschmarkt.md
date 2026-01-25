@@ -13,7 +13,7 @@ regions:
 latitude: 51.3404
 longitude: 12.3757
 images:
-  - "/images-sites/naschmarkt/01-04b5b030-800w.webp"
+  - "/images/naschmarkt/01-04b5b030-800w.webp"
 ---
 
 ## Overview

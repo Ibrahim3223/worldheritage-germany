@@ -1,20 +1,49 @@
 ---
-title: "Föhr"
+title: Föhr
 date: 2026-01-23
 draft: false
-description: "island in North Frisia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island in North Frisia, Germany
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.716666666
 longitude: 8.5
 images:
-  - "/images-sites/foehr/02-c027a329-800w.webp"
-  - "/images-sites/foehr/03-886b6f3d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg/1200px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blick_auf_Föhr_von_der_Nordsee.jpg/1200px-Blick_auf_Föhr_von_der_Nordsee.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Blick_auf_Föhr_von_der_Nordsee_2.jpg/1200px-Blick_auf_Föhr_von_der_Nordsee_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1200px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1200px-Föhr_satellite.jpg
+image_srcset:
+  191008 Blick vom Bohlenweg Nieblum in Richtung Langeneß.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg/400px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg/800px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg/1200px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg/1920px-191008_Blick_vom_Bohlenweg_Nieblum_in_Richtung_Langeneß.jpg
+  Blick auf Föhr von der Nordsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blick_auf_Föhr_von_der_Nordsee.jpg/400px-Blick_auf_Föhr_von_der_Nordsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blick_auf_Föhr_von_der_Nordsee.jpg/800px-Blick_auf_Föhr_von_der_Nordsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blick_auf_Föhr_von_der_Nordsee.jpg/1200px-Blick_auf_Föhr_von_der_Nordsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Blick_auf_Föhr_von_der_Nordsee.jpg/1920px-Blick_auf_Föhr_von_der_Nordsee.jpg
+  Blick auf Föhr von der Nordsee 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Blick_auf_Föhr_von_der_Nordsee_2.jpg/400px-Blick_auf_Föhr_von_der_Nordsee_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Blick_auf_Föhr_von_der_Nordsee_2.jpg/800px-Blick_auf_Föhr_von_der_Nordsee_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Blick_auf_Föhr_von_der_Nordsee_2.jpg/1200px-Blick_auf_Föhr_von_der_Nordsee_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Blick_auf_Föhr_von_der_Nordsee_2.jpg/1920px-Blick_auf_Föhr_von_der_Nordsee_2.jpg
+  Süderoogsand, Norderoogsand, Japsand, and Amrum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/400px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/800px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1200px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg/1920px-Süderoogsand,_Norderoogsand,_Japsand,_and_Amrum.jpg
+  Föhr satellite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/400px-Föhr_satellite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/800px-Föhr_satellite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1200px-Föhr_satellite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Föhr_satellite.jpg/1920px-Föhr_satellite.jpg
 ---
 
 ## Overview

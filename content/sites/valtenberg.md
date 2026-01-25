@@ -13,7 +13,7 @@ regions:
 latitude: 51.074075555
 longitude: 14.278962777
 images:
-  - "/images-sites/valtenberg/01-bcbdc30f-800w.webp"
+  - "/images/valtenberg/01-bcbdc30f-800w.webp"
 ---
 
 ## Overview

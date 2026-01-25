@@ -13,7 +13,7 @@ regions:
 latitude: 52.1887
 longitude: 9.60442
 images:
-  - "/images-sites/wisentgehege-springe/01-7e259c48-800w.webp"
+  - "/images/wisentgehege-springe/01-7e259c48-800w.webp"
 ---
 
 ## Overview

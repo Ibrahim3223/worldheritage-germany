@@ -1,20 +1,49 @@
 ---
-title: "Burg Beilstein"
+title: Burg Beilstein
 date: 2026-01-23
 draft: false
-description: "Westerwald castle, Hesse, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: Westerwald castle, Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.608056
 longitude: 8.241111
 images:
-  - "/images-sites/burg-beilstein/02-3daa4661-800w.webp"
-  - "/images-sites/burg-beilstein/03-97c9c69b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burg_Beilstein_im_Dezember_2021-2.jpg/1200px-Burg_Beilstein_im_Dezember_2021-2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Beilstein_im_Dezember_2021.jpg/1200px-Burg_Beilstein_im_Dezember_2021.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Beilstein_im_Dezember_2021_Tor.jpg/1200px-Burg_Beilstein_im_Dezember_2021_Tor.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg/1200px-Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Beilstein.JPG/1200px-Beilstein.JPG
+image_srcset:
+  Burg Beilstein im Dezember 2021-2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burg_Beilstein_im_Dezember_2021-2.jpg/400px-Burg_Beilstein_im_Dezember_2021-2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burg_Beilstein_im_Dezember_2021-2.jpg/800px-Burg_Beilstein_im_Dezember_2021-2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burg_Beilstein_im_Dezember_2021-2.jpg/1200px-Burg_Beilstein_im_Dezember_2021-2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Burg_Beilstein_im_Dezember_2021-2.jpg/1920px-Burg_Beilstein_im_Dezember_2021-2.jpg
+  Burg Beilstein im Dezember 2021.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Beilstein_im_Dezember_2021.jpg/400px-Burg_Beilstein_im_Dezember_2021.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Beilstein_im_Dezember_2021.jpg/800px-Burg_Beilstein_im_Dezember_2021.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Beilstein_im_Dezember_2021.jpg/1200px-Burg_Beilstein_im_Dezember_2021.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burg_Beilstein_im_Dezember_2021.jpg/1920px-Burg_Beilstein_im_Dezember_2021.jpg
+  Burg Beilstein im Dezember 2021 Tor.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Beilstein_im_Dezember_2021_Tor.jpg/400px-Burg_Beilstein_im_Dezember_2021_Tor.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Beilstein_im_Dezember_2021_Tor.jpg/800px-Burg_Beilstein_im_Dezember_2021_Tor.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Beilstein_im_Dezember_2021_Tor.jpg/1200px-Burg_Beilstein_im_Dezember_2021_Tor.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Burg_Beilstein_im_Dezember_2021_Tor.jpg/1920px-Burg_Beilstein_im_Dezember_2021_Tor.jpg
+  Burg Beilstein im Dezember 2021 mit Tormauer.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg/400px-Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg/800px-Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg/1200px-Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg/1920px-Burg_Beilstein_im_Dezember_2021_mit_Tormauer.jpg
+  Beilstein.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Beilstein.JPG/400px-Beilstein.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Beilstein.JPG/800px-Beilstein.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Beilstein.JPG/1200px-Beilstein.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Beilstein.JPG/1920px-Beilstein.JPG
 ---
 
 ## Overview

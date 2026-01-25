@@ -13,7 +13,7 @@ regions:
 latitude: 50.9833
 longitude: 11.0244
 images:
-  - "/images-sites/venedig/01-91ab4304-800w.webp"
+  - "/images/venedig/01-91ab4304-800w.webp"
 ---
 
 ## Overview

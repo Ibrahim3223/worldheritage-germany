@@ -21,7 +21,7 @@ longitude: 11.5639
 
 # Images
 images:
-  - "/images-sites/ranis/01-41c686dc-800w.webp"
+  - "/images/ranis/01-41c686dc-800w.webp"
 ---
 
 ## Overview

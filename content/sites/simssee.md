@@ -13,9 +13,9 @@ regions:
 latitude: 47.872777777
 longitude: 12.239444444
 images:
-  - "/images-sites/simssee/01-2ca16866-800w.webp"
-  - "/images-sites/simssee/02-d6971a82-800w.webp"
-  - "/images-sites/simssee/03-2c29df90-800w.webp"
+  - "/images/simssee/01-2ca16866-800w.webp"
+  - "/images/simssee/02-d6971a82-800w.webp"
+  - "/images/simssee/03-2c29df90-800w.webp"
 ---
 
 ## Overview

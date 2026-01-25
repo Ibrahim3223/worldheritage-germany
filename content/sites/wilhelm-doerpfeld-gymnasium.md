@@ -13,7 +13,7 @@ regions:
 latitude: 51.2542
 longitude: 7.14389
 images:
-  - "/images-sites/wilhelm-doerpfeld-gymnasium/01-544ab965-800w.webp"
+  - "/images/wilhelm-doerpfeld-gymnasium/01-544ab965-800w.webp"
 ---
 
 ## Overview

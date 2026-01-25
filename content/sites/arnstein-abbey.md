@@ -1,19 +1,49 @@
 ---
-title: "Arnstein Abbey"
+title: Arnstein Abbey
 date: 2026-01-23
 draft: false
-description: "monastery"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: monastery
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.310278
 longitude: 7.851667
 images:
-  - "/images-sites/arnstein-abbey/01-9826d150-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg/1200px-Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ObernhofKlosterArnstein1.jpg/1200px-ObernhofKlosterArnstein1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG/1200px-Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kloster_Arnstein_01.jpg/1200px-Kloster_Arnstein_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg/1200px-Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg
+image_srcset:
+  Grundrisse der Gebäude des Klosters Arnstein, 1805 und 1813.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg/400px-Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg/800px-Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg/1200px-Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg/1920px-Grundrisse_der_Gebäude_des_Klosters_Arnstein,_1805_und_1813.jpg
+  ObernhofKlosterArnstein1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ObernhofKlosterArnstein1.jpg/400px-ObernhofKlosterArnstein1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ObernhofKlosterArnstein1.jpg/800px-ObernhofKlosterArnstein1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ObernhofKlosterArnstein1.jpg/1200px-ObernhofKlosterArnstein1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ObernhofKlosterArnstein1.jpg/1920px-ObernhofKlosterArnstein1.jpg
+  Kloster Arnstein von anderer Lahnseite 2017.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG/400px-Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG/800px-Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG/1200px-Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG/1920px-Kloster_Arnstein_von_anderer_Lahnseite_2017.JPG
+  Kloster Arnstein 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kloster_Arnstein_01.jpg/400px-Kloster_Arnstein_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kloster_Arnstein_01.jpg/800px-Kloster_Arnstein_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kloster_Arnstein_01.jpg/1200px-Kloster_Arnstein_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kloster_Arnstein_01.jpg/1920px-Kloster_Arnstein_01.jpg
+  Luthmer III-192-Klosterkirche Arnstein von den Chorstuhlwangen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg/400px-Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg/800px-Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg/1200px-Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg/1920px-Luthmer_III-192-Klosterkirche_Arnstein_von_den_Chorstuhlwangen.jpg
 ---
 
 ## Overview

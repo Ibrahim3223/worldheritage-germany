@@ -13,7 +13,7 @@ regions:
 latitude: 51.4822
 longitude: 11.9683
 images:
-  - "/images-sites/marienbibliothek-halle/01-12167308-800w.webp"
+  - "/images/marienbibliothek-halle/01-12167308-800w.webp"
 ---
 
 ## Overview

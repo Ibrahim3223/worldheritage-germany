@@ -1,27 +1,49 @@
 ---
-title: "Burg Hammerstein"
+title: Burg Hammerstein
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.4712
 longitude: 7.35771
-
-# Images
 images:
-  - "/images-sites/burg-hammerstein/01-a09f08b6-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HammersteinAmRheinBurgHammersteinRundturm16.jpg/1200px-HammersteinAmRheinBurgHammersteinRundturm16.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HammersteinAmRheinBurgHammerstein6.jpg/1200px-HammersteinAmRheinBurgHammerstein6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ansichten_Deutschland_Bokelmann_186.jpg/1200px-Ansichten_Deutschland_Bokelmann_186.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hammerstein_Turm.JPG/1200px-Hammerstein_Turm.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hammersteinluft.jpg/1200px-Hammersteinluft.jpg
+image_srcset:
+  HammersteinAmRheinBurgHammersteinRundturm16.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HammersteinAmRheinBurgHammersteinRundturm16.jpg/400px-HammersteinAmRheinBurgHammersteinRundturm16.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HammersteinAmRheinBurgHammersteinRundturm16.jpg/800px-HammersteinAmRheinBurgHammersteinRundturm16.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HammersteinAmRheinBurgHammersteinRundturm16.jpg/1200px-HammersteinAmRheinBurgHammersteinRundturm16.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HammersteinAmRheinBurgHammersteinRundturm16.jpg/1920px-HammersteinAmRheinBurgHammersteinRundturm16.jpg
+  HammersteinAmRheinBurgHammerstein6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HammersteinAmRheinBurgHammerstein6.jpg/400px-HammersteinAmRheinBurgHammerstein6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HammersteinAmRheinBurgHammerstein6.jpg/800px-HammersteinAmRheinBurgHammerstein6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HammersteinAmRheinBurgHammerstein6.jpg/1200px-HammersteinAmRheinBurgHammerstein6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HammersteinAmRheinBurgHammerstein6.jpg/1920px-HammersteinAmRheinBurgHammerstein6.jpg
+  Ansichten Deutschland Bokelmann 186.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ansichten_Deutschland_Bokelmann_186.jpg/400px-Ansichten_Deutschland_Bokelmann_186.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ansichten_Deutschland_Bokelmann_186.jpg/800px-Ansichten_Deutschland_Bokelmann_186.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ansichten_Deutschland_Bokelmann_186.jpg/1200px-Ansichten_Deutschland_Bokelmann_186.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ansichten_Deutschland_Bokelmann_186.jpg/1920px-Ansichten_Deutschland_Bokelmann_186.jpg
+  Hammerstein Turm.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hammerstein_Turm.JPG/400px-Hammerstein_Turm.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hammerstein_Turm.JPG/800px-Hammerstein_Turm.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hammerstein_Turm.JPG/1200px-Hammerstein_Turm.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hammerstein_Turm.JPG/1920px-Hammerstein_Turm.JPG
+  Hammersteinluft.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hammersteinluft.jpg/400px-Hammersteinluft.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hammersteinluft.jpg/800px-Hammersteinluft.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hammersteinluft.jpg/1200px-Hammersteinluft.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hammersteinluft.jpg/1920px-Hammersteinluft.jpg
 ---
 
 ## Overview

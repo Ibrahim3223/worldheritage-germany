@@ -13,7 +13,7 @@ regions:
 latitude: 51.7859
 longitude: 11.1352
 images:
-  - "/images-sites/schlossmuseum-quedlinburg/01-bce23e78-800w.webp"
+  - "/images/schlossmuseum-quedlinburg/01-bce23e78-800w.webp"
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244591"
 description: "In the heart of Brandenburg, the Village Church of Paretz stands as a striking example of Gothic architecture, capturing the essence of medieval design ..."
 images:
-  - "/images-sites/village-church-paretz/01-fab7d9ab-1920w.webp"
-  - "/images-sites/village-church-paretz/02-39a89247-1920w.webp"
-  - "/images-sites/village-church-paretz/03-e182d499-1920w.webp"
+  - "/images/village-church-paretz/01-fab7d9ab-1920w.webp"
+  - "/images/village-church-paretz/02-39a89247-1920w.webp"
+  - "/images/village-church-paretz/03-e182d499-1920w.webp"
 ---
 
 ## Overview

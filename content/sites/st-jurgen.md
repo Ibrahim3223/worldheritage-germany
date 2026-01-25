@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q2316312"
 description: "In the heart of Lübeck, Germany, stands St. Jürgen, a church building steeped in history and architectural significance. Founded in 1646, this church is..."
 images:
-  - "/images-sites/st-jurgen/01-91ceb18e-1920w.webp"
-  - "/images-sites/st-jurgen/02-a5c18590-1920w.webp"
-  - "/images-sites/st-jurgen/03-de5e7249-1920w.webp"
+  - "/images/st-jurgen/01-91ceb18e-1920w.webp"
+  - "/images/st-jurgen/02-a5c18590-1920w.webp"
+  - "/images/st-jurgen/03-de5e7249-1920w.webp"
 ---
 
 ## Overview

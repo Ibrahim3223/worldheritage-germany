@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1597429"
 description: "In the vibrant heart of Hanover, Germany, the Marcus Church stands as a striking example of modern ecclesiastical architecture. This Lutheran church, de..."
 images:
-  - "/images-sites/marcus-church/01-662a649f-1920w.webp"
-  - "/images-sites/marcus-church/02-bc13df98-1920w.webp"
-  - "/images-sites/marcus-church/03-2c7fa298-1920w.webp"
+  - "/images/marcus-church/01-662a649f-1920w.webp"
+  - "/images/marcus-church/02-bc13df98-1920w.webp"
+  - "/images/marcus-church/03-2c7fa298-1920w.webp"
 ---
 
 ## Overview

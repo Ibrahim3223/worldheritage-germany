@@ -13,7 +13,7 @@ regions:
 latitude: 52.38828
 longitude: 12.99983
 images:
-  - "/images-sites/wildpark-potsdam/01-e05bd2e3-800w.webp"
+  - "/images/wildpark-potsdam/01-e05bd2e3-800w.webp"
 ---
 
 ## Overview

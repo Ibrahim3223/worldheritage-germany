@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q881323"
 description: "St. Benedikti, a remarkable church building located in Quedlinburg, Saxony-Anhalt, Germany, stands as a striking example of Gothic architecture. This hi..."
 images:
-  - "/images-sites/st-benedikti/01-23faa60b-1920w.webp"
-  - "/images-sites/st-benedikti/02-478b3c84-1920w.webp"
-  - "/images-sites/st-benedikti/03-9ca87fa8-1920w.webp"
+  - "/images/st-benedikti/01-23faa60b-1920w.webp"
+  - "/images/st-benedikti/02-478b3c84-1920w.webp"
+  - "/images/st-benedikti/03-9ca87fa8-1920w.webp"
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Church of the holy Archangels"
-site_name: "Church of the holy Archangels"
-slug: "church-of-the-holy-archangels"
-region: "Lower Saxony"
-
-# Location
+title: Church of the holy Archangels
+site_name: Church of the holy Archangels
+slug: church-of-the-holy-archangels
+region: Lower Saxony
 latitude: 53.67912
 longitude: 7.0002
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q227452"
-description: "The Church of the Holy Archangels, an architectural gem situated on the serene island of Juist in Germany, stands as a prominent feature of the local la..."
+- cultural site
+wikidata_id: Q227452
+description: The Church of the Holy Archangels, an architectural gem situated on the
+  serene island of Juist in Germany, stands as a prominent feature of the local la...
 images:
-  - "/images-sites/church-of-the-holy-archangels/01-299d84a2-1920w.webp"
-  - "/images-sites/church-of-the-holy-archangels/02-8d2744ee-1920w.webp"
-  - "/images-sites/church-of-the-holy-archangels/03-04c52386-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg/1200px-Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg/1200px-Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yekeghetsakan_hamalir_Mayr_Ator_1.JPG/1200px-Yekeghetsakan_hamalir_Mayr_Ator_1.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Biserica_Jupânești_01.jpg/1200px-Biserica_Jupânești_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Biserica_Jupânești_02.jpg/1200px-Biserica_Jupânești_02.jpg
+image_srcset:
+  Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg/400px-Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg/800px-Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg/1200px-Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg/1920px-Juist%2C%20Kirche%20-Zu%20den%20heiligen%20Schutzengeln-%20--%202014%20--%203470.jpg
+  Եկեղեցական համալիր «Մայր Աթոռ Սբ. Էջմիածին», ArmAg (5).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg/400px-Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg/800px-Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg/1200px-Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg/1920px-Եկեղեցական_համալիր_«Մայր_Աթոռ_Սբ._Էջմիածին»,_ArmAg_(5).jpg
+  Yekeghetsakan hamalir Mayr Ator 1.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yekeghetsakan_hamalir_Mayr_Ator_1.JPG/400px-Yekeghetsakan_hamalir_Mayr_Ator_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yekeghetsakan_hamalir_Mayr_Ator_1.JPG/800px-Yekeghetsakan_hamalir_Mayr_Ator_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yekeghetsakan_hamalir_Mayr_Ator_1.JPG/1200px-Yekeghetsakan_hamalir_Mayr_Ator_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Yekeghetsakan_hamalir_Mayr_Ator_1.JPG/1920px-Yekeghetsakan_hamalir_Mayr_Ator_1.JPG
+  Biserica Jupânești 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Biserica_Jupânești_01.jpg/400px-Biserica_Jupânești_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Biserica_Jupânești_01.jpg/800px-Biserica_Jupânești_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Biserica_Jupânești_01.jpg/1200px-Biserica_Jupânești_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Biserica_Jupânești_01.jpg/1920px-Biserica_Jupânești_01.jpg
+  Biserica Jupânești 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Biserica_Jupânești_02.jpg/400px-Biserica_Jupânești_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Biserica_Jupânești_02.jpg/800px-Biserica_Jupânești_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Biserica_Jupânești_02.jpg/1200px-Biserica_Jupânești_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Biserica_Jupânești_02.jpg/1920px-Biserica_Jupânești_02.jpg
 ---
 
 ## Overview

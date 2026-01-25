@@ -1,19 +1,49 @@
 ---
-title: "Ilse Valley"
+title: Ilse Valley
 date: 2026-01-24
 draft: false
-description: "valley in Ilsenburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Valley"
+description: valley in Ilsenburg, Germany
+region: Germany
+country: Germany
+heritage_type: Valley
 categories:
-  - "Valley"
+- Valley
 regions:
-  - "Germany"
+- Germany
 latitude: 51.850277777
 longitude: 10.666111111
 images:
-  - "/images-sites/ilse-valley/01-a04858fd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg/1200px-Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg
+image_srcset:
+  Ilsenburg, Ilsetal, Ilse -- 2017 -- 0179.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg/400px-Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg/800px-Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg/1200px-Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg/1920px-Ilsenburg,_Ilsetal,_Ilse_--_2017_--_0179.jpg
+  Ilsenburg, Ilsetal, Ilsefälle -- 2017 -- 0140.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg/400px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg/800px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg/1920px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0140.jpg
+  Ilsenburg, Ilsetal, Ilsefälle -- 2017 -- 0143.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg/400px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg/800px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg/1920px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0143.jpg
+  Ilsenburg, Ilsetal, Ilsefälle -- 2017 -- 0158.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg/400px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg/800px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg/1920px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0158.jpg
+  Ilsenburg, Ilsetal, Ilsefälle -- 2017 -- 0141 (crop).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg/400px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg/800px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg/1200px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg/1920px-Ilsenburg,_Ilsetal,_Ilsefälle_--_2017_--_0141_(crop).jpg
 ---
 
 ## Overview

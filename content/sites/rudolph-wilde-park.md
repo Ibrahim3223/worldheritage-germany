@@ -13,9 +13,9 @@ regions:
 latitude: 52.483611111
 longitude: 13.342222222
 images:
-  - "/images-sites/rudolph-wilde-park/01-96f0128d-800w.webp"
-  - "/images-sites/rudolph-wilde-park/02-abf800d2-800w.webp"
-  - "/images-sites/rudolph-wilde-park/03-10c41d74-800w.webp"
+  - "/images/rudolph-wilde-park/01-96f0128d-800w.webp"
+  - "/images/rudolph-wilde-park/02-abf800d2-800w.webp"
+  - "/images/rudolph-wilde-park/03-10c41d74-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 52.268
 longitude: 10.5209
 images:
-  - "/images-sites/liberei/01-75b019db-800w.webp"
+  - "/images/liberei/01-75b019db-800w.webp"
 ---
 
 ## Overview

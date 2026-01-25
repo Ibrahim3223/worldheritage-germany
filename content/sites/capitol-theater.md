@@ -1,21 +1,49 @@
 ---
-title: "Capitol Theater"
+title: Capitol Theater
 date: 2026-01-24
 draft: false
-description: "theatre in Flingern, Düsseldorf, North Rhine-Westphalia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theatre in Flingern, Düsseldorf, North Rhine-Westphalia, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 51.2236
 longitude: 6.79939
 images:
-  - "/images-sites/capitol-theater/01-a8a2af03-800w.webp"
-  - "/images-sites/capitol-theater/02-4ddf29e0-800w.webp"
-  - "/images-sites/capitol-theater/03-8e0bc0ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Capitol_Theater_Düsseldorf.jpg/1200px-Capitol_Theater_Düsseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Smash_at_Capitol_Theatre.jpg/1200px-David_Smash_at_Capitol_Theatre.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg/1200px-Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arlington_MA_Capitol_Theater_Building.jpg/1200px-Arlington_MA_Capitol_Theater_Building.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Theater_drawing.png/1200px-Theater_drawing.png
+image_srcset:
+  Capitol Theater Düsseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Capitol_Theater_Düsseldorf.jpg/400px-Capitol_Theater_Düsseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Capitol_Theater_Düsseldorf.jpg/800px-Capitol_Theater_Düsseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Capitol_Theater_Düsseldorf.jpg/1200px-Capitol_Theater_Düsseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Capitol_Theater_Düsseldorf.jpg/1920px-Capitol_Theater_Düsseldorf.jpg
+  David Smash at Capitol Theatre.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Smash_at_Capitol_Theatre.jpg/400px-David_Smash_at_Capitol_Theatre.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Smash_at_Capitol_Theatre.jpg/800px-David_Smash_at_Capitol_Theatre.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Smash_at_Capitol_Theatre.jpg/1200px-David_Smash_at_Capitol_Theatre.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Smash_at_Capitol_Theatre.jpg/1920px-David_Smash_at_Capitol_Theatre.jpg
+  Capitol theatre Fort Edmonton park (15397221075).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg/400px-Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg/800px-Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg/1200px-Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg/1920px-Capitol_theatre_Fort_Edmonton_park_(15397221075).jpg
+  Arlington MA Capitol Theater Building.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arlington_MA_Capitol_Theater_Building.jpg/400px-Arlington_MA_Capitol_Theater_Building.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arlington_MA_Capitol_Theater_Building.jpg/800px-Arlington_MA_Capitol_Theater_Building.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arlington_MA_Capitol_Theater_Building.jpg/1200px-Arlington_MA_Capitol_Theater_Building.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arlington_MA_Capitol_Theater_Building.jpg/1920px-Arlington_MA_Capitol_Theater_Building.jpg
+  Theater drawing.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Theater_drawing.png/400px-Theater_drawing.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Theater_drawing.png/800px-Theater_drawing.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Theater_drawing.png/1200px-Theater_drawing.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Theater_drawing.png/1920px-Theater_drawing.png
 ---
 
 ## Overview

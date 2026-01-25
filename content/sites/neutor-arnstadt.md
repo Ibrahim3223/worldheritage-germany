@@ -13,7 +13,7 @@ regions:
 latitude: 50.8318644
 longitude: 10.9441147
 images:
-  - "/images-sites/neutor-arnstadt/01-f20c907e-800w.webp"
+  - "/images/neutor-arnstadt/01-f20c907e-800w.webp"
 ---
 
 ## Overview

@@ -13,8 +13,8 @@ regions:
 latitude: 49.4794
 longitude: 8.44601
 images:
-  - "/images-sites/pfalzbau/02-650182da-800w.webp"
-  - "/images-sites/pfalzbau/03-1394b6f2-800w.webp"
+  - "/images/pfalzbau/02-650182da-800w.webp"
+  - "/images/pfalzbau/03-1394b6f2-800w.webp"
 ---
 
 ## Overview

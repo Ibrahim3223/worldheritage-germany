@@ -1,21 +1,49 @@
 ---
-title: "Congress Center Hamburg"
+title: Congress Center Hamburg
 date: 2026-01-23
 draft: false
-description: "convention centre and event venue in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: convention centre and event venue in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 53.56166667
 longitude: 9.98694444
 images:
-  - "/images-sites/congress-center-hamburg/01-a1d35c8c-800w.webp"
-  - "/images-sites/congress-center-hamburg/02-85724f60-800w.webp"
-  - "/images-sites/congress-center-hamburg/03-1309e98c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/399-0011-33C3-hinnerk-ruemenapf.jpg/1200px-399-0011-33C3-hinnerk-ruemenapf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/399-0083-33C3-hinnerk-ruemenapf_v02.jpg/1200px-399-0083-33C3-hinnerk-ruemenapf_v02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/31C3_CCH_Fairy_Dust_illuminated.JPG/1200px-31C3_CCH_Fairy_Dust_illuminated.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1200px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luftaufnahme_CCH_in_Hamburg.jpg/1200px-Luftaufnahme_CCH_in_Hamburg.jpg
+image_srcset:
+  399-0011-33C3-hinnerk-ruemenapf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/399-0011-33C3-hinnerk-ruemenapf.jpg/400px-399-0011-33C3-hinnerk-ruemenapf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/399-0011-33C3-hinnerk-ruemenapf.jpg/800px-399-0011-33C3-hinnerk-ruemenapf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/399-0011-33C3-hinnerk-ruemenapf.jpg/1200px-399-0011-33C3-hinnerk-ruemenapf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/399-0011-33C3-hinnerk-ruemenapf.jpg/1920px-399-0011-33C3-hinnerk-ruemenapf.jpg
+  399-0083-33C3-hinnerk-ruemenapf v02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/399-0083-33C3-hinnerk-ruemenapf_v02.jpg/400px-399-0083-33C3-hinnerk-ruemenapf_v02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/399-0083-33C3-hinnerk-ruemenapf_v02.jpg/800px-399-0083-33C3-hinnerk-ruemenapf_v02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/399-0083-33C3-hinnerk-ruemenapf_v02.jpg/1200px-399-0083-33C3-hinnerk-ruemenapf_v02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/399-0083-33C3-hinnerk-ruemenapf_v02.jpg/1920px-399-0083-33C3-hinnerk-ruemenapf_v02.jpg
+  31C3 CCH Fairy Dust illuminated.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/31C3_CCH_Fairy_Dust_illuminated.JPG/400px-31C3_CCH_Fairy_Dust_illuminated.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/31C3_CCH_Fairy_Dust_illuminated.JPG/800px-31C3_CCH_Fairy_Dust_illuminated.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/31C3_CCH_Fairy_Dust_illuminated.JPG/1200px-31C3_CCH_Fairy_Dust_illuminated.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/31C3_CCH_Fairy_Dust_illuminated.JPG/1920px-31C3_CCH_Fairy_Dust_illuminated.JPG
+  Congress Centrum Hamburg pre-remodel and Fairy Dust by blinry long DIN.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/400px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/800px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1200px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png/1920px-Congress_Centrum_Hamburg_pre-remodel_and_Fairy_Dust_by_blinry_long_DIN.png
+  Luftaufnahme CCH in Hamburg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luftaufnahme_CCH_in_Hamburg.jpg/400px-Luftaufnahme_CCH_in_Hamburg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luftaufnahme_CCH_in_Hamburg.jpg/800px-Luftaufnahme_CCH_in_Hamburg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luftaufnahme_CCH_in_Hamburg.jpg/1200px-Luftaufnahme_CCH_in_Hamburg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Luftaufnahme_CCH_in_Hamburg.jpg/1920px-Luftaufnahme_CCH_in_Hamburg.jpg
 ---
 
 ## Overview

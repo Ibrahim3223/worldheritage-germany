@@ -1,29 +1,49 @@
 ---
-title: "German Cancer Research Center"
+title: German Cancer Research Center
 date: 2026-01-23
 draft: false
-description: "national cancer research center in Heidelberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Abbey"
-
-# Taxonomies
+description: national cancer research center in Heidelberg, Germany
+region: Germany
+country: Germany
+heritage_type: Abbey
 categories:
-  - "Abbey"
+- Abbey
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.41416667
 longitude: 8.6725
-
-# Images
 images:
-  - "/images-sites/german-cancer-research-center/01-626041c9-800w.webp"
-  - "/images-sites/german-cancer-research-center/02-fd15e51d-800w.webp"
-  - "/images-sites/german-cancer-research-center/03-f8bedaf1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DKFZ_Heidelberg_01.jpg/1200px-DKFZ_Heidelberg_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/1200px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG/1200px-Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hans-Peter_Meinzer_(2005).jpg/1200px-Hans-Peter_Meinzer_(2005).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kontakt-Kasten-Krebsinformationsdienst.jpg/1200px-Kontakt-Kasten-Krebsinformationsdienst.jpg
+image_srcset:
+  DKFZ Heidelberg 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DKFZ_Heidelberg_01.jpg/400px-DKFZ_Heidelberg_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DKFZ_Heidelberg_01.jpg/800px-DKFZ_Heidelberg_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DKFZ_Heidelberg_01.jpg/1200px-DKFZ_Heidelberg_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/DKFZ_Heidelberg_01.jpg/1920px-DKFZ_Heidelberg_01.jpg
+  Heidelberg DKFZ Neuenheimer Feld 20120501.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/400px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/800px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/1200px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg/1920px-Heidelberg_DKFZ_Neuenheimer_Feld_20120501.jpg
+  Heidelberg - Deutsches Krebsforschungszentrum (DKFZ).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG/400px-Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG/800px-Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG/1200px-Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG/1920px-Heidelberg_-_Deutsches_Krebsforschungszentrum_(DKFZ).JPG
+  Hans-Peter Meinzer (2005).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hans-Peter_Meinzer_(2005).jpg/400px-Hans-Peter_Meinzer_(2005).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hans-Peter_Meinzer_(2005).jpg/800px-Hans-Peter_Meinzer_(2005).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hans-Peter_Meinzer_(2005).jpg/1200px-Hans-Peter_Meinzer_(2005).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hans-Peter_Meinzer_(2005).jpg/1920px-Hans-Peter_Meinzer_(2005).jpg
+  Kontakt-Kasten-Krebsinformationsdienst.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kontakt-Kasten-Krebsinformationsdienst.jpg/400px-Kontakt-Kasten-Krebsinformationsdienst.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kontakt-Kasten-Krebsinformationsdienst.jpg/800px-Kontakt-Kasten-Krebsinformationsdienst.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kontakt-Kasten-Krebsinformationsdienst.jpg/1200px-Kontakt-Kasten-Krebsinformationsdienst.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kontakt-Kasten-Krebsinformationsdienst.jpg/1920px-Kontakt-Kasten-Krebsinformationsdienst.jpg
 ---
 
 ## Overview

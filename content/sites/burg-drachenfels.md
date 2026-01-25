@@ -1,27 +1,49 @@
 ---
-title: "Burg Drachenfels"
+title: Burg Drachenfels
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 50.6652
 longitude: 7.21011
-
-# Images
 images:
-  - "/images-sites/burg-drachenfels/01-8bdd546e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg/1200px-Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg/1200px-Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg/1200px-Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg-Drachenfels_7550_b.jpg/1200px-Burg-Drachenfels_7550_b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png/1200px-Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png
+image_srcset:
+  Drachenfels cellar 20k - HDR-Panorama (Andreas Mischok via Poly Haven).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg/400px-Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg/800px-Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg/1200px-Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg/1920px-Drachenfels_cellar_20k_-_HDR-Panorama_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+  Macbeth EXR - Color checker - Drachnfels Cellar (Andreas Mischok via Poly Haven).tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg/400px-Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg/800px-Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg/1200px-Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg/1920px-Macbeth_EXR_-_Color_checker_-_Drachnfels_Cellar_(Andreas_Mischok_via_Poly_Haven).tif.jpg
+  Drachenfels cellar - Panorama (Andreas Mischok via Poly Haven).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg/400px-Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg/800px-Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg/1200px-Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg/1920px-Drachenfels_cellar_-_Panorama_(Andreas_Mischok_via_Poly_Haven).jpg
+  Burg-Drachenfels 7550 b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg-Drachenfels_7550_b.jpg/400px-Burg-Drachenfels_7550_b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg-Drachenfels_7550_b.jpg/800px-Burg-Drachenfels_7550_b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg-Drachenfels_7550_b.jpg/1200px-Burg-Drachenfels_7550_b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burg-Drachenfels_7550_b.jpg/1920px-Burg-Drachenfels_7550_b.jpg
+  Drachenfels cellar - Preview (Andreas Mischok via Poly Haven).png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png/400px-Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png/800px-Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png/1200px-Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png/1920px-Drachenfels_cellar_-_Preview_(Andreas_Mischok_via_Poly_Haven).png
 ---
 
 ## Overview

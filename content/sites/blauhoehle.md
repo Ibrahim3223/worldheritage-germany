@@ -1,19 +1,49 @@
 ---
-title: "Blauhöhle"
+title: Blauhöhle
 date: 2026-01-23
 draft: false
-description: "cave"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: cave
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 48.416388888
 longitude: 9.783888888
 images:
-  - "/images-sites/blauhoehle/01-67206305-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blautopf-tuerkis.jpg/1200px-Blautopf-tuerkis.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blautopfhoehle_otriven.jpg/1200px-Blautopfhoehle_otriven.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blautopfhoehle_taucher_im_topf.jpg/1200px-Blautopfhoehle_taucher_im_topf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vetter-Höhle_Walhalla_HvB.jpg/1200px-Vetter-Höhle_Walhalla_HvB.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Planskizze_Blauhöhlensystem.jpg/1200px-Planskizze_Blauhöhlensystem.jpg
+image_srcset:
+  Blautopf-tuerkis.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blautopf-tuerkis.jpg/400px-Blautopf-tuerkis.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blautopf-tuerkis.jpg/800px-Blautopf-tuerkis.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blautopf-tuerkis.jpg/1200px-Blautopf-tuerkis.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blautopf-tuerkis.jpg/1920px-Blautopf-tuerkis.jpg
+  Blautopfhoehle otriven.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blautopfhoehle_otriven.jpg/400px-Blautopfhoehle_otriven.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blautopfhoehle_otriven.jpg/800px-Blautopfhoehle_otriven.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blautopfhoehle_otriven.jpg/1200px-Blautopfhoehle_otriven.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Blautopfhoehle_otriven.jpg/1920px-Blautopfhoehle_otriven.jpg
+  Blautopfhoehle taucher im topf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blautopfhoehle_taucher_im_topf.jpg/400px-Blautopfhoehle_taucher_im_topf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blautopfhoehle_taucher_im_topf.jpg/800px-Blautopfhoehle_taucher_im_topf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blautopfhoehle_taucher_im_topf.jpg/1200px-Blautopfhoehle_taucher_im_topf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blautopfhoehle_taucher_im_topf.jpg/1920px-Blautopfhoehle_taucher_im_topf.jpg
+  Vetter-Höhle Walhalla HvB.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vetter-Höhle_Walhalla_HvB.jpg/400px-Vetter-Höhle_Walhalla_HvB.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vetter-Höhle_Walhalla_HvB.jpg/800px-Vetter-Höhle_Walhalla_HvB.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vetter-Höhle_Walhalla_HvB.jpg/1200px-Vetter-Höhle_Walhalla_HvB.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vetter-Höhle_Walhalla_HvB.jpg/1920px-Vetter-Höhle_Walhalla_HvB.jpg
+  Planskizze Blauhöhlensystem.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Planskizze_Blauhöhlensystem.jpg/400px-Planskizze_Blauhöhlensystem.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Planskizze_Blauhöhlensystem.jpg/800px-Planskizze_Blauhöhlensystem.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Planskizze_Blauhöhlensystem.jpg/1200px-Planskizze_Blauhöhlensystem.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Planskizze_Blauhöhlensystem.jpg/1920px-Planskizze_Blauhöhlensystem.jpg
 ---
 
 ## Overview

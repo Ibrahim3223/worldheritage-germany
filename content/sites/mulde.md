@@ -13,7 +13,7 @@ regions:
 latitude: 51.868888888
 longitude: 12.231111111
 images:
-  - "/images-sites/mulde/01-72243c4b-800w.webp"
+  - "/images/mulde/01-72243c4b-800w.webp"
 ---
 
 ## Overview

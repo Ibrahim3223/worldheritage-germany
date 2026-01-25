@@ -1,19 +1,49 @@
 ---
-title: "Cologne Southern Cemetery"
+title: Cologne Southern Cemetery
 date: 2026-01-23
 draft: false
-description: "cemetery in Cologne, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery in Cologne, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 50.8981
 longitude: 6.93889
 images:
-  - "/images-sites/cologne-southern-cemetery/01-28dd3954-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südfriedhof_(5).JPG/1200px-Südfriedhof_(5).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Südfriedhof_(6).JPG/1200px-Südfriedhof_(6).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Südfriedhof_(7).JPG/1200px-Südfriedhof_(7).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Suedfriedhof-koeln-cf2.jpg/1200px-Suedfriedhof-koeln-cf2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Suedfriedhofkoeln03.jpg/1200px-Suedfriedhofkoeln03.jpg
+image_srcset:
+  Südfriedhof (5).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südfriedhof_(5).JPG/400px-Südfriedhof_(5).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südfriedhof_(5).JPG/800px-Südfriedhof_(5).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südfriedhof_(5).JPG/1200px-Südfriedhof_(5).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Südfriedhof_(5).JPG/1920px-Südfriedhof_(5).JPG
+  Südfriedhof (6).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Südfriedhof_(6).JPG/400px-Südfriedhof_(6).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Südfriedhof_(6).JPG/800px-Südfriedhof_(6).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Südfriedhof_(6).JPG/1200px-Südfriedhof_(6).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Südfriedhof_(6).JPG/1920px-Südfriedhof_(6).JPG
+  Südfriedhof (7).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Südfriedhof_(7).JPG/400px-Südfriedhof_(7).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Südfriedhof_(7).JPG/800px-Südfriedhof_(7).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Südfriedhof_(7).JPG/1200px-Südfriedhof_(7).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Südfriedhof_(7).JPG/1920px-Südfriedhof_(7).JPG
+  Suedfriedhof-koeln-cf2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Suedfriedhof-koeln-cf2.jpg/400px-Suedfriedhof-koeln-cf2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Suedfriedhof-koeln-cf2.jpg/800px-Suedfriedhof-koeln-cf2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Suedfriedhof-koeln-cf2.jpg/1200px-Suedfriedhof-koeln-cf2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Suedfriedhof-koeln-cf2.jpg/1920px-Suedfriedhof-koeln-cf2.jpg
+  Suedfriedhofkoeln03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Suedfriedhofkoeln03.jpg/400px-Suedfriedhofkoeln03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Suedfriedhofkoeln03.jpg/800px-Suedfriedhofkoeln03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Suedfriedhofkoeln03.jpg/1200px-Suedfriedhofkoeln03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Suedfriedhofkoeln03.jpg/1920px-Suedfriedhofkoeln03.jpg
 ---
 
 ## Overview

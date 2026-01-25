@@ -13,9 +13,9 @@ regions:
 latitude: 49.4158
 longitude: 8.73444
 images:
-  - "/images-sites/villa-bosch/01-0f7e7055-800w.webp"
-  - "/images-sites/villa-bosch/02-7e682b34-800w.webp"
-  - "/images-sites/villa-bosch/03-0629b769-800w.webp"
+  - "/images/villa-bosch/01-0f7e7055-800w.webp"
+  - "/images/villa-bosch/02-7e682b34-800w.webp"
+  - "/images/villa-bosch/03-0629b769-800w.webp"
 ---
 
 ## Overview

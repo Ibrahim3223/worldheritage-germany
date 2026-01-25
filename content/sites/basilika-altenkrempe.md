@@ -1,24 +1,51 @@
 ---
-title: "Basilika Altenkrempe"
-site_name: "Basilika Altenkrempe"
-slug: "basilika-altenkrempe"
-region: "Schleswig-Holstein"
-
-# Location
+title: Basilika Altenkrempe
+site_name: Basilika Altenkrempe
+slug: basilika-altenkrempe
+region: Schleswig-Holstein
 latitude: 54.1331
 longitude: 10.8267
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "basilica"
-  - "religious site"
-wikidata_id: "Q810088"
-description: "Tucked away in Altenkrempe, near Neustadt in Holstein, Germany, the Basilika Altenkrempe is a remarkable church building that captivates visitors with i..."
+- basilica
+- religious site
+wikidata_id: Q810088
+description: Tucked away in Altenkrempe, near Neustadt in Holstein, Germany, the Basilika
+  Altenkrempe is a remarkable church building that captivates visitors with i...
 images:
-  - "/images-sites/basilika-altenkrempe/01-4590174e-1920w.webp"
-  - "/images-sites/basilika-altenkrempe/02-c95652a1-1920w.webp"
-  - "/images-sites/basilika-altenkrempe/03-6ec316b0-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Altenkrempe%202.jpg/1200px-Altenkrempe%202.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Altenkrempe%204.jpg/1200px-Altenkrempe%204.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seitenarm_der_Kremper_Au_bei_Logeberg.jpg/1200px-Seitenarm_der_Kremper_Au_bei_Logeberg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/1200px-Altenkrempe_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Altenkrempe_4.jpg/1200px-Altenkrempe_4.jpg
+image_srcset:
+  Altenkrempe%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Altenkrempe%202.jpg/400px-Altenkrempe%202.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Altenkrempe%202.jpg/800px-Altenkrempe%202.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Altenkrempe%202.jpg/1200px-Altenkrempe%202.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Altenkrempe%202.jpg/1920px-Altenkrempe%202.jpg
+  Altenkrempe%204.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Altenkrempe%204.jpg/400px-Altenkrempe%204.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Altenkrempe%204.jpg/800px-Altenkrempe%204.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Altenkrempe%204.jpg/1200px-Altenkrempe%204.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Altenkrempe%204.jpg/1920px-Altenkrempe%204.jpg
+  Seitenarm der Kremper Au bei Logeberg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seitenarm_der_Kremper_Au_bei_Logeberg.jpg/400px-Seitenarm_der_Kremper_Au_bei_Logeberg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seitenarm_der_Kremper_Au_bei_Logeberg.jpg/800px-Seitenarm_der_Kremper_Au_bei_Logeberg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seitenarm_der_Kremper_Au_bei_Logeberg.jpg/1200px-Seitenarm_der_Kremper_Au_bei_Logeberg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seitenarm_der_Kremper_Au_bei_Logeberg.jpg/1920px-Seitenarm_der_Kremper_Au_bei_Logeberg.jpg
+  Altenkrempe 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/400px-Altenkrempe_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/800px-Altenkrempe_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/1200px-Altenkrempe_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Altenkrempe_2.jpg/1920px-Altenkrempe_2.jpg
+  Altenkrempe 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Altenkrempe_4.jpg/400px-Altenkrempe_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Altenkrempe_4.jpg/800px-Altenkrempe_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Altenkrempe_4.jpg/1200px-Altenkrempe_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Altenkrempe_4.jpg/1920px-Altenkrempe_4.jpg
 ---
 
 ## Overview

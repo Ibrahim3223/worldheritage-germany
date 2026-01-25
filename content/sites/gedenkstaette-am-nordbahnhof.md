@@ -1,19 +1,49 @@
 ---
-title: "Gedenkstätte am Nordbahnhof"
+title: Gedenkstätte am Nordbahnhof
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 48.7971
 longitude: 9.18936
 images:
-  - "/images-sites/gedenkstaette-am-nordbahnhof/01-811dc6e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1200px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zeichen_der_Erinnerung_Stuttgart_1.jpg/1200px-Zeichen_der_Erinnerung_Stuttgart_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg/1200px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg/1200px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg/1200px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg
+image_srcset:
+  Stuttgart-gedenkstaette-nordbahnhof1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/400px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/800px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1200px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stuttgart-gedenkstaette-nordbahnhof1.jpg/1920px-Stuttgart-gedenkstaette-nordbahnhof1.jpg
+  Zeichen der Erinnerung Stuttgart 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zeichen_der_Erinnerung_Stuttgart_1.jpg/400px-Zeichen_der_Erinnerung_Stuttgart_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zeichen_der_Erinnerung_Stuttgart_1.jpg/800px-Zeichen_der_Erinnerung_Stuttgart_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zeichen_der_Erinnerung_Stuttgart_1.jpg/1200px-Zeichen_der_Erinnerung_Stuttgart_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zeichen_der_Erinnerung_Stuttgart_1.jpg/1920px-Zeichen_der_Erinnerung_Stuttgart_1.jpg
+  Gedenkstätte am Nordbahnhof 2012-by-RaBoe-25.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg/400px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg/800px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg/1200px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg/1920px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-25.jpg
+  Gedenkstätte am Nordbahnhof 2012-by-RaBoe-32.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg/400px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg/800px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg/1200px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg/1920px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-32.jpg
+  Gedenkstätte am Nordbahnhof 2012-by-RaBoe-36.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg/400px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg/800px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg/1200px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg/1920px-Gedenkstätte_am_Nordbahnhof_2012-by-RaBoe-36.jpg
 ---
 
 ## Overview

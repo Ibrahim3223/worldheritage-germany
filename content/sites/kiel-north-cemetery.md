@@ -13,7 +13,7 @@ regions:
 latitude: 54.345
 longitude: 10.1277
 images:
-  - "/images-sites/kiel-north-cemetery/01-bee0f23b-800w.webp"
+  - "/images/kiel-north-cemetery/01-bee0f23b-800w.webp"
 ---
 
 ## Overview

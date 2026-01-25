@@ -13,9 +13,9 @@ regions:
 latitude: 48.397
 longitude: 9.99481
 images:
-  - "/images-sites/museum-ulm/01-850d5122-800w.webp"
-  - "/images-sites/museum-ulm/02-ba8f9e18-800w.webp"
-  - "/images-sites/museum-ulm/03-7a5a9d45-800w.webp"
+  - "/images/museum-ulm/01-850d5122-800w.webp"
+  - "/images/museum-ulm/02-ba8f9e18-800w.webp"
+  - "/images/museum-ulm/03-7a5a9d45-800w.webp"
 ---
 
 ## Overview

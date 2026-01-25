@@ -1,27 +1,49 @@
 ---
-title: "Dudeldorf Castle"
+title: Dudeldorf Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.975
 longitude: 6.63653
-
-# Images
 images:
-  - "/images-sites/dudeldorf-castle/01-cb1311fb-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Dudeldorf_12.jpg/1200px-Burg_Dudeldorf_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Dudeldorf_01.jpg/1200px-Burg_Dudeldorf_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Dudeldorf_11.jpg/1200px-Burg_Dudeldorf_11.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Dudeldorf_04.jpg/1200px-Burg_Dudeldorf_04.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BurgDudeldorf01.jpg/1200px-BurgDudeldorf01.jpg
+image_srcset:
+  Burg Dudeldorf 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Dudeldorf_12.jpg/400px-Burg_Dudeldorf_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Dudeldorf_12.jpg/800px-Burg_Dudeldorf_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Dudeldorf_12.jpg/1200px-Burg_Dudeldorf_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Burg_Dudeldorf_12.jpg/1920px-Burg_Dudeldorf_12.jpg
+  Burg Dudeldorf 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Dudeldorf_01.jpg/400px-Burg_Dudeldorf_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Dudeldorf_01.jpg/800px-Burg_Dudeldorf_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Dudeldorf_01.jpg/1200px-Burg_Dudeldorf_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Dudeldorf_01.jpg/1920px-Burg_Dudeldorf_01.jpg
+  Burg Dudeldorf 11.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Dudeldorf_11.jpg/400px-Burg_Dudeldorf_11.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Dudeldorf_11.jpg/800px-Burg_Dudeldorf_11.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Dudeldorf_11.jpg/1200px-Burg_Dudeldorf_11.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burg_Dudeldorf_11.jpg/1920px-Burg_Dudeldorf_11.jpg
+  Burg Dudeldorf 04.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Dudeldorf_04.jpg/400px-Burg_Dudeldorf_04.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Dudeldorf_04.jpg/800px-Burg_Dudeldorf_04.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Dudeldorf_04.jpg/1200px-Burg_Dudeldorf_04.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Burg_Dudeldorf_04.jpg/1920px-Burg_Dudeldorf_04.jpg
+  BurgDudeldorf01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BurgDudeldorf01.jpg/400px-BurgDudeldorf01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BurgDudeldorf01.jpg/800px-BurgDudeldorf01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BurgDudeldorf01.jpg/1200px-BurgDudeldorf01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BurgDudeldorf01.jpg/1920px-BurgDudeldorf01.jpg
 ---
 
 ## Overview

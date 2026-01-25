@@ -1,19 +1,31 @@
 ---
-title: "Aventics GmbH"
+title: Aventics GmbH
 date: 2026-01-23
 draft: false
-description: "Mechanical engineering company based in Laatzen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: Mechanical engineering company based in Laatzen, Germany
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 52.323611
 longitude: 9.793611
 images:
-  - "/images-sites/aventics-gmbh/01-148df9b7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aventics_Headquarter_Laatzen.JPG/1200px-Aventics_Headquarter_Laatzen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aventics_Headquarter_Laatzen_20220802.jpg/1200px-Aventics_Headquarter_Laatzen_20220802.jpg
+image_srcset:
+  Aventics Headquarter Laatzen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aventics_Headquarter_Laatzen.JPG/400px-Aventics_Headquarter_Laatzen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aventics_Headquarter_Laatzen.JPG/800px-Aventics_Headquarter_Laatzen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aventics_Headquarter_Laatzen.JPG/1200px-Aventics_Headquarter_Laatzen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aventics_Headquarter_Laatzen.JPG/1920px-Aventics_Headquarter_Laatzen.JPG
+  Aventics Headquarter Laatzen 20220802.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aventics_Headquarter_Laatzen_20220802.jpg/400px-Aventics_Headquarter_Laatzen_20220802.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aventics_Headquarter_Laatzen_20220802.jpg/800px-Aventics_Headquarter_Laatzen_20220802.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aventics_Headquarter_Laatzen_20220802.jpg/1200px-Aventics_Headquarter_Laatzen_20220802.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aventics_Headquarter_Laatzen_20220802.jpg/1920px-Aventics_Headquarter_Laatzen_20220802.jpg
 ---
 
 ## Overview

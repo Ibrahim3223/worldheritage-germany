@@ -1,19 +1,49 @@
 ---
-title: "Fischbeker Heide"
+title: Fischbeker Heide
 date: 2026-01-23
 draft: false
-description: "nature reserve in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: nature reserve in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 53.455
 longitude: 9.83833333
 images:
-  - "/images-sites/fischbeker-heide/01-db26eef3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Der_Ursprung_kommt_zurück.jpg/1200px-Der_Ursprung_kommt_zurück.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Einzelner_Baum_auf_großem_Feld.jpg/1200px-Einzelner_Baum_auf_großem_Feld.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischbeker-Heide-Baum.jpg/1200px-Fischbeker-Heide-Baum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NSG_4_Fischbeker_Heide_(73).jpg/1200px-NSG_4_Fischbeker_Heide_(73).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fischbeker_Heide_Segelflugplatz.jpg/1200px-Fischbeker_Heide_Segelflugplatz.jpg
+image_srcset:
+  Der Ursprung kommt zurück.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Der_Ursprung_kommt_zurück.jpg/400px-Der_Ursprung_kommt_zurück.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Der_Ursprung_kommt_zurück.jpg/800px-Der_Ursprung_kommt_zurück.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Der_Ursprung_kommt_zurück.jpg/1200px-Der_Ursprung_kommt_zurück.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Der_Ursprung_kommt_zurück.jpg/1920px-Der_Ursprung_kommt_zurück.jpg
+  Einzelner Baum auf großem Feld.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Einzelner_Baum_auf_großem_Feld.jpg/400px-Einzelner_Baum_auf_großem_Feld.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Einzelner_Baum_auf_großem_Feld.jpg/800px-Einzelner_Baum_auf_großem_Feld.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Einzelner_Baum_auf_großem_Feld.jpg/1200px-Einzelner_Baum_auf_großem_Feld.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Einzelner_Baum_auf_großem_Feld.jpg/1920px-Einzelner_Baum_auf_großem_Feld.jpg
+  Fischbeker-Heide-Baum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischbeker-Heide-Baum.jpg/400px-Fischbeker-Heide-Baum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischbeker-Heide-Baum.jpg/800px-Fischbeker-Heide-Baum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischbeker-Heide-Baum.jpg/1200px-Fischbeker-Heide-Baum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fischbeker-Heide-Baum.jpg/1920px-Fischbeker-Heide-Baum.jpg
+  NSG 4 Fischbeker Heide (73).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NSG_4_Fischbeker_Heide_(73).jpg/400px-NSG_4_Fischbeker_Heide_(73).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NSG_4_Fischbeker_Heide_(73).jpg/800px-NSG_4_Fischbeker_Heide_(73).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NSG_4_Fischbeker_Heide_(73).jpg/1200px-NSG_4_Fischbeker_Heide_(73).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NSG_4_Fischbeker_Heide_(73).jpg/1920px-NSG_4_Fischbeker_Heide_(73).jpg
+  Fischbeker Heide Segelflugplatz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fischbeker_Heide_Segelflugplatz.jpg/400px-Fischbeker_Heide_Segelflugplatz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fischbeker_Heide_Segelflugplatz.jpg/800px-Fischbeker_Heide_Segelflugplatz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fischbeker_Heide_Segelflugplatz.jpg/1200px-Fischbeker_Heide_Segelflugplatz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fischbeker_Heide_Segelflugplatz.jpg/1920px-Fischbeker_Heide_Segelflugplatz.jpg
 ---
 
 ## Overview

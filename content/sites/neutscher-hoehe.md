@@ -13,8 +13,8 @@ regions:
 latitude: 49.770472222
 longitude: 8.699833333
 images:
-  - "/images-sites/neutscher-hoehe/02-b8dd636e-800w.webp"
-  - "/images-sites/neutscher-hoehe/03-84568117-800w.webp"
+  - "/images/neutscher-hoehe/02-b8dd636e-800w.webp"
+  - "/images/neutscher-hoehe/03-84568117-800w.webp"
 ---
 
 ## Overview

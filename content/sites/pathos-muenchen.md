@@ -13,7 +13,7 @@ regions:
 latitude: 48.1585
 longitude: 11.5514
 images:
-  - "/images-sites/pathos-muenchen/01-baf192bd-800w.webp"
+  - "/images/pathos-muenchen/01-baf192bd-800w.webp"
 ---
 
 ## Overview

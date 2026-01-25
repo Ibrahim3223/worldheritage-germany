@@ -1,19 +1,49 @@
 ---
-title: "Alte Oper"
+title: Alte Oper
 date: 2026-01-24
 draft: false
-description: "theater and events venue in Erfurt, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Theater"
+description: theater and events venue in Erfurt, Germany
+region: Germany
+country: Germany
+heritage_type: Theater
 categories:
-  - "Theater"
+- Theater
 regions:
-  - "Germany"
+- Germany
 latitude: 50.9716
 longitude: 11.0222
 images:
-  - "/images-sites/alte-oper/01-9fb2c657-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg/1200px-Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg/1200px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg/1200px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg/1200px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/1200px-Alte_Oper_Frankfurt_2019.jpg
+image_srcset:
+  Alte Oper, Frankfurt, South view 20190914 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg/400px-Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg/800px-Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg/1200px-Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg/1920px-Alte_Oper,_Frankfurt,_South_view_20190914_1.jpg
+  Alte Oper Frankfurt am Main blue hour 2020-08-19 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg/400px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg/800px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg/1200px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg/1920px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_02.jpg
+  Alte Oper Frankfurt am Main blue hour 2020-08-19 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg/400px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg/800px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg/1200px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg/1920px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_03.jpg
+  Alte Oper Frankfurt am Main blue hour 2020-08-19 12.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg/400px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg/800px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg/1200px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg/1920px-Alte_Oper_Frankfurt_am_Main_blue_hour_2020-08-19_12.jpg
+  Alte Oper Frankfurt 2019.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/400px-Alte_Oper_Frankfurt_2019.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/800px-Alte_Oper_Frankfurt_2019.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/1200px-Alte_Oper_Frankfurt_2019.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alte_Oper_Frankfurt_2019.jpg/1920px-Alte_Oper_Frankfurt_2019.jpg
 ---
 
 ## Overview

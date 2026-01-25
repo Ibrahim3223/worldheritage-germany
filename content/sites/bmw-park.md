@@ -1,21 +1,49 @@
 ---
-title: "BMW Park"
+title: BMW Park
 date: 2026-01-23
 draft: false
-description: "indoor arena located in Sendling-Westpark in Munich, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "City Wall"
+description: indoor arena located in Sendling-Westpark in Munich, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: City Wall
 categories:
-  - "City Wall"
+- City Wall
 regions:
-  - "Germany"
+- Germany
 latitude: 48.12605
 longitude: 11.52535
 images:
-  - "/images-sites/bmw-park/01-bd72d113-800w.webp"
-  - "/images-sites/bmw-park/02-63a07a1d-800w.webp"
-  - "/images-sites/bmw-park/03-991a246f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rudi-Sedlmaier-Halle_0509.JPG/1200px-Rudi-Sedlmaier-Halle_0509.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/1200px-Rudi-Sedlmayer-Halle_0499.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Audi_Dome_FC_Bayern_München_Basketball.JPG/1200px-Audi_Dome_FC_Bayern_München_Basketball.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AudiDomeFCB.jpg/1200px-AudiDomeFCB.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rudi-Sedlmayer-Halle.jpg/1200px-Rudi-Sedlmayer-Halle.jpg
+image_srcset:
+  Rudi-Sedlmaier-Halle 0509.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rudi-Sedlmaier-Halle_0509.JPG/400px-Rudi-Sedlmaier-Halle_0509.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rudi-Sedlmaier-Halle_0509.JPG/800px-Rudi-Sedlmaier-Halle_0509.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rudi-Sedlmaier-Halle_0509.JPG/1200px-Rudi-Sedlmaier-Halle_0509.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rudi-Sedlmaier-Halle_0509.JPG/1920px-Rudi-Sedlmaier-Halle_0509.JPG
+  Rudi-Sedlmayer-Halle 0499.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/400px-Rudi-Sedlmayer-Halle_0499.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/800px-Rudi-Sedlmayer-Halle_0499.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/1200px-Rudi-Sedlmayer-Halle_0499.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rudi-Sedlmayer-Halle_0499.JPG/1920px-Rudi-Sedlmayer-Halle_0499.JPG
+  Audi Dome FC Bayern München Basketball.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Audi_Dome_FC_Bayern_München_Basketball.JPG/400px-Audi_Dome_FC_Bayern_München_Basketball.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Audi_Dome_FC_Bayern_München_Basketball.JPG/800px-Audi_Dome_FC_Bayern_München_Basketball.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Audi_Dome_FC_Bayern_München_Basketball.JPG/1200px-Audi_Dome_FC_Bayern_München_Basketball.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Audi_Dome_FC_Bayern_München_Basketball.JPG/1920px-Audi_Dome_FC_Bayern_München_Basketball.JPG
+  AudiDomeFCB.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AudiDomeFCB.jpg/400px-AudiDomeFCB.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AudiDomeFCB.jpg/800px-AudiDomeFCB.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AudiDomeFCB.jpg/1200px-AudiDomeFCB.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AudiDomeFCB.jpg/1920px-AudiDomeFCB.jpg
+  Rudi-Sedlmayer-Halle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rudi-Sedlmayer-Halle.jpg/400px-Rudi-Sedlmayer-Halle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rudi-Sedlmayer-Halle.jpg/800px-Rudi-Sedlmayer-Halle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rudi-Sedlmayer-Halle.jpg/1200px-Rudi-Sedlmayer-Halle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rudi-Sedlmayer-Halle.jpg/1920px-Rudi-Sedlmayer-Halle.jpg
 ---
 
 ## Overview 

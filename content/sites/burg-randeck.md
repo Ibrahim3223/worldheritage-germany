@@ -1,27 +1,49 @@
 ---
-title: "Burg Randeck"
+title: Burg Randeck
 date: 2026-01-23
 draft: false
-description: "ruined hill castle in Mannweiler-Cölln, Palatinate, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: ruined hill castle in Mannweiler-Cölln, Palatinate, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.69666667
 longitude: 7.79361111
-
-# Images
 images:
-  - "/images-sites/burg-randeck/01-da1134ba-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essing_Burg-Randeck_20240726_112919_07.jpg/1200px-Essing_Burg-Randeck_20240726_112919_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Inbound188597212706790473,_Burg_Randeck.jpg/1200px-Inbound188597212706790473,_Burg_Randeck.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG/1200px-Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Donau_mit_Holzbrücke_"Tatzlwurm".jpg/1200px-Donau_mit_Holzbrücke_"Tatzlwurm".jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg/1200px-Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg
+image_srcset:
+  Essing Burg-Randeck 20240726 112919 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essing_Burg-Randeck_20240726_112919_07.jpg/400px-Essing_Burg-Randeck_20240726_112919_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essing_Burg-Randeck_20240726_112919_07.jpg/800px-Essing_Burg-Randeck_20240726_112919_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essing_Burg-Randeck_20240726_112919_07.jpg/1200px-Essing_Burg-Randeck_20240726_112919_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Essing_Burg-Randeck_20240726_112919_07.jpg/1920px-Essing_Burg-Randeck_20240726_112919_07.jpg
+  Inbound188597212706790473, Burg Randeck.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Inbound188597212706790473,_Burg_Randeck.jpg/400px-Inbound188597212706790473,_Burg_Randeck.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Inbound188597212706790473,_Burg_Randeck.jpg/800px-Inbound188597212706790473,_Burg_Randeck.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Inbound188597212706790473,_Burg_Randeck.jpg/1200px-Inbound188597212706790473,_Burg_Randeck.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Inbound188597212706790473,_Burg_Randeck.jpg/1920px-Inbound188597212706790473,_Burg_Randeck.jpg
+  Burg Randeck (Landkreis Kelheim) IMG 4373.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG/400px-Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG/800px-Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG/1200px-Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG/1920px-Burg_Randeck_(Landkreis_Kelheim)_IMG_4373.JPG
+  Donau mit Holzbrücke "Tatzlwurm".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Donau_mit_Holzbrücke_"Tatzlwurm".jpg/400px-Donau_mit_Holzbrücke_"Tatzlwurm".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Donau_mit_Holzbrücke_"Tatzlwurm".jpg/800px-Donau_mit_Holzbrücke_"Tatzlwurm".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Donau_mit_Holzbrücke_"Tatzlwurm".jpg/1200px-Donau_mit_Holzbrücke_"Tatzlwurm".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Donau_mit_Holzbrücke_"Tatzlwurm".jpg/1920px-Donau_mit_Holzbrücke_"Tatzlwurm".jpg
+  Essing- Burg Randeck - geo.hlipp.de - 35448.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg/400px-Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg/800px-Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg/1200px-Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg/1920px-Essing-_Burg_Randeck_-_geo.hlipp.de_-_35448.jpg
 ---
 
 ## Overview

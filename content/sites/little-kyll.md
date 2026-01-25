@@ -13,7 +13,7 @@ regions:
 latitude: 50.063333333
 longitude: 6.814166666
 images:
-  - "/images-sites/little-kyll/01-7c0026f6-800w.webp"
+  - "/images/little-kyll/01-7c0026f6-800w.webp"
 ---
 
 ## Overview

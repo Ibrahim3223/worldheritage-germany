@@ -1,19 +1,50 @@
 ---
-title: "Church in Diedrichshagen"
-site_name: "Church in Diedrichshagen"
-slug: "church-in-diedrichshagen"
-region: "Schleswig-Holstein"
-
-# Location
+title: Church in Diedrichshagen
+site_name: Church in Diedrichshagen
+slug: church-in-diedrichshagen
+region: Schleswig-Holstein
 latitude: 53.8048
 longitude: 11.2079
 regions:
-    - "Schleswig-Holstein"
-heritage_type: "cultural site"
+- Schleswig-Holstein
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244231"
-description: "The Church in Diedrichshagen is a striking example of Gothic Revival architecture, an inviting structure that captures the essence of the region of Rüti..."
+- cultural site
+wikidata_id: Q1244231
+description: The Church in Diedrichshagen is a striking example of Gothic Revival
+  architecture, an inviting structure that captures the essence of the region of Rüti...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kirche%20Diedrichshagen.jpg/1200px-Kirche%20Diedrichshagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(16).jpg/1200px-Diedrichshagen,_Dorfkirche_(16).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/1200px-Kirche_Diedrichshagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(13).jpg/1200px-Diedrichshagen,_Dorfkirche_(13).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diedrichshagen,_Dorfkirche_(04).jpg/1200px-Diedrichshagen,_Dorfkirche_(04).jpg
+image_srcset:
+  Kirche%20Diedrichshagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kirche%20Diedrichshagen.jpg/400px-Kirche%20Diedrichshagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kirche%20Diedrichshagen.jpg/800px-Kirche%20Diedrichshagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kirche%20Diedrichshagen.jpg/1200px-Kirche%20Diedrichshagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kirche%20Diedrichshagen.jpg/1920px-Kirche%20Diedrichshagen.jpg
+  Diedrichshagen, Dorfkirche (16).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(16).jpg/400px-Diedrichshagen,_Dorfkirche_(16).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(16).jpg/800px-Diedrichshagen,_Dorfkirche_(16).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(16).jpg/1200px-Diedrichshagen,_Dorfkirche_(16).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(16).jpg/1920px-Diedrichshagen,_Dorfkirche_(16).jpg
+  Kirche Diedrichshagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/400px-Kirche_Diedrichshagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/800px-Kirche_Diedrichshagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/1200px-Kirche_Diedrichshagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kirche_Diedrichshagen.jpg/1920px-Kirche_Diedrichshagen.jpg
+  Diedrichshagen, Dorfkirche (13).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(13).jpg/400px-Diedrichshagen,_Dorfkirche_(13).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(13).jpg/800px-Diedrichshagen,_Dorfkirche_(13).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(13).jpg/1200px-Diedrichshagen,_Dorfkirche_(13).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Diedrichshagen,_Dorfkirche_(13).jpg/1920px-Diedrichshagen,_Dorfkirche_(13).jpg
+  Diedrichshagen, Dorfkirche (04).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diedrichshagen,_Dorfkirche_(04).jpg/400px-Diedrichshagen,_Dorfkirche_(04).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diedrichshagen,_Dorfkirche_(04).jpg/800px-Diedrichshagen,_Dorfkirche_(04).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diedrichshagen,_Dorfkirche_(04).jpg/1200px-Diedrichshagen,_Dorfkirche_(04).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Diedrichshagen,_Dorfkirche_(04).jpg/1920px-Diedrichshagen,_Dorfkirche_(04).jpg
 ---
 
 ## Overview

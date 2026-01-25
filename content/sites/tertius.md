@@ -13,7 +13,7 @@ regions:
 latitude: 54.133333333
 longitude: 8.683333333
 images:
-  - "/images-sites/tertius/01-44443fcf-800w.webp"
+  - "/images/tertius/01-44443fcf-800w.webp"
 ---
 
 ## Overview

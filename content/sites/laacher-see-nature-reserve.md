@@ -13,7 +13,7 @@ regions:
 latitude: 50.4125
 longitude: 7.26972
 images:
-  - "/images-sites/laacher-see-nature-reserve/01-f7ccb1ec-800w.webp"
+  - "/images/laacher-see-nature-reserve/01-f7ccb1ec-800w.webp"
 ---
 
 ## Overview

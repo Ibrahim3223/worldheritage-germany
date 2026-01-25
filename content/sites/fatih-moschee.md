@@ -1,21 +1,49 @@
 ---
-title: "Fatih-Moschee"
+title: Fatih-Moschee
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Mosque"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Mosque
 categories:
-  - "Mosque"
+- Mosque
 regions:
-  - "Germany"
+- Germany
 latitude: 48.8992
 longitude: 8.72667
 images:
-  - "/images-sites/fatih-moschee/01-0fe4b529-800w.webp"
-  - "/images-sites/fatih-moschee/02-56e933bb-800w.webp"
-  - "/images-sites/fatih-moschee/03-afbc7312-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg/1200px-Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fatih_Cami_on_a_beautiful_spring_day.jpg/1200px-Fatih_Cami_on_a_beautiful_spring_day.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sultan_Muhammed_the_Conqurer_Mosque.jpg/1200px-Sultan_Muhammed_the_Conqurer_Mosque.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Şehzade_Camii,_İstanbul.jpg/1200px-Şehzade_Camii,_İstanbul.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/FatihMosque.jpg/1200px-FatihMosque.jpg
+image_srcset:
+  Cat sleeping on a grave at the cemetery at the Fatih Mosque, March 2024 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg/400px-Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg/800px-Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg/1200px-Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg/1920px-Cat_sleeping_on_a_grave_at_the_cemetery_at_the_Fatih_Mosque,_March_2024_01.jpg
+  Fatih Cami on a beautiful spring day.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fatih_Cami_on_a_beautiful_spring_day.jpg/400px-Fatih_Cami_on_a_beautiful_spring_day.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fatih_Cami_on_a_beautiful_spring_day.jpg/800px-Fatih_Cami_on_a_beautiful_spring_day.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fatih_Cami_on_a_beautiful_spring_day.jpg/1200px-Fatih_Cami_on_a_beautiful_spring_day.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fatih_Cami_on_a_beautiful_spring_day.jpg/1920px-Fatih_Cami_on_a_beautiful_spring_day.jpg
+  Sultan Muhammed the Conqurer Mosque.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sultan_Muhammed_the_Conqurer_Mosque.jpg/400px-Sultan_Muhammed_the_Conqurer_Mosque.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sultan_Muhammed_the_Conqurer_Mosque.jpg/800px-Sultan_Muhammed_the_Conqurer_Mosque.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sultan_Muhammed_the_Conqurer_Mosque.jpg/1200px-Sultan_Muhammed_the_Conqurer_Mosque.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sultan_Muhammed_the_Conqurer_Mosque.jpg/1920px-Sultan_Muhammed_the_Conqurer_Mosque.jpg
+  Şehzade Camii, İstanbul.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Şehzade_Camii,_İstanbul.jpg/400px-Şehzade_Camii,_İstanbul.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Şehzade_Camii,_İstanbul.jpg/800px-Şehzade_Camii,_İstanbul.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Şehzade_Camii,_İstanbul.jpg/1200px-Şehzade_Camii,_İstanbul.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Şehzade_Camii,_İstanbul.jpg/1920px-Şehzade_Camii,_İstanbul.jpg
+  FatihMosque.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/FatihMosque.jpg/400px-FatihMosque.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/FatihMosque.jpg/800px-FatihMosque.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/FatihMosque.jpg/1200px-FatihMosque.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/FatihMosque.jpg/1920px-FatihMosque.jpg
 ---
 
 ## Overview

@@ -1,19 +1,50 @@
 ---
-title: "Heilig Kreuz"
-site_name: "Heilig Kreuz"
-slug: "heilig-kreuz"
-region: "North Rhine-Westphalia"
-
-# Location
+title: Heilig Kreuz
+site_name: Heilig Kreuz
+slug: heilig-kreuz
+region: North Rhine-Westphalia
 latitude: 51.5002
 longitude: 7.11114
 regions:
-    - "North Rhine-Westphalia"
-heritage_type: "cultural site"
+- North Rhine-Westphalia
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1595005"
-description: "Heilig Kreuz, a notable church building located in Gelsenkirchen, Germany, serves as a focal point for both the spiritual and architectural heritage of ..."
+- cultural site
+wikidata_id: Q1595005
+description: Heilig Kreuz, a notable church building located in Gelsenkirchen, Germany,
+  serves as a focal point for both the spiritual and architectural heritage of ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg/1200px-Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heilig-Kreuz_Röthenbach_017.jpg/1200px-Heilig-Kreuz_Röthenbach_017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RoethenbachPegnitzHeiligKreuzKirche.jpg/1200px-RoethenbachPegnitzHeiligKreuzKirche.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heilig-Kreuz-Kirche_Röthenbach_NW.jpg/1200px-Heilig-Kreuz-Kirche_Röthenbach_NW.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg/1200px-Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg
+image_srcset:
+  Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg/400px-Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg/800px-Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg/1200px-Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg/1920px-Turm%20der%20Heilig-Kreuz-Kirche%20in%20Gelsenkirchen%2C%20von%20Suedwesten.jpg
+  Heilig-Kreuz Röthenbach 017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heilig-Kreuz_Röthenbach_017.jpg/400px-Heilig-Kreuz_Röthenbach_017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heilig-Kreuz_Röthenbach_017.jpg/800px-Heilig-Kreuz_Röthenbach_017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heilig-Kreuz_Röthenbach_017.jpg/1200px-Heilig-Kreuz_Röthenbach_017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Heilig-Kreuz_Röthenbach_017.jpg/1920px-Heilig-Kreuz_Röthenbach_017.jpg
+  RoethenbachPegnitzHeiligKreuzKirche.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RoethenbachPegnitzHeiligKreuzKirche.jpg/400px-RoethenbachPegnitzHeiligKreuzKirche.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RoethenbachPegnitzHeiligKreuzKirche.jpg/800px-RoethenbachPegnitzHeiligKreuzKirche.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RoethenbachPegnitzHeiligKreuzKirche.jpg/1200px-RoethenbachPegnitzHeiligKreuzKirche.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RoethenbachPegnitzHeiligKreuzKirche.jpg/1920px-RoethenbachPegnitzHeiligKreuzKirche.jpg
+  Heilig-Kreuz-Kirche Röthenbach NW.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heilig-Kreuz-Kirche_Röthenbach_NW.jpg/400px-Heilig-Kreuz-Kirche_Röthenbach_NW.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heilig-Kreuz-Kirche_Röthenbach_NW.jpg/800px-Heilig-Kreuz-Kirche_Röthenbach_NW.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heilig-Kreuz-Kirche_Röthenbach_NW.jpg/1200px-Heilig-Kreuz-Kirche_Röthenbach_NW.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Heilig-Kreuz-Kirche_Röthenbach_NW.jpg/1920px-Heilig-Kreuz-Kirche_Röthenbach_NW.jpg
+  Heilig-Kreuz-Kirche Röthenbach Altar Retabel Detail.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg/400px-Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg/800px-Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg/1200px-Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg/1920px-Heilig-Kreuz-Kirche_Röthenbach_Altar_Retabel_Detail.jpg
 ---
 
 ## Overview

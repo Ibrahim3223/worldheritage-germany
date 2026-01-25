@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Charlottenburg railway station"
+title: Berlin-Charlottenburg railway station
 date: 2026-01-23
 draft: false
-description: "railway station in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.504722222
 longitude: 13.303333333
 images:
-  - "/images-sites/berlin-charlottenburg-railway-station/01-e1e8c305-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg/1200px-Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg/1200px-Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bahnhof_B-Charlottenburg_07-2017.jpg/1200px-Bahnhof_B-Charlottenburg_07-2017.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg/1200px-Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg/1200px-Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg
+image_srcset:
+  Berlin S-Bahn Bhf Charlottenburg (S07 2097).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg/400px-Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg/800px-Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg/1200px-Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg/1920px-Berlin_S-Bahn_Bhf_Charlottenburg_(S07_2097).jpg
+  Charlottenburg Stuttgarter Platz Trinkbrunnen-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg/400px-Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg/800px-Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg/1200px-Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg/1920px-Charlottenburg_Stuttgarter_Platz_Trinkbrunnen-001.jpg
+  Bahnhof B-Charlottenburg 07-2017.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bahnhof_B-Charlottenburg_07-2017.jpg/400px-Bahnhof_B-Charlottenburg_07-2017.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bahnhof_B-Charlottenburg_07-2017.jpg/800px-Bahnhof_B-Charlottenburg_07-2017.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bahnhof_B-Charlottenburg_07-2017.jpg/1200px-Bahnhof_B-Charlottenburg_07-2017.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bahnhof_B-Charlottenburg_07-2017.jpg/1920px-Bahnhof_B-Charlottenburg_07-2017.jpg
+  Mural in Berlin-Charlottenburg, vom S-Bahnhof aus gesehen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg/400px-Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg/800px-Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg/1200px-Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg/1920px-Mural_in_Berlin-Charlottenburg,_vom_S-Bahnhof_aus_gesehen.jpg
+  Charlottenburg Bahnhof Charlottenburg Baumblüte 2020-001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg/400px-Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg/800px-Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg/1200px-Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg/1920px-Charlottenburg_Bahnhof_Charlottenburg_Baumblüte_2020-001.jpg
 ---
 
 ## Overview

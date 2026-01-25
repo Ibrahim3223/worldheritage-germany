@@ -1,19 +1,49 @@
 ---
-title: "Hansa-Theater"
+title: Hansa-Theater
 date: 2026-01-23
 draft: false
-description: "variety theatre in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: variety theatre in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 53.553411
 longitude: 10.011746
 images:
-  - "/images-sites/hansa-theater/01-3992558b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Moabit_Hansa-Theater.jpg/1200px-Moabit_Hansa-Theater.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg/1200px-Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moabit_Stadttheater_1907.jpg/1200px-Moabit_Stadttheater_1907.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_Hansa-Theater_Alt-Moabit.jpg/1200px-Berlin_Hansa-Theater_Alt-Moabit.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg/1200px-Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg
+image_srcset:
+  Moabit Hansa-Theater.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Moabit_Hansa-Theater.jpg/400px-Moabit_Hansa-Theater.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Moabit_Hansa-Theater.jpg/800px-Moabit_Hansa-Theater.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Moabit_Hansa-Theater.jpg/1200px-Moabit_Hansa-Theater.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Moabit_Hansa-Theater.jpg/1920px-Moabit_Hansa-Theater.jpg
+  Berlin Hansa-Theater Alt-Moabit Zuschauerraum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg/400px-Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg/800px-Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg/1200px-Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg/1920px-Berlin_Hansa-Theater_Alt-Moabit_Zuschauerraum.jpg
+  Moabit Stadttheater 1907.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moabit_Stadttheater_1907.jpg/400px-Moabit_Stadttheater_1907.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moabit_Stadttheater_1907.jpg/800px-Moabit_Stadttheater_1907.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moabit_Stadttheater_1907.jpg/1200px-Moabit_Stadttheater_1907.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moabit_Stadttheater_1907.jpg/1920px-Moabit_Stadttheater_1907.jpg
+  Berlin Hansa-Theater Alt-Moabit.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_Hansa-Theater_Alt-Moabit.jpg/400px-Berlin_Hansa-Theater_Alt-Moabit.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_Hansa-Theater_Alt-Moabit.jpg/800px-Berlin_Hansa-Theater_Alt-Moabit.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_Hansa-Theater_Alt-Moabit.jpg/1200px-Berlin_Hansa-Theater_Alt-Moabit.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Berlin_Hansa-Theater_Alt-Moabit.jpg/1920px-Berlin_Hansa-Theater_Alt-Moabit.jpg
+  Berlin Hansa-Theater Alt-Moabit Bühne.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg/400px-Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg/800px-Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg/1200px-Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg/1920px-Berlin_Hansa-Theater_Alt-Moabit_Bühne.jpg
 ---
 
 ## Overview

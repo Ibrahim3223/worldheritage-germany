@@ -1,19 +1,49 @@
 ---
-title: "Besselpark"
+title: Besselpark
 date: 2026-01-23
 draft: false
-description: "park in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Park"
+description: park in Berlin
+region: Germany
+country: Germany
+heritage_type: Park
 categories:
-  - "Park"
+- Park
 regions:
-  - "Germany"
+- Germany
 latitude: 52.503827777
 longitude: 13.391777777
 images:
-  - "/images-sites/besselpark/01-a1daf916-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png/1200px-Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Taz_besselpark_skulptur_2021-10-02.png/1200px-Taz_besselpark_skulptur_2021-10-02.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Besselpark_Panorama.jpg/1200px-Besselpark_Panorama.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin-Kreuzberg_Besselpark.jpg/1200px-Berlin-Kreuzberg_Besselpark.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/1200px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
+image_srcset:
+  Besselpark fletcher-benton tilted-donut-wedge-with-two-balls 2021-10-02.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png/400px-Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png/800px-Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png/1200px-Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png/1920px-Besselpark_fletcher-benton_tilted-donut-wedge-with-two-balls_2021-10-02.png
+  Taz besselpark skulptur 2021-10-02.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Taz_besselpark_skulptur_2021-10-02.png/400px-Taz_besselpark_skulptur_2021-10-02.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Taz_besselpark_skulptur_2021-10-02.png/800px-Taz_besselpark_skulptur_2021-10-02.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Taz_besselpark_skulptur_2021-10-02.png/1200px-Taz_besselpark_skulptur_2021-10-02.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Taz_besselpark_skulptur_2021-10-02.png/1920px-Taz_besselpark_skulptur_2021-10-02.png
+  Besselpark Panorama.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Besselpark_Panorama.jpg/400px-Besselpark_Panorama.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Besselpark_Panorama.jpg/800px-Besselpark_Panorama.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Besselpark_Panorama.jpg/1200px-Besselpark_Panorama.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Besselpark_Panorama.jpg/1920px-Besselpark_Panorama.jpg
+  Berlin-Kreuzberg Besselpark.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin-Kreuzberg_Besselpark.jpg/400px-Berlin-Kreuzberg_Besselpark.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin-Kreuzberg_Besselpark.jpg/800px-Berlin-Kreuzberg_Besselpark.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin-Kreuzberg_Besselpark.jpg/1200px-Berlin-Kreuzberg_Besselpark.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Berlin-Kreuzberg_Besselpark.jpg/1920px-Berlin-Kreuzberg_Besselpark.jpg
+  Berlin-Kreuzberg Bessepark Tilted Donut Wedge with Two Balls.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/400px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/800px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/1200px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg/1920px-Berlin-Kreuzberg_Bessepark_Tilted_Donut_Wedge_with_Two_Balls.jpg
 ---
 
 ## Overview

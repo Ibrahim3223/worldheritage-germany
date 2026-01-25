@@ -1,19 +1,43 @@
 ---
-title: "Historisches Museum Bremerhaven"
+title: Historisches Museum Bremerhaven
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 53.5388
 longitude: 8.58565
 images:
-  - "/images-sites/historisches-museum-bremerhaven/01-d9fed8c4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Historisches-museum-bhv-09_hg.jpg/1200px-Historisches-museum-bhv-09_hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Historisches-museum-bhv-02_hg.jpg/1200px-Historisches-museum-bhv-02_hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1200px-Historisches_Museum_Bremerhaven.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hist._Museum.jpg/1200px-Hist._Museum.jpg
+image_srcset:
+  Historisches-museum-bhv-09 hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Historisches-museum-bhv-09_hg.jpg/400px-Historisches-museum-bhv-09_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Historisches-museum-bhv-09_hg.jpg/800px-Historisches-museum-bhv-09_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Historisches-museum-bhv-09_hg.jpg/1200px-Historisches-museum-bhv-09_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Historisches-museum-bhv-09_hg.jpg/1920px-Historisches-museum-bhv-09_hg.jpg
+  Historisches-museum-bhv-02 hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Historisches-museum-bhv-02_hg.jpg/400px-Historisches-museum-bhv-02_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Historisches-museum-bhv-02_hg.jpg/800px-Historisches-museum-bhv-02_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Historisches-museum-bhv-02_hg.jpg/1200px-Historisches-museum-bhv-02_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Historisches-museum-bhv-02_hg.jpg/1920px-Historisches-museum-bhv-02_hg.jpg
+  Historisches Museum Bremerhaven.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/400px-Historisches_Museum_Bremerhaven.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/800px-Historisches_Museum_Bremerhaven.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1200px-Historisches_Museum_Bremerhaven.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Historisches_Museum_Bremerhaven.jpg/1920px-Historisches_Museum_Bremerhaven.jpg
+  Hist. Museum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hist._Museum.jpg/400px-Hist._Museum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hist._Museum.jpg/800px-Hist._Museum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hist._Museum.jpg/1200px-Hist._Museum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hist._Museum.jpg/1920px-Hist._Museum.jpg
 ---
 
 ## Overview

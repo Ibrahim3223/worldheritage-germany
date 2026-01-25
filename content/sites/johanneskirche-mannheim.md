@@ -1,20 +1,52 @@
 ---
-title: "Johanneskirche (Mannheim)"
-site_name: "Johanneskirche (Mannheim)"
-slug: "johanneskirche-mannheim"
-region: "Hesse"
-
-# Location
+title: Johanneskirche (Mannheim)
+site_name: Johanneskirche (Mannheim)
+slug: johanneskirche-mannheim
+region: Hesse
 latitude: 49.4862
 longitude: 8.53414
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "church building"
-  - "religious site"
-wikidata_id: "Q1698850"
-description: "In the heart of Mannheim, Germany, the Johanneskirche stands as a remarkable example of Gothic Revival architecture. This church, designed by Karl Herma..."
+- church building
+- religious site
+wikidata_id: Q1698850
+description: In the heart of Mannheim, Germany, the Johanneskirche stands as a remarkable
+  example of Gothic Revival architecture. This church, designed by Karl Herma...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg/1200px-Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/1200px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg/1200px-Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg/1200px-Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg/1200px-Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg
+image_srcset:
+  Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg/400px-Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg/800px-Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg/1200px-Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg/1920px-Mannheim%20Feudenheim%20Johanneskirche%2020100728.jpg
+  Mannheim Feudenheim Johanneskirche 20100728.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/400px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/800px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/1200px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mannheim_Feudenheim_Johanneskirche_20100728.jpg/1920px-Mannheim_Feudenheim_Johanneskirche_20100728.jpg
+  Protestantische Kirche und Pfarrhaus - panoramio.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg/400px-Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg/800px-Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg/1200px-Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg/1920px-Protestantische_Kirche_und_Pfarrhaus_-_panoramio.jpg
+  ? Nach dem Abriss der alten evangelisch-protestantischen Kirche wurde die Johanneskirche
+    1889 in Gegenwart des Badischen Großherzogs eingeweiht. - panoramio.jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg/400px-Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg/800px-Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg/1200px-Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg/1920px-Nach_dem_Abriss_der_alten_evangelisch-protestantischen_Kirche_wurde_die_Johanneskirche_1889_in_Gegenwart_des_Badischen_Großherzogs_eingeweiht._-_panoramio.jpg
+  Johanneskirche Mannheim-Feudenheim Innenansicht.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg/400px-Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg/800px-Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg/1200px-Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg/1920px-Johanneskirche_Mannheim-Feudenheim_Innenansicht.jpg
 ---
 
 ## Overview

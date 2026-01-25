@@ -1,19 +1,43 @@
 ---
-title: "Barther Oie"
+title: Barther Oie
 date: 2026-01-23
 draft: false
-description: "island"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: island
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.408611111
 longitude: 12.727777777
 images:
-  - "/images-sites/barther-oie/01-ca14939f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20130531.Hafen_Zingst.-011.jpg/1200px-20130531.Hafen_Zingst.-011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20130531.Hafen_Zingst.-012.jpg/1200px-20130531.Hafen_Zingst.-012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Barther_oie.jpg/1200px-Barther_oie.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Barther_Oie.jpg/1200px-Barther_Oie.jpg
+image_srcset:
+  20130531.Hafen Zingst.-011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20130531.Hafen_Zingst.-011.jpg/400px-20130531.Hafen_Zingst.-011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20130531.Hafen_Zingst.-011.jpg/800px-20130531.Hafen_Zingst.-011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20130531.Hafen_Zingst.-011.jpg/1200px-20130531.Hafen_Zingst.-011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/20130531.Hafen_Zingst.-011.jpg/1920px-20130531.Hafen_Zingst.-011.jpg
+  20130531.Hafen Zingst.-012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20130531.Hafen_Zingst.-012.jpg/400px-20130531.Hafen_Zingst.-012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20130531.Hafen_Zingst.-012.jpg/800px-20130531.Hafen_Zingst.-012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20130531.Hafen_Zingst.-012.jpg/1200px-20130531.Hafen_Zingst.-012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20130531.Hafen_Zingst.-012.jpg/1920px-20130531.Hafen_Zingst.-012.jpg
+  Barther oie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Barther_oie.jpg/400px-Barther_oie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Barther_oie.jpg/800px-Barther_oie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Barther_oie.jpg/1200px-Barther_oie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Barther_oie.jpg/1920px-Barther_oie.jpg
+  Barther Oie.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Barther_Oie.jpg/400px-Barther_Oie.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Barther_Oie.jpg/800px-Barther_Oie.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Barther_Oie.jpg/1200px-Barther_Oie.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Barther_Oie.jpg/1920px-Barther_Oie.jpg
 ---
 
 ## Overview

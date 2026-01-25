@@ -21,7 +21,7 @@ longitude: 10.994139557
 
 # Images
 images:
-  - "/images-sites/schloss-kaltenberg/01-c84c5caf-800w.webp"
+  - "/images/schloss-kaltenberg/01-c84c5caf-800w.webp"
 ---
 
 ## Overview

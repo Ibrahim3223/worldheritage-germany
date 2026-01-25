@@ -1,27 +1,49 @@
 ---
-title: "Distelhäuser Brewery"
+title: Distelhäuser Brewery
 date: 2026-01-23
 draft: false
-description: "German brewery"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: German brewery
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.598953
 longitude: 9.693397
-
-# Images
 images:
-  - "/images-sites/distelhaeuser-brewery/01-3d339b66-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Distelhäuser_Brauerei_Sudhaus.jpg/1200px-Distelhäuser_Brauerei_Sudhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Genießermarkt_Distelhausen.JPG/1200px-Genießermarkt_Distelhausen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Distelhäuser_Brauerei_6.jpg/1200px-Distelhäuser_Brauerei_6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Die_Distelhäuser_Brauerei_008.jpg/1200px-Die_Distelhäuser_Brauerei_008.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Distelhäuser_Brauerei_014.jpg/1200px-Die_Distelhäuser_Brauerei_014.jpg
+image_srcset:
+  Distelhäuser Brauerei Sudhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Distelhäuser_Brauerei_Sudhaus.jpg/400px-Distelhäuser_Brauerei_Sudhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Distelhäuser_Brauerei_Sudhaus.jpg/800px-Distelhäuser_Brauerei_Sudhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Distelhäuser_Brauerei_Sudhaus.jpg/1200px-Distelhäuser_Brauerei_Sudhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Distelhäuser_Brauerei_Sudhaus.jpg/1920px-Distelhäuser_Brauerei_Sudhaus.jpg
+  Genießermarkt Distelhausen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Genießermarkt_Distelhausen.JPG/400px-Genießermarkt_Distelhausen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Genießermarkt_Distelhausen.JPG/800px-Genießermarkt_Distelhausen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Genießermarkt_Distelhausen.JPG/1200px-Genießermarkt_Distelhausen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Genießermarkt_Distelhausen.JPG/1920px-Genießermarkt_Distelhausen.JPG
+  Distelhäuser Brauerei 6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Distelhäuser_Brauerei_6.jpg/400px-Distelhäuser_Brauerei_6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Distelhäuser_Brauerei_6.jpg/800px-Distelhäuser_Brauerei_6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Distelhäuser_Brauerei_6.jpg/1200px-Distelhäuser_Brauerei_6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Distelhäuser_Brauerei_6.jpg/1920px-Distelhäuser_Brauerei_6.jpg
+  Die Distelhäuser Brauerei 008.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Die_Distelhäuser_Brauerei_008.jpg/400px-Die_Distelhäuser_Brauerei_008.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Die_Distelhäuser_Brauerei_008.jpg/800px-Die_Distelhäuser_Brauerei_008.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Die_Distelhäuser_Brauerei_008.jpg/1200px-Die_Distelhäuser_Brauerei_008.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Die_Distelhäuser_Brauerei_008.jpg/1920px-Die_Distelhäuser_Brauerei_008.jpg
+  Die Distelhäuser Brauerei 014.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Distelhäuser_Brauerei_014.jpg/400px-Die_Distelhäuser_Brauerei_014.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Distelhäuser_Brauerei_014.jpg/800px-Die_Distelhäuser_Brauerei_014.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Distelhäuser_Brauerei_014.jpg/1200px-Die_Distelhäuser_Brauerei_014.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Die_Distelhäuser_Brauerei_014.jpg/1920px-Die_Distelhäuser_Brauerei_014.jpg
 ---
 
 ## Overview

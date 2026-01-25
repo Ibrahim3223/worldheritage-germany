@@ -1,19 +1,52 @@
 ---
-title: "Church in Passee"
-site_name: "Church in Passee"
-slug: "church-in-passee"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Passee
+site_name: Church in Passee
+slug: church-in-passee
+region: Mecklenburg-Vorpommern
 latitude: 53.9563
 longitude: 11.7695
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244594"
-description: "In the heart of Passee, a remarkable church stands as a testament to the enduring spirit of faith and community. This church, constructed from brick, sh..."
+- cultural site
+wikidata_id: Q1244594
+description: In the heart of Passee, a remarkable church stands as a testament to
+  the enduring spirit of faith and community. This church, constructed from brick,
+  sh...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Passee%20Kirche%202.jpg/1200px-Passee%20Kirche%202.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Passee_Kirche_1.jpg/1200px-Passee_Kirche_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Passee_Kirche_2.jpg/1200px-Passee_Kirche_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Passee_Kirche_3.jpg/1200px-Passee_Kirche_3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png
+image_srcset:
+  Passee%20Kirche%202.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Passee%20Kirche%202.jpg/400px-Passee%20Kirche%202.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Passee%20Kirche%202.jpg/800px-Passee%20Kirche%202.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Passee%20Kirche%202.jpg/1200px-Passee%20Kirche%202.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Passee%20Kirche%202.jpg/1920px-Passee%20Kirche%202.jpg
+  Passee Kirche 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Passee_Kirche_1.jpg/400px-Passee_Kirche_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Passee_Kirche_1.jpg/800px-Passee_Kirche_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Passee_Kirche_1.jpg/1200px-Passee_Kirche_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Passee_Kirche_1.jpg/1920px-Passee_Kirche_1.jpg
+  Passee Kirche 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Passee_Kirche_2.jpg/400px-Passee_Kirche_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Passee_Kirche_2.jpg/800px-Passee_Kirche_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Passee_Kirche_2.jpg/1200px-Passee_Kirche_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Passee_Kirche_2.jpg/1920px-Passee_Kirche_2.jpg
+  Passee Kirche 3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Passee_Kirche_3.jpg/400px-Passee_Kirche_3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Passee_Kirche_3.jpg/800px-Passee_Kirche_3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Passee_Kirche_3.jpg/1200px-Passee_Kirche_3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Passee_Kirche_3.jpg/1920px-Passee_Kirche_3.jpg
+  ? Die Amtsgerichtsbezirke Hagenow, Wittenburg, Boizenburg, Lübtheen, Dömitz, Grabow,
+    Ludwigslust, Neustadt, Crivitz, Brüel, Warin, Neubukow, Kröpelin und Doberan S.498.png
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png/400px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png/800px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png/1200px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png/1920px-Die_Amtsgerichtsbezirke_Hagenow,_Wittenburg,_Boizenburg,_Lübtheen,_Dömitz,_Grabow,_Ludwigslust,_Neustadt,_Crivitz,_Brüel,_Warin,_Neubukow,_Kröpelin_und_Doberan_S.498.png
 ---
 
 ## Overview

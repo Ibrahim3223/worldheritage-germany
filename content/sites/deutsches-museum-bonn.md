@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Museum Bonn"
+title: Deutsches Museum Bonn
 date: 2026-01-23
 draft: false
-description: "technology museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: technology museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6997
 longitude: 7.14983
 images:
-  - "/images-sites/deutsches-museum-bonn/01-0b9b597a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg/1200px-Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mixtur_Trautonium.jpg/1200px-Mixtur_Trautonium.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1200px-Deutsches_Museum_Bonn.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg/1200px-Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg/1200px-Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg
+image_srcset:
+  Deutsches Museum Bonn mit Transrapid, Stand 2020-07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg/400px-Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg/800px-Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg/1200px-Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg/1920px-Deutsches_Museum_Bonn_mit_Transrapid,_Stand_2020-07.jpg
+  Mixtur Trautonium.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mixtur_Trautonium.jpg/400px-Mixtur_Trautonium.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mixtur_Trautonium.jpg/800px-Mixtur_Trautonium.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mixtur_Trautonium.jpg/1200px-Mixtur_Trautonium.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mixtur_Trautonium.jpg/1920px-Mixtur_Trautonium.jpg
+  Deutsches Museum Bonn.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/400px-Deutsches_Museum_Bonn.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/800px-Deutsches_Museum_Bonn.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1200px-Deutsches_Museum_Bonn.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Deutsches_Museum_Bonn.jpg/1920px-Deutsches_Museum_Bonn.jpg
+  Deutsches Museum Bonn Bruker Esquire Massenspektrometer 1994.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg/400px-Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg/800px-Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg/1200px-Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg/1920px-Deutsches_Museum_Bonn_Bruker_Esquire_Massenspektrometer_1994.jpg
+  Deutsches Museum Bonn Fallkapsel Zarm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg/400px-Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg/800px-Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg/1200px-Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg/1920px-Deutsches_Museum_Bonn_Fallkapsel_Zarm.jpg
 ---
 
 ## Overview

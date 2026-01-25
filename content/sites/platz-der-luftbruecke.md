@@ -13,9 +13,9 @@ regions:
 latitude: 52.4842
 longitude: 13.3875
 images:
-  - "/images-sites/platz-der-luftbruecke/01-0cb668cd-800w.webp"
-  - "/images-sites/platz-der-luftbruecke/02-0dbbbfdf-800w.webp"
-  - "/images-sites/platz-der-luftbruecke/03-d123465d-800w.webp"
+  - "/images/platz-der-luftbruecke/01-0cb668cd-800w.webp"
+  - "/images/platz-der-luftbruecke/02-0dbbbfdf-800w.webp"
+  - "/images/platz-der-luftbruecke/03-d123465d-800w.webp"
 ---
 
 ## Overview

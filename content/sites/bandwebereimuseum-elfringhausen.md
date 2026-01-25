@@ -1,19 +1,49 @@
 ---
-title: "Bandwebereimuseum Elfringhausen"
+title: Bandwebereimuseum Elfringhausen
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 51.33795
 longitude: 7.176066
 images:
-  - "/images-sites/bandwebereimuseum-elfringhausen/01-7ed70a8e-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bandwebereimuseum_Elfringhausen_(1).jpg/1200px-Bandwebereimuseum_Elfringhausen_(1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/1200px-Bandwebereimuseum_Elfringhausen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemeindezentrum_Elfringhausen.JPG/1200px-Gemeindezentrum_Elfringhausen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Felderbachstraße_in_Elfringhausen.JPG/1200px-Felderbachstraße_in_Elfringhausen.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen_(2).jpg/1200px-Bandwebereimuseum_Elfringhausen_(2).jpg
+image_srcset:
+  Bandwebereimuseum Elfringhausen (1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bandwebereimuseum_Elfringhausen_(1).jpg/400px-Bandwebereimuseum_Elfringhausen_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bandwebereimuseum_Elfringhausen_(1).jpg/800px-Bandwebereimuseum_Elfringhausen_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bandwebereimuseum_Elfringhausen_(1).jpg/1200px-Bandwebereimuseum_Elfringhausen_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bandwebereimuseum_Elfringhausen_(1).jpg/1920px-Bandwebereimuseum_Elfringhausen_(1).jpg
+  Bandwebereimuseum Elfringhausen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/400px-Bandwebereimuseum_Elfringhausen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/800px-Bandwebereimuseum_Elfringhausen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/1200px-Bandwebereimuseum_Elfringhausen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen.JPG/1920px-Bandwebereimuseum_Elfringhausen.JPG
+  Gemeindezentrum Elfringhausen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemeindezentrum_Elfringhausen.JPG/400px-Gemeindezentrum_Elfringhausen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemeindezentrum_Elfringhausen.JPG/800px-Gemeindezentrum_Elfringhausen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemeindezentrum_Elfringhausen.JPG/1200px-Gemeindezentrum_Elfringhausen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gemeindezentrum_Elfringhausen.JPG/1920px-Gemeindezentrum_Elfringhausen.JPG
+  Felderbachstraße in Elfringhausen.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Felderbachstraße_in_Elfringhausen.JPG/400px-Felderbachstraße_in_Elfringhausen.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Felderbachstraße_in_Elfringhausen.JPG/800px-Felderbachstraße_in_Elfringhausen.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Felderbachstraße_in_Elfringhausen.JPG/1200px-Felderbachstraße_in_Elfringhausen.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Felderbachstraße_in_Elfringhausen.JPG/1920px-Felderbachstraße_in_Elfringhausen.JPG
+  Bandwebereimuseum Elfringhausen (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen_(2).jpg/400px-Bandwebereimuseum_Elfringhausen_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen_(2).jpg/800px-Bandwebereimuseum_Elfringhausen_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen_(2).jpg/1200px-Bandwebereimuseum_Elfringhausen_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bandwebereimuseum_Elfringhausen_(2).jpg/1920px-Bandwebereimuseum_Elfringhausen_(2).jpg
 ---
 
 ## Overview

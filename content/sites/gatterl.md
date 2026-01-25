@@ -1,19 +1,49 @@
 ---
-title: "Gatterl"
+title: Gatterl
 date: 2026-01-23
 draft: false
-description: "mountain pass in the Wettersteingebirge at the border Tyrol / Bavaria"
-region: "Germany"
-country: "Germany"
-heritage_type: "Gorge"
+description: mountain pass in the Wettersteingebirge at the border Tyrol / Bavaria
+region: Germany
+country: Germany
+heritage_type: Gorge
 categories:
-  - "Gorge"
+- Gorge
 regions:
-  - "Germany"
+- Germany
 latitude: 47.396344
 longitude: 11.016514
 images:
-  - "/images-sites/gatterl/01-c03afc91-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zugspitze,_Blick_zur_Hohen_Munde.jpg/1200px-Zugspitze,_Blick_zur_Hohen_Munde.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg/1200px-Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karte_des_Zugspitzgebiets_ca1730.jpg/1200px-Karte_des_Zugspitzgebiets_ca1730.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jubiläumsgrat_West_von_S_HQ.jpg/1200px-Jubiläumsgrat_West_von_S_HQ.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alpen_Wettersteingebirge_Gatterl.jpg/1200px-Alpen_Wettersteingebirge_Gatterl.jpg
+image_srcset:
+  Zugspitze, Blick zur Hohen Munde.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zugspitze,_Blick_zur_Hohen_Munde.jpg/400px-Zugspitze,_Blick_zur_Hohen_Munde.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zugspitze,_Blick_zur_Hohen_Munde.jpg/800px-Zugspitze,_Blick_zur_Hohen_Munde.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zugspitze,_Blick_zur_Hohen_Munde.jpg/1200px-Zugspitze,_Blick_zur_Hohen_Munde.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zugspitze,_Blick_zur_Hohen_Munde.jpg/1920px-Zugspitze,_Blick_zur_Hohen_Munde.jpg
+  Flug -Rom-Düsseldorf-Hamburg 2013 by-RaBoe 177.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg/400px-Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg/800px-Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg/1200px-Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg/1920px-Flug_-Rom-Düsseldorf-Hamburg_2013_by-RaBoe_177.jpg
+  Karte des Zugspitzgebiets ca1730.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karte_des_Zugspitzgebiets_ca1730.jpg/400px-Karte_des_Zugspitzgebiets_ca1730.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karte_des_Zugspitzgebiets_ca1730.jpg/800px-Karte_des_Zugspitzgebiets_ca1730.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karte_des_Zugspitzgebiets_ca1730.jpg/1200px-Karte_des_Zugspitzgebiets_ca1730.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karte_des_Zugspitzgebiets_ca1730.jpg/1920px-Karte_des_Zugspitzgebiets_ca1730.jpg
+  Jubiläumsgrat West von S HQ.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jubiläumsgrat_West_von_S_HQ.jpg/400px-Jubiläumsgrat_West_von_S_HQ.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jubiläumsgrat_West_von_S_HQ.jpg/800px-Jubiläumsgrat_West_von_S_HQ.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jubiläumsgrat_West_von_S_HQ.jpg/1200px-Jubiläumsgrat_West_von_S_HQ.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jubiläumsgrat_West_von_S_HQ.jpg/1920px-Jubiläumsgrat_West_von_S_HQ.jpg
+  Alpen Wettersteingebirge Gatterl.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alpen_Wettersteingebirge_Gatterl.jpg/400px-Alpen_Wettersteingebirge_Gatterl.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alpen_Wettersteingebirge_Gatterl.jpg/800px-Alpen_Wettersteingebirge_Gatterl.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alpen_Wettersteingebirge_Gatterl.jpg/1200px-Alpen_Wettersteingebirge_Gatterl.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Alpen_Wettersteingebirge_Gatterl.jpg/1920px-Alpen_Wettersteingebirge_Gatterl.jpg
 ---
 
 ## Overview

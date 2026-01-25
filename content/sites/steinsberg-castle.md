@@ -21,7 +21,7 @@ longitude: 8.87722
 
 # Images
 images:
-  - "/images-sites/steinsberg-castle/01-3b98fc27-800w.webp"
+  - "/images/steinsberg-castle/01-3b98fc27-800w.webp"
 ---
 
 ## Overview

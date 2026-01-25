@@ -1,19 +1,49 @@
 ---
-title: "Alster"
+title: Alster
 date: 2026-01-23
 draft: false
-description: "right tributary of the Elbe in Schleswig-Holstein and Hamburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "River"
+description: right tributary of the Elbe in Schleswig-Holstein and Hamburg
+region: Germany
+country: Germany
+heritage_type: River
 categories:
-  - "River"
+- River
 regions:
-  - "Germany"
+- Germany
 latitude: 53.7636
 longitude: 10.0048
 images:
-  - "/images-sites/alster/01-9485f335-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg/1200px-20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburg_Jungfernstieg_looking_on_the_water.jpg/1200px-Hamburg_Jungfernstieg_looking_on_the_water.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hamburg,_Europa-Passage_--_2016_--_4184.jpg/1200px-Hamburg,_Europa-Passage_--_2016_--_4184.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gedenktafel_Yüksel-Mus-Platz.jpg/1200px-Gedenktafel_Yüksel-Mus-Platz.jpg
+image_srcset:
+  20230317 Alsterschiffanleger Krugkoppelbrücke Nord.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg/400px-20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg/800px-20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg/1200px-20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg/1920px-20230317_Alsterschiffanleger_Krugkoppelbrücke_Nord.jpg
+  Aerial image of Binnenalster and Außenalster (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg/400px-Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg/800px-Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg/1200px-Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg/1920px-Aerial_image_of_Binnenalster_and_Außenalster_(view_from_the_southwest).jpg
+  Hamburg Jungfernstieg looking on the water.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburg_Jungfernstieg_looking_on_the_water.jpg/400px-Hamburg_Jungfernstieg_looking_on_the_water.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburg_Jungfernstieg_looking_on_the_water.jpg/800px-Hamburg_Jungfernstieg_looking_on_the_water.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburg_Jungfernstieg_looking_on_the_water.jpg/1200px-Hamburg_Jungfernstieg_looking_on_the_water.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hamburg_Jungfernstieg_looking_on_the_water.jpg/1920px-Hamburg_Jungfernstieg_looking_on_the_water.jpg
+  Hamburg, Europa-Passage -- 2016 -- 4184.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hamburg,_Europa-Passage_--_2016_--_4184.jpg/400px-Hamburg,_Europa-Passage_--_2016_--_4184.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hamburg,_Europa-Passage_--_2016_--_4184.jpg/800px-Hamburg,_Europa-Passage_--_2016_--_4184.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hamburg,_Europa-Passage_--_2016_--_4184.jpg/1200px-Hamburg,_Europa-Passage_--_2016_--_4184.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hamburg,_Europa-Passage_--_2016_--_4184.jpg/1920px-Hamburg,_Europa-Passage_--_2016_--_4184.jpg
+  Gedenktafel Yüksel-Mus-Platz.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gedenktafel_Yüksel-Mus-Platz.jpg/400px-Gedenktafel_Yüksel-Mus-Platz.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gedenktafel_Yüksel-Mus-Platz.jpg/800px-Gedenktafel_Yüksel-Mus-Platz.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gedenktafel_Yüksel-Mus-Platz.jpg/1200px-Gedenktafel_Yüksel-Mus-Platz.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gedenktafel_Yüksel-Mus-Platz.jpg/1920px-Gedenktafel_Yüksel-Mus-Platz.jpg
 ---
 
 ## Overview

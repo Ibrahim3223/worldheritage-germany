@@ -13,7 +13,7 @@ regions:
 latitude: 53.5551
 longitude: 8.59111
 images:
-  - "/images-sites/stadthalle-bremerhaven/01-2776a2a5-800w.webp"
+  - "/images/stadthalle-bremerhaven/01-2776a2a5-800w.webp"
 ---
 
 ## Overview

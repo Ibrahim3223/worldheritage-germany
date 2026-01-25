@@ -1,20 +1,49 @@
 ---
-title: "Berlin-Lichterfelde West station"
+title: Berlin-Lichterfelde West station
 date: 2026-01-23
 draft: false
-description: "railway station in Berlin, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Railway Station"
+description: railway station in Berlin, Germany
+region: Germany
+country: Germany
+heritage_type: Railway Station
 categories:
-  - "Railway Station"
+- Railway Station
 regions:
-  - "Germany"
+- Germany
 latitude: 52.4433
 longitude: 13.2947
 images:
-  - "/images-sites/berlin-lichterfelde-west-station/02-526f150d-800w.webp"
-  - "/images-sites/berlin-lichterfelde-west-station/03-4fdbc653-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/S-Bahnhof_Lichterfelde_West.jpg/1200px-S-Bahnhof_Lichterfelde_West.jpg
+image_srcset:
+  Berlin - S-Bahnhof Lichterfelde West der S1 (6248984321).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg/400px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg/800px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg/1920px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6248984321).jpg
+  Berlin - S-Bahnhof Lichterfelde West der S1 (6249517222).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg/400px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg/800px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg/1920px-Berlin_-_S-Bahnhof_Lichterfelde_West_der_S1_(6249517222).jpg
+  Berlin - S-Bahnhof Lichterfelde West (8583282807).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg/400px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg/800px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg/1920px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583282807).jpg
+  Berlin - S-Bahnhof Lichterfelde West (8583288335).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg/400px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg/800px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg/1200px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg/1920px-Berlin_-_S-Bahnhof_Lichterfelde_West_(8583288335).jpg
+  S-Bahnhof Lichterfelde West.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/S-Bahnhof_Lichterfelde_West.jpg/400px-S-Bahnhof_Lichterfelde_West.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/S-Bahnhof_Lichterfelde_West.jpg/800px-S-Bahnhof_Lichterfelde_West.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/S-Bahnhof_Lichterfelde_West.jpg/1200px-S-Bahnhof_Lichterfelde_West.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/S-Bahnhof_Lichterfelde_West.jpg/1920px-S-Bahnhof_Lichterfelde_West.jpg
 ---
 
 ## Overview

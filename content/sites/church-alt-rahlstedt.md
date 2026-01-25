@@ -1,23 +1,51 @@
 ---
-title: "Church Alt-Rahlstedt"
-site_name: "Church Alt-Rahlstedt"
-slug: "church-alt-rahlstedt"
-region: "Hamburg"
-
-# Location
+title: Church Alt-Rahlstedt
+site_name: Church Alt-Rahlstedt
+slug: church-alt-rahlstedt
+region: Hamburg
 latitude: 53.59666667
 longitude: 10.15055556
 regions:
-    - "Hamburg"
-heritage_type: "cultural site"
+- Hamburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1723929"
-description: "Imagine stepping into a serene space where the echoes of history linger in the air, a place that has witnessed the passage of time and the evolution of ..."
+- cultural site
+wikidata_id: Q1723929
+description: Imagine stepping into a serene space where the echoes of history linger
+  in the air, a place that has witnessed the passage of time and the evolution of
+  ...
 images:
-  - "/images-sites/church-alt-rahlstedt/01-a489d75c-1920w.webp"
-  - "/images-sites/church-alt-rahlstedt/02-3c3f1369-1920w.webp"
-  - "/images-sites/church-alt-rahlstedt/03-7d296ebb-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG/1200px-Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Alt-Rahlstedt_Nordseite.jpg/1200px-Kirche_Alt-Rahlstedt_Nordseite.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turm_Kirche_Alt-Rahlstedt.jpg/1200px-Turm_Kirche_Alt-Rahlstedt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kirche_Alt-Rahlstedt_Orgel.jpg/1200px-Kirche_Alt-Rahlstedt_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1200px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
+image_srcset:
+  Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG/400px-Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG/800px-Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG/1200px-Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG/1920px-Hamburg-Rahlstedt%20Alt-Rahlstedter%20Kirche.JPG
+  Kirche Alt-Rahlstedt Nordseite.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Alt-Rahlstedt_Nordseite.jpg/400px-Kirche_Alt-Rahlstedt_Nordseite.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Alt-Rahlstedt_Nordseite.jpg/800px-Kirche_Alt-Rahlstedt_Nordseite.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Alt-Rahlstedt_Nordseite.jpg/1200px-Kirche_Alt-Rahlstedt_Nordseite.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kirche_Alt-Rahlstedt_Nordseite.jpg/1920px-Kirche_Alt-Rahlstedt_Nordseite.jpg
+  Turm Kirche Alt-Rahlstedt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turm_Kirche_Alt-Rahlstedt.jpg/400px-Turm_Kirche_Alt-Rahlstedt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turm_Kirche_Alt-Rahlstedt.jpg/800px-Turm_Kirche_Alt-Rahlstedt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turm_Kirche_Alt-Rahlstedt.jpg/1200px-Turm_Kirche_Alt-Rahlstedt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turm_Kirche_Alt-Rahlstedt.jpg/1920px-Turm_Kirche_Alt-Rahlstedt.jpg
+  Kirche Alt-Rahlstedt Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kirche_Alt-Rahlstedt_Orgel.jpg/400px-Kirche_Alt-Rahlstedt_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kirche_Alt-Rahlstedt_Orgel.jpg/800px-Kirche_Alt-Rahlstedt_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kirche_Alt-Rahlstedt_Orgel.jpg/1200px-Kirche_Alt-Rahlstedt_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kirche_Alt-Rahlstedt_Orgel.jpg/1920px-Kirche_Alt-Rahlstedt_Orgel.jpg
+  Hamburg-Rahlstedt Alt-Rahlstedter Kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/400px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/800px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1200px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG/1920px-Hamburg-Rahlstedt_Alt-Rahlstedter_Kirche.JPG
 ---
 
 ## Overview

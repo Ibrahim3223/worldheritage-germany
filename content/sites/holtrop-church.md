@@ -1,19 +1,45 @@
 ---
-title: "Holtrop Church"
-site_name: "Holtrop Church"
-slug: "holtrop-church"
-region: "Lower Saxony"
-
-# Location
+title: Holtrop Church
+site_name: Holtrop Church
+slug: holtrop-church
+region: Lower Saxony
 latitude: 53.4304
 longitude: 7.56758
 regions:
-    - "Lower Saxony"
-heritage_type: "cultural site"
+- Lower Saxony
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1625243"
-description: "Holtrop Church, founded in 1250, is a remarkable example of Romanesque architecture located in the tranquil region of Großefehn, Germany. This historic ..."
+- cultural site
+wikidata_id: Q1625243
+description: Holtrop Church, founded in 1250, is a remarkable example of Romanesque
+  architecture located in the tranquil region of Großefehn, Germany. This historic
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1200px-ChurchHoltrop.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg/1200px-Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/4721354_Holtrop_Orgel.jpg/1200px-4721354_Holtrop_Orgel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Holtrop_kirchturm.jpg/1200px-Holtrop_kirchturm.jpg
+image_srcset:
+  ChurchHoltrop.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/400px-ChurchHoltrop.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/800px-ChurchHoltrop.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1200px-ChurchHoltrop.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ChurchHoltrop.JPG/1920px-ChurchHoltrop.JPG
+  Interieur kerk - Holtrop - 20318569 - RCE.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg/400px-Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg/800px-Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg/1200px-Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg/1920px-Interieur_kerk_-_Holtrop_-_20318569_-_RCE.jpg
+  4721354 Holtrop Orgel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/4721354_Holtrop_Orgel.jpg/400px-4721354_Holtrop_Orgel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/4721354_Holtrop_Orgel.jpg/800px-4721354_Holtrop_Orgel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/4721354_Holtrop_Orgel.jpg/1200px-4721354_Holtrop_Orgel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/4721354_Holtrop_Orgel.jpg/1920px-4721354_Holtrop_Orgel.jpg
+  Holtrop kirchturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Holtrop_kirchturm.jpg/400px-Holtrop_kirchturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Holtrop_kirchturm.jpg/800px-Holtrop_kirchturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Holtrop_kirchturm.jpg/1200px-Holtrop_kirchturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Holtrop_kirchturm.jpg/1920px-Holtrop_kirchturm.jpg
 ---
 
 ## Overview

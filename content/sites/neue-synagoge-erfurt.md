@@ -13,7 +13,7 @@ regions:
 latitude: 50.9709
 longitude: 11.0276
 images:
-  - "/images-sites/neue-synagoge-erfurt/01-fdc29f27-800w.webp"
+  - "/images/neue-synagoge-erfurt/01-fdc29f27-800w.webp"
 ---
 
 ## Overview

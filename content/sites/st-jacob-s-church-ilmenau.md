@@ -15,8 +15,8 @@ categories:
 wikidata_id: "Q2316182"
 description: "St. Jacobs Church in Ilmenau is a striking example of baroque architecture set in the picturesque region of Thuringia, Germany. This church stands as a ..."
 images:
-  - "/images-sites/st-jacob-s-church-ilmenau/01-377414e9-1920w.webp"
-  - "/images-sites/st-jacob-s-church-ilmenau/02-d870f0fd-1920w.webp"
+  - "/images/st-jacob-s-church-ilmenau/01-377414e9-1920w.webp"
+  - "/images/st-jacob-s-church-ilmenau/02-d870f0fd-1920w.webp"
 ---
 
 ## Overview

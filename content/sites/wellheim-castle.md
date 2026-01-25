@@ -21,9 +21,9 @@ longitude: 11.080103662
 
 # Images
 images:
-  - "/images-sites/wellheim-castle/01-12f64f0b-800w.webp"
-  - "/images-sites/wellheim-castle/02-4fb29ef4-800w.webp"
-  - "/images-sites/wellheim-castle/03-3894bf3e-800w.webp"
+  - "/images/wellheim-castle/01-12f64f0b-800w.webp"
+  - "/images/wellheim-castle/02-4fb29ef4-800w.webp"
+  - "/images/wellheim-castle/03-3894bf3e-800w.webp"
 ---
 
 ## Overview

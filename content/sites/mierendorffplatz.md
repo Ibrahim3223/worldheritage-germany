@@ -13,7 +13,7 @@ regions:
 latitude: 52.5265
 longitude: 13.3051
 images:
-  - "/images-sites/mierendorffplatz/01-4190bf62-800w.webp"
+  - "/images/mierendorffplatz/01-4190bf62-800w.webp"
 ---
 
 ## Overview

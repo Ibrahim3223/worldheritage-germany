@@ -1,19 +1,49 @@
 ---
-title: "Frauenau Dam"
+title: Frauenau Dam
 date: 2026-01-23
 draft: false
-description: "Stausee in Bayern"
-region: "Germany"
-country: "Germany"
-heritage_type: "Dam"
+description: Stausee in Bayern
+region: Germany
+country: Germany
+heritage_type: Dam
 categories:
-  - "Dam"
+- Dam
 regions:
-  - "Germany"
+- Germany
 latitude: 49.0139
 longitude: 13.3333
 images:
-  - "/images-sites/frauenau-dam/01-8e394c96-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rundweg_Trinkwasserspeicher_Frauenau.jpg/1200px-Rundweg_Trinkwasserspeicher_Frauenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Trinkwasser-Talsperre_Frauenau.jpg/1200px-Trinkwasser-Talsperre_Frauenau.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trinkwassertal-Sperre,_Rachel.jpg/1200px-Trinkwassertal-Sperre,_Rachel.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TWS_Frauenau_1.jpg/1200px-TWS_Frauenau_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TWS_Frauenau_4.jpg/1200px-TWS_Frauenau_4.jpg
+image_srcset:
+  Rundweg Trinkwasserspeicher Frauenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rundweg_Trinkwasserspeicher_Frauenau.jpg/400px-Rundweg_Trinkwasserspeicher_Frauenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rundweg_Trinkwasserspeicher_Frauenau.jpg/800px-Rundweg_Trinkwasserspeicher_Frauenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rundweg_Trinkwasserspeicher_Frauenau.jpg/1200px-Rundweg_Trinkwasserspeicher_Frauenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rundweg_Trinkwasserspeicher_Frauenau.jpg/1920px-Rundweg_Trinkwasserspeicher_Frauenau.jpg
+  Trinkwasser-Talsperre Frauenau.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Trinkwasser-Talsperre_Frauenau.jpg/400px-Trinkwasser-Talsperre_Frauenau.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Trinkwasser-Talsperre_Frauenau.jpg/800px-Trinkwasser-Talsperre_Frauenau.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Trinkwasser-Talsperre_Frauenau.jpg/1200px-Trinkwasser-Talsperre_Frauenau.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Trinkwasser-Talsperre_Frauenau.jpg/1920px-Trinkwasser-Talsperre_Frauenau.jpg
+  Trinkwassertal-Sperre, Rachel.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trinkwassertal-Sperre,_Rachel.jpg/400px-Trinkwassertal-Sperre,_Rachel.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trinkwassertal-Sperre,_Rachel.jpg/800px-Trinkwassertal-Sperre,_Rachel.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trinkwassertal-Sperre,_Rachel.jpg/1200px-Trinkwassertal-Sperre,_Rachel.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Trinkwassertal-Sperre,_Rachel.jpg/1920px-Trinkwassertal-Sperre,_Rachel.jpg
+  TWS Frauenau 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TWS_Frauenau_1.jpg/400px-TWS_Frauenau_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TWS_Frauenau_1.jpg/800px-TWS_Frauenau_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TWS_Frauenau_1.jpg/1200px-TWS_Frauenau_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TWS_Frauenau_1.jpg/1920px-TWS_Frauenau_1.jpg
+  TWS Frauenau 4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TWS_Frauenau_4.jpg/400px-TWS_Frauenau_4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TWS_Frauenau_4.jpg/800px-TWS_Frauenau_4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TWS_Frauenau_4.jpg/1200px-TWS_Frauenau_4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TWS_Frauenau_4.jpg/1920px-TWS_Frauenau_4.jpg
 ---
 
 ## Overview

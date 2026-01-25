@@ -13,7 +13,7 @@ regions:
 latitude: 53.56199
 longitude: 9.9615
 images:
-  - "/images-sites/rote-flora/01-238fe0ce-800w.webp"
+  - "/images/rote-flora/01-238fe0ce-800w.webp"
 ---
 
 ## Overview

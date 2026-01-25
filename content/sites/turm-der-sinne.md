@@ -13,9 +13,9 @@ regions:
 latitude: 49.45221056
 longitude: 11.06951952
 images:
-  - "/images-sites/turm-der-sinne/01-670a402d-800w.webp"
-  - "/images-sites/turm-der-sinne/02-02f90f37-800w.webp"
-  - "/images-sites/turm-der-sinne/03-8bedc058-800w.webp"
+  - "/images/turm-der-sinne/01-670a402d-800w.webp"
+  - "/images/turm-der-sinne/02-02f90f37-800w.webp"
+  - "/images/turm-der-sinne/03-8bedc058-800w.webp"
 ---
 
 ## Overview

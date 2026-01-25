@@ -1,19 +1,50 @@
 ---
-title: "Church in Alt Karin"
-site_name: "Church in Alt Karin"
-slug: "church-in-alt-karin"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Alt Karin
+site_name: Church in Alt Karin
+slug: church-in-alt-karin
+region: Mecklenburg-Vorpommern
 latitude: 54.0056
 longitude: 11.7755
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244078"
-description: "In the heart of Carinerland, the Church in Alt Karin stands as a remarkable example of Brick Gothic architecture. Its striking brick facade commands att..."
+- cultural site
+wikidata_id: Q1244078
+description: In the heart of Carinerland, the Church in Alt Karin stands as a remarkable
+  example of Brick Gothic architecture. Its striking brick facade commands att...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alt%20Karin%20Dorfkirche%2007.jpg/1200px-Alt%20Karin%20Dorfkirche%2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alt_Karin_Dorfkirche_06.jpg/1200px-Alt_Karin_Dorfkirche_06.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/1200px-Alt_Karin_Dorfkirche_07.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alt_Karin_Dorfkirche_05.jpg/1200px-Alt_Karin_Dorfkirche_05.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dorfkirche_Alt_Karin.jpg/1200px-Dorfkirche_Alt_Karin.jpg
+image_srcset:
+  Alt%20Karin%20Dorfkirche%2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alt%20Karin%20Dorfkirche%2007.jpg/400px-Alt%20Karin%20Dorfkirche%2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alt%20Karin%20Dorfkirche%2007.jpg/800px-Alt%20Karin%20Dorfkirche%2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alt%20Karin%20Dorfkirche%2007.jpg/1200px-Alt%20Karin%20Dorfkirche%2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alt%20Karin%20Dorfkirche%2007.jpg/1920px-Alt%20Karin%20Dorfkirche%2007.jpg
+  Alt Karin Dorfkirche 06.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alt_Karin_Dorfkirche_06.jpg/400px-Alt_Karin_Dorfkirche_06.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alt_Karin_Dorfkirche_06.jpg/800px-Alt_Karin_Dorfkirche_06.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alt_Karin_Dorfkirche_06.jpg/1200px-Alt_Karin_Dorfkirche_06.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Alt_Karin_Dorfkirche_06.jpg/1920px-Alt_Karin_Dorfkirche_06.jpg
+  Alt Karin Dorfkirche 07.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/400px-Alt_Karin_Dorfkirche_07.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/800px-Alt_Karin_Dorfkirche_07.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/1200px-Alt_Karin_Dorfkirche_07.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Alt_Karin_Dorfkirche_07.jpg/1920px-Alt_Karin_Dorfkirche_07.jpg
+  Alt Karin Dorfkirche 05.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alt_Karin_Dorfkirche_05.jpg/400px-Alt_Karin_Dorfkirche_05.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alt_Karin_Dorfkirche_05.jpg/800px-Alt_Karin_Dorfkirche_05.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alt_Karin_Dorfkirche_05.jpg/1200px-Alt_Karin_Dorfkirche_05.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alt_Karin_Dorfkirche_05.jpg/1920px-Alt_Karin_Dorfkirche_05.jpg
+  Dorfkirche Alt Karin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dorfkirche_Alt_Karin.jpg/400px-Dorfkirche_Alt_Karin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dorfkirche_Alt_Karin.jpg/800px-Dorfkirche_Alt_Karin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dorfkirche_Alt_Karin.jpg/1200px-Dorfkirche_Alt_Karin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dorfkirche_Alt_Karin.jpg/1920px-Dorfkirche_Alt_Karin.jpg
 ---
 
 ## Overview

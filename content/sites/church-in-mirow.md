@@ -1,19 +1,51 @@
 ---
-title: "Church in Mirow"
-site_name: "Church in Mirow"
-slug: "church-in-mirow"
-region: "Mecklenburg-Vorpommern"
-
-# Location
+title: Church in Mirow
+site_name: Church in Mirow
+slug: church-in-mirow
+region: Mecklenburg-Vorpommern
 latitude: 53.50175
 longitude: 11.49913
 regions:
-    - "Mecklenburg-Vorpommern"
-heritage_type: "cultural site"
+- Mecklenburg-Vorpommern
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1244531"
-description: "The Church in Mirow, a striking example of Gothic Revival architecture, stands as a significant landmark in Banzkow, Germany. This church is not just a ..."
+- cultural site
+wikidata_id: Q1244531
+description: The Church in Mirow, a striking example of Gothic Revival architecture,
+  stands as a significant landmark in Banzkow, Germany. This church is not just a
+  ...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG/1200px-Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG/1200px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG/1200px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/1200px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kirche_Mirow_(Lewitz)._Handorf_2002.jpg/1200px-Kirche_Mirow_(Lewitz)._Handorf_2002.jpg
+image_srcset:
+  Mirow (Banzkow) Kirche 2014-09-04 9.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG/400px-Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG/800px-Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG/1200px-Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG/1920px-Mirow_(Banzkow)_Kirche_2014-09-04_9.JPG
+  Mirow (Banzkow) Kirche Kriegerdenkmal 1914-18 2014-09-04 10.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG/400px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG/800px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG/1200px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG/1920px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_10.JPG
+  Mirow (Banzkow) Kirche Kriegerdenkmal 1914-18 2014-09-04 11.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG/400px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG/800px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG/1200px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG/1920px-Mirow_(Banzkow)_Kirche_Kriegerdenkmal_1914-18_2014-09-04_11.JPG
+  Mirow (Gemeinde Banzkow) Kirche 2009-03-31 002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/400px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/800px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/1200px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg/1920px-Mirow_(Gemeinde_Banzkow)_Kirche_2009-03-31_002.jpg
+  Kirche Mirow (Lewitz). Handorf 2002.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kirche_Mirow_(Lewitz)._Handorf_2002.jpg/400px-Kirche_Mirow_(Lewitz)._Handorf_2002.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kirche_Mirow_(Lewitz)._Handorf_2002.jpg/800px-Kirche_Mirow_(Lewitz)._Handorf_2002.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kirche_Mirow_(Lewitz)._Handorf_2002.jpg/1200px-Kirche_Mirow_(Lewitz)._Handorf_2002.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kirche_Mirow_(Lewitz)._Handorf_2002.jpg/1920px-Kirche_Mirow_(Lewitz)._Handorf_2002.jpg
 ---
 
 ## Overview

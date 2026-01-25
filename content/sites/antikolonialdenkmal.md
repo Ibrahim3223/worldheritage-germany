@@ -1,21 +1,49 @@
 ---
-title: "Antikolonialdenkmal"
+title: Antikolonialdenkmal
 date: 2026-01-23
 draft: false
-description: "memorial in Bremen, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: memorial in Bremen, Germany
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 53.0841
 longitude: 8.81751
 images:
-  - "/images-sites/antikolonialdenkmal/01-90e1984b-800w.webp"
-  - "/images-sites/antikolonialdenkmal/02-7d44b915-800w.webp"
-  - "/images-sites/antikolonialdenkmal/03-ea38c08f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg/1200px-Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/1200px-Antikolonialdenkmal_HB_2013.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg/1200px-Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Namibia_memorial_hg.jpg/1200px-Namibia_memorial_hg.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antikolonialdenkmal_Bremen_insignia1.jpg/1200px-Antikolonialdenkmal_Bremen_insignia1.jpg
+image_srcset:
+  Antikolonialdenkmal Bremen -msu-2022-9798-.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg/400px-Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg/800px-Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg/1200px-Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg/1920px-Antikolonialdenkmal_Bremen_-msu-2022-9798-.jpg
+  Antikolonialdenkmal HB 2013.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/400px-Antikolonialdenkmal_HB_2013.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/800px-Antikolonialdenkmal_HB_2013.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/1200px-Antikolonialdenkmal_HB_2013.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Antikolonialdenkmal_HB_2013.jpg/1920px-Antikolonialdenkmal_HB_2013.jpg
+  Antikolonialdenkmal Bremen-2024-msu-8079-8079.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg/400px-Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg/800px-Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg/1200px-Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg/1920px-Antikolonialdenkmal_Bremen-2024-msu-8079-8079.jpg
+  Namibia memorial hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Namibia_memorial_hg.jpg/400px-Namibia_memorial_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Namibia_memorial_hg.jpg/800px-Namibia_memorial_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Namibia_memorial_hg.jpg/1200px-Namibia_memorial_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Namibia_memorial_hg.jpg/1920px-Namibia_memorial_hg.jpg
+  Antikolonialdenkmal Bremen insignia1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antikolonialdenkmal_Bremen_insignia1.jpg/400px-Antikolonialdenkmal_Bremen_insignia1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antikolonialdenkmal_Bremen_insignia1.jpg/800px-Antikolonialdenkmal_Bremen_insignia1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antikolonialdenkmal_Bremen_insignia1.jpg/1200px-Antikolonialdenkmal_Bremen_insignia1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antikolonialdenkmal_Bremen_insignia1.jpg/1920px-Antikolonialdenkmal_Bremen_insignia1.jpg
 ---
 
 ## Overview

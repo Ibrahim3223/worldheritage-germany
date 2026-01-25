@@ -1,21 +1,31 @@
 ---
-title: "Isartor-Theater"
+title: Isartor-Theater
 date: 2026-01-23
 draft: false
-description: "former theatre and cinema in Munich, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cinema"
+description: former theatre and cinema in Munich, Germany
+region: Germany
+country: Germany
+heritage_type: Cinema
 categories:
-  - "Cinema"
+- Cinema
 regions:
-  - "Germany"
+- Germany
 latitude: 48.1349
 longitude: 11.5812
 images:
-  - "/images-sites/isartor-theater/01-8912ec59-800w.webp"
-  - "/images-sites/isartor-theater/02-0332b9ed-800w.webp"
-  - "/images-sites/isartor-theater/03-cc5843c4-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg/1200px-Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/1200px-Leb_053.jpg
+image_srcset:
+  Stahlstich - München - Das Isar-Thor - Isartortheater - um 1830.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg/400px-Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg/800px-Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg/1200px-Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg/1920px-Stahlstich_-_München_-_Das_Isar-Thor_-_Isartortheater_-_um_1830.jpg
+  Leb 053.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/400px-Leb_053.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/800px-Leb_053.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/1200px-Leb_053.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Leb_053.jpg/1920px-Leb_053.jpg
 ---
 
 ## Overview

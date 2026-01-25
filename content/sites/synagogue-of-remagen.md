@@ -13,7 +13,7 @@ regions:
 latitude: 50.5784
 longitude: 7.2292
 images:
-  - "/images-sites/synagogue-of-remagen/02-fdb8379e-800w.webp"
+  - "/images/synagogue-of-remagen/02-fdb8379e-800w.webp"
 ---
 
 ## Overview

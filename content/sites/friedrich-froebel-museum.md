@@ -1,19 +1,49 @@
 ---
-title: "Friedrich Fröbel Museum"
+title: Friedrich Fröbel Museum
 date: 2026-01-23
 draft: false
-description: "museum in Bad Blankenburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum in Bad Blankenburg
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 50.6847
 longitude: 11.2634
 images:
-  - "/images-sites/friedrich-froebel-museum/01-9dba3b04-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/F.Fröbel.M.JPG/1200px-F.Fröbel.M.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg/1200px-Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fröbel_Museum_Bad_Blankenburg_1.jpg/1200px-Fröbel_Museum_Bad_Blankenburg_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Friedr._Fr.Museum.JPG/1200px-Friedr._Fr.Museum.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/1200px-Fr.Fröbel.Museum.JPG
+image_srcset:
+  F.Fröbel.M.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/F.Fröbel.M.JPG/400px-F.Fröbel.M.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/F.Fröbel.M.JPG/800px-F.Fröbel.M.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/F.Fröbel.M.JPG/1200px-F.Fröbel.M.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/F.Fröbel.M.JPG/1920px-F.Fröbel.M.JPG
+  Friedrich-Fröbel-muzeo (Bad Blankenburg) 2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg/400px-Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg/800px-Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg/1200px-Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg/1920px-Friedrich-Fröbel-muzeo_(Bad_Blankenburg)_2.jpg
+  Fröbel Museum Bad Blankenburg 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fröbel_Museum_Bad_Blankenburg_1.jpg/400px-Fröbel_Museum_Bad_Blankenburg_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fröbel_Museum_Bad_Blankenburg_1.jpg/800px-Fröbel_Museum_Bad_Blankenburg_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fröbel_Museum_Bad_Blankenburg_1.jpg/1200px-Fröbel_Museum_Bad_Blankenburg_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fröbel_Museum_Bad_Blankenburg_1.jpg/1920px-Fröbel_Museum_Bad_Blankenburg_1.jpg
+  Friedr. Fr.Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Friedr._Fr.Museum.JPG/400px-Friedr._Fr.Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Friedr._Fr.Museum.JPG/800px-Friedr._Fr.Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Friedr._Fr.Museum.JPG/1200px-Friedr._Fr.Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Friedr._Fr.Museum.JPG/1920px-Friedr._Fr.Museum.JPG
+  Fr.Fröbel.Museum.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/400px-Fr.Fröbel.Museum.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/800px-Fr.Fröbel.Museum.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/1200px-Fr.Fröbel.Museum.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fr.Fröbel.Museum.JPG/1920px-Fr.Fröbel.Museum.JPG
 ---
 
 ## Overview

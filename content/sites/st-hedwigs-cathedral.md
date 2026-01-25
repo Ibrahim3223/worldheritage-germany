@@ -13,7 +13,7 @@ regions:
 latitude: 52.515833333
 longitude: 13.394722222
 images:
-  - "/images-sites/st-hedwigs-cathedral/01-16208708-800w.webp"
+  - "/images/st-hedwigs-cathedral/01-16208708-800w.webp"
 ---
 
 ## Overview

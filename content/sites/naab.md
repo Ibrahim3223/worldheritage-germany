@@ -13,7 +13,7 @@ regions:
 latitude: 49.602972222
 longitude: 12.1325
 images:
-  - "/images-sites/naab/01-e51f85a3-800w.webp"
+  - "/images/naab/01-e51f85a3-800w.webp"
 ---
 
 ## Overview

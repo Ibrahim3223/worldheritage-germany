@@ -21,9 +21,9 @@ longitude: 10.2117
 
 # Images
 images:
-  - "/images-sites/kaltenburg-castle/01-a5a7c925-800w.webp"
-  - "/images-sites/kaltenburg-castle/02-b49d2799-800w.webp"
-  - "/images-sites/kaltenburg-castle/03-98061123-800w.webp"
+  - "/images/kaltenburg-castle/01-a5a7c925-800w.webp"
+  - "/images/kaltenburg-castle/02-b49d2799-800w.webp"
+  - "/images/kaltenburg-castle/03-98061123-800w.webp"
 ---
 
 ## Overview

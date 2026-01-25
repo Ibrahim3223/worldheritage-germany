@@ -13,9 +13,9 @@ regions:
 latitude: 48.5361
 longitude: 12.1508
 images:
-  - "/images-sites/landshut-residence/01-d18935cc-800w.webp"
-  - "/images-sites/landshut-residence/02-ba4656c1-800w.webp"
-  - "/images-sites/landshut-residence/03-365c2b7c-800w.webp"
+  - "/images/landshut-residence/01-d18935cc-800w.webp"
+  - "/images/landshut-residence/02-ba4656c1-800w.webp"
+  - "/images/landshut-residence/03-365c2b7c-800w.webp"
 ---
 
 ## Overview

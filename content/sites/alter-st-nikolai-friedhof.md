@@ -1,21 +1,49 @@
 ---
-title: "Alter St.-Nikolai-Friedhof"
+title: Alter St.-Nikolai-Friedhof
 date: 2026-01-23
 draft: false
-description: "cemetery and park in Hannover-Mitte, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cemetery"
+description: cemetery and park in Hannover-Mitte, Germany
+region: Germany
+country: Germany
+heritage_type: Cemetery
 categories:
-  - "Cemetery"
+- Cemetery
 regions:
-  - "Germany"
+- Germany
 latitude: 52.3786
 longitude: 9.73222
 images:
-  - "/images-sites/alter-st-nikolai-friedhof/01-d2243c8d-800w.webp"
-  - "/images-sites/alter-st-nikolai-friedhof/02-bc339483-800w.webp"
-  - "/images-sites/alter-st-nikolai-friedhof/03-f7f4c6ac-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg/1200px-2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg/1200px-2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg/1200px-2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg/1200px-2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG/1200px-2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG
+image_srcset:
+  2021-05-07 Grabmal NN Nikolaifriedhof 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg/400px-2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg/800px-2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg/1200px-2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg/1920px-2021-05-07_Grabmal_NN_Nikolaifriedhof_02.jpg
+  2021-05-07 Grabmal NN Nikolaifriedhof 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg/400px-2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg/800px-2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg/1200px-2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg/1920px-2021-05-07_Grabmal_NN_Nikolaifriedhof_03.jpg
+  2000-09-10 Amber der Gilde der Marktschreier am Klagesmarkt in Hannover.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg/400px-2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg/800px-2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg/1200px-2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg/1920px-2000-09-10_Amber_der_Gilde_der_Marktschreier_am_Klagesmarkt_in_Hannover.jpg
+  2024-07-30 Blumen am Spielplatz am Ende Alter St. Nikolai-Friedhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg/400px-2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg/800px-2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg/1200px-2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg/1920px-2024-07-30_Blumen_am_Spielplatz_am_Ende_Alter_St._Nikolai-Friedhof.jpg
+  2021-05-08 Grabmal NN Nikolaifriedhof 03.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG/400px-2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG/800px-2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG/1200px-2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG/1920px-2021-05-08_Grabmal_NN_Nikolaifriedhof_03.JPG
 ---
 
 ## Overview

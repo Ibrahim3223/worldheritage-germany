@@ -1,19 +1,49 @@
 ---
-title: "Amtsgericht I und Landgericht I"
+title: Amtsgericht I und Landgericht I
 date: 2026-01-23
 draft: false
-description: "architectural structure"
-region: "Germany"
-country: "Germany"
-heritage_type: "Courthouse"
+description: architectural structure
+region: Germany
+country: Germany
+heritage_type: Courthouse
 categories:
-  - "Courthouse"
+- Courthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5188
 longitude: 13.4141
 images:
-  - "/images-sites/amtsgericht-i-und-landgericht-i/01-67fd170d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/1200px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg/1200px-Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG/1200px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg/1200px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG/1200px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG
+image_srcset:
+  Berlin, Mitte, Littenstraße, Amtsgericht I & Landgericht I.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/400px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/800px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/1200px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg/1920px-Berlin,_Mitte,_Littenstraße,_Amtsgericht_I_&_Landgericht_I.jpg
+  Berlin, Littenstrasse, Gebaeude Berliner Stadtgericht 010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg/400px-Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg/800px-Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg/1200px-Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg/1920px-Berlin,_Littenstrasse,_Gebaeude_Berliner_Stadtgericht_010.jpg
+  Landgericht I Berlin Architekten Thoemer, Mönnich & Schmalz, Amtsgericht an Gruner Straße.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG/400px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG/800px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG/1200px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG/1920px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Amtsgericht_an_Gruner_Straße.JPG
+  Landgericht I Berlin Architekten Thoemer, Mönnich & Schmalz, Grundriss.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg/400px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg/800px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg/1200px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg/1920px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss.jpg
+  Landgericht I Berlin Architekten Thoemer, Mönnich & Schmalz, Grundriss 2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG/400px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG/800px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG/1200px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG/1920px-Landgericht_I_Berlin_Architekten_Thoemer,_Mönnich_&_Schmalz,_Grundriss_2.JPG
 ---
 
 ## Overview

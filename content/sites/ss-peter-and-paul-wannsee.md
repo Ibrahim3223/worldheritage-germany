@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q428320"
 description: "In the heart of Steglitz-Zehlendorf, you’ll find the Ss. Peter and Paul church, a remarkable Lutheran structure that has stood since its founding in 183..."
 images:
-  - "/images-sites/ss-peter-and-paul-wannsee/01-56125730-1920w.webp"
-  - "/images-sites/ss-peter-and-paul-wannsee/02-de34b348-1920w.webp"
-  - "/images-sites/ss-peter-and-paul-wannsee/03-d6937aa5-1920w.webp"
+  - "/images/ss-peter-and-paul-wannsee/01-56125730-1920w.webp"
+  - "/images/ss-peter-and-paul-wannsee/02-de34b348-1920w.webp"
+  - "/images/ss-peter-and-paul-wannsee/03-d6937aa5-1920w.webp"
 ---
 
 ## Overview

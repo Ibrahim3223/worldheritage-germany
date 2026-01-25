@@ -13,7 +13,7 @@ regions:
 latitude: 49.5743
 longitude: 10.8223
 images:
-  - "/images-sites/muenchaurach-monastery/01-71353a43-800w.webp"
+  - "/images/muenchaurach-monastery/01-71353a43-800w.webp"
 ---
 
 ## Overview

@@ -21,7 +21,7 @@ longitude: 10.15311
 
 # Images
 images:
-  - "/images-sites/wohldenberg-castle/02-7ce31a56-800w.webp"
+  - "/images/wohldenberg-castle/02-7ce31a56-800w.webp"
 ---
 
 ## Overview

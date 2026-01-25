@@ -13,7 +13,7 @@ regions:
 latitude: 49.182777777
 longitude: 12.348333333
 images:
-  - "/images-sites/reichenbach-abbey/01-abdc4e76-800w.webp"
+  - "/images/reichenbach-abbey/01-abdc4e76-800w.webp"
 ---
 
 ## Overview

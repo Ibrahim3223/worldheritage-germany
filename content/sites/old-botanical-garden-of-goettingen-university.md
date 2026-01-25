@@ -21,7 +21,7 @@ longitude: 9.9367
 
 # Images
 images:
-  - "/images-sites/old-botanical-garden-of-goettingen-university/01-eae105b0-800w.webp"
+  - "/images/old-botanical-garden-of-goettingen-university/01-eae105b0-800w.webp"
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ regions:
 latitude: 50.1078
 longitude: 8.76111
 images:
-  - "/images-sites/klingspor-museum/01-b76bf495-800w.webp"
+  - "/images/klingspor-museum/01-b76bf495-800w.webp"
 ---
 
 ## Overview

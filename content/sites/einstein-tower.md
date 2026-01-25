@@ -1,19 +1,49 @@
 ---
-title: "Einstein Tower"
+title: Einstein Tower
 date: 2026-01-24
 draft: false
-description: "astrophysical observatory in Potsdam, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Tower"
+description: astrophysical observatory in Potsdam, Germany
+region: Germany
+country: Germany
+heritage_type: Tower
 categories:
-  - "Tower"
+- Tower
 regions:
-  - "Germany"
+- Germany
 latitude: 52.378888888
 longitude: 13.063611111
 images:
-  - "/images-sites/einstein-tower/01-00f1d67b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Potsdam_Telegrafenberg_asv2023-09_img6.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img6.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Potsdam_Telegrafenberg_asv2023-09_img5.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Potsdam-Einsteinturm-1-2007.jpg/1200px-Potsdam-Einsteinturm-1-2007.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg/1200px-A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg
+image_srcset:
+  Potsdam Telegrafenberg asv2023-09 img6.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Potsdam_Telegrafenberg_asv2023-09_img6.jpg/400px-Potsdam_Telegrafenberg_asv2023-09_img6.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Potsdam_Telegrafenberg_asv2023-09_img6.jpg/800px-Potsdam_Telegrafenberg_asv2023-09_img6.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Potsdam_Telegrafenberg_asv2023-09_img6.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img6.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Potsdam_Telegrafenberg_asv2023-09_img6.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img6.jpg
+  Potsdam Telegrafenberg asv2023-09 img4.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/400px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/800px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Potsdam_Telegrafenberg_asv2023-09_img4.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img4.jpg
+  Potsdam Telegrafenberg asv2023-09 img5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Potsdam_Telegrafenberg_asv2023-09_img5.jpg/400px-Potsdam_Telegrafenberg_asv2023-09_img5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Potsdam_Telegrafenberg_asv2023-09_img5.jpg/800px-Potsdam_Telegrafenberg_asv2023-09_img5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Potsdam_Telegrafenberg_asv2023-09_img5.jpg/1200px-Potsdam_Telegrafenberg_asv2023-09_img5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Potsdam_Telegrafenberg_asv2023-09_img5.jpg/1920px-Potsdam_Telegrafenberg_asv2023-09_img5.jpg
+  Potsdam-Einsteinturm-1-2007.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Potsdam-Einsteinturm-1-2007.jpg/400px-Potsdam-Einsteinturm-1-2007.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Potsdam-Einsteinturm-1-2007.jpg/800px-Potsdam-Einsteinturm-1-2007.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Potsdam-Einsteinturm-1-2007.jpg/1200px-Potsdam-Einsteinturm-1-2007.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Potsdam-Einsteinturm-1-2007.jpg/1920px-Potsdam-Einsteinturm-1-2007.jpg
+  A22 2007-06 Einsteinturm Sonnenuhr p6070062.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg/400px-A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg/800px-A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg/1200px-A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg/1920px-A22_2007-06_Einsteinturm_Sonnenuhr_p6070062.jpg
 ---
 
 ## Overview

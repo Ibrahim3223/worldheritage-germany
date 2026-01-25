@@ -13,7 +13,7 @@ regions:
 latitude: 50.553
 longitude: 9.6773
 images:
-  - "/images-sites/st-marys-abbey-fulda/01-437282f8-800w.webp"
+  - "/images/st-marys-abbey-fulda/01-437282f8-800w.webp"
 ---
 
 ## Overview

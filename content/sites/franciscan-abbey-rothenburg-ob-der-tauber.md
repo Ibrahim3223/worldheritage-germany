@@ -1,19 +1,50 @@
 ---
-title: "Franciscan Abbey, Rothenburg ob der Tauber"
+title: Franciscan Abbey, Rothenburg ob der Tauber
 date: 2026-01-23
 draft: false
-description: "human settlement and church building in Rothenburg ob der Tauber, Middle Franconia, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: human settlement and church building in Rothenburg ob der Tauber, Middle
+  Franconia, Germany
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 49.3767
 longitude: 10.1764
 images:
-  - "/images-sites/franciscan-abbey-rothenburg-ob-der-tauber/01-005cd8e0-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1200px-MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1200px-MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1200px-MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg/1200px-Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG/1200px-Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG
+image_srcset:
+  MK58532 Franziskanerkirche (Rothenburg ob der Tauber).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/400px-MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/800px-MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1200px-MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1920px-MK58532_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+  MK58531 Franziskanerkirche (Rothenburg ob der Tauber).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/400px-MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/800px-MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1200px-MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1920px-MK58531_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+  MK58538 Franziskanerkirche (Rothenburg ob der Tauber).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/400px-MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/800px-MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1200px-MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg/1920px-MK58538_Franziskanerkirche_(Rothenburg_ob_der_Tauber).jpg
+  Rothenburg ob der Tauber Franziskanerkirche 001 (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg/400px-Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg/800px-Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg/1200px-Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg/1920px-Rothenburg_ob_der_Tauber_Franziskanerkirche_001_(2).jpg
+  Fountain IMG 6988 - Rothenburg ob der Tauber.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG/400px-Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG/800px-Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG/1200px-Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG/1920px-Fountain_IMG_6988_-_Rothenburg_ob_der_Tauber.JPG
 ---
 
 ## Overview

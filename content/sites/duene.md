@@ -1,19 +1,49 @@
 ---
-title: "Düne"
+title: Düne
 date: 2026-01-23
 draft: false
-description: "German Island"
-region: "Germany"
-country: "Germany"
-heritage_type: "Island"
+description: German Island
+region: Germany
+country: Germany
+heritage_type: Island
 categories:
-  - "Island"
+- Island
 regions:
-  - "Germany"
+- Germany
 latitude: 54.185104
 longitude: 7.912045
 images:
-  - "/images-sites/duene/01-c86b6db8-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heligoland_07-2016_photo24.jpg/1200px-Heligoland_07-2016_photo24.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo23.jpg/1200px-Heligoland_07-2016_photo23.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aerial_image_of_Düne_island_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Düne_island_(view_from_the_southeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Duene_Helgoland_28_Juni_2009_20090628_108.JPG/1200px-Duene_Helgoland_28_Juni_2009_20090628_108.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg/1200px-Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg
+image_srcset:
+  Heligoland 07-2016 photo24.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heligoland_07-2016_photo24.jpg/400px-Heligoland_07-2016_photo24.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heligoland_07-2016_photo24.jpg/800px-Heligoland_07-2016_photo24.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heligoland_07-2016_photo24.jpg/1200px-Heligoland_07-2016_photo24.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heligoland_07-2016_photo24.jpg/1920px-Heligoland_07-2016_photo24.jpg
+  Heligoland 07-2016 photo23.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo23.jpg/400px-Heligoland_07-2016_photo23.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo23.jpg/800px-Heligoland_07-2016_photo23.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo23.jpg/1200px-Heligoland_07-2016_photo23.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Heligoland_07-2016_photo23.jpg/1920px-Heligoland_07-2016_photo23.jpg
+  Aerial image of Düne island (view from the southeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aerial_image_of_Düne_island_(view_from_the_southeast).jpg/400px-Aerial_image_of_Düne_island_(view_from_the_southeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aerial_image_of_Düne_island_(view_from_the_southeast).jpg/800px-Aerial_image_of_Düne_island_(view_from_the_southeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aerial_image_of_Düne_island_(view_from_the_southeast).jpg/1200px-Aerial_image_of_Düne_island_(view_from_the_southeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Aerial_image_of_Düne_island_(view_from_the_southeast).jpg/1920px-Aerial_image_of_Düne_island_(view_from_the_southeast).jpg
+  Duene Helgoland 28 Juni 2009 20090628 108.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Duene_Helgoland_28_Juni_2009_20090628_108.JPG/400px-Duene_Helgoland_28_Juni_2009_20090628_108.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Duene_Helgoland_28_Juni_2009_20090628_108.JPG/800px-Duene_Helgoland_28_Juni_2009_20090628_108.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Duene_Helgoland_28_Juni_2009_20090628_108.JPG/1200px-Duene_Helgoland_28_Juni_2009_20090628_108.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Duene_Helgoland_28_Juni_2009_20090628_108.JPG/1920px-Duene_Helgoland_28_Juni_2009_20090628_108.JPG
+  Morocco Africa Flickr Rosino December 2005 84514010.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg/400px-Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg/800px-Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg/1200px-Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg/1920px-Morocco_Africa_Flickr_Rosino_December_2005_84514010.jpg
 ---
 
 ## Overview

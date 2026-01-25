@@ -1,27 +1,49 @@
 ---
-title: "Horburg Castle"
+title: Horburg Castle
 date: 2026-01-23
 draft: false
-description: "site of a medieval castle above Staufen in Baden-Württemberg, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: site of a medieval castle above Staufen in Baden-Württemberg, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.8773
 longitude: 7.7552
-
-# Images
 images:
-  - "/images-sites/horburg-castle/01-5573be84-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_Horburg_Castle.JPG/1200px-02_Horburg_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/04_Horburg_Castle.JPG/1200px-04_Horburg_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/06_Horburg_Castle.JPG/1200px-06_Horburg_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/07_Horburg_Castle.JPG/1200px-07_Horburg_Castle.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/11_Horburg_Castle.JPG/1200px-11_Horburg_Castle.JPG
+image_srcset:
+  02 Horburg Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_Horburg_Castle.JPG/400px-02_Horburg_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_Horburg_Castle.JPG/800px-02_Horburg_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_Horburg_Castle.JPG/1200px-02_Horburg_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/02_Horburg_Castle.JPG/1920px-02_Horburg_Castle.JPG
+  04 Horburg Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/04_Horburg_Castle.JPG/400px-04_Horburg_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/04_Horburg_Castle.JPG/800px-04_Horburg_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/04_Horburg_Castle.JPG/1200px-04_Horburg_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/04_Horburg_Castle.JPG/1920px-04_Horburg_Castle.JPG
+  06 Horburg Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/06_Horburg_Castle.JPG/400px-06_Horburg_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/06_Horburg_Castle.JPG/800px-06_Horburg_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/06_Horburg_Castle.JPG/1200px-06_Horburg_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/06_Horburg_Castle.JPG/1920px-06_Horburg_Castle.JPG
+  07 Horburg Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/07_Horburg_Castle.JPG/400px-07_Horburg_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/07_Horburg_Castle.JPG/800px-07_Horburg_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/07_Horburg_Castle.JPG/1200px-07_Horburg_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/07_Horburg_Castle.JPG/1920px-07_Horburg_Castle.JPG
+  11 Horburg Castle.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/11_Horburg_Castle.JPG/400px-11_Horburg_Castle.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/11_Horburg_Castle.JPG/800px-11_Horburg_Castle.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/11_Horburg_Castle.JPG/1200px-11_Horburg_Castle.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/11_Horburg_Castle.JPG/1920px-11_Horburg_Castle.JPG
 ---
 
 ## Overview

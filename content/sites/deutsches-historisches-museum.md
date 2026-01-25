@@ -1,19 +1,49 @@
 ---
-title: "Deutsches Historisches Museum"
+title: Deutsches Historisches Museum
 date: 2026-01-23
 draft: false
-description: "museum of German history in Berlin"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum of German history in Berlin
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 52.518055555
 longitude: 13.396944444
 images:
-  - "/images-sites/deutsches-historisches-museum/01-14404ee1-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg/1200px-Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg/1200px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg/1200px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2021-07-19_Eiserne_Brücke_02.jpg/1200px-2021-07-19_Eiserne_Brücke_02.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
+image_srcset:
+  Fassade der Stiftung Deutsches Historisches Museum (ehem. Zeughaus) - Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg/400px-Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg/800px-Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg/1200px-Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg/1920px-Fassade_der_Stiftung_Deutsches_Historisches_Museum_(ehem._Zeughaus)_-_Berlin.jpg
+  2015- Fritz Schaper's sculpture ”Viktoria”, German Historical Museum in Berlin, Germany ( Ank Kumar ) 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg/400px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg/800px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg/1200px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg/1920px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_02.jpg
+  2015- Fritz Schaper's sculpture ”Viktoria”, German Historical Museum in Berlin, Germany ( Ank Kumar ) 01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg/400px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg/800px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg/1200px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg/1920px-2015-_Fritz_Schaper's_sculpture_”Viktoria”,_German_Historical_Museum_in_Berlin,_Germany_(_Ank_Kumar_)_01.jpg
+  2021-07-19 Eiserne Brücke 02.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2021-07-19_Eiserne_Brücke_02.jpg/400px-2021-07-19_Eiserne_Brücke_02.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2021-07-19_Eiserne_Brücke_02.jpg/800px-2021-07-19_Eiserne_Brücke_02.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2021-07-19_Eiserne_Brücke_02.jpg/1200px-2021-07-19_Eiserne_Brücke_02.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2021-07-19_Eiserne_Brücke_02.jpg/1920px-2021-07-19_Eiserne_Brücke_02.jpg
+  Berlin, Mitte, Unter den Linden, Zeughaus 09.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/400px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/800px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/1200px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg/1920px-Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg
 ---
 
 ## Overview

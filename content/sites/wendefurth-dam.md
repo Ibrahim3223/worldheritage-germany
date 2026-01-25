@@ -13,8 +13,8 @@ regions:
 latitude: 51.742218
 longitude: 10.918857
 images:
-  - "/images-sites/wendefurth-dam/02-35a0a798-800w.webp"
-  - "/images-sites/wendefurth-dam/03-23824e1e-800w.webp"
+  - "/images/wendefurth-dam/02-35a0a798-800w.webp"
+  - "/images/wendefurth-dam/03-23824e1e-800w.webp"
 ---
 
 ## Overview

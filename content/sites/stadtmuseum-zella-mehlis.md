@@ -13,9 +13,9 @@ regions:
 latitude: 50.65664
 longitude: 10.66071
 images:
-  - "/images-sites/stadtmuseum-zella-mehlis/01-0c72b920-800w.webp"
-  - "/images-sites/stadtmuseum-zella-mehlis/02-2b81f289-800w.webp"
-  - "/images-sites/stadtmuseum-zella-mehlis/03-40c92b8d-800w.webp"
+  - "/images/stadtmuseum-zella-mehlis/01-0c72b920-800w.webp"
+  - "/images/stadtmuseum-zella-mehlis/02-2b81f289-800w.webp"
+  - "/images/stadtmuseum-zella-mehlis/03-40c92b8d-800w.webp"
 ---
 
 ## Overview

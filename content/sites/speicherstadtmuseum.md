@@ -13,9 +13,9 @@ regions:
 latitude: 53.543111111
 longitude: 9.987555555
 images:
-  - "/images-sites/speicherstadtmuseum/01-9edaa4c0-800w.webp"
-  - "/images-sites/speicherstadtmuseum/02-ebcd8638-800w.webp"
-  - "/images-sites/speicherstadtmuseum/03-dc18677a-800w.webp"
+  - "/images/speicherstadtmuseum/01-9edaa4c0-800w.webp"
+  - "/images/speicherstadtmuseum/02-ebcd8638-800w.webp"
+  - "/images/speicherstadtmuseum/03-dc18677a-800w.webp"
 ---
 
 ## Overview

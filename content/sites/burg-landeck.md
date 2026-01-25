@@ -1,27 +1,51 @@
 ---
-title: "Burg Landeck"
+title: Burg Landeck
 date: 2026-01-23
 draft: false
-description: "castle in Baden, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: castle in Baden, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 48.149305555
 longitude: 7.840388888
-
-# Images
 images:
-  - "/images-sites/burg-landeck/01-94cb59fc-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg/1200px-View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg/1200px-Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg/1200px-Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg/1200px-June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2006_11_Burg_Landeck_16.JPG/1200px-2006_11_Burg_Landeck_16.JPG
+image_srcset:
+  View of Klingenmünster from the tower of Burg Landeck, 2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg/400px-View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg/800px-View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg/1200px-View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg/1920px-View_of_Klingenmünster_from_the_tower_of_Burg_Landeck,_2025.jpg
+  Men drinking beers in Burg Landeck, with Klingenmünster in the background, 2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg/400px-Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg/800px-Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg/1200px-Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg/1920px-Men_drinking_beers_in_Burg_Landeck,_with_Klingenmünster_in_the_background,_2025.jpg
+  Burgschänke, Burg Landeck, Klingenmünster, 2025.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg/400px-Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg/800px-Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg/1200px-Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg/1920px-Burgschänke,_Burg_Landeck,_Klingenmünster,_2025.jpg
+  ? June with Love from Lord Creator Martin Luther, Eden - Warlord Castle Landeck
+    burned down 1520, never rebuild - Master Habitat Rhine Valley Photography 2013
+    catholic tyrans Knight von Geroldseck and Knight Schnewe - panoramio (24).jpg
+  : 400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg/400px-June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg/800px-June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg/1200px-June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg/1920px-June_with_Love_from_Lord_Creator_Martin_Luther,_Eden_-_Warlord_Castle_Landeck_burned_down_1520,_never_rebuild_-_Master_Habitat_Rhine_Valley_Photography_2013_catholic_tyrans_Knight_von_Geroldseck_and_Knight_Schnewe_-_panoramio_(24).jpg
+  2006 11 Burg Landeck 16.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2006_11_Burg_Landeck_16.JPG/400px-2006_11_Burg_Landeck_16.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2006_11_Burg_Landeck_16.JPG/800px-2006_11_Burg_Landeck_16.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2006_11_Burg_Landeck_16.JPG/1200px-2006_11_Burg_Landeck_16.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2006_11_Burg_Landeck_16.JPG/1920px-2006_11_Burg_Landeck_16.JPG
 ---
 
 ## Overview

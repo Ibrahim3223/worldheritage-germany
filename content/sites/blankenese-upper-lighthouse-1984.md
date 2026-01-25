@@ -1,20 +1,49 @@
 ---
-title: "Blankenese Upper Lighthouse (1984)"
+title: Blankenese Upper Lighthouse (1984)
 date: 2026-01-23
 draft: false
-description: "former lighthouse in Hamburg, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lighthouse"
+description: former lighthouse in Hamburg, Germany
+region: Germany
+country: Germany
+heritage_type: Lighthouse
 categories:
-  - "Lighthouse"
+- Lighthouse
 regions:
-  - "Germany"
+- Germany
 latitude: 53.55602
 longitude: 9.81614
 images:
-  - "/images-sites/blankenese-upper-lighthouse-1984/02-a4c35a4b-800w.webp"
-  - "/images-sites/blankenese-upper-lighthouse-1984/03-53ff8b08-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg/1200px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg/1200px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Blankenese.Oberfeuer'.jpg/1200px-Blankenese.Oberfeuer'.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberfeuer_in_Hamburg-Blankenese.jpg/1200px-Oberfeuer_in_Hamburg-Blankenese.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1200px-Lighthouse2-elbe_hg.jpg
+image_srcset:
+  Blankeneser Oberfeuer am Kanonenberg im Baurs Park (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg/400px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg/800px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg/1200px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg/1920px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(3).jpg
+  Blankeneser Oberfeuer am Kanonenberg im Baurs Park (4).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg/400px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg/800px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg/1200px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg/1920px-Blankeneser_Oberfeuer_am_Kanonenberg_im_Baurs_Park_(4).jpg
+  Blankenese.Oberfeuer'.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Blankenese.Oberfeuer'.jpg/400px-Blankenese.Oberfeuer'.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Blankenese.Oberfeuer'.jpg/800px-Blankenese.Oberfeuer'.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Blankenese.Oberfeuer'.jpg/1200px-Blankenese.Oberfeuer'.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Blankenese.Oberfeuer'.jpg/1920px-Blankenese.Oberfeuer'.jpg
+  Oberfeuer in Hamburg-Blankenese.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberfeuer_in_Hamburg-Blankenese.jpg/400px-Oberfeuer_in_Hamburg-Blankenese.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberfeuer_in_Hamburg-Blankenese.jpg/800px-Oberfeuer_in_Hamburg-Blankenese.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberfeuer_in_Hamburg-Blankenese.jpg/1200px-Oberfeuer_in_Hamburg-Blankenese.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oberfeuer_in_Hamburg-Blankenese.jpg/1920px-Oberfeuer_in_Hamburg-Blankenese.jpg
+  Lighthouse2-elbe hg.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/400px-Lighthouse2-elbe_hg.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/800px-Lighthouse2-elbe_hg.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1200px-Lighthouse2-elbe_hg.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lighthouse2-elbe_hg.jpg/1920px-Lighthouse2-elbe_hg.jpg
 ---
 
 ## Overview

@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q1244597"
 description: "The Village Church Pessin, a remarkable structure established in 1300, stands as a notable landmark in Pessin, Brandenburg, Germany. This listed church ..."
 images:
-  - "/images-sites/village-church-pessin/01-fb70afb2-1920w.webp"
-  - "/images-sites/village-church-pessin/02-e468d40f-1920w.webp"
-  - "/images-sites/village-church-pessin/03-e09e4de7-1920w.webp"
+  - "/images/village-church-pessin/01-fb70afb2-1920w.webp"
+  - "/images/village-church-pessin/02-e468d40f-1920w.webp"
+  - "/images/village-church-pessin/03-e09e4de7-1920w.webp"
 ---
 
 ## Overview

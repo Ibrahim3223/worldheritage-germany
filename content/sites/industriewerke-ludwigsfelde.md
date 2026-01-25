@@ -1,19 +1,49 @@
 ---
-title: "Industriewerke Ludwigsfelde"
+title: Industriewerke Ludwigsfelde
 date: 2026-01-23
 draft: false
-description: "factory"
-region: "Germany"
-country: "Germany"
-heritage_type: "Factory"
+description: factory
+region: Germany
+country: Germany
+heritage_type: Factory
 categories:
-  - "Factory"
+- Factory
 regions:
-  - "Germany"
+- Germany
 latitude: 52.31713
 longitude: 13.26499
 images:
-  - "/images-sites/industriewerke-ludwigsfelde/01-6e15857d-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/W50undL60-Produktion.tif.jpg/1200px-W50undL60-Produktion.tif.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg/1200px-Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ludwigsfelde13_IFA.JPG/1200px-Ludwigsfelde13_IFA.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Indu_db_ludwigsfelde_1934.jpg/1200px-Indu_db_ludwigsfelde_1934.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/IFA_L60.jpg/1200px-IFA_L60.jpg
+image_srcset:
+  W50undL60-Produktion.tif:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/W50undL60-Produktion.tif.jpg/400px-W50undL60-Produktion.tif.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/W50undL60-Produktion.tif.jpg/800px-W50undL60-Produktion.tif.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/W50undL60-Produktion.tif.jpg/1200px-W50undL60-Produktion.tif.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/W50undL60-Produktion.tif.jpg/1920px-W50undL60-Produktion.tif.jpg
+  Bundesarchiv Bild 183-S0704-0014, Ludwigsfelde, ungarische Gastarbeiter.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg/400px-Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg/800px-Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg/1200px-Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg/1920px-Bundesarchiv_Bild_183-S0704-0014,_Ludwigsfelde,_ungarische_Gastarbeiter.jpg
+  Ludwigsfelde13 IFA.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ludwigsfelde13_IFA.JPG/400px-Ludwigsfelde13_IFA.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ludwigsfelde13_IFA.JPG/800px-Ludwigsfelde13_IFA.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ludwigsfelde13_IFA.JPG/1200px-Ludwigsfelde13_IFA.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ludwigsfelde13_IFA.JPG/1920px-Ludwigsfelde13_IFA.JPG
+  Indu db ludwigsfelde 1934.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Indu_db_ludwigsfelde_1934.jpg/400px-Indu_db_ludwigsfelde_1934.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Indu_db_ludwigsfelde_1934.jpg/800px-Indu_db_ludwigsfelde_1934.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Indu_db_ludwigsfelde_1934.jpg/1200px-Indu_db_ludwigsfelde_1934.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Indu_db_ludwigsfelde_1934.jpg/1920px-Indu_db_ludwigsfelde_1934.jpg
+  IFA L60.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/IFA_L60.jpg/400px-IFA_L60.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/IFA_L60.jpg/800px-IFA_L60.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/IFA_L60.jpg/1200px-IFA_L60.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/IFA_L60.jpg/1920px-IFA_L60.jpg
 ---
 
 ## Overview

@@ -1,23 +1,50 @@
 ---
-title: "Apostle church"
-site_name: "Apostle church"
-slug: "apostle-church"
-region: "Hesse"
-
-# Location
+title: Apostle church
+site_name: Apostle church
+slug: apostle-church
+region: Hesse
 latitude: 49.4876
 longitude: 8.4325
 regions:
-    - "Hesse"
-heritage_type: "cultural site"
+- Hesse
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q619911"
-description: "In the heart of Ludwigshafen, the Apostle Church stands as a striking example of Gothic Revival architecture, capturing the attention of both worshipper..."
+- cultural site
+wikidata_id: Q619911
+description: In the heart of Ludwigshafen, the Apostle Church stands as a striking
+  example of Gothic Revival architecture, capturing the attention of both worshipper...
 images:
-  - "/images-sites/apostle-church/01-02f53023-1920w.webp"
-  - "/images-sites/apostle-church/02-a324aa7e-1920w.webp"
-  - "/images-sites/apostle-church/02-adc14e59-1920w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apostelkirche%20Ludwigshafen%2001.jpg/1200px-Apostelkirche%20Ludwigshafen%2001.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg/1200px-2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St-paul-apostle.jpg/1200px-St-paul-apostle.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/St._Paul_the_Apostle_Church_(was_Unnamed1).jpg/1200px-St._Paul_the_Apostle_Church_(was_Unnamed1).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Time_Warner_Building_from_The_Alfred_Building.jpg/1200px-Time_Warner_Building_from_The_Alfred_Building.jpg
+image_srcset:
+  Apostelkirche%20Ludwigshafen%2001.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apostelkirche%20Ludwigshafen%2001.jpg/400px-Apostelkirche%20Ludwigshafen%2001.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apostelkirche%20Ludwigshafen%2001.jpg/800px-Apostelkirche%20Ludwigshafen%2001.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apostelkirche%20Ludwigshafen%2001.jpg/1200px-Apostelkirche%20Ludwigshafen%2001.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apostelkirche%20Ludwigshafen%2001.jpg/1920px-Apostelkirche%20Ludwigshafen%2001.jpg
+  2014 St. Paul the Apostle Church 8-10 Columbus Avenue.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg/400px-2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg/800px-2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg/1200px-2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg/1920px-2014_St._Paul_the_Apostle_Church_8-10_Columbus_Avenue.jpg
+  St-paul-apostle.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St-paul-apostle.jpg/400px-St-paul-apostle.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St-paul-apostle.jpg/800px-St-paul-apostle.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St-paul-apostle.jpg/1200px-St-paul-apostle.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St-paul-apostle.jpg/1920px-St-paul-apostle.jpg
+  St. Paul the Apostle Church (was Unnamed1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/St._Paul_the_Apostle_Church_(was_Unnamed1).jpg/400px-St._Paul_the_Apostle_Church_(was_Unnamed1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/St._Paul_the_Apostle_Church_(was_Unnamed1).jpg/800px-St._Paul_the_Apostle_Church_(was_Unnamed1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/St._Paul_the_Apostle_Church_(was_Unnamed1).jpg/1200px-St._Paul_the_Apostle_Church_(was_Unnamed1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/St._Paul_the_Apostle_Church_(was_Unnamed1).jpg/1920px-St._Paul_the_Apostle_Church_(was_Unnamed1).jpg
+  Time Warner Building from The Alfred Building.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Time_Warner_Building_from_The_Alfred_Building.jpg/400px-Time_Warner_Building_from_The_Alfred_Building.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Time_Warner_Building_from_The_Alfred_Building.jpg/800px-Time_Warner_Building_from_The_Alfred_Building.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Time_Warner_Building_from_The_Alfred_Building.jpg/1200px-Time_Warner_Building_from_The_Alfred_Building.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Time_Warner_Building_from_The_Alfred_Building.jpg/1920px-Time_Warner_Building_from_The_Alfred_Building.jpg
 ---
 
 ## Overview

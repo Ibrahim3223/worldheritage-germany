@@ -1,19 +1,49 @@
 ---
-title: "Alpsee"
+title: Alpsee
 date: 2026-01-23
 draft: false
-description: "lake in Ostallgäu, Bavaria, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Lake"
+description: lake in Ostallgäu, Bavaria, Germany
+region: Germany
+country: Germany
+heritage_type: Lake
 categories:
-  - "Lake"
+- Lake
 regions:
-  - "Germany"
+- Germany
 latitude: 47.551111111
 longitude: 10.723611111
 images:
-  - "/images-sites/alpsee/01-b81b3944-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpsee_vom_Oberen_Winterzugweg_03.jpg/1200px-Alpsee_vom_Oberen_Winterzugweg_03.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Neuschwanstein.jpg/1200px-Alpsee_Neuschwanstein.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hohenschwangau_und_Alpsee.jpg/1200px-Hohenschwangau_und_Alpsee.jpg
+image_srcset:
+  Aerial image of the Alpsee (view from the southwest).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/400px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/800px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/1200px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg/1920px-Aerial_image_of_the_Alpsee_(view_from_the_southwest).jpg
+  Aerial image of Großer Alpsee (view from the northeast).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/400px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/800px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/1200px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg/1920px-Aerial_image_of_Großer_Alpsee_(view_from_the_northeast).jpg
+  Alpsee vom Oberen Winterzugweg 03.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpsee_vom_Oberen_Winterzugweg_03.jpg/400px-Alpsee_vom_Oberen_Winterzugweg_03.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpsee_vom_Oberen_Winterzugweg_03.jpg/800px-Alpsee_vom_Oberen_Winterzugweg_03.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpsee_vom_Oberen_Winterzugweg_03.jpg/1200px-Alpsee_vom_Oberen_Winterzugweg_03.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alpsee_vom_Oberen_Winterzugweg_03.jpg/1920px-Alpsee_vom_Oberen_Winterzugweg_03.jpg
+  Alpsee Neuschwanstein.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Neuschwanstein.jpg/400px-Alpsee_Neuschwanstein.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Neuschwanstein.jpg/800px-Alpsee_Neuschwanstein.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Neuschwanstein.jpg/1200px-Alpsee_Neuschwanstein.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Alpsee_Neuschwanstein.jpg/1920px-Alpsee_Neuschwanstein.jpg
+  Hohenschwangau und Alpsee.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hohenschwangau_und_Alpsee.jpg/400px-Hohenschwangau_und_Alpsee.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hohenschwangau_und_Alpsee.jpg/800px-Hohenschwangau_und_Alpsee.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hohenschwangau_und_Alpsee.jpg/1200px-Hohenschwangau_und_Alpsee.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hohenschwangau_und_Alpsee.jpg/1920px-Hohenschwangau_und_Alpsee.jpg
 ---
 
 ## Overview

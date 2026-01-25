@@ -13,7 +13,7 @@ regions:
 latitude: 50.9767
 longitude: 10.3169
 images:
-  - "/images-sites/kanzlerpalais/01-3fe163a1-800w.webp"
+  - "/images/kanzlerpalais/01-3fe163a1-800w.webp"
 ---
 
 ## Overview

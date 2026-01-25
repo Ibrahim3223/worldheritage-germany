@@ -1,19 +1,49 @@
 ---
-title: "Hackescher Markt"
+title: Hackescher Markt
 date: 2026-01-23
 draft: false
-description: "public square in Berlin-Mitte, Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Market Square"
+description: public square in Berlin-Mitte, Germany
+region: Germany
+country: Germany
+heritage_type: Market Square
 categories:
-  - "Market Square"
+- Market Square
 regions:
-  - "Germany"
+- Germany
 latitude: 52.52333
 longitude: 13.40278
 images:
-  - "/images-sites/hackescher-markt/01-87c9558f-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230505_xl_160302434_Global_Climate_Forum.jpg/1200px-20230505_xl_160302434_Global_Climate_Forum.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_Hackescher_Markt_2006.jpg/1200px-Berlin_Hackescher_Markt_2006.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg/1200px-Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1200px-Niegelssohn_Hackescher_Markt.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg/1200px-Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg
+image_srcset:
+  20230505 xl 160302434 Global Climate Forum.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230505_xl_160302434_Global_Climate_Forum.jpg/400px-20230505_xl_160302434_Global_Climate_Forum.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230505_xl_160302434_Global_Climate_Forum.jpg/800px-20230505_xl_160302434_Global_Climate_Forum.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230505_xl_160302434_Global_Climate_Forum.jpg/1200px-20230505_xl_160302434_Global_Climate_Forum.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/20230505_xl_160302434_Global_Climate_Forum.jpg/1920px-20230505_xl_160302434_Global_Climate_Forum.jpg
+  Berlin Hackescher Markt 2006.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_Hackescher_Markt_2006.jpg/400px-Berlin_Hackescher_Markt_2006.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_Hackescher_Markt_2006.jpg/800px-Berlin_Hackescher_Markt_2006.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_Hackescher_Markt_2006.jpg/1200px-Berlin_Hackescher_Markt_2006.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berlin_Hackescher_Markt_2006.jpg/1920px-Berlin_Hackescher_Markt_2006.jpg
+  Berlin Hackescher Markt 2006 S-Bahnhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg/400px-Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg/800px-Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg/1200px-Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg/1920px-Berlin_Hackescher_Markt_2006_S-Bahnhof.jpg
+  Niegelssohn Hackescher Markt.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/400px-Niegelssohn_Hackescher_Markt.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/800px-Niegelssohn_Hackescher_Markt.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1200px-Niegelssohn_Hackescher_Markt.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Niegelssohn_Hackescher_Markt.jpg/1920px-Niegelssohn_Hackescher_Markt.jpg
+  Berlin, Hackesche Höfe & Hackescher Markt - 1910 (postcard).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg/400px-Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg/800px-Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg/1200px-Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg/1920px-Berlin,_Hackesche_Höfe_&_Hackescher_Markt_-_1910_(postcard).jpg
 ---
 
 ## Overview

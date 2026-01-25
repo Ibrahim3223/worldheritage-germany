@@ -1,19 +1,49 @@
 ---
-title: "Blaue Kuppe"
+title: Blaue Kuppe
 date: 2026-01-23
 draft: false
-description: "hill in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Nature Reserve"
+description: hill in Germany
+region: Germany
+country: Germany
+heritage_type: Nature Reserve
 categories:
-  - "Nature Reserve"
+- Nature Reserve
 regions:
-  - "Germany"
+- Germany
 latitude: 51.155
 longitude: 10.035088888
 images:
-  - "/images-sites/blaue-kuppe/01-31e45664-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg/1200px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg/1200px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warnschild._Blaue_Kuppe.JPG/1200px-Warnschild._Blaue_Kuppe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wegweiser,_Blaue_Kuppe.JPG/1200px-Wegweiser,_Blaue_Kuppe.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leuchtbergpanorama_Blaue_Kuppe.jpg/1200px-Leuchtbergpanorama_Blaue_Kuppe.jpg
+image_srcset:
+  Die Blaue Kuppe im nordhessischen Werra-Meißner Kreis. (2).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg/400px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg/800px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg/1200px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg/1920px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(2).jpg
+  Die Blaue Kuppe im nordhessischen Werra-Meißner Kreis. (3).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg/400px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg/800px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg/1200px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg/1920px-Die_Blaue_Kuppe_im_nordhessischen_Werra-Meißner_Kreis._(3).jpg
+  Warnschild. Blaue Kuppe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warnschild._Blaue_Kuppe.JPG/400px-Warnschild._Blaue_Kuppe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warnschild._Blaue_Kuppe.JPG/800px-Warnschild._Blaue_Kuppe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warnschild._Blaue_Kuppe.JPG/1200px-Warnschild._Blaue_Kuppe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warnschild._Blaue_Kuppe.JPG/1920px-Warnschild._Blaue_Kuppe.JPG
+  Wegweiser, Blaue Kuppe.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wegweiser,_Blaue_Kuppe.JPG/400px-Wegweiser,_Blaue_Kuppe.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wegweiser,_Blaue_Kuppe.JPG/800px-Wegweiser,_Blaue_Kuppe.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wegweiser,_Blaue_Kuppe.JPG/1200px-Wegweiser,_Blaue_Kuppe.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wegweiser,_Blaue_Kuppe.JPG/1920px-Wegweiser,_Blaue_Kuppe.JPG
+  Leuchtbergpanorama Blaue Kuppe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leuchtbergpanorama_Blaue_Kuppe.jpg/400px-Leuchtbergpanorama_Blaue_Kuppe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leuchtbergpanorama_Blaue_Kuppe.jpg/800px-Leuchtbergpanorama_Blaue_Kuppe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leuchtbergpanorama_Blaue_Kuppe.jpg/1200px-Leuchtbergpanorama_Blaue_Kuppe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leuchtbergpanorama_Blaue_Kuppe.jpg/1920px-Leuchtbergpanorama_Blaue_Kuppe.jpg
 ---
 
 ## Overview

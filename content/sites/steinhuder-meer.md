@@ -13,9 +13,9 @@ regions:
 latitude: 52.466666666
 longitude: 9.333333333
 images:
-  - "/images-sites/steinhuder-meer/01-c4fa77d9-800w.webp"
-  - "/images-sites/steinhuder-meer/02-de2533cf-800w.webp"
-  - "/images-sites/steinhuder-meer/03-80b61087-800w.webp"
+  - "/images/steinhuder-meer/01-c4fa77d9-800w.webp"
+  - "/images/steinhuder-meer/02-de2533cf-800w.webp"
+  - "/images/steinhuder-meer/03-80b61087-800w.webp"
 ---
 
 ## Overview

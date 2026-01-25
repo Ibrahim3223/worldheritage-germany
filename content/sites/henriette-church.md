@@ -1,19 +1,50 @@
 ---
-title: "Henriette Church"
-site_name: "Henriette Church"
-slug: "henriette-church"
-region: "Brandenburg"
-
-# Location
+title: Henriette Church
+site_name: Henriette Church
+slug: henriette-church
+region: Brandenburg
 latitude: 51.56202777777778
 longitude: 13.891027777777778
 regions:
-    - "Brandenburg"
-heritage_type: "cultural site"
+- Brandenburg
+heritage_type: cultural site
 categories:
-  - "cultural site"
-wikidata_id: "Q1606220"
-description: "Henriette Church, a notable Lutheran church located in the Oberspreewald-Lausitz district of Brandenburg, Germany, invites visitors to explore its Gothi..."
+- cultural site
+wikidata_id: Q1606220
+description: Henriette Church, a notable Lutheran church located in the Oberspreewald-Lausitz
+  district of Brandenburg, Germany, invites visitors to explore its Gothi...
+images:
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annah%C3%BCtte%20kirche.JPG/1200px-Annah%C3%BCtte%20kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Annahütte_Kirchturm.jpg/1200px-Annahütte_Kirchturm.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Annahütte_henriettenkirche2.JPG/1200px-Annahütte_henriettenkirche2.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/1200px-Annahütte_kirche.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Henriette-Orgel.JPG/1200px-Henriette-Orgel.JPG
+image_srcset:
+  Annah%C3%BCtte%20kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annah%C3%BCtte%20kirche.JPG/400px-Annah%C3%BCtte%20kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annah%C3%BCtte%20kirche.JPG/800px-Annah%C3%BCtte%20kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annah%C3%BCtte%20kirche.JPG/1200px-Annah%C3%BCtte%20kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Annah%C3%BCtte%20kirche.JPG/1920px-Annah%C3%BCtte%20kirche.JPG
+  Annahütte Kirchturm.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Annahütte_Kirchturm.jpg/400px-Annahütte_Kirchturm.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Annahütte_Kirchturm.jpg/800px-Annahütte_Kirchturm.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Annahütte_Kirchturm.jpg/1200px-Annahütte_Kirchturm.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Annahütte_Kirchturm.jpg/1920px-Annahütte_Kirchturm.jpg
+  Annahütte henriettenkirche2.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Annahütte_henriettenkirche2.JPG/400px-Annahütte_henriettenkirche2.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Annahütte_henriettenkirche2.JPG/800px-Annahütte_henriettenkirche2.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Annahütte_henriettenkirche2.JPG/1200px-Annahütte_henriettenkirche2.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Annahütte_henriettenkirche2.JPG/1920px-Annahütte_henriettenkirche2.JPG
+  Annahütte kirche.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/400px-Annahütte_kirche.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/800px-Annahütte_kirche.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/1200px-Annahütte_kirche.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Annahütte_kirche.JPG/1920px-Annahütte_kirche.JPG
+  Henriette-Orgel.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Henriette-Orgel.JPG/400px-Henriette-Orgel.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Henriette-Orgel.JPG/800px-Henriette-Orgel.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Henriette-Orgel.JPG/1200px-Henriette-Orgel.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Henriette-Orgel.JPG/1920px-Henriette-Orgel.JPG
 ---
 
 ## Overview

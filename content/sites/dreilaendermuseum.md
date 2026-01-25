@@ -1,21 +1,49 @@
 ---
-title: "Dreiländermuseum"
+title: Dreiländermuseum
 date: 2026-01-23
 draft: false
-description: "museum"
-region: "Germany"
-country: "Germany"
-heritage_type: "Museum"
+description: museum
+region: Germany
+country: Germany
+heritage_type: Museum
 categories:
-  - "Museum"
+- Museum
 regions:
-  - "Germany"
+- Germany
 latitude: 47.60985556
 longitude: 7.65989722
 images:
-  - "/images-sites/dreilaendermuseum/01-a5445a99-800w.webp"
-  - "/images-sites/dreilaendermuseum/02-fb3a7a45-800w.webp"
-  - "/images-sites/dreilaendermuseum/03-79e1b01a-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lörrach_-_Dreiländermuseum5.jpg/1200px-Lörrach_-_Dreiländermuseum5.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/1200px-Lörrach_-_Dreiländermuseum3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lörrach_-_Dreiländermuseum1.jpg/1200px-Lörrach_-_Dreiländermuseum1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lörrach_-_Dreiländermuseum2.jpg/1200px-Lörrach_-_Dreiländermuseum2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lörrach_-_Museum_am_Burghof.jpg/1200px-Lörrach_-_Museum_am_Burghof.jpg
+image_srcset:
+  Lörrach - Dreiländermuseum5.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lörrach_-_Dreiländermuseum5.jpg/400px-Lörrach_-_Dreiländermuseum5.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lörrach_-_Dreiländermuseum5.jpg/800px-Lörrach_-_Dreiländermuseum5.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lörrach_-_Dreiländermuseum5.jpg/1200px-Lörrach_-_Dreiländermuseum5.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lörrach_-_Dreiländermuseum5.jpg/1920px-Lörrach_-_Dreiländermuseum5.jpg
+  Lörrach - Dreiländermuseum3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/400px-Lörrach_-_Dreiländermuseum3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/800px-Lörrach_-_Dreiländermuseum3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/1200px-Lörrach_-_Dreiländermuseum3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lörrach_-_Dreiländermuseum3.jpg/1920px-Lörrach_-_Dreiländermuseum3.jpg
+  Lörrach - Dreiländermuseum1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lörrach_-_Dreiländermuseum1.jpg/400px-Lörrach_-_Dreiländermuseum1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lörrach_-_Dreiländermuseum1.jpg/800px-Lörrach_-_Dreiländermuseum1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lörrach_-_Dreiländermuseum1.jpg/1200px-Lörrach_-_Dreiländermuseum1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lörrach_-_Dreiländermuseum1.jpg/1920px-Lörrach_-_Dreiländermuseum1.jpg
+  Lörrach - Dreiländermuseum2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lörrach_-_Dreiländermuseum2.jpg/400px-Lörrach_-_Dreiländermuseum2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lörrach_-_Dreiländermuseum2.jpg/800px-Lörrach_-_Dreiländermuseum2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lörrach_-_Dreiländermuseum2.jpg/1200px-Lörrach_-_Dreiländermuseum2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Lörrach_-_Dreiländermuseum2.jpg/1920px-Lörrach_-_Dreiländermuseum2.jpg
+  Lörrach - Museum am Burghof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lörrach_-_Museum_am_Burghof.jpg/400px-Lörrach_-_Museum_am_Burghof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lörrach_-_Museum_am_Burghof.jpg/800px-Lörrach_-_Museum_am_Burghof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lörrach_-_Museum_am_Burghof.jpg/1200px-Lörrach_-_Museum_am_Burghof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lörrach_-_Museum_am_Burghof.jpg/1920px-Lörrach_-_Museum_am_Burghof.jpg
 ---
 
 ## Overview

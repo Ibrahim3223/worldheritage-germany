@@ -13,7 +13,7 @@ regions:
 latitude: 50.437269
 longitude: 10.39732
 images:
-  - "/images-sites/synagoge-berkach/01-cbea016c-800w.webp"
+  - "/images/synagoge-berkach/01-cbea016c-800w.webp"
 ---
 
 ## Overview

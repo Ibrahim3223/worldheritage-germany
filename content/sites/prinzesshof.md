@@ -13,7 +13,7 @@ regions:
 latitude: 53.9237
 longitude: 9.516
 images:
-  - "/images-sites/prinzesshof/01-8866250a-800w.webp"
+  - "/images/prinzesshof/01-8866250a-800w.webp"
 ---
 
 ## Overview

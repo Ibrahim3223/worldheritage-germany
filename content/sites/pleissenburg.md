@@ -21,9 +21,9 @@ longitude: 12.3721
 
 # Images
 images:
-  - "/images-sites/pleissenburg/01-bf9bbea4-800w.webp"
-  - "/images-sites/pleissenburg/02-1aec0692-800w.webp"
-  - "/images-sites/pleissenburg/03-c638d3a0-800w.webp"
+  - "/images/pleissenburg/01-bf9bbea4-800w.webp"
+  - "/images/pleissenburg/02-1aec0692-800w.webp"
+  - "/images/pleissenburg/03-c638d3a0-800w.webp"
 ---
 
 ## Overview

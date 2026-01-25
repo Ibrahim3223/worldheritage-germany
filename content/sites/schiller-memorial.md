@@ -13,7 +13,7 @@ regions:
 latitude: 50.0831
 longitude: 8.24593
 images:
-  - "/images-sites/schiller-memorial/03-273cce4f-800w.webp"
+  - "/images/schiller-memorial/03-273cce4f-800w.webp"
 ---
 
 ## Overview

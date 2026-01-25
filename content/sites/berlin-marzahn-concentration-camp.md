@@ -1,19 +1,49 @@
 ---
-title: "Berlin-Marzahn concentration camp"
+title: Berlin-Marzahn concentration camp
 date: 2026-01-23
 draft: false
-description: "Nazi forced labor camp for Romani and Sinti"
-region: "Germany"
-country: "Germany"
-heritage_type: "Memorial"
+description: Nazi forced labor camp for Romani and Sinti
+region: Germany
+country: Germany
+heritage_type: Memorial
 categories:
-  - "Memorial"
+- Memorial
 regions:
-  - "Germany"
+- Germany
 latitude: 52.5510779
 longitude: 13.5470238
 images:
-  - "/images-sites/berlin-marzahn-concentration-camp/01-11f583b3-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg/1200px-Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg/1200px-Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg/1200px-Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg/1200px-Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/1200px-Sintistein_parkfriedhof_marzahn_2003.jpg
+image_srcset:
+  Memorial stone for the fallen Italian soldiers of the Second World War Parkfriedhof Marzahn Berlin 2v2.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg/400px-Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg/800px-Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg/1200px-Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg/1920px-Memorial_stone_for_the_fallen_Italian_soldiers_of_the_Second_World_War_Parkfriedhof_Marzahn_Berlin_2v2.jpg
+  Memorial stone for the victims of Fascism (Parkfriedhof Marzahn) Berlin.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg/400px-Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg/800px-Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg/1200px-Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg/1920px-Memorial_stone_for_the_victims_of_Fascism_(Parkfriedhof_Marzahn)_Berlin.jpg
+  Gedenkstein Mühlenbecker Weg (Marza) Werner-Steinbrink-Denkmal&Siegfried Wehrmeister&19872.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg/400px-Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg/800px-Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg/1200px-Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg/1920px-Gedenkstein_Mühlenbecker_Weg_(Marza)_Werner-Steinbrink-Denkmal&Siegfried_Wehrmeister&19872.jpg
+  Gedenkstein Wiesenburger Weg 10 (Marza) Opfer des Stalinismus&Wilhelm Grässle&20022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg/400px-Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg/800px-Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg/1200px-Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg/1920px-Gedenkstein_Wiesenburger_Weg_10_(Marza)_Opfer_des_Stalinismus&Wilhelm_Grässle&20022.jpg
+  Sintistein parkfriedhof marzahn 2003.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/400px-Sintistein_parkfriedhof_marzahn_2003.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/800px-Sintistein_parkfriedhof_marzahn_2003.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/1200px-Sintistein_parkfriedhof_marzahn_2003.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sintistein_parkfriedhof_marzahn_2003.jpg/1920px-Sintistein_parkfriedhof_marzahn_2003.jpg
 ---
 
 ## Overview

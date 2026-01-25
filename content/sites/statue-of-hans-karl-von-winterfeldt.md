@@ -13,7 +13,7 @@ regions:
 latitude: 52.51189
 longitude: 13.38583
 images:
-  - "/images-sites/statue-of-hans-karl-von-winterfeldt/01-76424194-800w.webp"
+  - "/images/statue-of-hans-karl-von-winterfeldt/01-76424194-800w.webp"
 ---
 
 ## Overview

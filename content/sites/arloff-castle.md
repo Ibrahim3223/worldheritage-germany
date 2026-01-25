@@ -1,21 +1,49 @@
 ---
-title: "Arloff Castle"
+title: Arloff Castle
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 50.5925
 longitude: 6.78714
 images:
-  - "/images-sites/arloff-castle/01-5f84e68a-800w.webp"
-  - "/images-sites/arloff-castle/02-4aceb8eb-800w.webp"
-  - "/images-sites/arloff-castle/03-d6539b50-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Arloff_009b.jpg/1200px-Burg_Arloff_009b.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Arloff-2011.jpg/1200px-Burg_Arloff-2011.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arloff-Burganlage-Rückfront-007.JPG/1200px-Arloff-Burganlage-Rückfront-007.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arloff-Burgturm-und-Herrenhaus-004.JPG/1200px-Arloff-Burgturm-und-Herrenhaus-004.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Arloff-005.JPG/1200px-Burg-Arloff-005.JPG
+image_srcset:
+  Burg Arloff 009b.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Arloff_009b.jpg/400px-Burg_Arloff_009b.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Arloff_009b.jpg/800px-Burg_Arloff_009b.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Arloff_009b.jpg/1200px-Burg_Arloff_009b.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Burg_Arloff_009b.jpg/1920px-Burg_Arloff_009b.jpg
+  Burg Arloff-2011.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Arloff-2011.jpg/400px-Burg_Arloff-2011.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Arloff-2011.jpg/800px-Burg_Arloff-2011.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Arloff-2011.jpg/1200px-Burg_Arloff-2011.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Burg_Arloff-2011.jpg/1920px-Burg_Arloff-2011.jpg
+  Arloff-Burganlage-Rückfront-007.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arloff-Burganlage-Rückfront-007.JPG/400px-Arloff-Burganlage-Rückfront-007.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arloff-Burganlage-Rückfront-007.JPG/800px-Arloff-Burganlage-Rückfront-007.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arloff-Burganlage-Rückfront-007.JPG/1200px-Arloff-Burganlage-Rückfront-007.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arloff-Burganlage-Rückfront-007.JPG/1920px-Arloff-Burganlage-Rückfront-007.JPG
+  Arloff-Burgturm-und-Herrenhaus-004.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arloff-Burgturm-und-Herrenhaus-004.JPG/400px-Arloff-Burgturm-und-Herrenhaus-004.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arloff-Burgturm-und-Herrenhaus-004.JPG/800px-Arloff-Burgturm-und-Herrenhaus-004.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arloff-Burgturm-und-Herrenhaus-004.JPG/1200px-Arloff-Burgturm-und-Herrenhaus-004.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arloff-Burgturm-und-Herrenhaus-004.JPG/1920px-Arloff-Burgturm-und-Herrenhaus-004.JPG
+  Burg-Arloff-005.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Arloff-005.JPG/400px-Burg-Arloff-005.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Arloff-005.JPG/800px-Burg-Arloff-005.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Arloff-005.JPG/1200px-Burg-Arloff-005.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burg-Arloff-005.JPG/1920px-Burg-Arloff-005.JPG
 ---
 
 ## Overview

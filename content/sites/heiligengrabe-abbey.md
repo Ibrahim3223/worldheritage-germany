@@ -1,19 +1,49 @@
 ---
-title: "Heiligengrabe Abbey"
+title: Heiligengrabe Abbey
 date: 2026-01-23
 draft: false
-description: "Kloster in Heiligengrabe, Landkreis Ostprignitz-Ruppin, Brandenburg"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monastery"
+description: Kloster in Heiligengrabe, Landkreis Ostprignitz-Ruppin, Brandenburg
+region: Germany
+country: Germany
+heritage_type: Monastery
 categories:
-  - "Monastery"
+- Monastery
 regions:
-  - "Germany"
+- Germany
 latitude: 53.1415
 longitude: 12.3512
 images:
-  - "/images-sites/heiligengrabe-abbey/01-08d1cfa7-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg/1200px-20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg
+image_srcset:
+  Heiligengrabe, Kloster Stift zum Heiligengrabe, Abtei, Dachgeschoss -- 2017 -- 9904-10 (bw).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg/400px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg/800px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg/1920px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Dachgeschoss_--_2017_--_9904-10_(bw).jpg
+  Heiligengrabe, Kloster Stift zum Heiligengrabe, Abtei, Treppenturm -- 2017 -- 9941-7.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg/400px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg/800px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg/1920px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Treppenturm_--_2017_--_9941-7.jpg
+  Heiligengrabe, Kloster Stift zum Heiligengrabe, Westflügel der Abtei -- 2017 -- 0109.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg/400px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg/800px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg/1920px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Westflügel_der_Abtei_--_2017_--_0109.jpg
+  Heiligengrabe, Kloster Stift zum Heiligengrabe, Abtei, Fenster im Dormitorium -- 2017 -- 9972.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg/400px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg/800px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg/1200px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg/1920px-Heiligengrabe,_Kloster_Stift_zum_Heiligengrabe,_Abtei,_Fenster_im_Dormitorium_--_2017_--_9972.jpg
+  20030703450DR Kloster Stift zum Heiligengrabe Kreuzhof.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg/400px-20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg/800px-20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg/1200px-20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg/1920px-20030703450DR_Kloster_Stift_zum_Heiligengrabe_Kreuzhof.jpg
 ---
 
 ## Overview

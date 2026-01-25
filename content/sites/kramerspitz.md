@@ -13,9 +13,9 @@ regions:
 latitude: 47.507777777
 longitude: 11.047777777
 images:
-  - "/images-sites/kramerspitz/01-ae582ece-800w.webp"
-  - "/images-sites/kramerspitz/02-75a19218-800w.webp"
-  - "/images-sites/kramerspitz/03-cc26e40c-800w.webp"
+  - "/images/kramerspitz/01-ae582ece-800w.webp"
+  - "/images/kramerspitz/02-75a19218-800w.webp"
+  - "/images/kramerspitz/03-cc26e40c-800w.webp"
 ---
 
 ## Overview

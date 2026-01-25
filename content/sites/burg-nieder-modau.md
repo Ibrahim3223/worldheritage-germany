@@ -1,19 +1,49 @@
 ---
-title: "Burg Nieder-Modau"
+title: Burg Nieder-Modau
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 49.806833333
 longitude: 8.741472222
 images:
-  - "/images-sites/burg-nieder-modau/01-22809818-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burgstall_Nieder-Modau_Schlossberg_012.jpg/1200px-Burgstall_Nieder-Modau_Schlossberg_012.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Burgstall_Nieder-Modau_Schlossberg_018.jpg/1200px-Burgstall_Nieder-Modau_Schlossberg_018.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgstall_Nieder-Modau_Schlossberg_022.jpg/1200px-Burgstall_Nieder-Modau_Schlossberg_022.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1200px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Reliefbild_Burgstall_Nieder-Modau.png/1200px-Reliefbild_Burgstall_Nieder-Modau.png
+image_srcset:
+  Burgstall Nieder-Modau Schlossberg 012.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burgstall_Nieder-Modau_Schlossberg_012.jpg/400px-Burgstall_Nieder-Modau_Schlossberg_012.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burgstall_Nieder-Modau_Schlossberg_012.jpg/800px-Burgstall_Nieder-Modau_Schlossberg_012.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burgstall_Nieder-Modau_Schlossberg_012.jpg/1200px-Burgstall_Nieder-Modau_Schlossberg_012.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Burgstall_Nieder-Modau_Schlossberg_012.jpg/1920px-Burgstall_Nieder-Modau_Schlossberg_012.jpg
+  Burgstall Nieder-Modau Schlossberg 018.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Burgstall_Nieder-Modau_Schlossberg_018.jpg/400px-Burgstall_Nieder-Modau_Schlossberg_018.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Burgstall_Nieder-Modau_Schlossberg_018.jpg/800px-Burgstall_Nieder-Modau_Schlossberg_018.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Burgstall_Nieder-Modau_Schlossberg_018.jpg/1200px-Burgstall_Nieder-Modau_Schlossberg_018.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Burgstall_Nieder-Modau_Schlossberg_018.jpg/1920px-Burgstall_Nieder-Modau_Schlossberg_018.jpg
+  Burgstall Nieder-Modau Schlossberg 022.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgstall_Nieder-Modau_Schlossberg_022.jpg/400px-Burgstall_Nieder-Modau_Schlossberg_022.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgstall_Nieder-Modau_Schlossberg_022.jpg/800px-Burgstall_Nieder-Modau_Schlossberg_022.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgstall_Nieder-Modau_Schlossberg_022.jpg/1200px-Burgstall_Nieder-Modau_Schlossberg_022.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Burgstall_Nieder-Modau_Schlossberg_022.jpg/1920px-Burgstall_Nieder-Modau_Schlossberg_022.jpg
+  Burgstall Nieder-Modau Rekonstruktionsversuch.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/400px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/800px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1200px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burgstall_Nieder-Modau_Rekonstruktionsversuch.png/1920px-Burgstall_Nieder-Modau_Rekonstruktionsversuch.png
+  Reliefbild Burgstall Nieder-Modau.png:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Reliefbild_Burgstall_Nieder-Modau.png/400px-Reliefbild_Burgstall_Nieder-Modau.png
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Reliefbild_Burgstall_Nieder-Modau.png/800px-Reliefbild_Burgstall_Nieder-Modau.png
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Reliefbild_Burgstall_Nieder-Modau.png/1200px-Reliefbild_Burgstall_Nieder-Modau.png
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Reliefbild_Burgstall_Nieder-Modau.png/1920px-Reliefbild_Burgstall_Nieder-Modau.png
 ---
 
 ## Overview

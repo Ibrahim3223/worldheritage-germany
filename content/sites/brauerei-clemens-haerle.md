@@ -1,29 +1,43 @@
 ---
-title: "Brauerei Clemens Härle"
+title: Brauerei Clemens Härle
 date: 2026-01-23
 draft: false
-description: "trademark"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Brewery"
-
-# Taxonomies
+description: trademark
+region: Germany
+country: Germany
+heritage_type: Brewery
 categories:
-  - "Brewery"
+- Brewery
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 47.823611
 longitude: 10.024167
-
-# Images
 images:
-  - "/images-sites/brauerei-clemens-haerle/01-a3dcf6b5-800w.webp"
-  - "/images-sites/brauerei-clemens-haerle/02-96cec8f4-800w.webp"
-  - "/images-sites/brauerei-clemens-haerle/03-9014a670-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG/1200px-Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Härle_1.jpg/1200px-Härle_1.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Clemens-Härle-Kühlwagen.jpg/1200px-Clemens-Härle-Kühlwagen.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clemens_Härle_(Bier).jpg/1200px-Clemens_Härle_(Bier).jpg
+image_srcset:
+  Leutkirch im Allgäu (Alter Friedhof 2019) (1).JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG/400px-Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG/800px-Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG/1200px-Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG/1920px-Leutkirch_im_Allgäu_(Alter_Friedhof_2019)_(1).JPG
+  Härle 1.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Härle_1.jpg/400px-Härle_1.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Härle_1.jpg/800px-Härle_1.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Härle_1.jpg/1200px-Härle_1.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Härle_1.jpg/1920px-Härle_1.jpg
+  Clemens-Härle-Kühlwagen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Clemens-Härle-Kühlwagen.jpg/400px-Clemens-Härle-Kühlwagen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Clemens-Härle-Kühlwagen.jpg/800px-Clemens-Härle-Kühlwagen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Clemens-Härle-Kühlwagen.jpg/1200px-Clemens-Härle-Kühlwagen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Clemens-Härle-Kühlwagen.jpg/1920px-Clemens-Härle-Kühlwagen.jpg
+  Clemens Härle (Bier).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clemens_Härle_(Bier).jpg/400px-Clemens_Härle_(Bier).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clemens_Härle_(Bier).jpg/800px-Clemens_Härle_(Bier).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clemens_Härle_(Bier).jpg/1200px-Clemens_Härle_(Bier).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Clemens_Härle_(Bier).jpg/1920px-Clemens_Härle_(Bier).jpg
 ---
 
 ## Overview

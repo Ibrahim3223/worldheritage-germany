@@ -1,21 +1,49 @@
 ---
-title: "Bing Cave"
+title: Bing Cave
 date: 2026-01-23
 draft: false
-description: "show cave in Germany"
-region: "Germany"
-country: "Germany"
-heritage_type: "Cave"
+description: show cave in Germany
+region: Germany
+country: Germany
+heritage_type: Cave
 categories:
-  - "Cave"
+- Cave
 regions:
-  - "Germany"
+- Germany
 latitude: 49.8122
 longitude: 11.2169
 images:
-  - "/images-sites/bing-cave/01-4b74820a-800w.webp"
-  - "/images-sites/bing-cave/02-a9914279-800w.webp"
-  - "/images-sites/bing-cave/03-8ef68a21-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg/1200px-Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Binghöhle_14.JPG/1200px-Binghöhle_14.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Binghöhle_36.JPG/1200px-Binghöhle_36.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Binghöhle-200.jpg/1200px-Binghöhle-200.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Binghöhle-350.jpg/1200px-Binghöhle-350.jpg
+image_srcset:
+  Binghöhle Streitberg Stalagmiten vorn und Stalagtiten-oben.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg/400px-Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg/800px-Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg/1200px-Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg/1920px-Binghöhle_Streitberg_Stalagmiten_vorn_und_Stalagtiten-oben.jpg
+  Binghöhle 14.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Binghöhle_14.JPG/400px-Binghöhle_14.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Binghöhle_14.JPG/800px-Binghöhle_14.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Binghöhle_14.JPG/1200px-Binghöhle_14.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Binghöhle_14.JPG/1920px-Binghöhle_14.JPG
+  Binghöhle 36.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Binghöhle_36.JPG/400px-Binghöhle_36.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Binghöhle_36.JPG/800px-Binghöhle_36.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Binghöhle_36.JPG/1200px-Binghöhle_36.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Binghöhle_36.JPG/1920px-Binghöhle_36.JPG
+  Binghöhle-200.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Binghöhle-200.jpg/400px-Binghöhle-200.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Binghöhle-200.jpg/800px-Binghöhle-200.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Binghöhle-200.jpg/1200px-Binghöhle-200.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Binghöhle-200.jpg/1920px-Binghöhle-200.jpg
+  Binghöhle-350.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Binghöhle-350.jpg/400px-Binghöhle-350.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Binghöhle-350.jpg/800px-Binghöhle-350.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Binghöhle-350.jpg/1200px-Binghöhle-350.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Binghöhle-350.jpg/1920px-Binghöhle-350.jpg
 ---
 
 ## Overview

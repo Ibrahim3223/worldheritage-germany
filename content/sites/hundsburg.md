@@ -1,28 +1,37 @@
 ---
-title: "Hundsburg"
+title: Hundsburg
 date: 2026-01-23
 draft: false
-description: "mountain in Hesse, Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
-
-# Taxonomies
+description: mountain in Hesse, Germany
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 51.0717
 longitude: 9.23
-
-# Images
 images:
-  - "/images-sites/hundsburg/02-325cbb3d-800w.webp"
-  - "/images-sites/hundsburg/03-57516dcd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hundsburg_Düsseldorf.jpg/1200px-Hundsburg_Düsseldorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schwalmpforte.jpg/1200px-Schwalmpforte.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hundsburg_1876.jpg/1200px-Hundsburg_1876.jpg
+image_srcset:
+  Hundsburg Düsseldorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hundsburg_Düsseldorf.jpg/400px-Hundsburg_Düsseldorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hundsburg_Düsseldorf.jpg/800px-Hundsburg_Düsseldorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hundsburg_Düsseldorf.jpg/1200px-Hundsburg_Düsseldorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hundsburg_Düsseldorf.jpg/1920px-Hundsburg_Düsseldorf.jpg
+  Schwalmpforte.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schwalmpforte.jpg/400px-Schwalmpforte.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schwalmpforte.jpg/800px-Schwalmpforte.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schwalmpforte.jpg/1200px-Schwalmpforte.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schwalmpforte.jpg/1920px-Schwalmpforte.jpg
+  Hundsburg 1876.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hundsburg_1876.jpg/400px-Hundsburg_1876.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hundsburg_1876.jpg/800px-Hundsburg_1876.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hundsburg_1876.jpg/1200px-Hundsburg_1876.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hundsburg_1876.jpg/1920px-Hundsburg_1876.jpg
 ---
 
 ## Overview

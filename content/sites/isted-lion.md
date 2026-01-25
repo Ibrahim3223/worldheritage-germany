@@ -1,20 +1,43 @@
 ---
-title: "Isted Lion"
+title: Isted Lion
 date: 2026-01-23
 draft: false
-description: "sculpture"
-region: "Germany"
-country: "Germany"
-heritage_type: "Monument"
+description: sculpture
+region: Germany
+country: Germany
+heritage_type: Monument
 categories:
-  - "Monument"
+- Monument
 regions:
-  - "Germany"
+- Germany
 latitude: 54.78531076
 longitude: 9.42948818
 images:
-  - "/images-sites/isted-lion/02-95a2af18-800w.webp"
-  - "/images-sites/isted-lion/03-adcb247b-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flensburg_Lion.JPG/1200px-Flensburg_Lion.JPG
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Idstedt_Löwe_2018_hochkant.jpg/1200px-Idstedt_Löwe_2018_hochkant.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg/1200px-Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Idstedt_Löwe_Flensburg_Frontal.jpg/1200px-Idstedt_Löwe_Flensburg_Frontal.jpg
+image_srcset:
+  Flensburg Lion.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flensburg_Lion.JPG/400px-Flensburg_Lion.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flensburg_Lion.JPG/800px-Flensburg_Lion.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flensburg_Lion.JPG/1200px-Flensburg_Lion.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flensburg_Lion.JPG/1920px-Flensburg_Lion.JPG
+  Idstedt Löwe 2018 hochkant.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Idstedt_Löwe_2018_hochkant.jpg/400px-Idstedt_Löwe_2018_hochkant.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Idstedt_Löwe_2018_hochkant.jpg/800px-Idstedt_Löwe_2018_hochkant.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Idstedt_Löwe_2018_hochkant.jpg/1200px-Idstedt_Löwe_2018_hochkant.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Idstedt_Löwe_2018_hochkant.jpg/1920px-Idstedt_Löwe_2018_hochkant.jpg
+  Alter Friedhof Flensburg Idstedt Löwe.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg/400px-Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg/800px-Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg/1200px-Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg/1920px-Alter_Friedhof_Flensburg_Idstedt_Löwe.jpg
+  Idstedt Löwe Flensburg Frontal.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Idstedt_Löwe_Flensburg_Frontal.jpg/400px-Idstedt_Löwe_Flensburg_Frontal.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Idstedt_Löwe_Flensburg_Frontal.jpg/800px-Idstedt_Löwe_Flensburg_Frontal.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Idstedt_Löwe_Flensburg_Frontal.jpg/1200px-Idstedt_Löwe_Flensburg_Frontal.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Idstedt_Löwe_Flensburg_Frontal.jpg/1920px-Idstedt_Löwe_Flensburg_Frontal.jpg
 ---
 
 ## Overview

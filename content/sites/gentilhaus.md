@@ -1,27 +1,49 @@
 ---
-title: "Gentilhaus"
+title: Gentilhaus
 date: 2026-01-23
 draft: false
-description: "museum in Germany"
-
-# Display fields
-region: "Germany"
-country: "Germany"
-heritage_type: "Art Museum"
-
-# Taxonomies
+description: museum in Germany
+region: Germany
+country: Germany
+heritage_type: Art Museum
 categories:
-  - "Art Museum"
+- Art Museum
 regions:
-  - "Germany"
-
-# Location
+- Germany
 latitude: 49.9753
 longitude: 9.15994
-
-# Images
 images:
-  - "/images-sites/gentilhaus/01-ce68c92c-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aschaffenburg,_Grünewaldstraße_20-004.jpg/1200px-Aschaffenburg,_Grünewaldstraße_20-004.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1200px-Gentilhaus.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gentilhaus01.jpg/1200px-Gentilhaus01.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gentil-Haus_-_fasada.3.jpg/1200px-Gentil-Haus_-_fasada.3.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Widok_boczny_Domu_Gentila.JPG/1200px-Widok_boczny_Domu_Gentila.JPG
+image_srcset:
+  Aschaffenburg, Grünewaldstraße 20-004.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aschaffenburg,_Grünewaldstraße_20-004.jpg/400px-Aschaffenburg,_Grünewaldstraße_20-004.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aschaffenburg,_Grünewaldstraße_20-004.jpg/800px-Aschaffenburg,_Grünewaldstraße_20-004.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aschaffenburg,_Grünewaldstraße_20-004.jpg/1200px-Aschaffenburg,_Grünewaldstraße_20-004.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aschaffenburg,_Grünewaldstraße_20-004.jpg/1920px-Aschaffenburg,_Grünewaldstraße_20-004.jpg
+  Gentilhaus.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/400px-Gentilhaus.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/800px-Gentilhaus.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1200px-Gentilhaus.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gentilhaus.jpg/1920px-Gentilhaus.jpg
+  Gentilhaus01.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gentilhaus01.jpg/400px-Gentilhaus01.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gentilhaus01.jpg/800px-Gentilhaus01.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gentilhaus01.jpg/1200px-Gentilhaus01.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gentilhaus01.jpg/1920px-Gentilhaus01.jpg
+  Gentil-Haus - fasada.3.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gentil-Haus_-_fasada.3.jpg/400px-Gentil-Haus_-_fasada.3.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gentil-Haus_-_fasada.3.jpg/800px-Gentil-Haus_-_fasada.3.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gentil-Haus_-_fasada.3.jpg/1200px-Gentil-Haus_-_fasada.3.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gentil-Haus_-_fasada.3.jpg/1920px-Gentil-Haus_-_fasada.3.jpg
+  Widok boczny Domu Gentila.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Widok_boczny_Domu_Gentila.JPG/400px-Widok_boczny_Domu_Gentila.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Widok_boczny_Domu_Gentila.JPG/800px-Widok_boczny_Domu_Gentila.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Widok_boczny_Domu_Gentila.JPG/1200px-Widok_boczny_Domu_Gentila.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Widok_boczny_Domu_Gentila.JPG/1920px-Widok_boczny_Domu_Gentila.JPG
 ---
 
 ## Overview

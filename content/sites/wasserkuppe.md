@@ -13,7 +13,7 @@ regions:
 latitude: 50.498055555
 longitude: 9.937777777
 images:
-  - "/images-sites/wasserkuppe/01-995d12cc-800w.webp"
+  - "/images/wasserkuppe/01-995d12cc-800w.webp"
 ---
 
 ## Overview

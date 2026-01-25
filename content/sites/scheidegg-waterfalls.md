@@ -13,7 +13,7 @@ regions:
 latitude: 47.5918
 longitude: 9.8395
 images:
-  - "/images-sites/scheidegg-waterfalls/01-65f0a03c-800w.webp"
+  - "/images/scheidegg-waterfalls/01-65f0a03c-800w.webp"
 ---
 
 ## Overview

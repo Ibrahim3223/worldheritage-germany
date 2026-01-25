@@ -1,19 +1,37 @@
 ---
-title: "Haus Heck"
+title: Haus Heck
 date: 2026-01-23
 draft: false
-description: "castle"
-region: "Germany"
-country: "Germany"
-heritage_type: "Castle"
+description: castle
+region: Germany
+country: Germany
+heritage_type: Castle
 categories:
-  - "Castle"
+- Castle
 regions:
-  - "Germany"
+- Germany
 latitude: 51.391055555
 longitude: 7.001527777
 images:
-  - "/images-sites/haus-heck/01-b46b0ddd-800w.webp"
+- https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg/1200px-Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg/1200px-Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg/1200px-Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg
+image_srcset:
+  Hessenpark, Dreiseithof aus Friedensdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg/400px-Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg/800px-Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg/1200px-Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg/1920px-Hessenpark,_Dreiseithof_aus_Friedensdorf.jpg
+  Hessenpark, Haus Heck aus Friedensdorf.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg/400px-Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg/800px-Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg/1200px-Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg/1920px-Hessenpark,_Haus_Heck_aus_Friedensdorf.jpg
+  Hessenpark, Haus Heck und Scheune aus Mornshausen.jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg/400px-Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg/800px-Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg/1200px-Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg/1920px-Hessenpark,_Haus_Heck_und_Scheune_aus_Mornshausen.jpg
 ---
 
 ## Overview

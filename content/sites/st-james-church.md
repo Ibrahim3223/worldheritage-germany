@@ -15,9 +15,9 @@ categories:
 wikidata_id: "Q564532"
 description: "St. James Church, a striking edifice in Hamburg-Mitte, is not only one of the citys main churches but also a landmark that carries centuries of history ..."
 images:
-  - "/images-sites/st-james-church/01-e82e5db7-1920w.webp"
-  - "/images-sites/st-james-church/02-f28abe65-1920w.webp"
-  - "/images-sites/st-james-church/03-e8097106-1920w.webp"
+  - "/images/st-james-church/01-e82e5db7-1920w.webp"
+  - "/images/st-james-church/02-f28abe65-1920w.webp"
+  - "/images/st-james-church/03-e8097106-1920w.webp"
 ---
 
 ## Overview

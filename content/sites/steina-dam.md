@@ -13,7 +13,7 @@ regions:
 latitude: 51.6118
 longitude: 10.5064
 images:
-  - "/images-sites/steina-dam/01-d7724c9b-800w.webp"
+  - "/images/steina-dam/01-d7724c9b-800w.webp"
 ---
 
 ## Overview
